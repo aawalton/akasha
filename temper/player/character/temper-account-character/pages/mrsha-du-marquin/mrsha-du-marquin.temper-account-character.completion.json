@@ -11191,6 +11191,7 @@
       ],
       "3": [
         1,
+        2,
         4
       ],
       "4": [
@@ -12743,11 +12744,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-10-18",
+    "date": "2026-10-19",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-18",
+    "date": "2026-10-19",
     "seen": [
       5,
       3,
@@ -12758,56 +12759,56 @@
       7
     ],
     "completed": [
-      5,
-      4,
-      7,
-      3,
+      1,
       6,
       2,
-      1
+      7,
+      4,
+      5,
+      3
     ]
   },
   "inventoryCheck": {
-    "date": "2026-10-18",
-    "misplaced": 0
+    "date": "2026-10-19",
+    "misplaced": 15
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792330186,
+      "capturedAt": 1792428744,
       "inCombat": false,
       "stats": {
-        "health-recovery": 399,
-        "power-spell": 3014,
         "health-maximum": 30064,
-        "critical-rating-spell": 2720,
-        "stamina-recovery": 1592,
-        "power-weapon": 3014,
+        "penetration-spell": 7774,
+        "resistance-physical": 13244,
         "stamina-maximum": 18991,
-        "resistance-critical": 1320,
         "penetration-physical": 7774,
-        "resistance-spell": 13970,
+        "critical-rating-spell": 2720,
         "magicka-recovery": 754,
         "critical-rating-weapon": 2720,
+        "stamina-recovery": 1592,
+        "resistance-spell": 13970,
+        "power-spell": 3014,
+        "power-weapon": 3014,
+        "health-recovery": 399,
         "magicka-maximum": 13972,
-        "penetration-spell": 7774,
-        "resistance-physical": 13244
+        "resistance-critical": 1320
       },
       "unbonusedStats": {
-        "health-recovery": 399,
-        "power-spell": 1000,
         "health-maximum": 30064,
-        "critical-rating-spell": 2181,
-        "stamina-recovery": 1592,
-        "power-weapon": 1000,
+        "penetration-spell": 0,
+        "resistance-physical": 0,
         "stamina-maximum": 18991,
-        "resistance-critical": 0,
         "penetration-physical": 0,
-        "resistance-spell": 0,
+        "critical-rating-spell": 2181,
         "magicka-recovery": 754,
         "critical-rating-weapon": 2181,
+        "stamina-recovery": 1592,
+        "resistance-spell": 0,
+        "power-spell": 1000,
+        "power-weapon": 1000,
+        "health-recovery": 399,
         "magicka-maximum": 13972,
-        "penetration-spell": 0,
-        "resistance-physical": 0
+        "resistance-critical": 0
       },
       "activeBuffs": [
         {
@@ -13621,38 +13622,38 @@
       "capturedAt": 1792249041,
       "inCombat": false,
       "stats": {
-        "health-recovery": 399,
-        "power-spell": 2939,
         "health-maximum": 30064,
-        "critical-rating-spell": 2720,
-        "stamina-recovery": 1595,
-        "power-weapon": 2939,
-        "stamina-maximum": 18991,
-        "resistance-critical": 1320,
-        "penetration-physical": 4915,
-        "resistance-spell": 13970,
-        "magicka-recovery": 756,
-        "critical-rating-weapon": 2720,
-        "magicka-maximum": 13972,
         "penetration-spell": 4915,
-        "resistance-physical": 13244
+        "power-spell": 2939,
+        "stamina-maximum": 18991,
+        "penetration-physical": 4915,
+        "resistance-physical": 13244,
+        "critical-rating-spell": 2720,
+        "magicka-maximum": 13972,
+        "stamina-recovery": 1595,
+        "resistance-spell": 13970,
+        "critical-rating-weapon": 2720,
+        "magicka-recovery": 756,
+        "health-recovery": 399,
+        "power-weapon": 2939,
+        "resistance-critical": 1320
       },
       "unbonusedStats": {
-        "health-recovery": 399,
-        "power-spell": 1000,
         "health-maximum": 30064,
-        "critical-rating-spell": 2181,
-        "stamina-recovery": 1595,
-        "power-weapon": 1000,
-        "stamina-maximum": 18991,
-        "resistance-critical": 0,
-        "penetration-physical": 0,
-        "resistance-spell": 0,
-        "magicka-recovery": 756,
-        "critical-rating-weapon": 2181,
-        "magicka-maximum": 13972,
         "penetration-spell": 0,
-        "resistance-physical": 0
+        "power-spell": 1000,
+        "stamina-maximum": 18991,
+        "penetration-physical": 0,
+        "resistance-physical": 0,
+        "critical-rating-spell": 2181,
+        "magicka-maximum": 13972,
+        "stamina-recovery": 1595,
+        "resistance-spell": 0,
+        "critical-rating-weapon": 2181,
+        "magicka-recovery": 756,
+        "health-recovery": 399,
+        "power-weapon": 1000,
+        "resistance-critical": 0
       },
       "activeBuffs": [
         {
