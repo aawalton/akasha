@@ -1,0 +1,3 @@
+{"id":"01a1567d-801b-7000-ab4d-5f026b78f35d","metricId":"temper-metric-tree/metric-health-maximum","type":"integer","value":10000}
+{"id":"01a1567d-801b-7001-af9a-d6fb3534754d","metricId":"temper-metric-tree/metric-magicka-maximum","type":"integer","value":10000}
+{"id":"01a1567d-801b-7002-9bb6-2d43c963d675","metricId":"temper-metric-tree/metric-stamina-maximum","type":"integer","value":10000}
