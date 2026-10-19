@@ -12,20 +12,23 @@ const TYPE_AT = "temper/player/character/stat/temper-stat-case/temper-stat-case.
 
 const CASES_AT = "temper/player/character/stat/temper-stat-case/pages"
 
-const COMPLETION = JSON.stringify({
+const FRONT_BAR = {
+  capturedAt: 1791997005,
+  esoVersion: "eso.live.12.1.6.3309674",
+  inCombat: false,
+  stats: { "health-maximum": 32651, "resistance-physical": 32382 },
+  activeBuffs: [{ abilityId: 61694, name: "Major Resolve" }],
+  championPoints: [{ championSkillId: 2, points: 50, maxPoints: 50, bonus: "" }],
+}
+
+const COMPLETION = JSON.stringify({ buildHash: "ATQI", reportedStats: { frontBar: FRONT_BAR } })
+
+const UNVERSIONED_COMPLETION = JSON.stringify({
   buildHash: "ATQI",
-  reportedStats: {
-    frontBar: {
-      capturedAt: 1791997005,
-      inCombat: false,
-      stats: { "health-maximum": 32651, "resistance-physical": 32382 },
-      activeBuffs: [{ abilityId: 61694, name: "Major Resolve" }],
-      championPoints: [{ championSkillId: 2, points: 50, maxPoints: 50, bonus: "" }],
-    },
-  },
+  reportedStats: { frontBar: { ...FRONT_BAR, esoVersion: undefined } },
 })
 
-function worldOf(cases: readonly string[]): World {
+function worldOf(cases: readonly string[], completion: string = COMPLETION): World {
   const listedAt = (kind: string, slug: string): readonly { readonly path: string }[] => {
     if (kind === "page-type" && slug === "temper-stat-case") return [{ path: TYPE_AT }]
     if (kind === "temper-account-character" && slug === "erin") return [{ path: CHARACTER_AT }]
@@ -36,7 +39,7 @@ function worldOf(cases: readonly string[]): World {
   return {
     root: "/nowhere",
     index: Object.assign({} as World["index"], { listedAt }),
-    textOf: (path) => (path === COMPLETION_AT ? COMPLETION : null),
+    textOf: (path) => (path === COMPLETION_AT ? completion : null),
     bodyOf: () => null,
     under: () => [],
     base: () => null,
@@ -73,6 +76,7 @@ test("the stats file keeps the buffs and stars listed, and the pinned stats and 
   const body = JSON.parse(stats?.kind === "add" ? stats.content : "{}")
 
   expect(body.bar).toBe("primary-weapon-bar")
+  expect(body.esoVersion).toBe("eso.live.12.1.6.3309674")
   expect(body.activeBuffs).toEqual([{ abilityId: 61694, name: "Major Resolve" }])
   expect(body.championPoints).toEqual([{ championSkillId: 2, points: 50, maxPoints: 50 }])
   expect(body.pinned).toEqual({ "health-maximum": 32651 })
@@ -110,6 +114,16 @@ test("a bar with no reading is refused", () => {
   const said = pinStatCaseCommand(worldOf([]), { character: "erin", bar: "back" }, pinAll)
 
   expect(said.refused ?? "").toMatch(/no back bar reading/)
+})
+
+test("a reading that records no game version is refused", () => {
+  const said = pinStatCaseCommand(
+    worldOf([], UNVERSIONED_COMPLETION),
+    { character: "erin", bar: "front" },
+    pinAll
+  )
+
+  expect(said.refused ?? "").toMatch(/records no game version/)
 })
 
 test("a character naming no page is refused", () => {

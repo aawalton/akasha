@@ -3,6 +3,7 @@
   "bar": "primary-weapon-bar",
   "buildHash": "ATQIQsUAAIBkRRPQuYLbkhcwW3JC5gtuSFzBbckLmC25UEdvUARkMvNoA6tBhOcfsYqZM8g4AAAAOqGAABBGoJACAMAAEgAQAAgAAEIAAGTgBGAMwADIACERhQACGSQOBGIgBhAAAAEAYAOQBCA4AACGBxl0a9RmRYkyseTLLmTZ2fRp1a9s-hRpU6niqsbR2Rs8fXL0DFkhaImyN07SJUyd-oUwVUJXHWGDhskbAlSwIwDCBQxk0HECTZwULGDRw8gRJHSYAIDIOMSBrA",
   "capturedAt": 1792434683,
+  "esoVersion": "eso.live.12.1.6.3309674",
   "inCombat": false,
   "activeBuffs": [
     { "abilityId": 63569, "name": "Gallop" },

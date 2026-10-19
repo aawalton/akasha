@@ -3,6 +3,7 @@
   "bar": "primary-weapon-bar",
   "buildHash": "ATQILMUAAIBhxRNCyJtACFkTaAELmC25IXMFtyQuYLbkhcwW3JC5gtuQhKVbckEdvUACCDdtyJiUx23KIgmOtuV9IwnOLRMVTyekSX0s0HVMkAAyzlUhFAGWpTgAIAGYAECEKgLJwg9AHYADmQBKC4pUBDJoFojMxIwgYAQCCc5HKRhQdIUZDg4AAAAA1IsScMrHkyy5k2dn0adWvbPoUaVOp4qgAAAAbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1gAAAAGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0m-CAyDjEgaw",
   "capturedAt": 1792437368,
+  "esoVersion": "eso.live.12.1.6.3309674",
   "inCombat": true,
   "activeBuffs": [
     { "abilityId": 43752, "name": "Soul Summons" },

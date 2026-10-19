@@ -3,6 +3,7 @@
   "bar": "primary-weapon-bar",
   "buildHash": "ATQIxqUAAIBhBRNC0_tACFp_aAALmCW5AXMEtyAuYJbkBcwS3IC5gluQg0drchBAp25CCBTtyJhEx2gCIgmOtuVWgwnOGKDhTwAAAAAAADhMkAAgjWEgDgGEATQgIAAQAACECADJwA7AGYADmABKA4oABDJIFQnExAwgQAQCCMwHOBhwdIAYTg4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrGytkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyFjEgah7KAs",
   "capturedAt": 1792430320,
+  "esoVersion": "eso.live.12.1.6.3309674",
   "inCombat": true,
   "activeBuffs": [
     { "abilityId": 61694, "name": "Major Resolve" },

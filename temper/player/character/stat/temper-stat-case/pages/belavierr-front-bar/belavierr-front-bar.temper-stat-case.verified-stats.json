@@ -3,6 +3,7 @@
   "bar": "primary-weapon-bar",
   "buildHash": "ATQISsTAAIBkBRMi5V1ACFrPLclLVOUAIWqcoAQtU5QAhapygBC1TlACCUnKAEEpOUAIJScoAJNFJygCTCKTlAF9IwnOQUftAh1D3AAAAHVMkAAgjUEABAGAACQAIBAQQACEAADJwAjAGYADkABCA0IABDJIFAjEQgwhQCgiAMAHIAxAcEABDA4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWNlbI2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBw2SNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpOAEBkLEMEnYOQNY",
   "capturedAt": 1792427304,
+  "esoVersion": "eso.live.12.1.6.3309674",
   "inCombat": false,
   "activeBuffs": [
     { "abilityId": 89957, "name": "Dubious Camoran Throne" },

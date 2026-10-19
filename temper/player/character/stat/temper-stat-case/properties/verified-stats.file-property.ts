@@ -14,10 +14,14 @@ export const verifiedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The file names the game version the stats were read under.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The file keeps each pinned stat and each known gap with the game's number.",
     },
   ],
   types: "ts",
   createdAt: "2026-10-14T17:14:53.326Z",
-  updatedAt: "2026-10-14T17:14:53.326Z",
+  updatedAt: "2026-10-19T20:03:36.836Z",
 } as const satisfies FileProperty

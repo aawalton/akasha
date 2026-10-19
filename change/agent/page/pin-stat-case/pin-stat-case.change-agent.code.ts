@@ -77,6 +77,10 @@ export function pinStatCaseCommand(world: World, given: Asked, pin: Pin): Answer
   if (buildHash === undefined || reading?.activeBuffs === undefined) {
     return refusing(`\`${character}\` holds no ${named} bar reading with its buffs to pin`)
   }
+  const { esoVersion } = reading
+  if (esoVersion === undefined) {
+    return refusing(`the ${named} bar reading of \`${character}\` records no game version`)
+  }
   const slug = given[SLUG] ?? `${character}-${named}-bar-${stampOf(reading.capturedAt)}`
   const there = world.index.listedAt(temperStatCase.slug, slug)[0]
   if (there !== undefined) return refusing(`\`${slug}\` is a case already, at \`${there.path}\``)
@@ -91,6 +95,7 @@ export function pinStatCaseCommand(world: World, given: Asked, pin: Pin): Answer
     bar,
     buildHash,
     capturedAt: reading.capturedAt,
+    esoVersion,
     inCombat: reading.inCombat,
     activeBuffs: reading.activeBuffs,
     championPoints: reading.championPoints ?? [],

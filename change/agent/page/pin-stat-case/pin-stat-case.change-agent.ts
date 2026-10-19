@@ -28,6 +28,10 @@ export const pinStatCase = {
       statement: "A slug some case is named already is refused.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading that records no game version is refused.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "This change reaches no mechanical change.",
     },
@@ -36,5 +40,5 @@ export const pinStatCase = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-10-14T17:23:45.028Z",
-  updatedAt: "2026-10-14T17:23:45.028Z",
+  updatedAt: "2026-10-19T20:03:36.836Z",
 } as const satisfies ChangeAgent
