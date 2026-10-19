@@ -11,6 +11,7 @@ export const rationer = {
   championConstellation: "craft",
   isSlottable: false,
   hashPlace: 5,
+  jumpPoints: [0, 10, 20, 30],
   createdAt: "2026-09-27T05:00:00.923Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:57:09.510Z",
 } as const satisfies TemperChampionStar
