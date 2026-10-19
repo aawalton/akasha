@@ -26,6 +26,13 @@ export const nimueCorrectFormulas = {
         "Fights land in each character's fights.jsonl, with the build hash where the reader saw the fight live.",
     },
   ],
+  constraints: [
+    "A verified test case is a number the game showed for a captured build state.",
+    "A formula passes a verified test case only by reproducing that number exactly.",
+    "A number from a guide or another site is never a verified test case.",
+    "Every term that changes a formula's result has a verified test case.",
+    "Nimue may ask Alan for a build change that yields a test case or the data a formula needs.",
+  ],
   createdAt: "2026-10-19T19:28:43.842Z",
-  updatedAt: "2026-10-19T19:28:43.842Z",
+  updatedAt: "2026-10-19T19:31:05.060Z",
 } as const satisfies Initiative
