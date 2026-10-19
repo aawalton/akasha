@@ -66,12 +66,20 @@ function foundIn(
   return found
 }
 
-function watchingOf(pid: number, hot: Set<bigint>): Watching {
+function stillHeld(read: Reader, global: Global | null | undefined): Global | null {
+  return global === null || global === undefined || globalHeld(read, global) === null
+    ? null
+    : global
+}
+
+function watchingOf(pid: number, hot: Set<bigint>, before: Watching | null): Watching {
   const started = Date.now()
   const read = readerOf(pid)
   const regions = regionsOf(pid)
-  const characters = foundIn(read, regions, hot, CHARACTERS_GLOBAL)
-  const fights = foundIn(read, regions, hot, FIGHTS_GLOBAL)
+  const kept = before?.pid === pid ? before : null
+  const characters =
+    foundIn(read, regions, hot, CHARACTERS_GLOBAL) ?? stillHeld(read, kept?.characters)
+  const fights = foundIn(read, regions, hot, FIGHTS_GLOBAL) ?? stillHeld(read, kept?.fights)
   const found = [characters === null ? null : "characters", fights === null ? null : "fights"]
   const named = found.filter((one) => one !== null).join(" and ") || "nothing"
   say(`found ${named} in process ${pid} in ${Date.now() - started} ms`)
@@ -116,7 +124,7 @@ export async function runService(): Promise<never> {
       if (pid === null) watching = null
       else if (stale(watching, pid, now) && now - scannedAt >= FIND_AT_MOST_MS) {
         scannedAt = now
-        watching = watchingOf(pid, hot)
+        watching = watchingOf(pid, hot, watching)
         scannedAt = Date.now()
       }
       if (pid !== null && watching !== null) {

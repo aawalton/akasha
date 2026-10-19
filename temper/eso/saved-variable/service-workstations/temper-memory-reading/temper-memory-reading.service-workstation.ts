@@ -37,6 +37,10 @@ export const temperMemoryReading = {
       statement: "The globals are found again where they no longer read, and once a minute.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A global that a search misses is kept while it still reads.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement:
         "Each new reading of a bar replaces the last in the game, so a slow look loses it.",
@@ -51,5 +55,5 @@ export const temperMemoryReading = {
     },
   ],
   createdAt: "2026-10-19T19:08:25.036Z",
-  updatedAt: "2026-10-19T22:13:18.681Z",
+  updatedAt: "2026-10-19T23:11:59.681Z",
 } as const satisfies ServiceWorkstation
