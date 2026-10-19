@@ -13,6 +13,7 @@ export const hasty = {
     { metric: "temper-metric/movement-sprint-speed", effectType: "fractional-change", value: 0.04 },
   ],
   hashPlace: 31,
+  jumpPoints: [0, 8, 16],
   createdAt: "2026-09-27T05:00:00.922Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:56:31.514Z",
 } as const satisfies TemperChampionStar
