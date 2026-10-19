@@ -11,6 +11,7 @@ export const preparation = {
   isSlottable: false,
   effects: [{ metric: "temper-metric/damage-taken", effectType: "fractional-change", value: -0.1 }],
   hashPlace: 81,
+  jumpPoints: [0, 10, 20],
   createdAt: "2026-09-27T05:00:00.923Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:57:14.755Z",
 } as const satisfies TemperChampionStar
