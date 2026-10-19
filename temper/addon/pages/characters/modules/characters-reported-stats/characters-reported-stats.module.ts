@@ -106,7 +106,24 @@ export const charactersReportedStats = {
       statement:
         "A passive's ability ids are listed in rank order, so a place in the list is a rank.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading keeps the build hash worked out in the same capture as its stats.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game's stats can trail a build change by one capture.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reading is kept only where a capture a second or more later gives the same bar, build and stats.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A capture that disagrees five times running is dropped rather than kept.",
+    },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-19T23:51:16.275Z",
+  updatedAt: "2026-10-19T23:52:50.174Z",
 } as const satisfies Module

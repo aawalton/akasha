@@ -509,6 +509,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-keyed-merge/characters-keyed-merge.module.ts","id":"01a062ea-5f64-7fa1-aa0a-0b08766288df"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-populated-name/characters-populated-name.module.ts","id":"01a062ea-5f76-7fa2-a4a3-a8b92e04561d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-progress-tally/characters-progress-tally.module.ts","id":"01a062ee-eff1-7066-8ae2-e9910475597e"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-reported-stats/characters-reported-stats.module.ts","id":"01a13aba-15a3-7b78-9f8e-67140b6bcc70"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-auto-complete/characters-task-auto-complete.module.ts","id":"01a06306-f94f-700b-8c39-f425d7ea4a81"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-card-match/characters-task-card-match.module.ts","id":"01a062ee-efdd-7065-b808-78f99e6b809a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver/characters-task-progress-resolver.module.ts","id":"01a062ee-f0bd-7071-8b01-5c61376d23f5"}

@@ -194,6 +194,7 @@ const archiveBoonSchema = z.strictObject({
 
 export const reportedStatsReadingSchema = z.strictObject({
   capturedAt: z.number(),
+  buildHash: buildHashSchema.optional(),
   esoVersion: z.string().optional(),
   inCombat: z.boolean(),
   stats: z.record(z.string(), z.number()),
