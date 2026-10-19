@@ -9,7 +9,8 @@ export const temperEsoGenerateAnswers = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file the call does not name is read from the game's live install.",
+      statement:
+        "The answers are read from the capture landed beside the engine answer domain page.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -37,7 +38,7 @@ export const temperEsoGenerateAnswers = {
     },
   ],
   name: "answers",
-  arguments: [{ argument: "argument/code-root" }, { argument: "argument/saved-variables-file" }],
+  arguments: [{ argument: "argument/code-root" }],
   createdAt: "2026-09-24T16:10:29.272Z",
-  updatedAt: "2026-09-24T16:11:24.000Z",
+  updatedAt: "2026-10-19T17:44:58.868Z",
 } as const satisfies Command

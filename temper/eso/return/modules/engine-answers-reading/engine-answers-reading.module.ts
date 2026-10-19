@@ -10,7 +10,7 @@ export const engineAnswersReading = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The answers are read from the first account holding them, by sorted name.",
+      statement: "The answers are read from the engine answer catalog's table, handed in whole.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -18,7 +18,7 @@ export const engineAnswersReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file that will not parse is read as nothing rather than raising.",
+      statement: "No capture handed in is read as nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -34,5 +34,5 @@ export const engineAnswersReading = {
     },
   ],
   createdAt: "2026-09-24T16:09:14.995Z",
-  updatedAt: "2026-09-24T16:38:07.000Z",
+  updatedAt: "2026-10-19T17:44:58.868Z",
 } as const satisfies Module

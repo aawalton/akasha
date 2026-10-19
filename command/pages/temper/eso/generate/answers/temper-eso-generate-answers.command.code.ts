@@ -7,7 +7,6 @@ import {
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { codeRoot as codeRootArgument } from "akasha/command/argument/pages/code-root.argument.ts"
-import { savedVariablesFile as savedVariablesFileArgument } from "akasha/command/argument/pages/saved-variables-file.argument.ts"
 import {
   DATA,
   OPERATIONAL,
@@ -22,14 +21,16 @@ import {
 import { temperEsoGenerateAnswers as page } from "akasha/command/pages/temper/eso/generate/answers/temper-eso-generate-answers.command.ts"
 import { captureTextAt } from "akasha/command/pages/temper/eso/generate/modules/capture-text/capture-text.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
-import { resolveSavedVariablesPath } from "akasha/temper/catalog/side-file/modules/catalog-file-paths/catalog-file-paths.module.code.ts"
+import { capturedCatalog } from "akasha/temper/catalog/world/temper-catalog-domain/modules/catalog-capture-reading/catalog-capture-reading.module.code.ts"
 import {
   answersBody,
   engineAnswersIn,
 } from "akasha/temper/eso/return/modules/engine-answers-reading/engine-answers-reading.module.code.ts"
 import { ANSWERS_AT } from "akasha/temper/eso/return/modules/engine-answers-seeding/engine-answers-seeding.module.code.ts"
 
-const NAMED = [codeRootArgument, savedVariablesFileArgument] as const
+const NAMED = [codeRootArgument] as const
+
+const DOMAIN = "engineAnswerCatalog"
 
 const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
@@ -46,24 +47,27 @@ async function answersWritten(taken: Taken, given: Given): Promise<Answer> {
     return refused(`\`${named}\` is no checkout on this disk, so nothing was read or written`, DATA)
   }
 
-  const from = resolveSavedVariablesPath(taken.savedVariablesFile)
-  const capture = await captureTextAt(from)
-  if (capture === null) {
-    return refused(`\`${from}\` is no file this can read, so there is no capture to write`, DATA)
+  const capture = capturedCatalog(root, DOMAIN)
+  if (capture === undefined) {
+    return refused(
+      `the \`${DOMAIN}\` domain has no capture landed beside its page, so there is nothing to write` +
+        " — the watcher lands it when the game next reloads",
+      DATA
+    )
   }
 
   const held = engineAnswersIn(capture)
   const count = held === undefined ? 0 : Object.keys(held.answers).length
   if (held === undefined || count === 0) {
     return refused(
-      `\`${from}\` carries no answers, so the table was left as it is` +
+      `the \`${DOMAIN}\` capture carries no answers, so the table was left as it is` +
         " — the game collects them when it next reloads",
       DATA
     )
   }
 
   const body = answersBody(held)
-  const said = `read from ${from} at API version ${String(held.apiVersion)}`
+  const said = `read from the \`${DOMAIN}\` capture at API version ${String(held.apiVersion)}`
   if ((await captureTextAt(join(root, ANSWERS_AT))) === body) {
     return told([`\`${ANSWERS_AT}\` already holds what the capture says, so nothing landed`, said])
   }

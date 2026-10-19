@@ -1,11 +1,5 @@
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import type { EngineAnswer } from "akasha/temper/capture/shape/modules/engine-answer-catalog/engine-answer-catalog.module.code.ts"
-import { accountWideHolding } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
-import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
-
-const TOP_LEVEL = "TemperCatalog_SavedVariables"
-
-const HELD = "engineAnswerCatalog"
 
 const NO_VERSION = 0
 
@@ -41,14 +35,9 @@ export function listedIn(held: Readonly<Record<string, unknown>>): readonly Engi
   }
 }
 
-export function engineAnswersIn(content: string): EngineAnswers | undefined {
-  let root: Record<string, unknown>
-  try {
-    root = parseLuaSavedVariablesFile(content, TOP_LEVEL)
-  } catch {
-    return undefined
-  }
-  const catalog = accountWideHolding(root, HELD)
+export function engineAnswersIn(
+  catalog: Readonly<Record<string, unknown>> | undefined
+): EngineAnswers | undefined {
   if (catalog === undefined || !isRecord(catalog.answers)) return undefined
   const answersGiven: Record<string, Listed> = {}
   const byName = isRecord(catalog.answersGiven) ? catalog.answersGiven : {}
