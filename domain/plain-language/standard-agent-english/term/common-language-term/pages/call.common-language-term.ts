@@ -6,10 +6,11 @@ export const call = {
   slug: "call",
   definition: "putting a request to a program and taking its answer, as a session does to a model",
   spellings: [
+    { partOfSpeech: "part-of-speech/verb", spelling: "call" },
     { partOfSpeech: "part-of-speech/verb", spelling: "calls" },
     { partOfSpeech: "part-of-speech/noun", spelling: "call" },
     { partOfSpeech: "part-of-speech/noun", spelling: "calls" },
   ],
   createdAt: "2026-09-22T18:19:32.198Z",
-  updatedAt: "2026-10-19T17:50:14.135Z",
+  updatedAt: "2026-10-19T18:49:28.009Z",
 } as const satisfies CommonLanguageTerm
