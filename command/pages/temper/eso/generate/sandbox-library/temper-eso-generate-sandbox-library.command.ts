@@ -19,7 +19,7 @@ export const temperEsoGenerateSandboxLibrary = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file the call does not name is read from the game's live install.",
+      statement: "The sandbox is read from the capture landed beside its catalog domain page.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -56,7 +56,7 @@ export const temperEsoGenerateSandboxLibrary = {
     },
   ],
   name: "sandbox-library",
-  arguments: [{ argument: "argument/code-root" }, { argument: "argument/saved-variables-file" }],
+  arguments: [{ argument: "argument/code-root" }],
   createdAt: "2026-09-25T13:14:07.345Z",
-  updatedAt: "2026-09-25T13:14:22.000Z",
+  updatedAt: "2026-10-19T17:45:09.577Z",
 } as const satisfies Command

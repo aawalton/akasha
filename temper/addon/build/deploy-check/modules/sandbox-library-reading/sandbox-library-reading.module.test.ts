@@ -4,45 +4,15 @@ import {
   sandboxLibraryIn,
 } from "akasha/temper/addon/build/deploy-check/modules/sandbox-library-reading/sandbox-library-reading.module.code.ts"
 
-const CAPTURE = `TemperCatalog_SavedVariables =
-{
-    ["Default"] =
-    {
-        ["@zeta"] =
-        {
-            ["$AccountWide"] =
-            {
-                ["sandboxLibraryCatalog"] =
-                {
-                    ["apiVersion"] = 101047,
-                    ["globals"] =
-                    {
-                        ["rawlen"] = "nil",
-                        ["pairs"] = "function",
-                        ["BAD"] = 7,
-                    },
-                    ["libraries"] =
-                    {
-                        ["io"] = "nil",
-                        ["debug"] = "table",
-                    },
-                    ["members"] =
-                    {
-                        ["debug"] =
-                        {
-                            [1] = "traceback",
-                            [2] = "getinfo",
-                        },
-                    },
-                },
-            },
-        },
-    },
+const CAPTURE = {
+  apiVersion: 101047,
+  globals: { rawlen: "nil", pairs: "function", BAD: 7 },
+  libraries: { io: "nil", debug: "table" },
+  members: { debug: ["traceback", "getinfo"] },
 }
-`
 
 describe("sandboxLibraryIn", () => {
-  test("reads the sandbox out of the account holding it", () => {
+  test("reads the sandbox out of the catalog's capture", () => {
     const held = sandboxLibraryIn(CAPTURE)
     expect(held?.apiVersion).toBe(101047)
     expect(held?.globals).toEqual({ pairs: "function", rawlen: "nil" })
@@ -57,12 +27,8 @@ describe("sandboxLibraryIn", () => {
     expect(Object.keys(sandboxLibraryIn(CAPTURE)?.globals ?? {})).toEqual(["pairs", "rawlen"])
   })
 
-  test("reads a file that will not parse as nothing", () => {
-    expect(sandboxLibraryIn("this is not lua at all")).toBeUndefined()
-  })
-
-  test("reads a capture holding no sandbox as nothing", () => {
-    expect(sandboxLibraryIn(`TemperCatalog_SavedVariables =\n{\n}\n`)).toBeUndefined()
+  test("reads no capture as nothing", () => {
+    expect(sandboxLibraryIn(undefined)).toBeUndefined()
   })
 
   test("writes a body ending in one newline", () => {

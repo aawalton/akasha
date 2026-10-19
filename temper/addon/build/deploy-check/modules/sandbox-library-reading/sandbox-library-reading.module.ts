@@ -3,13 +3,13 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 export const sandboxLibraryReading = {
   id: "01a0d8b3-a671-7c01-8350-dea07853dd82", type: "page-type/module",
   slug: "sandbox-library-reading",
-  definition: "the reading of the game's Lua sandbox out of the catalog add-on's saved variables",
+  definition: "the reading of the game's Lua sandbox out of the sandbox library catalog's capture",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The sandbox is read out of the first account holding it.",
+      statement: "The sandbox is read out of the capture landed beside its catalog domain page.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -21,9 +21,9 @@ export const sandboxLibraryReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file that will not parse, or holds no sandbox, reads as nothing.",
+      statement: "No capture reads as nothing.",
     },
   ],
   createdAt: "2026-09-25T13:14:07.345Z",
-  updatedAt: "2026-09-25T13:14:22.000Z",
+  updatedAt: "2026-10-19T17:45:09.577Z",
 } as const satisfies Module

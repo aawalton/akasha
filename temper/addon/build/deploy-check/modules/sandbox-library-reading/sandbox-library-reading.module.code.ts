@@ -3,12 +3,6 @@ import {
   listed,
   sortedWords,
 } from "akasha/temper/eso/constant/modules/engine-constants-reading/engine-constants-reading.module.code.ts"
-import { accountWideHolding } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
-import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
-
-const TOP_LEVEL = "TemperCatalog_SavedVariables"
-
-const HELD = "sandboxLibraryCatalog"
 
 const NOTHING = 0
 
@@ -27,14 +21,9 @@ function sortedMembers(held: unknown): Record<string, readonly string[]> {
   return out
 }
 
-export function sandboxLibraryIn(content: string): SandboxLibrary | undefined {
-  let root: Record<string, unknown>
-  try {
-    root = parseLuaSavedVariablesFile(content, TOP_LEVEL)
-  } catch {
-    return undefined
-  }
-  const catalog = accountWideHolding(root, HELD)
+export function sandboxLibraryIn(
+  catalog: Readonly<Record<string, unknown>> | undefined
+): SandboxLibrary | undefined {
   if (catalog === undefined) return undefined
   return {
     apiVersion: typeof catalog.apiVersion === "number" ? catalog.apiVersion : NOTHING,
