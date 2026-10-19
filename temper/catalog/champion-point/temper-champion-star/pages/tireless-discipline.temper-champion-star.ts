@@ -11,6 +11,7 @@ export const tirelessDiscipline = {
   isSlottable: false,
   effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 520 }],
   hashPlace: 79,
+  jumpPoints: [0, 10, 20],
   createdAt: "2026-09-27T05:00:00.924Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:57:51.996Z",
 } as const satisfies TemperChampionStar
