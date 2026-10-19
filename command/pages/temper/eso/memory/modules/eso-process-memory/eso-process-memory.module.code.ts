@@ -51,6 +51,7 @@ export function readerOf(pid: number): Reader {
   const local = Buffer.alloc(16)
   const remote = Buffer.alloc(16)
   return (at, length) => {
+    if (length <= 0) return Buffer.alloc(0)
     const into = Buffer.alloc(length)
     local.writeBigUInt64LE(BigInt(ptr(into)), 0)
     local.writeBigUInt64LE(BigInt(length), 8)
