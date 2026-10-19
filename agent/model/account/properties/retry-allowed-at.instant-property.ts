@@ -5,7 +5,7 @@ export const retryAllowedAt = {
   type: "page-type/instant-property",
   slug: "retry-allowed-at",
   propertySlug: "retry-allowed-at",
-  definition: "when the account may be called again after a refusal",
+  definition: "when a seat can call a model account after a refusal",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -15,5 +15,5 @@ export const retryAllowedAt = {
   ],
   types: "ts",
   createdAt: "2026-08-30T22:44:04.537Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-19T18:49:33.632Z",
 } as const satisfies InstantProperty
