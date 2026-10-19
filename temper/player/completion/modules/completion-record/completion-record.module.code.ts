@@ -161,6 +161,7 @@ const wornPieceSchema = z.strictObject({
   link: z.string(),
   armor: z.number(),
   enchant: z.string(),
+  enchantCategory: z.number().optional(),
   trait: z.string().optional(),
   quality: z.number().optional(),
 })
