@@ -4,7 +4,7 @@ export const bunCalls = {
   id: "01a04eab-d4ef-7000-bdff-3446eef0bf24",
   type: "page-type/module",
   slug: "bun-calls",
-  definition: "the bun invocations a shell command line carries",
+  definition: "the Bun calls in a shell command",
   code: "ts",
   test: "ts",
   decisions: [
@@ -55,5 +55,5 @@ export const bunCalls = {
     },
   ],
   createdAt: "2026-08-29T17:57:59.151Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-19T18:00:46.393Z",
 } as const satisfies Module
