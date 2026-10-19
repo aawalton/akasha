@@ -5,7 +5,7 @@ export type Rung = {
   readonly color: TierColor
 }
 
-export type Tiered = {
+type Tiered = {
   readonly tier: TierColor
   readonly nextTier: TierColor | null
   readonly progress: number | null
@@ -127,7 +127,7 @@ export function tierAt(reading: number, rungs: readonly Rung[]): Tiered | null {
   return null
 }
 
-export const REST_DAY_COLOR: TierColor = "blue"
+const REST_DAY_COLOR: TierColor = "blue"
 
 const REST_DAYS = "restDays"
 
