@@ -79,6 +79,7 @@
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/happen.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/have.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/health.common-language-term.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/hide.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/himself.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/his.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/hour.common-language-term.ts","typed":true,"deferred":false}
