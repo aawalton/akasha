@@ -4,12 +4,12 @@ export const playerAnswerDescriptor = {
   id: "01a0d578-6f2a-7f09-ba83-bb6c91db2342",
   type: "page-type/module",
   slug: "player-answer-descriptor",
-  definition: "the name, version and shape the capture of the character hands the game to save",
+  definition: "the version and shape of the catalog of what the game answered about the character",
   code: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The game saves the answers under `TemperPlayerAnswers_SavedVariables`.",
+      statement: "The answers are a catalog saved under `playerAnswerCatalog`.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -26,7 +26,7 @@ export const playerAnswerDescriptor = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A change to how answers are kept moves the version, so the game clears the old.",
+      statement: "A change to how answers are kept moves the version, so the old are not read.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -38,5 +38,5 @@ export const playerAnswerDescriptor = {
     },
   ],
   createdAt: "2026-09-24T22:10:34.922Z",
-  updatedAt: "2026-09-25T01:25:30.000Z",
+  updatedAt: "2026-10-19T18:18:10.663Z",
 } as const satisfies Module

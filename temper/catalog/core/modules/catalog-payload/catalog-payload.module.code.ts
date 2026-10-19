@@ -1,3 +1,4 @@
+import type { PlayerAnswerCatalogData } from "akasha/temper/capture/player-answer/modules/player-answer-descriptor/player-answer-descriptor.module.code.ts"
 import type { AchievementCatalogData } from "akasha/temper/capture/shape/modules/achievement-catalog/achievement-catalog.module.code.ts"
 import type { AntiquityLoreCatalogEntry } from "akasha/temper/capture/shape/modules/antiquity-lore-catalog/antiquity-lore-catalog.module.code.ts"
 import type { CadwellCatalogLevel } from "akasha/temper/capture/shape/modules/cadwell-catalog/cadwell-catalog.module.code.ts"
@@ -55,6 +56,7 @@ export interface CatalogPayload {
   engineAnswerCatalog?: EngineAnswerCatalogData
   sandboxLibraryCatalog?: SandboxLibraryCatalogData
   itemStyleCatalog?: ItemStyleCatalogData
+  playerAnswerCatalog?: PlayerAnswerCatalogData
   completed: boolean
   collectionSkips?: Record<string, string>
   apiVersion?: string

@@ -2896,7 +2896,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/catalog/modules/datamining-quest-miner/datamining-quest-miner.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/catalog/modules/datamining-saved-variables/datamining-saved-variables.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/catalog/modules/datamining-uploaded-items/datamining-uploaded-items.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/catalog/modules/player-answer-entry/player-answer-entry.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-achievements/characters-achievements.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-active-quests/characters-active-quests.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-alliance-rank/characters-alliance-rank.module.ts","typed":true,"deferred":false}
@@ -5138,6 +5137,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/weapon-type-constants/weapon-type-constants.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/zone-completion-catalog-capture/zone-completion-catalog-capture.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/player-answer/modules/player-answer-capture/player-answer-capture.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/player-answer/modules/player-answer-catalog-capture/player-answer-catalog-capture.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/player-answer/modules/player-answer-descriptor/player-answer-descriptor.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/player-answer/modules/player-asking-shapes/player-asking-shapes.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/player-answer/modules/player-askings-reading/player-askings-reading.module.ts","typed":true,"deferred":false}

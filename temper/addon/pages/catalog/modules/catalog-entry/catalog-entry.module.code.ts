@@ -1,6 +1,5 @@
 import "akasha/temper/addon/pages/catalog/modules/catalog-public-api/catalog-public-api.module.code.ts"
 import "akasha/temper/addon/pages/catalog/modules/datamining-entry/datamining-entry.module.code.ts"
-import "akasha/temper/addon/pages/catalog/modules/player-answer-entry/player-answer-entry.module.code.ts"
 
 import {
   type CaptureWriter,
@@ -34,6 +33,7 @@ import "akasha/temper/capture/game-catalog-capture-addon/modules/interface-strin
 import "akasha/temper/capture/game-catalog-capture-addon/modules/engine-answer-catalog-capture/engine-answer-catalog-capture.module.code.ts"
 import "akasha/temper/capture/game-catalog-capture-addon/modules/sandbox-library-catalog-capture/sandbox-library-catalog-capture.module.code.ts"
 import "akasha/temper/capture/game-catalog-capture-addon/modules/item-style-catalog-capture/item-style-catalog-capture.module.code.ts"
+import "akasha/temper/capture/player-answer/modules/player-answer-catalog-capture/player-answer-catalog-capture.module.code.ts"
 
 import { registerApiTestCommand } from "akasha/temper/addon/pages/catalog/modules/catalog-api-test/catalog-api-test.module.code.ts"
 import { autoCollect } from "akasha/temper/addon/pages/catalog/modules/catalog-auto-collect/catalog-auto-collect.module.code.ts"

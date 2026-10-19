@@ -31,4 +31,5 @@
 {"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/trait-research-catalog-capture/trait-research-catalog-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/tribute-catalog-capture/tribute-catalog-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/zone-completion-catalog-capture/zone-completion-catalog-capture.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/capture/player-answer/modules/player-answer-catalog-capture/player-answer-catalog-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/core/temper-catalog-core.domain.ts","id":"01a06071-0c7a-7792-ab3e-69213b5eaf92"}

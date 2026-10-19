@@ -11,6 +11,7 @@ export const temperCapturePlayerAnswer = {
     "data-table/player-askings",
     "module/player-answer-descriptor",
     "module/player-answer-capture",
+    "module/player-answer-catalog-capture",
   ],
   decisions: [
     {
@@ -27,5 +28,5 @@ export const temperCapturePlayerAnswer = {
     },
   ],
   createdAt: "2026-09-24T22:04:16.652Z",
-  updatedAt: "2026-09-24T22:10:41.000Z",
+  updatedAt: "2026-10-19T18:18:10.663Z",
 } as const satisfies Domain

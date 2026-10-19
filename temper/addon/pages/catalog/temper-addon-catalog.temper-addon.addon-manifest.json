@@ -8,8 +8,7 @@
   "apiVersion": ["101041", "101042", "101049", "101050", "101051"],
   "savedVariables": [
     "TemperCatalog_SavedVariables",
-    "TemperDataMining_SavedVariables",
-    "TemperPlayerAnswers_SavedVariables"
+    "TemperDataMining_SavedVariables"
   ],
   "additionalLuaFiles": ["TemperCatalogConfig.lua"],
   "dependsOn": ["Temper"]

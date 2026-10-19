@@ -2,7 +2,6 @@
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/catalog/modules/datamining-entry/datamining-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/catalog/modules/datamining-item-miner/datamining-item-miner.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/catalog/modules/datamining-quest-miner/datamining-quest-miner.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/catalog/modules/player-answer-entry/player-answer-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-alliance-rank/characters-alliance-rank.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-collectibles/characters-collectibles.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-command/characters-command.module.code.ts","typed":false,"deferred":false}
@@ -485,6 +484,7 @@
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/interface-color-catalog-capture/interface-color-catalog-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/interface-string-catalog-capture/interface-string-catalog-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/trait-research-catalog-capture/trait-research-catalog-capture.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/capture/player-answer/modules/player-answer-catalog-capture/player-answer-catalog-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-pins/dungeon-champion-pins.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-saved-vars/dungeon-champion-saved-vars.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-compass-pins/lorebooks-compass-pins.module.code.ts","typed":false,"deferred":false}
