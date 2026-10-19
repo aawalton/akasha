@@ -7,8 +7,8 @@ export const biochemistryAndMolecularBiologyHowLifeWorks = {
   title: "Biochemistry and Molecular Biology: How Life Works",
   status: "in-progress",
   unit: "unit/minutes",
-  ownLength: 1106.4,
-  ownProgress: 61.466667,
+  ownLength: 1106.33,
+  ownProgress: 61.8,
   partOfCollections: [
     "great-courses-collection/all-great-courses",
     "great-courses-subject/science-great-courses",
@@ -22,5 +22,6 @@ export const biochemistryAndMolecularBiologyHowLifeWorks = {
     },
   ],
   createdAt: "2026-04-22T12:39:34.047Z",
-  updatedAt: "2026-10-18T21:07:43.678Z",
+  updatedAt: "2026-10-19T19:19:07.353Z",
+  progressedAt: "2026-10-19T19:19:07.353Z",
 } as const satisfies GreatCourse
