@@ -4,7 +4,8 @@ export const blockCombinedAkashaCalls = {
   id: "01a07e9e-a423-744c-8496-5006c4bbb90d",
   type: "page-type/agent-hook",
   slug: "block-combined-akasha-calls",
-  definition: "a refusal of an `akasha read` or `akasha change` call combined with other shell",
+  definition:
+    "a refusal of a shell command that runs an akasha read or an akasha change with another program",
   code: "ts",
   test: "ts",
   runsAt: ["PreToolUse"],
@@ -205,5 +206,5 @@ export const blockCombinedAkashaCalls = {
     },
   ],
   createdAt: "2026-09-08T01:25:21.059Z",
-  updatedAt: "2026-09-25T16:04:46.000Z",
+  updatedAt: "2026-10-19T17:35:34.672Z",
 } as const satisfies AgentHook
