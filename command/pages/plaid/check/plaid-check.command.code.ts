@@ -48,9 +48,16 @@ export type PlaidRow = {
   readonly name: string
 }
 
+type Original = {
+  readonly id: string
+  readonly date: string
+  readonly amount: number
+}
+
 export type MonarchRow = {
   readonly date: string
   readonly amount: number
+  readonly original?: Original | null
 }
 
 type Keys = {
@@ -94,6 +101,15 @@ export function unmatched(
     taken.add(pair.monarch)
   }
   return plaid.filter((_, at) => !paired.has(at))
+}
+
+export function withOriginals(rows: readonly MonarchRow[]): readonly MonarchRow[] {
+  const originals = new Map<string, MonarchRow>()
+  for (const row of rows) {
+    const was = row.original
+    if (was != null) originals.set(was.id, { date: was.date, amount: was.amount })
+  }
+  return [...rows, ...originals.values()]
 }
 
 export function lineFor(row: PlaidRow): string {
@@ -167,7 +183,9 @@ async function monarchPosted(from: string): Promise<readonly MonarchRow[]> {
   const client = monarchClient(await monarchHeaders())
   const today = new Date().toISOString().slice(0, 10)
   const rows = await client.transactions({ startDate: from, endDate: today })
-  return rows.filter((row) => !row.pending).map((row) => ({ date: row.date, amount: row.amount }))
+  return rows
+    .filter((row) => !row.pending)
+    .map((row) => ({ date: row.date, amount: row.amount, original: row.original }))
 }
 
 async function checked(root: string, path: string, from: string): Promise<Answer> {
@@ -176,7 +194,9 @@ async function checked(root: string, path: string, from: string): Promise<Answer
   const plaid = await plaidPosted(keys, from)
   const earliest = plaid.reduce((first, row) => (row.date < first ? row.date : first), from)
   const monarch = await monarchPosted(dayBefore(earliest, DAYS_APART))
-  const missing = [...unmatched(plaid, monarch)].sort((a, b) => a.date.localeCompare(b.date))
+  const missing = [...unmatched(plaid, withOriginals(monarch))].sort((a, b) =>
+    a.date.localeCompare(b.date)
+  )
   return told([...missing.map(lineFor), countSaid(missing.length, plaid.length, from)])
 }
 

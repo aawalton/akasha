@@ -26,6 +26,10 @@ export const plaidCheck = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The charge a Monarch split was made from is weighed once beside its parts.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A Plaid row matches a Monarch row of the opposite amount to the cent within three days.",
     },
@@ -56,5 +60,5 @@ export const plaidCheck = {
     { argument: "argument/first-day" },
   ],
   createdAt: "2026-10-19T14:18:51.946Z",
-  updatedAt: "2026-10-19T14:18:51.946Z",
+  updatedAt: "2026-10-19T14:21:52.144Z",
 } as const satisfies Command

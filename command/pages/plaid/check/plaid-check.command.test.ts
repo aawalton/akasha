@@ -10,6 +10,7 @@ import {
   type PlaidRow,
   plaidCheck,
   unmatched,
+  withOriginals,
 } from "akasha/command/pages/plaid/check/plaid-check.command.code.ts"
 
 const GIVEN: Given = {
@@ -65,6 +66,25 @@ test("a credit in Plaid matches a credit in Monarch", () => {
   expect(unmatched([plaidRow("a", "2026-08-07", -0.99)], [monarchRow("2026-08-07", 0.99)])).toEqual(
     []
   )
+})
+
+test("a charge split in Monarch matches by the charge it was split from", () => {
+  const original = { id: "p", date: "2025-07-31", amount: -1230.95 }
+  const parts = [
+    { date: "2025-07-31", amount: -276.95, original },
+    { date: "2025-07-31", amount: -870, original },
+    { date: "2025-07-31", amount: -84, original },
+  ]
+  expect(unmatched([plaidRow("costco", "2025-07-31", 1230.95)], withOriginals(parts))).toEqual([])
+})
+
+test("a split's original is weighed once however many parts name it", () => {
+  const original = { id: "p", date: "2025-07-31", amount: -10 }
+  const parts = [
+    { date: "2025-07-31", amount: -4, original },
+    { date: "2025-07-31", amount: -6, original },
+  ]
+  expect(withOriginals(parts).length).toBe(3)
 })
 
 test("a line says the amount with Monarch's sign", () => {
