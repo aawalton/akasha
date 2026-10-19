@@ -1,0 +1,263 @@
+Chapter 528
+
+Matt was expecting many things when he sat down and checked the Ascender Chat after they returned to their ship following their latest sweep of a battlefield. Chief among them was either a message from Allie, Zack, or a possible update on the potential Alpha trio.
+
+While the three of them had been hard at work in the war, their fellow Empire Ascenders had been equally occupied. Though, their efforts were spent on research and ground work into the former dynasty princess and her forces scattered throughout the Realm. The duo had promised they were close to a breakthrough, but they’d been saying that same thing for what was nearing a decade at this point.
+
+Information on the Collective kids would have been interesting, but Eclavorn hadn’t posted anything new or noteworthy, nor had his attempts at enticing the rest of them into a bet been even remotely tempting. The over enthusiastic dragon had overplayed his hand day one, and no one was going to take anything close to a fair bet with him. There was after all a plethora of young hopefuls who burnt out just before the finish line in the annals of history.
+
+The Collective kids had that easy grace in combat when fighting up five Tiers in the teens that only fellow Ascenders could appreciate.
+
+Matt hadn’t really understood it before when their older peers had said they’d know when they saw it, but now that he’d seen it, he knew. If they didn’t fuck up and die, or get assassinated, they were likely to go all the way and complete their Path.
+
+What he found when he tapped into the Ascender Chat was a private message from Esther. That wouldn’t have been noteworthy, but he’d helped set up their restrictions and knew for a fact that she should not have had access to the private messaging system.
+
+Instead of reading the message, he checked to see if either Ellen, Max, or Gideon were there. Because he wanted them, none of them were active, with Max having been offline for close to a month, indicating she’d entered a rift. After filing a bug report and tagging them on it, so they’d see it as a priority when they got back on, he started digging.
+
+It didn’t take him long to find out how Esther had escaped her digital containment, as the first place he checked had given him the answer, contrary to every one of his expectations. The general log spelled out her exact steps to escape confinement. She’d performed a series of repeated and precise pings, transmission drops, and malicious under the hood code executions.
+
+On its own, none of that was surprising. Everything he saw was a fairly standard method of bypassing the restrictions they’d put on the duo’s account. However none of that explained how she’d managed to execute a seven step plan that perfectly avoided all of the failsafes and contingencies the Ascender Chat had built into it. Esther had avoided them all until she’d stumbled onto the exact set of overlapping and conflicting priorities that turned a replied message to him in the war chat into a private message.
+
+Matt was thoroughly impressed she’d done it at all, but he was more curious in how she’d managed it. Once he had the thought, it didn’t take him long to puzzle it out. She’d played with time and potential futures. There she’d been able to force test her actions until she figured out a method that worked.
+
+If he was right, which he was confident he was, she’d only been able to start testing after Max had left. Whatever the specifics of their abilities to see and interact with the future, he was confident they had the same problems as every other seeker and divination specialist in the Realm: Tier was king.
+
+Max had advanced to Tier 40 not too long before their return, and that put her at the very limit of the five Tier threshold such abilities typically worked on. With Max disconnecting to delve, infiltrate, or research, Esther had been able to play in the theoretical without fear of the consequences. The same all applied to Gideon, but he wasn’t nearly as active in passive security as Max was, making him an easier person to avoid.
+
+Matt's initial reaction was to solve it in the simplest way, so he wrote a much tighter set of security protocols that wiped her account any time she butted up against any failsafe. He didn’t think it would actually work on her in reality, but that was because he was confident that it would work on her in potential futures and she’d learn he was onto her. It wouldn’t truly stop her if she was determined, but it should seriously slow her down by limiting her attempts to a single one per timeline, instead of being able to try many things before resetting her efforts.
+
+At the same time, he set up a new alert that warned him the moment either Esther or Lawrance ran into a failsafe for any reason whatsoever, and he did implement that one immediately. He wasn’t as sure about time shenanigans as he wanted to be, but from what he knew, he suspected that doing so would go one of two ways.
+
+Either Esther would be able to account for his actions perfectly and eventually learn his weaknesses, or his theoretical presence would be enough of a roadblock that she’d find it hard, if not impossible, to make any progress. While the former was possible, given what he knew of time magic, he suspected it was the latter. Esther had only started her attempts after Max had gone offline, which made him assume any active defense would be more than enough to foil her plans.
+
+It took some deliberation, but he shelved the first idea and only installed the second. After logging his activities for their moderator logs and review, he finally checked the message that had started everything.
+
+“Why exactly did you choose to release these aura escape talismans? That little invention of yours has proven quite the headache. And not in a pleasant way, I must stress that distinction. I’ve been reviewing it and subsequent iterations that we’ve been seeing in the war and they are seemingly impossible to entrap. Even trying to—”
+
+Her rant was both familiar and amusing, but unlike so many of the others, Esther’s message wasn’t entirely focused on reaming him a new one.
+
+“Before we reentered the war, I got my hands on some of the aura, and I have to say, I’m impressed you were willing to share it so freely. I’m woman enough to admit that I half expected to find the aura subtly different from the aura of my time, with the entire production being some Empire plot, but I was wrong. Has anyone tried mixing aura with food stuffs? Grains and other staple crops? I’m no expert, but I could see the energy being quite useful for various food-based buffs as much as it is for enchantments and alchemical ones. I was also thinking about aura in spatial items. I saw no one has made a gravity aura yet, but what about a lightweight variation of air aura? Reducing the weight of spatial bags could be helpful for lower Tiers.”
+
+Matt wasn’t entirely sure how to respond for a moment, but eventually, he put on his moderator role and timed her out for twenty seconds for breaking containment as he doled out her new restrictions.
+
+He then took the role off and happily shared what he knew about the implementation of aura in food stuffs. It wasn’t much, given that only the Sects had made any serious attempts, but their strategy had been to get the foods to produce aura rather than enhancing them with aura. It hadn’t worked, but it had been interesting, in that the aura made the food nearly toxic to low Tiers and the unawakened, with no positive benefits to immortals who ingested it either.
+
+Sadly, anything that consumed aura had to battle it out with the million and one better use cases that already existed and produced tangible results. Her idea about air aura for spatial bags, on the other hand, had a lot of promise.
+
+For most spatial bag designs they already used air mana as a secondary stabilizer for the far more complicated spatial enlargement runes the bags used, which meant it was possible to replace that with aura. At least theoretically. While weight wasn’t inherently a problem for delvers, with most melee cultivators having enough strength to carry around a fully packed at-Tier spatial bag, that rule wasn’t true for mages, let alone the general public.
+
+He didn’t know how feasible the idea truly was, and wouldn’t until he got some tests done, but he liked the shape of it.
+
+The conversation was fresh and interesting compared to everything else he was dealing with, which put him in a pleasant mood as he wrapped his discussion with Esther up. Of course that was exactly when a message from Zack came through.
+
+“We found one of the locations.”
+
+Matt’s mood fell from the lofty perch of scientific chatting as he informed Liz and Aster. “Time to leave the frontlines. They found something and are about to move.”
+
+Both of them went glassy eyes for an instant as they checked their own private messages.
+
+Liz was the one to speak, but it was to the crew, giving them their new mission coordinates. Zack had sent her the location and she directed their crew to the empty spot nestled in Rusty’s kingdom web of worlds that was their rendezvous.
+
+Matt was expecting a particular teleporter to drop in once they arrived, but his star speckled friend wasn’t so predictable. Only an hour after their ship’s arrival to the point a small fleet of unmarked ships broke away from the tethers and floated to them. The ships looked remarkably like any other fleet of high end merchant ships, which meant when the two groups merged, their war vessel looked like a chicken trying to blend into a gaggle of peacocks.
+
+Matt would have loved answers, but no news was passed to them beyond an install for their [AI] that would help prevent anyone accidently learning the princesses name as they crossed the border from Rusty’s kingdom into a region of Leon’s kingdom that was old.
+
+The marquisdom they arrived at was registered to a Tier 34 George Vanderbilt and was nothing special. According to what Matt knew of the man, which wasn’t anything more than what was kept on the EmpireNet about him, he was a standard, if inoffensive, noble.
+
+George didn’t make waves or cause problems. He only got into trade wars or internal disputes when pushed to the absolute limit, and the few he had gotten into were a mixed bag, with both a win and two losses on his record.
+
+It was as bog standard and as inoffensive as was possible for a noble of his standing. Matt had never interacted with George or his direct liege, but he suspected both would be changing today.
+
+They tore into real space as a fleet, but Matt, Liz, and Aster’s ship hung back as the rest surged forward deeper into the star system, far faster than any merchant ship should be able to move.
+
+Matt hadn’t seen Zack or Allie since the war started, and his first reaction upon seeing them was to note they looked as tired as he felt. The difference between them was that the duo had the thrill of a chase almost complete, whereas their exit depended on when the lower Tiers were done killing each other.
+
+Instead of the enthusiastic greeting he’d have liked to share with the pair, the five of them descended down on the world's center in silent and perfect coordination. The planet was named Echo Plains after its many basin plains that littered the southern half of the world.
+
+Beyond its geographical oddities, it was Tier 17 and a bustling economic hub of the region. Most of that was due to its development and location. As the highest Tier world under the ducal capital system, it acted as an anchor for the duchy and was consequently one of the farthest worlds from its ducal capital. In normal duchies such a placement let it act as both a destination in and of itself, and a waypoint for everyone who traveled beyond the few thousand worlds that made up the duchy.
+
+While oversight might exist from the local duke, it would take months for them to travel out this way. That explained a lot, but what was strange was that Matt didn’t notice anything out of place as he scanned for whatever had piqued Allie and Zack’s interest.
+
+He hadn’t expected it to be obvious, given how long the Princess had been operating and with whose backing they had, but there was nothing out of place.
+
+He scanned the system one more time as they arrived outside the royal palace, but came up empty handed. The building was nestled into the crook of a river that meandered its way down from the largest mountain in the region but it wasn’t overly simple or opulent.
+
+It was average without being conspicuous, which was all the more impressive and raised Matt’s alertness to the max. Before the fight could start, he brought his various buffs from a half powered state to his full combat readiness.
+
+Zack’s voice echoed out across the entire planet as they floated over the building. “Marquess Vanderbilt, you are under arrest for suspicion of collusion with foreign Great Powers. If you are innocent you may plead your case to a—”
+
+He didn’t make it any farther as the man in question floated out of the building with a confused and scared expression that looked perfectly natural.
+
+Matt took the opportunity to scan George Vanderbilt and found him aggressively mundane. Average height, slightly above average looks, and in a simple but nice set of clothes, the man wouldn’t have stood out anywhere from an office meeting to a mildly formal dinner.
+
+The man himself wasn’t nearly so put together and he stammered as he approached. “Ascenders, I assure you I have no idea what you could possibly be talking about.”
+
+Zack didn’t look all that surprised, but he did shift the tone of his voice that echoed across the world as he finished the proclamation into a much firmer one.
+
+Not that any of it mattered.
+
+Matt was listening to the man’s stammered reply when he felt it. A high Tier had looked at him for the briefest instant. On a kingdom level capital world that wouldn't have been that out of the place, but there shouldn’t have been anyone higher Tier than the marquess in the system.
+
+He turned his gaze from the man to the sky as he scanned the outer system where he’d felt the higher Tier scan them. It hadn’t been with their spiritual perception, which the others would have picked up on, but something more passive that only he seemed to notice.
+
+With a thought, he opened a [Portal] from the inhabited world to just outside the gas giant’s atmosphere. Using that shortened distance, he carefully scanned the planet only to find nothing amiss with any of his senses or spells.
+
+It was a perfectly normal Tier 9 gas giant.
+
+He was about to cut the spell off when Allie turned and grinned at him before she turned to face the aperture alongside him.
+
+Pointing through with her dagger, she asked, “It's good, isn't it?”
+
+Even as he rechecked with all of his senses, he asked, “So that’s where they are hidden? I can’t sense a thing out of place. Feels like a perfectly normal gas giant with mild exploitation of its rifts, along with the floating bubble things to travel between the outer layers of the planet and three space stations in orbit to support it all.”
+
+“As much as I hate to say it, same. That’s why we finally decided to lose the arrow with this one. We are prepared to disperse the local star if it's needed to dig these little shits out, but I guess we don’t have to now. And here I spent over a year here undercover looking for a single slip-up, yet I never caught even a sliver of something out of place on this gas giant. There are hundreds of possible locations, and this one was only under review thanks to Nardo da Molin, the ascender who pushed Helen’s Concept over the edge and the notes he left behind. It has to be here. Or if it’s not, we are so far off the mark we are fucked and I don’t want to contemplate that outcome.”
+
+“Wouldn’t you have noticed personnel and supply movements?”
+
+”I wish it was that easy,” Allie griped. “Our current best guess, which isn’t all that likely if I’m being honest, is they are using the magical disturbances from the natural planetary alignment windows that are common in this system to shift people and goods on and off Echo Plains without the obvious tracks that a teleporter would leave. But even with full scans on the main planet, that’s a lot of people to keep track of and it turns impossible with things like secure buildings and possible body swaps, which we have reason to suspect they are using. Still, I’ve got to admit that Zack only came up with the idea after I got him shitfaced and talking about crazy stuff like cosmic alignment transfers and other wild ideas, so it's a bit in the air. But it’s the only answer that fits what we saw and we’ve checked everything else. Shame, my money was on the star, not the gas giant, but I guess it makes sense if you want to hide something. This system has been searched both covertly and obviously a dozen times.”
+
+The two of them hadn’t been speaking loudly, but they hadn’t tried to conceal their voices either. As they spoke, he noticed George’s micro expressions subtly shift, but didn’t immediately move to call the man out. The marquess didn’t stumble or fumble his act, but something about it became a hair more wooden.
+
+Matt looked down and matched Allie’s wicked grin. “Want to go check it out?”
+
+He was about to step through his [Portal] when he realized he was the responsible one out of the two. “Before we go, I have to ask; how much backup did you bring?”
+
+He looked to the side at the unassuming ships they’d traveled with. While they’d talked, the ships had spread themselves throughout the system, creating a hard to escape net.
+
+“This division technically falls under the palace guard. As for how many of them? Let’s just say enough that I needed to turn away volunteers. Everyone in this unit is famished for a big win. Trust me. I handled everything, all you have to do is show up and break shit with us. Aren’t I so kind, considerate, and cool?”
+
+Matt interpreted that as them having at least a few Tier 45s with them and felt reassured. With that handled, he stepped through the [Portal] and let himself fall into the gas giant below him as his nearest source of gravity changed.
+
+As he fell, he slowly picked up speed, but he used [Gravity Manipulation] to fall faster. At the same time he flooded his sword with a liquid mana stone just before he cast [Titan’s Wrath] as a probe. The two lightning-covered crescents raced past him into the eddies that were the gas giant’s primordial soup.
+
+He followed the spell's trajectory down into the depths of the planet, so deep he was nearly convinced they’d made a mistake. That was until the spell slammed into something solid that completely nullified their existence, like a stone dropping into the illusion of a still lake.
+
+Seeing that, he pushed himself to fall faster with [Cracked Air Slide], bolstered further by Aster’s buffs.
+
+As he fell deeper into the gas giant, Matt found himself blinded and relying on his magical sense. He didn’t mind, but even with his forewarning, he never identified what was down there until he slammed into and through it facefirst.
+
+Piercing the veil allowed his senses to infiltrate what was hidden under the layers of misdirection. He’d expected a lot of things, but he never would have guessed someone had hollowed it out to create a fully functional shellworld.
+
+An entire planet existed on the inside of the gas giant, with an artificial star hanging where its core should be.
+
+A moment later, Matt realized that was the gas giant's core, but he had no idea how that was even remotely possible. The dismissive answer was a Talent, but he didn’t know how even a Talent could allow a planet's core to do half of what he was feeling it do.
+
+As he pierced the ‘ground’ of the shell world, Matt felt the artificial gravity try to reorient him, but he was moving far too fast and aided by his own source of gravity. Combined with his weight, he was far too heavy for the formations to affect him.
+
+He slowed down anyway, but it was under his own power as he took the moment to scan the world as it reacted to his sudden intrusion.
+
+A blur of imperial guard uniform shot past him at unimaginable speeds, which confirmed to Matt that the high Tiers were being properly dealt with.
+
+At the same time as he scanned everything, a part of him marveled at the engineering masterpiece that had been created. Or at least, what he could see through the censors that were blanking out large swaths of the world from his perception. Still, what he saw was impressive. It was an entire functional planet, but inverted and stuffed inside a gas giant. It wasn’t something he’d ever expected to see outside a movie set, Strange Realm, or a game. It was amazing. It was beautiful, and he’d have been a whole lot happier if it wasn’t acting as a breeding farm for the former dynasty’s spies.
+
+His Insight quickly calculated the population at around eight hundred and fifty million people, which put it above a comparable Tier 5 world, but the numbers made more sense when he felt that all of the inhabitants were Tiered and clearly integrated in the society.
+
+That was hardly surprising, but he hated what it meant.
+
+While the highest Tiers fled, the lower ones fought back ferociously.
+
+Ineffective spells flew into the air at him in a well coordinated and timed, but ultimately unless wave. Most of the spells he recognized were Tier 0 skills. While some had been improved to a Tier 8 or Tier 14 strength, they were rare. Most of the skills were still at their original level of power, likely having been recently created, and casters of that Tier had no chance of covering the hundreds of miles between the surface of the world and where Matt floated, but even if they had, it wouldn’t have mattered. Every single one of those spells could hit at the exact same spot at the exact same time and not so much as bruise his skin, let alone penetrate his augment or magical protections.
+
+And all of that ignored the fact he wasn’t at the targeted location anymore by the time such slow spells formed, let alone traveled the distance.
+
+No amount of Tier 5s in the Realm could cover a thirty Tier gap in cultivation.
+
+Liz arrived a moment later, with Aster close on her heels, the two immediately getting to work subduing the masses. He assisted by casting [Create Ichor] for Liz to create as many bodies as possible and [Hail] to give Aster something to work with.
+
+One of the Lizzes just jumped into the geyser of golden blood that appeared, and a moment later, the ichor started forming into phoenixes before it ever got a chance to hit the ground. The birds flew off like homing arrows, where they started incapacitating large swaths of the low Tier populace before they could do something foolish like commit suicide en masse.
+
+While Aster could have assisted Liz with the pacification of the population, it was nearly impossible for her to keep mortals alive inside her Spirit Space. Instead, she mirrored him as they raced to the poles of the world where two training and administration hubs were located.
+
+Matt felt over a hundred Tier 20’s in trainer uniforms rise up against him, but it only took him a thought to smother them with his spirit in the most crude but effective way to punch down.
+
+It wasn’t even particularly difficult, the Tier gap saw to that as his spirit was easily able to infiltrate theirs before they could react to his presence. If he wanted to, he could have killed all of them by dissolving that most vital portion of a cultivator, but he didn’t need to. He simply kept their spirits from moving, which similarly locked their body and magics down, to capture them.
+
+He didn’t want them turning their weapons on the tens of thousands of students, trainees, acolytes, or whatever they called themselves. He wasn’t sure if such people could be deprogrammed from whatever lies the former dynasty infected them with, but he was going to do his best to make sure they got the chance to escape the fetters they’d been born into.
+
+Matt didn’t let any of them go as he felt two Tier 35s flare their cultivation bases when they realized their attempts at stealth and escape had failed. He smashed the bunker they were fleeing through with a volley of [Gravitic Bolt]s, unwilling to let anyone escape.
+
+The woman immediately split into two copies of herself replete with weapon and armor that felt identical to his spiritual perception. The moment there were two, each of her then split again, doubling her until she seemed to hit a limit and there were thirty five identical fighters.
+
+Her partner, a man with pearlescent glowing eyes, started to say something to his companion as his hands glowed with a similar color, but the words never made it out. A dagger appeared out of nowhere and neatly severed the connection his head had to his body. Before the body could even recognize it had lost its commanding organ, both the head and the dagger vanished along with the armored hands that held them.
+
+All thirty five copies of the woman shivered as she recognized her plight, but that didn’t stop half of them from throwing themselves directly at Matt while shouting the princess’s name with a clear disregard for their lives. If anything, the act of defiance seemed to bolster her determination despite him not hearing any of it.
+
+Matt hit the first one very carefully. He didn’t want to let someone so close to the top of this conspiracy commit suicide by his hand during a capture. However, as his blade carved through the legs of the first copy to reach him, the entire cultivator dissolved into nothingness as the Talent-made body dissolved, resolving his dilemma.
+
+He confirmed they weren’t purely illusions when another detonated a strip of very real explosives directly next to him. However, in doing so she revealed enough that he was able to swap his approach.
+
+Matt pointed with a finger and cast a weak [Mana Beam] even as large swaths of his vision went blank as the sensors prevented him from learning anything he shouldn’t, like the princesses name. Not that being partially blind hampered him or his attack. He’d only fed the spell with a paltry half a million mana per second, so the beam was tiny, only the size of his finger. But that was still more than enough to dissipate the clones and injure the original body.
+
+The now legless woman tried fleeing again, but he’d gotten an entire war’s worth of practice in hunting peers down. While she was Tier 35, it was clear the woman was far from a pinnacle elite.
+
+He landed next to her and drove a left hook into her chest. He was careful to crumple her armor and flesh but not obliterate her body with the hit. The blow sent her halfway through the bunker, but he was careful he didn’t destroy anything important in the building either.
+
+She’d barely clawed her way to an upright position before Matt grabbed her head in his hands and squeezed slightly.
+
+As a spike of fear went through her, he activated and flared his Aspect in a sudden, overpowering move. He used his Domain to encase the woman and lock her down as he had done to the Tier 20s.
+
+It quickly became evident she didn’t have an Aspect of her own, as she froze whilst Matt’s spirit wormed its way into hers. Unlike the trainers, she had enough strength to struggle, but that would only see her spirit severely damaged, and they both knew it.
+
+It quickly became a moot point as Allie and Aster appeared next to him. As the temperature of the bunker dropped to below freezing with her spirit space relocations, she grabbed the Tier 35 and froze her solid.
+
+With his armor active, Matt wasn’t bothered and let his bond finish the capture as he asked. “Anyone else?”
+
+“Nope! That should be it.”
+
+Matt nodded calmly before he slugged Allie in the arm hard enough to send her stumbling after her cheerful reply.
+
+“Oww, you oversized door stop! That hurt! What was that for!?”
+
+Allie looked to Aster for support, but her best friend was inspecting the ceiling of the bunker as though it might have the secrets to the former dynasty's plans printed on it.
+
+“Oh, don’t give me that! Neither of you two told us shit! Literally all we got was a show up time and location. You could have sent the more sensitive information through channels other than the Ascender Chat if that was a problem. We all know you could have, yet you didn’t. That deserves a punch. Maybe two if I’m feeling peckish.”
+
+Allie removed her armor before she reached out and grabbed Aster’s tail to rub the fluffy appendage on her now exposed arm, much to the protest of the fox in question. “Yeah, but that was fun! It's not my fault you guys are fighting in the war while we have to sit back and do boring shit! We were grumpy and wanted to twig you guys a bit. Cut me some slack. Sheesh! Like a little baby. I can’t believe you can't take a tiny joke. It's not like we knew this place was in the gas giant.”
+
+“And so you see how it's not my fault for hitting you.” Matt snarked right back.
+
+He didn’t feel at all guilty as Liz and Zack walked inside the bunker to join them.
+
+“Whatever, I'll give you the one. You nearly cracked my arm. You are such a poor loser.” Allie rubbed her arm as she shifted her glare to Liz. “Your other half is violent.”
+
+Liz looked the teleporter up and down before frowning, “I don’t know, you look remarkably intact for how annoyed I am with you.”
+
+“Oh, come on! You too? This is so unfair!”
+
+“Then maybe you should tell us what this place is for? Beyond a… recruitment center? Does it count as recruitment if you are having people bred and raised for the job? I don’t know, but I don’t like it. Something like this feels very risky for being inside Empire space, even if it was very well hidden.” Liz replied.
+
+Zack stepped forward as the voice of reason as he stroked his beard. “We do owe you three an explanation, but I will also point out that you three are in a war and we didn’t require your assistance. We could have handled this all on our own. And our current best estimate is this base was where they got their operatives more used to real Empire life. It wasn’t solely a recruitment center, but that along with a final training area.”
+
+Matt was mildly shocked at how upset Zack was until Liz sent him a recording of his friend trying to control the ice from the [Hail] and failing.
+
+He winced at that and mentally shifted Zack into the allowed category for his Aspect. As the arbiter of his power, Matt had a large degree of say on who got to affect his spells. Even Liz had required his mental allowance to take over his blood without a fight. Or she did, if she didn’t directly subsume it. That, they’d discovered, got around his control by virtue of it no longer being his creation, but Zack wasn’t able to do that with his spells.
+
+From the small glare Zack shot his way, Matt knew he’d be spending time with his friend as the control mage learned how to bypass Matt’s newfound command over his mana the hard way. It would be good training for Matt, and he knew that, but the selfish part of him liked knowing that even a fellow Ascender couldn’t casually take over his mana.
+
+It was a dream he’d never known he could have. It was nice, even if he’d be an enthusiastic partner in that same dream's destruction. After all, the only way to improve was to be challenged, and Zack was the best person in the Realm to practice against.
+
+Stepping forward, he clapped Zack on the shoulder as he half apologized. “Okay, we all irritated each other, which makes it even. The real question is still, what is this place for?”
+
+Zack’s expression had returned to its normal flatness as he replied to Matt's question. “A training facility. And if we are right, one of two or possibly three within the Empire. We suspect there are similar installations in the Sect and Corporation, but that’s barely even speculation at this point if I’m being honest. Not that we could easily prove either.”
+
+Allie drove a dagger into his kidney that she used as a brace to lean around him. “We noticed that those two particular systems happen to cycle around the Great Powers a little more than is statistically likely, in a pattern that only started after Agatha’s coup. There are other false flags, but the Empire analysts estimated they only had two or maybe three such bases outside our lands.”
+
+“These bases are too expensive to be widespread.” Zack interjected.
+
+“Pity we aren’t at war with either of them, so we can’t go and say hello before they scuttle them.” Allie sighed dramatically. “But oh well, we did get this one, and that’s not nothing. Look at the tech in here, these things are using a thin layer of Tier 45 materials as an outer shell, no way they don’t cost both an arm and a leg to make and keep running.”
+
+As the teleporter stood, she withdrew the blade, but Aster reached out and plucked the dagger away before it could reenter his already healed flesh. She shot them both a glare before clicking her tongue at them.
+
+Liz asked the important follow-up question as she gestured around them. “This is a lot of work for a training camp. How is this at all economical?”
+
+Allie cracked her back in two sharp and sudden motions before she said, “That’s what we are here to find out, and why we wanted your guys’ help. We weren’t going to let the high Tiers swoop in and claim our prize.”
+
+As if summoned, a reed thin woman stepped into the bunker with a head nod so deep that it bordered on a bow.
+
+Her Tier 40 cultivation was apparent as was her joy as she reported, “We’ve pacified both worlds and have everything on lockdown. Scans and record searches are already underway. We are already working to purge all hidden mentions of the former dynasty, but that will take at least a decade.”
+
+Matt wanted to stay, to learn more, ask questions, to pull this thread until he found out who was knitting it, but he knew that the three of them would need to leave in a week or two to return to the war, and so stayed out of Zack and Allie’s way.
+
+Their absence off the frontlines weakened the Empire’s presence, and from their reports, he could already see how the Collective and Federation had moved to capitalize.
+
+Thankfully, they should be nearly done with the war if the projected death requirements were accurate, but only the Tier 50s truly knew that number and everyone else was only speculating.

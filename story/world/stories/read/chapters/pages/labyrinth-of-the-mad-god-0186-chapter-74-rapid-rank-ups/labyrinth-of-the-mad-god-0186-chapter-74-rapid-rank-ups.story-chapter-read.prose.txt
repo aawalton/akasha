@@ -1,0 +1,109 @@
+Nick threw himself into his studies with everything he had, certain the rest of his team was making the most of this invaluable opportunity too.
+
+Zero didn’t need sleep and set their schedule to Nick’s biological clock. He even adjusted the workspace so sunlight shone through the windows at the right time, which was a neat trick considering there wasn’t a star anywhere near the miniature node containing the Heritage.
+
+After wrapping up their interview-and-assessment session, the scientist took Nick on a tour of the facility. At the end, Zero showed him a room attached to the workspace that would be his to use for the duration of his stay, as well as any subsequent visits. When he woke up, a hot breakfast was waiting for him in the kitchen and dining area.
+
+His mentor showed him how to use the machines and told him it would be his responsibility to feed himself whenever he had a few minutes to spare. The scientist led Nick to a bathroom with lockers lining one wall. After a quick shower followed by a magitech device that dried him within seconds, he donned a lab coat that was identical to Zero’s and they entered the workshop.
+
+“Now that you’re situated, I will provide an overview of what I intend to accomplish during our initial session. I’m glad your Mind is so high, as your recall should be perfect and I hate repeating myself. As your mentor, there are no limits on the information I can provide, although I cannot offer direct material aid. I can and will, however, teach you how to create devices using materials you provide yourself, which you will be allowed to take with you when you leave.
+
+“The goal of this phase is forming something I call a Computational Mana-Allocation Array, but you can call it an Array for short. The Array will automate myriad aspects of your spellcasting, dramatically improving your combat power, especially in large-scale conflicts.
+
+“When you return to the hall, I will show you how to fashion skill-and-combat-art Arrays—plug in things like Battlefield Awareness and Enhances Senses—then teach you to combine all three Arrays into a single construct that can make the most of every power at your command. After that, we can move on to other constructs, but mastering the art of Arrays will take several decades, even for a talent like yours.”
+
+Zero explained that Heritages were generally bestowed in multiple phases with breaks in between to master various components by using them in real-world settings. This initial phase would normally take several years to complete, but thanks to Nick’s abnormally high attributes, low need for sleep, and preexisting familiarity with programing and digital engineering concepts, the scientist thought he could learn it in approximately eight weeks. That meant he would miss the beginning of the first monster wave, but obtaining this power was worth the delay, particularly if it let him clear the node and claim it for Team Earth.
+
+“The first step is building the device’s physical housing. The Array is made of mana granted permeant form, but it needs a protective casing to prevent it from being destroyed in battle. Various magitech components can be added to offer additional functionality, which you referred to as ‘quality of life’ upgrades during our assessment interview. The housing doesn’t need to be pretty, but it will save time if you have some decent materials to work with. Otherwise, we’re going to have to spend a few days refining and manipulating raw resources. Go ahead and show me what you have to work with.”
+
+Nick was about to start pulling random materials out of his backpack when an idea struck him. “Actually, I have something that might work better.” He removed the PDA from his belt pouch—the device he’d picked up in Kellen’s office while climbing Darkstone tower and upgraded several times since. “Whatever this is made of seems pretty durable.”
+
+Zero raised an eyebrow as he took the device from Nick’s hands and held it up for inspection, releasing a pulse of mana that made the PDA glow while releasing a faint chime.
+
+“This is quite a bit better than anything I expected you to have picked up during your adventures. I sense Rizzen’s touch in its design, which pretty much guarantees the quality is top-tier, although I would never admit that to his face. I wonder if the crazy bastard is still alive.”
+
+“He is,” Nick replied. “I’ve seen him twice recently.”
+
+Zero’s eyes widened when Nick shared the story of encountering Rizzen after the tower’s portal network, then again during his vision of Taltos’s invasion of the fringe.
+
+“He’s working with the System to thwart the Mad God, and you were interesting enough to garner his direct attention? Ha! I didn’t think he had it in him to make a move on a stage of this scale. I can’t wait to see his expression when he learns I’ve stolen you from under his nose. He wouldn’t have revealed himself if he wasn’t evaluating your suitability as an heir.”
+
+That information was fascinating and more than a little unsettling, but ultimately a tangent. Zero returned his focus to the PDA, which was an ideal housing for the Array.
+
+“We can integrate the mana construct without losing any of the device’s functionality—even upgrade the recording and mapping functions if we find a few minutes to spare.”
+
+Nick was eager to get started, but it turned out there was another step he needed to clear before building and programming his personal Mana Array.
+
+“Your ability ranks are lagging far behind the rest of your advancement. It’s incredible rare for a world to have no magic whatsoever before integration, so I suppose it makes sense that mana manipulation would become a bottleneck. It seems you’ve made some recent progress in that regard, but there’s no point building an Array for pathways that haven’t taken their final form or reached their optimal efficiency. We need to get your spells to Rank 5 before we can proceed, as you won’t have the skills required to fine tune the circuits on your own until you’ve mastered my legacy’s second phase.”
+
+Nick raised his hand to grab his mentor’s attention. “If we are taking my spells to their final form before including them in the Array, why are we stopping at Rank 5?”
+
+It turned out that the reason his abilities didn’t need to reach Rank 6 was because that was the point where they were integrated with his Concept. Once he learned to infuse his spells with Devour, he would obtain variations that integrated essence and other energies. However, he could always cast them with mana alone, and his Concept wouldn’t compatible with the Array until the third stage of the legacy, which meant hitting Rank 6 was something Nick could tackle on his own a little later down the road.
+
+With that, Zero began an intensive tutoring session, building on the fundamental laws of magic Nick had been learning on his own through trial and error along with the visions the System provided. After using his powers nearly nonstop for two months within Blade World, he already had the understanding he needed on a practical level. Now he needed to merge his hands-on experience with the theoretical and conceptual framework his mentor provided.
+
+With his super attributes, he was able to entertain multiple trains of thought and visualize complex interactions based on description supplement by the examples Zero manifested during each lecture. Fritz wasn’t able to watch, since the Heritage was only accessible to its caretaker and their heir, but Nick still met the king every night for their regular sparring sessions, and he apprised the warrior of his progress while honing his swordplay.
+
+In the end, Zero was able to guide Nick to Rank 5 with every spell in less than a week. When he asked about hybrid abilities, his mentor said the Array couldn’t use them so he would have to train them on his own, although the man provided some useful pointers regarding stamina manipulation that Nick found incredibly helpful.
+
+He ranked up his spells one at a time, paying close attention to the recap visions as well as the in-depth views of his ability pathways, which were a vital component of constructing his Mana Array.
+
+Congratulations. You have deepened your understanding of Piercing Ray and cleared the requirements to advance this ability to Rank 4.
+
+Would you like to look at the upgrade options for Rank 4 now?
+
+You can alter the ability in one of the following ways:
+
+After conferring with Zero, Nick chose the first upgrade. The second would be great if he was planning to focus on ranged attacks and assume a sniping role. However, his combat style focused on short and medium-ranged attacks, and with his speed and mobility, closing the distance wasn’t an issue.
+
+The scientist told him certain bloodlines could simulate the effect of the third listing. Sure enough, Nick had one in his bag that would provide the same benefit to all his spells. Armed with that knowledge, he was happy to select the option that maximized Piercing Ray’s physical damage, which was the role he wanted it to play.
+
+When he took it for a test drive in the firing range attached to Zero’s workshop—which could generate constructs in the shape of any opponent he desired—Nick learned his rays had gained incredible lethality. They were already piercing armor and split after hitting soft tissue. Now the mini-drills exploded too, turning his drill shotgun into a cluster munition on top of everything else.
+
+Congratulations. You have deepened your understanding of Piercing Ray and cleared the requirements to advance this ability to Rank 5.
+
+Congratulations. You have deepened your understanding of Force Armor and cleared the requirements to advance this ability to Rank 4.
+
+Would you like to look at the upgrade options for Rank 4 now?
+
+You can alter the ability in one of the following ways:
+
+This decision wasn’t as straightforward as the last. Nick wasn’t willing to lose the spell’s aura aspect. It would undermine his ability to protect his friends, making him less effective in both parties and larger formations. However, his other options were tempting. Deflecting projectiles instead of blocking them head-on would significantly increase the armor’s efficiency, while damage reflection would grant the spell a potent offensive component.
+
+In the end, he went with the latter. Force Armor already had an adaptive aspect after its Rank-2 upgrade and Arcane Shield was well-suited to countering projectiles. A damage-reflection component, however, would be perfect for taking on monsters that used their own bodies as weapons. Anything that tried to bite or claw his people would be in for one hell of a surprise.
+
+Congratulations. You have deepened your understanding of Force Armor and cleared the requirements to advance this ability to Rank 5.
+
+Congratulations. You have deepened your understanding of Force Acceleration and cleared the requirements to advance this ability to Rank 3.
+
+Congratulations. You have deepened your understanding of Force Acceleration and cleared the requirements to advance this ability to Rank 4.
+
+Would you like to look at the upgrade options for Rank 4 now?
+
+You can alter the ability in one of the following ways:
+
+The choice was easy this time around, and he didn’t need Zero’s help. While the first two options would come in handy in a wide range of situations, dealing damage was critical for defeating elite enemies. Force Acceleration was a core component of Sonic Slice, and enhancing the projections it generated would multiply the devastation wrought by his signature technique.
+
+When Nick gave it a go in the firing range, Sonic Slice hit significantly harder than before, obliterating constructs until Zero adjusted their settings to simulate Tier-3 foes. As a bonus, the projections created by his punches and kicks were stronger too. They wouldn’t harm elites, but they could still serve as useful distractions and deal decent damage to lesser opponents.
+
+Congratulations. You have deepened your understanding of Force Acceleration and cleared the requirements to advance this ability to Rank 5.
+
+Congratulations. You have deepened your understanding of Mana Dart and cleared the requirements to advance this ability to Rank 5.
+
+Congratulations. You have deepened your understanding of Arcane Shield and cleared the requirements to advance this ability to Rank 3.
+
+Congratulations. You have deepened your understanding of Arcane Shield and cleared the requirements to advance this ability to Rank 4.
+
+Would you like to look at the upgrade options for Rank 4 now?
+
+You can alter the ability in one of the following ways:
+
+This one was tough. The first option would help Nick defend his allies when fighting in formation, which would be great during large-scale battles. The second would let him Skywalk entire squadrons for rapid repositioning and was bound to come in handy in other situations too. The third was a clearcut upgrade to the spell’s defensive component, which Zero said would work well with the Array.
+
+Since it would be ideal for battling powerful foes and working with party-sized groups, Nick decided to follow his mentor’s advice. They had already recorded a baseline, and when they tested the spell in the firing range, the shields could absorb over twice as much damage as before.
+
+Congratulations. You have deepened your understanding of Arcane Shield and cleared the requirements to advance this ability to Rank 5.
+
+In addition to the large-step upgrades, the even-numbered rank ups provided a massive boost in efficiency. Combined with his expanded mana pool and enhanced rate of regeneration, he could unleash hundreds of spells before running out of juice and would be ready to rejoin the fight within minutes after his reserves ran dry.
+
+With his ability advancements in the rearview mirror, it was time to start building his Array and pick up the skills provided during the Heritage’s first phase. The men reentered the workshop, ready to take Nick’s understanding of magic and machines to a lethal new level.
