@@ -4,7 +4,7 @@ export const modelAnswer = {
   id: "01a090e8-1fef-7d6a-a940-542adc23a645",
   type: "page-type/module",
   slug: "model-answer",
-  definition: "how a yes or no answer from a model is read",
+  definition: "how code reads a yes from a model",
   code: "ts",
   test: "ts",
   decisions: [
@@ -35,5 +35,5 @@ export const modelAnswer = {
     },
   ],
   createdAt: "2026-09-11T14:38:46.767Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-19T19:24:01.996Z",
 } as const satisfies Module
