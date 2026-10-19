@@ -4,7 +4,7 @@ export const roleplayRecorder = {
   id: "01a14ab2-b79f-73ea-83ec-e89c61df70d0",
   type: "page-type/role",
   slug: "roleplay-recorder",
-  definition: "an agent that records the numbers and memory of each turn a roleplay seat narrated",
+  definition: "an agent that writes what each part of a story changes",
   onCall: false,
   decisions: [
     {
@@ -80,5 +80,5 @@ export const roleplayRecorder = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-17T20:53:33.106Z",
+  updatedAt: "2026-10-19T19:46:45.751Z",
 } as const satisfies Role
