@@ -5,7 +5,8 @@ export const resumeTokenThreshold = {
   type: "page-type/number-property",
   slug: "resume-token-threshold",
   propertySlug: "resume-token-threshold",
-  definition: "how many tokens a seat's session has before starting it offers the resume menu",
+  definition:
+    "the number of tokens a Claude Code session has before Claude Code shows a resume menu",
   max: null,
   decisions: [
     {
@@ -19,5 +20,5 @@ export const resumeTokenThreshold = {
   ],
   types: "ts",
   createdAt: "2026-09-03T18:13:56.765Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-19T20:05:32.824Z",
 } as const satisfies NumberProperty
