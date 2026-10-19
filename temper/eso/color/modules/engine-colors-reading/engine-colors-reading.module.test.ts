@@ -4,30 +4,15 @@ import {
   engineColorsIn,
 } from "akasha/temper/eso/color/modules/engine-colors-reading/engine-colors-reading.module.code.ts"
 
-const CAPTURE = `TemperCatalog_SavedVariables =
-{
-    ["Default"] =
-    {
-        ["@zeta"] =
-        {
-            ["$AccountWide"] =
-            {
-                ["interfaceColorCatalog"] =
-                {
-                    ["apiVersion"] = 101050,
-                    ["colors"] =
-                    {
-                        [1] = { ["type"] = 13, ["field"] = 2, ["red"] = 1, ["green"] = 0.5, ["blue"] = 0, ["alpha"] = 1 },
-                        [2] = { ["type"] = 1, ["field"] = 4, ["red"] = 0.6, ["green"] = 0.2, ["blue"] = 0.9, ["alpha"] = 1 },
-                        [3] = { ["type"] = 1, ["field"] = 0, ["red"] = 0.5, ["green"] = 0.5, ["blue"] = 0.5, ["alpha"] = 1 },
-                        [4] = { ["type"] = 1, ["field"] = 9, ["red"] = "bad" },
-                    },
-                },
-            },
-        },
-    },
+const CAPTURE = {
+  apiVersion: 101050,
+  colors: [
+    { type: 13, field: 2, red: 1, green: 0.5, blue: 0, alpha: 1 },
+    { type: 1, field: 4, red: 0.6, green: 0.2, blue: 0.9, alpha: 1 },
+    { type: 1, field: 0, red: 0.5, green: 0.5, blue: 0.5, alpha: 1 },
+    { type: 1, field: 9, red: "bad" },
+  ],
 }
-`
 
 describe("engineColorsIn", () => {
   test("keeps each color under its type and field as four channels", () => {
@@ -46,17 +31,15 @@ describe("engineColorsIn", () => {
     expect(engineColorsIn(CAPTURE)?.colors["1"]?.["9"]).toBeUndefined()
   })
 
-  test("reads a capture holding no colors as nothing", () => {
-    expect(engineColorsIn(`TemperCatalog_SavedVariables =\n{\n}\n`)).toBeUndefined()
+  test("reads a catalog holding no colors as no type", () => {
+    expect(engineColorsIn({}).colors).toEqual({})
   })
 
-  test("reads a file that will not parse as nothing", () => {
-    expect(engineColorsIn("this is not lua at all")).toBeUndefined()
+  test("reads a catalog naming no API version as version nothing", () => {
+    expect(engineColorsIn({ colors: [] }).apiVersion).toBe(0)
   })
 
   test("writes a body ending in one newline", () => {
-    const held = engineColorsIn(CAPTURE)
-    if (held === undefined) throw new Error("the capture read as nothing")
-    expect(colorsBody(held).endsWith("}\n")).toBe(true)
+    expect(colorsBody(engineColorsIn(CAPTURE)).endsWith("}\n")).toBe(true)
   })
 })

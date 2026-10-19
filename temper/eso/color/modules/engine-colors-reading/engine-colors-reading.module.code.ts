@@ -1,10 +1,4 @@
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
-import { accountWideHolding } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
-import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
-
-const TOP_LEVEL = "TemperCatalog_SavedVariables"
-
-const HELD = "interfaceColorCatalog"
 
 const NOTHING = 0
 
@@ -53,15 +47,7 @@ function sortedColors(
   return out
 }
 
-export function engineColorsIn(content: string): EngineColors | undefined {
-  let root: Record<string, unknown>
-  try {
-    root = parseLuaSavedVariablesFile(content, TOP_LEVEL)
-  } catch {
-    return undefined
-  }
-  const catalog = accountWideHolding(root, HELD)
-  if (catalog === undefined) return undefined
+export function engineColorsIn(catalog: Readonly<Record<string, unknown>>): EngineColors {
   const found = new Map<string, Map<string, EngineColor>>()
   for (const entry of entriesOf(catalog.colors)) {
     if (!isRecord(entry)) continue

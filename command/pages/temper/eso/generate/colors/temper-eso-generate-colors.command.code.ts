@@ -8,7 +8,6 @@ import {
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { codeRoot as codeRootArgument } from "akasha/command/argument/pages/code-root.argument.ts"
-import { savedVariablesFile as savedVariablesFileArgument } from "akasha/command/argument/pages/saved-variables-file.argument.ts"
 import {
   DATA,
   OPERATIONAL,
@@ -22,14 +21,16 @@ import {
 } from "akasha/command/modules/page-answering/page-answering.module.code.ts"
 import { temperEsoGenerateColors as page } from "akasha/command/pages/temper/eso/generate/colors/temper-eso-generate-colors.command.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
-import { resolveSavedVariablesPath } from "akasha/temper/catalog/side-file/modules/catalog-file-paths/catalog-file-paths.module.code.ts"
+import { capturedCatalog } from "akasha/temper/catalog/world/temper-catalog-domain/modules/catalog-capture-reading/catalog-capture-reading.module.code.ts"
 import {
   colorsBody,
   engineColorsIn,
 } from "akasha/temper/eso/color/modules/engine-colors-reading/engine-colors-reading.module.code.ts"
 import { COLORS_AT } from "akasha/temper/eso/color/modules/engine-colors-seeding/engine-colors-seeding.module.code.ts"
 
-const NAMED = [codeRootArgument, savedVariablesFileArgument] as const
+const NAMED = [codeRootArgument] as const
+
+const CATALOG = "interfaceColorCatalog"
 
 const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
@@ -46,20 +47,20 @@ async function written(taken: Taken, given: Given): Promise<Answer> {
     return refused(`\`${named}\` is no checkout on this disk, so nothing was read or written`, DATA)
   }
 
-  const from = resolveSavedVariablesPath(taken.savedVariablesFile)
-  let capture: string
-  try {
-    capture = await readFile(from, "utf8")
-  } catch {
-    return refused(`\`${from}\` is no file this can read, so there is no capture to write`, DATA)
+  const catalog = capturedCatalog(root, CATALOG)
+  if (catalog === undefined) {
+    return refused(
+      `no capture of \`${CATALOG}\` has landed beside its catalog domain page, so the table was left as it is` +
+        " — the watcher lands one when the game next reloads",
+      DATA
+    )
   }
 
-  const held = engineColorsIn(capture)
-  const types = held === undefined ? [] : Object.values(held.colors)
-  if (held === undefined || types.length === 0) {
+  const held = engineColorsIn(catalog)
+  const types = Object.values(held.colors)
+  if (types.length === 0) {
     return refused(
-      `\`${from}\` carries no interface colors, so the table was left as it is` +
-        " — the game collects them when it next reloads",
+      `the \`${CATALOG}\` capture carries no interface colors, so the table was left as it is`,
       DATA
     )
   }
@@ -74,7 +75,7 @@ async function written(taken: Taken, given: Given): Promise<Answer> {
   if (was === body) {
     return told([
       `\`${COLORS_AT}\` already holds what the capture says, so nothing landed`,
-      `read from ${from} at API version ${String(held.apiVersion)}`,
+      `read from the \`${CATALOG}\` capture at API version ${String(held.apiVersion)}`,
     ])
   }
 
@@ -93,7 +94,7 @@ async function written(taken: Taken, given: Given): Promise<Answer> {
   const colors = types.reduce((all, fields) => all + Object.keys(fields).length, 0)
   return told([
     `${String(colors)} color(s) over ${String(types.length)} type(s) landed in \`${COLORS_AT}\``,
-    `read from ${from} at API version ${String(held.apiVersion)}`,
+    `read from the \`${CATALOG}\` capture at API version ${String(held.apiVersion)}`,
   ])
 }
 

@@ -9,7 +9,7 @@ export const temperEsoGenerateColors = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file the call does not name is read from the game's live install.",
+      statement: "The colors are read from the capture landed beside their catalog domain page.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -29,7 +29,8 @@ export const temperEsoGenerateColors = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A capture holding no colors refuses rather than emptying the table.",
+      statement:
+        "No capture landed, or one holding no colors, refuses rather than emptying the table.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -37,7 +38,7 @@ export const temperEsoGenerateColors = {
     },
   ],
   name: "colors",
-  arguments: [{ argument: "argument/code-root" }, { argument: "argument/saved-variables-file" }],
+  arguments: [{ argument: "argument/code-root" }],
   createdAt: "2026-09-24T15:12:03.706Z",
-  updatedAt: "2026-09-24T15:12:24.000Z",
+  updatedAt: "2026-10-19T17:45:15.363Z",
 } as const satisfies Command

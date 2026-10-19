@@ -10,15 +10,11 @@ export const engineColorsReading = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The colors are read from the first account holding them, by sorted name.",
+      statement: "The colors are read from the interface color catalog's table.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A capture holding no colors is read as nothing rather than as an empty table.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A file that will not parse is read as nothing rather than raising.",
+      statement: "A table holding no colors is read as no type rather than refused here.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -31,5 +27,5 @@ export const engineColorsReading = {
     },
   ],
   createdAt: "2026-09-24T15:09:43.954Z",
-  updatedAt: "2026-09-24T15:11:56.000Z",
+  updatedAt: "2026-10-19T17:45:15.363Z",
 } as const satisfies Module
