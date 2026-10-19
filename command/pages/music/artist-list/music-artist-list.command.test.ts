@@ -1,9 +1,8 @@
 import { expect, test } from "bun:test"
 import { plain } from "akasha/code/running/modules/code-tests/code-tests.module.code.ts"
-import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type { Artists } from "akasha/command/pages/music/artist-list/music-artist-list.command.code.ts"
 import {
-  artistsOf,
   bare,
   musicArtistList,
   rowsOf,
@@ -19,7 +18,11 @@ import { z } from "zod"
 
 const ROOT = codeRoot()
 
-const ARTISTS_SAID = z.looseObject({ artists: z.number() })
+const ARTISTS_SAID = z.looseObject({
+  artists: z.number(),
+  releases: z.number(),
+  rows: z.array(z.looseObject({ releases: z.number() })),
+})
 
 const GIVEN: Given = {
   root: ROOT,
@@ -144,9 +147,16 @@ test("an artist listed with no release is said with no share", () => {
   expect(lines.join("\n")).toContain("Three")
 })
 
+let held: Answer | null = null
+
+function answered(): Answer {
+  held ??= musicArtistList(["--json"], GIVEN)
+  return held
+}
+
 test("the json answer parses and counts the artists listed", () => {
   if (!indexThere(ROOT)) return
-  const said = musicArtistList(["--json"], GIVEN)
+  const said = answered()
   expect(said.code).toBe(0)
   const parsed = ARTISTS_SAID.parse(JSON.parse(said.report.join("\n")))
   expect(parsed.artists).toBeGreaterThan(0)
@@ -154,10 +164,9 @@ test("the json answer parses and counts the artists listed", () => {
 
 test("the totals are over the artists listed rather than over every artist", () => {
   if (!indexThere(ROOT)) return
-  const all = artistsOf(ROOT, null)
-  const following = artistsOf(ROOT, "following")
-  expect(following.artists).toBeLessThanOrEqual(all.artists)
-  expect(following.releases).toBeLessThanOrEqual(all.releases)
+  const parsed = ARTISTS_SAID.parse(JSON.parse(answered().report.join("\n")))
+  expect(parsed.artists).toBe(parsed.rows.length)
+  expect(parsed.releases).toBe(parsed.rows.reduce((was, one) => was + one.releases, 0))
 })
 
 const ESCAPE = String.fromCharCode(27)
@@ -212,5 +221,5 @@ test("the rungs sharing a letter share a color", () => {
 
 test("the json answer carries no color", () => {
   if (!indexThere(ROOT)) return
-  expect(musicArtistList(["--json"], GIVEN).report.join("\n")).not.toContain(ESCAPE)
+  expect(answered().report.join("\n")).not.toContain(ESCAPE)
 })

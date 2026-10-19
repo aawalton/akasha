@@ -148,7 +148,7 @@ export function rungsOf(rows: readonly ArtistRow[]): readonly Rung[] {
   return rungs
 }
 
-export function artistsOf(root: string, wanted: Status | null): Artists {
+function artistsOf(root: string, wanted: Status | null): Artists {
   const counted = computedInto(root, gatheredFor(root, ARTIST, carriedFor(root, ARTIST)))
   const artists = counted.rows.map((one) => one.value as Held)
   const releases = valuesOfType(root, RELEASE).map((one) => one.value as Held)
