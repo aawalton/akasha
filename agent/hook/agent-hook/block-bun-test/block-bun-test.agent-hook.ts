@@ -4,7 +4,7 @@ export const blockBunTest = {
   id: "01a04eab-d4f8-7000-9dec-eba229399731",
   type: "page-type/agent-hook",
   slug: "block-bun-test",
-  definition: "a refusal of every bun test call made inside the akasha checkout",
+  definition: "a refusal of every Bun test run made in akasha",
   code: "ts",
   test: "ts",
   runsAt: ["PreToolUse"],
@@ -47,5 +47,5 @@ export const blockBunTest = {
     },
   ],
   createdAt: "2026-08-29T17:57:59.160Z",
-  updatedAt: "2026-09-25T14:18:45.000Z",
+  updatedAt: "2026-10-19T17:30:23.409Z",
 } as const satisfies AgentHook
