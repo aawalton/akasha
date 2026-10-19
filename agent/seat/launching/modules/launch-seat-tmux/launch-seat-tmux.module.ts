@@ -4,7 +4,7 @@ export const launchSeatTmux = {
   id: "01a06983-278f-7269-bd88-794f83800559",
   type: "page-type/module",
   slug: "launch-seat-tmux",
-  definition: "a seat supervisor launched inside a tmux session, and that session ended",
+  definition: "how code runs a seat supervisor in a tmux session",
   code: "ts",
   test: "ts",
   decisions: [
@@ -23,5 +23,5 @@ export const launchSeatTmux = {
     },
   ],
   createdAt: "2026-09-03T23:03:18.159Z",
-  updatedAt: "2026-09-28T21:47:24.000Z",
+  updatedAt: "2026-10-19T20:11:57.868Z",
 } as const satisfies Module
