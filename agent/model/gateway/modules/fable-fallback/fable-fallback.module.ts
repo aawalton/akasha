@@ -4,7 +4,7 @@ export const fableFallback = {
   id: "01a0628b-a005-7a3c-a6f6-8e20462f3bb8",
   type: "page-type/module",
   slug: "fable-fallback",
-  definition: "whether a request body names a fable model",
+  definition: "whether a request calls a Fable model",
   code: "ts",
   test: "ts",
   decisions: [
@@ -46,5 +46,5 @@ export const fableFallback = {
     },
   ],
   createdAt: "2026-09-02T14:35:12.773Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-19T19:03:51.803Z",
 } as const satisfies Module
