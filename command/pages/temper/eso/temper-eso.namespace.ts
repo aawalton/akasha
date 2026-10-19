@@ -5,8 +5,8 @@ export const temperEso = {
   type: "page-type/namespace",
   slug: "temper-eso",
   definition: "the game's own files, read and written",
-  parts: ["namespace/temper-eso-generate"],
+  parts: ["namespace/temper-eso-generate", "command/temper-eso-memory"],
   name: "eso",
   createdAt: "2026-09-07T13:38:51.691Z",
-  updatedAt: "2026-09-22T13:51:13.000Z",
+  updatedAt: "2026-10-19T18:40:53.679Z",
 } as const satisfies Namespace

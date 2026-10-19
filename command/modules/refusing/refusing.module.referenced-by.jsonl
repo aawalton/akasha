@@ -120,6 +120,7 @@
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/community/addon-list/temper-community-addon-list.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/community/addon-update/temper-community-addon-update.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/error-list/temper-error-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/eso/memory/temper-eso-memory.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/inventory/decode-link/temper-inventory-decode-link.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/inventory/env-parity/temper-inventory-env-parity.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/temper/inventory/explain/temper-inventory-explain.command.code.ts","typed":false,"deferred":false}
