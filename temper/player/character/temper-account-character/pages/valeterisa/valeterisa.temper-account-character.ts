@@ -12,7 +12,8 @@ export const valeterisa = {
   race: "temper-race/breton",
   class: "temper-class/sorcerer",
   firstName: "Valeterisa",
+  fights: "jsonl",
   readings: "jsonl",
   createdAt: "2026-04-29T16:44:17.279Z",
-  updatedAt: "2026-10-19T23:12:44.380Z",
+  updatedAt: "2026-10-19T23:46:12.289Z",
 } as const satisfies TemperAccountCharacter
