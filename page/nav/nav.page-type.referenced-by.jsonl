@@ -48,6 +48,7 @@
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/requests.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/seats.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/series.nav.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/shopping.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/smiling-jenny.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/tasks.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/tech.nav.ts","typed":true,"deferred":false}
