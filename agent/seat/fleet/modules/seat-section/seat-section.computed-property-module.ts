@@ -4,7 +4,7 @@ export const seatSection = {
   id: "01a0e3e8-a98b-74d1-91a6-5896d43a88b6",
   type: "page-type/computed-property-module",
   slug: "seat-section",
-  definition: "the section of the fleet a seat is drawn under",
+  definition: "where a list of seats shows a seat",
   code: "ts",
   test: "ts",
   decisions: [
@@ -26,5 +26,5 @@ export const seatSection = {
     },
   ],
   createdAt: "2026-09-27T17:27:50.923Z",
-  updatedAt: "2026-09-28T19:48:17.000Z",
+  updatedAt: "2026-10-19T20:11:21.337Z",
 } as const satisfies ComputedPropertyModule
