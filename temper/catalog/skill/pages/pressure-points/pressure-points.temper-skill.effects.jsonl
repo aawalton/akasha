@@ -1,1 +1,3 @@
-{"id":"01a05fe6-c3d3-7c38-a6c8-84151ab9c462","metricId":"temper-metric-tree/metric-critical-rating","type":"slotted-ability-scaling","skillLineId":"temper-skill-line/nightblade-assassination","valuePerAbility":548}
+{"id":"01a05fe6-c3d3-7c38-a6c8-84151ab9c462","metricId":"temper-metric-tree/metric-critical-rating","type":"slotted-ability-scaling","skillLineId":"temper-skill-line/nightblade-assassination","valuePerAbility":438}
+{"id":"01a155ac-4cf1-740b-8728-d7c4148f832a","metricId":"temper-metric-tree/metric-critical-rating","type":"slotted-ability-scaling","skillLineId":"temper-skill-line/nightblade-shadow","valuePerAbility":438}
+{"id":"01a155ac-4cf1-7265-93cd-7ffd674958f8","metricId":"temper-metric-tree/metric-critical-rating","type":"slotted-ability-scaling","skillLineId":"temper-skill-line/nightblade-siphoning","valuePerAbility":438}
