@@ -8,10 +8,10 @@ export const furniture = {
   icon: "file-text",
   apiVersion: "eso.live.12.1.6.3309674",
   manifestApiVersion: 101051,
-  capturedAt: "2026-10-19T16:56:18.785Z",
+  capturedAt: "2026-10-19T17:01:19.402Z",
   generatorRanForVersion: "eso.live.11.3.6.3240040",
   generatorRanForManifestApiVersion: 101049,
   dormant: true,
-  updatedAt: "2026-10-19T16:56:29.779Z",
+  updatedAt: "2026-10-19T17:01:31.225Z",
   createdAt: "2026-09-02T01:39:30.991Z",
 } as const satisfies TemperCatalogDomain
