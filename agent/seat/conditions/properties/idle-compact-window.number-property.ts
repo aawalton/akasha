@@ -5,7 +5,7 @@ export const idleCompactWindow = {
   type: "page-type/number-property",
   slug: "idle-compact-window",
   propertySlug: "idle-compact-window",
-  definition: "how much context a seat that waits has before the context is summarized",
+  definition: "the number of tokens a seat that waits compacts at",
   max: null,
   decisions: [
     {
@@ -19,5 +19,5 @@ export const idleCompactWindow = {
   ],
   types: "ts",
   createdAt: "2026-09-21T19:57:06.172Z",
-  updatedAt: "2026-09-25T17:53:23.000Z",
+  updatedAt: "2026-10-19T19:56:51.066Z",
 } as const satisfies NumberProperty
