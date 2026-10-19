@@ -30,10 +30,9 @@ export const subordinatingConjunctionWithAClause = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A subordinating conjunction opening an adverb clause is a construction named on no page yet.",
+      statement: "A clause saying when is opened by a time conjunction rather than written here.",
     },
   ],
   createdAt: "2026-09-24T14:28:47.954Z",
-  updatedAt: "2026-09-25T15:41:48.000Z",
+  updatedAt: "2026-10-19T17:46:50.583Z",
 } as const satisfies Construction

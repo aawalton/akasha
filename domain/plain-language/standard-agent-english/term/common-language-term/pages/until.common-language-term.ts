@@ -5,7 +5,7 @@ export const until = {
   type: "page-type/common-language-term",
   slug: "until",
   definition: "up to the time that",
-  spellings: [{ partOfSpeech: "part-of-speech/subordinating-conjunction", spelling: "until" }],
+  spellings: [{ partOfSpeech: "part-of-speech/time-conjunction", spelling: "until" }],
   createdAt: "2026-09-25T16:47:26.960Z",
-  updatedAt: "2026-09-25T16:47:31.000Z",
+  updatedAt: "2026-10-19T17:46:50.583Z",
 } as const satisfies CommonLanguageTerm

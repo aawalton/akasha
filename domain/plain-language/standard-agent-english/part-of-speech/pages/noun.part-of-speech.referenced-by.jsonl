@@ -143,6 +143,7 @@
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/proper-noun.part-of-speech.ts","id":"01a0d483-e67e-7930-8ee9-f77a85c1f876"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/relative-pronoun.part-of-speech.ts","id":"01a0d428-a4ce-76be-a860-ad6dfb3fb3b5"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/subordinating-conjunction.part-of-speech.ts","id":"01a0d3d1-8abe-70e6-930c-7ba6f7040d74"}
+{"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/time-conjunction.part-of-speech.ts","id":"01a15545-f559-77d9-9643-d807e61f60d0"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/verb.part-of-speech.ts","id":"01a0c677-ca51-7407-b1ca-e2a16319c088"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/prose/prose.domain.ts","id":"01a0d8c3-aba6-78fa-a148-453817106626"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/all.common-language-term.ts","id":"01a0c62b-3d10-79ec-aaad-fc56d0786325"}

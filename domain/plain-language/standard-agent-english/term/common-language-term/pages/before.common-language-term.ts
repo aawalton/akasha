@@ -5,7 +5,10 @@ export const before = {
   type: "page-type/common-language-term",
   slug: "before",
   definition: "earlier than",
-  spellings: [{ partOfSpeech: "part-of-speech/preposition", spelling: "before" }],
+  spellings: [
+    { partOfSpeech: "part-of-speech/preposition", spelling: "before" },
+    { partOfSpeech: "part-of-speech/time-conjunction", spelling: "before" },
+  ],
   createdAt: "2026-09-25T15:14:00.940Z",
-  updatedAt: "2026-09-25T15:41:48.000Z",
+  updatedAt: "2026-10-19T17:46:50.583Z",
 } as const satisfies CommonLanguageTerm
