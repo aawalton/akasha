@@ -307,6 +307,7 @@ function recording(
       report: (message) => {
         said.push(message)
       },
+      readingsFor: async () => ({}),
       ...extra,
     },
     written,
@@ -428,6 +429,27 @@ test("a character is reached by the slug a task and an override name", async () 
   const written = seam.written[0]?.content ?? ""
   expect(written).toContain(`["esoCharacterId"] = "1001"`)
   expect(written).toContain("[1001] =")
+})
+
+test("the characters' readings reach the config file, and a reading that throws leaves them out", async () => {
+  const reading = { "1001": { toughness: 197915, damage: 7772, healing: 14031 } }
+  const read = recording(TASK_ROWS, OVERRIDE_ROWS, {
+    charactersConfigPath: "/nowhere/characters.lua",
+    readingsFor: async () => reading,
+  })
+  await runExportTasks(CONTENT, SUPABASE, read.options)
+  const written = read.written[0]?.content ?? ""
+  expect(written).toContain('["readings"]')
+  expect(written).toContain('["toughness"] = 197915')
+  const thrown = recording([], [], {
+    charactersConfigPath: "/nowhere/characters.lua",
+    readingsFor: async () => {
+      throw new Error("no page-service")
+    },
+  })
+  await runExportTasks(CONTENT, SUPABASE, thrown.options)
+  expect(thrown.written[0]?.content).toBe(LEGACY_EMPTY_SIDE_FILE)
+  expect(thrown.said).toContain("Readings: none written, since reading them threw: no page-service")
 })
 
 test("a run with no signed-in user is refused, naming what the session said", async () => {

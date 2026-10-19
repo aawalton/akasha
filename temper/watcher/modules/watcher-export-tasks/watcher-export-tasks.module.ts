@@ -85,7 +85,15 @@ export const watcherExportTasks = {
       decisionKind: "decision-kind/departure",
       statement: "The game is handed the card's own name rather than the address of its page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The config file carries the account's character readings where any read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Readings that throw leave the config file without them rather than unwritten.",
+    },
   ],
   createdAt: "2026-09-02T19:03:27.439Z",
-  updatedAt: "2026-09-24T16:25:52.000Z",
+  updatedAt: "2026-10-19T18:56:32.030Z",
 } as const satisfies Module

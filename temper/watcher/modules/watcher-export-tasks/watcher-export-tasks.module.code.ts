@@ -1,3 +1,4 @@
+import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { stringAt } from "akasha/code/type/narrowing/modules/string-at/string-at.module.code.ts"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { collectPages } from "akasha/page/access/modules/iterate/iterate.module.code.ts"
@@ -14,6 +15,10 @@ import { completionCardOfPageSlug } from "akasha/temper/player/completion/temper
 import type { CompletionOverride } from "akasha/temper/player/completion/temper-player-completion/modules/completion-override/completion-override.module.code.ts"
 import type { ParsedCompletionOverrideRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-override-row/completion-override-row.module.code.ts"
 import { parseCompletionOverrideRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-override-row/completion-override-row.module.code.ts"
+import {
+  type CharacterReadings,
+  characterReadingsFor,
+} from "akasha/temper/watcher/modules/watcher-character-readings/watcher-character-readings.module.code.ts"
 import type { CharactersConfigFileInputs } from "akasha/temper/watcher/modules/watcher-config-file/watcher-config-file.module.code.ts"
 import { serializeCharactersConfigFile } from "akasha/temper/watcher/modules/watcher-config-file/watcher-config-file.module.code.ts"
 import { log } from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
@@ -78,6 +83,8 @@ type ExportReport = (message: string) => void
 
 type AccountAddressOf = (userId: string) => Promise<string>
 
+type ReadingsFor = (accountPage: string) => Promise<CharacterReadings>
+
 export interface ExportTasksOptions {
   readonly userId?: string
   readonly addressOf?: AccountAddressOf
@@ -88,6 +95,7 @@ export interface ExportTasksOptions {
   readonly compilePriority?: CharacterPriorityCompile
   readonly writeSideFile?: SideFileWrite
   readonly report?: ExportReport
+  readonly readingsFor?: ReadingsFor
 }
 
 export function itemPathAt(
@@ -197,6 +205,20 @@ function writeCharactersConfig(
   return writeSideFile(path, serializeCharactersConfigFile(inputs))
 }
 
+async function readingsIn(
+  accountPage: string,
+  readingsFor: ReadingsFor,
+  report: ExportReport
+): Promise<CharacterReadings | undefined> {
+  try {
+    const readings = await readingsFor(accountPage)
+    return Object.keys(readings).length === 0 ? undefined : readings
+  } catch (thrown) {
+    report(`Readings: none written, since reading them threw: ${saidBy(thrown)}`)
+    return undefined
+  }
+}
+
 export async function runExportTasks(
   content: string,
   supabase: SignedInReader,
@@ -208,6 +230,7 @@ export async function runExportTasks(
   const compilePriority = options.compilePriority ?? compileCharacterPriority
   const writeSideFile = options.writeSideFile ?? writeSideFileIfChanged
   const report = options.report ?? log
+  const readingsFor = options.readingsFor ?? characterReadingsFor
   const sideFilePath = options.charactersConfigPath ?? null
 
   const userId = await userIdFor(supabase, options.userId, "export these tasks")
@@ -232,12 +255,13 @@ export async function runExportTasks(
       collect,
       getRows
     )
+    const readings = await readingsIn(accountPage, readingsFor, report)
     return {
       content,
       modified: false,
       charactersConfigSideFileHash: writeCharactersConfig(
         sideFilePath,
-        { characterPriority, tasks: {}, completionOverrides },
+        { characterPriority, tasks: {}, completionOverrides, readings },
         writeSideFile
       ),
     }
@@ -297,9 +321,10 @@ export async function runExportTasks(
       collect,
       getRows
     )
+    const readings = await readingsIn(accountPage, readingsFor, report)
     charactersConfigSideFileHash = writeCharactersConfig(
       sideFilePath,
-      { characterPriority, tasks: tasksRecord, completionOverrides },
+      { characterPriority, tasks: tasksRecord, completionOverrides, readings },
       writeSideFile
     )
   }
