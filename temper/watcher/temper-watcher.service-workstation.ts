@@ -61,7 +61,6 @@ export const temperWatcher = {
   parts: [
     "container-recipe/temper-watcher-image",
     "module/watcher-account-page",
-    "module/watcher-character-readings",
     "module/watcher-config",
     "module/watcher-config-file",
     "module/watcher-daemon",
@@ -129,5 +128,5 @@ export const temperWatcher = {
     "module/saved-variables-reader",
   ],
   createdAt: "2026-09-02T03:46:23.499Z",
-  updatedAt: "2026-10-19T18:56:32.030Z",
+  updatedAt: "2026-10-19T19:41:44.001Z",
 } as const satisfies ServiceWorkstation

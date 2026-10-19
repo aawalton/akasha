@@ -2329,7 +2329,6 @@
 {"propertySlug":"decision-kind","path":"temper/temper.domain.ts","id":"01a05db7-8d7c-762b-a343-9535d258e0b5"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/saved-variables-reader/saved-variables-reader.module.ts","id":"01a06084-d41a-7898-b2c6-0be1faa981da"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-account-page/watcher-account-page.module.ts","id":"01a06381-35cf-7609-a436-3c4f4a0d6e3a"}
-{"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-character-readings/watcher-character-readings.module.ts","id":"01a15585-c31e-7d9a-bd1a-9e0eee21e0da"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-config-file/watcher-config-file.module.ts","id":"01a06381-35cf-7578-8e5c-ded020afdf75"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-config/watcher-config.module.ts","id":"01a06377-d8cc-7874-ab3c-63e6604b4df8"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-dispatch-handling/watcher-dispatch-handling.module.ts","id":"01a063c7-b064-74a3-9ffc-0be1edaadd02"}

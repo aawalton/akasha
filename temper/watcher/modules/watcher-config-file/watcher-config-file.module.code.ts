@@ -76,7 +76,6 @@ export interface CharactersConfigFileInputs {
   readonly characterPriority: readonly string[]
   readonly tasks: Readonly<Record<string, unknown>>
   readonly completionOverrides: Readonly<Record<string, unknown>>
-  readonly readings?: Readonly<Record<string, unknown>>
 }
 
 export function serializeCharactersConfigFile(inputs: CharactersConfigFileInputs): string {
@@ -84,7 +83,6 @@ export function serializeCharactersConfigFile(inputs: CharactersConfigFileInputs
     block("characterPriority", inputs.characterPriority),
     block("tasks", inputs.tasks),
     block("completionOverrides", inputs.completionOverrides),
-    blockWhenGiven("readings", inputs.readings),
   ])
 }
 
