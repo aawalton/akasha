@@ -192,7 +192,7 @@ const archiveBoonSchema = z.strictObject({
   stacks: z.number(),
 })
 
-const reportedStatsReadingSchema = z.strictObject({
+export const reportedStatsReadingSchema = z.strictObject({
   capturedAt: z.number(),
   esoVersion: z.string().optional(),
   inCombat: z.boolean(),
