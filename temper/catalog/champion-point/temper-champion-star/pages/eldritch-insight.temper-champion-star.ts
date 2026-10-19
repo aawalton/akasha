@@ -11,7 +11,7 @@ export const eldritchInsight = {
   isSlottable: false,
   effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 520 }],
   hashPlace: 84,
-  jumpPoints: [10, 20],
+  jumpPoints: [0, 10, 20],
   createdAt: "2026-09-27T05:00:00.922Z",
-  updatedAt: "2026-10-19T22:40:43.300Z",
+  updatedAt: "2026-10-19T22:56:38.612Z",
 } as const satisfies TemperChampionStar
