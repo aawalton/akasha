@@ -11,6 +11,7 @@ export const warMount = {
   championConstellation: "craft",
   isSlottable: true,
   hashPlace: 27,
+  jumpPoints: [0, 75],
   createdAt: "2026-09-27T05:00:00.924Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:57:43.360Z",
 } as const satisfies TemperChampionStar
