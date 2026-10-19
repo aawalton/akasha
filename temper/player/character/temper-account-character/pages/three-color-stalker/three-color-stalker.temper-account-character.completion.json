@@ -17755,41 +17755,42 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792431460,
+      "capturedAt": 1792451156,
+      "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "stats": {
-        "stamina-maximum": 31353,
-        "penetration-physical": 8369,
         "resistance-critical": 1320,
-        "critical-rating-weapon": 11781,
-        "magicka-recovery": 937,
-        "resistance-spell": 14066,
-        "penetration-spell": 8369,
+        "health-recovery": 562,
         "critical-rating-spell": 11781,
         "stamina-recovery": 999,
-        "power-weapon": 3702,
-        "health-recovery": 562,
+        "critical-rating-weapon": 11781,
         "magicka-maximum": 13972,
-        "health-maximum": 19630,
+        "magicka-recovery": 937,
+        "stamina-maximum": 31353,
+        "penetration-physical": 8369,
+        "resistance-spell": 14066,
+        "power-weapon": 3702,
+        "penetration-spell": 8369,
         "power-spell": 3702,
-        "resistance-physical": 10436
+        "resistance-physical": 10436,
+        "health-maximum": 19630
       },
       "unbonusedStats": {
-        "stamina-maximum": 31353,
-        "penetration-physical": 0,
         "resistance-critical": 0,
-        "critical-rating-weapon": 2181,
-        "magicka-recovery": 937,
-        "resistance-spell": 0,
-        "penetration-spell": 0,
+        "health-recovery": 562,
         "critical-rating-spell": 2181,
         "stamina-recovery": 999,
-        "power-weapon": 1000,
-        "health-recovery": 562,
+        "critical-rating-weapon": 2181,
         "magicka-maximum": 13972,
-        "health-maximum": 19630,
+        "magicka-recovery": 937,
+        "stamina-maximum": 31353,
+        "penetration-physical": 0,
+        "resistance-spell": 0,
+        "power-weapon": 1000,
+        "penetration-spell": 0,
         "power-spell": 1000,
-        "resistance-physical": 0
+        "resistance-physical": 0,
+        "health-maximum": 19630
       },
       "activeBuffs": [
         {
@@ -17800,10 +17801,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 140699,
-          "name": "Minor Timidity",
+          "abilityId": 61667,
+          "name": "Major Savagery",
           "description": "",
-          "effect": "While in combat, consumes |cffffff1|r Ultimate every |cffffff1.5|r seconds.\n",
+          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
           "stacks": 0
         },
         {
@@ -17828,17 +17829,17 @@
           "stacks": 0
         },
         {
-          "abilityId": 61667,
-          "name": "Major Savagery",
-          "description": "",
-          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
-          "stacks": 0
-        },
-        {
           "abilityId": 61735,
           "name": "Minor Expedition",
           "description": "",
           "effect": "Increases your Movement Speed by |cffffff15|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 140699,
+          "name": "Minor Timidity",
+          "description": "",
+          "effect": "While in combat, consumes |cffffff1|r Ultimate every |cffffff1.5|r seconds.\n",
           "stacks": 0
         }
       ],
@@ -18410,6 +18411,7 @@
           "link": "|H0:item:95044:364:50:0:0:0:18:0:0:0:0:0:0:0:1:67:0:1:0:10000:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
+          "enchantCategory": 17,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
           "quality": 5
         },
@@ -18418,6 +18420,7 @@
           "link": "|H0:item:141441:364:50:45883:370:50:31:46:0:0:0:0:0:0:2049:78:0:1:0:0:0|h|h",
           "armor": 0,
           "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery.",
+          "enchantCategory": 31,
           "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff350|r.",
           "quality": 5
         },
@@ -18426,6 +18429,7 @@
           "link": "|H0:item:184881:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:10000:0|h|h",
           "armor": 1396,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
+          "enchantCategory": 17,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
           "quality": 5
         },
@@ -18434,6 +18438,7 @@
           "link": "|H0:item:141460:364:50:0:0:0:18:46:0:0:0:0:0:0:2049:78:0:1:0:10000:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
+          "enchantCategory": 17,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
           "quality": 5
         },
@@ -18442,6 +18447,7 @@
           "link": "|H0:item:141443:364:50:26587:370:50:2:46:0:0:0:0:0:0:2049:78:0:1:0:399:0|h|h",
           "armor": 0,
           "enchant": "Deals |cffffff1419|r Poison Damage.",
+          "enchantCategory": 16,
           "trait": "Increases chance to apply status effects by |cffffff117.5|r%.",
           "quality": 5
         },
@@ -18450,6 +18456,7 @@
           "link": "|H0:item:141443:364:50:26848:370:50:2:46:0:0:0:0:0:0:2049:78:0:1:0:405:0|h|h",
           "armor": 0,
           "enchant": "Deals |cffffff1419|r Flame Damage.",
+          "enchantCategory": 6,
           "trait": "Increases chance to apply status effects by |cffffff117.5|r%.",
           "quality": 5
         },
@@ -18458,6 +18465,7 @@
           "link": "|H0:item:184888:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:10000:0|h|h",
           "armor": 523,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
+          "enchantCategory": 17,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
           "quality": 5
         },
@@ -18466,6 +18474,7 @@
           "link": "|H0:item:184885:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:10000:0|h|h",
           "armor": 1221,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
+          "enchantCategory": 17,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
           "quality": 5
         },
@@ -18474,6 +18483,7 @@
           "link": "|H0:item:184882:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:10000:0|h|h",
           "armor": 1221,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
+          "enchantCategory": 17,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
           "quality": 5
         },
@@ -18482,6 +18492,7 @@
           "link": "|H0:item:141440:364:50:45883:370:50:31:46:0:0:0:0:0:0:2049:78:0:1:0:0:0|h|h",
           "armor": 0,
           "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery.",
+          "enchantCategory": 31,
           "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff350|r.",
           "quality": 5
         },
@@ -18490,6 +18501,7 @@
           "link": "|H0:item:224106:364:50:45883:370:50:31:0:0:0:0:0:0:0:1:0:0:1:0:0:0|h|h",
           "armor": 0,
           "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery.",
+          "enchantCategory": 31,
           "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff350|r.",
           "quality": 5
         },
@@ -18498,6 +18510,7 @@
           "link": "|H0:item:184883:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:10000:0|h|h",
           "armor": 698,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
+          "enchantCategory": 17,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
           "quality": 5
         }
@@ -18588,7 +18601,13 @@
         }
       ],
       "inArchive": false,
-      "archiveBoons": []
+      "archiveBoons": [],
+      "advanced": {
+        "healing-critical-bonus": 0.57,
+        "critical-damage": 0.57,
+        "healing-taken-base": 0.02,
+        "healing-done-base": 0.02
+      }
     }
   }
 }
