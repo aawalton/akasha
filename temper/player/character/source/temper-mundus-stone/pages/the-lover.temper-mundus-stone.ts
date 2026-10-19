@@ -10,6 +10,7 @@ export const theLover = {
   esoIconName: "constellation_lovers",
   effects: [{ metric: "temper-metric/penetration", effectType: "integer", value: 2744 }],
   hashPlace: 4,
+  boonAtTooltip: true,
   createdAt: "2026-09-26T20:33:58.498Z",
-  updatedAt: "2026-09-26T20:34:07.000Z",
+  updatedAt: "2026-10-19T23:15:56.576Z",
 } as const satisfies TemperMundusStone

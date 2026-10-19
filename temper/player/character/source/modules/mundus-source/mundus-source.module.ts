@@ -30,14 +30,18 @@ export const mundusSource = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A boon's tooltip number is not the value the character gets.",
+      statement: "A stone stating boon at tooltip applies its tooltip number under Divines.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every other stone applies its boon worked out exactly under Divines.",
     },
     {
       decisionKind: "decision-kind/stopgap",
       statement:
-        "Lady and Lover stats on other characters match the truncated tooltip form, not yet isolated.",
+        "Whether the tooltip number goes with the stone or with the stat kind is not yet isolated.",
     },
   ],
   createdAt: "2026-09-02T10:26:09.457Z",
-  updatedAt: "2026-10-19T22:25:16.595Z",
+  updatedAt: "2026-10-19T23:15:56.576Z",
 } as const satisfies Module

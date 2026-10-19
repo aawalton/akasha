@@ -87,6 +87,7 @@ const MUNDUS_FIELDS: readonly string[] = [
   "hashPlace",
   "boonBase",
   "boonScale",
+  "boonAtTooltip",
 ]
 
 const FOOD_OR_DRINK_FIELDS: readonly string[] = [

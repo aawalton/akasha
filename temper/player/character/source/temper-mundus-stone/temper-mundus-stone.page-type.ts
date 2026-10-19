@@ -11,6 +11,7 @@ export const temperMundusStone = {
     "text-property/eso-icon-name",
     "number-property/boon-base",
     "number-property/boon-scale",
+    "boolean-property/boon-at-tooltip",
   ],
   properties: [
     { pageProperty: "text-property/description", required: true, many: false },
@@ -25,6 +26,7 @@ export const temperMundusStone = {
     { pageProperty: "number-property/hash-place", required: true, many: false },
     { pageProperty: "number-property/boon-base", required: false, many: false },
     { pageProperty: "number-property/boon-scale", required: false, many: false },
+    { pageProperty: "boolean-property/boon-at-tooltip", required: false, many: false },
   ],
   decisions: [
     {
@@ -60,12 +62,18 @@ export const temperMundusStone = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A boon's tooltip number is not the value the character gets.",
+      statement:
+        "A boon's tooltip number is the value the character gets only on a stone stating boon at tooltip.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The Lady and the Lover apply their tooltip number, and the Lord and the Mage do not.",
     },
   ],
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
   createdAt: "2026-09-26T20:30:44.203Z",
-  updatedAt: "2026-10-19T22:25:16.595Z",
+  updatedAt: "2026-10-19T23:15:56.576Z",
 } as const satisfies PageType

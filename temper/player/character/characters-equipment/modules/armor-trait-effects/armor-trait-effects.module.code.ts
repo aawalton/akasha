@@ -34,6 +34,28 @@ export function calculateDivinesValue(
   return Math.floor((inThousandths(scale) * grown) / THOUSANDTHS)
 }
 
+function divinesTooltipThousandths(armorItems: readonly ArmorItem[]): number {
+  let grownBy = 1
+  for (const piece of armorItems) {
+    if (piece.trait === "divines") {
+      const share = Math.fround(armorTraitWorth("divines", resolveQuality(piece.quality)))
+      grownBy = Math.fround(grownBy + share)
+    }
+  }
+  return Math.floor(Math.fround(grownBy * THOUSANDTHS)) - THOUSANDTHS
+}
+
+export function calculateDivinesTooltipValue(
+  baseValue: number,
+  armorItems: readonly ArmorItem[],
+  scale = 1
+): number {
+  const grown = Math.floor(
+    (baseValue * (THOUSANDTHS + divinesTooltipThousandths(armorItems))) / THOUSANDTHS
+  )
+  return Math.floor((inThousandths(scale) * grown) / THOUSANDTHS)
+}
+
 export function getArmorTraitEffects(armor: ArmorItem): readonly MetricEffect[] {
   if (armor.trait === "no-trait" || armor.weight === "no-weight") {
     return []

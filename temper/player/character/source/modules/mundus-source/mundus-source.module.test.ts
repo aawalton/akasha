@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import type { EquipmentQualityId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import { calculateDivinesTooltipValue } from "akasha/temper/player/character/characters-equipment/modules/armor-trait-effects/armor-trait-effects.module.code.ts"
 import type { ArmorItem } from "akasha/temper/player/character/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import { createMundusSource } from "akasha/temper/player/character/source/modules/mundus-source/mundus-source.module.code.ts"
@@ -96,10 +97,34 @@ const APPLIED: readonly (readonly [string, Pieces, number])[] = [
   ["the-mage", { legendary: 5 }, 2943],
   ["the-mage", { legendary: 6 }, 3127],
   ["the-mage", { legendary: 7 }, 3311],
+  ["the-lady", { epic: 5, legendary: 1 }, 4102],
+  ["the-lady", { epic: 2, legendary: 5 }, 4434],
+  ["the-lover", { legendary: 5 }, 3989],
+  ["the-lover", { legendary: 6 }, 4239],
+  ["the-lover", { legendary: 7 }, 4489],
+  ["the-lover", { epic: 1, legendary: 5 }, 4212],
+  ["the-lover", { epic: 2, legendary: 5 }, 4434],
+  ["the-lover", { epic: 5, legendary: 1 }, 4102],
+  ["the-lover", { epic: 5, legendary: 2 }, 4351],
 ]
 
 test.each(
   APPLIED
 )("%s under Divines %o applies %d, as the game applied", (stone, pieces, applied) => {
   expect(boon(stone, pieces)).toBe(applied)
+})
+
+const SHOWN: readonly (readonly [Pieces, number])[] = [
+  [{ legendary: 1 }, 2207],
+  [{ legendary: 2 }, 2389],
+  [{ legendary: 5 }, 2941],
+  [{ legendary: 6 }, 3125],
+  [{ fine: 6 }, 2761],
+  [{ superior: 4 }, 2595],
+  [{ epic: 3 }, 2512],
+  [{ epic: 1, legendary: 1 }, 2368],
+]
+
+test.each(SHOWN)("the Mage's tooltip under Divines %o shows %d", (pieces, shown) => {
+  expect(calculateDivinesTooltipValue(2023, divines(pieces))).toBe(shown)
 })

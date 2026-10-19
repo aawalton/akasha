@@ -2,7 +2,10 @@ import {
   createDataFile,
   type DataFile,
 } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
-import { calculateDivinesValue } from "akasha/temper/player/character/characters-equipment/modules/armor-trait-effects/armor-trait-effects.module.code.ts"
+import {
+  calculateDivinesTooltipValue,
+  calculateDivinesValue,
+} from "akasha/temper/player/character/characters-equipment/modules/armor-trait-effects/armor-trait-effects.module.code.ts"
 import type { ArmorItem } from "akasha/temper/player/character/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import type { MetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 import type { EffectSourceInterface } from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
@@ -28,6 +31,7 @@ interface MundusTemplate extends EffectSourceInterface {
   effects: readonly MundusMetricEffect[]
   boonBase?: number
   boonScale?: number
+  boonAtTooltip?: boolean
 }
 
 export type MundusId = string
@@ -92,6 +96,7 @@ function placed(row: Row): readonly [number, readonly [MundusSource, string | nu
     esoMundusId: row.esoMundusId,
     effects,
     ...boonScaleOf(row, at, effects),
+    ...(row.boonAtTooltip === true ? { boonAtTooltip: true } : {}),
   }
   return [row.hashPlace, [stone, typeof row.esoIconName === "string" ? row.esoIconName : null]]
 }
@@ -140,6 +145,9 @@ export function createMundusSource(
     return baseMundus
   }
 
+  const divinesValue =
+    baseMundus.boonAtTooltip === true ? calculateDivinesTooltipValue : calculateDivinesValue
+
   const boostedEffects = mapOf(baseMundus.effects, (effect) => {
     const baseValue = effect.effectValue
     return {
@@ -147,11 +155,7 @@ export function createMundusSource(
       effectType: effect.effectType,
       effectValue:
         effect.effectType === "integer"
-          ? calculateDivinesValue(
-              baseMundus.boonBase ?? baseValue,
-              armorItems,
-              baseMundus.boonScale ?? 1
-            )
+          ? divinesValue(baseMundus.boonBase ?? baseValue, armorItems, baseMundus.boonScale ?? 1)
           : baseValue,
     } satisfies MundusMetricEffect
   })

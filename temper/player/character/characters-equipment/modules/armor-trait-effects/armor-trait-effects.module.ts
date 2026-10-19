@@ -21,9 +21,18 @@ export const armorTraitEffects = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A boon's tooltip number is not the value the character gets.",
+      statement: "A boon's tooltip number is worked out apart from the value worked out exactly.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The tooltip adds each piece's share to one in single precision.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The tooltip's thousandths are that sum times a thousand in single precision, floored.",
     },
   ],
   createdAt: "2026-09-02T09:24:55.958Z",
-  updatedAt: "2026-10-19T22:25:16.595Z",
+  updatedAt: "2026-10-19T23:15:56.576Z",
 } as const satisfies Module
