@@ -5,7 +5,7 @@ export const autoCompactWindow = {
   type: "page-type/number-property",
   slug: "auto-compact-window",
   propertySlug: "auto-compact-window",
-  definition: "the token count compacting a seat's agent",
+  definition: "the number of tokens a seat compacts at",
   max: null,
   decisions: [
     {
@@ -20,5 +20,5 @@ export const autoCompactWindow = {
   ],
   types: "ts",
   createdAt: "2026-09-03T18:13:56.761Z",
-  updatedAt: "2026-09-22T13:50:37.000Z",
+  updatedAt: "2026-10-19T19:56:19.935Z",
 } as const satisfies NumberProperty
