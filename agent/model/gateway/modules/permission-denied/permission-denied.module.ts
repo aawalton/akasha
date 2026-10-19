@@ -4,7 +4,7 @@ export const permissionDenied = {
   id: "01a0628c-26f7-7c6b-8758-0f0588e8ddf1",
   type: "page-type/module",
   slug: "permission-denied",
-  definition: "what a 403 body says about upstream refusing the caller permission",
+  definition: "whether Anthropic rejects a model account",
   code: "ts",
   test: "ts",
   decisions: [
@@ -40,5 +40,5 @@ export const permissionDenied = {
     },
   ],
   createdAt: "2026-09-02T14:35:47.319Z",
-  updatedAt: "2026-09-25T13:49:52.000Z",
+  updatedAt: "2026-10-19T19:15:15.398Z",
 } as const satisfies Module
