@@ -25,9 +25,13 @@ export const catalogEntry = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Tables nothing collects or reads are removed once the request is applied.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The first collection waits for the player rather than for the add-on load.",
     },
   ],
   createdAt: "2026-09-02T20:06:07.333Z",
-  updatedAt: "2026-10-19T17:57:53.311Z",
+  updatedAt: "2026-10-19T18:13:23.025Z",
 } as const satisfies Module

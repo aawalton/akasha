@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"catalog-constants.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-entry/catalog-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"catalog-constants.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-invalidations/catalog-invalidations.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"catalog-constants.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-landed-drop/catalog-landed-drop.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"catalog-constants.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-unused-tables/catalog-unused-tables.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"catalog-constants.module.code.ts","path":"temper/addon/pages/catalog/modules/datamining-entry/datamining-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"catalog-constants.module.code.ts","path":"temper/addon/pages/catalog/modules/datamining-item-miner/datamining-item-miner.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"catalog-constants.module.code.ts","path":"temper/addon/pages/catalog/modules/datamining-quest-miner/datamining-quest-miner.module.code.ts","typed":false,"deferred":false}

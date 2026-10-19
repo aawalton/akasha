@@ -4347,6 +4347,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/catalog-landed-drop/catalog-landed-drop.module.ts","id":"01a15550-1220-7bd4-8ae2-38b66afa30ce"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/catalog-public-api/catalog-public-api.module.ts","id":"01a063ba-94e5-75b2-87c7-9dffc0a06b28"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/catalog-side-file-config/catalog-side-file-config.module.ts","id":"01a063ba-94e5-762e-b100-0f913bbdb479"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/catalog-unused-tables/catalog-unused-tables.module.ts","id":"01a1555e-41d2-7eff-9e80-ba6d4af82eaa"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/datamining-constants/datamining-constants.module.ts","id":"01a06341-d9e8-7002-a0ab-0c2c0932a9ad"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/datamining-entry/datamining-entry.module.ts","id":"01a06341-d9e8-7007-aaa9-235436e7ef16"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/datamining-item-miner/datamining-item-miner.module.ts","id":"01a06341-d9e8-7004-990d-d242df0e2bd1"}

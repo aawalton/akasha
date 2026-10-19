@@ -22,6 +22,7 @@ export const temperAddonCatalog = {
     "module/catalog-landed-drop",
     "module/catalog-public-api",
     "module/catalog-side-file-config",
+    "module/catalog-unused-tables",
     "module/datamining-constants",
     "module/datamining-entry",
     "module/datamining-item-miner",
@@ -87,5 +88,5 @@ export const temperAddonCatalog = {
     },
   ],
   createdAt: "2026-09-02T20:06:07.333Z",
-  updatedAt: "2026-10-19T17:57:53.311Z",
+  updatedAt: "2026-10-19T18:13:23.025Z",
 } as const satisfies TemperAddon
