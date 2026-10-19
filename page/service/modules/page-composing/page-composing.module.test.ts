@@ -14,6 +14,7 @@ import {
   A_FRESH_CRATE,
   A_HELD_FIGURE,
   A_HELD_THING,
+  A_KEPT_LOG_AT,
   A_LONG_BODY,
   A_NEW_FIGURE,
   A_NEW_THING,
@@ -192,6 +193,14 @@ test("a body handed over for a file property is put at the file its ending names
 
 test("a body handed over names the ending the page already carries", () => {
   expect(pathsPut(bodiedFigure({ portrait: "x" }))).toContain(A_PORTRAIT_AT)
+})
+
+test("a body handed over for a file kept out of the commit is put beside the page outside it", () => {
+  const said = composing({ ...A_HELD_FIGURE, values: { log: "json" }, bodies: { log: "{}" } })
+  expect("keptPuts" in said && said.keptPuts).toEqual([{ path: A_KEPT_LOG_AT, content: "{}" }])
+  expect("kept" in said && said.kept[0]?.values.log).toBe("json")
+  expect(pathsPut(said)).not.toContain(A_KEPT_LOG_AT)
+  expect(bodyIn(said)).not.toContain("log")
 })
 
 test("a body handed over under a key holding its values as rows is refused", () => {

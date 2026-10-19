@@ -14,7 +14,11 @@ import {
   rowsRefused,
 } from "akasha/page/modules/entry-writing/page-entry-writing.module.code.ts"
 import { nameFaultIn } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
-import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import {
+  besideAt,
+  partedIn,
+  uncommittedBesideAt,
+} from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { partsOf } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
@@ -296,7 +300,7 @@ export function composedFor(root: string, named: Naming, source?: Source): Compo
       outside[one.key] = rows.ending
       continue
     }
-    if (one.uncommitted) {
+    if (one.uncommitted && !bodied) {
       outside[one.key] = value
       continue
     }
@@ -307,12 +311,19 @@ export function composedFor(root: string, named: Naming, source?: Source): Compo
       const ending = value as string
       const why = endingRefused(one.key, one.propertySlug, at, ending)
       if (why !== null) return { refused: why }
-      const besideFile = besideAt(at, one.propertySlug, ending)
+      const placed = one.uncommitted ? uncommittedBesideAt : besideAt
+      const besideFile = placed(at, one.propertySlug, ending)
       if (besideFile === null) {
         return { refused: `\`${at}\` is no page file, so no file sits beside it` }
       }
-      parts.push({ path: besideFile, content: bodies[one.key] ?? "" })
-      inside[one.key] = ending
+      const put = { path: besideFile, content: bodies[one.key] ?? "" }
+      if (one.uncommitted) {
+        keptPuts.push(put)
+        outside[one.key] = ending
+      } else {
+        parts.push(put)
+        inside[one.key] = ending
+      }
       continue
     }
     if (one.pageTypeSlug === ENTRY_PROPERTY && Array.isArray(value)) {

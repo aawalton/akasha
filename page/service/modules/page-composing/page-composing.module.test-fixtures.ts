@@ -52,6 +52,9 @@ const HELD_FIGURE = "held-figure"
 
 export const A_PORTRAIT_AT = "akasha/figure/pages/held-figure/held-figure.figure.portrait.md"
 
+export const A_KEPT_LOG_AT =
+  "akasha/figure/pages/held-figure/held-figure.figure.log.uncommitted.json"
+
 export const AT_THE_LENGTH: string = `held-${"a".repeat(95)}`
 
 export const PAST_THE_LENGTH: string = `held-${"a".repeat(96)}`
@@ -167,6 +170,7 @@ export const ROOT: string = indexedRepo({
     aProperty("0e", "rank", "rank-property"),
     aProperty("0f", "held-to", "text-property", { nullable: true }),
     aProperty("19", "crest", "text-property"),
+    aProperty("1a", "log", "file-property"),
     aType("18", selectProperty.slug, {
       extends: [PAGE_PROPERTY_AT],
       properties: [],
@@ -212,7 +216,12 @@ export const ROOT: string = indexedRepo({
     aType("13", "figure", {
       extends: ["page-type/thing"],
       types: "ts",
-      properties: [declares("portrait"), declares("rounds"), declares("tallies")],
+      properties: [
+        declares("portrait"),
+        declares("rounds"),
+        declares("tallies"),
+        declares("log", { uncommitted: true }),
+      ],
     }),
   ]),
   ...under("shard/", [

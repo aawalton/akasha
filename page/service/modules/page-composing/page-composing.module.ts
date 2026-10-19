@@ -232,6 +232,11 @@ export const pageComposing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A body for a file kept out of the commit is put beside the page outside the commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A body handed over for a key held in no file beside the page is refused.",
     },
     {
@@ -350,5 +355,5 @@ export const pageComposing = {
     },
   ],
   createdAt: "2026-09-01T16:59:28.548Z",
-  updatedAt: "2026-10-03T19:10:14.000Z",
+  updatedAt: "2026-10-19T17:36:11.365Z",
 } as const satisfies Module
