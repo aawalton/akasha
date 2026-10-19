@@ -5,7 +5,7 @@ export const overTools = {
   type: "page-type/text-property",
   slug: "over-tools",
   propertySlug: "over-tools",
-  definition: "the tools whose calls a hook judges",
+  definition: "the agent tools a hook judges",
   maxLength: 60,
   nameFormat: null,
   decisions: [
@@ -33,5 +33,5 @@ export const overTools = {
   ],
   types: "ts",
   createdAt: "2026-08-29T15:02:17.085Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-19T18:00:01.794Z",
 } as const satisfies TextProperty
