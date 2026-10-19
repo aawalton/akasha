@@ -8,9 +8,9 @@ export const sandboxLibrary = {
   icon: "file-text",
   apiVersion: "eso.live.12.1.6.3309674",
   manifestApiVersion: 101051,
-  capturedAt: "2026-10-19T17:43:54.008Z",
+  capturedAt: "2026-10-19T17:50:59.499Z",
   generatorRanForVersion: "eso.live.11.3.6.3240040",
   generatorRanForManifestApiVersion: 101049,
   createdAt: "2026-10-19T17:41:06.075Z",
-  updatedAt: "2026-10-19T17:44:11.586Z",
+  updatedAt: "2026-10-19T17:51:18.104Z",
 } as const satisfies TemperCatalogDomain
