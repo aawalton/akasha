@@ -7,8 +7,8 @@ export const theManyHiddenWorldsOfQuantumMechanics = {
   title: "The Many Hidden Worlds of Quantum Mechanics",
   status: "in-progress",
   unit: "unit/minutes",
-  ownLength: 716.4,
-  ownProgress: 59.7,
+  ownLength: 716.13,
+  ownProgress: 62.83,
   partOfCollections: [
     "great-courses-collection/all-great-courses",
     "great-courses-subject/science-great-courses",
@@ -21,5 +21,6 @@ export const theManyHiddenWorldsOfQuantumMechanics = {
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-10-18T21:07:43.678Z",
+  updatedAt: "2026-10-19T17:41:13.690Z",
+  progressedAt: "2026-10-19T17:41:13.690Z",
 } as const satisfies GreatCourse
