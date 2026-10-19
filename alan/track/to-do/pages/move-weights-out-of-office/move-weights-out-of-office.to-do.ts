@@ -10,6 +10,8 @@ export const moveWeightsOutOfOffice = {
   priority: "p3",
   toDoSortOrder: 43,
   toDoValue: "value/health",
+  toDoLastCompletedAt: "2026-10-19T13:04:27.894Z",
+  toDoCompletedAt: "2026-10-19T13:04:27.894Z",
   createdAt: "2026-10-19T12:21:43.029Z",
-  updatedAt: "2026-10-19T12:21:43.029Z",
+  updatedAt: "2026-10-19T13:04:28.371Z",
 } as const satisfies ToDo
