@@ -7,8 +7,8 @@ export const howToListenToAndUnderstandGreatMusic3rdEdition = {
   title: "How to Listen to and Understand Great Music, 3rd Edition",
   status: "in-progress",
   unit: "unit/minutes",
-  ownLength: 2190,
-  ownProgress: 91.25,
+  ownLength: 2189.55,
+  ownProgress: 135.67,
   partOfCollections: [
     "great-courses-collection/all-great-courses",
     "great-courses-subject/music-great-courses",
@@ -22,5 +22,6 @@ export const howToListenToAndUnderstandGreatMusic3rdEdition = {
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-10-18T21:07:43.678Z",
+  updatedAt: "2026-10-19T20:13:05.168Z",
+  progressedAt: "2026-10-19T20:13:05.168Z",
 } as const satisfies GreatCourse
