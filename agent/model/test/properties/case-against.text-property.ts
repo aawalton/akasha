@@ -5,7 +5,7 @@ export const caseAgainst = {
   type: "page-type/text-property",
   slug: "case-against",
   propertySlug: "against",
-  definition: "what judges a case's text",
+  definition: "the text that judges a case",
   maxLength: 2000,
   nameFormat: null,
   decisions: [
@@ -16,5 +16,5 @@ export const caseAgainst = {
   ],
   types: "ts",
   createdAt: "2026-09-11T14:25:59.400Z",
-  updatedAt: "2026-09-22T13:54:40.000Z",
+  updatedAt: "2026-10-19T19:07:30.096Z",
 } as const satisfies TextProperty
