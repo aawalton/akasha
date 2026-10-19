@@ -10,6 +10,7 @@ export const serafierre = {
   esoCharacterId: "8796093022859597",
   accountPage: "temper-account/alanarre",
   firstName: "Serafierre",
+  readings: "jsonl",
   createdAt: "2026-04-29T16:44:13.500Z",
-  updatedAt: "2026-09-24T16:26:32.000Z",
+  updatedAt: "2026-10-19T19:18:48.437Z",
 } as const satisfies TemperAccountCharacter
