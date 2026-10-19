@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQIopTAAIBjhRMGU_tABFp_bOELmC25IXMFtyQuYLbkhcwW3JC5gtuQg0drchAlq25CBLVtyBNEx2gCIgmOtuV9IwnOGKHVTyegAAAAAABMkAAijUEgBAGUBSQAoAGQAECEAEDJwIrAGYADkABKA4oARDJIHYjkRCwgAAACCMwHLQgQdIQADg4y6Neo3IsScMrHkyy5k2dn0adWvbPoUaVOp4q1ljZWyNnj65egYskLRE2RunaRKmTv1CmCqhK46wwcNkjYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TABAZCxiQNQ9lUiA",
+  "buildHash": "ATQIopTAAIBjhRP__fSMJzhiqGU8noAAAAAAATJAAIo1BIAQBlAUkAKABkABAhABAycCKwBmAA5AASgOKAEQySB2I5EQsIAAAAgjMBy0IEHSEAA4OMujXqNyLEnDKx5MsuZNnZ9GnVr2z6FGlTqeKtZY2VsjZ4-uXoGLJC0RNkbp2kSpk79QpgqoSuOsMHDZI2BKlgRgGEChjJoOIEmzgoWMGjh5AiSOkwAQGQsYkDUPZVIg",
   "gender": 1,
   "level": 50,
   "classId": 2,
@@ -1812,7 +1812,7 @@
             "name": "Summon Twilight Matriarch",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 2,
           "abilityIndex": 4,
           "isUltimate": false,
           "atMorph": true
@@ -4613,7 +4613,7 @@
   },
   "skillPoints": {
     "total": 385,
-    "unassigned": 37,
+    "unassigned": 35,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 0,
@@ -13648,55 +13648,56 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792430921,
+      "capturedAt": 1792450606,
+      "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "stats": {
-        "critical-rating-spell": 3596,
-        "stamina-recovery": 938,
-        "health-maximum": 20358,
-        "health-recovery": 510,
-        "penetration-spell": 11223,
-        "critical-rating-weapon": 3596,
-        "resistance-spell": 28459,
-        "power-weapon": 3736,
-        "resistance-physical": 26149,
+        "stamina-recovery": 604,
+        "penetration-spell": 5660,
+        "health-recovery": 359,
+        "health-maximum": 17960,
+        "critical-rating-spell": 2501,
         "magicka-maximum": 15246,
-        "magicka-recovery": 902,
-        "penetration-physical": 11223,
+        "resistance-spell": 5054,
+        "critical-rating-weapon": 2501,
+        "resistance-physical": 2744,
+        "penetration-physical": 5660,
+        "magicka-recovery": 734,
+        "stamina-maximum": 20605,
         "resistance-critical": 1320,
-        "stamina-maximum": 23857,
-        "power-spell": 3736
+        "power-weapon": 1200,
+        "power-spell": 1200
       },
       "unbonusedStats": {
-        "critical-rating-spell": 2181,
-        "stamina-recovery": 938,
-        "health-maximum": 20358,
-        "health-recovery": 510,
+        "stamina-recovery": 604,
         "penetration-spell": 0,
-        "critical-rating-weapon": 2181,
-        "resistance-spell": 0,
-        "power-weapon": 1000,
-        "resistance-physical": 0,
+        "health-recovery": 359,
+        "health-maximum": 17960,
+        "critical-rating-spell": 2181,
         "magicka-maximum": 15246,
-        "magicka-recovery": 902,
+        "resistance-spell": 0,
+        "critical-rating-weapon": 2181,
+        "resistance-physical": 0,
         "penetration-physical": 0,
+        "magicka-recovery": 734,
+        "stamina-maximum": 20605,
         "resistance-critical": 0,
-        "stamina-maximum": 23857,
+        "power-weapon": 1000,
         "power-spell": 1000
       },
       "activeBuffs": [
         {
-          "abilityId": 61694,
-          "name": "Major Resolve",
+          "abilityId": 61665,
+          "name": "Major Brutality",
           "description": "",
-          "effect": "Increases your Physical and Spell Resistance by |cffffff5948|r.\n",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
           "stacks": 0
         },
         {
-          "abilityId": 61746,
-          "name": "Minor Force",
+          "abilityId": 135397,
+          "name": "Vampire Stage 1",
           "description": "",
-          "effect": "Increases your Critical Damage done by |cffffff10|r%.\n",
+          "effect": "You are slightly corrupted from the influence of Vampirism.\n\nHealth Recovery: -10%\nFlame Damage Taken: +5%\nRegular Ability Costs: +3%\nVampire Ability Costs: -6%\n",
           "stacks": 0
         },
         {
@@ -13710,28 +13711,7 @@
           "abilityId": 13976,
           "name": "Boon: The Lady",
           "description": "increases Physical and Spell Resistance",
-          "effect": "Increases your Physical and Spell Resistance by |cffffff4239|r.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61735,
-          "name": "Minor Expedition",
-          "description": "",
-          "effect": "Increases your Movement Speed by |cffffff15|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61665,
-          "name": "Major Brutality",
-          "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 135397,
-          "name": "Vampire Stage 1",
-          "description": "",
-          "effect": "You are slightly corrupted from the influence of Vampirism.\n\nHealth Recovery: -10%\nFlame Damage Taken: +5%\nRegular Ability Costs: +3%\nVampire Ability Costs: -6%\n",
+          "effect": "Increases your Physical and Spell Resistance by |cffffff2744|r.\n",
           "stacks": 0
         }
       ],
@@ -14304,110 +14284,13 @@
           "slottable": true
         }
       ],
-      "worn": [
-        {
-          "slot": 0,
-          "link": "|H0:item:82176:364:50:0:0:0:16:25:0:0:0:0:0:0:2049:67:0:1:0:9800:0|h|h",
-          "armor": 2425,
-          "enchant": "Adds |cffffff1192|r Maximum Health.",
-          "trait": "Increase armor enchantment effect by |cffffff25|r%.",
-          "quality": 5
-        },
-        {
-          "slot": 1,
-          "link": "|H0:item:194512:364:50:45883:370:50:31:25:0:0:0:0:0:0:2049:0:0:1:0:0:0|h|h",
-          "armor": 0,
-          "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery.",
-          "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff350|r.",
-          "quality": 5
-        },
-        {
-          "slot": 2,
-          "link": "|H0:item:215597:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:8050:0|h|h",
-          "armor": 2084,
-          "enchant": "Adds |cffffff868|r Maximum Stamina.",
-          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
-          "quality": 5
-        },
-        {
-          "slot": 3,
-          "link": "|H0:item:82181:364:50:26588:312:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:6640:0|h|h",
-          "armor": 1221,
-          "enchant": "Adds |cffffff308|r Maximum Stamina.",
-          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
-          "quality": 5
-        },
-        {
-          "slot": 4,
-          "link": "|H0:item:133786:364:50:0:0:0:5:25:0:0:0:0:0:0:2049:3:0:1:0:417:0|h|h",
-          "armor": 0,
-          "enchant": "Deals |cffffff2014|r Physical Damage and restores |cffffff354|r Stamina.",
-          "trait": "Increases Physical and Spell Resistance by |cffffff3276|r.",
-          "quality": 5
-        },
-        {
-          "slot": 6,
-          "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:46:1:1:0:5565:0|h|h",
-          "armor": 781,
-          "enchant": "Adds |cffffff351|r Maximum Stamina.",
-          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
-          "quality": 5
-        },
-        {
-          "slot": 8,
-          "link": "|H0:item:215601:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:8340:0|h|h",
-          "armor": 1823,
-          "enchant": "Adds |cffffff868|r Maximum Stamina.",
-          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
-          "quality": 5
-        },
-        {
-          "slot": 9,
-          "link": "|H0:item:215598:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:7345:0|h|h",
-          "armor": 1823,
-          "enchant": "Adds |cffffff351|r Maximum Stamina.",
-          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
-          "quality": 5
-        },
-        {
-          "slot": 11,
-          "link": "|H0:item:206196:370:50:166047:370:50:0:0:0:0:0:0:0:0:1:0:1:1:0:0:0|h|h",
-          "armor": 0,
-          "enchant": "Adds |cffffff84|r Magicka Recovery.\nAdds |cffffff84|r Health Recovery.\nAdds |cffffff84|r Stamina Recovery.",
-          "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff350|r.",
-          "quality": 5
-        },
-        {
-          "slot": 12,
-          "link": "|H0:item:206196:370:50:166047:370:50:0:0:0:0:0:0:0:0:1:0:1:1:0:0:0|h|h",
-          "armor": 0,
-          "enchant": "Adds |cffffff84|r Magicka Recovery.\nAdds |cffffff84|r Health Recovery.\nAdds |cffffff84|r Stamina Recovery.",
-          "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff350|r.",
-          "quality": 5
-        },
-        {
-          "slot": 16,
-          "link": "|H0:item:215599:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:8325:0|h|h",
-          "armor": 1042,
-          "enchant": "Adds |cffffff351|r Maximum Stamina.",
-          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
-          "quality": 5
-        },
-        {
-          "slot": 20,
-          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:500:0|h|h",
-          "armor": 0,
-          "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff452|r for |cffffff5|r seconds.",
-          "trait": "Increases weapon enchantment effect by |cffffff30|r% and reduces enchantment cooldown by |cFFFFFF50|r%.",
-          "quality": 5
-        }
-      ],
+      "worn": [],
       "skills": [
         {
           "slot": 3,
           "abilityId": 183047,
           "name": "Recuperative Treatise",
-          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff5|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3681|r Magic Damage, restores |cffffff600|r Magicka and Stamina, and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
+          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff5|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff2028|r Magic Damage, restores |cffffff600|r Magicka and Stamina, and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
           "durationMs": 30000,
           "castMs": 0,
           "channeled": false,
@@ -14418,7 +14301,7 @@
           "slot": 4,
           "abilityId": 183006,
           "name": "Cephaliarch's Flail",
-          "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff6495|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff2864|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink.",
+          "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff3578|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff1508|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink.",
           "durationMs": 0,
           "castMs": 300,
           "channeled": false,
@@ -14429,7 +14312,7 @@
           "slot": 5,
           "abilityId": 193398,
           "name": "Pragmatic Fatecarver",
-          "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff2943|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff10115|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage.",
+          "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff1621|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff5325|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage.",
           "durationMs": 0,
           "castMs": 4500,
           "channeled": true,
@@ -14440,7 +14323,7 @@
           "slot": 6,
           "abilityId": 61505,
           "name": "Echoing Vigor",
-          "description": "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff14958|r Health over |cffffff16|r seconds.",
+          "description": "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff7866|r Health over |cffffff16|r seconds.",
           "durationMs": 16000,
           "castMs": 0,
           "channeled": false,
@@ -14449,11 +14332,11 @@
         },
         {
           "slot": 7,
-          "abilityId": 25267,
-          "name": "Concealed Weapon",
-          "description": "Slash an enemy, dealing |cffffff8099|r Magic Damage. \n\nIf you strike an enemy from their flank you set them Off Balance.\n\nWhen you leave Sneak or invisibility while in combat, increase your damage done with this ability by |cffffff10|r% for |cffffff15|r seconds.\n\nWhile slotted on either bar, you gain Minor Expedition, increasing your Movement Speed by |cffffff15|r%.",
+          "abilityId": 24639,
+          "name": "Summon Twilight Matriarch",
+          "description": "Call on Azura to send a twilight matriarch to fight at your side. The twilight matriarch's zap deals |cffffff607|r Shock Damage and its kick deals |cffffff607|r Shock Damage.\n\nOnce summoned, you can activate the twilight matriarch's special ability for |cffffff4406|r Magicka, causing it to heal |cffffff2|r friendly targets for |cffffff5419|r and itself for |cffffff2709|r.\n\nThe twilight matriarch remains until killed or unsummoned.",
           "durationMs": 0,
-          "castMs": 0,
+          "castMs": 1500,
           "channeled": false,
           "cooldownMs": 0,
           "ultimateCost": 0
@@ -14462,7 +14345,7 @@
           "slot": 8,
           "abilityId": 189837,
           "name": "The Tide King's Gaze",
-          "description": "Tear open the fabric of the Aurbis to unleash a scion of Hermaeus Mora. This being casts forth a beam that rends asunder reality for |cffffff8|r seconds that deals |cffffff3442|r Magic Damage to enemies within 5 meters every |cffffff0.5|r seconds. \n\nThe scion's beam automatically follows the initial target, and hunts for a new one within 8 meters if it is slain.",
+          "description": "Tear open the fabric of the Aurbis to unleash a scion of Hermaeus Mora. This being casts forth a beam that rends asunder reality for |cffffff8|r seconds that deals |cffffff1896|r Magic Damage to enemies within 5 meters every |cffffff0.5|r seconds. \n\nThe scion's beam automatically follows the initial target, and hunts for a new one within 8 meters if it is slain.",
           "durationMs": 8000,
           "castMs": 0,
           "channeled": false,
@@ -14504,7 +14387,7 @@
         {
           "abilityId": 45053,
           "name": "Pressure Points",
-          "description": "Increases your Critical Chance rating by |cffffff438|r for each Nightblade ability slotted, increasing your chance to critically strike by |cffffff2|r% per ability.\n\nCurrent bonus: |cffffff438|r."
+          "description": "Increases your Critical Chance rating by |cffffff438|r for each Nightblade ability slotted, increasing your chance to critically strike by |cffffff2|r% per ability.\n\nCurrent bonus: |cffffff0|r."
         },
         {
           "abilityId": 45060,
@@ -14533,7 +14416,30 @@
         }
       ],
       "inArchive": false,
-      "archiveBoons": []
+      "archiveBoons": [],
+      "advanced": {
+        "healing-critical-bonus": 0,
+        "healing-done-base": 0.02,
+        "healing-taken-base": 0.02,
+        "critical-damage": 0
+      }
     }
+  },
+  "rotationReading": {
+    "capturedAt": 1792450526,
+    "toughness": 19954.6241429906,
+    "damage": 4084.7357143422,
+    "healing": 815.7896046041,
+    "reavingBlowsShare": 0.07,
+    "bars": [
+      {
+        "bar": "frontBar",
+        "healing": 1.0404,
+        "damage": 1.0134127419,
+        "healthMaximum": 17960,
+        "armorShare": 0.0590757576,
+        "damageTaken": 0
+      }
+    ]
   }
 }
