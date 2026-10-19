@@ -1,6 +1,3 @@
-import { dlopen, FFIType, ptr } from "bun:ffi"
-import { readdirSync, readFileSync } from "node:fs"
-import { resolveMappedLibc } from "akasha/code/process/modules/libc-mapping/libc-mapping.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { limit } from "akasha/command/argument/pages/limit.argument.ts"
@@ -17,6 +14,14 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import {
+  found,
+  GAME,
+  gameProcess,
+  type Region,
+  readerOf,
+  regionsOf,
+} from "akasha/command/pages/temper/eso/memory/modules/eso-process-memory/eso-process-memory.module.code.ts"
+import {
   type Reader,
   shown,
   tableAt,
@@ -24,10 +29,6 @@ import {
 import { temperEsoMemory as page } from "akasha/command/pages/temper/eso/memory/temper-eso-memory.command.ts"
 
 const NAMED = [memoryText, memoryWord, memoryAddress, memoryTable, limit]
-
-const GAME = "eso64.exe"
-
-const CHUNK = 1 << 24
 
 const SHOWN = 512
 
@@ -38,82 +39,6 @@ const WORD = 8
 const ROWS = 40
 
 const HEX = /^(?:0x)?([0-9a-f]{1,16})$/i
-
-type Region = { readonly from: bigint; readonly to: bigint; readonly writable: boolean }
-
-function gameProcess(): number | null {
-  for (const name of readdirSync("/proc")) {
-    if (!/^\d+$/.test(name)) continue
-    try {
-      if (readFileSync(`/proc/${name}/comm`, "utf8").trim() === GAME) return Number(name)
-    } catch {}
-  }
-  return null
-}
-
-function regionsOf(pid: number): readonly Region[] {
-  const mapped: Region[] = []
-  for (const line of readFileSync(`/proc/${pid}/maps`, "utf8").split("\n")) {
-    const [span, perms] = line.split(" ")
-    if (span === undefined || perms === undefined || !perms.startsWith("r")) continue
-    const [from, to] = span.split("-")
-    if (from === undefined || to === undefined) continue
-    mapped.push({ from: BigInt(`0x${from}`), to: BigInt(`0x${to}`), writable: perms[1] === "w" })
-  }
-  return mapped
-}
-
-function readerOf(pid: number): Reader {
-  const libc = dlopen(resolveMappedLibc(), {
-    process_vm_readv: {
-      args: [FFIType.i32, FFIType.ptr, FFIType.u64, FFIType.ptr, FFIType.u64, FFIType.u64],
-      returns: FFIType.i64,
-    },
-  })
-  const local = Buffer.alloc(16)
-  const remote = Buffer.alloc(16)
-  return (at, length) => {
-    const into = Buffer.alloc(length)
-    local.writeBigUInt64LE(BigInt(ptr(into)), 0)
-    local.writeBigUInt64LE(BigInt(length), 8)
-    remote.writeBigUInt64LE(at, 0)
-    remote.writeBigUInt64LE(BigInt(length), 8)
-    const got = Number(libc.symbols.process_vm_readv(pid, local, 1, remote, 1, 0))
-    return got <= 0 ? null : into.subarray(0, got)
-  }
-}
-
-function hitsIn(bytes: Buffer, needle: Buffer, from: bigint, step: bigint): bigint[] {
-  const hits: bigint[] = []
-  let at = bytes.indexOf(needle)
-  while (at !== -1 && at < CHUNK) {
-    const where = from + BigInt(at)
-    if (where % step === 0n) hits.push(where)
-    at = bytes.indexOf(needle, at + 1)
-  }
-  return hits
-}
-
-function found(
-  read: Reader,
-  regions: readonly Region[],
-  needle: Buffer,
-  step: bigint,
-  most: number
-): readonly bigint[] {
-  const hits: bigint[] = []
-  for (const region of regions) {
-    if (!region.writable) continue
-    for (let at = region.from; at < region.to; at += BigInt(CHUNK)) {
-      const left = Number(region.to - at)
-      const bytes = read(at, Math.min(CHUNK + needle.length - 1, left))
-      if (bytes === null) continue
-      hits.push(...hitsIn(bytes, needle, at, step))
-      if (hits.length >= most) return hits.slice(0, most)
-    }
-  }
-  return hits
-}
 
 function inside(regions: readonly Region[], word: bigint): boolean {
   return regions.some((region) => word >= region.from && word < region.to)
