@@ -4,13 +4,17 @@ import {
   initBreadcrumbProbe,
   probeBreadcrumb,
 } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-breadcrumb-probe/quest-port-breadcrumb-probe.module.code.ts"
-import type { PositionAnswer } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-capture/quest-port-capture.module.code.ts"
+import {
+  NAMESAKES_KEPT,
+  type PositionAnswer,
+} from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-capture/quest-port-capture.module.code.ts"
 import {
   type ConditionReading,
   climbForTargets,
   instanceTarget,
   type MapAttempt,
   mapAttempts,
+  namesakeNodes,
   nearestTarget,
   portTargets,
   type StepReading,
@@ -153,8 +157,15 @@ function placeObjective(this: void, questIndex: number, attempts: readonly MapAt
 
 function portForInstance(this: void, instance: Instance, objective: string): boolean {
   const playerZoneId = GetZoneId(GetUnitZoneIndex("player") ?? 0)
-  const target = instanceTarget(nodeReadings(), instance.name)
-  noteInstance(instance.zoneId, instance.name, playerZoneId, target)
+  const nodes = nodeReadings()
+  const target = instanceTarget(nodes, instance.name)
+  noteInstance(
+    instance.zoneId,
+    instance.name,
+    playerZoneId,
+    target,
+    namesakeNodes(nodes, instance.name, NAMESAKES_KEPT)
+  )
   if (playerZoneId === instance.zoneId) {
     SetMapToPlayerLocation()
     say(`You're already in ${instance.name}, where ${objective} is.`)

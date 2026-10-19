@@ -54,10 +54,15 @@ export const questPortTrace = {
         "A press whose objective is in an instance keeps the instance, the player's zone and the way in.",
     },
     {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "Such a press keeps the nodes sharing a word with the instance, until a match is seen.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here changes where the keybind ports.",
     },
   ],
   createdAt: "2026-10-08T17:07:58.033Z",
-  updatedAt: "2026-10-19T18:21:07.960Z",
+  updatedAt: "2026-10-19T18:29:18.637Z",
 } as const satisfies Module

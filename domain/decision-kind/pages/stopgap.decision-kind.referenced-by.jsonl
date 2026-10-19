@@ -76,6 +76,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-holder-types/housing-holder-types.module.ts","id":"01a06113-b7ce-7f67-beb7-a7a3ee79e25d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-notification/modules/notification-providers/notification-providers.module.ts","id":"01a0605a-0515-7efc-a180-1aaa98828cd6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-notification/notification-declarations/notification-declarations.type-declaration.ts","id":"01a0620a-a166-7152-bc6c-c9ce7bb3739c"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/modules/quest-port-capture/quest-port-capture.module.ts","id":"01a11c76-a81a-76a2-8dc0-e948c3d04595"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/modules/quest-port-trace/quest-port-trace.module.ts","id":"01a11c7c-69d2-7678-9470-a390f3f3b142"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/engine-answer-catalog-capture/engine-answer-catalog-capture.module.ts","id":"01a0d42c-33d0-7ff4-8038-09dcb9eccb0b"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.ts","id":"01a0680b-0616-7b70-8c7d-3bc79e3eec3b"}
 {"propertySlug":"decision-kind","path":"temper/economy/value/replacement-value/temper-replacement-value.domain.ts","id":"01a0b761-76a7-78cd-82a0-bfa7fa48f3b4"}

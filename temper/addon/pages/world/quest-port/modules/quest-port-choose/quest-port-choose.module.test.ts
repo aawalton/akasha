@@ -5,6 +5,7 @@ import {
   MAX_TARGET_CLIMBS,
   mapAttempts,
   type NodeReading,
+  namesakeNodes,
   nearestTarget,
   portTargets,
   type StepReading,
@@ -15,6 +16,7 @@ function node(overrides: Partial<NodeReading>): NodeReading {
     nodeIndex: 1,
     name: "Shrine",
     kind: "wayshrine",
+    poiType: 1,
     known: true,
     shownOnMap: true,
     locked: false,
@@ -165,6 +167,33 @@ describe("quest-port-choose", () => {
     expect(
       instanceTarget([node({ name: "Spindleclutch I", kind: "other" })], "Bad Man's Hallows")
     ).toBeUndefined()
+  })
+
+  test("a node neither wayshrine nor house sharing a word with the instance is a namesake", () => {
+    const namesakes = namesakeNodes(
+      [
+        node({ nodeIndex: 1, name: "Direfrost Keep", kind: "other" }),
+        node({ nodeIndex: 2, name: "Direfrost Keep Wayshrine", kind: "wayshrine" }),
+        node({ nodeIndex: 3, name: "Keep of the Direfrost", kind: "other" }),
+        node({ nodeIndex: 4, name: "Fungal Grotto I", kind: "other" }),
+      ],
+      "Direfrost Keep",
+      5
+    )
+    expect(namesakes.map((namesake) => namesake.nodeIndex)).toEqual([1, 3])
+  })
+
+  test("words shorter than four letters make no namesake", () => {
+    expect(
+      namesakeNodes([node({ name: "Crypt of Hearts I", kind: "other" })], "Ruins of Mazzatun", 5)
+    ).toEqual([])
+  })
+
+  test("namesakes stop at the count asked for", () => {
+    const nodes = [1, 2, 3].map((nodeIndex) =>
+      node({ nodeIndex, name: "Spindleclutch", kind: "other" })
+    )
+    expect(namesakeNodes(nodes, "Spindleclutch II", 2)).toHaveLength(2)
   })
 
   test("a map inside an overland map is zoomed out of to look for targets", () => {

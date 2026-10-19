@@ -115,11 +115,23 @@ export interface SpotReading {
   readonly y: number
 }
 
+export interface NamesakeReading {
+  readonly nodeIndex: number
+  readonly name: string
+  readonly poiType: number
+  readonly known: boolean
+  readonly locked: boolean
+  readonly outboundOnly: boolean
+}
+
+export const NAMESAKES_KEPT = 5
+
 export interface InstanceReading {
   readonly zoneId: number
   readonly name: string
   readonly playerZoneId: number
   readonly target?: CandidateReading
+  readonly namesakes: NamesakeReading[]
 }
 
 export interface PortTraceEntry {

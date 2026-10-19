@@ -4,6 +4,7 @@ export interface NodeReading {
   readonly nodeIndex: number
   readonly name: string
   readonly kind: NodeKind
+  readonly poiType: number
   readonly known: boolean
   readonly shownOnMap: boolean
   readonly locked: boolean
@@ -118,6 +119,33 @@ export function instanceTarget(
     }
   }
   return undefined
+}
+
+const SHORTEST_SHARED_WORD = 4
+
+function wordsOf(this: void, name: string): string[] {
+  const words: string[] = []
+  for (const word of name.toLowerCase().split(" ")) {
+    if (word.length >= SHORTEST_SHARED_WORD) words.push(word)
+  }
+  return words
+}
+
+export function namesakeNodes(
+  this: void,
+  nodes: readonly NodeReading[],
+  instanceName: string,
+  count: number
+): NodeReading[] {
+  const wanted = wordsOf(instanceName)
+  const namesakes: NodeReading[] = []
+  for (const node of nodes) {
+    if (namesakes.length >= count) break
+    if (node.kind !== "other") continue
+    const words = wordsOf(node.name)
+    if (wanted.some((word) => words.includes(word))) namesakes.push(node)
+  }
+  return namesakes
 }
 
 export const MAX_TARGET_CLIMBS = 3

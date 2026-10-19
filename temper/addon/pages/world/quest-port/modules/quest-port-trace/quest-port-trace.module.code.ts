@@ -14,7 +14,10 @@ import {
   type SpotReading,
   type UniversalReading,
 } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-capture/quest-port-capture.module.code.ts"
-import type { PortTarget } from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-choose/quest-port-choose.module.code.ts"
+import type {
+  NodeReading,
+  PortTarget,
+} from "akasha/temper/addon/pages/world/quest-port/modules/quest-port-choose/quest-port-choose.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/pages/world/quests/modules/quests-saved-variables/quests-saved-variables.module.code.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -186,7 +189,8 @@ export function noteInstance(
   zoneId: number,
   name: string,
   playerZoneId: number,
-  target: PortTarget | undefined
+  target: PortTarget | undefined,
+  namesakes: readonly NodeReading[]
 ): undefined {
   return noting((entry) => {
     const instance: InstanceReading = {
@@ -194,6 +198,14 @@ export function noteInstance(
       name,
       playerZoneId,
       target: target === undefined ? undefined : candidateAt(target, target.x, target.y),
+      namesakes: namesakes.map((node) => ({
+        nodeIndex: node.nodeIndex,
+        name: node.name,
+        poiType: node.poiType,
+        known: node.known,
+        locked: node.locked,
+        outboundOnly: node.outboundOnly,
+      })),
     }
     entry.instance = instance
   })

@@ -45,6 +45,7 @@ export function nodeReadings(this: void): NodeReading[] {
       nodeIndex,
       name: zo_strformat("<<1>>", name),
       kind,
+      poiType,
       known,
       shownOnMap,
       locked,

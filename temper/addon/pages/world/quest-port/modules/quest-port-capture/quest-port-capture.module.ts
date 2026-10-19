@@ -30,7 +30,12 @@ export const questPortCapture = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Such a press keeps the player's zone and the way in it took.",
+      statement: "Such a press keeps the player's zone and the way in it found.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "Such a press keeps up to five nodes neither wayshrine nor house that share a word with that place.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -38,5 +43,5 @@ export const questPortCapture = {
     },
   ],
   createdAt: "2026-10-08T17:01:40.762Z",
-  updatedAt: "2026-10-19T18:21:07.960Z",
+  updatedAt: "2026-10-19T18:29:18.637Z",
 } as const satisfies Module

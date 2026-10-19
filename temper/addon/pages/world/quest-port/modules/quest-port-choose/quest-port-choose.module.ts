@@ -51,6 +51,11 @@ export const questPortChoose = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A namesake of a place is a node neither wayshrine nor house sharing a word of four letters or more.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Distance is straight-line distance on the map.",
     },
     {
@@ -71,5 +76,5 @@ export const questPortChoose = {
     },
   ],
   createdAt: "2026-10-08T14:52:54.473Z",
-  updatedAt: "2026-10-19T18:21:07.960Z",
+  updatedAt: "2026-10-19T18:29:18.637Z",
 } as const satisfies Module
