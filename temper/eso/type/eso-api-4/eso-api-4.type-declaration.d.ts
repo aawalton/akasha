@@ -30,6 +30,7 @@ declare function WorldPositionToGuiRender3DPosition(
   worldZ: number
 ): LuaMultiReturn<[x: number, y: number, z: number]>
 declare function IsGroupMemberInRemoteRegion(unitTag: string): boolean
+declare function IsInstanceEndlessDungeon(): boolean
 declare function IsGroupMemberInSameWorldAsPlayer(unitTag: string): boolean
 declare function IsPlayerInWerewolfForm(): boolean
 declare function IsUnitBeingResurrected(unitTag: string): boolean
@@ -66,6 +67,8 @@ declare const BOSS_RANK_ITERATION_END: number
 declare const CD_TIME_TYPE_TIME_UNTIL: number
 declare const CD_TYPE_RADIAL: number
 declare const ENDLESS_DUNGEON_COUNTER_TYPE_ARC: number
+declare const ENDLESS_DUNGEON_COUNTER_TYPE_CYCLE: number
+declare const ENDLESS_DUNGEON_COUNTER_TYPE_STAGE: number
 declare const EVENT_GROUP_MEMBER_CONNECTED_STATUS: number
 declare const EVENT_LEADER_UPDATE: number
 declare const EVENT_PLAYER_STUNNED_STATE_CHANGED: number

@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"combat-core-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-categories/combat-categories.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-core-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-categories/combat-categories.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"combat-core-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-core-events/combat-core-events.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"combat-core-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-fight-capture/combat-fight-capture.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"combat-core-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-fight-model/combat-fight-model.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"combat-core-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-fight-ticks/combat-fight-ticks.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"combat-core-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-finalize-buffs/combat-finalize-buffs.module.code.ts","typed":true,"deferred":false}

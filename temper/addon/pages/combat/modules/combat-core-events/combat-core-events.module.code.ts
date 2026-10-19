@@ -11,7 +11,11 @@ import type {
   CoreLogLine,
   CurrentData,
 } from "akasha/temper/addon/pages/combat/modules/combat-core-types/combat-core-types.module.code.ts"
-import { recordLastFight } from "akasha/temper/addon/pages/combat/modules/combat-last-fight/combat-last-fight.module.code.ts"
+import { captureFight } from "akasha/temper/addon/pages/combat/modules/combat-fight-capture/combat-fight-capture.module.code.ts"
+import {
+  recordLastFight,
+  summarizeLastFight,
+} from "akasha/temper/addon/pages/combat/modules/combat-last-fight/combat-last-fight.module.code.ts"
 import {
   registerForCombatEvent,
   unregisterForCombatEvent,
@@ -278,7 +282,9 @@ function fightSummaryCallback(this: void, _eventId: number, fight: Fight): undef
 
   if (cmxFight.dpsstart != null || cmxFight.hpsstart != null) {
     table.insert(LAST_FIGHTS, cmxFight)
-    recordLastFight(cmxFight)
+    const summary = summarizeLastFight(cmxFight, cmxFight.log)
+    recordLastFight(summary)
+    captureFight(cmxFight, summary)
   }
   checkNumberOfFights()
 

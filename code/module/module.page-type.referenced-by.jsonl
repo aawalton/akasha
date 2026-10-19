@@ -3269,6 +3269,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-data-tables/combat-data-tables.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-encoding-tables/combat-encoding-tables.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-entry/combat-entry.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-fight-capture/combat-fight-capture.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-fight-data-log/combat-fight-data-log.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-fight-data-types/combat-fight-data-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-fight-model/combat-fight-model.module.ts","typed":true,"deferred":false}

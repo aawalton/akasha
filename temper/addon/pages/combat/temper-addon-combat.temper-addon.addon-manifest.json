@@ -14,7 +14,8 @@
     "TemperCombat_CombatMetricsFightData",
     "TemperCombatAlertsSavedVariables",
     "TemperCombatAlertsInstallationWide",
-    "TemperCombat_LastFight"
+    "TemperCombat_LastFight",
+    "TemperCombat_FightCaptures"
   ],
   "dependsOn": ["Temper"],
   "optionalDependsOn": [

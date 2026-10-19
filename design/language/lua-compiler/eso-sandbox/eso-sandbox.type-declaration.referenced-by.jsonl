@@ -124,6 +124,7 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-core-log/combat-core-log.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-data-tables/combat-data-tables.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-encoding-tables/combat-encoding-tables.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-fight-capture/combat-fight-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-fight-model/combat-fight-model.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-fight-ticks/combat-fight-ticks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-finalize-buffs/combat-finalize-buffs.module.code.ts","typed":false,"deferred":false}

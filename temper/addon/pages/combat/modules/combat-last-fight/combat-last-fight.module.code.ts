@@ -209,8 +209,7 @@ export function summarizeLastFight(fight: CmxFight, log: readonly CoreLogLine[])
 
 let longestThisSession: LastFight | undefined
 
-export function recordLastFight(fight: CmxFight): undefined {
-  const summary = summarizeLastFight(fight, fight.log)
+export function recordLastFight(summary: LastFight): undefined {
   if (
     longestThisSession !== undefined &&
     longestThisSession.activeSeconds >= summary.activeSeconds
