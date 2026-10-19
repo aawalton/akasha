@@ -11,7 +11,15 @@ export const pageTableWidths = {
       decisionKind: "decision-kind/departure",
       statement: "A column of records holding links is as wide as the links a row draws.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A column is as wide as the longest value in it, up to a ceiling.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The title column also holds the mark drawn before a title.",
+    },
   ],
   createdAt: "2026-09-01T11:50:09.132Z",
-  updatedAt: "2026-10-18T16:06:04.201Z",
+  updatedAt: "2026-10-19T13:15:16.530Z",
 } as const satisfies Module

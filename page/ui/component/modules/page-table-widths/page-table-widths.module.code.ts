@@ -37,6 +37,7 @@ const CELL_PADDING_PX = 16
 const MIN_COLUMN_PX = 96
 const PICTOGRAPH_CHARS = 2.5
 const FIXED_BADGE_CHARS = 16
+const TITLE_MARK_PX = 24
 
 const PICTOGRAPH = /\p{Extended_Pictographic}/u
 const JOINING = /\p{M}|‍/u
@@ -191,10 +192,10 @@ export function withColumnWidths(
     const { def } = column
     const cellLength = (row: PageRow): number =>
       def != null ? propertyValueDisplayLength(row[key], def) : valueDisplayLength(row[key])
-    const meanLen =
-      rows.length === 0 ? 0 : rows.reduce((sum, row) => sum + cellLength(row), 0) / rows.length
-    const idealChars = Math.min(MAX_IDEAL, Math.max(column.label.length, meanLen))
-    const contentPx = idealChars * CHAR_PX + CELL_PADDING_PX
+    const longest = rows.reduce((most, row) => Math.max(most, cellLength(row)), 0)
+    const idealChars = Math.min(MAX_IDEAL, Math.max(column.label.length, longest))
+    const markPx = column.id === TITLE_COLUMN_ID ? TITLE_MARK_PX : 0
+    const contentPx = idealChars * CHAR_PX + CELL_PADDING_PX + markPx
     const width = Math.round(Math.max(MIN_COLUMN_PX, contentPx))
     return { ...column, width }
   })
