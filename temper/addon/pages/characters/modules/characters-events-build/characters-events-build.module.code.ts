@@ -14,6 +14,7 @@ import {
 } from "akasha/temper/capture/characters-skills-morphs-addon/modules/skill-morph-tracking/skill-morph-tracking.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-02/eso-enums-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
@@ -49,6 +50,12 @@ function onBuildTouched(this: void): undefined {
   scheduleBuildCapture()
 }
 
+function onPlayerEffectChanged(this: void, _event: number, changeType: number): undefined {
+  if (changeType === EFFECT_RESULT_GAINED || changeType === EFFECT_RESULT_FADED) {
+    scheduleBuildCapture()
+  }
+}
+
 export function registerBuildEvents(): undefined {
   const equipEventName = ADDON_NAME + "_EquipmentChanged"
   EVENT_MANAGER.RegisterForEvent(equipEventName, EVENT_INVENTORY_SINGLE_SLOT_UPDATE, onBuildTouched)
@@ -57,6 +64,15 @@ export function registerBuildEvents(): undefined {
     EVENT_INVENTORY_SINGLE_SLOT_UPDATE,
     REGISTER_FILTER_BAG_ID,
     BAG_WORN
+  )
+
+  const effectEventName = ADDON_NAME + "_PlayerEffectChanged"
+  EVENT_MANAGER.RegisterForEvent(effectEventName, EVENT_EFFECT_CHANGED, onPlayerEffectChanged)
+  EVENT_MANAGER.AddFilterForEvent(
+    effectEventName,
+    EVENT_EFFECT_CHANGED,
+    REGISTER_FILTER_UNIT_TAG,
+    "player"
   )
 
   EVENT_MANAGER.RegisterForEvent(

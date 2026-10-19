@@ -25,7 +25,16 @@ export const charactersEventsBuild = {
       statement:
         "Each load of the character takes the whole build capture, reported stats with it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A buff the player gains or loses is a build change, so food, drink and mundus each land a reading.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A buff the player already has being refreshed or restacked is no build change.",
+    },
   ],
   createdAt: "2026-09-02T17:32:20.771Z",
-  updatedAt: "2026-10-19T19:38:44.378Z",
+  updatedAt: "2026-10-19T22:32:07.155Z",
 } as const satisfies Module
