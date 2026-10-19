@@ -5,8 +5,8 @@ export const fiveHourResetsAt = {
   type: "page-type/instant-property",
   slug: "five-hour-resets-at",
   propertySlug: "five-hour-resets-at",
-  definition: "when the five-hour allowance refills",
+  definition: "when a five-hour window resets",
   types: "ts",
   createdAt: "2026-08-30T22:44:04.537Z",
-  updatedAt: "2026-09-15T17:15:46.000Z",
+  updatedAt: "2026-10-19T18:36:34.019Z",
 } as const satisfies InstantProperty
