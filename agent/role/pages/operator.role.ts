@@ -4,7 +4,7 @@ export const operator = {
   id: "01a053c5-8d2c-70e4-8a45-06368ddfc0ae",
   type: "page-type/role",
   slug: "operator",
-  definition: "an agent keeping a domain's conditions true",
+  definition: "an agent that keeps the conditions of a domain",
   onCall: true,
   decisions: [
     {
@@ -13,5 +13,5 @@ export const operator = {
     },
   ],
   createdAt: "2026-08-30T17:44:10.796Z",
-  updatedAt: "2026-09-22T00:36:58.000Z",
+  updatedAt: "2026-10-19T19:45:46.213Z",
 } as const satisfies Role
