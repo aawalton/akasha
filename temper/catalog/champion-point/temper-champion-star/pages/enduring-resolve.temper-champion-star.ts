@@ -13,6 +13,7 @@ export const enduringResolve = {
     { metric: "temper-metric/damage-taken", effectType: "fractional-change", value: -0.06 },
   ],
   hashPlace: 112,
+  jumpPoints: [0, 25, 50],
   createdAt: "2026-09-27T05:00:00.922Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:56:28.568Z",
 } as const satisfies TemperChampionStar
