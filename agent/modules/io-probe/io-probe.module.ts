@@ -4,7 +4,7 @@ export const ioProbe = {
   id: "01a0695a-d2ea-7a83-ac29-18a8a68f3c6d",
   type: "page-type/module",
   slug: "io-probe",
-  definition: "what an agent's transcripts hold and when they last changed",
+  definition: "how code reads the transcripts of an agent",
   code: "ts",
   decisions: [
     {
@@ -17,5 +17,5 @@ export const ioProbe = {
     },
   ],
   createdAt: "2026-09-03T22:19:15.050Z",
-  updatedAt: "2026-09-27T16:18:16.000Z",
+  updatedAt: "2026-10-19T19:36:59.400Z",
 } as const satisfies Module
