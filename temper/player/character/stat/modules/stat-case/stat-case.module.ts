@@ -83,6 +83,10 @@ export const statCase = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An estimate names each buff it was handed that no buff page names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A pinned stat the calculator no longer gives has drifted, and fails the test.",
     },
     {
@@ -104,5 +108,5 @@ export const statCase = {
     },
   ],
   createdAt: "2026-10-14T17:18:43.951Z",
-  updatedAt: "2026-10-15T17:53:47.817Z",
+  updatedAt: "2026-10-19T20:19:08.084Z",
 } as const satisfies Module

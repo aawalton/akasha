@@ -30,7 +30,12 @@ type StatCase = z.infer<typeof statCaseShape>
 
 type CaseRead = Omit<StatCase, "pinned" | "gaps"> & { readonly stats: Record<string, number> }
 
-export function estimatesOf(read: Omit<StatCase, "pinned" | "gaps">): (stat: string) => number {
+type Estimated = {
+  readonly estimate: (stat: string) => number
+  readonly unmatchedBuffNames: readonly string[]
+}
+
+export function estimatedOf(read: Omit<StatCase, "pinned" | "gaps">): Estimated {
   const build = decodeBuild(buildHash(read.buildHash))
   if (build === null) throw new Error(`the build of the ${read.character} case does not decode`)
   const estimated = calculateReadingStatsByBar(
@@ -40,7 +45,14 @@ export function estimatesOf(read: Omit<StatCase, "pinned" | "gaps">): (stat: str
     read.championPoints
   )
   const metrics = estimated.metrics as Record<string, { value: number } | undefined>
-  return (stat) => metrics[stat]?.value ?? 0
+  return {
+    estimate: (stat) => metrics[stat]?.value ?? 0,
+    unmatchedBuffNames: estimated.unmatchedBuffNames,
+  }
+}
+
+export function estimatesOf(read: Omit<StatCase, "pinned" | "gaps">): (stat: string) => number {
+  return estimatedOf(read).estimate
 }
 
 export function pinnedCaseOf(read: CaseRead): StatCase {
