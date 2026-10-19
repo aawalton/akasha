@@ -35,7 +35,7 @@ import {
 import { criticalRating } from "akasha/temper/player/character/stat/temper-metric/pages/critical-rating/critical-rating.temper-metric.ts"
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 
-const FIGHT_SECONDS = 60
+const FIGHT_SECONDS = 600
 
 const PERCENT_OF_DAMAGE = /(\d+)% of the damage/
 

@@ -19,7 +19,7 @@ export const characterRotationReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The fight is 60 seconds long.",
+      statement: "The fight is ten minutes long.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -76,5 +76,5 @@ export const characterRotationReading = {
     },
   ],
   createdAt: "2026-10-19T18:49:52.670Z",
-  updatedAt: "2026-10-19T18:49:52.670Z",
+  updatedAt: "2026-10-19T19:13:27.002Z",
 } as const satisfies Module
