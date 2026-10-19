@@ -8,7 +8,6 @@ import {
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { codeRoot as codeRootArgument } from "akasha/command/argument/pages/code-root.argument.ts"
-import { savedVariablesFile as savedVariablesFileArgument } from "akasha/command/argument/pages/saved-variables-file.argument.ts"
 import {
   DATA,
   OPERATIONAL,
@@ -22,13 +21,15 @@ import {
 } from "akasha/command/modules/page-answering/page-answering.module.code.ts"
 import { temperEsoGenerateConstants as page } from "akasha/command/pages/temper/eso/generate/constants/temper-eso-generate-constants.command.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
-import { resolveSavedVariablesPath } from "akasha/temper/catalog/side-file/modules/catalog-file-paths/catalog-file-paths.module.code.ts"
+import { capturedCatalog } from "akasha/temper/catalog/world/temper-catalog-domain/modules/catalog-capture-reading/catalog-capture-reading.module.code.ts"
 import {
   constantsBody,
   engineConstantsIn,
 } from "akasha/temper/eso/constant/modules/engine-constants-reading/engine-constants-reading.module.code.ts"
 
-const NAMED = [codeRootArgument, savedVariablesFileArgument] as const
+const NAMED = [codeRootArgument] as const
+
+const HELD = "engineGlobalsCatalog"
 
 const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
@@ -51,22 +52,16 @@ async function written(taken: Taken, given: Given): Promise<Answer> {
     return refused(`\`${named}\` is no checkout on this disk, so nothing was read or written`, DATA)
   }
 
-  const from = resolveSavedVariablesPath(taken.savedVariablesFile)
-  let capture: string
-  try {
-    capture = await readFile(from, "utf8")
-  } catch {
-    return refused(`\`${from}\` is no file this can read, so there is no capture to write`, DATA)
-  }
-
-  const held = engineConstantsIn(capture)
-  if (held === undefined) {
+  const catalog = capturedCatalog(root, HELD)
+  if (catalog === undefined) {
     return refused(
-      `\`${from}\` carries no engine constants, so the table was left as it is` +
-        " — the game collects them when it next reloads",
+      "the `engine-globals` catalog domain has no capture landed, so the table was left as it is" +
+        " — the watcher lands one after the game next reloads",
       DATA
     )
   }
+
+  const held = engineConstantsIn(catalog)
 
   const body = constantsBody(held)
   let was: string | null = null
@@ -78,7 +73,7 @@ async function written(taken: Taken, given: Given): Promise<Answer> {
   if (was === body) {
     return told([
       `\`${AT}\` already holds what the capture says, so nothing landed`,
-      `read from ${from} at API version ${String(held.apiVersion)}`,
+      `read from the engine-globals capture at API version ${String(held.apiVersion)}`,
     ])
   }
 
@@ -98,7 +93,7 @@ async function written(taken: Taken, given: Given): Promise<Answer> {
     `${countOf(held.numbers)} number(s) and ${countOf(held.words)} word(s) landed in \`${AT}\``,
     `${String(held.named.length)} constant(s) hold a word and ` +
       `${String(held.unwritable.length)} hold a number the saved file could not carry`,
-    `read from ${from} at API version ${String(held.apiVersion)}, listed by ${held.listedBy}`,
+    `read from the engine-globals capture at API version ${String(held.apiVersion)}, listed by ${held.listedBy}`,
   ])
 }
 

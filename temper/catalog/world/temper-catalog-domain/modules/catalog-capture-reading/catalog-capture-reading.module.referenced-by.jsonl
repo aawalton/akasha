@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"catalog-capture-reading.module.code.ts","path":"command/pages/temper/eso/generate/answers/temper-eso-generate-answers.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"catalog-capture-reading.module.code.ts","path":"command/pages/temper/eso/generate/colors/temper-eso-generate-colors.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"catalog-capture-reading.module.code.ts","path":"command/pages/temper/eso/generate/constants/temper-eso-generate-constants.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"catalog-capture-reading.module.code.ts","path":"command/pages/temper/eso/generate/item-sets/temper-eso-generate-item-sets.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"catalog-capture-reading.module.code.ts","path":"command/pages/temper/eso/generate/sandbox-library/temper-eso-generate-sandbox-library.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"catalog-capture-reading.module.code.ts","path":"command/pages/temper/eso/generate/strings/temper-eso-generate-strings.command.code.ts","typed":false,"deferred":false}

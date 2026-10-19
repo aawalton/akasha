@@ -10,19 +10,11 @@ export const engineConstantsReading = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The constants are read from the first account holding them, by sorted name.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "Every account in one capture was given the same constants by the same game.",
+      statement: "The constants are read from the engine globals catalog's landed table.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A capture holding no constants is read as nothing rather than as an empty table.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A file that will not parse is read as nothing rather than raising.",
+      statement: "A field that table lacks is read as empty rather than raising.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -35,5 +27,5 @@ export const engineConstantsReading = {
     },
   ],
   createdAt: "2026-09-22T20:21:48.762Z",
-  updatedAt: "2026-09-22T20:22:32.000Z",
+  updatedAt: "2026-10-19T17:45:26.995Z",
 } as const satisfies Module

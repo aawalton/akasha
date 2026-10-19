@@ -9,7 +9,8 @@ export const temperEsoGenerateConstants = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file the call does not name is read from the game's live install.",
+      statement:
+        "The values are read from the engine globals capture landed beside its domain page.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -33,7 +34,8 @@ export const temperEsoGenerateConstants = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A capture holding no constants refuses rather than emptying the table.",
+      statement:
+        "A run with no engine globals capture landed refuses rather than emptying the table.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -49,7 +51,7 @@ export const temperEsoGenerateConstants = {
     },
   ],
   name: "constants",
-  arguments: [{ argument: "argument/code-root" }, { argument: "argument/saved-variables-file" }],
+  arguments: [{ argument: "argument/code-root" }],
   createdAt: "2026-09-22T20:22:50.112Z",
-  updatedAt: "2026-09-22T20:24:38.000Z",
+  updatedAt: "2026-10-19T17:45:26.995Z",
 } as const satisfies Command
