@@ -10,6 +10,7 @@ export const archmageAmerys = {
   esoCharacterId: "8796093038720681",
   accountPage: "temper-account/alanarre",
   firstName: "Amerys",
+  readings: "jsonl",
   createdAt: "2026-04-29T16:44:14.300Z",
-  updatedAt: "2026-09-24T16:26:32.000Z",
+  updatedAt: "2026-10-19T19:18:50.596Z",
 } as const satisfies TemperAccountCharacter
