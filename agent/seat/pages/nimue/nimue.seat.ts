@@ -5,7 +5,7 @@ export const nimue = {
   type: "page-type/seat",
   slug: "nimue",
   persona: "persona/nimue",
-  assignmentSlug: "domain/technology",
+  assignmentSlug: "initiative/nimue-correct-formulas",
   role: "role/definer",
   person: "person/alan",
   startMode: "seat-mode/interactive",
@@ -13,5 +13,5 @@ export const nimue = {
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "885728eb-a579-4158-9e5a-d48265245180",
   createdAt: "2026-10-19T16:52:03.328Z",
-  updatedAt: "2026-10-19T16:52:06.796Z",
+  updatedAt: "2026-10-19T19:28:50.766Z",
 } as const satisfies Seat
