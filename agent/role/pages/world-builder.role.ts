@@ -4,7 +4,7 @@ export const worldBuilder = {
   id: "01a0d47c-9cc7-7822-b581-ac10934ca350",
   type: "page-type/role",
   slug: "world-builder",
-  definition: "an agent that knows the whole world of a game or a written story",
+  definition: "an agent that knows the whole world of a story",
   onCall: true,
   directives: [
     {
@@ -94,5 +94,5 @@ export const worldBuilder = {
     },
   ],
   createdAt: "2026-09-24T17:35:31.527Z",
-  updatedAt: "2026-10-04T09:23:17.000Z",
+  updatedAt: "2026-10-19T19:48:10.110Z",
 } as const satisfies Role
