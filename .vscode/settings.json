@@ -30,7 +30,7 @@
   "terminal.integrated.initialHint": false,
   "terminal.integrated.tabs.description": "",
   "terminal.integrated.confirmOnExit": "never",
-  "terminal.integrated.confirmOnKill": "always",
+  "terminal.integrated.confirmOnKill": "never",
   "terminal.integrated.enablePersistentSessions": true,
   "terminal.integrated.persistentSessionReviveProcess": "onExitAndWindowClose",
   "terminal.integrated.scrollback": 50000,
