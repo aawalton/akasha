@@ -5,28 +5,60 @@ export const temperStatCompare = {
   type: "page-type/command",
   slug: "temper-stat-compare",
   definition:
-    "the command setting a character's stats as the game reported them beside Temper's estimate",
+    "the command setting each of a character's readings beside Temper's estimate, stat by stat",
   code: "ts",
+  test: "ts",
+  parts: ["module/stat-reading-lines"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading and the build are read from the character's page.",
+      statement: "The readings are read from the character's readings file, one reading to a line.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The estimate for each bar takes exactly the buffs that bar's reading listed.",
+      statement: "The newest three readings are shown where no reading is named.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only the stats where the reading and the estimate differ are shown.",
+      statement: "A reading is named by the second it was captured or by the start of its id.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A buff the reading listed that no buff page names is said by name.",
+      statement:
+        "Each reading opens with its id, when it was captured, its bar and its game version.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading that kept no buff names refuses the call until a fresh one is taken.",
+      statement: "Each reading says whether it was taken in combat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each reading says its worn sets, skills, stars, buffs, class passives and curse.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each reading sets every stat the game reported beside the estimate and the gap.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stat the estimate gives exactly is marked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The estimate is the stat cases' own, from the build and the reading's buffs and stars.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A buff the reading listed that no buff page names is marked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stat named alone is shown one line to a reading.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line of the readings that does not read is counted and the first one said.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -34,7 +66,14 @@ export const temperStatCompare = {
     },
   ],
   name: "stat-compare",
-  arguments: [{ argument: "argument/character" }, { argument: "argument/json" }],
+  arguments: [
+    { argument: "argument/character", required: true, saidAs: "flag-or-word" },
+    { argument: "argument/reading-count" },
+    { argument: "argument/captured-at", notWith: ["argument/reading-id"] },
+    { argument: "argument/reading-id" },
+    { argument: "argument/stat" },
+    { argument: "argument/json" },
+  ],
   createdAt: "2026-10-14T14:17:00.259Z",
-  updatedAt: "2026-10-14T14:17:00.259Z",
+  updatedAt: "2026-10-19T20:22:53.082Z",
 } as const satisfies Command

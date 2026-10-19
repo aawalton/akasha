@@ -1416,6 +1416,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/temper/eso/memory/modules/hks-global-finding/hks-global-finding.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/temper/eso/memory/modules/hks-table-reading/hks-table-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/temper/modules/character-completion-reading/character-completion-reading.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/temper/stat-compare/modules/stat-reading-lines/stat-reading-lines.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/temper/tps/modules/game-reading-comparing/game-reading-comparing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/temper/tps/modules/last-fight-reading/last-fight-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/track/modules/session-leveling/session-leveling.module.ts","typed":true,"deferred":false}
