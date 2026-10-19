@@ -19,6 +19,8 @@ export const WORKER_FILE = "worker.js"
 
 export const SITE_FILE = "site.js"
 
+export const ICON_FILE = "icon.png"
+
 const MANIFEST_FILE = "manifest.json"
 
 const WORKER = "extension-worker.code"
@@ -87,13 +89,19 @@ function codeAt(codeRoot: string, pagePath: string, group: string): string | nul
   return existsSync(at) ? at : null
 }
 
-export function stampOf(files: Readonly<Record<string, string>>): string {
+type Placed = Readonly<Record<string, string | Uint8Array>>
+
+export function stampOf(files: Placed): string {
   const hasher = new Bun.CryptoHasher("sha256")
-  for (const name of Object.keys(files).sort()) hasher.update(`${name}\n${files[name]}\n`)
+  for (const name of Object.keys(files).sort()) {
+    hasher.update(`${name}\n`)
+    hasher.update(files[name] ?? "")
+    hasher.update("\n")
+  }
   return hasher.digest("hex")
 }
 
-function refreshed(at: string, files: Readonly<Record<string, string>>): undefined {
+function refreshed(at: string, files: Placed): undefined {
   mkdirSync(at, { recursive: true })
   for (const [name, text] of Object.entries(files)) {
     const next = join(at, `${name}.next`)
@@ -129,11 +137,12 @@ export async function putUpExtension(
     return answeredWith([], refusals, OPERATIONAL)
   }
   const at = placedAt(home, slug)
-  const files = {
+  const files: Record<string, string | Uint8Array> = {
     [MANIFEST_FILE]: `${JSON.stringify(loaded.MANIFEST, null, 2)}\n`,
     [WORKER_FILE]: workerMade.text,
     [SITE_FILE]: siteMade.text,
   }
+  if (typeof loaded.ICON === "string") files[ICON_FILE] = Buffer.from(loaded.ICON, "base64")
   refreshed(at, { ...files, [BUILD_FILE]: `${stampOf(files)}\n` })
   up.push(`${slug}, placed where Chrome loads it`)
   return told([`placed\t${slug}\t${at}`])

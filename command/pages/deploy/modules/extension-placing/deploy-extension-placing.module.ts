@@ -43,6 +43,10 @@ export const deployExtensionPlacing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A worker exporting `ICON` as a PNG in base64 has it placed as `icon.png`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A build is stamped by what its files hold, so an unchanged build keeps its stamp.",
     },
@@ -52,5 +56,5 @@ export const deployExtensionPlacing = {
     },
   ],
   createdAt: "2026-10-18T17:20:17.468Z",
-  updatedAt: "2026-10-19T16:32:13.401Z",
+  updatedAt: "2026-10-19T16:45:29.559Z",
 } as const satisfies Module
