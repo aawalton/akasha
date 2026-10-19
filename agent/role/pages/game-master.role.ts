@@ -4,7 +4,7 @@ export const gameMaster = {
   id: "01a053c5-8d2a-7358-a19d-f3a1c5da0f75",
   type: "page-type/role",
   slug: "game-master",
-  definition: "an agent that decides what happens in a played game or a written story",
+  definition: "an agent that runs a story",
   onCall: true,
   decisions: [
     {
@@ -280,5 +280,5 @@ export const gameMaster = {
     },
   ],
   createdAt: "2026-08-30T17:44:10.794Z",
-  updatedAt: "2026-10-06T19:18:24.000Z",
+  updatedAt: "2026-10-19T19:40:21.897Z",
 } as const satisfies Role
