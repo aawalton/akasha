@@ -23,8 +23,6 @@ const FASTEST = 4
 
 const SHOWN_MS = 1500
 
-const NEAR_THE_END_SECONDS = 1.5
-
 const SHORTEST_LECTURE_SECONDS = 60
 
 const PANEL =
@@ -106,8 +104,6 @@ function hold(video: HTMLVideoElement): undefined {
     const at = video.currentTime / video.duration
     if (at < reached - WATCHED_AT) return replaced()
     reached = Math.max(reached, at)
-    const left = video.duration - video.currentTime
-    if (left < NEAR_THE_END_SECONDS * Math.max(1, video.playbackRate)) ended()
   })
   kept()
 }

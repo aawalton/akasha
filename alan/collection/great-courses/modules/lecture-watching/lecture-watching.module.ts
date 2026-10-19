@@ -19,6 +19,10 @@ export const lectureWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A lecture otherwise plays to the end of its video before it has ended.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A tracked page the extension cannot read says so.",
     },
     {
@@ -67,5 +71,5 @@ export const lectureWatching = {
     },
   ],
   createdAt: "2026-10-18T17:31:07.469Z",
-  updatedAt: "2026-10-19T17:30:14.294Z",
+  updatedAt: "2026-10-19T19:01:23.245Z",
 } as const satisfies Module
