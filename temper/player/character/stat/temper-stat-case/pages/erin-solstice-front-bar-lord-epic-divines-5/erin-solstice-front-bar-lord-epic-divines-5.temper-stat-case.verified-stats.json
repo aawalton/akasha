@@ -22,12 +22,12 @@
     "power-spell": 1124,
     "power-weapon": 1124,
     "resistance-critical": 1320,
+    "resistance-physical": 8683,
+    "resistance-spell": 8683,
+    "stamina-maximum": 12802,
     "stamina-recovery": 514
   },
   "gaps": {
-    "health-maximum": 30051,
-    "resistance-physical": 8683,
-    "resistance-spell": 8683,
-    "stamina-maximum": 12802
+    "health-maximum": 30051
   }
 }
