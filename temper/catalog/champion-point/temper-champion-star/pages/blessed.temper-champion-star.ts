@@ -13,6 +13,7 @@ export const blessed = {
     { metric: "temper-metric/healing-done-base", effectType: "fractional-change", value: 0.02 },
   ],
   hashPlace: 73,
+  jumpPoints: [0, 10, 20],
   createdAt: "2026-09-27T05:00:00.921Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:56:22.554Z",
 } as const satisfies TemperChampionStar
