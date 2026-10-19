@@ -2217,6 +2217,7 @@
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-blocks/saved-vars-blocks.module.ts","id":"01a06072-5abc-7ca4-972f-214d6d6ef964"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-migration/saved-vars-migration.module.ts","id":"01a06072-5abc-78bd-a40d-4a0c330f4651"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/saved-vars-migration/temper-saved-vars-migration.domain.ts","id":"01a06072-5abb-776e-b9a1-6393d03e042b"}
+{"propertySlug":"decision-kind","path":"temper/eso/saved-variable/service-workstations/temper-memory-reading/temper-memory-reading.service-workstation.ts","id":"01a15590-a44d-7ba0-b358-ed0c4ef0b3da"}
 {"propertySlug":"decision-kind","path":"temper/eso/type/eso-options-menu/eso-options-menu.type-declaration.ts","id":"01a06259-bfbb-741e-b9cc-630b4b8a9583"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/game-archive/game-archive.module.ts","id":"01a0d48b-3062-7029-8e02-6e1aac487d1f"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/game-art/game-art.module.ts","id":"01a0d48b-93f5-7275-89ac-cc498c5159d9"}

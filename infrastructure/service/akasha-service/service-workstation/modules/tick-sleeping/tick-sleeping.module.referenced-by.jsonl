@@ -5,4 +5,5 @@
 {"propertySlug":"import","fileName":"tick-sleeping.module.code.ts","path":"alan/harness/surplus/modules/fall-notifying/surplus-fall-notifying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"tick-sleeping.module.code.ts","path":"check/service-workstations/audit-running/audit-running.service-workstation.running.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"tick-sleeping.module.code.ts","path":"check/service-workstations/audit-running/audit-running.service-workstation.running.test.ts","typed":false,"deferred":true}
+{"propertySlug":"import","fileName":"tick-sleeping.module.code.ts","path":"temper/eso/saved-variable/service-workstations/temper-memory-reading/temper-memory-reading.service-workstation.running.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/service/akasha-service/service-workstation/service-workstation.page-type.ts","id":"01a05a3f-b42a-754e-af3c-8b30ed9d6ad1"}

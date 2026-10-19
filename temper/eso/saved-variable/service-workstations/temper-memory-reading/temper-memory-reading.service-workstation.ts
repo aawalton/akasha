@@ -1,0 +1,55 @@
+import type { ServiceWorkstation } from "akasha/infrastructure/service/akasha-service/service-workstation/service-workstation.page-type.types.ts"
+
+export const temperMemoryReading = {
+  id: "01a15590-a44d-7ba0-b358-ed0c4ef0b3da",
+  type: "page-type/service-workstation",
+  slug: "temper-memory-reading",
+  definition: "the service landing the build readings and fights the game holds, as they happen",
+  enabled: true,
+  needsSecrets: false,
+  systemd: {
+    after: ["page-service.service"],
+    wants: ["page-service.service"],
+    restart: "on-failure",
+    restartDelaySeconds: 10,
+    startLimitIntervalSeconds: 0,
+  },
+  decisions: [
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here writes to the game or attaches to the game as a debugger.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement:
+        "Nothing here is part of the watcher or of any add-on, and nothing here is sent away.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The game's memory is looked at every three seconds while the game runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The game's globals are found again at most every fifteen seconds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The globals are found again where they no longer read, and once a minute.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Each new reading of a bar replaces the last in the game, so a slow look loses it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A look that fails is said in the log and the next look goes on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The service reaches every page over page-service rather than over the checkout.",
+    },
+  ],
+  createdAt: "2026-10-19T19:08:25.036Z",
+  updatedAt: "2026-10-19T19:08:25.036Z",
+} as const satisfies ServiceWorkstation

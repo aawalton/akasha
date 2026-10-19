@@ -5998,11 +5998,13 @@
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/modules/lua-array/lua-array.module.ts","id":"01a06053-3636-7157-ade2-a72c0d19b41c"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/modules/lua-parser/lua-parser.module.ts","id":"01a06053-3635-710f-8f31-18095cf8a395"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/modules/lua-serializer/lua-serializer.module.ts","id":"01a06053-3635-7645-b6ba-ffae9f98d01e"}
+{"propertySlug":"decision-kind","path":"temper/eso/saved-variable/modules/memory-capture/memory-capture.module.ts","id":"01a15590-a44d-775a-8ccb-af35f4cfa282"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/saved-vars-migration/modules/bundle-member-saved-vars/bundle-member-saved-vars.module.ts","id":"01a06072-5abd-75b9-b1b8-07150462637e"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/saved-vars-migration/modules/eso-running/eso-running.module.ts","id":"01a1263d-f909-7f9e-8d2f-bc11037ec7a3"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-blocks/saved-vars-blocks.module.ts","id":"01a06072-5abc-7ca4-972f-214d6d6ef964"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-migration/saved-vars-migration.module.ts","id":"01a06072-5abc-78bd-a40d-4a0c330f4651"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/saved-vars-migration/temper-saved-vars-migration.domain.ts","id":"01a06072-5abb-776e-b9a1-6393d03e042b"}
+{"propertySlug":"decision-kind","path":"temper/eso/saved-variable/service-workstations/temper-memory-reading/temper-memory-reading.service-workstation.ts","id":"01a15590-a44d-7ba0-b358-ed0c4ef0b3da"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/temper-saved-variable.domain.ts","id":"01a06053-3633-77f0-8acd-df36807c5f6c"}
 {"propertySlug":"decision-kind","path":"temper/eso/string/modules/engine-strings-reading/engine-strings-reading.module.ts","id":"01a0d417-685a-7536-aae7-8ce26e0dfc6b"}
 {"propertySlug":"decision-kind","path":"temper/eso/string/modules/engine-strings-seeding/engine-strings-seeding.module.ts","id":"01a0d417-b676-7d76-87ba-29c4cd637ae9"}

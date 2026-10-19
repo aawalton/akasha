@@ -1181,6 +1181,7 @@
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/modules/lua-parser/lua-parser.module.ts","id":"01a06053-3635-710f-8f31-18095cf8a395"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/modules/lua-serializer/lua-serializer.module.ts","id":"01a06053-3635-7645-b6ba-ffae9f98d01e"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/saved-vars-migration/temper-saved-vars-migration.domain.ts","id":"01a06072-5abb-776e-b9a1-6393d03e042b"}
+{"propertySlug":"decision-kind","path":"temper/eso/saved-variable/service-workstations/temper-memory-reading/temper-memory-reading.service-workstation.ts","id":"01a15590-a44d-7ba0-b358-ed0c4ef0b3da"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/temper-saved-variable.domain.ts","id":"01a06053-3633-77f0-8acd-df36807c5f6c"}
 {"propertySlug":"decision-kind","path":"temper/eso/string/temper-eso-string.domain.ts","id":"01a0d417-0c97-720e-8c62-96038b6b3ee6"}
 {"propertySlug":"decision-kind","path":"temper/eso/type/eso-keybindings/eso-keybindings.type-declaration.ts","id":"01a06381-67c1-7c64-b1db-c19ebd0acd9e"}

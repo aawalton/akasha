@@ -87,6 +87,10 @@ export function tableAt(read: Reader, table: bigint): TableRead | null {
   }
 }
 
+export function heldTable(at: bigint): Held {
+  return { type: TABLE, value: at }
+}
+
 export function tableIn(held: Held | null): bigint | null {
   return held !== null && held.type === TABLE ? held.value : null
 }
