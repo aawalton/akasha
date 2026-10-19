@@ -3715,6 +3715,11 @@
         2,
         12
       ]
+    },
+    "3": {
+      "25": [
+        103
+      ]
     }
   },
   "motifKnowledge": {
@@ -5075,8 +5080,8 @@
     }
   },
   "skillPoints": {
-    "total": 395,
-    "unassigned": 9,
+    "total": 396,
+    "unassigned": 10,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 0,
@@ -5086,7 +5091,7 @@
     "endlessArchive": 1,
     "skyshardPoints": 176,
     "totalSkyshards": 530,
-    "zoneQuestTotal": 66,
+    "zoneQuestTotal": 67,
     "groupDungeonTotal": 25,
     "publicDungeonTotal": 36,
     "skyshards": {
@@ -5148,7 +5153,7 @@
       "DC0a": 0,
       "TR": 0,
       "DC3": 3,
-      "WR": 1,
+      "WR": 2,
       "DC4": 3,
       "VV": 0,
       "HI": 0,
@@ -7321,6 +7326,7 @@
     5450,
     5454,
     5458,
+    5468,
     5470,
     5471,
     5472,
@@ -10867,7 +10873,8 @@
         6,
         7,
         8,
-        9
+        9,
+        10
       ],
       "2": [
         5,
@@ -14062,45 +14069,45 @@
   },
   "inventoryCheck": {
     "date": "2026-10-19",
-    "misplaced": 51
+    "misplaced": 53
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792437075,
+      "capturedAt": 1792438500,
       "inCombat": false,
       "stats": {
-        "resistance-spell": 11199,
-        "power-weapon": 4084,
-        "stamina-recovery": 887,
         "penetration-physical": 17886,
-        "health-recovery": 0,
-        "stamina-maximum": 26243,
-        "power-spell": 4084,
-        "critical-rating-weapon": 6225,
-        "resistance-physical": 11199,
-        "critical-rating-spell": 6225,
         "magicka-recovery": 524,
+        "stamina-maximum": 26243,
+        "critical-rating-weapon": 7539,
+        "resistance-spell": 11199,
+        "power-weapon": 5001,
+        "power-spell": 5001,
+        "health-recovery": 0,
+        "critical-rating-spell": 7539,
+        "resistance-physical": 11199,
         "penetration-spell": 17886,
         "health-maximum": 24546,
-        "resistance-critical": 1320,
-        "magicka-maximum": 19621
+        "stamina-recovery": 1095,
+        "magicka-maximum": 19621,
+        "resistance-critical": 1320
       },
       "unbonusedStats": {
+        "penetration-physical": 0,
+        "magicka-recovery": 524,
+        "stamina-maximum": 26243,
+        "critical-rating-weapon": 2181,
         "resistance-spell": 0,
         "power-weapon": 1000,
-        "stamina-recovery": 887,
-        "penetration-physical": 0,
-        "health-recovery": 0,
-        "stamina-maximum": 26243,
         "power-spell": 1000,
-        "critical-rating-weapon": 2181,
-        "resistance-physical": 0,
+        "health-recovery": 0,
         "critical-rating-spell": 2181,
-        "magicka-recovery": 524,
+        "resistance-physical": 0,
         "penetration-spell": 0,
         "health-maximum": 24546,
-        "resistance-critical": 0,
-        "magicka-maximum": 19621
+        "stamina-recovery": 1095,
+        "magicka-maximum": 19621,
+        "resistance-critical": 0
       },
       "activeBuffs": [
         {
@@ -14157,6 +14164,55 @@
           "name": "Vampire Stage 4",
           "description": "",
           "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 122586,
+          "name": "Merciless Resolve",
+          "description": "",
+          "effect": "",
+          "stacks": 3
+        },
+        {
+          "abilityId": 194875,
+          "name": "Fated Fortune",
+          "description": "Increases your Critical Damage and Critical Healing by |cffffff0|r% while you have one or more Crux.",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 215727,
+          "name": "Sunderer",
+          "description": "",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 97896,
+          "name": "Domihaus",
+          "description": "",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 184860,
+          "name": "Harnessed Quintessence",
+          "description": "",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 45450,
+          "name": "Battle Rush",
+          "description": "",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61666,
+          "name": "Minor Savagery",
+          "description": "",
+          "effect": "Increases your Critical rating by |cffffff1314|r, increasing your Critical Chance by |cffffff6|r%.\n",
           "stacks": 0
         }
       ],
@@ -14725,7 +14781,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:128340:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:7500:0|h|h",
+          "link": "|H0:item:128340:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:6850:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14741,7 +14797,7 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:215597:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:8290:0|h|h",
+          "link": "|H0:item:215597:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:8040:0|h|h",
           "armor": 2084,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14749,7 +14805,7 @@
         },
         {
           "slot": 3,
-          "link": "|H0:item:128348:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:5545:0|h|h",
+          "link": "|H0:item:128348:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:5295:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14757,7 +14813,7 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:133787:364:50:26844:370:50:7:25:0:0:0:0:0:0:2049:4:0:1:0:246:0|h|h",
+          "link": "|H0:item:133787:364:50:26844:370:50:7:25:0:0:0:0:0:0:2049:4:0:1:0:243:0|h|h",
           "armor": 0,
           "enchant": "Deals |cffffff2534|r Shock Damage.",
           "trait": "Increases Physical and Spell Penetration by |cffffff3276|r.",
@@ -14765,7 +14821,7 @@
         },
         {
           "slot": 6,
-          "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:9500:0|h|h",
+          "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:8750:0|h|h",
           "armor": 781,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14773,7 +14829,7 @@
         },
         {
           "slot": 8,
-          "link": "|H0:item:215601:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:9600:0|h|h",
+          "link": "|H0:item:215601:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:9300:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14781,7 +14837,7 @@
         },
         {
           "slot": 9,
-          "link": "|H0:item:215598:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:10000:0|h|h",
+          "link": "|H0:item:215598:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:9500:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14805,7 +14861,7 @@
         },
         {
           "slot": 16,
-          "link": "|H0:item:215599:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:4445:0|h|h",
+          "link": "|H0:item:215599:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:3695:0|h|h",
           "armor": 1042,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -14825,7 +14881,7 @@
           "slot": 3,
           "abilityId": 183047,
           "name": "Recuperative Treatise",
-          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff5|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3642|r Magic Damage, restores |cffffff600|r Magicka and Stamina, and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
+          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff5|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff4139|r Magic Damage, restores |cffffff600|r Magicka and Stamina, and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
           "durationMs": 30000,
           "castMs": 0,
           "channeled": false,
@@ -14836,7 +14892,7 @@
           "slot": 4,
           "abilityId": 183006,
           "name": "Cephaliarch's Flail",
-          "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff6082|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff3324|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink.",
+          "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff6913|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff3788|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink.",
           "durationMs": 0,
           "castMs": 300,
           "channeled": false,
@@ -14847,7 +14903,7 @@
           "slot": 5,
           "abilityId": 193398,
           "name": "Pragmatic Fatecarver",
-          "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff2757|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff9639|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage.",
+          "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff3134|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff10981|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage.",
           "durationMs": 0,
           "castMs": 4500,
           "channeled": true,
@@ -14858,7 +14914,7 @@
           "slot": 6,
           "abilityId": 34843,
           "name": "Killer's Blade",
-          "description": "Thrust a caustic blade with lethal precision to stab an enemy, dealing |cffffff3642|r Disease Damage. Deals up to |cffffff400|r% more damage to enemies with less than |cffffff50|r% Health.\n\nHeals you for |cffffff7964|r if the enemy dies within |cffffff2|r seconds of being struck.",
+          "description": "Thrust a caustic blade with lethal precision to stab an enemy, dealing |cffffff4139|r Disease Damage. Deals up to |cffffff400|r% more damage to enemies with less than |cffffff50|r% Health.\n\nHeals you for |cffffff9074|r if the enemy dies within |cffffff2|r seconds of being struck.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -14869,7 +14925,7 @@
           "slot": 7,
           "abilityId": 61505,
           "name": "Echoing Vigor",
-          "description": "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff17343|r Health over |cffffff16|r seconds.",
+          "description": "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff19764|r Health over |cffffff16|r seconds.",
           "durationMs": 16000,
           "castMs": 0,
           "channeled": false,
@@ -14880,7 +14936,7 @@
           "slot": 8,
           "abilityId": 189837,
           "name": "The Tide King's Gaze",
-          "description": "Tear open the fabric of the Aurbis to unleash a scion of Hermaeus Mora. This being casts forth a beam that rends asunder reality for |cffffff8|r seconds that deals |cffffff3612|r Magic Damage to enemies within 5 meters every |cffffff0.5|r seconds. \n\nThe scion's beam automatically follows the initial target, and hunts for a new one within 8 meters if it is slain.",
+          "description": "Tear open the fabric of the Aurbis to unleash a scion of Hermaeus Mora. This being casts forth a beam that rends asunder reality for |cffffff8|r seconds that deals |cffffff4105|r Magic Damage to enemies within 5 meters every |cffffff0.5|r seconds. \n\nThe scion's beam automatically follows the initial target, and hunts for a new one within 8 meters if it is slain.",
           "durationMs": 8000,
           "castMs": 0,
           "channeled": false,
@@ -14937,38 +14993,38 @@
       "capturedAt": 1792436056,
       "inCombat": false,
       "stats": {
+        "penetration-physical": 10346,
+        "magicka-recovery": 524,
+        "health-recovery": 0,
+        "power-spell": 4430,
         "resistance-spell": 11199,
         "power-weapon": 4430,
-        "stamina-recovery": 887,
-        "penetration-physical": 10346,
-        "penetration-spell": 10346,
-        "stamina-maximum": 26243,
-        "resistance-critical": 1320,
-        "critical-rating-weapon": 8415,
-        "health-maximum": 24546,
-        "critical-rating-spell": 8415,
-        "magicka-recovery": 524,
-        "resistance-physical": 11199,
         "magicka-maximum": 19621,
-        "power-spell": 4430,
-        "health-recovery": 0
+        "stamina-maximum": 26243,
+        "critical-rating-spell": 8415,
+        "resistance-physical": 11199,
+        "penetration-spell": 10346,
+        "health-maximum": 24546,
+        "stamina-recovery": 887,
+        "critical-rating-weapon": 8415,
+        "resistance-critical": 1320
       },
       "unbonusedStats": {
+        "penetration-physical": 0,
+        "magicka-recovery": 524,
+        "health-recovery": 0,
+        "power-spell": 1000,
         "resistance-spell": 0,
         "power-weapon": 1000,
-        "stamina-recovery": 887,
-        "penetration-physical": 0,
-        "penetration-spell": 0,
-        "stamina-maximum": 26243,
-        "resistance-critical": 0,
-        "critical-rating-weapon": 2181,
-        "health-maximum": 24546,
-        "critical-rating-spell": 2181,
-        "magicka-recovery": 524,
-        "resistance-physical": 0,
         "magicka-maximum": 19621,
-        "power-spell": 1000,
-        "health-recovery": 0
+        "stamina-maximum": 26243,
+        "critical-rating-spell": 2181,
+        "resistance-physical": 0,
+        "penetration-spell": 0,
+        "health-maximum": 24546,
+        "stamina-recovery": 887,
+        "critical-rating-weapon": 2181,
+        "resistance-critical": 0
       },
       "activeBuffs": [
         {
