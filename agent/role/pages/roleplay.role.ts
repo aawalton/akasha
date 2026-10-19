@@ -4,7 +4,7 @@ export const roleplay = {
   id: "01a14ab2-b7a3-7e34-8bad-ef46660f007a",
   type: "page-type/role",
   slug: "roleplay",
-  definition: "an agent that narrates a played story straight onto the story's turns",
+  definition: "an agent that writes a story Alan plays",
   onCall: false,
   decisions: [
     {
@@ -317,5 +317,5 @@ export const roleplay = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-17T22:19:36.773Z",
+  updatedAt: "2026-10-19T19:47:28.131Z",
 } as const satisfies Role
