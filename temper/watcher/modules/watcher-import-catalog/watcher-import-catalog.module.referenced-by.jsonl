@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"watcher-import-catalog.module.code.ts","path":"command/pages/temper/eso/generate/item-sets/temper-eso-generate-item-sets.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-import-catalog.module.code.ts","path":"temper/catalog/world/temper-catalog-domain/modules/catalog-capture-reading/catalog-capture-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-import-catalog.module.code.ts","path":"temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-import-catalog.module.code.ts","path":"temper/watcher/modules/watcher-import-catalog/watcher-import-catalog.module.test.ts","typed":false,"deferred":false}

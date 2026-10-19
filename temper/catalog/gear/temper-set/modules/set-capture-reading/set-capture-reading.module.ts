@@ -14,6 +14,11 @@ export const setCaptureReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The item set and inventory constants tables are handed over rather than read here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A type is written as the constant the same capture names its number by.",
     },
     {
@@ -46,5 +51,5 @@ export const setCaptureReading = {
     },
   ],
   createdAt: "2026-09-25T13:33:31.081Z",
-  updatedAt: "2026-09-25T14:00:19.000Z",
+  updatedAt: "2026-10-19T17:44:57.193Z",
 } as const satisfies Module

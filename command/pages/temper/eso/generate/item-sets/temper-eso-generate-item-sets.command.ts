@@ -9,7 +9,12 @@ export const temperEsoGenerateItemSets = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file the call does not name is read from the game's live install.",
+      statement:
+        "The sets and type constants are read from the captures beside their domain pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A domain with no capture landed refuses, naming that domain.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -37,7 +42,7 @@ export const temperEsoGenerateItemSets = {
     },
   ],
   name: "item-sets",
-  arguments: [{ argument: "argument/code-root" }, { argument: "argument/saved-variables-file" }],
+  arguments: [{ argument: "argument/code-root" }],
   createdAt: "2026-09-25T13:34:27.392Z",
-  updatedAt: "2026-09-25T13:34:31.000Z",
+  updatedAt: "2026-10-19T17:44:57.193Z",
 } as const satisfies Command

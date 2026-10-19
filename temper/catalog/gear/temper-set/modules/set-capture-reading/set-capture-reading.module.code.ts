@@ -6,14 +6,6 @@ import { removePropertyFromEveryPage } from "akasha/change/mechanical/page-type/
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { temperSet } from "akasha/temper/catalog/gear/temper-set/temper-set.page-type.ts"
-import { accountWideHolding } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
-import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
-
-const TOP_LEVEL = "TemperCatalog_SavedVariables"
-
-const SETS = "itemSetCatalog"
-
-const CONSTANTS = "inventoryConstantsCatalog"
 
 const NO_VALUE = /_(NONE|INVALID)$/
 
@@ -79,16 +71,10 @@ function itemIdsIn(pieces: readonly Record<string, unknown>[]): readonly number[
   return [...found].sort((one, other) => one - other)
 }
 
-export function setsCapturedIn(content: string): readonly SetCaptured[] | undefined {
-  let root: Record<string, unknown>
-  try {
-    root = parseLuaSavedVariablesFile(content, TOP_LEVEL)
-  } catch {
-    return undefined
-  }
-  const sets = accountWideHolding(root, SETS)
-  const constants = accountWideHolding(root, CONSTANTS)
-  if (sets === undefined || constants === undefined) return undefined
+export function setsCapturedIn(
+  sets: Readonly<Record<string, unknown>>,
+  constants: Readonly<Record<string, unknown>>
+): readonly SetCaptured[] | undefined {
   const armor = namesByNumber(constants.armorTypes)
   const equip = namesByNumber(constants.equipTypes)
   const weapon = namesByNumber(constants.weaponTypes)

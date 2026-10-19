@@ -21,82 +21,24 @@ const WARLOCK_AT = "temper/catalog/gear/temper-set/pages/warlock/warlock.temper-
 
 const OTHER_AT = "temper/catalog/gear/temper-set/pages/other/other.temper-set.ts"
 
-const CAPTURE = `TemperCatalog_SavedVariables =
-{
-    ["Default"] =
-    {
-        ["@alpha"] =
-        {
-            ["$AccountWide"] =
-            {
-                ["inventoryConstantsCatalog"] =
-                {
-                    ["armorTypes"] =
-                    {
-                        ["ARMORTYPE_NONE"] = 0,
-                        ["ARMORTYPE_LIGHT"] = 1,
-                        ["ARMORTYPE_HEAVY"] = 3,
-                    },
-                    ["equipTypes"] =
-                    {
-                        ["EQUIP_TYPE_INVALID"] = 0,
-                        ["EQUIP_TYPE_HEAD"] = 1,
-                        ["EQUIP_TYPE_ONE_HAND"] = 5,
-                    },
-                    ["weaponTypes"] =
-                    {
-                        ["WEAPONTYPE_NONE"] = 0,
-                        ["WEAPONTYPE_AXE"] = 1,
-                    },
-                },
-                ["itemSetCatalog"] =
-                {
-                    [19] =
-                    {
-                        ["name"] = "Vestments of the Warlock",
-                        ["totalSlots"] = 3,
-                        ["pieces"] =
-                        {
-                            [1] =
-                            {
-                                ["name"] = "Hat of the Warlock",
-                                ["itemId"] = 43803,
-                                ["armorType"] = 1,
-                                ["equipType"] = 1,
-                                ["weaponType"] = 0,
-                            },
-                            [2] =
-                            {
-                                ["name"] = "Axe of the Warlock",
-                                ["itemId"] = 43529,
-                                ["armorType"] = 0,
-                                ["equipType"] = 5,
-                                ["weaponType"] = 1,
-                            },
-                            [3] =
-                            {
-                                ["name"] = "Piece 3",
-                            },
-                        },
-                    },
-                    [20] =
-                    {
-                        ["name"] = "Witchman Armor",
-                        ["totalSlots"] = 1,
-                        ["pieces"] =
-                        {
-                            [1] =
-                            {
-                                ["name"] = "Piece 1",
-                            },
-                        },
-                    },
-                },
-            },
-        },
-    },
+const CONSTANTS = {
+  armorTypes: { ARMORTYPE_NONE: 0, ARMORTYPE_LIGHT: 1, ARMORTYPE_HEAVY: 3 },
+  equipTypes: { EQUIP_TYPE_INVALID: 0, EQUIP_TYPE_HEAD: 1, EQUIP_TYPE_ONE_HAND: 5 },
+  weaponTypes: { WEAPONTYPE_NONE: 0, WEAPONTYPE_AXE: 1 },
 }
-`
+
+const HAT = { name: "Hat of the Warlock", itemId: 43803, armorType: 1, equipType: 1, weaponType: 0 }
+
+const AXE = { name: "Axe of the Warlock", itemId: 43529, armorType: 0, equipType: 5, weaponType: 1 }
+
+const SETS = {
+  "19": {
+    name: "Vestments of the Warlock",
+    totalSlots: 3,
+    pieces: [HAT, AXE, { name: "Piece 3" }],
+  },
+  "20": { name: "Witchman Armor", totalSlots: 1, pieces: { "1": { name: "Piece 1" } } },
+}
 
 const WARLOCK: SetCaptured = {
   esoSetId: 19,
@@ -109,16 +51,12 @@ const WARLOCK: SetCaptured = {
 
 describe("setsCapturedIn", () => {
   test("reads each set's item ids and type constants off its pieces", () => {
-    expect(setsCapturedIn(CAPTURE)).toEqual([WARLOCK])
+    expect(setsCapturedIn(SETS, CONSTANTS)).toEqual([WARLOCK])
   })
 
   test("reads a capture no piece of which names an item id as nothing", () => {
-    const older = CAPTURE.replace(/\["itemId"\] = \d+,/g, "")
-    expect(setsCapturedIn(older)).toBeUndefined()
-  })
-
-  test("reads a file that will not parse as nothing", () => {
-    expect(setsCapturedIn("not lua at all {")).toBeUndefined()
+    const older = { "20": SETS["20"] }
+    expect(setsCapturedIn(older, CONSTANTS)).toBeUndefined()
   })
 })
 
