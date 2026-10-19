@@ -52,6 +52,13 @@ test("a line that does not read is kept aside with its number", () => {
   expect(unread[0]?.why).toBe("it is no JSON")
 })
 
+test("a line whose reading does not read says where", () => {
+  const broken = JSON.parse(lineOf("01a1", 1)) as { reading: Record<string, unknown> }
+  broken.reading["inCombat"] = "yes"
+  const { unread } = readingLinesIn(JSON.stringify(broken))
+  expect(unread[0]?.why).toContain("at `reading.inCombat`")
+})
+
 test("the newest readings are chosen, newest first", () => {
   const { lines } = readingLinesIn(BODY)
   const said = chosenIn(lines, { last: 2 })
