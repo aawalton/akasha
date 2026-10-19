@@ -3802,6 +3802,23 @@
       13,
       14
     ],
+    "12": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      10,
+      11,
+      13,
+      14
+    ],
+    "14": [
+      2,
+      5
+    ],
     "15": [
       1,
       2,
@@ -3866,6 +3883,9 @@
       13,
       14
     ],
+    "21": [
+      14
+    ],
     "26": [
       1,
       2,
@@ -3880,6 +3900,11 @@
       11,
       12,
       13,
+      14
+    ],
+    "29": [
+      7,
+      9,
       14
     ],
     "30": [
@@ -3898,6 +3923,13 @@
       13,
       14
     ],
+    "31": [
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
     "42": [
       1,
       2,
@@ -3912,6 +3944,18 @@
       11,
       12,
       13,
+      14
+    ],
+    "45": [
+      2,
+      5,
+      9
+    ],
+    "46": [
+      1,
+      4,
+      7,
+      10,
       14
     ],
     "59": [
@@ -3929,6 +3973,42 @@
       12,
       13,
       14
+    ],
+    "62": [
+      12
+    ],
+    "74": [
+      9,
+      14
+    ],
+    "78": [
+      11
+    ],
+    "92": [
+      2,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      13
+    ],
+    "94": [
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11
+    ],
+    "98": [
+      12
+    ],
+    "100": [
+      9
     ]
   },
   "recipes": {
@@ -13509,41 +13589,41 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792431072,
+      "capturedAt": 1792431125,
       "inCombat": false,
       "stats": {
-        "power-spell": 4486,
-        "health-recovery": 278,
-        "health-maximum": 17960,
-        "critical-rating-spell": 7945,
-        "resistance-spell": 12930,
-        "critical-rating-weapon": 7945,
-        "stamina-maximum": 25632,
-        "stamina-recovery": 696,
-        "power-weapon": 4486,
-        "penetration-spell": 19286,
+        "resistance-physical": 12930,
         "magicka-recovery": 514,
-        "resistance-critical": 1320,
-        "magicka-maximum": 12520,
+        "critical-rating-spell": 7945,
         "penetration-physical": 19286,
-        "resistance-physical": 12930
+        "magicka-maximum": 12520,
+        "power-spell": 4486,
+        "penetration-spell": 19286,
+        "health-recovery": 278,
+        "power-weapon": 4486,
+        "critical-rating-weapon": 7945,
+        "resistance-critical": 1320,
+        "health-maximum": 17960,
+        "stamina-recovery": 696,
+        "resistance-spell": 12930,
+        "stamina-maximum": 25632
       },
       "unbonusedStats": {
-        "power-spell": 1000,
-        "health-recovery": 278,
-        "health-maximum": 17960,
-        "critical-rating-spell": 2181,
-        "resistance-spell": 0,
-        "critical-rating-weapon": 2181,
-        "stamina-maximum": 25632,
-        "stamina-recovery": 696,
-        "power-weapon": 1000,
-        "penetration-spell": 0,
+        "resistance-physical": 0,
         "magicka-recovery": 514,
-        "resistance-critical": 0,
-        "magicka-maximum": 12520,
+        "critical-rating-spell": 2181,
         "penetration-physical": 0,
-        "resistance-physical": 0
+        "magicka-maximum": 12520,
+        "power-spell": 1000,
+        "penetration-spell": 0,
+        "health-recovery": 278,
+        "power-weapon": 1000,
+        "critical-rating-weapon": 2181,
+        "resistance-critical": 0,
+        "health-maximum": 17960,
+        "stamina-recovery": 696,
+        "resistance-spell": 0,
+        "stamina-maximum": 25632
       },
       "activeBuffs": [
         {
