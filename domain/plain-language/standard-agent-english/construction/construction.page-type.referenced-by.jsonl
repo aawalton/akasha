@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/plain-language/standard-agent-english/construction/pages/modal-with-a-negator-and-a-verb-phrase.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/plain-language/standard-agent-english/construction/pages/modal-with-a-verb-phrase.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/plain-language/standard-agent-english/construction/pages/noun-group-alone.construction.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/plain-language/standard-agent-english/construction/pages/noun-group-with-a-degree-adverb-and-an-adjective.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/plain-language/standard-agent-english/construction/pages/noun-group-with-a-determiner.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/plain-language/standard-agent-english/construction/pages/noun-group-with-an-adjective.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-alone.construction.ts","typed":true,"deferred":false}
