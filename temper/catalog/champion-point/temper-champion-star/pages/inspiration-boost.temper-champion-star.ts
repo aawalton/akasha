@@ -13,6 +13,7 @@ export const inspirationBoost = {
     { metric: "temper-metric/inspiration-gain", effectType: "fractional-change", value: 0.3 },
   ],
   hashPlace: 11,
+  jumpPoints: [0, 15, 30, 45],
   createdAt: "2026-09-27T05:00:00.923Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:57:32.882Z",
 } as const satisfies TemperChampionStar
