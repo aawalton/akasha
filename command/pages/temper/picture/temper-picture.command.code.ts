@@ -1,6 +1,7 @@
 import { mkdir } from "node:fs/promises"
 import { dirname, resolve } from "node:path"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { character } from "akasha/command/argument/pages/character.argument.ts"
 import { out as outArgument } from "akasha/command/argument/pages/out.argument.ts"
 import { pictureSubject } from "akasha/command/argument/pages/picture-subject.argument.ts"
 import { refusedBy, told } from "akasha/command/modules/answering/command-answering.module.code.ts"
@@ -10,6 +11,12 @@ import {
   gameArt,
   gameTypefaces,
 } from "akasha/temper/eso/ui-harness/modules/game-art/game-art.module.code.ts"
+import {
+  accountCharacters,
+  characterAmong,
+  type PlayedCharacter,
+  playedAsLua,
+} from "akasha/temper/eso/ui-harness/modules/played-character/played-character.module.code.ts"
 import { takePicture } from "akasha/temper/eso/ui-harness/modules/ui-picture/ui-picture.module.code.ts"
 import {
   settled,
@@ -22,7 +29,12 @@ import {
 } from "akasha/temper/eso/ui-harness/modules/ui-windows/ui-windows.module.code.ts"
 import { namesDrawn } from "akasha/text/writing/modules/name-drawing/name-drawing.module.code.ts"
 
-const TAKES = [outArgument, pictureSubject] as const
+const TAKES = [outArgument, pictureSubject, character] as const
+
+function saidOfNoCharacter(root: string, asked: string): string {
+  const titles = accountCharacters(root).map((one) => String(one.title ?? one.slug))
+  return `\`${asked}\` is no character of the account; the characters are ${namesDrawn(titles)}`
+}
 
 function saidOfNoWindow(root: string, asked: string): string {
   const here = namesDrawn(uiWindowSlugs())
@@ -45,6 +57,12 @@ export async function temperPicture(argv: readonly string[], given: Given): Prom
   const window = uiWindowNamed(taken.pictureSubject)
   if (window === undefined) return refusedBy([saidOfNoWindow(given.root, taken.pictureSubject)])
 
+  let played: PlayedCharacter | null = null
+  if (taken.character !== undefined) {
+    played = characterAmong(accountCharacters(given.root), taken.character)
+    if (played === null) return refusedBy([saidOfNoCharacter(given.root, taken.character)])
+  }
+
   const written = resolve(given.root, taken.out)
   const staged = await stageUiHarness({
     root: given.root,
@@ -52,6 +70,7 @@ export async function temperPicture(argv: readonly string[], given: Given): Prom
     savedVariables: window.savedVariables,
     shows: window.shows,
     ...(window.stages === undefined ? {} : { stages: window.stages }),
+    ...(played === null ? {} : { playsAs: playedAsLua(played) }),
   })
   try {
     await staged.harness.load("return __ui_swallowed_cleared()")
@@ -101,6 +120,9 @@ export async function temperPicture(argv: readonly string[], given: Given): Prom
     return told([
       written,
       `${Math.round(box.width)} by ${Math.round(box.height)}, built at ${staged.builtAt}`,
+      played === null
+        ? "played as the character the player's own game last answered for"
+        : `played as ${played.name}, ${played.id}`,
       `the game's interface is up with ${String(staged.refused.length)} of its files refused`,
       staged.live.length === 0
         ? "every add-on file came from its build"

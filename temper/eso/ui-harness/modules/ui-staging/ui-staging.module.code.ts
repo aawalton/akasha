@@ -231,6 +231,7 @@ type StagingAsked = {
   readonly savedVariables: readonly string[]
   readonly shows: readonly string[]
   readonly stages?: string
+  readonly playsAs?: string
 }
 
 function documentsFor(root: string): readonly string[] {
@@ -413,6 +414,7 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
       for (const chunk of savedChunks(source)) await harness.load(chunk)
     }
     await harness.load("return __ui_play_as()")
+    if (asked.playsAs !== undefined) await harness.load(asked.playsAs)
     for (const addon of [GAME_ADDON, ...loaded]) {
       await raisedOrRefused(harness, refused, `${addon} loaded`, ADDON_LOADED, addon)
     }

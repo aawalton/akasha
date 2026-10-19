@@ -214,6 +214,11 @@ export const uiStaging = {
         "Where the game answered none, the account is the seeded files' and the character the harness.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A character a caller plays as answers over both, before any addon is announced loaded.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "The game's own HUD hides what is idle only when the player is activated.",
     },
@@ -236,5 +241,5 @@ export const uiStaging = {
     },
   ],
   createdAt: "2026-09-22T18:33:40.383Z",
-  updatedAt: "2026-10-19T16:32:19.989Z",
+  updatedAt: "2026-10-19T16:33:56.923Z",
 } as const satisfies Module

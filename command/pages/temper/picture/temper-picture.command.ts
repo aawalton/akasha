@@ -64,6 +64,19 @@ export const temperPicture = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A picture is played as the character a call names, or else as the last one played.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character the account has no page for is refused by naming the characters.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The answer says which character the picture was played as.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The folder the file sits in is made where that folder is not there already.",
     },
     {
@@ -96,7 +109,8 @@ export const temperPicture = {
   arguments: [
     { argument: "argument/picture-subject", required: true, saidAs: "word" },
     { argument: "argument/out", required: true },
+    { argument: "argument/character" },
   ],
   createdAt: "2026-09-22T18:35:18.990Z",
-  updatedAt: "2026-10-19T16:32:19.989Z",
+  updatedAt: "2026-10-19T16:33:56.923Z",
 } as const satisfies Command
