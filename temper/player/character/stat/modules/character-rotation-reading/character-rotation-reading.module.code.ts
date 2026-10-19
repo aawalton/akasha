@@ -79,6 +79,27 @@ function rotationBarOf(build: Build | null, bar: WeaponBar, reading: Reading): R
   }
 }
 
+export type CatalogBar = {
+  readonly bar: (typeof READING_BARS)[number][0]
+  readonly weaponStyle: string | undefined
+  readonly multipliers: Multipliers | undefined
+}
+
+export async function catalogBarsOf(completion: CharacterCompletion): Promise<CatalogBar[]> {
+  const build = await buildOf(completion)
+  const bars: CatalogBar[] = []
+  for (const [readingKey, bar] of READING_BARS) {
+    const reading = completion.reportedStats?.[readingKey]
+    if (reading === undefined) continue
+    bars.push({
+      bar: readingKey,
+      weaponStyle: build === null ? undefined : weaponStyleOf(build.equipment[bar]),
+      multipliers: catalogMultipliers(build, bar, reading),
+    })
+  }
+  return bars
+}
+
 export async function rotationReadingOf(
   completion: CharacterCompletion
 ): Promise<RotationReading | { readonly refused: string }> {

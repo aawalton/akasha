@@ -7,7 +7,7 @@ export const temperTps = {
   definition:
     "the command saying the toughness, damage and healing per second a character has over a fight",
   code: "ts",
-  parts: ["module/last-fight-reading"],
+  parts: ["module/last-fight-reading", "module/game-reading-comparing"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -21,6 +21,10 @@ export const temperTps = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes to the game.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The reading the add-on worked out in the game is set beside the estimate.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -44,5 +48,5 @@ export const temperTps = {
   name: "tps",
   arguments: [{ argument: "argument/character" }, { argument: "argument/json" }],
   createdAt: "2026-10-14T20:35:43.699Z",
-  updatedAt: "2026-10-19T18:49:52.670Z",
+  updatedAt: "2026-10-19T19:44:54.206Z",
 } as const satisfies Command

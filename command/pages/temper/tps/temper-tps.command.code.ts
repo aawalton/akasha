@@ -12,13 +12,17 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { characterCompletionAt } from "akasha/command/pages/temper/modules/character-completion-reading/character-completion-reading.module.code.ts"
+import { comparedLines } from "akasha/command/pages/temper/tps/modules/game-reading-comparing/game-reading-comparing.module.code.ts"
 import {
   gameLines,
   type LastFight,
   lastFightOf,
 } from "akasha/command/pages/temper/tps/modules/last-fight-reading/last-fight-reading.module.code.ts"
 import { temperTps as page } from "akasha/command/pages/temper/tps/temper-tps.command.ts"
-import { rotationReadingOf } from "akasha/temper/player/character/stat/modules/character-rotation-reading/character-rotation-reading.module.code.ts"
+import {
+  catalogBarsOf,
+  rotationReadingOf,
+} from "akasha/temper/player/character/stat/modules/character-rotation-reading/character-rotation-reading.module.code.ts"
 import type { RotationHealed } from "akasha/temper/player/character/stat/modules/rotation-healing/rotation-healing.module.code.ts"
 import { damageLeft } from "akasha/temper/player/character/stat/modules/toughness-per-second/toughness-per-second.module.code.ts"
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
@@ -58,6 +62,9 @@ export async function temperTps(argv: readonly string[], given: Given): Promise<
     return refused(`the combat add-on's last fight does not read: ${saidBy(thrown)}`, DATA)
   }
 
+  const bars = await catalogBarsOf(completion)
+  const inGame = completion.rotationReading
+
   const { healed, multipliers, attack } = reading
   if (read.taken.json) {
     return asJson({
@@ -79,6 +86,8 @@ export async function temperTps(argv: readonly string[], given: Given): Promise<
       enchantProcs: reading.enchantProcs,
       enchantHealing: reading.enchantHealing,
       unread: reading.unread,
+      catalogBars: bars,
+      inGame: inGame ?? null,
       game: game ?? null,
     })
   }
@@ -102,6 +111,7 @@ export async function temperTps(argv: readonly string[], given: Given): Promise<
     lines.push("", `healing no shape here reads, in ${one.name}:`)
     for (const sentence of one.sentences) lines.push(`  ${sentence}`)
   }
+  lines.push(...comparedLines(bars, reading, inGame))
   lines.push(...gameLines(game, multipliers.damageTaken))
   return told(lines)
 }

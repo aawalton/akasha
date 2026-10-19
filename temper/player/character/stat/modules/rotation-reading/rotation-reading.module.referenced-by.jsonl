@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"rotation-reading.module.code.ts","path":"command/pages/temper/tps/modules/game-reading-comparing/game-reading-comparing.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"rotation-reading.module.code.ts","path":"command/pages/temper/tps/modules/game-reading-comparing/game-reading-comparing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rotation-reading.module.code.ts","path":"temper/addon/pages/characters/modules/characters-rotation-reading/characters-rotation-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rotation-reading.module.code.ts","path":"temper/player/character/stat/modules/character-rotation-reading/character-rotation-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rotation-reading.module.code.ts","path":"temper/player/character/stat/modules/rotation-reading/rotation-reading.module.test.ts","typed":false,"deferred":false}
