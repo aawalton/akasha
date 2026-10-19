@@ -65,6 +65,7 @@ export type Answered = {
   readonly speed: number
   readonly next: string | null
   readonly why: string | null
+  readonly progress: number | null
 }
 
 type Watching = { readonly tabId: number; readonly id: string; readonly link: string }
@@ -183,11 +184,14 @@ async function answered(
     sameCourse(kept.link, asked.path)
       ? kept
       : null
-  const said = { watching: watching !== null, speed, next: null, why: null }
-  if (asked.kind === "watching" || asked.kind === "speed") return said
+  const said = { watching: watching !== null, speed, next: null, why: null, progress: null }
+  if (asked.kind === "speed") return said
   try {
+    if (asked.kind === "watching") {
+      return { ...said, progress: progressOf(await courseAt(asked.path)) }
+    }
     if (asked.kind === "progressed") {
-      const id = watching?.id ?? (await courseAt(asked.path))
+      const id = watching?.id ?? (await courseAt(asked.path))?.id ?? null
       if (id === null) return { ...said, why: "akasha holds no page for this course" }
       return { ...said, why: await wrote(id, asked.lengthMinutes, asked.progressMinutes) }
     }
@@ -198,8 +202,14 @@ async function answered(
   }
 }
 
-async function courseAt(path: string): Promise<string | null> {
+async function courseAt(path: string): Promise<Row | null> {
   return courseLinked(await rows(), (link) => sameCourse(link, path))
+}
+
+export function progressOf(row: Row | null): number | null {
+  if (row === null) return null
+  const held = row.attributes.ownProgress
+  return typeof held === "number" ? held : 0
 }
 
 async function idle(chrome: Chrome): Promise<boolean> {

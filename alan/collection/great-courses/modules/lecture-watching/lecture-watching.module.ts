@@ -11,11 +11,7 @@ export const lectureWatching = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A lecture's length and watched mark are read off the course page.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A page naming no course has its course read off a lecture's id.",
+      statement: "A lecture's length is read off the site's course page.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -27,7 +23,7 @@ export const lectureWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "What was played is read from the site's own lecture progress as Alan.",
+      statement: "Which lectures were watched is read from the course's page, never from the site.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -35,7 +31,7 @@ export const lectureWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A lecture ended is counted watched even before the site has saved it.",
+      statement: "A lecture ending where the site names no lecture playing is not recorded.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -71,5 +67,5 @@ export const lectureWatching = {
     },
   ],
   createdAt: "2026-10-18T17:31:07.469Z",
-  updatedAt: "2026-10-19T17:12:34.361Z",
+  updatedAt: "2026-10-19T17:30:14.294Z",
 } as const satisfies Module

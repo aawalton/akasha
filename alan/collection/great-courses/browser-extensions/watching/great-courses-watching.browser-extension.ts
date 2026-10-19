@@ -20,7 +20,7 @@ export const greatCoursesWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A course is opened at the next lecture the site counts unwatched.",
+      statement: "A course is opened at the first lecture past the progress its page states.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -37,7 +37,8 @@ export const greatCoursesWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Those minutes are what the site counts watched, so a missed write mends itself.",
+      statement:
+        "Those minutes count only whole lectures, so a partly played lecture writes nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -57,5 +58,5 @@ export const greatCoursesWatching = {
     },
   ],
   createdAt: "2026-10-18T17:31:07.469Z",
-  updatedAt: "2026-10-19T16:50:27.976Z",
+  updatedAt: "2026-10-19T17:30:14.294Z",
 } as const satisfies BrowserExtension

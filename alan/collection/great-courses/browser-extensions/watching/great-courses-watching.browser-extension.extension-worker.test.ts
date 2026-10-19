@@ -1,6 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import {
   MANIFEST,
+  progressOf,
   sameCourse,
   writeOf,
 } from "akasha/alan/collection/great-courses/browser-extensions/watching/great-courses-watching.browser-extension.extension-worker.code.ts"
@@ -42,5 +43,26 @@ describe("writeOf", () => {
 
   test("progress is never written past the length", () => {
     expect(JSON.parse(writeOf("id-1", 60, 61)).args.set.ownProgress).toBe(60)
+  })
+})
+
+describe("progressOf", () => {
+  const row = (attributes: Readonly<Record<string, unknown>>) => ({
+    id: "id-1",
+    slug: "a",
+    title: null,
+    attributes,
+  })
+
+  test("a course's progress is read off its page", () => {
+    expect(progressOf(row({ ownProgress: 42.5 }))).toBe(42.5)
+  })
+
+  test("a page stating no progress is at the start", () => {
+    expect(progressOf(row({}))).toBe(0)
+  })
+
+  test("no page gives no progress", () => {
+    expect(progressOf(null)).toBeNull()
   })
 })

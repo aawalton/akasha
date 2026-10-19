@@ -1,19 +1,21 @@
 import { expect, test } from "bun:test"
 import {
-  courseFrom,
   nudged,
+  progressIn,
 } from "akasha/alan/collection/great-courses/modules/lecture-watching/lecture-watching.module.code.ts"
 
-test("a page naming no course has its course read off a lecture's id", () => {
-  expect(courseFrom(undefined, "ZV8500-L01")).toBe("8500")
+const ANSWER = { watching: true, speed: 3, next: null, why: null, progress: 12.5 }
+
+test("a course's progress is taken from its page", () => {
+  expect(progressIn(ANSWER)).toBe(12.5)
 })
 
-test("a page naming its course is taken at its word", () => {
-  expect(courseFrom("1382", "ZV8500-L01")).toBe("1382")
+test("a course with no page gives no progress", () => {
+  expect(() => progressIn({ ...ANSWER, progress: null })).toThrow("akasha holds no page")
 })
 
-test("a lecture id naming no course gives none", () => {
-  expect(courseFrom(undefined, "intro")).toBeNull()
+test("a page that could not be read gives no progress", () => {
+  expect(() => progressIn({ ...ANSWER, why: "sign in" })).toThrow("sign in")
 })
 
 test("a nudge moves the speed a quarter", () => {

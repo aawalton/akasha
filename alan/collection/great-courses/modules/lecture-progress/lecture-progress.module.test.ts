@@ -1,57 +1,54 @@
 import { describe, expect, test } from "bun:test"
 import {
-  courseOf,
+  finishedThrough,
   type Lecture,
-  watched,
+  placeOf,
 } from "akasha/alan/collection/great-courses/modules/lecture-progress/lecture-progress.module.code.ts"
 
 function lecture(index: number, seconds: number): Lecture {
-  return { id: `L${index}`, index, seconds, watchedAt: 0.95 }
+  return { id: `L${index}`, index, seconds }
 }
 
 const LECTURES = [lecture(2, 1200), lecture(1, 1800), lecture(3, 600)]
 
-describe("watched", () => {
-  test("a lecture played to the site's mark is watched", () => {
-    expect(watched(lecture(1, 1000), 950)).toBe(true)
+describe("placeOf", () => {
+  test("the next lecture is the first past the page's progress", () => {
+    expect(placeOf(LECTURES, 30).next).toBe(2)
   })
 
-  test("a lecture short of the mark is not watched", () => {
-    expect(watched(lecture(1, 1000), 900)).toBe(false)
-  })
-
-  test("a lecture within ten seconds of its end is watched", () => {
-    expect(watched({ ...lecture(1, 100), watchedAt: 1 }, 90)).toBe(true)
-  })
-})
-
-describe("courseOf", () => {
-  test("the next lecture is the first in order not watched", () => {
-    expect(courseOf(LECTURES, { L1: 1800 }).next).toBe(2)
-  })
-
-  test("a course with every lecture watched has no next lecture", () => {
-    expect(courseOf(LECTURES, { L1: 1800, L2: 1200, L3: 600 }).next).toBeNull()
+  test("a course whose progress covers every lecture has no next lecture", () => {
+    expect(placeOf(LECTURES, 60).next).toBeNull()
   })
 
   test("the length is the sum of the lectures in minutes", () => {
-    expect(courseOf(LECTURES, {}).lengthMinutes).toBe(60)
+    expect(placeOf(LECTURES, 0).lengthMinutes).toBe(60)
   })
 
-  test("a watched lecture counts whole and a started one counts what was played", () => {
-    expect(courseOf(LECTURES, { L1: 1750, L2: 300 }).progressMinutes).toBe(35)
+  test("a lecture partly watched counts nothing", () => {
+    expect(placeOf(LECTURES, 45).progressMinutes).toBe(30)
   })
 
-  test("what was played never counts past a lecture's length", () => {
-    expect(courseOf([lecture(1, 600)], { L1: 9000 }).progressMinutes).toBe(10)
+  test("progress kept to the hundredth still covers its lecture", () => {
+    expect(placeOf([lecture(1, 100), lecture(2, 100)], 1.67).lecturesWatched).toBe(1)
   })
 
   test("a course counts its lectures and the lectures watched", () => {
-    const course = courseOf(LECTURES, { L1: 1800, L2: 300 })
+    const course = placeOf(LECTURES, 30)
     expect([course.lecturesWatched, course.lectures]).toEqual([1, 3])
   })
+})
 
-  test("minutes are kept to the hundredth", () => {
-    expect(courseOf([lecture(1, 100)], { L1: 10 }).progressMinutes).toBe(0.17)
+describe("finishedThrough", () => {
+  test("a finished lecture counts its whole length", () => {
+    expect(finishedThrough(LECTURES, 0, 1).progressMinutes).toBe(30)
+  })
+
+  test("a lecture finished ahead counts every lecture before it", () => {
+    const course = finishedThrough(LECTURES, 0, 3)
+    expect([course.lecturesWatched, course.progressMinutes]).toEqual([3, 60])
+  })
+
+  test("a lecture finished behind the page's progress leaves the progress", () => {
+    expect(finishedThrough(LECTURES, 50, 1).progressMinutes).toBe(50)
   })
 })

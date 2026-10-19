@@ -2,10 +2,7 @@ export type Lecture = {
   readonly id: string
   readonly index: number
   readonly seconds: number
-  readonly watchedAt: number
 }
-
-export type Played = Readonly<Record<string, number>>
 
 export type Course = {
   readonly next: number | null
@@ -15,38 +12,56 @@ export type Course = {
   readonly lecturesWatched: number
 }
 
-const NEAR_THE_END = 10
-
 const SECONDS_IN_A_MINUTE = 60
+
+const ROUNDING_MINUTES = 0.005
 
 function minutesOf(seconds: number): number {
   return Math.round((seconds / SECONDS_IN_A_MINUTE) * 100) / 100
 }
 
-export function watched(lecture: Lecture, played: number): boolean {
-  if (played >= lecture.seconds * lecture.watchedAt) return true
-  return lecture.seconds - played <= NEAR_THE_END
+function inOrderOf(lectures: readonly Lecture[]): readonly Lecture[] {
+  return [...lectures].sort((one, two) => one.index - two.index)
 }
 
-export function courseOf(lectures: readonly Lecture[], played: Played): Course {
-  const inOrder = [...lectures].sort((one, two) => one.index - two.index)
-  let next: number | null = null
+function watchedWithin(inOrder: readonly Lecture[], progressMinutes: number): number {
+  let through = 0
+  let watched = 0
+  for (const lecture of inOrder) {
+    through += lecture.seconds
+    if (minutesOf(through) > progressMinutes + ROUNDING_MINUTES) break
+    watched += 1
+  }
+  return watched
+}
+
+function courseThrough(inOrder: readonly Lecture[], watched: number): Course {
   let length = 0
   let progress = 0
-  let lecturesWatched = 0
-  for (const lecture of inOrder) {
-    const held = played[lecture.id] ?? 0
-    const done = watched(lecture, held)
+  for (const [at, lecture] of inOrder.entries()) {
     length += lecture.seconds
-    progress += done ? lecture.seconds : Math.min(held, lecture.seconds)
-    if (done) lecturesWatched += 1
-    if (!done && next === null) next = lecture.index
+    if (at < watched) progress += lecture.seconds
   }
   return {
-    next,
+    next: inOrder[watched]?.index ?? null,
     lengthMinutes: minutesOf(length),
     progressMinutes: minutesOf(progress),
     lectures: inOrder.length,
-    lecturesWatched,
+    lecturesWatched: watched,
   }
+}
+
+export function placeOf(lectures: readonly Lecture[], progressMinutes: number): Course {
+  const inOrder = inOrderOf(lectures)
+  return courseThrough(inOrder, watchedWithin(inOrder, progressMinutes))
+}
+
+export function finishedThrough(
+  lectures: readonly Lecture[],
+  progressMinutes: number,
+  index: number
+): Course {
+  const inOrder = inOrderOf(lectures)
+  const finished = inOrder.findIndex((one) => one.index === index) + 1
+  return courseThrough(inOrder, Math.max(watchedWithin(inOrder, progressMinutes), finished))
 }

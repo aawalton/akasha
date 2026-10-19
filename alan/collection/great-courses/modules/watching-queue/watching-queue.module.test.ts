@@ -71,7 +71,7 @@ describe("queuedFrom", () => {
 describe("courseLinked", () => {
   test("a course is found by its link whether or not it is queued", () => {
     const rows = [row("a", {}), row("b", { completion: "completed" })]
-    expect(courseLinked(rows, (link) => link === "https://site/b")).toBe("id-b")
+    expect(courseLinked(rows, (link) => link === "https://site/b")?.id).toBe("id-b")
   })
 
   test("a link no course holds finds nothing", () => {

@@ -4,18 +4,12 @@ import type {
 } from "akasha/alan/collection/great-courses/browser-extensions/watching/great-courses-watching.browser-extension.extension-worker.code.ts"
 import {
   type Course,
-  courseOf,
+  finishedThrough,
   type Lecture,
-  type Played,
+  placeOf,
 } from "akasha/alan/collection/great-courses/modules/lecture-progress/lecture-progress.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import type { Chrome } from "akasha/infrastructure/service/akasha-service/browser-extension/modules/chrome-reaching/chrome-reaching.module.code.ts"
-
-const PROGRESS_AT = "https://m2api.thegreatcourses.com/rest/V1/lectureprogress/mine/"
-
-const TOKEN_AT = "/toa/token/post"
-
-const TOKEN_KEPT = "a"
 
 const PLAYING = "lecplay"
 
@@ -27,13 +21,9 @@ const SLOWEST = 0.5
 
 const FASTEST = 4
 
-const SAVED_BY_THE_SITE_MS = 2000
-
 const SHOWN_MS = 1500
 
 const NEAR_THE_END_SECONDS = 1.5
-
-const COURSE_IN_LECTURE = /(\d+)-L\d+$/
 
 const SHORTEST_LECTURE_SECONDS = 60
 
@@ -57,52 +47,20 @@ function lecturesHere(): readonly Lecture[] {
     const index = Number(one.dataset.idx)
     const seconds = Number(one.dataset.len)
     const id = one.dataset.lecId
-    const at = Number(one.dataset.lecCompPercent)
     if (id === undefined || !(index >= 1) || !(seconds > 0)) continue
-    found.set(index, { id, index, seconds, watchedAt: at > 0 ? at : WATCHED_AT })
+    found.set(index, { id, index, seconds })
   }
   return [...found.values()]
 }
 
-export function courseFrom(sku: string | undefined, lectureId: string | undefined): string | null {
-  if (sku !== undefined && sku !== "") return sku
-  return COURSE_IN_LECTURE.exec(lectureId ?? "")?.[1] ?? null
+export function progressIn(answer: Answered): number {
+  if (answer.why !== null) throw new Error(answer.why)
+  if (answer.progress === null) throw new Error("akasha holds no page for this course")
+  return answer.progress
 }
 
-function courseHere(lectures: readonly Lecture[]): string | null {
-  const sku = document.querySelector<HTMLElement>(".media[data-sku]")?.dataset.sku
-  return courseFrom(sku, lectures[0]?.id)
-}
-
-async function token(): Promise<string> {
-  try {
-    const kept = JSON.parse(localStorage.getItem(TOKEN_KEPT) ?? "{}") as { t?: string; e?: number }
-    if (kept.t !== undefined && (kept.e ?? 0) > Date.now() / 1000) return kept.t
-  } catch {}
-  const answer = await fetch(TOKEN_AT, {
-    method: "POST",
-    headers: { "X-Requested-With": "XMLHttpRequest" },
-  })
-  const body = answer.ok ? ((await answer.json()) as { t?: string }) : {}
-  if (body.t === undefined)
-    throw new Error("the site gave no token, so sign in to The Great Courses")
-  localStorage.setItem(TOKEN_KEPT, JSON.stringify(body))
-  return body.t
-}
-
-async function playedHere(course: string): Promise<Played> {
-  const answer = await fetch(`${PROGRESS_AT}?course_id=${encodeURIComponent(course)}`, {
-    headers: { "Content-Type": "application/json", Authorization: `Bearer ${await token()}` },
-  })
-  if (!answer.ok) throw new Error(`the site's lecture progress answered ${answer.status}`)
-  const body = (await answer.json()) as {
-    items?: readonly { lecture_id?: unknown; progress?: unknown }[]
-  }
-  const played: Record<string, number> = {}
-  for (const one of body.items ?? []) {
-    if (typeof one.lecture_id === "string") played[one.lecture_id] = Number(one.progress) || 0
-  }
-  return played
+async function progressNow(ask: (asked: Asked) => Promise<Answered>): Promise<number> {
+  return progressIn(await ask({ kind: "watching", path: location.pathname }))
 }
 
 function panelOf(text: string): HTMLDivElement {
@@ -208,12 +166,11 @@ async function recorded(
 async function watched(
   ask: (asked: Asked) => Promise<Answered>,
   lectures: readonly Lecture[],
-  course: string
+  progress: number
 ): Promise<undefined> {
-  const playing = Number(new URLSearchParams(location.search).get(PLAYING))
-  const lecture = lectures.find((one) => one.index === playing)
+  const lecture = lectures.find((one) => one.index === Number(playingHere()))
   if (lecture === undefined) {
-    const now = courseOf(lectures, await playedHere(course))
+    const now = placeOf(lectures, progress)
     if (now.next === null) return await recorded(ask, now)
     const next = new URL(location.href)
     next.searchParams.set(PLAYING, String(now.next))
@@ -223,9 +180,7 @@ async function watched(
   await lectureEnded()
   NOW.stopped = true
   for (const one of document.querySelectorAll("video")) one.pause()
-  await new Promise((resolve) => setTimeout(resolve, SAVED_BY_THE_SITE_MS))
-  const played = await playedHere(course).catch(() => ({}))
-  await recorded(ask, courseOf(lectures, { ...played, [lecture.id]: lecture.seconds }))
+  await recorded(ask, finishedThrough(lectures, await progressNow(ask), lecture.index))
 }
 
 async function begun(ask: (asked: Asked) => Promise<Answered>): Promise<undefined> {
@@ -238,16 +193,15 @@ async function begun(ask: (asked: Asked) => Promise<Answered>): Promise<undefine
   holdEvery()
   document.addEventListener("keydown", keyedBy(ask), true)
   const lectures = lecturesHere()
-  const course = courseHere(lectures)
-  if (lectures.length === 0 || course === null) {
+  if (lectures.length === 0) {
     if (answer.watching) {
       panelOf("Watching stopped: this page lists no lectures the extension can read.")
     }
     return
   }
   try {
-    if (answer.watching) await watched(ask, lectures, course)
-    else await recordedEach(ask, lectures, course)
+    if (answer.watching) await watched(ask, lectures, progressIn(answer))
+    else await recordedEach(ask, lectures)
   } catch (thrown) {
     panelOf(`Watching stopped: ${saidBy(thrown)}`)
   }
@@ -255,26 +209,25 @@ async function begun(ask: (asked: Asked) => Promise<Answered>): Promise<undefine
 
 async function recordedEach(
   ask: (asked: Asked) => Promise<Answered>,
-  lectures: readonly Lecture[],
-  course: string
+  lectures: readonly Lecture[]
 ): Promise<never> {
   for (;;) {
     await lectureEnded()
-    await new Promise((resolve) => setTimeout(resolve, SAVED_BY_THE_SITE_MS))
-    const played = await playedHere(course)
     const playing = lectures.find((one) => one.index === Number(playingHere()))
-    const now = courseOf(
-      lectures,
-      playing === undefined ? played : { ...played, [playing.id]: playing.seconds }
-    )
-    const answer = await ask({
-      kind: "progressed",
-      path: location.pathname,
-      lengthMinutes: now.lengthMinutes,
-      progressMinutes: now.progressMinutes,
-    })
-    if (answer.why === null) told(recordedSaid(now))
-    else panelOf(`This lecture was not recorded: ${answer.why}`)
+    try {
+      if (playing === undefined) throw new Error("the page does not say which lecture played")
+      const now = finishedThrough(lectures, await progressNow(ask), playing.index)
+      const answer = await ask({
+        kind: "progressed",
+        path: location.pathname,
+        lengthMinutes: now.lengthMinutes,
+        progressMinutes: now.progressMinutes,
+      })
+      if (answer.why !== null) throw new Error(answer.why)
+      told(recordedSaid(now))
+    } catch (thrown) {
+      panelOf(`This lecture was not recorded: ${saidBy(thrown)}`)
+    }
   }
 }
 

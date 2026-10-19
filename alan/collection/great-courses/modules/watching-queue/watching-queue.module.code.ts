@@ -81,10 +81,10 @@ function ordered(sorts: readonly Sort[]) {
   }
 }
 
-export function courseLinked(rows: readonly Row[], isIt: (link: string) => boolean): string | null {
+export function courseLinked(rows: readonly Row[], isIt: (link: string) => boolean): Row | null {
   for (const row of rows) {
     const link = linkOf(heldOf(row).value)
-    if (link !== null && isIt(link)) return row.id
+    if (link !== null && isIt(link)) return row
   }
   return null
 }
