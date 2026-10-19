@@ -10,7 +10,10 @@ import {
   getSlottedSkillLineIds,
   getWeaponTypeIdsForBar,
 } from "akasha/temper/player/character/skill/modules/passive-queries/passive-queries.module.code.ts"
-import { getWeaponSkillLineIdsForBar } from "akasha/temper/player/character/skill/modules/skill-line-queries/skill-line-queries.module.code.ts"
+import {
+  getClassForSkillLine,
+  getWeaponSkillLineIdsForBar,
+} from "akasha/temper/player/character/skill/modules/skill-line-queries/skill-line-queries.module.code.ts"
 import type { CurseState } from "akasha/temper/player/character/source/modules/curses/curses.module.code.ts"
 import type { TranslationContext } from "akasha/temper/player/character/stat/modules/pipeline-types/pipeline-types.module.code.ts"
 
@@ -94,7 +97,18 @@ export function isPassiveEligible(
     }
 
     case "class": {
-      return ctx.buildSkillLineIds.includes(skillLineId)
+      if (!ctx.buildSkillLineIds.includes(skillLineId)) return false
+      if (getClassForSkillLine(skillLineId) === ctx.classId) return true
+      if (pipelineCtx.bar === "primary-weapon-bar") {
+        return ctx.primaryBarSlottedSkillLineIds.includes(skillLineId)
+      }
+      if (pipelineCtx.bar === "backup-weapon-bar") {
+        return ctx.backupBarSlottedSkillLineIds.includes(skillLineId)
+      }
+      return (
+        ctx.primaryBarSlottedSkillLineIds.includes(skillLineId) ||
+        ctx.backupBarSlottedSkillLineIds.includes(skillLineId)
+      )
     }
 
     case "weapon": {
