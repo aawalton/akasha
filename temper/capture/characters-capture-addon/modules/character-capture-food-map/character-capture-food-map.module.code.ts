@@ -32,6 +32,7 @@ const FOOD_ABILITY_ID_TO_INDEX: Record<number, number> = {
   [127531]: 31,
   [89957]: 32,
   [100488]: 33,
+  [61257]: 34,
 }
 export function getFoodIndex(abilityId: number): number {
   return FOOD_ABILITY_ID_TO_INDEX[abilityId] ?? 0
