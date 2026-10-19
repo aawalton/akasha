@@ -24,10 +24,18 @@ export const esoProcessMemory = {
       statement: "A search that meets a page it cannot read goes on from the page after it.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Texts searched for together are looked for once by the start they share.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A search ends early where the one searching says it has found enough.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "Only a process outside the agent's shell can read the game's memory.",
     },
   ],
   createdAt: "2026-10-19T18:55:52.343Z",
-  updatedAt: "2026-10-19T23:30:14.990Z",
+  updatedAt: "2026-10-19T23:58:05.834Z",
 } as const satisfies Module

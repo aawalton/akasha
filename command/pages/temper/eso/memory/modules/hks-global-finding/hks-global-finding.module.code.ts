@@ -63,16 +63,26 @@ export function globalsFound(
   )
   const objects = strings.flat()
   const words = objects.map((object) => wordBytes(object))
-  const pointers = foundEach(read, regions, words, BigInt(WORD), MOST_POINTERS, scan)
-  return strings.map((held) => {
-    for (const object of held) {
-      for (const pointer of pointers[objects.indexOf(object)] ?? []) {
-        const global = { node: pointer - BigInt(WORD), name: object }
-        if (globalHeld(read, global) !== null) return global
+  const settled: (Global | null)[] = strings.map(() => null)
+  const checked = new Set<bigint>()
+  const settle = (pointers: readonly (readonly bigint[])[]): boolean => {
+    strings.forEach((held, index) => {
+      if (settled[index] !== null) return
+      for (const object of held) {
+        for (const pointer of pointers[objects.indexOf(object)] ?? []) {
+          if (checked.has(pointer)) continue
+          checked.add(pointer)
+          const global = { node: pointer - BigInt(WORD), name: object }
+          if (globalHeld(read, global) === null) continue
+          settled[index] = global
+          return
+        }
       }
-    }
-    return null
-  })
+    })
+    return settled.every((one, index) => one !== null || (strings[index]?.length ?? 0) === 0)
+  }
+  settle(foundEach(read, regions, words, BigInt(WORD), MOST_POINTERS, scan, settle))
+  return settled
 }
 
 export function globalFound(

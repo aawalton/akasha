@@ -105,29 +105,63 @@ function readAcross(read: Reader, at: bigint, length: number, scan: Scan): Buffe
   return held === 0 ? null : bytes
 }
 
+const LEAST_SHARED = 4
+
+function sharedStart(needles: readonly Buffer[]): Buffer {
+  const first = needles[0]
+  if (first === undefined) return Buffer.alloc(0)
+  let length = first.length
+  for (const needle of needles) {
+    let same = 0
+    while (same < length && same < needle.length && needle[same] === first[same]) same += 1
+    length = same
+  }
+  return first.subarray(0, length)
+}
+
+function chunkHits(
+  bytes: Buffer,
+  needles: readonly Buffer[],
+  shared: Buffer,
+  at: bigint,
+  step: bigint
+): readonly (readonly bigint[])[] {
+  if (shared.length < LEAST_SHARED) return needles.map((needle) => hitsIn(bytes, needle, at, step))
+  const hits: bigint[][] = needles.map(() => [])
+  for (const hit of hitsIn(bytes, shared, at, step)) {
+    const offset = Number(hit - at)
+    needles.forEach((needle, index) => {
+      if (bytes.subarray(offset, offset + needle.length).equals(needle)) hits[index]?.push(hit)
+    })
+  }
+  return hits
+}
+
 export function foundEach(
   read: Reader,
   regions: readonly Region[],
   needles: readonly Buffer[],
   step: bigint,
   most: number,
-  scan: Scan = scanAfresh()
+  scan: Scan = scanAfresh(),
+  enough: (hits: readonly (readonly bigint[])[]) => boolean = () => false
 ): readonly (readonly bigint[])[] {
   const hits: bigint[][] = needles.map(() => [])
   const longest = Math.max(0, ...needles.map((needle) => needle.length))
-  const full = (): boolean => hits.every((held) => held.length >= most)
+  const shared = sharedStart(needles)
+  const done = (): boolean => hits.every((held) => held.length >= most) || enough(hits)
   for (const region of regions) {
     if (!region.writable) continue
     for (let at = region.from; at < region.to; at += BigInt(CHUNK)) {
-      if (full()) return hits.map((held) => held.slice(0, most))
+      if (done()) return hits.map((held) => held.slice(0, most))
       const left = Number(region.to - at)
       const wanted = Math.min(CHUNK + longest - 1, left)
       const bytes = readAcross(read, at, wanted, scan)
       scan.chunks += 1
       if (bytes === null) continue
-      needles.forEach((needle, index) => {
+      chunkHits(bytes, needles, shared, at, step).forEach((inChunk, index) => {
         const held = hits[index]
-        if (held !== undefined && held.length < most) held.push(...hitsIn(bytes, needle, at, step))
+        if (held !== undefined && held.length < most) held.push(...inChunk)
       })
     }
   }

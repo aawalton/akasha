@@ -26,10 +26,14 @@ export const hksGlobalFinding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The search for entries ends once every name with a string has its global.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A global held is read only while its entry's key is still that string and its value a table.",
     },
   ],
   createdAt: "2026-10-19T18:57:27.580Z",
-  updatedAt: "2026-10-19T23:50:34.464Z",
+  updatedAt: "2026-10-19T23:58:05.834Z",
 } as const satisfies Module
