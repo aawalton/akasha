@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"temper-stat-case.page-type.types.ts","path":"temper/player/character/stat/temper-stat-case/pages/erin-solstice-front-bar-2026-10-14-1908/erin-solstice-front-bar-2026-10-14-1908.temper-stat-case.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-stat-case.page-type.types.ts","path":"temper/player/character/stat/temper-stat-case/pages/erin-solstice-front-bar/erin-solstice-front-bar.temper-stat-case.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-stat-case.page-type.types.ts","path":"temper/player/character/stat/temper-stat-case/pages/nirayicel-front-bar/nirayicel-front-bar.temper-stat-case.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-stat-case.page-type.types.ts","path":"temper/player/character/stat/temper-stat-case/pages/rafaema-coloseuvia-front-bar/rafaema-coloseuvia-front-bar.temper-stat-case.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-stat-case.page-type.types.ts","path":"temper/player/character/stat/temper-stat-case/pages/seraphel-du-marquin-front-bar/seraphel-du-marquin-front-bar.temper-stat-case.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/stat/temper-character-stat.domain.ts","id":"01a0612f-aae6-7c1d-a590-b3004241a082"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/stat-case/stat-case.module.ts","id":"01a13b6c-6cf8-7106-b132-ed425b58823b"}
