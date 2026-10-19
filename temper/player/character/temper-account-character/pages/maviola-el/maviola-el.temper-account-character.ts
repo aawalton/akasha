@@ -11,6 +11,7 @@ export const maviolaEl = {
   accountPage: "temper-account/alanarre",
   firstName: "Maviola",
   fights: "jsonl",
+  readings: "jsonl",
   createdAt: "2026-04-29T16:44:19.452Z",
-  updatedAt: "2026-10-19T17:51:38.481Z",
+  updatedAt: "2026-10-19T19:18:54.445Z",
 } as const satisfies TemperAccountCharacter
