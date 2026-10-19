@@ -8,10 +8,10 @@ export const itemSet = {
   icon: "file-text",
   apiVersion: "eso.live.12.1.6.3309674",
   manifestApiVersion: 101051,
-  capturedAt: "2026-10-19T17:25:52.026Z",
+  capturedAt: "2026-10-19T17:28:00.698Z",
   generatorRanForVersion: "eso.live.11.3.6.3240040",
   generatorRanForManifestApiVersion: 101049,
   dormant: true,
-  updatedAt: "2026-10-19T17:25:56.284Z",
+  updatedAt: "2026-10-19T17:28:05.016Z",
   createdAt: "2026-09-02T01:39:30.992Z",
 } as const satisfies TemperCatalogDomain
