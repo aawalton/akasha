@@ -55,6 +55,7 @@ export const temperCharacterStat = {
     "module/skill-ultimate",
     "module/toughness-per-second",
     "module/skill-equation",
+    "module/weapon-attacks",
   ],
   directives: [
     {
@@ -95,5 +96,5 @@ export const temperCharacterStat = {
     },
   ],
   createdAt: "2026-09-02T08:15:09.030Z",
-  updatedAt: "2026-10-15T15:45:56.553Z",
+  updatedAt: "2026-10-19T18:46:10.220Z",
 } as const satisfies Domain

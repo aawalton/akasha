@@ -10,6 +10,8 @@
 {"propertySlug":"import","fileName":"loadout-types.module.code.ts","path":"temper/player/character/characters-equipment/modules/weapon-slot-access/weapon-slot-access.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"loadout-types.module.code.ts","path":"temper/player/character/characters-equipment/modules/weapon-slot-mutations/weapon-slot-mutations.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"loadout-types.module.code.ts","path":"temper/player/character/stat/modules/extract-sets/extract-sets.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"loadout-types.module.code.ts","path":"temper/player/character/stat/modules/weapon-attacks/weapon-attacks.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"loadout-types.module.code.ts","path":"temper/player/character/stat/modules/weapon-attacks/weapon-attacks.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"loadout-types.module.code.ts","path":"temper/web/modules/global-set-bulk-edit-tags/global-set-bulk-edit-tags.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"loadout-types.module.code.ts","path":"temper/web/modules/weapon-bar-panel-card/weapon-bar-panel-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"loadout-types.module.code.ts","path":"temper/web/modules/weapon-card/weapon-card.module.code.tsx","typed":true,"deferred":false}
