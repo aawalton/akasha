@@ -4,7 +4,7 @@ export const fiveHourReset = {
   id: "01a0916a-a294-7b0a-83ad-fbfc47ae5bb7",
   type: "page-type/computed-property-module",
   slug: "five-hour-reset",
-  definition: "when a five-hour window resets",
+  definition: "how code finds when a five-hour window resets",
   code: "ts",
   test: "ts",
   decisions: [
@@ -26,5 +26,5 @@ export const fiveHourReset = {
     },
   ],
   createdAt: "2026-09-11T17:01:19.892Z",
-  updatedAt: "2026-10-19T18:35:19.332Z",
+  updatedAt: "2026-10-19T18:36:26.227Z",
 } as const satisfies ComputedPropertyModule
