@@ -7289,6 +7289,7 @@
     5314,
     5315,
     5318,
+    5326,
     5329,
     5352,
     5368,
@@ -10856,10 +10857,14 @@
         1,
         2,
         3,
-        4
+        4,
+        6,
+        7
       ],
       "2": [
         5,
+        6,
+        8,
         12,
         15
       ],
@@ -14052,7 +14057,7 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792367737,
+      "capturedAt": 1792368546,
       "inCombat": false,
       "stats": {
         "stamina-recovery": 887,
@@ -14736,7 +14741,7 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:133787:364:50:26844:370:50:7:25:0:0:0:0:0:0:2049:4:0:1:0:275:0|h|h",
+          "link": "|H0:item:133787:364:50:26844:370:50:7:25:0:0:0:0:0:0:2049:4:0:1:0:251:0|h|h",
           "armor": 0,
           "enchant": "Deals |cffffff2534|r Shock Damage.",
           "trait": "Increases Physical and Spell Penetration by |cffffff3276|r.",
