@@ -105,11 +105,16 @@ export const uiWindows = {
       statement: "The next-boss timetable is brought up with no companion out.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Advanced Stats is opened by its button's fragment group once the stats scene shows.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement:
         "A window shown only in a zone or a guild is reached through what the player's game answered.",
     },
   ],
   createdAt: "2026-09-22T18:34:22.283Z",
-  updatedAt: "2026-10-18T20:25:36.170Z",
+  updatedAt: "2026-10-19T19:04:20.171Z",
 } as const satisfies Module

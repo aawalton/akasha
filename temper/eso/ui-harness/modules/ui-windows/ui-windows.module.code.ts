@@ -275,6 +275,17 @@ const OWN_WINDOWS: readonly UiWindow[] = [
     'SCENE_MANAGER:Show("companionCharacterKeyboard")'
   ),
   ownWindow(
+    "advanced-stats",
+    "TemperCharacters",
+    "ZO_AdvancedStatsPanel",
+    `
+      SCENE_MANAGER:CallWhen("stats", SCENE_SHOWN, function()
+        STATS_SCENE:AddFragmentGroup(ADVANCED_STATS_FRAGMENT_GROUP)
+      end)
+      SCENE_MANAGER:Show("stats")
+    `
+  ),
+  ownWindow(
     "location-tooltip",
     "TemperItems",
     "ItemTooltip",
