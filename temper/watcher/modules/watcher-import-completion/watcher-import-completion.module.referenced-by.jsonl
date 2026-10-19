@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"watcher-import-completion.module.code.ts","path":"temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-import-completion.module.code.ts","path":"temper/watcher/modules/watcher-dispatch-runners/watcher-dispatch-runners.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-import-completion.module.code.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-import-completion.module.code.ts","path":"temper/watcher/modules/watcher-import-fights/watcher-import-fights.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-import-completion.module.code.ts","path":"temper/watcher/modules/watcher-import-fights/watcher-import-fights.module.test.ts","typed":true,"deferred":false}

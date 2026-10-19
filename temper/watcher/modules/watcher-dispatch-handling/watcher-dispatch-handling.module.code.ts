@@ -66,6 +66,11 @@ const SIDE_FILE_KEYS = {
     answerHash: "catalogConfigSideFileHash",
     remembered: "lastCatalogConfigWriteBackHash",
   },
+  catalogLanded: {
+    configPath: "catalogLandedPath",
+    answerHash: "catalogLandedSideFileHash",
+    remembered: "lastCatalogLandedWriteBackHash",
+  },
   charactersConfig: {
     configPath: "charactersConfigPath",
     answerHash: "charactersConfigSideFileHash",

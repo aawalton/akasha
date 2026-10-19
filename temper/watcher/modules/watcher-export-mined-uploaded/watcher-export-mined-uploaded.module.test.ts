@@ -4,36 +4,13 @@ import {
   serializeSideFile,
 } from "akasha/temper/catalog/side-file/modules/catalog-side-file/catalog-side-file.module.code.ts"
 import { runExportMinedUploaded } from "akasha/temper/watcher/modules/watcher-export-mined-uploaded/watcher-export-mined-uploaded.module.code.ts"
-import type { SideFileDisk } from "akasha/temper/watcher/modules/watcher-side-file/watcher-side-file.module.code.ts"
+import { held } from "akasha/temper/watcher/modules/watcher-export-mined-uploaded/watcher-export-mined-uploaded.module.test-fixtures.ts"
 
 const PATH = "/addons/TemperCatalog/TemperCatalogConfig.lua"
 
 const NOW = "eso.live.12.1.6.3309674"
 
 const BEFORE = "eso.live.12.1.5.3303624"
-
-interface Held {
-  readonly disk: SideFileDisk
-  readonly writes: string[]
-  readonly content: () => string | undefined
-}
-
-function held(initial: string | undefined): Held {
-  let content = initial
-  const writes: string[] = []
-  const disk: SideFileDisk = {
-    read: () => {
-      if (content === undefined) throw new Error("ENOENT")
-      return content
-    },
-    write: (_path, next) => {
-      content = next
-      writes.push(next)
-      return undefined
-    },
-  }
-  return { disk, writes, content: () => content }
-}
 
 const INVALIDATING = serializeSideFile({
   version: 1,

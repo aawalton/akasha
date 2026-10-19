@@ -9,7 +9,7 @@ import type {
 } from "akasha/temper/watcher/modules/watcher-run-outcome/watcher-run-outcome.module.code.ts"
 
 export const TARGET_OPERATIONS = {
-  catalog: { imports: ["catalog"] },
+  catalog: { imports: ["catalog"], sideFile: "catalogLanded" },
   characters: { imports: ["characters", "completion", "tasks"], sideFile: "charactersConfig" },
   combat: { imports: ["fights"] },
   companions: { imports: ["companions"], sideFile: "companionsConfig" },

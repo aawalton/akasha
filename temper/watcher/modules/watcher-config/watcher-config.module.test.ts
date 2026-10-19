@@ -33,6 +33,7 @@ test("a saved-variables file sits in the saved-variables directory", () => {
 test("a config file written back sits in its own addon's directory", () => {
   expect(CONFIG.inventoryConfigPath).toBe("/game/AddOns/TemperItems/TemperItemsConfig.lua")
   expect(CONFIG.catalogConfigPath).toBe("/game/AddOns/TemperCatalog/TemperCatalogConfig.lua")
+  expect(CONFIG.catalogLandedPath).toBe(CONFIG.catalogConfigPath)
   expect(CONFIG.charactersConfigPath).toBe(
     "/game/AddOns/TemperCharacters/TemperCharactersConfig.lua"
   )

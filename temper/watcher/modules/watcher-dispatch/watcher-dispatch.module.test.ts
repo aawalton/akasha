@@ -63,6 +63,7 @@ const WROTE_NOTHING_BACK = {
   companionsConfigSideFileHash: null,
   charactersConfigSideFileHash: null,
   catalogConfigSideFileHash: null,
+  catalogLandedSideFileHash: null,
 }
 
 test("catalog reaches the catalog import alone and writes nothing back", async () => {
@@ -227,6 +228,24 @@ test("an absent catalog addon leaves the mining import synced and the config ski
   expect(stateOf(result.operations, "dataMining")).toBe("synced")
   expect(stateOf(result.operations, "catalogConfig")).toBe("skipped")
   expect(result.catalogConfigSideFileHash).toBeNull()
+})
+
+const SETS_LANDED = {
+  itemSetCatalog: { apiVersion: "eso.live.12.1.6.3309674", invalidateVersion: 4 },
+}
+
+test("a catalog import answering catalogs landed writes them into the catalog config", async () => {
+  const at = harness({ catalogsLanded: SETS_LANDED, landedHash: "landed-hash" })
+  const result = await dispatch(
+    "catalog",
+    CONTENT,
+    FAKE_TOKEN,
+    FAKE_URL,
+    optionsFor(at, { catalogLandedPath: PRESENT_ADDON_CONFIG })
+  )
+  expect(at.calls).toEqual(["importCatalog", "exportLandedCatalogs"])
+  expect(stateOf(result.operations, "catalogLanded")).toBe("synced")
+  expect(result.catalogLandedSideFileHash).toBe("landed-hash")
 })
 
 test("an absent addon directory leaves the imports synced and the side file skipped", async () => {

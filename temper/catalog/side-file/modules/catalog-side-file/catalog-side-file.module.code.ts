@@ -23,11 +23,19 @@ const MinedItemsUploadedSchema = z.object({
 
 export type MinedItemsUploaded = z.infer<typeof MinedItemsUploadedSchema>
 
+const LandedCatalogSchema = z.object({
+  apiVersion: z.string(),
+  invalidateVersion: z.number().int().nonnegative(),
+})
+
+export type LandedCatalog = z.infer<typeof LandedCatalogSchema>
+
 const SideFileSchema = z.object({
   version: z.number().int().nonnegative(),
   invalidateVersion: z.number().int().nonnegative(),
   invalidateDomains: z.preprocess(coerceInvalidateDomains, z.array(z.string()).default([])),
   minedItemsUploaded: MinedItemsUploadedSchema.optional(),
+  landedCatalogs: z.record(z.string(), LandedCatalogSchema).optional(),
 })
 
 export type SideFile = z.infer<typeof SideFileSchema>
@@ -66,9 +74,25 @@ export function serializeSideFile(sf: SideFile): string {
     lines.push(`${BLOCK_INDENT}${BLOCK_INDENT}["throughItemId"] = ${uploaded.throughItemId},`)
     lines.push(`${BLOCK_INDENT}},`)
   }
+  const landed = sf.landedCatalogs ?? {}
+  const keys = Object.keys(landed).sort()
+  if (keys.length > 0) {
+    const sorted = Object.fromEntries(keys.map((key) => [key, landed[key]]))
+    lines.push(...serializeLuaBlock("landedCatalogs", sorted, BLOCK_INDENT))
+  }
   lines.push("}")
   lines.push("")
   return lines.join("\n")
+}
+
+function keptFrom(prev: SideFile | undefined): SideFile {
+  return {
+    version: SIDE_FILE_VERSION,
+    invalidateVersion: prev?.invalidateVersion ?? 0,
+    invalidateDomains: prev?.invalidateDomains ?? [],
+    minedItemsUploaded: prev?.minedItemsUploaded,
+    landedCatalogs: prev?.landedCatalogs,
+  }
 }
 
 export function computeNextSideFile(
@@ -79,10 +103,9 @@ export function computeNextSideFile(
   const priorVersion = prev?.invalidateVersion ?? 0
   const deduped = Array.from(new Set(request)).sort()
   return {
-    version: SIDE_FILE_VERSION,
+    ...keptFrom(prev),
     invalidateVersion: Math.max(priorVersion + 1, now),
     invalidateDomains: deduped,
-    minedItemsUploaded: prev?.minedItemsUploaded,
   }
 }
 
@@ -90,10 +113,12 @@ export function withMinedItemsUploaded(
   prev: SideFile | undefined,
   uploaded: MinedItemsUploaded
 ): SideFile {
-  return {
-    version: SIDE_FILE_VERSION,
-    invalidateVersion: prev?.invalidateVersion ?? 0,
-    invalidateDomains: prev?.invalidateDomains ?? [],
-    minedItemsUploaded: uploaded,
-  }
+  return { ...keptFrom(prev), minedItemsUploaded: uploaded }
+}
+
+export function withLandedCatalogs(
+  prev: SideFile | undefined,
+  landed: Readonly<Record<string, LandedCatalog>>
+): SideFile {
+  return { ...keptFrom(prev), landedCatalogs: { ...prev?.landedCatalogs, ...landed } }
 }

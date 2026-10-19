@@ -16,6 +16,7 @@ export interface WatcherConfig {
   inventoryPath: string
   inventoryConfigPath: string
   catalogConfigPath: string
+  catalogLandedPath: string
   charactersConfigPath: string
   companionsConfigPath: string
   temperErrorsPath: string
@@ -57,6 +58,7 @@ export function buildConfig(dirs: ConfigDirs = {}): WatcherConfig {
     inventoryPath: join(savedVarsDir, "TemperItems.lua"),
     inventoryConfigPath: addonConfig(addonsDir, "TemperItems"),
     catalogConfigPath: addonConfig(addonsDir, "TemperCatalog"),
+    catalogLandedPath: addonConfig(addonsDir, "TemperCatalog"),
     charactersConfigPath: addonConfig(addonsDir, "TemperCharacters"),
     companionsConfigPath: join(
       addonsDir,

@@ -16,6 +16,7 @@ test("a hash never recorded is null rather than an empty string", () => {
   expect(state.lastWriteBackContentHash).toBeNull()
   expect(state.lastInventoryConfigWriteBackHash).toBeNull()
   expect(state.lastCatalogConfigWriteBackHash).toBeNull()
+  expect(state.lastCatalogLandedWriteBackHash).toBeNull()
   expect(state.lastCharactersConfigWriteBackHash).toBeNull()
   expect(state.lastCompanionsConfigWriteBackHash).toBeNull()
 })

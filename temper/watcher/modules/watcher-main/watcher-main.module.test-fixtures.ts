@@ -101,6 +101,7 @@ const NO_ANSWER = {
   charactersConfigSideFileHash: null,
   companionsConfigSideFileHash: null,
   catalogConfigSideFileHash: null,
+  catalogLandedSideFileHash: null,
 } as const
 
 export function dispatched(over: Partial<DispatchAnswer> = {}): Dispatching {

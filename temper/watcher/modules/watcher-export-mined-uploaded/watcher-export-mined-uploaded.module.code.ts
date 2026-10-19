@@ -12,12 +12,12 @@ import {
   writeSideFileIfChanged,
 } from "akasha/temper/watcher/modules/watcher-side-file/watcher-side-file.module.code.ts"
 
-const ADDON_FOLDER: SideFileDisk = {
+export const ADDON_FOLDER: SideFileDisk = {
   read: (path) => readFileSync(path, "utf-8"),
   write: writeFileAtomicWithRetry,
 }
 
-function priorConfig(path: string, disk: SideFileDisk): SideFile | undefined {
+export function priorCatalogConfig(path: string, disk: SideFileDisk): SideFile | undefined {
   let content: string
   try {
     content = disk.read(path)
@@ -44,7 +44,7 @@ export async function runExportMinedUploaded(
   disk: SideFileDisk = ADDON_FOLDER
 ): Promise<string | null> {
   if (catalogConfigPath === undefined) return null
-  const prior = priorConfig(catalogConfigPath, disk)
+  const prior = priorCatalogConfig(catalogConfigPath, disk)
   const next = withMinedItemsUploaded(prior, furthest(prior, uploaded))
   return writeSideFileIfChanged(catalogConfigPath, serializeSideFile(next), disk)
 }

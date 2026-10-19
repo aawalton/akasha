@@ -1,9 +1,11 @@
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import { inLowerKebabCaseAcronymsWhole } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
 import {
   CATALOG_DOMAIN_KEYS,
   type DomainKey,
 } from "akasha/temper/catalog/core/modules/domain-keys/domain-keys.module.code.ts"
+import type { LandedCatalog } from "akasha/temper/catalog/side-file/modules/catalog-side-file/catalog-side-file.module.code.ts"
 import {
   type AccountSummary,
   readAccountSummaries,
@@ -34,6 +36,10 @@ export function presentCatalogDomainKeys(present: readonly string[]): readonly D
   return CATALOG_DOMAIN_KEYS.filter((key) => held.has(key))
 }
 
+export function isLandedStub(value: unknown): boolean {
+  return isRecord(value) && value.landed === true && Object.keys(value).length === 1
+}
+
 const CAPTURE_ENDING = "json"
 
 type CatalogDomainPatch = (args: {
@@ -55,6 +61,7 @@ interface ImportCatalogDeps {
 interface ImportCatalogOutcome {
   readonly changedSlugs: readonly string[]
   readonly absentSlugs: readonly string[]
+  readonly landed: Readonly<Record<string, LandedCatalog>>
   readonly skipped: string | undefined
 }
 
@@ -62,19 +69,24 @@ interface CatalogCapture {
   readonly account: string
   readonly apiVersion: string
   readonly manifestApiVersion: number
+  readonly completed: boolean
+  readonly invalidateVersion: number
   readonly domainKeys: readonly DomainKey[]
   readonly domainValues: Readonly<Record<string, unknown>>
 }
 
 function versionedCapture(summary: AccountSummary): CatalogCapture | undefined {
-  const { account, apiVersion, manifestApiVersion } = summary
+  const { account, apiVersion, manifestApiVersion, domainValues } = summary
   if (apiVersion === undefined || manifestApiVersion === undefined) return undefined
+  const present = presentCatalogDomainKeys(summary.presentDomainKeys)
   return {
     account,
     apiVersion,
     manifestApiVersion,
-    domainKeys: presentCatalogDomainKeys(summary.presentDomainKeys),
-    domainValues: summary.domainValues,
+    completed: summary.completed,
+    invalidateVersion: summary.lastSeenInvalidateVersion,
+    domainKeys: present.filter((key) => !isLandedStub(domainValues[key])),
+    domainValues,
   }
 }
 
@@ -124,13 +136,13 @@ export async function runImportCatalog(
   const captures = summaries.flatMap((summary) => versionedCapture(summary) ?? [])
   if (captures.length === 0) {
     report(NO_CAPTURE_VERSION)
-    return { changedSlugs: [], absentSlugs: [], skipped: NO_CAPTURE_VERSION }
+    return { changedSlugs: [], absentSlugs: [], landed: {}, skipped: NO_CAPTURE_VERSION }
   }
 
   const stamps = newestCaptureByDomain(captures)
   if (stamps.length === 0) {
     report(NO_DOMAIN_PRESENT)
-    return { changedSlugs: [], absentSlugs: [], skipped: NO_DOMAIN_PRESENT }
+    return { changedSlugs: [], absentSlugs: [], landed: {}, skipped: NO_DOMAIN_PRESENT }
   }
 
   const capturedAt = now()
@@ -142,6 +154,7 @@ export async function runImportCatalog(
 
   const changedSlugs: string[] = []
   const absentSlugs: string[] = []
+  const landed: Record<string, LandedCatalog> = {}
   for (const { key, capture } of stamps) {
     const slug = catalogDomainSlug(key)
     const { apiVersion, manifestApiVersion } = capture
@@ -158,10 +171,13 @@ export async function runImportCatalog(
     }
     changedSlugs.push(slug)
     report(`${slug}: changed to apiVersion=${apiVersion} from ${capture.account}`)
+    if (capture.completed) {
+      landed[key] = { apiVersion, invalidateVersion: capture.invalidateVersion }
+    }
   }
 
   const nameStyles = deps.nameStyles ?? ((held: string) => landStyleNames(held, { report }))
   await nameStyles(content)
 
-  return { changedSlugs, absentSlugs, skipped: undefined }
+  return { changedSlugs, absentSlugs, landed, skipped: undefined }
 }

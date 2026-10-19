@@ -1,7 +1,5 @@
-import type {
-  DispatchRunners,
-  RunReport,
-} from "akasha/temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.code.ts"
+import type { RunReport } from "akasha/temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.code.ts"
+import type { DispatchRunners } from "akasha/temper/watcher/modules/watcher-dispatch-runners/watcher-dispatch-runners.module.code.ts"
 import type { SyncOperation } from "akasha/temper/watcher/modules/watcher-run-outcome/watcher-run-outcome.module.code.ts"
 
 interface Tweaks {
@@ -13,6 +11,8 @@ interface Tweaks {
   dataMiningModified: boolean
   minedItemsUploaded: { readonly apiVersion: string; readonly throughItemId: number } | null
   minedUploadedHash: string | null
+  catalogsLanded: Readonly<Record<string, { apiVersion: string; invalidateVersion: number }>>
+  landedHash: string | null
   reportError: Error | null
 }
 
@@ -25,6 +25,8 @@ const CALM: Tweaks = {
   dataMiningModified: false,
   minedItemsUploaded: null,
   minedUploadedHash: null,
+  catalogsLanded: {},
+  landedHash: null,
   reportError: null,
 }
 
@@ -44,7 +46,7 @@ export function harness(tweaks: Partial<Tweaks> = {}): Harness {
   const runners: DispatchRunners = {
     importCatalog: async () => {
       calls.push("importCatalog")
-      return { changedSlugs: [], absentSlugs: [], skipped: undefined }
+      return { changedSlugs: [], absentSlugs: [], landed: t.catalogsLanded, skipped: undefined }
     },
     importCharacters: async () => {
       calls.push("importCharacters")
@@ -98,6 +100,10 @@ export function harness(tweaks: Partial<Tweaks> = {}): Harness {
     exportCompanionBuilds: async (content) => {
       calls.push("exportCompanionBuilds")
       return { content, modified: false, companionsConfigSideFileHash: null }
+    },
+    exportLandedCatalogs: async (path) => {
+      calls.push("exportLandedCatalogs")
+      return path === undefined ? null : t.landedHash
     },
     exportMinedUploaded: async (path) => {
       calls.push("exportMinedUploaded")

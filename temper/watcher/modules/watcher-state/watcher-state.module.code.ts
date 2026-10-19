@@ -9,6 +9,7 @@ export interface FileState {
   lastWriteBackContentHash: string | null
   lastInventoryConfigWriteBackHash: string | null
   lastCatalogConfigWriteBackHash: string | null
+  lastCatalogLandedWriteBackHash: string | null
   lastCharactersConfigWriteBackHash: string | null
   lastCompanionsConfigWriteBackHash: string | null
 }
@@ -22,6 +23,7 @@ export function initialFileState(): FileState {
     lastWriteBackContentHash: null,
     lastInventoryConfigWriteBackHash: null,
     lastCatalogConfigWriteBackHash: null,
+    lastCatalogLandedWriteBackHash: null,
     lastCharactersConfigWriteBackHash: null,
     lastCompanionsConfigWriteBackHash: null,
   }

@@ -7,6 +7,7 @@ export const watcherExportMinedUploaded = {
   definition: "the mined items already in akasha, named in the catalog addon's config",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -38,5 +39,5 @@ export const watcherExportMinedUploaded = {
     },
   ],
   createdAt: "2026-10-19T17:20:29.523Z",
-  updatedAt: "2026-10-19T17:20:29.523Z",
+  updatedAt: "2026-10-19T17:50:52.469Z",
 } as const satisfies Module

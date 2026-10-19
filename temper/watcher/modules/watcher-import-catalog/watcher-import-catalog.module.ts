@@ -72,6 +72,19 @@ export const watcherImportCatalog = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A table holding only the landed mark is one the addon dropped, and lands nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run answers each catalog it landed from a completed capture.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each catalog answered names the game version and invalidation its capture had.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A caller may hand in the clock.",
     },
     {
@@ -96,5 +109,5 @@ export const watcherImportCatalog = {
     },
   ],
   createdAt: "2026-09-02T19:03:27.439Z",
-  updatedAt: "2026-10-19T17:29:58.466Z",
+  updatedAt: "2026-10-19T17:50:52.469Z",
 } as const satisfies Module

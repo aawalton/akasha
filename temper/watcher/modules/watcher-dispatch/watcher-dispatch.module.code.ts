@@ -1,29 +1,14 @@
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
-import { loadCompanionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"
-import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
 import {
   buildConfig,
   sourcePathFor,
 } from "akasha/temper/watcher/modules/watcher-config/watcher-config.module.code.ts"
-import { runExportCompanionBuilds } from "akasha/temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts"
-import { runExportMinedUploaded } from "akasha/temper/watcher/modules/watcher-export-mined-uploaded/watcher-export-mined-uploaded.module.code.ts"
-import { runExportSettings } from "akasha/temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.code.ts"
-import { runExportTasks } from "akasha/temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.code.ts"
-import type { FileType } from "akasha/temper/watcher/modules/watcher-file-type/watcher-file-type.module.code.ts"
-import { runImportCatalog } from "akasha/temper/watcher/modules/watcher-import-catalog/watcher-import-catalog.module.code.ts"
-import { runImportCharacters } from "akasha/temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.code.ts"
-import { runImportCompanions } from "akasha/temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.code.ts"
-import { runImportCompletion } from "akasha/temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.code.ts"
-import { runImportDataMining } from "akasha/temper/watcher/modules/watcher-import-data-mining/watcher-import-data-mining.module.code.ts"
-import { runImportErrors } from "akasha/temper/watcher/modules/watcher-import-errors/watcher-import-errors.module.code.ts"
-import { runImportFights } from "akasha/temper/watcher/modules/watcher-import-fights/watcher-import-fights.module.code.ts"
-import { runImportInventory } from "akasha/temper/watcher/modules/watcher-import-inventory/watcher-import-inventory.module.code.ts"
 import {
-  runImportItemRuleVerdicts,
-  supabaseUserSource,
-} from "akasha/temper/watcher/modules/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts"
-import { runImportSales } from "akasha/temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.code.ts"
-import { runImportTasks } from "akasha/temper/watcher/modules/watcher-import-tasks/watcher-import-tasks.module.code.ts"
+  type DispatchRunners,
+  WATCHER_RUNNERS,
+} from "akasha/temper/watcher/modules/watcher-dispatch-runners/watcher-dispatch-runners.module.code.ts"
+import type { FileType } from "akasha/temper/watcher/modules/watcher-file-type/watcher-file-type.module.code.ts"
+import { supabaseUserSource } from "akasha/temper/watcher/modules/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts"
 import {
   type OperationTarget,
   observe,
@@ -59,56 +44,7 @@ const CHARACTERS_CONFIG = TARGET_OPERATIONS.characters.sideFile
 const COMPANIONS_CONFIG = TARGET_OPERATIONS.companions.sideFile
 const INVENTORY_CONFIG = TARGET_OPERATIONS.inventory.sideFile
 const CATALOG_CONFIG = TARGET_OPERATIONS["data-mining"].sideFile
-
-export interface DispatchRunners {
-  readonly importCatalog: typeof runImportCatalog
-  readonly importCharacters: typeof runImportCharacters
-  readonly importCompanions: typeof runImportCompanions
-  readonly importCompletion: typeof runImportCompletion
-  readonly importDataMining: typeof runImportDataMining
-  readonly importErrors: typeof runImportErrors
-  readonly importFights: typeof runImportFights
-  readonly importInventory: typeof runImportInventory
-  readonly importItemRuleVerdicts: typeof runImportItemRuleVerdicts
-  readonly importSales: typeof runImportSales
-  readonly importTasks: typeof runImportTasks
-  readonly exportCompanionBuilds: typeof runExportCompanionBuilds
-  readonly exportMinedUploaded: typeof runExportMinedUploaded
-  readonly exportSettings: typeof runExportSettings
-  readonly exportTasks: typeof runExportTasks
-}
-
-async function importCompletionOnceRead(
-  ...args: Parameters<typeof runImportCompletion>
-): ReturnType<typeof runImportCompletion> {
-  await Promise.all([loadCompanionCatalog(), loadSkillCatalog()])
-  return runImportCompletion(...args)
-}
-
-async function exportSettingsOnceRead(
-  ...args: Parameters<typeof runExportSettings>
-): ReturnType<typeof runExportSettings> {
-  await loadCompanionCatalog()
-  return runExportSettings(...args)
-}
-
-const WATCHER_RUNNERS: DispatchRunners = {
-  importCatalog: runImportCatalog,
-  importCharacters: runImportCharacters,
-  importCompanions: runImportCompanions,
-  importCompletion: importCompletionOnceRead,
-  importDataMining: runImportDataMining,
-  importErrors: runImportErrors,
-  importFights: runImportFights,
-  importInventory: runImportInventory,
-  importItemRuleVerdicts: runImportItemRuleVerdicts,
-  importSales: runImportSales,
-  importTasks: runImportTasks,
-  exportCompanionBuilds: runExportCompanionBuilds,
-  exportMinedUploaded: runExportMinedUploaded,
-  exportSettings: exportSettingsOnceRead,
-  exportTasks: runExportTasks,
-}
+const CATALOG_LANDED = TARGET_OPERATIONS.catalog.sideFile
 
 export type RunReport = (operations: readonly SyncOperation[]) => Promise<void>
 
@@ -120,6 +56,7 @@ export interface DispatchOptions {
   readonly companionsConfigPath?: string
   readonly charactersConfigPath?: string
   readonly catalogConfigPath?: string
+  readonly catalogLandedPath?: string
   readonly sourcePath?: string
   readonly sourceMtimeMs?: number
 }
@@ -132,6 +69,7 @@ interface DispatchResult {
   readonly companionsConfigSideFileHash: string | null
   readonly charactersConfigSideFileHash: string | null
   readonly catalogConfigSideFileHash: string | null
+  readonly catalogLandedSideFileHash: string | null
   readonly error?: string
 }
 
@@ -141,6 +79,7 @@ const NOTHING_WRITTEN = {
   companionsConfigSideFileHash: null,
   charactersConfigSideFileHash: null,
   catalogConfigSideFileHash: null,
+  catalogLandedSideFileHash: null,
 } as const
 
 type Handled = Omit<DispatchResult, "ok" | "error">
@@ -166,10 +105,21 @@ function optional(operation: SyncOperation | null): readonly SyncOperation[] {
 }
 
 async function handleCatalog(job: Job): Promise<Handled> {
-  const { operation } = await observe(job.imported(CATALOG), () =>
+  const { operation, value } = await observe(job.imported(CATALOG), () =>
     job.runners.importCatalog(job.content)
   )
-  return noSideFile(null, [operation])
+  const landed = value?.landed ?? {}
+  if (Object.keys(landed).length === 0) return noSideFile(null, [operation])
+  const exported = await observeSideFileExport(
+    CATALOG_LANDED,
+    job.options.catalogLandedPath,
+    (catalogLandedPath) => job.runners.exportLandedCatalogs(catalogLandedPath, landed)
+  )
+  return {
+    ...NOTHING_WRITTEN,
+    operations: [operation, ...optional(exported.operation)],
+    catalogLandedSideFileHash: exported.value ?? null,
+  }
 }
 
 async function handleCharacters(job: Job): Promise<Handled> {

@@ -2,7 +2,10 @@
 {"propertySlug":"import","fileName":"catalog-side-file.module.code.ts","path":"command/pages/temper/catalog/mined-uploaded/temper-catalog-mined-uploaded.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"catalog-side-file.module.code.ts","path":"command/pages/temper/catalog/status/temper-catalog-status.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"catalog-side-file.module.code.ts","path":"temper/catalog/side-file/modules/catalog-side-file/catalog-side-file.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"catalog-side-file.module.code.ts","path":"temper/watcher/modules/watcher-export-landed-catalogs/watcher-export-landed-catalogs.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"catalog-side-file.module.code.ts","path":"temper/watcher/modules/watcher-export-landed-catalogs/watcher-export-landed-catalogs.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"catalog-side-file.module.code.ts","path":"temper/watcher/modules/watcher-export-mined-uploaded/watcher-export-mined-uploaded.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"catalog-side-file.module.code.ts","path":"temper/watcher/modules/watcher-export-mined-uploaded/watcher-export-mined-uploaded.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"catalog-side-file.module.code.ts","path":"temper/watcher/modules/watcher-import-catalog/watcher-import-catalog.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"catalog-side-file.module.code.ts","path":"temper/watcher/modules/watcher-import-data-mining/watcher-import-data-mining.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/side-file/temper-catalog-side-file.domain.ts","id":"01a060ce-b8ca-70c9-aff9-a8d013b9d7e5"}

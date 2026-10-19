@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   CATALOG_DOMAIN_PAGE_TYPE_SLUG,
   catalogDomainSlug,
+  isLandedStub,
   isNewerCapture,
   NO_ACCOUNT_WIDE_TABLE,
   NO_CAPTURE_VERSION,
@@ -311,6 +312,8 @@ test("of captures equally new, the first the saved variables name is taken", () 
     account: "@first",
     apiVersion: "same",
     manifestApiVersion: 1,
+    completed: true,
+    invalidateVersion: 0,
     domainKeys: ["skillCatalog"] as const,
     domainValues: {},
   }
@@ -330,6 +333,71 @@ test("a run hands the whole capture on to be written onto the style pages", asyn
     },
   })
   expect(handed).toEqual([FIVE_DOMAINS])
+})
+
+const DROPPED_SKILLS = `
+TemperCatalog_SavedVariables =
+{
+    ["Default"] =
+    {
+        ["@aawalton"] =
+        {
+            ["$AccountWide"] =
+            {
+                ["completed"] = true,
+                ["apiVersion"] = "one",
+                ["manifestApiVersion"] = 1,
+                ["achievementCatalog"] = { ["1"] = "Alpha" },
+                ["skillCatalog"] = { ["landed"] = true },
+            },
+        },
+    },
+}
+`
+
+test("a completed capture answers each catalog it landed, with its version and invalidation", async () => {
+  const { patch } = recorder((slug) => (slug === "poi" ? null : { id: slug }))
+  const outcome = await runImportCatalog(FIVE_DOMAINS, {
+    patch,
+    now: () => "2026-09-02T00:00:00.000Z",
+    report: () => {},
+  })
+  const mark = { apiVersion: "eso.live.12.0.8.3288357", invalidateVersion: 4 }
+  expect(outcome.landed).toEqual({
+    achievementCatalog: mark,
+    loreLibraryCatalog: mark,
+    zoneCompletionCatalog: mark,
+    skillCatalog: mark,
+  })
+})
+
+test("a capture not yet completed answers no catalog landed", async () => {
+  const { patch } = recorder((slug) => ({ id: slug }))
+  const outcome = await runImportCatalog(TWO_ACCOUNTS, {
+    patch,
+    now: () => "2026-09-02T00:00:00.000Z",
+    report: () => {},
+  })
+  expect(outcome.changedSlugs).toEqual(["recipe", "skill"])
+  expect(outcome.landed).toEqual({})
+})
+
+test("a catalog the addon already dropped for landing is left as it was landed", async () => {
+  const { calls, patch } = recorder((slug) => ({ id: slug }))
+  const outcome = await runImportCatalog(DROPPED_SKILLS, {
+    patch,
+    now: () => "2026-09-02T00:00:00.000Z",
+    report: () => {},
+  })
+  expect(calls.map((call) => call.slug)).toEqual(["achievement"])
+  expect(Object.keys(outcome.landed)).toEqual(["achievementCatalog"])
+})
+
+test("only a table holding the landed mark alone is read as dropped", () => {
+  expect(isLandedStub({ landed: true })).toBe(true)
+  expect(isLandedStub({ landed: true, "1": "Alpha" })).toBe(false)
+  expect(isLandedStub({ "1": "Alpha" })).toBe(false)
+  expect(isLandedStub(undefined)).toBe(false)
 })
 
 test("a domain whose page came back empty is reported apart from the ones that changed", async () => {

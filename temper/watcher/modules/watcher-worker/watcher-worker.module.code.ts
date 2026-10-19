@@ -87,6 +87,7 @@ export function dispatchingThrough(
       charactersConfigPath: ask.charactersConfigPath,
       companionsConfigPath: ask.companionsConfigPath,
       catalogConfigPath: ask.catalogConfigPath,
+      catalogLandedPath: ask.catalogLandedPath,
     })
 }
 

@@ -61,12 +61,13 @@ export const watcherDispatch = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The completion import runs once the companion and skill catalogues are read.",
+      statement: "A catalog import answering catalogs landed writes them into the catalog config.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The settings export runs once the companion catalogue is read.",
+      statement: "Which function each import and export runs is chosen in the runners module.",
     },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A run with no operation is reported nowhere.",
@@ -94,5 +95,5 @@ export const watcherDispatch = {
     },
   ],
   createdAt: "2026-09-02T20:20:26.300Z",
-  updatedAt: "2026-10-19T17:20:29.523Z",
+  updatedAt: "2026-10-19T17:50:52.469Z",
 } as const satisfies Module
