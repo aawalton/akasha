@@ -5,8 +5,7 @@ export const effectiveSevenDayUsage = {
   type: "page-type/computed-property",
   slug: "effective-seven-day-usage",
   propertySlug: "effective-seven-day-usage",
-  definition:
-    "how much of the seven-day allowance is spent, a withdrawn subscription counting as all of it",
+  definition: "the part of its seven-day window a model account can not spend",
   holds: "number",
   code: "ts",
   test: "ts",
@@ -31,5 +30,5 @@ export const effectiveSevenDayUsage = {
   ],
   types: "ts",
   createdAt: "2026-09-06T10:52:25.366Z",
-  updatedAt: "2026-09-22T14:30:46.000Z",
+  updatedAt: "2026-10-19T18:41:57.957Z",
 } as const satisfies ComputedProperty
