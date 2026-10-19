@@ -4,7 +4,7 @@ export const reviewer = {
   id: "01a0debc-6738-73fb-9f06-f8d1967f9d96",
   type: "page-type/role",
   slug: "reviewer",
-  definition: "an agent that checks one turn or written chapter and what was recorded of it",
+  definition: "an agent that judges a part of a story",
   onCall: true,
   directives: [
     {
@@ -20,5 +20,5 @@ export const reviewer = {
     },
   ],
   createdAt: "2026-09-26T17:21:24.280Z",
-  updatedAt: "2026-10-04T00:26:47.000Z",
+  updatedAt: "2026-10-19T19:43:44.932Z",
 } as const satisfies Role
