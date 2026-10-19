@@ -7,8 +7,8 @@ export const physicsAndOurUniverse = {
   title: "Physics and Our Universe",
   status: "in-progress",
   unit: "unit/minutes",
-  ownLength: 1830.6,
-  ownProgress: 91.53,
+  ownLength: 1830.58,
+  ownProgress: 120.67,
   partOfCollections: [
     "great-courses-collection/all-great-courses",
     "great-courses-subject/mathematics-great-courses",
@@ -22,5 +22,6 @@ export const physicsAndOurUniverse = {
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-10-18T21:07:43.678Z",
+  updatedAt: "2026-10-19T19:38:32.756Z",
+  progressedAt: "2026-10-19T19:38:32.756Z",
 } as const satisfies GreatCourse
