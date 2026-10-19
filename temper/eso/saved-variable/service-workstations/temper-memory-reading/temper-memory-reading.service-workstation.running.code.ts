@@ -9,6 +9,7 @@ import {
   type Global,
   globalFound,
   globalHeld,
+  searchAfresh,
 } from "akasha/command/pages/temper/eso/memory/modules/hks-global-finding/hks-global-finding.module.code.ts"
 import type { Reader } from "akasha/command/pages/temper/eso/memory/modules/hks-table-reading/hks-table-reading.module.code.ts"
 import {
@@ -49,6 +50,25 @@ function holding(regions: readonly Region[], at: bigint): Region | undefined {
   return regions.find((region) => at >= region.from && at < region.to)
 }
 
+function searched(
+  read: Reader,
+  regions: readonly Region[],
+  name: string,
+  pass: string
+): Global | null {
+  const started = Date.now()
+  const search = searchAfresh()
+  const found = globalFound(read, regions, name, search)
+  const { chunks, failed, partial } = search.scan
+  const capped = search.capped ? " (cap hit)" : ""
+  say(
+    `searched ${name} in ${pass}: ${found === null ? "missed" : "found"}, ` +
+      `${search.copies} copies${capped}, ${search.strings} strings, ` +
+      `${chunks} chunks, ${failed} failed, ${partial} partial, ${Date.now() - started} ms`
+  )
+  return found
+}
+
 function foundIn(
   read: Reader,
   regions: readonly Region[],
@@ -57,7 +77,8 @@ function foundIn(
 ): Global | null {
   const warm = regions.filter((region) => hot.has(region.from))
   const found =
-    (warm.length > 0 ? globalFound(read, warm, name) : null) ?? globalFound(read, regions, name)
+    (warm.length > 0 ? searched(read, warm, name, `${warm.length} warm regions`) : null) ??
+    searched(read, regions, name, `${regions.length} regions`)
   if (found === null) return null
   for (const at of [found.node, found.name]) {
     const region = holding(regions, at)

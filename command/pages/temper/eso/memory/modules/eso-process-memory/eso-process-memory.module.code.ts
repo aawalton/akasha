@@ -73,19 +73,30 @@ function hitsIn(bytes: Buffer, needle: Buffer, from: bigint, step: bigint): bigi
   return hits
 }
 
+export type Scan = { chunks: number; failed: number; partial: number }
+
+export function scanAfresh(): Scan {
+  return { chunks: 0, failed: 0, partial: 0 }
+}
+
 export function found(
   read: Reader,
   regions: readonly Region[],
   needle: Buffer,
   step: bigint,
-  most: number
+  most: number,
+  scan: Scan = scanAfresh()
 ): readonly bigint[] {
   const hits: bigint[] = []
   for (const region of regions) {
     if (!region.writable) continue
     for (let at = region.from; at < region.to; at += BigInt(CHUNK)) {
       const left = Number(region.to - at)
-      const bytes = read(at, Math.min(CHUNK + needle.length - 1, left))
+      const wanted = Math.min(CHUNK + needle.length - 1, left)
+      const bytes = read(at, wanted)
+      scan.chunks += 1
+      if (bytes === null) scan.failed += 1
+      else if (bytes.length < wanted) scan.partial += 1
       if (bytes === null) continue
       hits.push(...hitsIn(bytes, needle, at, step))
       if (hits.length >= most) return hits.slice(0, most)
