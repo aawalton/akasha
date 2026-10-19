@@ -2181,6 +2181,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/world/lorebook/modules/lore-book-tables/lore-book-tables.module.ts","id":"01a0d622-edc7-7aca-83da-5b98573edbc3"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/lorebook/modules/lore-book-writing/lore-book-writing.change-generator.ts","id":"01a0d622-edc7-7a42-bc14-d224c5e0b4ed"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/lost-treasure/temper-lost-treasure.domain.ts","id":"01a06141-8003-755d-8ec8-3764b298f7ef"}
+{"propertySlug":"decision-kind","path":"temper/catalog/world/temper-catalog-domain/properties/catalog-capture.file-property.ts","id":"01a15534-88cc-7d06-aa5f-8a7b97cb4550"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/eso-chatter-names/eso-chatter-names.module.ts","id":"01a069cf-7042-7000-8df6-e6b7ffd0efc8"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/flag-fault-stage/flag-fault-stage.module.ts","id":"01a07bca-476d-73d6-89a9-15c0d6172d43"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.ts","id":"01a068e2-2267-7365-a8e9-f53b7be80f20"}

@@ -12,6 +12,7 @@ export const temperCatalogDomain = {
     "number-property/manifest-api-version",
     "text-property/api-version",
     "text-property/generator-ran-for-version",
+    "file-property/catalog-capture",
   ],
   properties: [
     { pageProperty: "text-property/icon", required: true, many: false },
@@ -25,9 +26,15 @@ export const temperCatalogDomain = {
       many: false,
     },
     { pageProperty: "boolean-property/dormant", required: false, many: false },
+    {
+      pageProperty: "file-property/catalog-capture",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
   ],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T01:38:27.086Z",
-  updatedAt: "2026-09-22T10:11:52.000Z",
+  updatedAt: "2026-10-19T17:27:48.683Z",
 } as const satisfies PageType
