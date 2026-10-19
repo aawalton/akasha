@@ -23,6 +23,7 @@ import {
   ACTIVE_ONLY_KEY,
   COPY_SEAT_NAME_COMMAND,
   OPEN_PAGE_COMMAND,
+  OPEN_SEAT_PAGE_COMMAND,
   REFRESH_COMMAND,
   RUN_RESET_COMMAND,
   RUN_RESTART_COMMAND,
@@ -50,14 +51,13 @@ import { invokedSeat } from "akasha/code/editor/extension/modules/invoked-seat/i
 import { newestWins } from "akasha/code/editor/extension/modules/newest-wins/newest-wins.module.code.ts"
 import { recordObservation } from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
 import type { SeatAct } from "akasha/code/editor/extension/modules/seat-act-confirm/seat-act-confirm.module.code.ts"
+import { openSeat } from "akasha/code/editor/extension/modules/seat-acts/seat-acts.module.code.ts"
+import { openSeatPage } from "akasha/code/editor/extension/modules/seat-page-opening/seat-page-opening.module.code.ts"
 import {
   runPlan as runPlanWith,
   runStop,
 } from "akasha/code/editor/extension/modules/seat-plan-running/seat-plan-running.module.code.ts"
-import {
-  openSeat,
-  showSeat,
-} from "akasha/code/editor/extension/modules/seat-showing/seat-showing.module.code.ts"
+import { showSeat } from "akasha/code/editor/extension/modules/seat-showing/seat-showing.module.code.ts"
 import {
   type SeatTabState,
   seatTabContext,
@@ -267,7 +267,10 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
       stopSubagent(n, refresh)
     ),
     vscode.commands.registerCommand(COPY_SEAT_NAME_COMMAND, (n: unknown) => copySeatName(n)),
-    vscode.commands.registerCommand(OPEN_PAGE_COMMAND, (n: unknown) => openAgentPage(n))
+    vscode.commands.registerCommand(OPEN_PAGE_COMMAND, (n: unknown) => openAgentPage(n)),
+    vscode.commands.registerCommand(OPEN_SEAT_PAGE_COMMAND, (n: unknown) =>
+      openSeatPage(invokedSeat(n))
+    )
   )
   return undefined
 }

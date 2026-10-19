@@ -16,6 +16,8 @@ export const COPY_SEAT_NAME_COMMAND = "opsAgentTree.copySeatName"
 
 export const OPEN_PAGE_COMMAND = "opsAgentTree.openPage"
 
+export const OPEN_SEAT_PAGE_COMMAND = "opsAgentTree.openSeatPage"
+
 export const TOGGLE_ACTIVE_COMMAND = "opsAgentTree.toggleActive"
 
 export const ACTIVE_ONLY_KEY = "opsAgentTree.activeOnly"

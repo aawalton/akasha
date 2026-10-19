@@ -67,7 +67,7 @@
       { "command": "opsAgentTree.stopSubagent", "category": "Ops Agents", "title": "Stop" },
       { "command": "opsAgentTree.copySeatName", "category": "Ops Agents", "title": "Copy Seat Name" },
       { "command": "opsAgentTree.openPage", "category": "Ops Agents", "title": "Open Page" },
-      { "command": "opsAgentTree.revealTerminal", "category": "Ops Agents", "title": "Show Terminal Or Transcript" },
+      { "command": "opsAgentTree.openSeatPage", "category": "Ops Agents", "title": "Open Page In Browser" },
       { "command": "opsAgentTree.enterInSeatTerminal", "category": "Ops Agents", "title": "Submit In Seat Terminal" },
       { "command": "opsAgentTree.openLineInSeatTerminal", "category": "Ops Agents", "title": "Open Line In Seat Terminal" },
       { "command": "opsInitiativeTree.deleteIntent", "category": "Ops Initiatives", "title": "Delete" },
@@ -77,16 +77,8 @@
       { "command": "opsGapTree.deleteGap", "category": "Ops Gaps", "title": "Delete" }
     ],
     "keybindings": [
-      {
-        "key": "enter",
-        "command": "opsAgentTree.enterInSeatTerminal",
-        "when": "terminalFocus && opsAgentTree.seatTerminalFocused"
-      },
-      {
-        "key": "shift+enter",
-        "command": "opsAgentTree.openLineInSeatTerminal",
-        "when": "terminalFocus && opsAgentTree.seatTerminalFocused"
-      },
+      { "key": "enter", "command": "opsAgentTree.enterInSeatTerminal", "when": "terminalFocus && opsAgentTree.seatTerminalFocused" },
+      { "key": "shift+enter", "command": "opsAgentTree.openLineInSeatTerminal", "when": "terminalFocus && opsAgentTree.seatTerminalFocused" },
       { "key": "ctrl+alt+a", "command": "workbench.view.extension.opsAgents" },
       { "key": "ctrl+alt+d", "command": "workbench.view.extension.opsDomains" },
       { "key": "ctrl+alt+i", "command": "workbench.view.extension.opsInitiatives" },
@@ -119,6 +111,7 @@
         { "command": "opsAgentTree.runReset", "when": "view == opsAgentTree && viewItem =~ /^seat\\./", "group": "2_run@3" },
         { "command": "opsAgentTree.stopSubagent", "when": "view == opsAgentTree && viewItem == subagent.running", "group": "2_run@1" },
         { "command": "opsAgentTree.openPage", "when": "view == opsAgentTree", "group": "0_open@1" },
+        { "command": "opsAgentTree.openSeatPage", "when": "view == opsAgentTree && viewItem =~ /^seat\\./", "group": "0_open@2" },
         { "command": "opsInitiativeTree.deleteIntent", "when": "view == opsInitiativeTree && viewItem == intent", "group": "7_modification@1" },
         { "command": "opsInitiativeTree.deleteInitiative", "when": "view == opsInitiativeTree && viewItem == initiative", "group": "7_modification@1" },
         { "command": "opsInitiativeTree.assign", "when": "view == opsInitiativeTree && viewItem == initiative", "group": "2_run@1" },

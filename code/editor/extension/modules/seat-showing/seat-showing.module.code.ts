@@ -12,7 +12,6 @@ import {
   parseSeatClick,
   type SeatClick,
 } from "akasha/code/editor/extension/modules/invoked-seat/invoked-seat.module.code.ts"
-import { openSeatPage } from "akasha/code/editor/extension/modules/seat-page-opening/seat-page-opening.module.code.ts"
 import {
   groupForTerminal,
   openColumns,
@@ -66,7 +65,7 @@ export async function columnForSeat(
   })
 }
 
-async function bringTerminalForward(
+export async function bringTerminalForward(
   seat: SeatClick,
   seatByShellPid: ReadonlyMap<number, string>
 ): Promise<boolean> {
@@ -79,19 +78,6 @@ async function bringTerminalForward(
   return true
 }
 
-export async function openSeat(clicked: unknown): Promise<undefined> {
-  const seat = parseSeatClick(clicked)
-  if (seat === undefined) {
-    return undefined
-  }
-  if (await bringTerminalForward(seat, readSeatLookup() ?? new Map<number, string>())) {
-    return undefined
-  }
-  output.appendLine(`[click] ${seat.name}: no terminal here, page opened in the browser`)
-  await openSeatPage(seat)
-  return undefined
-}
-
 export async function showSeat(clicked: unknown): Promise<undefined> {
   const seat = parseSeatClick(clicked)
   if (seat === undefined) {
@@ -102,7 +88,13 @@ export async function showSeat(clicked: unknown): Promise<undefined> {
   if (await bringTerminalForward(seat, seatByShellPid)) {
     return undefined
   }
+  return openTranscript(seat, seatByShellPid)
+}
 
+export async function openTranscript(
+  seat: SeatClick,
+  seatByShellPid: ReadonlyMap<number, string>
+): Promise<undefined> {
   const column = await columnForSeat(seat, seatByShellPid)
   output.appendLine(
     `[click] ${seat.name}: no terminal here, transcript in column ${column.column} (${column.reason})`

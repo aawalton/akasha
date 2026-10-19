@@ -1,6 +1,6 @@
 import type { AgentTreeRow } from "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.code.ts"
 import { sectionContextValue } from "akasha/code/editor/extension/modules/agent-forest/agent-forest.module.code.ts"
-import type { SeatClick } from "akasha/code/editor/extension/modules/invoked-seat/invoked-seat.module.code.ts"
+import type { SeatOpening } from "akasha/code/editor/extension/modules/seat-acts/seat-acts.module.code.ts"
 import { seatContextValue } from "akasha/code/editor/extension/modules/seat-toggles/seat-toggles.module.code.ts"
 import { subagentContextValue } from "akasha/code/editor/extension/modules/subagent-stopping/subagent-stopping.module.code.ts"
 import {
@@ -94,10 +94,15 @@ function buildTreeItem(element: AgentTreeRow, filtering: boolean, atTop: boolean
         ? subagentContextValue(element.stopped)
         : sectionContextValue(element)
   if (element.kind === "seat") {
-    const clicked: SeatClick = { id: element.key, name: element.label }
+    const clicked: SeatOpening = {
+      id: element.key,
+      name: element.label,
+      live: element.live,
+      place: element.place ?? "headless",
+    }
     item.command = {
       command: OPEN_SEAT_COMMAND,
-      title: "Bring this seat's terminal forward, or open its page in the browser",
+      title: "Open this seat in a tab",
       arguments: [clicked],
     }
   } else if (element.at !== null) {

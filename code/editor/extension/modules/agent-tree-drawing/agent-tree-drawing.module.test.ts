@@ -123,12 +123,14 @@ test("a subagent's row is drawn in its color and says it is a subagent", async (
   })
 })
 
-test("a click on a seat opens that seat, handed the seat's id and name", async () => {
+test("a click on a seat opens that seat, handed the seat's id, name, liveness and mode", async () => {
   const node = seat({})
   const tree = createAgentTree()
   tree.replace([node])
   const item = await tree.provider.getTreeItem(node)
   tree.dispose()
   expect(item.command?.command).toBe(OPEN_SEAT_COMMAND)
-  expect(item.command?.arguments).toEqual([{ id: "s1", name: "nimue" }])
+  expect(item.command?.arguments).toEqual([
+    { id: "s1", name: "nimue", live: true, place: "interactive" },
+  ])
 })

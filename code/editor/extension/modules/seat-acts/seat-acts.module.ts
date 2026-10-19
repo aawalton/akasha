@@ -6,7 +6,25 @@ export const seatActs = {
   slug: "seat-acts",
   definition: "the seat command and terminals a planned step is carried out as, one seat at a time",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Choosing a seat with a terminal in this window brings that terminal forward.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Choosing a running interactive seat with no terminal here attaches a new terminal tab to it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Choosing any other seat with no terminal here opens its transcript in a tab.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only a running interactive seat has a session a terminal can attach to.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement:
@@ -63,5 +81,5 @@ export const seatActs = {
     },
   ],
   createdAt: "2026-09-03T17:58:07.081Z",
-  updatedAt: "2026-09-21T13:50:18.000Z",
+  updatedAt: "2026-10-19T17:01:16.727Z",
 } as const satisfies Module

@@ -78,7 +78,16 @@ export const agentTreeDrawing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A click on a seat with no terminal here opens that seat's page in the browser.",
+      statement:
+        "A click on a running interactive seat with no terminal here attaches a new terminal tab to it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A click on any other seat with no terminal here opens its transcript in a tab.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A click on a seat never opens the browser.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -117,6 +126,6 @@ export const agentTreeDrawing = {
       statement: "Nothing here reads the fleet.",
     },
   ],
-  updatedAt: "2026-10-19T16:57:18.025Z",
+  updatedAt: "2026-10-19T17:01:16.727Z",
   createdAt: "2026-09-03T17:58:07.081Z",
 } as const satisfies Module

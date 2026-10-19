@@ -4,7 +4,10 @@ import {
   callHarness,
   LANDING_TIMEOUT_MS,
 } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
-import type { ToggleTarget } from "akasha/code/editor/extension/modules/invoked-seat/invoked-seat.module.code.ts"
+import type {
+  SeatClick,
+  ToggleTarget,
+} from "akasha/code/editor/extension/modules/invoked-seat/invoked-seat.module.code.ts"
 import {
   interactiveCall,
   resetCall,
@@ -13,28 +16,65 @@ import {
   type SeatCall,
   stopCall,
 } from "akasha/code/editor/extension/modules/seat-calls/seat-calls.module.code.ts"
-import { columnForSeat } from "akasha/code/editor/extension/modules/seat-showing/seat-showing.module.code.ts"
+import {
+  SEAT_MODE_SCHEMA,
+  type SeatMode,
+} from "akasha/code/editor/extension/modules/seat-mode/seat-mode.module.code.ts"
+import {
+  bringTerminalForward,
+  columnForSeat,
+  openTranscript,
+} from "akasha/code/editor/extension/modules/seat-showing/seat-showing.module.code.ts"
 import { readSeatLookup } from "akasha/code/editor/extension/modules/seat-terminals/seat-terminals.module.code.ts"
 import {
   attachCommandLine,
   type SeatStep,
 } from "akasha/code/editor/extension/modules/seat-toggles/seat-toggles.module.code.ts"
 import * as vscode from "vscode"
+import { z } from "zod"
 
 const inFlight = new Set<string>()
+
+export interface SeatOpening extends SeatClick {
+  readonly live: boolean
+  readonly place: SeatMode
+}
+
+const SEAT_OPENING_SCHEMA = z.looseObject({
+  id: z.string().min(1),
+  name: z.string().min(1),
+  live: z.boolean(),
+  place: SEAT_MODE_SCHEMA,
+})
 
 async function runSeat(call: SeatCall): Promise<undefined> {
   await callHarness(call.slug, call.exported, call.args, { timeout: LANDING_TIMEOUT_MS })
   return undefined
 }
 
-async function attachTerminal(seat: ToggleTarget, line: string): Promise<undefined> {
+async function attachTerminal(seat: SeatClick, line: string): Promise<undefined> {
   const column = await columnForSeat(seat, readSeatLookup() ?? new Map<number, string>())
   output.appendLine(`[attach] ${seat.name}: terminal in column ${column.column} (${column.reason})`)
   const terminal = vscode.window.createTerminal(seatTerminalOptions(seat.name, column.column))
   terminal.sendText(line)
   terminal.show()
   return undefined
+}
+
+export async function openSeat(clicked: unknown): Promise<undefined> {
+  const parsed = SEAT_OPENING_SCHEMA.safeParse(clicked)
+  if (!parsed.success) {
+    return undefined
+  }
+  const seat: SeatClick = { id: parsed.data.id, name: parsed.data.name }
+  const seatByShellPid = readSeatLookup() ?? new Map<number, string>()
+  if (await bringTerminalForward(seat, seatByShellPid)) {
+    return undefined
+  }
+  if (parsed.data.live && parsed.data.place === "interactive") {
+    return attachTerminal(seat, attachCommandLine(seat.name))
+  }
+  return openTranscript(seat, seatByShellPid)
 }
 
 async function resumeInteractive(seat: ToggleTarget): Promise<undefined> {
