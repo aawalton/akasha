@@ -10,6 +10,7 @@ export const reelTechnique = {
   championConstellation: "craft",
   isSlottable: true,
   hashPlace: 26,
+  jumpPoints: [0, 50],
   createdAt: "2026-09-27T05:00:00.923Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:57:17.161Z",
 } as const satisfies TemperChampionStar
