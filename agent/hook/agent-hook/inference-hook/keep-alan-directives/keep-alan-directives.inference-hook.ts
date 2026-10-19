@@ -4,7 +4,7 @@ export const keepAlanDirectives = {
   id: "01a090e9-b891-780c-ae1c-408119c382ec",
   type: "page-type/inference-hook",
   slug: "keep-alan-directives",
-  definition: "the rule a turn breaks put back to the agent before that turn ends",
+  definition: "a refusal of a stop that breaks a rule",
   code: "ts",
   test: "ts",
   runsAt: ["Stop"],
@@ -132,5 +132,5 @@ export const keepAlanDirectives = {
     },
   ],
   createdAt: "2026-09-11T14:40:31.377Z",
-  updatedAt: "2026-09-27T13:39:52.000Z",
+  updatedAt: "2026-10-19T17:56:26.318Z",
 } as const satisfies InferenceHook
