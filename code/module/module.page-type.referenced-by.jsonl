@@ -6100,6 +6100,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/skill-ultimate/skill-ultimate.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/source-lookup/source-lookup.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/stat-case/stat-case.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/text-pattern/text-pattern.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/toughness-per-second/toughness-per-second.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/weapon-attacks/weapon-attacks.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/temper-metric/modules/metric-formula-writing/metric-formula-writing.module.ts","typed":true,"deferred":false}
