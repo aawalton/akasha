@@ -8,9 +8,9 @@ export const interfaceColor = {
   icon: "file-text",
   apiVersion: "eso.live.12.1.6.3309674",
   manifestApiVersion: 101051,
-  capturedAt: "2026-10-19T17:54:59.059Z",
+  capturedAt: "2026-10-19T18:07:34.193Z",
   generatorRanForVersion: "eso.live.11.3.6.3240040",
   generatorRanForManifestApiVersion: 101049,
   createdAt: "2026-10-19T17:41:06.075Z",
-  updatedAt: "2026-10-19T17:55:13.083Z",
+  updatedAt: "2026-10-19T18:07:47.939Z",
 } as const satisfies TemperCatalogDomain
