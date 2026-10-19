@@ -1,6 +1,5 @@
 {"propertySlug":"import","fileName":"taboo-term.page-type.types.ts","path":"domain/taboo-term/pages/axis.taboo-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"taboo-term.page-type.types.ts","path":"domain/taboo-term/pages/binding.taboo-term.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"taboo-term.page-type.types.ts","path":"domain/taboo-term/pages/claim.taboo-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"taboo-term.page-type.types.ts","path":"domain/taboo-term/pages/cohort.taboo-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"taboo-term.page-type.types.ts","path":"domain/taboo-term/pages/colour.taboo-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"taboo-term.page-type.types.ts","path":"domain/taboo-term/pages/corpus.taboo-term.ts","typed":true,"deferred":false}
