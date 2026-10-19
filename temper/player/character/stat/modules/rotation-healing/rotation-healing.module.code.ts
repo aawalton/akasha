@@ -73,6 +73,12 @@ export type RotationHealed = {
   readonly damageByTick: readonly number[]
 }
 
+function zeros(count: number): number[] {
+  const each: number[] = []
+  for (let at = 0; at < count; at += 1) each.push(0)
+  return each
+}
+
 function addAt(each: number[], at: number, amount: number): undefined {
   each[at] = (each[at] ?? 0) + amount
   return undefined
@@ -124,15 +130,15 @@ export function healingOverRotation(
     const skill = skills[at]
     return skill !== undefined && lastsOf(skill) > 0 ? 0 : 1
   }
-  const queue = [...skills.keys()].sort((one, two) => lasting(one) - lasting(two))
+  const queue = skills.map((_, at) => at).sort((one, two) => lasting(one) - lasting(two))
   let lightAttacks = 0
   let heavyAttacks = 0
   let shielded = 0
   let now = 0
   const tickCount = Math.ceil(fightSeconds)
-  const healingByTick = Array.from({ length: tickCount }, () => 0)
-  const shieldByTick = Array.from({ length: tickCount }, () => 0)
-  const damageByTick = Array.from({ length: tickCount }, () => 0)
+  const healingByTick = zeros(tickCount)
+  const shieldByTick = zeros(tickCount)
+  const damageByTick = zeros(tickCount)
   const tickOf = (at: number) => Math.min(tickCount - 1, Math.floor(at))
   const step = (seconds: number): undefined => {
     const heroic = Math.max(0, Math.min(seconds, heroismUntil - now))
