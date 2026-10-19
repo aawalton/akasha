@@ -7,7 +7,7 @@ export const pentatonixLittleDrummerBoyLemaXSaviRemix = {
   title: "Little Drummer Boy (Lema x Savi Remix)",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 3.776217,
+  ownLength: 3.7762166666666666,
   ownProgress: 3.776217,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const pentatonixLittleDrummerBoyLemaXSaviRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.275Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-19T13:52:12.521Z",
 } as const satisfies Release

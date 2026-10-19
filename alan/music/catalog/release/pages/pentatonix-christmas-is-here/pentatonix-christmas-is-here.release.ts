@@ -7,7 +7,7 @@ export const pentatonixChristmasIsHere = {
   title: "Christmas Is Here!",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 32.616617,
+  ownLength: 32.616566666666664,
   ownProgress: 32.616617,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const pentatonixChristmasIsHere = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.266Z",
-  updatedAt: "2026-09-15T16:38:20.000Z",
+  updatedAt: "2026-10-19T13:52:12.521Z",
 } as const satisfies Release

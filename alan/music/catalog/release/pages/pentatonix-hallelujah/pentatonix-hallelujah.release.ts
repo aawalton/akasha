@@ -7,7 +7,7 @@ export const pentatonixHallelujah = {
   title: "Hallelujah",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 4.482667,
+  ownLength: 4.482666666666667,
   ownProgress: 4.482667,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const pentatonixHallelujah = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.271Z",
-  updatedAt: "2026-09-15T16:38:20.000Z",
+  updatedAt: "2026-10-19T13:52:12.521Z",
 } as const satisfies Release

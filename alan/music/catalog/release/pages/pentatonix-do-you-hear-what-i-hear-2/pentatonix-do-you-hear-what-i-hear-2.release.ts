@@ -7,7 +7,7 @@ export const pentatonixDoYouHearWhatIHear2 = {
   title: "Do You Hear What I Hear?",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 3.085767,
+  ownLength: 3.0857666666666668,
   ownProgress: 3.085767,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const pentatonixDoYouHearWhatIHear2 = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.268Z",
-  updatedAt: "2026-09-15T16:38:20.000Z",
+  updatedAt: "2026-10-19T13:52:12.521Z",
 } as const satisfies Release

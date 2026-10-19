@@ -7,7 +7,7 @@ export const pentatonixWettenDassMedley = {
   title: '"Wetten, dass..?" Medley',
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 3.888867,
+  ownLength: 3.8888666666666665,
   ownProgress: 3.888867,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const pentatonixWettenDassMedley = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.288Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-19T13:52:12.521Z",
 } as const satisfies Release

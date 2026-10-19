@@ -7,7 +7,7 @@ export const pentatonixComeAlong = {
   title: "Come Along",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 3.015833,
+  ownLength: 3.015833333333333,
   ownProgress: 3.015833,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const pentatonixComeAlong = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.267Z",
-  updatedAt: "2026-09-15T16:38:20.000Z",
+  updatedAt: "2026-10-19T13:52:12.521Z",
 } as const satisfies Release

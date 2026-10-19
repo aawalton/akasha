@@ -17,10 +17,10 @@ export const pentatonix = {
       source: "spotify",
       externalId: "26AHtbjWKiwYzsoGoUZq53",
       externalLink: "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53",
-      lastSyncedAt: "2026-09-15",
+      lastSyncedAt: "2026-10-19",
     },
   ],
   title: "Pentatonix",
   createdAt: "2026-09-03T16:04:08.684Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-19T13:52:12.521Z",
 } as const satisfies Artist

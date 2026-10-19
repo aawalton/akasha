@@ -7,7 +7,7 @@ export const pentatonixAtHome = {
   title: "At Home",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 18.416617,
+  ownLength: 18.416616666666666,
   ownProgress: 18.416617,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const pentatonixAtHome = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.263Z",
-  updatedAt: "2026-09-15T16:38:20.000Z",
+  updatedAt: "2026-10-19T13:52:12.521Z",
 } as const satisfies Release

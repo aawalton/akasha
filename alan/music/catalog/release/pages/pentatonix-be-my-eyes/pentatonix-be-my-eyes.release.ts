@@ -7,7 +7,7 @@ export const pentatonixBeMyEyes = {
   title: "Be My Eyes",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 3.404433,
+  ownLength: 3.4044333333333334,
   ownProgress: 3.404433,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const pentatonixBeMyEyes = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.264Z",
-  updatedAt: "2026-09-15T16:38:20.000Z",
+  updatedAt: "2026-10-19T13:52:12.521Z",
 } as const satisfies Release

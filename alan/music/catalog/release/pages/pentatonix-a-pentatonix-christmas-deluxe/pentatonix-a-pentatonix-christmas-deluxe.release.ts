@@ -7,7 +7,7 @@ export const pentatonixAPentatonixChristmasDeluxe = {
   title: "A Pentatonix Christmas Deluxe",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 50.997917,
+  ownLength: 50.941266666666664,
   ownProgress: 50.997917,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const pentatonixAPentatonixChristmasDeluxe = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.261Z",
-  updatedAt: "2026-09-15T16:38:20.000Z",
+  updatedAt: "2026-10-19T13:52:12.521Z",
 } as const satisfies Release

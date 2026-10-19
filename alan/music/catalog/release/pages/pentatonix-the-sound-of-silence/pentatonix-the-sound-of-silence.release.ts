@@ -7,7 +7,7 @@ export const pentatonixTheSoundOfSilence = {
   title: "The Sound of Silence",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 3.543933,
+  ownLength: 3.5439333333333334,
   ownProgress: 3.543933,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const pentatonixTheSoundOfSilence = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.286Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-19T13:52:12.521Z",
 } as const satisfies Release

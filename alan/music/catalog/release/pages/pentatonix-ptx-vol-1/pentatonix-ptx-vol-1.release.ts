@@ -7,7 +7,7 @@ export const pentatonixPtxVol1 = {
   title: "PTX, Vol. 1",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 22.9209,
+  ownLength: 22.907766666666667,
   ownProgress: 22.9209,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const pentatonixPtxVol1 = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.279Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-19T13:52:12.521Z",
 } as const satisfies Release

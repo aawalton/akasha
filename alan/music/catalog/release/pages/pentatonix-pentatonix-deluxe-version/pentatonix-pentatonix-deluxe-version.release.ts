@@ -7,7 +7,7 @@ export const pentatonixPentatonixDeluxeVersion = {
   title: "Pentatonix (Deluxe Version)",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 54.077,
+  ownLength: 54.074016666666665,
   ownProgress: 54.077,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const pentatonixPentatonixDeluxeVersion = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.278Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-19T13:52:12.521Z",
 } as const satisfies Release

@@ -7,7 +7,7 @@ export const pentatonixIRise = {
   title: "I Rise",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 3.347817,
+  ownLength: 3.3478166666666667,
   ownProgress: 3.347817,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const pentatonixIRise = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.273Z",
-  updatedAt: "2026-09-15T16:38:20.000Z",
+  updatedAt: "2026-10-19T13:52:12.521Z",
 } as const satisfies Release

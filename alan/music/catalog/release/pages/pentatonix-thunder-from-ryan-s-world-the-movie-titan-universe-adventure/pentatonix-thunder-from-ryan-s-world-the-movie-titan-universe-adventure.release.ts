@@ -7,7 +7,7 @@ export const pentatonixThunderFromRyanSWorldTheMovieTitanUniverseAdventure = {
   title: 'Thunder (From "Ryan\'s World the Movie: Titan Universe Adventure")',
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 2.222683,
+  ownLength: 2.2226833333333333,
   ownProgress: 2.222683,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const pentatonixThunderFromRyanSWorldTheMovieTitanUniverseAdventure = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.286Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-19T13:52:12.521Z",
 } as const satisfies Release

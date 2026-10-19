@@ -7,7 +7,7 @@ export const pentatonixCruisinForABruisinInspiredByTeenBeachMovie = {
   title: "Cruisin' for a Bruisin' (Inspired by \"Teen Beach Movie\")",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 2.048883,
+  ownLength: 2.0488833333333334,
   ownProgress: 2.048883,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const pentatonixCruisinForABruisinInspiredByTeenBeachMovie = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.267Z",
-  updatedAt: "2026-09-15T16:38:20.000Z",
+  updatedAt: "2026-10-19T13:52:12.521Z",
 } as const satisfies Release

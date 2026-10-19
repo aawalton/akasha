@@ -7,7 +7,7 @@ export const pentatonixAmazingGraceMyChainsAreGone = {
   title: "Amazing Grace (My Chains Are Gone)",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 4.423333,
+  ownLength: 4.4232,
   ownProgress: 4.423333,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const pentatonixAmazingGraceMyChainsAreGone = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.263Z",
-  updatedAt: "2026-09-15T16:38:20.000Z",
+  updatedAt: "2026-10-19T13:52:12.521Z",
 } as const satisfies Release

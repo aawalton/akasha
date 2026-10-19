@@ -7,7 +7,7 @@ export const pentatonixTheLuckyOnesDeluxe = {
   title: "The Lucky Ones (Deluxe)",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 58.7959,
+  ownLength: 58.79545,
   ownProgress: 58.7959,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const pentatonixTheLuckyOnesDeluxe = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.285Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-19T13:52:12.521Z",
 } as const satisfies Release

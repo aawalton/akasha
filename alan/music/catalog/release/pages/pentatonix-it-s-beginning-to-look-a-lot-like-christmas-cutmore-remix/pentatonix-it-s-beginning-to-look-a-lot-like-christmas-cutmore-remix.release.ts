@@ -7,7 +7,7 @@ export const pentatonixItSBeginningToLookALotLikeChristmasCutmoreRemix = {
   title: "It's Beginning To Look A Lot Like Christmas (Cutmore Remix)",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 3.774967,
+  ownLength: 3.774966666666667,
   ownProgress: 3.774967,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const pentatonixItSBeginningToLookALotLikeChristmasCutmoreRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.274Z",
-  updatedAt: "2026-09-15T16:38:20.000Z",
+  updatedAt: "2026-10-19T13:52:12.521Z",
 } as const satisfies Release

@@ -7,7 +7,7 @@ export const pentatonixBestDays = {
   title: "Best Days",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 3.576733,
+  ownLength: 3.5767333333333333,
   ownProgress: 3.576733,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const pentatonixBestDays = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.264Z",
-  updatedAt: "2026-09-15T16:38:20.000Z",
+  updatedAt: "2026-10-19T13:52:12.521Z",
 } as const satisfies Release

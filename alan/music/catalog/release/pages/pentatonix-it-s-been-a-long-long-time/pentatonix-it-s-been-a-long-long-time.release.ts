@@ -7,7 +7,7 @@ export const pentatonixItSBeenALongLongTime = {
   title: "It's Been A Long, Long Time",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 1.129767,
+  ownLength: 1.1297666666666666,
   ownProgress: 1.129767,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const pentatonixItSBeenALongLongTime = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.274Z",
-  updatedAt: "2026-09-15T16:38:20.000Z",
+  updatedAt: "2026-10-19T13:52:12.521Z",
 } as const satisfies Release

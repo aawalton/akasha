@@ -7,7 +7,7 @@ export const pentatonixALittleSpaceFeatYunhoSanJonghoOfAteez = {
   title: "A Little Space (feat. YUNHO, SAN, JONGHO of ATEEZ)",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 2.913767,
+  ownLength: 2.9137666666666666,
   ownProgress: 2.913767,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const pentatonixALittleSpaceFeatYunhoSanJonghoOfAteez = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.261Z",
-  updatedAt: "2026-09-15T16:38:20.000Z",
+  updatedAt: "2026-10-19T13:52:12.521Z",
 } as const satisfies Release
