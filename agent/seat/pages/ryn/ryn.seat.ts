@@ -5,7 +5,7 @@ export const ryn = {
   type: "page-type/seat",
   slug: "ryn",
   persona: "persona/ryn",
-  assignmentSlug: "access-kind/domain",
+  assignmentSlug: "initiative/ryn-standard-agent-english",
   role: "role/definer",
   person: "person/alan",
   startMode: "seat-mode/interactive",
@@ -13,5 +13,5 @@ export const ryn = {
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "6dd8db8b-6134-46cd-b74b-5d140c993abc",
   createdAt: "2026-10-19T17:19:12.364Z",
-  updatedAt: "2026-10-19T17:19:16.004Z",
+  updatedAt: "2026-10-19T17:35:47.483Z",
 } as const satisfies Seat
