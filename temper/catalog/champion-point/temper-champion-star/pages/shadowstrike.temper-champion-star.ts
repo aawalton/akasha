@@ -11,6 +11,7 @@ export const shadowstrike = {
   championConstellation: "craft",
   isSlottable: true,
   hashPlace: 23,
+  jumpPoints: [0, 75],
   createdAt: "2026-09-27T05:00:00.923Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:57:08.592Z",
 } as const satisfies TemperChampionStar
