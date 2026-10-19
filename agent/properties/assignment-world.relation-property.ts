@@ -5,9 +5,9 @@ export const assignmentWorld = {
   type: "page-type/relation-property",
   slug: "assignment-world",
   propertySlug: "world",
-  definition: "the world an agent builds",
+  definition: "the world an agent works for",
   targetPageType: "page-type/world",
   types: "ts",
   createdAt: "2026-10-08T19:01:26.352Z",
-  updatedAt: "2026-10-08T19:01:26.352Z",
+  updatedAt: "2026-10-19T19:40:03.041Z",
 } as const satisfies RelationProperty
