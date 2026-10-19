@@ -3,19 +3,13 @@ import { valuesOf } from "akasha/temper/player/character/formula-framework/modul
 import type { PipelineStage } from "akasha/temper/player/character/stat/modules/pipeline-types/pipeline-types.module.code.ts"
 
 export const extractArmor: PipelineStage = (build, context) => {
-  const armorItems = valuesOf(build.equipment.armor)
-  const offHandWeaponItem =
-    context.bar === "primary-weapon-bar"
-      ? build.equipment["primary-weapon-bar"]["off-hand"]
-      : build.equipment["backup-weapon-bar"]["off-hand"]
-
-  const allArmorItems = [...armorItems, offHandWeaponItem].filter(
-    (item) => item.itemType === "armor"
+  const worn = valuesOf(build.equipment.armor).flatMap((item) =>
+    item.itemType === "armor" ? [item.data] : []
   )
+  const offHand = context.bar === undefined ? undefined : build.equipment[context.bar]["off-hand"]
+  const shield = offHand?.itemType === "shield" ? [offHand.data] : []
 
-  context.armorItems = allArmorItems.map((item) => item.data)
+  context.armorItems = [...worn, ...shield]
 
-  return allArmorItems.map((item) => {
-    return createArmorSource(item.data)
-  })
+  return worn.map((piece) => createArmorSource(piece))
 }
