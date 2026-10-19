@@ -11,6 +11,7 @@ export const tumbling = {
   isSlottable: false,
   effects: [{ metric: "temper-metric/stamina-dodge-cost", effectType: "integer", value: -240 }],
   hashPlace: 41,
+  jumpPoints: [0, 15, 30],
   createdAt: "2026-09-27T05:00:00.924Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:57:52.915Z",
 } as const satisfies TemperChampionStar
