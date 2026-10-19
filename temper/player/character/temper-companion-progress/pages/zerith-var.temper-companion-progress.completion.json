@@ -65,9 +65,6 @@
         }
       }
     },
-    "companionId": 13,
-    "mainHandWeaponType": 9,
-    "hash": "AjEIhtG0bRtG0bRtDQ0TGNPafMlxuIA",
     "skillAbilityIds": {
       "1": 213158,
       "2": 155693,
@@ -76,6 +73,7 @@
       "5": 155411,
       "6": 213169
     },
+    "mainHandWeaponType": 9,
     "jewelry": {
       "1": {
         "isEmpty": false,
@@ -105,6 +103,7 @@
         }
       }
     },
+    "companionId": 13,
     "weapons": {
       "1": {
         "isEmpty": false,
@@ -124,7 +123,8 @@
           "3": 0.5
         }
       }
-    }
+    },
+    "hash": "AjEIhtG0bRtG0bRtDQ0TGNPafMlxuIA"
   },
   "targetBuildHash": "AjEAgAbRtG0bRtGAbQENExjTV8A",
   "level": 20,
