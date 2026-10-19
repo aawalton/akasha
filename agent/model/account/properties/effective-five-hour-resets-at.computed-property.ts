@@ -5,7 +5,8 @@ export const effectiveFiveHourResetsAt = {
   type: "page-type/computed-property",
   slug: "effective-five-hour-resets-at",
   propertySlug: "effective-five-hour-resets-at",
-  definition: "when the five-hour allowance comes back, a spent week holding that back",
+  definition:
+    "when a five-hour window resets for a model account that can spend its seven-day window",
   holds: "instant",
   code: "ts",
   test: "ts",
@@ -31,5 +32,5 @@ export const effectiveFiveHourResetsAt = {
   ],
   types: "ts",
   createdAt: "2026-09-11T17:03:26.610Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-19T18:42:17.907Z",
 } as const satisfies ComputedProperty
