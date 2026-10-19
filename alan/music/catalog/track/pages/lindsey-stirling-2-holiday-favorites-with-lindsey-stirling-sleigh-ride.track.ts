@@ -5,7 +5,7 @@ export const lindseyStirling2HolidayFavoritesWithLindseyStirlingSleighRide = {
   type: "page-type/track",
   slug: "lindsey-stirling-2-holiday-favorites-with-lindsey-stirling-sleigh-ride",
   ownLength: 3.036566666666667,
-  ownProgress: 0,
+  ownProgress: 3.036566666666667,
   partOfCollections: [
     "release/lindsey-stirling-2-holiday-favorites-with-lindsey-stirling",
     "release/lindsey-stirling-2-snow-waltz-deluxe-edition",
@@ -13,7 +13,7 @@ export const lindseyStirling2HolidayFavoritesWithLindseyStirlingSleighRide = {
     "release/lindsey-stirling-2-carol-of-the-bells-live-from-summer-tour-2023",
     "release/lindsey-stirling-2-best-of-christmas-classics",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Sleigh Ride",
   trackType: "studio",
@@ -59,5 +59,6 @@ export const lindseyStirling2HolidayFavoritesWithLindseyStirlingSleighRide = {
     },
   ],
   createdAt: "2026-10-19T13:50:25.356Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

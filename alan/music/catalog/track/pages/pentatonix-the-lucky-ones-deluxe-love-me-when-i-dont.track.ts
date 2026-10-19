@@ -5,12 +5,12 @@ export const pentatonixTheLuckyOnesDeluxeLoveMeWhenIDont = {
   type: "page-type/track",
   slug: "pentatonix-the-lucky-ones-deluxe-love-me-when-i-dont",
   ownLength: 3.3404333333333334,
-  ownProgress: 0,
+  ownProgress: 3.3404333333333334,
   partOfCollections: [
     "release/pentatonix-the-lucky-ones-deluxe",
     "release/pentatonix-the-lucky-ones-2",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Love Me When I Don't",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const pentatonixTheLuckyOnesDeluxeLoveMeWhenIDont = {
     },
   ],
   createdAt: "2026-10-19T13:52:12.521Z",
-  updatedAt: "2026-10-19T13:52:12.521Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

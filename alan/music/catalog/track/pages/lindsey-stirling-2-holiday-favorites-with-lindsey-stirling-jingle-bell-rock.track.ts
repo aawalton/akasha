@@ -5,12 +5,12 @@ export const lindseyStirling2HolidayFavoritesWithLindseyStirlingJingleBellRock =
   type: "page-type/track",
   slug: "lindsey-stirling-2-holiday-favorites-with-lindsey-stirling-jingle-bell-rock",
   ownLength: 3.780666666666667,
-  ownProgress: 0,
+  ownProgress: 3.780666666666667,
   partOfCollections: [
     "release/lindsey-stirling-2-holiday-favorites-with-lindsey-stirling",
     "release/lindsey-stirling-2-best-of-christmas-classics",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Jingle Bell Rock",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const lindseyStirling2HolidayFavoritesWithLindseyStirlingJingleBellRock =
     },
   ],
   createdAt: "2026-10-19T13:50:25.356Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

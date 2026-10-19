@@ -5,12 +5,12 @@ export const pentatonixTheLuckyOnesDeluxeCoffeeInBed = {
   type: "page-type/track",
   slug: "pentatonix-the-lucky-ones-deluxe-coffee-in-bed",
   ownLength: 3.258,
-  ownProgress: 0,
+  ownProgress: 3.258,
   partOfCollections: [
     "release/pentatonix-the-lucky-ones-deluxe",
     "release/pentatonix-the-lucky-ones-2",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Coffee In Bed",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const pentatonixTheLuckyOnesDeluxeCoffeeInBed = {
     },
   ],
   createdAt: "2026-10-19T13:52:12.521Z",
-  updatedAt: "2026-10-19T13:52:12.521Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

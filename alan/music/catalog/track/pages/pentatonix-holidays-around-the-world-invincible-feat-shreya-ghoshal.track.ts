@@ -5,12 +5,12 @@ export const pentatonixHolidaysAroundTheWorldInvincibleFeatShreyaGhoshal = {
   type: "page-type/track",
   slug: "pentatonix-holidays-around-the-world-invincible-feat-shreya-ghoshal",
   ownLength: 3.2988833333333334,
-  ownProgress: 0,
+  ownProgress: 3.2988833333333334,
   partOfCollections: [
     "release/pentatonix-holidays-around-the-world",
     "release/pentatonix-invincible-feat-shreya-ghoshal",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Invincible (feat. Shreya Ghoshal)",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const pentatonixHolidaysAroundTheWorldInvincibleFeatShreyaGhoshal = {
     },
   ],
   createdAt: "2026-10-19T13:52:12.521Z",
-  updatedAt: "2026-10-19T13:52:12.521Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

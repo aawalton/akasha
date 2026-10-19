@@ -5,12 +5,12 @@ export const lindseyStirling2TheUpsideUndergroundUnderground = {
   type: "page-type/track",
   slug: "lindsey-stirling-2-the-upside-underground-underground",
   ownLength: 4.404983333333333,
-  ownProgress: 0,
+  ownProgress: 4.404983333333333,
   partOfCollections: [
     "release/lindsey-stirling-2-the-upside-underground",
     "release/lindsey-stirling-2-underground",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Underground",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const lindseyStirling2TheUpsideUndergroundUnderground = {
     },
   ],
   createdAt: "2026-10-19T13:50:25.356Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

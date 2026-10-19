@@ -5,12 +5,12 @@ export const pentatonixTheLuckyOnesDeluxeALittleSpace = {
   type: "page-type/track",
   slug: "pentatonix-the-lucky-ones-deluxe-a-little-space",
   ownLength: 2.9011,
-  ownProgress: 0,
+  ownProgress: 2.9011,
   partOfCollections: [
     "release/pentatonix-the-lucky-ones-deluxe",
     "release/pentatonix-the-lucky-ones-2",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "A Little Space",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const pentatonixTheLuckyOnesDeluxeALittleSpace = {
     },
   ],
   createdAt: "2026-10-19T13:52:12.521Z",
-  updatedAt: "2026-10-19T13:52:12.521Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

@@ -5,12 +5,12 @@ export const pentatonixTheLuckyOnesDeluxeExitSigns = {
   type: "page-type/track",
   slug: "pentatonix-the-lucky-ones-deluxe-exit-signs",
   ownLength: 3.9262166666666665,
-  ownProgress: 0,
+  ownProgress: 3.9262166666666665,
   partOfCollections: [
     "release/pentatonix-the-lucky-ones-deluxe",
     "release/pentatonix-the-lucky-ones-2",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Exit Signs",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const pentatonixTheLuckyOnesDeluxeExitSigns = {
     },
   ],
   createdAt: "2026-10-19T13:52:12.521Z",
-  updatedAt: "2026-10-19T13:52:12.521Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

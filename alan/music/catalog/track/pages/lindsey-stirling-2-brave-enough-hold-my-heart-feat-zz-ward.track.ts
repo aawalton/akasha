@@ -5,12 +5,12 @@ export const lindseyStirling2BraveEnoughHoldMyHeartFeatZzWard = {
   type: "page-type/track",
   slug: "lindsey-stirling-2-brave-enough-hold-my-heart-feat-zz-ward",
   ownLength: 3.49835,
-  ownProgress: 0,
+  ownProgress: 3.49835,
   partOfCollections: [
     "release/lindsey-stirling-2-brave-enough",
     "release/lindsey-stirling-2-hold-my-heart-feat-zz-ward",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Hold My Heart (feat. ZZ Ward)",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const lindseyStirling2BraveEnoughHoldMyHeartFeatZzWard = {
     },
   ],
   createdAt: "2026-10-19T13:50:25.356Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

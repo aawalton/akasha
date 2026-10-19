@@ -5,12 +5,12 @@ export const lindseyStirling2BraveEnoughLovesJustAFeelingFeatRooty = {
   type: "page-type/track",
   slug: "lindsey-stirling-2-brave-enough-loves-just-a-feeling-feat-rooty",
   ownLength: 3.8186666666666667,
-  ownProgress: 0,
+  ownProgress: 3.8186666666666667,
   partOfCollections: [
     "release/lindsey-stirling-2-brave-enough",
     "release/lindsey-stirling-2-love-s-just-a-feeling-feat-rooty",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Love's Just a Feeling (feat. Rooty)",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const lindseyStirling2BraveEnoughLovesJustAFeelingFeatRooty = {
     },
   ],
   createdAt: "2026-10-19T13:50:25.356Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

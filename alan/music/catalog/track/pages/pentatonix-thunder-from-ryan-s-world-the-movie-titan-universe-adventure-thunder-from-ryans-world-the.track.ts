@@ -6,11 +6,11 @@ export const pentatonixThunderFromRyanSWorldTheMovieTitanUniverseAdventureThunde
     type: "page-type/track",
     slug: "pentatonix-thunder-from-ryan-s-world-the-movie-titan-universe-adventure-thunder-from-ryans-world-the",
     ownLength: 2.2226833333333333,
-    ownProgress: 0,
+    ownProgress: 2.2226833333333333,
     partOfCollections: [
       "release/pentatonix-thunder-from-ryan-s-world-the-movie-titan-universe-adventure",
     ],
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     title: "Thunder - From \"Ryan's World the Movie: Titan Universe Adventure",
     trackType: "studio",
@@ -28,5 +28,6 @@ export const pentatonixThunderFromRyanSWorldTheMovieTitanUniverseAdventureThunde
       },
     ],
     createdAt: "2026-10-19T13:52:12.521Z",
-    updatedAt: "2026-10-19T13:52:12.521Z",
+    updatedAt: "2026-10-19T14:01:21.162Z",
+    progressedAt: "2026-10-19T14:01:21.162Z",
   } as const satisfies Track

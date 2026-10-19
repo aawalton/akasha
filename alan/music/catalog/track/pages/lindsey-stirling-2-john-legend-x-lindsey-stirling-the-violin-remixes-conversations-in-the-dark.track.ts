@@ -5,11 +5,11 @@ export const lindseyStirling2JohnLegendXLindseyStirlingTheViolinRemixesConversat
   type: "page-type/track",
   slug: "lindsey-stirling-2-john-legend-x-lindsey-stirling-the-violin-remixes-conversations-in-the-dark",
   ownLength: 3.7108833333333333,
-  ownProgress: 0,
+  ownProgress: 3.7108833333333333,
   partOfCollections: [
     "release/lindsey-stirling-2-john-legend-x-lindsey-stirling-the-violin-remixes",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Conversations in the Dark - Violin Remix",
   trackType: "remix",
@@ -28,5 +28,6 @@ export const lindseyStirling2JohnLegendXLindseyStirlingTheViolinRemixesConversat
     },
   ],
   createdAt: "2026-10-19T13:50:25.356Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

@@ -5,12 +5,12 @@ export const lindseyStirling2BraveEnoughTheArena = {
   type: "page-type/track",
   slug: "lindsey-stirling-2-brave-enough-the-arena",
   ownLength: 3.8713333333333333,
-  ownProgress: 0,
+  ownProgress: 3.8713333333333333,
   partOfCollections: [
     "release/lindsey-stirling-2-brave-enough",
     "release/lindsey-stirling-2-the-arena",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "The Arena",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const lindseyStirling2BraveEnoughTheArena = {
     },
   ],
   createdAt: "2026-10-19T13:50:25.356Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

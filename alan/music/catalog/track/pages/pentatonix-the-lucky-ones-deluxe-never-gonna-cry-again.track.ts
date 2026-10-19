@@ -5,12 +5,12 @@ export const pentatonixTheLuckyOnesDeluxeNeverGonnaCryAgain = {
   type: "page-type/track",
   slug: "pentatonix-the-lucky-ones-deluxe-never-gonna-cry-again",
   ownLength: 2.9622166666666665,
-  ownProgress: 0,
+  ownProgress: 2.9622166666666665,
   partOfCollections: [
     "release/pentatonix-the-lucky-ones-deluxe",
     "release/pentatonix-the-lucky-ones-2",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Never Gonna Cry Again",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const pentatonixTheLuckyOnesDeluxeNeverGonnaCryAgain = {
     },
   ],
   createdAt: "2026-10-19T13:52:12.521Z",
-  updatedAt: "2026-10-19T13:52:12.521Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

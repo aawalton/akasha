@@ -5,7 +5,7 @@ export const lindseyStirling2DualityDeluxeEyeOfTheUntoldHer = {
   type: "page-type/track",
   slug: "lindsey-stirling-2-duality-deluxe-eye-of-the-untold-her",
   ownLength: 3.67955,
-  ownProgress: 0,
+  ownProgress: 3.67955,
   partOfCollections: [
     "release/lindsey-stirling-2-duality-deluxe",
     "release/lindsey-stirling-2-duality",
@@ -13,7 +13,7 @@ export const lindseyStirling2DualityDeluxeEyeOfTheUntoldHer = {
     "release/lindsey-stirling-2-inner-gold-feat-royal-the-serpent",
     "release/lindsey-stirling-2-eye-of-the-untold-her",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Eye Of The Untold Her",
   trackType: "studio",
@@ -59,5 +59,6 @@ export const lindseyStirling2DualityDeluxeEyeOfTheUntoldHer = {
     },
   ],
   createdAt: "2026-10-19T13:50:25.356Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

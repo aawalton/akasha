@@ -5,12 +5,12 @@ export const lindseyStirling2DualityDeluxeSurviveFeatWalkOffTheEarth = {
   type: "page-type/track",
   slug: "lindsey-stirling-2-duality-deluxe-survive-feat-walk-off-the-earth",
   ownLength: 3.2851,
-  ownProgress: 0,
+  ownProgress: 3.2851,
   partOfCollections: [
     "release/lindsey-stirling-2-duality-deluxe",
     "release/lindsey-stirling-2-duality",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Survive [Feat. Walk off the Earth]",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const lindseyStirling2DualityDeluxeSurviveFeatWalkOffTheEarth = {
     },
   ],
   createdAt: "2026-10-19T13:50:25.356Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

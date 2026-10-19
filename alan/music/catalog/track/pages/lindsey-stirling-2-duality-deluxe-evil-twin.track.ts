@@ -5,12 +5,12 @@ export const lindseyStirling2DualityDeluxeEvilTwin = {
   type: "page-type/track",
   slug: "lindsey-stirling-2-duality-deluxe-evil-twin",
   ownLength: 3.7953333333333332,
-  ownProgress: 0,
+  ownProgress: 3.7953333333333332,
   partOfCollections: [
     "release/lindsey-stirling-2-duality-deluxe",
     "release/lindsey-stirling-2-evil-twin-feat-shuba",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Evil Twin",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const lindseyStirling2DualityDeluxeEvilTwin = {
     },
   ],
   createdAt: "2026-10-19T13:50:25.356Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

@@ -5,12 +5,12 @@ export const lindseyStirling2DualityDeluxeUnfoldingFeatRachelPlatten = {
   type: "page-type/track",
   slug: "lindsey-stirling-2-duality-deluxe-unfolding-feat-rachel-platten",
   ownLength: 3.648433333333333,
-  ownProgress: 0,
+  ownProgress: 3.648433333333333,
   partOfCollections: [
     "release/lindsey-stirling-2-duality-deluxe",
     "release/lindsey-stirling-2-unfolding-feat-rachel-platten",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Unfolding [Feat. Rachel Platten]",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const lindseyStirling2DualityDeluxeUnfoldingFeatRachelPlatten = {
     },
   ],
   createdAt: "2026-10-19T13:50:25.356Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

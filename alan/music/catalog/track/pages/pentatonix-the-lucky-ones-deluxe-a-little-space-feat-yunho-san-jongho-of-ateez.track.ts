@@ -5,12 +5,12 @@ export const pentatonixTheLuckyOnesDeluxeALittleSpaceFeatYunhoSanJonghoOfAteez =
   type: "page-type/track",
   slug: "pentatonix-the-lucky-ones-deluxe-a-little-space-feat-yunho-san-jongho-of-ateez",
   ownLength: 2.9137666666666666,
-  ownProgress: 0,
+  ownProgress: 2.9137666666666666,
   partOfCollections: [
     "release/pentatonix-the-lucky-ones-deluxe",
     "release/pentatonix-a-little-space-feat-yunho-san-jongho-of-ateez",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "A Little Space (feat. YUNHO, SAN, JONGHO of ATEEZ)",
   trackType: "studio",
@@ -36,5 +36,6 @@ export const pentatonixTheLuckyOnesDeluxeALittleSpaceFeatYunhoSanJonghoOfAteez =
     },
   ],
   createdAt: "2026-10-19T13:52:12.521Z",
-  updatedAt: "2026-10-19T13:52:12.521Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

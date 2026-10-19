@@ -5,12 +5,12 @@ export const pentatonixWeNeedALittleChristmasAmazingGraceMyChainsAreGone = {
   type: "page-type/track",
   slug: "pentatonix-we-need-a-little-christmas-amazing-grace-my-chains-are-gone",
   ownLength: 4.4232,
-  ownProgress: 0,
+  ownProgress: 4.4232,
   partOfCollections: [
     "release/pentatonix-we-need-a-little-christmas",
     "release/pentatonix-amazing-grace-my-chains-are-gone",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Amazing Grace (My Chains Are Gone)",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const pentatonixWeNeedALittleChristmasAmazingGraceMyChainsAreGone = {
     },
   ],
   createdAt: "2026-10-19T13:52:12.521Z",
-  updatedAt: "2026-10-19T13:52:12.521Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

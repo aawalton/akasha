@@ -6,11 +6,11 @@ export const lindseyStirling2RememberingSundayFeatLindseyStirlingLisaGaskarthRem
     type: "page-type/track",
     slug: "lindsey-stirling-2-remembering-sunday-feat-lindsey-stirling-lisa-gaskarth-remembering-sunday-feat",
     ownLength: 4.278833333333333,
-    ownProgress: 0,
+    ownProgress: 4.278833333333333,
     partOfCollections: [
       "release/lindsey-stirling-2-remembering-sunday-feat-lindsey-stirling-lisa-gaskarth",
     ],
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     title: "Remembering Sunday - feat. Lindsey Stirling & Lisa Gaskarth",
     trackType: "studio",
@@ -34,5 +34,6 @@ export const lindseyStirling2RememberingSundayFeatLindseyStirlingLisaGaskarthRem
       },
     ],
     createdAt: "2026-10-19T13:50:25.356Z",
-    updatedAt: "2026-10-19T13:50:25.356Z",
+    updatedAt: "2026-10-19T14:01:21.162Z",
+    progressedAt: "2026-10-19T14:01:21.162Z",
   } as const satisfies Track

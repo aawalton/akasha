@@ -5,11 +5,11 @@ export const lindseyStirling2WhatYouReMadeOfFeatKieszaAzurLaneSoundtrackWhatYour
   type: "page-type/track",
   slug: "lindsey-stirling-2-what-you-re-made-of-feat-kiesza-azur-lane-soundtrack-what-youre-made-of-feat",
   ownLength: 3.4432833333333335,
-  ownProgress: 0,
+  ownProgress: 3.4432833333333335,
   partOfCollections: [
     "release/lindsey-stirling-2-what-you-re-made-of-feat-kiesza-azur-lane-soundtrack",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "What You’re Made Of (feat. Kiesza) (From “Azur Lane” Original Video Game Soundtrack)",
   trackType: "studio",
@@ -28,5 +28,6 @@ export const lindseyStirling2WhatYouReMadeOfFeatKieszaAzurLaneSoundtrackWhatYour
     },
   ],
   createdAt: "2026-10-19T13:50:25.356Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

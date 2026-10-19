@@ -5,11 +5,11 @@ export const pentatonixItSBeginningToLookALotLikeChristmasCutmoreRemixItsBeginni
   type: "page-type/track",
   slug: "pentatonix-it-s-beginning-to-look-a-lot-like-christmas-cutmore-remix-its-beginning-to-look-a-lot",
   ownLength: 3.774966666666667,
-  ownProgress: 0,
+  ownProgress: 3.774966666666667,
   partOfCollections: [
     "release/pentatonix-it-s-beginning-to-look-a-lot-like-christmas-cutmore-remix",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "It's Beginning To Look A Lot Like Christmas - Cutmore Remix",
   trackType: "remix",
@@ -28,5 +28,6 @@ export const pentatonixItSBeginningToLookALotLikeChristmasCutmoreRemixItsBeginni
     },
   ],
   createdAt: "2026-10-19T13:52:12.521Z",
-  updatedAt: "2026-10-19T13:52:12.521Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

@@ -6,11 +6,11 @@ export const pentatonixItSBeginningToLookALotLikeChristmasCountryClubMartiniCrew
     type: "page-type/track",
     slug: "pentatonix-it-s-beginning-to-look-a-lot-like-christmas-country-club-martini-crew-remix-its-beginning",
     ownLength: 3.5681833333333333,
-    ownProgress: 0,
+    ownProgress: 3.5681833333333333,
     partOfCollections: [
       "release/pentatonix-it-s-beginning-to-look-a-lot-like-christmas-country-club-martini-crew-remix",
     ],
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     title: "It's Beginning To Look A Lot Like Christmas - Country Club Martini Crew Remix",
     trackType: "remix",
@@ -30,5 +30,6 @@ export const pentatonixItSBeginningToLookALotLikeChristmasCountryClubMartiniCrew
       },
     ],
     createdAt: "2026-10-19T13:52:12.521Z",
-    updatedAt: "2026-10-19T13:52:12.521Z",
+    updatedAt: "2026-10-19T14:01:21.162Z",
+    progressedAt: "2026-10-19T14:01:21.162Z",
   } as const satisfies Track

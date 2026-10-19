@@ -5,12 +5,12 @@ export const lindseyStirling2SnowWaltzDeluxeEditionCrazyForChristmasFeatBonnieMc
   type: "page-type/track",
   slug: "lindsey-stirling-2-snow-waltz-deluxe-edition-crazy-for-christmas-feat-bonnie-mckee",
   ownLength: 3.7420833333333334,
-  ownProgress: 0,
+  ownProgress: 3.7420833333333334,
   partOfCollections: [
     "release/lindsey-stirling-2-snow-waltz-deluxe-edition",
     "release/lindsey-stirling-2-snow-waltz",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Crazy For Christmas [Feat. Bonnie McKee]",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const lindseyStirling2SnowWaltzDeluxeEditionCrazyForChristmasFeatBonnieMc
     },
   ],
   createdAt: "2026-10-19T13:50:25.356Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

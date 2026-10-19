@@ -5,12 +5,12 @@ export const lindseyStirling2ArtemisArtemis = {
   type: "page-type/track",
   slug: "lindsey-stirling-2-artemis-artemis",
   ownLength: 3.8992166666666668,
-  ownProgress: 0,
+  ownProgress: 3.8992166666666668,
   partOfCollections: [
     "release/lindsey-stirling-2-artemis",
     "release/lindsey-stirling-2-artemis-the-upside-the-upside-underground-feat-elle-king",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Artemis",
   trackType: "studio",
@@ -36,5 +36,6 @@ export const lindseyStirling2ArtemisArtemis = {
     },
   ],
   createdAt: "2026-10-19T13:50:25.356Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

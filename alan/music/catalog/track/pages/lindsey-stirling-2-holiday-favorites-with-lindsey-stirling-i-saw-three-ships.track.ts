@@ -5,13 +5,13 @@ export const lindseyStirling2HolidayFavoritesWithLindseyStirlingISawThreeShips =
   type: "page-type/track",
   slug: "lindsey-stirling-2-holiday-favorites-with-lindsey-stirling-i-saw-three-ships",
   ownLength: 2.5606666666666666,
-  ownProgress: 0,
+  ownProgress: 2.5606666666666666,
   partOfCollections: [
     "release/lindsey-stirling-2-holiday-favorites-with-lindsey-stirling",
     "release/lindsey-stirling-2-warmer-in-the-winter-deluxe-edition",
     "release/lindsey-stirling-2-best-of-christmas-classics",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I Saw Three Ships",
   trackType: "studio",
@@ -43,5 +43,6 @@ export const lindseyStirling2HolidayFavoritesWithLindseyStirlingISawThreeShips =
     },
   ],
   createdAt: "2026-10-19T13:50:25.356Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

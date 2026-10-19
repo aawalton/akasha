@@ -5,12 +5,12 @@ export const lindseyStirling2SnowWaltzDeluxeEditionJoyToTheWorldIntro = {
   type: "page-type/track",
   slug: "lindsey-stirling-2-snow-waltz-deluxe-edition-joy-to-the-world-intro",
   ownLength: 0.36516666666666664,
-  ownProgress: 0,
+  ownProgress: 0.36516666666666664,
   partOfCollections: [
     "release/lindsey-stirling-2-snow-waltz-deluxe-edition",
     "release/lindsey-stirling-2-snow-waltz",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Joy To The World - Intro",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const lindseyStirling2SnowWaltzDeluxeEditionJoyToTheWorldIntro = {
     },
   ],
   createdAt: "2026-10-19T13:50:25.356Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track

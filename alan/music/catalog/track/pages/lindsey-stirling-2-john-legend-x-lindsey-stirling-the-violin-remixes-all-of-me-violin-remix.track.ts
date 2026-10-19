@@ -5,11 +5,11 @@ export const lindseyStirling2JohnLegendXLindseyStirlingTheViolinRemixesAllOfMeVi
   type: "page-type/track",
   slug: "lindsey-stirling-2-john-legend-x-lindsey-stirling-the-violin-remixes-all-of-me-violin-remix",
   ownLength: 4.641333333333334,
-  ownProgress: 0,
+  ownProgress: 4.641333333333334,
   partOfCollections: [
     "release/lindsey-stirling-2-john-legend-x-lindsey-stirling-the-violin-remixes",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "All of Me - Violin Remix",
   trackType: "remix",
@@ -27,5 +27,6 @@ export const lindseyStirling2JohnLegendXLindseyStirlingTheViolinRemixesAllOfMeVi
     },
   ],
   createdAt: "2026-10-19T13:50:25.356Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:21.162Z",
+  progressedAt: "2026-10-19T14:01:21.162Z",
 } as const satisfies Track
