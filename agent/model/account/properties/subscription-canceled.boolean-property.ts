@@ -5,7 +5,7 @@ export const subscriptionCanceled = {
   type: "page-type/boolean-property",
   slug: "subscription-canceled",
   propertySlug: "subscription-canceled",
-  definition: "whether the account's subscription is canceled and will not renew",
+  definition: "whether a subscription is canceled",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -19,5 +19,5 @@ export const subscriptionCanceled = {
   ],
   types: "ts",
   createdAt: "2026-09-27T12:53:38.002Z",
-  updatedAt: "2026-09-27T12:53:44.000Z",
+  updatedAt: "2026-10-19T18:51:43.544Z",
 } as const satisfies BooleanProperty
