@@ -37835,7 +37835,7 @@
       "name": "Magicka Furnace",
       "categoryName": "Dungeons",
       "subcategoryName": "Direfrost Keep",
-      "slotsUnlocked": 15,
+      "slotsUnlocked": 16,
       "totalSlots": 22,
       "pieces": [
         {
@@ -37880,7 +37880,7 @@
         },
         {
           "name": "Axe of the Magicka Furnace",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Mace of the Magicka Furnace",
