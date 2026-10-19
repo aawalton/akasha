@@ -5,7 +5,8 @@ export const fable = {
   type: "page-type/model-family",
   slug: "fable",
   definition: "Anthropic's most capable model family",
+  spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "Fable" }],
   name: "claude-fable-5",
   createdAt: "2026-08-30T15:49:55.535Z",
-  updatedAt: "2026-10-19T19:01:58.214Z",
+  updatedAt: "2026-10-19T19:03:39.941Z",
 } as const satisfies ModelFamily
