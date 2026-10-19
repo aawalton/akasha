@@ -10,6 +10,8 @@ export const theLord = {
   esoIconName: "constellation_lord",
   effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 2225 }],
   hashPlace: 5,
+  boonBase: 2023,
+  boonScale: 1.1,
   createdAt: "2026-09-26T20:33:58.498Z",
-  updatedAt: "2026-09-26T20:34:07.000Z",
+  updatedAt: "2026-10-19T21:58:56.650Z",
 } as const satisfies TemperMundusStone

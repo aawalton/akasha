@@ -6,7 +6,12 @@ export const temperMundusStone = {
   slug: "temper-mundus-stone",
   definition: "a mundus stone whose boon a character carries, or carrying no stone",
   extends: ["page-type/temper-thing"],
-  parts: ["number-property/eso-mundus-id", "text-property/eso-icon-name"],
+  parts: [
+    "number-property/eso-mundus-id",
+    "text-property/eso-icon-name",
+    "number-property/boon-base",
+    "number-property/boon-scale",
+  ],
   properties: [
     { pageProperty: "text-property/description", required: true, many: false },
     { pageProperty: "number-property/eso-mundus-id", required: true, many: false },
@@ -18,6 +23,8 @@ export const temperMundusStone = {
       maxCount: null,
     },
     { pageProperty: "number-property/hash-place", required: true, many: false },
+    { pageProperty: "number-property/boon-base", required: false, many: false },
+    { pageProperty: "number-property/boon-scale", required: false, many: false },
   ],
   decisions: [
     {
@@ -32,10 +39,24 @@ export const temperMundusStone = {
       decisionKind: "decision-kind/departure",
       statement: "Divines armor grows every effect a mundus stone lists.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A stone whose boon is a scale times a smaller base states the boon, the base and the scale.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A stone's boon base times its boon scale, rounded down, is the boon it states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The Lord's boon of 2225 health is 1.1 times a base of 2023, the Tower's and the Mage's boon.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
   createdAt: "2026-09-26T20:30:44.203Z",
-  updatedAt: "2026-09-26T20:30:48.000Z",
+  updatedAt: "2026-10-19T21:58:56.650Z",
 } as const satisfies PageType

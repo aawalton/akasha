@@ -85,6 +85,8 @@ const MUNDUS_FIELDS: readonly string[] = [
   "esoIconName",
   "effects",
   "hashPlace",
+  "boonBase",
+  "boonScale",
 ]
 
 const FOOD_OR_DRINK_FIELDS: readonly string[] = [

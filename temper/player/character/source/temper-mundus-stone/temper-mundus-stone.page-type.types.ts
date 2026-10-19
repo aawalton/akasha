@@ -1,5 +1,7 @@
 import type { Description } from "akasha/page/properties/description.text-property.types.ts"
 import type { HashPlace } from "akasha/temper/catalog/companion/trait/properties/hash-place.number-property.types.ts"
+import type { BoonBase } from "akasha/temper/player/character/source/temper-mundus-stone/properties/boon-base.number-property.types.ts"
+import type { BoonScale } from "akasha/temper/player/character/source/temper-mundus-stone/properties/boon-scale.number-property.types.ts"
 import type { EsoIconName } from "akasha/temper/player/character/source/temper-mundus-stone/properties/eso-icon-name.text-property.types.ts"
 import type { EsoMundusId } from "akasha/temper/player/character/source/temper-mundus-stone/properties/eso-mundus-id.number-property.types.ts"
 import type { SourceEffects } from "akasha/temper/player/character/source/temper-target/properties/source-effects.record-property.types.ts"
@@ -11,4 +13,6 @@ export type TemperMundusStone = TemperThing & {
   esoIconName?: EsoIconName
   effects?: SourceEffects
   hashPlace: HashPlace
+  boonBase?: BoonBase
+  boonScale?: BoonScale
 }

@@ -26,6 +26,8 @@ interface MundusTemplate extends EffectSourceInterface {
   description: string
   esoMundusId: number
   effects: readonly MundusMetricEffect[]
+  boonBase?: number
+  boonScale?: number
 }
 
 export type MundusId = string
@@ -53,6 +55,27 @@ function isMundusEffect(effect: unknown): effect is MundusMetricEffect {
   return effectType === "integer" || effectType === "fractional-change"
 }
 
+function boonScaleOf(
+  row: Row,
+  at: string,
+  effects: readonly MundusMetricEffect[]
+): { boonBase?: number; boonScale?: number } {
+  const { boonBase, boonScale } = row
+  if (typeof boonBase !== "number" && typeof boonScale !== "number") return {}
+  if (typeof boonBase !== "number" || typeof boonScale !== "number") {
+    throw new Error(`${at} states a boon base or a boon scale without the other`)
+  }
+  for (const effect of effects) {
+    if (
+      effect.effectType === "integer" &&
+      Math.floor(boonScale * boonBase) !== effect.effectValue
+    ) {
+      throw new Error(`${at} states a boon that its base times its scale does not give`)
+    }
+  }
+  return { boonBase, boonScale }
+}
+
 function placed(row: Row): readonly [number, readonly [MundusSource, string | null]] {
   const at = `the mundus stone page \`${String(row.slug)}\``
   if (typeof row.hashPlace !== "number") throw new Error(`${at} states no hash place`)
@@ -68,6 +91,7 @@ function placed(row: Row): readonly [number, readonly [MundusSource, string | nu
     categoryId: CATEGORY,
     esoMundusId: row.esoMundusId,
     effects,
+    ...boonScaleOf(row, at, effects),
   }
   return [row.hashPlace, [stone, typeof row.esoIconName === "string" ? row.esoIconName : null]]
 }
@@ -122,7 +146,13 @@ export function createMundusSource(
       metricId: effect.metricId,
       effectType: effect.effectType,
       effectValue:
-        effect.effectType === "integer" ? calculateDivinesValue(baseValue, armorItems) : baseValue,
+        effect.effectType === "integer"
+          ? calculateDivinesValue(
+              baseMundus.boonBase ?? baseValue,
+              armorItems,
+              baseMundus.boonScale ?? 1
+            )
+          : baseValue,
     } satisfies MundusMetricEffect
   })
 

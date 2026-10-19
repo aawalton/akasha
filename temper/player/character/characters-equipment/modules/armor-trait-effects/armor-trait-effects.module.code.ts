@@ -20,8 +20,13 @@ function divinesTenths(armorItems: readonly ArmorItem[]): number {
   return Math.round(units / 100)
 }
 
-export function calculateDivinesValue(baseValue: number, armorItems: readonly ArmorItem[]): number {
-  return Math.floor((baseValue * (1000 + divinesTenths(armorItems))) / 1000)
+export function calculateDivinesValue(
+  baseValue: number,
+  armorItems: readonly ArmorItem[],
+  scale = 1
+): number {
+  const grown = Math.floor((baseValue * (1000 + divinesTenths(armorItems))) / 1000)
+  return Math.floor(scale * grown)
 }
 
 export function getArmorTraitEffects(armor: ArmorItem): readonly MetricEffect[] {
