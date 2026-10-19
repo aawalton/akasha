@@ -11,6 +11,7 @@ export const savageDefense = {
   isSlottable: false,
   effects: [{ metric: "temper-metric/bash-cost", effectType: "integer", value: -90 }],
   hashPlace: 37,
+  jumpPoints: [0, 15, 30],
   createdAt: "2026-09-27T05:00:00.923Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:57:27.487Z",
 } as const satisfies TemperChampionStar
