@@ -50,7 +50,7 @@ function delivered(id: string): string {
   ].join("\n")
 }
 
-test("a claim the seat's transcripts show delivered, however long ago, is taken and never let go", async () => {
+test("a claim the seat's transcripts show delivered, however long ago, is taken and never released", async () => {
   const { run, taken, released } = reconciling(
     [{ id: "message-6b9d4a4a2d5b", claimedAtMs: STARTED - 1, injectedAtMs: null }],
     null,
@@ -70,7 +70,7 @@ test("the seat's transcripts are read from the oldest claim on", async () => {
   expect(readSince).toEqual([STARTED - 500])
 })
 
-test("a claim marked shown is taken rather than left claimed or let go", async () => {
+test("a claim marked shown is taken rather than left claimed or released", async () => {
   const { run, taken, released } = reconciling([
     { id: "shown", claimedAtMs: STARTED - 1, injectedAtMs: STARTED - 1 },
   ])
@@ -79,7 +79,7 @@ test("a claim marked shown is taken rather than left claimed or let go", async (
   expect(released).toEqual([])
 })
 
-test("a take refused on resume is said and the claim is not let go", async () => {
+test("a take refused on resume is said and the claim is not released", async () => {
   const { run, taken, released, said } = reconciling(
     [{ id: "shown", claimedAtMs: STARTED - 1, injectedAtMs: STARTED - 1 }],
     "the pages answered 502"
@@ -90,7 +90,7 @@ test("a take refused on resume is said and the claim is not let go", async () =>
   expect(said.some((line) => line.includes("the pages answered 502"))).toBe(true)
 })
 
-test("a claim with no sign it reached the seat is let go rather than taken", async () => {
+test("a claim with no sign it reached the seat is released rather than taken", async () => {
   const { run, taken, released } = reconciling([
     { id: "lost", claimedAtMs: STARTED - 1, injectedAtMs: null },
   ])
@@ -99,7 +99,7 @@ test("a claim with no sign it reached the seat is let go rather than taken", asy
   expect(released).toEqual(["lost"])
 })
 
-test("a claim made since this process started is neither taken nor let go", async () => {
+test("a claim made since this process started is neither taken nor released", async () => {
   const { run, taken, released } = reconciling([
     { id: "fresh", claimedAtMs: STARTED, injectedAtMs: STARTED },
   ])

@@ -23,6 +23,14 @@ export const agentMessage = {
       spelling: "claimed",
       scope: "page-type/agent-message",
     },
+    { partOfSpeech: "part-of-speech/noun", spelling: "release", scope: "page-type/agent-message" },
+    { partOfSpeech: "part-of-speech/verb", spelling: "release", scope: "page-type/agent-message" },
+    { partOfSpeech: "part-of-speech/verb", spelling: "releases", scope: "page-type/agent-message" },
+    {
+      partOfSpeech: "part-of-speech/past-participle",
+      spelling: "released",
+      scope: "page-type/agent-message",
+    },
   ],
   extends: ["page-type/page"],
   mortal: true,
@@ -103,11 +111,15 @@ export const agentMessage = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A message claimed and left is claimed again once the claim is let go.",
+      statement: "A message claimed and left is claimed again once the claim is released.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A claim marks a message as being delivered to its seat and not yet received.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A release ends a claim, and the message waits again.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -130,5 +142,5 @@ export const agentMessage = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:26:42.683Z",
-  updatedAt: "2026-10-19T18:10:45.688Z",
+  updatedAt: "2026-10-19T18:17:55.458Z",
 } as const satisfies PageType

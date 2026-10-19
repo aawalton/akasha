@@ -13,11 +13,7 @@ export const agentMessageClaimedAt = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A claim is let go rather than taken back.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A message whose claim is let go waits again.",
+      statement: "A claim is released rather than taken back.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -30,5 +26,5 @@ export const agentMessageClaimedAt = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:26:42.683Z",
-  updatedAt: "2026-10-19T18:10:45.688Z",
+  updatedAt: "2026-10-19T18:17:55.458Z",
 } as const satisfies InstantProperty

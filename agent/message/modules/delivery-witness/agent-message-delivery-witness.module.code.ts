@@ -146,7 +146,7 @@ export function startDeliveryWitness(args: {
     }
     offeredAgain.add(messageId)
     console.error(
-      `[messages] no transcript shows the session took in ${messageId}; its claim is let go to offer it again`
+      `[messages] no transcript shows the session took in ${messageId}; its claim is released to offer it again`
     )
     try {
       args.offerAgain(messageId)

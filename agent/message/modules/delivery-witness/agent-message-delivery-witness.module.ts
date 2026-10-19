@@ -10,7 +10,7 @@ export const agentMessageDeliveryWitness = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A message is let go only where a transcript has the injection itself.",
+      statement: "A message is taken only where a transcript has the injection itself.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -40,7 +40,7 @@ export const agentMessageDeliveryWitness = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A message no transcript shows the session took in is let go and offered again once.",
+        "A message no transcript shows the session took in has its claim released and is offered again once.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -53,5 +53,5 @@ export const agentMessageDeliveryWitness = {
     },
   ],
   createdAt: "2026-09-03T17:59:25.035Z",
-  updatedAt: "2026-09-27T01:16:02.000Z",
+  updatedAt: "2026-10-19T18:17:55.458Z",
 } as const satisfies Module

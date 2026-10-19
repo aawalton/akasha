@@ -13,7 +13,7 @@ export const agentMessageInjectedAt = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A claim with such an instant is never let go to send its message again.",
+      statement: "A claim with such an instant is never released to send its message again.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -26,5 +26,5 @@ export const agentMessageInjectedAt = {
   ],
   types: "ts",
   createdAt: "2026-09-25T02:09:01.369Z",
-  updatedAt: "2026-09-25T17:59:33.000Z",
+  updatedAt: "2026-10-19T18:17:55.458Z",
 } as const satisfies InstantProperty
