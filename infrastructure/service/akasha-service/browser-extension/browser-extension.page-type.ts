@@ -10,6 +10,7 @@ export const browserExtension = {
     { partOfSpeech: "part-of-speech/noun", spelling: "browser extensions" },
   ],
   pluralSlug: "browser-extensions",
+  loadedExport: ["runWorker", "runSite"],
   extends: ["page-type/akasha-service"],
   parts: [
     "module-property-group/extension-worker",
@@ -59,5 +60,5 @@ export const browserExtension = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-18T17:15:59.652Z",
-  updatedAt: "2026-10-19T16:32:13.401Z",
+  updatedAt: "2026-10-19T17:54:08.306Z",
 } as const satisfies PageType
