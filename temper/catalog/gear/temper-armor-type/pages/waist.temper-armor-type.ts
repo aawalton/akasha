@@ -8,7 +8,7 @@ export const waist = {
   key: "waist",
   armorMultiplier: 3,
   validSlots: ["temper-armor-slot/waist"],
-  enchantmentMultiplier: 0.4045,
+  enchantmentMultiplier: 0.405,
   createdAt: "2026-09-02T01:56:49.744Z",
-  updatedAt: "2026-09-27T05:21:39.000Z",
+  updatedAt: "2026-10-19T23:26:02.763Z",
 } as const satisfies TemperArmorType

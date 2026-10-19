@@ -18,10 +18,13 @@ export const armorEnchants = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A piece's share of a glyph is rounded to the nearest whole, as the game rounds it.",
+      statement: "A piece's share of a glyph is rounded down, as the game rounds it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A small armor piece carries 0.405 of a glyph, as its enchant text shows.",
     },
   ],
   createdAt: "2026-09-02T09:24:55.959Z",
-  updatedAt: "2026-10-19T23:20:41.742Z",
+  updatedAt: "2026-10-19T23:26:02.763Z",
 } as const satisfies Module

@@ -19,7 +19,7 @@ export const armorEnchants = enchantTable<ArmorEnchantId>("armor")
 
 function onPiece(effect: MetricEffect, share: number): MetricEffect {
   if (effect.effectType !== "integer") return effect
-  return { ...effect, effectValue: Math.round(effect.effectValue * share) }
+  return { ...effect, effectValue: Math.floor(effect.effectValue * share) }
 }
 
 export function getArmorEnchantmentEffects(armor: ArmorItem): readonly MetricEffect[] {

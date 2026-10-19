@@ -8,7 +8,7 @@ export const hands = {
   key: "hands",
   armorMultiplier: 4,
   validSlots: ["temper-armor-slot/hands"],
-  enchantmentMultiplier: 0.4045,
+  enchantmentMultiplier: 0.405,
   createdAt: "2026-09-02T01:56:49.742Z",
-  updatedAt: "2026-09-27T05:21:39.000Z",
+  updatedAt: "2026-10-19T23:26:02.763Z",
 } as const satisfies TemperArmorType
