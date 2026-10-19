@@ -114,6 +114,11 @@ test("what a directive on that page says is left alone", () => {
   expect(noCommandSpellingItsOwnCall(at(HUMMED_PAGE_AT, text))).toEqual([])
 })
 
+test("a spelling on that page is left alone", () => {
+  const text = 'export const one = { spellings: [{ spelling: "akasha humming deep-song" }] }\n'
+  expect(noCommandSpellingItsOwnCall(at(HUMMED_PAGE_AT, text))).toEqual([])
+})
+
 test("a test beside the code hands the call rather than spelling it", () => {
   const text = 'const GIVEN = { calledAs: "akasha humming deep-song" }\n'
   expect(noCommandSpellingItsOwnCall(at(HUMMED_TEST_AT, text))).toEqual([])

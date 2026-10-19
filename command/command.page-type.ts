@@ -201,7 +201,8 @@ export const command = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Outside its directives, a command's code and page spell no name of its own call.",
+      statement:
+        "Outside its directives and its spellings, a command's code and page spell no name of its own call.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -228,5 +229,5 @@ export const command = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-29T04:53:12.685Z",
-  updatedAt: "2026-10-19T14:18:51.946Z",
+  updatedAt: "2026-10-19T17:35:16.712Z",
 } as const satisfies PageType

@@ -5,6 +5,7 @@ export const change = {
   type: "page-type/namespace",
   slug: "change",
   definition: "the edits an agent keeps, and what becomes of them",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "akasha change" }],
   parts: [
     "command/change-apply",
     "command/change-drop",
@@ -33,5 +34,5 @@ export const change = {
     },
   ],
   createdAt: "2026-09-08T13:56:50.541Z",
-  updatedAt: "2026-09-24T15:54:16.000Z",
+  updatedAt: "2026-10-19T17:35:16.712Z",
 } as const satisfies Namespace

@@ -118,6 +118,8 @@
 {"propertySlug":"part-of-speech","path":"command/argument/argument.page-type.ts","id":"01a093fd-9102-76e8-958e-03d34cd41e25"}
 {"propertySlug":"part-of-speech","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}
 {"propertySlug":"part-of-speech","path":"command/namespace/namespace.page-type.ts","id":"01a06c7c-54b5-712b-b4a2-9ada10279dff"}
+{"propertySlug":"part-of-speech","path":"command/pages/change/change.namespace.ts","id":"01a0814e-a6ed-7570-b81f-ebad640d95f2"}
+{"propertySlug":"part-of-speech","path":"command/pages/read/read.command.ts","id":"01a04bec-10b4-7e86-aeae-ed252396f186"}
 {"propertySlug":"part-of-speech","path":"design/design.domain.ts","id":"01a05b55-a539-7a1c-9bdc-5a459722f028"}
 {"propertySlug":"part-of-speech","path":"design/game/achievement/achievement.page-type.ts","id":"01a06807-be66-7009-aef9-4834eb342f4f"}
 {"propertySlug":"part-of-speech","path":"design/game/drive/drive.page-type.ts","id":"01a06746-de46-7a10-980b-3134872d9f6b"}

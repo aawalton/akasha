@@ -40,6 +40,10 @@ export const noCommandSpellingItsOwnCall = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A spelling on that page is left alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A test beside that code hands the call rather than spelling it.",
     },
     {
@@ -52,5 +56,5 @@ export const noCommandSpellingItsOwnCall = {
     },
   ],
   createdAt: "2026-09-12T06:25:03.395Z",
-  updatedAt: "2026-09-15T17:45:04.000Z",
+  updatedAt: "2026-10-19T17:35:16.712Z",
 } as const satisfies SyntaxRule

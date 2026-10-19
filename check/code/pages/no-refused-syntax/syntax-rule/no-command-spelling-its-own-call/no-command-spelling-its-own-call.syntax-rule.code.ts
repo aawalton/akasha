@@ -17,6 +17,8 @@ const JUDGED = /(?:\.code\.tsx?|\.command\.ts)$/
 
 const DIRECTIVES = "directives"
 
+const SPELLINGS = "spellings"
+
 const PARTED = /[\s-]/
 
 const BETWEEN = "[\\s-]+"
@@ -43,13 +45,18 @@ export function directivesIn(node: ts.Node): boolean {
   return ts.isIdentifier(node.name) && node.name.text === DIRECTIVES
 }
 
+function spellingsIn(node: ts.Node): boolean {
+  if (!ts.isPropertyAssignment(node)) return false
+  return ts.isIdentifier(node.name) && node.name.text === SPELLINGS
+}
+
 export function noCommandSpellingItsOwnCall(standing: Given): readonly Refusal[] {
   const called = calledIn(standing.path)
   if (called === null) return []
   const spelling = spellingOf(called)
   const found: Refusal[] = []
   const visit = (node: ts.Node): undefined => {
-    if (directivesIn(node)) return
+    if (directivesIn(node) || spellingsIn(node)) return
     const text = literalPartIn(node)
     if (text !== null && spelling.test(text)) {
       found.push({

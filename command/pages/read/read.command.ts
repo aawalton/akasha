@@ -6,6 +6,7 @@ export const read = {
   slug: "read",
   definition:
     "the command returning each akasha file it is named, whole or as what changed since the agent read it",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "akasha read" }],
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -247,5 +248,5 @@ export const read = {
     },
   ],
   createdAt: "2026-08-29T05:09:17.108Z",
-  updatedAt: "2026-09-25T16:19:30.000Z",
+  updatedAt: "2026-10-19T17:35:16.712Z",
 } as const satisfies Command
