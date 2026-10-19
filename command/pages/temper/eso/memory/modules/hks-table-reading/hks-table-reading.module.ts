@@ -23,7 +23,16 @@ export const hksTableReading = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A table keeps where its entries start 32 bytes in and where they end 56 bytes in.",
+        "A table keeps its entries' mask 28 bytes in, its entries 32 bytes in, and its array 40 bytes in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A table has one entry more than its mask and keeps its array's length 48 bytes in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An array holds values alone, sixteen bytes each, the first under the key 1.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -39,5 +48,5 @@ export const hksTableReading = {
     },
   ],
   createdAt: "2026-10-19T18:45:12.644Z",
-  updatedAt: "2026-10-19T18:45:12.644Z",
+  updatedAt: "2026-10-19T18:46:33.505Z",
 } as const satisfies Module
