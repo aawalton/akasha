@@ -32,6 +32,7 @@ import type { CharacterState } from "akasha/temper/player/character/build/module
 import { loadSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts"
 import { buildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
+import { extractSets } from "akasha/temper/player/character/stat/modules/extract-sets/extract-sets.module.code.ts"
 import { loadMetricCatalog } from "akasha/temper/player/character/stat/modules/metric-catalog-loading/metric-catalog-loading.module.code.ts"
 import { estimatedOf } from "akasha/temper/player/character/stat/modules/stat-case/stat-case.module.code.ts"
 import { readings } from "akasha/temper/player/character/temper-account-character/properties/readings.file-property.ts"
@@ -121,21 +122,13 @@ function headerOf(line: ReadingLine): string {
 }
 
 function setsOn(build: CharacterState, bar: WeaponBar): string {
-  const { equipment } = build
-  const items = [
-    ...Object.values(equipment.armor),
-    ...Object.values(equipment.jewelry),
-    equipment[bar]["main-hand"],
-    equipment[bar]["off-hand"],
-  ]
-  const counts = new Map<string, number>()
-  for (const one of items) {
-    if (one.data === null) continue
-    const set = String(one.data.set)
-    if (set === "" || set.startsWith("no-")) continue
-    counts.set(set, (counts.get(set) ?? 0) + 1)
-  }
-  return [...counts].map(([set, many]) => `${set} ${String(many)}`).join(", ")
+  return extractSets(build, { bar })
+    .flatMap((source) =>
+      source.categoryId === "sets" && "setId" in source && "pieceCount" in source
+        ? [`${String(source.setId)} ${String(source.pieceCount)}`]
+        : []
+    )
+    .join(", ")
 }
 
 function curseLines(build: CharacterState | null): readonly string[] {
