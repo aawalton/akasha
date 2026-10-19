@@ -10,6 +10,7 @@ export const bloodyRenewal = {
   championConstellation: "fitness",
   isSlottable: true,
   hashPlace: 54,
+  jumpPoints: [0, 10, 20, 30, 40, 50],
   createdAt: "2026-09-27T05:00:00.921Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:56:27.711Z",
 } as const satisfies TemperChampionStar
