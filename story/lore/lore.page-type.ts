@@ -5,6 +5,7 @@ export const lore = {
   type: "page-type/page-type",
   slug: "lore",
   definition: "a truth about a world",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "lore" }],
   pluralSlug: "lore",
   extends: ["page-type/page"],
   parts: [
@@ -64,5 +65,5 @@ export const lore = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-24T15:49:25.214Z",
-  updatedAt: "2026-09-30T18:01:26.000Z",
+  updatedAt: "2026-10-19T17:51:02.468Z",
 } as const satisfies PageType

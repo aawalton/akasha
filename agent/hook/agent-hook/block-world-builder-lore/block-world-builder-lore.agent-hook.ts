@@ -4,7 +4,7 @@ export const blockWorldBuilderLore = {
   id: "01a0d48d-4190-7704-af85-12a49bf3e2d4",
   type: "page-type/agent-hook",
   slug: "block-world-builder-lore",
-  definition: "a refusal of a game master's call reaching lore the world builder holds",
+  definition: "a refusal of a call that reads secret lore",
   code: "ts",
   test: "ts",
   runsAt: ["PreToolUse"],
@@ -56,5 +56,5 @@ export const blockWorldBuilderLore = {
     },
   ],
   createdAt: "2026-09-24T17:53:42.288Z",
-  updatedAt: "2026-09-25T22:02:30.000Z",
+  updatedAt: "2026-10-19T17:51:02.468Z",
 } as const satisfies AgentHook

@@ -281,6 +281,7 @@
 {"propertySlug":"part-of-speech","path":"product/kofi/contributor/contributor.page-type.ts","id":"01a0ba90-5086-7a55-b63d-5bf48f551250"}
 {"propertySlug":"part-of-speech","path":"product/product.domain.ts","id":"01a0826b-97bb-7e70-8730-ba2745b92e2b"}
 {"propertySlug":"part-of-speech","path":"story/chapter/step-status/step-status.page-type.ts","id":"01a0deac-97e0-7cd7-8396-354e0fe020ad"}
+{"propertySlug":"part-of-speech","path":"story/lore/lore.page-type.ts","id":"01a0d41b-785e-7bb8-b6fd-3c32ff5a377a"}
 {"propertySlug":"part-of-speech","path":"story/recorder/story-recorder.page-type.ts","id":"01a0e054-324d-793a-8ecd-433ed00e9de5"}
 {"propertySlug":"part-of-speech","path":"story/reviewer/story-reviewer.page-type.ts","id":"01a0deb0-2f42-79ab-8969-52d0e5afcb0c"}
 {"propertySlug":"part-of-speech","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
