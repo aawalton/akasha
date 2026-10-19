@@ -28358,38 +28358,38 @@
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "stats": {
+        "penetration-spell": 3460,
         "resistance-critical": 1320,
+        "stamina-recovery": 514,
+        "health-maximum": 21472,
         "critical-rating-weapon": 4810,
         "resistance-physical": 5059,
-        "penetration-spell": 3460,
-        "stamina-recovery": 514,
-        "magicka-maximum": 36480,
-        "magicka-recovery": 524,
-        "stamina-maximum": 12240,
-        "critical-rating-spell": 4810,
-        "resistance-spell": 5059,
         "health-recovery": 814,
-        "power-weapon": 1129,
+        "magicka-recovery": 524,
         "power-spell": 1129,
+        "power-weapon": 1129,
         "penetration-physical": 3460,
-        "health-maximum": 21472
+        "magicka-maximum": 36480,
+        "resistance-spell": 5059,
+        "critical-rating-spell": 4810,
+        "stamina-maximum": 12240
       },
       "unbonusedStats": {
+        "penetration-spell": 0,
         "resistance-critical": 0,
+        "stamina-recovery": 514,
+        "health-maximum": 21472,
         "critical-rating-weapon": 2181,
         "resistance-physical": 0,
-        "penetration-spell": 0,
-        "stamina-recovery": 514,
-        "magicka-maximum": 36480,
-        "magicka-recovery": 524,
-        "stamina-maximum": 12240,
-        "critical-rating-spell": 2181,
-        "resistance-spell": 0,
         "health-recovery": 814,
-        "power-weapon": 1000,
+        "magicka-recovery": 524,
         "power-spell": 1000,
+        "power-weapon": 1000,
         "penetration-physical": 0,
-        "health-maximum": 21472
+        "magicka-maximum": 36480,
+        "resistance-spell": 0,
+        "critical-rating-spell": 2181,
+        "stamina-maximum": 12240
       },
       "activeBuffs": [
         {
@@ -28496,8 +28496,8 @@
       "advanced": {
         "healing-critical-bonus": 0,
         "critical-damage": 0,
-        "healing-taken-base": 0,
-        "healing-done-base": 0
+        "healing-done-base": 0,
+        "healing-taken-base": 0
       }
     },
     "backBar": {
@@ -28505,38 +28505,38 @@
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "stats": {
+        "penetration-spell": 0,
         "resistance-critical": 1320,
+        "stamina-recovery": 514,
+        "health-maximum": 21051,
         "critical-rating-weapon": 2181,
         "resistance-physical": 0,
-        "penetration-spell": 0,
-        "stamina-recovery": 514,
-        "magicka-maximum": 27567,
-        "magicka-recovery": 514,
-        "stamina-maximum": 12000,
-        "critical-rating-spell": 2181,
-        "resistance-spell": 0,
         "health-recovery": 814,
-        "power-weapon": 1000,
+        "magicka-recovery": 514,
         "power-spell": 1000,
+        "power-weapon": 1000,
         "penetration-physical": 0,
-        "health-maximum": 21051
+        "magicka-maximum": 27567,
+        "resistance-spell": 0,
+        "critical-rating-spell": 2181,
+        "stamina-maximum": 12000
       },
       "unbonusedStats": {
+        "penetration-spell": 0,
         "resistance-critical": 0,
+        "stamina-recovery": 514,
+        "health-maximum": 21051,
         "critical-rating-weapon": 2181,
         "resistance-physical": 0,
-        "penetration-spell": 0,
-        "stamina-recovery": 514,
-        "magicka-maximum": 27567,
-        "magicka-recovery": 514,
-        "stamina-maximum": 12000,
-        "critical-rating-spell": 2181,
-        "resistance-spell": 0,
         "health-recovery": 814,
-        "power-weapon": 1000,
+        "magicka-recovery": 514,
         "power-spell": 1000,
+        "power-weapon": 1000,
         "penetration-physical": 0,
-        "health-maximum": 21051
+        "magicka-maximum": 27567,
+        "resistance-spell": 0,
+        "critical-rating-spell": 2181,
+        "stamina-maximum": 12000
       },
       "activeBuffs": [
         {
@@ -28578,8 +28578,8 @@
       "advanced": {
         "healing-critical-bonus": 0,
         "critical-damage": 0,
-        "healing-taken-base": 0,
-        "healing-done-base": 0
+        "healing-done-base": 0,
+        "healing-taken-base": 0
       }
     }
   },
