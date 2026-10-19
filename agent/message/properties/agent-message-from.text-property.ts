@@ -5,7 +5,7 @@ export const agentMessageFrom = {
   type: "page-type/text-property",
   slug: "agent-message-from",
   propertySlug: "from",
-  definition: "who a message says sent it",
+  definition: "the sender of a message",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [
@@ -25,5 +25,5 @@ export const agentMessageFrom = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:26:42.683Z",
-  updatedAt: "2026-09-25T13:56:36.000Z",
+  updatedAt: "2026-10-19T18:25:04.141Z",
 } as const satisfies TextProperty
