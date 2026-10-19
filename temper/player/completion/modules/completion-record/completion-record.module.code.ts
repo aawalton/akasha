@@ -194,6 +194,7 @@ const archiveBoonSchema = z.strictObject({
 
 const reportedStatsReadingSchema = z.strictObject({
   capturedAt: z.number(),
+  esoVersion: z.string().optional(),
   inCombat: z.boolean(),
   stats: z.record(z.string(), z.number()),
   unbonusedStats: z.record(z.string(), z.number()).optional(),

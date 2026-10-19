@@ -38,6 +38,10 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A reading keeps the version string the game gave when it was taken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reading keeps the points spent on each champion star and the most it takes.",
     },
     {
@@ -94,5 +98,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-19T19:46:18.187Z",
+  updatedAt: "2026-10-19T19:55:17.477Z",
 } as const satisfies Module

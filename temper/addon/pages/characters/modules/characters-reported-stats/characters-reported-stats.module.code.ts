@@ -261,6 +261,7 @@ export function captureReportedStats(): undefined {
   }
   const reading = {
     capturedAt: GetTimeStamp(),
+    esoVersion: GetESOVersionString(),
     inCombat: IsUnitInCombat("player"),
     stats,
     unbonusedStats,
