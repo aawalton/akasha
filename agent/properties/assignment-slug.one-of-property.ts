@@ -5,7 +5,7 @@ export const assignmentSlug = {
   type: "page-type/one-of-property",
   slug: "assignment-slug",
   propertySlug: "assignment-slug",
-  definition: "the domain, initiative, story or world whose work a seat answers to",
+  definition: "the page a seat works for",
   members: [
     "relation-property/page-domain",
     "relation-property/initiative",
@@ -36,5 +36,5 @@ export const assignmentSlug = {
   ],
   types: "ts",
   createdAt: "2026-08-30T17:06:14.375Z",
-  updatedAt: "2026-10-08T19:01:26.352Z",
+  updatedAt: "2026-10-19T19:37:40.847Z",
 } as const satisfies OneOfProperty
