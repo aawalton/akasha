@@ -63,6 +63,7 @@ export const modelGateway = {
     "module/subagent-stops",
     "module/transport-log",
     "domain/fast-mode",
+    "domain/tool-choice",
   ],
   decisions: [
     {
@@ -109,5 +110,5 @@ export const modelGateway = {
     },
   ],
   createdAt: "2026-09-02T12:45:49.889Z",
-  updatedAt: "2026-10-19T19:12:07.405Z",
+  updatedAt: "2026-10-19T19:14:40.484Z",
 } as const satisfies Domain
