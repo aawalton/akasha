@@ -7,8 +7,8 @@ export const theFallAndRiseOfChina = {
   title: "The Fall and Rise of China",
   status: "in-progress",
   unit: "unit/minutes",
-  ownLength: 1445.4,
-  ownProgress: 60.225,
+  ownLength: 1445.62,
+  ownProgress: 90.15,
   partOfCollections: [
     "great-courses-collection/all-great-courses",
     "great-courses-subject/history-great-courses",
@@ -21,5 +21,6 @@ export const theFallAndRiseOfChina = {
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-10-18T21:07:43.678Z",
+  updatedAt: "2026-10-19T19:56:38.454Z",
+  progressedAt: "2026-10-19T19:56:38.454Z",
 } as const satisfies GreatCourse
