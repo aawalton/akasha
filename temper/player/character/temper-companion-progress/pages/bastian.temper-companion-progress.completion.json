@@ -1,6 +1,5 @@
 {
   "build": {
-    "companionId": 1,
     "jewelry": {
       "1": {
         "displayText": "Vigorous",
@@ -30,6 +29,7 @@
         "isEmpty": false
       }
     },
+    "mainHandWeaponType": 2,
     "hash": "AjEIFzHMcxzHMcxzExMTBzGzCkyGMhFg",
     "armor": {
       "1": {
@@ -116,7 +116,6 @@
         "isEmpty": false
       }
     },
-    "mainHandWeaponType": 2,
     "skillAbilityIds": {
       "1": 155355,
       "2": 154926,
@@ -124,7 +123,8 @@
       "4": 153851,
       "5": 156340,
       "6": 157016
-    }
+    },
+    "companionId": 1
   },
   "targetBuildHash": "AjEAFzHMcxzHMcxzExMTBzGzCnLWMtlg",
   "level": 20,
