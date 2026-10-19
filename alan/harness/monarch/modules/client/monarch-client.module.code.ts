@@ -62,12 +62,19 @@ export interface MonarchTransaction {
   readonly isRecurring: boolean
   readonly needsReview: boolean
   readonly isSplitTransaction: boolean
+  readonly original: MonarchOriginal | null
   readonly notes: string | null
   readonly account: MonarchNamed | null
   readonly category: MonarchNamed | null
   readonly merchant: MonarchNamed | null
   readonly tags: readonly MonarchTag[]
   readonly raw: unknown
+}
+
+interface MonarchOriginal {
+  readonly id: string
+  readonly amount: number
+  readonly date: string
 }
 
 export interface MonarchStamp {
@@ -116,6 +123,7 @@ const TRANSACTIONS_QUERY = `query GetTransactionsList($offset: Int, $limit: Int,
     results(offset: $offset, limit: $limit, orderBy: $orderBy) {
       id amount pending date plaidName notes isRecurring
       reviewStatus needsReview isSplitTransaction createdAt updatedAt
+      originalTransaction { id amount date }
       category { id name }
       merchant { name id transactionsCount }
       account { id name: displayName }
@@ -205,6 +213,14 @@ function readTransaction(value: unknown, path: string): MonarchTransaction {
     isRecurring: bool(o.isRecurring, `${path}.isRecurring`),
     needsReview: bool(o.needsReview, `${path}.needsReview`),
     isSplitTransaction: bool(o.isSplitTransaction, `${path}.isSplitTransaction`),
+    original: optional(o.originalTransaction ?? null, `${path}.originalTransaction`, (v, p) => {
+      const was = object(v, p)
+      return {
+        id: str(was.id, `${p}.id`),
+        amount: num(was.amount, `${p}.amount`),
+        date: str(was.date, `${p}.date`),
+      }
+    }),
     notes: optional(o.notes, `${path}.notes`, str),
     account: readNamed(o.account ?? null, `${path}.account`),
     category: readNamed(o.category ?? null, `${path}.category`),
