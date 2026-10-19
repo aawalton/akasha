@@ -19,7 +19,7 @@ const WRITER = "Great Courses sync <amy@alanwalton.com>"
 
 type Held = { readonly values: Readonly<Record<string, unknown>> }
 
-export type Relinked = {
+type Relinked = {
   readonly slug: string
   readonly externalIdentity: readonly { readonly source: string }[]
 }
