@@ -5,8 +5,8 @@ export const accessTokenExpiresAt = {
   type: "page-type/instant-property",
   slug: "access-token-expires-at",
   propertySlug: "access-token-expires-at",
-  definition: "when the access token stops being accepted",
+  definition: "the last time an access token works",
   types: "ts",
   createdAt: "2026-08-30T22:44:04.537Z",
-  updatedAt: "2026-09-15T17:15:46.000Z",
+  updatedAt: "2026-10-19T18:38:12.601Z",
 } as const satisfies InstantProperty
