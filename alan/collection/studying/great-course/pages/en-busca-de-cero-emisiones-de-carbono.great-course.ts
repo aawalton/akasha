@@ -7,8 +7,8 @@ export const enBuscaDeCeroEmisionesDeCarbono = {
   title: "En Busca de Cero Emisiones de Carbono",
   status: "not-started",
   unit: "unit/minutes",
-  ownLength: 1,
-  ownProgress: 0,
+  ownLength: 68.53,
+  ownProgress: 68.53,
   partOfCollections: [
     "great-courses-collection/all-great-courses",
     "great-courses-subject/science-great-courses",
@@ -21,5 +21,6 @@ export const enBuscaDeCeroEmisionesDeCarbono = {
     },
   ],
   createdAt: "2026-04-22T12:39:34.023Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-19T20:13:43.470Z",
+  progressedAt: "2026-10-19T20:13:43.470Z",
 } as const satisfies GreatCourse
