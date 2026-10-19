@@ -31,6 +31,8 @@ const ICON_FILE = "icon.png"
 
 const COURSE_PAGES = "https://plus.thegreatcourses.com/*"
 
+const PASSED = "passed-over"
+
 export const ICON =
   "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAACEFBMVEUAAAAACCgACDAACCgACCsACC0ACS0ABywABSoACS0ACSwACS0ACS0ACS0ACS0ACS0ACi0ACiwACCwACS0ACS4ACS0ACS0ACS0ACS0AECAACS0ACi0ABSoACSwACS0ACS0ACS0ACS0AEDAACS0ACS0ACyoACSwACCoABysACC0ACDAACS0ACS0ACC0ACSwACC0ABTAACC0ACCwACS0IDSwKDywnICqQXSEVFSsMECzUhRzKfxwlHyoECy3GfR3+nRjRgxwfGyoGDSzLgBz/nhi8dx0OESwYFyvdihv+nhiBVCJDMCjxlhnylhkyJymUXyGhZyAHDSwpICnvlRnqkhomHyqjaB9WOyY+Lij5mxh2TiMBCi0eGioREywQEizDex16UCMFDC1ONiaBVCMLDyxiQiVkQyV8USPulBk9LSjMgBzzlhkuJCmFVyIUFCtMNSb9nRisbR8CCi1oRiT6mxibYyCOXCHylxk6KygpISnfixoBCS21cx6HWCIEDC2DViJvSiS6dh7VhhsNECx1TSOtbh/0mBlONyfSgxyXYSGEViKmah8WFivPghzAeh0PEixKNCffixsGDC0wJSkaGCt5UCNMNSfYhxsiHSoGDS14TyPzlxngjBszJykcGSvaiBuRXSFROCbXhxv4mhmycR5VOiZUOiZTOSalaR/kjhr5mhhFMicrIilPNyZBLycDCy0KozkrAAAAM3RSTlMAAAACEBoYEAIWRIO1ydPRhUICEmzP+f1wAkxCCIP3+4eTAmyFAhAaGBACREIWTEIIEhYdionRAAACIUlEQVQ4y3WT91cTQRDHF1LhSjTHXSIhlVhRQMYoAjGWUSyg2MUIEht2MXajomLvihV77/ov+rbh3eMxP+3O53t7Uwmxm8vt8fr8ZByrqFRUTQ9o6oSJFWNp0KgyLaA2JwMhM2yUOfmkahOEzZ3XDAB6xMFrojHJYX5LaxsAxBM1Np60RjlkF+QWLgIAK/lfkbBxWLwEc0uXUYWS4rgsErdxaF+OuGJlFgBi1UEmMHQ7h1UdiNi5mh5NgwnCDg5rkFrXWnquZfUxHXzdeibYsJE9QSsWCTkEm3JMgJvpxaokhKQdfEs357iVXaOETFZHYX5bT+92wbGPuVQXmaJJXtixc9duyXEP82lu4g1IQf/efc37JT9wkPn0qcQjqlA4hK2HjwxIwdEM8wamken8F8Vjx/FE8aTkp07zzzQfmcGDPHMWsa90TgrOX+AC1U+IQg+lQUS8WLwk+OVeEVeaEFJHWzlE07sCVzm/dl3w0ExZ6vYbiHizdIsLbsvEzFm0GVUAcOcuIt67/4DV+WGbFIR5u02AR/TxjuHHLYg48CQvuM7bHayPATztpLEX+hHx2XPB4w3lfKRSigUvRl4ivnr95i3iO/GAlXAMbfb9h4/4qedzN34RPNloG+tEHGDo67fvXZmRHz8ZjymNjs1oYC3J/hqG339YgvUp52qVG2GTj1b+L1hm7ezg2PVsiqRVLaBrarSuabwF9/u8HrfL4foHqMy3XDSUSYoAAAAASUVORK5CYII="
 
@@ -58,7 +60,7 @@ export type Asked =
       readonly lengthMinutes: number
       readonly progressMinutes: number
     }
-  | { readonly kind: "onward"; readonly path: string }
+  | { readonly kind: "onward"; readonly path: string; readonly passed: boolean }
 
 export type Answered = {
   readonly watching: boolean
@@ -69,6 +71,8 @@ export type Answered = {
 }
 
 type Watching = { readonly tabId: number; readonly id: string; readonly link: string }
+
+type Passed = { readonly day: string; readonly ids: readonly string[] }
 
 function lastOf(path: string): string {
   return (
@@ -105,8 +109,25 @@ async function rows(): Promise<readonly Row[]> {
   return body.rows ?? []
 }
 
-async function queue(skipping: string | null): Promise<readonly Queued[]> {
-  return queuedFrom(await rows(), new Date()).filter((one) => one.id !== skipping)
+function today(): string {
+  return new Date().toLocaleDateString("en-CA")
+}
+
+async function passedIn(chrome: Chrome): Promise<readonly string[]> {
+  const kept = (await chrome.storage.local.get(PASSED))[PASSED] as Passed | undefined
+  return kept?.day === today() ? kept.ids : []
+}
+
+async function passedOver(chrome: Chrome, id: string): Promise<undefined> {
+  const passed: Passed = { day: today(), ids: [...(await passedIn(chrome)), id] }
+  await chrome.storage.local.set({ [PASSED]: passed })
+}
+
+async function queue(chrome: Chrome, skipping: string | null): Promise<readonly Queued[]> {
+  const passed = await passedIn(chrome)
+  return queuedFrom(await rows(), new Date()).filter(
+    (one) => one.id !== skipping && !passed.includes(one.id)
+  )
 }
 
 async function wrote(id: string, lengthMinutes: number, progressMinutes: number) {
@@ -149,7 +170,7 @@ async function opened(chrome: Chrome, tabId: number | null, next: Queued): Promi
 
 async function begun(chrome: Chrome): Promise<undefined> {
   try {
-    const first = (await queue(null))[0]
+    const first = (await queue(chrome, null))[0]
     if (first === undefined) return await badged(chrome, "✓", "Done for today")
     await badged(chrome, "", READY)
     await opened(chrome, null, first)
@@ -158,8 +179,9 @@ async function begun(chrome: Chrome): Promise<undefined> {
   }
 }
 
-async function onward(chrome: Chrome, watching: Watching): Promise<string | null> {
-  const next = (await queue(watching.id))[0]
+async function onward(chrome: Chrome, watching: Watching, passed: boolean): Promise<string | null> {
+  if (passed) await passedOver(chrome, watching.id)
+  const next = (await queue(chrome, watching.id))[0]
   if (next !== undefined) {
     await opened(chrome, watching.tabId, next)
     return next.title
@@ -196,7 +218,7 @@ async function answered(
       return { ...said, why: await wrote(id, asked.lengthMinutes, asked.progressMinutes) }
     }
     if (watching === null) return said
-    return { ...said, next: await onward(chrome, watching) }
+    return { ...said, next: await onward(chrome, watching, asked.passed) }
   } catch (thrown) {
     return { ...said, why: saidBy(thrown) }
   }

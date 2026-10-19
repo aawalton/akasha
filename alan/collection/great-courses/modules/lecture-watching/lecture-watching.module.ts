@@ -23,7 +23,7 @@ export const lectureWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A tracked page the extension cannot read says so.",
+      statement: "A tracked page listing no lecture to play says so and moves on.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -71,5 +71,5 @@ export const lectureWatching = {
     },
   ],
   createdAt: "2026-10-18T17:31:07.469Z",
-  updatedAt: "2026-10-19T19:01:23.245Z",
+  updatedAt: "2026-10-19T20:20:08.905Z",
 } as const satisfies Module

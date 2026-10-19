@@ -147,9 +147,9 @@ export function recordedSaid(course: Course): string {
   return `Recorded ${course.lecturesWatched} / ${course.lectures} lectures.`
 }
 
-async function goneOn(ask: (asked: Asked) => Promise<Answered>, said: string) {
+async function goneOn(ask: (asked: Asked) => Promise<Answered>, said: string, passed: boolean) {
   const panel = panelOf(`${said} Opening the next course…`)
-  const answer = await ask({ kind: "onward", path: location.pathname })
+  const answer = await ask({ kind: "onward", path: location.pathname, passed })
   if (answer.next !== null) return
   panel.textContent = answer.why ?? "Done for today — every course has had its lecture."
 }
@@ -168,7 +168,7 @@ async function recorded(
     panelOf(`This lecture was not recorded: ${answer.why}`)
     return
   }
-  await goneOn(ask, recordedSaid(course))
+  await goneOn(ask, recordedSaid(course), false)
 }
 
 async function watched(
@@ -203,7 +203,7 @@ async function begun(ask: (asked: Asked) => Promise<Answered>): Promise<undefine
   const lectures = lecturesHere()
   if (lectures.length === 0) {
     if (answer.watching) {
-      panelOf("Watching stopped: this page lists no lectures the extension can read.")
+      await goneOn(ask, "This course lists no lecture the extension can play.", true)
     }
     return
   }

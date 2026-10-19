@@ -58,9 +58,13 @@ export const greatCoursesWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A course listing no lecture to play is passed over for the rest of the day.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every read and write of a course page goes through alanwalton.com as Alan.",
     },
   ],
   createdAt: "2026-10-18T17:31:07.469Z",
-  updatedAt: "2026-10-19T20:00:30.489Z",
+  updatedAt: "2026-10-19T20:20:08.905Z",
 } as const satisfies BrowserExtension
