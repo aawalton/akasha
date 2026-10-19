@@ -11,6 +11,7 @@ export const herosVigor = {
   isSlottable: false,
   effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 560 }],
   hashPlace: 32,
+  jumpPoints: [0, 10, 20],
   createdAt: "2026-09-27T05:00:00.922Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:56:52.893Z",
 } as const satisfies TemperChampionStar
