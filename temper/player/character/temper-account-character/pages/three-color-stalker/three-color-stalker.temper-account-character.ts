@@ -9,8 +9,10 @@ export const threeColorStalker = {
   completion: "json",
   esoCharacterId: "8796093022613905",
   accountPage: "temper-account/alanarre",
+  race: "temper-race/khajiit",
+  class: "temper-class/nightblade",
   firstName: "Three-Color",
   readings: "jsonl",
   createdAt: "2026-04-29T16:44:24.627Z",
-  updatedAt: "2026-10-19T19:18:46.972Z",
+  updatedAt: "2026-10-19T23:12:44.380Z",
 } as const satisfies TemperAccountCharacter

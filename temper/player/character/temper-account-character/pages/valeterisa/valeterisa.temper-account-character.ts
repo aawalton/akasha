@@ -9,8 +9,10 @@ export const valeterisa = {
   completion: "json",
   esoCharacterId: "8796093025191233",
   accountPage: "temper-account/alanarre",
+  race: "temper-race/breton",
+  class: "temper-class/sorcerer",
   firstName: "Valeterisa",
   readings: "jsonl",
   createdAt: "2026-04-29T16:44:17.279Z",
-  updatedAt: "2026-10-19T19:18:44.611Z",
+  updatedAt: "2026-10-19T23:12:44.380Z",
 } as const satisfies TemperAccountCharacter

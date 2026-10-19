@@ -9,8 +9,10 @@ export const theQuarass = {
   completion: "json",
   esoCharacterId: "8796093041077793",
   accountPage: "temper-account/alanarre",
+  race: "temper-race/redguard",
+  class: "temper-class/nightblade",
   firstName: "The Quarass",
   readings: "jsonl",
   createdAt: "2026-04-29T16:44:21.664Z",
-  updatedAt: "2026-10-19T19:18:43.115Z",
+  updatedAt: "2026-10-19T23:12:44.380Z",
 } as const satisfies TemperAccountCharacter

@@ -8,6 +8,8 @@ export const temperAccountCharacter = {
   extends: ["page-type/temper-character-thing"],
   parts: [
     "multi-relation-property/character-roles",
+    "relation-property/character-race",
+    "relation-property/character-class",
     "text-property/first-name",
     "text-property/live-build-id",
     "file-property/fights",
@@ -17,6 +19,8 @@ export const temperAccountCharacter = {
   properties: [
     { pageProperty: "text-property/eso-character-id", required: true, many: false },
     { pageProperty: "relation-property/account-page", required: true, many: false },
+    { pageProperty: "relation-property/character-race", required: true, many: false },
+    { pageProperty: "relation-property/character-class", required: true, many: false },
     { pageProperty: "text-property/first-name", required: false, many: false },
     { pageProperty: "text-property/live-build-id", required: false, many: false },
     {
@@ -33,9 +37,13 @@ export const temperAccountCharacter = {
       decisionKind: "decision-kind/departure",
       statement: "A character is named by the account the character was rolled on.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character's race and class are the race and class its latest capture names.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T01:48:48.327Z",
-  updatedAt: "2026-10-19T19:04:58.943Z",
+  updatedAt: "2026-10-19T23:12:44.380Z",
 } as const satisfies PageType

@@ -1,3 +1,5 @@
+import type { CharacterClass } from "akasha/temper/player/character/temper-account-character/properties/character-class.relation-property.types.ts"
+import type { CharacterRace } from "akasha/temper/player/character/temper-account-character/properties/character-race.relation-property.types.ts"
 import type { CharacterRoles } from "akasha/temper/player/character/temper-account-character/properties/character-roles.multi-relation-property.types.ts"
 import type { Fights } from "akasha/temper/player/character/temper-account-character/properties/fights.file-property.types.ts"
 import type { FirstName } from "akasha/temper/player/character/temper-account-character/properties/first-name.text-property.types.ts"
@@ -10,6 +12,8 @@ import type { EsoCharacterId } from "akasha/temper/thing/properties/eso-characte
 export type TemperAccountCharacter = TemperCharacterThing & {
   esoCharacterId: EsoCharacterId
   accountPage: AccountPage
+  race: CharacterRace
+  class: CharacterClass
   firstName?: FirstName
   liveBuildId?: LiveBuildId
   roles?: CharacterRoles

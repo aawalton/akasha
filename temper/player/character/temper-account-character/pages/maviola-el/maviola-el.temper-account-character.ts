@@ -9,9 +9,11 @@ export const maviolaEl = {
   completion: "json",
   esoCharacterId: "8796093024330045",
   accountPage: "temper-account/alanarre",
+  race: "temper-race/breton",
+  class: "temper-class/dragonknight",
   firstName: "Maviola",
   fights: "jsonl",
   readings: "jsonl",
   createdAt: "2026-04-29T16:44:19.452Z",
-  updatedAt: "2026-10-19T19:18:54.445Z",
+  updatedAt: "2026-10-19T23:12:44.380Z",
 } as const satisfies TemperAccountCharacter

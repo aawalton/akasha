@@ -9,9 +9,11 @@ export const kheltaTheEternal = {
   completion: "json",
   esoCharacterId: "8796093063486855",
   accountPage: "temper-account/alanarre",
+  race: "temper-race/imperial",
+  class: "temper-class/necromancer",
   firstName: "Khelta",
   fights: "jsonl",
   readings: "jsonl",
   createdAt: "2026-04-29T16:44:20.194Z",
-  updatedAt: "2026-10-19T19:18:49.169Z",
+  updatedAt: "2026-10-19T23:12:44.380Z",
 } as const satisfies TemperAccountCharacter

@@ -289,6 +289,8 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/character/companion-build/version/properties/companion-build-version-build.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/character/source/temper-attribute/properties/source-effect-metric.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/character/source/temper-base-stat/properties/base-stat-metric.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/character/temper-account-character/properties/character-class.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/character/temper-account-character/properties/character-race.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/currency-key.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/holdings/temper-item-category-tree/properties/item-category-parent.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/holdings/temper-sale/properties/sale-guild.relation-property.ts","typed":true,"deferred":false}
