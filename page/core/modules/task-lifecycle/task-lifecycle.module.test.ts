@@ -174,6 +174,21 @@ test("taking a completion back clears the key that said it was done", () => {
   })
 })
 
+test("a shopping item marked bought is stamped with the instant of the marking alone", () => {
+  const shape = completionShapeAlong(["shopping-item", "page"])
+  if (shape === null) throw new Error("no completion shape names `shopping-item`")
+  expect(completionValues(shape, {}, AT)).toEqual({ boughtAt: "2026-09-06T22:00:00.000Z" })
+  expect(uncompletionValues(shape)).toEqual({ boughtAt: null })
+})
+
+test("a shopping item reads as bought only where it carries the key saying so", () => {
+  const shape = completionShapeAlong(["shopping-item", "page"])
+  if (shape === null) throw new Error("no completion shape names `shopping-item`")
+  expect(readsAsDone(shape, { boughtAt: "2026-09-06T22:00:00.000Z" })).toBe(true)
+  expect(readsAsDone(shape, {})).toBe(false)
+  expect(readFraction(shape, { boughtAt: "2026-09-06T22:00:00.000Z" })).toBeNull()
+})
+
 test("an anchor written as the text true is read as true", () => {
   const shape = shapeFor("temper-task")
   expect(anchorFor(shape, { dueDate: "2026-08-01", rruleAnchorFromCompletion: "true" }, AT)).toBe(

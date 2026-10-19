@@ -57,7 +57,12 @@ export const taskLifecycle = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A to-do, a temper task and a collection each have a completion shape.",
+      statement:
+        "A to-do, a temper task, a collection and a shopping item each have a completion shape.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shopping item marked bought has the instant of the marking and nothing else.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -107,5 +112,5 @@ export const taskLifecycle = {
     },
   ],
   createdAt: "2026-09-01T06:05:33.511Z",
-  updatedAt: "2026-10-02T15:16:49.000Z",
+  updatedAt: "2026-10-19T13:06:13.663Z",
 } as const satisfies Module

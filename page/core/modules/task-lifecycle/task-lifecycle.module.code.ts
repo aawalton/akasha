@@ -22,7 +22,12 @@ type CollectionShape = {
   readonly doneKey: string
 }
 
-export type CompletionShape = TaskShape | CollectionShape
+type MarkShape = {
+  readonly kind: "mark"
+  readonly doneKey: string
+}
+
+export type CompletionShape = TaskShape | CollectionShape | MarkShape
 
 export const COLLECTION_SHAPE: CollectionShape = {
   kind: "collection",
@@ -49,6 +54,7 @@ const COMPLETION_SHAPES: Readonly<Record<string, CompletionShape>> = {
     doneKey: "completedAt",
   },
   collection: COLLECTION_SHAPE,
+  "shopping-item": { kind: "mark", doneKey: "boughtAt" },
 }
 
 export function completionShapeAlong(chain: readonly string[]): CompletionShape | null {
@@ -127,6 +133,7 @@ export function completionValues(
   nowMs: number = atMs
 ): Readonly<Record<string, string | number>> {
   if (shape.kind === "collection") return collectionCompletionValues(shape, values, atMs)
+  if (shape.kind === "mark") return { [shape.doneKey]: new Date(atMs).toISOString() }
   return taskCompletionValues(shape, values, atMs, nowMs)
 }
 
@@ -134,18 +141,19 @@ export function uncompletionValues(
   shape: CompletionShape
 ): Readonly<Record<string, null | number>> {
   if (shape.kind === "collection") return { [shape.doneKey]: null, [shape.progressKey]: 0 }
+  if (shape.kind === "mark") return { [shape.doneKey]: null }
   return { [shape.stampKey]: null, [shape.doneKey]: null }
 }
 
 export function readsAsDone(shape: CompletionShape, values: TaskValues): boolean {
-  if (shape.kind === "task") return textAt(values, shape.doneKey) !== null
+  if (shape.kind !== "collection") return textAt(values, shape.doneKey) !== null
   const length = asNumber(values[shape.lengthKey])
   if (length === null) return textAt(values, shape.doneKey) !== null
   return (asNumber(values[shape.progressKey]) ?? 0) >= length
 }
 
 export function readFraction(shape: CompletionShape, values: TaskValues): number | null {
-  if (shape.kind === "task") return null
+  if (shape.kind !== "collection") return null
   const length = asNumber(values[shape.lengthKey])
   if (length === null || length <= 0) return null
   const progress = asNumber(values[shape.progressKey]) ?? 0
