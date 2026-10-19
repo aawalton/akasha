@@ -2,6 +2,7 @@ import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.modul
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { limit } from "akasha/command/argument/pages/limit.argument.ts"
 import { memoryAddress } from "akasha/command/argument/pages/memory-address.argument.ts"
+import { memoryGlobal } from "akasha/command/argument/pages/memory-global.argument.ts"
 import { memoryTable } from "akasha/command/argument/pages/memory-table.argument.ts"
 import { memoryText } from "akasha/command/argument/pages/memory-text.argument.ts"
 import { memoryWord } from "akasha/command/argument/pages/memory-word.argument.ts"
@@ -20,7 +21,12 @@ import {
   type Region,
   readerOf,
   regionsOf,
+  wordBytes,
 } from "akasha/command/pages/temper/eso/memory/modules/eso-process-memory/eso-process-memory.module.code.ts"
+import {
+  globalFound,
+  globalHeld,
+} from "akasha/command/pages/temper/eso/memory/modules/hks-global-finding/hks-global-finding.module.code.ts"
 import {
   type Reader,
   shown,
@@ -28,7 +34,7 @@ import {
 } from "akasha/command/pages/temper/eso/memory/modules/hks-table-reading/hks-table-reading.module.code.ts"
 import { temperEsoMemory as page } from "akasha/command/pages/temper/eso/memory/temper-eso-memory.command.ts"
 
-const NAMED = [memoryText, memoryWord, memoryAddress, memoryTable, limit]
+const NAMED = [memoryText, memoryWord, memoryAddress, memoryTable, memoryGlobal, limit]
 
 const SHOWN = 512
 
@@ -69,12 +75,6 @@ function hexOf(said: string): bigint | null {
   return digits === undefined ? null : BigInt(`0x${digits}`)
 }
 
-function wordBytes(word: bigint): Buffer {
-  const bytes = Buffer.alloc(WORD)
-  bytes.writeBigUInt64LE(word, 0)
-  return bytes
-}
-
 function tableLines(read: Reader, table: bigint, most: number): readonly string[] | null {
   const held = tableAt(read, table)
   if (held === null) return null
@@ -112,6 +112,17 @@ export function temperEsoMemory(argv: readonly string[], given: Given): Answer {
     const lines = dumped(reader, regions, at)
     if (lines === null) return refused(`nothing at \`${address}\` reads`, DATA)
     return told(lines)
+  }
+  const name = read.taken.memoryGlobal
+  if (name !== undefined) {
+    const global = globalFound(reader, regions, name)
+    const held = global === null ? null : globalHeld(reader, global)
+    if (global === null || held === null)
+      return refused(`no global table is named \`${name}\``, DATA)
+    const lines = tableLines(reader, held.value, most)
+    if (lines === null) return refused(`the table named \`${name}\` does not read`, DATA)
+    const at = `entry ${global.node.toString(16)}, table ${held.value.toString(16)}`
+    return told([at, ...lines])
   }
   const table = read.taken.memoryTable
   if (table !== undefined) {

@@ -87,7 +87,20 @@ export function tableAt(read: Reader, table: bigint): TableRead | null {
   }
 }
 
-function keyOf(read: Reader, key: Held): string | null {
+export function tableIn(held: Held | null): bigint | null {
+  return held !== null && held.type === TABLE ? held.value : null
+}
+
+export function fieldOf(read: Reader, table: bigint, name: string): Held | null {
+  const held = tableAt(read, table)
+  if (held === null) return null
+  for (const entry of held.entries) {
+    if (entry.key.type === STRING && textAt(read, entry.key.value) === name) return entry.value
+  }
+  return null
+}
+
+export function keyOf(read: Reader, key: Held): string | null {
   if (key.type === NUMBER) return String(numberOf(key.value))
   if (key.type === STRING) return textAt(read, key.value)
   return null

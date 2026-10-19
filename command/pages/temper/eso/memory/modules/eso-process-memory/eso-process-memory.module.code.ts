@@ -9,6 +9,14 @@ export const GAME = "eso64.exe"
 
 const CHUNK = 1 << 24
 
+const WORD = 8
+
+export function wordBytes(word: bigint): Buffer {
+  const bytes = Buffer.alloc(WORD)
+  bytes.writeBigUInt64LE(word, 0)
+  return bytes
+}
+
 export function gameProcess(): number | null {
   for (const name of readdirSync("/proc")) {
     if (!/^\d+$/.test(name)) continue
