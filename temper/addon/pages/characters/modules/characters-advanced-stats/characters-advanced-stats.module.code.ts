@@ -46,9 +46,18 @@ let typed = false
 
 let installed = false
 
+const GROUP = 1000
+
+function grouped(value: number): string {
+  const whole = Math.round(value)
+  if (whole < GROUP) return `${whole}`
+  const rest = whole % GROUP
+  return `${grouped(Math.floor(whole / GROUP))},${`${rest}`.padStart(3, "0")}`
+}
+
 function setupReading(this: void, control: ReadingEntryControl, data: ReadingRow): undefined {
   control.nameLabel.SetText(data.displayName)
-  control.valueLabel.SetText(ZO_CommaDelimitNumber(data.value))
+  control.valueLabel.SetText(grouped(data.value))
   control.iconTexture.SetHidden(true)
   control.statData = data
 }
