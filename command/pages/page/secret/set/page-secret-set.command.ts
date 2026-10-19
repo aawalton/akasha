@@ -22,7 +22,12 @@ export const pageSecretSet = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A value arrives piped in rather than as an argument.",
+      statement: "A value arrives piped in or in a file the call names, never as an argument.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A call naming a file reads the value from that file and ignores what is piped in.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -63,7 +68,8 @@ export const pageSecretSet = {
     { argument: "argument/key", required: true },
     { argument: "argument/commit-message" },
     { argument: "argument/keep-last-newline" },
+    { argument: "argument/value-file" },
   ],
   createdAt: "2026-09-03T16:20:20.840Z",
-  updatedAt: "2026-09-25T14:12:37.000Z",
+  updatedAt: "2026-10-19T14:14:10.624Z",
 } as const satisfies Command

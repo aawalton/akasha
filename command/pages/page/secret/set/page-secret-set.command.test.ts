@@ -1,13 +1,17 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { writeFileSync } from "node:fs"
+import { join } from "node:path"
 import type { Argument } from "akasha/command/argument/argument.page-type.types.ts"
 import { commitMessage } from "akasha/command/argument/pages/commit-message.argument.ts"
 import { filePath } from "akasha/command/argument/pages/file-path.argument.ts"
 import { keepLastNewline } from "akasha/command/argument/pages/keep-last-newline.argument.ts"
 import { key } from "akasha/command/argument/pages/key.argument.ts"
+import { valueFile } from "akasha/command/argument/pages/value-file.argument.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { pageSecretSet } from "akasha/command/pages/page/secret/set/page-secret-set.command.code.ts"
 import { pageSecretSet as page } from "akasha/command/pages/page/secret/set/page-secret-set.command.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { listedById } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 const CALLED_AS = "akasha page secret set"
@@ -18,7 +22,7 @@ const GIVEN: Given = { root: ROOT, calledAs: CALLED_AS, from: ".", writer: null,
 
 const PART = "argument/"
 
-const PAGES: readonly Argument[] = [filePath, key, commitMessage, keepLastNewline]
+const PAGES: readonly Argument[] = [filePath, key, commitMessage, keepLastNewline, valueFile]
 
 type Declared = { readonly said: string; readonly required: boolean }
 
@@ -127,4 +131,38 @@ test("the message a call names is taken rather than refused as no argument", asy
   ])
   expect(said).not.toContain(commitMessage.said)
   expect(said).toContain(NOWHERE)
+})
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+const HOLDING = "alan/harness/money/plaid-item/pages/citi/citi.plaid-item.ts"
+
+test("a value file that will not open is refused by its path, and nothing lands", async () => {
+  const said = await refusalOf([
+    filePath.said,
+    HOLDING,
+    key.said,
+    "clientId",
+    valueFile.said,
+    "/nowhere/held/value",
+  ])
+  expect(said).toContain("/nowhere/held/value")
+  expect(said).toContain("would not open")
+})
+
+test("an empty value file is refused by its path rather than as what was piped in", async () => {
+  const empty = join(scratch.rootFor("page-secret-set-"), "empty")
+  writeFileSync(empty, "\n")
+  const said = await refusalOf([
+    filePath.said,
+    HOLDING,
+    key.said,
+    "clientId",
+    valueFile.said,
+    empty,
+  ])
+  expect(said).toContain(empty)
+  expect(said).toContain("empty")
 })
