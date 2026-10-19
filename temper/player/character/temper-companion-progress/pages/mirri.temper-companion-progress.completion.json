@@ -1,5 +1,6 @@
 {
   "build": {
+    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
     "armor": {
       "1": {
         "displayText": "Light, Quickened",
@@ -102,7 +103,7 @@
         "isEmpty": false
       }
     },
-    "mainHandWeaponType": 9,
+    "companionId": 2,
     "weapons": {
       "1": {
         "displayText": "Restoration Staff, Quickened",
@@ -123,8 +124,7 @@
         "isEmpty": true
       }
     },
-    "companionId": 2,
-    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA"
+    "mainHandWeaponType": 9
   },
   "targetBuildHash": "AjEAItC0LQtC0LQtDQ0NGNOzqtY7WAA",
   "level": 20,
