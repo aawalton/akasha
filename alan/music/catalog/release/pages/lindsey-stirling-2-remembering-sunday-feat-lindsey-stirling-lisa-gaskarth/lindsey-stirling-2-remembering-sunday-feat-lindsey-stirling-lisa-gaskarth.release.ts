@@ -7,7 +7,7 @@ export const lindseyStirling2RememberingSundayFeatLindseyStirlingLisaGaskarth = 
   title: "Remembering Sunday (feat. Lindsey Stirling & Lisa Gaskarth)",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 4.278833,
+  ownLength: 4.278833333333333,
   ownProgress: 4.278833,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const lindseyStirling2RememberingSundayFeatLindseyStirlingLisaGaskarth = 
     },
   ],
   createdAt: "2026-09-03T13:17:30.279Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T13:50:25.356Z",
 } as const satisfies Release

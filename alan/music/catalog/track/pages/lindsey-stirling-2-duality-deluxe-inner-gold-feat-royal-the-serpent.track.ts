@@ -1,0 +1,55 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const lindseyStirling2DualityDeluxeInnerGoldFeatRoyalTheSerpent = {
+  id: "01a1546d-8259-7dda-837f-a3fcdb6a01bb",
+  type: "page-type/track",
+  slug: "lindsey-stirling-2-duality-deluxe-inner-gold-feat-royal-the-serpent",
+  ownLength: 3.9417666666666666,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/lindsey-stirling-2-duality-deluxe",
+    "release/lindsey-stirling-2-duality",
+    "release/lindsey-stirling-2-evil-twin",
+    "release/lindsey-stirling-2-inner-gold-feat-royal-the-serpent",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Inner Gold [Feat. Royal & the Serpent]",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/lindsey-stirling" }, { artistName: "Royal & the Serpent" }],
+  trackKey: "innergoldfeatroyaltheserpent|378dH6EszOLFShpRzAQkVM,64EHXDoln95lnccszdPum0|236506",
+  song: "song/lindsey-stirling-inner-gold",
+  carriedBy: [
+    {
+      release: "release/lindsey-stirling-2-duality",
+      discNumber: 1,
+      position: 8,
+      externalId: "7H0gY5nPyAUg5YAWkfCSp6",
+      externalLink: "https://open.spotify.com/track/7H0gY5nPyAUg5YAWkfCSp6",
+    },
+    {
+      release: "release/lindsey-stirling-2-duality-deluxe",
+      discNumber: 1,
+      position: 8,
+      externalId: "2BQVW6NwVsFxUdw7oV3rJg",
+      externalLink: "https://open.spotify.com/track/2BQVW6NwVsFxUdw7oV3rJg",
+    },
+    {
+      release: "release/lindsey-stirling-2-evil-twin",
+      discNumber: 1,
+      position: 2,
+      externalId: "0r2SDbRuDHiS86ddx45fhX",
+      externalLink: "https://open.spotify.com/track/0r2SDbRuDHiS86ddx45fhX",
+    },
+    {
+      release: "release/lindsey-stirling-2-inner-gold-feat-royal-the-serpent",
+      discNumber: 1,
+      position: 1,
+      externalId: "17p8QWDLfv0CfqVRfaCuNG",
+      externalLink: "https://open.spotify.com/track/17p8QWDLfv0CfqVRfaCuNG",
+    },
+  ],
+  createdAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T13:50:25.356Z",
+} as const satisfies Track

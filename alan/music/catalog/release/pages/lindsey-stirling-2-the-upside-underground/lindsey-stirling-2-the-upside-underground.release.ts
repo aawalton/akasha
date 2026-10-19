@@ -7,7 +7,7 @@ export const lindseyStirling2TheUpsideUnderground = {
   title: "The Upside / Underground",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 8.189417,
+  ownLength: 8.189416666666666,
   ownProgress: 8.189417,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const lindseyStirling2TheUpsideUnderground = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.286Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T13:50:25.356Z",
 } as const satisfies Release

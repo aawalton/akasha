@@ -1,0 +1,55 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const lindseyStirling2HolidayFavoritesWithLindseyStirlingLittleDrummerBoy = {
+  id: "01a1546d-825d-7251-afb3-a8cdbe3f2b83",
+  type: "page-type/track",
+  slug: "lindsey-stirling-2-holiday-favorites-with-lindsey-stirling-little-drummer-boy",
+  ownLength: 3.8698333333333332,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/lindsey-stirling-2-holiday-favorites-with-lindsey-stirling",
+    "release/lindsey-stirling-2-snow-waltz-deluxe-edition",
+    "release/lindsey-stirling-2-snow-waltz",
+    "release/lindsey-stirling-2-best-of-christmas-classics",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Little Drummer Boy",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/lindsey-stirling" }],
+  trackKey: "littledrummerboy|378dH6EszOLFShpRzAQkVM|232190",
+  song: "song/lindsey-stirling-little-drummer-boy",
+  carriedBy: [
+    {
+      release: "release/lindsey-stirling-2-best-of-christmas-classics",
+      discNumber: 1,
+      position: 8,
+      externalId: "0Jy1rJZWnla7y9EMCW178V",
+      externalLink: "https://open.spotify.com/track/0Jy1rJZWnla7y9EMCW178V",
+    },
+    {
+      release: "release/lindsey-stirling-2-holiday-favorites-with-lindsey-stirling",
+      discNumber: 1,
+      position: 8,
+      externalId: "6w9zLWIlp6OE1MHIofs6n1",
+      externalLink: "https://open.spotify.com/track/6w9zLWIlp6OE1MHIofs6n1",
+    },
+    {
+      release: "release/lindsey-stirling-2-snow-waltz",
+      discNumber: 1,
+      position: 9,
+      externalId: "2ttjY6oYZ36TZjAz6oPcIG",
+      externalLink: "https://open.spotify.com/track/2ttjY6oYZ36TZjAz6oPcIG",
+    },
+    {
+      release: "release/lindsey-stirling-2-snow-waltz-deluxe-edition",
+      discNumber: 1,
+      position: 9,
+      externalId: "68jVrFXoZsoTsYLa31ac57",
+      externalLink: "https://open.spotify.com/track/68jVrFXoZsoTsYLa31ac57",
+    },
+  ],
+  createdAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T13:50:25.356Z",
+} as const satisfies Track

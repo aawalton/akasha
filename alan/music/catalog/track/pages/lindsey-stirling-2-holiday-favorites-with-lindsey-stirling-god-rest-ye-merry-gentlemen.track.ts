@@ -1,0 +1,55 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const lindseyStirling2HolidayFavoritesWithLindseyStirlingGodRestYeMerryGentlemen = {
+  id: "01a1546d-825c-7b6d-8cc9-484fb7d659fd",
+  type: "page-type/track",
+  slug: "lindsey-stirling-2-holiday-favorites-with-lindsey-stirling-god-rest-ye-merry-gentlemen",
+  ownLength: 3.2802333333333333,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/lindsey-stirling-2-holiday-favorites-with-lindsey-stirling",
+    "release/lindsey-stirling-2-snow-waltz-deluxe-edition",
+    "release/lindsey-stirling-2-snow-waltz",
+    "release/lindsey-stirling-2-best-of-christmas-classics",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "God Rest Ye Merry Gentlemen",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/lindsey-stirling" }],
+  trackKey: "godrestyemerrygentlemen|378dH6EszOLFShpRzAQkVM|196814",
+  song: "song/lindsey-stirling-god-rest-ye-merry-gentlemen",
+  carriedBy: [
+    {
+      release: "release/lindsey-stirling-2-best-of-christmas-classics",
+      discNumber: 1,
+      position: 10,
+      externalId: "3ZogzMaDlCBHxZ75vpLUWt",
+      externalLink: "https://open.spotify.com/track/3ZogzMaDlCBHxZ75vpLUWt",
+    },
+    {
+      release: "release/lindsey-stirling-2-holiday-favorites-with-lindsey-stirling",
+      discNumber: 1,
+      position: 17,
+      externalId: "0BqkjE438Xb4rfjcBY8qzv",
+      externalLink: "https://open.spotify.com/track/0BqkjE438Xb4rfjcBY8qzv",
+    },
+    {
+      release: "release/lindsey-stirling-2-snow-waltz",
+      discNumber: 1,
+      position: 2,
+      externalId: "55rBLj1xaRkZybOH4LVyru",
+      externalLink: "https://open.spotify.com/track/55rBLj1xaRkZybOH4LVyru",
+    },
+    {
+      release: "release/lindsey-stirling-2-snow-waltz-deluxe-edition",
+      discNumber: 1,
+      position: 2,
+      externalId: "1sBlTz0fMYk5hvxAkXKn67",
+      externalLink: "https://open.spotify.com/track/1sBlTz0fMYk5hvxAkXKn67",
+    },
+  ],
+  createdAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T13:50:25.356Z",
+} as const satisfies Track

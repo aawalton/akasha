@@ -7,7 +7,7 @@ export const lindseyStirling2DualityDeluxe = {
   title: "Duality (Deluxe)",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 62.316767,
+  ownLength: 62.316766666666666,
   ownProgress: 62.316767,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const lindseyStirling2DualityDeluxe = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.268Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T13:50:25.356Z",
 } as const satisfies Release

@@ -7,7 +7,7 @@ export const lindseyStirling21OriginalOneCover = {
   title: "1 Original, ONE Cover",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 7.500433,
+  ownLength: 7.5004333333333335,
   ownProgress: 7.500433,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const lindseyStirling21OriginalOneCover = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.260Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T13:50:25.356Z",
 } as const satisfies Release

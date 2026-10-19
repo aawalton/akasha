@@ -1,0 +1,63 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const lindseyStirling2HolidayFavoritesWithLindseyStirlingSleighRide = {
+  id: "01a1546d-825d-7dfb-91f3-0d5ccb592e66",
+  type: "page-type/track",
+  slug: "lindsey-stirling-2-holiday-favorites-with-lindsey-stirling-sleigh-ride",
+  ownLength: 3.036566666666667,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/lindsey-stirling-2-holiday-favorites-with-lindsey-stirling",
+    "release/lindsey-stirling-2-snow-waltz-deluxe-edition",
+    "release/lindsey-stirling-2-snow-waltz",
+    "release/lindsey-stirling-2-carol-of-the-bells-live-from-summer-tour-2023",
+    "release/lindsey-stirling-2-best-of-christmas-classics",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Sleigh Ride",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/lindsey-stirling" }],
+  trackKey: "sleighride|378dH6EszOLFShpRzAQkVM|182194",
+  song: "song/lindsey-stirling-sleigh-ride",
+  carriedBy: [
+    {
+      release: "release/lindsey-stirling-2-best-of-christmas-classics",
+      discNumber: 1,
+      position: 1,
+      externalId: "442Fnnf8gEFfIwHQBgSMmt",
+      externalLink: "https://open.spotify.com/track/442Fnnf8gEFfIwHQBgSMmt",
+    },
+    {
+      release: "release/lindsey-stirling-2-carol-of-the-bells-live-from-summer-tour-2023",
+      discNumber: 1,
+      position: 2,
+      externalId: "20EcZRnUigwanaMXZjsmIt",
+      externalLink: "https://open.spotify.com/track/20EcZRnUigwanaMXZjsmIt",
+    },
+    {
+      release: "release/lindsey-stirling-2-holiday-favorites-with-lindsey-stirling",
+      discNumber: 1,
+      position: 12,
+      externalId: "3dtWoJskF4hCU4GBVVbsC4",
+      externalLink: "https://open.spotify.com/track/3dtWoJskF4hCU4GBVVbsC4",
+    },
+    {
+      release: "release/lindsey-stirling-2-snow-waltz",
+      discNumber: 1,
+      position: 1,
+      externalId: "1GXYPUpZfK5132SEEVaw5a",
+      externalLink: "https://open.spotify.com/track/1GXYPUpZfK5132SEEVaw5a",
+    },
+    {
+      release: "release/lindsey-stirling-2-snow-waltz-deluxe-edition",
+      discNumber: 1,
+      position: 1,
+      externalId: "5WGTy7KjBlaEmcAt5K9xHF",
+      externalLink: "https://open.spotify.com/track/5WGTy7KjBlaEmcAt5K9xHF",
+    },
+  ],
+  createdAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T13:50:25.356Z",
+} as const satisfies Track

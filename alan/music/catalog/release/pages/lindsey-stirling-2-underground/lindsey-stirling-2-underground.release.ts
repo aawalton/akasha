@@ -7,7 +7,7 @@ export const lindseyStirling2Underground = {
   title: "Underground",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 4.404983,
+  ownLength: 4.404983333333333,
   ownProgress: 4.404983,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const lindseyStirling2Underground = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.287Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T13:50:25.356Z",
 } as const satisfies Release

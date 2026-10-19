@@ -7,7 +7,7 @@ export const lindseyStirling2IceStorm = {
   title: "Ice Storm",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 3.119433,
+  ownLength: 3.1194333333333333,
   ownProgress: 3.119433,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const lindseyStirling2IceStorm = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.273Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T13:50:25.356Z",
 } as const satisfies Release

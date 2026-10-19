@@ -7,7 +7,7 @@ export const lindseyStirling2TheArena = {
   title: "The Arena",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 3.871333,
+  ownLength: 3.8713333333333333,
   ownProgress: 3.871333,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const lindseyStirling2TheArena = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.284Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T13:50:25.356Z",
 } as const satisfies Release

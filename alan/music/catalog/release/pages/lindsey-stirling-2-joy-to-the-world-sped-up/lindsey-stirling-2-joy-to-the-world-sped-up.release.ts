@@ -7,7 +7,7 @@ export const lindseyStirling2JoyToTheWorldSpedUp = {
   title: "Joy To The World (Sped Up)",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 2.466867,
+  ownLength: 2.4668666666666668,
   ownProgress: 2.466867,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const lindseyStirling2JoyToTheWorldSpedUp = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.274Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T13:50:25.356Z",
 } as const satisfies Release

@@ -7,7 +7,7 @@ export const lindseyStirling2DyingForYouFeatAlexAris = {
   title: "Dying For You (feat. Alex Aris)",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 3.316167,
+  ownLength: 3.3161666666666667,
   ownProgress: 3.316167,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const lindseyStirling2DyingForYouFeatAlexAris = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.268Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T13:50:25.356Z",
 } as const satisfies Release

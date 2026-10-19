@@ -7,7 +7,7 @@ export const lindseyStirling2HaloThemeSong = {
   title: "Halo Theme Song",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 3.938883,
+  ownLength: 3.9388833333333335,
   ownProgress: 3.938883,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const lindseyStirling2HaloThemeSong = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.271Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T13:50:25.356Z",
 } as const satisfies Release

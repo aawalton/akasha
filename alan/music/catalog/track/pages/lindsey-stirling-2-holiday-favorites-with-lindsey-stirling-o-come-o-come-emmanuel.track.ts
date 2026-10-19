@@ -1,0 +1,55 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const lindseyStirling2HolidayFavoritesWithLindseyStirlingOComeOComeEmmanuel = {
+  id: "01a1546d-825d-7c88-94b5-cbd14d7c59b4",
+  type: "page-type/track",
+  slug: "lindsey-stirling-2-holiday-favorites-with-lindsey-stirling-o-come-o-come-emmanuel",
+  ownLength: 3.51775,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/lindsey-stirling-2-holiday-favorites-with-lindsey-stirling",
+    "release/lindsey-stirling-2-snow-waltz-deluxe-edition",
+    "release/lindsey-stirling-2-snow-waltz",
+    "release/lindsey-stirling-2-best-of-christmas-classics",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "O Come, O Come Emmanuel",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/lindsey-stirling" }],
+  trackKey: "ocomeocomeemmanuel|378dH6EszOLFShpRzAQkVM|211065",
+  song: "song/lindsey-stirling-o-come-o-come-emmanuel",
+  carriedBy: [
+    {
+      release: "release/lindsey-stirling-2-best-of-christmas-classics",
+      discNumber: 1,
+      position: 22,
+      externalId: "0JWmqc0LvBnAp0mVP00bQc",
+      externalLink: "https://open.spotify.com/track/0JWmqc0LvBnAp0mVP00bQc",
+    },
+    {
+      release: "release/lindsey-stirling-2-holiday-favorites-with-lindsey-stirling",
+      discNumber: 1,
+      position: 23,
+      externalId: "4RahmuJUOG0IrBjGxlQHNW",
+      externalLink: "https://open.spotify.com/track/4RahmuJUOG0IrBjGxlQHNW",
+    },
+    {
+      release: "release/lindsey-stirling-2-snow-waltz",
+      discNumber: 1,
+      position: 10,
+      externalId: "3mLiBXi2Vgd2j9dSlzBqSk",
+      externalLink: "https://open.spotify.com/track/3mLiBXi2Vgd2j9dSlzBqSk",
+    },
+    {
+      release: "release/lindsey-stirling-2-snow-waltz-deluxe-edition",
+      discNumber: 1,
+      position: 10,
+      externalId: "32hGjCnVq3GWlegqw6aIlb",
+      externalLink: "https://open.spotify.com/track/32hGjCnVq3GWlegqw6aIlb",
+    },
+  ],
+  createdAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T13:50:25.356Z",
+} as const satisfies Track

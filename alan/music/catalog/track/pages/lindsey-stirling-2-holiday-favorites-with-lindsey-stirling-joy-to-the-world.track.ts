@@ -1,0 +1,55 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const lindseyStirling2HolidayFavoritesWithLindseyStirlingJoyToTheWorld = {
+  id: "01a1546d-825c-7cdd-95a5-bd207a7084df",
+  type: "page-type/track",
+  slug: "lindsey-stirling-2-holiday-favorites-with-lindsey-stirling-joy-to-the-world",
+  ownLength: 3.1080666666666668,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/lindsey-stirling-2-holiday-favorites-with-lindsey-stirling",
+    "release/lindsey-stirling-2-snow-waltz-deluxe-edition",
+    "release/lindsey-stirling-2-snow-waltz",
+    "release/lindsey-stirling-2-best-of-christmas-classics",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Joy To The World",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/lindsey-stirling" }],
+  trackKey: "joytotheworld|378dH6EszOLFShpRzAQkVM|186484",
+  song: "song/lindsey-stirling-joy-to-the-world",
+  carriedBy: [
+    {
+      release: "release/lindsey-stirling-2-best-of-christmas-classics",
+      discNumber: 1,
+      position: 4,
+      externalId: "1AW2GV9Nd2gRFPsA7Q5E9L",
+      externalLink: "https://open.spotify.com/track/1AW2GV9Nd2gRFPsA7Q5E9L",
+    },
+    {
+      release: "release/lindsey-stirling-2-holiday-favorites-with-lindsey-stirling",
+      discNumber: 1,
+      position: 7,
+      externalId: "6hqx0j6EWXHMZAM55uOs2C",
+      externalLink: "https://open.spotify.com/track/6hqx0j6EWXHMZAM55uOs2C",
+    },
+    {
+      release: "release/lindsey-stirling-2-snow-waltz",
+      discNumber: 1,
+      position: 6,
+      externalId: "69RcXwRKDJdUtkZyF5D925",
+      externalLink: "https://open.spotify.com/track/69RcXwRKDJdUtkZyF5D925",
+    },
+    {
+      release: "release/lindsey-stirling-2-snow-waltz-deluxe-edition",
+      discNumber: 1,
+      position: 6,
+      externalId: "2mwe4Q2RKK7kBG4rYSTOOU",
+      externalLink: "https://open.spotify.com/track/2mwe4Q2RKK7kBG4rYSTOOU",
+    },
+  ],
+  createdAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T13:50:25.356Z",
+} as const satisfies Track

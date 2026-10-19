@@ -1,0 +1,55 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const lindseyStirling2HolidayFavoritesWithLindseyStirlingFelizNavidad = {
+  id: "01a1546d-825c-7fb7-b3ec-fc5ef0cb6231",
+  type: "page-type/track",
+  slug: "lindsey-stirling-2-holiday-favorites-with-lindsey-stirling-feliz-navidad",
+  ownLength: 3.3780833333333335,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/lindsey-stirling-2-holiday-favorites-with-lindsey-stirling",
+    "release/lindsey-stirling-2-snow-waltz-deluxe-edition",
+    "release/lindsey-stirling-2-snow-waltz",
+    "release/lindsey-stirling-2-best-of-christmas-classics",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Feliz Navidad",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/lindsey-stirling" }],
+  trackKey: "feliznavidad|378dH6EszOLFShpRzAQkVM|202685",
+  song: "song/lindsey-stirling-feliz-navidad",
+  carriedBy: [
+    {
+      release: "release/lindsey-stirling-2-best-of-christmas-classics",
+      discNumber: 1,
+      position: 12,
+      externalId: "1ILNgLhMZdDXw4LNd9yFbR",
+      externalLink: "https://open.spotify.com/track/1ILNgLhMZdDXw4LNd9yFbR",
+    },
+    {
+      release: "release/lindsey-stirling-2-holiday-favorites-with-lindsey-stirling",
+      discNumber: 1,
+      position: 4,
+      externalId: "0Q7tntbKQqbvoVogGHqPXN",
+      externalLink: "https://open.spotify.com/track/0Q7tntbKQqbvoVogGHqPXN",
+    },
+    {
+      release: "release/lindsey-stirling-2-snow-waltz",
+      discNumber: 1,
+      position: 4,
+      externalId: "72UdUgtiu7c90RtQldpOy1",
+      externalLink: "https://open.spotify.com/track/72UdUgtiu7c90RtQldpOy1",
+    },
+    {
+      release: "release/lindsey-stirling-2-snow-waltz-deluxe-edition",
+      discNumber: 1,
+      position: 4,
+      externalId: "6BnvQPN4JD7ZvzfIinFsSs",
+      externalLink: "https://open.spotify.com/track/6BnvQPN4JD7ZvzfIinFsSs",
+    },
+  ],
+  createdAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T13:50:25.356Z",
+} as const satisfies Track

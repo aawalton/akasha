@@ -7,7 +7,7 @@ export const lindseyStirling2SnowWaltzDeluxeEdition = {
   title: "Snow Waltz (Deluxe Edition)",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 58.780267,
+  ownLength: 58.78026666666667,
   ownProgress: 58.780267,
   unit: "unit/minutes",
   status: "completed",
@@ -20,5 +20,5 @@ export const lindseyStirling2SnowWaltzDeluxeEdition = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.281Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T13:50:25.356Z",
 } as const satisfies Release

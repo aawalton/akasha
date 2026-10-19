@@ -1,0 +1,55 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const lindseyStirling2HolidayFavoritesWithLindseyStirlingDeckTheHalls = {
+  id: "01a1546d-825c-7904-8cea-6a0c65733b3d",
+  type: "page-type/track",
+  slug: "lindsey-stirling-2-holiday-favorites-with-lindsey-stirling-deck-the-halls",
+  ownLength: 3.434616666666667,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/lindsey-stirling-2-holiday-favorites-with-lindsey-stirling",
+    "release/lindsey-stirling-2-snow-waltz-deluxe-edition",
+    "release/lindsey-stirling-2-snow-waltz",
+    "release/lindsey-stirling-2-best-of-christmas-classics",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Deck The Halls",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/lindsey-stirling" }],
+  trackKey: "deckthehalls|378dH6EszOLFShpRzAQkVM|206077",
+  song: "song/lindsey-stirling-deck-the-halls",
+  carriedBy: [
+    {
+      release: "release/lindsey-stirling-2-best-of-christmas-classics",
+      discNumber: 1,
+      position: 23,
+      externalId: "6bFRCWT6ghUgL6J1fNRIht",
+      externalLink: "https://open.spotify.com/track/6bFRCWT6ghUgL6J1fNRIht",
+    },
+    {
+      release: "release/lindsey-stirling-2-holiday-favorites-with-lindsey-stirling",
+      discNumber: 1,
+      position: 10,
+      externalId: "2qpHOzyYEVbA6JiTJB7nRQ",
+      externalLink: "https://open.spotify.com/track/2qpHOzyYEVbA6JiTJB7nRQ",
+    },
+    {
+      release: "release/lindsey-stirling-2-snow-waltz",
+      discNumber: 1,
+      position: 13,
+      externalId: "0i1WtSxl5HBBnL0gY3Frg9",
+      externalLink: "https://open.spotify.com/track/0i1WtSxl5HBBnL0gY3Frg9",
+    },
+    {
+      release: "release/lindsey-stirling-2-snow-waltz-deluxe-edition",
+      discNumber: 1,
+      position: 13,
+      externalId: "0y4N7flNSxKhWiyKZf5WJu",
+      externalLink: "https://open.spotify.com/track/0y4N7flNSxKhWiyKZf5WJu",
+    },
+  ],
+  createdAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T13:50:25.356Z",
+} as const satisfies Track

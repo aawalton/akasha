@@ -1,0 +1,55 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const lindseyStirling2HolidayFavoritesWithLindseyStirlingOHolyNight = {
+  id: "01a1546d-825d-717a-91b3-07bbd7445d55",
+  type: "page-type/track",
+  slug: "lindsey-stirling-2-holiday-favorites-with-lindsey-stirling-o-holy-night",
+  ownLength: 4.271866666666667,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/lindsey-stirling-2-holiday-favorites-with-lindsey-stirling",
+    "release/lindsey-stirling-2-snow-waltz-deluxe-edition",
+    "release/lindsey-stirling-2-snow-waltz",
+    "release/lindsey-stirling-2-best-of-christmas-classics",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "O Holy Night",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/lindsey-stirling" }],
+  trackKey: "oholynight|378dH6EszOLFShpRzAQkVM|256312",
+  song: "song/lindsey-stirling-o-holy-night",
+  carriedBy: [
+    {
+      release: "release/lindsey-stirling-2-best-of-christmas-classics",
+      discNumber: 1,
+      position: 13,
+      externalId: "7anjr0gv8TmTcJMwXumYJn",
+      externalLink: "https://open.spotify.com/track/7anjr0gv8TmTcJMwXumYJn",
+    },
+    {
+      release: "release/lindsey-stirling-2-holiday-favorites-with-lindsey-stirling",
+      discNumber: 1,
+      position: 11,
+      externalId: "1IJ57WucQyQ44Rxi6Tcdoy",
+      externalLink: "https://open.spotify.com/track/1IJ57WucQyQ44Rxi6Tcdoy",
+    },
+    {
+      release: "release/lindsey-stirling-2-snow-waltz",
+      discNumber: 1,
+      position: 11,
+      externalId: "73O4I4m9f6RuVH69AOmeZL",
+      externalLink: "https://open.spotify.com/track/73O4I4m9f6RuVH69AOmeZL",
+    },
+    {
+      release: "release/lindsey-stirling-2-snow-waltz-deluxe-edition",
+      discNumber: 1,
+      position: 11,
+      externalId: "4r0GmoQikOKgGubHGmGlVP",
+      externalLink: "https://open.spotify.com/track/4r0GmoQikOKgGubHGmGlVP",
+    },
+  ],
+  createdAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T13:50:25.356Z",
+} as const satisfies Track

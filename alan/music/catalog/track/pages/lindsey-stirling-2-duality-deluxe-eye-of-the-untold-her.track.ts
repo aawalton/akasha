@@ -1,0 +1,63 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const lindseyStirling2DualityDeluxeEyeOfTheUntoldHer = {
+  id: "01a1546d-8259-7e8f-acf5-d47bf8419ace",
+  type: "page-type/track",
+  slug: "lindsey-stirling-2-duality-deluxe-eye-of-the-untold-her",
+  ownLength: 3.67955,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/lindsey-stirling-2-duality-deluxe",
+    "release/lindsey-stirling-2-duality",
+    "release/lindsey-stirling-2-evil-twin",
+    "release/lindsey-stirling-2-inner-gold-feat-royal-the-serpent",
+    "release/lindsey-stirling-2-eye-of-the-untold-her",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Eye Of The Untold Her",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/lindsey-stirling" }],
+  trackKey: "eyeoftheuntoldher|378dH6EszOLFShpRzAQkVM|220773",
+  song: "song/lindsey-stirling-eye-of-the-untold-her",
+  carriedBy: [
+    {
+      release: "release/lindsey-stirling-2-duality",
+      discNumber: 1,
+      position: 2,
+      externalId: "57fVsBoiRK0ZXQ29acjGfb",
+      externalLink: "https://open.spotify.com/track/57fVsBoiRK0ZXQ29acjGfb",
+    },
+    {
+      release: "release/lindsey-stirling-2-duality-deluxe",
+      discNumber: 1,
+      position: 2,
+      externalId: "007TDR0CNH446hwFNNtFZh",
+      externalLink: "https://open.spotify.com/track/007TDR0CNH446hwFNNtFZh",
+    },
+    {
+      release: "release/lindsey-stirling-2-evil-twin",
+      discNumber: 1,
+      position: 3,
+      externalId: "7nTHMYIYpLaEZtGQ1ruYOn",
+      externalLink: "https://open.spotify.com/track/7nTHMYIYpLaEZtGQ1ruYOn",
+    },
+    {
+      release: "release/lindsey-stirling-2-eye-of-the-untold-her",
+      discNumber: 1,
+      position: 1,
+      externalId: "3mfm3PSCeQsU11UGdsINED",
+      externalLink: "https://open.spotify.com/track/3mfm3PSCeQsU11UGdsINED",
+    },
+    {
+      release: "release/lindsey-stirling-2-inner-gold-feat-royal-the-serpent",
+      discNumber: 1,
+      position: 2,
+      externalId: "0AeznYdYPP1TXaHJj1Wnpd",
+      externalLink: "https://open.spotify.com/track/0AeznYdYPP1TXaHJj1Wnpd",
+    },
+  ],
+  createdAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T13:50:25.356Z",
+} as const satisfies Track
