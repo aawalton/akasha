@@ -53,7 +53,7 @@ export const CARD_IDS = {
     "companion-rapport",
     "companion-skill-lines",
   ],
-  tasks: ["guild-sales", "hireling-mails", "active-quests", "inventory-management", "dungeon-sets"],
+  tasks: ["hireling-mails", "active-quests", "inventory-management", "dungeon-sets"],
 } as const satisfies Record<CompletionTab, readonly string[]>
 
 interface CompletionCategoryPage {

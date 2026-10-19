@@ -54,9 +54,9 @@ describe("parseCompletionOverrideRow", () => {
     expect(
       parseCompletionOverrideRow({
         ...wellFormedRow(),
-        completionCard: completionCardAddress("guild-sales"),
+        completionCard: completionCardAddress("hireling-mails"),
       })?.override.completionCardId
-    ).toBe("guild-sales")
+    ).toBe("hireling-mails")
   })
 
   test("returns null for an address no completion card answers to", () => {

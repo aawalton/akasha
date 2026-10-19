@@ -363,7 +363,7 @@ test("the path each task names is handed to the reading", () => {
 test("a task naming a card measured by nothing is passed over without a word too", () => {
   const said: string[] = []
   putsFor(
-    [{ slug: "crafting-writs", completionCardId: "guild-sales" }],
+    [{ slug: "crafting-writs", completionCardId: "hireling-mails" }],
     INDEX,
     PAGED,
     PATHS,

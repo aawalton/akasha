@@ -44,7 +44,6 @@ const CARD_RESET_BEHAVIOR: Record<AnyCompletionCardId, ResetBehavior> = {
   "companion-quests-union": "cumulative",
   "companion-rapport": "cumulative",
   "companion-skill-lines": "cumulative",
-  "guild-sales": "resetting",
   "hireling-mails": "resetting",
   "active-quests": "resetting",
   "inventory-management": "resetting",

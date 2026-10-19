@@ -7,7 +7,6 @@ import {
 const RESETTING_CARD_IDS = [
   "daily-writs",
   "hireling-mails",
-  "guild-sales",
   "antiquity-leads",
   "active-quests",
   "inventory-management",

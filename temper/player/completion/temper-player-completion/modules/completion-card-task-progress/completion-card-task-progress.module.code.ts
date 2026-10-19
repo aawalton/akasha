@@ -44,7 +44,6 @@ function applicableSkillLineIds(charCompletion: CharacterCompletion | null | und
 }
 
 const UNMEASURED_CARD_IDS: readonly string[] = [
-  "guild-sales",
   "hireling-mails",
   "active-quests",
   "dungeon-sets",

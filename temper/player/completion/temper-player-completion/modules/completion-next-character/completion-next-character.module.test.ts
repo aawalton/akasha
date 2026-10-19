@@ -116,7 +116,7 @@ describe("resolveNextCharacter — skill-points story zone quests", () => {
 describe("resolveNextCharacter — cards with no checker", () => {
   test("returns null for a card no checker names", () => {
     const only = mkChar("solo", 1, sparseMissingOne(CATEGORY))
-    expect(resolveNextCharacter([only], "guild-sales", [CATEGORY], NONE)).toBeNull()
+    expect(resolveNextCharacter([only], "hireling-mails", [CATEGORY], NONE)).toBeNull()
   })
 
   test("returns null for an empty roster", () => {

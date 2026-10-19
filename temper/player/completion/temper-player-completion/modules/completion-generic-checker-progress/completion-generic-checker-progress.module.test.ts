@@ -181,7 +181,7 @@ describe("resolveGenericCheckerProgress / binary fallback (isItemComplete, no ge
 })
 
 describe("resolveGenericCheckerProgress / non-trackable", () => {
-  test("returns undefined for a card with no checker (guild-sales)", () => {
-    expect(resolveGenericCheckerProgress("guild-sales", null, null, NO_ACCOUNT)).toBeUndefined()
+  test("returns undefined for a card with no checker (hireling-mails)", () => {
+    expect(resolveGenericCheckerProgress("hireling-mails", null, null, NO_ACCOUNT)).toBeUndefined()
   })
 })

@@ -11,12 +11,12 @@ test("a card's page is slugged as the tab holding that card joined to the card's
   expect(pageSlugOfCompletionCard("cadwells-almanac")).toBe("characters-cadwells-almanac")
   expect(pageSlugOfCompletionCard("account-achievements")).toBe("account-account-achievements")
   expect(pageSlugOfCompletionCard("companion-level")).toBe("companions-companion-level")
-  expect(pageSlugOfCompletionCard("guild-sales")).toBe("tasks-guild-sales")
+  expect(pageSlugOfCompletionCard("hireling-mails")).toBe("tasks-hireling-mails")
 })
 
 test("both answers are read off the category tree rather than off the pages", () => {
   expect(completionCardOfPageSlug("characters-cadwells-almanac")).toBe("cadwells-almanac")
-  expect(completionCardOfPageSlug("tasks-guild-sales")).toBe("guild-sales")
+  expect(completionCardOfPageSlug("tasks-hireling-mails")).toBe("hireling-mails")
   expect(completionCardOfPageSlug("nothing-of-the-kind")).toBeNull()
   expect(pageSlugOfCompletionCard("nothing-of-the-kind")).toBeNull()
 })

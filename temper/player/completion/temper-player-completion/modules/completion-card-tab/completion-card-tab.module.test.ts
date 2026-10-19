@@ -29,7 +29,7 @@ describe("the tab the static tree answers with", () => {
   })
 
   test("a card under a tab the window never shows answers for no tab", () => {
-    expect(getCompletionCardTab("guild-sales")).toBeUndefined()
+    expect(getCompletionCardTab("hireling-mails")).toBeUndefined()
     expect(getCompletionCardTab("dungeon-sets")).toBeUndefined()
   })
 
