@@ -10,6 +10,7 @@ export const temperAccountCharacter = {
     "multi-relation-property/character-roles",
     "text-property/first-name",
     "text-property/live-build-id",
+    "file-property/fights",
   ],
   properties: [
     { pageProperty: "text-property/eso-character-id", required: true, many: false },
@@ -22,6 +23,7 @@ export const temperAccountCharacter = {
       many: true,
       maxCount: null,
     },
+    { pageProperty: "file-property/fights", required: false, many: false },
   ],
   decisions: [
     {
@@ -32,5 +34,5 @@ export const temperAccountCharacter = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T01:48:48.327Z",
-  updatedAt: "2026-09-24T16:26:32.000Z",
+  updatedAt: "2026-10-19T12:51:07.404Z",
 } as const satisfies PageType

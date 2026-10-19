@@ -1,4 +1,5 @@
 import type { CharacterRoles } from "akasha/temper/player/character/temper-account-character/properties/character-roles.multi-relation-property.types.ts"
+import type { Fights } from "akasha/temper/player/character/temper-account-character/properties/fights.file-property.types.ts"
 import type { FirstName } from "akasha/temper/player/character/temper-account-character/properties/first-name.text-property.types.ts"
 import type { LiveBuildId } from "akasha/temper/player/character/temper-account-character/properties/live-build-id.text-property.types.ts"
 import type { TemperCharacterThing } from "akasha/temper/player/character/thing/temper-character-thing.page-type.types.ts"
@@ -11,4 +12,5 @@ export type TemperAccountCharacter = TemperCharacterThing & {
   firstName?: FirstName
   liveBuildId?: LiveBuildId
   roles?: CharacterRoles
+  fights?: Fights
 }
