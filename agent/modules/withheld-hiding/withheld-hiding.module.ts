@@ -4,7 +4,7 @@ export const withheldHiding = {
   id: "01a0da55-03dc-7c59-bcb3-3e9ac69a5b4e",
   type: "page-type/module",
   slug: "withheld-hiding",
-  definition: "what a game master's shell is kept from, as the bwrap arguments hiding it",
+  definition: "what code hides from the shell of a seat",
   code: "ts",
   test: "ts",
   allowsTmpPaths: true,
@@ -65,5 +65,5 @@ export const withheldHiding = {
     },
   ],
   createdAt: "2026-09-25T20:49:59.772Z",
-  updatedAt: "2026-09-29T13:02:49.000Z",
+  updatedAt: "2026-10-19T19:39:28.372Z",
 } as const satisfies Module
