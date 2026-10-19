@@ -3,6 +3,7 @@ import type { WeaponSlot } from "akasha/temper/player/character/characters-equip
 import {
   weaponAttackOf,
   weaponStyleOf,
+  weaponStyleOfTypes,
 } from "akasha/temper/player/character/stat/modules/weapon-attacks/weapon-attacks.module.code.ts"
 
 const EMPTY = { itemType: "empty", data: null } as const
@@ -29,6 +30,13 @@ test("a one-handed weapon with a shield is that style, and two one-handed weapon
   expect(weaponStyleOf({ "main-hand": held("axe"), "off-hand": held("dagger") })).toBe("dual-wield")
   expect(weaponStyleOf({ "main-hand": held("maul"), "off-hand": EMPTY })).toBe("two-handed")
   expect(weaponStyleOf({ "main-hand": held("ice-staff"), "off-hand": EMPTY })).toBe("ice-staff")
+})
+
+test("a style is read the same from the weapon types alone, as the add-on names them", () => {
+  expect(weaponStyleOfTypes("sword", undefined)).toBe("one-hand")
+  expect(weaponStyleOfTypes("dagger", "axe")).toBe("dual-wield")
+  expect(weaponStyleOfTypes("lightning-staff", undefined)).toBe("lightning-staff")
+  expect(weaponStyleOfTypes(undefined, "sword")).toBeUndefined()
 })
 
 test("a bar with no weapon in the main hand has no style and its attacks deal nothing", () => {

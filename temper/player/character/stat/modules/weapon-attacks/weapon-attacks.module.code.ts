@@ -46,31 +46,40 @@ const ATTACKS = {
 
 export type WeaponStyle = keyof typeof ATTACKS
 
-const TWO_HANDED: ReadonlySet<string> = new Set(["greatsword", "battleaxe", "maul"])
+const TWO_HANDED: readonly string[] = ["greatsword", "battleaxe", "maul"]
 
-const ONE_HANDED: ReadonlySet<string> = new Set(["sword", "axe", "mace", "dagger"])
+const ONE_HANDED: readonly string[] = ["sword", "axe", "mace", "dagger"]
 
-const RANGED: ReadonlySet<string> = new Set([
+const RANGED: readonly string[] = [
   "bow",
   "inferno-staff",
   "ice-staff",
   "lightning-staff",
   "restoration-staff",
-])
+]
 
 function isRanged(type: string): type is WeaponStyle {
-  return RANGED.has(type)
+  return RANGED.includes(type)
+}
+
+export function weaponStyleOfTypes(
+  main: string | undefined,
+  off: string | undefined
+): WeaponStyle | undefined {
+  if (main === undefined) return undefined
+  if (TWO_HANDED.includes(main)) return "two-handed"
+  if (isRanged(main)) return main
+  if (!ONE_HANDED.includes(main)) return undefined
+  return off !== undefined && ONE_HANDED.includes(off) ? "dual-wield" : "one-hand"
 }
 
 export function weaponStyleOf(bar: WeaponSlot): WeaponStyle | undefined {
   const main = bar["main-hand"]
-  if (main.itemType !== "weapon") return undefined
-  const type: string = main.data.type
-  if (TWO_HANDED.has(type)) return "two-handed"
-  if (isRanged(type)) return type
-  if (!ONE_HANDED.has(type)) return undefined
   const off = bar["off-hand"]
-  return off.itemType === "weapon" && ONE_HANDED.has(off.data.type) ? "dual-wield" : "one-hand"
+  return weaponStyleOfTypes(
+    main.itemType === "weapon" ? main.data.type : undefined,
+    off.itemType === "weapon" ? off.data.type : undefined
+  )
 }
 
 function dealt(equations: readonly Equation[], stat: number, power: number): number {

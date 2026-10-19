@@ -34,10 +34,15 @@ export const weaponAttacks = {
       statement: "A bar with no weapon in its main hand has attacks that deal nothing.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A bar's style is read from the weapon types its two hands hold, by Bun or by Lua.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement: "An attack lands on one enemy, without a critical strike or any modifier.",
     },
   ],
   createdAt: "2026-10-19T18:46:10.220Z",
-  updatedAt: "2026-10-19T18:46:10.220Z",
+  updatedAt: "2026-10-19T19:29:35.119Z",
 } as const satisfies Module
