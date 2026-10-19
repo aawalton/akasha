@@ -7,8 +7,8 @@ export const buddhism = {
   title: "Buddhism",
   status: "in-progress",
   unit: "unit/minutes",
-  ownLength: 746.4,
-  ownProgress: 62.2,
+  ownLength: 746.23,
+  ownProgress: 62.98,
   partOfCollections: [
     "great-courses-collection/all-great-courses",
     "great-courses-subject/philosophy-and-religion-great-courses",
@@ -21,5 +21,6 @@ export const buddhism = {
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-10-18T21:07:43.678Z",
+  updatedAt: "2026-10-19T18:19:36.073Z",
+  progressedAt: "2026-10-19T18:19:36.073Z",
 } as const satisfies GreatCourse
