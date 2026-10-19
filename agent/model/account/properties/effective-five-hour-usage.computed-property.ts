@@ -5,8 +5,7 @@ export const effectiveFiveHourUsage = {
   type: "page-type/computed-property",
   slug: "effective-five-hour-usage",
   propertySlug: "effective-five-hour-usage",
-  definition:
-    "how much of the five-hour allowance is spent, a withdrawn or spent week counting as all of it",
+  definition: "the part of its five-hour window a model account can not spend",
   holds: "number",
   code: "ts",
   test: "ts",
@@ -39,5 +38,5 @@ export const effectiveFiveHourUsage = {
   ],
   types: "ts",
   createdAt: "2026-09-06T10:52:25.365Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-19T18:41:39.742Z",
 } as const satisfies ComputedProperty
