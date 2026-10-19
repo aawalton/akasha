@@ -1,0 +1,35 @@
+{
+  "character": "erin-solstice",
+  "bar": "primary-weapon-bar",
+  "buildHash": "ATQINIGgAABiRRP__VgAAAAAAAAAAAAAAAAAAAAAAAIkAIAQBgAAgAAAAAgAAhAAACIAIgBgAABAAAgMCAAAySAAAwAAMIAAAAgDABAAAAHAACAAGKwAAABVKwAAAAAAAAAAAPgAMmWAgk14ZLOeJjBIDGFAhHmwXWK1ymYYi54JJQiAHt5m1r2nmuHsoGQ",
+  "capturedAt": 1792449906,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "inCombat": true,
+  "activeBuffs": [
+    { "abilityId": 13943, "name": "Boon: The Mage" },
+    { "abilityId": 127531, "name": "Corrupting Bloody Mara" },
+    { "abilityId": 61667, "name": "Major Savagery" }
+  ],
+  "championPoints": [
+    { "championSkillId": 99, "points": 20, "maxPoints": 20 },
+    { "championSkillId": 3, "points": 50, "maxPoints": 50 }
+  ],
+  "pinned": {
+    "critical-rating-spell": 4810,
+    "critical-rating-weapon": 4810,
+    "health-maximum": 21051,
+    "health-recovery": 814,
+    "magicka-maximum": 28945,
+    "magicka-recovery": 514,
+    "penetration-physical": 0,
+    "penetration-spell": 0,
+    "power-spell": 1000,
+    "power-weapon": 1000,
+    "resistance-critical": 1320,
+    "resistance-physical": 0,
+    "resistance-spell": 0,
+    "stamina-maximum": 12000,
+    "stamina-recovery": 514
+  },
+  "gaps": {}
+}
