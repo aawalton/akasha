@@ -12,9 +12,7 @@ export const usageWindow = {
     { partOfSpeech: "part-of-speech/noun", spelling: "five-hour windows" },
     { partOfSpeech: "part-of-speech/noun", spelling: "seven-day window" },
     { partOfSpeech: "part-of-speech/noun", spelling: "seven-day windows" },
-    { partOfSpeech: "part-of-speech/verb", spelling: "reset", scope: "page-type/model-account" },
-    { partOfSpeech: "part-of-speech/verb", spelling: "resets", scope: "page-type/model-account" },
   ],
   createdAt: "2026-10-19T18:29:47.122Z",
-  updatedAt: "2026-10-19T18:29:47.122Z",
+  updatedAt: "2026-10-19T18:34:54.323Z",
 } as const satisfies Domain

@@ -1,5 +1,4 @@
 {"propertySlug":"part-of-speech","path":"agent/message/agent-message.page-type.ts","id":"01a06818-107b-7005-8e69-8cefb68f3cdf"}
-{"propertySlug":"part-of-speech","path":"agent/model/account/usage-window/usage-window.domain.ts","id":"01a1556d-45f4-7ae9-a910-c9053fad5e17"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/add.common-language-term.ts","id":"01a0d8c7-ce49-7d7f-8b9c-e4e2b77de92e"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/affect.common-language-term.ts","id":"01a0d88d-d249-7be2-a735-fe23b0184e6e"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/annoy.common-language-term.ts","id":"01a0d580-673a-7fe4-a99b-5b5c6e83f81a"}
@@ -46,6 +45,7 @@
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/prove.common-language-term.ts","id":"01a0d97e-c061-7bd9-a070-ce430b83f859"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/read.common-language-term.ts","id":"01a0c941-5635-7b48-b57a-106d6b043b46"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/remove.common-language-term.ts","id":"01a0d8cd-1ad0-7ca6-8eaa-92a50630ff9d"}
+{"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/reset.common-language-term.ts","id":"01a15571-f5f4-7fdf-a087-b879e0d753e9"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/run.common-language-term.ts","id":"01a0c937-9efa-79dc-ab59-21f33ba7362a"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/sell.common-language-term.ts","id":"01a0d494-7f1b-7333-b87e-614cf1a1d030"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/send.common-language-term.ts","id":"01a0d5c6-19d9-73f2-a869-3de23031ba5e"}
