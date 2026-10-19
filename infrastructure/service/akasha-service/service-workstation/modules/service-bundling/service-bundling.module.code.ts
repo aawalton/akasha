@@ -5,6 +5,7 @@ import {
   said as gitSaid,
   told as gitTold,
 } from "akasha/git/modules/running/git-running.module.code.ts"
+import { metaGlobbing } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/bundle-meta-glob/bundle-meta-glob.module.code.ts"
 import { bundleCommitIn } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/code-moving/code-moving.module.code.ts"
 import {
   SERVICE_SUFFIX,
@@ -196,7 +197,7 @@ async function textOf(stub: string, root: string): Promise<Text> {
       minify: false,
       sourcemap: "inline",
       external: EXTERNAL,
-      plugins: [recordingInto(read)],
+      plugins: [recordingInto(read), metaGlobbing()],
     })
     if (!built.success) return { refused: whyIn(built.logs) }
     const first = built.outputs[0]

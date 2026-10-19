@@ -35,12 +35,12 @@ function callerOf(called: (...args: never[]) => unknown): string {
   }
 }
 
-function keyFor(folder: string, full: string): string {
+export function keyFor(folder: string, full: string): string {
   const said = relative(folder, full)
   return CLIMBS.test(said) ? said : `${HERE}${said}`
 }
 
-function matched(folder: string, pattern: string): readonly string[] {
+export function matched(folder: string, pattern: string): readonly string[] {
   const parts = pattern.split(PARTED_BY)
   const wild = parts.findIndex((part) => WILD.test(part))
   const cut = wild === -1 ? parts.length - 1 : wild

@@ -275,7 +275,11 @@ export const serviceBundling = {
       decisionKind: "decision-kind/departure",
       statement: "The commit a service was last put up at is read off the bundle its unit names.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An eager glob in the code bundled is written out before the bundler reads it.",
+    },
   ],
   createdAt: "2026-09-22T15:01:18.363Z",
-  updatedAt: "2026-09-26T20:36:03.000Z",
+  updatedAt: "2026-10-19T18:54:33.922Z",
 } as const satisfies Module

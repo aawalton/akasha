@@ -1991,6 +1991,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/service-inference/modules/inference-reading/inference-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/service-inference/modules/inference-watching/inference-watching.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/binary-running/binary-running.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/bundle-meta-glob/bundle-meta-glob.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/code-moving/code-moving.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/file-following/file-following.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/run-composing/run-composing.module.ts","typed":true,"deferred":false}

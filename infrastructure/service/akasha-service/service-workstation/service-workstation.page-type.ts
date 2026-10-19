@@ -57,6 +57,7 @@ export const serviceWorkstation = {
     "text-property/wants",
     "module/service-telling",
     "module/service-bundling",
+    "module/bundle-meta-glob",
     "boolean-property/restarts-itself",
   ],
   properties: [
@@ -231,5 +232,5 @@ export const serviceWorkstation = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-31T23:55:19.466Z",
-  updatedAt: "2026-09-27T00:55:16.000Z",
+  updatedAt: "2026-10-19T18:54:33.922Z",
 } as const satisfies PageType
