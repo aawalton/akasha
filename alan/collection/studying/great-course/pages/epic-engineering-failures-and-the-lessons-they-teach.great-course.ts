@@ -7,8 +7,8 @@ export const epicEngineeringFailuresAndTheLessonsTheyTeach = {
   title: "Epic Engineering Failures and the Lessons They Teach",
   status: "in-progress",
   unit: "unit/minutes",
-  ownLength: 924,
-  ownProgress: 177.692308,
+  ownLength: 924.25,
+  ownProgress: 240.82,
   partOfCollections: [
     "great-courses-collection/all-great-courses",
     "great-courses-subject/science-great-courses",
@@ -22,5 +22,6 @@ export const epicEngineeringFailuresAndTheLessonsTheyTeach = {
     },
   ],
   createdAt: "2026-04-22T12:39:34.047Z",
-  updatedAt: "2026-10-18T21:07:43.678Z",
+  updatedAt: "2026-10-19T17:09:47.307Z",
+  progressedAt: "2026-10-19T17:09:47.307Z",
 } as const satisfies GreatCourse
