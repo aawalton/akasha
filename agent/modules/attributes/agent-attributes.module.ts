@@ -4,7 +4,7 @@ export const agentAttributes = {
   id: "01a06949-b281-754d-abc3-b81859567424",
   type: "page-type/module",
   slug: "agent-attributes",
-  definition: "the persona, domain and role declared of an agent, with its session's start mode",
+  definition: "how code reads the attributes of the seat of an agent",
   code: "ts",
   decisions: [
     {
@@ -37,5 +37,5 @@ export const agentAttributes = {
     },
   ],
   createdAt: "2026-09-03T22:00:32.641Z",
-  updatedAt: "2026-09-22T14:30:46.000Z",
+  updatedAt: "2026-10-19T19:36:53.629Z",
 } as const satisfies Module
