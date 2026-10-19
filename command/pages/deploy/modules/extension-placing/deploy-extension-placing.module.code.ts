@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, renameSync, rmSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readdirSync, renameSync, rmSync, writeFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
@@ -86,13 +86,16 @@ function codeAt(codeRoot: string, pagePath: string, group: string): string | nul
   return existsSync(at) ? at : null
 }
 
-function swapped(at: string, files: Readonly<Record<string, string>>): undefined {
-  const next = `${at}.next`
-  rmSync(next, { recursive: true, force: true })
-  mkdirSync(next, { recursive: true })
-  for (const [name, text] of Object.entries(files)) writeFileSync(join(next, name), text)
-  rmSync(at, { recursive: true, force: true })
-  renameSync(next, at)
+function refreshed(at: string, files: Readonly<Record<string, string>>): undefined {
+  mkdirSync(at, { recursive: true })
+  for (const [name, text] of Object.entries(files)) {
+    const next = join(at, `${name}.next`)
+    writeFileSync(next, text)
+    renameSync(next, join(at, name))
+  }
+  for (const name of readdirSync(at)) {
+    if (!(name in files)) rmSync(join(at, name), { recursive: true, force: true })
+  }
 }
 
 export async function putUpExtension(
@@ -119,7 +122,7 @@ export async function putUpExtension(
     return answeredWith([], refusals, OPERATIONAL)
   }
   const at = placedAt(home, slug)
-  swapped(at, {
+  refreshed(at, {
     [MANIFEST_FILE]: `${JSON.stringify(loaded.MANIFEST, null, 2)}\n`,
     [WORKER_FILE]: workerMade.text,
     [SITE_FILE]: siteMade.text,

@@ -31,7 +31,15 @@ export const deployExtensionPlacing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Chrome's folder is replaced whole, so no file of an earlier build is left in it.",
+      statement: "Chrome's folder is kept, and each file in it is replaced whole.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A browser sandbox keeping a link to the folder still reaches it after a deploy.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No file of an earlier build is left in the folder.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -39,5 +47,5 @@ export const deployExtensionPlacing = {
     },
   ],
   createdAt: "2026-10-18T17:20:17.468Z",
-  updatedAt: "2026-10-18T17:31:07.469Z",
+  updatedAt: "2026-10-19T16:23:12.076Z",
 } as const satisfies Module
