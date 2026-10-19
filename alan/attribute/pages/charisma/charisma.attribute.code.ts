@@ -62,5 +62,11 @@ export function charismaIn(rows: readonly Row[]): number | null {
 }
 
 export function connectionIn(rows: readonly Row[], relationship: string): number | null {
-  return hoursAtEaseIn(rows, (values) => namesRelationship(values, relationship))
+  let held: number | null = null
+  for (const row of rows) {
+    const hours = hoursIn(row.values)
+    if (hours === null) continue
+    held = (held ?? 0) + (namesRelationship(row.values, relationship) ? hours : 0)
+  }
+  return held
 }

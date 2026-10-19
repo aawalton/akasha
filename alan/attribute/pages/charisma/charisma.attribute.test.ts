@@ -45,7 +45,7 @@ test("a stretch names a relationship where its list holds that relationship", ()
   expect(namesRelationship({ "safety-level": 3 }, JEN)).toBe(false)
 })
 
-test("the connection with one person is the hours at ease with that person", () => {
+test("the connection with one person is the hours with that person", () => {
   expect(connectionIn([ran(3, 1, 2), withLizzy(3, 1, 4)], JEN)).toBe(2)
 })
 
@@ -53,19 +53,23 @@ test("a stretch naming that person among others counts toward the connection", (
   expect(connectionIn([withBoth(3, 1, 1.5)], JEN)).toBe(1.5)
 })
 
-test("the connection counts only hours the charisma counts", () => {
+test("the connection counts hours with that person whatever their safety and difficulty", () => {
   const day = [ran(3, 1, 2), ran(2.5, 2, 4), withLizzy(3, 1, 3), alone(5, 0, 8), withBoth(4, 1, 1)]
-  expect(connectionIn(day, JEN)).toBe(3)
+  expect(connectionIn(day, JEN)).toBe(7)
   expect(charismaIn(day)).toBe(6)
 })
 
-test("a day spent at ease with nobody but others is a connection of zero", () => {
+test("a stretch missing a level still counts toward the connection", () => {
+  expect(connectionIn([ran(null, null, 3)], JEN)).toBe(3)
+})
+
+test("a day spent with nobody but others is a connection of zero", () => {
   expect(connectionIn([withLizzy(3, 1, 2), alone(3, 1, 1)], JEN)).toBe(0)
 })
 
-test("no readable stretch on the day is no connection rather than zero", () => {
+test("no stretch stating both its times is no connection rather than zero", () => {
   expect(connectionIn([], JEN)).toBeNull()
-  expect(connectionIn([ran(null, null, 3)], JEN)).toBeNull()
+  expect(connectionIn([{ values: { relationships: [JEN] } }], JEN)).toBeNull()
 })
 
 test("a stretch is with someone where that stretch names a relationship", () => {
