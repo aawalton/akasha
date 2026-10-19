@@ -2,4 +2,5 @@
 {"id":"01a15394-d6a3-7634-b677-cb11ff42c8b6","title":"Hygiene","startedAt":"2026-10-19T09:55:00.000Z","dailyTracking":"01a15394-d6a3-71d6-9990-45dada535815","endedAt":"2026-10-19T10:40:00.000Z","safetyLevel":"1","difficultyLevel":"1"}
 {"id":"01a153bf-70b6-7311-ae22-7b0dd6439c83","title":"Walk","startedAt":"2026-10-19T10:40:00.000Z","dailyTracking":"01a15394-d6a3-71d6-9990-45dada535815","endedAt":"2026-10-19T10:55:00.000Z","safetyLevel":"1","difficultyLevel":"1"}
 {"id":"01a153cc-2f8e-7488-8ab5-42fd9702a70b","title":"Walk","startedAt":"2026-10-19T10:55:00.000Z","dailyTracking":"01a15394-d6a3-71d6-9990-45dada535815","endedAt":"2026-10-19T12:22:00.000Z","safetyLevel":"2","difficultyLevel":"1"}
-{"id":"01a1541c-c2c8-7ddd-8218-5609d3a6685c","title":"Hygiene","startedAt":"2026-10-19T12:22:00.000Z","dailyTracking":"01a15394-d6a3-71d6-9990-45dada535815","safetyLevel":"2","difficultyLevel":"0"}
+{"id":"01a1541c-c2c8-7ddd-8218-5609d3a6685c","title":"Hygiene","startedAt":"2026-10-19T12:22:00.000Z","dailyTracking":"01a15394-d6a3-71d6-9990-45dada535815","safetyLevel":"2","difficultyLevel":"0","endedAt":"2026-10-19T13:40:00.000Z"}
+{"id":"01a15464-1519-7bd2-9d6d-01287921ef01","title":"Walk","startedAt":"2026-10-19T13:40:00.000Z","dailyTracking":"01a15394-d6a3-71d6-9990-45dada535815","safetyLevel":"2","difficultyLevel":"1"}
