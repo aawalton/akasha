@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQINIGgAABiRRP__AAAAAAAAAAAAAAAAAAAAAAAAAIkAIAQBgAAgAAAAAgAAhAAACIAIgBgAABAAAgMCAAAySAAAwAAMIAAAAgDABAAAAHAAAAAGKwAAABVKwAAAAAAAAAAAPgAMmWAgk14ZLOeJjBIDGFAhHmwXWK1ymYYi54JJQiAHt5m1r2nmuHsoGQ",
+  "buildHash": "ATQINIGgAABiRRP__VgAAAAAAAAAAAAAAAAAAAAAAAIkAIAQBgAAgAAAAAgAAhAAACIAIgBgAABAAAgMCBAAySAAAwAAMIAAAAgDABAAAAHAACAAGKwAAABVKwAAAAAAAAAAAPgAMmWAgk14ZLOeJjBIDGFAhHmwXWK1ymYYi54JJQiAHt5m1r2nmuHsoGQ",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -2696,7 +2696,7 @@
             "name": "Radiant Magelight",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "abilityIndex": 3,
           "isUltimate": false,
           "atMorph": true
@@ -16411,7 +16411,7 @@
   },
   "skillPoints": {
     "total": 577,
-    "unassigned": 478,
+    "unassigned": 472,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 1,
@@ -28350,46 +28350,193 @@
   },
   "inventoryCheck": {
     "date": "2026-10-19",
-    "misplaced": 18
+    "misplaced": 8
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792449226,
+      "capturedAt": 1792450168,
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "stats": {
-        "penetration-physical": 0,
-        "magicka-recovery": 514,
-        "stamina-maximum": 12000,
-        "resistance-physical": 0,
-        "resistance-spell": 0,
-        "critical-rating-spell": 2181,
-        "power-weapon": 1000,
-        "health-recovery": 814,
-        "resistance-critical": 1320,
-        "penetration-spell": 0,
-        "magicka-maximum": 27567,
-        "critical-rating-weapon": 2181,
-        "power-spell": 1000,
+        "critical-rating-spell": 4810,
         "stamina-recovery": 514,
-        "health-maximum": 21051
+        "health-maximum": 21472,
+        "health-recovery": 814,
+        "penetration-spell": 3460,
+        "critical-rating-weapon": 4810,
+        "resistance-spell": 5059,
+        "power-weapon": 1129,
+        "resistance-physical": 5059,
+        "magicka-maximum": 36480,
+        "magicka-recovery": 524,
+        "penetration-physical": 3460,
+        "resistance-critical": 1320,
+        "stamina-maximum": 12240,
+        "power-spell": 1129
       },
       "unbonusedStats": {
-        "penetration-physical": 0,
-        "magicka-recovery": 514,
-        "stamina-maximum": 12000,
-        "resistance-physical": 0,
-        "resistance-spell": 0,
         "critical-rating-spell": 2181,
-        "power-weapon": 1000,
-        "health-recovery": 814,
-        "resistance-critical": 0,
-        "penetration-spell": 0,
-        "magicka-maximum": 27567,
-        "critical-rating-weapon": 2181,
-        "power-spell": 1000,
         "stamina-recovery": 514,
-        "health-maximum": 21051
+        "health-maximum": 21472,
+        "health-recovery": 814,
+        "penetration-spell": 0,
+        "critical-rating-weapon": 2181,
+        "resistance-spell": 0,
+        "power-weapon": 1000,
+        "resistance-physical": 0,
+        "magicka-maximum": 36480,
+        "magicka-recovery": 524,
+        "penetration-physical": 0,
+        "resistance-critical": 0,
+        "stamina-maximum": 12240,
+        "power-spell": 1000
+      },
+      "activeBuffs": [
+        {
+          "abilityId": 13943,
+          "name": "Boon: The Mage",
+          "description": "increases Maximum Magicka",
+          "effect": "Increases your Maximum Magicka by |cffffff2941|r.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 127531,
+          "name": "Corrupting Bloody Mara",
+          "description": "Increase Max Magicka by |cffffff3937|r, Max Health by |cffffff4305|r, and Health Recovery by |cffffff430|r for |cffffff2|r hours. \nIf you are a vampire, the tainted blood in this drink will also spark a fierce hunger in you.",
+          "effect": "Increase Max Magicka by |cffffff4620|r.\nIncrease Max Health by |cffffff5051|r.\nIncrease Health Recovery by |cffffff505|r.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61667,
+          "name": "Major Savagery",
+          "description": "",
+          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
+          "stacks": 0
+        }
+      ],
+      "championPoints": [
+        {
+          "championSkillId": 99,
+          "points": 20,
+          "maxPoints": 20,
+          "bonus": "|cffffff520|r Max Magicka",
+          "slottable": false
+        },
+        {
+          "championSkillId": 3,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff1300|r Max Magicka",
+          "slottable": true
+        }
+      ],
+      "worn": [
+        {
+          "slot": 2,
+          "link": "|H0:item:99683:364:50:0:0:0:0:0:0:0:0:0:0:0:1:8:0:1:0:945:0|h|h",
+          "armor": 1396,
+          "enchant": "Adds |cffffff868|r Maximum Magicka.",
+          "enchantCategory": 13,
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 6,
+          "link": "|H0:item:99690:364:50:0:0:0:0:0:0:0:0:0:0:0:1:8:0:1:0:9550:0|h|h",
+          "armor": 523,
+          "enchant": "Adds |cffffff351|r Maximum Magicka.",
+          "enchantCategory": 13,
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 8,
+          "link": "|H0:item:99687:364:50:0:0:0:0:0:0:0:0:0:0:0:1:8:0:1:0:545:0|h|h",
+          "armor": 1221,
+          "enchant": "Adds |cffffff868|r Maximum Magicka.",
+          "enchantCategory": 13,
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 9,
+          "link": "|H0:item:99684:364:50:0:0:0:0:0:0:0:0:0:0:0:1:8:0:1:0:9035:0|h|h",
+          "armor": 1221,
+          "enchant": "Adds |cffffff351|r Maximum Magicka.",
+          "enchantCategory": 13,
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 16,
+          "link": "|H0:item:99685:364:50:0:0:0:0:0:0:0:0:0:0:0:1:8:0:1:0:8785:0|h|h",
+          "armor": 698,
+          "enchant": "Adds |cffffff351|r Maximum Magicka.",
+          "enchantCategory": 13,
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
+        }
+      ],
+      "skills": [
+        {
+          "slot": 3,
+          "abilityId": 40478,
+          "name": "Inner Light",
+          "description": "Conjure a mote of magelight, revealing stealthed and invisible enemies around you for |cffffff5|r seconds. Exposed enemies cannot return to stealth or invisibility for |cffffff4|r seconds. The light is so brilliant that you cannot conceal your presence while active.\n\nWhile slotted gain Major Savagery, increasing Critical Chance by |cffffff12|r% and your Max Magicka is increased by |cffffff5|r%.",
+          "durationMs": 5000,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0,
+          "ultimateCost": 0
+        }
+      ],
+      "classPassives": [],
+      "inArchive": false,
+      "archiveBoons": [],
+      "advanced": {
+        "healing-taken-base": 0,
+        "healing-done-base": 0,
+        "healing-critical-bonus": 0,
+        "critical-damage": 0
+      }
+    },
+    "backBar": {
+      "capturedAt": 1792450276,
+      "esoVersion": "eso.live.12.1.6.3309674",
+      "inCombat": false,
+      "stats": {
+        "critical-rating-spell": 2181,
+        "stamina-recovery": 514,
+        "health-maximum": 21051,
+        "health-recovery": 814,
+        "penetration-spell": 0,
+        "critical-rating-weapon": 2181,
+        "resistance-spell": 0,
+        "power-weapon": 1000,
+        "resistance-physical": 0,
+        "magicka-maximum": 27567,
+        "magicka-recovery": 514,
+        "penetration-physical": 0,
+        "resistance-critical": 1320,
+        "stamina-maximum": 12000,
+        "power-spell": 1000
+      },
+      "unbonusedStats": {
+        "critical-rating-spell": 2181,
+        "stamina-recovery": 514,
+        "health-maximum": 21051,
+        "health-recovery": 814,
+        "penetration-spell": 0,
+        "critical-rating-weapon": 2181,
+        "resistance-spell": 0,
+        "power-weapon": 1000,
+        "resistance-physical": 0,
+        "magicka-maximum": 27567,
+        "magicka-recovery": 514,
+        "penetration-physical": 0,
+        "resistance-critical": 0,
+        "stamina-maximum": 12000,
+        "power-spell": 1000
       },
       "activeBuffs": [
         {
@@ -28431,98 +28578,13 @@
       "advanced": {
         "healing-taken-base": 0,
         "healing-done-base": 0,
-        "critical-damage": 0,
-        "healing-critical-bonus": 0
-      }
-    },
-    "backBar": {
-      "capturedAt": 1792448916,
-      "esoVersion": "eso.live.12.1.6.3309674",
-      "inCombat": false,
-      "stats": {
-        "penetration-physical": 0,
-        "magicka-recovery": 514,
-        "stamina-maximum": 12153,
-        "resistance-physical": 2425,
-        "resistance-spell": 2425,
-        "critical-rating-spell": 2181,
-        "power-weapon": 1000,
-        "health-recovery": 309,
-        "resistance-critical": 1320,
-        "penetration-spell": 0,
-        "magicka-maximum": 23284,
-        "critical-rating-weapon": 2181,
-        "power-spell": 1000,
-        "stamina-recovery": 514,
-        "health-maximum": 16169
-      },
-      "unbonusedStats": {
-        "penetration-physical": 0,
-        "magicka-recovery": 514,
-        "stamina-maximum": 12153,
-        "resistance-physical": 0,
-        "resistance-spell": 0,
-        "critical-rating-spell": 2181,
-        "power-weapon": 1000,
-        "health-recovery": 309,
-        "resistance-critical": 0,
-        "penetration-spell": 0,
-        "magicka-maximum": 23284,
-        "critical-rating-weapon": 2181,
-        "power-spell": 1000,
-        "stamina-recovery": 514,
-        "health-maximum": 16169
-      },
-      "activeBuffs": [
-        {
-          "abilityId": 13943,
-          "name": "Boon: The Mage",
-          "description": "increases Maximum Magicka",
-          "effect": "Increases your Maximum Magicka by |cffffff2207|r.\n",
-          "stacks": 0
-        }
-      ],
-      "championPoints": [
-        {
-          "championSkillId": 99,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff520|r Max Magicka",
-          "slottable": false
-        },
-        {
-          "championSkillId": 3,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff1300|r Max Magicka",
-          "slottable": true
-        }
-      ],
-      "worn": [
-        {
-          "slot": 9,
-          "link": "|H0:item:215583:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:10000:0|h|h",
-          "armor": 2425,
-          "enchant": "Adds |cffffff153|r Maximum Magicka.\nAdds |cffffff169|r Maximum Health.\nAdds |cffffff153|r Maximum Stamina.",
-          "enchantCategory": 36,
-          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
-          "quality": 5
-        }
-      ],
-      "skills": [],
-      "classPassives": [],
-      "inArchive": false,
-      "archiveBoons": [],
-      "advanced": {
-        "healing-taken-base": 0,
-        "healing-done-base": 0,
-        "critical-damage": 0,
-        "healing-critical-bonus": 0
+        "healing-critical-bonus": 0,
+        "critical-damage": 0
       }
     }
   },
   "rotationReading": {
-    "capturedAt": 1792449051,
+    "capturedAt": 1792449793,
     "toughness": 19407.5815965397,
     "damage": 0,
     "healing": 0,
