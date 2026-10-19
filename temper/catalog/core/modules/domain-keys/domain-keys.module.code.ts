@@ -27,6 +27,7 @@ export const CATALOG_DOMAIN_KEYS = [
   "sandboxLibraryCatalog",
   "itemStyleCatalog",
   "playerAnswerCatalog",
+  "championStarCatalog",
 ] as const
 
 export type DomainKey = (typeof CATALOG_DOMAIN_KEYS)[number]

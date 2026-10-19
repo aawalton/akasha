@@ -63,6 +63,7 @@
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-merge-forward/completion-merge-forward.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-progress-index/completion-progress-index.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/watcher/modules/saved-variables-reader/saved-variables-reader.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/watcher/modules/watcher-champion-star-landing/watcher-champion-star-landing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/watcher/modules/watcher-import-catalog/watcher-import-catalog.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/web/modules/player-settings/player-settings.module.code.ts","typed":false,"deferred":false}

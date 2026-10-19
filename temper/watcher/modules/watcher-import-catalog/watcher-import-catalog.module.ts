@@ -104,10 +104,19 @@ export const watcherImportCatalog = {
       statement: "A caller may hand in what writes the style names.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each run writes the jump points and slotting the capture holds onto the champion star pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller may hand in what writes the champion star pages.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here opens the saved-variables file.",
     },
   ],
   createdAt: "2026-09-02T19:03:27.439Z",
-  updatedAt: "2026-10-19T17:50:52.469Z",
+  updatedAt: "2026-10-19T22:51:58.202Z",
 } as const satisfies Module

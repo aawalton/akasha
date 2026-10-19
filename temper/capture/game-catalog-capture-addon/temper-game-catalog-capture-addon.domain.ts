@@ -11,6 +11,7 @@ export const temperGameCatalogCaptureAddon = {
     "module/antiquity-lore-catalog-capture",
     "module/armor-type-constants",
     "module/cadwell-catalog-capture",
+    "module/champion-star-catalog-capture",
     "module/class-catalog-capture",
     "module/collectibles-catalog-capture",
     "module/companion-equipment-catalog-capture",
@@ -60,5 +61,5 @@ export const temperGameCatalogCaptureAddon = {
     },
   ],
   createdAt: "2026-09-02T06:50:31.685Z",
-  updatedAt: "2026-09-27T03:40:17.000Z",
+  updatedAt: "2026-10-19T22:51:58.202Z",
 } as const satisfies Domain

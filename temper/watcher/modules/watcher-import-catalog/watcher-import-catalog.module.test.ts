@@ -335,6 +335,20 @@ test("a run hands the whole capture on to be written onto the style pages", asyn
   expect(handed).toEqual([FIVE_DOMAINS])
 })
 
+test("a run hands the whole capture on to be written onto the champion star pages", async () => {
+  const { patch } = recorder((slug) => ({ id: slug }))
+  const handed: string[] = []
+  await runImportCatalog(FIVE_DOMAINS, {
+    patch,
+    now: () => "2026-09-02T00:00:00.000Z",
+    report: () => {},
+    landStars: async (content) => {
+      handed.push(content)
+    },
+  })
+  expect(handed).toEqual([FIVE_DOMAINS])
+})
+
 const DROPPED_SKILLS = `
 TemperCatalog_SavedVariables =
 {

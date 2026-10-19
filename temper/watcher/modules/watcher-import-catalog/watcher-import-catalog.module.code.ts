@@ -10,6 +10,7 @@ import {
   type AccountSummary,
   readAccountSummaries,
 } from "akasha/temper/watcher/modules/saved-variables-reader/saved-variables-reader.module.code.ts"
+import { landChampionStars } from "akasha/temper/watcher/modules/watcher-champion-star-landing/watcher-champion-star-landing.module.code.ts"
 import { log } from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
 import { landStyleNames } from "akasha/temper/watcher/modules/watcher-style-name-landing/watcher-style-name-landing.module.code.ts"
 
@@ -56,6 +57,7 @@ interface ImportCatalogDeps {
   readonly now?: () => string
   readonly report?: (message: string) => void
   readonly nameStyles?: (content: string) => Promise<unknown>
+  readonly landStars?: (content: string) => Promise<unknown>
 }
 
 interface ImportCatalogOutcome {
@@ -178,6 +180,8 @@ export async function runImportCatalog(
 
   const nameStyles = deps.nameStyles ?? ((held: string) => landStyleNames(held, { report }))
   await nameStyles(content)
+  const landStars = deps.landStars ?? ((held: string) => landChampionStars(held, { report }))
+  await landStars(content)
 
   return { changedSlugs, absentSlugs, landed, skipped: undefined }
 }

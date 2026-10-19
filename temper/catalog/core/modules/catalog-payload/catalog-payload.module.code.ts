@@ -2,6 +2,7 @@ import type { PlayerAnswerCatalogData } from "akasha/temper/capture/player-answe
 import type { AchievementCatalogData } from "akasha/temper/capture/shape/modules/achievement-catalog/achievement-catalog.module.code.ts"
 import type { AntiquityLoreCatalogEntry } from "akasha/temper/capture/shape/modules/antiquity-lore-catalog/antiquity-lore-catalog.module.code.ts"
 import type { CadwellCatalogLevel } from "akasha/temper/capture/shape/modules/cadwell-catalog/cadwell-catalog.module.code.ts"
+import type { ChampionStarCatalogData } from "akasha/temper/capture/shape/modules/champion-star-catalog/champion-star-catalog.module.code.ts"
 import type { ClassCatalogEntry } from "akasha/temper/capture/shape/modules/class-catalog/class-catalog.module.code.ts"
 import type { CollectiblesCatalogData } from "akasha/temper/capture/shape/modules/collectibles-catalog/collectibles-catalog.module.code.ts"
 import type { CompanionEquipmentCatalogData } from "akasha/temper/capture/shape/modules/companion-equipment-catalog/companion-equipment-catalog.module.code.ts"
@@ -57,6 +58,7 @@ export interface CatalogPayload {
   sandboxLibraryCatalog?: SandboxLibraryCatalogData
   itemStyleCatalog?: ItemStyleCatalogData
   playerAnswerCatalog?: PlayerAnswerCatalogData
+  championStarCatalog?: ChampionStarCatalogData
   completed: boolean
   collectionSkips?: Record<string, string>
   apiVersion?: string

@@ -5387,6 +5387,7 @@
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/antiquity-lore-catalog-capture/antiquity-lore-catalog-capture.module.ts","id":"01a060e2-3182-7e5c-bae4-5a096f5b7806"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/armor-type-constants/armor-type-constants.module.ts","id":"01a06127-661f-7ab9-8fd2-c12787790998"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/cadwell-catalog-capture/cadwell-catalog-capture.module.ts","id":"01a060e2-3182-756a-bf21-3babbef6d0b0"}
+{"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/champion-star-catalog-capture/champion-star-catalog-capture.module.ts","id":"01a1565d-4f7a-7fc1-b342-99a5362598c4"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/collectibles-catalog-capture/collectibles-catalog-capture.module.ts","id":"01a060e2-3183-736c-b68e-33f414a5785c"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/companion-equipment-catalog-capture/companion-equipment-catalog-capture.module.ts","id":"01a060e2-3183-79ae-8aa3-7b0eb85b2869"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/companion-skill-catalog-capture/companion-skill-catalog-capture.module.ts","id":"01a060e2-3183-7d2a-a40a-3c845ef259aa"}
@@ -5428,6 +5429,7 @@
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/achievement-catalog/achievement-catalog.module.ts","id":"01a0604d-239a-7f6e-9caa-f6928757f48a"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/antiquity-lore-catalog/antiquity-lore-catalog.module.ts","id":"01a0604d-239b-783a-8c52-bac74f8d09b0"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/cadwell-catalog/cadwell-catalog.module.ts","id":"01a0604d-239b-7e40-96b8-b77f26524225"}
+{"propertySlug":"decision-kind","path":"temper/capture/shape/modules/champion-star-catalog/champion-star-catalog.module.ts","id":"01a1565d-4f7b-7864-981b-8e14568d543f"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/collectibles-catalog/collectibles-catalog.module.ts","id":"01a0604d-239c-77a7-809f-62a84ec5fc79"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/engine-answer-catalog/engine-answer-catalog.module.ts","id":"01a0d42b-9212-7821-8fb2-c85940aa54fd"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/engine-globals-catalog/engine-globals-catalog.module.ts","id":"01a0ca9b-a3a0-7ec2-86bc-abbb99ef6d88"}
@@ -6618,6 +6620,7 @@
 {"propertySlug":"decision-kind","path":"temper/thing/temper-thing.page-type.ts","id":"01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/saved-variables-reader/saved-variables-reader.module.ts","id":"01a06084-d41a-7898-b2c6-0be1faa981da"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-account-page/watcher-account-page.module.ts","id":"01a06381-35cf-7609-a436-3c4f4a0d6e3a"}
+{"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-champion-star-landing/watcher-champion-star-landing.module.ts","id":"01a1565d-4f7b-7acf-a2e3-55263157c2ad"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-config-file/watcher-config-file.module.ts","id":"01a06381-35cf-7578-8e5c-ded020afdf75"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-config/watcher-config.module.ts","id":"01a06377-d8cc-7874-ab3c-63e6604b4df8"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-daemon/watcher-daemon.module.ts","id":"01a06039-9c89-7821-837a-8edf111d90af"}

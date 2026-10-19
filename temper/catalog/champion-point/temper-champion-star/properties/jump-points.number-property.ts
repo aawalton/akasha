@@ -13,11 +13,11 @@ export const jumpPoints = {
       statement: "A star's jump points are the points `GetChampionSkillJumpPoints` answers for it.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "Jump points are written by hand, since no capture reads them from the game.",
+      decisionKind: "decision-kind/departure",
+      statement: "Jump points are landed from the catalog add-on's capture of the star.",
     },
   ],
   types: "ts",
   createdAt: "2026-10-19T22:40:43.300Z",
-  updatedAt: "2026-10-19T22:40:43.300Z",
+  updatedAt: "2026-10-19T22:51:58.202Z",
 } as const satisfies NumberProperty

@@ -9,6 +9,7 @@ export const temperCaptureShape = {
     "module/achievement-catalog",
     "module/antiquity-lore-catalog",
     "module/cadwell-catalog",
+    "module/champion-star-catalog",
     "module/class-catalog",
     "module/collectibles-catalog",
     "module/companion-equipment-catalog",
@@ -47,5 +48,5 @@ export const temperCaptureShape = {
     },
   ],
   createdAt: "2026-09-02T04:07:43.264Z",
-  updatedAt: "2026-09-27T03:40:17.000Z",
+  updatedAt: "2026-10-19T22:51:58.202Z",
 } as const satisfies Domain
