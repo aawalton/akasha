@@ -4,7 +4,7 @@ export const forcedToolChoice = {
   id: "01a0643b-c942-7c90-8314-374492f9e097",
   type: "page-type/module",
   slug: "forced-tool-choice",
-  definition: "a tool choice upstream refuses to force",
+  definition: "how code changes a tool choice Anthropic rejects",
   code: "ts",
   test: "ts",
   decisions: [
@@ -122,5 +122,5 @@ export const forcedToolChoice = {
     },
   ],
   createdAt: "2026-09-02T22:27:14.882Z",
-  updatedAt: "2026-09-25T14:00:55.000Z",
+  updatedAt: "2026-10-19T19:15:09.690Z",
 } as const satisfies Module
