@@ -7,8 +7,8 @@ export const nutritionMadeClear = {
   title: "Nutrition Made Clear",
   status: "in-progress",
   unit: "unit/minutes",
-  ownLength: 1115.4,
-  ownProgress: 433.766667,
+  ownLength: 1114.87,
+  ownProgress: 460.32,
   partOfCollections: [
     "great-courses-collection/all-great-courses",
     "great-courses-subject/food-and-drink-great-courses",
@@ -24,5 +24,6 @@ export const nutritionMadeClear = {
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-10-18T21:07:43.678Z",
+  updatedAt: "2026-10-19T16:28:32.680Z",
+  progressedAt: "2026-10-19T16:28:32.680Z",
 } as const satisfies GreatCourse
