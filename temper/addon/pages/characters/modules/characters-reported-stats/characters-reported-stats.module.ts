@@ -55,6 +55,11 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A reading keeps the search category the game gives each worn piece's enchantment.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reading keeps each skill on the bar held, with the text the game gives it now.",
     },
     {
@@ -89,5 +94,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-19T19:34:48.550Z",
+  updatedAt: "2026-10-19T19:46:18.187Z",
 } as const satisfies Module

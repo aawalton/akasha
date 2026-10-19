@@ -144,8 +144,14 @@ type WornPiece = {
   link: string
   armor: number
   enchant: string
+  enchantCategory: number
   trait: string
   quality: number
+}
+
+function enchantCategoryOf(link: string): number {
+  const enchantId = GetItemLinkFinalEnchantId(link)
+  return enchantId === 0 ? 0 : GetEnchantSearchCategoryType(enchantId)
 }
 
 function worn(): WornPiece[] {
@@ -161,6 +167,7 @@ function worn(): WornPiece[] {
       link,
       armor: GetItemLinkArmorRating(link, false),
       enchant,
+      enchantCategory: enchantCategoryOf(link),
       trait,
       quality: GetItemLinkFunctionalQuality(link),
     })
