@@ -7,8 +7,8 @@ export const pentatonixHolidaysAroundTheWorld = {
   title: "Holidays Around the World",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 40.9023,
-  ownProgress: 40.902617,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-10-28",
@@ -20,5 +20,6 @@ export const pentatonixHolidaysAroundTheWorld = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.272Z",
-  updatedAt: "2026-10-19T13:52:12.521Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

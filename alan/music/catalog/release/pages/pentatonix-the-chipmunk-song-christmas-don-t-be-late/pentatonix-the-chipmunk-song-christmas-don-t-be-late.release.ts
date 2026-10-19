@@ -7,8 +7,8 @@ export const pentatonixTheChipmunkSongChristmasDonTBeLate = {
   title: "The Chipmunk Song (Christmas Don't Be Late)",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 2.4654166666666666,
-  ownProgress: 2.465417,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-12-17",
@@ -20,5 +20,6 @@ export const pentatonixTheChipmunkSongChristmasDonTBeLate = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.284Z",
-  updatedAt: "2026-10-19T13:52:12.521Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

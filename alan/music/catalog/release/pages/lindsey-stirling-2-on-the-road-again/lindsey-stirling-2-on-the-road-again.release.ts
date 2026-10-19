@@ -4,8 +4,8 @@ export const lindseyStirling2OnTheRoadAgain = {
   id: "01a0676a-d726-7028-9351-47e31275e3c4",
   type: "page-type/release",
   slug: "lindsey-stirling-2-on-the-road-again",
-  ownLength: 2.693233333333333,
-  ownProgress: 2.693233,
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
   publishedAt: "2025-03-14",
@@ -21,5 +21,6 @@ export const lindseyStirling2OnTheRoadAgain = {
   ],
   title: "On The Road Again",
   createdAt: "2026-09-03T13:17:30.278Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const pentatonixWhiteChristmas = {
   title: "White Christmas",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 3.0606666666666666,
-  ownProgress: 3.060667,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-11-15",
@@ -20,5 +20,6 @@ export const pentatonixWhiteChristmas = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.289Z",
-  updatedAt: "2026-10-19T13:52:12.521Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

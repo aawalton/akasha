@@ -7,8 +7,8 @@ export const lindseyStirling2LoseYouNowAcoustic = {
   title: "Lose You Now (Acoustic)",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 3.1514333333333333,
-  ownProgress: 3.151433,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-04-22",
@@ -20,5 +20,6 @@ export const lindseyStirling2LoseYouNowAcoustic = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.275Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

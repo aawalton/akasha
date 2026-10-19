@@ -7,8 +7,8 @@ export const lindseyStirling2SpotifySingles = {
   title: "Spotify Singles",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 5.2130833333333335,
-  ownProgress: 5.213083,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-11-30",
@@ -20,5 +20,6 @@ export const lindseyStirling2SpotifySingles = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.282Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

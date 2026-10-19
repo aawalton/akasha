@@ -7,8 +7,8 @@ export const pentatonixIJustCalledToSayILoveYou = {
   title: "I Just Called To Say I Love You",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 3.448,
-  ownProgress: 3.448,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-10-01",
@@ -20,5 +20,6 @@ export const pentatonixIJustCalledToSayILoveYou = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.273Z",
-  updatedAt: "2026-09-15T16:38:20.000Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

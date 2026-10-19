@@ -7,8 +7,8 @@ export const lindseyStirling2CarolOfTheBellsLiveFromSummerTour2023 = {
   title: "Carol Of The Bells (Live from Summer Tour 2023)",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 8.611216666666667,
-  ownProgress: 8.611217,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-12-08",
@@ -20,5 +20,6 @@ export const lindseyStirling2CarolOfTheBellsLiveFromSummerTour2023 = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.266Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

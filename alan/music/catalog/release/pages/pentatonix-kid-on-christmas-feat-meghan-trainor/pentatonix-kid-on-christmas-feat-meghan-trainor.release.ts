@@ -7,8 +7,8 @@ export const pentatonixKidOnChristmasFeatMeghanTrainor = {
   title: "Kid On Christmas (feat. Meghan Trainor)",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 3.3766666666666665,
-  ownProgress: 3.376667,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-10-27",
@@ -20,5 +20,6 @@ export const pentatonixKidOnChristmasFeatMeghanTrainor = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.274Z",
-  updatedAt: "2026-10-19T13:52:12.521Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

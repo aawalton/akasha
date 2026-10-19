@@ -4,7 +4,7 @@ export const lindseyStirlingSpiderManTheme = {
   id: "01a0a587-c4a2-724d-bf86-151ed1ddbd88",
   type: "page-type/release",
   slug: "lindsey-stirling-spider-man-theme",
-  ownLength: 4.142533333333334,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
@@ -21,5 +21,5 @@ export const lindseyStirlingSpiderManTheme = {
   ],
   title: "Spider-Man Theme",
   createdAt: "2026-09-15T14:45:33.474Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

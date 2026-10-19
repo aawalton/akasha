@@ -7,8 +7,8 @@ export const lindseyStirling2Hallelujah = {
   title: "Hallelujah",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 3.3333333333333335,
-  ownProgress: 3.333333,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-11-18",
@@ -20,5 +20,6 @@ export const lindseyStirling2Hallelujah = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.271Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

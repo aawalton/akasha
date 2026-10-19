@@ -7,8 +7,8 @@ export const lindseyStirling2ByNoMeans = {
   title: "By No Means",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 3.5301666666666667,
-  ownProgress: 3.530167,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2011-09-26",
@@ -20,5 +20,6 @@ export const lindseyStirling2ByNoMeans = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.265Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

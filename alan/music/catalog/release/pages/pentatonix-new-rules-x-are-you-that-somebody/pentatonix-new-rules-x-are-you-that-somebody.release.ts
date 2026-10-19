@@ -7,8 +7,8 @@ export const pentatonixNewRulesXAreYouThatSomebody = {
   title: "New Rules x Are You That Somebody?",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 2.9726666666666666,
-  ownProgress: 2.972667,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-03-09",
@@ -20,5 +20,6 @@ export const pentatonixNewRulesXAreYouThatSomebody = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.277Z",
-  updatedAt: "2026-10-19T13:52:12.521Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

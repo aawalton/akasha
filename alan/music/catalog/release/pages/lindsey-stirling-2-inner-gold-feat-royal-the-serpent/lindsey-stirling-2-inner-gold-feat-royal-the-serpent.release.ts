@@ -7,8 +7,8 @@ export const lindseyStirling2InnerGoldFeatRoyalTheSerpent = {
   title: "Inner Gold [Feat. Royal & the Serpent]",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 7.621316666666667,
-  ownProgress: 7.621317,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-04-12",
@@ -20,5 +20,6 @@ export const lindseyStirling2InnerGoldFeatRoyalTheSerpent = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.273Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

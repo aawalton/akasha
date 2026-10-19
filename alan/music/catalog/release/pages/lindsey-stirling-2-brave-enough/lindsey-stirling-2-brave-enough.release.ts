@@ -4,8 +4,8 @@ export const lindseyStirling2BraveEnough = {
   id: "01a0676a-d719-7030-aee4-0859e9b64745",
   type: "page-type/release",
   slug: "lindsey-stirling-2-brave-enough",
-  ownLength: 55.46386666666667,
-  ownProgress: 55.463867,
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
   publishedAt: "2016-08-19",
@@ -21,5 +21,6 @@ export const lindseyStirling2BraveEnough = {
   ],
   title: "Brave Enough",
   createdAt: "2026-09-03T13:17:30.265Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

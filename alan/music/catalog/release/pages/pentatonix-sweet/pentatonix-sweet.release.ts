@@ -7,8 +7,8 @@ export const pentatonixSweet = {
   title: "Sweet",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 2.6373,
-  ownProgress: 2.6373,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-07-22",
@@ -20,5 +20,6 @@ export const pentatonixSweet = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.282Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

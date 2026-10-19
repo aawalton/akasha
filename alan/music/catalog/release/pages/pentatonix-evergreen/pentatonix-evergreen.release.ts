@@ -7,8 +7,8 @@ export const pentatonixEvergreen = {
   title: "Evergreen",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 39.597233333333335,
-  ownProgress: 39.5988,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-10-29",
@@ -20,5 +20,6 @@ export const pentatonixEvergreen = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.269Z",
-  updatedAt: "2026-10-19T13:52:12.521Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

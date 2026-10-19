@@ -7,8 +7,8 @@ export const lindseyStirling2EvilTwinFeatShuba = {
   title: "Evil Twin [Feat. Shuba]",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 7.59355,
-  ownProgress: 7.59355,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-05-30",
@@ -20,5 +20,6 @@ export const lindseyStirling2EvilTwinFeatShuba = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.269Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

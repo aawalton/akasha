@@ -7,8 +7,8 @@ export const lindseyStirling2LongWayHome = {
   title: "Long Way Home",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 2.6296166666666667,
-  ownProgress: 2.629617,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-06-30",
@@ -20,5 +20,6 @@ export const lindseyStirling2LongWayHome = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.275Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

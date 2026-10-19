@@ -7,8 +7,8 @@ export const pentatonixWhenYouBelieveBlackStereoFaithUndergroundMix = {
   title: "When You Believe (Black Stereo Faith Underground Mix)",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 5.2389833333333335,
-  ownProgress: 5.238983,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-12-21",
@@ -20,5 +20,6 @@ export const pentatonixWhenYouBelieveBlackStereoFaithUndergroundMix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.289Z",
-  updatedAt: "2026-10-19T13:52:12.521Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

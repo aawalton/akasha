@@ -4,8 +4,8 @@ export const lindseyStirling2ShatterMeDeluxe = {
   id: "01a0676a-d728-706f-a448-cba1a51c490a",
   type: "page-type/release",
   slug: "lindsey-stirling-2-shatter-me-deluxe",
-  ownLength: 64.22173333333333,
-  ownProgress: 64.221733,
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
   publishedAt: "2025-09-26",
@@ -21,5 +21,6 @@ export const lindseyStirling2ShatterMeDeluxe = {
   ],
   title: "Shatter Me (Deluxe)",
   createdAt: "2026-09-03T13:17:30.280Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

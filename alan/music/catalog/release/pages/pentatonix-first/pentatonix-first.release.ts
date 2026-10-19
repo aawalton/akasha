@@ -7,8 +7,8 @@ export const pentatonixFirst = {
   title: "First",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 17.234366666666666,
-  ownProgress: 17.234367,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-05-09",
@@ -20,5 +20,6 @@ export const pentatonixFirst = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.270Z",
-  updatedAt: "2026-10-19T13:52:12.521Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

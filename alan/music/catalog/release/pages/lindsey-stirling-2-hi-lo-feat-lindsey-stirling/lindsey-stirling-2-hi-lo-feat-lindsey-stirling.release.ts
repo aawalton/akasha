@@ -7,8 +7,8 @@ export const lindseyStirling2HiLoFeatLindseyStirling = {
   title: "Hi-Lo (feat. Lindsey Stirling)",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 4.27245,
-  ownProgress: 4.27245,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-06-08",
@@ -20,5 +20,6 @@ export const lindseyStirling2HiLoFeatLindseyStirling = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.272Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const pentatonixPtxmasDeluxeEdition = {
   title: "PTXmas (Deluxe Edition)",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 28.3961,
-  ownProgress: 28.3961,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2012-11-12",
@@ -20,5 +20,6 @@ export const pentatonixPtxmasDeluxeEdition = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.279Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

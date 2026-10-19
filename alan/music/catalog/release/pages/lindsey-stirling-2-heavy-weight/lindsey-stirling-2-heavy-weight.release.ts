@@ -7,8 +7,8 @@ export const lindseyStirling2HeavyWeight = {
   title: "Heavy Weight",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 4.370783333333334,
-  ownProgress: 4.370783,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-12-11",
@@ -20,5 +20,6 @@ export const lindseyStirling2HeavyWeight = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.272Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const lindseyStirling2WhatChildIsThis = {
   title: "What Child Is This",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 3.5208333333333335,
-  ownProgress: 3.520833,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-11-27",
@@ -20,5 +20,6 @@ export const lindseyStirling2WhatChildIsThis = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.288Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

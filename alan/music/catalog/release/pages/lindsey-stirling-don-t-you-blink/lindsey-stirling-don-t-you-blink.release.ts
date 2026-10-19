@@ -4,7 +4,7 @@ export const lindseyStirlingDonTYouBlink = {
   id: "01a0a587-c2f9-7a40-a430-4eb4cd60c76e",
   type: "page-type/release",
   slug: "lindsey-stirling-don-t-you-blink",
-  ownLength: 3.724266666666667,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
@@ -21,5 +21,5 @@ export const lindseyStirlingDonTYouBlink = {
   ],
   title: "Don't You Blink",
   createdAt: "2026-09-15T14:45:33.049Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

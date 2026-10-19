@@ -7,8 +7,8 @@ export const lindseyStirling2WarmerInTheWinterDeluxeEdition = {
   title: "Warmer In The Winter (Deluxe Edition)",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 60.75925,
-  ownProgress: 60.75925,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-10-19",
@@ -20,5 +20,6 @@ export const lindseyStirling2WarmerInTheWinterDeluxeEdition = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.288Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

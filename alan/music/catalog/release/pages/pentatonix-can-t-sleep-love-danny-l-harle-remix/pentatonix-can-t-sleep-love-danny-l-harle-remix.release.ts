@@ -7,8 +7,8 @@ export const pentatonixCanTSleepLoveDannyLHarleRemix = {
   title: "Can't Sleep Love (Danny L Harle Remix)",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 3.8911,
-  ownProgress: 3.8911,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-05-13",
@@ -20,5 +20,6 @@ export const pentatonixCanTSleepLoveDannyLHarleRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.265Z",
-  updatedAt: "2026-09-15T16:38:20.000Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

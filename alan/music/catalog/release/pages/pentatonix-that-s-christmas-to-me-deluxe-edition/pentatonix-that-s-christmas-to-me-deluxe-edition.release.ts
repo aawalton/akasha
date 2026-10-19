@@ -7,8 +7,8 @@ export const pentatonixThatSChristmasToMeDeluxeEdition = {
   title: "That's Christmas To Me (Deluxe Edition)",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 51.49145,
-  ownProgress: 51.49145,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-10-30",
@@ -20,5 +20,6 @@ export const pentatonixThatSChristmasToMeDeluxeEdition = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.284Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

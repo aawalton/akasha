@@ -7,8 +7,8 @@ export const pentatonixPrayersForThisWorld = {
   title: "Prayers For This World",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 3.7077666666666667,
-  ownProgress: 3.707767,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-09-23",
@@ -20,5 +20,6 @@ export const pentatonixPrayersForThisWorld = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.279Z",
-  updatedAt: "2026-10-19T13:52:12.521Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

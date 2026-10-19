@@ -7,8 +7,8 @@ export const pentatonixPleaseSantaPlease = {
   title: "Please Santa Please",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 3.289066666666667,
-  ownProgress: 3.2891,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-09-25",
@@ -20,5 +20,6 @@ export const pentatonixPleaseSantaPlease = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.278Z",
-  updatedAt: "2026-10-19T13:52:12.521Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const pentatonixGangnamStyleLive = {
   title: "Gangnam Style (Live)",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 2.7176833333333335,
-  ownProgress: 2.717683,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2012-07-15",
@@ -20,5 +20,6 @@ export const pentatonixGangnamStyleLive = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.270Z",
-  updatedAt: "2026-10-19T13:52:12.521Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

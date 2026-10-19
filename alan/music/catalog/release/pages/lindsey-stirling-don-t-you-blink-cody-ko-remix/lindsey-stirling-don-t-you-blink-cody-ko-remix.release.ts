@@ -4,7 +4,7 @@ export const lindseyStirlingDonTYouBlinkCodyKoRemix = {
   id: "01a0a587-c2b6-7b24-a04c-30912a63068f",
   type: "page-type/release",
   slug: "lindsey-stirling-don-t-you-blink-cody-ko-remix",
-  ownLength: 2.9130333333333334,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
@@ -21,5 +21,5 @@ export const lindseyStirlingDonTYouBlinkCodyKoRemix = {
   ],
   title: "Don't You Blink (Cody Ko Remix)",
   createdAt: "2026-09-15T14:45:32.982Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

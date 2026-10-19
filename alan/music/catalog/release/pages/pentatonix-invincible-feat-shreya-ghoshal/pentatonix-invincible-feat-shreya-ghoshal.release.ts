@@ -7,8 +7,8 @@ export const pentatonixInvincibleFeatShreyaGhoshal = {
   title: "Invincible (feat. Shreya Ghoshal)",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 3.2988833333333334,
-  ownProgress: 3.298883,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-10-26",
@@ -20,5 +20,6 @@ export const pentatonixInvincibleFeatShreyaGhoshal = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.273Z",
-  updatedAt: "2026-10-19T13:52:12.521Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

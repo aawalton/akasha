@@ -7,8 +7,8 @@ export const lindseyStirling2BeyondTheVeil = {
   title: "Beyond the Veil",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 4.25125,
-  ownProgress: 4.25125,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-04-15",
@@ -20,5 +20,6 @@ export const lindseyStirling2BeyondTheVeil = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.264Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

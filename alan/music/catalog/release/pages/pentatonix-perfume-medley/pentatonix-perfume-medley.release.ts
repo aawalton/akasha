@@ -7,8 +7,8 @@ export const pentatonixPerfumeMedley = {
   title: "Perfume Medley",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 2.21955,
-  ownProgress: 2.21955,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-08-24",
@@ -20,5 +20,6 @@ export const pentatonixPerfumeMedley = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.278Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

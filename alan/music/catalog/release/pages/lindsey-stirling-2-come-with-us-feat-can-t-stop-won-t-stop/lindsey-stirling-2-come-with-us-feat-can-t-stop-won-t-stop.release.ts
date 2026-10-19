@@ -7,8 +7,8 @@ export const lindseyStirling2ComeWithUsFeatCanTStopWonTStop = {
   title: "Come With Us (feat. Can't Stop Won't Stop)",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 3.936383333333333,
-  ownProgress: 3.936383,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2012-08-13",
@@ -20,5 +20,6 @@ export const lindseyStirling2ComeWithUsFeatCanTStopWonTStop = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.267Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

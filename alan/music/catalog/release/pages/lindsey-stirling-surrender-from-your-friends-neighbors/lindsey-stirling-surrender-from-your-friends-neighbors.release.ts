@@ -4,7 +4,7 @@ export const lindseyStirlingSurrenderFromYourFriendsNeighbors = {
   id: "01a0a587-c33d-7b04-afe7-1a0a8ce323fc",
   type: "page-type/release",
   slug: "lindsey-stirling-surrender-from-your-friends-neighbors",
-  ownLength: 3.0713333333333335,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
@@ -21,5 +21,5 @@ export const lindseyStirlingSurrenderFromYourFriendsNeighbors = {
   ],
   title: "Surrender (From Your Friends & Neighbors)",
   createdAt: "2026-09-15T14:45:33.117Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

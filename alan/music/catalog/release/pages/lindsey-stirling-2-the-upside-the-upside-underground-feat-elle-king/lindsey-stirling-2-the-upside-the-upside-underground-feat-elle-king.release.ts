@@ -7,8 +7,8 @@ export const lindseyStirling2TheUpsideTheUpsideUndergroundFeatElleKing = {
   title: "The Upside / The Upside / Underground (feat. Elle King)",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 11.9647,
-  ownProgress: 11.9647,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-08-02",
@@ -20,5 +20,6 @@ export const lindseyStirling2TheUpsideTheUpsideUndergroundFeatElleKing = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.286Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

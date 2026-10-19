@@ -7,8 +7,8 @@ export const pentatonixChristmasInTheCity = {
   title: "Christmas in the City",
   partOfCollections: ["artist/pentatonix"],
   position: 0,
-  ownLength: 46.091166666666666,
-  ownProgress: 46.091167,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-10-24",
@@ -21,5 +21,6 @@ export const pentatonixChristmasInTheCity = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.266Z",
-  updatedAt: "2026-10-19T13:52:12.521Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

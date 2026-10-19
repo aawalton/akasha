@@ -7,8 +7,8 @@ export const lindseyStirling2ItAinTMeFeatKurtHugoSchneider = {
   title: "It Ain't Me (feat. Kurt Hugo Schneider)",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 2.51225,
-  ownProgress: 2.51225,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-07-17",
@@ -20,5 +20,6 @@ export const lindseyStirling2ItAinTMeFeatKurtHugoSchneider = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.274Z",
-  updatedAt: "2026-09-15T16:37:53.000Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release

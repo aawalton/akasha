@@ -7,8 +7,8 @@ export const lindseyStirling2EvilTwin = {
   title: "Evil Twin",
   partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
-  ownLength: 11.416866666666667,
-  ownProgress: 11.416867,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-05-17",
@@ -20,5 +20,6 @@ export const lindseyStirling2EvilTwin = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.269Z",
-  updatedAt: "2026-10-19T13:50:25.356Z",
+  updatedAt: "2026-10-19T14:01:29.522Z",
+  progressedAt: "2026-10-19T14:01:29.522Z",
 } as const satisfies Release
