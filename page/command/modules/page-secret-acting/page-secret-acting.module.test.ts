@@ -16,7 +16,9 @@ import type { Refused } from "akasha/command/modules/landing/landing.module.code
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import {
+  filedIn,
   landedWith,
+  PIPED,
   PUT,
   type Saying,
   TAKE,
@@ -69,6 +71,20 @@ test("a value that is one newline kept is a value rather than empty", () => {
 
 test("what is piped in that is no utf-8 text is refused", () => {
   expect(typeof valueIn(new Uint8Array([0xff, 0xfe, 0xfd]))).toBe("object")
+})
+
+test("a refusal names where the value came from", () => {
+  const said = valueIn(new TextEncoder().encode("\n"), false, "/held/value")
+  expect(typeof said === "object" ? said.refused : "").toContain("/held/value")
+})
+
+test("a refusal naming nowhere names what was piped in", () => {
+  const said = valueIn(new TextEncoder().encode("\n"))
+  expect(typeof said === "object" ? said.refused : "").toContain(PIPED)
+})
+
+test("a file that will not open is answered as unreadable rather than thrown", () => {
+  expect("unreadable" in filedIn("/nowhere/at/all")).toBe(true)
 })
 
 const scratch = scratchWorld()

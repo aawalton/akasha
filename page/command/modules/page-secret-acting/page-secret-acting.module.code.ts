@@ -79,26 +79,33 @@ type Taken =
 
 export function pipedIn(): Taken {
   if (process.stdin.isTTY === true) return { tty: true }
+  return filedIn(INPUT_AT)
+}
+
+export function filedIn(path: string): Exclude<Taken, { readonly tty: true }> {
   try {
-    return { bytes: readFileSync(INPUT_AT) }
+    return { bytes: readFileSync(path) }
   } catch (thrown) {
     return { unreadable: whyOf(thrown) }
   }
 }
 
+export const PIPED = "what was piped in"
+
 export function valueIn(
   bytes: Uint8Array,
-  keepLastNewline = false
+  keepLastNewline = false,
+  from = PIPED
 ): string | { readonly refused: string } {
   let text: string
   try {
     text = new TextDecoder("utf-8", { fatal: true }).decode(bytes)
   } catch {
-    return { refused: "what was piped in is no utf-8 text, and a secret's value is text" }
+    return { refused: `${from} is no utf-8 text, and a secret's value is text` }
   }
   const value = !keepLastNewline && text.endsWith("\n") ? text.slice(0, -1) : text
   if (value === "") {
-    return { refused: "what was piped in is empty, and an empty secret stands for a usable one" }
+    return { refused: `${from} is empty, and an empty secret would read as a usable one` }
   }
   return value
 }
