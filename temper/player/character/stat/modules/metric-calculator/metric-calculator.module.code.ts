@@ -153,6 +153,13 @@ type StarPoints = {
   readonly maxPoints: number
 }
 
+function pointsPaid(source: EffectSource, points: number): number {
+  const jumps: readonly number[] =
+    "jumpPoints" in source && Array.isArray(source.jumpPoints) ? source.jumpPoints : []
+  if (jumps.length === 0) return points
+  return jumps.reduce((reached, jump) => (jump <= points && jump > reached ? jump : reached), 0)
+}
+
 function asSpent(
   source: EffectSource,
   spent: ReadonlyMap<number, StarPoints>
@@ -163,7 +170,7 @@ function asSpent(
   }
   const star = spent.get(source.esoChampionSkillId)
   if (star === undefined) return undefined
-  const share = star.points / star.maxPoints
+  const share = pointsPaid(source, star.points) / star.maxPoints
   const effects = source.effects.map((effect) =>
     isMetricEffect(effect) &&
     (effect.effectType === "integer" || effect.effectType === "fractional-change")

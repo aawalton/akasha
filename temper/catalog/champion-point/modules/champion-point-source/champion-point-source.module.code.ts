@@ -25,6 +25,7 @@ interface ChampionPointTemplate extends EffectSourceInterface<"champion-points",
   description: string
   esoChampionSkillId: number
   isSlottable: boolean
+  jumpPoints: readonly number[]
 }
 
 type Row = Readonly<Record<string, unknown>>
@@ -45,6 +46,7 @@ export const CHAMPION_STAR_READS: readonly Read[] = [
       "isSlottable",
       "effects",
       "hashPlace",
+      "jumpPoints",
     ],
   ],
 ]
@@ -80,6 +82,10 @@ function starOf(row: Row): ChampionPointSource {
   if (!CONSTELLATIONS.includes(constellation)) throw new Error(`${at} names no constellation`)
   if (typeof row.esoChampionSkillId !== "number") throw new Error(`${at} states no game number`)
   const slottable = row.isSlottable === true
+  const jumps = row.jumpPoints ?? []
+  if (!Array.isArray(jumps) || !jumps.every((jump) => typeof jump === "number")) {
+    throw new Error(`${at} states jump points that are not numbers`)
+  }
   return {
     id: String(row.slug) as ChampionPointId,
     name: String(row.title),
@@ -89,6 +95,7 @@ function starOf(row: Row): ChampionPointSource {
       `${constellation}-${slottable ? "slottables" : "passives"}` as ChampionPointSubcategoryId,
     esoChampionSkillId: row.esoChampionSkillId,
     isSlottable: slottable,
+    jumpPoints: jumps as readonly number[],
     effects: sourceEffectsOf(row, at),
   }
 }

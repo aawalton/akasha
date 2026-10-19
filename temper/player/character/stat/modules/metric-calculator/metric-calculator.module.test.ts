@@ -25,6 +25,8 @@ type Star = {
 
 const ARCANE_SUPREMACY: Star = { id: "arcane-supremacy", championSkillId: 3, maxPoints: 50 }
 
+const ELDRITCH_INSIGHT: Star = { id: "eldritch-insight", championSkillId: 99, maxPoints: 20 }
+
 function withWarfare(
   slotted: readonly ChampionPointId[],
   passive: readonly ChampionPointId[]
@@ -66,3 +68,15 @@ for (const [points, magicka] of ARCANE_SUPREMACY_SLOTTED) {
 test("Arcane Supremacy unslotted with 50 points gives no max magicka", () => {
   expect(magickaGiven(ARCANE_SUPREMACY, 50, false)).toBe(0)
 })
+
+const ELDRITCH_INSIGHT_SPENT: readonly (readonly [number, number])[] = [
+  [1, 0],
+  [10, 260],
+  [20, 520],
+]
+
+for (const [points, magicka] of ELDRITCH_INSIGHT_SPENT) {
+  test(`Eldritch Insight with ${String(points)} points gives ${String(magicka)} max magicka`, () => {
+    expect(magickaGiven(ELDRITCH_INSIGHT, points, false)).toBe(magicka)
+  })
+}

@@ -106,9 +106,14 @@ export const metricCalculator = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A star with jump points counts the highest jump point the spent points reach, or none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A slottable star in a reading counts only where the reading's build slots that star.",
     },
   ],
   createdAt: "2026-09-02T14:06:51.856Z",
-  updatedAt: "2026-10-19T22:37:41.350Z",
+  updatedAt: "2026-10-19T22:40:43.300Z",
 } as const satisfies Module

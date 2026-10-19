@@ -10,6 +10,7 @@ export const temperChampionStar = {
     "number-property/eso-champion-skill-id",
     "text-property/champion-constellation",
     "boolean-property/is-slottable",
+    "number-property/jump-points",
   ],
   properties: [
     { pageProperty: "text-property/description", required: true, many: false },
@@ -23,6 +24,7 @@ export const temperChampionStar = {
       maxCount: null,
     },
     { pageProperty: "number-property/hash-place", required: true, many: false },
+    { pageProperty: "number-property/jump-points", required: false, many: true, maxCount: null },
   ],
   decisions: [
     {
@@ -33,10 +35,32 @@ export const temperChampionStar = {
       decisionKind: "decision-kind/departure",
       statement: "A star's title is the name its effect source shows.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A star's effects are what the star gives at its most points.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A star stating no jump points gives each point spent an equal share of its effects.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A star stating jump points gives the share of its effects its highest jump point reached earns.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A star with points short of its first jump point gives nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A slottable star gives its effects only while it is slotted.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
   createdAt: "2026-09-27T04:53:17.836Z",
-  updatedAt: "2026-09-27T04:53:21.000Z",
+  updatedAt: "2026-10-19T22:40:43.300Z",
 } as const satisfies PageType

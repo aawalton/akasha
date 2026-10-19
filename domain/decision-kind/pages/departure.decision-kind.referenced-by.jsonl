@@ -5453,6 +5453,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/champion-point/modules/champion-star-ids-keeping/champion-star-ids-keeping.change-generator.ts","id":"01a0e14a-647f-7c8b-beeb-c6e2bbf632fa"}
 {"propertySlug":"decision-kind","path":"temper/catalog/champion-point/modules/champion-star-ids/champion-star-ids.data-table.ts","id":"01a0e14a-647f-7da4-9449-863639f525dc"}
 {"propertySlug":"decision-kind","path":"temper/catalog/champion-point/temper-champion-point.domain.ts","id":"01a06076-1b64-7dfd-b35b-f6c86003f6c1"}
+{"propertySlug":"decision-kind","path":"temper/catalog/champion-point/temper-champion-star/properties/jump-points.number-property.ts","id":"01a15653-0325-7360-8ea9-c3c725f4e4d2"}
 {"propertySlug":"decision-kind","path":"temper/catalog/champion-point/temper-champion-star/temper-champion-star.page-type.ts","id":"01a0e135-d98c-795f-9e2a-cf25be809fb6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/character-race/modules/races/races.module.ts","id":"01a0608a-c133-737f-a474-8e8f27869f5c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/character-race/temper-character-race.domain.ts","id":"01a0608a-c133-7d7f-96d5-f0070cf3a77a"}
