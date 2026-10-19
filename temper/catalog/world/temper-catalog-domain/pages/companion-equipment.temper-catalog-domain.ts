@@ -8,10 +8,10 @@ export const companionEquipment = {
   icon: "file-text",
   apiVersion: "eso.live.12.1.6.3309674",
   manifestApiVersion: 101051,
-  capturedAt: "2026-10-19T17:30:32.750Z",
+  capturedAt: "2026-10-19T17:31:38.339Z",
   generatorRanForVersion: "eso.live.11.3.6.3240040",
   generatorRanForManifestApiVersion: 101049,
   dormant: true,
-  updatedAt: "2026-10-19T17:30:42.625Z",
+  updatedAt: "2026-10-19T17:31:46.989Z",
   createdAt: "2026-09-02T01:39:30.991Z",
 } as const satisfies TemperCatalogDomain
