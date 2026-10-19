@@ -5,7 +5,7 @@ export const resumeThresholdMinutes = {
   type: "page-type/number-property",
   slug: "resume-threshold-minutes",
   propertySlug: "resume-threshold-minutes",
-  definition: "how long a seat's session sits idle before starting it offers the resume menu",
+  definition: "the time a Claude Code session waits before Claude Code shows a resume menu",
   max: null,
   decisions: [
     {
@@ -19,5 +19,5 @@ export const resumeThresholdMinutes = {
   ],
   types: "ts",
   createdAt: "2026-09-03T18:13:56.765Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-19T20:05:50.458Z",
 } as const satisfies NumberProperty
