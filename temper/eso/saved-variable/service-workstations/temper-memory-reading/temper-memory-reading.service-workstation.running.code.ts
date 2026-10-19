@@ -4,11 +4,12 @@ import {
   type Region,
   readerOf,
   regionsOf,
+  scanAfresh,
 } from "akasha/command/pages/temper/eso/memory/modules/eso-process-memory/eso-process-memory.module.code.ts"
 import {
   type Global,
-  globalFound,
   globalHeld,
+  globalsFound,
   searchAfresh,
 } from "akasha/command/pages/temper/eso/memory/modules/hks-global-finding/hks-global-finding.module.code.ts"
 import type { Reader } from "akasha/command/pages/temper/eso/memory/modules/hks-table-reading/hks-table-reading.module.code.ts"
@@ -53,19 +54,27 @@ function holding(regions: readonly Region[], at: bigint): Region | undefined {
 function searched(
   read: Reader,
   regions: readonly Region[],
-  name: string,
+  names: readonly string[],
   pass: string
-): Global | null {
+): readonly (Global | null)[] {
+  if (names.length === 0 || regions.length === 0) return names.map(() => null)
   const started = Date.now()
-  const search = searchAfresh()
-  const found = globalFound(read, regions, name, search)
-  const { chunks, failed, partial, unread } = search.scan
-  const capped = search.capped ? " (cap hit)" : ""
+  const scan = scanAfresh()
+  const searches = names.map(() => ({ ...searchAfresh(), scan }))
+  const found = globalsFound(read, regions, names, searches)
+  names.forEach((name, index) => {
+    const search = searches[index] ?? searchAfresh()
+    const capped = search.capped ? " (cap hit)" : ""
+    const outcome = found[index] === null ? "missed" : "found"
+    say(
+      `searched ${name} in ${pass}: ${outcome}, ` +
+        `${search.copies} copies${capped}, ${search.strings} strings`
+    )
+  })
+  const { chunks, failed, partial, unread } = scan
   say(
-    `searched ${name} in ${pass}: ${found === null ? "missed" : "found"}, ` +
-      `${search.copies} copies${capped}, ${search.strings} strings, ` +
-      `${chunks} chunks, ${failed} failed, ${partial} partial, ${unread} pages unread, ` +
-      `${Date.now() - started} ms`
+    `searched ${pass}: ${chunks} chunks, ${failed} failed, ${partial} partial, ` +
+      `${unread} pages unread, ${Date.now() - started} ms`
   )
   return found
 }
@@ -74,16 +83,20 @@ function foundIn(
   read: Reader,
   regions: readonly Region[],
   hot: Set<bigint>,
-  name: string
-): Global | null {
+  names: readonly string[]
+): readonly (Global | null)[] {
   const warm = regions.filter((region) => hot.has(region.from))
-  const found =
-    (warm.length > 0 ? searched(read, warm, name, `${warm.length} warm regions`) : null) ??
-    searched(read, regions, name, `${regions.length} regions`)
-  if (found === null) return null
-  for (const at of [found.node, found.name]) {
-    const region = holding(regions, at)
-    if (region !== undefined) hot.add(region.from)
+  const fromWarm = searched(read, warm, names, `${warm.length} warm regions`)
+  const missing = names.filter((_, index) => (fromWarm[index] ?? null) === null)
+  const fromAll = searched(read, regions, missing, `${regions.length} regions`)
+  const found = names.map(
+    (name, index) => fromWarm[index] ?? fromAll[missing.indexOf(name)] ?? null
+  )
+  for (const global of found) {
+    for (const at of global === null ? [] : [global.node, global.name]) {
+      const region = holding(regions, at)
+      if (region !== undefined) hot.add(region.from)
+    }
   }
   return found
 }
@@ -99,9 +112,12 @@ function watchingOf(pid: number, hot: Set<bigint>, before: Watching | null): Wat
   const read = readerOf(pid)
   const regions = regionsOf(pid)
   const kept = before?.pid === pid ? before : null
-  const characters =
-    foundIn(read, regions, hot, CHARACTERS_GLOBAL) ?? stillHeld(read, kept?.characters)
-  const fights = foundIn(read, regions, hot, FIGHTS_GLOBAL) ?? stillHeld(read, kept?.fights)
+  const [foundCharacters, foundFights] = foundIn(read, regions, hot, [
+    CHARACTERS_GLOBAL,
+    FIGHTS_GLOBAL,
+  ])
+  const characters = foundCharacters ?? stillHeld(read, kept?.characters)
+  const fights = foundFights ?? stillHeld(read, kept?.fights)
   const found = [characters === null ? null : "characters", fights === null ? null : "fights"]
   const named = found.filter((one) => one !== null).join(" and ") || "nothing"
   say(`found ${named} in process ${pid} in ${Date.now() - started} ms`)

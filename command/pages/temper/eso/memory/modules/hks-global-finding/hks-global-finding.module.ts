@@ -22,10 +22,14 @@ export const hksGlobalFinding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every global asked for at once is looked for in the same passes over the memory.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A global held is read only while its entry's key is still that string and its value a table.",
     },
   ],
   createdAt: "2026-10-19T18:57:27.580Z",
-  updatedAt: "2026-10-19T18:57:27.580Z",
+  updatedAt: "2026-10-19T23:50:34.464Z",
 } as const satisfies Module

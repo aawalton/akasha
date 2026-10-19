@@ -105,6 +105,35 @@ function readAcross(read: Reader, at: bigint, length: number, scan: Scan): Buffe
   return held === 0 ? null : bytes
 }
 
+export function foundEach(
+  read: Reader,
+  regions: readonly Region[],
+  needles: readonly Buffer[],
+  step: bigint,
+  most: number,
+  scan: Scan = scanAfresh()
+): readonly (readonly bigint[])[] {
+  const hits: bigint[][] = needles.map(() => [])
+  const longest = Math.max(0, ...needles.map((needle) => needle.length))
+  const full = (): boolean => hits.every((held) => held.length >= most)
+  for (const region of regions) {
+    if (!region.writable) continue
+    for (let at = region.from; at < region.to; at += BigInt(CHUNK)) {
+      if (full()) return hits.map((held) => held.slice(0, most))
+      const left = Number(region.to - at)
+      const wanted = Math.min(CHUNK + longest - 1, left)
+      const bytes = readAcross(read, at, wanted, scan)
+      scan.chunks += 1
+      if (bytes === null) continue
+      needles.forEach((needle, index) => {
+        const held = hits[index]
+        if (held !== undefined && held.length < most) held.push(...hitsIn(bytes, needle, at, step))
+      })
+    }
+  }
+  return hits.map((held) => held.slice(0, most))
+}
+
 export function found(
   read: Reader,
   regions: readonly Region[],
@@ -113,18 +142,5 @@ export function found(
   most: number,
   scan: Scan = scanAfresh()
 ): readonly bigint[] {
-  const hits: bigint[] = []
-  for (const region of regions) {
-    if (!region.writable) continue
-    for (let at = region.from; at < region.to; at += BigInt(CHUNK)) {
-      const left = Number(region.to - at)
-      const wanted = Math.min(CHUNK + needle.length - 1, left)
-      const bytes = readAcross(read, at, wanted, scan)
-      scan.chunks += 1
-      if (bytes === null) continue
-      hits.push(...hitsIn(bytes, needle, at, step))
-      if (hits.length >= most) return hits.slice(0, most)
-    }
-  }
-  return hits
+  return foundEach(read, regions, [needle], step, most, scan)[0] ?? []
 }

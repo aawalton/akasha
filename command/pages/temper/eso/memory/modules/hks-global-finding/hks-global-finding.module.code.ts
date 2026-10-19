@@ -1,5 +1,5 @@
 import {
-  found,
+  foundEach,
   type Region,
   type Scan,
   scanAfresh,
@@ -41,31 +41,45 @@ export function searchAfresh(): Search {
   return { copies: 0, strings: 0, capped: false, scan: scanAfresh() }
 }
 
+function stringsOf(read: Reader, name: string, hits: readonly bigint[], search: Search): bigint[] {
+  search.copies += hits.length
+  if (hits.length >= MOST_COPIES) search.capped = true
+  const strings = hits.map((hit) => hit - TEXT_AT).filter((object) => textAt(read, object) === name)
+  search.strings += strings.length
+  return strings
+}
+
+export function globalsFound(
+  read: Reader,
+  regions: readonly Region[],
+  names: readonly string[],
+  searches: readonly Search[] = names.map(() => searchAfresh())
+): readonly (Global | null)[] {
+  const scan = searches[0]?.scan ?? scanAfresh()
+  const texts = names.map((name) => Buffer.from(name, "utf8"))
+  const copies = foundEach(read, regions, texts, 1n, MOST_COPIES, scan)
+  const strings = names.map((name, index) =>
+    stringsOf(read, name, copies[index] ?? [], searches[index] ?? searchAfresh())
+  )
+  const objects = strings.flat()
+  const words = objects.map((object) => wordBytes(object))
+  const pointers = foundEach(read, regions, words, BigInt(WORD), MOST_POINTERS, scan)
+  return strings.map((held) => {
+    for (const object of held) {
+      for (const pointer of pointers[objects.indexOf(object)] ?? []) {
+        const global = { node: pointer - BigInt(WORD), name: object }
+        if (globalHeld(read, global) !== null) return global
+      }
+    }
+    return null
+  })
+}
+
 export function globalFound(
   read: Reader,
   regions: readonly Region[],
   name: string,
   search: Search = searchAfresh()
 ): Global | null {
-  const hits = found(read, regions, Buffer.from(name, "utf8"), 1n, MOST_COPIES, search.scan)
-  search.copies += hits.length
-  if (hits.length >= MOST_COPIES) search.capped = true
-  for (const hit of hits) {
-    const object = hit - TEXT_AT
-    if (textAt(read, object) !== name) continue
-    search.strings += 1
-    const pointers = found(
-      read,
-      regions,
-      wordBytes(object),
-      BigInt(WORD),
-      MOST_POINTERS,
-      search.scan
-    )
-    for (const pointer of pointers) {
-      const global = { node: pointer - BigInt(WORD), name: object }
-      if (globalHeld(read, global) !== null) return global
-    }
-  }
-  return null
+  return globalsFound(read, regions, [name], [search])[0] ?? null
 }
