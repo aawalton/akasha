@@ -9,7 +9,7 @@ export const armorTraitDivinesEpic = {
   quality: "temper-quality/epic",
   metric: "temper-metric-tree/metric-divines",
   value: 0.081,
-  rawValue: 0.08085,
+  rawValue: 0.08082,
   createdAt: "2026-09-24T14:53:41.081Z",
-  updatedAt: "2026-10-19T19:52:02.431Z",
+  updatedAt: "2026-10-19T22:05:34.748Z",
 } as const satisfies TemperGearGrade
