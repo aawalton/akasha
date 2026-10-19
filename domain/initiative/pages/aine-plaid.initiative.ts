@@ -10,9 +10,9 @@ export const ainePlaid = {
     {
       statement: "Alan reads his accounts from Plaid directly, on keys of his own.",
       workingMemory:
-        "Plaid's free Trial plan, at dashboard.plaid.com/trial-plan, gives Production with no company, every OAuth bank, and 10 Items for life; removing an Item frees none. Applying for other Production access forfeits it. transactions.days_requested is set at /link/token/create, maxes at 730 and is fixed after Link, so every Link asks 730. A Production redirect URI is HTTPS and listed on the Dashboard. Keys go in ~/.secrets.env, as Google OAuth's do.",
+        "Citi is linked, one Item of the Trial plan's ten, and plaid-item/citi holds clientId, secret and accessToken in sops. Hosted Link needs no redirect URI. Plaid's Citi Item has 18 months of history, with the replaced card's rows under 7496. Monarch reads Citi through Finicity and refuses Python's default user agent. No module reads Plaid yet; the reads so far were one-off scripts.",
     },
   ],
   createdAt: "2026-10-19T13:12:39.730Z",
-  updatedAt: "2026-10-19T14:14:49.061Z",
+  updatedAt: "2026-10-19T14:14:59.683Z",
 } as const satisfies Initiative
