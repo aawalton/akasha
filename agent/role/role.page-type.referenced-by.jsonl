@@ -18,7 +18,6 @@
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/roleplay-recorder.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/roleplay-worldbuilder.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/roleplay.role.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/scenewright.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/story-recorder.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/worker.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/world-builder.role.ts","typed":true,"deferred":false}

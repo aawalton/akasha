@@ -21,7 +21,6 @@ export const role = {
     "role/persona-craft",
     "role/recorder",
     "role/reviewer",
-    "role/scenewright",
     "role/story-recorder",
     "role/worker",
     "role/world-builder",
@@ -127,5 +126,5 @@ export const role = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T17:23:00.768Z",
-  updatedAt: "2026-10-17T21:05:39.732Z",
+  updatedAt: "2026-10-19T19:52:27.176Z",
 } as const satisfies PageType
