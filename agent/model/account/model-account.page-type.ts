@@ -71,6 +71,7 @@ export const modelAccount = {
     "text-property/subscription-type",
     "boolean-property/subscription-canceled",
     "module/oauth-types",
+    "domain/usage-window",
   ],
   properties: [
     { pageProperty: "text-property/account-uuid", required: false, many: false },
@@ -241,5 +242,5 @@ export const modelAccount = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T22:44:04.536Z",
-  updatedAt: "2026-09-27T12:53:44.000Z",
+  updatedAt: "2026-10-19T18:29:47.122Z",
 } as const satisfies PageType
