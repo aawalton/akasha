@@ -4,7 +4,7 @@ export const blockStopBeforeAdvance = {
   id: "01a0eb3d-438c-72de-b266-d745ddf00a87",
   type: "page-type/agent-hook",
   slug: "block-stop-before-advance",
-  definition: "a refusal of a story reviewer's or story recorder's stop before its advance lands",
+  definition: "a refusal of a seat's stop before its job is done",
   code: "ts",
   test: "ts",
   runsAt: ["Stop"],
@@ -54,5 +54,5 @@ export const blockStopBeforeAdvance = {
     },
   ],
   createdAt: "2026-09-29T03:37:35.884Z",
-  updatedAt: "2026-10-03T15:30:33.000Z",
+  updatedAt: "2026-10-19T17:40:07.651Z",
 } as const satisfies AgentHook
