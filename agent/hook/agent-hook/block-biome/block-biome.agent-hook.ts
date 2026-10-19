@@ -5,7 +5,7 @@ export const blockBiome = {
   type: "page-type/agent-hook",
   slug: "block-biome",
   definition:
-    "a refusal of the biome and prettier calls an agent makes outside the akasha commands",
+    "a refusal of the Biome runs and Prettier runs an agent makes outside the akasha commands",
   code: "ts",
   test: "ts",
   runsAt: ["PreToolUse"],
@@ -62,5 +62,5 @@ export const blockBiome = {
     },
   ],
   createdAt: "2026-08-29T18:54:47.609Z",
-  updatedAt: "2026-09-25T15:56:43.000Z",
+  updatedAt: "2026-10-19T17:28:53.493Z",
 } as const satisfies AgentHook
