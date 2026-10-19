@@ -7,7 +7,11 @@ export const ainePlaid = {
   domain: "domain/monarch",
   persona: "persona/aine",
   intentStack: [
-    { statement: "Alan reads his accounts from Plaid directly, on keys of his own." },
+    {
+      statement: "Alan reads his accounts from Plaid directly, on keys of his own.",
+      workingMemory:
+        "Plaid's free Trial plan, at dashboard.plaid.com/trial-plan, gives Production with no company, every OAuth bank, and 10 Items for life; removing an Item frees none. Applying for other Production access forfeits it. transactions.days_requested is set at /link/token/create, maxes at 730 and is fixed after Link, so every Link asks 730. A Production redirect URI is HTTPS and listed on the Dashboard. Keys go in ~/.secrets.env, as Google OAuth's do.",
+    },
     {
       statement: "Monarch has every transaction from both sides of Alan's card replaced for fraud.",
       workingMemory:
@@ -15,5 +19,5 @@ export const ainePlaid = {
     },
   ],
   createdAt: "2026-10-19T13:12:39.730Z",
-  updatedAt: "2026-10-19T13:14:52.341Z",
+  updatedAt: "2026-10-19T13:15:36.987Z",
 } as const satisfies Initiative
