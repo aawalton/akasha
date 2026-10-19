@@ -134,6 +134,7 @@
 {"propertySlug":"decision-kind","path":"agent/model/account/properties/subscription-disabled-reason.text-property.ts","id":"01a054d8-1d39-7c38-bbf0-00a17589572e"}
 {"propertySlug":"decision-kind","path":"agent/model/account/properties/subscription-type.text-property.ts","id":"01a054d8-1d39-7f29-a8c5-64ad5c76a3c3"}
 {"propertySlug":"decision-kind","path":"agent/model/family/properties/model-name.text-property.ts","id":"01a05a43-f8db-7b4e-86f6-e79220f0d6eb"}
+{"propertySlug":"decision-kind","path":"agent/model/gateway/fast-mode/fast-mode.domain.ts","id":"01a15594-08ee-76c6-b5a1-7c49fafb04b8"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/model-gateway.domain.ts","id":"01a06227-7bc1-72a3-8056-41b5ba88f99d"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/account-picker/account-picker.module.ts","id":"01a063af-ee63-7fa9-bca2-74c7c61561a7"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/account-walk/account-walk.module.ts","id":"01a0643b-c948-7e10-80ea-1bf6e0c348e2"}
