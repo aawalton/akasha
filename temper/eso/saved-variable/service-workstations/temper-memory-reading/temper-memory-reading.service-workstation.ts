@@ -26,7 +26,7 @@ export const temperMemoryReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The game's memory is looked at every three seconds while the game runs.",
+      statement: "The game's memory is looked at every second while the game runs.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -51,5 +51,5 @@ export const temperMemoryReading = {
     },
   ],
   createdAt: "2026-10-19T19:08:25.036Z",
-  updatedAt: "2026-10-19T19:08:25.036Z",
+  updatedAt: "2026-10-19T22:13:18.681Z",
 } as const satisfies ServiceWorkstation

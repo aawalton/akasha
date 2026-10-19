@@ -26,7 +26,7 @@ import {
 import { landReadings } from "akasha/temper/player/character/stat/modules/build-reading-lines/build-reading-lines.module.code.ts"
 import { landFights } from "akasha/temper/watcher/modules/watcher-import-fights/watcher-import-fights.module.code.ts"
 
-const EVERY_MS = 3_000
+const EVERY_MS = 1_000
 
 const FIND_AGAIN_MS = 60_000
 
