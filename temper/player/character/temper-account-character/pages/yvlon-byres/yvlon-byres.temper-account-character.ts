@@ -10,6 +10,7 @@ export const yvlonByres = {
   esoCharacterId: "8796093041077507",
   accountPage: "temper-account/alanarre",
   firstName: "Yvlon",
+  readings: "jsonl",
   createdAt: "2026-04-29T16:44:23.875Z",
-  updatedAt: "2026-09-24T16:26:32.000Z",
+  updatedAt: "2026-10-19T19:22:13.923Z",
 } as const satisfies TemperAccountCharacter
