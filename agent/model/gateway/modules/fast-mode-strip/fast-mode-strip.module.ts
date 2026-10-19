@@ -4,7 +4,7 @@ export const fastModeStrip = {
   id: "01a0628d-3afc-782f-b008-da98b0a830e4",
   type: "page-type/module",
   slug: "fast-mode-strip",
-  definition: "a request stripped of what asks for fast mode",
+  definition: "how code removes fast mode from a request",
   code: "ts",
   test: "ts",
   decisions: [
@@ -70,5 +70,5 @@ export const fastModeStrip = {
     },
   ],
   createdAt: "2026-09-02T14:36:57.980Z",
-  updatedAt: "2026-09-25T14:00:16.000Z",
+  updatedAt: "2026-10-19T19:12:36.157Z",
 } as const satisfies Module
