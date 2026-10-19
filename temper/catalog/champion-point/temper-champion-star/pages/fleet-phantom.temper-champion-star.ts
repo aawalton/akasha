@@ -17,6 +17,7 @@ export const fleetPhantom = {
     },
   ],
   hashPlace: 14,
+  jumpPoints: [0, 8, 16, 24, 32, 40],
   createdAt: "2026-09-27T05:00:00.922Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:57:00.681Z",
 } as const satisfies TemperChampionStar
