@@ -11,6 +11,7 @@ export const kheltaTheEternal = {
   accountPage: "temper-account/alanarre",
   firstName: "Khelta",
   fights: "jsonl",
+  readings: "jsonl",
   createdAt: "2026-04-29T16:44:20.194Z",
-  updatedAt: "2026-10-19T18:08:11.838Z",
+  updatedAt: "2026-10-19T19:18:49.169Z",
 } as const satisfies TemperAccountCharacter
