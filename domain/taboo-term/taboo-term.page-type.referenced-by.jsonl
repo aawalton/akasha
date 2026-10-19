@@ -17,7 +17,6 @@
 {"propertySlug":"import","fileName":"taboo-term.page-type.types.ts","path":"domain/taboo-term/pages/jargon.taboo-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"taboo-term.page-type.types.ts","path":"domain/taboo-term/pages/levies.taboo-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"taboo-term.page-type.types.ts","path":"domain/taboo-term/pages/mints.taboo-term.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"taboo-term.page-type.types.ts","path":"domain/taboo-term/pages/pass.taboo-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"taboo-term.page-type.types.ts","path":"domain/taboo-term/pages/paused.taboo-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"taboo-term.page-type.types.ts","path":"domain/taboo-term/pages/perimeter.taboo-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"taboo-term.page-type.types.ts","path":"domain/taboo-term/pages/pin.taboo-term.ts","typed":true,"deferred":false}
