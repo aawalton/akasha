@@ -5,7 +5,7 @@ export const auditRefusals = {
   type: "page-type/file-property",
   slug: "audit-refusals",
   propertySlug: "audit-refusals",
-  definition: "what the last audit an agent ran refused",
+  definition: "the refusals of the last audit an agent runs",
   extensions: ["txt"],
   runsFileLength: false,
   generated: true,
@@ -45,5 +45,5 @@ export const auditRefusals = {
   ],
   types: "ts",
   createdAt: "2026-09-12T08:31:07.015Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-19T19:42:27.931Z",
 } as const satisfies FileProperty
