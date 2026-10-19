@@ -5,7 +5,7 @@ export const agentMessageClaimedAt = {
   type: "page-type/instant-property",
   slug: "agent-message-claimed-at",
   propertySlug: "claimed-at",
-  definition: "the time a recipient starts to read a message",
+  definition: "the time a recipient claims a message",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -30,5 +30,5 @@ export const agentMessageClaimedAt = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:26:42.683Z",
-  updatedAt: "2026-09-25T17:59:14.000Z",
+  updatedAt: "2026-10-19T18:10:45.688Z",
 } as const satisfies InstantProperty

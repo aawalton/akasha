@@ -14,6 +14,15 @@ export const agentMessage = {
       spelling: "messages",
       scope: "page-type/agent-message",
     },
+    { partOfSpeech: "part-of-speech/noun", spelling: "claim", scope: "page-type/agent-message" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "claims", scope: "page-type/agent-message" },
+    { partOfSpeech: "part-of-speech/verb", spelling: "claims", scope: "page-type/agent-message" },
+    { partOfSpeech: "part-of-speech/verb", spelling: "claimed", scope: "page-type/agent-message" },
+    {
+      partOfSpeech: "part-of-speech/past-participle",
+      spelling: "claimed",
+      scope: "page-type/agent-message",
+    },
   ],
   extends: ["page-type/page"],
   mortal: true,
@@ -98,6 +107,10 @@ export const agentMessage = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A claim marks a message as being delivered to its seat and not yet received.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A message is named for the last twelve hex of its identity rather than for that message's words.",
     },
@@ -117,5 +130,5 @@ export const agentMessage = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:26:42.683Z",
-  updatedAt: "2026-09-26T16:01:16.000Z",
+  updatedAt: "2026-10-19T18:10:45.688Z",
 } as const satisfies PageType
