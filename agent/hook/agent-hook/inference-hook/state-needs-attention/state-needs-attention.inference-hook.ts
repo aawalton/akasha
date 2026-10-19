@@ -4,7 +4,7 @@ export const stateNeedsAttention = {
   id: "01a0defe-943a-7168-9bfc-da5e99006474",
   type: "page-type/inference-hook",
   slug: "state-needs-attention",
-  definition: "the hook that writes whether a seat's last turn asked Alan for something",
+  definition: "the hook that writes whether a seat needs Alan",
   code: "ts",
   test: "ts",
   runsAt: ["Stop", "UserPromptSubmit"],
@@ -58,5 +58,5 @@ export const stateNeedsAttention = {
     },
   ],
   createdAt: "2026-09-26T18:33:41.178Z",
-  updatedAt: "2026-09-27T13:39:52.000Z",
+  updatedAt: "2026-10-19T17:58:10.181Z",
 } as const satisfies InferenceHook

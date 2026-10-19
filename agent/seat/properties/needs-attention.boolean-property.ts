@@ -5,7 +5,7 @@ export const needsAttention = {
   type: "page-type/boolean-property",
   slug: "needs-attention",
   propertySlug: "needs-attention",
-  definition: "whether the last turn in a seat asked Alan for something",
+  definition: "whether a seat needs Alan",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -18,5 +18,5 @@ export const needsAttention = {
   ],
   types: "ts",
   createdAt: "2026-09-26T18:30:27.074Z",
-  updatedAt: "2026-09-26T18:31:02.000Z",
+  updatedAt: "2026-10-19T17:58:10.181Z",
 } as const satisfies BooleanProperty
