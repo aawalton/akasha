@@ -40,7 +40,8 @@ export const nimueCorrectFormulas = {
     "A stat is worked before every stat its formula reads.",
     "Each formula starts from a build with as little configured as the game allows, and each next case adds one term.",
     "Nimue changes any command the work needs without asking Alan.",
+    "One stat is worked until every reading of it matches before the next stat is begun.",
   ],
   createdAt: "2026-10-19T19:28:43.842Z",
-  updatedAt: "2026-10-19T20:07:38.383Z",
+  updatedAt: "2026-10-19T23:06:57.738Z",
 } as const satisfies Initiative
