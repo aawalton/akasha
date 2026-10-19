@@ -10,6 +10,7 @@ export const maviolaEl = {
   esoCharacterId: "8796093024330045",
   accountPage: "temper-account/alanarre",
   firstName: "Maviola",
+  fights: "jsonl",
   createdAt: "2026-04-29T16:44:19.452Z",
-  updatedAt: "2026-09-24T16:26:32.000Z",
+  updatedAt: "2026-10-19T17:51:38.481Z",
 } as const satisfies TemperAccountCharacter
