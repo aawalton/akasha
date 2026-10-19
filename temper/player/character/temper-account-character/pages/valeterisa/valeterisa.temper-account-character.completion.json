@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQJopWgAABjRwwGj6tuRFKbaACaGe0AEUM9oAIoZ7QATQz2gAihntAARqbaAAkH3UABGptoADMym2gBNqbaABxNV1oAoroYcAsKsJMExoYAAAAAG4AAEUaglIICygKaAFAAyAAgQhQoJOBHQAyAAcwAJQHFIqAZNAbUcEIWECACAQRmA9aIKDpSDJcHBEKEJEBAZGZARGQkQEZGpERABGRmaCAEhAZEgACIZERmB0RgZkQHRERMhmRoAAEEREBkRJRmCEREREYEdZdFbUbkWJOGVjyZZcybOz6NOrXtn0KNKnU8VayxsrZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJhAgMhYxIGoeyqRA",
+  "buildHash": "ATQJopWgAABjRwwGj6tuRFKbaACaGe0AEUM9oAIoZ7QATQz2gAihntAARqbaAAkH3UABGptoADMym2gBNqbaABxNV1oAoroYcAsKsJMExoYAAAAAG4AAEUaglIICygKaAFAAyAAgQhQoJOBHQAyAAcwAJQHFIqAZNAbUcEIWECACAQRmA9aIKDpSDJcHBEKEJEBAZGZARGQkQEZGpERABGRmaCAEhAZEgACIZERmB0RgZkQHRERMhmRoAAEEREBkRJRmCERCREYEdZdFbUbkWJOGVjyZZcybOz6NOrXtn0KNKnU8VayxsrZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJhAgMhYxIGoeyqRA",
   "gender": 1,
   "level": 50,
   "classId": 2,
@@ -4727,11 +4727,11 @@
     }
   },
   "skillPoints": {
-    "total": 385,
-    "unassigned": 20,
+    "total": 386,
+    "unassigned": 21,
     "level": 64,
     "mainQuests": 11,
-    "tutorial": 0,
+    "tutorial": 1,
     "foliumDiscognitum": 2,
     "pvpRank": 13,
     "maelstromArena": 1,
@@ -13763,41 +13763,41 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792453598,
+      "capturedAt": 1792453934,
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "stats": {
-        "magicka-maximum": 72799,
-        "power-spell": 2335,
-        "resistance-critical": 1320,
-        "health-recovery": 373,
         "penetration-physical": 6335,
-        "critical-rating-spell": 6448,
+        "magicka-recovery": 1606,
+        "stamina-maximum": 19657,
+        "critical-rating-spell": 7762,
+        "power-spell": 3874,
+        "health-maximum": 24200,
         "resistance-physical": 12406,
-        "critical-rating-weapon": 6448,
-        "health-maximum": 22182,
-        "power-weapon": 2335,
-        "magicka-recovery": 1415,
-        "stamina-maximum": 17973,
-        "stamina-recovery": 773,
+        "health-recovery": 373,
+        "critical-rating-weapon": 7762,
+        "resistance-critical": 1320,
+        "power-weapon": 3874,
+        "magicka-maximum": 77429,
         "resistance-spell": 19072,
+        "stamina-recovery": 918,
         "penetration-spell": 6335
       },
       "unbonusedStats": {
-        "magicka-maximum": 72799,
-        "power-spell": 1000,
-        "resistance-critical": 0,
-        "health-recovery": 373,
         "penetration-physical": 0,
+        "magicka-recovery": 1606,
+        "stamina-maximum": 19657,
         "critical-rating-spell": 2181,
+        "power-spell": 1000,
+        "health-maximum": 24200,
         "resistance-physical": 0,
+        "health-recovery": 373,
         "critical-rating-weapon": 2181,
-        "health-maximum": 22182,
+        "resistance-critical": 0,
         "power-weapon": 1000,
-        "magicka-recovery": 1415,
-        "stamina-maximum": 17973,
-        "stamina-recovery": 773,
+        "magicka-maximum": 77429,
         "resistance-spell": 0,
+        "stamina-recovery": 918,
         "penetration-spell": 0
       },
       "activeBuffs": [
@@ -13823,16 +13823,16 @@
           "stacks": 0
         },
         {
-          "abilityId": 135397,
-          "name": "Vampire Stage 1",
+          "abilityId": 61708,
+          "name": "Minor Heroism",
           "description": "",
-          "effect": "You are slightly corrupted from the influence of Vampirism.\n\nHealth Recovery: -10%\nFlame Damage Taken: +5%\nRegular Ability Costs: +3%\nVampire Ability Costs: -6%\n",
+          "effect": "While in combat, grants you |cffffff1|r Ultimate every |cffffff1.5|r seconds.\n",
           "stacks": 0
         },
         {
           "abilityId": 24639,
           "name": "Summon Twilight Matriarch",
-          "description": "Call on Azura to send a twilight matriarch to fight at your side. The twilight matriarch's zap deals |cffffff1615|r Shock Damage and its kick deals |cffffff1615|r Shock Damage.\n\nOnce summoned, you can activate the twilight matriarch's special ability for |cffffff3718|r Magicka, causing it to heal |cffffff2|r friendly targets for |cffffff16354|r and itself for |cffffff8176|r.\n\nThe twilight matriarch remains until killed or unsummoned.",
+          "description": "Call on Azura to send a twilight matriarch to fight at your side. The twilight matriarch's zap deals |cffffff2054|r Shock Damage and its kick deals |cffffff2054|r Shock Damage.\n\nOnce summoned, you can activate the twilight matriarch's special ability for |cffffff3718|r Magicka, causing it to heal |cffffff2|r friendly targets for |cffffff19847|r and itself for |cffffff9923|r.\n\nThe twilight matriarch remains until killed or unsummoned.",
           "effect": "",
           "stacks": 0
         },
@@ -13844,11 +13844,102 @@
           "stacks": 0
         },
         {
+          "abilityId": 135397,
+          "name": "Vampire Stage 1",
+          "description": "",
+          "effect": "You are slightly corrupted from the influence of Vampirism.\n\nHealth Recovery: -10%\nFlame Damage Taken: +5%\nRegular Ability Costs: +3%\nVampire Ability Costs: -6%\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 88490,
+          "name": "Minor Toughness",
+          "description": "Increases your Max Health by |cffffff10|r%.",
+          "effect": "Increases your Max Health by |cffffff10|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 120021,
+          "name": "Aggressive Horn",
+          "description": "",
+          "effect": "Increases your Magicka and Stamina by |cffffff10|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 93109,
+          "name": "Major Slayer",
+          "description": "",
+          "effect": "Increases damage done to monsters by |cffffff10|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 120024,
+          "name": "Worm's Raiment",
+          "description": "",
+          "effect": "Increases your Magicka Recovery by |cffffff145|r.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 120026,
+          "name": "Hircine's Veneer",
+          "description": "",
+          "effect": "Increases your Stamina Recovery by |cffffff145|r.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61747,
+          "name": "Major Force",
+          "description": "",
+          "effect": "Increases your Critical Damage done by |cffffff20|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61662,
+          "name": "Minor Brutality",
+          "description": "",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff10|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61666,
+          "name": "Minor Savagery",
+          "description": "",
+          "effect": "Increases your Critical rating by |cffffff1314|r, increasing your Critical Chance by |cffffff6|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61744,
+          "name": "Minor Berserk",
+          "description": "",
+          "effect": "Increases your damage done by |cffffff5|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 109966,
+          "name": "Major Courage",
+          "description": "",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff430|r.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 147417,
+          "name": "Minor Courage",
+          "description": "",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff215|r.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61665,
+          "name": "Major Brutality",
+          "description": "",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
+          "stacks": 0
+        },
+        {
           "abilityId": 155176,
           "name": "Escalating Fete",
           "description": "",
           "effect": "",
-          "stacks": 23
+          "stacks": 27
         }
       ],
       "championPoints": [
@@ -14461,7 +14552,7 @@
           "slot": 4,
           "link": "|H0:item:86751:364:50:0:0:0:5:25:0:0:0:0:0:0:2049:6:0:1:0:500:0|h|h",
           "armor": 0,
-          "enchant": "Deals |cffffff1007|r Magic Damage and restores |cffffff177|r Magicka.",
+          "enchant": "Deals |cffffff1055|r Magic Damage and restores |cffffff177|r Magicka.",
           "enchantCategory": 23,
           "trait": "Increases Physical and Spell Resistance by |cffffff1638|r.",
           "quality": 5
@@ -14533,7 +14624,7 @@
           "slot": 20,
           "link": "|H0:item:69181:364:50:0:0:0:2:25:0:0:0:0:0:0:2049:25:0:1:0:500:0|h|h",
           "armor": 0,
-          "enchant": "Deals |cffffff2014|r Magic Damage and restores |cffffff354|r Magicka.",
+          "enchant": "Deals |cffffff2109|r Magic Damage and restores |cffffff354|r Magicka.",
           "enchantCategory": 23,
           "trait": "Increases chance to apply status effects by |cffffff235|r%.",
           "quality": 5
@@ -14544,7 +14635,7 @@
           "slot": 3,
           "abilityId": 34838,
           "name": "Funnel Health",
-          "description": "Steal an enemy's life force, dealing |cffffff10012|r Magic Damage and healing you or |cffffff3|r other nearby allies for |cffffff35|r% of the damage inflicted every |cffffff2|r seconds for |cffffff10|r seconds.\n\nDeals |cffffff1|r% more damage for every |cffffff2|r% Health you have.",
+          "description": "Steal an enemy's life force, dealing |cffffff12734|r Magic Damage and healing you or |cffffff3|r other nearby allies for |cffffff35|r% of the damage inflicted every |cffffff2|r seconds for |cffffff10|r seconds.\n\nDeals |cffffff1|r% more damage for every |cffffff2|r% Health you have.",
           "durationMs": 10000,
           "castMs": 0,
           "channeled": false,
@@ -14555,7 +14646,7 @@
           "slot": 4,
           "abilityId": 77369,
           "name": "Twilight Matriarch Restore",
-          "description": "Call on Azura to send a twilight matriarch to fight at your side. The twilight matriarch's zap deals |cffffff1615|r Shock Damage and its kick deals |cffffff1615|r Shock Damage.\n\nOnce summoned, you can activate the twilight matriarch's special ability for |cffffff3718|r Magicka, causing it to heal |cffffff2|r friendly targets for |cffffff16354|r and itself for |cffffff8176|r.\n\nThe twilight matriarch remains until killed or unsummoned.",
+          "description": "Call on Azura to send a twilight matriarch to fight at your side. The twilight matriarch's zap deals |cffffff2054|r Shock Damage and its kick deals |cffffff2054|r Shock Damage.\n\nOnce summoned, you can activate the twilight matriarch's special ability for |cffffff3718|r Magicka, causing it to heal |cffffff2|r friendly targets for |cffffff19847|r and itself for |cffffff9923|r.\n\nThe twilight matriarch remains until killed or unsummoned.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -14577,7 +14668,7 @@
           "slot": 6,
           "abilityId": 40457,
           "name": "Degeneration",
-          "description": "Bind an enemy with chaotic magic, dealing |cffffff22164|r Magic Damage over |cffffff22|r seconds.\n\nExcess magic spills out from them, granting you Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff22|r seconds.",
+          "description": "Bind an enemy with chaotic magic, dealing |cffffff28260|r Magic Damage over |cffffff22|r seconds.\n\nExcess magic spills out from them, granting you Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff22|r seconds.",
           "durationMs": 22000,
           "castMs": 0,
           "channeled": false,
@@ -14599,7 +14690,7 @@
           "slot": 8,
           "abilityId": 40493,
           "name": "Shooting Star",
-          "description": "Call a comet down from the constellations to blast an enemy, dealing |cffffff19915|r Flame Damage to all enemies in the area, knocking them down, and stunning them for |cffffff2|r seconds.\n\nOne second after impact, enemies in the target area take |cffffff5385|r Flame Damage every |cffffff1|r second for |cffffff12|r seconds.\n\nYou generate |cffffff10|r Ultimate for each enemy hit by the initial blast, up to 6 times.",
+          "description": "Call a comet down from the constellations to blast an enemy, dealing |cffffff25268|r Flame Damage to all enemies in the area, knocking them down, and stunning them for |cffffff2|r seconds.\n\nOne second after impact, enemies in the target area take |cffffff6849|r Flame Damage every |cffffff1|r second for |cffffff12|r seconds.\n\nYou generate |cffffff10|r Ultimate for each enemy hit by the initial blast, up to 6 times.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -14616,7 +14707,7 @@
         {
           "abilityId": 45172,
           "name": "Blood Magic",
-          "description": "When you cast a Dark Magic ability with a cost, you heal for |cffffff1396|r Health if you are not at full Health. This portion of the ability scales off your Max Health.\n\nIf your Health is full, the higher of your Max Magicka or Stamina is increased by |cffffff10|r% for |cffffff10|r seconds."
+          "description": "When you cast a Dark Magic ability with a cost, you heal for |cffffff1524|r Health if you are not at full Health. This portion of the ability scales off your Max Health.\n\nIf your Health is full, the higher of your Max Magicka or Stamina is increased by |cffffff10|r% for |cffffff10|r seconds."
         },
         {
           "abilityId": 45165,
@@ -14672,48 +14763,48 @@
       "inArchive": false,
       "archiveBoons": [],
       "advanced": {
+        "healing-taken-base": 0.03,
+        "critical-damage": 0.2,
         "healing-critical-bonus": 0,
-        "critical-damage": 0,
-        "healing-done-base": 0.05,
-        "healing-taken-base": 0.03
+        "healing-done-base": 0.05
       }
     },
     "backBar": {
-      "capturedAt": 1792453594,
+      "capturedAt": 1792453923,
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "stats": {
-        "magicka-maximum": 61893,
-        "power-spell": 3874,
-        "resistance-critical": 1320,
-        "health-recovery": 373,
-        "penetration-physical": 6335,
-        "critical-rating-spell": 7762,
-        "resistance-physical": 9048,
-        "critical-rating-weapon": 7762,
-        "health-maximum": 24287,
-        "power-weapon": 3874,
+        "penetration-physical": 9309,
         "magicka-recovery": 1509,
-        "stamina-maximum": 17412,
-        "stamina-recovery": 918,
+        "stamina-maximum": 17737,
+        "critical-rating-spell": 7762,
+        "power-spell": 3874,
+        "health-maximum": 24514,
+        "resistance-physical": 9048,
+        "health-recovery": 373,
+        "critical-rating-weapon": 7762,
+        "resistance-critical": 1320,
+        "power-weapon": 3874,
+        "magicka-maximum": 66725,
         "resistance-spell": 15714,
-        "penetration-spell": 6335
+        "stamina-recovery": 918,
+        "penetration-spell": 9309
       },
       "unbonusedStats": {
-        "magicka-maximum": 61893,
-        "power-spell": 1000,
-        "resistance-critical": 0,
-        "health-recovery": 373,
         "penetration-physical": 0,
-        "critical-rating-spell": 2181,
-        "resistance-physical": 0,
-        "critical-rating-weapon": 2181,
-        "health-maximum": 24287,
-        "power-weapon": 1000,
         "magicka-recovery": 1509,
-        "stamina-maximum": 17412,
-        "stamina-recovery": 918,
+        "stamina-maximum": 17737,
+        "critical-rating-spell": 2181,
+        "power-spell": 1000,
+        "health-maximum": 24514,
+        "resistance-physical": 0,
+        "health-recovery": 373,
+        "critical-rating-weapon": 2181,
+        "resistance-critical": 0,
+        "power-weapon": 1000,
+        "magicka-maximum": 66725,
         "resistance-spell": 0,
+        "stamina-recovery": 918,
         "penetration-spell": 0
       },
       "activeBuffs": [
@@ -14739,24 +14830,31 @@
           "stacks": 0
         },
         {
-          "abilityId": 135397,
-          "name": "Vampire Stage 1",
+          "abilityId": 61708,
+          "name": "Minor Heroism",
           "description": "",
-          "effect": "You are slightly corrupted from the influence of Vampirism.\n\nHealth Recovery: -10%\nFlame Damage Taken: +5%\nRegular Ability Costs: +3%\nVampire Ability Costs: -6%\n",
+          "effect": "While in combat, grants you |cffffff1|r Ultimate every |cffffff1.5|r seconds.\n",
           "stacks": 0
         },
         {
           "abilityId": 24639,
           "name": "Summon Twilight Matriarch",
-          "description": "Call on Azura to send a twilight matriarch to fight at your side. The twilight matriarch's zap deals |cffffff1980|r Shock Damage and its kick deals |cffffff1980|r Shock Damage.\n\nOnce summoned, you can activate the twilight matriarch's special ability for |cffffff3718|r Magicka, causing it to heal |cffffff2|r friendly targets for |cffffff16744|r and itself for |cffffff8372|r.\n\nThe twilight matriarch remains until killed or unsummoned.",
+          "description": "Call on Azura to send a twilight matriarch to fight at your side. The twilight matriarch's zap deals |cffffff2071|r Shock Damage and its kick deals |cffffff2071|r Shock Damage.\n\nOnce summoned, you can activate the twilight matriarch's special ability for |cffffff3718|r Magicka, causing it to heal |cffffff2|r friendly targets for |cffffff17534|r and itself for |cffffff8766|r.\n\nThe twilight matriarch remains until killed or unsummoned.",
           "effect": "",
           "stacks": 0
         },
         {
-          "abilityId": 93109,
-          "name": "Major Slayer",
+          "abilityId": 61667,
+          "name": "Major Savagery",
           "description": "",
-          "effect": "Increases damage done to monsters by |cffffff10|r%.\n",
+          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 114909,
+          "name": "Dark Conversion",
+          "description": "",
+          "effect": "",
           "stacks": 0
         },
         {
@@ -14774,17 +14872,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 61747,
-          "name": "Major Force",
+          "abilityId": 93109,
+          "name": "Major Slayer",
           "description": "",
-          "effect": "Increases your Critical Damage done by |cffffff20|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61667,
-          "name": "Major Savagery",
-          "description": "",
-          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
+          "effect": "Increases damage done to monsters by |cffffff10|r%.\n",
           "stacks": 0
         },
         {
@@ -14799,6 +14890,13 @@
           "name": "Hircine's Veneer",
           "description": "",
           "effect": "Increases your Stamina Recovery by |cffffff145|r.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61747,
+          "name": "Major Force",
+          "description": "",
+          "effect": "Increases your Critical Damage done by |cffffff20|r%.\n",
           "stacks": 0
         },
         {
@@ -14844,18 +14942,32 @@
           "stacks": 0
         },
         {
-          "abilityId": 61708,
-          "name": "Minor Heroism",
-          "description": "",
-          "effect": "While in combat, grants you |cffffff1|r Ultimate every |cffffff1.5|r seconds.\n",
-          "stacks": 0
-        },
-        {
           "abilityId": 155176,
           "name": "Escalating Fete",
           "description": "",
           "effect": "",
-          "stacks": 24
+          "stacks": 30
+        },
+        {
+          "abilityId": 62320,
+          "name": "Exploitation",
+          "description": "",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 252508,
+          "name": "Blood Magic",
+          "description": "",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 135397,
+          "name": "Vampire Stage 1",
+          "description": "",
+          "effect": "You are slightly corrupted from the influence of Vampirism.\n\nHealth Recovery: -10%\nFlame Damage Taken: +5%\nRegular Ability Costs: +3%\nVampire Ability Costs: -6%\n",
+          "stacks": 0
         }
       ],
       "championPoints": [
@@ -15562,7 +15674,7 @@
           "slot": 4,
           "abilityId": 77369,
           "name": "Twilight Matriarch Restore",
-          "description": "Call on Azura to send a twilight matriarch to fight at your side. The twilight matriarch's zap deals |cffffff1980|r Shock Damage and its kick deals |cffffff1980|r Shock Damage.\n\nOnce summoned, you can activate the twilight matriarch's special ability for |cffffff3718|r Magicka, causing it to heal |cffffff2|r friendly targets for |cffffff16744|r and itself for |cffffff8372|r.\n\nThe twilight matriarch remains until killed or unsummoned.",
+          "description": "Call on Azura to send a twilight matriarch to fight at your side. The twilight matriarch's zap deals |cffffff2071|r Shock Damage and its kick deals |cffffff2071|r Shock Damage.\n\nOnce summoned, you can activate the twilight matriarch's special ability for |cffffff3718|r Magicka, causing it to heal |cffffff2|r friendly targets for |cffffff17534|r and itself for |cffffff8766|r.\n\nThe twilight matriarch remains until killed or unsummoned.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -15590,7 +15702,7 @@
         {
           "abilityId": 45172,
           "name": "Blood Magic",
-          "description": "When you cast a Dark Magic ability with a cost, you heal for |cffffff1486|r Health if you are not at full Health. This portion of the ability scales off your Max Health.\n\nIf your Health is full, the higher of your Max Magicka or Stamina is increased by |cffffff10|r% for |cffffff10|r seconds."
+          "description": "When you cast a Dark Magic ability with a cost, you heal for |cffffff1499|r Health if you are not at full Health. This portion of the ability scales off your Max Health.\n\nIf your Health is full, the higher of your Max Magicka or Stamina is increased by |cffffff10|r% for |cffffff10|r seconds."
         },
         {
           "abilityId": 45165,
@@ -15646,17 +15758,17 @@
       "inArchive": false,
       "archiveBoons": [],
       "advanced": {
-        "healing-critical-bonus": 0,
+        "healing-taken-base": 0.03,
         "critical-damage": 0.2,
-        "healing-done-base": 0.02,
-        "healing-taken-base": 0.03
+        "healing-critical-bonus": 0,
+        "healing-done-base": 0.02
       }
     }
   },
   "rotationReading": {
-    "capturedAt": 1792453598,
-    "toughness": 39262.416804819,
-    "damage": 8058.6485616633,
+    "capturedAt": 1792453915,
+    "toughness": 39696.2097636536,
+    "damage": 10395.0386747901,
     "healing": 2068.4986560108,
     "reavingBlowsShare": 0.07,
     "bars": [
@@ -15664,7 +15776,7 @@
         "bar": "frontBar",
         "weaponStyle": "one-hand",
         "healing": 1.0876478478,
-        "damage": 1.0134127419,
+        "damage": 1.0708470245,
         "healthMaximum": 30197,
         "armorShare": 0.2420909091,
         "damageTaken": 0
@@ -15674,7 +15786,7 @@
         "weaponStyle": "lightning-staff",
         "healing": 1.0540511769,
         "damage": 1.0708470245,
-        "healthMaximum": 30197,
+        "healthMaximum": 36414,
         "armorShare": 0.1912121212,
         "damageTaken": 0
       }
