@@ -46,6 +46,11 @@ describe("courseOf", () => {
     expect(courseOf([lecture(1, 600)], { L1: 9000 }).progressMinutes).toBe(10)
   })
 
+  test("a course counts its lectures and the lectures watched", () => {
+    const course = courseOf(LECTURES, { L1: 1800, L2: 300 })
+    expect([course.lecturesWatched, course.lectures]).toEqual([1, 3])
+  })
+
   test("minutes are kept to the hundredth", () => {
     expect(courseOf([lecture(1, 100)], { L1: 10 }).progressMinutes).toBe(0.17)
   })

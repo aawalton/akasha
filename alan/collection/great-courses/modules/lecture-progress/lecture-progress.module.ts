@@ -32,7 +32,11 @@ export const lectureProgress = {
       decisionKind: "decision-kind/departure",
       statement: "Lengths and progress are counted in minutes to the hundredth.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A course also counts its lectures and how many of them are watched.",
+    },
   ],
   createdAt: "2026-10-18T17:13:18.694Z",
-  updatedAt: "2026-10-18T17:13:18.694Z",
+  updatedAt: "2026-10-19T17:12:34.361Z",
 } as const satisfies Module

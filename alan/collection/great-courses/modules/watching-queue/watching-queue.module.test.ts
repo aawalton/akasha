@@ -28,6 +28,14 @@ describe("queuedFrom", () => {
     expect(queuedFrom(rows, NOW).map((one) => one.id)).toEqual(["id-b", "id-a"])
   })
 
+  test("courses as far along as each other come shortest first", () => {
+    const rows = [
+      row("a", { completionPercent: 5, totalLength: 600 }),
+      row("b", { completionPercent: 5, totalLength: 300 }),
+    ]
+    expect(queuedFrom(rows, NOW).map((one) => one.id)).toEqual(["id-b", "id-a"])
+  })
+
   test("courses as far along as each other come by title", () => {
     const rows = [row("d", { completionPercent: 5 }), row("c", { completionPercent: 5 })]
     expect(queuedFrom(rows, NOW).map((one) => one.id)).toEqual(["id-c", "id-d"])

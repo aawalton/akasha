@@ -47,6 +47,10 @@ export const lectureWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A lecture recorded is reported as lectures watched over lectures in the course.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A lecture ending on a page the extension did not open is recorded all the same.",
     },
     {
@@ -67,5 +71,5 @@ export const lectureWatching = {
     },
   ],
   createdAt: "2026-10-18T17:31:07.469Z",
-  updatedAt: "2026-10-19T16:50:27.976Z",
+  updatedAt: "2026-10-19T17:12:34.361Z",
 } as const satisfies Module

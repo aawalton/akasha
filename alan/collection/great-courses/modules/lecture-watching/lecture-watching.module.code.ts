@@ -177,6 +177,10 @@ function lectureEnded(): Promise<undefined> {
   return new Promise((resolve) => ENDING.push(() => resolve(undefined)))
 }
 
+export function recordedSaid(course: Course): string {
+  return `Recorded ${course.lecturesWatched} / ${course.lectures} lectures.`
+}
+
 async function goneOn(ask: (asked: Asked) => Promise<Answered>, said: string) {
   const panel = panelOf(`${said} Opening the next course…`)
   const answer = await ask({ kind: "onward", path: location.pathname })
@@ -198,7 +202,7 @@ async function recorded(
     panelOf(`This lecture was not recorded: ${answer.why}`)
     return
   }
-  await goneOn(ask, `Recorded ${course.progressMinutes} of ${course.lengthMinutes} minutes.`)
+  await goneOn(ask, recordedSaid(course))
 }
 
 async function watched(
@@ -269,8 +273,7 @@ async function recordedEach(
       lengthMinutes: now.lengthMinutes,
       progressMinutes: now.progressMinutes,
     })
-    if (answer.why === null)
-      told(`Recorded ${now.progressMinutes} of ${now.lengthMinutes} minutes.`)
+    if (answer.why === null) told(recordedSaid(now))
     else panelOf(`This lecture was not recorded: ${answer.why}`)
   }
 }

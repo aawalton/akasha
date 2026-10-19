@@ -15,6 +15,7 @@ export const coursesUnfinished = {
   ],
   viewSorts: [
     { key: "completion-percent", descending: true },
+    { key: "total-length", descending: false },
     { key: "title", descending: false },
   ],
   visibleProperties: [
@@ -25,5 +26,5 @@ export const coursesUnfinished = {
     "own-progress",
   ],
   createdAt: "2026-10-18T15:37:14.937Z",
-  updatedAt: "2026-10-18T16:20:43.823Z",
+  updatedAt: "2026-10-19T17:12:34.361Z",
 } as const satisfies View

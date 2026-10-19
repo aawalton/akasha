@@ -11,6 +11,8 @@ export type Course = {
   readonly next: number | null
   readonly lengthMinutes: number
   readonly progressMinutes: number
+  readonly lectures: number
+  readonly lecturesWatched: number
 }
 
 const NEAR_THE_END = 10
@@ -31,12 +33,20 @@ export function courseOf(lectures: readonly Lecture[], played: Played): Course {
   let next: number | null = null
   let length = 0
   let progress = 0
+  let lecturesWatched = 0
   for (const lecture of inOrder) {
     const held = played[lecture.id] ?? 0
     const done = watched(lecture, held)
     length += lecture.seconds
     progress += done ? lecture.seconds : Math.min(held, lecture.seconds)
+    if (done) lecturesWatched += 1
     if (!done && next === null) next = lecture.index
   }
-  return { next, lengthMinutes: minutesOf(length), progressMinutes: minutesOf(progress) }
+  return {
+    next,
+    lengthMinutes: minutesOf(length),
+    progressMinutes: minutesOf(progress),
+    lectures: inOrder.length,
+    lecturesWatched,
+  }
 }
