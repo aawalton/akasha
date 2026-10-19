@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQIopWgAABjhRP__fSMJzhigAU8noAAAAAAATJAAIo1BIAQBlAUkAKABkABAhABAycCKwBmAA5AASgOKAEQySB2I5EQsIAAAAgjMBy0IEHSEAA4OMujXqNyLEnDKx5MsuZNnZ9GnVr2z6FGlTqeKtZY2VsjZ4-uXoGLJC0RNkbp2kSpk79QpgqoSuOsMHDZI2BKlgRgGEChjJoOIEmzgoWMGjh5AiSOkwAQGQsYkDUPZVIg",
+  "buildHash": "ATQIopWgAABjRwwGj6tuSFHnbciaGe0AEUM9oAIoZ7QATQz2gAihntAARmVaAAjMq0ABGZVoADM1XWgBNVdaABxNV1oAorQCcAsKsJMExAAAAAAAG4AAEUaglIICygKaAFAAyAAgQhQoJOBHQAyAAcwAJQHFIqAZNAbUcEIWECACAQRmA9aIKDpSDJcHGXRW1G5FiThlY8mWXMmzs-jTq17Z9CjSp1PFWssbK2Rs8fXL0DFkhaImyN07SJUyd-oUwVUJXHWGDhskbAlSwIwDCBQxk0HECTZwULGDRw8gRJHSYQIDIWMSBqHsqkQ",
   "gender": 1,
   "level": 50,
   "classId": 2,
@@ -1528,7 +1528,7 @@
             "name": "Concealed Weapon",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "abilityIndex": 2,
           "isUltimate": false,
           "atMorph": true
@@ -1546,7 +1546,7 @@
             "name": "Reaper's Mark",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "abilityIndex": 5,
           "isUltimate": false,
           "atMorph": true
@@ -1582,7 +1582,7 @@
             "name": "Soul Harvest",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "abilityIndex": 1,
           "isUltimate": true,
           "atMorph": true
@@ -1600,8 +1600,123 @@
             "name": "Merciless Resolve",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 6,
+          "isUltimate": false,
+          "atMorph": true
+        }
+      }
+    },
+    "40": {
+      "currentRank": 50,
+      "currentXP": 107441,
+      "nextRankXP": 107441,
+      "skills": {
+        "25091": {
+          "base": {
+            "name": "Soul Shred",
+            "rank": 4
+          },
+          "morph1": {
+            "name": "Soul Siphon",
+            "rank": 4
+          },
+          "morph2": {
+            "name": "Soul Tether",
+            "rank": 4
+          },
+          "currentMorph": 0,
+          "abilityIndex": 1,
+          "isUltimate": true,
+          "atMorph": true
+        },
+        "33291": {
+          "base": {
+            "name": "Strife",
+            "rank": 4
+          },
+          "morph1": {
+            "name": "Funnel Health",
+            "rank": 4
+          },
+          "morph2": {
+            "name": "Swallow Soul",
+            "rank": 4
+          },
+          "currentMorph": 1,
+          "abilityIndex": 2,
+          "isUltimate": false,
+          "atMorph": true
+        },
+        "33308": {
+          "base": {
+            "name": "Malevolent Offering",
+            "rank": 4
+          },
+          "morph1": {
+            "name": "Shrewd Offering",
+            "rank": 4
+          },
+          "morph2": {
+            "name": "Healthy Offering",
+            "rank": 4
+          },
+          "currentMorph": 0,
+          "abilityIndex": 3,
+          "isUltimate": false,
+          "atMorph": true
+        },
+        "33316": {
+          "base": {
+            "name": "Drain Power",
+            "rank": 4
+          },
+          "morph1": {
+            "name": "Power Extraction",
+            "rank": 4
+          },
+          "morph2": {
+            "name": "Sap Essence",
+            "rank": 4
+          },
+          "currentMorph": 0,
+          "abilityIndex": 6,
+          "isUltimate": false,
+          "atMorph": true
+        },
+        "33319": {
+          "base": {
+            "name": "Siphoning Strikes",
+            "rank": 4
+          },
+          "morph1": {
+            "name": "Leeching Strikes",
+            "rank": 4
+          },
+          "morph2": {
+            "name": "Siphoning Attacks",
+            "rank": 4
+          },
+          "currentMorph": 0,
+          "abilityIndex": 5,
+          "isUltimate": false,
+          "atMorph": true
+        },
+        "33326": {
+          "base": {
+            "name": "Cripple",
+            "rank": 4
+          },
+          "morph1": {
+            "name": "Debilitate",
+            "rank": 4
+          },
+          "morph2": {
+            "name": "Crippling Grasp",
+            "rank": 4
+          },
+          "currentMorph": 0,
+          "abilityIndex": 4,
           "isUltimate": false,
           "atMorph": true
         }
@@ -1643,7 +1758,7 @@
             "name": "Dark Conversion",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 2,
           "abilityIndex": 5,
           "isUltimate": false,
           "atMorph": true
@@ -1988,7 +2103,7 @@
             "name": "Structured Entropy",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "abilityIndex": 4,
           "isUltimate": false,
           "atMorph": true
@@ -2006,7 +2121,7 @@
             "name": "Radiant Magelight",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "abilityIndex": 3,
           "isUltimate": false,
           "atMorph": true
@@ -2182,7 +2297,7 @@
             "name": "Sturdy Horn",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "abilityIndex": 1,
           "isUltimate": true,
           "atMorph": true
@@ -2376,7 +2491,7 @@
             "name": "Perfect Scion",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 2,
           "abilityIndex": 1,
           "isUltimate": true,
           "atMorph": true
@@ -2926,7 +3041,7 @@
             "name": "Pragmatic Fatecarver",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "abilityIndex": 3,
           "isUltimate": false,
           "atMorph": true
@@ -2944,7 +3059,7 @@
             "name": "Tentacular Dread",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 4,
           "isUltimate": false,
           "atMorph": true
@@ -2980,7 +3095,7 @@
             "name": "Recuperative Treatise",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "abilityIndex": 5,
           "isUltimate": false,
           "atMorph": true
@@ -2998,7 +3113,7 @@
             "name": "The Languid Eye",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 1,
           "isUltimate": true,
           "atMorph": true
@@ -4613,7 +4728,7 @@
   },
   "skillPoints": {
     "total": 385,
-    "unassigned": 35,
+    "unassigned": 20,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 0,
@@ -13644,46 +13759,46 @@
   },
   "inventoryCheck": {
     "date": "2026-10-19",
-    "misplaced": 19
+    "misplaced": 9
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792450770,
+      "capturedAt": 1792453036,
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "stats": {
-        "penetration-spell": 5660,
+        "resistance-physical": 13008,
+        "magicka-maximum": 70475,
+        "power-weapon": 2382,
+        "critical-rating-spell": 6228,
         "resistance-critical": 1320,
-        "critical-rating-spell": 2501,
-        "health-maximum": 17960,
-        "critical-rating-weapon": 2501,
-        "resistance-physical": 0,
-        "health-recovery": 359,
-        "magicka-recovery": 734,
-        "power-spell": 1200,
-        "power-weapon": 1200,
-        "penetration-physical": 5660,
-        "magicka-maximum": 24829,
-        "resistance-spell": 2310,
-        "stamina-maximum": 13146,
-        "stamina-recovery": 0
+        "magicka-recovery": 1613,
+        "stamina-recovery": 628,
+        "health-maximum": 19397,
+        "critical-rating-weapon": 6228,
+        "penetration-spell": 5395,
+        "stamina-maximum": 14648,
+        "health-recovery": 373,
+        "power-spell": 2382,
+        "resistance-spell": 18948,
+        "penetration-physical": 5395
       },
       "unbonusedStats": {
-        "penetration-spell": 0,
-        "resistance-critical": 0,
-        "critical-rating-spell": 2181,
-        "health-maximum": 17960,
-        "critical-rating-weapon": 2181,
         "resistance-physical": 0,
-        "health-recovery": 359,
-        "magicka-recovery": 734,
-        "power-spell": 1000,
+        "magicka-maximum": 70475,
         "power-weapon": 1000,
-        "penetration-physical": 0,
-        "magicka-maximum": 24829,
+        "critical-rating-spell": 2181,
+        "resistance-critical": 0,
+        "magicka-recovery": 1613,
+        "stamina-recovery": 628,
+        "health-maximum": 19397,
+        "critical-rating-weapon": 2181,
+        "penetration-spell": 0,
+        "stamina-maximum": 14648,
+        "health-recovery": 373,
+        "power-spell": 1000,
         "resistance-spell": 0,
-        "stamina-maximum": 13146,
-        "stamina-recovery": 0
+        "penetration-physical": 0
       },
       "activeBuffs": [
         {
@@ -13694,6 +13809,20 @@
           "stacks": 0
         },
         {
+          "abilityId": 13943,
+          "name": "Boon: The Mage",
+          "description": "increases Maximum Magicka",
+          "effect": "Increases your Maximum Magicka by |cffffff2757|r.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61260,
+          "name": "Increase Max Magicka",
+          "description": "Increase Max Magicka by |cffffff0|r for |cffffff35|r minutes.",
+          "effect": "Increase Max Magicka by |cffffff6048|r.\n",
+          "stacks": 0
+        },
+        {
           "abilityId": 135397,
           "name": "Vampire Stage 1",
           "description": "",
@@ -13701,17 +13830,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 61665,
-          "name": "Major Brutality",
+          "abilityId": 61667,
+          "name": "Major Savagery",
           "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 13943,
-          "name": "Boon: The Mage",
-          "description": "increases Maximum Magicka",
-          "effect": "Increases your Maximum Magicka by |cffffff2023|r.\n",
+          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
           "stacks": 0
         }
       ],
@@ -14284,14 +14406,132 @@
           "slottable": true
         }
       ],
-      "worn": [],
+      "worn": [
+        {
+          "slot": 0,
+          "link": "|H0:item:94516:364:50:26582:370:50:16:25:0:0:0:0:0:0:2049:67:0:1:0:10000:0|h|h",
+          "armor": 2425,
+          "enchant": "Adds |cffffff1085|r Maximum Magicka.",
+          "enchantCategory": 13,
+          "trait": "Increase armor enchantment effect by |cffffff25|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 1,
+          "link": "|H0:item:90107:364:50:0:0:0:22:25:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
+          "armor": 0,
+          "enchant": "Adds |cffffff169|r Magicka Recovery.",
+          "enchantCategory": 14,
+          "trait": "Increases Maximum Magicka by |cffffff877|r.",
+          "quality": 5
+        },
+        {
+          "slot": 2,
+          "link": "|H0:item:149255:364:50:0:0:0:16:25:0:0:0:0:0:0:2049:85:0:1:0:10000:0|h|h",
+          "armor": 1396,
+          "enchant": "Adds |cffffff1085|r Maximum Magicka.",
+          "enchantCategory": 13,
+          "trait": "Increase armor enchantment effect by |cffffff25|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 3,
+          "link": "|H0:item:95204:364:50:26582:370:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:10000:0|h|h",
+          "armor": 1823,
+          "enchant": "Adds |cffffff351|r Maximum Magicka.",
+          "enchantCategory": 13,
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 4,
+          "link": "|H0:item:69177:364:50:0:0:0:5:25:0:0:0:0:0:0:2049:25:0:1:0:500:0|h|h",
+          "armor": 0,
+          "enchant": "Deals |cffffff1007|r Magic Damage and restores |cffffff177|r Magicka.",
+          "enchantCategory": 23,
+          "trait": "Increases Physical and Spell Resistance by |cffffff1638|r.",
+          "quality": 5
+        },
+        {
+          "slot": 5,
+          "link": "|H0:item:69183:364:50:0:0:0:16:25:0:0:0:0:0:0:2049:25:0:1:0:10000:0|h|h",
+          "armor": 1720,
+          "enchant": "Adds |cffffff1085|r Maximum Magicka.",
+          "enchantCategory": 13,
+          "trait": "Increase armor enchantment effect by |cffffff25|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 6,
+          "link": "|H0:item:149262:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:85:0:1:0:10000:0|h|h",
+          "armor": 523,
+          "enchant": "Adds |cffffff351|r Maximum Magicka.",
+          "enchantCategory": 13,
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 8,
+          "link": "|H0:item:149259:364:50:0:0:0:16:25:0:0:0:0:0:0:2049:85:0:1:0:10000:0|h|h",
+          "armor": 1221,
+          "enchant": "Adds |cffffff1085|r Maximum Magicka.",
+          "enchantCategory": 13,
+          "trait": "Increase armor enchantment effect by |cffffff25|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 9,
+          "link": "|H0:item:149256:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:85:0:1:0:10000:0|h|h",
+          "armor": 1221,
+          "enchant": "Adds |cffffff351|r Maximum Magicka.",
+          "enchantCategory": 13,
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 11,
+          "link": "|H0:item:90106:364:50:0:0:0:22:25:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
+          "armor": 0,
+          "enchant": "Adds |cffffff169|r Magicka Recovery.",
+          "enchantCategory": 14,
+          "trait": "Increases Maximum Magicka by |cffffff877|r.",
+          "quality": 5
+        },
+        {
+          "slot": 12,
+          "link": "|H0:item:90106:364:50:0:0:0:22:25:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
+          "armor": 0,
+          "enchant": "Adds |cffffff169|r Magicka Recovery.",
+          "enchantCategory": 14,
+          "trait": "Increases Maximum Magicka by |cffffff877|r.",
+          "quality": 5
+        },
+        {
+          "slot": 16,
+          "link": "|H0:item:149257:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:85:0:1:0:10000:0|h|h",
+          "armor": 698,
+          "enchant": "Adds |cffffff351|r Maximum Magicka.",
+          "enchantCategory": 13,
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 20,
+          "link": "|H0:item:69181:364:50:0:0:0:2:25:0:0:0:0:0:0:2049:25:0:1:0:500:0|h|h",
+          "armor": 0,
+          "enchant": "Deals |cffffff2014|r Magic Damage and restores |cffffff354|r Magicka.",
+          "enchantCategory": 23,
+          "trait": "Increases chance to apply status effects by |cffffff235|r%.",
+          "quality": 5
+        }
+      ],
       "skills": [
         {
           "slot": 3,
-          "abilityId": 183047,
-          "name": "Recuperative Treatise",
-          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff5|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff2259|r Magic Damage, restores |cffffff600|r Magicka and Stamina, and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
-          "durationMs": 30000,
+          "abilityId": 34838,
+          "name": "Funnel Health",
+          "description": "Steal an enemy's life force, dealing |cffffff9828|r Magic Damage and healing you or |cffffff3|r other nearby allies for |cffffff35|r% of the damage inflicted every |cffffff2|r seconds for |cffffff10|r seconds.\n\nDeals |cffffff1|r% more damage for every |cffffff2|r% Health you have.",
+          "durationMs": 10000,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
@@ -14299,32 +14539,43 @@
         },
         {
           "slot": 4,
-          "abilityId": 183006,
-          "name": "Cephaliarch's Flail",
-          "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff3986|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff1699|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink.",
-          "durationMs": 0,
-          "castMs": 300,
+          "abilityId": 31632,
+          "name": "Fire Rune",
+          "description": "Inscribe a rune of cosmic fire on the earth, which takes |cffffff2|r seconds to arm and lasts for |cffffff22|r seconds.\n\nWhen triggered, the rune blasts all enemies in the target area for |cffffff11170|r Flame Damage.",
+          "durationMs": 22000,
+          "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
           "ultimateCost": 0
         },
         {
           "slot": 5,
-          "abilityId": 186366,
-          "name": "Pragmatic Fatecarver",
-          "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff1805|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies, and gain a damage shield that absorbs up to |cffffff6002|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage.",
+          "abilityId": 31642,
+          "name": "Equilibrium",
+          "description": "Barter with Oblivion to trade vitality for power, sacrificing your Health in exchange for |cffffff3000|r Magicka.\n\nThe exchange reduces your healing done and damage shield strength by |cffffff50|r% for |cffffff4|r seconds.",
           "durationMs": 0,
-          "castMs": 4500,
-          "channeled": true,
+          "castMs": 0,
+          "channeled": false,
           "cooldownMs": 0,
           "ultimateCost": 0
         },
         {
           "slot": 6,
-          "abilityId": 61505,
-          "name": "Echoing Vigor",
-          "description": "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff8865|r Health over |cffffff16|r seconds.",
-          "durationMs": 16000,
+          "abilityId": 40457,
+          "name": "Degeneration",
+          "description": "Bind an enemy with chaotic magic, dealing |cffffff21744|r Magic Damage over |cffffff22|r seconds.\n\nExcess magic spills out from them, granting you Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff22|r seconds.",
+          "durationMs": 22000,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0,
+          "ultimateCost": 0
+        },
+        {
+          "slot": 7,
+          "abilityId": 40478,
+          "name": "Inner Light",
+          "description": "Conjure a mote of magelight, revealing stealthed and invisible enemies around you for |cffffff7|r seconds. Exposed enemies cannot return to stealth or invisibility for |cffffff4|r seconds. The light is so brilliant that you cannot conceal your presence while active.\n\nWhile slotted gain Major Savagery, increasing Critical Chance by |cffffff12|r% and your Max Magicka is increased by |cffffff5|r%.",
+          "durationMs": 7000,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
@@ -14332,17 +14583,37 @@
         },
         {
           "slot": 8,
-          "abilityId": 189837,
-          "name": "The Tide King's Gaze",
-          "description": "Tear open the fabric of the Aurbis to unleash a scion of Hermaeus Mora. This being casts forth a beam that rends asunder reality for |cffffff8|r seconds that deals |cffffff2113|r Magic Damage to enemies within 5 meters every |cffffff0.5|r seconds. \n\nThe scion's beam automatically follows the initial target, and hunts for a new one within 8 meters if it is slain.",
-          "durationMs": 8000,
+          "abilityId": 40493,
+          "name": "Shooting Star",
+          "description": "Call a comet down from the constellations to blast an enemy, dealing |cffffff19548|r Flame Damage to all enemies in the area, knocking them down, and stunning them for |cffffff2|r seconds.\n\nOne second after impact, enemies in the target area take |cffffff5286|r Flame Damage every |cffffff1|r second for |cffffff12|r seconds.\n\nYou generate |cffffff10|r Ultimate for each enemy hit by the initial blast, up to 6 times.",
+          "durationMs": 0,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
-          "ultimateCost": 154
+          "ultimateCost": 150
         }
       ],
       "classPassives": [
+        {
+          "abilityId": 45176,
+          "name": "Unholy Knowledge",
+          "description": "Reduces the Health, Magicka, and Stamina costs of your non Core Combat abilities by |cffffff6|r%."
+        },
+        {
+          "abilityId": 45172,
+          "name": "Blood Magic",
+          "description": "When you cast a Dark Magic ability with a cost, you heal for |cffffff1221|r Health if you are not at full Health. This portion of the ability scales off your Max Health.\n\nIf your Health is full, the higher of your Max Magicka or Stamina is increased by |cffffff10|r% for |cffffff10|r seconds."
+        },
+        {
+          "abilityId": 45165,
+          "name": "Persistence",
+          "description": "After blocking an attack, your next Health, Magicka, or Stamina ability costs |cffffff18|r% less."
+        },
+        {
+          "abilityId": 45181,
+          "name": "Exploitation",
+          "description": "Attempting to activate a Dark Magic skill grants you and your group |cffffff2974|r Offensive Penetration for |cffffff20|r seconds."
+        },
         {
           "abilityId": 45198,
           "name": "Rebate",
@@ -14364,92 +14635,72 @@
           "description": "Increases your Magicka and Stamina by |cffffff5|r%.\n\nIncreases your Max Health by |cffffff5|r% if you have a permanent summoned combat pet active."
         },
         {
-          "abilityId": 45038,
-          "name": "Master Assassin",
-          "description": "Increases your Critical Chance rating against enemies you are flanking by |cffffff1448|r, increasing your chance to critically strike by |cffffff|6.6|r%."
+          "abilityId": 45135,
+          "name": "Catalyst",
+          "description": "After drinking a potion you gain |cffffff22|r Ultimate."
         },
         {
-          "abilityId": 45048,
-          "name": "Executioner",
-          "description": "When an enemy dies within |cffffff2|r seconds of being damaged by you, you restore |cffffff1000|r Magicka and Stamina."
+          "abilityId": 45150,
+          "name": "Magicka Flood",
+          "description": "Increases your Max Magicka and Stamina by |cffffff6|r%."
         },
         {
-          "abilityId": 45053,
-          "name": "Pressure Points",
-          "description": "Increases your Critical Chance rating by |cffffff438|r for each Nightblade ability slotted, increasing your chance to critically strike by |cffffff2|r% per ability.\n\nCurrent bonus: |cffffff0|r."
+          "abilityId": 45155,
+          "name": "Soul Siphoner",
+          "description": "Increases your healing done by |cffffff3|r% for each Siphoning ability slotted. \n\nCurrent bonus: |cffffff3|r%."
         },
         {
-          "abilityId": 45060,
-          "name": "Hemorrhage",
-          "description": "Increases your Critical Damage by |cffffff10|r%. \n\nCritically striking in any form grants you and your group Minor Savagery, increasing Critical Chance by |cffffff6|r% for |cffffff20|r seconds."
-        },
-        {
-          "abilityId": 184847,
-          "name": "Fated Fortune",
-          "description": "Warp fate when you generate or consume Crux, increasing your Critical Damage and Critical Healing by |cffffff12|r% for |cffffff7|r seconds."
-        },
-        {
-          "abilityId": 184858,
-          "name": "Harnessed Quintessence",
-          "description": "You master the warp and weft of your very soul. \n\nWhen you restore Magicka or Stamina, your Weapon and Spell Damage increase by |cffffff284|r for |cffffff10|r seconds."
-        },
-        {
-          "abilityId": 184873,
-          "name": "Psychic Lesion",
-          "description": "Your attacks wound the mind with heretical knowledge, increasing damage dealt by Status Effects by |cffffff15|r% and Status Effect Chance by |cffffff55|r%."
-        },
-        {
-          "abilityId": 184887,
-          "name": "Splintered Secrets",
-          "description": "What they don't know can kill them. Increase your Physical and Spell Penetration by |cffffff1240|r per Herald of the Tome ability slotted.\n\nCurrent bonus: |cffffff4960|r."
+          "abilityId": 45145,
+          "name": "Transfer",
+          "description": "Casting a Siphoning ability while in combat generates |cffffff2|r Ultimate. This effect can occur once every |cffffff4|r seconds."
         }
       ],
       "inArchive": false,
       "archiveBoons": [],
       "advanced": {
-        "healing-critical-bonus": 0,
-        "critical-damage": 0,
-        "healing-done-base": 0.02,
-        "healing-taken-base": 0.02
+        "healing-taken-base": 0.03,
+        "healing-done-base": 0.05,
+        "healing-critical-bonus": 0.02,
+        "critical-damage": 0.02
       }
     },
     "backBar": {
-      "capturedAt": 1792450762,
+      "capturedAt": 1792453038,
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "stats": {
-        "penetration-spell": 700,
+        "resistance-physical": 9650,
+        "magicka-maximum": 58059,
+        "power-weapon": 2382,
+        "critical-rating-spell": 3599,
         "resistance-critical": 1320,
-        "critical-rating-spell": 2939,
-        "health-maximum": 17960,
-        "critical-rating-weapon": 2939,
-        "resistance-physical": 0,
-        "health-recovery": 359,
-        "magicka-recovery": 734,
-        "power-spell": 1200,
-        "power-weapon": 1200,
-        "penetration-physical": 700,
-        "magicka-maximum": 24829,
-        "resistance-spell": 2310,
-        "stamina-maximum": 13146,
-        "stamina-recovery": 604
+        "magicka-recovery": 1489,
+        "stamina-recovery": 628,
+        "health-maximum": 19397,
+        "critical-rating-weapon": 3599,
+        "penetration-spell": 5395,
+        "stamina-maximum": 13897,
+        "health-recovery": 373,
+        "power-spell": 2382,
+        "resistance-spell": 15590,
+        "penetration-physical": 5395
       },
       "unbonusedStats": {
-        "penetration-spell": 0,
-        "resistance-critical": 0,
-        "critical-rating-spell": 2181,
-        "health-maximum": 17960,
-        "critical-rating-weapon": 2181,
         "resistance-physical": 0,
-        "health-recovery": 359,
-        "magicka-recovery": 734,
-        "power-spell": 1000,
+        "magicka-maximum": 58059,
         "power-weapon": 1000,
-        "penetration-physical": 0,
-        "magicka-maximum": 24829,
+        "critical-rating-spell": 2181,
+        "resistance-critical": 0,
+        "magicka-recovery": 1489,
+        "stamina-recovery": 628,
+        "health-maximum": 19397,
+        "critical-rating-weapon": 2181,
+        "penetration-spell": 0,
+        "stamina-maximum": 13897,
+        "health-recovery": 373,
+        "power-spell": 1000,
         "resistance-spell": 0,
-        "stamina-maximum": 13146,
-        "stamina-recovery": 604
+        "penetration-physical": 0
       },
       "activeBuffs": [
         {
@@ -14460,24 +14711,24 @@
           "stacks": 0
         },
         {
+          "abilityId": 13943,
+          "name": "Boon: The Mage",
+          "description": "increases Maximum Magicka",
+          "effect": "Increases your Maximum Magicka by |cffffff2757|r.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61260,
+          "name": "Increase Max Magicka",
+          "description": "Increase Max Magicka by |cffffff0|r for |cffffff35|r minutes.",
+          "effect": "Increase Max Magicka by |cffffff6048|r.\n",
+          "stacks": 0
+        },
+        {
           "abilityId": 135397,
           "name": "Vampire Stage 1",
           "description": "",
           "effect": "You are slightly corrupted from the influence of Vampirism.\n\nHealth Recovery: -10%\nFlame Damage Taken: +5%\nRegular Ability Costs: +3%\nVampire Ability Costs: -6%\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61665,
-          "name": "Major Brutality",
-          "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 13943,
-          "name": "Boon: The Mage",
-          "description": "increases Maximum Magicka",
-          "effect": "Increases your Maximum Magicka by |cffffff2023|r.\n",
           "stacks": 0
         }
       ],
@@ -15050,32 +15301,170 @@
           "slottable": true
         }
       ],
-      "worn": [],
+      "worn": [
+        {
+          "slot": 0,
+          "link": "|H0:item:94516:364:50:26582:370:50:16:25:0:0:0:0:0:0:2049:67:0:1:0:10000:0|h|h",
+          "armor": 2425,
+          "enchant": "Adds |cffffff1085|r Maximum Magicka.",
+          "enchantCategory": 13,
+          "trait": "Increase armor enchantment effect by |cffffff25|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 1,
+          "link": "|H0:item:90107:364:50:0:0:0:22:25:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
+          "armor": 0,
+          "enchant": "Adds |cffffff169|r Magicka Recovery.",
+          "enchantCategory": 14,
+          "trait": "Increases Maximum Magicka by |cffffff877|r.",
+          "quality": 5
+        },
+        {
+          "slot": 2,
+          "link": "|H0:item:149255:364:50:0:0:0:16:25:0:0:0:0:0:0:2049:85:0:1:0:10000:0|h|h",
+          "armor": 1396,
+          "enchant": "Adds |cffffff1085|r Maximum Magicka.",
+          "enchantCategory": 13,
+          "trait": "Increase armor enchantment effect by |cffffff25|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 3,
+          "link": "|H0:item:95204:364:50:26582:370:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:10000:0|h|h",
+          "armor": 1823,
+          "enchant": "Adds |cffffff351|r Maximum Magicka.",
+          "enchantCategory": 13,
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 4,
+          "link": "|H0:item:69177:364:50:0:0:0:5:25:0:0:0:0:0:0:2049:25:0:1:0:500:0|h|h",
+          "armor": 0,
+          "enchant": "Deals |cffffff1121|r Magic Damage and restores |cffffff177|r Magicka.",
+          "enchantCategory": 23,
+          "trait": "Increases Physical and Spell Resistance by |cffffff1638|r.",
+          "quality": 5
+        },
+        {
+          "slot": 5,
+          "link": "|H0:item:69183:364:50:0:0:0:16:25:0:0:0:0:0:0:2049:25:0:1:0:10000:0|h|h",
+          "armor": 1720,
+          "enchant": "Adds |cffffff1085|r Maximum Magicka.",
+          "enchantCategory": 13,
+          "trait": "Increase armor enchantment effect by |cffffff25|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 6,
+          "link": "|H0:item:149262:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:85:0:1:0:10000:0|h|h",
+          "armor": 523,
+          "enchant": "Adds |cffffff351|r Maximum Magicka.",
+          "enchantCategory": 13,
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 8,
+          "link": "|H0:item:149259:364:50:0:0:0:16:25:0:0:0:0:0:0:2049:85:0:1:0:10000:0|h|h",
+          "armor": 1221,
+          "enchant": "Adds |cffffff1085|r Maximum Magicka.",
+          "enchantCategory": 13,
+          "trait": "Increase armor enchantment effect by |cffffff25|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 9,
+          "link": "|H0:item:149256:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:85:0:1:0:10000:0|h|h",
+          "armor": 1221,
+          "enchant": "Adds |cffffff351|r Maximum Magicka.",
+          "enchantCategory": 13,
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 11,
+          "link": "|H0:item:90106:364:50:0:0:0:22:25:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
+          "armor": 0,
+          "enchant": "Adds |cffffff169|r Magicka Recovery.",
+          "enchantCategory": 14,
+          "trait": "Increases Maximum Magicka by |cffffff877|r.",
+          "quality": 5
+        },
+        {
+          "slot": 12,
+          "link": "|H0:item:90106:364:50:0:0:0:22:25:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
+          "armor": 0,
+          "enchant": "Adds |cffffff169|r Magicka Recovery.",
+          "enchantCategory": 14,
+          "trait": "Increases Maximum Magicka by |cffffff877|r.",
+          "quality": 5
+        },
+        {
+          "slot": 16,
+          "link": "|H0:item:149257:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:85:0:1:0:10000:0|h|h",
+          "armor": 698,
+          "enchant": "Adds |cffffff351|r Maximum Magicka.",
+          "enchantCategory": 13,
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5
+        },
+        {
+          "slot": 20,
+          "link": "|H0:item:69181:364:50:0:0:0:2:25:0:0:0:0:0:0:2049:25:0:1:0:500:0|h|h",
+          "armor": 0,
+          "enchant": "Deals |cffffff2242|r Magic Damage and restores |cffffff354|r Magicka.",
+          "enchantCategory": 23,
+          "trait": "Increases chance to apply status effects by |cffffff235|r%.",
+          "quality": 5
+        }
+      ],
       "skills": [
         {
           "slot": 3,
-          "abilityId": 38788,
-          "name": "Stampede",
-          "description": "Launch across the earth and smash an enemy, dealing |cffffff2864|r Physical Damage to them and all nearby enemies. This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing |cffffff620|r Physical Damage to all enemies in the area every |cffffff1|r second for |cffffff15|r seconds.",
-          "durationMs": 15000,
-          "castMs": 0,
+          "abilityId": 24589,
+          "name": "Dark Conversion",
+          "description": "Bargain with darkness to restore |cffffff10200|r Health and |cffffff4500|r Magicka instantly, and an additional |cffffff3000|r Magicka over |cffffff20|r seconds.\n\nThe exchange also grants you Minor Berserk for |cffffff20|r seconds, increasing your damage done by |cffffff5|r%.",
+          "durationMs": 20000,
+          "castMs": 1000,
           "channeled": false,
           "cooldownMs": 0,
           "ultimateCost": 0
         },
         {
           "slot": 8,
-          "abilityId": 36514,
-          "name": "Soul Harvest",
-          "description": "Ravage an enemy with a spinning attack, dealing |cffffff7229|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate.",
-          "durationMs": 0,
-          "castMs": 400,
+          "abilityId": 38931,
+          "name": "Perfect Scion",
+          "description": "Transform into a monstrous creature of the night, instantly healing to full Health.\n\nWhile transformed, your Max Health, Magicka, and Stamina are increased by |cffffff10000|r, you heal for |cffffff15|r% of all damage you deal, and you can see enemies through walls. \n\nYou also ascend to Vampire Stage 5, which grants all the benefits of Vampire Stage 4 with none of the drawbacks.",
+          "durationMs": 20000,
+          "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
-          "ultimateCost": 62
+          "ultimateCost": 256
         }
       ],
       "classPassives": [
+        {
+          "abilityId": 45176,
+          "name": "Unholy Knowledge",
+          "description": "Reduces the Health, Magicka, and Stamina costs of your non Core Combat abilities by |cffffff6|r%."
+        },
+        {
+          "abilityId": 45172,
+          "name": "Blood Magic",
+          "description": "When you cast a Dark Magic ability with a cost, you heal for |cffffff1186|r Health if you are not at full Health. This portion of the ability scales off your Max Health.\n\nIf your Health is full, the higher of your Max Magicka or Stamina is increased by |cffffff10|r% for |cffffff10|r seconds."
+        },
+        {
+          "abilityId": 45165,
+          "name": "Persistence",
+          "description": "After blocking an attack, your next Health, Magicka, or Stamina ability costs |cffffff18|r% less."
+        },
+        {
+          "abilityId": 45181,
+          "name": "Exploitation",
+          "description": "Attempting to activate a Dark Magic skill grants you and your group |cffffff2974|r Offensive Penetration for |cffffff20|r seconds."
+        },
         {
           "abilityId": 45198,
           "name": "Rebate",
@@ -15097,77 +15486,59 @@
           "description": "Increases your Magicka and Stamina by |cffffff5|r%.\n\nIncreases your Max Health by |cffffff5|r% if you have a permanent summoned combat pet active."
         },
         {
-          "abilityId": 45038,
-          "name": "Master Assassin",
-          "description": "Increases your Critical Chance rating against enemies you are flanking by |cffffff1448|r, increasing your chance to critically strike by |cffffff|6.6|r%."
+          "abilityId": 45135,
+          "name": "Catalyst",
+          "description": "After drinking a potion you gain |cffffff22|r Ultimate."
         },
         {
-          "abilityId": 45048,
-          "name": "Executioner",
-          "description": "When an enemy dies within |cffffff2|r seconds of being damaged by you, you restore |cffffff1000|r Magicka and Stamina."
+          "abilityId": 45150,
+          "name": "Magicka Flood",
+          "description": "Increases your Max Magicka and Stamina by |cffffff6|r%."
         },
         {
-          "abilityId": 45053,
-          "name": "Pressure Points",
-          "description": "Increases your Critical Chance rating by |cffffff438|r for each Nightblade ability slotted, increasing your chance to critically strike by |cffffff2|r% per ability.\n\nCurrent bonus: |cffffff438|r."
+          "abilityId": 45155,
+          "name": "Soul Siphoner",
+          "description": "Increases your healing done by |cffffff3|r% for each Siphoning ability slotted. \n\nCurrent bonus: |cffffff0|r%."
         },
         {
-          "abilityId": 45060,
-          "name": "Hemorrhage",
-          "description": "Increases your Critical Damage by |cffffff10|r%. \n\nCritically striking in any form grants you and your group Minor Savagery, increasing Critical Chance by |cffffff6|r% for |cffffff20|r seconds."
-        },
-        {
-          "abilityId": 184847,
-          "name": "Fated Fortune",
-          "description": "Warp fate when you generate or consume Crux, increasing your Critical Damage and Critical Healing by |cffffff12|r% for |cffffff7|r seconds."
-        },
-        {
-          "abilityId": 184858,
-          "name": "Harnessed Quintessence",
-          "description": "You master the warp and weft of your very soul. \n\nWhen you restore Magicka or Stamina, your Weapon and Spell Damage increase by |cffffff284|r for |cffffff10|r seconds."
-        },
-        {
-          "abilityId": 184873,
-          "name": "Psychic Lesion",
-          "description": "Your attacks wound the mind with heretical knowledge, increasing damage dealt by Status Effects by |cffffff15|r% and Status Effect Chance by |cffffff55|r%."
-        },
-        {
-          "abilityId": 184887,
-          "name": "Splintered Secrets",
-          "description": "What they don't know can kill them. Increase your Physical and Spell Penetration by |cffffff1240|r per Herald of the Tome ability slotted.\n\nCurrent bonus: |cffffff0|r."
+          "abilityId": 45145,
+          "name": "Transfer",
+          "description": "Casting a Siphoning ability while in combat generates |cffffff2|r Ultimate. This effect can occur once every |cffffff4|r seconds."
         }
       ],
       "inArchive": false,
       "archiveBoons": [],
       "advanced": {
-        "healing-critical-bonus": 0,
-        "critical-damage": 0.1,
+        "healing-taken-base": 0.03,
         "healing-done-base": 0.02,
-        "healing-taken-base": 0.02
+        "healing-critical-bonus": 0.02,
+        "critical-damage": 0.02
       }
     }
   },
   "rotationReading": {
-    "capturedAt": 1792450750,
-    "toughness": 20825.8773225894,
-    "damage": 4084.7357143422,
+    "capturedAt": 1792452912,
+    "toughness": 39262.416804819,
+    "damage": 7459.4276934998,
     "healing": 2068.4986560108,
     "reavingBlowsShare": 0.07,
     "bars": [
       {
         "bar": "frontBar",
-        "healing": 1.0404,
+        "weaponStyle": "one-hand",
+        "healing": 1.0876478478,
         "damage": 1.0134127419,
-        "healthMaximum": 17960,
-        "armorShare": 0.0590757576,
+        "healthMaximum": 30197,
+        "armorShare": 0.2420909091,
         "damageTaken": 0
       },
       {
         "bar": "backBar",
-        "healing": 1.0404,
+        "weaponStyle": "lightning-staff",
+        "healing": 1.0540511769,
         "damage": 1.0134127419,
-        "healthMaximum": 17960,
-        "armorShare": 0.0175,
+        "healthMaximum": 30197,
+        "armorShare": 0.1912121212,
         "damageTaken": 0
       }
     ]
