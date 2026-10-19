@@ -151,11 +151,15 @@ function placeObjective(this: void, questIndex: number, attempts: readonly MapAt
   return { shown: true, attempt: undefined, instance }
 }
 
-function portIntoInstance(this: void, instance: Instance, objective: string): boolean {
+function portForInstance(this: void, instance: Instance, objective: string): boolean {
   const playerZoneId = GetZoneId(GetUnitZoneIndex("player") ?? 0)
-  const target =
-    playerZoneId === instance.zoneId ? undefined : instanceTarget(nodeReadings(), instance.name)
+  const target = instanceTarget(nodeReadings(), instance.name)
   noteInstance(instance.zoneId, instance.name, playerZoneId, target)
+  if (playerZoneId === instance.zoneId) {
+    SetMapToPlayerLocation()
+    say(`You're already in ${instance.name}, where ${objective} is.`)
+    return true
+  }
   if (target === undefined) return false
   SetMapToPlayerLocation()
   portTo(target, objective)
@@ -255,7 +259,7 @@ export function portNearQuestObjective(this: void): undefined {
   if (!placed.shown) {
     return say(`The map cannot show where ${objective} is.`)
   }
-  if (placed.instance !== undefined && portIntoInstance(placed.instance, objective)) {
+  if (placed.instance !== undefined && portForInstance(placed.instance, objective)) {
     return undefined
   }
   return askPosition({

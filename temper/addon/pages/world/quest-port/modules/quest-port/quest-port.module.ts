@@ -45,8 +45,15 @@ export const questPort = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "With no such way in, or with the player already there, the nearest travel point is sought.",
+      statement: "With the player already in that place, nothing ports and chat says so.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "With no such way in, the nearest travel point is sought.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The way in is looked for on every such press, whether or not it is taken.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -99,5 +106,5 @@ export const questPort = {
     },
   ],
   createdAt: "2026-10-08T14:55:08.172Z",
-  updatedAt: "2026-10-19T18:21:07.960Z",
+  updatedAt: "2026-10-19T18:27:33.791Z",
 } as const satisfies Module
