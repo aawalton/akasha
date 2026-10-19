@@ -11,6 +11,7 @@ export const anglersInstincts = {
   championConstellation: "craft",
   isSlottable: true,
   hashPlace: 25,
+  jumpPoints: [0, 25],
   createdAt: "2026-09-27T05:00:00.920Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:56:20.717Z",
 } as const satisfies TemperChampionStar
