@@ -7,7 +7,6 @@ import {
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { codeRoot as codeRootArgument } from "akasha/command/argument/pages/code-root.argument.ts"
-import { savedVariablesFile as savedVariablesFileArgument } from "akasha/command/argument/pages/saved-variables-file.argument.ts"
 import {
   DATA,
   OPERATIONAL,
@@ -22,14 +21,16 @@ import {
 import { captureTextAt } from "akasha/command/pages/temper/eso/generate/modules/capture-text/capture-text.module.code.ts"
 import { temperEsoGenerateStrings as page } from "akasha/command/pages/temper/eso/generate/strings/temper-eso-generate-strings.command.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
-import { resolveSavedVariablesPath } from "akasha/temper/catalog/side-file/modules/catalog-file-paths/catalog-file-paths.module.code.ts"
+import { capturedCatalog } from "akasha/temper/catalog/world/temper-catalog-domain/modules/catalog-capture-reading/catalog-capture-reading.module.code.ts"
 import {
   engineStringsIn,
   stringsBody,
 } from "akasha/temper/eso/string/modules/engine-strings-reading/engine-strings-reading.module.code.ts"
 import { STRINGS_AT } from "akasha/temper/eso/string/modules/engine-strings-seeding/engine-strings-seeding.module.code.ts"
 
-const NAMED = [codeRootArgument, savedVariablesFileArgument] as const
+const NAMED = [codeRootArgument] as const
+
+const DOMAIN = "interfaceStringCatalog"
 
 const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
@@ -46,24 +47,26 @@ async function stringsWritten(taken: Taken, given: Given): Promise<Answer> {
     return refused(`\`${named}\` is no checkout on this disk, so nothing was read or written`, DATA)
   }
 
-  const from = resolveSavedVariablesPath(taken.savedVariablesFile)
-  const capture = await captureTextAt(from)
-  if (capture === null) {
-    return refused(`\`${from}\` is no file this can read, so there is no capture to write`, DATA)
+  const capture = capturedCatalog(root, DOMAIN)
+  if (capture === undefined) {
+    return refused(
+      `the \`${DOMAIN}\` catalog domain has no capture landed, so there is no capture to write` +
+        " — the watcher lands it when the game next reloads",
+      DATA
+    )
   }
 
   const held = engineStringsIn(capture)
   const count = held === undefined ? 0 : Object.keys(held.strings).length
   if (held === undefined || count === 0) {
     return refused(
-      `\`${from}\` carries no interface strings, so the table was left as it is` +
-        " — the game collects them when it next reloads",
+      `the \`${DOMAIN}\` capture carries no interface strings, so the table was left as it is`,
       DATA
     )
   }
 
   const body = stringsBody(held)
-  const said = `read from ${from} at API version ${String(held.apiVersion)}`
+  const said = `read from the \`${DOMAIN}\` capture at API version ${String(held.apiVersion)}`
   if ((await captureTextAt(join(root, STRINGS_AT))) === body) {
     return told([`\`${STRINGS_AT}\` already holds what the capture says, so nothing landed`, said])
   }

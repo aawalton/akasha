@@ -10,15 +10,11 @@ export const engineStringsReading = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The text is read from the first account holding it, by sorted name.",
+      statement: "The text is read from the interface string catalog's table rather than from Lua.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A capture holding no strings is read as nothing rather than as an empty table.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A file that will not parse is read as nothing rather than raising.",
+      statement: "A catalog holding no strings is read as nothing rather than as an empty table.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -30,5 +26,5 @@ export const engineStringsReading = {
     },
   ],
   createdAt: "2026-09-24T15:44:58.970Z",
-  updatedAt: "2026-09-24T15:45:39.000Z",
+  updatedAt: "2026-10-19T17:44:55.507Z",
 } as const satisfies Module

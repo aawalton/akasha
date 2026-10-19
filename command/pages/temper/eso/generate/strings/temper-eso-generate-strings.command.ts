@@ -9,7 +9,7 @@ export const temperEsoGenerateStrings = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file the call does not name is read from the game's live install.",
+      statement: "The strings are read from the capture landed beside the interface string page.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -37,7 +37,7 @@ export const temperEsoGenerateStrings = {
     },
   ],
   name: "strings",
-  arguments: [{ argument: "argument/code-root" }, { argument: "argument/saved-variables-file" }],
+  arguments: [{ argument: "argument/code-root" }],
   createdAt: "2026-09-24T15:46:14.106Z",
-  updatedAt: "2026-09-24T15:46:20.000Z",
+  updatedAt: "2026-10-19T17:44:55.507Z",
 } as const satisfies Command

@@ -1,10 +1,4 @@
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
-import { accountWideHolding } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
-import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
-
-const TOP_LEVEL = "TemperCatalog_SavedVariables"
-
-const HELD = "interfaceStringCatalog"
 
 const NO_VERSION = 0
 
@@ -13,14 +7,9 @@ export interface EngineStrings {
   readonly strings: Readonly<Record<string, string>>
 }
 
-export function engineStringsIn(content: string): EngineStrings | undefined {
-  let root: Record<string, unknown>
-  try {
-    root = parseLuaSavedVariablesFile(content, TOP_LEVEL)
-  } catch {
-    return undefined
-  }
-  const catalog = accountWideHolding(root, HELD)
+export function engineStringsIn(
+  catalog: Readonly<Record<string, unknown>> | undefined
+): EngineStrings | undefined {
   if (catalog === undefined || !isRecord(catalog.strings)) return undefined
   const given = catalog.strings
   const strings: Record<string, string> = {}
