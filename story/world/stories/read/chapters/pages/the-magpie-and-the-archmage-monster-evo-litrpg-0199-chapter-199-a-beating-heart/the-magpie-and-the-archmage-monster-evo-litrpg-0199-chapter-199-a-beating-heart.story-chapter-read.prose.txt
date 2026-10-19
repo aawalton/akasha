@@ -1,0 +1,257 @@
+After collecting all the glimmerstones and dividing them into three parts: one remaining with Liora, one given to Cee, and the third to Caspian, Liora was eager to upgrade her Aerial Agility trait.
+
+She was surprised that it had taken so long for Aerial Agility to reach maximum potential. It was one of the first traits she had, and it had already been at Expert level from the start. One would think that with her flying so much, it would have long reached this threshold.
+
+Better late than never, as they say.
+
+Show me the upgrade options for Aerial Agility.
+
+[Aerial Agility (Rank 2) variants available]
+
+[Sky Dancer – At [Basic] level grants exceptional control over aerial movements, allowing you to perform various difficult aerial maneuvers and change direction almost instantly without losing speed.]
+
+Liora had to wonder whether it was even worth reading further. This was everything Aerial Agility encompassed and more. Turning instantly without losing speed? Yes, please.
+
+"You're seeing this, Renir?" Liora asked.
+
+Renir was still on her back. He'd remained there since the end of the battle, thinking and muttering something to himself.
+
+"Hmm? What?"
+
+"Aerial Agility upgrade?"
+
+"Let me check," he said, touching her feathers. "This is a good upgrade. What else is there?"
+
+"I don't see how anything can top that, but we'll see," Liora said.
+
+[Tempest Acrobatics — You thrive in turbulent air. Strong winds, storms, and even magical gusts are not just easier to navigate, but enhance maneuverability.]
+
+"Okay, that's pretty good," Liora said.
+
+"More situational, though. But being able to fly unimpeded in a storm… that's quite a powerful ability. It might be useful when we get closer to the mountain summit. Winds are quite powerful there," Renir said.
+
+"We have to think it through carefully. Being able to fly in storms is amazing, but I think we shouldn't rush to choose the option that seems more convenient at the moment. That's how Cee and I got stuck with water adaptations."
+
+"Yes, admittedly, those are not very useful at the moment. What's the last option?"
+
+[Featherlight Flight – Allows you to perform incredibly delicate aerial maneuvers without producing any sound. You may hover, perch, and land without disturbing the surrounding area.]
+
+"A more stealthy option. That is interesting," Renir hummed thoughtfully, although the sound came out sounding deep and rumbling.
+
+"Dammit! I was so sure about the first option, but these are all good. Why can't I have them all?" Liora lamented.
+
+"Don't worry, at Rank 3, these skills and traits become more powerful, often combining the options in Rank 2."
+
+"Yes, but it'll take forever to get to Rank 3. Not to mention that the cost is definitely higher."
+
+"It costs—"
+
+"No! I don't want to know. Let me think about it for a moment."
+
+"Would you like to hear my thoughts?" Renir asked.
+
+Liora was a bit surprised that he just didn't spit his thoughts right away. "Sure. Shoot."
+
+"Pick Tempest Acrobatics if you want to have maximum advantage on this mountain. Pick Sky Dancer if you want to be a better close combat fighter. Pick Featherlight Flight if you want to capitalize on your stealth abilities."
+
+Liora thought about it. When she upgraded her Shadow Glide to Nightveil, she became more difficult to spot, but lost her silent flight ability. Up until now, it hadn't been that important, but they would keep climbing this difficult mountain.
+
+The enemies would only get stronger. Sky Dancer would allow her to fight them better head-on. But was that what Liora wanted? Fighting powerful monsters head-on?
+
+Heck no!
+
+Fighting head-on was the last resort. If they could launch a stealth attack and take the enemy out before it even knew Liora was there, then all the better.
+
+"I'm taking Featherlight Flight!" Liora announced.
+
+"Sure," Renir said, somewhat absentmindedly.
+
+[Would you like to upgrade your trait <Aerial Agility> to Rank 2 skill <Featherlight Flight> for 100 glimmerstones?]
+
+Yes!
+
+[Your trait has been upgraded.]
+
+"You seem kind of out of it," Liora said, looking at Renir.
+
+"I'm just wondering what I could do to help you on this mountain. I broke two more of my seals, but… external magic is really where I excel. I can change your attack attribute and help you find enemy weaknesses, but besides that…"
+
+"You could find a way to stuff yourself back in my inventory. Then it'd be easier for us to travel," Liora said, acutely aware of the weight on her back.
+
+"That's impossible! Maybe I should stay here, and you go up the mountain alone if I'm such a burden?" He snapped all of a sudden. His voice sounded quite agitated. Or perhaps it seemed so because of how low it had become.
+
+Liora paused. She had meant it mostly as a joke, but Renir had taken it so seriously. Looking at his crystalline expression, she saw that it was filled with pain. Previously, she wouldn't have noticed, because he didn't really have much expression on that tiny crystal face of his. But now they were becoming clearer.
+
+In fact, the more layers of the seals they broke, the more human Renir seemed to become. Less like a scientist obsessed with only magic, and more like a person. He worried for Liora, he got angry at his brother, he felt bad for being a burden.
+
+Liora gently rubbed her beak against his surface. "You know I wouldn't leave you behind. We've been through so much already. There's no splitting up now."
+
+Renir appeared surprised, his prism eyes widening.
+
+"I… Sorry, I snapped. I didn't mean it like that. I just… I just don't want to be useless anymore. We've just broken two more layers of the seal, but in this mountain it feels like I've only caused more trouble, because I'm heavier and harder for you to carry."
+
+"I'll just have to evolve and become stronger. Just like before." Liora said.
+
+Renir nodded, something akin to a smile appearing on his features. It looked odd on a crystalline face, but Liora couldn't deny how beautifully shiny it appeared.
+
+"I suppose so. Since we're talking about getting stronger. Show me your profile. I haven't seen it in a while. Maybe there's something we can combine. Or something we can add."
+
+Liora nodded and pulled up her profile screen.
+
+[Profile]
+
+Name: Liora
+
+Species: Prismfeather Dracoryx
+
+Level: 37
+
+Health: Great
+
+Mana: Abundant
+
+Glimmerstones: 2612
+
+Skills (13/14):
+
+Resonance Mimicry II [Expert]
+
+Meteor Strike II [Novice]
+
+Prism Air Slash II [Novice]
+
+Decoy Fade II [Expert]
+
+Raptor Lunge [Expert]
+
+Mana Conversion [Expert]
+
+Poison Shot [Expert]
+
+Holy Light [Expert]
+
+Wind Blast [Expert]
+
+Purify [Legend]
+
+Featherflash [Expert]
+
+Aegis Cyclone [Adept]
+
+Theft [Expert]
+
+Traits (12/14):
+
+Prismatic Twilight Vision II [Adept]
+
+Treasure Sense [Expert]
+
+Featherlight Flight II [Basic]
+
+Glimmerlust [Legend]
+
+Nightveil II [Novice]
+
+Inventory [Expert]
+
+Magpie Disguise [Legend]
+
+Ailment Resistance [Adept]
+
+Fluid Flight [Expert]
+
+Sound Resistance [Adept]
+
+Predator of the Deep [Novice]
+
+Prismfeather Mantle [Adept]
+
+Next Evolution: Requires Level 50 and ??? Glimmerstones to unlock
+
+"When did you get Theft to Expert? And what happened to Shadow Glide? Did it get upgraded to Nightveil?" Renir asked, surprised. "Lots of things have improved since I last saw it. The amount of glimmerstones you have is astounding… The skills you would be able to purchase with that amount…"
+
+"Amazing, isn't it? I think I'll soon be able to get Glimmerlust to rank up! Chak-chak-chak!" Liora boasted.
+
+"It's amazing how many things you are missing out on. You have two free trait slots and a free skill slot. Actually, once you improve Featherlight Flight, I'm pretty sure you will be able to combine it with Fluid Flight, giving you even more free trait slots."
+
+"I'm open to suggestions. So long as I don't have to spend my glimmerstones," Liora said.
+
+"Liora… I thought we were over this. If the skill is useful, we buy it!"
+
+"I never agreed to it. I only did it once with Aegis Cyclone. Which isn't even useful in this scenario, because it's external magic."
+
+Renir frowned. "Yes… You are effectively left without a shield. You need something that would protect your body. Open the skillshop—"
+
+"I shall not! We shall learn skills manually."
+
+Needless to say, the ensuing argument was long and arduous, but could be summarized as Renir trying to convince Liora to buy a new defensive skill or trait from the skill shop and Liora refusing.
+
+"Oh! Will you two knock it off?!" Cee said after a while.
+
+"But he wants me to spend my glimmerstones!" Liora whined.
+
+"She refuses to learn new skills and traits! For heaven's sake, Liora, you could learn Tempest Acrobatics or Sky Dancer or perhaps even both right now, if you looked inside the trait shop."
+
+Liora paused. She really did like those traits. If she had all three of them. Well, pretty much nothing in the sky could ever threaten her, even during a storm.
+
+"You could at least take a look in the trait shop. I just purchased Sound Resistance for both myself and Smokey."
+
+"I purchased Agility. I'm hoping it'll let me move around faster with legs," Caspian added.
+
+Liora had to admit that those were both useful purchases for them. But they didn't understand the beauty of hoarding glimmerstones. Of watching that number going up and up. Just how big the pile would be if Liora dumped all the glimmerstones out in the open.
+
+Not large enough. Obviously. She needed more. Not less.
+
+But Renir looked quite angry at her stubbornness. She would at the very least take a look at the trait shop, just so he would calm down.
+
+"I'm only going to take a look at those two traits, and nothing else," Liora announced.
+
+Renir relaxed, likely thinking that he could convince Liora to purchase the traits. She doubted it.
+
+The list of traits was actually quite long, and the more Liora looked at the prices, the more horrified she grew. Once she found the traits in question, her mind was already made up.
+
+[List of traits available for purchase]
+
+Sky Dancer II – 1500 glimmerstones
+
+Tempest Acrobatics II – 1700 glimmerstones
+
+Renir cleared his throat. "Now, before you—"
+
+"NOPE!" Liora said, closing the trait shop right away.
+
+"How much did it cost?" Cee asked curiously.
+
+"Nearly two thousand glimmerstones! That is insane!" Liora screeched.
+
+"Those are rank II traits. Traits in general are more expensive than skills. Okay, okay, if not this then perhaps we can look at skills?"
+
+But Liora wasn't listening to Renir anymore. She pulled the saddle back into her inventory and lowered herself to the ground. Renir stumbled at the sudden lack of perches and fell off with a gentle thud.
+
+"You think about what you've done!" She said and walked away.
+
+The next day was spent training against the Titan Bats. There wasn't much time to waste training. The Sultan wouldn't wait for long, and the people of the sultanate were dying of thirst each day.
+
+This knowledge drove Liora to fight and get stronger with each fight. She reached Level 39, and their group had gotten rather good at dealing with the bats. But it was time to move on and fly higher.
+
+They followed the corrupted river, which the mountain was trying to cover the best way it could. Nonetheless, the nasty fog forming from the river was not something that could be erased.
+
+The higher they flew, the more the scenery warped. Perhaps others couldn't see it, because they mostly appeared cautious, searching for enemies. But Liora saw the beauty beneath the feet.
+
+The mountain was pulsing with magic. At first it was faint, and Liora dismissed it as random bursts of magic. As they flew higher, Liora recognized it for what it was. A heartbeat.
+
+Waves of steady magic passed through the mountain. Like small glowing blue waves, it passed through the mountain, going from the peak and heading down where it eventually fizzled out.
+
+This mountain was alive.
+
+It was painfully obvious as they saw several of the crystalline trees block the path of a few rabbit-like creatures. The winds too grew stronger and seemed to bend to the will of the mountain, because Liora was constantly being blown away from the corrupted river.
+
+It was harder for Smokey to resist since he wasn't as good a flier as her. They would have to find a resting spot soon. But before they could decide on anything, Liora suddenly felt herself be pulled towards one of the cliffs.
+
+Smokey let out a panicked whine as he tried to steady himself. But the wyvern was too clumsy, and he smashed straight into the cliffside.
+
+"What is going on?!" Liora barely managed to avoid crashing herself. It's as if the center of gravity had suddenly shifted to the mountain itself.
+
+"Everyone, get ready for battle!" Renir shouted, jumping off Liora's back.
+
+It was then that Liora saw it. A giant, rock-like creature emerged from within the mountain. In a way, it was similar to Renir, except most of its crystals were a deep blue color. Except for its head. The crystals on its head were black. Corrupted.
