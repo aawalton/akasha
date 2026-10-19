@@ -5,7 +5,7 @@ export const shopping = {
   type: "page-type/domain",
   slug: "shopping",
   definition: "the things Alan means to buy",
-  parts: ["page-type/store"],
+  parts: ["page-type/store", "page-type/shopping-item"],
   createdAt: "2026-10-19T13:07:19.947Z",
-  updatedAt: "2026-10-19T13:07:19.947Z",
+  updatedAt: "2026-10-19T13:08:29.054Z",
 } as const satisfies Domain

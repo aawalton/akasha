@@ -301,6 +301,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/readout/scale/readout-scale.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/readout/widget/readout-widget.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/reminder-system/reminder/reminder.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/shopping/item/shopping-item.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/shopping/store/store.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/sms-core/telnyx-account/telnyx-account.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/music/catalog/artist-collection/artist-collection.page-type.ts","typed":true,"deferred":false}

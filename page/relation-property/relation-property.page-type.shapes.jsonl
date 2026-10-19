@@ -249,6 +249,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"session-persona","propertySlug":"persona","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-set-category","unique":null,"uniquePropertySlug":null,"slug":"set-category","propertySlug":"category","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-class","unique":null,"uniquePropertySlug":null,"slug":"set-class-id","propertySlug":"class-id","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"store","unique":null,"uniquePropertySlug":null,"slug":"shopping-item-store","propertySlug":"store","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"contributor","unique":null,"uniquePropertySlug":null,"slug":"sign-in-contributor","propertySlug":"contributor","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"web-app","unique":null,"uniquePropertySlug":null,"slug":"site-document-web-app","propertySlug":"web-app","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"skill-character","propertySlug":"character","fileName":null,"folderName":null}

@@ -1055,6 +1055,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/safety/safety.domain.ts","id":"01a05f42-92f5-7005-9a61-d2ed59cb2fac"}
 {"propertySlug":"decision-kind","path":"alan/harness/service-workstations/overdue-rolling/overdue-rolling.service-workstation.ts","id":"01a07959-e7b3-7474-b7d6-6b2d76b1b642"}
 {"propertySlug":"decision-kind","path":"alan/harness/service-workstations/persona-points-rebuilding/persona-points-rebuilding.service-workstation.ts","id":"01a082eb-b037-7fe2-b2ad-f45181c80cb2"}
+{"propertySlug":"decision-kind","path":"alan/harness/shopping/item/shopping-item.page-type.ts","id":"01a15447-1cff-78e7-b4e3-ece9981a26c5"}
 {"propertySlug":"decision-kind","path":"alan/harness/sleep/modules/reading/sleep-reading.module.ts","id":"01a069b3-8f5a-7bff-bb12-ccc087280c99"}
 {"propertySlug":"decision-kind","path":"alan/harness/sleep/readouts/upkeep-sleep/upkeep-sleep.readout.ts","id":"01a06220-ef8c-700d-ad60-4cf3f17ae1e3"}
 {"propertySlug":"decision-kind","path":"alan/harness/sleep/sleep.domain.ts","id":"01a06220-ef8c-735b-b8a1-1cb4507d71b0"}
