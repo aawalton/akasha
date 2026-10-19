@@ -8,9 +8,9 @@ export const playerAnswer = {
   icon: "file-text",
   apiVersion: "eso.live.12.1.6.3309674",
   manifestApiVersion: 101051,
-  capturedAt: "2026-10-19T18:07:34.193Z",
+  capturedAt: "2026-10-19T18:25:22.477Z",
   generatorRanForVersion: "eso.live.12.1.6.3309674",
   generatorRanForManifestApiVersion: 101051,
   createdAt: "2026-10-19T18:18:10.663Z",
-  updatedAt: "2026-10-19T18:18:10.663Z",
+  updatedAt: "2026-10-19T18:25:22.955Z",
 } as const satisfies TemperCatalogDomain
