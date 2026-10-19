@@ -6,6 +6,11 @@ export const audit = {
   slug: "audit",
   definition:
     "the command answering every check that runs at audit, over every file this repository has",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "akasha audit" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "audit" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "audits" },
+  ],
   code: "ts",
   test: "ts",
 
@@ -173,5 +178,5 @@ export const audit = {
   name: "audit",
   arguments: [{ argument: "argument/check", repeats: true }],
   createdAt: "2026-08-29T22:53:32.836Z",
-  updatedAt: "2026-09-22T15:41:02.000Z",
+  updatedAt: "2026-10-19T19:41:56.519Z",
 } as const satisfies Command
