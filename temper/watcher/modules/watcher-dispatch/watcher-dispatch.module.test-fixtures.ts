@@ -11,6 +11,8 @@ interface Tweaks {
   exportSettingsError: Error | null
   completionError: Error | null
   dataMiningModified: boolean
+  minedItemsUploaded: { readonly apiVersion: string; readonly throughItemId: number } | null
+  minedUploadedHash: string | null
   reportError: Error | null
 }
 
@@ -21,6 +23,8 @@ const CALM: Tweaks = {
   exportSettingsError: null,
   completionError: null,
   dataMiningModified: false,
+  minedItemsUploaded: null,
+  minedUploadedHash: null,
   reportError: null,
 }
 
@@ -63,7 +67,12 @@ export function harness(tweaks: Partial<Tweaks> = {}): Harness {
     },
     importDataMining: async (content) => {
       calls.push("importDataMining")
-      return { content, modified: t.dataMiningModified, notes: [] }
+      return {
+        content,
+        modified: t.dataMiningModified,
+        notes: [],
+        minedItemsUploaded: t.minedItemsUploaded,
+      }
     },
     importErrors: async () => {
       calls.push("importErrors")
@@ -89,6 +98,10 @@ export function harness(tweaks: Partial<Tweaks> = {}): Harness {
     exportCompanionBuilds: async (content) => {
       calls.push("exportCompanionBuilds")
       return { content, modified: false, companionsConfigSideFileHash: null }
+    },
+    exportMinedUploaded: async (path) => {
+      calls.push("exportMinedUploaded")
+      return path === undefined ? null : t.minedUploadedHash
     },
     exportSettings: async (content) => {
       calls.push("exportSettings")

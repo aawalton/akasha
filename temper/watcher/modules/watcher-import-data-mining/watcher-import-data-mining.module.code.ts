@@ -7,6 +7,7 @@ import {
   type MinedExtractDiagnostics,
   readMinedAccountWide,
 } from "akasha/temper/capture/datamining/reader/modules/mined-data-parse/mined-data-parse.module.code.ts"
+import type { MinedItemsUploaded } from "akasha/temper/catalog/side-file/modules/catalog-side-file/catalog-side-file.module.code.ts"
 import {
   detectIndent,
   replaceOrInsertLuaBlock,
@@ -48,6 +49,7 @@ interface ImportDataMiningResult {
   readonly content: string
   readonly modified: boolean
   readonly notes: readonly ImportNote[]
+  readonly minedItemsUploaded: MinedItemsUploaded | null
 }
 
 interface MinedBlockPlan {
@@ -164,6 +166,20 @@ function emptiedBlock(lines: readonly string[], key: MinedBlockKey): readonly st
   )
 }
 
+function uploadedThrough(
+  accountWide: Record<string, unknown>,
+  items: MinedExtract<{ readonly itemId: number }>
+): MinedItemsUploaded | null {
+  const apiVersion = accountWide.apiVersion
+  if (accountWide.completed !== true || typeof apiVersion !== "string") return null
+  if (!isFullyRead(items.diagnostics) || items.rows.length === 0) return null
+  let throughItemId = 0
+  for (const row of items.rows) {
+    if (row.itemId > throughItemId) throughItemId = row.itemId
+  }
+  return { apiVersion, throughItemId }
+}
+
 export async function runImportDataMining(
   content: string,
   serverUrl: string,
@@ -172,13 +188,14 @@ export async function runImportDataMining(
 ): Promise<ImportDataMiningResult> {
   const fetching = options.fetching ?? overHttp
   const accountWide = readMinedAccountWide(content)
+  const items = extractMinedItemRows(accountWide)
 
   const notes: ImportNote[] = []
   let lines: readonly string[] = content.split("\n")
 
   for (const key of MINED_BLOCK_KEYS) {
     const plan: MinedBlockPlan = MINED_BLOCKS[key]
-    const { rows, diagnostics } = plan.extract(accountWide)
+    const { rows, diagnostics } = key === "items" ? items : plan.extract(accountWide)
     const url = `${serverUrl}${plan.path}`
 
     for (let at = 0; at < rows.length; at += UPLOAD_BATCH_SIZE) {
@@ -192,5 +209,10 @@ export async function runImportDataMining(
   }
 
   const modifiedContent = lines.join("\n")
-  return { content: modifiedContent, modified: modifiedContent !== content, notes }
+  return {
+    content: modifiedContent,
+    modified: modifiedContent !== content,
+    notes,
+    minedItemsUploaded: uploadedThrough(accountWide, items),
+  }
 }

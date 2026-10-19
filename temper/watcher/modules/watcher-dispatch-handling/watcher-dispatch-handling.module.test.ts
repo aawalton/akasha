@@ -34,6 +34,7 @@ const CONFIG_PATHS = {
   inventoryConfigPath: "/addons/TemperItems/TemperItemsConfig.lua",
   charactersConfigPath: "/addons/TemperCharacters/TemperCharactersConfig.lua",
   companionsConfigPath: "/addons/TemperCharacters/TemperCharactersCompanionsConfig.lua",
+  catalogConfigPath: "/addons/TemperCatalog/TemperCatalogConfig.lua",
 }
 
 function answerOf(over: Partial<DispatchAnswer> = {}): DispatchAnswer {
@@ -44,6 +45,7 @@ function answerOf(over: Partial<DispatchAnswer> = {}): DispatchAnswer {
     inventoryConfigSideFileHash: null,
     charactersConfigSideFileHash: null,
     companionsConfigSideFileHash: null,
+    catalogConfigSideFileHash: null,
     ...over,
   }
 }

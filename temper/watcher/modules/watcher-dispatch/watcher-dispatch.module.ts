@@ -57,6 +57,10 @@ export const watcherDispatch = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A mining import answering items uploaded writes them into the catalog config.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The completion import runs once the companion and skill catalogues are read.",
     },
     {
@@ -90,5 +94,5 @@ export const watcherDispatch = {
     },
   ],
   createdAt: "2026-09-02T20:20:26.300Z",
-  updatedAt: "2026-10-19T12:55:29.348Z",
+  updatedAt: "2026-10-19T17:20:29.523Z",
 } as const satisfies Module

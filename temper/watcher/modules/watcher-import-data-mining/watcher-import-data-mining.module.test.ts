@@ -344,6 +344,62 @@ test("a set bonus rides up in the row rather than being left on disk", async () 
   expect(sent[0]?.items[0]?.requiredCp).toBe(160)
 })
 
+const GAME_VERSION = "eso.live.12.1.6.3309674"
+
+function completed(capture: string): string {
+  return capture.replace(
+    '                ["version"] = 1,',
+    [
+      '                ["version"] = 1,',
+      '                ["completed"] = true,',
+      `                ["apiVersion"] = "${GAME_VERSION}",`,
+    ].join("\n")
+  )
+}
+
+test("a completed capture posted whole answers its game version and its top item", async () => {
+  const out = await runImportDataMining(
+    completed(fixture(GOOD_ITEMS, CLEARED_QUESTS)),
+    "https://example.test",
+    "tok-123",
+    { fetching: recording([], accepted) }
+  )
+  expect(out.minedItemsUploaded).toEqual({
+    apiVersion: GAME_VERSION,
+    throughItemId: Math.max(...ITEM_IDS),
+  })
+})
+
+test("a capture still being mined answers no upload", async () => {
+  const out = await runImportDataMining(
+    fixture(GOOD_ITEMS, CLEARED_QUESTS),
+    "https://example.test",
+    "tok-123",
+    { fetching: recording([], accepted) }
+  )
+  expect(out.minedItemsUploaded).toBeNull()
+})
+
+test("a completed capture with an item it cannot read answers no upload", async () => {
+  const out = await runImportDataMining(
+    completed(fixture(ODD_KEY_ITEMS, CLEARED_QUESTS)),
+    "https://example.test",
+    "tok-123",
+    { fetching: recording([], accepted) }
+  )
+  expect(out.minedItemsUploaded).toBeNull()
+})
+
+test("a completed capture holding no item answers no upload", async () => {
+  const out = await runImportDataMining(
+    completed(fixture(EMPTY_ITEMS, CLEARED_QUESTS)),
+    "https://example.test",
+    "tok-123",
+    { fetching: recording([], accepted) }
+  )
+  expect(out.minedItemsUploaded).toBeNull()
+})
+
 test("a batch the server broke off once goes up again and the block still empties", async () => {
   const sent: Sent[] = []
   let broken = false

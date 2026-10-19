@@ -62,6 +62,7 @@ const WROTE_NOTHING_BACK = {
   inventoryConfigSideFileHash: null,
   companionsConfigSideFileHash: null,
   charactersConfigSideFileHash: null,
+  catalogConfigSideFileHash: null,
 }
 
 test("catalog reaches the catalog import alone and writes nothing back", async () => {
@@ -182,6 +183,50 @@ test("data-mining writes back the content the import changed", async () => {
   const at = harness({ dataMiningModified: true })
   const result = await dispatch("data-mining", CONTENT, FAKE_TOKEN, FAKE_URL, optionsFor(at))
   expect(result.writeBack).toBe(CONTENT)
+})
+
+const UPLOADED = { apiVersion: "eso.live.12.1.6.3309674", throughItemId: 227382 }
+
+test("a mining import answering no items uploaded writes no catalog config", async () => {
+  const at = harness()
+  const result = await dispatch(
+    "data-mining",
+    CONTENT,
+    FAKE_TOKEN,
+    FAKE_URL,
+    optionsFor(at, { catalogConfigPath: PRESENT_ADDON_CONFIG })
+  )
+  expect(at.calls).toEqual(["importDataMining"])
+  expect(result.catalogConfigSideFileHash).toBeNull()
+})
+
+test("a mining import answering items uploaded writes them into the catalog config", async () => {
+  const at = harness({ minedItemsUploaded: UPLOADED, minedUploadedHash: "catalog-hash" })
+  const result = await dispatch(
+    "data-mining",
+    CONTENT,
+    FAKE_TOKEN,
+    FAKE_URL,
+    optionsFor(at, { catalogConfigPath: PRESENT_ADDON_CONFIG })
+  )
+  expect(at.calls).toEqual(["importDataMining", "exportMinedUploaded"])
+  expect(stateOf(result.operations, "catalogConfig")).toBe("synced")
+  expect(result.catalogConfigSideFileHash).toBe("catalog-hash")
+  expect(result.ok).toBe(true)
+})
+
+test("an absent catalog addon leaves the mining import synced and the config skipped", async () => {
+  const at = harness({ minedItemsUploaded: UPLOADED, minedUploadedHash: "catalog-hash" })
+  const result = await dispatch(
+    "data-mining",
+    CONTENT,
+    FAKE_TOKEN,
+    FAKE_URL,
+    optionsFor(at, { catalogConfigPath: ABSENT_ADDON_CONFIG })
+  )
+  expect(stateOf(result.operations, "dataMining")).toBe("synced")
+  expect(stateOf(result.operations, "catalogConfig")).toBe("skipped")
+  expect(result.catalogConfigSideFileHash).toBeNull()
 })
 
 test("an absent addon directory leaves the imports synced and the side file skipped", async () => {

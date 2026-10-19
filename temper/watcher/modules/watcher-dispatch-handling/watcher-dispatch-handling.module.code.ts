@@ -61,6 +61,11 @@ interface SideFileKeys {
 }
 
 const SIDE_FILE_KEYS = {
+  catalogConfig: {
+    configPath: "catalogConfigPath",
+    answerHash: "catalogConfigSideFileHash",
+    remembered: "lastCatalogConfigWriteBackHash",
+  },
   charactersConfig: {
     configPath: "charactersConfigPath",
     answerHash: "charactersConfigSideFileHash",

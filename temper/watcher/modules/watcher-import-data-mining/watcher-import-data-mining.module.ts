@@ -66,10 +66,18 @@ export const watcherImportDataMining = {
       statement: "The notes worth telling the reader are handed back rather than printed.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A completed capture read and posted whole answers its game version and top item.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A capture still being mined answers no game version and no item.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads or writes a file.",
     },
   ],
   createdAt: "2026-09-02T19:03:27.439Z",
-  updatedAt: "2026-09-15T18:43:51.000Z",
+  updatedAt: "2026-10-19T17:20:29.523Z",
 } as const satisfies Module

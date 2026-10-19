@@ -13,7 +13,7 @@ export const TARGET_OPERATIONS = {
   characters: { imports: ["characters", "completion", "tasks"], sideFile: "charactersConfig" },
   combat: { imports: ["fights"] },
   companions: { imports: ["companions"], sideFile: "companionsConfig" },
-  "data-mining": { imports: ["dataMining"] },
+  "data-mining": { imports: ["dataMining"], sideFile: "catalogConfig" },
   errors: { imports: ["errors"] },
   inventory: { imports: ["itemRuleVerdicts", "inventory"], sideFile: "inventoryConfig" },
   sales: { imports: ["sales"] },

@@ -6,6 +6,7 @@ import {
   sourcePathFor,
 } from "akasha/temper/watcher/modules/watcher-config/watcher-config.module.code.ts"
 import { runExportCompanionBuilds } from "akasha/temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts"
+import { runExportMinedUploaded } from "akasha/temper/watcher/modules/watcher-export-mined-uploaded/watcher-export-mined-uploaded.module.code.ts"
 import { runExportSettings } from "akasha/temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.code.ts"
 import { runExportTasks } from "akasha/temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.code.ts"
 import type { FileType } from "akasha/temper/watcher/modules/watcher-file-type/watcher-file-type.module.code.ts"
@@ -57,6 +58,7 @@ const [SALES] = TARGET_OPERATIONS.sales.imports
 const CHARACTERS_CONFIG = TARGET_OPERATIONS.characters.sideFile
 const COMPANIONS_CONFIG = TARGET_OPERATIONS.companions.sideFile
 const INVENTORY_CONFIG = TARGET_OPERATIONS.inventory.sideFile
+const CATALOG_CONFIG = TARGET_OPERATIONS["data-mining"].sideFile
 
 export interface DispatchRunners {
   readonly importCatalog: typeof runImportCatalog
@@ -71,6 +73,7 @@ export interface DispatchRunners {
   readonly importSales: typeof runImportSales
   readonly importTasks: typeof runImportTasks
   readonly exportCompanionBuilds: typeof runExportCompanionBuilds
+  readonly exportMinedUploaded: typeof runExportMinedUploaded
   readonly exportSettings: typeof runExportSettings
   readonly exportTasks: typeof runExportTasks
 }
@@ -102,6 +105,7 @@ const WATCHER_RUNNERS: DispatchRunners = {
   importSales: runImportSales,
   importTasks: runImportTasks,
   exportCompanionBuilds: runExportCompanionBuilds,
+  exportMinedUploaded: runExportMinedUploaded,
   exportSettings: exportSettingsOnceRead,
   exportTasks: runExportTasks,
 }
@@ -115,6 +119,7 @@ export interface DispatchOptions {
   readonly inventoryConfigPath?: string
   readonly companionsConfigPath?: string
   readonly charactersConfigPath?: string
+  readonly catalogConfigPath?: string
   readonly sourcePath?: string
   readonly sourceMtimeMs?: number
 }
@@ -126,6 +131,7 @@ interface DispatchResult {
   readonly inventoryConfigSideFileHash: string | null
   readonly companionsConfigSideFileHash: string | null
   readonly charactersConfigSideFileHash: string | null
+  readonly catalogConfigSideFileHash: string | null
   readonly error?: string
 }
 
@@ -134,6 +140,7 @@ const NOTHING_WRITTEN = {
   inventoryConfigSideFileHash: null,
   companionsConfigSideFileHash: null,
   charactersConfigSideFileHash: null,
+  catalogConfigSideFileHash: null,
 } as const
 
 type Handled = Omit<DispatchResult, "ok" | "error">
@@ -251,7 +258,20 @@ async function handleDataMining(job: Job): Promise<Handled> {
   const { operation, value } = await observe(job.imported(DATA_MINING), () =>
     job.runners.importDataMining(job.content, job.serverUrl, job.wtToken)
   )
-  return noSideFile(value?.modified === true ? value.content : null, [operation])
+  const writeBack = value?.modified === true ? value.content : null
+  const uploaded = value?.minedItemsUploaded ?? null
+  if (uploaded === null) return noSideFile(writeBack, [operation])
+  const exported = await observeSideFileExport(
+    CATALOG_CONFIG,
+    job.options.catalogConfigPath,
+    (catalogConfigPath) => job.runners.exportMinedUploaded(catalogConfigPath, uploaded)
+  )
+  return {
+    ...NOTHING_WRITTEN,
+    operations: [operation, ...optional(exported.operation)],
+    writeBack,
+    catalogConfigSideFileHash: exported.value ?? null,
+  }
 }
 
 async function handleErrors(job: Job): Promise<Handled> {
