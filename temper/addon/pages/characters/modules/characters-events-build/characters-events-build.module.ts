@@ -18,9 +18,14 @@ export const charactersEventsBuild = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A build change read while the character sheet is open works its values out again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "Each load of the character takes the whole build capture, reported stats with it.",
     },
   ],
   createdAt: "2026-09-02T17:32:20.771Z",
-  updatedAt: "2026-10-14T14:55:48.413Z",
+  updatedAt: "2026-10-19T19:38:44.378Z",
 } as const satisfies Module

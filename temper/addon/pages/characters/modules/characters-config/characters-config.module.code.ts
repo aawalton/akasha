@@ -1,7 +1,6 @@
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
 import type { CompletionOverride } from "akasha/temper/player/completion/temper-player-completion/modules/completion-override/completion-override.module.code.ts"
 import type {
-  CharacterReading,
   CharactersConfigGlobal,
   SavedVariablesData,
   TaskData,
@@ -39,8 +38,4 @@ export function getCharactersConfig(): CharactersConfigView {
 
 export function getCompletionOverridesForCharacter(charId: string): CompletionOverride[] {
   return getCharactersConfig().completionOverrides[charId] ?? []
-}
-
-export function getReadingForCharacter(charId: string): CharacterReading | undefined {
-  return activeCharactersConfig()?.readings?.[charId]
 }

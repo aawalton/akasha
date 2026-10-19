@@ -22,17 +22,21 @@ export const charactersAdvancedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A character the config gives no reading shows no section.",
+      statement: "The values are worked out in the game each time the character sheet opens.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A build change while the sheet is open works the values out again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A value with no reading behind it is a dash.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "The section is placed again each time the game builds the list again.",
     },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "The values are those the watcher wrote from the reload before this one.",
-    },
   ],
   createdAt: "2026-10-19T18:59:03.808Z",
-  updatedAt: "2026-10-19T18:59:03.808Z",
+  updatedAt: "2026-10-19T19:38:44.378Z",
 } as const satisfies Module
