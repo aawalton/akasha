@@ -1,0 +1,33 @@
+{
+  "character": "erin-solstice",
+  "bar": "primary-weapon-bar",
+  "buildHash": "ATQINIFAQABiRRPAkMpQABIZSgACQylAAEhlKAAJDKUAeiwylAGAAAAAAAAAAAAAAAAAAAAAAAAARIAQAAAAAAAAAAABAAACAAAEAABADAAAAAAAAYAAAAggAABgAAYQAAAAAGACAAAAOAAAAAEAAAAAAAAAAAAAAAAAAAABkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAyA",
+  "capturedAt": 1792447452,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "inCombat": true,
+  "activeBuffs": [
+    { "abilityId": 13978, "name": "Boon: The Lord" }
+  ],
+  "championPoints": [
+
+  ],
+  "pinned": {
+    "critical-rating-spell": 2181,
+    "critical-rating-weapon": 2181,
+    "health-recovery": 309,
+    "magicka-maximum": 12000,
+    "magicka-recovery": 638,
+    "penetration-physical": 0,
+    "penetration-spell": 0,
+    "power-spell": 1124,
+    "power-weapon": 1124,
+    "resistance-critical": 1320,
+    "stamina-recovery": 514
+  },
+  "gaps": {
+    "health-maximum": 31113,
+    "resistance-physical": 11359,
+    "resistance-spell": 11359,
+    "stamina-maximum": 12802
+  }
+}
