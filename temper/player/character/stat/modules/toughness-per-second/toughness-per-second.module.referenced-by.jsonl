@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"toughness-per-second.module.code.ts","path":"command/pages/temper/tps/modules/last-fight-reading/last-fight-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"toughness-per-second.module.code.ts","path":"command/pages/temper/tps/temper-tps.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"toughness-per-second.module.code.ts","path":"temper/player/character/stat/modules/character-rotation-reading/character-rotation-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"toughness-per-second.module.code.ts","path":"temper/player/character/stat/modules/rotation-reading/rotation-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"toughness-per-second.module.code.ts","path":"temper/player/character/stat/modules/toughness-per-second/toughness-per-second.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/stat/temper-character-stat.domain.ts","id":"01a0612f-aae6-7c1d-a590-b3004241a082"}
