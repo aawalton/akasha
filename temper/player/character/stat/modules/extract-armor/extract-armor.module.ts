@@ -13,10 +13,10 @@ export const extractArmor = {
       statement: "The armor Divines counts is the seven body pieces and the active bar's shield.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "A shield gives no effect source of its own.",
+      decisionKind: "decision-kind/departure",
+      statement: "The active bar's shield is an armor source, as a body piece is.",
     },
   ],
   createdAt: "2026-09-02T14:06:51.855Z",
-  updatedAt: "2026-10-19T21:52:10.849Z",
+  updatedAt: "2026-10-19T22:33:44.726Z",
 } as const satisfies Module

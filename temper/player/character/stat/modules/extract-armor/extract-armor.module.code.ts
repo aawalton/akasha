@@ -9,7 +9,9 @@ export const extractArmor: PipelineStage = (build, context) => {
   const offHand = context.bar === undefined ? undefined : build.equipment[context.bar]["off-hand"]
   const shield = offHand?.itemType === "shield" ? [offHand.data] : []
 
-  context.armorItems = [...worn, ...shield]
+  const counted = [...worn, ...shield]
 
-  return worn.map((piece) => createArmorSource(piece))
+  context.armorItems = counted
+
+  return counted.map((piece) => createArmorSource(piece))
 }
