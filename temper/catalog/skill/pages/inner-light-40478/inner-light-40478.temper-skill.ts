@@ -18,9 +18,10 @@ export const innerLight40478 = {
   rank: 2,
   skillLineId: "temper-skill-line/guild-mages-guild",
   skillType: "temper-skill-type/active",
+  effects: "jsonl",
   hashPlace: 688,
   createdAt: "2026-05-28T16:03:32.859Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-19T22:52:10.393Z",
   equations: [
     "<<1>> = 5 seconds (Constant)",
     "<<2>> = 4 seconds (Constant)",

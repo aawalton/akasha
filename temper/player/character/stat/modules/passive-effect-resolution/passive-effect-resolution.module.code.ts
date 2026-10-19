@@ -90,7 +90,7 @@ function resolveSlottedAbilityScalingEffect(
 
   return {
     metricId: effect.metricId,
-    effectType: "integer",
+    effectType: effect.valueType ?? "integer",
     effectValue: finalValue,
   }
 }

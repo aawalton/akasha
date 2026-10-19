@@ -1,0 +1,2 @@
+{"id":"01a1565d-099d-7391-a7f3-720578139a51","metricId":"temper-metric-tree/metric-magicka-maximum","type":"slotted-ability-scaling","skillLineId":"temper-skill-line/guild-mages-guild","valuePerAbility":0.01,"valueType":"fractional-change"}
+{"id":"01a1565d-099d-76a2-8fc4-9e98f6bf5f3a","metricId":"temper-metric-tree/metric-magicka-recovery","type":"slotted-ability-scaling","skillLineId":"temper-skill-line/guild-mages-guild","valuePerAbility":0.01,"valueType":"fractional-change"}

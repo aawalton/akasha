@@ -1,0 +1,2 @@
+{"id":"01a1565d-099d-7c11-aa04-7ef5775a27d7","metricId":"temper-metric-tree/metric-magicka-maximum","type":"fractional-change","value":0.05,"slottedBehavior":"active-bar-only"}
+{"id":"01a1565d-099d-74bd-a5ce-07864caced47","buffId":"temper-buff-major/major-savagery","slottedBehavior":"either-bar"}
