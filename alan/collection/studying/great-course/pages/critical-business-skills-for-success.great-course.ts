@@ -7,8 +7,8 @@ export const criticalBusinessSkillsForSuccess = {
   title: "Critical Business Skills for Success",
   status: "in-progress",
   unit: "unit/minutes",
-  ownLength: 1884.6,
-  ownProgress: 157.05,
+  ownLength: 1884.85,
+  ownProgress: 158.17,
   partOfCollections: [
     "great-courses-collection/all-great-courses",
     "great-courses-subject/business-and-finance-great-courses",
@@ -23,5 +23,6 @@ export const criticalBusinessSkillsForSuccess = {
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-10-18T21:07:43.678Z",
+  updatedAt: "2026-10-19T18:45:33.396Z",
+  progressedAt: "2026-10-19T18:45:33.396Z",
 } as const satisfies GreatCourse
