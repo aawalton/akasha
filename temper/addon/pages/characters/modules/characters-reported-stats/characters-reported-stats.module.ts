@@ -96,7 +96,17 @@ export const charactersReportedStats = {
       statement:
         "A reading keeps each Archive verse and vision held, with its stacks and its text.",
     },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "The first three readings of a session keep every passive's ability id at each rank.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A passive's ability ids are listed in rank order, so a place in the list is a rank.",
+    },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-19T19:55:17.477Z",
+  updatedAt: "2026-10-19T23:51:16.275Z",
 } as const satisfies Module
