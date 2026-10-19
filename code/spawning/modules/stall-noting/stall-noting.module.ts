@@ -7,6 +7,7 @@ export const stallNoting = {
   definition: "what each process in a run's group was doing when the clock ended that run",
   code: "ts",
   test: "ts",
+  reachedByPath: ["stalledIn"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -40,7 +41,11 @@ export const stallNoting = {
       decisionKind: "decision-kind/departure",
       statement: "The code noting is loaded only when a run is ended by the clock.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The watcher ending a run reaches `stalledIn` by this module's path.",
+    },
   ],
   createdAt: "2026-10-18T14:47:07.974Z",
-  updatedAt: "2026-10-18T14:47:07.974Z",
+  updatedAt: "2026-10-19T15:36:40.422Z",
 } as const satisfies Module
