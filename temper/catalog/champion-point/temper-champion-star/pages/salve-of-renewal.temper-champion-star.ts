@@ -11,6 +11,7 @@ export const salveOfRenewal = {
   championConstellation: "warfare",
   isSlottable: true,
   hashPlace: 92,
+  jumpPoints: [0, 10, 20, 30, 40, 50],
   createdAt: "2026-09-27T05:00:00.923Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:57:18.870Z",
 } as const satisfies TemperChampionStar
