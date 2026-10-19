@@ -4,7 +4,7 @@ export const agentMessageSupervisorClaimedReconcile = {
   id: "01a0683e-3dbe-7011-964e-6ba8498d44b5",
   type: "page-type/module",
   slug: "agent-message-supervisor-claimed-reconcile",
-  definition: "messages a seat claimed and ended without consuming, released again",
+  definition: "the messages a seat claimed that code releases",
   code: "ts",
   test: "ts",
   decisions: [
@@ -44,5 +44,5 @@ export const agentMessageSupervisorClaimedReconcile = {
     },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-09-27T16:18:16.000Z",
+  updatedAt: "2026-10-19T18:18:26.242Z",
 } as const satisfies Module

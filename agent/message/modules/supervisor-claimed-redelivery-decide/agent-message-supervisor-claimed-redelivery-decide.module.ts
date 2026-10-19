@@ -4,7 +4,7 @@ export const agentMessageSupervisorClaimedRedeliveryDecide = {
   id: "01a0686d-9d5e-7008-9fde-93e647443261",
   type: "page-type/module",
   slug: "agent-message-supervisor-claimed-redelivery-decide",
-  definition: "which messages a seat claimed and never consumed are released to be delivered again",
+  definition: "whether a message a seat claimed is released",
   code: "ts",
   test: "ts",
   decisions: [
@@ -38,5 +38,5 @@ export const agentMessageSupervisorClaimedRedeliveryDecide = {
     },
   ],
   createdAt: "2026-09-03T18:00:09.310Z",
-  updatedAt: "2026-09-25T02:09:05.000Z",
+  updatedAt: "2026-10-19T18:18:26.242Z",
 } as const satisfies Module
