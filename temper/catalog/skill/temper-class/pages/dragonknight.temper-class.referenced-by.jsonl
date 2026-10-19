@@ -1,6 +1,9 @@
 {"propertySlug":"character-class","path":"temper/player/character/temper-account-character/pages/erin-solstice/erin-solstice.temper-account-character.ts","id":"019dda20-a963-727d-8922-2712d94cd668"}
 {"propertySlug":"character-class","path":"temper/player/character/temper-account-character/pages/maviola-el/maviola-el.temper-account-character.ts","id":"019dda20-8c7c-772a-9cbd-3ae77bd7c136"}
 {"propertySlug":"character-class","path":"temper/player/character/temper-account-character/pages/nirayicel/nirayicel.temper-account-character.ts","id":"019dda20-a672-7ca7-bb4c-c533c9c3c754"}
+{"propertySlug":"import","fileName":"dragonknight.temper-class.ts","path":"command/pages/temper/stat-compare/temper-stat-compare.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"dragonknight.temper-class.ts","path":"temper/player/character/temper-account-character/modules/character-race-class/character-race-class.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"dragonknight.temper-class.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"set-class-id","path":"temper/catalog/gear/temper-set/pages/basalt-blooded-warrior/basalt-blooded-warrior.temper-set.ts","id":"019e6484-5fde-7b83-a3ef-2dd11eccaf68"}
 {"propertySlug":"set-class-id","path":"temper/catalog/gear/temper-set/pages/pyrebrand/pyrebrand.temper-set.ts","id":"019e6484-5fe5-721d-860a-1fb9c62aa22f"}
 {"propertySlug":"skill-line-class","path":"temper/catalog/skill/line/pages/dragonknight-ardent-flame.temper-skill-line.ts","id":"019e61dc-f1a2-7df5-8514-9cc4ca92c505"}

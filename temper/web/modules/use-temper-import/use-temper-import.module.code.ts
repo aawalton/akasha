@@ -14,6 +14,7 @@ import {
   ACCOUNT_PAGE_TYPE,
   addressOfSlug,
 } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
+import { raceAndClassOf } from "akasha/temper/player/character/temper-account-character/modules/character-race-class/character-race-class.module.code.ts"
 import {
   accountCompletionSchema,
   type CharacterCompletion,
@@ -227,6 +228,7 @@ export function useTemperImport() {
               esoCharacterId,
               name: name !== undefined && name !== "" ? name : esoCharacterId,
               priorityOrder,
+              raceAndClass: raceAndClassOf(completion),
               merged,
               verdict: classifyCompletionImport(existing, completion, merged),
             }
@@ -254,6 +256,7 @@ export function useTemperImport() {
               accountPage,
               esoCharacterId: entry.esoCharacterId,
               title: entry.name,
+              ...entry.raceAndClass,
               ...(entry.priorityOrder !== undefined && !orderAlreadySet.has(entry.esoCharacterId)
                 ? { displayOrder: entry.priorityOrder }
                 : {}),

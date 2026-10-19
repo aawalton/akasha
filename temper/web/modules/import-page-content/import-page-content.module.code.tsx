@@ -23,6 +23,7 @@ import {
   ImportSummary,
   importHadCaveats,
 } from "akasha/temper/web/modules/import-summaries/import-summaries.module.code.tsx"
+import { SkillCatalogGate } from "akasha/temper/web/modules/skill-catalog-gate/skill-catalog-gate.module.code.tsx"
 import { useTemperImport } from "akasha/temper/web/modules/use-temper-import/use-temper-import.module.code.ts"
 import {
   usePhrase,
@@ -154,16 +155,20 @@ export function ImportPageContent() {
           </Card>
 
           {state.phase === "idle" && (
-            <DropZone
-              label={phrase(importPageContentDrop.slug, { file: SAVED_FILE })}
-              hint={phrase(importPageContentBrowse.slug)}
-              dragOver={dragOver}
-              inputRef={inputRef}
-              onDrop={handleDrop}
-              onDragOver={handleDragOver}
-              onDragLeave={handleDragLeave}
-              onFileChange={handleFileChange}
-            />
+            <SkillCatalogGate fallback={<Spinner />}>
+              {() => (
+                <DropZone
+                  label={phrase(importPageContentDrop.slug, { file: SAVED_FILE })}
+                  hint={phrase(importPageContentBrowse.slug)}
+                  dragOver={dragOver}
+                  inputRef={inputRef}
+                  onDrop={handleDrop}
+                  onDragOver={handleDragOver}
+                  onDragLeave={handleDragLeave}
+                  onFileChange={handleFileChange}
+                />
+              )}
+            </SkillCatalogGate>
           )}
 
           {state.phase === "reading" && (

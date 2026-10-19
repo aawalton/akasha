@@ -1,9 +1,7 @@
 import { expect, test } from "bun:test"
 import { asPage } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import type {
-  CompletionPageRead,
-  CompletionPageUpsert,
-} from "akasha/temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.code.ts"
+import type { CompletionPageUpsert } from "akasha/temper/watcher/modules/watcher-completion-landing/watcher-completion-landing.module.code.ts"
+import type { CompletionPageRead } from "akasha/temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.code.ts"
 import {
   fightsIn,
   fightsWith,

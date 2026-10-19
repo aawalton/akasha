@@ -16,6 +16,10 @@ import {
 } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
 import { accountAddressOf } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
+import {
+  type RaceAndClass,
+  raceAndClassNamed,
+} from "akasha/temper/player/character/temper-account-character/modules/character-race-class/character-race-class.module.code.ts"
 import { resolveAccountPageId } from "akasha/temper/watcher/modules/watcher-account-page/watcher-account-page.module.code.ts"
 import {
   type SignedInReader,
@@ -54,6 +58,7 @@ interface CharacterImportUpsert {
   characterName: string
   esoCharacterId: string
   canonicalHash: string
+  raceAndClass: RaceAndClass
 }
 
 type CharacterImportAction = CharacterImportSkip | CharacterImportUpsert
@@ -157,6 +162,7 @@ function toCharacterImportAction(entry: ParsedCharacterEntry): CharacterImportAc
     characterName: entry.characterName,
     esoCharacterId: entry.esoCharacterId,
     canonicalHash: encodeBuild(buildState),
+    raceAndClass: raceAndClassNamed(decoded.character.race, decoded.character.class),
   }
 }
 
@@ -200,6 +206,7 @@ export async function executeCharacterImportPlan(
         accountPage,
         esoCharacterId: action.esoCharacterId,
         title: action.characterName,
+        ...action.raceAndClass,
       },
       select: ["id"],
     })

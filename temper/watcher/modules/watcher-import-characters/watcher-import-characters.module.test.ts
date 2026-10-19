@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
+import { templar } from "akasha/temper/catalog/skill/temper-class/pages/templar.temper-class.ts"
+import { nord } from "akasha/temper/catalog/world/temper-race/pages/nord.temper-race.ts"
 import { holdSetCatalogFromCheckout } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.test-fixtures.ts"
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
+import { raceAndClassNamed } from "akasha/temper/player/character/temper-account-character/modules/character-race-class/character-race-class.module.code.ts"
 import type { PageUpsert } from "akasha/temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.code.ts"
 import {
   executeCharacterImportPlan,
@@ -198,6 +201,7 @@ test("a build hash that will not decode is skipped and the rest are still planne
         characterName: "Shalidor",
         esoCharacterId: "12345",
         canonicalHash: CANONICAL_HASH,
+        raceAndClass: {},
       },
       {
         action: "skip",
@@ -263,6 +267,31 @@ test("the account page is upserted before any character page", async () => {
       select: ["id"],
     },
   ])
+})
+
+test("a character page takes the race and class its build hash names", async () => {
+  const { upsert, seen } = recording("page-1")
+  const { report } = reporting()
+  const raceAndClass = raceAndClassNamed(nord.slug, templar.slug)
+  await executeCharacterImportPlan(
+    {
+      actions: [
+        {
+          action: "upsert",
+          characterName: "Yvlon",
+          esoCharacterId: "12345",
+          canonicalHash: CANONICAL_HASH,
+          raceAndClass,
+        },
+      ],
+    },
+    NO_SUPABASE,
+    { userId: "@alan" },
+    { upsert, report, addressOf }
+  )
+  expect(seen[1]).toMatchObject({
+    set: { title: "Yvlon", race: raceAndClass.race, class: raceAndClass.class },
+  })
 })
 
 test("what is reported names the count, each skip, each capture, and the summary", async () => {

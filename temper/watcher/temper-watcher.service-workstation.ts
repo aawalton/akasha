@@ -63,6 +63,7 @@ export const temperWatcher = {
     "module/watcher-account-page",
     "module/watcher-champion-star-landing",
     "module/watcher-config",
+    "module/watcher-completion-landing",
     "module/watcher-config-file",
     "module/watcher-daemon",
     "module/watcher-dispatch",
@@ -129,5 +130,5 @@ export const temperWatcher = {
     "module/saved-variables-reader",
   ],
   createdAt: "2026-09-02T03:46:23.499Z",
-  updatedAt: "2026-10-19T22:51:58.202Z",
+  updatedAt: "2026-10-19T23:31:52.865Z",
 } as const satisfies ServiceWorkstation

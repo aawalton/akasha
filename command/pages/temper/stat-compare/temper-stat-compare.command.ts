@@ -29,6 +29,10 @@ export const temperStatCompare = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Each reading's opening line names the race and class its build hash holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Each reading says whether it was taken in combat.",
     },
     {
@@ -80,5 +84,5 @@ export const temperStatCompare = {
     { argument: "argument/json" },
   ],
   createdAt: "2026-10-14T14:17:00.259Z",
-  updatedAt: "2026-10-19T23:30:36.159Z",
+  updatedAt: "2026-10-19T23:31:52.865Z",
 } as const satisfies Command

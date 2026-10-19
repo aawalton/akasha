@@ -1,10 +1,11 @@
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/player/character/stat/modules/build-reading-lines/build-reading-lines.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/player/character/temper-account-character/modules/character-lines-landing/character-lines-landing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/watcher/modules/watcher-completion-landing/watcher-completion-landing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/watcher/modules/watcher-completion-landing/watcher-completion-landing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/watcher/modules/watcher-import-fights/watcher-import-fights.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/watcher/modules/watcher-import-fights/watcher-import-fights.module.test.ts","typed":true,"deferred":false}

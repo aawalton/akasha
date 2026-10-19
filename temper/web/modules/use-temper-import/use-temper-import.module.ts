@@ -23,6 +23,10 @@ export const useTemperImport = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A character page takes the race and class its capture names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A companion page is found by the address of the companion's page.",
     },
     {
@@ -43,5 +47,5 @@ export const useTemperImport = {
     },
   ],
   createdAt: "2026-09-02T22:17:18.992Z",
-  updatedAt: "2026-09-27T12:47:17.000Z",
+  updatedAt: "2026-10-19T23:31:52.865Z",
 } as const satisfies Module

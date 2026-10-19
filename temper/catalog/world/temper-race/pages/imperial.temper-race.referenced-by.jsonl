@@ -1,2 +1,5 @@
 {"propertySlug":"character-race","path":"temper/player/character/temper-account-character/pages/erin-solstice/erin-solstice.temper-account-character.ts","id":"019dda20-a963-727d-8922-2712d94cd668"}
 {"propertySlug":"character-race","path":"temper/player/character/temper-account-character/pages/khelta-the-eternal/khelta-the-eternal.temper-account-character.ts","id":"019dda20-8f62-7a6f-a9de-662e594f3485"}
+{"propertySlug":"import","fileName":"imperial.temper-race.ts","path":"command/pages/temper/stat-compare/temper-stat-compare.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"imperial.temper-race.ts","path":"temper/player/character/temper-account-character/modules/character-race-class/character-race-class.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"imperial.temper-race.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.test.ts","typed":false,"deferred":false}

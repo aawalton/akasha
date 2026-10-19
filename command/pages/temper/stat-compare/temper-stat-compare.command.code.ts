@@ -109,13 +109,21 @@ function combatOf(line: ReadingLine): string {
   return line.reading.inCombat ? "in combat" : "out of combat"
 }
 
-function headerOf(line: ReadingLine): string {
+type RaceAndClass = Pick<CharacterState["character"], "race" | "class">
+
+function raceAndClassOf(built: RaceAndClass | null): string {
+  if (built === null) return "build unread"
+  return `${built.race} ${built.class}`
+}
+
+export function headerOf(line: ReadingLine, built: RaceAndClass | null): string {
   const { reading } = line
   return [
     shortIdOf(line.id),
     whenOf(reading.capturedAt),
     `capturedAt ${String(reading.capturedAt)}`,
     line.bar,
+    raceAndClassOf(built),
     `eso ${reading.esoVersion ?? "unsaid"}`,
     combatOf(line),
   ].join("  ")
@@ -177,7 +185,7 @@ function blockOf(one: Compared): readonly string[] {
   const matched = one.rows.filter((row) => row.estimate === row.game).length
   const head = `    ${"stat".padEnd(width)} ${cell("game")} ${cell("temper")} ${cell("diff")}`
   return [
-    headerOf(one.line),
+    headerOf(one.line, one.build?.character ?? null),
     ...configuredLines(one),
     ...(one.unestimated === null ? [] : [`  no estimate: ${one.unestimated}`]),
     head,

@@ -14,6 +14,7 @@ export const temperAccountCharacter = {
     "text-property/live-build-id",
     "file-property/fights",
     "module/character-lines-landing",
+    "module/character-race-class",
     "file-property/readings",
   ],
   properties: [
@@ -45,5 +46,5 @@ export const temperAccountCharacter = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T01:48:48.327Z",
-  updatedAt: "2026-10-19T23:12:44.380Z",
+  updatedAt: "2026-10-19T23:31:52.865Z",
 } as const satisfies PageType

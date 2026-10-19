@@ -7,10 +7,8 @@ import {
   readPages,
   writeFiles,
 } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
-import type {
-  CompletionPageRead,
-  CompletionPageUpsert,
-} from "akasha/temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.code.ts"
+import type { CompletionPageUpsert } from "akasha/temper/watcher/modules/watcher-completion-landing/watcher-completion-landing.module.code.ts"
+import type { CompletionPageRead } from "akasha/temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.code.ts"
 import { log } from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
 import {
   besidePathsFor,

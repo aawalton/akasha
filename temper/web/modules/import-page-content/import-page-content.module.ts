@@ -16,7 +16,11 @@ export const importPageContent = {
       statement:
         "A name in braces in a phrase is filled with a drawn piece, such as a link or a path.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file is taken only once the skill catalog is held.",
+    },
   ],
   createdAt: "2026-09-02T22:17:18.992Z",
-  updatedAt: "2026-09-27T11:37:40.000Z",
+  updatedAt: "2026-10-19T23:31:52.865Z",
 } as const satisfies Module

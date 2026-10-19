@@ -48,6 +48,10 @@ export const watcherImportCharacters = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A character page takes the race and class its build hash names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A saved-variables file naming no character writes no page.",
     },
     {
@@ -56,5 +60,5 @@ export const watcherImportCharacters = {
     },
   ],
   createdAt: "2026-09-02T19:03:27.439Z",
-  updatedAt: "2026-09-24T16:25:52.000Z",
+  updatedAt: "2026-10-19T23:31:52.865Z",
 } as const satisfies Module

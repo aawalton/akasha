@@ -4,16 +4,23 @@ import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts
 import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
 import { bastian } from "akasha/temper/catalog/companion/temper-eso-companion/pages/bastian/bastian.temper-eso-companion.ts"
 import { temperEsoCompanion } from "akasha/temper/catalog/companion/temper-eso-companion/temper-eso-companion.page-type.ts"
+import { dragonknight } from "akasha/temper/catalog/skill/temper-class/pages/dragonknight.temper-class.ts"
+import { temperClass } from "akasha/temper/catalog/skill/temper-class/temper-class.page-type.ts"
+import { imperial } from "akasha/temper/catalog/world/temper-race/pages/imperial.temper-race.ts"
+import { nord } from "akasha/temper/catalog/world/temper-race/pages/nord.temper-race.ts"
+import { temperRace } from "akasha/temper/catalog/world/temper-race/temper-race.page-type.ts"
 import {
-  type CompletionPageRead,
   type CompletionPageUpsert,
   completionBody,
-  NO_SIGNED_IN_USER,
   preservedWhy,
+  unparsedCompletionWhy,
+} from "akasha/temper/watcher/modules/watcher-completion-landing/watcher-completion-landing.module.code.ts"
+import {
+  type CompletionPageRead,
+  NO_SIGNED_IN_USER,
   runImportCompletion,
   skippedCompanionsWhy,
   UNREADABLE_SAVED_VARIABLES,
-  unparsedCompletionWhy,
 } from "akasha/temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.code.ts"
 import type {
   ReadFiles,
@@ -360,6 +367,39 @@ test("a merge that held a field back names the field", () => {
   expect(preservedWhy("Account", ["a", "b"])).toBe(
     "Account: the incoming completion was missing a, b, and the forward merge kept what was stored. A saved-variables wipe or a parse regression looks like this."
   )
+})
+
+const RACE_AND_CLASS = CHARACTERS_ONLY.replace(
+  '["level"] = 5',
+  `["level"] = 5, ["raceId"] = ${imperial.esoRaceId}, ["classId"] = ${dragonknight.esoClassId}`
+)
+
+const NAMING = {
+  raceOfEso: (esoRaceId: number) => (esoRaceId === imperial.esoRaceId ? imperial.slug : undefined),
+  classOfEso: (esoClassId: number) =>
+    esoClassId === dragonknight.esoClassId ? dragonknight.slug : undefined,
+}
+
+test("a character page takes the race and class its capture names", async () => {
+  const it = seat({
+    "temper-account-character": [
+      {
+        id: "ch1",
+        slug: "vex",
+        esoCharacterId: "111",
+        displayOrder: 7,
+        race: namedAs(temperRace.slug, nord.slug, null),
+      },
+    ],
+  })
+  await runImportCompletion(RACE_AND_CLASS, { ...it.deps, raceAndClassNaming: NAMING })
+  expect(it.writes[1]?.set).toEqual({
+    accountPage: "temper-account/slug-user-1",
+    esoCharacterId: "111",
+    title: "Vex",
+    race: namedAs(temperRace.slug, imperial.slug, null),
+    class: namedAs(temperClass.slug, dragonknight.slug, null),
+  })
 })
 
 test("a completion lands at the path the pages named rather than at one composed here", async () => {
