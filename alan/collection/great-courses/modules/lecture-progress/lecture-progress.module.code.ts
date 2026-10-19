@@ -28,11 +28,26 @@ function watchedWithin(inOrder: readonly Lecture[], progressMinutes: number): nu
   let through = 0
   let watched = 0
   for (const lecture of inOrder) {
+    const before = through
     through += lecture.seconds
-    if (minutesOf(through) > progressMinutes + ROUNDING_MINUTES) break
+    const covered =
+      lecture.seconds > 0
+        ? minutesOf(through) <= progressMinutes + ROUNDING_MINUTES
+        : progressMinutes > minutesOf(before) + ROUNDING_MINUTES
+    if (!covered) break
     watched += 1
   }
   return watched
+}
+
+export function lengthened(
+  lectures: readonly Lecture[],
+  index: number,
+  seconds: number
+): readonly Lecture[] {
+  return lectures.map((one) =>
+    one.index === index && one.seconds === 0 ? { ...one, seconds: Math.round(seconds) } : one
+  )
 }
 
 function courseThrough(inOrder: readonly Lecture[], watched: number): Course {

@@ -11,7 +11,8 @@ export const lectureWatching = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A lecture's length is read off the site's course page.",
+      statement:
+        "A lecture's length is read off the site's course page, or off its video where none is given.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -71,5 +72,5 @@ export const lectureWatching = {
     },
   ],
   createdAt: "2026-10-18T17:31:07.469Z",
-  updatedAt: "2026-10-19T20:20:08.905Z",
+  updatedAt: "2026-10-19T22:08:38.837Z",
 } as const satisfies Module

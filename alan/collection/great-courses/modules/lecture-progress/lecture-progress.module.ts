@@ -30,6 +30,15 @@ export const lectureProgress = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A lecture the site gives no length takes the length its video played for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Until then, such a lecture is watched only where progress runs past the lectures before it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Lengths and progress are counted in minutes to the hundredth.",
     },
     {
@@ -38,5 +47,5 @@ export const lectureProgress = {
     },
   ],
   createdAt: "2026-10-18T17:13:18.694Z",
-  updatedAt: "2026-10-19T17:30:14.294Z",
+  updatedAt: "2026-10-19T22:08:38.837Z",
 } as const satisfies Module

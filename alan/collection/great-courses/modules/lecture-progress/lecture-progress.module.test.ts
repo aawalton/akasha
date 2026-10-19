@@ -2,6 +2,7 @@ import { describe, expect, test } from "bun:test"
 import {
   finishedThrough,
   type Lecture,
+  lengthened,
   placeOf,
 } from "akasha/alan/collection/great-courses/modules/lecture-progress/lecture-progress.module.code.ts"
 
@@ -50,5 +51,24 @@ describe("finishedThrough", () => {
 
   test("a lecture finished behind the page's progress leaves the progress", () => {
     expect(finishedThrough(LECTURES, 50, 1).progressMinutes).toBe(50)
+  })
+})
+
+describe("a lecture the site gives no length", () => {
+  test("is not watched where no progress runs past the lectures before it", () => {
+    expect(placeOf([lecture(1, 0)], 0).next).toBe(1)
+  })
+
+  test("is watched where progress runs past the lectures before it", () => {
+    expect(placeOf([lecture(1, 0)], 25).next).toBeNull()
+  })
+
+  test("takes the length its video played for once finished", () => {
+    const course = finishedThrough(lengthened([lecture(1, 0)], 1, 1500.4), 0, 1)
+    expect([course.progressMinutes, course.lengthMinutes]).toEqual([25, 25])
+  })
+
+  test("keeps a length the site did give", () => {
+    expect(lengthened([lecture(1, 600)], 1, 900)[0]?.seconds).toBe(600)
   })
 })

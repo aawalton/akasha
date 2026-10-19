@@ -6,6 +6,7 @@ import {
   type Course,
   finishedThrough,
   type Lecture,
+  lengthened,
   placeOf,
 } from "akasha/alan/collection/great-courses/modules/lecture-progress/lecture-progress.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
@@ -33,7 +34,7 @@ const PANEL =
 
 const HELD = new WeakSet<HTMLVideoElement>()
 
-const ENDING: Array<() => void> = []
+const ENDING: Array<(seconds: number) => void> = []
 
 const NOW = { speed: 3, stopped: false }
 
@@ -55,7 +56,7 @@ function lecturesHere(): readonly Lecture[] {
     const index = Number(one.dataset.idx)
     const seconds = Number(one.dataset.len)
     const id = one.dataset.lecId
-    if (id === undefined || !(index >= 1) || !(seconds > 0)) continue
+    if (id === undefined || !(index >= 1) || !(seconds >= 0)) continue
     found.set(index, { id, index, seconds })
   }
   return [...found.values()]
@@ -95,11 +96,13 @@ function hold(video: HTMLVideoElement): undefined {
     video.addEventListener(one, kept)
   }
   let reached = 0
+  let length = 0
   const finished = () => {
-    for (const one of ENDING.splice(0)) one()
+    for (const one of ENDING.splice(0)) one(length)
   }
   const ended = () => {
     if (video.duration < SHORTEST_LECTURE_SECONDS) return
+    length = video.duration
     finished()
   }
   const replaced = () => {
@@ -111,6 +114,7 @@ function hold(video: HTMLVideoElement): undefined {
   video.addEventListener("loadstart", replaced)
   video.addEventListener("timeupdate", () => {
     if (!(video.duration >= SHORTEST_LECTURE_SECONDS)) return
+    length = video.duration
     const at = video.currentTime / video.duration
     if (at < reached - WATCHED_AT) return replaced()
     reached = Math.max(reached, at)
@@ -139,8 +143,8 @@ function keyedBy(ask: (asked: Asked) => Promise<Answered>) {
   }
 }
 
-function lectureEnded(): Promise<undefined> {
-  return new Promise((resolve) => ENDING.push(() => resolve(undefined)))
+function lectureEnded(): Promise<number> {
+  return new Promise((resolve) => ENDING.push(resolve))
 }
 
 export function recordedSaid(course: Course): string {
@@ -185,10 +189,11 @@ async function watched(
     location.replace(next.toString())
     return
   }
-  await lectureEnded()
+  const seconds = await lectureEnded()
   NOW.stopped = true
   for (const one of document.querySelectorAll("video")) one.pause()
-  await recorded(ask, finishedThrough(lectures, await progressNow(ask), lecture.index))
+  const played = lengthened(lectures, lecture.index, seconds)
+  await recorded(ask, finishedThrough(played, await progressNow(ask), lecture.index))
 }
 
 async function begun(ask: (asked: Asked) => Promise<Answered>): Promise<undefined> {
@@ -220,11 +225,12 @@ async function recordedEach(
   lectures: readonly Lecture[]
 ): Promise<never> {
   for (;;) {
-    await lectureEnded()
+    const seconds = await lectureEnded()
     const playing = lectures.find((one) => one.index === Number(playingHere()))
     try {
       if (playing === undefined) throw new Error("the page does not say which lecture played")
-      const now = finishedThrough(lectures, await progressNow(ask), playing.index)
+      const played = lengthened(lectures, playing.index, seconds)
+      const now = finishedThrough(played, await progressNow(ask), playing.index)
       const answer = await ask({
         kind: "progressed",
         path: location.pathname,
