@@ -11543,6 +11543,7 @@
       ],
       "3": [
         1,
+        2,
         4
       ],
       "4": [
@@ -13197,11 +13198,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-10-18",
+    "date": "2026-10-19",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-18",
+    "date": "2026-10-19",
     "seen": [
       5,
       3,
@@ -13212,8 +13213,8 @@
       7
     ],
     "completed": [
-      6,
       1,
+      6,
       2,
       7,
       3,
@@ -13222,46 +13223,46 @@
     ]
   },
   "inventoryCheck": {
-    "date": "2026-10-18",
-    "misplaced": 0
+    "date": "2026-10-19",
+    "misplaced": 18
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792331428,
+      "capturedAt": 1792430509,
       "inCombat": false,
       "stats": {
-        "penetration-physical": 11991,
-        "magicka-recovery": 665,
-        "penetration-spell": 11991,
-        "magicka-maximum": 15483,
         "power-weapon": 3995,
+        "magicka-maximum": 15483,
+        "stamina-recovery": 729,
+        "magicka-recovery": 665,
+        "resistance-physical": 10826,
         "stamina-maximum": 25707,
+        "critical-rating-spell": 9070,
+        "penetration-physical": 11991,
+        "penetration-spell": 11991,
+        "critical-rating-weapon": 9070,
+        "health-maximum": 19038,
         "power-spell": 3995,
         "health-recovery": 405,
-        "critical-rating-weapon": 9070,
-        "resistance-physical": 10826,
-        "critical-rating-spell": 9070,
-        "stamina-recovery": 729,
-        "resistance-spell": 10826,
-        "health-maximum": 19038,
-        "resistance-critical": 1320
+        "resistance-critical": 1320,
+        "resistance-spell": 10826
       },
       "unbonusedStats": {
-        "penetration-physical": 0,
-        "magicka-recovery": 665,
-        "penetration-spell": 0,
-        "magicka-maximum": 15483,
         "power-weapon": 1000,
+        "magicka-maximum": 15483,
+        "stamina-recovery": 729,
+        "magicka-recovery": 665,
+        "resistance-physical": 0,
         "stamina-maximum": 25707,
+        "critical-rating-spell": 2181,
+        "penetration-physical": 0,
+        "penetration-spell": 0,
+        "critical-rating-weapon": 2181,
+        "health-maximum": 19038,
         "power-spell": 1000,
         "health-recovery": 405,
-        "critical-rating-weapon": 2181,
-        "resistance-physical": 0,
-        "critical-rating-spell": 2181,
-        "stamina-recovery": 729,
-        "resistance-spell": 0,
-        "health-maximum": 19038,
-        "resistance-critical": 0
+        "resistance-critical": 0,
+        "resistance-spell": 0
       },
       "activeBuffs": [
         {
@@ -13293,17 +13294,17 @@
           "stacks": 0
         },
         {
-          "abilityId": 61735,
-          "name": "Minor Expedition",
-          "description": "",
-          "effect": "Increases your Movement Speed by |cffffff15|r%.\n",
-          "stacks": 0
-        },
-        {
           "abilityId": 61665,
           "name": "Major Brutality",
           "description": "",
           "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61735,
+          "name": "Minor Expedition",
+          "description": "",
+          "effect": "Increases your Movement Speed by |cffffff15|r%.\n",
           "stacks": 0
         },
         {
