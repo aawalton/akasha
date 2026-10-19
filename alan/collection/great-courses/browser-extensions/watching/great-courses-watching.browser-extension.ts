@@ -37,7 +37,7 @@ export const greatCoursesWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "After a write, the next course in the queue opens in that tab ten seconds on.",
+      statement: "After a write, the next course in the queue opens in that tab at once.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -53,5 +53,5 @@ export const greatCoursesWatching = {
     },
   ],
   createdAt: "2026-10-18T17:31:07.469Z",
-  updatedAt: "2026-10-18T17:31:07.469Z",
+  updatedAt: "2026-10-19T16:32:13.401Z",
 } as const satisfies BrowserExtension

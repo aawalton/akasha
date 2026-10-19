@@ -5,6 +5,10 @@ import {
 } from "akasha/alan/collection/great-courses/modules/watching-queue/watching-queue.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import {
+  followBuilds,
+  reloadedFirst,
+} from "akasha/infrastructure/service/akasha-service/browser-extension/modules/build-following/build-following.module.code.ts"
+import {
   type Chrome,
   chromeOf,
 } from "akasha/infrastructure/service/akasha-service/browser-extension/modules/chrome-reaching/chrome-reaching.module.code.ts"
@@ -26,7 +30,7 @@ export const MANIFEST = {
   name: "Great Courses Watching",
   version: "1.0.0",
   description: "Opens the next Great Courses lecture, plays it fast, and records what was watched.",
-  permissions: ["storage"],
+  permissions: ["storage", "alarms"],
   host_permissions: [`${SITE}/*`, "https://plus.thegreatcourses.com/*"],
   background: { service_worker: "worker.js" },
   action: { default_title: READY },
@@ -181,10 +185,27 @@ async function answered(
   }
 }
 
+async function idle(chrome: Chrome): Promise<boolean> {
+  const kept = await watchingIn(chrome)
+  if (kept === null) return true
+  return await chrome.tabs.get(kept.tabId).then(
+    () => false,
+    () => true
+  )
+}
+
 export function runWorker(): undefined {
   const chrome = chromeOf()
+  followBuilds(
+    chrome,
+    () => idle(chrome),
+    () => begun(chrome)
+  )
   chrome.action.onClicked.addListener(() => {
-    void begun(chrome)
+    void (async () => {
+      if (await reloadedFirst(chrome)) return
+      await begun(chrome)
+    })()
   })
   chrome.runtime.onMessage.addListener((asked, sender, reply) => {
     void answered(chrome, asked as Asked, sender.tab?.id).then(reply)

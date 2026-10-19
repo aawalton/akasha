@@ -10,6 +10,7 @@ import {
   told,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
+import { BUILD_FILE } from "akasha/infrastructure/service/akasha-service/browser-extension/modules/build-following/build-following.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 export const EXTENSIONS = ".local/share/browser-extensions"
@@ -86,6 +87,12 @@ function codeAt(codeRoot: string, pagePath: string, group: string): string | nul
   return existsSync(at) ? at : null
 }
 
+export function stampOf(files: Readonly<Record<string, string>>): string {
+  const hasher = new Bun.CryptoHasher("sha256")
+  for (const name of Object.keys(files).sort()) hasher.update(`${name}\n${files[name]}\n`)
+  return hasher.digest("hex")
+}
+
 function refreshed(at: string, files: Readonly<Record<string, string>>): undefined {
   mkdirSync(at, { recursive: true })
   for (const [name, text] of Object.entries(files)) {
@@ -122,11 +129,12 @@ export async function putUpExtension(
     return answeredWith([], refusals, OPERATIONAL)
   }
   const at = placedAt(home, slug)
-  refreshed(at, {
+  const files = {
     [MANIFEST_FILE]: `${JSON.stringify(loaded.MANIFEST, null, 2)}\n`,
     [WORKER_FILE]: workerMade.text,
     [SITE_FILE]: siteMade.text,
-  })
+  }
+  refreshed(at, { ...files, [BUILD_FILE]: `${stampOf(files)}\n` })
   up.push(`${slug}, placed where Chrome loads it`)
   return told([`placed\t${slug}\t${at}`])
 }

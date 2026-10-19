@@ -42,10 +42,15 @@ export const deployExtensionPlacing = {
       statement: "No file of an earlier build is left in the folder.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A build is stamped by what its files hold, so an unchanged build keeps its stamp.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here is packed and nothing here leaves this machine.",
     },
   ],
   createdAt: "2026-10-18T17:20:17.468Z",
-  updatedAt: "2026-10-19T16:23:12.076Z",
+  updatedAt: "2026-10-19T16:32:13.401Z",
 } as const satisfies Module

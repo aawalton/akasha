@@ -15,6 +15,7 @@ export const browserExtension = {
     "module-property-group/extension-worker",
     "module-property-group/extension-site",
     "module/chrome-reaching",
+    "module/build-following",
   ],
   properties: [
     { pageProperty: "module-property-group/extension-worker", required: false, many: false },
@@ -47,6 +48,10 @@ export const browserExtension = {
       statement: "Chrome runs a folder loaded unpacked again only once it is reloaded.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A browser extension reloads itself onto a newer build in its folder.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "Chrome is told about a folder to load unpacked by Alan alone, and once.",
     },
@@ -54,5 +59,5 @@ export const browserExtension = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-18T17:15:59.652Z",
-  updatedAt: "2026-10-18T17:31:07.469Z",
+  updatedAt: "2026-10-19T16:32:13.401Z",
 } as const satisfies PageType

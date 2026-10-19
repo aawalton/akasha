@@ -14,7 +14,13 @@ type Replying = (asked: unknown, sender: Sender, reply: (answer: unknown) => voi
 
 type Going = { readonly url: string }
 
+type Alarm = { readonly name: string }
+
 export type Chrome = {
+  readonly alarms: {
+    readonly create: (name: string, info: { readonly periodInMinutes: number }) => Promise<void>
+    readonly onAlarm: Heard<(alarm: Alarm) => void>
+  }
   readonly action: {
     readonly onClicked: Heard<() => void>
     readonly setBadgeText: (details: { readonly text: string }) => Promise<void>
@@ -23,11 +29,14 @@ export type Chrome = {
   readonly runtime: {
     readonly onMessage: Heard<Replying>
     readonly sendMessage: (asked: unknown) => Promise<unknown>
+    readonly getURL: (path: string) => string
+    readonly reload: () => void
   }
   readonly storage: { readonly local: Area; readonly session: Area }
   readonly tabs: {
     readonly create: (properties: Going) => Promise<Tab>
     readonly update: (id: number, properties: Going) => Promise<Tab | undefined>
+    readonly get: (id: number) => Promise<Tab>
   }
 }
 

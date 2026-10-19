@@ -39,7 +39,11 @@ export const lectureWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Once a lecture ends, no video plays until Alan stays or the tab moves on.",
+      statement: "Once a lecture ends, no video plays until the tab moves on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A lecture recorded moves the tab straight on to the next course.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -55,5 +59,5 @@ export const lectureWatching = {
     },
   ],
   createdAt: "2026-10-18T17:31:07.469Z",
-  updatedAt: "2026-10-19T16:16:20.697Z",
+  updatedAt: "2026-10-19T16:32:13.401Z",
 } as const satisfies Module

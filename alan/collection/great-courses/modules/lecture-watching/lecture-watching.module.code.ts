@@ -27,8 +27,6 @@ const SLOWEST = 0.5
 
 const FASTEST = 4
 
-const GOING_ON_SECONDS = 10
-
 const SAVED_BY_THE_SITE_MS = 2000
 
 const SHOWN_MS = 1500
@@ -42,8 +40,6 @@ const SHORTEST_LECTURE_SECONDS = 60
 const PANEL =
   "position:fixed;right:24px;bottom:24px;z-index:2147483647;padding:16px 20px;border-radius:12px;" +
   "color-scheme:dark;background:Canvas;color:CanvasText;font:15px/1.4 system-ui,sans-serif;max-width:360px"
-
-const BUTTON = "margin:12px 8px 0 0;padding:6px 14px;border-radius:8px;font:inherit;cursor:pointer"
 
 const HELD = new WeakSet<HTMLVideoElement>()
 
@@ -181,43 +177,11 @@ function lectureEnded(): Promise<undefined> {
   return new Promise((resolve) => ENDING.push(() => resolve(undefined)))
 }
 
-function buttonIn(panel: HTMLElement, label: string, act: () => void): undefined {
-  const button = document.createElement("button")
-  button.style.cssText = BUTTON
-  button.textContent = label
-  button.addEventListener("click", act)
-  panel.append(button)
-}
-
-async function goneOn(ask: (asked: Asked) => Promise<Answered>, panel: HTMLElement) {
-  panel.textContent = "Opening the next course…"
+async function goneOn(ask: (asked: Asked) => Promise<Answered>, said: string) {
+  const panel = panelOf(`${said} Opening the next course…`)
   const answer = await ask({ kind: "onward", path: location.pathname })
   if (answer.next !== null) return
   panel.textContent = answer.why ?? "Done for today — every course has had its lecture."
-}
-
-function goingOn(ask: (asked: Asked) => Promise<Answered>, said: string): undefined {
-  const panel = panelOf(said)
-  const line = document.createElement("div")
-  panel.append(line)
-  let left = GOING_ON_SECONDS
-  line.textContent = `Next course in ${left}…`
-  const ticking = setInterval(() => {
-    left -= 1
-    line.textContent = `Next course in ${left}…`
-    if (left > 0) return
-    clearInterval(ticking)
-    void goneOn(ask, panel)
-  }, 1000)
-  buttonIn(panel, "Go now", () => {
-    clearInterval(ticking)
-    void goneOn(ask, panel)
-  })
-  buttonIn(panel, "Stay", () => {
-    clearInterval(ticking)
-    NOW.stopped = false
-    panel.remove()
-  })
 }
 
 async function recorded(
@@ -234,7 +198,7 @@ async function recorded(
     panelOf(`This lecture was not recorded: ${answer.why}`)
     return
   }
-  goingOn(ask, `Recorded ${course.progressMinutes} of ${course.lengthMinutes} minutes.`)
+  await goneOn(ask, `Recorded ${course.progressMinutes} of ${course.lengthMinutes} minutes.`)
 }
 
 async function watched(
