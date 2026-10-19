@@ -9,12 +9,7 @@ export const armorTraitEffects = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Divines sums each piece's unrounded worth and rounds the sum half up to a tenth of a percent.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Each piece's worth is added as a whole number of thousandths of a percent.",
+      statement: "Divines sums each piece's nominal share and leaves the sum unrounded.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -24,7 +19,11 @@ export const armorTraitEffects = {
       decisionKind: "decision-kind/departure",
       statement: "A stone with a boon scale has that value times its scale, rounded down again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A boon's tooltip number is not the value the character gets.",
+    },
   ],
   createdAt: "2026-09-02T09:24:55.958Z",
-  updatedAt: "2026-10-19T21:58:56.650Z",
+  updatedAt: "2026-10-19T22:25:16.595Z",
 } as const satisfies Module

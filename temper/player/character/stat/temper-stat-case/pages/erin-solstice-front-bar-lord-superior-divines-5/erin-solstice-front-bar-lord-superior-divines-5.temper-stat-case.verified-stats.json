@@ -14,6 +14,7 @@
   "pinned": {
     "critical-rating-spell": 2181,
     "critical-rating-weapon": 2181,
+    "health-maximum": 26823,
     "health-recovery": 309,
     "magicka-maximum": 12000,
     "magicka-recovery": 514,
@@ -26,7 +27,6 @@
     "stamina-recovery": 514
   },
   "gaps": {
-    "health-maximum": 26823,
     "resistance-physical": 986,
     "resistance-spell": 986
   }

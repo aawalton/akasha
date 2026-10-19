@@ -53,10 +53,19 @@ export const temperMundusStone = {
       statement:
         "The Lord's boon of 2225 health is 1.1 times a base of 2023, the Tower's and the Mage's boon.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Divines floors a base times one plus the unrounded shares, then floors the scale times that.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A boon's tooltip number is not the value the character gets.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
   createdAt: "2026-09-26T20:30:44.203Z",
-  updatedAt: "2026-10-19T21:58:56.650Z",
+  updatedAt: "2026-10-19T22:25:16.595Z",
 } as const satisfies PageType

@@ -20,7 +20,24 @@ export const mundusSource = {
       decisionKind: "decision-kind/stopgap",
       statement: "A percentage boon is left as the stone states it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A boon under Divines floors its base times one plus the unrounded shares.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A boon with a scale then floors its scale times that.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A boon's tooltip number is not the value the character gets.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "Lady and Lover stats on other characters match the truncated tooltip form, not yet isolated.",
+    },
   ],
   createdAt: "2026-09-02T10:26:09.457Z",
-  updatedAt: "2026-10-19T21:55:37.021Z",
+  updatedAt: "2026-10-19T22:25:16.595Z",
 } as const satisfies Module

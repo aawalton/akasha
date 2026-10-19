@@ -9,7 +9,6 @@ export const armorTraitDivinesSuperior = {
   quality: "temper-quality/superior",
   metric: "temper-metric-tree/metric-divines",
   value: 0.071,
-  rawValue: 0.07085,
   createdAt: "2026-09-24T14:53:47.144Z",
-  updatedAt: "2026-10-19T21:58:56.650Z",
+  updatedAt: "2026-10-19T22:25:16.595Z",
 } as const satisfies TemperGearGrade

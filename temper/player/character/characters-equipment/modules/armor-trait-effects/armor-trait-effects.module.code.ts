@@ -7,17 +7,20 @@ import { traitEffectsAt } from "akasha/temper/catalog/gear/equipment/modules/tra
 import type { ArmorItem } from "akasha/temper/player/character/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import type { MetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 
-const SHARE_UNITS = 100_000
+const THOUSANDTHS = 1000
 
-function divinesTenths(armorItems: readonly ArmorItem[]): number {
+function inThousandths(value: number): number {
+  return Math.round(value * THOUSANDTHS)
+}
+
+function divinesThousandths(armorItems: readonly ArmorItem[]): number {
   let units = 0
   for (const piece of armorItems) {
     if (piece.trait === "divines") {
-      const share = armorTraitWorth("divines", resolveQuality(piece.quality), true)
-      units += Math.round(share * SHARE_UNITS)
+      units += inThousandths(armorTraitWorth("divines", resolveQuality(piece.quality)))
     }
   }
-  return Math.round(units / 100)
+  return units
 }
 
 export function calculateDivinesValue(
@@ -25,8 +28,10 @@ export function calculateDivinesValue(
   armorItems: readonly ArmorItem[],
   scale = 1
 ): number {
-  const grown = Math.floor((baseValue * (1000 + divinesTenths(armorItems))) / 1000)
-  return Math.floor(scale * grown)
+  const grown = Math.floor(
+    (baseValue * (THOUSANDTHS + divinesThousandths(armorItems))) / THOUSANDTHS
+  )
+  return Math.floor((inThousandths(scale) * grown) / THOUSANDTHS)
 }
 
 export function getArmorTraitEffects(armor: ArmorItem): readonly MetricEffect[] {
