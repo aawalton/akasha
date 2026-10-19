@@ -29,4 +29,5 @@
 {"propertySlug":"parts","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}
 {"propertySlug":"target-page-type","path":"temper/catalog/skill/temper-grimoire/properties/focus-scripts.multi-relation-property.ts","id":"01a05fca-cb82-7738-87f5-0530f38d10af"}
 {"propertySlug":"target-page-type","path":"temper/catalog/skill/temper-scribed-skill/properties/focus-script-id.relation-property.ts","id":"01a05fca-cb82-7061-bc09-5c8739182b83"}
+{"propertySlug":"test-reads","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.ts","id":"01a06271-abd0-7258-9fc4-ca306f191976"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/stat-case/stat-case.module.ts","id":"01a13b6c-6cf8-7106-b132-ed425b58823b"}

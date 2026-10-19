@@ -36,4 +36,5 @@
 {"propertySlug":"import","fileName":"temper-food-or-drink.page-type.types.ts","path":"temper/player/character/source/temper-food-or-drink/pages/sticky-pork-and-radish-noodles.temper-food-or-drink.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-food-or-drink.page-type.types.ts","path":"temper/player/character/source/temper-food-or-drink/pages/witchmothers-potent-brew.temper-food-or-drink.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/source/temper-character-source.domain.ts","id":"01a060ea-ac66-7120-a995-b58614b651f2"}
+{"propertySlug":"test-reads","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.ts","id":"01a06271-abd0-7258-9fc4-ca306f191976"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/stat-case/stat-case.module.ts","id":"01a13b6c-6cf8-7106-b132-ed425b58823b"}

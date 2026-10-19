@@ -26,4 +26,5 @@
 {"propertySlug":"import","fileName":"temper-buff-major.page-type.types.ts","path":"temper/catalog/effect/temper-buff-major/pages/major-vitality/major-vitality.temper-buff-major.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/effect/temper-effect.domain.ts","id":"01a05fba-ce3c-73cc-87ea-23462f201563"}
 {"propertySlug":"target-page-type","path":"temper/catalog/effect/temper-buff-major/properties/major-buff.relation-property.ts","id":"01a0c9ff-54ce-7c74-a920-591d45f0644d"}
+{"propertySlug":"test-reads","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.ts","id":"01a06271-abd0-7258-9fc4-ca306f191976"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/stat-case/stat-case.module.ts","id":"01a13b6c-6cf8-7106-b132-ed425b58823b"}

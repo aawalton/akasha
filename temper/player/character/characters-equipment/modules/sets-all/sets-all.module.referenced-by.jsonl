@@ -25,6 +25,7 @@
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/player/character/build/build-codec/modules/build-codec/build-codec.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/player/character/stat/modules/extract-skills/extract-skills.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/player/character/stat/modules/stat-case/stat-case.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/player/completion/temper-player-completion/modules/completion-account-checkers/completion-account-checkers.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/player/completion/temper-player-completion/modules/completion-progress-index/completion-progress-index.module.test-fixtures.ts","typed":false,"deferred":false}

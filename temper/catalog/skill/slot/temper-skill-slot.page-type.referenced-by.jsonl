@@ -10,4 +10,5 @@
 {"propertySlug":"import","fileName":"temper-skill-slot.page-type.types.ts","path":"temper/catalog/skill/slot/pages/ultimate.temper-skill-slot.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-slot.page-type.types.ts","path":"temper/player/skill-morph/modules/morph-rank-pages/morph-rank-pages.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}
+{"propertySlug":"test-reads","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.ts","id":"01a06271-abd0-7258-9fc4-ca306f191976"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/stat-case/stat-case.module.ts","id":"01a13b6c-6cf8-7106-b132-ed425b58823b"}

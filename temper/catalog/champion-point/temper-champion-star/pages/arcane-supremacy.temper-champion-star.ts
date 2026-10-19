@@ -8,8 +8,9 @@ export const arcaneSupremacy = {
   description: "Increases Max Magicka by 1300",
   esoChampionSkillId: 3,
   championConstellation: "warfare",
-  isSlottable: false,
+  isSlottable: true,
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 1300 }],
   hashPlace: 86,
   createdAt: "2026-09-27T05:00:00.921Z",
-  updatedAt: "2026-09-27T05:00:07.000Z",
+  updatedAt: "2026-10-19T22:37:41.350Z",
 } as const satisfies TemperChampionStar
