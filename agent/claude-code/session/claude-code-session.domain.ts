@@ -21,6 +21,7 @@ export const claudeCodeSession = {
     "domain/claude-code-session-transition",
     "domain/claude-code-session-state",
     "module/session-jsonl-preparing",
+    "domain/resume-menu",
   ],
   decisions: [
     {
@@ -58,5 +59,5 @@ export const claudeCodeSession = {
     },
   ],
   createdAt: "2026-09-22T15:09:53.888Z",
-  updatedAt: "2026-09-25T18:20:21.000Z",
+  updatedAt: "2026-10-19T20:05:12.083Z",
 } as const satisfies Domain

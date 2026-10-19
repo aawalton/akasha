@@ -140,6 +140,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/remote-control/registration-credential/claude-code-remote-control-registration-credential.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/session/claude-code-session.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/session/event/claude-code-session-event.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/session/resume-menu/resume-menu.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/session/state/claude-code-session-state.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/session/store/claude-code-session-store.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/session/transition/claude-code-session-transition.domain.ts","typed":true,"deferred":false}
