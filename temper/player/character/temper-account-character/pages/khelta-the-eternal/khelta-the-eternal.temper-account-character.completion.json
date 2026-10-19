@@ -5068,8 +5068,8 @@
     }
   },
   "skillPoints": {
-    "total": 364,
-    "unassigned": 1,
+    "total": 365,
+    "unassigned": 2,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 1,
@@ -5080,7 +5080,7 @@
     "skyshardPoints": 173,
     "totalSkyshards": 520,
     "zoneQuestTotal": 57,
-    "groupDungeonTotal": 6,
+    "groupDungeonTotal": 7,
     "publicDungeonTotal": 36,
     "skyshards": {
       "CY": 0,
@@ -5207,7 +5207,7 @@
       "SC1": 1,
       "SC2": 1,
       "OP": 0,
-      "DK": 0,
+      "DK": 1,
       "CA2": 0,
       "MHK": 0,
       "LS": 0,
@@ -7039,6 +7039,7 @@
     4338,
     4344,
     4345,
+    4346,
     4347,
     4348,
     4355,
@@ -12164,6 +12165,7 @@
       38,
       39,
       40,
+      41,
       45,
       46,
       48,
@@ -12366,6 +12368,7 @@
       39,
       40,
       41,
+      42,
       43,
       44,
       45,
@@ -13364,45 +13367,45 @@
   },
   "inventoryCheck": {
     "date": "2026-10-19",
-    "misplaced": 102
+    "misplaced": 107
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792434349,
+      "capturedAt": 1792434527,
       "inCombat": false,
       "stats": {
-        "resistance-critical": 1320,
-        "health-recovery": 0,
-        "power-spell": 3905,
-        "resistance-physical": 21349,
-        "magicka-maximum": 12520,
-        "health-maximum": 26112,
-        "critical-rating-weapon": 3596,
-        "critical-rating-spell": 3596,
-        "penetration-physical": 18019,
         "resistance-spell": 21349,
-        "magicka-recovery": 598,
-        "penetration-spell": 18019,
+        "health-recovery": 0,
         "power-weapon": 3905,
+        "critical-rating-spell": 3596,
         "stamina-recovery": 1120,
-        "stamina-maximum": 28045
+        "power-spell": 3905,
+        "critical-rating-weapon": 3596,
+        "stamina-maximum": 28045,
+        "health-maximum": 26112,
+        "penetration-physical": 18019,
+        "magicka-recovery": 598,
+        "resistance-critical": 1320,
+        "magicka-maximum": 12520,
+        "penetration-spell": 18019,
+        "resistance-physical": 21349
       },
       "unbonusedStats": {
-        "resistance-critical": 0,
-        "health-recovery": 0,
-        "power-spell": 1000,
-        "resistance-physical": 0,
-        "magicka-maximum": 12520,
-        "health-maximum": 26112,
-        "critical-rating-weapon": 2181,
-        "critical-rating-spell": 2181,
-        "penetration-physical": 0,
         "resistance-spell": 0,
-        "magicka-recovery": 598,
-        "penetration-spell": 0,
+        "health-recovery": 0,
         "power-weapon": 1000,
+        "critical-rating-spell": 2181,
         "stamina-recovery": 1120,
-        "stamina-maximum": 28045
+        "power-spell": 1000,
+        "critical-rating-weapon": 2181,
+        "stamina-maximum": 28045,
+        "health-maximum": 26112,
+        "penetration-physical": 0,
+        "magicka-recovery": 598,
+        "resistance-critical": 0,
+        "magicka-maximum": 12520,
+        "penetration-spell": 0,
+        "resistance-physical": 0
       },
       "activeBuffs": [
         {
@@ -14044,7 +14047,7 @@
         },
         {
           "slot": 3,
-          "link": "|H0:item:82177:363:50:26588:370:50:16:25:0:0:0:0:0:0:2049:67:0:1:0:5546:0|h|h",
+          "link": "|H0:item:82177:363:50:26588:370:50:16:25:0:0:0:0:0:0:2049:67:0:1:0:5321:0|h|h",
           "armor": 2341,
           "enchant": "Adds |cffffff424|r Maximum Stamina.",
           "trait": "Increase armor enchantment effect by |cffffff21|r%.",
@@ -14052,7 +14055,7 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:133787:364:50:0:0:0:7:25:0:0:0:0:0:0:2049:4:0:1:0:70:0|h|h",
+          "link": "|H0:item:133787:364:50:0:0:0:7:25:0:0:0:0:0:0:2049:4:0:1:0:64:0|h|h",
           "armor": 0,
           "enchant": "Deals |cffffff2014|r Physical Damage and restores |cffffff354|r Stamina.",
           "trait": "Increases Physical and Spell Penetration by |cffffff3276|r.",
@@ -14108,7 +14111,7 @@
         },
         {
           "slot": 20,
-          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:191:0|h|h",
+          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:185:0|h|h",
           "armor": 0,
           "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff452|r for |cffffff5|r seconds.",
           "trait": "Increases weapon enchantment effect by |cffffff30|r% and reduces enchantment cooldown by |cFFFFFF50|r%.",
@@ -14234,41 +14237,41 @@
       "archiveBoons": []
     },
     "backBar": {
-      "capturedAt": 1792434219,
+      "capturedAt": 1792434482,
       "inCombat": true,
       "stats": {
-        "resistance-critical": 1320,
-        "health-recovery": 0,
-        "power-spell": 5197,
-        "resistance-physical": 21349,
-        "magicka-maximum": 12520,
-        "health-maximum": 26112,
-        "critical-rating-weapon": 4910,
-        "critical-rating-spell": 4910,
-        "penetration-physical": 11719,
         "resistance-spell": 21349,
-        "magicka-recovery": 598,
-        "penetration-spell": 11719,
+        "health-recovery": 0,
         "power-weapon": 5197,
+        "critical-rating-spell": 4910,
         "stamina-recovery": 1120,
-        "stamina-maximum": 28045
+        "power-spell": 5197,
+        "critical-rating-weapon": 4910,
+        "stamina-maximum": 28045,
+        "health-maximum": 26112,
+        "penetration-physical": 11719,
+        "magicka-recovery": 598,
+        "resistance-critical": 1320,
+        "magicka-maximum": 12520,
+        "penetration-spell": 11719,
+        "resistance-physical": 21349
       },
       "unbonusedStats": {
-        "resistance-critical": 0,
-        "health-recovery": 0,
-        "power-spell": 1000,
-        "resistance-physical": 0,
-        "magicka-maximum": 12520,
-        "health-maximum": 26112,
-        "critical-rating-weapon": 2181,
-        "critical-rating-spell": 2181,
-        "penetration-physical": 0,
         "resistance-spell": 0,
-        "magicka-recovery": 598,
-        "penetration-spell": 0,
+        "health-recovery": 0,
         "power-weapon": 1000,
+        "critical-rating-spell": 2181,
         "stamina-recovery": 1120,
-        "stamina-maximum": 28045
+        "power-spell": 1000,
+        "critical-rating-weapon": 2181,
+        "stamina-maximum": 28045,
+        "health-maximum": 26112,
+        "penetration-physical": 0,
+        "magicka-recovery": 598,
+        "resistance-critical": 0,
+        "magicka-maximum": 12520,
+        "penetration-spell": 0,
+        "resistance-physical": 0
       },
       "activeBuffs": [
         {
@@ -14321,16 +14324,23 @@
           "stacks": 0
         },
         {
-          "abilityId": 184220,
-          "name": "Crux",
+          "abilityId": 61666,
+          "name": "Minor Savagery",
           "description": "",
-          "effect": "",
-          "stacks": 3
+          "effect": "Increases your Critical rating by |cffffff1314|r, increasing your Critical Chance by |cffffff6|r%.\n",
+          "stacks": 0
         },
         {
           "abilityId": 184860,
           "name": "Harnessed Quintessence",
           "description": "",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 28301,
+          "name": "Crowd Control Immunity",
+          "description": "Immunity to enemy control abilities.",
           "effect": "",
           "stacks": 0
         },
@@ -14342,13 +14352,6 @@
           "stacks": 0
         },
         {
-          "abilityId": 61666,
-          "name": "Minor Savagery",
-          "description": "",
-          "effect": "Increases your Critical rating by |cffffff1314|r, increasing your Critical Chance by |cffffff6|r%.\n",
-          "stacks": 0
-        },
-        {
           "abilityId": 99789,
           "name": "Merciless Charge",
           "description": "",
@@ -14356,9 +14359,30 @@
           "stacks": 0
         },
         {
+          "abilityId": 184220,
+          "name": "Crux",
+          "description": "",
+          "effect": "",
+          "stacks": 3
+        },
+        {
           "abilityId": 21230,
           "name": "Berserker",
           "description": "Increase your Power by for",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 60888,
+          "name": "Follow Up",
+          "description": "",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 185842,
+          "name": "Inspired Scholarship",
+          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff4115|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
           "effect": "",
           "stacks": 0
         }
@@ -14960,7 +14984,7 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:133787:364:50:0:0:0:7:25:0:0:0:0:0:0:2049:4:0:1:0:70:0|h|h",
+          "link": "|H0:item:133787:364:50:0:0:0:7:25:0:0:0:0:0:0:2049:4:0:1:0:64:0|h|h",
           "armor": 0,
           "enchant": "Deals |cffffff2166|r Physical Damage and restores |cffffff354|r Stamina.",
           "trait": "Increases Physical and Spell Penetration by |cffffff3276|r.",
@@ -14976,7 +15000,7 @@
         },
         {
           "slot": 8,
-          "link": "|H0:item:215601:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:8159:0|h|h",
+          "link": "|H0:item:215601:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:4:1:1:0:7959:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
@@ -15016,7 +15040,7 @@
         },
         {
           "slot": 20,
-          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:193:0|h|h",
+          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:186:0|h|h",
           "armor": 0,
           "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff452|r for |cffffff5|r seconds.",
           "trait": "Increases weapon enchantment effect by |cffffff30|r% and reduces enchantment cooldown by |cFFFFFF50|r%.",
@@ -15028,7 +15052,7 @@
           "slot": 3,
           "abilityId": 38788,
           "name": "Stampede",
-          "description": "Launch across the earth and smash an enemy, dealing |cffffff6454|r Physical Damage to them and all nearby enemies. This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing |cffffff1308|r Physical Damage to all enemies in the area every |cffffff1|r second for |cffffff15|r seconds.",
+          "description": "Launch across the earth and smash an enemy, dealing |cffffff6991|r Physical Damage to them and all nearby enemies. This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing |cffffff1431|r Physical Damage to all enemies in the area every |cffffff1|r second for |cffffff15|r seconds.",
           "durationMs": 15000,
           "castMs": 0,
           "channeled": false,
