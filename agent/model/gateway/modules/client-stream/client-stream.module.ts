@@ -4,7 +4,7 @@ export const clientStream = {
   id: "01a0628b-a005-7127-97c7-0f8541a03fb6",
   type: "page-type/module",
   slug: "client-stream",
-  definition: "whether the client asked for the answer as a stream",
+  definition: "whether a request wants a stream",
   code: "ts",
   test: "ts",
   decisions: [
@@ -38,5 +38,5 @@ export const clientStream = {
     },
   ],
   createdAt: "2026-09-02T14:35:12.773Z",
-  updatedAt: "2026-09-22T14:30:46.000Z",
+  updatedAt: "2026-10-19T19:04:07.223Z",
 } as const satisfies Module
