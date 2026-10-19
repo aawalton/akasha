@@ -1,8 +1,11 @@
-import { GREEN } from "akasha/design/interface/token/modules/semantic-color/semantic-color.module.code.ts"
 import {
-  colorOf,
-  textColorOf,
-} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+  BLUE,
+  GREEN,
+  PURPLE,
+  RED,
+  YELLOW,
+} from "akasha/design/interface/token/modules/semantic-color/semantic-color.module.code.ts"
+import { colorOf } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import { STAT_ROW_HEIGHT } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
@@ -16,17 +19,12 @@ type HudRgb = readonly [number, number, number]
 
 export type HudColor = "plain" | "done" | "urgent" | "gold" | "blue" | "purple"
 
-function qualityColor(quality: number): HudRgb {
-  const [red, green, blue] = GetItemQualityColor(quality).UnpackRGB()
-  return [red, green, blue]
-}
-
 export function hudColor(kind: HudColor): HudRgb {
   if (kind === "done") return GREEN
-  if (kind === "urgent") return textColorOf(INTERFACE_TEXT_COLOR_FAILED)
-  if (kind === "gold") return colorOf("accent")
-  if (kind === "blue") return qualityColor(ITEM_DISPLAY_QUALITY_MAGIC)
-  if (kind === "purple") return qualityColor(ITEM_DISPLAY_QUALITY_ARCANE)
+  if (kind === "urgent") return RED
+  if (kind === "gold") return YELLOW
+  if (kind === "blue") return BLUE
+  if (kind === "purple") return PURPLE
   return colorOf("body")
 }
 

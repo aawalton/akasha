@@ -10,12 +10,11 @@ export const charactersTaskHudState = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A done line is the design system's green, and an urgent one the game's failed color.",
+        "A done, urgent, gold, blue or purple line is the design system's green, red, yellow, blue or purple.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Gold is the game's contrast color, and blue and purple its magic and arcane ones.",
+      statement: "A plain line is the game's body text color.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -28,5 +27,5 @@ export const charactersTaskHudState = {
     },
   ],
   createdAt: "2026-09-02T16:23:41.352Z",
-  updatedAt: "2026-10-19T16:16:40.921Z",
+  updatedAt: "2026-10-19T16:21:21.551Z",
 } as const satisfies Module
