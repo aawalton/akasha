@@ -1,7 +1,7 @@
-import { slugOf } from "akasha/page/naming/folding/modules/slug-of/slug-of.module.code.ts"
 import { luaArrayOrEmpty } from "akasha/temper/eso/saved-variable/modules/lua-array/lua-array.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import {
+  bySlugOf,
   characterLinesLanded,
   type LinesLanded,
   type LinesLandingDeps,
@@ -89,14 +89,7 @@ export function fightsWith(body: string | null, fights: readonly Fight[]): strin
 }
 
 function fightsBySlug(fights: readonly Fight[]): ReadonlyMap<string, readonly Fight[]> {
-  const bySlug = new Map<string, Fight[]>()
-  for (const fight of fights) {
-    const slug = slugOf(fight.character)
-    const held = bySlug.get(slug)
-    if (held === undefined) bySlug.set(slug, [fight])
-    else held.push(fight)
-  }
-  return bySlug
+  return bySlugOf(fights, (fight) => fight.character)
 }
 
 const FIGHTS_KIND = {

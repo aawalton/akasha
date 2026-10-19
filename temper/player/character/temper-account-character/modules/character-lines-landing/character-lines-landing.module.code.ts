@@ -1,6 +1,7 @@
 import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { upsertPage } from "akasha/page/access/modules/upsert/upsert.module.code.ts"
+import { slugOf } from "akasha/page/naming/folding/modules/slug-of/slug-of.module.code.ts"
 import {
   readFiles,
   readPages,
@@ -22,6 +23,26 @@ import {
 } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
 
 const CHARACTER_PAGE_TYPE_SLUG = "temper-account-character"
+
+const MARKS = /\p{M}/gu
+
+export function characterSlugOf(name: string): string {
+  return slugOf(name.normalize("NFD").replace(MARKS, ""))
+}
+
+export function bySlugOf<T>(
+  items: readonly T[],
+  nameOf: (item: T) => string
+): ReadonlyMap<string, readonly T[]> {
+  const bySlug = new Map<string, T[]>()
+  for (const item of items) {
+    const slug = characterSlugOf(nameOf(item))
+    const held = bySlug.get(slug)
+    if (held === undefined) bySlug.set(slug, [item])
+    else held.push(item)
+  }
+  return bySlug
+}
 
 const LINES_ENDING = "jsonl"
 

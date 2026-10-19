@@ -24,7 +24,11 @@ export const characterLinesLanding = {
       decisionKind: "decision-kind/departure",
       statement: "Which lines are new is judged by the kind of line, never here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character's name folds to its page's slug with its accents taken off first.",
+    },
   ],
   createdAt: "2026-10-19T19:00:36.676Z",
-  updatedAt: "2026-10-19T19:00:36.676Z",
+  updatedAt: "2026-10-19T19:20:19.591Z",
 } as const satisfies Module

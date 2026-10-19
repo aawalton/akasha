@@ -1,6 +1,6 @@
 import { createHash } from "node:crypto"
-import { slugOf } from "akasha/page/naming/folding/modules/slug-of/slug-of.module.code.ts"
 import {
+  bySlugOf,
   characterLinesLanded,
   type LinesLanded,
   type LinesLandingDeps,
@@ -64,14 +64,7 @@ export function readingsWith(
 function readingsBySlug(
   readings: readonly BuildReading[]
 ): ReadonlyMap<string, readonly BuildReading[]> {
-  const bySlug = new Map<string, BuildReading[]>()
-  for (const one of readings) {
-    const slug = slugOf(one.character)
-    const held = bySlug.get(slug)
-    if (held === undefined) bySlug.set(slug, [one])
-    else held.push(one)
-  }
-  return bySlug
+  return bySlugOf(readings, (one) => one.character)
 }
 
 const READINGS_KIND = {
