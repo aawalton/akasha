@@ -5719,6 +5719,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-item-type/temper-item-type.page-type.ts","id":"01a0e108-f721-7d6e-bcf7-05c2c0c279ad"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-specialized-item-type/temper-specialized-item-type.page-type.ts","id":"01a0e10b-e4c6-74e8-9d5b-3cb6c399bae5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/effect-metric.relation-property.ts","id":"01a0d3fb-ee3d-7a22-b414-2c3736bcc96a"}
+{"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/effect-rank.number-property.ts","id":"01a15680-be5f-70b3-b934-8bfe56e05f1e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/effect-seconds.number-property.ts","id":"01a05fb0-3ceb-717f-94f6-5ef52cdf0c41"}
 {"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/effects.page-property-entry.ts","id":"01a05fb0-3ceb-742c-998f-6122c9954a30"}
 {"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/per-piece.boolean-property.ts","id":"01a13af5-3158-71b2-a3e4-53598dffbba1"}
@@ -6425,6 +6426,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/character-rotation-reading/character-rotation-reading.module.ts","id":"01a1557f-ab1f-77ac-8712-4cb4dff8f2b5"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/enchant-proc/enchant-proc.module.ts","id":"01a13ff0-d4d8-7ee8-8a0f-d092bf883998"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/extract-armor/extract-armor.module.ts","id":"01a06271-abcf-73d3-9f27-e843cae7cf5f"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/extract-passives/extract-passives.module.ts","id":"01a06271-abcf-7c72-adb9-549ee5b23055"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/extract-sets/extract-sets.module.ts","id":"01a06271-abcf-7e09-9c2e-cff7fd7c0f46"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.ts","id":"01a06271-abd0-7258-9fc4-ca306f191976"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-catalog-loading/metric-catalog-loading.module.ts","id":"01a13ac6-0c64-7577-a066-20d7f033e67a"}

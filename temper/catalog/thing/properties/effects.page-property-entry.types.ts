@@ -4,6 +4,7 @@ import type { BuffId } from "akasha/temper/catalog/gear/thing/properties/buff-id
 import type { DebuffId } from "akasha/temper/catalog/gear/thing/properties/debuff-id.relation-property.types.ts"
 import type { ArmorWeight } from "akasha/temper/catalog/thing/properties/armor-weight.text-property.types.ts"
 import type { EffectMetric } from "akasha/temper/catalog/thing/properties/effect-metric.relation-property.types.ts"
+import type { EffectRank } from "akasha/temper/catalog/thing/properties/effect-rank.number-property.types.ts"
 import type { EffectSeconds } from "akasha/temper/catalog/thing/properties/effect-seconds.number-property.types.ts"
 import type { EffectType } from "akasha/temper/catalog/thing/properties/effect-type.text-property.types.ts"
 import type { EffectWeaponTypes } from "akasha/temper/catalog/thing/properties/effect-weapon-types.text-property.types.ts"
@@ -34,4 +35,5 @@ export type EffectsRow = {
   weaponTypes?: EffectWeaponTypes
   perWeapon?: PerWeapon
   perPiece?: PerPiece
+  rank?: EffectRank
 }

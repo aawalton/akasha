@@ -6,6 +6,17 @@ export const extractPassives = {
   slug: "extract-passives",
   definition: "the passives a build is eligible for, read out as effect sources",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A passive is read at the rank the build states for that passive.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A passive the build states no rank for is read at the rank its page states.",
+    },
+  ],
   createdAt: "2026-09-02T14:06:51.855Z",
-  updatedAt: "2026-09-21T15:39:55.000Z",
+  updatedAt: "2026-10-19T23:30:40.351Z",
 } as const satisfies Module

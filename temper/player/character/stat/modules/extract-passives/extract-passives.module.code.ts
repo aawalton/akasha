@@ -2,6 +2,7 @@ import type { Effect } from "akasha/temper/player/character/formula-framework/mo
 import type { SkillSource } from "akasha/temper/player/character/formula-framework/modules/skill-source/skill-source.module.code.ts"
 import { skills } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
 import {
+  effectsAtRank,
   resolveArmorPieceScalingEffects,
   resolveSlottedAbilityScalingEffects,
   resolveWeaponTypeConditionalEffects,
@@ -26,7 +27,9 @@ export const extractPassives: PipelineStage = (build, context) => {
       continue
     }
 
-    const rawEffects: readonly Effect[] = "effects" in skill && skill.effects ? skill.effects : []
+    const allRanks: readonly Effect[] = "effects" in skill && skill.effects ? skill.effects : []
+    const rank = build.passiveRanks?.[skillId] ?? skill.rank
+    const rawEffects = effectsAtRank(allRanks, rank)
 
     const weaponTypeIds =
       context.bar === "backup-weapon-bar"

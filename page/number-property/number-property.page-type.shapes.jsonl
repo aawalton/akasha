@@ -120,6 +120,7 @@
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"duration-seconds","propertySlug":"duration-seconds","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"effect-amount","propertySlug":"amount","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"effect-count","propertySlug":"count","fileName":null,"folderName":null}
+{"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"effect-rank","propertySlug":"rank","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"effect-seconds","propertySlug":"seconds","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"effect-value","propertySlug":"value","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"enchantment-multiplier","propertySlug":"enchantment-multiplier","fileName":null,"folderName":null}

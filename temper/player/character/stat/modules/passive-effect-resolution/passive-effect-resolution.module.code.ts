@@ -13,6 +13,17 @@ import {
 } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 import type { SkillLineId } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 
+function rankOf(effect: Effect): number | undefined {
+  return "rank" in effect && typeof effect.rank === "number" ? effect.rank : undefined
+}
+
+export function effectsAtRank(effects: readonly Effect[], rank: number): readonly Effect[] {
+  return effects.filter((effect) => {
+    const held = rankOf(effect)
+    return held === undefined || held === rank
+  })
+}
+
 function resolveEffects<E extends Effect>(
   effects: readonly Effect[],
   matches: (effect: Effect) => effect is E,

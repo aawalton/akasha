@@ -43,6 +43,7 @@ export interface CharacterState {
     "backup-skill-bar": Record<SkillSlotId, SkillId>
   }
   passives: readonly SkillId[]
+  passiveRanks?: Readonly<Partial<Record<SkillId, number>>>
   scribing: readonly ScribedSkill[]
   championPoints: {
     warfare: {
