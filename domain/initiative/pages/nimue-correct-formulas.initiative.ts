@@ -39,7 +39,8 @@ export const nimueCorrectFormulas = {
     "Nimue hands a large task to a subagent and keeps to coordinating the work.",
     "A stat is worked before every stat its formula reads.",
     "Each formula starts from a build with as little configured as the game allows, and each next case adds one term.",
+    "Nimue changes any command the work needs without asking Alan.",
   ],
   createdAt: "2026-10-19T19:28:43.842Z",
-  updatedAt: "2026-10-19T20:01:33.416Z",
+  updatedAt: "2026-10-19T20:07:38.383Z",
 } as const satisfies Initiative
