@@ -504,6 +504,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/temper-addon-catalog.temper-addon.ts","id":"01a063ba-94e5-7c5d-b338-174ed9b6a224"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-achievements/characters-achievements.module.ts","id":"01a062e9-b6ff-701b-ad38-42cae450de18"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-active-quests/characters-active-quests.module.ts","id":"01a062e9-b6ff-701c-9ee8-9608dc0eea33"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-advanced-stats/characters-advanced-stats.module.ts","id":"01a15588-1401-7b6f-bb93-7613df4e6887"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-collector-merge/characters-collector-merge.module.ts","id":"01a062e9-b6fe-7010-ab1f-3d8afc6a9e8e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-current-entry/characters-current-entry.module.ts","id":"01a062d2-92a3-7002-91a3-58a915f7ea72"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-keyed-merge/characters-keyed-merge.module.ts","id":"01a062ea-5f64-7fa1-aa0a-0b08766288df"}

@@ -15,6 +15,7 @@ export const temperAddonCharacters = {
     "eso-interface/skill-point-finder-layout",
     "lua-module/characters-config-global",
     "module/characters-achievements",
+    "module/characters-advanced-stats",
     "module/characters-active-quests",
     "module/characters-alliance-rank",
     "module/characters-antiquity-lead-checks",
@@ -218,5 +219,5 @@ export const temperAddonCharacters = {
     },
   ],
   createdAt: "2026-09-02T15:52:42.403Z",
-  updatedAt: "2026-10-14T16:14:17.047Z",
+  updatedAt: "2026-10-19T18:59:03.808Z",
 } as const satisfies TemperAddon

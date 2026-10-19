@@ -88,6 +88,13 @@ interface PromotionalEventRadioButtonGroup {
 
 declare const STATS_SCENE: Scene
 
+interface AdvancedStatsKeyboard {
+  list: Control
+  SetupAdvancedStats: (this: AdvancedStatsKeyboard) => undefined
+}
+
+declare const ZO_ADVANCED_STATS_WINDOW: AdvancedStatsKeyboard | undefined
+
 declare const ZO_CharacterWindowStatsScrollScrollChildZO_MundusStonesStatsEntry: Control
 
 declare const ZO_StatsPanelPaneScrollChildDivider3: Control

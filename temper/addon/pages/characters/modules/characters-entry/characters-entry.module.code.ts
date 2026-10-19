@@ -2,6 +2,7 @@ import "akasha/temper/addon/pages/characters/modules/characters-public-api/chara
 import "akasha/temper/addon/pages/characters/modules/characters-task-hud-view/characters-task-hud-view.module.code.ts"
 
 import { collectAchievements } from "akasha/temper/addon/pages/characters/modules/characters-achievements/characters-achievements.module.code.ts"
+import { installAdvancedStatsReadings } from "akasha/temper/addon/pages/characters/modules/characters-advanced-stats/characters-advanced-stats.module.code.ts"
 import { collectAllianceRank } from "akasha/temper/addon/pages/characters/modules/characters-alliance-rank/characters-alliance-rank.module.code.ts"
 import { collectAntiquityLore } from "akasha/temper/addon/pages/characters/modules/characters-antiquity-lore/characters-antiquity-lore.module.code.ts"
 import { collectBagSize } from "akasha/temper/addon/pages/characters/modules/characters-bag-size/characters-bag-size.module.code.ts"
@@ -129,6 +130,7 @@ function initialize(): undefined {
   cleanStaleCompletions()
 
   initializeTaskHud()
+  installAdvancedStatsReadings()
 
   EVENT_MANAGER.RegisterForEvent(
     `${ADDON_NAME}_PlayerActivated`,

@@ -225,11 +225,18 @@ function isAccountCompletion(x: unknown): x is AccountCompletion {
   return true
 }
 
+export interface CharacterReading {
+  readonly toughness: number
+  readonly damage: number
+  readonly healing: number
+}
+
 export interface CharactersConfigGlobal {
   readonly version: number
   readonly characterPriority?: readonly string[]
   readonly tasks?: Record<string, TaskData>
   readonly completionOverrides?: Record<string, CompletionOverride[]>
+  readonly readings?: Record<string, CharacterReading>
 }
 
 function migrateFromTemperSavedVars(): undefined {
