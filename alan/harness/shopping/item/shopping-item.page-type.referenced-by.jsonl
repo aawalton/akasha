@@ -1,2 +1,5 @@
+{"propertySlug":"import","fileName":"shopping-item.page-type.types.ts","path":"alan/harness/shopping/item/pages/black-bucket-storage-rack.shopping-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"shopping-item.page-type.types.ts","path":"alan/harness/shopping/item/pages/black-buckets-20x.shopping-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"shopping-item.page-type.types.ts","path":"alan/harness/shopping/item/pages/toilet-bowl-cleaner.shopping-item.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/shopping/shopping.domain.ts","id":"01a15446-0f0c-72f2-9958-acb35307d5e8"}
 {"propertySlug":"view-page-type","path":"page/view/pages/shopping-all.view.ts","id":"01a15447-78a6-7d1a-874b-e7c84765138e"}
