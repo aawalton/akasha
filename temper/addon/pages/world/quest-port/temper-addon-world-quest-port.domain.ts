@@ -27,7 +27,12 @@ export const temperAddonWorldQuestPort = {
       decisionKind: "decision-kind/departure",
       statement: "A travel point is a wayshrine the player has found or a house the player owns.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An objective inside a dungeon, trial or arena is ported into where the player found its way in.",
+    },
   ],
   createdAt: "2026-10-08T14:52:54.474Z",
-  updatedAt: "2026-10-10T13:55:00.117Z",
+  updatedAt: "2026-10-19T18:21:07.960Z",
 } as const satisfies Domain

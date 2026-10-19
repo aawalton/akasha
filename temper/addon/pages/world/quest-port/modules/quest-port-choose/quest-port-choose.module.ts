@@ -37,6 +37,20 @@ export const questPortChoose = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The way into a dungeon, trial or arena is the node neither wayshrine nor house that bears its name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Names are matched whole, with case ignored.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A way in is a target only where the player has found it and it is neither locked nor outbound only.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Distance is straight-line distance on the map.",
     },
     {
@@ -57,5 +71,5 @@ export const questPortChoose = {
     },
   ],
   createdAt: "2026-10-08T14:52:54.473Z",
-  updatedAt: "2026-10-08T17:57:01.127Z",
+  updatedAt: "2026-10-19T18:21:07.960Z",
 } as const satisfies Module

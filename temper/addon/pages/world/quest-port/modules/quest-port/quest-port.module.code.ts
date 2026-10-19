@@ -8,6 +8,7 @@ import type { PositionAnswer } from "akasha/temper/addon/pages/world/quest-port/
 import {
   type ConditionReading,
   climbForTargets,
+  instanceTarget,
   type MapAttempt,
   mapAttempts,
   nearestTarget,
@@ -19,6 +20,7 @@ import {
   beginPress,
   noteAnswer,
   noteCandidates,
+  noteInstance,
   noteMapStep,
   noteQuest,
   noteTask,
@@ -41,6 +43,7 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -113,23 +116,50 @@ function zoomOutToZone(this: void): undefined {
   return undefined
 }
 
+interface Instance {
+  readonly zoneId: number
+  readonly name: string
+}
+
 interface Placed {
   readonly shown: boolean
   readonly attempt: MapAttempt | undefined
+  readonly instance: Instance | undefined
+}
+
+function instanceOnMap(this: void): Instance | undefined {
+  if (GetMapContentType() !== MAP_CONTENT_DUNGEON) return undefined
+  const zoneId = GetZoneId(GetCurrentMapZoneIndex())
+  return { zoneId, name: zo_strformat("<<1>>", GetZoneNameById(zoneId)) }
 }
 
 function placeObjective(this: void, questIndex: number, attempts: readonly MapAttempt[]): Placed {
   for (const attempt of attempts) {
     if (setMapTo(questIndex, attempt) !== SET_MAP_RESULT_FAILED) {
+      const instance = instanceOnMap()
       zoomOutToZone()
-      return { shown: true, attempt }
+      return { shown: true, attempt, instance }
     }
   }
   const result = SetMapToQuestZone(questIndex)
   noteMapStep("set-to-quest-zone", result)
-  if (result === SET_MAP_RESULT_FAILED) return { shown: false, attempt: undefined }
+  if (result === SET_MAP_RESULT_FAILED) {
+    return { shown: false, attempt: undefined, instance: undefined }
+  }
+  const instance = instanceOnMap()
   zoomOutToZone()
-  return { shown: true, attempt: undefined }
+  return { shown: true, attempt: undefined, instance }
+}
+
+function portIntoInstance(this: void, instance: Instance, objective: string): boolean {
+  const playerZoneId = GetZoneId(GetUnitZoneIndex("player") ?? 0)
+  const target =
+    playerZoneId === instance.zoneId ? undefined : instanceTarget(nodeReadings(), instance.name)
+  noteInstance(instance.zoneId, instance.name, playerZoneId, target)
+  if (target === undefined) return false
+  SetMapToPlayerLocation()
+  portTo(target, objective)
+  return true
 }
 
 function objectiveText(this: void, questIndex: number, attempt: MapAttempt | undefined): string {
@@ -224,6 +254,9 @@ export function portNearQuestObjective(this: void): undefined {
   )
   if (!placed.shown) {
     return say(`The map cannot show where ${objective} is.`)
+  }
+  if (placed.instance !== undefined && portIntoInstance(placed.instance, objective)) {
+    return undefined
   }
   return askPosition({
     questIndex,

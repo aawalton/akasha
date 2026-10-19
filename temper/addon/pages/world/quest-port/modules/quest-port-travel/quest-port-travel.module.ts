@@ -17,6 +17,11 @@ export const questPortTravel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A dungeon, trial or arena is ported into through its way in, by recall like a wayshrine.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A wayshrine is out of reach only while the game blocks recall outright.",
     },
     {
@@ -25,5 +30,5 @@ export const questPortTravel = {
     },
   ],
   createdAt: "2026-10-08T19:19:19.859Z",
-  updatedAt: "2026-10-08T19:19:19.859Z",
+  updatedAt: "2026-10-19T18:21:07.960Z",
 } as const satisfies Module

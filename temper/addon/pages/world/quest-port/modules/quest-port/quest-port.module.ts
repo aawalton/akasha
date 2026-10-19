@@ -40,6 +40,16 @@ export const questPort = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "An objective whose map is a dungeon's is ported into through the way in named for that place.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "With no such way in, or with the player already there, the nearest travel point is sought.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The map goes back to the player's own location once the answer is read.",
     },
     {
@@ -89,5 +99,5 @@ export const questPort = {
     },
   ],
   createdAt: "2026-10-08T14:55:08.172Z",
-  updatedAt: "2026-10-10T13:55:00.117Z",
+  updatedAt: "2026-10-19T18:21:07.960Z",
 } as const satisfies Module

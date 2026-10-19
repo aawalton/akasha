@@ -15,7 +15,7 @@ export interface NodeReading {
 }
 
 export interface PortTarget {
-  readonly kind: "wayshrine" | "house"
+  readonly kind: "wayshrine" | "house" | "instance"
   readonly nodeIndex: number
   readonly houseId: number
   readonly name: string
@@ -96,6 +96,28 @@ export function portTargets(this: void, nodes: readonly NodeReading[]): PortTarg
     if (target !== undefined) targets.push(target)
   }
   return targets
+}
+
+export function instanceTarget(
+  this: void,
+  nodes: readonly NodeReading[],
+  instanceName: string
+): PortTarget | undefined {
+  const wanted = instanceName.toLowerCase()
+  if (wanted === "") return undefined
+  for (const node of nodes) {
+    if (node.kind !== "other" || !node.known || node.locked || node.outboundOnly) continue
+    if (node.name.toLowerCase() !== wanted) continue
+    return {
+      kind: "instance",
+      nodeIndex: node.nodeIndex,
+      houseId: 0,
+      name: node.name,
+      x: node.x,
+      y: node.y,
+    }
+  }
+  return undefined
 }
 
 export const MAX_TARGET_CLIMBS = 3

@@ -25,10 +25,18 @@ export const questPortCapture = {
       statement: "A candidate's distance is straight-line distance on the map.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A press whose objective is in a dungeon, trial or arena keeps that place.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a press keeps the player's zone and the way in it took.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here calls the game.",
     },
   ],
   createdAt: "2026-10-08T17:01:40.762Z",
-  updatedAt: "2026-10-08T17:01:40.762Z",
+  updatedAt: "2026-10-19T18:21:07.960Z",
 } as const satisfies Module

@@ -2,6 +2,7 @@ import {
   CLOSEST_KEPT,
   candidateAt,
   closestCandidates,
+  type InstanceReading,
   keepLast,
   type MapReading,
   type PlayerReading,
@@ -177,6 +178,24 @@ export function noteCandidates(
     entry.candidatesKept = targets.length
     entry.closest = closestCandidates(targets, x, y, CLOSEST_KEPT)
     entry.target = chosen === undefined ? undefined : candidateAt(chosen, x, y)
+  })
+}
+
+export function noteInstance(
+  this: void,
+  zoneId: number,
+  name: string,
+  playerZoneId: number,
+  target: PortTarget | undefined
+): undefined {
+  return noting((entry) => {
+    const instance: InstanceReading = {
+      zoneId,
+      name,
+      playerZoneId,
+      target: target === undefined ? undefined : candidateAt(target, target.x, target.y),
+    }
+    entry.instance = instance
   })
 }
 

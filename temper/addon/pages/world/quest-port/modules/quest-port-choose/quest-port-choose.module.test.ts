@@ -1,6 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import {
   climbForTargets,
+  instanceTarget,
   MAX_TARGET_CLIMBS,
   mapAttempts,
   type NodeReading,
@@ -125,6 +126,45 @@ describe("quest-port-choose", () => {
 
   test("no target gives no nearest", () => {
     expect(nearestTarget([], 0.5, 0.5)).toBeUndefined()
+  })
+
+  test("the found way into an instance is the node of the instance's name", () => {
+    expect(
+      instanceTarget(
+        [
+          node({ nodeIndex: 2, name: "Fungal Grotto I", kind: "wayshrine" }),
+          node({ nodeIndex: 5, name: "Fungal Grotto I", kind: "other", shownOnMap: false }),
+        ],
+        "fungal grotto i"
+      )
+    ).toEqual({
+      kind: "instance",
+      nodeIndex: 5,
+      houseId: 0,
+      name: "Fungal Grotto I",
+      x: 0.5,
+      y: 0.5,
+    })
+  })
+
+  test("an instance's way in that is unknown, locked or outbound only is no target", () => {
+    expect(
+      instanceTarget(
+        [
+          node({ name: "Spindleclutch I", kind: "other", known: false }),
+          node({ name: "Spindleclutch I", kind: "other", locked: true }),
+          node({ name: "Spindleclutch I", kind: "other", outboundOnly: true }),
+        ],
+        "Spindleclutch I"
+      )
+    ).toBeUndefined()
+  })
+
+  test("an instance no node is named for has no target", () => {
+    expect(instanceTarget([node({ name: "Spindleclutch I", kind: "other" })], "")).toBeUndefined()
+    expect(
+      instanceTarget([node({ name: "Spindleclutch I", kind: "other" })], "Bad Man's Hallows")
+    ).toBeUndefined()
   })
 
   test("a map inside an overland map is zoomed out of to look for targets", () => {

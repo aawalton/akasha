@@ -72,7 +72,7 @@ export interface PositionAnswer {
 }
 
 interface CandidateReading {
-  readonly kind: "wayshrine" | "house"
+  readonly kind: PortTarget["kind"]
   readonly name: string
   readonly nodeIndex: number
   readonly houseId: number
@@ -115,6 +115,13 @@ export interface SpotReading {
   readonly y: number
 }
 
+export interface InstanceReading {
+  readonly zoneId: number
+  readonly name: string
+  readonly playerZoneId: number
+  readonly target?: CandidateReading
+}
+
 export interface PortTraceEntry {
   at: number
   character: string
@@ -129,6 +136,7 @@ export interface PortTraceEntry {
   conditionText?: string
   mapBefore?: MapReading
   mapSteps: MapStep[]
+  instance?: InstanceReading
   taskId?: number
   answer?: PositionAnswer
   answerUniversal?: UniversalReading

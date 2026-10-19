@@ -84,7 +84,11 @@ export function portTo(this: void, target: PortTarget, nearWhat: string): undefi
       return undefined
     }
   }
-  say(`Porting to ${target.name}, nearest to ${nearWhat}.`)
+  say(
+    target.kind === "instance"
+      ? `Porting into ${target.name}, where ${nearWhat} is.`
+      : `Porting to ${target.name}, nearest to ${nearWhat}.`
+  )
   FastTravelToNode(target.nodeIndex)
   return undefined
 }

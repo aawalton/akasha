@@ -49,10 +49,15 @@ export const questPortTrace = {
       statement: "A press that probed keeps where the player was on the player's own map.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A press whose objective is in an instance keeps the instance, the player's zone and the way in.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here changes where the keybind ports.",
     },
   ],
   createdAt: "2026-10-08T17:07:58.033Z",
-  updatedAt: "2026-10-10T13:55:00.117Z",
+  updatedAt: "2026-10-19T18:21:07.960Z",
 } as const satisfies Module
