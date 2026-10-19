@@ -8,7 +8,7 @@ export const verbWithAPrepositionPhrase = {
   phraseKind: "phrase-kind/verb-phrase",
   writtenFrom: ["part-of-speech/verb", "phrase-kind/preposition-phrase"],
   admits: ["talks to a seat", "runs over temper", "reads from a page"],
-  refuses: ["to a seat talks", "talks to"],
+  refuses: ["to a seat talks"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -21,5 +21,5 @@ export const verbWithAPrepositionPhrase = {
     },
   ],
   createdAt: "2026-09-22T19:18:32.576Z",
-  updatedAt: "2026-09-25T15:41:48.000Z",
+  updatedAt: "2026-10-19T19:16:42.547Z",
 } as const satisfies Construction
