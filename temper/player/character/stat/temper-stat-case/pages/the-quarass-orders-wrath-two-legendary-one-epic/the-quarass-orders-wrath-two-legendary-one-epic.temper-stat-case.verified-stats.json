@@ -134,6 +134,7 @@
     "resistance-shock": 12930,
     "resistance-spell": 12930,
     "stamina-block-cost": 1351,
+    "stamina-dodge-cost": 2668,
     "stamina-maximum": 25632,
     "stamina-recovery": 684,
     "stamina-sprint-cost": 428
@@ -144,7 +145,6 @@
     "block-speed": 42,
     "critical-damage": 34,
     "healing-critical-bonus": 14,
-    "sneak-cost": 26,
-    "stamina-dodge-cost": 2668
+    "sneak-cost": 26
   }
 }

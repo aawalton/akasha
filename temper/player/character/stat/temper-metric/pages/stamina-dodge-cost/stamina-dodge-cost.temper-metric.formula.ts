@@ -7,6 +7,10 @@ export const FORMULA: FormulaNode = {
       type: "add",
       operands: [
         {
+          type: "metric-refs",
+          metricIds: ["stamina-dodge-base-cost"],
+        },
+        {
           type: "sum",
           effectType: "integer",
         },
@@ -21,36 +25,6 @@ export const FORMULA: FormulaNode = {
         },
         {
           type: "sum",
-          categories: ["champion-points"],
-          effectType: "fractional-change",
-        },
-      ],
-    },
-    {
-      type: "add",
-      operands: [
-        {
-          type: "constant",
-          value: -3,
-        },
-        {
-          type: "product",
-          categories: ["skills"],
-          effectType: "fractional-change",
-        },
-        {
-          type: "product",
-          categories: ["armor"],
-          effectType: "fractional-change",
-        },
-        {
-          type: "product",
-          categories: ["sets"],
-          effectType: "fractional-change",
-        },
-        {
-          type: "product",
-          categories: ["buffs"],
           effectType: "fractional-change",
         },
       ],

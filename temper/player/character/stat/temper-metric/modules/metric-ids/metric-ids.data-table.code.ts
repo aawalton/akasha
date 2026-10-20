@@ -223,6 +223,7 @@ export type MetricId =
   | "sneak-range"
   | "stamina-ability-cost"
   | "stamina-block-cost"
+  | "stamina-dodge-base-cost"
   | "stamina-dodge-cost"
   | "stamina-maximum"
   | "stamina-non-core-ability-cost"

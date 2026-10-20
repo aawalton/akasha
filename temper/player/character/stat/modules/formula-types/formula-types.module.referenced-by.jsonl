@@ -224,6 +224,7 @@
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/sneak-range/sneak-range.temper-metric.formula.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/stamina-ability-cost/stamina-ability-cost.temper-metric.formula.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/stamina-block-cost/stamina-block-cost.temper-metric.formula.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/stamina-dodge-base-cost/stamina-dodge-base-cost.temper-metric.formula.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/stamina-dodge-cost/stamina-dodge-cost.temper-metric.formula.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/stamina-maximum/stamina-maximum.temper-metric.formula.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/stamina-non-core-ability-cost/stamina-non-core-ability-cost.temper-metric.formula.ts","typed":true,"deferred":false}

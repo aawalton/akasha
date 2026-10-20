@@ -132,6 +132,7 @@
     "resistance-physical": 12406,
     "resistance-spell": 19072,
     "stamina-block-cost": 2018,
+    "stamina-dodge-cost": 3230,
     "stamina-maximum": 15646,
     "stamina-recovery": 773,
     "stamina-sprint-cost": 377,
@@ -146,7 +147,6 @@
     "healing-critical-bonus": 0,
     "healing-taken-base": 3,
     "movement-sprint-speed": 143,
-    "sneak-cost": 79,
-    "stamina-dodge-cost": 3230
+    "sneak-cost": 79
   }
 }

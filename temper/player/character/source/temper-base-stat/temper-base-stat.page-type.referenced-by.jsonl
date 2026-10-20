@@ -21,7 +21,7 @@
 {"propertySlug":"import","fileName":"temper-base-stat.page-type.types.ts","path":"temper/player/character/source/temper-base-stat/pages/power-weapon.temper-base-stat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-base-stat.page-type.types.ts","path":"temper/player/character/source/temper-base-stat/pages/resistance-critical.temper-base-stat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-base-stat.page-type.types.ts","path":"temper/player/character/source/temper-base-stat/pages/stamina-block-cost.temper-base-stat.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"temper-base-stat.page-type.types.ts","path":"temper/player/character/source/temper-base-stat/pages/stamina-dodge-cost.temper-base-stat.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-base-stat.page-type.types.ts","path":"temper/player/character/source/temper-base-stat/pages/stamina-dodge-base-cost.temper-base-stat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-base-stat.page-type.types.ts","path":"temper/player/character/source/temper-base-stat/pages/stamina-maximum.temper-base-stat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-base-stat.page-type.types.ts","path":"temper/player/character/source/temper-base-stat/pages/stamina-recovery.temper-base-stat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-base-stat.page-type.types.ts","path":"temper/player/character/source/temper-base-stat/pages/stamina-sprint-cost.temper-base-stat.ts","typed":true,"deferred":false}
