@@ -96,7 +96,9 @@ function calculateSetBonusMultiplier(pieceQualities: readonly EquipmentQualityId
   const avgMultiplier = totalMultiplier / pieceQualities.length
 
   for (const step of steps) if (avgMultiplier >= step) return step
-  return avgMultiplier
+  const pieceScales = pieceQualities.map((quality) => qualityScale(quality, "setBonusScale"))
+  const atOrUnder = pieceScales.filter((scale) => scale <= avgMultiplier)
+  return Math.max(Math.min(...pieceScales), ...atOrUnder)
 }
 
 let steps: readonly number[] = []

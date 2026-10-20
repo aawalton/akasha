@@ -22,9 +22,14 @@ export const setSource = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "An average under every step is read down to the best quality among the pieces at or under it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Sources run up to the most worn pieces the set rule page states.",
     },
   ],
   createdAt: "2026-09-02T10:22:19.313Z",
-  updatedAt: "2026-09-27T06:53:48.000Z",
+  updatedAt: "2026-10-20T15:17:18.951Z",
 } as const satisfies Module

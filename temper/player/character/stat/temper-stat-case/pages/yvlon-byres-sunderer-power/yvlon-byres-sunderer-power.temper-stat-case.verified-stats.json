@@ -121,6 +121,7 @@
     "health-maximum": 17960,
     "health-recovery": 359,
     "magicka-maximum": 15309,
+    "magicka-recovery": 754,
     "movement-sneak-speed": 100,
     "movement-sprint-speed": 162,
     "penetration-physical": 15733,
@@ -133,14 +134,13 @@
     "sneak-cost": 17,
     "stamina-block-cost": 1454,
     "stamina-maximum": 21939,
+    "stamina-recovery": 1598,
     "stamina-sprint-cost": 394
   },
   "gaps": {
     "block-speed": 42,
     "critical-damage": 34,
     "healing-critical-bonus": 24,
-    "magicka-recovery": 754,
-    "stamina-dodge-cost": 2567,
-    "stamina-recovery": 1598
+    "stamina-dodge-cost": 2567
   }
 }
