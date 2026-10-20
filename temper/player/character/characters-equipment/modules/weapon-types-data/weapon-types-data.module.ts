@@ -23,11 +23,11 @@ export const weaponTypesData = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Legendary power runs straight from 217 at worth level 0 to 1335 at the top, for every type.",
+        "Legendary power runs straight between the weapon power rule's two ends, for every type.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A two-handed melee weapon has 1.177 times that power, before it is rounded down.",
+      statement: "A two-handed melee weapon has the rule's multiple of that, before rounding down.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -48,5 +48,5 @@ export const weaponTypesData = {
     },
   ],
   createdAt: "2026-09-02T09:24:55.957Z",
-  updatedAt: "2026-10-20T19:44:32.491Z",
+  updatedAt: "2026-10-20T19:50:00.757Z",
 } as const satisfies Module

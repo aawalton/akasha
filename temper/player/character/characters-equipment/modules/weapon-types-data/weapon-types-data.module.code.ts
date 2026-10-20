@@ -27,11 +27,13 @@ interface WeaponTypeTemplate {
 
 type Row = Readonly<Record<string, unknown>>
 
-const LEVEL_ONE_POWER = 217
+interface WeaponPowerRule {
+  readonly levelOnePower: number
+  readonly topPower: number
+  readonly twoHandedMeleePower: number
+}
 
-const TOP_POWER = 1335
-
-const TWO_HANDED_MELEE_POWER = 1.177
+let powerRule: WeaponPowerRule | null = null
 
 const ONE_HAND_LINES = "weapon-one-hand"
 
@@ -60,8 +62,24 @@ function typeOf(row: Row): WeaponTypeTemplate {
   }
 }
 
-export function holdWeaponTypes(pages: Iterable<Row>): undefined {
+export function holdWeaponTypes(pages: Iterable<Row>, rules: Iterable<Row>): undefined {
   held.hold(gearTableOf(inGearOrder(pages, "hashPlace").map(typeOf)))
+  for (const rule of rules) {
+    powerRule = {
+      levelOnePower: Number(rule.levelOnePower),
+      topPower: Number(rule.topPower),
+      twoHandedMeleePower: Number(rule.twoHandedMeleePower),
+    }
+  }
+}
+
+function heldPowerRule(): WeaponPowerRule {
+  if (powerRule === null) {
+    throw new Error(
+      "the weapon power rule is read with the skill catalogue, and nothing has read it yet"
+    )
+  }
+  return powerRule
 }
 
 export function getWeaponPower(
@@ -78,7 +96,8 @@ export function getWeaponPower(
     pieceWorthLevel("legendary", level) +
     pieceWorthLevel(quality, level) -
     pieceWorthLevel(curve, level)
-  const growth = ((TOP_POWER - LEVEL_ONE_POWER) * worth) / topWorthLevel()
-  const hands = weaponTypes.data[weaponType].isTwoHandedMelee ? TWO_HANDED_MELEE_POWER : 1
-  return Math.floor((LEVEL_ONE_POWER + growth) * hands * qualityScale(curve, "weaponLevelScale"))
+  const { levelOnePower, topPower, twoHandedMeleePower } = heldPowerRule()
+  const growth = ((topPower - levelOnePower) * worth) / topWorthLevel()
+  const hands = weaponTypes.data[weaponType].isTwoHandedMelee ? twoHandedMeleePower : 1
+  return Math.floor((levelOnePower + growth) * hands * qualityScale(curve, "weaponLevelScale"))
 }

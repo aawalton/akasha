@@ -39,6 +39,7 @@ import { temperQuality } from "akasha/temper/catalog/gear/temper-quality/temper-
 
 import { temperSetRule } from "akasha/temper/catalog/gear/temper-set-rule/temper-set-rule.page-type.ts"
 import { temperWeaponEnchant } from "akasha/temper/catalog/gear/temper-weapon-enchant/temper-weapon-enchant.page-type.ts"
+import { temperWeaponRule } from "akasha/temper/catalog/gear/temper-weapon-rule/temper-weapon-rule.page-type.ts"
 import { temperWeaponSlot } from "akasha/temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.ts"
 import { temperWeaponTrait } from "akasha/temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.ts"
 import { temperWeaponType } from "akasha/temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts"
@@ -77,6 +78,7 @@ export const GEAR_READS: readonly Read[] = [
     ],
   ],
   [temperSetRule.slug, ["slug", "setPieceMost", "setBonusSlope"]],
+  [temperWeaponRule.slug, ["slug", "levelOnePower", "topPower", "twoHandedMeleePower"]],
   [temperWeaponBar.slug, ["slug", "title", "displayOrder"]],
   [temperEsoPlayerEquipmentConstant.slug, ["slug", "constantFamily", "constantId", "esoNum"]],
   [temperArmorSlot.slug, ["slug", "title", "icon", "hashPlace", "slotEquipType"]],
@@ -177,7 +179,7 @@ export function holdGear(rowsOf: (pageTypeSlug: string) => Iterable<Row>): undef
   holdWeaponBarPages(rowsOf(temperWeaponBar.slug))
   holdPlayerEquipmentConstants(rowsOf(temperEsoPlayerEquipmentConstant.slug))
   holdArmorWeights(rowsOf(temperArmorWeight.slug), rowsOf(temperGearGrade.slug))
-  holdWeaponTypes(rowsOf(temperWeaponType.slug))
+  holdWeaponTypes(rowsOf(temperWeaponType.slug), rowsOf(temperWeaponRule.slug))
   holdTraits(rowsOf)
   holdEnchants(rowsOf)
   holdGraded(rowsOf, GRADED)
