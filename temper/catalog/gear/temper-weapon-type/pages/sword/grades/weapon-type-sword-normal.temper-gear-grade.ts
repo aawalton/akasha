@@ -7,7 +7,7 @@ export const weaponTypeSwordNormal = {
   title: "Sword at Normal",
   thing: "temper-weapon-type/sword",
   quality: "temper-quality/normal",
-  value: 1072,
+  value: 1037,
   createdAt: "2026-09-27T03:04:48.916Z",
-  updatedAt: "2026-09-27T03:05:02.000Z",
+  updatedAt: "2026-10-20T15:52:39.298Z",
 } as const satisfies TemperGearGrade
