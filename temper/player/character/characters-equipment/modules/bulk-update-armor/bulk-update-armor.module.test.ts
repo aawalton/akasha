@@ -5,7 +5,10 @@ import {
 } from "akasha/temper/catalog/gear/equipment/kind/modules/armor-slots/armor-slots.module.code.ts"
 import type { StandardArmorWeightId } from "akasha/temper/catalog/gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import type { SetTemplate } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
-import { bulkUpdateArmorSet } from "akasha/temper/player/character/characters-equipment/modules/bulk-update-armor/bulk-update-armor.module.code.ts"
+import {
+  bulkUpdateArmorSet,
+  bulkUpdateArmorWeight,
+} from "akasha/temper/player/character/characters-equipment/modules/bulk-update-armor/bulk-update-armor.module.code.ts"
 import type { Loadout } from "akasha/temper/player/character/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
 import { holdSetCatalogFromCheckout } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.test-fixtures.ts"
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
@@ -87,6 +90,32 @@ test("a piece whose weight the new set allows keeps that weight", () => {
   const before = loadoutOf({ legs: { set: "no-set", weight: "light" } })
   const after = bulkUpdateArmorSet(before, "no-set", LIGHT_OR_MEDIUM.id, AVAILABLE)
   expect(weightAt(after, "legs")).toBe("light")
+})
+
+test("a bulk weight change leaves a piece whose set refuses the new weight as it was", () => {
+  const before = loadoutOf({
+    head: { set: MEDIUM_ONLY, weight: "medium" },
+    chest: { set: "no-set", weight: "medium" },
+  })
+  const after = bulkUpdateArmorWeight(before, "medium", "light", AVAILABLE)
+  expect(weightAt(after, "head")).toBe("medium")
+  expect(weightAt(after, "chest")).toBe("light")
+})
+
+test("a bulk weight change gives the new weight to a piece whose set allows it", () => {
+  const before = loadoutOf({ hands: { set: LIGHT_OR_MEDIUM.id, weight: "medium" } })
+  expect(weightAt(bulkUpdateArmorWeight(before, "medium", "light", AVAILABLE), "hands")).toBe(
+    "light"
+  )
+  expect(weightAt(bulkUpdateArmorWeight(before, "medium", "heavy", AVAILABLE), "hands")).toBe(
+    "medium"
+  )
+})
+
+test("a bulk weight change takes no weight off a piece whose set allows only one", () => {
+  const before = loadoutOf({ waist: { set: MEDIUM_ONLY, weight: "medium" } })
+  const after = bulkUpdateArmorWeight(before, "medium", "no-weight", AVAILABLE)
+  expect(weightAt(after, "waist")).toBe("medium")
 })
 
 test("a piece taken out of its set keeps its weight", () => {

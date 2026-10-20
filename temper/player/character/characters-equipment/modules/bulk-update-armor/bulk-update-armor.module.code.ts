@@ -7,14 +7,24 @@ import type { SetTemplate } from "akasha/temper/catalog/gear/equipment/modules/s
 import type { ArmorEnchantId } from "akasha/temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"
 import type { Loadout } from "akasha/temper/player/character/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
 import {
+  armorWeightFitsSet,
   armorWeightUnderSet,
   isSetValidForArmorSlot,
 } from "akasha/temper/player/character/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts"
 
+function setOfPiece(
+  setId: Slug | null | undefined,
+  availableSets: readonly SetTemplate[]
+): SetTemplate | undefined {
+  if (setId == null || setId === "no-set") return undefined
+  return availableSets.find((s) => s.id === setId)
+}
+
 export function bulkUpdateArmorWeight(
   equipment: Loadout,
   oldValue: StandardArmorWeightId | null,
-  newValue: StandardArmorWeightId | null
+  newValue: StandardArmorWeightId | null,
+  availableSets: readonly SetTemplate[]
 ): Partial<Loadout> {
   const newArmor = { ...equipment.armor }
   const oldWeightId = oldValue ?? "no-weight"
@@ -24,7 +34,8 @@ export function bulkUpdateArmorWeight(
     const item = newArmor[slotConfig.id]
     if (item.itemType === "armor") {
       const currentWeight = item.data.weight
-      if (currentWeight === oldWeightId) {
+      const set = setOfPiece(item.data.set, availableSets)
+      if (currentWeight === oldWeightId && armorWeightFitsSet(set, slotConfig.id, newWeightId)) {
         newArmor[slotConfig.id] = {
           itemType: "armor",
           data: { ...item.data, weight: newWeightId },

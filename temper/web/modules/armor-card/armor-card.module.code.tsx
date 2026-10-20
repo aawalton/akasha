@@ -33,9 +33,9 @@ import {
   getEquipmentIcon,
 } from "akasha/temper/player/character/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.code.ts"
 import {
+  armorWeightFitsSet,
   armorWeightUnderSet,
   getValidSetsForArmorSlot,
-  getValidWeightsForSet,
 } from "akasha/temper/player/character/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts"
 import { setsAll } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
 import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
@@ -112,16 +112,10 @@ export function ArmorCard({
 
   const weightsRead = standardArmorWeights.list
 
-  const validWeightOptions = useMemo(() => {
-    if (!selectedSet) {
-      return weightsRead
-    }
-    const validWeightIds = getValidWeightsForSet(selectedSet, slot)
-    if (validWeightIds.length === 1) {
-      return weightsRead.filter((w) => validWeightIds.includes(w.id))
-    }
-    return weightsRead.filter((w) => w.id === "no-weight" || validWeightIds.includes(w.id))
-  }, [selectedSet, slot, weightsRead])
+  const validWeightOptions = useMemo(
+    () => weightsRead.filter((w) => armorWeightFitsSet(selectedSet, slot, w.id)),
+    [selectedSet, slot, weightsRead]
+  )
 
   const handleSetSelect = (setId: Slug) => {
     const newSet = getSetById(setId, availableSets)

@@ -169,7 +169,7 @@ export function ArmorPanelCard({
     oldValue: StandardArmorWeightId | null,
     newValue: StandardArmorWeightId | null
   ) => {
-    onUpdate(bulkUpdateArmorWeight(equipment, oldValue, newValue))
+    onUpdate(bulkUpdateArmorWeight(equipment, oldValue, newValue, availableSets))
   }
 
   const handleBulkUpdateArmorTrait = (oldValue: ArmorTraitId, newValue: ArmorTraitId) => {

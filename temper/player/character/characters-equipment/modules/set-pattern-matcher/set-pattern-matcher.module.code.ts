@@ -107,7 +107,7 @@ export function getValidSetsForArmorSlot(
   return sets.filter((set) => isSetValidForArmorSlot(set, slot))
 }
 
-export function getValidWeightsForSet(
+function getValidWeightsForSet(
   set: SetTemplate,
   slot: ArmorSlotId
 ): readonly StandardArmorWeightId[] {
@@ -121,6 +121,17 @@ export function getValidWeightsForSet(
   }
 
   return validWeights
+}
+
+export function armorWeightFitsSet(
+  set: SetTemplate | null | undefined,
+  slot: ArmorSlotId,
+  weight: StandardArmorWeightId
+): boolean {
+  if (set == null) return true
+  const validWeights = getValidWeightsForSet(set, slot)
+  if (weight === "no-weight") return validWeights.length !== 1
+  return validWeights.includes(weight)
 }
 
 export function armorWeightUnderSet(
