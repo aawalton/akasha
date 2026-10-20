@@ -36,7 +36,16 @@ export const effect = {
       decisionKind: "decision-kind/departure",
       statement: "An effect may name the buffs it holds only while one is up.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An effect of a type the code here lacks is an unknown effect carrying what its page states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An unknown effect changes no number.",
+    },
   ],
   createdAt: "2026-09-02T04:46:21.408Z",
-  updatedAt: "2026-10-20T17:27:15.270Z",
+  updatedAt: "2026-10-20T17:35:46.057Z",
 } as const satisfies Module

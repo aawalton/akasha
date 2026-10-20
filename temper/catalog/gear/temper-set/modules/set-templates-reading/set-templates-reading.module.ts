@@ -26,8 +26,11 @@ export const setTemplatesReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A bonus effect of a type the effect union lacks throws rather than reading a set.",
+      statement: "A bonus effect of a type the effect union lacks is read as an unknown effect.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An unknown bonus effect carries the description its bonus states.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -43,5 +46,5 @@ export const setTemplatesReading = {
     },
   ],
   createdAt: "2026-09-26T14:50:52.341Z",
-  updatedAt: "2026-10-20T16:59:45.928Z",
+  updatedAt: "2026-10-20T17:35:46.057Z",
 } as const satisfies Module

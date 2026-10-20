@@ -14,7 +14,12 @@ export const sourceEffectsReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An entry naming an effect type the effect union lacks is refused.",
+      statement:
+        "An entry naming an effect type the effect union lacks is read as an unknown effect.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An unknown effect carries the description its page states.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -30,5 +35,5 @@ export const sourceEffectsReading = {
     },
   ],
   createdAt: "2026-09-26T20:13:02.260Z",
-  updatedAt: "2026-10-20T16:57:57.303Z",
+  updatedAt: "2026-10-20T17:35:46.057Z",
 } as const satisfies Module

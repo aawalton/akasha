@@ -1,7 +1,7 @@
 import {
   type Effect,
   isMetricEffectType,
-  type MetricEffectType,
+  unknownEffectOf,
 } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 
 type Value = Readonly<Record<string, unknown>>
@@ -17,30 +17,26 @@ function slugIn(named: unknown): string | null {
   return typeof named === "string" ? named.slice(named.lastIndexOf("/") + 1) : null
 }
 
-function effectOf(entry: Value, at: string): Effect {
+function effectOf(entry: Value, at: string, description: unknown): Effect {
   const metricId = slugIn(entry.metric)
   if (metricId === null) throw new Error(`${at} states an effect naming no stat`)
-  const effectType = knownEffectType(entry.effectType, metricId, at)
+  const effectType = statedEffectType(entry.effectType, metricId, at)
+  if (!isMetricEffectType(effectType)) return unknownEffectOf(entry, effectType, description)
   if (typeof entry.value !== "number") {
     throw new Error(`${at} states an effect on \`${metricId}\` with no value`)
   }
   return { metricId, effectType, effectValue: entry.value } as Effect
 }
 
-function knownEffectType(named: unknown, metricId: string, at: string): MetricEffectType {
+function statedEffectType(named: unknown, metricId: string, at: string): string {
   if (typeof named !== "string") {
     throw new Error(`${at} states an effect on \`${metricId}\` with no effect type`)
-  }
-  if (!isMetricEffectType(named)) {
-    throw new Error(
-      `${at} states an effect on \`${metricId}\` of type \`${named}\`, which no code reads`
-    )
   }
   return named
 }
 
 export function sourceEffectsOf(value: Value, at: string): readonly Effect[] {
-  return recordsIn(value.effects).map((entry) => effectOf(entry, at))
+  return recordsIn(value.effects).map((entry) => effectOf(entry, at, value.description))
 }
 
 export function inHashPlaces<Read>(placed: Iterable<readonly [number, Read]>): readonly Read[] {
@@ -59,14 +55,20 @@ export function metricNodesOf(nodes: Iterable<Value>): MetricNodes {
   return found
 }
 
-export function entryEffectOf(entry: Value, nodes: MetricNodes, at: string): Effect {
+export function entryEffectOf(
+  entry: Value,
+  nodes: MetricNodes,
+  at: string,
+  description?: unknown
+): Effect {
   const named = entry.metricId
   const slug = slugIn(named)
   const metricId = slug === null ? undefined : nodes.get(slug)
   if (metricId === undefined) {
     throw new Error(`${at} states an effect on \`${String(named)}\`, which is no stat tree node`)
   }
-  const effectType = knownEffectType(entry.type, metricId, at)
+  const effectType = statedEffectType(entry.type, metricId, at)
+  if (!isMetricEffectType(effectType)) return unknownEffectOf(entry, effectType, description)
   if (typeof entry.value !== "number") {
     throw new Error(`${at} states an effect on \`${metricId}\` with no value`)
   }
@@ -101,5 +103,5 @@ function higherOfIn(named: unknown, nodes: MetricNodes, at: string): readonly st
 }
 
 export function entryEffectsOf(value: Value, nodes: MetricNodes, at: string): readonly Effect[] {
-  return recordsIn(value.effects).map((entry) => entryEffectOf(entry, nodes, at))
+  return recordsIn(value.effects).map((entry) => entryEffectOf(entry, nodes, at, value.description))
 }

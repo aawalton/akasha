@@ -12,6 +12,7 @@ import {
   type Effect,
   isMetricEffectType,
   type MetricEffect,
+  unknownEffectOf,
 } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 import { temperMetricTree } from "akasha/temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.ts"
 
@@ -78,16 +79,17 @@ function listIn(held: unknown): readonly Value[] {
     : []
 }
 
-function effectOf(effect: Value, keys: Keys, at: string): Effect {
+function effectOf(effect: Value, keys: Keys, at: string, description: unknown): Effect {
   if (effect.buffId !== undefined) return { buffId: keyOf(effect.buffId, keys, at) }
   const whileBuffs = Array.isArray(effect.whileBuffs)
     ? { whileBuffs: effect.whileBuffs.map((buff: unknown) => keyOf(buff, keys, at)) }
     : {}
   const metricId = keyOf(effect.metricId, keys, at)
   if (!isMetricEffectType(effect.type)) {
-    throw new Error(
-      `${at} states an effect on \`${metricId}\` of type \`${String(effect.type)}\`, which no code reads`
-    )
+    if (typeof effect.type !== "string") {
+      throw new Error(`${at} states an effect on \`${metricId}\` with no effect type`)
+    }
+    return unknownEffectOf(effect, effect.type, description)
   }
   return {
     metricId,
@@ -101,7 +103,7 @@ function bonusOf(bonus: Value, keys: Keys, at: string): Bonus {
   return {
     count: bonus.count as number,
     status: bonus.status as Bonus["status"],
-    effects: listIn(bonus.effects).map((effect) => effectOf(effect, keys, at)),
+    effects: listIn(bonus.effects).map((effect) => effectOf(effect, keys, at, bonus.description)),
     description: bonus.description as string,
   }
 }

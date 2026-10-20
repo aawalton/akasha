@@ -1,5 +1,26 @@
 import { expect, test } from "bun:test"
-import { isMetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
+import {
+  isMetricEffect,
+  isUnknownEffect,
+  unknownEffectOf,
+} from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
+
+test("an unknown effect is neither a metric effect nor anything but unknown", () => {
+  const raw = { metric: "max-health", effectType: "per-moon", value: 1 }
+  const made = unknownEffectOf(raw, "per-moon", "Gain 1 Health per moon")
+  expect(made).toEqual({
+    effectType: "unknown-effect",
+    statedType: "per-moon",
+    description: "Gain 1 Health per moon",
+    raw,
+  })
+  expect(isUnknownEffect(made)).toBe(true)
+  expect(isMetricEffect(made)).toBe(false)
+})
+
+test("an unknown effect whose page states no description carries none", () => {
+  expect(unknownEffectOf({}, "per-moon", undefined).description).toBeNull()
+})
 
 test("an effect whose type the metric effect union has is a metric effect", () => {
   expect(

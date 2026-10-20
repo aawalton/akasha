@@ -27,6 +27,27 @@ test("an armor piece scaling effect is said by nothing here rather than thrown o
   ).toEqual(["30 Health Recovery"])
 })
 
+test("an unknown effect is said as its page's description, noted as updating", () => {
+  expect(
+    formatEffects([
+      {
+        effectType: "unknown-effect",
+        statedType: "per-fortnight",
+        description: "Gain 1 Health Recovery per fortnight",
+        raw: {},
+      },
+    ])
+  ).toEqual(["Gain 1 Health Recovery per fortnight (updating)"])
+})
+
+test("an unknown effect whose page states no description is said by the type it states", () => {
+  expect(
+    formatEffects([
+      { effectType: "unknown-effect", statedType: "per-fortnight", description: null, raw: {} },
+    ])
+  ).toEqual(["per-fortnight (updating)"])
+})
+
 test("a flat effect says its value before the stat", () => {
   expect(
     formatEffects([{ metricId: "health-recovery", effectType: "integer", effectValue: 30 }])

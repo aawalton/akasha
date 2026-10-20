@@ -5,7 +5,9 @@ import {
   type Effect,
   isBuffOrDebuffEffect,
   isMetricEffect,
+  isUnknownEffect,
   type MetricEffect,
+  type UnknownEffect,
 } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 import { formatPercent } from "akasha/temper/player/character/formula-framework/modules/number-format/number-format.module.code.ts"
 import {
@@ -27,12 +29,15 @@ export function formatEffects(
 
   const metricEffects: MetricEffect[] = []
   const buffDebuffEffects: BuffOrDebuffEffect[] = []
+  const updating: string[] = []
 
   for (const effect of effects) {
     if (isMetricEffect(effect)) {
       metricEffects.push(effect)
     } else if (isBuffOrDebuffEffect(effect)) {
       buffDebuffEffects.push(effect)
+    } else if (isUnknownEffect(effect)) {
+      updating.push(phrasedUnknownEffect(effect))
     }
   }
 
@@ -47,7 +52,7 @@ export function formatEffects(
       buffDebuffNames.add(getBuffDebuffName(effect))
     }
 
-    return [...metricNames, ...buffDebuffNames]
+    return [...metricNames, ...buffDebuffNames, ...updating]
   }
 
   const formattedMetricEffects = formatMetricEffectsInternal(metricEffects)
@@ -60,7 +65,11 @@ export function formatEffects(
     return `${name} (${effect.seconds}s)`
   })
 
-  return [...formattedMetricEffects, ...formattedBuffDebuffEffects]
+  return [...formattedMetricEffects, ...formattedBuffDebuffEffects, ...updating]
+}
+
+function phrasedUnknownEffect(effect: UnknownEffect): string {
+  return `${effect.description ?? effect.statedType} (updating)`
 }
 
 function getBuffDebuffName(effect: BuffOrDebuffEffect): string {

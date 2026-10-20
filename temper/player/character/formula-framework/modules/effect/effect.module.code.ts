@@ -104,12 +104,42 @@ export type WeaponTypeConditionalEffect = {
   perWeapon?: boolean
 }
 
+export type UnknownEffect = {
+  effectType: "unknown-effect"
+  statedType: string
+  description: string | null
+  raw: Readonly<Record<string, unknown>>
+}
+
 export type Effect =
   | MetricEffect
   | BuffOrDebuffEffect
   | ArmorPieceScalingEffect
   | SlottedAbilityScalingEffect
   | WeaponTypeConditionalEffect
+  | UnknownEffect
+
+export function unknownEffectOf(
+  raw: Readonly<Record<string, unknown>>,
+  statedType: string,
+  description: unknown
+): UnknownEffect {
+  return {
+    effectType: "unknown-effect",
+    statedType,
+    description: typeof description === "string" && description !== "" ? description : null,
+    raw,
+  }
+}
+
+export function isUnknownEffect(effect: Effect): effect is UnknownEffect {
+  return (
+    typeof effect === "object" &&
+    effect !== null &&
+    "effectType" in effect &&
+    effect.effectType === "unknown-effect"
+  )
+}
 
 export function isMetricEffect<T>(effect: T): effect is T & MetricEffect {
   return (
