@@ -12,8 +12,8 @@ export const orzorgasBloodPricePie = {
   itemIds: [71058],
   seconds: 9000,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 5395 },
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 539 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 5395 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 539 },
   ],
   status: "supported",
   hashPlace: 311,

@@ -13,7 +13,7 @@ export const crownStarMagicTea = {
   itemIds: [64498],
   seconds: 9000,
   level: "Scaled",
-  effects: [{ "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 565 }],
+  effects: [{ metric: "temper-metric/magicka-recovery", effectType: "integer", value: 565 }],
   status: "supported",
   hashPlace: 304,
   createdAt: "2026-10-20T16:09:02.865Z",

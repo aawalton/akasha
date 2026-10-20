@@ -12,8 +12,8 @@ export const ashHopperDumplingsOnScathecraw = {
   itemIds: [33906, 57104, 57107],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 3684 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 3371 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 3684 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 3371 },
   ],
   status: "supported",
   hashPlace: 219,

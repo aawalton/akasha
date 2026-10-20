@@ -13,7 +13,7 @@ export const heartyGarlicCornChowder = {
   abilityId: 61261,
   seconds: 3960,
   level: "CP150",
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 6048 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 6048 }],
   status: "supported",
   hashPlace: 3,
   createdAt: "2026-09-27T00:56:31.588Z",

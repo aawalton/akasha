@@ -15,8 +15,8 @@ export const lavaFootSoupAndSaltrice = {
   seconds: 9000,
   level: "Scaled",
   effects: [
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 4936 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 493 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 4936 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 493 },
   ],
   status: "supported",
   hashPlace: 10,

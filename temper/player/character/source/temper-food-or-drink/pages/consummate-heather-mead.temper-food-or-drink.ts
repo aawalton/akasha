@@ -12,9 +12,9 @@ export const consummateHeatherMead = {
   itemIds: [34021],
   seconds: 9000,
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 197 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 197 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 197 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 197 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 197 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 197 },
   ],
   status: "supported",
   hashPlace: 229,

@@ -12,7 +12,7 @@ export const khenarthisWingsChai = {
   itemIds: [28482, 46061, 57195],
   seconds: 3960,
   level: "CP50",
-  effects: [{ "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 506 }],
+  effects: [{ metric: "temper-metric/magicka-recovery", effectType: "integer", value: 506 }],
   status: "supported",
   hashPlace: 105,
   createdAt: "2026-10-20T16:09:02.865Z",

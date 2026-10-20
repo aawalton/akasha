@@ -13,7 +13,7 @@ export const psijicAmbrosia = {
   itemIds: [64221],
   seconds: 1800,
   effects: [
-    { "metric": "temper-metric/experience-gain", "effectType": "fractional-change", "value": 0.5 },
+    { metric: "temper-metric/experience-gain", effectType: "fractional-change", value: 0.5 },
   ],
   status: "supported",
   hashPlace: 297,

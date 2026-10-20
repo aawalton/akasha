@@ -11,7 +11,7 @@ export const staleHuntersPie = {
   itemId: 32071,
   itemIds: [32071, 32083, 37786, 37834],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 1155 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 1155 }],
   status: "supported",
   hashPlace: 142,
   createdAt: "2026-10-20T16:09:02.865Z",

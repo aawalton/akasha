@@ -11,7 +11,7 @@ export const bogIronAle = {
   itemId: 28405,
   itemIds: [28405, 32067, 32079, 33606, 33939, 37782, 37830, 37878, 37926],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 115 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 115 }],
   status: "supported",
   hashPlace: 66,
   createdAt: "2026-10-20T16:09:02.865Z",

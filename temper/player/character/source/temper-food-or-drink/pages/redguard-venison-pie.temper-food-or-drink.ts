@@ -12,8 +12,8 @@ export const redguardVenisonPie = {
   itemIds: [33523, 33585, 33846],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 2697 },
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 2468 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 2697 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 2468 },
   ],
   status: "supported",
   hashPlace: 197,

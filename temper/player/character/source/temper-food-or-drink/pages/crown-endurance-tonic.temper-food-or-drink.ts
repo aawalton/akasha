@@ -13,7 +13,7 @@ export const crownEnduranceTonic = {
   itemIds: [64499],
   seconds: 9000,
   level: "Scaled",
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 565 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 565 }],
   status: "supported",
   hashPlace: 305,
   createdAt: "2026-10-20T16:09:02.865Z",

@@ -13,7 +13,7 @@ export const crownStaunchnessStew = {
   itemIds: [64496],
   seconds: 9000,
   level: "Scaled",
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 5656 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 5656 }],
   status: "supported",
   hashPlace: 302,
   createdAt: "2026-10-20T16:09:02.865Z",

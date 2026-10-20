@@ -11,7 +11,7 @@ export const murkySourflowerTea = {
   itemId: 32074,
   itemIds: [32074, 32086, 37789, 37837, 37885, 37933],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 140 }],
+  effects: [{ metric: "temper-metric/magicka-recovery", effectType: "integer", value: 140 }],
   status: "supported",
   hashPlace: 145,
   createdAt: "2026-10-20T16:09:02.865Z",

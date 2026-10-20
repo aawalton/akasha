@@ -12,7 +12,7 @@ export const bitterRitualTea = {
   itemIds: [57647, 61075, 61076],
   seconds: 3960,
   level: "CP50",
-  effects: [{ "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 441 }],
+  effects: [{ metric: "temper-metric/magicka-recovery", effectType: "integer", value: 441 }],
   status: "supported",
   hashPlace: 286,
   createdAt: "2026-10-20T16:09:02.865Z",

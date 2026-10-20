@@ -11,7 +11,7 @@ export const cloudyIsinmateInfusion = {
   itemId: 32075,
   itemIds: [32075, 32087, 37790, 37838, 37886, 37934],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 140 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 140 }],
   status: "supported",
   hashPlace: 146,
   createdAt: "2026-10-20T16:09:02.865Z",

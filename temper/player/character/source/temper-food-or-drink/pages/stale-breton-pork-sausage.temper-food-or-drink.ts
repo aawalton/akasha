@@ -11,7 +11,7 @@ export const staleBretonPorkSausage = {
   itemId: 37798,
   itemIds: [37798, 37846, 37894, 37942, 61039],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 1925 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 1925 }],
   status: "supported",
   hashPlace: 234,
   createdAt: "2026-10-20T16:09:02.865Z",

@@ -12,8 +12,8 @@ export const sunDriedCaravanProvisions = {
   itemIds: [33916, 57108, 57109],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 3371 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 3371 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 3371 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 3371 },
   ],
   status: "supported",
   hashPlace: 223,

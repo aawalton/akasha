@@ -13,9 +13,9 @@ export const hircinesMeatLoaf = {
   seconds: 9000,
   level: "CP50",
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 3780 },
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 3477 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 3477 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 3780 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 3477 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 3477 },
   ],
   status: "supported",
   hashPlace: 56,

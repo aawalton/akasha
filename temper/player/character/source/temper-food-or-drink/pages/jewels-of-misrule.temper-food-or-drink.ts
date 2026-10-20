@@ -15,9 +15,9 @@ export const jewelsOfMisrule = {
   seconds: 9000,
   level: "Scaled",
   effects: [
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 357 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 357 },
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 3927 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 357 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 357 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 3927 },
   ],
   status: "supported",
   hashPlace: 13,

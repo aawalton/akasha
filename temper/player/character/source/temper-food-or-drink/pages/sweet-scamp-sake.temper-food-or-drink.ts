@@ -11,7 +11,7 @@ export const sweetScampSake = {
   itemId: 57639,
   itemIds: [57639, 61061, 61064],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 385 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 385 }],
   status: "supported",
   hashPlace: 280,
   createdAt: "2026-10-20T16:09:02.865Z",

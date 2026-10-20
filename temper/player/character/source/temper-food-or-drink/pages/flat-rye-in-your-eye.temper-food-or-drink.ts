@@ -11,7 +11,7 @@ export const flatRyeInYourEye = {
   itemId: 32121,
   itemIds: [32121, 32133, 37812, 37860, 37908, 37956],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 308 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 308 }],
   status: "supported",
   hashPlace: 165,
   createdAt: "2026-10-20T16:09:02.865Z",

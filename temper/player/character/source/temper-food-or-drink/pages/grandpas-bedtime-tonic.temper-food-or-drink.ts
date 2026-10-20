@@ -12,7 +12,7 @@ export const grandpasBedtimeTonic = {
   itemIds: [28444, 57186, 57187],
   seconds: 3960,
   level: "CP10",
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 453 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 453 }],
   status: "supported",
   hashPlace: 86,
   createdAt: "2026-10-20T16:09:02.865Z",

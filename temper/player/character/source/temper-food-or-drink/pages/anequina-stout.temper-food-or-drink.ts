@@ -12,8 +12,8 @@ export const anequinaStout = {
   itemIds: [28439, 57176, 57179],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 368 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 337 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 368 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 337 },
   ],
   status: "supported",
   hashPlace: 83,

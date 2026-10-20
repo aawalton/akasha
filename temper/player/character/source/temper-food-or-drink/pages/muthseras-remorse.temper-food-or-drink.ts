@@ -13,7 +13,7 @@ export const muthserasRemorse = {
   abilityId: 61325,
   seconds: 3960,
   level: "CP150",
-  effects: [{ "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 604 }],
+  effects: [{ metric: "temper-metric/magicka-recovery", effectType: "integer", value: 604 }],
   status: "supported",
   hashPlace: 19,
   createdAt: "2026-09-27T00:56:31.589Z",

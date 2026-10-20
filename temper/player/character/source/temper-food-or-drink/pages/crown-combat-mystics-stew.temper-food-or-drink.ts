@@ -14,8 +14,8 @@ export const crownCombatMysticsStew = {
   seconds: 5400,
   level: "Scaled",
   effects: [
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 4936 },
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 5453 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 4936 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 5453 },
   ],
   status: "supported",
   hashPlace: 336,

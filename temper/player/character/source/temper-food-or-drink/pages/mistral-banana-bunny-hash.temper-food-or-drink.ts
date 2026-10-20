@@ -14,8 +14,8 @@ export const mistralBananaBunnyHash = {
   seconds: 5400,
   level: "CP150",
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 5395 },
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 4936 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 5395 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 4936 },
   ],
   status: "supported",
   hashPlace: 4,

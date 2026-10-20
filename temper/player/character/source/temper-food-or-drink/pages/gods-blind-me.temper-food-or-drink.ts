@@ -11,7 +11,7 @@ export const godsBlindMe = {
   itemId: 28433,
   itemIds: [28433, 57158, 57161],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 404 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 404 }],
   status: "supported",
   hashPlace: 80,
   createdAt: "2026-10-20T16:09:02.865Z",

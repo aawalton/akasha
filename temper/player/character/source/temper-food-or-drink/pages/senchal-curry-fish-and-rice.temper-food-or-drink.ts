@@ -11,7 +11,7 @@ export const senchalCurryFishAndRice = {
   itemId: 28350,
   itemIds: [28350, 33520, 33581],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 3221 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 3221 }],
   status: "supported",
   hashPlace: 60,
   createdAt: "2026-10-20T16:09:02.865Z",

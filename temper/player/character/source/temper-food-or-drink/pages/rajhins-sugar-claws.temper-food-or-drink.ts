@@ -14,7 +14,7 @@ export const rajhinsSugarClaws = {
   abilityId: 86787,
   seconds: 9000,
   level: "Scaled",
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 5600 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 5600 }],
   status: "supported",
   hashPlace: 35,
   createdAt: "2026-10-19T23:08:13.802Z",

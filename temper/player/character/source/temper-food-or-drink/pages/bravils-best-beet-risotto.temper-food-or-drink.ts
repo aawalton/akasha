@@ -12,7 +12,7 @@ export const bravilsBestBeetRisotto = {
   itemIds: [71252],
   seconds: 3960,
   level: "CP150",
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 5320 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 5320 }],
   status: "supported",
   hashPlace: 321,
   createdAt: "2026-10-20T16:09:02.865Z",

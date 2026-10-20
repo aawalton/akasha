@@ -12,7 +12,7 @@ export const garlicAndPepperVenisonSteak = {
   itemIds: [57637],
   seconds: 3960,
   level: "CP150",
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 5852 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 5852 }],
   status: "supported",
   hashPlace: 279,
   createdAt: "2026-10-20T16:09:02.865Z",

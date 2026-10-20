@@ -11,7 +11,7 @@ export const staleCheesePorkSchnitzel = {
   itemId: 32095,
   itemIds: [32095, 32101, 32107, 32113, 37804, 37852, 37900, 37948],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 2310 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 2310 }],
   status: "supported",
   hashPlace: 154,
   createdAt: "2026-10-20T16:09:02.865Z",

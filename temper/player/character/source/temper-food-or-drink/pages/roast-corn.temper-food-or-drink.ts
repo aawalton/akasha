@@ -11,7 +11,7 @@ export const roastCorn = {
   itemId: 30444,
   itemIds: [30444, 30456, 37773, 37821, 37869, 37917],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 350 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 350 }],
   status: "supported",
   hashPlace: 133,
   createdAt: "2026-10-20T16:09:02.865Z",

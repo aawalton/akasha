@@ -15,9 +15,9 @@ export const crownRefreshingDrink = {
   seconds: 9000,
   level: "Scaled",
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 446 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 410 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 410 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 446 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 410 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 410 },
   ],
   status: "supported",
   hashPlace: 24,

@@ -11,7 +11,7 @@ export const coldPotatoRiceBlintzes = {
   itemId: 32094,
   itemIds: [32094, 32106, 37803, 37851, 37899, 37947],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 2100 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 2100 }],
   status: "supported",
   hashPlace: 153,
   createdAt: "2026-10-20T16:09:02.865Z",

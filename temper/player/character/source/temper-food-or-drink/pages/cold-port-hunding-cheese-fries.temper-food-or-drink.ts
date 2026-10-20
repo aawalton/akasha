@@ -11,7 +11,7 @@ export const coldPortHundingCheeseFries = {
   itemId: 32076,
   itemIds: [32076, 32088, 37791, 37839, 37887, 37935],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 1400 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 1400 }],
   status: "supported",
   hashPlace: 147,
   createdAt: "2026-10-20T16:09:02.865Z",

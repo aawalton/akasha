@@ -12,8 +12,8 @@ export const monkeypigCutlets = {
   itemIds: [28311, 28360, 28385],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 1710 },
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 1565 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 1710 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 1565 },
   ],
   status: "supported",
   hashPlace: 47,

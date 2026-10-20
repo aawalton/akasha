@@ -12,8 +12,8 @@ export const frostfallPorkRoast = {
   itemIds: [33516, 33578, 33839],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 2697 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 2468 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 2697 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 2468 },
   ],
   status: "supported",
   hashPlace: 196,

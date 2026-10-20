@@ -14,9 +14,9 @@ export const sencheTigerSingleMalt = {
   seconds: 9000,
   level: "CP150",
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 446 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 410 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 410 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 446 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 410 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 410 },
   ],
   status: "supported",
   hashPlace: 308,

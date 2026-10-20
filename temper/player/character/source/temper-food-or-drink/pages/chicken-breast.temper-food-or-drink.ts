@@ -11,7 +11,7 @@ export const chickenBreast = {
   itemId: 30446,
   itemIds: [30446, 30458, 30586, 30588, 30589, 30590, 37774, 37822, 37870, 37918],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 385 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 385 }],
   status: "supported",
   hashPlace: 135,
   createdAt: "2026-10-20T16:09:02.865Z",

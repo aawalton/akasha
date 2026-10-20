@@ -12,8 +12,8 @@ export const bitterRemorseAle = {
   itemIds: [28423, 33632, 33965],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 236 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 216 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 236 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 216 },
   ],
   status: "supported",
   hashPlace: 75,

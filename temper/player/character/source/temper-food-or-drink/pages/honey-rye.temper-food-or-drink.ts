@@ -11,7 +11,7 @@ export const honeyRye = {
   itemId: 28421,
   itemIds: [28421, 33630, 33963],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 280 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 280 }],
   status: "supported",
   hashPlace: 74,
   createdAt: "2026-10-20T16:09:02.865Z",

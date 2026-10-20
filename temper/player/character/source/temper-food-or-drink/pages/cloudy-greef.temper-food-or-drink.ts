@@ -11,7 +11,7 @@ export const cloudyGreef = {
   itemId: 32099,
   itemIds: [32099, 32111, 32147, 32159, 37898, 37946, 61052],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 210 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 210 }],
   status: "supported",
   hashPlace: 157,
   createdAt: "2026-10-20T16:09:02.865Z",

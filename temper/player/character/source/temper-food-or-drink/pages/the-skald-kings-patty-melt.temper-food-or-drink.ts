@@ -12,7 +12,7 @@ export const theSkaldKingsPattyMelt = {
   itemIds: [57135, 57136, 57137],
   seconds: 3960,
   level: "CP100",
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 6195 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 6195 }],
   status: "supported",
   hashPlace: 258,
   createdAt: "2026-10-20T16:09:02.865Z",

@@ -12,8 +12,8 @@ export const jasminkgoTonic = {
   itemIds: [28512, 33741, 34074],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 276 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 276 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 276 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 276 },
   ],
   status: "supported",
   hashPlace: 121,

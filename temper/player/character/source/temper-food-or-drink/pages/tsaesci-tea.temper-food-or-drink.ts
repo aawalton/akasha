@@ -12,8 +12,8 @@ export const tsaesciTea = {
   itemIds: [28496, 33717, 34050],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 156 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 156 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 156 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 156 },
   ],
   status: "supported",
   hashPlace: 112,

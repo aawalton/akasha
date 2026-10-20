@@ -12,8 +12,8 @@ export const timberMammothAle = {
   itemIds: [28452, 33663, 33996],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 138 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 126 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 138 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 126 },
   ],
   status: "supported",
   hashPlace: 89,

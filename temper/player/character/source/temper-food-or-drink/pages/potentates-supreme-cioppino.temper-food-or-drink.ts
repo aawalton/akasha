@@ -13,9 +13,9 @@ export const potentatesSupremeCioppino = {
   seconds: 9000,
   level: "CP100",
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 4200 },
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 3864 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 3864 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 4200 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 3864 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 3864 },
   ],
   status: "supported",
   hashPlace: 216,

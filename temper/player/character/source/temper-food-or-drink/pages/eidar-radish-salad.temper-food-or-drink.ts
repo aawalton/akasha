@@ -11,7 +11,7 @@ export const eidarRadishSalad = {
   itemId: 33496,
   itemIds: [33496, 33557, 42784],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 2570 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 2570 }],
   status: "supported",
   hashPlace: 190,
   createdAt: "2026-10-20T16:09:02.865Z",

@@ -11,7 +11,7 @@ export const alikrBeetsWithGoatCheese = {
   itemId: 28338,
   itemIds: [28338, 28394, 33478],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 2192 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 2192 }],
   status: "supported",
   hashPlace: 57,
   createdAt: "2026-10-20T16:09:02.865Z",

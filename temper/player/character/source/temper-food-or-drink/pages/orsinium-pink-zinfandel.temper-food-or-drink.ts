@@ -13,9 +13,9 @@ export const orsiniumPinkZinfandel = {
   itemIds: [28518, 33438, 33459, 34072],
   seconds: 9000,
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 309 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 284 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 284 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 309 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 284 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 284 },
   ],
   status: "supported",
   hashPlace: 126,

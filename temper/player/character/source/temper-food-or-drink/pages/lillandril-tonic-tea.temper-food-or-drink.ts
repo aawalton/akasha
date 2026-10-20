@@ -12,8 +12,8 @@ export const lillandrilTonicTea = {
   itemIds: [28492, 33711, 34044],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 126 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 126 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 126 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 126 },
   ],
   status: "supported",
   hashPlace: 110,

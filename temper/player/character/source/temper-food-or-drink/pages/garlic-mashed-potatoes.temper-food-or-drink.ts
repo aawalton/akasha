@@ -11,7 +11,7 @@ export const garlicMashedPotatoes = {
   itemId: 28346,
   itemIds: [28346, 33514, 33575],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 2948 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 2948 }],
   status: "supported",
   hashPlace: 59,
   createdAt: "2026-10-20T16:09:02.865Z",

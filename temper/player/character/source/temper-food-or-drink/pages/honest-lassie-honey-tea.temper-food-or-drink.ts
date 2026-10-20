@@ -14,8 +14,8 @@ export const honestLassieHoneyTea = {
   seconds: 5400,
   level: "CP150",
   effects: [
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 493 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 493 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 493 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 493 },
   ],
   status: "supported",
   hashPlace: 23,

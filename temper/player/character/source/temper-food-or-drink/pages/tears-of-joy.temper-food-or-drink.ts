@@ -14,9 +14,9 @@ export const tearsOfJoy = {
   seconds: 9000,
   level: "CP100",
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 420 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 386 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 386 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 420 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 386 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 386 },
   ],
   status: "supported",
   hashPlace: 120,

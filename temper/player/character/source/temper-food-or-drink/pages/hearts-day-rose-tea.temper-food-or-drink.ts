@@ -12,7 +12,7 @@ export const heartsDayRoseTea = {
   itemIds: [71250],
   seconds: 3960,
   level: "CP150",
-  effects: [{ "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 532 }],
+  effects: [{ metric: "temper-metric/magicka-recovery", effectType: "integer", value: 532 }],
   status: "supported",
   hashPlace: 319,
   createdAt: "2026-10-20T16:09:02.865Z",

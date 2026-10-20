@@ -11,7 +11,7 @@ export const busyBeeBrew = {
   itemId: 28501,
   itemIds: [28501, 33726, 34059],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 257 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 257 }],
   status: "supported",
   hashPlace: 115,
   createdAt: "2026-10-20T16:09:02.865Z",

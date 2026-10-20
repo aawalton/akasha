@@ -13,9 +13,9 @@ export const tenFootBeer = {
   itemIds: [28514, 33436, 33456, 33739],
   seconds: 9000,
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 283 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 260 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 260 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 283 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 260 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 260 },
   ],
   status: "supported",
   hashPlace: 123,

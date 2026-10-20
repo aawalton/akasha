@@ -11,7 +11,7 @@ export const spicyBeetSalad = {
   itemId: 28309,
   itemIds: [28309, 28382, 42811],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 1814 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 1814 }],
   status: "supported",
   hashPlace: 46,
   createdAt: "2026-10-20T16:09:02.865Z",

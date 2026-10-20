@@ -11,7 +11,7 @@ export const skyrimJazbayCrostata = {
   itemId: 33909,
   itemIds: [33909, 57086, 57087],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 3704 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 3704 }],
   status: "supported",
   hashPlace: 220,
   createdAt: "2026-10-20T16:09:02.865Z",

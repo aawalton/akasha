@@ -11,7 +11,7 @@ export const coldCyrodilicCornBread = {
   itemId: 32124,
   itemIds: [32124, 32136],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 3150 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 3150 }],
   status: "supported",
   hashPlace: 168,
   createdAt: "2026-10-20T16:09:02.865Z",

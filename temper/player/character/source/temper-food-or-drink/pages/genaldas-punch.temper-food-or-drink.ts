@@ -14,9 +14,9 @@ export const genaldasPunch = {
   seconds: 9000,
   level: "Scaled",
   effects: [
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 344 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 344 },
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 378 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 344 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 344 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 378 },
   ],
   status: "supported",
   hashPlace: 345,

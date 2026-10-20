@@ -12,9 +12,9 @@ export const sweetSkeeverGumbo = {
   itemIds: [57081],
   seconds: 9000,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 2047 },
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 1883 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 1883 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 2047 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 1883 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 1883 },
   ],
   status: "supported",
   hashPlace: 256,

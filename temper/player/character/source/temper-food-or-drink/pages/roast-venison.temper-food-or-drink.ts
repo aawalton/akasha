@@ -11,7 +11,7 @@ export const roastVenison = {
   itemId: 28289,
   itemIds: [28289, 28362, 42804],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 1156 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 1156 }],
   status: "supported",
   hashPlace: 38,
   createdAt: "2026-10-20T16:09:02.865Z",

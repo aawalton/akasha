@@ -12,9 +12,9 @@ export const corintheCornBeef = {
   itemIds: [57080],
   seconds: 9000,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 1785 },
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 1642 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 1642 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 1785 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 1642 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 1642 },
   ],
   status: "supported",
   hashPlace: 255,

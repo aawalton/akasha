@@ -11,7 +11,7 @@ export const garlicPumpkinSeeds = {
   itemId: 33490,
   itemIds: [33490, 33552, 42814],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 2192 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 2192 }],
   status: "supported",
   hashPlace: 188,
   createdAt: "2026-10-20T16:09:02.865Z",

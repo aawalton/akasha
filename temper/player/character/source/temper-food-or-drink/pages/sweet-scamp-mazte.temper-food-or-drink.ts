@@ -11,7 +11,7 @@ export const sweetScampMazte = {
   itemId: 28437,
   itemIds: [28437, 57170, 57173],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 446 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 446 }],
   status: "supported",
   hashPlace: 82,
   createdAt: "2026-10-20T16:09:02.865Z",

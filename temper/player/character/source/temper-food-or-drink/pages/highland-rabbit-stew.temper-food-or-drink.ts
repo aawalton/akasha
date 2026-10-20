@@ -12,8 +12,8 @@ export const highlandRabbitStew = {
   itemIds: [33498, 33560, 42786],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 2368 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 2167 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 2368 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 2167 },
   ],
   status: "supported",
   hashPlace: 191,

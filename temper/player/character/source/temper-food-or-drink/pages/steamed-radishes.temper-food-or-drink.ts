@@ -11,7 +11,7 @@ export const steamedRadishes = {
   itemId: 28325,
   itemIds: [28325, 33358, 33831],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 1058 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 1058 }],
   status: "supported",
   hashPlace: 53,
   createdAt: "2026-10-20T16:09:02.865Z",

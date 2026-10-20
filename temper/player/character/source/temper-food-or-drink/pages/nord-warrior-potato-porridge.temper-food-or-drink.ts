@@ -12,7 +12,7 @@ export const nordWarriorPotatoPorridge = {
   itemIds: [61085],
   seconds: 3960,
   level: "CP100",
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 4970 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 4970 }],
   status: "supported",
   hashPlace: 296,
   createdAt: "2026-10-20T16:09:02.865Z",

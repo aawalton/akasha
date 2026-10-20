@@ -11,7 +11,7 @@ export const flatElthericHooch = {
   itemId: 32091,
   itemIds: [32091, 32103, 37794, 37842],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 192 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 192 }],
   status: "supported",
   hashPlace: 150,
   createdAt: "2026-10-20T16:09:02.865Z",

@@ -12,7 +12,7 @@ export const curriedKwamaScribRisotto = {
   itemIds: [57628, 57634],
   seconds: 3960,
   level: "CP10",
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 4312 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 4312 }],
   status: "supported",
   hashPlace: 274,
   createdAt: "2026-10-20T16:09:02.865Z",

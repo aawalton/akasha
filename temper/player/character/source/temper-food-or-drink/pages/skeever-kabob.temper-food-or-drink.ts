@@ -12,7 +12,7 @@ export const skeeverKabob = {
   itemId: 159497,
   itemIds: [159497],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 385 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 385 }],
   status: "partially-supported",
   hashPlace: 341,
   createdAt: "2026-10-20T16:09:02.865Z",

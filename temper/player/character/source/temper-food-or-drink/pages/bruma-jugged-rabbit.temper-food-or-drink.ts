@@ -11,7 +11,7 @@ export const brumaJuggedRabbit = {
   itemId: 33801,
   itemIds: [33801, 33873, 33885],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 3634 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 3634 }],
   status: "supported",
   hashPlace: 210,
   createdAt: "2026-10-20T16:09:02.865Z",

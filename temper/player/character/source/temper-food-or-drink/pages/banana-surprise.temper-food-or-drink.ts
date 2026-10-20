@@ -11,7 +11,7 @@ export const bananaSurprise = {
   itemId: 28281,
   itemIds: [28281, 33825, 33837],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 680 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 680 }],
   status: "supported",
   hashPlace: 36,
   createdAt: "2026-10-20T16:09:02.865Z",

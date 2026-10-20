@@ -13,7 +13,7 @@ export const genaldasWine = {
   itemIds: [188143],
   seconds: 9000,
   level: "Scaled",
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 574 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 574 }],
   status: "supported",
   hashPlace: 346,
   createdAt: "2026-10-20T16:09:02.865Z",

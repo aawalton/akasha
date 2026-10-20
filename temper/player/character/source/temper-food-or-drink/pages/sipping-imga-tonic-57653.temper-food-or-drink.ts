@@ -12,7 +12,7 @@ export const sippingImgaTonic57653 = {
   itemIds: [57653, 61077, 61078],
   seconds: 3960,
   level: "CP50",
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 441 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 441 }],
   status: "supported",
   hashPlace: 290,
   createdAt: "2026-10-20T16:09:02.865Z",

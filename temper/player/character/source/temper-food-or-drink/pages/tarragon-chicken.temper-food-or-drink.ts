@@ -11,7 +11,7 @@ export const tarragonChicken = {
   itemId: 28301,
   itemIds: [28301, 28334, 28374],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 1569 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 1569 }],
   status: "supported",
   hashPlace: 42,
   createdAt: "2026-10-20T16:09:02.865Z",

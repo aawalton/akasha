@@ -11,7 +11,7 @@ export const shimmereneTonic = {
   itemId: 28517,
   itemIds: [28517, 57174, 57175],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 408 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 408 }],
   status: "supported",
   hashPlace: 125,
   createdAt: "2026-10-20T16:09:02.865Z",

@@ -12,7 +12,7 @@ export const combwortFlatbread = {
   itemIds: [61084],
   seconds: 3960,
   level: "CP50",
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 4410 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 4410 }],
   status: "supported",
   hashPlace: 295,
   createdAt: "2026-10-20T16:09:02.865Z",

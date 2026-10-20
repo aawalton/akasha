@@ -14,9 +14,9 @@ export const malacathsHammer = {
   seconds: 9000,
   level: "CP50",
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 378 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 347 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 347 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 378 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 347 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 347 },
   ],
   status: "supported",
   hashPlace: 106,

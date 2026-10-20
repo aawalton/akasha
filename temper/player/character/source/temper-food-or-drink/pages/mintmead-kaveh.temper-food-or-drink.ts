@@ -12,8 +12,8 @@ export const mintmeadKaveh = {
   itemIds: [28508, 33735, 34068],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 246 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 246 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 246 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 246 },
   ],
   status: "supported",
   hashPlace: 118,

@@ -14,8 +14,8 @@ export const crispAndCrunchyPumpkinSnackSkewer = {
   seconds: 9000,
   level: "Scaled",
   effects: [
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 4592 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 4592 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 4592 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 4592 },
   ],
   status: "supported",
   hashPlace: 324,

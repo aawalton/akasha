@@ -14,8 +14,8 @@ export const invigoratedStewedMerringar = {
   seconds: 5400,
   level: "CP160",
   effects: [
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 4928 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 4928 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 4928 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 4928 },
   ],
   hashPlace: 6,
   createdAt: "2026-09-27T00:56:31.589Z",

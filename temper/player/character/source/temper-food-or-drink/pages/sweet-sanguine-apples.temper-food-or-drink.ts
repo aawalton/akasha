@@ -13,7 +13,7 @@ export const sweetSanguineApples = {
   itemIds: [87685, 112435],
   seconds: 9000,
   level: "Scaled",
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 5600 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 5600 }],
   status: "supported",
   hashPlace: 323,
   createdAt: "2026-10-20T16:09:02.865Z",

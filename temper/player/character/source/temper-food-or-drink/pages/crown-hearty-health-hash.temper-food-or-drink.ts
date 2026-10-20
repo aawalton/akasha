@@ -13,7 +13,7 @@ export const crownHeartyHealthHash = {
   itemIds: [64494],
   seconds: 9000,
   level: "Scaled",
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 6216 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 6216 }],
   status: "supported",
   hashPlace: 300,
   createdAt: "2026-10-20T16:09:02.865Z",

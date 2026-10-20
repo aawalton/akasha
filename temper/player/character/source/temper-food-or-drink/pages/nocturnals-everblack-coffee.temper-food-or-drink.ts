@@ -12,7 +12,7 @@ export const nocturnalsEverblackCoffee = {
   itemIds: [57654],
   seconds: 3960,
   level: "CP100",
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 497 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 497 }],
   status: "supported",
   hashPlace: 291,
   createdAt: "2026-10-20T16:09:02.865Z",

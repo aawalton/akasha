@@ -13,8 +13,8 @@ export const telvanniTea = {
   seconds: 5400,
   level: "CP50",
   effects: [
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 415 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 415 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 415 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 415 },
   ],
   status: "supported",
   hashPlace: 230,

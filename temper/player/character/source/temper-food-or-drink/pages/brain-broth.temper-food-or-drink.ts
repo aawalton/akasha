@@ -12,9 +12,7 @@ export const brainBroth = {
   itemId: 64266,
   itemIds: [64266],
   seconds: 2400,
-  effects: [
-    { "metric": "temper-metric/experience-gain", "effectType": "fractional-change", "value": 1 },
-  ],
+  effects: [{ metric: "temper-metric/experience-gain", effectType: "fractional-change", value: 1 }],
   status: "supported",
   hashPlace: 298,
   createdAt: "2026-10-20T16:09:02.865Z",

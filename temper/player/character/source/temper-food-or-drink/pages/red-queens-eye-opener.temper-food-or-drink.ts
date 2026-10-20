@@ -13,9 +13,9 @@ export const redQueensEyeOpener = {
   itemIds: [57156],
   seconds: 9000,
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 204 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 188 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 188 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 204 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 188 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 188 },
   ],
   status: "supported",
   hashPlace: 265,

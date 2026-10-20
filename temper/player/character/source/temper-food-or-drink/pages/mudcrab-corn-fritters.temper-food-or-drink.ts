@@ -12,8 +12,8 @@ export const mudcrabCornFritters = {
   itemIds: [33596, 33797, 33857],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 3026 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 2769 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 3026 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 2769 },
   ],
   status: "supported",
   hashPlace: 202,

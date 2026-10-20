@@ -11,7 +11,7 @@ export const congealedCinnamonGorapples = {
   itemId: 37805,
   itemIds: [37805, 37853, 37901, 37949],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 2100 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 2100 }],
   status: "supported",
   hashPlace: 236,
   createdAt: "2026-10-20T16:09:02.865Z",

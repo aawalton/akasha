@@ -12,7 +12,7 @@ export const houseHlaaluPumpkinRisotto = {
   itemIds: [57138, 57139, 57140],
   seconds: 3960,
   level: "CP100",
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 5670 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 5670 }],
   status: "supported",
   hashPlace: 259,
   createdAt: "2026-10-20T16:09:02.865Z",

@@ -12,7 +12,7 @@ export const oldOrsiniumBloodSoup = {
   itemIds: [64470],
   seconds: 3960,
   level: "CP150",
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 6773 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 6773 }],
   status: "supported",
   hashPlace: 299,
   createdAt: "2026-10-20T16:09:02.865Z",

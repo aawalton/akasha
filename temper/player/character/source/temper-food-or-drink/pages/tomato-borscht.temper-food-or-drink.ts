@@ -12,8 +12,8 @@ export const tomatoBorscht = {
   itemIds: [28320, 33411, 33531],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 1565 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 1565 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 1565 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 1565 },
   ],
   status: "supported",
   hashPlace: 51,

@@ -11,7 +11,7 @@ export const nutBrownAle30438 = {
   itemId: 30438,
   itemIds: [30438, 30450, 37770, 37818, 37866, 37914],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 38 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 38 }],
   status: "supported",
   hashPlace: 127,
   createdAt: "2026-10-20T16:09:02.865Z",

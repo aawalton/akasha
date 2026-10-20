@@ -12,8 +12,8 @@ export const sweetLemonale = {
   itemIds: [28427, 33638, 33971],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 269 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 246 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 269 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 246 },
   ],
   status: "supported",
   hashPlace: 77,

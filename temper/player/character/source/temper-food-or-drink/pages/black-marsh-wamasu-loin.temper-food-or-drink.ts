@@ -12,8 +12,8 @@ export const blackMarshWamasuLoin = {
   itemIds: [43158, 57092, 57093],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 3355 },
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 3070 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 3355 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 3070 },
   ],
   status: "supported",
   hashPlace: 253,

@@ -12,7 +12,7 @@ export const comberryCitrusQuencher = {
   itemIds: [57203, 57204, 57205],
   seconds: 3960,
   level: "CP100",
-  effects: [{ "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 567 }],
+  effects: [{ metric: "temper-metric/magicka-recovery", effectType: "integer", value: 567 }],
   status: "supported",
   hashPlace: 268,
   createdAt: "2026-10-20T16:09:02.865Z",

@@ -12,7 +12,7 @@ export const alabasterHoneyRum57642 = {
   itemIds: [57642],
   seconds: 3960,
   level: "CP100",
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 546 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 546 }],
   status: "supported",
   hashPlace: 283,
   createdAt: "2026-10-20T16:09:02.865Z",

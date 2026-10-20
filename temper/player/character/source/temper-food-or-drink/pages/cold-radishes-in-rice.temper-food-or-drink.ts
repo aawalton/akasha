@@ -11,7 +11,7 @@ export const coldRadishesInRice = {
   itemId: 32070,
   itemIds: [32070, 32082, 37785, 37833, 37881, 37929],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 1050 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 1050 }],
   status: "supported",
   hashPlace: 141,
   createdAt: "2026-10-20T16:09:02.865Z",

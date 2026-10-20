@@ -13,8 +13,8 @@ export const blacklightGingerMazte = {
   seconds: 5400,
   level: "CP10",
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 407 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 373 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 407 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 373 },
   ],
   status: "supported",
   hashPlace: 85,

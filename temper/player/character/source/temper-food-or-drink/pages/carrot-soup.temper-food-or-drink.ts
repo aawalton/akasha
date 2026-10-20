@@ -11,7 +11,7 @@ export const carrotSoup = {
   itemId: 28321,
   itemIds: [28321, 28354, 33813],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 680 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 680 }],
   status: "supported",
   hashPlace: 52,
   createdAt: "2026-10-20T16:09:02.865Z",

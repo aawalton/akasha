@@ -11,7 +11,7 @@ export const saltedCod = {
   itemId: 33502,
   itemIds: [33502, 33563, 33861],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 2808 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 2808 }],
   status: "supported",
   hashPlace: 192,
   createdAt: "2026-10-20T16:09:02.865Z",

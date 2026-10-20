@@ -14,8 +14,8 @@ export const bowlOfPeeledEyeballs = {
   seconds: 9000,
   level: "Scaled",
   effects: [
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 459 },
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 505 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 459 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 505 },
   ],
   status: "supported",
   hashPlace: 325,

@@ -13,8 +13,8 @@ export const comberryBourbon = {
   seconds: 5400,
   level: "CP10",
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 407 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 373 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 407 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 373 },
   ],
   status: "supported",
   hashPlace: 185,

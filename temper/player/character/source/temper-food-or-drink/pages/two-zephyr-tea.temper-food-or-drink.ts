@@ -11,7 +11,7 @@ export const twoZephyrTea = {
   itemId: 28473,
   itemIds: [28473, 57159, 57160],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 370 }],
+  effects: [{ metric: "temper-metric/magicka-recovery", effectType: "integer", value: 370 }],
   status: "supported",
   hashPlace: 101,
   createdAt: "2026-10-20T16:09:02.865Z",

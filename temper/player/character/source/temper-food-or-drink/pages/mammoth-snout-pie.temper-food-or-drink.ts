@@ -11,7 +11,7 @@ export const mammothSnoutPie = {
   itemId: 33903,
   itemIds: [33903, 57085, 57088],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 4047 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 4047 }],
   status: "supported",
   hashPlace: 218,
   createdAt: "2026-10-20T16:09:02.865Z",

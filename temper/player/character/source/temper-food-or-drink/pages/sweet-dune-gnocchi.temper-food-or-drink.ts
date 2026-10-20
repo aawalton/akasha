@@ -12,8 +12,8 @@ export const sweetDuneGnocchi = {
   itemIds: [33591, 33852, 42759],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 2468 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 2468 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 2468 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 2468 },
   ],
   status: "supported",
   hashPlace: 199,

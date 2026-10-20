@@ -11,7 +11,7 @@ export const greenSalad = {
   itemId: 30445,
   itemIds: [30445, 30457, 37827, 37875, 37923],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 700 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 700 }],
   status: "supported",
   hashPlace: 134,
   createdAt: "2026-10-20T16:09:02.865Z",

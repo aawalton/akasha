@@ -12,7 +12,7 @@ export const comelyWenchWhisky = {
   itemIds: [57640, 61067, 61068],
   seconds: 3960,
   level: "CP10",
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 431 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 431 }],
   status: "supported",
   hashPlace: 281,
   createdAt: "2026-10-20T16:09:02.865Z",

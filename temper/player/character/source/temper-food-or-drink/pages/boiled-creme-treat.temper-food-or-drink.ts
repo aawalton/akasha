@@ -13,8 +13,8 @@ export const boiledCremeTreat = {
   seconds: 5400,
   level: "CP100",
   effects: [
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 4635 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 4635 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 4635 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 4635 },
   ],
   status: "supported",
   hashPlace: 263,

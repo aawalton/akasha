@@ -12,8 +12,8 @@ export const centurionsFriendKaveh = {
   itemIds: [33458, 57180, 57181],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 337 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 337 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 337 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 337 },
   ],
   status: "supported",
   hashPlace: 187,

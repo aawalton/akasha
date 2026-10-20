@@ -11,7 +11,7 @@ export const congealedDeshaanHoneydewHorsDouevre = {
   itemId: 37793,
   itemIds: [37793, 37841, 37889, 37937],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 1400 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 1400 }],
   status: "supported",
   hashPlace: 231,
   createdAt: "2026-10-20T16:09:02.865Z",

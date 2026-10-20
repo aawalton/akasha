@@ -12,8 +12,8 @@ export const redDeerStew = {
   itemIds: [28299, 28348, 28373],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 1381 },
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 1264 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 1381 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 1264 },
   ],
   status: "supported",
   hashPlace: 41,

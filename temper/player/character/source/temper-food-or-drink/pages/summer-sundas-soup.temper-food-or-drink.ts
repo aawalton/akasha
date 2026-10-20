@@ -11,7 +11,7 @@ export const summerSundasSoup = {
   itemId: 61040,
   itemIds: [61040],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 3150 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 3150 }],
   status: "supported",
   hashPlace: 294,
   createdAt: "2026-10-20T16:09:02.865Z",

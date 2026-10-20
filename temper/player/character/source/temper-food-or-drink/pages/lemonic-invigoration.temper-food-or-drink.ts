@@ -11,7 +11,7 @@ export const lemonicInvigoration = {
   itemId: 57651,
   itemIds: [57651, 61065, 61066],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 350 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 350 }],
   status: "supported",
   hashPlace: 288,
   createdAt: "2026-10-20T16:09:02.865Z",

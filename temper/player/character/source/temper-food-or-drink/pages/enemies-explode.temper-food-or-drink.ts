@@ -13,9 +13,9 @@ export const enemiesExplode = {
   itemIds: [33434, 33694, 33979, 34027],
   seconds: 9000,
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 257 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 236 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 236 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 257 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 236 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 236 },
   ],
   status: "supported",
   hashPlace: 186,

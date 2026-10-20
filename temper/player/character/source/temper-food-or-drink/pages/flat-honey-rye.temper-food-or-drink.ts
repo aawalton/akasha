@@ -11,7 +11,7 @@ export const flatHoneyRye = {
   itemId: 32097,
   itemIds: [32097, 32109, 37800, 37848, 61051],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 231 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 231 }],
   status: "supported",
   hashPlace: 156,
   createdAt: "2026-10-20T16:09:02.865Z",

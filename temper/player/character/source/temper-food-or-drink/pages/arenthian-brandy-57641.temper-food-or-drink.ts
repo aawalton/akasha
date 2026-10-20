@@ -12,7 +12,7 @@ export const arenthianBrandy57641 = {
   itemIds: [57641, 61073, 61074],
   seconds: 3960,
   level: "CP50",
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 485 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 485 }],
   status: "supported",
   hashPlace: 282,
   createdAt: "2026-10-20T16:09:02.865Z",

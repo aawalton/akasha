@@ -11,7 +11,7 @@ export const flatTawnyPort = {
   itemId: 32073,
   itemIds: [32073, 32085, 37788, 37836, 61047],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 154 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 154 }],
   status: "supported",
   hashPlace: 144,
   createdAt: "2026-10-20T16:09:02.865Z",

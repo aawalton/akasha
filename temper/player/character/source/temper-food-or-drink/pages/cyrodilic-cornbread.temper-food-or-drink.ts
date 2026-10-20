@@ -11,7 +11,7 @@ export const cyrodilicCornbread = {
   itemId: 33897,
   itemIds: [33897, 57089, 57090],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 3704 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 3704 }],
   status: "supported",
   hashPlace: 215,
   createdAt: "2026-10-20T16:09:02.865Z",

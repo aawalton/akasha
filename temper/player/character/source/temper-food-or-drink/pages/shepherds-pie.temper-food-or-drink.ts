@@ -12,8 +12,8 @@ export const shepherdsPie = {
   itemIds: [28316, 33409, 33528],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 1710 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 1565 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 1710 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 1565 },
   ],
   status: "supported",
   hashPlace: 49,

@@ -11,7 +11,7 @@ export const puckermintTea = {
   itemId: 28469,
   itemIds: [28469, 33690, 34023],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 332 }],
+  effects: [{ metric: "temper-metric/magicka-recovery", effectType: "integer", value: 332 }],
   status: "supported",
   hashPlace: 99,
   createdAt: "2026-10-20T16:09:02.865Z",

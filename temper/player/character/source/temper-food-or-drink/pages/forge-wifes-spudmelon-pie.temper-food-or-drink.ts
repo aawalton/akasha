@@ -12,8 +12,8 @@ export const forgeWifesSpudmelonPie = {
   itemIds: [33810, 33870, 33895],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 2769 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 2769 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 2769 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 2769 },
   ],
   status: "supported",
   hashPlace: 213,

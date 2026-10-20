@@ -11,7 +11,7 @@ export const grapePreserves = {
   itemId: 30448,
   itemIds: [30448, 30460, 37775, 37823, 37871, 37919],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 350 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 350 }],
   status: "supported",
   hashPlace: 137,
   createdAt: "2026-10-20T16:09:02.865Z",

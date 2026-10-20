@@ -15,9 +15,9 @@ export const dubiousCamoranThrone = {
   seconds: 9000,
   level: "Scaled",
   effects: [
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 315 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 2856 },
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 3094 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 315 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 2856 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 3094 },
   ],
   status: "supported",
   hashPlace: 32,

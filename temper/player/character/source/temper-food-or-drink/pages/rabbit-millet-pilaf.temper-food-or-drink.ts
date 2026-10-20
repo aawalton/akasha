@@ -11,7 +11,7 @@ export const rabbitMilletPilaf = {
   itemId: 28313,
   itemIds: [28313, 28386, 33849],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 1982 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 1982 }],
   status: "supported",
   hashPlace: 48,
   createdAt: "2026-10-20T16:09:02.865Z",

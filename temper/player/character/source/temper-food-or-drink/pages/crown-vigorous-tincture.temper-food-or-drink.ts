@@ -14,8 +14,8 @@ export const crownVigorousTincture = {
   seconds: 5400,
   level: "Scaled",
   effects: [
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 493 },
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 539 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 493 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 539 },
   ],
   status: "supported",
   hashPlace: 339,

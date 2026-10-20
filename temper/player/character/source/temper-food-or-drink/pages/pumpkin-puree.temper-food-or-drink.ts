@@ -11,7 +11,7 @@ export const pumpkinPuree = {
   itemId: 30449,
   itemIds: [30449, 30461, 37780, 37781, 37829, 37877, 37925],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 700 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 700 }],
   status: "supported",
   hashPlace: 138,
   createdAt: "2026-10-20T16:09:02.865Z",

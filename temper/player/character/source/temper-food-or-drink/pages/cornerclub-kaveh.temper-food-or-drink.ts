@@ -12,8 +12,8 @@ export const cornerclubKaveh = {
   itemIds: [28504, 33729, 34062],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 216 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 216 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 216 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 216 },
   ],
   status: "supported",
   hashPlace: 116,

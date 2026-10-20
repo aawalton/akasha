@@ -12,8 +12,8 @@ export const ginkgoDoubleBrandy = {
   itemIds: [28464, 33681, 34014],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 236 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 216 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 236 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 216 },
   ],
   status: "supported",
   hashPlace: 95,

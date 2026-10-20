@@ -13,9 +13,9 @@ export const greef = {
   itemIds: [57155],
   seconds: 9000,
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 178 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 164 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 164 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 178 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 164 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 164 },
   ],
   status: "supported",
   hashPlace: 264,

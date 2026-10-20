@@ -12,7 +12,7 @@ export const argonianSaddleCuredRabbit = {
   itemIds: [43142, 57123, 57126],
   seconds: 3960,
   level: "CP50",
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 5534 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 5534 }],
   status: "supported",
   hashPlace: 250,
   createdAt: "2026-10-20T16:09:02.865Z",

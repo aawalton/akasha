@@ -12,7 +12,7 @@ export const westWealdCornChowder = {
   itemIds: [32160, 57115, 57116],
   seconds: 3960,
   level: "CP10",
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 4536 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 4536 }],
   status: "supported",
   hashPlace: 182,
   createdAt: "2026-10-20T16:09:02.865Z",

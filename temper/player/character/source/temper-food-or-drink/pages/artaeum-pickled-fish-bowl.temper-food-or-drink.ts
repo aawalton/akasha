@@ -15,8 +15,8 @@ export const artaeumPickledFishBowl = {
   seconds: 9000,
   level: "Scaled",
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 5414 },
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 4938 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 5414 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 4938 },
   ],
   status: "partially-supported",
   hashPlace: 12,

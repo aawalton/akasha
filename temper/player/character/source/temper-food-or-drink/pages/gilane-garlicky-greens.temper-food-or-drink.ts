@@ -11,7 +11,7 @@ export const gilaneGarlickyGreens = {
   itemId: 28297,
   itemIds: [28297, 28330, 28370],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 1436 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 1436 }],
   status: "supported",
   hashPlace: 40,
   createdAt: "2026-10-20T16:09:02.865Z",

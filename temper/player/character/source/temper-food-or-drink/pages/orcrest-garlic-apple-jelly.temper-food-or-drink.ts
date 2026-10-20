@@ -12,7 +12,7 @@ export const orcrestGarlicAppleJelly = {
   itemIds: [43094, 57112, 57113],
   seconds: 3960,
   level: "CP10",
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 4536 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 4536 }],
   status: "supported",
   hashPlace: 247,
   createdAt: "2026-10-20T16:09:02.865Z",

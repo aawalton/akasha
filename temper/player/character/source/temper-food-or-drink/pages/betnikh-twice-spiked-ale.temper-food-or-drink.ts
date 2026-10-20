@@ -14,8 +14,8 @@ export const betnikhTwiceSpikedAle = {
   seconds: 9000,
   level: "Scaled",
   effects: [
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 493 },
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 539 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 493 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 539 },
   ],
   status: "partially-supported",
   hashPlace: 329,

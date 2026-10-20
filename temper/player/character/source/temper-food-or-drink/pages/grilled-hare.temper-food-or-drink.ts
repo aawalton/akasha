@@ -11,7 +11,7 @@ export const grilledHare = {
   itemId: 30447,
   itemIds: [30447, 30459, 37828, 37876, 37924],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 770 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 770 }],
   status: "supported",
   hashPlace: 136,
   createdAt: "2026-10-20T16:09:02.865Z",

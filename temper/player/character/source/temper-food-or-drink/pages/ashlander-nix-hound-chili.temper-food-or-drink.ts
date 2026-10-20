@@ -13,8 +13,8 @@ export const ashlanderNixHoundChili = {
   seconds: 5400,
   level: "CP10",
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 4079 },
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 3732 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 4079 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 3732 },
   ],
   status: "supported",
   hashPlace: 227,

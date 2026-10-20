@@ -14,8 +14,8 @@ export const crownVigorousRagout = {
   seconds: 5400,
   level: "Scaled",
   effects: [
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 4936 },
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 5395 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 4936 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 5395 },
   ],
   status: "supported",
   hashPlace: 337,

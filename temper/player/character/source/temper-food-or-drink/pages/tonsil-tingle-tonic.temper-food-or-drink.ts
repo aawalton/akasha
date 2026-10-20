@@ -11,7 +11,7 @@ export const tonsilTingleTonic = {
   itemId: 28489,
   itemIds: [28489, 33708, 34041],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 143 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 143 }],
   status: "supported",
   hashPlace: 109,
   createdAt: "2026-10-20T16:09:02.865Z",

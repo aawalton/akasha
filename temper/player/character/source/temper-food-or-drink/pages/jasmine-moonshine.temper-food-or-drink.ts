@@ -12,8 +12,8 @@ export const jasmineMoonshine = {
   itemIds: [28415, 33620, 33953],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 171 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 156 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 171 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 156 },
   ],
   status: "supported",
   hashPlace: 71,

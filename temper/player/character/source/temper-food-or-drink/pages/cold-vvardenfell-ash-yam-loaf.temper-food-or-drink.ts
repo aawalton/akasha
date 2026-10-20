@@ -11,7 +11,7 @@ export const coldVvardenfellAshYamLoaf = {
   itemId: 32142,
   itemIds: [32142, 32154],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 3500 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 3500 }],
   status: "supported",
   hashPlace: 175,
   createdAt: "2026-10-20T16:09:02.865Z",

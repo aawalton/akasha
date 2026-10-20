@@ -12,9 +12,9 @@ export const rieklingSucklingBristleback = {
   itemIds: [57082],
   seconds: 9000,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 2310 },
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 2125 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 2125 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 2310 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 2125 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 2125 },
   ],
   status: "supported",
   hashPlace: 257,

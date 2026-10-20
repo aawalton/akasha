@@ -12,8 +12,8 @@ export const appleMashedPotatoes = {
   itemIds: [33511, 33573, 42799],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 2167 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 2167 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 2167 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 2167 },
   ],
   status: "supported",
   hashPlace: 195,

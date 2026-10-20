@@ -12,7 +12,7 @@ export const pickledCarrotSlurry57629 = {
   itemIds: [57629],
   seconds: 3960,
   level: "CP50",
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 4410 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 4410 }],
   status: "supported",
   hashPlace: 275,
   createdAt: "2026-10-20T16:09:02.865Z",

@@ -12,8 +12,8 @@ export const sereneAwareness = {
   itemIds: [28516, 57168, 57169],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 307 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 307 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 307 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 307 },
   ],
   status: "supported",
   hashPlace: 124,

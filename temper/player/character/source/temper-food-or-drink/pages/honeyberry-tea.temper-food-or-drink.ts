@@ -11,7 +11,7 @@ export const honeyberryTea = {
   itemId: 28449,
   itemIds: [28449, 33660, 33993],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 143 }],
+  effects: [{ metric: "temper-metric/magicka-recovery", effectType: "integer", value: 143 }],
   status: "supported",
   hashPlace: 88,
   createdAt: "2026-10-20T16:09:02.865Z",

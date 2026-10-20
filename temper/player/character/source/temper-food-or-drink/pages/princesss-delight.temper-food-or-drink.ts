@@ -13,7 +13,7 @@ export const princesssDelight = {
   itemIds: [120436],
   seconds: 9000,
   level: "Scaled",
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 5600 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 5600 }],
   status: "partially-supported",
   hashPlace: 335,
   createdAt: "2026-10-20T16:09:02.865Z",

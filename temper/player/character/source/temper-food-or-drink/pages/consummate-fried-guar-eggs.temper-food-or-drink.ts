@@ -12,9 +12,9 @@ export const consummateFriedGuarEggs = {
   itemIds: [28286],
   seconds: 9000,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 245 },
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 245 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 245 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 245 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 245 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 245 },
   ],
   status: "supported",
   hashPlace: 37,

@@ -13,8 +13,8 @@ export const everyMorndasCasserole = {
   seconds: 5400,
   level: "CP50",
   effects: [
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 4153 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 4153 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 4153 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 4153 },
   ],
   status: "supported",
   hashPlace: 252,

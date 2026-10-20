@@ -12,8 +12,8 @@ export const beefAndBeetsPasty = {
   itemIds: [33416, 33487, 33537],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 2039 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 1866 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 2039 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 1866 },
   ],
   status: "supported",
   hashPlace: 184,

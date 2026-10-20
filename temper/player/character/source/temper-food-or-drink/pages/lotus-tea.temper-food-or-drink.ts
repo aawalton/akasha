@@ -11,7 +11,7 @@ export const lotusTea = {
   itemId: 28445,
   itemIds: [28445, 32068, 32080, 33654, 33987, 37783, 37831, 37879, 37927],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 105 }],
+  effects: [{ metric: "temper-metric/magicka-recovery", effectType: "integer", value: 105 }],
   status: "supported",
   hashPlace: 87,
   createdAt: "2026-10-20T16:09:02.865Z",

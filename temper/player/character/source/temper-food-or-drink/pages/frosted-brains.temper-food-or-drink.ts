@@ -15,8 +15,8 @@ export const frostedBrains = {
   seconds: 9000,
   level: "Scaled",
   effects: [
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 4592 },
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 505 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 4592 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 505 },
   ],
   status: "supported",
   hashPlace: 9,

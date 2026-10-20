@@ -11,7 +11,7 @@ export const coldJerallViewInnCarrotCake = {
   itemId: 32100,
   itemIds: [32100, 32112, 32120, 37809, 37857, 37905, 37953],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 2450 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 2450 }],
   status: "supported",
   hashPlace: 158,
   createdAt: "2026-10-20T16:09:02.865Z",

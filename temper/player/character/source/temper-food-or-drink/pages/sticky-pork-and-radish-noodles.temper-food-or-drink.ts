@@ -14,8 +14,8 @@ export const stickyPorkAndRadishNoodles = {
   seconds: 5400,
   level: "CP150",
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 5395 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 4936 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 5395 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 4936 },
   ],
   status: "supported",
   hashPlace: 5,

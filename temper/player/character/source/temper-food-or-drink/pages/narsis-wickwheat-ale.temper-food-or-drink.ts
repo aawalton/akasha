@@ -12,8 +12,8 @@ export const narsisWickwheatAle = {
   itemIds: [28487, 57177, 57178],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 368 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 337 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 368 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 337 },
   ],
   status: "supported",
   hashPlace: 108,

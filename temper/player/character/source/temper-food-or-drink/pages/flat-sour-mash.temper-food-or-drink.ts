@@ -11,7 +11,7 @@ export const flatSourMash = {
   itemId: 32115,
   itemIds: [32115, 32127, 37902, 37950, 61053],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 269 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 269 }],
   status: "supported",
   hashPlace: 160,
   createdAt: "2026-10-20T16:09:02.865Z",

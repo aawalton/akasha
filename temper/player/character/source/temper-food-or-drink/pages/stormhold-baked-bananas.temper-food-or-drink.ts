@@ -11,7 +11,7 @@ export const stormholdBakedBananas = {
   itemId: 32132,
   itemIds: [32132, 37811, 37859, 37907, 37955],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 2450 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 2450 }],
   status: "supported",
   hashPlace: 171,
   createdAt: "2026-10-20T16:09:02.865Z",

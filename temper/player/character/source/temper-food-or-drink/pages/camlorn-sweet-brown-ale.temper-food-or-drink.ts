@@ -14,8 +14,8 @@ export const camlornSweetBrownAle = {
   seconds: 5400,
   level: "CP150",
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 539 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 493 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 539 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 493 },
   ],
   status: "supported",
   hashPlace: 22,

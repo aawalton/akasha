@@ -13,8 +13,8 @@ export const savoryMidYearPreserves = {
   seconds: 5400,
   level: "CP10",
   effects: [
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 3732 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 3732 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 3732 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 3732 },
   ],
   status: "supported",
   hashPlace: 55,

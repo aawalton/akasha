@@ -11,7 +11,7 @@ export const ginkgoTonic = {
   itemId: 28481,
   itemIds: [28481, 33696, 34029],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 68 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 68 }],
   status: "supported",
   hashPlace: 104,
   createdAt: "2026-10-20T16:09:02.865Z",

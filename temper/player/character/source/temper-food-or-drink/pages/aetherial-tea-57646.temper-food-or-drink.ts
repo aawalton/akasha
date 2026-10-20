@@ -12,7 +12,7 @@ export const aetherialTea57646 = {
   itemIds: [57646, 61069, 61070],
   seconds: 3960,
   level: "CP10",
-  effects: [{ "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 392 }],
+  effects: [{ metric: "temper-metric/magicka-recovery", effectType: "integer", value: 392 }],
   status: "supported",
   hashPlace: 285,
   createdAt: "2026-10-20T16:09:02.865Z",

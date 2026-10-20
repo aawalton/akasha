@@ -13,7 +13,7 @@ export const firstholdFruitAndCheesePlate = {
   abilityId: 61260,
   seconds: 3960,
   level: "CP150",
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 6048 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 6048 }],
   status: "supported",
   hashPlace: 2,
   createdAt: "2026-09-27T00:56:31.588Z",

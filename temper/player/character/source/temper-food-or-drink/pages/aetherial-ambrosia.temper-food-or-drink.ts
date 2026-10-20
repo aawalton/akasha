@@ -12,9 +12,7 @@ export const aetherialAmbrosia = {
   itemId: 120076,
   itemIds: [120076],
   seconds: 1800,
-  effects: [
-    { "metric": "temper-metric/experience-gain", "effectType": "fractional-change", "value": 1 },
-  ],
+  effects: [{ metric: "temper-metric/experience-gain", effectType: "fractional-change", value: 1 }],
   status: "supported",
   hashPlace: 334,
   createdAt: "2026-10-20T16:09:02.865Z",

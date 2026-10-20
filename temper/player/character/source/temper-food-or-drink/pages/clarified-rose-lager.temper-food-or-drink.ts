@@ -12,8 +12,8 @@ export const clarifiedRoseLager = {
   itemIds: [28419, 33626, 33959],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 203 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 186 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 203 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 186 },
   ],
   status: "supported",
   hashPlace: 73,

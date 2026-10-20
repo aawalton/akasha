@@ -11,7 +11,7 @@ export const bitterlemonTea = {
   itemId: 28457,
   itemIds: [28457, 33672, 34005],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 219 }],
+  effects: [{ metric: "temper-metric/magicka-recovery", effectType: "integer", value: 219 }],
   status: "supported",
   hashPlace: 92,
   createdAt: "2026-10-20T16:09:02.865Z",

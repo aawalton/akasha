@@ -15,8 +15,8 @@ export const candiedJestersCoins = {
   seconds: 9000,
   level: "Scaled",
   effects: [
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 4592 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 459 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 4592 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 459 },
   ],
   status: "supported",
   hashPlace: 11,

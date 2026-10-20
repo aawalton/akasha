@@ -14,9 +14,9 @@ export const witchmothersPartyPunch = {
   seconds: 9000,
   level: "Scaled",
   effects: [
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 357 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 357 },
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 392 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 357 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 357 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 392 },
   ],
   status: "supported",
   hashPlace: 326,

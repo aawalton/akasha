@@ -11,7 +11,7 @@ export const jasmineTea = {
   itemId: 28441,
   itemIds: [28441, 33648, 33981],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 68 }],
+  effects: [{ metric: "temper-metric/magicka-recovery", effectType: "integer", value: 68 }],
   status: "supported",
   hashPlace: 84,
   createdAt: "2026-10-20T16:09:02.865Z",

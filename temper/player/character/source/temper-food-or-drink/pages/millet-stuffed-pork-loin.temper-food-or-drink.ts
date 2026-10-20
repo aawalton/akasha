@@ -12,7 +12,7 @@ export const milletStuffedPorkLoin = {
   itemIds: [43088, 57111, 57114],
   seconds: 3960,
   level: "CP10",
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 4956 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 4956 }],
   status: "supported",
   hashPlace: 245,
   createdAt: "2026-10-20T16:09:02.865Z",

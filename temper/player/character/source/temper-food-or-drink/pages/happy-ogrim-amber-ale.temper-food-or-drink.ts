@@ -13,8 +13,8 @@ export const happyOgrimAmberAle = {
   seconds: 5400,
   level: "CP100",
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 506 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 463 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 506 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 463 },
   ],
   status: "supported",
   hashPlace: 271,

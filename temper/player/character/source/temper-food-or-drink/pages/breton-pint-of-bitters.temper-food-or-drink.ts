@@ -13,8 +13,8 @@ export const bretonPintOfBitters = {
   seconds: 5400,
   level: "CP50",
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 454 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 415 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 454 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 415 },
   ],
   status: "supported",
   hashPlace: 228,

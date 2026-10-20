@@ -15,8 +15,8 @@ export const crunchySpiderSkewer = {
   seconds: 9000,
   level: "Scaled",
   effects: [
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 4592 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 459 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 4592 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 459 },
   ],
   status: "supported",
   hashPlace: 8,

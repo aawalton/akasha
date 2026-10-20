@@ -14,9 +14,9 @@ export const springLoadedInfusion = {
   seconds: 9000,
   level: "Scaled",
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 4165 },
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 3867 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 3867 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 4165 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 3867 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 3867 },
   ],
   status: "supported",
   hashPlace: 33,

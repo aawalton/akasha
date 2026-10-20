@@ -12,8 +12,8 @@ export const pyandoneaMerlot = {
   itemIds: [28472, 33693, 34026],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 302 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 276 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 302 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 276 },
   ],
   status: "supported",
   hashPlace: 100,

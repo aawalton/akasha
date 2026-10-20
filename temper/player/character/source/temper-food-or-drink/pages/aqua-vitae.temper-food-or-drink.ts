@@ -13,9 +13,9 @@ export const aquaVitae = {
   itemIds: [57157],
   seconds: 9000,
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 231 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 212 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 212 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 231 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 212 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 212 },
   ],
   status: "supported",
   hashPlace: 266,

@@ -11,7 +11,7 @@ export const roastPig = {
   itemId: 28358,
   itemIds: [28358, 33526, 33819],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 743 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 743 }],
   status: "supported",
   hashPlace: 61,
   createdAt: "2026-10-20T16:09:02.865Z",

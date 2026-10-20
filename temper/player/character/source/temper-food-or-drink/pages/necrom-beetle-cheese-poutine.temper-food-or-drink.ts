@@ -12,8 +12,8 @@ export const necromBeetleCheesePoutine = {
   itemIds: [43092, 57091, 57094],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 3355 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 3070 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 3355 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 3070 },
   ],
   status: "supported",
   hashPlace: 246,

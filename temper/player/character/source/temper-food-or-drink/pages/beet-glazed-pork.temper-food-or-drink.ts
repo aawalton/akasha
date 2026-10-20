@@ -12,8 +12,8 @@ export const beetGlazedPork = {
   itemIds: [28304, 28353, 33403],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 1381 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 1264 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 1381 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 1264 },
   ],
   status: "supported",
   hashPlace: 43,

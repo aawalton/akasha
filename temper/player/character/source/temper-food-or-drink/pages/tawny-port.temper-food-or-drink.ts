@@ -11,7 +11,7 @@ export const tawnyPort = {
   itemId: 28413,
   itemIds: [28413, 33618, 33951],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 198 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 198 }],
   status: "supported",
   hashPlace: 69,
   createdAt: "2026-10-20T16:09:02.865Z",

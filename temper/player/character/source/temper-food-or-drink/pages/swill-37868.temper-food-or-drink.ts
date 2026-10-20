@@ -11,7 +11,7 @@ export const swill37868 = {
   itemId: 37868,
   itemIds: [37868, 37916],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 37 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 37 }],
   status: "supported",
   hashPlace: 239,
   createdAt: "2026-10-20T16:09:02.865Z",

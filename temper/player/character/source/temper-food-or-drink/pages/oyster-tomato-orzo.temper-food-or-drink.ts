@@ -12,8 +12,8 @@ export const oysterTomatoOrzo = {
   itemIds: [33913, 57105, 57106],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 3684 },
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 3371 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 3684 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 3371 },
   ],
   status: "supported",
   hashPlace: 221,

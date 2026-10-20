@@ -12,7 +12,7 @@ export const pirateQueenMintTea = {
   itemIds: [57648],
   seconds: 3960,
   level: "CP100",
-  effects: [{ "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 497 }],
+  effects: [{ metric: "temper-metric/magicka-recovery", effectType: "integer", value: 497 }],
   status: "supported",
   hashPlace: 287,
   createdAt: "2026-10-20T16:09:02.865Z",

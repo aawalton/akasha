@@ -12,8 +12,8 @@ export const deregulatedMushroomStew = {
   itemIds: [133554],
   seconds: 9000,
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 539 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 493 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 539 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 493 },
   ],
   status: "supported",
   hashPlace: 340,

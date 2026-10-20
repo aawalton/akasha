@@ -11,7 +11,7 @@ export const ginsengTonic = {
   itemId: 28485,
   itemIds: [28485, 32069, 32081, 33702, 34035, 37784, 37832, 37880, 37928],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 105 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 105 }],
   status: "supported",
   hashPlace: 107,
   createdAt: "2026-10-20T16:09:02.865Z",

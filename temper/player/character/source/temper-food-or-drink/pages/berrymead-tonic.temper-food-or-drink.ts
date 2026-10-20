@@ -11,7 +11,7 @@ export const berrymeadTonic = {
   itemId: 28505,
   itemIds: [28505, 33732, 34065],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 294 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 294 }],
   status: "supported",
   hashPlace: 117,
   createdAt: "2026-10-20T16:09:02.865Z",

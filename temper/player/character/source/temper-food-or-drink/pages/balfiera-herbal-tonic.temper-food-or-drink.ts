@@ -13,8 +13,8 @@ export const balfieraHerbalTonic = {
   seconds: 5400,
   level: "CP100",
   effects: [
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 463 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 463 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 463 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 463 },
   ],
   status: "supported",
   hashPlace: 272,

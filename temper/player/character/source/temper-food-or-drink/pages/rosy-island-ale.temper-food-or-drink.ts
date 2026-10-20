@@ -12,8 +12,8 @@ export const rosyIslandAle = {
   itemIds: [28435, 57164, 57167],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 335 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 307 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 335 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 307 },
   ],
   status: "supported",
   hashPlace: 81,

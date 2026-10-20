@@ -12,8 +12,8 @@ export const summerMazte = {
   itemIds: [28431, 33644, 33977],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 302 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 276 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 302 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 276 },
   ],
   status: "supported",
   hashPlace: 79,

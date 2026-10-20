@@ -15,8 +15,8 @@ export const bergamaWarningFire = {
   seconds: 9000,
   level: "Scaled",
   effects: [
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 4936 },
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 539 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 4936 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 539 },
   ],
   status: "supported",
   hashPlace: 28,

@@ -14,9 +14,9 @@ export const crownCrateFortifyingMeal = {
   seconds: 5400,
   level: "Scaled",
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 4462 },
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 4105 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 4105 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 4462 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 4105 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 4105 },
   ],
   status: "supported",
   hashPlace: 327,

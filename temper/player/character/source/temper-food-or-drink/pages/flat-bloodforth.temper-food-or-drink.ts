@@ -11,7 +11,7 @@ export const flatBloodforth = {
   itemId: 32139,
   itemIds: [32139, 32151, 61035, 61056, 61057],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 346 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 346 }],
   status: "supported",
   hashPlace: 172,
   createdAt: "2026-10-20T16:09:02.865Z",

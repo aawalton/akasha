@@ -11,7 +11,7 @@ export const sourMash = {
   itemId: 28425,
   itemIds: [28425, 33636, 33969],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 322 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 322 }],
   status: "supported",
   hashPlace: 76,
   createdAt: "2026-10-20T16:09:02.865Z",

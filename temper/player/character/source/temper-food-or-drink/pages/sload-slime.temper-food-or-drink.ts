@@ -12,7 +12,7 @@ export const sloadSlime = {
   itemIds: [57652, 61071, 61072],
   seconds: 3960,
   level: "CP10",
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 392 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 392 }],
   status: "supported",
   hashPlace: 289,
   createdAt: "2026-10-20T16:09:02.865Z",

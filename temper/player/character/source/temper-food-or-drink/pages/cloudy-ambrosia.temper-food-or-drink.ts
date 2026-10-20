@@ -11,7 +11,7 @@ export const cloudyAmbrosia = {
   itemId: 32141,
   itemIds: [32141, 32153, 61036, 61058, 61059],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 315 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 315 }],
   status: "supported",
   hashPlace: 174,
   createdAt: "2026-10-20T16:09:02.865Z",

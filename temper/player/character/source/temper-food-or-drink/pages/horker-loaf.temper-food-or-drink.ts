@@ -12,9 +12,9 @@ export const horkerLoaf = {
   itemIds: [28331, 33886, 33892, 55922, 57097],
   seconds: 9000,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 2835 },
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 2608 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 2608 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 2835 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 2608 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 2608 },
   ],
   status: "supported",
   hashPlace: 54,

@@ -11,7 +11,7 @@ export const tomatoSoup = {
   itemId: 28293,
   itemIds: [28293, 28366, 33843],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 1058 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 1058 }],
   status: "supported",
   hashPlace: 39,
   createdAt: "2026-10-20T16:09:02.865Z",

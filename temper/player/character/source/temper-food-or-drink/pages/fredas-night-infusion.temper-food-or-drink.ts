@@ -12,7 +12,7 @@ export const fredasNightInfusion = {
   itemIds: [71251],
   seconds: 3960,
   level: "CP150",
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 532 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 532 }],
   status: "supported",
   hashPlace: 320,
   createdAt: "2026-10-20T16:09:02.865Z",

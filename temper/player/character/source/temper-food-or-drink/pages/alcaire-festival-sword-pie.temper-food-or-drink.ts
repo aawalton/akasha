@@ -13,7 +13,7 @@ export const alcaireFestivalSwordPie = {
   itemIds: [112439],
   seconds: 9000,
   level: "Scaled",
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 6160 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 6160 }],
   status: "supported",
   hashPlace: 331,
   createdAt: "2026-10-20T16:09:02.865Z",

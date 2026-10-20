@@ -12,7 +12,7 @@ export const kragenmoorZingerMazte = {
   itemIds: [71249],
   seconds: 3960,
   level: "CP150",
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 585 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 585 }],
   status: "supported",
   hashPlace: 318,
   createdAt: "2026-10-20T16:09:02.865Z",

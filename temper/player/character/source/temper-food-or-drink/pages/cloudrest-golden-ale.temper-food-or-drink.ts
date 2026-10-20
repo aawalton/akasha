@@ -12,8 +12,8 @@ export const cloudrestGoldenAle = {
   itemIds: [28411, 33614, 33947],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 138 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 126 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 138 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 126 },
   ],
   status: "supported",
   hashPlace: 68,

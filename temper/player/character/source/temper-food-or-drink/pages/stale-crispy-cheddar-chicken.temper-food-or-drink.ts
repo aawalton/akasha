@@ -11,7 +11,7 @@ export const staleCrispyCheddarChicken = {
   itemId: 32125,
   itemIds: [32125, 32137, 37816, 37864, 37912, 37960],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 3080 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 3080 }],
   status: "supported",
   hashPlace: 169,
   createdAt: "2026-10-20T16:09:02.865Z",

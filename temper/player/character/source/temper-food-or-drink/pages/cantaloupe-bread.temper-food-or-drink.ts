@@ -11,7 +11,7 @@ export const cantaloupeBread = {
   itemId: 33508,
   itemIds: [33508, 33569, 33867],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 2570 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 2570 }],
   status: "supported",
   hashPlace: 194,
   createdAt: "2026-10-20T16:09:02.865Z",

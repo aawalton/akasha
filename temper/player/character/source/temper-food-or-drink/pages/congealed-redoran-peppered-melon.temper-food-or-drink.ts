@@ -11,7 +11,7 @@ export const congealedRedoranPepperedMelon = {
   itemId: 32096,
   itemIds: [32096, 32108, 37799, 37847, 37895, 37943],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 1750 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 1750 }],
   status: "supported",
   hashPlace: 155,
   createdAt: "2026-10-20T16:09:02.865Z",

@@ -11,7 +11,7 @@ export const isinmateInfusion = {
   itemId: 28493,
   itemIds: [28493, 33714, 34047],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 181 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 181 }],
   status: "supported",
   hashPlace: 111,
   createdAt: "2026-10-20T16:09:02.865Z",

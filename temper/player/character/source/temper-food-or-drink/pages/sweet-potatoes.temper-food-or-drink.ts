@@ -12,8 +12,8 @@ export const sweetPotatoes = {
   itemIds: [28308, 28357, 33405],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 1264 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 1264 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 1264 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 1264 },
   ],
   status: "supported",
   hashPlace: 45,

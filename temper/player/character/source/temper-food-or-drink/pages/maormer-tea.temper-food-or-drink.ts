@@ -11,7 +11,7 @@ export const maormerTea = {
   itemId: 28465,
   itemIds: [28465, 33684, 34017],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 294 }],
+  effects: [{ metric: "temper-metric/magicka-recovery", effectType: "integer", value: 294 }],
   status: "supported",
   hashPlace: 96,
   createdAt: "2026-10-20T16:09:02.865Z",

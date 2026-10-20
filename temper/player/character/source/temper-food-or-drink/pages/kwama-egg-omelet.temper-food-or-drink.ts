@@ -13,8 +13,8 @@ export const kwamaEggOmelet = {
   seconds: 5400,
   level: "CP100",
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 5066 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 4635 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 5066 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 4635 },
   ],
   status: "supported",
   hashPlace: 262,

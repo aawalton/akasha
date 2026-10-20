@@ -12,8 +12,8 @@ export const orzorgasRedFrothgar = {
   itemIds: [71056],
   seconds: 9000,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 5395 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 493 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 5395 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 493 },
   ],
   status: "supported",
   hashPlace: 309,

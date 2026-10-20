@@ -13,7 +13,7 @@ export const markarthMead = {
   abilityId: 61322,
   seconds: 3960,
   level: "CP150",
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 660 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 660 }],
   status: "supported",
   hashPlace: 18,
   createdAt: "2026-09-27T00:56:31.589Z",

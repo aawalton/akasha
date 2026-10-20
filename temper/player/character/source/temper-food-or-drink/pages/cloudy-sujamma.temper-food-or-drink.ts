@@ -11,7 +11,7 @@ export const cloudySujamma = {
   itemId: 32093,
   itemIds: [32093, 32105, 37796, 37844, 37892, 37940, 61049, 61050],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 175 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 175 }],
   status: "supported",
   hashPlace: 152,
   createdAt: "2026-10-20T16:09:02.865Z",

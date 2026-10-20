@@ -11,7 +11,7 @@ export const coldIndorilRadishTartlets = {
   itemId: 32118,
   itemIds: [32118, 32130, 37815, 37863, 37911, 37959],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 2800 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 2800 }],
   status: "supported",
   hashPlace: 163,
   createdAt: "2026-10-20T16:09:02.865Z",

@@ -12,8 +12,8 @@ export const argonianPumpkinStew = {
   itemIds: [28397, 33480, 42808],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 2039 },
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 1866 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 2039 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 1866 },
   ],
   status: "supported",
   hashPlace: 62,

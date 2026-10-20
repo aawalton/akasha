@@ -13,7 +13,7 @@ export const crownHealthyVigorLiquor = {
   itemIds: [64497],
   seconds: 9000,
   level: "Scaled",
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 621 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 621 }],
   status: "supported",
   hashPlace: 303,
   createdAt: "2026-10-20T16:09:02.865Z",

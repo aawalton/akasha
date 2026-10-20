@@ -11,7 +11,7 @@ export const rihadQishr = {
   itemId: 28509,
   itemIds: [28509, 33738, 34071],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 332 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 332 }],
   status: "supported",
   hashPlace: 119,
   createdAt: "2026-10-20T16:09:02.865Z",

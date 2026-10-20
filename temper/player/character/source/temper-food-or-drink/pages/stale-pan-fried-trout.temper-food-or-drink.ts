@@ -11,7 +11,7 @@ export const stalePanFriedTrout = {
   itemId: 32077,
   itemIds: [32077, 32089, 37792, 37840, 37888, 37936],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 1540 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 1540 }],
   status: "supported",
   hashPlace: 148,
   createdAt: "2026-10-20T16:09:02.865Z",

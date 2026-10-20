@@ -11,7 +11,7 @@ export const thrassianChai = {
   itemId: 28461,
   itemIds: [28461, 33678, 34011],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 257 }],
+  effects: [{ metric: "temper-metric/magicka-recovery", effectType: "integer", value: 257 }],
   status: "supported",
   hashPlace: 94,
   createdAt: "2026-10-20T16:09:02.865Z",

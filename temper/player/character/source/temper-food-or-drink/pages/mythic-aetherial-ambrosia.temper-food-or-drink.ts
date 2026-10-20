@@ -13,7 +13,7 @@ export const mythicAetherialAmbrosia = {
   itemIds: [115027],
   seconds: 1800,
   effects: [
-    { "metric": "temper-metric/experience-gain", "effectType": "fractional-change", "value": 1.5 },
+    { metric: "temper-metric/experience-gain", effectType: "fractional-change", value: 1.5 },
   ],
   status: "supported",
   hashPlace: 333,

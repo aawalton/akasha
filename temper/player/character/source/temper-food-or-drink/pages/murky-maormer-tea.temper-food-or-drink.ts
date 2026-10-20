@@ -11,7 +11,7 @@ export const murkyMaormerTea = {
   itemId: 32116,
   itemIds: [32116, 32128, 37807, 37855, 37903, 37951],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 245 }],
+  effects: [{ metric: "temper-metric/magicka-recovery", effectType: "integer", value: 245 }],
   status: "supported",
   hashPlace: 161,
   createdAt: "2026-10-20T16:09:02.865Z",

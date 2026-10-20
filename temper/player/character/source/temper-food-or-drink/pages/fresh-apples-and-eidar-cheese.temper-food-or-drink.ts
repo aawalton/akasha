@@ -12,7 +12,7 @@ export const freshApplesAndEidarCheese = {
   itemIds: [43154, 57124, 57125],
   seconds: 3960,
   level: "CP50",
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 5065 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 5065 }],
   status: "supported",
   hashPlace: 251,
   createdAt: "2026-10-20T16:09:02.865Z",

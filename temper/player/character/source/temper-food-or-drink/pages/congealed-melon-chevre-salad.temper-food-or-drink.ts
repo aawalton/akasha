@@ -11,7 +11,7 @@ export const congealedMelonChevreSalad = {
   itemId: 32144,
   itemIds: [32144, 32156, 57621],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 3500 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 3500 }],
   status: "supported",
   hashPlace: 177,
   createdAt: "2026-10-20T16:09:02.865Z",

@@ -11,7 +11,7 @@ export const staleHareInGarlicSauce = {
   itemId: 32119,
   itemIds: [32119, 32131, 37810, 37858, 40298, 40299],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 2695 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 2695 }],
   status: "supported",
   hashPlace: 164,
   createdAt: "2026-10-20T16:09:02.865Z",

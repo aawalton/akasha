@@ -11,7 +11,7 @@ export const slop37882 = {
   itemId: 37882,
   itemIds: [37882, 37930],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 1239 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 1239 }],
   status: "supported",
   hashPlace: 241,
   createdAt: "2026-10-20T16:09:02.865Z",

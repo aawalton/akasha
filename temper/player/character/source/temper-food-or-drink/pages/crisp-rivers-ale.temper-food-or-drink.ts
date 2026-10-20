@@ -11,7 +11,7 @@ export const crispRiversAle = {
   itemId: 28466,
   itemIds: [28466, 32098, 32110],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 226 }],
+  effects: [{ metric: "temper-metric/magicka-recovery", effectType: "integer", value: 226 }],
   status: "supported",
   hashPlace: 97,
   createdAt: "2026-10-20T16:09:02.865Z",

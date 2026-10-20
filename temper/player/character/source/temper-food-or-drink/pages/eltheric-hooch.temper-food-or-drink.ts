@@ -11,7 +11,7 @@ export const elthericHooch = {
   itemId: 28417,
   itemIds: [28417, 33624, 33957],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 239 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 239 }],
   status: "supported",
   hashPlace: 72,
   createdAt: "2026-10-20T16:09:02.865Z",

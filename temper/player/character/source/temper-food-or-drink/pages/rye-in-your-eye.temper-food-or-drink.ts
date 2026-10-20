@@ -11,7 +11,7 @@ export const ryeInYourEye = {
   itemId: 28429,
   itemIds: [28429, 33642, 33975],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 363 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 363 }],
   status: "supported",
   hashPlace: 78,
   createdAt: "2026-10-20T16:09:02.865Z",

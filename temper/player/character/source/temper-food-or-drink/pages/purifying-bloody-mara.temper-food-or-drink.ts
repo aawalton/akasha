@@ -15,8 +15,8 @@ export const purifyingBloodyMara = {
   seconds: 9000,
   level: "Scaled",
   effects: [
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 4620 },
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 5051 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 4620 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 5051 },
   ],
   status: "partially-supported",
   hashPlace: 26,

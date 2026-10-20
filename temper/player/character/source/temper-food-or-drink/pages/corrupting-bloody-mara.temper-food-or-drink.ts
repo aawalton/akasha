@@ -15,9 +15,9 @@ export const corruptingBloodyMara = {
   seconds: 9000,
   level: "Scaled",
   effects: [
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 4620 },
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 5051 },
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 505 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 4620 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 5051 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 505 },
   ],
   status: "partially-supported",
   hashPlace: 31,

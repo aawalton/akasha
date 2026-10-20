@@ -11,7 +11,7 @@ export const staleSolstheimElkAndScuttle = {
   itemId: 32149,
   itemIds: [32149, 32161, 57633],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 3850 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 3850 }],
   status: "supported",
   hashPlace: 180,
   createdAt: "2026-10-20T16:09:02.865Z",

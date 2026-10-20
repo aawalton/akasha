@@ -14,9 +14,9 @@ export const animateTheDead = {
   seconds: 9000,
   level: "CP10",
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 341 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 313 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 313 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 341 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 313 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 313 },
   ],
   status: "supported",
   hashPlace: 65,

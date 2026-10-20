@@ -12,8 +12,8 @@ export const fulminationAle = {
   itemIds: [28468, 33687, 34020],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 269 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 246 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 269 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 246 },
   ],
   status: "supported",
   hashPlace: 98,

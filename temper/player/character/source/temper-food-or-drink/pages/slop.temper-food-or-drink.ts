@@ -11,7 +11,7 @@ export const slop = {
   itemId: 32078,
   itemIds: [32078, 32090],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 1512 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 1512 }],
   status: "supported",
   hashPlace: 149,
   createdAt: "2026-10-20T16:09:02.865Z",

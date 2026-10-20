@@ -11,7 +11,7 @@ export const cloudyComberryChai = {
   itemId: 30587,
   itemIds: [30587, 32145, 32157, 37776, 37824, 37872, 37920, 61044],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 77 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 77 }],
   status: "supported",
   hashPlace: 140,
   createdAt: "2026-10-20T16:09:02.865Z",

@@ -12,9 +12,9 @@ export const parrotAndPumpkinSalad = {
   itemIds: [33808, 33868, 33919, 57110],
   seconds: 9000,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 3097 },
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 2849 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 2849 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 3097 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 2849 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 2849 },
   ],
   status: "supported",
   hashPlace: 212,

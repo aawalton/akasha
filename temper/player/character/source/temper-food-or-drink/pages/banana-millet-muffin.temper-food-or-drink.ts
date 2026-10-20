@@ -11,7 +11,7 @@ export const bananaMilletMuffin = {
   itemId: 28305,
   itemIds: [28305, 28378, 42807],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 1436 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 1436 }],
   status: "supported",
   hashPlace: 44,
   createdAt: "2026-10-20T16:09:02.865Z",

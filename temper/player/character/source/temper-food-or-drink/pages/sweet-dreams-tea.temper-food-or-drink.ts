@@ -11,7 +11,7 @@ export const sweetDreamsTea = {
   itemId: 28477,
   itemIds: [28477, 57171, 57172],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 408 }],
+  effects: [{ metric: "temper-metric/magicka-recovery", effectType: "integer", value: 408 }],
   status: "supported",
   hashPlace: 103,
   createdAt: "2026-10-20T16:09:02.865Z",

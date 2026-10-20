@@ -15,8 +15,8 @@ export const ghastlyEyeBowl = {
   seconds: 9000,
   level: "Scaled",
   effects: [
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 4936 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 493 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 4936 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 493 },
   ],
   status: "supported",
   hashPlace: 25,

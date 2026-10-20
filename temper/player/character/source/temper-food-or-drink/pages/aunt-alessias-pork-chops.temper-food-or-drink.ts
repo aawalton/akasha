@@ -12,8 +12,8 @@ export const auntAlessiasPorkChops = {
   itemIds: [33804, 33864, 33889],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 3026 },
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 2769 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 3026 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 2769 },
   ],
   status: "supported",
   hashPlace: 211,

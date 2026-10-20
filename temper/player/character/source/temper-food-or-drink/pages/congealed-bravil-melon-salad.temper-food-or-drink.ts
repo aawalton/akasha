@@ -11,7 +11,7 @@ export const congealedBravilMelonSalad = {
   itemId: 32072,
   itemIds: [32072, 32084, 37787, 37835, 37883, 37931],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 1050 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 1050 }],
   status: "supported",
   hashPlace: 143,
   createdAt: "2026-10-20T16:09:02.865Z",

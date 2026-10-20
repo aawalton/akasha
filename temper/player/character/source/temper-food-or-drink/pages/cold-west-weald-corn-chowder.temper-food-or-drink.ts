@@ -11,7 +11,7 @@ export const coldWestWealdCornChowder = {
   itemId: 32148,
   itemIds: [32148, 61086],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 3920 }],
+  effects: [{ metric: "temper-metric/stamina-maximum", effectType: "integer", value: 3920 }],
   status: "supported",
   hashPlace: 179,
   createdAt: "2026-10-20T16:09:02.865Z",

@@ -13,8 +13,8 @@ export const grandmamsRoastRabbit = {
   seconds: 5400,
   level: "CP50",
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 4540 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 4153 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 4540 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 4153 },
   ],
   status: "supported",
   hashPlace: 217,

@@ -11,7 +11,7 @@ export const clanMothersBananaPilaf = {
   itemId: 33879,
   itemIds: [33879, 33891, 57083],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 3326 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 3326 }],
   status: "supported",
   hashPlace: 214,
   createdAt: "2026-10-20T16:09:02.865Z",

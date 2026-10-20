@@ -12,7 +12,7 @@ export const kwamaEggQuiche = {
   itemIds: [57623, 57635],
   seconds: 3960,
   level: "CP50",
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 4851 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 4851 }],
   status: "supported",
   hashPlace: 273,
   createdAt: "2026-10-20T16:09:02.865Z",

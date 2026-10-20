@@ -11,7 +11,7 @@ export const melonChevreSalad = {
   itemId: 33927,
   itemIds: [33927, 57099, 57100],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 4082 }],
+  effects: [{ metric: "temper-metric/magicka-maximum", effectType: "integer", value: 4082 }],
   status: "supported",
   hashPlace: 226,
   createdAt: "2026-10-20T16:09:02.865Z",

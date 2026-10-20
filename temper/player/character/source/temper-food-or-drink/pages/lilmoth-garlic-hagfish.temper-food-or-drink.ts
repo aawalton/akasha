@@ -13,7 +13,7 @@ export const lilmothGarlicHagfish = {
   abilityId: 61259,
   seconds: 3960,
   level: "CP150",
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 6607 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 6607 }],
   status: "supported",
   hashPlace: 1,
   createdAt: "2026-09-27T00:54:17.956Z",

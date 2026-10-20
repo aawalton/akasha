@@ -13,9 +13,9 @@ export const braisedSweetmeats = {
   seconds: 9000,
   level: "CP10",
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 3412 },
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 3139 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 3139 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 3412 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 3139 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 3139 },
   ],
   status: "supported",
   hashPlace: 209,

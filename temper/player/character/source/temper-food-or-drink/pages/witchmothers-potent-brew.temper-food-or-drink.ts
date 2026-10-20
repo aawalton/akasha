@@ -15,9 +15,9 @@ export const witchmothersPotentBrew = {
   seconds: 9000,
   level: "Scaled",
   effects: [
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 2856 },
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 3094 },
-    { "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 315 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 2856 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 3094 },
+    { metric: "temper-metric/magicka-recovery", effectType: "integer", value: 315 },
   ],
   status: "supported",
   hashPlace: 30,

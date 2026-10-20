@@ -11,7 +11,7 @@ export const tanethCoffee = {
   itemId: 28497,
   itemIds: [28497, 33720, 34053],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 219 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 219 }],
   status: "supported",
   hashPlace: 113,
   createdAt: "2026-10-20T16:09:02.865Z",

@@ -11,7 +11,7 @@ export const staleMammothSnoutPie = {
   itemId: 32143,
   itemIds: [32143, 32155],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 3465 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 3465 }],
   status: "supported",
   hashPlace: 176,
   createdAt: "2026-10-20T16:09:02.865Z",

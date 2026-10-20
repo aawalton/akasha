@@ -12,8 +12,8 @@ export const bravilMead = {
   itemIds: [28460, 33675, 34008],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 203 },
-    { "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 186 },
+    { metric: "temper-metric/health-recovery", effectType: "integer", value: 203 },
+    { metric: "temper-metric/stamina-recovery", effectType: "integer", value: 186 },
   ],
   status: "supported",
   hashPlace: 93,

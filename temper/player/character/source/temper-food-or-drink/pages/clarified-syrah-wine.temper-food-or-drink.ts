@@ -11,7 +11,7 @@ export const clarifiedSyrahWine = {
   itemId: 28409,
   itemIds: [28409, 33612, 33945],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 156 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 156 }],
   status: "supported",
   hashPlace: 67,
   createdAt: "2026-10-20T16:09:02.865Z",

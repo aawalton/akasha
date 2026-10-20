@@ -12,7 +12,7 @@ export const grannysEelPie = {
   itemId: 225205,
   itemIds: [225205],
   seconds: 9000,
-  effects: [{ "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 5790 }],
+  effects: [{ metric: "temper-metric/health-maximum", effectType: "integer", value: 5790 }],
   status: "partially-supported",
   hashPlace: 348,
   createdAt: "2026-10-20T16:09:02.865Z",

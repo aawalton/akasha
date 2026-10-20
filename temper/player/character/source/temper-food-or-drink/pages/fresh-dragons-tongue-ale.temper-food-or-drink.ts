@@ -11,7 +11,7 @@ export const freshDragonsTongueAle = {
   itemId: 28414,
   itemIds: [28414],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/health-recovery", "effectType": "integer", "value": 123 }],
+  effects: [{ metric: "temper-metric/health-recovery", effectType: "integer", value: 123 }],
   status: "supported",
   hashPlace: 70,
   createdAt: "2026-10-20T16:09:02.865Z",

@@ -11,7 +11,7 @@ export const blueRoadMarathon = {
   itemId: 28513,
   itemIds: [28513, 57162, 57163],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 370 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 370 }],
   status: "supported",
   hashPlace: 122,
   createdAt: "2026-10-20T16:09:02.865Z",

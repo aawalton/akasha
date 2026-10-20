@@ -13,7 +13,7 @@ export const snowBearGlowWine = {
   itemIds: [112440, 171322],
   seconds: 9000,
   level: "Scaled",
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 560 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 560 }],
   status: "supported",
   hashPlace: 332,
   createdAt: "2026-10-20T16:09:02.865Z",

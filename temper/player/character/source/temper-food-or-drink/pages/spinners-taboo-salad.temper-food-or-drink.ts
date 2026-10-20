@@ -12,8 +12,8 @@ export const spinnersTabooSalad = {
   itemIds: [54377, 57095, 57096],
   seconds: 5400,
   effects: [
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 3070 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 3070 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 3070 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 3070 },
   ],
   status: "supported",
   hashPlace: 254,

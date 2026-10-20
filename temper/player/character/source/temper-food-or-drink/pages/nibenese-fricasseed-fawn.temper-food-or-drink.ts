@@ -12,9 +12,9 @@ export const nibeneseFricasseedFawn = {
   itemIds: [33594, 33802, 33856, 57084],
   seconds: 9000,
   effects: [
-    { "metric": "temper-metric/health-maximum", "effectType": "integer", "value": 2572 },
-    { "metric": "temper-metric/magicka-maximum", "effectType": "integer", "value": 2366 },
-    { "metric": "temper-metric/stamina-maximum", "effectType": "integer", "value": 2366 },
+    { metric: "temper-metric/health-maximum", effectType: "integer", value: 2572 },
+    { metric: "temper-metric/magicka-maximum", effectType: "integer", value: 2366 },
+    { metric: "temper-metric/stamina-maximum", effectType: "integer", value: 2366 },
   ],
   status: "supported",
   hashPlace: 201,

@@ -11,7 +11,7 @@ export const cloudyDancingGrandma = {
   itemId: 37808,
   itemIds: [37808, 37856, 37904, 37952, 61054],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 245 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 245 }],
   status: "supported",
   hashPlace: 238,
   createdAt: "2026-10-20T16:09:02.865Z",

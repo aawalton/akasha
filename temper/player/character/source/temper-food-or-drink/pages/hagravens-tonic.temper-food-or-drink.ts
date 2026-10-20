@@ -13,7 +13,7 @@ export const hagravensTonic = {
   abilityId: 61328,
   seconds: 3960,
   level: "CP150",
-  effects: [{ "metric": "temper-metric/stamina-recovery", "effectType": "integer", "value": 604 }],
+  effects: [{ metric: "temper-metric/stamina-recovery", effectType: "integer", value: 604 }],
   status: "supported",
   hashPlace: 20,
   createdAt: "2026-09-27T00:56:31.588Z",

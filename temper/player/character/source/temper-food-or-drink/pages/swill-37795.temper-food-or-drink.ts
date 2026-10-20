@@ -11,7 +11,7 @@ export const swill37795 = {
   itemId: 37795,
   itemIds: [37795, 37843],
   seconds: 3960,
-  effects: [{ "metric": "temper-metric/magicka-recovery", "effectType": "integer", "value": 189 }],
+  effects: [{ metric: "temper-metric/magicka-recovery", effectType: "integer", value: 189 }],
   status: "supported",
   hashPlace: 232,
   createdAt: "2026-10-20T16:09:02.865Z",
