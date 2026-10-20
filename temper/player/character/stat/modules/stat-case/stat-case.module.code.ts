@@ -5,7 +5,11 @@ import { z } from "zod"
 
 const statsByName = z.record(z.string(), z.number())
 
-const listedBuff = z.strictObject({ abilityId: z.number(), name: z.string() })
+const listedBuff = z.strictObject({
+  abilityId: z.number(),
+  name: z.string(),
+  stacks: z.number().optional(),
+})
 
 const spentStar = z.strictObject({
   championSkillId: z.number(),
@@ -67,7 +71,9 @@ export function pinnedCaseOf(read: CaseRead): StatCase {
   }
   return {
     ...rest,
-    activeBuffs: rest.activeBuffs.map(({ abilityId, name }) => ({ abilityId, name })),
+    activeBuffs: rest.activeBuffs.map(({ abilityId, name, stacks }) =>
+      stacks === undefined || stacks === 0 ? { abilityId, name } : { abilityId, name, stacks }
+    ),
     championPoints: rest.championPoints.map(({ championSkillId, points, maxPoints }) => ({
       championSkillId,
       points,

@@ -106,7 +106,11 @@ export const statCase = {
       decisionKind: "decision-kind/departure",
       statement: "A case is written one buff and one star to a line, with its stats in name order.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A case keeps the stacks a buff was listed with, where the buff had any.",
+    },
   ],
   createdAt: "2026-10-14T17:18:43.951Z",
-  updatedAt: "2026-10-19T20:19:08.084Z",
+  updatedAt: "2026-10-20T00:34:37.882Z",
 } as const satisfies Module

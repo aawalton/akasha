@@ -24,10 +24,12 @@ type SlottedBehavior = "either-bar" | "active-bar-only"
 type MetricEffectBase = {
   metricId: string
   slottedBehavior?: SlottedBehavior
+  whileBuffs?: readonly string[]
 }
 
 export type MetricEffect =
   | (MetricEffectBase & { effectType: "integer"; effectValue: number })
+  | (MetricEffectBase & { effectType: "integer-per-stack"; effectValue: number })
   | (MetricEffectBase & { effectType: "fractional-change"; effectValue: number })
   | (MetricEffectBase & { effectType: "number"; effectValue: number })
   | (MetricEffectBase & { effectType: "number-per-seconds"; effectValue: NumberPerSeconds })

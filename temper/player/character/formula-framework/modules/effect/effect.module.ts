@@ -12,7 +12,15 @@ export const effect = {
       statement:
         "A slotted-ability scaling effect states whether its per-ability value is flat or fractional.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A per-stack effect states the flat value one stack of its buff gives.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An effect may name the buffs it holds only while one is up.",
+    },
   ],
   createdAt: "2026-09-02T04:46:21.408Z",
-  updatedAt: "2026-10-19T22:59:35.442Z",
+  updatedAt: "2026-10-20T00:34:37.882Z",
 } as const satisfies Module

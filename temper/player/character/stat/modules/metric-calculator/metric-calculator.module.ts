@@ -113,7 +113,15 @@ export const metricCalculator = {
       statement:
         "A slottable star in a reading counts only where the reading's build slots that star.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A buff listed with stacks counts each per-stack effect once for every stack.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An effect naming buffs counts only while one of those buffs is up.",
+    },
   ],
   createdAt: "2026-09-02T14:06:51.856Z",
-  updatedAt: "2026-10-19T22:40:43.300Z",
+  updatedAt: "2026-10-20T00:34:37.882Z",
 } as const satisfies Module

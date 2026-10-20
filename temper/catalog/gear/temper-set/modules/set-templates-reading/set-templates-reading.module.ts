@@ -26,6 +26,10 @@ export const setTemplatesReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The buffs a bonus effect holds while up are read as the keys of the pages named.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Nothing here reads a file, so a browser and a server read sets alike.",
     },
     {
@@ -34,5 +38,5 @@ export const setTemplatesReading = {
     },
   ],
   createdAt: "2026-09-26T14:50:52.341Z",
-  updatedAt: "2026-09-27T04:51:46.000Z",
+  updatedAt: "2026-10-20T00:34:37.882Z",
 } as const satisfies Module

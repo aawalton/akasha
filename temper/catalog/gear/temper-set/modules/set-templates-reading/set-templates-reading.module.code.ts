@@ -79,10 +79,14 @@ function listIn(held: unknown): readonly Value[] {
 
 function effectOf(effect: Value, keys: Keys, at: string): Effect {
   if (effect.buffId !== undefined) return { buffId: keyOf(effect.buffId, keys, at) }
+  const whileBuffs = Array.isArray(effect.whileBuffs)
+    ? { whileBuffs: effect.whileBuffs.map((buff: unknown) => keyOf(buff, keys, at)) }
+    : {}
   return {
     metricId: keyOf(effect.metricId, keys, at),
     effectType: effect.type,
     effectValue: effect.value,
+    ...whileBuffs,
   } as MetricEffect
 }
 

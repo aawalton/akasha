@@ -70,9 +70,43 @@ function buildDependencyGraph(metrics: readonly MetricWithFormula[]): Map<Metric
   return graph
 }
 
+function buffsUp(sources: readonly EffectSource[]): ReadonlySet<string> {
+  const up = new Set<string>()
+  for (const source of sources) if (source.categoryId === "buffs") up.add(source.id)
+  return up
+}
+
+function withConditionsMet(sources: readonly EffectSource[]): readonly EffectSource[] {
+  const up = buffsUp(sources)
+  const met = (effect: unknown): boolean =>
+    !isMetricEffect(effect) ||
+    effect.whileBuffs === undefined ||
+    effect.whileBuffs.some((buff) => up.has(buff))
+  return sources.map((source) =>
+    source.effects.every(met)
+      ? source
+      : ({ ...source, effects: source.effects.filter(met) } as EffectSource)
+  )
+}
+
+function isPerStack(effect: unknown): boolean {
+  return isMetricEffect(effect) && effect.effectType === "integer-per-stack"
+}
+
+function stacked(buff: EffectSource, stacks: number): EffectSource {
+  if (!buff.effects.some(isPerStack)) return buff
+  const effects = buff.effects.map((effect) =>
+    isMetricEffect(effect) && effect.effectType === "integer-per-stack"
+      ? { ...effect, effectType: "integer" as const, effectValue: effect.effectValue * stacks }
+      : effect
+  )
+  return { ...buff, effects } as EffectSource
+}
+
 function calculateBaseStats(
-  sources: readonly EffectSource[]
+  given: readonly EffectSource[]
 ): Partial<Record<MetricId, MetricValue>> {
+  const sources = withConditionsMet(given)
   const withFormulas = metricsWithFormulas()
   const dependencies = buildDependencyGraph(withFormulas)
 
@@ -183,7 +217,11 @@ function asSpent(
 export function calculateReadingStatsByBar(
   build: CharacterState,
   bar: "primary-weapon-bar" | "backup-weapon-bar",
-  listed: readonly { readonly abilityId: number; readonly name: string }[],
+  listed: readonly {
+    readonly abilityId: number
+    readonly name: string
+    readonly stacks?: number | undefined
+  }[],
   stars?: readonly StarPoints[]
 ): CalculationResult & { unmatchedBuffNames: readonly string[] } {
   const buffByName = new Map<string, EffectSource>()
@@ -197,13 +235,13 @@ export function calculateReadingStatsByBar(
   let mundusStone = "no-mundus"
   const activeBuffs: EffectSource[] = []
   const unmatchedBuffNames: string[] = []
-  for (const { abilityId, name } of listed) {
+  for (const { abilityId, name, stacks } of listed) {
     const food = foodByAbility.get(abilityId)
     const stone = stoneByAbility.get(abilityId)
     const buff = buffByName.get(name)
     if (food !== undefined) foodOrDrinkId = food
     else if (stone !== undefined) mundusStone = stone
-    else if (buff !== undefined) activeBuffs.push(buff)
+    else if (buff !== undefined) activeBuffs.push(stacked(buff, stacks ?? 0))
     else unmatchedBuffNames.push(name)
   }
 
