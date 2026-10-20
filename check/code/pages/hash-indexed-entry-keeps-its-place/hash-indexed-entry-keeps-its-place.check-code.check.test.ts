@@ -185,6 +185,29 @@ test("a page given another place in the field its type is ordered by is refused"
   expect(said[0]?.reason).toContain('"a" moved from index 0 to index 1')
 })
 
+test("a page renamed in place keeps its entry, told by its page id", () => {
+  const placed = (id: string, at: number): string =>
+    `export const held = { id: "${id}", hashPlace: ${at} }\n`
+  const over = changing(
+    { [SKILL_A]: placed("one", 0), [SKILL_B]: placed("two", 1) },
+    { [SKILL_A]: null, [SKILL_C]: placed("one", 0) }
+  )
+  const rows = (): readonly string[] => [SKILL_B, SKILL_C]
+  expect(refusalsOver(over, [{ ...ROWS, name: "hashPlace" }], rows)).toEqual([])
+})
+
+test("a page of another id put in the place of one taken out is refused", () => {
+  const placed = (id: string, at: number): string =>
+    `export const held = { id: "${id}", hashPlace: ${at} }\n`
+  const over = changing(
+    { [SKILL_A]: placed("one", 0), [SKILL_B]: placed("two", 1) },
+    { [SKILL_A]: null, [SKILL_C]: placed("three", 0) }
+  )
+  const rows = (): readonly string[] => [SKILL_B, SKILL_C]
+  const said = refusalsOver(over, [{ ...ROWS, name: "hashPlace" }], rows)
+  expect(said[0]?.reason).toContain('"a" was at index 0 and is gone')
+})
+
 const FROZEN = "kit/frozen.data-table.code.ts"
 
 const FROZEN_ROWS: Marked = {

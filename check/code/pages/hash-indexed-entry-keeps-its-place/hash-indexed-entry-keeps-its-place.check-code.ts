@@ -59,7 +59,15 @@ export const hashIndexedEntryKeepsItsPlace = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An entry among a page type's pages is a page's slug.",
+      statement: "An entry among a page type's pages is a page's id, named by its slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page renamed in place is the same entry, so its rename moves nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page stating no id is told by its slug.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -129,5 +137,5 @@ export const hashIndexedEntryKeepsItsPlace = {
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
   createdAt: "2026-09-24T23:35:12.465Z",
-  updatedAt: "2026-10-20T01:04:15.015Z",
+  updatedAt: "2026-10-20T19:56:54.514Z",
 } as const satisfies CheckCode

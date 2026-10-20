@@ -4,7 +4,11 @@ import ts from "typescript"
 export type Reader = (path: string) => string | null
 
 export type TableRead =
-  | { readonly entries: readonly string[]; readonly paths: readonly string[] }
+  | {
+      readonly entries: readonly string[]
+      readonly ids?: readonly (string | null)[]
+      readonly paths: readonly string[]
+    }
   | { readonly pages: string; readonly paths: readonly string[] }
   | { readonly unread: string; readonly paths: readonly string[] }
 

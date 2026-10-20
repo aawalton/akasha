@@ -21,6 +21,8 @@ const CODE = "code"
 
 const SLUG = "slug"
 
+const ID = "id"
+
 const SHOWN = 10
 
 export const MARKING: ReadonlySet<string> = new Set([module.slug, pageType.slug])
@@ -96,7 +98,10 @@ export function rowTypeOf(one: Marked): string | null {
 type Row = {
   readonly slug: string
   readonly by: string | number
+  readonly id: string | null
 }
+
+type Entries = Extract<TableRead, { readonly entries: readonly string[] }>
 
 function compared(one: string | number, two: string | number): number {
   if (typeof one === "number" && typeof two === "number") return one - two
@@ -108,12 +113,13 @@ function compared(one: string | number, two: string | number): number {
 function rowOf(path: string, name: string, world: World): Row | string | null {
   const slug = partedIn(path)?.slug
   if (slug === undefined) return `${path} is named as no page is`
-  if (name === SLUG) return { slug, by: slug }
+  if (name === SLUG) return { slug, by: slug, id: null }
   const value = world.valueOf(path)
   if (value === null) return `${path} could not be read`
   const by = value[name]
   if (by === undefined) return null
-  if (typeof by === "number" || typeof by === "string") return { slug, by }
+  const id = typeof value[ID] === "string" ? value[ID] : null
+  if (typeof by === "number" || typeof by === "string") return { slug, by, id }
   return `${path} states a \`${name}\` that cannot be put in order`
 }
 
@@ -127,7 +133,7 @@ function rowsIn(one: Marked, kind: string, world: World): TableRead {
     if (row !== null) found.push(row)
   }
   found.sort((left, right) => compared(left.by, right.by) || compared(left.slug, right.slug))
-  return { entries: found.map((row) => row.slug), paths }
+  return { entries: found.map((row) => row.slug), ids: found.map((row) => row.id), paths }
 }
 
 export function tableOf(one: Marked, world: World): TableRead {
@@ -159,6 +165,22 @@ export function movedIn(was: readonly string[], now: readonly string[]): readonl
     if (found !== place) moved.push({ entry: one, was: place, now: found })
   })
   return moved
+}
+
+function keyedIn(table: Entries, byId: boolean): readonly string[] {
+  const { ids } = table
+  if (!byId || ids === undefined) return table.entries
+  return table.entries.map((slug, at) => ids[at] ?? slug)
+}
+
+export function movedBetween(was: Entries, now: Entries): readonly Moved[] {
+  const byId = was.ids !== undefined && now.ids !== undefined
+  const keys = keyedIn(was, byId)
+  const named = new Map(keys.map((key, at) => [key, was.entries[at] ?? key]))
+  return movedIn(keys, keyedIn(now, byId)).map((one) => ({
+    ...one,
+    entry: named.get(one.entry) ?? one.entry,
+  }))
 }
 
 function movedSaid(one: Moved): string {
@@ -193,5 +215,5 @@ export function judged(one: Marked, was: TableRead, now: TableRead): string | nu
   if (!("entries" in was)) return null
   if ("unread" in now) return unreadFor(one, now.unread)
   if ("pages" in now) return unreadFor(one, unmarkedPagesWhy(now.pages))
-  return reasonFor(one, movedIn(was.entries, now.entries))
+  return reasonFor(one, movedBetween(was, now))
 }
