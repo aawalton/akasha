@@ -1,0 +1,60 @@
+{
+  "character": "archmage-amerys",
+  "bar": "backup-weapon-bar",
+  "buildHash": "ATQKpIMAAIBjRwwGyJluSFz-6AEbI90AIWR7oAQsj3QAjZHugBCyPdAByAU6ADkAp0AHIPuoAMdE_ugBNz-6AMikgwAAAkkBIAEgwAAAkkAAEicDQIWAeAiRAAkTBKGgYAJ3qmIUboEjiJyIEIMDAEicAYpcMhQhICNDMjMiIjNSIgMjMQAjIzMzMEADEzA0ozI6IiJkMyMAOCQqMyIjAjrwAAAAU_wAAAAAAAAAAAAYADIOMSBr",
+  "capturedAt": 1792503994,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "inCombat": false,
+  "activeBuffs": [
+    { "abilityId": 13985, "name": "Boon: The Tower" },
+    { "abilityId": 61261, "name": "Increase Max Stamina" },
+    { "abilityId": 23304, "name": "Summon Unstable Familiar" }
+  ],
+  "championPoints": [
+    { "championSkillId": 6, "points": 20, "maxPoints": 20 },
+    { "championSkillId": 5, "points": 50, "maxPoints": 50 }
+  ],
+  "pinned": {
+    "block-speed": 40,
+    "break-free-cost": 5400,
+    "critical-rating-spell": 2181,
+    "critical-rating-weapon": 2181,
+    "damage-done-bleed": 0,
+    "damage-done-disease": 0,
+    "damage-done-flame": 0,
+    "damage-done-frost": 0,
+    "damage-done-magic": 0,
+    "damage-done-oblivion": 0,
+    "damage-done-physical": 0,
+    "damage-done-poison": 0,
+    "damage-done-shock": 0,
+    "healing-done-base": 0,
+    "health-maximum": 17760,
+    "health-recovery": 321,
+    "magicka-maximum": 14625,
+    "magicka-recovery": 514,
+    "movement-sneak-speed": 60,
+    "penetration-physical": 0,
+    "penetration-spell": 0,
+    "power-spell": 1120,
+    "power-weapon": 1120,
+    "resistance-critical": 1320,
+    "resistance-physical": 11520,
+    "resistance-spell": 11520,
+    "stamina-block-cost": 1435,
+    "stamina-maximum": 51940,
+    "stamina-recovery": 1207,
+    "stamina-sprint-cost": 470
+  },
+  "gaps": {
+    "bash-cost": 704,
+    "bash-damage": 259,
+    "block-mitigation": 51,
+    "critical-damage": 12,
+    "healing-critical-bonus": 12,
+    "healing-taken-base": 1,
+    "movement-sprint-speed": 157,
+    "sneak-cost": 53,
+    "stamina-dodge-cost": 3162
+  }
+}
