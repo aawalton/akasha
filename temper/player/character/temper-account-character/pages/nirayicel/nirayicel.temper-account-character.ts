@@ -14,6 +14,7 @@ export const nirayicel = {
   firstName: "Nirayicel",
   fights: "jsonl",
   readings: "jsonl",
+  removedReadings: "jsonl",
   createdAt: "2026-04-29T16:44:26.098Z",
-  updatedAt: "2026-10-19T23:12:44.380Z",
+  updatedAt: "2026-10-20T14:10:54.294Z",
 } as const satisfies TemperAccountCharacter
