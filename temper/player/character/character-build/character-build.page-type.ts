@@ -7,6 +7,7 @@ export const characterBuild = {
   definition: "a saved arrangement of a character's gear, skills and stats",
   extends: ["page-type/temper-character-thing"],
   parts: [
+    "module/character-build-filing",
     "page-type/character-build-version",
     "number-property/build-target-count",
     "select-property/build-visibility",
@@ -57,5 +58,5 @@ export const characterBuild = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:59:23.240Z",
-  updatedAt: "2026-09-25T12:44:26.000Z",
+  updatedAt: "2026-10-20T11:20:02.286Z",
 } as const satisfies PageType

@@ -55,10 +55,14 @@ export const watcherImportCharacters = {
       statement: "A saved-variables file naming no character writes no page.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The account's character builds are filed once its characters are written.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a file.",
     },
   ],
   createdAt: "2026-09-02T19:03:27.439Z",
-  updatedAt: "2026-10-19T23:31:52.865Z",
+  updatedAt: "2026-10-20T11:20:02.286Z",
 } as const satisfies Module

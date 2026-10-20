@@ -8,6 +8,7 @@ export const companionBuildFiling = {
     "a decoded companion build filed against an account and made that companion's live build",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -67,5 +68,5 @@ export const companionBuildFiling = {
     },
   ],
   createdAt: "2026-09-25T13:31:10.557Z",
-  updatedAt: "2026-09-25T13:31:25.000Z",
+  updatedAt: "2026-10-20T11:20:02.286Z",
 } as const satisfies Module

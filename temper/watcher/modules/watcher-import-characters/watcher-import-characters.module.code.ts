@@ -8,6 +8,10 @@ import {
   encodeBuild,
 } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
+import {
+  type FiledCharacterBuild,
+  fileCharacterBuilds,
+} from "akasha/temper/player/character/character-build/modules/filing/character-build-filing.module.code.ts"
 import { loadSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import {
@@ -73,10 +77,25 @@ type ReportLine = (line: string) => void
 
 type AccountAddressOf = (userId: string) => Promise<string>
 
+export type CharacterBuildFiler = (accountPage: string) => Promise<readonly FiledCharacterBuild[]>
+
 interface CharacterImportSeams {
   upsert?: PageUpsert
   report?: ReportLine
   addressOf?: AccountAddressOf
+  file?: CharacterBuildFiler
+}
+
+function filedLine(filed: FiledCharacterBuild): string {
+  const owned = filed.owned ? "took the account" : ""
+  const attached =
+    filed.attachedAs === "liveBuildId"
+      ? "became the live build"
+      : filed.attachedAs === "targetBuildId"
+        ? "became the target"
+        : ""
+  const done = [owned, attached].filter((part) => part !== "").join(" and ")
+  return `  ${filed.character}: build ${filed.buildId} ${done}`
 }
 
 export function keepKnownSkillLineIds(ids: readonly SkillLineId[]): readonly SkillLineId[] {
@@ -214,9 +233,13 @@ export async function executeCharacterImportPlan(
     report(`  ${action.characterName}: captured hash ${action.canonicalHash}`)
   }
 
+  const filed = await (seams.file ?? fileCharacterBuilds)(accountPage)
+  for (const one of filed) report(filedLine(one))
+
   report(`\n=== Summary ===`)
   report(`  Captured: ${upserts.length}`)
   if (skips.length > 0) report(`  Skipped:  ${skips.length}`)
+  if (filed.length > 0) report(`  Filed:    ${filed.length}`)
 }
 
 export async function runImportCharacters(

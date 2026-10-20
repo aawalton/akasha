@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { templar } from "akasha/temper/catalog/skill/temper-class/pages/templar.temper-class.ts"
 import { nord } from "akasha/temper/catalog/world/temper-race/pages/nord.temper-race.ts"
+import type { FiledCharacterBuild } from "akasha/temper/player/character/character-build/modules/filing/character-build-filing.module.code.ts"
 import { holdSetCatalogFromCheckout } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.test-fixtures.ts"
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import { raceAndClassNamed } from "akasha/temper/player/character/temper-account-character/modules/character-race-class/character-race-class.module.code.ts"
@@ -87,6 +88,10 @@ const ADDRESS = "temper-account/test-account"
 
 async function addressOf(): Promise<string> {
   return ADDRESS
+}
+
+async function fileNothing(): Promise<readonly FiledCharacterBuild[]> {
+  return []
 }
 
 const NO_SUPABASE: SignedInReader = {
@@ -244,7 +249,7 @@ test("the account page is upserted before any character page", async () => {
     ONE_REAL_CHARACTER,
     NO_SUPABASE,
     { userId: "@alan" },
-    { upsert, report, addressOf }
+    { upsert, report, addressOf, file: fileNothing }
   )
   expect(seen).toEqual([
     {
@@ -287,7 +292,7 @@ test("a character page takes the race and class its build hash names", async () 
     },
     NO_SUPABASE,
     { userId: "@alan" },
-    { upsert, report, addressOf }
+    { upsert, report, addressOf, file: fileNothing }
   )
   expect(seen[1]).toMatchObject({
     set: { title: "Yvlon", race: raceAndClass.race, class: raceAndClass.class },
@@ -301,7 +306,7 @@ test("what is reported names the count, each skip, each capture, and the summary
     ONE_REAL_CHARACTER,
     NO_SUPABASE,
     { userId: "@alan" },
-    { upsert, report, addressOf }
+    { upsert, report, addressOf, file: fileNothing }
   )
   expect(lines).toEqual([
     "Found 2 character(s).\n",
@@ -325,13 +330,42 @@ test("a run skipping nothing reports no skipped line", async () => {
     onlyGood,
     NO_SUPABASE,
     { userId: "@alan" },
-    { upsert, report, addressOf }
+    { upsert, report, addressOf, file: fileNothing }
   )
   expect(lines).toEqual([
     "Found 1 character(s).\n",
     `  Shalidor: captured hash ${CANONICAL_HASH}`,
     "\n=== Summary ===",
     "  Captured: 1",
+  ])
+})
+
+test("the account's builds are filed after its characters, and each one filed is reported", async () => {
+  const { upsert } = recording("page-1")
+  const { report, lines } = reporting()
+  const filedFor: string[] = []
+  const file = async (accountPage: string): Promise<readonly FiledCharacterBuild[]> => {
+    filedFor.push(accountPage)
+    return [
+      { buildId: "b-1", character: "Shalidor", owned: true, attachedAs: "liveBuildId" },
+      { buildId: "b-2", character: "Shalidor", owned: false, attachedAs: "targetBuildId" },
+    ]
+  }
+  await runImportCharacters(
+    ONE_REAL_CHARACTER,
+    NO_SUPABASE,
+    { userId: "@alan" },
+    { upsert, report, addressOf, file }
+  )
+  expect(filedFor).toEqual([ADDRESS])
+  expect(lines.slice(2)).toEqual([
+    `  Shalidor: captured hash ${CANONICAL_HASH}`,
+    "  Shalidor: build b-1 took the account and became the live build",
+    "  Shalidor: build b-2 became the target",
+    "\n=== Summary ===",
+    "  Captured: 1",
+    "  Skipped:  1",
+    "  Filed:    2",
   ])
 })
 

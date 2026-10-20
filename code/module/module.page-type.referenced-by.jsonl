@@ -5945,6 +5945,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/modules/build-factory/build-factory.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/modules/build-types/build-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/modules/race-source/race-source.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/character-build/modules/filing/character-build-filing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/characters-equipment/modules/armor-source/armor-source.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/characters-equipment/modules/armor-trait-effects/armor-trait-effects.module.ts","typed":true,"deferred":false}

@@ -1,9 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
-import {
-  asPage,
-  type PageWhere,
-} from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import { asPage } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
 import { createNewCompanion } from "akasha/temper/catalog/companion/companions-core/modules/companion-factory/companion-factory.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
@@ -12,6 +9,7 @@ import {
   type CompanionBuildPages,
   fileLiveCompanionBuild,
 } from "akasha/temper/player/character/companion-build/modules/filing/companion-build-filing.module.code.ts"
+import { rowMatches as matches } from "akasha/temper/player/character/companion-build/modules/filing/companion-build-filing.module.test-fixtures.ts"
 import {
   buildHash,
   buildId,
@@ -52,12 +50,6 @@ function buildRow(id: string, buildHashText: string, slug = `slug-of-${id}`): Ro
     accountPage: ACCOUNT,
     buildHash: buildHashText,
   }
-}
-
-function matches(row: Row, where: PageWhere | undefined): boolean {
-  return (where ?? []).every(
-    (condition) => "eq" in condition && row[condition.key] === condition.eq
-  )
 }
 
 function fakePages(
