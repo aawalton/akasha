@@ -8,7 +8,7 @@ export const jewelryTraitTriuneFineHealthMaximum = {
   thing: "temper-jewelry-trait/triune",
   quality: "temper-quality/fine",
   metric: "temper-metric-tree/metric-health-maximum",
-  value: 410,
+  value: 438,
   createdAt: "2026-09-24T14:56:29.040Z",
-  updatedAt: "2026-09-24T14:56:44.000Z",
+  updatedAt: "2026-10-20T19:53:26.048Z",
 } as const satisfies TemperGearGrade
