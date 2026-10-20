@@ -42,7 +42,7 @@ export const completionRecord = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A reading of reported stats keeps the Ultimate the character held when it was taken.",
+        "A reading of reported stats keeps the Ultimate and the Health the character held when it was taken.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -105,5 +105,5 @@ export const completionRecord = {
     },
   ],
   createdAt: "2026-09-02T04:57:23.388Z",
-  updatedAt: "2026-10-20T13:18:41.484Z",
+  updatedAt: "2026-10-20T13:23:58.204Z",
 } as const satisfies Module
