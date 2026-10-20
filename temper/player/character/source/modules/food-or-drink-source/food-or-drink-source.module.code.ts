@@ -21,7 +21,7 @@ interface FoodOrDrinkTemplate extends EffectSourceInterface {
   name: string
   description: string
   itemId: number
-  abilityId: number
+  abilityId: number | null
   icon: string
   level: string
   seconds: number
@@ -55,7 +55,9 @@ function placed(row: Row): readonly [number, FoodOrDrinkSource] {
   if (typeof row.title !== "string") throw new Error(`${at} states no title`)
   if (!isKind(row.foodOrDrinkKind)) throw new Error(`${at} states no kind`)
   if (typeof row.itemId !== "number") throw new Error(`${at} states no item`)
-  if (typeof row.abilityId !== "number") throw new Error(`${at} states no game ability`)
+  if (row.abilityId !== undefined && typeof row.abilityId !== "number") {
+    throw new Error(`${at} states a game ability that is no number`)
+  }
   if (typeof row.seconds !== "number") throw new Error(`${at} states no duration`)
   return [
     row.hashPlace,
@@ -63,7 +65,7 @@ function placed(row: Row): readonly [number, FoodOrDrinkSource] {
       id: String(row.slug),
       name: row.title,
       itemId: row.itemId,
-      abilityId: row.abilityId,
+      abilityId: row.abilityId ?? null,
       icon: parseString(row.icon),
       seconds: row.seconds,
       description: parseString(row.description),

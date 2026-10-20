@@ -6442,7 +6442,9 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-base-stat/temper-base-stat.page-type.ts","id":"01a0df46-e492-7e35-a44f-6d004d07a1c9"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-character-source.domain.ts","id":"01a060ea-ac66-7120-a995-b58614b651f2"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-eso-plus/temper-eso-plus.page-type.ts","id":"01a0df64-1044-741d-8fad-c665ba1d8093"}
+{"propertySlug":"decision-kind","path":"temper/player/character/source/temper-food-or-drink/properties/food-or-drink-item-ids.number-property.ts","id":"01a15a06-9b6c-7bbe-8fe3-f5be4651eeb0"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-food-or-drink/properties/food-or-drink-kind.text-property.ts","id":"01a0df76-1665-7540-8374-0aa322d504ba"}
+{"propertySlug":"decision-kind","path":"temper/player/character/source/temper-food-or-drink/properties/food-or-drink-status.text-property.ts","id":"01a15a06-9b6c-75ac-9aeb-865a0abf2dc0"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-food-or-drink/temper-food-or-drink.page-type.ts","id":"01a0df76-1665-75ef-8534-195cf1c4fa76"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-mundus-stone/properties/boon-at-tooltip.boolean-property.ts","id":"01a15673-4221-746e-b102-7720fd634f39"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-mundus-stone/properties/eso-icon-name.text-property.ts","id":"01a0df69-bdea-71a7-b1e8-4ff4b211f96b"}

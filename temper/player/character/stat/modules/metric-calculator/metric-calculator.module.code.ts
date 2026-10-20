@@ -261,7 +261,9 @@ export function calculateReadingStatsByBar(
   const buffByName = new Map<string, EffectSource>()
   for (const buff of Object.values(buffOrDebuff().data)) buffByName.set(buff.name, buff)
   const foodByAbility = new Map<number, string>()
-  for (const food of Object.values(foodOrDrink().data)) foodByAbility.set(food.abilityId, food.id)
+  for (const food of Object.values(foodOrDrink().data)) {
+    if (food.abilityId !== null) foodByAbility.set(food.abilityId, food.id)
+  }
   const stoneByAbility = new Map<number, string>()
   for (const stone of Object.values(mundus().data)) stoneByAbility.set(stone.esoMundusId, stone.id)
 
