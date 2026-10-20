@@ -1,0 +1,62 @@
+{
+  "character": "khelta-the-eternal",
+  "bar": "primary-weapon-bar",
+  "buildHash": "ATQKVIFAQABkRZP__Dy_lgYLo9jaAAAAAAAAAAAAAlAAAAAAABAEABAAQAIGAQAABgACIAAQAOAAADAQAAEIAABBESAQEAMAARETABExAAAAAAsAAAAQ8fQLAAAAAAQAAMg4xIGs",
+  "capturedAt": 1792508652,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "inCombat": false,
+  "activeBuffs": [
+    { "abilityId": 89957, "name": "Dubious Camoran Throne" },
+    { "abilityId": 13978, "name": "Boon: The Lord" },
+    { "abilityId": 61721, "name": "Minor Protection" }
+  ],
+  "championPoints": [
+    { "championSkillId": 38, "points": 20, "maxPoints": 20 },
+    { "championSkillId": 42, "points": 16, "maxPoints": 16 },
+    { "championSkillId": 113, "points": 20, "maxPoints": 20 },
+    { "championSkillId": 2, "points": 50, "maxPoints": 50 }
+  ],
+  "pinned": {
+    "bash-damage": 1,
+    "block-mitigation": 50,
+    "block-speed": 40,
+    "critical-rating-spell": 2181,
+    "critical-rating-weapon": 2181,
+    "damage-done-bleed": 0,
+    "damage-done-disease": 0,
+    "damage-done-flame": 0,
+    "damage-done-frost": 0,
+    "damage-done-magic": 0,
+    "damage-done-oblivion": 0,
+    "damage-done-physical": 0,
+    "damage-done-poison": 0,
+    "damage-done-shock": 0,
+    "healing-done-base": 0,
+    "healing-taken-base": 0,
+    "health-maximum": 43013,
+    "health-recovery": 309,
+    "magicka-maximum": 12000,
+    "magicka-recovery": 514,
+    "movement-sneak-speed": 60,
+    "penetration-physical": 0,
+    "penetration-spell": 0,
+    "power-spell": 1000,
+    "power-weapon": 1000,
+    "resistance-critical": 1320,
+    "resistance-physical": 0,
+    "resistance-spell": 0,
+    "stamina-maximum": 16856,
+    "stamina-recovery": 829
+  },
+  "gaps": {
+    "bash-cost": 719,
+    "break-free-cost": 5076,
+    "critical-damage": 0,
+    "healing-critical-bonus": 0,
+    "movement-sprint-speed": 158.99998474121094,
+    "sneak-cost": 133,
+    "stamina-block-cost": 1645,
+    "stamina-dodge-cost": 3798,
+    "stamina-sprint-cost": 432
+  }
+}
