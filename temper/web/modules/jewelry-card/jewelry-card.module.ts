@@ -4,7 +4,7 @@ export const jewelryCard = {
   id: "01a0642d-9a17-7d11-ac2a-0323df38b9ed",
   type: "page-type/module",
   slug: "jewelry-card",
-  definition: "a jewelry slot: its set, trait, enchant and quality, each pickable",
+  definition: "a jewelry slot: its level, set, trait, enchant and quality, each pickable",
   code: "tsx",
   decisions: [
     {
@@ -13,5 +13,5 @@ export const jewelryCard = {
     },
   ],
   createdAt: "2026-09-02T22:11:45.303Z",
-  updatedAt: "2026-09-27T11:33:07.000Z",
+  updatedAt: "2026-10-20T18:18:39.422Z",
 } as const satisfies Module

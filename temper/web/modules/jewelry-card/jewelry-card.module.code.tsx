@@ -42,6 +42,7 @@ import {
   getQualityLabel,
   getQualityVariant,
 } from "akasha/temper/web/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.code.ts"
+import { ItemLevelSelect } from "akasha/temper/web/characters-equipment-ui/modules/item-level-select/item-level-select.module.code.tsx"
 import {
   getSetById,
   SetSelectDialog,
@@ -121,6 +122,11 @@ export function JewelryCard({
             <div className="font-medium text-sm">{name}</div>
             <div>
               <div className="flex flex-wrap items-center gap-1">
+                <ItemLevelSelect
+                  level={itemData?.level}
+                  onChange={(level) => onUpdate({ level })}
+                  disabled={readOnly}
+                />
                 <Select<EquipmentQualityOptionId>
                   value={itemData?.quality ?? "no-quality"}
                   onValueChange={(v) => onUpdate({ quality: v })}

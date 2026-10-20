@@ -4,7 +4,7 @@ export const weaponCard = {
   id: "01a0642d-9a17-71b0-8afa-a9b9f5057fc6",
   type: "page-type/module",
   slug: "weapon-card",
-  definition: "a weapon slot: its type, set, trait, enchant and quality, each pickable",
+  definition: "a weapon slot: its level, type, set, trait, enchant and quality, each pickable",
   code: "tsx",
   decisions: [
     {
@@ -19,5 +19,5 @@ export const weaponCard = {
     },
   ],
   createdAt: "2026-09-02T22:11:45.303Z",
-  updatedAt: "2026-09-27T11:32:13.000Z",
+  updatedAt: "2026-10-20T18:18:39.422Z",
 } as const satisfies Module

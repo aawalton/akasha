@@ -6327,6 +6327,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/characters-equipment-ui/modules/item-level-select/item-level-select.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/companions-ui/modules/companion-quality-rules/companion-quality-rules.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/companions-ui/modules/use-companions/use-companions.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-constants/item-browser-constants.module.ts","typed":true,"deferred":false}

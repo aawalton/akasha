@@ -4,7 +4,7 @@ export const armorCard = {
   id: "01a0642d-9a17-7abb-8e55-5319438ebc16",
   type: "page-type/module",
   slug: "armor-card",
-  definition: "an armor slot: its set, trait, enchant, quality and weight, each pickable",
+  definition: "an armor slot: its level, set, trait, enchant, quality and weight, each pickable",
   code: "tsx",
   decisions: [
     {
@@ -17,5 +17,5 @@ export const armorCard = {
     },
   ],
   createdAt: "2026-09-02T22:11:45.303Z",
-  updatedAt: "2026-09-27T11:44:38.000Z",
+  updatedAt: "2026-10-20T18:18:39.422Z",
 } as const satisfies Module
