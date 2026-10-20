@@ -358,6 +358,17 @@ function readingOf(buildHash: string, [stats, unbonusedStats]: StatsNow) {
   }
 }
 
+function keptReading(buildHash: string, now: StatsNow) {
+  return {
+    ...readingOf(buildHash, now),
+    passiveRankIds: passiveRankIdsOnce(),
+    classMastery: classMasteryOnce(),
+    healthBefore: healthBefore(),
+  }
+}
+
+export type KeptReading = ReturnType<typeof keptReading>
+
 export function heldBarReading(): { bar: Bar; reading: ReturnType<typeof readingOf> } | undefined {
   const bar = heldBar()
   if (bar === undefined) return undefined
@@ -385,13 +396,7 @@ function captureBar(followUp: boolean): undefined {
   const said = `${statsSaid(now[0], now[1])}|${buffsSaid()}|${advancedSheetSaid()}${hp}`
   if (!settled(bar, buildHash, said, followUp, retake)) return
   const reported = charEntry.reportedStats ?? {}
-  const reading = {
-    ...readingOf(buildHash, now),
-    passiveRankIds: passiveRankIdsOnce(),
-    classMastery: classMasteryOnce(),
-    healthBefore: healthBefore(),
-  }
-  reported[bar] = reading
+  reported[bar] = keptReading(buildHash, now)
   charEntry.reportedStats = reported
   readingKept?.()
 }

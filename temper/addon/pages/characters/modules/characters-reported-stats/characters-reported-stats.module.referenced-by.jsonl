@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"characters-reported-stats.module.code.ts","path":"temper/addon/pages/characters/modules/characters-advanced-stats/characters-advanced-stats.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"characters-reported-stats.module.code.ts","path":"temper/addon/pages/characters/modules/characters-events-build/characters-events-build.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"characters-reported-stats.module.code.ts","path":"temper/addon/pages/characters/modules/characters-reported-stats/characters-reported-stats.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"characters-reported-stats.module.code.ts","path":"temper/addon/pages/characters/modules/characters-rotation-reading/characters-rotation-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/characters/temper-addon-characters.temper-addon.ts","id":"01a062d2-92a3-7000-a57a-3584d7763d6e"}

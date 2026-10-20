@@ -6,7 +6,12 @@ export const charactersReportedStats = {
   slug: "characters-reported-stats",
   definition: "the character sheet's numbers for the bar now held, read into the saved table",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading kept names every key the reading schema admits, and no other.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "Each stat is named by the metric the stat calculator gives the same number.",
@@ -178,5 +183,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-20T16:40:45.798Z",
+  updatedAt: "2026-10-20T16:41:32.508Z",
 } as const satisfies Module
