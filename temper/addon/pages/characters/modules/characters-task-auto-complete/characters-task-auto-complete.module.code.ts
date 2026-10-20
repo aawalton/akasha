@@ -1,6 +1,6 @@
 import {
   antiquityLeadOfCard,
-  hasNoAntiquityLeadMatching,
+  hasNoAntiquityOutstanding,
 } from "akasha/temper/addon/pages/characters/modules/characters-antiquity-lead-checks/characters-antiquity-lead-checks.module.code.ts"
 import { getCharactersConfig } from "akasha/temper/addon/pages/characters/modules/characters-config/characters-config.module.code.ts"
 import {
@@ -85,7 +85,7 @@ function checkTaskAutoCompletion(): undefined {
     if (task.rrule !== undefined) {
       const antiquityLead = antiquityLeadOfCard(task.completionCardId)
       if (antiquityLead !== undefined) {
-        if (hasNoAntiquityLeadMatching(antiquityLead)) {
+        if (hasNoAntiquityOutstanding(antiquityLead)) {
           sv.completions[completionKey] = GetTimeStamp()
         }
         continue

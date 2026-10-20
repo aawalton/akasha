@@ -1,3 +1,4 @@
+import type { OutstandingAntiquity } from "akasha/temper/addon/pages/characters/modules/characters-antiquity-lead-checks/characters-antiquity-lead-checks.module.code.ts"
 import { inventoryHintSpecs } from "akasha/temper/addon/pages/characters/modules/characters-inventory-hint-items/characters-inventory-hint-items.module.code.ts"
 import { getInventoryUpkeepHint } from "akasha/temper/addon/pages/characters/modules/characters-inventory-upkeep/characters-inventory-upkeep.module.code.ts"
 import { formatProgressCount } from "akasha/temper/addon/pages/characters/modules/characters-progress-format/characters-progress-format.module.code.ts"
@@ -45,6 +46,7 @@ import {
 import { MAX_COMPANION_RAPPORT } from "akasha/temper/player/completion/temper-player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
 import type { DailyWritProfessionState } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-daily-writs-state/completion-daily-writs-state.module.code.ts"
 import type { TaskData } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
+import { hexOf } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 
 interface SubRowProgress {
   readonly current: number
@@ -142,17 +144,34 @@ function dungeonSetSpecs(
   )
 }
 
+function easyLeadHintOf(antiquity: OutstandingAntiquity): string | undefined {
+  if (antiquity.source === "scry") return "scry"
+  if (antiquity.source === "buy") return "buy map"
+  if (antiquity.source === "dig") {
+    return antiquity.parentName === undefined
+      ? "dig the previous one first"
+      : `dig ${antiquity.parentName} first`
+  }
+  return undefined
+}
+
+function antiquityLeafText(antiquity: OutstandingAntiquity): string {
+  const hint = easyLeadHintOf(antiquity)
+  if (hint === undefined) return antiquity.name
+  return `${antiquity.name}  |c${hexOf("hint")}${hint}|r`
+}
+
 function antiquityLeadSpecs(enrichment: AntiquityLeadEnrichment): readonly SubRowSpec[] {
   const specs: SubRowSpec[] = []
   for (const group of enrichment.groups) {
-    for (const spec of groupLabelSpecs(group.digZone, group.leadNames, {
+    for (const spec of groupLabelSpecs(group.digZone, group.leads.map(antiquityLeafText), {
       current: group.completedThisSession,
       total: group.totalAtSessionStart,
     })) {
       specs.push(spec)
     }
   }
-  for (const spec of flatSpecs(enrichment.ungrouped)) specs.push(spec)
+  for (const spec of flatSpecs(enrichment.ungrouped.map(antiquityLeafText))) specs.push(spec)
   return specs
 }
 

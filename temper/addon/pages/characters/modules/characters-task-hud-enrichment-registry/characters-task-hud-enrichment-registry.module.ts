@@ -6,6 +6,18 @@ export const charactersTaskHudEnrichmentRegistry = {
   slug: "characters-task-hud-enrichment-registry",
   definition: "which extra rows a task gets under it, and how each of those rows is spelled",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An antiquity whose lead is easy to get says how after its name, in the game's hint color.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The ways are scry, buy map, and dig the antiquity whose dig rewards this one's lead first.",
+    },
+  ],
   createdAt: "2026-09-02T16:23:41.590Z",
-  updatedAt: "2026-09-21T17:05:12.000Z",
+  updatedAt: "2026-10-20T18:28:43.814Z",
 } as const satisfies Module

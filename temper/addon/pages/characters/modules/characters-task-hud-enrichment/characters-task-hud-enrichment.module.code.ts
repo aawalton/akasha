@@ -1,7 +1,8 @@
 import {
-  type ActiveAntiquityLead,
   antiquityLeadOfCard,
-  collectActiveAntiquityLeads,
+  canReadLeadSources,
+  collectOutstandingAntiquities,
+  type OutstandingAntiquity,
 } from "akasha/temper/addon/pages/characters/modules/characters-antiquity-lead-checks/characters-antiquity-lead-checks.module.code.ts"
 import { currentCharacterEntry } from "akasha/temper/addon/pages/characters/modules/characters-current-entry/characters-current-entry.module.code.ts"
 import { taskHasCardAndPathEntry } from "akasha/temper/addon/pages/characters/modules/characters-task-card-match/characters-task-card-match.module.code.ts"
@@ -144,37 +145,44 @@ interface AntiquityLeadGroup {
   readonly digZone: string
   readonly completedThisSession: number
   readonly totalAtSessionStart: number
-  readonly leadNames: readonly string[]
+  readonly leads: readonly OutstandingAntiquity[]
 }
 
 export interface AntiquityLeadEnrichment {
   readonly groups: readonly AntiquityLeadGroup[]
-  readonly ungrouped: readonly string[]
+  readonly ungrouped: readonly OutstandingAntiquity[]
+}
+
+function heldFirstThenByName(this: void, a: OutstandingAntiquity, b: OutstandingAntiquity): number {
+  const aHeld = a.source === "held" ? 0 : 1
+  const bHeld = b.source === "held" ? 0 : 1
+  if (aHeld !== bHeld) return aHeld - bHeld
+  return a.name < b.name ? -1 : a.name > b.name ? 1 : 0
 }
 
 function buildAntiquityLeadEnrichment(
   this: void,
-  current: readonly ActiveAntiquityLead[],
-  baseline: readonly ActiveAntiquityLead[],
+  current: readonly OutstandingAntiquity[],
+  baseline: readonly OutstandingAntiquity[],
   resolveDigZone: (this: void, antiquityId: number) => string | undefined
 ): AntiquityLeadEnrichment {
-  const sorted = [...current].sort((a, b) => (a.name < b.name ? -1 : a.name > b.name ? 1 : 0))
+  const sorted = [...current].sort(heldFirstThenByName)
 
   const zoneOrder: string[] = []
-  const namesByZone: Record<string, string[]> = {}
-  const ungrouped: string[] = []
+  const leadsByZone: Record<string, OutstandingAntiquity[]> = {}
+  const ungrouped: OutstandingAntiquity[] = []
   for (const lead of sorted) {
     const digZone = resolveDigZone(lead.antiquityId)
     if (digZone === undefined) {
-      ungrouped.push(lead.name)
+      ungrouped.push(lead)
       continue
     }
-    const names = namesByZone[digZone]
-    if (names === undefined) {
-      namesByZone[digZone] = [lead.name]
+    const leads = leadsByZone[digZone]
+    if (leads === undefined) {
+      leadsByZone[digZone] = [lead]
       zoneOrder.push(digZone)
     } else {
-      names.push(lead.name)
+      leads.push(lead)
     }
   }
 
@@ -182,13 +190,13 @@ function buildAntiquityLeadEnrichment(
 
   const currentIds = current.map((lead) => lead.antiquityId)
   const groups = zoneOrder.map((digZone): AntiquityLeadGroup => {
-    const leadNames = namesByZone[digZone] ?? []
+    const leads = leadsByZone[digZone] ?? []
     const baselineInZone = baseline.filter((lead) => resolveDigZone(lead.antiquityId) === digZone)
     const stillActive = baselineInZone.filter((lead) => currentIds.includes(lead.antiquityId))
     return {
       digZone,
-      leadNames,
-      totalAtSessionStart: baselineInZone.length > 0 ? baselineInZone.length : leadNames.length,
+      leads,
+      totalAtSessionStart: baselineInZone.length > 0 ? baselineInZone.length : leads.length,
       completedThisSession: baselineInZone.length - stillActive.length,
     }
   })
@@ -196,11 +204,17 @@ function buildAntiquityLeadEnrichment(
   return { groups, ungrouped }
 }
 
-let sessionBaselineLeads: readonly ActiveAntiquityLead[] | undefined
+const SESSION_BASELINE_BY_CARD: Record<string, readonly OutstandingAntiquity[]> = {}
 
-function getSessionBaselineLeads(this: void): readonly ActiveAntiquityLead[] {
-  if (sessionBaselineLeads === undefined) sessionBaselineLeads = collectActiveAntiquityLeads()
-  return sessionBaselineLeads
+function getSessionBaseline(
+  this: void,
+  cardId: string,
+  now: readonly OutstandingAntiquity[]
+): readonly OutstandingAntiquity[] {
+  const kept = SESSION_BASELINE_BY_CARD[cardId]
+  if (kept !== undefined) return kept
+  if (canReadLeadSources()) SESSION_BASELINE_BY_CARD[cardId] = now
+  return now
 }
 
 interface AntiquityLeadsView {
@@ -222,11 +236,8 @@ function resolveAntiquityDigZone(this: void, antiquityId: number): string | unde
 export function getAntiquityLeadEnrichment(cardId: string): AntiquityLeadEnrichment {
   const predicate = antiquityLeadOfCard(cardId)
   if (predicate === undefined) return { groups: [], ungrouped: [] }
-  return buildAntiquityLeadEnrichment(
-    collectActiveAntiquityLeads().filter(predicate),
-    getSessionBaselineLeads().filter(predicate),
-    resolveAntiquityDigZone
-  )
+  const now = collectOutstandingAntiquities(predicate)
+  return buildAntiquityLeadEnrichment(now, getSessionBaseline(cardId, now), resolveAntiquityDigZone)
 }
 
 export function isAntiquitySessionTask(task: TaskData): boolean {
@@ -235,8 +246,8 @@ export function isAntiquitySessionTask(task: TaskData): boolean {
 
 function aggregateAntiquitySessionProgress(
   this: void,
-  current: readonly ActiveAntiquityLead[],
-  baseline: readonly ActiveAntiquityLead[]
+  current: readonly OutstandingAntiquity[],
+  baseline: readonly OutstandingAntiquity[]
 ): TaskProgress | undefined {
   const currentIds = current.map((lead) => lead.antiquityId)
   const dug = baseline.filter((lead) => !currentIds.includes(lead.antiquityId)).length
@@ -249,9 +260,7 @@ export function getAntiquityLeadSessionProgress(
   cardId: string | undefined
 ): TaskProgress | undefined {
   const predicate = antiquityLeadOfCard(cardId)
-  if (predicate === undefined) return undefined
-  return aggregateAntiquitySessionProgress(
-    collectActiveAntiquityLeads().filter(predicate),
-    getSessionBaselineLeads().filter(predicate)
-  )
+  if (cardId === undefined || predicate === undefined) return undefined
+  const now = collectOutstandingAntiquities(predicate)
+  return aggregateAntiquitySessionProgress(now, getSessionBaseline(cardId, now))
 }

@@ -36,9 +36,9 @@ export const charactersTaskAutoComplete = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An antiquity task is marked once its category holds no lead left to dig, and by nothing else.",
+        "An antiquity task is marked once its category holds no antiquity left to dig, and by nothing else.",
     },
   ],
   createdAt: "2026-09-02T16:49:56.559Z",
-  updatedAt: "2026-10-13T14:37:44.586Z",
+  updatedAt: "2026-10-20T18:28:43.814Z",
 } as const satisfies Module
