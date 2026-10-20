@@ -17,6 +17,7 @@ const LEVEL_ONE: readonly Case[] = [
   ["medium", "normal", "legs", 59, "01a155cc-8279-70ed-9f44-ca7ace298368"],
   ["medium", "normal", "feet", 59, "01a155cb-f0af-7ac1-8057-355594510d7b"],
   ["medium", "normal", "hands", 34, "01a155cc-68cc-7bc0-ad92-89f3578f76d4"],
+  ["light", "normal", "waist", 19, "01a15a4d-3efd-777a-9874-70934b32d76b"],
   ["light", "fine", "head", 87, "01a15627-1846-7fd0-95fc-a5a11fc82aeb"],
   ["light", "fine", "shoulders", 87, "01a15626-e46d-7491-873a-266252f2c82e"],
   ["light", "fine", "chest", 100, "01a15627-2655-7ce0-8673-cb1f800f5f5d"],
