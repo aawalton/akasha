@@ -45,11 +45,7 @@ export const surplusReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day holding neither sleep hours nor spend hours is absent rather than zero.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A day with no surplus is no reading rather than a reading of zero.",
+      statement: "A day with no surplus yet, or no tracking day yet, reads zero.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -90,5 +86,5 @@ export const surplusReading = {
     },
   ],
   createdAt: "2026-09-04T00:05:05.441Z",
-  updatedAt: "2026-09-25T17:30:04.000Z",
+  updatedAt: "2026-10-20T11:11:50.885Z",
 } as const satisfies Module

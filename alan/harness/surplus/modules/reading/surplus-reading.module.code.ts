@@ -16,11 +16,9 @@ import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.
 
 const SERVED_BY = namedAs(module.slug, surplusReading.slug, null)
 
-const NOTHING_TO_TAKE =
-  "no tracking day carries a surplus, so there is no reading to take. A tile showing no signal is " +
-  "right where a tile showing hours Alan does not have would be a lie."
+const NO_SURPLUS_YET = 0
 
-export async function takeReading(root: string, now: Date = new Date()): Promise<number | null> {
+export async function takeReading(root: string, now: Date = new Date()): Promise<number> {
   const asked = await askDayByDate(openedDayOf(resolveRoots(), now))
   if (!asked.ok) {
     throw new Error(
@@ -28,21 +26,16 @@ export async function takeReading(root: string, now: Date = new Date()): Promise
     )
   }
   const row = asked.rows[0]
-  if (row === undefined) return null
-  const hours = surplusIn(row.values)
-  if (hours === null) return null
-  keepReading(root, readoutServedBy(root, SERVED_BY), hours, now, fallsPerHourIn(row.values))
+  const values = row?.values ?? {}
+  const hours = surplusIn(values) ?? NO_SURPLUS_YET
+  keepReading(root, readoutServedBy(root, SERVED_BY), hours, now, fallsPerHourIn(values))
   return hours
 }
 
 if (import.meta.main) {
   const root = rootStated(process.env) ?? process.cwd()
   try {
-    const hours = await takeReading(root)
-    if (hours === null) {
-      process.stderr.write(`${NOTHING_TO_TAKE}\n`)
-      process.exit(2)
-    }
+    await takeReading(root)
     process.stdout.write(
       `a surplus was taken and kept beside ${readoutServedBy(root, SERVED_BY)}\n`
     )

@@ -35,15 +35,8 @@ export const upkeepSurplus = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "No tracking day is no reading rather than a surplus of zero.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A tracking day with no surplus is no reading rather than a surplus of zero.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A day with neither sleep nor spend is no reading rather than a surplus of zero.",
+      statement:
+        "No tracking day yet, or a tracking day with neither sleep nor spend yet, reads a surplus of zero.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -78,5 +71,5 @@ export const upkeepSurplus = {
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   madeFrom: "day-row-and-stretches",
   createdAt: "2026-09-02T01:36:55.386Z",
-  updatedAt: "2026-10-18T13:32:41.384Z",
+  updatedAt: "2026-10-20T11:11:50.885Z",
 } as const satisfies Readout
