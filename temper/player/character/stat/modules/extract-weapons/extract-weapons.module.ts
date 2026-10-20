@@ -11,7 +11,12 @@ export const extractWeapons = {
       decisionKind: "decision-kind/departure",
       statement: "A weapon's effect held only while a buff is up counts on either bar.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An off-hand weapon gives 0.177 of its power, and 0.03 more per Dual Wield Expert rank.",
+    },
   ],
   createdAt: "2026-09-02T14:06:51.855Z",
-  updatedAt: "2026-10-20T15:23:02.798Z",
+  updatedAt: "2026-10-20T19:38:17.456Z",
 } as const satisfies Module

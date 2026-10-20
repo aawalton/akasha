@@ -10,9 +10,9 @@ export const weaponSource = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An off-hand weapon gives 0.237 of its Weapon and Spell Damage, rounded on its own before the sum.",
+        "A weapon's share of its Weapon and Spell Damage is rounded on its own before the sum.",
     },
   ],
   createdAt: "2026-09-02T09:24:55.962Z",
-  updatedAt: "2026-10-20T18:49:52.739Z",
+  updatedAt: "2026-10-20T19:38:17.456Z",
 } as const satisfies Module
