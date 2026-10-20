@@ -10,6 +10,7 @@ import { foodOrDrink } from "akasha/temper/player/character/source/modules/food-
 import { mundus } from "akasha/temper/player/character/source/modules/mundus-source/mundus-source.module.code.ts"
 import { calculateBuffs } from "akasha/temper/player/character/stat/modules/buff-or-debuff-calculator/buff-or-debuff-calculator.module.code.ts"
 import { buildStateToEffectSources } from "akasha/temper/player/character/stat/modules/build-state-adapter/build-state-adapter.module.code.ts"
+import { starShareOf } from "akasha/temper/player/character/stat/modules/champion-damage-taken/champion-damage-taken.module.code.ts"
 import type { FormulaNode } from "akasha/temper/player/character/stat/modules/formula-types/formula-types.module.code.ts"
 import {
   evaluateFormula,
@@ -223,11 +224,8 @@ type StarPoints = {
   readonly maxPoints: number
 }
 
-function pointsPaid(source: EffectSource, points: number): number {
-  const jumps: readonly number[] =
-    "jumpPoints" in source && Array.isArray(source.jumpPoints) ? source.jumpPoints : []
-  if (jumps.length === 0) return points
-  return jumps.reduce((reached, jump) => (jump <= points && jump > reached ? jump : reached), 0)
+function jumpPointsOf(source: EffectSource): readonly number[] {
+  return "jumpPoints" in source && Array.isArray(source.jumpPoints) ? source.jumpPoints : []
 }
 
 function asSpent(
@@ -240,7 +238,7 @@ function asSpent(
   }
   const star = spent.get(source.esoChampionSkillId)
   if (star === undefined) return undefined
-  const share = pointsPaid(source, star.points) / star.maxPoints
+  const share = starShareOf(jumpPointsOf(source), star.points, star.maxPoints)
   const effects = source.effects.map((effect) =>
     isMetricEffect(effect) &&
     (effect.effectType === "integer" || effect.effectType === "fractional-change")
