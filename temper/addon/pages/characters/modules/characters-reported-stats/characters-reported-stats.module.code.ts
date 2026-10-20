@@ -85,6 +85,21 @@ function activeBuffs(): ActiveBuff[] {
   return buffs
 }
 
+type Pet = {
+  name: string
+  dead: boolean
+}
+
+function pets(): Pet[] {
+  const held: Pet[] = []
+  for (let index = 1; index <= MAX_PET_UNIT_TAGS; index++) {
+    const unitTag = `playerpet${index}`
+    if (!DoesUnitExist(unitTag)) continue
+    held.push({ name: zo_strformat("<<1>>", GetUnitName(unitTag)), dead: IsUnitDead(unitTag) })
+  }
+  return held
+}
+
 const CHAMPION_DISCIPLINES = 3
 
 type StarSpent = {
@@ -361,6 +376,7 @@ function readingOf(buildHash: string, [stats, unbonusedStats]: StatsNow) {
     stats,
     unbonusedStats,
     activeBuffs: activeBuffs(),
+    pets: pets(),
     inArchive: IsInstanceEndlessDungeon(),
     archiveBoons: archiveBoons(),
     championPoints: championPoints(),

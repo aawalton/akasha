@@ -34,6 +34,10 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A reading keeps each pet the player has, by its name and whether it is dead.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reading says whether the player was in combat when it was taken.",
     },
     {
@@ -178,5 +182,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-20T13:26:17.314Z",
+  updatedAt: "2026-10-20T13:53:12.487Z",
 } as const satisfies Module
