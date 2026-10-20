@@ -51,6 +51,11 @@ export const completionRecord = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A reading of reported stats may keep the Health held at the capture before the one kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A reading of reported stats keeps each skill on the bar held, as the game gave it.",
     },
     {
@@ -109,5 +114,5 @@ export const completionRecord = {
     },
   ],
   createdAt: "2026-09-02T04:57:23.388Z",
-  updatedAt: "2026-10-20T16:35:43.029Z",
+  updatedAt: "2026-10-20T16:37:33.374Z",
 } as const satisfies Module
