@@ -33,14 +33,10 @@ export const temperWeaponType = {
       decisionKind: "decision-kind/constraint",
       statement: "A weapon type's hash place is the index a build hash has for it.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A weapon type's power at each quality is a grade under the weapon type.",
-    },
   ],
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
   createdAt: "2026-09-02T01:53:02.018Z",
-  updatedAt: "2026-10-20T18:25:50.837Z",
+  updatedAt: "2026-10-20T19:06:21.443Z",
 } as const satisfies PageType

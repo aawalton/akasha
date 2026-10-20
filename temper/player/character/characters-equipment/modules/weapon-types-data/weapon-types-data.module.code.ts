@@ -12,10 +12,7 @@ import {
 import type { WeaponTypeId } from "akasha/temper/catalog/gear/equipment/modules/weapon-type-ids/weapon-type-ids.module.code.ts"
 import { pieceWorthLevel } from "akasha/temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.code.ts"
 import type { ItemLevel } from "akasha/temper/player/character/characters-equipment/modules/item-composites/item-composites.module.code.ts"
-import {
-  topWorthLevel,
-  worthLevel,
-} from "akasha/temper/player/character/characters-equipment/modules/level-scaling/level-scaling.module.code.ts"
+import { topWorthLevel } from "akasha/temper/player/character/characters-equipment/modules/level-scaling/level-scaling.module.code.ts"
 
 interface WeaponTypeTemplate {
   readonly id: WeaponTypeId
@@ -31,8 +28,6 @@ interface WeaponTypeTemplate {
 
 type Row = Readonly<Record<string, unknown>>
 
-const TYPE_PAGES = "temper-weapon-type/"
-
 const ONE_HAND_LINES = "weapon-one-hand"
 
 const NO_TYPE = "no-type"
@@ -45,8 +40,6 @@ function lineOf(row: Row): string {
 const held = heldGearTable<WeaponTypeId, WeaponTypeTemplate>("weapon types")
 
 export const weaponTypes: DataFile<WeaponTypeId, WeaponTypeTemplate> = held.table
-
-let powers: ReadonlyMap<string, number> | null = null
 
 function typeOf(row: Row): WeaponTypeTemplate {
   const slots: readonly unknown[] = Array.isArray(row.validSlots) ? row.validSlots : []
@@ -63,24 +56,8 @@ function typeOf(row: Row): WeaponTypeTemplate {
   }
 }
 
-export function holdWeaponTypes(pages: Iterable<Row>, grades: Iterable<Row>): undefined {
+export function holdWeaponTypes(pages: Iterable<Row>): undefined {
   held.hold(gearTableOf(inGearOrder(pages, "hashPlace").map(typeOf)))
-  const found = new Map<string, number>()
-  for (const grade of grades) {
-    const thing = String(grade.thing)
-    if (!thing.startsWith(TYPE_PAGES)) continue
-    found.set(`${slugOf(thing)}/${slugOf(grade.quality)}`, Number(grade.value))
-  }
-  powers = found
-}
-
-function powerOf(weaponType: WeaponTypeId, quality: EquipmentQualityId): number {
-  if (powers === null) {
-    throw new Error(
-      "the weapon types are read with the skill catalogue, and nothing has read them yet"
-    )
-  }
-  return powers.get(`${weaponType}/${quality}`) ?? 0
 }
 
 export function getWeaponPower(
@@ -92,14 +69,12 @@ export function getWeaponPower(
     return 0
   }
 
-  if (level !== undefined) {
-    const { weaponPower, levelIntercept } = weaponTypes.data[weaponType]
-    const curve = quality === "legendary" ? "legendary" : "normal"
-    const worth =
-      worthLevel(level) + pieceWorthLevel(quality, level) - pieceWorthLevel(curve, level)
-    const growth = ((weaponPower - levelIntercept) * worth) / topWorthLevel()
-    return Math.floor((levelIntercept + growth) * qualityScale(curve, "weaponLevelScale"))
-  }
-
-  return powerOf(weaponType, quality)
+  const { weaponPower, levelIntercept } = weaponTypes.data[weaponType]
+  const curve = quality === "legendary" ? "legendary" : "normal"
+  const worth =
+    pieceWorthLevel("legendary", level) +
+    pieceWorthLevel(quality, level) -
+    pieceWorthLevel(curve, level)
+  const growth = ((weaponPower - levelIntercept) * worth) / topWorthLevel()
+  return Math.floor((levelIntercept + growth) * qualityScale(curve, "weaponLevelScale"))
 }

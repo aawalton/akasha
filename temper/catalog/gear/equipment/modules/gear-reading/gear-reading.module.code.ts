@@ -178,7 +178,7 @@ export function holdGear(rowsOf: (pageTypeSlug: string) => Iterable<Row>): undef
   holdWeaponBarPages(rowsOf(temperWeaponBar.slug))
   holdPlayerEquipmentConstants(rowsOf(temperEsoPlayerEquipmentConstant.slug))
   holdArmorWeights(rowsOf(temperArmorWeight.slug), rowsOf(temperGearGrade.slug))
-  holdWeaponTypes(rowsOf(temperWeaponType.slug), rowsOf(temperGearGrade.slug))
+  holdWeaponTypes(rowsOf(temperWeaponType.slug))
   holdTraits(rowsOf)
   holdEnchants(rowsOf)
   holdGraded(rowsOf, GRADED)

@@ -18,7 +18,7 @@ export const weaponTypesData = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A weapon's power at a quality and no item level is the grade under its page.",
+      statement: "A weapon with no item level is worth what it is worth at CP160.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -44,5 +44,5 @@ export const weaponTypesData = {
     },
   ],
   createdAt: "2026-09-02T09:24:55.957Z",
-  updatedAt: "2026-10-20T18:52:53.289Z",
+  updatedAt: "2026-10-20T19:06:21.443Z",
 } as const satisfies Module

@@ -1,8 +1,3 @@
 {"propertySlug":"browser-weapon-types","path":"temper/items/core/temper-browser-category/pages/companion-weapons.temper-browser-category.ts","id":"01a0e10d-1b60-7185-af64-d1b3d8380734"}
 {"propertySlug":"browser-weapon-types","path":"temper/items/core/temper-browser-category/pages/weapons-two-handed.temper-browser-category.ts","id":"01a0e10d-1b61-7cfc-89c1-d30ee285e872"}
-{"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/maul/grades/weapon-type-maul-epic.temper-gear-grade.ts","id":"01a0e0d2-8814-7149-a3ad-ff49af844fa0"}
-{"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/maul/grades/weapon-type-maul-fine.temper-gear-grade.ts","id":"01a0e0d2-8814-76fc-85f7-fb53d970f6a6"}
-{"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/maul/grades/weapon-type-maul-legendary.temper-gear-grade.ts","id":"01a0e0d2-8814-7174-be9e-d189b6b6345c"}
-{"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/maul/grades/weapon-type-maul-normal.temper-gear-grade.ts","id":"01a0e0d2-8814-76c2-a5f3-4960c9c42591"}
-{"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/maul/grades/weapon-type-maul-superior.temper-gear-grade.ts","id":"01a0e0d2-8814-7428-8dc5-23ebbab25fa1"}
 {"propertySlug":"import","fileName":"maul.temper-weapon-type.ts","path":"temper/items/filters/core/modules/search-page-options/search-page-options.module.test.ts","typed":false,"deferred":false}
