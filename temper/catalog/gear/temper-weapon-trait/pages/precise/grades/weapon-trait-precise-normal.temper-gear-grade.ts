@@ -9,6 +9,7 @@ export const weaponTraitPreciseNormal = {
   quality: "temper-quality/normal",
   metric: "temper-metric-tree/metric-critical-rating",
   value: 350,
+  rawValue: 350.5,
   createdAt: "2026-09-24T14:55:00.801Z",
-  updatedAt: "2026-09-24T14:55:12.000Z",
+  updatedAt: "2026-10-20T18:01:21.518Z",
 } as const satisfies TemperGearGrade
