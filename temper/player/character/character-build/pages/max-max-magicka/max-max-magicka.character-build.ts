@@ -8,11 +8,11 @@ export const maxMaxMagicka = {
   description: "",
   accountPage: "temper-account/alanarre",
   buildHash:
-    "ATQJopWgAABjRwwGj6tuRFKbaACaGe0AEUM9oAIoZ7QATQz2gAihntAARqbaAAkH3UABGptoADMym2gBNqbaABxMptoA0gjcWGiCsFF0gIkk-iCsKRgAEUcglIICygKcAFAAyAAgQhQoJOBHgAyAAcwAJQHFIqAZNAdUcEIWECACAQRmA9aIKDpSDJcHBEKEJEBAZGZARGQkQEZGpERABGRmaCAEhAZEgACIZERmB0RgaEQHRERMhmRoAAEEREBkRJRmCEREREYEdZdFbUbkWJOGVjyZZcybOz6NOrXtn0KNKnU8VayxsrZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJhAgMhYxIGoeyqRA",
+    "ATQKopWgAABjRwwGj6tuRFKbaACaGe0AEUM9oAIoZ7QATQz2gAihntAARqbaAAkH3UABGptoADMym2gBNqbaABxMptoAySfYTyQSZUiSSHsg-QSZZKgEzoqhB2G4GBoBEmYri8DQDsCw7XDXB-cRORAhFsPuijrTXjhEKEJEBAZGZARGQkQEZGpERABGRmaCAEhAZEgACIZERmB0RgaEQHRERMhmRoAAEEREBkRJRmCEREREYEdZdFbUbkWJOGVjyZZcybOz6NOrXtn0KNKnU8VayxsrZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJhAgMhYxIGoeyqRA",
   visibility: "live",
   targetCount: 1,
   roles: [],
   characterName: "Valeterisa",
   createdAt: "2026-10-20T00:21:12.121Z",
-  updatedAt: "2026-10-20T01:24:10.110Z",
+  updatedAt: "2026-10-20T02:15:16.101Z",
 } as const satisfies CharacterBuild
