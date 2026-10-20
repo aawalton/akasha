@@ -6348,6 +6348,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-codec/modules/build-codec-v52-rank-pages/build-codec-v52-rank-pages.data-table.ts","id":"01a156c4-e297-7828-9c63-cf48ad0a5592"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-codec/modules/build-codec-v52-skills/build-codec-v52-skills.module.ts","id":"01a062e7-4dd3-79ae-be15-6dd7b2efcddd"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-codec/modules/build-codec-v52/build-codec-v52.module.ts","id":"01a062e7-4dd0-7986-94bf-dbbb8f77aa09"}
+{"propertySlug":"decision-kind","path":"temper/player/character/build/build-codec/modules/item-level-places/item-level-places.module.ts","id":"01a15a64-a4e0-7ccd-8995-04cf2600a124"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-codec/temper-build-codec.domain.ts","id":"01a062e7-4dd4-7379-91b1-47690a52822a"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-hash/properties/build-hash.text-property.ts","id":"01a0685d-89aa-782d-959a-2f5cebb21882"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-hash/properties/hash-indexed.text-property.ts","id":"01a0d5be-2064-7ee6-b753-68438fdbc94c"}

@@ -43,6 +43,7 @@ import { base64urlToBytes } from "akasha/temper/player/character/build/build-has
 import { stampedWith } from "akasha/temper/player/character/build/build-hash/test-fixtures/build-hash-test-utils/build-hash-test-utils.test-fixture.code.ts"
 import type { StandardArmorType } from "akasha/temper/catalog/gear/equipment/kind/modules/armor-types/armor-types.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
+import type { ItemLevel } from "akasha/temper/player/character/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import type {
   ArmorSlotItem,
   JewelrySlotItem,
@@ -61,7 +62,7 @@ const CHARACTER_BUILD_TYPE = 1
 
 const RECORDED_MINOR_VERSION = 7
 
-const CODEC_MINOR_VERSION = 11
+const CODEC_MINOR_VERSION = 12
 
 const SAVED_BEFORE_RANKS =
   "ATQINIGgAABiRROBif2zihYCWgAi3FtuX_AAAAAAAAAAAAAAAAAAAAAAAAAIkAIAQBgAAgAAAAAgAAhAAACIAIgBgAABAAAgMCAAAySAAAwAAMIAAAAgDABAAAAHAACAAGKwAAABVKwAAAAAAAAAAAPgAMmWAgk14ZLOeJjBIDGFAhHmwXWK1ymYYi54JJQiAHt5m1r2nmuHsoGQ"
@@ -85,6 +86,10 @@ function armorPiece(type: StandardArmorType, seed: number): ArmorSlotItem {
       enchantmentSubtype: 367,
     },
   }
+}
+
+function withLevel(piece: ArmorSlotItem, level: ItemLevel): ArmorSlotItem {
+  return piece.itemType === "armor" ? { itemType: "armor", data: { ...piece.data, level } } : piece
 }
 
 function jewelryPiece(type: "necklace" | "ring", seed: number): JewelrySlotItem {
@@ -112,6 +117,7 @@ function weaponPiece(seed: number): WeaponSlotItem {
       set: getSetId(120 + seed),
       quality: getQualityId(1 + (seed % 5)),
       enchantmentQuality: "epic",
+      level: seed % 2 === 0 ? "CP160" : 46,
     },
   }
 }
@@ -317,6 +323,44 @@ test("a hash the add-on saved before minor eleven reads its food or drink from s
     potion: "essence-of-potent-stamina",
     potion2: "no-potion",
   })
+})
+
+test("each piece's item level survives a build written and read back", () => {
+  const build = representativeBuild()
+  const armor = build.equipment.armor
+  const leveled: CharacterState = {
+    ...build,
+    equipment: {
+      ...build.equipment,
+      armor: {
+        ...armor,
+        head: withLevel(armor.head, 1),
+        waist: withLevel(armor.waist, 26),
+        chest: withLevel(armor.chest, "CP10"),
+        legs: withLevel(armor.legs, "CP150"),
+        feet: withLevel(armor.feet, "CP160"),
+      },
+    },
+  }
+  const read = decodeBuild(encodeBuild(leveled))
+  expect(read).toEqual(leveled)
+  expect(read?.equipment.armor.head.data?.level).toBe(1)
+  expect(read?.equipment.armor.legs.data?.level).toBe("CP150")
+  expect(read?.equipment.armor.hands.data?.level).toBeUndefined()
+})
+
+test("a hash saved before minor twelve reads every piece with no level, which prices it at CP160", () => {
+  for (const hash of [SAVED_WITH_A_PAGE_MANY_RANKS_SET, SAVED_WITH_A_RANK_ONE_PAGE, ...RECORDED]) {
+    const equipment = decodeBuild(buildHash(hash))?.equipment
+    expect(equipment).toBeDefined()
+    const pieces = [
+      ...Object.values(equipment?.armor ?? {}),
+      ...Object.values(equipment?.jewelry ?? {}),
+      ...Object.values(equipment?.["primary-weapon-bar"] ?? {}),
+      ...Object.values(equipment?.["backup-weapon-bar"] ?? {}),
+    ]
+    for (const piece of pieces) expect(piece.data === null || !("level" in piece.data)).toBe(true)
+  }
 })
 
 test("a build read from a rank page's bit is written and read back as that build", () => {

@@ -15,7 +15,15 @@ export const buildCodecV52Equipment = {
       decisionKind: "decision-kind/departure",
       statement: "A subtype of zero is a piece whose glyph level is not known.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "From minor twelve each piece keeps its item level beside its glyph's subtype.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A piece written before minor twelve is read with no level, which prices it at CP160.",
+    },
   ],
   createdAt: "2026-09-02T16:15:21.042Z",
-  updatedAt: "2026-10-14T16:20:19.949Z",
+  updatedAt: "2026-10-20T17:38:27.679Z",
 } as const satisfies Module

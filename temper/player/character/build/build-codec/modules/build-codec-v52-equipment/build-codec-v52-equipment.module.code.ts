@@ -33,6 +33,11 @@ import {
   weaponTraitBits,
   weaponTypeBits,
 } from "akasha/temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"
+import {
+  ITEM_LEVEL_BITS,
+  itemLevelOfPlace,
+  itemLevelPlaceOf,
+} from "akasha/temper/player/character/build/build-codec/modules/item-level-places/item-level-places.module.code.ts"
 import type { BitReaderState } from "akasha/temper/player/character/build/build-hash/modules/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
 import { readBits } from "akasha/temper/player/character/build/build-hash/modules/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
 import type { BitWriterState } from "akasha/temper/player/character/build/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
@@ -51,6 +56,7 @@ import {
   jewelrySlots,
 } from "akasha/temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
+import type { ItemLevel } from "akasha/temper/player/character/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import type {
   ArmorSlotItem,
   JewelrySlotItem,
@@ -61,6 +67,7 @@ import type {
 const GLYPH_SUBTYPE_BITS = 9
 const GLYPH_SUBTYPE_LIMIT = 1 << GLYPH_SUBTYPE_BITS
 const FIRST_MINOR_WITH_GLYPH_SUBTYPE = 8
+const FIRST_MINOR_WITH_ITEM_LEVEL = 12
 
 export function encodeEquipment(writer: BitWriterState, build: CharacterState): undefined {
   const equipment = build.equipment
@@ -92,6 +99,7 @@ function encodeArmorSlot(writer: BitWriterState, slot: ArmorSlotItem): undefined
   writeBits(writer, getQualityIndex(armor.quality ?? "no-quality"), qualityBits())
   writeBits(writer, getQualityIndex(armor.enchantmentQuality ?? "no-quality"), qualityBits())
   encodeGlyphSubtype(writer, armor.enchantmentSubtype)
+  encodeItemLevel(writer, armor.level)
 }
 
 function encodeJewelrySlot(writer: BitWriterState, slot: JewelrySlotItem): undefined {
@@ -108,6 +116,7 @@ function encodeJewelrySlot(writer: BitWriterState, slot: JewelrySlotItem): undef
   writeBits(writer, getQualityIndex(jewelry.quality ?? "no-quality"), qualityBits())
   writeBits(writer, getQualityIndex(jewelry.enchantmentQuality ?? "no-quality"), qualityBits())
   encodeGlyphSubtype(writer, jewelry.enchantmentSubtype)
+  encodeItemLevel(writer, jewelry.level)
 }
 
 function encodeWeaponBar(writer: BitWriterState, bar: WeaponSlot): undefined {
@@ -135,6 +144,7 @@ function encodeWeaponSlot(writer: BitWriterState, slot: WeaponSlotItem): undefin
     writeBits(writer, getQualityIndex(shield.quality ?? "no-quality"), qualityBits())
     writeBits(writer, getQualityIndex(shield.enchantmentQuality ?? "no-quality"), qualityBits())
     encodeGlyphSubtype(writer, shield.enchantmentSubtype)
+    encodeItemLevel(writer, shield.level)
   } else {
     writeBits(writer, 0, 1)
     const weapon = slot.data
@@ -146,12 +156,17 @@ function encodeWeaponSlot(writer: BitWriterState, slot: WeaponSlotItem): undefin
     writeBits(writer, getQualityIndex(weapon.quality ?? "no-quality"), qualityBits())
     writeBits(writer, getQualityIndex(weapon.enchantmentQuality ?? "no-quality"), qualityBits())
     encodeGlyphSubtype(writer, weapon.enchantmentSubtype)
+    encodeItemLevel(writer, weapon.level)
   }
 }
 
 function encodeGlyphSubtype(writer: BitWriterState, subtype: number | undefined): undefined {
   const fits = subtype !== undefined && subtype > 0 && subtype < GLYPH_SUBTYPE_LIMIT
   writeBits(writer, fits ? subtype : 0, GLYPH_SUBTYPE_BITS)
+}
+
+function encodeItemLevel(writer: BitWriterState, level: ItemLevel | undefined): undefined {
+  writeBits(writer, itemLevelPlaceOf(level), ITEM_LEVEL_BITS)
 }
 
 export function decodeEquipment(
@@ -203,6 +218,7 @@ function decodeArmorSlot(
   const quality = decodeQuality(reader)
   const enchantmentQuality = decodeEnchantmentQuality(reader)
   const enchantmentSubtype = decodeGlyphSubtype(reader, minorVersion)
+  const level = decodeItemLevel(reader, minorVersion)
 
   return {
     itemType: "armor",
@@ -215,6 +231,7 @@ function decodeArmorSlot(
       quality,
       enchantmentQuality,
       enchantmentSubtype,
+      ...level,
     },
   }
 }
@@ -245,6 +262,7 @@ function decodeJewelrySlot(
   const quality = decodeQuality(reader)
   const enchantmentQuality = decodeEnchantmentQuality(reader)
   const enchantmentSubtype = decodeGlyphSubtype(reader, minorVersion)
+  const level = decodeItemLevel(reader, minorVersion)
 
   const type = slotId === "necklace" ? "necklace" : "ring"
 
@@ -258,6 +276,7 @@ function decodeJewelrySlot(
       quality,
       enchantmentQuality,
       enchantmentSubtype,
+      ...level,
     },
   }
 }
@@ -293,6 +312,7 @@ function decodeWeaponSlot(reader: BitReaderState, minorVersion: number): WeaponS
     const quality = decodeQuality(reader)
     const enchantmentQuality = decodeEnchantmentQuality(reader)
     const enchantmentSubtype = decodeGlyphSubtype(reader, minorVersion)
+    const level = decodeItemLevel(reader, minorVersion)
 
     return {
       itemType: "shield",
@@ -305,6 +325,7 @@ function decodeWeaponSlot(reader: BitReaderState, minorVersion: number): WeaponS
         quality,
         enchantmentQuality,
         enchantmentSubtype,
+        ...level,
       },
     }
   }
@@ -317,6 +338,7 @@ function decodeWeaponSlot(reader: BitReaderState, minorVersion: number): WeaponS
   const quality = decodeQuality(reader)
   const enchantmentQuality = decodeEnchantmentQuality(reader)
   const enchantmentSubtype = decodeGlyphSubtype(reader, minorVersion)
+  const level = decodeItemLevel(reader, minorVersion)
 
   return {
     itemType: "weapon",
@@ -329,8 +351,18 @@ function decodeWeaponSlot(reader: BitReaderState, minorVersion: number): WeaponS
       quality,
       enchantmentQuality,
       enchantmentSubtype,
+      ...level,
     },
   }
+}
+
+function decodeItemLevel(
+  reader: BitReaderState,
+  minorVersion: number
+): { readonly level?: ItemLevel } {
+  if (minorVersion < FIRST_MINOR_WITH_ITEM_LEVEL) return {}
+  const level = itemLevelOfPlace(readBits(reader, ITEM_LEVEL_BITS))
+  return level === undefined ? {} : { level }
 }
 
 function decodeQuality(reader: BitReaderState): EquipmentQualityOptionId | undefined {
