@@ -4,21 +4,30 @@ export const FORMULA: FormulaNode = {
   type: "divide",
   operands: [
     {
-      type: "min",
+      type: "divide",
       operands: [
         {
-          type: "constant",
-          value: 33000,
+          type: "min",
+          operands: [
+            {
+              type: "constant",
+              value: 33000,
+            },
+            {
+              type: "metric-refs",
+              metricIds: ["resistance-physical"],
+            },
+          ],
         },
         {
-          type: "metric-refs",
-          metricIds: ["resistance-physical"],
+          type: "constant",
+          value: 660,
         },
       ],
     },
     {
       type: "constant",
-      value: 66000,
+      value: 100,
     },
   ],
 }
