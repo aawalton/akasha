@@ -42,7 +42,17 @@ export const nimueItemLevelCases = {
     {
       statement: "Each armor and weapon trait is pinned at each quality.",
       workingMemory:
-        "Session 6. One piece, one trait change per reading. Reinforced and nirnhoned read resistance, divines the mundus stat, impenetrable critical resistance, infused the enchant stat. A trait changing no sheet stat waits for a reading that shows one.",
+        "Session 6. One piece, one trait change per reading. Reinforced and nirnhoned read resistance, divines the mundus stat, impenetrable critical resistance, infused the enchant stat. A trait changing no sheet stat waits for a reading that shows one. A trait is the same on every armor slot, so a shield is used for all of them.",
+    },
+    {
+      statement: "Each weapon trait is pinned at each quality.",
+      workingMemory:
+        "Session 6a. One CP160 normal one-handed weapon, one trait change per reading: sharpened, nirnhoned, infused, charged. A two-handed weapon doubles the value. Precise, defending and powered already have cases.",
+    },
+    {
+      statement: "Each jewelry trait is pinned at each quality.",
+      workingMemory:
+        "Session 6b. One CP160 normal ring, one trait change per reading: arcane, robust, triune, protective, swift, infused, bloodthirsty. Healthy already has cases.",
     },
     {
       statement: "The weapon power is pinned for each weapon type across quality and level.",
@@ -65,5 +75,5 @@ export const nimueItemLevelCases = {
     "A quality never captured at a level is inferred from the captured qualities' sequence, where it matches the legendary pieces captured.",
   ],
   createdAt: "2026-10-20T15:21:57.490Z",
-  updatedAt: "2026-10-20T17:39:45.781Z",
+  updatedAt: "2026-10-20T17:48:32.815Z",
 } as const satisfies Initiative
