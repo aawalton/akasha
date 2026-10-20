@@ -1,6 +1,6 @@
-export type Tab = { readonly id?: number }
+type Tab = { readonly id?: number }
 
-export type Sender = { readonly tab?: Tab }
+type Sender = { readonly tab?: Tab }
 
 type Area = {
   readonly get: (key: string) => Promise<Readonly<Record<string, unknown>>>
