@@ -70,6 +70,7 @@ export type SlottedAbilityScalingEffect = {
   skillLineId: string
   valuePerAbility: number
   valueType: "integer" | "fractional-change"
+  perAbility?: boolean
 }
 
 export type WeaponTypeConditionalEffect = {

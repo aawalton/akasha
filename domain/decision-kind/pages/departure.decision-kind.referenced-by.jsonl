@@ -5728,6 +5728,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/effect-rank.number-property.ts","id":"01a15680-be5f-70b3-b934-8bfe56e05f1e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/effect-seconds.number-property.ts","id":"01a05fb0-3ceb-717f-94f6-5ef52cdf0c41"}
 {"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/effects.page-property-entry.ts","id":"01a05fb0-3ceb-742c-998f-6122c9954a30"}
+{"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/per-ability.boolean-property.ts","id":"01a1570e-d7de-71aa-81c1-bfaace4afa7a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/per-piece.boolean-property.ts","id":"01a13af5-3158-71b2-a3e4-53598dffbba1"}
 {"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/skill-line.relation-property.ts","id":"01a0cb21-70d9-7538-be2f-3fc1b1531dca"}
 {"propertySlug":"decision-kind","path":"temper/catalog/thing/temper-catalog-thing.page-type.ts","id":"01a05fb0-3cea-7e62-9477-d1a11db7b2e5"}

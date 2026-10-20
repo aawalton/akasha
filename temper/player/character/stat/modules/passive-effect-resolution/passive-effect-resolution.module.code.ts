@@ -97,7 +97,7 @@ function resolveSlottedAbilityScalingEffect(
     return null
   }
 
-  const finalValue = effect.valuePerAbility * slottedCount
+  const finalValue = effect.valuePerAbility * (effect.perAbility === false ? 1 : slottedCount)
 
   return {
     metricId: effect.metricId,

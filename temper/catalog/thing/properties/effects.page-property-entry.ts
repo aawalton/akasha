@@ -27,6 +27,7 @@ export const effects = {
     },
     { pageProperty: "boolean-property/per-weapon", required: false, many: false },
     { pageProperty: "boolean-property/per-piece", required: false, many: false },
+    { pageProperty: "boolean-property/per-ability", required: false, many: false },
     { pageProperty: "number-property/effect-rank", required: false, many: false },
   ],
   decisions: [
@@ -46,5 +47,5 @@ export const effects = {
   ],
   types: "ts",
   createdAt: "2026-09-02T01:16:20.587Z",
-  updatedAt: "2026-10-19T23:30:40.351Z",
+  updatedAt: "2026-10-20T02:05:52.989Z",
 } as const satisfies PagePropertyEntry
