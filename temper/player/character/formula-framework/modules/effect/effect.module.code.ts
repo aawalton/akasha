@@ -42,6 +42,24 @@ export type MetricEffect =
     })
   | (MetricEffectBase & { effectType: "conditional-chance"; effectValue: ConditionalChance })
 
+export type MetricEffectType = MetricEffect["effectType"]
+
+const METRIC_EFFECT_TYPES: { readonly [Type in MetricEffectType]: true } = {
+  integer: true,
+  "integer-per-stack": true,
+  "integer-per-ten-ultimate": true,
+  "fractional-change": true,
+  number: true,
+  "number-per-seconds": true,
+  "number-for-seconds": true,
+  "fractional-change-for-seconds": true,
+  "conditional-chance": true,
+}
+
+export function isMetricEffectType(named: unknown): named is MetricEffectType {
+  return typeof named === "string" && Object.hasOwn(METRIC_EFFECT_TYPES, named)
+}
+
 type BaseBuffOrDebuffEffect = {
   seconds?: number
   slottedBehavior?: "either-bar" | "active-bar-only"

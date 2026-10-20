@@ -1,4 +1,8 @@
-import type { Effect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
+import {
+  type Effect,
+  isMetricEffectType,
+  type MetricEffectType,
+} from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 
 type Value = Readonly<Record<string, unknown>>
 
@@ -16,13 +20,23 @@ function slugIn(named: unknown): string | null {
 function effectOf(entry: Value, at: string): Effect {
   const metricId = slugIn(entry.metric)
   if (metricId === null) throw new Error(`${at} states an effect naming no stat`)
-  if (typeof entry.effectType !== "string") {
-    throw new Error(`${at} states an effect on \`${metricId}\` with no effect type`)
-  }
+  const effectType = knownEffectType(entry.effectType, metricId, at)
   if (typeof entry.value !== "number") {
     throw new Error(`${at} states an effect on \`${metricId}\` with no value`)
   }
-  return { metricId, effectType: entry.effectType, effectValue: entry.value } as Effect
+  return { metricId, effectType, effectValue: entry.value } as Effect
+}
+
+function knownEffectType(named: unknown, metricId: string, at: string): MetricEffectType {
+  if (typeof named !== "string") {
+    throw new Error(`${at} states an effect on \`${metricId}\` with no effect type`)
+  }
+  if (!isMetricEffectType(named)) {
+    throw new Error(
+      `${at} states an effect on \`${metricId}\` of type \`${named}\`, which no code reads`
+    )
+  }
+  return named
 }
 
 export function sourceEffectsOf(value: Value, at: string): readonly Effect[] {
@@ -52,9 +66,7 @@ export function entryEffectOf(entry: Value, nodes: MetricNodes, at: string): Eff
   if (metricId === undefined) {
     throw new Error(`${at} states an effect on \`${String(named)}\`, which is no stat tree node`)
   }
-  if (typeof entry.type !== "string") {
-    throw new Error(`${at} states an effect on \`${metricId}\` with no effect type`)
-  }
+  const effectType = knownEffectType(entry.type, metricId, at)
   if (typeof entry.value !== "number") {
     throw new Error(`${at} states an effect on \`${metricId}\` with no value`)
   }
@@ -64,7 +76,7 @@ export function entryEffectOf(entry: Value, nodes: MetricNodes, at: string): Eff
   const whileBuffs = whileBuffsIn(entry.whileBuffs)
   return {
     metricId,
-    effectType: entry.type,
+    effectType,
     effectValue,
     ...(higherOf === null ? {} : { higherOf }),
     ...(whileBuffs === null ? {} : { whileBuffs }),

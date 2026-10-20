@@ -6,10 +6,15 @@ export const sourceEffectsReading = {
   slug: "source-effects-reading",
   definition: "the effects an effect source page lists, read as the effects a calculation sums",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement: "An entry naming no stat, no effect type or no value is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An entry naming an effect type the effect union lacks is refused.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -25,5 +30,5 @@ export const sourceEffectsReading = {
     },
   ],
   createdAt: "2026-09-26T20:13:02.260Z",
-  updatedAt: "2026-10-20T15:19:23.721Z",
+  updatedAt: "2026-10-20T16:57:57.303Z",
 } as const satisfies Module
