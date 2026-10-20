@@ -2,6 +2,7 @@ import {
   advancedSheet,
   advancedSheetSaid,
 } from "akasha/temper/addon/pages/characters/modules/characters-advanced-sheet/characters-advanced-sheet.module.code.ts"
+import { characterSheet } from "akasha/temper/addon/pages/characters/modules/characters-character-sheet/characters-character-sheet.module.code.ts"
 import { currentCharacterEntry } from "akasha/temper/addon/pages/characters/modules/characters-current-entry/characters-current-entry.module.code.ts"
 import { captureCharacterBuildHash } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-build/character-capture-build.module.code.ts"
 import { buildHash as asBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
@@ -399,6 +400,7 @@ function readingOf(buildHash: string, [stats, unbonusedStats]: StatsNow) {
     classPassives: classPassives(),
     advanced: advancedStats(),
     advancedSheet: advancedSheet(),
+    sheet: characterSheet(stats),
   }
 }
 

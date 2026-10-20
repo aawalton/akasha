@@ -101,6 +101,10 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A reading keeps each other number the character sheet shows, under its sheet.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A reading keeps each Archive verse and vision held, with its stacks and its text.",
     },
@@ -174,5 +178,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-20T13:18:25.127Z",
+  updatedAt: "2026-10-20T13:22:05.907Z",
 } as const satisfies Module

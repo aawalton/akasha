@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/catalog/modules/datamining-quest-miner/datamining-quest-miner.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-advanced-stats/characters-advanced-stats.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-alliance-rank/characters-alliance-rank.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-character-sheet/characters-character-sheet.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-collectibles/characters-collectibles.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-command/characters-command.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-current-entry/characters-current-entry.module.code.ts","typed":false,"deferred":false}
