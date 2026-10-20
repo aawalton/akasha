@@ -75,7 +75,7 @@ export function buildOverallRankMap(builds: readonly Build[]): Map<CompanionId, 
 
   for (const build of builds) {
     if (!build.buildData) continue
-    if (build.visibility !== "public") continue
+    if (build.visibility === "private") continue
     if (build.buildData.companion.id === "no-companion") continue
     if (build.buildData.companion.baseRoles.length === 0) continue
 
@@ -160,7 +160,7 @@ export function buildRankingsMap(
 
   for (const build of builds) {
     if (!build.buildData) continue
-    if (build.visibility !== "public") continue
+    if (build.visibility === "private") continue
     if (build.buildData.companion.id === "no-companion") continue
     if (build.buildData.companion.baseRoles.length === 0) continue
 

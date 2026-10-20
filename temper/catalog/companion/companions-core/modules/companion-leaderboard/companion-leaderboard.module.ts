@@ -14,7 +14,7 @@ export const companionLeaderboard = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "A build ranks only when its visibility is public.",
+      statement: "A build ranks unless its visibility is private.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -26,5 +26,5 @@ export const companionLeaderboard = {
     },
   ],
   createdAt: "2026-09-02T08:53:28.906Z",
-  updatedAt: "2026-09-27T12:30:10.000Z",
+  updatedAt: "2026-10-20T01:34:35.782Z",
 } as const satisfies Module
