@@ -192,6 +192,8 @@ const archiveBoonSchema = z.strictObject({
   stacks: z.number(),
 })
 
+const petSchema = z.strictObject({ name: z.string(), dead: z.boolean() })
+
 const advancedSheetFormatSchema = z.enum([
   "none",
   "flat",
@@ -220,6 +222,7 @@ export const reportedStatsReadingSchema = z.strictObject({
   stats: z.record(z.string(), z.number()),
   unbonusedStats: z.record(z.string(), z.number()).optional(),
   activeBuffs: luaArrayOrEmpty(activeBuffSchema).optional(),
+  pets: luaArrayOrEmpty(petSchema).optional(),
   championPoints: luaArrayOrEmpty(championStarSchema).optional(),
   worn: luaArrayOrEmpty(wornPieceSchema).optional(),
   skills: luaArrayOrEmpty(slottedSkillSchema).optional(),
