@@ -42,7 +42,11 @@ const DEPLOYMENT_SELECTOR_LABELS = selectorOf(DEPLOYMENT_LABELS, "name-instance"
 
 const NETPOL_LABELS = kubernetesLabels({ name: APP_NAME, managedBy: MANAGED_BY })
 
-const LISTEN_ADDRESS = `TCP-LISTEN:${FORWARDER_PORT},fork,reuseaddr`
+const MOST_CHILDREN = 24
+
+const BACKLOG = 512
+
+const LISTEN_ADDRESS = `TCP-LISTEN:${FORWARDER_PORT},fork,reuseaddr,max-children=${MOST_CHILDREN},backlog=${BACKLOG}`
 
 const DIAL_ADDRESS = `PROXY:${EGRESS_HOST}:${WORKSTATION_HOST}:${FORWARDER_PORT},proxyport=${EGRESS_PORT}`
 
