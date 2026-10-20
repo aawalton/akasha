@@ -16,29 +16,40 @@ import type { ClassId } from "akasha/temper/player/character/formula-framework/m
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { characterLiveOnlyPanelCardLive } from "akasha/temper/web/phrase/pages/character-live-only-panel-card-live.temper-web-phrase.ts"
 import { characterLiveOnlyPanelCardSetTargetBuild } from "akasha/temper/web/phrase/pages/character-live-only-panel-card-set-target-build.temper-web-phrase.ts"
+import { characterLiveOnlyPanelCardTarget } from "akasha/temper/web/phrase/pages/character-live-only-panel-card-target.temper-web-phrase.ts"
 import { characterLiveOnlyPanelCardUnknownCharacter } from "akasha/temper/web/phrase/pages/character-live-only-panel-card-unknown-character.temper-web-phrase.ts"
 import { characterLiveOnlyPanelCardUntitledBuild } from "akasha/temper/web/phrase/pages/character-live-only-panel-card-untitled-build.temper-web-phrase.ts"
 
-interface LiveOnlyBuild {
+interface OneBuild {
   id: string
   name: string
   buildData: CharacterState | null
   updatedAt: number
 }
 
+type AttachedVisibility = "live" | "target"
+
 export interface CharacterLiveOnlyEntity {
   entityId: string
   esoCharacterId: string
-  liveBuild: LiveOnlyBuild
+  build: OneBuild
+  visibility: AttachedVisibility
   sortOrder: number | null
 }
 
-function LiveBuildRow({
+const VISIBILITY_PHRASE = {
+  live: characterLiveOnlyPanelCardLive,
+  target: characterLiveOnlyPanelCardTarget,
+} as const
+
+function OneBuildRow({
   build,
+  visibility,
   getClassName,
   getRaceName,
 }: {
-  build: LiveOnlyBuild
+  build: OneBuild
+  visibility: AttachedVisibility
   getClassName: (classId: ClassId) => string
   getRaceName: (raceId: RaceId) => string
 }) {
@@ -59,7 +70,7 @@ function LiveBuildRow({
           {build.name !== "" ? build.name : phrase(characterLiveOnlyPanelCardUntitledBuild.slug)}
         </span>
         <Badge variant="elevation" className="shrink-0">
-          {phrase(characterLiveOnlyPanelCardLive.slug)}
+          {phrase(VISIBILITY_PHRASE[visibility].slug)}
         </Badge>
       </div>
       {(className != null || raceName != null) && (
@@ -86,10 +97,10 @@ export function CharacterLiveOnlyPanelCard({
   onSetTarget,
 }: CharacterLiveOnlyPanelCardProps) {
   const phrase = usePhrase()
-  const liveBuildData = entity.liveBuild.buildData
-  const characterName = liveBuildData?.character?.name
-  const classId = liveBuildData?.character?.class
-  const raceId = liveBuildData?.character?.race
+  const buildData = entity.build.buildData
+  const characterName = buildData?.character?.name
+  const classId = buildData?.character?.class
+  const raceId = buildData?.character?.race
   const className = classId != null && classId !== "no-class" ? getClassName(classId) : null
   const raceName = raceId != null && raceId !== "no-race" ? getRaceName(raceId) : null
 
@@ -105,18 +116,21 @@ export function CharacterLiveOnlyPanelCard({
             {raceName != null && <Badge variant="elevation-muted">{raceName}</Badge>}
           </div>
         )}
-        <LiveBuildRow
-          build={entity.liveBuild}
+        <OneBuildRow
+          build={entity.build}
+          visibility={entity.visibility}
           getClassName={getClassName}
           getRaceName={getRaceName}
         />
-        <Button
-          variant="secondary"
-          className="w-full"
-          onClick={() => onSetTarget(entity.entityId, entity.esoCharacterId, entity.liveBuild.id)}
-        >
-          {phrase(characterLiveOnlyPanelCardSetTargetBuild.slug)}
-        </Button>
+        {entity.visibility === "live" && (
+          <Button
+            variant="secondary"
+            className="w-full"
+            onClick={() => onSetTarget(entity.entityId, entity.esoCharacterId, entity.build.id)}
+          >
+            {phrase(characterLiveOnlyPanelCardSetTargetBuild.slug)}
+          </Button>
+        )}
       </CardContent>
     </PanelCard>
   )

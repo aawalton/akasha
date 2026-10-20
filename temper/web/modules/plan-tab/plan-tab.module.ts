@@ -11,7 +11,16 @@ export const planTab = {
       decisionKind: "decision-kind/departure",
       statement: "A character is patched where its account page is the viewer's by address.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character with a live build and a target is planned on one card.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A character with only a live build or only a target has a card of that one build.",
+    },
   ],
   createdAt: "2026-09-02T22:10:23.760Z",
-  updatedAt: "2026-09-24T16:25:52.000Z",
+  updatedAt: "2026-10-20T11:22:26.482Z",
 } as const satisfies Module

@@ -79,19 +79,23 @@ export function usePlanEntities({
 
     return completionCharacters
       .map((entity): CharacterLiveOnlyEntity | null => {
-        if (entity.targetBuildId != null) return null
         const liveBuild = entity.liveBuildId != null ? buildMap.get(entity.liveBuildId) : undefined
-        if (!liveBuild) return null
+        const targetBuild =
+          entity.targetBuildId != null ? buildMap.get(entity.targetBuildId) : undefined
+        if (liveBuild && targetBuild) return null
+        const build = liveBuild ?? targetBuild
+        if (!build) return null
 
         return {
           entityId: entity.id,
           esoCharacterId: entity.esoCharacterId,
-          liveBuild: {
-            id: liveBuild.id,
-            name: liveBuild.name,
-            buildData: liveBuild.buildData,
-            updatedAt: liveBuild.updatedAt,
+          build: {
+            id: build.id,
+            name: build.name,
+            buildData: build.buildData,
+            updatedAt: build.updatedAt,
           },
+          visibility: liveBuild ? "live" : "target",
           sortOrder: entity.sortOrder ?? null,
         }
       })
