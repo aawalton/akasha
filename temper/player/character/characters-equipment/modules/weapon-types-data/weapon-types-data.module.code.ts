@@ -10,6 +10,7 @@ import {
   slugOf,
 } from "akasha/temper/catalog/gear/equipment/modules/held-gear-table/held-gear-table.module.code.ts"
 import type { WeaponTypeId } from "akasha/temper/catalog/gear/equipment/modules/weapon-type-ids/weapon-type-ids.module.code.ts"
+import { pieceWorthLevel } from "akasha/temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.code.ts"
 import type { ItemLevel } from "akasha/temper/player/character/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import {
   topWorthLevel,
@@ -93,8 +94,11 @@ export function getWeaponPower(
 
   if (level !== undefined) {
     const { weaponPower, levelIntercept } = weaponTypes.data[weaponType]
-    const growth = ((weaponPower - levelIntercept) * worthLevel(level)) / topWorthLevel()
-    return Math.floor((levelIntercept + growth) * qualityScale(quality, "weaponLevelScale"))
+    const curve = quality === "legendary" ? "legendary" : "normal"
+    const worth =
+      worthLevel(level) + pieceWorthLevel(quality, level) - pieceWorthLevel(curve, level)
+    const growth = ((weaponPower - levelIntercept) * worth) / topWorthLevel()
+    return Math.floor((levelIntercept + growth) * qualityScale(curve, "weaponLevelScale"))
   }
 
   return powerOf(weaponType, quality)

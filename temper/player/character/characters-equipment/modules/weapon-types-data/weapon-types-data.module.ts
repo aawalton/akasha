@@ -27,7 +27,12 @@ export const weaponTypesData = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A weapon below legendary has that power times its quality's share, rounded down.",
+      statement: "A normal weapon has that power times the normal share, rounded down.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A weapon above normal and below legendary is a normal one higher by armor's steps.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -39,5 +44,5 @@ export const weaponTypesData = {
     },
   ],
   createdAt: "2026-09-02T09:24:55.957Z",
-  updatedAt: "2026-10-20T18:25:50.837Z",
+  updatedAt: "2026-10-20T18:52:53.289Z",
 } as const satisfies Module
