@@ -31,6 +31,7 @@ export const statCaseShape = z.strictObject({
   capturedAt: z.number(),
   esoVersion: z.string(),
   inCombat: z.boolean(),
+  ultimate: z.number().optional(),
   activeBuffs: z.array(listedBuff),
   championPoints: z.array(spentStar),
   pinned: statsByName,
@@ -53,7 +54,8 @@ export function estimatedOf(read: Omit<StatCase, "pinned" | "gaps">): Estimated 
     build,
     read.bar,
     read.activeBuffs,
-    read.championPoints
+    read.championPoints,
+    read.ultimate
   )
   const metrics = estimated.metrics as Record<string, { value: number } | undefined>
   return {
@@ -142,6 +144,7 @@ export function statCaseText(statCase: StatCase): string {
     `  "capturedAt": ${String(statCase.capturedAt)},`,
     `  "esoVersion": ${JSON.stringify(statCase.esoVersion)},`,
     `  "inCombat": ${String(statCase.inCombat)},`,
+    ...(statCase.ultimate === undefined ? [] : [`  "ultimate": ${String(statCase.ultimate)},`]),
     `  "activeBuffs": ${listed(statCase.activeBuffs)},`,
     `  "championPoints": ${listed(statCase.championPoints)},`,
     `  "pinned": ${byStat(statCase.pinned)},`,

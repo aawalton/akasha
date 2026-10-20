@@ -160,6 +160,7 @@ export function pinStatCaseCommand(world: World, given: Asked, pin: Pin): Answer
     capturedAt: reading.capturedAt,
     esoVersion,
     inCombat: reading.inCombat,
+    ...(reading.ultimate === undefined ? {} : { ultimate: reading.ultimate }),
     activeBuffs: reading.activeBuffs ?? [],
     championPoints: reading.championPoints ?? [],
     stats: settledOf({ ...reading.stats, ...sheetStatsOf(reading.advancedSheet) }, reading.fete),

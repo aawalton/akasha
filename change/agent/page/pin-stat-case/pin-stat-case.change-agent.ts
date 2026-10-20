@@ -58,6 +58,10 @@ export const pinStatCase = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The case keeps the Ultimate the line held, where the line kept it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The case pins each Advanced Stats row the line keeps under the stat whose page names that row.",
     },
@@ -74,5 +78,5 @@ export const pinStatCase = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-10-14T17:23:45.028Z",
-  updatedAt: "2026-10-20T14:16:37.162Z",
+  updatedAt: "2026-10-20T16:43:30.990Z",
 } as const satisfies ChangeAgent

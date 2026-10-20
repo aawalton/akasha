@@ -31,6 +31,7 @@ type MetricEffectBase = {
 export type MetricEffect =
   | (MetricEffectBase & { effectType: "integer"; effectValue: number })
   | (MetricEffectBase & { effectType: "integer-per-stack"; effectValue: number })
+  | (MetricEffectBase & { effectType: "integer-per-ten-ultimate"; effectValue: number })
   | (MetricEffectBase & { effectType: "fractional-change"; effectValue: number })
   | (MetricEffectBase & { effectType: "number"; effectValue: number })
   | (MetricEffectBase & { effectType: "number-per-seconds"; effectValue: NumberPerSeconds })

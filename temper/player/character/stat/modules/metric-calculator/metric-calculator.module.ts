@@ -121,7 +121,16 @@ export const metricCalculator = {
       decisionKind: "decision-kind/departure",
       statement: "An effect naming buffs counts only while one of those buffs is up.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A per-ten-Ultimate effect counts each whole ten Ultimate the reading held, before a star's share.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An estimate handed no Ultimate takes none held.",
+    },
   ],
   createdAt: "2026-09-02T14:06:51.856Z",
-  updatedAt: "2026-10-20T00:34:37.882Z",
+  updatedAt: "2026-10-20T16:43:30.990Z",
 } as const satisfies Module

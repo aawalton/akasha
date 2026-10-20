@@ -83,6 +83,10 @@ export const statCase = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A case keeps the Ultimate its reading held, where the reading kept it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An estimate names each buff it was handed that no buff page names.",
     },
     {
@@ -121,5 +125,5 @@ export const statCase = {
     },
   ],
   createdAt: "2026-10-14T17:18:43.951Z",
-  updatedAt: "2026-10-20T13:20:07.351Z",
+  updatedAt: "2026-10-20T16:43:30.990Z",
 } as const satisfies Module

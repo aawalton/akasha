@@ -8,6 +8,7 @@ export function updateEffectValue<T extends MetricEffect>(
   if (
     effect.effectType === "integer" ||
     effect.effectType === "integer-per-stack" ||
+    effect.effectType === "integer-per-ten-ultimate" ||
     effect.effectType === "fractional-change" ||
     effect.effectType === "number"
   ) {

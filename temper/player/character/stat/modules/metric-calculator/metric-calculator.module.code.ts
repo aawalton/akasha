@@ -104,6 +104,23 @@ function stacked(buff: EffectSource, stacks: number): EffectSource {
   return { ...buff, effects } as EffectSource
 }
 
+const ULTIMATE_STEP = 10
+
+function isPerTenUltimate(effect: unknown): boolean {
+  return isMetricEffect(effect) && effect.effectType === "integer-per-ten-ultimate"
+}
+
+function withUltimate(source: EffectSource, ultimate: number): EffectSource {
+  if (!source.effects.some(isPerTenUltimate)) return source
+  const steps = Math.floor(ultimate / ULTIMATE_STEP)
+  const effects = source.effects.map((effect) =>
+    isMetricEffect(effect) && effect.effectType === "integer-per-ten-ultimate"
+      ? { ...effect, effectType: "integer" as const, effectValue: effect.effectValue * steps }
+      : effect
+  )
+  return { ...source, effects } as EffectSource
+}
+
 function isHigherOf(effect: unknown): boolean {
   return isMetricEffect(effect) && effect.higherOf !== undefined
 }
@@ -256,7 +273,8 @@ export function calculateReadingStatsByBar(
     readonly name: string
     readonly stacks?: number | undefined
   }[],
-  stars?: readonly StarPoints[]
+  stars?: readonly StarPoints[],
+  ultimate = 0
 ): CalculationResult & { unmatchedBuffNames: readonly string[] } {
   const buffByName = new Map<string, EffectSource>()
   for (const buff of Object.values(buffOrDebuff().data)) buffByName.set(buff.name, buff)
@@ -287,7 +305,9 @@ export function calculateReadingStatsByBar(
     consumables: { ...build.consumables, foodOrDrink: foodOrDrinkId },
   }
   const spent = new Map((stars ?? []).map((star) => [star.championSkillId, star] as const))
-  const fromBuild = buildStateToEffectSources(asListed, bar)
+  const fromBuild = buildStateToEffectSources(asListed, bar).map((source) =>
+    withUltimate(source, ultimate)
+  )
   const built =
     stars === undefined ? fromBuild : fromBuild.flatMap((source) => asSpent(source, spent) ?? [])
   const sources: EffectSource[] = [baseSource(), ...built, ...activeBuffs]

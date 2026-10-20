@@ -140,6 +140,9 @@ function formatMetricEffectValue(effect: MetricEffect): string {
     case "integer-per-stack": {
       return `${effect.effectValue.toString()}/stack`
     }
+    case "integer-per-ten-ultimate": {
+      return `${effect.effectValue.toString()}/10 Ultimate`
+    }
     case "number-per-seconds":
     case "number-for-seconds": {
       return effect.effectValue.value.toString()

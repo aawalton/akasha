@@ -18,9 +18,14 @@ export const effect = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A per-ten-Ultimate effect states the flat value each whole ten Ultimate held gives.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An effect may name the buffs it holds only while one is up.",
     },
   ],
   createdAt: "2026-09-02T04:46:21.408Z",
-  updatedAt: "2026-10-20T00:34:37.882Z",
+  updatedAt: "2026-10-20T16:43:30.990Z",
 } as const satisfies Module

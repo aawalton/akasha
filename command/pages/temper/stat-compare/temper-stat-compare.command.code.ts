@@ -90,6 +90,7 @@ function comparedOf(line: ReadingLine): Compared {
       capturedAt: reading.capturedAt,
       esoVersion: reading.esoVersion ?? "",
       inCombat: reading.inCombat,
+      ...(reading.ultimate === undefined ? {} : { ultimate: reading.ultimate }),
       activeBuffs: reading.activeBuffs ?? [],
       championPoints: reading.championPoints ?? [],
     })
