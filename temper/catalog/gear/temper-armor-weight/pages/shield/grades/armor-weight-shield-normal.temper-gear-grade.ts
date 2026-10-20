@@ -7,7 +7,7 @@ export const armorWeightShieldNormal = {
   title: "Shield at Normal",
   thing: "temper-armor-weight/shield",
   quality: "temper-quality/normal",
-  value: 1560,
+  value: 1500,
   createdAt: "2026-09-27T02:49:05.044Z",
-  updatedAt: "2026-09-27T02:49:23.000Z",
+  updatedAt: "2026-10-20T17:32:17.386Z",
 } as const satisfies TemperGearGrade
