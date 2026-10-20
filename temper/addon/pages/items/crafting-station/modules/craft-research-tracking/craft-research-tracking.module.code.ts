@@ -26,6 +26,36 @@ export function updateTrackingStatus(char: string): undefined {
   account.trait.tracking[char] = allTracked
 }
 
+function countLine(this: void, phrase: string, count: number, self: boolean): string {
+  if (count === 0) {
+    return ""
+  }
+  const others = count - 1
+  let whom: string
+  if (!self) {
+    whom = count === 1 ? "1 character" : `${count} characters`
+  } else if (others === 0) {
+    whom = "this character"
+  } else {
+    whom = others === 1 ? "this character and 1 other" : `this character and ${others} others`
+  }
+  return `|cC5C29E${phrase} ${whom}|r`
+}
+
+export function needCount(
+  need: string[],
+  unneed: string[],
+  self: boolean,
+  needPhrase: string,
+  unneedPhrase: string
+): LuaMultiReturn<[string, string, string]> {
+  return $multi(
+    countLine(needPhrase, need.length, self),
+    countLine(unneedPhrase, unneed.length, false),
+    ""
+  )
+}
+
 export function needAppend(
   need: string[],
   unneed: string[],

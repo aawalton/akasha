@@ -1,6 +1,6 @@
 import * as Characters from "akasha/temper/addon/pages/items/crafting-station/modules/craft-characters/craft-characters.module.code.ts"
 import * as Knowledge from "akasha/temper/addon/pages/items/crafting-station/modules/craft-knowledge/craft-knowledge.module.code.ts"
-import { needAppend } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-research-tracking/craft-research-tracking.module.code.ts"
+import { needCount } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-research-tracking/craft-research-tracking.module.code.ts"
 import { RUNE } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-rune/craft-rune.module.code.ts"
 import {
   splitLink,
@@ -303,7 +303,7 @@ export function isItemNeeded(
       }
     }
   }
-  return needAppend(need, unneed)
+  return needCount(need, unneed, STATE.SELF, "Researchable by", "Researched by")
 }
 
 export function isStyleNeeded(
@@ -327,7 +327,7 @@ export function isStyleNeeded(
       }
     }
   }
-  return needAppend(need, unneed)
+  return needCount(need, unneed, STATE.SELF, "Unknown to", "Known to")
 }
 
 export function isRecipeNeeded(
@@ -351,7 +351,7 @@ export function isRecipeNeeded(
       }
     }
   }
-  return needAppend(need, unneed)
+  return needCount(need, unneed, STATE.SELF, "Unknown to", "Known to")
 }
 
 export function isBlueprintNeeded(
@@ -375,7 +375,7 @@ export function isBlueprintNeeded(
       }
     }
   }
-  return needAppend(need, unneed)
+  return needCount(need, unneed, STATE.SELF, "Unknown to", "Known to")
 }
 
 export function isBait(link: string | undefined): string {
