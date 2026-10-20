@@ -8,11 +8,11 @@ export const maxMaxStamina = {
   description: "",
   accountPage: "temper-account/alanarre",
   buildHash:
-    "ATQKpJcAAIBjRwwGyJtABFz_aAEbI-0AIWR9oAQsj7QAjZH2gBCyPtAByAVaADkH3UAHIBVoAMdE_2gBNz_aAOST7CeSCTKBKSQ9kHyCTLJUEmdFUIOw_AwNAIkzFcHgaAdgWHa0a4HziJyIEIth9UUdaa9cMiFCEiAgMjMgIjMhIgIyNSIiACMjNBACQgMiQABEMiIzA6IzQiA6IiJkMyNAAAgiIgIiSjMEIiIiIwAjrLo8ajcixJwyseTLLmTZ2fRp1a9s-hRpU6nirWWNlbI2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBw2SNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpMMEBkLGJA1D2VSI",
+    "ATQKpJcAAIBjRwwGyJtABFz_aAEbI-0AIWR9oAQsj7QAjZH2gBCyPtAByAVaADkH3UAHIBVoAMdE_2gBNz_aABxMptoAySfYTyQSZQJSSHsg-QSZZKgkzoqhB2H4GBoBEmYrg8DQDsCw7WjXA-cRORAhFsPqijrTXrhkQoQkQEBkZkBEZkJEBGRqREQARkZoIASEBkSAAIhkRGYHRGaEQHRERMhmRoAAEEREBESUZghERERGAEdZdHjUbkWJOGVjyZZcybOz6NOrXtn0KNKnU8VayxsrZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJhggMhYxIGoeyqRA",
   visibility: "target",
   targetCount: 1,
   roles: [],
   characterName: "Archmage Amerys",
   createdAt: "2026-10-20T01:24:46.417Z",
-  updatedAt: "2026-10-20T14:15:13.559Z",
+  updatedAt: "2026-10-20T14:15:22.586Z",
 } as const satisfies CharacterBuild
