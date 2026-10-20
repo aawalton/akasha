@@ -38,7 +38,7 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading keeps the Ultimate the player held when it was taken.",
+      statement: "A reading keeps the Ultimate and the Health the player held when it was taken.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -178,5 +178,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-20T13:22:05.907Z",
+  updatedAt: "2026-10-20T13:26:17.314Z",
 } as const satisfies Module

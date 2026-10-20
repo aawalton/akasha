@@ -2,6 +2,7 @@ import {
   advancedSheet,
   advancedSheetSaid,
 } from "akasha/temper/addon/pages/characters/modules/characters-advanced-sheet/characters-advanced-sheet.module.code.ts"
+import { archiveBoons } from "akasha/temper/addon/pages/characters/modules/characters-archive-boons/characters-archive-boons.module.code.ts"
 import { characterSheet } from "akasha/temper/addon/pages/characters/modules/characters-character-sheet/characters-character-sheet.module.code.ts"
 import { currentCharacterEntry } from "akasha/temper/addon/pages/characters/modules/characters-current-entry/characters-current-entry.module.code.ts"
 import { captureCharacterBuildHash } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-build/character-capture-build.module.code.ts"
@@ -82,39 +83,6 @@ function activeBuffs(): ActiveBuff[] {
     })
   }
   return buffs
-}
-
-type ArchiveBoon = {
-  abilityId: number
-  kind: "verse" | "vision"
-  name: string
-  description: string
-  stacks: number
-}
-
-function archiveBoon(abilityId: number, kind: ArchiveBoon["kind"], stacks: number): ArchiveBoon {
-  return {
-    abilityId,
-    kind,
-    name: zo_strformat("<<1>>", GetAbilityName(abilityId, "player")),
-    description: GetAbilityDescription(abilityId, undefined, "player"),
-    stacks,
-  }
-}
-
-function archiveBoons(): ArchiveBoon[] {
-  const boons: ArchiveBoon[] = []
-  if (!IsInstanceEndlessDungeon()) return boons
-  const verses = GetNumEndlessDungeonActiveVerses()
-  for (let index = 1; index <= verses; index++) {
-    boons.push(archiveBoon(GetEndlessDungeonActiveVerseAbility(index), "verse", 1))
-  }
-  let [abilityId, stacks] = GetNextEndlessDungeonVisionAbilityAndStackCount(undefined)
-  while (abilityId !== undefined) {
-    boons.push(archiveBoon(abilityId, "vision", stacks ?? 1))
-    ;[abilityId, stacks] = GetNextEndlessDungeonVisionAbilityAndStackCount(abilityId)
-  }
-  return boons
 }
 
 const CHAMPION_DISCIPLINES = 3
@@ -377,8 +345,8 @@ function statsNow(): StatsNow {
   return [stats, unbonusedStats]
 }
 
-function ultimateHeld(): number {
-  const [current] = GetUnitPower("player", COMBAT_MECHANIC_FLAGS_ULTIMATE)
+function powerHeld(power: number): number {
+  const [current] = GetUnitPower("player", power)
   return current
 }
 
@@ -388,7 +356,8 @@ function readingOf(buildHash: string, [stats, unbonusedStats]: StatsNow) {
     buildHash: asBuildHash(buildHash),
     esoVersion: GetESOVersionString(),
     inCombat: IsUnitInCombat("player"),
-    ultimate: ultimateHeld(),
+    ultimate: powerHeld(COMBAT_MECHANIC_FLAGS_ULTIMATE),
+    health: powerHeld(COMBAT_MECHANIC_FLAGS_HEALTH),
     stats,
     unbonusedStats,
     activeBuffs: activeBuffs(),
