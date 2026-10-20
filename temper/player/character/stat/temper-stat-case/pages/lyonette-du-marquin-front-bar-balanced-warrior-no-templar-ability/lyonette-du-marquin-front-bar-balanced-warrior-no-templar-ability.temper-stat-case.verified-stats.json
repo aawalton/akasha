@@ -119,6 +119,8 @@
     "movement-sneak-speed": 100,
     "penetration-physical": 13755,
     "penetration-spell": 13755,
+    "power-spell": 4144,
+    "power-weapon": 4144,
     "resistance-bleed": 28347,
     "resistance-critical": 1320,
     "resistance-disease": 28347,
@@ -142,8 +144,6 @@
     "critical-damage": 20,
     "healing-critical-bonus": 0,
     "movement-sprint-speed": 137,
-    "power-spell": 4144,
-    "power-weapon": 4144,
     "sneak-cost": 79
   }
 }

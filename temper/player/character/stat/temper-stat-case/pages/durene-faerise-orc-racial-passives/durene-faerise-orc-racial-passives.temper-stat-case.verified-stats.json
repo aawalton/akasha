@@ -105,14 +105,13 @@
     "magicka-recovery": 604,
     "penetration-physical": 8404,
     "penetration-spell": 8404,
+    "power-spell": 2026,
+    "power-weapon": 2026,
     "resistance-critical": 1320,
     "resistance-physical": 0,
     "resistance-spell": 0,
     "stamina-maximum": 20624,
     "stamina-recovery": 604
   },
-  "gaps": {
-    "power-spell": 2026,
-    "power-weapon": 2026
-  }
+  "gaps": {}
 }

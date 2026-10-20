@@ -122,6 +122,8 @@
     "movement-sneak-speed": 70,
     "penetration-physical": 10206,
     "penetration-spell": 10206,
+    "power-spell": 4598,
+    "power-weapon": 4598,
     "resistance-bleed": 18638,
     "resistance-critical": 1320,
     "resistance-disease": 18638,
@@ -150,8 +152,6 @@
     "healing-done-base": 2,
     "healing-taken-base": 7,
     "movement-sprint-speed": 145,
-    "power-spell": 4598,
-    "power-weapon": 4598,
     "sneak-cost": 81,
     "stamina-dodge-cost": 3997
   }
