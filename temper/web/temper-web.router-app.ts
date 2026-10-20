@@ -384,6 +384,7 @@ export const temperWeb = {
     "module/completion-page-tabs-list",
     "module/base-role-names",
     "module/current-build",
+    "module/build-save-guard",
   ],
   decisions: [
     {
@@ -398,5 +399,5 @@ export const temperWeb = {
     },
   ],
   createdAt: "2026-09-02T21:23:16.800Z",
-  updatedAt: "2026-10-20T01:33:20.846Z",
+  updatedAt: "2026-10-20T14:25:52.637Z",
 } as const satisfies RouterApp

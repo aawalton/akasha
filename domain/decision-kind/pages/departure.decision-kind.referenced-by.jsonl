@@ -6773,6 +6773,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/build-description-panel-card/build-description-panel-card.module.ts","id":"01a0642c-5b76-7e7f-9cd2-7ae443a01535"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/build-info-panel-card/build-info-panel-card.module.ts","id":"01a0642c-5b77-7f53-ab6a-41408ecc3821"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/build-metadata/build-metadata.module.ts","id":"01a061c0-88d8-7527-81f9-44b8e63a9668"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/build-save-guard/build-save-guard.module.ts","id":"01a159b4-53fe-7e67-ba60-bccbde67c3b3"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/build-version-created-at/build-version-created-at.module.ts","id":"01a0d6ce-62ac-73a1-a83d-9df3d5744100"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/build-version-page-type/build-version-page-type.module.ts","id":"01a0d89d-06f0-7eb8-8829-32d2898f9816"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/builds-browse-tab/builds-browse-tab.module.ts","id":"01a0642c-5b8f-74e0-93ce-35ce478bf46e"}
