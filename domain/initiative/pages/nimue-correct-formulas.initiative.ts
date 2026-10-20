@@ -42,7 +42,8 @@ export const nimueCorrectFormulas = {
     "Each formula starts from a build with as little configured as the game allows.",
     "A term is verified by a case that adds it alongside others, where enough readings agree.",
     "Nimue changes any command the work needs without asking Alan.",
+    "Every deploy runs in the background, so no deploy blocks the work.",
   ],
   createdAt: "2026-10-19T19:28:43.842Z",
-  updatedAt: "2026-10-20T16:15:51.982Z",
+  updatedAt: "2026-10-20T16:31:41.991Z",
 } as const satisfies Initiative
