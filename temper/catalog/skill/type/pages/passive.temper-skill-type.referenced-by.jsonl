@@ -20,6 +20,7 @@
 {"propertySlug":"skill-type","path":"temper/catalog/skill/pages/advanced-species/advanced-species.temper-skill.ts","id":"019e6245-a5e5-7e39-aa0f-613701e21698"}
 {"propertySlug":"skill-type","path":"temper/catalog/skill/pages/aegis-of-the-unseen/aegis-of-the-unseen.temper-skill.ts","id":"019e6245-a5e7-75e0-986b-a13cb79931ab"}
 {"propertySlug":"skill-type","path":"temper/catalog/skill/pages/agility/agility.temper-skill.ts","id":"019e6238-c28d-7382-b246-b7cafaa2982c"}
+{"propertySlug":"skill-type","path":"temper/catalog/skill/pages/ambidextrous/ambidextrous.temper-skill.ts","id":"019e6226-00e8-70bc-a563-a202d9a3cd1b"}
 {"propertySlug":"skill-type","path":"temper/catalog/skill/pages/amphibian/amphibian.temper-skill.ts","id":"019e624a-12bc-7a6e-8568-3957e36c03d4"}
 {"propertySlug":"skill-type","path":"temper/catalog/skill/pages/amplitude/amplitude.temper-skill.ts","id":"019e6245-a5eb-7037-a041-86394803725d"}
 {"propertySlug":"skill-type","path":"temper/catalog/skill/pages/ancient-knowledge/ancient-knowledge.temper-skill.ts","id":"019e6226-00d0-7a62-9c9b-0e03c068d57b"}
@@ -90,7 +91,6 @@
 {"propertySlug":"skill-type","path":"temper/catalog/skill/pages/disdain-harm/disdain-harm.temper-skill.ts","id":"019e6245-a656-7a64-9fc8-a7415de6e605"}
 {"propertySlug":"skill-type","path":"temper/catalog/skill/pages/dismember/dismember.temper-skill.ts","id":"019e6245-a65b-7c32-ad69-185ff2360626"}
 {"propertySlug":"skill-type","path":"temper/catalog/skill/pages/domination/domination.temper-skill.ts","id":"019e6251-4ca9-7658-9a4f-7e06d38645e6"}
-{"propertySlug":"skill-type","path":"temper/catalog/skill/pages/dual-wield-expert/dual-wield-expert.temper-skill.ts","id":"019e6226-00e8-70bc-a563-a202d9a3cd1b"}
 {"propertySlug":"skill-type","path":"temper/catalog/skill/pages/dynamic/dynamic.temper-skill.ts","id":"019e624a-12c6-7e45-b811-15e2bd1600cd"}
 {"propertySlug":"skill-type","path":"temper/catalog/skill/pages/elder-dragon-29460/elder-dragon-29460.temper-skill.ts","id":"019e6f53-a10c-7208-8334-79f279a7d48a"}
 {"propertySlug":"skill-type","path":"temper/catalog/skill/pages/elemental-force/elemental-force.temper-skill.ts","id":"019e6226-00ea-7a78-b5e3-05feff682874"}

@@ -24,6 +24,7 @@
 {"propertySlug":"import","fileName":"temper-skill.page-type.types.ts","path":"temper/catalog/skill/pages/agility/agility.temper-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill.page-type.types.ts","path":"temper/catalog/skill/pages/agony-totem-118404/agony-totem-118404.temper-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill.page-type.types.ts","path":"temper/catalog/skill/pages/agony-totem/agony-totem.temper-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-skill.page-type.types.ts","path":"temper/catalog/skill/pages/ambidextrous/ambidextrous.temper-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill.page-type.types.ts","path":"temper/catalog/skill/pages/ambush-25484/ambush-25484.temper-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill.page-type.types.ts","path":"temper/catalog/skill/pages/ambush/ambush.temper-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill.page-type.types.ts","path":"temper/catalog/skill/pages/amphibian/amphibian.temper-skill.ts","typed":true,"deferred":false}
@@ -348,7 +349,6 @@
 {"propertySlug":"import","fileName":"temper-skill.page-type.types.ts","path":"temper/catalog/skill/pages/drain-vigor/drain-vigor.temper-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill.page-type.types.ts","path":"temper/catalog/skill/pages/draining-shot-38669/draining-shot-38669.temper-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill.page-type.types.ts","path":"temper/catalog/skill/pages/draining-shot/draining-shot.temper-skill.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"temper-skill.page-type.types.ts","path":"temper/catalog/skill/pages/dual-wield-expert/dual-wield-expert.temper-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill.page-type.types.ts","path":"temper/catalog/skill/pages/dynamic/dynamic.temper-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill.page-type.types.ts","path":"temper/catalog/skill/pages/earthshield-mantle/earthshield-mantle.temper-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill.page-type.types.ts","path":"temper/catalog/skill/pages/earthspike-mantle/earthspike-mantle.temper-skill.ts","typed":true,"deferred":false}

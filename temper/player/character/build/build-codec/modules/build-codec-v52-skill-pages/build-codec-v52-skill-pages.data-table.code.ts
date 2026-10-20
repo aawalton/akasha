@@ -86,7 +86,7 @@ export const SKILL_PAGES_BEFORE_MINOR_10: readonly string[] = [
   "disintegrating-dragonfire", "dismember", "dismember-116192", "dive", "dizzying-swing",
   "dizzying-swing-38814", "domination", "dragon-blood", "dragon-leap", "dragonfire-breath",
   "dragonknight-standard", "drain-power", "drain-vigor", "drain-vigor-135905", "draining-shot",
-  "draining-shot-38669", "dual-wield-expert", "dual-wield-expert-30873", "dynamic",
+  "draining-shot-38669", "ambidextrous", "ambidextrous-30873", "dynamic",
   "dynamic-36591", "earthshield-mantle", "earthspike-mantle", "echoing-vigor",
   "echoing-vigor-61505", "eclipse", "efficient-purge", "efficient-purge-40232",
   "elder-dragon-29460", "elemental-blockade", "elemental-blockade-39011", "elemental-drain",

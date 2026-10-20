@@ -8,17 +8,17 @@ type Bar = "primary-weapon-bar" | "backup-weapon-bar"
 
 const OFF_HAND_POWER_SHARE = 0.177
 
-const DUAL_WIELD_EXPERT = "dual-wield-expert"
+const AMBIDEXTROUS = "ambidextrous"
 
-const DUAL_WIELD_EXPERT_SHARE_PER_RANK = 0.03
+const AMBIDEXTROUS_SHARE_PER_RANK = 0.03
 
-function dualWieldExpertRank(build: CharacterState): number {
-  if (!build.passives.includes(DUAL_WIELD_EXPERT)) return 0
-  return build.passiveRanks?.[DUAL_WIELD_EXPERT] ?? skills.data[DUAL_WIELD_EXPERT]?.rank ?? 0
+function ambidextrousRank(build: CharacterState): number {
+  if (!build.passives.includes(AMBIDEXTROUS)) return 0
+  return build.passiveRanks?.[AMBIDEXTROUS] ?? skills.data[AMBIDEXTROUS]?.rank ?? 0
 }
 
 function offHandPowerShare(build: CharacterState): number {
-  return OFF_HAND_POWER_SHARE + DUAL_WIELD_EXPERT_SHARE_PER_RANK * dualWieldExpertRank(build)
+  return OFF_HAND_POWER_SHARE + AMBIDEXTROUS_SHARE_PER_RANK * ambidextrousRank(build)
 }
 
 function weaponsOn(build: CharacterState, bar: Bar) {

@@ -48,7 +48,7 @@ export const RANK_PAGES_BEFORE_MINOR_10: readonly RankPage[] = [
   { id: "dilation-139307", skillPlace: 367, passivePlace: 113, base: "dilation", rank: 1 },
   { id: "disdain-harm-116239", skillPlace: 370, passivePlace: 116, base: "disdain-harm", rank: 1 },
   { id: "dismember-116192", skillPlace: 373, passivePlace: 118, base: "dismember", rank: 1 },
-  { id: "dual-wield-expert-30873", skillPlace: 388, passivePlace: 121, base: "dual-wield-expert", rank: 1 },
+  { id: "ambidextrous-30873", skillPlace: 388, passivePlace: 121, base: "ambidextrous", rank: 1 },
   { id: "dynamic-36591", skillPlace: 390, passivePlace: 123, base: "dynamic", rank: null },
   { id: "elemental-force-30962", skillPlace: 404, passivePlace: 126, base: "elemental-force", rank: 1 },
   { id: "elemental-talent-35998", skillPlace: 413, passivePlace: 128, base: "elemental-talent", rank: null },

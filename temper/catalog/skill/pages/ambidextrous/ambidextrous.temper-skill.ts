@@ -1,12 +1,12 @@
 import type { TemperSkill } from "akasha/temper/catalog/skill/temper-skill.page-type.types.ts"
 
-export const dualWieldExpert = {
+export const ambidextrous = {
   id: "019e6226-00e8-70bc-a563-a202d9a3cd1b",
   type: "page-type/temper-skill",
-  slug: "dual-wield-expert",
-  title: "Dual Wield Expert",
-  key: "dual-wield-expert",
-  baseName: "Dual Wield Expert",
+  slug: "ambidextrous",
+  title: "Ambidextrous",
+  key: "ambidextrous",
+  baseName: "Ambidextrous",
   description: "Increases Weapon and Spell Damage by 6% of off-hand weapon's damage.",
   icon: "/esoui/art/icons/ability_weapon_013.dds",
   esoSkillId: 45477,
@@ -21,6 +21,6 @@ export const dualWieldExpert = {
   effects: "jsonl",
   hashPlace: 387,
   createdAt: "2026-05-26T02:38:38.312Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-20T19:53:19.188Z",
   equations: ["<<1>> = 6 (Constant)"],
 } as const satisfies TemperSkill
