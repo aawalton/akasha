@@ -31,9 +31,19 @@ let popover: TopLevelWindow | undefined
 
 const LABELS: LabelControl[] = []
 
+function freeName(): string {
+  let name = POPOVER_NAME
+  let tried = 1
+  while (GetControl(name) !== undefined) {
+    tried += 1
+    name = `${POPOVER_NAME}${tried}`
+  }
+  return name
+}
+
 function made(): TopLevelWindow {
   if (popover !== undefined) return popover
-  const tlw = WINDOW_MANAGER.CreateTopLevelWindow(POPOVER_NAME)
+  const tlw = WINDOW_MANAGER.CreateTopLevelWindow(freeName())
   tlw.SetHidden(true)
   tlw.SetDrawTier(DT_HIGH)
   tlw.SetDrawLayer(DL_OVERLAY)

@@ -33,6 +33,11 @@ export const windowPopover = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Each add-on carrying the popover makes a window of its own, named after the first name free.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The popover sits above every window, a menu it names a choice of included.",
     },
     {
@@ -41,5 +46,5 @@ export const windowPopover = {
     },
   ],
   createdAt: "2026-09-25T18:15:00.055Z",
-  updatedAt: "2026-10-18T17:36:08.028Z",
+  updatedAt: "2026-10-20T18:38:42.027Z",
 } as const satisfies Module
