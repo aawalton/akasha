@@ -73,7 +73,11 @@ export const completionRecord = {
       decisionKind: "decision-kind/stopgap",
       statement: "A character's bank visit date is still read, so an old record is not refused.",
     },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A reading may keep every passive's ability id at each rank, in rank order.",
+    },
   ],
   createdAt: "2026-09-02T04:57:23.388Z",
-  updatedAt: "2026-10-19T19:34:48.550Z",
+  updatedAt: "2026-10-20T00:26:06.111Z",
 } as const satisfies Module

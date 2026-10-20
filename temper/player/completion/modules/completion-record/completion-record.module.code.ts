@@ -208,6 +208,7 @@ export const reportedStatsReadingSchema = z.strictObject({
   archiveBoons: luaArrayOrEmpty(archiveBoonSchema).optional(),
   advanced: z.record(z.string(), z.number()).optional(),
   buffs: numbers.optional(),
+  passiveRankIds: luaArrayOrEmpty(numbers).optional(),
 })
 
 const reportedStatsSchema = z.strictObject({
