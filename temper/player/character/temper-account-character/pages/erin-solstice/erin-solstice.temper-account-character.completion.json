@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQNNMTAQABhxAkDE_tnELIDE_tnELICT-tAEIACT-tAEIAgAhNADYACT-tAEIACT-tAEIBIShtuULJIShtuULJIbD1uULIF6THbcoWURBMdbcoWUSiujklLE8ruM5x0uFcSTGiAiddkqG_3gQJxQk41cng-Bd__Hbga6GTSK6IFI991UUf16ceIlQiIyICADIzICIiIjIiIDICI1IiIgAjIjNCIAIjQgMjIzMyNAIARDIiMDojI0A6AiJkMzIjQgAAAjgiICIkozIDQiIiIjAjosujXqMyLEmVjyZZcybOz6NOrXtn0KNKnU8VVjeOyOHj65egYskLRE2bo3TtIlTJ36hTBVQlcdYYJHDZsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJg4ApkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAyA",
+  "buildHash": "ATQNNMTAQABhxAkDE_tnELIDE_tnELICT-tAEIACT-tAEIAgAhNADYACT-tAEIACT-tAEIBIShtuULJIShtuULJIbD1uULIkeTHbcoWURBMdbcoWUSiujklLE8ruM5x0uFcSTGiAiddkqG_3gQJxQk41cng-Bd__Hbga6GTSK6IFI991UUf16ceIlQiIyICADIzICIiIjIiIDICI1IiIgAjIjNCIAIjQgMjIzMyNAIARDIiMDojI0A6AiJkMzIjQgAAAjgiICIkozIDQiIiIjAjosujXqMyLEmVjyZZcybOz6NOrXtn0KNKnU8VVjeOyOHj65egYskLRE2bo3TtIlTJ36hTBVQlcdYYJHDZsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJg4ApkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAyA",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -28354,8 +28354,8 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792524362,
-      "buildHash": "ATQNNMTAQABhxAkDE_tnELIDE_tnELICT-tAEIACT-tAEIAgAhNADYACT-tAEIACT-tAEIBIShtuULJIShtuULJIbD1uULIF6THbcoWURBMdbcoWUSiujklLE8ruM5x0uFcSTGiAiddkqG_3gQJxQk41cng-Bd__Hbga6GTSK6IFI991UUf16ceIlQiIyICADIzICIiIjIiIDICI1IiIgAjIjNCIAIjQgMjIzMyNAIARDIiMDojI0A6AiJkMzIjQgAAAjgiICIkozIDQiIiIjAjosujXqMyLEmVjyZZcybOz6NOrXtn0KNKnU8VVjeOyOHj65egYskLRE2bo3TtIlTJ36hTBVQlcdYYJHDZsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJg4ApkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAyA",
+      "capturedAt": 1792524460,
+      "buildHash": "ATQNNMTAQABhxAkDE_tnELIDE_tnELICT-tAEIACT-tAEIAgAhNADYACT-tAEIACT-tAEIBIShtuULJIShtuULJIbD1uULIkeTHbcoWURBMdbcoWUSiujklLE8ruM5x0uFcSTGiAiddkqG_3gQJxQk41cng-Bd__Hbga6GTSK6IFI991UUf16ceIlQiIyICADIzICIiIjIiIDICI1IiIgAjIjNCIAIjQgMjIzMyNAIARDIiMDojI0A6AiJkMzIjQgAAAjgiICIkozIDQiIiIjAjosujXqMyLEmVjyZZcybOz6NOrXtn0KNKnU8VVjeOyOHj65egYskLRE2bo3TtIlTJ36hTBVQlcdYYJHDZsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJg4ApkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAyA",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "ultimate": 209,
@@ -28364,20 +28364,20 @@
       "healthPaired": false,
       "elderDragonAmount": 0,
       "stats": {
-        "penetration-physical": 1639,
+        "penetration-physical": 4613,
         "health-recovery": 0,
         "stamina-recovery": 544,
         "health-maximum": 46571,
-        "penetration-spell": 1639,
+        "penetration-spell": 4613,
         "resistance-spell": 36351,
         "stamina-maximum": 17025,
-        "power-weapon": 3712,
-        "critical-rating-weapon": 6926,
-        "power-spell": 3712,
+        "power-weapon": 3093,
+        "critical-rating-weapon": 5349,
+        "power-spell": 3093,
         "magicka-recovery": 886,
         "resistance-physical": 35625,
         "magicka-maximum": 18148,
-        "critical-rating-spell": 6926,
+        "critical-rating-spell": 5349,
         "resistance-critical": 1320
       },
       "unbonusedStats": {
@@ -28399,10 +28399,10 @@
       },
       "activeBuffs": [
         {
-          "abilityId": 61665,
-          "name": "Major Brutality",
-          "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
+          "abilityId": 100498,
+          "name": "Clockwork Citrus Filet",
+          "description": "Increase Max Health by |cffffff2835|r, Health Recovery by |cffffff346|r, Max Magicka by |cffffff2625|r and Magicka Recovery by |cffffff288|r for |cffffff2|r hours.",
+          "effect": "Increase Max Health by |cffffff3326|r.\nIncrease Health Recovery by |cffffff406|r.\nIncrease Max Magicka by |cffffff3080|r.\nIncrease Magicka Recovery by |cffffff338|r.\n",
           "stacks": 0
         },
         {
@@ -28445,34 +28445,6 @@
           "name": "Vampire Stage 4",
           "description": "",
           "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 29465,
-          "name": "Landslide",
-          "description": "",
-          "effect": "",
-          "stacks": 9
-        },
-        {
-          "abilityId": 100498,
-          "name": "Clockwork Citrus Filet",
-          "description": "Increase Max Health by |cffffff2835|r, Health Recovery by |cffffff346|r, Max Magicka by |cffffff2625|r and Magicka Recovery by |cffffff288|r for |cffffff2|r hours.",
-          "effect": "Increase Max Health by |cffffff3326|r.\nIncrease Magicka Recovery by |cffffff338|r.\nIncrease Max Magicka by |cffffff3080|r.\nIncrease Health Recovery by |cffffff406|r.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 262658,
-          "name": "Power Lash",
-          "description": "",
-          "effect": "",
-          "stacks": 0
-        },
-        {
-          "abilityId": 258666,
-          "name": "Igneous Weapons",
-          "description": "",
-          "effect": "",
           "stacks": 0
         }
       ],
@@ -29182,14 +29154,14 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:133786:364:50:26587:370:50:3:25:0:0:0:0:0:0:2049:3:0:1:0:94:0|h|h",
+          "link": "|H0:item:133787:364:50:68344:370:50:2:25:0:0:0:0:0:0:2049:4:0:1:0:161:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 0,
           "weaponPower": 1571,
-          "enchant": "Deals |cffffff2955|r Poison Damage.",
-          "enchantCategory": 16,
-          "trait": "Increases Weapon and Spell Critical by |cffffff7.2|r%.",
+          "enchant": "Deals |cffffff2014|r Magic Damage and restores |cffffff439|r Health and |cffffff177|r Magicka and Stamina.",
+          "enchantCategory": 35,
+          "trait": "Increases chance to apply status effects by |cffffff235|r%.",
           "quality": 5,
           "setId": 313,
           "setName": "Titanic Cleave",
@@ -29240,7 +29212,7 @@
             },
             {
               "required": 5,
-              "description": "(5 items) When you deal Martial melee damage, you breathe fire to all enemies in front of you for |cffffff3892|r Flame Damage. This effect can occur once every |cffffff4|r seconds and scales off the higher of your Weapon or Spell Damage.",
+              "description": "(5 items) When you deal Martial melee damage, you breathe fire to all enemies in front of you for |cffffff2949|r Flame Damage. This effect can occur once every |cffffff4|r seconds and scales off the higher of your Weapon or Spell Damage.",
               "perfected": false
             }
           ]
@@ -29445,7 +29417,7 @@
             },
             {
               "required": 2,
-              "description": "(2 items) Activating Critical Charge stirs up a barbarous lust for battle within you for |cffffff18|r seconds, increasing your damage done with direct damage attacks by |cffffff6|r%, up to a maximum of |cffffff12|r%. This effect scales off the higher of your Weapon or Spell Damage.",
+              "description": "(2 items) Activating Critical Charge stirs up a barbarous lust for battle within you for |cffffff18|r seconds, increasing your damage done with direct damage attacks by |cffffff5|r%, up to a maximum of |cffffff12|r%. This effect scales off the higher of your Weapon or Spell Damage.",
               "perfected": false
             }
           ]
@@ -29456,7 +29428,7 @@
           "slot": 3,
           "abilityId": 38754,
           "name": "Brawler",
-          "description": "Focus your strength into a mighty swing, dealing |cffffff5817|r Physical Damage to enemies in front of you.\n\nYou also gain a damage shield that absorbs |cffffff5668|r damage for |cffffff6|r seconds. Each enemy hit increases the damage shield's strength by |cffffff50|r%, up to |cffffff300|r%.",
+          "description": "Focus your strength into a mighty swing, dealing |cffffff4670|r Physical Damage to enemies in front of you.\n\nYou also gain a damage shield that absorbs |cffffff4658|r damage for |cffffff6|r seconds. Each enemy hit increases the damage shield's strength by |cffffff50|r%, up to |cffffff300|r%.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -29467,7 +29439,7 @@
           "slot": 4,
           "abilityId": 31816,
           "name": "Magma Fist",
-          "description": "Draw forth magma from below to hurl at an enemy, dealing |cffffff7586|r Flame Damage while applying a stack of Heat Shock, which increases the enemy's damage taken by |cffffff66|r for |cffffff7|r seconds per stack, up to |cffffff3|r times.\n\nHitting an enemy at max stacks of Heat Shock with this ability increases the damage done of the next cast of this ability within |cffffff6|r seconds by |cffffff66|r%, up to once every |cffffff6|r seconds.",
+          "description": "Draw forth magma from below to hurl at an enemy, dealing |cffffff6087|r Flame Damage while applying a stack of Heat Shock, which increases the enemy's damage taken by |cffffff66|r for |cffffff7|r seconds per stack, up to |cffffff3|r times.\n\nHitting an enemy at max stacks of Heat Shock with this ability increases the damage done of the next cast of this ability within |cffffff6|r seconds by |cffffff66|r%, up to once every |cffffff6|r seconds.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -29478,7 +29450,7 @@
           "slot": 5,
           "abilityId": 20816,
           "name": "Flame Lash",
-          "description": "Lash an enemy with flame, dealing |cffffff7343|r Flame Damage and healing for |cffffff2257|r Health.\n\nHitting an Off Balance enemy grants |cffffff5|r stacks of Power Lash for |cffffff20|r seconds, up to once every |cffffff20|r seconds. After activating, you gain |cffffff3|r% damage done to monsters for |cffffff45|r seconds.\n\nActivating again consumes a stack to deal |cffffff11943|r Flame Damage to your target and all nearby enemies and heals for |cffffff4517|r Health.",
+          "description": "Lash an enemy with flame, dealing |cffffff5891|r Flame Damage and healing for |cffffff1835|r Health.\n\nHitting an Off Balance enemy grants |cffffff5|r stacks of Power Lash for |cffffff20|r seconds, up to once every |cffffff20|r seconds. After activating, you gain |cffffff3|r% damage done to monsters for |cffffff45|r seconds.\n\nActivating again consumes a stack to deal |cffffff9587|r Flame Damage to your target and all nearby enemies and heals for |cffffff3672|r Health.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -29489,7 +29461,7 @@
           "slot": 6,
           "abilityId": 20944,
           "name": "Disintegrating Dragonfire",
-          "description": "Exhale a blast of draconic fire in front of you, dealing |cffffff6008|r Flame Damage, applying the Burning status effect, and an additional |cffffff8945|r Flame Damage over |cffffff10|r seconds to enemies in your path.\n\nThe initial hit liquifies the armor of your enemies, applying Major Breach to enemies for the duration, reducing Physical and Spell Resistance by |cffffff5948|r.",
+          "description": "Exhale a blast of draconic fire in front of you, dealing |cffffff4824|r Flame Damage, applying the Burning status effect, and an additional |cffffff7170|r Flame Damage over |cffffff10|r seconds to enemies in your path.\n\nThe initial hit liquifies the armor of your enemies, applying Major Breach to enemies for the duration, reducing Physical and Spell Resistance by |cffffff5948|r.",
           "durationMs": 10000,
           "castMs": 0,
           "channeled": false,
@@ -29500,7 +29472,7 @@
           "slot": 7,
           "abilityId": 20660,
           "name": "Burning Embers",
-          "description": "Slash your foe with a fiery claw, dealing |cffffff3671|r Flame Damage and an additional |cffffff10395|r Flame Damage over |cffffff10|r seconds.\n\nYou heal for |cffffff11050|r Health from the initial hit and |cffffff1656|r Health each subsequent tick, scaling off your Max Health.\n\nThe initial hit always applies the Burning status effect.",
+          "description": "Slash your foe with a fiery claw, dealing |cffffff2946|r Flame Damage and an additional |cffffff8335|r Flame Damage over |cffffff10|r seconds.\n\nYou heal for |cffffff10137|r Health from the initial hit and |cffffff1520|r Health each subsequent tick, scaling off your Max Health.\n\nThe initial hit always applies the Burning status effect.",
           "durationMs": 10000,
           "castMs": 0,
           "channeled": false,
@@ -29511,7 +29483,7 @@
           "slot": 8,
           "abilityId": 17874,
           "name": "Magma Shell",
-          "description": "Ignite the molten lava in your veins, limiting incoming damage to |cffffff3|r% of your Max Health for |cffffff15|r seconds.\n\nWhen activated, nearby allies gain a damage shield for |cffffff165|r% of their Max Health for |cffffff10|r seconds.\n\nWhile active, you cannot generate Ultimate.",
+          "description": "Ignite the molten lava in your veins, limiting incoming damage to |cffffff3|r% of your Max Health for |cffffff15|r seconds.\n\nWhen activated, nearby allies gain a damage shield for |cffffff153|r% of their Max Health for |cffffff10|r seconds.\n\nWhile active, you cannot generate Ultimate.",
           "durationMs": 15000,
           "castMs": 0,
           "channeled": false,
@@ -29558,7 +29530,7 @@
         {
           "abilityId": 44953,
           "name": "The Storm Voice",
-          "description": "The syllables of that ancient tongue live in the mouth of every Dragonknight.\n\nWhen you cast an Ultimate ability, you restore |cffffff17|r Health, |cffffff16|r Magicka, and |cffffff16|r Stamina for every Ultimate spent. Each Dragonknight ability slotted increases this value by |cffffff6|r.\n\nCurrent amount:\n|cffffff51|r Health\n|cffffff46|r Magicka\n|cffffff46|r Stamina"
+          "description": "The syllables of that ancient tongue live in the mouth of every Dragonknight.\n\nWhen you cast an Ultimate ability, you restore |cffffff16|r Health, |cffffff16|r Magicka, and |cffffff16|r Stamina for every Ultimate spent. Each Dragonknight ability slotted increases this value by |cffffff6|r.\n\nCurrent amount:\n|cffffff47|r Health\n|cffffff46|r Magicka\n|cffffff46|r Stamina"
         },
         {
           "abilityId": 44996,
@@ -29588,7 +29560,7 @@
         {
           "abilityId": 259224,
           "name": "Wildfire Embers",
-          "description": "Fire forged within can never be extinguished. Fan the flames.\n\nWhen your Dragonknight damage over time effects end, you apply a stack of Wildfire Embers to the target, dealing |cffffff4697|r Flame Damage over |cffffff12|r seconds. This effect stacks up to |cffffff12|r times and increases in damage |cffffff25|r% per stack."
+          "description": "Fire forged within can never be extinguished. Fan the flames.\n\nWhen your Dragonknight damage over time effects end, you apply a stack of Wildfire Embers to the target, dealing |cffffff3759|r Flame Damage over |cffffff12|r seconds. This effect stacks up to |cffffff12|r times and increases in damage |cffffff25|r% per stack."
         }
       ],
       "inArchive": false,
@@ -29598,7 +29570,7 @@
       "advanced": {
         "healing-taken-base": 0.16,
         "healing-done-base": 0.02,
-        "critical-damage": 0.22,
+        "critical-damage": 0.1,
         "healing-critical-bonus": 0
       },
       "advancedSheet": {
@@ -29620,20 +29592,20 @@
           "label": "Bleed Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 1
+          "percent": 0
         },
         "critical-damage": {
           "category": "Damage Bonuses",
           "label": "Critical Damage",
           "format": "percent",
-          "percent": 22
+          "percent": 10
         },
         "disease-damage": {
           "category": "Damage Bonuses",
           "label": "Disease Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 1
+          "percent": 0
         },
         "healing-taken-bonuses": {
           "category": "Healing Bonuses",
@@ -29693,7 +29665,7 @@
           "label": "Physical Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 1
+          "percent": 0
         },
         "sprint-cost": {
           "category": "Core Abilities",
@@ -29719,7 +29691,7 @@
           "label": "Flame Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 1
+          "percent": 0
         },
         "healing-done-bonuses": {
           "category": "Healing Bonuses",
@@ -29770,14 +29742,14 @@
           "label": "Magic Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 1
+          "percent": 0
         },
         "cold-damage": {
           "category": "Damage Bonuses",
           "label": "Frost Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 1
+          "percent": 0
         },
         "block-cost": {
           "category": "Core Abilities",
@@ -29808,27 +29780,27 @@
           "label": "Shock Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 1
+          "percent": 0
         },
         "bash-damage": {
           "category": "Core Abilities",
           "label": "Bash Damage",
           "format": "flat",
-          "flat": 1072
+          "flat": 985
         },
         "poison-damage": {
           "category": "Damage Bonuses",
           "label": "Poison Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 1
+          "percent": 0
         },
         "oblivion-damage": {
           "category": "Damage Bonuses",
           "label": "Oblivion Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 1
+          "percent": 0
         },
         "dodge-cost": {
           "category": "Core Abilities",
@@ -29838,10 +29810,10 @@
         }
       },
       "sheet": {
-        "critical-chance-spell": 31.6082496643,
+        "critical-chance-spell": 24.4112796783,
         "riding-capacity": 60,
         "riding-speed": 60,
-        "critical-chance-weapon": 31.6082496643,
+        "critical-chance-weapon": 24.4112796783,
         "attribute-points-unspent": 0,
         "attribute-points-health": 64,
         "attribute-points-stamina": 0,
