@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQKypUAAIBhhRMy5V1ACF0taAEKVO25IUqdtyQpU7bkhSp23JClTtuSCUm6AEEpN0AIJSboAJhFJygCKaKTlAFNIsGXp9cFEEAAAAAAAGnKwAidFAIGQXAQBAAkQNcHwbAdgWHYCaoWTLIyIMIth0GEdQAccIUISIDMwIyEjNSIAIyM0EgAiQgMiMABDMjA6MjIDoiImQzAjIAAIIiIkozBCMCOsujXqNSLEnDKx5MsuZNnZ9GnVr2z6FGlTqeKqxsrZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJgAgMg4xIGsA",
+  "buildHash": "ATQKypUAAIBhhRMy5V1ACF0taAEKVO25IUqdtyQpU7bkhSp23JClTtuSCUm6AEEpN0AIJSboAJhFJygCKaKTlAFNIsGXp9cFEEAAAAAAAGnKwAidFAIGQXAQBAAkQNcHwbAdgWHYCaoWTLIyIMIth0GEdQAccIUISIDMwIyEjNSIAIyM0EgAiQgMiMABEMjA6MjIDoiImQzAjIAAIIiIkozBCMCOsujXqNSLEnDKx5MsuZNnZ9GnVr2z6FGlTqeKqxsrZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJgAgMg4xIGsA",
   "gender": 1,
   "level": 50,
   "classId": 6,
@@ -4610,7 +4610,7 @@
   },
   "skillPoints": {
     "total": 385,
-    "unassigned": 49,
+    "unassigned": 48,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 1,
@@ -13251,12 +13251,12 @@
   },
   "inventoryCheck": {
     "date": "2026-10-20",
-    "misplaced": 148
+    "misplaced": 57
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792507547,
-      "buildHash": "ATQKypUAAIBhhRMy5V1ACF0taAEKVO25IUqdtyQpU7bkhSp23JClTtuSCUm6AEEpN0AIJSboAJhFJygCKaKTlAFNIsGXp9cFEEAAAAAAAGnKwAidFAIGQXAQBAAkQNcHwbAdgWHYCaoWTLIyIMIth0GEdQAccIUISIDMwIyEjNSIAIyM0EgAiQgMiMABDMjA6MjIDoiImQzAjIAAIIiIkozBCMCOsujXqNSLEnDKx5MsuZNnZ9GnVr2z6FGlTqeKqxsrZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJgAgMg4xIGsA",
+      "capturedAt": 1792507659,
+      "buildHash": "ATQKypUAAIBhhRMy5V1ACF0taAEKVO25IUqdtyQpU7bkhSp23JClTtuSCUm6AEEpN0AIJSboAJhFJygCKaKTlAFNIsGXp9cFEEAAAAAAAGnKwAidFAIGQXAQBAAkQNcHwbAdgWHYCaoWTLIyIMIth0GEdQAccIUISIDMwIyEjNSIAIyM0EgAiQgMiMABEMjA6MjIDoiImQzAjIAAIIiIkozBCMCOsujXqNSLEnDKx5MsuZNnZ9GnVr2z6FGlTqeKqxsrZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJgAgMg4xIGsA",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "ultimate": 84,
