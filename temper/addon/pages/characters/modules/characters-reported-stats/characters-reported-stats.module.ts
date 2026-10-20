@@ -81,6 +81,23 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A reading keeps the weapon power the game gives each worn piece.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading keeps each worn piece's set id, and 0 for a piece in no set.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reading keeps what the game says of a worn piece's set as worn, with each bonus line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A worn piece's set text plans or diagnoses a case and is never a verified case.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reading keeps each skill on the bar held, with the text the game gives it now.",
     },
     {
@@ -162,5 +179,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-20T14:12:02.929Z",
+  updatedAt: "2026-10-20T15:14:05.203Z",
 } as const satisfies Module

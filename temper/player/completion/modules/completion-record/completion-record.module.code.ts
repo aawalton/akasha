@@ -161,14 +161,28 @@ const championStarSchema = z.strictObject({
   slottable: z.boolean().optional(),
 })
 
+const wornSetBonusSchema = z.strictObject({
+  required: z.number(),
+  description: z.string(),
+  perfected: z.boolean(),
+})
+
 const wornPieceSchema = z.strictObject({
   slot: z.number(),
   link: z.string(),
   armor: z.number(),
+  weaponPower: z.number().optional(),
   enchant: z.string(),
   enchantCategory: z.number().optional(),
   trait: z.string().optional(),
   quality: z.number().optional(),
+  setId: z.number().optional(),
+  setName: z.string().optional(),
+  setBonusCount: z.number().optional(),
+  setEquipped: z.number().optional(),
+  setMaxEquipped: z.number().optional(),
+  setPerfectedEquipped: z.number().optional(),
+  setBonuses: luaArrayOrEmpty(wornSetBonusSchema).optional(),
 })
 
 const slottedSkillSchema = z.strictObject({

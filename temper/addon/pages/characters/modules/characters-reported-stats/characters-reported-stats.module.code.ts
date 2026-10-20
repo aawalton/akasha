@@ -134,10 +134,27 @@ function championPoints(): StarSpent[] {
   return stars
 }
 
-type WornPiece = {
+type SetBonus = {
+  required: number
+  description: string
+  perfected: boolean
+}
+
+type WornSet = {
+  setId: number
+  setName?: string
+  setBonusCount?: number
+  setEquipped?: number
+  setMaxEquipped?: number
+  setPerfectedEquipped?: number
+  setBonuses?: SetBonus[]
+}
+
+type WornPiece = WornSet & {
   slot: number
   link: string
   armor: number
+  weaponPower: number
   enchant: string
   enchantCategory: number
   trait: string
@@ -147,6 +164,30 @@ type WornPiece = {
 function enchantCategoryOf(link: string): number {
   const enchantId = GetItemLinkFinalEnchantId(link)
   return enchantId === 0 ? 0 : GetEnchantSearchCategoryType(enchantId)
+}
+
+function setBonusesOf(link: string, count: number): SetBonus[] {
+  const bonuses: SetBonus[] = []
+  for (let index = 1; index <= count; index++) {
+    const [required, description, perfected] = GetItemLinkSetBonusInfo(link, true, index)
+    bonuses.push({ required, description, perfected: perfected === true })
+  }
+  return bonuses
+}
+
+function wornSetOf(link: string): WornSet {
+  const [hasSet, setName, setBonusCount, setEquipped, setMaxEquipped, setId, perfected] =
+    GetItemLinkSetInfo(link, true)
+  if (!hasSet) return { setId: 0 }
+  return {
+    setId,
+    setName,
+    setBonusCount,
+    setEquipped,
+    setMaxEquipped,
+    setPerfectedEquipped: perfected,
+    setBonuses: setBonusesOf(link, setBonusCount),
+  }
 }
 
 function worn(): WornPiece[] {
@@ -161,10 +202,12 @@ function worn(): WornPiece[] {
       slot,
       link,
       armor: GetItemLinkArmorRating(link, false),
+      weaponPower: GetItemLinkWeaponPower(link),
       enchant,
       enchantCategory: enchantCategoryOf(link),
       trait,
       quality: GetItemLinkFunctionalQuality(link),
+      ...wornSetOf(link),
     })
   }
   return pieces
