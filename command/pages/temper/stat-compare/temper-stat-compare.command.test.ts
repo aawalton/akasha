@@ -5,7 +5,9 @@ import {
   advancedSheetLines,
   characterSheetLines,
   headerOf,
+  rowLine,
   temperStatCompare,
+  unsteadyOf,
 } from "akasha/command/pages/temper/stat-compare/temper-stat-compare.command.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import { dragonknight } from "akasha/temper/catalog/skill/temper-class/pages/dragonknight.temper-class.ts"
@@ -131,6 +133,18 @@ test("a reading's other character sheet numbers are shown by name", () => {
 
 test("a reading keeping no sheet numbers says so", () => {
   expect(characterSheetLines(LINE.reading)).toEqual(["  sheet (game): none kept"])
+})
+
+test("stamina recovery read while blocking or moving is marked as no steady value", () => {
+  const moving = { ...LINE.reading, moving: true }
+  const blocking = { ...LINE.reading, blocking: true, moving: true }
+
+  expect(unsteadyOf(moving, "stamina-recovery")).toBe("moving")
+  expect(unsteadyOf(blocking, "stamina-recovery")).toBe("blocking")
+  expect(unsteadyOf(moving, "stamina-maximum")).toBeNull()
+  expect(unsteadyOf(LINE.reading, "stamina-recovery")).toBeNull()
+  const row = { stat: "stamina-recovery", game: 0, estimate: 514, unsteady: "moving" }
+  expect(rowLine(row, 16)).toMatch(/^ {2}~ stamina-recovery +0 +514 +\+514 {2}moving, not steady$/)
 })
 
 test("a reading named both by when it was captured and by its id is refused", async () => {

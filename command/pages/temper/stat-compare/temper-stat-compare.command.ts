@@ -59,6 +59,15 @@ export const temperStatCompare = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Stamina recovery read while the player was blocking or moving is marked as no steady value.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stat marked that way is not counted among the stats that match.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The estimate is the stat cases' own, from the build and the reading's buffs and stars.",
     },
     {
@@ -110,5 +119,5 @@ export const temperStatCompare = {
     { argument: "argument/json" },
   ],
   createdAt: "2026-10-14T14:17:00.259Z",
-  updatedAt: "2026-10-20T13:23:42.825Z",
+  updatedAt: "2026-10-20T14:05:44.724Z",
 } as const satisfies Command

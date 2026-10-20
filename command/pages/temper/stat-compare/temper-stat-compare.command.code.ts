@@ -51,7 +51,21 @@ const FEW_STARS = 4
 
 const NUMBER = 8
 
-type Row = { readonly stat: string; readonly game: number; readonly estimate: number | null }
+type Row = {
+  readonly stat: string
+  readonly game: number
+  readonly estimate: number | null
+  readonly unsteady: string | null
+}
+
+const UNSTEADY_WHILE_BLOCKING_OR_MOVING = new Set(["stamina-recovery"])
+
+export function unsteadyOf(reading: ReadingLine["reading"], named: string): string | null {
+  if (!UNSTEADY_WHILE_BLOCKING_OR_MOVING.has(named)) return null
+  if (reading.blocking === true) return "blocking"
+  if (reading.moving === true) return "moving"
+  return null
+}
 
 type Compared = {
   readonly line: ReadingLine
@@ -96,6 +110,7 @@ function comparedOf(line: ReadingLine): Compared {
       stat: one,
       game: reading.stats[one] ?? 0,
       estimate: estimate === null ? null : estimate(one),
+      unsteady: unsteadyOf(reading, one),
     }))
   return { line, build: buildOf(line.buildHash), rows, unmatchedBuffs, unestimated }
 }
@@ -180,11 +195,15 @@ function cell(text: string): string {
   return text.padStart(NUMBER)
 }
 
-function rowLine(row: Row, width: number): string {
+function unsteadySaid(row: Row): string {
+  return row.unsteady === null ? "" : `  ${row.unsteady}, not steady`
+}
+
+export function rowLine(row: Row, width: number): string {
   const estimate = row.estimate === null ? "-" : String(row.estimate)
   const delta = row.estimate === null ? "-" : signed(row.estimate - row.game)
-  const mark = row.estimate === row.game ? "=" : " "
-  return `  ${mark} ${row.stat.padEnd(width)} ${cell(String(row.game))} ${cell(estimate)} ${cell(delta)}`
+  const mark = row.unsteady !== null ? "~" : row.estimate === row.game ? "=" : " "
+  return `  ${mark} ${row.stat.padEnd(width)} ${cell(String(row.game))} ${cell(estimate)} ${cell(delta)}${unsteadySaid(row)}`
 }
 
 const FORMAT = "flat-and-percent".length
@@ -238,7 +257,8 @@ export function characterSheetLines(reading: ReadingLine["reading"]): readonly s
 
 function blockOf(one: Compared): readonly string[] {
   const width = Math.max(4, ...one.rows.map((row) => row.stat.length))
-  const matched = one.rows.filter((row) => row.estimate === row.game).length
+  const steady = one.rows.filter((row) => row.unsteady === null)
+  const matched = steady.filter((row) => row.estimate === row.game).length
   const head = `    ${"stat".padEnd(width)} ${cell("game")} ${cell("temper")} ${cell("diff")}`
   return [
     headerOf(one.line, one.build?.character ?? null),
@@ -246,7 +266,7 @@ function blockOf(one: Compared): readonly string[] {
     ...(one.unestimated === null ? [] : [`  no estimate: ${one.unestimated}`]),
     head,
     ...one.rows.map((row) => rowLine(row, width)),
-    `  ${String(matched)} of ${String(one.rows.length)} match`,
+    `  ${String(matched)} of ${String(steady.length)} steady stats match`,
     ...advancedSheetLines(one.line.reading),
     ...characterSheetLines(one.line.reading),
     "",
@@ -258,8 +278,8 @@ function statLine(one: Compared, row: Row | undefined): string {
   const said = [...lead, combatOf(one.line)].join("  ")
   if (row === undefined) return `${said}  not reported`
   if (row.estimate === null) return `${said}  game ${String(row.game)}  no estimate`
-  const mark = row.estimate === row.game ? "  =" : ""
-  return `${said}  game ${String(row.game)}  temper ${String(row.estimate)}  ${signed(row.estimate - row.game)}${mark}`
+  const mark = row.unsteady === null && row.estimate === row.game ? "  =" : ""
+  return `${said}  game ${String(row.game)}  temper ${String(row.estimate)}  ${signed(row.estimate - row.game)}${mark}${unsteadySaid(row)}`
 }
 
 function unreadLines(unread: readonly Unread[]): readonly string[] {
