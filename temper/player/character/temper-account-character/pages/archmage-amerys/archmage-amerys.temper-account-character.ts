@@ -15,6 +15,7 @@ export const archmageAmerys = {
   firstName: "Amerys",
   fights: "jsonl",
   readings: "jsonl",
+  removedReadings: "jsonl",
   createdAt: "2026-04-29T16:44:14.300Z",
-  updatedAt: "2026-10-20T13:41:27.042Z",
+  updatedAt: "2026-10-20T13:47:12.966Z",
 } as const satisfies TemperAccountCharacter
