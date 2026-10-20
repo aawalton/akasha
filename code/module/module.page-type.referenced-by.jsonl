@@ -6066,6 +6066,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/buff-or-debuff-id/buff-or-debuff-id.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/build-reading-lines/build-reading-lines.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/build-state-adapter/build-state-adapter.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/champion-damage-taken/champion-damage-taken.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/character-rotation-reading/character-rotation-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/compare-stats/compare-stats.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/diff-effect-sources/diff-effect-sources.module.ts","typed":true,"deferred":false}

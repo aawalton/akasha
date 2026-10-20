@@ -60,6 +60,7 @@ export const temperCharacterStat = {
     "module/build-reading-lines",
     "module/text-pattern",
     "module/rotation-reading",
+    "module/champion-damage-taken",
   ],
   directives: [
     {
@@ -101,5 +102,5 @@ export const temperCharacterStat = {
     },
   ],
   createdAt: "2026-09-02T08:15:09.030Z",
-  updatedAt: "2026-10-20T02:47:17.739Z",
+  updatedAt: "2026-10-20T13:31:11.231Z",
 } as const satisfies Domain
