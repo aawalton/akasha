@@ -1,0 +1,32 @@
+{
+  "character": "erin-solstice",
+  "bar": "primary-weapon-bar",
+  "buildHash": "ATQNNIAAQABiRROhAAGgACBoQABoAAgf8AAAAAAAAAAAAAAAAAAAAAAACUBAAAAAAAAQAEABAAgYAAAAGAAIgABAAwAAAMBAAAQAAAEABAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAyA",
+  "capturedAt": 1792440782,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "inCombat": true,
+  "activeBuffs": [
+
+  ],
+  "championPoints": [
+
+  ],
+  "pinned": {
+    "critical-rating-spell": 2181,
+    "critical-rating-weapon": 2181,
+    "health-maximum": 23808,
+    "health-recovery": 309,
+    "magicka-maximum": 12000,
+    "magicka-recovery": 514,
+    "penetration-physical": 0,
+    "penetration-spell": 0,
+    "power-spell": 1000,
+    "power-weapon": 1000,
+    "resistance-critical": 1320,
+    "resistance-physical": 84,
+    "resistance-spell": 84,
+    "stamina-maximum": 12000,
+    "stamina-recovery": 514
+  },
+  "gaps": {}
+}

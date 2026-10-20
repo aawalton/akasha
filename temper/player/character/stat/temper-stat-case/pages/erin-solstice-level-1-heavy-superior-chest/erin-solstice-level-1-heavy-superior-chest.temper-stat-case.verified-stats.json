@@ -1,0 +1,32 @@
+{
+  "character": "erin-solstice",
+  "bar": "primary-weapon-bar",
+  "buildHash": "ATQNNIGAQABiRRPAgAHQABA4EAA6AAIHogAHQABAwAAAAAAAAAAAAAAAAAAAAAAAJQEAAAAAAABAAQAEACBgAAAAYAAiAAMADIAAAwEAABwAAAQAEAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZMsBBJrwyWc8TGCQGMKBCPNgusVrlMwxFzwSShEAPbzNrXtPNcPZQMg",
+  "capturedAt": 1792448019,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "inCombat": true,
+  "activeBuffs": [
+    { "abilityId": 13943, "name": "Boon: The Mage" }
+  ],
+  "championPoints": [
+
+  ],
+  "pinned": {
+    "critical-rating-spell": 2181,
+    "critical-rating-weapon": 2181,
+    "health-maximum": 23808,
+    "health-recovery": 309,
+    "magicka-maximum": 14453,
+    "magicka-recovery": 514,
+    "penetration-physical": 0,
+    "penetration-spell": 0,
+    "power-spell": 1000,
+    "power-weapon": 1000,
+    "resistance-critical": 1320,
+    "resistance-physical": 677,
+    "resistance-spell": 677,
+    "stamina-maximum": 12000,
+    "stamina-recovery": 514
+  },
+  "gaps": {}
+}
