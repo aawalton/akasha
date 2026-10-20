@@ -12,6 +12,7 @@ export const temperSet = {
     "page-property-entry/bonuses",
     "page-property-entry/icons",
     "record-property/bonus-effects",
+    "multi-relation-property/effect-while-buffs",
     "text-property/bonus-status",
     "text-property/icon-slot",
     "relation-property/set-class-id",
@@ -145,5 +146,5 @@ export const temperSet = {
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
   createdAt: "2026-09-02T01:53:02.017Z",
-  updatedAt: "2026-09-26T15:14:05.000Z",
+  updatedAt: "2026-10-20T00:38:01.998Z",
 } as const satisfies PageType

@@ -11,6 +11,12 @@ export const bonusEffects = {
     { pageProperty: "text-property/effect-type", required: false, many: false },
     { pageProperty: "number-property/effect-value", required: false, many: false },
     { pageProperty: "one-of-property/buff-id", required: false, many: false },
+    {
+      pageProperty: "multi-relation-property/effect-while-buffs",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {
@@ -24,5 +30,5 @@ export const bonusEffects = {
   ],
   types: "ts",
   createdAt: "2026-09-02T01:53:02.006Z",
-  updatedAt: "2026-09-24T15:15:21.000Z",
+  updatedAt: "2026-10-20T00:38:01.998Z",
 } as const satisfies RecordProperty
