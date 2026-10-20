@@ -6336,6 +6336,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-search/item-browser-search.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-settings/item-browser-settings.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-special-names/item-browser-special-names.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-standard-set-bonuses/item-browser-standard-set-bonuses.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-start/item-browser-start.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-state/item-browser-state.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-tab/item-browser-tab.module.ts","typed":true,"deferred":false}

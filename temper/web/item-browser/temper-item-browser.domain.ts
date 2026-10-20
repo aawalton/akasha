@@ -28,6 +28,7 @@ export const temperItemBrowser = {
     "module/item-browser-rows",
     "type-declaration/item-browser-global-declarations",
     "module/item-browser-search",
+    "module/item-browser-standard-set-bonuses",
   ],
   decisions: [
     {
@@ -44,5 +45,5 @@ export const temperItemBrowser = {
     },
   ],
   createdAt: "2026-09-02T09:34:23.524Z",
-  updatedAt: "2026-09-26T13:46:30.000Z",
+  updatedAt: "2026-10-20T16:06:06.137Z",
 } as const satisfies Domain
