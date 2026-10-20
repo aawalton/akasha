@@ -371,6 +371,8 @@ function readingOf(buildHash: string, [stats, unbonusedStats]: StatsNow) {
     buildHash: asBuildHash(buildHash),
     esoVersion: GetESOVersionString(),
     inCombat: IsUnitInCombat("player"),
+    blocking: IsBlockActive(),
+    moving: IsPlayerMoving(),
     ultimate: powerHeld(COMBAT_MECHANIC_FLAGS_ULTIMATE),
     health: powerHeld(COMBAT_MECHANIC_FLAGS_HEALTH),
     stats,
