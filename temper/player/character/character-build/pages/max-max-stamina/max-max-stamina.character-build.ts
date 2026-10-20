@@ -5,10 +5,11 @@ export const maxMaxStamina = {
   type: "page-type/character-build",
   slug: "max-max-stamina",
   title: "Max Max Stamina",
+  accountPage: "temper-account/alanarre",
   buildHash:
     "ATQJpJcAAIBjRwwGyJtABFz_aAEbI-0AIWR9oAQsj7QAjZH2gBCyPtAByAVaADkH3UAHIBVoAMdE_2gBNz_aABxMptoA0gjcWGiCsAMUgIkk-iCsKRgEEUcglIICygLcAFAAyAAgQhQoJOAHgAyAAcwAJQHFIogZNANUcEIWECACAQRmA9SIKDpSDJcnBkQoQkQEBkZkBEZkJEBGRqREQARkZoIASEBkSAAIhkRGYHRGaEQHRERMhmRoAAEEREBESUZghERERGAEdZdHjUbkWJOGVjyZZcybOz6NOrXtn0KNKnU8VayxsrZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJhggMhYxIGoeyqRA",
   visibility: "target",
   characterName: "Archmage Amerys",
   createdAt: "2026-10-20T01:24:46.417Z",
-  updatedAt: "2026-10-20T01:24:46.417Z",
+  updatedAt: "2026-10-20T01:33:09.270Z",
 } as const satisfies CharacterBuild
