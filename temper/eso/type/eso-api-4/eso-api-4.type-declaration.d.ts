@@ -1,4 +1,5 @@
 declare function AssignTargetMarkerToReticleTarget(targetMarkerType: number): void
+declare function DoesAntiquityRequireLead(antiquityId: number): boolean
 declare function DoesUnitHaveResurrectPending(unitTag: string): boolean
 declare function GetAchievementTimestamp(achievementId: number): number
 declare function GetCurrentRaidLifeScoreBonus(): number
