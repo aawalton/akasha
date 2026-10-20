@@ -86,7 +86,8 @@ export const temperCharacterStat = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "The game holds its numbers as floats and floors them at points of its own.",
+      statement:
+        "The game holds its numbers as 32-bit floats and floors them at points of its own.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -100,5 +101,5 @@ export const temperCharacterStat = {
     },
   ],
   createdAt: "2026-09-02T08:15:09.030Z",
-  updatedAt: "2026-10-19T19:31:54.334Z",
+  updatedAt: "2026-10-20T02:47:17.739Z",
 } as const satisfies Domain
