@@ -1,23 +1,40 @@
+import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import { createWeaponSource } from "akasha/temper/player/character/characters-equipment/modules/weapon-source/weapon-source.module.code.ts"
+import { isMetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 import type { PipelineStage } from "akasha/temper/player/character/stat/modules/pipeline-types/pipeline-types.module.code.ts"
+
+type Bar = "primary-weapon-bar" | "backup-weapon-bar"
+
+function weaponsOn(build: CharacterState, bar: Bar) {
+  const main = build.equipment[bar]["main-hand"]
+  const off = build.equipment[bar]["off-hand"]
+  return [
+    ...(main.itemType === "weapon" ? [createWeaponSource(main.data)] : []),
+    ...(off.itemType === "weapon" ? [createWeaponSource(off.data)] : []),
+  ]
+}
+
+function heldWhileBuffs(effect: unknown): boolean {
+  return isMetricEffect(effect) && effect.whileBuffs !== undefined
+}
+
+function procsCarriedOver(build: CharacterState, bar: Bar) {
+  return weaponsOn(build, bar)
+    .map((weapon) => ({ ...weapon, effects: weapon.effects.filter(heldWhileBuffs) }))
+    .filter((weapon) => weapon.effects.length > 0)
+}
 
 export const extractWeapons: PipelineStage = (build, context) => {
   if (context.bar === "primary-weapon-bar") {
-    const main = build.equipment["primary-weapon-bar"]["main-hand"]
-    const off = build.equipment["primary-weapon-bar"]["off-hand"]
-
     return [
-      ...(main.itemType === "weapon" ? [createWeaponSource(main.data)] : []),
-      ...(off.itemType === "weapon" ? [createWeaponSource(off.data)] : []),
+      ...weaponsOn(build, "primary-weapon-bar"),
+      ...procsCarriedOver(build, "backup-weapon-bar"),
     ]
   }
   if (context.bar === "backup-weapon-bar") {
-    const main = build.equipment["backup-weapon-bar"]["main-hand"]
-    const off = build.equipment["backup-weapon-bar"]["off-hand"]
-
     return [
-      ...(main.itemType === "weapon" ? [createWeaponSource(main.data)] : []),
-      ...(off.itemType === "weapon" ? [createWeaponSource(off.data)] : []),
+      ...weaponsOn(build, "backup-weapon-bar"),
+      ...procsCarriedOver(build, "primary-weapon-bar"),
     ]
   }
   return []

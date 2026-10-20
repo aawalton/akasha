@@ -40,6 +40,7 @@
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/stat/modules/extract-armor/extract-armor.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/stat/modules/extract-passives/extract-passives.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/stat/modules/extract-skills/extract-skills.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/stat/modules/extract-weapons/extract-weapons.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/stat/modules/extractors/extractors.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/stat/modules/format-effects/format-effects.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts","typed":false,"deferred":false}
