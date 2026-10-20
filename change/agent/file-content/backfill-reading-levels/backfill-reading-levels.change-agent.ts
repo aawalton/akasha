@@ -22,6 +22,15 @@ export const backfillReadingLevels = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A level-fifty subtype is placed by the items every account's stacks hold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reading wearing a piece no item places is named, and that piece's level left unknown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Only a reading wearing a piece below CP160 or a glyph below fifty is written again.",
     },
@@ -47,5 +56,5 @@ export const backfillReadingLevels = {
   maxCpuSeconds: 120,
   maxMemoryMb: 2048,
   createdAt: "2026-10-20T18:09:32.060Z",
-  updatedAt: "2026-10-20T18:09:32.060Z",
+  updatedAt: "2026-10-20T18:14:28.432Z",
 } as const satisfies ChangeAgent

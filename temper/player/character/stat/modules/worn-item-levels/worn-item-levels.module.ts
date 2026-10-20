@@ -26,21 +26,22 @@ export const wornItemLevels = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A link at level fifty says its champion level by a subtype a reading has placed.",
+      statement:
+        "A link at level fifty says its level by its subtype, as the game's items place it.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Subtypes 125, 128, 131, 133 and 308 are CP10, 40, 70, 90 and 150, and 358 to 370 CP160.",
-    },
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement:
-        "Those places rest on Erin Solstice's sash swaps rising in armor in Alan's CP order.",
+        "A subtype is placed by every link at level fifty the game gave a required level for.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A link at level fifty whose subtype no reading has placed says no level.",
+      statement: "A subtype the game's items give two levels for is placed nowhere.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A link at level fifty whose subtype is placed nowhere says no level and is marked.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -52,5 +53,5 @@ export const wornItemLevels = {
     },
   ],
   createdAt: "2026-10-20T17:57:55.005Z",
-  updatedAt: "2026-10-20T17:57:55.005Z",
+  updatedAt: "2026-10-20T18:14:28.432Z",
 } as const satisfies Module

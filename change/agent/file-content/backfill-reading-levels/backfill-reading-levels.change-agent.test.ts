@@ -38,8 +38,15 @@ const SASHED = lineOf("01a1aaaa", 1, {
 
 const CP160_ONLY = lineOf("01a1bbbb", 2, { "1": { slot: 2, link: CP160_CHEST, armor: 2772 } })
 
+const STACKS_AT =
+  "temper/player/character/temper-account/pages/alan/alan.temper-account.stacks.jsonl"
+
+const STACKS = `${JSON.stringify({ itemLink: CP160_CHEST, requiredLevel: 50, requiredCp: 160 })}\n`
+
+const UNPLACED_GLOVES = "|H0:item:43548:200:50:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0|h|h"
+
 function worldOf(readings: string): World {
-  const texts: Record<string, string> = { [READINGS_AT]: readings }
+  const texts: Record<string, string> = { [READINGS_AT]: readings, [STACKS_AT]: STACKS }
   return {
     root: "/nowhere",
     index: {} as World["index"],
@@ -81,6 +88,22 @@ test("the change says what it rewrote", () => {
     "1 readings' build hashes rewritten at minor thirteen in 1 readings files",
     "0 already at minor thirteen, 1 wearing only CP160 pieces and glyphs, left as they are",
     "0 whose hash does not decode and 0 that would not read back as worn, left as they are",
+    "1 level-fifty subtypes placed by the game's items",
+    "0 readings wear a level-fifty piece no item places, its level left unknown",
     "erin: 1 rewritten: 01a1aaaa",
   ])
+})
+
+test("a reading wearing a level-fifty piece no item places is named, and that level left unknown", () => {
+  const unplaced = lineOf("01a1cccc", 3, {
+    "1": { slot: 16, link: UNPLACED_GLOVES, armor: 1000 },
+    "2": { slot: 6, link: LEVEL_ONE_SASH, armor: 19 },
+  })
+  const said = backfillReadingLevels(worldOf(`${unplaced}\n`))
+  const line = JSON.parse(writtenOf(said)[0] ?? "{}")
+  const hands = decodeBuild(buildHash(line.buildHash))?.equipment.armor.hands.data
+  expect(said.told?.[4]).toBe(
+    "1 readings wear a level-fifty piece no item places, its level left unknown: 01a1cccc"
+  )
+  expect(hands?.level).toBeUndefined()
 })

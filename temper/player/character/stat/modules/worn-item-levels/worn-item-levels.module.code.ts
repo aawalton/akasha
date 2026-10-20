@@ -15,27 +15,38 @@ export type WornPiece = {
   readonly requiredChampionPoints?: number | undefined
 }
 
-type Levels = { readonly level?: ItemLevel; readonly enchantmentLevel?: number }
+export type LinkedItem = {
+  readonly link: string
+  readonly requiredLevel: number
+  readonly requiredCp: number
+}
+
+export type ChampionLevels = ReadonlyMap<number, ItemLevel>
+
+type Levels = {
+  readonly level?: ItemLevel
+  readonly enchantmentLevel?: number
+  readonly unplaced?: true
+}
 
 const HIGHEST_CHARACTER_LEVEL = 50
 
 const LINK_LEVELS = /^\|H\d:item:\d+:(\d+):(\d+):\d+:\d+:(\d+)/
 
-const CHAMPION_SUBTYPES: Readonly<Record<number, ItemLevel>> = {
-  125: "CP10",
-  128: "CP40",
-  131: "CP70",
-  133: "CP90",
-  308: "CP150",
-}
-
-const FIRST_CP160_SUBTYPE = 358
-
-const LAST_CP160_SUBTYPE = 370
-
-function championLevelOf(subtype: number): ItemLevel | undefined {
-  if (subtype >= FIRST_CP160_SUBTYPE && subtype <= LAST_CP160_SUBTYPE) return "CP160"
-  return CHAMPION_SUBTYPES[subtype]
+export function championLevelsOf(items: Iterable<LinkedItem>): ChampionLevels {
+  const seen = new Map<number, ItemLevel | null>()
+  for (const item of items) {
+    const fields = LINK_LEVELS.exec(item.link)
+    if (fields === null || Number(fields[2]) !== HIGHEST_CHARACTER_LEVEL) continue
+    const level = itemLevelOfPlace(itemLevelPlaceOfRequired(item.requiredLevel, item.requiredCp))
+    if (level === undefined) continue
+    const subtype = Number(fields[1])
+    const before = seen.get(subtype)
+    seen.set(subtype, before === undefined || before === level ? level : null)
+  }
+  const placed = new Map<number, ItemLevel>()
+  for (const [subtype, level] of seen) if (level !== null) placed.set(subtype, level)
+  return placed
 }
 
 const ARMOR: Readonly<Record<number, ArmorSlotId>> = {
@@ -61,21 +72,29 @@ const WEAPONS: Readonly<Record<number, readonly [keyof WeaponBars, "main-hand" |
   21: ["backup-weapon-bar", "off-hand"],
 }
 
-function itemLevelOf(piece: WornPiece, subtype: number, linked: number): ItemLevel | undefined {
+function itemLevelOf(
+  piece: WornPiece,
+  subtype: number,
+  linked: number,
+  levels: ChampionLevels
+): Levels {
   if (piece.requiredLevel !== undefined) {
     const place = itemLevelPlaceOfRequired(piece.requiredLevel, piece.requiredChampionPoints ?? 0)
-    return itemLevelOfPlace(place)
+    const level = itemLevelOfPlace(place)
+    return level === undefined ? {} : { level }
   }
-  if (linked === HIGHEST_CHARACTER_LEVEL) return championLevelOf(subtype)
-  return linked > 0 && linked < HIGHEST_CHARACTER_LEVEL ? linked : undefined
+  if (linked === HIGHEST_CHARACTER_LEVEL) {
+    const level = levels.get(subtype)
+    return level === undefined ? { unplaced: true } : { level }
+  }
+  return linked > 0 && linked < HIGHEST_CHARACTER_LEVEL ? { level: linked } : {}
 }
 
-export function wornLevelsOf(piece: WornPiece): Levels {
+export function wornLevelsOf(piece: WornPiece, levels: ChampionLevels): Levels {
   const fields = LINK_LEVELS.exec(piece.link)
-  const level = itemLevelOf(piece, Number(fields?.[1] ?? 0), Number(fields?.[2] ?? 0))
   const glyph = Number(fields?.[3] ?? 0)
   return {
-    ...(level === undefined ? {} : { level }),
+    ...itemLevelOf(piece, Number(fields?.[1] ?? 0), Number(fields?.[2] ?? 0), levels),
     ...(glyph > 0 ? { enchantmentLevel: glyph } : {}),
   }
 }
@@ -90,7 +109,11 @@ function filled<Data extends Levels>(data: Data, worn: Levels): Data {
   }
 }
 
-export function withWornLevels(build: CharacterState, worn: readonly WornPiece[]): CharacterState {
+export function withWornLevels(
+  build: CharacterState,
+  worn: readonly WornPiece[],
+  championLevels: ChampionLevels
+): CharacterState {
   const armor = { ...build.equipment.armor }
   const jewelry = { ...build.equipment.jewelry }
   const bars: WeaponBars = {
@@ -98,7 +121,7 @@ export function withWornLevels(build: CharacterState, worn: readonly WornPiece[]
     "backup-weapon-bar": { ...build.equipment["backup-weapon-bar"] },
   }
   for (const piece of worn) {
-    const levels = wornLevelsOf(piece)
+    const levels = wornLevelsOf(piece, championLevels)
     const armorSlot = ARMOR[piece.slot]
     const jewelrySlot = JEWELRY[piece.slot]
     const weaponSlot = WEAPONS[piece.slot]

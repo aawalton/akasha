@@ -17,6 +17,9 @@ import { buildHash } from "akasha/temper/player/character/formula-framework/modu
 import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
 import { resultOf } from "akasha/temper/player/character/stat/modules/build-reading-lines/build-reading-lines.module.code.ts"
 import {
+  type ChampionLevels,
+  championLevelsOf,
+  type LinkedItem,
   type WornPiece,
   withWornLevels,
   wornLevelsOf,
@@ -26,6 +29,10 @@ import { jsonlLinesOf } from "akasha/temper/watcher/modules/watcher-page-landing
 const CHARACTERS = "temper/player/character/temper-account-character/pages/"
 
 const READINGS = ".temper-account-character.readings.jsonl"
+
+const ACCOUNTS = "temper/player/character/temper-account/pages/"
+
+const STACKS = ".temper-account.stacks.jsonl"
 
 const MINOR_AT = 2
 
@@ -59,9 +66,23 @@ function wornOf(reading: Json): readonly WornPiece[] {
   })
 }
 
-function saysMore(worn: readonly WornPiece[]): boolean {
+function linkedItemsIn(world: World): readonly LinkedItem[] {
+  const items: LinkedItem[] = []
+  for (const path of world.under(ACCOUNTS)) {
+    if (!path.endsWith(STACKS)) continue
+    for (const text of jsonlLinesOf(world.textOf(path))) {
+      const { itemLink, requiredLevel, requiredCp } = JSON.parse(text) as Json
+      if (typeof itemLink !== "string" || typeof requiredLevel !== "number") continue
+      if (typeof requiredCp !== "number") continue
+      items.push({ link: itemLink, requiredLevel, requiredCp })
+    }
+  }
+  return items
+}
+
+function saysMore(worn: readonly WornPiece[], levels: ChampionLevels): boolean {
   return worn.some((piece) => {
-    const { level, enchantmentLevel } = wornLevelsOf(piece)
+    const { level, enchantmentLevel } = wornLevelsOf(piece, levels)
     const below = level !== undefined && level !== "CP160"
     const weaker = enchantmentLevel !== undefined && enchantmentLevel < FULL_GLYPH_LEVEL
     return below || weaker
@@ -78,7 +99,15 @@ function canonical(value: unknown): unknown {
   return sorted
 }
 
-function rewritten(text: string, counts: Counts, ids: string[]): string {
+type Run = {
+  readonly counts: Counts
+  readonly levels: ChampionLevels
+  readonly ids: string[]
+  readonly unplaced: string[]
+}
+
+function rewritten(text: string, run: Run): string {
+  const { counts, levels, ids, unplaced } = run
   const line = JSON.parse(text) as Json
   const { character, buildHash: hash, bar, reading } = line
   if (typeof character !== "string" || typeof hash !== "string" || typeof bar !== "string")
@@ -89,7 +118,10 @@ function rewritten(text: string, counts: Counts, ids: string[]): string {
     return text
   }
   const worn = wornOf(reading)
-  if (!saysMore(worn)) {
+  if (worn.some((piece) => wornLevelsOf(piece, levels).unplaced === true)) {
+    unplaced.push(String(line["id"] ?? ""))
+  }
+  if (!saysMore(worn, levels)) {
     counts.plain += 1
     return text
   }
@@ -98,7 +130,7 @@ function rewritten(text: string, counts: Counts, ids: string[]): string {
     counts.undecoded += 1
     return text
   }
-  const leveled = withWornLevels(build, worn)
+  const leveled = withWornLevels(build, worn, levels)
   const written = encodeBuild(leveled)
   if (JSON.stringify(canonical(decodeBuild(written))) !== JSON.stringify(canonical(leveled))) {
     counts.unrounded += 1
@@ -122,15 +154,19 @@ export function backfillReadingLevels(world: World): Answer {
     .under(CHARACTERS)
     .filter((path) => path.endsWith(READINGS))
     .sort()
+  const levels = championLevelsOf(linkedItemsIn(world))
+  if (levels.size === 0)
+    return refusing(`no stack under \`${ACCOUNTS}\` places a level-fifty subtype`)
   const counts: Counts = { lines: 0, newer: 0, plain: 0, undecoded: 0, unrounded: 0 }
   const edits: FileChange[] = []
   const rewrites: string[] = []
+  const unplaced: string[] = []
   for (const path of paths) {
     const text = world.textOf(path)
     if (text === null) continue
     const held = jsonlLinesOf(text)
     const ids: string[] = []
-    const lines = held.map((one) => rewritten(one, counts, ids))
+    const lines = held.map((one) => rewritten(one, { counts, levels, ids, unplaced }))
     if (ids.length === 0) continue
     edits.push({ kind: "replace", path, contentFrom: text, contentTo: `${lines.join("\n")}\n` })
     rewrites.push(`${characterOf(path)}: ${String(ids.length)} rewritten: ${ids.join(", ")}`)
@@ -139,6 +175,8 @@ export function backfillReadingLevels(world: World): Answer {
     `${String(counts.lines)} readings' build hashes rewritten at minor thirteen in ${String(edits.length)} readings files`,
     `${String(counts.newer)} already at minor thirteen, ${String(counts.plain)} wearing only CP160 pieces and glyphs, left as they are`,
     `${String(counts.undecoded)} whose hash does not decode and ${String(counts.unrounded)} that would not read back as worn, left as they are`,
+    `${String(levels.size)} level-fifty subtypes placed by the game's items`,
+    `${String(unplaced.length)} readings wear a level-fifty piece no item places, its level left unknown${unplaced.length === 0 ? "" : `: ${unplaced.join(", ")}`}`,
     ...rewrites,
   ])
 }
