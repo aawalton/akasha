@@ -203,6 +203,20 @@ const classPassiveSchema = z.strictObject({
   description: z.string(),
 })
 
+const classMasteryPassiveSchema = z.strictObject({
+  abilityId: z.number(),
+  name: z.string(),
+  description: z.string(),
+  purchased: z.boolean(),
+})
+
+const classMasteryLineSchema = z.strictObject({
+  skillLineId: z.number(),
+  name: z.string(),
+  classId: z.number(),
+  passives: luaArrayOrEmpty(classMasteryPassiveSchema),
+})
+
 const archiveBoonSchema = z.strictObject({
   abilityId: z.number(),
   kind: z.enum(["verse", "vision"]),
@@ -256,6 +270,7 @@ export const reportedStatsReadingSchema = z.strictObject({
   sheet: z.record(z.string(), z.number()).optional(),
   buffs: numbers.optional(),
   passiveRankIds: luaArrayOrEmpty(numbers).optional(),
+  classMastery: luaArrayOrEmpty(classMasteryLineSchema).optional(),
 })
 
 const reportedStatsSchema = z.strictObject({
