@@ -61,12 +61,19 @@ export function entryEffectOf(entry: Value, nodes: MetricNodes, at: string): Eff
   const effectValue =
     typeof entry.seconds === "number" ? { value: entry.value, seconds: entry.seconds } : entry.value
   const higherOf = higherOfIn(entry.higherOf, nodes, at)
+  const whileBuffs = whileBuffsIn(entry.whileBuffs)
   return {
     metricId,
     effectType: entry.type,
     effectValue,
     ...(higherOf === null ? {} : { higherOf }),
+    ...(whileBuffs === null ? {} : { whileBuffs }),
   } as Effect
+}
+
+function whileBuffsIn(named: unknown): readonly string[] | null {
+  if (!Array.isArray(named)) return null
+  return named.flatMap((one: unknown) => slugIn(one) ?? [])
 }
 
 function higherOfIn(named: unknown, nodes: MetricNodes, at: string): readonly string[] | null {
