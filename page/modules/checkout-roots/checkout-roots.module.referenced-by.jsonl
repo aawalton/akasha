@@ -189,6 +189,7 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/eso/ui-harness/modules/ui-kerning/ui-kerning.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/items/core/modules/item-category-tree/item-category-tree.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/items/core/modules/keyed-titles/keyed-titles.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/player/character/characters-equipment/modules/sets-all/sets-all.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/player/character/stat/modules/champion-damage-taken/champion-damage-taken.module.test.ts","typed":false,"deferred":false}

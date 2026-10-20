@@ -23,6 +23,7 @@
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/player/character/build/modules/build-factory/build-factory.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/player/character/build/modules/build-types/build-types.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.test.ts","typed":false,"deferred":false}

@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec/build-codec.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/player/character/build/modules/build-factory/build-factory.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/player/character/stat/modules/build-state-adapter/build-state-adapter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/player/character/stat/modules/extract-armor/extract-armor.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/player/character/stat/modules/extract-passives/extract-passives.module.test.ts","typed":true,"deferred":false}

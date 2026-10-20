@@ -31,7 +31,8 @@ export function getArmorEnchantmentEffects(armor: ArmorItem): readonly MetricEff
     "armor",
     armor.enchantment,
     enchantQuality,
-    armor.enchantmentSubtype
+    armor.enchantmentSubtype,
+    armor.enchantmentLevel
   )
   const share = armorEnchantShare(armor.type)
   const effects = graded.map((effect) => onPiece(effect, share))

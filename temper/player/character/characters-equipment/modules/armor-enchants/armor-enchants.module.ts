@@ -6,6 +6,7 @@ export const armorEnchants = {
   slug: "armor-enchants",
   definition: "every glyph an armor piece takes, and what each is worth at a quality",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -26,5 +27,5 @@ export const armorEnchants = {
     },
   ],
   createdAt: "2026-09-02T09:24:55.959Z",
-  updatedAt: "2026-10-19T23:26:02.763Z",
+  updatedAt: "2026-10-20T17:53:52.840Z",
 } as const satisfies Module

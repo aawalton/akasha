@@ -82,6 +82,7 @@
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52-equipment/build-codec-v52-equipment.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/character/build/build-codec/modules/build-codec/build-codec.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/character/characters-equipment/modules/bulk-update-armor/bulk-update-armor.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.test.ts","typed":false,"deferred":false}
