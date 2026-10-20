@@ -26,9 +26,25 @@ const NO_PLUGIN =
 
 const loadFrom = createRequire(import.meta.url)
 
-const bodyHeld = new Map<string, string>()
+type Registered = {
+  readonly bodyHeld: Map<string, string>
+  readonly claimed: Set<string>
+  readonly resolved: Set<string>
+}
 
-const claimed = new Set<string>()
+const REGISTERED = Symbol.for("akasha/body-loading/registered")
+
+const holder = globalThis as typeof globalThis & { [REGISTERED]?: Registered }
+
+const registered: Registered = holder[REGISTERED] ?? {
+  bodyHeld: new Map(),
+  claimed: new Set(),
+  resolved: new Set(),
+}
+
+holder[REGISTERED] = registered
+
+const { bodyHeld, claimed, resolved } = registered
 
 const CHANGED = new WeakMap<Change, ReadonlySet<string>>()
 
@@ -145,8 +161,6 @@ function claiming(root: string, full: string): undefined {
 const OPENED = /^akasha\//
 
 const ANY = /.*/
-
-const resolved = new Set<string>()
 
 function resolvingFresh(root: string): undefined {
   if (resolved.has(root) || typeof Bun === "undefined") return

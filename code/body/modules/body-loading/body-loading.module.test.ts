@@ -1,5 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import { mkdirSync, renameSync, symlinkSync, writeFileSync } from "node:fs"
+import { createRequire } from "node:module"
 import { join } from "node:path"
 import {
   bodyFor,
@@ -87,6 +88,16 @@ describe("the code loaded at a module path", () => {
 
   test("a body handed in again at a path the checkout has no file at is loaded again", () => {
     expect(saidBy(heldOver(changing({ [MOVED]: OVER }), MOVED, OVER), "heldIn")).toBe(MARKER)
+  })
+
+  test("a second copy of this module loads the body handed it at a path the first copy claimed", () => {
+    const loading = createRequire(import.meta.url)
+    const full = join(ROOT, BESIDE)
+    expect(saidBy(heldOver(changing({ [MOVED]: OVER }), MOVED, OVER), "heldIn")).toBe(MARKER)
+    delete loading.cache[full]
+    const again: { readonly heldOver: typeof heldOver } = loading(full)
+    expect(again.heldOver).not.toBe(heldOver)
+    expect(saidBy(again.heldOver(changing({ [MOVED]: AGAIN }), MOVED, AGAIN), "heldIn")).toBe(OTHER)
   })
 
   test("the checkout's code is loaded at that path once the body is gone", () => {

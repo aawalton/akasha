@@ -136,6 +136,15 @@ export const bodyLoading = {
       statement: "Code that will not load throws rather than being said.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "What this module registers with Bun is registered once a process.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every copy of this module loaded in a process shares what that process registered.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a page or an index.",
     },
@@ -145,5 +154,5 @@ export const bodyLoading = {
     },
   ],
   createdAt: "2026-09-11T16:20:05.340Z",
-  updatedAt: "2026-10-18T14:13:41.378Z",
+  updatedAt: "2026-10-20T19:31:24.990Z",
 } as const satisfies Module
