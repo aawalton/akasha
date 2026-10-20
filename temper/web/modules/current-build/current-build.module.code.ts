@@ -71,3 +71,23 @@ export async function currentCharacterBuild(page: Row, id: string): Promise<Row 
   const buildHash = body === null ? null : newestReadingHash(body)
   return buildHash === null ? null : capturedBuildRow(page, id, buildHash)
 }
+
+const COMPANION_PROGRESS = "temper-companion-progress"
+
+const COMPANION_BUILD = "companion-build"
+
+const COMPLETION = "completion"
+
+export function capturedCompanionHash(body: string): string | null {
+  const completion = JSON.parse(body) as { build?: { hash?: unknown } }
+  const hash = completion.build?.hash
+  return typeof hash === "string" && hash !== "" ? hash : null
+}
+
+export async function currentCompanionBuild(page: Row, id: string): Promise<Row | null> {
+  const live = await liveBuildOf(COMPANION_BUILD, page)
+  if (live !== null) return live
+  const body = await besideBodyOf(COMPANION_PROGRESS, id, COMPLETION)
+  const buildHash = body === null ? null : capturedCompanionHash(body)
+  return buildHash === null ? null : capturedBuildRow(page, id, buildHash)
+}

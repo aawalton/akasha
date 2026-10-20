@@ -41,7 +41,10 @@ import {
 import { CharacterEditor } from "akasha/temper/web/modules/character-editor/character-editor.module.code.tsx"
 import { CompanionCatalogGate } from "akasha/temper/web/modules/companion-catalog-gate/companion-catalog-gate.module.code.tsx"
 import { CompanionEditor } from "akasha/temper/web/modules/companion-editor/companion-editor.module.code.tsx"
-import { currentCharacterBuild } from "akasha/temper/web/modules/current-build/current-build.module.code.ts"
+import {
+  currentCharacterBuild,
+  currentCompanionBuild,
+} from "akasha/temper/web/modules/current-build/current-build.module.code.ts"
 import { MetricCatalogGate } from "akasha/temper/web/modules/metric-catalog-gate/metric-catalog-gate.module.code.tsx"
 import { SetCatalogGate } from "akasha/temper/web/modules/set-catalog-gate/set-catalog-gate.module.code.tsx"
 import { SkillCatalogGate } from "akasha/temper/web/modules/skill-catalog-gate/skill-catalog-gate.module.code.tsx"
@@ -171,8 +174,21 @@ export async function loader({ params, request }: Route.LoaderArgs) {
       kind: "companion" as const,
       pageTypeSlug,
       faviconIdSuffix: null,
+      detailId: null,
       ...(await loadCompanionDetail(page, request)),
     })
+  }
+  if (pageTypeSlug === "temper-companion-progress") {
+    const build = await currentCompanionBuild(page, page.id)
+    if (build !== null) {
+      return data({
+        kind: "companion" as const,
+        pageTypeSlug,
+        faviconIdSuffix: null,
+        detailId: page.id,
+        ...(await loadCompanionDetail(build, request)),
+      })
+    }
   }
 
   return data({
@@ -365,7 +381,7 @@ export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
   }
 
   if (loaderData.kind === "companion") {
-    return (
+    const editor = (
       <CompanionCatalogGate
         fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />}
       >
@@ -387,6 +403,11 @@ export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
           </MetricCatalogGate>
         )}
       </CompanionCatalogGate>
+    )
+    return (
+      <WithPageDetail pageTypeSlug={loaderData.pageTypeSlug} detailId={loaderData.detailId}>
+        {editor}
+      </WithPageDetail>
     )
   }
 

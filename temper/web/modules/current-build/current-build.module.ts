@@ -25,7 +25,21 @@ export const currentBuild = {
       statement:
         "A build read from a reading is a live build nobody owns, under the character's id.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A companion's current build is the build page its live build id names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A companion naming no live build has the hash its completion captured as its current build.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A companion's captured build is a live build nobody owns, under the companion's id.",
+    },
   ],
   createdAt: "2026-10-20T01:33:20.846Z",
-  updatedAt: "2026-10-20T01:33:20.846Z",
+  updatedAt: "2026-10-20T01:34:48.259Z",
 } as const satisfies Module
