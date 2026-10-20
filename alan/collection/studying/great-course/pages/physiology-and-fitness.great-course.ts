@@ -8,7 +8,7 @@ export const physiologyAndFitness = {
   status: "in-progress",
   unit: "unit/minutes",
   ownLength: 1130.25,
-  ownProgress: 351.63,
+  ownProgress: 386.65,
   partOfCollections: [
     "great-courses-collection/all-great-courses",
     "great-courses-subject/health-and-mindfulness-great-courses",
@@ -23,6 +23,6 @@ export const physiologyAndFitness = {
     },
   ],
   createdAt: "2026-04-22T12:39:34.048Z",
-  updatedAt: "2026-10-19T16:46:37.762Z",
-  progressedAt: "2026-10-19T16:46:37.762Z",
+  updatedAt: "2026-10-20T18:29:46.361Z",
+  progressedAt: "2026-10-20T18:29:46.361Z",
 } as const satisfies GreatCourse
