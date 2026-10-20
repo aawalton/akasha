@@ -91,6 +91,7 @@ export function useCompanionSetTarget({
         buildHash: mergedHash,
         buildMetadata: mergedMetadata,
         updateExistingTargetId: entity.targetBuildId,
+        replacingBuildHash: targetBuild?.buildHash,
       }
     } else {
       let buildName = sourceData.name

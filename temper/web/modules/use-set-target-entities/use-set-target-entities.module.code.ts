@@ -168,6 +168,7 @@ export function useSetTargetEntities({
         buildHash: mergedHash,
         buildMetadata: mergedMetadata,
         updateExistingTargetId: entity.targetBuildId,
+        replacingBuildHash: targetBuild?.buildHash,
       }
     } else {
       let characterName = sourceData.character.name

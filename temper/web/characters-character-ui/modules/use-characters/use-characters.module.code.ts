@@ -320,13 +320,19 @@ export function useCharacterLifecycle() {
     buildHash: string
     buildMetadata: CharacterBuildMetadata
     updateExistingTargetId?: string
+    replacingBuildHash?: string | undefined
   }) => {
     const accountPage = ownerOf(userId, account.address)
     let targetBuildId = args.updateExistingTargetId ?? args.newBuildId
     if (args.updateExistingTargetId != null) {
       await runPatch({
         pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
-        where: [{ key: "id", eq: args.updateExistingTargetId }],
+        where: [
+          { key: "id", eq: args.updateExistingTargetId },
+          ...(args.replacingBuildHash != null
+            ? [{ key: "buildHash", eq: args.replacingBuildHash }]
+            : []),
+        ],
         set: {
           buildHash: args.buildHash,
           ...buildMetadataProperties(args.buildMetadata),

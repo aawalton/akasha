@@ -66,6 +66,7 @@ export function usePlanSetTarget({ buildMap, completionCompanions }: UsePlanSetT
         buildHash: string
         buildMetadata: CompanionBuildMetadata
         updateExistingTargetId?: string
+        replacingBuildHash?: string | undefined
       }
 
       if (entity.targetBuildId != null) {
@@ -84,6 +85,7 @@ export function usePlanSetTarget({ buildMap, completionCompanions }: UsePlanSetT
           buildHash: encodeCompanion(merged),
           buildMetadata: extractCompanionMetadata(merged),
           updateExistingTargetId: entity.targetBuildId,
+          replacingBuildHash: targetBuild?.buildHash,
         }
       } else {
         let buildName = sourceData.name
