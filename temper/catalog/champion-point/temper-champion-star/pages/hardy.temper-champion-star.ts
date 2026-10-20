@@ -11,10 +11,10 @@ export const hardy = {
   championConstellation: "warfare",
   isSlottable: false,
   effects: [
-    { metric: "temper-metric/damage-taken", effectType: "fractional-change", value: -0.02 },
+    { metric: "temper-metric/damage-taken-martial", effectType: "fractional-change", value: -0.02 },
   ],
   hashPlace: 83,
   jumpPoints: [0, 10, 20],
   createdAt: "2026-09-27T05:00:00.922Z",
-  updatedAt: "2026-10-19T22:56:48.325Z",
+  updatedAt: "2026-10-20T13:23:50.906Z",
 } as const satisfies TemperChampionStar
