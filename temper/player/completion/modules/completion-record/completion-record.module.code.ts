@@ -192,6 +192,22 @@ const archiveBoonSchema = z.strictObject({
   stacks: z.number(),
 })
 
+const advancedSheetFormatSchema = z.enum([
+  "none",
+  "flat",
+  "percent",
+  "flat-and-percent",
+  "flat-or-percent",
+])
+
+export type AdvancedSheetFormat = z.infer<typeof advancedSheetFormatSchema>
+
+const advancedSheetValueSchema = z.strictObject({
+  format: advancedSheetFormatSchema,
+  flat: z.number().optional(),
+  percent: z.number().optional(),
+})
+
 export const reportedStatsReadingSchema = z.strictObject({
   capturedAt: z.number(),
   buildHash: buildHashSchema.optional(),
@@ -207,6 +223,7 @@ export const reportedStatsReadingSchema = z.strictObject({
   inArchive: z.boolean().optional(),
   archiveBoons: luaArrayOrEmpty(archiveBoonSchema).optional(),
   advanced: z.record(z.string(), z.number()).optional(),
+  advancedSheet: z.record(z.string(), advancedSheetValueSchema).optional(),
   buffs: numbers.optional(),
   passiveRankIds: luaArrayOrEmpty(numbers).optional(),
 })

@@ -60,6 +60,14 @@ export const completionRecord = {
         "A reading of reported stats keeps the advanced stats the rotation reading takes, by metric.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading of reported stats keeps each advanced stat the game's sheet shows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each such stat keeps the game's display format, flat value and percent.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement:
         "A character keeps the add-on's last rotation reading and each bar's inputs to it.",
@@ -79,5 +87,5 @@ export const completionRecord = {
     },
   ],
   createdAt: "2026-09-02T04:57:23.388Z",
-  updatedAt: "2026-10-20T00:26:06.111Z",
+  updatedAt: "2026-10-20T11:29:02.998Z",
 } as const satisfies Module
