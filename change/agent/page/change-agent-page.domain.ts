@@ -10,7 +10,8 @@ export const changeAgentPage = {
     "change-agent/rename-pages",
     "change-agent/pin-stat-case",
     "change-agent/generate-foods-and-drinks",
+    "change-agent/pin-stat-case-gaps",
   ],
   createdAt: "2026-09-25T14:54:19.063Z",
-  updatedAt: "2026-10-20T16:07:38.782Z",
+  updatedAt: "2026-10-20T20:35:51.846Z",
 } as const satisfies Domain

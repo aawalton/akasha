@@ -137,6 +137,9 @@ export type Changes = {
   "change-agent/pin-stat-case": Parameters<
     typeof import("akasha/change/agent/page/pin-stat-case/pin-stat-case.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/pin-stat-case-gaps": Parameters<
+    typeof import("akasha/change/agent/page/pin-stat-case-gaps/pin-stat-case-gaps.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/point-book-links-at-sections": Parameters<
     typeof import("akasha/change/agent/file-content/point-book-links-at-sections/point-book-links-at-sections.change-agent.code.ts")["runChange"]
   >[1]
