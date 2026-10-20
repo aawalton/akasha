@@ -24,6 +24,7 @@ import {
   shortIdOf,
   type Unread,
 } from "akasha/command/pages/temper/stat-compare/modules/stat-reading-lines/stat-reading-lines.module.code.ts"
+import { unsteadyOf } from "akasha/command/pages/temper/stat-compare/modules/unsteady-recovery/unsteady-recovery.module.code.ts"
 import { temperStatCompare as page } from "akasha/command/pages/temper/stat-compare/temper-stat-compare.command.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
@@ -58,15 +59,6 @@ type Row = {
   readonly estimate: number | null
   readonly unsteady: string | null
   readonly unsettled: boolean
-}
-
-const UNSTEADY_WHILE_BLOCKING_OR_MOVING = new Set(["stamina-recovery"])
-
-export function unsteadyOf(reading: ReadingLine["reading"], named: string): string | null {
-  if (!UNSTEADY_WHILE_BLOCKING_OR_MOVING.has(named)) return null
-  if (reading.blocking === true) return "blocking"
-  if (reading.moving === true) return "moving"
-  return null
 }
 
 type Compared = {

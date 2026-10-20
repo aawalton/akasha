@@ -8,7 +8,7 @@ export const temperStatCompare = {
     "the command setting each of a character's readings beside Temper's estimate, stat by stat",
   code: "ts",
   test: "ts",
-  parts: ["module/stat-reading-lines"],
+  parts: ["module/stat-reading-lines", "module/unsteady-recovery"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -60,6 +60,11 @@ export const temperStatCompare = {
       decisionKind: "decision-kind/departure",
       statement:
         "Stamina recovery read while the player was blocking or moving is marked as no steady value.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "Stamina recovery of exactly 0 on a reading keeping neither flag is marked the same way.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -137,5 +142,5 @@ export const temperStatCompare = {
     { argument: "argument/json" },
   ],
   createdAt: "2026-10-14T14:17:00.259Z",
-  updatedAt: "2026-10-20T14:15:24.579Z",
+  updatedAt: "2026-10-20T14:18:52.433Z",
 } as const satisfies Command

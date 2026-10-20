@@ -2622,6 +2622,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/quest-port-trace/temper-quest-port-trace.command.ts","id":"01a11c7f-285d-7a2e-b753-227f6826b2c1"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/skill-check/temper-skill-check.command.ts","id":"01a1403e-60df-77ff-8125-4bec00af60c9"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/stat-compare/modules/stat-reading-lines/stat-reading-lines.module.ts","id":"01a155d4-d19b-7112-9521-83a2bfa453b4"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/stat-compare/modules/unsteady-recovery/unsteady-recovery.module.ts","id":"01a159ad-610a-7000-b340-6e4e4e86b030"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/stat-compare/temper-stat-compare.command.ts","id":"01a13ac6-0c63-7b9c-bc03-6035eeeed9e2"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/tps/modules/game-reading-comparing/game-reading-comparing.module.ts","id":"01a155b2-0bbf-7ab6-a43f-c1b6e54b5e30"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/tps/modules/last-fight-reading/last-fight-reading.module.ts","id":"01a1402a-1c61-718a-9f38-8d2864c9aa2e"}

@@ -1,13 +1,13 @@
 import { expect, test } from "bun:test"
 import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { unsteadyOf } from "akasha/command/pages/temper/stat-compare/modules/unsteady-recovery/unsteady-recovery.module.code.ts"
 import {
   advancedSheetLines,
   characterSheetLines,
   headerOf,
   rowLine,
   temperStatCompare,
-  unsteadyOf,
 } from "akasha/command/pages/temper/stat-compare/temper-stat-compare.command.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import { dragonknight } from "akasha/temper/catalog/skill/temper-class/pages/dragonknight.temper-class.ts"
@@ -147,6 +147,9 @@ test("stamina recovery read while blocking or moving is marked as no steady valu
   expect(unsteadyOf(blocking, "stamina-recovery")).toBe("blocking")
   expect(unsteadyOf(moving, "stamina-maximum")).toBeNull()
   expect(unsteadyOf(LINE.reading, "stamina-recovery")).toBeNull()
+  const zero = { ...LINE.reading, stats: { "stamina-recovery": 0 } }
+  expect(unsteadyOf(zero, "stamina-recovery")).toBe("0 with no blocking or moving kept")
+  expect(unsteadyOf({ ...zero, blocking: false, moving: false }, "stamina-recovery")).toBeNull()
   const row = {
     stat: "stamina-recovery",
     game: 0,
