@@ -115,7 +115,7 @@ export interface SpotReading {
   readonly y: number
 }
 
-export interface NamesakeReading {
+interface NamesakeReading {
   readonly nodeIndex: number
   readonly name: string
   readonly poiType: number
