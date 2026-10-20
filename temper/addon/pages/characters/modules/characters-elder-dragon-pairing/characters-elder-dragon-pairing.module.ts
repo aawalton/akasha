@@ -29,7 +29,11 @@ export const charactersElderDragonPairing = {
       decisionKind: "decision-kind/departure",
       statement: "Reading stops once Health is full again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every reading keeps the amount Elder Dragon's own text says it gives now.",
+    },
   ],
   createdAt: "2026-10-20T17:12:21.574Z",
-  updatedAt: "2026-10-20T17:12:21.574Z",
+  updatedAt: "2026-10-20T17:21:50.750Z",
 } as const satisfies Module

@@ -6,7 +6,10 @@ import { archiveBoons } from "akasha/temper/addon/pages/characters/modules/chara
 import { characterSheet } from "akasha/temper/addon/pages/characters/modules/characters-character-sheet/characters-character-sheet.module.code.ts"
 import { classMasteryOnce } from "akasha/temper/addon/pages/characters/modules/characters-class-mastery/characters-class-mastery.module.code.ts"
 import { currentCharacterEntry } from "akasha/temper/addon/pages/characters/modules/characters-current-entry/characters-current-entry.module.code.ts"
-import { healthBefore } from "akasha/temper/addon/pages/characters/modules/characters-elder-dragon-pairing/characters-elder-dragon-pairing.module.code.ts"
+import {
+  elderDragonAmount,
+  healthBefore,
+} from "akasha/temper/addon/pages/characters/modules/characters-elder-dragon-pairing/characters-elder-dragon-pairing.module.code.ts"
 import { feteOf } from "akasha/temper/addon/pages/characters/modules/characters-escalating-fete/characters-escalating-fete.module.code.ts"
 import { passiveRankIdsOnce } from "akasha/temper/addon/pages/characters/modules/characters-passive-rank-ids/characters-passive-rank-ids.module.code.ts"
 import {
@@ -364,6 +367,7 @@ function keptReading(buildHash: string, now: StatsNow, healthPaired = false) {
     classMastery: classMasteryOnce(),
     healthBefore: healthBefore(),
     healthPaired,
+    elderDragonAmount: elderDragonAmount(),
   }
 }
 

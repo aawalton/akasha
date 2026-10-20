@@ -29,17 +29,34 @@ export function healthBefore(): number | undefined {
   return healthPrior
 }
 
-function elderDragonHeld(): boolean {
+const AMOUNT_MARK = "Current amount: |cffffff"
+
+function elderDragonAbilityId(): number | undefined {
   const lines = GetNumSkillLines(SKILL_TYPE_CLASS)
   for (let lineIndex = 1; lineIndex <= lines; lineIndex++) {
     const abilities = GetNumSkillAbilities(SKILL_TYPE_CLASS, lineIndex)
     for (let skillIndex = 1; skillIndex <= abilities; skillIndex++) {
       if (!IsSkillAbilityPurchased(SKILL_TYPE_CLASS, lineIndex, skillIndex)) continue
       const abilityId = GetSkillAbilityId(SKILL_TYPE_CLASS, lineIndex, skillIndex, false)
-      if (ELDER_DRAGON_RANKS.has(abilityId)) return true
+      if (ELDER_DRAGON_RANKS.has(abilityId)) return abilityId
     }
   }
-  return false
+  return undefined
+}
+
+function elderDragonHeld(): boolean {
+  return elderDragonAbilityId() !== undefined
+}
+
+export function elderDragonAmount(): number | undefined {
+  const abilityId = elderDragonAbilityId()
+  if (abilityId === undefined) return undefined
+  const text = GetAbilityDescription(abilityId, undefined, "player")
+  const at = text.indexOf(AMOUNT_MARK)
+  if (at < 0) return undefined
+  const rest = text.slice(at + AMOUNT_MARK.length)
+  const amount = Number(rest.slice(0, rest.indexOf("|r")))
+  return Number.isInteger(amount) ? amount : undefined
 }
 
 function stopPolling(): undefined {

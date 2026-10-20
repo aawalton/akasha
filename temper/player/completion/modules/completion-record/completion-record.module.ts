@@ -60,6 +60,10 @@ export const completionRecord = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A reading of reported stats may keep the amount Elder Dragon says it gives now.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A reading of reported stats keeps each skill on the bar held, as the game gave it.",
     },
@@ -119,5 +123,5 @@ export const completionRecord = {
     },
   ],
   createdAt: "2026-09-02T04:57:23.388Z",
-  updatedAt: "2026-10-20T17:12:21.574Z",
+  updatedAt: "2026-10-20T17:21:50.750Z",
 } as const satisfies Module
