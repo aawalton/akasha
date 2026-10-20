@@ -42,5 +42,8 @@ export const encounters0004ThirtySixFrames = {
   ],
   scenes: ["image/image-97fe6436ba0ae46a", "image/image-802e533ed8e9d331"],
   createdAt: "2026-10-06T23:12:47.155Z",
-  updatedAt: "2026-10-06T23:27:31.000Z",
+  updatedAt: "2026-10-20T12:57:00.932Z",
+  completedAt: "2026-10-20T12:57:00.363Z",
+  ownProgress: 5240,
+  progressedAt: "2026-10-20T12:57:00.932Z",
 } as const satisfies StoryChapterWritten
