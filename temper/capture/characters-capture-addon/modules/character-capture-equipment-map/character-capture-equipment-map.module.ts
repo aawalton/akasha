@@ -27,7 +27,17 @@ export const characterCaptureEquipmentMap = {
       decisionKind: "decision-kind/departure",
       statement: "A game weapon type no weapon type page states takes the no-type page's place.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The game answers the invalid search category for the Prismatic Recovery jewelry glyph.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A jewelry glyph the game files under the invalid category takes Prismatic Recovery's place.",
+    },
   ],
   createdAt: "2026-09-02T09:20:22.413Z",
-  updatedAt: "2026-09-27T03:05:02.000Z",
+  updatedAt: "2026-10-20T12:26:11.430Z",
 } as const satisfies Module

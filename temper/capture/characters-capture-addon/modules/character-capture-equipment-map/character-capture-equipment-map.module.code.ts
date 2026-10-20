@@ -158,7 +158,11 @@ export function getPlayerWeaponEnchantIndex(esoId: number): number {
 }
 
 export function getPlayerJewelryEnchantIndex(esoId: number): number {
-  return enchantPlace("jewelry", esoId)
+  const said =
+    esoId === ENCHANTMENT_SEARCH_CATEGORY_INVALID
+      ? ENCHANTMENT_SEARCH_CATEGORY_PRISMATIC_REGEN
+      : esoId
+  return enchantPlace("jewelry", said)
 }
 
 let weaponTypePlaces: Places | undefined
