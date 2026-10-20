@@ -36,7 +36,7 @@ export interface StarWrite {
   readonly isSlottable?: boolean
 }
 
-export interface StarWrites {
+interface StarWrites {
   readonly writes: readonly StarWrite[]
   readonly unpaged: readonly number[]
   readonly unjumped: readonly string[]
