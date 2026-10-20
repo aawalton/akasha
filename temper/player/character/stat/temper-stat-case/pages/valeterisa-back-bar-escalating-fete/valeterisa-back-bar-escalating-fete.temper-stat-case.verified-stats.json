@@ -120,13 +120,13 @@
     "resistance-critical": 1320,
     "resistance-physical": 9048,
     "resistance-spell": 15714,
-    "stamina-maximum": 15004
+    "stamina-maximum": 15004,
+    "stamina-recovery": 918
   },
   "gaps": {
     "critical-rating-spell": 7762,
     "critical-rating-weapon": 7762,
     "penetration-physical": 6335,
-    "penetration-spell": 6335,
-    "stamina-recovery": 918
+    "penetration-spell": 6335
   }
 }
