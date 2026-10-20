@@ -16,6 +16,7 @@ export const temperCharacterSource = {
     "module/curses",
     "module/eso-plus-source",
     "module/food-or-drink-source",
+    "module/food-or-drink-buff",
     "module/mundus-source",
     "module/source-effects-reading",
     "module/target-armors",
@@ -40,5 +41,5 @@ export const temperCharacterSource = {
     },
   ],
   createdAt: "2026-09-02T06:59:47.430Z",
-  updatedAt: "2026-09-27T01:01:57.000Z",
+  updatedAt: "2026-10-20T16:03:24.966Z",
 } as const satisfies Domain

@@ -6062,6 +6062,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/source/modules/curse-source/curse-source.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/source/modules/curses/curses.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/source/modules/eso-plus-source/eso-plus-source.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/source/modules/food-or-drink-buff/food-or-drink-buff.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/source/modules/food-or-drink-source/food-or-drink-source.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/source/modules/mundus-source/mundus-source.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/source/modules/source-effects-reading/source-effects-reading.module.ts","typed":true,"deferred":false}
