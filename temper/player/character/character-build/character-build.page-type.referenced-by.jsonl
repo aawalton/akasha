@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"character-build.page-type.types.ts","path":"temper/player/character/character-build/pages/max-max-health/max-max-health.character-build.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-build.page-type.types.ts","path":"temper/player/character/character-build/pages/max-max-magicka-recovery/max-max-magicka-recovery.character-build.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-build.page-type.types.ts","path":"temper/player/character/character-build/pages/max-max-magicka/max-max-magicka.character-build.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"character-build.page-type.types.ts","path":"temper/player/character/character-build/pages/max-max-stamina-recovery/max-max-stamina-recovery.character-build.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-build.page-type.types.ts","path":"temper/player/character/character-build/pages/max-max-stamina/max-max-stamina.character-build.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-build.page-type.types.ts","path":"temper/player/character/character-build/pages/new-build-2/new-build-2.character-build.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-build.page-type.types.ts","path":"temper/player/character/character-build/pages/new-build-3/new-build-3.character-build.ts","typed":true,"deferred":false}
