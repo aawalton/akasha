@@ -6,11 +6,11 @@ export const shoulders = {
   slug: "shoulders",
   title: "Shoulders",
   key: "shoulders",
-  icon: "/resources/gearslot_shoulders.png",
+  icon: "https://esoicons.uesp.net/esoui/art/characterwindow/gearslot_shoulders.png",
   displayOrder: 1,
   hashPlace: 1,
 
   slotEquipType: "temper-equip-type/shoulders",
   createdAt: "2026-09-02T01:56:19.950Z",
-  updatedAt: "2026-09-27T04:24:42.000Z",
+  updatedAt: "2026-10-20T11:47:05.518Z",
 } as const satisfies TemperArmorSlot

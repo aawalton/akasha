@@ -6,10 +6,10 @@ export const mainHand = {
   slug: "main-hand",
   title: "Main Hand",
   key: "main-hand",
-  icon: "/resources/gearslot_mainhand.png",
+  icon: "https://esoicons.uesp.net/esoui/art/characterwindow/gearslot_mainhand.png",
   displayOrder: 0,
 
   slotEquipType: "temper-equip-type/main-hand",
   createdAt: "2026-05-21T22:32:11.262Z",
-  updatedAt: "2026-09-27T04:24:42.000Z",
+  updatedAt: "2026-10-20T11:47:05.518Z",
 } as const satisfies TemperWeaponSlot

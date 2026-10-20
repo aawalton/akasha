@@ -6,11 +6,11 @@ export const chest = {
   slug: "chest",
   title: "Chest",
   key: "chest",
-  icon: "/resources/gearslot_chest.png",
+  icon: "https://esoicons.uesp.net/esoui/art/characterwindow/gearslot_chest.png",
   displayOrder: 2,
   hashPlace: 2,
 
   slotEquipType: "temper-equip-type/chest",
   createdAt: "2026-09-02T01:56:19.948Z",
-  updatedAt: "2026-09-27T04:24:42.000Z",
+  updatedAt: "2026-10-20T11:47:05.518Z",
 } as const satisfies TemperArmorSlot

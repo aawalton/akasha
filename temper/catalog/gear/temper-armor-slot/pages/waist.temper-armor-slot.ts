@@ -6,11 +6,11 @@ export const waist = {
   slug: "waist",
   title: "Waist",
   key: "waist",
-  icon: "/resources/gearslot_belt.png",
+  icon: "https://esoicons.uesp.net/esoui/art/characterwindow/gearslot_belt.png",
   displayOrder: 4,
   hashPlace: 4,
 
   slotEquipType: "temper-equip-type/waist",
   createdAt: "2026-09-02T01:56:19.951Z",
-  updatedAt: "2026-09-27T04:24:42.000Z",
+  updatedAt: "2026-10-20T11:47:05.518Z",
 } as const satisfies TemperArmorSlot

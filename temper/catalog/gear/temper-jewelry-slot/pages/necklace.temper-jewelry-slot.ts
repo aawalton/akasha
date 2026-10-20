@@ -6,10 +6,10 @@ export const necklace = {
   slug: "necklace",
   title: "Necklace",
   key: "necklace",
-  icon: "/resources/gearslot_neck.png",
+  icon: "https://esoicons.uesp.net/esoui/art/characterwindow/gearslot_neck.png",
   displayOrder: 0,
   jewelryType: "temper-jewelry-type/necklace",
   hashPlace: 0,
   createdAt: "2026-05-21T22:39:45.684Z",
-  updatedAt: "2026-09-27T02:49:23.000Z",
+  updatedAt: "2026-10-20T11:47:05.518Z",
 } as const satisfies TemperJewelrySlot

@@ -6,10 +6,10 @@ export const ring1 = {
   slug: "ring-1",
   title: "Ring 1",
   key: "ring-1",
-  icon: "/resources/gearslot_ring.png",
+  icon: "https://esoicons.uesp.net/esoui/art/characterwindow/gearslot_ring.png",
   displayOrder: 1,
   jewelryType: "temper-jewelry-type/ring",
   hashPlace: 1,
   createdAt: "2026-05-21T22:39:45.687Z",
-  updatedAt: "2026-09-27T02:49:23.000Z",
+  updatedAt: "2026-10-20T11:47:05.518Z",
 } as const satisfies TemperJewelrySlot
