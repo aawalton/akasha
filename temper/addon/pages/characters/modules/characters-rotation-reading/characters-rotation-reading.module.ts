@@ -9,7 +9,8 @@ export const charactersRotationReading = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The bar held is read again first, and the other bar's last reading is kept.",
+      statement:
+        "The bar held is read from the game's stats now, and the other bar from its last kept reading.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -54,5 +55,5 @@ export const charactersRotationReading = {
     },
   ],
   createdAt: "2026-10-19T19:38:44.378Z",
-  updatedAt: "2026-10-19T19:38:44.378Z",
+  updatedAt: "2026-10-20T00:13:13.759Z",
 } as const satisfies Module

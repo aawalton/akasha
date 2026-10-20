@@ -123,7 +123,16 @@ export const charactersReportedStats = {
       decisionKind: "decision-kind/departure",
       statement: "A capture that disagrees five times running is dropped rather than kept.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The bar held is also given as read now, for a reader that cannot wait for a keep.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Keeping a reading tells the one listener waiting for it.",
+    },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-19T23:52:50.174Z",
+  updatedAt: "2026-10-20T00:13:13.759Z",
 } as const satisfies Module

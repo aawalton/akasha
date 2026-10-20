@@ -1,3 +1,4 @@
+import { whenReadingKept } from "akasha/temper/addon/pages/characters/modules/characters-reported-stats/characters-reported-stats.module.code.ts"
 import { liveRotationReading } from "akasha/temper/addon/pages/characters/modules/characters-rotation-reading/characters-rotation-reading.module.code.ts"
 import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-fonts/eso-fonts.type-declaration.d.ts"
@@ -123,6 +124,7 @@ function install(this: void): undefined {
 
 export function installAdvancedStatsReadings(): undefined {
   install()
+  whenReadingKept(refreshAdvancedStatsReading)
   STATS_SCENE.RegisterCallback("StateChange", (_oldState, newState) => {
     if (newState !== SCENE_SHOWING) return
     install()

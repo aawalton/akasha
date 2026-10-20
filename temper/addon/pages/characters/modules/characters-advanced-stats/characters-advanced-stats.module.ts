@@ -30,6 +30,10 @@ export const charactersAdvancedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The values are worked out again each time a capture keeps a reading.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A value with no reading behind it is a dash.",
     },
     {
@@ -38,5 +42,5 @@ export const charactersAdvancedStats = {
     },
   ],
   createdAt: "2026-10-19T18:59:03.808Z",
-  updatedAt: "2026-10-19T19:38:44.378Z",
+  updatedAt: "2026-10-20T00:13:13.759Z",
 } as const satisfies Module

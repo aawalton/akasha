@@ -1,5 +1,5 @@
 import { currentCharacterEntry } from "akasha/temper/addon/pages/characters/modules/characters-current-entry/characters-current-entry.module.code.ts"
-import { captureReportedStats } from "akasha/temper/addon/pages/characters/modules/characters-reported-stats/characters-reported-stats.module.code.ts"
+import { heldBarReading } from "akasha/temper/addon/pages/characters/modules/characters-reported-stats/characters-reported-stats.module.code.ts"
 import { reavingBlows } from "akasha/temper/catalog/champion-point/temper-champion-star/pages/reaving-blows.temper-champion-star.ts"
 import {
   type Multipliers,
@@ -145,10 +145,11 @@ function keptOf(key: BarKept["bar"], bar: RotationBar): BarKept | undefined {
 }
 
 export function liveRotationReading(): LiveReading | undefined {
-  captureReportedStats()
   const entry = currentCharacterEntry()
-  const reported = entry?.reportedStats
-  if (entry === undefined || reported === undefined) return undefined
+  if (entry === undefined) return undefined
+  const held = heldBarReading()
+  const reported = { ...entry.reportedStats }
+  if (held !== undefined) reported[held.bar] = held.reading
   const bars: RotationBar[] = []
   const kept: BarKept[] = []
   for (const [key, main, off] of BARS) {

@@ -301,8 +301,10 @@ const SETTLE_TRIES = 5
 
 const SETTLE_UPDATE = ADDON_NAME + "_ReportedStatsSettle"
 
+type Bar = "frontBar" | "backBar"
+
 type Unsettled = {
-  readonly pair: number
+  readonly bar: Bar
   readonly buildHash: string
   readonly said: string
   readonly since: number
@@ -325,10 +327,10 @@ function settleLater(): undefined {
   })
 }
 
-function settled(pair: number, buildHash: string, said: string): boolean {
+function settled(bar: Bar, buildHash: string, said: string): boolean {
   const now = GetGameTimeMilliseconds()
   const before = unsettled
-  if (before?.pair === pair && before.buildHash === buildHash && before.said === said) {
+  if (before?.bar === bar && before.buildHash === buildHash && before.said === said) {
     if (now - before.since >= SETTLE_MS) {
       unsettled = undefined
       return true
@@ -337,26 +339,32 @@ function settled(pair: number, buildHash: string, said: string): boolean {
     return false
   }
   const tries = before === undefined ? 1 : before.tries + 1
-  unsettled = tries > SETTLE_TRIES ? undefined : { pair, buildHash, said, since: now, tries }
+  unsettled = tries > SETTLE_TRIES ? undefined : { bar, buildHash, said, since: now, tries }
   if (unsettled !== undefined) settleLater()
   return false
 }
 
-export function captureReportedStats(): undefined {
-  const charEntry = currentCharacterEntry()
-  if (charEntry === undefined) return
+function heldBar(): Bar | undefined {
   const [pair] = GetActiveWeaponPairInfo()
-  if (pair !== ACTIVE_WEAPON_PAIR_MAIN && pair !== ACTIVE_WEAPON_PAIR_BACKUP) return
+  if (pair === ACTIVE_WEAPON_PAIR_MAIN) return "frontBar"
+  if (pair === ACTIVE_WEAPON_PAIR_BACKUP) return "backBar"
+  return undefined
+}
 
+type StatsNow = readonly [stats: Record<string, number>, unbonusedStats: Record<string, number>]
+
+function statsNow(): StatsNow {
   const stats: Record<string, number> = {}
   const unbonusedStats: Record<string, number> = {}
   for (const [name, stat] of REPORTED_STATS) {
     stats[name] = GetPlayerStat(stat, STAT_BONUS_OPTION_APPLY_BONUS)
     unbonusedStats[name] = GetPlayerStat(stat, STAT_BONUS_OPTION_DONT_APPLY_BONUS)
   }
-  const buildHash = captureCharacterBuildHash().buildHash
-  if (!settled(pair, buildHash, statsSaid(stats, unbonusedStats))) return
-  const reading = {
+  return [stats, unbonusedStats]
+}
+
+function readingOf(buildHash: string, [stats, unbonusedStats]: StatsNow) {
+  return {
     capturedAt: GetTimeStamp(),
     buildHash: asBuildHash(buildHash),
     esoVersion: GetESOVersionString(),
@@ -371,11 +379,32 @@ export function captureReportedStats(): undefined {
     skills: slottedSkills(),
     classPassives: classPassives(),
     advanced: advancedStats(),
-    passiveRankIds: passiveRankIdsOnce(),
   }
+}
 
+export function heldBarReading(): { bar: Bar; reading: ReturnType<typeof readingOf> } | undefined {
+  const bar = heldBar()
+  if (bar === undefined) return undefined
+  return { bar, reading: readingOf(captureCharacterBuildHash().buildHash, statsNow()) }
+}
+
+let readingKept: (() => undefined) | undefined
+
+export function whenReadingKept(listener: () => undefined): undefined {
+  readingKept = listener
+}
+
+export function captureReportedStats(): undefined {
+  const charEntry = currentCharacterEntry()
+  if (charEntry === undefined) return
+  const bar = heldBar()
+  if (bar === undefined) return
+  const now = statsNow()
+  const buildHash = captureCharacterBuildHash().buildHash
+  if (!settled(bar, buildHash, statsSaid(now[0], now[1]))) return
   const reported = charEntry.reportedStats ?? {}
-  if (pair === ACTIVE_WEAPON_PAIR_MAIN) reported.frontBar = reading
-  else reported.backBar = reading
+  const reading = { ...readingOf(buildHash, now), passiveRankIds: passiveRankIdsOnce() }
+  reported[bar] = reading
   charEntry.reportedStats = reported
+  readingKept?.()
 }
