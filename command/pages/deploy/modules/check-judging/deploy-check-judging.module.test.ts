@@ -56,6 +56,16 @@ test("the change is judged over the pages the deploy's commit holds, index and b
   }
 })
 
+test("a file renamed away is judged as taken out, so a check sees the table it left", () => {
+  const renamed = "75cd49e5b8c"
+  const now = "temper/catalog/skill/pages/ambidextrous/ambidextrous.temper-skill.ts"
+  const was = "temper/catalog/skill/pages/dual-wield-expert/dual-wield-expert.temper-skill.ts"
+  const change = changeFrom(ROOT, `${renamed}^`, renamed, new Set([now]))
+  expect(change.changed).toContain(now)
+  expect(change.changed).toContain(was)
+  expect(change.before(was)).not.toBeNull()
+})
+
 test("a commit git no longer holds is read as no commit", () => {
   expect(sinceCommit(ROOT, NOWHERE)).toBe(null)
 })

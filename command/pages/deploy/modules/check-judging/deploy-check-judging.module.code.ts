@@ -23,7 +23,13 @@ export function sinceCommit(root: string, held: string | null): string | null {
 }
 
 export function changedBetween(root: string, was: string, now: string): readonly string[] {
-  return pathsIn(said(root, ["diff", "--name-only", was, now]))
+  return pathsIn(said(root, ["diff", "--name-only", "--no-renames", was, now]))
+}
+
+function takenBetween(root: string, was: string, now: string): ReadonlySet<string> {
+  return new Set(
+    pathsIn(said(root, ["diff", "--name-only", "--no-renames", "--diff-filter=D", was, now]))
+  )
 }
 
 export function changeFrom(
@@ -40,7 +46,8 @@ export function changeFrom(
     const carried = carriedWith(root, now, built, changed)
     return { ...pinned, changed, carried, before: at, after: at }
   }
-  const moved = changedBetween(root, was, now).filter((one) => built.has(one))
+  const taken = takenBetween(root, was, now)
+  const moved = changedBetween(root, was, now).filter((one) => built.has(one) || taken.has(one))
   const changed = [...new Set([...moved, ...also])]
   return {
     ...pinned,

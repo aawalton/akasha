@@ -22,6 +22,10 @@ export const deployCheckJudging = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A file taken out, or renamed away, stays in that diff under the path it had.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A file the deploy names to be judged joins that diff, changed or not.",
     },
     {
@@ -109,5 +113,5 @@ export const deployCheckJudging = {
     },
   ],
   createdAt: "2026-09-11T18:12:51.494Z",
-  updatedAt: "2026-09-25T18:06:29.000Z",
+  updatedAt: "2026-10-20T20:05:58.028Z",
 } as const satisfies Module
