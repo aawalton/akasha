@@ -101,3 +101,63 @@ test("a source reading the other bar is refused", () => {
 
   expect(said.refused ?? "").toMatch(/reads the frontBar/)
 })
+
+const REMOVED_AT =
+  "temper/player/character/temper-account-character/pages/erin/erin.temper-account-character.removed-readings.jsonl"
+
+const PAGE = 'export const erin = {\n  slug: "erin",\n  readings: "jsonl",\n}\n'
+
+function worldWith(texts: Readonly<Record<string, string>>): World {
+  return { ...WORLD, textOf: (path) => texts[path] ?? null }
+}
+
+test("a line taken out has its capture recorded, and the page names the record", () => {
+  const world = worldWith({ [READINGS_AT]: READINGS, [CHARACTER_AT]: PAGE })
+  const said = repairReadingLineCommand(world, { character: "erin", reading: "01a1bbbb" })
+
+  expect(said.refused).toBeNull()
+  expect(said.edits[1]).toEqual({
+    kind: "add",
+    path: REMOVED_AT,
+    content: `${JSON.stringify({ id: MISPAIRED.id, bar: "backBar", capturedAt: 1 })}\n`,
+  })
+  const page = said.edits[2]
+  expect(page?.kind === "replace" ? page.contentTo : "").toContain('removedReadings: "jsonl",')
+})
+
+test("a capture taken out beside a record held is put after it", () => {
+  const held = `${JSON.stringify({ id: "01a1dddd", bar: "frontBar", capturedAt: 7 })}\n`
+  const world = worldWith({ [READINGS_AT]: READINGS, [REMOVED_AT]: held })
+  const said = repairReadingLineCommand(world, { character: "erin", reading: "01a1bbbb" })
+
+  expect(said.edits.map((one) => one.kind)).toEqual(["replace", "append"])
+})
+
+test("a capture already taken out is recorded by its bar and instant", () => {
+  const said = repairReadingLineCommand(WORLD, {
+    character: "erin",
+    reading: "01a1eeee-0000-7000-8000-000000000005",
+    bar: "frontBar",
+    "captured-at": "9",
+  })
+
+  expect(said.refused).toBeNull()
+  expect(said.edits).toEqual([
+    {
+      kind: "add",
+      path: REMOVED_AT,
+      content: `${JSON.stringify({ id: "01a1eeee-0000-7000-8000-000000000005", bar: "frontBar", capturedAt: 9 })}\n`,
+    },
+  ])
+})
+
+test("a capture a line still holds is refused as already taken out", () => {
+  const said = repairReadingLineCommand(WORLD, {
+    character: "erin",
+    reading: "01a1ffff",
+    bar: "frontBar",
+    "captured-at": "1",
+  })
+
+  expect(said.refused ?? "").toMatch(/holds that capture still/)
+})

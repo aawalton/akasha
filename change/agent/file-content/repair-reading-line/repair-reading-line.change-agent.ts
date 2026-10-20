@@ -49,6 +49,23 @@ export const repairReadingLine = {
       statement: "Every other line, and every key of the line changed, keeps its place.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A line taken out has its id, bar and capture instant put in the removed readings.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The character's page names its removed readings the first time one is put there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A capture whose line is gone already is recorded by its bar and capture instant.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A capture some line still holds is refused for that record.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "This change reaches no mechanical change.",
     },
@@ -57,5 +74,5 @@ export const repairReadingLine = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-10-20T00:07:21.952Z",
-  updatedAt: "2026-10-20T00:07:21.952Z",
+  updatedAt: "2026-10-20T11:34:12.861Z",
 } as const satisfies ChangeAgent
