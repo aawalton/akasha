@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQKpIsAAIBjRwwGyJluSFz-6AEbI90AIWR7oAQsj3QAjZHugBCyPdAByAU6ADkAp0AHIPuoAMdE_ugBNz-6AMikgwAAAkkBIAEgwAAAkkAAEicDQIWAeAiTAAkTBKGgYAJ3qmIUboEjiJyIEIMDAEicAYpcMhQhICNDMjMiIgM1IiAyMxACMjMzMwQAMjMDSjMjoiImQzIwA4JCozIiMCOvAAAABT_AAAAAAAAAAAABgAMg4xIGsA",
+  "buildHash": "ATQKpIsAAIBjRwwGyJluSFz-6AEbI90AIWR7oAQsj3QAjZHugBCyPdAByAU6ADkAp0AHIPuoAMdE_ugBNz-6AMikgwAAAkkv4AEgwAAAkkAAEicDaJWAeAiTAAkTBKGgYAJ3qmIUboEjipyIEJMDAEicAYpcMhQhICIDJDMjMiIgM1IiAyMxACMjMzMwQAMjMDSjMjoiIiZDMjIAOCQqMyIjAjrwAAAAU_wAAAAAAAAAAAAYADIOMSBr",
   "gender": 1,
   "level": 50,
   "classId": 2,
@@ -2376,7 +2376,7 @@
             "name": "Werewolf Berserker",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "abilityIndex": 1,
           "isUltimate": true,
           "atMorph": true
@@ -4804,7 +4804,7 @@
   },
   "skillPoints": {
     "total": 379,
-    "unassigned": 138,
+    "unassigned": 128,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 0,
@@ -13343,45 +13343,45 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792504042,
-      "buildHash": "ATQKpIsAAIBjRwwGyJluSFz-6AEbI90AIWR7oAQsj3QAjZHugBCyPdAByAU6ADkAp0AHIPuoAMdE_ugBNz-6AMikgwAAAkkBIAEgwAAAkkAAEicDQIWAeAiTAAkTBKGgYAJ3qmIUboEjiJyIEIMDAEicAYpcMhQhICNDMjMiIgM1IiAyMxACMjMzMwQAMjMDSjMjoiImQzIwA4JCozIiMCOvAAAABT_AAAAAAAAAAAABgAMg4xIGsA",
+      "capturedAt": 1792504126,
+      "buildHash": "ATQKpIsAAIBjRwwGyJluSFz-6AEbI90AIWR7oAQsj3QAjZHugBCyPdAByAU6ADkAp0AHIPuoAMdE_ugBNz-6AMikgwAAAkkv4AEgwAAAkkAAEicDaJWAeAiTAAkTBKGgYAJ3qmIUboEjipyIEJMDAEicAYpcMhQhICIDJDMjMiIgM1IiAyMxACMjMzMwQAMjMDSjMjoiIiZDMjIAOCQqMyIjAjrwAAAAU_wAAAAAAAAAAAAYADIOMSBr",
       "esoVersion": "eso.live.12.1.6.3309674",
-      "inCombat": false,
+      "inCombat": true,
       "ultimate": 500,
-      "health": 17760,
+      "health": 18402,
       "stats": {
-        "critical-rating-spell": 2750,
-        "stamina-maximum": 56731,
+        "critical-rating-spell": 6693,
+        "stamina-maximum": 61774,
         "resistance-physical": 13140,
-        "critical-rating-weapon": 2750,
-        "health-maximum": 17760,
+        "critical-rating-weapon": 6693,
+        "health-maximum": 19466,
         "penetration-spell": 0,
-        "stamina-recovery": 1207,
-        "power-weapon": 2466,
-        "power-spell": 2466,
+        "stamina-recovery": 1554,
+        "power-weapon": 4047,
+        "power-spell": 4047,
         "resistance-critical": 1320,
         "health-recovery": 321,
         "penetration-physical": 0,
-        "magicka-recovery": 514,
+        "magicka-recovery": 659,
         "resistance-spell": 13140,
-        "magicka-maximum": 15017
+        "magicka-maximum": 16433
       },
       "unbonusedStats": {
         "critical-rating-spell": 2181,
-        "stamina-maximum": 56731,
+        "stamina-maximum": 61774,
         "resistance-physical": 0,
         "critical-rating-weapon": 2181,
-        "health-maximum": 17760,
+        "health-maximum": 19466,
         "penetration-spell": 0,
-        "stamina-recovery": 1207,
+        "stamina-recovery": 1554,
         "power-weapon": 1000,
         "power-spell": 1000,
         "resistance-critical": 0,
         "health-recovery": 321,
         "penetration-physical": 0,
-        "magicka-recovery": 514,
+        "magicka-recovery": 659,
         "resistance-spell": 0,
-        "magicka-maximum": 15017
+        "magicka-maximum": 16433
       },
       "activeBuffs": [
         {
@@ -13399,18 +13399,123 @@
           "stacks": 0
         },
         {
-          "abilityId": 23304,
-          "name": "Summon Unstable Familiar",
-          "description": "Command the powers of Oblivion to send a Daedric familiar to fight at your side. The familiar's attacks deal |cffffff1278|r Shock Damage.\n\nOnce summoned, you can activate the familiar's special ability for |cffffff3299|r Magicka, dealing |cffffff1550|r Shock Damage every |cffffff2|r seconds for |cffffff20|r seconds to enemies near them.\n\nThe familiar remains until killed or unsummoned.",
-          "effect": "",
-          "stacks": 0
-        },
-        {
           "abilityId": 35658,
           "name": "Lycanthropy",
           "description": "You can transform into a savage beast.\n\nYou take |cffffff15|r% more Poison damage while in Werewolf form.",
           "effect": "You can transform into a savage Werewolf.\n\nYou take |cffffff15|r% more Poison Damage while transformed into a Werewolf.\n",
           "stacks": 0
+        },
+        {
+          "abilityId": 23304,
+          "name": "Summon Unstable Familiar",
+          "description": "Command the powers of Oblivion to send a Daedric familiar to fight at your side. The familiar's attacks deal |cffffff1695|r Shock Damage.\n\nOnce summoned, you can activate the familiar's special ability for |cffffff3299|r Magicka, dealing |cffffff2055|r Shock Damage every |cffffff2|r seconds for |cffffff20|r seconds to enemies near them.\n\nThe familiar remains until killed or unsummoned.",
+          "effect": "",
+          "stacks": 0
+        },
+        {
+          "abilityId": 93109,
+          "name": "Major Slayer",
+          "description": "",
+          "effect": "Increases damage done to monsters by |cffffff10|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 88490,
+          "name": "Minor Toughness",
+          "description": "Increases your Max Health by |cffffff10|r%.",
+          "effect": "Increases your Max Health by |cffffff10|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 120021,
+          "name": "Aggressive Horn",
+          "description": "",
+          "effect": "Increases your Magicka and Stamina by |cffffff10|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61747,
+          "name": "Major Force",
+          "description": "",
+          "effect": "Increases your Critical Damage done by |cffffff20|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61667,
+          "name": "Major Savagery",
+          "description": "",
+          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 120024,
+          "name": "Worm's Raiment",
+          "description": "",
+          "effect": "Increases your Magicka Recovery by |cffffff145|r.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 120026,
+          "name": "Hircine's Veneer",
+          "description": "",
+          "effect": "Increases your Stamina Recovery by |cffffff145|r.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61662,
+          "name": "Minor Brutality",
+          "description": "",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff10|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61666,
+          "name": "Minor Savagery",
+          "description": "",
+          "effect": "Increases your Critical rating by |cffffff1314|r, increasing your Critical Chance by |cffffff6|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61744,
+          "name": "Minor Berserk",
+          "description": "",
+          "effect": "Increases your damage done by |cffffff5|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 109966,
+          "name": "Major Courage",
+          "description": "",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff430|r.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 147417,
+          "name": "Minor Courage",
+          "description": "",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff215|r.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61665,
+          "name": "Major Brutality",
+          "description": "",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 61708,
+          "name": "Minor Heroism",
+          "description": "",
+          "effect": "While in combat, grants you |cffffff1|r Ultimate every |cffffff1.5|r seconds.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 155176,
+          "name": "Escalating Fete",
+          "description": "",
+          "effect": "",
+          "stacks": 2
         }
       ],
       "championPoints": [
@@ -13468,9 +13573,9 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:106524:362:50:0:0:0:3:25:0:0:0:0:0:0:2049:26:0:1:0:297:0|h|h",
+          "link": "|H0:item:106524:362:50:0:0:0:3:25:0:0:0:0:0:0:2049:26:0:1:0:296:0|h|h",
           "armor": 0,
-          "enchant": "Deals |cffffff837|r Physical Damage and restores |cffffff156|r Stamina.",
+          "enchant": "Deals |cffffff879|r Physical Damage and restores |cffffff156|r Stamina.",
           "enchantCategory": 22,
           "trait": "Increases Weapon and Spell Critical by |cffffff2.6|r%.",
           "quality": 3
@@ -13555,7 +13660,7 @@
           "slot": 4,
           "abilityId": 108840,
           "name": "Summon Unstable Familiar",
-          "description": "Command the powers of Oblivion to send a Daedric familiar to fight at your side. The familiar's attacks deal |cffffff1278|r Shock Damage.\n\nOnce summoned, you can activate the familiar's special ability for |cffffff3299|r Magicka, dealing |cffffff1550|r Shock Damage every |cffffff2|r seconds for |cffffff20|r seconds to enemies near them.\n\nThe familiar remains until killed or unsummoned.",
+          "description": "Command the powers of Oblivion to send a Daedric familiar to fight at your side. The familiar's attacks deal |cffffff1695|r Shock Damage.\n\nOnce summoned, you can activate the familiar's special ability for |cffffff3299|r Magicka, dealing |cffffff2055|r Shock Damage every |cffffff2|r seconds for |cffffff20|r seconds to enemies near them.\n\nThe familiar remains until killed or unsummoned.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -13566,7 +13671,7 @@
           "slot": 7,
           "abilityId": 34835,
           "name": "Swallow Soul",
-          "description": "Steal an enemy's life force, dealing |cffffff9917|r Magic Damage and healing you for |cffffff33|r% of the damage inflicted every |cffffff2|r seconds for |cffffff10|r seconds.\n\nDeals |cffffff1|r% more damage for every |cffffff2|r% Health you have.",
+          "description": "Steal an enemy's life force, dealing |cffffff12877|r Magic Damage and healing you for |cffffff33|r% of the damage inflicted every |cffffff2|r seconds for |cffffff10|r seconds.\n\nDeals |cffffff1|r% more damage for every |cffffff2|r% Health you have.",
           "durationMs": 10000,
           "castMs": 0,
           "channeled": false,
@@ -13575,14 +13680,14 @@
         },
         {
           "slot": 8,
-          "abilityId": 40223,
-          "name": "Aggressive Horn",
-          "description": "Sound a war horn to rally your forces, increasing you and your group's Max Magicka and Max Stamina by |cffffff10|r% for |cffffff30|r seconds.\n\nYou and your allies gain Major Force, increasing your Critical Damage by |cffffff20|r% for |cffffff10|r seconds.",
-          "durationMs": 30000,
-          "castMs": 0,
+          "abilityId": 39075,
+          "name": "Pack Leader",
+          "description": "Transform into an imposing beast, fearing nearby enemies for |cffffff3|r seconds. \n\nYou also gain Major Protection, |cffffff15|r% increased Block Mitigation, and you and group members gain Minor Courage.\n\nYou summon two direwolves that deal |cffffff515|r Physical Damage twice or |cffffff2750|r Physical Damage once every |cffffff2|r seconds.\n\nWhile transformed in combat, abilities generate Fury. When you have |cffffff1000|r, this ability becomes Enduring Rampage, which gains |cffffff4000|r Health Recovery in addition to its base effects.\n\nWhile slotted, your Stamina Recovery is increased by |cffffff15|r%.",
+          "durationMs": 0,
+          "castMs": 1000,
           "channeled": false,
           "cooldownMs": 0,
-          "ultimateCost": 213
+          "ultimateCost": 0
         }
       ],
       "classPassives": [
@@ -13594,7 +13699,7 @@
         {
           "abilityId": 45172,
           "name": "Blood Magic",
-          "description": "When you cast a Dark Magic ability with a cost, you heal for |cffffff1065|r Health if you are not at full Health. This portion of the ability scales off your Max Health.\n\nIf your Health is full, the higher of your Max Magicka or Stamina is increased by |cffffff10|r% for |cffffff10|r seconds."
+          "description": "When you cast a Dark Magic ability with a cost, you heal for |cffffff1167|r Health if you are not at full Health. This portion of the ability scales off your Max Health.\n\nIf your Health is full, the higher of your Max Magicka or Stamina is increased by |cffffff10|r% for |cffffff10|r seconds."
         },
         {
           "abilityId": 45165,
@@ -13637,7 +13742,7 @@
       "advanced": {
         "healing-critical-bonus": 0.12,
         "healing-done-base": 0,
-        "critical-damage": 0.12,
+        "critical-damage": 0.32,
         "healing-taken-base": 0.01
       },
       "advancedSheet": {
@@ -13653,20 +13758,20 @@
           "label": "Magic Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 0
+          "percent": 5
         },
         "fire-damage": {
           "category": "Damage Bonuses",
           "label": "Flame Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 0
+          "percent": 5
         },
         "critical-damage": {
           "category": "Damage Bonuses",
           "label": "Critical Damage",
           "format": "percent",
-          "percent": 12
+          "percent": 32
         },
         "cc-break-cost": {
           "category": "Core Abilities",
@@ -13685,14 +13790,14 @@
           "label": "Bleed Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 0
+          "percent": 5
         },
         "disease-damage": {
           "category": "Damage Bonuses",
           "label": "Disease Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 0
+          "percent": 5
         },
         "magic-resist": {
           "category": "Resistances",
@@ -13749,14 +13854,14 @@
           "category": "Core Abilities",
           "label": "Bash Damage",
           "format": "flat",
-          "flat": 795
+          "flat": 835
         },
         "shock-damage": {
           "category": "Damage Bonuses",
           "label": "Shock Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 0
+          "percent": 5
         },
         "sneak-cost": {
           "category": "Core Abilities",
@@ -13790,14 +13895,14 @@
           "label": "Frost Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 0
+          "percent": 5
         },
         "oblivion-damage": {
           "category": "Damage Bonuses",
           "label": "Oblivion Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 0
+          "percent": 5
         },
         "block-cost": {
           "category": "Core Abilities",
@@ -13810,7 +13915,7 @@
           "label": "Physical Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 0
+          "percent": 5
         },
         "dodge-cost": {
           "category": "Core Abilities",
@@ -13855,7 +13960,7 @@
           "label": "Poison Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 0
+          "percent": 5
         },
         "critical-healing": {
           "category": "Healing Bonuses",
@@ -13879,11 +13984,11 @@
       "sheet": {
         "attribute-points-stamina": 64,
         "attribute-points-magicka": 0,
-        "critical-chance-spell": 12.5502004623,
+        "critical-chance-spell": 30.5449047089,
         "riding-speed": 60,
         "riding-stamina": 60,
         "attribute-points-unspent": 0,
-        "critical-chance-weapon": 12.5502004623,
+        "critical-chance-weapon": 30.5449047089,
         "riding-capacity": 60,
         "attribute-points-health": 0
       },
