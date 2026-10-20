@@ -23,7 +23,12 @@ export const equipmentQualities = {
       decisionKind: "decision-kind/departure",
       statement: "A quality that is not graded is read as the quality page marked the default.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A mythic piece's trait is worth the legendary grade, since legendary is the default.",
+    },
   ],
   createdAt: "2026-09-02T06:04:28.742Z",
-  updatedAt: "2026-09-27T06:59:46.000Z",
+  updatedAt: "2026-10-20T20:03:57.488Z",
 } as const satisfies Module

@@ -48,11 +48,11 @@ export const temperGearGrade = {
     {
       decisionKind: "decision-kind/stopgap",
       statement:
-        "Legendary Protective and Triune are planned from tooltips, unpinned until a legendary reading.",
+        "Legendary Protective is planned from its tooltip, unpinned until a legendary reading lands.",
     },
   ],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-24T14:47:50.013Z",
-  updatedAt: "2026-10-20T20:00:42.662Z",
+  updatedAt: "2026-10-20T20:03:57.488Z",
 } as const satisfies PageType
