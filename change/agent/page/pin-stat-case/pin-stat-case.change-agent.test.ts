@@ -229,6 +229,23 @@ test("a reading that records no game version is refused", () => {
   expect(said.refused ?? "").toMatch(/records no game version/)
 })
 
+test("a stat Fete left unsettled is handed to neither the pinned stats nor the gaps", () => {
+  const pinThrough: Parameters<typeof pinStatCaseCommand>[2] = ({ stats, ...read }) => ({
+    ...read,
+    championPoints: [],
+    pinned: stats,
+    gaps: {},
+  })
+  const said = pinStatCaseCommand(
+    worldOf([]),
+    { character: "erin", reading: "1791995500" },
+    pinThrough
+  )
+
+  expect(said.refused).toBeNull()
+  expect(statsOf(said).pinned).toEqual({ "stamina-recovery": 1386 })
+})
+
 test("a character naming no page is refused", () => {
   const said = pinStatCaseCommand(worldOf([]), { character: "nobody", bar: "front" }, pinAll)
 
