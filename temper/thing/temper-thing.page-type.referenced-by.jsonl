@@ -1,6 +1,7 @@
 {"propertySlug":"extends-type","path":"temper/catalog/champion-point/temper-champion-star/temper-champion-star.page-type.ts","id":"01a0e135-d98c-795f-9e2a-cf25be809fb6"}
 {"propertySlug":"extends-type","path":"temper/catalog/gear/temper-level-band/temper-level-band.page-type.ts","id":"01a0e16a-6334-7f44-b34f-f5518d7dad42"}
 {"propertySlug":"extends-type","path":"temper/catalog/gear/temper-set-rule/temper-set-rule.page-type.ts","id":"01a0e1a3-2f08-76b7-8133-d11fe8bbf220"}
+{"propertySlug":"extends-type","path":"temper/catalog/gear/temper-weapon-rule/temper-weapon-rule.page-type.ts","id":"01a15adb-a0c7-7ea7-9d7a-9cb3009b7064"}
 {"propertySlug":"extends-type","path":"temper/catalog/thing/temper-catalog-thing.page-type.ts","id":"01a05fb0-3cea-7e62-9477-d1a11db7b2e5"}
 {"propertySlug":"extends-type","path":"temper/items/core/temper-browser-category/temper-browser-category.page-type.ts","id":"01a0e10a-51a6-762e-937a-ab9ecab87881"}
 {"propertySlug":"extends-type","path":"temper/items/rules/core/temper-deconstruct-mode/temper-deconstruct-mode.page-type.ts","id":"01a0e258-5155-7d12-89ba-fcb0c1fc600c"}
@@ -28,6 +29,7 @@
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/catalog/champion-point/temper-champion-star/temper-champion-star.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/catalog/gear/temper-level-band/temper-level-band.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/catalog/gear/temper-set-rule/temper-set-rule.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-rule/temper-weapon-rule.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/catalog/thing/temper-catalog-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/items/core/temper-browser-category/temper-browser-category.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/items/rules/core/temper-deconstruct-mode/temper-deconstruct-mode.page-type.types.ts","typed":true,"deferred":false}

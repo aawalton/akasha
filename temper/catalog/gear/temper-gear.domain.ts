@@ -36,10 +36,11 @@ export const temperGear = {
     "page-type/temper-weapon-slot",
     "page-type/temper-weapon-trait",
     "page-type/temper-weapon-type",
+    "page-type/temper-weapon-rule",
     "domain/temper-equipment",
     "domain/temper-item-set",
     "page-type/temper-talisman-gem",
   ],
   createdAt: "2026-09-02T01:27:53.148Z",
-  updatedAt: "2026-10-20T18:59:46.345Z",
+  updatedAt: "2026-10-20T19:48:25.413Z",
 } as const satisfies Domain
