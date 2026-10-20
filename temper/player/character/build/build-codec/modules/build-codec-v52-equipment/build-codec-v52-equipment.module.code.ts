@@ -88,7 +88,12 @@ export function encodeEquipment(writer: BitWriterState, build: CharacterState): 
 }
 
 function encodeArmorSlot(writer: BitWriterState, slot: ArmorSlotItem): undefined {
-  if (slot.itemType === "empty" || (slot.data.set === "no-set" && slot.data.trait === "no-trait")) {
+  if (
+    slot.itemType === "empty" ||
+    (slot.data.weight === "no-weight" &&
+      slot.data.set === "no-set" &&
+      slot.data.trait === "no-trait")
+  ) {
     writeBits(writer, 1, 1)
     return
   }
@@ -107,7 +112,12 @@ function encodeArmorSlot(writer: BitWriterState, slot: ArmorSlotItem): undefined
 }
 
 function encodeJewelrySlot(writer: BitWriterState, slot: JewelrySlotItem): undefined {
-  if (slot.itemType === "empty" || (slot.data.set === "no-set" && slot.data.trait === "no-trait")) {
+  if (
+    slot.itemType === "empty" ||
+    (slot.data.set === "no-set" &&
+      slot.data.trait === "no-trait" &&
+      slot.data.enchantment === "no-enchant")
+  ) {
     writeBits(writer, 1, 1)
     return
   }
@@ -132,7 +142,10 @@ function encodeWeaponBar(writer: BitWriterState, bar: WeaponSlot): undefined {
 function encodeWeaponSlot(writer: BitWriterState, slot: WeaponSlotItem): undefined {
   if (
     slot.itemType === "empty" ||
-    (slot.itemType === "weapon" && slot.data.set === "no-set" && slot.data.trait === "no-trait")
+    (slot.itemType === "weapon" &&
+      slot.data.type === "no-type" &&
+      slot.data.set === "no-set" &&
+      slot.data.trait === "no-trait")
   ) {
     writeBits(writer, 1, 1)
     return

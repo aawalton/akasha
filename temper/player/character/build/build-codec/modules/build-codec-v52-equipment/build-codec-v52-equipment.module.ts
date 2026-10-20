@@ -32,7 +32,15 @@ export const buildCodecV52Equipment = {
       decisionKind: "decision-kind/departure",
       statement: "A glyph level of zero is a piece whose glyph level is not known.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A slot is written empty only where it holds no weight or weapon type, set or trait.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A jewelry slot is written empty only where it holds no set, trait or glyph.",
+    },
   ],
   createdAt: "2026-09-02T16:15:21.042Z",
-  updatedAt: "2026-10-20T17:48:47.968Z",
+  updatedAt: "2026-10-20T18:05:25.172Z",
 } as const satisfies Module

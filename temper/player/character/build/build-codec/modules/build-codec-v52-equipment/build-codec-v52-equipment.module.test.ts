@@ -55,6 +55,18 @@ test("a piece's item level and glyph level are read back beside its glyph subtyp
   expect(head?.level).toBe(26)
 })
 
+test("a piece with a weight but no set or trait is written and read back as worn", () => {
+  const plain = headPiece(1, 0)
+  if (plain.itemType !== "armor") throw new Error("the head piece is armor")
+  const piece: ArmorSlotItem = {
+    itemType: "armor",
+    data: { ...plain.data, set: "no-set", trait: "no-trait" },
+  }
+  const head = decodeBuild(encodeBuild(wearing(piece)))?.equipment.armor.head.data
+  expect(head?.weight).toBe(plain.data.weight)
+  expect(head?.level).toBe(1)
+})
+
 test("a piece with no glyph level said is read back with none", () => {
   const head = decodeBuild(encodeBuild(wearing(headPiece("CP160", 0))))?.equipment.armor.head.data
   expect(head?.enchantmentLevel).toBeUndefined()
