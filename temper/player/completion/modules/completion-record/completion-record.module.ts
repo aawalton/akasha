@@ -37,6 +37,14 @@ export const completionRecord = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A buff in a reading keeps how long before the reading the game last changed it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading keeps each buff that faded in the ten seconds before it was taken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reading of reported stats keeps the points spent on each champion star.",
     },
     {
@@ -105,5 +113,5 @@ export const completionRecord = {
     },
   ],
   createdAt: "2026-09-02T04:57:23.388Z",
-  updatedAt: "2026-10-20T13:23:58.204Z",
+  updatedAt: "2026-10-20T13:58:50.994Z",
 } as const satisfies Module
