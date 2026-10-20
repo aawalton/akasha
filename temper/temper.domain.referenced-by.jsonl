@@ -7,4 +7,5 @@
 {"propertySlug":"import","fileName":"temper.domain.ts","path":"temper/web/routes/temper-requests/temper-requests.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"page-domain","path":"domain/initiative/pages/ember-temper-alpha.initiative.ts","id":"01a0de4d-ccf3-7cab-a8bf-2cae7c1c6bd9"}
 {"propertySlug":"page-domain","path":"domain/initiative/pages/nimue-correct-formulas.initiative.ts","id":"01a155a3-3d43-7e5e-8fed-e3c019edcd03"}
+{"propertySlug":"page-domain","path":"domain/initiative/pages/nimue-stat-gaps.initiative.ts","id":"01a15a8a-ebf0-7bd1-9b5f-3661efb968a8"}
 {"propertySlug":"parts","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}
