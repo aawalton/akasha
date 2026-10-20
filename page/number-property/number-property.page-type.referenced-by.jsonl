@@ -379,6 +379,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-armor-type/properties/armor-multiplier.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-armor-weight/properties/armor-base-value.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-armor-weight/properties/crafted-glyph-item-id.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-armor-weight/properties/level-slope.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-equip-type/properties/equip-type.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-eso-player-equipment-constant/properties/eso-num.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-eso-trait-map/properties/eso-trait-num.number-property.ts","typed":true,"deferred":false}
@@ -412,7 +413,6 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-type/properties/weapon-type-power.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/thing/properties/eso-enchant-search-category.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/thing/properties/level-intercept.number-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/thing/properties/level-slope.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/thing/properties/potion-seconds.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-achievement-category/properties/achievement-points.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-achievement-category/properties/total-steps.number-property.ts","typed":true,"deferred":false}

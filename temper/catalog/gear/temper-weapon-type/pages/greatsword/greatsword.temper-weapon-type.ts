@@ -14,8 +14,7 @@ export const greatsword = {
   skillLineId: "temper-skill-line/weapon-two-handed",
   hashPlace: 4,
   esoWeaponTypeNumber: 4,
-  levelSlope: 16.5,
   levelIntercept: 366.5,
   createdAt: "2026-05-20T18:46:49.743Z",
-  updatedAt: "2026-09-27T04:15:45.000Z",
+  updatedAt: "2026-10-20T18:25:50.837Z",
 } as const satisfies TemperWeaponType

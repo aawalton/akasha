@@ -13,8 +13,7 @@ export const mace = {
   validSlots: ["temper-weapon-slot/main-hand"],
   hashPlace: 8,
   esoWeaponTypeNumber: 2,
-  levelSlope: 14,
-  levelIntercept: 313,
+  levelIntercept: 217,
   createdAt: "2026-05-20T18:46:49.737Z",
-  updatedAt: "2026-09-27T04:15:45.000Z",
+  updatedAt: "2026-10-20T18:25:50.837Z",
 } as const satisfies TemperWeaponType

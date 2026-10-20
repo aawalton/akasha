@@ -22,7 +22,6 @@ export const temperWeaponType = {
     { pageProperty: "relation-property/skill-line", required: false, many: false },
     { pageProperty: "number-property/hash-place", required: true, many: false },
     { pageProperty: "number-property/eso-weapon-type-number", required: true, many: false },
-    { pageProperty: "number-property/level-slope", required: true, many: false },
     { pageProperty: "number-property/level-intercept", required: true, many: false },
   ],
   decisions: [
@@ -43,5 +42,5 @@ export const temperWeaponType = {
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
   createdAt: "2026-09-02T01:53:02.018Z",
-  updatedAt: "2026-09-27T04:15:45.000Z",
+  updatedAt: "2026-10-20T18:25:50.837Z",
 } as const satisfies PageType

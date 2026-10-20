@@ -131,7 +131,6 @@ export const GEAR_READS: readonly Read[] = [
       "skillLineId",
       "hashPlace",
       "esoWeaponTypeNumber",
-      "levelSlope",
       "levelIntercept",
     ],
   ],

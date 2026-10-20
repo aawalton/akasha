@@ -12,9 +12,8 @@ import {
 import type { WeaponTypeId } from "akasha/temper/catalog/gear/equipment/modules/weapon-type-ids/weapon-type-ids.module.code.ts"
 import type { ItemLevel } from "akasha/temper/player/character/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import {
-  type LevelScaling,
-  levelScaledWorth,
-  levelScalingOf,
+  topWorthLevel,
+  worthLevel,
 } from "akasha/temper/player/character/characters-equipment/modules/level-scaling/level-scaling.module.code.ts"
 
 interface WeaponTypeTemplate {
@@ -26,7 +25,7 @@ interface WeaponTypeTemplate {
   readonly isTwoHanded: boolean
   readonly enchantmentMultiplier: number
   readonly skillLineId: string
-  readonly levelScaling: LevelScaling | undefined
+  readonly levelIntercept: number
 }
 
 type Row = Readonly<Record<string, unknown>>
@@ -59,7 +58,7 @@ function typeOf(row: Row): WeaponTypeTemplate {
     isTwoHanded: row.isTwoHanded === true,
     enchantmentMultiplier: Number(row.enchantmentMultiplier),
     skillLineId: lineOf(row),
-    levelScaling: levelScalingOf(row.levelSlope, row.levelIntercept),
+    levelIntercept: Number(row.levelIntercept),
   }
 }
 
@@ -92,10 +91,10 @@ export function getWeaponPower(
     return 0
   }
 
-  const scaling = weaponTypes.data[weaponType].levelScaling
-  if (level !== undefined && scaling !== undefined) {
-    const share = qualityScale(quality, "weaponLevelScale")
-    return Math.floor(levelScaledWorth(level, scaling, share))
+  if (level !== undefined) {
+    const { weaponPower, levelIntercept } = weaponTypes.data[weaponType]
+    const growth = ((weaponPower - levelIntercept) * worthLevel(level)) / topWorthLevel()
+    return Math.floor((levelIntercept + growth) * qualityScale(quality, "weaponLevelScale"))
   }
 
   return powerOf(weaponType, quality)
