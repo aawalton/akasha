@@ -27,6 +27,7 @@
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"command/pages/temper/build-show/modules/build-show-fields/build-show-fields.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"command/pages/temper/build-show/modules/build-show-gap-stats/build-show-gap-stats.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"command/pages/temper/build-show/modules/build-show-gaps/build-show-gaps.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"command/pages/temper/build-show/temper-build-show.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"command/pages/temper/inventory/configuration/temper-inventory-configuration.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"command/pages/temper/inventory/env-parity/temper-inventory-env-parity.command.test.ts","typed":false,"deferred":false}

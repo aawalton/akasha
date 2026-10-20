@@ -18,6 +18,7 @@
 {"propertySlug":"import","fileName":"metrics.module.code.ts","path":"temper/web/modules/use-metric-catalog/use-metric-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"metrics.module.test-fixtures.ts","path":"command/pages/temper/build-show/modules/build-show-fields/build-show-fields.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"metrics.module.test-fixtures.ts","path":"command/pages/temper/build-show/modules/build-show-gap-stats/build-show-gap-stats.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"metrics.module.test-fixtures.ts","path":"command/pages/temper/build-show/temper-build-show.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"metrics.module.test-fixtures.ts","path":"temper/player/character/stat/modules/extract-armor/extract-armor.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"metrics.module.test-fixtures.ts","path":"temper/player/character/stat/modules/extract-sets/extract-sets.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"metrics.module.test-fixtures.ts","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.test.ts","typed":false,"deferred":false}

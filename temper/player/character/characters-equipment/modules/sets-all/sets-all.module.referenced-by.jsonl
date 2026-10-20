@@ -24,6 +24,7 @@
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"command/pages/temper/build-show/modules/build-show-fields/build-show-fields.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"command/pages/temper/build-show/modules/build-show-gap-stats/build-show-gap-stats.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"command/pages/temper/build-show/modules/build-show-gaps/build-show-gaps.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"command/pages/temper/build-show/temper-build-show.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-set-map/character-capture-set-map.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/player/character/build/build-codec/modules/build-codec/build-codec.module.test.ts","typed":false,"deferred":false}

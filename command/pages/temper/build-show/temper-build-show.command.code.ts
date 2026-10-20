@@ -123,15 +123,23 @@ function gapsAnswer(root: string, design: Shown, said: string, asJsonToo: boolea
   ])
 }
 
-export async function temperBuildShow(argv: readonly string[], given: Given): Promise<Answer> {
-  const read = takenFor(argv, given.calledAs, page, NAMED)
-  if ("refused" in read) return mistaking(read.refused)
-  await Promise.all([
+async function catalogsRead(): Promise<unknown> {
+  return await Promise.all([
     loadSkillCatalog(),
     loadSetCatalog(),
     loadMetricCatalog(),
     loadCompanionCatalog(),
   ])
+}
+
+export async function temperBuildShow(
+  argv: readonly string[],
+  given: Given,
+  readCatalogs: () => Promise<unknown> = catalogsRead
+): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  await readCatalogs()
   const first = shownOf(given.root, read.taken.build)
   if ("refused" in first) return refused(first.refused, INPUT)
   const short = read.taken.gaps

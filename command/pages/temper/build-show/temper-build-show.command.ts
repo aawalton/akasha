@@ -27,6 +27,11 @@ export const temperBuildShow = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A test hands the command catalogs it already holds rather than reading them live.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A hash is decoded as a character's build, and as a companion's where it is not one.",
     },
     {
@@ -72,5 +77,5 @@ export const temperBuildShow = {
     { argument: "argument/json" },
   ],
   createdAt: "2026-10-20T14:29:46.979Z",
-  updatedAt: "2026-10-20T15:54:35.482Z",
+  updatedAt: "2026-10-20T16:22:46.024Z",
 } as const satisfies Command
