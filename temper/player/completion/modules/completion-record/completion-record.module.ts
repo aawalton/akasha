@@ -70,6 +70,11 @@ export const completionRecord = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A reading of reported stats keeps whether the player was blocking and whether moving.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A reading of reported stats keeps the advanced stats the rotation reading takes, by metric.",
     },
     {
@@ -113,5 +118,5 @@ export const completionRecord = {
     },
   ],
   createdAt: "2026-09-02T04:57:23.388Z",
-  updatedAt: "2026-10-20T13:58:50.994Z",
+  updatedAt: "2026-10-20T14:01:22.750Z",
 } as const satisfies Module

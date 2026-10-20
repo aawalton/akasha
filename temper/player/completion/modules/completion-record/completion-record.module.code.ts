@@ -236,6 +236,8 @@ export const reportedStatsReadingSchema = z.strictObject({
   skills: luaArrayOrEmpty(slottedSkillSchema).optional(),
   classPassives: luaArrayOrEmpty(classPassiveSchema).optional(),
   inArchive: z.boolean().optional(),
+  blocking: z.boolean().optional(),
+  moving: z.boolean().optional(),
   archiveBoons: luaArrayOrEmpty(archiveBoonSchema).optional(),
   advanced: z.record(z.string(), z.number()).optional(),
   advancedSheet: z.record(z.string(), advancedSheetValueSchema).optional(),
