@@ -5,9 +5,9 @@ import type { WeaponItem } from "akasha/temper/player/character/characters-equip
 import { weaponTypes } from "akasha/temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 import type { MetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 
-const DOUBLED_TWO_HANDED: ReadonlySet<string> = new Set(["charged", "powered", "precise"])
+const DOUBLED_TWO_HANDED: ReadonlySet<string> = new Set(["charged", "powered"])
 
-const DOUBLED_UNROUNDED: ReadonlySet<string> = new Set(["defending", "sharpened"])
+const DOUBLED_UNROUNDED: ReadonlySet<string> = new Set(["defending", "sharpened", "precise"])
 
 function doubled(effects: readonly MetricEffect[], rounded: boolean): readonly MetricEffect[] {
   return effects.map((effect) => {
