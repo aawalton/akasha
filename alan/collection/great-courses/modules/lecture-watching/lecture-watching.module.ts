@@ -24,6 +24,10 @@ export const lectureWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A video that stops within a second of its end has reached its end.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A tracked page listing no lecture to play says so and moves on.",
     },
     {
@@ -72,5 +76,5 @@ export const lectureWatching = {
     },
   ],
   createdAt: "2026-10-18T17:31:07.469Z",
-  updatedAt: "2026-10-19T22:08:38.837Z",
+  updatedAt: "2026-10-20T18:31:02.798Z",
 } as const satisfies Module

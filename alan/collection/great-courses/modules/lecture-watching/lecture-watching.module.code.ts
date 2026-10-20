@@ -26,6 +26,8 @@ const FASTEST = 4
 
 const SHOWN_MS = 1500
 
+const AT_THE_END_SECONDS = 1
+
 const SHORTEST_LECTURE_SECONDS = 60
 
 const PANEL =
@@ -109,7 +111,12 @@ function hold(video: HTMLVideoElement): undefined {
     if (reached >= WATCHED_AT) finished()
     reached = 0
   }
+  const stoppedAtTheEnd = () => {
+    if (video.duration - video.currentTime < AT_THE_END_SECONDS) ended()
+  }
   video.addEventListener("ended", ended)
+  video.addEventListener("pause", stoppedAtTheEnd)
+  video.addEventListener("waiting", stoppedAtTheEnd)
   video.addEventListener("emptied", replaced)
   video.addEventListener("loadstart", replaced)
   video.addEventListener("timeupdate", () => {
