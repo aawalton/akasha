@@ -4,6 +4,7 @@ import {
 } from "akasha/temper/addon/pages/characters/modules/characters-advanced-sheet/characters-advanced-sheet.module.code.ts"
 import { archiveBoons } from "akasha/temper/addon/pages/characters/modules/characters-archive-boons/characters-archive-boons.module.code.ts"
 import { characterSheet } from "akasha/temper/addon/pages/characters/modules/characters-character-sheet/characters-character-sheet.module.code.ts"
+import { classMasteryOnce } from "akasha/temper/addon/pages/characters/modules/characters-class-mastery/characters-class-mastery.module.code.ts"
 import { currentCharacterEntry } from "akasha/temper/addon/pages/characters/modules/characters-current-entry/characters-current-entry.module.code.ts"
 import { feteOf } from "akasha/temper/addon/pages/characters/modules/characters-escalating-fete/characters-escalating-fete.module.code.ts"
 import {
@@ -424,7 +425,11 @@ function captureBar(followUp: boolean): undefined {
   const said = `${statsSaid(now[0], now[1])}|${buffsSaid()}|${advancedSheetSaid()}`
   if (!settled(bar, buildHash, said, followUp, retake)) return
   const reported = charEntry.reportedStats ?? {}
-  const reading = { ...readingOf(buildHash, now), passiveRankIds: passiveRankIdsOnce() }
+  const reading = {
+    ...readingOf(buildHash, now),
+    passiveRankIds: passiveRankIdsOnce(),
+    classMastery: classMasteryOnce(),
+  }
   reported[bar] = reading
   charEntry.reportedStats = reported
   readingKept?.()

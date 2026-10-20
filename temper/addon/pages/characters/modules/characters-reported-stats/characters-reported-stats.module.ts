@@ -146,6 +146,11 @@ export const charactersReportedStats = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A reading keeps what the game gives of the class mastery lines where it has them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A passive's ability ids are listed in rank order, so a place in the list is a rank.",
     },
     {
@@ -179,5 +184,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-20T15:14:05.203Z",
+  updatedAt: "2026-10-20T15:50:01.460Z",
 } as const satisfies Module
