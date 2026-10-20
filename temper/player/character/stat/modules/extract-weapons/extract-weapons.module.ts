@@ -6,6 +6,12 @@ export const extractWeapons = {
   slug: "extract-weapons",
   definition: "the weapons on a bar of a build, read out as effect sources",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A weapon's effect held only while a buff is up counts on either bar.",
+    },
+  ],
   createdAt: "2026-09-02T14:06:51.855Z",
-  updatedAt: "2026-09-22T10:11:05.000Z",
+  updatedAt: "2026-10-20T15:23:02.798Z",
 } as const satisfies Module

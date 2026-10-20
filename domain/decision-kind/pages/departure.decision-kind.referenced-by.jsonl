@@ -6452,6 +6452,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/extract-armor/extract-armor.module.ts","id":"01a06271-abcf-73d3-9f27-e843cae7cf5f"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/extract-passives/extract-passives.module.ts","id":"01a06271-abcf-7c72-adb9-549ee5b23055"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/extract-sets/extract-sets.module.ts","id":"01a06271-abcf-7e09-9c2e-cff7fd7c0f46"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/extract-weapons/extract-weapons.module.ts","id":"01a06271-abcf-7408-81ef-b5cd9c05faac"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/fete-unsettled/fete-unsettled.module.ts","id":"01a159aa-bea4-7f4f-b4fc-70e6ada1d1cf"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.ts","id":"01a06271-abd0-7258-9fc4-ca306f191976"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-catalog-loading/metric-catalog-loading.module.ts","id":"01a13ac6-0c64-7577-a066-20d7f033e67a"}
