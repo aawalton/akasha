@@ -49,7 +49,11 @@ export const charactersReportedStatsSettle = {
       decisionKind: "decision-kind/departure",
       statement: "A reading kept ends the retaking.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Where Elder Dragon is bought, the two captures agree on the Health held as well.",
+    },
   ],
   createdAt: "2026-10-20T14:10:58.497Z",
-  updatedAt: "2026-10-20T14:10:58.497Z",
+  updatedAt: "2026-10-20T16:35:01.662Z",
 } as const satisfies Module

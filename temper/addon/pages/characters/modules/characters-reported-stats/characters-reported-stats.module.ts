@@ -55,6 +55,10 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A reading keeps the Health held at the capture before the one kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reading keeps the version string the game gave when it was taken.",
     },
     {
@@ -184,5 +188,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-20T15:50:01.460Z",
+  updatedAt: "2026-10-20T16:35:01.662Z",
 } as const satisfies Module

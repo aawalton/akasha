@@ -9,6 +9,8 @@ import { currentCharacterEntry } from "akasha/temper/addon/pages/characters/modu
 import { feteOf } from "akasha/temper/addon/pages/characters/modules/characters-escalating-fete/characters-escalating-fete.module.code.ts"
 import {
   type Bar,
+  healthBefore,
+  healthSaid,
   settled,
 } from "akasha/temper/addon/pages/characters/modules/characters-reported-stats-settle/characters-reported-stats-settle.module.code.ts"
 import { captureCharacterBuildHash } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-build/character-capture-build.module.code.ts"
@@ -422,13 +424,15 @@ function captureBar(followUp: boolean): undefined {
   if (bar === undefined) return
   const now = statsNow()
   const buildHash = captureCharacterBuildHash().buildHash
-  const said = `${statsSaid(now[0], now[1])}|${buffsSaid()}|${advancedSheetSaid()}`
+  const hp = healthSaid(classPassives(), powerHeld(COMBAT_MECHANIC_FLAGS_HEALTH))
+  const said = `${statsSaid(now[0], now[1])}|${buffsSaid()}|${advancedSheetSaid()}${hp}`
   if (!settled(bar, buildHash, said, followUp, retake)) return
   const reported = charEntry.reportedStats ?? {}
   const reading = {
     ...readingOf(buildHash, now),
     passiveRankIds: passiveRankIdsOnce(),
     classMastery: classMasteryOnce(),
+    healthBefore: healthBefore(),
   }
   reported[bar] = reading
   charEntry.reportedStats = reported
