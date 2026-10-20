@@ -14,6 +14,7 @@ export const kheltaTheEternal = {
   firstName: "Khelta",
   fights: "jsonl",
   readings: "jsonl",
+  removedReadings: "jsonl",
   createdAt: "2026-04-29T16:44:20.194Z",
-  updatedAt: "2026-10-19T23:12:44.380Z",
+  updatedAt: "2026-10-20T11:36:25.469Z",
 } as const satisfies TemperAccountCharacter

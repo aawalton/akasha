@@ -15,6 +15,7 @@ export const valeterisa = {
   firstName: "Valeterisa",
   fights: "jsonl",
   readings: "jsonl",
+  removedReadings: "jsonl",
   createdAt: "2026-04-29T16:44:17.279Z",
-  updatedAt: "2026-10-20T11:11:12.139Z",
+  updatedAt: "2026-10-20T11:36:25.469Z",
 } as const satisfies TemperAccountCharacter
