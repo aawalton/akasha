@@ -13,13 +13,13 @@ import type { Answer } from "akasha/command/modules/calling/calling.module.code.
 import { BUILD_FILE } from "akasha/infrastructure/service/akasha-service/browser-extension/modules/build-following/build-following.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
-export const EXTENSIONS = ".local/share/browser-extensions"
+const EXTENSIONS = ".local/share/browser-extensions"
 
-export const WORKER_FILE = "worker.js"
+const WORKER_FILE = "worker.js"
 
-export const SITE_FILE = "site.js"
+const SITE_FILE = "site.js"
 
-export const ICON_FILE = "icon.png"
+const ICON_FILE = "icon.png"
 
 const MANIFEST_FILE = "manifest.json"
 
@@ -91,7 +91,7 @@ function codeAt(codeRoot: string, pagePath: string, group: string): string | nul
 
 type Placed = Readonly<Record<string, string | Uint8Array>>
 
-export function stampOf(files: Placed): string {
+function stampOf(files: Placed): string {
   const hasher = new Bun.CryptoHasher("sha256")
   for (const name of Object.keys(files).sort()) {
     hasher.update(`${name}\n`)
