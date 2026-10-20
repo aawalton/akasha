@@ -16,7 +16,16 @@ export const extractPassives = {
       decisionKind: "decision-kind/departure",
       statement: "A passive the build states no rank for is read at the rank its page states.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rank's values come from the game's own text for that rank's ability.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A rank no effect row states moves no metric, so a rank never borrows another's values.",
+    },
   ],
   createdAt: "2026-09-02T14:06:51.855Z",
-  updatedAt: "2026-10-19T23:30:40.351Z",
+  updatedAt: "2026-10-20T02:09:46.361Z",
 } as const satisfies Module

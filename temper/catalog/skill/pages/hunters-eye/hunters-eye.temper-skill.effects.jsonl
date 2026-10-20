@@ -1,2 +1,4 @@
 {"id":"01a05fd0-dc1a-78a7-bf77-bc72ac9ece07","metricId":"temper-metric-tree/metric-movement-speed","type":"fractional-change","value":0.05,"rank":3}
 {"id":"01a05fd0-dc1a-7d73-9b48-b0f65b1e704e","metricId":"temper-metric-tree/metric-penetration","type":"integer","value":950,"rank":3}
+{"id":"01a1570b-8151-73f7-a182-30ef493274ca","metricId":"temper-metric-tree/metric-movement-speed","type":"fractional-change","value":0.01,"rank":1}
+{"id":"01a1570b-8153-7fd6-b234-488f7a8c794b","metricId":"temper-metric-tree/metric-penetration","type":"integer","value":300,"rank":1}

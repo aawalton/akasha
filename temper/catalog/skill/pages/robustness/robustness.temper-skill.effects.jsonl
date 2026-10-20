@@ -1,3 +1,6 @@
 {"id":"01a05fd1-7bff-7b37-a550-6ade8674ff6f","metricId":"temper-metric-tree/metric-health-recovery","type":"integer","value":90,"rank":3}
 {"id":"01a05fd1-7bff-7541-bb52-1d15ef3a181a","metricId":"temper-metric-tree/metric-magicka-recovery","type":"integer","value":90,"rank":3}
 {"id":"01a05fd1-7bff-77d3-a185-ac36363623c3","metricId":"temper-metric-tree/metric-stamina-recovery","type":"integer","value":90,"rank":3}
+{"id":"01a1570b-817b-7d4c-80bb-4d67b866259f","metricId":"temper-metric-tree/metric-health-recovery","type":"integer","value":30,"rank":1}
+{"id":"01a1570b-817d-764d-868e-64c8b79d3156","metricId":"temper-metric-tree/metric-magicka-recovery","type":"integer","value":30,"rank":1}
+{"id":"01a1570b-817f-7697-8ed2-96bb0e1404db","metricId":"temper-metric-tree/metric-stamina-recovery","type":"integer","value":30,"rank":1}

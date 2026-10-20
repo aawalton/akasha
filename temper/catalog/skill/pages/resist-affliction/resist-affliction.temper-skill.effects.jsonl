@@ -1,3 +1,6 @@
 {"id":"01a05fd1-7bff-7702-b2ce-c57293a851e1","metricId":"temper-metric-tree/metric-stamina-maximum","type":"integer","value":2000,"rank":3}
 {"id":"01a05fd1-7bff-761c-aa4d-dc49884f1f5a","metricId":"temper-metric-tree/metric-resistance-disease","type":"integer","value":2310,"rank":3}
 {"id":"01a05fd1-7bff-7068-b0f4-bd5a8bdc9630","metricId":"temper-metric-tree/metric-resistance-poison","type":"integer","value":2310,"rank":3}
+{"id":"01a1570b-816b-7d6d-8e86-14882fbf589e","metricId":"temper-metric-tree/metric-stamina-maximum","type":"integer","value":600,"rank":1}
+{"id":"01a1570b-816d-7f75-ba7b-1aa15350e4ab","metricId":"temper-metric-tree/metric-resistance-disease","type":"integer","value":660,"rank":1}
+{"id":"01a1570b-816f-7558-a9f7-594273a24ea0","metricId":"temper-metric-tree/metric-resistance-poison","type":"integer","value":660,"rank":1}

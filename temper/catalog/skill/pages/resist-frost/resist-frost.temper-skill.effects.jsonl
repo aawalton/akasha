@@ -1,2 +1,4 @@
 {"id":"01a05fd1-7bff-7d4a-88e2-4a920ee09177","metricId":"temper-metric-tree/metric-health-maximum","type":"integer","value":1000,"rank":3}
 {"id":"01a05fd1-7bff-739e-b65a-46ee4a9e279f","metricId":"temper-metric-tree/metric-resistance-frost","type":"integer","value":4620,"rank":3}
+{"id":"01a1570b-8173-7339-b250-c5ba0030a916","metricId":"temper-metric-tree/metric-health-maximum","type":"integer","value":333,"rank":1}
+{"id":"01a1570b-8175-7806-b611-1714a5596c5b","metricId":"temper-metric-tree/metric-resistance-frost","type":"integer","value":1540,"rank":1}

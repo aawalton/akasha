@@ -1,3 +1,6 @@
 {"id":"01a05fd1-2d85-7178-b7e1-9f49ef7f2035","metricId":"temper-metric-tree/metric-health-maximum","type":"integer","value":915,"rank":3}
 {"id":"01a05fd1-2d85-7939-a086-6a68d3c3527d","metricId":"temper-metric-tree/metric-magicka-maximum","type":"integer","value":915,"rank":3}
 {"id":"01a05fd1-2d85-7855-a00c-b40078c01582","metricId":"temper-metric-tree/metric-stamina-maximum","type":"integer","value":915,"rank":3}
+{"id":"01a1570b-815a-70bb-a3ae-334f877b4953","metricId":"temper-metric-tree/metric-health-maximum","type":"integer","value":305,"rank":1}
+{"id":"01a1570b-815c-77e1-a2d4-7fc7a751fa87","metricId":"temper-metric-tree/metric-magicka-maximum","type":"integer","value":305,"rank":1}
+{"id":"01a1570b-815e-70fa-b08e-9986ccb5030a","metricId":"temper-metric-tree/metric-stamina-maximum","type":"integer","value":305,"rank":1}

@@ -52,6 +52,32 @@ for (const rank of [1, 2]) {
   }
 }
 
+function integerOn(build: CharacterState, skill: string): Record<string, number> {
+  const source = extractPassives(build, { bar: "primary-weapon-bar" }).find(
+    (one) => one.id === `passive-${skill}`
+  )
+  const summed: Record<string, number> = {}
+  for (const effect of source?.effects ?? []) {
+    if (!("effectType" in effect) || effect.effectType !== "integer") continue
+    summed[effect.metricId] = (summed[effect.metricId] ?? 0) + effect.effectValue
+  }
+  return summed
+}
+
+const IMPERIAL_MAXIMA: Record<string, string> = {
+  "imperial-mettle": "stamina-maximum",
+  tough: "health-maximum",
+}
+
+for (const [skill, metric] of Object.entries(IMPERIAL_MAXIMA)) {
+  test(`${skill} at rank 1 raises ${metric} by 600, and by 2000 with no rank stated`, () => {
+    const worn = wearing(1)
+    const build = { ...worn, passives: [...worn.passives, skill] }
+    expect(integerOn({ ...build, passiveRanks: { [skill]: 1 } }, skill)[metric]).toBe(600)
+    expect(integerOn(build, skill)[metric]).toBe(2000)
+  })
+}
+
 test("Undaunted Mettle with no rank stated is read at the rank its page states", () => {
   const summed = mettleOn(wearing(3))
   for (const metric of MAXIMA) {

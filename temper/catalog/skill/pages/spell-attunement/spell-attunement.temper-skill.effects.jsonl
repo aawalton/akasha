@@ -1,2 +1,4 @@
 {"id":"01a05fd1-7bff-7759-b8cb-77038117a4a9","metricId":"temper-metric-tree/metric-resistance-spell","type":"integer","value":2310,"rank":3}
 {"id":"01a05fd1-7bff-7d3a-acca-b036ffaef008","metricId":"temper-metric-tree/metric-magicka-recovery","type":"integer","value":130,"rank":3}
+{"id":"01a1570b-8186-7833-9b55-7883352da359","metricId":"temper-metric-tree/metric-resistance-spell","type":"integer","value":660,"rank":1}
+{"id":"01a1570b-8188-70bd-9ee6-2371561fe4c5","metricId":"temper-metric-tree/metric-magicka-recovery","type":"integer","value":40,"rank":1}
