@@ -1,8 +1,5 @@
 import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
-import {
-  type EquipmentQualityId,
-  resolveQuality,
-} from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import { resolveQuality } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import type {
   ArmorSlotItem,
@@ -11,6 +8,7 @@ import type {
 } from "akasha/temper/player/character/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
 import {
   createSetSource,
+  type SetItemWorn,
   type SetSource,
 } from "akasha/temper/player/character/characters-equipment/modules/set-source/set-source.module.code.ts"
 import { weaponTypes } from "akasha/temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
@@ -27,20 +25,25 @@ function piecesOf(item: EquipmentSlotItem): number {
   return weaponTypes.data[item.data.type].isTwoHanded ? 2 : 1
 }
 
-function getSetInfo(item: EquipmentSlotItem): { setId: Slug; quality: EquipmentQualityId } | null {
+function getSetInfo(item: EquipmentSlotItem): { setId: Slug; worn: SetItemWorn } | null {
   if (item.itemType === "empty" || item.data.set === "no-set") {
     return null
   }
 
   const quality = resolveQuality(item.data.quality)
 
-  return { setId: item.data.set, quality }
+  return { setId: item.data.set, worn: { quality, level: item.data.level } }
+}
+
+export interface SetWorn {
+  pieceCount: number
+  readonly items: SetItemWorn[]
 }
 
 export function setPiecesWorn(
   build: CharacterState,
   context: TranslationContext
-): ReadonlyMap<Slug, readonly EquipmentQualityId[]> {
+): ReadonlyMap<Slug, SetWorn> {
   const items: EquipmentSlotItem[] = [
     ...valuesOf(build.equipment.armor),
     ...valuesOf(build.equipment.jewelry),
@@ -63,17 +66,17 @@ export function setPiecesWorn(
     }
   }
 
-  const setData = new Map<Slug, EquipmentQualityId[]>()
+  const setData = new Map<Slug, SetWorn>()
 
   for (const item of items) {
     const info = getSetInfo(item)
     if (info) {
-      const pieces = Array<EquipmentQualityId>(piecesOf(item)).fill(info.quality)
       const existing = setData.get(info.setId)
       if (existing) {
-        existing.push(...pieces)
+        existing.pieceCount += piecesOf(item)
+        existing.items.push(info.worn)
       } else {
-        setData.set(info.setId, pieces)
+        setData.set(info.setId, { pieceCount: piecesOf(item), items: [info.worn] })
       }
     }
   }
@@ -83,8 +86,8 @@ export function setPiecesWorn(
 
 export const extractSets: PipelineStage = (build, context) => {
   const sources: SetSource[] = []
-  for (const [setId, qualities] of setPiecesWorn(build, context)) {
-    const setSource = createSetSource(setId, qualities.length, qualities)
+  for (const [setId, worn] of setPiecesWorn(build, context)) {
+    const setSource = createSetSource(setId, worn.pieceCount, worn.items)
     if (setSource) {
       sources.push(setSource)
     }

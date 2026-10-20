@@ -6,6 +6,7 @@ export const wornSetPieces = {
   slug: "worn-set-pieces",
   title: "Worn set pieces",
   setPieceMost: 12,
+  setBonusSlope: 0.01162,
   createdAt: "2026-09-27T06:52:57.012Z",
-  updatedAt: "2026-09-27T06:52:59.000Z",
+  updatedAt: "2026-10-20T18:40:53.204Z",
 } as const satisfies TemperSetRule

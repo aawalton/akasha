@@ -77,7 +77,7 @@ export const extractSets = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A two-handed weapon counts as two pieces toward its set.",
+      statement: "A two-handed weapon counts as two pieces toward its set and as one item worn.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -85,5 +85,5 @@ export const extractSets = {
     },
   ],
   createdAt: "2026-09-02T14:06:51.855Z",
-  updatedAt: "2026-10-19T23:24:17.161Z",
+  updatedAt: "2026-10-20T18:40:53.204Z",
 } as const satisfies Module

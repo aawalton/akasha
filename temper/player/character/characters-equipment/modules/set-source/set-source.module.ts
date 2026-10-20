@@ -5,7 +5,7 @@ export const setSource = {
   type: "page-type/module",
   slug: "set-source",
   definition:
-    "one effect source per gear set and piece count, scaled by the quality of the pieces worn",
+    "one effect source per gear set and piece count, scaled by the level and quality of the pieces worn",
   code: "ts",
   decisions: [
     {
@@ -14,11 +14,29 @@ export const setSource = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "What each worn piece's quality counts for is read from its quality page.",
+      statement: "Each worn item has the worth level an armor piece of its level and quality has.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The pieces' average is read down to the set bonus step pages.",
+      statement: "A two-handed weapon counts as two pieces and as one item.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A set's worth level is the mean of its items' worth levels, rounded down.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A set at a CP160 quality's worth level has that quality's share of each bonus line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A set between two such worth levels has a share running straight between theirs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A set below normal at CP160 loses the set rule page's slope for each worth level under it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -26,14 +44,9 @@ export const setSource = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "An average under every step is read down to the best quality among the pieces at or under it.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "Sources run up to the most worn pieces the set rule page states.",
     },
   ],
   createdAt: "2026-09-02T10:22:19.313Z",
-  updatedAt: "2026-10-20T16:13:42.689Z",
+  updatedAt: "2026-10-20T18:40:53.204Z",
 } as const satisfies Module

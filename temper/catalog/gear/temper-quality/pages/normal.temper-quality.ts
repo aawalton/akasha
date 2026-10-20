@@ -13,7 +13,7 @@ export const normal = {
   gameName: "Normal",
   weaponLevelScale: 0.7767790262172285,
   armorLevelScale: 0.9083,
-  setBonusScale: 0.8715,
+  setBonusScale: 0.8722,
   createdAt: "2026-05-16T07:51:31.601Z",
-  updatedAt: "2026-10-20T16:09:06.758Z",
+  updatedAt: "2026-10-20T18:40:53.204Z",
 } as const satisfies TemperQuality

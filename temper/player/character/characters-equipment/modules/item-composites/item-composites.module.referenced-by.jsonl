@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"item-composites.module.code.ts","path":"temper/player/character/characters-equipment/modules/jewelry-trait-effects/jewelry-trait-effects.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-composites.module.code.ts","path":"temper/player/character/characters-equipment/modules/level-scaling/level-scaling.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-composites.module.code.ts","path":"temper/player/character/characters-equipment/modules/loadout-types/loadout-types.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"item-composites.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-source/set-source.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-composites.module.code.ts","path":"temper/player/character/characters-equipment/modules/weapon-enchants/weapon-enchants.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-composites.module.code.ts","path":"temper/player/character/characters-equipment/modules/weapon-slot-access/weapon-slot-access.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-composites.module.code.ts","path":"temper/player/character/characters-equipment/modules/weapon-slot-mutations/weapon-slot-mutations.module.code.ts","typed":true,"deferred":false}

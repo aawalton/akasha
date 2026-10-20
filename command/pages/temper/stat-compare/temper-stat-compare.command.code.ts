@@ -155,9 +155,9 @@ function setsOn(build: CharacterState, bar: WeaponBar): string {
     )
   )
   return [...setPiecesWorn(build, { bar })]
-    .map(([set, pieces]) => {
+    .map(([set, worn]) => {
       const missing = sourced.has(set) ? "" : " not in catalog"
-      return `${set} ${String(pieces.length)}${missing}`
+      return `${set} ${String(worn.pieceCount)}${missing}`
     })
     .join(", ")
 }

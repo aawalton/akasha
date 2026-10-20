@@ -68,8 +68,9 @@ test("a set missing from the catalog is still counted among the pieces worn", ()
     equipment: { ...build.equipment, jewelry: { ...build.equipment.jewelry, necklace: unknown } },
   } as CharacterState
   const pieces = setPiecesWorn(worn, { bar: "primary-weapon-bar" })
-  expect(pieces.get("no-such-set-in-catalog")?.length).toBe(1)
-  expect(pieces.get("willpower")?.length).toBe(2)
+  expect(pieces.get("no-such-set-in-catalog")?.pieceCount).toBe(1)
+  expect(pieces.get("willpower")?.pieceCount).toBe(2)
+  expect(pieces.get("willpower")?.items.length).toBe(1)
   const ids = setIdsOn(worn, "primary-weapon-bar")
   expect(ids.some((id) => id.startsWith("set-no-such-set-in-catalog-"))).toBe(false)
 })

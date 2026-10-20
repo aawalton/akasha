@@ -30,6 +30,7 @@ import type {
 import {
   type LevelScaling,
   levelScalingOf,
+  topWorthLevel,
   worthLevel,
 } from "akasha/temper/player/character/characters-equipment/modules/level-scaling/level-scaling.module.code.ts"
 import type { MetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
@@ -105,9 +106,13 @@ const LEVELS_BELOW_LEGENDARY: Readonly<Record<EquipmentQualityId, number>> = {
   legendary: 0,
 }
 
+export function pieceWorthLevel(quality: EquipmentQualityId, level: ItemLevel | undefined): number {
+  const legendary = level === undefined ? topWorthLevel() : worthLevel(level)
+  return legendary - LEVELS_BELOW_LEGENDARY[quality]
+}
+
 function levelWorth(quality: EquipmentQualityId, level: ItemLevel, scaling: LevelScaling): number {
-  const pieceWorthLevel = worthLevel(level) - LEVELS_BELOW_LEGENDARY[quality]
-  return scaling.slope * pieceWorthLevel + scaling.intercept
+  return scaling.slope * pieceWorthLevel(quality, level) + scaling.intercept
 }
 
 export function getArmorValue(

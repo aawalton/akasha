@@ -1,8 +1,10 @@
 import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import {
   type EquipmentQualityId,
-  qualityScale,
+  equipmentQualities,
 } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import { pieceWorthLevel } from "akasha/temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.code.ts"
+import type { ItemLevel } from "akasha/temper/player/character/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import {
   type SetCatalog,
   setsAll,
@@ -60,9 +62,13 @@ let workedOut: WorkedOut | null = null
 
 let pieceMostHeld: number | null = null
 
+let slopeHeld: number | null = null
+
 export function holdSetRules(pages: Iterable<Readonly<Record<string, unknown>>>): undefined {
-  for (const row of pages)
+  for (const row of pages) {
     if (typeof row.setPieceMost === "number") pieceMostHeld = row.setPieceMost
+    if (typeof row.setBonusSlope === "number") slopeHeld = row.setBonusSlope
+  }
   return undefined
 }
 
@@ -84,30 +90,42 @@ export function isSetSourceId(value: string): value is SetSourceId {
   return setSources()[value] !== undefined
 }
 
-function calculateSetBonusMultiplier(pieceQualities: readonly EquipmentQualityId[]): number {
-  if (pieceQualities.length === 0) {
-    return 1.0
-  }
-
-  const totalMultiplier = pieceQualities.reduce(
-    (sum, quality) => sum + qualityScale(quality, "setBonusScale"),
-    0
-  )
-  const avgMultiplier = totalMultiplier / pieceQualities.length
-
-  for (const step of steps) if (avgMultiplier >= step) return step
-  const pieceScales = pieceQualities.map((quality) => qualityScale(quality, "setBonusScale"))
-  const atOrUnder = pieceScales.filter((scale) => scale <= avgMultiplier)
-  return Math.max(Math.min(...pieceScales), ...atOrUnder)
+export interface SetItemWorn {
+  readonly quality: EquipmentQualityId
+  readonly level: ItemLevel | undefined
 }
 
-let steps: readonly number[] = []
+type Anchor = readonly [worthLevel: number, share: number]
 
-export function holdSetBonusSteps(pages: Iterable<Readonly<Record<string, unknown>>>): undefined {
-  const held: number[] = []
-  for (const row of pages) if (typeof row.setBonusScale === "number") held.push(row.setBonusScale)
-  steps = held.sort((a, b) => b - a)
-  return undefined
+function qualityAnchors(): readonly Anchor[] {
+  const qualities = equipmentQualities()
+  const anchors: Anchor[] = []
+  for (const id of qualities.ids) {
+    const quality = qualities.data[id]
+    if (!quality.graded) continue
+    anchors.push([pieceWorthLevel(id as EquipmentQualityId, undefined), quality.setBonusScale])
+  }
+  return anchors.sort(([one], [two]) => one - two)
+}
+
+function shareAt(worthLevel: number): number {
+  if (slopeHeld === null) throw new Error("the set rule pages are held with the gear, unread")
+  let below: Anchor | undefined
+  for (const anchor of qualityAnchors()) {
+    const [at, share] = anchor
+    if (worthLevel <= at) {
+      if (below === undefined) return share - slopeHeld * (at - worthLevel)
+      const [from, fromShare] = below
+      return fromShare + ((share - fromShare) * (worthLevel - from)) / (at - from)
+    }
+    below = anchor
+  }
+  return below === undefined ? 1 : below[1]
+}
+
+function setBonusShare(items: readonly SetItemWorn[]): number {
+  const total = items.reduce((sum, item) => sum + pieceWorthLevel(item.quality, item.level), 0)
+  return shareAt(Math.floor(total / items.length))
 }
 
 function scaleSetBonusEffect(effect: Effect, multiplier: number): Effect {
@@ -123,7 +141,7 @@ function scaleSetBonusEffect(effect: Effect, multiplier: number): Effect {
 export function createSetSource(
   setId: Slug,
   pieceCount: number,
-  pieceQualities?: readonly EquipmentQualityId[]
+  items?: readonly SetItemWorn[]
 ): SetSource | null {
   const id = `set-${setId}-${pieceCount}`
 
@@ -132,11 +150,11 @@ export function createSetSource(
     return null
   }
 
-  if (!pieceQualities || pieceQualities.every((q) => q === "legendary")) {
+  if (items === undefined || items.length === 0) {
     return baseSource
   }
 
-  const multiplier = calculateSetBonusMultiplier(pieceQualities)
+  const multiplier = setBonusShare(items)
 
   if (multiplier >= 1.0) {
     return baseSource
