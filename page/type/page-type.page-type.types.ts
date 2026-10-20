@@ -5,6 +5,7 @@ import type { AllowsTmpPaths } from "akasha/page/type/properties/allows-tmp-path
 import type { BodyPropertyId } from "akasha/page/type/properties/body-property-id.text-property.types.ts"
 import type { DetailConfig } from "akasha/page/type/properties/detail-config.record-property.types.ts"
 import type { ExtendsType } from "akasha/page/type/properties/extends-type.multi-relation-property.types.ts"
+import type { HashFrozenIn } from "akasha/page/type/properties/hash-frozen-in.text-property.types.ts"
 import type { LoadedBy } from "akasha/page/type/properties/loaded-by.relation-property.types.ts"
 import type { LoadedExport } from "akasha/page/type/properties/loaded-export.text-property.types.ts"
 import type { MediaConfig } from "akasha/page/type/properties/media-config.record-property.types.ts"
@@ -52,5 +53,6 @@ export type PageType = Domain & {
   optionColors?: SelectOptionColors
   titleColoredBy?: TitleColoredBy
   hashIndexed?: HashIndexed
+  hashFrozenIn?: HashFrozenIn
   bodyPropertyId?: BodyPropertyId
 }

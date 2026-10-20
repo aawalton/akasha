@@ -185,6 +185,49 @@ test("a page given another place in the field its type is ordered by is refused"
   expect(said[0]?.reason).toContain('"a" moved from index 0 to index 1')
 })
 
+const FROZEN = "kit/frozen.data-table.code.ts"
+
+const FROZEN_ROWS: Marked = {
+  ...ROWS,
+  name: "hashPlace",
+  frozen: [{ code: FROZEN, name: "BEFORE" }],
+}
+
+test("a page taken out lands where a frozen table holds every entry at its old index", () => {
+  const placed = (at: number): string => `export const held = { hashPlace: ${at} }\n`
+  const over = changing(
+    {
+      [SKILL_A]: placed(0),
+      [SKILL_B]: placed(1),
+      [SKILL_C]: placed(2),
+      [FROZEN]: 'export const BEFORE = ["a", "b", "c"]\n',
+    },
+    { [SKILL_B]: null }
+  )
+  expect(refusalsOver(over, [FROZEN_ROWS], () => [SKILL_A, SKILL_C])).toEqual([])
+})
+
+test("a page taken out is refused where the frozen table holds an entry elsewhere", () => {
+  const placed = (at: number): string => `export const held = { hashPlace: ${at} }\n`
+  const over = changing(
+    {
+      [SKILL_A]: placed(0),
+      [SKILL_B]: placed(1),
+      [SKILL_C]: placed(2),
+      [FROZEN]: 'export const BEFORE = ["a", "c", "b"]\n',
+    },
+    { [SKILL_B]: null }
+  )
+  const said = refusalsOver(over, [FROZEN_ROWS], () => [SKILL_A, SKILL_C])
+  expect(said[0]?.reason).toContain('"b" was at index 1 and is gone')
+})
+
+test("a frozen table named on a marked page type is read into its mark", () => {
+  const was = `export const skill = { slug: "temper-skill", hashIndexed: ["hashPlace"], hashFrozenIn: ["${FROZEN} BEFORE"] }\n`
+  const over = changing({ [SKILL_TYPE]: was }, { [SKILL_TYPE]: was.replace("BEFORE", "AFTER") })
+  expect(markedBefore(over)).toEqual([FROZEN_ROWS])
+})
+
 test("the pages a type had are those there now less the added and with the taken", () => {
   const over = changing({ [SKILL_B]: "x", [SKILL_C]: "x" }, { [SKILL_A]: "x", [SKILL_C]: null })
   expect([...rowsWere(over, [SKILL_A, SKILL_B], "temper-skill")].sort()).toEqual([SKILL_B, SKILL_C])

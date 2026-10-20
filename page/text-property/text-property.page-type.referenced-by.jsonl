@@ -368,6 +368,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/type/properties/child-relation.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/type/properties/default-text.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/type/properties/fixed-value.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/type/properties/hash-frozen-in.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/type/properties/header-fields.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/type/properties/length-property-id.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/type/properties/load-scroll.text-property.ts","typed":true,"deferred":false}

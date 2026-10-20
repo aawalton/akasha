@@ -15,6 +15,8 @@ import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const HASH_INDEXED = "hashIndexed"
 
+const HASH_FROZEN_IN = "hashFrozenIn"
+
 const CODE = "code"
 
 const SLUG = "slug"
@@ -23,10 +25,22 @@ const SHOWN = 10
 
 export const MARKING: ReadonlySet<string> = new Set([module.slug, pageType.slug])
 
+type Frozen = {
+  readonly code: string
+  readonly name: string
+}
+
 export type Marked = {
   readonly page: string
   readonly name: string
   readonly code: string | null
+  readonly frozen?: readonly Frozen[]
+}
+
+function frozenOf(said: string): Frozen | null {
+  const [code, name, ...rest] = said.trim().split(" ")
+  if (code === undefined || name === undefined || rest.length > 0) return null
+  return { code, name }
 }
 
 export type World = {
@@ -45,7 +59,21 @@ export function marksOf(page: string, value: Value): readonly Marked[] {
   const names = textsAt(value, HASH_INDEXED) ?? []
   const held = textAt(value, CODE)
   const code = held === null ? null : besideAt(page, CODE, held)
-  return names.map((name) => ({ page, name, code }))
+  const frozen = (textsAt(value, HASH_FROZEN_IN) ?? []).flatMap((said) => {
+    const one = frozenOf(said)
+    return one === null ? [] : [one]
+  })
+  return names.map((name) =>
+    frozen.length === 0 ? { page, name, code } : { page, name, code, frozen }
+  )
+}
+
+export function keptByFrozen(one: Marked, was: TableRead, now: World): boolean {
+  if (!("entries" in was)) return false
+  return (one.frozen ?? []).some((frozen) => {
+    const table = tableIn(now.read, frozen.code, frozen.name)
+    return "entries" in table && movedIn(was.entries, table.entries).length === 0
+  })
 }
 
 export function markedIn(index: Answering): readonly Marked[] {

@@ -29,11 +29,23 @@ export const temperBuildHash = {
       statement: "Text that is no valid encoding is read as nothing rather than as bytes.",
     },
     {
-  decisionKind: "decision-kind/departure",
-  statement:
-    "An entry of a table a build hash indexes is never moved or removed, and a new one goes at the end.",
-},
+      decisionKind: "decision-kind/departure",
+      statement: "An entry of a table a build hash indexes keeps its place for every shipped minor.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A new entry of such a table goes at the end.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A new minor may drop or move entries only where every older minor reads a frozen table.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That frozen table holds each entry at the index the older minors read it by.",
+    },
   ],
   createdAt: "2026-09-02T15:37:18.097Z",
-  updatedAt: "2026-09-25T12:41:05.000Z",
+  updatedAt: "2026-10-20T01:04:15.015Z",
 } as const satisfies Domain

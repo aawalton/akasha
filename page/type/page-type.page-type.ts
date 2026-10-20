@@ -75,6 +75,7 @@ export const pageType = {
     "boolean-property/default-boolean",
     "number-property/default-number",
     "text-property/default-text",
+    "text-property/hash-frozen-in",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -121,6 +122,7 @@ export const pageType = {
     },
     { pageProperty: "relation-property/title-colored-by", required: false, many: false },
     { pageProperty: "text-property/hash-indexed", required: false, many: true, maxCount: null },
+    { pageProperty: "text-property/hash-frozen-in", required: false, many: true, maxCount: null },
     { pageProperty: "text-property/body-property-id", required: false, many: false },
   ],
 
@@ -240,5 +242,5 @@ export const pageType = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-28T18:43:20.236Z",
-  updatedAt: "2026-09-25T16:33:41.000Z",
+  updatedAt: "2026-10-20T01:04:15.015Z",
 } as const satisfies PageType

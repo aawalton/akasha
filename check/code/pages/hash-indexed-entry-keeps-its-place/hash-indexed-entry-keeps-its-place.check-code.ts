@@ -5,7 +5,7 @@ export const hashIndexedEntryKeepsItsPlace = {
   type: "page-type/check-code",
   slug: "hash-indexed-entry-keeps-its-place",
   definition:
-    "the check refusing a change that moves or removes an entry of a table a build hash reads by place",
+    "the check refusing a change that moves an entry of a table a build hash reads by place",
   parts: ["module/hash-table-entries"],
   runsOnChange: true,
   runsOnDeploy: true,
@@ -22,6 +22,19 @@ export const hashIndexedEntryKeepsItsPlace = {
     {
       decisionKind: "decision-kind/departure",
       statement: "An entry added after the last entry the base holds moves nothing and lands.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A marked page names in `hashFrozenIn` each table shipped codec minors read by.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Entries moved or taken out land where one such table holds each at its base index.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A table naming no frozen table keeps every entry in its place.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -116,5 +129,5 @@ export const hashIndexedEntryKeepsItsPlace = {
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
   createdAt: "2026-09-24T23:35:12.465Z",
-  updatedAt: "2026-09-27T11:00:56.000Z",
+  updatedAt: "2026-10-20T01:04:15.015Z",
 } as const satisfies CheckCode

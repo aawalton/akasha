@@ -1,5 +1,6 @@
 import {
   judged,
+  keptByFrozen,
   keyOf,
   MARKING,
   type Marked,
@@ -105,7 +106,9 @@ export function refusalsOver(
     if ("unread" in after && keptByPages(before, marks, now)) continue
     if ("pages" in after && pagesMarked(after.pages, marks)) continue
     const reason = judged(one, before, after)
-    if (reason !== null) said.push({ path: placeOf(one), reason })
+    if (reason === null) continue
+    if ("entries" in after && keptByFrozen(one, before, now)) continue
+    said.push({ path: placeOf(one), reason })
   }
   return said
 }

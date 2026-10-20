@@ -3595,6 +3595,7 @@
 {"propertySlug":"decision-kind","path":"page/type/properties/frame-auto-scroll.record-property.ts","id":"01a0683a-620a-738e-922d-fa0b734ddda1"}
 {"propertySlug":"decision-kind","path":"page/type/properties/frame-edge-to-edge.boolean-property.ts","id":"01a0683a-620a-782d-98a8-24d1f80e3ef8"}
 {"propertySlug":"decision-kind","path":"page/type/properties/frame-focus-mode.boolean-property.ts","id":"01a0683a-620a-7c50-9431-5e9e2efdc3e9"}
+{"propertySlug":"decision-kind","path":"page/type/properties/hash-frozen-in.text-property.ts","id":"01a156d6-6aa8-7bf0-8159-a65d00196b6b"}
 {"propertySlug":"decision-kind","path":"page/type/properties/header-fields.text-property.ts","id":"01a0683a-620a-7905-b43d-ad803b4fae71"}
 {"propertySlug":"decision-kind","path":"page/type/properties/image-media.record-property.ts","id":"01a062b8-8775-7002-af76-179b0e1a6c4c"}
 {"propertySlug":"decision-kind","path":"page/type/properties/length-property-id.text-property.ts","id":"01a0683a-620a-7c9f-8c62-ed7e2e10a9ca"}
