@@ -1,72 +1,56 @@
 {
   "build": {
     "mainHandWeaponType": 9,
-    "armor": {
+    "jewelry": {
       "1": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Heavy, Quickened"
+        "displayText": "Quickened",
+        "isEmpty": false
       },
       "2": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Heavy, Quickened"
+        "displayText": "Quickened",
+        "isEmpty": false
       },
       "3": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Heavy, Quickened"
-      },
-      "4": {
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Heavy, Quickened"
-      },
-      "5": {
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Heavy, Quickened"
-      },
-      "6": {
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Heavy, Quickened"
-      },
-      "7": {
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Heavy, Quickened"
+        "displayText": "Vigorous",
+        "isEmpty": false
       }
     },
-    "hash": "AjEIhtG0bRtG0bRtDQ0TGNPafMlxuIA",
+    "weapons": {
+      "1": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Restoration Staff, Quickened",
+        "isEmpty": false
+      },
+      "2": {
+        "qualityColor": {
+          "1": 0.5,
+          "2": 0.5,
+          "3": 0.5
+        },
+        "displayText": "Empty",
+        "isEmpty": true
+      }
+    },
+    "companionId": 13,
     "skillAbilityIds": {
       "1": 213158,
       "2": 155693,
@@ -75,56 +59,72 @@
       "5": 155411,
       "6": 213169
     },
-    "jewelry": {
+    "armor": {
       "1": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Quickened"
+        "displayText": "Heavy, Quickened",
+        "isEmpty": false
       },
       "2": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Quickened"
+        "displayText": "Heavy, Quickened",
+        "isEmpty": false
       },
       "3": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Vigorous"
+        "displayText": "Heavy, Quickened",
+        "isEmpty": false
+      },
+      "4": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Quickened",
+        "isEmpty": false
+      },
+      "5": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Quickened",
+        "isEmpty": false
+      },
+      "6": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Quickened",
+        "isEmpty": false
+      },
+      "7": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Quickened",
+        "isEmpty": false
       }
     },
-    "companionId": 13,
-    "weapons": {
-      "1": {
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Restoration Staff, Quickened"
-      },
-      "2": {
-        "isEmpty": true,
-        "qualityColor": {
-          "1": 0.5,
-          "2": 0.5,
-          "3": 0.5
-        },
-        "displayText": "Empty"
-      }
-    }
+    "hash": "AjEIhtG0bRtG0bRtDQ0TGNPafMlxuIA"
   },
   "targetBuildHash": "AjEAgAbRtG0bRtGAbQENExjTV8A",
   "level": 20,

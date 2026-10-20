@@ -2,90 +2,55 @@
   "build": {
     "weapons": {
       "1": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Restoration Staff, Quickened"
+        "displayText": "Restoration Staff, Quickened",
+        "isEmpty": false
       },
       "2": {
-        "isEmpty": true,
         "qualityColor": {
           "1": 0.5,
           "2": 0.5,
           "3": 0.5
         },
-        "displayText": "Empty"
+        "displayText": "Empty",
+        "isEmpty": true
       }
     },
-    "armor": {
+    "jewelry": {
       "1": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Light, Quickened"
+        "displayText": "Quickened",
+        "isEmpty": false
       },
       "2": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Light, Quickened"
+        "displayText": "Quickened",
+        "isEmpty": false
       },
       "3": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Light, Quickened"
-      },
-      "4": {
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Light, Quickened"
-      },
-      "5": {
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Light, Quickened"
-      },
-      "6": {
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Light, Quickened"
-      },
-      "7": {
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Light, Quickened"
+        "displayText": "Quickened",
+        "isEmpty": false
       }
     },
-    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
+    "mainHandWeaponType": 9,
+    "companionId": 2,
     "skillAbilityIds": {
       "1": 153685,
       "2": 155408,
@@ -94,37 +59,72 @@
       "5": 153066,
       "6": 157259
     },
-    "jewelry": {
+    "armor": {
       "1": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Quickened"
+        "displayText": "Light, Quickened",
+        "isEmpty": false
       },
       "2": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Quickened"
+        "displayText": "Light, Quickened",
+        "isEmpty": false
       },
       "3": {
-        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Quickened"
+        "displayText": "Light, Quickened",
+        "isEmpty": false
+      },
+      "4": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Light, Quickened",
+        "isEmpty": false
+      },
+      "5": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Light, Quickened",
+        "isEmpty": false
+      },
+      "6": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Light, Quickened",
+        "isEmpty": false
+      },
+      "7": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Light, Quickened",
+        "isEmpty": false
       }
     },
-    "companionId": 2,
-    "mainHandWeaponType": 9
+    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA"
   },
   "targetBuildHash": "AjEAItC0LQtC0LQtDQ0NGNOzqtY7WAA",
   "level": 20,
