@@ -123,6 +123,18 @@ export function getValidWeightsForSet(
   return validWeights
 }
 
+export function armorWeightUnderSet(
+  set: SetTemplate,
+  slot: ArmorSlotId,
+  weight: StandardArmorWeightId
+): StandardArmorWeightId {
+  const validWeights = getValidWeightsForSet(set, slot)
+  const onlyWeight = validWeights.length === 1 ? validWeights[0] : undefined
+  if (onlyWeight !== undefined) return onlyWeight
+  if (weight !== "no-weight" && !validWeights.includes(weight)) return "no-weight"
+  return weight
+}
+
 export function getValidTypesForSet(set: SetTemplate, slot: WeaponSlot): readonly WeaponTypeId[] {
   const allWeaponTypes: WeaponTypeId[] = [
     "sword",

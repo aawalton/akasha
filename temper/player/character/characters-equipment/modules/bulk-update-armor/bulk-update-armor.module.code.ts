@@ -6,7 +6,10 @@ import type { StandardArmorWeightId } from "akasha/temper/catalog/gear/equipment
 import type { SetTemplate } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
 import type { ArmorEnchantId } from "akasha/temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"
 import type { Loadout } from "akasha/temper/player/character/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
-import { isSetValidForArmorSlot } from "akasha/temper/player/character/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts"
+import {
+  armorWeightUnderSet,
+  isSetValidForArmorSlot,
+} from "akasha/temper/player/character/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts"
 
 export function bulkUpdateArmorWeight(
   equipment: Loadout,
@@ -138,10 +141,13 @@ export function bulkUpdateArmorSet(
     if (item.itemType === "armor") {
       const currentSet = item.data.set ?? "no-set"
       if (currentSet === oldValue) {
-        if (!newSet || isSetValidForArmorSlot(newSet, slotConfig.id)) {
+        if (!newSet) {
+          newArmor[slotConfig.id] = { itemType: "armor", data: { ...item.data, set: newValue } }
+        } else if (isSetValidForArmorSlot(newSet, slotConfig.id)) {
+          const weight = armorWeightUnderSet(newSet, slotConfig.id, item.data.weight ?? "no-weight")
           newArmor[slotConfig.id] = {
             itemType: "armor",
-            data: { ...item.data, set: newValue },
+            data: { ...item.data, set: newValue, weight },
           }
         }
       }

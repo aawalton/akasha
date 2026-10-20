@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"armor-weight-ids.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-source/armor-source.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"armor-weight-ids.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"armor-weight-ids.module.code.ts","path":"temper/player/character/characters-equipment/modules/bulk-update-armor/bulk-update-armor.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"armor-weight-ids.module.code.ts","path":"temper/player/character/characters-equipment/modules/bulk-update-armor/bulk-update-armor.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"armor-weight-ids.module.code.ts","path":"temper/player/character/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"armor-weight-ids.module.code.ts","path":"temper/player/character/characters-equipment/modules/item-composites/item-composites.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"armor-weight-ids.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts","typed":true,"deferred":false}

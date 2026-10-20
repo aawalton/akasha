@@ -33,6 +33,7 @@ import {
   getEquipmentIcon,
 } from "akasha/temper/player/character/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.code.ts"
 import {
+  armorWeightUnderSet,
   getValidSetsForArmorSlot,
   getValidWeightsForSet,
 } from "akasha/temper/player/character/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts"
@@ -124,25 +125,10 @@ export function ArmorCard({
 
   const handleSetSelect = (setId: Slug) => {
     const newSet = getSetById(setId, availableSets)
-    let updatedWeight: StandardArmorWeightId | undefined = armorWeightId ?? "no-weight"
+    const currentWeight = armorWeightId ?? "no-weight"
+    const updatedWeight = newSet ? armorWeightUnderSet(newSet, slot, currentWeight) : currentWeight
     const quality: EquipmentQualityOptionId | undefined =
       newSet?.subcategoryId === "mythic" ? "mythic" : undefined
-
-    if (newSet) {
-      const validWeights = getValidWeightsForSet(newSet, slot)
-
-      if (
-        armorWeightId != null &&
-        armorWeightId !== "no-weight" &&
-        !validWeights.includes(armorWeightId)
-      ) {
-        updatedWeight = "no-weight"
-      }
-
-      if (validWeights.length === 1) {
-        updatedWeight = validWeights[0]
-      }
-    }
 
     onUpdate({ set: setId, weight: updatedWeight, ...(quality != null && { quality }) })
   }
