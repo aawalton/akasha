@@ -8,26 +8,25 @@ export const temperWeaponType = {
   extends: ["page-type/temper-gear-thing"],
   parts: [
     "number-property/enchantment-multiplier",
-    "number-property/weapon-type-power",
     "text-property/eso-weapon-type",
     "number-property/eso-weapon-type-number",
+    "boolean-property/is-two-handed-melee",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "number-property/enchantment-multiplier", required: true, many: false },
     { pageProperty: "text-property/eso-weapon-type", required: true, many: false },
     { pageProperty: "boolean-property/is-two-handed", required: true, many: false },
-    { pageProperty: "number-property/weapon-type-power", required: true, many: false },
     { pageProperty: "one-of-property/valid-slots", required: true, many: true, maxCount: null },
     { pageProperty: "relation-property/skill-line", required: false, many: false },
     { pageProperty: "number-property/hash-place", required: true, many: false },
     { pageProperty: "number-property/eso-weapon-type-number", required: true, many: false },
-    { pageProperty: "number-property/level-intercept", required: true, many: false },
+    { pageProperty: "boolean-property/is-two-handed-melee", required: false, many: false },
   ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A weapon type states how its legendary power grows with item level.",
+      statement: "Every weapon type shares one power curve, and two-handed melee scales it.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -38,5 +37,5 @@ export const temperWeaponType = {
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
   createdAt: "2026-09-02T01:53:02.018Z",
-  updatedAt: "2026-10-20T19:06:21.443Z",
+  updatedAt: "2026-10-20T19:44:32.491Z",
 } as const satisfies PageType

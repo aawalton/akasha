@@ -9,11 +9,9 @@ export const dagger = {
   enchantmentMultiplier: 0.5,
   esoWeaponType: "WEAPONTYPE_DAGGER",
   isTwoHanded: false,
-  weaponPower: 1335,
   validSlots: ["temper-weapon-slot/main-hand"],
   hashPlace: 3,
   esoWeaponTypeNumber: 11,
-  levelIntercept: 217,
   createdAt: "2026-05-20T18:46:49.740Z",
-  updatedAt: "2026-10-20T18:25:50.837Z",
+  updatedAt: "2026-10-20T19:44:32.491Z",
 } as const satisfies TemperWeaponType

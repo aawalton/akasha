@@ -9,12 +9,10 @@ export const bow = {
   enchantmentMultiplier: 1,
   esoWeaponType: "WEAPONTYPE_BOW",
   isTwoHanded: true,
-  weaponPower: 1335,
   validSlots: ["temper-weapon-slot/main-hand"],
   skillLineId: "temper-skill-line/weapon-bow",
   hashPlace: 2,
   esoWeaponTypeNumber: 8,
-  levelIntercept: 217,
   createdAt: "2026-05-20T18:46:49.747Z",
-  updatedAt: "2026-10-20T18:25:50.837Z",
+  updatedAt: "2026-10-20T19:44:32.491Z",
 } as const satisfies TemperWeaponType

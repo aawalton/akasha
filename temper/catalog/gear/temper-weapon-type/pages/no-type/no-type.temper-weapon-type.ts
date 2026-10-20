@@ -9,11 +9,9 @@ export const noType = {
   enchantmentMultiplier: 0,
   esoWeaponType: "WEAPONTYPE_NONE",
   isTwoHanded: false,
-  weaponPower: 0,
   validSlots: ["temper-weapon-slot/main-hand"],
   hashPlace: 10,
   esoWeaponTypeNumber: 0,
-  levelIntercept: 0,
   createdAt: "2026-05-20T18:46:49.727Z",
-  updatedAt: "2026-10-20T18:25:50.837Z",
+  updatedAt: "2026-10-20T19:44:32.491Z",
 } as const satisfies TemperWeaponType

@@ -19,14 +19,19 @@ interface WeaponTypeTemplate {
   readonly name: string
   readonly esoWeaponType: string
   readonly validSlots: readonly string[]
-  readonly weaponPower: number
   readonly isTwoHanded: boolean
+  readonly isTwoHandedMelee: boolean
   readonly enchantmentMultiplier: number
   readonly skillLineId: string
-  readonly levelIntercept: number
 }
 
 type Row = Readonly<Record<string, unknown>>
+
+const LEVEL_ONE_POWER = 217
+
+const TOP_POWER = 1335
+
+const TWO_HANDED_MELEE_POWER = 1.177
 
 const ONE_HAND_LINES = "weapon-one-hand"
 
@@ -48,11 +53,10 @@ function typeOf(row: Row): WeaponTypeTemplate {
     name: String(row.title),
     esoWeaponType: String(row.esoWeaponType),
     validSlots: slots.map(slugOf),
-    weaponPower: Number(row.weaponPower),
     isTwoHanded: row.isTwoHanded === true,
+    isTwoHandedMelee: row.isTwoHandedMelee === true,
     enchantmentMultiplier: Number(row.enchantmentMultiplier),
     skillLineId: lineOf(row),
-    levelIntercept: Number(row.levelIntercept),
   }
 }
 
@@ -69,12 +73,12 @@ export function getWeaponPower(
     return 0
   }
 
-  const { weaponPower, levelIntercept } = weaponTypes.data[weaponType]
   const curve = quality === "legendary" ? "legendary" : "normal"
   const worth =
     pieceWorthLevel("legendary", level) +
     pieceWorthLevel(quality, level) -
     pieceWorthLevel(curve, level)
-  const growth = ((weaponPower - levelIntercept) * worth) / topWorthLevel()
-  return Math.floor((levelIntercept + growth) * qualityScale(curve, "weaponLevelScale"))
+  const growth = ((TOP_POWER - LEVEL_ONE_POWER) * worth) / topWorthLevel()
+  const hands = weaponTypes.data[weaponType].isTwoHandedMelee ? TWO_HANDED_MELEE_POWER : 1
+  return Math.floor((LEVEL_ONE_POWER + growth) * hands * qualityScale(curve, "weaponLevelScale"))
 }

@@ -11,6 +11,7 @@ export const temperArmorWeight = {
     "number-property/armor-base-value",
     "number-property/crafted-glyph-item-id",
     "number-property/level-slope",
+    "number-property/level-intercept",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
@@ -51,5 +52,5 @@ export const temperArmorWeight = {
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
   createdAt: "2026-09-02T01:53:02.000Z",
-  updatedAt: "2026-10-20T18:25:50.837Z",
+  updatedAt: "2026-10-20T19:44:32.491Z",
 } as const satisfies PageType

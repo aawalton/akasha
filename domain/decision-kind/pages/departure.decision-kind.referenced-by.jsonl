@@ -5679,6 +5679,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-weapon-enchant/temper-weapon-enchant.page-type.ts","id":"01a05fd1-d441-7e40-89d2-1fcb87133420"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.ts","id":"01a05fd1-d442-7dfe-a4bd-c74ac70298ff"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.ts","id":"01a05fd1-d442-7175-b5e4-f7ef9e21a36c"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-weapon-type/properties/is-two-handed-melee.boolean-property.ts","id":"01a15ad8-12ec-76c2-8e33-924f547f65a8"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts","id":"01a05fd1-d442-7b45-8a20-d4ff90ea6255"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/properties/buff-id.one-of-property.ts","id":"01a05fcc-41f1-7e7a-abd6-c8c6650999ad"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/properties/item-level.text-property.ts","id":"01a05fcc-41f3-75f3-b81e-993d8b24e369"}

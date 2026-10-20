@@ -15,7 +15,6 @@ export const temperGearThing = {
     "text-property/essence-rune",
     "text-property/glyph-name",
     "text-property/item-level",
-    "number-property/level-intercept",
     "one-of-property/valid-slots",
   ],
   properties: [
@@ -40,5 +39,5 @@ export const temperGearThing = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T01:46:56.879Z",
-  updatedAt: "2026-10-20T18:25:50.837Z",
+  updatedAt: "2026-10-20T19:44:32.491Z",
 } as const satisfies PageType
