@@ -8,11 +8,11 @@ export const buildCodecV52SkillPages = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The table holds one skill page to a line, so the table is read whole.",
+      statement: "The table is written in short lines, so the table is read whole.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "The skill page type names this order as frozen, so its rank pages may go.",
     },
-  ], createdAt: "2026-10-20T19:48:05.984Z", updatedAt: "2026-10-20T19:48:05.984Z",
+  ], createdAt: "2026-10-20T19:48:05.984Z", updatedAt: "2026-10-20T19:55:10.971Z",
 } as const satisfies DataTable
