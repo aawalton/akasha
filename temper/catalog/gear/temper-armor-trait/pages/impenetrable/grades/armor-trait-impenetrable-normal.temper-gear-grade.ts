@@ -8,7 +8,7 @@ export const armorTraitImpenetrableNormal = {
   thing: "temper-armor-trait/impenetrable",
   quality: "temper-quality/normal",
   metric: "temper-metric-tree/metric-resistance-critical",
-  value: 116,
+  value: 121,
   createdAt: "2026-09-24T14:53:57.865Z",
-  updatedAt: "2026-09-24T14:54:57.000Z",
+  updatedAt: "2026-10-20T17:48:42.544Z",
 } as const satisfies TemperGearGrade
