@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"character-build.page-type.ts","path":"temper/web/modules/build-version-page-type/build-version-page-type.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"character-build.page-type.types.ts","path":"temper/player/character/character-build/pages/max-max-magicka/max-max-magicka.character-build.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-build.page-type.types.ts","path":"temper/player/character/character-build/pages/new-build-2/new-build-2.character-build.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-build.page-type.types.ts","path":"temper/player/character/character-build/pages/new-build-3/new-build-3.character-build.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-build.page-type.types.ts","path":"temper/player/character/character-build/pages/new-build-4/new-build-4.character-build.ts","typed":true,"deferred":false}
