@@ -27,6 +27,11 @@ export const setSource = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A line adding Weapon and Spell Damage or Critical Chance takes the mean over pieces instead.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A set at a CP160 quality's worth level has that quality's share of each bonus line.",
     },
     {
@@ -48,5 +53,5 @@ export const setSource = {
     },
   ],
   createdAt: "2026-09-02T10:22:19.313Z",
-  updatedAt: "2026-10-20T18:40:53.204Z",
+  updatedAt: "2026-10-20T20:06:47.024Z",
 } as const satisfies Module

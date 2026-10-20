@@ -32,7 +32,7 @@ function getSetInfo(item: EquipmentSlotItem): { setId: Slug; worn: SetItemWorn }
 
   const quality = resolveQuality(item.data.quality)
 
-  return { setId: item.data.set, worn: { quality, level: item.data.level } }
+  return { setId: item.data.set, worn: { quality, level: item.data.level, pieces: piecesOf(item) } }
 }
 
 export interface SetWorn {

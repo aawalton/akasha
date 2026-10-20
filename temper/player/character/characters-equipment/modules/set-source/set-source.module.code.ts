@@ -93,6 +93,7 @@ export function isSetSourceId(value: string): value is SetSourceId {
 export interface SetItemWorn {
   readonly quality: EquipmentQualityId
   readonly level: ItemLevel | undefined
+  readonly pieces: number
 }
 
 type Anchor = readonly [worthLevel: number, share: number]
@@ -123,9 +124,17 @@ function shareAt(worthLevel: number): number {
   return below === undefined ? 1 : below[1]
 }
 
-function setBonusShare(items: readonly SetItemWorn[]): number {
-  const total = items.reduce((sum, item) => sum + pieceWorthLevel(item.quality, item.level), 0)
-  return shareAt(Math.floor(total / items.length))
+const PIECE_WEIGHTED_METRICS: ReadonlySet<string> = new Set(["power", "critical-rating"])
+
+function setBonusShare(items: readonly SetItemWorn[], byPiece: boolean): number {
+  let total = 0
+  let weight = 0
+  for (const item of items) {
+    const counted = byPiece ? item.pieces : 1
+    total += counted * pieceWorthLevel(item.quality, item.level)
+    weight += counted
+  }
+  return shareAt(Math.floor(total / weight))
 }
 
 function scaleSetBonusEffect(effect: Effect, multiplier: number): Effect {
@@ -154,13 +163,13 @@ export function createSetSource(
     return baseSource
   }
 
-  const multiplier = setBonusShare(items)
+  const byItem = setBonusShare(items, false)
+  const byPiece = setBonusShare(items, true)
 
-  if (multiplier >= 1.0) {
-    return baseSource
-  }
-
-  const scaledEffects = baseSource.effects.map((effect) => scaleSetBonusEffect(effect, multiplier))
+  const scaledEffects = baseSource.effects.map((effect) => {
+    const weighted = isMetricEffect(effect) && PIECE_WEIGHTED_METRICS.has(effect.metricId)
+    return scaleSetBonusEffect(effect, weighted ? byPiece : byItem)
+  })
 
   return {
     ...baseSource,
