@@ -73,3 +73,10 @@ test("a character's gaps from a design hash name no target stat and show the tot
   expect(said.report).toContain("totals (Temper)")
   expect(said.report.some((line) => line.trimStart().startsWith("food or drink"))).toBe(true)
 })
+
+test("a character's gaps answer as JSON", async () => {
+  const said = await shown([DESIGN, "--gaps", CHARACTER, "--json"])
+  const answer = JSON.parse(said.report.join("\n")) as { gaps: { place: string }[] }
+
+  expect(answer.gaps.map((one) => one.place)).toContain("food or drink")
+})
