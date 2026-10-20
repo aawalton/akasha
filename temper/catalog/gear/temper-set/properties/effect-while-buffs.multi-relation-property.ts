@@ -5,7 +5,7 @@ export const effectWhileBuffs = {
   type: "page-type/multi-relation-property",
   slug: "effect-while-buffs",
   propertySlug: "while-buffs",
-  definition: "the buffs a set bonus effect holds only while one of them is up",
+  definition: "the buffs an effect holds only while one of them is up",
   targetPageType: "page-type/temper-buff-other",
   decisions: [
     {
@@ -15,5 +15,5 @@ export const effectWhileBuffs = {
   ],
   types: "ts",
   createdAt: "2026-10-20T00:38:01.998Z",
-  updatedAt: "2026-10-20T00:38:01.998Z",
+  updatedAt: "2026-10-20T11:14:35.682Z",
 } as const satisfies MultiRelationProperty

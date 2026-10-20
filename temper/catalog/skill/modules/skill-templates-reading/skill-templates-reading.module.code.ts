@@ -120,12 +120,17 @@ function textOf(said: unknown): string {
   }
 }
 
+function keyedOf(said: unknown, keys: SkillKeys, where: string): unknown {
+  if (Array.isArray(said)) return said.map((one: unknown) => keyedOf(one, keys, where))
+  return keys.names(said) ? keys.of(said, where) : said
+}
+
 function effectOf(effect: Value, keys: SkillKeys, where: string): Value {
   const read: Record<string, unknown> = {}
   for (const [field, said] of Object.entries(effect)) {
     if (field === "id") continue
     const value = field === FOREVER && said === null ? Number.POSITIVE_INFINITY : said
-    read[RENAMED[field] ?? field] = keys.names(value) ? keys.of(value, where) : value
+    read[RENAMED[field] ?? field] = keyedOf(value, keys, where)
   }
   return read
 }

@@ -14,7 +14,7 @@ export const skillTemplatesReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page a skill names is read as the key that page states.",
+      statement: "A page a skill names, alone or in a list, is read as the key that page states.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -56,5 +56,5 @@ export const skillTemplatesReading = {
     },
   ],
   createdAt: "2026-09-26T16:00:53.854Z",
-  updatedAt: "2026-09-27T02:22:54.000Z",
+  updatedAt: "2026-10-20T11:14:35.682Z",
 } as const satisfies Module

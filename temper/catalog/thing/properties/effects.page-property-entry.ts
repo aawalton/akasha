@@ -35,6 +35,12 @@ export const effects = {
       maxCount: null,
     },
     { pageProperty: "number-property/effect-rank", required: false, many: false },
+    {
+      pageProperty: "multi-relation-property/effect-while-buffs",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {
@@ -53,5 +59,5 @@ export const effects = {
   ],
   types: "ts",
   createdAt: "2026-09-02T01:16:20.587Z",
-  updatedAt: "2026-10-20T02:30:51.243Z",
+  updatedAt: "2026-10-20T11:14:35.682Z",
 } as const satisfies PagePropertyEntry

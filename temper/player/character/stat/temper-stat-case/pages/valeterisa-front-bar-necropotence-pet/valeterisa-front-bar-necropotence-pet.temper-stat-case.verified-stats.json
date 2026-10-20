@@ -97,6 +97,7 @@
     { "championSkillId": 2, "points": 50, "maxPoints": 50 }
   ],
   "pinned": {
+    "health-maximum": 19936,
     "health-recovery": 373,
     "magicka-maximum": 69925,
     "magicka-recovery": 1415,
@@ -111,7 +112,6 @@
   "gaps": {
     "critical-rating-spell": 6448,
     "critical-rating-weapon": 6448,
-    "health-maximum": 19936,
     "penetration-physical": 6335,
     "penetration-spell": 6335
   }

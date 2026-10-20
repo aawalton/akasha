@@ -1,5 +1,6 @@
 import type { Id } from "akasha/page/properties/id.text-property.types.ts"
 import type { EffectValue } from "akasha/temper/catalog/companion/base-stat/properties/effect-value.number-property.types.ts"
+import type { EffectWhileBuffs } from "akasha/temper/catalog/gear/temper-set/properties/effect-while-buffs.multi-relation-property.types.ts"
 import type { BuffId } from "akasha/temper/catalog/gear/thing/properties/buff-id.one-of-property.types.ts"
 import type { DebuffId } from "akasha/temper/catalog/gear/thing/properties/debuff-id.relation-property.types.ts"
 import type { ArmorWeight } from "akasha/temper/catalog/thing/properties/armor-weight.text-property.types.ts"
@@ -40,4 +41,5 @@ export type EffectsRow = {
   perAbility?: PerAbility
   higherOf?: HigherOf
   rank?: EffectRank
+  whileBuffs?: EffectWhileBuffs
 }
