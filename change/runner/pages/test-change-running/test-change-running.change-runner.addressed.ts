@@ -77,6 +77,9 @@ export type Changes = {
   "change-agent/correct-reading-booleans": Parameters<
     typeof import("akasha/change/agent/file-content/correct-reading-booleans/correct-reading-booleans.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/correct-set-armor-lines": Parameters<
+    typeof import("akasha/change/agent/file-content/correct-set-armor-lines/correct-set-armor-lines.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/divide-file-code": Parameters<
     typeof import("akasha/change/agent/file/divide-file-code/divide-file-code.change-agent.code.ts")["runChange"]
   >[1]

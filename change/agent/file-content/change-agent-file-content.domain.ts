@@ -30,7 +30,8 @@ export const changeAgentFileContent = {
     "change-agent/drop-declaration-imports",
     "change-agent/repair-reading-line",
     "change-agent/correct-reading-booleans",
+    "change-agent/correct-set-armor-lines",
   ],
   createdAt: "2026-09-07T16:45:09.027Z",
-  updatedAt: "2026-10-20T13:35:45.281Z",
+  updatedAt: "2026-10-20T15:26:05.044Z",
 } as const satisfies Domain
