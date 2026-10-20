@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, readFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
@@ -58,7 +58,12 @@ const ENDING_SIGNALS: readonly NodeJS.Signals[] = [
   "SIGSTKFLT",
 ]
 
-export type Place = { readonly unit: string; readonly log: string; readonly ended: string }
+export type Place = {
+  readonly unit: string
+  readonly log: string
+  readonly ended: string
+  readonly writer: string
+}
 
 export type Env = Readonly<Record<string, string | undefined>>
 
@@ -86,7 +91,13 @@ export function stateHome(env: Env = process.env): string {
 
 export function placeFor(state: string, unit: string): Place & { readonly at: string } {
   const at = join(state, "akasha", "deploys")
-  return { at, unit, log: join(at, `${unit}.log`), ended: join(at, `${unit}.ended`) }
+  return {
+    at,
+    unit,
+    log: join(at, `${unit}.log`),
+    ended: join(at, `${unit}.ended`),
+    writer: join(at, `${unit}.ending.sh`),
+  }
 }
 
 export function carried(env: Env): readonly string[] {
@@ -96,8 +107,12 @@ export function carried(env: Env): readonly string[] {
     .map((one) => `--setenv=${one}`)
 }
 
-export function endingWriter(ended: string): string {
-  return `/bin/sh -c 'echo "$$SERVICE_RESULT $$EXIT_CODE $$EXIT_STATUS" > ${ended}'`
+export function endingScript(ended: string): string {
+  return `#!/bin/sh\necho "$SERVICE_RESULT $EXIT_CODE $EXIT_STATUS" > '${ended}'\n`
+}
+
+function endingWriter(writer: string): string {
+  return `/bin/sh ${writer}`
 }
 
 export function startArgv(
@@ -116,7 +131,7 @@ export function startArgv(
     `--property=RuntimeMaxSec=${String(RUNTIME_MAX_SECONDS)}`,
     `--property=StandardOutput=append:${place.log}`,
     `--property=StandardError=append:${place.log}`,
-    `--property=ExecStopPost=${endingWriter(place.ended)}`,
+    `--property=ExecStopPost=${endingWriter(place.writer)}`,
     ...carried(env),
     `--setenv=${DETACHED}=1`,
     `--setenv=${ROOT_NAME}=${root}`,
@@ -224,6 +239,7 @@ export async function detachedDeploy(
 ): Promise<Answer> {
   const place = placeFor(stateHome(env), unitFor(slug, now))
   mkdirSync(place.at, { recursive: true })
+  writeFileSync(place.writer, endingScript(place.ended))
   const started = starting(startArgv(given.root, place, words, env))
   if (started.code !== 0) {
     return answeredWith([], [saidOfUnstarted(place.unit, started.out)], OPERATIONAL)

@@ -86,6 +86,7 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/deploy/modules/bundle-publishing/deploy-bundle-publishing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/deploy/modules/desktop-app-promoting/deploy-desktop-app-promoting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/deploy/modules/detaching/deploy-detaching.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/deploy/modules/detaching/deploy-detaching.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts","typed":false,"deferred":false}

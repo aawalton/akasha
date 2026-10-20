@@ -44,6 +44,14 @@ export const deployDetaching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That ending is written by a script beside the log, so the unit holds no dollar.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A reload of the user manager while the service runs reads its unit again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A deploy ended by a signal or a ceiling is refused, naming how it ended.",
     },
     {
@@ -62,5 +70,5 @@ export const deployDetaching = {
     },
   ],
   createdAt: "2026-10-20T20:35:30.979Z",
-  updatedAt: "2026-10-20T20:41:17.903Z",
+  updatedAt: "2026-10-20T21:40:47.056Z",
 } as const satisfies Module

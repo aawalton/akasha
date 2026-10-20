@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
-import { appendFileSync, mkdirSync, mkdtempSync, writeFileSync } from "node:fs"
+import { appendFileSync, mkdirSync, mkdtempSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
@@ -9,6 +10,7 @@ import {
   DETACHED,
   detachedDeploy,
   endingIn,
+  endingScript,
   type Following,
   followed,
   placeFor,
@@ -87,7 +89,30 @@ test("the service is a user service named for the slug, running the launcher's d
   expect(argv).toContain(`--setenv=${DETACHED}=1`)
   expect(argv).toContain("--setenv=PATH")
   expect(argv.slice(argv.indexOf("--") + 2)).toEqual(["deploy", "auth-proxy", "--measured"])
-  expect(argv.find((one) => one.startsWith("--property=ExecStopPost="))).toContain(place.ended)
+  expect(argv.find((one) => one.startsWith("--property=ExecStopPost="))).toBe(
+    `--property=ExecStopPost=/bin/sh ${place.writer}`
+  )
+})
+
+test("the ending is written by a script beside the log, so the unit holds no dollar to expand", () => {
+  const place = placeFor("/state", UNIT)
+  const argv = startArgv(ROOT, place, ["auth-proxy"], { PATH: "/bin" })
+
+  expect(argv.find((one) => one.startsWith("--property=ExecStopPost="))).not.toContain("$")
+  expect(endingScript(place.ended)).toBe(
+    `#!/bin/sh\necho "$SERVICE_RESULT $EXIT_CODE $EXIT_STATUS" > '${place.ended}'\n`
+  )
+})
+
+test("the ending script writes what systemd hands it, whatever reloads came between", () => {
+  const place = placed()
+  writeFileSync(place.writer, endingScript(place.ended))
+  const done = ran(["/bin/sh", place.writer], {
+    env: { SERVICE_RESULT: "success", EXIT_CODE: "exited", EXIT_STATUS: "0" },
+  })
+
+  expect(done.code).toBe(0)
+  expect(endingIn(readFileSync(place.ended, "utf8"), place).code).toBe(0)
 })
 
 test("the log and the ending sit under the state folder, named for the unit", () => {
