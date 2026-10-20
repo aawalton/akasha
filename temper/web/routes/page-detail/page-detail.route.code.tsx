@@ -41,6 +41,7 @@ import {
 import { CharacterEditor } from "akasha/temper/web/modules/character-editor/character-editor.module.code.tsx"
 import { CompanionCatalogGate } from "akasha/temper/web/modules/companion-catalog-gate/companion-catalog-gate.module.code.tsx"
 import { CompanionEditor } from "akasha/temper/web/modules/companion-editor/companion-editor.module.code.tsx"
+import { currentCharacterBuild } from "akasha/temper/web/modules/current-build/current-build.module.code.ts"
 import { MetricCatalogGate } from "akasha/temper/web/modules/metric-catalog-gate/metric-catalog-gate.module.code.tsx"
 import { SetCatalogGate } from "akasha/temper/web/modules/set-catalog-gate/set-catalog-gate.module.code.tsx"
 import { SkillCatalogGate } from "akasha/temper/web/modules/skill-catalog-gate/skill-catalog-gate.module.code.tsx"
@@ -50,7 +51,7 @@ import {
   useWebPhrases,
 } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { pageDetailBuildUnreadable } from "akasha/temper/web/phrase/pages/page-detail-build-unreadable.temper-web-phrase.ts"
-import { useEffect } from "react"
+import { type ReactNode, useEffect } from "react"
 import { data, useSearchParams } from "react-router"
 import { toast } from "sonner"
 import type { Route } from "./+types/page-detail.route.code"
@@ -84,6 +85,24 @@ interface CompanionPageRow {
 
 function asCompanionPageRow(row: unknown): CompanionPageRow {
   return row as CompanionPageRow
+}
+
+function WithPageDetail({
+  pageTypeSlug,
+  detailId,
+  children,
+}: {
+  pageTypeSlug: string
+  detailId: string | null
+  children: ReactNode
+}) {
+  if (detailId === null) return <>{children}</>
+  return (
+    <>
+      {children}
+      <PageDetailContent pageTypeSlug={toPageTypeSlug(pageTypeSlug)} id={detailId} />
+    </>
+  )
 }
 
 export function meta({ data: loaderData }: Route.MetaArgs) {
@@ -131,8 +150,21 @@ export async function loader({ params, request }: Route.LoaderArgs) {
       kind: "character" as const,
       pageTypeSlug,
       faviconIdSuffix: null,
+      detailId: null,
       ...(await loadCharacterDetail(page, request)),
     })
+  }
+  if (pageTypeSlug === "temper-account-character") {
+    const build = await currentCharacterBuild(page, page.id)
+    if (build !== null) {
+      return data({
+        kind: "character" as const,
+        pageTypeSlug,
+        faviconIdSuffix: null,
+        detailId: page.id,
+        ...(await loadCharacterDetail(build, request)),
+      })
+    }
   }
   if (pageTypeSlug === "companion-build") {
     return data({
@@ -294,7 +326,7 @@ export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
   }
 
   if (loaderData.kind === "character") {
-    return (
+    const editor = (
       <SetCatalogGate
         fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />}
       >
@@ -324,6 +356,11 @@ export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
           </SkillCatalogGate>
         )}
       </SetCatalogGate>
+    )
+    return (
+      <WithPageDetail pageTypeSlug={loaderData.pageTypeSlug} detailId={loaderData.detailId}>
+        {editor}
+      </WithPageDetail>
     )
   }
 
