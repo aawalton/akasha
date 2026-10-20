@@ -404,7 +404,7 @@ export function useAllCharacterList(userId: string | null) {
   })
   const publicRead = usePages({
     pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
-    where: [{ key: "visibility", eq: "public" }],
+    where: [{ key: "visibility", neq: "private" }],
     order: [{ by: "updatedAt", dir: "desc" }],
     limit: 500,
   })

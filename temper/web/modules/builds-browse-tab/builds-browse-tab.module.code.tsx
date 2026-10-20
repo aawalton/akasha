@@ -75,7 +75,7 @@ export function useFilteredBuilds({
 
         if (tab === "build" && build.userId !== userId) return false
         if (tab === "build" && build.visibility === "live") return false
-        if (tab === "browse" && build.visibility !== "public") return false
+        if (tab === "browse" && build.visibility === "private") return false
 
         if (dSearch !== "" && !build.name.toLowerCase().includes(dSearch.toLowerCase())) {
           return false
