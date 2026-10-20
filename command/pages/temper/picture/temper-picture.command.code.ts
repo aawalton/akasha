@@ -67,6 +67,7 @@ export async function temperPicture(argv: readonly string[], given: Given): Prom
   const staged = await stageUiHarness({
     root: given.root,
     addon: window.addon,
+    ...(window.alongside === undefined ? {} : { alongside: window.alongside }),
     savedVariables: window.savedVariables,
     shows: window.shows,
     ...(window.stages === undefined ? {} : { stages: window.stages }),

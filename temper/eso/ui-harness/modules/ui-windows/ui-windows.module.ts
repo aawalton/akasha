@@ -78,6 +78,15 @@ export const uiWindows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A window states each other addon whose table its addon reads in the game.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The task display comes up beside the world addon, whose lead window says where leads are had.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A window the player's settings keep hidden is turned on by its own toggle.",
     },
     {
@@ -116,5 +125,5 @@ export const uiWindows = {
     },
   ],
   createdAt: "2026-09-22T18:34:22.283Z",
-  updatedAt: "2026-10-19T19:04:20.171Z",
+  updatedAt: "2026-10-20T18:36:49.985Z",
 } as const satisfies Module

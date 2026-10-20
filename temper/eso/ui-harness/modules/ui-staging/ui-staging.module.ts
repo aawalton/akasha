@@ -129,6 +129,15 @@ export const uiStaging = {
       decisionKind: "decision-kind/departure",
       statement: "A dependency with a build in no tree is passed over, as one not installed.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An addon a caller names alongside loads after the window's own addon, as the game loads it after.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An addon named alongside with a build in no tree refuses the staging.",
+    },
 
     {
       decisionKind: "decision-kind/departure",
@@ -241,5 +250,5 @@ export const uiStaging = {
     },
   ],
   createdAt: "2026-09-22T18:33:40.383Z",
-  updatedAt: "2026-10-19T16:33:56.923Z",
+  updatedAt: "2026-10-20T18:36:49.985Z",
 } as const satisfies Module

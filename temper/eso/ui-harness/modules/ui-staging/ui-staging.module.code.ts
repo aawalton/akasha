@@ -182,6 +182,7 @@ type Loading = { readonly loaded: string[]; readonly live: string[] }
 type StagingAsked = {
   readonly root: string
   readonly addon: string
+  readonly alongside?: readonly string[]
   readonly savedVariables: readonly string[]
   readonly shows: readonly string[]
   readonly stages?: string
@@ -364,6 +365,16 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
     const loaded = loading.loaded
     const near = [found.tree, ...trees.filter((one) => one !== found.tree)]
     await loadAddon(harness, near, dirname(found.bundle), asked.addon, declaring, loading)
+    for (const beside of asked.alongside ?? []) {
+      const at = builtDirIn(near, beside)
+      if (at === null) {
+        throw new Error(
+          `\`${beside}\` has no build under ${join(BUILT_UNDER, beside)}, so it cannot come up` +
+            ` beside \`${asked.addon}\` — \`akasha deploy\` builds it`
+        )
+      }
+      await loadAddon(harness, near, at, beside, declaring, loading)
+    }
     for (const source of seeded) {
       for (const chunk of savedChunks(source)) await harness.load(chunk)
     }

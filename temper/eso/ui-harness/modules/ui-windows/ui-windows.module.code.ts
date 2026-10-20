@@ -14,6 +14,7 @@ import {
 type UiWindow = {
   readonly slug: string
   readonly addon: string
+  readonly alongside?: readonly string[]
   readonly savedVariables: readonly string[]
   readonly shows: readonly string[]
   readonly control: string
@@ -185,7 +186,11 @@ const OWN_WINDOWS: readonly UiWindow[] = [
     "TemperAddonMenuSettingsWindow",
     'SLASH_COMMANDS["/temperinterface"]()'
   ),
-  ownWindow("task-hud", "TemperCharacters", "TemperTaskHUD_v2", SHOWS_HUD),
+  {
+    ...ownWindow("task-hud", "TemperCharacters", "TemperTaskHUD_v2", SHOWS_HUD),
+    alongside: ["TemperWorld"],
+    savedVariables: ["TemperCharacters", "TemperWorld"],
+  },
   ownWindow(
     "pithka-tracker",
     "TemperCharacters",
