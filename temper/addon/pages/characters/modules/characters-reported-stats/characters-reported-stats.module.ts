@@ -93,6 +93,10 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A reading keeps each advanced stat the game's sheet shows, as the game gives it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A reading keeps each Archive verse and vision held, with its stacks and its text.",
     },
@@ -162,5 +166,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-20T01:13:58.789Z",
+  updatedAt: "2026-10-20T11:31:36.762Z",
 } as const satisfies Module
