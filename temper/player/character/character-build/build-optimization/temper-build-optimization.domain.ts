@@ -33,6 +33,15 @@ export const temperBuildOptimization = {
       statement: "A build never holds a weight or weapon type its set does not allow.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game turns class mastery off while a build holds another class's skill line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A build's search compares class mastery, with all three lines its own class's, against subclassing.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement:
         "A bonus under a condition is weighed against the condition's cost, as a drink displaces food.",
@@ -67,5 +76,5 @@ export const temperBuildOptimization = {
     },
   ],
   createdAt: "2026-10-20T15:01:34.603Z",
-  updatedAt: "2026-10-20T15:01:34.603Z",
+  updatedAt: "2026-10-20T15:09:39.870Z",
 } as const satisfies Domain
