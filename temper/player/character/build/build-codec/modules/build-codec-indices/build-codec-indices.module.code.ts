@@ -312,6 +312,10 @@ export function passiveSkillIds(): readonly string[] {
   return skillPlacesNow().passiveIds
 }
 
+export function characterSkillIds(): readonly string[] {
+  return skillPlacesNow().ids
+}
+
 export function getSkillIndex(id: string): number {
   return skillPlacesNow().indexOf(id)
 }

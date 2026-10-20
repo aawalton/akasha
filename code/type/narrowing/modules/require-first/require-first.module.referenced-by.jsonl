@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/items/core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/items/rules/core/modules/affected-items-tree-builder/affected-items-tree-builder.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52-skills/build-codec-v52-skills.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/player/character/formula-framework/modules/arithmetic-evaluate/arithmetic-evaluate.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/player/character/formula-framework/modules/display-formula-convert/display-formula-convert.module.code.ts","typed":false,"deferred":false}

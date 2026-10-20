@@ -6321,6 +6321,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/build/bit-codec/temper-bit-codec.domain.ts","id":"01a060af-255f-7995-9b3e-b6dcbaae7cd7"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.ts","id":"01a062e7-4dbf-7cf4-a91c-960bc8977ebf"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-codec/modules/build-codec-v52-equipment/build-codec-v52-equipment.module.ts","id":"01a062e7-4dd2-7284-adf4-5912e7c3808f"}
+{"propertySlug":"decision-kind","path":"temper/player/character/build/build-codec/modules/build-codec-v52-rank-pages/build-codec-v52-rank-pages.data-table.ts","id":"01a156c4-e297-7828-9c63-cf48ad0a5592"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-codec/modules/build-codec-v52-skills/build-codec-v52-skills.module.ts","id":"01a062e7-4dd3-79ae-be15-6dd7b2efcddd"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-codec/modules/build-codec-v52/build-codec-v52.module.ts","id":"01a062e7-4dd0-7986-94bf-dbbb8f77aa09"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-codec/temper-build-codec.domain.ts","id":"01a062e7-4dd4-7379-91b1-47690a52822a"}

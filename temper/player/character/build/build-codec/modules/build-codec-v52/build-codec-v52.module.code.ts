@@ -210,7 +210,7 @@ function decodeBody(reader: BitReaderState, minorVersion: number): CharacterStat
 
   const equipment = decodeEquipment(reader, minorVersion)
 
-  const skills = decodeSkills(reader)
+  const skills = decodeSkills(reader, minorVersion)
 
   const purchased = decodePassives(reader, minorVersion)
 

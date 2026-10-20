@@ -13,6 +13,7 @@ export const temperBuildCodec = {
     "module/build-codec-v52-champion-points",
     "module/build-codec-v52-equipment",
     "module/build-codec-v52-skills",
+    "data-table/build-codec-v52-rank-pages",
   ],
   decisions: [
     {
@@ -50,5 +51,5 @@ export const temperBuildCodec = {
     },
   ],
   createdAt: "2026-09-02T16:15:21.044Z",
-  updatedAt: "2026-09-21T15:42:12.000Z",
+  updatedAt: "2026-10-20T00:45:06.070Z",
 } as const satisfies Domain

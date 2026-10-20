@@ -27,7 +27,19 @@ export const buildCodecV52Skills = {
       decisionKind: "decision-kind/departure",
       statement: "A hash written before minor version nine states no rank for any passive.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A hash before minor version ten is read with every rank page at its old place.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rank page's bit is read as its base page at the rank the hash or the table states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rank the hash states is kept over the rank the table gives the page.",
+    },
   ],
   createdAt: "2026-09-02T16:15:21.043Z",
-  updatedAt: "2026-10-19T23:34:53.871Z",
+  updatedAt: "2026-10-20T00:45:06.070Z",
 } as const satisfies Module

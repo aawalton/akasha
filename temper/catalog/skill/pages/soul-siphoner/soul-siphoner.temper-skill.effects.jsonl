@@ -1,1 +1,2 @@
-{"id":"01a05fe6-c3d3-77c6-adfa-8fcc8107b3e8","metricId":"temper-metric-tree/metric-healing-done-base","type":"slotted-ability-scaling","skillLineId":"temper-skill-line/nightblade-siphoning","valuePerAbility":0.03,"valueType":"fractional-change"}
+{"id":"01a05fe6-c3d3-77c6-adfa-8fcc8107b3e8","metricId":"temper-metric-tree/metric-healing-done-base","type":"slotted-ability-scaling","skillLineId":"temper-skill-line/nightblade-siphoning","valuePerAbility":0.03,"valueType":"fractional-change","rank":2}
+{"id":"01a156c4-e295-758c-b213-8b633bfbc497","metricId":"temper-metric-tree/metric-healing-done-base","type":"slotted-ability-scaling","skillLineId":"temper-skill-line/nightblade-siphoning","valuePerAbility":0.01,"valueType":"fractional-change","rank":1}

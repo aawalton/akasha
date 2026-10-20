@@ -185,7 +185,7 @@ function representativeBuild(): CharacterState {
         ultimate: getSkillId(355),
       },
     },
-    passives: [0, 5, 17, 100, 445].map(getPassiveSkillId),
+    passives: [0, 5, 16, 99, 445].map(getPassiveSkillId),
     scribing: [
       {
         skillId: "scribed-wield-soul-bleed-damage",
@@ -285,10 +285,36 @@ test("a passive written with no rank is read back with no rank", () => {
   expect(decodeBuild(encodeBuild(build))?.passiveRanks).toBeUndefined()
 })
 
-test("a hash the add-on saved before ranks were written reads its passives with no rank", () => {
+test("a hash the add-on saved before ranks were written reads a single-page passive with no rank", () => {
   const build = decodeBuild(buildHash(SAVED_BEFORE_RANKS))
   expect(build?.passives).toContain("undaunted-mettle")
-  expect(build?.passiveRanks).toBeUndefined()
+  expect(build?.passiveRanks?.["undaunted-mettle"]).toBeUndefined()
+})
+
+const SAVED_WITH_A_RANK_ONE_PAGE =
+  "ATQINIGgAABiRRP__VgAAAAAAAAAAAAAAAAAAAAAAAIkAIAQBgAAgAAAAAgAAhAAACIAIgBgAABAAAgMCAgAySAAAwAAMIAAAAgDABAAAAHAACAAGKwAAABVKwAAAAAAAAAAAPgAMmWAgk14ZLOeJjBIDGFAhHmwXWK1ymYYi54JJQiAHt5m1r2nmuHsoGQ"
+
+const SAVED_WITH_A_PAGE_MANY_RANKS_SET =
+  "ATQIVMUAAIBkRRMCU_lAANp_LckLmC25IXMFtyQuYLbkhcwW3JC5gtuQgUdrchBAq2cCCBVs4JhEx2gCIgmOtuUUYwnOLRMVTyekSVaToatMkAAgjUEABAGEACQAIAASAACEAADJwArAGYATkABCI0YABDJIFAjEQA0gAAACAMAHIAgQdUAADA4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0nAUAyDjEgaw"
+
+test("a rank page's bit before minor ten is read as its base page at that page's rank", () => {
+  const build = decodeBuild(buildHash(SAVED_WITH_A_RANK_ONE_PAGE))
+  expect(build?.passives).toContain("magicka-controller")
+  expect(build?.passives).not.toContain("magicka-controller-40438")
+  expect(build?.passiveRanks?.["magicka-controller"]).toBe(1)
+})
+
+test("a rank page's bit that more than one rank sets is read as its base page with no rank", () => {
+  const build = decodeBuild(buildHash(SAVED_WITH_A_PAGE_MANY_RANKS_SET))
+  expect(build?.passives).toContain("tough")
+  expect(build?.passives).not.toContain("tough-50903")
+  expect(build?.passiveRanks?.tough).toBeUndefined()
+})
+
+test("a build read from a rank page's bit is written and read back as that build", () => {
+  const build = decodeBuild(buildHash(SAVED_WITH_A_RANK_ONE_PAGE))
+  expect(build).not.toBeNull()
+  expect(decodeBuild(encodeBuild(build as CharacterState))).toEqual(build)
 })
 
 test("the character writer stamps update fifty-two", () => {
