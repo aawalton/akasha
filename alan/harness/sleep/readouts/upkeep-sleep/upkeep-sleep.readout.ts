@@ -30,15 +30,7 @@ export const upkeepSleep = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "No tracking day is no reading rather than a sleep of zero.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A tracking day with no sleep is no reading rather than a sleep of zero.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A day with no sleep stretch has no sleep rather than a sleep of zero.",
+      statement: "No tracking day yet, or a tracking day with no sleep yet, reads a sleep of zero.",
     },
 
     {
@@ -53,5 +45,5 @@ export const upkeepSleep = {
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   madeFrom: "day-row",
   createdAt: "2026-09-02T12:38:40.780Z",
-  updatedAt: "2026-10-18T13:32:41.384Z",
+  updatedAt: "2026-10-20T11:11:19.161Z",
 } as const satisfies Readout

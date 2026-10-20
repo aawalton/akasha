@@ -13,11 +13,9 @@ import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.
 
 const SERVED_BY = namedAs(module.slug, sleepReading.slug, null)
 
-const NOTHING_TO_TAKE =
-  "no tracking day carries a sleep, so there is no reading to take. A tile showing no signal is " +
-  "right where a tile showing a night Alan did not have would be a lie."
+const NO_SLEEP_YET = 0
 
-export async function takeReading(root: string, now: Date = new Date()): Promise<number | null> {
+export async function takeReading(root: string, now: Date = new Date()): Promise<number> {
   const asked = await askDayByDate(openedDayOf(resolveRoots(), now))
   if (!asked.ok) {
     throw new Error(
@@ -25,9 +23,7 @@ export async function takeReading(root: string, now: Date = new Date()): Promise
     )
   }
   const row = asked.rows[0]
-  if (row === undefined) return null
-  const hours = sleepIn(row.values)
-  if (hours === null) return null
+  const hours = (row === undefined ? null : sleepIn(row.values)) ?? NO_SLEEP_YET
   keepReading(root, readoutServedBy(root, SERVED_BY), hours, now)
   return hours
 }
@@ -35,11 +31,7 @@ export async function takeReading(root: string, now: Date = new Date()): Promise
 if (import.meta.main) {
   const root = rootStated(process.env) ?? process.cwd()
   try {
-    const hours = await takeReading(root)
-    if (hours === null) {
-      process.stderr.write(`${NOTHING_TO_TAKE}\n`)
-      process.exit(2)
-    }
+    await takeReading(root)
     process.stdout.write(`a sleep was taken and kept beside ${readoutServedBy(root, SERVED_BY)}\n`)
   } catch (thrown) {
     process.stderr.write(`${thrown instanceof Error ? thrown.message : String(thrown)}\n`)

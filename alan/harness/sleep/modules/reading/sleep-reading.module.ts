@@ -33,15 +33,11 @@ export const sleepReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day with no sleep is no reading rather than a reading of zero.",
+      statement: "A day with no sleep yet, or no tracking day yet, reads zero.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A day's sleep hours are a sum over that day's stretches.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A sum over no stretches is absent rather than zero.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -78,5 +74,5 @@ export const sleepReading = {
     },
   ],
   createdAt: "2026-09-03T23:56:10.458Z",
-  updatedAt: "2026-09-25T17:30:04.000Z",
+  updatedAt: "2026-10-20T11:11:19.161Z",
 } as const satisfies Module
