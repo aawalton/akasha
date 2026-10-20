@@ -3,6 +3,7 @@ import type { EquipmentQualityId } from "akasha/temper/catalog/gear/equipment/ki
 import {
   GLYPH_SUBTYPES_BY_GRADE,
   GLYPH_VALUES_BY_GRADE,
+  GLYPH_VALUES_BY_SUBTYPE_AND_LEVEL,
 } from "akasha/temper/catalog/gear/equipment/modules/glyph-grades/glyph-grades.data-table.code.ts"
 import { gradedEffectsAt } from "akasha/temper/catalog/gear/equipment/modules/graded-effects/graded-effects.module.code.ts"
 import {
@@ -119,21 +120,33 @@ function glyphNumber(legendary: number, best: readonly number[], now: readonly n
   return Math.sign(legendary) * scaled
 }
 
+function leveledGlyph(
+  enchant: string,
+  subtype: number | undefined,
+  level: number | undefined
+): readonly number[] | undefined {
+  if (subtype === undefined || level === undefined) return undefined
+  return GLYPH_VALUES_BY_SUBTYPE_AND_LEVEL[enchant]?.[`${subtype}/${level}`]
+}
+
 export function glyphEffectsAt(
   family: EnchantFamily,
   enchantId: string,
   quality: EquipmentQualityId,
-  subtype: number | undefined
+  subtype: number | undefined,
+  level?: number
 ): readonly MetricEffect[] {
   const legendary = enchantEffectsAt(family, enchantId, "legendary")
-  const values = GLYPH_VALUES_BY_GRADE[`${family}/${enchantId}`]
+  const enchant = `${family}/${enchantId}`
+  const values = GLYPH_VALUES_BY_GRADE[enchant]
+  const leveled = leveledGlyph(enchant, subtype, level)
   const at = GRADE_BY_SUBTYPE.get(subtype ?? SUBTYPE_BY_QUALITY[quality] ?? LEGENDARY_SUBTYPE)
   const top = GRADE_BY_SUBTYPE.get(LEGENDARY_SUBTYPE)
-  if (values === undefined || at === undefined || top === undefined) {
+  if (values === undefined || top === undefined || (leveled === undefined && at === undefined)) {
     return enchantEffectsAt(family, enchantId, quality)
   }
   const best = values[top] ?? []
-  const now = values[at] ?? []
+  const now = leveled ?? (at === undefined ? [] : (values[at] ?? []))
   return legendary.map((effect) =>
     effect.effectType === "integer"
       ? { ...effect, effectValue: glyphNumber(effect.effectValue, best, now) }

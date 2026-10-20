@@ -26,9 +26,13 @@ export const enchantReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A glyph below subtype 228 is found by its subtype and its glyph level.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A number no grade names at legendary is scaled as the grade's first number is.",
     },
   ],
   createdAt: "2026-09-27T04:03:00.540Z",
-  updatedAt: "2026-10-14T16:11:54.664Z",
+  updatedAt: "2026-10-20T17:45:44.331Z",
 } as const satisfies Module

@@ -21,7 +21,15 @@ export const glyphGrades = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only the subtypes from 228 up are kept, where gear at the level cap sits.",
+      statement: "The subtypes from 228 up are kept by grade, where gear at the level cap sits.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Below 228 a glyph is kept by its subtype and its glyph level together.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A glyph below 228 is kept only once a character sheet has shown its number.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -29,5 +37,5 @@ export const glyphGrades = {
     },
   ],
   createdAt: "2026-10-14T16:11:54.664Z",
-  updatedAt: "2026-10-14T16:11:54.664Z",
+  updatedAt: "2026-10-20T17:45:44.331Z",
 } as const satisfies DataTable

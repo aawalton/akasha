@@ -61,6 +61,26 @@ export const GLYPH_SUBTYPES_BY_GRADE: readonly (readonly number[])[] = [
   [400],
 ]
 
+export const GLYPH_VALUES_BY_SUBTYPE_AND_LEVEL: Readonly<
+  Record<string, Readonly<Record<string, readonly number[]>>>
+> = {
+  "armor/health": {
+    "20/5": [77],
+    "20/10": [90],
+    "20/15": [104],
+    "20/20": [122],
+    "20/25": [140],
+    "20/30": [162],
+    "20/35": [187],
+    "20/40": [215],
+    "20/45": [247],
+    "125/50": [284],
+    "127/50": [326],
+    "129/50": [375],
+    "131/50": [429],
+  },
+}
+
 export const GLYPH_VALUES_BY_GRADE: Readonly<Record<string, readonly (readonly number[])[]>> = {
   "armor/health": [
     [517],
