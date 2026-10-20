@@ -97,8 +97,15 @@ test("the log and the ending sit under the state folder, named for the unit", ()
   expect(place.ended).toBe(`/state/akasha/deploys/${UNIT}.ended`)
 })
 
-test("every name in the caller's environment is handed on but those systemd sets", () => {
-  const env = { PATH: "/bin", INVOCATION_ID: "x", "BASH_FUNC_f%%": "() {}", [DETACHED]: "1" }
+test("every name in the caller's environment is handed on but systemd's and the agent's", () => {
+  const env = {
+    PATH: "/bin",
+    INVOCATION_ID: "x",
+    "BASH_FUNC_f%%": "() {}",
+    [DETACHED]: "1",
+    AGENT_ID: "seat",
+    ACTING_AGENT_ID: "seat--sub",
+  }
 
   expect(carried(env)).toEqual(["--setenv=PATH"])
 })

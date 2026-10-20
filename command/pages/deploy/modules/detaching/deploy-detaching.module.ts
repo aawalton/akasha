@@ -23,7 +23,12 @@ export const deployDetaching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The service is handed every name in the caller's environment.",
+      statement: "The service is handed every name in the caller's environment but the agent's id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A detached deploy acts for no agent, so no sweep of an agent's processes ends it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -57,5 +62,5 @@ export const deployDetaching = {
     },
   ],
   createdAt: "2026-10-20T20:35:30.979Z",
-  updatedAt: "2026-10-20T20:35:30.979Z",
+  updatedAt: "2026-10-20T20:41:17.903Z",
 } as const satisfies Module

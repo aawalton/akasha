@@ -31,7 +31,9 @@ const ALIVE_EVERY = 5
 
 const NAME = /^[A-Za-z_][A-Za-z0-9_]*$/
 
-const SET_BY_SYSTEMD: ReadonlySet<string> = new Set([
+const UNCARRIED: ReadonlySet<string> = new Set([
+  "AGENT_ID",
+  "ACTING_AGENT_ID",
   "INVOCATION_ID",
   "JOURNAL_STREAM",
   "NOTIFY_SOCKET",
@@ -89,7 +91,7 @@ export function placeFor(state: string, unit: string): Place & { readonly at: st
 
 export function carried(env: Env): readonly string[] {
   return Object.keys(env)
-    .filter((one) => NAME.test(one) && !SET_BY_SYSTEMD.has(one) && env[one] !== undefined)
+    .filter((one) => NAME.test(one) && !UNCARRIED.has(one) && env[one] !== undefined)
     .sort()
     .map((one) => `--setenv=${one}`)
 }
