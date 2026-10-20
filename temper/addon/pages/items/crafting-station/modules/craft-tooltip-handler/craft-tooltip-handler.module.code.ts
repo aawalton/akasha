@@ -21,7 +21,7 @@ export function tooltipHandler(): undefined {
     origSetBagItem.call(this, bagId, slotIndex, displayFlags)
     const itemLink = GetItemLink(bagId, slotIndex, LINK_STYLE_DEFAULT)
     const uID = GetItemUniqueId(bagId, slotIndex)
-    tooltipShow(this, itemLink, uID !== undefined ? Id64ToString(uID) : undefined)
+    tooltipShow(this, itemLink, uID !== undefined ? Id64ToString(uID) : undefined, true)
   }
   const origSetWornItem = ItemTooltip.SetWornItem
   ItemTooltip.SetWornItem = function (this: TooltipControl, slotIndex: number, ...rest: unknown[]) {
@@ -51,12 +51,12 @@ export function tooltipHandler(): undefined {
   const origPopupSetLink = PopupTooltip.SetLink
   PopupTooltip.SetLink = function (this: TooltipControl, link: string, ...rest: unknown[]) {
     origPopupSetLink.call(this, link, ...rest)
-    tooltipShow(this, link)
+    tooltipShow(this, link, undefined, true)
   }
   const origSetLink = ItemTooltip.SetLink
   ItemTooltip.SetLink = function (this: TooltipControl, link: string, ...rest: unknown[]) {
     origSetLink.call(this, link, ...rest)
-    tooltipShow(this, link)
+    tooltipShow(this, link, undefined, true)
   }
   const origSetAttachedMailItem = ItemTooltip.SetAttachedMailItem
   ItemTooltip.SetAttachedMailItem = function (

@@ -194,7 +194,12 @@ export function tooltip(
   }
 }
 
-export function tooltipShow(control: TooltipControl, link: string, id?: string): undefined {
+export function tooltipShow(
+  control: TooltipControl,
+  link: string,
+  id?: string,
+  ownStockShown = false
+): undefined {
   const account = STATE.Account
   function localizeStorage(storage: string): string {
     let localize = ""
@@ -221,7 +226,6 @@ export function tooltipShow(control: TooltipControl, link: string, id?: string):
   }
   const stripedLink = stripLink(link)
   const [it, specializedItemType] = GetItemLinkItemType(link)
-  let store: string[] = []
   let need = ""
   let unneed = ""
   if (it === ITEMTYPE_RACIAL_STYLE_MOTIF) {
@@ -272,47 +276,28 @@ export function tooltipShow(control: TooltipControl, link: string, id?: string):
   if (unneed !== "" && account.options.displayknown) {
     control.AddLine(unneed, "TemperItemsCraftingFont")
   }
+  function addStockLine(prefix: string, storage: Record<string, number | undefined>): undefined {
+    const store: string[] = []
+    for (const [x, stock] of pairs(storage)) {
+      if (stock !== undefined && stock > 0) {
+        store.push(`|c8085FF${localizeStorage(x)}:|r |cC0C5FF${stock}|r`)
+      }
+    }
+    if (store.length > 0) {
+      control.AddLine(prefix + table.concat(store, ", "), "TemperItemsCraftingFont")
+    }
+  }
   const ownStorage = account.storage[stripedLink]
   if (account.options.showstock && ownStorage !== undefined) {
     const pairedInfo = account.materials[stripedLink]
     const pairedStorage = pairedInfo !== undefined ? account.storage[pairedInfo.link] : undefined
     if (pairedInfo !== undefined && pairedStorage !== undefined) {
-      let prefix1 = ""
-      let prefix2 = ""
-
-      if (pairedInfo.raw) {
-        prefix1 = "Raw: "
-        prefix2 = "Refined: "
-      } else {
-        prefix1 = "Refined: "
-        prefix2 = "Raw: "
+      if (!ownStockShown) {
+        addStockLine(pairedInfo.raw ? "Raw: " : "Refined: ", ownStorage)
       }
-      for (const [x, stock] of pairs(ownStorage)) {
-        if (stock !== undefined && stock > 0) {
-          store.push(`|c8085FF${localizeStorage(x)}:|r |cC0C5FF${stock}|r`)
-        }
-      }
-      if (store.length > 0) {
-        control.AddLine(prefix1 + table.concat(store, ", "), "TemperItemsCraftingFont")
-      }
-      store = []
-      for (const [x, stock] of pairs(pairedStorage)) {
-        if (stock !== undefined && stock > 0) {
-          store.push(`|c8085FF${localizeStorage(x)}:|r |cC0C5FF${stock}|r`)
-        }
-      }
-      if (store.length > 0) {
-        control.AddLine(prefix2 + table.concat(store, ", "), "TemperItemsCraftingFont")
-      }
-    } else {
-      for (const [x, stock] of pairs(ownStorage)) {
-        if (stock !== undefined && stock > 0) {
-          store.push(`|c8085FF${localizeStorage(x)}:|r |cC0C5FF${stock}|r`)
-        }
-      }
-      if (store.length > 0) {
-        control.AddLine(table.concat(store, ", "), "TemperItemsCraftingFont")
-      }
+      addStockLine(pairedInfo.raw ? "Refined: " : "Raw: ", pairedStorage)
+    } else if (!ownStockShown) {
+      addStockLine("", ownStorage)
     }
   }
 }

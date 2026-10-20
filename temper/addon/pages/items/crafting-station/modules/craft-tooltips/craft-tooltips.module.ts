@@ -20,7 +20,16 @@ export const craftTooltips = {
       decisionKind: "decision-kind/departure",
       statement: "The research grid at a crafting station names the characters.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Where the inventory location tooltip writes an item's stock, this module does not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A material's raw or refined counterpart is still written beside it.",
+    },
   ],
   createdAt: "2026-09-02T11:01:26.259Z",
-  updatedAt: "2026-10-20T00:28:24.162Z",
+  updatedAt: "2026-10-20T00:29:31.301Z",
 } as const satisfies Module
