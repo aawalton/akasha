@@ -2548,6 +2548,8 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/addon/typecheck/temper-addon-typecheck.command.ts","id":"01a0603c-c1cb-7d74-ac42-cf9ae26b02f5"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/auto-quest-trace/temper-auto-quest-trace.command.ts","id":"01a0603c-c1cb-7f65-8427-70fc0c00d3cf"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/build-show/modules/build-show-fields/build-show-fields.module.ts","id":"01a159b7-e764-7160-8e27-0ea96685bbd4"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/build-show/modules/build-show-gap-stats/build-show-gap-stats.module.ts","id":"01a15a05-8c5a-7a16-9357-17d69056dd72"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/build-show/modules/build-show-gaps/build-show-gaps.module.ts","id":"01a15a05-8c5b-7f35-8402-32478b81f560"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/build-show/modules/build-show-naming/build-show-naming.module.ts","id":"01a159b7-e764-7aa4-8033-f3ef8bdcd33e"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/build-show/temper-build-show.command.ts","id":"01a159b7-e764-7795-9a9c-3d573f94789b"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/build-test/temper-build-test.command.ts","id":"01a13be0-99cc-767e-aaa4-e90e397d6fd1"}

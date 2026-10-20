@@ -4,10 +4,16 @@ export const temperBuildShow = {
   id: "01a159b7-e764-7795-9a9c-3d573f94789b",
   type: "page-type/command",
   slug: "temper-build-show",
-  definition: "the command setting out what a build hash holds, or how two builds differ",
+  definition:
+    "the command setting out what a build holds, how two builds differ, or where a character falls short",
   code: "ts",
   test: "ts",
-  parts: ["module/build-show-fields", "module/build-show-naming"],
+  parts: [
+    "module/build-show-fields",
+    "module/build-show-naming",
+    "module/build-show-gaps",
+    "module/build-show-gap-stats",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -42,6 +48,15 @@ export const temperBuildShow = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A character named for its gaps shows only where it falls short of the first build.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A build is set against a second build or checked for gaps, not both.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A word that names nothing and does not decode is refused.",
     },
     {
@@ -52,9 +67,10 @@ export const temperBuildShow = {
   name: "build-show",
   arguments: [
     { argument: "argument/build", required: true, saidAs: "flag-or-word" },
-    { argument: "argument/compare" },
+    { argument: "argument/compare", notWith: ["argument/gaps"] },
+    { argument: "argument/gaps", notWith: ["argument/compare"] },
     { argument: "argument/json" },
   ],
   createdAt: "2026-10-20T14:29:46.979Z",
-  updatedAt: "2026-10-20T14:29:46.979Z",
+  updatedAt: "2026-10-20T15:54:35.482Z",
 } as const satisfies Command

@@ -1,4 +1,6 @@
 {"propertySlug":"import","fileName":"build-show-fields.module.code.ts","path":"command/pages/temper/build-show/modules/build-show-fields/build-show-fields.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-show-fields.module.code.ts","path":"command/pages/temper/build-show/modules/build-show-gap-stats/build-show-gap-stats.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-show-fields.module.code.ts","path":"command/pages/temper/build-show/modules/build-show-gaps/build-show-gaps.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"build-show-fields.module.code.ts","path":"command/pages/temper/build-show/modules/build-show-naming/build-show-naming.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"build-show-fields.module.code.ts","path":"command/pages/temper/build-show/temper-build-show.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/temper/build-show/temper-build-show.command.ts","id":"01a159b7-e764-7795-9a9c-3d573f94789b"}

@@ -1,6 +1,7 @@
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { build } from "akasha/command/argument/pages/build.argument.ts"
 import { compare } from "akasha/command/argument/pages/compare.argument.ts"
+import { gaps } from "akasha/command/argument/pages/gaps.argument.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
 import {
   asJson,
@@ -20,20 +21,31 @@ import {
   sectionsOf,
 } from "akasha/command/pages/temper/build-show/modules/build-show-fields/build-show-fields.module.code.ts"
 import {
+  gapLines,
+  gapsOf,
+  targetStatOf,
+} from "akasha/command/pages/temper/build-show/modules/build-show-gap-stats/build-show-gap-stats.module.code.ts"
+import {
   AS_HASH,
   type Named,
   namedIn,
 } from "akasha/command/pages/temper/build-show/modules/build-show-naming/build-show-naming.module.code.ts"
 import { temperBuildShow as page } from "akasha/command/pages/temper/build-show/temper-build-show.command.ts"
+import {
+  listedAt,
+  valueByPath,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { loadCompanionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { decodeCompanion } from "akasha/temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
+import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
+import { characterBuild } from "akasha/temper/player/character/character-build/character-build.page-type.ts"
 import { loadSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts"
 import { buildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
 import { loadMetricCatalog } from "akasha/temper/player/character/stat/modules/metric-catalog-loading/metric-catalog-loading.module.code.ts"
 
-const NAMED = [build, compare, json]
+const NAMED = [build, compare, gaps, json]
 
 type Shown = { readonly named: Named; readonly fields: readonly Field[] }
 
@@ -78,6 +90,39 @@ function aboutOf(named: Named): object {
   return { said: named.said, source: named.source, hash: named.hash }
 }
 
+function characterOf(named: Named): CharacterState | null {
+  return quietly(() => decodeBuild(buildHash(named.hash)))
+}
+
+function targetOf(root: string, named: Named): string | null {
+  if (named.source !== `${characterBuild.slug} ${named.said}`) return null
+  const found = listedAt(root, characterBuild.slug, named.said)[0]
+  const description = found === undefined ? null : valueByPath(root, found.path)?.description
+  return targetStatOf(named.said, typeof description === "string" ? description : "")
+}
+
+function gapsAnswer(root: string, design: Shown, said: string, asJsonToo: boolean): Answer {
+  const character = shownOf(root, said)
+  if ("refused" in character) return refused(character.refused, INPUT)
+  const wanted = characterOf(design.named)
+  const held = characterOf(character.named)
+  if (wanted === null || held === null) {
+    const which = wanted === null ? design.named.said : said
+    return refused(`\`${which}\` is a companion's build, and only a character's has gaps`, INPUT)
+  }
+  const target = targetOf(root, design.named)
+  const found = gapsOf(wanted, held, target, design.named.stars, character.named.stars)
+  if (asJsonToo) {
+    return asJson({ design: aboutOf(design.named), character: aboutOf(character.named), ...found })
+  }
+  return told([
+    `design: ${headOf(design.named)}`,
+    `character: ${headOf(character.named)}`,
+    "",
+    ...gapLines(found),
+  ])
+}
+
 export async function temperBuildShow(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, NAMED)
   if ("refused" in read) return mistaking(read.refused)
@@ -89,6 +134,8 @@ export async function temperBuildShow(argv: readonly string[], given: Given): Pr
   ])
   const first = shownOf(given.root, read.taken.build)
   if ("refused" in first) return refused(first.refused, INPUT)
+  const short = read.taken.gaps
+  if (short !== undefined) return gapsAnswer(given.root, first, short, read.taken.json)
   const against = read.taken.compare
   if (against === undefined) {
     if (read.taken.json) {

@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"command/pages/temper/build-show/modules/build-show-fields/build-show-fields.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"command/pages/temper/build-show/modules/build-show-fields/build-show-fields.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"command/pages/temper/build-show/modules/build-show-gaps/build-show-gaps.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52-champion-points/build-codec-v52-champion-points.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/player/character/build/modules/build-factory/build-factory.module.code.ts","typed":false,"deferred":false}
