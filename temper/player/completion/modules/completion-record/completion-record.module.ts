@@ -73,6 +73,19 @@ export const completionRecord = {
       statement: "Each such stat keeps the game's display format, flat value and percent.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Each such stat keeps the category and the name the game's panel shows it under.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A stat kept before the panel was walked keeps no category and no name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reading of reported stats keeps each number the character sheet shows that no stat holds.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement:
         "A character keeps the add-on's last rotation reading and each bar's inputs to it.",
@@ -92,5 +105,5 @@ export const completionRecord = {
     },
   ],
   createdAt: "2026-09-02T04:57:23.388Z",
-  updatedAt: "2026-10-20T13:18:06.960Z",
+  updatedAt: "2026-10-20T13:18:41.484Z",
 } as const satisfies Module

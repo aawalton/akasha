@@ -203,6 +203,8 @@ const advancedSheetFormatSchema = z.enum([
 export type AdvancedSheetFormat = z.infer<typeof advancedSheetFormatSchema>
 
 const advancedSheetValueSchema = z.strictObject({
+  category: z.string().optional(),
+  label: z.string().optional(),
   format: advancedSheetFormatSchema,
   flat: z.number().optional(),
   percent: z.number().optional(),
@@ -225,6 +227,7 @@ export const reportedStatsReadingSchema = z.strictObject({
   archiveBoons: luaArrayOrEmpty(archiveBoonSchema).optional(),
   advanced: z.record(z.string(), z.number()).optional(),
   advancedSheet: z.record(z.string(), advancedSheetValueSchema).optional(),
+  sheet: z.record(z.string(), z.number()).optional(),
   buffs: numbers.optional(),
   passiveRankIds: luaArrayOrEmpty(numbers).optional(),
 })
