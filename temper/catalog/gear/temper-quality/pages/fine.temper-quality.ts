@@ -13,7 +13,7 @@ export const fine = {
   gameName: "Fine",
   weaponLevelScale: 0.8029962546816479,
   armorLevelScale: 0.9427,
-  setBonusScale: 0.9067,
+  setBonusScale: 0.907,
   createdAt: "2026-05-16T07:51:31.604Z",
-  updatedAt: "2026-10-20T02:13:18.302Z",
+  updatedAt: "2026-10-20T16:13:42.689Z",
 } as const satisfies TemperQuality

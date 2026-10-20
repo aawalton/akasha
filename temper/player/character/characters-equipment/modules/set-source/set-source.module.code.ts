@@ -114,7 +114,7 @@ function scaleSetBonusEffect(effect: Effect, multiplier: number): Effect {
   if (isMetricEffect(effect) && effect.effectType === "integer" && multiplier < 1.0) {
     return {
       ...effect,
-      effectValue: Math.round(effect.effectValue * multiplier),
+      effectValue: Math.floor(effect.effectValue * multiplier),
     }
   }
   return effect

@@ -22,6 +22,10 @@ export const setSource = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A bonus line scaled below legendary drops its fraction.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "An average under every step is read down to the best quality among the pieces at or under it.",
     },
@@ -31,5 +35,5 @@ export const setSource = {
     },
   ],
   createdAt: "2026-09-02T10:22:19.313Z",
-  updatedAt: "2026-10-20T15:17:18.951Z",
+  updatedAt: "2026-10-20T16:13:42.689Z",
 } as const satisfies Module

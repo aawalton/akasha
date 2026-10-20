@@ -5,7 +5,7 @@ export const nearFullSetBonus = {
   type: "page-type/temper-set-bonus-step",
   slug: "near-full-set-bonus",
   title: "Near-full set bonus",
-  setBonusScale: 0.988,
+  setBonusScale: 0.9885,
   createdAt: "2026-09-27T05:57:55.684Z",
-  updatedAt: "2026-09-27T05:57:58.000Z",
+  updatedAt: "2026-10-20T16:13:42.689Z",
 } as const satisfies TemperSetBonusStep
