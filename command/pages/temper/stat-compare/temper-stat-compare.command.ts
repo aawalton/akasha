@@ -69,11 +69,11 @@ export const temperStatCompare = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Maximum Health, Magicka and Stamina read under two seconds after Fete changed are unsettled.",
+        "Maximum Health, Magicka and Stamina read under 3.3 seconds after Fete changed are unsettled.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "Two seconds is a guess until a capture of Fete ramping measures the game's lag.",
+      decisionKind: "decision-kind/constraint",
+      statement: "The game's maximum stats have trailed a Fete change by just over 3 seconds.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -142,5 +142,5 @@ export const temperStatCompare = {
     { argument: "argument/json" },
   ],
   createdAt: "2026-10-14T14:17:00.259Z",
-  updatedAt: "2026-10-20T14:29:46.979Z",
+  updatedAt: "2026-10-20T18:37:14.294Z",
 } as const satisfies Command

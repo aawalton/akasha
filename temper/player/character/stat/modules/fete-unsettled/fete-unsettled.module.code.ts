@@ -1,4 +1,4 @@
-export const FETE_LAG_MS = 2_000
+export const FETE_LAG_MS = 3_300
 
 const FETE_STATS: ReadonlySet<string> = new Set([
   "health-maximum",

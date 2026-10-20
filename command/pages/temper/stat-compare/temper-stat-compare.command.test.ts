@@ -160,10 +160,11 @@ test("stamina recovery read while blocking or moving is marked as no steady valu
   expect(rowLine(row, 16)).toMatch(/^ {2}~ stamina-recovery +0 +514 +\+514 {2}moving, not steady$/)
 })
 
-test("a maximum stat read under two seconds after Fete changed is marked unsettled", () => {
+test("a maximum stat read under 3.3 seconds after Fete changed is marked unsettled", () => {
   const lately = { stacks: 30, changedMsAgo: 800 }
 
   expect(isUnsettled("stamina-maximum", lately)).toBe(true)
+  expect(isUnsettled("magicka-maximum", { stacks: 6, changedMsAgo: 3075 })).toBe(true)
   expect(isUnsettled("health-maximum", lately)).toBe(true)
   expect(isUnsettled("stamina-recovery", lately)).toBe(false)
   expect(isUnsettled("stamina-maximum", { stacks: 30, changedMsAgo: FETE_LAG_MS })).toBe(false)
