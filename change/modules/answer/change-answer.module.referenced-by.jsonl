@@ -34,6 +34,7 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/file-content/rename-folder-imports/rename-folder-imports.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/file-content/rename-spellings/rename-spellings.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/file-content/rename-spellings/rename-spellings.change-agent.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/file-content/repair-reading-line/repair-reading-line.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/file/add-binary-file/add-binary-file.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/file/add-binary-file/add-binary-file.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/file/add-file/add-file.change-agent.code.ts","typed":false,"deferred":false}

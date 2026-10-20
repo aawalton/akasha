@@ -188,6 +188,9 @@ export type Changes = {
   "change-agent/rename-spellings": Parameters<
     typeof import("akasha/change/agent/file-content/rename-spellings/rename-spellings.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/repair-reading-line": Parameters<
+    typeof import("akasha/change/agent/file-content/repair-reading-line/repair-reading-line.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/sort-property-values-on-every-page": Parameters<
     typeof import("akasha/change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.code.ts")["runChange"]
   >[1]

@@ -28,7 +28,8 @@ export const changeAgentFileContent = {
     "change-agent/add-property-to-pages",
     "change-agent/rename-spellings",
     "change-agent/drop-declaration-imports",
+    "change-agent/repair-reading-line",
   ],
   createdAt: "2026-09-07T16:45:09.027Z",
-  updatedAt: "2026-09-26T16:46:29.000Z",
+  updatedAt: "2026-10-20T00:07:21.952Z",
 } as const satisfies Domain
