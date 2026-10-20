@@ -36,6 +36,7 @@ import {
   extractSets,
   setPiecesWorn,
 } from "akasha/temper/player/character/stat/modules/extract-sets/extract-sets.module.code.ts"
+import { isUnsettled } from "akasha/temper/player/character/stat/modules/fete-unsettled/fete-unsettled.module.code.ts"
 import { loadMetricCatalog } from "akasha/temper/player/character/stat/modules/metric-catalog-loading/metric-catalog-loading.module.code.ts"
 import { estimatedOf } from "akasha/temper/player/character/stat/modules/stat-case/stat-case.module.code.ts"
 import { readings } from "akasha/temper/player/character/temper-account-character/properties/readings.file-property.ts"
@@ -56,6 +57,7 @@ type Row = {
   readonly game: number
   readonly estimate: number | null
   readonly unsteady: string | null
+  readonly unsettled: boolean
 }
 
 const UNSTEADY_WHILE_BLOCKING_OR_MOVING = new Set(["stamina-recovery"])
@@ -111,6 +113,7 @@ function comparedOf(line: ReadingLine): Compared {
       game: reading.stats[one] ?? 0,
       estimate: estimate === null ? null : estimate(one),
       unsteady: unsteadyOf(reading, one),
+      unsettled: isUnsettled(one, reading.fete),
     }))
   return { line, build: buildOf(line.buildHash), rows, unmatchedBuffs, unestimated }
 }
@@ -196,13 +199,18 @@ function cell(text: string): string {
 }
 
 function unsteadySaid(row: Row): string {
+  if (row.unsettled) return "  Fete changed lately, unsettled"
   return row.unsteady === null ? "" : `  ${row.unsteady}, not steady`
+}
+
+function isCounted(row: Row): boolean {
+  return row.unsteady === null && !row.unsettled
 }
 
 export function rowLine(row: Row, width: number): string {
   const estimate = row.estimate === null ? "-" : String(row.estimate)
   const delta = row.estimate === null ? "-" : signed(row.estimate - row.game)
-  const mark = row.unsteady !== null ? "~" : row.estimate === row.game ? "=" : " "
+  const mark = !isCounted(row) ? "~" : row.estimate === row.game ? "=" : " "
   return `  ${mark} ${row.stat.padEnd(width)} ${cell(String(row.game))} ${cell(estimate)} ${cell(delta)}${unsteadySaid(row)}`
 }
 
@@ -257,8 +265,10 @@ export function characterSheetLines(reading: ReadingLine["reading"]): readonly s
 
 function blockOf(one: Compared): readonly string[] {
   const width = Math.max(4, ...one.rows.map((row) => row.stat.length))
-  const steady = one.rows.filter((row) => row.unsteady === null)
+  const steady = one.rows.filter(isCounted)
   const matched = steady.filter((row) => row.estimate === row.game).length
+  const unsettled = one.rows.filter((row) => row.unsettled).length
+  const unsettledSaid = unsettled === 0 ? "" : `, ${String(unsettled)} unsettled by Fete`
   const head = `    ${"stat".padEnd(width)} ${cell("game")} ${cell("temper")} ${cell("diff")}`
   return [
     headerOf(one.line, one.build?.character ?? null),
@@ -266,7 +276,7 @@ function blockOf(one: Compared): readonly string[] {
     ...(one.unestimated === null ? [] : [`  no estimate: ${one.unestimated}`]),
     head,
     ...one.rows.map((row) => rowLine(row, width)),
-    `  ${String(matched)} of ${String(steady.length)} steady stats match`,
+    `  ${String(matched)} of ${String(steady.length)} steady stats match${unsettledSaid}`,
     ...advancedSheetLines(one.line.reading),
     ...characterSheetLines(one.line.reading),
     "",
@@ -278,7 +288,7 @@ function statLine(one: Compared, row: Row | undefined): string {
   const said = [...lead, combatOf(one.line)].join("  ")
   if (row === undefined) return `${said}  not reported`
   if (row.estimate === null) return `${said}  game ${String(row.game)}  no estimate`
-  const mark = row.unsteady === null && row.estimate === row.game ? "  =" : ""
+  const mark = isCounted(row) && row.estimate === row.game ? "  =" : ""
   return `${said}  game ${String(row.game)}  temper ${String(row.estimate)}  ${signed(row.estimate - row.game)}${mark}${unsteadySaid(row)}`
 }
 

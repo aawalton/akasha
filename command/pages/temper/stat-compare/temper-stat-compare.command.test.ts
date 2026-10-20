@@ -12,6 +12,10 @@ import {
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import { dragonknight } from "akasha/temper/catalog/skill/temper-class/pages/dragonknight.temper-class.ts"
 import { imperial } from "akasha/temper/catalog/world/temper-race/pages/imperial.temper-race.ts"
+import {
+  FETE_LAG_MS,
+  isUnsettled,
+} from "akasha/temper/player/character/stat/modules/fete-unsettled/fete-unsettled.module.code.ts"
 
 const ROOT = codeRoot()
 
@@ -143,8 +147,35 @@ test("stamina recovery read while blocking or moving is marked as no steady valu
   expect(unsteadyOf(blocking, "stamina-recovery")).toBe("blocking")
   expect(unsteadyOf(moving, "stamina-maximum")).toBeNull()
   expect(unsteadyOf(LINE.reading, "stamina-recovery")).toBeNull()
-  const row = { stat: "stamina-recovery", game: 0, estimate: 514, unsteady: "moving" }
+  const row = {
+    stat: "stamina-recovery",
+    game: 0,
+    estimate: 514,
+    unsteady: "moving",
+    unsettled: false,
+  }
   expect(rowLine(row, 16)).toMatch(/^ {2}~ stamina-recovery +0 +514 +\+514 {2}moving, not steady$/)
+})
+
+test("a maximum stat read under two seconds after Fete changed is marked unsettled", () => {
+  const lately = { stacks: 30, changedMsAgo: 800 }
+
+  expect(isUnsettled("stamina-maximum", lately)).toBe(true)
+  expect(isUnsettled("health-maximum", lately)).toBe(true)
+  expect(isUnsettled("stamina-recovery", lately)).toBe(false)
+  expect(isUnsettled("stamina-maximum", { stacks: 30, changedMsAgo: FETE_LAG_MS })).toBe(false)
+  expect(isUnsettled("stamina-maximum", { stacks: 30 })).toBe(false)
+  expect(isUnsettled("stamina-maximum", undefined)).toBe(false)
+  const row = {
+    stat: "stamina-maximum",
+    game: 84424,
+    estimate: 84336,
+    unsteady: null,
+    unsettled: true,
+  }
+  expect(rowLine(row, 15)).toMatch(
+    /^ {2}~ stamina-maximum +84424 +84336 +-88 {2}Fete changed lately, unsettled$/
+  )
 })
 
 test("a reading named both by when it was captured and by its id is refused", async () => {
