@@ -214,8 +214,9 @@ export function computeTpsMetrics(
         if (buff === "major-resolve" || buff === "minor-resolve") {
           const buffArmor = value ?? 0
           const buffedMitigation = companionArmorMitigation(baseArmor + buffArmor)
-          const incrementalMitigation = buffedMitigation - baseMitigation
-          const armorContribution = (healthMax * incrementalMitigation) / damageTakenMult
+          const armorContribution =
+            healthMax / ((1 - buffedMitigation) * damageTakenMult) -
+            healthMax / ((1 - baseMitigation) * damageTakenMult)
           buffToughness += armorContribution * summary.uptime
         }
 

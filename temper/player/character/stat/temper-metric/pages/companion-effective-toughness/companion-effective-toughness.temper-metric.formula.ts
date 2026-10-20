@@ -4,11 +4,34 @@ export const FORMULA: CompanionFormulaNode = {
   type: "divide",
   operands: [
     {
+      type: "metric-ref",
+      metricId: "companion-health-maximum",
+    },
+    {
       type: "multiply",
       operands: [
         {
-          type: "metric-ref",
-          metricId: "companion-health-maximum",
+          type: "add",
+          operands: [
+            {
+              type: "constant",
+              value: 1,
+            },
+            {
+              type: "multiply",
+              operands: [
+                {
+                  type: "constant",
+                  value: -1,
+                },
+                {
+                  type: "metric-ref",
+                  metricId: "companion-armor",
+                  convertRatingToChance: true,
+                },
+              ],
+            },
+          ],
         },
         {
           type: "add",
@@ -19,23 +42,9 @@ export const FORMULA: CompanionFormulaNode = {
             },
             {
               type: "metric-ref",
-              metricId: "companion-armor",
-              convertRatingToChance: true,
+              metricId: "companion-damage-taken",
             },
           ],
-        },
-      ],
-    },
-    {
-      type: "add",
-      operands: [
-        {
-          type: "constant",
-          value: 1,
-        },
-        {
-          type: "metric-ref",
-          metricId: "companion-damage-taken",
         },
       ],
     },
