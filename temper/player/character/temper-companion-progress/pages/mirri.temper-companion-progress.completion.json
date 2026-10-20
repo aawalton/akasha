@@ -1,5 +1,71 @@
 {
   "build": {
+    "armor": {
+      "1": {
+        "displayText": "Light, Quickened",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "2": {
+        "displayText": "Light, Quickened",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "3": {
+        "displayText": "Light, Quickened",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "4": {
+        "displayText": "Light, Quickened",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "5": {
+        "displayText": "Light, Quickened",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "6": {
+        "displayText": "Light, Quickened",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "7": {
+        "displayText": "Light, Quickened",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      }
+    },
+    "mainHandWeaponType": 9,
     "skillAbilityIds": {
       "1": 153685,
       "2": 155408,
@@ -9,39 +75,10 @@
       "6": 157259
     },
     "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
-    "jewelry": {
-      "1": {
-        "isEmpty": false,
-        "displayText": "Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "2": {
-        "isEmpty": false,
-        "displayText": "Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "3": {
-        "isEmpty": false,
-        "displayText": "Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      }
-    },
     "weapons": {
       "1": {
-        "isEmpty": false,
         "displayText": "Restoration Staff, Quickened",
+        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
@@ -49,8 +86,8 @@
         }
       },
       "2": {
-        "isEmpty": true,
         "displayText": "Empty",
+        "isEmpty": true,
         "qualityColor": {
           "1": 0.5,
           "2": 0.5,
@@ -58,12 +95,11 @@
         }
       }
     },
-    "mainHandWeaponType": 9,
     "companionId": 2,
-    "armor": {
+    "jewelry": {
       "1": {
+        "displayText": "Quickened",
         "isEmpty": false,
-        "displayText": "Light, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
@@ -71,8 +107,8 @@
         }
       },
       "2": {
+        "displayText": "Quickened",
         "isEmpty": false,
-        "displayText": "Light, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
@@ -80,44 +116,8 @@
         }
       },
       "3": {
+        "displayText": "Quickened",
         "isEmpty": false,
-        "displayText": "Light, Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "4": {
-        "isEmpty": false,
-        "displayText": "Light, Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "5": {
-        "isEmpty": false,
-        "displayText": "Light, Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "6": {
-        "isEmpty": false,
-        "displayText": "Light, Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "7": {
-        "isEmpty": false,
-        "displayText": "Light, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
