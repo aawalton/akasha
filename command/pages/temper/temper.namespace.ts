@@ -23,8 +23,10 @@ export const temper = {
     "namespace/temper-upstream",
     "namespace/temper-watcher",
     "module/character-completion-reading",
+    "command/temper-build-show",
+    "module/stat-reading-lines",
   ],
   name: "temper",
   createdAt: "2026-09-07T13:39:24.201Z",
-  updatedAt: "2026-10-15T15:46:32.286Z",
+  updatedAt: "2026-10-20T14:29:46.979Z",
 } as const satisfies Namespace

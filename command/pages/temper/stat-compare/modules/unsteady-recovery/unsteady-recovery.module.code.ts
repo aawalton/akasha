@@ -1,4 +1,4 @@
-import type { ReadingLine } from "akasha/command/pages/temper/stat-compare/modules/stat-reading-lines/stat-reading-lines.module.code.ts"
+import type { ReadingLine } from "akasha/command/pages/temper/modules/stat-reading-lines/stat-reading-lines.module.code.ts"
 
 const UNSTEADY_WHILE_BLOCKING_OR_MOVING = new Set(["stamina-recovery"])
 

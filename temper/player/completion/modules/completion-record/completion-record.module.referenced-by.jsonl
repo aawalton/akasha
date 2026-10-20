@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"change/agent/page/pin-stat-case/pin-stat-case.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"command/pages/temper/modules/character-completion-reading/character-completion-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"command/pages/temper/modules/stat-reading-lines/stat-reading-lines.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"command/pages/temper/skill-check/temper-skill-check.command.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"command/pages/temper/stat-compare/modules/stat-reading-lines/stat-reading-lines.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"command/pages/temper/tps/modules/game-reading-comparing/game-reading-comparing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"command/pages/temper/tps/temper-tps.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/addon/pages/characters/modules/characters-advanced-sheet/characters-advanced-sheet.module.code.ts","typed":true,"deferred":false}

@@ -238,6 +238,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/addon/resolve/temper-addon-resolve.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/addon/typecheck/temper-addon-typecheck.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/auto-quest-trace/temper-auto-quest-trace.command.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/build-show/temper-build-show.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/build-test/temper-build-test.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/catalog/import-lore-books/temper-catalog-import-lore-books.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/catalog/import-skill-equations/temper-catalog-import-skill-equations.command.ts","typed":true,"deferred":false}

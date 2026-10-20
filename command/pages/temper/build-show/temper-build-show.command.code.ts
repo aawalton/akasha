@@ -1,0 +1,112 @@
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { build } from "akasha/command/argument/pages/build.argument.ts"
+import { compare } from "akasha/command/argument/pages/compare.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import {
+  asJson,
+  INPUT,
+  refused,
+  told,
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import {
+  characterFieldsOf,
+  companionFieldsOf,
+  differenceLines,
+  differencesOf,
+  type Field,
+  fieldLines,
+  sectionsOf,
+} from "akasha/command/pages/temper/build-show/modules/build-show-fields/build-show-fields.module.code.ts"
+import {
+  AS_HASH,
+  type Named,
+  namedIn,
+} from "akasha/command/pages/temper/build-show/modules/build-show-naming/build-show-naming.module.code.ts"
+import { temperBuildShow as page } from "akasha/command/pages/temper/build-show/temper-build-show.command.ts"
+import { loadCompanionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"
+import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
+import { decodeCompanion } from "akasha/temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
+import { loadSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts"
+import { buildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
+import { loadMetricCatalog } from "akasha/temper/player/character/stat/modules/metric-catalog-loading/metric-catalog-loading.module.code.ts"
+
+const NAMED = [build, compare, json]
+
+type Shown = { readonly named: Named; readonly fields: readonly Field[] }
+
+function quietly<T>(work: () => T | null): T | null {
+  const warn = console.warn
+  console.warn = () => undefined
+  try {
+    return work()
+  } catch {
+    return null
+  } finally {
+    console.warn = warn
+  }
+}
+
+function fieldsOf(named: Named): readonly Field[] | null {
+  const hash = buildHash(named.hash)
+  const character = quietly(() => decodeBuild(hash))
+  if (character !== null) return characterFieldsOf(character, named.stars)
+  const companion = quietly(() => decodeCompanion(hash))
+  return companion === null ? null : companionFieldsOf(companion)
+}
+
+function shownOf(root: string, said: string): Shown | { readonly refused: string } {
+  const naming = namedIn(root, said)
+  if ("refused" in naming) return naming
+  const fields = fieldsOf(naming.named)
+  if (fields !== null) return { named: naming.named, fields }
+  if (naming.named.source === AS_HASH) {
+    return {
+      refused: `\`${said}\` names no build page, character or reading, and is no build hash`,
+    }
+  }
+  return { refused: `\`${said}\` is the ${naming.named.source}, and its hash does not decode` }
+}
+
+function headOf(named: Named): string {
+  return `${named.said}: ${named.source}`
+}
+
+function aboutOf(named: Named): object {
+  return { said: named.said, source: named.source, hash: named.hash }
+}
+
+export async function temperBuildShow(argv: readonly string[], given: Given): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  await Promise.all([
+    loadSkillCatalog(),
+    loadSetCatalog(),
+    loadMetricCatalog(),
+    loadCompanionCatalog(),
+  ])
+  const first = shownOf(given.root, read.taken.build)
+  if ("refused" in first) return refused(first.refused, INPUT)
+  const against = read.taken.compare
+  if (against === undefined) {
+    if (read.taken.json) {
+      return asJson({ ...aboutOf(first.named), sections: sectionsOf(first.fields) })
+    }
+    return told([headOf(first.named), first.named.hash, "", ...fieldLines(first.fields)])
+  }
+  const second = shownOf(given.root, against)
+  if ("refused" in second) return refused(second.refused, INPUT)
+  const differences = differencesOf(first.fields, second.fields)
+  if (read.taken.json) {
+    return asJson({ first: aboutOf(first.named), second: aboutOf(second.named), differences })
+  }
+  return told([
+    `- ${headOf(first.named)}`,
+    `+ ${headOf(second.named)}`,
+    `${String(differences.length)} differences`,
+    "",
+    ...differenceLines(differences),
+  ])
+}

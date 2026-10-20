@@ -8,7 +8,7 @@ export const temperStatCompare = {
     "the command setting each of a character's readings beside Temper's estimate, stat by stat",
   code: "ts",
   test: "ts",
-  parts: ["module/stat-reading-lines", "module/unsteady-recovery"],
+  parts: ["module/unsteady-recovery"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -142,5 +142,5 @@ export const temperStatCompare = {
     { argument: "argument/json" },
   ],
   createdAt: "2026-10-14T14:17:00.259Z",
-  updatedAt: "2026-10-20T14:18:52.433Z",
+  updatedAt: "2026-10-20T14:29:46.979Z",
 } as const satisfies Command

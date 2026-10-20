@@ -3,7 +3,7 @@ import {
   chosenIn,
   readingLinesIn,
   shortIdOf,
-} from "akasha/command/pages/temper/stat-compare/modules/stat-reading-lines/stat-reading-lines.module.code.ts"
+} from "akasha/command/pages/temper/modules/stat-reading-lines/stat-reading-lines.module.code.ts"
 
 function lineOf(id: string, capturedAt: number, bar = "frontBar"): string {
   return JSON.stringify({

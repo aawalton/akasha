@@ -63,6 +63,7 @@
 {"propertySlug":"argument","path":"command/pages/temper/addon/global-name-dependent/temper-addon-global-name-dependent.command.ts","id":"01a0603c-c1ca-77a6-9408-76d7485c7dcf"}
 {"propertySlug":"argument","path":"command/pages/temper/addon/list/temper-addon-list.command.ts","id":"01a0603c-c1ca-7749-a8e8-ffbbcbf15e84"}
 {"propertySlug":"argument","path":"command/pages/temper/auto-quest-trace/temper-auto-quest-trace.command.ts","id":"01a0603c-c1cb-7f65-8427-70fc0c00d3cf"}
+{"propertySlug":"argument","path":"command/pages/temper/build-show/temper-build-show.command.ts","id":"01a159b7-e764-7795-9a9c-3d573f94789b"}
 {"propertySlug":"argument","path":"command/pages/temper/build-test/temper-build-test.command.ts","id":"01a13be0-99cc-767e-aaa4-e90e397d6fd1"}
 {"propertySlug":"argument","path":"command/pages/temper/catalog/invalidate/temper-catalog-invalidate.command.ts","id":"01a0603c-c1cc-7794-96f8-1e11cbb069b9"}
 {"propertySlug":"argument","path":"command/pages/temper/catalog/list/temper-catalog-list.command.ts","id":"01a06034-110c-7dfa-aceb-1292658c99c3"}
@@ -183,6 +184,7 @@
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/temper/addon/global-name-dependent/temper-addon-global-name-dependent.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/temper/addon/list/temper-addon-list.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/temper/auto-quest-trace/temper-auto-quest-trace.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/temper/build-show/temper-build-show.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/temper/build-test/temper-build-test.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/temper/catalog/invalidate/temper-catalog-invalidate.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/temper/catalog/list/temper-catalog-list.command.code.ts","typed":false,"deferred":false}

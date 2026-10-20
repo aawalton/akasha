@@ -23,7 +23,7 @@ import {
   readingLinesIn,
   shortIdOf,
   type Unread,
-} from "akasha/command/pages/temper/stat-compare/modules/stat-reading-lines/stat-reading-lines.module.code.ts"
+} from "akasha/command/pages/temper/modules/stat-reading-lines/stat-reading-lines.module.code.ts"
 import { unsteadyOf } from "akasha/command/pages/temper/stat-compare/modules/unsteady-recovery/unsteady-recovery.module.code.ts"
 import { temperStatCompare as page } from "akasha/command/pages/temper/stat-compare/temper-stat-compare.command.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
