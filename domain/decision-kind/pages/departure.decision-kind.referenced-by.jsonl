@@ -2264,6 +2264,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/commit-naming/deploy-commit-naming.module.ts","id":"01a09183-6693-7551-9148-59aca04e1bcd"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.ts","id":"01a0918e-3f40-7004-a4ca-adca97c45186"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/desktop-app-promoting/deploy-desktop-app-promoting.module.ts","id":"01a0e385-0533-7ab6-8120-5477927e5af5"}
+{"propertySlug":"decision-kind","path":"command/pages/deploy/modules/detaching/deploy-detaching.module.ts","id":"01a15b06-be25-778e-904d-5591081e5f6a"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/device-installing/deploy-device-installing.module.ts","id":"01a08e0b-f9f5-746a-836d-b0646a5815b0"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/extension-placing/deploy-extension-placing.module.ts","id":"01a15007-4a3d-7625-babb-a98f73bdedc8"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.ts","id":"01a09196-9c2c-732f-bd4f-d1f618fae23a"}

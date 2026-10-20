@@ -46,7 +46,10 @@ import {
   recordedEnding,
   recordedRefusal,
 } from "akasha/command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
-
+import {
+  apartFrom,
+  detachedDeploy,
+} from "akasha/command/pages/deploy/modules/detaching/deploy-detaching.module.code.ts"
 import {
   closureFor,
   closuresOf,
@@ -194,6 +197,7 @@ export async function deploy(
   const taken = takenFor(argv, given.calledAs, page, TAKES)
   if ("refused" in taken) return refusedBy(taken.refused, INPUT)
   const held = taken.taken
+  if (apartFrom(given)) return await detachedDeploy(argv, held.deploySubject, given)
   const wanted: Wanted = {
     noUpload: held.noUpload,
     simulator: held.simulator,

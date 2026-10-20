@@ -31,6 +31,7 @@ export const deploy = {
     "module/deploy-desktop-app-promoting",
     "module/deploy-extension-placing",
     "module/deploy-kind-putting",
+    "module/deploy-detaching",
   ],
   decisions: [
     {
@@ -412,5 +413,5 @@ export const deploy = {
     { argument: "argument/device", notWith: ["argument/simulator"] },
   ],
   createdAt: "2026-09-01T03:15:54.902Z",
-  updatedAt: "2026-10-20T19:34:09.923Z",
+  updatedAt: "2026-10-20T20:35:30.979Z",
 } as const satisfies Command
