@@ -16,10 +16,14 @@ export const skillLineQueries = {
       statement: "Five pieces of one armour weight open that weight's line.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "A one-handed weapon with nothing in the off-hand opens no Dual Wield passive.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A skill line's category is given by id, and a screen names it from its page.",
     },
   ],
   createdAt: "2026-09-02T09:51:18.436Z",
-  updatedAt: "2026-09-27T11:56:28.000Z",
+  updatedAt: "2026-10-20T18:48:07.875Z",
 } as const satisfies Module

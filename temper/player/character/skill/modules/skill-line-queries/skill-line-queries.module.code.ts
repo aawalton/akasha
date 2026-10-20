@@ -170,7 +170,6 @@ export function getWeaponSkillLineIdsForBar(bar: WeaponBarShape): readonly Skill
       (offHand.itemType === "weapon" && offHand.data.type === "no-type")
     ) {
       skillLineIds.push("weapon-one-hand-and-shield")
-      skillLineIds.push("weapon-dual-wield")
     }
   }
 
