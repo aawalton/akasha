@@ -77,6 +77,22 @@ describe("setTemplatesOf", () => {
     expect(made?.icons).toEqual({ ring: "/ring.dds" })
   })
 
+  test("throws on a bonus effect of a type the effect union lacks", () => {
+    const unknown = {
+      ...CLASS_SET,
+      bonuses: [
+        {
+          count: 2,
+          status: "supported",
+          effects: [{ metricId: STAMINA, type: "per-fortnight", value: 1 }],
+        },
+      ],
+    }
+    expect(() => setTemplatesOf([unknown], KEYS)).toThrow(
+      "the set page `a-class-set` states an effect on `stamina-maximum` of type `per-fortnight`"
+    )
+  })
+
   test("throws on a page naming a page that states no key", () => {
     const unkeyed = { ...NO_SET, category: "category/nowhere" }
     expect(() => setTemplatesOf([unkeyed], KEYS)).toThrow(Unkeyed)

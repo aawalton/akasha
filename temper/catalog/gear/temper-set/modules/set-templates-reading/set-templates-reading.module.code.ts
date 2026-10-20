@@ -8,9 +8,10 @@ import { temperSetCategory } from "akasha/temper/catalog/gear/temper-set-categor
 import { temperClass } from "akasha/temper/catalog/skill/temper-class/temper-class.page-type.ts"
 import type { SetCategoryTemplate } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
 import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
-import type {
-  Effect,
-  MetricEffect,
+import {
+  type Effect,
+  isMetricEffectType,
+  type MetricEffect,
 } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 import { temperMetricTree } from "akasha/temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.ts"
 
@@ -82,8 +83,14 @@ function effectOf(effect: Value, keys: Keys, at: string): Effect {
   const whileBuffs = Array.isArray(effect.whileBuffs)
     ? { whileBuffs: effect.whileBuffs.map((buff: unknown) => keyOf(buff, keys, at)) }
     : {}
+  const metricId = keyOf(effect.metricId, keys, at)
+  if (!isMetricEffectType(effect.type)) {
+    throw new Error(
+      `${at} states an effect on \`${metricId}\` of type \`${String(effect.type)}\`, which no code reads`
+    )
+  }
   return {
-    metricId: keyOf(effect.metricId, keys, at),
+    metricId,
     effectType: effect.type,
     effectValue: effect.value,
     ...whileBuffs,
