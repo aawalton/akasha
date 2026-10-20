@@ -7,7 +7,7 @@ export const siaHereIAmFromTheDumplinOriginalMotionPictureSoundtrack = {
   title: "Here I Am (from the Dumplin' Original Motion Picture Soundtrack)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 4.544117,
+  ownLength: 4.544116666666667,
   ownProgress: 4.544117,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaHereIAmFromTheDumplinOriginalMotionPictureSoundtrack = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.272Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

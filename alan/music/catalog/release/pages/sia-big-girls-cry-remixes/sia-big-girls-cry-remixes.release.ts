@@ -7,7 +7,7 @@ export const siaBigGirlsCryRemixes = {
   title: "Big Girls Cry (Remixes)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 27.960633,
+  ownLength: 27.960633333333334,
   ownProgress: 27.960633,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaBigGirlsCryRemixes = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.265Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

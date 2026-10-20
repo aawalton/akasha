@@ -7,7 +7,7 @@ export const siaTogether = {
   title: "Together",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 3.420117,
+  ownLength: 3.4201166666666665,
   ownProgress: 3.420117,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaTogether = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.287Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

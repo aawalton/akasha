@@ -7,7 +7,7 @@ export const siaTogetherF9Remixes = {
   title: "Together (F9 Remixes)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 14.583017,
+  ownLength: 14.583016666666667,
   ownProgress: 14.583017,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaTogetherF9Remixes = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.287Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

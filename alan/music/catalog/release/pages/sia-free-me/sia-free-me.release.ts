@@ -7,7 +7,7 @@ export const siaFreeMe = {
   title: "Free Me",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 4.767817,
+  ownLength: 4.767816666666667,
   ownProgress: 4.767817,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaFreeMe = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.270Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

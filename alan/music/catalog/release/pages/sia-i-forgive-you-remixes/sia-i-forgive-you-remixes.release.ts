@@ -7,7 +7,7 @@ export const siaIForgiveYouRemixes = {
   title: "I Forgive You (Remixes)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 26.497733,
+  ownLength: 26.497733333333333,
   ownProgress: 26.497733,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaIForgiveYouRemixes = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.273Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

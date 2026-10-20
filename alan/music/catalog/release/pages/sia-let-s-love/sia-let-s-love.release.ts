@@ -7,7 +7,7 @@ export const siaLetSLove = {
   title: "Let's Love",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 3.344083,
+  ownLength: 3.3440833333333333,
   ownProgress: 3.344083,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaLetSLove = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.275Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

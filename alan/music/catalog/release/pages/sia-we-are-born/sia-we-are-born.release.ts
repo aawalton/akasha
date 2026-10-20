@@ -7,7 +7,7 @@ export const siaWeAreBorn = {
   title: "We Are Born",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 50.273917,
+  ownLength: 50.273916666666665,
   ownProgress: 50.273917,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaWeAreBorn = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.288Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

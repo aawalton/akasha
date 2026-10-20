@@ -7,7 +7,7 @@ export const siaDuskTillDawnFeatSiaRadioEdit = {
   title: "Dusk Till Dawn (feat. Sia) [Radio Edit]",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 3.983333,
+  ownLength: 3.9833333333333334,
   ownProgress: 3.983333,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaDuskTillDawnFeatSiaRadioEdit = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.268Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

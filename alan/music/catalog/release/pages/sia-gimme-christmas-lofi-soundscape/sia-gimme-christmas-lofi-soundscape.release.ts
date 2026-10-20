@@ -7,7 +7,7 @@ export const siaGimmeChristmasLofiSoundscape = {
   title: "Gimme Christmas (Lofi Soundscape)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 46.394467,
+  ownLength: 46.394466666666666,
   ownProgress: 46.394467,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaGimmeChristmasLofiSoundscape = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.270Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

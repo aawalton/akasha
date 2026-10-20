@@ -7,7 +7,7 @@ export const siaLetSLoveRobinSchulzRemix = {
   title: "Let's Love (Robin Schulz Remix)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 7.091367,
+  ownLength: 7.091366666666667,
   ownProgress: 7.091367,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaLetSLoveRobinSchulzRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.275Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

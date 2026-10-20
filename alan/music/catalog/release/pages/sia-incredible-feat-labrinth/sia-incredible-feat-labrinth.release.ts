@@ -7,7 +7,7 @@ export const siaIncredibleFeatLabrinth = {
   title: "Incredible (feat. Labrinth)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 3.560533,
+  ownLength: 3.5605333333333333,
   ownProgress: 3.560533,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaIncredibleFeatLabrinth = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.273Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

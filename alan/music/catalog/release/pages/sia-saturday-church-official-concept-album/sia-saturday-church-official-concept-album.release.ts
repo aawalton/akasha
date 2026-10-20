@@ -7,7 +7,7 @@ export const siaSaturdayChurchOfficialConceptAlbum = {
   title: "Saturday Church (Official Concept Album)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 58.446217,
+  ownLength: 58.446216666666665,
   ownProgress: 58.446217,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaSaturdayChurchOfficialConceptAlbum = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.280Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

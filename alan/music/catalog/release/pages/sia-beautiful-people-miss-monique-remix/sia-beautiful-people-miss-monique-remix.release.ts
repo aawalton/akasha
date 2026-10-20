@@ -7,7 +7,7 @@ export const siaBeautifulPeopleMissMoniqueRemix = {
   title: "Beautiful People (Miss Monique Remix)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 6.793633,
+  ownLength: 6.793633333333333,
   ownProgress: 6.793633,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaBeautifulPeopleMissMoniqueRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.264Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

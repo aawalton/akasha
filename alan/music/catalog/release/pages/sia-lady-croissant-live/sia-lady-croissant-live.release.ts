@@ -7,7 +7,7 @@ export const siaLadyCroissantLive = {
   title: "Lady Croissant (Live)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 40.326667,
+  ownLength: 40.32666666666667,
   ownProgress: 40.326667,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaLadyCroissantLive = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.274Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

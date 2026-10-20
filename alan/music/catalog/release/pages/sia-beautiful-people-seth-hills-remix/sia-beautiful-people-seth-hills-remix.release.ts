@@ -7,7 +7,7 @@ export const siaBeautifulPeopleSethHillsRemix = {
   title: "Beautiful People (Seth Hills Remix)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 16.409833,
+  ownLength: 16.40985,
   ownProgress: 16.409833,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaBeautifulPeopleSethHillsRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.264Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

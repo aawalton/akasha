@@ -7,7 +7,7 @@ export const siaLabrinthSiaDiploPresentLsd = {
   title: "LABRINTH, SIA & DIPLO PRESENT... LSD",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 30.776367,
+  ownLength: 30.776366666666668,
   ownProgress: 30.776367,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaLabrinthSiaDiploPresentLsd = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.274Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

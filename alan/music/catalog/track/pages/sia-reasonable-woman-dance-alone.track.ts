@@ -1,0 +1,63 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const siaReasonableWomanDanceAlone = {
+  id: "01a15994-8c67-73f2-b013-32011dcc46ad",
+  type: "page-type/track",
+  slug: "sia-reasonable-woman-dance-alone",
+  ownLength: 2.8707666666666665,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/sia-reasonable-woman",
+    "release/sia-dance-alone-remixes",
+    "release/sia-dance-alone-kito-remix",
+    "release/sia-dance-alone-ofenbach-remix",
+    "release/sia-dance-alone",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Dance Alone",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/sia" }, { artistName: "Kylie Minogue" }],
+  trackKey: "dancealone|4RVnAU35WRWra6OZ3CbbMA,5WUlDfRSoLAfcVSX1WnrxN|172246",
+  song: "song/sia-dance-alone",
+  carriedBy: [
+    {
+      release: "release/sia-dance-alone",
+      discNumber: 1,
+      position: 1,
+      externalId: "1XZy2eprbATl4AnL9Fpsw1",
+      externalLink: "https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1",
+    },
+    {
+      release: "release/sia-dance-alone-kito-remix",
+      discNumber: 1,
+      position: 2,
+      externalId: "49pYOAyQF3dMjtOp1QeqcV",
+      externalLink: "https://open.spotify.com/track/49pYOAyQF3dMjtOp1QeqcV",
+    },
+    {
+      release: "release/sia-dance-alone-ofenbach-remix",
+      discNumber: 1,
+      position: 3,
+      externalId: "6CPvMOrZ6CFdIjb9WmwcnG",
+      externalLink: "https://open.spotify.com/track/6CPvMOrZ6CFdIjb9WmwcnG",
+    },
+    {
+      release: "release/sia-dance-alone-remixes",
+      discNumber: 1,
+      position: 1,
+      externalId: "3iMAe3zVMkKZ9xBZFV02Vo",
+      externalLink: "https://open.spotify.com/track/3iMAe3zVMkKZ9xBZFV02Vo",
+    },
+    {
+      release: "release/sia-reasonable-woman",
+      discNumber: 1,
+      position: 3,
+      externalId: "4CHRwcA2V9MgIaXaWPHDQc",
+      externalLink: "https://open.spotify.com/track/4CHRwcA2V9MgIaXaWPHDQc",
+    },
+  ],
+  createdAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
+} as const satisfies Track

@@ -7,7 +7,7 @@ export const siaChandelierPianoVersion = {
   title: "Chandelier (Piano Version)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 4.006667,
+  ownLength: 4.006666666666667,
   ownProgress: 4.006667,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaChandelierPianoVersion = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.266Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

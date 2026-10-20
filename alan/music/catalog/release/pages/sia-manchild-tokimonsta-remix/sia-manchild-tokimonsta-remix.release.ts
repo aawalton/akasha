@@ -7,7 +7,7 @@ export const siaManchildTokimonstaRemix = {
   title: "Manchild (TOKiMONSTA Remix)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 6.250317,
+  ownLength: 6.2503166666666665,
   ownProgress: 6.250317,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaManchildTokimonstaRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.276Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

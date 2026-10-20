@@ -7,7 +7,7 @@ export const siaUnstoppableR3habRemix = {
   title: "Unstoppable (R3HAB Remix)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 2.705867,
+  ownLength: 2.7058666666666666,
   ownProgress: 2.705867,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaUnstoppableR3habRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.287Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

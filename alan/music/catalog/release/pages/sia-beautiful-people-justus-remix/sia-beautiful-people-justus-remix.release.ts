@@ -7,7 +7,7 @@ export const siaBeautifulPeopleJustusRemix = {
   title: "Beautiful People (Justus Remix)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 15.14145,
+  ownLength: 15.141466666666666,
   ownProgress: 15.14145,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaBeautifulPeopleJustusRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.264Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

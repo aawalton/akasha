@@ -7,7 +7,7 @@ export const siaLetSLoveCesqeauxRemix = {
   title: "Let's Love (Cesqeaux Remix)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 7.433333,
+  ownLength: 7.433333333333334,
   ownProgress: 7.433333,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaLetSLoveCesqeauxRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.275Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

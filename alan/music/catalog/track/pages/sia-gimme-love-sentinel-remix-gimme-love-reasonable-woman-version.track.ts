@@ -1,0 +1,55 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const siaGimmeLoveSentinelRemixGimmeLoveReasonableWomanVersion = {
+  id: "01a15994-8c5b-7769-8e6e-a2b132469d73",
+  type: "page-type/track",
+  slug: "sia-gimme-love-sentinel-remix-gimme-love-reasonable-woman-version",
+  ownLength: 3.5677666666666665,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/sia-gimme-love-sentinel-remix",
+    "release/sia-gimme-love-sofiane-pamart-remix",
+    "release/sia-gimme-love-armin-van-buuren-remix",
+    "release/sia-gimme-love-reasonable-woman-version",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Gimme Love - Reasonable Woman Version",
+  trackType: "version",
+  explicit: false,
+  trackArtist: [{ artist: "artist/sia" }],
+  trackKey: "gimmelovereasonablewomanversion|5WUlDfRSoLAfcVSX1WnrxN|214066",
+  song: "song/sia-gimme-love",
+  carriedBy: [
+    {
+      release: "release/sia-gimme-love-armin-van-buuren-remix",
+      discNumber: 1,
+      position: 4,
+      externalId: "0ykHSth6Eu3BC7ta3JLv5v",
+      externalLink: "https://open.spotify.com/track/0ykHSth6Eu3BC7ta3JLv5v",
+    },
+    {
+      release: "release/sia-gimme-love-reasonable-woman-version",
+      discNumber: 1,
+      position: 1,
+      externalId: "1lxU1Nm3CGAuBXxtlP6eSq",
+      externalLink: "https://open.spotify.com/track/1lxU1Nm3CGAuBXxtlP6eSq",
+    },
+    {
+      release: "release/sia-gimme-love-sentinel-remix",
+      discNumber: 1,
+      position: 5,
+      externalId: "1vvizl0giPhjZuuJ2XF82h",
+      externalLink: "https://open.spotify.com/track/1vvizl0giPhjZuuJ2XF82h",
+    },
+    {
+      release: "release/sia-gimme-love-sofiane-pamart-remix",
+      discNumber: 1,
+      position: 4,
+      externalId: "1eaXU0aqKd94m3FU4KKczg",
+      externalLink: "https://open.spotify.com/track/1eaXU0aqKd94m3FU4KKczg",
+    },
+  ],
+  createdAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
+} as const satisfies Track

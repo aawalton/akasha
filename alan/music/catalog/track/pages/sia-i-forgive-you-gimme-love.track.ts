@@ -1,0 +1,55 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const siaIForgiveYouGimmeLove = {
+  id: "01a15994-8c5e-7507-b5a2-535276cced13",
+  type: "page-type/track",
+  slug: "sia-i-forgive-you-gimme-love",
+  ownLength: 3.5679,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/sia-i-forgive-you",
+    "release/sia-gimme-love-sentinel-remix",
+    "release/sia-gimme-love-sofiane-pamart-remix",
+    "release/sia-gimme-love-reasonable-woman-version",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Gimme Love",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/sia" }],
+  trackKey: "gimmelove|5WUlDfRSoLAfcVSX1WnrxN|214074",
+  song: "song/sia-gimme-love",
+  carriedBy: [
+    {
+      release: "release/sia-gimme-love-reasonable-woman-version",
+      discNumber: 1,
+      position: 2,
+      externalId: "1sb6XIHujwEmzEvYP2Tw19",
+      externalLink: "https://open.spotify.com/track/1sb6XIHujwEmzEvYP2Tw19",
+    },
+    {
+      release: "release/sia-gimme-love-sentinel-remix",
+      discNumber: 1,
+      position: 4,
+      externalId: "4jJnxcNz0UL9q338wp89gj",
+      externalLink: "https://open.spotify.com/track/4jJnxcNz0UL9q338wp89gj",
+    },
+    {
+      release: "release/sia-gimme-love-sofiane-pamart-remix",
+      discNumber: 1,
+      position: 3,
+      externalId: "04vNUASoql0LZVoRhwHSNc",
+      externalLink: "https://open.spotify.com/track/04vNUASoql0LZVoRhwHSNc",
+    },
+    {
+      release: "release/sia-i-forgive-you",
+      discNumber: 1,
+      position: 4,
+      externalId: "4XvsXvwfUrBwpzKDt4DCEH",
+      externalLink: "https://open.spotify.com/track/4XvsXvwfUrBwpzKDt4DCEH",
+    },
+  ],
+  createdAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
+} as const satisfies Track

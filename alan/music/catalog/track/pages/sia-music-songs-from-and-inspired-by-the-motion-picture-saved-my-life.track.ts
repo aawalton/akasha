@@ -1,0 +1,55 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const siaMusicSongsFromAndInspiredByTheMotionPictureSavedMyLife = {
+  id: "01a15994-8c65-7f6f-a735-382e1f4dd845",
+  type: "page-type/track",
+  slug: "sia-music-songs-from-and-inspired-by-the-motion-picture-saved-my-life",
+  ownLength: 3.9255166666666668,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/sia-music-songs-from-and-inspired-by-the-motion-picture",
+    "release/sia-hey-boy-feat-burna-boy",
+    "release/sia-hey-boy",
+    "release/sia-saved-my-life",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Saved My Life",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/sia" }],
+  trackKey: "savedmylife|5WUlDfRSoLAfcVSX1WnrxN|235531",
+  song: "song/sia-saved-my-life",
+  carriedBy: [
+    {
+      release: "release/sia-hey-boy",
+      discNumber: 1,
+      position: 4,
+      externalId: "0bktiWVfE5y0KTnH4RGPHT",
+      externalLink: "https://open.spotify.com/track/0bktiWVfE5y0KTnH4RGPHT",
+    },
+    {
+      release: "release/sia-hey-boy-feat-burna-boy",
+      discNumber: 1,
+      position: 4,
+      externalId: "7aCY57Hyq7W1dsjL4zs1ak",
+      externalLink: "https://open.spotify.com/track/7aCY57Hyq7W1dsjL4zs1ak",
+    },
+    {
+      release: "release/sia-music-songs-from-and-inspired-by-the-motion-picture",
+      discNumber: 1,
+      position: 3,
+      externalId: "0Ts6bcB1AQYkt28yZXk1qQ",
+      externalLink: "https://open.spotify.com/track/0Ts6bcB1AQYkt28yZXk1qQ",
+    },
+    {
+      release: "release/sia-saved-my-life",
+      discNumber: 1,
+      position: 1,
+      externalId: "5cpw6QKJcoXzpNBLNUJx2i",
+      externalLink: "https://open.spotify.com/track/5cpw6QKJcoXzpNBLNUJx2i",
+    },
+  ],
+  createdAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
+} as const satisfies Track

@@ -7,7 +7,7 @@ export const siaFameWonTLoveYouFeatParisHilton = {
   title: "Fame Won’t Love You (feat. Paris Hilton)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 3.328133,
+  ownLength: 3.328133333333333,
   ownProgress: 3.328133,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaFameWonTLoveYouFeatParisHilton = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.269Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

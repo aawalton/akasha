@@ -7,7 +7,7 @@ export const siaSnowmanSpedUpVersion = {
   title: "Snowman (Sped Up Version)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 2.292967,
+  ownLength: 2.2929666666666666,
   ownProgress: 2.292967,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaSnowmanSpedUpVersion = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.281Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

@@ -7,7 +7,7 @@ export const siaMusicSongsFromAndInspiredByTheMotionPicture = {
   title: "Music (Songs From And Inspired By The Motion Picture)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 49.492967,
+  ownLength: 49.492983333333335,
   ownProgress: 49.492967,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaMusicSongsFromAndInspiredByTheMotionPicture = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.277Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

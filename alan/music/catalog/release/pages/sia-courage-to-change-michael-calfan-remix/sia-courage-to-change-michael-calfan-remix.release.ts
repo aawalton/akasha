@@ -7,7 +7,7 @@ export const siaCourageToChangeMichaelCalfanRemix = {
   title: "Courage to Change (Michael Calfan Remix)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 7.487767,
+  ownLength: 7.4877666666666665,
   ownProgress: 7.487767,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaCourageToChangeMichaelCalfanRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.267Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

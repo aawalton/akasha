@@ -7,7 +7,7 @@ export const siaLetSLoveDavidGuettaMortenFutureRaveRemix = {
   title: "Let's Love (David Guetta & MORTEN Future Rave Remix)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 8.380783,
+  ownLength: 8.380783333333333,
   ownProgress: 8.380783,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaLetSLoveDavidGuettaMortenFutureRaveRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.275Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

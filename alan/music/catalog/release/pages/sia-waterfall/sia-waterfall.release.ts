@@ -7,7 +7,7 @@ export const siaWaterfall = {
   title: "Waterfall",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 3.333817,
+  ownLength: 3.333816666666667,
   ownProgress: 3.333817,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaWaterfall = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.288Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

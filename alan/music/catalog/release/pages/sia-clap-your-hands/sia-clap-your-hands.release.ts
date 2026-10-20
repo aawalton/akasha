@@ -7,7 +7,7 @@ export const siaClapYourHands = {
   title: "Clap Your Hands",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 14.780867,
+  ownLength: 14.780866666666666,
   ownProgress: 14.780867,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaClapYourHands = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.266Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

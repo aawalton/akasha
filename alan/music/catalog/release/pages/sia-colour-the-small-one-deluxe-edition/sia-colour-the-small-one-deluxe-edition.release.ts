@@ -7,7 +7,7 @@ export const siaColourTheSmallOneDeluxeEdition = {
   title: "Colour The Small One (Deluxe Edition)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 84.575217,
+  ownLength: 84.57521666666666,
   ownProgress: 84.575217,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaColourTheSmallOneDeluxeEdition = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.267Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

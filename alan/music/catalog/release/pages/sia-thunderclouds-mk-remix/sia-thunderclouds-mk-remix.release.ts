@@ -7,7 +7,7 @@ export const siaThundercloudsMkRemix = {
   title: "Thunderclouds (MK Remix)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 3.573767,
+  ownLength: 3.5737666666666668,
   ownProgress: 3.573767,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaThundercloudsMkRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.286Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

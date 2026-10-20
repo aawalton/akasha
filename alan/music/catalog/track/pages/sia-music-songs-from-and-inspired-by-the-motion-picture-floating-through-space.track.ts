@@ -1,0 +1,63 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const siaMusicSongsFromAndInspiredByTheMotionPictureFloatingThroughSpace = {
+  id: "01a15994-8c64-73b0-941a-f791c63d1a20",
+  type: "page-type/track",
+  slug: "sia-music-songs-from-and-inspired-by-the-motion-picture-floating-through-space",
+  ownLength: 2.9633333333333334,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/sia-music-songs-from-and-inspired-by-the-motion-picture",
+    "release/sia-floating-through-space-feat-david-guetta-hex-sia-in-space-mix",
+    "release/sia-floating-through-space-feat-david-guetta-jim-ouma-remix",
+    "release/sia-floating-through-space-feat-david-guetta-hex-hector-s-roller-jam-mix",
+    "release/sia-floating-through-space",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Floating Through Space",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/sia" }, { artistName: "David Guetta" }],
+  trackKey: "floatingthroughspace|1Cs0zKBU1kc0i8ypK3B9ai,5WUlDfRSoLAfcVSX1WnrxN|177800",
+  song: "song/sia-floating-through-space",
+  carriedBy: [
+    {
+      release: "release/sia-floating-through-space",
+      discNumber: 1,
+      position: 1,
+      externalId: "2AceGjiX9isUbXmMZa0Dl1",
+      externalLink: "https://open.spotify.com/track/2AceGjiX9isUbXmMZa0Dl1",
+    },
+    {
+      release: "release/sia-floating-through-space-feat-david-guetta-hex-hector-s-roller-jam-mix",
+      discNumber: 1,
+      position: 2,
+      externalId: "6QQbZS5FBt17FDPP99iora",
+      externalLink: "https://open.spotify.com/track/6QQbZS5FBt17FDPP99iora",
+    },
+    {
+      release: "release/sia-floating-through-space-feat-david-guetta-hex-sia-in-space-mix",
+      discNumber: 1,
+      position: 2,
+      externalId: "3GohnWW3OSqKJoxVXPw1pl",
+      externalLink: "https://open.spotify.com/track/3GohnWW3OSqKJoxVXPw1pl",
+    },
+    {
+      release: "release/sia-floating-through-space-feat-david-guetta-jim-ouma-remix",
+      discNumber: 1,
+      position: 2,
+      externalId: "4QPbg3oloG0yHqK4W67bRX",
+      externalLink: "https://open.spotify.com/track/4QPbg3oloG0yHqK4W67bRX",
+    },
+    {
+      release: "release/sia-music-songs-from-and-inspired-by-the-motion-picture",
+      discNumber: 1,
+      position: 4,
+      externalId: "0XwSUpdrF7nR7hVxbDs7mb",
+      externalLink: "https://open.spotify.com/track/0XwSUpdrF7nR7hVxbDs7mb",
+    },
+  ],
+  createdAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
+} as const satisfies Track

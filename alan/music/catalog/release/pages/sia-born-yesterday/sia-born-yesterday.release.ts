@@ -7,7 +7,7 @@ export const siaBornYesterday = {
   title: "Born Yesterday",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 3.308817,
+  ownLength: 3.3088166666666665,
   ownProgress: 3.308817,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaBornYesterday = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.265Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

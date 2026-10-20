@@ -7,7 +7,7 @@ export const siaTripleJLiveAtTheWirelessBigDayOut2011 = {
   title: "Triple J Live at the Wireless - Big Day out 2011",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 10.627933,
+  ownLength: 10.627933333333333,
   ownProgress: 10.627933,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaTripleJLiveAtTheWirelessBigDayOut2011 = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.287Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

@@ -7,7 +7,7 @@ export const siaDanceAloneRemixes = {
   title: "Dance Alone Remixes",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 28.103917,
+  ownLength: 28.102666666666668,
   ownProgress: 28.103917,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaDanceAloneRemixes = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.267Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

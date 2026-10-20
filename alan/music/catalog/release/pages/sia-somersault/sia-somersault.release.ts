@@ -7,7 +7,7 @@ export const siaSomersault = {
   title: "Somersault",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 15.677767,
+  ownLength: 15.677766666666667,
   ownProgress: 15.677767,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaSomersault = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.281Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

@@ -7,7 +7,7 @@ export const siaFloatingThroughSpaceFeatDavidGuettaHexSiaInSpaceMix = {
   title: "Floating Through Space (feat. David Guetta) [Hex & Sia In Space Mix]",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 8.153417,
+  ownLength: 8.153416666666667,
   ownProgress: 8.153417,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaFloatingThroughSpaceFeatDavidGuettaHexSiaInSpaceMix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.270Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

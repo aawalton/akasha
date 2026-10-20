@@ -7,7 +7,7 @@ export const siaThatSLifeFeatMacMillerSia = {
   title: "That's Life (feat. Mac Miller & Sia)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 3.373167,
+  ownLength: 3.3731666666666666,
   ownProgress: 3.373167,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaThatSLifeFeatMacMillerSia = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.284Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

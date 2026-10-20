@@ -7,7 +7,7 @@ export const siaIMStillHere = {
   title: "I'm Still Here",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 4.031833,
+  ownLength: 4.031833333333333,
   ownProgress: 4.031833,
   unit: "unit/minutes",
   status: "completed",
@@ -21,5 +21,5 @@ export const siaIMStillHere = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.273Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
 } as const satisfies Release

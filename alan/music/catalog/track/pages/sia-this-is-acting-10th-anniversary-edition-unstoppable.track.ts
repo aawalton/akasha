@@ -1,0 +1,55 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const siaThisIsActing10thAnniversaryEditionUnstoppable = {
+  id: "01a15994-8c6f-7d6a-ba2d-c001be125273",
+  type: "page-type/track",
+  slug: "sia-this-is-acting-10th-anniversary-edition-unstoppable",
+  ownLength: 3.6291,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/sia-this-is-acting-10th-anniversary-edition",
+    "release/sia-this-is-acting-deluxe-version",
+    "release/sia-unstoppable-the-remixes",
+    "release/sia-unstoppable",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Unstoppable",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/sia" }],
+  trackKey: "unstoppable|5WUlDfRSoLAfcVSX1WnrxN|217746",
+  song: "song/sia-unstoppable",
+  carriedBy: [
+    {
+      release: "release/sia-this-is-acting-10th-anniversary-edition",
+      discNumber: 1,
+      position: 5,
+      externalId: "5KSMfbmwJ3JQYtjL9M79kz",
+      externalLink: "https://open.spotify.com/track/5KSMfbmwJ3JQYtjL9M79kz",
+    },
+    {
+      release: "release/sia-this-is-acting-deluxe-version",
+      discNumber: 1,
+      position: 5,
+      externalId: "1yvMUkIOTeUNtNWlWRgANS",
+      externalLink: "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS",
+    },
+    {
+      release: "release/sia-unstoppable",
+      discNumber: 1,
+      position: 1,
+      externalId: "4W7uMjg5a9ZqgNZzpY6ekk",
+      externalLink: "https://open.spotify.com/track/4W7uMjg5a9ZqgNZzpY6ekk",
+    },
+    {
+      release: "release/sia-unstoppable-the-remixes",
+      discNumber: 1,
+      position: 2,
+      externalId: "26FPDX0wfCkqFkd8LzQwjr",
+      externalLink: "https://open.spotify.com/track/26FPDX0wfCkqFkd8LzQwjr",
+    },
+  ],
+  createdAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
+} as const satisfies Track

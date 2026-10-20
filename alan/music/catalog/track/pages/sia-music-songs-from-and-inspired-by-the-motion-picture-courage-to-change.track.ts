@@ -1,0 +1,63 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const siaMusicSongsFromAndInspiredByTheMotionPictureCourageToChange = {
+  id: "01a15994-8c64-73f1-be43-c1822dee2022",
+  type: "page-type/track",
+  slug: "sia-music-songs-from-and-inspired-by-the-motion-picture-courage-to-change",
+  ownLength: 4.8776,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/sia-music-songs-from-and-inspired-by-the-motion-picture",
+    "release/sia-courage-to-change-michael-calfan-remix",
+    "release/sia-hey-boy-feat-burna-boy",
+    "release/sia-hey-boy",
+    "release/sia-courage-to-change",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Courage to Change",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ artist: "artist/sia" }],
+  trackKey: "couragetochange|5WUlDfRSoLAfcVSX1WnrxN|292656",
+  song: "song/sia-courage-to-change",
+  carriedBy: [
+    {
+      release: "release/sia-courage-to-change",
+      discNumber: 1,
+      position: 1,
+      externalId: "2MbgQKWhoii8bqsMBWWWgA",
+      externalLink: "https://open.spotify.com/track/2MbgQKWhoii8bqsMBWWWgA",
+    },
+    {
+      release: "release/sia-courage-to-change-michael-calfan-remix",
+      discNumber: 1,
+      position: 2,
+      externalId: "5JpLB7BhxDR5c4Q6ZlaT7U",
+      externalLink: "https://open.spotify.com/track/5JpLB7BhxDR5c4Q6ZlaT7U",
+    },
+    {
+      release: "release/sia-hey-boy",
+      discNumber: 1,
+      position: 3,
+      externalId: "7zWbqLcKxVd9ta4CnUO87l",
+      externalLink: "https://open.spotify.com/track/7zWbqLcKxVd9ta4CnUO87l",
+    },
+    {
+      release: "release/sia-hey-boy-feat-burna-boy",
+      discNumber: 1,
+      position: 2,
+      externalId: "0BdbuVJ8fGHpNd3UtfUCti",
+      externalLink: "https://open.spotify.com/track/0BdbuVJ8fGHpNd3UtfUCti",
+    },
+    {
+      release: "release/sia-music-songs-from-and-inspired-by-the-motion-picture",
+      discNumber: 1,
+      position: 8,
+      externalId: "7FPJ3rncDYvcdgW11PhTMw",
+      externalLink: "https://open.spotify.com/track/7FPJ3rncDYvcdgW11PhTMw",
+    },
+  ],
+  createdAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T13:51:09.878Z",
+} as const satisfies Track
