@@ -1,6 +1,7 @@
 {"propertySlug":"base-stat-metric","path":"temper/player/character/source/temper-base-stat/pages/health-recovery.temper-base-stat.ts","id":"01a0df49-5528-7d69-82a8-f27c04515bd5"}
 {"propertySlug":"import","fileName":"health-recovery.temper-metric.ts","path":"change/agent/page/generate-foods-and-drinks/generate-foods-and-drinks.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"source-effect-metric","path":"temper/catalog/champion-point/temper-champion-star/pages/rejuvenation.temper-champion-star.ts","id":"01a0e13c-001b-75d0-aa8c-1da8aa82a3e4"}
+{"propertySlug":"source-effect-metric","path":"temper/catalog/champion-point/temper-champion-star/pages/strategic-reserve.temper-champion-star.ts","id":"01a0e13c-001b-7b23-b0cb-f78e70e48106"}
 {"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/alabaster-honey-rum-57642.temper-food-or-drink.ts","id":"01a15a12-c893-711c-8d63-a4adbbe3403a"}
 {"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/alabaster-honey-rum.temper-food-or-drink.ts","id":"01a15a12-c893-77d3-a183-c62283f4d65e"}
 {"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/anequina-stout.temper-food-or-drink.ts","id":"01a15a12-c894-7c8b-b01c-8f4693650cb4"}

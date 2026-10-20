@@ -9,8 +9,15 @@ export const strategicReserve = {
   esoChampionSkillId: 49,
   championConstellation: "fitness",
   isSlottable: true,
+  effects: [
+    {
+      metric: "temper-metric/health-recovery",
+      effectType: "integer-per-ten-ultimate",
+      value: 30,
+    },
+  ],
   hashPlace: 55,
   jumpPoints: [0, 50],
   createdAt: "2026-09-27T05:00:00.923Z",
-  updatedAt: "2026-10-19T22:57:29.284Z",
+  updatedAt: "2026-10-20T16:45:54.904Z",
 } as const satisfies TemperChampionStar
