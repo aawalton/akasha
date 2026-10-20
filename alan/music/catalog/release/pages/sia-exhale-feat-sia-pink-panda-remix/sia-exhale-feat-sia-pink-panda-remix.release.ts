@@ -7,8 +7,8 @@ export const siaExhaleFeatSiaPinkPandaRemix = {
   title: "EXHALE (feat. Sia) [Pink Panda Remix]",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 2.16235,
-  ownProgress: 2.16235,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-07-31",
@@ -21,5 +21,6 @@ export const siaExhaleFeatSiaPinkPandaRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.269Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

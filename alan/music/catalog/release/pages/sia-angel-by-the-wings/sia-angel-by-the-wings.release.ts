@@ -7,8 +7,8 @@ export const siaAngelByTheWings = {
   title: "Angel By The Wings",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 5.32,
-  ownProgress: 5.32,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-12-02",
@@ -21,5 +21,6 @@ export const siaAngelByTheWings = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.263Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

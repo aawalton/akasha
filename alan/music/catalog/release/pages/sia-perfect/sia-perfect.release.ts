@@ -7,8 +7,8 @@ export const siaPerfect = {
   title: "Perfect",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 11.063833333333333,
-  ownProgress: 11.063833,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-03-05",
@@ -21,5 +21,6 @@ export const siaPerfect = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.278Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

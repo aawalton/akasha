@@ -7,8 +7,8 @@ export const sia11FeatAmirBanxRanxRemix = {
   title: "1+1 (feat. Amir) [Banx & Ranx Remix]",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 3.2706666666666666,
-  ownProgress: 3.270667,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-07-13",
@@ -21,5 +21,6 @@ export const sia11FeatAmirBanxRanxRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.260Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

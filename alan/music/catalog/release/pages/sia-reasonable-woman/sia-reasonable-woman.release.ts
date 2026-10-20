@@ -7,8 +7,8 @@ export const siaReasonableWoman = {
   title: "Reasonable Woman",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 52.81865,
-  ownProgress: 52.8199,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-05-03",
@@ -21,5 +21,6 @@ export const siaReasonableWoman = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.279Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const siaSolsburyHillHumaneWorldForAnimalsCover = {
   title: "Solsbury Hill (Humane World for Animals Cover)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 4.016216666666667,
-  ownProgress: 4.016217,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-02-13",
@@ -21,5 +21,6 @@ export const siaSolsburyHillHumaneWorldForAnimalsCover = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.281Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

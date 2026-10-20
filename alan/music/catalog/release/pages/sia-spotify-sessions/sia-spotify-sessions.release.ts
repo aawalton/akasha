@@ -7,8 +7,8 @@ export const siaSpotifySessions = {
   title: "Spotify Sessions",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 28.819966666666666,
-  ownProgress: 28.819967,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-04-13",
@@ -21,5 +21,6 @@ export const siaSpotifySessions = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.281Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

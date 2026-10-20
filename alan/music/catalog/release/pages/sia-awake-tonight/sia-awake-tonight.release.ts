@@ -4,7 +4,7 @@ export const siaAwakeTonight = {
   id: "01a0a59b-f262-7d8c-b0bc-6118f2e9947a",
   type: "page-type/release",
   slug: "sia-awake-tonight",
-  ownLength: 3.1668833333333333,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/sia"],
   position: 0,
@@ -21,5 +21,5 @@ export const siaAwakeTonight = {
   ],
   title: "Awake Tonight",
   createdAt: "2026-09-15T15:07:35.906Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

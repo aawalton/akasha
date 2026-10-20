@@ -7,8 +7,8 @@ export const siaUnderTheMilkyWay = {
   title: "Under the Milky Way",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 3.58155,
-  ownProgress: 3.58155,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2010-01-26",
@@ -21,5 +21,6 @@ export const siaUnderTheMilkyWay = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.287Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

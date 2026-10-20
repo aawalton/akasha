@@ -7,8 +7,8 @@ export const siaThisIsActing10thAnniversaryEdition = {
   title: "This Is Acting (10th Anniversary Edition)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 94.60373333333334,
-  ownProgress: 94.603733,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2026-01-29",
@@ -21,5 +21,6 @@ export const siaThisIsActing10thAnniversaryEdition = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.286Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

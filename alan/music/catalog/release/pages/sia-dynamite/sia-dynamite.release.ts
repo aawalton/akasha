@@ -7,8 +7,8 @@ export const siaDynamite = {
   title: "Dynamite",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 3.5444666666666667,
-  ownProgress: 3.544467,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-10-22",
@@ -21,5 +21,6 @@ export const siaDynamite = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.268Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

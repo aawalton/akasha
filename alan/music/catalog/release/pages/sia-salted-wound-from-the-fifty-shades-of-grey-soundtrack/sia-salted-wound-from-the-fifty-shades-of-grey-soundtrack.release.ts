@@ -7,8 +7,8 @@ export const siaSaltedWoundFromTheFiftyShadesOfGreySoundtrack = {
   title: 'Salted Wound (From The" Fifty Shades Of Grey" Soundtrack)',
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 4.522216666666667,
-  ownProgress: 4.522217,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-01-27",
@@ -21,5 +21,6 @@ export const siaSaltedWoundFromTheFiftyShadesOfGreySoundtrack = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.280Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

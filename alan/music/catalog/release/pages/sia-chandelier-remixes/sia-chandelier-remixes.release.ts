@@ -7,8 +7,8 @@ export const siaChandelierRemixes = {
   title: "Chandelier (Remixes)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 29.5388,
-  ownProgress: 29.5388,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-07-22",
@@ -21,5 +21,6 @@ export const siaChandelierRemixes = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.266Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

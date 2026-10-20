@@ -7,8 +7,8 @@ export const siaTheGirlYouLostToCocaine = {
   title: "The Girl You Lost To Cocaine",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 45.43285,
-  ownProgress: 45.43285,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2008-01-01",
@@ -21,5 +21,6 @@ export const siaTheGirlYouLostToCocaine = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.285Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

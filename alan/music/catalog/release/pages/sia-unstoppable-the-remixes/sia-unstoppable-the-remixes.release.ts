@@ -7,8 +7,8 @@ export const siaUnstoppableTheRemixes = {
   title: "Unstoppable (The Remixes)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 17.664533333333335,
-  ownProgress: 17.664533,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-10-28",
@@ -21,5 +21,6 @@ export const siaUnstoppableTheRemixes = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.287Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

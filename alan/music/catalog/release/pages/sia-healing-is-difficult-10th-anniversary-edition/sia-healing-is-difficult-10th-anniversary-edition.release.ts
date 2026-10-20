@@ -7,8 +7,8 @@ export const siaHealingIsDifficult10thAnniversaryEdition = {
   title: "Healing Is Difficult (10th Anniversary Edition)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 57.09883333333333,
-  ownProgress: 57.098833,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2003-01-01",
@@ -21,5 +21,6 @@ export const siaHealingIsDifficult10thAnniversaryEdition = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.272Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

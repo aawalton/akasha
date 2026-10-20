@@ -7,8 +7,8 @@ export const siaNoNewFriendsRemixes = {
   title: "No New Friends (Remixes)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 6.9191,
-  ownProgress: 6.9191,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2019-05-16",
@@ -21,5 +21,6 @@ export const siaNoNewFriendsRemixes = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.277Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

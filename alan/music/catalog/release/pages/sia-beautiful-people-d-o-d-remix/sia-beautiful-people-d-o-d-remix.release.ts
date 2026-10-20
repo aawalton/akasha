@@ -7,8 +7,8 @@ export const siaBeautifulPeopleDODRemix = {
   title: "Beautiful People (D.O.D Remix)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 15.527516666666667,
-  ownProgress: 15.5275,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-04-18",
@@ -21,5 +21,6 @@ export const siaBeautifulPeopleDODRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.264Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

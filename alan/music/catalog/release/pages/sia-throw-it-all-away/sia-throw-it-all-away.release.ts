@@ -7,8 +7,8 @@ export const siaThrowItAllAway = {
   title: "Throw It All Away",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 4.026,
-  ownProgress: 4.026,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2006-04-28",
@@ -21,5 +21,6 @@ export const siaThrowItAllAway = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.286Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

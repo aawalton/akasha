@@ -7,8 +7,8 @@ export const siaSatisfiedFeatMiguelQueenLatifahFromTheHamiltonMixtape = {
   title: "Satisfied (feat. Miguel & Queen Latifah) [from The Hamilton Mixtape]",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 5.3065,
-  ownProgress: 5.3065,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-11-11",
@@ -21,5 +21,6 @@ export const siaSatisfiedFeatMiguelQueenLatifahFromTheHamiltonMixtape = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.280Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

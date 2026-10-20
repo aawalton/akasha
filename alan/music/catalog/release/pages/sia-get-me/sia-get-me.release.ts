@@ -7,8 +7,8 @@ export const siaGetMe = {
   title: "Get Me",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 10.5907,
-  ownProgress: 10.5907,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2000-01-01",
@@ -21,5 +21,6 @@ export const siaGetMe = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.270Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

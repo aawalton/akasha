@@ -7,8 +7,8 @@ export const siaReasonableRemixes2 = {
   title: "Reasonable Remixes 2",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 17.647766666666666,
-  ownProgress: 17.647767,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-11-15",
@@ -21,5 +21,6 @@ export const siaReasonableRemixes2 = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.279Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

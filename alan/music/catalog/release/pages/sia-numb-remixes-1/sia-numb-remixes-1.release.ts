@@ -7,8 +7,8 @@ export const siaNumbRemixes1 = {
   title: "Numb Remixes 1",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 17.5131,
-  ownProgress: 17.5131,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2008-01-01",
@@ -21,5 +21,6 @@ export const siaNumbRemixes1 = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.278Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

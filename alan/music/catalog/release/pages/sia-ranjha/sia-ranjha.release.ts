@@ -4,7 +4,7 @@ export const siaRanjha = {
   id: "01a0a59b-f2ac-7d74-9c41-f84186580b70",
   type: "page-type/release",
   slug: "sia-ranjha",
-  ownLength: 3.067633333333333,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/sia"],
   position: 0,
@@ -21,5 +21,5 @@ export const siaRanjha = {
   ],
   title: "Ranjha",
   createdAt: "2026-09-15T15:07:35.980Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

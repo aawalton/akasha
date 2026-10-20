@@ -7,8 +7,8 @@ export const siaGimmeLoveSentinelRemix = {
   title: "Gimme Love (Sentinel Remix)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 16.451033333333335,
-  ownProgress: 16.451033,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-12-01",
@@ -21,5 +21,6 @@ export const siaGimmeLoveSentinelRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.270Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

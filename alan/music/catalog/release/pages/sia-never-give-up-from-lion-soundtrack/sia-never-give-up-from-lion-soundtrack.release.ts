@@ -7,8 +7,8 @@ export const siaNeverGiveUpFromLionSoundtrack = {
   title: 'Never Give Up (From "Lion" Soundtrack)',
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 3.6997666666666666,
-  ownProgress: 3.699767,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-11-18",
@@ -21,5 +21,6 @@ export const siaNeverGiveUpFromLionSoundtrack = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.277Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

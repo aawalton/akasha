@@ -7,8 +7,8 @@ export const siaAudioCidRemix = {
   title: "Audio (CID Remix)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 2.69955,
-  ownProgress: 2.69955,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-06-15",
@@ -21,5 +21,6 @@ export const siaAudioCidRemix = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.263Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

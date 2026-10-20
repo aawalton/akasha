@@ -7,8 +7,8 @@ export const siaGimmeChristmasSleepSoundscape = {
   title: "Gimme Christmas (Sleep Soundscape)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 49.99628333333333,
-  ownProgress: 49.996283,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-09-10",
@@ -21,5 +21,6 @@ export const siaGimmeChristmasSleepSoundscape = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.270Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

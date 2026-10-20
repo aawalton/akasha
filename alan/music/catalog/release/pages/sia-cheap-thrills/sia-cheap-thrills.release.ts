@@ -7,8 +7,8 @@ export const siaCheapThrills = {
   title: "Cheap Thrills",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 3.5162166666666668,
-  ownProgress: 3.516217,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-12-17",
@@ -21,5 +21,6 @@ export const siaCheapThrills = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.266Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

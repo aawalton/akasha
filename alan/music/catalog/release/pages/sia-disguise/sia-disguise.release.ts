@@ -4,7 +4,7 @@ export const siaDisguise = {
   id: "01a0a59b-f1ce-7c77-bc04-dc885836a2c9",
   type: "page-type/release",
   slug: "sia-disguise",
-  ownLength: 2.5133666666666667,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/sia"],
   position: 0,
@@ -21,5 +21,5 @@ export const siaDisguise = {
   ],
   title: "DISGUISE",
   createdAt: "2026-09-15T15:07:35.758Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const siaFlames = {
   title: "Flames",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 3.25,
-  ownProgress: 3.25,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-03-22",
@@ -21,5 +21,6 @@ export const siaFlames = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.270Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

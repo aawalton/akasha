@@ -7,8 +7,8 @@ export const siaFlamesRemixes = {
   title: "Flames (Remixes)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 9.234833333333333,
-  ownProgress: 9.234833,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-05-11",
@@ -21,5 +21,6 @@ export const siaFlamesRemixes = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.270Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

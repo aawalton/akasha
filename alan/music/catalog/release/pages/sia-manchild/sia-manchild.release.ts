@@ -7,8 +7,8 @@ export const siaManchild = {
   title: "Manchild",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 3.296666666666667,
-  ownProgress: 3.296667,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-04-28",
@@ -21,5 +21,6 @@ export const siaManchild = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.276Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

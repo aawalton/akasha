@@ -7,8 +7,8 @@ export const siaOneMillionBullets = {
   title: "One Million Bullets",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 4.182883333333334,
-  ownProgress: 4.182883,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-11-27",
@@ -21,5 +21,6 @@ export const siaOneMillionBullets = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.278Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

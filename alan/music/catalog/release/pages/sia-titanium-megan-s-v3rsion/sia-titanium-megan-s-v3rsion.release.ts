@@ -7,8 +7,8 @@ export const siaTitaniumMeganSV3rsion = {
   title: "Titanium (Megan's V3rsion)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 4.054433333333333,
-  ownProgress: 4.054433,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-01-09",
@@ -21,5 +21,6 @@ export const siaTitaniumMeganSV3rsion = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.286Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

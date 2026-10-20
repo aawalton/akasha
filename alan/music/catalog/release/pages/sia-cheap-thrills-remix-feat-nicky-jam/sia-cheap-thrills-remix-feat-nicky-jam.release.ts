@@ -7,8 +7,8 @@ export const siaCheapThrillsRemixFeatNickyJam = {
   title: "Cheap Thrills Remix (feat. Nicky Jam)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 3.536,
-  ownProgress: 3.536,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-06-17",
@@ -21,5 +21,6 @@ export const siaCheapThrillsRemixFeatNickyJam = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.266Z",
-  updatedAt: "2026-09-15T16:38:50.000Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

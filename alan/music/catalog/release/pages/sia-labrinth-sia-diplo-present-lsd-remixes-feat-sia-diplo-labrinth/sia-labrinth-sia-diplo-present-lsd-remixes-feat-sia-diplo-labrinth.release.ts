@@ -7,8 +7,8 @@ export const siaLabrinthSiaDiploPresentLsdRemixesFeatSiaDiploLabrinth = {
   title: "LABRINTH, SIA, DIPLO PRESENT... LSD (REMIXES) (feat. Sia, Diplo & Labrinth)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 30.91665,
-  ownProgress: 30.91665,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-11-30",
@@ -21,5 +21,6 @@ export const siaLabrinthSiaDiploPresentLsdRemixesFeatSiaDiploLabrinth = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.274Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const siaBreatheMe = {
   title: "Breathe Me",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 11.049766666666667,
-  ownProgress: 11.049767,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2004-01-01",
@@ -21,5 +21,6 @@ export const siaBreatheMe = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.265Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

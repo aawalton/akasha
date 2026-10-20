@@ -7,8 +7,8 @@ export const siaAlive = {
   title: "Alive",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 4.398216666666666,
-  ownProgress: 4.398217,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-09-24",
@@ -21,5 +21,6 @@ export const siaAlive = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.262Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

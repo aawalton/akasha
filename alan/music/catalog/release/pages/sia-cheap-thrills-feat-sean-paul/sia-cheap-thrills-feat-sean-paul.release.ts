@@ -7,8 +7,8 @@ export const siaCheapThrillsFeatSeanPaul = {
   title: "Cheap Thrills (feat. Sean Paul)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 3.7468833333333333,
-  ownProgress: 3.746883,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-02-11",
@@ -21,5 +21,6 @@ export const siaCheapThrillsFeatSeanPaul = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.266Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

@@ -7,8 +7,8 @@ export const siaHeyBoy = {
   title: "Hey Boy",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 14.714383333333334,
-  ownProgress: 14.714383,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-11-19",
@@ -21,5 +21,6 @@ export const siaHeyBoy = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.272Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

@@ -4,7 +4,7 @@ export const siaGimmeLoveOrchestra = {
   id: "01a0a59b-f21b-7592-bbb2-7c6eec633ab2",
   type: "page-type/release",
   slug: "sia-gimme-love-orchestra",
-  ownLength: 2.9942,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/sia"],
   position: 0,
@@ -21,5 +21,5 @@ export const siaGimmeLoveOrchestra = {
   ],
   title: "Gimme Love Orchestra",
   createdAt: "2026-09-15T15:07:35.835Z",
-  updatedAt: "2026-09-15T16:39:19.000Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release

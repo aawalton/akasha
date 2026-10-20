@@ -7,8 +7,8 @@ export const siaFlyMeToTheMoonInspiredByFinalFantasyXiv = {
   title: "Fly Me To The Moon (Inspired By FINAL FANTASY XIV)",
   partOfCollections: ["artist/sia"],
   position: 0,
-  ownLength: 2.842216666666667,
-  ownProgress: 2.842217,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-12-02",
@@ -21,5 +21,6 @@ export const siaFlyMeToTheMoonInspiredByFinalFantasyXiv = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.270Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:30.339Z",
+  progressedAt: "2026-10-20T14:01:30.339Z",
 } as const satisfies Release
