@@ -8,7 +8,7 @@ export const jewelryTraitProtectiveNormal = {
   thing: "temper-jewelry-trait/protective",
   quality: "temper-quality/normal",
   metric: "temper-metric-tree/metric-resistance",
-  value: 1624,
+  value: 1053,
   createdAt: "2026-09-24T14:55:51.858Z",
-  updatedAt: "2026-09-24T14:56:44.000Z",
+  updatedAt: "2026-10-20T18:18:30.723Z",
 } as const satisfies TemperGearGrade
