@@ -6,7 +6,13 @@ export const effect = {
   slug: "effect",
   definition: "a change a source makes to a character's numbers",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An effect is a metric effect only where the metric effect union has the type that effect states.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement:
@@ -27,5 +33,5 @@ export const effect = {
     },
   ],
   createdAt: "2026-09-02T04:46:21.408Z",
-  updatedAt: "2026-10-20T16:43:30.990Z",
+  updatedAt: "2026-10-20T17:20:39.400Z",
 } as const satisfies Module

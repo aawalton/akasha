@@ -12,6 +12,21 @@ test("an effect per ten Ultimate says its value per 10 Ultimate after the stat",
   ).toEqual(["30 Health Recovery per 10 Ultimate"])
 })
 
+test("an armor piece scaling effect is said by nothing here rather than thrown on as a metric effect", () => {
+  expect(
+    formatEffects([
+      {
+        metricId: "max-health",
+        effectType: "armor-piece-scaling",
+        armorWeight: "heavy",
+        valuePerPiece: 100,
+        valueType: "integer",
+      },
+      { metricId: "health-recovery", effectType: "integer", effectValue: 30 },
+    ])
+  ).toEqual(["30 Health Recovery"])
+})
+
 test("a flat effect says its value before the stat", () => {
   expect(
     formatEffects([{ metricId: "health-recovery", effectType: "integer", effectValue: 30 }])

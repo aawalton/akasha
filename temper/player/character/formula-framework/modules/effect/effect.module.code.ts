@@ -111,7 +111,11 @@ export type Effect =
 
 export function isMetricEffect<T>(effect: T): effect is T & MetricEffect {
   return (
-    typeof effect === "object" && effect !== null && "metricId" in effect && "effectType" in effect
+    typeof effect === "object" &&
+    effect !== null &&
+    "metricId" in effect &&
+    "effectType" in effect &&
+    isMetricEffectType(effect.effectType)
   )
 }
 

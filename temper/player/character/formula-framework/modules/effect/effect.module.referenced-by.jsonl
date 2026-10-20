@@ -21,6 +21,7 @@
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/characters-equipment/modules/weapon-trait-effects/weapon-trait-effects.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/formula-framework/modules/effect-value-update/effect-value-update.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/formula-framework/modules/effect/effect.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/formula-framework/modules/skill-source/skill-source.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/formula-framework/modules/source-file/source-file.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/skill/modules/character-skill-template/character-skill-template.module.code.ts","typed":true,"deferred":false}

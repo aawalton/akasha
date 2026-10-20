@@ -4,8 +4,11 @@ import {
 } from "akasha/temper/player/character/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import type { Effect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 import {
+  isArmorPieceScalingEffect,
   isBuffOrDebuffEffect,
   isMetricEffect,
+  isSlottedAbilityScalingEffect,
+  isWeaponTypeConditionalEffect,
 } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 import type { EffectSource } from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import type { MetricId } from "akasha/temper/player/character/formula-framework/modules/metric-id/metric-id.module.code.ts"
@@ -104,11 +107,24 @@ export function diffEffectSources(
   return { added, removed, modified }
 }
 
+function metricIdOf(effect: Effect): string | null {
+  if (
+    isMetricEffect(effect) ||
+    isArmorPieceScalingEffect(effect) ||
+    isSlottedAbilityScalingEffect(effect) ||
+    isWeaponTypeConditionalEffect(effect)
+  ) {
+    return effect.metricId
+  }
+  return null
+}
+
 function extractMetricIds(effects: readonly Effect[]): readonly MetricId[] {
   const ids: MetricId[] = []
   for (const effect of effects) {
-    if (isMetricEffect(effect) && metrics().has(effect.metricId)) {
-      ids.push(effect.metricId)
+    const metricId = metricIdOf(effect)
+    if (metricId !== null && metrics().has(metricId)) {
+      ids.push(metricId)
     }
   }
   return ids
