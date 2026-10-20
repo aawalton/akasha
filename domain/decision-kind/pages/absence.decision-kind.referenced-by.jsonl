@@ -2300,6 +2300,7 @@
 {"propertySlug":"decision-kind","path":"temper/modules/movable-window/movable-window.module.ts","id":"01a060c4-17d0-7920-84d6-6391a39d187e"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-support/modules/import-redirect/import-redirect.module.ts","id":"01a09097-3491-7938-9cab-3a376e69de9f"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-support/temper-build-support.domain.ts","id":"01a0609f-53f7-7460-afb2-168bb75adada"}
+{"propertySlug":"decision-kind","path":"temper/player/character/character-build/build-optimization/temper-build-optimization.domain.ts","id":"01a159d5-030c-729c-9b01-a19b08594e31"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/line/modules/skill-line-category-data/skill-line-category-data.module.ts","id":"01a0608a-c135-7b53-b635-1e9c4d4ba002"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-menu/skill-point-finder-menu.module.ts","id":"01a060ec-5840-75bd-916c-91a32fd40413"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-types/skill-point-finder-types.module.ts","id":"01a060ec-584d-78d8-941c-a8b43c987a6c"}

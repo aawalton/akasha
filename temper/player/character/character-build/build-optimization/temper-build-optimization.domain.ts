@@ -53,6 +53,40 @@ export const temperBuildOptimization = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A build's search weighs the buffs active skills grant as well as passives.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game holds only one ultimate transformation active at a time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A build holds only gear its player can obtain.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A piece is obtainable where it is collected, held or craftable on the account.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Temper reads collected pieces from the `itemSets` the account's completion holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Temper reads held pieces from the account's stacks.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Temper reads craftable pieces from the `traitResearch` each character's completion holds.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Temper keeps no record of which crafting stations an account can reach.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A buff from a trial dummy or a group counts where the capture will have that buff.",
     },
@@ -76,5 +110,5 @@ export const temperBuildOptimization = {
     },
   ],
   createdAt: "2026-10-20T15:01:34.603Z",
-  updatedAt: "2026-10-20T15:09:39.870Z",
+  updatedAt: "2026-10-20T15:26:45.242Z",
 } as const satisfies Domain
