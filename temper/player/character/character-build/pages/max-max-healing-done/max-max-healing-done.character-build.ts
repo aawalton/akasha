@@ -5,7 +5,8 @@ export const maxMaxHealingDone = {
   type: "page-type/character-build",
   slug: "max-max-healing-done",
   title: "Max Max Healing Done",
-  description: "",
+  description:
+    "Assumes Major Mending from a fully charged Restoration Staff heavy attack (Essence Drain) and Minor Mending from Healer's Habit at five pieces; Temper models neither yet.",
   accountPage: "temper-account/alanarre",
   buildHash:
     "ATQLrIHAAABjgQpCAAtACEABaAEIfW0AIQpdoAQhS7QAhD62gBCFLtAAAG7aAAAN20AAAbtoALYBu2gCWwDdtAGHgmlQqlXSXyHgmlQqlXSXwAAAAAAAAAAAAACBAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAAAIjKvXr1wMlatWrQBQoUKAAAAAyB",
@@ -13,5 +14,5 @@ export const maxMaxHealingDone = {
   roles: [],
   characterName: "Rafaema Coloseuvia",
   createdAt: "2026-10-20T16:21:04.532Z",
-  updatedAt: "2026-10-20T16:21:04.532Z",
+  updatedAt: "2026-10-20T16:23:32.829Z",
 } as const satisfies CharacterBuild
