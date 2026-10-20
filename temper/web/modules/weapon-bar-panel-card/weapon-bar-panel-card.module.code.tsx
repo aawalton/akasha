@@ -5,10 +5,18 @@ import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import type { EquipmentQualityOptionId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import { weaponSlots as weaponSlotsData } from "akasha/temper/catalog/gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts"
 import {
+  type ArmorTraitId,
+  armorTraitOptions,
+} from "akasha/temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
+import {
   type WeaponTraitId,
   weaponTraitOptions,
 } from "akasha/temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
 import { groupByCount } from "akasha/temper/player/character/build/build-support/modules/row-grouping/row-grouping.module.code.ts"
+import {
+  type ArmorEnchantId,
+  armorEnchants,
+} from "akasha/temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"
 import {
   bulkUpdateWeaponEnchant,
   bulkUpdateWeaponQuality,
@@ -109,18 +117,22 @@ export function WeaponBarPanelCard({
     [weaponSlots]
   )
 
+  const shieldItem = weaponSlots.find(isShieldSlot)
+
   const weaponTraits = useMemo(
     () =>
-      groupByCount<(typeof weaponSlots)[number], WeaponTraitId>(weaponSlots, (item) =>
-        isWeaponSlot(item) ? (item.data.trait ?? "no-trait") : "no-trait"
+      groupByCount<(typeof weaponSlots)[number], WeaponTraitId>(
+        weaponSlots.filter((item) => !isShieldSlot(item)),
+        (item) => (isWeaponSlot(item) ? (item.data.trait ?? "no-trait") : "no-trait")
       ),
     [weaponSlots]
   )
 
   const weaponEnchants = useMemo(
     () =>
-      groupByCount<(typeof weaponSlots)[number], WeaponEnchantmentId>(weaponSlots, (item) =>
-        isWeaponSlot(item) ? (item.data.enchantment ?? "no-enchant") : "no-enchant"
+      groupByCount<(typeof weaponSlots)[number], WeaponEnchantmentId>(
+        weaponSlots.filter((item) => !isShieldSlot(item)),
+        (item) => (isWeaponSlot(item) ? (item.data.enchantment ?? "no-enchant") : "no-enchant")
       ),
     [weaponSlots]
   )
@@ -207,6 +219,17 @@ export function WeaponBarPanelCard({
                 count={count}
               />
             ))}
+            {shieldItem && (
+              <BulkEditTag<ArmorTraitId>
+                key="shield-trait"
+                currentValue={shieldItem.data.trait}
+                options={armorTraitOptions(shieldItem.data.trait)}
+                onSelect={(_, trait) =>
+                  onUpdate(updateWeaponItem(equipment, "off-hand", barId, { trait }))
+                }
+                count={1}
+              />
+            )}
             {weaponEnchants.map(([enchant, count]) => (
               <BulkEditTag<WeaponEnchantmentId>
                 key={`enchant-${enchant}`}
@@ -216,6 +239,17 @@ export function WeaponBarPanelCard({
                 count={count}
               />
             ))}
+            {shieldItem && (
+              <BulkEditTag<ArmorEnchantId>
+                key="shield-enchant"
+                currentValue={shieldItem.data.enchantment}
+                options={armorEnchants.list}
+                onSelect={(_, enchantment) =>
+                  onUpdate(updateWeaponItem(equipment, "off-hand", barId, { enchantment }))
+                }
+                count={1}
+              />
+            )}
           </div>
         ) : undefined
       }
