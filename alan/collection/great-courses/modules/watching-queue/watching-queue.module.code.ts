@@ -27,7 +27,7 @@ type Narrow = {
 
 type Sort = { readonly key: string; readonly descending: boolean }
 
-export type Queue = { readonly narrows: readonly Narrow[]; readonly viewSorts: readonly Sort[] }
+type Queue = { readonly narrows: readonly Narrow[]; readonly viewSorts: readonly Sort[] }
 
 type Value = Readonly<Record<string, unknown>>
 
