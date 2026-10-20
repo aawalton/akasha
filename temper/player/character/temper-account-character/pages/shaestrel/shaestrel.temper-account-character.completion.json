@@ -13276,38 +13276,38 @@
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "stats": {
+        "resistance-critical": 1320,
         "resistance-physical": 1731,
-        "critical-rating-weapon": 6006,
-        "power-weapon": 1510,
+        "penetration-physical": 7164,
+        "magicka-maximum": 14520,
         "critical-rating-spell": 6006,
-        "penetration-spell": 7164,
-        "stamina-recovery": 514,
-        "health-maximum": 17960,
+        "power-spell": 1510,
+        "critical-rating-weapon": 6006,
+        "resistance-spell": 1731,
+        "magicka-recovery": 514,
         "stamina-maximum": 19624,
         "health-recovery": 124,
-        "resistance-critical": 1320,
-        "power-spell": 1510,
-        "magicka-recovery": 514,
-        "resistance-spell": 1731,
-        "magicka-maximum": 14520,
-        "penetration-physical": 7164
+        "penetration-spell": 7164,
+        "power-weapon": 1510,
+        "health-maximum": 17960,
+        "stamina-recovery": 514
       },
       "unbonusedStats": {
+        "resistance-critical": 0,
         "resistance-physical": 0,
-        "critical-rating-weapon": 2181,
-        "power-weapon": 1000,
+        "penetration-physical": 0,
+        "magicka-maximum": 14520,
         "critical-rating-spell": 2181,
-        "penetration-spell": 0,
-        "stamina-recovery": 514,
-        "health-maximum": 17960,
+        "power-spell": 1000,
+        "critical-rating-weapon": 2181,
+        "resistance-spell": 0,
+        "magicka-recovery": 514,
         "stamina-maximum": 19624,
         "health-recovery": 124,
-        "resistance-critical": 0,
-        "power-spell": 1000,
-        "magicka-recovery": 514,
-        "resistance-spell": 0,
-        "magicka-maximum": 14520,
-        "penetration-physical": 0
+        "penetration-spell": 0,
+        "power-weapon": 1000,
+        "health-maximum": 17960,
+        "stamina-recovery": 514
       },
       "activeBuffs": [
         {
@@ -14036,10 +14036,10 @@
       "inArchive": false,
       "archiveBoons": [],
       "advanced": {
-        "critical-damage": 0.1,
         "healing-done-base": 0.02,
-        "healing-critical-bonus": 0,
-        "healing-taken-base": 0.02
+        "healing-taken-base": 0.02,
+        "critical-damage": 0.1,
+        "healing-critical-bonus": 0
       }
     }
   }
