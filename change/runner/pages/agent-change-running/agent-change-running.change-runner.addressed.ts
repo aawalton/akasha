@@ -44,6 +44,9 @@ export type Changes = {
   "change-agent/backfill-reading-levels": Parameters<
     typeof import("akasha/change/agent/file-content/backfill-reading-levels/backfill-reading-levels.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/backfill-reading-prismatic-recovery": Parameters<
+    typeof import("akasha/change/agent/file-content/backfill-reading-prismatic-recovery/backfill-reading-prismatic-recovery.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/change-calculation-held-type": Parameters<
     typeof import("akasha/change/agent/page-type/change-calculation-held-type/change-calculation-held-type.change-agent.code.ts")["runChange"]
   >[1]

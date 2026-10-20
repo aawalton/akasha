@@ -17,6 +17,12 @@ import { buildHash } from "akasha/temper/player/character/formula-framework/modu
 import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
 import { resultOf } from "akasha/temper/player/character/stat/modules/build-reading-lines/build-reading-lines.module.code.ts"
 import {
+  CHARACTERS,
+  characterOf,
+  READINGS,
+  readsBackAs,
+} from "akasha/temper/player/character/stat/modules/reading-hash-rewriting/reading-hash-rewriting.module.code.ts"
+import {
   type ChampionLevels,
   championLevelsOf,
   type LinkedItem,
@@ -25,10 +31,6 @@ import {
   wornLevelsOf,
 } from "akasha/temper/player/character/stat/modules/worn-item-levels/worn-item-levels.module.code.ts"
 import { jsonlLinesOf } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
-
-const CHARACTERS = "temper/player/character/temper-account-character/pages/"
-
-const READINGS = ".temper-account-character.readings.jsonl"
 
 const ACCOUNTS = "temper/player/character/temper-account/pages/"
 
@@ -89,16 +91,6 @@ function saysMore(worn: readonly WornPiece[], levels: ChampionLevels): boolean {
   })
 }
 
-function canonical(value: unknown): unknown {
-  if (Array.isArray(value)) return value.map(canonical)
-  if (!isRecord(value)) return value
-  const sorted: Json = {}
-  for (const key of Object.keys(value).sort()) {
-    if (value[key] !== undefined) sorted[key] = canonical(value[key])
-  }
-  return sorted
-}
-
 type Run = {
   readonly counts: Counts
   readonly levels: ChampionLevels
@@ -132,7 +124,7 @@ function rewritten(text: string, run: Run): string {
   }
   const leveled = withWornLevels(build, worn, levels)
   const written = encodeBuild(leveled)
-  if (JSON.stringify(canonical(decodeBuild(written))) !== JSON.stringify(canonical(leveled))) {
+  if (!readsBackAs(written, leveled)) {
     counts.unrounded += 1
     return text
   }
@@ -143,10 +135,6 @@ function rewritten(text: string, run: Run): string {
   counts.lines += 1
   ids.push(String(line["id"] ?? ""))
   return JSON.stringify(line)
-}
-
-function characterOf(path: string): string {
-  return path.slice(CHARACTERS.length).split("/")[0] ?? path
 }
 
 export function backfillReadingLevels(world: World): Answer {

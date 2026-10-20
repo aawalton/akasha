@@ -6121,6 +6121,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/passive-effect-resolution/passive-effect-resolution.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/passive-eligibility/passive-eligibility.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/pipeline-types/pipeline-types.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/reading-hash-rewriting/reading-hash-rewriting.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/rotation-healing/rotation-healing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/rotation-reading/rotation-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/skill-damage/skill-damage.module.ts","typed":true,"deferred":false}
