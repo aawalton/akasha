@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQINIGgAABiRRP__VgAAAAAAAAAAAAAAAAAAAAAAAIkAIAQBgAAgAAAAAgAAhAAACIAIgBgAABAAAgMCBAAySAAAwAAMIAAAAgDABAAAAHAACAAGKwAAABVKwAAAAAAAAAAAPgAMmWAgk14ZLOeJjBIDGFAhHmwXWK1ymYYi54JJQiAHt5m1r2nmuHsoGQ",
+  "buildHash": "ATQJNIMAAIBiRRP__VgAAAAAAAAAAAAAAAAAAAAAAAIkAIAQBgAAgAAAAAgAAhAAACIAIgBgAIBAAAgMCBAAySAAAwAAOIAAAAgDABAAAAHIACAAGBQQMzMDUDMQAzAAMjA6M6ZDMwARMzI6rAAAAFUrAAAAAAAAAAAA-AAyZYCCTXhks54mMEgMYUCEebBdYrXKZhiLngklCIAe3mbWvaea4eygZA",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -16411,7 +16411,7 @@
   },
   "skillPoints": {
     "total": 577,
-    "unassigned": 472,
+    "unassigned": 463,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 1,
@@ -28354,42 +28354,43 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792453104,
+      "capturedAt": 1792458223,
+      "buildHash": "ATQJNIMAAIBiRRP__VgAAAAAAAAAAAAAAAAAAAAAAAIkAIAQBgAAgAAAAAgAAhAAACIAIgBgAIBAAAgMCBAAySAAAwAAOIAAAAgDABAAAAHIACAAGBQQMzMDUDMQAzAAMjA6M6ZDMwARMzI6rAAAAFUrAAAAAAAAAAAA-AAyZYCCTXhks54mMEgMYUCEebBdYrXKZhiLngklCIAe3mbWvaea4eygZA",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "stats": {
-        "penetration-physical": 0,
-        "magicka-recovery": 524,
-        "stamina-maximum": 12000,
-        "power-weapon": 1000,
         "power-spell": 1000,
-        "health-maximum": 21051,
         "resistance-physical": 0,
-        "health-recovery": 814,
-        "stamina-recovery": 514,
-        "resistance-critical": 1320,
-        "magicka-maximum": 29497,
-        "critical-rating-weapon": 4810,
         "resistance-spell": 0,
         "critical-rating-spell": 4810,
-        "penetration-spell": 0
+        "magicka-recovery": 524,
+        "penetration-spell": 0,
+        "resistance-critical": 1320,
+        "stamina-maximum": 23127,
+        "power-weapon": 1000,
+        "health-maximum": 23051,
+        "stamina-recovery": 514,
+        "critical-rating-weapon": 4810,
+        "penetration-physical": 0,
+        "magicka-maximum": 19731,
+        "health-recovery": 814
       },
       "unbonusedStats": {
-        "penetration-physical": 0,
-        "magicka-recovery": 524,
-        "stamina-maximum": 12000,
-        "power-weapon": 1000,
         "power-spell": 1000,
-        "health-maximum": 21051,
         "resistance-physical": 0,
-        "health-recovery": 814,
-        "stamina-recovery": 514,
-        "resistance-critical": 0,
-        "magicka-maximum": 29497,
-        "critical-rating-weapon": 2181,
         "resistance-spell": 0,
         "critical-rating-spell": 2181,
-        "penetration-spell": 0
+        "magicka-recovery": 524,
+        "penetration-spell": 0,
+        "resistance-critical": 0,
+        "stamina-maximum": 23127,
+        "power-weapon": 1000,
+        "health-maximum": 23051,
+        "stamina-recovery": 514,
+        "critical-rating-weapon": 2181,
+        "penetration-physical": 0,
+        "magicka-maximum": 19731,
+        "health-recovery": 814
       },
       "activeBuffs": [
         {
@@ -28400,17 +28401,17 @@
           "stacks": 0
         },
         {
-          "abilityId": 13943,
-          "name": "Boon: The Mage",
-          "description": "increases Maximum Magicka",
-          "effect": "Increases your Maximum Magicka by |cffffff2023|r.\n",
-          "stacks": 0
-        },
-        {
           "abilityId": 61667,
           "name": "Major Savagery",
           "description": "",
           "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
+          "stacks": 0
+        },
+        {
+          "abilityId": 13985,
+          "name": "Boon: The Tower",
+          "description": "increases Maximum Stamina",
+          "effect": "Increases your Maximum Stamina by |cffffff2023|r.\n",
           "stacks": 0
         }
       ],
@@ -28448,49 +28449,50 @@
       "inArchive": false,
       "archiveBoons": [],
       "advanced": {
-        "healing-taken-base": 0,
         "healing-critical-bonus": 0,
+        "healing-done-base": 0,
         "critical-damage": 0,
-        "healing-done-base": 0
-      }
+        "healing-taken-base": 0
+      },
+      "passiveRankIds": []
     },
     "backBar": {
       "capturedAt": 1792450276,
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "stats": {
-        "penetration-physical": 0,
-        "magicka-recovery": 514,
-        "stamina-maximum": 12000,
-        "magicka-maximum": 27567,
         "power-spell": 1000,
-        "health-maximum": 21051,
         "resistance-physical": 0,
-        "health-recovery": 814,
-        "critical-rating-weapon": 2181,
-        "resistance-critical": 1320,
-        "stamina-recovery": 514,
-        "power-weapon": 1000,
         "resistance-spell": 0,
-        "critical-rating-spell": 2181,
-        "penetration-spell": 0
+        "magicka-maximum": 27567,
+        "magicka-recovery": 514,
+        "penetration-physical": 0,
+        "resistance-critical": 1320,
+        "stamina-maximum": 12000,
+        "health-recovery": 814,
+        "power-weapon": 1000,
+        "stamina-recovery": 514,
+        "critical-rating-weapon": 2181,
+        "penetration-spell": 0,
+        "health-maximum": 21051,
+        "critical-rating-spell": 2181
       },
       "unbonusedStats": {
-        "penetration-physical": 0,
-        "magicka-recovery": 514,
-        "stamina-maximum": 12000,
-        "magicka-maximum": 27567,
         "power-spell": 1000,
-        "health-maximum": 21051,
         "resistance-physical": 0,
-        "health-recovery": 814,
-        "critical-rating-weapon": 2181,
-        "resistance-critical": 0,
-        "stamina-recovery": 514,
-        "power-weapon": 1000,
         "resistance-spell": 0,
-        "critical-rating-spell": 2181,
-        "penetration-spell": 0
+        "magicka-maximum": 27567,
+        "magicka-recovery": 514,
+        "penetration-physical": 0,
+        "resistance-critical": 0,
+        "stamina-maximum": 12000,
+        "health-recovery": 814,
+        "power-weapon": 1000,
+        "stamina-recovery": 514,
+        "critical-rating-weapon": 2181,
+        "penetration-spell": 0,
+        "health-maximum": 21051,
+        "critical-rating-spell": 2181
       },
       "activeBuffs": [
         {
@@ -28530,16 +28532,16 @@
       "inArchive": false,
       "archiveBoons": [],
       "advanced": {
-        "healing-taken-base": 0,
         "healing-critical-bonus": 0,
         "critical-damage": 0,
-        "healing-done-base": 0
+        "healing-done-base": 0,
+        "healing-taken-base": 0
       }
     }
   },
   "rotationReading": {
-    "capturedAt": 1792449793,
-    "toughness": 19407.5815965397,
+    "capturedAt": 1792458166,
+    "toughness": 21051,
     "damage": 0,
     "healing": 0,
     "reavingBlowsShare": 0,
@@ -28556,7 +28558,7 @@
         "bar": "backBar",
         "healing": 1,
         "damage": 1,
-        "healthMaximum": 16169,
+        "healthMaximum": 21051,
         "armorShare": 0.0367424242,
         "damageTaken": 0
       }
