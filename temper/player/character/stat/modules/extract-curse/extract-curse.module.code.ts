@@ -7,7 +7,7 @@ import type { PipelineStage } from "akasha/temper/player/character/stat/modules/
 export const extractCurse: PipelineStage = (build, _context) => {
   const sources: CurseSource[] = []
 
-  if (build.character.vampireStage !== "") {
+  if (build.character.curseState === "vampire" && build.character.vampireStage !== "") {
     const curseSource = getCurseSource(build.character.vampireStage)
     if (curseSource) {
       sources.push(curseSource)

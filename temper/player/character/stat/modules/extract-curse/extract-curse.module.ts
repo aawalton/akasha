@@ -6,6 +6,13 @@ export const extractCurse = {
   slug: "extract-curse",
   definition: "the curse a build carries, read out as an effect source",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A vampire stage reaches the stats only of a build that carries the vampire curse.",
+    },
+  ],
   createdAt: "2026-09-02T14:06:51.855Z",
-  updatedAt: "2026-09-21T15:39:55.000Z",
+  updatedAt: "2026-10-20T15:37:18.184Z",
 } as const satisfies Module
