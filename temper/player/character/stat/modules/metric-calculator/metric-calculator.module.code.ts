@@ -103,10 +103,59 @@ function stacked(buff: EffectSource, stacks: number): EffectSource {
   return { ...buff, effects } as EffectSource
 }
 
+function isHigherOf(effect: unknown): boolean {
+  return isMetricEffect(effect) && effect.higherOf !== undefined
+}
+
+function withHigherOfSettled(sources: readonly EffectSource[]): readonly EffectSource[] {
+  if (!sources.some((source) => source.effects.some(isHigherOf))) return sources
+  const left = sources.map(
+    (source) =>
+      ({
+        ...source,
+        effects: source.effects.filter((effect) => !isHigherOf(effect)),
+      }) as EffectSource
+  )
+  const before = new Map<string, number>(evaluated(left).map((metric) => [metric.id, metric.value]))
+  const poolOf = (metricId: string): number => before.get(metricId) ?? 0
+  const highest = (metricIds: readonly string[]): string | undefined =>
+    metricIds.reduce<string | undefined>(
+      (best, metricId) => (best === undefined || poolOf(metricId) > poolOf(best) ? metricId : best),
+      undefined
+    )
+  const met = (effect: unknown): boolean =>
+    !isMetricEffect(effect) ||
+    effect.higherOf === undefined ||
+    highest(effect.higherOf) === effect.metricId
+  return sources.map((source) =>
+    source.effects.every(met)
+      ? source
+      : ({ ...source, effects: source.effects.filter(met) } as EffectSource)
+  )
+}
+
 function calculateBaseStats(
   given: readonly EffectSource[]
 ): Partial<Record<MetricId, MetricValue>> {
-  const sources = withConditionsMet(given)
+  const results = evaluated(withHigherOfSettled(withConditionsMet(given)))
+
+  for (const metric of results) {
+    if (
+      (metric.valueType === "integer" || metric.valueType === "rating") &&
+      !Number.isInteger(metric.value)
+    ) {
+      throw new Error(
+        `Metric '${metric.id}' has valueType 'integer' but value ${metric.value} is not an integer`
+      )
+    }
+  }
+
+  const nonZeroResults = results.filter((metric) => metric.value !== 0)
+
+  return indexBy(nonZeroResults, "id")
+}
+
+function evaluated(sources: readonly EffectSource[]): MetricValue[] {
   const withFormulas = metricsWithFormulas()
   const dependencies = buildDependencyGraph(withFormulas)
 
@@ -143,20 +192,7 @@ function calculateBaseStats(
     results.push({ ...metric, value })
   }
 
-  for (const metric of results) {
-    if (
-      (metric.valueType === "integer" || metric.valueType === "rating") &&
-      !Number.isInteger(metric.value)
-    ) {
-      throw new Error(
-        `Metric '${metric.id}' has valueType 'integer' but value ${metric.value} is not an integer`
-      )
-    }
-  }
-
-  const nonZeroResults = results.filter((metric) => metric.value !== 0)
-
-  return indexBy(nonZeroResults, "id")
+  return results
 }
 
 function calculateMetricValues(sources: readonly EffectSource[]): CalculationResult {

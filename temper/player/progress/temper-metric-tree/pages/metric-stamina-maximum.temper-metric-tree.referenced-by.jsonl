@@ -1,4 +1,5 @@
 {"propertySlug":"effect-metric","path":"temper/catalog/effect/temper-buff-other/pages/aggressive-horn/aggressive-horn.temper-buff-other.ts","id":"01a156bc-7356-77e2-bbda-b4abdbc10b0a"}
+{"propertySlug":"effect-metric","path":"temper/catalog/effect/temper-buff-other/pages/blood-magic/blood-magic.temper-buff-other.ts","id":"01a15688-49de-7b53-9a7d-8785fbeb4527"}
 {"propertySlug":"effect-metric","path":"temper/catalog/effect/temper-buff-other/pages/blood-scion/blood-scion.temper-buff-other.ts","id":"01a15722-ecd1-7b2c-b760-0a18184f710a"}
 {"propertySlug":"effect-metric","path":"temper/catalog/effect/temper-buff-other/pages/escalating-fete/escalating-fete.temper-buff-other.ts","id":"01a156bd-1592-7914-af95-04a9c347b594"}
 {"propertySlug":"effect-metric","path":"temper/catalog/effect/temper-buff-other/pages/perfect-scion/perfect-scion.temper-buff-other.ts","id":"01a1567d-b2fb-71db-a666-3d60e3c1d2ec"}
@@ -40,3 +41,4 @@
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-jewelry-trait/pages/triune/grades/jewelry-trait-triune-legendary-stamina-maximum.temper-gear-grade.ts","id":"01a0d3eb-ab02-7a86-b4a4-be0695edd7ee"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-jewelry-trait/pages/triune/grades/jewelry-trait-triune-normal-stamina-maximum.temper-gear-grade.ts","id":"01a0d3eb-7ceb-7962-820c-17bc4c5be1ab"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-jewelry-trait/pages/triune/grades/jewelry-trait-triune-superior-stamina-maximum.temper-gear-grade.ts","id":"01a0d3eb-9a17-70f5-a2f0-5b56582761fe"}
+{"propertySlug":"higher-of","path":"temper/catalog/effect/temper-buff-other/pages/blood-magic/blood-magic.temper-buff-other.ts","id":"01a15688-49de-7b53-9a7d-8785fbeb4527"}

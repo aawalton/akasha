@@ -75,6 +75,20 @@ const ELDRITCH_INSIGHT_SPENT: readonly (readonly [number, number])[] = [
   [20, 520],
 ]
 
+function poolsOf(listed: readonly { abilityId: number; name: string }[]): readonly number[] {
+  const build = withWarfare([], [])
+  const { metrics } = calculateReadingStatsByBar(build, "primary-weapon-bar", listed, [])
+  return [metrics["magicka-maximum"]?.value ?? 0, metrics["stamina-maximum"]?.value ?? 0]
+}
+
+test("Blood Magic raises only the higher of max magicka and max stamina", () => {
+  const [magicka = 0, stamina = 0] = poolsOf([])
+  const [magickaWith = 0, staminaWith = 0] = poolsOf([{ abilityId: 252508, name: "Blood Magic" }])
+  const magickaHigher = magicka >= stamina
+  expect(magickaWith > magicka).toBe(magickaHigher)
+  expect(staminaWith > stamina).toBe(!magickaHigher)
+})
+
 for (const [points, magicka] of ELDRITCH_INSIGHT_SPENT) {
   test(`Eldritch Insight with ${String(points)} points gives ${String(magicka)} max magicka`, () => {
     expect(magickaGiven(ELDRITCH_INSIGHT, points, false)).toBe(magicka)

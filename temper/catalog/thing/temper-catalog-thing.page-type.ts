@@ -32,6 +32,7 @@ export const temperCatalogThing = {
     "relation-property/skill-line",
     "boolean-property/per-piece",
     "boolean-property/per-ability",
+    "multi-relation-property/higher-of",
     "number-property/effect-rank",
   ],
   properties: [
@@ -53,5 +54,5 @@ export const temperCatalogThing = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T01:16:20.586Z",
-  updatedAt: "2026-10-20T02:05:52.989Z",
+  updatedAt: "2026-10-20T02:30:51.243Z",
 } as const satisfies PageType

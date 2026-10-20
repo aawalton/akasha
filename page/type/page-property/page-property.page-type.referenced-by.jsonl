@@ -240,6 +240,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/skill/temper-grimoire/properties/granted-buffs.one-of-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/skill/temper-scribing-source/properties/zone-slugs.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/thing/properties/effect-weapon-types.text-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/thing/properties/higher-of.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/map-positions.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/place-kinds.number-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/items/core/temper-browser-category/properties/browser-armor-weights.multi-relation-property.types.ts","typed":true,"deferred":false}

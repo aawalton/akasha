@@ -1,1 +1,2 @@
-{"id":"01a15688-377c-7ec6-8fa4-20f055d1b2a8","metricId":"temper-metric-tree/metric-magicka-maximum","type":"fractional-change","value":0.1}
+{"id":"01a15688-377c-7ec6-8fa4-20f055d1b2a8","metricId":"temper-metric-tree/metric-magicka-maximum","type":"fractional-change","value":0.1,"higherOf":["temper-metric-tree/metric-magicka-maximum","temper-metric-tree/metric-stamina-maximum"]}
+{"id":"01a15725-b469-7e48-b690-e92f10d7ac67","metricId":"temper-metric-tree/metric-stamina-maximum","type":"fractional-change","value":0.1,"higherOf":["temper-metric-tree/metric-magicka-maximum","temper-metric-tree/metric-stamina-maximum"]}

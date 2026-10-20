@@ -60,7 +60,25 @@ export function entryEffectOf(entry: Value, nodes: MetricNodes, at: string): Eff
   }
   const effectValue =
     typeof entry.seconds === "number" ? { value: entry.value, seconds: entry.seconds } : entry.value
-  return { metricId, effectType: entry.type, effectValue } as Effect
+  const higherOf = higherOfIn(entry.higherOf, nodes, at)
+  return {
+    metricId,
+    effectType: entry.type,
+    effectValue,
+    ...(higherOf === null ? {} : { higherOf }),
+  } as Effect
+}
+
+function higherOfIn(named: unknown, nodes: MetricNodes, at: string): readonly string[] | null {
+  if (!Array.isArray(named)) return null
+  return named.map((one: unknown) => {
+    const slug = slugIn(one)
+    const metricId = slug === null ? undefined : nodes.get(slug)
+    if (metricId === undefined) {
+      throw new Error(`${at} compares \`${String(one)}\`, which is no stat tree node`)
+    }
+    return metricId
+  })
 }
 
 export function entryEffectsOf(value: Value, nodes: MetricNodes, at: string): readonly Effect[] {

@@ -25,6 +25,7 @@ type MetricEffectBase = {
   metricId: string
   slottedBehavior?: SlottedBehavior
   whileBuffs?: readonly string[]
+  higherOf?: readonly string[]
 }
 
 export type MetricEffect =
