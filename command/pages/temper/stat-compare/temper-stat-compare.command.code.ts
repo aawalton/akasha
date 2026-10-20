@@ -187,6 +187,27 @@ function rowLine(row: Row, width: number): string {
   return `  ${mark} ${row.stat.padEnd(width)} ${cell(String(row.game))} ${cell(estimate)} ${cell(delta)}`
 }
 
+const FORMAT = "flat-and-percent".length
+
+function sheetCell(value: number | undefined): string {
+  return cell(value === undefined ? "-" : String(value))
+}
+
+export function advancedSheetLines(reading: ReadingLine["reading"]): readonly string[] {
+  const sheet = reading.advancedSheet
+  if (sheet === undefined) return ["  advanced (game): none kept"]
+  const entries = Object.entries(sheet).sort(([one], [two]) => one.localeCompare(two))
+  const width = Math.max(4, ...entries.map(([name]) => name.length))
+  return [
+    "  advanced (game)",
+    `    ${"stat".padEnd(width)} ${"format".padEnd(FORMAT)} ${cell("flat")} ${cell("percent")}`,
+    ...entries.map(
+      ([name, value]) =>
+        `    ${name.padEnd(width)} ${value.format.padEnd(FORMAT)} ${sheetCell(value.flat)} ${sheetCell(value.percent)}`
+    ),
+  ]
+}
+
 function blockOf(one: Compared): readonly string[] {
   const width = Math.max(4, ...one.rows.map((row) => row.stat.length))
   const matched = one.rows.filter((row) => row.estimate === row.game).length
@@ -198,6 +219,7 @@ function blockOf(one: Compared): readonly string[] {
     head,
     ...one.rows.map((row) => rowLine(row, width)),
     `  ${String(matched)} of ${String(one.rows.length)} match`,
+    ...advancedSheetLines(one.line.reading),
     "",
   ]
 }
@@ -256,6 +278,7 @@ export async function temperStatCompare(argv: readonly string[], given: Given): 
         unmatchedBuffs: one.unmatchedBuffs,
         unestimated: one.unestimated,
         stats: one.rows,
+        advancedSheet: one.line.reading.advancedSheet ?? null,
       })),
       unread,
     })

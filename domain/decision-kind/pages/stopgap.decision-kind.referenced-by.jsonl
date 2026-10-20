@@ -32,6 +32,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/reading/temper-inventory-reading.command.ts","id":"01a0603c-c1d9-7ef8-acb9-f19095076d6e"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.ts","id":"01a09f61-ca3e-75ea-9e65-23af74517db1"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/rule/show/temper-inventory-rule-show.command.ts","id":"01a0603c-c1d8-7a9c-b7d3-8fab0e6c8abf"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/stat-compare/temper-stat-compare.command.ts","id":"01a13ac6-0c63-7b9c-bc03-6035eeeed9e2"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/tps/modules/game-reading-comparing/game-reading-comparing.module.ts","id":"01a155b2-0bbf-7ab6-a43f-c1b6e54b5e30"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/tps/modules/last-fight-reading/last-fight-reading.module.ts","id":"01a1402a-1c61-718a-9f38-8d2864c9aa2e"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/tps/temper-tps.command.ts","id":"01a13c20-c7d3-7f3b-bb59-c86221a8b893"}

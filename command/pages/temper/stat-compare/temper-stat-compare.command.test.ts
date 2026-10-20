@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
+  advancedSheetLines,
   headerOf,
   temperStatCompare,
 } from "akasha/command/pages/temper/stat-compare/temper-stat-compare.command.code.ts"
@@ -61,6 +62,26 @@ test("a reading's header names the race and class its build holds", () => {
 
 test("a reading whose build does not decode says so in its header", () => {
   expect(headerOf(LINE, null)).toContain("frontBar  build unread  eso")
+})
+
+test("a reading's advanced stats are shown as the game gave them, with no estimate", () => {
+  const reading = {
+    ...LINE.reading,
+    advancedSheet: {
+      "physical-resist": { format: "percent" as const, percent: 31.5 },
+      armor: { format: "flat" as const, flat: 18200 },
+    },
+  }
+  const lines = advancedSheetLines(reading)
+
+  expect(lines[0]).toBe("  advanced (game)")
+  expect(lines[1]).not.toContain("temper")
+  expect(lines[2]).toMatch(/^ {4}armor +flat +18200 +-$/)
+  expect(lines[3]).toMatch(/^ {4}physical-resist +percent +- +31\.5$/)
+})
+
+test("a reading keeping no advanced stats says so", () => {
+  expect(advancedSheetLines(LINE.reading)).toEqual(["  advanced (game): none kept"])
 })
 
 test("a reading named both by when it was captured and by its id is refused", async () => {

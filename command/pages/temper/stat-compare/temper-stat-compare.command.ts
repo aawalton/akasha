@@ -67,6 +67,15 @@ export const temperStatCompare = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Each reading shows the advanced stats the game's sheet gave in a section of its own.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "That section sets no estimate beside the game's values.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A stat named alone is shown one line to a reading.",
     },
     {
@@ -88,5 +97,5 @@ export const temperStatCompare = {
     { argument: "argument/json" },
   ],
   createdAt: "2026-10-14T14:17:00.259Z",
-  updatedAt: "2026-10-19T23:33:18.829Z",
+  updatedAt: "2026-10-20T11:33:32.077Z",
 } as const satisfies Command
