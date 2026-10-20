@@ -18,9 +18,10 @@ export const packLeader39075 = {
   rank: 1,
   skillLineId: "temper-skill-line/world-werewolf",
   skillType: "temper-skill-type/ultimate",
+  effects: "jsonl",
   hashPlace: 870,
   createdAt: "2026-05-28T16:03:33.209Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-20T15:52:43.652Z",
   equations: [
     "<<1>> = 3 seconds (Constant)",
     "<<2>> = Major Protection (Constant)",
