@@ -5638,6 +5638,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/return/modules/engine-returns-seeding/engine-returns-seeding.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/return/modules/player-answers-seeding/player-answers-seeding.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/saved-variable/modules/account-wide/account-wide.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/saved-variable/modules/landing-queue/landing-queue.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/saved-variable/modules/lua-array/lua-array.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/saved-variable/modules/lua-parser/lua-parser.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/saved-variable/modules/lua-serializer/lua-serializer.module.ts","typed":true,"deferred":false}

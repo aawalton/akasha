@@ -43,9 +43,9 @@ export const memoryCapture = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "What was read is marked seen only once the caller has landed it.",
+      statement: "What was read is marked seen only once the caller has queued it to land.",
     },
   ],
   createdAt: "2026-10-19T19:08:25.036Z",
-  updatedAt: "2026-10-19T23:54:39.519Z",
+  updatedAt: "2026-10-20T17:26:14.678Z",
 } as const satisfies Module

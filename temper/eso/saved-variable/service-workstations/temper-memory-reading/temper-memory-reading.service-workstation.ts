@@ -51,6 +51,10 @@ export const temperMemoryReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A look queues what it found to land and goes on without waiting for the landing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A look that fails is said in the log and the next look goes on.",
     },
     {
@@ -59,5 +63,5 @@ export const temperMemoryReading = {
     },
   ],
   createdAt: "2026-10-19T19:08:25.036Z",
-  updatedAt: "2026-10-19T23:51:26.016Z",
+  updatedAt: "2026-10-20T17:26:14.678Z",
 } as const satisfies ServiceWorkstation

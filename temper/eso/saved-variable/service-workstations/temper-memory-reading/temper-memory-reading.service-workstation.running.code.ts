@@ -18,6 +18,10 @@ import {
   stopsOnSignal,
 } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/tick-sleeping/tick-sleeping.module.code.ts"
 import {
+  type LandingQueue,
+  landingQueueOf,
+} from "akasha/temper/eso/saved-variable/modules/landing-queue/landing-queue.module.code.ts"
+import {
   CHARACTERS_GLOBAL,
   capturedFrom,
   FIGHTS_GLOBAL,
@@ -25,8 +29,14 @@ import {
   type Seen,
   seenAfresh,
 } from "akasha/temper/eso/saved-variable/modules/memory-capture/memory-capture.module.code.ts"
-import { landReadings } from "akasha/temper/player/character/stat/modules/build-reading-lines/build-reading-lines.module.code.ts"
-import { landFights } from "akasha/temper/watcher/modules/watcher-import-fights/watcher-import-fights.module.code.ts"
+import {
+  type BuildReading,
+  landReadings,
+} from "akasha/temper/player/character/stat/modules/build-reading-lines/build-reading-lines.module.code.ts"
+import {
+  type Fight,
+  landFights,
+} from "akasha/temper/watcher/modules/watcher-import-fights/watcher-import-fights.module.code.ts"
 
 const EVERY_MS = 1_000
 
@@ -142,14 +152,19 @@ function stale(watching: Watching | null, pid: number, now: number): boolean {
   )
 }
 
-async function lookOnce(watching: Watching, seen: Seen, looked: boolean): Promise<boolean> {
+type Queues = {
+  readonly readings: LandingQueue<BuildReading>
+  readonly fights: LandingQueue<Fight>
+}
+
+function lookOnce(watching: Watching, seen: Seen, looked: boolean, queues: Queues): boolean {
   const roots = {
     characters: rootOf(watching, watching.characters),
     fights: rootOf(watching, watching.fights),
   }
   const captured = capturedFrom(watching.read, roots, seen, looked)
-  if (captured.readings.length > 0) await landReadings(captured.readings, { report: say })
-  if (captured.fights.length > 0) await landFights(captured.fights, { report: say })
+  queues.readings.add(captured.readings)
+  queues.fights.add(captured.fights)
   markSeen(seen, captured)
   return roots.fights !== null
 }
@@ -157,6 +172,10 @@ async function lookOnce(watching: Watching, seen: Seen, looked: boolean): Promis
 export async function runService(): Promise<never> {
   const stopping = stopsOnSignal()
   const seen = seenAfresh()
+  const queues: Queues = {
+    readings: landingQueueOf((many) => landReadings(many, { report: say }), say),
+    fights: landingQueueOf((many) => landFights(many, { report: say }), say),
+  }
   const hot = new Set<bigint>()
   let watching: Watching | null = null
   let scannedAt = 0
@@ -175,7 +194,7 @@ export async function runService(): Promise<never> {
         scannedAt = Date.now()
       }
       if (pid !== null && watching !== null) {
-        looked = (await lookOnce(watching, seen, looked)) || looked
+        looked = lookOnce(watching, seen, looked, queues) || looked
       }
     } catch (thrown) {
       const stack = thrown instanceof Error ? (thrown.stack ?? "") : ""

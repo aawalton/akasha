@@ -12,6 +12,7 @@ export const temperSavedVariable = {
     "module/lua-serializer",
     "domain/temper-saved-vars-migration",
     "module/memory-capture",
+    "module/landing-queue",
     "service-workstation/temper-memory-reading",
   ],
   decisions: [
@@ -39,5 +40,5 @@ export const temperSavedVariable = {
     },
   ],
   createdAt: "2026-09-02T04:14:21.235Z",
-  updatedAt: "2026-10-19T19:08:25.036Z",
+  updatedAt: "2026-10-20T17:26:14.678Z",
 } as const satisfies Domain
