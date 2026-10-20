@@ -213,6 +213,7 @@ export const reportedStatsReadingSchema = z.strictObject({
   buildHash: buildHashSchema.optional(),
   esoVersion: z.string().optional(),
   inCombat: z.boolean(),
+  ultimate: z.number().optional(),
   stats: z.record(z.string(), z.number()),
   unbonusedStats: z.record(z.string(), z.number()).optional(),
   activeBuffs: luaArrayOrEmpty(activeBuffSchema).optional(),
