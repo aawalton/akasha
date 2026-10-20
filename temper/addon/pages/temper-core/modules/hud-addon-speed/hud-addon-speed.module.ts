@@ -23,11 +23,7 @@ export const hudAddonSpeed = {
       decisionKind: "decision-kind/departure",
       statement: "A player not moving has no speed shown.",
     },
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement: "The readings are kept in the saved variables until the scale is seen right.",
-    },
   ],
   createdAt: "2026-10-20T18:57:51.483Z",
-  updatedAt: "2026-10-20T18:57:51.483Z",
+  updatedAt: "2026-10-20T19:06:51.920Z",
 } as const satisfies Module

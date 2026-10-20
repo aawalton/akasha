@@ -16,7 +16,6 @@ export interface HudSavedVariables {
   schemaVersion: number
   session: { startTime: number }
   componentVisibility: Record<string, boolean>
-  speedTrace?: { at: number; zone: number; x: number; z: number; speed: number }[]
 }
 
 export const HUD_SAVED_VARIABLES_DEFAULTS: HudSavedVariables = {
