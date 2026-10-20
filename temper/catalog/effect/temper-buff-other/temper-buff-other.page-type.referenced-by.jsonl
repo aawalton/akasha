@@ -24,6 +24,7 @@
 {"propertySlug":"import","fileName":"temper-buff-other.page-type.types.ts","path":"temper/catalog/effect/temper-buff-other/pages/summon-unstable-familiar/summon-unstable-familiar.temper-buff-other.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-buff-other.page-type.types.ts","path":"temper/catalog/effect/temper-buff-other/pages/summon-volatile-familiar/summon-volatile-familiar.temper-buff-other.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-buff-other.page-type.types.ts","path":"temper/catalog/effect/temper-buff-other/pages/summon-winged-twilight/summon-winged-twilight.temper-buff-other.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-buff-other.page-type.types.ts","path":"temper/catalog/effect/temper-buff-other/pages/sunderer/sunderer.temper-buff-other.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-buff-other.page-type.types.ts","path":"temper/catalog/effect/temper-buff-other/pages/swarming-scion/swarming-scion.temper-buff-other.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-buff-other.page-type.types.ts","path":"temper/catalog/effect/temper-buff-other/pages/vanish/vanish.temper-buff-other.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-buff-other.page-type.types.ts","path":"temper/catalog/effect/temper-buff-other/pages/war-horn/war-horn.temper-buff-other.ts","typed":true,"deferred":false}
