@@ -387,7 +387,7 @@ export function useAllCompanionList(userId: string | null) {
   })
   const publicRead = usePages({
     pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
-    where: [{ key: "visibility", eq: "public" }],
+    where: [{ key: "visibility", neq: "private" }],
     order: [{ by: "updatedAt", dir: "desc" }],
     limit: 500,
   })
