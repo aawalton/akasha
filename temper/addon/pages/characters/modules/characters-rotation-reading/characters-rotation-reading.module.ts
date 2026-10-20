@@ -38,7 +38,12 @@ export const charactersRotationReading = {
     {
       decisionKind: "decision-kind/stopgap",
       statement:
-        "Damage taken is the sum of each buff and boon whose text changes your damage taken by a percent.",
+        "Damage taken sums each buff, boon and class passive whose text moves damage taken by a percent.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The champion stars spent add the martial and magical damage taken their star pages give.",
     },
     {
       decisionKind: "decision-kind/stopgap",
@@ -55,5 +60,5 @@ export const charactersRotationReading = {
     },
   ],
   createdAt: "2026-10-19T19:38:44.378Z",
-  updatedAt: "2026-10-20T00:13:13.759Z",
+  updatedAt: "2026-10-20T13:33:00.625Z",
 } as const satisfies Module

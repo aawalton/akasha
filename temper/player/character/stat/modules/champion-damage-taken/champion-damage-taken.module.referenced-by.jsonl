@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"champion-damage-taken.module.code.ts","path":"temper/addon/pages/characters/modules/characters-rotation-reading/characters-rotation-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"champion-damage-taken.module.code.ts","path":"temper/player/character/stat/modules/champion-damage-taken/champion-damage-taken.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"champion-damage-taken.module.code.ts","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/stat/temper-character-stat.domain.ts","id":"01a0612f-aae6-7c1d-a590-b3004241a082"}

@@ -1,6 +1,7 @@
 import { currentCharacterEntry } from "akasha/temper/addon/pages/characters/modules/characters-current-entry/characters-current-entry.module.code.ts"
 import { heldBarReading } from "akasha/temper/addon/pages/characters/modules/characters-reported-stats/characters-reported-stats.module.code.ts"
 import { reavingBlows } from "akasha/temper/catalog/champion-point/temper-champion-star/pages/reaving-blows.temper-champion-star.ts"
+import { starsDamageTaken } from "akasha/temper/player/character/stat/modules/champion-damage-taken/champion-damage-taken.module.code.ts"
 import {
   type Multipliers,
   type RotationBar,
@@ -44,9 +45,9 @@ const CHAMPION_SLOTS = 12
 
 const PERCENT = 100
 
-const DAMAGE_TAKEN_DOWN = textPattern("{reduces|reducing|reduce} your damage taken by <n>%")
+const DAMAGE_TAKEN_DOWN = textPattern("{reduces|reducing|reduce} [your ]damage taken by <n>%")
 
-const DAMAGE_TAKEN_UP = textPattern("{increases|increasing|increase} your damage taken by <n>%")
+const DAMAGE_TAKEN_UP = textPattern("{increases|increasing|increase} [your ]damage taken by <n>%")
 
 const BARS = [
   ["frontBar", EQUIP_SLOT_MAIN_HAND, EQUIP_SLOT_OFF_HAND],
@@ -86,7 +87,16 @@ function damageTakenOf(reading: Reading): number {
     taken += damageTakenIn(`${buff.effect ?? ""} ${buff.description ?? ""}`)
   }
   for (const boon of reading.archiveBoons ?? []) taken += damageTakenIn(boon.description)
+  for (const passive of reading.classPassives ?? []) taken += damageTakenIn(passive.description)
   return taken
+}
+
+function slottedStarsNow(): number[] {
+  const slotted: number[] = []
+  for (let slot = 1; slot <= CHAMPION_SLOTS; slot += 1) {
+    slotted.push(GetSlotBoundId(slot, HOTBAR_CATEGORY_CHAMPION))
+  }
+  return slotted
 }
 
 function liveMultipliers(reading: Reading): Multipliers | undefined {
@@ -97,6 +107,7 @@ function liveMultipliers(reading: Reading): Multipliers | undefined {
   const rating = Math.max(stat("critical-rating-weapon"), stat("critical-rating-spell"))
   const chance = Math.min(1, rating / criticalRating.divisor)
   const taken = damageTakenOf(reading)
+  const stars = starsDamageTaken(reading.championPoints ?? [], slottedStarsNow())
   return {
     healing:
       (1 + share("healing-done-base")) *
@@ -106,8 +117,8 @@ function liveMultipliers(reading: Reading): Multipliers | undefined {
     healthMaximum: stat("health-maximum"),
     physicalShare: physicalShareOf(stat("resistance-physical")),
     spellShare: spellShareOf(stat("resistance-spell")),
-    damageTakenMartial: taken,
-    damageTakenMagical: taken,
+    damageTakenMartial: taken + stars.martial,
+    damageTakenMagical: taken + stars.magical,
   }
 }
 
@@ -130,12 +141,8 @@ function rotationBarOf(reading: Reading, main: number, off: number): RotationBar
 
 function reavingBlowsShareNow(): number {
   const star = reavingBlows.esoChampionSkillId
-  for (let slot = 1; slot <= CHAMPION_SLOTS; slot += 1) {
-    if (GetSlotBoundId(slot, HOTBAR_CATEGORY_CHAMPION) === star) {
-      return reavingBlowsShareOf(plainText(GetChampionSkillDescription(star)))
-    }
-  }
-  return 0
+  if (!slottedStarsNow().includes(star)) return 0
+  return reavingBlowsShareOf(plainText(GetChampionSkillDescription(star)))
 }
 
 function keptOf(key: BarKept["bar"], bar: RotationBar): BarKept | undefined {
