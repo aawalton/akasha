@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQKNIDAAIBhxAkDE_tnAGJ_bOABAA0KIZMFs4IEADQoBkwWzgDJgtnAg0drchBAq25CCBVtypkACrcIgmOtuUSiujklLE8ruM5x0uJJMhGiAiddgqG_3gAJxQk4xcng-Bd__Hbga6GTSK6IFI991UEf14MeIlQiIyICAyMyAiIiIyIgMgIjUiIiAjIjNCIAIjQgMjIzMyNAIARDIiMDojI0A6AiJkMzIjQgAAAjgiICJKMyA0IiIjAjosujXqMyLEmVjyZZcybOz6NOrXtn0KNKnU8VVjeOyOHj65egYskLRE2bo3TtIlTJ36hTBVQlcdYYJHDZsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJvgFMmWAgk14ZLOeJjBIDGFAhHmwXWK1ymYYi54JJQiAHt5m1r2nmuHsoGQ",
+  "buildHash": "ATQKNIDAAIBhxAkDE_tnAGJ_bOABAA0KIZMFs4IEADQoBkwWzgDJgtnAg0drcilAAq3GAABoACQwAFW6IgmOtuUSiujklLE8ruM5x0uJJMhGiAiddgqG_3gAJxQk4xcng-Bd__Hbga6GTSK6IFI991UEf14MeIlQiIyICAyMyAiIiIyIgMgIjUiIiAjIjNCIAIjQgMjIzMyNAIARDIiMDojI0A6AiJkMzIjQgAAAjgiICJKMyA0IiIjAjosujXqMyLEmVjyZZcybOz6NOrXtn0KNKnU8VVjeOyOHj65egYskLRE2bo3TtIlTJ36hTBVQlcdYYJHDZsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJvgFMmWAgk14ZLOeJjBIDGFAhHmwXWK1ymYYi54JJQiAHt5m1r2nmuHsoGQ",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -28354,13 +28354,13 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792518446,
-      "buildHash": "ATQKNIDAAIBhxAkDE_tnAGJ_bOABAA0KIZMFs4IEADQoBkwWzgDJgtnAg0drchBAq25CCBVtypkACrcIgmOtuUSiujklLE8ruM5x0uJJMhGiAiddgqG_3gAJxQk4xcng-Bd__Hbga6GTSK6IFI991UEf14MeIlQiIyICAyMyAiIiIyIgMgIjUiIiAjIjNCIAIjQgMjIzMyNAIARDIiMDojI0A6AiJkMzIjQgAAAjgiICJKMyA0IiIjAjosujXqMyLEmVjyZZcybOz6NOrXtn0KNKnU8VVjeOyOHj65egYskLRE2bo3TtIlTJ36hTBVQlcdYYJHDZsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJvgFMmWAgk14ZLOeJjBIDGFAhHmwXWK1ymYYi54JJQiAHt5m1r2nmuHsoGQ",
+      "capturedAt": 1792518818,
+      "buildHash": "ATQKNIDAAIBhxAkDE_tnAGJ_bOABAA0KIZMFs4IEADQoBkwWzgDJgtnAg0drcilAAq3GAABoACQwAFW6IgmOtuUSiujklLE8ruM5x0uJJMhGiAiddgqG_3gAJxQk4xcng-Bd__Hbga6GTSK6IFI991UEf14MeIlQiIyICAyMyAiIiIyIgMgIjUiIiAjIjNCIAIjQgMjIzMyNAIARDIiMDojI0A6AiJkMzIjQgAAAjgiICJKMyA0IiIjAjosujXqMyLEmVjyZZcybOz6NOrXtn0KNKnU8VVjeOyOHj65egYskLRE2bo3TtIlTJ36hTBVQlcdYYJHDZsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJvgFMmWAgk14ZLOeJjBIDGFAhHmwXWK1ymYYi54JJQiAHt5m1r2nmuHsoGQ",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "ultimate": 57,
-      "health": 33023,
-      "healthBefore": 32095,
+      "health": 32095,
+      "healthBefore": 32584,
       "healthPaired": false,
       "elderDragonAmount": 0,
       "stats": {
@@ -28368,17 +28368,17 @@
         "penetration-physical": 3289,
         "critical-rating-spell": 6006,
         "critical-rating-weapon": 6006,
-        "power-spell": 1684,
-        "power-weapon": 1684,
-        "resistance-physical": 32152,
+        "power-spell": 2387,
+        "power-weapon": 2387,
+        "resistance-physical": 31705,
         "magicka-maximum": 19461,
-        "stamina-recovery": 566,
-        "health-recovery": 1182,
+        "stamina-recovery": 545,
+        "health-recovery": 1337,
         "resistance-critical": 1320,
         "penetration-spell": 3289,
-        "health-maximum": 33023,
-        "resistance-spell": 32878,
-        "stamina-maximum": 26071
+        "health-maximum": 32095,
+        "resistance-spell": 32431,
+        "stamina-maximum": 24214
       },
       "unbonusedStats": {
         "magicka-recovery": 535,
@@ -28389,13 +28389,13 @@
         "power-weapon": 1000,
         "resistance-physical": 0,
         "magicka-maximum": 19461,
-        "stamina-recovery": 566,
-        "health-recovery": 1182,
+        "stamina-recovery": 545,
+        "health-recovery": 1337,
         "resistance-critical": 0,
         "penetration-spell": 0,
-        "health-maximum": 33023,
+        "health-maximum": 32095,
         "resistance-spell": 0,
-        "stamina-maximum": 26071
+        "stamina-maximum": 24214
       },
       "activeBuffs": [
         {
@@ -29111,13 +29111,13 @@
           ]
         },
         {
-          "slot": 5,
-          "link": "|H0:item:45223:366:50:26580:366:50:0:0:0:0:0:0:0:0:0:1:1:0:0:10000:0|h|h",
-          "armor": 1500,
-          "weaponPower": 0,
-          "enchant": "Adds |cffffff800|r Maximum Health.",
-          "enchantCategory": 11,
-          "trait": "Increase armor enchantment effect by |cffffff9|r%.",
+          "slot": 4,
+          "link": "|H0:item:45145:366:50:45868:366:50:0:0:0:0:0:0:0:0:0:1:1:0:0:200:0|h|h",
+          "armor": 0,
+          "weaponPower": 1037,
+          "enchant": "Deals |cffffff1702|r Magic Damage and restores |cffffff299|r Magicka.",
+          "enchantCategory": 23,
+          "trait": "Increases weapon enchantment effect by |cffffff10|r% and reduces enchantment cooldown by |cFFFFFF50|r%.",
           "quality": 1,
           "setId": 0
         },
@@ -29210,59 +29210,25 @@
         },
         {
           "slot": 11,
-          "link": "|H0:item:69385:364:50:45883:370:50:31:25:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
+          "link": "|H0:item:139398:366:50:26581:366:50:0:0:0:0:0:0:0:0:0:0:1:0:0:0:0|h|h",
           "armor": 0,
-          "weaponPower": 174,
-          "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery.",
-          "enchantCategory": 31,
-          "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff350|r.",
-          "quality": 5,
-          "setId": 206,
-          "setName": "Agility",
-          "setBonusCount": 2,
-          "setEquipped": 2,
-          "setMaxEquipped": 3,
-          "setPerfectedEquipped": 0,
-          "setBonuses": [
-            {
-              "required": 2,
-              "description": "(2 items) Adds |cffffff1752|r Maximum Stamina",
-              "perfected": false
-            },
-            {
-              "required": 3,
-              "description": "(3 items) Adds 206 Weapon and Spell Damage",
-              "perfected": false
-            }
-          ]
+          "weaponPower": 0,
+          "enchant": "Adds |cffffff150|r Health Recovery.",
+          "enchantCategory": 12,
+          "trait": "Increases jewelry enchantment effectiveness by |cffffff24|r%.",
+          "quality": 1,
+          "setId": 0
         },
         {
           "slot": 12,
-          "link": "|H0:item:69385:364:50:45883:370:50:31:25:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
+          "link": "|H0:item:139397:366:50:0:0:0:0:0:0:0:0:0:0:0:0:0:1:0:0:0:0|h|h",
           "armor": 0,
-          "weaponPower": 174,
-          "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery.",
-          "enchantCategory": 31,
-          "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff350|r.",
-          "quality": 5,
-          "setId": 206,
-          "setName": "Agility",
-          "setBonusCount": 2,
-          "setEquipped": 2,
-          "setMaxEquipped": 3,
-          "setPerfectedEquipped": 0,
-          "setBonuses": [
-            {
-              "required": 2,
-              "description": "(2 items) Adds |cffffff1752|r Maximum Stamina",
-              "perfected": false
-            },
-            {
-              "required": 3,
-              "description": "(3 items) Adds 206 Weapon and Spell Damage",
-              "perfected": false
-            }
-          ]
+          "weaponPower": 0,
+          "enchant": "",
+          "enchantCategory": 0,
+          "trait": "Increases Spell Resistance and Physical Resistance by |cffffff1053|r.",
+          "quality": 1,
+          "setId": 0
         },
         {
           "slot": 16,
@@ -29325,7 +29291,7 @@
             },
             {
               "required": 2,
-              "description": "(2 items) Activating Critical Charge stirs up a barbarous lust for battle within you for |cffffff18|r seconds, increasing your damage done with direct damage attacks by |cffffff3|r%, up to a maximum of |cffffff12|r%. This effect scales off the higher of your Weapon or Spell Damage.",
+              "description": "(2 items) Activating Critical Charge stirs up a barbarous lust for battle within you for |cffffff18|r seconds, increasing your damage done with direct damage attacks by |cffffff4|r%, up to a maximum of |cffffff12|r%. This effect scales off the higher of your Weapon or Spell Damage.",
               "perfected": false
             }
           ]
@@ -29336,7 +29302,7 @@
           "slot": 3,
           "abilityId": 38754,
           "name": "Brawler",
-          "description": "Focus your strength into a mighty swing, dealing |cffffff4078|r Physical Damage to enemies in front of you.\n\nYou also gain a damage shield that absorbs |cffffff4024|r damage for |cffffff6|r seconds. Each enemy hit increases the damage shield's strength by |cffffff50|r%, up to |cffffff300|r%.",
+          "description": "Focus your strength into a mighty swing, dealing |cffffff4557|r Physical Damage to enemies in front of you.\n\nYou also gain a damage shield that absorbs |cffffff4532|r damage for |cffffff6|r seconds. Each enemy hit increases the damage shield's strength by |cffffff50|r%, up to |cffffff300|r%.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -29347,7 +29313,7 @@
           "slot": 4,
           "abilityId": 31816,
           "name": "Magma Fist",
-          "description": "Draw forth magma from below to hurl at an enemy, dealing |cffffff5317|r Flame Damage while applying a stack of Heat Shock, which increases the enemy's damage taken by |cffffff66|r for |cffffff7|r seconds per stack, up to |cffffff3|r times.\n\nHitting an enemy at max stacks of Heat Shock with this ability increases the damage done of the next cast of this ability within |cffffff6|r seconds by |cffffff66|r%, up to once every |cffffff6|r seconds.",
+          "description": "Draw forth magma from below to hurl at an enemy, dealing |cffffff5942|r Flame Damage while applying a stack of Heat Shock, which increases the enemy's damage taken by |cffffff66|r for |cffffff7|r seconds per stack, up to |cffffff3|r times.\n\nHitting an enemy at max stacks of Heat Shock with this ability increases the damage done of the next cast of this ability within |cffffff6|r seconds by |cffffff66|r%, up to once every |cffffff6|r seconds.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -29358,7 +29324,7 @@
           "slot": 5,
           "abilityId": 20816,
           "name": "Flame Lash",
-          "description": "Lash an enemy with flame, dealing |cffffff5147|r Flame Damage and healing for |cffffff1585|r Health.\n\nHitting an Off Balance enemy grants |cffffff5|r stacks of Power Lash for |cffffff20|r seconds, up to once every |cffffff20|r seconds. After activating, you gain |cffffff3|r% damage done to monsters for |cffffff45|r seconds.\n\nActivating again consumes a stack to deal |cffffff8374|r Flame Damage to your target and all nearby enemies and heals for |cffffff3173|r Health.",
+          "description": "Lash an enemy with flame, dealing |cffffff5752|r Flame Damage and healing for |cffffff1786|r Health.\n\nHitting an Off Balance enemy grants |cffffff5|r stacks of Power Lash for |cffffff20|r seconds, up to once every |cffffff20|r seconds. After activating, you gain |cffffff3|r% damage done to monsters for |cffffff45|r seconds.\n\nActivating again consumes a stack to deal |cffffff9359|r Flame Damage to your target and all nearby enemies and heals for |cffffff3574|r Health.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
@@ -29369,7 +29335,7 @@
           "slot": 6,
           "abilityId": 20944,
           "name": "Disintegrating Dragonfire",
-          "description": "Exhale a blast of draconic fire in front of you, dealing |cffffff4212|r Flame Damage, applying the Burning status effect, and an additional |cffffff6265|r Flame Damage over |cffffff10|r seconds to enemies in your path.\n\nThe initial hit liquifies the armor of your enemies, applying Major Breach to enemies for the duration, reducing Physical and Spell Resistance by |cffffff5948|r.",
+          "description": "Exhale a blast of draconic fire in front of you, dealing |cffffff4707|r Flame Damage, applying the Burning status effect, and an additional |cffffff7000|r Flame Damage over |cffffff10|r seconds to enemies in your path.\n\nThe initial hit liquifies the armor of your enemies, applying Major Breach to enemies for the duration, reducing Physical and Spell Resistance by |cffffff5948|r.",
           "durationMs": 10000,
           "castMs": 0,
           "channeled": false,
@@ -29380,7 +29346,7 @@
           "slot": 7,
           "abilityId": 20660,
           "name": "Burning Embers",
-          "description": "Slash your foe with a fiery claw, dealing |cffffff2573|r Flame Damage and an additional |cffffff7280|r Flame Damage over |cffffff10|r seconds.\n\nYou heal for |cffffff7188|r Health from the initial hit and |cffffff1077|r Health each subsequent tick, scaling off your Max Health.\n\nThe initial hit always applies the Burning status effect.",
+          "description": "Slash your foe with a fiery claw, dealing |cffffff2876|r Flame Damage and an additional |cffffff8135|r Flame Damage over |cffffff10|r seconds.\n\nYou heal for |cffffff6985|r Health from the initial hit and |cffffff1047|r Health each subsequent tick, scaling off your Max Health.\n\nThe initial hit always applies the Burning status effect.",
           "durationMs": 10000,
           "castMs": 0,
           "channeled": false,
@@ -29468,12 +29434,12 @@
         {
           "abilityId": 259224,
           "name": "Wildfire Embers",
-          "description": "Fire forged within can never be extinguished. Fan the flames.\n\nWhen your Dragonknight damage over time effects end, you apply a stack of Wildfire Embers to the target, dealing |cffffff3283|r Flame Damage over |cffffff12|r seconds. This effect stacks up to |cffffff12|r times and increases in damage |cffffff25|r% per stack."
+          "description": "Fire forged within can never be extinguished. Fan the flames.\n\nWhen your Dragonknight damage over time effects end, you apply a stack of Wildfire Embers to the target, dealing |cffffff3675|r Flame Damage over |cffffff12|r seconds. This effect stacks up to |cffffff12|r times and increases in damage |cffffff25|r% per stack."
         }
       ],
       "inArchive": false,
       "blocking": false,
-      "moving": false,
+      "moving": true,
       "archiveBoons": [],
       "advanced": {
         "critical-damage": 0.22,
@@ -29512,8 +29478,8 @@
           "category": "Resistances",
           "label": "Poison Resistance",
           "format": "flat-or-percent",
-          "flat": 32152,
-          "percent": 48.7151527405
+          "flat": 31705,
+          "percent": 48.0378799438
         },
         "oblivion-damage": {
           "category": "Damage Bonuses",
@@ -29532,22 +29498,22 @@
           "category": "Resistances",
           "label": "Bleed Resistance",
           "format": "flat-or-percent",
-          "flat": 32152,
-          "percent": 48.7151527405
+          "flat": 31705,
+          "percent": 48.0378799438
         },
         "magic-resist": {
           "category": "Resistances",
           "label": "Magic Resistance",
           "format": "flat-or-percent",
-          "flat": 32878,
-          "percent": 49.8151512146
+          "flat": 32431,
+          "percent": 49.137878418
         },
         "fire-resist": {
           "category": "Resistances",
           "label": "Flame Resistance",
           "format": "flat-or-percent",
-          "flat": 32878,
-          "percent": 49.8151512146
+          "flat": 32431,
+          "percent": 49.137878418
         },
         "sneak-cost": {
           "category": "Core Abilities",
@@ -29586,15 +29552,15 @@
           "category": "Resistances",
           "label": "Frost Resistance",
           "format": "flat-or-percent",
-          "flat": 32878,
-          "percent": 49.8151512146
+          "flat": 32431,
+          "percent": 49.137878418
         },
         "disease-resist": {
           "category": "Resistances",
           "label": "Disease Resistance",
           "format": "flat-or-percent",
-          "flat": 32152,
-          "percent": 48.7151527405
+          "flat": 31705,
+          "percent": 48.0378799438
         },
         "bash-cost": {
           "category": "Core Abilities",
@@ -29664,7 +29630,7 @@
           "category": "Core Abilities",
           "label": "Bash Damage",
           "format": "flat",
-          "flat": 902
+          "flat": 891
         },
         "sprint-speed": {
           "category": "Core Abilities",
@@ -29700,8 +29666,8 @@
           "category": "Resistances",
           "label": "Shock Resistance",
           "format": "flat-or-percent",
-          "flat": 32878,
-          "percent": 49.8151512146
+          "flat": 32431,
+          "percent": 49.137878418
         },
         "critical-healing": {
           "category": "Healing Bonuses",
