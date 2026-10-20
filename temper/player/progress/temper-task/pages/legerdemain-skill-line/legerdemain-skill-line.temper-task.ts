@@ -20,7 +20,7 @@ export const legerdemainSkillLine = {
   lastCompletedAt: "2026-10-20T14:30:46.000Z",
   progress: "jsonl",
   progressTotal: 400,
-  progressCurrent: 305,
-  updatedAt: "2026-10-20T14:47:06.446Z",
+  progressCurrent: 306,
+  updatedAt: "2026-10-20T14:47:08.736Z",
   createdAt: "2026-04-22T12:39:34.017Z",
 } as const satisfies TemperTask
