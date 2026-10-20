@@ -13,6 +13,7 @@ interface SharedMetricFields {
   polarity: "higher-is-better" | "lower-is-better"
   formula?: FormulaNode
   fullyImplemented: boolean
+  advancedSheetRow?: string
 }
 
 type BaseMetricTemplate = SharedMetricFields & EsoStatFields

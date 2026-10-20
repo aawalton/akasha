@@ -6477,6 +6477,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-metric/modules/metric-formula-writing/metric-formula-writing.module.ts","id":"01a0df23-f4cf-7ea2-96a5-01f61b7e5dee"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-metric/modules/metric-ids-keeping/metric-ids-keeping.change-generator.ts","id":"01a0def7-b4fa-7645-944c-705ba41c2359"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-metric/modules/metric-ids/metric-ids.data-table.ts","id":"01a0def7-b4fa-7793-82f8-b726836da742"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-metric/properties/advanced-sheet-row.text-property.ts","id":"01a159f9-4e81-7dec-a0f0-9736011f48c3"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-metric/properties/metric-subject.text-property.ts","id":"01a0deff-4b82-7de4-b631-ce2c6f6ec760"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-metric/temper-metric.page-type.ts","id":"01a0de62-56d1-75d0-b8d4-a408bdd782f2"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-stat-case/properties/verified-stats.file-property.ts","id":"01a13b68-e80f-777b-8625-32a325ab6946"}

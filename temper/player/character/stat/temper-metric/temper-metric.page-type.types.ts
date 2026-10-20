@@ -1,3 +1,4 @@
+import type { AdvancedSheetRow } from "akasha/temper/player/character/stat/temper-metric/properties/advanced-sheet-row.text-property.types.ts"
 import type { EsoStatConstantName } from "akasha/temper/player/character/stat/temper-metric/properties/eso-stat-constant-name.text-property.types.ts"
 import type { EsoStatValuePart } from "akasha/temper/player/character/stat/temper-metric/properties/eso-stat-value-part.text-property.types.ts"
 import type { FullyImplemented } from "akasha/temper/player/character/stat/temper-metric/properties/fully-implemented.boolean-property.types.ts"
@@ -23,6 +24,7 @@ export type TemperMetric = TemperThing & {
   valueSource?: MetricValueSource
   esoStatConstantName?: EsoStatConstantName
   esoStatValuePart?: EsoStatValuePart
+  advancedSheetRow?: AdvancedSheetRow
   divisor?: MetricDivisor
   cap?: MetricCap
   fullyImplemented?: FullyImplemented

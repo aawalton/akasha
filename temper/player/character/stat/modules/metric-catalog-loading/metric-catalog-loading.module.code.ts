@@ -78,6 +78,7 @@ export const METRIC_CATALOG_READS: readonly (readonly [string, readonly string[]
       "polarity",
       "esoStatConstantName",
       "esoStatValuePart",
+      "advancedSheetRow",
       "divisor",
       "cap",
       "fullyImplemented",

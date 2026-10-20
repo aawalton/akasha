@@ -79,6 +79,8 @@ export function sheetStatsOf(
   const stats: Record<string, number> = {}
   if (sheet === undefined) return stats
   for (const metric of Object.values(metrics().data)) {
+    const named = metric.advancedSheetRow === undefined ? undefined : sheet[metric.advancedSheetRow]
+    if (named?.flat !== undefined) stats[metric.id] = named.flat
     if (metric.category !== "advanced") continue
     const row = metric.esoStatConstantName.replace(SHEET_ROW, "").toLowerCase().replaceAll("_", "-")
     const value = sheet[row]?.[metric.esoStatValuePart]

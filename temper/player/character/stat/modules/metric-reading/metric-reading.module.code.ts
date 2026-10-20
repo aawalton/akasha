@@ -7,6 +7,7 @@ const STATED_WHEN_THERE = [
   "category",
   "esoStatConstantName",
   "esoStatValuePart",
+  "advancedSheetRow",
   "divisor",
   "cap",
 ] as const

@@ -11,6 +11,7 @@ export const temperMetric = {
     "text-property/metric-polarity",
     "text-property/eso-stat-constant-name",
     "text-property/eso-stat-value-part",
+    "text-property/advanced-sheet-row",
     "number-property/metric-divisor",
     "number-property/metric-cap",
     "boolean-property/fully-implemented",
@@ -34,6 +35,7 @@ export const temperMetric = {
     { pageProperty: "text-property/metric-value-source", required: false, many: false },
     { pageProperty: "text-property/eso-stat-constant-name", required: false, many: false },
     { pageProperty: "text-property/eso-stat-value-part", required: false, many: false },
+    { pageProperty: "text-property/advanced-sheet-row", required: false, many: false },
     { pageProperty: "number-property/metric-divisor", required: false, many: false },
     { pageProperty: "number-property/metric-cap", required: false, many: false },
     { pageProperty: "boolean-property/fully-implemented", required: false, many: false },
@@ -64,5 +66,5 @@ export const temperMetric = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-26T15:43:01.841Z",
-  updatedAt: "2026-09-26T19:18:09.000Z",
+  updatedAt: "2026-10-20T15:41:13.215Z",
 } as const satisfies PageType
