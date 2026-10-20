@@ -5,14 +5,15 @@ export const maxMaxHealth = {
   type: "page-type/character-build",
   slug: "max-max-health",
   title: "Max Max Health",
-  description: "",
+  description:
+    "Assumes in combat, Escalating Fete at 30 stacks, Minor Toughness from Maturation through Soothing Spores, and Ravenous Goliath cast from the back bar.",
   accountPage: "temper-account/alanarre",
   buildHash:
-    "ATQKVIFAQABiyIAGTD1AAEtzaAAZbm0AASHNoAAkObQADLc2gACW5tABANzaACADm0AEAS1oAMAAc2gBMg3aAN_IeWBguj2NoAAAAAAAAAIEAAAAAAAAAAEAAAAAAAAAAAAgAQAAAAAAAAAAAAAAAAAAgIAAISMq9evXALFq1aBQFChQoABAAZAg",
+    "ATQKVIFAQABkRYIGXvtAAEoraAAZbm0AAS3NoAAlubQADLc2gACW5tABAFDaACAKG0AEAPuoAMABLWgBMg3bcjAAS1oATIN23IPJEGBguj2NqHoeSIMDBc2oAAAAAAAACAEAAAAAAAAAYAAgAQAAgAAAAIAIEAAAAAAAgIAAIgAiIjIyr169cAsWrVoJAsKFChQACAAyBA",
   visibility: "private",
   targetCount: 1,
   roles: [],
   characterName: "Khelta the Eternal",
   createdAt: "2026-10-20T14:51:06.516Z",
-  updatedAt: "2026-10-20T15:28:17.071Z",
+  updatedAt: "2026-10-20T15:48:18.036Z",
 } as const satisfies CharacterBuild
