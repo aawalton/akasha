@@ -29,7 +29,7 @@ function againFor(keys: readonly string[], why: string): undefined {
   for (const key of keys) {
     const readings = readingAgain.get(key)
     if (readings === undefined) continue
-    process.stdout.write(
+    process.stderr.write(
       `${new Date().toISOString()} INFO held reading of ${key} taken again ${why}\n`
     )
     for (const one of readings) heard.add(one)

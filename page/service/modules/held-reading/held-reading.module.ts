@@ -45,10 +45,15 @@ export const heldReading = {
       statement: "Each reading taken again writes one line naming the page type and the time.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That line goes to standard error, so a command holding a reading answers on standard output alone.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A browser follows nothing through this module.",
     },
   ],
   createdAt: "2026-09-26T16:46:37.171Z",
-  updatedAt: "2026-09-26T19:38:20.000Z",
+  updatedAt: "2026-10-20T14:32:17.863Z",
 } as const satisfies Module
