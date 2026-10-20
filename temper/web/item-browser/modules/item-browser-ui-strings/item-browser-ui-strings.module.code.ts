@@ -36,6 +36,7 @@ export function registerUiStrings(this: void): undefined {
 
   register("SI_ITEMBROWSER_SEARCHDROP1", "Search by name/type/source")
   register("SI_ITEMBROWSER_SEARCHDROP2", "Search by set bonuses")
+  register("SI_ITEMBROWSER_SEARCHDROP3", "Search by non-standard set bonuses")
 
   register("SI_ITEMBROWSER_FILTERDROP1", "All Categories")
   register("SI_ITEMBROWSER_FILTERDROP2", GetString("SI_ITEMFILTERTYPE", ITEMFILTERTYPE_COLLECTIBLE))

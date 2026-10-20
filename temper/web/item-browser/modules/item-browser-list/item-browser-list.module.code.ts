@@ -130,7 +130,7 @@ ItemBrowserList.Setup = function (this: ItemBrowserListInstance): undefined {
   )
 
   this.searchDrop = ZO_ComboBox_ObjectFromContainer(requireChild(this.frame, "SearchDrop"))
-  this.InitializeComboBox(this.searchDrop, { prefix: "SI_ITEMBROWSER_SEARCHDROP", max: 2 })
+  this.InitializeComboBox(this.searchDrop, { prefix: "SI_ITEMBROWSER_SEARCHDROP", max: 3 })
 
   this.searchBox = requireChild<EditControl>(this.frame, "SearchBox")
   this.searchBox.SetHandler("OnTextChanged", () => {
