@@ -65,7 +65,21 @@ const UNVERSIONED = {
   reading: { ...FRONT_READING, capturedAt: 1791996000, esoVersion: undefined },
 }
 
-const READINGS = `${[FRONT, NEWER_FRONT, BACK, UNVERSIONED].map((one) => JSON.stringify(one)).join("\n")}\n`
+const FETE_LATELY = {
+  id: "01a2eeee-0000-7000-8000-000000000005",
+  result: "five",
+  character: "Erin",
+  buildHash: "ATQI",
+  bar: "frontBar",
+  reading: {
+    ...FRONT_READING,
+    capturedAt: 1791995500,
+    stats: { "stamina-maximum": 84424, "health-maximum": 32651, "stamina-recovery": 1386 },
+    fete: { stacks: 30, changedMsAgo: 900 },
+  },
+}
+
+const READINGS = `${[FRONT, NEWER_FRONT, BACK, UNVERSIONED, FETE_LATELY].map((one) => JSON.stringify(one)).join("\n")}\n`
 
 function worldOf(cases: readonly string[]): World {
   const listedAt = (kind: string, slug: string): readonly { readonly path: string }[] => {

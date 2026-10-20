@@ -11,6 +11,7 @@ import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.co
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 import { loadSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts"
 import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
+import { isUnsettled } from "akasha/temper/player/character/stat/modules/fete-unsettled/fete-unsettled.module.code.ts"
 import { loadMetricCatalog } from "akasha/temper/player/character/stat/modules/metric-catalog-loading/metric-catalog-loading.module.code.ts"
 import {
   pinnedCaseOf,
@@ -93,6 +94,13 @@ function newestOf(lines: readonly Line[]): Line | undefined {
   )
 }
 
+function settledOf(
+  stats: Record<string, number>,
+  fete: Parameters<typeof isUnsettled>[1]
+): Record<string, number> {
+  return Object.fromEntries(Object.entries(stats).filter(([stat]) => !isUnsettled(stat, fete)))
+}
+
 export function pinStatCaseCommand(world: World, given: Asked, pin: Pin): Answer {
   const character = given[CHARACTER]
   if (character === undefined) return refusing(missing(CHARACTER))
@@ -154,7 +162,7 @@ export function pinStatCaseCommand(world: World, given: Asked, pin: Pin): Answer
     inCombat: reading.inCombat,
     activeBuffs: reading.activeBuffs ?? [],
     championPoints: reading.championPoints ?? [],
-    stats: { ...reading.stats, ...sheetStatsOf(reading.advancedSheet) },
+    stats: settledOf({ ...reading.stats, ...sheetStatsOf(reading.advancedSheet) }, reading.fete),
   })
   const title = `${character}, ${named} bar, read ${stampOf(reading.capturedAt)}`
   return stating([
