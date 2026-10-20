@@ -18,9 +18,10 @@ export const bloodOfTheElderDragon = {
   rank: 20,
   skillLineId: "temper-skill-line/dragonknight-draconic-power",
   skillType: "temper-skill-type/active",
+  effects: "jsonl",
   hashPlace: 123,
   createdAt: "2026-05-28T16:03:31.793Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-20T16:56:44.230Z",
   equations: [
     "<<1>> = 0.129125 MaxStat + 1.35581 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 0.086083 MaxStat + 0.903875 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, AOE, Direct, R2 = 1)",
