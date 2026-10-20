@@ -112,8 +112,11 @@ export function namedOver(
   for (const one of paths) {
     holding(one)
     for (const reader of readersOf(one)) holding(reader)
-    if (!fixtureNamed(one)) continue
-    for (const importer of importersOf(one)) holding(importer)
+    const fixture = fixtureNamed(one)
+    for (const importer of importersOf(one)) {
+      if (fixture) holding(importer)
+      else if (testsBesideOf(importer).includes(importer) && there(importer)) held.add(importer)
+    }
   }
   return [...held].sort()
 }

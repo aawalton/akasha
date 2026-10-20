@@ -54,7 +54,8 @@ export const runNaming = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A changed file that is no test fixture names no importer's test.",
+      statement:
+        "A changed file that is no test fixture names a test importing it, and no other importer's test.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -78,5 +79,5 @@ export const runNaming = {
     },
   ],
   createdAt: "2026-09-19T03:50:53.912Z",
-  updatedAt: "2026-10-19T17:50:04.829Z",
+  updatedAt: "2026-10-20T15:01:21.319Z",
 } as const satisfies Module

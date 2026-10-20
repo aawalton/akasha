@@ -99,6 +99,20 @@ test("a file that is no test fixture names only the tests beside it, though a fi
   expect(namedOver([at], there, importing(at))).toEqual([FIXTURE_TEST_AT])
 })
 
+test("a file that is no test fixture names a test file importing it directly", () => {
+  const at = "akasha/builds/held.character-build.ts"
+  const importedBy = (path: string): readonly string[] =>
+    path === at ? [IMPORTER_TEST_AT, IMPORTER_AT] : []
+  const there = thereAt(IMPORTER_TEST_AT)
+  expect(namedOver([at], there, importedBy)).toEqual([IMPORTER_TEST_AT])
+})
+
+test("a test file importing a changed file that the change leaves nowhere is named by nothing", () => {
+  const at = "akasha/builds/held.character-build.ts"
+  const importedBy = (path: string): readonly string[] => (path === at ? [IMPORTER_TEST_AT] : [])
+  expect(namedOver([at], thereAt(), importedBy)).toEqual([])
+})
+
 test("a test beside an importer that the change leaves nowhere is named by nothing", () => {
   const said = namedOver([FIXTURE_AT], thereAt(FIXTURE_TEST_AT), importing(FIXTURE_AT))
   expect(said).toEqual([FIXTURE_TEST_AT])
