@@ -161,3 +161,60 @@ test("a capture a line still holds is refused as already taken out", () => {
 
   expect(said.refused ?? "").toMatch(/holds that capture still/)
 })
+
+const RECORD = `${JSON.stringify({ id: MISPAIRED.id, bar: "backBar", capturedAt: 1 })}\n`
+
+const TAKEN = `${[FITTING, REPEATING, FRONT].map((one) => JSON.stringify(one)).join("\n")}\n`
+
+const atCommit = (_root: string, ref: string, path: string): string | null =>
+  ref === "abc123" && path === READINGS_AT ? READINGS : null
+
+const NAMING =
+  'export const erin = {\n  slug: "erin",\n  readings: "jsonl",\n  removedReadings: "jsonl",\n}\n'
+
+test("a line handed a commit is put back where it sat, and its record and the page's naming go", () => {
+  const world = worldWith({ [READINGS_AT]: TAKEN, [REMOVED_AT]: RECORD, [CHARACTER_AT]: NAMING })
+  const said = repairReadingLineCommand(
+    world,
+    { character: "erin", reading: "01a1bbbb", "back-from": "abc123" },
+    atCommit
+  )
+
+  expect(said.refused).toBeNull()
+  const put = said.edits[0]
+  expect(put?.kind === "replace" ? TAKEN.replace(put.contentFrom, put.contentTo) : "").toBe(
+    READINGS
+  )
+  expect(said.edits[1]).toEqual({ kind: "remove", path: REMOVED_AT })
+  const page = said.edits[2]
+  expect(page?.kind === "replace" ? NAMING.replace(page.contentFrom, page.contentTo) : "").toBe(
+    PAGE
+  )
+})
+
+test("a record put back beside another record takes only its own line out", () => {
+  const other = `${JSON.stringify({ id: "01a1dddd", bar: "frontBar", capturedAt: 7 })}\n`
+  const world = worldWith({ [READINGS_AT]: TAKEN, [REMOVED_AT]: `${other}${RECORD}` })
+  const said = repairReadingLineCommand(
+    world,
+    { character: "erin", reading: "01a1bbbb", "back-from": "abc123" },
+    atCommit
+  )
+
+  expect(said.edits[1]).toEqual({
+    kind: "replace",
+    path: REMOVED_AT,
+    contentFrom: RECORD,
+    contentTo: "",
+  })
+})
+
+test("a line the readings hold already is refused rather than put back", () => {
+  const said = repairReadingLineCommand(
+    WORLD,
+    { character: "erin", reading: "01a1bbbb", "back-from": "abc123" },
+    atCommit
+  )
+
+  expect(said.refused ?? "").toMatch(/is held already/)
+})

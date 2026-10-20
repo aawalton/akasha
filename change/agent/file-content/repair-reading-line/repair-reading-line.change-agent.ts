@@ -7,7 +7,8 @@ export const repairReadingLine = {
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content",
-  definition: "one line of a character's readings, paired with another line's build or taken out",
+  definition:
+    "one line of a character's readings, paired with another line's build, taken out or put back",
   code: "ts",
   test: "ts",
   decisions: [
@@ -66,6 +67,28 @@ export const repairReadingLine = {
       statement: "A capture some line still holds is refused for that record.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A line handed a commit is put back as the readings at that commit held it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A line put back sits before the first line held now that followed it there, or at the end.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line the readings hold already is refused rather than put back.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line put back has its record taken out of the removed readings.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Removed readings left with no record go, and the character's page stops naming them.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "This change reaches no mechanical change.",
     },
@@ -74,5 +97,5 @@ export const repairReadingLine = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-10-20T00:07:21.952Z",
-  updatedAt: "2026-10-20T11:34:12.861Z",
+  updatedAt: "2026-10-20T14:15:37.449Z",
 } as const satisfies ChangeAgent

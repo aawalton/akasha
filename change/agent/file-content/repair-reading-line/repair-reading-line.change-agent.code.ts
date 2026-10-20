@@ -6,6 +6,7 @@ import {
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
   captureKeyOf,
@@ -25,6 +26,8 @@ const FROM = "from"
 const BAR = "bar"
 
 const CAPTURED_AT = "captured-at"
+
+const BACK_FROM = "back-from"
 
 const BARS = ["frontBar", "backBar"]
 
@@ -116,7 +119,76 @@ function picked(
   }
 }
 
-export function repairReadingLineCommand(world: World, given: Asked): Answer {
+export type ReadAt = (root: string, ref: string, path: string) => string | null
+
+function textAt(root: string, ref: string, path: string): string | null {
+  const bytes = bodyAt(root, ref, path)
+  return bytes === null ? null : new TextDecoder().decode(bytes)
+}
+
+const recordShape = z.looseObject({ id: z.string() })
+
+function recordIdOf(text: string): string | null {
+  const parsed = recordShape.safeParse(JSON.parse(text))
+  return parsed.success ? parsed.data.id : null
+}
+
+function recordDropped(world: World, characterAt: string, id: string): readonly FileChange[] {
+  const removedAt = besideAt(characterAt, removedReadings.propertySlug, LINES)
+  const removed = removedAt === null ? null : world.textOf(removedAt)
+  if (removedAt === null || removed === null) return []
+  const lines = removed.split("\n").filter((one) => one.trim() !== "")
+  const record = lines.find((one) => recordIdOf(one) === id)
+  if (record === undefined) return []
+  if (lines.length > 1) {
+    return [{ kind: "replace", path: removedAt, contentFrom: `${record}\n`, contentTo: "" }]
+  }
+  const gone: FileChange[] = [{ kind: "remove", path: removedAt }]
+  const page = world.textOf(characterAt)
+  const stated = pageKeyOf(removedReadings.propertySlug)
+  if (page === null || !page.includes(stated)) return gone
+  return [...gone, { kind: "replace", path: characterAt, contentFrom: stated, contentTo: "" }]
+}
+
+type Putting = {
+  readonly characterAt: string
+  readonly readingsAt: string
+  readonly held: readonly Held[]
+  readonly pick: string
+  readonly character: string
+  readonly ref: string
+}
+
+function putBack(world: World, putting: Putting, readAt: ReadAt): Answer {
+  const { characterAt, readingsAt, held, pick, character, ref } = putting
+  const was = readAt(world.root, ref, readingsAt)
+  if (was === null) return refusing(`\`${ref}\` holds no readings of \`${character}\``)
+  const before = heldOf(was)
+  const one = picked(before, pick, character)
+  if ("refused" in one) return refusing(one.refused)
+  const now = new Set(held.map((other) => other.line.id))
+  if (now.has(one.line.id)) return refusing(`\`${one.line.id}\` is held already`)
+  const place = before.indexOf(one)
+  const next = before.slice(place + 1).find((other) => now.has(other.line.id))
+  const after =
+    next === undefined ? undefined : held.find((other) => other.line.id === next.line.id)
+  const put: FileChange =
+    after === undefined
+      ? { kind: "append", path: readingsAt, content: `${one.text}\n` }
+      : {
+          kind: "replace",
+          path: readingsAt,
+          contentFrom: `${after.text}\n`,
+          contentTo: `${one.text}\n${after.text}\n`,
+        }
+  return stating([put, ...recordDropped(world, characterAt, one.line.id)])
+}
+
+export function repairReadingLineCommand(
+  world: World,
+  given: Asked,
+  readAt: ReadAt = textAt
+): Answer {
   const character = given[CHARACTER]
   if (character === undefined) return refusing(missing(CHARACTER))
   const pick = given[READING]
@@ -129,6 +201,10 @@ export function repairReadingLineCommand(world: World, given: Asked): Answer {
     return refusing(`\`${character}\` holds no readings to repair`)
   }
   const held = heldOf(text)
+  const ref = given[BACK_FROM]
+  if (ref !== undefined) {
+    return putBack(world, { characterAt, readingsAt, held, pick, character, ref }, readAt)
+  }
   const gone = given[CAPTURED_AT]
   if (gone !== undefined) return goneRecorded(world, characterAt, held, pick, given[BAR], gone)
   const one = picked(held, pick, character)
@@ -192,7 +268,7 @@ function goneRecorded(
   return stating(recorded)
 }
 
-export const takes: readonly string[] = [CHARACTER, READING, FROM, BAR, CAPTURED_AT]
+export const takes: readonly string[] = [CHARACTER, READING, FROM, BAR, CAPTURED_AT, BACK_FROM]
 
 export function runChange(world: World, given: Asked): Promise<Answer> {
   return Promise.resolve(repairReadingLineCommand(world, given))

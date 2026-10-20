@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"commit-reading.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"commit-reading.module.code.ts","path":"change/agent/file-content/repair-reading-line/repair-reading-line.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"commit-reading.module.code.ts","path":"code/body/modules/commit-loading/commit-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"commit-reading.module.code.ts","path":"code/body/modules/commit-loading/commit-loading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"commit-reading.module.code.ts","path":"command/modules/applying/applying.module.code.ts","typed":false,"deferred":false}
