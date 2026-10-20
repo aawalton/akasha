@@ -90,7 +90,12 @@ export const readoutReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading kept from an earlier day is no reading.",
+      statement: "A reading of the open block kept from an earlier day is no reading.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reading of the day row kept from an earlier day is read until the new day's take lands.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -123,5 +128,5 @@ export const readoutReading = {
     },
   ],
   createdAt: "2026-08-31T13:19:26.014Z",
-  updatedAt: "2026-10-18T13:45:11.507Z",
+  updatedAt: "2026-10-20T11:20:59.038Z",
 } as const satisfies Module

@@ -106,12 +106,14 @@ export function readingKept(root: string, page: string): Reading | null {
 
 const MADE_FROM = "madeFrom"
 
+const OPEN_BLOCK = "open-block"
+
 function keptFromAnEarlierDay(
   values: Readonly<Record<string, unknown>>,
   at: string,
   now: Date
 ): boolean {
-  if (values[MADE_FROM] === undefined) return false
+  if (values[MADE_FROM] !== OPEN_BLOCK) return false
   if (Number.isNaN(Date.parse(at))) return false
   return getEsoDayStrAt(at) < getEsoDayStr(now)
 }
