@@ -6392,6 +6392,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/set-source/set-source.module.ts","id":"01a061a4-18b1-7a6e-bc9b-94150a72e67b"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/sets-all/sets-all.module.ts","id":"01a061a4-18b0-70f3-9811-f8f48f7e103b"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/weapon-enchants/weapon-enchants.module.ts","id":"01a0616f-8e18-7979-89eb-61f1621f3cdb"}
+{"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/weapon-source/weapon-source.module.ts","id":"01a0616f-8e1a-75a8-85c6-c316865f042b"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.ts","id":"01a0616f-8e15-7014-9996-52aebc4519b8"}
 {"propertySlug":"decision-kind","path":"temper/player/character/companion-build/companion-build.page-type.ts","id":"01a06835-fae8-7a27-90c7-c499c3e046cc"}
 {"propertySlug":"decision-kind","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.ts","id":"01a0d8c3-435d-70ba-95c4-6618cd04fc04"}

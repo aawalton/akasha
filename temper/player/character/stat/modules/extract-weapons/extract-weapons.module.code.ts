@@ -9,8 +9,8 @@ function weaponsOn(build: CharacterState, bar: Bar) {
   const main = build.equipment[bar]["main-hand"]
   const off = build.equipment[bar]["off-hand"]
   return [
-    ...(main.itemType === "weapon" ? [createWeaponSource(main.data)] : []),
-    ...(off.itemType === "weapon" ? [createWeaponSource(off.data)] : []),
+    ...(main.itemType === "weapon" ? [createWeaponSource(main.data, "main-hand")] : []),
+    ...(off.itemType === "weapon" ? [createWeaponSource(off.data, "off-hand")] : []),
   ]
 }
 

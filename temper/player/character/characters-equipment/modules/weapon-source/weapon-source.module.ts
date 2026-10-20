@@ -6,6 +6,13 @@ export const weaponSource = {
   slug: "weapon-source",
   definition: "the effects a wielded weapon gives a character",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An off-hand weapon gives 0.237 of its Weapon and Spell Damage, rounded on its own before the sum.",
+    },
+  ],
   createdAt: "2026-09-02T09:24:55.962Z",
-  updatedAt: "2026-09-21T15:41:15.000Z",
+  updatedAt: "2026-10-20T18:49:52.739Z",
 } as const satisfies Module

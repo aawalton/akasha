@@ -27,7 +27,11 @@ function calculateNirnhonedValue(
   return basePower + Math.floor(basePower * nirnhonedBonus)
 }
 
-function getWeaponPowerEffects(weapon: WeaponItem): readonly MetricEffect[] {
+type WeaponHand = "main-hand" | "off-hand"
+
+const OFF_HAND_POWER_SHARE = 0.237
+
+function getWeaponPowerEffects(weapon: WeaponItem, hand: WeaponHand): readonly MetricEffect[] {
   if (weapon.type === "no-type") {
     return []
   }
@@ -42,7 +46,9 @@ function getWeaponPowerEffects(weapon: WeaponItem): readonly MetricEffect[] {
     totalPower = calculateNirnhonedValue(basePower, quality)
   }
 
-  return [{ metricId: "power" as const, effectType: "integer" as const, effectValue: totalPower }]
+  const power = hand === "off-hand" ? Math.round(totalPower * OFF_HAND_POWER_SHARE) : totalPower
+
+  return [{ metricId: "power" as const, effectType: "integer" as const, effectValue: power }]
 }
 
 interface WeaponItemSource extends EffectSourceInterface<"weapons", Effect> {
@@ -53,10 +59,10 @@ interface WeaponItemSource extends EffectSourceInterface<"weapons", Effect> {
   poison: PoisonId
 }
 
-export function createWeaponSource(weapon: WeaponItem): WeaponItemSource {
+export function createWeaponSource(weapon: WeaponItem, hand: WeaponHand): WeaponItemSource {
   const effects: MetricEffect[] = []
 
-  effects.push(...getWeaponPowerEffects(weapon))
+  effects.push(...getWeaponPowerEffects(weapon, hand))
 
   effects.push(...getWeaponTraitEffects(weapon))
 
