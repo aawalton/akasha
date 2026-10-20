@@ -6,6 +6,12 @@ export const craftValidation = {
   slug: "craft-validation",
   definition: "whether an item link is worth keeping, learning or studying",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reconstructed or transmuted item is needed for research by no character.",
+    },
+  ],
   createdAt: "2026-09-02T11:01:26.260Z",
-  updatedAt: "2026-09-22T03:24:53.000Z",
+  updatedAt: "2026-10-20T00:27:31.133Z",
 } as const satisfies Module

@@ -13,6 +13,7 @@ import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 
@@ -261,6 +262,13 @@ export function isItemNeeded(
     return $multi()
   }
   if (craft < 1 || line < 1 || trait < 1) {
+    return $multi()
+  }
+  const traitInformation = GetItemTraitInformationFromItemLink(link)
+  if (
+    traitInformation === ITEM_TRAIT_INFORMATION_RECONSTRUCTED ||
+    traitInformation === ITEM_TRAIT_INFORMATION_RETRAITED
+  ) {
     return $multi()
   }
   const [isSet] = GetItemLinkSetInfo(link, false)

@@ -24,6 +24,7 @@
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-quest-tracking/craft-quest-tracking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-tooltip-handler/craft-tooltip-handler.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-utilities/craft-utilities.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-validation/craft-validation.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-research-get/knowledge-research-get.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-controls/potion-controls.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-potion-match/potion-potion-match.module.code.ts","typed":false,"deferred":false}
