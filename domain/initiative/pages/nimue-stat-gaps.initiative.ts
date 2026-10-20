@@ -9,50 +9,31 @@ export const nimueStatGaps = {
   parent: "initiative/nimue-correct-formulas",
   intentStack: [
     {
-      statement: "Prodigy's critical rating reproduces every Valeterisa reading.",
+      statement: "Ambidextrous has a pinned share of the off-hand weapon's power.",
       workingMemory:
-        "Valeterisa misses critical rating on most readings, usually by 3 or 4. The constant fits 219.667 to under 219.75, floored. The four-light reading of 878 rules out 219.75.",
+        "The off-hand adds round(0.237 × its power) with Ambidextrous at rank 2. Temper names the passive Dual Wield Expert. Three-Color Stalker's readings near 19:30Z on 2026-10-20 run Ambidextrous at rank 0, 1 and 2.",
     },
     {
-      statement: "An off-hand weapon's power reproduces every Three-Color Stalker reading.",
+      statement: "A set worn at mixed item levels reproduces every reading wearing it.",
       workingMemory:
-        "The off-hand adds about 0.237 of its power. Dual Wield Expert is unplaced in that rule.",
+        "Erin's CP150 Ashen Grip two-hander worn with CP160 pieces misses power by 3 to 6 at normal through epic. The weapon's own power matches at every quality.",
     },
     {
-      statement: "A set worn at mixed qualities reproduces every reading wearing it.",
+      statement: "Durene's armor reproduces every reading with five heavy pieces.",
       workingMemory:
-        "Khelta's Plague Doctor at fine and epic misses Max Health. Mrsha's Darloc Brae gives 123 Max Magicka, unexplained. Erin's mixed-quality bow with one armor piece, and the mixed level-and-quality cases, are held out to check the fitted rule.",
+        "Durene is half a point of armor short before Balanced Warrior on 11 readings. The Chudan pieces are ruled out. Only Resolve at 1716.5 for five heavy pieces fits, which no per-piece value gives. Alan captured each Tide-born piece taken off in turn.",
     },
     {
-      statement: "Mighty Chudan's armor reproduces every Durene reading.",
-      workingMemory: "Durene misses Armor by one point on 7 readings, all wearing Mighty Chudan.",
-    },
-    {
-      statement: "Every recovery reading on Mrsha and Valeterisa reproduces.",
+      statement: "Well-fitted has a pinned value.",
       workingMemory:
-        "Mrsha misses Magicka and Stamina Recovery on 4 readings each, and Valeterisa misses a few Health, Magicka and Stamina Recovery readings.",
-    },
-    {
-      statement: "Max Health, Magicka and Stamina reproduce every Khelta and Amerys reading.",
-      workingMemory:
-        "Khelta misses Max Health on 20 readings, Magicka on 7 and Stamina on 7. Amerys misses Max Health on 13, Magicka on 10 and Stamina on 11. Mixed-quality sets explain part of this.",
-    },
-    {
-      statement: "Triune, Protective, Well-fitted and Divines each have a pinned value.",
-      workingMemory:
-        "Protective readings disagree, 1053 against 1624. Triune's health is unfitted. Well-fitted reads only dodge cost. Divines reads through the mundus stone.",
-    },
-    {
-      statement: "Impenetrable is pinned at epic and legendary.",
-      workingMemory:
-        "Impenetrable is 121, 124 and 127 at normal, fine and superior. Epic and legendary are inferred from that sequence.",
+        "Well-fitted moves only dodge cost, 3856 to 3811, and Temper has no dodge-cost formula.",
     },
   ],
   constraints: [
     "A gap is worked by its own subagent, beside the other gaps.",
-    "A gap is closed only when every reading it named reproduces exactly.",
+    "A gap is closed when every reading it named reproduces exactly or was captured while the game was mid-change.",
     "A reading a gap needs is asked of Alan once its own fit has used every reading already landed.",
   ],
   createdAt: "2026-10-20T18:20:16.239Z",
-  updatedAt: "2026-10-20T18:20:16.239Z",
+  updatedAt: "2026-10-20T19:34:06.363Z",
 } as const satisfies Initiative
