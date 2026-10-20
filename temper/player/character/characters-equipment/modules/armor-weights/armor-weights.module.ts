@@ -6,6 +6,7 @@ export const armorWeights = {
   slug: "armor-weights",
   definition: "the armor weights a piece is made in, and what wearing each is worth",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -23,7 +24,12 @@ export const armorWeights = {
       decisionKind: "decision-kind/departure",
       statement: "A weight with no grade at a quality is worth no armor there.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "At a character level, each quality below legendary puts a piece three worth levels lower.",
+    },
   ],
   createdAt: "2026-09-02T09:24:55.959Z",
-  updatedAt: "2026-09-27T02:49:23.000Z",
+  updatedAt: "2026-10-20T17:06:30.824Z",
 } as const satisfies Module

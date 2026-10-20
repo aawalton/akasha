@@ -59,6 +59,14 @@ export function levelScalingOf(slope: unknown, intercept: unknown): LevelScaling
   return { slope, intercept }
 }
 
+export function levelsDownScaledWorth(
+  level: ItemLevel | undefined,
+  scaling: LevelScaling,
+  levelsDown: number
+): number {
+  return scaling.slope * (effectiveLevel(level) - levelsDown) + scaling.intercept
+}
+
 export function levelScaledWorth(
   level: ItemLevel | undefined,
   scaling: LevelScaling,

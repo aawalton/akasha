@@ -6,6 +6,7 @@ import {
 } from "akasha/temper/catalog/gear/equipment/kind/modules/armor-types/armor-types.module.code.ts"
 import {
   type EquipmentQualityId,
+  equipmentQualities,
   qualityScale,
   resolveQuality,
 } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
@@ -32,6 +33,7 @@ import {
   type LevelScaling,
   levelScaledWorth,
   levelScalingOf,
+  levelsDownScaledWorth,
 } from "akasha/temper/player/character/characters-equipment/modules/level-scaling/level-scaling.module.code.ts"
 import type { MetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 
@@ -107,17 +109,43 @@ function levelShare(
   return baseValueOf(weight, quality) / baseValueOf(weight, "legendary")
 }
 
-function getArmorValue(
+const LEVELS_PER_QUALITY = 3
+
+function qualitiesBelowLegendary(quality: EquipmentQualityId): number {
+  const qualities = equipmentQualities().data
+  return qualities.legendary.esoDisplayQuality - qualities[quality].esoDisplayQuality
+}
+
+function levelWorth(
+  weight: ArmorWeightId,
+  quality: EquipmentQualityId,
+  level: ItemLevel,
+  scaling: LevelScaling
+): number {
+  if (typeof level === "number") {
+    return levelsDownScaledWorth(
+      level,
+      scaling,
+      LEVELS_PER_QUALITY * qualitiesBelowLegendary(quality)
+    )
+  }
+  return levelScaledWorth(
+    level,
+    scaling,
+    levelShare(weight, armorWeights.data[weight].isStandard, quality)
+  )
+}
+
+export function getArmorValue(
   type: ArmorTypeId,
   weight: ArmorWeightId,
   quality: EquipmentQualityId = "legendary",
   level?: ItemLevel
 ): number {
-  const made = armorWeights.data[weight]
-  const scaling = made.levelScaling
+  const scaling = armorWeights.data[weight].levelScaling
   const baseValue =
     level !== undefined && scaling !== undefined
-      ? levelScaledWorth(level, scaling, levelShare(weight, made.isStandard, quality))
+      ? levelWorth(weight, quality, level, scaling)
       : baseValueOf(weight, quality)
 
   const multiplier = getArmorMultiplier(type)

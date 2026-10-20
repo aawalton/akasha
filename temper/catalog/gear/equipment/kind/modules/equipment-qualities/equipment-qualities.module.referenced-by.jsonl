@@ -15,6 +15,7 @@
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-trait-effects/armor-trait-effects.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/player/character/characters-equipment/modules/bulk-update-armor/bulk-update-armor.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/player/character/characters-equipment/modules/bulk-update-functions/bulk-update-functions.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/player/character/characters-equipment/modules/bulk-update-jewelry/bulk-update-jewelry.module.code.ts","typed":true,"deferred":false}

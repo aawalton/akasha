@@ -13,7 +13,8 @@ export const levelScaling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A piece's quality share comes from its quality page.",
+      statement:
+        "A weapon's quality share, and an armor piece's at a champion level, comes from its quality page.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -21,5 +22,5 @@ export const levelScaling = {
     },
   ],
   createdAt: "2026-09-02T09:24:55.954Z",
-  updatedAt: "2026-09-27T05:52:29.000Z",
+  updatedAt: "2026-10-20T17:06:30.824Z",
 } as const satisfies Module
