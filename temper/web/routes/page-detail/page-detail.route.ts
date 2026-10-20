@@ -22,7 +22,24 @@ export const pageDetail = {
       statement:
         "The toast for a build that will not decode reads its wording from a web phrase page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character build's page and a companion build's page draw that build's editor.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A character's page and a companion's page draw the editor on their current build.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character's or companion's own properties are listed beneath that editor.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character or companion with no current build is drawn as any other page is.",
+    },
   ],
   createdAt: "2026-09-08T19:56:07.656Z",
-  updatedAt: "2026-09-27T11:38:20.000Z",
+  updatedAt: "2026-10-20T01:35:18.377Z",
 } as const satisfies Route
