@@ -248,6 +248,7 @@
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/poisoned-duration/poisoned-duration.temper-metric.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/potion-cooldown/potion-cooldown.temper-metric.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/potion-duration/potion-duration.temper-metric.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/power-per-resistance/power-per-resistance.temper-metric.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/power-spell/power-spell.temper-metric.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/power-weapon/power-weapon.temper-metric.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/power/power.temper-metric.ts","typed":true,"deferred":false}

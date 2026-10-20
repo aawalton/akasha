@@ -200,6 +200,7 @@ export type MetricId =
   | "potion-cooldown"
   | "potion-duration"
   | "power"
+  | "power-per-resistance"
   | "power-spell"
   | "power-weapon"
   | "resistance"
