@@ -63,6 +63,12 @@ for (const [level, sheet, reading] of NORMAL_LIGHT_SASHES) {
   })
 }
 
+test("a CP160 fine light sash reads 32084 Physical Resistance in Erin Solstice's reading 01a15a5d-abf7-7f2a-838d-40c151d9eaae, 18 over the CP160 normal sash", () => {
+  expect(getArmorValue("waist", "light", "fine", "CP160")).toBe(
+    getArmorValue("waist", "light", "normal", "CP160") + 32084 - 32066
+  )
+})
+
 const LEVEL_ONE_CHEST_SHEET = 28912
 
 const LEVEL_ONE_CHEST = 84
