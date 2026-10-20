@@ -300,6 +300,6 @@ async function deployHeld(
     ...(await recordedCommit(slug, read.pagePath, commit, keeping)),
     ...(await recordedEnding(slug, read.pagePath, false, new Date(), keeping)),
   ]
-  if (wrong.length > 0) return answeredWith(lines, wrong, OPERATIONAL)
+  if (wrong.length > 0) return told([...lines, ...wrong.map((one) => `unkept\t${one}`)])
   return told([...lines, `recorded\t${slug}\t${commit}`])
 }

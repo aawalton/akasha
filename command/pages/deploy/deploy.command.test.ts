@@ -343,6 +343,36 @@ test("what the run in the cluster would not do refuses the deploy", async () => 
   expect(answer.refusals[0]).toContain("deploy-one-web-0123 failed")
 })
 
+const HELD = "the pages held every write while one landing ran"
+
+function keptAndHeld(commit: string): Fetcher {
+  return (url) => {
+    if (url.endsWith(ASK_AT)) {
+      const rows = [{ [DEPLOYED_COMMIT]: commit }]
+      return Promise.resolve(new Response(JSON.stringify({ rows, n: rows.length })))
+    }
+    return Promise.resolve(new Response(JSON.stringify({ refused: HELD }), { status: 400 }))
+  }
+}
+
+test("a deploy that put up and could not keep what it records still answers that it put up", async () => {
+  const world = pastTheChecks()
+  const putting: PuttingUp = async () =>
+    await Promise.resolve({ report: ["up\tone-web"], refusals: [], code: OK })
+  const answer = await deploy(
+    ["one-web"],
+    given(world.root),
+    putting,
+    noWait,
+    keptAndHeld(world.commit),
+    noJob
+  )
+  expect(answer.code).toBe(OK)
+  expect(answer.refusals).toEqual([])
+  expect(answer.report).toContain("up\tone-web")
+  expect(answer.report.some((one) => one.startsWith("unkept\t") && one.includes(HELD))).toBe(true)
+})
+
 test("a deploy that is the run in the cluster puts up there rather than sending a second job", async () => {
   const world = pastTheChecks()
   const putting: PuttingUp = async () =>

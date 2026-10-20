@@ -130,11 +130,11 @@ export const deploy = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A workstation service's deploy keeps and reads that commit on disk beside the page.",
+        "A deploy that put up and could not keep that commit still answers that it put up.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A deploy of every other kind keeps and reads that commit through the pages.",
+      statement: "Such a deploy reports why each thing it keeps was not kept.",
     },
 
     {
@@ -412,5 +412,5 @@ export const deploy = {
     { argument: "argument/device", notWith: ["argument/simulator"] },
   ],
   createdAt: "2026-09-01T03:15:54.902Z",
-  updatedAt: "2026-10-18T17:20:17.468Z",
+  updatedAt: "2026-10-20T19:34:09.923Z",
 } as const satisfies Command
