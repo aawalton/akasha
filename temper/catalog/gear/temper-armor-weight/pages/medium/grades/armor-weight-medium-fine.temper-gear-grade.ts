@@ -7,7 +7,7 @@ export const armorWeightMediumFine = {
   title: "Medium at Fine",
   thing: "temper-armor-weight/medium",
   quality: "temper-quality/fine",
-  value: 245.5,
+  value: 236.5,
   createdAt: "2026-09-27T02:49:05.044Z",
-  updatedAt: "2026-09-27T02:49:23.000Z",
+  updatedAt: "2026-10-20T17:34:12.586Z",
 } as const satisfies TemperGearGrade
