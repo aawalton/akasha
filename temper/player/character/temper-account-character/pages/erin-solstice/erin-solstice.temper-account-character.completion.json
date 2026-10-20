@@ -28359,38 +28359,38 @@
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "stats": {
+        "critical-rating-weapon": 3377,
+        "resistance-physical": 32382,
+        "resistance-critical": 1320,
+        "power-spell": 3286,
+        "health-maximum": 26791,
+        "penetration-spell": 7750,
+        "magicka-recovery": 535,
+        "critical-rating-spell": 3377,
+        "resistance-spell": 33108,
         "health-recovery": 698,
         "stamina-recovery": 0,
-        "resistance-spell": 33108,
-        "critical-rating-spell": 3377,
-        "power-spell": 3286,
-        "stamina-maximum": 26636,
-        "penetration-physical": 7750,
-        "critical-rating-weapon": 3377,
-        "resistance-critical": 1320,
-        "magicka-recovery": 535,
-        "health-maximum": 26791,
         "power-weapon": 3286,
-        "penetration-spell": 7750,
+        "penetration-physical": 7750,
         "magicka-maximum": 15128,
-        "resistance-physical": 32382
+        "stamina-maximum": 26636
       },
       "unbonusedStats": {
+        "critical-rating-weapon": 2181,
+        "resistance-physical": 0,
+        "resistance-critical": 0,
+        "power-spell": 1000,
+        "health-maximum": 26791,
+        "penetration-spell": 0,
+        "magicka-recovery": 535,
+        "critical-rating-spell": 2181,
+        "resistance-spell": 0,
         "health-recovery": 698,
         "stamina-recovery": 0,
-        "resistance-spell": 0,
-        "critical-rating-spell": 2181,
-        "power-spell": 1000,
-        "stamina-maximum": 26636,
-        "penetration-physical": 0,
-        "critical-rating-weapon": 2181,
-        "resistance-critical": 0,
-        "magicka-recovery": 535,
-        "health-maximum": 26791,
         "power-weapon": 1000,
-        "penetration-spell": 0,
+        "penetration-physical": 0,
         "magicka-maximum": 15128,
-        "resistance-physical": 0
+        "stamina-maximum": 26636
       },
       "activeBuffs": [
         {
@@ -29230,78 +29230,51 @@
       "inArchive": false,
       "archiveBoons": [],
       "advanced": {
-        "critical-damage": 0.22,
-        "healing-critical-bonus": 0.02,
+        "healing-done-base": 0.02,
         "healing-taken-base": 0.15,
-        "healing-done-base": 0.02
+        "healing-critical-bonus": 0.02,
+        "critical-damage": 0.22
       },
       "advancedSheet": {
-        "sneak-speed-reduction": {
-          "format": "percent",
-          "percent": 71
-        },
-        "block-cost": {
-          "format": "flat",
-          "flat": 1607
-        },
-        "poison-resist": {
-          "format": "flat-or-percent",
-          "flat": 32382,
-          "percent": 49.0636367798
-        },
-        "shock-resist": {
-          "format": "flat-or-percent",
-          "flat": 33108,
-          "percent": 50.1636352539
-        },
-        "healing-taken": {
-          "format": "flat-or-percent",
+        "monster-kill-xp": {
+          "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
+        },
+        "telvar-bonus": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 10
+        },
+        "subscriber-alliance-points-bonus": {
+          "format": "percent",
+          "percent": 10
         },
         "fire-resist": {
           "format": "flat-or-percent",
           "flat": 33108,
           "percent": 50.1636352539
         },
-        "healing-done": {
-          "format": "flat-or-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "sprint-cost": {
-          "format": "flat",
-          "flat": 415
-        },
-        "fire-damage": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "generic-resist": {
-          "format": "flat-or-percent",
-          "flat": 32382,
-          "percent": 49.0636367798
-        },
-        "critical-damage": {
+        "critical-healing": {
           "format": "percent",
-          "percent": 22
+          "percent": 2
+        },
+        "critical-resist": {
+          "format": "flat-or-percent",
+          "flat": 1320,
+          "percent": 2
         },
         "critical-percent": {
           "format": "flat-and-percent",
           "flat": 22,
           "percent": 10
         },
-        "ultimate-regen-combat": {
-          "format": "flat",
-          "flat": 3
-        },
-        "monster-kill-xp": {
-          "format": "flat-and-percent",
+        "healing-taken": {
+          "format": "flat-or-percent",
           "flat": 0,
           "percent": 0
         },
-        "physical-damage": {
+        "oblivion-damage": {
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
@@ -29311,40 +29284,30 @@
           "flat": 32382,
           "percent": 49.0636367798
         },
-        "coin-bonus": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 21
-        },
-        "block-speed": {
+        "sprint-speed": {
           "format": "percent",
-          "percent": 42
+          "percent": 142
         },
-        "critical-resist": {
-          "format": "flat-or-percent",
-          "flat": 1320,
-          "percent": 2
-        },
-        "armor-cap": {
-          "format": "flat-or-percent",
-          "flat": 33000,
-          "percent": 50
-        },
-        "poison-damage": {
+        "cold-damage": {
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
         },
-        "bash-cost": {
+        "sneak-cost": {
           "format": "flat",
-          "flat": 614
+          "flat": 69
+        },
+        "armor": {
+          "format": "flat-or-percent",
+          "flat": 32382,
+          "percent": 49.0636367798
         },
         "healing-done-bonuses": {
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 2
         },
-        "subscriber-alliance-points-bonus": {
+        "subscriber-inspiration-bonus": {
           "format": "percent",
           "percent": 10
         },
@@ -29352,55 +29315,147 @@
           "format": "percent",
           "percent": 125
         },
-        "dodge-cost": {
-          "format": "flat",
-          "flat": 3856
+        "player-kill-xp": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
         },
-        "physical-penetration": {
-          "format": "flat",
-          "flat": 7750
-        },
-        "sprint-speed": {
+        "subscriber-telvar-bonus": {
           "format": "percent",
-          "percent": 142
+          "percent": 10
         },
-        "spell-penetration": {
-          "format": "flat",
-          "flat": 7750
+        "poison-resist": {
+          "format": "flat-or-percent",
+          "flat": 32382,
+          "percent": 49.0636367798
         },
-        "cc-break-cost": {
-          "format": "flat",
-          "flat": 4610
+        "all-xp": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 10
         },
-        "earth-resist": {
+        "fire-damage": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "cold-resist": {
           "format": "flat-or-percent",
           "flat": 33108,
           "percent": 50.1636352539
         },
-        "critical-chance": {
-          "format": "flat-or-percent",
-          "flat": 1196,
-          "percent": 5.4581961632
+        "block-cost": {
+          "format": "flat",
+          "flat": 1607
+        },
+        "coin-bonus": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 21
+        },
+        "healing-taken-bonuses": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 15
+        },
+        "alliance-points-bonus": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 10
         },
         "generic-damage": {
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
         },
-        "cold-damage": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
+        "sprint-cost": {
+          "format": "flat",
+          "flat": 415
         },
         "magic-resist": {
           "format": "flat-or-percent",
           "flat": 33108,
           "percent": 50.1636352539
         },
-        "inspiration-bonus": {
+        "earth-resist": {
+          "format": "flat-or-percent",
+          "flat": 33108,
+          "percent": 50.1636352539
+        },
+        "spell-penetration": {
+          "format": "flat",
+          "flat": 7750
+        },
+        "frost-resist": {
+          "format": "flat-or-percent",
+          "flat": 33108,
+          "percent": 50.1636352539
+        },
+        "critical-damage": {
+          "format": "percent",
+          "percent": 22
+        },
+        "bleed-damage": {
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 40
+          "percent": 0
+        },
+        "shock-resist": {
+          "format": "flat-or-percent",
+          "flat": 33108,
+          "percent": 50.1636352539
+        },
+        "generic-resist": {
+          "format": "flat-or-percent",
+          "flat": 32382,
+          "percent": 49.0636367798
+        },
+        "block-mitigation": {
+          "format": "percent",
+          "percent": 62
+        },
+        "healing-done": {
+          "format": "flat-or-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "critical-chance": {
+          "format": "flat-or-percent",
+          "flat": 1196,
+          "percent": 5.4581961632
+        },
+        "earth-damage": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "shock-damage": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "bash-damage": {
+          "format": "flat",
+          "flat": 908
+        },
+        "bash-cost": {
+          "format": "flat",
+          "flat": 614
+        },
+        "magic-damage": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "spell-resist": {
+          "format": "flat-or-percent",
+          "flat": 33108,
+          "percent": 50.1636352539
+        },
+        "physical-resist": {
+          "format": "flat-or-percent",
+          "flat": 32382,
+          "percent": 49.0636367798
         },
         "subscriber-all-xp": {
           "format": "percent",
@@ -29411,118 +29466,63 @@
           "flat": 32382,
           "percent": 49.0636367798
         },
-        "physical-resist": {
-          "format": "flat-or-percent",
-          "flat": 32382,
-          "percent": 49.0636367798
-        },
-        "critical-healing": {
-          "format": "percent",
-          "percent": 2
-        },
-        "magic-damage": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "oblivion-damage": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
         "subscriber-coin-bonus": {
           "format": "percent",
           "percent": 10
         },
-        "disease-damage": {
+        "inspiration-bonus": {
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 0
-        },
-        "sneak-cost": {
-          "format": "flat",
-          "flat": 69
-        },
-        "bleed-damage": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "earth-damage": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "cold-resist": {
-          "format": "flat-or-percent",
-          "flat": 33108,
-          "percent": 50.1636352539
-        },
-        "block-mitigation": {
-          "format": "percent",
-          "percent": 62
-        },
-        "shock-damage": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "frost-resist": {
-          "format": "flat-or-percent",
-          "flat": 33108,
-          "percent": 50.1636352539
-        },
-        "alliance-points-bonus": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 10
+          "percent": 40
         },
         "oblivion-resist": {
           "format": "flat-or-percent",
           "flat": 33108,
           "percent": 50.1636352539
         },
-        "healing-taken-bonuses": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 15
+        "armor-cap": {
+          "format": "flat-or-percent",
+          "flat": 33000,
+          "percent": 50
         },
-        "all-xp": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 10
+        "ultimate-regen-combat": {
+          "format": "flat",
+          "flat": 3
         },
-        "subscriber-telvar-bonus": {
+        "cc-break-cost": {
+          "format": "flat",
+          "flat": 4610
+        },
+        "dodge-cost": {
+          "format": "flat",
+          "flat": 3856
+        },
+        "physical-penetration": {
+          "format": "flat",
+          "flat": 7750
+        },
+        "sneak-speed-reduction": {
           "format": "percent",
-          "percent": 10
+          "percent": 71
         },
-        "player-kill-xp": {
+        "disease-damage": {
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
         },
-        "subscriber-inspiration-bonus": {
+        "block-speed": {
           "format": "percent",
-          "percent": 10
+          "percent": 42
         },
-        "armor": {
-          "format": "flat-or-percent",
-          "flat": 32382,
-          "percent": 49.0636367798
-        },
-        "bash-damage": {
-          "format": "flat",
-          "flat": 908
-        },
-        "spell-resist": {
-          "format": "flat-or-percent",
-          "flat": 33108,
-          "percent": 50.1636352539
-        },
-        "telvar-bonus": {
+        "poison-damage": {
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 10
+          "percent": 0
+        },
+        "physical-damage": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
         }
       },
       "passiveRankIds": []
@@ -29533,38 +29533,38 @@
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "stats": {
+        "critical-rating-weapon": 2181,
+        "resistance-physical": 1720,
+        "resistance-critical": 1320,
+        "power-spell": 2335,
+        "health-maximum": 16477,
+        "penetration-spell": 0,
+        "magicka-recovery": 514,
+        "critical-rating-spell": 2181,
+        "resistance-spell": 1720,
         "health-recovery": 309,
         "stamina-recovery": 617,
-        "resistance-spell": 1720,
-        "critical-rating-spell": 2181,
-        "power-spell": 2335,
-        "stamina-maximum": 12434,
-        "penetration-physical": 0,
-        "critical-rating-weapon": 2181,
-        "resistance-critical": 1320,
-        "magicka-recovery": 514,
-        "health-maximum": 16477,
         "power-weapon": 2335,
-        "penetration-spell": 0,
+        "penetration-physical": 0,
         "magicka-maximum": 12434,
-        "resistance-physical": 1720
+        "stamina-maximum": 12434
       },
       "unbonusedStats": {
+        "critical-rating-weapon": 2181,
+        "resistance-physical": 0,
+        "resistance-critical": 0,
+        "power-spell": 1000,
+        "health-maximum": 16477,
+        "penetration-spell": 0,
+        "magicka-recovery": 514,
+        "critical-rating-spell": 2181,
+        "resistance-spell": 0,
         "health-recovery": 309,
         "stamina-recovery": 617,
-        "resistance-spell": 0,
-        "critical-rating-spell": 2181,
-        "power-spell": 1000,
-        "stamina-maximum": 12434,
-        "penetration-physical": 0,
-        "critical-rating-weapon": 2181,
-        "resistance-critical": 0,
-        "magicka-recovery": 514,
-        "health-maximum": 16477,
         "power-weapon": 1000,
-        "penetration-spell": 0,
+        "penetration-physical": 0,
         "magicka-maximum": 12434,
-        "resistance-physical": 0
+        "stamina-maximum": 12434
       },
       "activeBuffs": [],
       "championPoints": [],
@@ -29660,78 +29660,51 @@
       "inArchive": false,
       "archiveBoons": [],
       "advanced": {
-        "critical-damage": 0,
-        "healing-critical-bonus": 0,
+        "healing-done-base": 0.045,
         "healing-taken-base": 0,
-        "healing-done-base": 0.045
+        "healing-critical-bonus": 0,
+        "critical-damage": 0
       },
       "advancedSheet": {
-        "sneak-speed-reduction": {
-          "format": "percent",
-          "percent": 60
-        },
-        "block-cost": {
-          "format": "flat",
-          "flat": 1750
-        },
-        "poison-resist": {
-          "format": "flat-or-percent",
-          "flat": 1720,
-          "percent": 2.6060605049
-        },
-        "shock-resist": {
-          "format": "flat-or-percent",
-          "flat": 1720,
-          "percent": 2.6060605049
-        },
-        "healing-taken": {
-          "format": "flat-or-percent",
+        "monster-kill-xp": {
+          "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
+        },
+        "telvar-bonus": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 10
+        },
+        "subscriber-alliance-points-bonus": {
+          "format": "percent",
+          "percent": 10
         },
         "fire-resist": {
           "format": "flat-or-percent",
           "flat": 1720,
           "percent": 2.6060605049
         },
-        "healing-done": {
-          "format": "flat-or-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "sprint-cost": {
-          "format": "flat",
-          "flat": 100
-        },
-        "fire-damage": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "generic-resist": {
-          "format": "flat-or-percent",
-          "flat": 1720,
-          "percent": 2.6060605049
-        },
-        "critical-damage": {
+        "critical-healing": {
           "format": "percent",
           "percent": 0
+        },
+        "critical-resist": {
+          "format": "flat-or-percent",
+          "flat": 1320,
+          "percent": 2
         },
         "critical-percent": {
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
         },
-        "ultimate-regen-combat": {
-          "format": "flat",
-          "flat": 3
-        },
-        "monster-kill-xp": {
-          "format": "flat-and-percent",
+        "healing-taken": {
+          "format": "flat-or-percent",
           "flat": 0,
           "percent": 0
         },
-        "physical-damage": {
+        "oblivion-damage": {
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
@@ -29741,40 +29714,30 @@
           "flat": 1720,
           "percent": 2.6060605049
         },
-        "coin-bonus": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 11
-        },
-        "block-speed": {
+        "sprint-speed": {
           "format": "percent",
-          "percent": 40
+          "percent": 140
         },
-        "critical-resist": {
-          "format": "flat-or-percent",
-          "flat": 1320,
-          "percent": 2
-        },
-        "armor-cap": {
-          "format": "flat-or-percent",
-          "flat": 33000,
-          "percent": 50
-        },
-        "poison-damage": {
+        "cold-damage": {
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
         },
-        "bash-cost": {
+        "sneak-cost": {
           "format": "flat",
-          "flat": 765
+          "flat": 133
+        },
+        "armor": {
+          "format": "flat-or-percent",
+          "flat": 1720,
+          "percent": 2.6060605049
         },
         "healing-done-bonuses": {
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 4.5
         },
-        "subscriber-alliance-points-bonus": {
+        "subscriber-inspiration-bonus": {
           "format": "percent",
           "percent": 10
         },
@@ -29782,55 +29745,147 @@
           "format": "percent",
           "percent": 125
         },
-        "dodge-cost": {
-          "format": "flat",
-          "flat": 4040
+        "player-kill-xp": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
         },
-        "physical-penetration": {
-          "format": "flat",
-          "flat": 0
-        },
-        "sprint-speed": {
+        "subscriber-telvar-bonus": {
           "format": "percent",
-          "percent": 140
+          "percent": 10
         },
-        "spell-penetration": {
-          "format": "flat",
-          "flat": 0
-        },
-        "cc-break-cost": {
-          "format": "flat",
-          "flat": 5400
-        },
-        "earth-resist": {
+        "poison-resist": {
           "format": "flat-or-percent",
           "flat": 1720,
           "percent": 2.6060605049
         },
-        "critical-chance": {
-          "format": "flat-or-percent",
+        "all-xp": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 10
+        },
+        "fire-damage": {
+          "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
+        },
+        "cold-resist": {
+          "format": "flat-or-percent",
+          "flat": 1720,
+          "percent": 2.6060605049
+        },
+        "block-cost": {
+          "format": "flat",
+          "flat": 1750
+        },
+        "coin-bonus": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 11
+        },
+        "healing-taken-bonuses": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "alliance-points-bonus": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 10
         },
         "generic-damage": {
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
         },
-        "cold-damage": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
+        "sprint-cost": {
+          "format": "flat",
+          "flat": 100
         },
         "magic-resist": {
           "format": "flat-or-percent",
           "flat": 1720,
           "percent": 2.6060605049
         },
-        "inspiration-bonus": {
+        "earth-resist": {
+          "format": "flat-or-percent",
+          "flat": 1720,
+          "percent": 2.6060605049
+        },
+        "spell-penetration": {
+          "format": "flat",
+          "flat": 0
+        },
+        "frost-resist": {
+          "format": "flat-or-percent",
+          "flat": 1720,
+          "percent": 2.6060605049
+        },
+        "critical-damage": {
+          "format": "percent",
+          "percent": 0
+        },
+        "bleed-damage": {
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 10
+          "percent": 0
+        },
+        "shock-resist": {
+          "format": "flat-or-percent",
+          "flat": 1720,
+          "percent": 2.6060605049
+        },
+        "generic-resist": {
+          "format": "flat-or-percent",
+          "flat": 1720,
+          "percent": 2.6060605049
+        },
+        "block-mitigation": {
+          "format": "percent",
+          "percent": 50
+        },
+        "healing-done": {
+          "format": "flat-or-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "critical-chance": {
+          "format": "flat-or-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "earth-damage": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "shock-damage": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "bash-damage": {
+          "format": "flat",
+          "flat": 39
+        },
+        "bash-cost": {
+          "format": "flat",
+          "flat": 765
+        },
+        "magic-damage": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "spell-resist": {
+          "format": "flat-or-percent",
+          "flat": 1720,
+          "percent": 2.6060605049
+        },
+        "physical-resist": {
+          "format": "flat-or-percent",
+          "flat": 1720,
+          "percent": 2.6060605049
         },
         "subscriber-all-xp": {
           "format": "percent",
@@ -29841,68 +29896,11 @@
           "flat": 1720,
           "percent": 2.6060605049
         },
-        "physical-resist": {
-          "format": "flat-or-percent",
-          "flat": 1720,
-          "percent": 2.6060605049
-        },
-        "critical-healing": {
-          "format": "percent",
-          "percent": 0
-        },
-        "magic-damage": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "oblivion-damage": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
         "subscriber-coin-bonus": {
           "format": "percent",
           "percent": 10
         },
-        "disease-damage": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "sneak-cost": {
-          "format": "flat",
-          "flat": 133
-        },
-        "bleed-damage": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "earth-damage": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "cold-resist": {
-          "format": "flat-or-percent",
-          "flat": 1720,
-          "percent": 2.6060605049
-        },
-        "block-mitigation": {
-          "format": "percent",
-          "percent": 50
-        },
-        "shock-damage": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "frost-resist": {
-          "format": "flat-or-percent",
-          "flat": 1720,
-          "percent": 2.6060605049
-        },
-        "alliance-points-bonus": {
+        "inspiration-bonus": {
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 10
@@ -29912,47 +29910,49 @@
           "flat": 1720,
           "percent": 2.6060605049
         },
-        "healing-taken-bonuses": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "all-xp": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 10
-        },
-        "subscriber-telvar-bonus": {
-          "format": "percent",
-          "percent": 10
-        },
-        "player-kill-xp": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "subscriber-inspiration-bonus": {
-          "format": "percent",
-          "percent": 10
-        },
-        "armor": {
+        "armor-cap": {
           "format": "flat-or-percent",
-          "flat": 1720,
-          "percent": 2.6060605049
+          "flat": 33000,
+          "percent": 50
         },
-        "bash-damage": {
+        "ultimate-regen-combat": {
           "format": "flat",
-          "flat": 39
+          "flat": 3
         },
-        "spell-resist": {
-          "format": "flat-or-percent",
-          "flat": 1720,
-          "percent": 2.6060605049
+        "cc-break-cost": {
+          "format": "flat",
+          "flat": 5400
         },
-        "telvar-bonus": {
+        "dodge-cost": {
+          "format": "flat",
+          "flat": 4040
+        },
+        "physical-penetration": {
+          "format": "flat",
+          "flat": 0
+        },
+        "sneak-speed-reduction": {
+          "format": "percent",
+          "percent": 60
+        },
+        "disease-damage": {
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 10
+          "percent": 0
+        },
+        "block-speed": {
+          "format": "percent",
+          "percent": 40
+        },
+        "poison-damage": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "physical-damage": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
         }
       },
       "passiveRankIds": []
