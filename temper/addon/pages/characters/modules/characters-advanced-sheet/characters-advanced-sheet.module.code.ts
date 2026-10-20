@@ -1,8 +1,9 @@
 import type { AdvancedSheetFormat } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
-const SHEET: ReadonlyArray<readonly [string, AdvancedStatDisplayType]> = [
+const NAMES: ReadonlyArray<readonly [string, AdvancedStatDisplayType]> = [
   ["alliance-points-bonus", ADVANCED_STAT_DISPLAY_TYPE_ALLIANCE_POINTS_BONUS],
   ["all-xp", ADVANCED_STAT_DISPLAY_TYPE_ALL_XP],
   ["armor", ADVANCED_STAT_DISPLAY_TYPE_ARMOR],
@@ -74,21 +75,52 @@ const FORMATS: ReadonlyArray<readonly [AdvancedStatDisplayFormat, AdvancedSheetF
   [ADVANCED_STAT_DISPLAY_FORMAT_FLAT_OR_PERCENT, "flat-or-percent"],
 ]
 
-type AdvancedSheetValue = { format: AdvancedSheetFormat; flat?: number; percent?: number }
+type AdvancedSheetValue = {
+  category: string
+  label: string
+  format: AdvancedSheetFormat
+  flat?: number
+  percent?: number
+}
+
+const LABEL_FORMAT = "<<t:1>>"
 
 function formatOf(format: AdvancedStatDisplayFormat): AdvancedSheetFormat {
   for (const [code, name] of FORMATS) if (code === format) return name
   return "none"
 }
 
+function nameOf(statType: AdvancedStatDisplayType): string {
+  for (const [name, named] of NAMES) if (named === statType) return name
+  return `display-type-${String(statType)}`
+}
+
+function statValue(
+  category: string,
+  label: string,
+  statType: AdvancedStatDisplayType
+): AdvancedSheetValue {
+  const [format, flat, percent] = GetAdvancedStatValue(statType)
+  const value: AdvancedSheetValue = {
+    category,
+    label: zo_strformat(LABEL_FORMAT, label),
+    format: formatOf(format),
+  }
+  if (flat !== undefined) value.flat = flat
+  if (percent !== undefined) value.percent = percent
+  return value
+}
+
 export function advancedSheet(): Record<string, AdvancedSheetValue> {
   const sheet: Record<string, AdvancedSheetValue> = {}
-  for (const [name, statType] of SHEET) {
-    const [format, flat, percent] = GetAdvancedStatValue(statType)
-    const value: AdvancedSheetValue = { format: formatOf(format) }
-    if (flat !== undefined) value.flat = flat
-    if (percent !== undefined) value.percent = percent
-    sheet[name] = value
+  const categories = GetNumAdvancedStatCategories()
+  for (let categoryIndex = 1; categoryIndex <= categories; categoryIndex++) {
+    const categoryId = GetAdvancedStatsCategoryId(categoryIndex)
+    const [category, stats] = GetAdvancedStatCategoryInfo(categoryId)
+    for (let statIndex = 1; statIndex <= stats; statIndex++) {
+      const [statType, label] = GetAdvancedStatInfo(categoryId, statIndex)
+      sheet[nameOf(statType)] = statValue(category, label, statType)
+    }
   }
   return sheet
 }

@@ -9,11 +9,24 @@ export const charactersAdvancedSheet = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every advanced stat display type the game has but none is read.",
+      statement: "The stats read are the ones the game's panel lists, category by category.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The panel is walked through the same calls the game's panel builds itself from.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "Each stat is named by its display type, lowercased and hyphenated.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A stat whose display type has no name here is named by the display type's number.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each stat keeps its category's header and its name as the panel shows them.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -33,5 +46,5 @@ export const charactersAdvancedSheet = {
     },
   ],
   createdAt: "2026-10-20T11:31:36.762Z",
-  updatedAt: "2026-10-20T11:32:23.834Z",
+  updatedAt: "2026-10-20T13:20:51.225Z",
 } as const satisfies Module
