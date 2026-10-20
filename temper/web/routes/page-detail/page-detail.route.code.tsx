@@ -69,6 +69,7 @@ interface CharacterPageRow {
   buildHash?: string
   title?: string
   description?: string
+  characterName?: string
   targetCount?: number
   visibility?: string
 }
@@ -241,7 +242,7 @@ async function loadCharacterDetail(page: Record<string, unknown>, request: Reque
       const metadata: CharacterBuildMetadata = {
         name: r.title ?? decoded.name,
         description: r.description ?? decoded.description,
-        characterName: decoded.character.name,
+        characterName: r.characterName ?? decoded.character.name,
         ...(typeof r.targetCount === "number" ? { targetCount: r.targetCount } : {}),
       }
       initialBuild = applyCharacterMetadata(decoded, metadata)
