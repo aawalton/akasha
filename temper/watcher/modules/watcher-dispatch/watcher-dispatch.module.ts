@@ -36,7 +36,18 @@ export const watcherDispatch = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The characters export is held back where a characters import is not synced.",
+      statement:
+        "The tasks import waits on the characters import and never on the completion import.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Where the completion import did not sync, the tasks import recomputes no progress.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The characters export is held back where the characters or tasks import is not synced.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -95,5 +106,5 @@ export const watcherDispatch = {
     },
   ],
   createdAt: "2026-09-02T20:20:26.300Z",
-  updatedAt: "2026-10-19T17:50:52.469Z",
+  updatedAt: "2026-10-20T16:45:51.279Z",
 } as const satisfies Module

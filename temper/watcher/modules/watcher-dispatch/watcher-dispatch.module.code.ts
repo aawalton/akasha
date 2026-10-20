@@ -32,6 +32,8 @@ import {
 
 const COMPLETION_TO_DO = "import this completion"
 
+export const COMPLETION_NOT_LANDED = "the completion import did not land this run"
+
 const [CATALOG] = TARGET_OPERATIONS.catalog.imports
 const [CHARACTERS, COMPLETION, TASKS] = TARGET_OPERATIONS.characters.imports
 const [FIGHTS] = TARGET_OPERATIONS.combat.imports
@@ -122,9 +124,23 @@ async function handleCatalog(job: Job): Promise<Handled> {
   }
 }
 
+function progressLeft(): Promise<number> {
+  return Promise.reject(new Error(COMPLETION_NOT_LANDED))
+}
+
+async function tasksAfter(job: Job, chained: readonly SyncOperation[]): Promise<SyncOperation> {
+  const target = job.imported(TASKS)
+  if (chained[0]?.state !== "synced") return skippedOperation(target, SKIPPED_AFTER_FAILURE)
+  const options = allSynced(chained) ? {} : { refreshProgress: progressLeft }
+  const { operation } = await observe(target, () =>
+    job.runners.importTasks(job.content, job.reader, options)
+  )
+  return operation
+}
+
 async function handleCharacters(job: Job): Promise<Handled> {
   const { content, reader, runners } = job
-  const imports = await observeChain([
+  const chained = await observeChain([
     { target: job.imported(CHARACTERS), run: () => runners.importCharacters(content, reader) },
     {
       target: job.imported(COMPLETION),
@@ -133,12 +149,12 @@ async function handleCharacters(job: Job): Promise<Handled> {
           signedInUserId: () => signedInUserId(reader, COMPLETION_TO_DO),
         }),
     },
-    { target: job.imported(TASKS), run: () => runners.importTasks(content, reader) },
   ])
-  const exported = await exportCharacters(job, imports)
+  const tasks = await tasksAfter(job, chained)
+  const exported = await exportCharacters(job, [...chained.slice(0, 1), tasks])
   return {
     ...NOTHING_WRITTEN,
-    operations: [...imports, ...exported.operations],
+    operations: [...chained, tasks, ...exported.operations],
     charactersConfigSideFileHash: exported.hash,
   }
 }

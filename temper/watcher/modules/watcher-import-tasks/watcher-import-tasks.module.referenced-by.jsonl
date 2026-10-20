@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"watcher-import-tasks.module.code.ts","path":"temper/watcher/modules/watcher-dispatch-runners/watcher-dispatch-runners.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-import-tasks.module.code.ts","path":"temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-import-tasks.module.code.ts","path":"temper/watcher/modules/watcher-import-tasks/watcher-import-tasks.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-import-tasks.module.code.ts","path":"temper/watcher/modules/watcher-import-tasks/watcher-import-tasks.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-import-tasks.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-import-tasks/watcher-import-tasks.module.test.ts","typed":false,"deferred":false}

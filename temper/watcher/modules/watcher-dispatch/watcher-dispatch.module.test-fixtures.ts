@@ -1,5 +1,6 @@
 import type { RunReport } from "akasha/temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.code.ts"
 import type { DispatchRunners } from "akasha/temper/watcher/modules/watcher-dispatch-runners/watcher-dispatch-runners.module.code.ts"
+import type { ImportTasksOptions } from "akasha/temper/watcher/modules/watcher-import-tasks/watcher-import-tasks.module.code.ts"
 import type { SyncOperation } from "akasha/temper/watcher/modules/watcher-run-outcome/watcher-run-outcome.module.code.ts"
 
 interface Tweaks {
@@ -8,6 +9,7 @@ interface Tweaks {
   exportTasksError: Error | null
   exportSettingsError: Error | null
   completionError: Error | null
+  charactersError: Error | null
   dataMiningModified: boolean
   minedItemsUploaded: { readonly apiVersion: string; readonly throughItemId: number } | null
   minedUploadedHash: string | null
@@ -22,6 +24,7 @@ const CALM: Tweaks = {
   exportTasksError: null,
   exportSettingsError: null,
   completionError: null,
+  charactersError: null,
   dataMiningModified: false,
   minedItemsUploaded: null,
   minedUploadedHash: null,
@@ -32,6 +35,7 @@ const CALM: Tweaks = {
 
 interface Harness {
   readonly calls: string[]
+  readonly tasksHanded: (ImportTasksOptions | undefined)[]
   readonly reported: (readonly SyncOperation[])[]
   readonly usersAsked: (string | undefined)[]
   readonly runners: DispatchRunners
@@ -41,6 +45,7 @@ interface Harness {
 export function harness(tweaks: Partial<Tweaks> = {}): Harness {
   const t: Tweaks = { ...CALM, ...tweaks }
   const calls: string[] = []
+  const tasksHanded: (ImportTasksOptions | undefined)[] = []
   const reported: (readonly SyncOperation[])[] = []
   const usersAsked: (string | undefined)[] = []
   const runners: DispatchRunners = {
@@ -50,6 +55,7 @@ export function harness(tweaks: Partial<Tweaks> = {}): Harness {
     },
     importCharacters: async () => {
       calls.push("importCharacters")
+      if (t.charactersError !== null) throw t.charactersError
     },
     importCompanions: async () => {
       calls.push("importCompanions")
@@ -94,8 +100,9 @@ export function harness(tweaks: Partial<Tweaks> = {}): Harness {
     importSales: async () => {
       calls.push("importSales")
     },
-    importTasks: async () => {
+    importTasks: async (_content, _reader, options) => {
       calls.push("importTasks")
+      tasksHanded.push(options)
     },
     exportCompanionBuilds: async (content) => {
       calls.push("exportCompanionBuilds")
@@ -128,5 +135,5 @@ export function harness(tweaks: Partial<Tweaks> = {}): Harness {
     if (t.reportError !== null) throw t.reportError
     reported.push([...operations])
   }
-  return { calls, reported, usersAsked, runners, report }
+  return { calls, tasksHanded, reported, usersAsked, runners, report }
 }

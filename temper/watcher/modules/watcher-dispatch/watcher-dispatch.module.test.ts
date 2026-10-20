@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import {
+  COMPLETION_NOT_LANDED,
   type DispatchOptions,
   dispatch,
 } from "akasha/temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.code.ts"
@@ -128,6 +129,7 @@ test("characters runs the import chain and then the export", async () => {
   expect(result.ok).toBe(true)
   expect(at.calls).toEqual(["importCharacters", "importCompletion", "importTasks", "exportTasks"])
   expect(at.calls).not.toContain("importCatalog")
+  expect(at.tasksHanded).toEqual([{}])
 })
 
 test("characters holds back the saved-variables write even where the export changed the file", async () => {
@@ -281,20 +283,23 @@ test("an export that throws does not retract the imports that already landed", a
   expect(result.ok).toBe(false)
 })
 
-test("an import that throws holds the export back rather than exporting stale data", async () => {
-  const at = harness({ completionError: new Error("completion parse blew up") })
-  const result = await dispatch(
-    "characters",
-    CONTENT,
-    FAKE_TOKEN,
-    FAKE_URL,
-    optionsFor(at, { charactersConfigPath: PRESENT_ADDON_CONFIG })
-  )
-  expect(stateOf(result.operations, "characters")).toBe("synced")
-  expect(stateOf(result.operations, "completion")).toBe("upload_failed")
-  expect(stateOf(result.operations, "tasks")).toBe("skipped")
-  expect(stateOf(result.operations, "charactersConfig")).toBe("skipped")
-  expect(at.calls).not.toContain("exportTasks")
+async function statesAfter(at: ReturnType<typeof harness>) {
+  const options = optionsFor(at, { charactersConfigPath: PRESENT_ADDON_CONFIG })
+  const result = await dispatch("characters", CONTENT, FAKE_TOKEN, FAKE_URL, options)
+  return result.operations.map((o) => o.state)
+}
+
+test("a failed completion import runs tasks and the export, recomputing no progress", async () => {
+  const at = harness({ completionError: new Error("unparsed") })
+  expect(await statesAfter(at)).toEqual(["synced", "upload_failed", "synced", "synced"])
+  const refresh = at.tasksHanded[0]?.refreshProgress ?? (async () => 0)
+  await expect(refresh("a", [])).rejects.toThrow(COMPLETION_NOT_LANDED)
+})
+
+test("a failed characters import holds the tasks import and the export back", async () => {
+  const at = harness({ charactersError: new Error("unread") })
+  expect(await statesAfter(at)).toEqual(["upload_failed", "skipped", "skipped", "skipped"])
+  expect(at.calls).toEqual(["importCharacters"])
 })
 
 test("a settings export that refuses leaves the addon's config alone and the run alive", async () => {
