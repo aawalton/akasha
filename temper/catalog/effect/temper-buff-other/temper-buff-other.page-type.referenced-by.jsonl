@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"temper-buff-other.page-type.types.ts","path":"temper/catalog/effect/temper-buff-other/pages/berserker/berserker.temper-buff-other.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-buff-other.page-type.types.ts","path":"temper/catalog/effect/temper-buff-other/pages/blood-magic/blood-magic.temper-buff-other.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-buff-other.page-type.types.ts","path":"temper/catalog/effect/temper-buff-other/pages/blood-scion/blood-scion.temper-buff-other.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-buff-other.page-type.types.ts","path":"temper/catalog/effect/temper-buff-other/pages/bone-goliath-transformation/bone-goliath-transformation.temper-buff-other.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-buff-other.page-type.types.ts","path":"temper/catalog/effect/temper-buff-other/pages/domihaus/domihaus.temper-buff-other.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-buff-other.page-type.types.ts","path":"temper/catalog/effect/temper-buff-other/pages/empower/empower.temper-buff-other.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-buff-other.page-type.types.ts","path":"temper/catalog/effect/temper-buff-other/pages/escalating-fete/escalating-fete.temper-buff-other.ts","typed":true,"deferred":false}
@@ -19,6 +20,7 @@
 {"propertySlug":"import","fileName":"temper-buff-other.page-type.types.ts","path":"temper/catalog/effect/temper-buff-other/pages/hircines-veneer/hircines-veneer.temper-buff-other.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-buff-other.page-type.types.ts","path":"temper/catalog/effect/temper-buff-other/pages/lycanthropy/lycanthropy.temper-buff-other.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-buff-other.page-type.types.ts","path":"temper/catalog/effect/temper-buff-other/pages/perfect-scion/perfect-scion.temper-buff-other.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-buff-other.page-type.types.ts","path":"temper/catalog/effect/temper-buff-other/pages/ravenous-goliath/ravenous-goliath.temper-buff-other.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-buff-other.page-type.types.ts","path":"temper/catalog/effect/temper-buff-other/pages/strike-from-the-shadows/strike-from-the-shadows.temper-buff-other.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-buff-other.page-type.types.ts","path":"temper/catalog/effect/temper-buff-other/pages/sturdy-horn/sturdy-horn.temper-buff-other.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-buff-other.page-type.types.ts","path":"temper/catalog/effect/temper-buff-other/pages/summon-twilight-matriarch/summon-twilight-matriarch.temper-buff-other.ts","typed":true,"deferred":false}
