@@ -12,7 +12,7 @@ import {
 import { championPoints } from "akasha/temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
-import { maxMaxStamina } from "akasha/temper/player/character/character-build/pages/max-max-stamina/max-max-stamina.character-build.ts"
+
 import { holdSetCatalogFromCheckout } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.test-fixtures.ts"
 import { buildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
@@ -22,9 +22,12 @@ holdSkillCatalogFromCheckout()
 holdSetCatalogFromCheckout()
 holdMetricCatalogFromCheckout()
 
+const STAMINA_SORCERER =
+  "ATQKpJcAAIBjRwwGyJtABFz_aAEbI-0AIWR9oAQsj7QAjZH2gBCyPtAByAVaADkH3UAHIBVoAMdE_2gBNz_aABxMptoAySfYTyQSZQJSSHsg-QSZZKgkzoqhB2H4GBoBEmYrg8DQDsCw7WjXA-cRORAhFsPqijrTXrhkQoQkQEBkZkBEZkJEBGRqREQARkZoIASEBkSAAIhkRGYHRGaEQHRERMhmRoAAEEREBESUZghERERGAEdZdHjUbkWJOGVjyZZcybOz6NOrXtn0KNKnU8VayxsrZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJhggMhYxIGoeyqRA"
+
 function decoded(): CharacterState {
-  const build = decodeBuild(buildHash(maxMaxStamina.buildHash))
-  if (build === null) throw new Error("the max-max-stamina hash does not decode")
+  const build = decodeBuild(buildHash(STAMINA_SORCERER))
+  if (build === null) throw new Error("the stamina sorcerer hash does not decode")
   return build
 }
 
