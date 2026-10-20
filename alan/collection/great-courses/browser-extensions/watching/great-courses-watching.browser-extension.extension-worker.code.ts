@@ -15,7 +15,7 @@ import {
   chromeOf,
 } from "akasha/infrastructure/service/akasha-service/browser-extension/modules/chrome-reaching/chrome-reaching.module.code.ts"
 
-export const DEFAULT_SPEED = 3
+const DEFAULT_SPEED = 3
 
 const SITE = "https://alanwalton.com"
 
