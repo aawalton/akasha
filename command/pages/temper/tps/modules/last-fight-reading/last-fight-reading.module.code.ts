@@ -4,8 +4,10 @@ import { savedVarsFile } from "akasha/temper/eso/path/modules/eso-paths-resolve/
 import { luaArrayOrEmpty } from "akasha/temper/eso/saved-variable/modules/lua-array/lua-array.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import {
-  armorShareOf,
   killingHit,
+  physicalShareOf,
+  spellShareOf,
+  type Toughness,
 } from "akasha/temper/player/character/stat/modules/toughness-per-second/toughness-per-second.module.code.ts"
 import { z } from "zod"
 
@@ -55,6 +57,8 @@ const RESOURCES = [
 
 export type LastFight = z.infer<typeof lastFightShape>
 
+type DamageTaken = Pick<Toughness, "damageTakenMartial" | "damageTakenMagical">
+
 export function lastFightOf(slug: string): LastFight | undefined {
   const path = savedVarsFile("TemperCombat.lua")
   if (!existsSync(path)) return undefined
@@ -64,7 +68,7 @@ export function lastFightOf(slug: string): LastFight | undefined {
   return slugOf(fight.character) === slug ? fight : undefined
 }
 
-function toughnessLines(fight: LastFight, damageTaken: number): string[] {
+function toughnessLines(fight: LastFight, damageTaken: DamageTaken): string[] {
   const ticks = (fight.ticks ?? []).filter((tick) => tick.healthMaximum > 0)
   if (ticks.length === 0) {
     return [
@@ -75,8 +79,10 @@ function toughnessLines(fight: LastFight, damageTaken: number): string[] {
     killingHit(
       {
         healthMaximum: tick.healthMaximum,
-        armorShare: armorShareOf(tick.physical, tick.spell),
-        damageTaken,
+        physicalShare: physicalShareOf(tick.physical),
+        spellShare: spellShareOf(tick.spell),
+        damageTakenMartial: damageTaken.damageTakenMartial,
+        damageTakenMagical: damageTaken.damageTakenMagical,
       },
       tick
     )
@@ -90,7 +96,7 @@ function toughnessLines(fight: LastFight, damageTaken: number): string[] {
   ]
 }
 
-export function gameLines(fight: LastFight | undefined, damageTaken: number): string[] {
+export function gameLines(fight: LastFight | undefined, damageTaken: DamageTaken): string[] {
   if (fight === undefined) return ["", "the game has written no fight for this character yet"]
   const abilities = [...(fight.abilities ?? [])].sort(
     (a, b) => b.healing + b.overheal - (a.healing + a.overheal)

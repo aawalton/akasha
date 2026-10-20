@@ -24,7 +24,11 @@ import {
   rotationReadingOf,
 } from "akasha/temper/player/character/stat/modules/character-rotation-reading/character-rotation-reading.module.code.ts"
 import type { RotationHealed } from "akasha/temper/player/character/stat/modules/rotation-healing/rotation-healing.module.code.ts"
-import { damageLeft } from "akasha/temper/player/character/stat/modules/toughness-per-second/toughness-per-second.module.code.ts"
+import {
+  damageLeft,
+  magicalDamageLeft,
+  martialDamageLeft,
+} from "akasha/temper/player/character/stat/modules/toughness-per-second/toughness-per-second.module.code.ts"
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 
 const NAMED = [character, json]
@@ -77,8 +81,10 @@ export async function temperTps(argv: readonly string[], given: Given): Promise<
       shieldsPerSecond: reading.shieldsPerSecond,
       shieldUp: reading.shieldUp,
       healthMaximum: multipliers.healthMaximum,
-      armorShare: multipliers.armorShare,
-      damageTaken: multipliers.damageTaken,
+      physicalShare: multipliers.physicalShare,
+      spellShare: multipliers.spellShare,
+      damageTakenMartial: multipliers.damageTakenMartial,
+      damageTakenMagical: multipliers.damageTakenMagical,
       lightAttack: attack.light,
       heavyAttack: attack.heavy,
       directDamage: reading.directDamage,
@@ -96,7 +102,9 @@ export async function temperTps(argv: readonly string[], given: Given): Promise<
     `${Math.round(reading.damagePerSecond)} damage per second to one enemy`,
     `${Math.round(reading.healingPerSecond)} healing and shields per second`,
     `  max health: ${Math.round(multipliers.healthMaximum)}`,
-    `  armor takes ${pct(multipliers.armorShare)}, damage taken ${pct(multipliers.damageTaken)}, so ${pct(damageLeft(multipliers))} of damage lands`,
+    `  martial: armor takes ${pct(multipliers.physicalShare)}, damage taken ${pct(multipliers.damageTakenMartial)}, so ${pct(martialDamageLeft(multipliers))} lands`,
+    `  magical: armor takes ${pct(multipliers.spellShare)}, damage taken ${pct(multipliers.damageTakenMagical)}, so ${pct(magicalDamageLeft(multipliers))} lands`,
+    `  half martial and half magical, ${pct(damageLeft(multipliers))} of damage lands`,
     `  healing: ${Math.round(reading.healingLandedPerSecond)} a tick, shields given: ${Math.round(reading.shieldsPerSecond)} a second, shields up: ${Math.round(reading.shieldUp)} a tick`,
     ...healed.skills.map(
       (one) => `  ${one.name}: ${one.casts} casts, ${Math.round(one.healing)} healing`
@@ -112,6 +120,6 @@ export async function temperTps(argv: readonly string[], given: Given): Promise<
     for (const sentence of one.sentences) lines.push(`  ${sentence}`)
   }
   lines.push(...comparedLines(bars, reading, inGame))
-  lines.push(...gameLines(game, multipliers.damageTaken))
+  lines.push(...gameLines(game, multipliers))
   return told(lines)
 }

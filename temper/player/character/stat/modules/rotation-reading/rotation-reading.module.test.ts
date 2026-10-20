@@ -44,7 +44,15 @@ test("a skill cast every second heals and hits that much each second of the figh
 test("a bar with no multipliers leaves the other bar's to count alone", () => {
   const strong = {
     ...BAR,
-    multipliers: { healing: 2, damage: 1.5, healthMaximum: 1000, armorShare: 0, damageTaken: 0 },
+    multipliers: {
+      healing: 2,
+      damage: 1.5,
+      healthMaximum: 1000,
+      physicalShare: 0,
+      spellShare: 0,
+      damageTakenMartial: 0,
+      damageTakenMagical: 0,
+    },
   }
   const reading = rotationReading([strong, BAR], 0)
   expect(reading.multipliers.healing).toBe(2)

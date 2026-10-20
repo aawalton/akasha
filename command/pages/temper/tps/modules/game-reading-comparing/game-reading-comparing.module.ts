@@ -22,6 +22,11 @@ export const gameReadingComparing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A bar's armor share and damage taken are each the mean of the martial and the magical one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A character the add-on has worked out no reading for is told how to take one.",
     },
     {
@@ -31,5 +36,5 @@ export const gameReadingComparing = {
     },
   ],
   createdAt: "2026-10-19T19:44:54.206Z",
-  updatedAt: "2026-10-19T19:44:54.206Z",
+  updatedAt: "2026-10-20T13:29:19.208Z",
 } as const satisfies Module

@@ -1,5 +1,12 @@
 import type { CatalogBar } from "akasha/temper/player/character/stat/modules/character-rotation-reading/character-rotation-reading.module.code.ts"
-import type { RotationReading } from "akasha/temper/player/character/stat/modules/rotation-reading/rotation-reading.module.code.ts"
+import type {
+  Multipliers,
+  RotationReading,
+} from "akasha/temper/player/character/stat/modules/rotation-reading/rotation-reading.module.code.ts"
+import {
+  meanArmorShare,
+  meanDamageTaken,
+} from "akasha/temper/player/character/stat/modules/toughness-per-second/toughness-per-second.module.code.ts"
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 
 type GameReading = NonNullable<CharacterCompletion["rotationReading"]>
@@ -8,7 +15,15 @@ type GameBar = GameReading["bars"][number]
 
 const NEAR = 0.005
 
-const MULTIPLIERS = ["healthMaximum", "armorShare", "damageTaken", "healing", "damage"] as const
+const MULTIPLIERS: ReadonlyArray<
+  readonly [Exclude<keyof GameBar, "bar" | "weaponStyle">, (one: Multipliers) => number]
+> = [
+  ["healthMaximum", (one) => one.healthMaximum],
+  ["armorShare", meanArmorShare],
+  ["damageTaken", meanDamageTaken],
+  ["healing", (one) => one.healing],
+  ["damage", (one) => one.damage],
+]
 
 const DIFFERS = "  <- differs"
 
@@ -41,7 +56,9 @@ function barLines(catalog: CatalogBar, game: GameBar | undefined): string[] {
     lines.push("    the catalog worked out no multipliers for this bar")
     return lines
   }
-  for (const name of MULTIPLIERS) lines.push(`  ${pairLine(name, multipliers[name], game[name])}`)
+  for (const [name, catalogOf] of MULTIPLIERS) {
+    lines.push(`  ${pairLine(name, catalogOf(multipliers), game[name])}`)
+  }
   return lines
 }
 

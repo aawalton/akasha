@@ -18,8 +18,10 @@ const READING = rotationReading(
 
 const MULTIPLIERS = {
   healthMaximum: 40000,
-  armorShare: 0.4,
-  damageTaken: -0.1,
+  physicalShare: 0.3,
+  spellShare: 0.5,
+  damageTakenMartial: -0.12,
+  damageTakenMagical: -0.08,
   healing: 1.2,
   damage: 1.3,
 }
@@ -30,7 +32,17 @@ const GAME = {
   damage: READING.damagePerSecond * 2,
   healing: READING.healingPerSecond,
   reavingBlowsShare: 0,
-  bars: [{ bar: "frontBar" as const, weaponStyle: "one-hand", ...MULTIPLIERS, damageTaken: 0 }],
+  bars: [
+    {
+      bar: "frontBar" as const,
+      weaponStyle: "one-hand",
+      healthMaximum: 40000,
+      armorShare: 0.4,
+      damageTaken: 0,
+      healing: 1.2,
+      damage: 1.3,
+    },
+  ],
 }
 
 test("no reading from the game says how to take one", () => {
@@ -53,6 +65,7 @@ test("each bar's multipliers are set side by side, and a bar the game kept nothi
     GAME
   )
   expect(lines.find((line) => line.includes("damageTaken"))).toContain("differs")
+  expect(lines.find((line) => line.includes("armorShare"))).not.toContain("differs")
   expect(lines.find((line) => line.includes("healthMaximum"))).not.toContain("differs")
   expect(lines).toContain("    the add-on kept no multipliers for this bar")
 })

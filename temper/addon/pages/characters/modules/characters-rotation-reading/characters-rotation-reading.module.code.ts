@@ -12,7 +12,12 @@ import {
   plainText,
   textPattern,
 } from "akasha/temper/player/character/stat/modules/text-pattern/text-pattern.module.code.ts"
-import { armorShareOf } from "akasha/temper/player/character/stat/modules/toughness-per-second/toughness-per-second.module.code.ts"
+import {
+  meanArmorShare,
+  meanDamageTaken,
+  physicalShareOf,
+  spellShareOf,
+} from "akasha/temper/player/character/stat/modules/toughness-per-second/toughness-per-second.module.code.ts"
 import { weaponStyleOfTypes } from "akasha/temper/player/character/stat/modules/weapon-attacks/weapon-attacks.module.code.ts"
 import { criticalRating } from "akasha/temper/player/character/stat/temper-metric/pages/critical-rating/critical-rating.temper-metric.ts"
 import type { SavedCharacterEntry } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
@@ -91,6 +96,7 @@ function liveMultipliers(reading: Reading): Multipliers | undefined {
   const share = (name: string): number => advanced[name] ?? 0
   const rating = Math.max(stat("critical-rating-weapon"), stat("critical-rating-spell"))
   const chance = Math.min(1, rating / criticalRating.divisor)
+  const taken = damageTakenOf(reading)
   return {
     healing:
       (1 + share("healing-done-base")) *
@@ -98,8 +104,10 @@ function liveMultipliers(reading: Reading): Multipliers | undefined {
       (1 + chance * share("healing-critical-bonus")),
     damage: 1 + chance * share("critical-damage"),
     healthMaximum: stat("health-maximum"),
-    armorShare: armorShareOf(stat("resistance-physical"), stat("resistance-spell")),
-    damageTaken: damageTakenOf(reading),
+    physicalShare: physicalShareOf(stat("resistance-physical")),
+    spellShare: spellShareOf(stat("resistance-spell")),
+    damageTakenMartial: taken,
+    damageTakenMagical: taken,
   }
 }
 
@@ -139,8 +147,8 @@ function keptOf(key: BarKept["bar"], bar: RotationBar): BarKept | undefined {
     healing: multipliers.healing,
     damage: multipliers.damage,
     healthMaximum: multipliers.healthMaximum,
-    armorShare: multipliers.armorShare,
-    damageTaken: multipliers.damageTaken,
+    armorShare: meanArmorShare(multipliers),
+    damageTaken: meanDamageTaken(multipliers),
   }
 }
 

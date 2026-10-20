@@ -4,22 +4,38 @@ import { resistanceSpell } from "akasha/temper/player/character/stat/temper-metr
 
 export type Toughness = {
   readonly healthMaximum: number
-  readonly armorShare: number
-  readonly damageTaken: number
+  readonly physicalShare: number
+  readonly spellShare: number
+  readonly damageTakenMartial: number
+  readonly damageTakenMagical: number
 }
 
-export function armorShareOf(physical: number, spell: number): number {
-  const physicalShare = convertRatingToChance(
-    physical,
-    resistancePhysical.divisor,
-    resistancePhysical.cap
-  )
-  const spellShare = convertRatingToChance(spell, resistanceSpell.divisor, resistanceSpell.cap)
-  return (physicalShare + spellShare) / 2
+export function physicalShareOf(resistance: number): number {
+  return convertRatingToChance(resistance, resistancePhysical.divisor, resistancePhysical.cap)
+}
+
+export function spellShareOf(resistance: number): number {
+  return convertRatingToChance(resistance, resistanceSpell.divisor, resistanceSpell.cap)
+}
+
+export function meanArmorShare(toughness: Toughness): number {
+  return (toughness.physicalShare + toughness.spellShare) / 2
+}
+
+export function meanDamageTaken(toughness: Toughness): number {
+  return (toughness.damageTakenMartial + toughness.damageTakenMagical) / 2
+}
+
+export function martialDamageLeft(toughness: Toughness): number {
+  return (1 - toughness.physicalShare) * (1 + toughness.damageTakenMartial)
+}
+
+export function magicalDamageLeft(toughness: Toughness): number {
+  return (1 - toughness.spellShare) * (1 + toughness.damageTakenMagical)
 }
 
 export function damageLeft(toughness: Toughness): number {
-  return (1 - toughness.armorShare) * (1 + toughness.damageTaken)
+  return (martialDamageLeft(toughness) + magicalDamageLeft(toughness)) / 2
 }
 
 type ToughnessTick = { readonly healing: number; readonly shield: number }

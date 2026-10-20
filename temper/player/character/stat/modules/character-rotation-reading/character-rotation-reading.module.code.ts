@@ -11,7 +11,10 @@ import {
   reavingBlowsShareOf,
   rotationReading,
 } from "akasha/temper/player/character/stat/modules/rotation-reading/rotation-reading.module.code.ts"
-import { armorShareOf } from "akasha/temper/player/character/stat/modules/toughness-per-second/toughness-per-second.module.code.ts"
+import {
+  physicalShareOf,
+  spellShareOf,
+} from "akasha/temper/player/character/stat/modules/toughness-per-second/toughness-per-second.module.code.ts"
 import { weaponStyleOf } from "akasha/temper/player/character/stat/modules/weapon-attacks/weapon-attacks.module.code.ts"
 import { criticalRating } from "akasha/temper/player/character/stat/temper-metric/pages/critical-rating/critical-rating.temper-metric.ts"
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
@@ -57,8 +60,10 @@ function catalogMultipliers(
     healing: (1 + value("healing-total")) * (1 + chance * value("healing-critical-bonus")),
     damage: 1 + chance * value("critical-damage"),
     healthMaximum: value("health-maximum"),
-    armorShare: armorShareOf(value("resistance-physical"), value("resistance-spell")),
-    damageTaken: value("damage-taken"),
+    physicalShare: physicalShareOf(value("resistance-physical")),
+    spellShare: spellShareOf(value("resistance-spell")),
+    damageTakenMartial: value("damage-taken-martial"),
+    damageTakenMagical: value("damage-taken-magical"),
   }
 }
 

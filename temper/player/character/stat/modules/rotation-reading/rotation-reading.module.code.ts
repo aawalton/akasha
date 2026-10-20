@@ -43,8 +43,10 @@ const PLAIN: Multipliers = {
   healing: 1,
   damage: 1,
   healthMaximum: 0,
-  armorShare: 0,
-  damageTaken: 0,
+  physicalShare: 0,
+  spellShare: 0,
+  damageTakenMartial: 0,
+  damageTakenMagical: 0,
 }
 
 type BarSkill = {
@@ -105,8 +107,10 @@ function meanMultipliers(bars: readonly RotationBar[]): Multipliers {
     healing: meanOf(each, (one) => one.healing),
     damage: meanOf(each, (one) => one.damage),
     healthMaximum: meanOf(each, (one) => one.healthMaximum),
-    armorShare: meanOf(each, (one) => one.armorShare),
-    damageTaken: meanOf(each, (one) => one.damageTaken),
+    physicalShare: meanOf(each, (one) => one.physicalShare),
+    spellShare: meanOf(each, (one) => one.spellShare),
+    damageTakenMartial: meanOf(each, (one) => one.damageTakenMartial),
+    damageTakenMagical: meanOf(each, (one) => one.damageTakenMagical),
   }
 }
 

@@ -31,7 +31,22 @@ export const toughnessPerSecond = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Armor is the mean of physical and spell resistance, each up to half the damage.",
+      statement: "Half the damage is martial and half is magical.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Physical resistance and martial damage taken work on martial damage, each resistance up to half.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Spell resistance and magical damage taken work on magical damage, each resistance up to half.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "Reductions to damage taken are added together, as no capture has settled whether they multiply.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -39,5 +54,5 @@ export const toughnessPerSecond = {
     },
   ],
   createdAt: "2026-10-15T15:12:48.089Z",
-  updatedAt: "2026-10-15T15:19:50.968Z",
+  updatedAt: "2026-10-20T13:29:19.208Z",
 } as const satisfies Module
