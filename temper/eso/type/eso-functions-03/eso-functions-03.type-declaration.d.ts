@@ -1,3 +1,15 @@
+declare function GetOfferedQuestInfo(
+  this: void
+): LuaMultiReturn<[dialogue: string, response: string]>
+declare const AcceptOfferedQuest: (this: void) => void
+declare const AcceptSharedQuest: (this: void, questId?: number) => void
+declare function GetNumJournalQuests(this: void): number
+declare function IsValidQuestIndex(this: void, journalQuestIndex?: number): boolean
+declare function GetJournalQuestType(this: void, journalQuestIndex?: number): QuestType
+declare function GetJournalQuestRepeatType(
+  this: void,
+  journalQuestIndex?: number
+): QuestRepeatableType
 declare function GetJournalQuestInfo(
   this: void,
   journalQuestIndex?: number
@@ -418,9 +430,3 @@ declare function GetMapContentType(this: void): MapContentType
 declare function GetMapCustomMaxZoom(this: void): number | undefined
 declare function GetMapFilterType(this: void): MapFilterType
 declare function GetNumMapLocations(this: void): number
-declare function IsMapLocationVisible(this: void, locationIndex?: number): boolean
-declare function GetMapFloorInfo(
-  this: void
-): LuaMultiReturn<[currentFloor: number, numFloors: number]>
-declare function SetMapFloor(this: void, desiredFloorIndex?: number): SetMapResultCode
-declare function ShouldMapShowPriorityFastTravelOnly(this: void): boolean

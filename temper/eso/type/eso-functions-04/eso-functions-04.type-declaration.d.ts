@@ -1,3 +1,9 @@
+declare function IsMapLocationVisible(this: void, locationIndex?: number): boolean
+declare function GetMapFloorInfo(
+  this: void
+): LuaMultiReturn<[currentFloor: number, numFloors: number]>
+declare function SetMapFloor(this: void, desiredFloorIndex?: number): SetMapResultCode
+declare function ShouldMapShowPriorityFastTravelOnly(this: void): boolean
 declare function GetNormalizedWorldPosition(
   this: void,
   zoneId?: number,

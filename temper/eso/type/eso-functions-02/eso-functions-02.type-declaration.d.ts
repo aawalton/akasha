@@ -269,6 +269,25 @@ declare function GetCharacterInfo(
     locationId: number,
   ]
 >
+declare function GetNumAdvancedStatCategories(this: void): number
+declare function GetAdvancedStatsCategoryId(this: void, categoryIndex?: number): number
+declare function GetAdvancedStatCategoryInfo(
+  this: void,
+  categoryId?: number
+): LuaMultiReturn<[displayName: string, numStats: number]>
+declare function GetAdvancedStatInfo(
+  this: void,
+  categoryId?: number,
+  statIndex?: number
+): LuaMultiReturn<
+  [
+    statType: AdvancedStatDisplayType,
+    displayName: string,
+    description: string,
+    flatDescription: string,
+    percentDescription: string,
+  ]
+>
 declare function GetAdvancedStatValue(
   this: void,
   statType?: AdvancedStatDisplayType
@@ -335,7 +354,6 @@ declare function GetNumStacksForEndlessDungeonBuff(
   buffAbilityId?: number,
   includeLifetimeStacks?: boolean
 ): number
-declare function IsInstanceEndlessDungeon(this: void): boolean
 declare function QueryEndlessDungeonLeaderboardData(
   this: void,
   endlessDungeonGroupType?: EndlessDungeonGroupType,
@@ -441,15 +459,3 @@ declare function GetTimeUntilCanBeTrained(
 ): LuaMultiReturn<[timeMs: number, totalDurationMs: number]>
 declare function IsMounted(this: void): boolean
 declare function GetAbilityEffectDescription(this: void, effectSlotId?: number): string
-declare function GetOfferedQuestInfo(
-  this: void
-): LuaMultiReturn<[dialogue: string, response: string]>
-declare const AcceptOfferedQuest: (this: void) => void
-declare const AcceptSharedQuest: (this: void, questId?: number) => void
-declare function GetNumJournalQuests(this: void): number
-declare function IsValidQuestIndex(this: void, journalQuestIndex?: number): boolean
-declare function GetJournalQuestType(this: void, journalQuestIndex?: number): QuestType
-declare function GetJournalQuestRepeatType(
-  this: void,
-  journalQuestIndex?: number
-): QuestRepeatableType
