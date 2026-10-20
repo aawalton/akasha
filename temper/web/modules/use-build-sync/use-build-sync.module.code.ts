@@ -30,6 +30,8 @@ export function useBuildSync<TBuild, TAction, TMeta>({
 }: UseBuildSyncOptions<TBuild, TAction, TMeta>) {
   const hasReceivedRemoteData = useRef(false)
   const lastSyncedHashRef = useRef<string>(initialBuildHash)
+  const seenBuildRef = useRef<TBuild>(localBuild)
+  const resetBuildRef = useRef<TBuild | null>(null)
   const singleFlightUpdate = useSingleFlight(updateRemote)
 
   useEffect(() => {
@@ -37,19 +39,13 @@ export function useBuildSync<TBuild, TAction, TMeta>({
 
     if (!hasReceivedRemoteData.current) {
       hasReceivedRemoteData.current = true
-      if (zeroBuildHash !== initialBuildHash) {
-        const decoded = decode(zeroBuildHash, zeroBuildMetadata)
-        dispatch(createResetAction(decoded))
-        lastSyncedHashRef.current = encode(decoded)
-      }
-      return
-    }
-
-    if (zeroBuildHash === lastSyncedHashRef.current) {
+      if (zeroBuildHash === initialBuildHash) return
+    } else if (zeroBuildHash === lastSyncedHashRef.current) {
       return
     }
 
     const decoded = decode(zeroBuildHash, zeroBuildMetadata)
+    resetBuildRef.current = decoded
     dispatch(createResetAction(decoded))
     lastSyncedHashRef.current = encode(decoded)
   }, [
@@ -64,6 +60,15 @@ export function useBuildSync<TBuild, TAction, TMeta>({
 
   useEffect(() => {
     if (!hasReceivedRemoteData.current) {
+      return
+    }
+
+    if (localBuild === seenBuildRef.current) {
+      return
+    }
+    seenBuildRef.current = localBuild
+
+    if (localBuild === resetBuildRef.current) {
       return
     }
 

@@ -6,7 +6,16 @@ export const useBuildSync = {
   slug: "use-build-sync",
   definition: "a build held in a browser reconciled with the hash the server keeps",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only an edit made in the browser is written up.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A build the server sends down is no edit, whatever it encodes to.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "The first hash the server gives back resets the local build.",
@@ -25,5 +34,5 @@ export const useBuildSync = {
     },
   ],
   createdAt: "2026-09-02T21:38:53.840Z",
-  updatedAt: "2026-09-15T18:44:13.000Z",
+  updatedAt: "2026-10-20T14:20:39.796Z",
 } as const satisfies Module
