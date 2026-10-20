@@ -1,3 +1,4 @@
+import { statSync } from "node:fs"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import {
   gameProcess,
@@ -9,6 +10,7 @@ import {
 import {
   type Global,
   globalHeld,
+  globalKeyOf,
   globalsFound,
   searchAfresh,
 } from "akasha/command/pages/temper/eso/memory/modules/hks-global-finding/hks-global-finding.module.code.ts"
@@ -17,6 +19,7 @@ import {
   sleptUntilStopped,
   stopsOnSignal,
 } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/tick-sleeping/tick-sleeping.module.code.ts"
+import { savedVarsFile } from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import {
   type LandingQueue,
   landingQueueOf,
@@ -68,7 +71,8 @@ function searched(
   read: Reader,
   regions: readonly Region[],
   names: readonly string[],
-  pass: string
+  pass: string,
+  left: ReadonlySet<string>
 ): Searched {
   if (names.length === 0 || regions.length === 0) {
     return { found: names.map(() => null), loading: false }
@@ -76,7 +80,7 @@ function searched(
   const started = Date.now()
   const scan = scanAfresh()
   const searches = names.map(() => ({ ...searchAfresh(), scan }))
-  const found = globalsFound(read, regions, names, searches)
+  const found = globalsFound(read, regions, names, searches, left)
   names.forEach((name, index) => {
     const search = searches[index] ?? searchAfresh()
     const capped = search.capped ? " (cap hit)" : ""
@@ -102,12 +106,13 @@ function foundIn(
   regions: readonly Region[],
   hot: Set<bigint>,
   names: readonly string[],
-  warmOnly: boolean
+  warmOnly: boolean,
+  left: ReadonlySet<string>
 ): Searched {
   const warm = regions.filter((region) => hot.has(region.from))
-  const fromWarm = searched(read, warm, names, `${warm.length} warm regions`).found
+  const fromWarm = searched(read, warm, names, `${warm.length} warm regions`, left).found
   const missing = warmOnly ? [] : names.filter((_, index) => (fromWarm[index] ?? null) === null)
-  const fromAll = searched(read, regions, missing, `${regions.length} regions`)
+  const fromAll = searched(read, regions, missing, `${regions.length} regions`, left)
   const found = names.map(
     (name, index) => fromWarm[index] ?? fromAll.found[missing.indexOf(name)] ?? null
   )
@@ -126,7 +131,12 @@ function stillHeld(read: Reader, global: Global | null | undefined): Global | nu
     : global
 }
 
-function watchingOf(pid: number, hot: Set<bigint>, before: Watching | null): Watching {
+function watchingOf(
+  pid: number,
+  hot: Set<bigint>,
+  before: Watching | null,
+  left: ReadonlySet<string>
+): Watching {
   const started = Date.now()
   const read = readerOf(pid)
   const regions = regionsOf(pid)
@@ -135,7 +145,8 @@ function watchingOf(pid: number, hot: Set<bigint>, before: Watching | null): Wat
     kept !== null &&
     stillHeld(read, kept.characters) !== null &&
     stillHeld(read, kept.fights) !== null
-  const searchedNow = foundIn(read, regions, hot, [CHARACTERS_GLOBAL, FIGHTS_GLOBAL], keptReads)
+  const names = [CHARACTERS_GLOBAL, FIGHTS_GLOBAL]
+  const searchedNow = foundIn(read, regions, hot, names, keptReads, left)
   const [foundCharacters, foundFights] = searchedNow.found
   const characters = foundCharacters ?? stillHeld(read, kept?.characters)
   const fights = foundFights ?? stillHeld(read, kept?.fights)
@@ -155,6 +166,25 @@ function stale(watching: Watching | null, pid: number, now: number): boolean {
   return (
     rootOf(watching, watching.characters) === null || rootOf(watching, watching.fights) === null
   )
+}
+
+const CHARACTERS_FILE = "TemperCharacters.lua"
+
+function charactersFileOf(): string | null {
+  try {
+    return savedVarsFile(CHARACTERS_FILE)
+  } catch {
+    return null
+  }
+}
+
+function writtenAt(path: string | null): number | null {
+  if (path === null) return null
+  try {
+    return statSync(path).mtimeMs
+  } catch {
+    return null
+  }
 }
 
 type Queues = {
@@ -182,6 +212,10 @@ export async function runService(): Promise<never> {
     fights: landingQueueOf((many) => landFights(many, { report: say }), say),
   }
   const hot = new Set<bigint>()
+  const left = new Set<string>()
+  const charactersFile = charactersFileOf()
+  say(`a reload is told by ${charactersFile ?? "nothing, since no saved-variables file resolves"}`)
+  let writtenBefore = writtenAt(charactersFile)
   let watching: Watching | null = null
   let scannedAt = 0
   let looked = false
@@ -189,13 +223,25 @@ export async function runService(): Promise<never> {
     try {
       const pid = gameProcess()
       const now = Date.now()
+      const written = writtenAt(charactersFile)
+      const reloaded = written !== null && writtenBefore !== null && written !== writtenBefore
+      if (written !== null) writtenBefore = written
       if (pid === null) watching = null
-      else if (
+      else if (reloaded) {
+        say("the game wrote its saved variables, so its add-ons reloaded: every region is searched")
+        for (const global of [watching?.characters, watching?.fights]) {
+          if (global !== null && global !== undefined) left.add(globalKeyOf(global))
+        }
+        hot.clear()
+        scannedAt = now
+        watching = watchingOf(pid, hot, null, left)
+        scannedAt = Date.now()
+      } else if (
         stale(watching, pid, now) &&
         (watching?.loading === true || now - scannedAt >= FIND_AT_MOST_MS)
       ) {
         scannedAt = now
-        watching = watchingOf(pid, hot, watching)
+        watching = watchingOf(pid, hot, watching, left)
         scannedAt = Date.now()
       }
       if (pid !== null && watching !== null) {

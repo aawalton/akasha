@@ -33,7 +33,11 @@ export const hksGlobalFinding = {
       statement:
         "A global held is read only while its entry's key is still that string and its value a table.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A search may be told globals a reload left behind, and never finds those again.",
+    },
   ],
   createdAt: "2026-10-19T18:57:27.580Z",
-  updatedAt: "2026-10-19T23:58:05.834Z",
+  updatedAt: "2026-10-20T17:34:17.265Z",
 } as const satisfies Module

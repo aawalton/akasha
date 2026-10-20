@@ -49,11 +49,16 @@ function stringsOf(read: Reader, name: string, hits: readonly bigint[], search: 
   return strings
 }
 
+export function globalKeyOf(global: Global): string {
+  return `${global.node}:${global.name}`
+}
+
 export function globalsFound(
   read: Reader,
   regions: readonly Region[],
   names: readonly string[],
-  searches: readonly Search[] = names.map(() => searchAfresh())
+  searches: readonly Search[] = names.map(() => searchAfresh()),
+  left: ReadonlySet<string> = new Set()
 ): readonly (Global | null)[] {
   const scan = searches[0]?.scan ?? scanAfresh()
   const texts = names.map((name) => Buffer.from(name, "utf8"))
@@ -73,7 +78,7 @@ export function globalsFound(
           if (checked.has(pointer)) continue
           checked.add(pointer)
           const global = { node: pointer - BigInt(WORD), name: object }
-          if (globalHeld(read, global) === null) continue
+          if (left.has(globalKeyOf(global)) || globalHeld(read, global) === null) continue
           settled[index] = global
           return
         }
