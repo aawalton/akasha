@@ -13,6 +13,7 @@
 {"propertySlug":"change-mode","path":"change/agent/page-type/qualify-relation-by-key-on-every-page/qualify-relation-by-key-on-every-page.change-agent.ts","id":"01a0d3f8-a3c0-78a1-b1da-a9aa0360740c"}
 {"propertySlug":"change-mode","path":"change/agent/page-type/qualify-relation-on-every-page/qualify-relation-on-every-page.change-agent.ts","id":"01a0a06e-3331-798c-81bc-0c45119e50c0"}
 {"propertySlug":"change-mode","path":"change/agent/page-type/unquote-text-on-every-page/unquote-text-on-every-page.change-agent.ts","id":"01a0e189-620e-72ae-b4cb-00cc07319d6f"}
+{"propertySlug":"change-mode","path":"change/agent/page/generate-foods-and-drinks/generate-foods-and-drinks.change-agent.ts","id":"01a15a11-801f-76e8-8e38-9513600136bd"}
 {"propertySlug":"change-mode","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.ts","id":"01a0824b-a376-7b9f-a01a-c3a1e81c3286"}
 {"propertySlug":"change-mode","path":"change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.ts","id":"01a08244-bf2d-7a34-9f71-759e3754a1ed"}
 {"propertySlug":"change-mode","path":"change/mechanical/file-content/change/change-file-content-code/change-file-content-code.change-mechanical-file-content.ts","id":"01a079ac-d401-7d7b-aa1f-45743f81cf73"}

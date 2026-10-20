@@ -5,7 +5,12 @@ export const changeAgentPage = {
   type: "page-type/domain",
   slug: "change-agent-page",
   definition: "a change an agent makes to a whole page",
-  parts: ["change-agent/rename-page", "change-agent/rename-pages", "change-agent/pin-stat-case"],
+  parts: [
+    "change-agent/rename-page",
+    "change-agent/rename-pages",
+    "change-agent/pin-stat-case",
+    "change-agent/generate-foods-and-drinks",
+  ],
   createdAt: "2026-09-25T14:54:19.063Z",
-  updatedAt: "2026-10-14T17:23:45.028Z",
+  updatedAt: "2026-10-20T16:07:38.782Z",
 } as const satisfies Domain

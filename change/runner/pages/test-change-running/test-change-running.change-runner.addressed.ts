@@ -95,6 +95,9 @@ export type Changes = {
   "change-agent/gather-merging-declarations": Parameters<
     typeof import("akasha/change/agent/file-content/gather-merging-declarations/gather-merging-declarations.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/generate-foods-and-drinks": Parameters<
+    typeof import("akasha/change/agent/page/generate-foods-and-drinks/generate-foods-and-drinks.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/move-code-export": Parameters<
     typeof import("akasha/change/agent/file-content/move-code-export/move-code-export.change-agent.code.ts")["runChange"]
   >[1]

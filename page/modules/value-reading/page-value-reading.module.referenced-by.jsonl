@@ -109,6 +109,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/agent/page-type/add-property-to-every-page/add-property-to-every-page.change-agent.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/agent/page-type/qualify-relation-on-every-page/qualify-relation-on-every-page.change-agent.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/agent/page/generate-foods-and-drinks/generate-foods-and-drinks.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/generator/modules/change-generating/change-generating.module.code.ts","typed":false,"deferred":false}

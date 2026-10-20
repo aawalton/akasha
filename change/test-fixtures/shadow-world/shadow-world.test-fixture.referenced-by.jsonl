@@ -35,6 +35,7 @@
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/page-type/remove-every-page-of-a-type/remove-every-page-of-a-type.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/page-type/remove-property-from-every-page/remove-property-from-every-page.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/page-type/remove-property-from-page-type/remove-property-from-page-type.change-agent.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/page/generate-foods-and-drinks/generate-foods-and-drinks.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/page/rename-page/rename-page.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/page/rename-pages/rename-pages.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.test.ts","typed":false,"deferred":false}

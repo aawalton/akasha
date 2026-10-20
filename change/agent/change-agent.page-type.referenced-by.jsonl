@@ -64,6 +64,7 @@
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page-type/rename-page-type/rename-page-type.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page-type/unquote-text-on-every-page/unquote-text-on-every-page.change-agent.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page/generate-foods-and-drinks/generate-foods-and-drinks.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page/pin-stat-case/pin-stat-case.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page/rename-page/rename-page.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page/rename-pages/rename-pages.change-agent.ts","typed":true,"deferred":false}
