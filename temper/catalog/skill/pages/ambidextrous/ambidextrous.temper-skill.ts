@@ -17,10 +17,10 @@ export const ambidextrous = {
   rank: 2,
   skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/passive",
-  status: "unsupported",
+  status: "supported",
   effects: "jsonl",
   hashPlace: 387,
   createdAt: "2026-05-26T02:38:38.312Z",
-  updatedAt: "2026-10-20T19:53:19.188Z",
+  updatedAt: "2026-10-20T19:57:48.961Z",
   equations: ["<<1>> = 6 (Constant)"],
 } as const satisfies TemperSkill
