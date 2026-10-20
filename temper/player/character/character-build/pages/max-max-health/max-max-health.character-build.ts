@@ -8,11 +8,11 @@ export const maxMaxHealth = {
   description: "",
   accountPage: "temper-account/alanarre",
   buildHash:
-    "ATQKVJVAQABiyIAGTD1AAEtzaAAZbm0AASHNoAAkObQADLc2gACW5tABANzaACADm0AEAS1oAMAAc2gBMg3aAN_IeWBguj2NoAAAAAAAABJUAAAAAAAAAAEAAAAAAAAAAAAgAQAAAAAAAAAAAAAAAAAAgIAAISMq9evXALFq1aBQFChQoABAAZAg",
+    "ATQKVIFAQABiyIAGTD1AAEtzaAAZbm0AASHNoAAkObQADLc2gACW5tABANzaACADm0AEAS1oAMAAc2gBMg3aAN_IeWBguj2NoAAAAAAAAAIEAAAAAAAAAAEAAAAAAAAAAAAgAQAAAAAAAAAAAAAAAAAAgIAAISMq9evXALFq1aBQFChQoABAAZAg",
   visibility: "private",
   targetCount: 1,
   roles: [],
   characterName: "Khelta the Eternal",
   createdAt: "2026-10-20T14:51:06.516Z",
-  updatedAt: "2026-10-20T15:27:57.594Z",
+  updatedAt: "2026-10-20T15:28:17.071Z",
 } as const satisfies CharacterBuild
