@@ -22,14 +22,17 @@ export const inventoryItemOwnLink = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Trait text, a use ability and set bonuses are recorded only where they differ.",
+      statement: "Trait text and set bonuses are recorded wherever the slot's own link has them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A use ability is recorded only where it differs from the bare item id's.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement:
-        "A value the bare item id reads the same is not recorded, to keep the capture small.",
+      statement: "A use ability the bare item id reads the same is not recorded.",
     },
   ],
   createdAt: "2026-09-27T06:13:12.641Z",
-  updatedAt: "2026-09-27T06:13:25.000Z",
+  updatedAt: "2026-10-20T15:15:48.578Z",
 } as const satisfies Module

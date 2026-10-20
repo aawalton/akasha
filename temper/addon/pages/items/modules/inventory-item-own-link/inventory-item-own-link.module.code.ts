@@ -19,14 +19,6 @@ function setBonusesOf(itemLink: string): SetBonusEntry[] {
   return bonuses
 }
 
-function sameBonusText(one: readonly SetBonusEntry[], other: readonly SetBonusEntry[]): boolean {
-  if (one.length !== other.length) return false
-  for (let index = 0; index < one.length; index++) {
-    if (one[index]?.description !== other[index]?.description) return false
-  }
-  return true
-}
-
 export function recordOwnLinkValues(result: ItemData, itemLink: string): undefined {
   const bareLink = bareLinkOf(result.itemId)
 
@@ -37,10 +29,7 @@ export function recordOwnLinkValues(result: ItemData, itemLink: string): undefin
   if (armorRating > 0) result.armorRating = armorRating
 
   const [, traitDescription] = GetItemLinkTraitInfo(itemLink)
-  const [, bareTraitDescription] = GetItemLinkTraitInfo(bareLink)
-  if (traitDescription !== "" && traitDescription !== bareTraitDescription) {
-    result.traitDescription = traitDescription
-  }
+  if (traitDescription !== "") result.traitDescription = traitDescription
 
   const [hasAbility, abilityHeader, abilityDescription, abilityCooldown] =
     GetItemLinkOnUseAbilityInfo(itemLink)
@@ -52,8 +41,6 @@ export function recordOwnLinkValues(result: ItemData, itemLink: string): undefin
   }
 
   const setBonuses = setBonusesOf(itemLink)
-  if (setBonuses.length > 0 && !sameBonusText(setBonuses, setBonusesOf(bareLink))) {
-    result.setBonuses = setBonuses
-  }
+  if (setBonuses.length > 0) result.setBonuses = setBonuses
   return undefined
 }
