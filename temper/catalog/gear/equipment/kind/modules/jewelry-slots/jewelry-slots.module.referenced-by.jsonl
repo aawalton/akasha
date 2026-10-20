@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"jewelry-slots.module.code.ts","path":"temper/player/character/characters-equipment/modules/bulk-update-jewelry/bulk-update-jewelry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"jewelry-slots.module.code.ts","path":"temper/player/character/characters-equipment/modules/loadout-types/loadout-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"jewelry-slots.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"jewelry-slots.module.code.ts","path":"temper/player/character/stat/modules/worn-item-levels/worn-item-levels.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"jewelry-slots.module.code.ts","path":"temper/web/modules/companion-jewelry-panel-card/companion-jewelry-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"jewelry-slots.module.code.ts","path":"temper/web/modules/global-set-bulk-edit-tags/global-set-bulk-edit-tags.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"jewelry-slots.module.code.ts","path":"temper/web/modules/jewelry-card/jewelry-card.module.code.tsx","typed":false,"deferred":false}

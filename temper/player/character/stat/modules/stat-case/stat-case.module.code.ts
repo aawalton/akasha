@@ -1,4 +1,5 @@
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
+import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import { buildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { calculateReadingStatsByBar } from "akasha/temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts"
 import { metrics } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.code.ts"
@@ -52,6 +53,13 @@ type Estimated = {
 export function estimatedOf(read: Omit<StatCase, "pinned" | "gaps">): Estimated {
   const build = decodeBuild(buildHash(read.buildHash))
   if (build === null) throw new Error(`the build of the ${read.character} case does not decode`)
+  return estimatedOfBuild(build, read)
+}
+
+export function estimatedOfBuild(
+  build: CharacterState,
+  read: Omit<StatCase, "pinned" | "gaps">
+): Estimated {
   const estimated = calculateReadingStatsByBar(
     build,
     read.bar,

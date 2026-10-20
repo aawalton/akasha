@@ -106,6 +106,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/skill-damage/skill-damage.module.ts","id":"01a13fef-5e7e-711d-90eb-ebfc00e306bb"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/toughness-per-second/toughness-per-second.module.ts","id":"01a1401f-7dda-79c3-ab0f-a1eba03597fa"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/weapon-attacks/weapon-attacks.module.ts","id":"01a1557c-462c-7d40-af65-f5dd2f7cd3fc"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/worn-item-levels/worn-item-levels.module.ts","id":"01a15a76-74bd-7eb4-bedd-5978bf822f01"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-character-stat.domain.ts","id":"01a0612f-aae6-7c1d-a590-b3004241a082"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account/properties/data.file-property.ts","id":"01a0b725-59a6-7789-9477-41dbe92b0231"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/modules/completion-record/completion-record.module.ts","id":"01a0607a-9cbc-7c27-9e61-4050a73b66e7"}

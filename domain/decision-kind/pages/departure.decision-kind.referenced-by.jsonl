@@ -6486,6 +6486,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/text-pattern/text-pattern.module.ts","id":"01a155a1-bc4b-74f4-98e5-d57acd2c60a3"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/toughness-per-second/toughness-per-second.module.ts","id":"01a1401f-7dda-79c3-ab0f-a1eba03597fa"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/weapon-attacks/weapon-attacks.module.ts","id":"01a1557c-462c-7d40-af65-f5dd2f7cd3fc"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/worn-item-levels/worn-item-levels.module.ts","id":"01a15a76-74bd-7eb4-bedd-5978bf822f01"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-character-stat.domain.ts","id":"01a0612f-aae6-7c1d-a590-b3004241a082"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-metric/modules/metric-formula-keeping/metric-formula-keeping.change-generator.ts","id":"01a0df26-cc0c-714c-8a91-870f8f85191f"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-metric/modules/metric-formula-writing/metric-formula-writing.module.ts","id":"01a0df23-f4cf-7ea2-96a5-01f61b7e5dee"}
