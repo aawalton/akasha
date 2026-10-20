@@ -18,6 +18,14 @@ export const useBuildSync = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A save names the hash the server last sent down as the hash it replaces.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A save the server refuses gives way to the build the server sends down.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The first hash the server gives back resets the local build.",
     },
     {
@@ -34,5 +42,5 @@ export const useBuildSync = {
     },
   ],
   createdAt: "2026-09-02T21:38:53.840Z",
-  updatedAt: "2026-10-20T14:20:39.796Z",
+  updatedAt: "2026-10-20T14:23:44.084Z",
 } as const satisfies Module

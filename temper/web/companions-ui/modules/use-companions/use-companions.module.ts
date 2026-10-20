@@ -59,7 +59,12 @@ export const useCompanions = {
       decisionKind: "decision-kind/departure",
       statement: "A delete refused before it starts says which refusal it is by its kind.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An editor's save lands only where the build still has the hash the save replaces.",
+    },
   ],
   createdAt: "2026-09-02T18:27:40.800Z",
-  updatedAt: "2026-09-27T12:45:25.000Z",
+  updatedAt: "2026-10-20T14:23:44.084Z",
 } as const satisfies Module

@@ -67,7 +67,12 @@ export const useCharacters = {
       decisionKind: "decision-kind/departure",
       statement: "A new build's name is read from a web phrase page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An editor's save lands only where the build still has the hash the save replaces.",
+    },
   ],
   createdAt: "2026-09-02T18:27:40.800Z",
-  updatedAt: "2026-09-27T12:44:57.000Z",
+  updatedAt: "2026-10-20T14:23:44.084Z",
 } as const satisfies Module

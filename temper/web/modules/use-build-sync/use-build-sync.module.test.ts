@@ -1,7 +1,10 @@
 import "akasha/check/test/modules/dom-registering/dom-registering.module.code.ts"
 import { expect, test } from "bun:test"
 import { act, renderHook } from "@testing-library/react"
-import { useBuildSync } from "akasha/temper/web/modules/use-build-sync/use-build-sync.module.code.ts"
+import {
+  StaleBuildRefused,
+  useBuildSync,
+} from "akasha/temper/web/modules/use-build-sync/use-build-sync.module.code.ts"
 import { useReducer } from "react"
 
 type Build = { readonly hash: string }
@@ -18,9 +21,14 @@ function reducer(_state: Build, action: Action): Build {
 
 type Served = { readonly hash: string | null; readonly meta: Meta | null }
 
-type Saved = { readonly hash: string; readonly meta: Meta }
+type Saved = { readonly hash: string; readonly meta: Meta; readonly replacing: string }
 
-function drawn(initialHash: string, served: Served, encode = (build: Build) => build.hash) {
+function drawn(
+  initialHash: string,
+  served: Served,
+  encode = (build: Build) => build.hash,
+  refused = false
+) {
   const saved: Saved[] = []
   const hook = renderHook(
     (props: Served) => {
@@ -29,8 +37,9 @@ function drawn(initialHash: string, served: Served, encode = (build: Build) => b
         localBuild: build,
         zeroBuildHash: props.hash,
         zeroBuildMetadata: props.meta,
-        updateRemote: async (hash, meta) => {
-          saved.push({ hash, meta })
+        updateRemote: async (hash, meta, replacing) => {
+          saved.push({ hash, meta, replacing })
+          if (refused) throw new StaleBuildRefused("character-build")
         },
         dispatch,
         createResetAction: (payload) => ({ kind: "reset", payload }),
@@ -85,6 +94,30 @@ test("an edit after the server changed is saved, and the server's hash alone is 
   const { hook, saved } = drawn("original", { hash: "original", meta: { name: "a" } })
   hook.rerender({ hash: "newer", meta: { name: "a" } })
   act(() => hook.result.current.dispatch({ kind: "edit", hash: "edited" }))
+  expect(saved.map((one) => one.hash)).toEqual(["edited"])
+  hook.unmount()
+})
+
+test("a save names the hash the server last held as the one it replaces", async () => {
+  const { hook, saved } = drawn("original", { hash: "original", meta: { name: "a" } })
+  await act(async () => hook.result.current.dispatch({ kind: "edit", hash: "first" }))
+  hook.rerender({ hash: "newer", meta: { name: "a" } })
+  await act(async () => hook.result.current.dispatch({ kind: "edit", hash: "second" }))
+  expect(saved.map((one) => one.replacing)).toEqual(["original", "newer"])
+  hook.unmount()
+})
+
+test("a refused save gives way to the build the server sends down", async () => {
+  const { hook, saved } = drawn(
+    "original",
+    { hash: "original", meta: { name: "a" } },
+    (build) => build.hash,
+    true
+  )
+  await act(async () => hook.result.current.dispatch({ kind: "edit", hash: "edited" }))
+  hook.rerender({ hash: "elsewhere", meta: { name: "a" } })
+  hook.rerender({ hash: "elsewhere", meta: { name: "a" } })
+  expect(hook.result.current.build.hash).toBe("elsewhere")
   expect(saved.map((one) => one.hash)).toEqual(["edited"])
   hook.unmount()
 })

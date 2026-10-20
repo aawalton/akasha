@@ -78,9 +78,9 @@ export function CompanionProvider({
   )
 
   const updateRemote = useCallback(
-    async (hash: string, metadata: CompanionBuildMetadata) => {
+    async (hash: string, metadata: CompanionBuildMetadata, replacing: string) => {
       if (isOwner) {
-        await zeroUpdateBuild(hash, metadata)
+        await zeroUpdateBuild(hash, metadata, replacing)
       }
     },
     [isOwner, zeroUpdateBuild]

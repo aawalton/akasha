@@ -39,6 +39,7 @@ import {
   ownerOf,
   useAccountAddress,
 } from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
+import { StaleBuildRefused } from "akasha/temper/web/modules/use-build-sync/use-build-sync.module.code.ts"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { useCompanionsCreateFailed } from "akasha/temper/web/phrase/pages/use-companions-create-failed.temper-web-phrase.ts"
 import { useMemo, useState } from "react"
@@ -117,6 +118,11 @@ export function useCompanion(buildId: string) {
   })
 
   const runPatch = useOptimisticPatchPage((args) => patchPage(args))
+  const runBuildPatch = useOptimisticPatchPage(async (args) => {
+    const patched = await patchPage(args)
+    if (patched === null) throw new StaleBuildRefused(COMPANION_BUILD_PAGE_TYPE_SLUG)
+    return patched
+  })
   const runDelete = useOptimisticDeletePage((args) => deletePage(args))
 
   const build = useMemo<CompanionBuildRow | undefined>(() => {
@@ -127,10 +133,17 @@ export function useCompanion(buildId: string) {
 
   const buildSlug = typeof rows[0]?.slug === "string" ? rows[0].slug : null
 
-  const updateBuild = async (buildHash: string, buildMetadata: CompanionBuildMetadata) => {
-    await runPatch({
+  const updateBuild = async (
+    buildHash: string,
+    buildMetadata: CompanionBuildMetadata,
+    replacing: string
+  ) => {
+    await runBuildPatch({
       pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
-      where: [{ key: "id", eq: buildId }],
+      where: [
+        { key: "id", eq: buildId },
+        { key: "buildHash", eq: replacing },
+      ],
       set: {
         buildHash,
         ...buildMetadataProperties(buildMetadata),

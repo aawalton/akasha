@@ -100,9 +100,9 @@ export function CharacterProvider({
   )
 
   const updateRemote = useCallback(
-    async (hash: string, metadata: CharacterBuildMetadata) => {
+    async (hash: string, metadata: CharacterBuildMetadata, replacing: string) => {
       if (isOwner) {
-        await zeroUpdateBuild(hash, metadata)
+        await zeroUpdateBuild(hash, metadata, replacing)
       }
     },
     [isOwner, zeroUpdateBuild]
