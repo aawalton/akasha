@@ -19,6 +19,7 @@ import {
 } from "akasha/temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"
 import { standardArmorWeights } from "akasha/temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.code.ts"
 import {
+  bulkArmorWeightFits,
   bulkUpdateArmorEnchant,
   bulkUpdateArmorQuality,
   bulkUpdateArmorSet,
@@ -191,7 +192,10 @@ export function ArmorPanelCard({
     onUpdate(bulkUpdateArmorSet(equipment, oldValue, newValue, availableSets))
   }
 
-  const armorWeightOptions = standardArmorWeights.list
+  const armorWeightOptionsFor = (weight: StandardArmorWeightId) =>
+    standardArmorWeights.list.filter((option) =>
+      bulkArmorWeightFits(equipment, weight, option.id, availableSets)
+    )
 
   return (
     <PanelCard
@@ -227,7 +231,7 @@ export function ArmorPanelCard({
               <BulkEditTag
                 key={`weight-${weight}`}
                 currentValue={weight}
-                options={armorWeightOptions}
+                options={armorWeightOptionsFor(weight)}
                 onSelect={handleBulkUpdateArmorWeight}
                 count={count}
               />

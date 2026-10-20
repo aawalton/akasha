@@ -6,6 +6,7 @@ import {
 import type { StandardArmorWeightId } from "akasha/temper/catalog/gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import type { SetTemplate } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
 import {
+  bulkArmorWeightFits,
   bulkUpdateArmorSet,
   bulkUpdateArmorWeight,
 } from "akasha/temper/player/character/characters-equipment/modules/bulk-update-armor/bulk-update-armor.module.code.ts"
@@ -116,6 +117,35 @@ test("a bulk weight change takes no weight off a piece whose set allows only one
   const before = loadoutOf({ waist: { set: MEDIUM_ONLY, weight: "medium" } })
   const after = bulkUpdateArmorWeight(before, "medium", "no-weight", AVAILABLE)
   expect(weightAt(after, "waist")).toBe("medium")
+})
+
+test("the bulk weight menu offers no weight that none of its pieces could take", () => {
+  const before = loadoutOf({
+    head: { set: MEDIUM_ONLY, weight: "medium" },
+    shoulders: { set: MEDIUM_ONLY, weight: "medium" },
+  })
+  const offered = (weight: StandardArmorWeightId) =>
+    bulkArmorWeightFits(before, "medium", weight, AVAILABLE)
+  expect(offered("medium")).toBe(true)
+  expect(offered("light")).toBe(false)
+  expect(offered("heavy")).toBe(false)
+  expect(offered("no-weight")).toBe(false)
+})
+
+test("the bulk weight menu offers a weight that one of its pieces could take", () => {
+  const before = loadoutOf({
+    head: { set: MEDIUM_ONLY, weight: "medium" },
+    chest: { set: "no-set", weight: "medium" },
+  })
+  expect(bulkArmorWeightFits(before, "medium", "light", AVAILABLE)).toBe(true)
+})
+
+test("the bulk weight menu reads only the pieces at the weight it changes", () => {
+  const before = loadoutOf({
+    head: { set: MEDIUM_ONLY, weight: "medium" },
+    chest: { set: "no-set", weight: "heavy" },
+  })
+  expect(bulkArmorWeightFits(before, "medium", "light", AVAILABLE)).toBe(false)
 })
 
 test("a piece taken out of its set keeps its weight", () => {

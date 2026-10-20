@@ -20,6 +20,20 @@ function setOfPiece(
   return availableSets.find((s) => s.id === setId)
 }
 
+export function bulkArmorWeightFits(
+  equipment: Loadout,
+  oldValue: StandardArmorWeightId,
+  newValue: StandardArmorWeightId,
+  availableSets: readonly SetTemplate[]
+): boolean {
+  if (newValue === oldValue) return true
+  return armorSlots.list.some((slotConfig) => {
+    const item = equipment.armor[slotConfig.id]
+    if (item.itemType !== "armor" || item.data.weight !== oldValue) return false
+    return armorWeightFitsSet(setOfPiece(item.data.set, availableSets), slotConfig.id, newValue)
+  })
+}
+
 export function bulkUpdateArmorWeight(
   equipment: Loadout,
   oldValue: StandardArmorWeightId | null,
