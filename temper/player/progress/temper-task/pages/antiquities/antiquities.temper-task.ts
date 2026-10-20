@@ -14,9 +14,9 @@ export const antiquities = {
   dueDate: "2026-10-20",
   displayOrder: 0,
   completionCard: "temper-completion-category/account-antiquity-leads",
-  lastCompletedAt: "2026-10-20T18:31:11.000Z",
+  lastCompletedAt: "2026-10-20T18:48:59.079Z",
   rruleRule: "FREQ=WEEKLY;BYDAY=TU",
   rruleAnchorFromCompletion: false,
   createdAt: "2026-04-22T12:39:34.017Z",
-  updatedAt: "2026-10-20T18:46:19.181Z",
+  updatedAt: "2026-10-20T18:49:00.119Z",
 } as const satisfies TemperTask
