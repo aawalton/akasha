@@ -31,7 +31,6 @@ export const temperGear = {
     "page-type/temper-reagent",
     "page-type/temper-set",
     "page-type/temper-set-category",
-    "page-type/temper-set-bonus-step",
     "page-type/temper-set-rule",
     "page-type/temper-weapon-enchant",
     "page-type/temper-weapon-slot",
@@ -42,5 +41,5 @@ export const temperGear = {
     "page-type/temper-talisman-gem",
   ],
   createdAt: "2026-09-02T01:27:53.148Z",
-  updatedAt: "2026-09-27T06:52:47.000Z",
+  updatedAt: "2026-10-20T18:59:46.345Z",
 } as const satisfies Domain

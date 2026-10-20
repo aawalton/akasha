@@ -50,7 +50,6 @@ export const metricCalculator = {
     "page-type/temper-reagent",
     "page-type/temper-champion-star",
     "page-type/temper-quality",
-    "page-type/temper-set-bonus-step",
     "page-type/temper-set-rule",
     "page-type/temper-weapon-bar",
     "page-type/temper-eso-player-equipment-constant",
@@ -146,5 +145,5 @@ export const metricCalculator = {
     },
   ],
   createdAt: "2026-09-02T14:06:51.856Z",
-  updatedAt: "2026-10-20T17:27:15.270Z",
+  updatedAt: "2026-10-20T18:59:46.345Z",
 } as const satisfies Module
