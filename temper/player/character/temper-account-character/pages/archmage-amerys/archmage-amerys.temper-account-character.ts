@@ -13,7 +13,8 @@ export const archmageAmerys = {
   race: "temper-race/redguard",
   class: "temper-class/sorcerer",
   firstName: "Amerys",
+  fights: "jsonl",
   readings: "jsonl",
   createdAt: "2026-04-29T16:44:14.300Z",
-  updatedAt: "2026-10-20T11:11:12.139Z",
+  updatedAt: "2026-10-20T13:41:27.042Z",
 } as const satisfies TemperAccountCharacter
