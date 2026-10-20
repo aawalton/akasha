@@ -119,13 +119,18 @@ function formatMetricEffectsInternal(effects: readonly MetricEffect[]): readonly
     formattedAggregated.push(`${formattedValue} ${name}`)
   }
 
-  const formattedNonAggregated = nonAggregatableEffects.map((effect) => {
-    const name = resolveMetricName(effect.metricId)
-    const formattedValue = formatMetricEffectValue(effect)
-    return `${formattedValue} ${name}`
-  })
+  const formattedNonAggregated = nonAggregatableEffects.map((effect) =>
+    phrasedMetricEffect(effect, resolveMetricName(effect.metricId))
+  )
 
   return [...formattedAggregated, ...formattedNonAggregated]
+}
+
+function phrasedMetricEffect(effect: MetricEffect, name: string): string {
+  if (effect.effectType === "integer-per-ten-ultimate") {
+    return `${effect.effectValue.toString()} ${name} per 10 Ultimate`
+  }
+  return `${formatMetricEffectValue(effect)} ${name}`
 }
 
 function formatMetricEffectValue(effect: MetricEffect): string {

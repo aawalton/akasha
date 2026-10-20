@@ -6,6 +6,7 @@ export const formatEffects = {
   slug: "format-effects",
   definition: "one readable line for each effect a character build has",
   code: "ts",
+  test: "ts",
   createdAt: "2026-09-02T08:19:38.159Z",
-  updatedAt: "2026-09-21T15:39:55.000Z",
+  updatedAt: "2026-10-20T16:54:39.068Z",
 } as const satisfies Module
