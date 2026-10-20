@@ -12,7 +12,12 @@ export const charactersTaskHudEnrichment = {
       statement:
         "An antiquity task's progress is the leads dug this session out of those dug and those left.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An antiquity task's zones are in the order of their names, and each zone's leads are too.",
+    },
   ],
   createdAt: "2026-09-02T16:23:41.572Z",
-  updatedAt: "2026-10-13T14:38:40.160Z",
+  updatedAt: "2026-10-20T17:25:50.154Z",
 } as const satisfies Module

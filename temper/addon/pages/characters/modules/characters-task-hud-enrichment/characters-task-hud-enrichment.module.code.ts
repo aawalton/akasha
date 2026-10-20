@@ -178,6 +178,8 @@ function buildAntiquityLeadEnrichment(
     }
   }
 
+  zoneOrder.sort((a, b) => (a < b ? -1 : a > b ? 1 : 0))
+
   const currentIds = current.map((lead) => lead.antiquityId)
   const groups = zoneOrder.map((digZone): AntiquityLeadGroup => {
     const leadNames = namesByZone[digZone] ?? []
