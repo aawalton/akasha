@@ -35,7 +35,7 @@ export const nimueCorrectFormulas = {
     "A number from a guide or another site is never a verified test case.",
     "Every term that changes a formula's result has a verified test case.",
     "Nimue may ask Alan for a build change that yields a test case or the data a formula needs.",
-    "Alan approves each formula Nimue proposes as final.",
+    "Alan approves as final only a formula a developer would be unlikely to have written.",
     "Nimue hands a large task to a subagent and keeps to coordinating the work.",
     "A stat is worked before every stat its formula reads.",
     "Each formula starts from a build with as little configured as the game allows, and each next case adds one term.",
@@ -43,5 +43,5 @@ export const nimueCorrectFormulas = {
     "One stat is worked until every reading of it matches before the next stat is begun.",
   ],
   createdAt: "2026-10-19T19:28:43.842Z",
-  updatedAt: "2026-10-19T23:06:57.738Z",
+  updatedAt: "2026-10-20T01:00:46.283Z",
 } as const satisfies Initiative
