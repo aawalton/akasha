@@ -46,6 +46,7 @@ export const temperCore = {
     "module/hud-addon-public-api",
     "module/hud-addon-saved-variables",
     "module/hud-addon-settings-panel",
+    "module/hud-addon-speed",
     "module/hud-addon-types",
     "module/hud-addon-visibility-version",
   ],
@@ -74,5 +75,5 @@ export const temperCore = {
     },
   ],
   createdAt: "2026-09-02T10:58:22.045Z",
-  updatedAt: "2026-10-08T19:00:30.132Z",
+  updatedAt: "2026-10-20T18:57:51.483Z",
 } as const satisfies TemperAddon

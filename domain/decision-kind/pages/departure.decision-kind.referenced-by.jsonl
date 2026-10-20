@@ -4763,6 +4763,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-addon-public-api/hud-addon-public-api.module.ts","id":"01a061c5-18dd-700f-96b2-7a0b4a1f8e37"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-addon-saved-variables/hud-addon-saved-variables.module.ts","id":"01a061c5-18dd-7003-b272-f24014f3e43b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-addon-settings-panel/hud-addon-settings-panel.module.ts","id":"01a061c5-18dd-700e-a1a1-88e5a1cecf77"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-addon-speed/hud-addon-speed.module.ts","id":"01a15aad-557c-76f4-b8a9-2c859f67322b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-addon-types/hud-addon-types.module.ts","id":"01a061c5-18dd-7000-bd52-66ec64cec528"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-addon-visibility-version/hud-addon-visibility-version.module.ts","id":"01a061c5-18dd-7002-98bb-12e2b151ea28"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/next-boss-layout/next-boss-layout.eso-interface.ts","id":"01a06157-835b-7886-981b-c885f8cbe8e7"}
