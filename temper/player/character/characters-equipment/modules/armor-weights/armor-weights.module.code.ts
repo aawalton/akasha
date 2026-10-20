@@ -6,8 +6,6 @@ import {
 } from "akasha/temper/catalog/gear/equipment/kind/modules/armor-types/armor-types.module.code.ts"
 import {
   type EquipmentQualityId,
-  equipmentQualities,
-  qualityScale,
   resolveQuality,
 } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type {
@@ -31,9 +29,7 @@ import type {
 } from "akasha/temper/player/character/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import {
   type LevelScaling,
-  levelScaledWorth,
   levelScalingOf,
-  levelsDownScaledWorth,
 } from "akasha/temper/player/character/characters-equipment/modules/level-scaling/level-scaling.module.code.ts"
 import type { MetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 
@@ -100,40 +96,32 @@ function baseValueOf(weight: ArmorWeightId, quality: EquipmentQualityId): number
   return baseValues.get(`${weight}/${quality}`) ?? 0
 }
 
-function levelShare(
-  weight: ArmorWeightId,
-  isStandard: boolean,
-  quality: EquipmentQualityId
-): number {
-  if (isStandard) return qualityScale(quality, "armorLevelScale")
-  return baseValueOf(weight, quality) / baseValueOf(weight, "legendary")
+const LEVELS_BELOW_LEGENDARY: Readonly<Record<EquipmentQualityId, number>> = {
+  normal: 11,
+  fine: 8,
+  superior: 5,
+  epic: 3,
+  legendary: 0,
 }
 
-const LEVELS_PER_QUALITY = 3
+const FIRST_CHAMPION_WORTH = 51
 
-function qualitiesBelowLegendary(quality: EquipmentQualityId): number {
-  const qualities = equipmentQualities().data
-  return qualities.legendary.esoDisplayQuality - qualities[quality].esoDisplayQuality
-}
+const CHAMPION_WORTH_SPAN = 22
 
-function levelWorth(
-  weight: ArmorWeightId,
-  quality: EquipmentQualityId,
-  level: ItemLevel,
-  scaling: LevelScaling
-): number {
-  if (typeof level === "number") {
-    return levelsDownScaledWorth(
-      level,
-      scaling,
-      LEVELS_PER_QUALITY * qualitiesBelowLegendary(quality)
-    )
-  }
-  return levelScaledWorth(
-    level,
-    scaling,
-    levelShare(weight, armorWeights.data[weight].isStandard, quality)
+const CHAMPION_LEVELS_SPANNED = 150
+
+function legendaryWorthLevel(level: ItemLevel): number {
+  if (typeof level === "number") return level === 1 ? 0 : level + 1
+  const championLevelsPast = Number(level.slice("CP".length)) - 10
+  return (
+    FIRST_CHAMPION_WORTH +
+    Math.ceil((championLevelsPast * CHAMPION_WORTH_SPAN) / CHAMPION_LEVELS_SPANNED)
   )
+}
+
+function levelWorth(quality: EquipmentQualityId, level: ItemLevel, scaling: LevelScaling): number {
+  const worthLevel = legendaryWorthLevel(level) - LEVELS_BELOW_LEGENDARY[quality]
+  return scaling.slope * worthLevel + scaling.intercept
 }
 
 export function getArmorValue(
@@ -145,7 +133,7 @@ export function getArmorValue(
   const scaling = armorWeights.data[weight].levelScaling
   const baseValue =
     level !== undefined && scaling !== undefined
-      ? levelWorth(weight, quality, level, scaling)
+      ? levelWorth(quality, level, scaling)
       : baseValueOf(weight, quality)
 
   const multiplier = getArmorMultiplier(type)

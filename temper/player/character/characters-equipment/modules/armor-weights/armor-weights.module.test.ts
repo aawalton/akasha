@@ -3,6 +3,7 @@ import type { ArmorTypeId } from "akasha/temper/catalog/gear/equipment/kind/modu
 import type { EquipmentQualityId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { ArmorWeightId } from "akasha/temper/catalog/gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import { getArmorValue } from "akasha/temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.code.ts"
+import type { ItemLevel } from "akasha/temper/player/character/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 
 holdSkillCatalogFromCheckout()
@@ -36,6 +37,60 @@ const LEVEL_ONE: readonly Case[] = [
   ["shield", "fine", "shield", 100, "01a15625-eb42-78d6-8c57-0d3c554853b6"],
   ["shield", "superior", "shield", 160, "01a1563a-0fad-74b7-8514-343e58339d60"],
 ]
+
+const LEVEL_ONE_SASH_SHEET = 31628
+
+const LEVEL_ONE_SASH = 19
+
+const NORMAL_LIGHT_SASHES: readonly (readonly [ItemLevel, number, string])[] = [
+  [16, 31730, "01a15a58-3b6c-7951-aca0-d0953e2e8ef3"],
+  [26, 31790, "01a15a50-f953-7871-88c0-0fb050422a4f"],
+  [36, 31850, "01a15a58-a195-7ae5-b4d0-ed54368faa3f"],
+  [46, 31910, "01a15a51-11ce-7827-bc89-6558100d1a64"],
+  ["CP10", 31934, "01a15a51-3581-74a4-9400-b560dc53b742"],
+  ["CP40", 31964, "01a15a51-2991-7a54-818f-342f6429bf39"],
+  ["CP70", 31988, "01a15a51-5d03-7b93-b6a4-cee8928bd96f"],
+  ["CP90", 32006, "01a15a51-511b-71a0-a79b-58dc767edea7"],
+  ["CP150", 32060, "01a15a50-24ab-749b-9cad-719163cc72a0"],
+  ["CP160", 32066, "01a15a50-e9c6-74f5-8d2f-269df5e0648a"],
+]
+
+for (const [level, sheet, reading] of NORMAL_LIGHT_SASHES) {
+  test(`a ${level} normal light sash reads ${sheet} Physical Resistance in Erin Solstice's reading ${reading}, against ${LEVEL_ONE_SASH_SHEET} with the level-1 sash`, () => {
+    expect(getArmorValue("waist", "light", "normal", level)).toBe(
+      LEVEL_ONE_SASH + sheet - LEVEL_ONE_SASH_SHEET
+    )
+  })
+}
+
+const LEVEL_ONE_CHEST_SHEET = 28912
+
+const LEVEL_ONE_CHEST = 84
+
+const NORMAL_HEAVY_CHESTS: readonly (readonly [ItemLevel, number, string])[] = [
+  [16, 29456, "01a15a59-359d-7dfd-b7e4-cb2ec3f505ca"],
+  [26, 29776, "01a15a59-d79a-7098-b394-db25c2dad764"],
+  [36, 30096, "01a15a5a-68dc-7750-b3b4-a6e255c6b7ae"],
+  [46, 30416, "01a15a5a-445e-7e86-bca0-27bc8e6a38e2"],
+  ["CP10", 30544, "01a15a5a-85b3-70d5-9989-ac22a77fb4b4"],
+  ["CP40", 30704, "01a15a5a-23ab-727a-81fe-d55152c98ade"],
+  ["CP70", 30832, "01a15a59-aafa-7571-bd0c-532c8f87328f"],
+  ["CP90", 30928, "01a15a59-0584-7094-b660-16b333ff82c3"],
+  ["CP150", 31216, "01a15a59-61df-750b-95f8-857cd3059831"],
+  ["CP160", 31248, "01a15a59-8648-755f-aa1c-337642df9048"],
+]
+
+test(`a level-1 normal heavy chest adds ${LEVEL_ONE_CHEST}, read ${LEVEL_ONE_CHEST_SHEET} in Erin Solstice's reading 01a15a59-fb96-7ff9-a498-06da85882ab9`, () => {
+  expect(getArmorValue("chest", "heavy", "normal", 1)).toBe(LEVEL_ONE_CHEST)
+})
+
+for (const [level, sheet, reading] of NORMAL_HEAVY_CHESTS) {
+  test(`a ${level} normal heavy chest reads ${sheet} Physical Resistance in Erin Solstice's reading ${reading}, against ${LEVEL_ONE_CHEST_SHEET} with the level-1 chest`, () => {
+    expect(getArmorValue("chest", "heavy", "normal", level)).toBe(
+      LEVEL_ONE_CHEST + sheet - LEVEL_ONE_CHEST_SHEET
+    )
+  })
+}
 
 for (const [weight, quality, slot, resistance, reading] of LEVEL_ONE) {
   test(`a level-1 ${quality} ${weight} ${slot} adds the ${resistance} resistance Erin Solstice's reading ${reading} saw`, () => {

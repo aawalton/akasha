@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"item-composites.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-source/armor-source.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-composites.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-trait-effects/armor-trait-effects.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-composites.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"item-composites.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-composites.module.code.ts","path":"temper/player/character/characters-equipment/modules/jewelry-enchants/jewelry-enchants.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-composites.module.code.ts","path":"temper/player/character/characters-equipment/modules/jewelry-source/jewelry-source.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-composites.module.code.ts","path":"temper/player/character/characters-equipment/modules/jewelry-trait-effects/jewelry-trait-effects.module.code.ts","typed":true,"deferred":false}

@@ -18,7 +18,8 @@ export const armorWeights = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A weight's armor value at a quality is the grade under its page.",
+      statement:
+        "A weight's armor value at a quality and no item level is the grade under its page.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -27,9 +28,22 @@ export const armorWeights = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "At a character level, each quality below legendary puts a piece three worth levels lower.",
+        "A piece at an item level is worth its weight's slope times its worth level, plus the intercept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A legendary piece's worth level is 0 at level 1 and one above its level from 16.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A legendary piece's worth level runs from 51 at CP10 to 73 at CP160, rounded up.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Normal, fine, superior and epic pieces sit 11, 8, 5 and 3 worth levels below legendary.",
     },
   ],
   createdAt: "2026-09-02T09:24:55.959Z",
-  updatedAt: "2026-10-20T17:06:30.824Z",
+  updatedAt: "2026-10-20T17:28:17.707Z",
 } as const satisfies Module
