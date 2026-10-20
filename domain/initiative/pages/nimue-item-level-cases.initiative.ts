@@ -10,59 +10,29 @@ export const nimueItemLevelCases = {
   intentStack: [
     {
       statement:
-        "The armor value of every weight at level 1 reproduces each resistance change its piece made.",
+        "Reinforced, Nirnhoned, Invigorating and Well-fitted armor are pinned above normal.",
       workingMemory:
-        "Session 0, no game time. Erin Solstice's level-1 readings give these sheet resistance changes per piece. Medium normal: 59 head, shoulders, legs, feet; 68 chest; 25 waist; 34 hands. Light fine: 87, 100, 37, 50. Heavy superior: 241, 276, 103, 138. Shield: normal 40, fine 100, superior 160. Each is 8.5, 12.5 or 34.5 times the slot multiplier, rounded down. Each weight was seen at one quality only.",
+        "Erin's CP160 shield, one quality upgrade per reading. A trait is the same on every armor slot.",
     },
     {
-      statement: "A build carries the level of each piece it holds.",
+      statement: "Impenetrable is pinned at fine, and Sturdy at each quality.",
       workingMemory:
-        "Session 1, no game time. The build hash holds no item level, so every estimate reads CP160 and no level-1 resistance can pin. The capture writes the level and the codec reads it, beside the glyph subtype.",
+        "Impenetrable fine reads 1444 on reading 01a15a78-294a, which Temper reproduces and no case pins. Sturdy moves only block cost, which Temper has no formula for.",
     },
     {
-      statement: "The armor value of each quality is pinned on one weight at one level.",
+      statement:
+        "Nirnhoned weapons are pinned above normal, and Infused and Charged at each quality.",
       workingMemory:
-        "Session 2. One light chest at level 1, then the same chest at each next quality, one swap per reading. Reads the resistance change. Decides whether fine and superior share a scale. The level-1 shields already give fine 100 and superior 160.",
+        "One weapon, one quality upgrade per reading. The normal Infused bow case carries an absorb glyph, which moves no sheet stat, so Infused needs a weapon with a sheet-stat glyph.",
     },
     {
-      statement: "The armor value of each weight is pinned at one quality and one level.",
+      statement: "Protective is pinned at legendary, and Infused jewelry above normal.",
       workingMemory:
-        "Session 3. Light, medium and heavy chest of one quality at level 1, one swap per reading. Reads the resistance change.",
+        "One ring, one quality upgrade per reading. Legendary Protective is its tooltip's 1190.",
     },
     {
-      statement: "The armor value is pinned across item levels for one weight and one quality.",
-      workingMemory:
-        "Session 4. One chest of one weight and quality at each item level, one swap per reading, up to CP160. Reads the resistance change.",
-    },
-    {
-      statement: "The enchant strength is pinned for each glyph at one item level and quality.",
-      workingMemory:
-        "Session 5. One armor piece with a health glyph of each potency, one swap per reading. Reads the Max Health change. Then the same glyph on the piece at each item level, then at each glyph quality.",
-    },
-    {
-      statement: "Each armor and weapon trait is pinned at each quality.",
-      workingMemory:
-        "Session 6. One piece, one trait change per reading. Reinforced and nirnhoned read resistance, divines the mundus stat, impenetrable critical resistance, infused the enchant stat. A trait changing no sheet stat waits for a reading that shows one. A trait is the same on every armor slot, so a shield is used for all of them.",
-    },
-    {
-      statement: "Each weapon trait is pinned at each quality.",
-      workingMemory:
-        "Session 6a. One CP160 normal one-handed weapon, one trait change per reading: sharpened, nirnhoned, infused, charged. A two-handed weapon doubles the value. Precise, defending and powered already have cases.",
-    },
-    {
-      statement: "Each jewelry trait is pinned at each quality.",
-      workingMemory:
-        "Session 6b. One CP160 normal ring, one trait change per reading: arcane, robust, triune, protective, swift, infused, bloodthirsty. Healthy already has cases.",
-    },
-    {
-      statement: "The weapon power is pinned for each weapon type across quality and level.",
-      workingMemory:
-        "Session 7. One weapon, one swap per reading. Reads the Weapon Damage and Spell Damage change.",
-    },
-    {
-      statement: "Each set bonus is pinned at each piece count.",
-      workingMemory:
-        "Session 8. Pieces of one set put on one at a time. Reads the stat each bonus line names. The captured set id and bonus lines plan the case and diagnose a miss.",
+      statement: "Swift and Bloodthirsty jewelry are pinned at each quality.",
+      workingMemory: "Swift moves only movement speed, which Temper does not estimate.",
     },
   ],
   constraints: [
@@ -75,5 +45,5 @@ export const nimueItemLevelCases = {
     "A quality never captured at a level is inferred from the captured qualities' sequence, where it matches the legendary pieces captured.",
   ],
   createdAt: "2026-10-20T15:21:57.490Z",
-  updatedAt: "2026-10-20T17:48:32.815Z",
+  updatedAt: "2026-10-20T20:45:01.665Z",
 } as const satisfies Initiative
