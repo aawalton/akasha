@@ -279,29 +279,33 @@ function classifiedFor(
   return out
 }
 
+async function opened(path: string): Promise<string | Answer> {
+  try {
+    return await readFile(path, "utf8")
+  } catch (thrown) {
+    return refused(`${INVENTORY_LUA} at ${path} would not open — ${whyOf(thrown)}`, DATA)
+  }
+}
+
 export async function temperInventoryPlan(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, NAMED)
   if ("refused" in read) return mistaking(read.refused)
   const taken = read.taken
   const root = resolve(given.root)
+  const named = taken.inventoryPath === undefined ? null : resolve(root, taken.inventoryPath)
+  const early = named === null ? null : await opened(named)
+  if (early !== null && typeof early !== "string") return early
   try {
     const inputs = await planInputs()
-    const inventoryPath =
-      taken.inventoryPath === undefined
-        ? inputs.DEFAULT_INVENTORY_PATH
-        : resolve(root, taken.inventoryPath)
+    const inventoryPath = named ?? inputs.DEFAULT_INVENTORY_PATH
     const charactersPath =
       taken.charactersPath === undefined
         ? inputs.DEFAULT_CHARACTERS_PATH
         : resolve(root, taken.charactersPath)
     const stored = taken.inventoryPath === undefined ? await inputs.storedHoldings(alan.id) : null
     if (stored !== null && "refused" in stored) return refused(stored.refused, DATA)
-    let content: string
-    try {
-      content = await readFile(inventoryPath, "utf8")
-    } catch (thrown) {
-      return refused(`${INVENTORY_LUA} at ${inventoryPath} would not open — ${whyOf(thrown)}`, DATA)
-    }
+    const content = early ?? (await opened(inventoryPath))
+    if (typeof content !== "string") return content
     const [parser, configModule, charactersModule, classifier] = await Promise.all([
       inventoryParser(),
       parseConfig(),

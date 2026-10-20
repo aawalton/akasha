@@ -69,6 +69,10 @@ export const temperInventoryPlan = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A saved variables file named is opened before any catalog is asked for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The compiled rules are read from the saved variables file either way.",
     },
     {
@@ -99,5 +103,5 @@ export const temperInventoryPlan = {
     { argument: "argument/unmapped" },
   ],
   createdAt: "2026-09-02T03:49:49.654Z",
-  updatedAt: "2026-09-25T14:51:03.000Z",
+  updatedAt: "2026-10-20T13:58:19.061Z",
 } as const satisfies Command
