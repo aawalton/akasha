@@ -34,7 +34,11 @@ export const correctReadingBooleans = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file whose corrected lines would hold one result twice is refused.",
+      statement: "A line corrected to an earlier line's result and capture is taken out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Two lines corrected to one result and two captures refuse the change.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -49,5 +53,5 @@ export const correctReadingBooleans = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-10-20T13:35:45.281Z",
-  updatedAt: "2026-10-20T13:35:45.281Z",
+  updatedAt: "2026-10-20T13:39:19.314Z",
 } as const satisfies ChangeAgent

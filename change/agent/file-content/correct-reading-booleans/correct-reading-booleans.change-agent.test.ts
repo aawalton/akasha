@@ -110,7 +110,19 @@ test("the change says what it did", () => {
     "2 lines changed in 1 readings files",
     "inArchive true in 3 readings: 1 taken out, 2 kept on Archive evidence",
     "slottable set from the catalog on 1 stars, 1 stars the catalog lacks left as read",
+    "0 lines repeating an earlier line's capture and result taken out",
   ])
+})
+
+test("a line the correction makes repeat an earlier line's capture is taken out", () => {
+  const again = lineOf("01a1abab", 1, { archiveBoons: [], championPoints: [] })
+  const said = correctReadingBooleansCommand(worldOf(`${UNBACKED}\n${again}\n`))
+
+  expect(said.refused).toBeNull()
+  expect(writtenOf(said).map((line) => JSON.parse(line).id)).toEqual(["01a1aaaa"])
+  expect(said.told?.[3]).toBe(
+    "1 lines repeating an earlier line's capture and result taken out: 01a1abab"
+  )
 })
 
 test("readings holding nothing to correct are left alone", () => {

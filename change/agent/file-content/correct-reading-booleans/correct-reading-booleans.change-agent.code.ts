@@ -6,7 +6,10 @@ import {
   telling,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
-import { resultOf } from "akasha/temper/player/character/stat/modules/build-reading-lines/build-reading-lines.module.code.ts"
+import {
+  captureKeyOf,
+  resultOf,
+} from "akasha/temper/player/character/stat/modules/build-reading-lines/build-reading-lines.module.code.ts"
 import { jsonlLinesOf } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
 
 const CHARACTERS = "temper/player/character/temper-account-character/pages/"
@@ -127,18 +130,37 @@ function boonIdsIn(world: World, paths: readonly string[]): ReadonlySet<number> 
   return ids
 }
 
-function repeatsIn(lines: readonly string[]): readonly string[] {
-  const seen = new Map<string, unknown>()
+type Seen = { readonly id: unknown; readonly capture: string }
+
+type Sifted = {
+  readonly kept: readonly string[]
+  readonly dropped: readonly string[]
+  readonly repeats: readonly string[]
+}
+
+function captureOf(line: Json): string {
+  const reading = line["reading"]
+  const at = isRecord(reading) ? reading["capturedAt"] : undefined
+  return captureKeyOf(String(line["bar"]), at)
+}
+
+function sifted(lines: readonly string[]): Sifted {
+  const seen = new Map<string, Seen>()
+  const kept: string[] = []
+  const dropped: string[] = []
   const repeats: string[] = []
   for (const text of lines) {
     const line = JSON.parse(text) as Json
     const result = line["result"]
-    if (typeof result !== "string") continue
-    const first = seen.get(result)
-    if (first === undefined) seen.set(result, line["id"])
-    else repeats.push(`${String(first)} and ${String(line["id"])}`)
+    const first = typeof result === "string" ? seen.get(result) : undefined
+    if (typeof result === "string" && first === undefined) {
+      seen.set(result, { id: line["id"], capture: captureOf(line) })
+    }
+    if (first === undefined) kept.push(text)
+    else if (first.capture === captureOf(line)) dropped.push(String(line["id"]))
+    else repeats.push(`${String(first.id)} and ${String(line["id"])}`)
   }
-  return repeats
+  return { kept, dropped, repeats }
 }
 
 export function correctReadingBooleansCommand(world: World): Answer {
@@ -160,6 +182,7 @@ export function correctReadingBooleansCommand(world: World): Answer {
   }
   const edits: FileChange[] = []
   const repeats: string[] = []
+  const taken: string[] = []
   for (const path of paths) {
     const text = world.textOf(path)
     if (text === null) continue
@@ -167,10 +190,12 @@ export function correctReadingBooleansCommand(world: World): Answer {
     const corrected = held.map((one) => correctedLine(one, slottable, boonIds, counts))
     const changed = corrected.filter((one, at) => one !== held[at]).length
     if (changed === 0) continue
-    repeats.push(...repeatsIn(corrected))
+    const { kept, dropped, repeats: repeated } = sifted(corrected)
+    repeats.push(...repeated)
+    taken.push(...dropped)
     counts.files += 1
     counts.lines += changed
-    edits.push({ kind: "replace", path, contentFrom: text, contentTo: `${corrected.join("\n")}\n` })
+    edits.push({ kind: "replace", path, contentFrom: text, contentTo: `${kept.join("\n")}\n` })
   }
   if (repeats.length > 0) {
     return refusing(
@@ -181,6 +206,7 @@ export function correctReadingBooleansCommand(world: World): Answer {
     `${String(counts.lines)} lines changed in ${String(counts.files)} readings files`,
     `inArchive true in ${String(counts.archiveTrue)} readings: ${String(counts.archiveRemoved)} taken out, ${String(counts.archiveKept)} kept on Archive evidence`,
     `slottable set from the catalog on ${String(counts.starsReset)} stars, ${String(counts.starsUncatalogued)} stars the catalog lacks left as read`,
+    `${String(taken.length)} lines repeating an earlier line's capture and result taken out${taken.length === 0 ? "" : `: ${taken.join(", ")}`}`,
   ])
 }
 
