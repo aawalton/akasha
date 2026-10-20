@@ -45,24 +45,23 @@ function spelledForTheStore(
   return held
 }
 
-const NOTHING_TO_TAKE =
-  "no stretch of the day carries a capacity, so there is no reading to take. A tile showing no " +
-  "signal is right where a tile showing capacity Alan does not have would be a lie."
+const NO_CAPACITY_YET = 0
 
-export async function takeReading(root: string, now: Date = new Date()): Promise<number | null> {
-  const day = await dayValuesByDate(openedDayOf(resolveRoots(), now), [ID])
-  if (day === null) return null
-  const dayId = day[ID]
+async function capacityOn(day: string, now: Date): Promise<number | null> {
+  const values = await dayValuesByDate(day, [ID])
+  const dayId = values?.[ID]
   if (typeof dayId !== "string" || dayId.trim() === "") return null
 
   const stretches = await sessionsOfDay(dayId, STRETCH_KEYS)
-  const hours = capacityIn(
+  return capacityIn(
     stretches.map((one) => ({
       values: { [HEALTH_CAPACITY_HOURS]: capacityHoursOf(spelledForTheStore(one), now) },
     }))
   )
-  if (hours === null) return null
+}
 
+export async function takeReading(root: string, now: Date = new Date()): Promise<number> {
+  const hours = (await capacityOn(openedDayOf(resolveRoots(), now), now)) ?? NO_CAPACITY_YET
   keepReading(root, readoutServedBy(root, SERVED_BY), hours, now)
   return hours
 }
@@ -70,11 +69,7 @@ export async function takeReading(root: string, now: Date = new Date()): Promise
 if (import.meta.main) {
   const root = rootStated(process.env) ?? process.cwd()
   try {
-    const hours = await takeReading(root)
-    if (hours === null) {
-      process.stderr.write(`${NOTHING_TO_TAKE}\n`)
-      process.exit(2)
-    }
+    await takeReading(root)
     process.stdout.write(
       `a capacity was taken and kept beside ${readoutServedBy(root, SERVED_BY)}\n`
     )

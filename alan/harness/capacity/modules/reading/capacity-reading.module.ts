@@ -65,7 +65,7 @@ export const capacityReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day nobody has opened is no reading rather than a capacity of zero.",
+      statement: "A day not kept yet reads a capacity of zero.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -73,7 +73,7 @@ export const capacityReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day where no stretch has a capacity is no reading.",
+      statement: "A day where no stretch has a capacity yet reads a capacity of zero.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -116,5 +116,5 @@ export const capacityReading = {
     },
   ],
   createdAt: "2026-09-04T00:03:57.592Z",
-  updatedAt: "2026-09-25T17:30:04.000Z",
+  updatedAt: "2026-10-20T11:12:19.064Z",
 } as const satisfies Module

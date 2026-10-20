@@ -50,12 +50,7 @@ export const upkeepCapacity = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "No stretch on the day is no reading rather than a capacity of zero.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A day whose every stretch has no capacity is no reading rather than a capacity of zero.",
+      statement: "A day with no stretch yet, or no stretch with a capacity yet, reads zero.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -78,5 +73,5 @@ export const upkeepCapacity = {
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   madeFrom: "day-row-and-stretches",
   createdAt: "2026-09-02T12:55:32.938Z",
-  updatedAt: "2026-10-18T13:44:36.965Z",
+  updatedAt: "2026-10-20T11:12:19.064Z",
 } as const satisfies Readout
