@@ -7,7 +7,6 @@ import {
 } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import {
   type BuildVisibility,
-  type SettableBuildVisibility,
   toBuildVisibility,
 } from "akasha/temper/player/character/build/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
@@ -36,7 +35,6 @@ export interface CharacterMetadata {
   isTargetBuild: boolean
   name: string
   description: string
-  setVisibility: (v: SettableBuildVisibility) => void
   updateMeta: (meta: {
     name?: string
     description?: string
@@ -62,7 +60,7 @@ interface CharacterProviderProps {
 }
 
 const noopUpdateBuild = async () => {}
-const noopSetVisibility = () => {}
+
 const noopUpdateMeta = () => {}
 
 export function CharacterProvider({
@@ -84,7 +82,6 @@ export function CharacterProvider({
     buildMetadata: zeroBuildMetadata,
     updateBuild: zeroUpdateBuild,
     updateMeta: zeroUpdateMeta,
-    setVisibility: zeroSetVisibility,
   } = useCharacterZero(buildId)
 
   const createResetAction = useCallback(
@@ -146,7 +143,6 @@ export function CharacterProvider({
     isTargetBuild,
     name,
     description,
-    setVisibility: isOwner ? zeroSetVisibility : noopSetVisibility,
     updateMeta: isOwner ? zeroUpdateMeta : noopUpdateMeta,
     availableSkills,
     availableSets,

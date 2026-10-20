@@ -40,7 +40,7 @@ interface CompanionProviderProps {
 }
 
 const noopUpdateBuild = async () => {}
-const noopSetVisibility = () => {}
+
 const noopUpdateMeta = () => {}
 
 export function CompanionProvider({
@@ -60,7 +60,6 @@ export function CompanionProvider({
     buildMetadata: zeroBuildMetadata,
     updateBuild: zeroUpdateBuild,
     updateMeta: zeroUpdateMeta,
-    setVisibility: zeroSetVisibility,
   } = useCompanionZero(buildId)
 
   const createResetAction = useCallback(
@@ -121,7 +120,6 @@ export function CompanionProvider({
     isTargetBuild,
     name,
     description,
-    setVisibility: isOwner ? zeroSetVisibility : noopSetVisibility,
     updateMeta: isOwner ? zeroUpdateMeta : noopUpdateMeta,
   }
 

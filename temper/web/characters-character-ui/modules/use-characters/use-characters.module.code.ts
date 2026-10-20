@@ -23,7 +23,6 @@ import {
 } from "akasha/temper/player/character/build/build-support/modules/build-row/build-row.module.code.ts"
 import { buildSlug } from "akasha/temper/player/character/build/build-support/modules/build-slug/build-slug.module.code.ts"
 import { characterUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
-import type { SettableBuildVisibility } from "akasha/temper/player/character/build/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import { createNewCharacter } from "akasha/temper/player/character/build/modules/build-factory/build-factory.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import {
@@ -184,14 +183,6 @@ export function useCharacter(buildId: string) {
     })
   }
 
-  const setVisibility = async (visibility: SettableBuildVisibility) => {
-    await runPatch({
-      pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
-      where: [{ key: "id", eq: buildId }],
-      set: { visibility },
-    })
-  }
-
   return {
     build,
     buildSlug,
@@ -200,7 +191,6 @@ export function useCharacter(buildId: string) {
     updateBuild,
     updateMeta,
     deleteBuild,
-    setVisibility,
     isLoading,
     isError: error !== null,
     error,
