@@ -13711,38 +13711,38 @@
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "stats": {
-        "power-weapon": 4807,
-        "magicka-maximum": 14781,
-        "stamina-recovery": 812,
         "resistance-physical": 11199,
-        "critical-rating-spell": 3815,
-        "health-maximum": 17960,
         "critical-rating-weapon": 3815,
-        "stamina-maximum": 24848,
-        "power-spell": 4807,
+        "critical-rating-spell": 3815,
+        "resistance-spell": 11199,
         "magicka-recovery": 604,
-        "penetration-physical": 16809,
-        "health-recovery": 399,
+        "power-spell": 4807,
+        "stamina-maximum": 24848,
         "resistance-critical": 1320,
+        "magicka-maximum": 14781,
         "penetration-spell": 16809,
-        "resistance-spell": 11199
+        "stamina-recovery": 812,
+        "penetration-physical": 16809,
+        "power-weapon": 4807,
+        "health-maximum": 17960,
+        "health-recovery": 399
       },
       "unbonusedStats": {
-        "power-weapon": 1000,
-        "magicka-maximum": 14781,
-        "stamina-recovery": 812,
         "resistance-physical": 0,
-        "critical-rating-spell": 2181,
-        "health-maximum": 17960,
         "critical-rating-weapon": 2181,
-        "stamina-maximum": 24848,
-        "power-spell": 1000,
+        "critical-rating-spell": 2181,
+        "resistance-spell": 0,
         "magicka-recovery": 604,
-        "penetration-physical": 0,
-        "health-recovery": 399,
+        "power-spell": 1000,
+        "stamina-maximum": 24848,
         "resistance-critical": 0,
+        "magicka-maximum": 14781,
         "penetration-spell": 0,
-        "resistance-spell": 0
+        "stamina-recovery": 812,
+        "penetration-physical": 0,
+        "power-weapon": 1000,
+        "health-maximum": 17960,
+        "health-recovery": 399
       },
       "activeBuffs": [
         {
@@ -14526,9 +14526,9 @@
       "inArchive": false,
       "archiveBoons": [],
       "advanced": {
-        "healing-taken-base": 0.02,
         "healing-critical-bonus": 0.14,
         "healing-done-base": 0.02,
+        "healing-taken-base": 0.02,
         "critical-damage": 0.36
       }
     }
