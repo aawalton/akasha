@@ -319,6 +319,13 @@ function statsSaid(stats: Record<string, number>, unbonused: Record<string, numb
   return said.join(",")
 }
 
+function buffsSaid(): string {
+  const said: string[] = []
+  for (const buff of activeBuffs()) said.push(`${buff.abilityId}:${buff.name}x${buff.stacks}`)
+  said.sort()
+  return said.join(",")
+}
+
 function settleLater(): undefined {
   EVENT_MANAGER.UnregisterForUpdate(SETTLE_UPDATE)
   EVENT_MANAGER.RegisterForUpdate(SETTLE_UPDATE, SETTLE_MS, function (this: void): undefined {
@@ -401,7 +408,7 @@ export function captureReportedStats(): undefined {
   if (bar === undefined) return
   const now = statsNow()
   const buildHash = captureCharacterBuildHash().buildHash
-  if (!settled(bar, buildHash, statsSaid(now[0], now[1]))) return
+  if (!settled(bar, buildHash, `${statsSaid(now[0], now[1])}|${buffsSaid()}`)) return
   const reported = charEntry.reportedStats ?? {}
   const reading = { ...readingOf(buildHash, now), passiveRankIds: passiveRankIdsOnce() }
   reported[bar] = reading

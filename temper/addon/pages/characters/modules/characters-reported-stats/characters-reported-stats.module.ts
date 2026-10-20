@@ -121,6 +121,18 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That later capture gives the same buffs as well.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game's stats and its buff list can be read at different moments.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Buffs agree where each buff's ability id, name and stacks agree, in any order.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A capture that disagrees five times running is dropped rather than kept.",
     },
     {
@@ -134,5 +146,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-20T00:13:13.759Z",
+  updatedAt: "2026-10-20T00:43:20.456Z",
 } as const satisfies Module
