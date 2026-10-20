@@ -23,6 +23,7 @@
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/eso/return/modules/engine-returns/engine-returns.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/eso/string/modules/engine-strings/engine-strings.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52-rank-pages/build-codec-v52-rank-pages.data-table.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52-skill-pages/build-codec-v52-skill-pages.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/player/character/role/modules/role-ids/role-ids.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/player/character/stat/temper-metric/modules/metric-ids/metric-ids.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/player/character/temper-skill-bar/modules/skill-bar-ids/skill-bar-ids.data-table.ts","typed":true,"deferred":false}
