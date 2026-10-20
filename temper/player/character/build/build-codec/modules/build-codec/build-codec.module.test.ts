@@ -61,7 +61,7 @@ const CHARACTER_BUILD_TYPE = 1
 
 const RECORDED_MINOR_VERSION = 7
 
-const CODEC_MINOR_VERSION = 9
+const CODEC_MINOR_VERSION = 10
 
 const SAVED_BEFORE_RANKS =
   "ATQINIGgAABiRROBif2zihYCWgAi3FtuX_AAAAAAAAAAAAAAAAAAAAAAAAAIkAIAQBgAAgAAAAAgAAhAAACIAIgBgAABAAAgMCAAAySAAAwAAMIAAAAgDABAAAAHAACAAGKwAAABVKwAAAAAAAAAAAPgAMmWAgk14ZLOeJjBIDGFAhHmwXWK1ymYYi54JJQiAHt5m1r2nmuHsoGQ"
@@ -185,7 +185,7 @@ function representativeBuild(): CharacterState {
         ultimate: getSkillId(355),
       },
     },
-    passives: [0, 5, 16, 99, 445].map(getPassiveSkillId),
+    passives: [0, 5, 16, 99, 289].map(getPassiveSkillId),
     scribing: [
       {
         skillId: "scribed-wield-soul-bleed-damage",

@@ -53,6 +53,9 @@ export const temperSkill = {
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
+  hashFrozenIn: [
+    "temper/player/character/build/build-codec/modules/build-codec-v52-rank-pages/build-codec-v52-rank-pages.data-table.code.ts SKILL_PAGES_BEFORE_MINOR_10",
+  ],
   createdAt: "2026-09-02T01:45:21.036Z",
-  updatedAt: "2026-10-15T15:41:52.487Z",
+  updatedAt: "2026-10-20T01:50:40.337Z",
 } as const satisfies PageType

@@ -1,6 +1,6 @@
 export const CHARACTER_BUILD_TYPE = 1
 export const CHARACTER_ESO_VERSION = 52
-export const CHARACTER_CODEC_MINOR_VERSION = 9
+export const CHARACTER_CODEC_MINOR_VERSION = 10
 
 export const CHARACTER_CLASS_BITS = 3
 export const CHARACTER_RACE_BITS = 4

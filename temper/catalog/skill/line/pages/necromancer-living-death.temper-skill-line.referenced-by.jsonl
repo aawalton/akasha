@@ -4,9 +4,7 @@
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/blood-sacrifice/blood-sacrifice.temper-skill.ts","id":"019e6245-a5fe-77b0-a19b-47bea6948532"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/braided-tether-118070/braided-tether-118070.temper-skill.ts","id":"019e6f53-9f87-79de-a8e0-2c54f30bb343"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/braided-tether/braided-tether.temper-skill.ts","id":"019e6245-a605-7df1-9f8d-5535b4a2a704"}
-{"propertySlug":"skill-line","path":"temper/catalog/skill/pages/corpse-consumption-116284/corpse-consumption-116284.temper-skill.ts","id":"019e6f53-a025-7a6b-b86f-16c612eea501"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/corpse-consumption/corpse-consumption.temper-skill.ts","id":"019e6245-a621-7609-a453-0fec49dedd55"}
-{"propertySlug":"skill-line","path":"temper/catalog/skill/pages/curative-curse-116286/curative-curse-116286.temper-skill.ts","id":"019e6f53-a053-744d-a5d6-44c107ed8db9"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/curative-curse/curative-curse.temper-skill.ts","id":"019e6245-a62d-7a45-946b-34db598fc25a"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/enduring-undeath-118809/enduring-undeath-118809.temper-skill.ts","id":"019e6f53-a181-7e44-83da-3eded33842f1"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/enduring-undeath/enduring-undeath.temper-skill.ts","id":"019e6245-a66b-72e4-92ac-da634a430b83"}
@@ -20,7 +18,6 @@
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/life-amid-death/life-amid-death.temper-skill.ts","id":"019e6f53-a3e1-75ae-9417-cfc79612ead3"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/mortal-coil-118122/mortal-coil-118122.temper-skill.ts","id":"019e6f53-a49d-7493-809d-fb2846c28b86"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/mortal-coil/mortal-coil.temper-skill.ts","id":"019e6245-a6d3-7b9e-ae16-1a5fac6d5651"}
-{"propertySlug":"skill-line","path":"temper/catalog/skill/pages/near-death-experience-116273/near-death-experience-116273.temper-skill.ts","id":"019e6f53-a4b7-7cfb-ae01-1a004a4ec562"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/near-death-experience/near-death-experience.temper-skill.ts","id":"019e6245-a6d9-737b-9e20-cde41534d2b2"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/reanimate/reanimate.temper-skill.ts","id":"019e6f53-a5bc-73f3-a814-01367f266e02"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/render-flesh/render-flesh.temper-skill.ts","id":"019e6f53-a5f4-7d93-8cec-8c09f9a1c257"}
@@ -34,5 +31,4 @@
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/spirit-guardian-118912/spirit-guardian-118912.temper-skill.ts","id":"019e6f53-a7a0-7f20-bace-0bc7d04ade0c"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/spirit-guardian/spirit-guardian.temper-skill.ts","id":"019e6245-a73f-73d1-8025-74c46fcb20f5"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/spirit-mender/spirit-mender.temper-skill.ts","id":"019e6f53-a7a2-75b3-9fb9-1974e3c650ff"}
-{"propertySlug":"skill-line","path":"temper/catalog/skill/pages/undead-confederate-116282/undead-confederate-116282.temper-skill.ts","id":"019e6f53-a87c-7b75-935f-e37fe46b91e5"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/undead-confederate/undead-confederate.temper-skill.ts","id":"019e6245-a758-7d67-b855-19bd0dba40c2"}

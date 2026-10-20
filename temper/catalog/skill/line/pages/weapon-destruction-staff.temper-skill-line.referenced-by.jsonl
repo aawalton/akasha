@@ -1,11 +1,9 @@
 {"propertySlug":"skill-line","path":"temper/catalog/gear/temper-weapon-type/pages/ice-staff/ice-staff.temper-weapon-type.ts","id":"019e46b6-4096-7618-a107-04208bd01142"}
 {"propertySlug":"skill-line","path":"temper/catalog/gear/temper-weapon-type/pages/inferno-staff/inferno-staff.temper-weapon-type.ts","id":"019e46b6-4095-718f-8cbf-783b175896ca"}
 {"propertySlug":"skill-line","path":"temper/catalog/gear/temper-weapon-type/pages/lightning-staff/lightning-staff.temper-weapon-type.ts","id":"019e46b6-4097-7ac7-8bc9-adecad7a9a43"}
-{"propertySlug":"skill-line","path":"temper/catalog/skill/pages/ancient-knowledge-30959/ancient-knowledge-30959.temper-skill.ts","id":"019e6f53-9eaf-7385-8dbc-57005df6466c"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/ancient-knowledge/ancient-knowledge.temper-skill.ts","id":"019e6226-00d0-7a62-9c9b-0e03c068d57b"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/crushing-shock-46348/crushing-shock-46348.temper-skill.ts","id":"019e6f53-a040-7c27-8cab-3c549e312ac3"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/crushing-shock/crushing-shock.temper-skill.ts","id":"019e6226-00de-7523-bff2-1f6feb729813"}
-{"propertySlug":"skill-line","path":"temper/catalog/skill/pages/destruction-expert-30965/destruction-expert-30965.temper-skill.ts","id":"019e6f53-a0bf-7707-b454-2531c070ab4d"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/destruction-expert/destruction-expert.temper-skill.ts","id":"019e6226-00e3-7fad-978e-dcf1ea33cd28"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/destructive-clench-38984/destructive-clench-38984.temper-skill.ts","id":"019e6f53-a0c2-7570-b6d1-b9a538dc0395"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/destructive-clench/destructive-clench.temper-skill.ts","id":"019e6226-00e4-7c73-af05-33917d8e06d8"}
@@ -16,7 +14,6 @@
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/elemental-blockade/elemental-blockade.temper-skill.ts","id":"019e6226-00e8-7de2-bb9b-61ecec9219c6"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/elemental-drain-39095/elemental-drain-39095.temper-skill.ts","id":"019e6f53-a114-75f8-aeca-7885deac9bb5"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/elemental-drain/elemental-drain.temper-skill.ts","id":"019e6226-00e9-7cd7-a37f-4c6b3d38c143"}
-{"propertySlug":"skill-line","path":"temper/catalog/skill/pages/elemental-force-30962/elemental-force-30962.temper-skill.ts","id":"019e6f53-a118-77a3-9859-16f48ac8603b"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/elemental-force/elemental-force.temper-skill.ts","id":"019e6226-00ea-7a78-b5e3-05feff682874"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/elemental-rage-84434/elemental-rage-84434.temper-skill.ts","id":"019e6f53-a11b-7e9a-802d-799f62c681c8"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/elemental-rage/elemental-rage.temper-skill.ts","id":"019e6226-00eb-774c-a896-2cd3fe5c868d"}
@@ -31,11 +28,9 @@
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/force-pulse/force-pulse.temper-skill.ts","id":"019e6226-00f3-78de-b2b6-4a20fa82b85e"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/force-shock/force-shock.temper-skill.ts","id":"019e6f53-a22a-7169-ba45-ee192e534f73"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/impulse/impulse.temper-skill.ts","id":"019e6f53-a369-7a2b-a86f-71b0d6f9db45"}
-{"propertySlug":"skill-line","path":"temper/catalog/skill/pages/penetrating-magic-30957/penetrating-magic-30957.temper-skill.ts","id":"019e6f53-a4e6-73e0-80c9-07f6ca96b14c"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/penetrating-magic/penetrating-magic.temper-skill.ts","id":"019e6226-0101-7789-98ba-e2cfd15594ca"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/pulsar-39161/pulsar-39161.temper-skill.ts","id":"019e6f53-a559-7a38-b03a-904c08a78d24"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/pulsar/pulsar.temper-skill.ts","id":"019e6226-0104-7c4e-9ac0-9ac9de69ce63"}
-{"propertySlug":"skill-line","path":"temper/catalog/skill/pages/tri-focus-30948/tri-focus-30948.temper-skill.ts","id":"019e6f53-a862-75ad-98c8-31d2ea672d1b"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/tri-focus/tri-focus.temper-skill.ts","id":"019e6226-011b-76c0-ad73-bc007da797cc"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/unstable-wall-of-elements-39052/unstable-wall-of-elements-39052.temper-skill.ts","id":"019e6f53-a899-76a6-84e1-e3112c4c2461"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/unstable-wall-of-elements/unstable-wall-of-elements.temper-skill.ts","id":"019e6226-011d-71b2-bdb4-1a99379cedfa"}

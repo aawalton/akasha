@@ -38,5 +38,13 @@ export const buildCodecV52RankPages = {
       decisionKind: "decision-kind/constraint",
       statement: "A capture sets the bit of its rank's own page, or else of the lowest paged rank.",
     },
-  ], createdAt: "2026-10-20T00:45:06.070Z", updatedAt: "2026-10-20T00:45:06.070Z",
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The table holds every skill page in the order a hash before minor ten reads them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The skill page type names that order as frozen, so its rank pages may go.",
+    },
+  ], createdAt: "2026-10-20T00:45:06.070Z", updatedAt: "2026-10-20T01:50:40.337Z",
 } as const satisfies DataTable

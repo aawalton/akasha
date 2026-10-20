@@ -1,18 +1,14 @@
 {"propertySlug":"skill-line","path":"temper/catalog/gear/temper-armor-weight/pages/shield/shield.temper-armor-weight.ts","id":"01a05fd5-4dd2-7ee6-b974-17ec1acd050b"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/absorb-missile-38317/absorb-missile-38317.temper-skill.ts","id":"019e6f53-9e83-73d9-b181-04bb011f6f3c"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/absorb-missile/absorb-missile.temper-skill.ts","id":"019e6226-00cb-76ab-9ada-41c2cc280f2d"}
-{"propertySlug":"skill-line","path":"temper/catalog/skill/pages/battlefield-mobility-29422/battlefield-mobility-29422.temper-skill.ts","id":"019e6f53-9efb-721b-8e80-9d22a99531a4"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/battlefield-mobility/battlefield-mobility.temper-skill.ts","id":"019e6226-00d5-76c0-a467-2b322f11eab2"}
-{"propertySlug":"skill-line","path":"temper/catalog/skill/pages/deadly-bash-29415/deadly-bash-29415.temper-skill.ts","id":"019e6f53-a08f-7355-a271-d2dd277de649"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/deadly-bash/deadly-bash.temper-skill.ts","id":"019e6226-00df-7f02-9920-43196ff5859c"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/deep-slash-38268/deep-slash-38268.temper-skill.ts","id":"019e6f53-a0aa-7710-9bde-ca4242893c42"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/deep-slash/deep-slash.temper-skill.ts","id":"019e6226-00e1-795f-966b-c0b5d4009510"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/defensive-posture/defensive-posture.temper-skill.ts","id":"019e6f53-a0ae-7584-992d-ab635c96d9fb"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/defensive-stance-38312/defensive-stance-38312.temper-skill.ts","id":"019e6f53-a0b4-70b8-b18c-9e172d835498"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/defensive-stance/defensive-stance.temper-skill.ts","id":"019e6226-00e2-762b-9660-dd17e10ec6b7"}
-{"propertySlug":"skill-line","path":"temper/catalog/skill/pages/deflect-bolts-29399/deflect-bolts-29399.temper-skill.ts","id":"019e6f53-a0b7-78cb-ae8b-3756b45298b1"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/deflect-bolts/deflect-bolts.temper-skill.ts","id":"019e6226-00e3-72e9-a75e-070995b32016"}
-{"propertySlug":"skill-line","path":"temper/catalog/skill/pages/fortress-29420/fortress-29420.temper-skill.ts","id":"019e6f53-a233-7cd4-bb7e-77725809a16f"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/fortress/fortress.temper-skill.ts","id":"019e6226-00f5-735a-a4e2-5efcff7c22ed"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/heroic-slash-38264/heroic-slash-38264.temper-skill.ts","id":"019e6f53-a310-7d55-814c-16ec23e25d53"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/heroic-slash/heroic-slash.temper-skill.ts","id":"019e6226-00fa-7ee6-83ff-916e3c19cfe6"}
@@ -37,7 +33,6 @@
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/shielded-assault/shielded-assault.temper-skill.ts","id":"019e6226-0112-7f37-a7e3-844ecfb5fbf0"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/spell-wall-83292/spell-wall-83292.temper-skill.ts","id":"019e6f53-a797-7c1c-a2a9-e401222e55c6"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/spell-wall/spell-wall.temper-skill.ts","id":"019e6226-0116-73b1-8a13-10b5b07e150f"}
-{"propertySlug":"skill-line","path":"temper/catalog/skill/pages/sword-and-board-29397/sword-and-board-29397.temper-skill.ts","id":"019e6f53-a80e-7637-8958-8072c0a1e232"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/pages/sword-and-board/sword-and-board.temper-skill.ts","id":"019e6226-0118-7cbc-9a8b-f9fed24efb10"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/temper-grimoire/pages/shield-throw/shield-throw.temper-grimoire.ts","id":"01a05fce-2956-7f43-a29a-78ffd8016e8d"}
 {"propertySlug":"skill-line","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-shield-throw-frost-damage.temper-scribed-skill.ts","id":"019e6471-15b3-78b3-8b93-79ca196a7080"}
