@@ -96,6 +96,10 @@ function fetchedAgain(ref: string): string {
   return `tried=0; until ${fetching(ref)}; do tried=$((tried + 1)); ${stop}; ${pause}; done`
 }
 
+const INSTALL_SAID = "/tmp/install.said"
+
+const INSTALLED = `bun install --frozen-lockfile > ${INSTALL_SAID} 2>&1 || { cat ${INSTALL_SAID}; exit 1; }`
+
 function fetchedFor(commit: string, was: string | null): readonly string[] {
   const at = fetchedAgain(commit)
   if (was === null || was === commit) return [at]
@@ -110,7 +114,7 @@ export function checkedOut(commit: string, was: string | null): readonly string[
     `git remote add origin ${GIT_TRANSPORT_ORIGIN}`,
     ...fetchedFor(commit, was),
     "git checkout -q FETCH_HEAD",
-    "bun install --frozen-lockfile",
+    INSTALLED,
   ]
 }
 
@@ -146,7 +150,7 @@ export function keptCheckout(commit: string): readonly string[] {
     fetchedWholeAgain(commit),
     `git switch -q --force --detach ${KEPT_HEAD}`,
     `git clean -qfdx -e ${VENDORED}`,
-    "bun install --frozen-lockfile",
+    INSTALLED,
   ]
 }
 

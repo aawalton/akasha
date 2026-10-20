@@ -132,6 +132,13 @@ test("an earlier commit is fetched once", () => {
   expect(scriptOf(COMMIT, WAS)).not.toContain(`until git fetch -q --depth 1 origin ${WAS}`)
 })
 
+test("an install that went well says nothing, and one that failed says all it said", () => {
+  for (const said of [scriptOf(COMMIT, null), keptCheckout(COMMIT).join("\n")]) {
+    expect(said).toContain("bun install --frozen-lockfile > /tmp/install.said 2>&1")
+    expect(said).toContain("|| { cat /tmp/install.said; exit 1; }")
+  }
+})
+
 test("a job builds no index, git carrying every index a page is read through", () => {
   expect(scriptOf(COMMIT, null)).not.toContain("index-building")
   expect(scriptOf(COMMIT, null)).not.toContain("index refresh")

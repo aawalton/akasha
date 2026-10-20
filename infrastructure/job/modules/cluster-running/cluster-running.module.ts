@@ -180,6 +180,15 @@ export const clusterRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "An install that went well says nothing, so a failed job's lines open on its fault.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An install that failed says everything it said.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A job runs in the image a pipeline's own steps run in.",
     },
     {
@@ -326,6 +335,6 @@ export const clusterRunning = {
       statement: "A tree naming no commit of its own asks for every commit, however much it holds.",
     },
   ],
-  updatedAt: "2026-10-08T17:04:14.882Z",
+  updatedAt: "2026-10-20T19:19:59.480Z",
   createdAt: "2026-09-16T15:05:01.599Z",
 } as const satisfies Module
