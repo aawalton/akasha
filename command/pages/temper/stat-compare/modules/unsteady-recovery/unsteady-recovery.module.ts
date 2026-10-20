@@ -19,9 +19,18 @@ export const unsteadyRecovery = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Health recovery under Elder Dragon is no steady value where Health moved between the two captures.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading keeping no Health from the capture before counts as Health moved.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every other stat a reading keeps is taken as steady here.",
     },
   ],
   createdAt: "2026-10-20T14:18:17.227Z",
-  updatedAt: "2026-10-20T14:18:17.227Z",
+  updatedAt: "2026-10-20T16:39:11.135Z",
 } as const satisfies Module

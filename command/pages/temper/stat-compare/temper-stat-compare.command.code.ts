@@ -98,16 +98,17 @@ function comparedOf(line: ReadingLine): Compared {
   } catch (thrown) {
     unestimated = saidBy(thrown)
   }
+  const build = buildOf(line.buildHash)
   const rows = Object.keys(reading.stats)
     .sort()
     .map((one) => ({
       stat: one,
       game: reading.stats[one] ?? 0,
       estimate: estimate === null ? null : estimate(one),
-      unsteady: unsteadyOf(reading, one),
+      unsteady: unsteadyOf(reading, one, build?.passives ?? []),
       unsettled: isUnsettled(one, reading.fete),
     }))
-  return { line, build: buildOf(line.buildHash), rows, unmatchedBuffs, unestimated }
+  return { line, build, rows, unmatchedBuffs, unestimated }
 }
 
 function signed(delta: number): string {
