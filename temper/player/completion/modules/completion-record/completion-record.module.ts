@@ -42,6 +42,11 @@ export const completionRecord = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A reading of reported stats keeps the Ultimate the character held when it was taken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A reading of reported stats keeps each skill on the bar held, as the game gave it.",
     },
     {
@@ -87,5 +92,5 @@ export const completionRecord = {
     },
   ],
   createdAt: "2026-09-02T04:57:23.388Z",
-  updatedAt: "2026-10-20T11:29:02.998Z",
+  updatedAt: "2026-10-20T13:18:06.960Z",
 } as const satisfies Module
