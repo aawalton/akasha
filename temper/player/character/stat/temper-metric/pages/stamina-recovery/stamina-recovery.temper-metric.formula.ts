@@ -20,8 +20,17 @@ export const FORMULA: FormulaNode = {
       },
     },
     {
-      type: "product",
-      effectType: "fractional-change",
+      type: "add",
+      operands: [
+        {
+          type: "constant",
+          value: 1,
+        },
+        {
+          type: "sum",
+          effectType: "fractional-change",
+        },
+      ],
     },
   ],
 }
