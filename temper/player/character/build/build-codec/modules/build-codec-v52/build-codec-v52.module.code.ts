@@ -82,7 +82,11 @@ import type { TargetArmorId } from "akasha/temper/player/character/source/module
 export const CHARACTER_BUILD_TYPE = 0x01
 
 export const ESO_VERSION_52 = 52
-const CODEC_MINOR_VERSION = 10
+const CODEC_MINOR_VERSION = 11
+
+const FIRST_MINOR_WITH_FOOD_OR_DRINK_PLACES_OF_THE_CATALOG = 11
+
+const FOOD_OR_DRINK_BITS_BEFORE_MINOR_11 = 6
 
 const ROLE_BITMASK_BITS = 8
 
@@ -282,7 +286,11 @@ function decodeConsumables(
   reader: BitReaderState,
   minorVersion: number
 ): CharacterState["consumables"] {
-  const foodOrDrink = getFoodOrDrinkId(readBits(reader, foodOrDrinkBits()))
+  const foodOrDrinkWidth =
+    minorVersion >= FIRST_MINOR_WITH_FOOD_OR_DRINK_PLACES_OF_THE_CATALOG
+      ? foodOrDrinkBits()
+      : FOOD_OR_DRINK_BITS_BEFORE_MINOR_11
+  const foodOrDrink = getFoodOrDrinkId(readBits(reader, foodOrDrinkWidth))
   const potion = getPotionId(readBits(reader, potionBits()))
   const potion2 = minorVersion >= 7 ? getPotionId(readBits(reader, potionBits())) : "no-potion"
 

@@ -61,7 +61,7 @@ const CHARACTER_BUILD_TYPE = 1
 
 const RECORDED_MINOR_VERSION = 7
 
-const CODEC_MINOR_VERSION = 10
+const CODEC_MINOR_VERSION = 11
 
 const SAVED_BEFORE_RANKS =
   "ATQINIGgAABiRROBif2zihYCWgAi3FtuX_AAAAAAAAAAAAAAAAAAAAAAAAAIkAIAQBgAAgAAAAAgAAhAAACIAIgBgAABAAAgMCAAAySAAAwAAMIAAAAgDABAAAAHAACAAGKwAAABVKwAAAAAAAAAAAPgAMmWAgk14ZLOeJjBIDGFAhHmwXWK1ymYYi54JJQiAHt5m1r2nmuHsoGQ"
@@ -309,6 +309,14 @@ test("a rank page's bit that more than one rank sets is read as its base page wi
   expect(build?.passives).toContain("tough")
   expect(build?.passives).not.toContain("tough-50903")
   expect(build?.passiveRanks?.tough).toBeUndefined()
+})
+
+test("a hash the add-on saved before minor eleven reads its food or drink from six bits", () => {
+  expect(decodeBuild(buildHash(SAVED_WITH_A_PAGE_MANY_RANKS_SET))?.consumables).toEqual({
+    foodOrDrink: "dubious-camoran-throne",
+    potion: "essence-of-potent-stamina",
+    potion2: "no-potion",
+  })
 })
 
 test("a build read from a rank page's bit is written and read back as that build", () => {
