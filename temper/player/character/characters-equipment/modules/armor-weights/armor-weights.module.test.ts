@@ -55,6 +55,25 @@ const NORMAL_LIGHT_SASHES: readonly (readonly [ItemLevel, number, string])[] = [
   ["CP160", 32066, "01a15a50-e9c6-74f5-8d2f-269df5e0648a"],
 ]
 
+test("a level-4 normal light sash reads 31652 Physical Resistance in Erin Solstice's reading 01a15a5e-c691-71de-90ff-692f5508633c, against 31628 with the level-1 sash", () => {
+  expect(getArmorValue("waist", "light", "normal", 4)).toBe(LEVEL_ONE_SASH + 31652 - 31628)
+})
+
+const LEVEL_FOUR_SASH_SHEET = 31050
+
+const LOW_NORMAL_LIGHT_SASHES: readonly (readonly [number, number, string])[] = [
+  [8, 31080, "01a15a63-9e55-74b9-adb3-556e922477a2"],
+  [12, 31104, "01a15a63-b5e1-734b-8eec-73da17301c88"],
+]
+
+for (const [level, sheet, reading] of LOW_NORMAL_LIGHT_SASHES) {
+  test(`a level-${level} normal light sash reads ${sheet} Physical Resistance in Erin Solstice's reading ${reading}, against ${LEVEL_FOUR_SASH_SHEET} with the level-4 sash in 01a15a63-8e2c-740e-9ff9-be925ebaa550`, () => {
+    expect(getArmorValue("waist", "light", "normal", level)).toBe(
+      getArmorValue("waist", "light", "normal", 4) + sheet - LEVEL_FOUR_SASH_SHEET
+    )
+  })
+}
+
 for (const [level, sheet, reading] of NORMAL_LIGHT_SASHES) {
   test(`a ${level} normal light sash reads ${sheet} Physical Resistance in Erin Solstice's reading ${reading}, against ${LEVEL_ONE_SASH_SHEET} with the level-1 sash`, () => {
     expect(getArmorValue("waist", "light", "normal", level)).toBe(
