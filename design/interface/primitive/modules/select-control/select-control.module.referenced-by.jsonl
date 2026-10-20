@@ -2,11 +2,9 @@
 {"propertySlug":"import","fileName":"select-control.module.code.tsx","path":"temper/web/modules/account-tab/account-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"select-control.module.code.tsx","path":"temper/web/modules/armor-card/armor-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"select-control.module.code.tsx","path":"temper/web/modules/automation-select/automation-select.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"select-control.module.code.tsx","path":"temper/web/modules/build-info-panel-card/build-info-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"select-control.module.code.tsx","path":"temper/web/modules/bulk-edit-tag/bulk-edit-tag.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"select-control.module.code.tsx","path":"temper/web/modules/companion-armor-panel-card/companion-armor-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"select-control.module.code.tsx","path":"temper/web/modules/companion-bulk-edit-tag/companion-bulk-edit-tag.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"select-control.module.code.tsx","path":"temper/web/modules/companion-info-panel-card/companion-info-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"select-control.module.code.tsx","path":"temper/web/modules/companion-jewelry-panel-card/companion-jewelry-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"select-control.module.code.tsx","path":"temper/web/modules/companion-panel/companion-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"select-control.module.code.tsx","path":"temper/web/modules/companion-target-panel-card/companion-target-panel-card.module.code.tsx","typed":false,"deferred":false}

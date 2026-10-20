@@ -27,12 +27,7 @@ export function CompanionGeneralPanel({
 }: CompanionGeneralPanelProps) {
   return (
     <ResponsiveColumns columnCount={columnCount}>
-      <CompanionInfoPanelCard
-        buildName={buildName}
-        onUpdateMeta={onUpdateMeta}
-        readOnly={readOnly}
-        collapseProtected
-      />
+      <CompanionInfoPanelCard buildName={buildName} onUpdateMeta={onUpdateMeta} collapseProtected />
       <BuildDescriptionPanelCard
         buildDescription={buildDescription}
         onUpdateMeta={onUpdateMeta}
