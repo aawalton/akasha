@@ -127,15 +127,18 @@ function boonIdsIn(world: World, paths: readonly string[]): ReadonlySet<number> 
   return ids
 }
 
-function repeatedResult(lines: readonly string[]): string | null {
-  const seen = new Set<string>()
+function repeatsIn(lines: readonly string[]): readonly string[] {
+  const seen = new Map<string, unknown>()
+  const repeats: string[] = []
   for (const text of lines) {
-    const result = (JSON.parse(text) as Json)["result"]
+    const line = JSON.parse(text) as Json
+    const result = line["result"]
     if (typeof result !== "string") continue
-    if (seen.has(result)) return result
-    seen.add(result)
+    const first = seen.get(result)
+    if (first === undefined) seen.set(result, line["id"])
+    else repeats.push(`${String(first)} and ${String(line["id"])}`)
   }
-  return null
+  return repeats
 }
 
 export function correctReadingBooleansCommand(world: World): Answer {
@@ -156,6 +159,7 @@ export function correctReadingBooleansCommand(world: World): Answer {
     starsUncatalogued: 0,
   }
   const edits: FileChange[] = []
+  const repeats: string[] = []
   for (const path of paths) {
     const text = world.textOf(path)
     if (text === null) continue
@@ -163,15 +167,15 @@ export function correctReadingBooleansCommand(world: World): Answer {
     const corrected = held.map((one) => correctedLine(one, slottable, boonIds, counts))
     const changed = corrected.filter((one, at) => one !== held[at]).length
     if (changed === 0) continue
-    const repeated = repeatedResult(corrected)
-    if (repeated !== null) {
-      return refusing(
-        `\`${path}\` would hold the result \`${repeated}\` twice, and a result lands once`
-      )
-    }
+    repeats.push(...repeatsIn(corrected))
     counts.files += 1
     counts.lines += changed
     edits.push({ kind: "replace", path, contentFrom: text, contentTo: `${corrected.join("\n")}\n` })
+  }
+  if (repeats.length > 0) {
+    return refusing(
+      `${String(repeats.length)} pairs of readings would hold one result, and a result lands once: ${repeats.join(", ")}`
+    )
   }
   return telling(stating(edits), [
     `${String(counts.lines)} lines changed in ${String(counts.files)} readings files`,

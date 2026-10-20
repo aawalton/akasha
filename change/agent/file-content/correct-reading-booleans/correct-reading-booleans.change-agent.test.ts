@@ -123,5 +123,5 @@ test("two lines the correction makes the same are refused", () => {
   const twin = lineOf("01a1ffff", 9, { archiveBoons: [], championPoints: [] })
   const said = correctReadingBooleansCommand(worldOf(`${UNBACKED}\n${twin}\n`))
 
-  expect(said.refused ?? "").toMatch(/a result lands once/)
+  expect(said.refused ?? "").toMatch(/^1 pairs .* a result lands once: 01a1aaaa and 01a1ffff$/)
 })
