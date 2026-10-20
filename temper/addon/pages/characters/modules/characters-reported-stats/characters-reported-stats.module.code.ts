@@ -376,12 +376,18 @@ function statsNow(): StatsNow {
   return [stats, unbonusedStats]
 }
 
+function ultimateHeld(): number {
+  const [current] = GetUnitPower("player", COMBAT_MECHANIC_FLAGS_ULTIMATE)
+  return current
+}
+
 function readingOf(buildHash: string, [stats, unbonusedStats]: StatsNow) {
   return {
     capturedAt: GetTimeStamp(),
     buildHash: asBuildHash(buildHash),
     esoVersion: GetESOVersionString(),
     inCombat: IsUnitInCombat("player"),
+    ultimate: ultimateHeld(),
     stats,
     unbonusedStats,
     activeBuffs: activeBuffs(),

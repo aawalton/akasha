@@ -38,6 +38,10 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A reading keeps the Ultimate the player held when it was taken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reading keeps the version string the game gave when it was taken.",
     },
     {
@@ -170,5 +174,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-20T11:32:23.834Z",
+  updatedAt: "2026-10-20T13:18:25.127Z",
 } as const satisfies Module
