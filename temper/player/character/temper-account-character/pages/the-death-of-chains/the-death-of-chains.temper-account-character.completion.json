@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQICQkAAIBkwgpCyatACFk1aAALmCW5AXMEtyAuYJbkBcwS3IC5gluRw0_bckEdvUAHDT9tyENEx2gCIgmOtuV9IwnOBwdQAASafHuKAGzk4AAgnmUgBgGCoTgAAAA4AgCECgKJwg1AHYADmQBGA0YQBDJIFAnMxIwkQAQKAcAHMBgAcEEABA4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWNlbI2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBw2SNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpMAEBkHGJA1g",
+  "buildHash": "ATQKCQkAAIBkwgpCyatACFk1aAALmCW5AXMEtyAuYJbkBcwS3IC5gluRw0_bckEdvUAHDT9tyENEx2gCIgmOtuVu4sGXhjZ0AAQiNm2I6GLbMAi9tAMGOXAADggkYZcmwfAdoWHZCaoUXbKyoEYcB2GAcRAIcJQQiIiIDIzIiIyIDIzUiIgIyIzIgAiIiAyIhAAITIjA6MjAjoCIiJkMzIzIAgiIiKjMSMjrLo16jMixJlY8mWXMmzs-jTq17Z9CjSp1PFVY2VsjZ4-uXoGLJC0RNkbp2kSpk79QpgqoSuOsMHDZI2BKlgRgGEChjJoOIEmzgoWMGjh5AiSOkwAQGQcYkDWA",
   "gender": 1,
   "level": 50,
   "classId": 117,
@@ -13883,11 +13883,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-10-19",
+    "date": "2026-10-20",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-19",
+    "date": "2026-10-20",
     "seen": [
       5,
       3,
@@ -13901,53 +13901,55 @@
       1,
       6,
       2,
-      7,
       3,
+      7,
       4,
       5
     ]
   },
   "inventoryCheck": {
-    "date": "2026-10-19",
-    "misplaced": 19
+    "date": "2026-10-20",
+    "misplaced": 26
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792426312,
+      "capturedAt": 1792501661,
+      "buildHash": "ATQKCQkAAIBkwgpCyatACFk1aAALmCW5AXMEtyAuYJbkBcwS3IC5gluRw0_bckEdvUAHDT9tyENEx2gCIgmOtuVu4sGXhjZ0AAQiNm2I6GLbMAi9tAMGOXAADggkYZcmwfAdoWHZCaoUXbKyoEYcB2GAcRAIcJQQiIiIDIzIiIyIDIzUiIgIyIzIgAiIiAyIhAAITIjA6MjAjoCIiJkMzIzIAgiIiKjMSMjrLo16jMixJlY8mWXMmzs-jTq17Z9CjSp1PFVY2VsjZ4-uXoGLJC0RNkbp2kSpk79QpgqoSuOsMHDZI2BKlgRgGEChjJoOIEmzgoWMGjh5AiSOkwAQGQcYkDWA",
+      "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "stats": {
-        "magicka-maximum": 14430,
+        "health-maximum": 19756,
         "resistance-physical": 18638,
+        "resistance-critical": 1320,
+        "health-recovery": 479,
+        "magicka-recovery": 664,
         "critical-rating-spell": 3135,
-        "stamina-recovery": 856,
+        "penetration-physical": 10206,
+        "magicka-maximum": 14430,
         "stamina-maximum": 28392,
         "critical-rating-weapon": 3135,
-        "penetration-physical": 10206,
-        "penetration-spell": 10206,
-        "health-recovery": 479,
-        "health-maximum": 19756,
         "resistance-spell": 18638,
         "power-spell": 4598,
-        "resistance-critical": 1320,
-        "magicka-recovery": 664,
-        "power-weapon": 4598
+        "penetration-spell": 10206,
+        "power-weapon": 4598,
+        "stamina-recovery": 856
       },
       "unbonusedStats": {
-        "magicka-maximum": 14430,
+        "health-maximum": 19756,
         "resistance-physical": 0,
+        "resistance-critical": 0,
+        "health-recovery": 479,
+        "magicka-recovery": 664,
         "critical-rating-spell": 2181,
-        "stamina-recovery": 856,
+        "penetration-physical": 0,
+        "magicka-maximum": 14430,
         "stamina-maximum": 28392,
         "critical-rating-weapon": 2181,
-        "penetration-physical": 0,
-        "penetration-spell": 0,
-        "health-recovery": 479,
-        "health-maximum": 19756,
         "resistance-spell": 0,
         "power-spell": 1000,
-        "resistance-critical": 0,
-        "magicka-recovery": 664,
-        "power-weapon": 1000
+        "penetration-spell": 0,
+        "power-weapon": 1000,
+        "stamina-recovery": 856
       },
       "activeBuffs": [
         {
@@ -14547,6 +14549,7 @@
           "link": "|H0:item:127741:364:50:0:0:0:18:0:0:0:0:0:0:0:1:67:0:1:0:7800:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
+          "enchantCategory": 17,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
           "quality": 5
         },
@@ -14555,6 +14558,7 @@
           "link": "|H0:item:124095:364:50:45883:370:50:0:0:0:0:0:0:0:0:257:60:0:1:0:0:0|h|h",
           "armor": 0,
           "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery.",
+          "enchantCategory": 31,
           "trait": "Increases Maximum Stamina by |cffffff877|r.",
           "quality": 5
         },
@@ -14563,6 +14567,7 @@
           "link": "|H0:item:215582:369:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:9800:0|h|h",
           "armor": 2676,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
+          "enchantCategory": 17,
           "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
           "quality": 4
         },
@@ -14571,6 +14576,7 @@
           "link": "|H0:item:127746:364:50:0:0:0:0:0:0:0:0:0:0:0:1:67:0:1:0:4500:0|h|h",
           "armor": 1823,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
+          "enchantCategory": 17,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
           "quality": 5
         },
@@ -14579,6 +14585,7 @@
           "link": "|H0:item:55934:364:50:0:0:0:5:25:0:0:0:0:0:0:2049:2:0:1:0:270:0|h|h",
           "armor": 0,
           "enchant": "Deals |cffffff2014|r Physical Damage and restores |cffffff354|r Stamina.",
+          "enchantCategory": 22,
           "trait": "Increases Physical and Spell Resistance by |cffffff3276|r.",
           "quality": 5
         },
@@ -14587,6 +14594,7 @@
           "link": "|H0:item:215588:369:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:8300:0|h|h",
           "armor": 1003,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
+          "enchantCategory": 17,
           "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
           "quality": 4
         },
@@ -14595,6 +14603,7 @@
           "link": "|H0:item:215586:369:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:7400:0|h|h",
           "armor": 2341,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
+          "enchantCategory": 17,
           "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
           "quality": 4
         },
@@ -14603,6 +14612,7 @@
           "link": "|H0:item:215583:369:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:7295:0|h|h",
           "armor": 2341,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
+          "enchantCategory": 17,
           "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
           "quality": 4
         },
@@ -14611,6 +14621,7 @@
           "link": "|H0:item:163052:364:50:0:0:0:28:0:0:0:0:0:0:0:2049:0:0:1:0:0:0|h|h",
           "armor": 0,
           "enchant": "Adds |cffffff169|r Stamina Recovery.",
+          "enchantCategory": 18,
           "trait": "Increases movement speed by |cffffff7|r%.",
           "quality": 5
         },
@@ -14619,6 +14630,7 @@
           "link": "|H0:item:124094:364:50:45883:370:50:0:0:0:0:0:0:0:0:257:60:0:1:0:0:0|h|h",
           "armor": 0,
           "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery.",
+          "enchantCategory": 31,
           "trait": "Increases Maximum Stamina by |cffffff877|r.",
           "quality": 5
         },
@@ -14627,6 +14639,7 @@
           "link": "|H0:item:215584:369:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:7300:0|h|h",
           "armor": 1338,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
+          "enchantCategory": 17,
           "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
           "quality": 4
         },
@@ -14635,6 +14648,7 @@
           "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:485:0|h|h",
           "armor": 0,
           "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff452|r for |cffffff5|r seconds.",
+          "enchantCategory": 2,
           "trait": "Increases weapon enchantment effect by |cffffff30|r% and reduces enchantment cooldown by |cFFFFFF50|r%.",
           "quality": 5
         }
@@ -14759,7 +14773,2371 @@
         }
       ],
       "inArchive": false,
-      "archiveBoons": []
+      "archiveBoons": [],
+      "advanced": {
+        "healing-critical-bonus": 0.04,
+        "healing-taken-base": 0.07,
+        "healing-done-base": 0.02,
+        "critical-damage": 0.04
+      },
+      "advancedSheet": {
+        "cc-break-cost": {
+          "format": "flat",
+          "flat": 5180
+        },
+        "critical-percent-cap": {
+          "format": "percent",
+          "percent": 125
+        },
+        "ultimate-regen-combat": {
+          "format": "flat",
+          "flat": 3
+        },
+        "earth-resist": {
+          "format": "flat-or-percent",
+          "flat": 18638,
+          "percent": 28.2393932343
+        },
+        "critical-chance": {
+          "format": "flat-or-percent",
+          "flat": 954,
+          "percent": 4.3537783623
+        },
+        "fire-damage": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "healing-taken": {
+          "format": "flat-or-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "critical-resist": {
+          "format": "flat-or-percent",
+          "flat": 1320,
+          "percent": 2
+        },
+        "subscriber-telvar-bonus": {
+          "format": "percent",
+          "percent": 10
+        },
+        "subscriber-inspiration-bonus": {
+          "format": "percent",
+          "percent": 10
+        },
+        "subscriber-coin-bonus": {
+          "format": "percent",
+          "percent": 10
+        },
+        "subscriber-all-xp": {
+          "format": "percent",
+          "percent": 10
+        },
+        "sprint-cost": {
+          "format": "flat",
+          "flat": 451
+        },
+        "magic-resist": {
+          "format": "flat-or-percent",
+          "flat": 18638,
+          "percent": 28.2393932343
+        },
+        "physical-penetration": {
+          "format": "flat",
+          "flat": 10206
+        },
+        "bleed-damage": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "shock-damage": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "critical-damage": {
+          "format": "percent",
+          "percent": 4
+        },
+        "cold-resist": {
+          "format": "flat-or-percent",
+          "flat": 18638,
+          "percent": 28.2393932343
+        },
+        "frost-resist": {
+          "format": "flat-or-percent",
+          "flat": 18638,
+          "percent": 28.2393932343
+        },
+        "generic-resist": {
+          "format": "flat-or-percent",
+          "flat": 18638,
+          "percent": 28.2393932343
+        },
+        "spell-resist": {
+          "format": "flat-or-percent",
+          "flat": 18638,
+          "percent": 28.2393932343
+        },
+        "spell-penetration": {
+          "format": "flat",
+          "flat": 10206
+        },
+        "magic-damage": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "poison-resist": {
+          "format": "flat-or-percent",
+          "flat": 18638,
+          "percent": 28.2393932343
+        },
+        "all-xp": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 10
+        },
+        "healing-done": {
+          "format": "flat-or-percent",
+          "flat": 4,
+          "percent": 0.0060606059
+        },
+        "healing-taken-bonuses": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 7
+        },
+        "shock-resist": {
+          "format": "flat-or-percent",
+          "flat": 18638,
+          "percent": 28.2393932343
+        },
+        "block-speed": {
+          "format": "percent",
+          "percent": 42
+        },
+        "bash-damage": {
+          "format": "flat",
+          "flat": 571
+        },
+        "oblivion-resist": {
+          "format": "flat-or-percent",
+          "flat": 18638,
+          "percent": 28.2393932343
+        },
+        "sneak-speed-reduction": {
+          "format": "percent",
+          "percent": 70
+        },
+        "bleed-resist": {
+          "format": "flat-or-percent",
+          "flat": 18638,
+          "percent": 28.2393932343
+        },
+        "disease-damage": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "cold-damage": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "block-mitigation": {
+          "format": "percent",
+          "percent": 57
+        },
+        "armor-cap": {
+          "format": "flat-or-percent",
+          "flat": 33000,
+          "percent": 50
+        },
+        "dodge-cost": {
+          "format": "flat",
+          "flat": 3997
+        },
+        "physical-resist": {
+          "format": "flat-or-percent",
+          "flat": 18638,
+          "percent": 28.2393932343
+        },
+        "disease-resist": {
+          "format": "flat-or-percent",
+          "flat": 18638,
+          "percent": 28.2393932343
+        },
+        "subscriber-alliance-points-bonus": {
+          "format": "percent",
+          "percent": 10
+        },
+        "inspiration-bonus": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 40
+        },
+        "earth-damage": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "monster-kill-xp": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "physical-damage": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "sneak-cost": {
+          "format": "flat",
+          "flat": 81
+        },
+        "telvar-bonus": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 10
+        },
+        "healing-done-bonuses": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 2
+        },
+        "coin-bonus": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 20
+        },
+        "block-cost": {
+          "format": "flat",
+          "flat": 1607
+        },
+        "bash-cost": {
+          "format": "flat",
+          "flat": 675
+        },
+        "critical-healing": {
+          "format": "percent",
+          "percent": 4
+        },
+        "poison-damage": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "generic-damage": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "sprint-speed": {
+          "format": "percent",
+          "percent": 145
+        },
+        "fire-resist": {
+          "format": "flat-or-percent",
+          "flat": 23258,
+          "percent": 35.2393951416
+        },
+        "oblivion-damage": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "armor": {
+          "format": "flat-or-percent",
+          "flat": 15362,
+          "percent": 23.2757568359
+        },
+        "player-kill-xp": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "alliance-points-bonus": {
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 10
+        },
+        "critical-percent": {
+          "format": "flat-and-percent",
+          "flat": 4,
+          "percent": 0
+        }
+      },
+      "passiveRankIds": [
+        [
+          184844,
+          184847
+        ],
+        [
+          184857,
+          184858
+        ],
+        [
+          184870,
+          184873
+        ],
+        [
+          184885,
+          184887
+        ],
+        [
+          184918,
+          184923
+        ],
+        [
+          185033,
+          185036
+        ],
+        [
+          184930,
+          184932
+        ],
+        [
+          185050,
+          185058
+        ],
+        [
+          185185,
+          185186
+        ],
+        [
+          185240,
+          185243
+        ],
+        [
+          185238,
+          185239
+        ],
+        [
+          185187,
+          185195
+        ],
+        [
+          31698,
+          44046
+        ],
+        [
+          31708,
+          44721
+        ],
+        [
+          31718,
+          44730
+        ],
+        [
+          31565,
+          44732
+        ],
+        [
+          31739,
+          45214
+        ],
+        [
+          31744,
+          45216
+        ],
+        [
+          31743,
+          45215
+        ],
+        [
+          31721,
+          45212
+        ],
+        [
+          31751,
+          45206
+        ],
+        [
+          31757,
+          45207
+        ],
+        [
+          31760,
+          45208
+        ],
+        [
+          31747,
+          45202
+        ],
+        [
+          29424,
+          45011
+        ],
+        [
+          29430,
+          45012
+        ],
+        [
+          29439,
+          45023
+        ],
+        [
+          29451,
+          45029
+        ],
+        [
+          29455,
+          44922
+        ],
+        [
+          29457,
+          44933
+        ],
+        [
+          29460,
+          44951
+        ],
+        [
+          29462,
+          44953
+        ],
+        [
+          29468,
+          44996
+        ],
+        [
+          29463,
+          44984
+        ],
+        [
+          29473,
+          45001
+        ],
+        [
+          29475,
+          45009
+        ],
+        [
+          36616,
+          45038
+        ],
+        [
+          36630,
+          45048
+        ],
+        [
+          36636,
+          45053
+        ],
+        [
+          36641,
+          45060
+        ],
+        [
+          36549,
+          45103
+        ],
+        [
+          18866,
+          45071
+        ],
+        [
+          36532,
+          45084
+        ],
+        [
+          36552,
+          45115
+        ],
+        [
+          36560,
+          45135
+        ],
+        [
+          36595,
+          45150
+        ],
+        [
+          36603,
+          45155
+        ],
+        [
+          36587,
+          45145
+        ],
+        [
+          31386,
+          45176
+        ],
+        [
+          31383,
+          45172
+        ],
+        [
+          31378,
+          45165
+        ],
+        [
+          31389,
+          45181
+        ],
+        [
+          31398,
+          45198
+        ],
+        [
+          31396,
+          45196
+        ],
+        [
+          31417,
+          45200
+        ],
+        [
+          31412,
+          45199
+        ],
+        [
+          31419,
+          45188
+        ],
+        [
+          31421,
+          45190
+        ],
+        [
+          31422,
+          45192
+        ],
+        [
+          31425,
+          45195
+        ],
+        [
+          86064,
+          86065
+        ],
+        [
+          86062,
+          86063
+        ],
+        [
+          86066,
+          86067
+        ],
+        [
+          86068,
+          86069
+        ],
+        [
+          85882,
+          85883
+        ],
+        [
+          85878,
+          85879
+        ],
+        [
+          85876,
+          85877
+        ],
+        [
+          85880,
+          85881
+        ],
+        [
+          86191,
+          86192
+        ],
+        [
+          86189,
+          86190
+        ],
+        [
+          86193,
+          86194
+        ],
+        [
+          86195,
+          86196
+        ],
+        [
+          116186,
+          116188
+        ],
+        [
+          116197,
+          116198
+        ],
+        [
+          116192,
+          116194
+        ],
+        [
+          116199,
+          116201
+        ],
+        [
+          116230,
+          116235
+        ],
+        [
+          116239,
+          116240
+        ],
+        [
+          116269,
+          116270
+        ],
+        [
+          116271,
+          116272
+        ],
+        [
+          116286,
+          116287
+        ],
+        [
+          116273,
+          116275
+        ],
+        [
+          116284,
+          116285
+        ],
+        [
+          116282,
+          116283
+        ],
+        [
+          238232,
+          238232,
+          238232,
+          238232,
+          238232,
+          238232,
+          238232,
+          238232,
+          238232,
+          238232
+        ],
+        [
+          240268,
+          240268,
+          240268,
+          240268,
+          240268,
+          240268,
+          240268,
+          240268,
+          240268,
+          240268
+        ],
+        [
+          259224,
+          259224,
+          259224,
+          259224,
+          259224,
+          259224,
+          259224,
+          259224,
+          259224,
+          259224
+        ],
+        [
+          263220,
+          263220,
+          263220,
+          263220,
+          263220,
+          263220,
+          263220,
+          263220,
+          263220,
+          263220
+        ],
+        [
+          263247,
+          263247,
+          263247,
+          263247,
+          263247,
+          263247,
+          263247,
+          263247,
+          263247,
+          263247
+        ],
+        [
+          263316,
+          263316,
+          263316,
+          263316,
+          263316,
+          263316,
+          263316,
+          263316,
+          263316,
+          263316
+        ],
+        [
+          263398,
+          263398,
+          263398,
+          263398,
+          263398,
+          263398,
+          263398,
+          263398,
+          263398,
+          263398
+        ],
+        [
+          263410,
+          263410,
+          263410,
+          263410,
+          263410,
+          263410,
+          263410,
+          263410,
+          263410,
+          263410
+        ],
+        [
+          263412,
+          263412,
+          263412,
+          263412,
+          263412,
+          263412,
+          263412,
+          263412,
+          263412,
+          263412
+        ],
+        [
+          263416,
+          263416,
+          263416,
+          263416,
+          263416,
+          263416,
+          263416,
+          263416,
+          263416,
+          263416
+        ],
+        [
+          263448,
+          263448,
+          263448,
+          263448,
+          263448,
+          263448,
+          263448,
+          263448,
+          263448,
+          263448
+        ],
+        [
+          263465,
+          263465,
+          263465,
+          263465,
+          263465,
+          263465,
+          263465,
+          263465,
+          263465,
+          263465
+        ],
+        [
+          263509,
+          263509,
+          263509,
+          263509,
+          263509,
+          263509,
+          263509,
+          263509,
+          263509,
+          263509
+        ],
+        [
+          263549,
+          263549,
+          263549,
+          263549,
+          263549,
+          263549,
+          263549,
+          263549,
+          263549,
+          263549
+        ],
+        [
+          263554,
+          263554,
+          263554,
+          263554,
+          263554,
+          263554,
+          263554,
+          263554,
+          263554,
+          263554
+        ],
+        [
+          263519,
+          263519,
+          263519,
+          263519,
+          263519,
+          263519,
+          263519,
+          263519,
+          263519,
+          263519
+        ],
+        [
+          263520,
+          263520,
+          263520,
+          263520,
+          263520,
+          263520,
+          263520,
+          263520,
+          263520,
+          263520
+        ],
+        [
+          263521,
+          263521,
+          263521,
+          263521,
+          263521,
+          263521,
+          263521,
+          263521,
+          263521,
+          263521
+        ],
+        [
+          263522,
+          263522,
+          263522,
+          263522,
+          263522,
+          263522,
+          263522,
+          263522,
+          263522,
+          263522
+        ],
+        [
+          263523,
+          263523,
+          263523,
+          263523,
+          263523,
+          263523,
+          263523,
+          263523,
+          263523,
+          263523
+        ],
+        [
+          263585,
+          263585,
+          263585,
+          263585,
+          263585,
+          263585,
+          263585,
+          263585,
+          263585,
+          263585
+        ],
+        [
+          263586,
+          263586,
+          263586,
+          263586,
+          263586,
+          263586,
+          263586,
+          263586,
+          263586,
+          263586
+        ],
+        [
+          263587,
+          263587,
+          263587,
+          263587,
+          263587,
+          263587,
+          263587,
+          263587,
+          263587,
+          263587
+        ],
+        [
+          263588,
+          263588,
+          263588,
+          263588,
+          263588,
+          263588,
+          263588,
+          263588,
+          263588,
+          263588
+        ],
+        [
+          263589,
+          263589,
+          263589,
+          263589,
+          263589,
+          263589,
+          263589,
+          263589,
+          263589,
+          263589
+        ],
+        [
+          263603,
+          263603,
+          263603,
+          263603,
+          263603,
+          263603,
+          263603,
+          263603,
+          263603,
+          263603
+        ],
+        [
+          263604,
+          263604,
+          263604,
+          263604,
+          263604,
+          263604,
+          263604,
+          263604,
+          263604,
+          263604
+        ],
+        [
+          263605,
+          263605,
+          263605,
+          263605,
+          263605,
+          263605,
+          263605,
+          263605,
+          263605,
+          263605
+        ],
+        [
+          263606,
+          263606,
+          263606,
+          263606,
+          263606,
+          263606,
+          263606,
+          263606,
+          263606,
+          263606
+        ],
+        [
+          263607,
+          263607,
+          263607,
+          263607,
+          263607,
+          263607,
+          263607,
+          263607,
+          263607,
+          263607
+        ],
+        [
+          263870,
+          263870,
+          263870,
+          263870,
+          263870,
+          263870,
+          263870,
+          263870,
+          263870,
+          263870
+        ],
+        [
+          263871,
+          263871,
+          263871,
+          263871,
+          263871,
+          263871,
+          263871,
+          263871,
+          263871,
+          263871
+        ],
+        [
+          263872,
+          263872,
+          263872,
+          263872,
+          263872,
+          263872,
+          263872,
+          263872,
+          263872,
+          263872
+        ],
+        [
+          263873,
+          263873,
+          263873,
+          263873,
+          263873,
+          263873,
+          263873,
+          263873,
+          263873,
+          263873
+        ],
+        [
+          263874,
+          263874,
+          263874,
+          263874,
+          263874,
+          263874,
+          263874,
+          263874,
+          263874,
+          263874
+        ],
+        [
+          29387,
+          45444
+        ],
+        [
+          29375,
+          45430
+        ],
+        [
+          29388,
+          45443
+        ],
+        [
+          29389,
+          45446
+        ],
+        [
+          29391,
+          45448
+        ],
+        [
+          29420,
+          45471
+        ],
+        [
+          29397,
+          45452
+        ],
+        [
+          29415,
+          45469
+        ],
+        [
+          29399,
+          45472
+        ],
+        [
+          29422,
+          45473
+        ],
+        [
+          18929,
+          45476
+        ],
+        [
+          30873,
+          45477
+        ],
+        [
+          30872,
+          45478
+        ],
+        [
+          21114,
+          45481
+        ],
+        [
+          30893,
+          45482
+        ],
+        [
+          30937,
+          45494
+        ],
+        [
+          30930,
+          45492
+        ],
+        [
+          30942,
+          45493
+        ],
+        [
+          30936,
+          45497
+        ],
+        [
+          30923,
+          45498
+        ],
+        [
+          30948,
+          45500
+        ],
+        [
+          30957,
+          45509
+        ],
+        [
+          30962,
+          45512
+        ],
+        [
+          30959,
+          45513
+        ],
+        [
+          30965,
+          45514
+        ],
+        [
+          30973,
+          45517
+        ],
+        [
+          30980,
+          45519
+        ],
+        [
+          30972,
+          45520
+        ],
+        [
+          30869,
+          45521
+        ],
+        [
+          30981,
+          45524
+        ],
+        [
+          150185,
+          150185,
+          150185,
+          150185,
+          150185,
+          150185,
+          150185,
+          150185,
+          150185,
+          150185
+        ],
+        [
+          152778,
+          152778,
+          152778,
+          152778,
+          152778,
+          152778,
+          152778,
+          152778,
+          152778,
+          152778
+        ],
+        [
+          29639,
+          45548,
+          45549
+        ],
+        [
+          29665,
+          45557
+        ],
+        [
+          29663,
+          45559
+        ],
+        [
+          29668,
+          45561
+        ],
+        [
+          29667,
+          45562
+        ],
+        [
+          150181,
+          150181,
+          150181,
+          150181,
+          150181,
+          150181,
+          150181,
+          150181,
+          150181,
+          150181
+        ],
+        [
+          29743,
+          45563,
+          45564
+        ],
+        [
+          29687,
+          45565
+        ],
+        [
+          29738,
+          45567
+        ],
+        [
+          29686,
+          45572
+        ],
+        [
+          29742,
+          45574
+        ],
+        [
+          150184,
+          150184,
+          150184,
+          150184,
+          150184,
+          150184,
+          150184,
+          150184,
+          150184,
+          150184
+        ],
+        [
+          152780,
+          152780,
+          152780,
+          152780,
+          152780,
+          152780,
+          152780,
+          152780,
+          152780,
+          152780
+        ],
+        [
+          29825,
+          45531,
+          45533
+        ],
+        [
+          29769,
+          45526
+        ],
+        [
+          29804,
+          45546
+        ],
+        [
+          29773,
+          45528
+        ],
+        [
+          29791,
+          45529
+        ],
+        [
+          139908,
+          139909
+        ],
+        [
+          139904,
+          139905
+        ],
+        [
+          139943,
+          140093
+        ],
+        [
+          140173,
+          140174
+        ],
+        [
+          139910,
+          139911
+        ],
+        [
+          139906,
+          139907
+        ],
+        [
+          139771,
+          139772
+        ],
+        [
+          63799,
+          63800,
+          63801,
+          63802
+        ],
+        [
+          63803,
+          63804,
+          63805,
+          63806
+        ],
+        [
+          63807,
+          63808,
+          63809,
+          63810
+        ],
+        [
+          63811,
+          63812,
+          63813,
+          63814
+        ],
+        [
+          63815,
+          63816,
+          63817,
+          63818
+        ],
+        [
+          139942,
+          139942,
+          139942,
+          139942,
+          139942,
+          139942,
+          139942,
+          139942,
+          139942,
+          139942
+        ],
+        [
+          139773,
+          139774,
+          139775,
+          139776,
+          141018
+        ],
+        [
+          139778,
+          139779
+        ],
+        [
+          139305,
+          139306
+        ],
+        [
+          139780,
+          139781
+        ],
+        [
+          139307,
+          139308
+        ],
+        [
+          139309,
+          139321
+        ],
+        [
+          139777,
+          139777,
+          139777,
+          139777,
+          139777,
+          139777,
+          139777,
+          139777,
+          139777,
+          139777
+        ],
+        [
+          39269,
+          45590
+        ],
+        [
+          39266,
+          45583
+        ],
+        [
+          39263,
+          45580
+        ],
+        [
+          42054,
+          42054,
+          42054,
+          42054,
+          42054,
+          42054,
+          42054,
+          42054,
+          42054,
+          42054
+        ],
+        [
+          33095,
+          46041
+        ],
+        [
+          33096,
+          46040
+        ],
+        [
+          33093,
+          33090
+        ],
+        [
+          33091,
+          33091,
+          33091,
+          33091,
+          33091,
+          33091,
+          33091,
+          33091,
+          33091,
+          33091
+        ],
+        [
+          132844,
+          135218
+        ],
+        [
+          32634,
+          32634,
+          32634,
+          32634,
+          32634,
+          32634,
+          32634,
+          32634,
+          32634,
+          32634
+        ],
+        [
+          32636,
+          46142
+        ],
+        [
+          32637,
+          46135
+        ],
+        [
+          32638,
+          46139
+        ],
+        [
+          32639,
+          32639,
+          32639,
+          32639,
+          32639,
+          32639,
+          32639,
+          32639,
+          32639,
+          32639
+        ],
+        [
+          32641,
+          46137
+        ],
+        [
+          78219,
+          78219,
+          78219,
+          78219,
+          78219,
+          78219,
+          78219,
+          78219,
+          78219,
+          78219
+        ],
+        [
+          77392,
+          77394,
+          77395,
+          79865
+        ],
+        [
+          77397,
+          77398,
+          77399,
+          79868
+        ],
+        [
+          77396,
+          77396,
+          77396,
+          77396,
+          77396,
+          77396,
+          77396,
+          77396,
+          77396,
+          77396
+        ],
+        [
+          77400,
+          77400,
+          77400,
+          77400,
+          77400,
+          77400,
+          77400,
+          77400,
+          77400,
+          77400
+        ],
+        [
+          77401,
+          77401,
+          77401,
+          77401,
+          77401,
+          77401,
+          77401,
+          77401,
+          77401,
+          77401
+        ],
+        [
+          29062,
+          29062,
+          29062,
+          29062,
+          29062,
+          29062,
+          29062,
+          29062,
+          29062,
+          29062
+        ],
+        [
+          35803,
+          45595,
+          45596
+        ],
+        [
+          35800,
+          45597,
+          45599
+        ],
+        [
+          40393,
+          40393,
+          40393,
+          40393,
+          40393,
+          40393,
+          40393,
+          40393,
+          40393,
+          40393
+        ],
+        [
+          35804,
+          35804,
+          35804,
+          35804,
+          35804,
+          35804,
+          35804,
+          35804,
+          35804,
+          35804
+        ],
+        [
+          29061,
+          29061,
+          29061,
+          29061,
+          29061,
+          29061,
+          29061,
+          29061,
+          29061,
+          29061
+        ],
+        [
+          40436,
+          45601
+        ],
+        [
+          40437,
+          45602
+        ],
+        [
+          40438,
+          45603
+        ],
+        [
+          43561,
+          45607
+        ],
+        [
+          103793,
+          103793,
+          103793,
+          103793,
+          103793,
+          103793,
+          103793,
+          103793,
+          103793,
+          103793
+        ],
+        [
+          103809,
+          103811
+        ],
+        [
+          103819,
+          103878
+        ],
+        [
+          103888,
+          103964
+        ],
+        [
+          103972,
+          103972,
+          103972,
+          103972,
+          103972,
+          103972,
+          103972,
+          103972,
+          103972,
+          103972
+        ],
+        [
+          74580,
+          74580,
+          74580,
+          74580,
+          74580,
+          74580,
+          74580,
+          74580,
+          74580,
+          74580
+        ],
+        [
+          76454,
+          76455,
+          76456,
+          76457
+        ],
+        [
+          76458,
+          76459,
+          76460,
+          76461
+        ],
+        [
+          76451,
+          76451,
+          76451,
+          76451,
+          76451,
+          76451,
+          76451,
+          76451,
+          76451,
+          76451
+        ],
+        [
+          76452,
+          76452,
+          76452,
+          76452,
+          76452,
+          76452,
+          76452,
+          76452,
+          76452,
+          76452
+        ],
+        [
+          76453,
+          76453,
+          76453,
+          76453,
+          76453,
+          76453,
+          76453,
+          76453,
+          76453,
+          76453
+        ],
+        [
+          55584,
+          55676
+        ],
+        [
+          55366,
+          55386
+        ],
+        [
+          39248,
+          45614
+        ],
+        [
+          39254,
+          45621
+        ],
+        [
+          39252,
+          45619
+        ],
+        [
+          39641,
+          39641,
+          39641,
+          39641,
+          39641,
+          39641,
+          39641,
+          39641,
+          39641,
+          39641
+        ],
+        [
+          39625,
+          39625,
+          39625,
+          39625,
+          39625,
+          39625,
+          39625,
+          39625,
+          39625,
+          39625
+        ],
+        [
+          39630,
+          39630,
+          39630,
+          39630,
+          39630,
+          39630,
+          39630,
+          39630,
+          39630,
+          39630
+        ],
+        [
+          39644,
+          39644,
+          39644,
+          39644,
+          39644,
+          39644,
+          39644,
+          39644,
+          39644,
+          39644
+        ],
+        [
+          39647,
+          39647,
+          39647,
+          39647,
+          39647,
+          39647,
+          39647,
+          39647,
+          39647,
+          39647
+        ],
+        [
+          39255,
+          45622
+        ],
+        [
+          39259,
+          45624
+        ],
+        [
+          39261,
+          45625
+        ],
+        [
+          36588,
+          36588,
+          36588,
+          36588,
+          36588,
+          36588,
+          36588,
+          36588,
+          36588,
+          36588
+        ],
+        [
+          36591,
+          45265,
+          45267
+        ],
+        [
+          36593,
+          45269,
+          45270
+        ],
+        [
+          36598,
+          45271,
+          45272
+        ],
+        [
+          33293,
+          33293,
+          33293,
+          33293,
+          33293,
+          33293,
+          33293,
+          33293,
+          33293,
+          33293
+        ],
+        [
+          33301,
+          45307,
+          45309
+        ],
+        [
+          84668,
+          84670,
+          84672
+        ],
+        [
+          33304,
+          45311,
+          45312
+        ],
+        [
+          35965,
+          35965,
+          35965,
+          35965,
+          35965,
+          35965,
+          35965,
+          35965,
+          35965,
+          35965
+        ],
+        [
+          35993,
+          45273,
+          45274
+        ],
+        [
+          117968,
+          117969,
+          117970
+        ],
+        [
+          35998,
+          45275,
+          45276
+        ],
+        [
+          36008,
+          36008,
+          36008,
+          36008,
+          36008,
+          36008,
+          36008,
+          36008,
+          36008,
+          36008
+        ],
+        [
+          36022,
+          45295,
+          45296
+        ],
+        [
+          64279,
+          64280,
+          64281
+        ],
+        [
+          36011,
+          45317,
+          45319
+        ],
+        [
+          36063,
+          36063,
+          36063,
+          36063,
+          36063,
+          36063,
+          36063,
+          36063,
+          36063,
+          36063
+        ],
+        [
+          70386,
+          70388,
+          70390
+        ],
+        [
+          117846,
+          117847,
+          117848
+        ],
+        [
+          36067,
+          45299,
+          45301
+        ],
+        [
+          36312,
+          36312,
+          36312,
+          36312,
+          36312,
+          36312,
+          36312,
+          36312,
+          36312,
+          36312
+        ],
+        [
+          50903,
+          50906,
+          50907
+        ],
+        [
+          36153,
+          45279,
+          45280
+        ],
+        [
+          36155,
+          45291,
+          45293
+        ],
+        [
+          36247,
+          36247,
+          36247,
+          36247,
+          36247,
+          36247,
+          36247,
+          36247,
+          36247,
+          36247
+        ],
+        [
+          35995,
+          45259,
+          45260
+        ],
+        [
+          36266,
+          45261,
+          45262
+        ],
+        [
+          36303,
+          45263,
+          45264
+        ],
+        [
+          84680,
+          84680,
+          84680,
+          84680,
+          84680,
+          84680,
+          84680,
+          84680,
+          84680,
+          84680
+        ],
+        [
+          36009,
+          45277,
+          45278
+        ],
+        [
+          117752,
+          117753,
+          117754
+        ],
+        [
+          36546,
+          45313,
+          45315
+        ],
+        [
+          36582,
+          36582,
+          36582,
+          36582,
+          36582,
+          36582,
+          36582,
+          36582,
+          36582,
+          36582
+        ],
+        [
+          36585,
+          45257,
+          45258
+        ],
+        [
+          36583,
+          45253,
+          45255
+        ],
+        [
+          36568,
+          45243,
+          45247
+        ],
+        [
+          36626,
+          36626,
+          36626,
+          36626,
+          36626,
+          36626,
+          36626,
+          36626,
+          36626,
+          36626
+        ],
+        [
+          36627,
+          45303,
+          45304
+        ],
+        [
+          36064,
+          45297,
+          45298
+        ],
+        [
+          36628,
+          45305,
+          45306
+        ],
+        [
+          45542,
+          45547,
+          45550,
+          45551,
+          45552,
+          49163,
+          70042,
+          70043
+        ],
+        [
+          47840,
+          47841,
+          47842
+        ],
+        [
+          45569,
+          45571,
+          45573
+        ],
+        [
+          45577,
+          45578,
+          45579
+        ],
+        [
+          45555,
+          45555,
+          45555,
+          45555,
+          45555,
+          45555,
+          45555,
+          45555,
+          45555,
+          45555
+        ],
+        [
+          47831,
+          47832,
+          47834
+        ],
+        [
+          47276,
+          47277,
+          47278,
+          47279,
+          47280,
+          47281,
+          48157,
+          48158,
+          48159,
+          70041
+        ],
+        [
+          47854,
+          47855,
+          47856
+        ],
+        [
+          48169,
+          48170,
+          48171
+        ],
+        [
+          48163,
+          48164,
+          48165
+        ],
+        [
+          48160,
+          48161,
+          48162,
+          58784
+        ],
+        [
+          48166,
+          48167,
+          48168
+        ],
+        [
+          47288,
+          47289,
+          47290,
+          47291,
+          47292,
+          47293,
+          48187,
+          48188,
+          48189,
+          70044
+        ],
+        [
+          47860,
+          47861,
+          47862
+        ],
+        [
+          48199,
+          48200,
+          48201
+        ],
+        [
+          48193,
+          48194,
+          48195
+        ],
+        [
+          48190,
+          48191,
+          48192,
+          58782
+        ],
+        [
+          48196,
+          48197,
+          48198
+        ],
+        [
+          46727,
+          46729,
+          46731,
+          46735,
+          46736,
+          46740,
+          49112,
+          49113,
+          49114,
+          70045
+        ],
+        [
+          46758,
+          46759,
+          46760,
+          46763
+        ],
+        [
+          47851,
+          47852,
+          47853
+        ],
+        [
+          46770,
+          46771,
+          46772
+        ],
+        [
+          46767,
+          46768,
+          46769
+        ],
+        [
+          103632,
+          103633,
+          103634,
+          103635,
+          103636
+        ],
+        [
+          103637,
+          103638,
+          103639
+        ],
+        [
+          103643,
+          103644,
+          103645
+        ],
+        [
+          103640,
+          103641,
+          103642,
+          108098
+        ],
+        [
+          103646,
+          103647,
+          103648
+        ],
+        [
+          44590,
+          44595,
+          44597,
+          44598,
+          44599,
+          44650
+        ],
+        [
+          44625,
+          44630,
+          44631,
+          69953
+        ],
+        [
+          44602,
+          44609,
+          44610
+        ],
+        [
+          44612,
+          44614,
+          44615
+        ],
+        [
+          44616,
+          44617,
+          44619
+        ],
+        [
+          44620,
+          44621,
+          44624
+        ],
+        [
+          44634,
+          44640,
+          44641
+        ],
+        [
+          47282,
+          47283,
+          47284,
+          47285,
+          47286,
+          47287,
+          48172,
+          48173,
+          48174,
+          70046
+        ],
+        [
+          47857,
+          47858,
+          47859
+        ],
+        [
+          48184,
+          48185,
+          48186
+        ],
+        [
+          48178,
+          48179,
+          48180
+        ],
+        [
+          48181,
+          48182,
+          48183,
+          58783
+        ],
+        [
+          48175,
+          48176,
+          48177
+        ]
+      ]
     }
+  },
+  "rotationReading": {
+    "capturedAt": 1792501748,
+    "toughness": 35680.1616401385,
+    "damage": 9158.3305572289,
+    "healing": 3287.8702127306,
+    "reavingBlowsShare": 0.07,
+    "bars": [
+      {
+        "bar": "frontBar",
+        "weaponStyle": "two-handed",
+        "healing": 1.0976459639,
+        "damage": 1.0057228916,
+        "healthMaximum": 19756,
+        "armorShare": 0.2823939394,
+        "damageTaken": -0.1
+      }
+    ]
   }
 }

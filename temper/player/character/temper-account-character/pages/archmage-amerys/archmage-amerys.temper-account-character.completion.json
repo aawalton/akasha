@@ -13233,38 +13233,38 @@
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "stats": {
-        "magicka-maximum": 15483,
-        "resistance-physical": 10826,
-        "critical-rating-spell": 9070,
-        "stamina-recovery": 729,
-        "stamina-maximum": 25707,
-        "critical-rating-weapon": 9070,
-        "penetration-physical": 11991,
-        "penetration-spell": 11991,
-        "health-recovery": 405,
         "health-maximum": 19038,
-        "resistance-spell": 10826,
-        "power-spell": 3995,
+        "resistance-physical": 10826,
         "resistance-critical": 1320,
+        "health-recovery": 405,
         "magicka-recovery": 665,
-        "power-weapon": 3995
+        "power-weapon": 3995,
+        "penetration-physical": 11991,
+        "magicka-maximum": 15483,
+        "critical-rating-spell": 9070,
+        "power-spell": 3995,
+        "critical-rating-weapon": 9070,
+        "resistance-spell": 10826,
+        "penetration-spell": 11991,
+        "stamina-maximum": 25707,
+        "stamina-recovery": 729
       },
       "unbonusedStats": {
-        "magicka-maximum": 15483,
-        "resistance-physical": 0,
-        "critical-rating-spell": 2181,
-        "stamina-recovery": 729,
-        "stamina-maximum": 25707,
-        "critical-rating-weapon": 2181,
-        "penetration-physical": 0,
-        "penetration-spell": 0,
-        "health-recovery": 405,
         "health-maximum": 19038,
-        "resistance-spell": 0,
-        "power-spell": 1000,
+        "resistance-physical": 0,
         "resistance-critical": 0,
+        "health-recovery": 405,
         "magicka-recovery": 665,
-        "power-weapon": 1000
+        "power-weapon": 1000,
+        "penetration-physical": 0,
+        "magicka-maximum": 15483,
+        "critical-rating-spell": 2181,
+        "power-spell": 1000,
+        "critical-rating-weapon": 2181,
+        "resistance-spell": 0,
+        "penetration-spell": 0,
+        "stamina-maximum": 25707,
+        "stamina-recovery": 729
       },
       "activeBuffs": [
         {
@@ -14124,8 +14124,8 @@
       "advanced": {
         "healing-critical-bonus": 0.04,
         "healing-taken-base": 0.02,
-        "critical-damage": 0.36,
-        "healing-done-base": 0.02
+        "healing-done-base": 0.02,
+        "critical-damage": 0.36
       },
       "passiveRankIds": [
         [
