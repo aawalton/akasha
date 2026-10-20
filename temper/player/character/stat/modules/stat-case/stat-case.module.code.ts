@@ -1,7 +1,14 @@
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { buildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { calculateReadingStatsByBar } from "akasha/temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts"
+import { metrics } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.code.ts"
 import { z } from "zod"
+
+const SHEET_ROW = "ADVANCED_STAT_DISPLAY_TYPE_"
+
+const PERCENT = 100
+
+type SheetValue = { readonly flat?: number | undefined; readonly percent?: number | undefined }
 
 const statsByName = z.record(z.string(), z.number())
 
@@ -59,6 +66,32 @@ export function estimatesOf(read: Omit<StatCase, "pinned" | "gaps">): (stat: str
   return estimatedOf(read).estimate
 }
 
+function sheetPartOf(stat: string): "flat" | "percent" | undefined {
+  const catalog = metrics()
+  if (!catalog.has(stat)) return undefined
+  const metric = catalog.data[stat]
+  return metric.category === "advanced" ? metric.esoStatValuePart : undefined
+}
+
+export function sheetStatsOf(
+  sheet: Readonly<Record<string, SheetValue>> | undefined
+): Record<string, number> {
+  const stats: Record<string, number> = {}
+  if (sheet === undefined) return stats
+  for (const metric of Object.values(metrics().data)) {
+    if (metric.category !== "advanced") continue
+    const row = metric.esoStatConstantName.replace(SHEET_ROW, "").toLowerCase().replaceAll("_", "-")
+    const value = sheet[row]?.[metric.esoStatValuePart]
+    if (value !== undefined) stats[metric.id] = value
+  }
+  return stats
+}
+
+export function reproduces(stat: string, estimate: number, game: number): boolean {
+  if (sheetPartOf(stat) === "percent") return Math.fround(game / PERCENT) === estimate
+  return estimate === game
+}
+
 export function pinnedCaseOf(read: CaseRead): StatCase {
   const { stats, ...rest } = read
   const estimate = estimatesOf(rest)
@@ -66,7 +99,7 @@ export function pinnedCaseOf(read: CaseRead): StatCase {
   const gaps: Record<string, number> = {}
   for (const stat of Object.keys(stats).sort()) {
     const game = stats[stat] ?? 0
-    if (estimate(stat) === game) pinned[stat] = game
+    if (reproduces(stat, estimate(stat), game)) pinned[stat] = game
     else gaps[stat] = game
   }
   return {

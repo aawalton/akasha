@@ -14,6 +14,7 @@ import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/s
 import { loadMetricCatalog } from "akasha/temper/player/character/stat/modules/metric-catalog-loading/metric-catalog-loading.module.code.ts"
 import {
   pinnedCaseOf,
+  sheetStatsOf,
   statCaseText,
 } from "akasha/temper/player/character/stat/modules/stat-case/stat-case.module.code.ts"
 import { verifiedStats } from "akasha/temper/player/character/stat/temper-stat-case/properties/verified-stats.file-property.ts"
@@ -153,7 +154,7 @@ export function pinStatCaseCommand(world: World, given: Asked, pin: Pin): Answer
     inCombat: reading.inCombat,
     activeBuffs: reading.activeBuffs ?? [],
     championPoints: reading.championPoints ?? [],
-    stats: reading.stats,
+    stats: { ...reading.stats, ...sheetStatsOf(reading.advancedSheet) },
   })
   const title = `${character}, ${named} bar, read ${stampOf(reading.capturedAt)}`
   return stating([

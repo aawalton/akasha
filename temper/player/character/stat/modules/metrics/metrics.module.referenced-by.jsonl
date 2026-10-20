@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"metrics.module.code.ts","path":"temper/player/character/stat/modules/metric-tree/metric-tree.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"metrics.module.code.ts","path":"temper/player/character/stat/modules/metric-value/metric-value.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"metrics.module.code.ts","path":"temper/player/character/stat/modules/metrics/metrics.module.test-fixtures.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"metrics.module.code.ts","path":"temper/player/character/stat/modules/stat-case/stat-case.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"metrics.module.code.ts","path":"temper/web/modules/metric-tree-renderer/metric-tree-renderer.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"metrics.module.code.ts","path":"temper/web/modules/stat-changes-description/stat-changes-description.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"metrics.module.code.ts","path":"temper/web/modules/stat-explanation-dialog/stat-explanation-dialog.module.code.tsx","typed":false,"deferred":false}

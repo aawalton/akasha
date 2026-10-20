@@ -110,7 +110,16 @@ export const statCase = {
       decisionKind: "decision-kind/departure",
       statement: "A case keeps the stacks a buff was listed with, where the buff had any.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A case keeps an Advanced Stats row as the game showed it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A row shown as a percent is matched by the float that percent over a hundred rounds to.",
+    },
   ],
   createdAt: "2026-10-14T17:18:43.951Z",
-  updatedAt: "2026-10-20T00:34:37.882Z",
+  updatedAt: "2026-10-20T13:20:07.351Z",
 } as const satisfies Module

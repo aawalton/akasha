@@ -57,6 +57,11 @@ export const pinStatCase = {
       statement: "A reading that records no game version is refused.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The case pins each Advanced Stats row the line keeps under the stat whose page names that row.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "This change reaches no mechanical change.",
     },
@@ -65,5 +70,5 @@ export const pinStatCase = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-10-14T17:23:45.028Z",
-  updatedAt: "2026-10-19T20:15:13.441Z",
+  updatedAt: "2026-10-20T13:20:07.351Z",
 } as const satisfies ChangeAgent

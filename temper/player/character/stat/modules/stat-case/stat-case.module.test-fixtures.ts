@@ -1,5 +1,6 @@
 import {
   estimatesOf,
+  reproduces,
   type statCaseShape,
 } from "akasha/temper/player/character/stat/modules/stat-case/stat-case.module.code.ts"
 import type { z } from "zod"
@@ -18,10 +19,10 @@ export function judgeStatCase(statCase: StatCase): StatCaseJudgement {
   const drifted: StatMiss[] = []
   for (const [stat, game] of Object.entries(statCase.pinned)) {
     const value = estimate(stat)
-    if (value !== game) drifted.push({ stat, game, estimate: value })
+    if (!reproduces(stat, value, game)) drifted.push({ stat, game, estimate: value })
   }
   const closed = Object.entries(statCase.gaps)
-    .filter(([stat, game]) => estimate(stat) === game)
+    .filter(([stat, game]) => reproduces(stat, estimate(stat), game))
     .map(([stat]) => stat)
   return { drifted, closed }
 }

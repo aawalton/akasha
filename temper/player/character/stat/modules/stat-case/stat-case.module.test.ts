@@ -7,6 +7,8 @@ import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/ski
 import { holdMetricCatalogFromCheckout } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.test-fixtures.ts"
 import {
   pinnedCaseOf,
+  reproduces,
+  sheetStatsOf,
   statCaseShape,
   statCaseText,
 } from "akasha/temper/player/character/stat/modules/stat-case/stat-case.module.code.ts"
@@ -31,6 +33,28 @@ function caseFolder(path: string): string {
 
 test("the stat cases are found", () => {
   expect(CASES.length).toBeGreaterThan(0)
+})
+
+test("a sheet row is read as the stat whose page names that row and that part", () => {
+  const sheet = {
+    "physical-resist": { format: "flat-or-percent", flat: 9048, percent: 13.709091186523438 },
+    "bash-cost": { format: "flat", flat: 554 },
+  }
+
+  expect(sheetStatsOf(sheet)).toEqual({
+    "defense-physical-mitigation": 13.709091186523438,
+    "bash-cost": 554,
+  })
+})
+
+test("a sheet percent is reproduced by the float holding that percent over a hundred", () => {
+  const fraction = Math.fround(Math.fround(15714 / 660) / 100)
+
+  expect(reproduces("defense-spell-mitigation", fraction, 23.809091567993164)).toBe(true)
+  expect(
+    reproduces("defense-spell-mitigation", Math.fround(15714 / 66000), 23.809091567993164)
+  ).toBe(false)
+  expect(reproduces("bash-cost", 554, 554)).toBe(true)
 })
 
 for (const path of CASES) {
