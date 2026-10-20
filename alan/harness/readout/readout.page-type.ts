@@ -270,7 +270,11 @@ export const readout = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "A readout nothing can be read for shows no signal rather than a zero.",
+      statement: "A readout whose source cannot be read shows no signal rather than a zero.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A readout summed over the day reads zero until the day has something to sum.",
     },
   ],
   directives: [
@@ -301,5 +305,5 @@ export const readout = {
   schema: "jsonl",
   loadedExport: ["sampler"],
   createdAt: "2026-08-30T20:05:28.032Z",
-  updatedAt: "2026-10-18T14:00:54.435Z",
+  updatedAt: "2026-10-20T11:13:33.784Z",
 } as const satisfies PageType
