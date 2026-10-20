@@ -23,7 +23,7 @@ export const attributeLuck = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An attribute with no points today is no reading rather than a zero.",
+      statement: "An attribute with no points yet today reads zero, drawn on its scale.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -40,5 +40,5 @@ export const attributeLuck = {
   ],
   carriedTo: ["router-app/alan-web"],
   createdAt: "2026-09-15T19:56:40.218Z",
-  updatedAt: "2026-10-18T13:28:15.838Z",
+  updatedAt: "2026-10-20T11:10:21.943Z",
 } as const satisfies Readout

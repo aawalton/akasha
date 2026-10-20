@@ -28,7 +28,7 @@ export const connectionWithJenny = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day with no stretch stating both its times is no reading rather than a zero.",
+      statement: "A day with no stretch stating both its times yet reads zero.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -42,5 +42,5 @@ export const connectionWithJenny = {
   carriedTo: ["router-app/smilingjenny-web"],
   madeFrom: "day-row-and-stretches",
   createdAt: "2026-10-13T13:47:26.474Z",
-  updatedAt: "2026-10-19T14:55:27.610Z",
+  updatedAt: "2026-10-20T11:10:21.943Z",
 } as const satisfies Readout

@@ -61,8 +61,15 @@ export const attributesReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A day nobody has opened yet is an absent reading rather than an unreachable source.",
+      statement: "An attribute today's tracking day carries nothing for yet reads zero.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Before today's tracking day is kept, every attribute read off it reads zero.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only a source that could not be read leaves its readings untaken.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -120,5 +127,5 @@ export const attributesReading = {
     },
   ],
   createdAt: "2026-09-04T00:05:30.403Z",
-  updatedAt: "2026-10-13T13:51:16.159Z",
+  updatedAt: "2026-10-20T11:10:21.943Z",
 } as const satisfies Module

@@ -26,7 +26,7 @@ export const attributeStrength = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An attribute with no points today is no reading rather than a zero.",
+      statement: "An attribute with no points yet today reads zero, drawn on its scale.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -54,5 +54,5 @@ export const attributeStrength = {
   carriedTo: ["router-app/alan-web"],
   madeFrom: "day-row",
   createdAt: "2026-09-03T17:02:13.537Z",
-  updatedAt: "2026-10-18T14:01:23.410Z",
+  updatedAt: "2026-10-20T11:10:21.943Z",
 } as const satisfies Readout

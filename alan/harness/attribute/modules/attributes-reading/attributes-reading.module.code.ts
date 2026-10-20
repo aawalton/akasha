@@ -162,9 +162,7 @@ const OFF_THE_DAY = [
   charisma.slug,
 ] as const
 
-const NO_DAY_KEPT = "no tracking day is kept for this day, so no attribute can be read off one"
-
-const NO_STRETCH_READ = "the tracking day carries no stretch this readout reads"
+const NO_POINTS_YET = 0
 
 type Read = Taken & { readonly keptOn: Readonly<Record<string, number>> }
 
@@ -202,27 +200,26 @@ async function readAttributes(now: Date, connections: ReadonlyMap<string, string
     unreadOn(saidBy(day.reason))
   } else if (day.value !== null) {
     const values = day.value
-    keep(strength.slug, strengthIn(values))
-    keep(endurance.slug, enduranceIn(values))
-    keep(wisdom.slug, wisdomIn(values))
-    keep(intelligence.slug, intelligenceIn(values))
+    keep(strength.slug, strengthIn(values) ?? NO_POINTS_YET)
+    keep(endurance.slug, enduranceIn(values) ?? NO_POINTS_YET)
+    keep(wisdom.slug, wisdomIn(values) ?? NO_POINTS_YET)
+    keep(intelligence.slug, intelligenceIn(values) ?? NO_POINTS_YET)
 
     const [stretchesRead] = await Promise.allSettled([stretchesOf(values)])
     if (stretchesRead.status === "fulfilled") {
       const stretches = stretchesRead.value
-      keep(charisma.slug, stretches === null ? null : charismaIn(stretches))
+      keep(charisma.slug, stretches === null ? NO_POINTS_YET : charismaIn(stretches))
       for (const [page, relationship] of connections) {
         const value = stretches === null ? null : connectionIn(stretches, relationship, now)
-        if (value === null) unread.push(`${page} — ${NO_STRETCH_READ}`)
-        else keptOn[page] = value
+        keptOn[page] = value ?? NO_POINTS_YET
       }
     } else {
       unread.push(`${charisma.slug} — ${saidBy(stretchesRead.reason)}`)
       unreadOn(saidBy(stretchesRead.reason))
     }
   } else {
-    for (const attribute of OFF_THE_DAY) unread.push(`${attribute} — ${NO_DAY_KEPT}`)
-    unreadOn(NO_DAY_KEPT)
+    for (const attribute of OFF_THE_DAY) kept[attribute] = NO_POINTS_YET
+    for (const page of connections.keys()) keptOn[page] = NO_POINTS_YET
   }
 
   return { kept, keptOn, unread }
