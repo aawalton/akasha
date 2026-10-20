@@ -9,10 +9,11 @@ export const archmageAmerys = {
   completion: "json",
   esoCharacterId: "8796093038720681",
   accountPage: "temper-account/alanarre",
+  targetBuildId: "01a156e9-34d2-7301-a473-64b1b0bcf407",
   race: "temper-race/redguard",
   class: "temper-class/sorcerer",
   firstName: "Amerys",
   readings: "jsonl",
   createdAt: "2026-04-29T16:44:14.300Z",
-  updatedAt: "2026-10-19T23:12:44.380Z",
+  updatedAt: "2026-10-20T11:11:12.139Z",
 } as const satisfies TemperAccountCharacter
