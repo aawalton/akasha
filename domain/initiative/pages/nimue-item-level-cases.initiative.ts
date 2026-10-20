@@ -60,7 +60,9 @@ export const nimueItemLevelCases = {
     "Tooltip text in a reading may plan a case or suggest a formula and never pins a formula.",
     "Every equipment value is checked against a character-sheet stat change.",
     "Each step changes one thing and reads the stat that change moves.",
+    "No piece is upgraded to legendary for a case alone.",
+    "A quality never captured at a level is inferred from the captured qualities' sequence, where it matches the legendary pieces captured.",
   ],
   createdAt: "2026-10-20T15:21:57.490Z",
-  updatedAt: "2026-10-20T15:21:57.490Z",
+  updatedAt: "2026-10-20T17:09:52.147Z",
 } as const satisfies Initiative
