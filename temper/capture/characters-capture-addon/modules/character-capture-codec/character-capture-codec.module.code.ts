@@ -39,7 +39,7 @@ import {
 import { getFoodIndex } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-food-map/character-capture-food-map.module.code.ts"
 import { getMundusIndex } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-mundus-map/character-capture-mundus-map.module.code.ts"
 import {
-  CHARACTER_PASSIVE_SKILL_COUNT,
+  characterPassiveSkillCount,
   getPassiveBitmaskIndex,
 } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-passive-map/character-capture-passive-map.module.code.ts"
 import {
@@ -50,7 +50,10 @@ import { getRaceIndex } from "akasha/temper/capture/characters-capture-addon/mod
 import { getScribedSkillPlace } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-scribed-skill-map/character-capture-scribed-skill-map.module.code.ts"
 import { captureScribingData } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-scribing/character-capture-scribing.module.code.ts"
 import { getPlayerSkillLineIndex } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-line-map/character-capture-skill-line-map.module.code.ts"
-import { getPlayerSkillIndex } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-map/character-capture-skill-map.module.code.ts"
+import {
+  getPlayerSkillIndex,
+  skillIndexOfPlace,
+} from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-map/character-capture-skill-map.module.code.ts"
 
 const CHARACTER_ARMOR_SLOTS = [
   EQUIP_SLOT_HEAD,
@@ -86,9 +89,11 @@ function slottedSkillIndex(slotIndex: number, hotbarCategory: number): number {
   }
   const [focusScriptId] = GetCraftedAbilityActiveScriptIds(boundId)
   if (focusScriptId === 0) return 0
-  return getScribedSkillPlace(
-    GetCraftedAbilityDisplayName(boundId),
-    GetCraftedAbilityScriptDisplayName(focusScriptId)
+  return skillIndexOfPlace(
+    getScribedSkillPlace(
+      GetCraftedAbilityDisplayName(boundId),
+      GetCraftedAbilityScriptDisplayName(focusScriptId)
+    )
   )
 }
 
@@ -206,7 +211,8 @@ export function captureCharacterBuild(): CharacterBuildData {
 
   const passiveBitmask: boolean[] = []
   const passiveRanks: number[] = []
-  for (let i = 0; i < CHARACTER_PASSIVE_SKILL_COUNT; i++) {
+  const passiveCount = characterPassiveSkillCount()
+  for (let i = 0; i < passiveCount; i++) {
     passiveBitmask.push(false)
     passiveRanks.push(0)
   }

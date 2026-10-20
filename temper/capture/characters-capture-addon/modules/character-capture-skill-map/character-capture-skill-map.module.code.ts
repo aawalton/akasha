@@ -18,6 +18,8 @@ function note(this: void, into: Places, one: Placed): undefined {
   return undefined
 }
 
+let indices: Places | undefined
+
 function placesOf(this: void): Places {
   const found: Places = {}
   for (const one of skillPages()) note(found, one)
@@ -25,7 +27,22 @@ function placesOf(this: void): Places {
   return found
 }
 
+function indicesOf(this: void): Places {
+  const places: number[] = []
+  for (const one of skillPages()) places.push(one.hashPlace)
+  for (const one of scribedSkillPages()) places.push(one.hashPlace)
+  places.sort((one, other) => one - other)
+  const found: Places = {}
+  for (const [index, place] of places.entries()) found[place] = index
+  return found
+}
+
+export function skillIndexOfPlace(place: number): number {
+  if (indices === undefined) indices = indicesOf()
+  return indices[place] ?? 0
+}
+
 export function getPlayerSkillIndex(esoSkillId: number): number {
   if (held === undefined) held = placesOf()
-  return held[esoSkillId] ?? 0
+  return skillIndexOfPlace(held[esoSkillId] ?? 0)
 }

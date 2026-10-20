@@ -5359,6 +5359,7 @@
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-enchant-quality/character-capture-enchant-quality.module.ts","id":"01a0616b-9b51-721f-941f-564f2f6934aa"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.ts","id":"01a0616b-618d-790e-b832-fb5fba674711"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment/character-capture-equipment.module.ts","id":"01a0616b-69ef-7681-b39d-d35c456d1dc4"}
+{"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-passive-map/character-capture-passive-map.module.ts","id":"01a0616b-18bf-7c2e-9cbf-644b6da6a01a"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-potion-map/character-capture-potion-map.module.ts","id":"01a0616b-4d67-7eae-a7e9-5dba894d679f"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-race-map/character-capture-race-map.module.ts","id":"01a0616b-4cc4-79a8-bbd5-ed51f0322bc0"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-scribed-skill-map/character-capture-scribed-skill-map.module.ts","id":"01a0d62c-d5b4-75e1-b4ce-b66ae5e37c6b"}
