@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/catalog/modules/catalog-api-test/catalog-api-test.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-class-mastery/characters-class-mastery.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-passive-rank-ids/characters-passive-rank-ids.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-passive-trace/characters-passive-trace.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-reported-stats/characters-reported-stats.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-skill-lines/characters-skill-lines.module.code.ts","typed":false,"deferred":false}

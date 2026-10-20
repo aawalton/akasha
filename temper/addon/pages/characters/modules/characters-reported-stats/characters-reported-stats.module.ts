@@ -143,19 +143,9 @@ export const charactersReportedStats = {
         "A reading keeps each Archive verse and vision held, with its stacks and its text.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement:
-        "The first three readings of a session keep every passive's ability id at each rank.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement:
         "A reading keeps what the game gives of the class mastery lines where it has them.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A passive's ability ids are listed in rank order, so a place in the list is a rank.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -188,5 +178,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-20T16:35:01.662Z",
+  updatedAt: "2026-10-20T16:40:45.798Z",
 } as const satisfies Module

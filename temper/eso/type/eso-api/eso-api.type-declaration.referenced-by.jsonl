@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-archive-boons/characters-archive-boons.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-class-mastery/characters-class-mastery.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-list/characters-list.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-passive-rank-ids/characters-passive-rank-ids.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-passive-trace/characters-passive-trace.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-reported-stats/characters-reported-stats.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-rotation-reading/characters-rotation-reading.module.code.ts","typed":false,"deferred":false}

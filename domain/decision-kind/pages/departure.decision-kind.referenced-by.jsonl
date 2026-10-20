@@ -4395,6 +4395,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-inventory-hint-items/characters-inventory-hint-items.module.ts","id":"01a12634-ce22-7f9a-adaf-e052bbd9fff2"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-inventory-upkeep/characters-inventory-upkeep.module.ts","id":"01a0dee5-fc86-7cee-bb08-6e8be41ee7e7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-migrations/characters-migrations.module.ts","id":"01a062ed-39de-700d-94f4-00c1960edb12"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-passive-rank-ids/characters-passive-rank-ids.module.ts","id":"01a15a2f-d1e6-70d6-af7a-dfa105756429"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-placeholder-panel/characters-placeholder-panel.module.ts","id":"01a062ee-f005-7067-a2e3-051e87a6719f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-player-stats/characters-player-stats.module.ts","id":"01a062ed-3953-7006-94d1-870f11c3c3fc"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-public-api/characters-public-api.module.ts","id":"01a06324-9ff8-7061-9aeb-8aa8acce0372"}
