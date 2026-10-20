@@ -4,3 +4,5 @@
 {"id":"01a1570b-8164-7bf5-9a4a-99dc1a2a8236","metricId":"temper-metric-tree/metric-magicka-ability-cost","type":"fractional-change","value":-0.02,"rank":1}
 {"id":"01a1570b-8166-7898-8e32-8661ef268d24","metricId":"temper-metric-tree/metric-stamina-ability-cost","type":"fractional-change","value":-0.02,"rank":1}
 {"id":"01a1570b-8169-7fc7-9078-d4c4ecd9642d","metricId":"temper-metric-tree/metric-ultimate-ability-cost","type":"fractional-change","value":-0.02,"rank":1}
+{"id":"01a15b00-322d-7c21-9a36-735711340f80","metricId":"temper-metric-tree/metric-stamina-dodge-cost","type":"fractional-change","value":-0.06,"rank":3}
+{"id":"01a15b00-322f-70ec-b3d5-43c3d0c63331","metricId":"temper-metric-tree/metric-stamina-dodge-cost","type":"fractional-change","value":-0.02,"rank":1}
