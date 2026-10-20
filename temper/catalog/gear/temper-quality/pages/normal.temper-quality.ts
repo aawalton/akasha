@@ -11,9 +11,9 @@ export const normal = {
   hashPlace: 1,
   esoDisplayQuality: 1,
   gameName: "Normal",
-  weaponLevelScale: 0.8029962546816479,
+  weaponLevelScale: 0.7767790262172285,
   armorLevelScale: 0.9083,
   setBonusScale: 0.9067,
   createdAt: "2026-05-16T07:51:31.601Z",
-  updatedAt: "2026-09-27T04:15:45.000Z",
+  updatedAt: "2026-10-20T02:13:32.419Z",
 } as const satisfies TemperQuality
