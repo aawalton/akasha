@@ -74,6 +74,9 @@ export type Changes = {
   "change-agent/copy-property-on-every-page": Parameters<
     typeof import("akasha/change/agent/page-type/copy-property-on-every-page/copy-property-on-every-page.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/correct-reading-booleans": Parameters<
+    typeof import("akasha/change/agent/file-content/correct-reading-booleans/correct-reading-booleans.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/divide-file-code": Parameters<
     typeof import("akasha/change/agent/file/divide-file-code/divide-file-code.change-agent.code.ts")["runChange"]
   >[1]
