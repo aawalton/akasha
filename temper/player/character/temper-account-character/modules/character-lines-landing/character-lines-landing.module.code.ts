@@ -60,13 +60,18 @@ export interface LinesLanded {
   readonly unplaced: readonly string[]
 }
 
-export type LinesWith<T> = (held: string | null, items: readonly T[]) => string | null
+export type LinesWith<T> = (
+  held: string | null,
+  items: readonly T[],
+  besideHeld: string | null
+) => string | null
 
 export type LinesKind<T> = {
   readonly property: string
   readonly what: string
   readonly left: string
   readonly linesWith: LinesWith<T>
+  readonly beside?: string
 }
 
 function unplacedWhy(slug: string, left: string): string {
@@ -98,7 +103,17 @@ export async function characterLinesLanded<T>(
     kind.property,
     LINES_ENDING
   )
-  const found = await (deps.readFiles ?? readFiles)([...beside.values()])
+  const alongside =
+    kind.beside === undefined
+      ? new Map<string, string>()
+      : await besidePathsFor(
+          deps.readPages ?? readPages,
+          CHARACTER_PAGE_TYPE_SLUG,
+          slugs,
+          kind.beside,
+          LINES_ENDING
+        )
+  const found = await (deps.readFiles ?? readFiles)([...beside.values(), ...alongside.values()])
   if (!found.ok) throw new Error(`the ${kind.property} files went unread: ${found.why}`)
 
   const puts: { path: string; content: string }[] = []
@@ -107,7 +122,9 @@ export async function characterLinesLanded<T>(
   for (const slug of slugs) {
     const path = beside.get(slug) ?? ""
     const held = contentIn(found.bodies, path)
-    const written = kind.linesWith(held, bySlug.get(slug) ?? [])
+    const besideAt = alongside.get(slug)
+    const besideHeld = besideAt === undefined ? null : contentIn(found.bodies, besideAt)
+    const written = kind.linesWith(held, bySlug.get(slug) ?? [], besideHeld)
     if (written === null) continue
     landed = landed + jsonlLinesOf(written).length - jsonlLinesOf(held).length
     puts.push({ path, content: written })

@@ -83,6 +83,7 @@
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"refusals","propertySlug":"refusals","fileName":null,"folderName":null,"generated":true}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"relation-weights","propertySlug":"relation-weights","fileName":null,"folderName":null,"generated":true}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"relationship-notes","propertySlug":"relationship-notes","fileName":null,"folderName":null}
+{"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"removed-readings","propertySlug":"removed-readings","fileName":null,"folderName":null}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"review-session-notes","propertySlug":"notes","fileName":null,"folderName":null}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"router-app-git-ignore","propertySlug":"git-ignore","fileName":".gitignore","folderName":null}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"rows","propertySlug":"rows","fileName":null,"folderName":null,"generated":true}

@@ -133,6 +133,7 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/player/character/stat/temper-stat-case/properties/verified-stats.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/player/character/temper-account-character/properties/fights.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/player/character/temper-account-character/properties/readings.file-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/player/character/temper-account-character/properties/removed-readings.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/data.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/settings.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/player/character/thing/properties/completion.file-property.ts","typed":true,"deferred":false}

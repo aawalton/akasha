@@ -16,6 +16,7 @@ export const temperAccountCharacter = {
     "module/character-lines-landing",
     "module/character-race-class",
     "file-property/readings",
+    "file-property/removed-readings",
   ],
   properties: [
     { pageProperty: "text-property/eso-character-id", required: true, many: false },
@@ -32,6 +33,7 @@ export const temperAccountCharacter = {
     },
     { pageProperty: "file-property/fights", required: false, many: false },
     { pageProperty: "file-property/readings", required: false, many: false },
+    { pageProperty: "file-property/removed-readings", required: false, many: false },
   ],
   decisions: [
     {
@@ -46,5 +48,5 @@ export const temperAccountCharacter = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T01:48:48.327Z",
-  updatedAt: "2026-10-19T23:31:52.865Z",
+  updatedAt: "2026-10-20T11:30:13.417Z",
 } as const satisfies PageType

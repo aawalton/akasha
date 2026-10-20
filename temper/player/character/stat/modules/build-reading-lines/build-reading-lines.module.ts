@@ -28,7 +28,19 @@ export const buildReadingLines = {
       decisionKind: "decision-kind/departure",
       statement: "The first reading of a result is the one kept.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading's capture is named by its bar and the instant the add-on took it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A capture a line already holds lands nothing, whatever its result.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A capture the character's removed readings name lands nothing, ever again.",
+    },
   ],
   createdAt: "2026-10-19T19:04:58.943Z",
-  updatedAt: "2026-10-19T19:04:58.943Z",
+  updatedAt: "2026-10-20T11:30:13.417Z",
 } as const satisfies Module

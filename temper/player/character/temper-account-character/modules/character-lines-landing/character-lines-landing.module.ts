@@ -26,9 +26,13 @@ export const characterLinesLanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A kind of line may name a second file beside each character for that judging.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A character's name folds to its page's slug with its accents taken off first.",
     },
   ],
   createdAt: "2026-10-19T19:00:36.676Z",
-  updatedAt: "2026-10-19T19:20:19.591Z",
+  updatedAt: "2026-10-20T11:30:13.417Z",
 } as const satisfies Module

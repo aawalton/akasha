@@ -46,3 +46,21 @@ test("a new result is added after the results held, once", () => {
   expect(written.split("\n").filter((line) => line !== "")).toHaveLength(2)
   expect(written.startsWith(body ?? "")).toBe(true)
 })
+
+test("a capture a line holds lands nothing, though its result is new", () => {
+  const body = readingsWith(null, [READING])
+  const repaired = { ...READING, buildHash: "ATQJ" }
+  expect(readingsWith(body, [repaired])).toBe(null)
+})
+
+test("a capture the removed readings name lands nothing", () => {
+  const removed = `${JSON.stringify({ id: "01a1", bar: "frontBar", capturedAt: 1 })}\n`
+  expect(readingsWith(null, [READING], removed)).toBe(null)
+  const later = { ...READING, reading: { ...READING.reading, capturedAt: 9, inCombat: true } }
+  expect(readingsWith(null, [later], removed)).not.toBe(null)
+})
+
+test("a removed capture on the other bar keeps this bar's capture landing", () => {
+  const removed = `${JSON.stringify({ id: "01a1", bar: "backBar", capturedAt: 1 })}\n`
+  expect(readingsWith(null, [READING], removed)).not.toBe(null)
+})

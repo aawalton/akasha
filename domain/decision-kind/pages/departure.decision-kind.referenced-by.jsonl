@@ -6468,6 +6468,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account-character/modules/character-race-class/character-race-class.module.ts","id":"01a15681-d9a2-793a-869c-8bd071379f24"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account-character/properties/fights.file-property.ts","id":"01a15437-380d-7919-88d8-c794180aa539"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account-character/properties/readings.file-property.ts","id":"01a1558d-7f40-7d37-a329-70c6cbc0cda7"}
+{"propertySlug":"decision-kind","path":"temper/player/character/temper-account-character/properties/removed-readings.file-property.ts","id":"01a15913-8329-74fd-bd1a-dd16a45e62df"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account-character/temper-account-character.page-type.ts","id":"01a05fcd-f547-75dd-87b1-fce27e98fddd"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account/modules/account-address/account-address.module.ts","id":"01a0d429-47a8-7060-8ba6-1e2dc523c0f6"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account/properties/bag-sizes.page-property-entry.ts","id":"01a0675a-f185-72e7-ad66-35247edba53b"}
