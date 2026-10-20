@@ -20,6 +20,7 @@ import { temperQuality } from "akasha/temper/catalog/gear/temper-quality/temper-
 
 import { temperSetRule } from "akasha/temper/catalog/gear/temper-set-rule/temper-set-rule.page-type.ts"
 import { temperWeaponEnchant } from "akasha/temper/catalog/gear/temper-weapon-enchant/temper-weapon-enchant.page-type.ts"
+import { temperWeaponRule } from "akasha/temper/catalog/gear/temper-weapon-rule/temper-weapon-rule.page-type.ts"
 import { temperWeaponSlot } from "akasha/temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.ts"
 import { temperWeaponTrait } from "akasha/temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.ts"
 import { temperWeaponType } from "akasha/temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts"
@@ -46,6 +47,7 @@ export function useGearPages(): GearPages {
   const constants = usePages({ pageTypeSlug: temperEsoPlayerEquipmentConstant.slug, limit: EVERY })
   const weaponBars = usePages({ pageTypeSlug: temperWeaponBar.slug, limit: EVERY })
   const setRules = usePages({ pageTypeSlug: temperSetRule.slug, limit: EVERY })
+  const weaponRules = usePages({ pageTypeSlug: temperWeaponRule.slug, limit: EVERY })
   const weaponSlots = usePages({ pageTypeSlug: temperWeaponSlot.slug, limit: EVERY })
   const armorWeights = usePages({ pageTypeSlug: temperArmorWeight.slug, limit: EVERY })
   const grades = usePages({ pageTypeSlug: temperGearGrade.slug, limit: EVERY })
@@ -68,6 +70,7 @@ export function useGearPages(): GearPages {
     constants,
     weaponBars,
     setRules,
+    weaponRules,
     weaponSlots,
     armorWeights,
     grades,
@@ -96,6 +99,7 @@ export function useGearPages(): GearPages {
         [temperEsoPlayerEquipmentConstant.slug, constants.rows],
         [temperWeaponBar.slug, weaponBars.rows],
         [temperSetRule.slug, setRules.rows],
+        [temperWeaponRule.slug, weaponRules.rows],
         [temperWeaponSlot.slug, weaponSlots.rows],
         [temperArmorWeight.slug, armorWeights.rows],
         [temperGearGrade.slug, grades.rows],
@@ -119,6 +123,7 @@ export function useGearPages(): GearPages {
       constants.rows,
       weaponBars.rows,
       setRules.rows,
+      weaponRules.rows,
       weaponSlots.rows,
       armorWeights.rows,
       grades.rows,
