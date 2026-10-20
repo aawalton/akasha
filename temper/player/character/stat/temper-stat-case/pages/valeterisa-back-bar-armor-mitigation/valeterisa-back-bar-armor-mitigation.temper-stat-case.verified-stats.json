@@ -111,6 +111,8 @@
     "magicka-maximum": 66970,
     "magicka-recovery": 1351,
     "movement-sneak-speed": 100,
+    "penetration-physical": 6335,
+    "penetration-spell": 6335,
     "power-spell": 2335,
     "power-weapon": 2335,
     "resistance-critical": 1320,
@@ -144,8 +146,6 @@
     "healing-critical-bonus": 0,
     "healing-taken-base": 3,
     "movement-sprint-speed": 143,
-    "penetration-physical": 6335,
-    "penetration-spell": 6335,
     "sneak-cost": 79,
     "stamina-dodge-cost": 3230
   }

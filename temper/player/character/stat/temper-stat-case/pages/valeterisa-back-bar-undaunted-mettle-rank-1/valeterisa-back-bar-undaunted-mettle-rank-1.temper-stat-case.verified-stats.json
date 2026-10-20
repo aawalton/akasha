@@ -100,6 +100,8 @@
     "health-recovery": 373,
     "magicka-maximum": 53392,
     "magicka-recovery": 1329,
+    "penetration-physical": 6335,
+    "penetration-spell": 6335,
     "power-spell": 2335,
     "power-weapon": 2335,
     "resistance-critical": 1320,
@@ -110,8 +112,6 @@
   },
   "gaps": {
     "critical-rating-spell": 3819,
-    "critical-rating-weapon": 3819,
-    "penetration-physical": 6335,
-    "penetration-spell": 6335
+    "critical-rating-weapon": 3819
   }
 }
