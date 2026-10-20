@@ -9,14 +9,14 @@ export const nimueStatGaps = {
   parent: "initiative/nimue-correct-formulas",
   intentStack: [
     {
-      statement: "Ambidextrous has a pinned share of the off-hand weapon's power.",
-      workingMemory:
-        "The off-hand adds round(0.237 × its power) with Ambidextrous at rank 2. Temper names the passive Dual Wield Expert. Three-Color Stalker's readings near 19:30Z on 2026-10-20 run Ambidextrous at rank 0, 1 and 2.",
-    },
-    {
       statement: "A set worn at mixed item levels reproduces every reading wearing it.",
       workingMemory:
-        "Erin's CP150 Ashen Grip two-hander worn with CP160 pieces misses power by 3 to 6 at normal through epic. The weapon's own power matches at every quality.",
+        "Erin's CP150 Ashen Grip two-hander worn with CP160 pieces misses power by 3 to 6. Counting the two-hander twice in the 3- and 4-piece lines closes Erin's gaps and puts Mrsha's Darloc Brae 3-piece at 124 against the game's 123. Mrsha's back-bar capture with two superior jewelry pieces tells the two apart.",
+    },
+    {
+      statement: "Weapon power is one curve, with a multiplier for two-handed melee weapons.",
+      workingMemory:
+        "One-handers, bows and staves share 1037 at normal CP160. Two-handed melee is 1220, about 20/17 of that, and Temper holds it as per-type values.",
     },
     {
       statement: "Durene's armor reproduces every reading with five heavy pieces.",
@@ -35,5 +35,5 @@ export const nimueStatGaps = {
     "A reading a gap needs is asked of Alan once its own fit has used every reading already landed.",
   ],
   createdAt: "2026-10-20T18:20:16.239Z",
-  updatedAt: "2026-10-20T19:34:06.363Z",
+  updatedAt: "2026-10-20T19:40:06.586Z",
 } as const satisfies Initiative
