@@ -18,9 +18,10 @@ export const elderDragon29460 = {
   rank: 22,
   skillLineId: "temper-skill-line/dragonknight-draconic-power",
   skillType: "temper-skill-type/passive",
+  effects: "jsonl",
   hashPlace: 398,
   createdAt: "2026-05-28T16:03:32.236Z",
-  updatedAt: "2026-10-20T16:39:41.905Z",
+  updatedAt: "2026-10-20T17:27:15.270Z",
   equations: [
     "<<1>> = Minor Brutality (Constant)",
     "<<2>> = 20 seconds (Constant)",

@@ -87,6 +87,16 @@ export const statCase = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A case keeps the Health and the Elder Dragon amount its reading held, where kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reading's Elder Dragon amount is its own key, or else what Elder Dragon's kept text says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An estimate names each buff it was handed that no buff page names.",
     },
     {
@@ -125,5 +135,5 @@ export const statCase = {
     },
   ],
   createdAt: "2026-10-14T17:18:43.951Z",
-  updatedAt: "2026-10-20T16:43:30.990Z",
+  updatedAt: "2026-10-20T17:27:15.270Z",
 } as const satisfies Module

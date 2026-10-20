@@ -9,8 +9,7 @@ export function unsteadyOf(
   named: string,
   passives: readonly string[] = []
 ): string | null {
-  const unpaired =
-    reading.healthPaired !== true && reading.health !== reading.stats["health-maximum"]
+  const unpaired = reading.healthPaired !== true
   if (named === "health-recovery" && passives.includes(ELDER_DRAGON) && unpaired) {
     return "Health unpaired under Elder Dragon"
   }

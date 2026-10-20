@@ -56,6 +56,8 @@ function formatEffectValue(effect: MetricEffect): string {
       return `+${Math.round(effect.effectValue).toLocaleString()}/stack`
     case "integer-per-ten-ultimate":
       return `+${Math.round(effect.effectValue).toLocaleString()}/10 Ultimate`
+    case "integer-per-missing-health":
+      return `up to +${Math.round(effect.effectValue).toLocaleString()} by missing Health`
     case "number":
       return `+${effect.effectValue.toLocaleString()}`
     case "number-per-seconds": {

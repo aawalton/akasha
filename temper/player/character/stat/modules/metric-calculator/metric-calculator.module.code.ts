@@ -121,6 +121,37 @@ function withUltimate(source: EffectSource, ultimate: number): EffectSource {
   return { ...source, effects } as EffectSource
 }
 
+function isPerMissingHealth(effect: unknown): boolean {
+  return isMetricEffect(effect) && effect.effectType === "integer-per-missing-health"
+}
+
+function withMissingHealth(source: EffectSource, given: (atFull: number) => number): EffectSource {
+  if (!source.effects.some(isPerMissingHealth)) return source
+  const effects = source.effects.map((effect) =>
+    isMetricEffect(effect) && effect.effectType === "integer-per-missing-health"
+      ? { ...effect, effectType: "integer" as const, effectValue: given(effect.effectValue) }
+      : effect
+  )
+  return { ...source, effects } as EffectSource
+}
+
+type HealthHeld = { readonly health?: number | undefined; readonly amount?: number | undefined }
+
+function withHealthHeld(sources: readonly EffectSource[], held: HealthHeld): EffectSource[] {
+  if (!sources.some((source) => source.effects.some(isPerMissingHealth))) return [...sources]
+  if (held.amount !== undefined) {
+    const amount = held.amount
+    return sources.map((source) => withMissingHealth(source, () => amount))
+  }
+  const none = sources.map((source) => withMissingHealth(source, () => 0))
+  const health = held.health
+  if (health === undefined) return none
+  const maximum = calculateBaseStats(none)["health-maximum"]?.value ?? 0
+  if (maximum <= 0) return none
+  const missing = Math.max(0, maximum - health) / maximum
+  return sources.map((source) => withMissingHealth(source, (atFull) => atFull * missing))
+}
+
 function isHigherOf(effect: unknown): boolean {
   return isMetricEffect(effect) && effect.higherOf !== undefined
 }
@@ -274,7 +305,8 @@ export function calculateReadingStatsByBar(
     readonly stacks?: number | undefined
   }[],
   stars?: readonly StarPoints[],
-  ultimate = 0
+  ultimate = 0,
+  healthHeld: HealthHeld = {}
 ): CalculationResult & { unmatchedBuffNames: readonly string[] } {
   const buffByName = new Map<string, EffectSource>()
   for (const buff of Object.values(buffOrDebuff().data)) buffByName.set(buff.name, buff)
@@ -310,7 +342,7 @@ export function calculateReadingStatsByBar(
   )
   const built =
     stars === undefined ? fromBuild : fromBuild.flatMap((source) => asSpent(source, spent) ?? [])
-  const sources: EffectSource[] = [baseSource(), ...built, ...activeBuffs]
+  const sources = withHealthHeld([baseSource(), ...built, ...activeBuffs], healthHeld)
   return { sources, metrics: calculateBaseStats(sources), unmatchedBuffNames }
 }
 

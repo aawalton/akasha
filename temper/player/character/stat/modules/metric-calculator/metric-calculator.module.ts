@@ -130,7 +130,21 @@ export const metricCalculator = {
       decisionKind: "decision-kind/departure",
       statement: "An estimate handed no Ultimate takes none held.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A per-missing-Health effect gives the amount the reading's game text gave, if kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Otherwise it gives its value times the share of Health missing from the estimated maximum.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An estimate handed no Health takes none missing.",
+    },
   ],
   createdAt: "2026-09-02T14:06:51.856Z",
-  updatedAt: "2026-10-20T16:43:30.990Z",
+  updatedAt: "2026-10-20T17:27:15.270Z",
 } as const satisfies Module

@@ -39,7 +39,10 @@ import {
 } from "akasha/temper/player/character/stat/modules/extract-sets/extract-sets.module.code.ts"
 import { isUnsettled } from "akasha/temper/player/character/stat/modules/fete-unsettled/fete-unsettled.module.code.ts"
 import { loadMetricCatalog } from "akasha/temper/player/character/stat/modules/metric-catalog-loading/metric-catalog-loading.module.code.ts"
-import { estimatedOf } from "akasha/temper/player/character/stat/modules/stat-case/stat-case.module.code.ts"
+import {
+  elderDragonHeldOf,
+  estimatedOf,
+} from "akasha/temper/player/character/stat/modules/stat-case/stat-case.module.code.ts"
 import { readings } from "akasha/temper/player/character/temper-account-character/properties/readings.file-property.ts"
 import { temperAccountCharacter } from "akasha/temper/player/character/temper-account-character/temper-account-character.page-type.ts"
 
@@ -91,6 +94,7 @@ function comparedOf(line: ReadingLine): Compared {
       esoVersion: reading.esoVersion ?? "",
       inCombat: reading.inCombat,
       ...(reading.ultimate === undefined ? {} : { ultimate: reading.ultimate }),
+      ...elderDragonHeldOf(reading),
       activeBuffs: reading.activeBuffs ?? [],
       championPoints: reading.championPoints ?? [],
     })

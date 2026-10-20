@@ -20,7 +20,12 @@ export const unsteadyRecovery = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Health recovery under Elder Dragon is a steady value only at full Health or with its Health paired.",
+        "Health recovery under Elder Dragon is a steady value only with its Health paired.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Health recovery can keep the Elder Dragon amount of the last tick before Health filled.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -28,5 +33,5 @@ export const unsteadyRecovery = {
     },
   ],
   createdAt: "2026-10-20T14:18:17.227Z",
-  updatedAt: "2026-10-20T17:12:21.574Z",
+  updatedAt: "2026-10-20T17:27:15.270Z",
 } as const satisfies Module

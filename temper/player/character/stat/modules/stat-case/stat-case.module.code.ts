@@ -32,6 +32,8 @@ export const statCaseShape = z.strictObject({
   esoVersion: z.string(),
   inCombat: z.boolean(),
   ultimate: z.number().optional(),
+  health: z.number().optional(),
+  elderDragonAmount: z.number().optional(),
   activeBuffs: z.array(listedBuff),
   championPoints: z.array(spentStar),
   pinned: statsByName,
@@ -55,12 +57,47 @@ export function estimatedOf(read: Omit<StatCase, "pinned" | "gaps">): Estimated 
     read.bar,
     read.activeBuffs,
     read.championPoints,
-    read.ultimate
+    read.ultimate,
+    { health: read.health, amount: read.elderDragonAmount }
   )
   const metrics = estimated.metrics as Record<string, { value: number } | undefined>
   return {
     estimate: (stat) => metrics[stat]?.value ?? 0,
     unmatchedBuffNames: estimated.unmatchedBuffNames,
+  }
+}
+
+const ELDER_DRAGON_RANKS: ReadonlySet<number> = new Set([29460, 44951])
+
+const AMOUNT_MARK = "Current amount: |cffffff"
+
+type AmountHeld = {
+  readonly elderDragonAmount?: number | undefined
+  readonly classPassives?:
+    | readonly { readonly abilityId: number; readonly description: string }[]
+    | undefined
+}
+
+export function elderDragonAmountOf(reading: AmountHeld): number | undefined {
+  if (reading.elderDragonAmount !== undefined) return reading.elderDragonAmount
+  const passive = reading.classPassives?.find((one) => ELDER_DRAGON_RANKS.has(one.abilityId))
+  if (passive === undefined) return undefined
+  const at = passive.description.indexOf(AMOUNT_MARK)
+  if (at < 0) return undefined
+  const rest = passive.description.slice(at + AMOUNT_MARK.length)
+  const amount = Number(rest.slice(0, rest.indexOf("|r")))
+  return Number.isInteger(amount) ? amount : undefined
+}
+
+export function elderDragonHeldOf(reading: AmountHeld & { readonly health?: number | undefined }): {
+  readonly health?: number
+  readonly elderDragonAmount?: number
+} {
+  const amount = elderDragonAmountOf(reading)
+  if (amount === undefined) return {}
+  return {
+    ...(reading.health === undefined ? {} : { health: reading.health }),
+    elderDragonAmount: amount,
   }
 }
 
@@ -145,6 +182,10 @@ export function statCaseText(statCase: StatCase): string {
     `  "esoVersion": ${JSON.stringify(statCase.esoVersion)},`,
     `  "inCombat": ${String(statCase.inCombat)},`,
     ...(statCase.ultimate === undefined ? [] : [`  "ultimate": ${String(statCase.ultimate)},`]),
+    ...(statCase.health === undefined ? [] : [`  "health": ${String(statCase.health)},`]),
+    ...(statCase.elderDragonAmount === undefined
+      ? []
+      : [`  "elderDragonAmount": ${String(statCase.elderDragonAmount)},`]),
     `  "activeBuffs": ${listed(statCase.activeBuffs)},`,
     `  "championPoints": ${listed(statCase.championPoints)},`,
     `  "pinned": ${byStat(statCase.pinned)},`,

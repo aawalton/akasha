@@ -14,6 +14,7 @@ import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/s
 import { isUnsettled } from "akasha/temper/player/character/stat/modules/fete-unsettled/fete-unsettled.module.code.ts"
 import { loadMetricCatalog } from "akasha/temper/player/character/stat/modules/metric-catalog-loading/metric-catalog-loading.module.code.ts"
 import {
+  elderDragonHeldOf,
   pinnedCaseOf,
   sheetStatsOf,
   statCaseText,
@@ -161,6 +162,7 @@ export function pinStatCaseCommand(world: World, given: Asked, pin: Pin): Answer
     esoVersion,
     inCombat: reading.inCombat,
     ...(reading.ultimate === undefined ? {} : { ultimate: reading.ultimate }),
+    ...elderDragonHeldOf(reading),
     activeBuffs: reading.activeBuffs ?? [],
     championPoints: reading.championPoints ?? [],
     stats: settledOf({ ...reading.stats, ...sheetStatsOf(reading.advancedSheet) }, reading.fete),

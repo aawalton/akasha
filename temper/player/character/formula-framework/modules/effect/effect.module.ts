@@ -29,9 +29,14 @@ export const effect = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A per-missing-Health effect states the flat value it gives with all Health missing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An effect may name the buffs it holds only while one is up.",
     },
   ],
   createdAt: "2026-09-02T04:46:21.408Z",
-  updatedAt: "2026-10-20T17:20:39.400Z",
+  updatedAt: "2026-10-20T17:27:15.270Z",
 } as const satisfies Module

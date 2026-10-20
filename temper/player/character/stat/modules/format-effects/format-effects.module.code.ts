@@ -148,6 +148,9 @@ function formatMetricEffectValue(effect: MetricEffect): string {
     case "integer-per-ten-ultimate": {
       return `${effect.effectValue.toString()}/10 Ultimate`
     }
+    case "integer-per-missing-health": {
+      return `up to ${effect.effectValue.toString()} by missing Health`
+    }
     case "number-per-seconds":
     case "number-for-seconds": {
       return effect.effectValue.value.toString()

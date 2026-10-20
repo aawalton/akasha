@@ -63,6 +63,11 @@ export const pinStatCase = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Where the line gives an Elder Dragon amount, the case keeps it and the Health held.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The case pins each Advanced Stats row the line keeps under the stat whose page names that row.",
     },
     {
@@ -78,5 +83,5 @@ export const pinStatCase = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-10-14T17:23:45.028Z",
-  updatedAt: "2026-10-20T16:43:30.990Z",
+  updatedAt: "2026-10-20T17:27:15.270Z",
 } as const satisfies ChangeAgent

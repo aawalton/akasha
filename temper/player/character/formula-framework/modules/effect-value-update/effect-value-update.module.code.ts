@@ -9,6 +9,7 @@ export function updateEffectValue<T extends MetricEffect>(
     effect.effectType === "integer" ||
     effect.effectType === "integer-per-stack" ||
     effect.effectType === "integer-per-ten-ultimate" ||
+    effect.effectType === "integer-per-missing-health" ||
     effect.effectType === "fractional-change" ||
     effect.effectType === "number"
   ) {

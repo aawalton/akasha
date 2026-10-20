@@ -341,6 +341,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/memory/modules/hks-global-finding/hks-global-finding.module.ts","id":"01a15586-9c1d-7af9-88ac-e4ff7299d377"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/memory/modules/hks-table-reading/hks-table-reading.module.ts","id":"01a1557b-6545-7655-aa04-bb9d6f917b09"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.ts","id":"01a09f61-ca3e-75ea-9e65-23af74517db1"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/stat-compare/modules/unsteady-recovery/unsteady-recovery.module.ts","id":"01a159ad-610a-7000-b340-6e4e4e86b030"}
 {"propertySlug":"decision-kind","path":"command/pages/track/food/track-food.command.ts","id":"01a06809-250b-7ec1-99ac-2150ec2c5f74"}
 {"propertySlug":"decision-kind","path":"design/interface/pattern/modules/query-error-boundary/query-error-boundary.module.ts","id":"01a061ed-653b-73ef-8556-969d798ee2a5"}
 {"propertySlug":"decision-kind","path":"design/language/design-language.domain.ts","id":"01a06600-0000-7000-8000-000000000003"}
