@@ -38,7 +38,7 @@ export function evaluateFormula(
   }
 
   const context: PlayerFormulaContext = { metric, sources, metricValues }
-  return evaluateArithmeticNode(metric.formula, context, evaluatePlayerLeaf)
+  return evaluateArithmeticNode(metric.formula, context, evaluatePlayerLeaf, Math.fround)
 }
 
 export function roundMetricValue(metric: Metric, value: number): number {
@@ -191,11 +191,14 @@ function evaluatePlayerLeaf(node: FormulaNode, context: PlayerFormulaContext): n
         }
       }
 
-      return effectValues.reduce((product, value) => product * (1 + value), 1)
+      return effectValues.reduce(
+        (product, value) => Math.fround(product * Math.fround(1 + value)),
+        1
+      )
     }
 
     case "floor-product": {
-      let result = evaluateArithmeticNode(node.operand, context, evaluatePlayerLeaf)
+      let result = evaluateArithmeticNode(node.operand, context, evaluatePlayerLeaf, Math.fround)
 
       const metricIds = getAggregateMetricIds(metric.id)
 
@@ -227,7 +230,7 @@ function evaluatePlayerLeaf(node: FormulaNode, context: PlayerFormulaContext): n
       }
 
       for (const value of effectValues) {
-        result = Math.floor(result * (1 + value))
+        result = Math.floor(Math.fround(result * Math.fround(1 + value)))
       }
 
       return result
@@ -238,11 +241,21 @@ function evaluatePlayerLeaf(node: FormulaNode, context: PlayerFormulaContext): n
         return 1
       }
 
-      let result = evaluateArithmeticNode(requireFirst(node.operands), context, evaluatePlayerLeaf)
+      let result = evaluateArithmeticNode(
+        requireFirst(node.operands),
+        context,
+        evaluatePlayerLeaf,
+        Math.fround
+      )
 
       for (const operand of node.operands.slice(1)) {
-        const operandValue = evaluateArithmeticNode(operand, context, evaluatePlayerLeaf)
-        result = Math.floor(result * operandValue)
+        const operandValue = evaluateArithmeticNode(
+          operand,
+          context,
+          evaluatePlayerLeaf,
+          Math.fround
+        )
+        result = Math.floor(Math.fround(result * operandValue))
       }
 
       return result

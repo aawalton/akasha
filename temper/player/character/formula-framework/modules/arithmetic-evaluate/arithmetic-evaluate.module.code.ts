@@ -24,24 +24,29 @@ function isArithmeticNode<F>(node: F): node is F & ArithmeticNode<F> {
   )
 }
 
+function asIs(value: number): number {
+  return value
+}
+
 export function evaluateArithmeticNode<TNode, TContext>(
   node: TNode,
   context: TContext,
-  evaluateLeaf: (leaf: TNode, given: TContext) => number
+  evaluateLeaf: (leaf: TNode, given: TContext) => number,
+  held: (value: number) => number = asIs
 ): number {
   if (!isArithmeticNode<TNode>(node)) {
-    return evaluateLeaf(node, context)
+    return held(evaluateLeaf(node, context))
   }
 
   if (isConstantNode<TNode>(node)) {
-    return node.value
+    return held(node.value)
   }
 
   switch (node.type) {
     case "add": {
       let result = 0
       for (const operand of node.operands) {
-        result += evaluateArithmeticNode(operand, context, evaluateLeaf)
+        result = held(result + evaluateArithmeticNode(operand, context, evaluateLeaf, held))
       }
       return result
     }
@@ -49,7 +54,7 @@ export function evaluateArithmeticNode<TNode, TContext>(
     case "multiply": {
       let result = 1
       for (const operand of node.operands) {
-        result *= evaluateArithmeticNode(operand, context, evaluateLeaf)
+        result = held(result * evaluateArithmeticNode(operand, context, evaluateLeaf, held))
       }
       return result
     }
@@ -59,7 +64,7 @@ export function evaluateArithmeticNode<TNode, TContext>(
         throw new Error("Divide node requires at least one operand")
       }
       const values = node.operands.map((operand) =>
-        evaluateArithmeticNode(operand, context, evaluateLeaf)
+        evaluateArithmeticNode(operand, context, evaluateLeaf, held)
       )
       let result = requireFirst(values, "divide values")
       let isFirst = true
@@ -71,13 +76,13 @@ export function evaluateArithmeticNode<TNode, TContext>(
         if (value === 0) {
           throw new Error(`Division by zero: dividing ${result} by ${value}`)
         }
-        result = result / value
+        result = held(result / value)
       }
       return result
     }
 
     case "floor": {
-      const value = evaluateArithmeticNode(node.operand, context, evaluateLeaf)
+      const value = evaluateArithmeticNode(node.operand, context, evaluateLeaf, held)
       return Math.floor(value)
     }
 
@@ -86,7 +91,9 @@ export function evaluateArithmeticNode<TNode, TContext>(
         throw new Error("Max node requires at least one operand")
       }
       return Math.max(
-        ...node.operands.map((operand) => evaluateArithmeticNode(operand, context, evaluateLeaf))
+        ...node.operands.map((operand) =>
+          evaluateArithmeticNode(operand, context, evaluateLeaf, held)
+        )
       )
     }
 
@@ -95,7 +102,9 @@ export function evaluateArithmeticNode<TNode, TContext>(
         throw new Error("Min node requires at least one operand")
       }
       return Math.min(
-        ...node.operands.map((operand) => evaluateArithmeticNode(operand, context, evaluateLeaf))
+        ...node.operands.map((operand) =>
+          evaluateArithmeticNode(operand, context, evaluateLeaf, held)
+        )
       )
     }
 

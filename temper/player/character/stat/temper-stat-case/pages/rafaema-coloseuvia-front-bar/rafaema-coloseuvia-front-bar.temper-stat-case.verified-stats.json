@@ -113,9 +113,8 @@
     "resistance-critical": 1320,
     "resistance-physical": 12828,
     "resistance-spell": 12828,
+    "stamina-maximum": 25336,
     "stamina-recovery": 749
   },
-  "gaps": {
-    "stamina-maximum": 25336
-  }
+  "gaps": {}
 }
