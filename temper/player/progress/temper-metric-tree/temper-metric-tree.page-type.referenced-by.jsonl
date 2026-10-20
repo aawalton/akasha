@@ -125,6 +125,8 @@
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-damage-taken-from-area.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-damage-taken-ha.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-damage-taken-la.temper-metric-tree.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-damage-taken-magical.temper-metric-tree.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-damage-taken-martial.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-damage-taken-trial.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-damage-taken.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-defense-crit-dmg.temper-metric-tree.ts","typed":true,"deferred":false}

@@ -64,6 +64,8 @@
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/damage-taken-from-area/damage-taken-from-area.temper-metric.formula.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/damage-taken-ha/damage-taken-ha.temper-metric.formula.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/damage-taken-la/damage-taken-la.temper-metric.formula.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/damage-taken-magical/damage-taken-magical.temper-metric.formula.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/damage-taken-martial/damage-taken-martial.temper-metric.formula.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/damage-taken-trial/damage-taken-trial.temper-metric.formula.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/damage-taken/damage-taken.temper-metric.formula.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/defense-crit-dmg/defense-crit-dmg.temper-metric.formula.ts","typed":true,"deferred":false}
