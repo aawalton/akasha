@@ -37,11 +37,7 @@ export const completionRecord = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A buff in a reading keeps how long before the reading the game last changed it.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A reading keeps each buff that faded in the ten seconds before it was taken.",
+      statement: "A reading may keep Escalating Fete's stacks and how long ago Fete last changed.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -118,5 +114,5 @@ export const completionRecord = {
     },
   ],
   createdAt: "2026-09-02T04:57:23.388Z",
-  updatedAt: "2026-10-20T14:01:22.750Z",
+  updatedAt: "2026-10-20T14:06:09.069Z",
 } as const satisfies Module

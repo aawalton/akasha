@@ -146,13 +146,11 @@ const activeBuffSchema = z.strictObject({
   description: z.string().optional(),
   effect: z.string().optional(),
   stacks: z.number().optional(),
-  changedMsAgo: z.number().optional(),
 })
 
-const lostBuffSchema = z.strictObject({
-  abilityId: z.number(),
-  name: z.string(),
-  changedMsAgo: z.number(),
+const feteSchema = z.strictObject({
+  stacks: z.number(),
+  changedMsAgo: z.number().optional(),
 })
 
 const championStarSchema = z.strictObject({
@@ -229,7 +227,7 @@ export const reportedStatsReadingSchema = z.strictObject({
   stats: z.record(z.string(), z.number()),
   unbonusedStats: z.record(z.string(), z.number()).optional(),
   activeBuffs: luaArrayOrEmpty(activeBuffSchema).optional(),
-  lostBuffs: luaArrayOrEmpty(lostBuffSchema).optional(),
+  fete: feteSchema.optional(),
   pets: luaArrayOrEmpty(petSchema).optional(),
   championPoints: luaArrayOrEmpty(championStarSchema).optional(),
   worn: luaArrayOrEmpty(wornPieceSchema).optional(),
