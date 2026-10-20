@@ -51,16 +51,20 @@ export const temperMemoryReading = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Every region is searched only once a global kept no longer reads, or on a reload.",
+        "Every region is searched only once a global kept no longer reads, or after a write.",
     },
     {
-      decisionKind: "decision-kind/departure",
+      decisionKind: "decision-kind/constraint",
       statement:
-        "The game writing the characters' saved variables while it runs is a reload of its add-ons.",
+        "The characters' saved variables are written by a reload and by other writers alike.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A global held before a reload is never held again.",
+      statement: "After that file is written, four searches look past the globals held then.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A global those searches do not replace is kept while it still reads.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -81,5 +85,5 @@ export const temperMemoryReading = {
     },
   ],
   createdAt: "2026-10-19T19:08:25.036Z",
-  updatedAt: "2026-10-20T17:34:17.265Z",
+  updatedAt: "2026-10-20T17:59:42.289Z",
 } as const satisfies ServiceWorkstation

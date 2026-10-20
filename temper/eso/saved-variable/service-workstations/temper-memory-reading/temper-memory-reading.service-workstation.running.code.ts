@@ -146,7 +146,7 @@ function watchingOf(
     stillHeld(read, kept.characters) !== null &&
     stillHeld(read, kept.fights) !== null
   const names = [CHARACTERS_GLOBAL, FIGHTS_GLOBAL]
-  const searchedNow = foundIn(read, regions, hot, names, keptReads, left)
+  const searchedNow = foundIn(read, regions, hot, names, keptReads && left.size === 0, left)
   const [foundCharacters, foundFights] = searchedNow.found
   const characters = foundCharacters ?? stillHeld(read, kept?.characters)
   const fights = foundFights ?? stillHeld(read, kept?.fights)
@@ -165,6 +165,17 @@ function stale(watching: Watching | null, pid: number, now: number): boolean {
   if (now - watching.foundAt >= FIND_AGAIN_MS) return true
   return (
     rootOf(watching, watching.characters) === null || rootOf(watching, watching.fights) === null
+  )
+}
+
+const LOOKS_PAST_A_WRITE = 4
+
+const NOTHING_LEFT: ReadonlySet<string> = new Set()
+
+function heldKeysOf(watching: Watching | null): readonly string[] {
+  const held = [watching?.characters, watching?.fights]
+  return held.flatMap((global) =>
+    global === null || global === undefined ? [] : [globalKeyOf(global)]
   )
 }
 
@@ -212,36 +223,44 @@ export async function runService(): Promise<never> {
     fights: landingQueueOf((many) => landFights(many, { report: say }), say),
   }
   const hot = new Set<bigint>()
-  const left = new Set<string>()
   const charactersFile = charactersFileOf()
   say(`a reload is told by ${charactersFile ?? "nothing, since no saved-variables file resolves"}`)
   let writtenBefore = writtenAt(charactersFile)
   let watching: Watching | null = null
   let scannedAt = 0
   let looked = false
+  let left: ReadonlySet<string> = NOTHING_LEFT
+  let looksPast = 0
   for (;;) {
     try {
       const pid = gameProcess()
       const now = Date.now()
       const written = writtenAt(charactersFile)
-      const reloaded = written !== null && writtenBefore !== null && written !== writtenBefore
+      if (written !== null && writtenBefore !== null && written !== writtenBefore) {
+        say("the saved variables were written: other globals are looked for while these still read")
+        left = new Set(heldKeysOf(watching))
+        looksPast = LOOKS_PAST_A_WRITE
+        scannedAt = 0
+      }
       if (written !== null) writtenBefore = written
       if (pid === null) watching = null
-      else if (reloaded) {
-        say("the game wrote its saved variables, so its add-ons reloaded: every region is searched")
-        for (const global of [watching?.characters, watching?.fights]) {
-          if (global !== null && global !== undefined) left.add(globalKeyOf(global))
-        }
-        hot.clear()
+      else if (looksPast > 0 && now - scannedAt >= FIND_AT_MOST_MS) {
+        looksPast -= 1
         scannedAt = now
-        watching = watchingOf(pid, hot, null, left)
+        const next = watchingOf(pid, hot, watching, left)
+        const moved = heldKeysOf(next).some((key) => !left.has(key))
+        if (moved || looksPast === 0) {
+          left = NOTHING_LEFT
+          looksPast = 0
+        }
+        watching = next
         scannedAt = Date.now()
       } else if (
         stale(watching, pid, now) &&
         (watching?.loading === true || now - scannedAt >= FIND_AT_MOST_MS)
       ) {
         scannedAt = now
-        watching = watchingOf(pid, hot, watching, left)
+        watching = watchingOf(pid, hot, watching, NOTHING_LEFT)
         scannedAt = Date.now()
       }
       if (pid !== null && watching !== null) {
