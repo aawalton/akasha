@@ -30,6 +30,10 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A reading keeps Escalating Fete's stacks and how long ago Fete last changed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reading keeps each stat a second time as the game gives it without bonuses.",
     },
     {
@@ -158,5 +162,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-20T14:10:58.497Z",
+  updatedAt: "2026-10-20T14:12:02.929Z",
 } as const satisfies Module

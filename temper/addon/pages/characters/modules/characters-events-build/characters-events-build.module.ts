@@ -34,7 +34,11 @@ export const charactersEventsBuild = {
       decisionKind: "decision-kind/departure",
       statement: "A buff the player already has being refreshed or restacked is no build change.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every change to a buff on the player is handed on to be noted where it is Fete.",
+    },
   ],
   createdAt: "2026-09-02T17:32:20.771Z",
-  updatedAt: "2026-10-19T22:32:07.155Z",
+  updatedAt: "2026-10-20T14:12:02.929Z",
 } as const satisfies Module

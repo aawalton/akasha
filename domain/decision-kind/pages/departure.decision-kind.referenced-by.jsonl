@@ -4378,6 +4378,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-command/characters-command.module.ts","id":"01a0632d-cacd-700b-99b3-a58078ae9a53"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-config/characters-config.module.ts","id":"01a062ed-3943-7005-848b-bc9123920f2f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-entry/characters-entry.module.ts","id":"01a0632d-cc5a-7037-a4bb-7d5cd7da43f5"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-escalating-fete/characters-escalating-fete.module.ts","id":"01a159a7-aaf1-7259-ac0f-906a196bed64"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-events-build/characters-events-build.module.ts","id":"01a0632d-cba3-7016-85c9-1835035387d2"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-events-knowledge/characters-events-knowledge.module.ts","id":"01a0632d-cbf1-7021-bce5-f22d1d896a24"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-events-world/characters-events-world.module.ts","id":"01a0632d-cc07-702c-b838-1700356d3d00"}

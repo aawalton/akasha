@@ -1,4 +1,5 @@
 import { refreshAdvancedStatsReading } from "akasha/temper/addon/pages/characters/modules/characters-advanced-stats/characters-advanced-stats.module.code.ts"
+import { noteFeteChanged } from "akasha/temper/addon/pages/characters/modules/characters-escalating-fete/characters-escalating-fete.module.code.ts"
 import { capturePassiveTrace } from "akasha/temper/addon/pages/characters/modules/characters-passive-trace/characters-passive-trace.module.code.ts"
 import { captureAndSaveCharacterStats } from "akasha/temper/addon/pages/characters/modules/characters-player-stats/characters-player-stats.module.code.ts"
 import { captureReportedStats } from "akasha/temper/addon/pages/characters/modules/characters-reported-stats/characters-reported-stats.module.code.ts"
@@ -50,7 +51,26 @@ function onBuildTouched(this: void): undefined {
   scheduleBuildCapture()
 }
 
-function onPlayerEffectChanged(this: void, _event: number, changeType: number): undefined {
+function onPlayerEffectChanged(
+  this: void,
+  _event: number,
+  changeType: number,
+  _effectSlot: number,
+  _effectName: string,
+  _unitTag: string,
+  _beginTime: number,
+  _endTime: number,
+  stackCount: number,
+  _iconName: string,
+  _buffType: string,
+  _effectType: number,
+  _abilityType: number,
+  _statusEffectType: number,
+  _unitName: string,
+  _unitId: number,
+  abilityId: number
+): undefined {
+  noteFeteChanged(changeType, stackCount, abilityId)
   if (changeType === EFFECT_RESULT_GAINED || changeType === EFFECT_RESULT_FADED) {
     scheduleBuildCapture()
   }

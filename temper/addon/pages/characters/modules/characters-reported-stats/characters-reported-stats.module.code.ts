@@ -5,6 +5,7 @@ import {
 import { archiveBoons } from "akasha/temper/addon/pages/characters/modules/characters-archive-boons/characters-archive-boons.module.code.ts"
 import { characterSheet } from "akasha/temper/addon/pages/characters/modules/characters-character-sheet/characters-character-sheet.module.code.ts"
 import { currentCharacterEntry } from "akasha/temper/addon/pages/characters/modules/characters-current-entry/characters-current-entry.module.code.ts"
+import { feteOf } from "akasha/temper/addon/pages/characters/modules/characters-escalating-fete/characters-escalating-fete.module.code.ts"
 import {
   type Bar,
   settled,
@@ -327,6 +328,7 @@ function powerHeld(power: number): number {
 }
 
 function readingOf(buildHash: string, [stats, unbonusedStats]: StatsNow) {
+  const buffs = activeBuffs()
   return {
     capturedAt: GetTimeStamp(),
     buildHash: asBuildHash(buildHash),
@@ -338,7 +340,8 @@ function readingOf(buildHash: string, [stats, unbonusedStats]: StatsNow) {
     health: powerHeld(COMBAT_MECHANIC_FLAGS_HEALTH),
     stats,
     unbonusedStats,
-    activeBuffs: activeBuffs(),
+    activeBuffs: buffs,
+    fete: feteOf(buffs),
     pets: pets(),
     inArchive: IsInstanceEndlessDungeon(),
     archiveBoons: archiveBoons(),
