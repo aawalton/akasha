@@ -94,7 +94,11 @@ export const dayReadoutWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A renewal takes every reading again.",
+      statement: "A renewal takes every reading again, whether or not the opened day rolled.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A take at the clock's day boundary is carried at once rather than on a timer.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -150,5 +154,5 @@ export const dayReadoutWatching = {
     },
   ],
   createdAt: "2026-09-10T16:06:18.655Z",
-  updatedAt: "2026-09-25T17:30:04.000Z",
+  updatedAt: "2026-10-20T11:21:30.073Z",
 } as const satisfies Module

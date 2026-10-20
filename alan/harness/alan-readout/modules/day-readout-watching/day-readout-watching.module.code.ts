@@ -236,7 +236,10 @@ export function watchDayReadings(
 
   const renew = (): undefined => {
     const opened = openedDayOf(roots, new Date())
-    if (opened === day && running.unfollowed.length === 0) return undefined
+    if (opened === day && running.unfollowed.length === 0) {
+      running.retake()
+      return undefined
+    }
     rebuild(opened)
     said("INFO", `the readings are taken off ${day} from here on`)
     return undefined
