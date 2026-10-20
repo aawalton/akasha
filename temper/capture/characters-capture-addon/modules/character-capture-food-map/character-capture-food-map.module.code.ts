@@ -1,40 +1,38 @@
-const FOOD_ABILITY_ID_TO_INDEX: Record<number, number> = {
-  [17407]: 1,
-  [61260]: 2,
-  [61261]: 3,
-  [72959]: 4,
-  [72956]: 5,
-  [72961]: 6,
-  [17581]: 7,
-  [84709]: 8,
-  [84725]: 9,
-  [86673]: 10,
-  [89955]: 11,
-  [107748]: 12,
-  [89971]: 13,
-  [100498]: 14,
-  [107789]: 15,
-  [72824]: 16,
-  [127596]: 17,
-  [61322]: 18,
-  [61325]: 19,
-  [61328]: 20,
-  [72968]: 21,
-  [72965]: 22,
-  [72971]: 23,
-  [17614]: 24,
-  [84700]: 25,
-  [84735]: 26,
-  [127572]: 27,
-  [86677]: 28,
-  [86559]: 29,
-  [84731]: 30,
-  [127531]: 31,
-  [89957]: 32,
-  [100488]: 33,
-  [61257]: 34,
-  [86787]: 35,
+import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
+import { temperFoodOrDrink } from "akasha/temper/player/character/source/temper-food-or-drink/temper-food-or-drink.page-type.ts"
+import type { TemperFoodOrDrink } from "akasha/temper/player/character/source/temper-food-or-drink/temper-food-or-drink.page-type.types.ts"
+
+type FoodPage = Pick<TemperFoodOrDrink, "abilityId" | "hashPlace">
+
+type Held = { readonly places: { [abilityId: number]: number | undefined }; readonly bits: number }
+
+let held: Held | undefined
+
+function bitsFor(this: void, count: number): number {
+  let bits = 1
+  let span = 2
+  while (span < count) {
+    span *= 2
+    bits += 1
+  }
+  return bits
 }
+
+function heldOf(this: void): Held {
+  const pages = $pagesOfType<FoodPage>(temperFoodOrDrink)
+  const places: Held["places"] = {}
+  for (const one of pages) {
+    if (one.abilityId !== undefined) places[one.abilityId] = one.hashPlace
+  }
+  return { places, bits: bitsFor(pages.length) }
+}
+
 export function getFoodIndex(abilityId: number): number {
-  return FOOD_ABILITY_ID_TO_INDEX[abilityId] ?? 0
+  held ??= heldOf()
+  return held.places[abilityId] ?? 0
+}
+
+export function foodOrDrinkBits(): number {
+  held ??= heldOf()
+  return held.bits
 }

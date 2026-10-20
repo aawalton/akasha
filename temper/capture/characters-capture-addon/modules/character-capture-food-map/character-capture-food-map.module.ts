@@ -11,7 +11,16 @@ export const characterCaptureFoodMap = {
       decisionKind: "decision-kind/constraint",
       statement: "A place in this table is the number a saved build hash has.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each food or drink page stating a buff's ability id gives that buff its hash place.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A food or drink is written in as many bits as every food or drink page needs.",
+    },
   ],
   createdAt: "2026-09-02T09:20:38.803Z",
-  updatedAt: "2026-09-21T15:13:00.000Z",
+  updatedAt: "2026-10-20T17:44:08.462Z",
 } as const satisfies Module

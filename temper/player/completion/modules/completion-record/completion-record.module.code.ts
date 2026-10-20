@@ -170,6 +170,8 @@ const wornSetBonusSchema = z.strictObject({
 const wornPieceSchema = z.strictObject({
   slot: z.number(),
   link: z.string(),
+  requiredLevel: z.number().optional(),
+  requiredChampionPoints: z.number().optional(),
   armor: z.number(),
   weaponPower: z.number().optional(),
   enchant: z.string(),

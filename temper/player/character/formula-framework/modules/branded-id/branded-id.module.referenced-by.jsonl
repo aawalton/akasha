@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"command/pages/temper/stat-compare/temper-stat-compare.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/addon/pages/characters/modules/characters-player-stats/characters-player-stats.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/addon/pages/characters/modules/characters-reported-stats/characters-reported-stats.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-encoder/character-capture-encoder.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-factory/companion-factory.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/catalog/companion/companions-core/modules/reference-build-data/reference-build-data.module.code.ts","typed":false,"deferred":false}

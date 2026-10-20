@@ -6,6 +6,13 @@ export const characterCaptureEncoder = {
   slug: "character-capture-encoder",
   definition: "a captured character build written out as a build hash",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What the add-on writes is read back by the build codec as the build captured.",
+    },
+  ],
   createdAt: "2026-09-02T09:20:02.733Z",
-  updatedAt: "2026-09-21T15:13:00.000Z",
+  updatedAt: "2026-10-20T17:44:08.462Z",
 } as const satisfies Module

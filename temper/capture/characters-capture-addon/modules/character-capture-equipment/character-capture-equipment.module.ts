@@ -11,7 +11,12 @@ export const characterCaptureEquipment = {
       decisionKind: "decision-kind/departure",
       statement: "A worn armor weight is captured at the place the player weight pages state.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each worn piece's level is captured from the level and champion points it requires.",
+    },
   ],
   createdAt: "2026-09-02T09:20:24.559Z",
-  updatedAt: "2026-09-27T02:49:23.000Z",
+  updatedAt: "2026-10-20T17:44:08.462Z",
 } as const satisfies Module

@@ -99,6 +99,10 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A reading keeps the level and the champion points each worn piece requires.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reading keeps each worn piece's set id, and 0 for a piece in no set.",
     },
     {
@@ -188,5 +192,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-20T17:12:21.574Z",
+  updatedAt: "2026-10-20T17:44:08.462Z",
 } as const satisfies Module

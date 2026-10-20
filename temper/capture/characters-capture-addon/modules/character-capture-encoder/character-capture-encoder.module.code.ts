@@ -14,7 +14,6 @@ import {
   CHARACTER_ESO_PLUS_BITS,
   CHARACTER_ESO_VERSION,
   CHARACTER_FOCUS_SCRIPT_BITS,
-  CHARACTER_FOOD_OR_DRINK_BITS,
   CHARACTER_GLYPH_SUBTYPE_BITS,
   CHARACTER_GRIMOIRE_BITS,
   CHARACTER_JEWELRY_ENCHANT_BITS,
@@ -43,6 +42,7 @@ import type {
   CharacterBuildData,
   CharacterWeaponSlotData,
 } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-codec-types/character-capture-codec-types.module.code.ts"
+import { foodOrDrinkBits } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-food-map/character-capture-food-map.module.code.ts"
 import { bytesToBase64url } from "akasha/temper/player/character/build/bit-codec/modules/base64url/base64url.module.code.ts"
 import {
   type BitWriterState,
@@ -50,6 +50,7 @@ import {
   makeBitWriter,
   writeBits,
 } from "akasha/temper/player/character/build/bit-codec/modules/bit-writer/bit-writer.module.code.ts"
+import { ITEM_LEVEL_BITS } from "akasha/temper/player/character/build/build-codec/modules/item-level-places/item-level-places.module.code.ts"
 
 export function encodeCharacterBuild(build: CharacterBuildData): string {
   const writer = makeBitWriter()
@@ -85,6 +86,7 @@ export function encodeCharacterBuild(build: CharacterBuildData): string {
       writeBits(writer, slot.qualityIndex, CHARACTER_QUALITY_BITS)
       writeBits(writer, slot.enchantQualityIndex, CHARACTER_QUALITY_BITS)
       writeBits(writer, slot.enchantSubtype, CHARACTER_GLYPH_SUBTYPE_BITS)
+      writeBits(writer, slot.itemLevelPlace, ITEM_LEVEL_BITS)
     }
   }
 
@@ -99,6 +101,7 @@ export function encodeCharacterBuild(build: CharacterBuildData): string {
       writeBits(writer, slot.qualityIndex, CHARACTER_QUALITY_BITS)
       writeBits(writer, slot.enchantQualityIndex, CHARACTER_QUALITY_BITS)
       writeBits(writer, slot.enchantSubtype, CHARACTER_GLYPH_SUBTYPE_BITS)
+      writeBits(writer, slot.itemLevelPlace, ITEM_LEVEL_BITS)
     }
   }
 
@@ -132,7 +135,7 @@ export function encodeCharacterBuild(build: CharacterBuildData): string {
     }
   }
 
-  writeBits(writer, build.foodIndex, CHARACTER_FOOD_OR_DRINK_BITS)
+  writeBits(writer, build.foodIndex, foodOrDrinkBits())
   writeBits(writer, build.potionIndex, CHARACTER_POTION_BITS)
   writeBits(writer, build.potion2Index, CHARACTER_POTION_BITS)
 
@@ -172,6 +175,7 @@ function encodeCharacterWeaponSlot(
     writeBits(writer, slot.qualityIndex, CHARACTER_QUALITY_BITS)
     writeBits(writer, slot.enchantQualityIndex, CHARACTER_QUALITY_BITS)
     writeBits(writer, slot.enchantSubtype, CHARACTER_GLYPH_SUBTYPE_BITS)
+    writeBits(writer, slot.itemLevelPlace, ITEM_LEVEL_BITS)
   } else {
     writeBits(writer, 0, 1)
     writeBits(writer, slot.typeIndex, CHARACTER_WEAPON_TYPE_BITS)
@@ -182,5 +186,6 @@ function encodeCharacterWeaponSlot(
     writeBits(writer, slot.qualityIndex, CHARACTER_QUALITY_BITS)
     writeBits(writer, slot.enchantQualityIndex, CHARACTER_QUALITY_BITS)
     writeBits(writer, slot.enchantSubtype, CHARACTER_GLYPH_SUBTYPE_BITS)
+    writeBits(writer, slot.itemLevelPlace, ITEM_LEVEL_BITS)
   }
 }

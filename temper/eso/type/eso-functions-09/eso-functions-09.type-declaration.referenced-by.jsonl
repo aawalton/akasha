@@ -158,6 +158,7 @@
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/world/quests/modules/quests-auto-quest/quests-auto-quest.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/world/quests/modules/quests-trace/quests-trace.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/shared/temper-helpers/modules/helpers-game/helpers-game.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment/character-capture-equipment.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/achievement-catalog-capture/achievement-catalog-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/antiquity-lore-catalog-capture/antiquity-lore-catalog-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/collectibles-catalog-capture/collectibles-catalog-capture.module.code.ts","typed":false,"deferred":false}

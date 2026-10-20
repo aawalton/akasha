@@ -36,6 +36,7 @@ export interface CharacterArmorSlotData {
   qualityIndex: number
   enchantQualityIndex: number
   enchantSubtype: number
+  itemLevelPlace: number
 }
 
 export interface CharacterJewelrySlotData {
@@ -46,6 +47,7 @@ export interface CharacterJewelrySlotData {
   qualityIndex: number
   enchantQualityIndex: number
   enchantSubtype: number
+  itemLevelPlace: number
 }
 
 export interface CharacterWeaponBarData {
@@ -66,6 +68,7 @@ export interface CharacterWeaponSlotData {
   qualityIndex: number
   enchantQualityIndex: number
   enchantSubtype: number
+  itemLevelPlace: number
 }
 
 export interface CharacterCPDisciplineData {

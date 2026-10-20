@@ -159,6 +159,8 @@ type WornSet = {
 type WornPiece = WornSet & {
   slot: number
   link: string
+  requiredLevel: number
+  requiredChampionPoints: number
   armor: number
   weaponPower: number
   enchant: string
@@ -207,6 +209,8 @@ function worn(): WornPiece[] {
     pieces.push({
       slot,
       link,
+      requiredLevel: GetItemLinkRequiredLevel(link),
+      requiredChampionPoints: GetItemLinkRequiredChampionPoints(link),
       armor: GetItemLinkArmorRating(link, false),
       weaponPower: GetItemLinkWeaponPower(link),
       enchant,

@@ -3,6 +3,7 @@ import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import type {
   CharacterArmorSlotData,
   CharacterJewelrySlotData,
@@ -24,6 +25,7 @@ import {
 } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.code.ts"
 import { getSetIndex } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-set-map/character-capture-set-map.module.code.ts"
 import { getQualityIndex } from "akasha/temper/player/character/build/bit-codec/modules/equipment-mappings/equipment-mappings.module.code.ts"
+import { itemLevelPlaceOfRequired } from "akasha/temper/player/character/build/build-codec/modules/item-level-places/item-level-places.module.code.ts"
 
 export function captureCharacterArmorSlot(slot: number): CharacterArmorSlotData {
   const itemLink = GetItemLink(BAG_WORN, slot, LINK_STYLE_DEFAULT)
@@ -38,6 +40,7 @@ export function captureCharacterArmorSlot(slot: number): CharacterArmorSlotData 
       qualityIndex: 0,
       enchantQualityIndex: 0,
       enchantSubtype: 0,
+      itemLevelPlace: 0,
     }
   }
 
@@ -55,6 +58,7 @@ export function captureCharacterArmorSlot(slot: number): CharacterArmorSlotData 
     qualityIndex: getQualityIndex(GetItemDisplayQuality(BAG_WORN, slot)),
     enchantQualityIndex: getEnchantQualityIndex(itemLink),
     enchantSubtype: getEnchantSubtype(itemLink),
+    itemLevelPlace: itemLevelPlaceOf(itemLink),
   }
 }
 
@@ -70,6 +74,7 @@ export function captureCharacterJewelrySlot(slot: number): CharacterJewelrySlotD
       qualityIndex: 0,
       enchantQualityIndex: 0,
       enchantSubtype: 0,
+      itemLevelPlace: 0,
     }
   }
 
@@ -85,6 +90,7 @@ export function captureCharacterJewelrySlot(slot: number): CharacterJewelrySlotD
     qualityIndex: getQualityIndex(GetItemDisplayQuality(BAG_WORN, slot)),
     enchantQualityIndex: getEnchantQualityIndex(itemLink),
     enchantSubtype: getEnchantSubtype(itemLink),
+    itemLevelPlace: itemLevelPlaceOf(itemLink),
   }
 }
 
@@ -103,6 +109,7 @@ export function captureCharacterWeaponSlot(slot: number): CharacterWeaponSlotDat
     qualityIndex: 0,
     enchantQualityIndex: 0,
     enchantSubtype: 0,
+    itemLevelPlace: 0,
   }
 
   if (itemLink === "") {
@@ -116,6 +123,7 @@ export function captureCharacterWeaponSlot(slot: number): CharacterWeaponSlotDat
   const qualityIndex = getQualityIndex(GetItemDisplayQuality(BAG_WORN, slot))
   const enchantQualityIndex = getEnchantQualityIndex(itemLink)
   const enchantSubtype = getEnchantSubtype(itemLink)
+  const itemLevelPlace = itemLevelPlaceOf(itemLink)
 
   if (weaponType === WEAPONTYPE_SHIELD) {
     return {
@@ -131,6 +139,7 @@ export function captureCharacterWeaponSlot(slot: number): CharacterWeaponSlotDat
       qualityIndex,
       enchantQualityIndex,
       enchantSubtype,
+      itemLevelPlace,
     }
   }
 
@@ -147,7 +156,15 @@ export function captureCharacterWeaponSlot(slot: number): CharacterWeaponSlotDat
     qualityIndex,
     enchantQualityIndex,
     enchantSubtype,
+    itemLevelPlace,
   }
+}
+
+function itemLevelPlaceOf(itemLink: string): number {
+  return itemLevelPlaceOfRequired(
+    GetItemLinkRequiredLevel(itemLink),
+    GetItemLinkRequiredChampionPoints(itemLink)
+  )
 }
 
 function getEnchantCategory(itemLink: string): number {
