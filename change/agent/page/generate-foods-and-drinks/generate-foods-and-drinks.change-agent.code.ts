@@ -177,8 +177,23 @@ function ordered(page: Json): Json {
   return made
 }
 
+function literalOf(value: unknown): string {
+  if (Array.isArray(value)) return `[${value.map(literalOf).join(", ")}]`
+  if (typeof value !== "object" || value === null) return JSON.stringify(value)
+  const fields = Object.entries(value).map(([key, under]) => `${key}: ${literalOf(under)}`)
+  return `{ ${fields.join(", ")} }`
+}
+
+const SPACING = /\s+/g
+
+const CLOSING_COMMA = /,(?=[\]}])/g
+
+function laidFlat(text: string): string {
+  return text.replace(SPACING, "").replace(CLOSING_COMMA, "")
+}
+
 function textOf(page: Json): string {
-  const lines = Object.entries(page).map(([key, value]) => `  ${key}: ${JSON.stringify(value)},`)
+  const lines = Object.entries(page).map(([key, value]) => `  ${key}: ${literalOf(value)},`)
   return [
     `import type { TemperFoodOrDrink } from "${TYPES}"`,
     "",
@@ -225,7 +240,7 @@ function pageFor(held: Json, item: Item, itemIds: readonly number[], keep: boole
     itemIds,
     seconds: buff.seconds === 0 ? held["seconds"] : buff.seconds,
     effects: keeps ? held["effects"] : buff.effects.length === 0 ? undefined : buff.effects,
-    status: keeps ? undefined : buff.status,
+    status: keeps && buff.status === "unsupported" ? undefined : buff.status,
   })
 }
 
@@ -249,6 +264,7 @@ function newPageFor(item: Item, itemIds: readonly number[], slug: string, hashPl
 }
 
 function matchOf(page: Json, items: readonly Item[]): Item | undefined {
+  if (Array.isArray(page["itemIds"])) return items.find((item) => item.itemId === page["itemId"])
   const named = items.filter((item) => slugFromTitle(item.title) === page["slug"])
   return named.find((item) => item.itemId === page["itemId"]) ?? named[0]
 }
@@ -288,8 +304,9 @@ export function generateFoodsAndDrinksCommand(world: World): Answer {
     const itemIds = sharing.map((each) => each.itemId).sort((lower, higher) => lower - higher)
     claimed.add(key)
     const page = pageFor(one.page, item, itemIds, isVerified(one.page, verified), told)
-    if (JSON.stringify(page) === JSON.stringify(ordered(one.page))) continue
-    edits.push({ kind: "replace", path: one.path, contentFrom: one.text, contentTo: textOf(page) })
+    const text = textOf(page)
+    if (laidFlat(text) === laidFlat(one.text)) continue
+    edits.push({ kind: "replace", path: one.path, contentFrom: one.text, contentTo: text })
   }
   const slugs = new Set(held.map((one) => String(one.page["slug"])))
   const first = Math.max(...held.map((one) => placeOf(one.page))) + 1

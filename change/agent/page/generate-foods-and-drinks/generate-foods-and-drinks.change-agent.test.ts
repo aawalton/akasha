@@ -30,7 +30,7 @@ const MINE = [
   rowOf(70002, "Old Bread", 4, ""),
 ].join("\n")
 
-function meadOf(value: number): string {
+function meadOf(value: number, ...generated: readonly string[]): string {
   return [
     "export const markarthMead = {",
     `  type: "page-type/${temperFoodOrDrink.slug}",`,
@@ -38,6 +38,7 @@ function meadOf(value: number): string {
     '  title: "Markarth Mead",',
     '  foodOrDrinkKind: "drink",',
     "  itemId: 68257,",
+    ...generated,
     "  abilityId: 61322,",
     "  seconds: 2100,",
     `  effects: [{ metric: "${RECOVERY}", effectType: "integer", value: ${String(value)} }],`,
@@ -75,15 +76,34 @@ test("each distinct buff becomes a page at the next hash place, and recipes are 
   ).toEqual([breadAt])
   expect(writtenAt(said, breadAt)).toContain("hashPlace: 19,")
   expect(writtenAt(said, breadAt)).toContain("itemIds: [70000],")
-  expect(writtenAt(said, MEAD_AT)).toContain("itemIds: [68257,68300],")
+  expect(writtenAt(said, MEAD_AT)).toContain("itemIds: [68257, 68300],")
   expect(writtenAt(said, MEAD_AT)).toContain("seconds: 3960,")
+})
+
+test("a run over the pages a run wrote writes nothing", () => {
+  const texts: Record<string, string> = { [MINE_AT]: MINE, [MEAD_AT]: meadOf(660) }
+  for (const one of generateFoodsAndDrinksCommand(worldHolding(texts)).edits) {
+    if (one.kind === "add") texts[one.path] = one.content
+    if (one.kind === "replace") texts[one.path] = one.contentTo
+  }
+  expect(generateFoodsAndDrinksCommand(worldHolding(texts)).edits).toEqual([])
+})
+
+test("a run keeps the value and the ability a pinned case verifies on a page a run wrote", () => {
+  const generated = meadOf(900, "  itemIds: [68257, 68300],")
+  const said = generateFoodsAndDrinksCommand(
+    worldHolding({ [MINE_AT]: MINE, [MEAD_AT]: generated, [CASE_AT]: PINNED })
+  )
+  expect(writtenAt(said, MEAD_AT)).toContain("value: 900 }")
+  expect(writtenAt(said, MEAD_AT)).toContain("abilityId: 61322,")
+  expect(writtenAt(said, MEAD_AT)).toContain('status: "supported",')
 })
 
 test("a hand-made effect a pinned case verifies is kept where the mine reads otherwise", () => {
   const said = generateFoodsAndDrinksCommand(
     worldHolding({ [MINE_AT]: MINE, [MEAD_AT]: meadOf(900), [CASE_AT]: PINNED })
   )
-  expect(writtenAt(said, MEAD_AT)).toContain('"value":900')
+  expect(writtenAt(said, MEAD_AT)).toContain("value: 900 }")
   expect(said.told?.[3]).toBe("1 hand-made pages keep their effects: markarth-mead")
 })
 
@@ -91,7 +111,7 @@ test("a hand-made effect no case verifies takes what the mine reads", () => {
   const said = generateFoodsAndDrinksCommand(
     worldHolding({ [MINE_AT]: MINE, [MEAD_AT]: meadOf(900) })
   )
-  expect(writtenAt(said, MEAD_AT)).toContain('"value":660')
+  expect(writtenAt(said, MEAD_AT)).toContain("value: 660 }")
   expect(said.told?.[3]).toBe("0 hand-made pages keep their effects")
 })
 
