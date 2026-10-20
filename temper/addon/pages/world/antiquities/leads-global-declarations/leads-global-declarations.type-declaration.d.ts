@@ -19,6 +19,10 @@ interface TemperWorldLeadsApi {
   LocationBoxMouseExit: (this: void, control: Control) => undefined
   SORTHEADER_NAMES: readonly string[]
   getAntiquityDigZoneName: (this: void, antiquityId: number) => string | undefined
+  getAntiquityLeadSource: (
+    this: void,
+    antiquityId: number
+  ) => { readonly kind: "scry" | "dig" | "buy"; readonly parentId: number | undefined } | undefined
 }
 
 declare var TemperWorldLeads: TemperWorldLeadsApi | undefined

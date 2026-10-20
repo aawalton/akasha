@@ -4568,6 +4568,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-reporting/leads-reporting.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-saved-variables/leads-saved-variables.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-set-links/leads-set-links.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-sources/leads-sources.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-toggle/leads-toggle.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-tooltips/leads-tooltips.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-ui-strings/leads-ui-strings.module.ts","typed":true,"deferred":false}

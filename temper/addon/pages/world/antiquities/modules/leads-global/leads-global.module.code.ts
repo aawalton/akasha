@@ -4,6 +4,7 @@ import {
   dropdownShowTooltip,
   setupDropdown,
 } from "akasha/temper/addon/pages/world/antiquities/modules/leads-dropdowns/leads-dropdowns.module.code.ts"
+import { getAntiquityLeadSource } from "akasha/temper/addon/pages/world/antiquities/modules/leads-sources/leads-sources.module.code.ts"
 import { toggleLeadsWindow } from "akasha/temper/addon/pages/world/antiquities/modules/leads-toggle/leads-toggle.module.code.ts"
 import {
   alertsMouseEnter,
@@ -35,4 +36,5 @@ globalThis.TemperWorldLeads = {
   LocationBoxMouseExit: locationBoxMouseExit,
   SORTHEADER_NAMES: STRINGS.SORTHEADER_NAMES,
   getAntiquityDigZoneName,
+  getAntiquityLeadSource,
 }

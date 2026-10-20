@@ -48,6 +48,7 @@ export const temperAddonWorldAntiquities = {
     "type-declaration/leads-global-declarations",
     "type-declaration/leads-undaunted-declarations",
     "type-declaration/leads-window-declarations",
+    "module/leads-sources",
   ],
   decisions: [
     {
@@ -65,7 +66,7 @@ export const temperAddonWorldAntiquities = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Another add-on reads a lead's dig zone through that same table.",
+      statement: "Another add-on reads a lead's dig zone and easy source through that same table.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -78,5 +79,5 @@ export const temperAddonWorldAntiquities = {
     },
   ],
   createdAt: "2026-09-22T02:31:42.070Z",
-  updatedAt: "2026-09-25T13:51:40.000Z",
+  updatedAt: "2026-10-20T18:25:44.234Z",
 } as const satisfies Domain
