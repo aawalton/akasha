@@ -68,6 +68,9 @@ const GLYPH_SUBTYPE_BITS = 9
 const GLYPH_SUBTYPE_LIMIT = 1 << GLYPH_SUBTYPE_BITS
 const FIRST_MINOR_WITH_GLYPH_SUBTYPE = 8
 const FIRST_MINOR_WITH_ITEM_LEVEL = 12
+const GLYPH_LEVEL_BITS = 6
+const GLYPH_LEVEL_LIMIT = 1 << GLYPH_LEVEL_BITS
+const FIRST_MINOR_WITH_GLYPH_LEVEL = 13
 
 export function encodeEquipment(writer: BitWriterState, build: CharacterState): undefined {
   const equipment = build.equipment
@@ -100,6 +103,7 @@ function encodeArmorSlot(writer: BitWriterState, slot: ArmorSlotItem): undefined
   writeBits(writer, getQualityIndex(armor.enchantmentQuality ?? "no-quality"), qualityBits())
   encodeGlyphSubtype(writer, armor.enchantmentSubtype)
   encodeItemLevel(writer, armor.level)
+  encodeGlyphLevel(writer, armor.enchantmentLevel)
 }
 
 function encodeJewelrySlot(writer: BitWriterState, slot: JewelrySlotItem): undefined {
@@ -117,6 +121,7 @@ function encodeJewelrySlot(writer: BitWriterState, slot: JewelrySlotItem): undef
   writeBits(writer, getQualityIndex(jewelry.enchantmentQuality ?? "no-quality"), qualityBits())
   encodeGlyphSubtype(writer, jewelry.enchantmentSubtype)
   encodeItemLevel(writer, jewelry.level)
+  encodeGlyphLevel(writer, jewelry.enchantmentLevel)
 }
 
 function encodeWeaponBar(writer: BitWriterState, bar: WeaponSlot): undefined {
@@ -145,6 +150,7 @@ function encodeWeaponSlot(writer: BitWriterState, slot: WeaponSlotItem): undefin
     writeBits(writer, getQualityIndex(shield.enchantmentQuality ?? "no-quality"), qualityBits())
     encodeGlyphSubtype(writer, shield.enchantmentSubtype)
     encodeItemLevel(writer, shield.level)
+    encodeGlyphLevel(writer, shield.enchantmentLevel)
   } else {
     writeBits(writer, 0, 1)
     const weapon = slot.data
@@ -157,6 +163,7 @@ function encodeWeaponSlot(writer: BitWriterState, slot: WeaponSlotItem): undefin
     writeBits(writer, getQualityIndex(weapon.enchantmentQuality ?? "no-quality"), qualityBits())
     encodeGlyphSubtype(writer, weapon.enchantmentSubtype)
     encodeItemLevel(writer, weapon.level)
+    encodeGlyphLevel(writer, weapon.enchantmentLevel)
   }
 }
 
@@ -167,6 +174,11 @@ function encodeGlyphSubtype(writer: BitWriterState, subtype: number | undefined)
 
 function encodeItemLevel(writer: BitWriterState, level: ItemLevel | undefined): undefined {
   writeBits(writer, itemLevelPlaceOf(level), ITEM_LEVEL_BITS)
+}
+
+function encodeGlyphLevel(writer: BitWriterState, level: number | undefined): undefined {
+  const fits = level !== undefined && level > 0 && level < GLYPH_LEVEL_LIMIT
+  writeBits(writer, fits ? level : 0, GLYPH_LEVEL_BITS)
 }
 
 export function decodeEquipment(
@@ -359,10 +371,15 @@ function decodeWeaponSlot(reader: BitReaderState, minorVersion: number): WeaponS
 function decodeItemLevel(
   reader: BitReaderState,
   minorVersion: number
-): { readonly level?: ItemLevel } {
+): { readonly level?: ItemLevel; readonly enchantmentLevel?: number } {
   if (minorVersion < FIRST_MINOR_WITH_ITEM_LEVEL) return {}
   const level = itemLevelOfPlace(readBits(reader, ITEM_LEVEL_BITS))
-  return level === undefined ? {} : { level }
+  const glyphLevel =
+    minorVersion < FIRST_MINOR_WITH_GLYPH_LEVEL ? 0 : readBits(reader, GLYPH_LEVEL_BITS)
+  return {
+    ...(level === undefined ? {} : { level }),
+    ...(glyphLevel === 0 ? {} : { enchantmentLevel: glyphLevel }),
+  }
 }
 
 function decodeQuality(reader: BitReaderState): EquipmentQualityOptionId | undefined {

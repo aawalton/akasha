@@ -43,6 +43,7 @@ export interface StandardArmorItem {
   quality?: EquipmentQualityOptionId
   enchantmentQuality?: EquipmentQualityId
   enchantmentSubtype?: number
+  enchantmentLevel?: number
   level?: ItemLevel
 }
 
@@ -55,6 +56,7 @@ export interface ShieldItem {
   quality?: EquipmentQualityOptionId
   enchantmentQuality?: EquipmentQualityId
   enchantmentSubtype?: number
+  enchantmentLevel?: number
   level?: ItemLevel
 }
 
@@ -68,6 +70,7 @@ export interface JewelryItem {
   quality?: EquipmentQualityOptionId
   enchantmentQuality?: EquipmentQualityId
   enchantmentSubtype?: number
+  enchantmentLevel?: number
   level?: ItemLevel
 }
 
@@ -80,5 +83,6 @@ export interface WeaponItem {
   quality?: EquipmentQualityOptionId
   enchantmentQuality?: EquipmentQualityId
   enchantmentSubtype?: number
+  enchantmentLevel?: number
   level?: ItemLevel
 }
