@@ -2,4 +2,4 @@
 {"id":"01a05fd0-8d81-736c-bccb-310ee6863a7e","metricId":"temper-metric-tree/metric-stamina-maximum","type":"fractional-change","value":0.05,"rank":2}
 {"id":"01a156c4-e295-73b8-9047-e2877a25f8d0","metricId":"temper-metric-tree/metric-magicka-maximum","type":"fractional-change","value":0.02,"rank":1}
 {"id":"01a156c4-e295-7269-aeb1-8f4eadf1ed90","metricId":"temper-metric-tree/metric-stamina-maximum","type":"fractional-change","value":0.02,"rank":1}
-{"id":"01a15905-341c-785a-942b-d8f85bf32d0b","metricId":"temper-metric-tree/metric-health-maximum","type":"fractional-change","value":0.05,"rank":2,"whileBuffs":["temper-buff-other/summon-twilight-matriarch","temper-buff-other/summon-unstable-clannfear"]}
+{"id":"01a15905-341c-785a-942b-d8f85bf32d0b","metricId":"temper-metric-tree/metric-health-maximum","type":"fractional-change","value":0.05,"rank":2,"whileBuffs":["temper-buff-other/summon-unstable-familiar","temper-buff-other/summon-unstable-clannfear","temper-buff-other/summon-volatile-familiar","temper-buff-other/summon-winged-twilight","temper-buff-other/summon-twilight-tormentor","temper-buff-other/summon-twilight-matriarch"]}
