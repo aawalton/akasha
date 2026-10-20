@@ -330,6 +330,7 @@ declare function GetPlayerStat(
   statBonusOption?: StatBonusOption
 ): number
 declare function CancelCast(this: void): boolean
+declare function IsPlayerMoving(this: void): boolean
 declare function GetPlayerCameraHeading(this: void): number
 declare function GetPlayerWorldPositionInHouse(
   this: void

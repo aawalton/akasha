@@ -459,3 +459,4 @@ declare function GetTimeUntilCanBeTrained(
 ): LuaMultiReturn<[timeMs: number, totalDurationMs: number]>
 declare function IsMounted(this: void): boolean
 declare function GetAbilityEffectDescription(this: void, effectSlotId?: number): string
+declare function IsBlockActive(this: void): boolean
