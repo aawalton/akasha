@@ -85,6 +85,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/modules/quest-port-capture/quest-port-capture.module.ts","id":"01a11c76-a81a-76a2-8dc0-e948c3d04595"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quest-port/modules/quest-port-trace/quest-port-trace.module.ts","id":"01a11c7c-69d2-7678-9470-a390f3f3b142"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/engine-answer-catalog-capture/engine-answer-catalog-capture.module.ts","id":"01a0d42c-33d0-7ff4-8038-09dcb9eccb0b"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/grade/temper-gear-grade.page-type.ts","id":"01a0d3e3-15fd-7894-84c4-490fc66d1590"}
 {"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/higher-of.multi-relation-property.ts","id":"01a15725-b46b-75f4-9078-13b1f356b31f"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.ts","id":"01a0680b-0616-7b70-8c7d-3bc79e3eec3b"}
 {"propertySlug":"decision-kind","path":"temper/economy/value/replacement-value/temper-replacement-value.domain.ts","id":"01a0b761-76a7-78cd-82a0-bfa7fa48f3b4"}

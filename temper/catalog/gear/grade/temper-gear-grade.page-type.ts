@@ -45,9 +45,14 @@ export const temperGearGrade = {
       decisionKind: "decision-kind/departure",
       statement: "A grade the game rounds for show states the unrounded worth it scales from.",
     },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "Legendary Protective and Triune are planned from tooltips, unpinned until a legendary reading.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-24T14:47:50.013Z",
-  updatedAt: "2026-09-27T03:41:25.000Z",
+  updatedAt: "2026-10-20T20:00:42.662Z",
 } as const satisfies PageType
