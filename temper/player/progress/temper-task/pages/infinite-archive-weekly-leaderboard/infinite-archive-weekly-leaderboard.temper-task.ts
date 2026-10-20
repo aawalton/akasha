@@ -8,7 +8,7 @@ export const infiniteArchiveWeeklyLeaderboard = {
   displayOrder: 14,
   esoCharacterId: "8796093022338107",
   character: "temper-account-character/erin-solstice",
-  dueDate: "2026-10-20",
+  dueDate: "2026-10-21",
   rruleRule: "FREQ=WEEKLY;BYDAY=TU",
   rruleAnchorFromCompletion: false,
   accountPage: "temper-account/alanarre",
@@ -17,5 +17,5 @@ export const infiniteArchiveWeeklyLeaderboard = {
   effectiveCharacter: "temper-account-character/erin-solstice",
   lastCompletedAt: "2026-10-13T19:03:46.104Z",
   createdAt: "2026-04-22T12:39:34.017Z",
-  updatedAt: "2026-10-13T19:03:46.594Z",
+  updatedAt: "2026-10-20T20:28:32.589Z",
 } as const satisfies TemperTask
