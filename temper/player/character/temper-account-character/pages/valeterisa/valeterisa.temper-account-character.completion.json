@@ -13770,36 +13770,36 @@
       "stats": {
         "power-spell": 2802,
         "resistance-physical": 12406,
-        "resistance-spell": 19072,
-        "magicka-maximum": 63144,
-        "magicka-recovery": 1415,
-        "penetration-physical": 6335,
         "resistance-critical": 1320,
-        "stamina-maximum": 15747,
-        "health-maximum": 19131,
         "power-weapon": 2802,
-        "stamina-recovery": 773,
-        "critical-rating-weapon": 6448,
-        "health-recovery": 373,
+        "magicka-recovery": 1415,
+        "critical-rating-spell": 6448,
+        "magicka-maximum": 63144,
         "penetration-spell": 6335,
-        "critical-rating-spell": 6448
+        "stamina-maximum": 15747,
+        "health-recovery": 373,
+        "resistance-spell": 19072,
+        "critical-rating-weapon": 6448,
+        "health-maximum": 19131,
+        "penetration-physical": 6335,
+        "stamina-recovery": 773
       },
       "unbonusedStats": {
         "power-spell": 1000,
         "resistance-physical": 0,
-        "resistance-spell": 0,
-        "magicka-maximum": 63144,
-        "magicka-recovery": 1415,
-        "penetration-physical": 0,
         "resistance-critical": 0,
-        "stamina-maximum": 15747,
-        "health-maximum": 19131,
         "power-weapon": 1000,
-        "stamina-recovery": 773,
-        "critical-rating-weapon": 2181,
-        "health-recovery": 373,
+        "magicka-recovery": 1415,
+        "critical-rating-spell": 2181,
+        "magicka-maximum": 63144,
         "penetration-spell": 0,
-        "critical-rating-spell": 2181
+        "stamina-maximum": 15747,
+        "health-recovery": 373,
+        "resistance-spell": 0,
+        "critical-rating-weapon": 2181,
+        "health-maximum": 19131,
+        "penetration-physical": 0,
+        "stamina-recovery": 773
       },
       "activeBuffs": [
         {
@@ -14694,10 +14694,10 @@
       "inArchive": false,
       "archiveBoons": [],
       "advanced": {
-        "healing-critical-bonus": 0,
         "critical-damage": 0,
-        "healing-done-base": 0.05,
-        "healing-taken-base": 0.03
+        "healing-taken-base": 0.03,
+        "healing-critical-bonus": 0,
+        "healing-done-base": 0.05
       },
       "passiveRankIds": []
     },
@@ -14709,36 +14709,36 @@
       "stats": {
         "power-spell": 2335,
         "resistance-physical": 9048,
-        "resistance-spell": 15714,
-        "magicka-maximum": 66970,
-        "magicka-recovery": 1351,
-        "penetration-physical": 6335,
         "resistance-critical": 1320,
-        "stamina-maximum": 14398,
-        "health-maximum": 19936,
         "power-weapon": 2335,
-        "stamina-recovery": 773,
-        "critical-rating-weapon": 6448,
-        "health-recovery": 373,
+        "magicka-recovery": 1351,
+        "critical-rating-spell": 6448,
+        "magicka-maximum": 66970,
         "penetration-spell": 6335,
-        "critical-rating-spell": 6448
+        "stamina-maximum": 14398,
+        "health-recovery": 373,
+        "resistance-spell": 15714,
+        "critical-rating-weapon": 6448,
+        "health-maximum": 19936,
+        "penetration-physical": 6335,
+        "stamina-recovery": 773
       },
       "unbonusedStats": {
         "power-spell": 1000,
         "resistance-physical": 0,
-        "resistance-spell": 0,
-        "magicka-maximum": 66970,
-        "magicka-recovery": 1351,
-        "penetration-physical": 0,
         "resistance-critical": 0,
-        "stamina-maximum": 14398,
-        "health-maximum": 19936,
         "power-weapon": 1000,
-        "stamina-recovery": 773,
-        "critical-rating-weapon": 2181,
-        "health-recovery": 373,
+        "magicka-recovery": 1351,
+        "critical-rating-spell": 2181,
+        "magicka-maximum": 66970,
         "penetration-spell": 0,
-        "critical-rating-spell": 2181
+        "stamina-maximum": 14398,
+        "health-recovery": 373,
+        "resistance-spell": 0,
+        "critical-rating-weapon": 2181,
+        "health-maximum": 19936,
+        "penetration-physical": 0,
+        "stamina-recovery": 773
       },
       "activeBuffs": [
         {
@@ -15605,10 +15605,10 @@
       "inArchive": false,
       "archiveBoons": [],
       "advanced": {
-        "healing-critical-bonus": 0,
         "critical-damage": 0,
-        "healing-done-base": 0.05,
-        "healing-taken-base": 0.03
+        "healing-taken-base": 0.03,
+        "healing-critical-bonus": 0,
+        "healing-done-base": 0.05
       },
       "passiveRankIds": []
     }

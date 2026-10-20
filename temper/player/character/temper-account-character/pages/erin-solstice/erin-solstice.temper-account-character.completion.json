@@ -28361,36 +28361,36 @@
       "stats": {
         "power-spell": 1000,
         "resistance-physical": 0,
-        "resistance-spell": 0,
-        "critical-rating-spell": 4810,
-        "magicka-recovery": 524,
-        "penetration-spell": 0,
         "resistance-critical": 1320,
-        "stamina-maximum": 23127,
         "power-weapon": 1000,
-        "health-maximum": 23051,
-        "stamina-recovery": 514,
-        "critical-rating-weapon": 4810,
+        "magicka-recovery": 524,
+        "health-recovery": 814,
         "penetration-physical": 0,
         "magicka-maximum": 19731,
-        "health-recovery": 814
+        "stamina-maximum": 23127,
+        "critical-rating-weapon": 4810,
+        "resistance-spell": 0,
+        "penetration-spell": 0,
+        "critical-rating-spell": 4810,
+        "health-maximum": 23051,
+        "stamina-recovery": 514
       },
       "unbonusedStats": {
         "power-spell": 1000,
         "resistance-physical": 0,
-        "resistance-spell": 0,
-        "critical-rating-spell": 2181,
-        "magicka-recovery": 524,
-        "penetration-spell": 0,
         "resistance-critical": 0,
-        "stamina-maximum": 23127,
         "power-weapon": 1000,
-        "health-maximum": 23051,
-        "stamina-recovery": 514,
-        "critical-rating-weapon": 2181,
+        "magicka-recovery": 524,
+        "health-recovery": 814,
         "penetration-physical": 0,
         "magicka-maximum": 19731,
-        "health-recovery": 814
+        "stamina-maximum": 23127,
+        "critical-rating-weapon": 2181,
+        "resistance-spell": 0,
+        "penetration-spell": 0,
+        "critical-rating-spell": 2181,
+        "health-maximum": 23051,
+        "stamina-recovery": 514
       },
       "activeBuffs": [
         {
@@ -28449,10 +28449,10 @@
       "inArchive": false,
       "archiveBoons": [],
       "advanced": {
-        "healing-critical-bonus": 0,
-        "healing-done-base": 0,
         "critical-damage": 0,
-        "healing-taken-base": 0
+        "healing-taken-base": 0,
+        "healing-critical-bonus": 0,
+        "healing-done-base": 0
       },
       "passiveRankIds": []
     },
@@ -28463,36 +28463,36 @@
       "stats": {
         "power-spell": 1000,
         "resistance-physical": 0,
-        "resistance-spell": 0,
-        "magicka-maximum": 27567,
-        "magicka-recovery": 514,
-        "penetration-physical": 0,
         "resistance-critical": 1320,
-        "stamina-maximum": 12000,
         "health-recovery": 814,
-        "power-weapon": 1000,
-        "stamina-recovery": 514,
+        "magicka-recovery": 514,
+        "critical-rating-spell": 2181,
+        "magicka-maximum": 27567,
+        "health-maximum": 21051,
+        "stamina-maximum": 12000,
+        "penetration-physical": 0,
+        "resistance-spell": 0,
         "critical-rating-weapon": 2181,
         "penetration-spell": 0,
-        "health-maximum": 21051,
-        "critical-rating-spell": 2181
+        "power-weapon": 1000,
+        "stamina-recovery": 514
       },
       "unbonusedStats": {
         "power-spell": 1000,
         "resistance-physical": 0,
-        "resistance-spell": 0,
-        "magicka-maximum": 27567,
-        "magicka-recovery": 514,
-        "penetration-physical": 0,
         "resistance-critical": 0,
-        "stamina-maximum": 12000,
         "health-recovery": 814,
-        "power-weapon": 1000,
-        "stamina-recovery": 514,
+        "magicka-recovery": 514,
+        "critical-rating-spell": 2181,
+        "magicka-maximum": 27567,
+        "health-maximum": 21051,
+        "stamina-maximum": 12000,
+        "penetration-physical": 0,
+        "resistance-spell": 0,
         "critical-rating-weapon": 2181,
         "penetration-spell": 0,
-        "health-maximum": 21051,
-        "critical-rating-spell": 2181
+        "power-weapon": 1000,
+        "stamina-recovery": 514
       },
       "activeBuffs": [
         {
@@ -28532,10 +28532,10 @@
       "inArchive": false,
       "archiveBoons": [],
       "advanced": {
-        "healing-critical-bonus": 0,
         "critical-damage": 0,
-        "healing-done-base": 0,
-        "healing-taken-base": 0
+        "healing-taken-base": 0,
+        "healing-critical-bonus": 0,
+        "healing-done-base": 0
       }
     }
   },
