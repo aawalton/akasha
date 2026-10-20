@@ -1,10 +1,40 @@
-import { getSetBonuses } from "akasha/temper/web/item-browser/modules/item-browser-item-link/item-browser-item-link.module.code.ts"
+import {
+  getSetBonuses,
+  getSetBonusSteps,
+} from "akasha/temper/web/item-browser/modules/item-browser-item-link/item-browser-item-link.module.code.ts"
+import {
+  buildStandardSetBonusKeys,
+  nonStandardSetBonuses,
+  type SetBonusStep,
+  type StandardSetBonusKeys,
+} from "akasha/temper/web/item-browser/modules/item-browser-standard-set-bonuses/item-browser-standard-set-bonuses.module.code.ts"
 import type {
   EntryData,
   ItemBrowserListInstance,
 } from "akasha/temper/web/item-browser/modules/item-browser-types/item-browser-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-item-browser-port/eso-item-browser-port.type-declaration.d.ts"
+
+let standardSetBonusKeys: StandardSetBonusKeys | undefined
+
+function getStandardSetBonusKeys(this: void, entries: readonly EntryData[]): StandardSetBonusKeys {
+  if (standardSetBonusKeys === undefined) {
+    const sets: SetBonusStep[][] = []
+    for (const entry of entries) {
+      const numBonuses = typeof entry.bonuses === "number" ? entry.bonuses : entry.bonuses.length
+      sets.push(getSetBonusSteps(entry.itemLink, numBonuses))
+    }
+    standardSetBonusKeys = buildStandardSetBonusKeys(sets)
+  }
+  return standardSetBonusKeys
+}
+
+function getEntrySetBonuses(this: void, data: EntryData): string[] {
+  if (typeof data.bonuses === "number") {
+    data.bonuses = getSetBonuses(data.itemLink, data.bonuses)
+  }
+  return data.bonuses
+}
 
 export function orderedSearch(
   this: ItemBrowserListInstance,
@@ -88,10 +118,15 @@ export function checkForMatch(
           return true
         }
       } else if (this.searchType === 2) {
-        if (typeof data.bonuses === "number") {
-          data.bonuses = getSetBonuses(data.itemLink, data.bonuses)
+        if (this.SearchSetBonuses(getEntrySetBonuses(data), searchFragment)) {
+          return true
         }
-        if (this.SearchSetBonuses(data.bonuses, searchFragment)) {
+      } else if (this.searchType === 3) {
+        const bonuses = nonStandardSetBonuses(
+          getStandardSetBonusKeys(this.masterList),
+          getEntrySetBonuses(data)
+        )
+        if (this.SearchSetBonuses(bonuses, searchFragment)) {
           return true
         }
       }

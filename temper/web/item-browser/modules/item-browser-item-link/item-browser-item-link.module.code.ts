@@ -7,6 +7,7 @@ import {
   countUnlockedSlots,
   getCurrencyCost,
 } from "akasha/temper/web/item-browser/modules/item-browser-multi-account/item-browser-multi-account.module.code.ts"
+import type { SetBonusStep } from "akasha/temper/web/item-browser/modules/item-browser-standard-set-bonuses/item-browser-standard-set-bonuses.module.code.ts"
 import {
   checkFlag,
   getAllianceStyle,
@@ -81,11 +82,19 @@ function makeItemLink(this: void, id: number, flags: number, ext?: number): stri
   return itemLink
 }
 
+function getSetBonusSteps(this: void, itemLink: string, numBonuses: number): SetBonusStep[] {
+  const steps: SetBonusStep[] = []
+  for (const i of $range(1, numBonuses)) {
+    const [numRequired, description] = GetItemLinkSetBonusInfo(itemLink, false, i)
+    steps[i - 1] = { numRequired, description }
+  }
+  return steps
+}
+
 function getSetBonuses(this: void, itemLink: string, numBonuses: number): string[] {
   const bonuses: string[] = []
-  for (const i of $range(1, numBonuses)) {
-    const [, bonusDescription] = GetItemLinkSetBonusInfo(itemLink, false, i)
-    bonuses[i - 1] = bonusDescription
+  for (const step of getSetBonusSteps(itemLink, numBonuses)) {
+    bonuses.push(step.description)
   }
   return bonuses
 }
@@ -202,4 +211,4 @@ export function createEntryFromRaw(this: void, rawEntry: ItemBrowserRow): EntryD
   }
 }
 
-export { getSetBonuses }
+export { getSetBonuses, getSetBonusSteps }
