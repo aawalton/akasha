@@ -12,7 +12,12 @@ export const characterCaptureEnchantQuality = {
       statement:
         "A link naming no subtype, or one past what nine bits hold, gives a subtype of zero.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A glyph's level is the link's field after its glyph subtype, and zero past six bits.",
+    },
   ],
   createdAt: "2026-09-02T09:20:37.201Z",
-  updatedAt: "2026-10-14T16:22:09.119Z",
+  updatedAt: "2026-10-20T17:52:00.424Z",
 } as const satisfies Module

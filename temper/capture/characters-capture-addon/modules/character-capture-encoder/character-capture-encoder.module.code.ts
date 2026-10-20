@@ -14,6 +14,7 @@ import {
   CHARACTER_ESO_PLUS_BITS,
   CHARACTER_ESO_VERSION,
   CHARACTER_FOCUS_SCRIPT_BITS,
+  CHARACTER_GLYPH_LEVEL_BITS,
   CHARACTER_GLYPH_SUBTYPE_BITS,
   CHARACTER_GRIMOIRE_BITS,
   CHARACTER_JEWELRY_ENCHANT_BITS,
@@ -87,6 +88,7 @@ export function encodeCharacterBuild(build: CharacterBuildData): string {
       writeBits(writer, slot.enchantQualityIndex, CHARACTER_QUALITY_BITS)
       writeBits(writer, slot.enchantSubtype, CHARACTER_GLYPH_SUBTYPE_BITS)
       writeBits(writer, slot.itemLevelPlace, ITEM_LEVEL_BITS)
+      writeBits(writer, slot.enchantLevel, CHARACTER_GLYPH_LEVEL_BITS)
     }
   }
 
@@ -102,6 +104,7 @@ export function encodeCharacterBuild(build: CharacterBuildData): string {
       writeBits(writer, slot.enchantQualityIndex, CHARACTER_QUALITY_BITS)
       writeBits(writer, slot.enchantSubtype, CHARACTER_GLYPH_SUBTYPE_BITS)
       writeBits(writer, slot.itemLevelPlace, ITEM_LEVEL_BITS)
+      writeBits(writer, slot.enchantLevel, CHARACTER_GLYPH_LEVEL_BITS)
     }
   }
 
@@ -176,6 +179,7 @@ function encodeCharacterWeaponSlot(
     writeBits(writer, slot.enchantQualityIndex, CHARACTER_QUALITY_BITS)
     writeBits(writer, slot.enchantSubtype, CHARACTER_GLYPH_SUBTYPE_BITS)
     writeBits(writer, slot.itemLevelPlace, ITEM_LEVEL_BITS)
+    writeBits(writer, slot.enchantLevel, CHARACTER_GLYPH_LEVEL_BITS)
   } else {
     writeBits(writer, 0, 1)
     writeBits(writer, slot.typeIndex, CHARACTER_WEAPON_TYPE_BITS)
@@ -187,5 +191,6 @@ function encodeCharacterWeaponSlot(
     writeBits(writer, slot.enchantQualityIndex, CHARACTER_QUALITY_BITS)
     writeBits(writer, slot.enchantSubtype, CHARACTER_GLYPH_SUBTYPE_BITS)
     writeBits(writer, slot.itemLevelPlace, ITEM_LEVEL_BITS)
+    writeBits(writer, slot.enchantLevel, CHARACTER_GLYPH_LEVEL_BITS)
   }
 }

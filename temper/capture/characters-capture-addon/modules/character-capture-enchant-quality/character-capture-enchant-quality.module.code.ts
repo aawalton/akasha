@@ -36,3 +36,12 @@ export function getEnchantSubtype(itemLink: string): number {
   if (enchantSubType === undefined || enchantSubType >= ENCHANT_SUBTYPE_LIMIT) return 0
   return enchantSubType
 }
+
+const ENCHANT_LEVEL_LIMIT = 64
+
+export function getEnchantLevel(itemLink: string): number {
+  const [capture] = string.match(itemLink, ":item:%d+:%d+:%d+:%d+:%d+:(%d+)")
+  const enchantLevel = tonumber(parseLuaCapture(capture))
+  if (enchantLevel === undefined || enchantLevel >= ENCHANT_LEVEL_LIMIT) return 0
+  return enchantLevel
+}

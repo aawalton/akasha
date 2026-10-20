@@ -16,7 +16,12 @@ export const characterCaptureEquipment = {
       statement:
         "Each worn piece's level is captured from the level and champion points it requires.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each worn piece's glyph level is captured from its link beside its glyph subtype.",
+    },
   ],
   createdAt: "2026-09-02T09:20:24.559Z",
-  updatedAt: "2026-10-20T17:44:08.462Z",
+  updatedAt: "2026-10-20T17:52:00.424Z",
 } as const satisfies Module

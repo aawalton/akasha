@@ -35,7 +35,7 @@ const { characterPassiveSkillCount } = await import(
 
 const DUBIOUS_CAMORAN_THRONE_BUFF = 89957
 
-function armorPiece(itemLevelPlace: number): CharacterArmorSlotData {
+function armorPiece(itemLevelPlace: number, enchantLevel = 0): CharacterArmorSlotData {
   return {
     isEmpty: false,
     weightIndex: 1,
@@ -46,6 +46,7 @@ function armorPiece(itemLevelPlace: number): CharacterArmorSlotData {
     enchantQualityIndex: 0,
     enchantSubtype: 0,
     itemLevelPlace,
+    enchantLevel,
   }
 }
 
@@ -58,6 +59,7 @@ const NO_JEWELRY: CharacterJewelrySlotData = {
   enchantQualityIndex: 0,
   enchantSubtype: 0,
   itemLevelPlace: 0,
+  enchantLevel: 0,
 }
 
 const NO_WEAPON: CharacterWeaponSlotData = {
@@ -74,6 +76,7 @@ const NO_WEAPON: CharacterWeaponSlotData = {
   enchantQualityIndex: 0,
   enchantSubtype: 0,
   itemLevelPlace: 0,
+  enchantLevel: 0,
 }
 
 function captured(armor: CharacterArmorSlotData[], foodIndex: number): CharacterBuildData {
@@ -121,6 +124,26 @@ test("each worn piece's level the add-on writes is read back by the build codec"
   )
   const armor = decodeBuild(buildHash(hash))?.equipment.armor
   expect(Object.values(armor ?? {}).map((piece) => piece.data?.level)).toEqual([...levels])
+})
+
+test("each worn piece's glyph level the add-on writes is read back by the build codec", () => {
+  const glyphLevels = [5, 15, 25, 35, 45, 50, 0]
+  const hash = encodeCharacterBuild(
+    captured(
+      glyphLevels.map((one) => armorPiece(itemLevelPlaceOf("CP160"), one)),
+      0
+    )
+  )
+  const armor = decodeBuild(buildHash(hash))?.equipment.armor
+  expect(Object.values(armor ?? {}).map((piece) => piece.data?.enchantmentLevel)).toEqual([
+    5,
+    15,
+    25,
+    35,
+    45,
+    50,
+    undefined,
+  ])
 })
 
 test("a food or drink the add-on writes is read back by the build codec as that page", () => {

@@ -10,6 +10,7 @@ import type {
   CharacterWeaponSlotData,
 } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-codec-types/character-capture-codec-types.module.code.ts"
 import {
+  getEnchantLevel,
   getEnchantQualityIndex,
   getEnchantSubtype,
 } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-enchant-quality/character-capture-enchant-quality.module.code.ts"
@@ -41,6 +42,7 @@ export function captureCharacterArmorSlot(slot: number): CharacterArmorSlotData 
       enchantQualityIndex: 0,
       enchantSubtype: 0,
       itemLevelPlace: 0,
+      enchantLevel: 0,
     }
   }
 
@@ -59,6 +61,7 @@ export function captureCharacterArmorSlot(slot: number): CharacterArmorSlotData 
     enchantQualityIndex: getEnchantQualityIndex(itemLink),
     enchantSubtype: getEnchantSubtype(itemLink),
     itemLevelPlace: itemLevelPlaceOf(itemLink),
+    enchantLevel: getEnchantLevel(itemLink),
   }
 }
 
@@ -75,6 +78,7 @@ export function captureCharacterJewelrySlot(slot: number): CharacterJewelrySlotD
       enchantQualityIndex: 0,
       enchantSubtype: 0,
       itemLevelPlace: 0,
+      enchantLevel: 0,
     }
   }
 
@@ -91,6 +95,7 @@ export function captureCharacterJewelrySlot(slot: number): CharacterJewelrySlotD
     enchantQualityIndex: getEnchantQualityIndex(itemLink),
     enchantSubtype: getEnchantSubtype(itemLink),
     itemLevelPlace: itemLevelPlaceOf(itemLink),
+    enchantLevel: getEnchantLevel(itemLink),
   }
 }
 
@@ -110,6 +115,7 @@ export function captureCharacterWeaponSlot(slot: number): CharacterWeaponSlotDat
     enchantQualityIndex: 0,
     enchantSubtype: 0,
     itemLevelPlace: 0,
+    enchantLevel: 0,
   }
 
   if (itemLink === "") {
@@ -124,6 +130,7 @@ export function captureCharacterWeaponSlot(slot: number): CharacterWeaponSlotDat
   const enchantQualityIndex = getEnchantQualityIndex(itemLink)
   const enchantSubtype = getEnchantSubtype(itemLink)
   const itemLevelPlace = itemLevelPlaceOf(itemLink)
+  const enchantLevel = getEnchantLevel(itemLink)
 
   if (weaponType === WEAPONTYPE_SHIELD) {
     return {
@@ -140,6 +147,7 @@ export function captureCharacterWeaponSlot(slot: number): CharacterWeaponSlotDat
       enchantQualityIndex,
       enchantSubtype,
       itemLevelPlace,
+      enchantLevel,
     }
   }
 
@@ -157,6 +165,7 @@ export function captureCharacterWeaponSlot(slot: number): CharacterWeaponSlotDat
     enchantQualityIndex,
     enchantSubtype,
     itemLevelPlace,
+    enchantLevel,
   }
 }
 
