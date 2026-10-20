@@ -196,6 +196,31 @@ test("a page renamed in place keeps its entry, told by its page id", () => {
   expect(refusalsOver(over, [{ ...ROWS, name: "hashPlace" }], rows)).toEqual([])
 })
 
+test("a slug renamed with its id and place kept lands where the change carries only the old path", () => {
+  const placed = (id: string, at: number): string =>
+    `export const held = { id: "${id}", hashPlace: ${at} }\n`
+  const was: Readonly<Record<string, string>> = {
+    [SKILL_A]: placed("one", 0),
+    [SKILL_B]: placed("two", 1),
+    [SKILL_C]: placed("three", 2),
+  }
+  const renamed = "skill/pages/aa/aa.temper-skill.ts"
+  const now: Readonly<Record<string, string | null>> = {
+    [SKILL_A]: null,
+    [renamed]: placed("one", 0),
+    [SKILL_B]: placed("two", 1),
+    [SKILL_C]: placed("three", 2),
+  }
+  const over: Change = {
+    root: "/repo",
+    changed: [SKILL_A],
+    before: (path) => bytes(was[path]),
+    after: (path) => bytes(now[path]),
+  }
+  const rows = (): readonly string[] => [renamed, SKILL_B, SKILL_C]
+  expect(refusalsOver(over, [{ ...ROWS, name: "hashPlace" }], rows)).toEqual([])
+})
+
 test("a page of another id put in the place of one taken out is refused", () => {
   const placed = (id: string, at: number): string =>
     `export const held = { id: "${id}", hashPlace: ${at} }\n`
