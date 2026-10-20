@@ -101,11 +101,12 @@ function foundIn(
   read: Reader,
   regions: readonly Region[],
   hot: Set<bigint>,
-  names: readonly string[]
+  names: readonly string[],
+  warmOnly: boolean
 ): Searched {
   const warm = regions.filter((region) => hot.has(region.from))
   const fromWarm = searched(read, warm, names, `${warm.length} warm regions`).found
-  const missing = names.filter((_, index) => (fromWarm[index] ?? null) === null)
+  const missing = warmOnly ? [] : names.filter((_, index) => (fromWarm[index] ?? null) === null)
   const fromAll = searched(read, regions, missing, `${regions.length} regions`)
   const found = names.map(
     (name, index) => fromWarm[index] ?? fromAll.found[missing.indexOf(name)] ?? null
@@ -130,7 +131,11 @@ function watchingOf(pid: number, hot: Set<bigint>, before: Watching | null): Wat
   const read = readerOf(pid)
   const regions = regionsOf(pid)
   const kept = before?.pid === pid ? before : null
-  const searchedNow = foundIn(read, regions, hot, [CHARACTERS_GLOBAL, FIGHTS_GLOBAL])
+  const keptReads =
+    kept !== null &&
+    stillHeld(read, kept.characters) !== null &&
+    stillHeld(read, kept.fights) !== null
+  const searchedNow = foundIn(read, regions, hot, [CHARACTERS_GLOBAL, FIGHTS_GLOBAL], keptReads)
   const [foundCharacters, foundFights] = searchedNow.found
   const characters = foundCharacters ?? stillHeld(read, kept?.characters)
   const fights = foundFights ?? stillHeld(read, kept?.fights)
