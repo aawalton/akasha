@@ -268,7 +268,6 @@ export const reportedStatsReadingSchema = z.strictObject({
   advanced: z.record(z.string(), z.number()).optional(),
   advancedSheet: z.record(z.string(), advancedSheetValueSchema).optional(),
   sheet: z.record(z.string(), z.number()).optional(),
-  buffs: numbers.optional(),
   passiveRankIds: luaArrayOrEmpty(numbers).optional(),
   classMastery: luaArrayOrEmpty(classMasteryLineSchema).optional(),
 })

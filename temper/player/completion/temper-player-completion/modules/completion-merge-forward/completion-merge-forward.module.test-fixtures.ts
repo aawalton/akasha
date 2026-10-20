@@ -103,7 +103,7 @@ export const RAFAEMA_LIST_23_LIVE = [
 ]
 
 export function reportedStatsReading(capturedAt: number, armor: number) {
-  return { capturedAt, inCombat: false, stats: { armor }, buffs: [capturedAt] }
+  return { capturedAt, inCombat: false, stats: { armor } }
 }
 
 export const SET_WITH_HELM = {

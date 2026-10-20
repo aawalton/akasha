@@ -101,11 +101,6 @@ export const completionRecord = {
     },
     {
       decisionKind: "decision-kind/stopgap",
-      statement:
-        "A reading that kept buff ids alone is still read, until a fresh reading replaces it.",
-    },
-    {
-      decisionKind: "decision-kind/stopgap",
       statement: "A character's bank visit date is still read, so an old record is not refused.",
     },
     {
@@ -114,5 +109,5 @@ export const completionRecord = {
     },
   ],
   createdAt: "2026-09-02T04:57:23.388Z",
-  updatedAt: "2026-10-20T14:06:09.069Z",
+  updatedAt: "2026-10-20T16:35:43.029Z",
 } as const satisfies Module
