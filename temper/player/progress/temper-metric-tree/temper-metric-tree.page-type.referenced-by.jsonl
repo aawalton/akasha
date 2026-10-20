@@ -143,6 +143,7 @@
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-effective-healing.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-effective-health-physical.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-effective-health-spell.temper-metric-tree.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-effective-health.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-effective-power-spell.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-effective-power-weapon.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-effective-power.temper-metric-tree.ts","typed":true,"deferred":false}

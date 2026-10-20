@@ -1,15 +1,42 @@
 import type { FormulaNode } from "akasha/temper/player/character/stat/modules/formula-types/formula-types.module.code.ts"
 
 export const FORMULA: FormulaNode = {
-  type: "min",
+  type: "divide",
   operands: [
     {
-      type: "metric-refs",
-      metricIds: ["effective-health-physical"],
+      type: "constant",
+      value: 2,
     },
     {
-      type: "metric-refs",
-      metricIds: ["effective-health-spell"],
+      type: "add",
+      operands: [
+        {
+          type: "divide",
+          operands: [
+            {
+              type: "constant",
+              value: 1,
+            },
+            {
+              type: "metric-refs",
+              metricIds: ["effective-health-physical"],
+            },
+          ],
+        },
+        {
+          type: "divide",
+          operands: [
+            {
+              type: "constant",
+              value: 1,
+            },
+            {
+              type: "metric-refs",
+              metricIds: ["effective-health-spell"],
+            },
+          ],
+        },
+      ],
     },
   ],
 }
