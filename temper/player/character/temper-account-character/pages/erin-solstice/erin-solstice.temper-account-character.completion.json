@@ -28354,48 +28354,48 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792519681,
+      "capturedAt": 1792520726,
       "buildHash": "ATQNNIDAAIBhxAkDE_tnELIDE_tnELIgAhVAEIBDJgtnELIgQANCgYUDJgtnELIDJgtnELIQaO1uULIwAANAEICEAAhdABACIgmOtuULKJRXRySlieV3Gc46XEkmQjRAROuwVDf7wAE4oScYuTwfAu__jtwNdDJpFdECke-6qCP68GPESoREZEBAZGZAREREZEQGQERqRERARkRmhEAERoQGRkZmZGgEAIhkRGB0RkaAdAREyGZkRoQAAARwREBElGZAaERERgR0WXRr1GZFiTKx5MsuZNnZ9GnVr2z6FGlTqeKqxvHZHDx9cvQMWSFoibN0bp2kSpk79QpgqoSuOsMEjhs2BKlgRgGEChjJoOIEmzgoWMGjh5AiSOkw-AUyZYCCTXhks54mMEgMYUCEebBdYrXKZhiLngklCIAe3mbWvaea4eygZA",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "ultimate": 57,
       "health": 32269,
-      "healthBefore": 31454,
+      "healthBefore": 30897,
       "healthPaired": false,
       "elderDragonAmount": 0,
       "stats": {
-        "penetration-physical": 4228,
-        "resistance-spell": 32077,
-        "magicka-recovery": 555,
-        "health-maximum": 32269,
         "magicka-maximum": 19461,
-        "critical-rating-weapon": 6226,
-        "penetration-spell": 4228,
-        "power-weapon": 1844,
-        "stamina-recovery": 545,
-        "power-spell": 1844,
-        "stamina-maximum": 24214,
+        "health-recovery": 1118,
         "resistance-critical": 1320,
-        "health-recovery": 1143,
-        "resistance-physical": 30625,
-        "critical-rating-spell": 6226
+        "stamina-recovery": 545,
+        "critical-rating-spell": 6226,
+        "penetration-physical": 4228,
+        "power-spell": 1844,
+        "health-maximum": 32269,
+        "resistance-spell": 32077,
+        "critical-rating-weapon": 6226,
+        "magicka-recovery": 555,
+        "power-weapon": 1844,
+        "penetration-spell": 4228,
+        "stamina-maximum": 24214,
+        "resistance-physical": 30625
       },
       "unbonusedStats": {
-        "penetration-physical": 0,
-        "resistance-spell": 0,
-        "magicka-recovery": 555,
-        "health-maximum": 32269,
         "magicka-maximum": 19461,
-        "critical-rating-weapon": 2181,
-        "penetration-spell": 0,
-        "power-weapon": 1000,
-        "stamina-recovery": 545,
-        "power-spell": 1000,
-        "stamina-maximum": 24214,
+        "health-recovery": 1118,
         "resistance-critical": 0,
-        "health-recovery": 1143,
-        "resistance-physical": 0,
-        "critical-rating-spell": 2181
+        "stamina-recovery": 545,
+        "critical-rating-spell": 2181,
+        "penetration-physical": 0,
+        "power-spell": 1000,
+        "health-maximum": 32269,
+        "resistance-spell": 0,
+        "critical-rating-weapon": 2181,
+        "magicka-recovery": 555,
+        "power-weapon": 1000,
+        "penetration-spell": 0,
+        "stamina-maximum": 24214,
+        "resistance-physical": 0
       },
       "activeBuffs": [
         {
@@ -29507,10 +29507,10 @@
       "moving": false,
       "archiveBoons": [],
       "advanced": {
+        "healing-taken-base": 0.14,
         "healing-critical-bonus": 0.02,
-        "critical-damage": 0.22,
         "healing-done-base": 0.02,
-        "healing-taken-base": 0.14
+        "critical-damage": 0.22
       },
       "advancedSheet": {
         "fire-damage": {
@@ -29520,12 +29520,12 @@
           "flat": 0,
           "percent": 0
         },
-        "disease-damage": {
-          "category": "Damage Bonuses",
-          "label": "Disease Damage",
+        "healing-done-bonuses": {
+          "category": "Healing Bonuses",
+          "label": "Healing Done",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 0
+          "percent": 2
         },
         "bleed-damage": {
           "category": "Damage Bonuses",
@@ -29534,11 +29534,25 @@
           "flat": 0,
           "percent": 0
         },
-        "cc-break-cost": {
+        "shock-resist": {
+          "category": "Resistances",
+          "label": "Shock Resistance",
+          "format": "flat-or-percent",
+          "flat": 32077,
+          "percent": 48.6015167236
+        },
+        "oblivion-damage": {
+          "category": "Damage Bonuses",
+          "label": "Oblivion Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "block-speed": {
           "category": "Core Abilities",
-          "label": "Break Free Cost",
-          "format": "flat",
-          "flat": 4351
+          "label": "Block Move Speed",
+          "format": "percent",
+          "percent": 42
         },
         "poison-resist": {
           "category": "Resistances",
@@ -29547,9 +29561,113 @@
           "flat": 30625,
           "percent": 46.4015159607
         },
-        "subscriber-coin-bonus": {
+        "bleed-resist": {
+          "category": "Resistances",
+          "label": "Bleed Resistance",
+          "format": "flat-or-percent",
+          "flat": 30625,
+          "percent": 46.4015159607
+        },
+        "bash-cost": {
+          "category": "Core Abilities",
+          "label": "Bash Cost",
+          "format": "flat",
+          "flat": 594
+        },
+        "critical-healing": {
+          "category": "Healing Bonuses",
+          "label": "Critical Healing",
+          "format": "percent",
+          "percent": 2
+        },
+        "sprint-cost": {
+          "category": "Core Abilities",
+          "label": "Sprint Cost",
+          "format": "flat",
+          "flat": 402
+        },
+        "physical-damage": {
+          "category": "Damage Bonuses",
+          "label": "Physical Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "magic-damage": {
+          "category": "Damage Bonuses",
+          "label": "Magic Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "cold-damage": {
+          "category": "Damage Bonuses",
+          "label": "Frost Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "shock-damage": {
+          "category": "Damage Bonuses",
+          "label": "Shock Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "poison-damage": {
+          "category": "Damage Bonuses",
+          "label": "Poison Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "sneak-cost": {
+          "category": "Core Abilities",
+          "label": "Sneak Cost",
+          "format": "flat",
+          "flat": 69
+        },
+        "block-cost": {
+          "category": "Core Abilities",
+          "label": "Block Cost",
+          "format": "flat",
+          "flat": 1656
+        },
+        "dodge-cost": {
+          "category": "Core Abilities",
+          "label": "Dodge Roll Cost",
+          "format": "flat",
+          "flat": 3638
+        },
+        "frost-resist": {
+          "category": "Resistances",
+          "label": "Frost Resistance",
+          "format": "flat-or-percent",
+          "flat": 32077,
+          "percent": 48.6015167236
+        },
+        "sprint-speed": {
+          "category": "Core Abilities",
+          "label": "Sprint Speed",
+          "format": "percent",
+          "percent": 143
+        },
+        "critical-damage": {
+          "category": "Damage Bonuses",
+          "label": "Critical Damage",
+          "format": "percent",
+          "percent": 22
+        },
+        "magic-resist": {
+          "category": "Resistances",
+          "label": "Magic Resistance",
+          "format": "flat-or-percent",
+          "flat": 32077,
+          "percent": 48.6015167236
+        },
+        "subscriber-all-xp": {
           "category": "ESO Plus",
-          "label": "Gold",
+          "label": "Experience",
           "format": "percent",
           "percent": 10
         },
@@ -29559,16 +29677,23 @@
           "format": "percent",
           "percent": 61
         },
-        "poison-damage": {
+        "fire-resist": {
+          "category": "Resistances",
+          "label": "Flame Resistance",
+          "format": "flat-or-percent",
+          "flat": 32077,
+          "percent": 48.6015167236
+        },
+        "disease-damage": {
           "category": "Damage Bonuses",
-          "label": "Poison Damage",
+          "label": "Disease Damage",
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
         },
-        "subscriber-inspiration-bonus": {
+        "subscriber-coin-bonus": {
           "category": "ESO Plus",
-          "label": "Crafting Inspiration",
+          "label": "Gold",
           "format": "percent",
           "percent": 10
         },
@@ -29578,18 +29703,12 @@
           "format": "flat",
           "flat": 874
         },
-        "block-speed": {
-          "category": "Core Abilities",
-          "label": "Block Move Speed",
-          "format": "percent",
-          "percent": 42
-        },
-        "oblivion-damage": {
-          "category": "Damage Bonuses",
-          "label": "Oblivion Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
+        "disease-resist": {
+          "category": "Resistances",
+          "label": "Disease Resistance",
+          "format": "flat-or-percent",
+          "flat": 30625,
+          "percent": 46.4015159607
         },
         "healing-taken-bonuses": {
           "category": "Healing Bonuses",
@@ -29598,61 +29717,11 @@
           "flat": 0,
           "percent": 14
         },
-        "sneak-speed-reduction": {
+        "cc-break-cost": {
           "category": "Core Abilities",
-          "label": "Sneak Speed",
-          "format": "percent",
-          "percent": 73
-        },
-        "subscriber-alliance-points-bonus": {
-          "category": "ESO Plus",
-          "label": "Alliance Points",
-          "format": "percent",
-          "percent": 10
-        },
-        "frost-resist": {
-          "category": "Resistances",
-          "label": "Frost Resistance",
-          "format": "flat-or-percent",
-          "flat": 32077,
-          "percent": 48.6015167236
-        },
-        "cold-damage": {
-          "category": "Damage Bonuses",
-          "label": "Frost Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "block-cost": {
-          "category": "Core Abilities",
-          "label": "Block Cost",
+          "label": "Break Free Cost",
           "format": "flat",
-          "flat": 1656
-        },
-        "critical-healing": {
-          "category": "Healing Bonuses",
-          "label": "Critical Healing",
-          "format": "percent",
-          "percent": 2
-        },
-        "bash-cost": {
-          "category": "Core Abilities",
-          "label": "Bash Cost",
-          "format": "flat",
-          "flat": 594
-        },
-        "subscriber-all-xp": {
-          "category": "ESO Plus",
-          "label": "Experience",
-          "format": "percent",
-          "percent": 10
-        },
-        "sneak-cost": {
-          "category": "Core Abilities",
-          "label": "Sneak Cost",
-          "format": "flat",
-          "flat": 69
+          "flat": 4351
         },
         "subscriber-telvar-bonus": {
           "category": "ESO Plus",
@@ -29660,103 +29729,34 @@
           "format": "percent",
           "percent": 10
         },
-        "dodge-cost": {
-          "category": "Core Abilities",
-          "label": "Dodge Roll Cost",
-          "format": "flat",
-          "flat": 3638
-        },
-        "sprint-cost": {
-          "category": "Core Abilities",
-          "label": "Sprint Cost",
-          "format": "flat",
-          "flat": 402
-        },
-        "disease-resist": {
-          "category": "Resistances",
-          "label": "Disease Resistance",
-          "format": "flat-or-percent",
-          "flat": 30625,
-          "percent": 46.4015159607
-        },
-        "healing-done-bonuses": {
-          "category": "Healing Bonuses",
-          "label": "Healing Done",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 2
-        },
-        "shock-resist": {
-          "category": "Resistances",
-          "label": "Shock Resistance",
-          "format": "flat-or-percent",
-          "flat": 32077,
-          "percent": 48.6015167236
-        },
-        "magic-resist": {
-          "category": "Resistances",
-          "label": "Magic Resistance",
-          "format": "flat-or-percent",
-          "flat": 32077,
-          "percent": 48.6015167236
-        },
-        "critical-damage": {
-          "category": "Damage Bonuses",
-          "label": "Critical Damage",
+        "subscriber-inspiration-bonus": {
+          "category": "ESO Plus",
+          "label": "Crafting Inspiration",
           "format": "percent",
-          "percent": 22
+          "percent": 10
         },
-        "shock-damage": {
-          "category": "Damage Bonuses",
-          "label": "Shock Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "bleed-resist": {
-          "category": "Resistances",
-          "label": "Bleed Resistance",
-          "format": "flat-or-percent",
-          "flat": 30625,
-          "percent": 46.4015159607
-        },
-        "magic-damage": {
-          "category": "Damage Bonuses",
-          "label": "Magic Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "fire-resist": {
-          "category": "Resistances",
-          "label": "Flame Resistance",
-          "format": "flat-or-percent",
-          "flat": 32077,
-          "percent": 48.6015167236
-        },
-        "physical-damage": {
-          "category": "Damage Bonuses",
-          "label": "Physical Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "sprint-speed": {
-          "category": "Core Abilities",
-          "label": "Sprint Speed",
+        "subscriber-alliance-points-bonus": {
+          "category": "ESO Plus",
+          "label": "Alliance Points",
           "format": "percent",
-          "percent": 143
+          "percent": 10
+        },
+        "sneak-speed-reduction": {
+          "category": "Core Abilities",
+          "label": "Sneak Speed",
+          "format": "percent",
+          "percent": 73
         }
       },
       "sheet": {
-        "riding-stamina": 60,
-        "attribute-points-unspent": 0,
-        "riding-speed": 60,
         "critical-chance-spell": 28.41365242,
         "riding-capacity": 60,
         "attribute-points-stamina": 64,
-        "critical-chance-weapon": 28.41365242,
         "attribute-points-magicka": 0,
+        "attribute-points-unspent": 0,
+        "critical-chance-weapon": 28.41365242,
+        "riding-stamina": 60,
+        "riding-speed": 60,
         "attribute-points-health": 0
       },
       "passiveRankIds": [],
@@ -29772,38 +29772,38 @@
       "healthBefore": 32088,
       "healthPaired": false,
       "stats": {
-        "penetration-physical": 5966,
-        "stamina-maximum": 26636,
-        "magicka-recovery": 545,
-        "health-maximum": 32651,
         "magicka-maximum": 20403,
-        "resistance-spell": 33108,
-        "power-weapon": 3550,
-        "critical-rating-weapon": 6006,
-        "stamina-recovery": 566,
-        "power-spell": 3550,
-        "penetration-spell": 5966,
-        "resistance-critical": 1320,
         "health-recovery": 1049,
+        "resistance-critical": 1320,
+        "power-weapon": 3550,
+        "critical-rating-spell": 6006,
+        "penetration-physical": 5966,
+        "power-spell": 3550,
+        "health-maximum": 32651,
+        "resistance-spell": 33108,
         "resistance-physical": 32382,
-        "critical-rating-spell": 6006
+        "magicka-recovery": 545,
+        "penetration-spell": 5966,
+        "stamina-recovery": 566,
+        "stamina-maximum": 26636,
+        "critical-rating-weapon": 6006
       },
       "unbonusedStats": {
-        "penetration-physical": 0,
-        "stamina-maximum": 26636,
-        "magicka-recovery": 545,
-        "health-maximum": 32651,
         "magicka-maximum": 20403,
-        "resistance-spell": 0,
-        "power-weapon": 1000,
-        "critical-rating-weapon": 2181,
-        "stamina-recovery": 566,
-        "power-spell": 1000,
-        "penetration-spell": 0,
-        "resistance-critical": 0,
         "health-recovery": 1049,
+        "resistance-critical": 0,
+        "power-weapon": 1000,
+        "critical-rating-spell": 2181,
+        "penetration-physical": 0,
+        "power-spell": 1000,
+        "health-maximum": 32651,
+        "resistance-spell": 0,
         "resistance-physical": 0,
-        "critical-rating-spell": 2181
+        "magicka-recovery": 545,
+        "penetration-spell": 0,
+        "stamina-recovery": 566,
+        "stamina-maximum": 26636,
+        "critical-rating-weapon": 2181
       },
       "activeBuffs": [
         {
@@ -30950,10 +30950,10 @@
       "moving": false,
       "archiveBoons": [],
       "advanced": {
+        "healing-taken-base": 0.15,
         "healing-critical-bonus": 0.02,
-        "critical-damage": 0.22,
         "healing-done-base": 0.02,
-        "healing-taken-base": 0.15
+        "critical-damage": 0.22
       },
       "advancedSheet": {
         "fire-damage": {
@@ -30963,12 +30963,12 @@
           "flat": 0,
           "percent": 0
         },
-        "disease-damage": {
-          "category": "Damage Bonuses",
-          "label": "Disease Damage",
+        "healing-done-bonuses": {
+          "category": "Healing Bonuses",
+          "label": "Healing Done",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 0
+          "percent": 2
         },
         "bleed-damage": {
           "category": "Damage Bonuses",
@@ -30977,11 +30977,25 @@
           "flat": 0,
           "percent": 0
         },
-        "cc-break-cost": {
+        "shock-resist": {
+          "category": "Resistances",
+          "label": "Shock Resistance",
+          "format": "flat-or-percent",
+          "flat": 33108,
+          "percent": 50.1636352539
+        },
+        "oblivion-damage": {
+          "category": "Damage Bonuses",
+          "label": "Oblivion Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "block-speed": {
           "category": "Core Abilities",
-          "label": "Break Free Cost",
-          "format": "flat",
-          "flat": 4610
+          "label": "Block Move Speed",
+          "format": "percent",
+          "percent": 42
         },
         "poison-resist": {
           "category": "Resistances",
@@ -30990,18 +31004,58 @@
           "flat": 32382,
           "percent": 49.0636367798
         },
-        "subscriber-coin-bonus": {
-          "category": "ESO Plus",
-          "label": "Gold",
-          "format": "percent",
-          "percent": 10
-        },
-        "fire-resist": {
+        "bleed-resist": {
           "category": "Resistances",
-          "label": "Flame Resistance",
+          "label": "Bleed Resistance",
           "format": "flat-or-percent",
-          "flat": 33108,
-          "percent": 50.1636352539
+          "flat": 32382,
+          "percent": 49.0636367798
+        },
+        "bash-cost": {
+          "category": "Core Abilities",
+          "label": "Bash Cost",
+          "format": "flat",
+          "flat": 614
+        },
+        "critical-healing": {
+          "category": "Healing Bonuses",
+          "label": "Critical Healing",
+          "format": "percent",
+          "percent": 2
+        },
+        "sprint-cost": {
+          "category": "Core Abilities",
+          "label": "Sprint Cost",
+          "format": "flat",
+          "flat": 415
+        },
+        "physical-damage": {
+          "category": "Damage Bonuses",
+          "label": "Physical Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "magic-damage": {
+          "category": "Damage Bonuses",
+          "label": "Magic Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "cold-damage": {
+          "category": "Damage Bonuses",
+          "label": "Frost Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "shock-damage": {
+          "category": "Damage Bonuses",
+          "label": "Shock Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
         },
         "poison-damage": {
           "category": "Damage Bonuses",
@@ -31010,9 +31064,79 @@
           "flat": 0,
           "percent": 0
         },
-        "subscriber-inspiration-bonus": {
+        "sneak-cost": {
+          "category": "Core Abilities",
+          "label": "Sneak Cost",
+          "format": "flat",
+          "flat": 69
+        },
+        "block-cost": {
+          "category": "Core Abilities",
+          "label": "Block Cost",
+          "format": "flat",
+          "flat": 1607
+        },
+        "dodge-cost": {
+          "category": "Core Abilities",
+          "label": "Dodge Roll Cost",
+          "format": "flat",
+          "flat": 3856
+        },
+        "frost-resist": {
+          "category": "Resistances",
+          "label": "Frost Resistance",
+          "format": "flat-or-percent",
+          "flat": 33108,
+          "percent": 50.1636352539
+        },
+        "sprint-speed": {
+          "category": "Core Abilities",
+          "label": "Sprint Speed",
+          "format": "percent",
+          "percent": 142
+        },
+        "critical-damage": {
+          "category": "Damage Bonuses",
+          "label": "Critical Damage",
+          "format": "percent",
+          "percent": 22
+        },
+        "magic-resist": {
+          "category": "Resistances",
+          "label": "Magic Resistance",
+          "format": "flat-or-percent",
+          "flat": 33108,
+          "percent": 50.1636352539
+        },
+        "subscriber-all-xp": {
           "category": "ESO Plus",
-          "label": "Crafting Inspiration",
+          "label": "Experience",
+          "format": "percent",
+          "percent": 10
+        },
+        "block-mitigation": {
+          "category": "Core Abilities",
+          "label": "Block Mitigation",
+          "format": "percent",
+          "percent": 62
+        },
+        "fire-resist": {
+          "category": "Resistances",
+          "label": "Flame Resistance",
+          "format": "flat-or-percent",
+          "flat": 33108,
+          "percent": 50.1636352539
+        },
+        "disease-damage": {
+          "category": "Damage Bonuses",
+          "label": "Disease Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "subscriber-coin-bonus": {
+          "category": "ESO Plus",
+          "label": "Gold",
           "format": "percent",
           "percent": 10
         },
@@ -31022,18 +31146,11 @@
           "format": "flat",
           "flat": 908
         },
-        "sprint-speed": {
+        "sneak-speed-reduction": {
           "category": "Core Abilities",
-          "label": "Sprint Speed",
+          "label": "Sneak Speed",
           "format": "percent",
-          "percent": 142
-        },
-        "oblivion-damage": {
-          "category": "Damage Bonuses",
-          "label": "Oblivion Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
+          "percent": 71
         },
         "healing-taken-bonuses": {
           "category": "Healing Bonuses",
@@ -31042,86 +31159,15 @@
           "flat": 0,
           "percent": 15
         },
-        "sneak-speed-reduction": {
+        "cc-break-cost": {
           "category": "Core Abilities",
-          "label": "Sneak Speed",
-          "format": "percent",
-          "percent": 71
-        },
-        "subscriber-alliance-points-bonus": {
-          "category": "ESO Plus",
-          "label": "Alliance Points",
-          "format": "percent",
-          "percent": 10
-        },
-        "frost-resist": {
-          "category": "Resistances",
-          "label": "Frost Resistance",
-          "format": "flat-or-percent",
-          "flat": 33108,
-          "percent": 50.1636352539
-        },
-        "cold-damage": {
-          "category": "Damage Bonuses",
-          "label": "Frost Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "block-cost": {
-          "category": "Core Abilities",
-          "label": "Block Cost",
+          "label": "Break Free Cost",
           "format": "flat",
-          "flat": 1607
+          "flat": 4610
         },
-        "critical-healing": {
-          "category": "Healing Bonuses",
-          "label": "Critical Healing",
-          "format": "percent",
-          "percent": 2
-        },
-        "magic-damage": {
-          "category": "Damage Bonuses",
-          "label": "Magic Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "subscriber-all-xp": {
-          "category": "ESO Plus",
-          "label": "Experience",
-          "format": "percent",
-          "percent": 10
-        },
-        "sneak-cost": {
-          "category": "Core Abilities",
-          "label": "Sneak Cost",
-          "format": "flat",
-          "flat": 69
-        },
-        "magic-resist": {
+        "disease-resist": {
           "category": "Resistances",
-          "label": "Magic Resistance",
-          "format": "flat-or-percent",
-          "flat": 33108,
-          "percent": 50.1636352539
-        },
-        "dodge-cost": {
-          "category": "Core Abilities",
-          "label": "Dodge Roll Cost",
-          "format": "flat",
-          "flat": 3856
-        },
-        "physical-damage": {
-          "category": "Damage Bonuses",
-          "label": "Physical Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "bleed-resist": {
-          "category": "Resistances",
-          "label": "Bleed Resistance",
+          "label": "Disease Resistance",
           "format": "flat-or-percent",
           "flat": 32382,
           "percent": 49.0636367798
@@ -31132,75 +31178,29 @@
           "format": "percent",
           "percent": 10
         },
-        "shock-resist": {
-          "category": "Resistances",
-          "label": "Shock Resistance",
-          "format": "flat-or-percent",
-          "flat": 33108,
-          "percent": 50.1636352539
-        },
-        "healing-done-bonuses": {
-          "category": "Healing Bonuses",
-          "label": "Healing Done",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 2
-        },
-        "critical-damage": {
-          "category": "Damage Bonuses",
-          "label": "Critical Damage",
+        "subscriber-alliance-points-bonus": {
+          "category": "ESO Plus",
+          "label": "Alliance Points",
           "format": "percent",
-          "percent": 22
+          "percent": 10
         },
-        "shock-damage": {
-          "category": "Damage Bonuses",
-          "label": "Shock Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "bash-cost": {
-          "category": "Core Abilities",
-          "label": "Bash Cost",
-          "format": "flat",
-          "flat": 614
-        },
-        "block-speed": {
-          "category": "Core Abilities",
-          "label": "Block Move Speed",
+        "subscriber-inspiration-bonus": {
+          "category": "ESO Plus",
+          "label": "Crafting Inspiration",
           "format": "percent",
-          "percent": 42
-        },
-        "sprint-cost": {
-          "category": "Core Abilities",
-          "label": "Sprint Cost",
-          "format": "flat",
-          "flat": 415
-        },
-        "block-mitigation": {
-          "category": "Core Abilities",
-          "label": "Block Mitigation",
-          "format": "percent",
-          "percent": 62
-        },
-        "disease-resist": {
-          "category": "Resistances",
-          "label": "Disease Resistance",
-          "format": "flat-or-percent",
-          "flat": 32382,
-          "percent": 49.0636367798
+          "percent": 10
         }
       },
       "sheet": {
-        "riding-stamina": 60,
-        "attribute-points-unspent": 0,
-        "riding-speed": 60,
         "critical-chance-spell": 27.4096374512,
         "riding-capacity": 60,
         "attribute-points-stamina": 64,
-        "critical-chance-weapon": 27.4096374512,
         "attribute-points-magicka": 0,
-        "attribute-points-health": 0
+        "attribute-points-unspent": 0,
+        "critical-chance-weapon": 27.4096374512,
+        "attribute-points-health": 0,
+        "riding-speed": 60,
+        "riding-stamina": 60
       },
       "passiveRankIds": [],
       "classMastery": []
