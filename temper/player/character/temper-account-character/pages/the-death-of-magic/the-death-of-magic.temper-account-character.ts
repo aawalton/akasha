@@ -13,7 +13,6 @@ export const theDeathOfMagic = {
   class: "temper-class/arcanist",
   firstName: "The Death of Magic",
   readings: "jsonl",
-  removedReadings: "jsonl",
   createdAt: "2026-04-29T16:44:20.913Z",
-  updatedAt: "2026-10-20T14:11:20.184Z",
+  updatedAt: "2026-10-20T14:17:20.236Z",
 } as const satisfies TemperAccountCharacter
