@@ -306,6 +306,7 @@
 {"propertySlug":"part-of-speech","path":"story/world/mechanics/ability/ability.domain.ts","id":"01a0675b-16d3-7c80-b453-27e91b39430f"}
 {"propertySlug":"part-of-speech","path":"story/world/pronunciations/pronunciation.page-type.ts","id":"01a11c0e-f7a2-73f9-b751-0c33aec73a37"}
 {"propertySlug":"part-of-speech","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
+{"propertySlug":"part-of-speech","path":"temper/player/character/character-build/build-optimization/temper-build-optimization.domain.ts","id":"01a159d5-030c-729c-9b01-a19b08594e31"}
 {"propertySlug":"part-of-speech","path":"temper/temper.domain.ts","id":"01a05db7-8d7c-762b-a343-9535d258e0b5"}
 {"propertySlug":"part-of-speech","path":"text/quote/quote.domain.ts","id":"01a06815-ceaf-7d64-bb5e-3b8a0ff93c0f"}
 {"propertySlug":"part-of-speech","path":"text/text.domain.ts","id":"01a049e9-651c-7003-82de-a9ff0562dea5"}

@@ -13,6 +13,7 @@ export const characterBuild = {
     "select-property/build-visibility",
     "text-property/build-character-name",
     "text-property/build-correlation-id",
+    "domain/temper-build-optimization",
   ],
   properties: [
     { pageProperty: "text-property/build-hash", required: true, many: false },
@@ -58,5 +59,5 @@ export const characterBuild = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:59:23.240Z",
-  updatedAt: "2026-10-20T11:20:02.286Z",
+  updatedAt: "2026-10-20T15:01:34.603Z",
 } as const satisfies PageType

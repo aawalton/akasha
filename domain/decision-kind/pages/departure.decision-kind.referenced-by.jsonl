@@ -6358,6 +6358,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/build/companion-codec/temper-companion-codec.domain.ts","id":"01a062e7-4dda-7f1d-8fd9-fe2d9062ea42"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/modules/build-factory/build-factory.module.ts","id":"01a061a7-9bb4-74f4-a0e9-794e4eefdd31"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/modules/race-source/race-source.module.ts","id":"01a061a7-9bb3-769a-973c-5b550c916d32"}
+{"propertySlug":"decision-kind","path":"temper/player/character/character-build/build-optimization/temper-build-optimization.domain.ts","id":"01a159d5-030c-729c-9b01-a19b08594e31"}
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/character-build.page-type.ts","id":"01a06835-fae8-7243-8c39-219aa5e07daf"}
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/modules/filing/character-build-filing.module.ts","id":"01a1590a-2fef-7e1d-b86d-c75dd57e85ac"}
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/properties/build-character-name.text-property.ts","id":"01a0a545-7c20-7000-8e8e-c96525a19c3e"}

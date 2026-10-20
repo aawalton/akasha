@@ -724,6 +724,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/build/build-support/temper-build-support.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/build/companion-codec/temper-companion-codec.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/build/temper-character-build.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/character-build/build-optimization/temper-build-optimization.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/characters-equipment/temper-characters-equipment.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/formula-framework/temper-formula-framework.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/skill/line/temper-character-skill-line.domain.ts","typed":true,"deferred":false}
