@@ -24014,7 +24014,7 @@
       }
     },
     "3709": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 3
@@ -25776,7 +25776,7 @@
       }
     },
     "3902": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1
@@ -67184,12 +67184,12 @@
       "name": "Belharza's Band",
       "categoryName": "Miscellaneous",
       "subcategoryName": "Mythics",
-      "slotsUnlocked": 0,
+      "slotsUnlocked": 1,
       "totalSlots": 1,
       "pieces": [
         {
           "name": "Belharza's Band",
-          "unlocked": false
+          "unlocked": true
         }
       ]
     },
@@ -80692,7 +80692,7 @@
     "250": 3,
     "251": 1,
     "252": 3,
-    "253": 1,
+    "253": 2,
     "254": 3,
     "256": 3,
     "257": 3,
@@ -80853,6 +80853,7 @@
     "445": 1,
     "446": 1,
     "447": 1,
+    "448": 1,
     "449": 1,
     "450": 1,
     "451": 1,
@@ -81103,7 +81104,7 @@
     "761": 1,
     "762": 1,
     "763": 2,
-    "764": 1,
+    "764": 2,
     "766": 3,
     "767": 2,
     "768": 1,
