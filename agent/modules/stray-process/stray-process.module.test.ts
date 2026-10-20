@@ -5,6 +5,7 @@ import {
   actingNamedOn,
   actingOf,
   answerAsked,
+  heldByHarness,
   type ReadingFor,
   type SeatPaging,
   strayAmong,
@@ -186,6 +187,42 @@ test("a seat no page carries is gone whatever its transcript says", async () => 
 
   expect(read.strays.map((one) => one.pid)).toEqual([11, 12])
   expect(read.unread).toEqual([])
+})
+
+const HARNESS = 900
+
+const HARNESS_CMDLINE = "claude --dangerously-skip-permissions --resume x"
+
+function harnessAt(pid: number): ProcLivenessEntry {
+  return { agentId: SEAT, cmdline: HARNESS_CMDLINE, pid }
+}
+
+function under(entry: ProcLivenessEntry, ppid: number): ProcLivenessEntry {
+  return { ...entry, ppid }
+}
+
+test("a shell the harness still holds is no stray, since the harness reports it to its subagent", async () => {
+  const read = await strayAmong(
+    [harnessAt(HARNESS), under(wrapperAt(11, ACTING), HARNESS), under(procAt(12, ACTING), 11)],
+    saying("returned")
+  )
+
+  expect(read.strays).toEqual([])
+})
+
+test("a process that left the harness's tree is a stray all the same", async () => {
+  const read = await strayAmong(
+    [harnessAt(HARNESS), under(procAt(11, ACTING), 1), under(procAt(12, ACTING), 11)],
+    saying("returned")
+  )
+
+  expect(read.strays.map((one) => one.pid)).toEqual([11, 12])
+})
+
+test("parents naming each other in a loop end the search rather than the tick", () => {
+  expect(heldByHarness([under(procAt(11, ACTING), 12), under(procAt(12, ACTING), 11)])).toEqual(
+    new Set()
+  )
 })
 
 test("the environment is taken where the command line disagrees", async () => {

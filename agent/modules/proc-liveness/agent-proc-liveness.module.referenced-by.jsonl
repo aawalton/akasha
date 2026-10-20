@@ -3,7 +3,7 @@
 {"propertySlug":"import","fileName":"agent-proc-liveness.module.code.ts","path":"agent/modules/proc-scan/proc-scan.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"agent-proc-liveness.module.code.ts","path":"agent/modules/proc-tree/agent-proc-tree.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"agent-proc-liveness.module.code.ts","path":"agent/modules/proc-tree/agent-proc-tree.module.test.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"agent-proc-liveness.module.code.ts","path":"agent/modules/stray-process/stray-process.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"agent-proc-liveness.module.code.ts","path":"agent/modules/stray-process/stray-process.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"agent-proc-liveness.module.code.ts","path":"agent/modules/stray-process/stray-process.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"agent-proc-liveness.module.code.ts","path":"agent/modules/stray-sweeping/stray-sweeping.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"agent-proc-liveness.module.code.ts","path":"agent/modules/stray-sweeping/stray-sweeping.module.test.ts","typed":true,"deferred":false}

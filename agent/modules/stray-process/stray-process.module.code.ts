@@ -1,4 +1,7 @@
-import type { ProcLivenessEntry } from "akasha/agent/modules/proc-liveness/agent-proc-liveness.module.code.ts"
+import {
+  isClaudeChildCmdline,
+  type ProcLivenessEntry,
+} from "akasha/agent/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 import { scanProcEntries } from "akasha/agent/modules/proc-scan/proc-scan.module.code.ts"
 import {
   ACTING_NAMED,
@@ -59,11 +62,33 @@ export function actingOf(entry: ProcLivenessEntry): string | null {
   return actingNamedOn(entry.cmdline)
 }
 
+export function heldByHarness(entries: readonly ProcLivenessEntry[]): ReadonlySet<number> {
+  const byPid = new Map(entries.map((one) => [one.pid, one] as const))
+  const held = new Set<number>()
+  for (const one of entries) {
+    const seen = new Set<number>()
+    let at: ProcLivenessEntry | undefined = one
+    while (at !== undefined && !seen.has(at.pid)) {
+      seen.add(at.pid)
+      const parent: ProcLivenessEntry | undefined =
+        at.ppid === undefined ? undefined : byPid.get(at.ppid)
+      if (parent !== undefined && isClaudeChildCmdline(parent.cmdline)) {
+        held.add(one.pid)
+        break
+      }
+      at = parent
+    }
+  }
+  return held
+}
+
 function underSubagents(
   entries: readonly ProcLivenessEntry[]
 ): ReadonlyMap<string, readonly ProcLivenessEntry[]> {
+  const harnessHeld = heldByHarness(entries)
   const grouped = new Map<string, ProcLivenessEntry[]>()
   for (const one of entries) {
+    if (harnessHeld.has(one.pid)) continue
     const acting = actingOf(one)
     if (acting === null) continue
     if (!namesASubagent(acting)) continue

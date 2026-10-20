@@ -42,6 +42,14 @@ export const strayProcess = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A process the harness's own process is an ancestor of is no stray.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A process that left the harness's tree is a stray all the same.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The environment a process was started with does not carry a name exported inside that process.",
     },
@@ -90,5 +98,5 @@ export const strayProcess = {
     },
   ],
   createdAt: "2026-09-13T22:13:04.112Z",
-  updatedAt: "2026-10-19T17:47:45.668Z",
+  updatedAt: "2026-10-20T20:33:03.235Z",
 } as const satisfies Module

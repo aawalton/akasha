@@ -87,9 +87,12 @@ export const sweepStrayProcesses = {
       statement: "A tick costs about a second of processor whatever that tick finds.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement:
-        "A process a subagent meant to outlive it is ended, since the returned subagent will read nothing.",
+      decisionKind: "decision-kind/departure",
+      statement: "A shell the harness still holds for a returned subagent is left running.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The harness tells that subagent how the shell ended, and ends the shell itself.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -121,5 +124,5 @@ export const sweepStrayProcesses = {
     },
   ],
   createdAt: "2026-09-13T22:40:48.005Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-20T20:33:03.235Z",
 } as const satisfies ServiceWorkstation
