@@ -154,8 +154,11 @@ const ON_A_DAY: Readonly<Record<string, DayReading>> = {
   [upkeepSleep.slug]: (page) => page.sleepHours ?? null,
 }
 
+const NOTHING_YET = 0
+
 function lightOf(readout: Readout, page: WorkedDay, reach: Reach): string {
-  const reading = ON_A_DAY[readout.slug]?.(page, reach) ?? null
+  const readOn = ON_A_DAY[readout.slug]
+  const reading = readOn === undefined ? null : (readOn(page, reach) ?? NOTHING_YET)
   const scale = readout.scale === undefined ? null : reach.target<Values>(readout.scale)
   const tiered = tierOn(readout, page.date, reading, rungsIn(scale ?? {}))
   return tiered === null ? NO_READING : TIER_GLYPH[tiered.tier]

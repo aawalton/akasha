@@ -30,11 +30,15 @@ export const stoplights = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A readout with no reading for the day is drawn as a white light.",
+      statement: "A readout the day carries nothing for yet reads zero, colored on its scale.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A light with no reading leaves the other lights drawn.",
+      statement: "A readout no code here reads for a day is drawn as a white light.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A white light leaves the other lights drawn.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -43,5 +47,5 @@ export const stoplights = {
   ],
   types: "ts",
   createdAt: "2026-09-05T15:16:45.984Z",
-  updatedAt: "2026-10-18T14:44:00.044Z",
+  updatedAt: "2026-10-20T11:13:07.970Z",
 } as const satisfies ComputedProperty
