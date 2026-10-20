@@ -76,7 +76,12 @@ export const completionMergeForward = {
       decisionKind: "decision-kind/departure",
       statement: "A bank visit date either reading holds is dropped from the merged reading.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A character's last kept readings are dropped, since the readings file holds them.",
+    },
   ],
   createdAt: "2026-09-02T07:32:01.650Z",
-  updatedAt: "2026-10-14T14:01:47.378Z",
+  updatedAt: "2026-10-20T18:02:43.455Z",
 } as const satisfies Module

@@ -119,7 +119,7 @@ const CHARACTER_LWW_KEYS: ReadonlySet<string> = new Set([
   "inventoryCheck",
 ])
 
-const RETIRED_CHARACTER_KEY = "bankVisitDate"
+const DROPPED_CHARACTER_KEYS = ["bankVisitDate", "keptReadings"] as const
 
 const CHARACTER_STATE_KEYS: ReadonlySet<string> = new Set(["curseState"])
 
@@ -143,9 +143,10 @@ export function mergeCharacterCompletionForward(
     CHARACTER_LWW_KEYS,
     CHARACTER_STATE_KEYS
   )
-  if (merged?.[RETIRED_CHARACTER_KEY] === undefined) return merged
+  if (merged === undefined) return merged
+  if (DROPPED_CHARACTER_KEYS.every((key) => merged[key] === undefined)) return merged
   const kept: Record<string, unknown> = { ...merged }
-  delete kept[RETIRED_CHARACTER_KEY]
+  for (const key of DROPPED_CHARACTER_KEYS) delete kept[key]
   return characterCompletionSchema.parse(kept)
 }
 

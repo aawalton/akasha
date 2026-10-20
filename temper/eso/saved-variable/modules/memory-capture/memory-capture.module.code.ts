@@ -27,21 +27,23 @@ const ACCOUNT = "@"
 export type Roots = { readonly characters: bigint | null; readonly fights: bigint | null }
 
 export type Seen = {
-  readonly readings: Map<string, number>
+  readonly readings: Set<string>
   readonly fights: Set<string>
 }
 
 export type Captured = {
   readonly readings: readonly BuildReading[]
   readonly fights: readonly Fight[]
-  readonly readingsSeen: readonly (readonly [string, number])[]
+  readonly readingsSeen: readonly string[]
   readonly fightsSeen: readonly string[]
 }
+
+const KEPT_READINGS = "keptReadings"
 
 type Character = { readonly name: string; readonly buildHash: string; readonly table: bigint }
 
 export function seenAfresh(): Seen {
-  return { readings: new Map(), fights: new Set() }
+  return { readings: new Set(), fights: new Set() }
 }
 
 function fieldData(read: Reader, table: bigint, name: string): LuaData | undefined {
@@ -95,7 +97,49 @@ function isRecord(data: LuaData | undefined): data is { readonly [key: string]: 
 
 type ReadingsFound = {
   readonly readings: BuildReading[]
-  readonly seen: (readonly [string, number])[]
+  readonly seen: string[]
+}
+
+export function readingKeyOf(character: string, bar: string, capturedAt: number): string {
+  return `${character}:${bar}:${String(capturedAt)}`
+}
+
+function taken(
+  read: Reader,
+  character: string,
+  bar: string,
+  table: bigint,
+  seen: Seen,
+  found: ReadingsFound
+): undefined {
+  const at = numberField(read, table, "capturedAt")
+  if (at === null) return undefined
+  const key = readingKeyOf(character, bar, at)
+  if (seen.readings.has(key) || found.seen.includes(key)) return undefined
+  const reading = dataOf(read, heldTable(table))
+  if (!isRecord(reading) || numberField(read, table, "capturedAt") !== at) return undefined
+  const one = buildReadingOf(character, bar, reading)
+  if (one !== null) found.readings.push(one)
+  found.seen.push(key)
+  return undefined
+}
+
+function keptIn(read: Reader, character: Character, seen: Seen, found: ReadingsFound): undefined {
+  const kept = tableIn(fieldOf(read, character.table, KEPT_READINGS))
+  if (kept === null) return undefined
+  for (const entry of tableAt(read, kept)?.entries ?? []) {
+    const one = tableIn(entry.value)
+    if (one === null) continue
+    const bar = textField(read, one, "bar")
+    const reading = tableIn(fieldOf(read, one, "reading"))
+    if (bar !== null && reading !== null) taken(read, character.name, bar, reading, seen, found)
+  }
+  return undefined
+}
+
+function capturedAtOf(one: BuildReading): number {
+  const at = one.reading["capturedAt"]
+  return typeof at === "number" ? at : 0
 }
 
 export function buildReadingOf(
@@ -110,21 +154,15 @@ export function buildReadingOf(
 function readingsIn(read: Reader, characters: readonly Character[], seen: Seen): ReadingsFound {
   const found: ReadingsFound = { readings: [], seen: [] }
   for (const character of characters) {
+    keptIn(read, character, seen, found)
     const stats = tableIn(fieldOf(read, character.table, "reportedStats"))
     if (stats === null) continue
     for (const bar of BARS) {
       const table = tableIn(fieldOf(read, stats, bar))
-      if (table === null) continue
-      const at = numberField(read, table, "capturedAt")
-      const key = `${character.name}:${bar}`
-      if (at === null || seen.readings.get(key) === at) continue
-      const reading = dataOf(read, heldTable(table))
-      if (!isRecord(reading) || numberField(read, table, "capturedAt") !== at) continue
-      const one = buildReadingOf(character.name, bar, reading)
-      if (one !== null) found.readings.push(one)
-      found.seen.push([key, at])
+      if (table !== null) taken(read, character.name, bar, table, seen, found)
     }
   }
+  found.readings.sort((one, other) => capturedAtOf(one) - capturedAtOf(other))
   return found
 }
 
@@ -176,7 +214,7 @@ export function capturedFrom(read: Reader, roots: Roots, seen: Seen, looked: boo
 }
 
 export function markSeen(seen: Seen, captured: Captured): undefined {
-  for (const [key, at] of captured.readingsSeen) seen.readings.set(key, at)
+  for (const key of captured.readingsSeen) seen.readings.add(key)
   for (const key of captured.fightsSeen) seen.fights.add(key)
   return undefined
 }

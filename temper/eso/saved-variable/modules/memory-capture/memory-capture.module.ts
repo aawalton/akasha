@@ -10,7 +10,11 @@ export const memoryCapture = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A bar's reading is taken again only where its capture time moved.",
+      statement: "A reading is taken once for each character, bar and capture time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every reading the add-on keeps in its last readings is taken, oldest first.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -47,5 +51,5 @@ export const memoryCapture = {
     },
   ],
   createdAt: "2026-10-19T19:08:25.036Z",
-  updatedAt: "2026-10-20T17:26:14.678Z",
+  updatedAt: "2026-10-20T18:02:43.455Z",
 } as const satisfies Module

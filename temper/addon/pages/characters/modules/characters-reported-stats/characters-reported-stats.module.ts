@@ -190,7 +190,11 @@ export const charactersReportedStats = {
       decisionKind: "decision-kind/departure",
       statement: "Keeping a reading tells the one listener waiting for it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character keeps its last twenty readings, each with its bar, oldest first.",
+    },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-20T17:44:08.462Z",
+  updatedAt: "2026-10-20T18:02:43.455Z",
 } as const satisfies Module

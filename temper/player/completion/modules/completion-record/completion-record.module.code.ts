@@ -282,6 +282,11 @@ const reportedStatsSchema = z.strictObject({
   backBar: reportedStatsReadingSchema.optional(),
 })
 
+const keptReadingSchema = z.strictObject({
+  bar: z.enum(["frontBar", "backBar"]),
+  reading: reportedStatsReadingSchema,
+})
+
 const rotationBarSchema = z.strictObject({
   bar: z.enum(["frontBar", "backBar"]),
   weaponStyle: z.string().optional(),
@@ -348,6 +353,7 @@ export const characterCompletionSchema = z.strictObject({
   bankVisitDate: z.string().optional(),
   inventoryCheck: z.strictObject({ date: z.string(), misplaced: z.number() }).optional(),
   reportedStats: reportedStatsSchema.optional(),
+  keptReadings: luaArrayOrEmpty(keptReadingSchema).optional(),
   rotationReading: rotationReadingSchema.optional(),
 })
 

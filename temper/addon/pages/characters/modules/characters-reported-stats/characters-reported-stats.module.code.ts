@@ -393,12 +393,18 @@ export function captureReportedStats(): undefined {
   return captureBar(false)
 }
 
+const READINGS_KEPT = 20
+
 function keep(bar: Bar, reading: KeptReading): undefined {
   const charEntry = currentCharacterEntry()
   if (charEntry === undefined) return
   const reported = charEntry.reportedStats ?? {}
   reported[bar] = reading
   charEntry.reportedStats = reported
+  const kept = charEntry.keptReadings ?? []
+  kept.push({ bar, reading })
+  while (kept.length > READINGS_KEPT) kept.shift()
+  charEntry.keptReadings = kept
   readingKept?.()
 }
 
