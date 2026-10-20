@@ -193,18 +193,46 @@ function sheetCell(value: number | undefined): string {
   return cell(value === undefined ? "-" : String(value))
 }
 
+type AdvancedValue = NonNullable<ReadingLine["reading"]["advancedSheet"]>[string]
+
+const UNHEADED = "(no header)"
+
+function advancedRow(name: string, value: AdvancedValue, width: number): string {
+  const label = value.label === undefined ? "" : `  ${value.label}`
+  return `    ${name.padEnd(width)} ${value.format.padEnd(FORMAT)} ${sheetCell(value.flat)} ${sheetCell(value.percent)}${label}`
+}
+
 export function advancedSheetLines(reading: ReadingLine["reading"]): readonly string[] {
   const sheet = reading.advancedSheet
   if (sheet === undefined) return ["  advanced (game): none kept"]
+  const entries = Object.entries(sheet).sort(
+    ([one, first], [two, second]) =>
+      (first.category ?? "").localeCompare(second.category ?? "") || one.localeCompare(two)
+  )
+  const width = Math.max(4, ...entries.map(([name]) => name.length))
+  const lines = [
+    `  advanced (game): ${String(entries.length)} stats`,
+    `    ${"stat".padEnd(width)} ${"format".padEnd(FORMAT)} ${cell("flat")} ${cell("percent")}`,
+  ]
+  let category: string | undefined
+  for (const [name, value] of entries) {
+    if (value.category !== undefined && value.category !== category) {
+      lines.push(`   ${value.category === "" ? UNHEADED : value.category}`)
+    }
+    category = value.category
+    lines.push(advancedRow(name, value, width))
+  }
+  return lines
+}
+
+export function characterSheetLines(reading: ReadingLine["reading"]): readonly string[] {
+  const sheet = reading.sheet
+  if (sheet === undefined) return ["  sheet (game): none kept"]
   const entries = Object.entries(sheet).sort(([one], [two]) => one.localeCompare(two))
   const width = Math.max(4, ...entries.map(([name]) => name.length))
   return [
-    "  advanced (game)",
-    `    ${"stat".padEnd(width)} ${"format".padEnd(FORMAT)} ${cell("flat")} ${cell("percent")}`,
-    ...entries.map(
-      ([name, value]) =>
-        `    ${name.padEnd(width)} ${value.format.padEnd(FORMAT)} ${sheetCell(value.flat)} ${sheetCell(value.percent)}`
-    ),
+    "  sheet (game)",
+    ...entries.map(([name, value]) => `    ${name.padEnd(width)} ${cell(String(value))}`),
   ]
 }
 
@@ -220,6 +248,7 @@ function blockOf(one: Compared): readonly string[] {
     ...one.rows.map((row) => rowLine(row, width)),
     `  ${String(matched)} of ${String(one.rows.length)} match`,
     ...advancedSheetLines(one.line.reading),
+    ...characterSheetLines(one.line.reading),
     "",
   ]
 }
@@ -279,6 +308,7 @@ export async function temperStatCompare(argv: readonly string[], given: Given): 
         unestimated: one.unestimated,
         stats: one.rows,
         advancedSheet: one.line.reading.advancedSheet ?? null,
+        sheet: one.line.reading.sheet ?? null,
       })),
       unread,
     })

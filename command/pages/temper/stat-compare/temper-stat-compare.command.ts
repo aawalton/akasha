@@ -71,8 +71,21 @@ export const temperStatCompare = {
         "Each reading shows the advanced stats the game's sheet gave in a section of its own.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That section says how many stats it holds and groups them by the panel's category.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each stat there is set beside the name the game's panel shows it under.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement: "That section sets no estimate beside the game's values.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each reading shows the character sheet's other numbers in a section of its own.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -97,5 +110,5 @@ export const temperStatCompare = {
     { argument: "argument/json" },
   ],
   createdAt: "2026-10-14T14:17:00.259Z",
-  updatedAt: "2026-10-20T11:33:32.077Z",
+  updatedAt: "2026-10-20T13:23:42.825Z",
 } as const satisfies Command

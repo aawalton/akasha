@@ -3,6 +3,7 @@ import { INPUT } from "akasha/command/modules/answering/command-answering.module
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   advancedSheetLines,
+  characterSheetLines,
   headerOf,
   temperStatCompare,
 } from "akasha/command/pages/temper/stat-compare/temper-stat-compare.command.code.ts"
@@ -74,14 +75,62 @@ test("a reading's advanced stats are shown as the game gave them, with no estima
   }
   const lines = advancedSheetLines(reading)
 
-  expect(lines[0]).toBe("  advanced (game)")
+  expect(lines[0]).toBe("  advanced (game): 2 stats")
   expect(lines[1]).not.toContain("temper")
   expect(lines[2]).toMatch(/^ {4}armor +flat +18200 +-$/)
   expect(lines[3]).toMatch(/^ {4}physical-resist +percent +- +31\.5$/)
 })
 
+test("a reading's advanced stats are grouped under the panel's categories with the panel's names", () => {
+  const reading = {
+    ...LINE.reading,
+    advancedSheet: {
+      "spell-resist": {
+        category: "Mitigation",
+        label: "Spell Resistance",
+        format: "flat-or-percent" as const,
+        flat: 19072,
+        percent: 28.9,
+      },
+      "critical-chance": {
+        category: "Damage",
+        label: "Critical Chance",
+        format: "flat-or-percent" as const,
+        flat: 4267,
+        percent: 19.5,
+      },
+      "all-xp": { category: "", label: "Experience", format: "percent" as const, percent: 10 },
+    },
+  }
+  const lines = advancedSheetLines(reading)
+
+  expect(lines[0]).toBe("  advanced (game): 3 stats")
+  expect(lines[2]).toBe("   (no header)")
+  expect(lines[3]).toMatch(/^ {4}all-xp +percent +- +10 {2}Experience$/)
+  expect(lines[4]).toBe("   Damage")
+  expect(lines[5]).toMatch(/^ {4}critical-chance +flat-or-percent +4267 +19\.5 {2}Critical Chance$/)
+  expect(lines[6]).toBe("   Mitigation")
+  expect(lines[7]).toMatch(/^ {4}spell-resist +flat-or-percent +19072 +28\.9 {2}Spell Resistance$/)
+})
+
 test("a reading keeping no advanced stats says so", () => {
   expect(advancedSheetLines(LINE.reading)).toEqual(["  advanced (game): none kept"])
+})
+
+test("a reading's other character sheet numbers are shown by name", () => {
+  const reading = {
+    ...LINE.reading,
+    sheet: { "critical-chance-spell": 19.47, "attribute-points-health": 64 },
+  }
+  const lines = characterSheetLines(reading)
+
+  expect(lines[0]).toBe("  sheet (game)")
+  expect(lines[1]).toMatch(/^ {4}attribute-points-health +64$/)
+  expect(lines[2]).toMatch(/^ {4}critical-chance-spell +19\.47$/)
+})
+
+test("a reading keeping no sheet numbers says so", () => {
+  expect(characterSheetLines(LINE.reading)).toEqual(["  sheet (game): none kept"])
 })
 
 test("a reading named both by when it was captured and by its id is refused", async () => {
