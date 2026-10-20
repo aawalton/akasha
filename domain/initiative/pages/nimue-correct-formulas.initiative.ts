@@ -43,7 +43,8 @@ export const nimueCorrectFormulas = {
     "A term is verified by a case that adds it alongside others, where enough readings agree.",
     "Nimue changes any command the work needs without asking Alan.",
     "Every deploy runs in the background, so no deploy blocks the work.",
+    "A calculation change lands with the stat-case pins it closes, after the stat-case test passes on both.",
   ],
   createdAt: "2026-10-19T19:28:43.842Z",
-  updatedAt: "2026-10-20T16:31:41.991Z",
+  updatedAt: "2026-10-20T18:58:03.622Z",
 } as const satisfies Initiative
