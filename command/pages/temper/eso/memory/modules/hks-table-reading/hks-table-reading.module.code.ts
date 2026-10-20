@@ -57,6 +57,12 @@ export function textAt(read: Reader, at: bigint): string | null {
   return body === null ? null : body.toString("utf8")
 }
 
+const TRUTH_BYTE = 0xffn
+
+function truthOf(value: bigint): boolean {
+  return (value & TRUTH_BYTE) !== 0n
+}
+
 function numberOf(value: bigint): number {
   const bytes = Buffer.alloc(WORD)
   bytes.writeBigUInt64LE(value, 0)
@@ -66,7 +72,7 @@ function numberOf(value: bigint): number {
 export function shown(read: Reader, held: Held): string {
   const at = held.value.toString(16)
   if (held.type === NIL) return "nil"
-  if (held.type === BOOLEAN) return held.value === 0n ? "false" : "true"
+  if (held.type === BOOLEAN) return String(truthOf(held.value))
   if (held.type === NUMBER) return String(numberOf(held.value))
   if (held.type === STRING) return JSON.stringify(textAt(read, held.value))
   if (held.type === TABLE) return `table ${at}`
@@ -112,7 +118,7 @@ export function keyOf(read: Reader, key: Held): string | null {
 
 export function dataOf(read: Reader, held: Held, depth = 0): LuaData | undefined {
   if (held.type === NIL) return null
-  if (held.type === BOOLEAN) return held.value !== 0n
+  if (held.type === BOOLEAN) return truthOf(held.value)
   if (held.type === NUMBER) return numberOf(held.value)
   if (held.type === STRING) return textAt(read, held.value) ?? undefined
   if (held.type !== TABLE || depth >= DEEPEST) return undefined

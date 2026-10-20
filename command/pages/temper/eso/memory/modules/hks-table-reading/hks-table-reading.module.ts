@@ -6,6 +6,7 @@ export const hksTableReading = {
   slug: "hks-table-reading",
   definition: "a table, string or value of the game's Lua read out of the game's memory",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/constraint",
@@ -44,6 +45,14 @@ export const hksTableReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A boolean is the first byte of its payload.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The rest of a boolean's payload keeps the bytes of the value before it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An entry whose key is nil is empty.",
     },
     {
@@ -61,5 +70,5 @@ export const hksTableReading = {
     },
   ],
   createdAt: "2026-10-19T18:45:12.644Z",
-  updatedAt: "2026-10-19T18:53:18.296Z",
+  updatedAt: "2026-10-20T13:27:37.478Z",
 } as const satisfies Module
