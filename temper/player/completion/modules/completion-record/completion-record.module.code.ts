@@ -253,6 +253,7 @@ export const reportedStatsReadingSchema = z.strictObject({
   ultimate: z.number().optional(),
   health: z.number().optional(),
   healthBefore: z.number().optional(),
+  healthPaired: z.boolean().optional(),
   stats: z.record(z.string(), z.number()),
   unbonusedStats: z.record(z.string(), z.number()).optional(),
   activeBuffs: luaArrayOrEmpty(activeBuffSchema).optional(),

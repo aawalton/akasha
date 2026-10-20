@@ -9,9 +9,10 @@ export function unsteadyOf(
   named: string,
   passives: readonly string[] = []
 ): string | null {
-  const healthMoved = reading.healthBefore !== reading.health
-  if (named === "health-recovery" && passives.includes(ELDER_DRAGON) && healthMoved) {
-    return "Health moved under Elder Dragon"
+  const unpaired =
+    reading.healthPaired !== true && reading.health !== reading.stats["health-maximum"]
+  if (named === "health-recovery" && passives.includes(ELDER_DRAGON) && unpaired) {
+    return "Health unpaired under Elder Dragon"
   }
   if (!UNSTEADY_WHILE_BLOCKING_OR_MOVING.has(named)) return null
   if (reading.blocking === true) return "blocking"

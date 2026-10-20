@@ -51,7 +51,12 @@ export const completionRecord = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A reading of reported stats may keep the Health held at the capture before the one kept.",
+        "A reading of reported stats may keep the Health of the power update before the last.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reading of reported stats may say its Health is paired with its health recovery.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -114,5 +119,5 @@ export const completionRecord = {
     },
   ],
   createdAt: "2026-09-02T04:57:23.388Z",
-  updatedAt: "2026-10-20T16:37:33.374Z",
+  updatedAt: "2026-10-20T17:12:21.574Z",
 } as const satisfies Module

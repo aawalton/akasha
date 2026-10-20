@@ -180,6 +180,7 @@ export const temperAddonCharacters = {
     "module/characters-escalating-fete",
     "module/characters-class-mastery",
     "module/characters-passive-rank-ids",
+    "module/characters-elder-dragon-pairing",
   ],
   interfaces: [
     "eso-interface/skill-point-finder-layout",
@@ -227,5 +228,5 @@ export const temperAddonCharacters = {
     },
   ],
   createdAt: "2026-09-02T15:52:42.403Z",
-  updatedAt: "2026-10-20T16:40:45.798Z",
+  updatedAt: "2026-10-20T17:12:21.574Z",
 } as const satisfies TemperAddon

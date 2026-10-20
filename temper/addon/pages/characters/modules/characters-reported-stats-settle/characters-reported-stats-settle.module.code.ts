@@ -22,23 +22,6 @@ type Unsettled = {
 
 let unsettled: Unsettled | undefined
 
-const ELDER_DRAGON_RANKS: ReadonlySet<number> = new Set([29460, 44951])
-
-let healthLast: number | undefined
-
-let healthAtCaptureBefore: number | undefined
-
-export function healthSaid(passives: readonly { abilityId: number }[], health: number): string {
-  healthAtCaptureBefore = healthLast
-  healthLast = health
-  const held = passives.some((passive) => ELDER_DRAGON_RANKS.has(passive.abilityId))
-  return held ? `|health:${health}` : ""
-}
-
-export function healthBefore(): number | undefined {
-  return healthAtCaptureBefore
-}
-
 function settleLater(retake: (this: void) => undefined): undefined {
   EVENT_MANAGER.UnregisterForUpdate(SETTLE_UPDATE)
   EVENT_MANAGER.RegisterForUpdate(SETTLE_UPDATE, FOLLOW_UP_MS, function (this: void): undefined {

@@ -60,7 +60,12 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading keeps the Health held at the capture before the one kept.",
+      statement: "A reading keeps the Health of the power update before the last one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reading kept as Elder Dragon's health recovery changes skips settling and says so.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -183,5 +188,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-20T16:41:32.508Z",
+  updatedAt: "2026-10-20T17:12:21.574Z",
 } as const satisfies Module

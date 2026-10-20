@@ -6,12 +6,11 @@ import { archiveBoons } from "akasha/temper/addon/pages/characters/modules/chara
 import { characterSheet } from "akasha/temper/addon/pages/characters/modules/characters-character-sheet/characters-character-sheet.module.code.ts"
 import { classMasteryOnce } from "akasha/temper/addon/pages/characters/modules/characters-class-mastery/characters-class-mastery.module.code.ts"
 import { currentCharacterEntry } from "akasha/temper/addon/pages/characters/modules/characters-current-entry/characters-current-entry.module.code.ts"
+import { healthBefore } from "akasha/temper/addon/pages/characters/modules/characters-elder-dragon-pairing/characters-elder-dragon-pairing.module.code.ts"
 import { feteOf } from "akasha/temper/addon/pages/characters/modules/characters-escalating-fete/characters-escalating-fete.module.code.ts"
 import { passiveRankIdsOnce } from "akasha/temper/addon/pages/characters/modules/characters-passive-rank-ids/characters-passive-rank-ids.module.code.ts"
 import {
   type Bar,
-  healthBefore,
-  healthSaid,
   settled,
 } from "akasha/temper/addon/pages/characters/modules/characters-reported-stats-settle/characters-reported-stats-settle.module.code.ts"
 import { captureCharacterBuildHash } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-build/character-capture-build.module.code.ts"
@@ -358,12 +357,13 @@ function readingOf(buildHash: string, [stats, unbonusedStats]: StatsNow) {
   }
 }
 
-function keptReading(buildHash: string, now: StatsNow) {
+function keptReading(buildHash: string, now: StatsNow, healthPaired = false) {
   return {
     ...readingOf(buildHash, now),
     passiveRankIds: passiveRankIdsOnce(),
     classMastery: classMasteryOnce(),
     healthBefore: healthBefore(),
+    healthPaired,
   }
 }
 
@@ -385,18 +385,29 @@ export function captureReportedStats(): undefined {
   return captureBar(false)
 }
 
-function captureBar(followUp: boolean): undefined {
+function keep(bar: Bar, reading: KeptReading): undefined {
   const charEntry = currentCharacterEntry()
   if (charEntry === undefined) return
+  const reported = charEntry.reportedStats ?? {}
+  reported[bar] = reading
+  charEntry.reportedStats = reported
+  readingKept?.()
+}
+
+export function keepPairedReading(): undefined {
+  const bar = heldBar()
+  if (bar === undefined) return
+  const buildHash = captureCharacterBuildHash().buildHash
+  keep(bar, keptReading(buildHash, statsNow(), true))
+}
+
+function captureBar(followUp: boolean): undefined {
+  if (currentCharacterEntry() === undefined) return
   const bar = heldBar()
   if (bar === undefined) return
   const now = statsNow()
   const buildHash = captureCharacterBuildHash().buildHash
-  const hp = healthSaid(classPassives(), powerHeld(COMBAT_MECHANIC_FLAGS_HEALTH))
-  const said = `${statsSaid(now[0], now[1])}|${buffsSaid()}|${advancedSheetSaid()}${hp}`
+  const said = `${statsSaid(now[0], now[1])}|${buffsSaid()}|${advancedSheetSaid()}`
   if (!settled(bar, buildHash, said, followUp, retake)) return
-  const reported = charEntry.reportedStats ?? {}
-  reported[bar] = keptReading(buildHash, now)
-  charEntry.reportedStats = reported
-  readingKept?.()
+  keep(bar, keptReading(buildHash, now))
 }

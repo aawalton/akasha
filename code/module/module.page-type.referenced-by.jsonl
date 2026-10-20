@@ -2926,6 +2926,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-current-entry/characters-current-entry.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-daily-writs-detection/characters-daily-writs-detection.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-daily-writs/characters-daily-writs.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-elder-dragon-pairing/characters-elder-dragon-pairing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-entry/characters-entry.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-escalating-fete/characters-escalating-fete.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-events-build/characters-events-build.module.ts","typed":true,"deferred":false}

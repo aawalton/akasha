@@ -1,8 +1,12 @@
 import { refreshAdvancedStatsReading } from "akasha/temper/addon/pages/characters/modules/characters-advanced-stats/characters-advanced-stats.module.code.ts"
+import { registerElderDragonPairing } from "akasha/temper/addon/pages/characters/modules/characters-elder-dragon-pairing/characters-elder-dragon-pairing.module.code.ts"
 import { noteFeteChanged } from "akasha/temper/addon/pages/characters/modules/characters-escalating-fete/characters-escalating-fete.module.code.ts"
 import { capturePassiveTrace } from "akasha/temper/addon/pages/characters/modules/characters-passive-trace/characters-passive-trace.module.code.ts"
 import { captureAndSaveCharacterStats } from "akasha/temper/addon/pages/characters/modules/characters-player-stats/characters-player-stats.module.code.ts"
-import { captureReportedStats } from "akasha/temper/addon/pages/characters/modules/characters-reported-stats/characters-reported-stats.module.code.ts"
+import {
+  captureReportedStats,
+  keepPairedReading,
+} from "akasha/temper/addon/pages/characters/modules/characters-reported-stats/characters-reported-stats.module.code.ts"
 import {
   updateAccountSkillLineProgress,
   updateSkillLineProgress,
@@ -77,6 +81,8 @@ function onPlayerEffectChanged(
 }
 
 export function registerBuildEvents(): undefined {
+  registerElderDragonPairing(keepPairedReading)
+
   const equipEventName = ADDON_NAME + "_EquipmentChanged"
   EVENT_MANAGER.RegisterForEvent(equipEventName, EVENT_INVENTORY_SINGLE_SLOT_UPDATE, onBuildTouched)
   EVENT_MANAGER.AddFilterForEvent(
