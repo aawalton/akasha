@@ -6,6 +6,7 @@ export const foodOrDrinkSource = {
   slug: "food-or-drink-source",
   definition: "the food or drink a build takes, and the boons it gives",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -17,5 +18,5 @@ export const foodOrDrinkSource = {
     },
   ],
   createdAt: "2026-09-02T06:59:47.427Z",
-  updatedAt: "2026-09-27T01:01:57.000Z",
+  updatedAt: "2026-10-20T16:17:39.925Z",
 } as const satisfies Module

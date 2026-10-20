@@ -55,7 +55,7 @@ function placed(row: Row): readonly [number, FoodOrDrinkSource] {
   if (typeof row.title !== "string") throw new Error(`${at} states no title`)
   if (!isKind(row.foodOrDrinkKind)) throw new Error(`${at} states no kind`)
   if (typeof row.itemId !== "number") throw new Error(`${at} states no item`)
-  if (row.abilityId !== undefined && typeof row.abilityId !== "number") {
+  if (row.abilityId !== undefined && row.abilityId !== null && typeof row.abilityId !== "number") {
     throw new Error(`${at} states a game ability that is no number`)
   }
   if (typeof row.seconds !== "number") throw new Error(`${at} states no duration`)
