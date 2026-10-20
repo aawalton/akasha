@@ -5,12 +5,12 @@ export const siaThisIsActing10thAnniversaryEditionUnstoppableR3habRemix = {
   type: "page-type/track",
   slug: "sia-this-is-acting-10th-anniversary-edition-unstoppable-r3hab-remix",
   ownLength: 2.7058666666666666,
-  ownProgress: 0,
+  ownProgress: 2.7058666666666666,
   partOfCollections: [
     "release/sia-this-is-acting-10th-anniversary-edition",
     "release/sia-unstoppable-r3hab-remix",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Unstoppable - R3HAB Remix",
   trackType: "remix",
@@ -35,5 +35,6 @@ export const siaThisIsActing10thAnniversaryEditionUnstoppableR3habRemix = {
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

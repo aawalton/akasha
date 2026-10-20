@@ -5,12 +5,12 @@ export const siaIForgiveYouRemixesIForgiveYouChromeoRemixRadioEdit = {
   type: "page-type/track",
   slug: "sia-i-forgive-you-remixes-i-forgive-you-chromeo-remix-radio-edit",
   ownLength: 3.35205,
-  ownProgress: 0,
+  ownProgress: 3.35205,
   partOfCollections: [
     "release/sia-i-forgive-you-remixes",
     "release/sia-i-forgive-you-chromeo-remix-radio-edit",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I Forgive You - (Chromeo Remix) [radio edit]",
   trackType: "remix",
@@ -35,5 +35,6 @@ export const siaIForgiveYouRemixesIForgiveYouChromeoRemixRadioEdit = {
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

@@ -5,7 +5,7 @@ export const siaMusicSongsFromAndInspiredByTheMotionPictureTogether = {
   type: "page-type/track",
   slug: "sia-music-songs-from-and-inspired-by-the-motion-picture-together",
   ownLength: 3.4201166666666665,
-  ownProgress: 0,
+  ownProgress: 3.4201166666666665,
   partOfCollections: [
     "release/sia-music-songs-from-and-inspired-by-the-motion-picture",
     "release/sia-hey-boy-feat-burna-boy",
@@ -14,7 +14,7 @@ export const siaMusicSongsFromAndInspiredByTheMotionPictureTogether = {
     "release/sia-together-f9-remixes",
     "release/sia-together",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Together",
   trackType: "studio",
@@ -67,5 +67,6 @@ export const siaMusicSongsFromAndInspiredByTheMotionPictureTogether = {
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

@@ -5,13 +5,13 @@ export const siaEverydayIsChristmasSnowmanDeluxeEditionCandyCaneLane = {
   type: "page-type/track",
   slug: "sia-everyday-is-christmas-snowman-deluxe-edition-candy-cane-lane",
   ownLength: 3.5397666666666665,
-  ownProgress: 0,
+  ownProgress: 3.5397666666666665,
   partOfCollections: [
     "release/sia-everyday-is-christmas-snowman-deluxe-edition",
     "release/sia-everyday-is-christmas-deluxe-edition",
     "release/sia-gimme-christmas",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Candy Cane Lane",
   trackType: "studio",
@@ -43,5 +43,6 @@ export const siaEverydayIsChristmasSnowmanDeluxeEditionCandyCaneLane = {
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

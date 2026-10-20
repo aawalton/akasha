@@ -5,12 +5,12 @@ export const siaReasonableWomanFameWontLoveYouFeatParisHilton = {
   type: "page-type/track",
   slug: "sia-reasonable-woman-fame-wont-love-you-feat-paris-hilton",
   ownLength: 3.328133333333333,
-  ownProgress: 0,
+  ownProgress: 3.328133333333333,
   partOfCollections: [
     "release/sia-reasonable-woman",
     "release/sia-fame-won-t-love-you-feat-paris-hilton",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Fame Won’t Love You (feat. Paris Hilton)",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const siaReasonableWomanFameWontLoveYouFeatParisHilton = {
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

@@ -5,13 +5,13 @@ export const siaReasonableWomanIncredibleFeatLabrinth = {
   type: "page-type/track",
   slug: "sia-reasonable-woman-incredible-feat-labrinth",
   ownLength: 3.5605333333333333,
-  ownProgress: 0,
+  ownProgress: 3.5605333333333333,
   partOfCollections: [
     "release/sia-reasonable-woman",
     "release/sia-i-forgive-you",
     "release/sia-incredible-feat-labrinth",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Incredible (feat. Labrinth)",
   trackType: "studio",
@@ -43,5 +43,6 @@ export const siaReasonableWomanIncredibleFeatLabrinth = {
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

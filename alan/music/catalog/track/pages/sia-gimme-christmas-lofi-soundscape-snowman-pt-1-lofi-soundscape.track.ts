@@ -5,12 +5,12 @@ export const siaGimmeChristmasLofiSoundscapeSnowmanPt1LofiSoundscape = {
   type: "page-type/track",
   slug: "sia-gimme-christmas-lofi-soundscape-snowman-pt-1-lofi-soundscape",
   ownLength: 2.3478333333333334,
-  ownProgress: 0,
+  ownProgress: 2.3478333333333334,
   partOfCollections: [
     "release/sia-gimme-christmas-lofi-soundscape",
     "release/sia-it-s-christmas-baby-the-snowman-remixes-ep",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Snowman Pt. 1 - Lofi Soundscape",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const siaGimmeChristmasLofiSoundscapeSnowmanPt1LofiSoundscape = {
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

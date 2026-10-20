@@ -5,12 +5,12 @@ export const siaHealingIsDifficult10thAnniversaryEditionDeluxeImNotImportantToYo
   type: "page-type/track",
   slug: "sia-healing-is-difficult-10th-anniversary-edition-deluxe-im-not-important-to-you",
   ownLength: 6.1448833333333335,
-  ownProgress: 0,
+  ownProgress: 6.1448833333333335,
   partOfCollections: [
     "release/sia-healing-is-difficult-10th-anniversary-edition-deluxe",
     "release/sia-healing-is-difficult-10th-anniversary-edition",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "I'm Not Important to You",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const siaHealingIsDifficult10thAnniversaryEditionDeluxeImNotImportantToYo
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

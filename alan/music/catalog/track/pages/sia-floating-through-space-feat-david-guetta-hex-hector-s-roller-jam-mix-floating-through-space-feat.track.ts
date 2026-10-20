@@ -6,11 +6,11 @@ export const siaFloatingThroughSpaceFeatDavidGuettaHexHectorSRollerJamMixFloatin
     type: "page-type/track",
     slug: "sia-floating-through-space-feat-david-guetta-hex-hector-s-roller-jam-mix-floating-through-space-feat",
     ownLength: 3.2413666666666665,
-    ownProgress: 0,
+    ownProgress: 3.2413666666666665,
     partOfCollections: [
       "release/sia-floating-through-space-feat-david-guetta-hex-hector-s-roller-jam-mix",
     ],
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     title: "Floating Through Space (feat. David Guetta) - Hex Hector’s Roller Jam Mix",
     trackType: "remix",
@@ -33,5 +33,6 @@ export const siaFloatingThroughSpaceFeatDavidGuettaHexHectorSRollerJamMixFloatin
       },
     ],
     createdAt: "2026-10-20T13:51:09.878Z",
-    updatedAt: "2026-10-20T13:51:09.878Z",
+    updatedAt: "2026-10-20T14:01:17.710Z",
+    progressedAt: "2026-10-20T14:01:17.710Z",
   } as const satisfies Track

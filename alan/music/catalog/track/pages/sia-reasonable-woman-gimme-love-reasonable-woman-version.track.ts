@@ -5,12 +5,12 @@ export const siaReasonableWomanGimmeLoveReasonableWomanVersion = {
   type: "page-type/track",
   slug: "sia-reasonable-woman-gimme-love-reasonable-woman-version",
   ownLength: 3.5679,
-  ownProgress: 0,
+  ownProgress: 3.5679,
   partOfCollections: [
     "release/sia-reasonable-woman",
     "release/sia-gimme-love-armin-van-buuren-remix",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Gimme Love (Reasonable Woman Version)",
   trackType: "version",
@@ -35,5 +35,6 @@ export const siaReasonableWomanGimmeLoveReasonableWomanVersion = {
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

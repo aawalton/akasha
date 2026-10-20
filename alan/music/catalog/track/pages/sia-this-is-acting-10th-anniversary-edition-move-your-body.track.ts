@@ -5,12 +5,12 @@ export const siaThisIsActing10thAnniversaryEditionMoveYourBody = {
   type: "page-type/track",
   slug: "sia-this-is-acting-10th-anniversary-edition-move-your-body",
   ownLength: 4.120216666666667,
-  ownProgress: 0,
+  ownProgress: 4.120216666666667,
   partOfCollections: [
     "release/sia-this-is-acting-10th-anniversary-edition",
     "release/sia-this-is-acting-deluxe-version",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Move Your Body",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const siaThisIsActing10thAnniversaryEditionMoveYourBody = {
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

@@ -5,7 +5,7 @@ export const siaMusicSongsFromAndInspiredByTheMotionPictureCourageToChange = {
   type: "page-type/track",
   slug: "sia-music-songs-from-and-inspired-by-the-motion-picture-courage-to-change",
   ownLength: 4.8776,
-  ownProgress: 0,
+  ownProgress: 4.8776,
   partOfCollections: [
     "release/sia-music-songs-from-and-inspired-by-the-motion-picture",
     "release/sia-courage-to-change-michael-calfan-remix",
@@ -13,7 +13,7 @@ export const siaMusicSongsFromAndInspiredByTheMotionPictureCourageToChange = {
     "release/sia-hey-boy",
     "release/sia-courage-to-change",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Courage to Change",
   trackType: "studio",
@@ -59,5 +59,6 @@ export const siaMusicSongsFromAndInspiredByTheMotionPictureCourageToChange = {
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

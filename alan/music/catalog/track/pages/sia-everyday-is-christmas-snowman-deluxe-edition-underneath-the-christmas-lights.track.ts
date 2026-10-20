@@ -5,12 +5,12 @@ export const siaEverydayIsChristmasSnowmanDeluxeEditionUnderneathTheChristmasLig
   type: "page-type/track",
   slug: "sia-everyday-is-christmas-snowman-deluxe-edition-underneath-the-christmas-lights",
   ownLength: 3.6094666666666666,
-  ownProgress: 0,
+  ownProgress: 3.6094666666666666,
   partOfCollections: [
     "release/sia-everyday-is-christmas-snowman-deluxe-edition",
     "release/sia-everyday-is-christmas-deluxe-edition",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Underneath the Christmas Lights",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const siaEverydayIsChristmasSnowmanDeluxeEditionUnderneathTheChristmasLig
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

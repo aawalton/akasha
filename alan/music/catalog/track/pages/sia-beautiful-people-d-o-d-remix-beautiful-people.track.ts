@@ -5,7 +5,7 @@ export const siaBeautifulPeopleDODRemixBeautifulPeople = {
   type: "page-type/track",
   slug: "sia-beautiful-people-d-o-d-remix-beautiful-people",
   ownLength: 3.1181,
-  ownProgress: 0,
+  ownProgress: 3.1181,
   partOfCollections: [
     "release/sia-beautiful-people-d-o-d-remix",
     "release/sia-beautiful-people-afrojack-amel-remix",
@@ -16,7 +16,7 @@ export const siaBeautifulPeopleDODRemixBeautifulPeople = {
     "release/sia-beautiful-people-casso-remix",
     "release/sia-beautiful-people",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Beautiful People",
   trackType: "studio",
@@ -83,5 +83,6 @@ export const siaBeautifulPeopleDODRemixBeautifulPeople = {
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

@@ -6,11 +6,11 @@ export const siaLabrinthSiaDiploPresentLsdRemixesFeatSiaDiploLabrinthAudioFeatSi
     type: "page-type/track",
     slug: "sia-labrinth-sia-diplo-present-lsd-remixes-feat-sia-diplo-labrinth-audio-feat-sia-diplo-labrinth-cid",
     ownLength: 2.70175,
-    ownProgress: 0,
+    ownProgress: 2.70175,
     partOfCollections: [
       "release/sia-labrinth-sia-diplo-present-lsd-remixes-feat-sia-diplo-labrinth",
     ],
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     title: "Audio (feat. Sia, Diplo & Labrinth) - CID Remix",
     trackType: "remix",
@@ -35,5 +35,6 @@ export const siaLabrinthSiaDiploPresentLsdRemixesFeatSiaDiploLabrinthAudioFeatSi
       },
     ],
     createdAt: "2026-10-20T13:51:09.878Z",
-    updatedAt: "2026-10-20T13:51:09.878Z",
+    updatedAt: "2026-10-20T14:01:17.710Z",
+    progressedAt: "2026-10-20T14:01:17.710Z",
   } as const satisfies Track

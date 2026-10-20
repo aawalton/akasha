@@ -5,12 +5,12 @@ export const siaEverydayIsChristmasSnowmanDeluxeEditionSantasComingForUs = {
   type: "page-type/track",
   slug: "sia-everyday-is-christmas-snowman-deluxe-edition-santas-coming-for-us",
   ownLength: 3.4423166666666667,
-  ownProgress: 0,
+  ownProgress: 3.4423166666666667,
   partOfCollections: [
     "release/sia-everyday-is-christmas-snowman-deluxe-edition",
     "release/sia-everyday-is-christmas-deluxe-edition",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Santa's Coming for Us",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const siaEverydayIsChristmasSnowmanDeluxeEditionSantasComingForUs = {
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

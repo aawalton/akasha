@@ -5,12 +5,12 @@ export const siaEverydayIsChristmasSnowmanDeluxeEdition3MinutesTilNewYears = {
   type: "page-type/track",
   slug: "sia-everyday-is-christmas-snowman-deluxe-edition-3-minutes-til-new-years",
   ownLength: 3.681433333333333,
-  ownProgress: 0,
+  ownProgress: 3.681433333333333,
   partOfCollections: [
     "release/sia-everyday-is-christmas-snowman-deluxe-edition",
     "release/sia-gimme-christmas",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "3 Minutes 'til New Years",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const siaEverydayIsChristmasSnowmanDeluxeEdition3MinutesTilNewYears = {
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

@@ -5,13 +5,13 @@ export const siaEverydayIsChristmasSnowmanDeluxeEditionSnowmanSpedUpVersion = {
   type: "page-type/track",
   slug: "sia-everyday-is-christmas-snowman-deluxe-edition-snowman-sped-up-version",
   ownLength: 2.2929666666666666,
-  ownProgress: 0,
+  ownProgress: 2.2929666666666666,
   partOfCollections: [
     "release/sia-everyday-is-christmas-snowman-deluxe-edition",
     "release/sia-it-s-christmas-baby-the-snowman-remixes-ep",
     "release/sia-snowman-sped-up-version",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Snowman - Sped Up Version",
   trackType: "version",
@@ -43,5 +43,6 @@ export const siaEverydayIsChristmasSnowmanDeluxeEditionSnowmanSpedUpVersion = {
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

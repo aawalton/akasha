@@ -5,12 +5,12 @@ export const siaGimmeLoveSentinelRemixGimmeLoveSofianePamartRemix = {
   type: "page-type/track",
   slug: "sia-gimme-love-sentinel-remix-gimme-love-sofiane-pamart-remix",
   ownLength: 2.7095,
-  ownProgress: 0,
+  ownProgress: 2.7095,
   partOfCollections: [
     "release/sia-gimme-love-sentinel-remix",
     "release/sia-gimme-love-sofiane-pamart-remix",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Gimme Love - Sofiane Pamart Remix",
   trackType: "remix",
@@ -35,5 +35,6 @@ export const siaGimmeLoveSentinelRemixGimmeLoveSofianePamartRemix = {
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

@@ -5,7 +5,7 @@ export const siaMusicSongsFromAndInspiredByTheMotionPictureFloatingThroughSpace 
   type: "page-type/track",
   slug: "sia-music-songs-from-and-inspired-by-the-motion-picture-floating-through-space",
   ownLength: 2.9633333333333334,
-  ownProgress: 0,
+  ownProgress: 2.9633333333333334,
   partOfCollections: [
     "release/sia-music-songs-from-and-inspired-by-the-motion-picture",
     "release/sia-floating-through-space-feat-david-guetta-hex-sia-in-space-mix",
@@ -13,7 +13,7 @@ export const siaMusicSongsFromAndInspiredByTheMotionPictureFloatingThroughSpace 
     "release/sia-floating-through-space-feat-david-guetta-hex-hector-s-roller-jam-mix",
     "release/sia-floating-through-space",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Floating Through Space",
   trackType: "studio",
@@ -59,5 +59,6 @@ export const siaMusicSongsFromAndInspiredByTheMotionPictureFloatingThroughSpace 
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

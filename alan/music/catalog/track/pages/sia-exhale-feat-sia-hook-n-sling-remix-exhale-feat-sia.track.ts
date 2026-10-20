@@ -5,12 +5,12 @@ export const siaExhaleFeatSiaHookNSlingRemixExhaleFeatSia = {
   type: "page-type/track",
   slug: "sia-exhale-feat-sia-hook-n-sling-remix-exhale-feat-sia",
   ownLength: 2.5739,
-  ownProgress: 0,
+  ownProgress: 2.5739,
   partOfCollections: [
     "release/sia-exhale-feat-sia-hook-n-sling-remix",
     "release/sia-exhale-feat-sia",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "EXHALE (feat. Sia)",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const siaExhaleFeatSiaHookNSlingRemixExhaleFeatSia = {
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

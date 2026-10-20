@@ -5,7 +5,7 @@ export const siaReasonableWomanDanceAlone = {
   type: "page-type/track",
   slug: "sia-reasonable-woman-dance-alone",
   ownLength: 2.8707666666666665,
-  ownProgress: 0,
+  ownProgress: 2.8707666666666665,
   partOfCollections: [
     "release/sia-reasonable-woman",
     "release/sia-dance-alone-remixes",
@@ -13,7 +13,7 @@ export const siaReasonableWomanDanceAlone = {
     "release/sia-dance-alone-ofenbach-remix",
     "release/sia-dance-alone",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Dance Alone",
   trackType: "studio",
@@ -59,5 +59,6 @@ export const siaReasonableWomanDanceAlone = {
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

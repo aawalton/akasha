@@ -5,12 +5,12 @@ export const siaThisIsActing10thAnniversaryEditionBirdSetFreeLiveFromTheVillage 
   type: "page-type/track",
   slug: "sia-this-is-acting-10th-anniversary-edition-bird-set-free-live-from-the-village",
   ownLength: 5.2271,
-  ownProgress: 0,
+  ownProgress: 5.2271,
   partOfCollections: [
     "release/sia-this-is-acting-10th-anniversary-edition",
     "release/sia-spotify-sessions",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Bird Set Free - Live from The Village",
   trackType: "live",
@@ -35,5 +35,6 @@ export const siaThisIsActing10thAnniversaryEditionBirdSetFreeLiveFromTheVillage 
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

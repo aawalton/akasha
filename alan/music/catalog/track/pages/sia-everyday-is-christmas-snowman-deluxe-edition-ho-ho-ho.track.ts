@@ -5,12 +5,12 @@ export const siaEverydayIsChristmasSnowmanDeluxeEditionHoHoHo = {
   type: "page-type/track",
   slug: "sia-everyday-is-christmas-snowman-deluxe-edition-ho-ho-ho",
   ownLength: 3.4271,
-  ownProgress: 0,
+  ownProgress: 3.4271,
   partOfCollections: [
     "release/sia-everyday-is-christmas-snowman-deluxe-edition",
     "release/sia-everyday-is-christmas-deluxe-edition",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Ho Ho Ho",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const siaEverydayIsChristmasSnowmanDeluxeEditionHoHoHo = {
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

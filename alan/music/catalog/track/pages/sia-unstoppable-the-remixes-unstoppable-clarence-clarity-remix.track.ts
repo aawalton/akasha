@@ -5,12 +5,12 @@ export const siaUnstoppableTheRemixesUnstoppableClarenceClarityRemix = {
   type: "page-type/track",
   slug: "sia-unstoppable-the-remixes-unstoppable-clarence-clarity-remix",
   ownLength: 3.7965666666666666,
-  ownProgress: 0,
+  ownProgress: 3.7965666666666666,
   partOfCollections: [
     "release/sia-unstoppable-the-remixes",
     "release/sia-unstoppable-clarence-clarity-remix",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Unstoppable - Clarence Clarity Remix",
   trackType: "remix",
@@ -35,5 +35,6 @@ export const siaUnstoppableTheRemixesUnstoppableClarenceClarityRemix = {
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

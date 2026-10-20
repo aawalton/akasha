@@ -5,12 +5,12 @@ export const siaGimmeChristmasSleepSoundscapeSnowmanPt1SleepSoundscape = {
   type: "page-type/track",
   slug: "sia-gimme-christmas-sleep-soundscape-snowman-pt-1-sleep-soundscape",
   ownLength: 3.70225,
-  ownProgress: 0,
+  ownProgress: 3.70225,
   partOfCollections: [
     "release/sia-gimme-christmas-sleep-soundscape",
     "release/sia-it-s-christmas-baby-the-snowman-remixes-ep",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Snowman Pt. 1 - Sleep Soundscape",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const siaGimmeChristmasSleepSoundscapeSnowmanPt1SleepSoundscape = {
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track

@@ -5,11 +5,11 @@ export const siaUnstoppableFeatPushaTOlodumPerfectIsnTPrettyMixArielRechtshaidVe
   type: "page-type/track",
   slug: "sia-unstoppable-feat-pusha-t-olodum-perfect-isn-t-pretty-mix-ariel-rechtshaid-version-unstoppable",
   ownLength: 3.760666666666667,
-  ownProgress: 0,
+  ownProgress: 3.760666666666667,
   partOfCollections: [
     "release/sia-unstoppable-feat-pusha-t-olodum-perfect-isn-t-pretty-mix-ariel-rechtshaid-version",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title:
     "Unstoppable (feat. Pusha T & Olodum) - Perfect Isn't Pretty Mix - Ariel Rechtshaid Version",
@@ -30,5 +30,6 @@ export const siaUnstoppableFeatPushaTOlodumPerfectIsnTPrettyMixArielRechtshaidVe
     },
   ],
   createdAt: "2026-10-20T13:51:09.878Z",
-  updatedAt: "2026-10-20T13:51:09.878Z",
+  updatedAt: "2026-10-20T14:01:17.710Z",
+  progressedAt: "2026-10-20T14:01:17.710Z",
 } as const satisfies Track
