@@ -7419,6 +7419,8 @@
     5853,
     5855,
     5856,
+    5880,
+    5888,
     5921,
     5931,
     5937,
@@ -11131,7 +11133,9 @@
     },
     "849": {
       "1": [
-        1
+        1,
+        2,
+        3
       ],
       "3": [
         1,
@@ -13483,6 +13487,7 @@
       37,
       38,
       46,
+      48,
       64,
       68,
       72,
@@ -14089,22 +14094,22 @@
   },
   "inventoryCheck": {
     "date": "2026-10-20",
-    "misplaced": 81
+    "misplaced": 90
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792537623,
+      "capturedAt": 1792538592,
       "buildHash": "ATQNLMUAAIBhxRNCyJtAEIBCyJtAEIBC5gtuULJC5gtuULJC5gtuULJC5gtuULJC5gtuULIQlKtuULJBHb1AEIAQQbtuULImJTHbcoWURBMdbcoWVu4sGXp9K_KyM7yW7rQGnEEA3ddEoG-3AQNgIk4dcnwfAdoWPbia4XTbKyMEI911WUdTaccICU0IiMiAAMzICIiIyIgIyI1IiIgAjIjNCIAIiQgMiJAMARDIiIwOiMjQgOgIiImQzMjQgAAA4IiAiIkozBCIiIjAjoAAAADUixJwyseTLLmTZ2fRp1a9s-hRpU6niqAAAABs8fXL0DFkhaImyN07SJUyd-oUwVUJXHWAAAAAbAlSwIwDCBQxk0HECTZwULGDRw8gRJHSYABAZBxiQNY",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
-      "ultimate": 158,
+      "ultimate": 28,
       "health": 19394,
-      "healthBefore": 17655,
+      "healthBefore": 16116,
       "healthPaired": false,
       "stats": {
         "penetration-physical": 17886,
         "health-recovery": 0,
-        "stamina-recovery": 887,
+        "stamina-recovery": 0,
         "power-spell": 4084,
         "critical-rating-spell": 6225,
         "magicka-maximum": 14908,
@@ -14121,7 +14126,7 @@
       "unbonusedStats": {
         "penetration-physical": 0,
         "health-recovery": 0,
-        "stamina-recovery": 887,
+        "stamina-recovery": 0,
         "power-spell": 1000,
         "critical-rating-spell": 2181,
         "magicka-maximum": 14908,
@@ -14151,10 +14156,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 61665,
-          "name": "Major Brutality",
+          "abilityId": 61667,
+          "name": "Major Savagery",
           "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
+          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
           "stacks": 0
         },
         {
@@ -14165,10 +14170,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 61667,
-          "name": "Major Savagery",
+          "abilityId": 61665,
+          "name": "Major Brutality",
           "description": "",
-          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
           "stacks": 0
         },
         {
@@ -14745,7 +14750,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:128340:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:5250:0|h|h",
+          "link": "|H0:item:128340:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:4650:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 1823,
@@ -14820,7 +14825,7 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:215597:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:7240:0|h|h",
+          "link": "|H0:item:215597:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:7040:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 2084,
@@ -14860,7 +14865,7 @@
         },
         {
           "slot": 3,
-          "link": "|H0:item:128348:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:4595:0|h|h",
+          "link": "|H0:item:128348:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:4095:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 1823,
@@ -14895,7 +14900,7 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:133787:364:50:26844:370:50:7:25:0:0:0:0:0:0:2049:4:0:1:0:231:0|h|h",
+          "link": "|H0:item:133787:364:50:26844:370:50:7:25:0:0:0:0:0:0:2049:4:0:1:0:227:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 0,
@@ -14920,7 +14925,7 @@
         },
         {
           "slot": 6,
-          "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:7100:0|h|h",
+          "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:6700:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 781,
@@ -14960,7 +14965,7 @@
         },
         {
           "slot": 8,
-          "link": "|H0:item:215601:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:8100:0|h|h",
+          "link": "|H0:item:215601:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:7700:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 1823,
@@ -15000,7 +15005,7 @@
         },
         {
           "slot": 9,
-          "link": "|H0:item:215598:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:8600:0|h|h",
+          "link": "|H0:item:215598:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:7950:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 1823,
@@ -15281,7 +15286,7 @@
       ],
       "inArchive": false,
       "blocking": false,
-      "moving": false,
+      "moving": true,
       "archiveBoons": [],
       "advanced": {
         "healing-critical-bonus": 0.14,
