@@ -19,7 +19,11 @@ export const levelScaling = {
       decisionKind: "decision-kind/departure",
       statement: "A weapon's worth level comes from the level band its item level falls in.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A weapon's band worth is rounded down, and an armor piece's to nearest.",
+    },
   ],
   createdAt: "2026-09-02T09:24:55.954Z",
-  updatedAt: "2026-10-20T17:28:17.707Z",
+  updatedAt: "2026-10-20T17:36:52.256Z",
 } as const satisfies Module

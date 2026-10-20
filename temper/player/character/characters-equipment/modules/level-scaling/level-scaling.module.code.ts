@@ -44,14 +44,21 @@ function bandOf(level: ItemLevel): LevelBand | undefined {
   return bands.find((band) => band.prefix !== "" && level.startsWith(band.prefix))
 }
 
-function effectiveLevel(level: ItemLevel | undefined): number {
+function effectiveLevel(
+  level: ItemLevel | undefined,
+  rounding: (worth: number) => number = Math.floor
+): number {
   if (level === undefined) return highestWorthLevel()
   const band = bandOf(level)
   if (band === undefined) return highestWorthLevel()
   const value = typeof level === "number" ? level : parseInt(level.slice(band.prefix.length), 10)
   if (Number.isNaN(value)) return highestWorthLevel()
   const within = Math.max(band.bottom, Math.min(band.top, value))
-  return band.start + Math.floor((within * band.span) / band.top)
+  return band.start + rounding((within * band.span) / band.top)
+}
+
+export function nearestWorthLevel(level: ItemLevel): number {
+  return effectiveLevel(level, Math.round)
 }
 
 export function levelScalingOf(slope: unknown, intercept: unknown): LevelScaling | undefined {

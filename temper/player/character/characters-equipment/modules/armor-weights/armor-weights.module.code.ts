@@ -30,6 +30,7 @@ import type {
 import {
   type LevelScaling,
   levelScalingOf,
+  nearestWorthLevel,
 } from "akasha/temper/player/character/characters-equipment/modules/level-scaling/level-scaling.module.code.ts"
 import type { MetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 
@@ -104,19 +105,9 @@ const LEVELS_BELOW_LEGENDARY: Readonly<Record<EquipmentQualityId, number>> = {
   legendary: 0,
 }
 
-const FIRST_CHAMPION_WORTH = 51
-
-const CHAMPION_WORTH_SPAN = 22
-
-const CHAMPION_LEVELS_SPANNED = 150
-
 function legendaryWorthLevel(level: ItemLevel): number {
   if (typeof level === "number") return level === 1 ? 0 : level + 1
-  const championLevelsPast = Number(level.slice("CP".length)) - 10
-  return (
-    FIRST_CHAMPION_WORTH +
-    Math.ceil((championLevelsPast * CHAMPION_WORTH_SPAN) / CHAMPION_LEVELS_SPANNED)
-  )
+  return nearestWorthLevel(level)
 }
 
 function levelWorth(quality: EquipmentQualityId, level: ItemLevel, scaling: LevelScaling): number {
