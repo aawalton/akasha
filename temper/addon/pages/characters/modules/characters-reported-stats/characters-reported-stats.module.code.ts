@@ -5,11 +5,13 @@ import {
 import { archiveBoons } from "akasha/temper/addon/pages/characters/modules/characters-archive-boons/characters-archive-boons.module.code.ts"
 import { characterSheet } from "akasha/temper/addon/pages/characters/modules/characters-character-sheet/characters-character-sheet.module.code.ts"
 import { currentCharacterEntry } from "akasha/temper/addon/pages/characters/modules/characters-current-entry/characters-current-entry.module.code.ts"
+import {
+  type Bar,
+  settled,
+} from "akasha/temper/addon/pages/characters/modules/characters-reported-stats-settle/characters-reported-stats-settle.module.code.ts"
 import { captureCharacterBuildHash } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-build/character-capture-build.module.code.ts"
 import { buildHash as asBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import { ADDON_NAME } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
-import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-04/eso-enums-04.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
@@ -283,26 +285,6 @@ function slottedSkills(): SlottedSkill[] {
   return skills
 }
 
-const FOLLOW_UP_MS = 1_500
-
-const SETTLE_MS = 1_000
-
-const SETTLE_TRIES = 5
-
-const SETTLE_UPDATE = ADDON_NAME + "_ReportedStatsSettle"
-
-type Bar = "frontBar" | "backBar"
-
-type Unsettled = {
-  readonly bar: Bar
-  readonly buildHash: string
-  readonly said: string
-  readonly since: number
-  readonly tries: number
-}
-
-let unsettled: Unsettled | undefined
-
 function statsSaid(stats: Record<string, number>, unbonused: Record<string, number>): string {
   const said: string[] = []
   for (const [name] of REPORTED_STATS) said.push(`${stats[name] ?? ""}/${unbonused[name] ?? ""}`)
@@ -316,29 +298,8 @@ function buffsSaid(): string {
   return said.join(",")
 }
 
-function settleLater(): undefined {
-  EVENT_MANAGER.UnregisterForUpdate(SETTLE_UPDATE)
-  EVENT_MANAGER.RegisterForUpdate(SETTLE_UPDATE, FOLLOW_UP_MS, function (this: void): undefined {
-    EVENT_MANAGER.UnregisterForUpdate(SETTLE_UPDATE)
-    captureBar(true)
-  })
-}
-
-function settled(bar: Bar, buildHash: string, said: string, followUp: boolean): boolean {
-  const now = GetGameTimeMilliseconds()
-  const before = unsettled
-  if (before?.bar === bar && before.buildHash === buildHash && before.said === said) {
-    if (now - before.since >= SETTLE_MS) {
-      unsettled = undefined
-      return true
-    }
-    settleLater()
-    return false
-  }
-  const tries = followUp && before !== undefined ? before.tries + 1 : 1
-  unsettled = tries > SETTLE_TRIES ? undefined : { bar, buildHash, said, since: now, tries }
-  if (unsettled !== undefined) settleLater()
-  return false
+function retake(this: void): undefined {
+  captureBar(true)
 }
 
 function heldBar(): Bar | undefined {
@@ -415,7 +376,7 @@ function captureBar(followUp: boolean): undefined {
   const now = statsNow()
   const buildHash = captureCharacterBuildHash().buildHash
   const said = `${statsSaid(now[0], now[1])}|${buffsSaid()}|${advancedSheetSaid()}`
-  if (!settled(bar, buildHash, said, followUp)) return
+  if (!settled(bar, buildHash, said, followUp, retake)) return
   const reported = charEntry.reportedStats ?? {}
   const reading = { ...readingOf(buildHash, now), passiveRankIds: passiveRankIdsOnce() }
   reported[bar] = reading

@@ -136,19 +136,6 @@ export const charactersReportedStats = {
       statement: "The game's stats can trail a build change by one capture.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A reading is kept only where a capture a second or more later gives the same bar, build and stats.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "That later capture gives the same buffs as well.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "That later capture gives the same advanced stats the game's sheet shows too.",
-    },
-    {
       decisionKind: "decision-kind/constraint",
       statement: "The game's stats and its buff list can be read at different moments.",
     },
@@ -158,23 +145,7 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every capture not yet agreed on is taken again a second and a half later.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Two captures a second or more apart that agree are enough to keep a reading.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A capture a build event takes starts the count of retakes again from one.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Five retakes running that disagree end the retaking until the next build event.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A reading kept ends the retaking.",
+      statement: "A reading is kept only once the numbers it is made of have stopped changing.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -187,5 +158,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-20T14:07:25.815Z",
+  updatedAt: "2026-10-20T14:10:58.497Z",
 } as const satisfies Module

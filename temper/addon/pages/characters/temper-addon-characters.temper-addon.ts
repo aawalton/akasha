@@ -176,6 +176,7 @@ export const temperAddonCharacters = {
     "module/characters-advanced-sheet",
     "module/characters-character-sheet",
     "module/characters-archive-boons",
+    "module/characters-reported-stats-settle",
   ],
   interfaces: [
     "eso-interface/skill-point-finder-layout",
@@ -223,5 +224,5 @@ export const temperAddonCharacters = {
     },
   ],
   createdAt: "2026-09-02T15:52:42.403Z",
-  updatedAt: "2026-10-20T13:26:17.314Z",
+  updatedAt: "2026-10-20T14:10:58.497Z",
 } as const satisfies TemperAddon
