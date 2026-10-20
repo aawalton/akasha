@@ -22,11 +22,11 @@ export const sylviaDaley = {
       source: "spotify",
       externalId: "03dXd2zBbBJvX60Oap8Lgo",
       externalLink: "https://open.spotify.com/artist/03dXd2zBbBJvX60Oap8Lgo",
-      lastSyncedAt: "2026-09-15",
+      lastSyncedAt: "2026-10-20",
     },
   ],
   title: "Sylvia Daley",
   genre: ["pop", "singer-songwriter"],
   createdAt: "2026-09-03T16:04:08.684Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-20T13:51:16.571Z",
 } as const satisfies Artist
