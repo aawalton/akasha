@@ -115,6 +115,8 @@
     { "championSkillId": 2, "points": 50, "maxPoints": 50 }
   ],
   "pinned": {
+    "critical-rating-spell": 7762,
+    "critical-rating-weapon": 7762,
     "health-maximum": 37026,
     "health-recovery": 415,
     "magicka-maximum": 100250,
@@ -129,8 +131,5 @@
     "stamina-maximum": 32806,
     "stamina-recovery": 918
   },
-  "gaps": {
-    "critical-rating-spell": 7762,
-    "critical-rating-weapon": 7762
-  }
+  "gaps": {}
 }

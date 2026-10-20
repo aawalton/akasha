@@ -101,6 +101,8 @@
     "bash-damage": 336,
     "block-mitigation": 52,
     "break-free-cost": 4403,
+    "critical-rating-spell": 5789,
+    "critical-rating-weapon": 5789,
     "damage-done-bleed": 0,
     "damage-done-disease": 0,
     "damage-done-flame": 0,
@@ -140,8 +142,6 @@
   "gaps": {
     "block-speed": 42,
     "critical-damage": 0,
-    "critical-rating-spell": 5789,
-    "critical-rating-weapon": 5789,
     "healing-critical-bonus": 0,
     "movement-sprint-speed": 144,
     "sneak-cost": 79
