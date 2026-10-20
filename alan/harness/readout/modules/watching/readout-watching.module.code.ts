@@ -1,3 +1,4 @@
+import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.computed-property-module.code.ts"
 import {
   keepReading,
   NOT_FALLING,
@@ -51,6 +52,7 @@ export type WatchSetup = {
   readonly settleMs?: number
   readonly beat?: Beat
   readonly endingGraceMs?: number
+  readonly clock?: () => Date
 }
 
 type Taking = {
@@ -117,7 +119,8 @@ export function takingOf(setup: WatchSetup): Taking {
   const secret =
     setup.secret === undefined ? statedIn(process.env, RELAY_SECRET_NAME) : setup.secret
   if (secret === null) setup.said("ERROR", NO_SECRET_TO_CARRY_ON)
-  const before = new Map<string, number | null>()
+  const clock = setup.clock ?? ((): Date => new Date())
+  const before = new Map<string, string>()
   const taking = new Set<string>()
   const owed = new Set<string>()
   const running = new Set<Promise<undefined>>()
@@ -133,10 +136,11 @@ export function takingOf(setup: WatchSetup): Taking {
     try {
       do {
         owed.delete(one.page)
-        const now = new Date()
+        const now = clock()
         const value = await one.take(now)
-        if (before.has(one.page) && before.get(one.page) === value) continue
-        before.set(one.page, value)
+        const found = `${getEsoDayStr(now)} ${value}`
+        if (before.get(one.page) === found) continue
+        before.set(one.page, found)
         if (value === null) continue
         kept(setup.root, one.page, value, now)
         const at = now.toISOString()

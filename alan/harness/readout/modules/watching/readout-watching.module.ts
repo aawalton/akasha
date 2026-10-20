@@ -41,7 +41,11 @@ export const readoutWatching = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A take finding the value the take before found writes nothing and carries nothing.",
+        "A take finding the value the take before found that day writes nothing and carries nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The first take on a new day writes and carries its value, even one unchanged.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -162,5 +166,5 @@ export const readoutWatching = {
     },
   ],
   createdAt: "2026-09-10T16:03:36.973Z",
-  updatedAt: "2026-09-21T17:07:49.000Z",
+  updatedAt: "2026-10-20T11:08:35.646Z",
 } as const satisfies Module

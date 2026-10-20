@@ -105,6 +105,23 @@ test("a take finding the value the take before found writes nothing", async () =
   expect(held.written).toEqual([[PAGE, 4]])
 })
 
+test("a take finding on a new day the value the day before ended at writes it again", async () => {
+  const instants = [new Date("2026-10-19T20:00:00.000Z"), new Date("2026-10-20T12:00:00.000Z")]
+  let ticks = 0
+  const held = setupOf({
+    watched: [watchedOf(() => Promise.resolve(0))],
+    clock: () => instants[Math.min(ticks++, instants.length - 1)] ?? new Date(),
+  })
+  held.taking.open()
+  await held.taking.settled()
+  held.taking.moved([MADE_OF])
+  await held.taking.settled()
+  expect(held.written).toEqual([
+    [PAGE, 0],
+    [PAGE, 0],
+  ])
+})
+
 test("a take finding no reading writes nothing", async () => {
   const held = setupOf({ watched: [watchedOf(() => Promise.resolve(null))] })
   held.taking.open()
