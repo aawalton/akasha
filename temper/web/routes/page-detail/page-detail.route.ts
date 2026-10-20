@@ -27,6 +27,14 @@ export const pageDetail = {
       statement: "A character build's page and a companion build's page draw that build's editor.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "A companion build's editor reads gear slots the skill catalogue holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each build editor is drawn only once the skill catalogue is held.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement:
         "A character's page and a companion's page draw the editor on their current build.",
@@ -41,5 +49,5 @@ export const pageDetail = {
     },
   ],
   createdAt: "2026-09-08T19:56:07.656Z",
-  updatedAt: "2026-10-20T01:35:18.377Z",
+  updatedAt: "2026-10-20T01:58:03.043Z",
 } as const satisfies Route

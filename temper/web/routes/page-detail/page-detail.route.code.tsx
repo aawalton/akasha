@@ -61,6 +61,8 @@ import type { Route } from "./+types/page-detail.route.code"
 
 const NAV_SLUG = "nav"
 
+const EDITOR_SKELETON = <PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />
+
 interface CharacterPageRow {
   id: string
   accountPage?: string
@@ -343,17 +345,11 @@ export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
 
   if (loaderData.kind === "character") {
     const editor = (
-      <SetCatalogGate
-        fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />}
-      >
+      <SetCatalogGate fallback={EDITOR_SKELETON}>
         {(catalog) => (
-          <SkillCatalogGate
-            fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />}
-          >
+          <SkillCatalogGate fallback={EDITOR_SKELETON}>
             {() => (
-              <MetricCatalogGate
-                fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />}
-              >
+              <MetricCatalogGate fallback={EDITOR_SKELETON}>
                 {() => (
                   <CharacterEditor
                     buildId={toBuildId(loaderData.buildId)}
@@ -382,25 +378,25 @@ export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
 
   if (loaderData.kind === "companion") {
     const editor = (
-      <CompanionCatalogGate
-        fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />}
-      >
+      <CompanionCatalogGate fallback={EDITOR_SKELETON}>
         {() => (
-          <MetricCatalogGate
-            fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />}
-          >
+          <SkillCatalogGate fallback={EDITOR_SKELETON}>
             {() => (
-              <CompanionEditor
-                buildId={toBuildId(loaderData.buildId)}
-                initialTab={tab}
-                initialBuild={loaderData.initialBuild}
-                initialBuildHash={loaderData.initialBuildHash}
-                isOwner={loaderData.isOwner}
-                initialVisibility={loaderData.initialVisibility}
-                isTargetBuild={loaderData.isTargetBuild}
-              />
+              <MetricCatalogGate fallback={EDITOR_SKELETON}>
+                {() => (
+                  <CompanionEditor
+                    buildId={toBuildId(loaderData.buildId)}
+                    initialTab={tab}
+                    initialBuild={loaderData.initialBuild}
+                    initialBuildHash={loaderData.initialBuildHash}
+                    isOwner={loaderData.isOwner}
+                    initialVisibility={loaderData.initialVisibility}
+                    isTargetBuild={loaderData.isTargetBuild}
+                  />
+                )}
+              </MetricCatalogGate>
             )}
-          </MetricCatalogGate>
+          </SkillCatalogGate>
         )}
       </CompanionCatalogGate>
     )
