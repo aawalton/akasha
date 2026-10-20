@@ -133,7 +133,23 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A capture that disagrees five times running is dropped rather than kept.",
+      statement: "Every capture not yet agreed on is taken again a second and a half later.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Two captures a second or more apart that agree are enough to keep a reading.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A capture a build event takes starts the count of retakes again from one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Five retakes running that disagree end the retaking until the next build event.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading kept ends the retaking.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -146,5 +162,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-20T00:43:20.456Z",
+  updatedAt: "2026-10-20T01:13:58.789Z",
 } as const satisfies Module

@@ -295,6 +295,8 @@ function slottedSkills(): SlottedSkill[] {
   return skills
 }
 
+const FOLLOW_UP_MS = 1_500
+
 const SETTLE_MS = 1_000
 
 const SETTLE_TRIES = 5
@@ -328,13 +330,13 @@ function buffsSaid(): string {
 
 function settleLater(): undefined {
   EVENT_MANAGER.UnregisterForUpdate(SETTLE_UPDATE)
-  EVENT_MANAGER.RegisterForUpdate(SETTLE_UPDATE, SETTLE_MS, function (this: void): undefined {
+  EVENT_MANAGER.RegisterForUpdate(SETTLE_UPDATE, FOLLOW_UP_MS, function (this: void): undefined {
     EVENT_MANAGER.UnregisterForUpdate(SETTLE_UPDATE)
-    captureReportedStats()
+    captureBar(true)
   })
 }
 
-function settled(bar: Bar, buildHash: string, said: string): boolean {
+function settled(bar: Bar, buildHash: string, said: string, followUp: boolean): boolean {
   const now = GetGameTimeMilliseconds()
   const before = unsettled
   if (before?.bar === bar && before.buildHash === buildHash && before.said === said) {
@@ -345,7 +347,7 @@ function settled(bar: Bar, buildHash: string, said: string): boolean {
     settleLater()
     return false
   }
-  const tries = before === undefined ? 1 : before.tries + 1
+  const tries = followUp && before !== undefined ? before.tries + 1 : 1
   unsettled = tries > SETTLE_TRIES ? undefined : { bar, buildHash, said, since: now, tries }
   if (unsettled !== undefined) settleLater()
   return false
@@ -402,13 +404,18 @@ export function whenReadingKept(listener: () => undefined): undefined {
 }
 
 export function captureReportedStats(): undefined {
+  return captureBar(false)
+}
+
+function captureBar(followUp: boolean): undefined {
   const charEntry = currentCharacterEntry()
   if (charEntry === undefined) return
   const bar = heldBar()
   if (bar === undefined) return
   const now = statsNow()
   const buildHash = captureCharacterBuildHash().buildHash
-  if (!settled(bar, buildHash, `${statsSaid(now[0], now[1])}|${buffsSaid()}`)) return
+  const said = `${statsSaid(now[0], now[1])}|${buffsSaid()}`
+  if (!settled(bar, buildHash, said, followUp)) return
   const reported = charEntry.reportedStats ?? {}
   const reading = { ...readingOf(buildHash, now), passiveRankIds: passiveRankIdsOnce() }
   reported[bar] = reading
