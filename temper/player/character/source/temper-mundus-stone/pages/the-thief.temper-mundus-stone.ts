@@ -10,6 +10,7 @@ export const theThief = {
   esoIconName: "constellation_thief",
   effects: [{ metric: "temper-metric/critical-rating", effectType: "integer", value: 1212 }],
   hashPlace: 11,
+  boonAtTooltip: true,
   createdAt: "2026-09-26T20:33:58.498Z",
-  updatedAt: "2026-09-26T20:34:07.000Z",
+  updatedAt: "2026-10-20T19:10:29.556Z",
 } as const satisfies TemperMundusStone

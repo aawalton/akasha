@@ -68,12 +68,12 @@ export const temperMundusStone = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The Lady and the Lover apply their tooltip number, and the Lord and the Mage do not.",
+        "The Lady, the Lover and the Thief apply their tooltip number; the Lord and the Mage do not.",
     },
   ],
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
   createdAt: "2026-09-26T20:30:44.203Z",
-  updatedAt: "2026-10-19T23:15:56.576Z",
+  updatedAt: "2026-10-20T19:10:29.556Z",
 } as const satisfies PageType
