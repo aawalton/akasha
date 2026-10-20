@@ -10,6 +10,7 @@ import {
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
+import { armorTypes } from "akasha/temper/catalog/gear/equipment/kind/modules/armor-types/armor-types.module.code.ts"
 import type { EquipmentQualityOptionId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { WeaponBar } from "akasha/temper/catalog/gear/equipment/kind/modules/weapon-bars/weapon-bars.module.code.ts"
 import {
@@ -230,26 +231,32 @@ export function WeaponCard({
                     {selectedSet?.name ?? noSetName}
                   </Badge>
                 </button>
-                <Select<WeaponTypeId>
-                  value={item.itemType === "weapon" ? item.data.type : "no-type"}
-                  onValueChange={(v) => onUpdate({ type: v })}
-                  disabled={readOnly}
-                >
-                  <SelectTrigger hideChevron>
-                    <Badge variant="elevation-muted" className="shrink-0">
-                      <SelectValue placeholder={noTypeName} />
-                    </Badge>
-                  </SelectTrigger>
-                  <SelectContent nullSentinel={{ value: "no-type", label: noTypeName }}>
-                    {validWeaponTypeOptions
-                      .filter((option) => option.id !== "no-type")
-                      .map((option) => (
-                        <SelectItem key={option.id} value={option.id}>
-                          {option.name}
-                        </SelectItem>
-                      ))}
-                  </SelectContent>
-                </Select>
+                {isShieldType ? (
+                  <Badge variant="elevation-muted" className="shrink-0">
+                    {armorTypes.data.shield.name}
+                  </Badge>
+                ) : (
+                  <Select<WeaponTypeId>
+                    value={item.itemType === "weapon" ? item.data.type : "no-type"}
+                    onValueChange={(v) => onUpdate({ type: v })}
+                    disabled={readOnly}
+                  >
+                    <SelectTrigger hideChevron>
+                      <Badge variant="elevation-muted" className="shrink-0">
+                        <SelectValue placeholder={noTypeName} />
+                      </Badge>
+                    </SelectTrigger>
+                    <SelectContent nullSentinel={{ value: "no-type", label: noTypeName }}>
+                      {validWeaponTypeOptions
+                        .filter((option) => option.id !== "no-type")
+                        .map((option) => (
+                          <SelectItem key={option.id} value={option.id}>
+                            {option.name}
+                          </SelectItem>
+                        ))}
+                    </SelectContent>
+                  </Select>
+                )}
                 <Select<WeaponTraitId | ArmorTraitId>
                   value={itemData?.trait ?? "no-trait"}
                   onValueChange={(v) => onUpdate({ trait: v })}
