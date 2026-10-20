@@ -20,15 +20,7 @@
         }
       }
     },
-    "skillAbilityIds": {
-      "1": 153685,
-      "2": 155408,
-      "3": 157287,
-      "4": 154790,
-      "5": 153066,
-      "6": 157259
-    },
-    "companionId": 2,
+    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
     "jewelry": {
       "1": {
         "displayText": "Quickened",
@@ -58,7 +50,16 @@
         }
       }
     },
-    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
+    "companionId": 2,
+    "skillAbilityIds": {
+      "1": 153685,
+      "2": 155408,
+      "3": 157287,
+      "4": 154790,
+      "5": 153066,
+      "6": 157259
+    },
+    "mainHandWeaponType": 9,
     "armor": {
       "1": {
         "displayText": "Light, Quickened",
@@ -123,8 +124,7 @@
           "3": 0.86
         }
       }
-    },
-    "mainHandWeaponType": 9
+    }
   },
   "targetBuildHash": "AjEAItC0LQtC0LQtDQ0NGNOzqtY7WAA",
   "level": 20,
