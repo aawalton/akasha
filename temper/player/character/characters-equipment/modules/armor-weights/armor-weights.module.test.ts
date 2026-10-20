@@ -59,6 +59,12 @@ test("a level-4 normal light sash reads 31652 Physical Resistance in Erin Solsti
   expect(getArmorValue("waist", "light", "normal", 4)).toBe(LEVEL_ONE_SASH + 31652 - 31628)
 })
 
+test("a level-6 normal light sash reads 30652 Physical Resistance in Erin Solstice's reading 01a15a68-7f89-7b25-84c2-b2e01d6b52fa, against 31048 with the CP160 sash in 01a15a68-1c11-772e-bb35-d60dddd095c6", () => {
+  expect(getArmorValue("waist", "light", "normal", 6)).toBe(
+    getArmorValue("waist", "light", "normal", "CP160") + 30652 - 31048
+  )
+})
+
 const LEVEL_FOUR_SASH_SHEET = 31050
 
 const LOW_NORMAL_LIGHT_SASHES: readonly (readonly [number, number, string])[] = [

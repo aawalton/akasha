@@ -32,7 +32,7 @@ export const armorWeights = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A legendary piece's worth level is 0 at 1, its level at 4, and one above from 8.",
+      statement: "A legendary piece's worth level is 0 at 1, its level at 4, and one above from 6.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -46,5 +46,5 @@ export const armorWeights = {
     },
   ],
   createdAt: "2026-09-02T09:24:55.959Z",
-  updatedAt: "2026-10-20T17:40:12.053Z",
+  updatedAt: "2026-10-20T17:47:02.379Z",
 } as const satisfies Module

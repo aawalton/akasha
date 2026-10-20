@@ -106,7 +106,7 @@ const LEVELS_BELOW_LEGENDARY: Readonly<Record<EquipmentQualityId, number>> = {
 }
 
 function legendaryWorthLevel(level: ItemLevel): number {
-  if (typeof level === "number") return level === 1 ? 0 : level < 8 ? level : level + 1
+  if (typeof level === "number") return level === 1 ? 0 : level < 6 ? level : level + 1
   return nearestWorthLevel(level)
 }
 
