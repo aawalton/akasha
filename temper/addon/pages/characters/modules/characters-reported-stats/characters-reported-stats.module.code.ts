@@ -1,4 +1,7 @@
-import { advancedSheet } from "akasha/temper/addon/pages/characters/modules/characters-advanced-sheet/characters-advanced-sheet.module.code.ts"
+import {
+  advancedSheet,
+  advancedSheetSaid,
+} from "akasha/temper/addon/pages/characters/modules/characters-advanced-sheet/characters-advanced-sheet.module.code.ts"
 import { currentCharacterEntry } from "akasha/temper/addon/pages/characters/modules/characters-current-entry/characters-current-entry.module.code.ts"
 import { captureCharacterBuildHash } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-build/character-capture-build.module.code.ts"
 import { buildHash as asBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
@@ -416,7 +419,7 @@ function captureBar(followUp: boolean): undefined {
   if (bar === undefined) return
   const now = statsNow()
   const buildHash = captureCharacterBuildHash().buildHash
-  const said = `${statsSaid(now[0], now[1])}|${buffsSaid()}`
+  const said = `${statsSaid(now[0], now[1])}|${buffsSaid()}|${advancedSheetSaid()}`
   if (!settled(bar, buildHash, said, followUp)) return
   const reported = charEntry.reportedStats ?? {}
   const reading = { ...readingOf(buildHash, now), passiveRankIds: passiveRankIdsOnce() }

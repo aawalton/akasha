@@ -27,7 +27,11 @@ export const charactersAdvancedSheet = {
       decisionKind: "decision-kind/departure",
       statement: "A percent is kept as the game gives it rather than as a fraction.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Two readings of the sheet agree where every stat's flat value and percent agree.",
+    },
   ],
   createdAt: "2026-10-20T11:31:36.762Z",
-  updatedAt: "2026-10-20T11:31:36.762Z",
+  updatedAt: "2026-10-20T11:32:23.834Z",
 } as const satisfies Module

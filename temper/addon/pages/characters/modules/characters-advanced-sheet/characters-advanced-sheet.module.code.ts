@@ -92,3 +92,12 @@ export function advancedSheet(): Record<string, AdvancedSheetValue> {
   }
   return sheet
 }
+
+export function advancedSheetSaid(): string {
+  const said: string[] = []
+  for (const [name, value] of Object.entries(advancedSheet())) {
+    said.push(`${name}:${value.flat ?? ""}/${value.percent ?? ""}`)
+  }
+  said.sort()
+  return said.join(",")
+}

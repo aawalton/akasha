@@ -128,6 +128,10 @@ export const charactersReportedStats = {
       statement: "That later capture gives the same buffs as well.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "That later capture gives the same advanced stats the game's sheet shows too.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "The game's stats and its buff list can be read at different moments.",
     },
@@ -166,5 +170,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-20T11:31:36.762Z",
+  updatedAt: "2026-10-20T11:32:23.834Z",
 } as const satisfies Module
