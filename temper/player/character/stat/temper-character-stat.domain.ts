@@ -72,6 +72,7 @@ export const temperCharacterStat = {
     "module/stale-sheet-rows",
     "module/extract-class-masteries",
     "module/tooltip-pairing",
+    "module/skill-power",
   ],
   directives: [
     {
@@ -113,5 +114,5 @@ export const temperCharacterStat = {
     },
   ],
   createdAt: "2026-09-02T08:15:09.030Z",
-  updatedAt: "2026-10-21T14:02:57.183Z",
+  updatedAt: "2026-10-21T16:12:46.342Z",
 } as const satisfies Domain

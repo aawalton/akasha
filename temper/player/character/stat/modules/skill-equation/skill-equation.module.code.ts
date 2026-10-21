@@ -1,5 +1,4 @@
-import { mighty } from "akasha/temper/catalog/champion-point/temper-champion-star/pages/mighty.temper-champion-star.ts"
-import { warMage } from "akasha/temper/catalog/champion-point/temper-champion-star/pages/war-mage.temper-champion-star.ts"
+import { damagePowerOf } from "akasha/temper/player/character/stat/modules/skill-power/skill-power.module.code.ts"
 import type { TooltipPairing } from "akasha/temper/player/character/stat/modules/tooltip-pairing/tooltip-pairing.module.code.ts"
 
 export type EquationStats = {
@@ -230,30 +229,6 @@ function bonusOf(
   return 1 + percent / 100
 }
 
-const POWER_BUFFS: Readonly<Record<string, number>> = {
-  "Major Brutality": 0.2,
-  "Minor Brutality": 0.1,
-}
-
-const POWER_PER_MEDIUM_PIECE = { held: "agility", share: 0.02 }
-
-const POWER_STARS = [
-  { star: warMage.slug, types: ["Magic", "Flame", "Frost", "Shock"] },
-  { star: mighty.slug, types: ["Physical", "Poison", "Disease", "Bleed"] },
-]
-
-const POWER_STAR = { points: 30, power: 100 }
-
-const WRATHFUL_STRIKES = { held: "wrathful-strikes", power: 205 }
-
-function powerShareOf(held: ReadonlySet<string>, active: ActiveHeld, slotted: number): number {
-  const buffs = [...active.buffs].reduce((sum, one) => sum + (POWER_BUFFS[one] ?? 0), 0)
-  const medium = held.has(POWER_PER_MEDIUM_PIECE.held)
-    ? POWER_PER_MEDIUM_PIECE.share * active.mediumPieces
-    : 0
-  return buffs + medium + slotted
-}
-
 function isDirectDamage(equation: Equation): boolean {
   return equation.tags.includes(DAMAGE) && equation.tags.includes(DIRECT)
 }
@@ -287,25 +262,6 @@ function ticksOf(equation: Equation, durationMs: number | undefined): number {
   const own = durationMs === undefined || durationMs <= 0 || equation.tags.includes(OWN_DURATION)
   const duration = own ? tagged : durationMs / 1000
   return Math.round(duration / tick) + (equation.tags.includes(ON_APPLICATION) ? 1 : 0)
-}
-
-function damagePowerOf(
-  equation: Equation,
-  power: number,
-  held: ReadonlySet<string>,
-  active: ActiveHeld,
-  slotted: number
-): number {
-  if (!isDamage(equation)) return power
-  const star = POWER_STARS.find((one) => one.types.some((type) => equation.tags.includes(type)))
-  const points = star === undefined ? 0 : (active.championPoints[star.star] ?? 0)
-  const flat =
-    (points >= POWER_STAR.points ? POWER_STAR.power : 0) +
-    (held.has(WRATHFUL_STRIKES.held) ? WRATHFUL_STRIKES.power : 0)
-  if (flat === 0) return power
-  const grown = 1 + powerShareOf(held, active, slotted)
-  const base = Math.round(power / grown)
-  return power + Math.round((base + flat) * grown) - Math.round(base * grown)
 }
 
 const SHIELD_PER_STACK: Readonly<Record<string, number>> = {
@@ -347,7 +303,10 @@ function tooltipValueOf(
   rank: number | undefined
 ): number | undefined {
   if (equation === undefined) return undefined
-  const maxPower = damagePowerOf(equation, stats.maxPower, passives, active, stats.powerShare ?? 0)
+  const slotted = stats.powerShare ?? 0
+  const maxPower = isDamage(equation)
+    ? damagePowerOf(equation.tags, stats.maxPower, passives, active, slotted)
+    : stats.maxPower
   const worked = equationValue(equation, { ...stats, maxPower })
   if (worked === undefined) return undefined
   if (!equation.scaled) {
