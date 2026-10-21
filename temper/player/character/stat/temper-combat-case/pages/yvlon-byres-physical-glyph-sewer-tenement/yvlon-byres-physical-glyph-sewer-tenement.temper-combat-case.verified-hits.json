@@ -1,0 +1,22 @@
+{
+  "character": "yvlon-byres",
+  "buildHash": "ATQNypUAAIBhhRMy5V1AEIChSp23KFkhSp23KFkhSp23KFkhSp23KFkhSp23KFkglJugCEAglJugCEAglJugCEATCKTlAEICKaKTlAEICmkWDL0-uCiCAAAAAAADTlYAROigEDILgIAgASIGuD4NgOwLDsBNULJlkZEGEWw6jCOoAOOEKEJEBmYEZCRmpEAEZGaCQARIQGRGAAiGRgdGRmB0RETIZgRoAAEERARJRmCEYEdZdGvUakWJOGVjyZZcybOz6NOrXtn0KNKnU8VVjZWyNnj65egYskLRE2RunaRKmTv1CmCqhK46wwcNkjYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TAAIDIOMSBr",
+  "reading": "01a15ed2-82ec-70d8-b03e-ac6bcbbaf6ed",
+  "readingsAgreeing": 25,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "bar": "primary-weapon-bar",
+  "enchant": "Deals |cffffff1859|r Physical Damage and restores |cffffff327|r Stamina.",
+  "pinned": [
+    {
+      "fight": 1792592134,
+      "ms": 155432,
+      "abilityId": 46746,
+      "target": "Resolute Votary",
+      "hit": 1859,
+      "overflow": 0,
+      "targetEffects": [],
+      "debuffs": []
+    }
+  ],
+  "unexplained": []
+}
