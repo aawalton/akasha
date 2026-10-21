@@ -174,6 +174,22 @@ test("Minor Berserk on the caster makes damage 5% stronger, added to the stars s
   expect(worked(heal, new Set())).toBe(Math.round(raw))
 })
 
+test("Standard of Might on the caster makes damage 15% stronger, added to the stars slotted", () => {
+  const lash = "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Dmg, Flame, AOE, Direct)"
+  const standard = { ...NOTHING_ACTIVE, buffs: new Set(["Standard of Might"]) }
+  const paired = tooltipPairingOf(
+    "dealing |cffffff1|r",
+    [lash],
+    STATS,
+    new Set(["master-at-arms", "biting-aura"]),
+    standard
+  )
+
+  expect(paired.paired ? paired.numbers[0]?.temper : undefined).toBe(
+    Math.floor(1.27 * (0.1 * 20000 + 1.05 * 5000))
+  )
+})
+
 test("Landslide adds 1% to the bonuses, and each of its stacks makes damage 1% stronger after", () => {
   const lash = "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Dmg, Flame, SingleTarget, Direct)"
   const heal = "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Heal)"

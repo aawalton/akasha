@@ -81,6 +81,10 @@ export const skillEquation = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A caster inside its own Standard of Might deals damage 15% stronger.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Damage reads a power that War Mage, Mighty and Wrathful Strikes add to before buffs grow it.",
     },
@@ -150,5 +154,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T04:58:01.221Z",
+  updatedAt: "2026-10-21T05:02:21.889Z",
 } as const satisfies Module
