@@ -20,14 +20,14 @@ export const summonTwilightMatriarch24639 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1292,
   createdAt: "2026-05-28T16:03:33.985Z",
-  updatedAt: "2026-10-21T06:23:05.681Z",
+  updatedAt: "2026-10-21T07:12:28.248Z",
   equations: [
     "<<1>> = 0.015495 MaxStat + 0.162697 MaxPower (Ultimate, ratio = 10.50, Dmg, Shock, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = 0.015495 MaxStat + 0.162697 MaxPower (Ultimate, ratio = 10.50, Dmg, Shock, SingleTarget, Direct, Melee, R2 = 1)",
     "<<3>> = 4590 (Constant)",
     "<<6>> = 2 (Constant)",
-    "<<4>> = 0.16004638 MaxStat + 1.680487 MaxPower (Ultimate, RankMod(1), Heal, SingleTarget, Direct)",
-    "<<5>> = 0.080019615 MaxStat + 0.84020596 MaxPower (Ultimate, RankMod(1), Heal, SingleTarget, Direct)",
+    "<<4>> = 0.160045 MaxStat + 1.680941 MaxPower (Ultimate, RankMod(1), Heal, SingleTarget, Direct)",
+    "<<5>> = 0.080038 MaxStat + 0.840113 MaxPower (Ultimate, RankMod(1), Heal, SingleTarget, Direct)",
   ],
   variants: [{ esoSkillId: 77369 }],
 } as const satisfies TemperSkill

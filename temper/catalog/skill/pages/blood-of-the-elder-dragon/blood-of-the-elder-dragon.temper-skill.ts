@@ -21,10 +21,10 @@ export const bloodOfTheElderDragon = {
   effects: "jsonl",
   hashPlace: 123,
   createdAt: "2026-05-28T16:03:31.793Z",
-  updatedAt: "2026-10-21T06:23:05.681Z",
+  updatedAt: "2026-10-21T07:12:28.248Z",
   equations: [
-    "<<1>> = 0.13336945 MaxStat + 1.4003792 MaxPower (Ultimate, RankMod(1), Heal, SingleTarget, Direct)",
-    "<<2>> = 0.088889237 MaxStat + 0.93333699 MaxPower (Ultimate, RankMod(1), Heal, AOE, Direct)",
+    "<<1>> = 0.1334 MaxStat + 1.4003 MaxPower (Ultimate, RankMod(1), Heal, SingleTarget, Direct)",
+    "<<2>> = 0.0885 MaxStat + 0.9364 MaxPower (Ultimate, RankMod(1), Heal, AOE, Direct)",
     "<<3>> = 50 (Constant)",
     "<<4>> = Major Fortitude (Constant)",
     "<<5>> = Minor Courage (Constant)",

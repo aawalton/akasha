@@ -20,9 +20,9 @@ export const vigor = {
   skillType: "temper-skill-type/active",
   hashPlace: 1598,
   createdAt: "2026-05-28T16:03:34.468Z",
-  updatedAt: "2026-10-21T06:45:07.406Z",
+  updatedAt: "2026-10-21T07:12:28.248Z",
   equations: [
-    "<<1>> = 0.02573 MaxStat + 0.270165 MaxPower (Ultimate, RankMod(1), Heal, AOE, DOT, 10s duration, 2s tick, ticks on application)",
+    "<<1>> = 0.0257 MaxStat + 0.2707 MaxPower (Ultimate, RankMod(1), Heal, AOE, DOT, 10s duration, 2s tick, ticks on application)",
     "<<2>> = 10 seconds (Constant)",
   ],
 } as const satisfies TemperSkill

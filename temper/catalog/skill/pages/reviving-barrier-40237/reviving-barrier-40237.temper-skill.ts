@@ -20,11 +20,11 @@ export const revivingBarrier40237 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1072,
   createdAt: "2026-05-28T16:03:33.583Z",
-  updatedAt: "2026-10-21T06:45:07.406Z",
+  updatedAt: "2026-10-21T07:12:28.248Z",
   equations: [
     "<<1>> = 0.5165 MaxStat + 5.42325 MaxPower (Ultimate, ratio = 10.50, DmgShield, SingleTarget, Direct, 30s duration, R2 = 1)",
     "<<2>> = 30 seconds (Constant)",
-    "<<3>> = 0.01598 MaxStat + 0.16779 MaxPower (Ultimate, Heal, SingleTarget, DOT, 15s duration, 1s tick, own duration)",
+    "<<3>> = 0.016 MaxStat + 0.1681 MaxPower (Ultimate, Heal, SingleTarget, DOT, 15s duration, 1s tick, own duration)",
     "<<4>> = 15 seconds (Constant)",
   ],
 } as const satisfies TemperSkill

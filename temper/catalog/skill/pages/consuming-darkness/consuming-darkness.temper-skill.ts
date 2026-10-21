@@ -20,14 +20,14 @@ export const consumingDarkness = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 243,
   createdAt: "2026-05-28T16:03:31.993Z",
-  updatedAt: "2026-10-21T06:45:07.406Z",
+  updatedAt: "2026-10-21T07:12:28.248Z",
   equations: [
     "<<1>> = 70% (Constant)",
     "<<2>> = Major Protection (Constant)",
     "<<3>> = 10% (Constant)",
     "<<4>> = Hidden Refresh (Constant)",
     "<<5>> = 70% (Constant)",
-    "<<6>> = 0.080968 MaxStat + 0.850164 MaxPower (Ultimate, Heal, SingleTarget, DOT, 4s duration, 1s tick, ticks on application, own duration)",
+    "<<6>> = 0.081 MaxStat + 0.8503 MaxPower (Ultimate, Heal, SingleTarget, DOT, 4s duration, 1s tick, ticks on application, own duration)",
     "<<7>> = 4 seconds (Constant)",
   ],
 } as const satisfies TemperSkill

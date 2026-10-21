@@ -162,6 +162,14 @@ export const skillEquation = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A heal's stat term and power term are each rounded down before they are summed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A heal scaling off Max Health is not rounded down before it is rounded.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The healing done is the Healing Done Temper works out for the build, not a tooltip.",
     },
@@ -191,5 +199,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T07:00:03.119Z",
+  updatedAt: "2026-10-21T07:12:28.248Z",
 } as const satisfies Module

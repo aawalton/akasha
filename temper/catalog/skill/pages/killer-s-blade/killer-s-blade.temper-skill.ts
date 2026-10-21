@@ -20,12 +20,12 @@ export const killerSBlade = {
   skillType: "temper-skill-type/active",
   hashPlace: 721,
   createdAt: "2026-05-28T16:03:32.915Z",
-  updatedAt: "2026-10-21T06:23:05.681Z",
+  updatedAt: "2026-10-21T07:12:28.248Z",
   equations: [
     "<<1>> = 0.051642912 MaxStat + 0.54225058 MaxPower (Ultimate, Dmg, Disease, SingleTarget, Direct, Melee)",
     "<<2>> = 400 (Constant)",
     "<<3>> = 50 (Constant)",
-    "<<4>> = 0.10667929 MaxStat + 1.1201325 MaxPower (Ultimate, Heal, SingleTarget, Direct)",
+    "<<4>> = 0.10673 MaxStat + 1.12013 MaxPower (Ultimate, Heal, SingleTarget, Direct)",
     "<<5>> = 2 seconds (Constant)",
   ],
 } as const satisfies TemperSkill

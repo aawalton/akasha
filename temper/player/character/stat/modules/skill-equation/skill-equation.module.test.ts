@@ -93,10 +93,11 @@ test("a heal is rounded, grown by the build's healing done, and rounded again", 
     )
     return paired.paired ? paired.numbers[0]?.temper : undefined
   }
-  const raw = 0.04452 * 20000 + 0.46746 * 5000
+  const raw = Math.floor(0.04452 * 20000) + Math.floor(0.46746 * 5000)
 
-  expect(worked(0)).toBe(Math.round(raw))
-  expect(worked(0.08)).toBe(Math.round(1.08 * Math.round(raw)))
+  expect(raw).toBe(3227)
+  expect(worked(0)).toBe(raw)
+  expect(worked(0.08)).toBe(Math.round(1.08 * raw))
 })
 
 const EMBERS = [
@@ -299,7 +300,7 @@ test("a heal over time totals each tick grown by the healing done, unless it is 
     )
     return paired.paired ? paired.numbers[0]?.temper : undefined
   }
-  const tick = Math.round(1.08 * Math.round(0.025 * 20000 + 0.2625 * 5000))
+  const tick = Math.round(1.08 * (Math.floor(0.025 * 20000) + Math.floor(0.2625 * 5000)))
 
   expect(worked(vigor, 16000)).toBe(9 * tick)
   expect(worked(vigor)).toBe(6 * tick)

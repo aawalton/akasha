@@ -344,12 +344,22 @@ function tooltipValueOf(
     return equation.tags.includes(SHIELD) ? Math.round(bonusOf(equation, passives) * kept) : kept
   }
   if (equation.tags.includes(SHIELD)) return shieldOf(equation, worked, stats, passives)
-  const bonused = bonusOf(equation, passives, active) * stackedOf(equation, active) * worked
+  const healing = equation.tags.includes(HEAL)
+  const base = healing ? healOf(equation, { ...stats, maxPower }) : worked
+  const bonused = bonusOf(equation, passives, active) * stackedOf(equation, active) * base
   const ticks = ticksOf(equation, durationMs)
-  if (equation.tags.includes(HEAL))
-    return Math.round((1 + stats.healingDone) * Math.round(bonused)) * ticks
+  if (healing) return Math.round((1 + stats.healingDone) * Math.round(bonused)) * ticks
   if (!isDamage(equation)) return Math.round(bonused)
   return Math.floor(bonused) * ticks
+}
+
+const FLOORED: readonly (keyof EquationStats)[] = ["maxStat", "maxPower"]
+
+function healOf(equation: Equation, stats: EquationStats): number {
+  return equation.terms.reduce((sum, [variable, by]) => {
+    const term = by * stats[variable]
+    return sum + (FLOORED.includes(variable) ? Math.floor(term) : term)
+  }, equation.constant)
 }
 
 export function equationValue(
