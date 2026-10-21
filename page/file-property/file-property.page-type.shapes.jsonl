@@ -117,6 +117,7 @@
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"typescript-build-info","propertySlug":"typescript-build-info","fileName":"tsconfig.tsbuildinfo","folderName":null}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"typescript-config","propertySlug":"typescript-config","fileName":"tsconfig.json","folderName":null,"toolResolvesPaths":true}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"universal-config","propertySlug":"universal-config","fileName":"tsconfig.json","folderName":null,"toolResolvesPaths":true}
+{"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"verified-hits","propertySlug":"verified-hits","fileName":null,"folderName":null}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"verified-stats","propertySlug":"verified-stats","fileName":null,"folderName":null}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"verified-tooltips","propertySlug":"verified-tooltips","fileName":null,"folderName":null}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"web-entry","propertySlug":"web-entry","fileName":null,"folderName":null}
