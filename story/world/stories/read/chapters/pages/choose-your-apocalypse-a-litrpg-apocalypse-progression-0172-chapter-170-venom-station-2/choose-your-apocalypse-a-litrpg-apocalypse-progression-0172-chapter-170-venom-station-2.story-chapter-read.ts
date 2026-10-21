@@ -20,5 +20,7 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0172Chapter170Venom
     },
   ],
   createdAt: "2026-10-20T12:08:48.958Z",
-  updatedAt: "2026-10-20T12:08:48.958Z",
+  updatedAt: "2026-10-21T17:08:42.665Z",
+  ownProgress: 2129,
+  progressedAt: "2026-10-21T17:08:42.665Z",
 } as const satisfies StoryChapterRead
