@@ -20,9 +20,9 @@ export const echoingVigor61505 = {
   skillType: "temper-skill-type/active",
   hashPlace: 394,
   createdAt: "2026-05-28T16:03:32.226Z",
-  updatedAt: "2026-10-21T01:40:37.191Z",
+  updatedAt: "2026-10-21T06:45:07.406Z",
   equations: [
-    "<<1>> = 0.025825 MaxStat + 0.271163 MaxPower (Ultimate, ratio = 10.50, Heal, AOE, DOT, 10s duration, 2s tick, R2 = 1)",
+    "<<1>> = 0.0258092 MaxStat + 0.2709966 MaxPower (Ultimate, Heal, AOE, DOT, 10s duration, 2s tick, ticks on application)",
     "<<2>> = 16 seconds (Constant)",
   ],
 } as const satisfies TemperSkill

@@ -20,9 +20,9 @@ export const darkCloak25377 = {
   skillType: "temper-skill-type/active",
   hashPlace: 303,
   createdAt: "2026-05-28T16:03:32.080Z",
-  updatedAt: "2026-10-21T06:23:05.681Z",
+  updatedAt: "2026-10-21T06:45:07.406Z",
   equations: [
-    "<<1>> = 0.053345359 Health (Health, RankMod(1), Heal, SingleTarget, DOT, 3s duration, 1s tick)",
+    "<<1>> = 0.053345359 Health (Health, RankMod(1), Heal, SingleTarget, DOT, 3s duration, 1s tick, per tick)",
     "<<2>> = 1 second (Constant)",
     "<<3>> = 3 seconds (Constant)",
     "<<4>> = 150% (Constant)",

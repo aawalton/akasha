@@ -282,6 +282,28 @@ test("damage over time totals a tick for each tick in the game's duration, and o
   expect(worked(embers.replace("8s duration, ", ""), new Set(), 10000)).toBe(Math.floor(raw))
 })
 
+test("a heal over time totals each tick grown by the healing done, unless it is shown per tick", () => {
+  const vigor =
+    "<<1>> = 0.025 MaxStat + 0.2625 MaxPower (Heal, AOE, DOT, 10s duration, 2s tick, ticks on application)"
+  const worked = (line: string, durationMs?: number) => {
+    const paired = tooltipPairingOf(
+      "healing for |cffffff1|r",
+      [line],
+      { ...STATS, healingDone: 0.08 },
+      new Set(),
+      NOTHING_ACTIVE,
+      durationMs
+    )
+    return paired.paired ? paired.numbers[0]?.temper : undefined
+  }
+  const tick = Math.round(1.08 * Math.round(0.025 * 20000 + 0.2625 * 5000))
+
+  expect(worked(vigor, 16000)).toBe(9 * tick)
+  expect(worked(vigor)).toBe(6 * tick)
+  expect(worked(vigor.replace("ticks on application)", "own duration)"), 30000)).toBe(5 * tick)
+  expect(worked(vigor.replace("ticks on application)", "per tick)"), 16000)).toBe(tick)
+})
+
 test("a duration tagged with a passive is that much longer only where the build holds it", () => {
   const blur = ["<<1>> = 20 seconds (Constant, +2 seconds with dark-veil)"]
   const worked = (passives: ReadonlySet<string>) => {

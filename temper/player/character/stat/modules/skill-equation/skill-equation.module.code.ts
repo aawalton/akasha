@@ -163,6 +163,10 @@ const OVER_TIME = "DOT"
 
 const ON_APPLICATION = "ticks on application"
 
+const OWN_DURATION = "own duration"
+
+const PER_TICK = "per tick"
+
 const DURATION = /^(\d+(?:\.\d+)?)s duration$/
 
 const TICK = /^(\d+(?:\.\d+)?)s tick$/
@@ -251,6 +255,11 @@ function isDamageOverTime(equation: Equation): boolean {
   return equation.tags.includes(DAMAGE) && equation.tags.includes(OVER_TIME)
 }
 
+function isOverTime(equation: Equation): boolean {
+  const { tags } = equation
+  return tags.includes(OVER_TIME) && (tags.includes(DAMAGE) || tags.includes(HEAL))
+}
+
 function isDamage(equation: Equation): boolean {
   return isDirectDamage(equation) || isDamageOverTime(equation)
 }
@@ -266,8 +275,10 @@ function secondsTagged(equation: Equation, pattern: RegExp): number | undefined 
 function ticksOf(equation: Equation, durationMs: number | undefined): number {
   const tagged = secondsTagged(equation, DURATION)
   const tick = secondsTagged(equation, TICK)
-  if (!isDamageOverTime(equation) || tagged === undefined || tick === undefined) return 1
-  const duration = durationMs === undefined || durationMs <= 0 ? tagged : durationMs / 1000
+  if (!isOverTime(equation) || equation.tags.includes(PER_TICK)) return 1
+  if (tagged === undefined || tick === undefined) return 1
+  const own = durationMs === undefined || durationMs <= 0 || equation.tags.includes(OWN_DURATION)
+  const duration = own ? tagged : durationMs / 1000
   return Math.round(duration / tick) + (equation.tags.includes(ON_APPLICATION) ? 1 : 0)
 }
 
@@ -318,9 +329,11 @@ function tooltipValueOf(
   }
   if (equation.tags.includes(SHIELD)) return shieldOf(equation, worked, stats, passives)
   const bonused = bonusOf(equation, passives, active) * stackedOf(equation, active) * worked
-  if (equation.tags.includes(HEAL)) return Math.round((1 + stats.healingDone) * Math.round(bonused))
+  const ticks = ticksOf(equation, durationMs)
+  if (equation.tags.includes(HEAL))
+    return Math.round((1 + stats.healingDone) * Math.round(bonused)) * ticks
   if (!isDamage(equation)) return Math.round(bonused)
-  return Math.floor(bonused) * ticksOf(equation, durationMs)
+  return Math.floor(bonused) * ticks
 }
 
 export function equationValue(

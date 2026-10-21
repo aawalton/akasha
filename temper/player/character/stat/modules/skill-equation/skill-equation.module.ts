@@ -109,7 +109,7 @@ export const skillEquation = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A damage over time tagged with a duration and a tick totals its tick once for each tick.",
+        "A damage or heal over time tagged with a duration and a tick totals its tick once for each tick.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -166,10 +166,20 @@ export const skillEquation = {
         "The healing done is the Healing Done Temper works out for the build, not a tooltip.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "A heal over time is worked as one tick, so its tooltip's total is a gap.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A heal over time grows each tick by the healing done before the ticks are summed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "One tagged `own duration` takes its tagged duration, as the game's is another effect's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One tagged `per tick` is a tooltip giving a single tick rather than the total.",
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T06:23:05.681Z",
+  updatedAt: "2026-10-21T06:45:07.406Z",
 } as const satisfies Module
