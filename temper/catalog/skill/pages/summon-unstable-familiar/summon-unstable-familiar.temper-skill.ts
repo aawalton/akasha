@@ -20,7 +20,7 @@ export const summonUnstableFamiliar = {
   skillType: "temper-skill-type/active",
   hashPlace: 1297,
   createdAt: "2026-05-28T16:03:33.993Z",
-  updatedAt: "2026-10-21T05:00:21.269Z",
+  updatedAt: "2026-10-21T05:44:15.210Z",
   equations: [
     "<<1>> = 0.01547866 MaxStat + 0.16252593 MaxPower (Ultimate, RankMod(1), Dmg, Shock, SingleTarget, Direct, Melee)",
     "<<2>> = 3510 (Constant)",
@@ -28,4 +28,5 @@ export const summonUnstableFamiliar = {
     "<<4>> = 2 seconds (Constant)",
     "<<5>> = 20 seconds (Constant)",
   ],
+  variants: [{ esoSkillId: 108840 }],
 } as const satisfies TemperSkill

@@ -20,6 +20,7 @@ export const scribedTrampleMagicDamage = {
   focusScriptId: "temper-focus-script/magic-damage",
   grimoireId: "temper-grimoire/trample",
   hashPlace: 1700,
+  equations: [],
   createdAt: "2026-05-26T13:19:53.304Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-21T05:44:15.210Z",
 } as const satisfies TemperScribedSkill
