@@ -1,0 +1,22 @@
+{
+  "character": "nirayicel",
+  "buildHash": "ATQKLMUAAIBhxRNCyJtACFkTaAELmC25IXMFtyQuYLbkhcwW3JC5gtuQhKVbckEdvUACCDdtyJiUx23KIgmOtuVu4sGXp9K_KyM7yW7rQGnEEA3ddEoG-3AQNgIk4dcnwfAdoWPbia4XTbKyMEI911WUdTaccICU0IiMiAAMzICIiIyIgIyI1IiIgAjIjNCIAIiQgMiJAMARDIiIwOiMjQgOgIiImQzMjQgAAA4IiAiIkozBCIiIjAjoAAAADUixJwyseTLLmTZ2fRp1a9s-hRpU6niqAAAABs8fXL0DFkhaImyN07SJUyd-oUwVUJXHWAAAAAbAlSwIwDCBQxk0HECTZwULGDRw8gRJHSb4IDIOMSBr",
+  "reading": "01a15a3a-9fa3-7052-9e8c-20aa4da87296",
+  "readingsAgreeing": 8,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "bar": "primary-weapon-bar",
+  "enchant": "Deals |cffffff2534|r Shock Damage.",
+  "pinned": [
+    {
+      "fight": 1792515160,
+      "ms": 1,
+      "abilityId": 17899,
+      "target": "The Precursor",
+      "hit": 2914,
+      "overflow": 0,
+      "targetEffects": [],
+      "debuffs": []
+    }
+  ],
+  "unexplained": []
+}
