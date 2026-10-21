@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"stat-case.module.code.ts","path":"change/agent/page/pin-stat-case-gaps/pin-stat-case-gaps.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"stat-case.module.code.ts","path":"change/agent/page/pin-stat-case-gaps/pin-stat-case-gaps.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"stat-case.module.code.ts","path":"change/agent/page/pin-stat-case/pin-stat-case.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"stat-case.module.code.ts","path":"command/pages/temper/stat-compare/modules/advanced-sheet-lines/advanced-sheet-lines.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"stat-case.module.code.ts","path":"command/pages/temper/stat-compare/temper-stat-compare.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"stat-case.module.code.ts","path":"temper/player/character/stat/modules/stat-case/stat-case.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"stat-case.module.code.ts","path":"temper/player/character/stat/modules/stat-case/stat-case.module.test.ts","typed":false,"deferred":false}

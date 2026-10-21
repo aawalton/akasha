@@ -8,7 +8,7 @@ export const temperStatCompare = {
     "the command setting each of a character's readings beside Temper's estimate, stat by stat",
   code: "ts",
   test: "ts",
-  parts: ["module/unsteady-recovery"],
+  parts: ["module/unsteady-recovery", "module/advanced-sheet-lines"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -112,8 +112,14 @@ export const temperStatCompare = {
       statement: "Each stat there is set beside the name the game's panel shows it under.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "That section sets no estimate beside the game's values.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That section sets each row beside the estimate of the stat whose page names that row.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The JSON gives each such row's stat, the game's number, the estimate and a match.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -142,5 +148,5 @@ export const temperStatCompare = {
     { argument: "argument/json" },
   ],
   createdAt: "2026-10-14T14:17:00.259Z",
-  updatedAt: "2026-10-20T18:37:14.294Z",
+  updatedAt: "2026-10-21T01:27:08.469Z",
 } as const satisfies Command

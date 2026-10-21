@@ -24,6 +24,13 @@ import {
   shortIdOf,
   type Unread,
 } from "akasha/command/pages/temper/modules/stat-reading-lines/stat-reading-lines.module.code.ts"
+import {
+  advancedSheetLines,
+  cell,
+  type SheetRow,
+  sheetRowsOf,
+  signed,
+} from "akasha/command/pages/temper/stat-compare/modules/advanced-sheet-lines/advanced-sheet-lines.module.code.ts"
 import { unsteadyOf } from "akasha/command/pages/temper/stat-compare/modules/unsteady-recovery/unsteady-recovery.module.code.ts"
 import { temperStatCompare as page } from "akasha/command/pages/temper/stat-compare/temper-stat-compare.command.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -54,8 +61,6 @@ type WeaponBar = (typeof BARS)[keyof typeof BARS]
 
 const FEW_STARS = 4
 
-const NUMBER = 8
-
 type Row = {
   readonly stat: string
   readonly game: number
@@ -68,6 +73,7 @@ type Compared = {
   readonly line: ReadingLine
   readonly build: CharacterState | null
   readonly rows: readonly Row[]
+  readonly sheetRows: readonly SheetRow[]
   readonly unmatchedBuffs: readonly string[]
   readonly unestimated: string | null
 }
@@ -113,11 +119,8 @@ function comparedOf(line: ReadingLine): Compared {
       unsteady: unsteadyOf(reading, one, build?.passives ?? []),
       unsettled: isUnsettled(one, reading.fete),
     }))
-  return { line, build, rows, unmatchedBuffs, unestimated }
-}
-
-function signed(delta: number): string {
-  return delta > 0 ? `+${String(delta)}` : String(delta)
+  const sheetRows = sheetRowsOf(reading, estimate)
+  return { line, build, rows, sheetRows, unmatchedBuffs, unestimated }
 }
 
 function whenOf(seconds: number): string {
@@ -192,10 +195,6 @@ function configuredLines(one: Compared): readonly string[] {
   ]
 }
 
-function cell(text: string): string {
-  return text.padStart(NUMBER)
-}
-
 function unsteadySaid(row: Row): string {
   if (row.unsettled) return "  Fete changed lately, unsettled"
   return row.unsteady === null ? "" : `  ${row.unsteady}, not steady`
@@ -210,44 +209,6 @@ export function rowLine(row: Row, width: number): string {
   const delta = row.estimate === null ? "-" : signed(row.estimate - row.game)
   const mark = !isCounted(row) ? "~" : row.estimate === row.game ? "=" : " "
   return `  ${mark} ${row.stat.padEnd(width)} ${cell(String(row.game))} ${cell(estimate)} ${cell(delta)}${unsteadySaid(row)}`
-}
-
-const FORMAT = "flat-and-percent".length
-
-function sheetCell(value: number | undefined): string {
-  return cell(value === undefined ? "-" : String(value))
-}
-
-type AdvancedValue = NonNullable<ReadingLine["reading"]["advancedSheet"]>[string]
-
-const UNHEADED = "(no header)"
-
-function advancedRow(name: string, value: AdvancedValue, width: number): string {
-  const label = value.label === undefined ? "" : `  ${value.label}`
-  return `    ${name.padEnd(width)} ${value.format.padEnd(FORMAT)} ${sheetCell(value.flat)} ${sheetCell(value.percent)}${label}`
-}
-
-export function advancedSheetLines(reading: ReadingLine["reading"]): readonly string[] {
-  const sheet = reading.advancedSheet
-  if (sheet === undefined) return ["  advanced (game): none kept"]
-  const entries = Object.entries(sheet).sort(
-    ([one, first], [two, second]) =>
-      (first.category ?? "").localeCompare(second.category ?? "") || one.localeCompare(two)
-  )
-  const width = Math.max(4, ...entries.map(([name]) => name.length))
-  const lines = [
-    `  advanced (game): ${String(entries.length)} stats`,
-    `    ${"stat".padEnd(width)} ${"format".padEnd(FORMAT)} ${cell("flat")} ${cell("percent")}`,
-  ]
-  let category: string | undefined
-  for (const [name, value] of entries) {
-    if (value.category !== undefined && value.category !== category) {
-      lines.push(`   ${value.category === "" ? UNHEADED : value.category}`)
-    }
-    category = value.category
-    lines.push(advancedRow(name, value, width))
-  }
-  return lines
 }
 
 export function characterSheetLines(reading: ReadingLine["reading"]): readonly string[] {
@@ -275,7 +236,7 @@ function blockOf(one: Compared): readonly string[] {
     head,
     ...one.rows.map((row) => rowLine(row, width)),
     `  ${String(matched)} of ${String(steady.length)} steady stats match${unsettledSaid}`,
-    ...advancedSheetLines(one.line.reading),
+    ...advancedSheetLines(one.line.reading, one.sheetRows),
     ...characterSheetLines(one.line.reading),
     "",
   ]
@@ -336,6 +297,7 @@ export async function temperStatCompare(argv: readonly string[], given: Given): 
         unestimated: one.unestimated,
         stats: one.rows,
         advancedSheet: one.line.reading.advancedSheet ?? null,
+        advancedStats: one.sheetRows,
         sheet: one.line.reading.sheet ?? null,
       })),
       unread,

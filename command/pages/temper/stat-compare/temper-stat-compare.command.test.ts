@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
 import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { advancedSheetLines } from "akasha/command/pages/temper/stat-compare/modules/advanced-sheet-lines/advanced-sheet-lines.module.code.ts"
 import { unsteadyOf } from "akasha/command/pages/temper/stat-compare/modules/unsteady-recovery/unsteady-recovery.module.code.ts"
 import {
-  advancedSheetLines,
   characterSheetLines,
   headerOf,
   rowLine,
@@ -71,7 +71,7 @@ test("a reading whose build does not decode says so in its header", () => {
   expect(headerOf(LINE, null)).toContain("frontBar  build unread  eso")
 })
 
-test("a reading's advanced stats are shown as the game gave them, with no estimate", () => {
+test("a reading's advanced stats handed no estimate are shown as the game gave them", () => {
   const reading = {
     ...LINE.reading,
     advancedSheet: {
@@ -82,9 +82,44 @@ test("a reading's advanced stats are shown as the game gave them, with no estima
   const lines = advancedSheetLines(reading)
 
   expect(lines[0]).toBe("  advanced (game): 2 stats")
-  expect(lines[1]).not.toContain("temper")
-  expect(lines[2]).toMatch(/^ {4}armor +flat +18200 +-$/)
-  expect(lines[3]).toMatch(/^ {4}physical-resist +percent +- +31\.5$/)
+  expect(lines[1]).toContain("temper")
+  expect(lines[2]).toMatch(/^ {4}armor +flat +18200 +- +- +-$/)
+  expect(lines[3]).toMatch(/^ {4}physical-resist +percent +- +31\.5 +- +-$/)
+})
+
+test("a reading's advanced stats are set beside the estimate, and a match is marked", () => {
+  const reading = {
+    ...LINE.reading,
+    advancedSheet: {
+      "physical-resist": { format: "percent" as const, percent: 31.5 },
+      "bash-cost": { format: "flat" as const, flat: 554 },
+    },
+  }
+  const rows = [
+    {
+      row: "physical-resist",
+      stat: "defense-physical-mitigation",
+      part: "percent" as const,
+      game: 31.5,
+      estimate: 0.3,
+      matches: false,
+    },
+    {
+      row: "bash-cost",
+      stat: "bash-cost",
+      part: "flat" as const,
+      game: 554,
+      estimate: 554,
+      matches: true,
+    },
+  ]
+  const lines = advancedSheetLines(reading, rows)
+
+  expect(lines[0]).toBe("  advanced (game): 2 stats, 1 of 2 estimates match")
+  expect(lines[2]).toMatch(/^ {2}= bash-cost +flat +554 +- +554 +0 {2}\(bash-cost\)$/)
+  expect(lines[3]).toMatch(
+    /^ {4}physical-resist +percent +- +31\.5 +30 +-1\.5 {2}\(defense-physical-mitigation\)$/
+  )
 })
 
 test("a reading's advanced stats are grouped under the panel's categories with the panel's names", () => {
@@ -112,11 +147,15 @@ test("a reading's advanced stats are grouped under the panel's categories with t
 
   expect(lines[0]).toBe("  advanced (game): 3 stats")
   expect(lines[2]).toBe("   (no header)")
-  expect(lines[3]).toMatch(/^ {4}all-xp +percent +- +10 {2}Experience$/)
+  expect(lines[3]).toMatch(/^ {4}all-xp +percent +- +10 +- +- {2}Experience$/)
   expect(lines[4]).toBe("   Damage")
-  expect(lines[5]).toMatch(/^ {4}critical-chance +flat-or-percent +4267 +19\.5 {2}Critical Chance$/)
+  expect(lines[5]).toMatch(
+    /^ {4}critical-chance +flat-or-percent +4267 +19\.5 +- +- {2}Critical Chance$/
+  )
   expect(lines[6]).toBe("   Mitigation")
-  expect(lines[7]).toMatch(/^ {4}spell-resist +flat-or-percent +19072 +28\.9 {2}Spell Resistance$/)
+  expect(lines[7]).toMatch(
+    /^ {4}spell-resist +flat-or-percent +19072 +28\.9 +- +- {2}Spell Resistance$/
+  )
 })
 
 test("a reading keeping no advanced stats says so", () => {

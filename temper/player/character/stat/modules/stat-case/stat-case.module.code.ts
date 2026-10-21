@@ -120,19 +120,38 @@ function sheetPartOf(stat: string): "flat" | "percent" | undefined {
   return metric.category === "advanced" ? metric.esoStatValuePart : undefined
 }
 
+export type SheetRowStat = {
+  readonly row: string
+  readonly stat: string
+  readonly part: "flat" | "percent"
+  readonly game: number
+}
+
+export function sheetRowStatsOf(
+  sheet: Readonly<Record<string, SheetValue>> | undefined
+): readonly SheetRowStat[] {
+  const found: SheetRowStat[] = []
+  if (sheet === undefined) return found
+  for (const metric of Object.values(metrics().data)) {
+    const named = metric.advancedSheetRow
+    const flat = named === undefined ? undefined : sheet[named]?.flat
+    if (named !== undefined && flat !== undefined) {
+      found.push({ row: named, stat: metric.id, part: "flat", game: flat })
+    }
+    if (metric.category !== "advanced") continue
+    const row = metric.esoStatConstantName.replace(SHEET_ROW, "").toLowerCase().replaceAll("_", "-")
+    const part = metric.esoStatValuePart
+    const value = sheet[row]?.[part]
+    if (value !== undefined) found.push({ row, stat: metric.id, part, game: value })
+  }
+  return found
+}
+
 export function sheetStatsOf(
   sheet: Readonly<Record<string, SheetValue>> | undefined
 ): Record<string, number> {
   const stats: Record<string, number> = {}
-  if (sheet === undefined) return stats
-  for (const metric of Object.values(metrics().data)) {
-    const named = metric.advancedSheetRow === undefined ? undefined : sheet[metric.advancedSheetRow]
-    if (named?.flat !== undefined) stats[metric.id] = named.flat
-    if (metric.category !== "advanced") continue
-    const row = metric.esoStatConstantName.replace(SHEET_ROW, "").toLowerCase().replaceAll("_", "-")
-    const value = sheet[row]?.[metric.esoStatValuePart]
-    if (value !== undefined) stats[metric.id] = value
-  }
+  for (const one of sheetRowStatsOf(sheet)) stats[one.stat] = one.game
   return stats
 }
 
