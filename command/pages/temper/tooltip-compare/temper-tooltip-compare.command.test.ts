@@ -118,6 +118,22 @@ test("a ranked heal is worked at the rank the reading gives its skill, or else i
   expect([healed(), healed(4), healed(3)]).toEqual([8264, 8264, null])
 })
 
+test("damage tagged rank IV or single precision floors each term in single precision", () => {
+  const dealt = (tag: string) => {
+    const line = `<<1>> = 0.1033 MaxStat + 1.08465 MaxPower (Dmg, Flame, SingleTarget, Direct, ${tag})`
+    const one = skill(BRAWLER, "Brawler", "dealing |cffffff1|r")
+    const held = new Set(["master-at-arms"])
+    const [compared] = comparedSkillsOf(
+      { ...READING, skills: [one] },
+      new Map([[BRAWLER, [line]]]),
+      held
+    )
+    return compared?.pairing?.paired === true ? compared.pairing.numbers[0]?.temper : undefined
+  }
+
+  expect([dealt("rank IV"), dealt("single precision"), dealt("Melee")]).toEqual([5824, 5638, 5639])
+})
+
 test("a character naming no page is refused", async () => {
   const said = await temperTooltipCompare(["nobody-at-all"], GIVEN)
 

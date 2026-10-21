@@ -175,6 +175,8 @@ const TICK = /^(\d+(?:\.\d+)?)s tick$/
 
 const HALF_HEALTH = "at most half Health"
 
+const SINGLE = "single precision"
+
 const BONUSES: readonly {
   readonly held: readonly string[]
   readonly tags: readonly string[]
@@ -337,10 +339,7 @@ function shieldOf(
   rank: number | undefined
 ): number | undefined {
   const single = Math.fround
-  const summed = equation.terms.reduce(
-    (sum, [variable, by]) => sum + Math.floor(single(single(by) * stats[variable])),
-    equation.constant
-  )
+  const summed = flooredSumOf(equation, stats)
   const bonused = Math.round(single(single(shieldBonusOf(equation, held, active)) * summed))
   const ranked = rankedOf(equation, rank)
   const growth = ranked === undefined ? 1 : RANK_GROWTH[ranked]
@@ -377,8 +376,16 @@ function tooltipValueOf(
     const growth = RANK_GROWTH[ranked]
     if (growth === undefined) return undefined
     const grown = bonusOf(equation, passives, active) * stackedOf(equation, active)
-    const healed = rankedHealOf(equation, { ...stats, maxPower }, grown, growth)
+    const healed = singleOf(equation, { ...stats, maxPower }, grown, growth, 1 + stats.healingDone)
     return healed * ticksOf(equation, durationMs)
+  }
+  if (isDamage(equation) && (ranked !== undefined || equation.tags.includes(SINGLE))) {
+    const growth = ranked === undefined ? 1 : RANK_GROWTH[ranked]
+    if (growth === undefined) return undefined
+    const stacked = stackedOf(equation, active)
+    const bonus = bonusOf(equation, passives, active)
+    const dealt = singleOf(equation, { ...stats, maxPower }, stacked, growth, bonus)
+    return dealt * ticksOf(equation, durationMs)
   }
   const base = healing ? healOf(equation, { ...stats, maxPower }) : worked
   const bonused = bonusOf(equation, passives, active) * stackedOf(equation, active) * base
@@ -399,20 +406,25 @@ function rankedOf(equation: Equation, rank: number | undefined): number | undefi
   return tag === undefined ? undefined : (rank ?? RANK_TAGS[tag])
 }
 
-function rankedHealOf(
-  equation: Equation,
-  stats: EquationStats,
-  grown: number,
-  rank: number
-): number {
+function flooredSumOf(equation: Equation, stats: EquationStats): number {
   const single = Math.fround
-  const summed = equation.terms.reduce(
+  return equation.terms.reduce(
     (sum, [variable, by]) => sum + Math.floor(single(single(by) * stats[variable])),
     equation.constant
   )
-  const stacked = Math.round(single(single(grown) * summed))
-  const ranked = Math.floor(single(single(rank) * stacked))
-  return Math.round(single(single(1 + stats.healingDone) * ranked))
+}
+
+function singleOf(
+  equation: Equation,
+  stats: EquationStats,
+  before: number,
+  growth: number,
+  after: number
+): number {
+  const single = Math.fround
+  const stacked = Math.round(single(single(before) * flooredSumOf(equation, stats)))
+  const ranked = Math.floor(single(single(growth) * stacked))
+  return Math.round(single(single(after) * ranked))
 }
 
 function healOf(equation: Equation, stats: EquationStats): number {

@@ -78,6 +78,18 @@ export const skillEquation = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Damage tagged `rank IV` is worked as a heal tagged `rank IV` is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its bonuses grow it where a heal's healing done does, and it is rounded.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Damage tagged `single precision` is worked that way with no growth for a rank.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Master-at-Arms slotted makes direct damage 6% stronger.",
     },
     {
@@ -201,7 +213,7 @@ export const skillEquation = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A heal or shield tagged with a rank is worked at the rank its reading gives.",
+      statement: "A number tagged with a rank is worked at the rank its reading gives.",
     },
     {
       decisionKind: "decision-kind/stopgap",
@@ -243,5 +255,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T09:46:28.489Z",
+  updatedAt: "2026-10-21T09:58:31.044Z",
 } as const satisfies Module
