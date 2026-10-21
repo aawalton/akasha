@@ -24,6 +24,7 @@
 {"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/player/character/stat/modules/metric-display-formula/metric-display-formula.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/player/character/stat/modules/metric-formulas/metric-formulas.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/player/character/stat/modules/onset-scaled-buff/onset-scaled-buff.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/player/character/stat/modules/pipeline-types/pipeline-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/player/character/stat/modules/stat-case/stat-case.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/web/modules/buff-or-debuff-explanation-dialog/buff-or-debuff-explanation-dialog.module.code.tsx","typed":true,"deferred":false}

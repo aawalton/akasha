@@ -1275,6 +1275,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-food-or-drink/temper-food-or-drink.page-type.ts","id":"01a0df76-1665-75ef-8534-195cf1c4fa76"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-mundus-stone/temper-mundus-stone.page-type.ts","id":"01a0df69-bdeb-70c4-a287-ed88cc239a92"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/fete-unsettled/fete-unsettled.module.ts","id":"01a159aa-bea4-7f4f-b4fc-70e6ada1d1cf"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/onset-scaled-buff/onset-scaled-buff.module.ts","id":"01a15e1b-556f-7931-a8db-7723ca1ec703"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/text-pattern/text-pattern.module.ts","id":"01a155a1-bc4b-74f4-98e5-d57acd2c60a3"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-character-stat.domain.ts","id":"01a0612f-aae6-7c1d-a590-b3004241a082"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/modules/lore-library-pages/lore-library-pages.module.ts","id":"01a0e26a-f623-729f-8fd3-d846ca1d388c"}

@@ -4,6 +4,7 @@ import { buildHash } from "akasha/temper/player/character/formula-framework/modu
 import type { EffectSource } from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import { calculateReadingStatsByBar } from "akasha/temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts"
 import { metrics } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.code.ts"
+import { onsetPercentByName } from "akasha/temper/player/character/stat/modules/onset-scaled-buff/onset-scaled-buff.module.code.ts"
 import { z } from "zod"
 
 const SHEET_ROW = "ADVANCED_STAT_DISPLAY_TYPE_"
@@ -18,6 +19,7 @@ const listedBuff = z.strictObject({
   abilityId: z.number(),
   name: z.string(),
   stacks: z.number().optional(),
+  powerAtOnset: z.strictObject({ weapon: z.number(), spell: z.number() }).optional(),
 })
 
 const spentStar = z.strictObject({
@@ -181,9 +183,14 @@ export function pinnedCaseOf(read: CaseRead): StatCase {
   }
   return {
     ...rest,
-    activeBuffs: rest.activeBuffs.map(({ abilityId, name, stacks }) =>
-      stacks === undefined || stacks === 0 ? { abilityId, name } : { abilityId, name, stacks }
-    ),
+    activeBuffs: rest.activeBuffs.map(({ abilityId, name, stacks, powerAtOnset }) => ({
+      abilityId,
+      name,
+      ...(stacks === undefined || stacks === 0 ? {} : { stacks }),
+      ...(powerAtOnset === undefined || onsetPercentByName(name, powerAtOnset) === undefined
+        ? {}
+        : { powerAtOnset: { weapon: powerAtOnset.weapon, spell: powerAtOnset.spell } }),
+    })),
     championPoints: rest.championPoints.map(({ championSkillId, points, maxPoints }) => ({
       championSkillId,
       points,

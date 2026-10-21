@@ -46,6 +46,7 @@
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/stat/modules/extractors/extractors.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/stat/modules/format-effects/format-effects.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/stat/modules/onset-scaled-buff/onset-scaled-buff.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/stat/modules/passive-effect-resolution/passive-effect-resolution.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/stat/modules/passive-effect-resolution/passive-effect-resolution.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx","typed":true,"deferred":false}

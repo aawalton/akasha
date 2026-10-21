@@ -126,6 +126,10 @@ export const statCase = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A case keeps the power a buff began at, where that power sets the buff's share.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A case keeps an Advanced Stats row as the game showed it.",
     },
     {
@@ -135,5 +139,5 @@ export const statCase = {
     },
   ],
   createdAt: "2026-10-14T17:18:43.951Z",
-  updatedAt: "2026-10-21T05:27:10.035Z",
+  updatedAt: "2026-10-21T10:56:52.078Z",
 } as const satisfies Module

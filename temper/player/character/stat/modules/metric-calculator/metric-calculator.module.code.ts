@@ -23,6 +23,10 @@ import {
   metrics,
   metricsWithFormulas,
 } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.code.ts"
+import {
+  atOnset,
+  type PowerAtOnset,
+} from "akasha/temper/player/character/stat/modules/onset-scaled-buff/onset-scaled-buff.module.code.ts"
 
 interface CalculationResult {
   sources: readonly EffectSource[]
@@ -303,6 +307,7 @@ export function calculateReadingStatsByBar(
     readonly abilityId: number
     readonly name: string
     readonly stacks?: number | undefined
+    readonly powerAtOnset?: PowerAtOnset | undefined
   }[],
   stars?: readonly StarPoints[],
   ultimate = 0,
@@ -321,13 +326,15 @@ export function calculateReadingStatsByBar(
   let mundusStone = "no-mundus"
   const activeBuffs: EffectSource[] = []
   const unmatchedBuffNames: string[] = []
-  for (const { abilityId, name, stacks } of listed) {
+  for (const { abilityId, name, stacks, powerAtOnset } of listed) {
     const food = foodByAbility.get(abilityId)
     const stone = stoneByAbility.get(abilityId)
     const buff = buffByName.get(name)
+    const begun = buff === undefined ? undefined : atOnset(buff, powerAtOnset)
     if (food !== undefined) foodOrDrinkId = food
     else if (stone !== undefined) mundusStone = stone
-    else if (buff !== undefined) activeBuffs.push(stacked(buff, stacks ?? 0))
+    else if (begun === null) continue
+    else if (begun !== undefined) activeBuffs.push(stacked(begun, stacks ?? 0))
     else unmatchedBuffNames.push(name)
   }
 

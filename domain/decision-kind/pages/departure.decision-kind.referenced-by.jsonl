@@ -6497,6 +6497,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-reading/metric-reading.module.ts","id":"01a0de73-1713-74bd-aea0-cc41151a61a8"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-tree/metric-tree.module.ts","id":"01a0d89c-8d0f-761e-97e4-9da2a32bd2fd"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metrics/metrics.module.ts","id":"01a06131-abb7-7c5f-81a0-69154a33d704"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/onset-scaled-buff/onset-scaled-buff.module.ts","id":"01a15e1b-556f-7931-a8db-7723ca1ec703"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/reading-hash-rewriting/reading-hash-rewriting.module.ts","id":"01a15abc-fdbd-7bf0-9ccf-0fa265cd3fee"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/reading-line-picking/reading-line-picking.module.ts","id":"01a15c22-e9f4-7536-8094-62240bbf9b61"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/rotation-healing/rotation-healing.module.ts","id":"01a13c1f-1abb-7f13-9091-5df53ed127a3"}

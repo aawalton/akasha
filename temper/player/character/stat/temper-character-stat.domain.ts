@@ -67,6 +67,7 @@ export const temperCharacterStat = {
     "page-type/temper-tooltip-case",
     "module/tooltip-case",
     "module/reading-line-picking",
+    "module/onset-scaled-buff",
   ],
   directives: [
     {
@@ -108,5 +109,5 @@ export const temperCharacterStat = {
     },
   ],
   createdAt: "2026-09-02T08:15:09.030Z",
-  updatedAt: "2026-10-21T01:45:54.419Z",
+  updatedAt: "2026-10-21T10:56:52.078Z",
 } as const satisfies Domain

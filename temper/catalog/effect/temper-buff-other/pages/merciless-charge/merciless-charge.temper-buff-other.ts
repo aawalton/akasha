@@ -8,8 +8,8 @@ export const mercilessCharge = {
   key: "merciless-charge",
   effectCategory: "damage",
   description:
-    "The Merciless Charge set's buff, ability 99789, given as Critical Charge is activated, adding 7% damage done. The game's sheet showed 7% at every Weapon and Spell Damage the buff began at, from 4430 to over 5400.",
+    "The Merciless Charge set's buff, ability 99789, given as Critical Charge is activated, adding up to 12% damage done. A reading's share is 1% for each 555.6 of the higher of Weapon and Spell Damage the buff first began at, as module onset-scaled-buff works it out.",
   effects: "jsonl",
   createdAt: "2026-10-21T10:33:32.942Z",
-  updatedAt: "2026-10-21T10:33:32.942Z",
+  updatedAt: "2026-10-21T10:56:52.078Z",
 } as const satisfies TemperBuffOther
