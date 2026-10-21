@@ -1,0 +1,61 @@
+{
+  "character": "yvlon-byres",
+  "buildHash": "ATQKypUAAIBhhRMy5V1ACF0taAEKVO25IUqdtyQpU7bkhSp23JClTtuSCUm6AEEpN0AIJSboAJhFJygCKaKTlAFNIsGXp9cFEEAAAAAAAGnKwAidFAIGQXAQBAAkQNcHwbAdgWHYCaoWTLIyIMIth0GEdQAccIUISIDMwIyEjNSIAIyM0EgAiQgMiMABDMjA6MjIDoiImQzAjIAAIIiIkozBCMCOsujXqNSLEnDKx5MsuZNnZ9GnVr2z6FGlTqeKqxsrZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJgAgMg4xIGsA",
+  "reading": "01a159c7-ae4a-72d3-80fb-24e348a0bf05",
+  "readingsAgreeing": 81,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "bar": "primary-weapon-bar",
+  "enchant": "Deals |cffffff1859|r Physical Damage and restores |cffffff327|r Stamina.",
+  "pinned": [
+    {
+      "fight": 1792507310,
+      "ms": 74191,
+      "abilityId": 46746,
+      "target": "League Warden",
+      "hit": 1952,
+      "overflow": 0,
+      "targetEffects": [
+        183008,
+        183009
+      ],
+      "debuffs": [
+        "abyssal-ink"
+      ]
+    },
+    {
+      "fight": 1792507480,
+      "ms": 646,
+      "abilityId": 46746,
+      "target": "League Overseer",
+      "hit": 1952,
+      "overflow": 0,
+      "targetEffects": [
+        183008,
+        183009
+      ],
+      "debuffs": [
+        "abyssal-ink"
+      ]
+    }
+  ],
+  "unexplained": [
+    {
+      "fight": 1792507480,
+      "ms": 13033,
+      "abilityId": 46746,
+      "target": "League Overseer",
+      "hit": 2324,
+      "overflow": 0,
+      "targetEffects": [
+        61400,
+        61727,
+        88401,
+        178118,
+        183008
+      ],
+      "debuffs": [
+        "abyssal-ink"
+      ]
+    }
+  ]
+}
