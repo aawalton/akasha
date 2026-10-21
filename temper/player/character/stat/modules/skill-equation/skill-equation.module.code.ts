@@ -348,13 +348,7 @@ function tooltipValueOf(
   rank: number | undefined
 ): number | undefined {
   if (equation === undefined) return undefined
-  const maxPower = damagePowerOf(
-    equation,
-    stats.maxPower,
-    passives,
-    active,
-    equation.tags.includes("Fighters Guild") ? (stats.powerShare ?? 0) : 0
-  )
+  const maxPower = damagePowerOf(equation, stats.maxPower, passives, active, stats.powerShare ?? 0)
   const worked = equationValue(equation, { ...stats, maxPower })
   if (worked === undefined) return undefined
   if (!equation.scaled) {

@@ -170,7 +170,7 @@ export const skillEquation = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Slayer grows the power of damage tagged `Fighters Guild` 3% a Fighters Guild skill on the bar.",
+        "Slayer grows the power of every damage 3% a Fighters Guild skill on the bar, as Quick Cloak showed.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -271,5 +271,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T13:58:44.213Z",
+  updatedAt: "2026-10-21T14:41:59.956Z",
 } as const satisfies Module
