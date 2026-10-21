@@ -10,13 +10,9 @@ export const nimueTooltipFormulas = {
   intentStack: [
     {
       statement:
-        "A command sets every slotted skill's tooltip numbers beside Temper's, reading by reading.",
-      workingMemory:
-        "Tooltip formulas are in module/skill-value-formulas. Each reading carries the game's tooltip text for every slotted skill.",
-    },
-    {
-      statement:
         "Every tooltip formula reproduces the game's tooltip number on every landed reading.",
+      workingMemory:
+        "`akasha temper tooltip-compare` sets each number beside Temper's. Misses: Erin's Ardent Flame and Draconic damage and Summon Shade 1 or 5 off; Health-scaled shields by hundreds; equations stating a ratio, such as Swarming Scion, Scalding Rune and Pack Leader, on every reading; constants a passive moves, such as pet health, Dark Conversion, Swallow Soul and Drain Vigor.",
     },
   ],
   constraints: [
@@ -24,5 +20,5 @@ export const nimueTooltipFormulas = {
     "A tooltip number pins a tooltip formula and never a stat formula.",
   ],
   createdAt: "2026-10-21T01:19:57.827Z",
-  updatedAt: "2026-10-21T01:19:57.827Z",
+  updatedAt: "2026-10-21T14:17:52.044Z",
 } as const satisfies Initiative
