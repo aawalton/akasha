@@ -20,5 +20,7 @@ export const rebornAsADemonicTree0107Chapter632EyeOfHorusEndOfBook10 = {
     },
   ],
   createdAt: "2026-10-19T20:08:01.868Z",
-  updatedAt: "2026-10-19T20:08:01.868Z",
+  updatedAt: "2026-10-21T16:04:17.788Z",
+  ownProgress: 2319,
+  progressedAt: "2026-10-21T16:04:17.788Z",
 } as const satisfies StoryChapterRead

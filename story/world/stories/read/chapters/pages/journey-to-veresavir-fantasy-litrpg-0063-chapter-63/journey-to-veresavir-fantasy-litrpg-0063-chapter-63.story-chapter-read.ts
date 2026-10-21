@@ -20,5 +20,7 @@ export const journeyToVeresavirFantasyLitrpg0063Chapter63 = {
     },
   ],
   createdAt: "2026-10-19T17:06:13.843Z",
-  updatedAt: "2026-10-19T17:06:13.843Z",
+  updatedAt: "2026-10-21T16:04:17.788Z",
+  ownProgress: 3720,
+  progressedAt: "2026-10-21T16:04:17.788Z",
 } as const satisfies StoryChapterRead

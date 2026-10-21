@@ -20,5 +20,7 @@ export const bunnyGirlEvolution0045233ASongInTheDark = {
     },
   ],
   createdAt: "2026-10-20T08:08:39.562Z",
-  updatedAt: "2026-10-20T08:08:39.562Z",
+  updatedAt: "2026-10-21T16:04:17.788Z",
+  ownProgress: 2920,
+  progressedAt: "2026-10-21T16:04:17.788Z",
 } as const satisfies StoryChapterRead

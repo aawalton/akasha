@@ -20,5 +20,7 @@ export const heWhoFightsWithMonsters0023Chapter1031TheWisdomNotTo = {
     },
   ],
   createdAt: "2026-10-19T22:05:49.998Z",
-  updatedAt: "2026-10-19T22:05:49.998Z",
+  updatedAt: "2026-10-21T16:04:17.788Z",
+  ownProgress: 2680,
+  progressedAt: "2026-10-21T16:04:17.788Z",
 } as const satisfies StoryChapterRead
