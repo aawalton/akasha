@@ -5948,6 +5948,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52-champion-points/build-codec-v52-champion-points.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52-equipment/build-codec-v52-equipment.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52-masteries/build-codec-v52-masteries.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52-skills/build-codec-v52-skills.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52/build-codec-v52.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/build-codec/modules/build-codec/build-codec.module.ts","typed":true,"deferred":false}

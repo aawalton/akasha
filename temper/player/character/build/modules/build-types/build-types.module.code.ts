@@ -44,6 +44,7 @@ export interface CharacterState {
   }
   passives: readonly SkillId[]
   passiveRanks?: Readonly<Partial<Record<SkillId, number>>>
+  masteries?: readonly string[]
   scribing: readonly ScribedSkill[]
   championPoints: {
     warfare: {

@@ -55,6 +55,10 @@ import {
   encodeEquipment,
 } from "akasha/temper/player/character/build/build-codec/modules/build-codec-v52-equipment/build-codec-v52-equipment.module.code.ts"
 import {
+  decodeMasteries,
+  encodeMasteries,
+} from "akasha/temper/player/character/build/build-codec/modules/build-codec-v52-masteries/build-codec-v52-masteries.module.code.ts"
+import {
   decodePassives,
   decodeSkills,
   encodePassives,
@@ -82,7 +86,9 @@ import type { TargetArmorId } from "akasha/temper/player/character/source/module
 export const CHARACTER_BUILD_TYPE = 0x01
 
 export const ESO_VERSION_52 = 52
-const CODEC_MINOR_VERSION = 13
+const CODEC_MINOR_VERSION = 14
+
+const FIRST_MINOR_WITH_MASTERIES = 14
 
 const FIRST_MINOR_WITH_FOOD_OR_DRINK_PLACES_OF_THE_CATALOG = 11
 
@@ -135,6 +141,8 @@ export function encodeV52(build: CharacterState): Uint8Array {
   encodeScribing(writer, build)
 
   encodeAccount(writer, build)
+
+  encodeMasteries(writer, build)
 
   return bitWriterToBytes(writer)
 }
@@ -228,6 +236,8 @@ function decodeBody(reader: BitReaderState, minorVersion: number): CharacterStat
 
   const account = decodeAccount(reader)
 
+  const masteries = minorVersion >= FIRST_MINOR_WITH_MASTERIES ? decodeMasteries(reader) : {}
+
   return {
     id: buildId(""),
     name: "",
@@ -239,6 +249,7 @@ function decodeBody(reader: BitReaderState, minorVersion: number): CharacterStat
     equipment,
     skills,
     ...purchased,
+    ...masteries,
     scribing,
     championPoints,
     consumables,
