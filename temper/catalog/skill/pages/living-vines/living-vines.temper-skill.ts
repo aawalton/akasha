@@ -20,10 +20,10 @@ export const livingVines = {
   skillType: "temper-skill-type/active",
   hashPlace: 764,
   createdAt: "2026-05-28T16:03:33.014Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T16:04:14.544Z",
   equations: [
     "<<1>> = 10 seconds (Constant)",
-    "<<2>> = 0.029932 MaxStat + 0.315736 MaxPower - 1.70809 (Ultimate, ratio = 10.55, Heal, SingleTarget, Direct, R2 = 0.999998)",
+    "<<2>> = 0.029932 MaxStat + 0.315736 MaxPower (Ultimate, Heal, SingleTarget, Direct, rank IV)",
     "<<3>> = 1 second (Constant)",
   ],
 } as const satisfies TemperSkill
