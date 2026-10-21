@@ -36,6 +36,22 @@ test("the origin is read from the environment before anything else", () => {
   else process.env.PAGE_STORE_ORIGIN = held
 })
 
+test("outside a pod the store is reached at the workstation rather than through the forwarder", () => {
+  const held = optionalEnv("KUBERNETES_SERVICE_HOST")
+  const stated = optionalEnv("PAGE_STORE_ORIGIN")
+  try {
+    delete process.env.PAGE_STORE_ORIGIN
+    delete process.env.KUBERNETES_SERVICE_HOST
+    expect(pageStoreOrigin()).toBe("http://workstation.alanwalton.ts.net:8787")
+    process.env.KUBERNETES_SERVICE_HOST = "10.96.0.1"
+    expect(pageStoreOrigin()).toBe("http://page-forwarder.page-forwarder.svc.cluster.local:8787")
+  } finally {
+    if (held === undefined) delete process.env.KUBERNETES_SERVICE_HOST
+    else process.env.KUBERNETES_SERVICE_HOST = held
+    if (stated !== undefined) process.env.PAGE_STORE_ORIGIN = stated
+  }
+})
+
 test("a body the store answers with is given back", async () => {
   const reached = await postingTo(
     "/ask",

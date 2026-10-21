@@ -55,7 +55,11 @@ export const ORIGIN_ENV = "PAGES_SERVICE_ORIGIN"
 
 const ORIGIN_NAMES: readonly string[] = [ORIGIN_ENV, "PAGE_STORE_ORIGIN"]
 
-const OVER_THE_TAILNET = "http://page-forwarder.page-forwarder.svc.cluster.local:8787"
+const THROUGH_THE_FORWARDER = "http://page-forwarder.page-forwarder.svc.cluster.local:8787"
+
+const AT_THE_WORKSTATION = "http://workstation.alanwalton.ts.net:8787"
+
+const IN_A_POD = "KUBERNETES_SERVICE_HOST"
 
 const IN_A_BROWSER = "/api"
 
@@ -118,7 +122,11 @@ export function originOf(named: readonly string[] = ORIGIN_NAMES): string {
   const said = originSaid(named)
   if (said !== null) return said
   const here = browserOrigin()
-  return here === null ? OVER_THE_TAILNET : `${here}${IN_A_BROWSER}`
+  return here === null ? unstatedOrigin() : `${here}${IN_A_BROWSER}`
+}
+
+export function unstatedOrigin(): string {
+  return saidIn(IN_A_POD) === null ? AT_THE_WORKSTATION : THROUGH_THE_FORWARDER
 }
 
 export function backoffFor(taken: number): number {

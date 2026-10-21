@@ -19,6 +19,10 @@ export const storeReaching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Any other caller reaches the store where a page call reaches the service.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A caller hands its own fetcher in rather than putting one in place of the global fetcher.",
     },
@@ -48,5 +52,5 @@ export const storeReaching = {
     },
   ],
   createdAt: "2026-09-01T03:04:31.146Z",
-  updatedAt: "2026-09-15T18:36:37.000Z",
+  updatedAt: "2026-10-21T15:02:45.054Z",
 } as const satisfies Module

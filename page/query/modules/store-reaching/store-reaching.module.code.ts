@@ -1,4 +1,5 @@
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
+import { unstatedOrigin } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 export type Fetcher = (url: string, init: RequestInit) => Promise<Response>
 
@@ -7,8 +8,6 @@ export type Sleeper = (ms: number) => Promise<void>
 type Reached<T> =
   | { readonly ok: true; readonly body: T }
   | { readonly ok: false; readonly why: string; readonly status?: number }
-
-const OVER_THE_TAILNET = "http://page-forwarder.page-forwarder.svc.cluster.local:8787"
 
 const PAGE_STORE_BROWSER_PREFIX = "/api"
 
@@ -63,7 +62,7 @@ export function pageStoreOrigin(): string {
   if (stated !== undefined) return stated.replace(/\/+$/, "")
   const origin = browserOrigin()
   if (origin !== null) return `${origin}${PAGE_STORE_BROWSER_PREFIX}`
-  return OVER_THE_TAILNET
+  return unstatedOrigin()
 }
 
 function refusalIn(body: unknown): string {

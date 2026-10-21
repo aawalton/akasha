@@ -4,7 +4,7 @@ export const pageCalling = {
   id: "01a05e09-12dc-7b16-9bed-9d7b314f2d15",
   type: "page-type/module",
   slug: "page-calling",
-  definition: "the pages asked for and written over HTTP by whoever is not the workstation",
+  definition: "the pages asked for and written over HTTP",
   code: "ts",
   test: "ts",
   decisions: [
@@ -40,6 +40,15 @@ export const pageCalling = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A browser reaches the service under its own origin.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A pod reaches the service through the forwarder.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A caller outside a pod reaches the service at the workstation, never through the forwarder.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -206,5 +215,5 @@ export const pageCalling = {
     },
   ],
   createdAt: "2026-09-01T17:34:08.092Z",
-  updatedAt: "2026-09-25T16:06:26.000Z",
+  updatedAt: "2026-10-21T15:02:45.054Z",
 } as const satisfies Module
