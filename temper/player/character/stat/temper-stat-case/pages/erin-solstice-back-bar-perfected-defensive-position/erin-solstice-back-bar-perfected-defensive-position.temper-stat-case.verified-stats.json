@@ -18,6 +18,7 @@
     "block-mitigation": 50,
     "block-speed": 40,
     "break-free-cost": 5400,
+    "critical-damage": 0,
     "critical-rating-spell": 2181,
     "critical-rating-weapon": 2181,
     "damage-done-bleed": 0,
@@ -60,7 +61,6 @@
     "ultimate-recovery": 3
   },
   "gaps": {
-    "critical-damage": 0,
     "healing-critical-bonus": 0,
     "sneak-cost": 133
   }

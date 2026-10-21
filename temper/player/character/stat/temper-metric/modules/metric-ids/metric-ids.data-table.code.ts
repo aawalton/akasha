@@ -22,6 +22,7 @@ export type MetricId =
   | "critical-damage"
   | "critical-damage-spell"
   | "critical-damage-taken"
+  | "critical-damage-total"
   | "critical-damage-weapon"
   | "critical-rating"
   | "critical-rating-spell"

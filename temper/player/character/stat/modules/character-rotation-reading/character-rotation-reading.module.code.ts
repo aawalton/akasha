@@ -58,7 +58,7 @@ function catalogMultipliers(
   const chance = Math.min(1, value("critical-rating") / criticalRating.divisor)
   return {
     healing: (1 + value("healing-total")) * (1 + chance * value("healing-critical-bonus")),
-    damage: 1 + chance * value("critical-damage"),
+    damage: 1 + chance * value("critical-damage-total"),
     healthMaximum: value("health-maximum"),
     physicalShare: physicalShareOf(value("resistance-physical")),
     spellShare: spellShareOf(value("resistance-spell")),

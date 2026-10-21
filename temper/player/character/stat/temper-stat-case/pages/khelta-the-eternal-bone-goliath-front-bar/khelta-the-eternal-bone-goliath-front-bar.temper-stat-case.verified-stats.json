@@ -30,6 +30,7 @@
   ],
   "pinned": {
     "block-speed": 40,
+    "critical-damage": 0,
     "critical-rating-spell": 2181,
     "critical-rating-weapon": 2181,
     "damage-done-bleed": 0,
@@ -71,7 +72,6 @@
     "bash-damage": 469,
     "block-mitigation": 57,
     "break-free-cost": 5076,
-    "critical-damage": 0,
     "healing-critical-bonus": 0,
     "movement-sprint-speed": 137,
     "sneak-cost": 133,

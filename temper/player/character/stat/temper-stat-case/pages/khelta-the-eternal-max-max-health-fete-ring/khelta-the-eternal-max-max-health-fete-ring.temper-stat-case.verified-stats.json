@@ -44,6 +44,7 @@
   ],
   "pinned": {
     "block-speed": 40,
+    "critical-damage": 20,
     "critical-rating-spell": 6124,
     "critical-rating-weapon": 6124,
     "healing-done-base": 0,
@@ -76,7 +77,6 @@
     "bash-damage": 417,
     "block-mitigation": 57,
     "break-free-cost": 5076,
-    "critical-damage": 20,
     "damage-done-bleed": 5,
     "damage-done-disease": 5,
     "damage-done-flame": 5,
