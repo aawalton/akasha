@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQKD8TAAIBkyhUC0_luQFp_LckMmC25ARMFoAQuYLbkhkwW3JC5gtuQhUdqABBAqW5CCBUtyJiTHW3KIgmOluVu4sGXupK_Lwq8dC7ArfRJUAidMAIGGXAQBAEmQNcGyawPgSGJAaoETDKyKEIMB0OBcAAYcIUISIjMyIjIiMzUiIAIyMxIgAiAgIyIAAyMDozA6IiJkMyIwCCIjIjozIyOsujXqNSLEnDKx5MsuZNnZ9GnVr2z6FGlTqeKqxsrZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJgAgMg4xIGsA",
+  "buildHash": "ATQND8TAAIBkyhUC0_luULIC0_luULJDJgtuULICJgtAEIBC5gtuULJDJgtuULJC5gtuULIQqO1AEIAQQKluULIQQKluULImJMdbcoWURBMdLcoWVu4sGXupK_Lwq8dC7ArfRJUAidMAIGGXAQBAEmQNcGyawPgSGJAaoETDKyKEIMB0OBcAAYcIUISIjMyIjIiMzUiIAIyMxIgAiAgIyIAAyMDozA6IiJkMyIwCCIjIjozIyOsujXqNSLEnDKx5MsuZNnZ9GnVr2z6FGlTqeKqxsrZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJgAEBkHGJA1g",
   "gender": 1,
   "level": 50,
   "classId": 117,
@@ -2212,7 +2212,7 @@
           },
           "morph1": {
             "name": "Echoing Vigor",
-            "rank": 2
+            "rank": 3
           },
           "morph2": {
             "name": "Resolving Vigor",
@@ -13119,11 +13119,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "seen": [
       5,
       3,
@@ -13139,55 +13139,56 @@
       2,
       7,
       3,
-      5,
-      4
+      4,
+      5
     ]
   },
   "inventoryCheck": {
-    "date": "2026-10-20",
-    "misplaced": 26
+    "date": "2026-10-21",
+    "misplaced": 35
   },
   "reportedStats": {
     "backBar": {
-      "capturedAt": 1792504733,
-      "buildHash": "ATQKD8TAAIBkyhUC0_luQFp_LckMmC25ARMFoAQuYLbkhkwW3JC5gtuQhUdqABBAqW5CCBUtyJiTHW3KIgmOluVu4sGXupK_Lwq8dC7ArfRJUAidMAIGGXAQBAEmQNcGyawPgSGJAaoETDKyKEIMB0OBcAAYcIUISIjMyIjIiMzUiIAIyMxIgAiAgIyIAAyMDozA6IiJkMyIwCCIjIjozIyOsujXqNSLEnDKx5MsuZNnZ9GnVr2z6FGlTqeKqxsrZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJgAgMg4xIGsA",
+      "capturedAt": 1792589431,
+      "buildHash": "ATQND8TAAIBkyhUC0_luULIC0_luULJDJgtuULICJgtAEIBC5gtuULJDJgtuULJC5gtuULIQqO1AEIAQQKluULIQQKluULImJMdbcoWURBMdLcoWVu4sGXupK_Lwq8dC7ArfRJUAidMAIGGXAQBAEmQNcGyawPgSGJAaoETDKyKEIMB0OBcAAYcIUISIjMyIjIiMzUiIAIyMxIgAiAgIyIAAyMDozA6IiJkMyIwCCIjIjozIyOsujXqNSLEnDKx5MsuZNnZ9GnVr2z6FGlTqeKqxsrZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJgAEBkHGJA1g",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "ultimate": 500,
       "health": 21283,
+      "healthPaired": false,
       "stats": {
-        "critical-rating-spell": 3158,
-        "resistance-critical": 1320,
-        "penetration-spell": 4985,
         "health-recovery": 0,
-        "stamina-maximum": 24104,
-        "stamina-recovery": 0,
-        "health-maximum": 21283,
-        "magicka-recovery": 725,
-        "penetration-physical": 4985,
-        "power-spell": 4479,
-        "magicka-maximum": 15388,
-        "resistance-physical": 25425,
+        "resistance-critical": 1320,
+        "critical-rating-spell": 3158,
         "critical-rating-weapon": 3158,
+        "stamina-recovery": 0,
+        "power-spell": 4479,
         "power-weapon": 4479,
-        "resistance-spell": 25425
+        "penetration-physical": 4985,
+        "penetration-spell": 4985,
+        "health-maximum": 21283,
+        "stamina-maximum": 24104,
+        "resistance-physical": 25425,
+        "resistance-spell": 25425,
+        "magicka-maximum": 15388,
+        "magicka-recovery": 725
       },
       "unbonusedStats": {
-        "critical-rating-spell": 2181,
-        "resistance-critical": 0,
-        "penetration-spell": 0,
         "health-recovery": 0,
-        "stamina-maximum": 24104,
-        "stamina-recovery": 0,
-        "health-maximum": 21283,
-        "magicka-recovery": 725,
-        "penetration-physical": 0,
-        "power-spell": 1000,
-        "magicka-maximum": 15388,
-        "resistance-physical": 0,
+        "resistance-critical": 0,
+        "critical-rating-spell": 2181,
         "critical-rating-weapon": 2181,
+        "stamina-recovery": 0,
+        "power-spell": 1000,
         "power-weapon": 1000,
-        "resistance-spell": 0
+        "penetration-physical": 0,
+        "penetration-spell": 0,
+        "health-maximum": 21283,
+        "stamina-maximum": 24104,
+        "resistance-physical": 0,
+        "resistance-spell": 0,
+        "magicka-maximum": 15388,
+        "magicka-recovery": 725
       },
       "activeBuffs": [
         {
@@ -13230,14 +13231,11 @@
           "name": "Vampire Stage 4",
           "description": "",
           "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 135226,
-          "name": "Unnatural Movement",
-          "description": "",
-          "effect": "",
-          "stacks": 0
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 4479,
+            "spell": 4479
+          }
         }
       ],
       "pets": [],
@@ -13807,110 +13805,422 @@
         {
           "slot": 0,
           "link": "|H0:item:82176:363:50:26588:370:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:5990:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 2341,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "enchantCategory": 17,
           "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
-          "quality": 4
+          "quality": 4,
+          "setId": 256,
+          "setName": "Mighty Chudan",
+          "setBonusCount": 3,
+          "setEquipped": 2,
+          "setMaxEquipped": 2,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 1,
+              "description": "(1 item) Adds |cffffff1435|r Armor",
+              "perfected": false
+            },
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1164|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 2,
+              "description": "(2 items) Gain Major Resolve at all times, increasing your Physical and Spell Resistance by |cffffff5948|r.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 1,
           "link": "|H0:item:194512:364:50:0:0:0:31:25:0:0:0:0:0:0:2049:0:0:1:0:0:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 0,
+          "weaponPower": 174,
           "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Magicka Recovery.",
           "enchantCategory": 32,
           "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff350|r.",
-          "quality": 5
+          "quality": 5,
+          "setId": 694,
+          "setName": "Velothi Ur-Mage's Amulet",
+          "setBonusCount": 2,
+          "setEquipped": 1,
+          "setMaxEquipped": 1,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 1,
+              "description": "(1 item) Adds |cffffff1650|r Offensive Penetration",
+              "perfected": false
+            },
+            {
+              "required": 1,
+              "description": "(1 item) Increase your damage done to monsters by |cffffff15|r%, gain Minor Force at all times, increasing your Critical Damage done by |cffffff10|r%, and reduce your total damage done with Light and Heavy Attacks by |cffffff99|r%.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 2,
           "link": "|H0:item:215597:370:50:68343:370:50:0:0:0:0:0:0:0:0:1:46:1:1:0:9500:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 2084,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff434|r Maximum Magicka.\nAdds |cffffff477|r Maximum Health.\nAdds |cffffff434|r Maximum Stamina.",
           "enchantCategory": 36,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
-          "quality": 5
+          "quality": 5,
+          "setId": 809,
+          "setName": "Tide-Born Wildstalker",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff129|r Weapon and Spell Damage",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff657|r Critical Chance",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1487|r Offensive Penetration",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Increase your direct damage done to monsters by |cffffff15|r%.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 3,
           "link": "|H0:item:82177:363:50:26588:370:50:18:25:0:0:0:0:0:0:2049:67:0:1:0:6821:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 2341,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "enchantCategory": 17,
           "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
-          "quality": 4
+          "quality": 4,
+          "setId": 256,
+          "setName": "Mighty Chudan",
+          "setBonusCount": 3,
+          "setEquipped": 2,
+          "setMaxEquipped": 2,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 1,
+              "description": "(1 item) Adds |cffffff1435|r Armor",
+              "perfected": false
+            },
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1164|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 2,
+              "description": "(2 items) Gain Major Resolve at all times, increasing your Physical and Spell Resistance by |cffffff5948|r.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 4,
           "link": "|H0:item:166195:364:50:26844:370:50:7:25:0:0:0:0:0:0:2049:14:0:1:0:153:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 0,
+          "weaponPower": 1571,
           "enchant": "Deals |cffffff2686|r Shock Damage.",
           "enchantCategory": 3,
           "trait": "Increases Physical and Spell Penetration by |cffffff3276|r.",
-          "quality": 5
+          "quality": 5,
+          "setId": 522,
+          "setName": "Perfected Merciless Charge",
+          "setBonusCount": 2,
+          "setEquipped": 0,
+          "setMaxEquipped": 2,
+          "setPerfectedEquipped": 2,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 perfected items) Adds |cffffff1190|r Offensive Penetration",
+              "perfected": true
+            },
+            {
+              "required": 2,
+              "description": "(2 items) Activating Critical Charge stirs up a barbarous lust for battle within you for |cffffff18|r seconds, increasing your damage done with direct damage attacks by |cffffff8|r%, up to a maximum of |cffffff12|r%. This effect scales off the higher of your Weapon or Spell Damage.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 6,
           "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:5195:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 781,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "enchantCategory": 17,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
-          "quality": 5
+          "quality": 5,
+          "setId": 809,
+          "setName": "Tide-Born Wildstalker",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff129|r Weapon and Spell Damage",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff657|r Critical Chance",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1487|r Offensive Penetration",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Increase your direct damage done to monsters by |cffffff15|r%.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 8,
           "link": "|H0:item:215601:370:50:68343:370:50:0:0:0:0:0:0:0:0:1:46:1:1:0:4025:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 1823,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff434|r Maximum Magicka.\nAdds |cffffff477|r Maximum Health.\nAdds |cffffff434|r Maximum Stamina.",
           "enchantCategory": 36,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
-          "quality": 5
+          "quality": 5,
+          "setId": 809,
+          "setName": "Tide-Born Wildstalker",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff129|r Weapon and Spell Damage",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff657|r Critical Chance",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1487|r Offensive Penetration",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Increase your direct damage done to monsters by |cffffff15|r%.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 9,
           "link": "|H0:item:215598:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:1:1:1:0:9000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 1823,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "enchantCategory": 17,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
-          "quality": 5
+          "quality": 5,
+          "setId": 809,
+          "setName": "Tide-Born Wildstalker",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff129|r Weapon and Spell Damage",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff657|r Critical Chance",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1487|r Offensive Penetration",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Increase your direct damage done to monsters by |cffffff15|r%.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 11,
           "link": "|H0:item:69385:363:50:45883:370:50:31:25:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 0,
+          "weaponPower": 174,
           "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery.",
           "enchantCategory": 31,
           "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff315|r.",
-          "quality": 4
+          "quality": 4,
+          "setId": 206,
+          "setName": "Agility",
+          "setBonusCount": 2,
+          "setEquipped": 2,
+          "setMaxEquipped": 3,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1691|r Maximum Stamina",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds 199 Weapon and Spell Damage",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 12,
           "link": "|H0:item:69385:363:50:45883:370:50:31:25:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 0,
+          "weaponPower": 174,
           "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery.",
           "enchantCategory": 31,
           "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff315|r.",
-          "quality": 4
+          "quality": 4,
+          "setId": 206,
+          "setName": "Agility",
+          "setBonusCount": 2,
+          "setEquipped": 2,
+          "setMaxEquipped": 3,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1691|r Maximum Stamina",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds 199 Weapon and Spell Damage",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 16,
           "link": "|H0:item:215584:370:50:0:0:0:0:0:0:0:0:0:0:0:1:34:1:1:0:4175:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 1386,
+          "weaponPower": 0,
           "enchant": "",
           "enchantCategory": 0,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
-          "quality": 5
+          "quality": 5,
+          "setId": 809,
+          "setName": "Tide-Born Wildstalker",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff129|r Weapon and Spell Damage",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff657|r Critical Chance",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1487|r Offensive Penetration",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Increase your direct damage done to monsters by |cffffff15|r%.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 20,
           "link": "|H0:item:166196:363:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:409:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 0,
+          "weaponPower": 1332,
           "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff435|r for |cffffff5|r seconds.",
           "enchantCategory": 2,
           "trait": "Increases weapon enchantment effect by |cffffff25|r% and reduces enchantment cooldown by |cFFFFFF50|r%.",
-          "quality": 4
+          "quality": 4,
+          "setId": 522,
+          "setName": "Perfected Merciless Charge",
+          "setBonusCount": 2,
+          "setEquipped": 0,
+          "setMaxEquipped": 2,
+          "setPerfectedEquipped": 2,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 perfected items) Adds |cffffff1148|r Offensive Penetration",
+              "perfected": true
+            },
+            {
+              "required": 2,
+              "description": "(2 items) Activating Critical Charge stirs up a barbarous lust for battle within you for |cffffff18|r seconds, increasing your damage done with direct damage attacks by |cffffff8|r%, up to a maximum of |cffffff12|r%. This effect scales off the higher of your Weapon or Spell Damage.",
+              "perfected": false
+            }
+          ]
         }
       ],
       "skills": [
@@ -13923,7 +14233,9 @@
           "castMs": 3000,
           "channeled": true,
           "cooldownMs": 0,
-          "ultimateCost": 0
+          "ultimateCost": 0,
+          "morph": 1,
+          "rank": 3
         },
         {
           "slot": 4,
@@ -13934,7 +14246,9 @@
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
-          "ultimateCost": 0
+          "ultimateCost": 0,
+          "morph": 2,
+          "rank": 1
         },
         {
           "slot": 5,
@@ -13945,7 +14259,9 @@
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
-          "ultimateCost": 0
+          "ultimateCost": 0,
+          "morph": 1,
+          "rank": 3
         },
         {
           "slot": 6,
@@ -13956,7 +14272,9 @@
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
-          "ultimateCost": 0
+          "ultimateCost": 0,
+          "morph": 2,
+          "rank": 3
         },
         {
           "slot": 7,
@@ -13967,7 +14285,9 @@
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 1000,
-          "ultimateCost": 0
+          "ultimateCost": 0,
+          "morph": 2,
+          "rank": 3
         },
         {
           "slot": 8,
@@ -13978,7 +14298,9 @@
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
-          "ultimateCost": 255
+          "ultimateCost": 255,
+          "morph": 1,
+          "rank": 3
         }
       ],
       "classPassives": [
@@ -14023,20 +14345,453 @@
           "description": "Your status as illuminatus reduces the cost and increases the strength of your damage shields by |cffffff10|r%."
         }
       ],
+      "otherPassives": [
+        {
+          "abilityId": 45444,
+          "name": "Forceful",
+          "description": "Your Light and Heavy Attacks damage up to |cffffff3|r other nearby enemies for |cffffff100|r% of the damage inflicted to the primary target."
+        },
+        {
+          "abilityId": 45430,
+          "name": "Heavy Weapons",
+          "description": "Grants a bonus based on the type of weapon equipped:\n\nSwords increase your Weapon and Spell Damage by |cffffff258|r.\n\nAxes increase your Critical Damage done by |cffffff12|r%.\n\nMaces increase your Offensive Penetration by |cffffff2974|r."
+        },
+        {
+          "abilityId": 45443,
+          "name": "Balanced Blade",
+          "description": "Reduces the Stamina cost of your Two-Handed abilities by |cffffff15|r%."
+        },
+        {
+          "abilityId": 45446,
+          "name": "Follow Up",
+          "description": "When you complete a fully-charged Heavy Attack, your damage done with Two Handed attacks increases by |cffffff10|r% for |cffffff4|r seconds."
+        },
+        {
+          "abilityId": 45448,
+          "name": "Battle Rush",
+          "description": "Increases your Stamina Recovery by |cffffff30|r% for |cffffff10|r seconds after killing a target."
+        },
+        {
+          "abilityId": 45519,
+          "name": "Restoration Expert",
+          "description": "Increases your healing by |cffffff15|r% on allies under |cffffff30|r% Health."
+        },
+        {
+          "abilityId": 150185,
+          "name": "Light Armor Bonuses",
+          "description": "Each piece of Light Armor does the following:\n\nReduces damage taken from Magical attacks by |cffffff1|r%\n\nReduces the cost of Roll Dodge by |cffffff3|r%\n\nReduces the Movement Speed penalty of Sneak by |cffffff5|r%\n\nReduces the cost of Break Free by |cffffff5|r%\n\nReduces the cost of Bash by |cffffff3|r%"
+        },
+        {
+          "abilityId": 152778,
+          "name": "Light Armor Penalties",
+          "description": "Each piece of Light Armor does the following:\n\nIncreases damage taken from Martial attacks by |cffffff1|r%\n\nIncreases the cost of Block by |cffffff3|r%\n\nDecreases damage done with Bash by |cffffff1|r%"
+        },
+        {
+          "abilityId": 45549,
+          "name": "Grace",
+          "description": "Reduces the effectiveness of snares applied to you by |cffffff4|r% for each piece of Light Armor worn.\n\nCurrent bonus: |cffffff0|r%.\n\nReduces the cost of Sprint by |cffffff3|r% for each piece of Light Armor worn.\n\nCurrent bonus: |cffffff0|r%."
+        },
+        {
+          "abilityId": 45557,
+          "name": "Evocation",
+          "description": "Increases your Magicka Recovery by |cffffff4|r% for each piece of Light Armor equipped. \n\nCurrent bonus: |cffffff0|r%.\n\nReduces the Magicka cost of your abilities by |cffffff2|r% for each piece of Light Armor equipped.\n\nCurrent bonus: |cffffff0|r%."
+        },
+        {
+          "abilityId": 45559,
+          "name": "Spell Warding",
+          "description": "Increases your Spell Resistance by |cffffff726|r for each piece of Light Armor equipped. \n\nCurrent bonus: |cffffff0|r."
+        },
+        {
+          "abilityId": 45561,
+          "name": "Prodigy",
+          "description": "Increases your Weapon and Spell Critical rating by |cffffff219|r for each piece of Light Armor equipped.\n\nCurrent bonus: |cffffff0|r."
+        },
+        {
+          "abilityId": 45562,
+          "name": "Concentration",
+          "description": "Increases your Physical and Spell Penetration by |cffffff939|r for each piece of Light Armor worn.\n\nCurrent bonus: |cffffff0|r"
+        },
+        {
+          "abilityId": 150181,
+          "name": "Medium Armor Bonuses",
+          "description": "Each piece of Medium Armor does the following:\n\nReduces the cost of Sprint by |cffffff1|r%\n\nReduces the cost of Sneak by |cffffff5|r%\n\nReduces the cost of Block by |cffffff3|r%\n\nReduces damage taken from Area of Effect attacks by |cffffff2|r% for |cffffff2|r seconds after you use Roll Dodge\n\nIncreases Movement Speed by |cffffff2|r% while immune to crowd control"
+        },
+        {
+          "abilityId": 45564,
+          "name": "Dexterity",
+          "description": "Increases your Critical Damage and Healing done rating by |cffffff2|r% for every piece of Medium Armor equipped.\n\nCurrent bonus: |cffffff8|r%."
+        },
+        {
+          "abilityId": 45565,
+          "name": "Wind Walker",
+          "description": "Increases your Stamina Recovery by |cffffff4|r% per piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff16|r%.\n\nReduces the Stamina cost of your abilities by |cffffff2|r% per piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff8|r%."
+        },
+        {
+          "abilityId": 45567,
+          "name": "Improved Sneak",
+          "description": "Reduces the cost of Sneak by |cffffff7|r% for each piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff28|r%.\n\nReduces the size of your detection area while Sneaking by |cffffff5|r% for each piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff20|r%."
+        },
+        {
+          "abilityId": 45572,
+          "name": "Agility",
+          "description": "Increases your Weapon and Spell Damage by |cffffff2|r% for each piece of Medium Armor worn.\n\nCurrent bonus: |cffffff8|r%."
+        },
+        {
+          "abilityId": 45574,
+          "name": "Athletics",
+          "description": "Increases the Movement Speed bonus of Sprint by |cffffff3|r% for each piece of Medium Armor equipped.\n\nCurrent bonus: |cffffff12|r%.\n\nReduces the cost of Roll Dodge by |cffffff4|r% for each piece of Medium Armor equipped.\n\nCurrent bonus: |cffffff16|r%."
+        },
+        {
+          "abilityId": 150184,
+          "name": "Heavy Armor Bonuses",
+          "description": "Each piece of Heavy Armor does the following:\n\nReduces damage taken from Martial attacks by |cffffff1|r%\n\nIncreases the amount of damage blocked by |cffffff1|r%\n\nIncreases damage done with Bash by |cffffff30|r\n\nReduces your damage taken while immune to crowd control by |cffffff1|r%"
+        },
+        {
+          "abilityId": 152780,
+          "name": "Heavy Armor Penalties",
+          "description": "Each piece of Heavy Armor does the following:\n\nIncreases damage taken from Magical attacks by |cffffff1|r%\n\nReduces the Movement Speed bonus of Sprint by |cffffff1|r%\n\nIncreases the cost of Roll Dodge by |cffffff3|r%\n\nIncreases the size of your detection area while Sneaking by |cffffff10|r%"
+        },
+        {
+          "abilityId": 45533,
+          "name": "Resolve",
+          "description": "Increases your Physical and Spell Resistance by |cffffff343|r for each piece of Heavy Armor equipped.\n\nCurrent bonus: |cffffff1029|r."
+        },
+        {
+          "abilityId": 45526,
+          "name": "Constitution",
+          "description": "Increases your Health Recovery by |cffffff4|r% for each piece of Heavy Armor equipped. \n\nCurrent bonus: |cffffff12|r%.\n\nYou restore |cffffff108|r Magicka and Stamina when you take damage for each piece of Heavy Armor equipped. This effect can occur once every |cffffff4|r seconds. \n\nCurrent bonus: |cffffff324|r."
+        },
+        {
+          "abilityId": 45546,
+          "name": "Juggernaut",
+          "description": "Increases your Max Health by |cffffff2|r% for each piece of Heavy Armor equipped.  \n\nCurrent bonus: |cffffff6|r%."
+        },
+        {
+          "abilityId": 45528,
+          "name": "Revitalize",
+          "description": "Increases the Magicka or Stamina your Heavy Attacks restore by |cffffff4|r% for each piece of Heavy Armor worn.\n\nCurrent bonus: |cffffff12|r%"
+        },
+        {
+          "abilityId": 45529,
+          "name": "Rapid Mending",
+          "description": "Increases your healing received by |cffffff1|r% for each piece of Heavy Armor worn.\n\nCurrent bonus: |cffffff3|r%"
+        },
+        {
+          "abilityId": 139908,
+          "name": "Hand Brush",
+          "description": "Removes |cFFFFFF1|r layer of soil or rock from a |cFFFFFF1x1|r area.\n\nGenerates: |c19D3FF1 Intuition|r\nMaximum Intuition: |cFFFFFF2|r."
+        },
+        {
+          "abilityId": 139904,
+          "name": "Augur",
+          "description": "Indicates how near the Antiquity is to the selected location. \n\nCan only be used a limited number of times, based on the Antiquity's Difficulty.\n\nOnly works on |cFFFFFFthe lowest three layers|r of dirt and rocks. Cannot detect Bonus Loot.\n\n|cFFFFFFUsing Augur does not consume a turn.|r"
+        },
+        {
+          "abilityId": 139772,
+          "name": "Keen Eye: Treasure Chests",
+          "description": "Treasure Chests will be easier to see when you are |cffffff30|r meters or closer."
+        },
+        {
+          "abilityId": 139942,
+          "name": "Scry",
+          "description": "Adds the selected contiguous group of facets to your area of control.\n\nConsumes 1 turn."
+        },
+        {
+          "abilityId": 139773,
+          "name": "Antiquarian Insight",
+          "description": "Allows you to scry for Antiquities of up to Simple difficulty."
+        },
+        {
+          "abilityId": 45590,
+          "name": "Soul Summons",
+          "description": "Allows you to revive once every |cffffff1|r hour without spending a Soul Gem."
+        },
+        {
+          "abilityId": 45583,
+          "name": "Soul Shatter",
+          "description": "When your Health drops below |cffffff20|r% your soul explodes, dealing |cffffff2383|r Magic Damage to enemies within |cffffff8|r meters of you.\n\nThis effect can occur once every |cffffff2|r minutes and scales off your Max Health."
+        },
+        {
+          "abilityId": 45580,
+          "name": "Soul Lock",
+          "description": "Killing an enemy has a |cffffff10|r% chance of automatically filling an empty Soul Gem."
+        },
+        {
+          "abilityId": 42054,
+          "name": "Feed",
+          "description": "Allows you to feed on an unsuspecting target, killing them and increasing your Vampire Stage. Higher Stages make you a stronger Vampire at the cost of your humanity. Stages decrease over long periods of time. \n\nStage 1/2/3/4\n\nHealth Recovery: -10%/-30%/-60%/-100%\nFlame Damage Taken: +5%/+8%/+13%/+20%\nRegular Ability Costs: +3%/+5%/+8%/+12%\nVampire Ability Costs: -6%/-10%/-16%/-24%"
+        },
+        {
+          "abilityId": 46041,
+          "name": "Dark Stalker",
+          "description": "Ignore the Movement Speed penalty of Sneak.\n\nDecreases the time it takes to enter Sneak by |cffffff50|r%."
+        },
+        {
+          "abilityId": 135218,
+          "name": "Unnatural Movement",
+          "description": "Reduces the cost of Sprint by |cffffff50|r%.\n\nIf you continuously Sprint for |cffffff3|r seconds you automatically become invisible."
+        },
+        {
+          "abilityId": 29062,
+          "name": "Intimidating Presence",
+          "description": "Allows you to Intimidate NPCs in conversation.\n\nReduces the Stamina cost of your Fighters Guild abilities by |cffffff15|r%."
+        },
+        {
+          "abilityId": 29061,
+          "name": "Persuasive Will",
+          "description": "Allows you to Persuade NPCs in conversation."
+        },
+        {
+          "abilityId": 103793,
+          "name": "See the Unseen",
+          "description": "The insight you have gained from the Psijic Order grants you vision of the spiritual world. You can now interact with rifts all throughout Tamriel."
+        },
+        {
+          "abilityId": 74580,
+          "name": "Finders Keepers",
+          "description": "Thieves troves are caches that are located all over Tamriel. They can only be opened by members of the Thieves Guild."
+        },
+        {
+          "abilityId": 45614,
+          "name": "Continuous Attack",
+          "description": "Increases your Weapon and Spell Damage by |cffffff10|r% and Health, Magicka, and Stamina Recovery by |cffffff20|r% for |cffffff10|r minutes after you capture a Lumber Mill, Farm, Mine, or Keep.\n\nGain Gallop at all times, increasing your Mount Speed by |cffffff15|r%."
+        },
+        {
+          "abilityId": 45621,
+          "name": "Reach",
+          "description": "Increases the range of long-range abilities by |cffffff5|r meters while near a keep or outpost.\n\nAny ability with a range greater than |cffffff28|r meters is affected."
+        },
+        {
+          "abilityId": 45619,
+          "name": "Combat Frenzy",
+          "description": "You generate |cffffff20|r Ultimate when you kill an enemy player."
+        },
+        {
+          "abilityId": 45622,
+          "name": "Magicka Aid",
+          "description": "Increases your Magicka Recovery by |cffffff10|r% for each Support ability slotted.\n\nCurrent bonus: |cffffff0|r%."
+        },
+        {
+          "abilityId": 45624,
+          "name": "Combat Medic",
+          "description": "Increases your healing done by |cffffff20|r% when you are near a Keep."
+        },
+        {
+          "abilityId": 45625,
+          "name": "Battle Resurrection",
+          "description": "Reduces the time it takes you to resurrect another player by |cffffff30|r% while you are in a PvP area."
+        },
+        {
+          "abilityId": 35965,
+          "name": "Highborn",
+          "description": "Increases your experience gain with the Destruction Staff skill line by |cffffff15|r%.\n\nIncreases your experience gained by |cffffff1|r%."
+        },
+        {
+          "abilityId": 45274,
+          "name": "Spell Recharge",
+          "description": "When you activate an ability, you restore |cffffff625|r Magicka or Stamina, based on whichever is lowest. This effect can occur once every |cffffff6|r seconds.\n\nWhen you are using an ability with a channel or cast time, you take |cffffff5|r% less damage."
+        },
+        {
+          "abilityId": 117970,
+          "name": "Syrabane's Boon",
+          "description": "Increases your Max Magicka by |cffffff2000|r."
+        },
+        {
+          "abilityId": 45276,
+          "name": "Elemental Talent",
+          "description": "Increases your Weapon and Spell Damage by |cffffff258|r."
+        }
+      ],
       "inArchive": false,
+      "blocking": false,
+      "moving": true,
       "archiveBoons": [],
       "advanced": {
-        "critical-damage": 0.18,
-        "healing-done-base": 0.02,
         "healing-critical-bonus": 0.08,
-        "healing-taken-base": 0.05
+        "healing-taken-base": 0.05,
+        "healing-done-base": 0.02,
+        "critical-damage": 0.18
       },
       "advancedSheet": {
+        "healing-done-bonuses": {
+          "category": "Healing Bonuses",
+          "label": "Healing Done",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 2
+        },
+        "bash-cost": {
+          "category": "Core Abilities",
+          "label": "Bash Cost",
+          "format": "flat",
+          "flat": 675
+        },
+        "block-mitigation": {
+          "category": "Core Abilities",
+          "label": "Block Mitigation",
+          "format": "percent",
+          "percent": 55
+        },
+        "shock-resist": {
+          "category": "Resistances",
+          "label": "Shock Resistance",
+          "format": "flat-or-percent",
+          "flat": 25425,
+          "percent": 38.5227279663
+        },
+        "disease-damage": {
+          "category": "Damage Bonuses",
+          "label": "Disease Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "block-speed": {
+          "category": "Core Abilities",
+          "label": "Block Move Speed",
+          "format": "percent",
+          "percent": 42
+        },
+        "magic-damage": {
+          "category": "Damage Bonuses",
+          "label": "Magic Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "physical-damage": {
+          "category": "Damage Bonuses",
+          "label": "Physical Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "sneak-cost": {
+          "category": "Core Abilities",
+          "label": "Sneak Cost",
+          "format": "flat",
+          "flat": 76
+        },
+        "shock-damage": {
+          "category": "Damage Bonuses",
+          "label": "Shock Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "block-cost": {
+          "category": "Core Abilities",
+          "label": "Block Cost",
+          "format": "flat",
+          "flat": 1505
+        },
+        "cold-damage": {
+          "category": "Damage Bonuses",
+          "label": "Frost Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "subscriber-telvar-bonus": {
+          "category": "ESO Plus",
+          "label": "Tel Var",
+          "format": "percent",
+          "percent": 10
+        },
+        "subscriber-alliance-points-bonus": {
+          "category": "ESO Plus",
+          "label": "Alliance Points",
+          "format": "percent",
+          "percent": 10
+        },
+        "critical-healing": {
+          "category": "Healing Bonuses",
+          "label": "Critical Healing",
+          "format": "percent",
+          "percent": 8
+        },
+        "frost-resist": {
+          "category": "Resistances",
+          "label": "Frost Resistance",
+          "format": "flat-or-percent",
+          "flat": 25425,
+          "percent": 38.5227279663
+        },
+        "sneak-speed-reduction": {
+          "category": "Core Abilities",
+          "label": "Sneak Speed",
+          "format": "percent",
+          "percent": 100
+        },
+        "oblivion-damage": {
+          "category": "Damage Bonuses",
+          "label": "Oblivion Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "bleed-resist": {
+          "category": "Resistances",
+          "label": "Bleed Resistance",
+          "format": "flat-or-percent",
+          "flat": 25425,
+          "percent": 38.5227279663
+        },
+        "poison-damage": {
+          "category": "Damage Bonuses",
+          "label": "Poison Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "subscriber-inspiration-bonus": {
+          "category": "ESO Plus",
+          "label": "Crafting Inspiration",
+          "format": "percent",
+          "percent": 10
+        },
+        "subscriber-coin-bonus": {
+          "category": "ESO Plus",
+          "label": "Gold",
+          "format": "percent",
+          "percent": 10
+        },
+        "sprint-cost": {
+          "category": "Core Abilities",
+          "label": "Sprint Cost",
+          "format": "flat",
+          "flat": 212
+        },
         "bash-damage": {
           "category": "Core Abilities",
           "label": "Bash Damage",
           "format": "flat",
           "flat": 735
+        },
+        "cc-break-cost": {
+          "category": "Core Abilities",
+          "label": "Break Free Cost",
+          "format": "flat",
+          "flat": 5180
+        },
+        "bleed-damage": {
+          "category": "Damage Bonuses",
+          "label": "Bleed Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "sprint-speed": {
+          "category": "Core Abilities",
+          "label": "Sprint Speed",
+          "format": "percent",
+          "percent": 153
+        },
+        "critical-damage": {
+          "category": "Damage Bonuses",
+          "label": "Critical Damage",
+          "format": "percent",
+          "percent": 18
         },
         "subscriber-all-xp": {
           "category": "ESO Plus",
@@ -14044,18 +14799,26 @@
           "format": "percent",
           "percent": 10
         },
-        "fire-damage": {
-          "category": "Damage Bonuses",
-          "label": "Flame Damage",
+        "healing-taken-bonuses": {
+          "category": "Healing Bonuses",
+          "label": "Healing Taken",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 0
+          "percent": 5
         },
-        "subscriber-coin-bonus": {
-          "category": "ESO Plus",
-          "label": "Gold",
-          "format": "percent",
-          "percent": 10
+        "fire-resist": {
+          "category": "Resistances",
+          "label": "Flame Resistance",
+          "format": "flat-or-percent",
+          "flat": 25425,
+          "percent": 38.5227279663
+        },
+        "magic-resist": {
+          "category": "Resistances",
+          "label": "Magic Resistance",
+          "format": "flat-or-percent",
+          "flat": 25425,
+          "percent": 38.5227279663
         },
         "disease-resist": {
           "category": "Resistances",
@@ -14070,127 +14833,12 @@
           "format": "flat",
           "flat": 3437
         },
-        "magic-resist": {
-          "category": "Resistances",
-          "label": "Magic Resistance",
-          "format": "flat-or-percent",
-          "flat": 25425,
-          "percent": 38.5227279663
-        },
-        "block-mitigation": {
-          "category": "Core Abilities",
-          "label": "Block Mitigation",
-          "format": "percent",
-          "percent": 55
-        },
-        "sprint-speed": {
-          "category": "Core Abilities",
-          "label": "Sprint Speed",
-          "format": "percent",
-          "percent": 153
-        },
-        "block-speed": {
-          "category": "Core Abilities",
-          "label": "Block Move Speed",
-          "format": "percent",
-          "percent": 42
-        },
-        "poison-damage": {
+        "fire-damage": {
           "category": "Damage Bonuses",
-          "label": "Poison Damage",
+          "label": "Flame Damage",
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
-        },
-        "fire-resist": {
-          "category": "Resistances",
-          "label": "Flame Resistance",
-          "format": "flat-or-percent",
-          "flat": 25425,
-          "percent": 38.5227279663
-        },
-        "subscriber-telvar-bonus": {
-          "category": "ESO Plus",
-          "label": "Tel Var",
-          "format": "percent",
-          "percent": 10
-        },
-        "subscriber-inspiration-bonus": {
-          "category": "ESO Plus",
-          "label": "Crafting Inspiration",
-          "format": "percent",
-          "percent": 10
-        },
-        "sprint-cost": {
-          "category": "Core Abilities",
-          "label": "Sprint Cost",
-          "format": "flat",
-          "flat": 212
-        },
-        "bleed-damage": {
-          "category": "Damage Bonuses",
-          "label": "Bleed Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "cc-break-cost": {
-          "category": "Core Abilities",
-          "label": "Break Free Cost",
-          "format": "flat",
-          "flat": 5180
-        },
-        "bash-cost": {
-          "category": "Core Abilities",
-          "label": "Bash Cost",
-          "format": "flat",
-          "flat": 675
-        },
-        "frost-resist": {
-          "category": "Resistances",
-          "label": "Frost Resistance",
-          "format": "flat-or-percent",
-          "flat": 25425,
-          "percent": 38.5227279663
-        },
-        "healing-done-bonuses": {
-          "category": "Healing Bonuses",
-          "label": "Healing Done",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 2
-        },
-        "bleed-resist": {
-          "category": "Resistances",
-          "label": "Bleed Resistance",
-          "format": "flat-or-percent",
-          "flat": 25425,
-          "percent": 38.5227279663
-        },
-        "sneak-cost": {
-          "category": "Core Abilities",
-          "label": "Sneak Cost",
-          "format": "flat",
-          "flat": 76
-        },
-        "shock-resist": {
-          "category": "Resistances",
-          "label": "Shock Resistance",
-          "format": "flat-or-percent",
-          "flat": 25425,
-          "percent": 38.5227279663
-        },
-        "sneak-speed-reduction": {
-          "category": "Core Abilities",
-          "label": "Sneak Speed",
-          "format": "percent",
-          "percent": 100
-        },
-        "critical-damage": {
-          "category": "Damage Bonuses",
-          "label": "Critical Damage",
-          "format": "percent",
-          "percent": 18
         },
         "poison-resist": {
           "category": "Resistances",
@@ -14198,2136 +14846,21 @@
           "format": "flat-or-percent",
           "flat": 25425,
           "percent": 38.5227279663
-        },
-        "disease-damage": {
-          "category": "Damage Bonuses",
-          "label": "Disease Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "shock-damage": {
-          "category": "Damage Bonuses",
-          "label": "Shock Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "physical-damage": {
-          "category": "Damage Bonuses",
-          "label": "Physical Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "cold-damage": {
-          "category": "Damage Bonuses",
-          "label": "Frost Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "critical-healing": {
-          "category": "Healing Bonuses",
-          "label": "Critical Healing",
-          "format": "percent",
-          "percent": 8
-        },
-        "magic-damage": {
-          "category": "Damage Bonuses",
-          "label": "Magic Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "block-cost": {
-          "category": "Core Abilities",
-          "label": "Block Cost",
-          "format": "flat",
-          "flat": 1505
-        },
-        "oblivion-damage": {
-          "category": "Damage Bonuses",
-          "label": "Oblivion Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "healing-taken-bonuses": {
-          "category": "Healing Bonuses",
-          "label": "Healing Taken",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 5
-        },
-        "subscriber-alliance-points-bonus": {
-          "category": "ESO Plus",
-          "label": "Alliance Points",
-          "format": "percent",
-          "percent": 10
         }
       },
       "sheet": {
-        "attribute-points-health": 0,
-        "critical-chance-spell": 14.4121932983,
-        "attribute-points-magicka": 0,
         "attribute-points-unspent": 0,
-        "riding-stamina": 60,
-        "attribute-points-stamina": 64,
-        "riding-capacity": 60,
+        "critical-chance-spell": 14.4121932983,
         "critical-chance-weapon": 14.4121932983,
-        "riding-speed": 60
+        "attribute-points-magicka": 0,
+        "riding-speed": 60,
+        "attribute-points-stamina": 64,
+        "attribute-points-health": 0,
+        "riding-capacity": 60,
+        "riding-stamina": 60
       },
-      "passiveRankIds": [
-        [
-          184844,
-          184847
-        ],
-        [
-          184857,
-          184858
-        ],
-        [
-          184870,
-          184873
-        ],
-        [
-          184885,
-          184887
-        ],
-        [
-          184918,
-          184923
-        ],
-        [
-          185033,
-          185036
-        ],
-        [
-          184930,
-          184932
-        ],
-        [
-          185050,
-          185058
-        ],
-        [
-          185185,
-          185186
-        ],
-        [
-          185240,
-          185243
-        ],
-        [
-          185238,
-          185239
-        ],
-        [
-          185187,
-          185195
-        ],
-        [
-          31698,
-          44046
-        ],
-        [
-          31708,
-          44721
-        ],
-        [
-          31718,
-          44730
-        ],
-        [
-          31565,
-          44732
-        ],
-        [
-          31739,
-          45214
-        ],
-        [
-          31744,
-          45216
-        ],
-        [
-          31743,
-          45215
-        ],
-        [
-          31721,
-          45212
-        ],
-        [
-          31751,
-          45206
-        ],
-        [
-          31757,
-          45207
-        ],
-        [
-          31760,
-          45208
-        ],
-        [
-          31747,
-          45202
-        ],
-        [
-          29424,
-          45011
-        ],
-        [
-          29430,
-          45012
-        ],
-        [
-          29439,
-          45023
-        ],
-        [
-          29451,
-          45029
-        ],
-        [
-          29455,
-          44922
-        ],
-        [
-          29457,
-          44933
-        ],
-        [
-          29460,
-          44951
-        ],
-        [
-          29462,
-          44953
-        ],
-        [
-          29468,
-          44996
-        ],
-        [
-          29463,
-          44984
-        ],
-        [
-          29473,
-          45001
-        ],
-        [
-          29475,
-          45009
-        ],
-        [
-          36616,
-          45038
-        ],
-        [
-          36630,
-          45048
-        ],
-        [
-          36636,
-          45053
-        ],
-        [
-          36641,
-          45060
-        ],
-        [
-          36549,
-          45103
-        ],
-        [
-          18866,
-          45071
-        ],
-        [
-          36532,
-          45084
-        ],
-        [
-          36552,
-          45115
-        ],
-        [
-          36560,
-          45135
-        ],
-        [
-          36595,
-          45150
-        ],
-        [
-          36603,
-          45155
-        ],
-        [
-          36587,
-          45145
-        ],
-        [
-          31386,
-          45176
-        ],
-        [
-          31383,
-          45172
-        ],
-        [
-          31378,
-          45165
-        ],
-        [
-          31389,
-          45181
-        ],
-        [
-          31398,
-          45198
-        ],
-        [
-          31396,
-          45196
-        ],
-        [
-          31417,
-          45200
-        ],
-        [
-          31412,
-          45199
-        ],
-        [
-          31419,
-          45188
-        ],
-        [
-          31421,
-          45190
-        ],
-        [
-          31422,
-          45192
-        ],
-        [
-          31425,
-          45195
-        ],
-        [
-          86064,
-          86065
-        ],
-        [
-          86062,
-          86063
-        ],
-        [
-          86066,
-          86067
-        ],
-        [
-          86068,
-          86069
-        ],
-        [
-          85882,
-          85883
-        ],
-        [
-          85878,
-          85879
-        ],
-        [
-          85876,
-          85877
-        ],
-        [
-          85880,
-          85881
-        ],
-        [
-          86191,
-          86192
-        ],
-        [
-          86189,
-          86190
-        ],
-        [
-          86193,
-          86194
-        ],
-        [
-          86195,
-          86196
-        ],
-        [
-          116186,
-          116188
-        ],
-        [
-          116197,
-          116198
-        ],
-        [
-          116192,
-          116194
-        ],
-        [
-          116199,
-          116201
-        ],
-        [
-          116230,
-          116235
-        ],
-        [
-          116239,
-          116240
-        ],
-        [
-          116269,
-          116270
-        ],
-        [
-          116271,
-          116272
-        ],
-        [
-          116286,
-          116287
-        ],
-        [
-          116273,
-          116275
-        ],
-        [
-          116284,
-          116285
-        ],
-        [
-          116282,
-          116283
-        ],
-        [
-          238232,
-          238232,
-          238232,
-          238232,
-          238232,
-          238232,
-          238232,
-          238232,
-          238232,
-          238232
-        ],
-        [
-          240268,
-          240268,
-          240268,
-          240268,
-          240268,
-          240268,
-          240268,
-          240268,
-          240268,
-          240268
-        ],
-        [
-          259224,
-          259224,
-          259224,
-          259224,
-          259224,
-          259224,
-          259224,
-          259224,
-          259224,
-          259224
-        ],
-        [
-          263220,
-          263220,
-          263220,
-          263220,
-          263220,
-          263220,
-          263220,
-          263220,
-          263220,
-          263220
-        ],
-        [
-          263247,
-          263247,
-          263247,
-          263247,
-          263247,
-          263247,
-          263247,
-          263247,
-          263247,
-          263247
-        ],
-        [
-          263316,
-          263316,
-          263316,
-          263316,
-          263316,
-          263316,
-          263316,
-          263316,
-          263316,
-          263316
-        ],
-        [
-          263398,
-          263398,
-          263398,
-          263398,
-          263398,
-          263398,
-          263398,
-          263398,
-          263398,
-          263398
-        ],
-        [
-          263410,
-          263410,
-          263410,
-          263410,
-          263410,
-          263410,
-          263410,
-          263410,
-          263410,
-          263410
-        ],
-        [
-          263412,
-          263412,
-          263412,
-          263412,
-          263412,
-          263412,
-          263412,
-          263412,
-          263412,
-          263412
-        ],
-        [
-          263416,
-          263416,
-          263416,
-          263416,
-          263416,
-          263416,
-          263416,
-          263416,
-          263416,
-          263416
-        ],
-        [
-          263448,
-          263448,
-          263448,
-          263448,
-          263448,
-          263448,
-          263448,
-          263448,
-          263448,
-          263448
-        ],
-        [
-          263465,
-          263465,
-          263465,
-          263465,
-          263465,
-          263465,
-          263465,
-          263465,
-          263465,
-          263465
-        ],
-        [
-          263509,
-          263509,
-          263509,
-          263509,
-          263509,
-          263509,
-          263509,
-          263509,
-          263509,
-          263509
-        ],
-        [
-          263549,
-          263549,
-          263549,
-          263549,
-          263549,
-          263549,
-          263549,
-          263549,
-          263549,
-          263549
-        ],
-        [
-          263554,
-          263554,
-          263554,
-          263554,
-          263554,
-          263554,
-          263554,
-          263554,
-          263554,
-          263554
-        ],
-        [
-          263519,
-          263519,
-          263519,
-          263519,
-          263519,
-          263519,
-          263519,
-          263519,
-          263519,
-          263519
-        ],
-        [
-          263520,
-          263520,
-          263520,
-          263520,
-          263520,
-          263520,
-          263520,
-          263520,
-          263520,
-          263520
-        ],
-        [
-          263521,
-          263521,
-          263521,
-          263521,
-          263521,
-          263521,
-          263521,
-          263521,
-          263521,
-          263521
-        ],
-        [
-          263522,
-          263522,
-          263522,
-          263522,
-          263522,
-          263522,
-          263522,
-          263522,
-          263522,
-          263522
-        ],
-        [
-          263523,
-          263523,
-          263523,
-          263523,
-          263523,
-          263523,
-          263523,
-          263523,
-          263523,
-          263523
-        ],
-        [
-          263585,
-          263585,
-          263585,
-          263585,
-          263585,
-          263585,
-          263585,
-          263585,
-          263585,
-          263585
-        ],
-        [
-          263586,
-          263586,
-          263586,
-          263586,
-          263586,
-          263586,
-          263586,
-          263586,
-          263586,
-          263586
-        ],
-        [
-          263587,
-          263587,
-          263587,
-          263587,
-          263587,
-          263587,
-          263587,
-          263587,
-          263587,
-          263587
-        ],
-        [
-          263588,
-          263588,
-          263588,
-          263588,
-          263588,
-          263588,
-          263588,
-          263588,
-          263588,
-          263588
-        ],
-        [
-          263589,
-          263589,
-          263589,
-          263589,
-          263589,
-          263589,
-          263589,
-          263589,
-          263589,
-          263589
-        ],
-        [
-          263603,
-          263603,
-          263603,
-          263603,
-          263603,
-          263603,
-          263603,
-          263603,
-          263603,
-          263603
-        ],
-        [
-          263604,
-          263604,
-          263604,
-          263604,
-          263604,
-          263604,
-          263604,
-          263604,
-          263604,
-          263604
-        ],
-        [
-          263605,
-          263605,
-          263605,
-          263605,
-          263605,
-          263605,
-          263605,
-          263605,
-          263605,
-          263605
-        ],
-        [
-          263606,
-          263606,
-          263606,
-          263606,
-          263606,
-          263606,
-          263606,
-          263606,
-          263606,
-          263606
-        ],
-        [
-          263607,
-          263607,
-          263607,
-          263607,
-          263607,
-          263607,
-          263607,
-          263607,
-          263607,
-          263607
-        ],
-        [
-          263870,
-          263870,
-          263870,
-          263870,
-          263870,
-          263870,
-          263870,
-          263870,
-          263870,
-          263870
-        ],
-        [
-          263871,
-          263871,
-          263871,
-          263871,
-          263871,
-          263871,
-          263871,
-          263871,
-          263871,
-          263871
-        ],
-        [
-          263872,
-          263872,
-          263872,
-          263872,
-          263872,
-          263872,
-          263872,
-          263872,
-          263872,
-          263872
-        ],
-        [
-          263873,
-          263873,
-          263873,
-          263873,
-          263873,
-          263873,
-          263873,
-          263873,
-          263873,
-          263873
-        ],
-        [
-          263874,
-          263874,
-          263874,
-          263874,
-          263874,
-          263874,
-          263874,
-          263874,
-          263874,
-          263874
-        ],
-        [
-          29387,
-          45444
-        ],
-        [
-          29375,
-          45430
-        ],
-        [
-          29388,
-          45443
-        ],
-        [
-          29389,
-          45446
-        ],
-        [
-          29391,
-          45448
-        ],
-        [
-          29420,
-          45471
-        ],
-        [
-          29397,
-          45452
-        ],
-        [
-          29415,
-          45469
-        ],
-        [
-          29399,
-          45472
-        ],
-        [
-          29422,
-          45473
-        ],
-        [
-          18929,
-          45476
-        ],
-        [
-          30873,
-          45477
-        ],
-        [
-          30872,
-          45478
-        ],
-        [
-          21114,
-          45481
-        ],
-        [
-          30893,
-          45482
-        ],
-        [
-          30937,
-          45494
-        ],
-        [
-          30930,
-          45492
-        ],
-        [
-          30942,
-          45493
-        ],
-        [
-          30936,
-          45497
-        ],
-        [
-          30923,
-          45498
-        ],
-        [
-          30948,
-          45500
-        ],
-        [
-          30957,
-          45509
-        ],
-        [
-          30962,
-          45512
-        ],
-        [
-          30959,
-          45513
-        ],
-        [
-          30965,
-          45514
-        ],
-        [
-          30973,
-          45517
-        ],
-        [
-          30980,
-          45519
-        ],
-        [
-          30972,
-          45520
-        ],
-        [
-          30869,
-          45521
-        ],
-        [
-          30981,
-          45524
-        ],
-        [
-          150185,
-          150185,
-          150185,
-          150185,
-          150185,
-          150185,
-          150185,
-          150185,
-          150185,
-          150185
-        ],
-        [
-          152778,
-          152778,
-          152778,
-          152778,
-          152778,
-          152778,
-          152778,
-          152778,
-          152778,
-          152778
-        ],
-        [
-          29639,
-          45548,
-          45549
-        ],
-        [
-          29665,
-          45557
-        ],
-        [
-          29663,
-          45559
-        ],
-        [
-          29668,
-          45561
-        ],
-        [
-          29667,
-          45562
-        ],
-        [
-          150181,
-          150181,
-          150181,
-          150181,
-          150181,
-          150181,
-          150181,
-          150181,
-          150181,
-          150181
-        ],
-        [
-          29743,
-          45563,
-          45564
-        ],
-        [
-          29687,
-          45565
-        ],
-        [
-          29738,
-          45567
-        ],
-        [
-          29686,
-          45572
-        ],
-        [
-          29742,
-          45574
-        ],
-        [
-          150184,
-          150184,
-          150184,
-          150184,
-          150184,
-          150184,
-          150184,
-          150184,
-          150184,
-          150184
-        ],
-        [
-          152780,
-          152780,
-          152780,
-          152780,
-          152780,
-          152780,
-          152780,
-          152780,
-          152780,
-          152780
-        ],
-        [
-          29825,
-          45531,
-          45533
-        ],
-        [
-          29769,
-          45526
-        ],
-        [
-          29804,
-          45546
-        ],
-        [
-          29773,
-          45528
-        ],
-        [
-          29791,
-          45529
-        ],
-        [
-          139908,
-          139909
-        ],
-        [
-          139904,
-          139905
-        ],
-        [
-          139943,
-          140093
-        ],
-        [
-          140173,
-          140174
-        ],
-        [
-          139910,
-          139911
-        ],
-        [
-          139906,
-          139907
-        ],
-        [
-          139771,
-          139772
-        ],
-        [
-          63799,
-          63800,
-          63801,
-          63802
-        ],
-        [
-          63803,
-          63804,
-          63805,
-          63806
-        ],
-        [
-          63807,
-          63808,
-          63809,
-          63810
-        ],
-        [
-          63811,
-          63812,
-          63813,
-          63814
-        ],
-        [
-          63815,
-          63816,
-          63817,
-          63818
-        ],
-        [
-          139942,
-          139942,
-          139942,
-          139942,
-          139942,
-          139942,
-          139942,
-          139942,
-          139942,
-          139942
-        ],
-        [
-          139773,
-          139774,
-          139775,
-          139776,
-          141018
-        ],
-        [
-          139778,
-          139779
-        ],
-        [
-          139305,
-          139306
-        ],
-        [
-          139780,
-          139781
-        ],
-        [
-          139307,
-          139308
-        ],
-        [
-          139309,
-          139321
-        ],
-        [
-          139777,
-          139777,
-          139777,
-          139777,
-          139777,
-          139777,
-          139777,
-          139777,
-          139777,
-          139777
-        ],
-        [
-          39269,
-          45590
-        ],
-        [
-          39266,
-          45583
-        ],
-        [
-          39263,
-          45580
-        ],
-        [
-          42054,
-          42054,
-          42054,
-          42054,
-          42054,
-          42054,
-          42054,
-          42054,
-          42054,
-          42054
-        ],
-        [
-          33095,
-          46041
-        ],
-        [
-          33096,
-          46040
-        ],
-        [
-          33093,
-          33090
-        ],
-        [
-          33091,
-          33091,
-          33091,
-          33091,
-          33091,
-          33091,
-          33091,
-          33091,
-          33091,
-          33091
-        ],
-        [
-          132844,
-          135218
-        ],
-        [
-          32634,
-          32634,
-          32634,
-          32634,
-          32634,
-          32634,
-          32634,
-          32634,
-          32634,
-          32634
-        ],
-        [
-          32636,
-          46142
-        ],
-        [
-          32637,
-          46135
-        ],
-        [
-          32638,
-          46139
-        ],
-        [
-          32639,
-          32639,
-          32639,
-          32639,
-          32639,
-          32639,
-          32639,
-          32639,
-          32639,
-          32639
-        ],
-        [
-          32641,
-          46137
-        ],
-        [
-          78219,
-          78219,
-          78219,
-          78219,
-          78219,
-          78219,
-          78219,
-          78219,
-          78219,
-          78219
-        ],
-        [
-          77392,
-          77394,
-          77395,
-          79865
-        ],
-        [
-          77397,
-          77398,
-          77399,
-          79868
-        ],
-        [
-          77396,
-          77396,
-          77396,
-          77396,
-          77396,
-          77396,
-          77396,
-          77396,
-          77396,
-          77396
-        ],
-        [
-          77400,
-          77400,
-          77400,
-          77400,
-          77400,
-          77400,
-          77400,
-          77400,
-          77400,
-          77400
-        ],
-        [
-          77401,
-          77401,
-          77401,
-          77401,
-          77401,
-          77401,
-          77401,
-          77401,
-          77401,
-          77401
-        ],
-        [
-          29062,
-          29062,
-          29062,
-          29062,
-          29062,
-          29062,
-          29062,
-          29062,
-          29062,
-          29062
-        ],
-        [
-          35803,
-          45595,
-          45596
-        ],
-        [
-          35800,
-          45597,
-          45599
-        ],
-        [
-          40393,
-          40393,
-          40393,
-          40393,
-          40393,
-          40393,
-          40393,
-          40393,
-          40393,
-          40393
-        ],
-        [
-          35804,
-          35804,
-          35804,
-          35804,
-          35804,
-          35804,
-          35804,
-          35804,
-          35804,
-          35804
-        ],
-        [
-          29061,
-          29061,
-          29061,
-          29061,
-          29061,
-          29061,
-          29061,
-          29061,
-          29061,
-          29061
-        ],
-        [
-          40436,
-          45601
-        ],
-        [
-          40437,
-          45602
-        ],
-        [
-          40438,
-          45603
-        ],
-        [
-          43561,
-          45607
-        ],
-        [
-          103793,
-          103793,
-          103793,
-          103793,
-          103793,
-          103793,
-          103793,
-          103793,
-          103793,
-          103793
-        ],
-        [
-          103809,
-          103811
-        ],
-        [
-          103819,
-          103878
-        ],
-        [
-          103888,
-          103964
-        ],
-        [
-          103972,
-          103972,
-          103972,
-          103972,
-          103972,
-          103972,
-          103972,
-          103972,
-          103972,
-          103972
-        ],
-        [
-          74580,
-          74580,
-          74580,
-          74580,
-          74580,
-          74580,
-          74580,
-          74580,
-          74580,
-          74580
-        ],
-        [
-          76454,
-          76455,
-          76456,
-          76457
-        ],
-        [
-          76458,
-          76459,
-          76460,
-          76461
-        ],
-        [
-          76451,
-          76451,
-          76451,
-          76451,
-          76451,
-          76451,
-          76451,
-          76451,
-          76451,
-          76451
-        ],
-        [
-          76452,
-          76452,
-          76452,
-          76452,
-          76452,
-          76452,
-          76452,
-          76452,
-          76452,
-          76452
-        ],
-        [
-          76453,
-          76453,
-          76453,
-          76453,
-          76453,
-          76453,
-          76453,
-          76453,
-          76453,
-          76453
-        ],
-        [
-          55584,
-          55676
-        ],
-        [
-          55366,
-          55386
-        ],
-        [
-          39248,
-          45614
-        ],
-        [
-          39254,
-          45621
-        ],
-        [
-          39252,
-          45619
-        ],
-        [
-          39641,
-          39641,
-          39641,
-          39641,
-          39641,
-          39641,
-          39641,
-          39641,
-          39641,
-          39641
-        ],
-        [
-          39625,
-          39625,
-          39625,
-          39625,
-          39625,
-          39625,
-          39625,
-          39625,
-          39625,
-          39625
-        ],
-        [
-          39630,
-          39630,
-          39630,
-          39630,
-          39630,
-          39630,
-          39630,
-          39630,
-          39630,
-          39630
-        ],
-        [
-          39644,
-          39644,
-          39644,
-          39644,
-          39644,
-          39644,
-          39644,
-          39644,
-          39644,
-          39644
-        ],
-        [
-          39647,
-          39647,
-          39647,
-          39647,
-          39647,
-          39647,
-          39647,
-          39647,
-          39647,
-          39647
-        ],
-        [
-          39255,
-          45622
-        ],
-        [
-          39259,
-          45624
-        ],
-        [
-          39261,
-          45625
-        ],
-        [
-          35965,
-          35965,
-          35965,
-          35965,
-          35965,
-          35965,
-          35965,
-          35965,
-          35965,
-          35965
-        ],
-        [
-          35993,
-          45273,
-          45274
-        ],
-        [
-          117968,
-          117969,
-          117970
-        ],
-        [
-          35998,
-          45275,
-          45276
-        ],
-        [
-          33293,
-          33293,
-          33293,
-          33293,
-          33293,
-          33293,
-          33293,
-          33293,
-          33293,
-          33293
-        ],
-        [
-          33301,
-          45307,
-          45309
-        ],
-        [
-          84668,
-          84670,
-          84672
-        ],
-        [
-          33304,
-          45311,
-          45312
-        ],
-        [
-          36008,
-          36008,
-          36008,
-          36008,
-          36008,
-          36008,
-          36008,
-          36008,
-          36008,
-          36008
-        ],
-        [
-          36022,
-          45295,
-          45296
-        ],
-        [
-          64279,
-          64280,
-          64281
-        ],
-        [
-          36011,
-          45317,
-          45319
-        ],
-        [
-          36063,
-          36063,
-          36063,
-          36063,
-          36063,
-          36063,
-          36063,
-          36063,
-          36063,
-          36063
-        ],
-        [
-          70386,
-          70388,
-          70390
-        ],
-        [
-          117846,
-          117847,
-          117848
-        ],
-        [
-          36067,
-          45299,
-          45301
-        ],
-        [
-          36312,
-          36312,
-          36312,
-          36312,
-          36312,
-          36312,
-          36312,
-          36312,
-          36312,
-          36312
-        ],
-        [
-          50903,
-          50906,
-          50907
-        ],
-        [
-          36153,
-          45279,
-          45280
-        ],
-        [
-          36155,
-          45291,
-          45293
-        ],
-        [
-          36247,
-          36247,
-          36247,
-          36247,
-          36247,
-          36247,
-          36247,
-          36247,
-          36247,
-          36247
-        ],
-        [
-          35995,
-          45259,
-          45260
-        ],
-        [
-          36266,
-          45261,
-          45262
-        ],
-        [
-          36303,
-          45263,
-          45264
-        ],
-        [
-          84680,
-          84680,
-          84680,
-          84680,
-          84680,
-          84680,
-          84680,
-          84680,
-          84680,
-          84680
-        ],
-        [
-          36009,
-          45277,
-          45278
-        ],
-        [
-          117752,
-          117753,
-          117754
-        ],
-        [
-          36546,
-          45313,
-          45315
-        ],
-        [
-          36582,
-          36582,
-          36582,
-          36582,
-          36582,
-          36582,
-          36582,
-          36582,
-          36582,
-          36582
-        ],
-        [
-          36585,
-          45257,
-          45258
-        ],
-        [
-          36583,
-          45253,
-          45255
-        ],
-        [
-          36568,
-          45243,
-          45247
-        ],
-        [
-          36588,
-          36588,
-          36588,
-          36588,
-          36588,
-          36588,
-          36588,
-          36588,
-          36588,
-          36588
-        ],
-        [
-          36591,
-          45265,
-          45267
-        ],
-        [
-          36593,
-          45269,
-          45270
-        ],
-        [
-          36598,
-          45271,
-          45272
-        ],
-        [
-          36626,
-          36626,
-          36626,
-          36626,
-          36626,
-          36626,
-          36626,
-          36626,
-          36626,
-          36626
-        ],
-        [
-          36627,
-          45303,
-          45304
-        ],
-        [
-          36064,
-          45297,
-          45298
-        ],
-        [
-          36628,
-          45305,
-          45306
-        ],
-        [
-          45542,
-          45547,
-          45550,
-          45551,
-          45552,
-          49163,
-          70042,
-          70043
-        ],
-        [
-          47840,
-          47841,
-          47842
-        ],
-        [
-          45569,
-          45571,
-          45573
-        ],
-        [
-          45577,
-          45578,
-          45579
-        ],
-        [
-          45555,
-          45555,
-          45555,
-          45555,
-          45555,
-          45555,
-          45555,
-          45555,
-          45555,
-          45555
-        ],
-        [
-          47831,
-          47832,
-          47834
-        ],
-        [
-          47276,
-          47277,
-          47278,
-          47279,
-          47280,
-          47281,
-          48157,
-          48158,
-          48159,
-          70041
-        ],
-        [
-          47854,
-          47855,
-          47856
-        ],
-        [
-          48169,
-          48170,
-          48171
-        ],
-        [
-          48163,
-          48164,
-          48165
-        ],
-        [
-          48160,
-          48161,
-          48162,
-          58784
-        ],
-        [
-          48166,
-          48167,
-          48168
-        ],
-        [
-          47288,
-          47289,
-          47290,
-          47291,
-          47292,
-          47293,
-          48187,
-          48188,
-          48189,
-          70044
-        ],
-        [
-          47860,
-          47861,
-          47862
-        ],
-        [
-          48199,
-          48200,
-          48201
-        ],
-        [
-          48193,
-          48194,
-          48195
-        ],
-        [
-          48190,
-          48191,
-          48192,
-          58782
-        ],
-        [
-          48196,
-          48197,
-          48198
-        ],
-        [
-          46727,
-          46729,
-          46731,
-          46735,
-          46736,
-          46740,
-          49112,
-          49113,
-          49114,
-          70045
-        ],
-        [
-          46758,
-          46759,
-          46760,
-          46763
-        ],
-        [
-          47851,
-          47852,
-          47853
-        ],
-        [
-          46770,
-          46771,
-          46772
-        ],
-        [
-          46767,
-          46768,
-          46769
-        ],
-        [
-          103632,
-          103633,
-          103634,
-          103635,
-          103636
-        ],
-        [
-          103637,
-          103638,
-          103639
-        ],
-        [
-          103643,
-          103644,
-          103645
-        ],
-        [
-          103640,
-          103641,
-          103642,
-          108098
-        ],
-        [
-          103646,
-          103647,
-          103648
-        ],
-        [
-          44590,
-          44595,
-          44597,
-          44598,
-          44599,
-          44650
-        ],
-        [
-          44625,
-          44630,
-          44631,
-          69953
-        ],
-        [
-          44602,
-          44609,
-          44610
-        ],
-        [
-          44612,
-          44614,
-          44615
-        ],
-        [
-          44616,
-          44617,
-          44619
-        ],
-        [
-          44620,
-          44621,
-          44624
-        ],
-        [
-          44634,
-          44640,
-          44641
-        ],
-        [
-          47282,
-          47283,
-          47284,
-          47285,
-          47286,
-          47287,
-          48172,
-          48173,
-          48174,
-          70046
-        ],
-        [
-          47857,
-          47858,
-          47859
-        ],
-        [
-          48184,
-          48185,
-          48186
-        ],
-        [
-          48178,
-          48179,
-          48180
-        ],
-        [
-          48181,
-          48182,
-          48183,
-          58783
-        ],
-        [
-          48175,
-          48176,
-          48177
-        ]
-      ]
+      "passiveRankIds": [],
+      "classMastery": []
     }
   }
 }
