@@ -20,12 +20,12 @@ export const aggressiveHorn40223 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 24,
   createdAt: "2026-05-28T16:03:31.615Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T04:43:21.850Z",
   equations: [
     "<<1>> = 10% (Constant)",
     "<<2>> = 30 seconds (Constant)",
     "<<3>> = Major Force (Constant)",
     "<<4>> = 20% (Constant)",
-    "<<5>> = 7 seconds (Constant)",
+    "<<5>> = 10 seconds (Constant)",
   ],
 } as const satisfies TemperSkill
