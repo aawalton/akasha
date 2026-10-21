@@ -20,5 +20,7 @@ export const theArchmageCoefficientOpArchmageMageAcademy0150150Doubt = {
     },
   ],
   createdAt: "2026-10-20T22:06:42.597Z",
-  updatedAt: "2026-10-20T22:06:42.597Z",
+  updatedAt: "2026-10-21T20:06:06.403Z",
+  ownProgress: 2992,
+  progressedAt: "2026-10-21T20:06:06.403Z",
 } as const satisfies StoryChapterRead
