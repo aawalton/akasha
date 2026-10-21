@@ -20,7 +20,7 @@ export const ravenousGoliath118279 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 986,
   createdAt: "2026-05-28T16:03:33.428Z",
-  updatedAt: "2026-10-21T06:27:53.152Z",
+  updatedAt: "2026-10-21T15:58:25.435Z",
   equations: [
     "<<1>> = Ravenous Goliath (Constant)",
     "<<2>> = 30000 (Constant)",
@@ -28,6 +28,6 @@ export const ravenousGoliath118279 = {
     "<<2>> = 30000 (Constant, Repeat)",
     "<<4>> = 0.019995344 Health (Health, Heal, SingleTarget, Direct)",
     "<<5>> = 0.0499945 Health (Health, Heal, SingleTarget, Direct)",
-    "<<6>> = 0.05 Health (Health, RankMod(1), Dmg, Magic, AOE, DOT, 1s tick, R2 = 1)",
+    "<<6>> = 0.05 Health (Health, RankMod(1), Dmg, Magic, AOE, DOT, 1s tick, R2 = 1, rank IV)",
   ],
 } as const satisfies TemperSkill
