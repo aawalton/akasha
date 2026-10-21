@@ -305,7 +305,10 @@ function tooltipValueOf(
   const maxPower = damagePowerOf(equation, stats.maxPower, passives, active)
   const worked = equationValue(equation, { ...stats, maxPower })
   if (worked === undefined) return undefined
-  if (!equation.scaled) return worked + longerBy(equation, passives)
+  if (!equation.scaled) {
+    const kept = worked + longerBy(equation, passives)
+    return equation.tags.includes(SHIELD) ? Math.round(bonusOf(equation, passives) * kept) : kept
+  }
   if (equation.tags.includes(SHIELD)) return shieldOf(equation, worked, stats, passives)
   const bonused = bonusOf(equation, passives, active) * stackedOf(equation, active) * worked
   if (!isDamage(equation)) return Math.round(bonused)

@@ -126,6 +126,17 @@ test("a damage shield rounds down, grows with Bastion slotted, and a capped one 
   expect(shield("<<1>> = 0.1 MaxStat (Dmg)", new Set(["bastion"]))).toBe(2000)
 })
 
+test("a shield's percent constant grows with Bastion slotted and is rounded", () => {
+  const wall = ["<<5>> = 30% (Constant, DmgShield)"]
+  const worked = (held: ReadonlySet<string>) => {
+    const paired = tooltipPairingOf("equal to |cffffff1|r%", wall, STATS, held)
+    return paired.paired ? paired.numbers[0]?.temper : undefined
+  }
+
+  expect(worked(new Set(["bastion"]))).toBe(35)
+  expect(worked(new Set())).toBe(30)
+})
+
 test("direct damage grows with the damage stars slotted and rounds down", () => {
   const lash = "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Dmg, Flame, AOE, Direct)"
   const worked = (held: ReadonlySet<string>) => {

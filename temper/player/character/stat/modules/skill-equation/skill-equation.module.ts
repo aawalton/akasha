@@ -53,6 +53,10 @@ export const skillEquation = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A constant tagged `DmgShield` grows by the shield bonuses and is rounded.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Bonuses the build holds add to each other before they multiply the number.",
     },
     {
@@ -159,5 +163,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T05:05:31.143Z",
+  updatedAt: "2026-10-21T05:12:23.433Z",
 } as const satisfies Module
