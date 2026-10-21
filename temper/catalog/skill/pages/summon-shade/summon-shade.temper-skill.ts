@@ -20,10 +20,10 @@ export const summonShade = {
   skillType: "temper-skill-type/active",
   hashPlace: 1289,
   createdAt: "2026-05-28T16:03:33.980Z",
-  updatedAt: "2026-10-21T02:29:23.868Z",
+  updatedAt: "2026-10-21T05:00:50.613Z",
   equations: [
     "<<1>> = 20 seconds (Constant, +2 seconds with dark-veil)",
-    "<<2>> = 0.02 MaxStat + 0.21 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = 0.02063802 MaxStat + 0.21669921 MaxPower (Ultimate, RankMod(1), Dmg, Magic, SingleTarget, Direct, Melee)",
     "<<3>> = 2 seconds (Constant)",
     "<<4>> = Minor Maim (Constant)",
     "<<5>> = 4 seconds (Constant)",
