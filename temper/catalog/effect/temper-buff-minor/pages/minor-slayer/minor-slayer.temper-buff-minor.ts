@@ -6,8 +6,8 @@ export const minorSlayer = {
   slug: "minor-slayer",
   title: "Minor Slayer",
   key: "minor-slayer",
-  description: "Increases damage done to Dungeon, Trial, and Arena monsters by 5%",
+  description: "Increases damage done to monsters by 5%",
   effects: "jsonl",
   createdAt: "2026-09-02T01:40:04.417Z",
-  updatedAt: "2026-09-21T15:25:48.000Z",
+  updatedAt: "2026-10-21T17:17:55.835Z",
 } as const satisfies TemperBuffMinor
