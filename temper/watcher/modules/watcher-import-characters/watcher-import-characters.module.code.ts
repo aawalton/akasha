@@ -77,7 +77,7 @@ type ReportLine = (line: string) => void
 
 type AccountAddressOf = (userId: string) => Promise<string>
 
-export type CharacterBuildFiler = (accountPage: string) => Promise<readonly FiledCharacterBuild[]>
+type CharacterBuildFiler = (accountPage: string) => Promise<readonly FiledCharacterBuild[]>
 
 interface CharacterImportSeams {
   upsert?: PageUpsert
