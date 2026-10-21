@@ -1,10 +1,9 @@
 import { basename, dirname, join, relative } from "node:path"
 import { textIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import { testFixture } from "akasha/check/test/fixture/test-fixture.page-type.ts"
+import { testNamed } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { componentTestFixtures } from "akasha/code/component/properties/component-test-fixtures.code-file-property.ts"
-import { module } from "akasha/code/module/module.page-type.ts"
 import { code } from "akasha/code/module/properties/code.code-file-property.ts"
-import { test } from "akasha/code/module/properties/test.code-file-property.ts"
 import { testFixtures } from "akasha/code/module/properties/test-fixtures.code-file-property.ts"
 import { testReads } from "akasha/code/module/properties/test-reads.multi-relation-property.ts"
 import { testsBesideOf } from "akasha/code/running/modules/code-tests/code-tests.module.code.ts"
@@ -12,45 +11,29 @@ import type { Link } from "akasha/code/running/modules/test-overlay/test-overlay
 import { calledIn } from "akasha/code/workspace/modules/package-manifest/package-manifest.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
-import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 type ReadersOf = (path: string) => readonly string[]
 
 type Naming = Pick<Answering, "listedAt" | "namersAt" | "fileKeysAt" | "typesCarrying">
 
-type Reaching = Pick<Answering, "valuesByPath" | "importsReaching">
-
-const REACHES = "testReaches"
+type Reaching = Pick<Answering, "importsReaching">
 
 const REACHERS = new WeakMap<Reaching, ReadersOf>()
-
-function reachingTestsIn(index: Reaching): ReadonlySet<string> {
-  const found = new Set<string>()
-  for (const [page, value] of index.valuesByPath(module.slug)) {
-    if (value[REACHES] !== true) continue
-    const held = textAt(value, test.propertySlug)
-    const at = held === null ? null : besideAt(page, test.propertySlug, held)
-    if (at !== null) found.add(at)
-  }
-  return found
-}
 
 export function reachersIn(index: Reaching): ReadersOf {
   const held = REACHERS.get(index)
   if (held !== undefined) return held
-  const tests = reachingTestsIn(index)
   const reachersOf: ReadersOf = (path) => {
-    if (tests.size === 0) return []
     const seen = new Set<string>([path])
     const waiting = [path]
     const found: string[] = []
     for (let at = 0; at < waiting.length; at += 1) {
       const one = waiting[at]
       if (one === undefined) continue
-      if (tests.has(one)) found.push(one)
+      if (one !== path && testNamed(one)) found.push(one)
       for (const importer of index.importsReaching(one)) {
         if (importer.typed || seen.has(importer.path)) continue
         seen.add(importer.path)

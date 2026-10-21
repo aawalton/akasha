@@ -33,15 +33,11 @@ export const runNaming = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A changed file names each test importing it at any depth, where that test's module says so.",
+        "A changed file names each test importing it at any depth, of whatever page that test is.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "That reach is followed through every importer but one importing types alone.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "No other importer of an importer is asked for.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -88,5 +84,5 @@ export const runNaming = {
     },
   ],
   createdAt: "2026-09-19T03:50:53.912Z",
-  updatedAt: "2026-10-21T05:27:10.035Z",
+  updatedAt: "2026-10-21T13:55:35.230Z",
 } as const satisfies Module

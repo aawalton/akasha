@@ -22,8 +22,7 @@ export const testsPass = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A change is judged too by each test that reaches a file it has, where that test says so.",
+      statement: "A change is judged too by each test importing a file it has, at any depth.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -32,7 +31,7 @@ export const testsPass = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A test another file's change breaks is misplaced, unless that file is a fixture or a page it reads.",
+        "A test another file's change breaks is misplaced, unless it imports that file or reads its page.",
     },
 
     {
@@ -384,5 +383,5 @@ export const testsPass = {
   check: {},
   audit: {},
   createdAt: "2026-08-29T18:09:42.932Z",
-  updatedAt: "2026-10-21T05:27:10.035Z",
+  updatedAt: "2026-10-21T13:55:35.230Z",
 } as const satisfies CheckCode

@@ -142,8 +142,6 @@ test("a reader's test the change leaves nowhere is named by nothing", () => {
   expect(namedOver([READ_AT], thereAt(), noImporters, reading(READ_AT))).toEqual([])
 })
 
-const CASE_AT = "akasha/case/case.module.ts"
-
 const CASE_CODE_AT = "akasha/case/case.module.code.ts"
 
 const CASE_TEST_AT = "akasha/case/case.module.test.ts"
@@ -152,36 +150,46 @@ const DEEP_AT = "akasha/deep/deep.module.code.ts"
 
 const SHAPE_AT = "akasha/shape/shape.module.code.ts"
 
+const AGENT_TEST_AT = "akasha/agent/held/held.change-agent.test.ts"
+
+const WATCHER_CODE_AT = "akasha/watcher/watcher.module.code.ts"
+
+const WATCHER_TEST_AT = "akasha/watcher/watcher.module.test.ts"
+
 const IMPORTS = new Map([
   [DEEP_AT, [{ path: CASE_CODE_AT, typed: false, deferred: false }]],
   [SHAPE_AT, [{ path: CASE_CODE_AT, typed: true, deferred: false }]],
-  [CASE_CODE_AT, [{ path: CASE_TEST_AT, typed: false, deferred: false }]],
+  [
+    CASE_CODE_AT,
+    [
+      { path: AGENT_TEST_AT, typed: false, deferred: false },
+      { path: CASE_TEST_AT, typed: false, deferred: false },
+      { path: WATCHER_CODE_AT, typed: false, deferred: false },
+    ],
+  ],
+  [WATCHER_CODE_AT, [{ path: WATCHER_TEST_AT, typed: false, deferred: false }]],
 ])
 
-function indexReaching(said: object): Pick<Answering, "valuesByPath" | "importsReaching"> {
-  return {
-    valuesByPath: (kind) =>
-      new Map(
-        kind === "module" ? [[CASE_AT, { slug: "case", code: "ts", test: "ts", ...said }]] : []
-      ),
-    importsReaching: (path) => IMPORTS.get(path) ?? [],
-  }
+const REACHED = [AGENT_TEST_AT, CASE_TEST_AT, WATCHER_TEST_AT]
+
+function indexReaching(): Pick<Answering, "importsReaching"> {
+  return { importsReaching: (path) => IMPORTS.get(path) ?? [] }
 }
 
-test("a file a module's test reaches through importers at any depth names that test", () => {
-  expect(reachersIn(indexReaching({ testReaches: true }))(DEEP_AT)).toEqual([CASE_TEST_AT])
+test("a file names every test importing it at any depth, of whatever page that test is", () => {
+  expect(reachersIn(indexReaching())(DEEP_AT)).toEqual(REACHED)
 })
 
-test("a module saying nothing of its reach names its test for no file below its code", () => {
-  expect(reachersIn(indexReaching({}))(DEEP_AT)).toEqual([])
+test("a file no test reaches names no test", () => {
+  expect(reachersIn(indexReaching())(WATCHER_TEST_AT)).toEqual([])
 })
 
 test("a file imported for its types alone reaches no test", () => {
-  expect(reachersIn(indexReaching({ testReaches: true }))(SHAPE_AT)).toEqual([])
+  expect(reachersIn(indexReaching())(SHAPE_AT)).toEqual([])
 })
 
-test("a change to a file a reaching test reaches names that test, unless the change leaves it nowhere", () => {
-  const reachers = reachersIn(indexReaching({ testReaches: true }))
+test("a change to a file a test reaches names that test, unless the change leaves it nowhere", () => {
+  const reachers = reachersIn(indexReaching())
   const there = thereAt(CASE_TEST_AT)
   expect(namedOver([DEEP_AT], there, noImporters, noImporters, reachers)).toEqual([CASE_TEST_AT])
   expect(namedOver([DEEP_AT], thereAt(), noImporters, noImporters, reachers)).toEqual([])
