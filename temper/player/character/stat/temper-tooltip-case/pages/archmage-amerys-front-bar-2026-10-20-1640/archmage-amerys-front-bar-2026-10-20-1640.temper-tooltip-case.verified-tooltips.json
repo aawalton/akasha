@@ -140,22 +140,26 @@
     {
       "abilityId": 24595,
       "name": "Dark Deal",
-      "description": "Bargain with darkness to restore |cffffff8000|r Health and |cffffff3600|r Stamina instantly, and an additional |cffffff2400|r Stamina over |cffffff10|r seconds.\n\nThe exchange also grants you Minor Berserk for |cffffff20|r seconds, increasing your damage done by |cffffff5|r%."
+      "description": "Bargain with darkness to restore |cffffff8000|r Health and |cffffff3600|r Stamina instantly, and an additional |cffffff2400|r Stamina over |cffffff10|r seconds.\n\nThe exchange also grants you Minor Berserk for |cffffff20|r seconds, increasing your damage done by |cffffff5|r%.",
+      "durationMs": 10000
     },
     {
       "abilityId": 108840,
       "name": "Summon Unstable Familiar",
-      "description": "Command the powers of Oblivion to send a Daedric familiar to fight at your side. The familiar's attacks deal |cffffff1293|r Shock Damage.\n\nOnce summoned, you can activate the familiar's special ability for |cffffff3405|r Magicka, dealing |cffffff1569|r Shock Damage every |cffffff2|r seconds for |cffffff20|r seconds to enemies near them.\n\nThe familiar remains until killed or unsummoned."
+      "description": "Command the powers of Oblivion to send a Daedric familiar to fight at your side. The familiar's attacks deal |cffffff1293|r Shock Damage.\n\nOnce summoned, you can activate the familiar's special ability for |cffffff3405|r Magicka, dealing |cffffff1569|r Shock Damage every |cffffff2|r seconds for |cffffff20|r seconds to enemies near them.\n\nThe familiar remains until killed or unsummoned.",
+      "durationMs": 0
     },
     {
       "abilityId": 34835,
       "name": "Swallow Soul",
-      "description": "Steal an enemy's life force, dealing |cffffff10029|r Magic Damage and healing you for |cffffff33|r% of the damage inflicted every |cffffff2|r seconds for |cffffff10|r seconds.\n\nDeals |cffffff1|r% more damage for every |cffffff2|r% Health you have."
+      "description": "Steal an enemy's life force, dealing |cffffff10029|r Magic Damage and healing you for |cffffff33|r% of the damage inflicted every |cffffff2|r seconds for |cffffff10|r seconds.\n\nDeals |cffffff1|r% more damage for every |cffffff2|r% Health you have.",
+      "durationMs": 10000
     },
     {
       "abilityId": 38932,
       "name": "Swarming Scion",
-      "description": "Transform into a monstrous creature of the night, instantly healing to full Health.\n\nWhile transformed, your Max Health, Magicka, and Stamina are increased by |cffffff10000|r, you heal for |cffffff15|r% of all damage you deal, and you can see enemies through walls. \n\nBats also swarm around you and shred enemies that come close, dealing |cffffff3236|r Magic Damage every |cffffff1|r second."
+      "description": "Transform into a monstrous creature of the night, instantly healing to full Health.\n\nWhile transformed, your Max Health, Magicka, and Stamina are increased by |cffffff10000|r, you heal for |cffffff15|r% of all damage you deal, and you can see enemies through walls. \n\nBats also swarm around you and shred enemies that come close, dealing |cffffff3236|r Magic Damage every |cffffff1|r second.",
+      "durationMs": 20000
     }
   ],
   "pinned": {

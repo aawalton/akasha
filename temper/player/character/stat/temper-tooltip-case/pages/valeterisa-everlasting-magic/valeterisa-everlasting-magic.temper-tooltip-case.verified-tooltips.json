@@ -155,27 +155,32 @@
     {
       "abilityId": 40457,
       "name": "Degeneration",
-      "description": "Bind an enemy with chaotic magic, dealing |cffffff22320|r Magic Damage over |cffffff22|r seconds.\n\nExcess magic spills out from them, granting you Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff22|r seconds."
+      "description": "Bind an enemy with chaotic magic, dealing |cffffff22320|r Magic Damage over |cffffff22|r seconds.\n\nExcess magic spills out from them, granting you Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff22|r seconds.",
+      "durationMs": 22000
     },
     {
       "abilityId": 31632,
       "name": "Fire Rune",
-      "description": "Inscribe a rune of cosmic fire on the earth, which takes |cffffff2|r seconds to arm and lasts for |cffffff22|r seconds.\n\nWhen triggered, the rune blasts all enemies in the target area for |cffffff11329|r Flame Damage."
+      "description": "Inscribe a rune of cosmic fire on the earth, which takes |cffffff2|r seconds to arm and lasts for |cffffff22|r seconds.\n\nWhen triggered, the rune blasts all enemies in the target area for |cffffff11329|r Flame Damage.",
+      "durationMs": 22000
     },
     {
       "abilityId": 31642,
       "name": "Equilibrium",
-      "description": "Barter with Oblivion to trade vitality for power, sacrificing your Health in exchange for |cffffff3000|r Magicka.\n\nThe exchange reduces your healing done and damage shield strength by |cffffff50|r% for |cffffff4|r seconds."
+      "description": "Barter with Oblivion to trade vitality for power, sacrificing your Health in exchange for |cffffff3000|r Magicka.\n\nThe exchange reduces your healing done and damage shield strength by |cffffff50|r% for |cffffff4|r seconds.",
+      "durationMs": 0
     },
     {
       "abilityId": 40478,
       "name": "Inner Light",
-      "description": "Conjure a mote of magelight, revealing stealthed and invisible enemies around you for |cffffff7|r seconds. Exposed enemies cannot return to stealth or invisibility for |cffffff4|r seconds. The light is so brilliant that you cannot conceal your presence while active.\n\nWhile slotted gain Major Savagery, increasing Critical Chance by |cffffff12|r% and your Max Magicka is increased by |cffffff5|r%."
+      "description": "Conjure a mote of magelight, revealing stealthed and invisible enemies around you for |cffffff7|r seconds. Exposed enemies cannot return to stealth or invisibility for |cffffff4|r seconds. The light is so brilliant that you cannot conceal your presence while active.\n\nWhile slotted gain Major Savagery, increasing Critical Chance by |cffffff12|r% and your Max Magicka is increased by |cffffff5|r%.",
+      "durationMs": 7000
     },
     {
       "abilityId": 38931,
       "name": "Perfect Scion",
-      "description": "Transform into a monstrous creature of the night, instantly healing to full Health.\n\nWhile transformed, your Max Health, Magicka, and Stamina are increased by |cffffff10000|r, you heal for |cffffff15|r% of all damage you deal, and you can see enemies through walls. \n\nYou also ascend to Vampire Stage 5, which grants all the benefits of Vampire Stage 4 with none of the drawbacks."
+      "description": "Transform into a monstrous creature of the night, instantly healing to full Health.\n\nWhile transformed, your Max Health, Magicka, and Stamina are increased by |cffffff10000|r, you heal for |cffffff15|r% of all damage you deal, and you can see enemies through walls. \n\nYou also ascend to Vampire Stage 5, which grants all the benefits of Vampire Stage 4 with none of the drawbacks.",
+      "durationMs": 20000
     }
   ],
   "pinned": {

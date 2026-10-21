@@ -135,32 +135,38 @@
     {
       "abilityId": 185842,
       "name": "Inspired Scholarship",
-      "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3570|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%."
+      "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3570|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
+      "durationMs": 30000
     },
     {
       "abilityId": 183006,
       "name": "Cephaliarch's Flail",
-      "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff7820|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff3483|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink."
+      "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff7820|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff3483|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink.",
+      "durationMs": 0
     },
     {
       "abilityId": 193398,
       "name": "Pragmatic Fatecarver",
-      "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff3545|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff9278|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage."
+      "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff3545|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff9278|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage.",
+      "durationMs": 0
     },
     {
       "abilityId": 34843,
       "name": "Killer's Blade",
-      "description": "Thrust a caustic blade with lethal precision to stab an enemy, dealing |cffffff4432|r Disease Damage. Deals up to |cffffff400|r% more damage to enemies with less than |cffffff50|r% Health.\n\nHeals you for |cffffff8344|r if the enemy dies within |cffffff2|r seconds of being struck."
+      "description": "Thrust a caustic blade with lethal precision to stab an enemy, dealing |cffffff4432|r Disease Damage. Deals up to |cffffff400|r% more damage to enemies with less than |cffffff50|r% Health.\n\nHeals you for |cffffff8344|r if the enemy dies within |cffffff2|r seconds of being struck.",
+      "durationMs": 0
     },
     {
       "abilityId": 61505,
       "name": "Echoing Vigor",
-      "description": "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff18171|r Health over |cffffff16|r seconds."
+      "description": "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff18171|r Health over |cffffff16|r seconds.",
+      "durationMs": 16000
     },
     {
       "abilityId": 40493,
       "name": "Shooting Star",
-      "description": "Call a comet down from the constellations to blast an enemy, dealing |cffffff16392|r Flame Damage to all enemies in the area, knocking them down, and stunning them for |cffffff2|r seconds.\n\nOne second after impact, enemies in the target area take |cffffff4432|r Flame Damage every |cffffff1|r second for |cffffff10|r seconds.\n\nYou generate |cffffff10|r Ultimate for each enemy hit by the initial blast, up to 6 times."
+      "description": "Call a comet down from the constellations to blast an enemy, dealing |cffffff16392|r Flame Damage to all enemies in the area, knocking them down, and stunning them for |cffffff2|r seconds.\n\nOne second after impact, enemies in the target area take |cffffff4432|r Flame Damage every |cffffff1|r second for |cffffff10|r seconds.\n\nYou generate |cffffff10|r Ultimate for each enemy hit by the initial blast, up to 6 times.",
+      "durationMs": 0
     }
   ],
   "pinned": {

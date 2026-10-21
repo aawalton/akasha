@@ -174,32 +174,38 @@
     {
       "abilityId": 34835,
       "name": "Swallow Soul",
-      "description": "Steal an enemy's life force, dealing |cffffff11271|r Magic Damage and healing you for |cffffff35|r% of the damage inflicted every |cffffff2|r seconds for |cffffff10|r seconds.\n\nDeals |cffffff1|r% more damage for every |cffffff2|r% Health you have."
+      "description": "Steal an enemy's life force, dealing |cffffff11271|r Magic Damage and healing you for |cffffff35|r% of the damage inflicted every |cffffff2|r seconds for |cffffff10|r seconds.\n\nDeals |cffffff1|r% more damage for every |cffffff2|r% Health you have.",
+      "durationMs": 10000
     },
     {
       "abilityId": 40465,
       "name": "Scalding Rune",
-      "description": "Inscribe a rune of cosmic fire on the earth, which takes |cffffff2|r seconds to arm and lasts for |cffffff22|r seconds.\n\nWhen triggered, the rune blasts all enemies in the target area for |cffffff10250|r Flame Damage and an additional |cffffff12360|r Flame Damage over |cffffff24|r seconds."
+      "description": "Inscribe a rune of cosmic fire on the earth, which takes |cffffff2|r seconds to arm and lasts for |cffffff22|r seconds.\n\nWhen triggered, the rune blasts all enemies in the target area for |cffffff10250|r Flame Damage and an additional |cffffff12360|r Flame Damage over |cffffff24|r seconds.",
+      "durationMs": 22000
     },
     {
       "abilityId": 40457,
       "name": "Degeneration",
-      "description": "Bind an enemy with chaotic magic, dealing |cffffff19956|r Magic Damage over |cffffff22|r seconds.\n\nExcess magic spills out from them, granting you Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff22|r seconds."
+      "description": "Bind an enemy with chaotic magic, dealing |cffffff19956|r Magic Damage over |cffffff22|r seconds.\n\nExcess magic spills out from them, granting you Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff22|r seconds.",
+      "durationMs": 22000
     },
     {
       "abilityId": 76076,
       "name": "Summon Unstable Clannfear",
-      "description": "Command the powers of Oblivion to send a Daedric clannfear to fight at your side. The clannfear's headbutt deals |cffffff1502|r Physical Damage, while its tail spike hits nearby enemies for |cffffff1587|r Physical Damage after |cffffff1|r second.  \n\nOnce summoned, you can activate the clannfear's special ability for |cffffff3499|r Magicka, healing you for |cffffff6398|r and the clannfear for |cffffff3198|r.\n\nThe clannfear remains until killed or unsummoned."
+      "description": "Command the powers of Oblivion to send a Daedric clannfear to fight at your side. The clannfear's headbutt deals |cffffff1502|r Physical Damage, while its tail spike hits nearby enemies for |cffffff1587|r Physical Damage after |cffffff1|r second.  \n\nOnce summoned, you can activate the clannfear's special ability for |cffffff3499|r Magicka, healing you for |cffffff6398|r and the clannfear for |cffffff3198|r.\n\nThe clannfear remains until killed or unsummoned.",
+      "durationMs": 0
     },
     {
       "abilityId": 40478,
       "name": "Inner Light",
-      "description": "Conjure a mote of magelight, revealing stealthed and invisible enemies around you for |cffffff7|r seconds. Exposed enemies cannot return to stealth or invisibility for |cffffff4|r seconds. The light is so brilliant that you cannot conceal your presence while active.\n\nWhile slotted gain Major Savagery, increasing Critical Chance by |cffffff12|r% and your Max Magicka is increased by |cffffff5|r%."
+      "description": "Conjure a mote of magelight, revealing stealthed and invisible enemies around you for |cffffff7|r seconds. Exposed enemies cannot return to stealth or invisibility for |cffffff4|r seconds. The light is so brilliant that you cannot conceal your presence while active.\n\nWhile slotted gain Major Savagery, increasing Critical Chance by |cffffff12|r% and your Max Magicka is increased by |cffffff5|r%.",
+      "durationMs": 7000
     },
     {
       "abilityId": 40489,
       "name": "Ice Comet",
-      "description": "Call a comet down from the constellations to blast an enemy, dealing |cffffff20382|r Frost Damage to all enemies in the area, knocking them down and stunning them for |cffffff2|r seconds.\n\nOne second after impact, enemies in the target area take |cffffff6679|r Frost Damage every |cffffff1|r second for |cffffff12|r seconds.\n\nEnemies damaged by either portion have their Movement Speed reduced by |cffffff50|r% for |cffffff4|r seconds."
+      "description": "Call a comet down from the constellations to blast an enemy, dealing |cffffff20382|r Frost Damage to all enemies in the area, knocking them down and stunning them for |cffffff2|r seconds.\n\nOne second after impact, enemies in the target area take |cffffff6679|r Frost Damage every |cffffff1|r second for |cffffff12|r seconds.\n\nEnemies damaged by either portion have their Movement Speed reduced by |cffffff50|r% for |cffffff4|r seconds.",
+      "durationMs": 0
     }
   ],
   "pinned": {

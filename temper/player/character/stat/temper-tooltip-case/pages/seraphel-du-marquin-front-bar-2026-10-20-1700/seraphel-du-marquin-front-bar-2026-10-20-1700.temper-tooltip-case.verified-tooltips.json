@@ -128,32 +128,38 @@
     {
       "abilityId": 185842,
       "name": "Inspired Scholarship",
-      "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff2716|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%."
+      "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff2716|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
+      "durationMs": 30000
     },
     {
       "abilityId": 183006,
       "name": "Cephaliarch's Flail",
-      "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff5952|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff2609|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink."
+      "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff5952|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff2609|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink.",
+      "durationMs": 0
     },
     {
       "abilityId": 193398,
       "name": "Pragmatic Fatecarver",
-      "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff2697|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff9213|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage."
+      "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff2697|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff9213|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage.",
+      "durationMs": 0
     },
     {
       "abilityId": 61927,
       "name": "Relentless Focus",
-      "description": "When slotted on either bar, gain Major Savagery, increasing Critical Chance by |cffffff12|r%.\n\nYour Light and Heavy Attacks now generate a stack of Relentless Focus, up to |cffffff10|r times. Fully-charged Heavy Attacks grant two stacks.\n\nWhen at |cffffff4|r or more stacks, you can consume |cffffff4|r to fire a spectral arrow to deal |cffffff12144|r Disease Damage and heal for |cffffff34|r% of the damage dealt, if you are in melee range."
+      "description": "When slotted on either bar, gain Major Savagery, increasing Critical Chance by |cffffff12|r%.\n\nYour Light and Heavy Attacks now generate a stack of Relentless Focus, up to |cffffff10|r times. Fully-charged Heavy Attacks grant two stacks.\n\nWhen at |cffffff4|r or more stacks, you can consume |cffffff4|r to fire a spectral arrow to deal |cffffff12144|r Disease Damage and heal for |cffffff34|r% of the damage dealt, if you are in melee range.",
+      "durationMs": 0
     },
     {
       "abilityId": 61505,
       "name": "Echoing Vigor",
-      "description": "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff13608|r Health over |cffffff16|r seconds."
+      "description": "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff13608|r Health over |cffffff16|r seconds.",
+      "durationMs": 16000
     },
     {
       "abilityId": 36514,
       "name": "Soul Harvest",
-      "description": "Ravage an enemy with a spinning attack, dealing |cffffff10795|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate."
+      "description": "Ravage an enemy with a spinning attack, dealing |cffffff10795|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate.",
+      "durationMs": 0
     }
   ],
   "pinned": {

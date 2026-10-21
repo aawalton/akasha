@@ -107,32 +107,38 @@
     {
       "abilityId": 38788,
       "name": "Stampede",
-      "description": "Launch across the earth and smash an enemy, dealing |cffffff2545|r Physical Damage to them and all nearby enemies. This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing |cffffff551|r Physical Damage to all enemies in the area every |cffffff1|r second for |cffffff15|r seconds."
+      "description": "Launch across the earth and smash an enemy, dealing |cffffff2545|r Physical Damage to them and all nearby enemies. This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing |cffffff551|r Physical Damage to all enemies in the area every |cffffff1|r second for |cffffff15|r seconds.",
+      "durationMs": 15000
     },
     {
       "abilityId": 185839,
       "name": "Rune of Displacement",
-      "description": "Devise a discharging rune under an enemy. After |cffffff2|r seconds the rune pulses, pulling in foes between 2 to 10 meters and etching them with scrawled glyphs that deal |cffffff7800|r Magic Damage over |cffffff18|r seconds.\n\nAn ally near the initial target can activate the Runebreak synergy, dealing |cffffff4927|r Frost Damage to enemies within 7 meters."
+      "description": "Devise a discharging rune under an enemy. After |cffffff2|r seconds the rune pulses, pulling in foes between 2 to 10 meters and etching them with scrawled glyphs that deal |cffffff7800|r Magic Damage over |cffffff18|r seconds.\n\nAn ally near the initial target can activate the Runebreak synergy, dealing |cffffff4927|r Frost Damage to enemies within 7 meters.",
+      "durationMs": 18000
     },
     {
       "abilityId": 185842,
       "name": "Inspired Scholarship",
-      "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff1615|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%."
+      "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff1615|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
+      "durationMs": 30000
     },
     {
       "abilityId": 42138,
       "name": "Spiked Bone Shield",
-      "description": "Surround yourself with a whirlwind of bones, gaining a damage shield that absorbs up to |cffffff9828|r damage for |cffffff6|r seconds and returns |cffffff95|r% of direct damage absorbed back to the enemy. This ability scales off your Max Health.\n\nAn ally near you can activate the Bone Wall synergy, granting the ally and up to |cffffff5|r other allies a damage shield equal to |cffffff35|r% of their Max Health for |cffffff6|r seconds."
+      "description": "Surround yourself with a whirlwind of bones, gaining a damage shield that absorbs up to |cffffff9828|r damage for |cffffff6|r seconds and returns |cffffff95|r% of direct damage absorbed back to the enemy. This ability scales off your Max Health.\n\nAn ally near you can activate the Bone Wall synergy, granting the ally and up to |cffffff5|r other allies a damage shield equal to |cffffff35|r% of their Max Health for |cffffff6|r seconds.",
+      "durationMs": 6000
     },
     {
       "abilityId": 39298,
       "name": "Necrotic Orb",
-      "description": "Project a globe of annihilation that slowly floats forward for |cffffff10|r seconds, dealing |cffffff534|r Magic Damage every |cffffff1|r second to nearby enemies. \n\nAn ally near the globe can activate the Combustion synergy, causing the orb to explode for |cffffff4106|r Magic Damage to nearby enemies and restore |cffffff3960|r Magicka or Stamina to the ally, whichever maximum is higher."
+      "description": "Project a globe of annihilation that slowly floats forward for |cffffff10|r seconds, dealing |cffffff534|r Magic Damage every |cffffff1|r second to nearby enemies. \n\nAn ally near the globe can activate the Combustion synergy, causing the orb to explode for |cffffff4106|r Magic Damage to nearby enemies and restore |cffffff3960|r Magicka or Stamina to the ally, whichever maximum is higher.",
+      "durationMs": 10000
     },
     {
       "abilityId": 36514,
       "name": "Soul Harvest",
-      "description": "Ravage an enemy with a spinning attack, dealing |cffffff6423|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate."
+      "description": "Ravage an enemy with a spinning attack, dealing |cffffff6423|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate.",
+      "durationMs": 0
     }
   ],
   "pinned": {

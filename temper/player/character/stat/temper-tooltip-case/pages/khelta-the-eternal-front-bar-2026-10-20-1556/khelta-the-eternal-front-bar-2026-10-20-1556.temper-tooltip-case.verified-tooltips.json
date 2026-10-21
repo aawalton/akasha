@@ -106,32 +106,38 @@
     {
       "abilityId": 38754,
       "name": "Brawler",
-      "description": "Focus your strength into a mighty swing, dealing |cffffff2942|r Physical Damage to enemies in front of you.\n\nYou also gain a damage shield that absorbs |cffffff2826|r damage for |cffffff6|r seconds. Each enemy hit increases the damage shield's strength by |cffffff50|r%, up to |cffffff300|r%."
+      "description": "Focus your strength into a mighty swing, dealing |cffffff2942|r Physical Damage to enemies in front of you.\n\nYou also gain a damage shield that absorbs |cffffff2826|r damage for |cffffff6|r seconds. Each enemy hit increases the damage shield's strength by |cffffff50|r%, up to |cffffff300|r%.",
+      "durationMs": 0
     },
     {
       "abilityId": 183006,
       "name": "Cephaliarch's Flail",
-      "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff3276|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff1394|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink."
+      "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff3276|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff1394|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink.",
+      "durationMs": 0
     },
     {
       "abilityId": 193398,
       "name": "Pragmatic Fatecarver",
-      "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff1484|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff4927|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage."
+      "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff1484|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff4927|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage.",
+      "durationMs": 0
     },
     {
       "abilityId": 34843,
       "name": "Killer's Blade",
-      "description": "Thrust a caustic blade with lethal precision to stab an enemy, dealing |cffffff1856|r Disease Damage. Deals up to |cffffff400|r% more damage to enemies with less than |cffffff50|r% Health.\n\nHeals you for |cffffff3343|r if the enemy dies within |cffffff2|r seconds of being struck."
+      "description": "Thrust a caustic blade with lethal precision to stab an enemy, dealing |cffffff1856|r Disease Damage. Deals up to |cffffff400|r% more damage to enemies with less than |cffffff50|r% Health.\n\nHeals you for |cffffff3343|r if the enemy dies within |cffffff2|r seconds of being struck.",
+      "durationMs": 0
     },
     {
       "abilityId": 61505,
       "name": "Echoing Vigor",
-      "description": "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff7281|r Health over |cffffff16|r seconds."
+      "description": "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff7281|r Health over |cffffff16|r seconds.",
+      "durationMs": 16000
     },
     {
       "abilityId": 36514,
       "name": "Soul Harvest",
-      "description": "Ravage an enemy with a spinning attack, dealing |cffffff5942|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate."
+      "description": "Ravage an enemy with a spinning attack, dealing |cffffff5942|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate.",
+      "durationMs": 0
     }
   ],
   "pinned": {

@@ -155,32 +155,38 @@
     {
       "abilityId": 183047,
       "name": "Recuperative Treatise",
-      "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff5|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff1974|r Magic Damage, restores |cffffff600|r Magicka and Stamina, and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%."
+      "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff5|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff1974|r Magic Damage, restores |cffffff600|r Magicka and Stamina, and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
+      "durationMs": 30000
     },
     {
       "abilityId": 183006,
       "name": "Cephaliarch's Flail",
-      "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff3483|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff1463|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink."
+      "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff3483|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff1463|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink.",
+      "durationMs": 0
     },
     {
       "abilityId": 193398,
       "name": "Pragmatic Fatecarver",
-      "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff1578|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff5167|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage."
+      "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff1578|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff5167|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage.",
+      "durationMs": 0
     },
     {
       "abilityId": 61505,
       "name": "Echoing Vigor",
-      "description": "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff7632|r Health over |cffffff16|r seconds."
+      "description": "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff7632|r Health over |cffffff16|r seconds.",
+      "durationMs": 16000
     },
     {
       "abilityId": 25267,
       "name": "Concealed Weapon",
-      "description": "Slash an enemy, dealing |cffffff4343|r Magic Damage. \n\nIf you strike an enemy from their flank you set them Off Balance.\n\nWhen you leave Sneak or invisibility while in combat, increase your damage done with this ability by |cffffff10|r% for |cffffff15|r seconds.\n\nWhile slotted on either bar, you gain Minor Expedition, increasing your Movement Speed by |cffffff15|r%."
+      "description": "Slash an enemy, dealing |cffffff4343|r Magic Damage. \n\nIf you strike an enemy from their flank you set them Off Balance.\n\nWhen you leave Sneak or invisibility while in combat, increase your damage done with this ability by |cffffff10|r% for |cffffff15|r seconds.\n\nWhile slotted on either bar, you gain Minor Expedition, increasing your Movement Speed by |cffffff15|r%.",
+      "durationMs": 0
     },
     {
       "abilityId": 189837,
       "name": "The Tide King's Gaze",
-      "description": "Tear open the fabric of the Aurbis to unleash a scion of Hermaeus Mora. This being casts forth a beam that rends asunder reality for |cffffff8|r seconds that deals |cffffff1847|r Magic Damage to enemies within 5 meters every |cffffff0.5|r seconds. \n\nThe scion's beam automatically follows the initial target, and hunts for a new one within 8 meters if it is slain."
+      "description": "Tear open the fabric of the Aurbis to unleash a scion of Hermaeus Mora. This being casts forth a beam that rends asunder reality for |cffffff8|r seconds that deals |cffffff1847|r Magic Damage to enemies within 5 meters every |cffffff0.5|r seconds. \n\nThe scion's beam automatically follows the initial target, and hunts for a new one within 8 meters if it is slain.",
+      "durationMs": 8000
     }
   ],
   "pinned": {

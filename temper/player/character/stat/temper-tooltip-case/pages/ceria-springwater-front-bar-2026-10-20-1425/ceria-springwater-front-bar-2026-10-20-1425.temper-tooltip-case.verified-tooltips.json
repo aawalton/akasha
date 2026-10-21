@@ -128,32 +128,38 @@
     {
       "abilityId": 185842,
       "name": "Inspired Scholarship",
-      "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff1678|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%."
+      "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff1678|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
+      "durationMs": 30000
     },
     {
       "abilityId": 183006,
       "name": "Cephaliarch's Flail",
-      "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff3677|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff1553|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink."
+      "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff3677|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff1553|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink.",
+      "durationMs": 0
     },
     {
       "abilityId": 193398,
       "name": "Pragmatic Fatecarver",
-      "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff1665|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff5488|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage."
+      "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff1665|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff5488|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage.",
+      "durationMs": 0
     },
     {
       "abilityId": 61529,
       "name": "Stalwart Guard",
-      "description": "Create a lifebond between you and an allied player. While bonded, |cffffff30|r% of the damage they take is instead redistributed to you.\n\nYou and your bonded ally also gain Minor Force, increasing your Critical Damage by |cffffff10|r%.\n\nThe bond will remain until you recast the spell or move more than |cffffff15|r meters away from your ally."
+      "description": "Create a lifebond between you and an allied player. While bonded, |cffffff30|r% of the damage they take is instead redistributed to you.\n\nYou and your bonded ally also gain Minor Force, increasing your Critical Damage by |cffffff10|r%.\n\nThe bond will remain until you recast the spell or move more than |cffffff15|r meters away from your ally.",
+      "durationMs": 0
     },
     {
       "abilityId": 40226,
       "name": "Propelling Shield",
-      "description": "Create a protective sphere over your location that reduces damage taken from siege weapons by |cffffff50|r% for you and nearby allies.\n\nAlso increases the range of abilities with a range greater than |cffffff28|r meters by |cffffff7|r meters. Does not affect Leap, Move Position, and Pull abilities."
+      "description": "Create a protective sphere over your location that reduces damage taken from siege weapons by |cffffff50|r% for you and nearby allies.\n\nAlso increases the range of abilities with a range greater than |cffffff28|r meters by |cffffff7|r meters. Does not affect Leap, Move Position, and Pull abilities.",
+      "durationMs": 20000
     },
     {
       "abilityId": 36514,
       "name": "Soul Harvest",
-      "description": "Ravage an enemy with a spinning attack, dealing |cffffff6668|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate."
+      "description": "Ravage an enemy with a spinning attack, dealing |cffffff6668|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate.",
+      "durationMs": 0
     }
   ],
   "pinned": {

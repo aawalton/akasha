@@ -140,32 +140,38 @@
     {
       "abilityId": 185842,
       "name": "Inspired Scholarship",
-      "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff1733|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%."
+      "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff1733|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
+      "durationMs": 30000
     },
     {
       "abilityId": 183006,
       "name": "Cephaliarch's Flail",
-      "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff3797|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff1611|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink."
+      "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff3797|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff1611|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink.",
+      "durationMs": 0
     },
     {
       "abilityId": 193398,
       "name": "Pragmatic Fatecarver",
-      "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff1721|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff5689|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage."
+      "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff1721|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff5689|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage.",
+      "durationMs": 0
     },
     {
       "abilityId": 34843,
       "name": "Killer's Blade",
-      "description": "Thrust a caustic blade with lethal precision to stab an enemy, dealing |cffffff2152|r Disease Damage. Deals up to |cffffff400|r% more damage to enemies with less than |cffffff50|r% Health.\n\nHeals you for |cffffff3860|r if the enemy dies within |cffffff2|r seconds of being struck."
+      "description": "Thrust a caustic blade with lethal precision to stab an enemy, dealing |cffffff2152|r Disease Damage. Deals up to |cffffff400|r% more damage to enemies with less than |cffffff50|r% Health.\n\nHeals you for |cffffff3860|r if the enemy dies within |cffffff2|r seconds of being struck.",
+      "durationMs": 0
     },
     {
       "abilityId": 61507,
       "name": "Resolving Vigor",
-      "description": "Let loose a battle cry, instilling yourself with resolve and healing for |cffffff8682|r Health over |cffffff5|r seconds.\n\nAfter casting you gain Minor Resolve, increasing your Physical and Spell Resistance by |cffffff2974|r, for |cffffff20|r seconds."
+      "description": "Let loose a battle cry, instilling yourself with resolve and healing for |cffffff8682|r Health over |cffffff5|r seconds.\n\nAfter casting you gain Minor Resolve, increasing your Physical and Spell Resistance by |cffffff2974|r, for |cffffff20|r seconds.",
+      "durationMs": 5000
     },
     {
       "abilityId": 36514,
       "name": "Soul Harvest",
-      "description": "Ravage an enemy with a spinning attack, dealing |cffffff6888|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate."
+      "description": "Ravage an enemy with a spinning attack, dealing |cffffff6888|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate.",
+      "durationMs": 0
     }
   ],
   "pinned": {

@@ -114,32 +114,38 @@
     {
       "abilityId": 33375,
       "name": "Blur",
-      "description": "Surround yourself in a phantasmic aura to gain Major Evasion, reducing damage from area attacks by |cffffff20|r% for |cffffff22|r seconds.\n\nWhile active, taking direct damage reduces the cost of your next Roll Dodge by |cffffff10|r%, up to a maximum of |cffffff100|r%. This effect can stack up to once every half second."
+      "description": "Surround yourself in a phantasmic aura to gain Major Evasion, reducing damage from area attacks by |cffffff20|r% for |cffffff22|r seconds.\n\nWhile active, taking direct damage reduces the cost of your next Roll Dodge by |cffffff10|r%, up to a maximum of |cffffff100|r%. This effect can stack up to once every half second.",
+      "durationMs": 22000
     },
     {
       "abilityId": 25377,
       "name": "Dark Cloak",
-      "description": "Shroud yourself in protective shadow to heal for |cffffff3917|r Health every |cffffff1|r second, over |cffffff3|r seconds, increasing by an additional |cffffff150|r% while Bracing. This portion of the ability scales off your Max Health.\n\nWhile slotted on either bar, you gain Minor Protection, reducing your damage taken by |cffffff5|r%."
+      "description": "Shroud yourself in protective shadow to heal for |cffffff3917|r Health every |cffffff1|r second, over |cffffff3|r seconds, increasing by an additional |cffffff150|r% while Bracing. This portion of the ability scales off your Max Health.\n\nWhile slotted on either bar, you gain Minor Protection, reducing your damage taken by |cffffff5|r%.",
+      "durationMs": 3000
     },
     {
       "abilityId": 33195,
       "name": "Path of Darkness",
-      "description": "Create a corridor of shadows for |cffffff12|r seconds, granting you and allies in the area Major Expedition, increasing Movement Speed by |cffffff30|r%. Effect persists for |cffffff4|r seconds after leaving the path."
+      "description": "Create a corridor of shadows for |cffffff12|r seconds, granting you and allies in the area Major Expedition, increasing Movement Speed by |cffffff30|r%. Effect persists for |cffffff4|r seconds after leaving the path.",
+      "durationMs": 12000
     },
     {
       "abilityId": 25352,
       "name": "Aspect of Terror",
-      "description": "Embody a dark spirit to terrify nearby enemies, causing them to cower in fear for |cffffff4|r seconds and be afflicted with Major Cowardice for |cffffff12|r seconds, reducing their Weapon and Spell Damage by |cffffff430|r."
+      "description": "Embody a dark spirit to terrify nearby enemies, causing them to cower in fear for |cffffff4|r seconds and be afflicted with Major Cowardice for |cffffff12|r seconds, reducing their Weapon and Spell Damage by |cffffff430|r.",
+      "durationMs": 4000
     },
     {
       "abilityId": 33211,
       "name": "Summon Shade",
-      "description": "Summon a shade version of yourself to attack an enemy and fight at your side for |cffffff22|r seconds. \n\nThe shade slashes at an enemy, dealing |cffffff829|r Magic Damage once every |cffffff2|r seconds, and inflicts Minor Maim for |cffffff4|r seconds, reducing the enemy's damage done by |cffffff5|r%."
+      "description": "Summon a shade version of yourself to attack an enemy and fight at your side for |cffffff22|r seconds. \n\nThe shade slashes at an enemy, dealing |cffffff829|r Magic Damage once every |cffffff2|r seconds, and inflicts Minor Maim for |cffffff4|r seconds, reducing the enemy's damage done by |cffffff5|r%.",
+      "durationMs": 22000
     },
     {
       "abilityId": 25411,
       "name": "Consuming Darkness",
-      "description": "Conjure a ring of shadow, reducing the Movement Speed of enemies by |cffffff70|r% and granting you and your allies Major Protection, reducing your damage taken by |cffffff10|r%.\n\nAllies in the area can activate the Hidden Refresh synergy, granting them invisibility, increasing their Movement Speed by |cffffff70|r%, and healing them for |cffffff16285|r Health over |cffffff4|r seconds."
+      "description": "Conjure a ring of shadow, reducing the Movement Speed of enemies by |cffffff70|r% and granting you and your allies Major Protection, reducing your damage taken by |cffffff10|r%.\n\nAllies in the area can activate the Hidden Refresh synergy, granting them invisibility, increasing their Movement Speed by |cffffff70|r%, and healing them for |cffffff16285|r Health over |cffffff4|r seconds.",
+      "durationMs": 15000
     }
   ],
   "pinned": {

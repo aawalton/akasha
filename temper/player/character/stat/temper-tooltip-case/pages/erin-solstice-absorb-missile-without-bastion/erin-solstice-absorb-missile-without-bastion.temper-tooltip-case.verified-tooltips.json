@@ -68,7 +68,8 @@
     {
       "abilityId": 38317,
       "name": "Absorb Missile",
-      "description": "Bolster your defenses, gaining a damage shield that absorbs up to |cffffff5106|r damage for |cffffff6|r seconds.\n\nWhile the shield persists, you are healed for |cffffff2755|r Health the next time a harmful direct damage projectile hits you. This effect can occur once per cast.\n\nThis ability scales off your Max Health."
+      "description": "Bolster your defenses, gaining a damage shield that absorbs up to |cffffff5106|r damage for |cffffff6|r seconds.\n\nWhile the shield persists, you are healed for |cffffff2755|r Health the next time a harmful direct damage projectile hits you. This effect can occur once per cast.\n\nThis ability scales off your Max Health.",
+      "durationMs": 6000
     }
   ],
   "pinned": {

@@ -148,7 +148,8 @@
     {
       "abilityId": 39076,
       "name": "Werewolf Berserker",
-      "description": "Transform into a berserk beast, fearing nearby enemies for |cffffff3|r seconds.\n\nWhile transformed, you gain Major Berserk and your Light Attacks and Heavy Attacks apply a bleed for |cffffff4492|r Bleed Damage over |cffffff4|r seconds, or |cffffff2246|r Bleed Damage after |cffffff1|r second against players.\n\nWhile transformed and in combat, abilities generate Fury. When you have |cffffff1000|r, this ability becomes Rampage, which increases your damage done, Movement Speed, and removes the cost of Werewolf abilities for |cffffff20|r seconds.\n\nWhile slotted, your Stamina Recovery is increased by |cffffff15|r%."
+      "description": "Transform into a berserk beast, fearing nearby enemies for |cffffff3|r seconds.\n\nWhile transformed, you gain Major Berserk and your Light Attacks and Heavy Attacks apply a bleed for |cffffff4492|r Bleed Damage over |cffffff4|r seconds, or |cffffff2246|r Bleed Damage after |cffffff1|r second against players.\n\nWhile transformed and in combat, abilities generate Fury. When you have |cffffff1000|r, this ability becomes Rampage, which increases your damage done, Movement Speed, and removes the cost of Werewolf abilities for |cffffff20|r seconds.\n\nWhile slotted, your Stamina Recovery is increased by |cffffff15|r%.",
+      "durationMs": 0
     }
   ],
   "pinned": {

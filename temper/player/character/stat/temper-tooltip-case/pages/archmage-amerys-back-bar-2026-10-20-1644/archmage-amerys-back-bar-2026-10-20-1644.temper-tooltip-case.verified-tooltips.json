@@ -140,12 +140,14 @@
     {
       "abilityId": 108840,
       "name": "Summon Unstable Familiar",
-      "description": "Command the powers of Oblivion to send a Daedric familiar to fight at your side. The familiar's attacks deal |cffffff1301|r Shock Damage.\n\nOnce summoned, you can activate the familiar's special ability for |cffffff3405|r Magicka, dealing |cffffff1577|r Shock Damage every |cffffff2|r seconds for |cffffff20|r seconds to enemies near them.\n\nThe familiar remains until killed or unsummoned."
+      "description": "Command the powers of Oblivion to send a Daedric familiar to fight at your side. The familiar's attacks deal |cffffff1301|r Shock Damage.\n\nOnce summoned, you can activate the familiar's special ability for |cffffff3405|r Magicka, dealing |cffffff1577|r Shock Damage every |cffffff2|r seconds for |cffffff20|r seconds to enemies near them.\n\nThe familiar remains until killed or unsummoned.",
+      "durationMs": 0
     },
     {
       "abilityId": 34835,
       "name": "Swallow Soul",
-      "description": "Steal an enemy's life force, dealing |cffffff10090|r Magic Damage and healing you for |cffffff33|r% of the damage inflicted every |cffffff2|r seconds for |cffffff10|r seconds.\n\nDeals |cffffff1|r% more damage for every |cffffff2|r% Health you have."
+      "description": "Steal an enemy's life force, dealing |cffffff10090|r Magic Damage and healing you for |cffffff33|r% of the damage inflicted every |cffffff2|r seconds for |cffffff10|r seconds.\n\nDeals |cffffff1|r% more damage for every |cffffff2|r% Health you have.",
+      "durationMs": 10000
     }
   ],
   "pinned": {

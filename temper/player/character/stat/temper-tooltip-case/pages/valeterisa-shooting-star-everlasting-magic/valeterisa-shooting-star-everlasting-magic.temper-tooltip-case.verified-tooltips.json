@@ -191,32 +191,38 @@
     {
       "abilityId": 34838,
       "name": "Funnel Health",
-      "description": "Steal an enemy's life force, dealing |cffffff14375|r Magic Damage and healing you or |cffffff3|r other nearby allies for |cffffff35|r% of the damage inflicted every |cffffff2|r seconds for |cffffff10|r seconds.\n\nDeals |cffffff1|r% more damage for every |cffffff2|r% Health you have."
+      "description": "Steal an enemy's life force, dealing |cffffff14375|r Magic Damage and healing you or |cffffff3|r other nearby allies for |cffffff35|r% of the damage inflicted every |cffffff2|r seconds for |cffffff10|r seconds.\n\nDeals |cffffff1|r% more damage for every |cffffff2|r% Health you have.",
+      "durationMs": 10000
     },
     {
       "abilityId": 77369,
       "name": "Twilight Matriarch Restore",
-      "description": "Call on Azura to send a twilight matriarch to fight at your side. The twilight matriarch's zap deals |cffffff2319|r Shock Damage and its kick deals |cffffff2319|r Shock Damage.\n\nOnce summoned, you can activate the twilight matriarch's special ability for |cffffff3580|r Magicka, causing it to heal |cffffff2|r friendly targets for |cffffff22435|r and itself for |cffffff11217|r.\n\nThe twilight matriarch remains until killed or unsummoned."
+      "description": "Call on Azura to send a twilight matriarch to fight at your side. The twilight matriarch's zap deals |cffffff2319|r Shock Damage and its kick deals |cffffff2319|r Shock Damage.\n\nOnce summoned, you can activate the twilight matriarch's special ability for |cffffff3580|r Magicka, causing it to heal |cffffff2|r friendly targets for |cffffff22435|r and itself for |cffffff11217|r.\n\nThe twilight matriarch remains until killed or unsummoned.",
+      "durationMs": 0
     },
     {
       "abilityId": 31642,
       "name": "Equilibrium",
-      "description": "Barter with Oblivion to trade vitality for power, sacrificing your Health in exchange for |cffffff3000|r Magicka.\n\nThe exchange reduces your healing done and damage shield strength by |cffffff50|r% for |cffffff4|r seconds."
+      "description": "Barter with Oblivion to trade vitality for power, sacrificing your Health in exchange for |cffffff3000|r Magicka.\n\nThe exchange reduces your healing done and damage shield strength by |cffffff50|r% for |cffffff4|r seconds.",
+      "durationMs": 0
     },
     {
       "abilityId": 40457,
       "name": "Degeneration",
-      "description": "Bind an enemy with chaotic magic, dealing |cffffff31908|r Magic Damage over |cffffff22|r seconds.\n\nExcess magic spills out from them, granting you Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff22|r seconds."
+      "description": "Bind an enemy with chaotic magic, dealing |cffffff31908|r Magic Damage over |cffffff22|r seconds.\n\nExcess magic spills out from them, granting you Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff22|r seconds.",
+      "durationMs": 22000
     },
     {
       "abilityId": 40478,
       "name": "Inner Light",
-      "description": "Conjure a mote of magelight, revealing stealthed and invisible enemies around you for |cffffff7|r seconds. Exposed enemies cannot return to stealth or invisibility for |cffffff4|r seconds. The light is so brilliant that you cannot conceal your presence while active.\n\nWhile slotted gain Major Savagery, increasing Critical Chance by |cffffff12|r% and your Max Magicka is increased by |cffffff5|r%."
+      "description": "Conjure a mote of magelight, revealing stealthed and invisible enemies around you for |cffffff7|r seconds. Exposed enemies cannot return to stealth or invisibility for |cffffff4|r seconds. The light is so brilliant that you cannot conceal your presence while active.\n\nWhile slotted gain Major Savagery, increasing Critical Chance by |cffffff12|r% and your Max Magicka is increased by |cffffff5|r%.",
+      "durationMs": 7000
     },
     {
       "abilityId": 40493,
       "name": "Shooting Star",
-      "description": "Call a comet down from the constellations to blast an enemy, dealing |cffffff28525|r Flame Damage to all enemies in the area, knocking them down, and stunning them for |cffffff2|r seconds.\n\nOne second after impact, enemies in the target area take |cffffff7731|r Flame Damage every |cffffff1|r second for |cffffff12|r seconds.\n\nYou generate |cffffff10|r Ultimate for each enemy hit by the initial blast, up to 6 times."
+      "description": "Call a comet down from the constellations to blast an enemy, dealing |cffffff28525|r Flame Damage to all enemies in the area, knocking them down, and stunning them for |cffffff2|r seconds.\n\nOne second after impact, enemies in the target area take |cffffff7731|r Flame Damage every |cffffff1|r second for |cffffff12|r seconds.\n\nYou generate |cffffff10|r Ultimate for each enemy hit by the initial blast, up to 6 times.",
+      "durationMs": 0
     }
   ],
   "pinned": {

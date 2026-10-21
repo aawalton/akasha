@@ -147,32 +147,38 @@
     {
       "abilityId": 185842,
       "name": "Inspired Scholarship",
-      "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3289|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%."
+      "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3289|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
+      "durationMs": 30000
     },
     {
       "abilityId": 183006,
       "name": "Cephaliarch's Flail",
-      "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff7204|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff3194|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink."
+      "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff7204|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff3194|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink.",
+      "durationMs": 0
     },
     {
       "abilityId": 193398,
       "name": "Pragmatic Fatecarver",
-      "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff3266|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff8980|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage."
+      "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff3266|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff8980|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage.",
+      "durationMs": 0
     },
     {
       "abilityId": 34843,
       "name": "Killer's Blade",
-      "description": "Thrust a caustic blade with lethal precision to stab an enemy, dealing |cffffff4082|r Disease Damage. Deals up to |cffffff400|r% more damage to enemies with less than |cffffff50|r% Health.\n\nHeals you for |cffffff7651|r if the enemy dies within |cffffff2|r seconds of being struck."
+      "description": "Thrust a caustic blade with lethal precision to stab an enemy, dealing |cffffff4082|r Disease Damage. Deals up to |cffffff400|r% more damage to enemies with less than |cffffff50|r% Health.\n\nHeals you for |cffffff7651|r if the enemy dies within |cffffff2|r seconds of being struck.",
+      "durationMs": 0
     },
     {
       "abilityId": 61927,
       "name": "Relentless Focus",
-      "description": "When slotted on either bar, gain Major Savagery, increasing Critical Chance by |cffffff12|r%.\n\nYour Light and Heavy Attacks now generate a stack of Relentless Focus, up to |cffffff10|r times. Fully-charged Heavy Attacks grant two stacks.\n\nWhen at |cffffff4|r or more stacks, you can consume |cffffff4|r to fire a spectral arrow to deal |cffffff14701|r Disease Damage and heal for |cffffff34|r% of the damage dealt, if you are in melee range."
+      "description": "When slotted on either bar, gain Major Savagery, increasing Critical Chance by |cffffff12|r%.\n\nYour Light and Heavy Attacks now generate a stack of Relentless Focus, up to |cffffff10|r times. Fully-charged Heavy Attacks grant two stacks.\n\nWhen at |cffffff4|r or more stacks, you can consume |cffffff4|r to fire a spectral arrow to deal |cffffff14701|r Disease Damage and heal for |cffffff34|r% of the damage dealt, if you are in melee range.",
+      "durationMs": 0
     },
     {
       "abilityId": 189837,
       "name": "The Tide King's Gaze",
-      "description": "Tear open the fabric of the Aurbis to unleash a scion of Hermaeus Mora. This being casts forth a beam that rends asunder reality for |cffffff8|r seconds that deals |cffffff3819|r Magic Damage to enemies within 5 meters every |cffffff0.5|r seconds. \n\nThe scion's beam automatically follows the initial target, and hunts for a new one within 8 meters if it is slain."
+      "description": "Tear open the fabric of the Aurbis to unleash a scion of Hermaeus Mora. This being casts forth a beam that rends asunder reality for |cffffff8|r seconds that deals |cffffff3819|r Magic Damage to enemies within 5 meters every |cffffff0.5|r seconds. \n\nThe scion's beam automatically follows the initial target, and hunts for a new one within 8 meters if it is slain.",
+      "durationMs": 8000
     }
   ],
   "pinned": {
