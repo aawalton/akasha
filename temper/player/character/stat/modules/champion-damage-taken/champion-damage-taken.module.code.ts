@@ -17,13 +17,13 @@ type Star = {
   readonly effects?: readonly { readonly metric: string; readonly value: number }[]
 }
 
-export type StarSpent = {
+type StarSpent = {
   readonly championSkillId: number
   readonly points: number
   readonly maxPoints: number
 }
 
-export type DamageTakenByType = { readonly martial: number; readonly magical: number }
+type DamageTakenByType = { readonly martial: number; readonly magical: number }
 
 export const EVERY = `${temperMetric.slug}/${damageTaken.slug}`
 
