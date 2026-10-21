@@ -18,6 +18,15 @@ export const staleSheetRows = {
         "Every other stat a reading in such a window holds agrees with that reading's build.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A Merciless Charge reading from before the onset fix may hold a refresh's power or none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A missing damage-done row of such a reading is stale.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A stale row is named by its character, a span of capture seconds and its stats.",
     },
@@ -31,5 +40,5 @@ export const staleSheetRows = {
     },
   ],
   createdAt: "2026-10-21T11:42:02.588Z",
-  updatedAt: "2026-10-21T11:42:02.588Z",
+  updatedAt: "2026-10-21T15:53:37.770Z",
 } as const satisfies Module
