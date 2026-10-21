@@ -30,6 +30,11 @@ export const setSource = {
         "A line adding Weapon and Spell Damage or Critical Chance takes the mean over pieces instead.",
     },
     {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "Alan approved that split provisionally, and any reading it misses reopens the split.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement:
         "A set at a CP160 quality's worth level has that quality's share of each bonus line.",
@@ -53,5 +58,5 @@ export const setSource = {
     },
   ],
   createdAt: "2026-09-02T10:22:19.313Z",
-  updatedAt: "2026-10-20T20:06:47.024Z",
+  updatedAt: "2026-10-21T01:12:16.340Z",
 } as const satisfies Module
