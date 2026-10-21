@@ -4,8 +4,7 @@ export const charactersActiveBuffs = {
   id: "01a15ca2-dc2f-7ddf-966d-ef4024e03d35",
   type: "page-type/module",
   slug: "characters-active-buffs",
-  definition:
-    "the buffs on the player, each with the Weapon and Spell Damage held as it last began",
+  definition: "the buffs on the player, each with the Weapon and Spell Damage held as it began",
   code: "ts",
   decisions: [
     {
@@ -15,7 +14,11 @@ export const charactersActiveBuffs = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A buff begins when it is gained and again each time it is refreshed.",
+      statement: "A buff begins when it is gained, and a refresh keeps the power it began with.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A buff first seen refreshed begins at that refresh.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -32,5 +35,5 @@ export const charactersActiveBuffs = {
     },
   ],
   createdAt: "2026-10-21T04:05:39.502Z",
-  updatedAt: "2026-10-21T04:05:39.502Z",
+  updatedAt: "2026-10-21T10:51:53.602Z",
 } as const satisfies Module

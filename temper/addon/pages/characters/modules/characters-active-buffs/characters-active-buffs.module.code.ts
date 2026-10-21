@@ -26,6 +26,7 @@ export function noteBuffOnset(changeType: number, abilityId: number): undefined 
     return
   }
   if (changeType !== EFFECT_RESULT_GAINED && changeType !== EFFECT_RESULT_UPDATED) return
+  if (changeType === EFFECT_RESULT_UPDATED && onsets.has(abilityId)) return
   onsets.set(abilityId, {
     weapon: GetPlayerStat(STAT_POWER, STAT_BONUS_OPTION_APPLY_BONUS),
     spell: GetPlayerStat(STAT_SPELL_POWER, STAT_BONUS_OPTION_APPLY_BONUS),
