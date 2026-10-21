@@ -1,0 +1,196 @@
+{
+  "character": "nirayicel",
+  "buildHash": "ATQNLMUAAIBhxRNCyJtAEIBCyJtAEIBC5gtuULJC5gtuULJC5gtuULJC5gtuULJC5gtuULIQlKtuULJBHb1AEIAQQbtuULImJTHbcoWURBMdbcoWVu4sGXp9K_KyM7yW7rQGnEEA3ddEoG-3AQNgIk4dcnwfAdoWPbia4XTbKyMEI911WUdTaccICU0IiMiAAMzICIiIyIgIyI1IiIgAjIjNCIAIiQgMiJAMARDIiIwOiMjQgOgIiImQzMjQgAAA4IiAiIkozBCIiIjAjoAAAADUixJwyseTLLmTZ2fRp1a9s-hRpU6niqAAAABs8fXL0DFkhaImyN07SJUyd-oUwVUJXHWAAAAAbAlSwIwDCBQxk0HECTZwULGDRw8gRJHSYABAZBxiQNY",
+  "reading": "01a15bb3-7f9e-7bf8-a5e2-92e64b6e0a18",
+  "readingsAgreeing": 261,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "bar": "primary-weapon-bar",
+  "enchant": "Deals |cffffff2534|r Shock Damage.",
+  "pinned": [
+    {
+      "fight": 1792536255,
+      "ms": 5800,
+      "abilityId": 17899,
+      "target": "Minotaur",
+      "hit": 3060,
+      "overflow": 0,
+      "targetEffects": [
+        183008
+      ],
+      "debuffs": [
+        "abyssal-ink"
+      ]
+    },
+    {
+      "fight": 1792536362,
+      "ms": 3482,
+      "abilityId": 17899,
+      "target": "Minotaur",
+      "hit": 3060,
+      "overflow": 0,
+      "targetEffects": [
+        88401,
+        178118,
+        183008
+      ],
+      "debuffs": [
+        "abyssal-ink"
+      ]
+    },
+    {
+      "fight": 1792536369,
+      "ms": 1,
+      "abilityId": 17899,
+      "target": "Minotaur",
+      "hit": 2914,
+      "overflow": 0,
+      "targetEffects": [],
+      "debuffs": []
+    },
+    {
+      "fight": 1792536382,
+      "ms": 1871,
+      "abilityId": 17899,
+      "target": "Exalted Cleric",
+      "hit": 3060,
+      "overflow": 0,
+      "targetEffects": [
+        183008,
+        183009
+      ],
+      "debuffs": [
+        "abyssal-ink"
+      ]
+    },
+    {
+      "fight": 1792536559,
+      "ms": 1,
+      "abilityId": 17899,
+      "target": "The Black Dragon",
+      "hit": 2914,
+      "overflow": 0,
+      "targetEffects": [],
+      "debuffs": []
+    },
+    {
+      "fight": 1792536776,
+      "ms": 661,
+      "abilityId": 17899,
+      "target": "Wamasu Matriarch",
+      "hit": 3060,
+      "overflow": 0,
+      "targetEffects": [
+        183008
+      ],
+      "debuffs": [
+        "abyssal-ink"
+      ]
+    },
+    {
+      "fight": 1792536823,
+      "ms": 6942,
+      "abilityId": 17899,
+      "target": "Primate's Crusader",
+      "hit": 3060,
+      "overflow": 0,
+      "targetEffects": [
+        183008,
+        183009
+      ],
+      "debuffs": [
+        "abyssal-ink"
+      ]
+    },
+    {
+      "fight": 1792536853,
+      "ms": 1756,
+      "abilityId": 17899,
+      "target": "Primate's Mender",
+      "hit": 2914,
+      "overflow": 0,
+      "targetEffects": [],
+      "debuffs": []
+    },
+    {
+      "fight": 1792537106,
+      "ms": 195872,
+      "abilityId": 17899,
+      "target": "Skaafin Wretch",
+      "hit": 2914,
+      "overflow": 0,
+      "targetEffects": [],
+      "debuffs": []
+    },
+    {
+      "fight": 1792537853,
+      "ms": 1155,
+      "abilityId": 17899,
+      "target": "Curate Erydno",
+      "hit": 2914,
+      "overflow": 0,
+      "targetEffects": [],
+      "debuffs": []
+    },
+    {
+      "fight": 1792538509,
+      "ms": 6570,
+      "abilityId": 17899,
+      "target": "Gulakhan Yus-Zashten",
+      "hit": 3060,
+      "overflow": 0,
+      "targetEffects": [
+        183008
+      ],
+      "debuffs": [
+        "abyssal-ink"
+      ]
+    },
+    {
+      "fight": 1792538651,
+      "ms": 7972,
+      "abilityId": 17899,
+      "target": "Hunger",
+      "hit": 2914,
+      "overflow": 0,
+      "targetEffects": [],
+      "debuffs": []
+    },
+    {
+      "fight": 1792539533,
+      "ms": 1388,
+      "abilityId": 17899,
+      "target": "Chodala",
+      "hit": 2914,
+      "overflow": 0,
+      "targetEffects": [],
+      "debuffs": []
+    },
+    {
+      "fight": 1792539811,
+      "ms": 1892,
+      "abilityId": 17899,
+      "target": "Looter Cutthroat",
+      "hit": 3060,
+      "overflow": 0,
+      "targetEffects": [
+        183008,
+        183009
+      ],
+      "debuffs": [
+        "abyssal-ink"
+      ]
+    }
+  ],
+  "unexplained": [
+    {
+      "fight": 1792539477,
+      "ms": 1581,
+      "abilityId": 17899,
+      "target": "Skaafin Wretch",
+      "hit": 2213,
+      "overflow": 0,
+      "targetEffects": [],
+      "debuffs": []
+    }
+  ]
+}
