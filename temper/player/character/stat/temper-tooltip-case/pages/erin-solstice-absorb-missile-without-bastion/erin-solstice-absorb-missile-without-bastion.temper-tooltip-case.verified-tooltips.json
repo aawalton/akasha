@@ -1,0 +1,75 @@
+{
+  "character": "erin-solstice",
+  "bar": "backup-weapon-bar",
+  "capturedAt": 1792501968,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "stats": {
+    "critical-rating-spell": 2181,
+    "critical-rating-weapon": 2181,
+    "health-maximum": 16477,
+    "health-recovery": 309,
+    "magicka-maximum": 12434,
+    "magicka-recovery": 514,
+    "penetration-physical": 0,
+    "penetration-spell": 0,
+    "power-spell": 2335,
+    "power-weapon": 2335,
+    "resistance-critical": 1320,
+    "resistance-physical": 1720,
+    "resistance-spell": 1720,
+    "stamina-maximum": 12434,
+    "stamina-recovery": 617
+  },
+  "passives": [
+    "antiquarian-insight",
+    "aspect-improvement",
+    "augur",
+    "blade-of-woe",
+    "diplomat",
+    "engraver",
+    "finders-keepers",
+    "hand-brush",
+    "heavy-armor-bonuses",
+    "heavy-armor-penalties",
+    "light-armor-bonuses",
+    "light-armor-penalties",
+    "medium-armor-bonuses",
+    "metalworking",
+    "potency-improvement",
+    "recipe-improvement",
+    "recipe-quality",
+    "scry",
+    "see-the-unseen",
+    "solvent-proficiency",
+    "tailoring",
+    "woodworking"
+  ],
+  "stars": [
+    "discipline-artisan",
+    "discipline-artisan",
+    "discipline-artisan",
+    "discipline-artisan",
+    "discipline-artisan",
+    "discipline-artisan",
+    "discipline-artisan",
+    "discipline-artisan",
+    "discipline-artisan",
+    "discipline-artisan",
+    "discipline-artisan",
+    "discipline-artisan"
+  ],
+  "skills": [
+    {
+      "abilityId": 38317,
+      "name": "Absorb Missile",
+      "description": "Bolster your defenses, gaining a damage shield that absorbs up to |cffffff5106|r damage for |cffffff6|r seconds.\n\nWhile the shield persists, you are healed for |cffffff2755|r Health the next time a harmful direct damage projectile hits you. This effect can occur once per cast.\n\nThis ability scales off your Max Health."
+    }
+  ],
+  "pinned": {
+    "38317 <<1>>": 5106,
+    "38317 <<2>>": 6
+  },
+  "gaps": {
+    "38317 <<3>>": 2755
+  }
+}
