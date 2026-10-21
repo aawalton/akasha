@@ -15,6 +15,19 @@ export const FORMULA: FormulaNode = {
           value: 1,
         },
         {
+          type: "metric-refs",
+          metricIds: ["block-cost-reduction"],
+        },
+      ],
+    },
+    {
+      type: "add",
+      operands: [
+        {
+          type: "constant",
+          value: 1,
+        },
+        {
           type: "sum",
           effectType: "fractional-change",
         },
