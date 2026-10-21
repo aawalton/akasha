@@ -19,6 +19,7 @@ import {
   newestOf,
   stampOf,
 } from "akasha/temper/player/character/stat/modules/reading-line-picking/reading-line-picking.module.code.ts"
+import { isStale } from "akasha/temper/player/character/stat/modules/stale-sheet-rows/stale-sheet-rows.module.code.ts"
 import {
   elderDragonHeldOf,
   pinnedCaseOf,
@@ -64,11 +65,19 @@ function pageFor(slug: string, title: string, typesAt: string): string {
   ].join("\n")
 }
 
-function settledOf(
-  stats: Record<string, number>,
-  fete: Parameters<typeof isUnsettled>[1]
-): Record<string, number> {
-  return Object.fromEntries(Object.entries(stats).filter(([stat]) => !isUnsettled(stat, fete)))
+type Settling = {
+  readonly character: string
+  readonly capturedAt: number
+  readonly fete: Parameters<typeof isUnsettled>[1]
+}
+
+function settledOf(stats: Record<string, number>, read: Settling): Record<string, number> {
+  const { character, capturedAt, fete } = read
+  return Object.fromEntries(
+    Object.entries(stats).filter(
+      ([stat]) => !isUnsettled(stat, fete) && !isStale(character, capturedAt, stat)
+    )
+  )
 }
 
 export function pinStatCaseCommand(world: World, given: Asked, pin: Pin): Answer {
@@ -134,7 +143,10 @@ export function pinStatCaseCommand(world: World, given: Asked, pin: Pin): Answer
     ...elderDragonHeldOf(reading),
     activeBuffs: reading.activeBuffs ?? [],
     championPoints: reading.championPoints ?? [],
-    stats: settledOf({ ...reading.stats, ...sheetStatsOf(reading.advancedSheet) }, reading.fete),
+    stats: settledOf(
+      { ...reading.stats, ...sheetStatsOf(reading.advancedSheet) },
+      { character, capturedAt: reading.capturedAt, fete: reading.fete }
+    ),
   })
   const title = `${character}, ${named} bar, read ${stampOf(reading.capturedAt)}`
   return stating([

@@ -72,7 +72,8 @@ export const pinStatCase = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stat stat-compare calls unsettled is neither pinned nor kept as a gap.",
+      statement:
+        "A stat stat-compare calls unsettled or stale is neither pinned nor kept as a gap.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -83,5 +84,5 @@ export const pinStatCase = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-10-14T17:23:45.028Z",
-  updatedAt: "2026-10-20T17:27:15.270Z",
+  updatedAt: "2026-10-21T11:43:10.851Z",
 } as const satisfies ChangeAgent
