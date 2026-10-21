@@ -23,7 +23,7 @@ export const nimueCorrectFormulas = {
       statement:
         "Every combat formula has appropriate verified test cases and is believed to be correct.",
       workingMemory:
-        "Fights land in each character's fights.jsonl, with the build hash where the reader saw the fight live.",
+        "Fights land in each character's fights.jsonl, with the build hash where the reader saw the fight live. Charged weapons and Bloodthirsty jewelry move no sheet stat, so a combat case pins each at every quality.",
     },
     {
       statement: "Every game mechanic that affects combat has been accounted for.",
@@ -46,5 +46,5 @@ export const nimueCorrectFormulas = {
     "A calculation change lands with the stat-case pins it closes, after the stat-case test passes on both.",
   ],
   createdAt: "2026-10-19T19:28:43.842Z",
-  updatedAt: "2026-10-21T01:19:57.827Z",
+  updatedAt: "2026-10-21T15:37:05.030Z",
 } as const satisfies Initiative

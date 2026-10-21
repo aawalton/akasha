@@ -20,10 +20,9 @@ export const nimueItemLevelCases = {
         "Sturdy moves block cost, and erin-solstice-normal-sturdy-shield pins it at normal. No landed reading wears Sturdy above normal.",
     },
     {
-      statement:
-        "Nirnhoned weapons are pinned above normal, and Infused and Charged at each quality.",
+      statement: "Nirnhoned weapons are pinned above normal, and Infused at each quality.",
       workingMemory:
-        "One weapon, one quality upgrade per reading. Nirnhoned is pinned on the normal bow. The normal Infused bow carries an absorb glyph, which moves no sheet stat, so Infused needs a weapon with a sheet-stat glyph. Charged moves no sheet stat.",
+        "One weapon, one quality upgrade per reading. Nirnhoned is pinned on the normal bow. The normal Infused bow carries an absorb glyph, which moves no sheet stat, so Infused needs a weapon with a sheet-stat glyph.",
     },
     {
       statement: "Protective is pinned at legendary, and Infused jewelry above normal.",
@@ -31,9 +30,9 @@ export const nimueItemLevelCases = {
         "One ring, one quality upgrade per reading. Protective is pinned normal to epic, and Infused at normal. Legendary Protective is its tooltip's 1190.",
     },
     {
-      statement: "Swift and Bloodthirsty jewelry are pinned at each quality.",
+      statement: "Swift jewelry is pinned at each quality.",
       workingMemory:
-        "Swift moves sprint speed, which Temper estimates, but one normal Swift ring leaves the shown 142 unmoved. Bloodthirsty moves no sheet stat.",
+        "Swift moves sprint speed, which Temper estimates, but one normal Swift ring leaves the shown 142 unmoved.",
     },
   ],
   constraints: [
@@ -46,5 +45,5 @@ export const nimueItemLevelCases = {
     "A quality never captured at a level is inferred from the captured qualities' sequence, where it matches the legendary pieces captured.",
   ],
   createdAt: "2026-10-20T15:21:57.490Z",
-  updatedAt: "2026-10-21T15:36:25.900Z",
+  updatedAt: "2026-10-21T15:37:05.030Z",
 } as const satisfies Initiative
