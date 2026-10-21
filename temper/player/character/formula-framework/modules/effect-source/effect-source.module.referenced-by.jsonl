@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"command/pages/temper/stat-compare/modules/advanced-sheet-lines/advanced-sheet-lines.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/catalog/alchemy/modules/poison-source/poison-source.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/catalog/alchemy/modules/potion-source/potion-source.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts","typed":true,"deferred":false}
@@ -24,6 +25,7 @@
 {"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/player/character/stat/modules/metric-display-formula/metric-display-formula.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/player/character/stat/modules/metric-formulas/metric-formulas.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/player/character/stat/modules/pipeline-types/pipeline-types.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/player/character/stat/modules/stat-case/stat-case.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/web/modules/buff-or-debuff-explanation-dialog/buff-or-debuff-explanation-dialog.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/web/modules/effects-panel-card/effects-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/web/modules/stat-explanation-dialog/stat-explanation-dialog.module.code.tsx","typed":true,"deferred":false}

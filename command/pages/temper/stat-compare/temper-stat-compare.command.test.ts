@@ -107,6 +107,7 @@ test("a reading's advanced stats are set beside the estimate, and a match is mar
       game: 31.5,
       estimate: 0.3,
       matches: false,
+      sources: [],
     },
     {
       row: "bash-cost",
@@ -115,6 +116,7 @@ test("a reading's advanced stats are set beside the estimate, and a match is mar
       game: 554,
       estimate: 554,
       matches: true,
+      sources: [],
     },
   ]
   const lines = advancedSheetLines(reading, rows)

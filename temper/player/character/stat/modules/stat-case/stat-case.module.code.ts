@@ -1,6 +1,7 @@
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import { buildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import type { EffectSource } from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import { calculateReadingStatsByBar } from "akasha/temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts"
 import { metrics } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.code.ts"
 import { z } from "zod"
@@ -48,6 +49,7 @@ type CaseRead = Omit<StatCase, "pinned" | "gaps"> & { readonly stats: Record<str
 type Estimated = {
   readonly estimate: (stat: string) => number
   readonly unmatchedBuffNames: readonly string[]
+  readonly sources: readonly EffectSource[]
 }
 
 export function estimatedOf(read: Omit<StatCase, "pinned" | "gaps">): Estimated {
@@ -72,6 +74,7 @@ export function estimatedOfBuild(
   return {
     estimate: (stat) => metrics[stat]?.value ?? 0,
     unmatchedBuffNames: estimated.unmatchedBuffNames,
+    sources: estimated.sources,
   }
 }
 

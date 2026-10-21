@@ -36,7 +36,11 @@ export const advancedSheetLines = {
       decisionKind: "decision-kind/departure",
       statement: "The section says how many of its estimates match.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row holds each source effect on its stat or on a stat its stat sums.",
+    },
   ],
   createdAt: "2026-10-21T01:27:08.469Z",
-  updatedAt: "2026-10-21T01:27:08.469Z",
+  updatedAt: "2026-10-21T01:58:38.508Z",
 } as const satisfies Module

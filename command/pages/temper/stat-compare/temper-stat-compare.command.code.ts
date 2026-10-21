@@ -95,6 +95,7 @@ function comparedOf(line: ReadingLine, statCase: string | null): Compared {
   const { reading } = line
   let estimate: ((one: string) => number) | null = null
   let unmatchedBuffs: readonly string[] = []
+  let sources: Parameters<typeof sheetRowsOf>[2] = []
   let unestimated: string | null = null
   try {
     const made = estimatedOf({
@@ -111,6 +112,7 @@ function comparedOf(line: ReadingLine, statCase: string | null): Compared {
     })
     estimate = made.estimate
     unmatchedBuffs = made.unmatchedBuffNames
+    sources = made.sources
   } catch (thrown) {
     unestimated = saidBy(thrown)
   }
@@ -124,7 +126,7 @@ function comparedOf(line: ReadingLine, statCase: string | null): Compared {
       unsteady: unsteadyOf(reading, one, build?.passives ?? []),
       unsettled: isUnsettled(one, reading.fete),
     }))
-  const sheetRows = sheetRowsOf(reading, estimate)
+  const sheetRows = sheetRowsOf(reading, estimate, sources)
   return { line, build, rows, sheetRows, unmatchedBuffs, unestimated, statCase }
 }
 

@@ -1,4 +1,8 @@
 import type { ReadingLine } from "akasha/command/pages/temper/modules/stat-reading-lines/stat-reading-lines.module.code.ts"
+import type { Effect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
+import type { EffectSource } from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
+import type { MetricId } from "akasha/temper/player/character/formula-framework/modules/metric-id/metric-id.module.code.ts"
+import { getAggregateMetricIds } from "akasha/temper/player/character/stat/modules/metric-tree-queries/metric-tree-queries.module.code.ts"
 import {
   reproduces,
   type SheetRowStat,
@@ -9,9 +13,25 @@ type Reading = ReadingLine["reading"]
 
 type AdvancedValue = NonNullable<Reading["advancedSheet"]>[string]
 
+type Share = { readonly source: string; readonly category: string; readonly effect: Effect }
+
 export type SheetRow = SheetRowStat & {
   readonly estimate: number | null
   readonly matches: boolean
+  readonly sources: readonly Share[]
+}
+
+function plain(metricId: string): string {
+  return (metricId.split("/").at(-1) ?? metricId).replace(/^metric-/, "")
+}
+
+function sharesOf(stat: string, sources: readonly EffectSource[]): readonly Share[] {
+  const ids: readonly string[] = getAggregateMetricIds(stat as MetricId)
+  return sources.flatMap((source) =>
+    source.effects
+      .filter((effect) => "metricId" in effect && ids.includes(plain(effect.metricId)))
+      .map((effect) => ({ source: source.id, category: source.categoryId, effect }))
+  )
 }
 
 const NUMBER = 8
@@ -34,7 +54,8 @@ export function signed(delta: number): string {
 
 export function sheetRowsOf(
   reading: Reading,
-  estimate: ((stat: string) => number) | null
+  estimate: ((stat: string) => number) | null,
+  sources: readonly EffectSource[] = []
 ): readonly SheetRow[] {
   return sheetRowStatsOf(reading.advancedSheet).map((one) => {
     const value = estimate === null ? null : estimate(one.stat)
@@ -42,6 +63,7 @@ export function sheetRowsOf(
       ...one,
       estimate: value,
       matches: value !== null && reproduces(one.stat, value, one.game),
+      sources: sharesOf(one.stat, sources),
     }
   })
 }
