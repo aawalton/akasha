@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"set-catalog-loading.module.code.ts","path":"change/agent/file-content/backfill-reading-prismatic-recovery/backfill-reading-prismatic-recovery.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"set-catalog-loading.module.code.ts","path":"change/agent/page/pin-stat-case/pin-stat-case.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"set-catalog-loading.module.code.ts","path":"change/agent/page/pin-tooltip-case/pin-tooltip-case.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"set-catalog-loading.module.code.ts","path":"change/agent/page/restate-tooltip-cases/restate-tooltip-cases.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"set-catalog-loading.module.code.ts","path":"command/pages/temper/build-show/temper-build-show.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"set-catalog-loading.module.code.ts","path":"command/pages/temper/stat-compare/temper-stat-compare.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"set-catalog-loading.module.code.ts","path":"command/pages/temper/tooltip-compare/temper-tooltip-compare.command.code.ts","typed":false,"deferred":false}

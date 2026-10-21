@@ -218,6 +218,9 @@ export type Changes = {
   "change-agent/repair-reading-line": Parameters<
     typeof import("akasha/change/agent/file-content/repair-reading-line/repair-reading-line.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/restate-tooltip-cases": Parameters<
+    typeof import("akasha/change/agent/page/restate-tooltip-cases/restate-tooltip-cases.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/sort-property-values-on-every-page": Parameters<
     typeof import("akasha/change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.code.ts")["runChange"]
   >[1]

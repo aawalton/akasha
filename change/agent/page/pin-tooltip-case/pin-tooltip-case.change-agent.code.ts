@@ -22,6 +22,7 @@ import {
   type Equations,
   equationsIn,
   heldOfBuild,
+  heldOfCase,
   pinnedTooltipCaseOf,
   tooltipCaseText,
 } from "akasha/temper/player/character/stat/modules/tooltip-case/tooltip-case.module.code.ts"
@@ -124,7 +125,6 @@ export function pinTooltipCaseCommand(
   const tooltipsAt = besideAt(pageAt, verifiedTooltips.propertySlug, "json")
   const typesAt = besideAt(typeAt, "types", "ts")
   if (tooltipsAt === null || typesAt === null) return refusing(`\`${slug}\` names no page path`)
-  const held = heldOf(line.buildHash)
   const tooltipCase = pinnedTooltipCaseOf(
     {
       character,
@@ -132,7 +132,7 @@ export function pinTooltipCaseCommand(
       capturedAt: reading.capturedAt,
       esoVersion,
       stats: reading.stats,
-      ...(held === undefined ? {} : { passives: held.passives, stars: held.stars }),
+      ...heldOfCase(heldOf(line.buildHash), reading),
       skills: [...skills]
         .sort((one, two) => one.slot - two.slot)
         .map(({ abilityId, name, description }) => ({ abilityId, name, description })),

@@ -141,6 +141,8 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page/pin-tooltip-case/pin-tooltip-case.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page/rename-page/rename-page.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page/rename-pages/rename-pages.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page/restate-tooltip-cases/restate-tooltip-cases.change-agent.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page/restate-tooltip-cases/restate-tooltip-cases.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.code.ts","typed":true,"deferred":false}

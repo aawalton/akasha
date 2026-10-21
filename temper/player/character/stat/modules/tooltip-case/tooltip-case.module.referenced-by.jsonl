@@ -1,6 +1,8 @@
 {"propertySlug":"import","fileName":"tooltip-case.module.code.ts","path":"change/agent/page/pin-tooltip-case-gaps/pin-tooltip-case-gaps.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"tooltip-case.module.code.ts","path":"change/agent/page/pin-tooltip-case-gaps/pin-tooltip-case-gaps.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"tooltip-case.module.code.ts","path":"change/agent/page/pin-tooltip-case/pin-tooltip-case.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tooltip-case.module.code.ts","path":"change/agent/page/restate-tooltip-cases/restate-tooltip-cases.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tooltip-case.module.code.ts","path":"change/agent/page/restate-tooltip-cases/restate-tooltip-cases.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"tooltip-case.module.code.ts","path":"command/pages/temper/tooltip-compare/temper-tooltip-compare.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"tooltip-case.module.code.ts","path":"temper/player/character/stat/modules/tooltip-case/tooltip-case.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"tooltip-case.module.code.ts","path":"temper/player/character/stat/modules/tooltip-case/tooltip-case.module.test.ts","typed":false,"deferred":false}

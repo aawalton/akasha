@@ -37,6 +37,15 @@ const FRONT_READING = {
   esoVersion: "eso.live.12.1.6.3309674",
   inCombat: false,
   stats: { "stamina-maximum": 20000, "power-weapon": 3000, "magicka-maximum": 10000 },
+  activeBuffs: [
+    { abilityId: 61665, name: "Major Brutality" },
+    { abilityId: 13981, name: "Boon: The Lover" },
+    { abilityId: 61665, name: "Major Brutality" },
+  ],
+  championPoints: [
+    { championSkillId: 21, points: 30, maxPoints: 50 },
+    { championSkillId: 8, points: 50, maxPoints: 50 },
+  ],
   skills: {
     "1": skill(4, 20816, "Flame Lash", "dealing |cffffff2000|r"),
     "2": skill(3, 38754, "Brawler", "dealing |cffffff5000|r for |cffffff7|r seconds"),
@@ -142,10 +151,10 @@ test("a case keeps each slotted skill's tooltip in slot order, and pins what Tem
   expect(body.gaps).toEqual({ "38754 <<2>>": 7 })
 })
 
-test("a case keeps the passives and slotted stars its build holds, in name order", () => {
+test("a case keeps the passives, slotted stars and medium pieces its build holds", () => {
   const heldOf = (hash: string) =>
     hash === "ATQI"
-      ? { passives: ["dark-veil", "agility"], stars: ["bastion", "biting-aura"] }
+      ? { passives: ["dark-veil", "agility"], stars: ["bastion", "biting-aura"], mediumPieces: 5 }
       : undefined
   const said = pinTooltipCaseCommand(
     worldOf([]),
@@ -156,6 +165,19 @@ test("a case keeps the passives and slotted stars its build holds, in name order
 
   expect(tooltipsOf(said).passives).toEqual(["agility", "dark-veil"])
   expect(tooltipsOf(said).stars).toEqual(["bastion", "biting-aura"])
+  expect(tooltipsOf(said).mediumPieces).toBe(5)
+})
+
+test("a case keeps the reading's active buffs once each in name order, and its War Mage and Mighty points", () => {
+  const said = pinTooltipCaseCommand(
+    worldOf([]),
+    { character: "erin", reading: "01a1aaaa" },
+    EQUATIONS
+  )
+
+  expect(tooltipsOf(said).buffs).toEqual(["Boon: The Lover", "Major Brutality"])
+  expect(tooltipsOf(said).championPoints).toEqual({ mighty: 0, "war-mage": 30 })
+  expect(tooltipsOf(said).mediumPieces).toBeUndefined()
 })
 
 test("a reading keeping no slotted skill is refused", () => {

@@ -103,7 +103,6 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/track/daily/modules/day-messages-totalling/day-messages-totalling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/track/daily/modules/topic-words/topic-words.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/track/to-do/modules/on-complete-running/on-complete-running.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"change/agent/page/pin-tooltip-case-gaps/pin-tooltip-case-gaps.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"change/mechanical/page-type/change/change-calculation-held-type/change-calculation-held-type.change-mechanical-page-type.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"change/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"change/modules/orphan-refusing/orphan-refusing.module.test.ts","typed":true,"deferred":false}

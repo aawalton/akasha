@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"change/agent/page/pin-stat-case/pin-stat-case.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"change/agent/page/pin-tooltip-case/pin-tooltip-case.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"change/agent/page/restate-tooltip-cases/restate-tooltip-cases.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"command/pages/temper/modules/character-completion-reading/character-completion-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"command/pages/temper/modules/stat-reading-lines/stat-reading-lines.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"command/pages/temper/skill-check/temper-skill-check.command.code.ts","typed":true,"deferred":false}

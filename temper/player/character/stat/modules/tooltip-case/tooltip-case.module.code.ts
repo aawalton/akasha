@@ -1,12 +1,16 @@
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { mighty } from "akasha/temper/catalog/champion-point/temper-champion-star/pages/mighty.temper-champion-star.ts"
+import { warMage } from "akasha/temper/catalog/champion-point/temper-champion-star/pages/war-mage.temper-champion-star.ts"
 import { temperScribedSkill } from "akasha/temper/catalog/skill/temper-scribed-skill/temper-scribed-skill.page-type.ts"
 import { temperSkill } from "akasha/temper/catalog/skill/temper-skill.page-type.ts"
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { buildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { countArmorPiecesByWeight } from "akasha/temper/player/character/skill/modules/passive-queries/passive-queries.module.code.ts"
 import {
   equationStatsOf,
   tooltipPairingOf,
 } from "akasha/temper/player/character/stat/modules/skill-equation/skill-equation.module.code.ts"
+import { temperTooltipCase } from "akasha/temper/player/character/stat/temper-tooltip-case/temper-tooltip-case.page-type.ts"
 import { z } from "zod"
 
 export type Equations = ReadonlyMap<number, readonly string[]>
@@ -27,6 +31,9 @@ export const tooltipCaseShape = z.strictObject({
   stats: numbersByName,
   passives: z.array(z.string()).optional(),
   stars: z.array(z.string()).optional(),
+  buffs: z.array(z.string()).optional(),
+  championPoints: numbersByName.optional(),
+  mediumPieces: z.number().optional(),
   skills: z.array(caseSkill),
   pinned: numbersByName,
   gaps: numbersByName,
@@ -53,7 +60,20 @@ export function equationsIn(root: string): Equations {
   return found
 }
 
-export type BuildHeld = { readonly passives: string[]; readonly stars: string[] }
+export type CaseListed = { readonly path: string; readonly slug: string }
+
+export function everyTooltipCase(root: string): readonly CaseListed[] {
+  return valuesOfType(root, temperTooltipCase.slug).map((one) => ({
+    path: one.path,
+    slug: String(one.value.slug),
+  }))
+}
+
+export type BuildHeld = {
+  readonly passives: string[]
+  readonly stars: string[]
+  readonly mediumPieces: number
+}
 
 export function heldOfBuild(hash: string): BuildHeld | undefined {
   let build: ReturnType<typeof decodeBuild> | undefined
@@ -67,7 +87,42 @@ export function heldOfBuild(hash: string): BuildHeld | undefined {
   return {
     passives: [...build.passives],
     stars: [...warfare.slotted, ...fitness.slotted, ...craft.slotted],
+    mediumPieces: countArmorPiecesByWeight(build.equipment.armor).medium,
   }
+}
+
+export type ReadingHeld = {
+  readonly activeBuffs?: readonly { readonly name: string }[]
+  readonly championPoints?: readonly { readonly championSkillId: number; readonly points: number }[]
+}
+
+const POINTS_KEPT = [warMage, mighty]
+
+export function heldOfReading(
+  reading: ReadingHeld
+): Pick<TooltipCaseRead, "buffs" | "championPoints"> {
+  const { activeBuffs, championPoints } = reading
+  const pointsOf = (id: number) =>
+    championPoints?.find((one) => one.championSkillId === id)?.points ?? 0
+  return {
+    ...(activeBuffs === undefined
+      ? {}
+      : { buffs: [...new Set(activeBuffs.map((one) => one.name))] }),
+    ...(championPoints === undefined
+      ? {}
+      : {
+          championPoints: Object.fromEntries(
+            POINTS_KEPT.map((star) => [star.slug, pointsOf(star.esoChampionSkillId)])
+          ),
+        }),
+  }
+}
+
+export function heldOfCase(
+  build: BuildHeld | undefined,
+  reading: ReadingHeld
+): Pick<TooltipCaseRead, "passives" | "stars" | "buffs" | "championPoints" | "mediumPieces"> {
+  return { ...(build ?? {}), ...heldOfReading(reading) }
 }
 
 export function heldSetOf(read: Pick<TooltipCaseRead, "passives" | "stars">): ReadonlySet<string> {
@@ -112,6 +167,14 @@ export function pinnedTooltipCaseOf(read: TooltipCaseRead, equations: Equations)
     if (worked.temper === worked.game) pinned[formula] = worked.game
     else gaps[formula] = worked.game
   }
+  return tooltipCaseOf(read, pinned, gaps)
+}
+
+export function tooltipCaseOf(
+  read: TooltipCaseRead,
+  pinned: Readonly<Record<string, number>>,
+  gaps: Readonly<Record<string, number>>
+): TooltipCase {
   return {
     character: read.character,
     bar: read.bar,
@@ -120,6 +183,11 @@ export function pinnedTooltipCaseOf(read: TooltipCaseRead, equations: Equations)
     stats: inNameOrder(read.stats),
     ...(read.passives === undefined ? {} : { passives: [...read.passives].sort() }),
     ...(read.stars === undefined ? {} : { stars: [...read.stars].sort() }),
+    ...(read.buffs === undefined ? {} : { buffs: [...read.buffs].sort() }),
+    ...(read.championPoints === undefined
+      ? {}
+      : { championPoints: inNameOrder(read.championPoints) }),
+    ...(read.mediumPieces === undefined ? {} : { mediumPieces: read.mediumPieces }),
     skills: read.skills.map(({ abilityId, name, description }) => ({
       abilityId,
       name,

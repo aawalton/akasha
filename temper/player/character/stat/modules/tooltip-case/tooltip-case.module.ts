@@ -62,6 +62,19 @@ export const tooltipCase = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A case keeps the count of medium armor pieces its build wore.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A case keeps the names of the buffs active when it was read, once each in name order.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A case keeps the points its character had in War Mage and in Mighty.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A case's formulas read its passives and its slotted stars as one set held.",
     },
     {
@@ -71,5 +84,5 @@ export const tooltipCase = {
     },
   ],
   createdAt: "2026-10-21T01:45:54.419Z",
-  updatedAt: "2026-10-21T02:47:13.174Z",
+  updatedAt: "2026-10-21T03:34:20.099Z",
 } as const satisfies Module

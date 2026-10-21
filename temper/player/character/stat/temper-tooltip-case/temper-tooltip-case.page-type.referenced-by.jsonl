@@ -1,5 +1,7 @@
 {"propertySlug":"import","fileName":"temper-tooltip-case.page-type.ts","path":"change/agent/page/pin-tooltip-case-gaps/pin-tooltip-case-gaps.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-tooltip-case.page-type.ts","path":"change/agent/page/pin-tooltip-case/pin-tooltip-case.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-tooltip-case.page-type.ts","path":"change/agent/page/restate-tooltip-cases/restate-tooltip-cases.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-tooltip-case.page-type.ts","path":"temper/player/character/stat/modules/tooltip-case/tooltip-case.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-tooltip-case.page-type.types.ts","path":"temper/player/character/stat/temper-tooltip-case/pages/archmage-amerys-back-bar-2026-10-20-1644/archmage-amerys-back-bar-2026-10-20-1644.temper-tooltip-case.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-tooltip-case.page-type.types.ts","path":"temper/player/character/stat/temper-tooltip-case/pages/archmage-amerys-front-bar-2026-10-20-1640/archmage-amerys-front-bar-2026-10-20-1640.temper-tooltip-case.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-tooltip-case.page-type.types.ts","path":"temper/player/character/stat/temper-tooltip-case/pages/belavierr-fatecarver-bastion/belavierr-fatecarver-bastion.temper-tooltip-case.ts","typed":true,"deferred":false}

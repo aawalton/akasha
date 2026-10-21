@@ -15,6 +15,7 @@
 {"propertySlug":"change-target-type","path":"change/agent/page/pin-stat-case/pin-stat-case.change-agent.ts","id":"01a13b71-0505-7295-b80f-664bb22fb765"}
 {"propertySlug":"change-target-type","path":"change/agent/page/pin-tooltip-case-gaps/pin-tooltip-case-gaps.change-agent.ts","id":"01a15c22-e9f4-72f2-acfc-3493433b213f"}
 {"propertySlug":"change-target-type","path":"change/agent/page/pin-tooltip-case/pin-tooltip-case.change-agent.ts","id":"01a15c22-e9f4-758e-a4ea-388bbbfdd74f"}
+{"propertySlug":"change-target-type","path":"change/agent/page/restate-tooltip-cases/restate-tooltip-cases.change-agent.ts","id":"01a15c86-2ec3-7c0f-8cb0-9befb7f76cab"}
 {"propertySlug":"change-target-type","path":"change/mechanical/file/add-if-not-present-file/add-if-not-present-file.change-mechanical-file.ts","id":"01a08188-1037-7ddd-b5cb-c727ac6ef590"}
 {"propertySlug":"change-target-type","path":"change/mechanical/file/add/add-file-code/add-file-code.change-mechanical.ts","id":"01a07969-9123-7320-b8c9-3afd2dae9bfa"}
 {"propertySlug":"change-target-type","path":"change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts","id":"01a081bf-3f33-77ca-96cc-29ff7017f563"}

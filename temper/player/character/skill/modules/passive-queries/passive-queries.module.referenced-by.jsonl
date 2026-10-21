@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"passive-queries.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"passive-queries.module.code.ts","path":"temper/player/character/build/modules/race-source/race-source.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"passive-queries.module.code.ts","path":"temper/player/character/stat/modules/passive-eligibility/passive-eligibility.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"passive-queries.module.code.ts","path":"temper/player/character/stat/modules/tooltip-case/tooltip-case.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"passive-queries.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-summary/completion-summary.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"passive-queries.module.code.ts","path":"temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"passive-queries.module.code.ts","path":"temper/web/modules/passive-skills-panel-card/passive-skills-panel-card.module.code.tsx","typed":false,"deferred":false}

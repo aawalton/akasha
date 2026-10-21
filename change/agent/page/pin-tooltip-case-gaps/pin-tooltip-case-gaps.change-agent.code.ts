@@ -6,9 +6,10 @@ import {
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
-import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
+  type CaseListed,
+  everyTooltipCase,
   inNameOrder,
   type TooltipCase,
   tooltipCaseShape,
@@ -52,19 +53,10 @@ function movedIn(held: Held, formula: string): FileChange {
   }
 }
 
-type CaseListed = { readonly path: string; readonly slug: string }
-
-function everyCase(root: string): readonly CaseListed[] {
-  return valuesOfType(root, temperTooltipCase.slug).map((one) => ({
-    path: one.path,
-    slug: String(one.value.slug),
-  }))
-}
-
 export function pinTooltipCaseGapsCommand(
   world: World,
   given: Asked,
-  listed: (root: string) => readonly CaseListed[] = everyCase
+  listed: (root: string) => readonly CaseListed[] = everyTooltipCase
 ): Answer {
   const formula = given[FORMULA]?.trim()
   if (formula === undefined || formula === "") return refusing(missing(FORMULA))

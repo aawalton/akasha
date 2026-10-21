@@ -13,7 +13,8 @@ export const changeAgentPage = {
     "change-agent/pin-stat-case-gaps",
     "change-agent/pin-tooltip-case",
     "change-agent/pin-tooltip-case-gaps",
+    "change-agent/restate-tooltip-cases",
   ],
   createdAt: "2026-09-25T14:54:19.063Z",
-  updatedAt: "2026-10-21T01:45:54.419Z",
+  updatedAt: "2026-10-21T03:34:20.099Z",
 } as const satisfies Domain
