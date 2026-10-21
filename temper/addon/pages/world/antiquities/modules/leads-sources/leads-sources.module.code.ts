@@ -6,7 +6,7 @@ import {
 import { LOCATIONS } from "akasha/temper/addon/pages/world/antiquities/modules/leads-locations/leads-locations.module.code.ts"
 import "akasha/temper/eso/type/eso-api-4/eso-api-4.type-declaration.d.ts"
 
-export interface AntiquityLeadSource {
+interface AntiquityLeadSource {
   readonly kind: "scry" | "dig" | "buy"
   readonly parentId: number | undefined
 }
