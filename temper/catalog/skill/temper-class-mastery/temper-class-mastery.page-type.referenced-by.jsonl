@@ -1,5 +1,7 @@
+{"propertySlug":"import","fileName":"temper-class-mastery.page-type.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-mastery-map/character-capture-mastery-map.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-class-mastery.page-type.ts","path":"temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-class-mastery.page-type.ts","path":"temper/web/modules/use-skill-catalog/use-skill-catalog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-class-mastery.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-mastery-map/character-capture-mastery-map.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-class-mastery.page-type.types.ts","path":"temper/catalog/skill/temper-class-mastery/pages/above-and-beyond/above-and-beyond.temper-class-mastery.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-class-mastery.page-type.types.ts","path":"temper/catalog/skill/temper-class-mastery/pages/abyssal-emergence/abyssal-emergence.temper-class-mastery.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-class-mastery.page-type.types.ts","path":"temper/catalog/skill/temper-class-mastery/pages/an-eye-for-exploitation/an-eye-for-exploitation.temper-class-mastery.ts","typed":true,"deferred":false}

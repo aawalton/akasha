@@ -931,6 +931,7 @@
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-curse-map/character-capture-curse-map.module.ts","id":"01a0616b-c4eb-7239-a6d1-ba1f09953f22"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.ts","id":"01a0616b-618d-790e-b832-fb5fba674711"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-food-map/character-capture-food-map.module.ts","id":"01a0616b-a193-7b4e-8eda-59845fbc07d4"}
+{"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-mastery-map/character-capture-mastery-map.module.ts","id":"01a15ecc-78d0-7c02-a04a-0b40b9c7ff4d"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-mundus-map/character-capture-mundus-map.module.ts","id":"01a0616b-0dc6-7330-8236-23addefa109d"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-passive-map/character-capture-passive-map.module.ts","id":"01a0616b-18bf-7c2e-9cbf-644b6da6a01a"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-potion-map/character-capture-potion-map.module.ts","id":"01a0616b-4d67-7eae-a7e9-5dba894d679f"}

@@ -25,6 +25,7 @@ export interface CharacterBuildData {
   targetHealth: number
   scribing: CharacterScribingData[]
   esoPlusBit: number
+  masteryBitmask: boolean[]
 }
 
 export interface CharacterArmorSlotData {

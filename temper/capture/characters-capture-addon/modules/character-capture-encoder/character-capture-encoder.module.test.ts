@@ -33,7 +33,15 @@ const { characterPassiveSkillCount } = await import(
   "akasha/temper/capture/characters-capture-addon/modules/character-capture-passive-map/character-capture-passive-map.module.code.ts"
 )
 
+const { classMasteryCount, classMasteryPlace } = await import(
+  "akasha/temper/capture/characters-capture-addon/modules/character-capture-mastery-map/character-capture-mastery-map.module.code.ts"
+)
+
 const DUBIOUS_CAMORAN_THRONE_BUFF = 89957
+
+const AN_EYE_FOR_EXPLOITATION = 263604
+
+const ABOVE_AND_BEYOND = 263605
 
 function armorPiece(itemLevelPlace: number, enchantLevel = 0): CharacterArmorSlotData {
   return {
@@ -111,6 +119,7 @@ function captured(armor: CharacterArmorSlotData[], foodIndex: number): Character
     targetHealth: 100,
     scribing: [],
     esoPlusBit: 0,
+    masteryBitmask: Array.from({ length: classMasteryCount() }, () => false),
   }
 }
 
@@ -154,4 +163,24 @@ test("a food or drink the add-on writes is read back by the build codec as that 
     )
   )
   expect(decodeBuild(buildHash(hash))?.consumables.foodOrDrink).toBe("dubious-camoran-throne")
+})
+
+test("the class masteries the add-on writes are read back by the build codec, at minor 14", () => {
+  const build = captured(
+    Array.from({ length: 7 }, () => armorPiece(0)),
+    0
+  )
+  for (const ability of [ABOVE_AND_BEYOND, AN_EYE_FOR_EXPLOITATION]) {
+    const place = classMasteryPlace(ability)
+    if (place === undefined) throw new Error(`no class mastery page states ${String(ability)}`)
+    build.masteryBitmask[place] = true
+  }
+  const hash = encodeCharacterBuild(build)
+  expect(decodeBuild(buildHash(hash))?.masteries).toEqual([
+    "an-eye-for-exploitation",
+    "above-and-beyond",
+  ])
+  expect(decodeBuild(buildHash(encodeCharacterBuild(captured(build.armor, 0))))?.masteries).toBe(
+    undefined
+  )
 })

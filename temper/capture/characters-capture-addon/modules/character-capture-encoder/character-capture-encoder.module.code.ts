@@ -156,6 +156,10 @@ export function encodeCharacterBuild(build: CharacterBuildData): string {
 
   writeBits(writer, build.esoPlusBit, CHARACTER_ESO_PLUS_BITS)
 
+  for (const chosen of build.masteryBitmask) {
+    writeBits(writer, chosen ? 1 : 0, 1)
+  }
+
   return bytesToBase64url(bitWriterToBytes(writer))
 }
 

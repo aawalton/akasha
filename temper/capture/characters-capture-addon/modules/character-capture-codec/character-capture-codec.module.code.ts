@@ -37,6 +37,10 @@ import {
   captureCharacterWeaponSlot,
 } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-equipment/character-capture-equipment.module.code.ts"
 import { getFoodIndex } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-food-map/character-capture-food-map.module.code.ts"
+import {
+  classMasteryCount,
+  classMasteryPlace,
+} from "akasha/temper/capture/characters-capture-addon/modules/character-capture-mastery-map/character-capture-mastery-map.module.code.ts"
 import { getMundusIndex } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-mundus-map/character-capture-mundus-map.module.code.ts"
 import {
   characterPassiveSkillCount,
@@ -216,6 +220,8 @@ export function captureCharacterBuild(): CharacterBuildData {
     passiveBitmask.push(false)
     passiveRanks.push(0)
   }
+  const masteryBitmask: boolean[] = []
+  for (let i = 0; i < classMasteryCount(); i++) masteryBitmask.push(false)
   const passiveSkillTypes = [
     SKILL_TYPE_CLASS,
     SKILL_TYPE_WEAPON,
@@ -233,6 +239,10 @@ export function captureCharacterBuild(): CharacterBuildData {
       for (let skillIndex = 1; skillIndex <= numAbilities; skillIndex++) {
         if (!IsSkillAbilityPassive(skillType, lineIndex, skillIndex)) continue
         if (!IsSkillAbilityPurchased(skillType, lineIndex, skillIndex)) continue
+        const mastery = classMasteryPlace(
+          GetSkillAbilityId(skillType, lineIndex, skillIndex, false)
+        )
+        if (mastery !== undefined) masteryBitmask[mastery] = true
         const bitmaskIndex = passiveBitmaskIndex(skillType, lineIndex, skillIndex)
         if (bitmaskIndex !== undefined) {
           passiveBitmask[bitmaskIndex] = true
@@ -323,5 +333,6 @@ export function captureCharacterBuild(): CharacterBuildData {
     targetHealth: 100,
     scribing,
     esoPlusBit,
+    masteryBitmask,
   }
 }

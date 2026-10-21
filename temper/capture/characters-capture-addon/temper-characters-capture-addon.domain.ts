@@ -20,6 +20,7 @@ export const temperCharactersCaptureAddon = {
     "module/character-capture-equipment",
     "module/character-capture-equipment-map",
     "module/character-capture-food-map",
+    "module/character-capture-mastery-map",
 
     "module/character-capture-mundus-map",
     "module/character-capture-passive-map",
@@ -56,5 +57,5 @@ export const temperCharactersCaptureAddon = {
     },
   ],
   createdAt: "2026-09-02T09:20:17.185Z",
-  updatedAt: "2026-10-14T13:38:45.534Z",
+  updatedAt: "2026-10-21T14:10:21.007Z",
 } as const satisfies Domain
