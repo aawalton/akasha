@@ -5,7 +5,10 @@ import { temperScribedSkill } from "akasha/temper/catalog/skill/temper-scribed-s
 import { temperSkill } from "akasha/temper/catalog/skill/temper-skill.page-type.ts"
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { buildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import { countArmorPiecesByWeight } from "akasha/temper/player/character/skill/modules/passive-queries/passive-queries.module.code.ts"
+import {
+  countArmorPiecesByWeight,
+  getWeaponTypeIdsForBar,
+} from "akasha/temper/player/character/skill/modules/passive-queries/passive-queries.module.code.ts"
 import {
   type ActiveHeld,
   equationStatsOf,
@@ -36,6 +39,7 @@ export const tooltipCaseShape = z.strictObject({
   buffs: z.array(z.string()).optional(),
   championPoints: numbersByName.optional(),
   mediumPieces: z.number().optional(),
+  weapons: z.array(z.string()).optional(),
   skills: z.array(caseSkill),
   pinned: numbersByName,
   gaps: numbersByName,
@@ -71,10 +75,13 @@ export function everyTooltipCase(root: string): readonly CaseListed[] {
   }))
 }
 
+export type Bar = TooltipCase["bar"]
+
 export type BuildHeld = {
   readonly passives: string[]
   readonly stars: string[]
   readonly mediumPieces: number
+  readonly weapons?: Readonly<Record<Bar, readonly string[]>>
 }
 
 export function heldOfBuild(hash: string): BuildHeld | undefined {
@@ -90,6 +97,10 @@ export function heldOfBuild(hash: string): BuildHeld | undefined {
     passives: [...build.passives],
     stars: [...warfare.slotted, ...fitness.slotted, ...craft.slotted],
     mediumPieces: countArmorPiecesByWeight(build.equipment.armor).medium,
+    weapons: {
+      "primary-weapon-bar": getWeaponTypeIdsForBar(build.equipment["primary-weapon-bar"]),
+      "backup-weapon-bar": getWeaponTypeIdsForBar(build.equipment["backup-weapon-bar"]),
+    },
   }
 }
 
@@ -122,13 +133,26 @@ export function heldOfReading(
 
 export function heldOfCase(
   build: BuildHeld | undefined,
-  reading: ReadingHeld
-): Pick<TooltipCaseRead, "passives" | "stars" | "buffs" | "championPoints" | "mediumPieces"> {
-  return { ...(build ?? {}), ...heldOfReading(reading) }
+  reading: ReadingHeld,
+  bar?: Bar
+): Pick<
+  TooltipCaseRead,
+  "passives" | "stars" | "buffs" | "championPoints" | "mediumPieces" | "weapons"
+> {
+  if (build === undefined) return heldOfReading(reading)
+  const { weapons, ...worn } = build
+  const onBar = bar === undefined || weapons === undefined ? undefined : weapons[bar]
+  return {
+    ...worn,
+    ...(onBar === undefined ? {} : { weapons: [...onBar] }),
+    ...heldOfReading(reading),
+  }
 }
 
-export function heldSetOf(read: Pick<TooltipCaseRead, "passives" | "stars">): ReadonlySet<string> {
-  return new Set([...(read.passives ?? []), ...(read.stars ?? [])])
+export function heldSetOf(
+  read: Pick<TooltipCaseRead, "passives" | "stars" | "weapons">
+): ReadonlySet<string> {
+  return new Set([...(read.passives ?? []), ...(read.stars ?? []), ...(read.weapons ?? [])])
 }
 
 export function activeOf(
@@ -208,6 +232,7 @@ export function tooltipCaseOf(
       ? {}
       : { championPoints: inNameOrder(read.championPoints) }),
     ...(read.mediumPieces === undefined ? {} : { mediumPieces: read.mediumPieces }),
+    ...(read.weapons === undefined ? {} : { weapons: [...read.weapons].sort() }),
     skills: read.skills.map(({ abilityId, name, description, durationMs }) => ({
       abilityId,
       name,

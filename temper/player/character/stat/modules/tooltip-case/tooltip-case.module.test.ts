@@ -4,6 +4,8 @@ import { join } from "node:path"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   equationsIn,
+  heldOfCase,
+  heldSetOf,
   pinnedTooltipCaseOf,
   tooltipCaseShape,
   tooltipCaseText,
@@ -63,6 +65,24 @@ test("a pinned number Temper no longer gives has drifted, and a gap it now gives
     drifted: [{ formula: "38754 <<1>>", game: 5000, temper: 4700 }],
     closed: ["38754 <<2>>"],
   })
+})
+
+test("a case holds the weapons its build held on its own bar, beside its passives and stars", () => {
+  const build = {
+    passives: ["ancient-knowledge"],
+    stars: ["master-at-arms"],
+    mediumPieces: 0,
+    weapons: {
+      "primary-weapon-bar": ["dagger", "shield"],
+      "backup-weapon-bar": ["lightning-staff"],
+    },
+  }
+  const back = heldOfCase(build, {}, "backup-weapon-bar")
+
+  expect(back.weapons).toEqual(["lightning-staff"])
+  expect([...heldSetOf(back)]).toEqual(["ancient-knowledge", "master-at-arms", "lightning-staff"])
+  expect(heldOfCase(build, {}, "primary-weapon-bar").weapons).toEqual(["dagger", "shield"])
+  expect(heldOfCase(build, {}).weapons).toBeUndefined()
 })
 
 test("a case is written as text that reads back as the same case", () => {

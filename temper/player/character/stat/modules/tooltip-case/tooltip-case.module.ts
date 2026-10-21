@@ -66,6 +66,10 @@ export const tooltipCase = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A case keeps the types of the weapons its build held on its bar, in name order.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A case keeps each skill's duration as the game gave it, in milliseconds.",
     },
     {
@@ -79,7 +83,8 @@ export const tooltipCase = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A case's formulas read its passives and its slotted stars as one set held.",
+      statement:
+        "A case's formulas read its passives, its slotted stars and its weapons as one set held.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -87,5 +92,5 @@ export const tooltipCase = {
     },
   ],
   createdAt: "2026-10-21T01:45:54.419Z",
-  updatedAt: "2026-10-21T04:00:46.068Z",
+  updatedAt: "2026-10-21T04:50:32.260Z",
 } as const satisfies Module

@@ -51,6 +51,8 @@ const NAMED = [character, readingCount, capturedAt, readingId, json]
 
 const NUMBER = 8
 
+const CASE_BARS = { frontBar: "primary-weapon-bar", backBar: "backup-weapon-bar" } as const
+
 export type ComparedSkill = {
   readonly slot: number
   readonly abilityId: number
@@ -175,7 +177,7 @@ export async function temperTooltipCompare(argv: readonly string[], given: Given
     return build
   }
   const compared = chosen.chosen.map((line) => {
-    const held = heldOfCase(buildOf(line.buildHash), line.reading)
+    const held = heldOfCase(buildOf(line.buildHash), line.reading, CASE_BARS[line.bar])
     return {
       line,
       skills: comparedSkillsOf(line.reading, equations, heldSetOf(held), activeOf(held)),

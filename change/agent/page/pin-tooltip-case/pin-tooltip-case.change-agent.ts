@@ -40,7 +40,7 @@ export const pinTooltipCase = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The case keeps the passives, slotted stars and medium armor pieces the line's build hash holds.",
+        "The case keeps the passives, stars, medium pieces and bar's weapons the line's build hash holds.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -75,5 +75,5 @@ export const pinTooltipCase = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-10-21T01:45:54.419Z",
-  updatedAt: "2026-10-21T04:00:46.068Z",
+  updatedAt: "2026-10-21T04:50:32.260Z",
 } as const satisfies ChangeAgent

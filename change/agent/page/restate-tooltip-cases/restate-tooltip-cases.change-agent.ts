@@ -27,7 +27,7 @@ export const restateTooltipCases = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A case restated takes the passives, stars, medium pieces, buffs and points that line held.",
+        "A case restated takes the passives, stars, medium pieces, weapons, buffs and points that line held.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -56,5 +56,5 @@ export const restateTooltipCases = {
   maxCpuSeconds: 60,
   maxMemoryMb: 1024,
   createdAt: "2026-10-21T03:34:20.099Z",
-  updatedAt: "2026-10-21T04:00:46.068Z",
+  updatedAt: "2026-10-21T04:50:32.260Z",
 } as const satisfies ChangeAgent

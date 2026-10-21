@@ -59,7 +59,7 @@ function restated(world: World, listed: CaseListed, heldOf: HeldOf): FileChange 
     ...one,
     durationMs: durations.get(one.abilityId) ?? one.durationMs,
   }))
-  const held = heldOfCase(heldOf(line.buildHash), reading.data)
+  const held = heldOfCase(heldOf(line.buildHash), reading.data, read.bar)
   const contentTo = tooltipCaseText(tooltipCaseOf({ ...read, ...held, skills }, pinned, gaps))
   return { kind: "replace", path: at, contentFrom: text, contentTo }
 }

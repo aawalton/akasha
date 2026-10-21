@@ -32,7 +32,7 @@ export const temperTooltipCompare = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The passives and stars an equation reads are the ones the reading's build hash holds.",
+        "The passives, stars and weapons an equation reads are those the build hash holds on its bar.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -69,5 +69,5 @@ export const temperTooltipCompare = {
     { argument: "argument/json" },
   ],
   createdAt: "2026-10-21T01:29:57.666Z",
-  updatedAt: "2026-10-21T02:47:13.174Z",
+  updatedAt: "2026-10-21T04:50:32.260Z",
 } as const satisfies Command

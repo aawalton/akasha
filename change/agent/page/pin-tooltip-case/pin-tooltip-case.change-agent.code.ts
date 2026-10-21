@@ -132,7 +132,7 @@ export function pinTooltipCaseCommand(
       capturedAt: reading.capturedAt,
       esoVersion,
       stats: reading.stats,
-      ...heldOfCase(heldOf(line.buildHash), reading),
+      ...heldOfCase(heldOf(line.buildHash), reading, bar),
       skills: [...skills]
         .sort((one, two) => one.slot - two.slot)
         .map(({ abilityId, name, description, durationMs }) => ({
