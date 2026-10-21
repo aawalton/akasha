@@ -86,7 +86,7 @@ import type { TargetArmorId } from "akasha/temper/player/character/source/module
 export const CHARACTER_BUILD_TYPE = 0x01
 
 export const ESO_VERSION_52 = 52
-const CODEC_MINOR_VERSION = 14
+export const CODEC_MINOR_VERSION = 14
 
 const FIRST_MINOR_WITH_MASTERIES = 14
 

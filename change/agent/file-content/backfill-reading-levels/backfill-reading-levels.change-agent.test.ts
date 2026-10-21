@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { backfillReadingLevels } from "akasha/change/agent/file-content/backfill-reading-levels/backfill-reading-levels.change-agent.code.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
+import { CODEC_MINOR_VERSION } from "akasha/temper/player/character/build/build-codec/modules/build-codec-v52/build-codec-v52.module.code.ts"
 import { base64urlToBytes } from "akasha/temper/player/character/build/build-hash/modules/build-hash-base64url/build-hash-base64url.module.code.ts"
 import { holdSetCatalogFromCheckout } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.test-fixtures.ts"
 import { buildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
@@ -64,9 +65,9 @@ function writtenOf(said: ReturnType<typeof backfillReadingLevels>): readonly str
   return one.contentTo.split("\n").filter((line) => line !== "")
 }
 
-test("a reading wearing a piece below CP160 takes a minor-thirteen hash holding that level", () => {
+test("a reading wearing a piece below CP160 takes a hash at the codec's minor holding that level", () => {
   const line = JSON.parse(writtenOf(backfillReadingLevels(worldOf(`${SASHED}\n`)))[0] ?? "{}")
-  expect(base64urlToBytes(line.buildHash)?.[2]).toBe(13)
+  expect(base64urlToBytes(line.buildHash)?.[2]).toBe(CODEC_MINOR_VERSION)
   expect(decodeBuild(buildHash(line.buildHash))?.equipment.armor.waist.data?.level).toBe(1)
   expect(line.result).toBe(resultOf(line))
 })
