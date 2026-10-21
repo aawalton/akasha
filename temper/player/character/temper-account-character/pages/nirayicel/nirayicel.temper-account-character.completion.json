@@ -7421,9 +7421,11 @@
     5853,
     5855,
     5856,
+    5859,
     5880,
     5888,
     5893,
+    5901,
     5902,
     5905,
     5921,
@@ -11148,6 +11150,7 @@
         7
       ],
       "2": [
+        3,
         15
       ],
       "3": [
@@ -13480,7 +13483,9 @@
       5,
       6,
       7,
+      8,
       9,
+      10,
       11,
       12,
       13,
@@ -14115,16 +14120,16 @@
   },
   "inventoryCheck": {
     "date": "2026-10-20",
-    "misplaced": 106
+    "misplaced": 110
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792541823,
+      "capturedAt": 1792542782,
       "buildHash": "ATQNLMUAAIBhxRNCyJtAEIBCyJtAEIBC5gtuULJC5gtuULJC5gtuULJC5gtuULJC5gtuULIQlKtuULJBHb1AEIAQQbtuULImJTHbcoWURBMdbcoWVu4sGXp9K_KyM7yW7rQGnEEA3ddEoG-3AQNgIk4dcnwfAdoWPbia4XTbKyMEI911WUdTaccICU0IiMiAAMzICIiIyIgIyI1IiIgAjIjNCIAIiQgMiJAMARDIiIwOiMjQgOgIiImQzMjQgAAA4IiAiIkozBCIiIjAjoAAAADUixJwyseTLLmTZ2fRp1a9s-hRpU6niqAAAABs8fXL0DFkhaImyN07SJUyd-oUwVUJXHWAAAAAbAlSwIwDCBQxk0HECTZwULGDRw8gRJHSYfBAZBxiQNY",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
-      "ultimate": 43,
-      "health": 22554,
+      "ultimate": 136,
+      "health": 21830,
       "healthBefore": 24546,
       "healthPaired": false,
       "stats": {
@@ -14210,6 +14215,13 @@
           "description": "",
           "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
           "stacks": 0
+        },
+        {
+          "abilityId": 122586,
+          "name": "Merciless Resolve",
+          "description": "",
+          "effect": "",
+          "stacks": 5
         }
       ],
       "pets": [],
@@ -14853,7 +14865,7 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:215597:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:6940:0|h|h",
+          "link": "|H0:item:215597:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:6640:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 2084,
@@ -14993,7 +15005,7 @@
         },
         {
           "slot": 8,
-          "link": "|H0:item:215601:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:7600:0|h|h",
+          "link": "|H0:item:215601:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:7400:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 1823,
@@ -15314,7 +15326,7 @@
       ],
       "inArchive": false,
       "blocking": false,
-      "moving": false,
+      "moving": true,
       "archiveBoons": [],
       "advanced": {
         "healing-critical-bonus": 0.14,
