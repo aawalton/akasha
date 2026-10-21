@@ -102,6 +102,10 @@ export const skillEquation = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Skilled Tracker makes damage tagged `Fighters Guild` 10% stronger.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Minor Berserk on the caster makes damage 5% stronger.",
     },
     {
@@ -254,5 +258,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T11:04:10.698Z",
+  updatedAt: "2026-10-21T12:30:41.224Z",
 } as const satisfies Module

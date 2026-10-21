@@ -20,10 +20,10 @@ export const flawlessDawnbreaker40161 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 517,
   createdAt: "2026-05-28T16:03:32.492Z",
-  updatedAt: "2026-10-21T10:50:49.037Z",
+  updatedAt: "2026-10-21T12:30:41.224Z",
   equations: [
-    "<<1>> = 0.129125 MaxStat + 1.35581 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, AOE, Direct, Melee, 0.4s cooldown, R2 = 1)",
-    "<<2>> = 0.05165 MaxStat + 0.542325 MaxPower (Ultimate, Dmg, Physical, SingleTarget, DOT, 4s duration, 2s tick)",
+    "<<1>> = 0.129125 MaxStat + 1.35581 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, AOE, Direct, Melee, 0.4s cooldown, R2 = 1, single precision, Fighters Guild)",
+    "<<2>> = 0.05165 MaxStat + 0.542325 MaxPower (Ultimate, Dmg, Physical, SingleTarget, DOT, 4s duration, 2s tick, single precision, Fighters Guild)",
     "<<3>> = 6 seconds (Constant)",
     "<<4>> = 300 (Constant)",
     "<<5>> = 20 seconds (Constant)",

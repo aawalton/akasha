@@ -187,6 +187,7 @@ const BONUSES: readonly {
   { held: ["thaumaturge"], tags: [DAMAGE, OVER_TIME], percent: 6 },
   { held: ["biting-aura"], tags: [DAMAGE, "AOE"], percent: 6 },
   { held: ["deadly-aim"], tags: [DAMAGE, "SingleTarget"], percent: 6 },
+  { held: ["skilled-tracker"], tags: [DAMAGE, "Fighters Guild"], percent: 10 },
   { held: ["ancient-knowledge", "lightning-staff"], tags: [DAMAGE, DIRECT], percent: 12 },
   { held: ["ancient-knowledge", "lightning-staff"], tags: [DAMAGE, "Channeled"], percent: 12 },
 ]
