@@ -120,6 +120,7 @@
     "gold-gain": 20,
     "healing-critical-bonus": 0,
     "healing-done-base": 5,
+    "healing-taken-base": 3,
     "health-maximum": 19936,
     "health-recovery": 373,
     "inspiration-gain": 40,
@@ -145,7 +146,6 @@
     "bash-damage": 502,
     "block-mitigation": 52.999996185302734,
     "block-speed": 42,
-    "healing-taken-base": 3,
     "movement-sprint-speed": 143,
     "sneak-cost": 79
   }

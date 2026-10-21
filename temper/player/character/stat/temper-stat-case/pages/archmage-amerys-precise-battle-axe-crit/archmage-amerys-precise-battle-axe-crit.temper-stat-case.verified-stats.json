@@ -33,6 +33,7 @@
     "damage-done-shock": 0,
     "healing-critical-bonus": 12,
     "healing-done-base": 0,
+    "healing-taken-base": 1,
     "health-maximum": 17760,
     "health-recovery": 289,
     "magicka-maximum": 15017,
@@ -62,7 +63,6 @@
     "bash-cost": 704,
     "bash-damage": 265,
     "block-mitigation": 51,
-    "healing-taken-base": 1,
     "movement-sprint-speed": 157,
     "sneak-cost": 53
   }

@@ -41,6 +41,7 @@
     "critical-rating-weapon": 6693,
     "healing-critical-bonus": 12,
     "healing-done-base": 0,
+    "healing-taken-base": 1,
     "health-maximum": 34654,
     "health-recovery": 289,
     "magicka-maximum": 32123,
@@ -72,7 +73,6 @@
     "damage-done-physical": 5,
     "damage-done-poison": 5,
     "damage-done-shock": 5,
-    "healing-taken-base": 1,
     "movement-sprint-speed": 157,
     "sneak-cost": 53,
     "stamina-block-cost": 918
