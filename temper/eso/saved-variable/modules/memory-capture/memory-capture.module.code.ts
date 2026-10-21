@@ -24,14 +24,14 @@ const BARS = ["frontBar", "backBar"] as const
 
 const ACCOUNT = "@"
 
-export type Roots = { readonly characters: bigint | null; readonly fights: bigint | null }
+type Roots = { readonly characters: bigint | null; readonly fights: bigint | null }
 
 export type Seen = {
   readonly readings: Set<string>
   readonly fights: Set<string>
 }
 
-export type Captured = {
+type Captured = {
   readonly readings: readonly BuildReading[]
   readonly fights: readonly Fight[]
   readonly readingsSeen: readonly string[]
