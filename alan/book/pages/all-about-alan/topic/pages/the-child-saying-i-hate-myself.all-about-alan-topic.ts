@@ -13,7 +13,7 @@ export const theChildSayingIHateMyself = {
     "all-about-alan-topic/how-jen-connects-through-words",
   ],
   settled:
-    'I think "I hate myself" is really the Child talking to the Professor, saying "I hate how your choices are affecting me."\n\nOn the night of 20 October 2026 the conversation with Jen left me completely exhausted, and afterwards she held me in silence. I do not think the verdict came after that.',
+    'I think "I hate myself" is really the Child talking to the Professor, saying "I hate how your choices are affecting me."\n\nThe word "hate" might be a translation. I have a hard time telling. It feels like an automatic reflex, a conditioned response.\n\nOn the night of 20 October 2026 the conversation with Jen left me completely exhausted, and afterwards she held me in silence. I do not think the verdict came after that.',
   createdAt: "2026-10-21T13:15:55.543Z",
-  updatedAt: "2026-10-21T13:15:55.543Z",
+  updatedAt: "2026-10-21T13:16:55.299Z",
 } as const satisfies AllAboutAlanTopic
