@@ -20,11 +20,12 @@ export const blur = {
   skillType: "temper-skill-type/active",
   hashPlace: 135,
   createdAt: "2026-05-28T16:03:31.812Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T01:42:11.846Z",
   equations: [
     "<<1>> = 20% (Constant)",
-    "<<2>> = 17 seconds (Constant)",
+    "<<2>> = 20 seconds (Constant)",
     "<<3>> = Roll Dodge (Constant)",
     "<<4>> = 10% (Constant)",
+    "<<5>> = 100% (Constant)",
   ],
 } as const satisfies TemperSkill

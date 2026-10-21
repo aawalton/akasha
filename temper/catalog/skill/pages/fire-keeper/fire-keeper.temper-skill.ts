@@ -20,15 +20,17 @@ export const fireKeeper = {
   skillType: "temper-skill-type/active",
   hashPlace: 512,
   createdAt: "2026-05-28T16:03:32.478Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T01:42:11.846Z",
   equations: [
     "<<1>> = 15 seconds (Constant)",
     "<<2>> = 0.0194428 MaxStat + 0.202931 MaxPower - 1.26031 (Ultimate, ratio = 10.44, Heal, AOE, Direct, 1s tick, R2 = 0.999998)",
     "<<3>> = 1 second (Constant)",
+    "<<9>> = 50% (Constant)",
     "<<4>> = Minor Fortitude (Constant)",
     "<<5>> = Minor Heroism (Constant)",
     "<<6>> = 15 seconds (Constant)",
     "<<7>> = 15% (Constant)",
     "<<8>> = 1 (Constant)",
+    "<<10>> = 1.5 seconds (Constant)",
   ],
 } as const satisfies TemperSkill

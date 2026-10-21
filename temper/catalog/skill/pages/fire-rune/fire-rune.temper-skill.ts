@@ -20,8 +20,9 @@ export const fireRune = {
   skillType: "temper-skill-type/active",
   hashPlace: 513,
   createdAt: "2026-05-28T16:03:32.480Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T01:42:11.846Z",
   equations: [
+    "<<3>> = 2 seconds (Constant)",
     "<<1>> = 20 seconds (Constant)",
     "<<2>> = 0.0999631 MaxStat + 1.0499 MaxPower - 0.231961 (Ultimate, ratio = 10.50, Dmg, Flame, AOE, Direct, Melee, R2 = 1)",
   ],

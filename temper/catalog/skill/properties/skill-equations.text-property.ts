@@ -21,6 +21,19 @@ export const skillEquations = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A number the live tooltip shows and UESP fit none for takes the next free placeholder.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An equation sits in the list where the live tooltip shows its number.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A placeholder the tooltip shows twice is written again, tagged `Repeat`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "UESP's equations are fit for game update 51.",
     },
     {
@@ -29,5 +42,5 @@ export const skillEquations = {
     },
   ],
   createdAt: "2026-10-15T15:41:52.487Z",
-  updatedAt: "2026-10-21T01:40:37.191Z",
+  updatedAt: "2026-10-21T01:42:11.846Z",
 } as const satisfies TextProperty
