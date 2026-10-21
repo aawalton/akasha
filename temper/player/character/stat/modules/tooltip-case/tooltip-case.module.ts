@@ -79,6 +79,10 @@ export const tooltipCase = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A case keeps the stacks of each buff active with stacks, by the buff's name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A case keeps the points its character had in War Mage and in Mighty.",
     },
     {
@@ -88,9 +92,10 @@ export const tooltipCase = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A case's formulas read its buffs, points and medium pieces as what was active.",
+      statement:
+        "A case's formulas read its buffs, stacks, points and medium pieces as what was active.",
     },
   ],
   createdAt: "2026-10-21T01:45:54.419Z",
-  updatedAt: "2026-10-21T04:50:32.260Z",
+  updatedAt: "2026-10-21T04:58:01.221Z",
 } as const satisfies Module

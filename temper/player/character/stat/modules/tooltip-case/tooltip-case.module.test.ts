@@ -85,6 +85,19 @@ test("a case holds the weapons its build held on its own bar, beside its passive
   expect(heldOfCase(build, {}).weapons).toBeUndefined()
 })
 
+test("a case keeps the stacks of each buff active with stacks, and no stacks where none has any", () => {
+  const read = heldOfCase(undefined, {
+    activeBuffs: [
+      { name: "Gallop", stacks: 0 },
+      { name: "Landslide", stacks: 6 },
+    ],
+  })
+
+  expect(read.buffs).toEqual(["Gallop", "Landslide"])
+  expect(read.stacks).toEqual({ Landslide: 6 })
+  expect(heldOfCase(undefined, { activeBuffs: [{ name: "Gallop" }] }).stacks).toBeUndefined()
+})
+
 test("a case is written as text that reads back as the same case", () => {
   const pinned = pinnedTooltipCaseOf(READ, EQUATIONS)
 

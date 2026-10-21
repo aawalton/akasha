@@ -37,6 +37,7 @@ export const tooltipCaseShape = z.strictObject({
   passives: z.array(z.string()).optional(),
   stars: z.array(z.string()).optional(),
   buffs: z.array(z.string()).optional(),
+  stacks: numbersByName.optional(),
   championPoints: numbersByName.optional(),
   mediumPieces: z.number().optional(),
   weapons: z.array(z.string()).optional(),
@@ -105,7 +106,7 @@ export function heldOfBuild(hash: string): BuildHeld | undefined {
 }
 
 export type ReadingHeld = {
-  readonly activeBuffs?: readonly { readonly name: string }[]
+  readonly activeBuffs?: readonly { readonly name: string; readonly stacks?: number }[]
   readonly championPoints?: readonly { readonly championSkillId: number; readonly points: number }[]
 }
 
@@ -113,14 +114,18 @@ const POINTS_KEPT = [warMage, mighty]
 
 export function heldOfReading(
   reading: ReadingHeld
-): Pick<TooltipCaseRead, "buffs" | "championPoints"> {
+): Pick<TooltipCaseRead, "buffs" | "stacks" | "championPoints"> {
   const { activeBuffs, championPoints } = reading
+  const stacked = (activeBuffs ?? []).filter((one) => (one.stacks ?? 0) > 0)
   const pointsOf = (id: number) =>
     championPoints?.find((one) => one.championSkillId === id)?.points ?? 0
   return {
     ...(activeBuffs === undefined
       ? {}
       : { buffs: [...new Set(activeBuffs.map((one) => one.name))] }),
+    ...(stacked.length === 0
+      ? {}
+      : { stacks: Object.fromEntries(stacked.map((one) => [one.name, one.stacks ?? 0])) }),
     ...(championPoints === undefined
       ? {}
       : {
@@ -137,7 +142,7 @@ export function heldOfCase(
   bar?: Bar
 ): Pick<
   TooltipCaseRead,
-  "passives" | "stars" | "buffs" | "championPoints" | "mediumPieces" | "weapons"
+  "passives" | "stars" | "buffs" | "stacks" | "championPoints" | "mediumPieces" | "weapons"
 > {
   if (build === undefined) return heldOfReading(reading)
   const { weapons, ...worn } = build
@@ -156,10 +161,11 @@ export function heldSetOf(
 }
 
 export function activeOf(
-  read: Pick<TooltipCaseRead, "buffs" | "championPoints" | "mediumPieces">
+  read: Pick<TooltipCaseRead, "buffs" | "stacks" | "championPoints" | "mediumPieces">
 ): ActiveHeld {
   return {
     buffs: new Set(read.buffs ?? []),
+    stacks: read.stacks ?? {},
     championPoints: read.championPoints ?? {},
     mediumPieces: read.mediumPieces ?? 0,
   }
@@ -228,6 +234,7 @@ export function tooltipCaseOf(
     ...(read.passives === undefined ? {} : { passives: [...read.passives].sort() }),
     ...(read.stars === undefined ? {} : { stars: [...read.stars].sort() }),
     ...(read.buffs === undefined ? {} : { buffs: [...read.buffs].sort() }),
+    ...(read.stacks === undefined ? {} : { stacks: inNameOrder(read.stacks) }),
     ...(read.championPoints === undefined
       ? {}
       : { championPoints: inNameOrder(read.championPoints) }),

@@ -131,8 +131,17 @@ export const skillEquation = {
       statement: "A pet's damage is worked as the caster's own, and its numbers are kept as gaps.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Landslide on the caster adds 1% to the bonuses damage takes, at any stack count.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each stack of Landslide makes damage 1% stronger, after the bonuses multiply it.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
-      statement: "A buff that stacks on the caster is not read, and the numbers it grows are gaps.",
+      statement:
+        "A reading gives Merciless Charge no stacks, so the numbers its stacks grow are gaps.",
     },
     {
       decisionKind: "decision-kind/stopgap",
@@ -141,5 +150,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T04:27:46.146Z",
+  updatedAt: "2026-10-21T04:58:01.221Z",
 } as const satisfies Module

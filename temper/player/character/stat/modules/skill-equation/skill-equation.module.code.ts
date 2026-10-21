@@ -103,9 +103,15 @@ export type ActiveHeld = {
   readonly buffs: ReadonlySet<string>
   readonly championPoints: Readonly<Record<string, number>>
   readonly mediumPieces: number
+  readonly stacks: Readonly<Record<string, number>>
 }
 
-export const NOTHING_ACTIVE: ActiveHeld = { buffs: new Set(), championPoints: {}, mediumPieces: 0 }
+export const NOTHING_ACTIVE: ActiveHeld = {
+  buffs: new Set(),
+  championPoints: {},
+  mediumPieces: 0,
+  stacks: {},
+}
 
 export function tooltipPairingOf(
   description: string,
@@ -170,6 +176,20 @@ const BONUSES: readonly {
 
 const DAMAGE_BUFFS: Readonly<Record<string, number>> = {
   "Minor Berserk": 5,
+  Landslide: 1,
+}
+
+const DAMAGE_PER_STACK: Readonly<Record<string, number>> = {
+  Landslide: 1,
+}
+
+function stackedOf(equation: Equation, active: ActiveHeld): number {
+  if (!isDamage(equation)) return 1
+  const percent = Object.entries(active.stacks).reduce(
+    (sum, [buff, stacks]) => sum + (DAMAGE_PER_STACK[buff] ?? 0) * stacks,
+    0
+  )
+  return 1 + percent / 100
 }
 
 function bonusOf(
@@ -283,7 +303,7 @@ function tooltipValueOf(
   if (worked === undefined) return undefined
   if (!equation.scaled) return worked + longerBy(equation, passives)
   if (equation.tags.includes(SHIELD)) return shieldOf(equation, worked, stats, passives)
-  const bonused = bonusOf(equation, passives, active) * worked
+  const bonused = bonusOf(equation, passives, active) * stackedOf(equation, active) * worked
   if (!isDamage(equation)) return Math.round(bonused)
   return Math.floor(bonused) * ticksOf(equation, durationMs)
 }

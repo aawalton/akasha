@@ -151,6 +151,7 @@ test("direct damage reads the power War Mage, Mighty and Wrathful Strikes add be
     buffs: new Set(["Major Brutality"]),
     championPoints: { "war-mage": 30 },
     mediumPieces: 5,
+    stacks: {},
   }
 
   expect(worked(new Set(["wrathful-strikes"]), brutal)).toBe(at(5366))
@@ -171,6 +172,26 @@ test("Minor Berserk on the caster makes damage 5% stronger, added to the stars s
 
   expect(worked(lash, new Set(["master-at-arms"]))).toBe(Math.floor(1.11 * raw))
   expect(worked(heal, new Set())).toBe(Math.round(raw))
+})
+
+test("Landslide adds 1% to the bonuses, and each of its stacks makes damage 1% stronger after", () => {
+  const lash = "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Dmg, Flame, SingleTarget, Direct)"
+  const heal = "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Heal)"
+  const worked = (line: string, stacks: number) => {
+    const active = {
+      ...NOTHING_ACTIVE,
+      buffs: new Set(["Landslide"]),
+      stacks: { Landslide: stacks },
+    }
+    const held = new Set(["master-at-arms"])
+    const paired = tooltipPairingOf("dealing |cffffff1|r", [line], STATS, held, active)
+    return paired.paired ? paired.numbers[0]?.temper : undefined
+  }
+  const raw = 0.1 * 20000 + 1.05 * 5000
+
+  expect(worked(lash, 12)).toBe(Math.floor(1.07 * 1.12 * raw))
+  expect(worked(lash, 1)).toBe(Math.floor(1.07 * 1.01 * raw))
+  expect(worked(heal, 12)).toBe(Math.round(raw))
 })
 
 test("damage over time totals a tick for each tick in the game's duration, and one more where it ticks on application", () => {
