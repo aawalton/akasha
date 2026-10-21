@@ -12,7 +12,7 @@ export const jenTellingMeStories = {
     "all-about-alan-topic/how-jen-connects-through-words",
   ],
   settled:
-    "Jen does like telling stories. But part of the telling is getting appropriate responses, and that activates the Professor for me.",
+    'Jen does like telling stories. But part of the telling is getting appropriate responses, and that activates the Professor for me.\n\nI do not think an agreed wordless response, like a squeeze of her hand or a "mm", would do instead, because of how much verbalization is tied into her cognition of connection.',
   createdAt: "2026-10-21T13:46:28.174Z",
-  updatedAt: "2026-10-21T13:46:28.174Z",
+  updatedAt: "2026-10-21T13:46:49.337Z",
 } as const satisfies AllAboutAlanTopic
