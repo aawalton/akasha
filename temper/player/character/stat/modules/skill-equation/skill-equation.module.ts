@@ -106,6 +106,10 @@ export const skillEquation = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Piercing Cold makes Frost damage 15% stronger.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Minor Berserk on the caster makes damage 5% stronger.",
     },
     {
@@ -267,5 +271,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T13:38:27.756Z",
+  updatedAt: "2026-10-21T13:58:44.213Z",
 } as const satisfies Module

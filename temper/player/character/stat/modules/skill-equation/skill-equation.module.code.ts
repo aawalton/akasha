@@ -1,5 +1,6 @@
 import { mighty } from "akasha/temper/catalog/champion-point/temper-champion-star/pages/mighty.temper-champion-star.ts"
 import { warMage } from "akasha/temper/catalog/champion-point/temper-champion-star/pages/war-mage.temper-champion-star.ts"
+import type { TooltipPairing } from "akasha/temper/player/character/stat/modules/tooltip-pairing/tooltip-pairing.module.code.ts"
 
 export type EquationStats = {
   readonly maxStat: number
@@ -69,18 +70,6 @@ export function equationOf(line: string): Equation | undefined {
     tags: tagged === "" ? [] : tagged.split(", "),
   }
 }
-
-export type TooltipNumber = {
-  readonly placeholder: number
-  readonly equation: string
-  readonly scaled: boolean
-  readonly game: number
-  readonly temper: number | null
-}
-
-export type TooltipPairing =
-  | { readonly paired: true; readonly numbers: readonly TooltipNumber[] }
-  | { readonly paired: false; readonly shown: readonly number[]; readonly equations: number }
 
 const SHOWN = /\|c[0-9a-fA-F]{6}(-?\d+(?:\.\d+)?)\|r/g
 
@@ -190,6 +179,7 @@ const BONUSES: readonly {
   { held: ["thaumaturge"], tags: [DAMAGE, OVER_TIME], percent: 6 },
   { held: ["biting-aura"], tags: [DAMAGE, "AOE"], percent: 6 },
   { held: ["deadly-aim"], tags: [DAMAGE, "SingleTarget"], percent: 6 },
+  { held: ["piercing-cold"], tags: [DAMAGE, "Frost"], percent: 15 },
   { held: ["skilled-tracker"], tags: [DAMAGE, "Fighters Guild"], percent: 10 },
   { held: ["ancient-knowledge", "lightning-staff"], tags: [DAMAGE, DIRECT], percent: 12 },
   { held: ["ancient-knowledge", "lightning-staff"], tags: [DAMAGE, "Channeled"], percent: 12 },

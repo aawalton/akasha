@@ -32,8 +32,6 @@ import {
   type ActiveHeld,
   equationStatsOf,
   NOTHING_ACTIVE,
-  type TooltipNumber,
-  type TooltipPairing,
   tooltipPairingOf,
 } from "akasha/temper/player/character/stat/modules/skill-equation/skill-equation.module.code.ts"
 import {
@@ -50,6 +48,10 @@ import {
   skillStatsOf,
   skillValuesIn,
 } from "akasha/temper/player/character/stat/modules/tooltip-case/tooltip-case.module.code.ts"
+import type {
+  TooltipNumber,
+  TooltipPairing,
+} from "akasha/temper/player/character/stat/modules/tooltip-pairing/tooltip-pairing.module.code.ts"
 import { readings } from "akasha/temper/player/character/temper-account-character/properties/readings.file-property.ts"
 import { temperAccountCharacter } from "akasha/temper/player/character/temper-account-character/temper-account-character.page-type.ts"
 

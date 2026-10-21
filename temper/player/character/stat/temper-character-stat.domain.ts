@@ -71,6 +71,7 @@ export const temperCharacterStat = {
     "module/scoped-healing",
     "module/stale-sheet-rows",
     "module/extract-pure-class-passives",
+    "module/tooltip-pairing",
   ],
   directives: [
     {
@@ -112,5 +113,5 @@ export const temperCharacterStat = {
     },
   ],
   createdAt: "2026-09-02T08:15:09.030Z",
-  updatedAt: "2026-10-21T13:01:50.457Z",
+  updatedAt: "2026-10-21T13:58:44.213Z",
 } as const satisfies Domain
