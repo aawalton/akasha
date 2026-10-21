@@ -72,6 +72,11 @@ export const trackSessionSwitch = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A `switch` whose day another writer changed before it landed reads the day again and retries.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Two days one act changes land in a single commit.",
     },
     {
@@ -125,5 +130,5 @@ export const trackSessionSwitch = {
     { argument: "argument/relationship", repeats: true },
   ],
   createdAt: "2026-09-07T01:26:40.479Z",
-  updatedAt: "2026-09-30T09:54:28.000Z",
+  updatedAt: "2026-10-21T10:07:19.212Z",
 } as const satisfies Command

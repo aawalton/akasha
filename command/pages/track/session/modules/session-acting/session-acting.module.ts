@@ -50,6 +50,15 @@ export const sessionActing = {
       statement: "Neither difference shows on a terminal, where both read the same way.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An act refused for a passage its day no longer holds is read and composed again, three tries in all.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Another writer may land on a day between an act's read and its landing.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here breaks the glass.",
     },
@@ -59,5 +68,5 @@ export const sessionActing = {
     },
   ],
   createdAt: "2026-09-07T01:26:40.325Z",
-  updatedAt: "2026-09-25T14:14:04.000Z",
+  updatedAt: "2026-10-21T10:07:19.212Z",
 } as const satisfies Module

@@ -1,5 +1,6 @@
 import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
+import { NO_SUCH_PASSAGE } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { told } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { filing } from "akasha/command/modules/mechanical-filing/mechanical-filing.module.code.ts"
@@ -100,6 +101,18 @@ export async function landedAcross(
   } finally {
     rmSync(scratch, { recursive: true, force: true })
   }
+}
+
+const TRIES = 3
+
+function staleIn(said: Answer): boolean {
+  return said.refusals.some((one) => one.includes(NO_SUCH_PASSAGE))
+}
+
+export async function freshly(act: () => Promise<Answer>, tries: number = TRIES): Promise<Answer> {
+  let said = await act()
+  for (let left = tries - 1; left > 0 && staleIn(said); left -= 1) said = await act()
+  return said
 }
 
 export function landed(

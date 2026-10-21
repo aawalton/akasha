@@ -21,6 +21,7 @@ import {
 } from "akasha/command/pages/track/modules/waking/waking.module.code.ts"
 import {
   endingIn,
+  freshly,
   landedAcross,
   movedInto,
   standingFor,
@@ -34,7 +35,11 @@ import { trackSessionSwitch as page } from "akasha/command/pages/track/session/s
 
 const NAMED = [day, safety, difficulty, title, at, relationship]
 
-export async function trackSessionSwitch(argv: readonly string[], given: Given): Promise<Answer> {
+export function trackSessionSwitch(argv: readonly string[], given: Given): Promise<Answer> {
+  return freshly(() => switchedOnce(argv, given))
+}
+
+async function switchedOnce(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()
   const read = takenFor(argv, given.calledAs, page, NAMED)
   if ("refused" in read) return mistaking(read.refused)

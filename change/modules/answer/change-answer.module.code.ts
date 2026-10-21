@@ -2,6 +2,8 @@ import { meantSaid } from "akasha/text/writing/modules/suggest-closest/suggest-c
 
 const NOT_TEXT_SAID = "is not text, so no passage in it is changed"
 
+export const NO_SUCH_PASSAGE = "holds no such passage, so nothing is changed"
+
 const NOT_TEXT_ENDED = "is not text, so nothing is put at the end of it"
 
 const TWICE =
@@ -231,7 +233,7 @@ function replacedIn(one: Replacing, textOf: BodyOf): Expanded {
   }
   const first = text.indexOf(one.contentFrom)
   if (first < 0) {
-    return { refused: `\`${one.path}\` holds no such passage, so nothing is changed` }
+    return { refused: `\`${one.path}\` ${NO_SUCH_PASSAGE}` }
   }
   if (text.indexOf(one.contentFrom, first + 1) >= 0) {
     return { refused: `\`${one.path}\` ${TWICE}` }

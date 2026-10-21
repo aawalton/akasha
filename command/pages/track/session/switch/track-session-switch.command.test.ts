@@ -10,6 +10,7 @@ import { difficulty } from "akasha/command/argument/pages/difficulty.argument.ts
 import { relationship } from "akasha/command/argument/pages/relationship.argument.ts"
 import { safety } from "akasha/command/argument/pages/safety.argument.ts"
 import { title } from "akasha/command/argument/pages/title.argument.ts"
+import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { scratch } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
@@ -19,7 +20,10 @@ import {
   dayRepo,
   ROWS_AT,
 } from "akasha/command/pages/track/modules/session-rows/session-rows.module.test-fixtures.ts"
-import { endingIn } from "akasha/command/pages/track/session/modules/session-acting/session-acting.module.code.ts"
+import {
+  endingIn,
+  freshly,
+} from "akasha/command/pages/track/session/modules/session-acting/session-acting.module.code.ts"
 import { trackSessionSwitch } from "akasha/command/pages/track/session/switch/track-session-switch.command.code.ts"
 import { trackSessionSwitch as page } from "akasha/command/pages/track/session/switch/track-session-switch.command.ts"
 
@@ -74,6 +78,44 @@ test("a close on a day with no stretch open takes nothing from the day before", 
   expect(endingIn(root, next, unmade(next), [], false)).toBe(
     "this day carries no open stretch to end"
   )
+})
+
+const STALE = {
+  report: [],
+  refusals: ["`day.day.ts` holds no such passage, so nothing is changed"],
+  code: DATA,
+}
+
+const LANDED = { report: ["landed"], refusals: [], code: 0 }
+
+test("an act refused for a day another writer changed is composed again and lands", async () => {
+  let tries = 0
+  const said = await freshly(() => {
+    tries += 1
+    return Promise.resolve(tries === 1 ? STALE : LANDED)
+  })
+  expect(tries).toBe(2)
+  expect(said).toEqual(LANDED)
+})
+
+test("an act still refused for a stale day after three tries answers that refusal", async () => {
+  let tries = 0
+  const said = await freshly(() => {
+    tries += 1
+    return Promise.resolve(STALE)
+  })
+  expect(tries).toBe(3)
+  expect(said).toEqual(STALE)
+})
+
+test("an act refused for any other reason is not tried again", async () => {
+  let tries = 0
+  const other = { report: [], refusals: ["something else"], code: DATA }
+  await freshly(() => {
+    tries += 1
+    return Promise.resolve(other)
+  })
+  expect(tries).toBe(1)
 })
 
 async function refusalsOf(argv: readonly string[]): Promise<readonly string[]> {
