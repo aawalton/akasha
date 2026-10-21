@@ -22,6 +22,7 @@
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/chilled-damage/chilled-damage.temper-metric.formula.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/concussion-damage/concussion-damage.temper-metric.formula.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/constitution/constitution.temper-metric.formula.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/core-ability-cost/core-ability-cost.temper-metric.formula.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/critical-damage-spell/critical-damage-spell.temper-metric.formula.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/critical-damage-taken/critical-damage-taken.temper-metric.formula.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/critical-damage-total/critical-damage-total.temper-metric.formula.ts","typed":true,"deferred":false}

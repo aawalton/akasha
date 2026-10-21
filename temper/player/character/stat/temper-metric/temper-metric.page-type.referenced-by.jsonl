@@ -68,6 +68,7 @@
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/companion-weapon-damage/companion-weapon-damage.temper-metric.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/concussion-damage/concussion-damage.temper-metric.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/constitution/constitution.temper-metric.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/core-ability-cost/core-ability-cost.temper-metric.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/critical-damage-spell/critical-damage-spell.temper-metric.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/critical-damage-taken/critical-damage-taken.temper-metric.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/critical-damage-total/critical-damage-total.temper-metric.ts","typed":true,"deferred":false}

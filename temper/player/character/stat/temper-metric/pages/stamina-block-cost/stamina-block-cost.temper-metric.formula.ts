@@ -20,5 +20,18 @@ export const FORMULA: FormulaNode = {
         },
       ],
     },
+    {
+      type: "add",
+      operands: [
+        {
+          type: "constant",
+          value: 1,
+        },
+        {
+          type: "metric-refs",
+          metricIds: ["core-ability-cost"],
+        },
+      ],
+    },
   ],
 }

@@ -19,6 +19,7 @@ export type MetricId =
   | "chilled-damage"
   | "concussion-damage"
   | "constitution"
+  | "core-ability-cost"
   | "critical-damage"
   | "critical-damage-spell"
   | "critical-damage-taken"

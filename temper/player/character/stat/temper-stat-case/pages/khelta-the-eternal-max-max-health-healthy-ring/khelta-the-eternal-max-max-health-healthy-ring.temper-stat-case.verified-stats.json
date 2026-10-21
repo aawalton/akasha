@@ -69,6 +69,7 @@
     "resistance-poison": 21705,
     "resistance-shock": 21705,
     "resistance-spell": 21705,
+    "stamina-block-cost": 1645,
     "stamina-dodge-cost": 4646,
     "stamina-maximum": 15400,
     "stamina-recovery": 758
@@ -89,7 +90,6 @@
     "damage-done-shock": 5,
     "movement-sprint-speed": 137,
     "sneak-cost": 133,
-    "stamina-block-cost": 1645,
     "stamina-sprint-cost": 432
   }
 }
