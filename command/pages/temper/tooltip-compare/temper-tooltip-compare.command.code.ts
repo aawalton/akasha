@@ -23,27 +23,24 @@ import {
   shortIdOf,
 } from "akasha/command/pages/temper/modules/stat-reading-lines/stat-reading-lines.module.code.ts"
 import { temperTooltipCompare as page } from "akasha/command/pages/temper/tooltip-compare/temper-tooltip-compare.command.ts"
-import {
-  listedAt,
-  valuesOfType,
-} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { temperScribedSkill } from "akasha/temper/catalog/skill/temper-scribed-skill/temper-scribed-skill.page-type.ts"
-import { temperSkill } from "akasha/temper/catalog/skill/temper-skill.page-type.ts"
 import {
   equationStatsOf,
   type TooltipNumber,
   type TooltipPairing,
   tooltipPairingOf,
 } from "akasha/temper/player/character/stat/modules/skill-equation/skill-equation.module.code.ts"
+import {
+  type Equations,
+  equationsIn,
+} from "akasha/temper/player/character/stat/modules/tooltip-case/tooltip-case.module.code.ts"
 import { readings } from "akasha/temper/player/character/temper-account-character/properties/readings.file-property.ts"
 import { temperAccountCharacter } from "akasha/temper/player/character/temper-account-character/temper-account-character.page-type.ts"
 
 const NAMED = [character, readingCount, capturedAt, readingId, json]
 
 const NUMBER = 8
-
-export type Equations = ReadonlyMap<number, readonly string[]>
 
 export type ComparedSkill = {
   readonly slot: number
@@ -57,21 +54,6 @@ export type Tally = {
   readonly matched: number
   readonly unpaired: number
   readonly unmodelled: number
-}
-
-export function equationsIn(root: string): Equations {
-  const found = new Map<number, readonly string[]>()
-  for (const type of [temperSkill.slug, temperScribedSkill.slug]) {
-    for (const one of valuesOfType(root, type)) {
-      const { esoSkillId, equations } = one.value
-      if (typeof esoSkillId !== "number" || !Array.isArray(equations)) continue
-      found.set(
-        esoSkillId,
-        equations.filter((line): line is string => typeof line === "string")
-      )
-    }
-  }
-  return found
 }
 
 export function comparedSkillsOf(

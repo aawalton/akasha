@@ -64,6 +64,9 @@ export const temperCharacterStat = {
     "module/fete-unsettled",
     "module/worn-item-levels",
     "module/reading-hash-rewriting",
+    "page-type/temper-tooltip-case",
+    "module/tooltip-case",
+    "module/reading-line-picking",
   ],
   directives: [
     {
@@ -105,5 +108,5 @@ export const temperCharacterStat = {
     },
   ],
   createdAt: "2026-09-02T08:15:09.030Z",
-  updatedAt: "2026-10-20T19:14:57.596Z",
+  updatedAt: "2026-10-21T01:45:54.419Z",
 } as const satisfies Domain

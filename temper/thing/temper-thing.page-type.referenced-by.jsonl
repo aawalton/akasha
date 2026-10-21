@@ -15,6 +15,7 @@
 {"propertySlug":"extends-type","path":"temper/player/character/source/temper-target/temper-target.page-type.ts","id":"01a0df56-c3dc-7c2d-a644-96687915fe2c"}
 {"propertySlug":"extends-type","path":"temper/player/character/stat/temper-metric/temper-metric.page-type.ts","id":"01a0de62-56d1-75d0-b8d4-a408bdd782f2"}
 {"propertySlug":"extends-type","path":"temper/player/character/stat/temper-stat-case/temper-stat-case.page-type.ts","id":"01a13b68-e810-7cb5-b143-e4ca8335a98f"}
+{"propertySlug":"extends-type","path":"temper/player/character/stat/temper-tooltip-case/temper-tooltip-case.page-type.ts","id":"01a15c22-e9f5-75f7-9745-a2c568d3905c"}
 {"propertySlug":"extends-type","path":"temper/player/character/thing/temper-character-thing.page-type.ts","id":"01a05fc7-2438-772b-b909-71a3ac0f3bc7"}
 {"propertySlug":"extends-type","path":"temper/player/holdings/temper-guild-trader/temper-guild-trader.page-type.ts","id":"01a05fcb-fd2c-7cff-9144-3d6612a42fa5"}
 {"propertySlug":"extends-type","path":"temper/player/holdings/temper-guild/temper-guild.page-type.ts","id":"01a0d8a0-61b4-76dd-999f-c1340a514527"}
@@ -43,6 +44,7 @@
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/player/character/source/temper-target/temper-target.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/player/character/stat/temper-metric/temper-metric.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/player/character/stat/temper-stat-case/temper-stat-case.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/player/character/stat/temper-tooltip-case/temper-tooltip-case.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/player/character/thing/temper-character-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/player/holdings/temper-guild-trader/temper-guild-trader.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/player/holdings/temper-guild/temper-guild.page-type.types.ts","typed":true,"deferred":false}

@@ -195,6 +195,7 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/player/character/stat/modules/champion-damage-taken/champion-damage-taken.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/player/character/stat/modules/metrics/metrics.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/player/character/stat/modules/stat-case/stat-case.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/player/character/stat/modules/tooltip-case/tooltip-case.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/player/completion/modules/completion-record/completion-record.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/player/completion/modules/held-lore-library/held-lore-library.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/player/progress/temper-rule-template/modules/rule-template-catalog/rule-template-catalog.module.test-fixtures.ts","typed":false,"deferred":false}

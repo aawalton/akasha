@@ -58,6 +58,8 @@
 {"propertySlug":"change-kind","path":"change/agent/page/generate-foods-and-drinks/generate-foods-and-drinks.change-agent.ts","id":"01a15a11-801f-76e8-8e38-9513600136bd"}
 {"propertySlug":"change-kind","path":"change/agent/page/pin-stat-case-gaps/pin-stat-case-gaps.change-agent.ts","id":"01a15b07-0fa7-733e-b5ea-13e6a8cd3e81"}
 {"propertySlug":"change-kind","path":"change/agent/page/pin-stat-case/pin-stat-case.change-agent.ts","id":"01a13b71-0505-7295-b80f-664bb22fb765"}
+{"propertySlug":"change-kind","path":"change/agent/page/pin-tooltip-case-gaps/pin-tooltip-case-gaps.change-agent.ts","id":"01a15c22-e9f4-72f2-acfc-3493433b213f"}
+{"propertySlug":"change-kind","path":"change/agent/page/pin-tooltip-case/pin-tooltip-case.change-agent.ts","id":"01a15c22-e9f4-758e-a4ea-388bbbfdd74f"}
 {"propertySlug":"change-kind","path":"change/agent/page/rename-page/rename-page.change-agent.ts","id":"01a07718-c9b6-7e8c-bc13-5927529ac249"}
 {"propertySlug":"change-kind","path":"change/agent/page/rename-pages/rename-pages.change-agent.ts","id":"01a08337-0d7c-7cd3-bad9-c30420f68ccf"}
 {"propertySlug":"change-kind","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.ts","id":"01a0824b-a376-7b9f-a01a-c3a1e81c3286"}

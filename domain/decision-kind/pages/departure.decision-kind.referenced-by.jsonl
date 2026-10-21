@@ -1428,6 +1428,8 @@
 {"propertySlug":"decision-kind","path":"change/agent/page/generate-foods-and-drinks/generate-foods-and-drinks.change-agent.ts","id":"01a15a11-801f-76e8-8e38-9513600136bd"}
 {"propertySlug":"decision-kind","path":"change/agent/page/pin-stat-case-gaps/pin-stat-case-gaps.change-agent.ts","id":"01a15b07-0fa7-733e-b5ea-13e6a8cd3e81"}
 {"propertySlug":"decision-kind","path":"change/agent/page/pin-stat-case/pin-stat-case.change-agent.ts","id":"01a13b71-0505-7295-b80f-664bb22fb765"}
+{"propertySlug":"decision-kind","path":"change/agent/page/pin-tooltip-case-gaps/pin-tooltip-case-gaps.change-agent.ts","id":"01a15c22-e9f4-72f2-acfc-3493433b213f"}
+{"propertySlug":"decision-kind","path":"change/agent/page/pin-tooltip-case/pin-tooltip-case.change-agent.ts","id":"01a15c22-e9f4-758e-a4ea-388bbbfdd74f"}
 {"propertySlug":"decision-kind","path":"change/agent/page/rename-page/rename-page.change-agent.ts","id":"01a07718-c9b6-7e8c-bc13-5927529ac249"}
 {"propertySlug":"decision-kind","path":"change/agent/page/rename-pages/rename-pages.change-agent.ts","id":"01a08337-0d7c-7cd3-bad9-c30420f68ccf"}
 {"propertySlug":"decision-kind","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.ts","id":"01a0824b-a376-7b9f-a01a-c3a1e81c3286"}
@@ -6490,6 +6492,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-tree/metric-tree.module.ts","id":"01a0d89c-8d0f-761e-97e4-9da2a32bd2fd"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metrics/metrics.module.ts","id":"01a06131-abb7-7c5f-81a0-69154a33d704"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/reading-hash-rewriting/reading-hash-rewriting.module.ts","id":"01a15abc-fdbd-7bf0-9ccf-0fa265cd3fee"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/reading-line-picking/reading-line-picking.module.ts","id":"01a15c22-e9f4-7536-8094-62240bbf9b61"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/rotation-healing/rotation-healing.module.ts","id":"01a13c1f-1abb-7f13-9091-5df53ed127a3"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/rotation-reading/rotation-reading.module.ts","id":"01a155a6-255f-774a-8cbf-800fdcde0042"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/skill-damage/skill-damage.module.ts","id":"01a13fef-5e7e-711d-90eb-ebfc00e306bb"}
@@ -6498,6 +6501,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/skill-ultimate/skill-ultimate.module.ts","id":"01a14006-0ced-7fdc-85fa-30d67668f304"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/stat-case/stat-case.module.ts","id":"01a13b6c-6cf8-7106-b132-ed425b58823b"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/text-pattern/text-pattern.module.ts","id":"01a155a1-bc4b-74f4-98e5-d57acd2c60a3"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/tooltip-case/tooltip-case.module.ts","id":"01a15c22-e9f5-764d-965a-2b61686e7be6"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/toughness-per-second/toughness-per-second.module.ts","id":"01a1401f-7dda-79c3-ab0f-a1eba03597fa"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/weapon-attacks/weapon-attacks.module.ts","id":"01a1557c-462c-7d40-af65-f5dd2f7cd3fc"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/worn-item-levels/worn-item-levels.module.ts","id":"01a15a76-74bd-7eb4-bedd-5978bf822f01"}
@@ -6511,6 +6515,8 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-metric/temper-metric.page-type.ts","id":"01a0de62-56d1-75d0-b8d4-a408bdd782f2"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-stat-case/properties/verified-stats.file-property.ts","id":"01a13b68-e80f-777b-8625-32a325ab6946"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-stat-case/temper-stat-case.page-type.ts","id":"01a13b68-e810-7cb5-b143-e4ca8335a98f"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-tooltip-case/properties/verified-tooltips.file-property.ts","id":"01a15c22-e9f5-74c6-a10b-6146d0edb047"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-tooltip-case/temper-tooltip-case.page-type.ts","id":"01a15c22-e9f5-75f7-9745-a2c568d3905c"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account-character/modules/character-lines-landing/character-lines-landing.module.ts","id":"01a15589-7ec5-775c-8353-ac6f1c90b185"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account-character/modules/character-race-class/character-race-class.module.ts","id":"01a15681-d9a2-793a-869c-8bd071379f24"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account-character/properties/fights.file-property.ts","id":"01a15437-380d-7919-88d8-c794180aa539"}

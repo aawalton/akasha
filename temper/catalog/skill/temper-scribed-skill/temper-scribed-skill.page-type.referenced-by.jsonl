@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"temper-scribed-skill.page-type.ts","path":"command/pages/temper/tooltip-compare/temper-tooltip-compare.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-scribed-skill.page-type.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-scribed-skill-map/character-capture-scribed-skill-map.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-scribed-skill.page-type.ts","path":"temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-scribed-skill.page-type.ts","path":"temper/player/character/stat/modules/tooltip-case/tooltip-case.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-scribed-skill.page-type.ts","path":"temper/web/modules/use-skill-catalog/use-skill-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-scribed-skill.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-scribed-skill-map/character-capture-scribed-skill-map.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-scribed-skill.page-type.types.ts","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-banner-bearer-flame-damage.temper-scribed-skill.ts","typed":true,"deferred":false}
@@ -111,3 +111,4 @@
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/extract-sets/extract-sets.module.ts","id":"01a06271-abcf-7e09-9c2e-cff7fd7c0f46"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.ts","id":"01a06271-abd0-7258-9fc4-ca306f191976"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/stat-case/stat-case.module.ts","id":"01a13b6c-6cf8-7106-b132-ed425b58823b"}
+{"propertySlug":"test-reads","path":"temper/player/character/stat/modules/tooltip-case/tooltip-case.module.ts","id":"01a15c22-e9f5-764d-965a-2b61686e7be6"}

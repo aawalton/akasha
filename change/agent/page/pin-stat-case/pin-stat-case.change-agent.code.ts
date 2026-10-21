@@ -14,6 +14,12 @@ import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/s
 import { isUnsettled } from "akasha/temper/player/character/stat/modules/fete-unsettled/fete-unsettled.module.code.ts"
 import { loadMetricCatalog } from "akasha/temper/player/character/stat/modules/metric-catalog-loading/metric-catalog-loading.module.code.ts"
 import {
+  isPicked,
+  linesOf,
+  newestOf,
+  stampOf,
+} from "akasha/temper/player/character/stat/modules/reading-line-picking/reading-line-picking.module.code.ts"
+import {
   elderDragonHeldOf,
   pinnedCaseOf,
   sheetStatsOf,
@@ -24,7 +30,6 @@ import { temperStatCase } from "akasha/temper/player/character/stat/temper-stat-
 import { readings } from "akasha/temper/player/character/temper-account-character/properties/readings.file-property.ts"
 import { temperAccountCharacter } from "akasha/temper/player/character/temper-account-character/temper-account-character.page-type.ts"
 import { reportedStatsReadingSchema } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
-import { z } from "zod"
 
 const CHARACTER = "character"
 
@@ -41,23 +46,9 @@ const BARS = {
 
 const BAR_KEYS = { front: "frontBar", back: "backBar" } as const
 
-const lineShape = z.object({
-  id: z.string(),
-  buildHash: z.string(),
-  bar: z.enum(["frontBar", "backBar"]),
-  reading: z.looseObject({ capturedAt: z.number() }),
-})
-
-type Line = z.infer<typeof lineShape>
-
 type Asked = Readonly<Record<string, string>>
 
 type Pin = typeof pinnedCaseOf
-
-function stampOf(capturedAt: number): string {
-  const iso = new Date(capturedAt * 1000).toISOString()
-  return `${iso.slice(0, 10)}-${iso.slice(11, 13)}${iso.slice(14, 16)}`
-}
 
 function pageFor(slug: string, title: string, typesAt: string): string {
   return [
@@ -71,28 +62,6 @@ function pageFor(slug: string, title: string, typesAt: string): string {
     "} as const satisfies TemperStatCase",
     "",
   ].join("\n")
-}
-
-function linesOf(text: string): readonly Line[] {
-  const lines: Line[] = []
-  for (const one of text.split("\n")) {
-    if (one.trim() === "") continue
-    const parsed = lineShape.safeParse(JSON.parse(one))
-    if (parsed.success) lines.push(parsed.data)
-  }
-  return lines
-}
-
-function isPicked(line: Line, pick: string): boolean {
-  return String(line.reading.capturedAt) === pick || line.id.startsWith(pick)
-}
-
-function newestOf(lines: readonly Line[]): Line | undefined {
-  return lines.reduce<Line | undefined>(
-    (newest, one) =>
-      newest === undefined || one.reading.capturedAt > newest.reading.capturedAt ? one : newest,
-    undefined
-  )
 }
 
 function settledOf(

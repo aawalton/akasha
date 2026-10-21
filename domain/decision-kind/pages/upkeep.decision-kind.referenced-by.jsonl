@@ -32,5 +32,6 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-codec/temper-build-codec.domain.ts","id":"01a062e7-4dd4-7379-91b1-47690a52822a"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/temper-characters-equipment.domain.ts","id":"01a0616f-8e1c-76b3-861c-26bdb8cfc586"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-stat-case/temper-stat-case.page-type.ts","id":"01a13b68-e810-7cb5-b143-e4ca8335a98f"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-tooltip-case/temper-tooltip-case.page-type.ts","id":"01a15c22-e9f5-75f7-9745-a2c568d3905c"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-card-reset-behavior/completion-card-reset-behavior.module.ts","id":"01a06108-2fed-70ac-9ab5-6923a6b5d6c1"}
 {"propertySlug":"parts","path":"domain/decision-kind/decision-kind.page-type.ts","id":"01a04e11-9f98-775b-846d-a9985a5ebd21"}

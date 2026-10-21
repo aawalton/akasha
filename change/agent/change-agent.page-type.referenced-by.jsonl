@@ -69,6 +69,8 @@
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page/generate-foods-and-drinks/generate-foods-and-drinks.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page/pin-stat-case-gaps/pin-stat-case-gaps.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page/pin-stat-case/pin-stat-case.change-agent.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page/pin-tooltip-case-gaps/pin-tooltip-case-gaps.change-agent.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page/pin-tooltip-case/pin-tooltip-case.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page/rename-page/rename-page.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page/rename-pages/rename-pages.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.ts","typed":true,"deferred":false}

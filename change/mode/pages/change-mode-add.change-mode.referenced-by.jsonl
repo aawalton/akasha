@@ -11,6 +11,7 @@
 {"propertySlug":"change-mode","path":"change/agent/page-type/add-property-to-every-page/add-property-to-every-page.change-agent.ts","id":"01a08177-a04c-7a4b-9516-1d7be9d3f724"}
 {"propertySlug":"change-mode","path":"change/agent/page-type/add-property-to-page-type/add-property-to-page-type.change-agent.ts","id":"01a081e1-00ca-7879-a25f-c734368cb78a"}
 {"propertySlug":"change-mode","path":"change/agent/page/pin-stat-case/pin-stat-case.change-agent.ts","id":"01a13b71-0505-7295-b80f-664bb22fb765"}
+{"propertySlug":"change-mode","path":"change/agent/page/pin-tooltip-case/pin-tooltip-case.change-agent.ts","id":"01a15c22-e9f4-758e-a4ea-388bbbfdd74f"}
 {"propertySlug":"change-mode","path":"change/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.ts","id":"01a08174-b09a-7bbd-acf1-6892ecfb3575"}
 {"propertySlug":"change-mode","path":"change/mechanical/file-content/add/add-property-record/add-property-record.change-mechanical-file-content.ts","id":"01a081d9-419a-72bf-ae0b-5318df5fce07"}
 {"propertySlug":"change-mode","path":"change/mechanical/file-content/add/add-property-to-pages/add-property-to-pages.change-mechanical-file-content.ts","id":"01a0c66c-5c3f-7947-95c5-50580ca3f4ba"}
