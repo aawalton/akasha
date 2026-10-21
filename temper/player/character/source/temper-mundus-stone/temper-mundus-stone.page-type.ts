@@ -48,7 +48,12 @@ export const temperMundusStone = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "A stone's boon base times its boon scale, rounded down, is the boon it states.",
+      statement:
+        "A stone's boon base times its boon scale is the boon it states, rounded down if whole.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The Ritual's boon of 8% is a scale of 0.01 times a base of 8 whole percent.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -75,5 +80,5 @@ export const temperMundusStone = {
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
   createdAt: "2026-09-26T20:30:44.203Z",
-  updatedAt: "2026-10-20T19:10:29.556Z",
+  updatedAt: "2026-10-21T11:02:47.290Z",
 } as const satisfies PageType

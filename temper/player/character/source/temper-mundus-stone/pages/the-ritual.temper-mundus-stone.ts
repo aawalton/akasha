@@ -12,6 +12,8 @@ export const theRitual = {
     { metric: "temper-metric/healing-done-base", effectType: "fractional-change", value: 0.08 },
   ],
   hashPlace: 7,
+  boonBase: 8,
+  boonScale: 0.01,
   createdAt: "2026-09-26T20:33:58.498Z",
-  updatedAt: "2026-09-26T20:34:07.000Z",
+  updatedAt: "2026-10-21T11:02:47.290Z",
 } as const satisfies TemperMundusStone

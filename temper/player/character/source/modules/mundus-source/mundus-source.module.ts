@@ -17,8 +17,13 @@ export const mundusSource = {
       statement: "The mundus stone pages are held wherever the skill catalogue is held.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A percentage boon stating a base floors that base under Divines, then takes its scale.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
-      statement: "A percentage boon is left as the stone states it.",
+      statement: "A percentage boon stating no base is left as the stone states it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -43,5 +48,5 @@ export const mundusSource = {
     },
   ],
   createdAt: "2026-09-02T10:26:09.457Z",
-  updatedAt: "2026-10-19T23:15:56.576Z",
+  updatedAt: "2026-10-21T11:02:47.290Z",
 } as const satisfies Module

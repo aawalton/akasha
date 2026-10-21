@@ -70,10 +70,9 @@ function boonScaleOf(
     throw new Error(`${at} states a boon base or a boon scale without the other`)
   }
   for (const effect of effects) {
-    if (
-      effect.effectType === "integer" &&
-      Math.floor(boonScale * boonBase) !== effect.effectValue
-    ) {
+    const given =
+      effect.effectType === "integer" ? Math.floor(boonScale * boonBase) : boonScale * boonBase
+    if (given !== effect.effectValue) {
       throw new Error(`${at} states a boon that its base times its scale does not give`)
     }
   }
@@ -148,6 +147,8 @@ export function createMundusSource(
   const divinesValue =
     baseMundus.boonAtTooltip === true ? calculateDivinesTooltipValue : calculateDivinesValue
 
+  const { boonBase, boonScale } = baseMundus
+
   const boostedEffects = mapOf(baseMundus.effects, (effect) => {
     const baseValue = effect.effectValue
     return {
@@ -155,8 +156,10 @@ export function createMundusSource(
       effectType: effect.effectType,
       effectValue:
         effect.effectType === "integer"
-          ? divinesValue(baseMundus.boonBase ?? baseValue, armorItems, baseMundus.boonScale ?? 1)
-          : baseValue,
+          ? divinesValue(boonBase ?? baseValue, armorItems, boonScale ?? 1)
+          : boonBase === undefined || boonScale === undefined
+            ? baseValue
+            : divinesValue(boonBase, armorItems) * boonScale,
     } satisfies MundusMetricEffect
   })
 

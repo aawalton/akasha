@@ -106,6 +106,8 @@ const APPLIED: readonly (readonly [string, Pieces, number])[] = [
   ["the-lover", { epic: 2, legendary: 5 }, 4434],
   ["the-lover", { epic: 5, legendary: 1 }, 4102],
   ["the-lover", { epic: 5, legendary: 2 }, 4351],
+  ["the-ritual", {}, 0.08],
+  ["the-ritual", { legendary: 4 }, 0.1],
 ]
 
 test.each(
