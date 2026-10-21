@@ -20,5 +20,7 @@ export const fiveElementOverlordICanUpgradeEverything0166Ch166LeavingTheChamber 
     },
   ],
   createdAt: "2026-10-19T23:05:26.342Z",
-  updatedAt: "2026-10-19T23:05:26.342Z",
+  updatedAt: "2026-10-21T21:05:48.229Z",
+  ownProgress: 2725,
+  progressedAt: "2026-10-21T21:05:48.229Z",
 } as const satisfies StoryChapterRead

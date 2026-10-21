@@ -20,5 +20,7 @@ export const bewareOfChicken0342V8c1FamilyRoadTrip = {
     },
   ],
   createdAt: "2026-10-21T02:06:18.583Z",
-  updatedAt: "2026-10-21T02:06:18.583Z",
+  updatedAt: "2026-10-21T21:05:48.229Z",
+  ownProgress: 2078,
+  progressedAt: "2026-10-21T21:05:48.229Z",
 } as const satisfies StoryChapterRead

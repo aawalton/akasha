@@ -20,5 +20,7 @@ export const systemChangeSystemUniverse0117Chapter695Smuggle = {
     },
   ],
   createdAt: "2026-10-21T00:06:48.119Z",
-  updatedAt: "2026-10-21T00:06:48.119Z",
+  updatedAt: "2026-10-21T21:05:48.229Z",
+  ownProgress: 2229,
+  progressedAt: "2026-10-21T21:05:48.229Z",
 } as const satisfies StoryChapterRead

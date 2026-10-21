@@ -20,5 +20,7 @@ export const chrysalis0542Chapter1887WavesComeAndGo = {
     },
   ],
   createdAt: "2026-10-21T01:07:48.017Z",
-  updatedAt: "2026-10-21T01:07:48.017Z",
+  updatedAt: "2026-10-21T21:05:48.229Z",
+  ownProgress: 1055,
+  progressedAt: "2026-10-21T21:05:48.229Z",
 } as const satisfies StoryChapterRead

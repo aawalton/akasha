@@ -20,5 +20,7 @@ export const metaworldHopecore0195Chapter110DontRainOnMyParade = {
     },
   ],
   createdAt: "2026-10-19T02:06:44.459Z",
-  updatedAt: "2026-10-19T02:06:44.459Z",
+  updatedAt: "2026-10-21T21:05:48.229Z",
+  ownProgress: 2615,
+  progressedAt: "2026-10-21T21:05:48.229Z",
 } as const satisfies StoryChapterRead

@@ -20,5 +20,7 @@ export const chrysalis0540Chapter1885Tourist = {
     },
   ],
   createdAt: "2026-10-19T04:05:47.743Z",
-  updatedAt: "2026-10-19T04:05:47.743Z",
+  updatedAt: "2026-10-21T21:05:48.229Z",
+  ownProgress: 967,
+  progressedAt: "2026-10-21T21:05:48.229Z",
 } as const satisfies StoryChapterRead

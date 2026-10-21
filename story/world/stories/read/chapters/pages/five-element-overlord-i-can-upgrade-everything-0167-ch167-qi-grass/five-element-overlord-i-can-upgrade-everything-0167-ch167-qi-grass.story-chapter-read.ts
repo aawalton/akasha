@@ -20,5 +20,7 @@ export const fiveElementOverlordICanUpgradeEverything0167Ch167QiGrass = {
     },
   ],
   createdAt: "2026-10-20T23:04:00.520Z",
-  updatedAt: "2026-10-20T23:04:00.520Z",
+  updatedAt: "2026-10-21T21:05:48.229Z",
+  ownProgress: 2427,
+  progressedAt: "2026-10-21T21:05:48.229Z",
 } as const satisfies StoryChapterRead
