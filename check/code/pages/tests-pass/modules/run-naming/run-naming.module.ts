@@ -31,8 +31,17 @@ export const runNaming = {
       statement: "The importers of a test fixture are read from the index the change leaves.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No importer of an importer is asked for.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A changed file names each test importing it at any depth, where that test's module says so.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That reach is followed through every importer but one importing types alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No other importer of an importer is asked for.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -79,5 +88,5 @@ export const runNaming = {
     },
   ],
   createdAt: "2026-09-19T03:50:53.912Z",
-  updatedAt: "2026-10-20T15:01:21.319Z",
+  updatedAt: "2026-10-21T05:27:10.035Z",
 } as const satisfies Module

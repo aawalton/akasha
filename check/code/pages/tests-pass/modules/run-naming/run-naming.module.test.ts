@@ -3,6 +3,7 @@ import {
   linksIn,
   namedIn,
   namedOver,
+  reachersIn,
   readersIn,
 } from "akasha/check/code/pages/tests-pass/modules/run-naming/run-naming.module.code.ts"
 import {
@@ -139,6 +140,51 @@ test("a file of a page whose type a module's test reads names that module's test
 
 test("a reader's test the change leaves nowhere is named by nothing", () => {
   expect(namedOver([READ_AT], thereAt(), noImporters, reading(READ_AT))).toEqual([])
+})
+
+const CASE_AT = "akasha/case/case.module.ts"
+
+const CASE_CODE_AT = "akasha/case/case.module.code.ts"
+
+const CASE_TEST_AT = "akasha/case/case.module.test.ts"
+
+const DEEP_AT = "akasha/deep/deep.module.code.ts"
+
+const SHAPE_AT = "akasha/shape/shape.module.code.ts"
+
+const IMPORTS = new Map([
+  [DEEP_AT, [{ path: CASE_CODE_AT, typed: false, deferred: false }]],
+  [SHAPE_AT, [{ path: CASE_CODE_AT, typed: true, deferred: false }]],
+  [CASE_CODE_AT, [{ path: CASE_TEST_AT, typed: false, deferred: false }]],
+])
+
+function indexReaching(said: object): Pick<Answering, "valuesByPath" | "importsReaching"> {
+  return {
+    valuesByPath: (kind) =>
+      new Map(
+        kind === "module" ? [[CASE_AT, { slug: "case", code: "ts", test: "ts", ...said }]] : []
+      ),
+    importsReaching: (path) => IMPORTS.get(path) ?? [],
+  }
+}
+
+test("a file a module's test reaches through importers at any depth names that test", () => {
+  expect(reachersIn(indexReaching({ testReaches: true }))(DEEP_AT)).toEqual([CASE_TEST_AT])
+})
+
+test("a module saying nothing of its reach names its test for no file below its code", () => {
+  expect(reachersIn(indexReaching({}))(DEEP_AT)).toEqual([])
+})
+
+test("a file imported for its types alone reaches no test", () => {
+  expect(reachersIn(indexReaching({ testReaches: true }))(SHAPE_AT)).toEqual([])
+})
+
+test("a change to a file a reaching test reaches names that test, unless the change leaves it nowhere", () => {
+  const reachers = reachersIn(indexReaching({ testReaches: true }))
+  const there = thereAt(CASE_TEST_AT)
+  expect(namedOver([DEEP_AT], there, noImporters, noImporters, reachers)).toEqual([CASE_TEST_AT])
+  expect(namedOver([DEEP_AT], thereAt(), noImporters, noImporters, reachers)).toEqual([])
 })
 
 const STAT_TYPE_AT = "akasha/stat/stat.page-type.ts"

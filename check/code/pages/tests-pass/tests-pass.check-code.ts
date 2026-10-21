@@ -22,6 +22,11 @@ export const testsPass = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A change is judged too by each test that reaches a file it has, where that test says so.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Any other test is left red rather than made input.",
     },
     {
@@ -379,5 +384,5 @@ export const testsPass = {
   check: {},
   audit: {},
   createdAt: "2026-08-29T18:09:42.932Z",
-  updatedAt: "2026-10-18T14:52:30.594Z",
+  updatedAt: "2026-10-21T05:27:10.035Z",
 } as const satisfies CheckCode

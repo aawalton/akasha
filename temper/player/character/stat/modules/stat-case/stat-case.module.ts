@@ -8,6 +8,7 @@ export const statCase = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
+  testReaches: true,
   testReads: [
     "page-type/temper-stat-case",
     "page-type/temper-metric",
@@ -134,5 +135,5 @@ export const statCase = {
     },
   ],
   createdAt: "2026-10-14T17:18:43.951Z",
-  updatedAt: "2026-10-20T18:59:46.345Z",
+  updatedAt: "2026-10-21T05:27:10.035Z",
 } as const satisfies Module
