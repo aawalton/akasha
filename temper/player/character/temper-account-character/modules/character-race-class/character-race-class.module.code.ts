@@ -8,7 +8,7 @@ import {
   raceIdOfEso,
 } from "akasha/temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
 
-export interface EsoRaceAndClass {
+interface EsoRaceAndClass {
   readonly raceId?: number | undefined
   readonly classId?: number | undefined
 }
