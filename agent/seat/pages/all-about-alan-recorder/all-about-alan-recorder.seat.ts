@@ -11,6 +11,7 @@ export const allAboutAlanRecorder = {
   startMode: "seat-mode/headless",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "7bc56ebf-6fdd-4d51-ba04-78d2d9059d06",
   createdAt: "2026-10-21T12:29:35.285Z",
-  updatedAt: "2026-10-21T12:29:35.285Z",
+  updatedAt: "2026-10-21T12:29:38.451Z",
 } as const satisfies Seat
