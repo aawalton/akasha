@@ -235,6 +235,11 @@ export const skillEquation = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A heal tagged `Synergy` grows by the build's healing done, without a share scoped to its skill line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A heal over time grows each tick by the healing done before the ticks are summed.",
     },
     {
@@ -248,5 +253,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T16:12:46.342Z",
+  updatedAt: "2026-10-21T16:15:00.968Z",
 } as const satisfies Module

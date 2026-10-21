@@ -11,6 +11,7 @@ export type EquationStats = {
   readonly weaponDamage: number
   readonly healingDone: number
   readonly powerShare?: number
+  readonly buildHealingDone?: number
 }
 
 type Equation = {
@@ -22,7 +23,7 @@ type Equation = {
   readonly tags: readonly string[]
 }
 
-type Variable = Exclude<keyof EquationStats, "powerShare">
+type Variable = Exclude<keyof EquationStats, "powerShare" | "buildHealingDone">
 
 const VARIABLES: Readonly<Record<string, Variable>> = {
   MaxStat: "maxStat",
@@ -168,6 +169,14 @@ const CAPPED = /^at most (\d+)% Health$/
 
 const SINGLE = "single precision"
 
+const SYNERGY = "Synergy"
+
+function healingDoneOf(equation: Equation, stats: EquationStats): number {
+  return equation.tags.includes(SYNERGY)
+    ? (stats.buildHealingDone ?? stats.healingDone)
+    : stats.healingDone
+}
+
 const BONUSES: readonly {
   readonly held: readonly string[]
   readonly tags: readonly string[]
@@ -311,7 +320,7 @@ function tooltipValueOf(
   if (worked === undefined) return undefined
   if (!equation.scaled) {
     const kept = worked + longerBy(equation, passives)
-    if (equation.tags.includes(HEAL)) return Math.round((1 + stats.healingDone) * kept)
+    if (equation.tags.includes(HEAL)) return Math.round((1 + healingDoneOf(equation, stats)) * kept)
     if (!equation.tags.includes(SHIELD)) return kept
     return Math.round(shieldBonusOf(equation, passives, active) * kept)
   }
@@ -324,7 +333,8 @@ function tooltipValueOf(
     const growth = RANK_GROWTH[ranked]
     if (growth === undefined) return undefined
     const grown = bonusOf(equation, passives, active) * stackedOf(equation, active)
-    const healed = singleOf(equation, { ...stats, maxPower }, grown, growth, 1 + stats.healingDone)
+    const done = 1 + healingDoneOf(equation, stats)
+    const healed = singleOf(equation, { ...stats, maxPower }, grown, growth, done)
     return healed * ticksOf(equation, durationMs)
   }
   if (isDamage(equation) && (ranked !== undefined || equation.tags.includes(SINGLE))) {
@@ -338,7 +348,7 @@ function tooltipValueOf(
   const base = healing ? healOf(equation, { ...stats, maxPower }) : worked
   const bonused = bonusOf(equation, passives, active) * stackedOf(equation, active) * base
   const ticks = ticksOf(equation, durationMs)
-  if (healing) return Math.round((1 + stats.healingDone) * Math.round(bonused)) * ticks
+  if (healing) return Math.round((1 + healingDoneOf(equation, stats)) * Math.round(bonused)) * ticks
   if (!isDamage(equation)) return Math.round(bonused)
   return Math.floor(bonused) * ticks
 }
