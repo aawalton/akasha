@@ -157,6 +157,11 @@ export const skillEquation = {
       statement: "Each stack of Landslide makes a damage shield 1% stronger, added to its bonuses.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each stack of Landslide makes a heal 1% stronger, rounded before the healing done grows it.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement:
         "A reading gives Merciless Charge no stacks, so the numbers its stacks grow are gaps.",
@@ -204,5 +209,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T07:42:22.785Z",
+  updatedAt: "2026-10-21T07:52:35.822Z",
 } as const satisfies Module

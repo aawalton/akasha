@@ -198,7 +198,7 @@ const DAMAGE_PER_STACK: Readonly<Record<string, number>> = {
 }
 
 function stackedOf(equation: Equation, active: ActiveHeld): number {
-  if (!isDamage(equation)) return 1
+  if (!isDamage(equation) && !equation.tags.includes(HEAL)) return 1
   const percent = Object.entries(active.stacks).reduce(
     (sum, [buff, stacks]) => sum + (DAMAGE_PER_STACK[buff] ?? 0) * stacks,
     0

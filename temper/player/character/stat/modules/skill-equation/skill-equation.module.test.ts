@@ -293,7 +293,7 @@ test("Landslide adds 1% to the bonuses, and each of its stacks makes damage 1% s
 
   expect(worked(lash, 12)).toBe(Math.floor(1.07 * 1.12 * raw))
   expect(worked(lash, 1)).toBe(Math.floor(1.07 * 1.01 * raw))
-  expect(worked(heal, 12)).toBe(Math.round(raw))
+  expect(worked(heal, 12)).toBe(Math.round(1.12 * raw))
 })
 
 test("damage over time totals a tick for each tick in the game's duration, and one more where it ticks on application", () => {
