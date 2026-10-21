@@ -202,7 +202,7 @@ const slottedSkillSchema = z.strictObject({
   cooldownMs: z.number(),
   ultimateCost: z.number().optional(),
   morph: z.preprocess((morph) => morph ?? undefined, z.number().optional()),
-  rank: z.number().optional(),
+  rank: z.preprocess((rank) => rank ?? undefined, z.number().optional()),
 })
 
 const classPassiveSchema = z.strictObject({

@@ -85,7 +85,7 @@ export const completionRecord = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A skill the game gives no morph keeps its morph as null, read as none.",
+      statement: "A skill the game gives no morph or rank keeps it as null, read as none.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -143,5 +143,5 @@ export const completionRecord = {
     },
   ],
   createdAt: "2026-09-02T04:57:23.388Z",
-  updatedAt: "2026-10-21T12:46:19.205Z",
+  updatedAt: "2026-10-21T12:47:52.883Z",
 } as const satisfies Module
