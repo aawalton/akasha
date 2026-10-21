@@ -18,8 +18,9 @@ export const burnishedScales = {
   rank: 8,
   skillLineId: "temper-skill-line/dragonknight-draconic-power",
   skillType: "temper-skill-type/passive",
+  effects: "jsonl",
   hashPlace: 176,
   createdAt: "2026-05-28T16:03:31.878Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T03:25:32.521Z",
   equations: ["<<1>> = 4% (Constant)"],
 } as const satisfies TemperSkill

@@ -99,6 +99,7 @@
   ],
   "pinned": {
     "bash-cost": 635,
+    "block-mitigation": 58,
     "block-speed": 42,
     "break-free-cost": 4869,
     "critical-rating-spell": 5130,
@@ -141,7 +142,6 @@
   },
   "gaps": {
     "bash-damage": 381,
-    "block-mitigation": 58,
     "critical-damage": 10,
     "healing-taken-base": 11,
     "movement-sprint-speed": 143,

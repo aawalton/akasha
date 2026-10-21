@@ -4,39 +4,25 @@ export const FORMULA: FormulaNode = {
   type: "add",
   operands: [
     {
-      type: "constant",
-      value: 1,
-    },
-    {
       type: "multiply",
       operands: [
         {
           type: "constant",
-          value: -0.5,
+          value: 0.5,
         },
         {
-          type: "add",
-          operands: [
-            {
-              type: "constant",
-              value: 1,
-            },
-            {
-              type: "multiply",
-              operands: [
-                {
-                  type: "constant",
-                  value: -1,
-                },
-                {
-                  type: "sum",
-                  effectType: "fractional-change",
-                },
-              ],
-            },
-          ],
+          type: "sum",
+          effectType: "fractional-change",
         },
       ],
+    },
+    {
+      type: "sum",
+      effectType: "integer",
+    },
+    {
+      type: "constant",
+      value: 0.5,
     },
   ],
 }

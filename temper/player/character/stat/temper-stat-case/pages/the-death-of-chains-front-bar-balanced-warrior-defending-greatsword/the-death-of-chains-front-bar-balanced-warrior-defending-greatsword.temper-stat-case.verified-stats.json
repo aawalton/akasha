@@ -96,6 +96,7 @@
   "pinned": {
     "alliance-points-gain": 10,
     "bash-cost": 675,
+    "block-mitigation": 57,
     "block-speed": 42,
     "break-free-cost": 5180,
     "critical-damage": 4,
@@ -150,7 +151,6 @@
   },
   "gaps": {
     "bash-damage": 571,
-    "block-mitigation": 57,
     "healing-done-base": 2,
     "movement-sprint-speed": 145,
     "sneak-cost": 81

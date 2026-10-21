@@ -35,6 +35,7 @@
     { "championSkillId": 5, "points": 50, "maxPoints": 50 }
   ],
   "pinned": {
+    "block-mitigation": 61,
     "break-free-cost": 5400,
     "critical-damage": 32,
     "critical-rating-spell": 6803,
@@ -71,7 +72,6 @@
   "gaps": {
     "bash-cost": 321,
     "bash-damage": 841,
-    "block-mitigation": 61,
     "block-speed": 64,
     "movement-sprint-speed": 157,
     "sneak-cost": 53,

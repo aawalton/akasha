@@ -43,6 +43,7 @@
   ],
   "pinned": {
     "bash-cost": 719,
+    "block-mitigation": 57,
     "block-speed": 40,
     "break-free-cost": 5076,
     "critical-damage": 20,
@@ -85,7 +86,6 @@
   },
   "gaps": {
     "bash-damage": 474,
-    "block-mitigation": 57,
     "magicka-maximum": 15039,
     "movement-sprint-speed": 137,
     "sneak-cost": 133,
