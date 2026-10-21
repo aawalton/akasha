@@ -48,7 +48,12 @@ type StatCase = z.infer<typeof statCaseShape>
 
 export type Estimating = (read: Omit<StatCase, "pinned" | "gaps">) => (stat: string) => number
 
-type Tally = { added: number; pinned: number; held: number; rowless: number; unread: string[] }
+type Unsheeted = "unread" | "sheetless"
+
+type Tally = { added: number; pinned: number; held: number; rowless: number } & Record<
+  Unsheeted,
+  string[]
+>
 
 function everyCase(world: World): readonly string[] | string {
   const typeAt = world.index.listedAt(pageType.slug, temperStatCase.slug)[0]?.path
@@ -73,13 +78,13 @@ function linesFor(world: World, character: string, held: Map<string, readonly Li
   return lines
 }
 
-function sheetOf(statCase: StatCase, lines: readonly Line[]): Record<string, number> | null {
+function sheetOf(statCase: StatCase, lines: readonly Line[]): Record<string, number> | Unsheeted {
   const line = lines.find(
     (one) => one.bar === BAR_KEYS[statCase.bar] && one.reading.capturedAt === statCase.capturedAt
   )
-  if (line === undefined) return null
+  if (line === undefined) return "unread"
   const sheet = sheetShape.safeParse(line.reading["advancedSheet"])
-  return sheet.success ? sheetStatsOf(sheet.data) : null
+  return sheet.success ? sheetStatsOf(sheet.data) : "sheetless"
 }
 
 type Reach = {
@@ -104,8 +109,8 @@ function addedIn(slug: string, reach: Reach): FileChange | string | null {
     return `the verified stats of \`${slug}\` are not written as a case is written`
   }
   const sheet = sheetOf(statCase, linesFor(world, statCase.character, held))
-  if (sheet === null) {
-    tally.unread.push(slug)
+  if (typeof sheet === "string") {
+    tally[sheet].push(slug)
     return null
   }
   const { pinned: wasPinned, gaps: wasGaps, ...read } = statCase
@@ -154,7 +159,7 @@ export function addStatCaseStatsCommand(world: World, given: Asked, estimate: Es
   const slugs = asked === undefined ? everyCase(world) : cases
   if (typeof slugs === "string") return refusing(slugs)
   if (slugs.length === 0) return refusing(`\`${CASES}\` names no case`)
-  const tally: Tally = { added: 0, pinned: 0, held: 0, rowless: 0, unread: [] }
+  const tally: Tally = { added: 0, pinned: 0, held: 0, rowless: 0, unread: [], sheetless: [] }
   const reach: Reach = { world, stats, estimate, held: new Map(), tally }
   const edits: FileChange[] = []
   for (const slug of slugs) {
@@ -166,6 +171,7 @@ export function addStatCaseStatsCommand(world: World, given: Asked, estimate: Es
     `${String(tally.added)} stats added to ${String(edits.length)} cases, ${String(tally.pinned)} pinned and ${String(tally.added - tally.pinned)} as gaps`,
     `${String(tally.held)} a case held already and ${String(tally.rowless)} its reading's sheet has no row for, left as they are`,
     `${String(tally.unread.length)} cases whose reading is not found${tally.unread.length === 0 ? "" : `: ${tally.unread.join(", ")}`}`,
+    `${String(tally.sheetless.length)} cases whose reading kept no advanced sheet${tally.sheetless.length === 0 ? "" : `: ${tally.sheetless.join(", ")}`}`,
   ])
 }
 

@@ -36,7 +36,7 @@ export const addStatCaseStats = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A stat the case holds, a sheet lacking its row and a reading not found leave a case as it is.",
+        "A stat the case holds, a missing row, sheet or reading leave a case as it is, and are named.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -47,5 +47,5 @@ export const addStatCaseStats = {
   maxCpuSeconds: 120,
   maxMemoryMb: 2048,
   createdAt: "2026-10-21T04:03:31.707Z",
-  updatedAt: "2026-10-21T04:06:58.814Z",
+  updatedAt: "2026-10-21T04:11:50.699Z",
 } as const satisfies ChangeAgent

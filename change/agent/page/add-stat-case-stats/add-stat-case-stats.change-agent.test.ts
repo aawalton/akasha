@@ -129,6 +129,18 @@ test("a case whose reading is not found is left as it is and named", () => {
   expect(said.told?.join("\n") ?? "").toContain("erin-tank")
 })
 
+test("a case whose reading kept no advanced sheet is left as it is and named so", () => {
+  const sheetless = LINE.replace(/,"advancedSheet":.*\}\}$/, "}}")
+  const said = addStatCaseStatsCommand(
+    worldOf(TEXT, `${sheetless}\n`),
+    { stats: FLAME },
+    estimateGiven
+  )
+
+  expect(said.edits).toEqual([])
+  expect(said.told?.join("\n") ?? "").toContain("kept no advanced sheet: erin-tank")
+})
+
 test("a slug naming no case is refused", () => {
   const said = addStatCaseStatsCommand(
     worldOf(TEXT, `${LINE}\n`),
