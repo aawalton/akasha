@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQKwrTAAIBhBRMCU_lAAEp_KAALmCW5AXMEtyAuYJbkBcwS3IC5gluQhUdqABBAp25CCBTtyJjkx23KIgmOtuVNIsGXuCK_EEAAAAAAAGmzEAidlAMGQFAQBAAkANcVwbAdAWHYKaoeXJAyAAIth2iEdQAccIUISIgMjMDEjNSACMjNBIAIkIDJAAEQzIwOjIDMCOiJkMzAACCIiMkozBCMCOsujXqMyLEmVjyZZcybOz6NOrXtn0KNKnU8VVjaOyNnj65egYskLRE2RunaRKmTv1CmCqhK46wwcNkjYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TABAZBxiQNYA",
+  "buildHash": "ATQNwrTAAIBhBRMCU_lAEIACU_lAEIAC5gluULIC5gluULIC5gluULIC5gluULIC5gluULIQqO1AEIAQQKduULIQQKduULImOTHbcoWURBMdbcoWVNIsGXuCK_EEAAAAAAAGmzEAidlAMGQFAQBAAkANcVwbAdAWHYKaoeXJAyAAIth2iEdQAccIUISIgMjMDEjNSACMjNBIAIkIDJAAEQzIwOjIDMCOiJkMzAACCIiMkozBCMCOsujXqMyLEmVjyZZcybOz6NOrXtn0KNKnU8VVjYAyNnj65egYskLRE2RunaRKmTv1CmCqhK46wwcNkjYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TAAIDIOMSBr",
   "gender": 1,
   "level": 50,
   "classId": 6,
@@ -13491,7 +13491,7 @@
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "seen": [
       5,
       3,
@@ -13501,61 +13501,54 @@
       6,
       7
     ],
-    "completed": [
-      1,
-      6,
-      2,
-      7,
-      4,
-      3,
-      5
-    ]
+    "completed": []
   },
   "inventoryCheck": {
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "misplaced": 25
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792507720,
-      "buildHash": "ATQKwrTAAIBhBRMCU_lAAEp_KAALmCW5AXMEtyAuYJbkBcwS3IC5gluQhUdqABBAp25CCBTtyJjkx23KIgmOtuVNIsGXuCK_EEAAAAAAAGmzEAidlAMGQFAQBAAkANcVwbAdAWHYKaoeXJAyAAIth2iEdQAccIUISIgMjMDEjNSACMjNBIAIkIDJAAEQzIwOjIDMCOiJkMzAACCIiMkozBCMCOsujXqMyLEmVjyZZcybOz6NOrXtn0KNKnU8VVjaOyNnj65egYskLRE2RunaRKmTv1CmCqhK46wwcNkjYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TABAZBxiQNYA",
+      "capturedAt": 1792577851,
+      "buildHash": "ATQNwrTAAIBhBRMCU_lAEIACU_lAEIAC5gluULIC5gluULIC5gluULIC5gluULIC5gluULIQqO1AEIAQQKduULIQQKduULImOTHbcoWURBMdbcoWVNIsGXuCK_EEAAAAAAAGmzEAidlAMGQFAQBAAkANcVwbAdAWHYKaoeXJAyAAIth2iEdQAccIUISIgMjMDEjNSACMjNBIAIkIDJAAEQzIwOjIDMCOiJkMzAACCIiMkozBCMCOsujXqMyLEmVjyZZcybOz6NOrXtn0KNKnU8VVjYAyNnj65egYskLRE2RunaRKmTv1CmCqhK46wwcNkjYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TAAIDIOMSBr",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "ultimate": 500,
       "health": 20363,
+      "healthPaired": false,
       "stats": {
-        "power-spell": 4144,
-        "magicka-recovery": 654,
-        "stamina-recovery": 534,
-        "critical-rating-spell": 6640,
-        "resistance-physical": 28347,
-        "penetration-physical": 13755,
-        "critical-rating-weapon": 6640,
-        "penetration-spell": 13755,
+        "resistance-physical": 26582,
         "resistance-critical": 1320,
+        "power-spell": 4126,
         "magicka-maximum": 14520,
-        "power-weapon": 4144,
-        "resistance-spell": 30657,
         "stamina-maximum": 24063,
+        "critical-rating-spell": 6640,
         "health-maximum": 20363,
-        "health-recovery": 124
+        "resistance-spell": 28892,
+        "critical-rating-weapon": 6640,
+        "stamina-recovery": 534,
+        "power-weapon": 4126,
+        "penetration-spell": 13755,
+        "magicka-recovery": 654,
+        "health-recovery": 124,
+        "penetration-physical": 13755
       },
       "unbonusedStats": {
-        "power-spell": 1000,
-        "magicka-recovery": 654,
-        "stamina-recovery": 534,
-        "critical-rating-spell": 2181,
         "resistance-physical": 0,
-        "penetration-physical": 0,
-        "critical-rating-weapon": 2181,
-        "penetration-spell": 0,
         "resistance-critical": 0,
+        "power-spell": 1000,
         "magicka-maximum": 14520,
-        "power-weapon": 1000,
-        "resistance-spell": 0,
         "stamina-maximum": 24063,
+        "critical-rating-spell": 2181,
         "health-maximum": 20363,
-        "health-recovery": 124
+        "resistance-spell": 0,
+        "critical-rating-weapon": 2181,
+        "stamina-recovery": 534,
+        "power-weapon": 1000,
+        "penetration-spell": 0,
+        "magicka-recovery": 654,
+        "health-recovery": 124,
+        "penetration-physical": 0
       },
       "activeBuffs": [
         {
@@ -13612,7 +13605,11 @@
           "name": "Vampire Stage 3",
           "description": "",
           "effect": "You are heavily corrupted from the influence of Vampirism.\n\nHealth Recovery: -60%\nFlame Damage Taken: +13%\nRegular Ability Costs: +8%\nVampire Ability Costs: -16%\n",
-          "stacks": 0
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 4144,
+            "spell": 4144
+          }
         }
       ],
       "pets": [],
@@ -14175,110 +14172,417 @@
         {
           "slot": 0,
           "link": "|H0:item:82176:363:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:8995:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 2341,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff882|r Maximum Health.",
           "enchantCategory": 11,
           "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
-          "quality": 4
+          "quality": 4,
+          "setId": 256,
+          "setName": "Mighty Chudan",
+          "setBonusCount": 3,
+          "setEquipped": 2,
+          "setMaxEquipped": 2,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 1,
+              "description": "(1 item) Adds |cffffff1435|r Armor",
+              "perfected": false
+            },
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1164|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 2,
+              "description": "(2 items) Gain Major Resolve at all times, increasing your Physical and Spell Resistance by |cffffff5948|r.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 1,
           "link": "|H0:item:194512:364:50:0:0:0:31:25:0:0:0:0:0:0:2049:0:0:1:0:0:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 0,
+          "weaponPower": 174,
           "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Magicka Recovery.",
           "enchantCategory": 32,
           "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff350|r.",
-          "quality": 5
+          "quality": 5,
+          "setId": 694,
+          "setName": "Velothi Ur-Mage's Amulet",
+          "setBonusCount": 2,
+          "setEquipped": 1,
+          "setMaxEquipped": 1,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 1,
+              "description": "(1 item) Adds |cffffff1650|r Offensive Penetration",
+              "perfected": false
+            },
+            {
+              "required": 1,
+              "description": "(1 item) Increase your damage done to monsters by |cffffff15|r%, gain Minor Force at all times, increasing your Critical Damage done by |cffffff10|r%, and reduce your total damage done with Light and Heavy Attacks by |cffffff99|r%.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 2,
           "link": "|H0:item:215582:369:50:26588:370:50:0:0:0:0:0:0:0:0:1:2:1:1:0:5894:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 2676,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "enchantCategory": 17,
           "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
-          "quality": 4
+          "quality": 4,
+          "setId": 809,
+          "setName": "Tide-Born Wildstalker",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff124|r Weapon and Spell Damage",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff634|r Critical Chance",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1435|r Offensive Penetration",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Increase your direct damage done to monsters by |cffffff15|r%.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 3,
           "link": "|H0:item:82177:363:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:9400:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 2341,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff357|r Maximum Health.",
           "enchantCategory": 11,
           "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
-          "quality": 4
+          "quality": 4,
+          "setId": 256,
+          "setName": "Mighty Chudan",
+          "setBonusCount": 3,
+          "setEquipped": 2,
+          "setMaxEquipped": 2,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 1,
+              "description": "(1 item) Adds |cffffff1435|r Armor",
+              "perfected": false
+            },
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1164|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 2,
+              "description": "(2 items) Gain Major Resolve at all times, increasing your Physical and Spell Resistance by |cffffff5948|r.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 4,
           "link": "|H0:item:133787:364:50:68344:370:50:7:25:0:0:0:0:0:0:2049:4:0:1:0:384:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 0,
+          "weaponPower": 1571,
           "enchant": "Deals |cffffff2014|r Magic Damage and restores |cffffff439|r Health and |cffffff177|r Magicka and Stamina.",
           "enchantCategory": 35,
           "trait": "Increases Physical and Spell Penetration by |cffffff3276|r.",
-          "quality": 5
+          "quality": 5,
+          "setId": 313,
+          "setName": "Titanic Cleave",
+          "setBonusCount": 1,
+          "setEquipped": 2,
+          "setMaxEquipped": 2,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Increases the direct damage Cleave deals by |cffffff1550|r for each enemy in its cone.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 6,
           "link": "|H0:item:215588:369:50:26588:370:50:0:0:0:0:0:0:0:0:1:2:1:1:0:3388:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 1003,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "enchantCategory": 17,
           "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
-          "quality": 4
+          "quality": 4,
+          "setId": 809,
+          "setName": "Tide-Born Wildstalker",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff124|r Weapon and Spell Damage",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff634|r Critical Chance",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1435|r Offensive Penetration",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Increase your direct damage done to monsters by |cffffff15|r%.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 8,
           "link": "|H0:item:215586:369:50:26588:370:50:0:0:0:0:0:0:0:0:1:2:1:1:0:9900:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 2341,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff868|r Maximum Stamina.",
           "enchantCategory": 17,
           "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
-          "quality": 4
+          "quality": 4,
+          "setId": 809,
+          "setName": "Tide-Born Wildstalker",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff124|r Weapon and Spell Damage",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff634|r Critical Chance",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1435|r Offensive Penetration",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Increase your direct damage done to monsters by |cffffff15|r%.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 9,
           "link": "|H0:item:215583:369:50:26588:370:50:0:0:0:0:0:0:0:0:1:2:1:1:0:3433:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 2341,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "enchantCategory": 17,
           "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
-          "quality": 4
+          "quality": 4,
+          "setId": 809,
+          "setName": "Tide-Born Wildstalker",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff124|r Weapon and Spell Damage",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff634|r Critical Chance",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1435|r Offensive Penetration",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Increase your direct damage done to monsters by |cffffff15|r%.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 11,
           "link": "|H0:item:69385:362:50:45883:370:50:31:25:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 0,
+          "weaponPower": 174,
           "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery.",
           "enchantCategory": 31,
           "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff280|r.",
-          "quality": 3
+          "quality": 3,
+          "setId": 206,
+          "setName": "Agility",
+          "setBonusCount": 2,
+          "setEquipped": 2,
+          "setMaxEquipped": 3,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1650|r Maximum Stamina",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds 194 Weapon and Spell Damage",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 12,
           "link": "|H0:item:69385:362:50:45883:370:50:31:25:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 0,
+          "weaponPower": 174,
           "enchant": "Adds |cffffff174|r Weapon and Spell Damage.\nAdds |cffffff10|r Stamina Recovery.",
           "enchantCategory": 31,
           "trait": "Increases your Weapon and Spell Damage against enemies under |cFFFFFF90|r% Health by up to |cffffff280|r.",
-          "quality": 3
+          "quality": 3,
+          "setId": 206,
+          "setName": "Agility",
+          "setBonusCount": 2,
+          "setEquipped": 2,
+          "setMaxEquipped": 3,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1650|r Maximum Stamina",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds 194 Weapon and Spell Damage",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 16,
           "link": "|H0:item:215584:369:50:26588:370:50:0:0:0:0:0:0:0:0:1:2:1:1:0:4429:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 1338,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff351|r Maximum Stamina.",
           "enchantCategory": 17,
           "trait": "Increases Mundus Stone effects by |cffffff8.1|r%.",
-          "quality": 4
+          "quality": 4,
+          "setId": 809,
+          "setName": "Tide-Born Wildstalker",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff124|r Weapon and Spell Damage",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff634|r Critical Chance",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1435|r Offensive Penetration",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Increase your direct damage done to monsters by |cffffff15|r%.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 20,
           "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:499:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 0,
+          "weaponPower": 1571,
           "enchant": "Increase your Weapon Damage and Spell Damage by |cffffff452|r for |cffffff5|r seconds.",
           "enchantCategory": 2,
           "trait": "Increases weapon enchantment effect by |cffffff30|r% and reduces enchantment cooldown by |cFFFFFF50|r%.",
-          "quality": 5
+          "quality": 5,
+          "setId": 522,
+          "setName": "Perfected Merciless Charge",
+          "setBonusCount": 2,
+          "setEquipped": 0,
+          "setMaxEquipped": 2,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 perfected items) Adds 1190 Offensive Penetration",
+              "perfected": true
+            },
+            {
+              "required": 2,
+              "description": "(2 items) Activating Critical Charge stirs up a barbarous lust for battle within you for |cffffff18|r seconds, increasing your damage done with direct damage attacks by |cffffff7|r%, up to a maximum of |cffffff12|r%. This effect scales off the higher of your Weapon or Spell Damage.",
+              "perfected": false
+            }
+          ]
         }
       ],
       "skills": [
@@ -14286,67 +14590,79 @@
           "slot": 3,
           "abilityId": 185842,
           "name": "Inspired Scholarship",
-          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3148|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
+          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3141|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
           "durationMs": 30000,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
-          "ultimateCost": 0
+          "ultimateCost": 0,
+          "morph": 1,
+          "rank": 4
         },
         {
           "slot": 4,
           "abilityId": 183006,
           "name": "Cephaliarch's Flail",
-          "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff6898|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff3069|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink.",
+          "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff6880|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff3060|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink.",
           "durationMs": 0,
           "castMs": 300,
           "channeled": false,
           "cooldownMs": 0,
-          "ultimateCost": 0
+          "ultimateCost": 0,
+          "morph": 1,
+          "rank": 4
         },
         {
           "slot": 5,
           "abilityId": 193398,
           "name": "Pragmatic Fatecarver",
-          "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff3126|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff10181|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage.",
+          "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff3118|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff10181|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage.",
           "durationMs": 0,
           "castMs": 4500,
           "channeled": true,
           "cooldownMs": 0,
-          "ultimateCost": 0
+          "ultimateCost": 0,
+          "morph": 2,
+          "rank": 4
         },
         {
           "slot": 6,
           "abilityId": 61927,
           "name": "Relentless Focus",
-          "description": "When slotted on either bar, gain Major Savagery, increasing Critical Chance by |cffffff12|r%.\n\nYour Light and Heavy Attacks now generate a stack of Relentless Focus, up to |cffffff10|r times. Fully-charged Heavy Attacks grant two stacks.\n\nWhen at |cffffff4|r or more stacks, you can consume |cffffff4|r to fire a spectral arrow to deal |cffffff14076|r Disease Damage and heal for |cffffff34|r% of the damage dealt, if you are in melee range.",
+          "description": "When slotted on either bar, gain Major Savagery, increasing Critical Chance by |cffffff12|r%.\n\nYour Light and Heavy Attacks now generate a stack of Relentless Focus, up to |cffffff10|r times. Fully-charged Heavy Attacks grant two stacks.\n\nWhen at |cffffff4|r or more stacks, you can consume |cffffff4|r to fire a spectral arrow to deal |cffffff14039|r Disease Damage and heal for |cffffff34|r% of the damage dealt, if you are in melee range.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
-          "ultimateCost": 0
+          "ultimateCost": 0,
+          "morph": 1,
+          "rank": 4
         },
         {
           "slot": 7,
           "abilityId": 61505,
           "name": "Echoing Vigor",
-          "description": "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff16011|r Health over |cffffff16|r seconds.",
+          "description": "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff15966|r Health over |cffffff16|r seconds.",
           "durationMs": 16000,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
-          "ultimateCost": 0
+          "ultimateCost": 0,
+          "morph": 1,
+          "rank": 4
         },
         {
           "slot": 8,
           "abilityId": 36514,
           "name": "Soul Harvest",
-          "description": "Ravage an enemy with a spinning attack, dealing |cffffff12511|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate.",
+          "description": "Ravage an enemy with a spinning attack, dealing |cffffff12478|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate.",
           "durationMs": 0,
           "castMs": 400,
           "channeled": false,
           "cooldownMs": 0,
-          "ultimateCost": 76
+          "ultimateCost": 76,
+          "morph": 2,
+          "rank": 4
         }
       ],
       "classPassives": [
@@ -14363,12 +14679,12 @@
         {
           "abilityId": 44730,
           "name": "Burning Light",
-          "description": "When you deal damage you generate a stack of Burning Light for |cffffff3|r seconds. After reaching |cffffff4|r stacks, you deal |cffffff2390|r Magic Damage to your target. This effect can stack once every half second and scales off the higher of your Weapon or Spell Damage."
+          "description": "When you deal damage you generate a stack of Burning Light for |cffffff3|r seconds. After reaching |cffffff4|r stacks, you deal |cffffff2381|r Magic Damage to your target. This effect can stack once every half second and scales off the higher of your Weapon or Spell Damage."
         },
         {
           "abilityId": 44732,
           "name": "Balanced Warrior",
-          "description": "Increases your Armor for each Templar ability slotted.\n\nIncreases your Weapon and Spell Damage based on your total Armor and number of Templar abilities slotted.\n\nCurrent bonus:\n|cffffff2|r% Armor\n|cffffff236|r Weapon and Spell Damage"
+          "description": "Increases your Armor for each Templar ability slotted.\n\nIncreases your Weapon and Spell Damage based on your total Armor and number of Templar abilities slotted.\n\nCurrent bonus:\n|cffffff2|r% Armor\n|cffffff221|r Weapon and Spell Damage"
         },
         {
           "abilityId": 45038,
@@ -14422,23 +14738,50 @@
         "critical-damage": 0.2
       },
       "advancedSheet": {
-        "sneak-speed-reduction": {
-          "category": "Core Abilities",
-          "label": "Sneak Speed",
-          "format": "percent",
-          "percent": 100
+        "bleed-damage": {
+          "category": "Damage Bonuses",
+          "label": "Bleed Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
         },
-        "bash-damage": {
-          "category": "Core Abilities",
-          "label": "Bash Damage",
-          "format": "flat",
-          "flat": 830
-        },
-        "subscriber-telvar-bonus": {
+        "subscriber-alliance-points-bonus": {
           "category": "ESO Plus",
-          "label": "Tel Var",
+          "label": "Alliance Points",
           "format": "percent",
           "percent": 10
+        },
+        "magic-resist": {
+          "category": "Resistances",
+          "label": "Magic Resistance",
+          "format": "flat-or-percent",
+          "flat": 28892,
+          "percent": 43.7757568359
+        },
+        "poison-damage": {
+          "category": "Damage Bonuses",
+          "label": "Poison Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "critical-healing": {
+          "category": "Healing Bonuses",
+          "label": "Critical Healing",
+          "format": "percent",
+          "percent": 0
+        },
+        "bash-cost": {
+          "category": "Core Abilities",
+          "label": "Bash Cost",
+          "format": "flat",
+          "flat": 675
+        },
+        "block-mitigation": {
+          "category": "Core Abilities",
+          "label": "Block Mitigation",
+          "format": "percent",
+          "percent": 59.0000038147
         },
         "subscriber-inspiration-bonus": {
           "category": "ESO Plus",
@@ -14446,11 +14789,113 @@
           "format": "percent",
           "percent": 10
         },
-        "subscriber-alliance-points-bonus": {
+        "subscriber-telvar-bonus": {
           "category": "ESO Plus",
-          "label": "Alliance Points",
+          "label": "Tel Var",
           "format": "percent",
           "percent": 10
+        },
+        "cc-break-cost": {
+          "category": "Core Abilities",
+          "label": "Break Free Cost",
+          "format": "flat",
+          "flat": 5180
+        },
+        "block-speed": {
+          "category": "Core Abilities",
+          "label": "Block Move Speed",
+          "format": "percent",
+          "percent": 42
+        },
+        "bash-damage": {
+          "category": "Core Abilities",
+          "label": "Bash Damage",
+          "format": "flat",
+          "flat": 790
+        },
+        "sneak-speed-reduction": {
+          "category": "Core Abilities",
+          "label": "Sneak Speed",
+          "format": "percent",
+          "percent": 100
+        },
+        "poison-resist": {
+          "category": "Resistances",
+          "label": "Poison Resistance",
+          "format": "flat-or-percent",
+          "flat": 26582,
+          "percent": 40.2757568359
+        },
+        "frost-resist": {
+          "category": "Resistances",
+          "label": "Frost Resistance",
+          "format": "flat-or-percent",
+          "flat": 28892,
+          "percent": 43.7757568359
+        },
+        "subscriber-coin-bonus": {
+          "category": "ESO Plus",
+          "label": "Gold",
+          "format": "percent",
+          "percent": 10
+        },
+        "sprint-cost": {
+          "category": "Core Abilities",
+          "label": "Sprint Cost",
+          "format": "flat",
+          "flat": 460
+        },
+        "block-cost": {
+          "category": "Core Abilities",
+          "label": "Block Cost",
+          "format": "flat",
+          "flat": 1710
+        },
+        "physical-damage": {
+          "category": "Damage Bonuses",
+          "label": "Physical Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "subscriber-all-xp": {
+          "category": "ESO Plus",
+          "label": "Experience",
+          "format": "percent",
+          "percent": 10
+        },
+        "disease-damage": {
+          "category": "Damage Bonuses",
+          "label": "Disease Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "critical-damage": {
+          "category": "Damage Bonuses",
+          "label": "Critical Damage",
+          "format": "percent",
+          "percent": 20
+        },
+        "fire-resist": {
+          "category": "Resistances",
+          "label": "Flame Resistance",
+          "format": "flat-or-percent",
+          "flat": 28892,
+          "percent": 43.7757568359
+        },
+        "shock-damage": {
+          "category": "Damage Bonuses",
+          "label": "Shock Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "dodge-cost": {
+          "category": "Core Abilities",
+          "label": "Dodge Roll Cost",
+          "format": "flat",
+          "flat": 4598
         },
         "healing-taken-bonuses": {
           "category": "Healing Bonuses",
@@ -14459,23 +14904,50 @@
           "flat": 0,
           "percent": 2
         },
-        "frost-resist": {
-          "category": "Resistances",
-          "label": "Frost Resistance",
-          "format": "flat-or-percent",
-          "flat": 30657,
-          "percent": 46.4500007629
+        "healing-done-bonuses": {
+          "category": "Healing Bonuses",
+          "label": "Healing Done",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 2
         },
-        "oblivion-damage": {
+        "cold-damage": {
           "category": "Damage Bonuses",
-          "label": "Oblivion Damage",
+          "label": "Frost Damage",
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
         },
-        "shock-damage": {
+        "shock-resist": {
+          "category": "Resistances",
+          "label": "Shock Resistance",
+          "format": "flat-or-percent",
+          "flat": 28892,
+          "percent": 43.7757568359
+        },
+        "sprint-speed": {
+          "category": "Core Abilities",
+          "label": "Sprint Speed",
+          "format": "percent",
+          "percent": 137
+        },
+        "bleed-resist": {
+          "category": "Resistances",
+          "label": "Bleed Resistance",
+          "format": "flat-or-percent",
+          "flat": 26582,
+          "percent": 40.2757568359
+        },
+        "fire-damage": {
           "category": "Damage Bonuses",
-          "label": "Shock Damage",
+          "label": "Flame Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "oblivion-damage": {
+          "category": "Damage Bonuses",
+          "label": "Oblivion Damage",
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
@@ -14486,131 +14958,6 @@
           "format": "flat",
           "flat": 79
         },
-        "sprint-speed": {
-          "category": "Core Abilities",
-          "label": "Sprint Speed",
-          "format": "percent",
-          "percent": 137
-        },
-        "block-cost": {
-          "category": "Core Abilities",
-          "label": "Block Cost",
-          "format": "flat",
-          "flat": 1710
-        },
-        "critical-damage": {
-          "category": "Damage Bonuses",
-          "label": "Critical Damage",
-          "format": "percent",
-          "percent": 20
-        },
-        "critical-healing": {
-          "category": "Healing Bonuses",
-          "label": "Critical Healing",
-          "format": "percent",
-          "percent": 0
-        },
-        "physical-damage": {
-          "category": "Damage Bonuses",
-          "label": "Physical Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "fire-resist": {
-          "category": "Resistances",
-          "label": "Flame Resistance",
-          "format": "flat-or-percent",
-          "flat": 30657,
-          "percent": 46.4500007629
-        },
-        "bash-cost": {
-          "category": "Core Abilities",
-          "label": "Bash Cost",
-          "format": "flat",
-          "flat": 675
-        },
-        "sprint-cost": {
-          "category": "Core Abilities",
-          "label": "Sprint Cost",
-          "format": "flat",
-          "flat": 460
-        },
-        "healing-done-bonuses": {
-          "category": "Healing Bonuses",
-          "label": "Healing Done",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 2
-        },
-        "bleed-resist": {
-          "category": "Resistances",
-          "label": "Bleed Resistance",
-          "format": "flat-or-percent",
-          "flat": 28347,
-          "percent": 42.9500007629
-        },
-        "magic-resist": {
-          "category": "Resistances",
-          "label": "Magic Resistance",
-          "format": "flat-or-percent",
-          "flat": 30657,
-          "percent": 46.4500007629
-        },
-        "dodge-cost": {
-          "category": "Core Abilities",
-          "label": "Dodge Roll Cost",
-          "format": "flat",
-          "flat": 4598
-        },
-        "cold-damage": {
-          "category": "Damage Bonuses",
-          "label": "Frost Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "disease-damage": {
-          "category": "Damage Bonuses",
-          "label": "Disease Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "shock-resist": {
-          "category": "Resistances",
-          "label": "Shock Resistance",
-          "format": "flat-or-percent",
-          "flat": 30657,
-          "percent": 46.4500007629
-        },
-        "bleed-damage": {
-          "category": "Damage Bonuses",
-          "label": "Bleed Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "poison-damage": {
-          "category": "Damage Bonuses",
-          "label": "Poison Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "block-mitigation": {
-          "category": "Core Abilities",
-          "label": "Block Mitigation",
-          "format": "percent",
-          "percent": 59.0000038147
-        },
-        "disease-resist": {
-          "category": "Resistances",
-          "label": "Disease Resistance",
-          "format": "flat-or-percent",
-          "flat": 28347,
-          "percent": 42.9500007629
-        },
         "magic-damage": {
           "category": "Damage Bonuses",
           "label": "Magic Damage",
@@ -14618,55 +14965,24 @@
           "flat": 0,
           "percent": 0
         },
-        "poison-resist": {
+        "disease-resist": {
           "category": "Resistances",
-          "label": "Poison Resistance",
+          "label": "Disease Resistance",
           "format": "flat-or-percent",
-          "flat": 28347,
-          "percent": 42.9500007629
-        },
-        "cc-break-cost": {
-          "category": "Core Abilities",
-          "label": "Break Free Cost",
-          "format": "flat",
-          "flat": 5180
-        },
-        "fire-damage": {
-          "category": "Damage Bonuses",
-          "label": "Flame Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "block-speed": {
-          "category": "Core Abilities",
-          "label": "Block Move Speed",
-          "format": "percent",
-          "percent": 42
-        },
-        "subscriber-all-xp": {
-          "category": "ESO Plus",
-          "label": "Experience",
-          "format": "percent",
-          "percent": 10
-        },
-        "subscriber-coin-bonus": {
-          "category": "ESO Plus",
-          "label": "Gold",
-          "format": "percent",
-          "percent": 10
+          "flat": 26582,
+          "percent": 40.2757568359
         }
       },
       "sheet": {
-        "riding-capacity": 60,
-        "critical-chance-spell": 30.3030281067,
-        "critical-chance-weapon": 30.3030281067,
-        "attribute-points-unspent": 0,
-        "riding-speed": 60,
-        "attribute-points-stamina": 64,
-        "riding-stamina": 60,
         "attribute-points-magicka": 0,
-        "attribute-points-health": 0
+        "attribute-points-stamina": 64,
+        "riding-capacity": 60,
+        "attribute-points-unspent": 0,
+        "critical-chance-weapon": 30.3030281067,
+        "critical-chance-spell": 30.3030281067,
+        "attribute-points-health": 0,
+        "riding-stamina": 60,
+        "riding-speed": 60
       },
       "passiveRankIds": [
         [
@@ -16717,6 +17033,267 @@
           48176,
           48177
         ]
+      ],
+      "classMastery": [
+        {
+          "skillLineId": 351,
+          "name": "Class Mastery",
+          "classId": 1,
+          "passives": [
+            {
+              "abilityId": 238232,
+              "name": "Inexorable Descent",
+              "description": "Be as the landslide. Let nothing stop you.\n\nImproves your Landslide passive to increase the potency of your damage done, healing done, and damage shield strength by |cffffff1|r% per stack.",
+              "purchased": false
+            },
+            {
+              "abilityId": 240268,
+              "name": "Booming Voice",
+              "description": "Let your voice echo across the peaks.\n\nActivating rank 2 of The Storm Voice now also grants |cffffff5|r Health, Magicka, and Stamina Recovery for every Ultimate spent for |cffffff10|r seconds after a delay of |cffffff15|r seconds.",
+              "purchased": false
+            },
+            {
+              "abilityId": 259224,
+              "name": "Wildfire Embers",
+              "description": "Fire forged within can never be extinguished. Fan the flames.\n\nWhen your Dragonknight damage over time effects end, you apply a stack of Wildfire Embers to the target, dealing |cffffff4977|r Flame Damage over |cffffff12|r seconds. This effect stacks up to |cffffff12|r times and increases in damage |cffffff25|r% per stack.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263220,
+              "name": "Resolute Defense",
+              "description": "You are as unyielding as a mountain.\n\nEach second you remain Bracing, you increase the amount of damage you block by |cffffff6|r%, up to 5 times. \n\nBlocking damage has a |cffffff20|r% chance to restore |cffffff500|r Stamina. This effect can occur once every block cost.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263247,
+              "name": "Lead from the Front",
+              "description": "Let others be swept along in the wake of your flame.\n\nActivating rank 2 of The Storm Voice grants you and group members within |cffffff28|r meters of you Major Berserk and Protection for |cffffff1|r second per |cffffff15|r Ultimate spent, increasing damage done and reducing damage taken by |cffffff10|r%.",
+              "purchased": false
+            }
+          ]
+        },
+        {
+          "skillLineId": 352,
+          "name": "Class Mastery",
+          "classId": 117,
+          "passives": [
+            {
+              "abilityId": 263316,
+              "name": "Abyssal Emergence",
+              "description": "Dive deep into the abyss where power is yours to claim.\n\nActivating an Arcanist Ultimate immediately generates maximum Crux and grants you |cffffff666|r Weapon and Spell Damage for |cffffff15|r seconds.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263398,
+              "name": "Fate Realigned",
+              "description": "Be the hand that guides the weave of fate.\n\nUpgrades rank 2 of Implacable Outcome to generate maximum Crux, up to once every |cffffff15|r seconds. After this effect triggers you gain |cffffff300|r Weapon and Spell Damage for |cffffff25|r seconds.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263410,
+              "name": "Unbound Potential",
+              "description": "Surpass your limits in the fieldwork of battle.\n\nUpgrades rank 2 of Fated Fortune to also increase your damage done by |cffffff30|r%, halving against players, for the duration.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263412,
+              "name": "Erudite's Rigor",
+              "description": "Master the archaic and forge new runes of conflict.\n\nUpgrades Fatewoven Armor to inflict Minor Cowardice on your attacker while granting Major Vitality to you and your group for |cffffff4|r seconds. You gain |cffffff1|r Ultimate for every Crux you have.\n\nThese effects can occur once every |cffffff2|r seconds.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263416,
+              "name": "Ink-Scribe's Verve",
+              "description": "Illuminate body and mind with glimmering ink.\n\nWhile in combat, when you heal or overheal a total of |cffffff100000|r Health, you generate a Crux and grant you and your group members Major Force for |cffffff10|r seconds, increasing Critical Damage by |cffffff20|r%.",
+              "purchased": false
+            }
+          ]
+        },
+        {
+          "skillLineId": 353,
+          "name": "Class Mastery",
+          "classId": 5,
+          "passives": [
+            {
+              "abilityId": 263448,
+              "name": "Nothing Wasted",
+              "description": "As an abattoir of death, no remnants of life are wasted.\n\nUpgrades rank 2 of Corpse Consumption to also grant a stack of Nothing Wasted for |cffffff12|r seconds, which increases your Max Health by |cffffff2|r% and Weapon and Spell Damage by |cffffff2|r% per stack, up to |cffffff10|r times. Stacks decay two at a time instead of all at once.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263465,
+              "name": "Malevolent Promise",
+              "description": "Death's knell is a familiar song. Share it with your enemies.\n\nUpgrades rank 2 of Corpse Consumption to mark the closest non-player enemy to you with death's touch for |cffffff6|r seconds, allowing you to use a corpse consuming ability on them. Consuming or replacing this effect forcibly triggers rank 1 of Corpse Consumption's Ultimate generation and triggers rank 2 of Death Gleaning.\n\nThis effect can occur once every |cffffff2|r seconds.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263509,
+              "name": "Cycle Unending",
+              "description": "The cycle of life and death continues: you will live, others will die.\n\nUpgrades rank 2 of Reusable Parts to grant Cycle Unending for |cffffff25|r seconds, increasing the potency of your damage done by |cffffff1|r% for every |cffffff1|r% Health you have more than your target. The damage bonus caps at |cffffff25|r%, or |cffffff10|r% against players.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263549,
+              "name": "Pound of Flesh",
+              "description": "Knock upon death's door and demand your due.\n\nWhen you take damage you have a |cffffff10|r% chance to heal |cffffff2077|r Health and restore |cffffff5|r% of your missing Stamina, up to once per second. This chance increases by |cffffff1|r% for every missing Health percent you have and the healing is based off your Max Health.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263554,
+              "name": "Veil's Forfeit",
+              "description": "Call souls back from an early grave. Only you may grant them release.\n\nWhile you are in combat, directly healing a target below |cffffff66|r% Health relinquishes them from death's clutches and allows you to use a corpse consuming ability against them within |cffffff10|r seconds, up to once every second. \n\nExtends the duration of Major Vulnerability you apply by |cffffff50|r%.",
+              "purchased": false
+            }
+          ]
+        },
+        {
+          "skillLineId": 354,
+          "name": "Class Mastery",
+          "classId": 4,
+          "passives": [
+            {
+              "abilityId": 263519,
+              "name": "Tundra's Maw",
+              "description": "Expose your enemies to unrelenting cold.\n\nUpgrades Chilled to also apply Major Brittle for |cffffff2.1|r seconds, increasing their Critical Damage taken by |cffffff20|r%.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263520,
+              "name": "Wild Adaptation",
+              "description": "The battlefield is your grove. Tend to it.\n\nGain |cffffff333|r Weapon and Spell Damage for each status effect on your target, up to a maximum of |cffffff1665|r.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263521,
+              "name": "Glacial Obstinance",
+              "description": "Tap into the wellspring of permafrost's resolve.\n\nUpgrades Bond with Nature to also activate when casting Winter's Embrace abilities and to grant |cffffff15|r% Weapon and Spell Damage for |cffffff10|r seconds if you are at full Health after the heal.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263522,
+              "name": "Green-Keeper's Hide",
+              "description": "The twisting of seasons has tempered your will.\n\nReduce your damage taken by |cffffff3|r% for every status effect active on your attacker, up to a maximum of |cffffff15|r%.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263523,
+              "name": "Bountiful Harvest",
+              "description": "Share in the spoils of nature's abundance.\n\nUpgrades rank 2 of Nature's Gift to grant you and your group members Major Heroism for |cffffff3|r seconds and an additional |cffffff125|r Magicka and Stamina, up to once every |cffffff2|r seconds.",
+              "purchased": false
+            }
+          ]
+        },
+        {
+          "skillLineId": 355,
+          "name": "Class Mastery",
+          "classId": 6,
+          "passives": [
+            {
+              "abilityId": 263585,
+              "name": "Bastion of Light",
+              "description": "Light consecrates the ground on which you tread.\n\nSacred Ground is now applied while you are in your own Nova and Spear Shards, and while Radial Sweep and Solar Barrage are active. While Sacred Ground is active, you heal for |cffffff1662|r Health every |cffffff1|r second. If you are at full Health after being healed from this effect while in combat, you also gain |cffffff2|r Ultimate.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263586,
+              "name": "Devout Guardian",
+              "description": "Radiant is the shield that pushes back the dark.\n\nWhile Sacred Ground is active, you gain a damage shield for |cffffff6|r seconds, up to once every |cffffff6|r seconds. The shield absorbs up to |cffffff4683|r damage and provides |cffffff300|r Health, Magicka, and Stamina Recovery while active. If the shield breaks, you gain |cffffff10|r Ultimate.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263587,
+              "name": "Bright Harbinger",
+              "description": "Light's banner instills hope. You are its bearer.\n\nUpgrades rank 2 of Illuminate to also grant Bright Harbinger for the duration, which grants |cffffff300|r Weapon and Spell Damage to allies and doubles for you.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263588,
+              "name": "Judgment's Brand",
+              "description": "Judgement follows in the wake of your radiance.\n\nWhen rank 2 of Burning Light deals damage, your Templar abilities gain |cffffff1600|r damage done for |cffffff3.1|r seconds. This bonus is halved against players.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263589,
+              "name": "Steadfast Candescence",
+              "description": "Your conviction is unwavering. Light gives no quarter.\n\nSacred Ground now activates and refreshes itself while Bracing. Increases the amount of damage you can block by |cffffff20|r% while stationary.",
+              "purchased": false
+            }
+          ]
+        },
+        {
+          "skillLineId": 356,
+          "name": "Class Mastery",
+          "classId": 3,
+          "passives": [
+            {
+              "abilityId": 263603,
+              "name": "Nocturnal Inspiration",
+              "description": "The Night Mistress rewards those who strike without reservation.\n\nUpgrades rank 2 of Hemorrhage to have a chance to generate |cffffff2|r Ultimate while in combat. This effect can occur once every |cffffff0.3|r seconds and the chance is equal to your Weapon Critical chance.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263604,
+              "name": "An Eye for Exploitation",
+              "description": "Every strike, every stab, is a step towards execution.\n\nIncreases your Weapon and Spell Damage by up to |cffffff2000|r, based on your target's missing Health. \n\nReduces your damage taken by up to |cffffff20|r%, based on your attacker's missing Health. \n\nBoth effects are halved against targets with Battle Spirit.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263605,
+              "name": "Above and Beyond",
+              "description": "An assassin is only as good as their reputation.\n\nIncreases your Critical Damage and Healing by |cffffff25|r%. This effect is reduced to |cffffff5|r% against targets with Battle Spirit.\n\nIncreases your maximum Critical Damage and Healing by |cffffff30|r%.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263606,
+              "name": "Cutthroat's Focus",
+              "description": "This duel will be their last. For you, it's just another dance.\n\nActivating a Nightblade ability while bracing causes you to dodge attacks for |cffffff0.3|r seconds.\n\nWhenever you dodge an attack, your attacker's psyche suffers, increasing their damage taken by |cffffff5|r% for |cffffff5|r seconds, increasing to |cffffff20|r seconds against monsters.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263607,
+              "name": "Share the Spoils",
+              "description": "Secrets and coin are tools as sharp as the daggers you wield.\n\nUpgrades rank 2 of Transfer to grant group members |cffffff250|r Magicka and Stamina, |cffffff2|r Ultimate, and doubles the Ultimate you gain when it activates.",
+              "purchased": false
+            }
+          ]
+        },
+        {
+          "skillLineId": 357,
+          "name": "Class Mastery",
+          "classId": 2,
+          "passives": [
+            {
+              "abilityId": 263870,
+              "name": "Conservation of Energy",
+              "description": "Spellcasting is second nature to you. A skill honed by tireless study.\n\nUpgrades rank 2 of Blood Magic to work with all abilities with a cost, excluding cost per tick abilities, and restores |cffffff217|r Magicka and |cffffff360|r Stamina when it activates. This effect scales off your Max Magicka and Stamina.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263871,
+              "name": "Font of Power",
+              "description": "Within you is a wellspring of near unlimited power.\n\nUpgrades rank 2 of Exploitation to work with any Sorcerer ability and increases your Weapon and Spell Damage by |cffffff13|r% for |cffffff10|r seconds. The Weapon and Spell Damage increases by |cffffff1|r% for every |cffffff1750|r Max Magicka or Stamina you have, whichever is higher.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263872,
+              "name": "Static Reverberation",
+              "description": "The battlefield crackles with untapped potential. Make use of it.\n\nWhen you deal damage with a Sorcerer ability, you have a |cffffff20|r% chance to deal |cffffff1499|r Shock Damage, up to once every |cffffff0.1|r seconds. \n\nThe chance increases by |cffffff1|r% for every |cffffff1|r% missing Health the target has. The total chance is divided by 1 plus every permanent pet you have active.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263873,
+              "name": "Calculated Defense",
+              "description": "Success is a certainty when nothing is left to chance.\n\nWhile beginning to use a Sorcerer ability or an ability with a cast time, you gain a damage shield for |cffffff0.5|r seconds that can absorb |cffffff7727|r damage. This effect is based off your Max Health. If the shield does not break, you and nearby group members gain |cffffff6|r% Weapon and Spell Damage for |cffffff20|r seconds.",
+              "purchased": false
+            },
+            {
+              "abilityId": 263874,
+              "name": "Sphere of Influence",
+              "description": "Magicka extends your reach, a benefit to those who fight beside you.\n\nCasting a damage shield on yourself or an ally grants an additional shield that absorbs up to |cffffff3512|r damage for |cffffff4|r seconds and |cffffff225|r Health, Magicka, and Stamina Recovery for |cffffff12|r seconds. The shield scales off the higher of your Max Health or Max Magicka, and is capped at |cffffff25|r% of the target's Max Health.",
+              "purchased": false
+            }
+          ]
+        }
       ]
     }
   }
