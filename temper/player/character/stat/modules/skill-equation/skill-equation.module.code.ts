@@ -165,7 +165,7 @@ const DURATION = /^(\d+(?:\.\d+)?)s duration$/
 
 const TICK = /^(\d+(?:\.\d+)?)s tick$/
 
-const HALF_HEALTH = "at most half Health"
+const CAPPED = /^at most (\d+)% Health$/
 
 const SINGLE = "single precision"
 
@@ -334,9 +334,8 @@ function shieldOf(
   const growth = ranked === undefined ? 1 : RANK_GROWTH[ranked]
   if (growth === undefined) return undefined
   const shield = ranked === undefined ? bonused : Math.floor(single(single(growth) * bonused))
-  return equation.tags.includes(HALF_HEALTH)
-    ? Math.min(shield, Math.floor(stats.health / 2))
-    : shield
+  const cap = secondsTagged(equation, CAPPED)
+  return cap === undefined ? shield : Math.min(shield, Math.floor((cap * stats.health) / 100))
 }
 
 function tooltipValueOf(

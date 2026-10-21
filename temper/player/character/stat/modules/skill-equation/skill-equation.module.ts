@@ -70,7 +70,8 @@ export const skillEquation = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A shield tagged `at most half Health` stops at half the build's Max Health.",
+      statement:
+        "A shield tagged `at most N% Health` stops at N% of the build's Max Health, rounded down.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -279,5 +280,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T16:02:37.525Z",
+  updatedAt: "2026-10-21T16:09:13.356Z",
 } as const satisfies Module

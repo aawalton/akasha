@@ -138,7 +138,7 @@ test("a damage shield floors each term, grows with Bastion and rank IV, and stop
     const paired = tooltipPairingOf("absorbs |cffffff1|r", [line], { ...STATS, health }, held)
     return paired.paired ? paired.numbers[0]?.temper : undefined
   }
-  const fatecarver = "<<4>> = 0.139474 MaxStat + 1.46406 MaxPower (DmgShield, at most half Health)"
+  const fatecarver = "<<4>> = 0.139474 MaxStat + 1.46406 MaxPower (DmgShield, at most 50% Health)"
   const raw = 0.139474 * 20000 + 1.46406 * 5000
 
   expect(shield(fatecarver, new Set())).toBe(Math.floor(raw))
