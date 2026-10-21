@@ -14,12 +14,12 @@ export type ReadingLine = z.infer<typeof lineShape>
 
 export type Unread = { readonly line: number; readonly why: string }
 
-export type ReadingLines = {
+type ReadingLines = {
   readonly lines: readonly ReadingLine[]
   readonly unread: readonly Unread[]
 }
 
-export type Choosing = {
+type Choosing = {
   readonly last: number
   readonly capturedAt?: number | undefined
   readonly id?: string | undefined
