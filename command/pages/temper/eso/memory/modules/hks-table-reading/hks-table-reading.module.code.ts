@@ -2,9 +2,9 @@ export type Reader = (at: bigint, length: number) => Buffer | null
 
 export type Held = { readonly type: number; readonly value: bigint }
 
-export type Entry = { readonly key: Held; readonly value: Held }
+type Entry = { readonly key: Held; readonly value: Held }
 
-export type TableRead = { readonly header: readonly bigint[]; readonly entries: readonly Entry[] }
+type TableRead = { readonly header: readonly bigint[]; readonly entries: readonly Entry[] }
 
 export type LuaData = null | boolean | number | string | { readonly [key: string]: LuaData }
 
@@ -110,7 +110,7 @@ export function fieldOf(read: Reader, table: bigint, name: string): Held | null 
   return null
 }
 
-export function keyOf(read: Reader, key: Held): string | null {
+function keyOf(read: Reader, key: Held): string | null {
   if (key.type === NUMBER) return String(numberOf(key.value))
   if (key.type === STRING) return textAt(read, key.value)
   return null
