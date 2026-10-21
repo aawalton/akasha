@@ -5080,8 +5080,8 @@
     }
   },
   "skillPoints": {
-    "total": 401,
-    "unassigned": 15,
+    "total": 402,
+    "unassigned": 16,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 0,
@@ -5091,7 +5091,7 @@
     "endlessArchive": 1,
     "skyshardPoints": 176,
     "totalSkyshards": 530,
-    "zoneQuestTotal": 72,
+    "zoneQuestTotal": 73,
     "groupDungeonTotal": 25,
     "publicDungeonTotal": 36,
     "skyshards": {
@@ -5155,7 +5155,7 @@
       "DC3": 3,
       "WR": 3,
       "DC4": 3,
-      "VV": 0,
+      "VV": 1,
       "HI": 0,
       "AD2": 3,
       "AD5": 3,
@@ -7400,6 +7400,7 @@
     5796,
     5797,
     5798,
+    5799,
     5800,
     5802,
     5803,
@@ -7411,6 +7412,7 @@
     5823,
     5833,
     5834,
+    5836,
     5837,
     5838,
     5839,
@@ -7423,6 +7425,7 @@
     5888,
     5893,
     5902,
+    5905,
     5921,
     5931,
     5937,
@@ -7442,6 +7445,7 @@
     5989,
     5990,
     5991,
+    6003,
     6014,
     6058,
     6064,
@@ -11139,7 +11143,12 @@
         2,
         3,
         4,
-        5
+        5,
+        6,
+        7
+      ],
+      "2": [
+        15
       ],
       "3": [
         1,
@@ -11155,6 +11164,7 @@
         6,
         7,
         8,
+        9,
         10,
         11,
         12,
@@ -13476,6 +13486,7 @@
       13,
       14,
       15,
+      18,
       21,
       22,
       23,
@@ -13483,6 +13494,7 @@
       25,
       26,
       27,
+      28,
       29,
       30,
       31,
@@ -14103,17 +14115,17 @@
   },
   "inventoryCheck": {
     "date": "2026-10-20",
-    "misplaced": 99
+    "misplaced": 106
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792540539,
+      "capturedAt": 1792541823,
       "buildHash": "ATQNLMUAAIBhxRNCyJtAEIBCyJtAEIBC5gtuULJC5gtuULJC5gtuULJC5gtuULJC5gtuULIQlKtuULJBHb1AEIAQQbtuULImJTHbcoWURBMdbcoWVu4sGXp9K_KyM7yW7rQGnEEA3ddEoG-3AQNgIk4dcnwfAdoWPbia4XTbKyMEI911WUdTaccICU0IiMiAAMzICIiIyIgIyI1IiIgAjIjNCIAIiQgMiJAMARDIiIwOiMjQgOgIiImQzMjQgAAA4IiAiIkozBCIiIjAjoAAAADUixJwyseTLLmTZ2fRp1a9s-hRpU6niqAAAABs8fXL0DFkhaImyN07SJUyd-oUwVUJXHWAAAAAbAlSwIwDCBQxk0HECTZwULGDRw8gRJHSYfBAZBxiQNY",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
-      "ultimate": 214,
-      "health": 24546,
-      "healthBefore": 21976,
+      "ultimate": 43,
+      "health": 22554,
+      "healthBefore": 24546,
       "healthPaired": false,
       "stats": {
         "penetration-physical": 17886,
@@ -14151,6 +14163,13 @@
       },
       "activeBuffs": [
         {
+          "abilityId": 127531,
+          "name": "Corrupting Bloody Mara",
+          "description": "Increase Max Magicka by |cffffff3937|r, Max Health by |cffffff4305|r, and Health Recovery by |cffffff430|r for |cffffff2|r hours. \nIf you are a vampire, the tainted blood in this drink will also spark a fierce hunger in you.",
+          "effect": "Increase Max Magicka by |cffffff4620|r.\nIncrease Max Health by |cffffff5051|r.\nIncrease Health Recovery by |cffffff505|r.\n",
+          "stacks": 0
+        },
+        {
           "abilityId": 63569,
           "name": "Gallop",
           "description": "",
@@ -14165,10 +14184,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 61665,
-          "name": "Major Brutality",
+          "abilityId": 61667,
+          "name": "Major Savagery",
           "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
+          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
           "stacks": 0
         },
         {
@@ -14179,17 +14198,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 61667,
-          "name": "Major Savagery",
+          "abilityId": 61665,
+          "name": "Major Brutality",
           "description": "",
-          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 127531,
-          "name": "Corrupting Bloody Mara",
-          "description": "Increase Max Magicka by |cffffff3937|r, Max Health by |cffffff4305|r, and Health Recovery by |cffffff430|r for |cffffff2|r hours. \nIf you are a vampire, the tainted blood in this drink will also spark a fierce hunger in you.",
-          "effect": "Increase Max Magicka by |cffffff4620|r.\nIncrease Max Health by |cffffff5051|r.\nIncrease Health Recovery by |cffffff505|r.\n",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
           "stacks": 0
         },
         {
@@ -14198,13 +14210,6 @@
           "description": "",
           "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
           "stacks": 0
-        },
-        {
-          "abilityId": 122586,
-          "name": "Merciless Resolve",
-          "description": "",
-          "effect": "",
-          "stacks": 10
         }
       ],
       "pets": [],
@@ -14948,7 +14953,7 @@
         },
         {
           "slot": 6,
-          "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:5600:0|h|h",
+          "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:5400:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 781,
@@ -15388,7 +15393,7 @@
           "category": "Core Abilities",
           "label": "Sprint Cost",
           "format": "flat",
-          "flat": 198
+          "flat": 100
         },
         "physical-damage": {
           "category": "Damage Bonuses",
