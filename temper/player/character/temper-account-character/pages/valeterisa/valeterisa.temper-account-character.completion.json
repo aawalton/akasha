@@ -13737,28 +13737,12 @@
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-20",
-    "seen": [
-      5,
-      3,
-      4,
-      2,
-      1,
-      6,
-      7
-    ],
-    "completed": [
-      1,
-      6,
-      2,
-      7,
-      3,
-      4,
-      5
-    ]
+    "date": "2026-10-21",
+    "seen": [],
+    "completed": []
   },
   "inventoryCheck": {
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "misplaced": 14
   },
   "reportedStats": {
@@ -13772,38 +13756,38 @@
       "healthBefore": 19936,
       "healthPaired": false,
       "stats": {
-        "resistance-critical": 1320,
-        "resistance-physical": 12406,
-        "critical-rating-spell": 6448,
-        "stamina-maximum": 15646,
-        "magicka-recovery": 1415,
-        "power-weapon": 2335,
-        "penetration-spell": 6335,
-        "resistance-spell": 19072,
         "penetration-physical": 6335,
+        "magicka-recovery": 1415,
+        "power-spell": 2335,
+        "critical-rating-spell": 6448,
+        "stamina-recovery": 773,
+        "power-weapon": 2335,
+        "stamina-maximum": 15646,
+        "resistance-critical": 1320,
+        "critical-rating-weapon": 6448,
+        "penetration-spell": 6335,
+        "health-recovery": 373,
         "health-maximum": 19038,
         "magicka-maximum": 63031,
-        "stamina-recovery": 773,
-        "power-spell": 2335,
-        "critical-rating-weapon": 6448,
-        "health-recovery": 373
+        "resistance-spell": 19072,
+        "resistance-physical": 12406
       },
       "unbonusedStats": {
-        "resistance-critical": 0,
-        "resistance-physical": 0,
-        "critical-rating-spell": 2181,
-        "stamina-maximum": 15646,
-        "magicka-recovery": 1415,
-        "power-weapon": 1000,
-        "penetration-spell": 0,
-        "resistance-spell": 0,
         "penetration-physical": 0,
+        "magicka-recovery": 1415,
+        "power-spell": 1000,
+        "critical-rating-spell": 2181,
+        "stamina-recovery": 773,
+        "power-weapon": 1000,
+        "stamina-maximum": 15646,
+        "resistance-critical": 0,
+        "critical-rating-weapon": 2181,
+        "penetration-spell": 0,
+        "health-recovery": 373,
         "health-maximum": 19038,
         "magicka-maximum": 63031,
-        "stamina-recovery": 773,
-        "power-spell": 1000,
-        "critical-rating-weapon": 2181,
-        "health-recovery": 373
+        "resistance-spell": 0,
+        "resistance-physical": 0
       },
       "activeBuffs": [
         {
@@ -15057,30 +15041,11 @@
       "archiveBoons": [],
       "advanced": {
         "healing-taken-base": 0.03,
-        "healing-done-base": 0.05,
         "critical-damage": 0,
-        "healing-critical-bonus": 0
+        "healing-critical-bonus": 0,
+        "healing-done-base": 0.05
       },
       "advancedSheet": {
-        "bash-damage": {
-          "category": "Core Abilities",
-          "label": "Bash Damage",
-          "format": "flat",
-          "flat": 502
-        },
-        "cold-damage": {
-          "category": "Damage Bonuses",
-          "label": "Frost Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "subscriber-alliance-points-bonus": {
-          "category": "ESO Plus",
-          "label": "Alliance Points",
-          "format": "percent",
-          "percent": 10
-        },
         "shock-resist": {
           "category": "Resistances",
           "label": "Shock Resistance",
@@ -15088,40 +15053,15 @@
           "flat": 19072,
           "percent": 28.8969688416
         },
-        "dodge-cost": {
+        "sneak-cost": {
           "category": "Core Abilities",
-          "label": "Dodge Roll Cost",
+          "label": "Sneak Cost",
           "format": "flat",
-          "flat": 3230
+          "flat": 79
         },
-        "block-mitigation": {
-          "category": "Core Abilities",
-          "label": "Block Mitigation",
-          "format": "percent",
-          "percent": 52.9999961853
-        },
-        "disease-resist": {
-          "category": "Resistances",
-          "label": "Disease Resistance",
-          "format": "flat-or-percent",
-          "flat": 12406,
-          "percent": 18.7969703674
-        },
-        "block-speed": {
-          "category": "Core Abilities",
-          "label": "Block Move Speed",
-          "format": "percent",
-          "percent": 42
-        },
-        "subscriber-all-xp": {
-          "category": "ESO Plus",
-          "label": "Experience",
-          "format": "percent",
-          "percent": 10
-        },
-        "bleed-damage": {
+        "magic-damage": {
           "category": "Damage Bonuses",
-          "label": "Bleed Damage",
+          "label": "Magic Damage",
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
@@ -15132,76 +15072,42 @@
           "format": "percent",
           "percent": 0
         },
-        "physical-damage": {
-          "category": "Damage Bonuses",
-          "label": "Physical Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
+        "block-cost": {
+          "category": "Core Abilities",
+          "label": "Block Cost",
+          "format": "flat",
+          "flat": 2018
+        },
+        "sneak-speed-reduction": {
+          "category": "Core Abilities",
+          "label": "Sneak Speed",
+          "format": "percent",
+          "percent": 100
+        },
+        "bash-damage": {
+          "category": "Core Abilities",
+          "label": "Bash Damage",
+          "format": "flat",
+          "flat": 502
+        },
+        "subscriber-all-xp": {
+          "category": "ESO Plus",
+          "label": "Experience",
+          "format": "percent",
+          "percent": 10
+        },
+        "disease-resist": {
+          "category": "Resistances",
+          "label": "Disease Resistance",
+          "format": "flat-or-percent",
+          "flat": 12406,
+          "percent": 18.7969703674
         },
         "subscriber-coin-bonus": {
           "category": "ESO Plus",
           "label": "Gold",
           "format": "percent",
           "percent": 10
-        },
-        "oblivion-damage": {
-          "category": "Damage Bonuses",
-          "label": "Oblivion Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "cc-break-cost": {
-          "category": "Core Abilities",
-          "label": "Break Free Cost",
-          "format": "flat",
-          "flat": 3626
-        },
-        "fire-damage": {
-          "category": "Damage Bonuses",
-          "label": "Flame Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "healing-done-bonuses": {
-          "category": "Healing Bonuses",
-          "label": "Healing Done",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 5
-        },
-        "subscriber-inspiration-bonus": {
-          "category": "ESO Plus",
-          "label": "Crafting Inspiration",
-          "format": "percent",
-          "percent": 10
-        },
-        "bleed-resist": {
-          "category": "Resistances",
-          "label": "Bleed Resistance",
-          "format": "flat-or-percent",
-          "flat": 12406,
-          "percent": 18.7969703674
-        },
-        "subscriber-telvar-bonus": {
-          "category": "ESO Plus",
-          "label": "Tel Var",
-          "format": "percent",
-          "percent": 10
-        },
-        "sprint-speed": {
-          "category": "Core Abilities",
-          "label": "Sprint Speed",
-          "format": "percent",
-          "percent": 143
-        },
-        "bash-cost": {
-          "category": "Core Abilities",
-          "label": "Bash Cost",
-          "format": "flat",
-          "flat": 554
         },
         "fire-resist": {
           "category": "Resistances",
@@ -15210,9 +15116,22 @@
           "flat": 19072,
           "percent": 28.8969688416
         },
-        "disease-damage": {
+        "block-mitigation": {
+          "category": "Core Abilities",
+          "label": "Block Mitigation",
+          "format": "percent",
+          "percent": 52.9999961853
+        },
+        "healing-done-bonuses": {
+          "category": "Healing Bonuses",
+          "label": "Healing Done",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 5
+        },
+        "cold-damage": {
           "category": "Damage Bonuses",
-          "label": "Disease Damage",
+          "label": "Frost Damage",
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
@@ -15224,24 +15143,83 @@
           "flat": 0,
           "percent": 0
         },
-        "block-cost": {
-          "category": "Core Abilities",
-          "label": "Block Cost",
-          "format": "flat",
-          "flat": 2018
+        "bleed-damage": {
+          "category": "Damage Bonuses",
+          "label": "Bleed Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
         },
-        "sneak-cost": {
+        "block-speed": {
           "category": "Core Abilities",
-          "label": "Sneak Cost",
-          "format": "flat",
-          "flat": 79
+          "label": "Block Move Speed",
+          "format": "percent",
+          "percent": 42
         },
-        "magic-resist": {
+        "oblivion-damage": {
+          "category": "Damage Bonuses",
+          "label": "Oblivion Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "critical-healing": {
+          "category": "Healing Bonuses",
+          "label": "Critical Healing",
+          "format": "percent",
+          "percent": 0
+        },
+        "physical-damage": {
+          "category": "Damage Bonuses",
+          "label": "Physical Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "fire-damage": {
+          "category": "Damage Bonuses",
+          "label": "Flame Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "subscriber-alliance-points-bonus": {
+          "category": "ESO Plus",
+          "label": "Alliance Points",
+          "format": "percent",
+          "percent": 10
+        },
+        "subscriber-inspiration-bonus": {
+          "category": "ESO Plus",
+          "label": "Crafting Inspiration",
+          "format": "percent",
+          "percent": 10
+        },
+        "bash-cost": {
+          "category": "Core Abilities",
+          "label": "Bash Cost",
+          "format": "flat",
+          "flat": 554
+        },
+        "bleed-resist": {
           "category": "Resistances",
-          "label": "Magic Resistance",
+          "label": "Bleed Resistance",
           "format": "flat-or-percent",
-          "flat": 19072,
-          "percent": 28.8969688416
+          "flat": 12406,
+          "percent": 18.7969703674
+        },
+        "cc-break-cost": {
+          "category": "Core Abilities",
+          "label": "Break Free Cost",
+          "format": "flat",
+          "flat": 3626
+        },
+        "poison-resist": {
+          "category": "Resistances",
+          "label": "Poison Resistance",
+          "format": "flat-or-percent",
+          "flat": 12406,
+          "percent": 18.7969703674
         },
         "sprint-cost": {
           "category": "Core Abilities",
@@ -15249,16 +15227,24 @@
           "format": "flat",
           "flat": 377
         },
-        "sneak-speed-reduction": {
-          "category": "Core Abilities",
-          "label": "Sneak Speed",
-          "format": "percent",
-          "percent": 100
+        "frost-resist": {
+          "category": "Resistances",
+          "label": "Frost Resistance",
+          "format": "flat-or-percent",
+          "flat": 19072,
+          "percent": 28.8969688416
         },
-        "critical-healing": {
-          "category": "Healing Bonuses",
-          "label": "Critical Healing",
-          "format": "percent",
+        "dodge-cost": {
+          "category": "Core Abilities",
+          "label": "Dodge Roll Cost",
+          "format": "flat",
+          "flat": 3230
+        },
+        "poison-damage": {
+          "category": "Damage Bonuses",
+          "label": "Poison Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
           "percent": 0
         },
         "healing-taken-bonuses": {
@@ -15268,87 +15254,89 @@
           "flat": 0,
           "percent": 3
         },
-        "magic-damage": {
-          "category": "Damage Bonuses",
-          "label": "Magic Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
+        "sprint-speed": {
+          "category": "Core Abilities",
+          "label": "Sprint Speed",
+          "format": "percent",
+          "percent": 143
         },
-        "frost-resist": {
+        "magic-resist": {
           "category": "Resistances",
-          "label": "Frost Resistance",
+          "label": "Magic Resistance",
           "format": "flat-or-percent",
           "flat": 19072,
           "percent": 28.8969688416
         },
-        "poison-damage": {
+        "disease-damage": {
           "category": "Damage Bonuses",
-          "label": "Poison Damage",
+          "label": "Disease Damage",
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
         },
-        "poison-resist": {
-          "category": "Resistances",
-          "label": "Poison Resistance",
-          "format": "flat-or-percent",
-          "flat": 12406,
-          "percent": 18.7969703674
+        "subscriber-telvar-bonus": {
+          "category": "ESO Plus",
+          "label": "Tel Var",
+          "format": "percent",
+          "percent": 10
         }
       },
       "sheet": {
-        "attribute-points-health": 0,
+        "riding-capacity": 60,
+        "attribute-points-magicka": 64,
         "attribute-points-stamina": 0,
+        "attribute-points-health": 0,
+        "riding-stamina": 60,
         "riding-speed": 60,
         "critical-chance-weapon": 29.4267959595,
-        "riding-stamina": 60,
         "attribute-points-unspent": 0,
-        "critical-chance-spell": 29.4267959595,
-        "riding-capacity": 60,
-        "attribute-points-magicka": 64
+        "critical-chance-spell": 29.4267959595
       },
       "passiveRankIds": [],
       "classMastery": []
     },
     "backBar": {
-      "capturedAt": 1792501608,
-      "buildHash": "ATQKopWgAABjRwwGj6tuRFKbaACaGe0AEUM9oAIoZ7QATQz2gAihntAARqbaAAkH3UABGptoADMym2gBNqbaABxMptoAySfYTyQSZUiSSHsg-QSZZKgEzoqhB2G4GBoBEmYri8DQDsCw7XDXB-cRORAhFsPuijrTXjhEKEJEBAZGZARGQkQEZGpERABGRmaCAEhAZEgACIZERmB0RgaEQHRERMhmRoAAEEREBkRJRmCEREREYEdZdFbUbkWJOGVjyZZcybOz6NOrXtn0KNKnU8VayxsrZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJhAgMhYxIGoeyqRA",
+      "capturedAt": 1792578779,
+      "buildHash": "ATQNopWgAABjRwwGj6tuULIilNtAEIAmhntAEIAihntAEIAihntAEIAmhntAEIAihntAEIAI1NtAEIAJB91AEIAI1NtAEIAMzKbaAIQCbU20AQgBxMptoAhAZJPsJ5IJMqRJJD2QfIJMslQCZ0VQg7DcDA0AiTMVxeBoB2BYdrhrg_OInIgQi2H3RR1prxwiFCEiAgMjMgIjISICMjUiIgAjIzNBACQgMiQABEMiIzA6IwNCIDoiImQzI0AACCIiAyIkozBCIiIiMCOsuitqNyLEnDKx5MsuZNnZ9GnVr2z6FGlTqeKtZY2VsjZ4-uXoGLJC0RNkbp2kSpk79QpgqoSuOsMHDZI2BKlgRgGEChjJoOIEmzgoWMGjh5AiSOkwECAyFjEgah7KpEA",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
+      "ultimate": 500,
+      "health": 22866,
+      "healthBefore": 22671,
+      "healthPaired": false,
       "stats": {
-        "resistance-critical": 1320,
-        "resistance-physical": 9048,
-        "critical-rating-spell": 6448,
-        "stamina-maximum": 14398,
-        "magicka-recovery": 1351,
-        "power-weapon": 2335,
-        "penetration-spell": 6335,
-        "resistance-spell": 15714,
         "penetration-physical": 6335,
-        "health-maximum": 19936,
-        "magicka-maximum": 66970,
-        "stamina-recovery": 773,
+        "magicka-recovery": 1351,
         "power-spell": 2335,
+        "critical-rating-spell": 6448,
+        "stamina-recovery": 773,
+        "resistance-spell": 15714,
+        "stamina-maximum": 17434,
+        "health-recovery": 373,
         "critical-rating-weapon": 6448,
-        "health-recovery": 373
+        "penetration-spell": 6335,
+        "power-weapon": 2335,
+        "health-maximum": 22866,
+        "resistance-critical": 1320,
+        "magicka-maximum": 70561,
+        "resistance-physical": 9048
       },
       "unbonusedStats": {
-        "resistance-critical": 0,
-        "resistance-physical": 0,
-        "critical-rating-spell": 2181,
-        "stamina-maximum": 14398,
-        "magicka-recovery": 1351,
-        "power-weapon": 1000,
-        "penetration-spell": 0,
-        "resistance-spell": 0,
         "penetration-physical": 0,
-        "health-maximum": 19936,
-        "magicka-maximum": 66970,
-        "stamina-recovery": 773,
+        "magicka-recovery": 1351,
         "power-spell": 1000,
+        "critical-rating-spell": 2181,
+        "stamina-recovery": 773,
+        "resistance-spell": 0,
+        "stamina-maximum": 17434,
+        "health-recovery": 373,
         "critical-rating-weapon": 2181,
-        "health-recovery": 373
+        "penetration-spell": 0,
+        "power-weapon": 1000,
+        "health-maximum": 22866,
+        "resistance-critical": 0,
+        "magicka-maximum": 70561,
+        "resistance-physical": 0
       },
       "activeBuffs": [
         {
@@ -15382,16 +15370,45 @@
         {
           "abilityId": 23319,
           "name": "Summon Unstable Clannfear",
-          "description": "Command the powers of Oblivion to send a Daedric clannfear to fight at your side. The clannfear's headbutt deals |cffffff1746|r Physical Damage, while its tail spike hits nearby enemies for |cffffff1835|r Physical Damage after |cffffff1|r second.  \n\nOnce summoned, you can activate the clannfear's special ability for |cffffff3499|r Magicka, healing you for |cffffff6700|r and the clannfear for |cffffff3349|r.\n\nThe clannfear remains until killed or unsummoned.",
+          "description": "Command the powers of Oblivion to send a Daedric clannfear to fight at your side. The clannfear's headbutt deals |cffffff1815|r Physical Damage, while its tail spike hits nearby enemies for |cffffff1907|r Physical Damage after |cffffff1|r second.  \n\nOnce summoned, you can activate the clannfear's special ability for |cffffff3499|r Magicka, healing you for |cffffff7685|r and the clannfear for |cffffff3842|r.\n\nThe clannfear remains until killed or unsummoned.",
           "effect": "",
-          "stacks": 0
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 2335,
+            "spell": 2335
+          }
         },
         {
           "abilityId": 135397,
           "name": "Vampire Stage 1",
           "description": "",
           "effect": "You are slightly corrupted from the influence of Vampirism.\n\nHealth Recovery: -10%\nFlame Damage Taken: +5%\nRegular Ability Costs: +3%\nVampire Ability Costs: -6%\n",
-          "stacks": 0
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 2335,
+            "spell": 2335
+          }
+        },
+        {
+          "abilityId": 155176,
+          "name": "Escalating Fete",
+          "description": "",
+          "effect": "",
+          "stacks": 30,
+          "powerAtOnset": {
+            "weapon": 2335,
+            "spell": 2335
+          }
+        }
+      ],
+      "fete": {
+        "stacks": 30,
+        "changedMsAgo": 11132
+      },
+      "pets": [
+        {
+          "name": "Clannfear",
+          "dead": false
         }
       ],
       "championPoints": [
@@ -15967,119 +15984,497 @@
         {
           "slot": 0,
           "link": "|H0:item:94516:364:50:26582:370:50:16:25:0:0:0:0:0:0:2049:67:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 2425,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff1085|r Maximum Magicka.",
           "enchantCategory": 13,
           "trait": "Increase armor enchantment effect by |cffffff25|r%.",
-          "quality": 5
+          "quality": 5,
+          "setId": 272,
+          "setName": "Infernal Guardian",
+          "setBonusCount": 2,
+          "setEquipped": 1,
+          "setMaxEquipped": 2,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 1,
+              "description": "(1 item) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 2,
+              "description": "(2 items) When you apply a damage shield to yourself or an ally, you have a |cffffff50|r% chance to lob |cffffff3|r mortars over |cffffff2|r seconds at the furthest enemy from you that each deal |cffffff1936|r Flame Damage to all enemies within |cffffff5|r meters of the blast area. This effect can occur once every |cffffff6|r seconds and scales off the higher of your Weapon or Spell Damage.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 1,
           "link": "|H0:item:86744:364:50:0:0:0:22:25:0:0:0:0:0:0:2049:6:0:1:0:0:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 0,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff169|r Magicka Recovery.",
           "enchantCategory": 14,
           "trait": "Increases Maximum Magicka by |cffffff877|r.",
-          "quality": 5
+          "quality": 5,
+          "setId": 98,
+          "setName": "Necropotence",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) While you have a summoned combat pet active your Max Magicka is increased by |cffffff14|r%.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 2,
           "link": "|H0:item:149255:364:50:0:0:0:16:25:0:0:0:0:0:0:2049:85:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 1396,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff1085|r Maximum Magicka.",
           "enchantCategory": 13,
           "trait": "Increase armor enchantment effect by |cffffff25|r%.",
-          "quality": 5
+          "quality": 5,
+          "setId": 440,
+          "setName": "Crafty Alfiq",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Adds |cffffff2550|r Maximum Magicka",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 3,
           "link": "|H0:item:86764:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:6:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 1221,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff351|r Maximum Magicka.",
           "enchantCategory": 13,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
-          "quality": 5
+          "quality": 5,
+          "setId": 98,
+          "setName": "Necropotence",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) While you have a summoned combat pet active your Max Magicka is increased by |cffffff14|r%.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 4,
           "link": "|H0:item:86751:364:50:0:0:0:5:25:0:0:0:0:0:0:2049:6:0:1:0:497:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 0,
+          "weaponPower": 1335,
           "enchant": "Deals |cffffff1121|r Magic Damage and restores |cffffff177|r Magicka.",
           "enchantCategory": 23,
           "trait": "Increases Physical and Spell Resistance by |cffffff1638|r.",
-          "quality": 5
+          "quality": 5,
+          "setId": 98,
+          "setName": "Necropotence",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) While you have a summoned combat pet active your Max Magicka is increased by |cffffff14|r%.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 5,
           "link": "|H0:item:86757:364:50:0:0:0:16:25:0:0:0:0:0:0:2049:6:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 1720,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff1085|r Maximum Stamina.",
           "enchantCategory": 17,
           "trait": "Increase armor enchantment effect by |cffffff25|r%.",
-          "quality": 5
+          "quality": 5,
+          "setId": 98,
+          "setName": "Necropotence",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) While you have a summoned combat pet active your Max Magicka is increased by |cffffff14|r%.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 6,
           "link": "|H0:item:149262:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:85:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 523,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff351|r Maximum Magicka.",
           "enchantCategory": 13,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
-          "quality": 5
+          "quality": 5,
+          "setId": 440,
+          "setName": "Crafty Alfiq",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Adds |cffffff2550|r Maximum Magicka",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 8,
           "link": "|H0:item:149259:364:50:0:0:0:16:25:0:0:0:0:0:0:2049:85:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 1221,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff1085|r Maximum Magicka.",
           "enchantCategory": 13,
           "trait": "Increase armor enchantment effect by |cffffff25|r%.",
-          "quality": 5
+          "quality": 5,
+          "setId": 440,
+          "setName": "Crafty Alfiq",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Adds |cffffff2550|r Maximum Magicka",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 9,
           "link": "|H0:item:149256:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:85:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 1221,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff351|r Maximum Magicka.",
           "enchantCategory": 13,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
-          "quality": 5
+          "quality": 5,
+          "setId": 440,
+          "setName": "Crafty Alfiq",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Adds |cffffff2550|r Maximum Magicka",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 11,
           "link": "|H0:item:175527:364:50:0:0:0:22:25:0:0:0:0:0:0:2049:0:0:1:0:0:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 0,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff169|r Stamina Recovery.",
           "enchantCategory": 18,
           "trait": "Increases Maximum Magicka by |cffffff877|r.",
-          "quality": 5
+          "quality": 5,
+          "setId": 596,
+          "setName": "Death Dealer's Fete",
+          "setBonusCount": 1,
+          "setEquipped": 1,
+          "setMaxEquipped": 1,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 1,
+              "description": "(1 item) Gain a persistent stack of Escalating Fete every |cffffff2|r seconds you are in combat, up to 30 stacks max. Each stack of Escalating Fete increases your Maximum Stamina, Health, and Magicka by |cffffff88|r. You lose a stack of Escalating Fete every |cffffff4|r seconds you are out of combat.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 12,
           "link": "|H0:item:86743:364:50:0:0:0:22:25:0:0:0:0:0:0:2049:6:0:1:0:0:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 0,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff169|r Magicka Recovery.",
           "enchantCategory": 14,
           "trait": "Increases Maximum Magicka by |cffffff877|r.",
-          "quality": 5
+          "quality": 5,
+          "setId": 98,
+          "setName": "Necropotence",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) While you have a summoned combat pet active your Max Magicka is increased by |cffffff14|r%.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 16,
           "link": "|H0:item:149257:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:85:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 698,
+          "weaponPower": 0,
           "enchant": "Adds |cffffff351|r Maximum Magicka.",
           "enchantCategory": 13,
           "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
-          "quality": 5
+          "quality": 5,
+          "setId": 440,
+          "setName": "Crafty Alfiq",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Adds |cffffff2550|r Maximum Magicka",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 20,
           "link": "|H0:item:86755:364:50:0:0:0:2:25:0:0:0:0:0:0:2049:6:0:1:0:500:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
           "armor": 0,
+          "weaponPower": 1335,
           "enchant": "Deals |cffffff2242|r Magic Damage and restores |cffffff354|r Magicka.",
           "enchantCategory": 23,
           "trait": "Increases chance to apply status effects by |cffffff235|r%.",
-          "quality": 5
+          "quality": 5,
+          "setId": 98,
+          "setName": "Necropotence",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1096|r Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) While you have a summoned combat pet active your Max Magicka is increased by |cffffff14|r%.",
+              "perfected": false
+            }
+          ]
         }
       ],
       "skills": [
@@ -16087,45 +16482,53 @@
           "slot": 3,
           "abilityId": 34835,
           "name": "Swallow Soul",
-          "description": "Steal an enemy's life force, dealing |cffffff13105|r Magic Damage and healing you for |cffffff35|r% of the damage inflicted every |cffffff2|r seconds for |cffffff10|r seconds.\n\nDeals |cffffff1|r% more damage for every |cffffff2|r% Health you have.",
+          "description": "Steal an enemy's life force, dealing |cffffff13614|r Magic Damage and healing you for |cffffff35|r% of the damage inflicted every |cffffff2|r seconds for |cffffff10|r seconds.\n\nDeals |cffffff1|r% more damage for every |cffffff2|r% Health you have.",
           "durationMs": 10000,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
-          "ultimateCost": 0
+          "ultimateCost": 0,
+          "morph": 2,
+          "rank": 4
         },
         {
           "slot": 4,
           "abilityId": 46324,
           "name": "Crystal Fragments",
-          "description": "Conjure dark crystals to bombard an enemy, dealing |cffffff12058|r Magic Damage. Your next non-Ultimate ability cast within |cffffff3|r seconds costs |cffffff10|r% less.\n\nWhile slotted on either bar, casting a non-Ultimate ability has a |cffffff33|r% chance of causing your next Crystal Fragments to be instant cast at half cost, dealing |cffffff20016|r Magic Damage.",
+          "description": "Conjure dark crystals to bombard an enemy, dealing |cffffff12527|r Magic Damage. Your next non-Ultimate ability cast within |cffffff3|r seconds costs |cffffff10|r% less.\n\nWhile slotted on either bar, casting a non-Ultimate ability has a |cffffff33|r% chance of causing your next Crystal Fragments to be instant cast at half cost, dealing |cffffff20794|r Magic Damage.",
           "durationMs": 0,
           "castMs": 800,
           "channeled": false,
           "cooldownMs": 0,
-          "ultimateCost": 0
+          "ultimateCost": 0,
+          "morph": 2,
+          "rank": 4
         },
         {
           "slot": 5,
           "abilityId": 29489,
           "name": "Hardened Ward",
-          "description": "Conjure globes of Daedric energy for protection, granting a damage shield for you and your pets that absorbs |cffffff14353|r damage for |cffffff6|r seconds.\n\nThis ability scales off the higher of your Max Health or Magicka and the shield is capped at |cffffff72|r% of your Max Health.",
+          "description": "Conjure globes of Daedric energy for protection, granting a damage shield for you and your pets that absorbs |cffffff16463|r damage for |cffffff6|r seconds.\n\nThis ability scales off the higher of your Max Health or Magicka and the shield is capped at |cffffff72|r% of your Max Health.",
           "durationMs": 6000,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
-          "ultimateCost": 0
+          "ultimateCost": 0,
+          "morph": 1,
+          "rank": 4
         },
         {
           "slot": 6,
           "abilityId": 76076,
           "name": "Summon Unstable Clannfear",
-          "description": "Command the powers of Oblivion to send a Daedric clannfear to fight at your side. The clannfear's headbutt deals |cffffff1746|r Physical Damage, while its tail spike hits nearby enemies for |cffffff1835|r Physical Damage after |cffffff1|r second.  \n\nOnce summoned, you can activate the clannfear's special ability for |cffffff3499|r Magicka, healing you for |cffffff6700|r and the clannfear for |cffffff3349|r.\n\nThe clannfear remains until killed or unsummoned.",
+          "description": "Command the powers of Oblivion to send a Daedric clannfear to fight at your side. The clannfear's headbutt deals |cffffff1815|r Physical Damage, while its tail spike hits nearby enemies for |cffffff1907|r Physical Damage after |cffffff1|r second.  \n\nOnce summoned, you can activate the clannfear's special ability for |cffffff3499|r Magicka, healing you for |cffffff7685|r and the clannfear for |cffffff3842|r.\n\nThe clannfear remains until killed or unsummoned.",
           "durationMs": 0,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
-          "ultimateCost": 0
+          "ultimateCost": 0,
+          "morph": 1,
+          "rank": 4
         },
         {
           "slot": 7,
@@ -16136,18 +16539,22 @@
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
-          "ultimateCost": 0
+          "ultimateCost": 0,
+          "morph": 1,
+          "rank": 4
         },
         {
           "slot": 8,
           "abilityId": 38932,
           "name": "Swarming Scion",
-          "description": "Transform into a monstrous creature of the night, instantly healing to full Health.\n\nWhile transformed, your Max Health, Magicka, and Stamina are increased by |cffffff10000|r, you heal for |cffffff16|r% of all damage you deal, and you can see enemies through walls. \n\nBats also swarm around you and shred enemies that come close, dealing |cffffff3798|r Magic Damage every |cffffff1|r second.",
+          "description": "Transform into a monstrous creature of the night, instantly healing to full Health.\n\nWhile transformed, your Max Health, Magicka, and Stamina are increased by |cffffff10000|r, you heal for |cffffff16|r% of all damage you deal, and you can see enemies through walls. \n\nBats also swarm around you and shred enemies that come close, dealing |cffffff3945|r Magic Damage every |cffffff1|r second.",
           "durationMs": 20000,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
-          "ultimateCost": 268
+          "ultimateCost": 268,
+          "morph": 1,
+          "rank": 4
         }
       ],
       "classPassives": [
@@ -16159,7 +16566,7 @@
         {
           "abilityId": 45172,
           "name": "Blood Magic",
-          "description": "When you cast a Dark Magic ability with a cost, you heal for |cffffff1256|r Health if you are not at full Health. This portion of the ability scales off your Max Health.\n\nIf your Health is full, the higher of your Max Magicka or Stamina is increased by |cffffff10|r% for |cffffff10|r seconds."
+          "description": "When you cast a Dark Magic ability with a cost, you heal for |cffffff1440|r Health if you are not at full Health. This portion of the ability scales off your Max Health.\n\nIf your Health is full, the higher of your Max Magicka or Stamina is increased by |cffffff10|r% for |cffffff10|r seconds."
         },
         {
           "abilityId": 45165,
@@ -16213,2357 +16620,268 @@
         }
       ],
       "inArchive": false,
+      "blocking": false,
+      "moving": false,
       "archiveBoons": [],
       "advanced": {
         "healing-taken-base": 0.03,
-        "healing-done-base": 0.05,
         "critical-damage": 0,
-        "healing-critical-bonus": 0
+        "healing-critical-bonus": 0,
+        "healing-done-base": 0.05
       },
       "advancedSheet": {
-        "frost-resist": {
-          "format": "flat-or-percent",
-          "flat": 15714,
-          "percent": 23.809091568
-        },
-        "armor-cap": {
-          "format": "flat-or-percent",
-          "flat": 33000,
-          "percent": 50
-        },
-        "healing-done": {
-          "format": "flat-or-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "cold-damage": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 12
-        },
-        "subscriber-alliance-points-bonus": {
-          "format": "percent",
-          "percent": 10
-        },
-        "spell-penetration": {
-          "format": "flat",
-          "flat": 6335
-        },
-        "poison-damage": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 12
-        },
-        "dodge-cost": {
-          "format": "flat",
-          "flat": 3230
-        },
-        "generic-resist": {
-          "format": "flat-or-percent",
-          "flat": 9048,
-          "percent": 13.7090911865
-        },
-        "block-mitigation": {
-          "format": "percent",
-          "percent": 52.9999961853
-        },
         "shock-resist": {
+          "category": "Resistances",
+          "label": "Shock Resistance",
           "format": "flat-or-percent",
           "flat": 15714,
           "percent": 23.809091568
         },
-        "shock-damage": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 12
-        },
-        "disease-resist": {
-          "format": "flat-or-percent",
-          "flat": 9048,
-          "percent": 13.7090911865
-        },
-        "disease-damage": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 12
+        "sneak-cost": {
+          "category": "Core Abilities",
+          "label": "Sneak Cost",
+          "format": "flat",
+          "flat": 79
         },
         "magic-damage": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 12
-        },
-        "block-speed": {
-          "format": "percent",
-          "percent": 42
-        },
-        "oblivion-resist": {
-          "format": "flat-or-percent",
-          "flat": 15714,
-          "percent": 23.809091568
-        },
-        "subscriber-all-xp": {
-          "format": "percent",
-          "percent": 10
-        },
-        "monster-kill-xp": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "inspiration-bonus": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 40
-        },
-        "bleed-damage": {
+          "category": "Damage Bonuses",
+          "label": "Magic Damage",
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 12
         },
         "critical-damage": {
+          "category": "Damage Bonuses",
+          "label": "Critical Damage",
+          "format": "percent",
+          "percent": 0
+        },
+        "block-cost": {
+          "category": "Core Abilities",
+          "label": "Block Cost",
+          "format": "flat",
+          "flat": 2018
+        },
+        "sneak-speed-reduction": {
+          "category": "Core Abilities",
+          "label": "Sneak Speed",
+          "format": "percent",
+          "percent": 100
+        },
+        "disease-damage": {
+          "category": "Damage Bonuses",
+          "label": "Disease Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 12
+        },
+        "subscriber-all-xp": {
+          "category": "ESO Plus",
+          "label": "Experience",
+          "format": "percent",
+          "percent": 10
+        },
+        "disease-resist": {
+          "category": "Resistances",
+          "label": "Disease Resistance",
+          "format": "flat-or-percent",
+          "flat": 9048,
+          "percent": 13.7090911865
+        },
+        "subscriber-coin-bonus": {
+          "category": "ESO Plus",
+          "label": "Gold",
+          "format": "percent",
+          "percent": 10
+        },
+        "fire-resist": {
+          "category": "Resistances",
+          "label": "Flame Resistance",
+          "format": "flat-or-percent",
+          "flat": 15714,
+          "percent": 23.809091568
+        },
+        "block-mitigation": {
+          "category": "Core Abilities",
+          "label": "Block Mitigation",
+          "format": "percent",
+          "percent": 52.9999961853
+        },
+        "healing-done-bonuses": {
+          "category": "Healing Bonuses",
+          "label": "Healing Done",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 5
+        },
+        "cold-damage": {
+          "category": "Damage Bonuses",
+          "label": "Frost Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 12
+        },
+        "shock-damage": {
+          "category": "Damage Bonuses",
+          "label": "Shock Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 12
+        },
+        "bleed-damage": {
+          "category": "Damage Bonuses",
+          "label": "Bleed Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 12
+        },
+        "block-speed": {
+          "category": "Core Abilities",
+          "label": "Block Move Speed",
+          "format": "percent",
+          "percent": 42
+        },
+        "oblivion-damage": {
+          "category": "Damage Bonuses",
+          "label": "Oblivion Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 12
+        },
+        "critical-healing": {
+          "category": "Healing Bonuses",
+          "label": "Critical Healing",
           "format": "percent",
           "percent": 0
         },
         "physical-damage": {
+          "category": "Damage Bonuses",
+          "label": "Physical Damage",
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 12
         },
-        "spell-resist": {
-          "format": "flat-or-percent",
-          "flat": 15714,
-          "percent": 23.809091568
-        },
-        "magic-resist": {
-          "format": "flat-or-percent",
-          "flat": 15714,
-          "percent": 23.809091568
-        },
-        "earth-damage": {
+        "fire-damage": {
+          "category": "Damage Bonuses",
+          "label": "Flame Damage",
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 12
         },
-        "generic-damage": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 12
-        },
-        "healing-taken": {
-          "format": "flat-or-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "oblivion-damage": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 12
-        },
-        "sneak-speed-reduction": {
-          "format": "percent",
-          "percent": 100
-        },
-        "cc-break-cost": {
-          "format": "flat",
-          "flat": 3626
-        },
-        "subscriber-coin-bonus": {
+        "subscriber-alliance-points-bonus": {
+          "category": "ESO Plus",
+          "label": "Alliance Points",
           "format": "percent",
           "percent": 10
-        },
-        "critical-percent-cap": {
-          "format": "percent",
-          "percent": 125
-        },
-        "sneak-cost": {
-          "format": "flat",
-          "flat": 79
-        },
-        "player-kill-xp": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "earth-resist": {
-          "format": "flat-or-percent",
-          "flat": 15714,
-          "percent": 23.809091568
         },
         "subscriber-inspiration-bonus": {
+          "category": "ESO Plus",
+          "label": "Crafting Inspiration",
           "format": "percent",
           "percent": 10
-        },
-        "bleed-resist": {
-          "format": "flat-or-percent",
-          "flat": 9048,
-          "percent": 13.7090911865
-        },
-        "critical-resist": {
-          "format": "flat-or-percent",
-          "flat": 1320,
-          "percent": 2
-        },
-        "subscriber-telvar-bonus": {
-          "format": "percent",
-          "percent": 10
-        },
-        "sprint-speed": {
-          "format": "percent",
-          "percent": 143
-        },
-        "telvar-bonus": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 10
-        },
-        "cold-resist": {
-          "format": "flat-or-percent",
-          "flat": 15714,
-          "percent": 23.809091568
-        },
-        "critical-chance": {
-          "format": "flat-or-percent",
-          "flat": 4267,
-          "percent": 19.4733467102
         },
         "bash-cost": {
+          "category": "Core Abilities",
+          "label": "Bash Cost",
           "format": "flat",
           "flat": 554
         },
-        "physical-penetration": {
-          "format": "flat",
-          "flat": 6335
-        },
-        "armor": {
+        "bleed-resist": {
+          "category": "Resistances",
+          "label": "Bleed Resistance",
           "format": "flat-or-percent",
           "flat": 9048,
           "percent": 13.7090911865
         },
-        "fire-resist": {
+        "cc-break-cost": {
+          "category": "Core Abilities",
+          "label": "Break Free Cost",
+          "format": "flat",
+          "flat": 3626
+        },
+        "poison-resist": {
+          "category": "Resistances",
+          "label": "Poison Resistance",
+          "format": "flat-or-percent",
+          "flat": 9048,
+          "percent": 13.7090911865
+        },
+        "sprint-cost": {
+          "category": "Core Abilities",
+          "label": "Sprint Cost",
+          "format": "flat",
+          "flat": 377
+        },
+        "frost-resist": {
+          "category": "Resistances",
+          "label": "Frost Resistance",
           "format": "flat-or-percent",
           "flat": 15714,
           "percent": 23.809091568
         },
-        "all-xp": {
-          "format": "flat-and-percent",
-          "flat": 0,
+        "dodge-cost": {
+          "category": "Core Abilities",
+          "label": "Dodge Roll Cost",
+          "format": "flat",
+          "flat": 3230
+        },
+        "subscriber-telvar-bonus": {
+          "category": "ESO Plus",
+          "label": "Tel Var",
+          "format": "percent",
           "percent": 10
         },
-        "bash-damage": {
-          "format": "flat",
-          "flat": 470
-        },
-        "critical-percent": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "block-cost": {
-          "format": "flat",
-          "flat": 2018
-        },
-        "coin-bonus": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 20
-        },
-        "fire-damage": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 12
-        },
-        "sprint-cost": {
-          "format": "flat",
-          "flat": 377
-        },
         "healing-taken-bonuses": {
+          "category": "Healing Bonuses",
+          "label": "Healing Taken",
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 3
         },
-        "critical-healing": {
+        "sprint-speed": {
+          "category": "Core Abilities",
+          "label": "Sprint Speed",
           "format": "percent",
-          "percent": 0
+          "percent": 143
         },
-        "physical-resist": {
-          "format": "flat-or-percent",
-          "flat": 9048,
-          "percent": 13.7090911865
-        },
-        "alliance-points-bonus": {
+        "poison-damage": {
+          "category": "Damage Bonuses",
+          "label": "Poison Damage",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 10
+          "percent": 12
         },
-        "ultimate-regen-combat": {
+        "bash-damage": {
+          "category": "Core Abilities",
+          "label": "Bash Damage",
           "format": "flat",
-          "flat": 3
+          "flat": 470
         },
-        "poison-resist": {
+        "magic-resist": {
+          "category": "Resistances",
+          "label": "Magic Resistance",
           "format": "flat-or-percent",
-          "flat": 9048,
-          "percent": 13.7090911865
-        },
-        "healing-done-bonuses": {
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 5
+          "flat": 15714,
+          "percent": 23.809091568
         }
       },
-      "passiveRankIds": [
-        [
-          31386,
-          45176
-        ],
-        [
-          31383,
-          45172
-        ],
-        [
-          31378,
-          45165
-        ],
-        [
-          31389,
-          45181
-        ],
-        [
-          31398,
-          45198
-        ],
-        [
-          31396,
-          45196
-        ],
-        [
-          31417,
-          45200
-        ],
-        [
-          31412,
-          45199
-        ],
-        [
-          31419,
-          45188
-        ],
-        [
-          31421,
-          45190
-        ],
-        [
-          31422,
-          45192
-        ],
-        [
-          31425,
-          45195
-        ],
-        [
-          31698,
-          44046
-        ],
-        [
-          31708,
-          44721
-        ],
-        [
-          31718,
-          44730
-        ],
-        [
-          31565,
-          44732
-        ],
-        [
-          31739,
-          45214
-        ],
-        [
-          31744,
-          45216
-        ],
-        [
-          31743,
-          45215
-        ],
-        [
-          31721,
-          45212
-        ],
-        [
-          31751,
-          45206
-        ],
-        [
-          31757,
-          45207
-        ],
-        [
-          31760,
-          45208
-        ],
-        [
-          31747,
-          45202
-        ],
-        [
-          29424,
-          45011
-        ],
-        [
-          29430,
-          45012
-        ],
-        [
-          29439,
-          45023
-        ],
-        [
-          29451,
-          45029
-        ],
-        [
-          29455,
-          44922
-        ],
-        [
-          29457,
-          44933
-        ],
-        [
-          29460,
-          44951
-        ],
-        [
-          29462,
-          44953
-        ],
-        [
-          29468,
-          44996
-        ],
-        [
-          29463,
-          44984
-        ],
-        [
-          29473,
-          45001
-        ],
-        [
-          29475,
-          45009
-        ],
-        [
-          36616,
-          45038
-        ],
-        [
-          36630,
-          45048
-        ],
-        [
-          36636,
-          45053
-        ],
-        [
-          36641,
-          45060
-        ],
-        [
-          36549,
-          45103
-        ],
-        [
-          18866,
-          45071
-        ],
-        [
-          36532,
-          45084
-        ],
-        [
-          36552,
-          45115
-        ],
-        [
-          36560,
-          45135
-        ],
-        [
-          36595,
-          45150
-        ],
-        [
-          36603,
-          45155
-        ],
-        [
-          36587,
-          45145
-        ],
-        [
-          86064,
-          86065
-        ],
-        [
-          86062,
-          86063
-        ],
-        [
-          86066,
-          86067
-        ],
-        [
-          86068,
-          86069
-        ],
-        [
-          85882,
-          85883
-        ],
-        [
-          85878,
-          85879
-        ],
-        [
-          85876,
-          85877
-        ],
-        [
-          85880,
-          85881
-        ],
-        [
-          86191,
-          86192
-        ],
-        [
-          86189,
-          86190
-        ],
-        [
-          86193,
-          86194
-        ],
-        [
-          86195,
-          86196
-        ],
-        [
-          116186,
-          116188
-        ],
-        [
-          116197,
-          116198
-        ],
-        [
-          116192,
-          116194
-        ],
-        [
-          116199,
-          116201
-        ],
-        [
-          116230,
-          116235
-        ],
-        [
-          116239,
-          116240
-        ],
-        [
-          116269,
-          116270
-        ],
-        [
-          116271,
-          116272
-        ],
-        [
-          116286,
-          116287
-        ],
-        [
-          116273,
-          116275
-        ],
-        [
-          116284,
-          116285
-        ],
-        [
-          116282,
-          116283
-        ],
-        [
-          184844,
-          184847
-        ],
-        [
-          184857,
-          184858
-        ],
-        [
-          184870,
-          184873
-        ],
-        [
-          184885,
-          184887
-        ],
-        [
-          184918,
-          184923
-        ],
-        [
-          185033,
-          185036
-        ],
-        [
-          184930,
-          184932
-        ],
-        [
-          185050,
-          185058
-        ],
-        [
-          185185,
-          185186
-        ],
-        [
-          185240,
-          185243
-        ],
-        [
-          185238,
-          185239
-        ],
-        [
-          185187,
-          185195
-        ],
-        [
-          238232,
-          238232,
-          238232,
-          238232,
-          238232,
-          238232,
-          238232,
-          238232,
-          238232,
-          238232
-        ],
-        [
-          240268,
-          240268,
-          240268,
-          240268,
-          240268,
-          240268,
-          240268,
-          240268,
-          240268,
-          240268
-        ],
-        [
-          259224,
-          259224,
-          259224,
-          259224,
-          259224,
-          259224,
-          259224,
-          259224,
-          259224,
-          259224
-        ],
-        [
-          263220,
-          263220,
-          263220,
-          263220,
-          263220,
-          263220,
-          263220,
-          263220,
-          263220,
-          263220
-        ],
-        [
-          263247,
-          263247,
-          263247,
-          263247,
-          263247,
-          263247,
-          263247,
-          263247,
-          263247,
-          263247
-        ],
-        [
-          263316,
-          263316,
-          263316,
-          263316,
-          263316,
-          263316,
-          263316,
-          263316,
-          263316,
-          263316
-        ],
-        [
-          263398,
-          263398,
-          263398,
-          263398,
-          263398,
-          263398,
-          263398,
-          263398,
-          263398,
-          263398
-        ],
-        [
-          263410,
-          263410,
-          263410,
-          263410,
-          263410,
-          263410,
-          263410,
-          263410,
-          263410,
-          263410
-        ],
-        [
-          263412,
-          263412,
-          263412,
-          263412,
-          263412,
-          263412,
-          263412,
-          263412,
-          263412,
-          263412
-        ],
-        [
-          263416,
-          263416,
-          263416,
-          263416,
-          263416,
-          263416,
-          263416,
-          263416,
-          263416,
-          263416
-        ],
-        [
-          263448,
-          263448,
-          263448,
-          263448,
-          263448,
-          263448,
-          263448,
-          263448,
-          263448,
-          263448
-        ],
-        [
-          263465,
-          263465,
-          263465,
-          263465,
-          263465,
-          263465,
-          263465,
-          263465,
-          263465,
-          263465
-        ],
-        [
-          263509,
-          263509,
-          263509,
-          263509,
-          263509,
-          263509,
-          263509,
-          263509,
-          263509,
-          263509
-        ],
-        [
-          263549,
-          263549,
-          263549,
-          263549,
-          263549,
-          263549,
-          263549,
-          263549,
-          263549,
-          263549
-        ],
-        [
-          263554,
-          263554,
-          263554,
-          263554,
-          263554,
-          263554,
-          263554,
-          263554,
-          263554,
-          263554
-        ],
-        [
-          263519,
-          263519,
-          263519,
-          263519,
-          263519,
-          263519,
-          263519,
-          263519,
-          263519,
-          263519
-        ],
-        [
-          263520,
-          263520,
-          263520,
-          263520,
-          263520,
-          263520,
-          263520,
-          263520,
-          263520,
-          263520
-        ],
-        [
-          263521,
-          263521,
-          263521,
-          263521,
-          263521,
-          263521,
-          263521,
-          263521,
-          263521,
-          263521
-        ],
-        [
-          263522,
-          263522,
-          263522,
-          263522,
-          263522,
-          263522,
-          263522,
-          263522,
-          263522,
-          263522
-        ],
-        [
-          263523,
-          263523,
-          263523,
-          263523,
-          263523,
-          263523,
-          263523,
-          263523,
-          263523,
-          263523
-        ],
-        [
-          263585,
-          263585,
-          263585,
-          263585,
-          263585,
-          263585,
-          263585,
-          263585,
-          263585,
-          263585
-        ],
-        [
-          263586,
-          263586,
-          263586,
-          263586,
-          263586,
-          263586,
-          263586,
-          263586,
-          263586,
-          263586
-        ],
-        [
-          263587,
-          263587,
-          263587,
-          263587,
-          263587,
-          263587,
-          263587,
-          263587,
-          263587,
-          263587
-        ],
-        [
-          263588,
-          263588,
-          263588,
-          263588,
-          263588,
-          263588,
-          263588,
-          263588,
-          263588,
-          263588
-        ],
-        [
-          263589,
-          263589,
-          263589,
-          263589,
-          263589,
-          263589,
-          263589,
-          263589,
-          263589,
-          263589
-        ],
-        [
-          263603,
-          263603,
-          263603,
-          263603,
-          263603,
-          263603,
-          263603,
-          263603,
-          263603,
-          263603
-        ],
-        [
-          263604,
-          263604,
-          263604,
-          263604,
-          263604,
-          263604,
-          263604,
-          263604,
-          263604,
-          263604
-        ],
-        [
-          263605,
-          263605,
-          263605,
-          263605,
-          263605,
-          263605,
-          263605,
-          263605,
-          263605,
-          263605
-        ],
-        [
-          263606,
-          263606,
-          263606,
-          263606,
-          263606,
-          263606,
-          263606,
-          263606,
-          263606,
-          263606
-        ],
-        [
-          263607,
-          263607,
-          263607,
-          263607,
-          263607,
-          263607,
-          263607,
-          263607,
-          263607,
-          263607
-        ],
-        [
-          263870,
-          263870,
-          263870,
-          263870,
-          263870,
-          263870,
-          263870,
-          263870,
-          263870,
-          263870
-        ],
-        [
-          263871,
-          263871,
-          263871,
-          263871,
-          263871,
-          263871,
-          263871,
-          263871,
-          263871,
-          263871
-        ],
-        [
-          263872,
-          263872,
-          263872,
-          263872,
-          263872,
-          263872,
-          263872,
-          263872,
-          263872,
-          263872
-        ],
-        [
-          263873,
-          263873,
-          263873,
-          263873,
-          263873,
-          263873,
-          263873,
-          263873,
-          263873,
-          263873
-        ],
-        [
-          263874,
-          263874,
-          263874,
-          263874,
-          263874,
-          263874,
-          263874,
-          263874,
-          263874,
-          263874
-        ],
-        [
-          29387,
-          45444
-        ],
-        [
-          29375,
-          45430
-        ],
-        [
-          29388,
-          45443
-        ],
-        [
-          29389,
-          45446
-        ],
-        [
-          29391,
-          45448
-        ],
-        [
-          29420,
-          45471
-        ],
-        [
-          29397,
-          45452
-        ],
-        [
-          29415,
-          45469
-        ],
-        [
-          29399,
-          45472
-        ],
-        [
-          29422,
-          45473
-        ],
-        [
-          18929,
-          45476
-        ],
-        [
-          30873,
-          45477
-        ],
-        [
-          30872,
-          45478
-        ],
-        [
-          21114,
-          45481
-        ],
-        [
-          30893,
-          45482
-        ],
-        [
-          30937,
-          45494
-        ],
-        [
-          30930,
-          45492
-        ],
-        [
-          30942,
-          45493
-        ],
-        [
-          30936,
-          45497
-        ],
-        [
-          30923,
-          45498
-        ],
-        [
-          30948,
-          45500
-        ],
-        [
-          30957,
-          45509
-        ],
-        [
-          30962,
-          45512
-        ],
-        [
-          30959,
-          45513
-        ],
-        [
-          30965,
-          45514
-        ],
-        [
-          30973,
-          45517
-        ],
-        [
-          30980,
-          45519
-        ],
-        [
-          30972,
-          45520
-        ],
-        [
-          30869,
-          45521
-        ],
-        [
-          30981,
-          45524
-        ],
-        [
-          150185,
-          150185,
-          150185,
-          150185,
-          150185,
-          150185,
-          150185,
-          150185,
-          150185,
-          150185
-        ],
-        [
-          152778,
-          152778,
-          152778,
-          152778,
-          152778,
-          152778,
-          152778,
-          152778,
-          152778,
-          152778
-        ],
-        [
-          29639,
-          45548,
-          45549
-        ],
-        [
-          29665,
-          45557
-        ],
-        [
-          29663,
-          45559
-        ],
-        [
-          29668,
-          45561
-        ],
-        [
-          29667,
-          45562
-        ],
-        [
-          150181,
-          150181,
-          150181,
-          150181,
-          150181,
-          150181,
-          150181,
-          150181,
-          150181,
-          150181
-        ],
-        [
-          29743,
-          45563,
-          45564
-        ],
-        [
-          29687,
-          45565
-        ],
-        [
-          29738,
-          45567
-        ],
-        [
-          29686,
-          45572
-        ],
-        [
-          29742,
-          45574
-        ],
-        [
-          150184,
-          150184,
-          150184,
-          150184,
-          150184,
-          150184,
-          150184,
-          150184,
-          150184,
-          150184
-        ],
-        [
-          152780,
-          152780,
-          152780,
-          152780,
-          152780,
-          152780,
-          152780,
-          152780,
-          152780,
-          152780
-        ],
-        [
-          29825,
-          45531,
-          45533
-        ],
-        [
-          29769,
-          45526
-        ],
-        [
-          29804,
-          45546
-        ],
-        [
-          29773,
-          45528
-        ],
-        [
-          29791,
-          45529
-        ],
-        [
-          139908,
-          139909
-        ],
-        [
-          139904,
-          139905
-        ],
-        [
-          139943,
-          140093
-        ],
-        [
-          140173,
-          140174
-        ],
-        [
-          139910,
-          139911
-        ],
-        [
-          139906,
-          139907
-        ],
-        [
-          139771,
-          139772
-        ],
-        [
-          63799,
-          63800,
-          63801,
-          63802
-        ],
-        [
-          63803,
-          63804,
-          63805,
-          63806
-        ],
-        [
-          63807,
-          63808,
-          63809,
-          63810
-        ],
-        [
-          63811,
-          63812,
-          63813,
-          63814
-        ],
-        [
-          63815,
-          63816,
-          63817,
-          63818
-        ],
-        [
-          139942,
-          139942,
-          139942,
-          139942,
-          139942,
-          139942,
-          139942,
-          139942,
-          139942,
-          139942
-        ],
-        [
-          139773,
-          139774,
-          139775,
-          139776,
-          141018
-        ],
-        [
-          139778,
-          139779
-        ],
-        [
-          139305,
-          139306
-        ],
-        [
-          139780,
-          139781
-        ],
-        [
-          139307,
-          139308
-        ],
-        [
-          139309,
-          139321
-        ],
-        [
-          139777,
-          139777,
-          139777,
-          139777,
-          139777,
-          139777,
-          139777,
-          139777,
-          139777,
-          139777
-        ],
-        [
-          39269,
-          45590
-        ],
-        [
-          39266,
-          45583
-        ],
-        [
-          39263,
-          45580
-        ],
-        [
-          42054,
-          42054,
-          42054,
-          42054,
-          42054,
-          42054,
-          42054,
-          42054,
-          42054,
-          42054
-        ],
-        [
-          33095,
-          46041
-        ],
-        [
-          33096,
-          46040
-        ],
-        [
-          33093,
-          33090
-        ],
-        [
-          33091,
-          33091,
-          33091,
-          33091,
-          33091,
-          33091,
-          33091,
-          33091,
-          33091,
-          33091
-        ],
-        [
-          132844,
-          135218
-        ],
-        [
-          32634,
-          32634,
-          32634,
-          32634,
-          32634,
-          32634,
-          32634,
-          32634,
-          32634,
-          32634
-        ],
-        [
-          32636,
-          46142
-        ],
-        [
-          32637,
-          46135
-        ],
-        [
-          32638,
-          46139
-        ],
-        [
-          32639,
-          32639,
-          32639,
-          32639,
-          32639,
-          32639,
-          32639,
-          32639,
-          32639,
-          32639
-        ],
-        [
-          32641,
-          46137
-        ],
-        [
-          78219,
-          78219,
-          78219,
-          78219,
-          78219,
-          78219,
-          78219,
-          78219,
-          78219,
-          78219
-        ],
-        [
-          77392,
-          77394,
-          77395,
-          79865
-        ],
-        [
-          77397,
-          77398,
-          77399,
-          79868
-        ],
-        [
-          77396,
-          77396,
-          77396,
-          77396,
-          77396,
-          77396,
-          77396,
-          77396,
-          77396,
-          77396
-        ],
-        [
-          77400,
-          77400,
-          77400,
-          77400,
-          77400,
-          77400,
-          77400,
-          77400,
-          77400,
-          77400
-        ],
-        [
-          77401,
-          77401,
-          77401,
-          77401,
-          77401,
-          77401,
-          77401,
-          77401,
-          77401,
-          77401
-        ],
-        [
-          29062,
-          29062,
-          29062,
-          29062,
-          29062,
-          29062,
-          29062,
-          29062,
-          29062,
-          29062
-        ],
-        [
-          35803,
-          45595,
-          45596
-        ],
-        [
-          35800,
-          45597,
-          45599
-        ],
-        [
-          40393,
-          40393,
-          40393,
-          40393,
-          40393,
-          40393,
-          40393,
-          40393,
-          40393,
-          40393
-        ],
-        [
-          35804,
-          35804,
-          35804,
-          35804,
-          35804,
-          35804,
-          35804,
-          35804,
-          35804,
-          35804
-        ],
-        [
-          29061,
-          29061,
-          29061,
-          29061,
-          29061,
-          29061,
-          29061,
-          29061,
-          29061,
-          29061
-        ],
-        [
-          40436,
-          45601
-        ],
-        [
-          40437,
-          45602
-        ],
-        [
-          40438,
-          45603
-        ],
-        [
-          43561,
-          45607
-        ],
-        [
-          103793,
-          103793,
-          103793,
-          103793,
-          103793,
-          103793,
-          103793,
-          103793,
-          103793,
-          103793
-        ],
-        [
-          103809,
-          103811
-        ],
-        [
-          103819,
-          103878
-        ],
-        [
-          103888,
-          103964
-        ],
-        [
-          103972,
-          103972,
-          103972,
-          103972,
-          103972,
-          103972,
-          103972,
-          103972,
-          103972,
-          103972
-        ],
-        [
-          74580,
-          74580,
-          74580,
-          74580,
-          74580,
-          74580,
-          74580,
-          74580,
-          74580,
-          74580
-        ],
-        [
-          76454,
-          76455,
-          76456,
-          76457
-        ],
-        [
-          76458,
-          76459,
-          76460,
-          76461
-        ],
-        [
-          76451,
-          76451,
-          76451,
-          76451,
-          76451,
-          76451,
-          76451,
-          76451,
-          76451,
-          76451
-        ],
-        [
-          76452,
-          76452,
-          76452,
-          76452,
-          76452,
-          76452,
-          76452,
-          76452,
-          76452,
-          76452
-        ],
-        [
-          76453,
-          76453,
-          76453,
-          76453,
-          76453,
-          76453,
-          76453,
-          76453,
-          76453,
-          76453
-        ],
-        [
-          55584,
-          55676
-        ],
-        [
-          55366,
-          55386
-        ],
-        [
-          39248,
-          45614
-        ],
-        [
-          39254,
-          45621
-        ],
-        [
-          39252,
-          45619
-        ],
-        [
-          39641,
-          39641,
-          39641,
-          39641,
-          39641,
-          39641,
-          39641,
-          39641,
-          39641,
-          39641
-        ],
-        [
-          39625,
-          39625,
-          39625,
-          39625,
-          39625,
-          39625,
-          39625,
-          39625,
-          39625,
-          39625
-        ],
-        [
-          39630,
-          39630,
-          39630,
-          39630,
-          39630,
-          39630,
-          39630,
-          39630,
-          39630,
-          39630
-        ],
-        [
-          39644,
-          39644,
-          39644,
-          39644,
-          39644,
-          39644,
-          39644,
-          39644,
-          39644,
-          39644
-        ],
-        [
-          39647,
-          39647,
-          39647,
-          39647,
-          39647,
-          39647,
-          39647,
-          39647,
-          39647,
-          39647
-        ],
-        [
-          39255,
-          45622
-        ],
-        [
-          39259,
-          45624
-        ],
-        [
-          39261,
-          45625
-        ],
-        [
-          36247,
-          36247,
-          36247,
-          36247,
-          36247,
-          36247,
-          36247,
-          36247,
-          36247,
-          36247
-        ],
-        [
-          35995,
-          45259,
-          45260
-        ],
-        [
-          36266,
-          45261,
-          45262
-        ],
-        [
-          36303,
-          45263,
-          45264
-        ],
-        [
-          33293,
-          33293,
-          33293,
-          33293,
-          33293,
-          33293,
-          33293,
-          33293,
-          33293,
-          33293
-        ],
-        [
-          33301,
-          45307,
-          45309
-        ],
-        [
-          84668,
-          84670,
-          84672
-        ],
-        [
-          33304,
-          45311,
-          45312
-        ],
-        [
-          35965,
-          35965,
-          35965,
-          35965,
-          35965,
-          35965,
-          35965,
-          35965,
-          35965,
-          35965
-        ],
-        [
-          35993,
-          45273,
-          45274
-        ],
-        [
-          117968,
-          117969,
-          117970
-        ],
-        [
-          35998,
-          45275,
-          45276
-        ],
-        [
-          36008,
-          36008,
-          36008,
-          36008,
-          36008,
-          36008,
-          36008,
-          36008,
-          36008,
-          36008
-        ],
-        [
-          36022,
-          45295,
-          45296
-        ],
-        [
-          64279,
-          64280,
-          64281
-        ],
-        [
-          36011,
-          45317,
-          45319
-        ],
-        [
-          36063,
-          36063,
-          36063,
-          36063,
-          36063,
-          36063,
-          36063,
-          36063,
-          36063,
-          36063
-        ],
-        [
-          70386,
-          70388,
-          70390
-        ],
-        [
-          117846,
-          117847,
-          117848
-        ],
-        [
-          36067,
-          45299,
-          45301
-        ],
-        [
-          36312,
-          36312,
-          36312,
-          36312,
-          36312,
-          36312,
-          36312,
-          36312,
-          36312,
-          36312
-        ],
-        [
-          50903,
-          50906,
-          50907
-        ],
-        [
-          36153,
-          45279,
-          45280
-        ],
-        [
-          36155,
-          45291,
-          45293
-        ],
-        [
-          84680,
-          84680,
-          84680,
-          84680,
-          84680,
-          84680,
-          84680,
-          84680,
-          84680,
-          84680
-        ],
-        [
-          36009,
-          45277,
-          45278
-        ],
-        [
-          117752,
-          117753,
-          117754
-        ],
-        [
-          36546,
-          45313,
-          45315
-        ],
-        [
-          36582,
-          36582,
-          36582,
-          36582,
-          36582,
-          36582,
-          36582,
-          36582,
-          36582,
-          36582
-        ],
-        [
-          36585,
-          45257,
-          45258
-        ],
-        [
-          36583,
-          45253,
-          45255
-        ],
-        [
-          36568,
-          45243,
-          45247
-        ],
-        [
-          36588,
-          36588,
-          36588,
-          36588,
-          36588,
-          36588,
-          36588,
-          36588,
-          36588,
-          36588
-        ],
-        [
-          36591,
-          45265,
-          45267
-        ],
-        [
-          36593,
-          45269,
-          45270
-        ],
-        [
-          36598,
-          45271,
-          45272
-        ],
-        [
-          36626,
-          36626,
-          36626,
-          36626,
-          36626,
-          36626,
-          36626,
-          36626,
-          36626,
-          36626
-        ],
-        [
-          36627,
-          45303,
-          45304
-        ],
-        [
-          36064,
-          45297,
-          45298
-        ],
-        [
-          36628,
-          45305,
-          45306
-        ],
-        [
-          45542,
-          45547,
-          45550,
-          45551,
-          45552,
-          49163,
-          70042,
-          70043
-        ],
-        [
-          47840,
-          47841,
-          47842
-        ],
-        [
-          45569,
-          45571,
-          45573
-        ],
-        [
-          45577,
-          45578,
-          45579
-        ],
-        [
-          45555,
-          45555,
-          45555,
-          45555,
-          45555,
-          45555,
-          45555,
-          45555,
-          45555,
-          45555
-        ],
-        [
-          47831,
-          47832,
-          47834
-        ],
-        [
-          47276,
-          47277,
-          47278,
-          47279,
-          47280,
-          47281,
-          48157,
-          48158,
-          48159,
-          70041
-        ],
-        [
-          47854,
-          47855,
-          47856
-        ],
-        [
-          48169,
-          48170,
-          48171
-        ],
-        [
-          48163,
-          48164,
-          48165
-        ],
-        [
-          48160,
-          48161,
-          48162,
-          58784
-        ],
-        [
-          48166,
-          48167,
-          48168
-        ],
-        [
-          47288,
-          47289,
-          47290,
-          47291,
-          47292,
-          47293,
-          48187,
-          48188,
-          48189,
-          70044
-        ],
-        [
-          47860,
-          47861,
-          47862
-        ],
-        [
-          48199,
-          48200,
-          48201
-        ],
-        [
-          48193,
-          48194,
-          48195
-        ],
-        [
-          48190,
-          48191,
-          48192,
-          58782
-        ],
-        [
-          48196,
-          48197,
-          48198
-        ],
-        [
-          46727,
-          46729,
-          46731,
-          46735,
-          46736,
-          46740,
-          49112,
-          49113,
-          49114,
-          70045
-        ],
-        [
-          46758,
-          46759,
-          46760,
-          46763
-        ],
-        [
-          47851,
-          47852,
-          47853
-        ],
-        [
-          46770,
-          46771,
-          46772
-        ],
-        [
-          46767,
-          46768,
-          46769
-        ],
-        [
-          103632,
-          103633,
-          103634,
-          103635,
-          103636
-        ],
-        [
-          103637,
-          103638,
-          103639
-        ],
-        [
-          103643,
-          103644,
-          103645
-        ],
-        [
-          103640,
-          103641,
-          103642,
-          108098
-        ],
-        [
-          103646,
-          103647,
-          103648
-        ],
-        [
-          44590,
-          44595,
-          44597,
-          44598,
-          44599,
-          44650
-        ],
-        [
-          44625,
-          44630,
-          44631,
-          69953
-        ],
-        [
-          44602,
-          44609,
-          44610
-        ],
-        [
-          44612,
-          44614,
-          44615
-        ],
-        [
-          44616,
-          44617,
-          44619
-        ],
-        [
-          44620,
-          44621,
-          44624
-        ],
-        [
-          44634,
-          44640,
-          44641
-        ],
-        [
-          47282,
-          47283,
-          47284,
-          47285,
-          47286,
-          47287,
-          48172,
-          48173,
-          48174,
-          70046
-        ],
-        [
-          47857,
-          47858,
-          47859
-        ],
-        [
-          48184,
-          48185,
-          48186
-        ],
-        [
-          48178,
-          48179,
-          48180
-        ],
-        [
-          48181,
-          48182,
-          48183,
-          58783
-        ],
-        [
-          48175,
-          48176,
-          48177
-        ]
-      ]
+      "sheet": {
+        "riding-capacity": 60,
+        "attribute-points-magicka": 64,
+        "attribute-points-stamina": 0,
+        "attribute-points-health": 0,
+        "riding-stamina": 60,
+        "riding-speed": 60,
+        "critical-chance-weapon": 29.4267959595,
+        "attribute-points-unspent": 0,
+        "critical-chance-spell": 29.4267959595
+      },
+      "passiveRankIds": [],
+      "classMastery": []
     }
   },
   "rotationReading": {
-    "capturedAt": 1792455610,
+    "capturedAt": 1792578773,
     "toughness": 39696.2097636536,
     "damage": 10395.0386747901,
     "healing": 2068.4986560108,
