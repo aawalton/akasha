@@ -82,7 +82,11 @@ export const extractSets = {
       decisionKind: "decision-kind/departure",
       statement: "A weapon counts toward its set only on the bar the estimate is for.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A set that disables every other set leaves only its own bonuses worn.",
+    },
   ],
   createdAt: "2026-09-02T14:06:51.855Z",
-  updatedAt: "2026-10-20T18:59:46.345Z",
+  updatedAt: "2026-10-21T15:36:43.294Z",
 } as const satisfies Module

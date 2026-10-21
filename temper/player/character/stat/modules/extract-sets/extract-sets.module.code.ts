@@ -84,9 +84,14 @@ export function setPiecesWorn(
   return setData
 }
 
+const SETS_DISABLING_OTHERS: ReadonlySet<Slug> = new Set(["torc-of-the-last-ayleid-king"])
+
 export const extractSets: PipelineStage = (build, context) => {
   const sources: SetSource[] = []
-  for (const [setId, worn] of setPiecesWorn(build, context)) {
+  const sets = setPiecesWorn(build, context)
+  const disabling = [...sets.keys()].find((setId) => SETS_DISABLING_OTHERS.has(setId))
+  for (const [setId, worn] of sets) {
+    if (disabling !== undefined && setId !== disabling) continue
     const setSource = createSetSource(setId, worn.pieceCount, worn.items)
     if (setSource) {
       sources.push(setSource)
