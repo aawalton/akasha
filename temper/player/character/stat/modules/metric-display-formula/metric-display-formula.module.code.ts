@@ -21,6 +21,7 @@ import {
   getIntegerEffects,
   getNumberPerSecondsEffects,
   getPercentageEffects,
+  sourcesOfSign,
 } from "akasha/temper/player/character/stat/modules/extractors/extractors.module.code.ts"
 import type { FormulaNode } from "akasha/temper/player/character/stat/modules/formula-types/formula-types.module.code.ts"
 import { getAggregateMetricIds } from "akasha/temper/player/character/stat/modules/metric-tree-queries/metric-tree-queries.module.code.ts"
@@ -139,6 +140,7 @@ function convertPlayerLeaf(
       const contributions: DisplayResult[] = []
       const categories = node.categories ?? sourceCategories().ids
       const format = effectTypeToFormat(node.effectType)
+      const signed = node.type === "sum" ? sourcesOfSign(sources, node.sign) : sources
 
       for (const categoryId of categories) {
         let categoryTotal = 0
@@ -146,19 +148,19 @@ function convertPlayerLeaf(
         switch (node.effectType) {
           case "integer":
             if (categoryId === "attributes") {
-              categoryTotal = getAttributeEffects(metricIds, sources)
+              categoryTotal = getAttributeEffects(metricIds, signed)
             } else {
-              categoryTotal = getIntegerEffects(categoryId, metricIds, sources)
+              categoryTotal = getIntegerEffects(categoryId, metricIds, signed)
             }
             break
           case "fractional-change":
-            categoryTotal = getPercentageEffects(categoryId, metricIds, sources)
+            categoryTotal = getPercentageEffects(categoryId, metricIds, signed)
             break
           case "number-per-seconds":
-            categoryTotal = getNumberPerSecondsEffects(categoryId, metricIds, sources)
+            categoryTotal = getNumberPerSecondsEffects(categoryId, metricIds, signed)
             break
           case "conditional-chance":
-            categoryTotal = getConditionalChanceEffects(categoryId, metricIds, sources)
+            categoryTotal = getConditionalChanceEffects(categoryId, metricIds, signed)
             break
           case "number":
           case "number-for-seconds":

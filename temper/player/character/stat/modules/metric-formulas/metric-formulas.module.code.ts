@@ -13,6 +13,7 @@ import {
   getIntegerEffects,
   getNumberPerSecondsEffects,
   getPercentageEffects,
+  sourcesOfSign,
 } from "akasha/temper/player/character/stat/modules/extractors/extractors.module.code.ts"
 import type { FormulaNode } from "akasha/temper/player/character/stat/modules/formula-types/formula-types.module.code.ts"
 import { getAggregateMetricIds } from "akasha/temper/player/character/stat/modules/metric-tree-queries/metric-tree-queries.module.code.ts"
@@ -51,6 +52,7 @@ function evaluatePlayerLeaf(node: FormulaNode, context: PlayerFormulaContext): n
   switch (node.type) {
     case "sum": {
       const metricIds = getAggregateMetricIds(metric.id)
+      const signed = sourcesOfSign(sources, node.sign)
 
       let total = 0
 
@@ -59,22 +61,22 @@ function evaluatePlayerLeaf(node: FormulaNode, context: PlayerFormulaContext): n
         switch (node.effectType) {
           case "integer":
             if (category === "attributes") {
-              total += getAttributeEffects(metricIds, sources)
+              total += getAttributeEffects(metricIds, signed)
             } else {
-              total += getIntegerEffects(category, metricIds, sources)
+              total += getIntegerEffects(category, metricIds, signed)
             }
             break
 
           case "fractional-change":
-            total += getPercentageEffects(category, metricIds, sources)
+            total += getPercentageEffects(category, metricIds, signed)
             break
 
           case "number-per-seconds":
-            total += getNumberPerSecondsEffects(category, metricIds, sources)
+            total += getNumberPerSecondsEffects(category, metricIds, signed)
             break
 
           case "conditional-chance":
-            total += getConditionalChanceEffects(category, metricIds, sources)
+            total += getConditionalChanceEffects(category, metricIds, signed)
             break
 
           case "number":

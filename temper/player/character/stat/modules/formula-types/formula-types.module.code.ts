@@ -19,10 +19,13 @@ type MetricEffectType =
   | "fraction-change-for-seconds"
   | "conditional-chance"
 
+export type EffectSign = "increase" | "decrease"
+
 type AggregateNode = {
   type: "sum"
   categories?: readonly SourceCategoryId[]
   effectType: MetricEffectType
+  sign?: EffectSign
 }
 
 type CrossMetricAggregateNode = {

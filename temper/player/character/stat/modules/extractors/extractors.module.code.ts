@@ -1,6 +1,21 @@
 import { isMetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 import type { EffectSource } from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import type { MetricId } from "akasha/temper/player/character/formula-framework/modules/metric-id/metric-id.module.code.ts"
+import type { EffectSign } from "akasha/temper/player/character/stat/modules/formula-types/formula-types.module.code.ts"
+
+export function sourcesOfSign(
+  sources: readonly EffectSource[],
+  sign: EffectSign | undefined
+): readonly EffectSource[] {
+  if (sign === undefined) return sources
+  return sources.map((source) => ({
+    ...source,
+    effects: source.effects.filter((effect) => {
+      if (!isMetricEffect(effect) || typeof effect.effectValue !== "number") return true
+      return sign === "increase" ? effect.effectValue > 0 : effect.effectValue < 0
+    }),
+  }))
+}
 
 export function getAttributeEffects(
   metricId: MetricId | readonly MetricId[],
