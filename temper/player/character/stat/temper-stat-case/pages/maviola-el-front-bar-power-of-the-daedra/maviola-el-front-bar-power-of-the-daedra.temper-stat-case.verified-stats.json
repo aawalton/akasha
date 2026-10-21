@@ -114,6 +114,15 @@
     "break-free-cost": 5180,
     "critical-rating-spell": 9510,
     "critical-rating-weapon": 9510,
+    "damage-done-bleed": 10,
+    "damage-done-disease": 10,
+    "damage-done-flame": 10,
+    "damage-done-frost": 10,
+    "damage-done-magic": 10,
+    "damage-done-oblivion": 10,
+    "damage-done-physical": 10,
+    "damage-done-poison": 10,
+    "damage-done-shock": 10,
     "defense-bleed-mitigation": 19.590909957885742,
     "defense-disease-mitigation": 19.590909957885742,
     "defense-flame-mitigation": 23.090909957885742,
@@ -149,15 +158,6 @@
   "gaps": {
     "bash-damage": 507,
     "critical-damage": 36,
-    "damage-done-bleed": 10,
-    "damage-done-disease": 10,
-    "damage-done-flame": 10,
-    "damage-done-frost": 10,
-    "damage-done-magic": 10,
-    "damage-done-oblivion": 10,
-    "damage-done-physical": 10,
-    "damage-done-poison": 10,
-    "damage-done-shock": 10,
     "sneak-cost": 43
   }
 }
