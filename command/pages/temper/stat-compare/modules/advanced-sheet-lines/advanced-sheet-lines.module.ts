@@ -38,9 +38,13 @@ export const advancedSheetLines = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A stale row is marked as no steady value and left out of that count.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A row holds each source effect on its stat or on a stat its stat sums.",
     },
   ],
   createdAt: "2026-10-21T01:27:08.469Z",
-  updatedAt: "2026-10-21T01:58:38.508Z",
+  updatedAt: "2026-10-21T11:42:02.588Z",
 } as const satisfies Module

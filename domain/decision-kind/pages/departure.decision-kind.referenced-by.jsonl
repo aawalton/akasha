@@ -6507,6 +6507,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/skill-equation/skill-equation.module.ts","id":"01a1403d-d551-75df-ac1b-9f48985d15c4"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/skill-healing/skill-healing.module.ts","id":"01a13c1f-1ac3-7cf3-93be-c511d8f673b5"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/skill-ultimate/skill-ultimate.module.ts","id":"01a14006-0ced-7fdc-85fa-30d67668f304"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/stale-sheet-rows/stale-sheet-rows.module.ts","id":"01a15e44-b15d-7971-9f28-1781c9e634b9"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/stat-case/stat-case.module.ts","id":"01a13b6c-6cf8-7106-b132-ed425b58823b"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/text-pattern/text-pattern.module.ts","id":"01a155a1-bc4b-74f4-98e5-d57acd2c60a3"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/tooltip-case/tooltip-case.module.ts","id":"01a15c22-e9f5-764d-965a-2b61686e7be6"}

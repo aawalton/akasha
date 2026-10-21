@@ -20,6 +20,7 @@ import {
   FETE_LAG_MS,
   isUnsettled,
 } from "akasha/temper/player/character/stat/modules/fete-unsettled/fete-unsettled.module.code.ts"
+import { isStale } from "akasha/temper/player/character/stat/modules/stale-sheet-rows/stale-sheet-rows.module.code.ts"
 
 const ROOT = codeRoot()
 
@@ -107,6 +108,7 @@ test("a reading's advanced stats are set beside the estimate, and a match is mar
       game: 31.5,
       estimate: 0.3,
       matches: false,
+      stale: false,
       sources: [],
     },
     {
@@ -116,6 +118,7 @@ test("a reading's advanced stats are set beside the estimate, and a match is mar
       game: 554,
       estimate: 554,
       matches: true,
+      stale: false,
       sources: [],
     },
   ]
@@ -126,6 +129,34 @@ test("a reading's advanced stats are set beside the estimate, and a match is mar
   expect(lines[3]).toMatch(
     /^ {4}physical-resist +percent +- +31\.5 +30 +-1\.5 {2}\(defense-physical-mitigation\)$/
   )
+})
+
+test("a sheet row the game held from before a respec is marked stale and left uncounted", () => {
+  const reading = {
+    ...LINE.reading,
+    advancedSheet: { "sprint-speed": { format: "percent" as const, percent: 155 } },
+  }
+  const rows = [
+    {
+      row: "sprint-speed",
+      stat: "movement-sprint-speed",
+      part: "percent" as const,
+      game: 155,
+      estimate: 1.4,
+      matches: false,
+      stale: true,
+      sources: [],
+    },
+  ]
+  const lines = advancedSheetLines(reading, rows)
+
+  expect(lines[0]).toBe("  advanced (game): 1 stats")
+  expect(lines[2]).toMatch(/^ {2}~ sprint-speed .*held from before a respec, stale$/)
+  expect(isStale("khelta-the-eternal", 1792508519, "movement-sprint-speed")).toBe(true)
+  expect(isStale("khelta-the-eternal", 1792508652, "movement-sprint-speed")).toBe(true)
+  expect(isStale("khelta-the-eternal", 1792508653, "movement-sprint-speed")).toBe(false)
+  expect(isStale("khelta-the-eternal", 1792508519, "health-maximum")).toBe(false)
+  expect(isStale("erin-solstice", 1792508519, "movement-sprint-speed")).toBe(false)
 })
 
 test("a reading's advanced stats are grouped under the panel's categories with the panel's names", () => {

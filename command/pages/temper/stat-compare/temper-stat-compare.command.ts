@@ -127,6 +127,15 @@ export const temperStatCompare = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A row the game held from before a respec is marked stale, and the JSON says it is stale.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stale row is not counted among the estimates that match.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Each reading shows the character sheet's other numbers in a section of its own.",
     },
     {
@@ -152,5 +161,5 @@ export const temperStatCompare = {
     { argument: "argument/json" },
   ],
   createdAt: "2026-10-14T14:17:00.259Z",
-  updatedAt: "2026-10-21T01:44:00.751Z",
+  updatedAt: "2026-10-21T11:42:02.588Z",
 } as const satisfies Command

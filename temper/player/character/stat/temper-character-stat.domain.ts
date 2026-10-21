@@ -69,6 +69,7 @@ export const temperCharacterStat = {
     "module/reading-line-picking",
     "module/onset-scaled-buff",
     "module/scoped-healing",
+    "module/stale-sheet-rows",
   ],
   directives: [
     {
@@ -110,5 +111,5 @@ export const temperCharacterStat = {
     },
   ],
   createdAt: "2026-09-02T08:15:09.030Z",
-  updatedAt: "2026-10-21T11:04:10.698Z",
+  updatedAt: "2026-10-21T11:42:02.588Z",
 } as const satisfies Domain

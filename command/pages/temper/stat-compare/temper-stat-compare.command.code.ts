@@ -50,6 +50,7 @@ import {
 } from "akasha/temper/player/character/stat/modules/extract-sets/extract-sets.module.code.ts"
 import { isUnsettled } from "akasha/temper/player/character/stat/modules/fete-unsettled/fete-unsettled.module.code.ts"
 import { loadMetricCatalog } from "akasha/temper/player/character/stat/modules/metric-catalog-loading/metric-catalog-loading.module.code.ts"
+import { isStale } from "akasha/temper/player/character/stat/modules/stale-sheet-rows/stale-sheet-rows.module.code.ts"
 import {
   elderDragonHeldOf,
   estimatedOf,
@@ -91,7 +92,7 @@ function buildOf(hash: string): CharacterState | null {
   }
 }
 
-function comparedOf(line: ReadingLine, statCase: string | null): Compared {
+function comparedOf(slug: string, line: ReadingLine, statCase: string | null): Compared {
   const { reading } = line
   let estimate: ((one: string) => number) | null = null
   let unmatchedBuffs: readonly string[] = []
@@ -126,7 +127,9 @@ function comparedOf(line: ReadingLine, statCase: string | null): Compared {
       unsteady: unsteadyOf(reading, one, build?.passives ?? []),
       unsettled: isUnsettled(one, reading.fete),
     }))
-  const sheetRows = sheetRowsOf(reading, estimate, sources)
+  const sheetRows = sheetRowsOf(reading, estimate, sources, (one) =>
+    isStale(slug, reading.capturedAt, one)
+  )
   return { line, build, rows, sheetRows, unmatchedBuffs, unestimated, statCase }
 }
 
@@ -292,7 +295,7 @@ export async function temperStatCompare(argv: readonly string[], given: Given): 
   await Promise.all([loadSkillCatalog(), loadSetCatalog(), loadMetricCatalog()])
   const cases = statCasesOf(given.root, slug)
   const compared = chosen.chosen.map((line) =>
-    comparedOf(line, cases.get(caseKeyOf(BARS[line.bar], line.reading.capturedAt)) ?? null)
+    comparedOf(slug, line, cases.get(caseKeyOf(BARS[line.bar], line.reading.capturedAt)) ?? null)
   )
 
   if (read.taken.json) {

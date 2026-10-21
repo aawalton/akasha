@@ -18,6 +18,7 @@ type Share = { readonly source: string; readonly category: string; readonly effe
 export type SheetRow = SheetRowStat & {
   readonly estimate: number | null
   readonly matches: boolean
+  readonly stale: boolean
   readonly sources: readonly Share[]
 }
 
@@ -44,6 +45,8 @@ const SHOWN = 7
 
 const UNHEADED = "(no header)"
 
+const STALE_SAID = "  held from before a respec, stale"
+
 export function cell(text: string): string {
   return text.padStart(NUMBER)
 }
@@ -55,7 +58,8 @@ export function signed(delta: number): string {
 export function sheetRowsOf(
   reading: Reading,
   estimate: ((stat: string) => number) | null,
-  sources: readonly EffectSource[] = []
+  sources: readonly EffectSource[] = [],
+  staleOf: (stat: string) => boolean = () => false
 ): readonly SheetRow[] {
   return sheetRowStatsOf(reading.advancedSheet).map((one) => {
     const value = estimate === null ? null : estimate(one.stat)
@@ -63,6 +67,7 @@ export function sheetRowsOf(
       ...one,
       estimate: value,
       matches: value !== null && reproduces(one.stat, value, one.game),
+      stale: staleOf(one.stat),
       sources: sharesOf(one.stat, sources),
     }
   })
@@ -91,14 +96,15 @@ function advancedRow(
   const shown = shownOf(row)
   const temper = shown === null ? "-" : String(shown)
   const delta = shown === null || row === undefined ? "-" : signed(figures(shown - row.game))
-  const mark = row?.matches === true ? "=" : " "
+  const mark = row?.stale === true ? "~" : row?.matches === true ? "=" : " "
   const stat = row === undefined ? "" : `  (${row.stat})`
+  const stale = row?.stale === true ? STALE_SAID : ""
   const values = `${sheetCell(value.flat)} ${sheetCell(value.percent)} ${cell(temper)} ${cell(delta)}`
-  return `  ${mark} ${name.padEnd(width)} ${value.format.padEnd(FORMAT)} ${values}${label}${stat}`
+  return `  ${mark} ${name.padEnd(width)} ${value.format.padEnd(FORMAT)} ${values}${label}${stat}${stale}`
 }
 
 function countSaid(entries: number, rows: readonly SheetRow[]): string {
-  const estimated = rows.filter((row) => row.estimate !== null)
+  const estimated = rows.filter((row) => row.estimate !== null && !row.stale)
   if (estimated.length === 0) return `${String(entries)} stats`
   const matched = estimated.filter((row) => row.matches).length
   return `${String(entries)} stats, ${String(matched)} of ${String(estimated.length)} estimates match`
