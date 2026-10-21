@@ -94,6 +94,7 @@
   ],
   "pinned": {
     "alliance-points-gain": 10,
+    "bash-cost": 614,
     "break-free-cost": 4610,
     "critical-rating-spell": 3377,
     "critical-rating-weapon": 3377,
@@ -132,7 +133,6 @@
     "ultimate-recovery": 3
   },
   "gaps": {
-    "bash-cost": 614,
     "bash-damage": 908,
     "block-mitigation": 62,
     "block-speed": 42,

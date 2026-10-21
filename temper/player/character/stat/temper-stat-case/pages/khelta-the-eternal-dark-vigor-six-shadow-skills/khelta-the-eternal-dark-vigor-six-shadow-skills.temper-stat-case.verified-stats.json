@@ -17,6 +17,7 @@
     { "championSkillId": 2, "points": 50, "maxPoints": 50 }
   ],
   "pinned": {
+    "bash-cost": 719,
     "bash-damage": 1,
     "block-mitigation": 50,
     "block-speed": 40,
@@ -54,7 +55,6 @@
     "stamina-recovery": 829
   },
   "gaps": {
-    "bash-cost": 719,
     "movement-sprint-speed": 158.99998474121094,
     "sneak-cost": 133,
     "stamina-sprint-cost": 432

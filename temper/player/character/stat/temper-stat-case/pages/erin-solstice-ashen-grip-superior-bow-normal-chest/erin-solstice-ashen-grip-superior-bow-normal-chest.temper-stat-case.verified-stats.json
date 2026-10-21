@@ -99,6 +99,7 @@
     { "championSkillId": 2, "points": 50, "maxPoints": 50 }
   ],
   "pinned": {
+    "bash-cost": 594,
     "break-free-cost": 4351,
     "critical-rating-spell": 6226,
     "critical-rating-weapon": 6226,
@@ -137,7 +138,6 @@
     "stamina-recovery": 545
   },
   "gaps": {
-    "bash-cost": 594,
     "bash-damage": 873,
     "block-mitigation": 61,
     "block-speed": 42,

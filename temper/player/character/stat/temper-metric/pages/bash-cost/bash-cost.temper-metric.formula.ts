@@ -33,6 +33,10 @@ export const FORMULA: FormulaNode = {
           categories: ["skills"],
           effectType: "fractional-change",
         },
+        {
+          type: "metric-refs",
+          metricIds: ["core-ability-cost"],
+        },
       ],
     },
     {
