@@ -20,10 +20,10 @@ export const pragmaticFatecarver = {
   skillType: "temper-skill-type/active",
   hashPlace: 923,
   createdAt: "2026-05-26T03:13:12.430Z",
-  updatedAt: "2026-10-21T03:53:31.433Z",
+  updatedAt: "2026-10-21T08:06:41.937Z",
   equations: [
     "<<1>> = 4 seconds (Constant)",
-    "<<2>> = 0.039097929 MaxStat + 0.41052826 MaxPower (Ultimate, Dmg, Magic, AOE, Direct, Melee)",
+    "<<2>> = 0.03904 MaxStat + 0.41085 MaxPower (Ultimate, Dmg, Magic, AOE, Direct, Melee)",
     "<<3>> = 0.3 seconds (Constant)",
     "<<4>> = 0.139474 MaxStat + 1.46406 MaxPower (Ultimate, DmgShield, SingleTarget, Direct, 4.5s duration, at most half Health)",
     "<<5>> = Pragmatic Fatecarver (Constant)",

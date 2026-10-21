@@ -20,10 +20,10 @@ export const theTideKingSGaze = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1340,
   createdAt: "2026-05-28T16:03:34.068Z",
-  updatedAt: "2026-10-21T04:08:18.668Z",
+  updatedAt: "2026-10-21T08:06:41.937Z",
   equations: [
     "<<1>> = 8 seconds (Constant)",
-    "<<2>> = 0.051210845 MaxStat + 0.53771387 MaxPower (Ultimate, Dmg, Magic, SingleTarget, DOT, 0.5s tick)",
+    "<<2>> = 0.051218 MaxStat + 0.537669 MaxPower (Ultimate, Dmg, Magic, SingleTarget, DOT, 0.5s tick)",
     "<<3>> = 0.5 seconds (Constant)",
   ],
 } as const satisfies TemperSkill
