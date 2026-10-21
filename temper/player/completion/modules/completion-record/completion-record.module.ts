@@ -77,6 +77,10 @@ export const completionRecord = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A skill in a reading may keep its morph and its rank.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A reading of reported stats keeps each class passive bought, with its tooltip as the game gave it.",
     },
@@ -131,5 +135,5 @@ export const completionRecord = {
     },
   ],
   createdAt: "2026-09-02T04:57:23.388Z",
-  updatedAt: "2026-10-21T04:05:39.502Z",
+  updatedAt: "2026-10-21T09:24:16.485Z",
 } as const satisfies Module

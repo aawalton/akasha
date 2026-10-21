@@ -133,6 +133,14 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A reading keeps the morph and the rank the game gives each skill on the bar.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A skill with no progression, such as a scribed one, keeps neither.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reading keeps each class passive bought, with the text the game gives it now.",
     },
     {
@@ -201,5 +209,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-21T04:05:39.502Z",
+  updatedAt: "2026-10-21T09:24:16.485Z",
 } as const satisfies Module

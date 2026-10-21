@@ -214,6 +214,8 @@ type SlottedSkill = {
   channeled: boolean
   cooldownMs: number
   ultimateCost: number
+  morph: number | undefined
+  rank: number | undefined
 }
 
 type ClassPassive = {
@@ -248,12 +250,22 @@ function slottedAbilityId(slot: number): number {
   return bound
 }
 
+type Progression = readonly [morph: number | undefined, rank: number | undefined]
+
+function progressionOf(abilityId: number): Progression {
+  const [hasProgression, progressionIndex] = GetAbilityProgressionXPInfoFromAbilityId(abilityId)
+  if (hasProgression !== true) return [undefined, undefined]
+  const [, morph, rank] = GetAbilityProgressionInfo(progressionIndex)
+  return [morph, rank]
+}
+
 function slottedSkills(): SlottedSkill[] {
   const skills: SlottedSkill[] = []
   for (let slot = FIRST_SKILL_SLOT; slot <= ULTIMATE_SLOT; slot++) {
     const abilityId = slottedAbilityId(slot)
     if (abilityId === 0) continue
     const [channeled, castMs] = GetAbilityCastInfo(abilityId, undefined, "player")
+    const [morph, rank] = progressionOf(abilityId)
     skills.push({
       slot,
       abilityId,
@@ -267,6 +279,8 @@ function slottedSkills(): SlottedSkill[] {
         slot === ULTIMATE_SLOT
           ? GetAbilityCost(abilityId, COMBAT_MECHANIC_FLAGS_ULTIMATE, undefined, "player")
           : 0,
+      morph,
+      rank,
     })
   }
   return skills
