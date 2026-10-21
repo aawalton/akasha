@@ -9,7 +9,7 @@ export const theChildOutFront = {
   parents: ["all-about-alan-topic/the-professor-and-the-child"],
   related: ["all-about-alan-topic/the-quiets-that-hide-the-childs-sadness"],
   settled:
-    "I am not sure what it is like when the Child is out front. I cannot remember, and while the Child is out front I am not actively thinking about it. Metacognition activates the Professor.\n\nIn the few days before 21 October 2026, while I have been counting more instead of distracting, I have noticed feeling calm more often.",
+    "I am not sure what it is like when the Child is out front. I cannot remember, and while the Child is out front I am not actively thinking about it. Metacognition activates the Professor.\n\nIn the few days before 21 October 2026, while I have been counting more instead of distracting, I have noticed feeling calm more often.\n\nA one-tap check a few times a day would probably pull the Professor forward, but it might be immediate enough that the Child's experience is still in the sensory buffer.",
   createdAt: "2026-10-21T13:52:28.245Z",
-  updatedAt: "2026-10-21T13:52:28.245Z",
+  updatedAt: "2026-10-21T13:55:11.557Z",
 } as const satisfies AllAboutAlanTopic
