@@ -1,4 +1,7 @@
 import { expect, test } from "bun:test"
+import { mkdirSync, mkdtempSync, renameSync, rmSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import {
   blamedIn,
   changeFrom,
@@ -8,7 +11,9 @@ import {
   saidOfUnproven,
   sinceCommit,
 } from "akasha/command/pages/deploy/modules/check-judging/deploy-check-judging.module.code.ts"
+import { SCRATCH_AT } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { pagesAt } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
+import { INDEX_AT } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
@@ -56,14 +61,42 @@ test("the change is judged over the pages the deploy's commit holds, index and b
   }
 })
 
+const GIT = ["git", "-c", "user.name=held", "-c", "user.email=held@example.com"]
+
+function gitIn(root: string, ...words: string[]): string {
+  const done = ran([...GIT, ...words], { cwd: root })
+  if (done.code !== 0) throw new Error(`git ${words.join(" ")} failed: ${done.err}`)
+  return done.out.trim()
+}
+
+function committed(root: string, said: string): string {
+  gitIn(root, "add", "-A")
+  gitIn(root, "commit", "-q", "-m", said)
+  return gitIn(root, "rev-parse", "HEAD")
+}
+
 test("a file renamed away is judged as taken out, so a check sees the table it left", () => {
-  const renamed = "75cd49e5b8c"
-  const now = "temper/catalog/skill/pages/ambidextrous/ambidextrous.temper-skill.ts"
-  const was = "temper/catalog/skill/pages/dual-wield-expert/dual-wield-expert.temper-skill.ts"
-  const change = changeFrom(ROOT, `${renamed}^`, renamed, new Set([now]))
-  expect(change.changed).toContain(now)
-  expect(change.changed).toContain(was)
-  expect(change.before(was)).not.toBeNull()
+  const root = mkdtempSync(join(SCRATCH_AT, "deploy-check-judging-"))
+  try {
+    const was = "pages/old/old.held.ts"
+    const now = "pages/new/new.held.ts"
+    const body = "export const held = { id: 'one', place: 1 }\n"
+    gitIn(root, "init", "-q")
+    mkdirSync(join(root, INDEX_AT), { recursive: true })
+    writeFileSync(join(root, INDEX_AT, "kept"), "kept\n")
+    mkdirSync(join(root, "pages", "old"), { recursive: true })
+    writeFileSync(join(root, was), body)
+    const before = committed(root, "the page as it was")
+    mkdirSync(join(root, "pages", "new"), { recursive: true })
+    renameSync(join(root, was), join(root, now))
+    const after = committed(root, "the page renamed")
+    const change = changeFrom(root, before, after, new Set([now]))
+    expect(change.changed).toContain(now)
+    expect(change.changed).toContain(was)
+    expect(change.before(was)).not.toBeNull()
+  } finally {
+    rmSync(root, { recursive: true, force: true })
+  }
 })
 
 test("a commit git no longer holds is read as no commit", () => {
