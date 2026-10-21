@@ -12,7 +12,7 @@ export const theTestsForWhatCouldFeedTheChild = {
     "all-about-alan-topic/a-job-for-the-professor-while-the-child-is-fed",
   ],
   settled:
-    "Something new feeds the Child when a real person in it is accepting her, the Professor is kept at the back, and there is a job for the Professor built in.\n\nBeing asked for words and being the one steering rather than receiving are the same thing really, or at least related. Both are cases that pull the Professor to the front.\n\nI could not say which thing Jen and I do together comes closest, because I have a hard time iterating the list of things Jen and I could do together.",
+    "Something new feeds the Child when a real person in it is accepting her, the Professor is kept at the back, and there is a job for the Professor built in.\n\nBeing asked for words and being the one steering rather than receiving are the same thing really, or at least related. Both are cases that pull the Professor to the front.\n\nI could not say which thing Jen and I do together comes closest, because I have a hard time iterating the list of things Jen and I could do together.\n\nA lot of couples' activities are possible. Some get ruled out because when there are other people around, Jen's attention starts multitasking and she gets stressed. Others might be really difficult for her to handle without talking.",
   createdAt: "2026-10-21T13:34:24.378Z",
-  updatedAt: "2026-10-21T13:34:36.771Z",
+  updatedAt: "2026-10-21T13:44:52.603Z",
 } as const satisfies AllAboutAlanTopic
