@@ -274,6 +274,11 @@ export function worldOf(held: Readonly<Record<string, string>>): World {
   }
 }
 
+export function worldUnder(held: Readonly<Record<string, string>>): World {
+  const paths = Object.keys(held)
+  return { ...worldOf(held), under: (folder) => paths.filter((path) => path.startsWith(folder)) }
+}
+
 export function declaring(key: string, required: boolean): Declared {
   return {
     pagePropertySlug: `text-property/${key}`,

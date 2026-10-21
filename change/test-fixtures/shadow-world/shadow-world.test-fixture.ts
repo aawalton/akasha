@@ -22,6 +22,10 @@ export const shadowWorld = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A second such world lists, under a folder, every path held under that folder.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "That world's index names no importer of any path.",
     },
     {
@@ -111,5 +115,5 @@ export const shadowWorld = {
     },
   ],
   createdAt: "2026-09-14T23:04:45.723Z",
-  updatedAt: "2026-09-25T15:35:51.000Z",
+  updatedAt: "2026-10-21T13:48:57.365Z",
 } as const satisfies TestFixture
