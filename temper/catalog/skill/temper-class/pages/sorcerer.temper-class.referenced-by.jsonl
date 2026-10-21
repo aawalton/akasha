@@ -6,3 +6,8 @@
 {"propertySlug":"skill-line-class","path":"temper/catalog/skill/line/pages/sorcerer-daedric-summoning.temper-skill-line.ts","id":"019e61dc-f1aa-72a2-942d-67f0e47f3e8c"}
 {"propertySlug":"skill-line-class","path":"temper/catalog/skill/line/pages/sorcerer-dark-magic.temper-skill-line.ts","id":"019e61dc-f1ab-7caf-8c29-1210323134e6"}
 {"propertySlug":"skill-line-class","path":"temper/catalog/skill/line/pages/sorcerer-storm-calling.temper-skill-line.ts","id":"019e61dc-f1ad-7d43-90cb-a41ab53ca380"}
+{"propertySlug":"skill-line-class","path":"temper/catalog/skill/temper-class-mastery/pages/calculated-defense/calculated-defense.temper-class-mastery.ts","id":"01a15ea7-5feb-7953-a6b9-baea1ef5e45a"}
+{"propertySlug":"skill-line-class","path":"temper/catalog/skill/temper-class-mastery/pages/conservation-of-energy/conservation-of-energy.temper-class-mastery.ts","id":"01a15ea7-5feb-71f3-a311-eaf13b8288a0"}
+{"propertySlug":"skill-line-class","path":"temper/catalog/skill/temper-class-mastery/pages/font-of-power/font-of-power.temper-class-mastery.ts","id":"01a15ea7-5fec-7286-b4c4-b700f8ce5610"}
+{"propertySlug":"skill-line-class","path":"temper/catalog/skill/temper-class-mastery/pages/sphere-of-influence/sphere-of-influence.temper-class-mastery.ts","id":"01a15ea7-5fed-7a5b-bc58-033301cfe172"}
+{"propertySlug":"skill-line-class","path":"temper/catalog/skill/temper-class-mastery/pages/static-reverberation/static-reverberation.temper-class-mastery.ts","id":"01a15ea7-5fed-7832-acf3-445761991caa"}
