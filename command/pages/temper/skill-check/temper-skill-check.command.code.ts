@@ -14,6 +14,7 @@ import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.mo
 import {
   type EquationStats,
   equationOf,
+  equationStatsOf,
   equationValue,
 } from "akasha/temper/player/character/stat/modules/skill-equation/skill-equation.module.code.ts"
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
@@ -39,19 +40,6 @@ function equationsById(root: string): ReadonlyMap<number, readonly string[]> {
     }
   }
   return found
-}
-
-function statsOf(stats: Readonly<Record<string, number>>): EquationStats {
-  const at = (key: string) => stats[key] ?? 0
-  return {
-    maxStat: Math.max(at("magicka-maximum"), at("stamina-maximum")),
-    maxPower: Math.max(at("power-weapon"), at("power-spell")),
-    health: at("health-maximum"),
-    magicka: at("magicka-maximum"),
-    stamina: at("stamina-maximum"),
-    spellDamage: at("power-spell"),
-    weaponDamage: at("power-weapon"),
-  }
 }
 
 function pairedLines(
@@ -113,7 +101,7 @@ export async function temperSkillCheck(argv: readonly string[], given: Given): P
   for (const bar of BARS) {
     const reading = completion.reportedStats?.[bar]
     if (reading?.skills === undefined) continue
-    const stats = statsOf(reading.stats)
+    const stats = equationStatsOf(reading.stats)
     lines.push(
       `${bar}: max health ${String(stats.health)}, stat ${String(stats.maxStat)}, power ${String(stats.maxPower)}`
     )

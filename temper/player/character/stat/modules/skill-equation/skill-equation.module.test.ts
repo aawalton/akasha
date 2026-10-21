@@ -1,7 +1,10 @@
 import { expect, test } from "bun:test"
 import {
   equationOf,
+  equationStatsOf,
   equationValue,
+  shownNumbersOf,
+  tooltipPairingOf,
 } from "akasha/temper/player/character/stat/modules/skill-equation/skill-equation.module.code.ts"
 
 const STATS = {
@@ -44,4 +47,65 @@ test("a constant with a unit is its number and scales off nothing", () => {
 test("a constant naming no number, or a variable no stat here reads, reads as nothing", () => {
   expect(at("<<6>> = Burning (Constant)")).toBeUndefined()
   expect(at("<<1>> = 120 MediumArmor (Medium Armor)")).toBeUndefined()
+})
+
+test("a tooltip's numbers are the ones the game colors, in the order the text gives them", () => {
+  expect(
+    shownNumbersOf("dealing |cffffff4582|r Damage for |cffffff6|r seconds, |cffffff0.5|r%")
+  ).toEqual([4582, 6, 0.5])
+  expect(shownNumbersOf("no number here")).toEqual([])
+})
+
+test("the stats an equation reads take the higher of Magicka and Stamina, and of the powers", () => {
+  const stats = {
+    "magicka-maximum": 16456,
+    "stamina-maximum": 17141,
+    "health-maximum": 43104,
+    "power-spell": 3093,
+    "power-weapon": 2900,
+  }
+  expect(equationStatsOf(stats)).toEqual({
+    maxStat: 17141,
+    maxPower: 3093,
+    health: 43104,
+    magicka: 16456,
+    stamina: 17141,
+    spellDamage: 3093,
+    weaponDamage: 2900,
+  })
+})
+
+const EMBERS = [
+  "<<1>> = 0.05165 MaxStat + 0.542325 MaxPower (Ultimate, ratio = 10.50, Dmg, Flame)",
+  "<<2>> = 10 seconds (Constant)",
+  "<<3>> = Burning (Constant)",
+]
+
+test("a tooltip's numbers pair in order with the equations naming a number", () => {
+  const paired = tooltipPairingOf(
+    "dealing |cffffff3526|r Flame Damage over |cffffff10|r seconds, applying Burning.",
+    EMBERS,
+    STATS
+  )
+  expect(paired).toEqual({
+    paired: true,
+    numbers: [
+      {
+        placeholder: 1,
+        equation: EMBERS[0] ?? "",
+        scaled: true,
+        game: 3526,
+        temper: Math.round(0.05165 * 20000 + 0.542325 * 5000),
+      },
+      { placeholder: 2, equation: EMBERS[1] ?? "", scaled: false, game: 10, temper: 10 },
+    ],
+  })
+})
+
+test("a tooltip naming more or fewer numbers than the equations do is left unpaired", () => {
+  expect(tooltipPairingOf("dealing |cffffff3526|r damage", EMBERS, STATS)).toEqual({
+    paired: false,
+    shown: [3526],
+    equations: 2,
+  })
 })

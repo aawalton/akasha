@@ -308,6 +308,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/quest-port-trace/temper-quest-port-trace.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/skill-check/temper-skill-check.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/stat-compare/temper-stat-compare.command.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/tooltip-compare/temper-tooltip-compare.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/tps/temper-tps.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/upstream/data-port/temper-upstream-data-port.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/upstream/data-verify/temper-upstream-data-verify.command.ts","typed":true,"deferred":false}

@@ -1469,6 +1469,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/quest-port-trace/temper-quest-port-trace.command.ts","id":"01a11c7f-285d-7a2e-b753-227f6826b2c1"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/skill-check/temper-skill-check.command.ts","id":"01a1403e-60df-77ff-8125-4bec00af60c9"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/stat-compare/temper-stat-compare.command.ts","id":"01a13ac6-0c63-7b9c-bc03-6035eeeed9e2"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/tooltip-compare/temper-tooltip-compare.command.ts","id":"01a15c14-50a3-71a2-a7f0-58917ebc0bf7"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/tps/temper-tps.command.ts","id":"01a13c20-c7d3-7f3b-bb59-c86221a8b893"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/upstream/data-verify/temper-upstream-data-verify.command.ts","id":"01a0603c-c1da-7a8b-ad5e-79907918ed2a"}
 {"propertySlug":"decision-kind","path":"command/pages/track/food/track-food.command.ts","id":"01a06809-250b-7ec1-99ac-2150ec2c5f74"}

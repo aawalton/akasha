@@ -20,7 +20,25 @@ export const skillEquation = {
       decisionKind: "decision-kind/departure",
       statement: "An equation naming a variable no stat here reads gives no number.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A tooltip's numbers are the ones the game colors, in the order the text gives them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tooltip's numbers pair in order with the equations that name a number.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tooltip naming more or fewer numbers than those equations is left unpaired.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A number scaling off a stat is rounded to a whole number, and a constant is kept.",
+    },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-15T15:45:56.553Z",
+  updatedAt: "2026-10-21T01:29:57.666Z",
 } as const satisfies Module

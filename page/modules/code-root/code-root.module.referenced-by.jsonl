@@ -55,6 +55,7 @@
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/eso/generate/strings/temper-eso-generate-strings.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/package-typecheck/temper-package-typecheck.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/stat-compare/temper-stat-compare.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/tooltip-compare/temper-tooltip-compare.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/upstream/data-port/temper-upstream-data-port.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"infrastructure/cluster/operation/bootstrap-namespace/bootstrap-namespace.shell-script.scripting.test.ts","typed":false,"deferred":false}

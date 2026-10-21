@@ -1,2 +1,4 @@
 {"propertySlug":"argument","path":"command/pages/temper/stat-compare/temper-stat-compare.command.ts","id":"01a13ac6-0c63-7b9c-bc03-6035eeeed9e2"}
+{"propertySlug":"argument","path":"command/pages/temper/tooltip-compare/temper-tooltip-compare.command.ts","id":"01a15c14-50a3-71a2-a7f0-58917ebc0bf7"}
 {"propertySlug":"import","fileName":"captured-at.argument.ts","path":"command/pages/temper/stat-compare/temper-stat-compare.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"captured-at.argument.ts","path":"command/pages/temper/tooltip-compare/temper-tooltip-compare.command.code.ts","typed":false,"deferred":false}

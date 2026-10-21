@@ -95,6 +95,7 @@
 {"propertySlug":"argument","path":"command/pages/temper/inventory/venue-trace/temper-inventory-venue-trace.command.ts","id":"01a09b33-22e4-76f4-8c16-420d5f6923df"}
 {"propertySlug":"argument","path":"command/pages/temper/quest-port-trace/temper-quest-port-trace.command.ts","id":"01a11c7f-285d-7a2e-b753-227f6826b2c1"}
 {"propertySlug":"argument","path":"command/pages/temper/stat-compare/temper-stat-compare.command.ts","id":"01a13ac6-0c63-7b9c-bc03-6035eeeed9e2"}
+{"propertySlug":"argument","path":"command/pages/temper/tooltip-compare/temper-tooltip-compare.command.ts","id":"01a15c14-50a3-71a2-a7f0-58917ebc0bf7"}
 {"propertySlug":"argument","path":"command/pages/temper/tps/temper-tps.command.ts","id":"01a13c20-c7d3-7f3b-bb59-c86221a8b893"}
 {"propertySlug":"argument","path":"command/pages/temper/watcher/status/temper-watcher-status.command.ts","id":"01a0603c-c1da-7d6c-b921-40b273376503"}
 {"propertySlug":"argument","path":"command/pages/track/food/track-food.command.ts","id":"01a06809-250b-7ec1-99ac-2150ec2c5f74"}
@@ -220,6 +221,7 @@
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/temper/inventory/venue-trace/temper-inventory-venue-trace.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/temper/quest-port-trace/temper-quest-port-trace.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/temper/stat-compare/temper-stat-compare.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/temper/tooltip-compare/temper-tooltip-compare.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/temper/tps/temper-tps.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/temper/watcher/status/temper-watcher-status.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/track/food/track-food.command.code.ts","typed":false,"deferred":false}

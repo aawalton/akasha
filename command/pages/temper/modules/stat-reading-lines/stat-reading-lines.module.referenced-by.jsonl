@@ -3,4 +3,5 @@
 {"propertySlug":"import","fileName":"stat-reading-lines.module.code.ts","path":"command/pages/temper/stat-compare/modules/advanced-sheet-lines/advanced-sheet-lines.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"stat-reading-lines.module.code.ts","path":"command/pages/temper/stat-compare/modules/unsteady-recovery/unsteady-recovery.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"stat-reading-lines.module.code.ts","path":"command/pages/temper/stat-compare/temper-stat-compare.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"stat-reading-lines.module.code.ts","path":"command/pages/temper/tooltip-compare/temper-tooltip-compare.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/temper/temper.namespace.ts","id":"01a07c18-53a9-70f9-8d78-f1c36c87af0b"}

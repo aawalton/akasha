@@ -25,8 +25,9 @@ export const temper = {
     "module/character-completion-reading",
     "command/temper-build-show",
     "module/stat-reading-lines",
+    "command/temper-tooltip-compare",
   ],
   name: "temper",
   createdAt: "2026-09-07T13:39:24.201Z",
-  updatedAt: "2026-10-20T14:29:46.979Z",
+  updatedAt: "2026-10-21T01:29:57.666Z",
 } as const satisfies Namespace

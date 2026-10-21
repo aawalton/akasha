@@ -63,6 +63,66 @@ export function equationOf(line: string): Equation | undefined {
   }
 }
 
+export type TooltipNumber = {
+  readonly placeholder: number
+  readonly equation: string
+  readonly scaled: boolean
+  readonly game: number
+  readonly temper: number | null
+}
+
+export type TooltipPairing =
+  | { readonly paired: true; readonly numbers: readonly TooltipNumber[] }
+  | { readonly paired: false; readonly shown: readonly number[]; readonly equations: number }
+
+const SHOWN = /\|c[0-9a-fA-F]{6}(-?\d+(?:\.\d+)?)\|r/g
+
+const NAMES_A_NUMBER = /^<<\d+>> = -?\d/
+
+export function equationStatsOf(stats: Readonly<Record<string, number>>): EquationStats {
+  const at = (key: string) => stats[key] ?? 0
+  return {
+    maxStat: Math.max(at("magicka-maximum"), at("stamina-maximum")),
+    maxPower: Math.max(at("power-weapon"), at("power-spell")),
+    health: at("health-maximum"),
+    magicka: at("magicka-maximum"),
+    stamina: at("stamina-maximum"),
+    spellDamage: at("power-spell"),
+    weaponDamage: at("power-weapon"),
+  }
+}
+
+export function shownNumbersOf(description: string): readonly number[] {
+  return [...description.matchAll(SHOWN)].map((one) => Number(one[1]))
+}
+
+export function tooltipPairingOf(
+  description: string,
+  equations: readonly string[],
+  stats: EquationStats
+): TooltipPairing {
+  const shown = shownNumbersOf(description)
+  const numbered = equations.filter((line) => NAMES_A_NUMBER.test(line))
+  if (numbered.length !== shown.length) return { paired: false, shown, equations: numbered.length }
+  const numbers = numbered.map((line, at) => {
+    const equation = equationOf(line)
+    return {
+      placeholder: equation?.placeholder ?? at + 1,
+      equation: line,
+      scaled: equation?.scaled ?? false,
+      game: shown[at] ?? 0,
+      temper: tooltipValueOf(equation, stats) ?? null,
+    }
+  })
+  return { paired: true, numbers }
+}
+
+function tooltipValueOf(equation: Equation | undefined, stats: EquationStats): number | undefined {
+  const worked = equationValue(equation, stats)
+  if (worked === undefined || equation === undefined) return undefined
+  return equation.scaled ? Math.round(worked) : worked
+}
+
 export function equationValue(
   equation: Equation | undefined,
   stats: EquationStats
