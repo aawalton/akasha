@@ -14,12 +14,7 @@ export const testEnvironment = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Those are the path, the home, the scratch folder, the language and the variable a pod states.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A test in a pod reaches the pages through the forwarder by that variable.",
+      statement: "Those are the path, the home, the scratch folder and the language.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -39,5 +34,5 @@ export const testEnvironment = {
     },
   ],
   createdAt: "2026-09-25T16:48:41.987Z",
-  updatedAt: "2026-10-21T16:19:25.839Z",
+  updatedAt: "2026-10-21T16:27:07.518Z",
 } as const satisfies Module
