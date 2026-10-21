@@ -25,6 +25,8 @@ import {
 import { temperTooltipCompare as page } from "akasha/command/pages/temper/tooltip-compare/temper-tooltip-compare.command.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { loadSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts"
+import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
 import {
   equationStatsOf,
   type TooltipNumber,
@@ -34,6 +36,7 @@ import {
 import {
   type Equations,
   equationsIn,
+  passivesOfBuild,
 } from "akasha/temper/player/character/stat/modules/tooltip-case/tooltip-case.module.code.ts"
 import { readings } from "akasha/temper/player/character/temper-account-character/properties/readings.file-property.ts"
 import { temperAccountCharacter } from "akasha/temper/player/character/temper-account-character/temper-account-character.page-type.ts"
@@ -58,7 +61,8 @@ export type Tally = {
 
 export function comparedSkillsOf(
   reading: ReadingLine["reading"],
-  equations: Equations
+  equations: Equations,
+  passives: ReadonlySet<string>
 ): readonly ComparedSkill[] {
   const stats = equationStatsOf(reading.stats)
   return (reading.skills ?? []).map((skill) => {
@@ -67,7 +71,8 @@ export function comparedSkillsOf(
       slot: skill.slot,
       abilityId: skill.abilityId,
       name: skill.name,
-      pairing: held === undefined ? null : tooltipPairingOf(skill.description, held, stats),
+      pairing:
+        held === undefined ? null : tooltipPairingOf(skill.description, held, stats, passives),
     }
   })
 }
@@ -152,10 +157,17 @@ export async function temperTooltipCompare(argv: readonly string[], given: Given
     id: read.taken.readingId,
   })
   if ("refused" in chosen) return refused(`\`${slug}\`: ${chosen.refused}`, INPUT)
+  await Promise.all([loadSkillCatalog(), loadSetCatalog()])
   const equations = equationsIn(given.root)
+  const byBuild = new Map<string, ReadonlySet<string>>()
+  const passivesOf = (hash: string): ReadonlySet<string> => {
+    const held = byBuild.get(hash) ?? new Set(passivesOfBuild(hash) ?? [])
+    byBuild.set(hash, held)
+    return held
+  }
   const compared = chosen.chosen.map((line) => ({
     line,
-    skills: comparedSkillsOf(line.reading, equations),
+    skills: comparedSkillsOf(line.reading, equations, passivesOf(line.buildHash)),
   }))
   if (read.taken.json) {
     return asJson({

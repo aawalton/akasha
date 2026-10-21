@@ -9,6 +9,8 @@ import {
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
+import { loadSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts"
+import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
 import {
   isPicked,
   linesOf,
@@ -18,6 +20,7 @@ import {
 import {
   type Equations,
   equationsIn,
+  passivesOfBuild,
   pinnedTooltipCaseOf,
   tooltipCaseText,
 } from "akasha/temper/player/character/stat/modules/tooltip-case/tooltip-case.module.code.ts"
@@ -58,7 +61,14 @@ function pageFor(slug: string, title: string, typesAt: string): string {
   ].join("\n")
 }
 
-export function pinTooltipCaseCommand(world: World, given: Asked, equations: Equations): Answer {
+type PassivesOf = (hash: string) => readonly string[] | undefined
+
+export function pinTooltipCaseCommand(
+  world: World,
+  given: Asked,
+  equations: Equations,
+  passivesOf: PassivesOf = () => undefined
+): Answer {
   const character = given[CHARACTER]
   if (character === undefined) return refusing(missing(CHARACTER))
   const pick = given[READING]
@@ -113,6 +123,7 @@ export function pinTooltipCaseCommand(world: World, given: Asked, equations: Equ
   const tooltipsAt = besideAt(pageAt, verifiedTooltips.propertySlug, "json")
   const typesAt = besideAt(typeAt, "types", "ts")
   if (tooltipsAt === null || typesAt === null) return refusing(`\`${slug}\` names no page path`)
+  const passives = passivesOf(line.buildHash)
   const tooltipCase = pinnedTooltipCaseOf(
     {
       character,
@@ -120,6 +131,7 @@ export function pinTooltipCaseCommand(world: World, given: Asked, equations: Equ
       capturedAt: reading.capturedAt,
       esoVersion,
       stats: reading.stats,
+      ...(passives === undefined ? {} : { passives: [...passives] }),
       skills: [...skills]
         .sort((one, two) => one.slot - two.slot)
         .map(({ abilityId, name, description }) => ({ abilityId, name, description })),
@@ -135,6 +147,7 @@ export function pinTooltipCaseCommand(world: World, given: Asked, equations: Equ
 
 export const takes: readonly string[] = [CHARACTER, READING, BAR, SLUG]
 
-export function runChange(world: World, given: Asked): Promise<Answer> {
-  return Promise.resolve(pinTooltipCaseCommand(world, given, equationsIn(world.root)))
+export async function runChange(world: World, given: Asked): Promise<Answer> {
+  await Promise.all([loadSkillCatalog(), loadSetCatalog()])
+  return pinTooltipCaseCommand(world, given, equationsIn(world.root), passivesOfBuild)
 }

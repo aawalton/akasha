@@ -20,6 +20,7 @@
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/player/character/stat/modules/reading-hash-rewriting/reading-hash-rewriting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/player/character/stat/modules/stat-case/stat-case.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/player/character/stat/modules/tooltip-case/tooltip-case.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/player/character/stat/modules/worn-item-levels/worn-item-levels.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/web/.server/character-import/character-import.module.code.ts","typed":false,"deferred":false}

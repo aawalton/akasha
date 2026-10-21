@@ -52,7 +52,16 @@ export const tooltipCase = {
       decisionKind: "decision-kind/departure",
       statement: "A case is written with its stats, pins and gaps in name order.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A case keeps the passives its build held, in name order.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "A case pinned before cases kept passives keeps none, and is worked out holding none.",
+    },
   ],
   createdAt: "2026-10-21T01:45:54.419Z",
-  updatedAt: "2026-10-21T01:45:54.419Z",
+  updatedAt: "2026-10-21T02:26:45.217Z",
 } as const satisfies Module

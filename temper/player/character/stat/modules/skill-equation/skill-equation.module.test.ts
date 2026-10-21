@@ -85,7 +85,8 @@ test("a tooltip's numbers pair in order with the equations naming a number", () 
   const paired = tooltipPairingOf(
     "dealing |cffffff3526|r Flame Damage over |cffffff10|r seconds, applying Burning.",
     EMBERS,
-    STATS
+    STATS,
+    new Set()
   )
   expect(paired).toEqual({
     paired: true,
@@ -103,9 +104,19 @@ test("a tooltip's numbers pair in order with the equations naming a number", () 
 })
 
 test("a tooltip naming more or fewer numbers than the equations do is left unpaired", () => {
-  expect(tooltipPairingOf("dealing |cffffff3526|r damage", EMBERS, STATS)).toEqual({
+  expect(tooltipPairingOf("dealing |cffffff3526|r damage", EMBERS, STATS, new Set())).toEqual({
     paired: false,
     shown: [3526],
     equations: 2,
   })
+})
+
+test("a duration tagged with a passive is that much longer only where the build holds it", () => {
+  const blur = ["<<1>> = 20 seconds (Constant, +2 seconds with dark-veil)"]
+  const worked = (passives: ReadonlySet<string>) => {
+    const paired = tooltipPairingOf("for |cffffff22|r seconds", blur, STATS, passives)
+    return paired.paired ? paired.numbers[0]?.temper : undefined
+  }
+  expect(worked(new Set(["dark-veil"]))).toBe(22)
+  expect(worked(new Set(["everlasting-magic"]))).toBe(20)
 })

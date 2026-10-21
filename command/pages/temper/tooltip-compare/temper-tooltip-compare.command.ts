@@ -31,6 +31,10 @@ export const temperTooltipCompare = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The passives an equation reads are the ones the reading's build hash holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A skill is found by the ability id the reading gives it.",
     },
     {
@@ -64,5 +68,5 @@ export const temperTooltipCompare = {
     { argument: "argument/json" },
   ],
   createdAt: "2026-10-21T01:29:57.666Z",
-  updatedAt: "2026-10-21T01:29:57.666Z",
+  updatedAt: "2026-10-21T02:26:45.217Z",
 } as const satisfies Command

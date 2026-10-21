@@ -60,7 +60,7 @@ const READING = {
 }
 
 test("each slotted skill's tooltip numbers are set beside Temper's from the reading's stats", () => {
-  const [brawler, lash, unknown] = comparedSkillsOf(READING, EQUATIONS)
+  const [brawler, lash, unknown] = comparedSkillsOf(READING, EQUATIONS, new Set())
 
   expect(brawler?.pairing).toEqual({
     paired: true,
@@ -86,7 +86,7 @@ test("each slotted skill's tooltip numbers are set beside Temper's from the read
 })
 
 test("a reading counts the numbers matched, the skills unpaired and those with no equations", () => {
-  const tally = tallyOf(comparedSkillsOf(READING, EQUATIONS))
+  const tally = tallyOf(comparedSkillsOf(READING, EQUATIONS, new Set()))
 
   expect(tally).toEqual({ numbers: 2, matched: 1, unpaired: 1, unmodelled: 1 })
   expect(tallyLine(tally)).toBe(
@@ -95,7 +95,7 @@ test("a reading counts the numbers matched, the skills unpaired and those with n
 })
 
 test("an exact number is marked, and each line says the gap and whether it scales", () => {
-  const [brawler, lash, unknown] = comparedSkillsOf(READING, EQUATIONS).map(skillLines)
+  const [brawler, lash, unknown] = comparedSkillsOf(READING, EQUATIONS, new Set()).map(skillLines)
 
   expect(brawler?.[0]).toBe(`  Brawler (${String(BRAWLER)})`)
   expect(brawler?.[1]).toMatch(/^ {4}= <<1>> +5000 +5000 +0 {2}scaled$/)

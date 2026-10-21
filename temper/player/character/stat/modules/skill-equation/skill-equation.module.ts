@@ -38,7 +38,12 @@ export const skillEquation = {
       statement:
         "A number scaling off a stat is rounded to a whole number, and a constant is kept.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A constant tagged `+N seconds with <passive>` grows N seconds where the build holds that passive.",
+    },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T01:29:57.666Z",
+  updatedAt: "2026-10-21T02:26:45.217Z",
 } as const satisfies Module

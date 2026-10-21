@@ -1,6 +1,8 @@
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { temperScribedSkill } from "akasha/temper/catalog/skill/temper-scribed-skill/temper-scribed-skill.page-type.ts"
 import { temperSkill } from "akasha/temper/catalog/skill/temper-skill.page-type.ts"
+import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
+import { buildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import {
   equationStatsOf,
   tooltipPairingOf,
@@ -23,6 +25,7 @@ export const tooltipCaseShape = z.strictObject({
   capturedAt: z.number(),
   esoVersion: z.string(),
   stats: numbersByName,
+  passives: z.array(z.string()).optional(),
   skills: z.array(caseSkill),
   pinned: numbersByName,
   gaps: numbersByName,
@@ -49,17 +52,26 @@ export function equationsIn(root: string): Equations {
   return found
 }
 
+export function passivesOfBuild(hash: string): readonly string[] | undefined {
+  try {
+    return decodeBuild(buildHash(hash))?.passives
+  } catch {
+    return undefined
+  }
+}
+
 export function formulaOf(abilityId: number, placeholder: number): string {
   return `${String(abilityId)} <<${String(placeholder)}>>`
 }
 
 export function workedOf(read: TooltipCaseRead, equations: Equations): ReadonlyMap<string, Worked> {
   const stats = equationStatsOf(read.stats)
+  const passives = new Set(read.passives ?? [])
   const found = new Map<string, Worked>()
   for (const skill of read.skills) {
     const held = equations.get(skill.abilityId)
     if (held === undefined) continue
-    const pairing = tooltipPairingOf(skill.description, held, stats)
+    const pairing = tooltipPairingOf(skill.description, held, stats, passives)
     if (!pairing.paired) continue
     for (const one of pairing.numbers) {
       const formula = formulaOf(skill.abilityId, one.placeholder)
@@ -92,6 +104,7 @@ export function pinnedTooltipCaseOf(read: TooltipCaseRead, equations: Equations)
     capturedAt: read.capturedAt,
     esoVersion: read.esoVersion,
     stats: inNameOrder(read.stats),
+    ...(read.passives === undefined ? {} : { passives: [...read.passives].sort() }),
     skills: read.skills.map(({ abilityId, name, description }) => ({
       abilityId,
       name,

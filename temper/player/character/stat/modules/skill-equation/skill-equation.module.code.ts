@@ -99,7 +99,8 @@ export function shownNumbersOf(description: string): readonly number[] {
 export function tooltipPairingOf(
   description: string,
   equations: readonly string[],
-  stats: EquationStats
+  stats: EquationStats,
+  passives: ReadonlySet<string>
 ): TooltipPairing {
   const shown = shownNumbersOf(description)
   const numbered = equations.filter((line) => NAMES_A_NUMBER.test(line))
@@ -111,16 +112,29 @@ export function tooltipPairingOf(
       equation: line,
       scaled: equation?.scaled ?? false,
       game: shown[at] ?? 0,
-      temper: tooltipValueOf(equation, stats) ?? null,
+      temper: tooltipValueOf(equation, stats, passives) ?? null,
     }
   })
   return { paired: true, numbers }
 }
 
-function tooltipValueOf(equation: Equation | undefined, stats: EquationStats): number | undefined {
+const LONGER = /^\+(\d+(?:\.\d+)?) seconds with ([a-z0-9-]+)$/
+
+function longerBy(equation: Equation, passives: ReadonlySet<string>): number {
+  return equation.tags.reduce((sum, tag) => {
+    const matched = LONGER.exec(tag)
+    return matched !== null && passives.has(matched[2] ?? "") ? sum + Number(matched[1]) : sum
+  }, 0)
+}
+
+function tooltipValueOf(
+  equation: Equation | undefined,
+  stats: EquationStats,
+  passives: ReadonlySet<string>
+): number | undefined {
   const worked = equationValue(equation, stats)
   if (worked === undefined || equation === undefined) return undefined
-  return equation.scaled ? Math.round(worked) : worked
+  return equation.scaled ? Math.round(worked) : worked + longerBy(equation, passives)
 }
 
 export function equationValue(
