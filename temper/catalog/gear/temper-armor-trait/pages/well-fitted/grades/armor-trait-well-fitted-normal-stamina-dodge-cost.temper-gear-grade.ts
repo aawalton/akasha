@@ -8,7 +8,7 @@ export const armorTraitWellFittedNormalStaminaDodgeCost = {
   thing: "temper-armor-trait/well-fitted",
   quality: "temper-quality/normal",
   metric: "temper-metric-tree/metric-stamina-dodge-cost",
-  value: 0.0125,
+  value: 0.012,
   createdAt: "2026-09-24T14:56:02.807Z",
-  updatedAt: "2026-10-20T20:38:59.489Z",
+  updatedAt: "2026-10-21T01:20:48.260Z",
 } as const satisfies TemperGearGrade
