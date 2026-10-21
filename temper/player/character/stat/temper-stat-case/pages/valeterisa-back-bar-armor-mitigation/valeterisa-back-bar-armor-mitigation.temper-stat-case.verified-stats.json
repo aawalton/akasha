@@ -118,6 +118,7 @@
     "magicka-maximum": 66970,
     "magicka-recovery": 1351,
     "movement-sneak-speed": 100,
+    "movement-sprint-speed": 143,
     "penetration-physical": 6335,
     "penetration-spell": 6335,
     "power-spell": 2335,
@@ -146,7 +147,6 @@
     "damage-done-physical": 12,
     "damage-done-poison": 12,
     "damage-done-shock": 12,
-    "movement-sprint-speed": 143,
     "sneak-cost": 79
   }
 }

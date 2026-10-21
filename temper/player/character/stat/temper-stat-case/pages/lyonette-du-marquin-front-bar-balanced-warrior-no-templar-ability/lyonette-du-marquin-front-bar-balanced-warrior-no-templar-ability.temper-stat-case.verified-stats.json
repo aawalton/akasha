@@ -120,6 +120,7 @@
     "magicka-maximum": 14520,
     "magicka-recovery": 654,
     "movement-sneak-speed": 100,
+    "movement-sprint-speed": 137,
     "penetration-physical": 13755,
     "penetration-spell": 13755,
     "power-spell": 4144,
@@ -143,7 +144,6 @@
   "gaps": {
     "bash-damage": 830,
     "critical-damage": 20,
-    "movement-sprint-speed": 137,
     "sneak-cost": 79
   }
 }

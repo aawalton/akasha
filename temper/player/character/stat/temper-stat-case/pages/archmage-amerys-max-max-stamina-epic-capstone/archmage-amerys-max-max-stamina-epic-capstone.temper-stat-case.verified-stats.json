@@ -57,6 +57,7 @@
     "magicka-maximum": 32123,
     "magicka-recovery": 659,
     "movement-sneak-speed": 60,
+    "movement-sprint-speed": 157,
     "penetration-physical": 2974,
     "penetration-spell": 2974,
     "power-spell": 4082,
@@ -73,7 +74,6 @@
     "bash-cost": 321,
     "bash-damage": 841,
     "block-speed": 64,
-    "movement-sprint-speed": 157,
     "sneak-cost": 53,
     "stamina-block-cost": 918
   }

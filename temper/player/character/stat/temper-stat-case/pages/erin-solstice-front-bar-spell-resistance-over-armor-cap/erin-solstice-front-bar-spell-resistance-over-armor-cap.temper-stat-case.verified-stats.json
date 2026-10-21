@@ -121,6 +121,7 @@
     "inspiration-gain": 40,
     "magicka-maximum": 15128,
     "magicka-recovery": 535,
+    "movement-sprint-speed": 142,
     "penetration-physical": 7750,
     "penetration-spell": 7750,
     "power-spell": 3286,
@@ -141,7 +142,6 @@
     "healing-taken-base": 15,
     "health-recovery": 698,
     "movement-sneak-speed": 71,
-    "movement-sprint-speed": 142,
     "sneak-cost": 69,
     "stamina-recovery": 0
   }

@@ -119,6 +119,7 @@
     "health-maximum": 32622,
     "magicka-maximum": 19461,
     "magicka-recovery": 535,
+    "movement-sprint-speed": 142,
     "penetration-physical": 6263,
     "penetration-spell": 6263,
     "power-spell": 3286,
@@ -145,7 +146,6 @@
     "healing-taken-base": 15,
     "health-recovery": 1174,
     "movement-sneak-speed": 71,
-    "movement-sprint-speed": 142,
     "sneak-cost": 69
   }
 }
