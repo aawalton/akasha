@@ -10,16 +10,20 @@ import { temperScribedSkill } from "akasha/temper/catalog/skill/temper-scribed-s
 import { temperSkill } from "akasha/temper/catalog/skill/temper-skill.page-type.ts"
 import { loadSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts"
 import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
+import { loadMetricCatalog } from "akasha/temper/player/character/stat/modules/metric-catalog-loading/metric-catalog-loading.module.code.ts"
 import { linesOf } from "akasha/temper/player/character/stat/modules/reading-line-picking/reading-line-picking.module.code.ts"
 import {
+  type Bar,
   type BuildHeld,
   type CaseListed,
   type Equations,
   equationsOf,
   everyTooltipCase,
+  healingDoneOf,
   heldOfBuild,
   heldOfCase,
   pinnedTooltipCaseOf,
+  type ReadingCalculated,
   tooltipCaseOf,
   tooltipCaseShape,
   tooltipCaseText,
@@ -38,11 +42,18 @@ type Asked = Readonly<Record<string, string>>
 
 type HeldOf = (hash: string) => BuildHeld | undefined
 
+type HealingOf = (hash: string, bar: Bar, reading: ReadingCalculated) => number | undefined
+
+function noHealing(): undefined {
+  return undefined
+}
+
 function restated(
   world: World,
   listed: CaseListed,
   heldOf: HeldOf,
-  equations: Equations
+  equations: Equations,
+  healingOf: HealingOf
 ): FileChange | string {
   const { path: pageAt, slug } = listed
   const at = besideAt(pageAt, verifiedTooltips.propertySlug, "json")
@@ -70,7 +81,13 @@ function restated(
     durationMs: durations.get(one.abilityId) ?? one.durationMs,
   }))
   const held = heldOfCase(heldOf(line.buildHash), reading.data, read.bar)
-  const caseRead = { ...read, ...held, skills }
+  const healingDone = healingOf(line.buildHash, read.bar, reading.data) ?? read.healingDone
+  const caseRead = {
+    ...read,
+    ...held,
+    skills,
+    ...(healingDone === undefined ? {} : { healingDone }),
+  }
   const fresh = pinnedTooltipCaseOf(caseRead, equations)
   const kept = new Set([...Object.keys(pinned), ...Object.keys(gaps)])
   const unkept = (numbers: Readonly<Record<string, number>>) =>
@@ -102,7 +119,8 @@ export function restateTooltipCasesCommand(
   given: Asked,
   heldOf: HeldOf = () => undefined,
   listed: (root: string) => readonly CaseListed[] = everyTooltipCase,
-  equationsHeld: (over: World) => Equations = noEquations
+  equationsHeld: (over: World) => Equations = noEquations,
+  healingOf: HealingOf = noHealing
 ): Answer {
   const named = given[CASES]
   const slugs = named
@@ -120,7 +138,7 @@ export function restateTooltipCasesCommand(
   const edits: FileChange[] = []
   const equations = equationsHeld(world)
   for (const one of cases) {
-    const edit = restated(world, one, heldOf, equations)
+    const edit = restated(world, one, heldOf, equations, healingOf)
     if (typeof edit === "string") return refusing(edit)
     if (edit.kind === "replace" && edit.contentFrom !== edit.contentTo) edits.push(edit)
   }
@@ -130,6 +148,13 @@ export function restateTooltipCasesCommand(
 export const takes: readonly string[] = [CASES]
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
-  await Promise.all([loadSkillCatalog(), loadSetCatalog()])
-  return restateTooltipCasesCommand(world, given, heldOfBuild, everyTooltipCase, equationsHeldIn)
+  await Promise.all([loadSkillCatalog(), loadSetCatalog(), loadMetricCatalog()])
+  return restateTooltipCasesCommand(
+    world,
+    given,
+    heldOfBuild,
+    everyTooltipCase,
+    equationsHeldIn,
+    healingDoneOf
+  )
 }

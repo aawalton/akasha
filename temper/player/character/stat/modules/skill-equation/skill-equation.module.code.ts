@@ -9,6 +9,7 @@ export type EquationStats = {
   readonly stamina: number
   readonly spellDamage: number
   readonly weaponDamage: number
+  readonly healingDone: number
 }
 
 type Equation = {
@@ -82,7 +83,10 @@ const SHOWN = /\|c[0-9a-fA-F]{6}(-?\d+(?:\.\d+)?)\|r/g
 
 const NAMES_A_NUMBER = /^<<\d+>> = -?\d/
 
-export function equationStatsOf(stats: Readonly<Record<string, number>>): EquationStats {
+export function equationStatsOf(
+  stats: Readonly<Record<string, number>>,
+  healingDone = 0
+): EquationStats {
   const at = (key: string) => stats[key] ?? 0
   return {
     maxStat: Math.max(at("magicka-maximum"), at("stamina-maximum")),
@@ -92,6 +96,7 @@ export function equationStatsOf(stats: Readonly<Record<string, number>>): Equati
     stamina: at("stamina-maximum"),
     spellDamage: at("power-spell"),
     weaponDamage: at("power-weapon"),
+    healingDone,
   }
 }
 

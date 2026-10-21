@@ -16,6 +16,7 @@ const STATS = {
   stamina: 20000,
   spellDamage: 5000,
   weaponDamage: 4000,
+  healingDone: 0,
 }
 
 const at = (line: string) => equationValue(equationOf(line), STATS)
@@ -73,7 +74,9 @@ test("the stats an equation reads take the higher of Magicka and Stamina, and of
     stamina: 17141,
     spellDamage: 3093,
     weaponDamage: 2900,
+    healingDone: 0,
   })
+  expect(equationStatsOf(stats, 0.08).healingDone).toBe(0.08)
 })
 
 const EMBERS = [

@@ -53,6 +53,10 @@ export const restateTooltipCases = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A case restated takes the Healing Done Temper works out for its line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A case whose reading is not found is refused, and so is a slug naming no case.",
     },
     {
@@ -69,5 +73,5 @@ export const restateTooltipCases = {
   maxCpuSeconds: 60,
   maxMemoryMb: 1024,
   createdAt: "2026-10-21T03:34:20.099Z",
-  updatedAt: "2026-10-21T05:42:18.319Z",
+  updatedAt: "2026-10-21T06:14:58.367Z",
 } as const satisfies ChangeAgent

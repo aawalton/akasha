@@ -11,6 +11,7 @@ import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.co
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 import { loadSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts"
 import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
+import { loadMetricCatalog } from "akasha/temper/player/character/stat/modules/metric-catalog-loading/metric-catalog-loading.module.code.ts"
 import {
   isPicked,
   linesOf,
@@ -18,12 +19,15 @@ import {
   stampOf,
 } from "akasha/temper/player/character/stat/modules/reading-line-picking/reading-line-picking.module.code.ts"
 import {
+  type Bar,
   type BuildHeld,
   type Equations,
   equationsIn,
+  healingDoneOf,
   heldOfBuild,
   heldOfCase,
   pinnedTooltipCaseOf,
+  type ReadingCalculated,
   tooltipCaseText,
 } from "akasha/temper/player/character/stat/modules/tooltip-case/tooltip-case.module.code.ts"
 import { verifiedTooltips } from "akasha/temper/player/character/stat/temper-tooltip-case/properties/verified-tooltips.file-property.ts"
@@ -65,11 +69,18 @@ function pageFor(slug: string, title: string, typesAt: string): string {
 
 type HeldOf = (hash: string) => BuildHeld | undefined
 
+export type HealingOf = (hash: string, bar: Bar, reading: ReadingCalculated) => number | undefined
+
+function noHealing(): undefined {
+  return undefined
+}
+
 export function pinTooltipCaseCommand(
   world: World,
   given: Asked,
   equations: Equations,
-  heldOf: HeldOf = () => undefined
+  heldOf: HeldOf = () => undefined,
+  healingOf: HealingOf = noHealing
 ): Answer {
   const character = given[CHARACTER]
   if (character === undefined) return refusing(missing(CHARACTER))
@@ -125,6 +136,7 @@ export function pinTooltipCaseCommand(
   const tooltipsAt = besideAt(pageAt, verifiedTooltips.propertySlug, "json")
   const typesAt = besideAt(typeAt, "types", "ts")
   if (tooltipsAt === null || typesAt === null) return refusing(`\`${slug}\` names no page path`)
+  const healingDone = healingOf(line.buildHash, bar, reading)
   const tooltipCase = pinnedTooltipCaseOf(
     {
       character,
@@ -133,6 +145,7 @@ export function pinTooltipCaseCommand(
       esoVersion,
       stats: reading.stats,
       ...heldOfCase(heldOf(line.buildHash), reading, bar),
+      ...(healingDone === undefined ? {} : { healingDone }),
       skills: [...skills]
         .sort((one, two) => one.slot - two.slot)
         .map(({ abilityId, name, description, durationMs }) => ({
@@ -154,6 +167,6 @@ export function pinTooltipCaseCommand(
 export const takes: readonly string[] = [CHARACTER, READING, BAR, SLUG]
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
-  await Promise.all([loadSkillCatalog(), loadSetCatalog()])
-  return pinTooltipCaseCommand(world, given, equationsIn(world.root), heldOfBuild)
+  await Promise.all([loadSkillCatalog(), loadSetCatalog(), loadMetricCatalog()])
+  return pinTooltipCaseCommand(world, given, equationsIn(world.root), heldOfBuild, healingDoneOf)
 }

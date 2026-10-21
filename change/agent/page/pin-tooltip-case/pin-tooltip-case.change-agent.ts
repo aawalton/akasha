@@ -48,6 +48,10 @@ export const pinTooltipCase = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The case keeps the Healing Done Temper works out for the line's build and buffs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The case is pinned against the equations the skill pages keep on disk.",
     },
     {
@@ -75,5 +79,5 @@ export const pinTooltipCase = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-10-21T01:45:54.419Z",
-  updatedAt: "2026-10-21T04:50:32.260Z",
+  updatedAt: "2026-10-21T06:14:58.367Z",
 } as const satisfies ChangeAgent

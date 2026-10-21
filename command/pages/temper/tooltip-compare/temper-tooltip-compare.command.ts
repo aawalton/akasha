@@ -32,6 +32,11 @@ export const temperTooltipCompare = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A heal reads the Healing Done Temper works out for that reading's build and buffs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The passives, stars and weapons an equation reads are those the build hash holds on its bar.",
     },
     {
@@ -69,5 +74,5 @@ export const temperTooltipCompare = {
     { argument: "argument/json" },
   ],
   createdAt: "2026-10-21T01:29:57.666Z",
-  updatedAt: "2026-10-21T04:50:32.260Z",
+  updatedAt: "2026-10-21T06:14:58.367Z",
 } as const satisfies Command

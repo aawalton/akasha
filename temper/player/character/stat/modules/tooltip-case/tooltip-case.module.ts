@@ -93,6 +93,14 @@ export const tooltipCase = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A case keeps the Healing Done Temper worked out for its build and reading.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A case keeping no Healing Done has its heals worked with none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A case's formulas read its passives, its slotted stars and its weapons as one set held.",
     },
@@ -103,5 +111,5 @@ export const tooltipCase = {
     },
   ],
   createdAt: "2026-10-21T01:45:54.419Z",
-  updatedAt: "2026-10-21T05:36:42.191Z",
+  updatedAt: "2026-10-21T06:14:58.367Z",
 } as const satisfies Module

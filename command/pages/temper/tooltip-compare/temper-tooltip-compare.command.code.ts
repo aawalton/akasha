@@ -27,6 +27,7 @@ import { listedAt } from "akasha/page/index/modules/reading/index-reading.module
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { loadSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts"
 import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
+import { loadMetricCatalog } from "akasha/temper/player/character/stat/modules/metric-catalog-loading/metric-catalog-loading.module.code.ts"
 import {
   type ActiveHeld,
   equationStatsOf,
@@ -40,6 +41,7 @@ import {
   type BuildHeld,
   type Equations,
   equationsIn,
+  healingDoneOf,
   heldOfBuild,
   heldOfCase,
   heldSetOf,
@@ -71,9 +73,10 @@ export function comparedSkillsOf(
   reading: ReadingLine["reading"],
   equations: Equations,
   held: ReadonlySet<string>,
-  active: ActiveHeld = NOTHING_ACTIVE
+  active: ActiveHeld = NOTHING_ACTIVE,
+  healingDone = 0
 ): readonly ComparedSkill[] {
-  const stats = equationStatsOf(reading.stats)
+  const stats = equationStatsOf(reading.stats, healingDone)
   return (reading.skills ?? []).map((skill) => {
     const lines = equations.get(skill.abilityId)
     return {
@@ -168,7 +171,7 @@ export async function temperTooltipCompare(argv: readonly string[], given: Given
     id: read.taken.readingId,
   })
   if ("refused" in chosen) return refused(`\`${slug}\`: ${chosen.refused}`, INPUT)
-  await Promise.all([loadSkillCatalog(), loadSetCatalog()])
+  await Promise.all([loadSkillCatalog(), loadSetCatalog(), loadMetricCatalog()])
   const equations = equationsIn(given.root)
   const byBuild = new Map<string, BuildHeld | undefined>()
   const buildOf = (hash: string): BuildHeld | undefined => {
@@ -177,10 +180,18 @@ export async function temperTooltipCompare(argv: readonly string[], given: Given
     return build
   }
   const compared = chosen.chosen.map((line) => {
-    const held = heldOfCase(buildOf(line.buildHash), line.reading, CASE_BARS[line.bar])
+    const bar = CASE_BARS[line.bar]
+    const held = heldOfCase(buildOf(line.buildHash), line.reading, bar)
+    const healingDone = healingDoneOf(line.buildHash, bar, line.reading)
     return {
       line,
-      skills: comparedSkillsOf(line.reading, equations, heldSetOf(held), activeOf(held)),
+      skills: comparedSkillsOf(
+        line.reading,
+        equations,
+        heldSetOf(held),
+        activeOf(held),
+        healingDone
+      ),
     }
   })
   if (read.taken.json) {

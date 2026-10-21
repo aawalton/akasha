@@ -9,11 +9,13 @@ import {
   countArmorPiecesByWeight,
   getWeaponTypeIdsForBar,
 } from "akasha/temper/player/character/skill/modules/passive-queries/passive-queries.module.code.ts"
+import { calculateReadingStatsByBar } from "akasha/temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts"
 import {
   type ActiveHeld,
   equationStatsOf,
   tooltipPairingOf,
 } from "akasha/temper/player/character/stat/modules/skill-equation/skill-equation.module.code.ts"
+import { healingDoneBase } from "akasha/temper/player/character/stat/temper-metric/pages/healing-done-base/healing-done-base.temper-metric.ts"
 import { temperTooltipCase } from "akasha/temper/player/character/stat/temper-tooltip-case/temper-tooltip-case.page-type.ts"
 import { z } from "zod"
 
@@ -41,6 +43,7 @@ export const tooltipCaseShape = z.strictObject({
   championPoints: numbersByName.optional(),
   mediumPieces: z.number().optional(),
   weapons: z.array(z.string()).optional(),
+  healingDone: z.number().optional(),
   skills: z.array(caseSkill),
   pinned: numbersByName,
   gaps: numbersByName,
@@ -120,6 +123,30 @@ export function heldOfBuild(hash: string): BuildHeld | undefined {
   }
 }
 
+type Calculating = Parameters<typeof calculateReadingStatsByBar>
+
+export type ReadingCalculated = {
+  readonly activeBuffs?: Calculating[2]
+  readonly championPoints?: Calculating[3]
+}
+
+export function healingDoneOf(hash: string, bar: Bar, reading: ReadingCalculated): number {
+  let build: ReturnType<typeof decodeBuild> | undefined
+  try {
+    build = decodeBuild(buildHash(hash))
+  } catch {
+    return 0
+  }
+  if (build === null || build === undefined) return 0
+  const worked = calculateReadingStatsByBar(
+    build,
+    bar,
+    reading.activeBuffs ?? [],
+    reading.championPoints ?? []
+  )
+  return worked.metrics[healingDoneBase.slug]?.value ?? 0
+}
+
 export type ReadingHeld = {
   readonly activeBuffs?: readonly { readonly name: string; readonly stacks?: number }[]
   readonly championPoints?: readonly { readonly championSkillId: number; readonly points: number }[]
@@ -191,7 +218,7 @@ export function formulaOf(abilityId: number, placeholder: number): string {
 }
 
 export function workedOf(read: TooltipCaseRead, equations: Equations): ReadonlyMap<string, Worked> {
-  const stats = equationStatsOf(read.stats)
+  const stats = equationStatsOf(read.stats, read.healingDone)
   const built = heldSetOf(read)
   const active = activeOf(read)
   const found = new Map<string, Worked>()
@@ -255,6 +282,7 @@ export function tooltipCaseOf(
       : { championPoints: inNameOrder(read.championPoints) }),
     ...(read.mediumPieces === undefined ? {} : { mediumPieces: read.mediumPieces }),
     ...(read.weapons === undefined ? {} : { weapons: [...read.weapons].sort() }),
+    ...(read.healingDone === undefined ? {} : { healingDone: read.healingDone }),
     skills: read.skills.map(({ abilityId, name, description, durationMs }) => ({
       abilityId,
       name,
