@@ -21,12 +21,12 @@ export const innerLight40478 = {
   effects: "jsonl",
   hashPlace: 688,
   createdAt: "2026-05-28T16:03:32.859Z",
-  updatedAt: "2026-10-19T22:52:10.393Z",
+  updatedAt: "2026-10-21T01:40:37.191Z",
   equations: [
     "<<1>> = 5 seconds (Constant)",
     "<<2>> = 4 seconds (Constant)",
     "<<3>> = Major Savagery (Constant)",
     "<<4>> = 12% (Constant)",
-    "<<5>> = 2% (Constant)",
+    "<<5>> = 5% (Constant)",
   ],
 } as const satisfies TemperSkill

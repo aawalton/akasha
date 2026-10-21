@@ -20,10 +20,10 @@ export const blindingFlare61524 = {
   skillType: "temper-skill-type/active",
   hashPlace: 112,
   createdAt: "2026-05-28T16:03:31.775Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T01:40:37.191Z",
   equations: [
     "<<1>> = 5 seconds (Constant)",
-    "<<2>> = 2 seconds (Constant)",
+    "<<2>> = 4 seconds (Constant)",
     "<<3>> = 4 seconds (Constant)",
     "<<4>> = Major Protection (Constant)",
     "<<5>> = 10% (Constant)",

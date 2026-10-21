@@ -16,6 +16,11 @@ export const skillEquations = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A constant every reading's tooltip shows otherwise is written as the live game shows it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "UESP's equations are fit for game update 51.",
     },
     {
@@ -24,5 +29,5 @@ export const skillEquations = {
     },
   ],
   createdAt: "2026-10-15T15:41:52.487Z",
-  updatedAt: "2026-10-15T15:41:52.487Z",
+  updatedAt: "2026-10-21T01:40:37.191Z",
 } as const satisfies TextProperty
