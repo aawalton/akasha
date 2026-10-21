@@ -89,6 +89,7 @@
     "resistance-poison": 17621,
     "resistance-shock": 17621,
     "resistance-spell": 17621,
+    "sneak-cost": 133,
     "stamina-block-cost": 1645,
     "stamina-dodge-cost": 4646,
     "stamina-maximum": 18304,
@@ -96,7 +97,6 @@
     "stamina-sprint-cost": 432
   },
   "gaps": {
-    "bash-damage": 417,
-    "sneak-cost": 133
+    "bash-damage": 417
   }
 }

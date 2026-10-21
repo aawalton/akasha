@@ -135,6 +135,7 @@
     "resistance-critical": 1320,
     "resistance-physical": 9048,
     "resistance-spell": 15714,
+    "sneak-cost": 79,
     "stamina-block-cost": 2018,
     "stamina-dodge-cost": 3230,
     "stamina-maximum": 14398,
@@ -155,7 +156,6 @@
     "damage-done-oblivion": 12,
     "damage-done-physical": 12,
     "damage-done-poison": 12,
-    "damage-done-shock": 12,
-    "sneak-cost": 79
+    "damage-done-shock": 12
   }
 }

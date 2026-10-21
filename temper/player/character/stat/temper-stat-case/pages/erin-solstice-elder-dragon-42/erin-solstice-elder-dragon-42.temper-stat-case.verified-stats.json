@@ -127,6 +127,7 @@
     "power-spell": 3550,
     "power-weapon": 3550,
     "resistance-critical": 1320,
+    "sneak-cost": 69,
     "stamina-block-cost": 1607,
     "stamina-dodge-cost": 3856,
     "stamina-maximum": 26473,
@@ -152,7 +153,6 @@
     "resistance-physical": 31628,
     "resistance-poison": 31628,
     "resistance-shock": 32354,
-    "resistance-spell": 32354,
-    "sneak-cost": 69
+    "resistance-spell": 32354
   }
 }

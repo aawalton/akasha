@@ -60,6 +60,7 @@
     "resistance-poison": 0,
     "resistance-shock": 0,
     "resistance-spell": 0,
+    "sneak-cost": 133,
     "stamina-block-cost": 1750,
     "stamina-dodge-cost": 4040,
     "stamina-maximum": 12000,
@@ -67,7 +68,6 @@
   },
   "gaps": {
     "movement-sprint-speed": 143,
-    "sneak-cost": 133,
     "stamina-sprint-cost": 485
   }
 }

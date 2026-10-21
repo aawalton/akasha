@@ -135,6 +135,7 @@
     "resistance-critical": 1320,
     "resistance-physical": 20136,
     "resistance-spell": 20136,
+    "sneak-cost": 26,
     "stamina-block-cost": 1454,
     "stamina-maximum": 28833,
     "stamina-recovery": 2031,
@@ -143,7 +144,6 @@
   "gaps": {
     "bash-damage": 607,
     "critical-damage": 22,
-    "sneak-cost": 26,
     "stamina-dodge-cost": 2603
   }
 }

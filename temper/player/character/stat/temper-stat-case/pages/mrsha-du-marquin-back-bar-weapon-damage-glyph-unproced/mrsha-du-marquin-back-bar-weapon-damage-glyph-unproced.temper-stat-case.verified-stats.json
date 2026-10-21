@@ -140,13 +140,13 @@
     "resistance-poison": 13244,
     "resistance-shock": 13970,
     "resistance-spell": 13970,
+    "sneak-cost": 23,
     "stamina-block-cost": 1454,
     "stamina-maximum": 18991,
     "stamina-recovery": 1595,
     "stamina-sprint-cost": 273
   },
   "gaps": {
-    "sneak-cost": 23,
     "stamina-dodge-cost": 1711
   }
 }

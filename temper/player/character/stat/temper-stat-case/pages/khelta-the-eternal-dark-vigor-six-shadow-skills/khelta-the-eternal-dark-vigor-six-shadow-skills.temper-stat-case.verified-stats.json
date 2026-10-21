@@ -56,6 +56,7 @@
     "resistance-critical": 1320,
     "resistance-physical": 0,
     "resistance-spell": 0,
+    "sneak-cost": 133,
     "stamina-block-cost": 1645,
     "stamina-dodge-cost": 3798,
     "stamina-maximum": 16856,
@@ -63,7 +64,6 @@
     "stamina-sprint-cost": 432
   },
   "gaps": {
-    "movement-sprint-speed": 158.99998474121094,
-    "sneak-cost": 133
+    "movement-sprint-speed": 158.99998474121094
   }
 }

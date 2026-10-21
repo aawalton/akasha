@@ -62,6 +62,7 @@
     "resistance-critical": 1320,
     "resistance-physical": 1720,
     "resistance-spell": 1720,
+    "sneak-cost": 133,
     "stamina-block-cost": 1750,
     "stamina-dodge-cost": 4040,
     "stamina-maximum": 12434,
@@ -70,7 +71,5 @@
     "tel-var-gain": 10,
     "ultimate-recovery": 3
   },
-  "gaps": {
-    "sneak-cost": 133
-  }
+  "gaps": {}
 }

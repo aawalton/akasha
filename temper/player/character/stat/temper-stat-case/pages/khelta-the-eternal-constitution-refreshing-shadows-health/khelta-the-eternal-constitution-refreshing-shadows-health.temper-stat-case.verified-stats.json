@@ -87,6 +87,7 @@
     "resistance-poison": 20023,
     "resistance-shock": 20023,
     "resistance-spell": 20023,
+    "sneak-cost": 133,
     "stamina-block-cost": 1645,
     "stamina-dodge-cost": 4646,
     "stamina-recovery": 952,
@@ -95,7 +96,6 @@
   "gaps": {
     "bash-damage": 474,
     "magicka-maximum": 15039,
-    "sneak-cost": 133,
     "stamina-maximum": 17239
   }
 }

@@ -140,6 +140,7 @@
     "resistance-poison": 32382,
     "resistance-shock": 33108,
     "resistance-spell": 33108,
+    "sneak-cost": 69,
     "stamina-block-cost": 1607,
     "stamina-dodge-cost": 3856,
     "stamina-maximum": 26636,
@@ -150,7 +151,6 @@
     "bash-damage": 908,
     "critical-damage": 22,
     "healing-taken-base": 15,
-    "magicka-maximum": 20026,
-    "sneak-cost": 69
+    "magicka-maximum": 20026
   }
 }
