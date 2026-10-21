@@ -99,6 +99,10 @@ export const temperStatCompare = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A buff holding more than one stack is shown with its stack count.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Each reading names the stat case pinned from it, where one was.",
     },
     {
@@ -161,5 +165,5 @@ export const temperStatCompare = {
     { argument: "argument/json" },
   ],
   createdAt: "2026-10-14T14:17:00.259Z",
-  updatedAt: "2026-10-21T11:42:02.588Z",
+  updatedAt: "2026-10-21T16:07:55.491Z",
 } as const satisfies Command

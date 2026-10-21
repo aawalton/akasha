@@ -190,9 +190,11 @@ function configuredLines(one: Compared): readonly string[] {
   const points = stars.reduce((sum, star) => sum + star.points, 0)
   const few = stars.length > 0 && stars.length <= FEW_STARS
   const named = stars.map((star) => `${String(star.championSkillId)}:${String(star.points)}`)
-  const buffs = (reading.activeBuffs ?? []).map((buff) =>
-    one.unmatchedBuffs.includes(buff.name) ? `${buff.name}?` : buff.name
-  )
+  const buffs = (reading.activeBuffs ?? []).map((buff) => {
+    const said = one.unmatchedBuffs.includes(buff.name) ? `${buff.name}?` : buff.name
+    const stacks = buff.stacks ?? 0
+    return stacks > 1 ? `${said} ×${String(stacks)}` : said
+  })
   const unmatched = one.unmatchedBuffs.length > 0 ? "  (? is a buff no buff page names)" : ""
   return [
     `  worn: ${String(reading.worn?.length ?? 0)}${sets === "" ? "" : ` (${sets})`}`,
