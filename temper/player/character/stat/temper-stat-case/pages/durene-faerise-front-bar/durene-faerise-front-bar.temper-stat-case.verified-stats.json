@@ -108,11 +108,10 @@
     "power-spell": 4536,
     "power-weapon": 4536,
     "resistance-critical": 1320,
+    "resistance-physical": 22946,
+    "resistance-spell": 22946,
     "stamina-maximum": 27333,
     "stamina-recovery": 685
   },
-  "gaps": {
-    "resistance-physical": 22946,
-    "resistance-spell": 22946
-  }
+  "gaps": {}
 }
