@@ -46,6 +46,7 @@ export const tooltipCaseShape = z.strictObject({
   esoVersion: z.string(),
   stats: numbersByName,
   passives: z.array(z.string()).optional(),
+  ranks: numbersByName.optional(),
   stars: z.array(z.string()).optional(),
   buffs: z.array(z.string()).optional(),
   stacks: numbersByName.optional(),
@@ -120,18 +121,21 @@ export function skillStatsOf(
   abilityId: number,
   skills: readonly { readonly abilityId: number }[],
   held: ReadonlySet<string>,
-  lines: SkillLines
+  lines: SkillLines,
+  ranks: Readonly<Record<string, number>> = {}
 ): EquationStats {
   const slotted = skills.map((one) => lines.get(one.abilityId))
   const healingDone = healingDoneOfSkill(stats.healingDone, lines.get(abilityId), slotted, held)
-  const powerShare = SLOTTED_POWER.filter((one) => held.has(one.held)).reduce(
+  const powerShare = SLOTTED_POWER.filter(
+    (one) => held.has(one.held) && ranks[one.held] === one.rank
+  ).reduce(
     (sum, one) => sum + one.shareEach * slotted.filter((line) => line === one.line).length,
     0
   )
   return { ...stats, healingDone, powerShare }
 }
 
-const SLOTTED_POWER = [{ held: slayer.slug, line: slayer.skillLineId, shareEach: 0.03 }]
+const SLOTTED_POWER = [{ held: slayer.slug, line: slayer.skillLineId, shareEach: 0.03, rank: 3 }]
 
 export type CaseListed = { readonly path: string; readonly slug: string }
 
@@ -144,8 +148,21 @@ export function everyTooltipCase(root: string): readonly CaseListed[] {
 
 export type Bar = TooltipCase["bar"]
 
+const RANKS_KEPT: readonly string[] = [slayer.slug]
+
+function ranksOf(
+  stated: Readonly<Partial<Record<string, number>>> | undefined
+): Pick<BuildHeld, "ranks"> {
+  const kept = RANKS_KEPT.flatMap((slug) => {
+    const rank = stated?.[slug]
+    return rank === undefined ? [] : [[slug, rank] as const]
+  })
+  return kept.length === 0 ? {} : { ranks: Object.fromEntries(kept) }
+}
+
 export type BuildHeld = {
   readonly passives: string[]
+  readonly ranks?: Readonly<Record<string, number>>
   readonly stars: string[]
   readonly mediumPieces: number
   readonly weapons?: Readonly<Record<Bar, readonly string[]>>
@@ -162,6 +179,7 @@ export function heldOfBuild(hash: string): BuildHeld | undefined {
   const { warfare, fitness, craft } = build.championPoints
   return {
     passives: [...build.passives],
+    ...ranksOf(build.passiveRanks),
     stars: [...warfare.slotted, ...fitness.slotted, ...craft.slotted],
     mediumPieces: countArmorPiecesByWeight(build.equipment.armor).medium,
     weapons: {
@@ -244,6 +262,7 @@ export function heldOfCase(
 ): Pick<
   TooltipCaseRead,
   | "passives"
+  | "ranks"
   | "stars"
   | "buffs"
   | "stacks"
@@ -299,7 +318,7 @@ export function workedOf(
     const pairing = tooltipPairingOf(
       skill.description,
       held,
-      skillStatsOf(stats, skill.abilityId, read.skills, built, lines),
+      skillStatsOf(stats, skill.abilityId, read.skills, built, lines, read.ranks),
       built,
       active,
       skill.durationMs,
@@ -350,6 +369,7 @@ export function tooltipCaseOf(
     esoVersion: read.esoVersion,
     stats: inNameOrder(read.stats),
     ...(read.passives === undefined ? {} : { passives: [...read.passives].sort() }),
+    ...(read.ranks === undefined ? {} : { ranks: inNameOrder(read.ranks) }),
     ...(read.stars === undefined ? {} : { stars: [...read.stars].sort() }),
     ...(read.buffs === undefined ? {} : { buffs: [...read.buffs].sort() }),
     ...(read.stacks === undefined ? {} : { stacks: inNameOrder(read.stacks) }),

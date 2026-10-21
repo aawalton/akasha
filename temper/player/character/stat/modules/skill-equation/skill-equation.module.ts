@@ -170,7 +170,8 @@ export const skillEquation = {
     },
     {
       decisionKind: "decision-kind/stopgap",
-      statement: "Only Slayer at rank 3 has been read, so a lower rank is worked as rank 3.",
+      statement:
+        "Only Slayer at rank 3 has been read, so a lower rank grows that power not at all.",
     },
     {
       decisionKind: "decision-kind/stopgap",
@@ -267,5 +268,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T13:23:17.624Z",
+  updatedAt: "2026-10-21T13:27:02.492Z",
 } as const satisfies Module

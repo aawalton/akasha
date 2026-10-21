@@ -98,6 +98,10 @@ export const tooltipCase = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A case keeps the rank its build holds of each passive a formula reads by rank.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A case keeps the points its character had in War Mage and in Mighty.",
     },
     {
@@ -124,5 +128,5 @@ export const tooltipCase = {
     },
   ],
   createdAt: "2026-10-21T01:45:54.419Z",
-  updatedAt: "2026-10-21T11:04:10.698Z",
+  updatedAt: "2026-10-21T13:27:02.492Z",
 } as const satisfies Module

@@ -136,6 +136,9 @@
     "wood-extraction",
     "woodworking"
   ],
+  "ranks": {
+    "slayer": 3
+  },
   "stars": [
     "bastion",
     "biting-aura",

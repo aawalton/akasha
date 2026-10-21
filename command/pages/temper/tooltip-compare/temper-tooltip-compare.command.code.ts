@@ -79,13 +79,14 @@ export function comparedSkillsOf(
   held: ReadonlySet<string>,
   active: ActiveHeld = NOTHING_ACTIVE,
   healingDone = 0,
-  lineOf: SkillLines = new Map()
+  lineOf: SkillLines = new Map(),
+  ranks: Readonly<Record<string, number>> = {}
 ): readonly ComparedSkill[] {
   const stats = equationStatsOf(reading.stats, healingDone)
   const skills = reading.skills ?? []
   return skills.map((skill) => {
     const lines = equations.get(skill.abilityId)
-    const skillStats = skillStatsOf(stats, skill.abilityId, skills, held, lineOf)
+    const skillStats = skillStatsOf(stats, skill.abilityId, skills, held, lineOf, ranks)
     return {
       slot: skill.slot,
       abilityId: skill.abilityId,
@@ -208,7 +209,8 @@ export async function temperTooltipCompare(argv: readonly string[], given: Given
         heldSetOf(held),
         activeOf(held),
         healingDone,
-        lineOf
+        lineOf,
+        held.ranks
       ),
     }
   })
