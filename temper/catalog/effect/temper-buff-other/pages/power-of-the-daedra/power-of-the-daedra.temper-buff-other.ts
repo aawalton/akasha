@@ -8,8 +8,8 @@ export const powerOfTheDaedra = {
   key: "power-of-the-daedra",
   effectCategory: "damage",
   description:
-    "A buff Maviola's sheet reads as 10% damage done in every damage row whenever it is up; its source is not yet known.",
+    "A Dark Anchor's buff, given as an Anchor Pinion's ability 46689 strikes, adding 10% damage done.",
   effects: "jsonl",
   createdAt: "2026-10-21T03:53:16.333Z",
-  updatedAt: "2026-10-21T03:53:16.333Z",
+  updatedAt: "2026-10-21T04:18:03.327Z",
 } as const satisfies TemperBuffOther
