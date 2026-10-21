@@ -13,7 +13,7 @@ import {
 } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { loadSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts"
 import { buildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import { skillCatalog } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts"
+import { classMasteriesOf } from "akasha/temper/player/character/skill/modules/reading-class-masteries/reading-class-masteries.module.code.ts"
 import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
 import { resultOf } from "akasha/temper/player/character/stat/modules/build-reading-lines/build-reading-lines.module.code.ts"
 import {
@@ -33,15 +33,6 @@ type Json = Record<string, unknown>
 type Outcome = "written" | "already" | "undecoded" | "unrounded"
 
 type Counts = Record<Outcome, number>
-
-function masteriesOf(reading: Json): readonly string[] {
-  const passives = reading["classPassives"]
-  if (!Array.isArray(passives)) return []
-  const held = new Set<unknown>(passives.map((one) => (isRecord(one) ? one["abilityId"] : null)))
-  return skillCatalog()
-    .classMasteries.list.filter((mastery) => held.has(mastery.esoSkillId))
-    .map((mastery) => mastery.id)
-}
 
 function rehashed(hash: string, masteries: readonly string[]): [Outcome, string] {
   const build = decodeBuild(buildHash(hash))
@@ -66,7 +57,7 @@ function rewritten(text: string, run: Run): string {
   if (typeof character !== "string" || typeof hash !== "string" || typeof bar !== "string")
     return text
   if (!isRecord(reading)) return text
-  const masteries = masteriesOf(reading)
+  const masteries = classMasteriesOf(reading["classPassives"])
   if (masteries.length === 0) return text
   run.held.set(`${run.slug}@${String(reading["capturedAt"])}`, masteries)
   const [outcome, written] = rehashed(hash, masteries)

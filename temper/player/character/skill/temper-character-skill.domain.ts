@@ -23,6 +23,7 @@ export const temperCharacterSkill = {
     "module/skill-line-queries",
     "module/held-skill-catalog",
     "module/skill-catalog-loading",
+    "module/reading-class-masteries",
     "domain/temper-skill-point-finder",
     "domain/temper-character-skill-line",
   ],
@@ -38,5 +39,5 @@ export const temperCharacterSkill = {
     },
   ],
   createdAt: "2026-09-02T09:36:31.858Z",
-  updatedAt: "2026-09-26T19:35:56.000Z",
+  updatedAt: "2026-10-21T13:57:11.102Z",
 } as const satisfies Domain

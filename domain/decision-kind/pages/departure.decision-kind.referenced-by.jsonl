@@ -6436,6 +6436,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/line/temper-character-skill-line.domain.ts","id":"01a0608a-c135-79d5-91c5-4cf48adc59f3"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/character-skills/character-skills.module.ts","id":"01a06187-b3a1-7211-9955-637919a983d5"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.ts","id":"01a0de72-b25f-7e1a-a89a-ce881f70b14a"}
+{"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/reading-class-masteries/reading-class-masteries.module.ts","id":"01a15ec0-6b3e-7dbf-a402-a757764e144e"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/scribed-skill-source/scribed-skill-source.module.ts","id":"01a06187-b3a2-76d2-b668-400fec70d2e3"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/scribed-skills/scribed-skills.module.ts","id":"01a0617c-86c3-714d-94b6-7c2e12d57a1a"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.ts","id":"01a0617c-86c1-7ff1-9fbb-5185c2f3eb4d"}

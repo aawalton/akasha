@@ -6039,6 +6039,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/modules/passive-queries/passive-queries.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/modules/query-shapes/query-shapes.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/modules/reading-class-masteries/reading-class-masteries.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/modules/scribed-skill-source/scribed-skill-source.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/modules/scribed-skill-template/scribed-skill-template.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/modules/scribed-skill-types/scribed-skill-types.module.ts","typed":true,"deferred":false}

@@ -20,9 +20,9 @@ const CASE_AT =
 const SAVED_AT_MINOR_TEN =
   "ATQKcorAAIBihYxC4RtACFvVaACLWe25EWs9tyItZ7bkRaz23Ii1ntuQgvVbchBeq25CDYetyIGj1W3LgAAAAAAAALZgAAAAAabgoggETopRJwCsRgYIEiAbg0DYBoCQziTVCiZUGwAZJxPggDhHBDhChCRAQGRGZGJARAZGpGBGRmIAREBkAAhmRGB0ZGB0REyEZkZABFBERFRmRERkda7GfKakWJMrHky5pcybOz6NOrXtn0KNKnU8VVkdWvNnj65egYskLRE2RunaRKmTv1CmCqhK46wwcNkjYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TjAAZBvDJJ4A"
 
-const HELD = [{ abilityId: 263605 }, { abilityId: 45060 }, { abilityId: 263604 }]
+const HELD = { "1": { abilityId: 263605 }, "2": { abilityId: 45060 }, "3": { abilityId: 263604 } }
 
-function lineOf(id: string, capturedAt: number, classPassives?: readonly unknown[]): string {
+function lineOf(id: string, capturedAt: number, classPassives?: typeof HELD): string {
   const reading = {
     capturedAt,
     stats: { "critical-damage": 57 },

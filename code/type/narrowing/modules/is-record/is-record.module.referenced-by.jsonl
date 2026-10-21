@@ -63,6 +63,7 @@
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/eso/string/modules/engine-strings-reading/engine-strings-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/items/core/modules/inventory-guild-bank-types/inventory-guild-bank-types.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/items/filters/core/modules/search-range-value-parse/search-range-value-parse.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/player/character/skill/modules/reading-class-masteries/reading-class-masteries.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/player/character/stat/modules/reading-hash-rewriting/reading-hash-rewriting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-merge-forward/completion-merge-forward.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-merge-forward/completion-merge-forward.module.test-fixtures.ts","typed":false,"deferred":false}
