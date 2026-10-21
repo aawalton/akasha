@@ -146,7 +146,10 @@ const activeBuffSchema = z.strictObject({
   description: z.string().optional(),
   effect: z.string().optional(),
   stacks: z.number().optional(),
-  powerAtOnset: z.strictObject({ weapon: z.number(), spell: z.number() }).optional(),
+  powerAtOnset: z.preprocess(
+    (onset) => onset ?? undefined,
+    z.strictObject({ weapon: z.number(), spell: z.number() }).optional()
+  ),
 })
 
 const feteSchema = z.strictObject({

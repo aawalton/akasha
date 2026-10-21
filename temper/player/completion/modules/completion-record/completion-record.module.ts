@@ -45,6 +45,10 @@ export const completionRecord = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A buff whose onset the add-on never saw keeps that Damage as null, read as none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reading of reported stats keeps the points spent on each champion star.",
     },
     {
@@ -135,5 +139,5 @@ export const completionRecord = {
     },
   ],
   createdAt: "2026-09-02T04:57:23.388Z",
-  updatedAt: "2026-10-21T09:24:16.485Z",
+  updatedAt: "2026-10-21T10:15:33.168Z",
 } as const satisfies Module
