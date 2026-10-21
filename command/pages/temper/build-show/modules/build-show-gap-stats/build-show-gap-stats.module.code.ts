@@ -10,25 +10,25 @@ import type { CharacterState } from "akasha/temper/player/character/build/module
 import { calculateBuildStatsByBar } from "akasha/temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts"
 import { metrics } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.code.ts"
 
-export type BarValues = { readonly front: number; readonly back: number }
+type BarValues = { readonly front: number; readonly back: number }
 
-export type StatChange = { readonly stat: string } & BarValues
+type StatChange = { readonly stat: string } & BarValues
 
-export type Gap = {
+type Gap = {
   readonly place: string
   readonly want: string
   readonly have: string
   readonly changes: readonly StatChange[]
 }
 
-export type Total = {
+type Total = {
   readonly stat: string
   readonly design: BarValues
   readonly character: BarValues
   readonly difference: BarValues
 }
 
-export type Gaps = {
+type Gaps = {
   readonly target: string | null
   readonly gaps: readonly Gap[]
   readonly totals: readonly Total[]
