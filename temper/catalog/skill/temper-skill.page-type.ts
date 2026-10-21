@@ -15,6 +15,7 @@ export const temperSkill = {
     "number-property/skill-rank",
     "page-type/temper-affix-script",
     "page-type/temper-class",
+    "page-type/temper-class-mastery",
     "page-type/temper-focus-script",
     "page-type/temper-grimoire",
     "page-type/temper-scribed-skill",
@@ -59,5 +60,5 @@ export const temperSkill = {
     "temper/player/character/build/build-codec/modules/build-codec-v52-skill-pages/build-codec-v52-skill-pages.data-table.code.ts SKILL_PAGES_BEFORE_MINOR_10",
   ],
   createdAt: "2026-09-02T01:45:21.036Z",
-  updatedAt: "2026-10-21T05:36:42.191Z",
+  updatedAt: "2026-10-21T13:24:41.666Z",
 } as const satisfies PageType

@@ -5746,6 +5746,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/slot/modules/skill-slot-ids-keeping/skill-slot-ids-keeping.change-generator.ts","id":"01a0e0c2-45db-7057-b85c-5a2a010f144f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/slot/modules/skill-slot-ids/skill-slot-ids.data-table.ts","id":"01a0e0c2-45db-7c1a-8de2-ff396ebc255f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/slot/temper-skill-slot.page-type.ts","id":"01a05fca-cb8b-79ed-ae49-1fdf5f38602a"}
+{"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-class-mastery/temper-class-mastery.page-type.ts","id":"01a15ea2-ac42-78d4-b050-c846f12a7b15"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-class/modules/class-ids-keeping/class-ids-keeping.change-generator.ts","id":"01a0e08d-6075-7446-8172-389d3faa1db4"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-class/modules/class-ids/class-ids.data-table.ts","id":"01a0e08d-6075-7d2d-a242-ca61bb1be908"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-affix-rows/grimoire-affix-rows.module.ts","id":"01a0d8d6-bfb1-7643-9c74-a5008642408e"}

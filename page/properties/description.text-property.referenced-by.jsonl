@@ -18,6 +18,7 @@
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/gear/temper-potion-crown/temper-potion-crown.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/gear/temper-potion-dropped/temper-potion-dropped.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/gear/temper-set/properties/bonuses.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/skill/temper-class-mastery/temper-class-mastery.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/affix-scripts.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/signature-scripts.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/skill/temper-skill.page-type.types.ts","typed":true,"deferred":false}
@@ -51,6 +52,7 @@
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-potion-crown/temper-potion-crown.page-type.ts","id":"01a05fd1-d434-7ce2-a20b-6926bf033e6f"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-potion-dropped/temper-potion-dropped.page-type.ts","id":"01a05fd1-d435-7e26-b0e7-584020995ebe"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-set/properties/bonuses.page-property-entry.ts","id":"01a05fd1-d437-730d-b6e2-e46b2bc06210"}
+{"propertySlug":"page-property","path":"temper/catalog/skill/temper-class-mastery/temper-class-mastery.page-type.ts","id":"01a15ea2-ac42-78d4-b050-c846f12a7b15"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/temper-grimoire/properties/affix-scripts.page-property-entry.ts","id":"01a05fca-cb80-7359-bca5-e38d0406dff4"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/temper-grimoire/properties/signature-scripts.page-property-entry.ts","id":"01a05fca-cb86-72c5-aca4-0aea9d43b601"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}

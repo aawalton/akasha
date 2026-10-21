@@ -1,5 +1,7 @@
 {"propertySlug":"import","fileName":"eso-skill-id.number-property.types.ts","path":"temper/catalog/skill/properties/skill-variants.record-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"eso-skill-id.number-property.types.ts","path":"temper/catalog/skill/temper-class-mastery/temper-class-mastery.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"eso-skill-id.number-property.types.ts","path":"temper/catalog/skill/temper-skill.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/skill/properties/skill-variants.record-property.ts","id":"01a15cf6-36cf-7f46-b419-6fc9b886c39d"}
+{"propertySlug":"page-property","path":"temper/catalog/skill/temper-class-mastery/temper-class-mastery.page-type.ts","id":"01a15ea2-ac42-78d4-b050-c846f12a7b15"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}
 {"propertySlug":"parts","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}

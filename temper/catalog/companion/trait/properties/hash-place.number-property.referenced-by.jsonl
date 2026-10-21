@@ -24,6 +24,7 @@
 {"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/skill/line/temper-skill-line.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/skill/slot/temper-skill-slot.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/skill/temper-class-mastery/temper-class-mastery.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/skill/temper-class/temper-class.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/skill/temper-grimoire/temper-grimoire.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/skill/temper-script/temper-script.page-type.types.ts","typed":true,"deferred":false}
@@ -59,6 +60,7 @@
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts","id":"01a05fd1-d442-7b45-8a20-d4ff90ea6255"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/line/temper-skill-line.page-type.ts","id":"01a05fca-cb8b-7189-8133-38b9f311342c"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/slot/temper-skill-slot.page-type.ts","id":"01a05fca-cb8b-79ed-ae49-1fdf5f38602a"}
+{"propertySlug":"page-property","path":"temper/catalog/skill/temper-class-mastery/temper-class-mastery.page-type.ts","id":"01a15ea2-ac42-78d4-b050-c846f12a7b15"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/temper-class/temper-class.page-type.ts","id":"01a05fca-cb89-7c15-a7d1-9bf0b42293c8"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/temper-grimoire/temper-grimoire.page-type.ts","id":"01a05fca-cb89-7d99-aa9d-e89e410a0f89"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/temper-script/temper-script.page-type.ts","id":"01a05fca-cb8d-7226-b1b1-e268930470a2"}
