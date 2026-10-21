@@ -134,6 +134,13 @@
   "gaps": {
     "bash-damage": 794,
     "critical-damage": 10,
+    "defense-bleed-mitigation": 42.41363525390625,
+    "defense-disease-mitigation": 42.41363525390625,
+    "defense-flame-mitigation": 42.41363525390625,
+    "defense-frost-mitigation": 42.41363525390625,
+    "defense-magic-mitigation": 42.41363525390625,
+    "defense-poison-mitigation": 42.41363525390625,
+    "defense-shock-mitigation": 42.41363525390625,
     "healing-taken-base": 17,
     "health-maximum": 40866,
     "resistance-bleed": 27993,
