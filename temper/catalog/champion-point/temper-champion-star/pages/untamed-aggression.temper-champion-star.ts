@@ -9,7 +9,8 @@ export const untamedAggression = {
   esoChampionSkillId: 4,
   championConstellation: "warfare",
   isSlottable: true,
+  effects: [{ metric: "temper-metric/power", effectType: "integer", value: 150 }],
   hashPlace: 85,
   createdAt: "2026-09-27T05:00:00.924Z",
-  updatedAt: "2026-10-14T17:52:22.074Z",
+  updatedAt: "2026-10-21T15:43:21.626Z",
 } as const satisfies TemperChampionStar

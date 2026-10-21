@@ -152,6 +152,8 @@
     "movement-sprint-speed": 165,
     "penetration-physical": 10346,
     "penetration-spell": 10346,
+    "power-spell": 7541,
+    "power-weapon": 7541,
     "resistance-bleed": 11199,
     "resistance-critical": 1320,
     "resistance-disease": 13509,
@@ -170,8 +172,6 @@
     "stamina-sprint-cost": 198
   },
   "gaps": {
-    "bash-damage": 434,
-    "power-spell": 7541,
-    "power-weapon": 7541
+    "bash-damage": 434
   }
 }
