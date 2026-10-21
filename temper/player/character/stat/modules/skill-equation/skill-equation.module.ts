@@ -218,6 +218,10 @@ export const skillEquation = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A constant tagged `Heal` grows by the build's healing done and is rounded.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A heal's stat term and power term are each rounded down before they are summed.",
     },
     {
@@ -271,5 +275,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T14:41:59.956Z",
+  updatedAt: "2026-10-21T15:46:00.523Z",
 } as const satisfies Module

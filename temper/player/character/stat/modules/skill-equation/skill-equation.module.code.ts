@@ -353,6 +353,7 @@ function tooltipValueOf(
   if (worked === undefined) return undefined
   if (!equation.scaled) {
     const kept = worked + longerBy(equation, passives)
+    if (equation.tags.includes(HEAL)) return Math.round((1 + stats.healingDone) * kept)
     if (!equation.tags.includes(SHIELD)) return kept
     return Math.round(shieldBonusOf(equation, passives, active) * kept)
   }

@@ -20,9 +20,9 @@ export const darkDeal24595 = {
   skillType: "temper-skill-type/active",
   hashPlace: 307,
   createdAt: "2026-05-28T16:03:32.085Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T15:46:00.523Z",
   equations: [
-    "<<1>> = 8000 (Constant)",
+    "<<1>> = 8000 (Constant, Heal)",
     "<<2>> = 3600 (Constant)",
     "<<3>> = 2400 (Constant)",
     "<<4>> = 10 seconds (Constant)",

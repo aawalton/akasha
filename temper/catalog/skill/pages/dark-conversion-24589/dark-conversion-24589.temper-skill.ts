@@ -20,9 +20,9 @@ export const darkConversion24589 = {
   skillType: "temper-skill-type/active",
   hashPlace: 305,
   createdAt: "2026-05-28T16:03:32.083Z",
-  updatedAt: "2026-10-21T04:44:10.789Z",
+  updatedAt: "2026-10-21T15:46:00.523Z",
   equations: [
-    "<<1>> = 9700 (Constant)",
+    "<<1>> = 10000 (Constant, Heal)",
     "<<2>> = 4500 (Constant)",
     "<<3>> = 3000 (Constant)",
     "<<4>> = 20 seconds (Constant)",
