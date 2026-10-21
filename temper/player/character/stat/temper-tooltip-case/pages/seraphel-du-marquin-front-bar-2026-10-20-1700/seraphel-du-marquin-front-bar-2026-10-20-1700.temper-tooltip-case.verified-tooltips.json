@@ -124,6 +124,9 @@
     "war-mage": 30
   },
   "mediumPieces": 5,
+  "weapons": [
+    "inferno-staff"
+  ],
   "skills": [
     {
       "abilityId": 185842,

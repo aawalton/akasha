@@ -156,6 +156,9 @@
     "war-mage": 30
   },
   "mediumPieces": 2,
+  "weapons": [
+    "maul"
+  ],
   "skills": [
     {
       "abilityId": 185842,

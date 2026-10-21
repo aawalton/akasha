@@ -64,6 +64,9 @@
     "war-mage": 0
   },
   "mediumPieces": 0,
+  "weapons": [
+    "axe"
+  ],
   "skills": [
     {
       "abilityId": 38317,

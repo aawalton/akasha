@@ -154,6 +154,9 @@
     "war-mage": 30
   },
   "mediumPieces": 2,
+  "weapons": [
+    "greatsword"
+  ],
   "skills": [
     {
       "abilityId": 183047,

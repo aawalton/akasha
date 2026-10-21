@@ -136,6 +136,9 @@
     "war-mage": 0
   },
   "mediumPieces": 6,
+  "weapons": [
+    "battleaxe"
+  ],
   "skills": [
     {
       "abilityId": 108840,

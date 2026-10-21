@@ -147,6 +147,9 @@
     "war-mage": 30
   },
   "mediumPieces": 1,
+  "weapons": [
+    "lightning-staff"
+  ],
   "skills": [
     {
       "abilityId": 40457,

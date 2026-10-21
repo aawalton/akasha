@@ -187,6 +187,9 @@
     "war-mage": 30
   },
   "mediumPieces": 0,
+  "weapons": [
+    "dagger"
+  ],
   "skills": [
     {
       "abilityId": 34838,
