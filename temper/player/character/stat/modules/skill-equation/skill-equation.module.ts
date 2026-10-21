@@ -165,8 +165,9 @@ export const skillEquation = {
         "Only 0 and 30 points of War Mage and Mighty have been read, so fewer than 30 add nothing.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "A pet's damage is worked as the caster's own, and its numbers are kept as gaps.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Summon Shade's damage reads the caster's higher stat and power, tagged `single precision`.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -259,5 +260,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T10:05:07.267Z",
+  updatedAt: "2026-10-21T10:46:01.448Z",
 } as const satisfies Module
