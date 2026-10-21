@@ -1,43 +1,5 @@
 {
   "build": {
-    "jewelry": {
-      "1": {
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Quickened"
-      },
-      "2": {
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Quickened"
-      },
-      "3": {
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Quickened"
-      }
-    },
-    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
-    "skillAbilityIds": {
-      "1": 153685,
-      "2": 155408,
-      "3": 157287,
-      "4": 154790,
-      "5": 153066,
-      "6": 157259
-    },
     "armor": {
       "1": {
         "isEmpty": false,
@@ -123,8 +85,46 @@
         "displayText": "Empty"
       }
     },
+    "jewelry": {
+      "1": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Quickened"
+      },
+      "2": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Quickened"
+      },
+      "3": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Quickened"
+      }
+    },
+    "mainHandWeaponType": 9,
+    "skillAbilityIds": {
+      "1": 153685,
+      "2": 155408,
+      "3": 157287,
+      "4": 154790,
+      "5": 153066,
+      "6": 157259
+    },
     "companionId": 2,
-    "mainHandWeaponType": 9
+    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA"
   },
   "targetBuildHash": "AjEAItC0LQtC0LQtDQ0NGNOzqtY7WAA",
   "level": 20,
