@@ -173,7 +173,7 @@ function keyedIn(table: Entries, byId: boolean): readonly string[] {
   return table.entries.map((slug, at) => ids[at] ?? slug)
 }
 
-export function movedBetween(was: Entries, now: Entries): readonly Moved[] {
+function movedBetween(was: Entries, now: Entries): readonly Moved[] {
   const byId = was.ids !== undefined && now.ids !== undefined
   const keys = keyedIn(was, byId)
   const named = new Map(keys.map((key, at) => [key, was.entries[at] ?? key]))
