@@ -50,6 +50,7 @@ export type MetricId =
   | "damage-done-heavy-attack"
   | "damage-done-magic"
   | "damage-done-magic-without-base"
+  | "damage-done-monsters"
   | "damage-done-oblivion"
   | "damage-done-pet"
   | "damage-done-physical"

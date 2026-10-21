@@ -99,6 +99,7 @@
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/damage-done-heavy-attack/damage-done-heavy-attack.temper-metric.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/damage-done-magic-without-base/damage-done-magic-without-base.temper-metric.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/damage-done-magic/damage-done-magic.temper-metric.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/damage-done-monsters/damage-done-monsters.temper-metric.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/damage-done-oblivion/damage-done-oblivion.temper-metric.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/damage-done-pet/damage-done-pet.temper-metric.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/damage-done-physical-without-base/damage-done-physical-without-base.temper-metric.ts","typed":true,"deferred":false}
