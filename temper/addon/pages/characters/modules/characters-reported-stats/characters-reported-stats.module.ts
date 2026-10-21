@@ -35,6 +35,11 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A reading keeps the Weapon and Spell Damage each buff began with, where the add-on saw it begin.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reading keeps Escalating Fete's stacks and how long ago Fete last changed.",
     },
     {
@@ -196,5 +201,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-20T18:02:43.455Z",
+  updatedAt: "2026-10-21T04:05:39.502Z",
 } as const satisfies Module

@@ -41,6 +41,10 @@ export const completionRecord = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A buff in a reading may keep the Weapon and Spell Damage held as it began.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reading of reported stats keeps the points spent on each champion star.",
     },
     {
@@ -127,5 +131,5 @@ export const completionRecord = {
     },
   ],
   createdAt: "2026-09-02T04:57:23.388Z",
-  updatedAt: "2026-10-20T18:02:43.455Z",
+  updatedAt: "2026-10-21T04:05:39.502Z",
 } as const satisfies Module

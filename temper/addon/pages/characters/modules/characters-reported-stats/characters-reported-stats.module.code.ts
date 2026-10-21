@@ -1,3 +1,4 @@
+import { activeBuffs } from "akasha/temper/addon/pages/characters/modules/characters-active-buffs/characters-active-buffs.module.code.ts"
 import {
   advancedSheet,
   advancedSheetSaid,
@@ -68,30 +69,6 @@ function advancedStats(): Record<string, number> {
     advanced[name] = (percent ?? 0) / PERCENT
   }
   return advanced
-}
-
-type ActiveBuff = {
-  abilityId: number
-  name: string
-  description: string
-  effect: string
-  stacks: number
-}
-
-function activeBuffs(): ActiveBuff[] {
-  const buffs: ActiveBuff[] = []
-  const count = GetNumBuffs("player")
-  for (let index = 1; index <= count; index++) {
-    const [name, , , buffSlot, stacks, , , , , , abilityId] = GetUnitBuffInfo("player", index)
-    buffs.push({
-      abilityId,
-      name: zo_strformat("<<1>>", name),
-      description: GetAbilityDescription(abilityId, undefined, "player"),
-      effect: GetAbilityEffectDescription(buffSlot),
-      stacks,
-    })
-  }
-  return buffs
 }
 
 type Pet = {

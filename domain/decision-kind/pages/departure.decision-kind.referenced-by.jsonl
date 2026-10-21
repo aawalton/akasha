@@ -4389,6 +4389,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/temper-addon-catalog.temper-addon.ts","id":"01a063ba-94e5-7c5d-b338-174ed9b6a224"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/characters-config-global/characters-config-global.lua-module.ts","id":"01a062e8-bed7-7010-8998-ffe3116644d2"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/companions-config/companions-config.lua-module.ts","id":"01a0611d-84d1-7c75-9512-d3ca1613f0bb"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-active-buffs/characters-active-buffs.module.ts","id":"01a15ca2-dc2f-7ddf-966d-ef4024e03d35"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-active-quests/characters-active-quests.module.ts","id":"01a062e9-b6ff-701c-9ee8-9608dc0eea33"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-advanced-sheet/characters-advanced-sheet.module.ts","id":"01a15914-c8bb-7852-9ff3-24f2e4cd67c3"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-advanced-stats/characters-advanced-stats.module.ts","id":"01a15588-1401-7b6f-bb93-7613df4e6887"}

@@ -38,7 +38,12 @@ export const charactersEventsBuild = {
       decisionKind: "decision-kind/departure",
       statement: "Every change to a buff on the player is handed on to be noted where it is Fete.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every change to a buff on the player is handed on to note the power it began with.",
+    },
   ],
   createdAt: "2026-09-02T17:32:20.771Z",
-  updatedAt: "2026-10-20T14:12:02.929Z",
+  updatedAt: "2026-10-21T04:05:39.502Z",
 } as const satisfies Module

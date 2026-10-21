@@ -1,3 +1,4 @@
+import { noteBuffOnset } from "akasha/temper/addon/pages/characters/modules/characters-active-buffs/characters-active-buffs.module.code.ts"
 import { refreshAdvancedStatsReading } from "akasha/temper/addon/pages/characters/modules/characters-advanced-stats/characters-advanced-stats.module.code.ts"
 import { registerElderDragonPairing } from "akasha/temper/addon/pages/characters/modules/characters-elder-dragon-pairing/characters-elder-dragon-pairing.module.code.ts"
 import { noteFeteChanged } from "akasha/temper/addon/pages/characters/modules/characters-escalating-fete/characters-escalating-fete.module.code.ts"
@@ -75,6 +76,7 @@ function onPlayerEffectChanged(
   abilityId: number
 ): undefined {
   noteFeteChanged(changeType, stackCount, abilityId)
+  noteBuffOnset(changeType, abilityId)
   if (changeType === EFFECT_RESULT_GAINED || changeType === EFFECT_RESULT_FADED) {
     scheduleBuildCapture()
   }
