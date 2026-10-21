@@ -7,7 +7,8 @@ type Stale = {
 
 const SPRINT_SPEED = "movement-sprint-speed"
 
-const DAMAGE_DONE = new Set([
+const ONSET_DAMAGE = new Set([
+  "bash-damage",
   "damage-done-bleed",
   "damage-done-disease",
   "damage-done-flame",
@@ -42,19 +43,19 @@ const STALE: readonly Stale[] = [
     character: "khelta-the-eternal",
     from: 1792505792,
     to: 1792505802,
-    stats: DAMAGE_DONE,
+    stats: ONSET_DAMAGE,
   },
   {
     character: "erin-solstice",
     from: 1792521672,
     to: 1792524324,
-    stats: DAMAGE_DONE,
+    stats: ONSET_DAMAGE,
   },
   {
     character: "nirayicel",
     from: 1792578014,
     to: 1792578074,
-    stats: DAMAGE_DONE,
+    stats: ONSET_DAMAGE,
   },
 ]
 

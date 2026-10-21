@@ -24,7 +24,7 @@ export const staleSheetRows = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A missing damage-done row of such a reading is stale.",
+      statement: "A missing damage-done row of such a reading is stale, and so is its Bash Damage.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -40,5 +40,5 @@ export const staleSheetRows = {
     },
   ],
   createdAt: "2026-10-21T11:42:02.588Z",
-  updatedAt: "2026-10-21T15:53:37.770Z",
+  updatedAt: "2026-10-21T16:04:54.400Z",
 } as const satisfies Module
