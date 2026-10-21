@@ -14,14 +14,9 @@ export const nimueStatGaps = {
         "Power and critical lines count a two-hander twice in the mean and other lines count items, approved by Alan for now. Erin's Ashen Grip four-piece crit is 1 over on three readings with the level-50, CP10 or CP40 waist, likely rounding.",
     },
     {
-      statement: "Durene's armor reproduces every reading with five heavy pieces.",
+      statement: "Armor under Balanced Warrior reproduces every Durene and Lyonette reading.",
       workingMemory:
-        "Durene is half a point of armor short before Balanced Warrior on 11 readings. The Chudan pieces are ruled out. Only Resolve at 1716.5 for five heavy pieces fits, which no per-piece value gives. Alan captured each Tide-born piece taken off in turn.",
-    },
-    {
-      statement: "Well-fitted has a pinned value.",
-      workingMemory:
-        "Normal Well-fitted is pinned at 0.0125 of dodge cost, inside the armor-weight bracket. Erin's heavy-waist capture tells that from a separate multiplier near 0.0118.",
+        "Balanced Warrior's 2% is rounded to nearest, which fixes Durene and breaks Lyonette by 1 unless one category is floored apart: the Lady's 4297 or the Fortified star's 1731. Lyonette as in 01a1559d-3ef7 with Fortified unslotted tells them apart.",
     },
   ],
   constraints: [
@@ -30,5 +25,5 @@ export const nimueStatGaps = {
     "A reading a gap needs is asked of Alan once its own fit has used every reading already landed.",
   ],
   createdAt: "2026-10-20T18:20:16.239Z",
-  updatedAt: "2026-10-21T01:16:39.918Z",
+  updatedAt: "2026-10-21T01:21:40.356Z",
 } as const satisfies Initiative
