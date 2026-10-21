@@ -106,6 +106,7 @@
     "block-mitigation": 52,
     "block-speed": 42,
     "break-free-cost": 4921,
+    "critical-damage": 34,
     "critical-rating-spell": 7977,
     "critical-rating-weapon": 7977,
     "damage-done-bleed": 0,
@@ -147,7 +148,6 @@
     "stamina-sprint-cost": 394
   },
   "gaps": {
-    "critical-damage": 34,
     "stamina-dodge-cost": 2567
   }
 }
