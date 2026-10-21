@@ -71,7 +71,8 @@
     "resistance-spell": 20023,
     "stamina-block-cost": 1645,
     "stamina-dodge-cost": 4646,
-    "stamina-recovery": 952
+    "stamina-recovery": 952,
+    "stamina-sprint-cost": 432
   },
   "gaps": {
     "bash-damage": 474,
@@ -88,7 +89,6 @@
     "magicka-maximum": 15039,
     "movement-sprint-speed": 137,
     "sneak-cost": 133,
-    "stamina-maximum": 17239,
-    "stamina-sprint-cost": 432
+    "stamina-maximum": 17239
   }
 }

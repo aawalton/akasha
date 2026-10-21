@@ -8,6 +8,19 @@ export const FORMULA: FormulaNode = {
       effectType: "integer",
     },
     {
+      type: "add",
+      operands: [
+        {
+          type: "constant",
+          value: 1,
+        },
+        {
+          type: "metric-refs",
+          metricIds: ["sprint-cost-reduction"],
+        },
+      ],
+    },
+    {
       type: "product",
       categories: ["skills"],
       effectType: "fractional-change",
@@ -23,6 +36,19 @@ export const FORMULA: FormulaNode = {
           type: "sum",
           categories: ["armor"],
           effectType: "fractional-change",
+        },
+      ],
+    },
+    {
+      type: "add",
+      operands: [
+        {
+          type: "constant",
+          value: 1,
+        },
+        {
+          type: "metric-refs",
+          metricIds: ["core-ability-cost"],
         },
       ],
     },

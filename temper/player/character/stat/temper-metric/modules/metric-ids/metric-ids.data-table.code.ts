@@ -224,6 +224,7 @@ export type MetricId =
   | "resurrect-time"
   | "sneak-cost"
   | "sneak-range"
+  | "sprint-cost-reduction"
   | "stamina-ability-cost"
   | "stamina-block-cost"
   | "stamina-dodge-base-cost"

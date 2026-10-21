@@ -130,13 +130,13 @@
     "resistance-spell": 20136,
     "stamina-block-cost": 1454,
     "stamina-maximum": 28833,
-    "stamina-recovery": 2031
+    "stamina-recovery": 2031,
+    "stamina-sprint-cost": 193
   },
   "gaps": {
     "bash-damage": 607,
     "critical-damage": 22,
     "sneak-cost": 26,
-    "stamina-dodge-cost": 2603,
-    "stamina-sprint-cost": 193
+    "stamina-dodge-cost": 2603
   }
 }

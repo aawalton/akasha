@@ -130,6 +130,7 @@
     "stamina-block-cost": 1607,
     "stamina-dodge-cost": 3856,
     "stamina-maximum": 26636,
+    "stamina-sprint-cost": 415,
     "tel-var-gain": 10,
     "ultimate-recovery": 3
   },
@@ -142,7 +143,6 @@
     "movement-sneak-speed": 71,
     "movement-sprint-speed": 142,
     "sneak-cost": 69,
-    "stamina-recovery": 0,
-    "stamina-sprint-cost": 415
+    "stamina-recovery": 0
   }
 }

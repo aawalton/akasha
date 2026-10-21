@@ -137,14 +137,14 @@
     "stamina-block-cost": 1656,
     "stamina-dodge-cost": 3417,
     "stamina-maximum": 15258,
-    "stamina-recovery": 1098
+    "stamina-recovery": 1098,
+    "stamina-sprint-cost": 207
   },
   "gaps": {
     "block-mitigation": 57,
     "critical-damage": 10,
     "healing-taken-base": 10,
     "movement-sprint-speed": 144,
-    "sneak-cost": 79,
-    "stamina-sprint-cost": 207
+    "sneak-cost": 79
   }
 }

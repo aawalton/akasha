@@ -52,11 +52,11 @@
     "stamina-block-cost": 1645,
     "stamina-dodge-cost": 3798,
     "stamina-maximum": 16856,
-    "stamina-recovery": 829
+    "stamina-recovery": 829,
+    "stamina-sprint-cost": 432
   },
   "gaps": {
     "movement-sprint-speed": 158.99998474121094,
-    "sneak-cost": 133,
-    "stamina-sprint-cost": 432
+    "sneak-cost": 133
   }
 }
