@@ -104,6 +104,7 @@
     "bash-cost": 655,
     "bash-damage": 389,
     "block-mitigation": 52,
+    "block-speed": 42,
     "break-free-cost": 4921,
     "critical-rating-spell": 7977,
     "critical-rating-weapon": 7977,
@@ -139,7 +140,6 @@
     "stamina-sprint-cost": 394
   },
   "gaps": {
-    "block-speed": 42,
     "critical-damage": 34,
     "stamina-dodge-cost": 2567
   }
