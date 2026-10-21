@@ -87,6 +87,7 @@ export type MetricId =
   | "defense-physical-dd-mitigation"
   | "defense-physical-mitigation"
   | "defense-poison-mitigation"
+  | "defense-shock-mitigation"
   | "defense-spell-aoe-mitigation"
   | "defense-spell-dd-mitigation"
   | "defense-spell-mitigation"

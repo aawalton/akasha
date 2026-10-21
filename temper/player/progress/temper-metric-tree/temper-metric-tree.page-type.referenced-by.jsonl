@@ -143,6 +143,7 @@
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-defense-physical-dd-mitigation.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-defense-physical-mitigation.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-defense-poison-mitigation.temper-metric-tree.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-defense-shock-mitigation.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-defense-spell-aoe-mitigation.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-defense-spell-dd-mitigation.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-defense-spell-mitigation.temper-metric-tree.ts","typed":true,"deferred":false}
