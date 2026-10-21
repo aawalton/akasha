@@ -20,11 +20,12 @@ export const scaldingRune40465 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1134,
   createdAt: "2026-05-28T16:03:33.691Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T05:07:25.675Z",
   equations: [
-    "<<1>> = 20 seconds (Constant)",
-    "<<2>> = 0.10323 MaxStat + 1.08494 MaxPower - 0.77399 (Ultimate, ratio = 10.51, Dmg, Flame, AOE, Direct, Melee, R2 = 1)",
-    "<<3>> = 0.0112585 MaxStat + 0.118067 MaxPower - 0.102176 (Ultimate, ratio = 10.49, Dmg, Flame, SingleTarget, DOT, 20s duration, 2s tick, R2 = 0.99999)",
+    "<<5>> = 2 seconds (Constant)",
     "<<4>> = 22 seconds (Constant)",
+    "<<2>> = 0.10330089 MaxStat + 1.0846593 MaxPower (Ultimate, Dmg, Flame, AOE, Direct, Melee)",
+    "<<3>> = 0.0112585 MaxStat + 0.118067 MaxPower - 0.102176 (Ultimate, ratio = 10.49, Dmg, Flame, SingleTarget, DOT, 20s duration, 2s tick, R2 = 0.99999)",
+    "<<1>> = 24 seconds (Constant)",
   ],
 } as const satisfies TemperSkill

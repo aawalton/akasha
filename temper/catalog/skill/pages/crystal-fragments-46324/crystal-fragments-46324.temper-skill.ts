@@ -20,9 +20,9 @@ export const crystalFragments46324 = {
   skillType: "temper-skill-type/active",
   hashPlace: 274,
   createdAt: "2026-05-28T16:03:32.040Z",
-  updatedAt: "2026-10-21T05:05:37.896Z",
+  updatedAt: "2026-10-21T05:07:25.675Z",
   equations: [
-    "<<1>> = 0.12293722 MaxStat + 1.2908408 MaxPower (Ultimate, RankMod(1), Dmg, Magic, SingleTarget, Direct, 0.8s cooldown)",
+    "<<1>> = 0.11043513 MaxStat + 1.1595689 MaxPower (Ultimate, RankMod(1), Dmg, Magic, SingleTarget, Direct, 0.8s cooldown)",
     "<<2>> = 3 seconds (Constant)",
     "<<3>> = 10% (Constant)",
     "<<5>> = 33% (Constant)",
