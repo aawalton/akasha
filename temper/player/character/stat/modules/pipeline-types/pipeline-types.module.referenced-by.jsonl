@@ -4,12 +4,12 @@
 {"propertySlug":"import","fileName":"pipeline-types.module.code.ts","path":"temper/player/character/stat/modules/extract-armor/extract-armor.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pipeline-types.module.code.ts","path":"temper/player/character/stat/modules/extract-attributes/extract-attributes.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pipeline-types.module.code.ts","path":"temper/player/character/stat/modules/extract-champion-points/extract-champion-points.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"pipeline-types.module.code.ts","path":"temper/player/character/stat/modules/extract-class-masteries/extract-class-masteries.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pipeline-types.module.code.ts","path":"temper/player/character/stat/modules/extract-consumables/extract-consumables.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pipeline-types.module.code.ts","path":"temper/player/character/stat/modules/extract-curse/extract-curse.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pipeline-types.module.code.ts","path":"temper/player/character/stat/modules/extract-jewelry/extract-jewelry.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pipeline-types.module.code.ts","path":"temper/player/character/stat/modules/extract-mundus/extract-mundus.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pipeline-types.module.code.ts","path":"temper/player/character/stat/modules/extract-passives/extract-passives.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"pipeline-types.module.code.ts","path":"temper/player/character/stat/modules/extract-pure-class-passives/extract-pure-class-passives.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pipeline-types.module.code.ts","path":"temper/player/character/stat/modules/extract-sets/extract-sets.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pipeline-types.module.code.ts","path":"temper/player/character/stat/modules/extract-skills/extract-skills.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pipeline-types.module.code.ts","path":"temper/player/character/stat/modules/extract-skills/extract-skills.module.test.ts","typed":true,"deferred":false}

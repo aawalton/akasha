@@ -6492,9 +6492,9 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/character-rotation-reading/character-rotation-reading.module.ts","id":"01a1557f-ab1f-77ac-8712-4cb4dff8f2b5"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/enchant-proc/enchant-proc.module.ts","id":"01a13ff0-d4d8-7ee8-8a0f-d092bf883998"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/extract-armor/extract-armor.module.ts","id":"01a06271-abcf-73d3-9f27-e843cae7cf5f"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/extract-class-masteries/extract-class-masteries.module.ts","id":"01a15ec5-b320-7f68-9184-0ea5bdb94a5f"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/extract-curse/extract-curse.module.ts","id":"01a06271-abcf-7d81-aadf-ac14d2801969"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/extract-passives/extract-passives.module.ts","id":"01a06271-abcf-7c72-adb9-549ee5b23055"}
-{"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/extract-pure-class-passives/extract-pure-class-passives.module.ts","id":"01a15e8d-bff9-713b-bfd3-4f051f4641be"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/extract-sets/extract-sets.module.ts","id":"01a06271-abcf-7e09-9c2e-cff7fd7c0f46"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/extract-weapons/extract-weapons.module.ts","id":"01a06271-abcf-7408-81ef-b5cd9c05faac"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/fete-unsettled/fete-unsettled.module.ts","id":"01a159aa-bea4-7f4f-b4fc-70e6ada1d1cf"}

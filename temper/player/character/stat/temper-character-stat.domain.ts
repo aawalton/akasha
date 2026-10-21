@@ -70,7 +70,7 @@ export const temperCharacterStat = {
     "module/onset-scaled-buff",
     "module/scoped-healing",
     "module/stale-sheet-rows",
-    "module/extract-pure-class-passives",
+    "module/extract-class-masteries",
     "module/tooltip-pairing",
   ],
   directives: [
@@ -113,5 +113,5 @@ export const temperCharacterStat = {
     },
   ],
   createdAt: "2026-09-02T08:15:09.030Z",
-  updatedAt: "2026-10-21T13:58:44.213Z",
+  updatedAt: "2026-10-21T14:02:57.183Z",
 } as const satisfies Domain

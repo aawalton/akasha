@@ -17,6 +17,7 @@
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec/build-codec.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/player/character/stat/modules/character-rotation-reading/character-rotation-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/player/character/stat/modules/extract-class-masteries/extract-class-masteries.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/player/character/stat/modules/extract-passives/extract-passives.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/player/character/stat/modules/extract-sets/extract-sets.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/player/character/stat/modules/extract-skills/extract-skills.module.test.ts","typed":false,"deferred":false}

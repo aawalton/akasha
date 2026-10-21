@@ -4,12 +4,13 @@ import { extractAccount } from "akasha/temper/player/character/stat/modules/extr
 import { extractArmor } from "akasha/temper/player/character/stat/modules/extract-armor/extract-armor.module.code.ts"
 import { extractAttributes } from "akasha/temper/player/character/stat/modules/extract-attributes/extract-attributes.module.code.ts"
 import { extractChampionPoints } from "akasha/temper/player/character/stat/modules/extract-champion-points/extract-champion-points.module.code.ts"
+import { extractClassMasteries } from "akasha/temper/player/character/stat/modules/extract-class-masteries/extract-class-masteries.module.code.ts"
 import { extractConsumables } from "akasha/temper/player/character/stat/modules/extract-consumables/extract-consumables.module.code.ts"
 import { extractCurse } from "akasha/temper/player/character/stat/modules/extract-curse/extract-curse.module.code.ts"
 import { extractJewelry } from "akasha/temper/player/character/stat/modules/extract-jewelry/extract-jewelry.module.code.ts"
 import { extractMundus } from "akasha/temper/player/character/stat/modules/extract-mundus/extract-mundus.module.code.ts"
 import { extractPassives } from "akasha/temper/player/character/stat/modules/extract-passives/extract-passives.module.code.ts"
-import { extractPureClassPassives } from "akasha/temper/player/character/stat/modules/extract-pure-class-passives/extract-pure-class-passives.module.code.ts"
+
 import { extractSets } from "akasha/temper/player/character/stat/modules/extract-sets/extract-sets.module.code.ts"
 import { extractSkills } from "akasha/temper/player/character/stat/modules/extract-skills/extract-skills.module.code.ts"
 import { extractTarget } from "akasha/temper/player/character/stat/modules/extract-target/extract-target.module.code.ts"
@@ -43,7 +44,7 @@ export function buildStateToEffectSources(
 
   sources.push(...extractPassives(build, context))
 
-  sources.push(...extractPureClassPassives(build, context))
+  sources.push(...extractClassMasteries(build, context))
 
   sources.push(...extractChampionPoints(build, context))
 
