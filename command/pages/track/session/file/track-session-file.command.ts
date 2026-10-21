@@ -56,6 +56,10 @@ export const trackSessionFile = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The lines are read once, however many times the act is composed again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A wall time this command takes or says is a US Mountain time.",
     },
     {
@@ -102,5 +106,5 @@ export const trackSessionFile = {
     { argument: "argument/relationship", repeats: true },
   ],
   createdAt: "2026-09-07T01:26:41.026Z",
-  updatedAt: "2026-09-19T17:55:55.000Z",
+  updatedAt: "2026-10-21T10:10:46.875Z",
 } as const satisfies Command

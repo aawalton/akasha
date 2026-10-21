@@ -21,6 +21,7 @@ import {
   type Row,
 } from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
 import {
+  freshly,
   landed,
   standingFor,
   taggingFor,
@@ -34,7 +35,11 @@ import { trackSessionSplit as page } from "akasha/command/pages/track/session/sp
 
 const NAMED = [day, at, id, open, last, title, safety, difficulty, relationship]
 
-export async function trackSessionSplit(argv: readonly string[], given: Given): Promise<Answer> {
+export function trackSessionSplit(argv: readonly string[], given: Given): Promise<Answer> {
+  return freshly(() => splitOnce(argv, given))
+}
+
+async function splitOnce(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()
   const read = takenFor(argv, given.calledAs, page, NAMED)
   if ("refused" in read) return mistaking(read.refused)

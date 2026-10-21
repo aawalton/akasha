@@ -12,13 +12,18 @@ import {
 import { trackSessionClose as page } from "akasha/command/pages/track/session/close/track-session-close.command.ts"
 import {
   endingIn,
+  freshly,
   landed,
   standingFor,
 } from "akasha/command/pages/track/session/modules/session-acting/session-acting.module.code.ts"
 
 const NAMED = [day, at]
 
-export async function trackSessionClose(argv: readonly string[], given: Given): Promise<Answer> {
+export function trackSessionClose(argv: readonly string[], given: Given): Promise<Answer> {
+  return freshly(() => closedOnce(argv, given))
+}
+
+async function closedOnce(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()
   const read = takenFor(argv, given.calledAs, page, NAMED)
   if ("refused" in read) return mistaking(read.refused)

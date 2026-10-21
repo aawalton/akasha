@@ -18,6 +18,7 @@ import {
 } from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
 import { trackSessionAmend as page } from "akasha/command/pages/track/session/amend/track-session-amend.command.ts"
 import {
+  freshly,
   landed,
   standingFor,
   taggingFor,
@@ -29,7 +30,11 @@ import {
 
 const NAMED = [day, at, id, open, last, title, safety, difficulty, relationship]
 
-export async function trackSessionAmend(argv: readonly string[], given: Given): Promise<Answer> {
+export function trackSessionAmend(argv: readonly string[], given: Given): Promise<Answer> {
+  return freshly(() => amendedOnce(argv, given))
+}
+
+async function amendedOnce(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()
   const read = takenFor(argv, given.calledAs, page, NAMED)
   if ("refused" in read) return mistaking(read.refused)

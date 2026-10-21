@@ -20,6 +20,7 @@ import {
 } from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
 import { trackSessionFile as page } from "akasha/command/pages/track/session/file/track-session-file.command.ts"
 import {
+  freshly,
   landed,
   standingFor,
   taggingFor,
@@ -42,7 +43,29 @@ const LINE_SAID = z.tuple([
 
 const NAMED = [day, fromFile, relationship]
 
-export async function trackSessionFile(argv: readonly string[], given: Given): Promise<Answer> {
+type Reading = (from: string) => string
+
+function readOnce(): Reading {
+  const held = new Map<string, string>()
+  return (from) => {
+    const known = held.get(from)
+    if (known !== undefined) return known
+    const said = readFileSync(from === "-" ? "/dev/stdin" : from, "utf8")
+    held.set(from, said)
+    return said
+  }
+}
+
+export function trackSessionFile(argv: readonly string[], given: Given): Promise<Answer> {
+  const linesFrom = readOnce()
+  return freshly(() => filedOnce(argv, given, linesFrom))
+}
+
+async function filedOnce(
+  argv: readonly string[],
+  given: Given,
+  linesFrom: Reading
+): Promise<Answer> {
   const now = new Date()
   const read = takenFor(argv, given.calledAs, page, NAMED)
   if ("refused" in read) return mistaking(read.refused)
@@ -54,7 +77,7 @@ export async function trackSessionFile(argv: readonly string[], given: Given): P
   const from = taken.fromFile
   let said: string
   try {
-    said = readFileSync(from === "-" ? "/dev/stdin" : from, "utf8")
+    said = linesFrom(from)
   } catch {
     return mistaking([`the lines for ${standing.day} would not open from ${from}`])
   }

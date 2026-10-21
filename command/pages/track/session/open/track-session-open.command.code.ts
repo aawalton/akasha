@@ -18,6 +18,7 @@ import {
   sayingFor,
 } from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
 import {
+  freshly,
   landed,
   standingFor,
   taggingFor,
@@ -30,7 +31,11 @@ import { trackSessionOpen as page } from "akasha/command/pages/track/session/ope
 
 const NAMED = [day, safety, difficulty, title, at, relationship]
 
-export async function trackSessionOpen(argv: readonly string[], given: Given): Promise<Answer> {
+export function trackSessionOpen(argv: readonly string[], given: Given): Promise<Answer> {
+  return freshly(() => openedOnce(argv, given))
+}
+
+async function openedOnce(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()
   const read = takenFor(argv, given.calledAs, page, NAMED)
   if ("refused" in read) return mistaking(read.refused)

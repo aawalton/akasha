@@ -14,13 +14,18 @@ import {
 } from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
 import { trackSessionDrop as page } from "akasha/command/pages/track/session/drop/track-session-drop.command.ts"
 import {
+  freshly,
   landed,
   standingFor,
 } from "akasha/command/pages/track/session/modules/session-acting/session-acting.module.code.ts"
 
 const NAMED = [day, at, id, open, last, mend]
 
-export async function trackSessionDrop(argv: readonly string[], given: Given): Promise<Answer> {
+export function trackSessionDrop(argv: readonly string[], given: Given): Promise<Answer> {
+  return freshly(() => droppedOnce(argv, given))
+}
+
+async function droppedOnce(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()
   const read = takenFor(argv, given.calledAs, page, NAMED)
   if ("refused" in read) return mistaking(read.refused)

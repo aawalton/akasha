@@ -21,6 +21,7 @@ import {
 } from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
 import { trackSessionLog as page } from "akasha/command/pages/track/session/log/track-session-log.command.ts"
 import {
+  freshly,
   landed,
   standingFor,
   taggingFor,
@@ -32,7 +33,11 @@ import {
 
 const NAMED = [day, safety, difficulty, title, stretchStart, stretchEnd, relationship]
 
-export async function trackSessionLog(argv: readonly string[], given: Given): Promise<Answer> {
+export function trackSessionLog(argv: readonly string[], given: Given): Promise<Answer> {
+  return freshly(() => loggedOnce(argv, given))
+}
+
+async function loggedOnce(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()
   const read = takenFor(argv, given.calledAs, page, NAMED)
   if ("refused" in read) return mistaking(read.refused)
