@@ -52,19 +52,34 @@ export type TooltipCaseRead = Omit<TooltipCase, "pinned" | "gaps">
 
 export type Worked = { readonly game: number; readonly temper: number | null }
 
-export function equationsIn(root: string): Equations {
+const skillHeld = z.object({
+  esoSkillId: z.number(),
+  equations: z.array(z.string()),
+  variants: z
+    .array(z.object({ esoSkillId: z.number(), equations: z.array(z.string()).optional() }))
+    .optional(),
+})
+
+export function equationsOf(values: Iterable<unknown>): Equations {
   const found = new Map<number, readonly string[]>()
-  for (const type of [temperSkill.slug, temperScribedSkill.slug]) {
-    for (const one of valuesOfType(root, type)) {
-      const { esoSkillId, equations } = one.value
-      if (typeof esoSkillId !== "number" || !Array.isArray(equations)) continue
-      found.set(
-        esoSkillId,
-        equations.filter((line): line is string => typeof line === "string")
-      )
+  for (const value of values) {
+    const said = skillHeld.safeParse(value)
+    if (!said.success) continue
+    const { esoSkillId, equations, variants } = said.data
+    found.set(esoSkillId, equations)
+    for (const variant of variants ?? []) {
+      found.set(variant.esoSkillId, variant.equations ?? equations)
     }
   }
   return found
+}
+
+export function equationsIn(root: string): Equations {
+  return equationsOf(
+    [temperSkill.slug, temperScribedSkill.slug].flatMap((type) =>
+      valuesOfType(root, type).map((one) => one.value)
+    )
+  )
 }
 
 export type CaseListed = { readonly path: string; readonly slug: string }

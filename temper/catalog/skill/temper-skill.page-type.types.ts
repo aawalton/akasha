@@ -9,6 +9,7 @@ import type { MorphIndex } from "akasha/temper/catalog/skill/properties/morph-in
 import type { SkillEquations } from "akasha/temper/catalog/skill/properties/skill-equations.text-property.types.ts"
 import type { SkillRank } from "akasha/temper/catalog/skill/properties/skill-rank.number-property.types.ts"
 import type { SkillStatus } from "akasha/temper/catalog/skill/properties/skill-status.text-property.types.ts"
+import type { SkillVariants } from "akasha/temper/catalog/skill/properties/skill-variants.record-property.types.ts"
 import type { SkillLine } from "akasha/temper/catalog/thing/properties/skill-line.relation-property.types.ts"
 import type { SkillType } from "akasha/temper/catalog/thing/properties/skill-type.relation-property.types.ts"
 import type { TemperCatalogThing } from "akasha/temper/catalog/thing/temper-catalog-thing.page-type.types.ts"
@@ -29,4 +30,5 @@ export type TemperSkill = TemperCatalogThing & {
   skillLineId: SkillLine
   hashPlace: HashPlace
   equations?: SkillEquations
+  variants?: SkillVariants
 }

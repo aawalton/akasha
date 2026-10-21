@@ -33,6 +33,7 @@ export const temperSkill = {
     "page-type/temper-damage-type",
     "page-type/temper-enemy-type",
     "text-property/skill-equations",
+    "record-property/skill-variants",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
@@ -49,6 +50,7 @@ export const temperSkill = {
     { pageProperty: "relation-property/skill-line", required: true, many: false },
     { pageProperty: "number-property/hash-place", required: true, many: false },
     { pageProperty: "text-property/skill-equations", required: false, many: true, maxCount: null },
+    { pageProperty: "record-property/skill-variants", required: false, many: true, maxCount: null },
   ],
   types: "ts",
   schema: "jsonl",
@@ -57,5 +59,5 @@ export const temperSkill = {
     "temper/player/character/build/build-codec/modules/build-codec-v52-skill-pages/build-codec-v52-skill-pages.data-table.code.ts SKILL_PAGES_BEFORE_MINOR_10",
   ],
   createdAt: "2026-09-02T01:45:21.036Z",
-  updatedAt: "2026-10-20T19:48:05.984Z",
+  updatedAt: "2026-10-21T05:36:42.191Z",
 } as const satisfies PageType

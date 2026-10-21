@@ -4,6 +4,7 @@ import { join } from "node:path"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   equationsIn,
+  equationsOf,
   heldOfCase,
   heldSetOf,
   pinnedTooltipCaseOf,
@@ -96,6 +97,26 @@ test("a case keeps the stacks of each buff active with stacks, and no stacks whe
   expect(read.buffs).toEqual(["Gallop", "Landslide"])
   expect(read.stacks).toEqual({ Landslide: 6 })
   expect(heldOfCase(undefined, { activeBuffs: [{ name: "Gallop" }] }).stacks).toBeUndefined()
+})
+
+test("a variant takes its skill's equations unless it states its own", () => {
+  const found = equationsOf([
+    {
+      esoSkillId: 20816,
+      equations: ["<<1>> = 0.1 MaxStat (Dmg)"],
+      variants: [
+        { esoSkillId: 20824, equations: ["<<1>> = 0.2 MaxStat (Dmg)"] },
+        { esoSkillId: 20825 },
+      ],
+    },
+    { esoSkillId: 1, title: "no equations" },
+  ])
+
+  expect([...found]).toEqual([
+    [20816, ["<<1>> = 0.1 MaxStat (Dmg)"]],
+    [20824, ["<<1>> = 0.2 MaxStat (Dmg)"]],
+    [20825, ["<<1>> = 0.1 MaxStat (Dmg)"]],
+  ])
 })
 
 test("a case is written as text that reads back as the same case", () => {

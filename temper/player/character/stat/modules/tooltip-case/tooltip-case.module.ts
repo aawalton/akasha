@@ -22,6 +22,11 @@ export const tooltipCase = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A variant a skill page lists is found by its own ability id, with its own equations or the page's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A case's numbers are worked out from the stats and tooltip text it kept.",
     },
     {
@@ -98,5 +103,5 @@ export const tooltipCase = {
     },
   ],
   createdAt: "2026-10-21T01:45:54.419Z",
-  updatedAt: "2026-10-21T05:27:10.035Z",
+  updatedAt: "2026-10-21T05:36:42.191Z",
 } as const satisfies Module
