@@ -1,11 +1,11 @@
 {
-  "buildHash": "ATQKVJUAAIBkRRP__EoLBl6fSvxBjO8lNMXF3RBAInRAAAABQAAUAJADXBMGwTAAFiAmKFESQOAAADAQAgEIAAFCESEiMTA1IAIyMSACISAgAyMKMjCiJhEAgqEqy6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDjEgawA",
+  "buildHash": "ATQNVIFANhRkRYIGXvtAEIACUVtAEIAGW5tAEIACW5tAEIACW5tAEIAGW5tAEIACW5tAEIAhShtAEIAhShtAEIAhB91AEIAwwEtaAIQCZBu25QssPJEGBguj2NqHq7ouAAAAcwgicCAIWQXAPRYCkQBKHhYBN3q2IA7pETCI-IEIOD0EmdgAMcIhQhI0MwIyEiIiMCI1IDIzQSADIDIzMzMEIAMjA0oyMDoiZDIzIwAjgiIkQqMwMwI6AAAAAAsAAAAQ8fQLAAAAAFGAYQOIEihYweAQAGQcYkDW",
   "gender": 1,
   "level": 50,
   "classId": 5,
   "allianceId": 1,
   "raceId": 10,
-  "curseState": "vampire",
+  "curseState": "no-curse",
   "className": "Necromancer",
   "classIcon": "/esoui/art/icons/class/class_necromancer.dds",
   "achievements": {
@@ -935,7 +935,7 @@
             "name": "Brawler",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "abilityIndex": 5,
           "isUltimate": false,
           "atMorph": true
@@ -1007,7 +1007,7 @@
             "name": "Critical Rush",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 4,
           "isUltimate": false,
           "atMorph": true
@@ -1643,7 +1643,7 @@
             "name": "Concealed Weapon",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "abilityIndex": 2,
           "isUltimate": false,
           "atMorph": true
@@ -1679,7 +1679,7 @@
             "name": "Impale",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 4,
           "isUltimate": false,
           "atMorph": true
@@ -1697,7 +1697,7 @@
             "name": "Soul Harvest",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "abilityIndex": 1,
           "isUltimate": true,
           "atMorph": true
@@ -1715,7 +1715,7 @@
             "name": "Merciless Resolve",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
@@ -1758,7 +1758,7 @@
             "name": "Dark Cloak",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 2,
           "abilityIndex": 3,
           "isUltimate": false,
           "atMorph": true
@@ -2297,7 +2297,7 @@
             "name": "Dawnbreaker of Smiting",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "abilityIndex": 1,
           "isUltimate": true,
           "atMorph": true
@@ -2466,7 +2466,7 @@
             "name": "Resolving Vigor",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 3,
           "isUltimate": false,
           "atMorph": true
@@ -2920,7 +2920,7 @@
             "name": "Consuming Trap",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 4,
           "isUltimate": false,
           "atMorph": true
@@ -3021,7 +3021,7 @@
             "name": "Soothing Spores",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 2,
           "abilityIndex": 2,
           "isUltimate": false,
           "atMorph": true
@@ -3348,7 +3348,7 @@
             "name": "Ravenous Goliath",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 2,
           "abilityIndex": 1,
           "isUltimate": true,
           "atMorph": true
@@ -3611,7 +3611,7 @@
             "name": "Pragmatic Fatecarver",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "abilityIndex": 3,
           "isUltimate": false,
           "atMorph": true
@@ -3629,7 +3629,7 @@
             "name": "Tentacular Dread",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 4,
           "isUltimate": false,
           "atMorph": true
@@ -3647,7 +3647,7 @@
             "name": "Fulminating Rune",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
@@ -3665,7 +3665,7 @@
             "name": "Recuperative Treatise",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 5,
           "isUltimate": false,
           "atMorph": true
@@ -5490,7 +5490,7 @@
   },
   "skillPoints": {
     "total": 365,
-    "unassigned": 186,
+    "unassigned": 68,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 1,
@@ -13769,136 +13769,106 @@
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-10-20",
-    "seen": [
-      5,
-      3,
-      4,
-      2,
-      1,
-      6,
-      7
-    ],
-    "completed": [
-      1,
-      6,
-      2,
-      7,
-      3,
-      4,
-      5
-    ]
+    "date": "2026-10-21",
+    "seen": [],
+    "completed": []
   },
   "inventoryCheck": {
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "misplaced": 0
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792511805,
-      "buildHash": "ATQKVJUAAIBkRRP__EoLBl6fSvxBjO8lNLghpxBAInRAAAABQAAUAJADXBMGwTAAFiAmKFESQOAAADAQAgEIAAFCESEiMTA1IAIyMSACISAgAyMKMjCiJhEAgqEqy6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDjEgawA",
+      "capturedAt": 1792579049,
+      "buildHash": "ATQNVIFANhRkRYIGXvtAEIACUVtAEIAGW5tAEIACW5tAEIACW5tAEIAGW5tAEIACW5tAEIAhShtAEIAhShtAEIAhB91AEIAwwEtaAIQCZBu25QssPJEGBguj2NqHq7ouAAAA2ogicCAIWQXAPRYCkQBKHhYBN3q2IA7pETCI-IEIOD0EmdgAMcIhQhI0MwIyEiIiMCI1IDIzQSADIDIzMzMEIAMjA0oyMDoiZDIzIwAjgiIkQqMwMwI6AAAAAAsAAAAQ8fQLAAAAAFGAYQOIEihYweAQAGQcYkDW",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "ultimate": 48,
-      "health": 27579,
+      "health": 41348,
+      "healthBefore": 39578,
+      "healthPaired": false,
       "stats": {
-        "penetration-physical": 5924,
-        "magicka-recovery": 514,
-        "health-maximum": 27579,
-        "resistance-spell": 1731,
-        "critical-rating-spell": 3377,
-        "health-recovery": 278,
-        "resistance-physical": 1731,
-        "power-weapon": 1000,
-        "critical-rating-weapon": 3377,
-        "penetration-spell": 5924,
-        "magicka-maximum": 12520,
+        "health-recovery": 925,
+        "health-maximum": 84341,
+        "critical-rating-spell": 2181,
+        "stamina-recovery": 785,
+        "power-weapon": 2452,
+        "critical-rating-weapon": 2181,
+        "power-spell": 2452,
+        "resistance-physical": 20657,
+        "penetration-physical": 0,
+        "stamina-maximum": 15110,
         "resistance-critical": 1320,
-        "power-spell": 1000,
-        "stamina-maximum": 20224,
-        "stamina-recovery": 514
+        "magicka-maximum": 12000,
+        "resistance-spell": 20657,
+        "magicka-recovery": 591,
+        "penetration-spell": 0
       },
       "unbonusedStats": {
-        "penetration-physical": 0,
-        "magicka-recovery": 514,
-        "health-maximum": 27579,
-        "resistance-spell": 0,
+        "health-recovery": 925,
+        "health-maximum": 84341,
         "critical-rating-spell": 2181,
-        "health-recovery": 278,
-        "resistance-physical": 0,
+        "stamina-recovery": 785,
         "power-weapon": 1000,
         "critical-rating-weapon": 2181,
-        "penetration-spell": 0,
-        "magicka-maximum": 12520,
-        "resistance-critical": 0,
         "power-spell": 1000,
-        "stamina-maximum": 20224,
-        "stamina-recovery": 514
+        "resistance-physical": 0,
+        "penetration-physical": 0,
+        "stamina-maximum": 15110,
+        "resistance-critical": 0,
+        "magicka-maximum": 12000,
+        "resistance-spell": 0,
+        "magicka-recovery": 591,
+        "penetration-spell": 0
       },
       "activeBuffs": [
         {
-          "abilityId": 135397,
-          "name": "Vampire Stage 1",
-          "description": "",
-          "effect": "You are slightly corrupted from the influence of Vampirism.\n\nHealth Recovery: -10%\nFlame Damage Taken: +5%\nRegular Ability Costs: +3%\nVampire Ability Costs: -6%\n",
-          "stacks": 0
+          "abilityId": 61259,
+          "name": "Increase Max Health",
+          "description": "Increase Max Health by |cffffff0|r for |cffffff35|r minutes.",
+          "effect": "Increase Max Health by |cffffff6607|r.\n",
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 2335,
+            "spell": 2335
+          }
         },
         {
           "abilityId": 63569,
           "name": "Gallop",
           "description": "",
           "effect": "Increases your Mount Speed by |cffffff15|r%.\n",
-          "stacks": 0
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 2335,
+            "spell": 2335
+          }
         },
         {
-          "abilityId": 61259,
-          "name": "Increase Max Health",
-          "description": "Increase Max Health by |cffffff0|r for |cffffff35|r minutes.",
-          "effect": "Increase Max Health by |cffffff6607|r.\n",
-          "stacks": 0
+          "abilityId": 13978,
+          "name": "Boon: The Lord",
+          "description": "increases Maximum Health",
+          "effect": "Increases your Maximum Health by |cffffff3032|r.\n",
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 2452,
+            "spell": 2452
+          }
         },
         {
-          "abilityId": 13981,
-          "name": "Boon: The Lover",
-          "description": "increases Physical and Spell Penetration",
-          "effect": "Increases your Spell and Physical Penetration by |cffffff2744|r.\n",
-          "stacks": 0
+          "abilityId": 61721,
+          "name": "Minor Protection",
+          "description": "",
+          "effect": "Reduces your damage taken by |cffffff5|r%.\n",
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 2452,
+            "spell": 2452
+          }
         }
       ],
-      "fete": {
-        "stacks": 0,
-        "changedMsAgo": 417901
-      },
       "pets": [],
       "championPoints": [
-        {
-          "championSkillId": 68,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "|cffffff3|r meters",
-          "slottable": false
-        },
-        {
-          "championSkillId": 76,
-          "points": 25,
-          "maxPoints": 25,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 84,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 90,
-          "points": 25,
-          "maxPoints": 25,
-          "bonus": "",
-          "slottable": false
-        },
         {
           "championSkillId": 78,
           "points": 75,
@@ -13919,34 +13889,6 @@
           "maxPoints": 50,
           "bonus": "|cffffff50|r% chance",
           "slottable": false
-        },
-        {
-          "championSkillId": 85,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "|cffffff30|r minutes",
-          "slottable": false
-        },
-        {
-          "championSkillId": 86,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": false
-        },
-        {
-          "championSkillId": 89,
-          "points": 25,
-          "maxPoints": 25,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 88,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": true
         },
         {
           "championSkillId": 91,
@@ -13970,20 +13912,6 @@
           "slottable": false
         },
         {
-          "championSkillId": 82,
-          "points": 75,
-          "maxPoints": 75,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 92,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff10|r% Mount Speed",
-          "slottable": true
-        },
-        {
           "championSkillId": 83,
           "points": 50,
           "maxPoints": 50,
@@ -14005,242 +13933,11 @@
           "slottable": false
         },
         {
-          "championSkillId": 77,
-          "points": 25,
-          "maxPoints": 25,
-          "bonus": "",
-          "slottable": false
-        },
-        {
-          "championSkillId": 67,
-          "points": 40,
-          "maxPoints": 40,
-          "bonus": "|cffffff25|r% reduced penalty",
-          "slottable": false
-        },
-        {
           "championSkillId": 74,
           "points": 50,
           "maxPoints": 50,
           "bonus": "|cffffff10|r% increased gold",
           "slottable": false
-        },
-        {
-          "championSkillId": 69,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff35|r% reduced damage",
-          "slottable": false
-        },
-        {
-          "championSkillId": 87,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "",
-          "slottable": false
-        },
-        {
-          "championSkillId": 66,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff20|r% Movement Speed",
-          "slottable": true
-        },
-        {
-          "championSkillId": 65,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff50|r% cost reduction",
-          "slottable": true
-        },
-        {
-          "championSkillId": 1,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff50|r% cost reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 11,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff320|r Critical Chance",
-          "slottable": false
-        },
-        {
-          "championSkillId": 12,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff8|r% Critical Damage and Critical Healing done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 108,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff2|r% Healing Done",
-          "slottable": false
-        },
-        {
-          "championSkillId": 26,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff10|r% Healing Done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 10,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff700|r Offensive Penetration",
-          "slottable": false
-        },
-        {
-          "championSkillId": 277,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff10|r% damage done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 276,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 264,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff6|r% damage done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 17,
-          "points": 40,
-          "maxPoints": 40,
-          "bonus": "|cffffff60|r% increased chance",
-          "slottable": false
-        },
-        {
-          "championSkillId": 21,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "",
-          "slottable": false
-        },
-        {
-          "championSkillId": 18,
-          "points": 40,
-          "maxPoints": 40,
-          "bonus": "|cffffff60|r% increased chance",
-          "slottable": false
-        },
-        {
-          "championSkillId": 22,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "",
-          "slottable": false
-        },
-        {
-          "championSkillId": 25,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff6|r% damage done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 23,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff6|r% damage done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 27,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff6|r% damage done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 30,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 8,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff205|r Weapon and Spell Damage",
-          "slottable": true
-        },
-        {
-          "championSkillId": 31,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff10|r% Critical Damage done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 6,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff520|r Max Stamina",
-          "slottable": false
-        },
-        {
-          "championSkillId": 20,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff2|r% Healing Taken",
-          "slottable": false
-        },
-        {
-          "championSkillId": 14,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff10|r% damage reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 15,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff2|r% damage reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 16,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff2|r% damage reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 99,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff520|r Max Magicka",
-          "slottable": false
-        },
-        {
-          "championSkillId": 5,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff1300|r Max Stamina",
-          "slottable": true
-        },
-        {
-          "championSkillId": 4,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff150|r Weapon and Spell Damage",
-          "slottable": true
         },
         {
           "championSkillId": 38,
@@ -14257,172 +13954,11 @@
           "slottable": false
         },
         {
-          "championSkillId": 272,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff6|r seconds On Kill",
-          "slottable": true
-        },
-        {
-          "championSkillId": 270,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff10|r% Movement Speed",
-          "slottable": true
-        },
-        {
           "championSkillId": 113,
           "points": 20,
           "maxPoints": 20,
           "bonus": "|cffffff560|r Max Health",
           "slottable": false
-        },
-        {
-          "championSkillId": 63,
-          "points": 10,
-          "maxPoints": 50,
-          "bonus": "|cffffff2|r% cost reduction",
-          "slottable": true
-        },
-        {
-          "championSkillId": 46,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff15|r% effectiveness and damage done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 58,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff10|r% more resources",
-          "slottable": false
-        },
-        {
-          "championSkillId": 56,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 45,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "|cffffff3|r meters",
-          "slottable": false
-        },
-        {
-          "championSkillId": 48,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff1500|r Stamina",
-          "slottable": true
-        },
-        {
-          "championSkillId": 53,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff25|r% reduced duration",
-          "slottable": false
-        },
-        {
-          "championSkillId": 273,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff150|r Health, Magicka, and Stamina Recovery",
-          "slottable": true
-        },
-        {
-          "championSkillId": 47,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff1500|r Magicka",
-          "slottable": true
-        },
-        {
-          "championSkillId": 39,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff40|r Block cost reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 40,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "|cffffff90|r cost reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 50,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff120|r increased damage",
-          "slottable": false
-        },
-        {
-          "championSkillId": 44,
-          "points": 6,
-          "maxPoints": 6,
-          "bonus": "|cffffff6|r% Movement Speed",
-          "slottable": false
-        },
-        {
-          "championSkillId": 266,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff10|r% damage reduction",
-          "slottable": true
-        },
-        {
-          "championSkillId": 43,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "|cffffff4|r% Block mitigation",
-          "slottable": false
-        },
-        {
-          "championSkillId": 37,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "|cffffff240|r cost reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 51,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 128,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff220|r cost reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 52,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 35,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff90|r Health, Magicka, and Stamina Recovery",
-          "slottable": true
-        },
-        {
-          "championSkillId": 34,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff1731|r Armor",
-          "slottable": true
         },
         {
           "championSkillId": 2,
@@ -14432,1140 +13968,608 @@
           "slottable": true
         }
       ],
-      "worn": [],
-      "skills": [
+      "worn": [
+        {
+          "slot": 0,
+          "link": "|H0:item:59488:364:50:0:0:0:16:25:0:0:0:0:0:0:2049:67:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 2425,
+          "weaponPower": 0,
+          "enchant": "Adds |cffffff1192|r Maximum Health.",
+          "enchantCategory": 11,
+          "trait": "Increase armor enchantment effect by |cffffff25|r%.",
+          "quality": 5,
+          "setId": 165,
+          "setName": "Scourge Harvester",
+          "setBonusCount": 2,
+          "setEquipped": 1,
+          "setMaxEquipped": 2,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 1,
+              "description": "(1 item) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 2,
+              "description": "(2 items) When you take damage, you have a |cffffff10|r% chance to tether to your enemy for |cffffff6|r seconds, as long as you remain within 8 meters of them. While tethered, you deal |cffffff1642|r Magic Damage every second to the enemy, heal for the damage caused, and gain Major Vitality, increasing your healing received and damage shield strength by |cffffff12|r%. This effect can occur once every |cffffff6|r seconds and scales off your Max Health.",
+              "perfected": false
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "link": "|H0:item:69166:364:50:0:0:0:21:25:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 0,
+          "weaponPower": 0,
+          "enchant": "Adds |cffffff169|r Health Recovery.",
+          "enchantCategory": 12,
+          "trait": "Increases Maximum Health by |cffffff965|r.",
+          "quality": 5,
+          "setId": 204,
+          "setName": "Endurance",
+          "setBonusCount": 2,
+          "setEquipped": 2,
+          "setMaxEquipped": 3,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1928|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds 618 Health Recovery",
+              "perfected": false
+            }
+          ]
+        },
+        {
+          "slot": 2,
+          "link": "|H0:item:97050:364:50:0:0:0:16:25:0:0:0:0:0:0:2049:1:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 2772,
+          "weaponPower": 0,
+          "enchant": "Adds |cffffff1192|r Maximum Health.",
+          "enchantCategory": 11,
+          "trait": "Increase armor enchantment effect by |cffffff25|r%.",
+          "quality": 5,
+          "setId": 293,
+          "setName": "Plague Doctor",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Adds |cffffff2804|r Maximum Health",
+              "perfected": false
+            }
+          ]
+        },
         {
           "slot": 3,
-          "abilityId": 38754,
-          "name": "Brawler",
-          "description": "Focus your strength into a mighty swing, dealing |cffffff2942|r Physical Damage to enemies in front of you.\n\nYou also gain a damage shield that absorbs |cffffff2826|r damage for |cffffff6|r seconds. Each enemy hit increases the damage shield's strength by |cffffff50|r%, up to |cffffff300|r%.",
-          "durationMs": 0,
-          "castMs": 0,
-          "channeled": false,
-          "cooldownMs": 0,
-          "ultimateCost": 0
+          "link": "|H0:item:167129:364:50:0:0:0:18:55:0:0:0:0:0:0:2049:67:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 2425,
+          "weaponPower": 0,
+          "enchant": "Adds |cffffff386|r Maximum Health.",
+          "enchantCategory": 11,
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5,
+          "setId": 535,
+          "setName": "Lady Thorn",
+          "setBonusCount": 2,
+          "setEquipped": 1,
+          "setMaxEquipped": 2,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 1,
+              "description": "(1 item) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 2,
+              "description": "(2 items) Casting an ability that costs Health spawns a blood ball for |cffffff10|r seconds. This effect can occur once every |cffffff10|r seconds. \n\nYou or an ally near the blood ball can activate the Sanguine Burst synergy, dealing |cffffff15178|r Disease Damage to nearby enemies and applying Major Maim for |cffffff8|r seconds, decreasing their damage done by |cffffff10|r%. Enemies can only receive Major Maim from Sanguine Burst once every |cffffff20|r seconds. The damage scales off the synergy activator's Max Health.",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 4,
-          "abilityId": 183006,
-          "name": "Cephaliarch's Flail",
-          "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff3276|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff1394|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink.",
-          "durationMs": 0,
-          "castMs": 300,
-          "channeled": false,
-          "cooldownMs": 0,
-          "ultimateCost": 0
+          "link": "|H0:item:185693:370:50:0:0:0:0:0:0:0:0:0:0:0:1:1:1:1:0:0:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 0,
+          "weaponPower": 1335,
+          "enchant": "",
+          "enchantCategory": 0,
+          "trait": "Increases Physical and Spell Resistance by |cffffff1638|r.",
+          "quality": 5,
+          "setId": 642,
+          "setName": "Druid's Braid",
+          "setBonusCount": 12,
+          "setEquipped": 1,
+          "setMaxEquipped": 12,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 1,
+              "description": "(1 item) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 2,
+              "description": "(2 items) Adds 1096 Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds 1096 Maximum Stamina",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds 1206 Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Adds 1565 Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 6,
+              "description": "(6 items) Adds 1565 Maximum Stamina",
+              "perfected": false
+            },
+            {
+              "required": 7,
+              "description": "(7 items) Adds 1722 Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 8,
+              "description": "(8 items) Adds 1565 Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 9,
+              "description": "(9 items) Adds 1565 Maximum Stamina",
+              "perfected": false
+            },
+            {
+              "required": 10,
+              "description": "(10 items) Adds 1722 Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 11,
+              "description": "(11 items) Adds 1565 Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 12,
+              "description": "(12 items) Adds 1565 Maximum Stamina",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 5,
-          "abilityId": 193398,
-          "name": "Pragmatic Fatecarver",
-          "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff1484|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff4927|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage.",
-          "durationMs": 0,
-          "castMs": 4500,
-          "channeled": true,
-          "cooldownMs": 0,
-          "ultimateCost": 0
+          "link": "|H0:item:95862:364:50:26580:370:50:16:25:0:0:0:0:0:0:2049:34:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 1720,
+          "weaponPower": 0,
+          "enchant": "Adds |cffffff1192|r Maximum Health.",
+          "enchantCategory": 11,
+          "trait": "Increase armor enchantment effect by |cffffff25|r%.",
+          "quality": 5,
+          "setId": 281,
+          "setName": "Armor of the Trainee",
+          "setBonusCount": 3,
+          "setEquipped": 1,
+          "setMaxEquipped": 3,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 1,
+              "description": "(1 item) Adds |cffffff1454|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 2,
+              "description": "(2 items) Adds 1454 Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds 1454 Maximum Stamina",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 6,
-          "abilityId": 34843,
-          "name": "Killer's Blade",
-          "description": "Thrust a caustic blade with lethal precision to stab an enemy, dealing |cffffff1856|r Disease Damage. Deals up to |cffffff400|r% more damage to enemies with less than |cffffff50|r% Health.\n\nHeals you for |cffffff3343|r if the enemy dies within |cffffff2|r seconds of being struck.",
-          "durationMs": 0,
-          "castMs": 0,
-          "channeled": false,
-          "cooldownMs": 0,
-          "ultimateCost": 0
-        },
-        {
-          "slot": 7,
-          "abilityId": 61505,
-          "name": "Echoing Vigor",
-          "description": "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff7281|r Health over |cffffff16|r seconds.",
-          "durationMs": 16000,
-          "castMs": 0,
-          "channeled": false,
-          "cooldownMs": 0,
-          "ultimateCost": 0
+          "link": "|H0:item:97056:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:1:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 1039,
+          "weaponPower": 0,
+          "enchant": "Adds |cffffff386|r Maximum Health.",
+          "enchantCategory": 11,
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5,
+          "setId": 293,
+          "setName": "Plague Doctor",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Adds |cffffff2804|r Maximum Health",
+              "perfected": false
+            }
+          ]
         },
         {
           "slot": 8,
-          "abilityId": 36514,
-          "name": "Soul Harvest",
-          "description": "Ravage an enemy with a spinning attack, dealing |cffffff5942|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate.",
-          "durationMs": 0,
-          "castMs": 400,
-          "channeled": false,
-          "cooldownMs": 0,
-          "ultimateCost": 71
+          "link": "|H0:item:97054:364:50:0:0:0:16:25:0:0:0:0:0:0:2049:1:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 2425,
+          "weaponPower": 0,
+          "enchant": "Adds |cffffff1192|r Maximum Health.",
+          "enchantCategory": 11,
+          "trait": "Increase armor enchantment effect by |cffffff25|r%.",
+          "quality": 5,
+          "setId": 293,
+          "setName": "Plague Doctor",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Adds |cffffff2804|r Maximum Health",
+              "perfected": false
+            }
+          ]
+        },
+        {
+          "slot": 9,
+          "link": "|H0:item:97051:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:1:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 2425,
+          "weaponPower": 0,
+          "enchant": "Adds |cffffff386|r Maximum Health.",
+          "enchantCategory": 11,
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5,
+          "setId": 293,
+          "setName": "Plague Doctor",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Adds |cffffff2804|r Maximum Health",
+              "perfected": false
+            }
+          ]
+        },
+        {
+          "slot": 11,
+          "link": "|H0:item:69165:364:50:0:0:0:21:25:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 0,
+          "weaponPower": 0,
+          "enchant": "Adds |cffffff169|r Health Recovery.",
+          "enchantCategory": 12,
+          "trait": "Increases Maximum Health by |cffffff965|r.",
+          "quality": 5,
+          "setId": 204,
+          "setName": "Endurance",
+          "setBonusCount": 2,
+          "setEquipped": 2,
+          "setMaxEquipped": 3,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1928|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds 618 Health Recovery",
+              "perfected": false
+            }
+          ]
+        },
+        {
+          "slot": 12,
+          "link": "|H0:item:175527:364:50:0:0:0:21:25:0:0:0:0:0:0:2049:0:0:1:0:0:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 0,
+          "weaponPower": 0,
+          "enchant": "Adds |cffffff169|r Stamina Recovery.",
+          "enchantCategory": 18,
+          "trait": "Increases Maximum Health by |cffffff965|r.",
+          "quality": 5,
+          "setId": 596,
+          "setName": "Death Dealer's Fete",
+          "setBonusCount": 1,
+          "setEquipped": 1,
+          "setMaxEquipped": 1,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 1,
+              "description": "(1 item) Gain a persistent stack of Escalating Fete every |cffffff2|r seconds you are in combat, up to 30 stacks max. Each stack of Escalating Fete increases your Maximum Stamina, Health, and Magicka by |cffffff88|r. You lose a stack of Escalating Fete every |cffffff4|r seconds you are out of combat.",
+              "perfected": false
+            }
+          ]
+        },
+        {
+          "slot": 16,
+          "link": "|H0:item:97052:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:1:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 1386,
+          "weaponPower": 0,
+          "enchant": "Adds |cffffff386|r Maximum Health.",
+          "enchantCategory": 11,
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5,
+          "setId": 293,
+          "setName": "Plague Doctor",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Adds |cffffff2804|r Maximum Health",
+              "perfected": false
+            }
+          ]
         }
       ],
-      "classPassives": [
-        {
-          "abilityId": 116272,
-          "name": "Last Gasp",
-          "description": "Increase your Max Health by |cffffff2412|r."
-        },
-        {
-          "abilityId": 45038,
-          "name": "Master Assassin",
-          "description": "Increases your Critical Chance rating against enemies you are flanking by |cffffff1448|r, increasing your chance to critically strike by |cffffff|6.6|r%."
-        },
-        {
-          "abilityId": 45048,
-          "name": "Executioner",
-          "description": "When an enemy dies within |cffffff2|r seconds of being damaged by you, you restore |cffffff1000|r Magicka and Stamina."
-        },
-        {
-          "abilityId": 45053,
-          "name": "Pressure Points",
-          "description": "Increases your Critical Chance rating by |cffffff438|r for each Nightblade ability slotted, increasing your chance to critically strike by |cffffff2|r% per ability.\n\nCurrent bonus: |cffffff876|r."
-        },
-        {
-          "abilityId": 45060,
-          "name": "Hemorrhage",
-          "description": "Increases your Critical Damage by |cffffff10|r%. \n\nCritically striking in any form grants you and your group Minor Savagery, increasing Critical Chance by |cffffff6|r% for |cffffff20|r seconds."
-        },
-        {
-          "abilityId": 184847,
-          "name": "Fated Fortune",
-          "description": "Warp fate when you generate or consume Crux, increasing your Critical Damage and Critical Healing by |cffffff12|r% for |cffffff7|r seconds."
-        },
-        {
-          "abilityId": 184858,
-          "name": "Harnessed Quintessence",
-          "description": "You master the warp and weft of your very soul. \n\nWhen you restore Magicka or Stamina, your Weapon and Spell Damage increase by |cffffff284|r for |cffffff10|r seconds."
-        },
-        {
-          "abilityId": 184873,
-          "name": "Psychic Lesion",
-          "description": "Your attacks wound the mind with heretical knowledge, increasing damage dealt by Status Effects by |cffffff15|r% and Status Effect Chance by |cffffff55|r%."
-        },
-        {
-          "abilityId": 184887,
-          "name": "Splintered Secrets",
-          "description": "What they don't know can kill them. Increase your Physical and Spell Penetration by |cffffff1240|r per Herald of the Tome ability slotted.\n\nCurrent bonus: |cffffff2480|r."
-        }
-      ],
-      "inArchive": false,
-      "blocking": false,
-      "moving": false,
-      "archiveBoons": [],
-      "advanced": {
-        "healing-taken-base": 0.02,
-        "critical-damage": 0.1,
-        "healing-done-base": 0.02,
-        "healing-critical-bonus": 0
-      },
-      "advancedSheet": {
-        "frost-resist": {
-          "category": "Resistances",
-          "label": "Frost Resistance",
-          "format": "flat-or-percent",
-          "flat": 1731,
-          "percent": 2.6227271557
-        },
-        "magic-damage": {
-          "category": "Damage Bonuses",
-          "label": "Magic Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "bleed-resist": {
-          "category": "Resistances",
-          "label": "Bleed Resistance",
-          "format": "flat-or-percent",
-          "flat": 1731,
-          "percent": 2.6227271557
-        },
-        "subscriber-all-xp": {
-          "category": "ESO Plus",
-          "label": "Experience",
-          "format": "percent",
-          "percent": 10
-        },
-        "disease-damage": {
-          "category": "Damage Bonuses",
-          "label": "Disease Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "subscriber-alliance-points-bonus": {
-          "category": "ESO Plus",
-          "label": "Alliance Points",
-          "format": "percent",
-          "percent": 10
-        },
-        "healing-done-bonuses": {
-          "category": "Healing Bonuses",
-          "label": "Healing Done",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 2
-        },
-        "magic-resist": {
-          "category": "Resistances",
-          "label": "Magic Resistance",
-          "format": "flat-or-percent",
-          "flat": 1731,
-          "percent": 2.6227271557
-        },
-        "physical-damage": {
-          "category": "Damage Bonuses",
-          "label": "Physical Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "shock-damage": {
-          "category": "Damage Bonuses",
-          "label": "Shock Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "sneak-cost": {
-          "category": "Core Abilities",
-          "label": "Sneak Cost",
-          "format": "flat",
-          "flat": 133
-        },
-        "block-cost": {
-          "category": "Core Abilities",
-          "label": "Block Cost",
-          "format": "flat",
-          "flat": 1676
-        },
-        "fire-damage": {
-          "category": "Damage Bonuses",
-          "label": "Flame Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "critical-healing": {
-          "category": "Healing Bonuses",
-          "label": "Critical Healing",
-          "format": "percent",
-          "percent": 0
-        },
-        "block-speed": {
-          "category": "Core Abilities",
-          "label": "Block Move Speed",
-          "format": "percent",
-          "percent": 42
-        },
-        "bash-damage": {
-          "category": "Core Abilities",
-          "label": "Bash Damage",
-          "format": "flat",
-          "flat": 169
-        },
-        "oblivion-damage": {
-          "category": "Damage Bonuses",
-          "label": "Oblivion Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "cold-damage": {
-          "category": "Damage Bonuses",
-          "label": "Frost Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "sneak-speed-reduction": {
-          "category": "Core Abilities",
-          "label": "Sneak Speed",
-          "format": "percent",
-          "percent": 70
-        },
-        "poison-resist": {
-          "category": "Resistances",
-          "label": "Poison Resistance",
-          "format": "flat-or-percent",
-          "flat": 1731,
-          "percent": 2.6227271557
-        },
-        "block-mitigation": {
-          "category": "Core Abilities",
-          "label": "Block Mitigation",
-          "format": "percent",
-          "percent": 52
-        },
-        "subscriber-coin-bonus": {
-          "category": "ESO Plus",
-          "label": "Gold",
-          "format": "percent",
-          "percent": 10
-        },
-        "disease-resist": {
-          "category": "Resistances",
-          "label": "Disease Resistance",
-          "format": "flat-or-percent",
-          "flat": 1731,
-          "percent": 2.6227271557
-        },
-        "fire-resist": {
-          "category": "Resistances",
-          "label": "Flame Resistance",
-          "format": "flat-or-percent",
-          "flat": 1731,
-          "percent": 2.6227271557
-        },
-        "subscriber-telvar-bonus": {
-          "category": "ESO Plus",
-          "label": "Tel Var",
-          "format": "percent",
-          "percent": 10
-        },
-        "healing-taken-bonuses": {
-          "category": "Healing Bonuses",
-          "label": "Healing Taken",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 2
-        },
-        "cc-break-cost": {
-          "category": "Core Abilities",
-          "label": "Break Free Cost",
-          "format": "flat",
-          "flat": 5076
-        },
-        "dodge-cost": {
-          "category": "Core Abilities",
-          "label": "Dodge Roll Cost",
-          "format": "flat",
-          "flat": 3724
-        },
-        "bash-cost": {
-          "category": "Core Abilities",
-          "label": "Bash Cost",
-          "format": "flat",
-          "flat": 662
-        },
-        "poison-damage": {
-          "category": "Damage Bonuses",
-          "label": "Poison Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "shock-resist": {
-          "category": "Resistances",
-          "label": "Shock Resistance",
-          "format": "flat-or-percent",
-          "flat": 1731,
-          "percent": 2.6227271557
-        },
-        "sprint-cost": {
-          "category": "Core Abilities",
-          "label": "Sprint Cost",
-          "format": "flat",
-          "flat": 451
-        },
-        "sprint-speed": {
-          "category": "Core Abilities",
-          "label": "Sprint Speed",
-          "format": "percent",
-          "percent": 144
-        },
-        "critical-damage": {
-          "category": "Damage Bonuses",
-          "label": "Critical Damage",
-          "format": "percent",
-          "percent": 10
-        },
-        "bleed-damage": {
-          "category": "Damage Bonuses",
-          "label": "Bleed Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "subscriber-inspiration-bonus": {
-          "category": "ESO Plus",
-          "label": "Crafting Inspiration",
-          "format": "percent",
-          "percent": 10
-        }
-      },
-      "sheet": {
-        "attribute-points-health": 0,
-        "riding-capacity": 60,
-        "critical-chance-weapon": 15.4116458893,
-        "attribute-points-unspent": 0,
-        "critical-chance-spell": 15.4116458893,
-        "attribute-points-stamina": 64,
-        "riding-speed": 60,
-        "attribute-points-magicka": 0,
-        "riding-stamina": 60
-      },
-      "passiveRankIds": []
-    },
-    "backBar": {
-      "capturedAt": 1792511820,
-      "buildHash": "ATQKVJUAAIBkRRP__EoLBl6fSvxBjO8lNMXF3RBAInRAAAABQAAUAJADXBMGwTAAFiAmKFESQOAAADAQAgEIAAFCESEiMTA1IAIyMSACISAgAyMKMjCiJhEAgqEqy6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDjEgawA",
-      "esoVersion": "eso.live.12.1.6.3309674",
-      "inCombat": false,
-      "ultimate": 48,
-      "health": 27579,
-      "stats": {
-        "penetration-physical": 5924,
-        "magicka-recovery": 514,
-        "health-maximum": 27579,
-        "resistance-spell": 1731,
-        "critical-rating-spell": 2939,
-        "health-recovery": 278,
-        "resistance-physical": 1731,
-        "power-weapon": 1200,
-        "critical-rating-weapon": 2939,
-        "penetration-spell": 5924,
-        "magicka-maximum": 12520,
-        "resistance-critical": 1320,
-        "power-spell": 1200,
-        "stamina-maximum": 20224,
-        "stamina-recovery": 514
-      },
-      "unbonusedStats": {
-        "penetration-physical": 0,
-        "magicka-recovery": 514,
-        "health-maximum": 27579,
-        "resistance-spell": 0,
-        "critical-rating-spell": 2181,
-        "health-recovery": 278,
-        "resistance-physical": 0,
-        "power-weapon": 1000,
-        "critical-rating-weapon": 2181,
-        "penetration-spell": 0,
-        "magicka-maximum": 12520,
-        "resistance-critical": 0,
-        "power-spell": 1000,
-        "stamina-maximum": 20224,
-        "stamina-recovery": 514
-      },
-      "activeBuffs": [
-        {
-          "abilityId": 135397,
-          "name": "Vampire Stage 1",
-          "description": "",
-          "effect": "You are slightly corrupted from the influence of Vampirism.\n\nHealth Recovery: -10%\nFlame Damage Taken: +5%\nRegular Ability Costs: +3%\nVampire Ability Costs: -6%\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 63569,
-          "name": "Gallop",
-          "description": "",
-          "effect": "Increases your Mount Speed by |cffffff15|r%.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61259,
-          "name": "Increase Max Health",
-          "description": "Increase Max Health by |cffffff0|r for |cffffff35|r minutes.",
-          "effect": "Increase Max Health by |cffffff6607|r.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 13981,
-          "name": "Boon: The Lover",
-          "description": "increases Physical and Spell Penetration",
-          "effect": "Increases your Spell and Physical Penetration by |cffffff2744|r.\n",
-          "stacks": 0
-        },
-        {
-          "abilityId": 61665,
-          "name": "Major Brutality",
-          "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
-          "stacks": 0
-        }
-      ],
-      "fete": {
-        "stacks": 0,
-        "changedMsAgo": 433813
-      },
-      "pets": [],
-      "championPoints": [
-        {
-          "championSkillId": 68,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "|cffffff3|r meters",
-          "slottable": false
-        },
-        {
-          "championSkillId": 76,
-          "points": 25,
-          "maxPoints": 25,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 84,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 90,
-          "points": 25,
-          "maxPoints": 25,
-          "bonus": "",
-          "slottable": false
-        },
-        {
-          "championSkillId": 78,
-          "points": 75,
-          "maxPoints": 75,
-          "bonus": "|cffffff50|r% time reduction",
-          "slottable": true
-        },
-        {
-          "championSkillId": 79,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": false
-        },
-        {
-          "championSkillId": 75,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff50|r% chance",
-          "slottable": false
-        },
-        {
-          "championSkillId": 85,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "|cffffff30|r minutes",
-          "slottable": false
-        },
-        {
-          "championSkillId": 86,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": false
-        },
-        {
-          "championSkillId": 89,
-          "points": 25,
-          "maxPoints": 25,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 88,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 91,
-          "points": 25,
-          "maxPoints": 25,
-          "bonus": "",
-          "slottable": false
-        },
-        {
-          "championSkillId": 70,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff50|r% cost reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 81,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff50|r% chance",
-          "slottable": false
-        },
-        {
-          "championSkillId": 82,
-          "points": 75,
-          "maxPoints": 75,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 92,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff10|r% Mount Speed",
-          "slottable": true
-        },
-        {
-          "championSkillId": 83,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": false
-        },
-        {
-          "championSkillId": 72,
-          "points": 45,
-          "maxPoints": 45,
-          "bonus": "|cffffff30|r% increase",
-          "slottable": false
-        },
-        {
-          "championSkillId": 71,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff50|r% increased gold find",
-          "slottable": false
-        },
-        {
-          "championSkillId": 77,
-          "points": 25,
-          "maxPoints": 25,
-          "bonus": "",
-          "slottable": false
-        },
-        {
-          "championSkillId": 67,
-          "points": 40,
-          "maxPoints": 40,
-          "bonus": "|cffffff25|r% reduced penalty",
-          "slottable": false
-        },
-        {
-          "championSkillId": 74,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff10|r% increased gold",
-          "slottable": false
-        },
-        {
-          "championSkillId": 69,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff35|r% reduced damage",
-          "slottable": false
-        },
-        {
-          "championSkillId": 87,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "",
-          "slottable": false
-        },
-        {
-          "championSkillId": 66,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff20|r% Movement Speed",
-          "slottable": true
-        },
-        {
-          "championSkillId": 65,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff50|r% cost reduction",
-          "slottable": true
-        },
-        {
-          "championSkillId": 1,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff50|r% cost reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 11,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff320|r Critical Chance",
-          "slottable": false
-        },
-        {
-          "championSkillId": 12,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff8|r% Critical Damage and Critical Healing done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 108,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff2|r% Healing Done",
-          "slottable": false
-        },
-        {
-          "championSkillId": 26,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff10|r% Healing Done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 10,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff700|r Offensive Penetration",
-          "slottable": false
-        },
-        {
-          "championSkillId": 277,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff10|r% damage done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 276,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 264,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff6|r% damage done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 17,
-          "points": 40,
-          "maxPoints": 40,
-          "bonus": "|cffffff60|r% increased chance",
-          "slottable": false
-        },
-        {
-          "championSkillId": 21,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "",
-          "slottable": false
-        },
-        {
-          "championSkillId": 18,
-          "points": 40,
-          "maxPoints": 40,
-          "bonus": "|cffffff60|r% increased chance",
-          "slottable": false
-        },
-        {
-          "championSkillId": 22,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "",
-          "slottable": false
-        },
-        {
-          "championSkillId": 25,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff6|r% damage done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 23,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff6|r% damage done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 27,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff6|r% damage done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 30,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 8,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff205|r Weapon and Spell Damage",
-          "slottable": true
-        },
-        {
-          "championSkillId": 31,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff10|r% Critical Damage done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 6,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff520|r Max Stamina",
-          "slottable": false
-        },
-        {
-          "championSkillId": 20,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff2|r% Healing Taken",
-          "slottable": false
-        },
-        {
-          "championSkillId": 14,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff10|r% damage reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 15,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff2|r% damage reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 16,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff2|r% damage reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 99,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff520|r Max Magicka",
-          "slottable": false
-        },
-        {
-          "championSkillId": 5,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff1300|r Max Stamina",
-          "slottable": true
-        },
-        {
-          "championSkillId": 4,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff150|r Weapon and Spell Damage",
-          "slottable": true
-        },
-        {
-          "championSkillId": 38,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff40|r cost reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 42,
-          "points": 16,
-          "maxPoints": 16,
-          "bonus": "|cffffff4|r% Movement Speed",
-          "slottable": false
-        },
-        {
-          "championSkillId": 272,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff6|r seconds On Kill",
-          "slottable": true
-        },
-        {
-          "championSkillId": 270,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff10|r% Movement Speed",
-          "slottable": true
-        },
-        {
-          "championSkillId": 113,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff560|r Max Health",
-          "slottable": false
-        },
-        {
-          "championSkillId": 63,
-          "points": 10,
-          "maxPoints": 50,
-          "bonus": "|cffffff2|r% cost reduction",
-          "slottable": true
-        },
-        {
-          "championSkillId": 46,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff15|r% effectiveness and damage done",
-          "slottable": true
-        },
-        {
-          "championSkillId": 58,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff10|r% more resources",
-          "slottable": false
-        },
-        {
-          "championSkillId": 56,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 45,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "|cffffff3|r meters",
-          "slottable": false
-        },
-        {
-          "championSkillId": 48,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff1500|r Stamina",
-          "slottable": true
-        },
-        {
-          "championSkillId": 53,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff25|r% reduced duration",
-          "slottable": false
-        },
-        {
-          "championSkillId": 273,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff150|r Health, Magicka, and Stamina Recovery",
-          "slottable": true
-        },
-        {
-          "championSkillId": 47,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff1500|r Magicka",
-          "slottable": true
-        },
-        {
-          "championSkillId": 39,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff40|r Block cost reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 40,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "|cffffff90|r cost reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 50,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff120|r increased damage",
-          "slottable": false
-        },
-        {
-          "championSkillId": 44,
-          "points": 6,
-          "maxPoints": 6,
-          "bonus": "|cffffff6|r% Movement Speed",
-          "slottable": false
-        },
-        {
-          "championSkillId": 266,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff10|r% damage reduction",
-          "slottable": true
-        },
-        {
-          "championSkillId": 43,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "|cffffff4|r% Block mitigation",
-          "slottable": false
-        },
-        {
-          "championSkillId": 37,
-          "points": 30,
-          "maxPoints": 30,
-          "bonus": "|cffffff240|r cost reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 51,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 128,
-          "points": 20,
-          "maxPoints": 20,
-          "bonus": "|cffffff220|r cost reduction",
-          "slottable": false
-        },
-        {
-          "championSkillId": 52,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "",
-          "slottable": true
-        },
-        {
-          "championSkillId": 35,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff90|r Health, Magicka, and Stamina Recovery",
-          "slottable": true
-        },
-        {
-          "championSkillId": 34,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff1731|r Armor",
-          "slottable": true
-        },
-        {
-          "championSkillId": 2,
-          "points": 50,
-          "maxPoints": 50,
-          "bonus": "|cffffff1400|r Max Health",
-          "slottable": true
-        }
-      ],
-      "worn": [],
       "skills": [
         {
           "slot": 3,
-          "abilityId": 38788,
-          "name": "Stampede",
-          "description": "Launch across the earth and smash an enemy, dealing |cffffff2545|r Physical Damage to them and all nearby enemies. This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing |cffffff551|r Physical Damage to all enemies in the area every |cffffff1|r second for |cffffff15|r seconds.",
+          "abilityId": 33375,
+          "name": "Blur",
+          "description": "Surround yourself in a phantasmic aura to gain Major Evasion, reducing damage from area attacks by |cffffff20|r% for |cffffff22|r seconds.\n\nWhile active, taking direct damage reduces the cost of your next Roll Dodge by |cffffff10|r%, up to a maximum of |cffffff100|r%. This effect can stack up to once every half second.",
+          "durationMs": 22000,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0,
+          "ultimateCost": 0,
+          "morph": 0,
+          "rank": 4
+        },
+        {
+          "slot": 4,
+          "abilityId": 25377,
+          "name": "Dark Cloak",
+          "description": "Shroud yourself in protective shadow to heal for |cffffff4499|r Health every |cffffff1|r second, over |cffffff3|r seconds, increasing by an additional |cffffff150|r% while Bracing. This portion of the ability scales off your Max Health.\n\nWhile slotted on either bar, you gain Minor Protection, reducing your damage taken by |cffffff5|r%.",
+          "durationMs": 3000,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0,
+          "ultimateCost": 0,
+          "morph": 2,
+          "rank": 4
+        },
+        {
+          "slot": 5,
+          "abilityId": 33195,
+          "name": "Path of Darkness",
+          "description": "Create a corridor of shadows for |cffffff12|r seconds, granting you and allies in the area Major Expedition, increasing Movement Speed by |cffffff30|r%. Effect persists for |cffffff4|r seconds after leaving the path.",
+          "durationMs": 12000,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0,
+          "ultimateCost": 0,
+          "morph": 0,
+          "rank": 4
+        },
+        {
+          "slot": 6,
+          "abilityId": 25352,
+          "name": "Aspect of Terror",
+          "description": "Embody a dark spirit to terrify nearby enemies, causing them to cower in fear for |cffffff4|r seconds and be afflicted with Major Cowardice for |cffffff12|r seconds, reducing their Weapon and Spell Damage by |cffffff430|r.",
+          "durationMs": 4000,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0,
+          "ultimateCost": 0,
+          "morph": 0,
+          "rank": 4
+        },
+        {
+          "slot": 7,
+          "abilityId": 33211,
+          "name": "Summon Shade",
+          "description": "Summon a shade version of yourself to attack an enemy and fight at your side for |cffffff22|r seconds. \n\nThe shade slashes at an enemy, dealing |cffffff842|r Magic Damage once every |cffffff2|r seconds, and inflicts Minor Maim for |cffffff4|r seconds, reducing the enemy's damage done by |cffffff5|r%.",
+          "durationMs": 22000,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0,
+          "ultimateCost": 0,
+          "morph": 0,
+          "rank": 4
+        },
+        {
+          "slot": 8,
+          "abilityId": 25411,
+          "name": "Consuming Darkness",
+          "description": "Conjure a ring of shadow, reducing the Movement Speed of enemies by |cffffff70|r% and granting you and your allies Major Protection, reducing your damage taken by |cffffff10|r%.\n\nAllies in the area can activate the Hidden Refresh synergy, granting them invisibility, increasing their Movement Speed by |cffffff70|r%, and healing them for |cffffff16535|r Health over |cffffff4|r seconds.",
           "durationMs": 15000,
           "castMs": 0,
           "channeled": false,
           "cooldownMs": 0,
-          "ultimateCost": 0
-        },
-        {
-          "slot": 4,
-          "abilityId": 185839,
-          "name": "Rune of Displacement",
-          "description": "Devise a discharging rune under an enemy. After |cffffff2|r seconds the rune pulses, pulling in foes between 2 to 10 meters and etching them with scrawled glyphs that deal |cffffff7800|r Magic Damage over |cffffff18|r seconds.\n\nAn ally near the initial target can activate the Runebreak synergy, dealing |cffffff4927|r Frost Damage to enemies within 7 meters.",
-          "durationMs": 18000,
-          "castMs": 0,
-          "channeled": false,
-          "cooldownMs": 0,
-          "ultimateCost": 0
-        },
-        {
-          "slot": 5,
-          "abilityId": 185842,
-          "name": "Inspired Scholarship",
-          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff1615|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
-          "durationMs": 30000,
-          "castMs": 0,
-          "channeled": false,
-          "cooldownMs": 0,
-          "ultimateCost": 0
-        },
-        {
-          "slot": 6,
-          "abilityId": 42138,
-          "name": "Spiked Bone Shield",
-          "description": "Surround yourself with a whirlwind of bones, gaining a damage shield that absorbs up to |cffffff9828|r damage for |cffffff6|r seconds and returns |cffffff95|r% of direct damage absorbed back to the enemy. This ability scales off your Max Health.\n\nAn ally near you can activate the Bone Wall synergy, granting the ally and up to |cffffff5|r other allies a damage shield equal to |cffffff35|r% of their Max Health for |cffffff6|r seconds.",
-          "durationMs": 6000,
-          "castMs": 0,
-          "channeled": false,
-          "cooldownMs": 0,
-          "ultimateCost": 0
-        },
-        {
-          "slot": 7,
-          "abilityId": 39298,
-          "name": "Necrotic Orb",
-          "description": "Project a globe of annihilation that slowly floats forward for |cffffff10|r seconds, dealing |cffffff534|r Magic Damage every |cffffff1|r second to nearby enemies. \n\nAn ally near the globe can activate the Combustion synergy, causing the orb to explode for |cffffff4106|r Magic Damage to nearby enemies and restore |cffffff3960|r Magicka or Stamina to the ally, whichever maximum is higher.",
-          "durationMs": 10000,
-          "castMs": 0,
-          "channeled": false,
-          "cooldownMs": 0,
-          "ultimateCost": 0
-        },
-        {
-          "slot": 8,
-          "abilityId": 36514,
-          "name": "Soul Harvest",
-          "description": "Ravage an enemy with a spinning attack, dealing |cffffff6423|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate.",
-          "durationMs": 0,
-          "castMs": 400,
-          "channeled": false,
-          "cooldownMs": 0,
-          "ultimateCost": 71
+          "ultimateCost": 188,
+          "morph": 0,
+          "rank": 4
         }
       ],
       "classPassives": [
+        {
+          "abilityId": 116235,
+          "name": "Death Gleaning",
+          "description": "Whenever an enemy you are in combat with dies within |cffffff28|r meters of you, restore |cffffff666|r Magicka and Stamina."
+        },
+        {
+          "abilityId": 116240,
+          "name": "Disdain Harm",
+          "description": "Reduce the damage you take from damage over time abilities by |cffffff15|r% while you have a Bone Tyrant ability active."
+        },
+        {
+          "abilityId": 116270,
+          "name": "Health Avarice",
+          "description": "Increase your Healing Received by |cffffff3|r% for each Bone Tyrant ability slotted.\n\nCurrent bonus: |cffffff0|r%."
+        },
         {
           "abilityId": 116272,
           "name": "Last Gasp",
           "description": "Increase your Max Health by |cffffff2412|r."
         },
         {
-          "abilityId": 45038,
-          "name": "Master Assassin",
-          "description": "Increases your Critical Chance rating against enemies you are flanking by |cffffff1448|r, increasing your chance to critically strike by |cffffff|6.6|r%."
+          "abilityId": 45103,
+          "name": "Refreshing Shadows",
+          "description": "Increases your Health, Stamina, and Magicka Recovery by |cffffff15|r%."
         },
         {
-          "abilityId": 45048,
-          "name": "Executioner",
-          "description": "When an enemy dies within |cffffff2|r seconds of being damaged by you, you restore |cffffff1000|r Magicka and Stamina."
+          "abilityId": 45071,
+          "name": "Shadow Barrier",
+          "description": "Casting a Shadow ability grants you Major Resolve for |cffffff12|r seconds, increasing your Physical and Spell Resistance by |cffffff5948|r. This duration is increased by |cffffff2|r seconds for each piece of Heavy Armor equipped.\n\nCurrent duration: |cffffff26|r seconds"
         },
         {
-          "abilityId": 45053,
-          "name": "Pressure Points",
-          "description": "Increases your Critical Chance rating by |cffffff438|r for each Nightblade ability slotted, increasing your chance to critically strike by |cffffff2|r% per ability.\n\nCurrent bonus: |cffffff438|r."
+          "abilityId": 45084,
+          "name": "Dark Vigor",
+          "description": "Increases your Max Health by |cffffff5|r% for each Shadow ability slotted.\n\nCurrent bonus: |cffffff30|r%."
         },
         {
-          "abilityId": 45060,
-          "name": "Hemorrhage",
-          "description": "Increases your Critical Damage by |cffffff10|r%. \n\nCritically striking in any form grants you and your group Minor Savagery, increasing Critical Chance by |cffffff6|r% for |cffffff20|r seconds."
+          "abilityId": 45115,
+          "name": "Dark Veil",
+          "description": "Increases the duration of your Shadow abilities by |cffffff2|r seconds.\n\nDoes not apply to Shadow Cloak or its morphs."
         },
         {
-          "abilityId": 184847,
-          "name": "Fated Fortune",
-          "description": "Warp fate when you generate or consume Crux, increasing your Critical Damage and Critical Healing by |cffffff12|r% for |cffffff7|r seconds."
+          "abilityId": 85883,
+          "name": "Accelerated Growth",
+          "description": "When you heal yourself or an ally under |cffffff40|r% Health with a Green Balance ability you gain Major Mending, increasing your healing done by |cffffff16|r% for |cffffff4|r seconds."
         },
         {
-          "abilityId": 184858,
-          "name": "Harnessed Quintessence",
-          "description": "You master the warp and weft of your very soul. \n\nWhen you restore Magicka or Stamina, your Weapon and Spell Damage increase by |cffffff284|r for |cffffff10|r seconds."
+          "abilityId": 85879,
+          "name": "Nature's Gift",
+          "description": "When you overheal yourself or an ally with a Green Balance ability, you gain |cffffff250|r Magicka and |cffffff250|r Stamina, up to once every |cffffff1|r second."
         },
         {
-          "abilityId": 184873,
-          "name": "Psychic Lesion",
-          "description": "Your attacks wound the mind with heretical knowledge, increasing damage dealt by Status Effects by |cffffff15|r% and Status Effect Chance by |cffffff55|r%."
+          "abilityId": 85877,
+          "name": "Emerald Moss",
+          "description": "Increases your healing done with Green Balance abilities by |cffffff5|r% for each Green Balance ability slotted.\n\nCurrent Bonus: |cffffff0|r%."
         },
         {
-          "abilityId": 184887,
-          "name": "Splintered Secrets",
-          "description": "What they don't know can kill them. Increase your Physical and Spell Penetration by |cffffff1240|r per Herald of the Tome ability slotted.\n\nCurrent bonus: |cffffff2480|r."
+          "abilityId": 85881,
+          "name": "Maturation",
+          "description": "When you activate a heal on yourself or an ally you grant the target Minor Toughness, increasing their Max Health by |cffffff10|r% for |cffffff20|r seconds."
         }
       ],
       "inArchive": false,
@@ -15573,98 +14577,17 @@
       "moving": false,
       "archiveBoons": [],
       "advanced": {
-        "healing-taken-base": 0.02,
-        "critical-damage": 0.1,
-        "healing-done-base": 0.02,
+        "healing-taken-base": 0.07,
+        "healing-done-base": 0,
+        "critical-damage": 0,
         "healing-critical-bonus": 0
       },
       "advancedSheet": {
-        "frost-resist": {
-          "category": "Resistances",
-          "label": "Frost Resistance",
-          "format": "flat-or-percent",
-          "flat": 1731,
-          "percent": 2.6227271557
-        },
-        "magic-damage": {
-          "category": "Damage Bonuses",
-          "label": "Magic Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "bleed-resist": {
-          "category": "Resistances",
-          "label": "Bleed Resistance",
-          "format": "flat-or-percent",
-          "flat": 1731,
-          "percent": 2.6227271557
-        },
-        "subscriber-all-xp": {
-          "category": "ESO Plus",
-          "label": "Experience",
-          "format": "percent",
-          "percent": 10
-        },
-        "disease-damage": {
-          "category": "Damage Bonuses",
-          "label": "Disease Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
         "subscriber-alliance-points-bonus": {
           "category": "ESO Plus",
           "label": "Alliance Points",
           "format": "percent",
           "percent": 10
-        },
-        "healing-done-bonuses": {
-          "category": "Healing Bonuses",
-          "label": "Healing Done",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 2
-        },
-        "magic-resist": {
-          "category": "Resistances",
-          "label": "Magic Resistance",
-          "format": "flat-or-percent",
-          "flat": 1731,
-          "percent": 2.6227271557
-        },
-        "physical-damage": {
-          "category": "Damage Bonuses",
-          "label": "Physical Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "shock-damage": {
-          "category": "Damage Bonuses",
-          "label": "Shock Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "sneak-cost": {
-          "category": "Core Abilities",
-          "label": "Sneak Cost",
-          "format": "flat",
-          "flat": 133
-        },
-        "block-cost": {
-          "category": "Core Abilities",
-          "label": "Block Cost",
-          "format": "flat",
-          "flat": 1676
-        },
-        "fire-damage": {
-          "category": "Damage Bonuses",
-          "label": "Flame Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
         },
         "critical-healing": {
           "category": "Healing Bonuses",
@@ -15672,50 +14595,50 @@
           "format": "percent",
           "percent": 0
         },
-        "block-speed": {
-          "category": "Core Abilities",
-          "label": "Block Move Speed",
+        "subscriber-telvar-bonus": {
+          "category": "ESO Plus",
+          "label": "Tel Var",
           "format": "percent",
-          "percent": 42
+          "percent": 10
         },
-        "bash-damage": {
+        "poison-damage": {
+          "category": "Damage Bonuses",
+          "label": "Poison Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "block-cost": {
           "category": "Core Abilities",
-          "label": "Bash Damage",
+          "label": "Block Cost",
           "format": "flat",
-          "flat": 169
-        },
-        "oblivion-damage": {
-          "category": "Damage Bonuses",
-          "label": "Oblivion Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "cold-damage": {
-          "category": "Damage Bonuses",
-          "label": "Frost Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
+          "flat": 1053
         },
         "sneak-speed-reduction": {
           "category": "Core Abilities",
           "label": "Sneak Speed",
           "format": "percent",
-          "percent": 70
+          "percent": 60
+        },
+        "frost-resist": {
+          "category": "Resistances",
+          "label": "Frost Resistance",
+          "format": "flat-or-percent",
+          "flat": 20657,
+          "percent": 31.2984848022
         },
         "poison-resist": {
           "category": "Resistances",
           "label": "Poison Resistance",
           "format": "flat-or-percent",
-          "flat": 1731,
-          "percent": 2.6227271557
+          "flat": 20657,
+          "percent": 31.2984848022
         },
-        "block-mitigation": {
+        "dodge-cost": {
           "category": "Core Abilities",
-          "label": "Block Mitigation",
-          "format": "percent",
-          "percent": 52
+          "label": "Dodge Roll Cost",
+          "format": "flat",
+          "flat": 4646
         },
         "subscriber-coin-bonus": {
           "category": "ESO Plus",
@@ -15727,19 +14650,70 @@
           "category": "Resistances",
           "label": "Disease Resistance",
           "format": "flat-or-percent",
-          "flat": 1731,
-          "percent": 2.6227271557
+          "flat": 20657,
+          "percent": 31.2984848022
         },
-        "fire-resist": {
-          "category": "Resistances",
-          "label": "Flame Resistance",
-          "format": "flat-or-percent",
-          "flat": 1731,
-          "percent": 2.6227271557
+        "critical-damage": {
+          "category": "Damage Bonuses",
+          "label": "Critical Damage",
+          "format": "percent",
+          "percent": 0
         },
-        "subscriber-telvar-bonus": {
+        "oblivion-damage": {
+          "category": "Damage Bonuses",
+          "label": "Oblivion Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "magic-damage": {
+          "category": "Damage Bonuses",
+          "label": "Magic Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "physical-damage": {
+          "category": "Damage Bonuses",
+          "label": "Physical Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "fire-damage": {
+          "category": "Damage Bonuses",
+          "label": "Flame Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "cc-break-cost": {
+          "category": "Core Abilities",
+          "label": "Break Free Cost",
+          "format": "flat",
+          "flat": 5076
+        },
+        "bash-damage": {
+          "category": "Core Abilities",
+          "label": "Bash Damage",
+          "format": "flat",
+          "flat": 965
+        },
+        "subscriber-all-xp": {
           "category": "ESO Plus",
-          "label": "Tel Var",
+          "label": "Experience",
+          "format": "percent",
+          "percent": 10
+        },
+        "sprint-cost": {
+          "category": "Core Abilities",
+          "label": "Sprint Cost",
+          "format": "flat",
+          "flat": 432
+        },
+        "subscriber-inspiration-bonus": {
+          "category": "ESO Plus",
+          "label": "Crafting Inspiration",
           "format": "percent",
           "percent": 10
         },
@@ -15748,29 +14722,51 @@
           "label": "Healing Taken",
           "format": "flat-and-percent",
           "flat": 0,
-          "percent": 2
+          "percent": 7
         },
-        "cc-break-cost": {
-          "category": "Core Abilities",
-          "label": "Break Free Cost",
-          "format": "flat",
-          "flat": 5076
+        "magic-resist": {
+          "category": "Resistances",
+          "label": "Magic Resistance",
+          "format": "flat-or-percent",
+          "flat": 20657,
+          "percent": 31.2984848022
         },
-        "dodge-cost": {
+        "cold-damage": {
+          "category": "Damage Bonuses",
+          "label": "Frost Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "block-mitigation": {
           "category": "Core Abilities",
-          "label": "Dodge Roll Cost",
-          "format": "flat",
-          "flat": 3724
+          "label": "Block Mitigation",
+          "format": "percent",
+          "percent": 67
         },
         "bash-cost": {
           "category": "Core Abilities",
           "label": "Bash Cost",
           "format": "flat",
-          "flat": 662
+          "flat": 337
         },
-        "poison-damage": {
+        "bleed-resist": {
+          "category": "Resistances",
+          "label": "Bleed Resistance",
+          "format": "flat-or-percent",
+          "flat": 20657,
+          "percent": 31.2984848022
+        },
+        "healing-done-bonuses": {
+          "category": "Healing Bonuses",
+          "label": "Healing Done",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "shock-damage": {
           "category": "Damage Bonuses",
-          "label": "Poison Damage",
+          "label": "Shock Damage",
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
@@ -15779,26 +14775,33 @@
           "category": "Resistances",
           "label": "Shock Resistance",
           "format": "flat-or-percent",
-          "flat": 1731,
-          "percent": 2.6227271557
+          "flat": 20657,
+          "percent": 31.2984848022
         },
-        "sprint-cost": {
+        "block-speed": {
           "category": "Core Abilities",
-          "label": "Sprint Cost",
+          "label": "Block Move Speed",
+          "format": "percent",
+          "percent": 64
+        },
+        "sneak-cost": {
+          "category": "Core Abilities",
+          "label": "Sneak Cost",
           "format": "flat",
-          "flat": 451
+          "flat": 133
         },
         "sprint-speed": {
           "category": "Core Abilities",
           "label": "Sprint Speed",
           "format": "percent",
-          "percent": 144
+          "percent": 137
         },
-        "critical-damage": {
+        "disease-damage": {
           "category": "Damage Bonuses",
-          "label": "Critical Damage",
-          "format": "percent",
-          "percent": 10
+          "label": "Disease Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
         },
         "bleed-damage": {
           "category": "Damage Bonuses",
@@ -15807,32 +14810,1062 @@
           "flat": 0,
           "percent": 0
         },
+        "fire-resist": {
+          "category": "Resistances",
+          "label": "Flame Resistance",
+          "format": "flat-or-percent",
+          "flat": 20657,
+          "percent": 31.2984848022
+        }
+      },
+      "sheet": {
+        "riding-speed": 60,
+        "attribute-points-unspent": 0,
+        "critical-chance-weapon": 9.9534492493,
+        "riding-capacity": 60,
+        "critical-chance-spell": 9.9534492493,
+        "attribute-points-health": 54,
+        "attribute-points-magicka": 0,
+        "attribute-points-stamina": 10,
+        "riding-stamina": 60
+      },
+      "passiveRankIds": [],
+      "classMastery": []
+    },
+    "backBar": {
+      "capturedAt": 1792579203,
+      "buildHash": "ATQNVIFANhRkRYIGXvtAEIACUVtAEIAGW5tAEIACW5tAEIACW5tAEIAGW5tAEIACW5tAEIAhShtAEIAhShtAEIAhB91AEIAwwEtaAIQCZBu25QssPJEGBguj2NqHq7ouAAAAcwgicCAIWQXAPRYCkQBKHhYBN3q2IA7pETCI-IEIOD0EmdgAMcIhQhI0MwIyEiIiMCI1IDIzQSADIDIzMzMEIAMjA0oyMDoiZDIzIwAjgiIkQqMwMwI6AAAAAAsAAAAQ8fQLAAAAAFGAYQOIEihYweAQAGQcYkDW",
+      "esoVersion": "eso.live.12.1.6.3309674",
+      "inCombat": false,
+      "ultimate": 48,
+      "health": 65411,
+      "healthBefore": 63722,
+      "healthPaired": false,
+      "stats": {
+        "health-recovery": 925,
+        "health-maximum": 65411,
+        "critical-rating-spell": 2181,
+        "stamina-recovery": 785,
+        "power-weapon": 1000,
+        "critical-rating-weapon": 2181,
+        "power-spell": 1000,
+        "resistance-physical": 17299,
+        "penetration-physical": 0,
+        "stamina-maximum": 15110,
+        "resistance-critical": 1320,
+        "magicka-maximum": 12000,
+        "resistance-spell": 17299,
+        "magicka-recovery": 591,
+        "penetration-spell": 0
+      },
+      "unbonusedStats": {
+        "health-recovery": 925,
+        "health-maximum": 65411,
+        "critical-rating-spell": 2181,
+        "stamina-recovery": 785,
+        "power-weapon": 1000,
+        "critical-rating-weapon": 2181,
+        "power-spell": 1000,
+        "resistance-physical": 0,
+        "penetration-physical": 0,
+        "stamina-maximum": 15110,
+        "resistance-critical": 0,
+        "magicka-maximum": 12000,
+        "resistance-spell": 0,
+        "magicka-recovery": 591,
+        "penetration-spell": 0
+      },
+      "activeBuffs": [
+        {
+          "abilityId": 61259,
+          "name": "Increase Max Health",
+          "description": "Increase Max Health by |cffffff0|r for |cffffff35|r minutes.",
+          "effect": "Increase Max Health by |cffffff6607|r.\n",
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 1000,
+            "spell": 1000
+          }
+        },
+        {
+          "abilityId": 63569,
+          "name": "Gallop",
+          "description": "",
+          "effect": "Increases your Mount Speed by |cffffff15|r%.\n",
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 1000,
+            "spell": 1000
+          }
+        },
+        {
+          "abilityId": 61721,
+          "name": "Minor Protection",
+          "description": "",
+          "effect": "Reduces your damage taken by |cffffff5|r%.\n",
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 1000,
+            "spell": 1000
+          }
+        },
+        {
+          "abilityId": 13978,
+          "name": "Boon: The Lord",
+          "description": "increases Maximum Health",
+          "effect": "Increases your Maximum Health by |cffffff3032|r.\n",
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 1000,
+            "spell": 1000
+          }
+        }
+      ],
+      "pets": [],
+      "championPoints": [
+        {
+          "championSkillId": 78,
+          "points": 75,
+          "maxPoints": 75,
+          "bonus": "|cffffff50|r% time reduction",
+          "slottable": true
+        },
+        {
+          "championSkillId": 79,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "",
+          "slottable": false
+        },
+        {
+          "championSkillId": 75,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff50|r% chance",
+          "slottable": false
+        },
+        {
+          "championSkillId": 91,
+          "points": 25,
+          "maxPoints": 25,
+          "bonus": "",
+          "slottable": false
+        },
+        {
+          "championSkillId": 70,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff50|r% cost reduction",
+          "slottable": false
+        },
+        {
+          "championSkillId": 81,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff50|r% chance",
+          "slottable": false
+        },
+        {
+          "championSkillId": 83,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "",
+          "slottable": false
+        },
+        {
+          "championSkillId": 72,
+          "points": 45,
+          "maxPoints": 45,
+          "bonus": "|cffffff30|r% increase",
+          "slottable": false
+        },
+        {
+          "championSkillId": 71,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff50|r% increased gold find",
+          "slottable": false
+        },
+        {
+          "championSkillId": 74,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff10|r% increased gold",
+          "slottable": false
+        },
+        {
+          "championSkillId": 38,
+          "points": 20,
+          "maxPoints": 20,
+          "bonus": "|cffffff40|r cost reduction",
+          "slottable": false
+        },
+        {
+          "championSkillId": 42,
+          "points": 16,
+          "maxPoints": 16,
+          "bonus": "|cffffff4|r% Movement Speed",
+          "slottable": false
+        },
+        {
+          "championSkillId": 113,
+          "points": 20,
+          "maxPoints": 20,
+          "bonus": "|cffffff560|r Max Health",
+          "slottable": false
+        },
+        {
+          "championSkillId": 2,
+          "points": 50,
+          "maxPoints": 50,
+          "bonus": "|cffffff1400|r Max Health",
+          "slottable": true
+        }
+      ],
+      "worn": [
+        {
+          "slot": 0,
+          "link": "|H0:item:59488:364:50:0:0:0:16:25:0:0:0:0:0:0:2049:67:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 2425,
+          "weaponPower": 0,
+          "enchant": "Adds |cffffff1192|r Maximum Health.",
+          "enchantCategory": 11,
+          "trait": "Increase armor enchantment effect by |cffffff25|r%.",
+          "quality": 5,
+          "setId": 165,
+          "setName": "Scourge Harvester",
+          "setBonusCount": 2,
+          "setEquipped": 1,
+          "setMaxEquipped": 2,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 1,
+              "description": "(1 item) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 2,
+              "description": "(2 items) When you take damage, you have a |cffffff10|r% chance to tether to your enemy for |cffffff6|r seconds, as long as you remain within 8 meters of them. While tethered, you deal |cffffff1273|r Magic Damage every second to the enemy, heal for the damage caused, and gain Major Vitality, increasing your healing received and damage shield strength by |cffffff12|r%. This effect can occur once every |cffffff6|r seconds and scales off your Max Health.",
+              "perfected": false
+            }
+          ]
+        },
+        {
+          "slot": 1,
+          "link": "|H0:item:69166:364:50:0:0:0:21:25:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 0,
+          "weaponPower": 0,
+          "enchant": "Adds |cffffff169|r Health Recovery.",
+          "enchantCategory": 12,
+          "trait": "Increases Maximum Health by |cffffff965|r.",
+          "quality": 5,
+          "setId": 204,
+          "setName": "Endurance",
+          "setBonusCount": 2,
+          "setEquipped": 2,
+          "setMaxEquipped": 3,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1928|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds 618 Health Recovery",
+              "perfected": false
+            }
+          ]
+        },
+        {
+          "slot": 2,
+          "link": "|H0:item:97050:364:50:0:0:0:16:25:0:0:0:0:0:0:2049:1:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 2772,
+          "weaponPower": 0,
+          "enchant": "Adds |cffffff1192|r Maximum Health.",
+          "enchantCategory": 11,
+          "trait": "Increase armor enchantment effect by |cffffff25|r%.",
+          "quality": 5,
+          "setId": 293,
+          "setName": "Plague Doctor",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Adds |cffffff2804|r Maximum Health",
+              "perfected": false
+            }
+          ]
+        },
+        {
+          "slot": 3,
+          "link": "|H0:item:167129:364:50:0:0:0:18:55:0:0:0:0:0:0:2049:67:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 2425,
+          "weaponPower": 0,
+          "enchant": "Adds |cffffff386|r Maximum Health.",
+          "enchantCategory": 11,
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5,
+          "setId": 535,
+          "setName": "Lady Thorn",
+          "setBonusCount": 2,
+          "setEquipped": 1,
+          "setMaxEquipped": 2,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 1,
+              "description": "(1 item) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 2,
+              "description": "(2 items) Casting an ability that costs Health spawns a blood ball for |cffffff10|r seconds. This effect can occur once every |cffffff10|r seconds. \n\nYou or an ally near the blood ball can activate the Sanguine Burst synergy, dealing |cffffff11771|r Disease Damage to nearby enemies and applying Major Maim for |cffffff8|r seconds, decreasing their damage done by |cffffff10|r%. Enemies can only receive Major Maim from Sanguine Burst once every |cffffff20|r seconds. The damage scales off the synergy activator's Max Health.",
+              "perfected": false
+            }
+          ]
+        },
+        {
+          "slot": 4,
+          "link": "|H0:item:185693:370:50:0:0:0:0:0:0:0:0:0:0:0:1:1:1:1:0:0:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 0,
+          "weaponPower": 1335,
+          "enchant": "",
+          "enchantCategory": 0,
+          "trait": "Increases Physical and Spell Resistance by |cffffff1638|r.",
+          "quality": 5,
+          "setId": 642,
+          "setName": "Druid's Braid",
+          "setBonusCount": 12,
+          "setEquipped": 0,
+          "setMaxEquipped": 12,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 1,
+              "description": "(1 item) Adds 1206 Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 2,
+              "description": "(2 items) Adds 1096 Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds 1096 Maximum Stamina",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds 1206 Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Adds 1565 Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 6,
+              "description": "(6 items) Adds 1565 Maximum Stamina",
+              "perfected": false
+            },
+            {
+              "required": 7,
+              "description": "(7 items) Adds 1722 Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 8,
+              "description": "(8 items) Adds 1565 Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 9,
+              "description": "(9 items) Adds 1565 Maximum Stamina",
+              "perfected": false
+            },
+            {
+              "required": 10,
+              "description": "(10 items) Adds 1722 Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 11,
+              "description": "(11 items) Adds 1565 Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 12,
+              "description": "(12 items) Adds 1565 Maximum Stamina",
+              "perfected": false
+            }
+          ]
+        },
+        {
+          "slot": 5,
+          "link": "|H0:item:95862:364:50:26580:370:50:16:25:0:0:0:0:0:0:2049:34:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 1720,
+          "weaponPower": 0,
+          "enchant": "Adds |cffffff1192|r Maximum Health.",
+          "enchantCategory": 11,
+          "trait": "Increase armor enchantment effect by |cffffff25|r%.",
+          "quality": 5,
+          "setId": 281,
+          "setName": "Armor of the Trainee",
+          "setBonusCount": 3,
+          "setEquipped": 0,
+          "setMaxEquipped": 3,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 1,
+              "description": "(1 item) Adds 1454 Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 2,
+              "description": "(2 items) Adds 1454 Maximum Magicka",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds 1454 Maximum Stamina",
+              "perfected": false
+            }
+          ]
+        },
+        {
+          "slot": 6,
+          "link": "|H0:item:97056:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:1:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 1039,
+          "weaponPower": 0,
+          "enchant": "Adds |cffffff386|r Maximum Health.",
+          "enchantCategory": 11,
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5,
+          "setId": 293,
+          "setName": "Plague Doctor",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Adds |cffffff2804|r Maximum Health",
+              "perfected": false
+            }
+          ]
+        },
+        {
+          "slot": 8,
+          "link": "|H0:item:97054:364:50:0:0:0:16:25:0:0:0:0:0:0:2049:1:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 2425,
+          "weaponPower": 0,
+          "enchant": "Adds |cffffff1192|r Maximum Health.",
+          "enchantCategory": 11,
+          "trait": "Increase armor enchantment effect by |cffffff25|r%.",
+          "quality": 5,
+          "setId": 293,
+          "setName": "Plague Doctor",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Adds |cffffff2804|r Maximum Health",
+              "perfected": false
+            }
+          ]
+        },
+        {
+          "slot": 9,
+          "link": "|H0:item:97051:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:1:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 2425,
+          "weaponPower": 0,
+          "enchant": "Adds |cffffff386|r Maximum Health.",
+          "enchantCategory": 11,
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5,
+          "setId": 293,
+          "setName": "Plague Doctor",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Adds |cffffff2804|r Maximum Health",
+              "perfected": false
+            }
+          ]
+        },
+        {
+          "slot": 11,
+          "link": "|H0:item:69165:364:50:0:0:0:21:25:0:0:0:0:0:0:2049:25:0:1:0:0:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 0,
+          "weaponPower": 0,
+          "enchant": "Adds |cffffff169|r Health Recovery.",
+          "enchantCategory": 12,
+          "trait": "Increases Maximum Health by |cffffff965|r.",
+          "quality": 5,
+          "setId": 204,
+          "setName": "Endurance",
+          "setBonusCount": 2,
+          "setEquipped": 2,
+          "setMaxEquipped": 3,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1928|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds 618 Health Recovery",
+              "perfected": false
+            }
+          ]
+        },
+        {
+          "slot": 12,
+          "link": "|H0:item:175527:364:50:0:0:0:21:25:0:0:0:0:0:0:2049:0:0:1:0:0:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 0,
+          "weaponPower": 0,
+          "enchant": "Adds |cffffff169|r Stamina Recovery.",
+          "enchantCategory": 18,
+          "trait": "Increases Maximum Health by |cffffff965|r.",
+          "quality": 5,
+          "setId": 596,
+          "setName": "Death Dealer's Fete",
+          "setBonusCount": 1,
+          "setEquipped": 1,
+          "setMaxEquipped": 1,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 1,
+              "description": "(1 item) Gain a persistent stack of Escalating Fete every |cffffff2|r seconds you are in combat, up to 30 stacks max. Each stack of Escalating Fete increases your Maximum Stamina, Health, and Magicka by |cffffff88|r. You lose a stack of Escalating Fete every |cffffff4|r seconds you are out of combat.",
+              "perfected": false
+            }
+          ]
+        },
+        {
+          "slot": 16,
+          "link": "|H0:item:97052:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:1:0:1:0:10000:0|h|h",
+          "requiredLevel": 50,
+          "requiredChampionPoints": 160,
+          "armor": 1386,
+          "weaponPower": 0,
+          "enchant": "Adds |cffffff386|r Maximum Health.",
+          "enchantCategory": 11,
+          "trait": "Increases Mundus Stone effects by |cffffff9.1|r%.",
+          "quality": 5,
+          "setId": 293,
+          "setName": "Plague Doctor",
+          "setBonusCount": 4,
+          "setEquipped": 5,
+          "setMaxEquipped": 5,
+          "setPerfectedEquipped": 0,
+          "setBonuses": [
+            {
+              "required": 2,
+              "description": "(2 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 3,
+              "description": "(3 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 4,
+              "description": "(4 items) Adds |cffffff1206|r Maximum Health",
+              "perfected": false
+            },
+            {
+              "required": 5,
+              "description": "(5 items) Adds |cffffff2804|r Maximum Health",
+              "perfected": false
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "slot": 3,
+          "abilityId": 85863,
+          "name": "Soothing Spores",
+          "description": "Seed a large area of mushrooms in front of you, healing you and your allies for |cffffff3227|r Health.\n\nHeals for |cffffff15|r% more on allies that are within |cffffff8|r meters of you.",
+          "durationMs": 0,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0,
+          "ultimateCost": 0,
+          "morph": 2,
+          "rank": 4
+        },
+        {
+          "slot": 4,
+          "abilityId": 39298,
+          "name": "Necrotic Orb",
+          "description": "Project a globe of annihilation that slowly floats forward for |cffffff10|r seconds, dealing |cffffff352|r Magic Damage every |cffffff1|r second to nearby enemies. \n\nAn ally near the globe can activate the Combustion synergy, causing the orb to explode for |cffffff2560|r Magic Damage to nearby enemies and restore |cffffff3960|r Magicka or Stamina to the ally, whichever maximum is higher.",
+          "durationMs": 10000,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0,
+          "ultimateCost": 0,
+          "morph": 0,
+          "rank": 2
+        },
+        {
+          "slot": 5,
+          "abilityId": 42138,
+          "name": "Spiked Bone Shield",
+          "description": "Surround yourself with a whirlwind of bones, gaining a damage shield that absorbs up to |cffffff20270|r damage for |cffffff6|r seconds and returns |cffffff95|r% of direct damage absorbed back to the enemy. This ability scales off your Max Health.\n\nAn ally near you can activate the Bone Wall synergy, granting the ally and up to |cffffff5|r other allies a damage shield equal to |cffffff30|r% of their Max Health for |cffffff6|r seconds.",
+          "durationMs": 6000,
+          "castMs": 0,
+          "channeled": false,
+          "cooldownMs": 0,
+          "ultimateCost": 0,
+          "morph": 1,
+          "rank": 3
+        },
+        {
+          "slot": 8,
+          "abilityId": 40161,
+          "name": "Flawless Dawnbreaker",
+          "description": "Arm yourself with Meridia's sacred sword and dispense her retribution, dealing |cffffff3306|r Physical Damage to enemies in front of you and an additional |cffffff3966|r Physical Damage over |cffffff6|r seconds.\n\nAfter activating, your Weapon and Spell Damage is increased by |cffffff300|r for |cffffff20|r seconds.",
+          "durationMs": 6000,
+          "castMs": 400,
+          "channeled": false,
+          "cooldownMs": 0,
+          "ultimateCost": 118,
+          "morph": 1,
+          "rank": 4
+        }
+      ],
+      "classPassives": [
+        {
+          "abilityId": 116235,
+          "name": "Death Gleaning",
+          "description": "Whenever an enemy you are in combat with dies within |cffffff28|r meters of you, restore |cffffff666|r Magicka and Stamina."
+        },
+        {
+          "abilityId": 116240,
+          "name": "Disdain Harm",
+          "description": "Reduce the damage you take from damage over time abilities by |cffffff15|r% while you have a Bone Tyrant ability active."
+        },
+        {
+          "abilityId": 116270,
+          "name": "Health Avarice",
+          "description": "Increase your Healing Received by |cffffff3|r% for each Bone Tyrant ability slotted.\n\nCurrent bonus: |cffffff0|r%."
+        },
+        {
+          "abilityId": 116272,
+          "name": "Last Gasp",
+          "description": "Increase your Max Health by |cffffff2412|r."
+        },
+        {
+          "abilityId": 45103,
+          "name": "Refreshing Shadows",
+          "description": "Increases your Health, Stamina, and Magicka Recovery by |cffffff15|r%."
+        },
+        {
+          "abilityId": 45071,
+          "name": "Shadow Barrier",
+          "description": "Casting a Shadow ability grants you Major Resolve for |cffffff12|r seconds, increasing your Physical and Spell Resistance by |cffffff5948|r. This duration is increased by |cffffff2|r seconds for each piece of Heavy Armor equipped.\n\nCurrent duration: |cffffff26|r seconds"
+        },
+        {
+          "abilityId": 45084,
+          "name": "Dark Vigor",
+          "description": "Increases your Max Health by |cffffff5|r% for each Shadow ability slotted.\n\nCurrent bonus: |cffffff0|r%."
+        },
+        {
+          "abilityId": 45115,
+          "name": "Dark Veil",
+          "description": "Increases the duration of your Shadow abilities by |cffffff2|r seconds.\n\nDoes not apply to Shadow Cloak or its morphs."
+        },
+        {
+          "abilityId": 85883,
+          "name": "Accelerated Growth",
+          "description": "When you heal yourself or an ally under |cffffff40|r% Health with a Green Balance ability you gain Major Mending, increasing your healing done by |cffffff16|r% for |cffffff4|r seconds."
+        },
+        {
+          "abilityId": 85879,
+          "name": "Nature's Gift",
+          "description": "When you overheal yourself or an ally with a Green Balance ability, you gain |cffffff250|r Magicka and |cffffff250|r Stamina, up to once every |cffffff1|r second."
+        },
+        {
+          "abilityId": 85877,
+          "name": "Emerald Moss",
+          "description": "Increases your healing done with Green Balance abilities by |cffffff5|r% for each Green Balance ability slotted.\n\nCurrent Bonus: |cffffff5|r%."
+        },
+        {
+          "abilityId": 85881,
+          "name": "Maturation",
+          "description": "When you activate a heal on yourself or an ally you grant the target Minor Toughness, increasing their Max Health by |cffffff10|r% for |cffffff20|r seconds."
+        }
+      ],
+      "inArchive": false,
+      "blocking": false,
+      "moving": false,
+      "archiveBoons": [],
+      "advanced": {
+        "healing-taken-base": 0.07,
+        "healing-done-base": 0,
+        "critical-damage": 0,
+        "healing-critical-bonus": 0
+      },
+      "advancedSheet": {
+        "subscriber-alliance-points-bonus": {
+          "category": "ESO Plus",
+          "label": "Alliance Points",
+          "format": "percent",
+          "percent": 10
+        },
+        "critical-healing": {
+          "category": "Healing Bonuses",
+          "label": "Critical Healing",
+          "format": "percent",
+          "percent": 0
+        },
+        "subscriber-telvar-bonus": {
+          "category": "ESO Plus",
+          "label": "Tel Var",
+          "format": "percent",
+          "percent": 10
+        },
+        "poison-damage": {
+          "category": "Damage Bonuses",
+          "label": "Poison Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "block-cost": {
+          "category": "Core Abilities",
+          "label": "Block Cost",
+          "format": "flat",
+          "flat": 1645
+        },
+        "sneak-speed-reduction": {
+          "category": "Core Abilities",
+          "label": "Sneak Speed",
+          "format": "percent",
+          "percent": 60
+        },
+        "frost-resist": {
+          "category": "Resistances",
+          "label": "Frost Resistance",
+          "format": "flat-or-percent",
+          "flat": 17299,
+          "percent": 26.2106056213
+        },
+        "poison-resist": {
+          "category": "Resistances",
+          "label": "Poison Resistance",
+          "format": "flat-or-percent",
+          "flat": 17299,
+          "percent": 26.2106056213
+        },
+        "dodge-cost": {
+          "category": "Core Abilities",
+          "label": "Dodge Roll Cost",
+          "format": "flat",
+          "flat": 4646
+        },
+        "subscriber-coin-bonus": {
+          "category": "ESO Plus",
+          "label": "Gold",
+          "format": "percent",
+          "percent": 10
+        },
+        "disease-resist": {
+          "category": "Resistances",
+          "label": "Disease Resistance",
+          "format": "flat-or-percent",
+          "flat": 17299,
+          "percent": 26.2106056213
+        },
+        "critical-damage": {
+          "category": "Damage Bonuses",
+          "label": "Critical Damage",
+          "format": "percent",
+          "percent": 0
+        },
+        "oblivion-damage": {
+          "category": "Damage Bonuses",
+          "label": "Oblivion Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "magic-damage": {
+          "category": "Damage Bonuses",
+          "label": "Magic Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "physical-damage": {
+          "category": "Damage Bonuses",
+          "label": "Physical Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "fire-damage": {
+          "category": "Damage Bonuses",
+          "label": "Flame Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "cc-break-cost": {
+          "category": "Core Abilities",
+          "label": "Break Free Cost",
+          "format": "flat",
+          "flat": 5076
+        },
+        "bash-damage": {
+          "category": "Core Abilities",
+          "label": "Bash Damage",
+          "format": "flat",
+          "flat": 389
+        },
+        "subscriber-all-xp": {
+          "category": "ESO Plus",
+          "label": "Experience",
+          "format": "percent",
+          "percent": 10
+        },
+        "sprint-cost": {
+          "category": "Core Abilities",
+          "label": "Sprint Cost",
+          "format": "flat",
+          "flat": 432
+        },
         "subscriber-inspiration-bonus": {
           "category": "ESO Plus",
           "label": "Crafting Inspiration",
           "format": "percent",
           "percent": 10
+        },
+        "healing-taken-bonuses": {
+          "category": "Healing Bonuses",
+          "label": "Healing Taken",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 7
+        },
+        "magic-resist": {
+          "category": "Resistances",
+          "label": "Magic Resistance",
+          "format": "flat-or-percent",
+          "flat": 17299,
+          "percent": 26.2106056213
+        },
+        "cold-damage": {
+          "category": "Damage Bonuses",
+          "label": "Frost Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "block-mitigation": {
+          "category": "Core Abilities",
+          "label": "Block Mitigation",
+          "format": "percent",
+          "percent": 57
+        },
+        "bash-cost": {
+          "category": "Core Abilities",
+          "label": "Bash Cost",
+          "format": "flat",
+          "flat": 719
+        },
+        "bleed-resist": {
+          "category": "Resistances",
+          "label": "Bleed Resistance",
+          "format": "flat-or-percent",
+          "flat": 17299,
+          "percent": 26.2106056213
+        },
+        "healing-done-bonuses": {
+          "category": "Healing Bonuses",
+          "label": "Healing Done",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "shock-damage": {
+          "category": "Damage Bonuses",
+          "label": "Shock Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "shock-resist": {
+          "category": "Resistances",
+          "label": "Shock Resistance",
+          "format": "flat-or-percent",
+          "flat": 17299,
+          "percent": 26.2106056213
+        },
+        "block-speed": {
+          "category": "Core Abilities",
+          "label": "Block Move Speed",
+          "format": "percent",
+          "percent": 40
+        },
+        "sneak-cost": {
+          "category": "Core Abilities",
+          "label": "Sneak Cost",
+          "format": "flat",
+          "flat": 133
+        },
+        "sprint-speed": {
+          "category": "Core Abilities",
+          "label": "Sprint Speed",
+          "format": "percent",
+          "percent": 137
+        },
+        "disease-damage": {
+          "category": "Damage Bonuses",
+          "label": "Disease Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "bleed-damage": {
+          "category": "Damage Bonuses",
+          "label": "Bleed Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "fire-resist": {
+          "category": "Resistances",
+          "label": "Flame Resistance",
+          "format": "flat-or-percent",
+          "flat": 17299,
+          "percent": 26.2106056213
         }
       },
       "sheet": {
-        "attribute-points-health": 0,
-        "riding-capacity": 60,
-        "critical-chance-weapon": 13.4127416611,
-        "attribute-points-unspent": 0,
-        "critical-chance-spell": 13.4127416611,
-        "attribute-points-stamina": 64,
         "riding-speed": 60,
+        "attribute-points-unspent": 0,
+        "critical-chance-weapon": 9.9534492493,
+        "riding-capacity": 60,
+        "critical-chance-spell": 9.9534492493,
+        "attribute-points-health": 54,
         "attribute-points-magicka": 0,
+        "attribute-points-stamina": 10,
         "riding-stamina": 60
       },
-      "passiveRankIds": []
+      "passiveRankIds": [],
+      "classMastery": []
     }
   },
   "rotationReading": {
-    "capturedAt": 1792511419,
+    "capturedAt": 1792579048,
     "toughness": 145624.1201446365,
-    "damage": 1032.3669791667,
-    "healing": 3752.45325,
+    "damage": 1422.0327100342,
+    "healing": 5404.2268746667,
     "reavingBlowsShare": 0,
     "bars": [
       {
@@ -15846,7 +15879,7 @@
       },
       {
         "bar": "backBar",
-        "healing": 1.03,
+        "healing": 1.0404,
         "damage": 1.0558963125,
         "healthMaximum": 83028,
         "armorShare": 0.2709848485,
