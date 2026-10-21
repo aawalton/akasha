@@ -69,13 +69,14 @@ type Settling = {
   readonly character: string
   readonly capturedAt: number
   readonly fete: Parameters<typeof isUnsettled>[1]
+  readonly buffs: readonly string[]
 }
 
 function settledOf(stats: Record<string, number>, read: Settling): Record<string, number> {
-  const { character, capturedAt, fete } = read
+  const { character, capturedAt, fete, buffs } = read
   return Object.fromEntries(
     Object.entries(stats).filter(
-      ([stat]) => !isUnsettled(stat, fete) && !isStale(character, capturedAt, stat)
+      ([stat]) => !isUnsettled(stat, fete) && !isStale(character, capturedAt, stat, buffs)
     )
   )
 }
@@ -145,7 +146,12 @@ export function pinStatCaseCommand(world: World, given: Asked, pin: Pin): Answer
     championPoints: reading.championPoints ?? [],
     stats: settledOf(
       { ...reading.stats, ...sheetStatsOf(reading.advancedSheet) },
-      { character, capturedAt: reading.capturedAt, fete: reading.fete }
+      {
+        character,
+        capturedAt: reading.capturedAt,
+        fete: reading.fete,
+        buffs: (reading.activeBuffs ?? []).map((buff) => buff.name),
+      }
     ),
   })
   const title = `${character}, ${named} bar, read ${stampOf(reading.capturedAt)}`

@@ -3,9 +3,12 @@ type Stale = {
   readonly from: number
   readonly to: number
   readonly stats: ReadonlySet<string>
+  readonly whileBuff?: string
 }
 
 const SPRINT_SPEED = "movement-sprint-speed"
+
+const MERCILESS_CHARGE = "Merciless Charge"
 
 const ONSET_DAMAGE = new Set([
   "bash-damage",
@@ -44,27 +47,36 @@ const STALE: readonly Stale[] = [
     from: 1792505792,
     to: 1792505802,
     stats: ONSET_DAMAGE,
+    whileBuff: MERCILESS_CHARGE,
   },
   {
     character: "erin-solstice",
     from: 1792521672,
     to: 1792524324,
     stats: ONSET_DAMAGE,
+    whileBuff: MERCILESS_CHARGE,
   },
   {
     character: "nirayicel",
     from: 1792578014,
     to: 1792578074,
     stats: ONSET_DAMAGE,
+    whileBuff: MERCILESS_CHARGE,
   },
 ]
 
-export function isStale(character: string, capturedAt: number, stat: string): boolean {
+export function isStale(
+  character: string,
+  capturedAt: number,
+  stat: string,
+  buffs: readonly string[] = []
+): boolean {
   return STALE.some(
     (one) =>
       one.character === character &&
       one.from <= capturedAt &&
       capturedAt <= one.to &&
-      one.stats.has(stat)
+      one.stats.has(stat) &&
+      (one.whileBuff === undefined || buffs.includes(one.whileBuff))
   )
 }

@@ -127,8 +127,9 @@ function comparedOf(slug: string, line: ReadingLine, statCase: string | null): C
       unsteady: unsteadyOf(reading, one, build?.passives ?? []),
       unsettled: isUnsettled(one, reading.fete),
     }))
+  const buffNames = (reading.activeBuffs ?? []).map((buff) => buff.name)
   const sheetRows = sheetRowsOf(reading, estimate, sources, (one) =>
-    isStale(slug, reading.capturedAt, one)
+    isStale(slug, reading.capturedAt, one, buffNames)
   )
   return { line, build, rows, sheetRows, unmatchedBuffs, unestimated, statCase }
 }

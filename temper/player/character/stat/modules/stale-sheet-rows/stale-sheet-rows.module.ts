@@ -32,6 +32,11 @@ export const staleSheetRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A window may name a buff, and then holds stale only a reading carrying that buff.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A stale row is no verified test case, and no stat case pins or gaps it.",
     },
     {
@@ -40,5 +45,5 @@ export const staleSheetRows = {
     },
   ],
   createdAt: "2026-10-21T11:42:02.588Z",
-  updatedAt: "2026-10-21T16:04:54.400Z",
+  updatedAt: "2026-10-21T16:16:06.767Z",
 } as const satisfies Module
