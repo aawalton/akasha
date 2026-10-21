@@ -20,11 +20,11 @@ export const iceFortress86130 = {
   skillType: "temper-skill-type/active",
   hashPlace: 653,
   createdAt: "2026-05-28T16:03:32.801Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T04:43:07.360Z",
   equations: [
     "<<1>> = 5948 (Constant)",
-    "<<2>> = 27 seconds (Constant)",
+    "<<2>> = 30 seconds (Constant)",
     "<<3>> = 5% (Constant)",
-    "<<4>> = 27 seconds (Constant)",
+    "<<4>> = 30 seconds (Constant)",
   ],
 } as const satisfies TemperSkill
