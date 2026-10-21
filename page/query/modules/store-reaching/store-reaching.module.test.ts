@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import {
   ATTEMPTS,
@@ -10,6 +12,7 @@ import {
   worthRetrying,
 } from "akasha/page/query/modules/store-reaching/store-reaching.module.code.ts"
 import { noNap } from "akasha/page/query/modules/store-reaching/store-reaching.module.test-fixtures.ts"
+import { unstatedOrigin } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 function answering(status: number, body: unknown): Fetcher {
   return async () =>
@@ -49,6 +52,23 @@ test("outside a pod the store is reached at the workstation rather than through 
     if (held === undefined) delete process.env.KUBERNETES_SERVICE_HOST
     else process.env.KUBERNETES_SERVICE_HOST = held
     if (stated !== undefined) process.env.PAGE_STORE_ORIGIN = stated
+  }
+})
+
+test("a pod whose test run was handed no pod variable is known by its account's token", () => {
+  const held = optionalEnv("KUBERNETES_SERVICE_HOST")
+  const folder = mkdtempSync(join(optionalEnv("SCRATCH_AT") ?? "/var/tmp", "pod-token-"))
+  const token = join(folder, "token")
+  try {
+    delete process.env.KUBERNETES_SERVICE_HOST
+    expect(unstatedOrigin(token)).toBe("http://workstation.alanwalton.ts.net:8787")
+    writeFileSync(token, "held")
+    expect(unstatedOrigin(token)).toBe(
+      "http://page-forwarder.page-forwarder.svc.cluster.local:8787"
+    )
+  } finally {
+    rmSync(folder, { recursive: true, force: true })
+    if (held !== undefined) process.env.KUBERNETES_SERVICE_HOST = held
   }
 })
 

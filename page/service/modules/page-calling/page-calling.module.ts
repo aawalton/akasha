@@ -47,6 +47,14 @@ export const pageCalling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A pod is known by its environment or by its account's token file.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A test run in a pod is handed no variable that says it is in a pod.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A caller outside a pod reaches the service at the workstation, never through the forwarder.",
     },
@@ -215,5 +223,5 @@ export const pageCalling = {
     },
   ],
   createdAt: "2026-09-01T17:34:08.092Z",
-  updatedAt: "2026-10-21T15:02:45.054Z",
+  updatedAt: "2026-10-21T15:58:04.957Z",
 } as const satisfies Module

@@ -125,8 +125,14 @@ export function originOf(named: readonly string[] = ORIGIN_NAMES): string {
   return here === null ? unstatedOrigin() : `${here}${IN_A_BROWSER}`
 }
 
-export function unstatedOrigin(): string {
-  return saidIn(IN_A_POD) === null ? AT_THE_WORKSTATION : THROUGH_THE_FORWARDER
+const POD_TOKEN = "/var/run/secrets/kubernetes.io/serviceaccount/token"
+
+type Node = { process?: { getBuiltinModule?: (name: string) => typeof import("node:fs") } }
+
+export function unstatedOrigin(token: string = POD_TOKEN): string {
+  const files = (globalThis as Node).process?.getBuiltinModule?.("node:fs")
+  const inAPod = saidIn(IN_A_POD) !== null || files?.existsSync(token) === true
+  return inAPod ? THROUGH_THE_FORWARDER : AT_THE_WORKSTATION
 }
 
 export function backoffFor(taken: number): number {
