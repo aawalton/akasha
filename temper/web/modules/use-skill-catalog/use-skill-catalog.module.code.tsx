@@ -22,6 +22,7 @@ import { catalogTemplatesOf } from "akasha/temper/catalog/skill/modules/skill-te
 import { temperSkillSlot } from "akasha/temper/catalog/skill/slot/temper-skill-slot.page-type.ts"
 import { temperAffixScript } from "akasha/temper/catalog/skill/temper-affix-script/temper-affix-script.page-type.ts"
 import { temperClass } from "akasha/temper/catalog/skill/temper-class/temper-class.page-type.ts"
+import { temperClassMastery } from "akasha/temper/catalog/skill/temper-class-mastery/temper-class-mastery.page-type.ts"
 import { temperFocusScript } from "akasha/temper/catalog/skill/temper-focus-script/temper-focus-script.page-type.ts"
 import { temperGrimoire } from "akasha/temper/catalog/skill/temper-grimoire/temper-grimoire.page-type.ts"
 import { temperScribedSkill } from "akasha/temper/catalog/skill/temper-scribed-skill/temper-scribed-skill.page-type.ts"
@@ -69,6 +70,7 @@ export function useSkillCatalog(): SkillCatalog | null {
   const other = usePages({ pageTypeSlug: temperBuffOther.slug, limit: EVERY })
   const metrics = usePages({ pageTypeSlug: temperMetricTree.slug, limit: EVERY })
   const classes = usePages({ pageTypeSlug: temperClass.slug, limit: EVERY })
+  const masteries = usePages({ pageTypeSlug: temperClassMastery.slug, limit: EVERY })
   const categories = usePages({ pageTypeSlug: temperSkillLineCategory.slug, limit: EVERY })
   const esoPlus = usePages({ pageTypeSlug: temperEsoPlus.slug, limit: EVERY })
   const mundusStones = usePages({ pageTypeSlug: temperMundusStone.slug, limit: EVERY })
@@ -126,6 +128,7 @@ export function useSkillCatalog(): SkillCatalog | null {
     other,
     metrics,
     classes,
+    masteries,
     categories,
   ]
   const failed = gear.failed ?? read.find((one) => one.error !== null)?.error ?? null
@@ -152,6 +155,7 @@ export function useSkillCatalog(): SkillCatalog | null {
       [temperBuffOther.slug, other.rows],
       [temperMetricTree.slug, metrics.rows],
       [temperClass.slug, classes.rows],
+      [temperClassMastery.slug, masteries.rows],
       [temperSkillLineCategory.slug, categories.rows],
       [temperEsoPlus.slug, esoPlus.rows],
       [temperMundusStone.slug, mundusStones.rows],
@@ -195,6 +199,7 @@ export function useSkillCatalog(): SkillCatalog | null {
     other.rows,
     metrics.rows,
     classes.rows,
+    masteries.rows,
     categories.rows,
     esoPlus.rows,
     mundusStones.rows,

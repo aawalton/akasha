@@ -8,8 +8,20 @@ import {
 } from "akasha/temper/catalog/gear/equipment/modules/gear-reading/gear-reading.module.code.ts"
 import { temperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.ts"
 import { temperSkillLineCategory } from "akasha/temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts"
+import {
+  CLASS_FIELDS,
+  CLASS_MASTERY_FIELDS,
+  type ClassMasteryTemplate,
+  type ClassTemplate,
+  classMasteryOf,
+  classOf,
+  RACE_FIELDS,
+  type RaceTemplate,
+  raceOf,
+} from "akasha/temper/catalog/skill/modules/character-templates-reading/character-templates-reading.module.code.ts"
 import { temperAffixScript } from "akasha/temper/catalog/skill/temper-affix-script/temper-affix-script.page-type.ts"
 import { temperClass } from "akasha/temper/catalog/skill/temper-class/temper-class.page-type.ts"
+import { temperClassMastery } from "akasha/temper/catalog/skill/temper-class-mastery/temper-class-mastery.page-type.ts"
 import { temperFocusScript } from "akasha/temper/catalog/skill/temper-focus-script/temper-focus-script.page-type.ts"
 import { temperGrimoire } from "akasha/temper/catalog/skill/temper-grimoire/temper-grimoire.page-type.ts"
 import { temperScribedSkill } from "akasha/temper/catalog/skill/temper-scribed-skill/temper-scribed-skill.page-type.ts"
@@ -315,45 +327,10 @@ function lineOf(row: Value, keys: SkillKeys): SkillLineTemplate {
   } as SkillLineTemplate
 }
 
-const RACE_FIELDS: readonly string[] = ["slug", "key", "title", "altName", "esoRaceId", "hashPlace"]
-
-export type RaceTemplate = {
-  readonly id: string
-  readonly name: string
-  readonly altName: string
-  readonly esoRaceId: number
-}
-
-function raceOf(row: Value): RaceTemplate {
-  return {
-    id: String(row.key),
-    name: String(row.title),
-    altName: typeof row.altName === "string" ? row.altName : "",
-    esoRaceId: Number(row.esoRaceId),
-  }
-}
-
-const CLASS_FIELDS: readonly string[] = ["slug", "key", "title", "icon", "esoClassId", "hashPlace"]
-
-export type ClassTemplate = {
-  readonly id: string
-  readonly name: string
-  readonly icon: string
-  readonly esoClassId: number
-}
-
-function classOf(row: Value): ClassTemplate {
-  return {
-    id: String(row.key),
-    name: String(row.title),
-    icon: typeof row.icon === "string" ? row.icon : "",
-    esoClassId: Number(row.esoClassId),
-  }
-}
-
 export type CatalogTemplates = SkillTemplates & {
   readonly races: readonly RaceTemplate[]
   readonly classes: readonly ClassTemplate[]
+  readonly classMasteries: readonly ClassMasteryTemplate[]
   readonly skillLines: readonly SkillLineTemplate[]
   readonly focusScripts: readonly ScriptTemplate[]
   readonly signatureScripts: readonly ScriptTemplate[]
@@ -383,6 +360,7 @@ export const CATALOG_READS: readonly Read[] = readsOf([
   [temperSkillLine.slug, LINE_FIELDS],
   [temperRace.slug, RACE_FIELDS],
   [temperClass.slug, CLASS_FIELDS],
+  [temperClassMastery.slug, CLASS_MASTERY_FIELDS],
   [temperSkillBar.slug, ["slug", "title", "displayOrder"]],
   ...COMPLETION_PAGE_READS,
   ...SKILL_KEYED_BY.map(([pageTypeSlug, field]): Read => [pageTypeSlug, ["slug", field]]),
@@ -407,5 +385,12 @@ export function catalogTemplatesOf(
     skillLines: inPlace(rowsOf(temperSkillLine.slug)).map((row) => lineOf(row, keys)),
     races: inPlace(rowsOf(temperRace.slug)).map(raceOf),
     classes: inPlace(rowsOf(temperClass.slug)).map(classOf),
+    classMasteries: inPlace(rowsOf(temperClassMastery.slug)).map((row) =>
+      classMasteryOf(row, {
+        keyOf: keys.of,
+        effectsOf: (one, where) =>
+          rowsIn(one.effects).map((effect) => effectOf(effect, keys, where)),
+      })
+    ),
   }
 }

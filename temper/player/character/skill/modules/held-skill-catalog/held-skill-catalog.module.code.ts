@@ -4,9 +4,12 @@ import {
 } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
 import type { SkillLineId } from "akasha/temper/catalog/skill/line/modules/skill-line-ids/skill-line-ids.data-table.code.ts"
 import type {
-  CatalogTemplates,
+  ClassMasteryTemplate,
   ClassTemplate,
   RaceTemplate,
+} from "akasha/temper/catalog/skill/modules/character-templates-reading/character-templates-reading.module.code.ts"
+import type {
+  CatalogTemplates,
   ScriptTemplate,
 } from "akasha/temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts"
 import type { ClassId } from "akasha/temper/catalog/skill/temper-class/modules/class-ids/class-ids.data-table.code.ts"
@@ -44,6 +47,7 @@ export type SkillCatalog = {
   readonly skillLines: DataFile<SkillLineId, SkillLineRow>
   readonly races: DataFile<RaceId, RaceRow>
   readonly classes: DataFile<ClassId, ClassRow>
+  readonly classMasteries: DataFile<string, ClassMasteryTemplate>
 }
 
 type RaceRow = RaceTemplate & { readonly id: RaceId }
@@ -86,6 +90,7 @@ export function skillCatalogOf(templates: CatalogTemplates): SkillCatalog {
     skillLines: keyedTableOf<SkillLineRow>(templates.skillLines),
     races: keyedTableOf<RaceRow>(templates.races),
     classes: keyedTableOf<ClassRow>(templates.classes),
+    classMasteries: keyedTableOf<ClassMasteryTemplate>(templates.classMasteries),
   }
 }
 

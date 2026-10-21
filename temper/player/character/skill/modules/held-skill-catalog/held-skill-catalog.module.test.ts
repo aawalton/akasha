@@ -16,6 +16,21 @@ test("the skill pages read as a catalogue opening on the empty skill and closing
   expect(skillCatalog()).toBe(read)
 })
 
+test("the class mastery pages read as a table in hash place order, apart from the skills", () => {
+  const read = holdSkillCatalogFromCheckout()
+  expect(read.classMasteries.ids.length).toBe(35)
+  expect(read.classMasteries.ids[0]).toBe("abyssal-emergence")
+  expect(read.classMasteries.data["above-and-beyond"]).toMatchObject({
+    classId: "nightblade",
+    esoSkillId: 263605,
+    effects: [
+      { metricId: "critical-damage", effectType: "fractional-change", effectValue: 0.25 },
+      { metricId: "healing-critical-bonus", effectType: "fractional-change", effectValue: 0.25 },
+    ],
+  })
+  expect(read.skills.has("above-and-beyond")).toBe(false)
+})
+
 test("a table read from the catalogue reads whichever catalogue is held when it is read", () => {
   const read = holdSkillCatalogFromCheckout()
   const view = tableView(() => skillCatalog().skills)
@@ -32,6 +47,7 @@ test("a table read from the catalogue reads whichever catalogue is held when it 
       skillLines: [],
       races: [],
       classes: [],
+      classMasteries: [],
     })
   )
   expect(view.ids).toEqual([first.id])

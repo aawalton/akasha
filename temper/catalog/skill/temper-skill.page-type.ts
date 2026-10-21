@@ -30,6 +30,7 @@ export const temperSkill = {
     "text-property/base-name",
     "text-property/skill-status",
     "module/skill-templates-reading",
+    "module/character-templates-reading",
     "page-type/temper-resource",
     "page-type/temper-damage-type",
     "page-type/temper-enemy-type",
@@ -60,5 +61,5 @@ export const temperSkill = {
     "temper/player/character/build/build-codec/modules/build-codec-v52-skill-pages/build-codec-v52-skill-pages.data-table.code.ts SKILL_PAGES_BEFORE_MINOR_10",
   ],
   createdAt: "2026-09-02T01:45:21.036Z",
-  updatedAt: "2026-10-21T13:24:41.666Z",
+  updatedAt: "2026-10-21T13:36:02.348Z",
 } as const satisfies PageType
