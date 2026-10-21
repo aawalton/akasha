@@ -104,6 +104,33 @@
     "wood-extraction",
     "woodworking"
   ],
+  "stars": [
+    "bastion",
+    "biting-aura",
+    "bloody-renewal",
+    "boundless-vitality",
+    "fortified",
+    "gifted-rider",
+    "master-at-arms",
+    "master-gatherer",
+    "reaving-blows",
+    "steeds-blessing",
+    "war-mount",
+    "wrathful-strikes"
+  ],
+  "buffs": [
+    "Boon: The Warrior",
+    "Gallop",
+    "Major Brutality",
+    "Major Savagery",
+    "Minor Expedition",
+    "Vampire Stage 4"
+  ],
+  "championPoints": {
+    "mighty": 30,
+    "war-mage": 30
+  },
+  "mediumPieces": 7,
   "skills": [
     {
       "abilityId": 185842,

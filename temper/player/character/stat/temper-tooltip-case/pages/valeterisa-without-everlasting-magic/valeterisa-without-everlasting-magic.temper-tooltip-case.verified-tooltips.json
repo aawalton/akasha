@@ -121,6 +121,32 @@
     "wood-extraction",
     "woodworking"
   ],
+  "stars": [
+    "bastion",
+    "biting-aura",
+    "bloody-renewal",
+    "boundless-vitality",
+    "gifted-rider",
+    "master-at-arms",
+    "master-gatherer",
+    "reaving-blows",
+    "rejuvenation",
+    "steeds-blessing",
+    "war-mount",
+    "wrathful-strikes"
+  ],
+  "buffs": [
+    "Boon: The Mage",
+    "Gallop",
+    "Increase Max Magicka",
+    "Major Savagery",
+    "Vampire Stage 1"
+  ],
+  "championPoints": {
+    "mighty": 30,
+    "war-mage": 30
+  },
+  "mediumPieces": 1,
   "skills": [
     {
       "abilityId": 40457,

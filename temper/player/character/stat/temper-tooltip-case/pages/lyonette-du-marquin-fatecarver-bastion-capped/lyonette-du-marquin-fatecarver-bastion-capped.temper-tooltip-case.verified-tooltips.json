@@ -128,6 +128,21 @@
     "war-mount",
     "wrathful-strikes"
   ],
+  "buffs": [
+    "Boon: The Lady",
+    "Gallop",
+    "Major Brutality",
+    "Major Resolve",
+    "Major Savagery",
+    "Minor Expedition",
+    "Minor Force",
+    "Vampire Stage 3"
+  ],
+  "championPoints": {
+    "mighty": 30,
+    "war-mage": 30
+  },
+  "mediumPieces": 0,
   "skills": [
     {
       "abilityId": 185842,

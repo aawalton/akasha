@@ -143,6 +143,33 @@
     "wood-extraction",
     "woodworking"
   ],
+  "stars": [
+    "arcane-supremacy",
+    "bastion",
+    "biting-aura",
+    "bloody-renewal",
+    "boundless-vitality",
+    "gifted-rider",
+    "master-at-arms",
+    "master-gatherer",
+    "reaving-blows",
+    "rejuvenation",
+    "steeds-blessing",
+    "war-mount"
+  ],
+  "buffs": [
+    "Boon: The Mage",
+    "Gallop",
+    "Increase Max Magicka",
+    "Major Savagery",
+    "Summon Unstable Clannfear",
+    "Vampire Stage 1"
+  ],
+  "championPoints": {
+    "mighty": 30,
+    "war-mage": 30
+  },
+  "mediumPieces": 0,
   "skills": [
     {
       "abilityId": 34835,

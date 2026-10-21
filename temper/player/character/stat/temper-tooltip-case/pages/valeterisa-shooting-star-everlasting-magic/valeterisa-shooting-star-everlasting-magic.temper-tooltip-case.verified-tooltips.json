@@ -143,6 +143,50 @@
     "wood-extraction",
     "woodworking"
   ],
+  "stars": [
+    "arcane-supremacy",
+    "bastion",
+    "biting-aura",
+    "bloody-renewal",
+    "boundless-vitality",
+    "gifted-rider",
+    "master-at-arms",
+    "master-gatherer",
+    "reaving-blows",
+    "rejuvenation",
+    "steeds-blessing",
+    "war-mount"
+  ],
+  "buffs": [
+    "Aggressive Horn",
+    "Boon: The Mage",
+    "Dark Conversion",
+    "Escalating Fete",
+    "Exploitation",
+    "Gallop",
+    "Hircine's Veneer",
+    "Increase Max Magicka",
+    "Major Brutality",
+    "Major Courage",
+    "Major Force",
+    "Major Savagery",
+    "Major Slayer",
+    "Minor Berserk",
+    "Minor Brutality",
+    "Minor Courage",
+    "Minor Heroism",
+    "Minor Savagery",
+    "Minor Toughness",
+    "Perfect Scion",
+    "Summon Twilight Matriarch",
+    "Vampire Stage 5",
+    "Worm's Raiment"
+  ],
+  "championPoints": {
+    "mighty": 30,
+    "war-mage": 30
+  },
+  "mediumPieces": 0,
   "skills": [
     {
       "abilityId": 34838,

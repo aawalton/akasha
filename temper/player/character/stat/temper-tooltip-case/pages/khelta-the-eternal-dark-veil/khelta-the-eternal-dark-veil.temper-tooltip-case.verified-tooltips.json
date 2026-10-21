@@ -85,6 +85,31 @@
     "wood-extraction",
     "woodworking"
   ],
+  "stars": [
+    "boundless-vitality",
+    "discipline-artisan",
+    "discipline-artisan",
+    "discipline-artisan",
+    "discipline-artisan",
+    "discipline-artisan",
+    "discipline-artisan",
+    "discipline-artisan",
+    "discipline-artisan",
+    "discipline-artisan",
+    "discipline-artisan",
+    "discipline-artisan"
+  ],
+  "buffs": [
+    "Boon: The Lord",
+    "Dubious Camoran Throne",
+    "Minor Protection",
+    "Vampire Stage 1"
+  ],
+  "championPoints": {
+    "mighty": 0,
+    "war-mage": 0
+  },
+  "mediumPieces": 0,
   "skills": [
     {
       "abilityId": 33375,

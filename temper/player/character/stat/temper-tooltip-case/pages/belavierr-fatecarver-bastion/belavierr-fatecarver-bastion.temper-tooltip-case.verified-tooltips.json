@@ -119,6 +119,20 @@
     "war-mount",
     "wrathful-strikes"
   ],
+  "buffs": [
+    "Boon: The Lady",
+    "Dubious Camoran Throne",
+    "Gallop",
+    "Major Brutality",
+    "Major Savagery",
+    "Minor Expedition",
+    "Vampire Stage 4"
+  ],
+  "championPoints": {
+    "mighty": 30,
+    "war-mage": 30
+  },
+  "mediumPieces": 6,
   "skills": [
     {
       "abilityId": 183047,

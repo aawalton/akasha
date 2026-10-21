@@ -58,6 +58,12 @@
     "discipline-artisan",
     "discipline-artisan"
   ],
+  "buffs": [],
+  "championPoints": {
+    "mighty": 0,
+    "war-mage": 0
+  },
+  "mediumPieces": 0,
   "skills": [
     {
       "abilityId": 38317,
