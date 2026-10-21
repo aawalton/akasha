@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"fork.subagent-kind.ts","path":"agent/subagent/modules/body/subagent-body.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fork.subagent-kind.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
+{"propertySlug":"subagent-kind","path":"agent/subagent/pages/nimue-a11890d8a47d97a7a/nimue-a11890d8a47d97a7a.subagent.ts","id":"01a15eec-268f-76c0-a13a-959e4c1970a9"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/nimue-a4828576dc41e4322/nimue-a4828576dc41e4322.subagent.ts","id":"01a15ed7-ab71-71b4-82c2-ad1b0536b8e3"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/nimue-a6573a9bf3775cb7d/nimue-a6573a9bf3775cb7d.subagent.ts","id":"01a15ed7-bcdb-777e-bdb2-bc254f1e9220"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/nimue-ade11ee21ef70d6ba/nimue-ade11ee21ef70d6ba.subagent.ts","id":"01a15ed7-9b4c-74b6-95b9-026f9099eabf"}
