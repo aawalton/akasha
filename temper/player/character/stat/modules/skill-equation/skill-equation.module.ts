@@ -254,11 +254,11 @@ export const skillEquation = {
         "Emerald Moss adds 5% healing done to a Green Balance heal for each Green Balance skill on its bar.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
+      decisionKind: "decision-kind/departure",
       statement:
-        "Every reading read holds one Green Balance skill on the bar and no other healing done.",
+        "Emerald Moss's share adds to the build's healing done before the heal grows by it once.",
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T10:46:01.448Z",
+  updatedAt: "2026-10-21T10:52:39.672Z",
 } as const satisfies Module
