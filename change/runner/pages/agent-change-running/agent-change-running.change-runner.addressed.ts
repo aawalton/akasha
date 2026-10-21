@@ -197,6 +197,9 @@ export type Changes = {
   "change-agent/rename-folder-imports": Parameters<
     typeof import("akasha/change/agent/file-content/rename-folder-imports/rename-folder-imports.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/rename-metric-reads": Parameters<
+    typeof import("akasha/change/agent/file-content/rename-metric-reads/rename-metric-reads.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/rename-page": Parameters<
     typeof import("akasha/change/agent/page/rename-page/rename-page.change-agent.code.ts")["runChange"]
   >[1]

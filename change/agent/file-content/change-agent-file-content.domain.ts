@@ -33,7 +33,8 @@ export const changeAgentFileContent = {
     "change-agent/correct-set-armor-lines",
     "change-agent/backfill-reading-levels",
     "change-agent/backfill-reading-prismatic-recovery",
+    "change-agent/rename-metric-reads",
   ],
   createdAt: "2026-09-07T16:45:09.027Z",
-  updatedAt: "2026-10-20T19:14:57.596Z",
+  updatedAt: "2026-10-21T03:06:41.892Z",
 } as const satisfies Domain

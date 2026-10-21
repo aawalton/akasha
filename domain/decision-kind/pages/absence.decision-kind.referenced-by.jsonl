@@ -572,6 +572,7 @@
 {"propertySlug":"decision-kind","path":"change/agent/file-content/remove-property-record/remove-property-record.change-agent.ts","id":"01a081ee-d2ea-7846-af0b-049ae0500371"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/remove-property-value/remove-property-value.change-agent.ts","id":"01a07944-9ee0-7f93-a8d0-b0e845bdd929"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/rename-folder-imports/rename-folder-imports.change-agent.ts","id":"01a08dc4-e449-7081-b339-7a0d9b4ca947"}
+{"propertySlug":"decision-kind","path":"change/agent/file-content/rename-metric-reads/rename-metric-reads.change-agent.ts","id":"01a15c6c-e165-745a-8e17-b607ab5d82e4"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/rename-spellings/rename-spellings.change-agent.ts","id":"01a0c6a4-1550-79dd-90c7-9032b858cc71"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/repair-reading-line/repair-reading-line.change-agent.ts","id":"01a156a2-5661-7e36-9ff7-e1668a5eabb1"}
 {"propertySlug":"decision-kind","path":"change/agent/file/add-binary-file/add-binary-file.change-agent.ts","id":"01a09116-8eac-7885-886c-17c41e842516"}
