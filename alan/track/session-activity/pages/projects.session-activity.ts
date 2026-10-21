@@ -5,8 +5,8 @@ export const projects = {
   type: "page-type/session-activity",
   slug: "projects",
   title: "Projects",
-  defaultDifficulty: 2,
+  defaultDifficulty: 1,
   icon: "file-text",
   createdAt: "2026-07-05T23:07:19.237Z",
-  updatedAt: "2026-09-16T14:19:27.000Z",
+  updatedAt: "2026-10-21T14:03:37.259Z",
 } as const satisfies SessionActivity
