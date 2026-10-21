@@ -78,11 +78,10 @@ export const tooltipCase = {
       statement: "A case's formulas read its passives and its slotted stars as one set held.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement:
-        "A case pinned before cases kept passives keeps none, and is worked out holding none.",
+      decisionKind: "decision-kind/departure",
+      statement: "A case's formulas read its buffs, points and medium pieces as what was active.",
     },
   ],
   createdAt: "2026-10-21T01:45:54.419Z",
-  updatedAt: "2026-10-21T03:34:20.099Z",
+  updatedAt: "2026-10-21T03:53:31.433Z",
 } as const satisfies Module

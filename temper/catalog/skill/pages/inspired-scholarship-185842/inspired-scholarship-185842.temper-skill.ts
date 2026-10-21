@@ -20,10 +20,10 @@ export const inspiredScholarship185842 = {
   skillType: "temper-skill-type/active",
   hashPlace: 692,
   createdAt: "2026-05-28T16:03:32.866Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T03:53:31.433Z",
   equations: [
     "<<1>> = 3 seconds (Constant)",
-    "<<2>> = 0.0403055 MaxStat + 0.422453 MaxPower - 0.110984 (Ultimate, ratio = 10.48, Dmg, Magic, SingleTarget, Direct, Melee, R2 = 0.999999)",
+    "<<2>> = 0.041598003 MaxStat + 0.43677903 MaxPower (Ultimate, Dmg, Magic, SingleTarget, Direct, Melee)",
     "<<3>> = 20% (Constant)",
   ],
 } as const satisfies TemperSkill

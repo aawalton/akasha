@@ -28,15 +28,20 @@ import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.co
 import { loadSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts"
 import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
 import {
+  type ActiveHeld,
   equationStatsOf,
+  NOTHING_ACTIVE,
   type TooltipNumber,
   type TooltipPairing,
   tooltipPairingOf,
 } from "akasha/temper/player/character/stat/modules/skill-equation/skill-equation.module.code.ts"
 import {
+  activeOf,
+  type BuildHeld,
   type Equations,
   equationsIn,
   heldOfBuild,
+  heldOfCase,
   heldSetOf,
 } from "akasha/temper/player/character/stat/modules/tooltip-case/tooltip-case.module.code.ts"
 import { readings } from "akasha/temper/player/character/temper-account-character/properties/readings.file-property.ts"
@@ -63,7 +68,8 @@ export type Tally = {
 export function comparedSkillsOf(
   reading: ReadingLine["reading"],
   equations: Equations,
-  held: ReadonlySet<string>
+  held: ReadonlySet<string>,
+  active: ActiveHeld = NOTHING_ACTIVE
 ): readonly ComparedSkill[] {
   const stats = equationStatsOf(reading.stats)
   return (reading.skills ?? []).map((skill) => {
@@ -72,7 +78,10 @@ export function comparedSkillsOf(
       slot: skill.slot,
       abilityId: skill.abilityId,
       name: skill.name,
-      pairing: lines === undefined ? null : tooltipPairingOf(skill.description, lines, stats, held),
+      pairing:
+        lines === undefined
+          ? null
+          : tooltipPairingOf(skill.description, lines, stats, held, active),
     }
   })
 }
@@ -159,16 +168,19 @@ export async function temperTooltipCompare(argv: readonly string[], given: Given
   if ("refused" in chosen) return refused(`\`${slug}\`: ${chosen.refused}`, INPUT)
   await Promise.all([loadSkillCatalog(), loadSetCatalog()])
   const equations = equationsIn(given.root)
-  const byBuild = new Map<string, ReadonlySet<string>>()
-  const heldOf = (hash: string): ReadonlySet<string> => {
-    const held = byBuild.get(hash) ?? heldSetOf(heldOfBuild(hash) ?? {})
-    byBuild.set(hash, held)
-    return held
+  const byBuild = new Map<string, BuildHeld | undefined>()
+  const buildOf = (hash: string): BuildHeld | undefined => {
+    const build = byBuild.has(hash) ? byBuild.get(hash) : heldOfBuild(hash)
+    byBuild.set(hash, build)
+    return build
   }
-  const compared = chosen.chosen.map((line) => ({
-    line,
-    skills: comparedSkillsOf(line.reading, equations, heldOf(line.buildHash)),
-  }))
+  const compared = chosen.chosen.map((line) => {
+    const held = heldOfCase(buildOf(line.buildHash), line.reading)
+    return {
+      line,
+      skills: comparedSkillsOf(line.reading, equations, heldSetOf(held), activeOf(held)),
+    }
+  })
   if (read.taken.json) {
     return asJson({
       character: slug,

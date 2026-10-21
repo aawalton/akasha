@@ -20,9 +20,9 @@ export const concealedWeapon25267 = {
   skillType: "temper-skill-type/active",
   hashPlace: 234,
   createdAt: "2026-05-28T16:03:31.980Z",
-  updatedAt: "2026-10-21T01:40:37.191Z",
+  updatedAt: "2026-10-21T03:53:31.433Z",
   equations: [
-    "<<1>> = 0.11363 MaxStat + 1.19311 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<1>> = 0.11361261 MaxStat + 1.1929324 MaxPower (Ultimate, Dmg, Magic, SingleTarget, Direct, Melee)",
     "<<2>> = 10% (Constant)",
     "<<3>> = 15 seconds (Constant)",
     "<<4>> = Minor Expedition (Constant)",

@@ -20,9 +20,9 @@ export const flameLash20816 = {
   skillType: "temper-skill-type/active",
   hashPlace: 514,
   createdAt: "2026-05-28T16:03:32.483Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T03:53:31.433Z",
   equations: [
-    "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Flame, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<1>> = 0.10327876 MaxStat + 1.0844269 MaxPower (Ultimate, RankMod(1), Dmg, Flame, SingleTarget, Direct, Melee)",
     "<<2>> = 0.034433 MaxStat + 0.36155 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
     "<<3>> = 5 (Constant)",
     "<<4>> = Power Lash (Constant)",
@@ -30,7 +30,7 @@ export const flameLash20816 = {
     "<<6>> = 20 seconds (Constant)",
     "<<7>> = 3% (Constant)",
     "<<8>> = 45 seconds (Constant)",
-    "<<9>> = 0.159048 MaxStat + 1.67 MaxPower (Ultimate, ratio = 10.50, Dmg, Flame, AOE, Direct, Melee, R2 = 1)",
+    "<<9>> = 0.15903609 MaxStat + 1.6698789 MaxPower (Ultimate, Dmg, Flame, AOE, Direct, Melee)",
     "<<10>> = 0.068867 MaxStat + 0.7231 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
   ],
 } as const satisfies TemperSkill

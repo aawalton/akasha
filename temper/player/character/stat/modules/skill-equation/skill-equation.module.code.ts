@@ -1,3 +1,6 @@
+import { mighty } from "akasha/temper/catalog/champion-point/temper-champion-star/pages/mighty.temper-champion-star.ts"
+import { warMage } from "akasha/temper/catalog/champion-point/temper-champion-star/pages/war-mage.temper-champion-star.ts"
+
 export type EquationStats = {
   readonly maxStat: number
   readonly maxPower: number
@@ -96,11 +99,20 @@ export function shownNumbersOf(description: string): readonly number[] {
   return [...description.matchAll(SHOWN)].map((one) => Number(one[1]))
 }
 
+export type ActiveHeld = {
+  readonly buffs: ReadonlySet<string>
+  readonly championPoints: Readonly<Record<string, number>>
+  readonly mediumPieces: number
+}
+
+export const NOTHING_ACTIVE: ActiveHeld = { buffs: new Set(), championPoints: {}, mediumPieces: 0 }
+
 export function tooltipPairingOf(
   description: string,
   equations: readonly string[],
   stats: EquationStats,
-  passives: ReadonlySet<string>
+  passives: ReadonlySet<string>,
+  active: ActiveHeld = NOTHING_ACTIVE
 ): TooltipPairing {
   const shown = shownNumbersOf(description)
   const numbered = equations.filter((line) => NAMES_A_NUMBER.test(line))
@@ -112,7 +124,7 @@ export function tooltipPairingOf(
       equation: line,
       scaled: equation?.scaled ?? false,
       game: shown[at] ?? 0,
-      temper: tooltipValueOf(equation, stats, passives) ?? null,
+      temper: tooltipValueOf(equation, stats, passives, active) ?? null,
     }
   })
   return { paired: true, numbers }
@@ -129,19 +141,76 @@ function longerBy(equation: Equation, passives: ReadonlySet<string>): number {
 
 const SHIELD = "DmgShield"
 
+const DAMAGE = "Dmg"
+
+const DIRECT = "Direct"
+
 const HALF_HEALTH = "at most half Health"
 
 const BONUSES: readonly {
   readonly held: string
-  readonly tag: string
+  readonly tags: readonly string[]
   readonly percent: number
-}[] = [{ held: "bastion", tag: SHIELD, percent: 15 }]
+}[] = [
+  { held: "bastion", tags: [SHIELD], percent: 15 },
+  { held: "master-at-arms", tags: [DAMAGE, DIRECT], percent: 6 },
+  { held: "biting-aura", tags: [DAMAGE, DIRECT, "AOE"], percent: 6 },
+  { held: "deadly-aim", tags: [DAMAGE, DIRECT, "SingleTarget"], percent: 6 },
+]
 
 function bonusOf(equation: Equation, held: ReadonlySet<string>): number {
-  const percent = BONUSES.filter((one) => held.has(one.held) && equation.tags.includes(one.tag))
+  const percent = BONUSES.filter(
+    (one) => held.has(one.held) && one.tags.every((tag) => equation.tags.includes(tag))
+  )
     .map((one) => one.percent)
     .reduce((sum, one) => sum + one, 0)
   return 1 + percent / 100
+}
+
+const POWER_BUFFS: Readonly<Record<string, number>> = {
+  "Major Brutality": 0.2,
+  "Minor Brutality": 0.1,
+}
+
+const POWER_PER_MEDIUM_PIECE = { held: "agility", share: 0.02 }
+
+const POWER_STARS = [
+  { star: warMage.slug, types: ["Magic", "Flame", "Frost", "Shock"] },
+  { star: mighty.slug, types: ["Physical", "Poison", "Disease", "Bleed"] },
+]
+
+const POWER_STAR = { points: 30, power: 100 }
+
+const WRATHFUL_STRIKES = { held: "wrathful-strikes", power: 205 }
+
+function powerShareOf(held: ReadonlySet<string>, active: ActiveHeld): number {
+  const buffs = [...active.buffs].reduce((sum, one) => sum + (POWER_BUFFS[one] ?? 0), 0)
+  const medium = held.has(POWER_PER_MEDIUM_PIECE.held)
+    ? POWER_PER_MEDIUM_PIECE.share * active.mediumPieces
+    : 0
+  return buffs + medium
+}
+
+function isDirectDamage(equation: Equation): boolean {
+  return equation.tags.includes(DAMAGE) && equation.tags.includes(DIRECT)
+}
+
+function damagePowerOf(
+  equation: Equation,
+  power: number,
+  held: ReadonlySet<string>,
+  active: ActiveHeld
+): number {
+  if (!isDirectDamage(equation)) return power
+  const star = POWER_STARS.find((one) => one.types.some((type) => equation.tags.includes(type)))
+  const points = star === undefined ? 0 : (active.championPoints[star.star] ?? 0)
+  const flat =
+    (points >= POWER_STAR.points ? POWER_STAR.power : 0) +
+    (held.has(WRATHFUL_STRIKES.held) ? WRATHFUL_STRIKES.power : 0)
+  if (flat === 0) return power
+  const grown = 1 + powerShareOf(held, active)
+  const base = Math.round(power / grown)
+  return power + Math.round((base + flat) * grown) - Math.round(base * grown)
 }
 
 function shieldOf(
@@ -159,13 +228,17 @@ function shieldOf(
 function tooltipValueOf(
   equation: Equation | undefined,
   stats: EquationStats,
-  passives: ReadonlySet<string>
+  passives: ReadonlySet<string>,
+  active: ActiveHeld
 ): number | undefined {
-  const worked = equationValue(equation, stats)
-  if (worked === undefined || equation === undefined) return undefined
+  if (equation === undefined) return undefined
+  const maxPower = damagePowerOf(equation, stats.maxPower, passives, active)
+  const worked = equationValue(equation, { ...stats, maxPower })
+  if (worked === undefined) return undefined
   if (!equation.scaled) return worked + longerBy(equation, passives)
   if (equation.tags.includes(SHIELD)) return shieldOf(equation, worked, stats, passives)
-  return Math.round(worked)
+  const bonused = bonusOf(equation, passives) * worked
+  return isDirectDamage(equation) ? Math.floor(bonused) : Math.round(bonused)
 }
 
 export function equationValue(

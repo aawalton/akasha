@@ -20,9 +20,9 @@ export const burningEmbers20660 = {
   skillType: "temper-skill-type/active",
   hashPlace: 173,
   createdAt: "2026-05-28T16:03:31.869Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T03:53:31.433Z",
   equations: [
-    "<<1>> = 0.05165 MaxStat + 0.542325 MaxPower (Ultimate, ratio = 10.50, Dmg, Flame, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<1>> = 0.051639378 MaxStat + 0.54221347 MaxPower (Ultimate, Dmg, Flame, SingleTarget, Direct, Melee)",
     "<<2>> = 0.031026 MaxStat + 0.325426 MaxPower - 1.91657 (Ultimate, ratio = 10.49, Dmg, Flame, SingleTarget, DOT, 8s duration, 2s tick, R2 = 0.999998)",
     "<<3>> = 10 seconds (Constant)",
     "<<4>> = 0.206642 Health - 1.14018 (Health, Heal, SingleTarget, Direct, R2 = 1)",

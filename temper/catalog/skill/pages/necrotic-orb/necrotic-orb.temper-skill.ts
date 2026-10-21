@@ -20,13 +20,13 @@ export const necroticOrb = {
   skillType: "temper-skill-type/active",
   hashPlace: 854,
   createdAt: "2026-05-28T16:03:33.177Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T03:53:31.433Z",
   equations: [
     "<<1>> = 10 seconds (Constant)",
     "<<2>> = 0.0136606 MaxStat + 0.143129 MaxPower - 1.23018 (Ultimate, ratio = 10.48, Dmg, Magic, AOE, DOT, 1s tick, R2 = 0.999991)",
     "<<3>> = 1 second (Constant)",
     "<<4>> = Combustion (Constant)",
-    "<<5>> = 0.0999631 MaxStat + 1.0499 MaxPower - 0.231961 (Ultimate, ratio = 10.50, Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
+    "<<5>> = 0.099991429 MaxStat + 1.04991 MaxPower (Ultimate, Dmg, Magic, AOE, Direct, Melee)",
     "<<6>> = 3960 (Constant)",
   ],
 } as const satisfies TemperSkill

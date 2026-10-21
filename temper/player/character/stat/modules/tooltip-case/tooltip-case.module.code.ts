@@ -7,6 +7,7 @@ import { decodeBuild } from "akasha/temper/player/character/build/build-codec/mo
 import { buildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { countArmorPiecesByWeight } from "akasha/temper/player/character/skill/modules/passive-queries/passive-queries.module.code.ts"
 import {
+  type ActiveHeld,
   equationStatsOf,
   tooltipPairingOf,
 } from "akasha/temper/player/character/stat/modules/skill-equation/skill-equation.module.code.ts"
@@ -129,6 +130,16 @@ export function heldSetOf(read: Pick<TooltipCaseRead, "passives" | "stars">): Re
   return new Set([...(read.passives ?? []), ...(read.stars ?? [])])
 }
 
+export function activeOf(
+  read: Pick<TooltipCaseRead, "buffs" | "championPoints" | "mediumPieces">
+): ActiveHeld {
+  return {
+    buffs: new Set(read.buffs ?? []),
+    championPoints: read.championPoints ?? {},
+    mediumPieces: read.mediumPieces ?? 0,
+  }
+}
+
 export function formulaOf(abilityId: number, placeholder: number): string {
   return `${String(abilityId)} <<${String(placeholder)}>>`
 }
@@ -136,11 +147,12 @@ export function formulaOf(abilityId: number, placeholder: number): string {
 export function workedOf(read: TooltipCaseRead, equations: Equations): ReadonlyMap<string, Worked> {
   const stats = equationStatsOf(read.stats)
   const built = heldSetOf(read)
+  const active = activeOf(read)
   const found = new Map<string, Worked>()
   for (const skill of read.skills) {
     const held = equations.get(skill.abilityId)
     if (held === undefined) continue
-    const pairing = tooltipPairingOf(skill.description, held, stats, built)
+    const pairing = tooltipPairingOf(skill.description, held, stats, built, active)
     if (!pairing.paired) continue
     for (const one of pairing.numbers) {
       const formula = formulaOf(skill.abilityId, one.placeholder)

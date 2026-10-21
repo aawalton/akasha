@@ -3,6 +3,7 @@ import {
   equationOf,
   equationStatsOf,
   equationValue,
+  NOTHING_ACTIVE,
   shownNumbersOf,
   tooltipPairingOf,
 } from "akasha/temper/player/character/stat/modules/skill-equation/skill-equation.module.code.ts"
@@ -123,6 +124,39 @@ test("a damage shield rounds down, grows with Bastion slotted, and a capped one 
   expect(shield(fatecarver, new Set(["bastion"]))).toBe(Math.floor(1.15 * raw))
   expect(shield(fatecarver, new Set(), 19394)).toBe(9697)
   expect(shield("<<1>> = 0.1 MaxStat (Dmg)", new Set(["bastion"]))).toBe(2000)
+})
+
+test("direct damage grows with the damage stars slotted and rounds down", () => {
+  const lash = "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Dmg, Flame, AOE, Direct)"
+  const worked = (held: ReadonlySet<string>) => {
+    const paired = tooltipPairingOf("dealing |cffffff1|r", [lash], STATS, held)
+    return paired.paired ? paired.numbers[0]?.temper : undefined
+  }
+  const raw = 0.1 * 20000 + 1.05 * 5000
+
+  expect(worked(new Set())).toBe(Math.floor(raw))
+  expect(worked(new Set(["master-at-arms", "biting-aura", "deadly-aim"]))).toBe(
+    Math.floor(1.12 * raw)
+  )
+})
+
+test("direct damage reads the power War Mage, Mighty and Wrathful Strikes add before buffs grow it", () => {
+  const lash = "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Dmg, Flame, SingleTarget, Direct)"
+  const worked = (held: ReadonlySet<string>, active = NOTHING_ACTIVE) => {
+    const paired = tooltipPairingOf("dealing |cffffff1|r", [lash], STATS, held, active)
+    return paired.paired ? paired.numbers[0]?.temper : undefined
+  }
+  const at = (power: number) => Math.floor(0.1 * 20000 + 1.05 * power)
+  const brutal = {
+    buffs: new Set(["Major Brutality"]),
+    championPoints: { "war-mage": 30 },
+    mediumPieces: 5,
+  }
+
+  expect(worked(new Set(["wrathful-strikes"]), brutal)).toBe(at(5366))
+  expect(worked(new Set(["agility"]), brutal)).toBe(at(5130))
+  expect(worked(new Set(), { ...brutal, championPoints: { mighty: 30 } })).toBe(at(5000))
+  expect(worked(new Set(), { ...brutal, championPoints: { "war-mage": 29 } })).toBe(at(5000))
 })
 
 test("a duration tagged with a passive is that much longer only where the build holds it", () => {

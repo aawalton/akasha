@@ -59,7 +59,57 @@ export const skillEquation = {
       decisionKind: "decision-kind/departure",
       statement: "A shield tagged `at most half Health` stops at half the build's Max Health.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Direct damage is rounded down, after the damage stars the build slots multiply it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Master-at-Arms slotted makes direct damage 6% stronger.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Biting Aura slotted makes area direct damage 6% stronger, and Deadly Aim single-target.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Direct damage reads a power that War Mage, Mighty and Wrathful Strikes add to before buffs grow it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "War Mage at 30 points adds 100 power to magical damage, and Mighty at 30 to martial damage.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Wrathful Strikes slotted adds 205 power to direct damage.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Major Brutality grows power 20%, Minor Brutality 10%, and Agility 2% a medium piece worn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The power grown that way is a whole number, as the stat sheet's power is.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "Only 0 and 30 points of War Mage and Mighty have been read, so fewer than 30 add nothing.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A pet's damage is worked as the caster's own, and its numbers are kept as gaps.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A buff that stacks on the caster is not read, and the numbers it grows are gaps.",
+    },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T02:50:41.512Z",
+  updatedAt: "2026-10-21T03:53:31.433Z",
 } as const satisfies Module

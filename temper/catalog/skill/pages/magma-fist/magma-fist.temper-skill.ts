@@ -20,9 +20,9 @@ export const magmaFist = {
   skillType: "temper-skill-type/active",
   hashPlace: 794,
   createdAt: "2026-05-26T03:13:12.390Z",
-  updatedAt: "2026-10-21T01:42:11.846Z",
+  updatedAt: "2026-10-21T03:53:31.433Z",
   equations: [
-    "<<1>> = 0.1033 MaxStat + 1.08465 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Flame, SingleTarget, Direct, R2 = 1)",
+    "<<1>> = 0.10669171 MaxStat + 1.1202629 MaxPower (Ultimate, RankMod(1), Dmg, Flame, SingleTarget, Direct)",
     "<<2>> = Heat Shock (Constant)",
     "<<3>> = 66 (Constant)",
     "<<4>> = 7 seconds (Constant)",

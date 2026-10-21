@@ -20,10 +20,10 @@ export const recuperativeTreatise183047 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1001,
   createdAt: "2026-05-28T16:03:33.455Z",
-  updatedAt: "2026-10-21T01:40:37.191Z",
+  updatedAt: "2026-10-21T03:53:31.433Z",
   equations: [
     "<<1>> = 5 seconds (Constant)",
-    "<<2>> = 0.0517266 MaxStat + 0.542407 MaxPower - 2.07263 (Ultimate, ratio = 10.49, Dmg, Magic, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<2>> = 0.051645937 MaxStat + 0.54228234 MaxPower (Ultimate, Dmg, Magic, SingleTarget, Direct, Melee)",
     "<<3>> = 600 (Constant)",
     "<<4>> = 20% (Constant)",
   ],

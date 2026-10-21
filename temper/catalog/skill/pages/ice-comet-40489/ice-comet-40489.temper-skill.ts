@@ -20,9 +20,9 @@ export const iceComet40489 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 651,
   createdAt: "2026-05-28T16:03:32.798Z",
-  updatedAt: "2026-10-21T02:29:23.868Z",
+  updatedAt: "2026-10-21T03:53:31.433Z",
   equations: [
-    "<<1>> = 0.198852 MaxStat + 2.08795 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Frost, AOE, Direct, Melee, R2 = 1)",
+    "<<1>> = 0.20540383 MaxStat + 2.1567402 MaxPower (Ultimate, RankMod(1), Dmg, Frost, AOE, Direct, Melee)",
     "<<2>> = 2 seconds (Constant)",
     "<<3>> = 0.068929 MaxStat + 0.722759 MaxPower - 0.908521 (Ultimate, ratio = 10.49, Dmg, Frost, AOE, DOT, 1s tick, R2 = 1)",
     "<<4>> = 1 second (Constant)",
