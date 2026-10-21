@@ -9,122 +9,122 @@
       "5": 155411,
       "6": 213169
     },
-    "hash": "AjEIhtG0bRtG0bRtDQ0TGNPafMlxuIA",
-    "companionId": 13,
     "weapons": {
       "1": {
-        "displayText": "Restoration Staff, Quickened",
+        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "isEmpty": false
+        "displayText": "Restoration Staff, Quickened"
       },
       "2": {
-        "displayText": "Empty",
+        "isEmpty": true,
         "qualityColor": {
           "1": 0.5,
           "2": 0.5,
           "3": 0.5
         },
-        "isEmpty": true
+        "displayText": "Empty"
+      }
+    },
+    "companionId": 13,
+    "armor": {
+      "1": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Quickened"
+      },
+      "2": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Quickened"
+      },
+      "3": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Quickened"
+      },
+      "4": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Quickened"
+      },
+      "5": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Quickened"
+      },
+      "6": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Quickened"
+      },
+      "7": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Quickened"
       }
     },
     "jewelry": {
       "1": {
-        "displayText": "Quickened",
+        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "isEmpty": false
+        "displayText": "Quickened"
       },
       "2": {
-        "displayText": "Quickened",
+        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "isEmpty": false
+        "displayText": "Quickened"
       },
       "3": {
-        "displayText": "Vigorous",
+        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "isEmpty": false
+        "displayText": "Vigorous"
       }
     },
-    "armor": {
-      "1": {
-        "displayText": "Heavy, Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "2": {
-        "displayText": "Heavy, Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "3": {
-        "displayText": "Heavy, Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "4": {
-        "displayText": "Heavy, Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "5": {
-        "displayText": "Heavy, Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "6": {
-        "displayText": "Heavy, Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "7": {
-        "displayText": "Heavy, Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      }
-    }
+    "hash": "AjEIhtG0bRtG0bRtDQ0TGNPafMlxuIA"
   },
   "targetBuildHash": "AjEAgAbRtG0bRtGAbQENExjTV8A",
   "level": 20,
