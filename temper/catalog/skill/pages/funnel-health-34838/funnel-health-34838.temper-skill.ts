@@ -20,9 +20,9 @@ export const funnelHealth34838 = {
   skillType: "temper-skill-type/active",
   hashPlace: 555,
   createdAt: "2026-05-28T16:03:32.586Z",
-  updatedAt: "2026-10-21T01:42:11.846Z",
+  updatedAt: "2026-10-21T04:31:20.926Z",
   equations: [
-    "<<1>> = 0.0936035 MaxStat + 0.975627 MaxPower - 25.156 (Ultimate, ratio = 10.42, RankMod(1), Dmg, Magic, SingleTarget, Direct, Melee, 0.5s duration, R2 = 0.991119)",
+    "<<1>> = 0.096026965 MaxStat + 1.0082831 MaxPower (Ultimate, RankMod(1), Dmg, Magic, SingleTarget, Direct, Melee, 0.5s duration)",
     "<<7>> = 3 (Constant)",
     "<<2>> = 33 (Constant)",
     "<<3>> = 2 seconds (Constant)",
