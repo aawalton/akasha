@@ -159,6 +159,20 @@ test("direct damage reads the power War Mage, Mighty and Wrathful Strikes add be
   expect(worked(new Set(), { ...brutal, championPoints: { "war-mage": 29 } })).toBe(at(5000))
 })
 
+test("Minor Berserk on the caster makes damage 5% stronger, added to the stars slotted", () => {
+  const lash = "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Dmg, Flame, SingleTarget, Direct)"
+  const heal = "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Heal)"
+  const berserk = { ...NOTHING_ACTIVE, buffs: new Set(["Minor Berserk"]) }
+  const worked = (line: string, held: ReadonlySet<string>) => {
+    const paired = tooltipPairingOf("dealing |cffffff1|r", [line], STATS, held, berserk)
+    return paired.paired ? paired.numbers[0]?.temper : undefined
+  }
+  const raw = 0.1 * 20000 + 1.05 * 5000
+
+  expect(worked(lash, new Set(["master-at-arms"]))).toBe(Math.floor(1.11 * raw))
+  expect(worked(heal, new Set())).toBe(Math.round(raw))
+})
+
 test("damage over time totals a tick for each tick in the game's duration, and one more where it ticks on application", () => {
   const embers =
     "<<2>> = 0.03 MaxStat + 0.315 MaxPower (Dmg, Flame, SingleTarget, DOT, 8s duration, 2s tick)"

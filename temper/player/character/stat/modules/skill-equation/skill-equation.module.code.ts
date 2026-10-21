@@ -168,12 +168,23 @@ const BONUSES: readonly {
   { held: "deadly-aim", tags: [DAMAGE, "SingleTarget"], percent: 6 },
 ]
 
-function bonusOf(equation: Equation, held: ReadonlySet<string>): number {
+const DAMAGE_BUFFS: Readonly<Record<string, number>> = {
+  "Minor Berserk": 5,
+}
+
+function bonusOf(
+  equation: Equation,
+  held: ReadonlySet<string>,
+  active: ActiveHeld = NOTHING_ACTIVE
+): number {
+  const buffed = isDamage(equation)
+    ? [...active.buffs].reduce((sum, one) => sum + (DAMAGE_BUFFS[one] ?? 0), 0)
+    : 0
   const percent = BONUSES.filter(
     (one) => held.has(one.held) && one.tags.every((tag) => equation.tags.includes(tag))
   )
     .map((one) => one.percent)
-    .reduce((sum, one) => sum + one, 0)
+    .reduce((sum, one) => sum + one, buffed)
   return 1 + percent / 100
 }
 
@@ -272,7 +283,7 @@ function tooltipValueOf(
   if (worked === undefined) return undefined
   if (!equation.scaled) return worked + longerBy(equation, passives)
   if (equation.tags.includes(SHIELD)) return shieldOf(equation, worked, stats, passives)
-  const bonused = bonusOf(equation, passives) * worked
+  const bonused = bonusOf(equation, passives, active) * worked
   if (!isDamage(equation)) return Math.round(bonused)
   return Math.floor(bonused) * ticksOf(equation, durationMs)
 }

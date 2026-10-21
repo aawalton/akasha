@@ -77,6 +77,10 @@ export const skillEquation = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Minor Berserk on the caster makes damage 5% stronger.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Damage reads a power that War Mage, Mighty and Wrathful Strikes add to before buffs grow it.",
     },
@@ -137,5 +141,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T04:15:04.901Z",
+  updatedAt: "2026-10-21T04:27:46.146Z",
 } as const satisfies Module
