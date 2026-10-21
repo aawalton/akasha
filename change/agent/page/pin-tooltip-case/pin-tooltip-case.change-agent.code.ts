@@ -152,11 +152,12 @@ export function pinTooltipCaseCommand(
       ...(healingDone === undefined ? {} : { healingDone }),
       skills: [...skills]
         .sort((one, two) => one.slot - two.slot)
-        .map(({ abilityId, name, description, durationMs }) => ({
+        .map(({ abilityId, name, description, durationMs, rank }) => ({
           abilityId,
           name,
           description,
           durationMs,
+          rank,
         })),
     },
     equations,

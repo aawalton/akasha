@@ -93,7 +93,15 @@ export function comparedSkillsOf(
       pairing:
         lines === undefined
           ? null
-          : tooltipPairingOf(skill.description, lines, skillStats, held, active, skill.durationMs),
+          : tooltipPairingOf(
+              skill.description,
+              lines,
+              skillStats,
+              held,
+              active,
+              skill.durationMs,
+              skill.rank
+            ),
     }
   })
 }

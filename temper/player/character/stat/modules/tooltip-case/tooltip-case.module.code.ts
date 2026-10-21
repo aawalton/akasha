@@ -34,6 +34,7 @@ const caseSkill = z.strictObject({
   name: z.string(),
   description: z.string(),
   durationMs: z.number().optional(),
+  rank: z.number().optional(),
 })
 
 export const tooltipCaseShape = z.strictObject({
@@ -273,7 +274,8 @@ export function workedOf(
       skillStatsOf(stats, skill.abilityId, read.skills, built, lines),
       built,
       active,
-      skill.durationMs
+      skill.durationMs,
+      skill.rank
     )
     if (!pairing.paired) continue
     for (const one of pairing.numbers) {
@@ -329,11 +331,12 @@ export function tooltipCaseOf(
     ...(read.mediumPieces === undefined ? {} : { mediumPieces: read.mediumPieces }),
     ...(read.weapons === undefined ? {} : { weapons: [...read.weapons].sort() }),
     ...(read.healingDone === undefined ? {} : { healingDone: read.healingDone }),
-    skills: read.skills.map(({ abilityId, name, description, durationMs }) => ({
+    skills: read.skills.map(({ abilityId, name, description, durationMs, rank }) => ({
       abilityId,
       name,
       description,
       ...(durationMs === undefined ? {} : { durationMs }),
+      ...(rank === undefined ? {} : { rank }),
     })),
     pinned: inNameOrder(pinned),
     gaps: inNameOrder(gaps),

@@ -80,6 +80,10 @@ export const tooltipCase = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A case keeps each skill's rank where its reading gave one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A case keeps the names of the buffs active when it was read, once each in name order.",
     },
@@ -115,5 +119,5 @@ export const tooltipCase = {
     },
   ],
   createdAt: "2026-10-21T01:45:54.419Z",
-  updatedAt: "2026-10-21T07:00:03.119Z",
+  updatedAt: "2026-10-21T09:32:18.196Z",
 } as const satisfies Module

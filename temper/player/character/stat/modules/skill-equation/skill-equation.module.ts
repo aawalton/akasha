@@ -192,9 +192,17 @@ export const skillEquation = {
         "Rank IV then grows that heal 3.3%, rounded down, before the healing done grows it.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A heal tagged with a rank is worked at the rank its reading gives the skill.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement:
-        "A reading names no skill's rank, so an equation states rank IV where the game's numbers show it.",
+        "A reading kept before ranks were read takes the rank its equation is tagged with.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "Only rank IV's growth has been read, so a heal at another rank gives no number.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -227,5 +235,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T09:14:07.551Z",
+  updatedAt: "2026-10-21T09:32:18.196Z",
 } as const satisfies Module

@@ -31,6 +31,10 @@ export const temperTooltipCompare = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A ranked equation is worked at the rank the reading gives the skill.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A heal reads the Healing Done Temper works out for that reading's build and buffs.",
     },
@@ -74,5 +78,5 @@ export const temperTooltipCompare = {
     { argument: "argument/json" },
   ],
   createdAt: "2026-10-21T01:29:57.666Z",
-  updatedAt: "2026-10-21T06:14:58.367Z",
+  updatedAt: "2026-10-21T09:32:18.196Z",
 } as const satisfies Command

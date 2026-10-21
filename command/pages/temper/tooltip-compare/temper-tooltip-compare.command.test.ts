@@ -106,6 +106,18 @@ test("an exact number is marked, and each line says the gap and whether it scale
   expect(unknown).toEqual(["  Nothing Known (1): Temper holds no equations for it"])
 })
 
+test("a ranked heal is worked at the rank the reading gives its skill, or else its tag's", () => {
+  const equations = new Map([[BRAWLER, ["<<1>> = 0.2 Health (Heal, rank IV)"]]])
+  const healed = (rank?: number) => {
+    const one = { ...skill(BRAWLER, "Brawler", "heals |cffffff1|r"), rank }
+    const reading = { ...READING, stats: { "health-maximum": 40000 }, skills: [one] }
+    const [compared] = comparedSkillsOf(reading, equations, new Set())
+    return compared?.pairing?.paired === true ? compared.pairing.numbers[0]?.temper : undefined
+  }
+
+  expect([healed(), healed(4), healed(3)]).toEqual([8264, 8264, null])
+})
+
 test("a character naming no page is refused", async () => {
   const said = await temperTooltipCompare(["nobody-at-all"], GIVEN)
 

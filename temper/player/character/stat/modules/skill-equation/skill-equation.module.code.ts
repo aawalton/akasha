@@ -125,7 +125,8 @@ export function tooltipPairingOf(
   stats: EquationStats,
   passives: ReadonlySet<string>,
   active: ActiveHeld = NOTHING_ACTIVE,
-  durationMs?: number
+  durationMs?: number,
+  rank?: number
 ): TooltipPairing {
   const shown = shownNumbersOf(description)
   const numbered = equations.filter((line) => NAMES_A_NUMBER.test(line))
@@ -137,7 +138,7 @@ export function tooltipPairingOf(
       equation: line,
       scaled: equation?.scaled ?? false,
       game: shown[at] ?? 0,
-      temper: tooltipValueOf(equation, stats, passives, active, durationMs) ?? null,
+      temper: tooltipValueOf(equation, stats, passives, active, durationMs, rank) ?? null,
     }
   })
   return { paired: true, numbers }
@@ -346,7 +347,8 @@ function tooltipValueOf(
   stats: EquationStats,
   passives: ReadonlySet<string>,
   active: ActiveHeld,
-  durationMs: number | undefined
+  durationMs: number | undefined,
+  rank: number | undefined
 ): number | undefined {
   if (equation === undefined) return undefined
   const maxPower = damagePowerOf(equation, stats.maxPower, passives, active)
@@ -359,10 +361,12 @@ function tooltipValueOf(
   }
   if (equation.tags.includes(SHIELD)) return shieldOf(equation, worked, stats, passives, active)
   const healing = equation.tags.includes(HEAL)
-  const rank = rankOf(equation)
-  if (healing && rank !== undefined) {
+  const ranked = rankedOf(equation, rank)
+  if (healing && ranked !== undefined) {
+    const growth = RANK_GROWTH[ranked]
+    if (growth === undefined) return undefined
     const grown = bonusOf(equation, passives, active) * stackedOf(equation, active)
-    const healed = rankedHealOf(equation, { ...stats, maxPower }, grown, rank)
+    const healed = rankedHealOf(equation, { ...stats, maxPower }, grown, growth)
     return healed * ticksOf(equation, durationMs)
   }
   const base = healing ? healOf(equation, { ...stats, maxPower }) : worked
@@ -375,11 +379,13 @@ function tooltipValueOf(
 
 const FLOORED: readonly (keyof EquationStats)[] = ["maxStat", "maxPower"]
 
-const RANKS: Readonly<Record<string, number>> = { "rank IV": 1.033 }
+const RANK_TAGS: Readonly<Record<string, number>> = { "rank IV": 4 }
 
-function rankOf(equation: Equation): number | undefined {
-  const tag = equation.tags.find((one) => RANKS[one] !== undefined)
-  return tag === undefined ? undefined : RANKS[tag]
+const RANK_GROWTH: Readonly<Record<number, number>> = { 4: 1.033 }
+
+function rankedOf(equation: Equation, rank: number | undefined): number | undefined {
+  const tag = equation.tags.find((one) => RANK_TAGS[one] !== undefined)
+  return tag === undefined ? undefined : (rank ?? RANK_TAGS[tag])
 }
 
 function rankedHealOf(
