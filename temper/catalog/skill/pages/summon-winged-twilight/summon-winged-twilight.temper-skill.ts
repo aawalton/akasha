@@ -20,10 +20,10 @@ export const summonWingedTwilight = {
   skillType: "temper-skill-type/active",
   hashPlace: 1300,
   createdAt: "2026-05-28T16:03:33.998Z",
-  updatedAt: "2026-10-21T04:15:04.901Z",
+  updatedAt: "2026-10-21T04:59:56.554Z",
   equations: [
-    "<<1>> = 0.015 MaxStat + 0.1575 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Shock, SingleTarget, Direct, Melee, R2 = 1)",
-    "<<2>> = 0.015 MaxStat + 0.1575 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Shock, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<1>> = 0.0154584 MaxStat + 0.1623132 MaxPower (Ultimate, RankMod(1), Dmg, Shock, SingleTarget, Direct, Melee)",
+    "<<2>> = 0.0154584 MaxStat + 0.1623132 MaxPower (Ultimate, RankMod(1), Dmg, Shock, SingleTarget, Direct, Melee)",
     "<<3>> = 4590 (Constant)",
     "<<4>> = 0.1549125 MaxStat + 1.6265813 MaxPower (Ultimate, RankMod(1), Heal, SingleTarget, Direct)",
     "<<5>> = 0.077410775 MaxStat + 0.81281314 MaxPower (Ultimate, Heal, SingleTarget, Direct)",
