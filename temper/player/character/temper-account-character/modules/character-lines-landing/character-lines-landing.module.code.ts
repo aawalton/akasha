@@ -24,7 +24,7 @@ const CHARACTER_PAGE_TYPE_SLUG = "temper-account-character"
 
 const MARKS = /\p{M}/gu
 
-export function characterSlugOf(name: string): string {
+function characterSlugOf(name: string): string {
   return slugOf(name.normalize("NFD").replace(MARKS, ""))
 }
 
@@ -60,13 +60,13 @@ export interface LinesLanded {
   readonly unplaced: readonly string[]
 }
 
-export type LinesWith<T> = (
+type LinesWith<T> = (
   held: string | null,
   items: readonly T[],
   besideHeld: string | null
 ) => string | null
 
-export type LinesKind<T> = {
+type LinesKind<T> = {
   readonly property: string
   readonly what: string
   readonly left: string
