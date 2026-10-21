@@ -210,6 +210,11 @@ export const noUnusedExports = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A table a page type's `hashFrozenIn` names is reached in the file that value names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The `work` a computed property's code exports is reached by the engine working it.",
     },
     {
@@ -334,5 +339,5 @@ export const noUnusedExports = {
   check: { maxCpuSeconds: 30 },
   audit: { maxCpuSeconds: 120 },
   createdAt: "2026-09-12T11:53:26.382Z",
-  updatedAt: "2026-09-27T20:15:30.000Z",
+  updatedAt: "2026-10-21T21:01:03.004Z",
 } as const satisfies CheckCode
