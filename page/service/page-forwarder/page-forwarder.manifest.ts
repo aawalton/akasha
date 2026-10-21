@@ -9,22 +9,26 @@ export const pageForwarder = {
   code: "ts",
   minCpuMillicores: 10,
   minMemoryMb: 32,
-  killMemoryMb: 64,
+  killMemoryMb: 256,
   generatedDirectory: true,
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The forwarder carries at most 24 connections at once.",
+      statement: "The forwarder asks socat to carry at most 24 connections at once.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A connection past those waits its turn rather than being carried.",
+      decisionKind: "decision-kind/constraint",
+      statement: "Under a burst socat carries hundreds of connections at once all the same.",
     },
     {
       decisionKind: "decision-kind/constraint",
       statement: "Each connection carried is a process, and too many end the forwarder for all.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The forwarder's memory ceiling holds a burst of a thousand connections.",
+    },
   ],
   createdAt: "2026-09-05T21:47:46.216Z",
-  updatedAt: "2026-10-20T13:51:49.756Z",
+  updatedAt: "2026-10-21T14:38:56.908Z",
 } as const satisfies Manifest
