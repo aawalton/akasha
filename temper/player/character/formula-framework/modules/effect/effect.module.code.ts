@@ -43,7 +43,7 @@ export type MetricEffect =
     })
   | (MetricEffectBase & { effectType: "conditional-chance"; effectValue: ConditionalChance })
 
-export type MetricEffectType = MetricEffect["effectType"]
+type MetricEffectType = MetricEffect["effectType"]
 
 const METRIC_EFFECT_TYPES: { readonly [Type in MetricEffectType]: true } = {
   integer: true,
