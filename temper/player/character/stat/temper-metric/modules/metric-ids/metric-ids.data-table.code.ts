@@ -36,6 +36,7 @@ export type MetricId =
   | "damage-done-bow"
   | "damage-done-channeled"
   | "damage-done-direct"
+  | "damage-done-direct-monsters"
   | "damage-done-disease"
   | "damage-done-disease-without-base"
   | "damage-done-dot"

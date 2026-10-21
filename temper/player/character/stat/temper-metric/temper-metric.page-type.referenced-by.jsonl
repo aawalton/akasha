@@ -84,6 +84,7 @@
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/damage-done-bleed/damage-done-bleed.temper-metric.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/damage-done-bow/damage-done-bow.temper-metric.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/damage-done-channeled/damage-done-channeled.temper-metric.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/damage-done-direct-monsters/damage-done-direct-monsters.temper-metric.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/damage-done-direct/damage-done-direct.temper-metric.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/damage-done-disease-without-base/damage-done-disease-without-base.temper-metric.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/damage-done-disease/damage-done-disease.temper-metric.ts","typed":true,"deferred":false}
