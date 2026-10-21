@@ -1,4 +1,10 @@
-export const CARRIED: readonly string[] = ["PATH", "HOME", "TMPDIR", "LANG"]
+export const CARRIED: readonly string[] = [
+  "PATH",
+  "HOME",
+  "TMPDIR",
+  "LANG",
+  "KUBERNETES_SERVICE_HOST",
+]
 
 export function carriedFrom(
   env: Readonly<Record<string, string | undefined>>
