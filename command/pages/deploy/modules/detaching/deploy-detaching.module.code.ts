@@ -14,7 +14,7 @@ export const DETACHED = "AKASHA_DEPLOY_DETACHED"
 
 const ROOT_NAME = "AKASHA_ROOT"
 
-export const UNIT_LEAD = "akasha-deploying-"
+const UNIT_LEAD = "akasha-deploying-"
 
 const UNIT_END = ".service"
 
@@ -58,18 +58,18 @@ const ENDING_SIGNALS: readonly NodeJS.Signals[] = [
   "SIGSTKFLT",
 ]
 
-export type Place = {
+type Place = {
   readonly unit: string
   readonly log: string
   readonly ended: string
   readonly writer: string
 }
 
-export type Env = Readonly<Record<string, string | undefined>>
+type Env = Readonly<Record<string, string | undefined>>
 
-export type Started = { readonly code: number; readonly out: string }
+type Started = { readonly code: number; readonly out: string }
 
-export type Starting = (words: readonly string[]) => Started
+type Starting = (words: readonly string[]) => Started
 
 export type Following = {
   readonly write: (bytes: Uint8Array) => void
@@ -85,7 +85,7 @@ export function unitFor(slug: string, now: number): string {
   return `${UNIT_LEAD}${slug}-${String(now)}${UNIT_END}`
 }
 
-export function stateHome(env: Env = process.env): string {
+function stateHome(env: Env = process.env): string {
   return env.XDG_STATE_HOME ?? join(homedir(), ".local", "state")
 }
 
@@ -142,19 +142,19 @@ export function startArgv(
   ]
 }
 
-export function saidOfStart(place: Place): string {
+function saidOfStart(place: Place): string {
   return `detached\t${place.unit}\t${place.log}`
 }
 
-export function saidOfGoingOn(place: Place): string {
+function saidOfGoingOn(place: Place): string {
   return `the deploy goes on as \`${place.unit}\` after this call ended, and its log is at ${place.log}`
 }
 
-export function saidOfUnstarted(unit: string, out: string): string {
+function saidOfUnstarted(unit: string, out: string): string {
   return `\`${unit}\` would not start, so nothing was put up — ${out}`
 }
 
-export function saidOfNoEnding(place: Place): string {
+function saidOfNoEnding(place: Place): string {
   return `\`${place.unit}\` is gone and wrote no ending, so how the deploy ended is unknown; its log is at ${place.log}`
 }
 
@@ -197,7 +197,7 @@ export async function followed(place: Place, following: Following): Promise<Answ
   }
 }
 
-export function unitAlive(unit: string): boolean {
+function unitAlive(unit: string): boolean {
   const done = ran(["systemctl", "--user", "show", "--property=ActiveState", "--value", unit])
   return !GONE.has(done.out.trim())
 }
