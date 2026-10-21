@@ -17,6 +17,7 @@ import {
   textsAt,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { textProperty } from "akasha/page/text-property/text-property.page-type.ts"
+import { hashFrozenIn } from "akasha/page/type/properties/hash-frozen-in.text-property.ts"
 import { loadedExport } from "akasha/page/type/properties/loaded-export.text-property.ts"
 
 export type Body = {
@@ -105,9 +106,28 @@ function fixedInto(index: Answering, found: Map<string, ReadonlySet<string>>): u
   return undefined
 }
 
+const HASH_FROZEN_BY = `${textProperty.slug}/${hashFrozenIn.slug}` as const
+
+const HASH_FROZEN = "hashFrozenIn"
+
+function frozenInto(index: Answering, found: Map<string, ReadonlySet<string>>): undefined {
+  const held = index.carryingOf(HASH_FROZEN_BY)
+  if ("refused" in held) return undefined
+  for (const one of held.carrying) {
+    const value = index.pageByPath(one.path)
+    for (const said of (value === null ? null : textsAt(value, HASH_FROZEN)) ?? []) {
+      const [at, name, ...rest] = said.trim().split(" ")
+      if (at === undefined || name === undefined || rest.length > 0) continue
+      found.set(at, new Set([...(found.get(at) ?? []), name]))
+    }
+  }
+  return undefined
+}
+
 export function loadedExportsSparing(index: Answering): ReadonlyMap<string, ReadonlySet<string>> {
   const found = new Map<string, ReadonlySet<string>>()
   fixedInto(index, found)
+  frozenInto(index, found)
   const held = index.carryingOf(LOADED_EXPORT_BY)
   if ("refused" in held) return found
   for (const one of held.carrying) {
