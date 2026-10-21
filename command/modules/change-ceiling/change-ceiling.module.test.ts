@@ -61,9 +61,15 @@ test("a change inside its seconds answers what that change answered", async () =
   expect(said).toEqual(HELD)
 })
 
+const MICROS = 1000
+
 function spinning(ms: number): undefined {
-  const until = Date.now() + ms
-  while (Date.now() < until) {}
+  const from = process.cpuUsage()
+  const spent = (): number => {
+    const used = process.cpuUsage(from)
+    return used.user + used.system
+  }
+  while (spent() < ms * MICROS) {}
 }
 
 test("a change past its seconds runs to its end and then answers no edit", async () => {
