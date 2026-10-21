@@ -12,27 +12,28 @@ export const nimueItemLevelCases = {
       statement:
         "Reinforced, Nirnhoned, Invigorating and Well-fitted armor are pinned above normal.",
       workingMemory:
-        "Erin's CP160 shield, one quality upgrade per reading. A trait is the same on every armor slot.",
+        "Erin's CP160 shield, one quality upgrade per reading. A trait is the same on every armor slot. Each trait is pinned at normal, and no landed reading wears one above normal.",
     },
     {
-      statement: "Impenetrable is pinned at fine, and Sturdy at each quality.",
+      statement: "Sturdy is pinned above normal.",
       workingMemory:
-        "Impenetrable fine reads 1444 on reading 01a15a78-294a, which Temper reproduces and no case pins. Sturdy moves only block cost, which Temper has no formula for.",
+        "Sturdy moves block cost, and erin-solstice-normal-sturdy-shield pins it at normal. No landed reading wears Sturdy above normal.",
     },
     {
       statement:
         "Nirnhoned weapons are pinned above normal, and Infused and Charged at each quality.",
       workingMemory:
-        "One weapon, one quality upgrade per reading. The normal Infused bow case carries an absorb glyph, which moves no sheet stat, so Infused needs a weapon with a sheet-stat glyph.",
+        "One weapon, one quality upgrade per reading. Nirnhoned is pinned on the normal bow. The normal Infused bow carries an absorb glyph, which moves no sheet stat, so Infused needs a weapon with a sheet-stat glyph. Charged moves no sheet stat.",
     },
     {
       statement: "Protective is pinned at legendary, and Infused jewelry above normal.",
       workingMemory:
-        "One ring, one quality upgrade per reading. Legendary Protective is its tooltip's 1190.",
+        "One ring, one quality upgrade per reading. Protective is pinned normal to epic, and Infused at normal. Legendary Protective is its tooltip's 1190.",
     },
     {
       statement: "Swift and Bloodthirsty jewelry are pinned at each quality.",
-      workingMemory: "Swift moves only movement speed, which Temper does not estimate.",
+      workingMemory:
+        "Swift moves sprint speed, which Temper estimates, but one normal Swift ring leaves the shown 142 unmoved. Bloodthirsty moves no sheet stat.",
     },
   ],
   constraints: [
@@ -45,5 +46,5 @@ export const nimueItemLevelCases = {
     "A quality never captured at a level is inferred from the captured qualities' sequence, where it matches the legendary pieces captured.",
   ],
   createdAt: "2026-10-20T15:21:57.490Z",
-  updatedAt: "2026-10-20T20:45:01.665Z",
+  updatedAt: "2026-10-21T15:36:25.900Z",
 } as const satisfies Initiative
