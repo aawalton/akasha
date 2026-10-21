@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import {
   namedWithin,
   refusalsOver,
+  sparedIn,
 } from "akasha/check/code/pages/no-unused-exports/no-unused-exports.check-code.decision.code.ts"
 import {
   AT,
@@ -455,6 +456,22 @@ test("the default a tool's config exports is spared and another beside it is jud
     expect(said).toHaveLength(1)
     expect(said[0]?.reason).toContain("`spare`")
   }
+})
+
+test("a table a page type's hashFrozenIn names is spared in the file that names it", () => {
+  const at = "akasha/held.data-table.code.ts"
+  const frozen = new Map([[at, new Set(["FROZEN"])]])
+  const spared = sparedIn(
+    at,
+    new Set(),
+    new Map(),
+    new Set(),
+    () => new Set(),
+    frozen,
+    () => null
+  )
+
+  expect(spared.has("FROZEN")).toBe(true)
 })
 
 test("a types file beside a page is judged by nothing", () => {

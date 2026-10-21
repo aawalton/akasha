@@ -303,6 +303,20 @@ export function sparedIn(
   loadedExports: ReadonlyMap<string, ReadonlySet<string>>,
   bodyOf: Bodied
 ): ReadonlySet<string> {
+  const spared = sparedBy(path, pageTypes, groups, loaders, reached, loadedExports, bodyOf)
+  const frozen = loadedExports.get(path)
+  return frozen === undefined ? spared : new Set([...spared, ...frozen])
+}
+
+function sparedBy(
+  path: string,
+  pageTypes: ReadonlySet<string>,
+  groups: ReadonlyMap<string, string>,
+  loaders: ReadonlySet<string>,
+  reached: Reaching,
+  loadedExports: ReadonlyMap<string, ReadonlySet<string>>,
+  bodyOf: Bodied
+): ReadonlySet<string> {
   const said = partedIn(path)
   const fixed = fixedFor(path, said)
   if (fixed !== null) return fixed
