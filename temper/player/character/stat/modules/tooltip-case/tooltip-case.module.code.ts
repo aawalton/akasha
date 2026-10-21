@@ -26,6 +26,7 @@ export const tooltipCaseShape = z.strictObject({
   esoVersion: z.string(),
   stats: numbersByName,
   passives: z.array(z.string()).optional(),
+  stars: z.array(z.string()).optional(),
   skills: z.array(caseSkill),
   pinned: numbersByName,
   gaps: numbersByName,
@@ -52,12 +53,25 @@ export function equationsIn(root: string): Equations {
   return found
 }
 
-export function passivesOfBuild(hash: string): readonly string[] | undefined {
+export type BuildHeld = { readonly passives: string[]; readonly stars: string[] }
+
+export function heldOfBuild(hash: string): BuildHeld | undefined {
+  let build: ReturnType<typeof decodeBuild> | undefined
   try {
-    return decodeBuild(buildHash(hash))?.passives
+    build = decodeBuild(buildHash(hash))
   } catch {
     return undefined
   }
+  if (build === null || build === undefined) return undefined
+  const { warfare, fitness, craft } = build.championPoints
+  return {
+    passives: [...build.passives],
+    stars: [...warfare.slotted, ...fitness.slotted, ...craft.slotted],
+  }
+}
+
+export function heldSetOf(read: Pick<TooltipCaseRead, "passives" | "stars">): ReadonlySet<string> {
+  return new Set([...(read.passives ?? []), ...(read.stars ?? [])])
 }
 
 export function formulaOf(abilityId: number, placeholder: number): string {
@@ -66,12 +80,12 @@ export function formulaOf(abilityId: number, placeholder: number): string {
 
 export function workedOf(read: TooltipCaseRead, equations: Equations): ReadonlyMap<string, Worked> {
   const stats = equationStatsOf(read.stats)
-  const passives = new Set(read.passives ?? [])
+  const built = heldSetOf(read)
   const found = new Map<string, Worked>()
   for (const skill of read.skills) {
     const held = equations.get(skill.abilityId)
     if (held === undefined) continue
-    const pairing = tooltipPairingOf(skill.description, held, stats, passives)
+    const pairing = tooltipPairingOf(skill.description, held, stats, built)
     if (!pairing.paired) continue
     for (const one of pairing.numbers) {
       const formula = formulaOf(skill.abilityId, one.placeholder)
@@ -105,6 +119,7 @@ export function pinnedTooltipCaseOf(read: TooltipCaseRead, equations: Equations)
     esoVersion: read.esoVersion,
     stats: inNameOrder(read.stats),
     ...(read.passives === undefined ? {} : { passives: [...read.passives].sort() }),
+    ...(read.stars === undefined ? {} : { stars: [...read.stars].sort() }),
     skills: read.skills.map(({ abilityId, name, description }) => ({
       abilityId,
       name,

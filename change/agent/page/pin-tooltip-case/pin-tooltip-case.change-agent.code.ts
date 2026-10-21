@@ -18,9 +18,10 @@ import {
   stampOf,
 } from "akasha/temper/player/character/stat/modules/reading-line-picking/reading-line-picking.module.code.ts"
 import {
+  type BuildHeld,
   type Equations,
   equationsIn,
-  passivesOfBuild,
+  heldOfBuild,
   pinnedTooltipCaseOf,
   tooltipCaseText,
 } from "akasha/temper/player/character/stat/modules/tooltip-case/tooltip-case.module.code.ts"
@@ -61,13 +62,13 @@ function pageFor(slug: string, title: string, typesAt: string): string {
   ].join("\n")
 }
 
-type PassivesOf = (hash: string) => readonly string[] | undefined
+type HeldOf = (hash: string) => BuildHeld | undefined
 
 export function pinTooltipCaseCommand(
   world: World,
   given: Asked,
   equations: Equations,
-  passivesOf: PassivesOf = () => undefined
+  heldOf: HeldOf = () => undefined
 ): Answer {
   const character = given[CHARACTER]
   if (character === undefined) return refusing(missing(CHARACTER))
@@ -123,7 +124,7 @@ export function pinTooltipCaseCommand(
   const tooltipsAt = besideAt(pageAt, verifiedTooltips.propertySlug, "json")
   const typesAt = besideAt(typeAt, "types", "ts")
   if (tooltipsAt === null || typesAt === null) return refusing(`\`${slug}\` names no page path`)
-  const passives = passivesOf(line.buildHash)
+  const held = heldOf(line.buildHash)
   const tooltipCase = pinnedTooltipCaseOf(
     {
       character,
@@ -131,7 +132,7 @@ export function pinTooltipCaseCommand(
       capturedAt: reading.capturedAt,
       esoVersion,
       stats: reading.stats,
-      ...(passives === undefined ? {} : { passives: [...passives] }),
+      ...(held === undefined ? {} : { passives: held.passives, stars: held.stars }),
       skills: [...skills]
         .sort((one, two) => one.slot - two.slot)
         .map(({ abilityId, name, description }) => ({ abilityId, name, description })),
@@ -149,5 +150,5 @@ export const takes: readonly string[] = [CHARACTER, READING, BAR, SLUG]
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   await Promise.all([loadSkillCatalog(), loadSetCatalog()])
-  return pinTooltipCaseCommand(world, given, equationsIn(world.root), passivesOfBuild)
+  return pinTooltipCaseCommand(world, given, equationsIn(world.root), heldOfBuild)
 }

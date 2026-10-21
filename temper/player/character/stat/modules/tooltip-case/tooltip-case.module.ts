@@ -57,11 +57,19 @@ export const tooltipCase = {
       statement: "A case keeps the passives its build held, in name order.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A case keeps the champion stars its build had slotted, in name order.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A case's formulas read its passives and its slotted stars as one set held.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement:
         "A case pinned before cases kept passives keeps none, and is worked out holding none.",
     },
   ],
   createdAt: "2026-10-21T01:45:54.419Z",
-  updatedAt: "2026-10-21T02:26:45.217Z",
+  updatedAt: "2026-10-21T02:47:13.174Z",
 } as const satisfies Module

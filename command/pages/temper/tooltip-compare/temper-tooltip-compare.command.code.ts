@@ -36,7 +36,8 @@ import {
 import {
   type Equations,
   equationsIn,
-  passivesOfBuild,
+  heldOfBuild,
+  heldSetOf,
 } from "akasha/temper/player/character/stat/modules/tooltip-case/tooltip-case.module.code.ts"
 import { readings } from "akasha/temper/player/character/temper-account-character/properties/readings.file-property.ts"
 import { temperAccountCharacter } from "akasha/temper/player/character/temper-account-character/temper-account-character.page-type.ts"
@@ -62,17 +63,16 @@ export type Tally = {
 export function comparedSkillsOf(
   reading: ReadingLine["reading"],
   equations: Equations,
-  passives: ReadonlySet<string>
+  held: ReadonlySet<string>
 ): readonly ComparedSkill[] {
   const stats = equationStatsOf(reading.stats)
   return (reading.skills ?? []).map((skill) => {
-    const held = equations.get(skill.abilityId)
+    const lines = equations.get(skill.abilityId)
     return {
       slot: skill.slot,
       abilityId: skill.abilityId,
       name: skill.name,
-      pairing:
-        held === undefined ? null : tooltipPairingOf(skill.description, held, stats, passives),
+      pairing: lines === undefined ? null : tooltipPairingOf(skill.description, lines, stats, held),
     }
   })
 }
@@ -160,14 +160,14 @@ export async function temperTooltipCompare(argv: readonly string[], given: Given
   await Promise.all([loadSkillCatalog(), loadSetCatalog()])
   const equations = equationsIn(given.root)
   const byBuild = new Map<string, ReadonlySet<string>>()
-  const passivesOf = (hash: string): ReadonlySet<string> => {
-    const held = byBuild.get(hash) ?? new Set(passivesOfBuild(hash) ?? [])
+  const heldOf = (hash: string): ReadonlySet<string> => {
+    const held = byBuild.get(hash) ?? heldSetOf(heldOfBuild(hash) ?? {})
     byBuild.set(hash, held)
     return held
   }
   const compared = chosen.chosen.map((line) => ({
     line,
-    skills: comparedSkillsOf(line.reading, equations, passivesOf(line.buildHash)),
+    skills: comparedSkillsOf(line.reading, equations, heldOf(line.buildHash)),
   }))
   if (read.taken.json) {
     return asJson({

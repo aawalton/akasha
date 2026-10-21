@@ -142,16 +142,20 @@ test("a case keeps each slotted skill's tooltip in slot order, and pins what Tem
   expect(body.gaps).toEqual({ "38754 <<2>>": 7 })
 })
 
-test("a case keeps the passives its build holds, in name order", () => {
-  const passivesOf = (hash: string) => (hash === "ATQI" ? ["dark-veil", "agility"] : undefined)
+test("a case keeps the passives and slotted stars its build holds, in name order", () => {
+  const heldOf = (hash: string) =>
+    hash === "ATQI"
+      ? { passives: ["dark-veil", "agility"], stars: ["bastion", "biting-aura"] }
+      : undefined
   const said = pinTooltipCaseCommand(
     worldOf([]),
     { character: "erin", reading: "01a1aaaa" },
     EQUATIONS,
-    passivesOf
+    heldOf
   )
 
   expect(tooltipsOf(said).passives).toEqual(["agility", "dark-veil"])
+  expect(tooltipsOf(said).stars).toEqual(["bastion", "biting-aura"])
 })
 
 test("a reading keeping no slotted skill is refused", () => {
