@@ -43,7 +43,23 @@ export const skillEquation = {
       statement:
         "A constant tagged `+N seconds with <passive>` grows N seconds where the build holds that passive.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A damage shield is rounded down, after the bonuses the build holds multiply it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Bastion slotted makes a damage shield 15% stronger.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Bonuses the build holds add to each other before they multiply the number.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shield tagged `at most half Health` stops at half the build's Max Health.",
+    },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T02:26:45.217Z",
+  updatedAt: "2026-10-21T02:50:41.512Z",
 } as const satisfies Module

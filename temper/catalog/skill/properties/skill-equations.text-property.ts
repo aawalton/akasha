@@ -42,10 +42,15 @@ export const skillEquations = {
       statement: "UESP's equations are fit for game update 51.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A coefficient refit to the game's tooltip numbers drops UESP's ratio and R2 tags.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "UESP's equations are known to be wrong in places.",
     },
   ],
   createdAt: "2026-10-15T15:41:52.487Z",
-  updatedAt: "2026-10-21T02:29:23.868Z",
+  updatedAt: "2026-10-21T02:50:41.512Z",
 } as const satisfies TextProperty

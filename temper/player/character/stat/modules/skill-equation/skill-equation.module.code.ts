@@ -127,6 +127,35 @@ function longerBy(equation: Equation, passives: ReadonlySet<string>): number {
   }, 0)
 }
 
+const SHIELD = "DmgShield"
+
+const HALF_HEALTH = "at most half Health"
+
+const BONUSES: readonly {
+  readonly held: string
+  readonly tag: string
+  readonly percent: number
+}[] = [{ held: "bastion", tag: SHIELD, percent: 15 }]
+
+function bonusOf(equation: Equation, held: ReadonlySet<string>): number {
+  const percent = BONUSES.filter((one) => held.has(one.held) && equation.tags.includes(one.tag))
+    .map((one) => one.percent)
+    .reduce((sum, one) => sum + one, 0)
+  return 1 + percent / 100
+}
+
+function shieldOf(
+  equation: Equation,
+  worked: number,
+  stats: EquationStats,
+  held: ReadonlySet<string>
+): number {
+  const shield = Math.floor(bonusOf(equation, held) * worked)
+  return equation.tags.includes(HALF_HEALTH)
+    ? Math.min(shield, Math.floor(stats.health / 2))
+    : shield
+}
+
 function tooltipValueOf(
   equation: Equation | undefined,
   stats: EquationStats,
@@ -134,7 +163,9 @@ function tooltipValueOf(
 ): number | undefined {
   const worked = equationValue(equation, stats)
   if (worked === undefined || equation === undefined) return undefined
-  return equation.scaled ? Math.round(worked) : worked + longerBy(equation, passives)
+  if (!equation.scaled) return worked + longerBy(equation, passives)
+  if (equation.tags.includes(SHIELD)) return shieldOf(equation, worked, stats, passives)
+  return Math.round(worked)
 }
 
 export function equationValue(
