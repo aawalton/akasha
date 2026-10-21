@@ -81,6 +81,11 @@ export const skillEquation = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Ancient Knowledge with a lightning staff on the bar makes direct damage 12% stronger.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A caster inside its own Standard of Might deals damage 15% stronger.",
     },
     {
@@ -154,5 +159,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T05:02:21.889Z",
+  updatedAt: "2026-10-21T05:05:31.143Z",
 } as const satisfies Module

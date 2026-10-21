@@ -163,15 +163,16 @@ const TICK = /^(\d+(?:\.\d+)?)s tick$/
 const HALF_HEALTH = "at most half Health"
 
 const BONUSES: readonly {
-  readonly held: string
+  readonly held: readonly string[]
   readonly tags: readonly string[]
   readonly percent: number
 }[] = [
-  { held: "bastion", tags: [SHIELD], percent: 15 },
-  { held: "master-at-arms", tags: [DAMAGE, DIRECT], percent: 6 },
-  { held: "thaumaturge", tags: [DAMAGE, OVER_TIME], percent: 6 },
-  { held: "biting-aura", tags: [DAMAGE, "AOE"], percent: 6 },
-  { held: "deadly-aim", tags: [DAMAGE, "SingleTarget"], percent: 6 },
+  { held: ["bastion"], tags: [SHIELD], percent: 15 },
+  { held: ["master-at-arms"], tags: [DAMAGE, DIRECT], percent: 6 },
+  { held: ["thaumaturge"], tags: [DAMAGE, OVER_TIME], percent: 6 },
+  { held: ["biting-aura"], tags: [DAMAGE, "AOE"], percent: 6 },
+  { held: ["deadly-aim"], tags: [DAMAGE, "SingleTarget"], percent: 6 },
+  { held: ["ancient-knowledge", "lightning-staff"], tags: [DAMAGE, DIRECT], percent: 12 },
 ]
 
 const DAMAGE_BUFFS: Readonly<Record<string, number>> = {
@@ -202,7 +203,9 @@ function bonusOf(
     ? [...active.buffs].reduce((sum, one) => sum + (DAMAGE_BUFFS[one] ?? 0), 0)
     : 0
   const percent = BONUSES.filter(
-    (one) => held.has(one.held) && one.tags.every((tag) => equation.tags.includes(tag))
+    (one) =>
+      one.held.every((name) => held.has(name)) &&
+      one.tags.every((tag) => equation.tags.includes(tag))
   )
     .map((one) => one.percent)
     .reduce((sum, one) => sum + one, buffed)

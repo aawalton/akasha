@@ -174,6 +174,21 @@ test("Minor Berserk on the caster makes damage 5% stronger, added to the stars s
   expect(worked(heal, new Set())).toBe(Math.round(raw))
 })
 
+test("Ancient Knowledge makes direct damage 12% stronger only with a lightning staff on the bar", () => {
+  const lash = "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Dmg, Shock, SingleTarget, Direct)"
+  const embers = "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Dmg, Shock, SingleTarget, DOT)"
+  const worked = (line: string, held: ReadonlySet<string>) => {
+    const paired = tooltipPairingOf("dealing |cffffff1|r", [line], STATS, held)
+    return paired.paired ? paired.numbers[0]?.temper : undefined
+  }
+  const raw = 0.1 * 20000 + 1.05 * 5000
+  const staff = new Set(["ancient-knowledge", "lightning-staff", "master-at-arms"])
+
+  expect(worked(lash, staff)).toBe(Math.floor(1.18 * raw))
+  expect(worked(lash, new Set(["ancient-knowledge", "dagger"]))).toBe(Math.floor(raw))
+  expect(worked(embers, staff)).toBe(Math.floor(raw))
+})
+
 test("Standard of Might on the caster makes damage 15% stronger, added to the stars slotted", () => {
   const lash = "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Dmg, Flame, AOE, Direct)"
   const standard = { ...NOTHING_ACTIVE, buffs: new Set(["Standard of Might"]) }
