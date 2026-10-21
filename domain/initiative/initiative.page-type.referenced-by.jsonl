@@ -10,7 +10,6 @@
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/nimue-advanced-sheet.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/nimue-correct-formulas.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/nimue-item-level-cases.initiative.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/nimue-stat-gaps.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/nimue-tooltip-formulas.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/olwen-design-system.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/ryn-standard-agent-english.initiative.ts","typed":true,"deferred":false}
