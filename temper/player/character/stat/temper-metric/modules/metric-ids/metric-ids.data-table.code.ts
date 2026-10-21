@@ -78,6 +78,7 @@ export type MetricId =
   | "defense-bleed-mitigation"
   | "defense-crit-dmg"
   | "defense-disease-mitigation"
+  | "defense-earth-mitigation"
   | "defense-flame-mitigation"
   | "defense-physical-aoe-mitigation"
   | "defense-physical-dd-mitigation"
