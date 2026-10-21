@@ -34,7 +34,8 @@ export const pinTooltipCase = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The case keeps the line's stats and each slotted skill's tooltip, in slot order.",
+      statement:
+        "The case keeps the line's stats and each slotted skill's tooltip and duration, in slot order.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -74,5 +75,5 @@ export const pinTooltipCase = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-10-21T01:45:54.419Z",
-  updatedAt: "2026-10-21T03:34:20.099Z",
+  updatedAt: "2026-10-21T04:00:46.068Z",
 } as const satisfies ChangeAgent

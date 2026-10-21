@@ -135,7 +135,12 @@ export function pinTooltipCaseCommand(
       ...heldOfCase(heldOf(line.buildHash), reading),
       skills: [...skills]
         .sort((one, two) => one.slot - two.slot)
-        .map(({ abilityId, name, description }) => ({ abilityId, name, description })),
+        .map(({ abilityId, name, description, durationMs }) => ({
+          abilityId,
+          name,
+          description,
+          durationMs,
+        })),
     },
     equations
   )

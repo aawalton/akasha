@@ -40,6 +40,18 @@ const LINE = {
     stats: { "stamina-maximum": 20000 },
     activeBuffs: [{ abilityId: 61665, name: "Major Brutality" }],
     championPoints: [{ championSkillId: 22, points: 30, maxPoints: 50 }],
+    skills: [
+      {
+        slot: 3,
+        abilityId: 38754,
+        name: "Brawler",
+        description: "|cffffff5000|r |cffffff7|r",
+        durationMs: 6000,
+        castMs: 0,
+        channeled: false,
+        cooldownMs: 0,
+      },
+    ],
   },
 }
 
@@ -89,7 +101,7 @@ test("a case takes what its build and reading held and keeps its stats, pins and
       buffs: ["Major Brutality"],
       championPoints: { mighty: 30, "war-mage": 0 },
       mediumPieces: 7,
-      skills: READ.skills,
+      skills: READ.skills.map((one) => ({ ...one, durationMs: 6000 })),
       pinned: { "38754 <<1>>": 5000 },
       gaps: { "38754 <<2>>": 7 },
     })

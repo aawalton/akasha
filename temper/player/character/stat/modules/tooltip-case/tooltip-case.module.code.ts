@@ -22,6 +22,7 @@ const caseSkill = z.strictObject({
   abilityId: z.number(),
   name: z.string(),
   description: z.string(),
+  durationMs: z.number().optional(),
 })
 
 export const tooltipCaseShape = z.strictObject({
@@ -200,10 +201,11 @@ export function tooltipCaseOf(
       ? {}
       : { championPoints: inNameOrder(read.championPoints) }),
     ...(read.mediumPieces === undefined ? {} : { mediumPieces: read.mediumPieces }),
-    skills: read.skills.map(({ abilityId, name, description }) => ({
+    skills: read.skills.map(({ abilityId, name, description, durationMs }) => ({
       abilityId,
       name,
       description,
+      ...(durationMs === undefined ? {} : { durationMs }),
     })),
     pinned: inNameOrder(pinned),
     gaps: inNameOrder(gaps),

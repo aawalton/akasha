@@ -66,6 +66,10 @@ export const tooltipCase = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A case keeps each skill's duration as the game gave it, in milliseconds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A case keeps the names of the buffs active when it was read, once each in name order.",
     },
@@ -83,5 +87,5 @@ export const tooltipCase = {
     },
   ],
   createdAt: "2026-10-21T01:45:54.419Z",
-  updatedAt: "2026-10-21T03:53:31.433Z",
+  updatedAt: "2026-10-21T04:00:46.068Z",
 } as const satisfies Module

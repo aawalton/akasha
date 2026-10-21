@@ -52,9 +52,15 @@ function restated(world: World, listed: CaseListed, heldOf: HeldOf): FileChange 
   if (line === undefined) return `\`${slug}\` names a reading \`${read.character}\` does not hold`
   const reading = reportedStatsReadingSchema.safeParse(line.reading)
   if (!reading.success) return `the reading \`${line.id}\` of \`${slug}\` does not read`
-  const contentTo = tooltipCaseText(
-    tooltipCaseOf({ ...read, ...heldOfCase(heldOf(line.buildHash), reading.data) }, pinned, gaps)
+  const durations = new Map(
+    (reading.data.skills ?? []).map((one) => [one.abilityId, one.durationMs] as const)
   )
+  const skills = read.skills.map((one) => ({
+    ...one,
+    durationMs: durations.get(one.abilityId) ?? one.durationMs,
+  }))
+  const held = heldOfCase(heldOf(line.buildHash), reading.data)
+  const contentTo = tooltipCaseText(tooltipCaseOf({ ...read, ...held, skills }, pinned, gaps))
   return { kind: "replace", path: at, contentFrom: text, contentTo }
 }
 

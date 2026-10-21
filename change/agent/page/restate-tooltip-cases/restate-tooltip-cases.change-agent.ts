@@ -31,6 +31,11 @@ export const restateTooltipCases = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A case restated takes each skill's duration from that line's skill of its ability id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A case restated keeps its stats, tooltips, pinned numbers and gaps as they are.",
     },
     {
@@ -51,5 +56,5 @@ export const restateTooltipCases = {
   maxCpuSeconds: 60,
   maxMemoryMb: 1024,
   createdAt: "2026-10-21T03:34:20.099Z",
-  updatedAt: "2026-10-21T03:34:20.099Z",
+  updatedAt: "2026-10-21T04:00:46.068Z",
 } as const satisfies ChangeAgent
