@@ -6,7 +6,7 @@ import { vampireStages } from "akasha/temper/player/character/source/modules/vam
 
 type Build = CharacterState
 
-export type Closing = {
+type Closing = {
   readonly place: string
   readonly want: string
   readonly have: string
