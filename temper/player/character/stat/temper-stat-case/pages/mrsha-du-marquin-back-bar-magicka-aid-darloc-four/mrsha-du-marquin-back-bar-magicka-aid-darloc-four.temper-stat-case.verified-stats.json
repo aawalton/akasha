@@ -109,6 +109,7 @@
     "damage-done-physical": 0,
     "damage-done-poison": 0,
     "damage-done-shock": 0,
+    "healing-critical-bonus": 12,
     "healing-done-base": 2,
     "healing-taken-base": 2,
     "health-maximum": 28908,
@@ -138,7 +139,6 @@
   },
   "gaps": {
     "block-speed": 42,
-    "healing-critical-bonus": 12,
     "movement-sprint-speed": 144,
     "sneak-cost": 78
   }
