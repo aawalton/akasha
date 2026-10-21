@@ -201,7 +201,7 @@ const slottedSkillSchema = z.strictObject({
   channeled: z.boolean(),
   cooldownMs: z.number(),
   ultimateCost: z.number().optional(),
-  morph: z.number().optional(),
+  morph: z.preprocess((morph) => morph ?? undefined, z.number().optional()),
   rank: z.number().optional(),
 })
 
