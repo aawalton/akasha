@@ -145,6 +145,10 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A reading keeps each other passive bought but a craft one, with its text now.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reading says whether the player was in the Infinite Archive when it was taken.",
     },
     {
@@ -209,5 +213,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-21T09:24:16.485Z",
+  updatedAt: "2026-10-21T12:49:27.974Z",
 } as const satisfies Module

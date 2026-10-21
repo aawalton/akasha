@@ -2006,6 +2006,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/build/resolve/modules/sibling-addons/sibling-addons.module.ts","id":"01a06060-ec40-72c6-b3e3-bb2631d6b18c"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/resolve/temper-addon-resolve.domain.ts","id":"01a06060-ec3c-725c-b37c-206e3c7f7e97"}
 {"propertySlug":"decision-kind","path":"temper/addon/community/modules/install-named-addon/install-named-addon.module.ts","id":"01a06069-b790-7f2c-a237-0a215f888c46"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-bought-passives/characters-bought-passives.module.ts","id":"01a15e82-6ba6-7309-9979-036d56146f37"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-hireling-mail-subscriber/characters-hireling-mail-subscriber.module.ts","id":"01a062ed-3979-7008-b38a-d2d8bc3af92b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-inventory-upkeep/characters-inventory-upkeep.module.ts","id":"01a0dee5-fc86-7cee-bb08-6e8be41ee7e7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud-view/characters-task-hud-view.module.ts","id":"01a11c82-12cd-76b2-8e5b-fdf64ecca3ec"}

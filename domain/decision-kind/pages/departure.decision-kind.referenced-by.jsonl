@@ -4396,6 +4396,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-advanced-stats/characters-advanced-stats.module.ts","id":"01a15588-1401-7b6f-bb93-7613df4e6887"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-antiquity-lead-checks/characters-antiquity-lead-checks.module.ts","id":"01a062ed-39a0-700a-b328-1ae517d89942"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-archive-boons/characters-archive-boons.module.ts","id":"01a1597d-c5e3-730f-a1cc-e18757d6a7c1"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-bought-passives/characters-bought-passives.module.ts","id":"01a15e82-6ba6-7309-9979-036d56146f37"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-character-sheet/characters-character-sheet.module.ts","id":"01a15979-efd3-7a6e-bd6e-cfc498088bfc"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-class-mastery/characters-class-mastery.module.ts","id":"01a15a01-5df4-7a2f-8208-93c6be387fe3"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-command/characters-command.module.ts","id":"01a0632d-cacd-700b-99b3-a58078ae9a53"}

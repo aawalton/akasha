@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-antiquity-lead-checks/characters-antiquity-lead-checks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-antiquity-lore/characters-antiquity-lore.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-archive-boons/characters-archive-boons.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-bought-passives/characters-bought-passives.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-class-mastery/characters-class-mastery.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-passive-trace/characters-passive-trace.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-reported-stats/characters-reported-stats.module.code.ts","typed":false,"deferred":false}

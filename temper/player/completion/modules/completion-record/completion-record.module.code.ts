@@ -205,7 +205,7 @@ const slottedSkillSchema = z.strictObject({
   rank: z.preprocess((rank) => rank ?? undefined, z.number().optional()),
 })
 
-const classPassiveSchema = z.strictObject({
+const passiveSchema = z.strictObject({
   abilityId: z.number(),
   name: z.string(),
   description: z.string(),
@@ -271,7 +271,8 @@ export const reportedStatsReadingSchema = z.strictObject({
   championPoints: luaArrayOrEmpty(championStarSchema).optional(),
   worn: luaArrayOrEmpty(wornPieceSchema).optional(),
   skills: luaArrayOrEmpty(slottedSkillSchema).optional(),
-  classPassives: luaArrayOrEmpty(classPassiveSchema).optional(),
+  classPassives: luaArrayOrEmpty(passiveSchema).optional(),
+  otherPassives: luaArrayOrEmpty(passiveSchema).optional(),
   inArchive: z.boolean().optional(),
   blocking: z.boolean().optional(),
   moving: z.boolean().optional(),

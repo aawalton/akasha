@@ -4,6 +4,10 @@ import {
   advancedSheetSaid,
 } from "akasha/temper/addon/pages/characters/modules/characters-advanced-sheet/characters-advanced-sheet.module.code.ts"
 import { archiveBoons } from "akasha/temper/addon/pages/characters/modules/characters-archive-boons/characters-archive-boons.module.code.ts"
+import {
+  classPassives,
+  otherPassives,
+} from "akasha/temper/addon/pages/characters/modules/characters-bought-passives/characters-bought-passives.module.code.ts"
 import { characterSheet } from "akasha/temper/addon/pages/characters/modules/characters-character-sheet/characters-character-sheet.module.code.ts"
 import { classMasteryOnce } from "akasha/temper/addon/pages/characters/modules/characters-class-mastery/characters-class-mastery.module.code.ts"
 import { currentCharacterEntry } from "akasha/temper/addon/pages/characters/modules/characters-current-entry/characters-current-entry.module.code.ts"
@@ -218,31 +222,6 @@ type SlottedSkill = {
   rank: number | undefined
 }
 
-type ClassPassive = {
-  abilityId: number
-  name: string
-  description: string
-}
-
-function classPassives(): ClassPassive[] {
-  const passives: ClassPassive[] = []
-  const lines = GetNumSkillLines(SKILL_TYPE_CLASS)
-  for (let lineIndex = 1; lineIndex <= lines; lineIndex++) {
-    const abilities = GetNumSkillAbilities(SKILL_TYPE_CLASS, lineIndex)
-    for (let skillIndex = 1; skillIndex <= abilities; skillIndex++) {
-      if (!IsSkillAbilityPassive(SKILL_TYPE_CLASS, lineIndex, skillIndex)) continue
-      if (!IsSkillAbilityPurchased(SKILL_TYPE_CLASS, lineIndex, skillIndex)) continue
-      const abilityId = GetSkillAbilityId(SKILL_TYPE_CLASS, lineIndex, skillIndex, false)
-      passives.push({
-        abilityId,
-        name: zo_strformat("<<1>>", GetAbilityName(abilityId, "player")),
-        description: GetAbilityDescription(abilityId, undefined, "player"),
-      })
-    }
-  }
-  return passives
-}
-
 function slottedAbilityId(slot: number): number {
   const bound = GetSlotBoundId(slot)
   if (GetSlotType(slot) === ACTION_TYPE_CRAFTED_ABILITY)
@@ -349,6 +328,7 @@ function readingOf(buildHash: string, [stats, unbonusedStats]: StatsNow) {
     worn: worn(),
     skills: slottedSkills(),
     classPassives: classPassives(),
+    otherPassives: otherPassives(),
     advanced: advancedStats(),
     advancedSheet: advancedSheet(),
     sheet: characterSheet(stats),
