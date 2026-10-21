@@ -20,12 +20,12 @@ export const razorCaltrops40242 = {
   skillType: "temper-skill-type/active",
   hashPlace: 988,
   createdAt: "2026-05-28T16:03:33.431Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T04:43:53.309Z",
   equations: [
     "<<1>> = 0.01254 MaxStat + 0.131211 MaxPower - 0.630654 (Ultimate, ratio = 10.46, Dmg, Physical, AOE, DOT, 1s tick, R2 = 0.999981)",
     "<<2>> = 1 second (Constant)",
     "<<3>> = 50% (Constant)",
     "<<4>> = 5948 (Constant)",
-    "<<5>> = 1.1 seconds (Constant)",
+    "<<5>> = 4.1 seconds (Constant)",
   ],
 } as const satisfies TemperSkill
