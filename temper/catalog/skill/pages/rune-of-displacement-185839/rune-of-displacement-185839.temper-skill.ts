@@ -20,10 +20,10 @@ export const runeOfDisplacement185839 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1097,
   createdAt: "2026-05-28T16:03:33.630Z",
-  updatedAt: "2026-10-21T03:53:31.433Z",
+  updatedAt: "2026-10-21T04:08:18.668Z",
   equations: [
     "<<1>> = 2 seconds (Constant)",
-    "<<2>> = 0.0206542 MaxStat + 0.217302 MaxPower - 1.95364 (Ultimate, ratio = 10.52, Dmg, Magic, SingleTarget, DOT, 18s duration, 2s tick, R2 = 0.999996)",
+    "<<2>> = 0.021339449 MaxStat + 0.22406421 MaxPower (Ultimate, Dmg, Magic, SingleTarget, DOT, 18s duration, 2s tick, ticks on application)",
     "<<3>> = 18 seconds (Constant)",
     "<<4>> = Runebreak (Constant)",
     "<<5>> = 0.11999797 MaxStat + 1.2599787 MaxPower (Ultimate, Dmg, Frost, AOE, Direct, Melee)",

@@ -112,7 +112,8 @@ export function tooltipPairingOf(
   equations: readonly string[],
   stats: EquationStats,
   passives: ReadonlySet<string>,
-  active: ActiveHeld = NOTHING_ACTIVE
+  active: ActiveHeld = NOTHING_ACTIVE,
+  durationMs?: number
 ): TooltipPairing {
   const shown = shownNumbersOf(description)
   const numbered = equations.filter((line) => NAMES_A_NUMBER.test(line))
@@ -124,7 +125,7 @@ export function tooltipPairingOf(
       equation: line,
       scaled: equation?.scaled ?? false,
       game: shown[at] ?? 0,
-      temper: tooltipValueOf(equation, stats, passives, active) ?? null,
+      temper: tooltipValueOf(equation, stats, passives, active, durationMs) ?? null,
     }
   })
   return { paired: true, numbers }
@@ -145,6 +146,14 @@ const DAMAGE = "Dmg"
 
 const DIRECT = "Direct"
 
+const OVER_TIME = "DOT"
+
+const ON_APPLICATION = "ticks on application"
+
+const DURATION = /^(\d+(?:\.\d+)?)s duration$/
+
+const TICK = /^(\d+(?:\.\d+)?)s tick$/
+
 const HALF_HEALTH = "at most half Health"
 
 const BONUSES: readonly {
@@ -154,8 +163,9 @@ const BONUSES: readonly {
 }[] = [
   { held: "bastion", tags: [SHIELD], percent: 15 },
   { held: "master-at-arms", tags: [DAMAGE, DIRECT], percent: 6 },
-  { held: "biting-aura", tags: [DAMAGE, DIRECT, "AOE"], percent: 6 },
-  { held: "deadly-aim", tags: [DAMAGE, DIRECT, "SingleTarget"], percent: 6 },
+  { held: "thaumaturge", tags: [DAMAGE, OVER_TIME], percent: 6 },
+  { held: "biting-aura", tags: [DAMAGE, "AOE"], percent: 6 },
+  { held: "deadly-aim", tags: [DAMAGE, "SingleTarget"], percent: 6 },
 ]
 
 function bonusOf(equation: Equation, held: ReadonlySet<string>): number {
@@ -195,13 +205,37 @@ function isDirectDamage(equation: Equation): boolean {
   return equation.tags.includes(DAMAGE) && equation.tags.includes(DIRECT)
 }
 
+function isDamageOverTime(equation: Equation): boolean {
+  return equation.tags.includes(DAMAGE) && equation.tags.includes(OVER_TIME)
+}
+
+function isDamage(equation: Equation): boolean {
+  return isDirectDamage(equation) || isDamageOverTime(equation)
+}
+
+function secondsTagged(equation: Equation, pattern: RegExp): number | undefined {
+  for (const tag of equation.tags) {
+    const matched = pattern.exec(tag)
+    if (matched !== null) return Number(matched[1])
+  }
+  return undefined
+}
+
+function ticksOf(equation: Equation, durationMs: number | undefined): number {
+  const tagged = secondsTagged(equation, DURATION)
+  const tick = secondsTagged(equation, TICK)
+  if (!isDamageOverTime(equation) || tagged === undefined || tick === undefined) return 1
+  const duration = durationMs === undefined || durationMs <= 0 ? tagged : durationMs / 1000
+  return Math.round(duration / tick) + (equation.tags.includes(ON_APPLICATION) ? 1 : 0)
+}
+
 function damagePowerOf(
   equation: Equation,
   power: number,
   held: ReadonlySet<string>,
   active: ActiveHeld
 ): number {
-  if (!isDirectDamage(equation)) return power
+  if (!isDamage(equation)) return power
   const star = POWER_STARS.find((one) => one.types.some((type) => equation.tags.includes(type)))
   const points = star === undefined ? 0 : (active.championPoints[star.star] ?? 0)
   const flat =
@@ -229,7 +263,8 @@ function tooltipValueOf(
   equation: Equation | undefined,
   stats: EquationStats,
   passives: ReadonlySet<string>,
-  active: ActiveHeld
+  active: ActiveHeld,
+  durationMs: number | undefined
 ): number | undefined {
   if (equation === undefined) return undefined
   const maxPower = damagePowerOf(equation, stats.maxPower, passives, active)
@@ -238,7 +273,8 @@ function tooltipValueOf(
   if (!equation.scaled) return worked + longerBy(equation, passives)
   if (equation.tags.includes(SHIELD)) return shieldOf(equation, worked, stats, passives)
   const bonused = bonusOf(equation, passives) * worked
-  return isDirectDamage(equation) ? Math.floor(bonused) : Math.round(bonused)
+  if (!isDamage(equation)) return Math.round(bonused)
+  return Math.floor(bonused) * ticksOf(equation, durationMs)
 }
 
 export function equationValue(

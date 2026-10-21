@@ -61,8 +61,7 @@ export const skillEquation = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Direct damage is rounded down, after the damage stars the build slots multiply it.",
+      statement: "Damage is rounded down, after the damage stars the build slots multiply it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -70,13 +69,16 @@ export const skillEquation = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Biting Aura slotted makes area direct damage 6% stronger, and Deadly Aim single-target.",
+      statement: "Thaumaturge slotted makes damage over time 6% stronger.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Biting Aura slotted makes area damage 6% stronger, and Deadly Aim single-target.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Direct damage reads a power that War Mage, Mighty and Wrathful Strikes add to before buffs grow it.",
+        "Damage reads a power that War Mage, Mighty and Wrathful Strikes add to before buffs grow it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -85,7 +87,26 @@ export const skillEquation = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Wrathful Strikes slotted adds 205 power to direct damage.",
+      statement: "Wrathful Strikes slotted adds 205 power to damage.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A damage over time tagged with a duration and a tick totals its tick once for each tick.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Its ticks are the game's duration for the skill over its tick, to the nearest one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One tagged `ticks on application` ticks once more, as it is applied.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A skill the game gives no duration takes the duration its equation is tagged with.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -111,5 +132,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T03:53:31.433Z",
+  updatedAt: "2026-10-21T04:08:18.668Z",
 } as const satisfies Module

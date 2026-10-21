@@ -20,11 +20,11 @@ export const shootingStar40493 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1176,
   createdAt: "2026-05-28T16:03:33.769Z",
-  updatedAt: "2026-10-21T03:53:31.433Z",
+  updatedAt: "2026-10-21T04:08:18.668Z",
   equations: [
     "<<1>> = 0.18076539 MaxStat + 1.8980366 MaxPower (Ultimate, Dmg, Flame, AOE, Direct, Melee)",
     "<<2>> = 2 seconds (Constant)",
-    "<<3>> = 0.051612 MaxStat + 0.542543 MaxPower - 0.879855 (Ultimate, ratio = 10.51, Dmg, Flame, AOE, DOT, 1s tick, R2 = 1)",
+    "<<3>> = 0.051647307 MaxStat + 0.54229673 MaxPower (Ultimate, Dmg, Flame, AOE, DOT, 1s tick)",
     "<<4>> = 1 second (Constant)",
     "<<5>> = 10 seconds (Constant, +2 seconds with everlasting-magic)",
     "<<6>> = 10 (Constant)",

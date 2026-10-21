@@ -20,10 +20,10 @@ export const necroticOrb = {
   skillType: "temper-skill-type/active",
   hashPlace: 854,
   createdAt: "2026-05-28T16:03:33.177Z",
-  updatedAt: "2026-10-21T03:53:31.433Z",
+  updatedAt: "2026-10-21T04:08:18.668Z",
   equations: [
     "<<1>> = 10 seconds (Constant)",
-    "<<2>> = 0.0136606 MaxStat + 0.143129 MaxPower - 1.23018 (Ultimate, ratio = 10.48, Dmg, Magic, AOE, DOT, 1s tick, R2 = 0.999991)",
+    "<<2>> = 0.013747128 MaxStat + 0.14434485 MaxPower (Ultimate, Dmg, Magic, AOE, DOT, 1s tick)",
     "<<3>> = 1 second (Constant)",
     "<<4>> = Combustion (Constant)",
     "<<5>> = 0.099991429 MaxStat + 1.04991 MaxPower (Ultimate, Dmg, Magic, AOE, Direct, Melee)",

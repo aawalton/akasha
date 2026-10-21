@@ -153,7 +153,14 @@ export function workedOf(read: TooltipCaseRead, equations: Equations): ReadonlyM
   for (const skill of read.skills) {
     const held = equations.get(skill.abilityId)
     if (held === undefined) continue
-    const pairing = tooltipPairingOf(skill.description, held, stats, built, active)
+    const pairing = tooltipPairingOf(
+      skill.description,
+      held,
+      stats,
+      built,
+      active,
+      skill.durationMs
+    )
     if (!pairing.paired) continue
     for (const one of pairing.numbers) {
       const formula = formulaOf(skill.abilityId, one.placeholder)

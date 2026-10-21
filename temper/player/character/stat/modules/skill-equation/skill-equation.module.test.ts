@@ -159,6 +159,32 @@ test("direct damage reads the power War Mage, Mighty and Wrathful Strikes add be
   expect(worked(new Set(), { ...brutal, championPoints: { "war-mage": 29 } })).toBe(at(5000))
 })
 
+test("damage over time totals a tick for each tick in the game's duration, and one more where it ticks on application", () => {
+  const embers =
+    "<<2>> = 0.03 MaxStat + 0.315 MaxPower (Dmg, Flame, SingleTarget, DOT, 8s duration, 2s tick)"
+  const applied = embers.replace("2s tick)", "2s tick, ticks on application)")
+  const worked = (line: string, held: ReadonlySet<string>, durationMs?: number) => {
+    const paired = tooltipPairingOf(
+      "over |cffffff1|r",
+      [line],
+      STATS,
+      held,
+      NOTHING_ACTIVE,
+      durationMs
+    )
+    return paired.paired ? paired.numbers[0]?.temper : undefined
+  }
+  const raw = 0.03 * 20000 + 0.315 * 5000
+
+  expect(worked(embers, new Set(), 10000)).toBe(5 * Math.floor(raw))
+  expect(worked(embers, new Set())).toBe(4 * Math.floor(raw))
+  expect(worked(applied, new Set(), 10000)).toBe(6 * Math.floor(raw))
+  expect(worked(embers, new Set(["thaumaturge", "master-at-arms"]), 10000)).toBe(
+    5 * Math.floor(1.06 * raw)
+  )
+  expect(worked(embers.replace("8s duration, ", ""), new Set(), 10000)).toBe(Math.floor(raw))
+})
+
 test("a duration tagged with a passive is that much longer only where the build holds it", () => {
   const blur = ["<<1>> = 20 seconds (Constant, +2 seconds with dark-veil)"]
   const worked = (passives: ReadonlySet<string>) => {

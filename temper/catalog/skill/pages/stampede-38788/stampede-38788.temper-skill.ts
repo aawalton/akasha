@@ -20,10 +20,10 @@ export const stampede38788 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1268,
   createdAt: "2026-05-28T16:03:33.938Z",
-  updatedAt: "2026-10-21T03:53:31.433Z",
+  updatedAt: "2026-10-21T04:08:18.668Z",
   equations: [
     "<<1>> = 0.061963523 MaxStat + 0.65061699 MaxPower (Ultimate, Dmg, Physical, AOE, Direct, Melee)",
-    "<<2>> = 0.0138166 MaxStat + 0.144328 MaxPower - 1.21421 (Ultimate, ratio = 10.45, Dmg, Physical, AOE, DOT, 1s tick, R2 = 0.999988)",
+    "<<2>> = 0.014211812 MaxStat + 0.14922402 MaxPower (Ultimate, Dmg, Physical, AOE, DOT, 1s tick)",
     "<<3>> = 1 second (Constant)",
     "<<4>> = 15 seconds (Constant)",
   ],
