@@ -66,8 +66,5 @@
     "stamina-maximum": 12439,
     "stamina-recovery": 1098
   },
-  "gaps": {
-    "movement-sprint-speed": 143,
-    "stamina-sprint-cost": 485
-  }
+  "gaps": {}
 }
