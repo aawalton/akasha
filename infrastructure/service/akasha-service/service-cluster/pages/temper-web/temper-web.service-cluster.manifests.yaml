@@ -290,7 +290,7 @@ spec:
               cp -f /bundle/temper-addons.zip /app/repo/temper/web/addons/temper-addons.zip
               cp -f /bundle/version.txt /app/repo/temper/web/addons/version.txt
               echo "init-addons: copied into /app/repo/temper/web/addons"
-          image: registry.registry.svc.cluster.local:5000/cluster/temper-addons:59342769a440790db3627baed3a1bae9aca695adffcef2b7989e16452af24f8f
+          image: registry.registry.svc.cluster.local:5000/cluster/temper-addons:1b43b96e2023cc8d3c9ea3a9fcd6b0d1bb4398065aabbb43974472653bcc6100
           imagePullPolicy: IfNotPresent
           name: init-addons
           resources:
