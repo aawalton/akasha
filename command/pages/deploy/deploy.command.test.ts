@@ -12,12 +12,14 @@ import type {
 } from "akasha/command/pages/deploy/deploy.command.code.ts"
 import {
   deploy as deploying,
+  sentToCluster,
   stoppedPartWay,
 } from "akasha/command/pages/deploy/deploy.command.code.ts"
 import { committed, given } from "akasha/command/pages/deploy/deploy.command.test-fixtures.ts"
 import { commitAt } from "akasha/command/pages/deploy/modules/commit-naming/deploy-commit-naming.module.code.ts"
 import { DEPLOYED_COMMIT } from "akasha/command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
 import type { Wanted } from "akasha/command/pages/deploy/modules/kind-putting/deploy-kind-putting.module.code.ts"
+import { CLUSTER_SERVICE } from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
 import { IN_CLUSTER } from "akasha/infrastructure/job/modules/run-in-cluster/run-in-cluster.module.code.ts"
 import { seededWorld } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.test-fixtures.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
@@ -332,6 +334,14 @@ test("a web app is sent to the cluster rather than put up on the workstation", a
   expect(answer.code).toBe(OK)
   expect(answer.report).toEqual(["commit\tabc", "up\tone-web"])
   expect(seen[0]).toContain("one-web")
+})
+
+test("the forwarder a pod reaches the pages through is put up from the workstation", async () => {
+  await offTheCluster(async () => {
+    expect(sentToCluster(CLUSTER_SERVICE, "page-forwarder")).toBe(false)
+    expect(sentToCluster(CLUSTER_SERVICE, "one-web")).toBe(true)
+    return await Promise.resolve()
+  })
 })
 
 test("what the run in the cluster would not do refuses the deploy", async () => {

@@ -85,6 +85,7 @@ import { judgedApart } from "akasha/infrastructure/job/modules/deploy-job/deploy
 import { ranInCluster } from "akasha/infrastructure/job/modules/deploy-job-running/deploy-job-running.module.code.ts"
 import { inCluster } from "akasha/infrastructure/job/modules/run-in-cluster/run-in-cluster.module.code.ts"
 import { waitedForRoom } from "akasha/infrastructure/kernel/modules/landing-admission/landing-admission.module.code.ts"
+import { pageForwarder } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/page-forwarder/page-forwarder.service-cluster.ts"
 import {
   provingAt,
   restartingAt,
@@ -167,8 +168,8 @@ export type Dispatching = (root: string, subject: string, commit: string) => End
 const deployedInCluster: Dispatching = (root, subject, commit) =>
   ranInCluster(root, root, subject, commit)
 
-function sentToCluster(kind: string): boolean {
-  return RUN_IN_CLUSTER.has(kind) && !inCluster()
+export function sentToCluster(kind: string, slug: string): boolean {
+  return RUN_IN_CLUSTER.has(kind) && slug !== pageForwarder.slug && !inCluster()
 }
 
 async function deployInCluster(
@@ -219,7 +220,7 @@ export async function deploy(
   }
   const follows = wanted.ref === null
   const onward = () => allowedAgain(page.maxWallSeconds, given.calledAs)
-  if (sentToCluster(read.kind)) {
+  if (sentToCluster(read.kind, slug)) {
     const away = await heldWhile(
       given.root,
       slug,

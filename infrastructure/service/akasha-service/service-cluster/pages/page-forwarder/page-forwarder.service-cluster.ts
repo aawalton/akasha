@@ -49,6 +49,11 @@ export const pageForwarder = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Its deploy runs on the workstation, since a run in the cluster reaches the pages through it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "Readiness is judged by asking the workstation a real question and reading the answer.",
     },
     {
@@ -58,5 +63,5 @@ export const pageForwarder = {
     },
   ],
   createdAt: "2026-09-01T02:09:16.235Z",
-  updatedAt: "2026-10-21T15:10:21.114Z",
+  updatedAt: "2026-10-21T15:13:00.735Z",
 } as const satisfies ServiceCluster
