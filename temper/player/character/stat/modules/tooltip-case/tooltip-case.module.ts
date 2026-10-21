@@ -93,6 +93,11 @@ export const tooltipCase = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A case keeps the share each buff gives that its power at onset sets, by the buff's name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A case keeps the points its character had in War Mage and in Mighty.",
     },
     {
@@ -119,5 +124,5 @@ export const tooltipCase = {
     },
   ],
   createdAt: "2026-10-21T01:45:54.419Z",
-  updatedAt: "2026-10-21T09:32:18.196Z",
+  updatedAt: "2026-10-21T11:04:10.698Z",
 } as const satisfies Module

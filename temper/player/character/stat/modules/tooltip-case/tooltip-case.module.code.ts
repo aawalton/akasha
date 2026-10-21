@@ -10,11 +10,12 @@ import {
   getWeaponTypeIdsForBar,
 } from "akasha/temper/player/character/skill/modules/passive-queries/passive-queries.module.code.ts"
 import { calculateReadingStatsByBar } from "akasha/temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts"
+import { onsetPercentByName } from "akasha/temper/player/character/stat/modules/onset-scaled-buff/onset-scaled-buff.module.code.ts"
+import { healingDoneOfSkill } from "akasha/temper/player/character/stat/modules/scoped-healing/scoped-healing.module.code.ts"
 import {
   type ActiveHeld,
   type EquationStats,
   equationStatsOf,
-  healingDoneOfSkill,
   tooltipPairingOf,
 } from "akasha/temper/player/character/stat/modules/skill-equation/skill-equation.module.code.ts"
 import { healingDoneBase } from "akasha/temper/player/character/stat/temper-metric/pages/healing-done-base/healing-done-base.temper-metric.ts"
@@ -47,6 +48,7 @@ export const tooltipCaseShape = z.strictObject({
   stars: z.array(z.string()).optional(),
   buffs: z.array(z.string()).optional(),
   stacks: numbersByName.optional(),
+  shares: numbersByName.optional(),
   championPoints: numbersByName.optional(),
   mediumPieces: z.number().optional(),
   weapons: z.array(z.string()).optional(),
@@ -186,8 +188,14 @@ export function healingDoneOf(hash: string, bar: Bar, reading: ReadingCalculated
   return worked.metrics[healingDoneBase.slug]?.value ?? 0
 }
 
+type Onset = { readonly weapon: number; readonly spell: number }
+
 export type ReadingHeld = {
-  readonly activeBuffs?: readonly { readonly name: string; readonly stacks?: number }[]
+  readonly activeBuffs?: readonly {
+    readonly name: string
+    readonly stacks?: number
+    readonly powerAtOnset?: Onset | undefined
+  }[]
   readonly championPoints?: readonly { readonly championSkillId: number; readonly points: number }[]
 }
 
@@ -195,9 +203,13 @@ const POINTS_KEPT = [warMage, mighty]
 
 export function heldOfReading(
   reading: ReadingHeld
-): Pick<TooltipCaseRead, "buffs" | "stacks" | "championPoints"> {
+): Pick<TooltipCaseRead, "buffs" | "stacks" | "shares" | "championPoints"> {
   const { activeBuffs, championPoints } = reading
   const stacked = (activeBuffs ?? []).filter((one) => (one.stacks ?? 0) > 0)
+  const shared = (activeBuffs ?? []).flatMap((one) => {
+    const percent = onsetPercentByName(one.name, one.powerAtOnset)
+    return percent === undefined ? [] : [[one.name, percent] as const]
+  })
   const pointsOf = (id: number) =>
     championPoints?.find((one) => one.championSkillId === id)?.points ?? 0
   return {
@@ -207,6 +219,7 @@ export function heldOfReading(
     ...(stacked.length === 0
       ? {}
       : { stacks: Object.fromEntries(stacked.map((one) => [one.name, one.stacks ?? 0])) }),
+    ...(shared.length === 0 ? {} : { shares: Object.fromEntries(shared) }),
     ...(championPoints === undefined
       ? {}
       : {
@@ -223,7 +236,14 @@ export function heldOfCase(
   bar?: Bar
 ): Pick<
   TooltipCaseRead,
-  "passives" | "stars" | "buffs" | "stacks" | "championPoints" | "mediumPieces" | "weapons"
+  | "passives"
+  | "stars"
+  | "buffs"
+  | "stacks"
+  | "shares"
+  | "championPoints"
+  | "mediumPieces"
+  | "weapons"
 > {
   if (build === undefined) return heldOfReading(reading)
   const { weapons, ...worn } = build
@@ -242,11 +262,12 @@ export function heldSetOf(
 }
 
 export function activeOf(
-  read: Pick<TooltipCaseRead, "buffs" | "stacks" | "championPoints" | "mediumPieces">
+  read: Pick<TooltipCaseRead, "buffs" | "stacks" | "shares" | "championPoints" | "mediumPieces">
 ): ActiveHeld {
   return {
     buffs: new Set(read.buffs ?? []),
     stacks: read.stacks ?? {},
+    shares: read.shares ?? {},
     championPoints: read.championPoints ?? {},
     mediumPieces: read.mediumPieces ?? 0,
   }
@@ -325,6 +346,7 @@ export function tooltipCaseOf(
     ...(read.stars === undefined ? {} : { stars: [...read.stars].sort() }),
     ...(read.buffs === undefined ? {} : { buffs: [...read.buffs].sort() }),
     ...(read.stacks === undefined ? {} : { stacks: inNameOrder(read.stacks) }),
+    ...(read.shares === undefined ? {} : { shares: inNameOrder(read.shares) }),
     ...(read.championPoints === undefined
       ? {}
       : { championPoints: inNameOrder(read.championPoints) }),

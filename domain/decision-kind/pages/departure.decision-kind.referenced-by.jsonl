@@ -6502,6 +6502,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/reading-line-picking/reading-line-picking.module.ts","id":"01a15c22-e9f4-7536-8094-62240bbf9b61"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/rotation-healing/rotation-healing.module.ts","id":"01a13c1f-1abb-7f13-9091-5df53ed127a3"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/rotation-reading/rotation-reading.module.ts","id":"01a155a6-255f-774a-8cbf-800fdcde0042"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/scoped-healing/scoped-healing.module.ts","id":"01a15e22-06ca-711c-83a3-bfa203efe20b"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/skill-damage/skill-damage.module.ts","id":"01a13fef-5e7e-711d-90eb-ebfc00e306bb"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/skill-equation/skill-equation.module.ts","id":"01a1403d-d551-75df-ac1b-9f48985d15c4"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/skill-healing/skill-healing.module.ts","id":"01a13c1f-1ac3-7cf3-93be-c511d8f673b5"}

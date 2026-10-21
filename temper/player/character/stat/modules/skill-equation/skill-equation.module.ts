@@ -187,9 +187,13 @@ export const skillEquation = {
         "Each stack of Landslide makes a heal 1% stronger, rounded before the healing done grows it.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A buff's share set by the power it began at adds to the bonuses damage takes.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement:
-        "A reading gives Merciless Charge no stacks, so the numbers its stacks grow are gaps.",
+        "Area damage over time takes no such share, as Stampede's showed, and why is unsettled.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -248,17 +252,7 @@ export const skillEquation = {
       decisionKind: "decision-kind/departure",
       statement: "One tagged `per tick` is a tooltip giving a single tick rather than the total.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "Emerald Moss adds 5% healing done to a Green Balance heal for each Green Balance skill on its bar.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "Emerald Moss's share adds to the build's healing done before the heal grows by it once.",
-    },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T10:52:39.672Z",
+  updatedAt: "2026-10-21T11:04:10.698Z",
 } as const satisfies Module

@@ -1,6 +1,5 @@
 import { mighty } from "akasha/temper/catalog/champion-point/temper-champion-star/pages/mighty.temper-champion-star.ts"
 import { warMage } from "akasha/temper/catalog/champion-point/temper-champion-star/pages/war-mage.temper-champion-star.ts"
-import { emeraldMoss } from "akasha/temper/catalog/skill/pages/emerald-moss/emerald-moss.temper-skill.ts"
 
 export type EquationStats = {
   readonly maxStat: number
@@ -110,6 +109,7 @@ export type ActiveHeld = {
   readonly championPoints: Readonly<Record<string, number>>
   readonly mediumPieces: number
   readonly stacks: Readonly<Record<string, number>>
+  readonly shares?: Readonly<Record<string, number>>
 }
 
 export const NOTHING_ACTIVE: ActiveHeld = {
@@ -210,13 +210,21 @@ function stackedOf(equation: Equation, active: ActiveHeld): number {
   return 1 + percent / 100
 }
 
+function sharedOf(equation: Equation, active: ActiveHeld): number {
+  if (equation.tags.includes("AOE") && equation.tags.includes(OVER_TIME)) return 0
+  return Object.values(active.shares ?? {}).reduce((sum, one) => sum + one, 0)
+}
+
 function bonusOf(
   equation: Equation,
   held: ReadonlySet<string>,
   active: ActiveHeld = NOTHING_ACTIVE
 ): number {
   const buffed = isDamage(equation)
-    ? [...active.buffs].reduce((sum, one) => sum + (DAMAGE_BUFFS[one] ?? 0), 0)
+    ? [...active.buffs].reduce(
+        (sum, one) => sum + (DAMAGE_BUFFS[one] ?? 0),
+        sharedOf(equation, active)
+      )
     : 0
   const percent = BONUSES.filter(
     (one) =>
@@ -226,21 +234,6 @@ function bonusOf(
     .map((one) => one.percent)
     .reduce((sum, one) => sum + one, buffed)
   return 1 + percent / 100
-}
-
-const SCOPED_HEALING = [{ held: emeraldMoss.slug, line: emeraldMoss.skillLineId, percentEach: 5 }]
-
-export function healingDoneOfSkill(
-  healingDone: number,
-  line: string | undefined,
-  slotted: readonly (string | undefined)[],
-  held: ReadonlySet<string>
-): number {
-  return SCOPED_HEALING.filter((one) => held.has(one.held) && line === one.line).reduce(
-    (sum, one) =>
-      sum + (one.percentEach / 100) * slotted.filter((other) => other === one.line).length,
-    healingDone
-  )
 }
 
 const POWER_BUFFS: Readonly<Record<string, number>> = {

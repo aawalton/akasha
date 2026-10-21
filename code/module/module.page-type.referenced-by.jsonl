@@ -6131,6 +6131,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/reading-line-picking/reading-line-picking.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/rotation-healing/rotation-healing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/rotation-reading/rotation-reading.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/scoped-healing/scoped-healing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/skill-damage/skill-damage.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/skill-equation/skill-equation.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/skill-healing/skill-healing.module.ts","typed":true,"deferred":false}

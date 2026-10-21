@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"onset-scaled-buff.module.code.ts","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"onset-scaled-buff.module.code.ts","path":"temper/player/character/stat/modules/onset-scaled-buff/onset-scaled-buff.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"onset-scaled-buff.module.code.ts","path":"temper/player/character/stat/modules/stat-case/stat-case.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"onset-scaled-buff.module.code.ts","path":"temper/player/character/stat/modules/tooltip-case/tooltip-case.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/stat/temper-character-stat.domain.ts","id":"01a0612f-aae6-7c1d-a590-b3004241a082"}

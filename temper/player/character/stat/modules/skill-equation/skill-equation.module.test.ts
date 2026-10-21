@@ -1,11 +1,8 @@
 import { expect, test } from "bun:test"
-import { darkCloak25377 } from "akasha/temper/catalog/skill/pages/dark-cloak-25377/dark-cloak-25377.temper-skill.ts"
-import { emeraldMoss } from "akasha/temper/catalog/skill/pages/emerald-moss/emerald-moss.temper-skill.ts"
 import {
   equationOf,
   equationStatsOf,
   equationValue,
-  healingDoneOfSkill,
   NOTHING_ACTIVE,
   shownNumbersOf,
   tooltipPairingOf,
@@ -356,15 +353,18 @@ test("a heal tagged rank IV floors its term and grows 3.3% floored, in single pr
   expect([worked(43104), worked(32651, 1), worked(32454)]).toEqual([9382, 7177, 7064])
 })
 
-test("Emerald Moss adds 5% healing done to a Green Balance skill for each one on the bar", () => {
-  const green = emeraldMoss.skillLineId
-  const shadow = darkCloak25377.skillLineId
-  const moss = new Set([emeraldMoss.slug])
-  const bar = [green, green, shadow, undefined]
+test("an onset share adds to damage's bonuses, but not to area damage over time", () => {
+  const shares = { "Merciless Charge": 12 }
+  const active = { ...NOTHING_ACTIVE, buffs: new Set(["Minor Berserk"]), shares }
+  const worked = (tags: string) => {
+    const line = `<<1>> = 0.1 MaxStat + 1.05 MaxPower (Dmg, ${tags})`
+    const paired = tooltipPairingOf("|cffffff1|r", [line], STATS, new Set(), active)
+    return paired.paired ? paired.numbers[0]?.temper : undefined
+  }
+  const raw = 0.1 * 20000 + 1.05 * 5000
 
-  expect(healingDoneOfSkill(0.08, green, bar, moss)).toBeCloseTo(0.18)
-  expect(healingDoneOfSkill(0.08, green, bar, new Set())).toBe(0.08)
-  expect(healingDoneOfSkill(0.08, shadow, bar, moss)).toBe(0.08)
+  expect(worked("SingleTarget, Direct")).toBe(Math.floor(1.17 * raw))
+  expect(worked("AOE, DOT, 1s tick")).toBe(Math.floor(1.05 * raw))
 })
 
 test("a duration tagged with a passive is that much longer only where the build holds it", () => {
