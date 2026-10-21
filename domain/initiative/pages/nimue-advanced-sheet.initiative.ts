@@ -12,7 +12,7 @@ export const nimueAdvancedSheet = {
       statement:
         "Every stat on the game's advanced sheet has a formula that reproduces every landed reading.",
       workingMemory:
-        "Each reading carries the advanced sheet; dodge cost has a formula as stamina-dodge-cost. Sneak cost misses by one where Vesture of Darloc Brae is worn: Darloc alone reads 98, Temper 99. The game's bonus text gives Darloc 10%, Temper's set page 25%. No developer-plausible form fits all 1780 sneak readings yet: Darloc at 10% needs a second reduction of 17% to 24.5%, and the only round fit adds 1% to the Medium Armor Bonuses step.",
+        "`akasha temper stat-compare` sets each sheet row beside Temper's. Bash damage misses on most readings, 1 to 222 high. Dodge cost misses on Yvlon, Belavierr and Mrsha; sprint cost on Nirayicel and Erin; bash cost, block cost and block move speed on Amerys and Khelta; healing taken on Khelta. Sneak cost is 1 high with Vesture of Darloc Brae, whose bonus text says 10%: no plausible form fits, and Darloc at 10% needs a second 17% to 24.5% reduction.",
     },
   ],
   constraints: [
@@ -20,5 +20,5 @@ export const nimueAdvancedSheet = {
     "A stat that reads another is worked after the stat it reads.",
   ],
   createdAt: "2026-10-21T01:19:57.827Z",
-  updatedAt: "2026-10-21T13:13:35.966Z",
+  updatedAt: "2026-10-21T14:18:24.951Z",
 } as const satisfies Initiative
