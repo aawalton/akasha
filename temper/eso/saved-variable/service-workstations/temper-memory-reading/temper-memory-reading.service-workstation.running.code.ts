@@ -11,7 +11,7 @@ import {
   type Global,
   globalHeld,
   globalKeyOf,
-  globalsFound,
+  globalsFoundUntilStopped,
   searchAfresh,
 } from "akasha/command/pages/temper/eso/memory/modules/hks-global-finding/hks-global-finding.module.code.ts"
 import type { Reader } from "akasha/command/pages/temper/eso/memory/modules/hks-table-reading/hks-table-reading.module.code.ts"
@@ -67,20 +67,25 @@ function holding(regions: readonly Region[], at: bigint): Region | undefined {
 
 type Searched = { readonly found: readonly (Global | null)[]; readonly loading: boolean }
 
-function searched(
+async function searched(
   read: Reader,
   regions: readonly Region[],
   names: readonly string[],
   pass: string,
-  left: ReadonlySet<string>
-): Searched {
+  left: ReadonlySet<string>,
+  signal: AbortSignal
+): Promise<Searched | null> {
   if (names.length === 0 || regions.length === 0) {
     return { found: names.map(() => null), loading: false }
   }
   const started = Date.now()
   const scan = scanAfresh()
   const searches = names.map(() => ({ ...searchAfresh(), scan }))
-  const found = globalsFound(read, regions, names, searches, left)
+  const found = await globalsFoundUntilStopped(read, regions, names, searches, left, signal)
+  if (found === null) {
+    say(`searched ${pass}: stopped after ${scan.chunks} chunks, ${Date.now() - started} ms`)
+    return null
+  }
   names.forEach((name, index) => {
     const search = searches[index] ?? searchAfresh()
     const capped = search.capped ? " (cap hit)" : ""
@@ -101,18 +106,23 @@ function searched(
   return { found, loading }
 }
 
-function foundIn(
+async function foundIn(
   read: Reader,
   regions: readonly Region[],
   hot: Set<bigint>,
   names: readonly string[],
   warmOnly: boolean,
-  left: ReadonlySet<string>
-): Searched {
+  left: ReadonlySet<string>,
+  signal: AbortSignal
+): Promise<Searched | null> {
   const warm = regions.filter((region) => hot.has(region.from))
-  const fromWarm = searched(read, warm, names, `${warm.length} warm regions`, left).found
+  const warmPass = `${warm.length} warm regions`
+  const fromWarmSearched = await searched(read, warm, names, warmPass, left, signal)
+  if (fromWarmSearched === null) return null
+  const fromWarm = fromWarmSearched.found
   const missing = warmOnly ? [] : names.filter((_, index) => (fromWarm[index] ?? null) === null)
-  const fromAll = searched(read, regions, missing, `${regions.length} regions`, left)
+  const fromAll = await searched(read, regions, missing, `${regions.length} regions`, left, signal)
+  if (fromAll === null) return null
   const found = names.map(
     (name, index) => fromWarm[index] ?? fromAll.found[missing.indexOf(name)] ?? null
   )
@@ -131,12 +141,13 @@ function stillHeld(read: Reader, global: Global | null | undefined): Global | nu
     : global
 }
 
-function watchingOf(
+async function watchingOf(
   pid: number,
   hot: Set<bigint>,
   before: Watching | null,
-  left: ReadonlySet<string>
-): Watching {
+  left: ReadonlySet<string>,
+  signal: AbortSignal
+): Promise<Watching | null> {
   const started = Date.now()
   const read = readerOf(pid)
   const regions = regionsOf(pid)
@@ -146,7 +157,9 @@ function watchingOf(
     stillHeld(read, kept.characters) !== null &&
     stillHeld(read, kept.fights) !== null
   const names = [CHARACTERS_GLOBAL, FIGHTS_GLOBAL]
-  const searchedNow = foundIn(read, regions, hot, names, keptReads && left.size === 0, left)
+  const warmOnly = keptReads && left.size === 0
+  const searchedNow = await foundIn(read, regions, hot, names, warmOnly, left, signal)
+  if (searchedNow === null) return null
   const [foundCharacters, foundFights] = searchedNow.found
   const characters = foundCharacters ?? stillHeld(read, kept?.characters)
   const fights = foundFights ?? stillHeld(read, kept?.fights)
@@ -215,6 +228,20 @@ function lookOnce(watching: Watching, seen: Seen, looked: boolean, queues: Queue
   return roots.fights !== null
 }
 
+const LAST_LANDING_MS = 5_000
+
+async function landedBeforeStopping(queues: Queues): Promise<undefined> {
+  const landed = Promise.all([queues.readings.drained(), queues.fights.drained()]).then(() => true)
+  const late = new Promise<boolean>((resolve) => {
+    setTimeout(() => resolve(false), LAST_LANDING_MS)
+  })
+  const inTime = await Promise.race([landed, late])
+  say(
+    inTime ? "stopped, with every queued landing landed" : "stopped, with a landing still running"
+  )
+  return undefined
+}
+
 export async function runService(): Promise<never> {
   const stopping = stopsOnSignal()
   const seen = seenAfresh()
@@ -247,7 +274,8 @@ export async function runService(): Promise<never> {
       else if (looksPast > 0 && now - scannedAt >= FIND_AT_MOST_MS) {
         looksPast -= 1
         scannedAt = now
-        const next = watchingOf(pid, hot, watching, left)
+        const next = await watchingOf(pid, hot, watching, left, stopping.signal)
+        if (next === null) break
         const moved = heldKeysOf(next).some((key) => !left.has(key))
         if (moved || looksPast === 0) {
           left = NOTHING_LEFT
@@ -260,7 +288,9 @@ export async function runService(): Promise<never> {
         (watching?.loading === true || now - scannedAt >= FIND_AT_MOST_MS)
       ) {
         scannedAt = now
-        watching = watchingOf(pid, hot, watching, NOTHING_LEFT)
+        const next = await watchingOf(pid, hot, watching, NOTHING_LEFT, stopping.signal)
+        if (next === null) break
+        watching = next
         scannedAt = Date.now()
       }
       if (pid !== null && watching !== null) {
@@ -270,6 +300,8 @@ export async function runService(): Promise<never> {
       const stack = thrown instanceof Error ? (thrown.stack ?? "") : ""
       console.error(`a look failed: ${saidBy(thrown)}\n${stack}`)
     }
-    if (!(await sleptUntilStopped(EVERY_MS, stopping.signal))) process.exit(0)
+    if (!(await sleptUntilStopped(EVERY_MS, stopping.signal))) break
   }
+  await landedBeforeStopping(queues)
+  process.exit(0)
 }

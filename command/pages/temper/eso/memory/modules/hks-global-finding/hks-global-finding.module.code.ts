@@ -1,7 +1,10 @@
 import {
-  foundEach,
+  foundEachScanning,
   type Region,
+  ranToEnd,
+  ranUntilStopped,
   type Scan,
+  type Scanning,
   scanAfresh,
   wordBytes,
 } from "akasha/command/pages/temper/eso/memory/modules/eso-process-memory/eso-process-memory.module.code.ts"
@@ -53,16 +56,16 @@ export function globalKeyOf(global: Global): string {
   return `${global.node}:${global.name}`
 }
 
-export function globalsFound(
+function* globalsFinding(
   read: Reader,
   regions: readonly Region[],
   names: readonly string[],
-  searches: readonly Search[] = names.map(() => searchAfresh()),
-  left: ReadonlySet<string> = new Set()
-): readonly (Global | null)[] {
+  searches: readonly Search[],
+  left: ReadonlySet<string>
+): Scanning<readonly (Global | null)[]> {
   const scan = searches[0]?.scan ?? scanAfresh()
   const texts = names.map((name) => Buffer.from(name, "utf8"))
-  const copies = foundEach(read, regions, texts, 1n, MOST_COPIES, scan)
+  const copies = yield* foundEachScanning(read, regions, texts, 1n, MOST_COPIES, scan)
   const strings = names.map((name, index) =>
     stringsOf(read, name, copies[index] ?? [], searches[index] ?? searchAfresh())
   )
@@ -86,8 +89,19 @@ export function globalsFound(
     })
     return settled.every((one, index) => one !== null || (strings[index]?.length ?? 0) === 0)
   }
-  settle(foundEach(read, regions, words, BigInt(WORD), MOST_POINTERS, scan, settle))
+  settle(yield* foundEachScanning(read, regions, words, BigInt(WORD), MOST_POINTERS, scan, settle))
   return settled
+}
+
+export function globalsFoundUntilStopped(
+  read: Reader,
+  regions: readonly Region[],
+  names: readonly string[],
+  searches: readonly Search[],
+  left: ReadonlySet<string>,
+  signal: AbortSignal
+): Promise<readonly (Global | null)[] | null> {
+  return ranUntilStopped(globalsFinding(read, regions, names, searches, left), signal)
 }
 
 export function globalFound(
@@ -96,5 +110,5 @@ export function globalFound(
   name: string,
   search: Search = searchAfresh()
 ): Global | null {
-  return globalsFound(read, regions, [name], [search])[0] ?? null
+  return ranToEnd(globalsFinding(read, regions, [name], [search], new Set()))[0] ?? null
 }

@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"hks-table-reading.module.code.ts","path":"command/pages/temper/eso/memory/modules/eso-process-memory/eso-process-memory.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"hks-table-reading.module.code.ts","path":"command/pages/temper/eso/memory/modules/hks-global-finding/hks-global-finding.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"hks-table-reading.module.code.ts","path":"command/pages/temper/eso/memory/modules/hks-global-finding/hks-global-finding.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"hks-table-reading.module.code.ts","path":"command/pages/temper/eso/memory/modules/hks-table-reading/hks-table-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"hks-table-reading.module.code.ts","path":"command/pages/temper/eso/memory/temper-eso-memory.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"hks-table-reading.module.code.ts","path":"temper/eso/saved-variable/modules/memory-capture/memory-capture.module.code.ts","typed":false,"deferred":false}

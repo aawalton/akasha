@@ -137,7 +137,9 @@ function chunkHits(
   return hits
 }
 
-export function foundEach(
+export type Scanning<Done> = Generator<undefined, Done, undefined>
+
+export function* foundEachScanning(
   read: Reader,
   regions: readonly Region[],
   needles: readonly Buffer[],
@@ -145,7 +147,7 @@ export function foundEach(
   most: number,
   scan: Scan = scanAfresh(),
   enough: (hits: readonly (readonly bigint[])[]) => boolean = () => false
-): readonly (readonly bigint[])[] {
+): Scanning<readonly (readonly bigint[])[]> {
   const hits: bigint[][] = needles.map(() => [])
   const longest = Math.max(0, ...needles.map((needle) => needle.length))
   const shared = sharedStart(needles)
@@ -158,14 +160,53 @@ export function foundEach(
       const wanted = Math.min(CHUNK + longest - 1, left)
       const bytes = readAcross(read, at, wanted, scan)
       scan.chunks += 1
-      if (bytes === null) continue
-      chunkHits(bytes, needles, shared, at, step).forEach((inChunk, index) => {
-        const held = hits[index]
-        if (held !== undefined && held.length < most) held.push(...inChunk)
-      })
+      if (bytes !== null) {
+        chunkHits(bytes, needles, shared, at, step).forEach((inChunk, index) => {
+          const held = hits[index]
+          if (held !== undefined && held.length < most) held.push(...inChunk)
+        })
+      }
+      yield undefined
     }
   }
   return hits.map((held) => held.slice(0, most))
+}
+
+export function ranToEnd<Done>(scanning: Scanning<Done>): Done {
+  for (;;) {
+    const next = scanning.next()
+    if (next.done === true) return next.value
+  }
+}
+
+function loopTurned(): Promise<undefined> {
+  return new Promise((resolve) => {
+    setImmediate(() => resolve(undefined))
+  })
+}
+
+export async function ranUntilStopped<Done>(
+  scanning: Scanning<Done>,
+  signal: AbortSignal
+): Promise<Done | null> {
+  for (;;) {
+    if (signal.aborted) return null
+    const next = scanning.next()
+    if (next.done === true) return next.value
+    await loopTurned()
+  }
+}
+
+function foundEach(
+  read: Reader,
+  regions: readonly Region[],
+  needles: readonly Buffer[],
+  step: bigint,
+  most: number,
+  scan: Scan = scanAfresh(),
+  enough: (hits: readonly (readonly bigint[])[]) => boolean = () => false
+): readonly (readonly bigint[])[] {
+  return ranToEnd(foundEachScanning(read, regions, needles, step, most, scan, enough))
 }
 
 export function found(

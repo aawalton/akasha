@@ -6,6 +6,7 @@ export const hksGlobalFinding = {
   slug: "hks-global-finding",
   definition: "a table the game's Lua holds under a global name, found in the game's memory",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/constraint",
@@ -39,5 +40,5 @@ export const hksGlobalFinding = {
     },
   ],
   createdAt: "2026-10-19T18:57:27.580Z",
-  updatedAt: "2026-10-20T17:34:17.265Z",
+  updatedAt: "2026-10-21T12:23:12.483Z",
 } as const satisfies Module

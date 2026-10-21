@@ -32,10 +32,14 @@ export const esoProcessMemory = {
       statement: "A search ends early where the one searching says it has found enough.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A search that may be stopped lets other work run after every chunk it reads.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "Only a process outside the agent's shell can read the game's memory.",
     },
   ],
   createdAt: "2026-10-19T18:55:52.343Z",
-  updatedAt: "2026-10-19T23:58:05.834Z",
+  updatedAt: "2026-10-21T12:23:12.483Z",
 } as const satisfies Module

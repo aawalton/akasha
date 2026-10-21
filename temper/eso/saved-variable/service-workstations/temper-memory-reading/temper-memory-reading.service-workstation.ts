@@ -81,9 +81,21 @@ export const temperMemoryReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A stop asked during a search ends that search before its next chunk is read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A search a stop ended keeps nothing it found.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stop lands what is queued before the service ends, for at most five seconds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The service reaches every page over page-service rather than over the checkout.",
     },
   ],
   createdAt: "2026-10-19T19:08:25.036Z",
-  updatedAt: "2026-10-20T17:59:42.289Z",
+  updatedAt: "2026-10-21T12:23:12.483Z",
 } as const satisfies ServiceWorkstation
