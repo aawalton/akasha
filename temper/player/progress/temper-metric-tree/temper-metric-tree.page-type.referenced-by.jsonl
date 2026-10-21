@@ -138,6 +138,7 @@
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-defense-flame-mitigation.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-defense-frost-mitigation.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-defense-magic-mitigation.temper-metric-tree.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-defense-oblivion-mitigation.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-defense-physical-aoe-mitigation.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-defense-physical-dd-mitigation.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-defense-physical-mitigation.temper-metric-tree.ts","typed":true,"deferred":false}
