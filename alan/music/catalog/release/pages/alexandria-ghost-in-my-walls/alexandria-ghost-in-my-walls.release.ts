@@ -4,7 +4,7 @@ export const alexandriaGhostInMyWalls = {
   id: "01a15eb5-7a4f-70dc-82f4-b45898fe6a4e",
   type: "page-type/release",
   slug: "alexandria-ghost-in-my-walls",
-  ownLength: 2.3167333333333335,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/alexandria"],
   position: 0,
@@ -21,5 +21,5 @@ export const alexandriaGhostInMyWalls = {
   ],
   title: "Ghost in My Walls",
   createdAt: "2026-10-21T13:45:14.062Z",
-  updatedAt: "2026-10-21T13:45:14.062Z",
+  updatedAt: "2026-10-21T14:00:41.834Z",
 } as const satisfies Release

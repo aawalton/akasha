@@ -7,8 +7,8 @@ export const jamesTaylor2Snowtime = {
   title: "SnowTime",
   partOfCollections: ["artist/james-taylor"],
   position: 0,
-  ownLength: 5.8091,
-  ownProgress: 5.8091,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-01-01",
@@ -20,5 +20,6 @@ export const jamesTaylor2Snowtime = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.281Z",
-  updatedAt: "2026-09-15T16:36:36.000Z",
+  updatedAt: "2026-10-21T14:00:41.834Z",
+  progressedAt: "2026-10-21T14:00:41.834Z",
 } as const satisfies Release
