@@ -127,6 +127,7 @@
     "experience-gain": 10,
     "gold-gain": 20,
     "healing-critical-bonus": 4,
+    "healing-done-base": 2,
     "healing-taken-base": 7,
     "health-maximum": 19756,
     "health-recovery": 479,
@@ -161,7 +162,6 @@
     "ultimate-recovery": 3
   },
   "gaps": {
-    "bash-damage": 571,
-    "healing-done-base": 2
+    "bash-damage": 571
   }
 }

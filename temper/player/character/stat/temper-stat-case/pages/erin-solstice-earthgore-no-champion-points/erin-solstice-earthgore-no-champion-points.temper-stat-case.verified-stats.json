@@ -43,6 +43,7 @@
     "defense-poison-mitigation": 41.349998474121094,
     "defense-shock-mitigation": 41.349998474121094,
     "healing-critical-bonus": 0,
+    "healing-done-base": 0,
     "health-maximum": 40403,
     "health-recovery": 0,
     "magicka-maximum": 15382,
@@ -73,7 +74,6 @@
   "gaps": {
     "bash-damage": 615,
     "critical-damage": 10,
-    "healing-done-base": 0,
     "healing-taken-base": 15
   }
 }
