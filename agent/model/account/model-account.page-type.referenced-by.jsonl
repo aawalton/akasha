@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"model-account.page-type.ts","path":"agent/seat/modules/akasha-read/seat-akasha-read.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-account.page-type.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-account.page-type.types.ts","path":"agent/model/account/pages/aawalton/aawalton.model-account.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"model-account.page-type.types.ts","path":"agent/model/account/pages/alanwalton/alanwalton.model-account.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"model-account.page-type.types.ts","path":"agent/model/account/pages/deepseek/deepseek.model-account.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"model-account.page-type.types.ts","path":"agent/model/account/properties/effective-five-hour-resets-at.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"model-account.page-type.types.ts","path":"agent/model/account/properties/effective-five-hour-usage.computed-property.code.ts","typed":true,"deferred":false}
