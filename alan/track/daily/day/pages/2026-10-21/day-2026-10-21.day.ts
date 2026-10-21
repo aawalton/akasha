@@ -8,7 +8,7 @@ export const day20261021 = {
   date: "2026-10-21",
   version: "3.0",
   nutritionPoints: 500,
-  activeCalories: 495.6229999999998,
+  activeCalories: 580.1799999999993,
   wisdomWords: 4818,
   intelligenceTopics: 0,
   inboxTasks: 6,
@@ -17,6 +17,6 @@ export const day20261021 = {
   inboxTemperTasksClearedToday: true,
   lowestEmailInboxCount: 0,
   createdAt: "2026-10-21T10:00:02.202Z",
-  updatedAt: "2026-10-21T16:07:30.631Z",
+  updatedAt: "2026-10-21T19:30:31.301Z",
   sessions: "jsonl",
 } as const satisfies Day
