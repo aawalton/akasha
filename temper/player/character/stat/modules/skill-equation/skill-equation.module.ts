@@ -111,6 +111,10 @@ export const skillEquation = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "It makes damage tagged `Channeled` 12% stronger too, as the game's text says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A caster inside its own Standard of Might deals damage 15% stronger.",
     },
     {
@@ -255,5 +259,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T09:58:31.044Z",
+  updatedAt: "2026-10-21T10:05:07.267Z",
 } as const satisfies Module
