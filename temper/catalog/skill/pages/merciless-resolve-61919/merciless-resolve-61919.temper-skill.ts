@@ -20,14 +20,15 @@ export const mercilessResolve61919 = {
   skillType: "temper-skill-type/active",
   hashPlace: 820,
   createdAt: "2026-05-28T16:03:33.112Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T05:05:04.595Z",
   equations: [
     "<<1>> = Major Savagery (Constant)",
     "<<2>> = 12% (Constant)",
     "<<3>> = Merciless Resolve (Constant)",
     "<<4>> = 10 (Constant)",
     "<<5>> = 5 (Constant)",
+    "<<5>> = 5 (Constant, Repeat)",
     "<<6>> = 0.204534 MaxStat + 2.14761 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, SingleTarget, Direct, R2 = 1)",
-    "<<7>> = 50% (Constant)",
+    "<<7>> = 54% (Constant)",
   ],
 } as const satisfies TemperSkill
