@@ -8,7 +8,6 @@ export const tooltipCase = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  testReaches: true,
   testReads: [
     "page-type/temper-tooltip-case",
     "page-type/temper-skill",
@@ -128,5 +127,5 @@ export const tooltipCase = {
     },
   ],
   createdAt: "2026-10-21T01:45:54.419Z",
-  updatedAt: "2026-10-21T13:27:02.492Z",
+  updatedAt: "2026-10-21T14:13:24.015Z",
 } as const satisfies Module

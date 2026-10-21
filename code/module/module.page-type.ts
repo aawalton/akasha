@@ -20,7 +20,6 @@ export const module = {
     "text-property/reached-by-path",
     "boolean-property/runs-in-a-browser",
     "multi-relation-property/test-reads",
-    "boolean-property/test-reaches",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -44,7 +43,6 @@ export const module = {
       many: true,
       maxCount: null,
     },
-    { pageProperty: "boolean-property/test-reaches", required: false, many: false },
   ],
   decisions: [
     {
@@ -80,5 +78,5 @@ export const module = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-28T20:47:14.436Z",
-  updatedAt: "2026-10-21T05:27:10.035Z",
+  updatedAt: "2026-10-21T14:13:24.015Z",
 } as const satisfies PageType
