@@ -8,7 +8,7 @@ export const keepingTheProfessorAndTheChildFed = {
   definition: "what each half of me goes without, and what I give each one",
   parents: ["all-about-alan-topic/the-professor-and-the-child"],
   settled:
-    "The Professor gets bored, and the Child gets sad or lonely.\n\nI have different stims for each, and I use them to keep one occupied when the other needs to do something hard.\n\nMany of my past attempts to meet my need for social connection actually targeted the Professor, because I did not understand the difference. Interesting conversations with people are one of them.",
+    "The Professor gets bored, and the Child gets sad or lonely.\n\nI have different stims for each, and I use them to keep one occupied when the other needs to do something hard.\n\nMany of my past attempts to meet my need for social connection actually targeted the Professor, because I did not understand the difference. Interesting conversations with people are one of them.\n\nNot every intervention for the Child has to target social connection. Nervous system regulation and physical needs are part of the Child as well, and they have often been neglected. I have got a lot better at addressing those, which is why social connection feels like the biggest bottleneck left.",
   createdAt: "2026-10-21T12:45:25.785Z",
-  updatedAt: "2026-10-21T12:45:25.785Z",
+  updatedAt: "2026-10-21T13:23:25.133Z",
 } as const satisfies AllAboutAlanTopic
