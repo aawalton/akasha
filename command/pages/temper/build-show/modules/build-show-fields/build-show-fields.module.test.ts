@@ -93,6 +93,16 @@ test("a decoded build shows its gear, skills, passives and stars", () => {
   )
 })
 
+test("a build's chosen class masteries are shown with their class, and none said where none", () => {
+  expect(valueAt(characterFieldsOf(decoded(), null), "masteries", "chosen")).toBe("none")
+  const chosen = { ...decoded(), masteries: ["above-and-beyond", "wild-adaptation"] }
+  const masteries = characterFieldsOf(chosen, null).filter((one) => one.section === "masteries")
+  expect(masteries).toEqual([
+    { section: "masteries", key: "above-and-beyond", value: "nightblade" },
+    { section: "masteries", key: "wild-adaptation", value: "warden" },
+  ])
+})
+
 test("each bar has Temper's fifteen stats", () => {
   const fields = characterFieldsOf(decoded(), null)
   for (const bar of ["front", "back"]) {

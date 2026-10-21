@@ -2,6 +2,7 @@ import { championPoints } from "akasha/temper/catalog/champion-point/modules/cha
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import { skills } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
+import { skillCatalog } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts"
 import { getSkillLineCategory } from "akasha/temper/player/character/skill/modules/passive-queries/passive-queries.module.code.ts"
 import { calculateBuildStatsByBar } from "akasha/temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts"
 
@@ -179,6 +180,18 @@ function passiveLines(build: CharacterState): readonly Field[] {
     })
 }
 
+function masteryLines(build: CharacterState): readonly Field[] {
+  const section = "masteries"
+  const chosen = build.masteries ?? []
+  if (chosen.length === 0) return [{ section, key: "chosen", value: "none" }]
+  const masteries = skillCatalog().classMasteries
+  return chosen.map((id) => ({
+    section,
+    key: id,
+    value: masteries.data[id]?.classId ?? "not in the class mastery catalog",
+  }))
+}
+
 const CONSTELLATIONS = ["warfare", "fitness", "craft"] as const
 
 function pointsText(star: StarPoints | undefined, known: boolean): string {
@@ -248,6 +261,7 @@ export function characterFieldsOf(
     ...gearLines(build),
     ...skillLines(build),
     ...passiveLines(build),
+    ...masteryLines(build),
     ...starLines(build, stars),
     ...statLines(build),
   ]

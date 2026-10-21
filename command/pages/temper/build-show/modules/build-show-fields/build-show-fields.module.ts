@@ -29,6 +29,10 @@ export const buildShowFields = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A chosen class mastery says its class, and a build choosing none says none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A star's points come from a reading, since the hash holds none.",
     },
     {
@@ -50,5 +54,5 @@ export const buildShowFields = {
     },
   ],
   createdAt: "2026-10-20T14:29:46.979Z",
-  updatedAt: "2026-10-20T14:29:46.979Z",
+  updatedAt: "2026-10-21T14:07:30.892Z",
 } as const satisfies Module
