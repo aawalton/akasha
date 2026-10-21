@@ -23,6 +23,7 @@ import {
 } from "akasha/temper/addon/pages/characters/modules/characters-reported-stats-settle/characters-reported-stats-settle.module.code.ts"
 import { captureCharacterBuildHash } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-build/character-capture-build.module.code.ts"
 import { buildHash as asBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import "akasha/temper/eso/type/eso-api-4/eso-api-4.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-04/eso-enums-04.type-declaration.d.ts"
