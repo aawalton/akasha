@@ -110,6 +110,7 @@
     "health-recovery": 562,
     "magicka-maximum": 13972,
     "magicka-recovery": 937,
+    "movement-sneak-speed": 77,
     "movement-sprint-speed": 150,
     "penetration-physical": 8369,
     "penetration-spell": 8369,
@@ -144,7 +145,6 @@
     "damage-done-poison": 6,
     "damage-done-shock": 6,
     "healing-critical-bonus": 57,
-    "movement-sneak-speed": 77,
     "sneak-cost": 102
   }
 }

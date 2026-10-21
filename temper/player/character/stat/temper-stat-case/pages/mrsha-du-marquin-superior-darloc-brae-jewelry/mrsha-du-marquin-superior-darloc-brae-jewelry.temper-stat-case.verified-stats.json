@@ -116,6 +116,7 @@
     "health-recovery": 399,
     "magicka-maximum": 13972,
     "magicka-recovery": 754,
+    "movement-sneak-speed": 71,
     "movement-sprint-speed": 162,
     "penetration-physical": 7774,
     "penetration-spell": 7774,
@@ -130,7 +131,6 @@
     "stamina-sprint-cost": 273
   },
   "gaps": {
-    "movement-sneak-speed": 71,
     "sneak-cost": 23,
     "stamina-dodge-cost": 1711
   }
