@@ -27,6 +27,11 @@ export const changeWalking = {
       statement:
         "The names spared in a file property's file are read off the file property fixing them.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The table a page type's `hashFrozenIn` names is spared in the file that value names.",
+    },
 
     {
       decisionKind: "decision-kind/departure",
@@ -107,5 +112,5 @@ export const changeWalking = {
     },
   ],
   createdAt: "2026-08-31T14:32:42.022Z",
-  updatedAt: "2026-10-10T12:31:11.901Z",
+  updatedAt: "2026-10-21T21:01:08.666Z",
 } as const satisfies Module
