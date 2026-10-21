@@ -57,6 +57,13 @@ test("a sheet percent is reproduced by the float holding that percent over a hun
   expect(reproduces("bash-cost", 554, 554)).toBe(true)
 })
 
+test("a case pinned again from its own reading is written as it is", () => {
+  const path = CASES[0] ?? ""
+  const text = readFileSync(join(akashaRoot(), path), "utf8")
+  const { pinned, gaps, ...read } = statCaseShape.parse(JSON.parse(text))
+  expect(statCaseText(pinnedCaseOf({ ...read, stats: { ...pinned, ...gaps } }))).toBe(text)
+})
+
 for (const path of CASES) {
   const text = readFileSync(join(akashaRoot(), path), "utf8")
   const statCase = statCaseShape.parse(JSON.parse(text))
@@ -67,8 +74,7 @@ for (const path of CASES) {
     expect(judged.closed).toEqual([])
   })
 
-  test(`the ${caseFolder(path)} case pinned again from its own reading is written as it is`, () => {
-    const { pinned, gaps, ...read } = statCase
-    expect(statCaseText(pinnedCaseOf({ ...read, stats: { ...pinned, ...gaps } }))).toBe(text)
+  test(`the ${caseFolder(path)} case is written as a case is written`, () => {
+    expect(statCaseText(statCase)).toBe(text)
   })
 }
