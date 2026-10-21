@@ -6,6 +6,7 @@ export const agentChangeRunning = {
   slug: "agent-change-running",
   definition: "the runner holding an agent change to the arguments that change takes",
   code: "ts",
+  test: "ts",
   addressed: "ts",
   reached: "page-type/change-agent",
   decisions: [
@@ -30,10 +31,10 @@ export const agentChangeRunning = {
       statement: "No change is imported here.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here is proven by a test.",
+      decisionKind: "decision-kind/departure",
+      statement: "A change run over edits kept computes with the code those edits leave.",
     },
   ],
   createdAt: "2026-09-06T17:35:08.549Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-21T11:13:37.603Z",
 } as const satisfies ChangeRunner

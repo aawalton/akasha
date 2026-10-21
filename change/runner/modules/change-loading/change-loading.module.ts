@@ -104,6 +104,10 @@ export const changeLoading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A change loaded over kept edits loads all code as those edits leave it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A change is loaded from the path its code sits at rather than the path named.",
     },
     {
@@ -177,5 +181,5 @@ export const changeLoading = {
     },
   ],
   createdAt: "2026-09-08T14:17:48.690Z",
-  updatedAt: "2026-09-29T02:24:41.000Z",
+  updatedAt: "2026-10-21T11:13:37.603Z",
 } as const satisfies Module

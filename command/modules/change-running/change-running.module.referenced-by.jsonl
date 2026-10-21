@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"change-running.module.code.ts","path":"change/runner/pages/agent-change-running/agent-change-running.change-runner.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-running.module.code.ts","path":"change/runner/pages/agent-change-running/agent-change-running.change-runner.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-running.module.code.ts","path":"check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-running.module.code.ts","path":"command/modules/change-preparing/change-preparing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-running.module.code.ts","path":"command/modules/change-running/change-running.module.test-fixtures.ts","typed":false,"deferred":false}
@@ -9,6 +10,7 @@
 {"propertySlug":"import","fileName":"change-running.module.code.ts","path":"command/pages/story/modules/settle-asking/settle-asking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-running.module.code.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-running.module.code.ts","path":"command/pages/story/tell/story-tell.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-running.module.test-fixtures.ts","path":"change/runner/pages/agent-change-running/agent-change-running.change-runner.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-running.module.test-fixtures.ts","path":"command/modules/change-kind-running/change-kind-running.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-running.module.test-fixtures.ts","path":"command/modules/change-running/change-running.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-running.module.test-fixtures.ts","path":"command/pages/change/repeat/change-repeat.command.test.ts","typed":false,"deferred":false}

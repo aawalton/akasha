@@ -1,11 +1,16 @@
 import {
   type Answer,
+  pathsIn,
   refusing,
   type Said,
   untaken,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { dropped } from "akasha/change/modules/edits-dropping/edits-dropping.module.code.ts"
-import { facingHeld, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import {
+  changeOver,
+  facingHeld,
+  type World,
+} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
   kindOf,
   pageKindOf,
@@ -14,7 +19,11 @@ import {
   narrows,
   slugIn,
 } from "akasha/change/modules/target-narrowing/target-narrowing.module.code.ts"
-import { loadedOff } from "akasha/code/body/modules/body-loading/body-loading.module.code.ts"
+import {
+  type Held,
+  heldOver,
+  loadedOff,
+} from "akasha/code/body/modules/body-loading/body-loading.module.code.ts"
 import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
@@ -51,8 +60,21 @@ export function sittingAt(world: World, path: string): string {
   return path
 }
 
-function exportedFrom(world: World, at: string, named: string): unknown {
-  return loadedOff(world.root, sittingAt(world, at))[named] ?? null
+type Opening = (at: string) => Held
+
+function openedOff(world: World): Opening {
+  return (at) => loadedOff(world.root, sittingAt(world, at))
+}
+
+const CODE_PATH = /\.tsx?$/
+
+function draftsCode(world: World): boolean {
+  return pathsIn(world.over).some((one) => CODE_PATH.test(one))
+}
+
+function openedOver(world: World): Opening {
+  const change = changeOver(world.root, world.over, world.base)
+  return (at) => heldOver(change, sittingAt(world, at), null)
 }
 
 function namingNoPage(address: string): string {
@@ -68,39 +90,54 @@ export type Loaded = {
 
 const LOADED = new WeakMap<World, Map<string, Loaded>>()
 
-export async function loadedAt(world: World, at: string): Promise<Loaded | string> {
+function caught(at: string, loading: () => Loaded | string): Loaded | string {
   try {
-    return loadingAt(world, at)
+    return loading()
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
     return `\`${at}\` threw while its code loaded — ${why}`
   }
 }
 
+export async function loadedAt(world: World, at: string): Promise<Loaded | string> {
+  return caught(at, () => loadingAt(world, at))
+}
+
+export async function loadedOver(world: World, at: string): Promise<Loaded | string> {
+  if (!draftsCode(world)) return await loadedAt(world, at)
+  return caught(at, () => loadingWith(world, at, openedOver(world)))
+}
+
 function loadingAt(world: World, at: string): Loaded | string {
   const held = LOADED.get(world)
   const before = held?.get(at)
   if (before !== undefined) return before
+  const loaded = loadingWith(world, at, openedOff(world))
+  if (typeof loaded === "string") return loaded
+  if (held === undefined) LOADED.set(world, new Map([[at, loaded]]))
+  else held.set(at, loaded)
+  return loaded
+}
+
+function loadingWith(world: World, at: string, open: Opening): Loaded | string {
   const path = codeAt(world, at)
   if (path === null) return namingNoPage(at)
-  const run = exportedFrom(world, path, RUN_CHANGE)
+  const mod = open(path)
+  const run = mod[RUN_CHANGE] ?? null
   if (typeof run !== "function") {
     return `\`${at}\` reaches no change exporting \`${RUN_CHANGE}\``
   }
-  const stated = exportedFrom(world, path, TAKES)
+  const stated = mod[TAKES] ?? null
   const takes = stated === null ? null : stringsIn(stated)
-  const named = exportedFrom(world, path, PASSAGES)
+  const named = mod[PASSAGES] ?? null
   const passages = named === null ? null : stringsIn(named)
-  const lines = stringsIn(exportedFrom(world, path, HELP_LINES))
-  const loaded: Loaded = {
+  const lines = stringsIn(mod[HELP_LINES] ?? null)
+  return {
     run: run as (over: World, asked: unknown) => Said | Promise<Said>,
     ...(takes === null ? {} : { takes }),
     ...(passages === null ? {} : { passages }),
     ...(lines.length === 0 ? {} : { help: lines }),
   }
-  if (held === undefined) LOADED.set(world, new Map([[at, loaded]]))
-  else held.set(at, loaded)
-  return loaded
 }
 
 function untakenIn(given: unknown, takes: readonly string[] | undefined): string | null {

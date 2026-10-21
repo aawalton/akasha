@@ -1,4 +1,4 @@
-import { loadedAt } from "akasha/change/runner/modules/change-loading/change-loading.module.code.ts"
+import { loadedOver } from "akasha/change/runner/modules/change-loading/change-loading.module.code.ts"
 import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   type Applying,
@@ -17,5 +17,5 @@ export async function runAgentChange(
   chosen: Chosen,
   done: string[] = []
 ): Promise<Answer> {
-  return await changing(root, page, agentId, slug, piping, loadedAt, applying, chosen, done)
+  return await changing(root, page, agentId, slug, piping, loadedOver, applying, chosen, done)
 }

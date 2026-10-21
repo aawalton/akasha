@@ -225,6 +225,10 @@ export const changeRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A change run over edits appended before is loaded again over that world.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The edits appended before are folded into one answer to work that world out.",
     },
     {
@@ -367,5 +371,5 @@ export const changeRunning = {
     },
   ],
   createdAt: "2026-09-08T15:07:56.682Z",
-  updatedAt: "2026-09-29T02:24:41.000Z",
+  updatedAt: "2026-10-21T11:13:37.603Z",
 } as const satisfies Module

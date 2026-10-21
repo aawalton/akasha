@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"edits-keeping.module.code.ts","path":"change/agent/folder/move-folder/move-folder.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"edits-keeping.module.code.ts","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"edits-keeping.module.code.ts","path":"change/modules/edits-keeping/edits-keeping.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"edits-keeping.module.code.ts","path":"change/runner/pages/agent-change-running/agent-change-running.change-runner.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"edits-keeping.module.code.ts","path":"change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"edits-keeping.module.code.ts","path":"command/modules/apply-running/apply-running.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"edits-keeping.module.code.ts","path":"command/modules/apply-running/apply-running.module.test.ts","typed":false,"deferred":false}

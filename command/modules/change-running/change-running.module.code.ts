@@ -3,6 +3,7 @@ import { join } from "node:path"
 import {
   type FileChange,
   pathsOf,
+  refusing,
   replayed,
   type Answer as Said,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
@@ -421,7 +422,9 @@ export async function changing(
   let paths = 0
   const answered = await appending(root, page, agentId, owing, async (one) =>
     underIts(slug, stated, async () => {
-      const made = stamped(await ranBy(one, held, passed), owed, owing, checked)
+      const over = one.over.edits.length === 0 ? held : await loading(one, `${type}/${slug}`)
+      if (typeof over === "string") return refusing(over)
+      const made = stamped(await ranBy(one, over, passed), owed, owing, checked)
       paths = new Set(made.edits.flatMap(pathsOf)).size
       return made
     })
