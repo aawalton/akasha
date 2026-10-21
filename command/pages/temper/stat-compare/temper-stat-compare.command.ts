@@ -8,7 +8,7 @@ export const temperStatCompare = {
     "the command setting each of a character's readings beside Temper's estimate, stat by stat",
   code: "ts",
   test: "ts",
-  parts: ["module/unsteady-recovery", "module/advanced-sheet-lines"],
+  parts: ["module/unsteady-recovery", "module/advanced-sheet-lines", "module/reading-stat-case"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -99,6 +99,10 @@ export const temperStatCompare = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Each reading names the stat case pinned from it, where one was.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Each reading shows the advanced stats the game's sheet gave in a section of its own.",
     },
@@ -148,5 +152,5 @@ export const temperStatCompare = {
     { argument: "argument/json" },
   ],
   createdAt: "2026-10-14T14:17:00.259Z",
-  updatedAt: "2026-10-21T01:27:08.469Z",
+  updatedAt: "2026-10-21T01:44:00.751Z",
 } as const satisfies Command

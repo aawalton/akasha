@@ -31,6 +31,10 @@ import {
   sheetRowsOf,
   signed,
 } from "akasha/command/pages/temper/stat-compare/modules/advanced-sheet-lines/advanced-sheet-lines.module.code.ts"
+import {
+  caseKeyOf,
+  statCasesOf,
+} from "akasha/command/pages/temper/stat-compare/modules/reading-stat-case/reading-stat-case.module.code.ts"
 import { unsteadyOf } from "akasha/command/pages/temper/stat-compare/modules/unsteady-recovery/unsteady-recovery.module.code.ts"
 import { temperStatCompare as page } from "akasha/command/pages/temper/stat-compare/temper-stat-compare.command.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -76,6 +80,7 @@ type Compared = {
   readonly sheetRows: readonly SheetRow[]
   readonly unmatchedBuffs: readonly string[]
   readonly unestimated: string | null
+  readonly statCase: string | null
 }
 
 function buildOf(hash: string): CharacterState | null {
@@ -86,7 +91,7 @@ function buildOf(hash: string): CharacterState | null {
   }
 }
 
-function comparedOf(line: ReadingLine): Compared {
+function comparedOf(line: ReadingLine, statCase: string | null): Compared {
   const { reading } = line
   let estimate: ((one: string) => number) | null = null
   let unmatchedBuffs: readonly string[] = []
@@ -120,7 +125,7 @@ function comparedOf(line: ReadingLine): Compared {
       unsettled: isUnsettled(one, reading.fete),
     }))
   const sheetRows = sheetRowsOf(reading, estimate)
-  return { line, build, rows, sheetRows, unmatchedBuffs, unestimated }
+  return { line, build, rows, sheetRows, unmatchedBuffs, unestimated, statCase }
 }
 
 function whenOf(seconds: number): string {
@@ -192,6 +197,7 @@ function configuredLines(one: Compared): readonly string[] {
     `  class passives: ${String(reading.classPassives?.length ?? 0)}`,
     ...curseLines(one.build),
     ...(reading.inArchive === true ? ["  in the Infinite Archive"] : []),
+    ...(one.statCase === null ? [] : [`  stat case: ${one.statCase}`]),
   ]
 }
 
@@ -282,7 +288,10 @@ export async function temperStatCompare(argv: readonly string[], given: Given): 
   if ("refused" in chosen) return refused(`\`${slug}\`: ${chosen.refused}`, INPUT)
 
   await Promise.all([loadSkillCatalog(), loadSetCatalog(), loadMetricCatalog()])
-  const compared = chosen.chosen.map(comparedOf)
+  const cases = statCasesOf(given.root, slug)
+  const compared = chosen.chosen.map((line) =>
+    comparedOf(line, cases.get(caseKeyOf(BARS[line.bar], line.reading.capturedAt)) ?? null)
+  )
 
   if (read.taken.json) {
     return asJson({
@@ -295,6 +304,7 @@ export async function temperStatCompare(argv: readonly string[], given: Given): 
         inCombat: one.line.reading.inCombat,
         unmatchedBuffs: one.unmatchedBuffs,
         unestimated: one.unestimated,
+        statCase: one.statCase,
         stats: one.rows,
         advancedSheet: one.line.reading.advancedSheet ?? null,
         advancedStats: one.sheetRows,

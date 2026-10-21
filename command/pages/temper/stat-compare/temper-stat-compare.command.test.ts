@@ -2,6 +2,10 @@ import { expect, test } from "bun:test"
 import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { advancedSheetLines } from "akasha/command/pages/temper/stat-compare/modules/advanced-sheet-lines/advanced-sheet-lines.module.code.ts"
+import {
+  caseKeyOf,
+  statCasesOf,
+} from "akasha/command/pages/temper/stat-compare/modules/reading-stat-case/reading-stat-case.module.code.ts"
 import { unsteadyOf } from "akasha/command/pages/temper/stat-compare/modules/unsteady-recovery/unsteady-recovery.module.code.ts"
 import {
   characterSheetLines,
@@ -156,6 +160,15 @@ test("a reading's advanced stats are grouped under the panel's categories with t
   expect(lines[7]).toMatch(
     /^ {4}spell-resist +flat-or-percent +19072 +28\.9 +- +- {2}Spell Resistance$/
   )
+})
+
+test("a reading's stat case is found by its character, bar and second", () => {
+  const cases = statCasesOf(ROOT, "erin-solstice")
+
+  expect(cases.get(caseKeyOf("primary-weapon-bar", 1792518434))).toBe(
+    "erin-solstice-normal-well-fitted-shield"
+  )
+  expect(statCasesOf(ROOT, "nobody-at-all").size).toBe(0)
 })
 
 test("a reading keeping no advanced stats says so", () => {

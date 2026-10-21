@@ -2634,6 +2634,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/quest-port-trace/temper-quest-port-trace.command.ts","id":"01a11c7f-285d-7a2e-b753-227f6826b2c1"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/skill-check/temper-skill-check.command.ts","id":"01a1403e-60df-77ff-8125-4bec00af60c9"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/stat-compare/modules/advanced-sheet-lines/advanced-sheet-lines.module.ts","id":"01a15c11-bbb5-7441-a9f5-f941d02d79a0"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/stat-compare/modules/reading-stat-case/reading-stat-case.module.ts","id":"01a15c21-2df0-780a-bd99-915c26b8edc2"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/stat-compare/modules/unsteady-recovery/unsteady-recovery.module.ts","id":"01a159ad-610a-7000-b340-6e4e4e86b030"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/stat-compare/temper-stat-compare.command.ts","id":"01a13ac6-0c63-7b9c-bc03-6035eeeed9e2"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/tooltip-compare/temper-tooltip-compare.command.ts","id":"01a15c14-50a3-71a2-a7f0-58917ebc0bf7"}
