@@ -154,7 +154,7 @@ function lectureEnded(): Promise<number> {
   return new Promise((resolve) => ENDING.push(resolve))
 }
 
-export function recordedSaid(course: Course): string {
+function recordedSaid(course: Course): string {
   return `Recorded ${course.lecturesWatched} / ${course.lectures} lectures.`
 }
 
