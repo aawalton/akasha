@@ -316,13 +316,22 @@ function damagePowerOf(
   return power + Math.round((base + flat) * grown) - Math.round(base * grown)
 }
 
+const SHIELD_PER_STACK: Readonly<Record<string, number>> = {
+  Landslide: 1,
+}
+
 function shieldOf(
   equation: Equation,
   worked: number,
   stats: EquationStats,
-  held: ReadonlySet<string>
+  held: ReadonlySet<string>,
+  active: ActiveHeld
 ): number {
-  const shield = Math.floor(bonusOf(equation, held) * worked)
+  const stacked = Object.entries(active.stacks).reduce(
+    (sum, [buff, stacks]) => sum + (SHIELD_PER_STACK[buff] ?? 0) * stacks,
+    0
+  )
+  const shield = Math.floor((bonusOf(equation, held) + stacked / 100) * worked)
   return equation.tags.includes(HALF_HEALTH)
     ? Math.min(shield, Math.floor(stats.health / 2))
     : shield
@@ -343,7 +352,7 @@ function tooltipValueOf(
     const kept = worked + longerBy(equation, passives)
     return equation.tags.includes(SHIELD) ? Math.round(bonusOf(equation, passives) * kept) : kept
   }
-  if (equation.tags.includes(SHIELD)) return shieldOf(equation, worked, stats, passives)
+  if (equation.tags.includes(SHIELD)) return shieldOf(equation, worked, stats, passives, active)
   const healing = equation.tags.includes(HEAL)
   const base = healing ? healOf(equation, { ...stats, maxPower }) : worked
   const bonused = bonusOf(equation, passives, active) * stackedOf(equation, active) * base

@@ -150,6 +150,30 @@ test("a damage shield rounds down, grows with Bastion slotted, and a capped one 
   expect(shield("<<1>> = 0.1 MaxStat (Dmg)", new Set(["bastion"]))).toBe(2000)
 })
 
+test("each stack of Landslide makes a damage shield 1% stronger, added to Bastion", () => {
+  const brawler = "<<2>> = 0.08 MaxStat + 0.84 MaxPower (DmgShield, SingleTarget, Direct)"
+  const worked = (stacks: number) => {
+    const active = {
+      ...NOTHING_ACTIVE,
+      buffs: new Set(["Landslide"]),
+      stacks: { Landslide: stacks },
+    }
+    const paired = tooltipPairingOf(
+      "absorbs |cffffff1|r",
+      [brawler],
+      STATS,
+      new Set(["bastion"]),
+      active
+    )
+    return paired.paired ? paired.numbers[0]?.temper : undefined
+  }
+  const raw = 0.08 * 20000 + 0.84 * 5000
+
+  expect(worked(12)).toBe(Math.floor((1 + 15 / 100 + 12 / 100) * raw))
+  expect(worked(12)).toBeLessThan(Math.floor(1.15 * 1.12 * raw))
+  expect(worked(0)).toBe(Math.floor((1 + 15 / 100) * raw))
+})
+
 test("a shield's percent constant grows with Bastion slotted and is rounded", () => {
   const wall = ["<<5>> = 30% (Constant, DmgShield)"]
   const worked = (held: ReadonlySet<string>) => {
