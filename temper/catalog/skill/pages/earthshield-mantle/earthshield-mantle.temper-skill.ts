@@ -20,13 +20,13 @@ export const earthshieldMantle = {
   skillType: "temper-skill-type/active",
   hashPlace: 391,
   createdAt: "2026-05-26T03:13:12.285Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T15:58:06.660Z",
   equations: [
     "<<1>> = 100 (Constant)",
     "<<2>> = Major Resolve (Constant)",
     "<<3>> = 5948 (Constant)",
     "<<4>> = 20 seconds (Constant)",
-    "<<5>> = 0.3099 Health (Health, RankMod(1), DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
+    "<<5>> = 0.3099 Health (Health, RankMod(1), DmgShield, SingleTarget, Direct, 6s duration, R2 = 1, rank IV)",
     "<<6>> = 6 seconds (Constant)",
   ],
 } as const satisfies TemperSkill

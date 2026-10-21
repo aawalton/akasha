@@ -20,12 +20,12 @@ export const shieldedAssault38401 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1170,
   createdAt: "2026-05-28T16:03:33.758Z",
-  updatedAt: "2026-10-21T12:39:51.927Z",
+  updatedAt: "2026-10-21T15:58:06.660Z",
   equations: [
     "<<1>> = 0.06198 MaxStat + 0.65079 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1, single precision)",
     "<<2>> = 3 seconds (Constant)",
     "<<3>> = 0.5 seconds (Constant)",
-    "<<4>> = 0.309879 Health + 0.0432554 (Health, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
+    "<<4>> = 0.3099 Health (Health, DmgShield, SingleTarget, Direct, 6s duration, rank IV)",
     "<<5>> = 6 seconds (Constant)",
   ],
 } as const satisfies TemperSkill
