@@ -28,11 +28,7 @@ export const charactersClassMastery = {
       decisionKind: "decision-kind/departure",
       statement: "A passive's text plans a case and is never a verified case.",
     },
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement: "The first three readings of a session carry the class mastery lines.",
-    },
   ],
   createdAt: "2026-10-20T15:50:01.460Z",
-  updatedAt: "2026-10-20T15:50:01.460Z",
+  updatedAt: "2026-10-21T13:40:26.889Z",
 } as const satisfies Module

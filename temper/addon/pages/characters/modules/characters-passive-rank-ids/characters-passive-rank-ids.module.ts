@@ -21,12 +21,7 @@ export const charactersPassiveRankIds = {
       decisionKind: "decision-kind/departure",
       statement: "A passive with no ability id at its first rank is left out.",
     },
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement:
-        "The first three readings of a session carry every passive's ability id at each rank.",
-    },
   ],
   createdAt: "2026-10-20T16:40:45.798Z",
-  updatedAt: "2026-10-20T16:40:45.798Z",
+  updatedAt: "2026-10-21T13:40:26.889Z",
 } as const satisfies Module

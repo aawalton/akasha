@@ -15,11 +15,7 @@ const PASSIVE_SKILL_TYPES = [
 
 const PASSIVE_RANKS_TRIED = 10
 
-const READINGS_CARRYING_RANK_IDS = 3
-
-let readingsCarriedRankIds = 0
-
-function passiveRankIds(): number[][] {
+export function passiveRankIds(): number[][] {
   const passives: number[][] = []
   for (const skillType of PASSIVE_SKILL_TYPES) {
     const lines = GetNumSkillLines(skillType)
@@ -38,10 +34,4 @@ function passiveRankIds(): number[][] {
     }
   }
   return passives
-}
-
-export function passiveRankIdsOnce(): number[][] {
-  if (readingsCarriedRankIds >= READINGS_CARRYING_RANK_IDS) return []
-  readingsCarriedRankIds++
-  return passiveRankIds()
 }

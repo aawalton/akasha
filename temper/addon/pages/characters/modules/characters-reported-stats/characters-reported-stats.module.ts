@@ -180,6 +180,10 @@ export const charactersReportedStats = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every reading kept carries the class mastery lines and every passive's rank ids.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reading keeps the build hash worked out in the same capture as its stats.",
     },
     {
@@ -213,5 +217,5 @@ export const charactersReportedStats = {
     },
   ],
   createdAt: "2026-10-14T14:03:56.194Z",
-  updatedAt: "2026-10-21T12:49:27.974Z",
+  updatedAt: "2026-10-21T13:40:26.889Z",
 } as const satisfies Module

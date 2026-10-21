@@ -32,7 +32,7 @@ function passivesOn(lineIndex: number): ClassMasteryPassive[] {
   return passives
 }
 
-function classMasteryLines(): ClassMasteryLine[] {
+export function classMasteryLines(): ClassMasteryLine[] {
   const lines: ClassMasteryLine[] = []
   const count = GetNumSkillLines(SKILL_TYPE_CLASS)
   for (let lineIndex = 1; lineIndex <= count; lineIndex++) {
@@ -47,14 +47,4 @@ function classMasteryLines(): ClassMasteryLine[] {
     })
   }
   return lines
-}
-
-const READINGS_CARRYING_LINES = 3
-
-let readingsCarriedLines = 0
-
-export function classMasteryOnce(): ClassMasteryLine[] {
-  if (readingsCarriedLines >= READINGS_CARRYING_LINES) return []
-  readingsCarriedLines++
-  return classMasteryLines()
 }

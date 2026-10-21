@@ -9,14 +9,14 @@ import {
   otherPassives,
 } from "akasha/temper/addon/pages/characters/modules/characters-bought-passives/characters-bought-passives.module.code.ts"
 import { characterSheet } from "akasha/temper/addon/pages/characters/modules/characters-character-sheet/characters-character-sheet.module.code.ts"
-import { classMasteryOnce } from "akasha/temper/addon/pages/characters/modules/characters-class-mastery/characters-class-mastery.module.code.ts"
+import { classMasteryLines } from "akasha/temper/addon/pages/characters/modules/characters-class-mastery/characters-class-mastery.module.code.ts"
 import { currentCharacterEntry } from "akasha/temper/addon/pages/characters/modules/characters-current-entry/characters-current-entry.module.code.ts"
 import {
   elderDragonAmount,
   healthBefore,
 } from "akasha/temper/addon/pages/characters/modules/characters-elder-dragon-pairing/characters-elder-dragon-pairing.module.code.ts"
 import { feteOf } from "akasha/temper/addon/pages/characters/modules/characters-escalating-fete/characters-escalating-fete.module.code.ts"
-import { passiveRankIdsOnce } from "akasha/temper/addon/pages/characters/modules/characters-passive-rank-ids/characters-passive-rank-ids.module.code.ts"
+import { passiveRankIds } from "akasha/temper/addon/pages/characters/modules/characters-passive-rank-ids/characters-passive-rank-ids.module.code.ts"
 import {
   type Bar,
   settled,
@@ -338,8 +338,8 @@ function readingOf(buildHash: string, [stats, unbonusedStats]: StatsNow) {
 function keptReading(buildHash: string, now: StatsNow, healthPaired = false) {
   return {
     ...readingOf(buildHash, now),
-    passiveRankIds: passiveRankIdsOnce(),
-    classMastery: classMasteryOnce(),
+    passiveRankIds: passiveRankIds(),
+    classMastery: classMasteryLines(),
     healthBefore: healthBefore(),
     healthPaired,
     elderDragonAmount: elderDragonAmount(),
