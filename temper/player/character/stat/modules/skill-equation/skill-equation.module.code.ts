@@ -389,7 +389,7 @@ const FLOORED: readonly Variable[] = ["maxStat", "maxPower"]
 
 const RANK_TAGS: Readonly<Record<string, number>> = { "rank IV": 4 }
 
-const RANK_GROWTH: Readonly<Record<number, number>> = { 4: 1.033 }
+const RANK_GROWTH: Readonly<Record<number, number>> = { 3: 1.022, 4: 1.033 }
 
 function rankedOf(equation: Equation, rank: number | undefined): number | undefined {
   const tag = equation.tags.find((one) => RANK_TAGS[one] !== undefined)

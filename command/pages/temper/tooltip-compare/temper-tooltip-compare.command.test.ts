@@ -115,7 +115,7 @@ test("a ranked heal is worked at the rank the reading gives its skill, or else i
     return compared?.pairing?.paired === true ? compared.pairing.numbers[0]?.temper : undefined
   }
 
-  expect([healed(), healed(4), healed(3)]).toEqual([8264, 8264, null])
+  expect([healed(), healed(4), healed(3), healed(2)]).toEqual([8264, 8264, 8175, null])
 })
 
 test("damage tagged rank IV or single precision floors each term in single precision", () => {

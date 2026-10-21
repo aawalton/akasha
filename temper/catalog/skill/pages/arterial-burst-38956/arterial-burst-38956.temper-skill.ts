@@ -20,9 +20,9 @@ export const arterialBurst38956 = {
   skillType: "temper-skill-type/active",
   hashPlace: 52,
   createdAt: "2026-05-28T16:03:31.655Z",
-  updatedAt: "2026-10-21T05:02:44.400Z",
+  updatedAt: "2026-10-21T16:02:37.525Z",
   equations: [
-    "<<1>> = 0.1033 MaxStat + 1.08465 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, SingleTarget, Direct, Melee, R2 = 1)",
+    "<<1>> = 0.1033 MaxStat + 1.08465 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, SingleTarget, Direct, Melee, R2 = 1, rank IV)",
     "<<2>> = Hemorrhaging (Constant)",
     "<<3>> = 33 (Constant)",
     "<<4>> = 50% (Constant)",

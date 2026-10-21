@@ -252,7 +252,11 @@ export const skillEquation = {
     },
     {
       decisionKind: "decision-kind/stopgap",
-      statement: "Only rank IV's growth has been read, so another rank gives no number.",
+      statement: "Only ranks III and IV have been read, so rank I or II gives no number.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Rank III grows a number 2.2% where rank IV grows it 3.3%.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -275,5 +279,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T15:46:00.523Z",
+  updatedAt: "2026-10-21T16:02:37.525Z",
 } as const satisfies Module
