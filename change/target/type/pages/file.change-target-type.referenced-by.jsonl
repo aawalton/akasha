@@ -11,6 +11,7 @@
 {"propertySlug":"change-target-type","path":"change/agent/file/remove-file/remove-file.change-agent.ts","id":"01a07991-8989-7000-8e13-06e6791ebefb"}
 {"propertySlug":"change-target-type","path":"change/agent/file/remove-page-type/remove-page-type.change-agent.ts","id":"01a0783a-11c0-7891-a250-63a80bef1c95"}
 {"propertySlug":"change-target-type","path":"change/agent/file/remove-page/remove-page.change-agent.ts","id":"01a0776d-8d1e-7f93-a0e2-4c566d49f8fd"}
+{"propertySlug":"change-target-type","path":"change/agent/page/add-stat-case-stats/add-stat-case-stats.change-agent.ts","id":"01a15ca0-e8fc-748c-ac53-c96378c6d167"}
 {"propertySlug":"change-target-type","path":"change/agent/page/pin-stat-case-gaps/pin-stat-case-gaps.change-agent.ts","id":"01a15b07-0fa7-733e-b5ea-13e6a8cd3e81"}
 {"propertySlug":"change-target-type","path":"change/agent/page/pin-stat-case/pin-stat-case.change-agent.ts","id":"01a13b71-0505-7295-b80f-664bb22fb765"}
 {"propertySlug":"change-target-type","path":"change/agent/page/pin-tooltip-case-gaps/pin-tooltip-case-gaps.change-agent.ts","id":"01a15c22-e9f4-72f2-acfc-3493433b213f"}

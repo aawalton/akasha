@@ -30,6 +30,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/agent/file/move-pages-under/move-pages-under.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/agent/file/move-pages/move-pages.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/agent/page-type/add-property-to-every-page/add-property-to-every-page.change-agent.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/agent/page/add-stat-case-stats/add-stat-case-stats.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/agent/page/pin-stat-case/pin-stat-case.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/agent/page/pin-tooltip-case/pin-tooltip-case.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.test.ts","typed":false,"deferred":false}

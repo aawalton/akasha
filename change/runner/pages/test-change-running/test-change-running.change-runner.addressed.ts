@@ -35,6 +35,9 @@ export type Changes = {
   "change-agent/add-property-values": Parameters<
     typeof import("akasha/change/agent/file-content/add-property-values/add-property-values.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/add-stat-case-stats": Parameters<
+    typeof import("akasha/change/agent/page/add-stat-case-stats/add-stat-case-stats.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/append-lines": Parameters<
     typeof import("akasha/change/agent/file-content/append-lines/append-lines.change-agent.code.ts")["runChange"]
   >[1]

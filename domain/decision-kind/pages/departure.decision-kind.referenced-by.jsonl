@@ -1426,6 +1426,7 @@
 {"propertySlug":"decision-kind","path":"change/agent/page-type/rename-page-type/rename-page-type.change-agent.ts","id":"01a0828f-8c20-74d5-b11c-d220948452b4"}
 {"propertySlug":"decision-kind","path":"change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.ts","id":"01a095a8-fcf7-7a63-8a11-80ee5c1a3025"}
 {"propertySlug":"decision-kind","path":"change/agent/page-type/unquote-text-on-every-page/unquote-text-on-every-page.change-agent.ts","id":"01a0e189-620e-72ae-b4cb-00cc07319d6f"}
+{"propertySlug":"decision-kind","path":"change/agent/page/add-stat-case-stats/add-stat-case-stats.change-agent.ts","id":"01a15ca0-e8fc-748c-ac53-c96378c6d167"}
 {"propertySlug":"decision-kind","path":"change/agent/page/generate-foods-and-drinks/generate-foods-and-drinks.change-agent.ts","id":"01a15a11-801f-76e8-8e38-9513600136bd"}
 {"propertySlug":"decision-kind","path":"change/agent/page/pin-stat-case-gaps/pin-stat-case-gaps.change-agent.ts","id":"01a15b07-0fa7-733e-b5ea-13e6a8cd3e81"}
 {"propertySlug":"decision-kind","path":"change/agent/page/pin-stat-case/pin-stat-case.change-agent.ts","id":"01a13b71-0505-7295-b80f-664bb22fb765"}

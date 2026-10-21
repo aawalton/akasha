@@ -93,6 +93,7 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/page-type/unquote-text-on-every-page/unquote-text-on-every-page.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/page/add-stat-case-stats/add-stat-case-stats.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/page/generate-foods-and-drinks/generate-foods-and-drinks.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/page/pin-stat-case-gaps/pin-stat-case-gaps.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/page/pin-stat-case/pin-stat-case.change-agent.code.ts","typed":false,"deferred":false}

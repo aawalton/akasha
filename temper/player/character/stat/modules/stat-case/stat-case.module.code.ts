@@ -158,6 +158,12 @@ export function sheetStatsOf(
   return stats
 }
 
+export function statsInOrder(stats: Readonly<Record<string, number>>): Record<string, number> {
+  const ordered: Record<string, number> = {}
+  for (const stat of Object.keys(stats).sort()) ordered[stat] = stats[stat] ?? 0
+  return ordered
+}
+
 export function reproduces(stat: string, estimate: number, game: number): boolean {
   if (sheetPartOf(stat) === "percent") return Math.fround(game / PERCENT) === estimate
   return estimate === game

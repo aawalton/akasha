@@ -10,6 +10,7 @@ import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.co
 import {
   statCaseShape,
   statCaseText,
+  statsInOrder,
 } from "akasha/temper/player/character/stat/modules/stat-case/stat-case.module.code.ts"
 import { verifiedStats } from "akasha/temper/player/character/stat/temper-stat-case/properties/verified-stats.file-property.ts"
 import { temperStatCase } from "akasha/temper/player/character/stat/temper-stat-case/temper-stat-case.page-type.ts"
@@ -19,12 +20,6 @@ const STAT = "stat"
 const CASES = "cases"
 
 type Asked = Readonly<Record<string, string>>
-
-function inOrder(stats: Readonly<Record<string, number>>): Record<string, number> {
-  const ordered: Record<string, number> = {}
-  for (const stat of Object.keys(stats).sort()) ordered[stat] = stats[stat] ?? 0
-  return ordered
-}
 
 function pinnedIn(world: World, slug: string, stat: string): FileChange | string {
   const pageAt = world.index.listedAt(temperStatCase.slug, slug)[0]?.path
@@ -41,7 +36,7 @@ function pinnedIn(world: World, slug: string, stat: string): FileChange | string
   const gap = statCase.gaps[stat]
   if (gap === undefined) return `\`${slug}\` keeps no gap for \`${stat}\``
   const gaps = Object.fromEntries(Object.entries(statCase.gaps).filter(([one]) => one !== stat))
-  const pinned = inOrder({ ...statCase.pinned, [stat]: gap })
+  const pinned = statsInOrder({ ...statCase.pinned, [stat]: gap })
   return {
     kind: "replace",
     path: statsAt,
