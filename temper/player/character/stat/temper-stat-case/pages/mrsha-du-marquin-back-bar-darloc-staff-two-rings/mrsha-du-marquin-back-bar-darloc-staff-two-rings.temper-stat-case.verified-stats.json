@@ -118,6 +118,7 @@
     "magicka-maximum": 13435,
     "magicka-recovery": 800,
     "movement-sneak-speed": 70,
+    "movement-sprint-speed": 144,
     "penetration-physical": 3976,
     "penetration-spell": 3976,
     "power-spell": 2335,
@@ -139,7 +140,6 @@
     "stamina-sprint-cost": 460
   },
   "gaps": {
-    "movement-sprint-speed": 144,
     "sneak-cost": 78
   }
 }
