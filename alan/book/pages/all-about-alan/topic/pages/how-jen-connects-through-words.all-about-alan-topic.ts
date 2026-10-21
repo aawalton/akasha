@@ -9,7 +9,7 @@ export const howJenConnectsThroughWords = {
   parents: ["all-about-alan-topic/living-with-jen"],
   related: ["all-about-alan-topic/the-professor-and-the-child"],
   settled:
-    "We also realized that for Jen, verbalization is directly connected to her emotion and connection system, even more than it is for most people.\n\nThat helps explain why she has such a hard time with people who are not verbally expressive.",
+    "We also realized that for Jen, verbalization is directly connected to her emotion and connection system, even more than it is for most people.\n\nThat helps explain why she has such a hard time with people who are not verbally expressive.\n\nIn general, being close to me in silence has been quite painful and difficult for her. I think on the night of 20 October 2026 it was better because she had a verbal narrative, established beforehand, for what the silence meant, and that fulfilled what she needed.",
   createdAt: "2026-10-21T13:11:21.087Z",
-  updatedAt: "2026-10-21T13:11:21.087Z",
+  updatedAt: "2026-10-21T13:12:42.345Z",
 } as const satisfies AllAboutAlanTopic
