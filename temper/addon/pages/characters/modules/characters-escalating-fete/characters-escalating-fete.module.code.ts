@@ -3,7 +3,7 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 
 const ESCALATING_FETE = 155176
 
-export type Fete = {
+type Fete = {
   stacks: number
   changedMsAgo?: number
 }
