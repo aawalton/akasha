@@ -331,12 +331,21 @@ function shieldBonusOf(equation: Equation, held: ReadonlySet<string>, active: Ac
 
 function shieldOf(
   equation: Equation,
-  worked: number,
   stats: EquationStats,
   held: ReadonlySet<string>,
-  active: ActiveHeld
-): number {
-  const shield = Math.floor(shieldBonusOf(equation, held, active) * worked)
+  active: ActiveHeld,
+  rank: number | undefined
+): number | undefined {
+  const single = Math.fround
+  const summed = equation.terms.reduce(
+    (sum, [variable, by]) => sum + Math.floor(single(single(by) * stats[variable])),
+    equation.constant
+  )
+  const bonused = Math.round(single(single(shieldBonusOf(equation, held, active)) * summed))
+  const ranked = rankedOf(equation, rank)
+  const growth = ranked === undefined ? 1 : RANK_GROWTH[ranked]
+  if (growth === undefined) return undefined
+  const shield = ranked === undefined ? bonused : Math.floor(single(single(growth) * bonused))
   return equation.tags.includes(HALF_HEALTH)
     ? Math.min(shield, Math.floor(stats.health / 2))
     : shield
@@ -359,7 +368,9 @@ function tooltipValueOf(
     if (!equation.tags.includes(SHIELD)) return kept
     return Math.round(shieldBonusOf(equation, passives, active) * kept)
   }
-  if (equation.tags.includes(SHIELD)) return shieldOf(equation, worked, stats, passives, active)
+  if (equation.tags.includes(SHIELD)) {
+    return shieldOf(equation, { ...stats, maxPower }, passives, active, rank)
+  }
   const healing = equation.tags.includes(HEAL)
   const ranked = rankedOf(equation, rank)
   if (healing && ranked !== undefined) {

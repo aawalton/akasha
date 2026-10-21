@@ -136,7 +136,7 @@ test("a tooltip naming more or fewer numbers than the equations do is left unpai
   })
 })
 
-test("a damage shield rounds down, grows with Bastion slotted, and a capped one stops at half Health", () => {
+test("a damage shield floors each term, grows with Bastion and rank IV, and stops at half Health", () => {
   const shield = (line: string, held: ReadonlySet<string>, health = 40000) => {
     const paired = tooltipPairingOf("absorbs |cffffff1|r", [line], { ...STATS, health }, held)
     return paired.paired ? paired.numbers[0]?.temper : undefined
@@ -145,7 +145,8 @@ test("a damage shield rounds down, grows with Bastion slotted, and a capped one 
   const raw = 0.139474 * 20000 + 1.46406 * 5000
 
   expect(shield(fatecarver, new Set())).toBe(Math.floor(raw))
-  expect(shield(fatecarver, new Set(["bastion"]))).toBe(Math.floor(1.15 * raw))
+  expect(shield(fatecarver, new Set(["bastion"]))).toBe(11625)
+  expect(shield(fatecarver.replace("Health)", "Health, rank IV)"), new Set())).toBe(10442)
   expect(shield(fatecarver, new Set(), 19394)).toBe(9697)
   expect(shield("<<1>> = 0.1 MaxStat (Dmg)", new Set(["bastion"]))).toBe(2000)
 })
@@ -171,7 +172,7 @@ test("each stack of Landslide makes a damage shield 1% stronger, added to Bastio
 
   expect(worked(12)).toBe(Math.floor((1 + 15 / 100 + 12 / 100) * raw))
   expect(worked(12)).toBeLessThan(Math.floor(1.15 * 1.12 * raw))
-  expect(worked(0)).toBe(Math.floor((1 + 15 / 100) * raw))
+  expect(worked(0)).toBe(6670)
 })
 
 test("a shield's percent constant grows with Bastion slotted and is rounded", () => {

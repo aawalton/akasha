@@ -45,7 +45,15 @@ export const skillEquation = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A damage shield is rounded down, after the bonuses the build holds multiply it.",
+      statement: "A damage shield rounds each term down in single precision, as the game holds it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The bonuses the build holds then multiply that shield, and it is rounded.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shield tagged `rank IV` then grows 3.3%, rounded down, as a heal does.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -193,7 +201,7 @@ export const skillEquation = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A heal tagged with a rank is worked at the rank its reading gives the skill.",
+      statement: "A heal or shield tagged with a rank is worked at the rank its reading gives.",
     },
     {
       decisionKind: "decision-kind/stopgap",
@@ -202,7 +210,7 @@ export const skillEquation = {
     },
     {
       decisionKind: "decision-kind/stopgap",
-      statement: "Only rank IV's growth has been read, so a heal at another rank gives no number.",
+      statement: "Only rank IV's growth has been read, so another rank gives no number.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -235,5 +243,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T09:32:18.196Z",
+  updatedAt: "2026-10-21T09:46:28.489Z",
 } as const satisfies Module
