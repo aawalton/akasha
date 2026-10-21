@@ -20,11 +20,11 @@ export const magmaShell17874 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 795,
   createdAt: "2026-05-28T16:03:33.067Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T07:42:22.785Z",
   equations: [
     "<<1>> = 3 (Constant)",
     "<<2>> = 15 seconds (Constant)",
-    "<<3>> = 130 (Constant)",
+    "<<3>> = 133% (Constant, DmgShield)",
     "<<4>> = 10 seconds (Constant)",
   ],
 } as const satisfies TemperSkill

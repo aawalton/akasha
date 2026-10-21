@@ -320,6 +320,14 @@ const SHIELD_PER_STACK: Readonly<Record<string, number>> = {
   Landslide: 1,
 }
 
+function shieldBonusOf(equation: Equation, held: ReadonlySet<string>, active: ActiveHeld): number {
+  const stacked = Object.entries(active.stacks).reduce(
+    (sum, [buff, stacks]) => sum + (SHIELD_PER_STACK[buff] ?? 0) * stacks,
+    0
+  )
+  return bonusOf(equation, held) + stacked / 100
+}
+
 function shieldOf(
   equation: Equation,
   worked: number,
@@ -327,11 +335,7 @@ function shieldOf(
   held: ReadonlySet<string>,
   active: ActiveHeld
 ): number {
-  const stacked = Object.entries(active.stacks).reduce(
-    (sum, [buff, stacks]) => sum + (SHIELD_PER_STACK[buff] ?? 0) * stacks,
-    0
-  )
-  const shield = Math.floor((bonusOf(equation, held) + stacked / 100) * worked)
+  const shield = Math.floor(shieldBonusOf(equation, held, active) * worked)
   return equation.tags.includes(HALF_HEALTH)
     ? Math.min(shield, Math.floor(stats.health / 2))
     : shield
@@ -350,7 +354,8 @@ function tooltipValueOf(
   if (worked === undefined) return undefined
   if (!equation.scaled) {
     const kept = worked + longerBy(equation, passives)
-    return equation.tags.includes(SHIELD) ? Math.round(bonusOf(equation, passives) * kept) : kept
+    if (!equation.tags.includes(SHIELD)) return kept
+    return Math.round(shieldBonusOf(equation, passives, active) * kept)
   }
   if (equation.tags.includes(SHIELD)) return shieldOf(equation, worked, stats, passives, active)
   const healing = equation.tags.includes(HEAL)

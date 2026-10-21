@@ -185,6 +185,18 @@ test("a shield's percent constant grows with Bastion slotted and is rounded", ()
   expect(worked(new Set())).toBe(30)
 })
 
+test("a shield's percent constant grows with each stack of Landslide too", () => {
+  const shell = ["<<3>> = 133% (Constant, DmgShield)"]
+  const worked = (stacks: number) => {
+    const active = { ...NOTHING_ACTIVE, stacks: { Landslide: stacks } }
+    const paired = tooltipPairingOf("for |cffffff1|r%", shell, STATS, new Set(["bastion"]), active)
+    return paired.paired ? paired.numbers[0]?.temper : undefined
+  }
+
+  expect(worked(0)).toBe(153)
+  expect(worked(12)).toBe(169)
+})
+
 test("direct damage grows with the damage stars slotted and rounds down", () => {
   const lash = "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Dmg, Flame, AOE, Direct)"
   const worked = (held: ReadonlySet<string>) => {
