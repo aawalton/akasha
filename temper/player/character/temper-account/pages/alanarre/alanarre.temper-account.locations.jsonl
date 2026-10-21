@@ -1,43 +1,43 @@
-{"id":"01a15e0c-a406-7000-8cab-37477dcadd3b","locationId":"8796093022338107","displayName":"Erin Solstice","lastScannedAt":"2026-10-21T10:30:08.000Z"}
-{"id":"01a15e0c-a406-7001-8c1f-bae391e2f934","locationId":"8796093022613905","displayName":"Three-Color Stalker","lastScannedAt":"2026-10-21T10:26:00.000Z"}
-{"id":"01a15e0c-a406-7002-bcc9-08a59e19aef7","locationId":"8796093022859597","displayName":"Serafierre","lastScannedAt":"2026-10-20T16:05:23.000Z"}
-{"id":"01a15e0c-a406-7003-bd36-8bdfa1db2740","locationId":"8796093024330045","displayName":"Maviola El","lastScannedAt":"2026-10-20T16:24:19.000Z"}
-{"id":"01a15e0c-a406-7004-a8b4-4bc1707ae661","locationId":"8796093025086465","displayName":"Durene Faerise","lastScannedAt":"2026-10-20T19:36:53.000Z"}
-{"id":"01a15e0c-a406-7005-90a3-783cede25d72","locationId":"8796093025190173","displayName":"Lyonette du Marquín","lastScannedAt":"2026-10-21T10:17:44.000Z"}
-{"id":"01a15e0c-a406-7006-b6fc-391742dd8085","locationId":"8796093025191233","displayName":"Valeterisa","lastScannedAt":"2026-10-21T10:33:08.000Z"}
-{"id":"01a15e0c-a406-7007-9a57-2b3c097c9ffc","locationId":"8796093038720681","displayName":"Archmage Amerys","lastScannedAt":"2026-10-20T16:44:34.000Z"}
-{"id":"01a15e0c-a406-7008-8505-226a915125f8","locationId":"8796093041077507","displayName":"Yvlon Byrès","lastScannedAt":"2026-10-21T10:16:38.000Z"}
-{"id":"01a15e0c-a406-7009-906a-ed7dfe903fc1","locationId":"8796093041077613","displayName":"Nirayicel","lastScannedAt":"2026-10-21T10:21:25.000Z"}
-{"id":"01a15e0c-a406-700a-b760-2f45dad527af","locationId":"8796093041077699","displayName":"Rafaema Coloseuvia","lastScannedAt":"2026-10-20T14:57:29.000Z"}
-{"id":"01a15e0c-a406-700b-a53e-c636d39fdd95","locationId":"8796093041077793","displayName":"The Quarass","lastScannedAt":"2026-10-20T16:46:27.000Z"}
-{"id":"01a15e0c-a406-700c-b4fc-e0918055081a","locationId":"8796093045924843","displayName":"Mrsha du Marquín","lastScannedAt":"2026-10-20T19:52:21.000Z"}
-{"id":"01a15e0c-a406-700d-b94a-2388ecd95ead","locationId":"8796093045974297","displayName":"Ceria Springwater","lastScannedAt":"2026-10-20T14:27:01.000Z"}
-{"id":"01a15e0c-a406-700e-80d7-d058b691f9c0","locationId":"8796093049297261","displayName":"Shaestrel","lastScannedAt":"2026-10-20T14:24:52.000Z"}
-{"id":"01a15e0c-a406-700f-9e91-5f68fad1e4d4","locationId":"8796093063486709","displayName":"Seraphel du Marquín","lastScannedAt":"2026-10-21T10:35:20.000Z"}
-{"id":"01a15e0c-a406-7010-9f95-1f1165149a36","locationId":"8796093063486855","displayName":"Khelta the Eternal","lastScannedAt":"2026-10-21T10:40:21.000Z"}
-{"id":"01a15e0c-a406-7011-bbae-9597a04ff31d","locationId":"8796093063486895","displayName":"Belavierr","lastScannedAt":"2026-10-21T10:24:54.000Z"}
-{"id":"01a15e0c-a406-7012-992a-24c4047a464c","locationId":"8796093072548641","displayName":"The Death of Magic","lastScannedAt":"2026-10-20T13:59:00.000Z"}
-{"id":"01a15e0c-a406-7013-ab16-5c404746143e","locationId":"8796093072550001","displayName":"The Death of Chains","lastScannedAt":"2026-10-20T17:01:12.000Z"}
-{"id":"01a15e0c-a406-7014-9aa1-f69bbb2ea854","locationId":"Bank","displayName":"Bank","lastScannedAt":"2026-10-21T10:28:50.000Z"}
-{"id":"01a15e0c-a406-7015-8d11-f71930ce854f","locationId":"Companion:Azandar","displayName":"Azandar","lastScannedAt":"2026-09-24T18:02:10.000Z"}
-{"id":"01a15e0c-a406-7016-ab46-50c69f651bb0","locationId":"Companion:Bastian Hallix","displayName":"Bastian Hallix","lastScannedAt":"2026-10-11T11:44:44.000Z"}
-{"id":"01a15e0c-a406-7017-be58-0c0534ee8742","locationId":"Companion:Ember","displayName":"Ember","lastScannedAt":"2026-09-22T17:59:10.000Z"}
-{"id":"01a15e0c-a406-7018-bc22-c444a3309ad5","locationId":"Companion:Isobel Veloise","displayName":"Isobel Veloise","lastScannedAt":"2026-10-20T15:14:07.000Z"}
-{"id":"01a15e0c-a406-7019-b4b7-9f80dddb6c7b","locationId":"Companion:Mirri Elendis","displayName":"Mirri Elendis","lastScannedAt":"2026-10-20T16:20:28.000Z"}
-{"id":"01a15e0c-a406-701a-8556-a35650388d01","locationId":"Companion:Sharp-as-Night","displayName":"Sharp-as-Night","lastScannedAt":"2026-09-22T16:50:13.000Z"}
-{"id":"01a15e0c-a406-701b-b979-aa7d89d89983","locationId":"Companion:Tanlorin","displayName":"Tanlorin","lastScannedAt":"2026-10-20T19:14:49.000Z"}
-{"id":"01a15e0c-a406-701c-9d06-be8cfa2ecd8b","locationId":"Companion:Zerith-var","displayName":"Zerith-var","lastScannedAt":"2026-10-11T11:49:11.000Z"}
-{"id":"01a15e0c-a406-701d-8caf-4bb0a6c09df1","locationId":"CraftBag","displayName":"Crafting Bag","lastScannedAt":"2026-10-21T10:40:21.000Z"}
-{"id":"01a15e0c-a406-701e-aac8-4e2a01d76f5c","locationId":"FurnitureVault","displayName":"Furniture Vault","lastScannedAt":"2026-10-19T21:56:45.000Z"}
-{"id":"01a15e0c-a406-701f-947c-6b5b6f448c68","locationId":"House:Grand Psijic Villa","displayName":"Grand Psijic Villa","lastScannedAt":"2026-10-21T10:36:09.000Z"}
-{"id":"01a15e0c-a406-7020-ba9b-51fcfdd80d0e","locationId":"House:Sheogorad Chateau","displayName":"Sheogorad Chateau","lastScannedAt":"2026-10-08T13:25:44.000Z"}
-{"id":"01a15e0c-a406-7021-91d9-93c28db38a86","locationId":"House:Snugpod","displayName":"Snugpod","lastScannedAt":"2026-09-15T17:59:26.000Z"}
-{"id":"01a15e0c-a406-7022-8cb3-5240fd0c2abe","locationId":"HouseBank:5462:4673","displayName":"Empty","lastScannedAt":"2026-10-21T10:28:50.000Z"}
-{"id":"01a15e0c-a406-7023-a10a-6e9b56d36627","locationId":"HouseBank:5462:4674","displayName":"Potions and Poisons","lastScannedAt":"2026-10-21T10:28:50.000Z"}
-{"id":"01a15e0c-a406-7024-ac26-8462f1953323","locationId":"HouseBank:5462:4675","displayName":"Food and Drink","lastScannedAt":"2026-10-21T10:28:50.000Z"}
-{"id":"01a15e0c-a406-7025-8644-8b6cd3b02976","locationId":"HouseBank:5462:4676","displayName":"Wealth","lastScannedAt":"2026-10-21T10:28:50.000Z"}
-{"id":"01a15e0c-a406-7026-9760-fdd1e3d571a1","locationId":"HouseBank:5462:4677","displayName":"Empty","lastScannedAt":"2026-10-21T10:28:50.000Z"}
-{"id":"01a15e0c-a406-7027-97c4-ea7dc84523c8","locationId":"HouseBank:5462:4678","displayName":"Crown Items","lastScannedAt":"2026-10-21T10:28:50.000Z"}
-{"id":"01a15e0c-a406-7028-9aa3-c617ea26db4f","locationId":"HouseBank:5462:4679","displayName":"Companion Gear","lastScannedAt":"2026-10-21T10:28:50.000Z"}
-{"id":"01a15e0c-a406-7029-b47e-7fff7eb4fad8","locationId":"HouseBank:5462:4680","displayName":"Trophies","lastScannedAt":"2026-10-21T10:28:50.000Z"}
-{"id":"01a15e0c-a406-702a-822f-294ff1e312c6","locationId":"Walton Mountain","displayName":"Walton Mountain","lastScannedAt":"2026-10-10T14:30:24.000Z"}
+{"id":"01a15e12-8b93-7000-96ce-87ea64ff684c","locationId":"8796093022338107","displayName":"Erin Solstice","lastScannedAt":"2026-10-21T10:46:44.000Z"}
+{"id":"01a15e12-8b93-7001-90dc-7c7477e0ddea","locationId":"8796093022613905","displayName":"Three-Color Stalker","lastScannedAt":"2026-10-21T10:26:00.000Z"}
+{"id":"01a15e12-8b93-7002-9af4-92106b128c20","locationId":"8796093022859597","displayName":"Serafierre","lastScannedAt":"2026-10-20T16:05:23.000Z"}
+{"id":"01a15e12-8b93-7003-866a-0185a9203f9d","locationId":"8796093024330045","displayName":"Maviola El","lastScannedAt":"2026-10-20T16:24:19.000Z"}
+{"id":"01a15e12-8b93-7004-b771-a9c320a33fdf","locationId":"8796093025086465","displayName":"Durene Faerise","lastScannedAt":"2026-10-20T19:36:53.000Z"}
+{"id":"01a15e12-8b93-7005-9d1f-546d21997dbd","locationId":"8796093025190173","displayName":"Lyonette du Marquín","lastScannedAt":"2026-10-21T10:17:44.000Z"}
+{"id":"01a15e12-8b93-7006-b66c-040ddb9a6408","locationId":"8796093025191233","displayName":"Valeterisa","lastScannedAt":"2026-10-21T10:33:08.000Z"}
+{"id":"01a15e12-8b93-7007-9ea4-03eef43f6ed0","locationId":"8796093038720681","displayName":"Archmage Amerys","lastScannedAt":"2026-10-20T16:44:34.000Z"}
+{"id":"01a15e12-8b93-7008-b3ea-c3d012ed3676","locationId":"8796093041077507","displayName":"Yvlon Byrès","lastScannedAt":"2026-10-21T10:16:38.000Z"}
+{"id":"01a15e12-8b93-7009-b2b2-c6cebeb87a58","locationId":"8796093041077613","displayName":"Nirayicel","lastScannedAt":"2026-10-21T10:21:25.000Z"}
+{"id":"01a15e12-8b93-700a-b607-87f5851854b0","locationId":"8796093041077699","displayName":"Rafaema Coloseuvia","lastScannedAt":"2026-10-20T14:57:29.000Z"}
+{"id":"01a15e12-8b93-700b-9af8-8ad413e61a13","locationId":"8796093041077793","displayName":"The Quarass","lastScannedAt":"2026-10-20T16:46:27.000Z"}
+{"id":"01a15e12-8b93-700c-a6c4-98b4f19a0ff1","locationId":"8796093045924843","displayName":"Mrsha du Marquín","lastScannedAt":"2026-10-20T19:52:21.000Z"}
+{"id":"01a15e12-8b93-700d-ac34-a85230d65d3c","locationId":"8796093045974297","displayName":"Ceria Springwater","lastScannedAt":"2026-10-20T14:27:01.000Z"}
+{"id":"01a15e12-8b93-700e-9900-bebfb95c9706","locationId":"8796093049297261","displayName":"Shaestrel","lastScannedAt":"2026-10-20T14:24:52.000Z"}
+{"id":"01a15e12-8b93-700f-a4ea-a5307577eb59","locationId":"8796093063486709","displayName":"Seraphel du Marquín","lastScannedAt":"2026-10-21T10:35:20.000Z"}
+{"id":"01a15e12-8b93-7010-a96c-c28c71826ee9","locationId":"8796093063486855","displayName":"Khelta the Eternal","lastScannedAt":"2026-10-21T10:40:21.000Z"}
+{"id":"01a15e12-8b93-7011-8daf-7562f6fd877e","locationId":"8796093063486895","displayName":"Belavierr","lastScannedAt":"2026-10-21T10:24:54.000Z"}
+{"id":"01a15e12-8b93-7012-bf57-cec5d5b55668","locationId":"8796093072548641","displayName":"The Death of Magic","lastScannedAt":"2026-10-20T13:59:00.000Z"}
+{"id":"01a15e12-8b93-7013-818c-1e520fc077c4","locationId":"8796093072550001","displayName":"The Death of Chains","lastScannedAt":"2026-10-20T17:01:12.000Z"}
+{"id":"01a15e12-8b93-7014-8857-c6c283715ae2","locationId":"Bank","displayName":"Bank","lastScannedAt":"2026-10-21T10:28:50.000Z"}
+{"id":"01a15e12-8b93-7015-909d-5715dc838b77","locationId":"Companion:Azandar","displayName":"Azandar","lastScannedAt":"2026-09-24T18:02:10.000Z"}
+{"id":"01a15e12-8b93-7016-828a-372853823193","locationId":"Companion:Bastian Hallix","displayName":"Bastian Hallix","lastScannedAt":"2026-10-11T11:44:44.000Z"}
+{"id":"01a15e12-8b93-7017-b0f0-48a6f2c5e3dd","locationId":"Companion:Ember","displayName":"Ember","lastScannedAt":"2026-09-22T17:59:10.000Z"}
+{"id":"01a15e12-8b93-7018-b16c-f9a2ca02a34c","locationId":"Companion:Isobel Veloise","displayName":"Isobel Veloise","lastScannedAt":"2026-10-20T15:14:07.000Z"}
+{"id":"01a15e12-8b93-7019-9610-ceff8fd4370c","locationId":"Companion:Mirri Elendis","displayName":"Mirri Elendis","lastScannedAt":"2026-10-20T16:20:28.000Z"}
+{"id":"01a15e12-8b93-701a-bf3e-259b702a30ef","locationId":"Companion:Sharp-as-Night","displayName":"Sharp-as-Night","lastScannedAt":"2026-09-22T16:50:13.000Z"}
+{"id":"01a15e12-8b93-701b-9062-c3b2958011fe","locationId":"Companion:Tanlorin","displayName":"Tanlorin","lastScannedAt":"2026-10-20T19:14:49.000Z"}
+{"id":"01a15e12-8b93-701c-8421-9ee875bd1fbf","locationId":"Companion:Zerith-var","displayName":"Zerith-var","lastScannedAt":"2026-10-11T11:49:11.000Z"}
+{"id":"01a15e12-8b93-701d-8fcb-38b723dce4ef","locationId":"CraftBag","displayName":"Crafting Bag","lastScannedAt":"2026-10-21T10:46:44.000Z"}
+{"id":"01a15e12-8b93-701e-9d44-0e097e644e31","locationId":"FurnitureVault","displayName":"Furniture Vault","lastScannedAt":"2026-10-19T21:56:45.000Z"}
+{"id":"01a15e12-8b93-701f-8c1d-f91ff98c617c","locationId":"House:Grand Psijic Villa","displayName":"Grand Psijic Villa","lastScannedAt":"2026-10-21T10:41:00.000Z"}
+{"id":"01a15e12-8b93-7020-818a-4eea128ffa85","locationId":"House:Sheogorad Chateau","displayName":"Sheogorad Chateau","lastScannedAt":"2026-10-08T13:25:44.000Z"}
+{"id":"01a15e12-8b93-7021-b817-4d5726852256","locationId":"House:Snugpod","displayName":"Snugpod","lastScannedAt":"2026-09-15T17:59:26.000Z"}
+{"id":"01a15e12-8b93-7022-8744-a05d0af99d94","locationId":"HouseBank:5462:4673","displayName":"Empty","lastScannedAt":"2026-10-21T10:28:50.000Z"}
+{"id":"01a15e12-8b93-7023-a69d-ffa62efb447a","locationId":"HouseBank:5462:4674","displayName":"Potions and Poisons","lastScannedAt":"2026-10-21T10:28:50.000Z"}
+{"id":"01a15e12-8b93-7024-b7bf-281af6089deb","locationId":"HouseBank:5462:4675","displayName":"Food and Drink","lastScannedAt":"2026-10-21T10:28:50.000Z"}
+{"id":"01a15e12-8b93-7025-bef9-301aec4e8bcf","locationId":"HouseBank:5462:4676","displayName":"Wealth","lastScannedAt":"2026-10-21T10:28:50.000Z"}
+{"id":"01a15e12-8b93-7026-b93b-261e7dac4174","locationId":"HouseBank:5462:4677","displayName":"Empty","lastScannedAt":"2026-10-21T10:28:50.000Z"}
+{"id":"01a15e12-8b93-7027-9b1c-e45ea06689c6","locationId":"HouseBank:5462:4678","displayName":"Crown Items","lastScannedAt":"2026-10-21T10:28:50.000Z"}
+{"id":"01a15e12-8b93-7028-9a96-b9870216fca4","locationId":"HouseBank:5462:4679","displayName":"Companion Gear","lastScannedAt":"2026-10-21T10:28:50.000Z"}
+{"id":"01a15e12-8b93-7029-a13e-0bb72a101783","locationId":"HouseBank:5462:4680","displayName":"Trophies","lastScannedAt":"2026-10-21T10:28:50.000Z"}
+{"id":"01a15e12-8b93-702a-a119-d440d3742057","locationId":"Walton Mountain","displayName":"Walton Mountain","lastScannedAt":"2026-10-10T14:30:24.000Z"}
