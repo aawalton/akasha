@@ -1,6 +1,6 @@
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 
-export type Landing<Item> = (items: readonly Item[]) => Promise<unknown>
+type Landing<Item> = (items: readonly Item[]) => Promise<unknown>
 
 export type LandingQueue<Item> = {
   readonly add: (items: readonly Item[]) => undefined
