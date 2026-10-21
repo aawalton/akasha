@@ -25,7 +25,7 @@ export type Named = {
   readonly stars: readonly StarPoints[] | null
 }
 
-export type Naming = { readonly named: Named } | { readonly refused: string }
+type Naming = { readonly named: Named } | { readonly refused: string }
 
 export const AS_HASH = "build hash"
 
