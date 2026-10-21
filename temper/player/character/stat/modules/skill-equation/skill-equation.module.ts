@@ -164,6 +164,15 @@ export const skillEquation = {
       statement: "The power grown that way is a whole number, as the stat sheet's power is.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Slayer grows the power of damage tagged `Fighters Guild` 3% a Fighters Guild skill on the bar.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "Only Slayer at rank 3 has been read, so a lower rank is worked as rank 3.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement:
         "Only 0 and 30 points of War Mage and Mighty have been read, so fewer than 30 add nothing.",
@@ -258,5 +267,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T12:30:41.224Z",
+  updatedAt: "2026-10-21T13:23:17.624Z",
 } as const satisfies Module

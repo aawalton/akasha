@@ -10,18 +10,21 @@ export type EquationStats = {
   readonly spellDamage: number
   readonly weaponDamage: number
   readonly healingDone: number
+  readonly powerShare?: number
 }
 
 type Equation = {
   readonly placeholder: number
-  readonly terms: readonly (readonly [keyof EquationStats, number])[]
+  readonly terms: readonly (readonly [Variable, number])[]
   readonly constant: number
   readonly scaled: boolean
   readonly read: boolean
   readonly tags: readonly string[]
 }
 
-const VARIABLES: Readonly<Record<string, keyof EquationStats>> = {
+type Variable = Exclude<keyof EquationStats, "powerShare">
+
+const VARIABLES: Readonly<Record<string, Variable>> = {
   MaxStat: "maxStat",
   MaxPower: "maxPower",
   Health: "health",
@@ -41,7 +44,7 @@ export function equationOf(line: string): Equation | undefined {
   const matched = LINE.exec(line.trim())
   if (matched === null) return undefined
   const [, placeholder, body = "", tagged = ""] = matched
-  const terms: [keyof EquationStats, number][] = []
+  const terms: [Variable, number][] = []
   let constant = 0
   let read = true
   for (const part of body.replace(/ - /g, " + -").split(" + ")) {
@@ -253,12 +256,12 @@ const POWER_STAR = { points: 30, power: 100 }
 
 const WRATHFUL_STRIKES = { held: "wrathful-strikes", power: 205 }
 
-function powerShareOf(held: ReadonlySet<string>, active: ActiveHeld): number {
+function powerShareOf(held: ReadonlySet<string>, active: ActiveHeld, slotted: number): number {
   const buffs = [...active.buffs].reduce((sum, one) => sum + (POWER_BUFFS[one] ?? 0), 0)
   const medium = held.has(POWER_PER_MEDIUM_PIECE.held)
     ? POWER_PER_MEDIUM_PIECE.share * active.mediumPieces
     : 0
-  return buffs + medium
+  return buffs + medium + slotted
 }
 
 function isDirectDamage(equation: Equation): boolean {
@@ -300,7 +303,8 @@ function damagePowerOf(
   equation: Equation,
   power: number,
   held: ReadonlySet<string>,
-  active: ActiveHeld
+  active: ActiveHeld,
+  slotted: number
 ): number {
   if (!isDamage(equation)) return power
   const star = POWER_STARS.find((one) => one.types.some((type) => equation.tags.includes(type)))
@@ -309,7 +313,7 @@ function damagePowerOf(
     (points >= POWER_STAR.points ? POWER_STAR.power : 0) +
     (held.has(WRATHFUL_STRIKES.held) ? WRATHFUL_STRIKES.power : 0)
   if (flat === 0) return power
-  const grown = 1 + powerShareOf(held, active)
+  const grown = 1 + powerShareOf(held, active, slotted)
   const base = Math.round(power / grown)
   return power + Math.round((base + flat) * grown) - Math.round(base * grown)
 }
@@ -354,7 +358,13 @@ function tooltipValueOf(
   rank: number | undefined
 ): number | undefined {
   if (equation === undefined) return undefined
-  const maxPower = damagePowerOf(equation, stats.maxPower, passives, active)
+  const maxPower = damagePowerOf(
+    equation,
+    stats.maxPower,
+    passives,
+    active,
+    equation.tags.includes("Fighters Guild") ? (stats.powerShare ?? 0) : 0
+  )
   const worked = equationValue(equation, { ...stats, maxPower })
   if (worked === undefined) return undefined
   if (!equation.scaled) {
@@ -390,7 +400,7 @@ function tooltipValueOf(
   return Math.floor(bonused) * ticks
 }
 
-const FLOORED: readonly (keyof EquationStats)[] = ["maxStat", "maxPower"]
+const FLOORED: readonly Variable[] = ["maxStat", "maxPower"]
 
 const RANK_TAGS: Readonly<Record<string, number>> = { "rank IV": 4 }
 

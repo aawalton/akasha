@@ -1,6 +1,7 @@
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { mighty } from "akasha/temper/catalog/champion-point/temper-champion-star/pages/mighty.temper-champion-star.ts"
 import { warMage } from "akasha/temper/catalog/champion-point/temper-champion-star/pages/war-mage.temper-champion-star.ts"
+import { slayer } from "akasha/temper/catalog/skill/pages/slayer/slayer.temper-skill.ts"
 import { temperScribedSkill } from "akasha/temper/catalog/skill/temper-scribed-skill/temper-scribed-skill.page-type.ts"
 import { temperSkill } from "akasha/temper/catalog/skill/temper-skill.page-type.ts"
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
@@ -123,8 +124,14 @@ export function skillStatsOf(
 ): EquationStats {
   const slotted = skills.map((one) => lines.get(one.abilityId))
   const healingDone = healingDoneOfSkill(stats.healingDone, lines.get(abilityId), slotted, held)
-  return { ...stats, healingDone }
+  const powerShare = SLOTTED_POWER.filter((one) => held.has(one.held)).reduce(
+    (sum, one) => sum + one.shareEach * slotted.filter((line) => line === one.line).length,
+    0
+  )
+  return { ...stats, healingDone, powerShare }
 }
+
+const SLOTTED_POWER = [{ held: slayer.slug, line: slayer.skillLineId, shareEach: 0.03 }]
 
 export type CaseListed = { readonly path: string; readonly slug: string }
 
