@@ -11,5 +11,11 @@ export const FORMULA: FormulaNode = {
       type: "metric-refs",
       metricIds: ["damage-done-base", "damage-done-single-target"],
     },
+    {
+      type: "sum-for-metric",
+      metricId: "damage-done-direct",
+      categories: ["skills"],
+      effectType: "fractional-change",
+    },
   ],
 }
