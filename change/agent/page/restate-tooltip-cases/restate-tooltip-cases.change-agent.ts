@@ -40,6 +40,19 @@ export const restateTooltipCases = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A number the equations now pair that a case kept nowhere is added, pinned if Temper gives it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A number added that Temper does not give is kept as a gap.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The equations are the ones the skill pages hold once the edits kept land.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A case whose reading is not found is refused, and so is a slug naming no case.",
     },
     {
@@ -56,5 +69,5 @@ export const restateTooltipCases = {
   maxCpuSeconds: 60,
   maxMemoryMb: 1024,
   createdAt: "2026-10-21T03:34:20.099Z",
-  updatedAt: "2026-10-21T04:50:32.260Z",
+  updatedAt: "2026-10-21T05:42:18.319Z",
 } as const satisfies ChangeAgent

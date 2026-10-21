@@ -57,14 +57,14 @@ const LINE = {
 
 const BACK_LINE = { ...LINE, id: "01a1bbbb-0000-7000-8000-000000000002", bar: "backBar" }
 
-function worldOf(lines: readonly object[]): World {
+function worldOf(lines: readonly object[], text = TEXT): World {
   const listedAt = (kind: string, slug: string): readonly { readonly path: string }[] => {
     if (kind === "temper-account-character" && slug === "erin") return [{ path: CHARACTER_AT }]
     if (kind === "temper-tooltip-case" && slug === "erin-front") return [{ path: PAGE_AT }]
     return []
   }
   const texts: Record<string, string> = {
-    [TOOLTIPS_AT]: TEXT,
+    [TOOLTIPS_AT]: text,
     [READINGS_AT]: `${lines.map((one) => JSON.stringify(one)).join("\n")}\n`,
   }
   return {
@@ -106,6 +106,23 @@ test("a case takes what its build and reading held and keeps its stats, pins and
       gaps: { "38754 <<2>>": 7 },
     })
   )
+})
+
+test("a number a case kept neither pinned nor as a gap is added, and a kept number stays", () => {
+  const text = tooltipCaseText({ ...READ, pinned: { "38754 <<1>>": 5000 }, gaps: {} })
+  const equations = new Map([[38754, ["<<1>> = 4000 (Constant)", "<<2>> = 7 (Constant)"]]])
+  const said = restateTooltipCasesCommand(
+    worldOf([LINE], text),
+    {},
+    () => undefined,
+    every,
+    () => equations
+  )
+  const edit = said.edits[0]
+  const written = JSON.parse(edit?.kind === "replace" ? edit.contentTo : "{}")
+
+  expect(written.pinned).toEqual({ "38754 <<1>>": 5000, "38754 <<2>>": 7 })
+  expect(written.gaps).toEqual({})
 })
 
 test("a case whose reading is not on its bar is refused", () => {

@@ -1,4 +1,5 @@
 {"propertySlug":"extends-type","path":"temper/catalog/skill/temper-scribed-skill/temper-scribed-skill.page-type.ts","id":"01a05fca-cb8a-72ce-84c1-1585368027e5"}
+{"propertySlug":"import","fileName":"temper-skill.page-type.ts","path":"change/agent/page/restate-tooltip-cases/restate-tooltip-cases.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill.page-type.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-skill-pages/character-capture-skill-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill.page-type.ts","path":"temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill.page-type.ts","path":"temper/player/character/stat/modules/tooltip-case/tooltip-case.module.code.ts","typed":false,"deferred":false}

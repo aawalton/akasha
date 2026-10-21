@@ -6,15 +6,20 @@ import {
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { temperScribedSkill } from "akasha/temper/catalog/skill/temper-scribed-skill/temper-scribed-skill.page-type.ts"
+import { temperSkill } from "akasha/temper/catalog/skill/temper-skill.page-type.ts"
 import { loadSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts"
 import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
 import { linesOf } from "akasha/temper/player/character/stat/modules/reading-line-picking/reading-line-picking.module.code.ts"
 import {
   type BuildHeld,
   type CaseListed,
+  type Equations,
+  equationsOf,
   everyTooltipCase,
   heldOfBuild,
   heldOfCase,
+  pinnedTooltipCaseOf,
   tooltipCaseOf,
   tooltipCaseShape,
   tooltipCaseText,
@@ -33,7 +38,12 @@ type Asked = Readonly<Record<string, string>>
 
 type HeldOf = (hash: string) => BuildHeld | undefined
 
-function restated(world: World, listed: CaseListed, heldOf: HeldOf): FileChange | string {
+function restated(
+  world: World,
+  listed: CaseListed,
+  heldOf: HeldOf,
+  equations: Equations
+): FileChange | string {
   const { path: pageAt, slug } = listed
   const at = besideAt(pageAt, verifiedTooltips.propertySlug, "json")
   const text = at === null ? null : world.textOf(at)
@@ -60,15 +70,39 @@ function restated(world: World, listed: CaseListed, heldOf: HeldOf): FileChange 
     durationMs: durations.get(one.abilityId) ?? one.durationMs,
   }))
   const held = heldOfCase(heldOf(line.buildHash), reading.data, read.bar)
-  const contentTo = tooltipCaseText(tooltipCaseOf({ ...read, ...held, skills }, pinned, gaps))
+  const caseRead = { ...read, ...held, skills }
+  const fresh = pinnedTooltipCaseOf(caseRead, equations)
+  const kept = new Set([...Object.keys(pinned), ...Object.keys(gaps)])
+  const unkept = (numbers: Readonly<Record<string, number>>) =>
+    Object.fromEntries(Object.entries(numbers).filter(([formula]) => !kept.has(formula)))
+  const contentTo = tooltipCaseText(
+    tooltipCaseOf(
+      caseRead,
+      { ...pinned, ...unkept(fresh.pinned) },
+      { ...gaps, ...unkept(fresh.gaps) }
+    )
+  )
   return { kind: "replace", path: at, contentFrom: text, contentTo }
+}
+
+function noEquations(): Equations {
+  return new Map()
+}
+
+export function equationsHeldIn(world: World): Equations {
+  return equationsOf(
+    [temperSkill.slug, temperScribedSkill.slug].flatMap((type) => [
+      ...world.index.valuesByPath(type).values(),
+    ])
+  )
 }
 
 export function restateTooltipCasesCommand(
   world: World,
   given: Asked,
   heldOf: HeldOf = () => undefined,
-  listed: (root: string) => readonly CaseListed[] = everyTooltipCase
+  listed: (root: string) => readonly CaseListed[] = everyTooltipCase,
+  equationsHeld: (over: World) => Equations = noEquations
 ): Answer {
   const named = given[CASES]
   const slugs = named
@@ -84,8 +118,9 @@ export function restateTooltipCasesCommand(
     cases.push({ path, slug })
   }
   const edits: FileChange[] = []
+  const equations = equationsHeld(world)
   for (const one of cases) {
-    const edit = restated(world, one, heldOf)
+    const edit = restated(world, one, heldOf, equations)
     if (typeof edit === "string") return refusing(edit)
     if (edit.kind === "replace" && edit.contentFrom !== edit.contentTo) edits.push(edit)
   }
@@ -96,5 +131,5 @@ export const takes: readonly string[] = [CASES]
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   await Promise.all([loadSkillCatalog(), loadSetCatalog()])
-  return restateTooltipCasesCommand(world, given, heldOfBuild)
+  return restateTooltipCasesCommand(world, given, heldOfBuild, everyTooltipCase, equationsHeldIn)
 }
