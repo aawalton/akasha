@@ -12,7 +12,7 @@ export const whatIDoForTheChild = {
     "all-about-alan-topic/the-childs-gender",
   ],
   settled:
-    "Looking back, I think I can identify other behaviours of mine that are directly connected to the Child:\n\n- eating as a stim, especially sugar\n- looking at attractive, feminine girls, or pictures of them\n- porn and masturbation\n- reading as a default filler\n- listening to music, especially feminine artists with attractive voices\n\nI think this also explains why interactive fiction has been less effective than just reading fiction. The interaction pulls the Professor to the front.\n\nPartner dance fed something in the Child too, and I think that explains a lot of why I did so much of it. It is also interesting that I deliberately learned all the female parts as well as the male parts, even though I did not have to.",
+    "Looking back, I think I can identify other behaviours of mine that are directly connected to the Child:\n\n- eating as a stim, especially sugar\n- looking at attractive, feminine girls, or pictures of them\n- porn and masturbation\n- reading as a default filler\n- listening to music, especially feminine artists with attractive voices\n\nI think this also explains why interactive fiction has been less effective than just reading fiction. The interaction pulls the Professor to the front.\n\nPartner dance fed something in the Child too, and I think that explains a lot of why I did so much of it. It is also interesting that I deliberately learned all the female parts as well as the male parts, even though I did not have to. I did not get to follow much, and I always struggled with the leading. I think I would have enjoyed following more.",
   createdAt: "2026-10-21T13:20:12.888Z",
-  updatedAt: "2026-10-21T13:23:33.993Z",
+  updatedAt: "2026-10-21T13:26:19.567Z",
 } as const satisfies AllAboutAlanTopic
