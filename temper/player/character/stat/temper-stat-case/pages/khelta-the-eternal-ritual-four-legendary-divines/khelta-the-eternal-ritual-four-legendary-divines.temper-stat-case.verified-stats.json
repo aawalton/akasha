@@ -54,6 +54,7 @@
     "defense-shock-mitigation": 26.21060562133789,
     "healing-critical-bonus": 0,
     "healing-done-base": 10,
+    "healing-taken-base": 10,
     "health-maximum": 61952,
     "health-recovery": 925,
     "magicka-maximum": 12000,
@@ -82,7 +83,6 @@
     "stamina-sprint-cost": 432
   },
   "gaps": {
-    "bash-damage": 389,
-    "healing-taken-base": 10
+    "bash-damage": 389
   }
 }
