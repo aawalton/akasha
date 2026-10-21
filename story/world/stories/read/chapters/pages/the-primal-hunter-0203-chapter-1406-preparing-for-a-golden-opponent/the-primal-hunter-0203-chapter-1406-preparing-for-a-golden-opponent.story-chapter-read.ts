@@ -20,5 +20,7 @@ export const thePrimalHunter0203Chapter1406PreparingForAGoldenOpponent = {
     },
   ],
   createdAt: "2026-10-19T16:04:47.157Z",
-  updatedAt: "2026-10-19T16:04:47.157Z",
+  updatedAt: "2026-10-21T22:08:44.887Z",
+  ownProgress: 2582,
+  progressedAt: "2026-10-21T22:08:44.887Z",
 } as const satisfies StoryChapterRead

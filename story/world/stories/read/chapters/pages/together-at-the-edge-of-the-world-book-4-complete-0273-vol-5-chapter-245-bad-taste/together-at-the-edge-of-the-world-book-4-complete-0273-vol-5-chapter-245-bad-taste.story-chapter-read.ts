@@ -20,5 +20,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0273Vol5Chapter245BadTaste 
     },
   ],
   createdAt: "2026-10-19T13:05:07.138Z",
-  updatedAt: "2026-10-19T13:05:07.138Z",
+  updatedAt: "2026-10-21T22:08:44.887Z",
+  ownProgress: 2302,
+  progressedAt: "2026-10-21T22:08:44.887Z",
 } as const satisfies StoryChapterRead

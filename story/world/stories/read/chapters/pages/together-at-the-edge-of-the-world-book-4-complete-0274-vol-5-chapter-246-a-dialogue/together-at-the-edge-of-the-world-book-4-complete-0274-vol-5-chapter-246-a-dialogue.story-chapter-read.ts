@@ -20,5 +20,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0274Vol5Chapter246ADialogue
     },
   ],
   createdAt: "2026-10-21T13:05:05.947Z",
-  updatedAt: "2026-10-21T13:05:05.947Z",
+  updatedAt: "2026-10-21T22:08:44.887Z",
+  ownProgress: 2532,
+  progressedAt: "2026-10-21T22:08:44.887Z",
 } as const satisfies StoryChapterRead

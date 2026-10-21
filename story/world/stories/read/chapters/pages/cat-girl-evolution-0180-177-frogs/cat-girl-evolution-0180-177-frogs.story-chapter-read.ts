@@ -20,5 +20,7 @@ export const catGirlEvolution0180177Frogs = {
     },
   ],
   createdAt: "2026-10-21T08:08:37.868Z",
-  updatedAt: "2026-10-21T08:08:37.868Z",
+  updatedAt: "2026-10-21T22:08:44.887Z",
+  ownProgress: 2444,
+  progressedAt: "2026-10-21T22:08:44.887Z",
 } as const satisfies StoryChapterRead

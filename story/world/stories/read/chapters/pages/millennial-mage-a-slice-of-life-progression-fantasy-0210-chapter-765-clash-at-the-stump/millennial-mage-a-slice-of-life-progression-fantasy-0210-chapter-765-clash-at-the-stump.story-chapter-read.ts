@@ -20,5 +20,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0210Chapter765ClashAtTh
     },
   ],
   createdAt: "2026-10-21T12:07:10.890Z",
-  updatedAt: "2026-10-21T12:07:10.890Z",
+  updatedAt: "2026-10-21T22:08:44.887Z",
+  ownProgress: 2780,
+  progressedAt: "2026-10-21T22:08:44.887Z",
 } as const satisfies StoryChapterRead

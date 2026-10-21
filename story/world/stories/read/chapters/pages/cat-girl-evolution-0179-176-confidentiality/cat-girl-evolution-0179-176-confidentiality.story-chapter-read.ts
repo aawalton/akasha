@@ -20,5 +20,7 @@ export const catGirlEvolution0179176Confidentiality = {
     },
   ],
   createdAt: "2026-10-19T08:07:38.232Z",
-  updatedAt: "2026-10-19T08:07:38.232Z",
+  updatedAt: "2026-10-21T22:08:44.887Z",
+  ownProgress: 2397,
+  progressedAt: "2026-10-21T22:08:44.887Z",
 } as const satisfies StoryChapterRead

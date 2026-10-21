@@ -20,5 +20,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0209Chapter764FinalPrep
     },
   ],
   createdAt: "2026-10-19T12:05:49.832Z",
-  updatedAt: "2026-10-19T12:05:49.832Z",
+  updatedAt: "2026-10-21T22:08:44.887Z",
+  ownProgress: 2497,
+  progressedAt: "2026-10-21T22:08:44.887Z",
 } as const satisfies StoryChapterRead

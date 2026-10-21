@@ -20,5 +20,7 @@ export const metaworldHopecore0197Chapter111OHolyNight = {
     },
   ],
   createdAt: "2026-10-21T07:05:36.854Z",
-  updatedAt: "2026-10-21T07:05:36.854Z",
+  updatedAt: "2026-10-21T22:08:44.887Z",
+  ownProgress: 3263,
+  progressedAt: "2026-10-21T22:08:44.887Z",
 } as const satisfies StoryChapterRead
