@@ -1,2 +1,0 @@
-{"id":"01a05fe6-c3d3-758c-b070-6311e1c7d77c","metricId":"temper-metric-tree/metric-healing-done-base","type":"slotted-ability-scaling","skillLineId":"temper-skill-line/warden-green-balance","valuePerAbility":0.05,"valueType":"fractional-change","rank":2}
-{"id":"01a156c4-e295-7b1e-9436-697cc692e718","metricId":"temper-metric-tree/metric-healing-done-base","type":"slotted-ability-scaling","skillLineId":"temper-skill-line/warden-green-balance","valuePerAbility":0.02,"valueType":"fractional-change","rank":1}
