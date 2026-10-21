@@ -24,6 +24,7 @@ export const temperSet = {
     "text-property/eso-weapon-types",
     "module/set-capture-reading",
     "module/set-templates-reading",
+    "module/set-text-agreement",
     "number-property/set-type-id",
     "number-property/set-drop-mechanics",
     "number-property/set-dlc-id",
@@ -146,5 +147,5 @@ export const temperSet = {
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
   createdAt: "2026-09-02T01:53:02.017Z",
-  updatedAt: "2026-10-20T00:38:01.998Z",
+  updatedAt: "2026-10-21T17:24:40.314Z",
 } as const satisfies PageType

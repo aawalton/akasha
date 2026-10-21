@@ -5324,6 +5324,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/temper-eso-player-equipment-constant/modules/eso-player-equipment-constant-pages/eso-player-equipment-constant-pages.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/temper-set/modules/set-capture-reading/set-capture-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/temper-set/modules/set-templates-reading/set-templates-reading.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/temper-set/modules/set-text-agreement/set-text-agreement.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-catalog-loading/recipe-list-catalog-loading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-catalog/recipe-list-catalog.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/side-file/modules/catalog-file-paths/catalog-file-paths.module.ts","typed":true,"deferred":false}

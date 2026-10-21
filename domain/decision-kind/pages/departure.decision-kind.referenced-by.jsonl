@@ -5669,6 +5669,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set-category/properties/nested-eso-category-names.text-property.ts","id":"01a0e11d-90b4-72c5-9b70-1bdf2a0c4bac"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/modules/set-capture-reading/set-capture-reading.module.ts","id":"01a0d8c5-6849-7240-a278-39392a74c2a7"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/modules/set-templates-reading/set-templates-reading.module.ts","id":"01a0de32-9635-7c38-a44b-a268b1083d65"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/modules/set-text-agreement/set-text-agreement.module.ts","id":"01a15f7e-60fb-742c-817d-5587d6d92d61"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/bonus-effects.record-property.ts","id":"01a05fd1-d436-73c6-b34e-3d504facf23f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/bonus-status.text-property.ts","id":"01a05fd1-d437-73eb-b682-b54edb64a96b"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/effect-while-buffs.multi-relation-property.ts","id":"01a156be-6a0f-7c5a-892e-537fd0f717f1"}

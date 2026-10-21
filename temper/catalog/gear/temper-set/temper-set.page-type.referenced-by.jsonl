@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"temper/addon/pages/items/modules/inventory-set-categories/inventory-set-categories.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-set-map/character-capture-set-map.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"temper/catalog/gear/temper-set/modules/set-capture-reading/set-capture-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"temper/catalog/gear/temper-set/modules/set-text-agreement/set-text-agreement.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"temper/player/character/characters-equipment/modules/sets-all/sets-all.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"temper/web/item-browser/modules/item-browser-rows/item-browser-rows.module.code.ts","typed":false,"deferred":false}
@@ -728,6 +729,7 @@
 {"propertySlug":"import","fileName":"temper-set.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-rows/item-browser-rows.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/gear/temper-gear.domain.ts","id":"01a05fba-ce3c-7cc6-bd0f-2d8917043895"}
 {"propertySlug":"target-page-type","path":"temper/catalog/gear/temper-talisman-gem/properties/socketed-into.relation-property.ts","id":"01a0d986-17f8-75bc-a66a-2c4d376a3c45"}
+{"propertySlug":"test-reads","path":"temper/catalog/gear/temper-set/modules/set-text-agreement/set-text-agreement.module.ts","id":"01a15f7e-60fb-742c-817d-5587d6d92d61"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/combat-case/combat-case.module.ts","id":"01a15f6d-8dd5-7d8a-b7d5-94c75ecffd0b"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/extract-sets/extract-sets.module.ts","id":"01a06271-abcf-7e09-9c2e-cff7fd7c0f46"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.ts","id":"01a06271-abd0-7258-9fc4-ca306f191976"}
