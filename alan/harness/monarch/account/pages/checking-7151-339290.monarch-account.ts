@@ -8,11 +8,11 @@ export const checking7151339290 = {
   definition: "money the family has, sitting in a checking account",
   monarchId: "193792761164339290",
   accountDisplayName: "Checking (...7151)",
-  currentBalance: 47790.54,
+  currentBalance: 24391.19,
   accountType: "depository",
   asset: true,
   accountActive: true,
   accountHidden: false,
   createdAt: "2026-09-03T03:39:10.888Z",
-  updatedAt: "2026-10-19T06:05:53.544Z",
+  updatedAt: "2026-10-21T06:21:18.387Z",
 } as const satisfies MonarchAccount
