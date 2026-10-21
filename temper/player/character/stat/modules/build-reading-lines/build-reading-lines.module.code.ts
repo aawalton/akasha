@@ -45,7 +45,7 @@ function lineOf(one: BuildReading, result: string): string {
   return JSON.stringify({ [RESULT]: result, ...one })
 }
 
-export const REMOVED_READINGS = "removed-readings"
+const REMOVED_READINGS = "removed-readings"
 
 export function captureKeyOf(bar: string, capturedAt: unknown): string {
   return `${bar}:${String(capturedAt)}`
