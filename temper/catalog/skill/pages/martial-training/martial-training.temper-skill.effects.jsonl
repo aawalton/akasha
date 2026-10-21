@@ -1,2 +1,3 @@
 {"id":"01a05fd1-2d85-7e00-a96a-ce403a254e03","metricId":"temper-metric-tree/metric-stamina-ability-cost","type":"fractional-change","value":-0.08,"rank":3}
 {"id":"01a1570b-8162-735c-b7ba-f29d2ade54d3","metricId":"temper-metric-tree/metric-stamina-ability-cost","type":"fractional-change","value":-0.02,"rank":1}
+{"id":"01a15f1d-1d99-75d9-b192-171d7159c20d","metricId":"temper-metric-tree/metric-bash-cost","type":"fractional-change","value":-0.08,"rank":3}
