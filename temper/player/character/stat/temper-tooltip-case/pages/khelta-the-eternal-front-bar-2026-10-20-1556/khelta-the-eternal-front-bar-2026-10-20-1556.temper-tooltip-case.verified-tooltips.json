@@ -1,0 +1,87 @@
+{
+  "character": "khelta-the-eternal",
+  "bar": "primary-weapon-bar",
+  "capturedAt": 1792511805,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "stats": {
+    "critical-rating-spell": 3377,
+    "critical-rating-weapon": 3377,
+    "health-maximum": 27579,
+    "health-recovery": 278,
+    "magicka-maximum": 12520,
+    "magicka-recovery": 514,
+    "penetration-physical": 5924,
+    "penetration-spell": 5924,
+    "power-spell": 1000,
+    "power-weapon": 1000,
+    "resistance-critical": 1320,
+    "resistance-physical": 1731,
+    "resistance-spell": 1731,
+    "stamina-maximum": 20224,
+    "stamina-recovery": 514
+  },
+  "skills": [
+    {
+      "abilityId": 38754,
+      "name": "Brawler",
+      "description": "Focus your strength into a mighty swing, dealing |cffffff2942|r Physical Damage to enemies in front of you.\n\nYou also gain a damage shield that absorbs |cffffff2826|r damage for |cffffff6|r seconds. Each enemy hit increases the damage shield's strength by |cffffff50|r%, up to |cffffff300|r%."
+    },
+    {
+      "abilityId": 183006,
+      "name": "Cephaliarch's Flail",
+      "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff3276|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff1394|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink."
+    },
+    {
+      "abilityId": 193398,
+      "name": "Pragmatic Fatecarver",
+      "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff1484|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff4927|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage."
+    },
+    {
+      "abilityId": 34843,
+      "name": "Killer's Blade",
+      "description": "Thrust a caustic blade with lethal precision to stab an enemy, dealing |cffffff1856|r Disease Damage. Deals up to |cffffff400|r% more damage to enemies with less than |cffffff50|r% Health.\n\nHeals you for |cffffff3343|r if the enemy dies within |cffffff2|r seconds of being struck."
+    },
+    {
+      "abilityId": 61505,
+      "name": "Echoing Vigor",
+      "description": "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff7281|r Health over |cffffff16|r seconds."
+    },
+    {
+      "abilityId": 36514,
+      "name": "Soul Harvest",
+      "description": "Ravage an enemy with a spinning attack, dealing |cffffff5942|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate."
+    }
+  ],
+  "pinned": {
+    "183006 <<2>>": 3,
+    "183006 <<3>>": 20,
+    "183006 <<5>>": 5,
+    "193398 <<1>>": 4,
+    "193398 <<3>>": 0.3,
+    "193398 <<6>>": 33,
+    "193398 <<7>>": 16,
+    "34843 <<2>>": 400,
+    "34843 <<3>>": 50,
+    "34843 <<5>>": 2,
+    "36514 <<2>>": 20,
+    "36514 <<3>>": 8,
+    "36514 <<4>>": 12,
+    "36514 <<5>>": 10,
+    "38754 <<3>>": 6,
+    "38754 <<4>>": 50,
+    "38754 <<5>>": 300,
+    "61505 <<2>>": 16
+  },
+  "gaps": {
+    "183006 <<1>>": 3276,
+    "183006 <<4>>": 1394,
+    "193398 <<2>>": 1484,
+    "193398 <<4>>": 4927,
+    "34843 <<1>>": 1856,
+    "34843 <<4>>": 3343,
+    "36514 <<1>>": 5942,
+    "38754 <<1>>": 2942,
+    "38754 <<2>>": 2826,
+    "61505 <<1>>": 7281
+  }
+}

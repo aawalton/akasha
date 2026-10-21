@@ -1,0 +1,82 @@
+{
+  "character": "durene-faerise",
+  "bar": "primary-weapon-bar",
+  "capturedAt": 1792524806,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "stats": {
+    "critical-rating-spell": 3135,
+    "critical-rating-weapon": 3135,
+    "health-maximum": 22989,
+    "health-recovery": 335,
+    "magicka-maximum": 13021,
+    "magicka-recovery": 604,
+    "penetration-physical": 19346,
+    "penetration-spell": 19346,
+    "power-spell": 4536,
+    "power-weapon": 4536,
+    "resistance-critical": 1320,
+    "resistance-physical": 22946,
+    "resistance-spell": 22946,
+    "stamina-maximum": 27333,
+    "stamina-recovery": 685
+  },
+  "skills": [
+    {
+      "abilityId": 185842,
+      "name": "Inspired Scholarship",
+      "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3480|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%."
+    },
+    {
+      "abilityId": 183006,
+      "name": "Cephaliarch's Flail",
+      "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff7624|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff3404|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink."
+    },
+    {
+      "abilityId": 193398,
+      "name": "Pragmatic Fatecarver",
+      "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff3455|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff11494|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage."
+    },
+    {
+      "abilityId": 61505,
+      "name": "Echoing Vigor",
+      "description": "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff17757|r Health over |cffffff16|r seconds."
+    },
+    {
+      "abilityId": 61524,
+      "name": "Blinding Flare",
+      "description": "Launch a blinding flare, revealing stealthed and invisible enemies in the target area for |cffffff5|r seconds. Exposed enemies are stunned for |cffffff4|r seconds, and cannot return to stealth or invisibility for |cffffff4|r seconds.\n\nWhile slotted you gain Major Protection, reducing your damage taken by |cffffff10|r%."
+    },
+    {
+      "abilityId": 189837,
+      "name": "The Tide King's Gaze",
+      "description": "Tear open the fabric of the Aurbis to unleash a scion of Hermaeus Mora. This being casts forth a beam that rends asunder reality for |cffffff8|r seconds that deals |cffffff4042|r Magic Damage to enemies within 5 meters every |cffffff0.5|r seconds. \n\nThe scion's beam automatically follows the initial target, and hunts for a new one within 8 meters if it is slain."
+    }
+  ],
+  "pinned": {
+    "183006 <<2>>": 3,
+    "183006 <<3>>": 20,
+    "183006 <<5>>": 5,
+    "185842 <<1>>": 3,
+    "185842 <<3>>": 20,
+    "189837 <<1>>": 8,
+    "189837 <<3>>": 0.5,
+    "193398 <<1>>": 4,
+    "193398 <<3>>": 0.3,
+    "193398 <<6>>": 33,
+    "193398 <<7>>": 16,
+    "61505 <<2>>": 16,
+    "61524 <<1>>": 5,
+    "61524 <<2>>": 4,
+    "61524 <<3>>": 4,
+    "61524 <<5>>": 10
+  },
+  "gaps": {
+    "183006 <<1>>": 7624,
+    "183006 <<4>>": 3404,
+    "185842 <<2>>": 3480,
+    "189837 <<2>>": 4042,
+    "193398 <<2>>": 3455,
+    "193398 <<4>>": 11494,
+    "61505 <<1>>": 17757
+  }
+}

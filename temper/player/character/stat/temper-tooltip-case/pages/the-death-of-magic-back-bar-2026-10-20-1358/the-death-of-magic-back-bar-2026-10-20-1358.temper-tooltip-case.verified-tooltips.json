@@ -1,0 +1,71 @@
+{
+  "character": "the-death-of-magic",
+  "bar": "backup-weapon-bar",
+  "capturedAt": 1792504733,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "stats": {
+    "critical-rating-spell": 3158,
+    "critical-rating-weapon": 3158,
+    "health-maximum": 21283,
+    "health-recovery": 0,
+    "magicka-maximum": 15388,
+    "magicka-recovery": 725,
+    "penetration-physical": 4985,
+    "penetration-spell": 4985,
+    "power-spell": 4479,
+    "power-weapon": 4479,
+    "resistance-critical": 1320,
+    "resistance-physical": 25425,
+    "resistance-spell": 25425,
+    "stamina-maximum": 24104,
+    "stamina-recovery": 0
+  },
+  "skills": [
+    {
+      "abilityId": 135905,
+      "name": "Drain Vigor",
+      "description": "Siphon away your enemies' vitality, dealing |cffffff3088|r Magic Damage, healing you for |cffffff26|r% of your missing Health, and restoring |cffffff9|r% of your missing Stamina every |cffffff1|r second for |cffffff3|r seconds.\n\nThis ability is considered direct damage."
+    },
+    {
+      "abilityId": 138097,
+      "name": "Stupefy",
+      "description": "Subdue enemies in front of you with your baleful gaze, stunning them for |cffffff5|r seconds if they are facing your direction.\n\nThis stun cannot be blocked.\n\nAfter the stun ends they remain stupefied, reducing their Movement Speed by |cffffff50|r% for |cffffff5|r seconds."
+    },
+    {
+      "abilityId": 38963,
+      "name": "Elusive Mist",
+      "description": "Disperse into a dark mist, causing the next |cffffff3|r projectiles to deal no damage to you for |cffffff1|r second while you dash forward and reappear at your target location after a short duration.\n\nYou gain Major Expedition and Major Evasion for |cffffff3.3|r seconds after reappearing, increasing your Movement Speed by |cffffff30|r% and reducing damage from area attacks by |cffffff20|r%.\n\nCasting again within |cffffff4|r seconds costs |cffffff33|r% more Magicka."
+    },
+    {
+      "abilityId": 38956,
+      "name": "Arterial Burst",
+      "description": "Rend an enemy, dealing |cffffff8416|r Magic Damage and applying the Hemorrhaging status effect.\n\nDeals up to |cffffff33|r% more damage based on your missing Health.\n\nIf you use this ability while you are under |cffffff50|r% Health, it will always be a Critical Strike."
+    },
+    {
+      "abilityId": 135841,
+      "name": "Sated Fury",
+      "description": "Allow your monstrous appetites to take hold, increasing your Weapon and Spell Damage by |cffffff60|r every |cffffff2|r seconds, up to |cffffff5|r times.\n\nWhile toggled on, the Health cost of this ability increases by |cffffff300|r per stack and you cannot be healed by anyone but yourself, your pets, or your Companions.\n\nWhen toggled off, you heal for |cffffff33|r% of the total Health cost you spent while active."
+    },
+    {
+      "abilityId": 38932,
+      "name": "Swarming Scion",
+      "description": "Transform into a monstrous creature of the night, instantly healing to full Health.\n\nWhile transformed, your Max Health, Magicka, and Stamina are increased by |cffffff10000|r, you heal for |cffffff15|r% of all damage you deal, and you can see enemies through walls. \n\nBats also swarm around you and shred enemies that come close, dealing |cffffff3055|r Magic Damage every |cffffff1|r second."
+    }
+  ],
+  "pinned": {
+    "135905 <<4>>": 1,
+    "135905 <<5>>": 3,
+    "138097 <<1>>": 5,
+    "138097 <<2>>": 50,
+    "138097 <<3>>": 5,
+    "38932 <<1>>": 10000,
+    "38932 <<2>>": 15,
+    "38932 <<4>>": 1
+  },
+  "gaps": {
+    "135905 <<1>>": 3088,
+    "135905 <<2>>": 26,
+    "135905 <<3>>": 9,
+    "38932 <<3>>": 3055
+  }
+}

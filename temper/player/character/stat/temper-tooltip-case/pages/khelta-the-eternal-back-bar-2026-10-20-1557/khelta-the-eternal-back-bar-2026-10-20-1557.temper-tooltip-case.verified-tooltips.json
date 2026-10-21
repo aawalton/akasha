@@ -1,0 +1,80 @@
+{
+  "character": "khelta-the-eternal",
+  "bar": "backup-weapon-bar",
+  "capturedAt": 1792511820,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "stats": {
+    "critical-rating-spell": 2939,
+    "critical-rating-weapon": 2939,
+    "health-maximum": 27579,
+    "health-recovery": 278,
+    "magicka-maximum": 12520,
+    "magicka-recovery": 514,
+    "penetration-physical": 5924,
+    "penetration-spell": 5924,
+    "power-spell": 1200,
+    "power-weapon": 1200,
+    "resistance-critical": 1320,
+    "resistance-physical": 1731,
+    "resistance-spell": 1731,
+    "stamina-maximum": 20224,
+    "stamina-recovery": 514
+  },
+  "skills": [
+    {
+      "abilityId": 38788,
+      "name": "Stampede",
+      "description": "Launch across the earth and smash an enemy, dealing |cffffff2545|r Physical Damage to them and all nearby enemies. This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing |cffffff551|r Physical Damage to all enemies in the area every |cffffff1|r second for |cffffff15|r seconds."
+    },
+    {
+      "abilityId": 185839,
+      "name": "Rune of Displacement",
+      "description": "Devise a discharging rune under an enemy. After |cffffff2|r seconds the rune pulses, pulling in foes between 2 to 10 meters and etching them with scrawled glyphs that deal |cffffff7800|r Magic Damage over |cffffff18|r seconds.\n\nAn ally near the initial target can activate the Runebreak synergy, dealing |cffffff4927|r Frost Damage to enemies within 7 meters."
+    },
+    {
+      "abilityId": 185842,
+      "name": "Inspired Scholarship",
+      "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff1615|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%."
+    },
+    {
+      "abilityId": 42138,
+      "name": "Spiked Bone Shield",
+      "description": "Surround yourself with a whirlwind of bones, gaining a damage shield that absorbs up to |cffffff9828|r damage for |cffffff6|r seconds and returns |cffffff95|r% of direct damage absorbed back to the enemy. This ability scales off your Max Health.\n\nAn ally near you can activate the Bone Wall synergy, granting the ally and up to |cffffff5|r other allies a damage shield equal to |cffffff35|r% of their Max Health for |cffffff6|r seconds."
+    },
+    {
+      "abilityId": 39298,
+      "name": "Necrotic Orb",
+      "description": "Project a globe of annihilation that slowly floats forward for |cffffff10|r seconds, dealing |cffffff534|r Magic Damage every |cffffff1|r second to nearby enemies. \n\nAn ally near the globe can activate the Combustion synergy, causing the orb to explode for |cffffff4106|r Magic Damage to nearby enemies and restore |cffffff3960|r Magicka or Stamina to the ally, whichever maximum is higher."
+    },
+    {
+      "abilityId": 36514,
+      "name": "Soul Harvest",
+      "description": "Ravage an enemy with a spinning attack, dealing |cffffff6423|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate."
+    }
+  ],
+  "pinned": {
+    "185839 <<1>>": 2,
+    "185839 <<3>>": 18,
+    "185842 <<1>>": 3,
+    "185842 <<3>>": 20,
+    "36514 <<2>>": 20,
+    "36514 <<3>>": 8,
+    "36514 <<4>>": 12,
+    "36514 <<5>>": 10,
+    "38788 <<3>>": 1,
+    "38788 <<4>>": 15,
+    "39298 <<1>>": 10,
+    "39298 <<3>>": 1,
+    "39298 <<6>>": 3960
+  },
+  "gaps": {
+    "185839 <<2>>": 7800,
+    "185839 <<5>>": 4927,
+    "185842 <<2>>": 1615,
+    "36514 <<1>>": 6423,
+    "38788 <<1>>": 2545,
+    "38788 <<2>>": 551,
+    "39298 <<2>>": 534,
+    "39298 <<5>>": 4106
+  }
+}

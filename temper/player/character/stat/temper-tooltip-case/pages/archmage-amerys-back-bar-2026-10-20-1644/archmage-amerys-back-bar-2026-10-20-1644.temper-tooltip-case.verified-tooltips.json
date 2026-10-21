@@ -1,0 +1,45 @@
+{
+  "character": "archmage-amerys",
+  "bar": "backup-weapon-bar",
+  "capturedAt": 1792514668,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "stats": {
+    "critical-rating-spell": 3758,
+    "critical-rating-weapon": 3758,
+    "health-maximum": 17760,
+    "health-recovery": 289,
+    "magicka-maximum": 15017,
+    "magicka-recovery": 514,
+    "penetration-physical": 0,
+    "penetration-spell": 0,
+    "power-spell": 2880,
+    "power-weapon": 2880,
+    "resistance-critical": 1320,
+    "resistance-physical": 11736,
+    "resistance-spell": 11736,
+    "stamina-maximum": 53832,
+    "stamina-recovery": 1207
+  },
+  "skills": [
+    {
+      "abilityId": 108840,
+      "name": "Summon Unstable Familiar",
+      "description": "Command the powers of Oblivion to send a Daedric familiar to fight at your side. The familiar's attacks deal |cffffff1301|r Shock Damage.\n\nOnce summoned, you can activate the familiar's special ability for |cffffff3405|r Magicka, dealing |cffffff1577|r Shock Damage every |cffffff2|r seconds for |cffffff20|r seconds to enemies near them.\n\nThe familiar remains until killed or unsummoned."
+    },
+    {
+      "abilityId": 34835,
+      "name": "Swallow Soul",
+      "description": "Steal an enemy's life force, dealing |cffffff10090|r Magic Damage and healing you for |cffffff33|r% of the damage inflicted every |cffffff2|r seconds for |cffffff10|r seconds.\n\nDeals |cffffff1|r% more damage for every |cffffff2|r% Health you have."
+    }
+  ],
+  "pinned": {
+    "34835 <<2>>": 33,
+    "34835 <<3>>": 2,
+    "34835 <<4>>": 10,
+    "34835 <<5>>": 1,
+    "34835 <<6>>": 2
+  },
+  "gaps": {
+    "34835 <<1>>": 10090
+  }
+}

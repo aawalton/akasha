@@ -1,0 +1,42 @@
+{
+  "character": "three-color-stalker",
+  "bar": "primary-weapon-bar",
+  "capturedAt": 1792514883,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "stats": {
+    "critical-rating-spell": 11781,
+    "critical-rating-weapon": 11781,
+    "health-maximum": 19630,
+    "health-recovery": 562,
+    "magicka-maximum": 13972,
+    "magicka-recovery": 937,
+    "penetration-physical": 5395,
+    "penetration-spell": 5395,
+    "power-spell": 3374,
+    "power-weapon": 3374,
+    "resistance-critical": 1320,
+    "resistance-physical": 10436,
+    "resistance-spell": 14066,
+    "stamina-maximum": 31353,
+    "stamina-recovery": 999
+  },
+  "skills": [
+    {
+      "abilityId": 39076,
+      "name": "Werewolf Berserker",
+      "description": "Transform into a berserk beast, fearing nearby enemies for |cffffff3|r seconds.\n\nWhile transformed, you gain Major Berserk and your Light Attacks and Heavy Attacks apply a bleed for |cffffff4492|r Bleed Damage over |cffffff4|r seconds, or |cffffff2246|r Bleed Damage after |cffffff1|r second against players.\n\nWhile transformed and in combat, abilities generate Fury. When you have |cffffff1000|r, this ability becomes Rampage, which increases your damage done, Movement Speed, and removes the cost of Werewolf abilities for |cffffff20|r seconds.\n\nWhile slotted, your Stamina Recovery is increased by |cffffff15|r%."
+    }
+  ],
+  "pinned": {
+    "39076 <<1>>": 3,
+    "39076 <<10>>": 15,
+    "39076 <<4>>": 4,
+    "39076 <<6>>": 1,
+    "39076 <<7>>": 1000,
+    "39076 <<9>>": 20
+  },
+  "gaps": {
+    "39076 <<3>>": 4492,
+    "39076 <<5>>": 2246
+  }
+}

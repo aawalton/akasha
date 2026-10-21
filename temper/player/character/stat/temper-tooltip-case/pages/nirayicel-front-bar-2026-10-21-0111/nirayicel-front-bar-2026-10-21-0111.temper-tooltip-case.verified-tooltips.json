@@ -1,0 +1,84 @@
+{
+  "character": "nirayicel",
+  "bar": "primary-weapon-bar",
+  "capturedAt": 1792545112,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "stats": {
+    "critical-rating-spell": 6225,
+    "critical-rating-weapon": 6225,
+    "health-maximum": 24546,
+    "health-recovery": 0,
+    "magicka-maximum": 19621,
+    "magicka-recovery": 524,
+    "penetration-physical": 17886,
+    "penetration-spell": 17886,
+    "power-spell": 4084,
+    "power-weapon": 4084,
+    "resistance-critical": 1320,
+    "resistance-physical": 11199,
+    "resistance-spell": 11199,
+    "stamina-maximum": 26243,
+    "stamina-recovery": 0
+  },
+  "skills": [
+    {
+      "abilityId": 183047,
+      "name": "Recuperative Treatise",
+      "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff5|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3642|r Magic Damage, restores |cffffff600|r Magicka and Stamina, and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%."
+    },
+    {
+      "abilityId": 183006,
+      "name": "Cephaliarch's Flail",
+      "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff6082|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff3324|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink."
+    },
+    {
+      "abilityId": 193398,
+      "name": "Pragmatic Fatecarver",
+      "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff2757|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff9639|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage."
+    },
+    {
+      "abilityId": 34843,
+      "name": "Killer's Blade",
+      "description": "Thrust a caustic blade with lethal precision to stab an enemy, dealing |cffffff3642|r Disease Damage. Deals up to |cffffff400|r% more damage to enemies with less than |cffffff50|r% Health.\n\nHeals you for |cffffff7964|r if the enemy dies within |cffffff2|r seconds of being struck."
+    },
+    {
+      "abilityId": 61505,
+      "name": "Echoing Vigor",
+      "description": "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff17343|r Health over |cffffff16|r seconds."
+    },
+    {
+      "abilityId": 189837,
+      "name": "The Tide King's Gaze",
+      "description": "Tear open the fabric of the Aurbis to unleash a scion of Hermaeus Mora. This being casts forth a beam that rends asunder reality for |cffffff8|r seconds that deals |cffffff3612|r Magic Damage to enemies within 5 meters every |cffffff0.5|r seconds. \n\nThe scion's beam automatically follows the initial target, and hunts for a new one within 8 meters if it is slain."
+    }
+  ],
+  "pinned": {
+    "183006 <<2>>": 3,
+    "183006 <<3>>": 20,
+    "183006 <<5>>": 5,
+    "183047 <<1>>": 5,
+    "183047 <<3>>": 600,
+    "183047 <<4>>": 20,
+    "189837 <<1>>": 8,
+    "189837 <<3>>": 0.5,
+    "193398 <<1>>": 4,
+    "193398 <<3>>": 0.3,
+    "193398 <<6>>": 33,
+    "193398 <<7>>": 16,
+    "34843 <<2>>": 400,
+    "34843 <<3>>": 50,
+    "34843 <<5>>": 2,
+    "61505 <<2>>": 16
+  },
+  "gaps": {
+    "183006 <<1>>": 6082,
+    "183006 <<4>>": 3324,
+    "183047 <<2>>": 3642,
+    "189837 <<2>>": 3612,
+    "193398 <<2>>": 2757,
+    "193398 <<4>>": 9639,
+    "34843 <<1>>": 3642,
+    "34843 <<4>>": 7964,
+    "61505 <<1>>": 17343
+  }
+}

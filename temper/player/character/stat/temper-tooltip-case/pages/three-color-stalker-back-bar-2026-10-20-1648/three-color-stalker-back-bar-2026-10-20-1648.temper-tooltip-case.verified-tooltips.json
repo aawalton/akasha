@@ -1,0 +1,58 @@
+{
+  "character": "three-color-stalker",
+  "bar": "backup-weapon-bar",
+  "capturedAt": 1792514939,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "stats": {
+    "critical-rating-spell": 13095,
+    "critical-rating-weapon": 13095,
+    "health-maximum": 19630,
+    "health-recovery": 562,
+    "magicka-maximum": 13972,
+    "magicka-recovery": 937,
+    "penetration-physical": 5395,
+    "penetration-spell": 5395,
+    "power-spell": 1851,
+    "power-weapon": 1851,
+    "resistance-critical": 1320,
+    "resistance-physical": 10436,
+    "resistance-spell": 14066,
+    "stamina-maximum": 31353,
+    "stamina-recovery": 891
+  },
+  "skills": [
+    {
+      "abilityId": 25267,
+      "name": "Concealed Weapon",
+      "description": "Slash an enemy, dealing |cffffff6886|r Magic Damage. \n\nIf you strike an enemy from their flank you set them Off Balance.\n\nWhen you leave Sneak or invisibility while in combat, increase your damage done with this ability by |cffffff10|r% for |cffffff15|r seconds.\n\nWhile slotted on either bar, you gain Minor Expedition, increasing your Movement Speed by |cffffff15|r%."
+    },
+    {
+      "abilityId": 61927,
+      "name": "Relentless Focus",
+      "description": "When slotted on either bar, gain Major Savagery, increasing Critical Chance by |cffffff12|r%.\n\nYour Light and Heavy Attacks now generate a stack of Relentless Focus, up to |cffffff10|r times. Fully-charged Heavy Attacks grant two stacks.\n\nWhen at |cffffff4|r or more stacks, you can consume |cffffff4|r to fire a spectral arrow to deal |cffffff11268|r Disease Damage and heal for |cffffff34|r% of the damage dealt, if you are in melee range."
+    },
+    {
+      "abilityId": 36514,
+      "name": "Soul Harvest",
+      "description": "Ravage an enemy with a spinning attack, dealing |cffffff10017|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate."
+    }
+  ],
+  "pinned": {
+    "25267 <<2>>": 10,
+    "25267 <<3>>": 15,
+    "25267 <<5>>": 15,
+    "36514 <<2>>": 20,
+    "36514 <<3>>": 8,
+    "36514 <<4>>": 12,
+    "36514 <<5>>": 10,
+    "61927 <<2>>": 12,
+    "61927 <<4>>": 10,
+    "61927 <<5>>": 4,
+    "61927 <<7>>": 34
+  },
+  "gaps": {
+    "25267 <<1>>": 6886,
+    "36514 <<1>>": 10017,
+    "61927 <<6>>": 11268
+  }
+}

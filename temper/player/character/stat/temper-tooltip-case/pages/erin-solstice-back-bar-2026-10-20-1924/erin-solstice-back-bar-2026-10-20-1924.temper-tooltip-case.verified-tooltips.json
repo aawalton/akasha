@@ -1,0 +1,90 @@
+{
+  "character": "erin-solstice",
+  "bar": "backup-weapon-bar",
+  "capturedAt": 1792524277,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "stats": {
+    "critical-rating-spell": 5349,
+    "critical-rating-weapon": 5349,
+    "health-maximum": 46571,
+    "health-recovery": 0,
+    "magicka-maximum": 18148,
+    "magicka-recovery": 886,
+    "penetration-physical": 2829,
+    "penetration-spell": 2829,
+    "power-spell": 4021,
+    "power-weapon": 4021,
+    "resistance-critical": 1320,
+    "resistance-physical": 35625,
+    "resistance-spell": 36351,
+    "stamina-maximum": 17025,
+    "stamina-recovery": 544
+  },
+  "skills": [
+    {
+      "abilityId": 38788,
+      "name": "Stampede",
+      "description": "Launch across the earth and smash an enemy, dealing |cffffff4766|r Physical Damage to them and all nearby enemies. This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing |cffffff1034|r Physical Damage to all enemies in the area every |cffffff1|r second for |cffffff15|r seconds."
+    },
+    {
+      "abilityId": 20779,
+      "name": "Fire Keeper",
+      "description": "Throw out a purifying flame, filling a large area with warmth for |cffffff15|r seconds. This fire heals you and your allies at the target location for |cffffff1304|r Health every |cffffff1|r second. This healing increases by |cffffff50|r% if you are in the area.\n\nHealed targets gain Minor Fortitude and Minor Heroism for |cffffff15|r seconds, increasing Health Recovery by |cffffff15|r% and generating |cffffff1|r Ultimate every |cffffff1.5|r seconds."
+    },
+    {
+      "abilityId": 32853,
+      "name": "Incinerate",
+      "description": "Activate an aura of flames which launches a wave of flames every |cffffff5|r seconds, dealing |cffffff6769|r Flame Damage directly to enemies inside.\n\nEach hit has a |cffffff15|r% chance of applying Burning.\n\nWhile slotted on either bar, gain Major Savagery, increasing Critical Chance by |cffffff12|r%."
+    },
+    {
+      "abilityId": 20328,
+      "name": "Earthshield Mantle",
+      "description": "Envelop your body in molten spikes to increase your damage done to monsters by |cffffff100|r and gain Major Resolve, increasing Physical and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds.\n\nPower drawn from the heart of a volcano forms a damage shield around you that absorbs up to |cffffff18039|r damage for |cffffff6|r seconds, scaling off your Max Health."
+    },
+    {
+      "abilityId": 31874,
+      "name": "Igneous Weapons",
+      "description": "Charge you and your grouped allies' weapons with volcanic power to gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff1|r minute.\n\nWhile active, dealing damage with Light and Heavy Attacks causes an additional |cffffff1455|r Flame Damage, up to once every |cffffff2|r seconds."
+    },
+    {
+      "abilityId": 32947,
+      "name": "Standard of Might",
+      "description": "Call down a battle standard for |cffffff15|r seconds, rallying you and group members inside the area, increasing Weapon and Spell Damage by |cffffff300|r and reducing damage taken by |cffffff10|r%. You gain an additional |cffffff15|r% damage done, |cffffff15|r% reduced damage taken, and |cffffff300|r Weapon and Spell Damage.\n\nAn ally near the standard can activate the Shackle synergy, dealing |cffffff11536|r Flame Damage to enemies in the area and immobilizing them for |cffffff5|r seconds."
+    }
+  ],
+  "pinned": {
+    "20328 <<1>>": 100,
+    "20328 <<3>>": 5948,
+    "20328 <<4>>": 20,
+    "20328 <<6>>": 6,
+    "20779 <<1>>": 15,
+    "20779 <<10>>": 1.5,
+    "20779 <<3>>": 1,
+    "20779 <<6>>": 15,
+    "20779 <<7>>": 15,
+    "20779 <<8>>": 1,
+    "20779 <<9>>": 50,
+    "31874 <<2>>": 20,
+    "31874 <<5>>": 2,
+    "32853 <<1>>": 5,
+    "32853 <<3>>": 15,
+    "32853 <<6>>": 12,
+    "32947 <<1>>": 15,
+    "32947 <<2>>": 300,
+    "32947 <<3>>": 10,
+    "32947 <<4>>": 15,
+    "32947 <<7>>": 5,
+    "38788 <<3>>": 1,
+    "38788 <<4>>": 15
+  },
+  "gaps": {
+    "20328 <<5>>": 18039,
+    "20779 <<2>>": 1304,
+    "31874 <<3>>": 1,
+    "31874 <<4>>": 1455,
+    "32853 <<2>>": 6769,
+    "32947 <<6>>": 11536,
+    "38788 <<1>>": 4766,
+    "38788 <<2>>": 1034
+  }
+}

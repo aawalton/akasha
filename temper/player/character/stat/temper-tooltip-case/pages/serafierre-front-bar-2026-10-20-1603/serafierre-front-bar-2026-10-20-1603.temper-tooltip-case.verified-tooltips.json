@@ -1,0 +1,58 @@
+{
+  "character": "serafierre",
+  "bar": "primary-weapon-bar",
+  "capturedAt": 1792512219,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "stats": {
+    "critical-rating-spell": 3815,
+    "critical-rating-weapon": 3815,
+    "health-maximum": 17960,
+    "health-recovery": 399,
+    "magicka-maximum": 14781,
+    "magicka-recovery": 604,
+    "penetration-physical": 16809,
+    "penetration-spell": 16809,
+    "power-spell": 4807,
+    "power-weapon": 4807,
+    "resistance-critical": 1320,
+    "resistance-physical": 11199,
+    "resistance-spell": 11199,
+    "stamina-maximum": 24848,
+    "stamina-recovery": 812
+  },
+  "skills": [
+    {
+      "abilityId": 185842,
+      "name": "Inspired Scholarship",
+      "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3511|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%."
+    },
+    {
+      "abilityId": 183006,
+      "name": "Cephaliarch's Flail",
+      "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff7689|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff3421|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink."
+    },
+    {
+      "abilityId": 193398,
+      "name": "Pragmatic Fatecarver",
+      "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff3484|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff8980|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage."
+    }
+  ],
+  "pinned": {
+    "183006 <<2>>": 3,
+    "183006 <<3>>": 20,
+    "183006 <<5>>": 5,
+    "185842 <<1>>": 3,
+    "185842 <<3>>": 20,
+    "193398 <<1>>": 4,
+    "193398 <<3>>": 0.3,
+    "193398 <<6>>": 33,
+    "193398 <<7>>": 16
+  },
+  "gaps": {
+    "183006 <<1>>": 7689,
+    "183006 <<4>>": 3421,
+    "185842 <<2>>": 3511,
+    "193398 <<2>>": 3484,
+    "193398 <<4>>": 8980
+  }
+}

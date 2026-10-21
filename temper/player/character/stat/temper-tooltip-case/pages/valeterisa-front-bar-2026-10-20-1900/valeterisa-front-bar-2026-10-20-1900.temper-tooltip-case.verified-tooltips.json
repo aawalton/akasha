@@ -1,0 +1,80 @@
+{
+  "character": "valeterisa",
+  "bar": "primary-weapon-bar",
+  "capturedAt": 1792522814,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "stats": {
+    "critical-rating-spell": 6448,
+    "critical-rating-weapon": 6448,
+    "health-maximum": 19038,
+    "health-recovery": 373,
+    "magicka-maximum": 63031,
+    "magicka-recovery": 1415,
+    "penetration-physical": 6335,
+    "penetration-spell": 6335,
+    "power-spell": 2335,
+    "power-weapon": 2335,
+    "resistance-critical": 1320,
+    "resistance-physical": 12406,
+    "resistance-spell": 19072,
+    "stamina-maximum": 15646,
+    "stamina-recovery": 773
+  },
+  "skills": [
+    {
+      "abilityId": 34835,
+      "name": "Swallow Soul",
+      "description": "Steal an enemy's life force, dealing |cffffff11271|r Magic Damage and healing you for |cffffff35|r% of the damage inflicted every |cffffff2|r seconds for |cffffff10|r seconds.\n\nDeals |cffffff1|r% more damage for every |cffffff2|r% Health you have."
+    },
+    {
+      "abilityId": 40465,
+      "name": "Scalding Rune",
+      "description": "Inscribe a rune of cosmic fire on the earth, which takes |cffffff2|r seconds to arm and lasts for |cffffff22|r seconds.\n\nWhen triggered, the rune blasts all enemies in the target area for |cffffff10250|r Flame Damage and an additional |cffffff12360|r Flame Damage over |cffffff24|r seconds."
+    },
+    {
+      "abilityId": 40457,
+      "name": "Degeneration",
+      "description": "Bind an enemy with chaotic magic, dealing |cffffff19956|r Magic Damage over |cffffff22|r seconds.\n\nExcess magic spills out from them, granting you Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff22|r seconds."
+    },
+    {
+      "abilityId": 76076,
+      "name": "Summon Unstable Clannfear",
+      "description": "Command the powers of Oblivion to send a Daedric clannfear to fight at your side. The clannfear's headbutt deals |cffffff1502|r Physical Damage, while its tail spike hits nearby enemies for |cffffff1587|r Physical Damage after |cffffff1|r second.  \n\nOnce summoned, you can activate the clannfear's special ability for |cffffff3499|r Magicka, healing you for |cffffff6398|r and the clannfear for |cffffff3198|r.\n\nThe clannfear remains until killed or unsummoned."
+    },
+    {
+      "abilityId": 40478,
+      "name": "Inner Light",
+      "description": "Conjure a mote of magelight, revealing stealthed and invisible enemies around you for |cffffff7|r seconds. Exposed enemies cannot return to stealth or invisibility for |cffffff4|r seconds. The light is so brilliant that you cannot conceal your presence while active.\n\nWhile slotted gain Major Savagery, increasing Critical Chance by |cffffff12|r% and your Max Magicka is increased by |cffffff5|r%."
+    },
+    {
+      "abilityId": 40489,
+      "name": "Ice Comet",
+      "description": "Call a comet down from the constellations to blast an enemy, dealing |cffffff20382|r Frost Damage to all enemies in the area, knocking them down and stunning them for |cffffff2|r seconds.\n\nOne second after impact, enemies in the target area take |cffffff6679|r Frost Damage every |cffffff1|r second for |cffffff12|r seconds.\n\nEnemies damaged by either portion have their Movement Speed reduced by |cffffff50|r% for |cffffff4|r seconds."
+    }
+  ],
+  "pinned": {
+    "34835 <<3>>": 2,
+    "34835 <<4>>": 10,
+    "34835 <<5>>": 1,
+    "34835 <<6>>": 2,
+    "40457 <<4>>": 20,
+    "40478 <<2>>": 4,
+    "40478 <<4>>": 12,
+    "40478 <<5>>": 5,
+    "40489 <<2>>": 2,
+    "40489 <<4>>": 1,
+    "40489 <<6>>": 50
+  },
+  "gaps": {
+    "34835 <<1>>": 11271,
+    "34835 <<2>>": 35,
+    "40457 <<1>>": 19956,
+    "40457 <<2>>": 22,
+    "40457 <<5>>": 22,
+    "40478 <<1>>": 7,
+    "40489 <<1>>": 20382,
+    "40489 <<3>>": 6679,
+    "40489 <<5>>": 12,
+    "40489 <<7>>": 4
+  }
+}

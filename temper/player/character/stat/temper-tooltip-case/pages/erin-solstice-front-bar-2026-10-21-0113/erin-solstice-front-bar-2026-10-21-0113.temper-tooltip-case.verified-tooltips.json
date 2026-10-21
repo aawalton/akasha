@@ -1,0 +1,93 @@
+{
+  "character": "erin-solstice",
+  "bar": "primary-weapon-bar",
+  "capturedAt": 1792545237,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "stats": {
+    "critical-rating-spell": 5130,
+    "critical-rating-weapon": 5130,
+    "health-maximum": 43104,
+    "health-recovery": 0,
+    "magicka-maximum": 16456,
+    "magicka-recovery": 852,
+    "penetration-physical": 3674,
+    "penetration-spell": 3674,
+    "power-spell": 3093,
+    "power-weapon": 3093,
+    "resistance-critical": 1320,
+    "resistance-physical": 36902,
+    "resistance-spell": 36902,
+    "stamina-maximum": 17141,
+    "stamina-recovery": 544
+  },
+  "skills": [
+    {
+      "abilityId": 38754,
+      "name": "Brawler",
+      "description": "Focus your strength into a mighty swing, dealing |cffffff4582|r Physical Damage to enemies in front of you.\n\nYou also gain a damage shield that absorbs |cffffff4564|r damage for |cffffff6|r seconds. Each enemy hit increases the damage shield's strength by |cffffff50|r%, up to |cffffff300|r%."
+    },
+    {
+      "abilityId": 31816,
+      "name": "Magma Fist",
+      "description": "Draw forth magma from below to hurl at an enemy, dealing |cffffff5973|r Flame Damage while applying a stack of Heat Shock, which increases the enemy's damage taken by |cffffff66|r for |cffffff7|r seconds per stack, up to |cffffff3|r times.\n\nHitting an enemy at max stacks of Heat Shock with this ability increases the damage done of the next cast of this ability within |cffffff6|r seconds by |cffffff66|r%, up to once every |cffffff6|r seconds."
+    },
+    {
+      "abilityId": 20816,
+      "name": "Flame Lash",
+      "description": "Lash an enemy with flame, dealing |cffffff5782|r Flame Damage and healing for |cffffff1799|r Health.\n\nHitting an Off Balance enemy grants |cffffff5|r stacks of Power Lash for |cffffff20|r seconds, up to once every |cffffff20|r seconds. After activating, you gain |cffffff3|r% damage done to monsters for |cffffff45|r seconds.\n\nActivating again consumes a stack to deal |cffffff9408|r Flame Damage to your target and all nearby enemies and heals for |cffffff3599|r Health."
+    },
+    {
+      "abilityId": 20944,
+      "name": "Disintegrating Dragonfire",
+      "description": "Exhale a blast of draconic fire in front of you, dealing |cffffff4733|r Flame Damage, applying the Burning status effect, and an additional |cffffff7035|r Flame Damage over |cffffff10|r seconds to enemies in your path.\n\nThe initial hit liquifies the armor of your enemies, applying Major Breach to enemies for the duration, reducing Physical and Spell Resistance by |cffffff5948|r."
+    },
+    {
+      "abilityId": 20660,
+      "name": "Burning Embers",
+      "description": "Slash your foe with a fiery claw, dealing |cffffff2891|r Flame Damage and an additional |cffffff8180|r Flame Damage over |cffffff10|r seconds.\n\nYou heal for |cffffff9382|r Health from the initial hit and |cffffff1407|r Health each subsequent tick, scaling off your Max Health.\n\nThe initial hit always applies the Burning status effect."
+    },
+    {
+      "abilityId": 17874,
+      "name": "Magma Shell",
+      "description": "Ignite the molten lava in your veins, limiting incoming damage to |cffffff3|r% of your Max Health for |cffffff15|r seconds.\n\nWhen activated, nearby allies gain a damage shield for |cffffff153|r% of their Max Health for |cffffff10|r seconds.\n\nWhile active, you cannot generate Ultimate."
+    }
+  ],
+  "pinned": {
+    "17874 <<1>>": 3,
+    "17874 <<2>>": 15,
+    "17874 <<4>>": 10,
+    "20660 <<3>>": 10,
+    "20816 <<3>>": 5,
+    "20816 <<5>>": 20,
+    "20816 <<6>>": 20,
+    "20816 <<7>>": 3,
+    "20816 <<8>>": 45,
+    "20944 <<4>>": 10,
+    "20944 <<6>>": 5948,
+    "31816 <<3>>": 66,
+    "31816 <<4>>": 7,
+    "31816 <<5>>": 6,
+    "31816 <<6>>": 66,
+    "31816 <<7>>": 6,
+    "31816 <<8>>": 3,
+    "38754 <<3>>": 6,
+    "38754 <<4>>": 50,
+    "38754 <<5>>": 300
+  },
+  "gaps": {
+    "17874 <<3>>": 153,
+    "20660 <<1>>": 2891,
+    "20660 <<2>>": 8180,
+    "20660 <<4>>": 9382,
+    "20660 <<5>>": 1407,
+    "20816 <<1>>": 5782,
+    "20816 <<10>>": 3599,
+    "20816 <<2>>": 1799,
+    "20816 <<9>>": 9408,
+    "20944 <<1>>": 4733,
+    "20944 <<3>>": 7035,
+    "31816 <<1>>": 5973,
+    "38754 <<1>>": 4582,
+    "38754 <<2>>": 4564
+  }
+}

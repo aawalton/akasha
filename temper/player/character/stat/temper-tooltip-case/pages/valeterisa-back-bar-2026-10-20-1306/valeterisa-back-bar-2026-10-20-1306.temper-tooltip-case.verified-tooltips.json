@@ -1,0 +1,73 @@
+{
+  "character": "valeterisa",
+  "bar": "backup-weapon-bar",
+  "capturedAt": 1792501608,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "stats": {
+    "critical-rating-spell": 6448,
+    "critical-rating-weapon": 6448,
+    "health-maximum": 19936,
+    "health-recovery": 373,
+    "magicka-maximum": 66970,
+    "magicka-recovery": 1351,
+    "penetration-physical": 6335,
+    "penetration-spell": 6335,
+    "power-spell": 2335,
+    "power-weapon": 2335,
+    "resistance-critical": 1320,
+    "resistance-physical": 9048,
+    "resistance-spell": 15714,
+    "stamina-maximum": 14398,
+    "stamina-recovery": 773
+  },
+  "skills": [
+    {
+      "abilityId": 34835,
+      "name": "Swallow Soul",
+      "description": "Steal an enemy's life force, dealing |cffffff13105|r Magic Damage and healing you for |cffffff35|r% of the damage inflicted every |cffffff2|r seconds for |cffffff10|r seconds.\n\nDeals |cffffff1|r% more damage for every |cffffff2|r% Health you have."
+    },
+    {
+      "abilityId": 46324,
+      "name": "Crystal Fragments",
+      "description": "Conjure dark crystals to bombard an enemy, dealing |cffffff12058|r Magic Damage. Your next non-Ultimate ability cast within |cffffff3|r seconds costs |cffffff10|r% less.\n\nWhile slotted on either bar, casting a non-Ultimate ability has a |cffffff33|r% chance of causing your next Crystal Fragments to be instant cast at half cost, dealing |cffffff20016|r Magic Damage."
+    },
+    {
+      "abilityId": 29489,
+      "name": "Hardened Ward",
+      "description": "Conjure globes of Daedric energy for protection, granting a damage shield for you and your pets that absorbs |cffffff14353|r damage for |cffffff6|r seconds.\n\nThis ability scales off the higher of your Max Health or Magicka and the shield is capped at |cffffff72|r% of your Max Health."
+    },
+    {
+      "abilityId": 76076,
+      "name": "Summon Unstable Clannfear",
+      "description": "Command the powers of Oblivion to send a Daedric clannfear to fight at your side. The clannfear's headbutt deals |cffffff1746|r Physical Damage, while its tail spike hits nearby enemies for |cffffff1835|r Physical Damage after |cffffff1|r second.  \n\nOnce summoned, you can activate the clannfear's special ability for |cffffff3499|r Magicka, healing you for |cffffff6700|r and the clannfear for |cffffff3349|r.\n\nThe clannfear remains until killed or unsummoned."
+    },
+    {
+      "abilityId": 40478,
+      "name": "Inner Light",
+      "description": "Conjure a mote of magelight, revealing stealthed and invisible enemies around you for |cffffff7|r seconds. Exposed enemies cannot return to stealth or invisibility for |cffffff4|r seconds. The light is so brilliant that you cannot conceal your presence while active.\n\nWhile slotted gain Major Savagery, increasing Critical Chance by |cffffff12|r% and your Max Magicka is increased by |cffffff5|r%."
+    },
+    {
+      "abilityId": 38932,
+      "name": "Swarming Scion",
+      "description": "Transform into a monstrous creature of the night, instantly healing to full Health.\n\nWhile transformed, your Max Health, Magicka, and Stamina are increased by |cffffff10000|r, you heal for |cffffff16|r% of all damage you deal, and you can see enemies through walls. \n\nBats also swarm around you and shred enemies that come close, dealing |cffffff3798|r Magic Damage every |cffffff1|r second."
+    }
+  ],
+  "pinned": {
+    "34835 <<3>>": 2,
+    "34835 <<4>>": 10,
+    "34835 <<5>>": 1,
+    "34835 <<6>>": 2,
+    "38932 <<1>>": 10000,
+    "38932 <<4>>": 1,
+    "40478 <<2>>": 4,
+    "40478 <<4>>": 12,
+    "40478 <<5>>": 5
+  },
+  "gaps": {
+    "34835 <<1>>": 13105,
+    "34835 <<2>>": 35,
+    "38932 <<2>>": 16,
+    "38932 <<3>>": 3798,
+    "40478 <<1>>": 7
+  }
+}

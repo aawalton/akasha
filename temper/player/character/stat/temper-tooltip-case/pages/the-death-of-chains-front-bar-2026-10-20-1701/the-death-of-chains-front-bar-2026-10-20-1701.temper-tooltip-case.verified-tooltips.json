@@ -1,0 +1,76 @@
+{
+  "character": "the-death-of-chains",
+  "bar": "primary-weapon-bar",
+  "capturedAt": 1792515669,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "stats": {
+    "critical-rating-spell": 3135,
+    "critical-rating-weapon": 3135,
+    "health-maximum": 19756,
+    "health-recovery": 479,
+    "magicka-maximum": 14430,
+    "magicka-recovery": 664,
+    "penetration-physical": 10206,
+    "penetration-spell": 10206,
+    "power-spell": 4598,
+    "power-weapon": 4598,
+    "resistance-critical": 1320,
+    "resistance-physical": 18638,
+    "resistance-spell": 18638,
+    "stamina-maximum": 28392,
+    "stamina-recovery": 856
+  },
+  "skills": [
+    {
+      "abilityId": 183047,
+      "name": "Recuperative Treatise",
+      "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff5|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff4414|r Magic Damage, restores |cffffff600|r Magicka and Stamina, and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%."
+    },
+    {
+      "abilityId": 183006,
+      "name": "Cephaliarch's Flail",
+      "description": "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff7788|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff3622|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink."
+    },
+    {
+      "abilityId": 193398,
+      "name": "Pragmatic Fatecarver",
+      "description": "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff3530|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies. While channeling, you also gain a damage shield that absorbs up to |cffffff9878|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage."
+    },
+    {
+      "abilityId": 61524,
+      "name": "Blinding Flare",
+      "description": "Launch a blinding flare, revealing stealthed and invisible enemies in the target area for |cffffff5|r seconds. Exposed enemies are stunned for |cffffff4|r seconds, and cannot return to stealth or invisibility for |cffffff4|r seconds.\n\nWhile slotted you gain Major Protection, reducing your damage taken by |cffffff10|r%."
+    },
+    {
+      "abilityId": 61500,
+      "name": "Proximity Detonation",
+      "description": "Activate a magical bomb on yourself that explodes after |cffffff8|r seconds, dealing |cffffff1804|r Magic Damage to all enemies in the area.\n\nEach enemy within the bomb's radius increases the damage by |cffffff100|r%, including the original target."
+    }
+  ],
+  "pinned": {
+    "183006 <<2>>": 3,
+    "183006 <<3>>": 20,
+    "183006 <<5>>": 5,
+    "183047 <<1>>": 5,
+    "183047 <<3>>": 600,
+    "183047 <<4>>": 20,
+    "193398 <<1>>": 4,
+    "193398 <<3>>": 0.3,
+    "193398 <<6>>": 33,
+    "193398 <<7>>": 16,
+    "61500 <<1>>": 8,
+    "61500 <<3>>": 100,
+    "61524 <<1>>": 5,
+    "61524 <<2>>": 4,
+    "61524 <<3>>": 4,
+    "61524 <<5>>": 10
+  },
+  "gaps": {
+    "183006 <<1>>": 7788,
+    "183006 <<4>>": 3622,
+    "183047 <<2>>": 4414,
+    "193398 <<2>>": 3530,
+    "193398 <<4>>": 9878,
+    "61500 <<2>>": 1804
+  }
+}
