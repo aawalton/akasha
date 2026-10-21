@@ -75,6 +75,7 @@ export type MetricId =
   | "damage-taken-magical"
   | "damage-taken-martial"
   | "damage-taken-trial"
+  | "defense-bleed-mitigation"
   | "defense-crit-dmg"
   | "defense-flame-mitigation"
   | "defense-physical-aoe-mitigation"
