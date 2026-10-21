@@ -359,6 +359,12 @@ function tooltipValueOf(
   }
   if (equation.tags.includes(SHIELD)) return shieldOf(equation, worked, stats, passives, active)
   const healing = equation.tags.includes(HEAL)
+  const rank = rankOf(equation)
+  if (healing && rank !== undefined) {
+    const grown = bonusOf(equation, passives, active) * stackedOf(equation, active)
+    const healed = rankedHealOf(equation, { ...stats, maxPower }, grown, rank)
+    return healed * ticksOf(equation, durationMs)
+  }
   const base = healing ? healOf(equation, { ...stats, maxPower }) : worked
   const bonused = bonusOf(equation, passives, active) * stackedOf(equation, active) * base
   const ticks = ticksOf(equation, durationMs)
@@ -368,6 +374,29 @@ function tooltipValueOf(
 }
 
 const FLOORED: readonly (keyof EquationStats)[] = ["maxStat", "maxPower"]
+
+const RANKS: Readonly<Record<string, number>> = { "rank IV": 1.033 }
+
+function rankOf(equation: Equation): number | undefined {
+  const tag = equation.tags.find((one) => RANKS[one] !== undefined)
+  return tag === undefined ? undefined : RANKS[tag]
+}
+
+function rankedHealOf(
+  equation: Equation,
+  stats: EquationStats,
+  grown: number,
+  rank: number
+): number {
+  const single = Math.fround
+  const summed = equation.terms.reduce(
+    (sum, [variable, by]) => sum + Math.floor(single(single(by) * stats[variable])),
+    equation.constant
+  )
+  const stacked = Math.round(single(single(grown) * summed))
+  const ranked = Math.floor(single(single(rank) * stacked))
+  return Math.round(single(single(1 + stats.healingDone) * ranked))
+}
 
 function healOf(equation: Equation, stats: EquationStats): number {
   return equation.terms.reduce((sum, [variable, by]) => {

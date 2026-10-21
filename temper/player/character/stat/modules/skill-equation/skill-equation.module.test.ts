@@ -344,6 +344,17 @@ test("a heal over time totals each tick grown by the healing done, unless it is 
   expect(worked(vigor.replace("ticks on application)", "per tick)"), 16000)).toBe(tick)
 })
 
+test("a heal tagged rank IV floors its term and grows 3.3% floored, in single precision", () => {
+  const line = "<<4>> = 0.2066 Health (Heal, rank IV)"
+  const worked = (health: number, stacks = 0) => {
+    const active = { ...NOTHING_ACTIVE, stacks: { Landslide: stacks } }
+    const stats = { ...STATS, health, healingDone: Math.fround(0.02) }
+    const paired = tooltipPairingOf("|cffffff1|r", [line], stats, new Set(), active)
+    return paired.paired ? paired.numbers[0]?.temper : undefined
+  }
+  expect([worked(43104), worked(32651, 1), worked(32454)]).toEqual([9382, 7177, 7064])
+})
+
 test("Emerald Moss adds 5% healing done to a Green Balance skill for each one on the bar", () => {
   const green = emeraldMoss.skillLineId
   const shadow = darkCloak25377.skillLineId

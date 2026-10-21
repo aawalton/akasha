@@ -180,6 +180,24 @@ export const skillEquation = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A heal tagged `rank IV` is worked in single precision, as the game holds it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That heal rounds down each term, and Landslide's stacks grow the sum, rounded.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Rank IV then grows that heal 3.3%, rounded down, before the healing done grows it.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "A reading names no skill's rank, so an equation states rank IV where the game's numbers show it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The healing done is the Healing Done Temper works out for the build, not a tooltip.",
     },
@@ -209,5 +227,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T07:52:35.822Z",
+  updatedAt: "2026-10-21T09:14:07.551Z",
 } as const satisfies Module
