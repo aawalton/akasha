@@ -20,6 +20,7 @@
 {"propertySlug":"import","fileName":"temper-debuff-other.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-other/pages/sundered/sundered.temper-debuff-other.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-debuff-other.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-other/pages/unstoppable/unstoppable.temper-debuff-other.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/effect/temper-effect.domain.ts","id":"01a05fba-ce3c-73cc-87ea-23462f201563"}
+{"propertySlug":"test-reads","path":"temper/player/character/stat/modules/combat-case/combat-case.module.ts","id":"01a15f6d-8dd5-7d8a-b7d5-94c75ecffd0b"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/extract-sets/extract-sets.module.ts","id":"01a06271-abcf-7e09-9c2e-cff7fd7c0f46"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.ts","id":"01a06271-abd0-7258-9fc4-ca306f191976"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/stat-case/stat-case.module.ts","id":"01a13b6c-6cf8-7106-b132-ed425b58823b"}

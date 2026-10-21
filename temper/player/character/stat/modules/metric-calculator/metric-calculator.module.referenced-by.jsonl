@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"metric-calculator.module.code.ts","path":"command/pages/temper/build-show/modules/build-show-gap-stats/build-show-gap-stats.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"metric-calculator.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"metric-calculator.module.code.ts","path":"temper/player/character/stat/modules/character-rotation-reading/character-rotation-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"metric-calculator.module.code.ts","path":"temper/player/character/stat/modules/combat-case/combat-case.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"metric-calculator.module.code.ts","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"metric-calculator.module.code.ts","path":"temper/player/character/stat/modules/stat-case/stat-case.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"metric-calculator.module.code.ts","path":"temper/player/character/stat/modules/tooltip-case/tooltip-case.module.code.ts","typed":false,"deferred":false}

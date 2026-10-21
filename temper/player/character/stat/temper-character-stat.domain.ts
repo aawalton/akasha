@@ -74,6 +74,8 @@ export const temperCharacterStat = {
     "module/tooltip-pairing",
     "module/skill-power",
     "page-type/temper-combat-case",
+    "module/combat-case",
+    "module/glyph-hit",
   ],
   directives: [
     {
@@ -115,5 +117,5 @@ export const temperCharacterStat = {
     },
   ],
   createdAt: "2026-09-02T08:15:09.030Z",
-  updatedAt: "2026-10-21T17:04:30.512Z",
+  updatedAt: "2026-10-21T17:06:17.684Z",
 } as const satisfies Domain

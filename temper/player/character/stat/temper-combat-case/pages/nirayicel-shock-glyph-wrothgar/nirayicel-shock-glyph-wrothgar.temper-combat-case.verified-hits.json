@@ -1,0 +1,171 @@
+{
+  "character": "nirayicel",
+  "buildHash": "ATQILMUAAIBhxRNCyJtACFkTaAELmC25IXMFtyQuYLbkhcwW3JC5gtuQhKVbckEdvUACCDdtyJiUx23KIgmOtuV9IwnOLRMVTyekSX0s0HVMkAAyzlUhFAGWpTgAIAGYAECEKgLJwg9AHYADmQBKC4pUBDJoFojMxIwgYAQCCc5HKRhQdIUZDg4AAAAA1IsScMrHkyy5k2dn0adWvbPoUaVOp4qgAAAAbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1gAAAAGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0m-CAyDjEgaw",
+  "reading": "01a1566c-a042-7747-bf36-fdb71c1a847d",
+  "readingsAgreeing": 40,
+  "esoVersion": "eso.live.12.1.6.3309674",
+  "bar": "primary-weapon-bar",
+  "enchant": "Deals |cffffff2534|r Shock Damage.",
+  "pinned": [
+    {
+      "fight": 1792437575,
+      "ms": 20093,
+      "abilityId": 17899,
+      "target": "Vosh Rakh Disciple",
+      "hit": 3060,
+      "overflow": 0,
+      "targetEffects": [
+        61742,
+        178123,
+        183008,
+        183009
+      ],
+      "debuffs": [
+        "abyssal-ink"
+      ]
+    },
+    {
+      "fight": 1792437575,
+      "ms": 33525,
+      "abilityId": 17899,
+      "target": "Vosh Rakh Disciple",
+      "hit": 2914,
+      "overflow": 0,
+      "targetEffects": [],
+      "debuffs": []
+    },
+    {
+      "fight": 1792437782,
+      "ms": 12504,
+      "abilityId": 17899,
+      "target": "Vosh Rakh Taskmaster",
+      "hit": 3060,
+      "overflow": 0,
+      "targetEffects": [
+        88401,
+        178118,
+        183008,
+        183009
+      ],
+      "debuffs": [
+        "abyssal-ink"
+      ]
+    },
+    {
+      "fight": 1792438445,
+      "ms": 658,
+      "abilityId": 17899,
+      "target": "Shield-Wife Oshgana",
+      "hit": 2914,
+      "overflow": 0,
+      "targetEffects": [],
+      "debuffs": []
+    },
+    {
+      "fight": 1792438501,
+      "ms": 8637,
+      "abilityId": 17899,
+      "target": "Vosh Rakh Warrior",
+      "hit": 3060,
+      "overflow": 0,
+      "targetEffects": [
+        183008,
+        183009
+      ],
+      "debuffs": [
+        "abyssal-ink"
+      ]
+    },
+    {
+      "fight": 1792438677,
+      "ms": 2431,
+      "abilityId": 17899,
+      "target": "Vosh Rakh Sentinel",
+      "hit": 3060,
+      "overflow": 0,
+      "targetEffects": [
+        183008,
+        183009
+      ],
+      "debuffs": [
+        "abyssal-ink"
+      ]
+    },
+    {
+      "fight": 1792438707,
+      "ms": 2,
+      "abilityId": 17899,
+      "target": "Vosh Rakh Warrior",
+      "hit": 2914,
+      "overflow": 0,
+      "targetEffects": [],
+      "debuffs": []
+    },
+    {
+      "fight": 1792439070,
+      "ms": 2695,
+      "abilityId": 17899,
+      "target": "Vosh Rakh Blade-Bearer",
+      "hit": 2914,
+      "overflow": 0,
+      "targetEffects": [],
+      "debuffs": []
+    },
+    {
+      "fight": 1792439153,
+      "ms": 8442,
+      "abilityId": 17899,
+      "target": "King Kurog",
+      "hit": 3060,
+      "overflow": 0,
+      "targetEffects": [
+        18084,
+        183008
+      ],
+      "debuffs": [
+        "abyssal-ink"
+      ]
+    },
+    {
+      "fight": 1792439153,
+      "ms": 33708,
+      "abilityId": 17899,
+      "target": "King Kurog",
+      "hit": 2914,
+      "overflow": 0,
+      "targetEffects": [],
+      "debuffs": []
+    },
+    {
+      "fight": 1792439153,
+      "ms": 60264,
+      "abilityId": 17899,
+      "target": "King Kurog",
+      "hit": 3060,
+      "overflow": 0,
+      "targetEffects": [
+        183008
+      ],
+      "debuffs": [
+        "abyssal-ink"
+      ]
+    }
+  ],
+  "unexplained": [
+    {
+      "fight": 1792439153,
+      "ms": 12939,
+      "abilityId": 17899,
+      "target": "King Kurog",
+      "hit": 1,
+      "overflow": 0,
+      "targetEffects": [
+        88401,
+        183008
+      ],
+      "debuffs": [
+        "abyssal-ink"
+      ]
+    }
+  ]
+}

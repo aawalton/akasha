@@ -387,6 +387,7 @@
 {"propertySlug":"target-page-type","path":"temper/catalog/thing/properties/effect-metric.relation-property.ts","id":"01a0d3fb-ee3d-7a22-b414-2c3736bcc96a"}
 {"propertySlug":"target-page-type","path":"temper/catalog/thing/properties/higher-of.multi-relation-property.ts","id":"01a15725-b46b-75f4-9078-13b1f356b31f"}
 {"propertySlug":"target-page-type","path":"temper/player/progress/temper-metric-tree/properties/metric-tree-parent.relation-property.ts","id":"01a0cade-0463-70a3-964b-14162e508635"}
+{"propertySlug":"test-reads","path":"temper/player/character/stat/modules/combat-case/combat-case.module.ts","id":"01a15f6d-8dd5-7d8a-b7d5-94c75ecffd0b"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/extract-sets/extract-sets.module.ts","id":"01a06271-abcf-7e09-9c2e-cff7fd7c0f46"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.ts","id":"01a06271-abd0-7258-9fc4-ca306f191976"}
 {"propertySlug":"test-reads","path":"temper/player/character/stat/modules/stat-case/stat-case.module.ts","id":"01a13b6c-6cf8-7106-b132-ed425b58823b"}

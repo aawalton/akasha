@@ -99,6 +99,7 @@
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/character/skill/modules/reading-class-masteries/reading-class-masteries.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/character/skill/modules/scribed-skill-source/scribed-skill-source.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/character/source/modules/mundus-source/mundus-source.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/character/stat/modules/combat-case/combat-case.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/character/stat/modules/extract-armor/extract-armor.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/character/stat/modules/extract-class-masteries/extract-class-masteries.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/character/stat/modules/extract-passives/extract-passives.module.test.ts","typed":false,"deferred":false}
