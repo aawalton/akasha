@@ -130,7 +130,12 @@ export const skillEquation = {
       decisionKind: "decision-kind/stopgap",
       statement: "A buff that stacks on the caster is not read, and the numbers it grows are gaps.",
     },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "A heal is worked without the build's healing done until where the game rounds a heal is read.",
+    },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T04:08:18.668Z",
+  updatedAt: "2026-10-21T04:15:04.901Z",
 } as const satisfies Module

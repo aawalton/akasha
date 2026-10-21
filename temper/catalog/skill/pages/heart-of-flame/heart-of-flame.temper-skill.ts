@@ -20,10 +20,10 @@ export const heartOfFlame = {
   skillType: "temper-skill-type/active",
   hashPlace: 617,
   createdAt: "2026-05-28T16:03:32.729Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T04:15:04.901Z",
   equations: [
     "<<1>> = 12% (Constant)",
-    "<<2>> = 0.12396 Health (Health, RankMod(1), Heal, SingleTarget, Direct, 2s tick, R2 = 1)",
+    "<<2>> = 0.12803035 Health (Health, RankMod(1), Heal, SingleTarget, Direct, 2s tick)",
     "<<3>> = 2 seconds (Constant)",
     "<<4>> = 4 seconds (Constant)",
     "<<5>> = 0.089096 MaxStat + 0.935511 MaxPower (Ultimate, ratio = 10.50, Dmg, Flame, AOE, Direct, Melee, R2 = 1)",
