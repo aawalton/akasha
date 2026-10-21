@@ -103,6 +103,17 @@ test("with no case named, every case is reached", () => {
   expect(said.edits.map((one) => (one.kind === "replace" ? one.path : ""))).toEqual([STATS_AT])
 })
 
+test("a reading whose build hash was written again is still the case's reading", () => {
+  const rewritten = LINE.replace('"buildHash":"ATQI"', '"buildHash":"ATQN"')
+  const said = addStatCaseStatsCommand(
+    worldOf(TEXT, `${rewritten}\n`),
+    { stats: FLAME },
+    estimateGiven
+  )
+
+  expect(said.edits.length).toBe(1)
+})
+
 test("a stat the case holds already is left as it is", () => {
   const held = statCaseText({ ...READ, pinned: {}, gaps: { [FLAME]: 1 } })
   const said = addStatCaseStatsCommand(worldOf(held, `${LINE}\n`), { stats: FLAME }, estimateGiven)

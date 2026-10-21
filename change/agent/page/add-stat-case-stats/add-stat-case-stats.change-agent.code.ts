@@ -75,10 +75,7 @@ function linesFor(world: World, character: string, held: Map<string, readonly Li
 
 function sheetOf(statCase: StatCase, lines: readonly Line[]): Record<string, number> | null {
   const line = lines.find(
-    (one) =>
-      one.bar === BAR_KEYS[statCase.bar] &&
-      one.reading.capturedAt === statCase.capturedAt &&
-      one.buildHash === statCase.buildHash
+    (one) => one.bar === BAR_KEYS[statCase.bar] && one.reading.capturedAt === statCase.capturedAt
   )
   if (line === undefined) return null
   const sheet = sheetShape.safeParse(line.reading["advancedSheet"])

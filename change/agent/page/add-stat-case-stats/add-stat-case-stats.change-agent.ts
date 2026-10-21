@@ -26,6 +26,11 @@ export const addStatCaseStats = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A case's reading is the one captured at its second on its bar, whatever its hash.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A stat the estimate reproduces is pinned, and any other is kept as a gap.",
     },
     {
@@ -42,5 +47,5 @@ export const addStatCaseStats = {
   maxCpuSeconds: 120,
   maxMemoryMb: 2048,
   createdAt: "2026-10-21T04:03:31.707Z",
-  updatedAt: "2026-10-21T04:03:31.707Z",
+  updatedAt: "2026-10-21T04:06:58.814Z",
 } as const satisfies ChangeAgent
