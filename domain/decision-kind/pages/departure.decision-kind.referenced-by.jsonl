@@ -6354,7 +6354,6 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/routing/test-fixtures/inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.test-fixture.ts","id":"01a06289-2676-74b4-91ec-0643ccf4bba1"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/routing/test-fixtures/inventory-management-plan-test-utils/inventory-management-plan-test-utils.test-fixture.ts","id":"01a0615a-a1dc-7882-8483-be86859114a7"}
 {"propertySlug":"decision-kind","path":"temper/modules/addon-init/addon-init.module.ts","id":"01a060ae-335f-75cf-867a-8b88bb3db05e"}
-{"propertySlug":"decision-kind","path":"temper/modules/assert-schema-keys-match-payload/assert-schema-keys-match-payload.module.ts","id":"01a15a2d-b686-7f31-a7d4-116d2771b439"}
 {"propertySlug":"decision-kind","path":"temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.ts","id":"01a06075-b052-7e77-979b-c9bea93f7ba3"}
 {"propertySlug":"decision-kind","path":"temper/modules/character-class/character-class.module.ts","id":"01a06076-1b68-7f3a-8237-8beb701e2f8f"}
 {"propertySlug":"decision-kind","path":"temper/modules/chat-entry-text/chat-entry-text.module.ts","id":"01a090b3-cd34-73db-8728-72f922749cda"}
@@ -6707,6 +6706,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/skill-morph/modules/skill-organization/skill-organization.module.ts","id":"01a061c7-0738-769a-abd8-5f7ceef65b23"}
 {"propertySlug":"decision-kind","path":"temper/player/skill-morph/temper-skill-morph.domain.ts","id":"01a061c7-0738-7e24-b2fa-36e9b8781b9c"}
 {"propertySlug":"decision-kind","path":"temper/temper.domain.ts","id":"01a05db7-8d7c-762b-a343-9535d258e0b5"}
+{"propertySlug":"decision-kind","path":"temper/test-fixtures/assert-schema-keys-match-payload/assert-schema-keys-match-payload.test-fixture.ts","id":"01a15f83-1a2c-7682-8365-e36a076d3ca2"}
 {"propertySlug":"decision-kind","path":"temper/thing/properties/account-page.relation-property.ts","id":"01a05fba-ce37-7ab7-ac79-b568699606b3"}
 {"propertySlug":"decision-kind","path":"temper/thing/properties/category.text-property.ts","id":"01a05fba-ce38-7d43-8178-11d7822b6825"}
 {"propertySlug":"decision-kind","path":"temper/thing/properties/companion-id.relation-property.ts","id":"01a05fba-ce39-74ad-926f-d6a5d9908dfc"}

@@ -30,7 +30,7 @@ export const temper = {
     "domain/temper-player",
     "domain/temper-window",
     "page-type/temper-addon",
-    "module/assert-schema-keys-match-payload",
+    "test-fixture/assert-schema-keys-match-payload",
   ],
   decisions: [
     {
@@ -75,5 +75,5 @@ export const temper = {
     },
   ],
   createdAt: "2026-09-01T16:05:05.532Z",
-  updatedAt: "2026-10-20T16:38:27.718Z",
+  updatedAt: "2026-10-21T17:29:49.867Z",
 } as const satisfies Domain

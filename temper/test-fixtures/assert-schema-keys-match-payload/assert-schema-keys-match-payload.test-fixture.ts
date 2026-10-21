@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
+import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-type.types.ts"
 
 export const assertSchemaKeysMatchPayload = {
-  id: "01a15a2d-b686-7f31-a7d4-116d2771b439",
-  type: "page-type/module",
+  id: "01a15f83-1a2c-7682-8365-e36a076d3ca2",
+  type: "page-type/test-fixture",
   slug: "assert-schema-keys-match-payload",
   definition:
     "a call refusing to typecheck unless a zod schema and a payload type name the same keys",
@@ -38,6 +38,6 @@ export const assertSchemaKeysMatchPayload = {
       statement: "A refusal names the path of every key that disagrees.",
     },
   ],
-  createdAt: "2026-10-20T16:38:27.718Z",
-  updatedAt: "2026-10-20T16:38:27.718Z",
-} as const satisfies Module
+  createdAt: "2026-10-21T17:29:49.867Z",
+  updatedAt: "2026-10-21T17:29:49.867Z",
+} as const satisfies TestFixture

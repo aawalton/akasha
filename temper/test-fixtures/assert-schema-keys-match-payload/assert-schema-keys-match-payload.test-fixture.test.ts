@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { assertSchemaKeysMatchPayload } from "akasha/temper/modules/assert-schema-keys-match-payload/assert-schema-keys-match-payload.module.code.ts"
+import { assertSchemaKeysMatchPayload } from "akasha/temper/test-fixtures/assert-schema-keys-match-payload/assert-schema-keys-match-payload.test-fixture.code.ts"
 import { z } from "zod"
 
 const reading = z.strictObject({
