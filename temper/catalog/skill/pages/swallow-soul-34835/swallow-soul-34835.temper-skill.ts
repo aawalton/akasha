@@ -20,9 +20,9 @@ export const swallowSoul34835 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1312,
   createdAt: "2026-05-28T16:03:34.017Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T05:02:17.336Z",
   equations: [
-    "<<1>> = 0.116948 MaxStat + 1.21932 MaxPower - 29.5962 (Ultimate, ratio = 10.43, RankMod(1), Dmg, Magic, SingleTarget, Direct, Melee, 0.5s duration, R2 = 0.99112)",
+    "<<1>> = 0.1200306273 MaxStat + 1.260321587 MaxPower (Ultimate, RankMod(1), Dmg, Magic, SingleTarget, Direct, Melee, 0.5s duration)",
     "<<2>> = 33 (Constant)",
     "<<3>> = 2 seconds (Constant)",
     "<<4>> = 10 seconds (Constant)",
