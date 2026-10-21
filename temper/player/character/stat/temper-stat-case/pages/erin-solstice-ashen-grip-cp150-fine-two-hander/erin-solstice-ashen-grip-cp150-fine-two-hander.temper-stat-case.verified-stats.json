@@ -100,6 +100,7 @@
     { "championSkillId": 2, "points": 50, "maxPoints": 50 }
   ],
   "pinned": {
+    "break-free-cost": 4610,
     "critical-rating-spell": 5349,
     "critical-rating-weapon": 5349,
     "damage-done-bleed": 0,
@@ -142,7 +143,6 @@
     "bash-damage": 985,
     "block-mitigation": 63,
     "block-speed": 42,
-    "break-free-cost": 4610,
     "critical-damage": 10,
     "healing-taken-base": 16,
     "movement-sprint-speed": 138,

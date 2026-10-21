@@ -94,6 +94,7 @@
   ],
   "pinned": {
     "alliance-points-gain": 10,
+    "break-free-cost": 4610,
     "critical-rating-spell": 3377,
     "critical-rating-weapon": 3377,
     "damage-done-bleed": 0,
@@ -135,7 +136,6 @@
     "bash-damage": 908,
     "block-mitigation": 62,
     "block-speed": 42,
-    "break-free-cost": 4610,
     "critical-damage": 22,
     "healing-taken-base": 15,
     "health-recovery": 698,
