@@ -8,7 +8,7 @@ export const pageForwarder = {
   resourceKind: "Deployment",
   namespace: "page-forwarder",
   resourceName: "page-forwarder",
-  image: "alpine/socat:1.8.0.3",
+  image: "alpine/socat:1.8.1.3",
   replicas: 1,
   containerPort: 8787,
   manifest: ["manifest/page-forwarder"],
@@ -58,5 +58,5 @@ export const pageForwarder = {
     },
   ],
   createdAt: "2026-09-01T02:09:16.235Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-21T15:10:21.114Z",
 } as const satisfies ServiceCluster
