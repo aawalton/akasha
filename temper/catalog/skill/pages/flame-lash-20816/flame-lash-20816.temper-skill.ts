@@ -20,10 +20,10 @@ export const flameLash20816 = {
   skillType: "temper-skill-type/active",
   hashPlace: 514,
   createdAt: "2026-05-28T16:03:32.483Z",
-  updatedAt: "2026-10-21T08:06:41.937Z",
+  updatedAt: "2026-10-21T09:16:37.779Z",
   equations: [
     "<<1>> = 0.10327876 MaxStat + 1.0844269 MaxPower (Ultimate, RankMod(1), Dmg, Flame, SingleTarget, Direct, Melee)",
-    "<<2>> = 0.035554 MaxStat + 0.373411 MaxPower (Ultimate, RankMod(1), Heal, SingleTarget, Direct)",
+    "<<2>> = 0.03443299 MaxStat + 0.36155 MaxPower (Ultimate, RankMod(1), Heal, SingleTarget, Direct, rank IV)",
     "<<3>> = 5 (Constant)",
     "<<4>> = Power Lash (Constant)",
     "<<5>> = 20 seconds (Constant)",
@@ -31,14 +31,14 @@ export const flameLash20816 = {
     "<<7>> = 3% (Constant)",
     "<<8>> = 45 seconds (Constant)",
     "<<9>> = 0.159039 MaxStat + 1.66986 MaxPower (Ultimate, Dmg, Flame, AOE, Direct, Melee)",
-    "<<10>> = 0.07114 MaxStat + 0.74683 MaxPower (Ultimate, RankMod(1), Heal, SingleTarget, Direct)",
+    "<<10>> = 0.06886701 MaxStat + 0.7231 MaxPower (Ultimate, RankMod(1), Heal, SingleTarget, Direct, rank IV)",
   ],
   variants: [
     {
       esoSkillId: 20824,
       equations: [
         "<<1>> = 0.15903609 MaxStat + 1.6698789 MaxPower (Ultimate, Dmg, Flame, AOE, Direct, Melee)",
-        "<<2>> = 0.07113 MaxStat + 0.74685 MaxPower (Ultimate, RankMod(1), Heal, SingleTarget, Direct)",
+        "<<2>> = 0.06886494 MaxStat + 0.7231 MaxPower (Ultimate, RankMod(1), Heal, SingleTarget, Direct, rank IV)",
       ],
     },
   ],
