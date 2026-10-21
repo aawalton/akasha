@@ -18,8 +18,9 @@ export const blessingAtThePeak = {
   rank: 22,
   skillLineId: "temper-skill-line/dragonknight-earthen-heart",
   skillType: "temper-skill-type/passive",
+  effects: "jsonl",
   hashPlace: 105,
   createdAt: "2026-05-28T16:03:31.758Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T12:44:14.586Z",
   equations: ["<<1>> = 1 (Constant)", "<<2>> = 6 seconds (Constant)", "<<3>> = 5% (Constant)"],
 } as const satisfies TemperSkill

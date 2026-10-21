@@ -18,8 +18,9 @@ export const aSoulAblaze = {
   rank: 39,
   skillLineId: "temper-skill-line/dragonknight-ardent-flame",
   skillType: "temper-skill-type/passive",
+  effects: "jsonl",
   hashPlace: 1,
   createdAt: "2026-05-28T16:03:31.580Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T12:44:14.586Z",
   equations: ["<<1>> = 4% (Constant)"],
 } as const satisfies TemperSkill

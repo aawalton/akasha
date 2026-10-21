@@ -102,6 +102,7 @@
     "block-mitigation": 61,
     "block-speed": 42,
     "break-free-cost": 4351,
+    "critical-damage": 12,
     "damage-done-bleed": 0,
     "damage-done-disease": 0,
     "damage-done-flame": 0,
@@ -120,6 +121,7 @@
     "defense-shock-mitigation": 37.62575912475586,
     "healing-critical-bonus": 2,
     "healing-done-base": 2,
+    "healing-taken-base": 14,
     "health-maximum": 42115,
     "health-recovery": 0,
     "magicka-maximum": 17111,
@@ -149,9 +151,7 @@
   },
   "gaps": {
     "bash-damage": 703,
-    "critical-damage": 12,
     "critical-rating-spell": 5912,
-    "critical-rating-weapon": 5912,
-    "healing-taken-base": 14
+    "critical-rating-weapon": 5912
   }
 }
