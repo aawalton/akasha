@@ -169,9 +169,8 @@ export const skillEquation = {
         "Slayer grows the power of damage tagged `Fighters Guild` 3% a Fighters Guild skill on the bar.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement:
-        "Only Slayer at rank 3 has been read, so a lower rank grows that power not at all.",
+      decisionKind: "decision-kind/departure",
+      statement: "Slayer's share is 1% a skill at rank 1, 2% at rank 2 and 3% at rank 3.",
     },
     {
       decisionKind: "decision-kind/stopgap",
@@ -268,5 +267,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T13:27:02.492Z",
+  updatedAt: "2026-10-21T13:38:27.756Z",
 } as const satisfies Module

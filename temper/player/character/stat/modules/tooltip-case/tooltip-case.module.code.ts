@@ -126,16 +126,21 @@ export function skillStatsOf(
 ): EquationStats {
   const slotted = skills.map((one) => lines.get(one.abilityId))
   const healingDone = healingDoneOfSkill(stats.healingDone, lines.get(abilityId), slotted, held)
-  const powerShare = SLOTTED_POWER.filter(
-    (one) => held.has(one.held) && ranks[one.held] === one.rank
-  ).reduce(
-    (sum, one) => sum + one.shareEach * slotted.filter((line) => line === one.line).length,
+  const powerShare = SLOTTED_POWER.filter((one) => held.has(one.held)).reduce(
+    (sum, one) =>
+      sum +
+      (one.shareByRank[ranks[one.held] ?? 0] ?? 0) *
+        slotted.filter((line) => line === one.line).length,
     0
   )
   return { ...stats, healingDone, powerShare }
 }
 
-const SLOTTED_POWER = [{ held: slayer.slug, line: slayer.skillLineId, shareEach: 0.03, rank: 3 }]
+const SLOTTED_POWER: readonly {
+  readonly held: string
+  readonly line: string
+  readonly shareByRank: Readonly<Record<number, number>>
+}[] = [{ held: slayer.slug, line: slayer.skillLineId, shareByRank: { 1: 0.01, 2: 0.02, 3: 0.03 } }]
 
 export type CaseListed = { readonly path: string; readonly slug: string }
 
