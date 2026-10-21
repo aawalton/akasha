@@ -23,7 +23,7 @@ export const jamesTaylor = {
       source: "spotify",
       externalId: "0vn7UBvSQECKJm2817Yf1P",
       externalLink: "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P",
-      lastSyncedAt: "2026-09-16",
+      lastSyncedAt: "2026-10-21",
     },
   ],
   title: "James Taylor",
@@ -38,5 +38,5 @@ export const jamesTaylor = {
     "folk pop",
   ],
   createdAt: "2026-09-03T16:04:08.683Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-21T13:45:20.359Z",
 } as const satisfies Artist
