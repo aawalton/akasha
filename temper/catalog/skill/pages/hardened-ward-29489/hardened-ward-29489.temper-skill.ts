@@ -20,9 +20,10 @@ export const hardenedWard29489 = {
   skillType: "temper-skill-type/active",
   hashPlace: 591,
   createdAt: "2026-05-28T16:03:32.683Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T05:02:44.400Z",
   equations: [
     "<<1>> = 0.441689 Health + 74.7326 (Health, DmgShield, SingleTarget, Direct, 6s duration, R2 = 0.957282)",
     "<<2>> = 6 seconds (Constant)",
+    "<<3>> = 72% (Constant)",
   ],
 } as const satisfies TemperSkill

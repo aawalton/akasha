@@ -20,6 +20,6 @@ export const stalwartGuard61529 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1266,
   createdAt: "2026-05-28T16:03:33.934Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
-  equations: ["<<1>> = 10% (Constant)"],
+  updatedAt: "2026-10-21T05:02:44.400Z",
+  equations: ["<<2>> = 30% (Constant)", "<<1>> = 10% (Constant)", "<<3>> = 15 meters (Constant)"],
 } as const satisfies TemperSkill

@@ -20,11 +20,12 @@ export const boneSurge42176 = {
   skillType: "temper-skill-type/active",
   hashPlace: 147,
   createdAt: "2026-05-28T16:03:31.828Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-21T05:02:44.400Z",
   equations: [
     "<<1>> = 0.3099 Health (Health, RankMod(1), DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
     "<<2>> = 6 seconds (Constant)",
     "<<3>> = Spinal Surge (Constant)",
+    "<<8>> = 6 (Constant)",
     "<<4>> = 30% (Constant)",
     "<<5>> = 6 seconds (Constant)",
     "<<6>> = Major Vitality (Constant)",

@@ -20,6 +20,10 @@ export const propellingShield40226 = {
   skillType: "temper-skill-type/active",
   hashPlace: 933,
   createdAt: "2026-05-28T16:03:33.324Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
-  equations: ["<<1>> = 50% (Constant)", "<<2>> = 4 meters (Constant)"],
+  updatedAt: "2026-10-21T05:02:44.400Z",
+  equations: [
+    "<<1>> = 50% (Constant)",
+    "<<3>> = 28 meters (Constant)",
+    "<<2>> = 7 meters (Constant)",
+  ],
 } as const satisfies TemperSkill
