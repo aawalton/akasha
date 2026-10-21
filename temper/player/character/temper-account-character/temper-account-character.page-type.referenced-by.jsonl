@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"temper-account-character.page-type.ts","path":"command/pages/temper/build-show/modules/build-show-naming/build-show-naming.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-account-character.page-type.ts","path":"command/pages/temper/stat-compare/temper-stat-compare.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-account-character.page-type.ts","path":"command/pages/temper/tooltip-compare/temper-tooltip-compare.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-account-character.page-type.ts","path":"temper/player/character/stat/modules/combat-case/combat-case.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-account-character.page-type.types.ts","path":"temper/player/character/temper-account-character/pages/archmage-amerys/archmage-amerys.temper-account-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-account-character.page-type.types.ts","path":"temper/player/character/temper-account-character/pages/belavierr/belavierr.temper-account-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-account-character.page-type.types.ts","path":"temper/player/character/temper-account-character/pages/ceria-springwater/ceria-springwater.temper-account-character.ts","typed":true,"deferred":false}
@@ -29,4 +30,5 @@
 {"propertySlug":"parts","path":"temper/player/character/temper-character.domain.ts","id":"01a05fac-7581-7a09-a912-5277eaa7f144"}
 {"propertySlug":"target-page-type","path":"temper/player/progress/temper-task/properties/effective-character.relation-property.ts","id":"01a0c931-a8fd-73bf-9d92-c50b03800442"}
 {"propertySlug":"target-page-type","path":"temper/player/progress/thing/properties/character.relation-property.ts","id":"01a05fc6-81fb-7d2b-9860-e72705b8dd8f"}
+{"propertySlug":"test-reads","path":"temper/player/character/stat/modules/combat-case/combat-case.module.ts","id":"01a15f6d-8dd5-7d8a-b7d5-94c75ecffd0b"}
 {"propertySlug":"view-page-type","path":"page/view/pages/temper-characters-list.view.ts","id":"01a06577-2615-700e-880d-7fc36e8b213b"}

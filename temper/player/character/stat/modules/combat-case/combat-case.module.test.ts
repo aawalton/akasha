@@ -5,6 +5,8 @@ import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.mo
 import { holdSetCatalogFromCheckout } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.test-fixtures.ts"
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import {
+  buildReadingsIn,
+  buildReadingsOf,
   combatCaseShape,
   combatCaseText,
   glyphTooltipOf,
@@ -51,6 +53,25 @@ test("a glyph's hit multiplies its two terms apart and rounds once", () => {
   expect(glyphHitOf({ tooltip: 1859, directDamageMonsters: 0, targetDamageTaken: 0.05 })).toBe(1952)
 })
 
+test("a build's readings name every glyph its weapons carry, so two tooltips show as two", () => {
+  const worn = (enchant: string) => ({
+    "1": { slot: 4, enchant },
+    "2": { slot: 1, enchant: "Adds |cffffff174|r Weapon and Spell Damage." },
+  })
+  const body = [
+    { id: "a", buildHash: "one", reading: { worn: worn("Deals |cffffff2534|r Shock Damage.") } },
+    { id: "b", buildHash: "one", reading: { worn: worn("Deals |cffffff2711|r Shock Damage.") } },
+    { id: "c", buildHash: "two", reading: { worn: worn("Deals |cffffff9|r Shock Damage.") } },
+  ]
+    .map((one) => JSON.stringify(one))
+    .join("\n")
+
+  expect(buildReadingsIn(body, "one")).toEqual({
+    ids: ["a", "b"],
+    enchants: ["Deals |cffffff2534|r Shock Damage.", "Deals |cffffff2711|r Shock Damage."],
+  })
+})
+
 test("Abyssal Ink's page makes its target take 5% more, and no debuff makes it take none", () => {
   expect(targetDamageTakenOf(["abyssal-ink"])).toBe(0.05)
   expect(targetDamageTakenOf([])).toBe(0)
@@ -64,6 +85,13 @@ for (const path of CASES) {
     const judged = judgeCombatCase(combatCase)
     expect(judged.drifted).toEqual([])
     expect(judged.closed).toEqual([])
+  })
+
+  test(`the ${caseSlug(path)} case's every reading of its build agrees on its glyph`, () => {
+    const read = buildReadingsOf(akashaRoot(), combatCase)
+    expect(read.enchants).toEqual([combatCase.enchant])
+    expect(read.ids.length).toBe(combatCase.readingsAgreeing)
+    expect(read.ids).toContain(combatCase.reading)
   })
 
   test(`the ${caseSlug(path)} case is written as a case is written`, () => {

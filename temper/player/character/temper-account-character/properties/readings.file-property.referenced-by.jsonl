@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"readings.file-property.ts","path":"command/pages/temper/build-show/modules/build-show-naming/build-show-naming.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readings.file-property.ts","path":"command/pages/temper/stat-compare/temper-stat-compare.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readings.file-property.ts","path":"command/pages/temper/tooltip-compare/temper-tooltip-compare.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"readings.file-property.ts","path":"temper/player/character/stat/modules/combat-case/combat-case.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readings.file-property.types.ts","path":"temper/player/character/temper-account-character/temper-account-character.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/player/character/temper-account-character/temper-account-character.page-type.ts","id":"01a05fcd-f547-75dd-87b1-fce27e98fddd"}
 {"propertySlug":"parts","path":"temper/player/character/temper-account-character/temper-account-character.page-type.ts","id":"01a05fcd-f547-75dd-87b1-fce27e98fddd"}

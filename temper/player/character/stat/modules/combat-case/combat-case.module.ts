@@ -14,6 +14,7 @@ export const combatCase = {
     "page-type/temper-debuff-other",
     "page-type/temper-metric",
     "page-type/temper-metric-tree",
+    "page-type/temper-account-character",
   ],
   decisions: [
     {
@@ -40,7 +41,15 @@ export const combatCase = {
       decisionKind: "decision-kind/departure",
       statement: "A case is written as its file holds it, two spaces to a level.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A case fails where any reading of its build names a glyph other than the case's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A case fails where its build has more or fewer readings than the case says.",
+    },
   ],
   createdAt: "2026-10-21T17:06:17.684Z",
-  updatedAt: "2026-10-21T17:06:17.684Z",
+  updatedAt: "2026-10-21T17:11:45.362Z",
 } as const satisfies Module
