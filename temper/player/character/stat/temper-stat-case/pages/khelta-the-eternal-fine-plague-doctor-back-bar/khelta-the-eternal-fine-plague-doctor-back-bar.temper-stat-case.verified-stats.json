@@ -29,6 +29,7 @@
   ],
   "pinned": {
     "bash-cost": 719,
+    "bash-damage": 403,
     "block-mitigation": 57,
     "block-speed": 40,
     "break-free-cost": 5076,
@@ -81,7 +82,5 @@
     "stamina-recovery": 829,
     "stamina-sprint-cost": 432
   },
-  "gaps": {
-    "bash-damage": 403
-  }
+  "gaps": {}
 }
