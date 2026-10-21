@@ -33,7 +33,7 @@ export const nimueCorrectFormulas = {
     "A verified test case is a number the game showed for a captured build state.",
     "A formula passes a verified test case only by reproducing that number exactly.",
     "A number from a guide or another site is never a verified test case.",
-    "A tooltip number is never a verified test case, and tooltip text only plans a case.",
+    "A tooltip number is never a verified test case for a stat formula, and there tooltip text only plans a case.",
     "Every term that changes a formula's result has a verified test case.",
     "Nimue may ask Alan for a build change that yields a test case or the data a formula needs.",
     "Alan approves as final only a formula a developer would be unlikely to have written.",
@@ -46,5 +46,5 @@ export const nimueCorrectFormulas = {
     "A calculation change lands with the stat-case pins it closes, after the stat-case test passes on both.",
   ],
   createdAt: "2026-10-19T19:28:43.842Z",
-  updatedAt: "2026-10-20T18:58:03.622Z",
+  updatedAt: "2026-10-21T01:19:57.827Z",
 } as const satisfies Initiative
