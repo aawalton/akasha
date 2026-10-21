@@ -22,12 +22,15 @@ import {
   type Bar,
   type BuildHeld,
   type Equations,
-  equationsIn,
+  equationsOf,
   healingDoneOf,
   heldOfBuild,
   heldOfCase,
   pinnedTooltipCaseOf,
   type ReadingCalculated,
+  type SkillLines,
+  skillLinesOf,
+  skillValuesIn,
   tooltipCaseText,
 } from "akasha/temper/player/character/stat/modules/tooltip-case/tooltip-case.module.code.ts"
 import { verifiedTooltips } from "akasha/temper/player/character/stat/temper-tooltip-case/properties/verified-tooltips.file-property.ts"
@@ -80,7 +83,8 @@ export function pinTooltipCaseCommand(
   given: Asked,
   equations: Equations,
   heldOf: HeldOf = () => undefined,
-  healingOf: HealingOf = noHealing
+  healingOf: HealingOf = noHealing,
+  skillLines: SkillLines = new Map()
 ): Answer {
   const character = given[CHARACTER]
   if (character === undefined) return refusing(missing(CHARACTER))
@@ -155,7 +159,8 @@ export function pinTooltipCaseCommand(
           durationMs,
         })),
     },
-    equations
+    equations,
+    skillLines
   )
   const title = `${character}, ${named} bar tooltips, read ${stampOf(reading.capturedAt)}`
   return stating([
@@ -168,5 +173,13 @@ export const takes: readonly string[] = [CHARACTER, READING, BAR, SLUG]
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   await Promise.all([loadSkillCatalog(), loadSetCatalog(), loadMetricCatalog()])
-  return pinTooltipCaseCommand(world, given, equationsIn(world.root), heldOfBuild, healingDoneOf)
+  const skillValues = skillValuesIn(world.root)
+  return pinTooltipCaseCommand(
+    world,
+    given,
+    equationsOf(skillValues),
+    heldOfBuild,
+    healingDoneOf,
+    skillLinesOf(skillValues)
+  )
 }

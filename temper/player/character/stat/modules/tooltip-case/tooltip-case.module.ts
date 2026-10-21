@@ -109,7 +109,11 @@ export const tooltipCase = {
       statement:
         "A case's formulas read its buffs, stacks, points and medium pieces as what was active.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A case's formulas read the skill line each of its skills' pages names.",
+    },
   ],
   createdAt: "2026-10-21T01:45:54.419Z",
-  updatedAt: "2026-10-21T06:14:58.367Z",
+  updatedAt: "2026-10-21T07:00:03.119Z",
 } as const satisfies Module

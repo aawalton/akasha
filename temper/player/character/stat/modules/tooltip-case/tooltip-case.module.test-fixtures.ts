@@ -1,5 +1,6 @@
 import {
   type Equations,
+  type SkillLines,
   type TooltipCase,
   workedOf,
 } from "akasha/temper/player/character/stat/modules/tooltip-case/tooltip-case.module.code.ts"
@@ -17,9 +18,10 @@ type TooltipCaseJudgement = {
 
 export function judgeTooltipCase(
   tooltipCase: TooltipCase,
-  equations: Equations
+  equations: Equations,
+  lines?: SkillLines
 ): TooltipCaseJudgement {
-  const worked = workedOf(tooltipCase, equations)
+  const worked = workedOf(tooltipCase, equations, lines)
   const drifted: TooltipMiss[] = []
   for (const [formula, game] of Object.entries(tooltipCase.pinned)) {
     const one = worked.get(formula)

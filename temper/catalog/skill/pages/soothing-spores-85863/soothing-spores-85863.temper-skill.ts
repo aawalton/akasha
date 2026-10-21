@@ -20,9 +20,9 @@ export const soothingSpores85863 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1221,
   createdAt: "2026-05-28T16:03:33.850Z",
-  updatedAt: "2026-10-21T05:02:44.400Z",
+  updatedAt: "2026-10-21T07:00:03.119Z",
   equations: [
-    "<<1>> = 0.116213 MaxStat + 1.22023 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, AOE, Direct, R2 = 1)",
+    "<<1>> = 0.120022 MaxStat + 1.260231 MaxPower (Ultimate, RankMod(1), Heal, AOE, Direct)",
     "<<2>> = 15% (Constant)",
     "<<3>> = 8 meters (Constant)",
   ],

@@ -24,6 +24,8 @@ import {
   heldOfCase,
   pinnedTooltipCaseOf,
   type ReadingCalculated,
+  type SkillLines,
+  skillLinesOf,
   tooltipCaseOf,
   tooltipCaseShape,
   tooltipCaseText,
@@ -53,7 +55,8 @@ function restated(
   listed: CaseListed,
   heldOf: HeldOf,
   equations: Equations,
-  healingOf: HealingOf
+  healingOf: HealingOf,
+  skillLines: SkillLines
 ): FileChange | string {
   const { path: pageAt, slug } = listed
   const at = besideAt(pageAt, verifiedTooltips.propertySlug, "json")
@@ -88,7 +91,7 @@ function restated(
     skills,
     ...(healingDone === undefined ? {} : { healingDone }),
   }
-  const fresh = pinnedTooltipCaseOf(caseRead, equations)
+  const fresh = pinnedTooltipCaseOf(caseRead, equations, skillLines)
   const kept = new Set([...Object.keys(pinned), ...Object.keys(gaps)])
   const unkept = (numbers: Readonly<Record<string, number>>) =>
     Object.fromEntries(Object.entries(numbers).filter(([formula]) => !kept.has(formula)))
@@ -106,12 +109,22 @@ function noEquations(): Equations {
   return new Map()
 }
 
+function skillValuesHeldIn(world: World): readonly unknown[] {
+  return [temperSkill.slug, temperScribedSkill.slug].flatMap((type) => [
+    ...world.index.valuesByPath(type).values(),
+  ])
+}
+
 export function equationsHeldIn(world: World): Equations {
-  return equationsOf(
-    [temperSkill.slug, temperScribedSkill.slug].flatMap((type) => [
-      ...world.index.valuesByPath(type).values(),
-    ])
-  )
+  return equationsOf(skillValuesHeldIn(world))
+}
+
+function noSkillLines(): SkillLines {
+  return new Map()
+}
+
+export function skillLinesHeldIn(world: World): SkillLines {
+  return skillLinesOf(skillValuesHeldIn(world))
 }
 
 export function restateTooltipCasesCommand(
@@ -120,7 +133,8 @@ export function restateTooltipCasesCommand(
   heldOf: HeldOf = () => undefined,
   listed: (root: string) => readonly CaseListed[] = everyTooltipCase,
   equationsHeld: (over: World) => Equations = noEquations,
-  healingOf: HealingOf = noHealing
+  healingOf: HealingOf = noHealing,
+  skillLinesHeld: (over: World) => SkillLines = noSkillLines
 ): Answer {
   const named = given[CASES]
   const slugs = named
@@ -137,8 +151,9 @@ export function restateTooltipCasesCommand(
   }
   const edits: FileChange[] = []
   const equations = equationsHeld(world)
+  const skillLines = skillLinesHeld(world)
   for (const one of cases) {
-    const edit = restated(world, one, heldOf, equations, healingOf)
+    const edit = restated(world, one, heldOf, equations, healingOf, skillLines)
     if (typeof edit === "string") return refusing(edit)
     if (edit.kind === "replace" && edit.contentFrom !== edit.contentTo) edits.push(edit)
   }
@@ -155,6 +170,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
     heldOfBuild,
     everyTooltipCase,
     equationsHeldIn,
-    healingDoneOf
+    healingDoneOf,
+    skillLinesHeldIn
   )
 }

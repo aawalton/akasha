@@ -2,12 +2,14 @@ import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { emeraldMoss } from "akasha/temper/catalog/skill/pages/emerald-moss/emerald-moss.temper-skill.ts"
 import {
-  equationsIn,
   equationsOf,
   heldOfCase,
   heldSetOf,
   pinnedTooltipCaseOf,
+  skillLinesOf,
+  skillValuesIn,
   tooltipCaseShape,
   tooltipCaseText,
 } from "akasha/temper/player/character/stat/modules/tooltip-case/tooltip-case.module.code.ts"
@@ -132,13 +134,55 @@ test("a variant takes its skill's equations unless it states its own", () => {
   ])
 })
 
+test("a skill page's skill line is found by its ability id and each variant's", () => {
+  const found = skillLinesOf([
+    {
+      esoSkillId: 85863,
+      skillLineId: emeraldMoss.skillLineId,
+      variants: [{ esoSkillId: 85864 }],
+    },
+    { esoSkillId: 1, title: "no skill line" },
+  ])
+
+  expect([...found]).toEqual([
+    [85863, emeraldMoss.skillLineId],
+    [85864, emeraldMoss.skillLineId],
+  ])
+})
+
+test("a Green Balance heal grows by Emerald Moss for each Green Balance skill on the bar", () => {
+  const green = emeraldMoss.skillLineId
+  const spores = new Map([[2, ["<<1>> = 0.1 MaxStat (Heal)"]]])
+  const read = {
+    ...READ,
+    passives: [emeraldMoss.slug],
+    skills: [
+      { abilityId: 2, name: "Spores", description: "heals |cffffff2100|r" },
+      { abilityId: 3, name: "Seed", description: "nothing named" },
+    ],
+  }
+  const lines = new Map([
+    [2, green],
+    [3, green],
+  ])
+
+  expect(pinnedTooltipCaseOf(read, spores, new Map([[2, green]])).pinned).toEqual({
+    "2 <<1>>": 2100,
+  })
+  expect(pinnedTooltipCaseOf(read, spores, lines).gaps).toEqual({ "2 <<1>>": 2100 })
+})
+
 test("a case is written as text that reads back as the same case", () => {
   const pinned = pinnedTooltipCaseOf(READ, EQUATIONS)
 
   expect(tooltipCaseShape.parse(JSON.parse(tooltipCaseText(pinned)))).toEqual(pinned)
 })
 
-const HELD = equationsIn(akashaRoot())
+const SKILLS = skillValuesIn(akashaRoot())
+
+const HELD = equationsOf(SKILLS)
+
+const LINES = skillLinesOf(SKILLS)
 
 for (const path of CASES) {
   const text = readFileSync(join(akashaRoot(), path), "utf8")
@@ -146,13 +190,13 @@ for (const path of CASES) {
   const named = `${tooltipCase.character} ${tooltipCase.bar} ${String(tooltipCase.capturedAt)}`
 
   test(`the ${named} case gives every pinned number, and closes no gap unpinned`, () => {
-    const judged = judgeTooltipCase(tooltipCase, HELD)
+    const judged = judgeTooltipCase(tooltipCase, HELD, LINES)
     expect(judged.drifted).toEqual([])
     expect(judged.closed).toEqual([])
   })
 
   test(`the ${named} case pinned again from its own reading is written as it is`, () => {
     const { pinned, gaps, ...read } = tooltipCase
-    expect(tooltipCaseText(pinnedTooltipCaseOf(read, HELD))).toBe(text)
+    expect(tooltipCaseText(pinnedTooltipCaseOf(read, HELD, LINES))).toBe(text)
   })
 }

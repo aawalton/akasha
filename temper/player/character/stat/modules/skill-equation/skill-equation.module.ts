@@ -179,7 +179,17 @@ export const skillEquation = {
       decisionKind: "decision-kind/departure",
       statement: "One tagged `per tick` is a tooltip giving a single tick rather than the total.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Emerald Moss adds 5% healing done to a Green Balance heal for each Green Balance skill on its bar.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "Every reading read holds one Green Balance skill on the bar and no other healing done.",
+    },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T06:45:07.406Z",
+  updatedAt: "2026-10-21T07:00:03.119Z",
 } as const satisfies Module

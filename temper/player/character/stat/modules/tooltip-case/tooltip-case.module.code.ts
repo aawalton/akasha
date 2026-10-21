@@ -12,7 +12,9 @@ import {
 import { calculateReadingStatsByBar } from "akasha/temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts"
 import {
   type ActiveHeld,
+  type EquationStats,
   equationStatsOf,
+  healingDoneOfSkill,
   tooltipPairingOf,
 } from "akasha/temper/player/character/stat/modules/skill-equation/skill-equation.module.code.ts"
 import { healingDoneBase } from "akasha/temper/player/character/stat/temper-metric/pages/healing-done-base/healing-done-base.temper-metric.ts"
@@ -20,6 +22,10 @@ import { temperTooltipCase } from "akasha/temper/player/character/stat/temper-to
 import { z } from "zod"
 
 export type Equations = ReadonlyMap<number, readonly string[]>
+
+export type SkillLines = ReadonlyMap<number, string>
+
+const NO_LINES: SkillLines = new Map()
 
 const numbersByName = z.record(z.string(), z.number())
 
@@ -77,12 +83,44 @@ export function equationsOf(values: Iterable<unknown>): Equations {
   return found
 }
 
-export function equationsIn(root: string): Equations {
-  return equationsOf(
-    [temperSkill.slug, temperScribedSkill.slug].flatMap((type) =>
-      valuesOfType(root, type).map((one) => one.value)
-    )
+const skillLined = z.object({
+  esoSkillId: z.number(),
+  skillLineId: z.string(),
+  variants: z.array(z.object({ esoSkillId: z.number() })).optional(),
+})
+
+export function skillLinesOf(values: Iterable<unknown>): SkillLines {
+  const found = new Map<number, string>()
+  for (const value of values) {
+    const said = skillLined.safeParse(value)
+    if (!said.success) continue
+    const { esoSkillId, skillLineId, variants } = said.data
+    found.set(esoSkillId, skillLineId)
+    for (const variant of variants ?? []) found.set(variant.esoSkillId, skillLineId)
+  }
+  return found
+}
+
+export function skillValuesIn(root: string): readonly unknown[] {
+  return [temperSkill.slug, temperScribedSkill.slug].flatMap((type) =>
+    valuesOfType(root, type).map((one) => one.value)
   )
+}
+
+export function equationsIn(root: string): Equations {
+  return equationsOf(skillValuesIn(root))
+}
+
+export function skillStatsOf(
+  stats: EquationStats,
+  abilityId: number,
+  skills: readonly { readonly abilityId: number }[],
+  held: ReadonlySet<string>,
+  lines: SkillLines
+): EquationStats {
+  const slotted = skills.map((one) => lines.get(one.abilityId))
+  const healingDone = healingDoneOfSkill(stats.healingDone, lines.get(abilityId), slotted, held)
+  return { ...stats, healingDone }
 }
 
 export type CaseListed = { readonly path: string; readonly slug: string }
@@ -217,7 +255,11 @@ export function formulaOf(abilityId: number, placeholder: number): string {
   return `${String(abilityId)} <<${String(placeholder)}>>`
 }
 
-export function workedOf(read: TooltipCaseRead, equations: Equations): ReadonlyMap<string, Worked> {
+export function workedOf(
+  read: TooltipCaseRead,
+  equations: Equations,
+  lines: SkillLines = NO_LINES
+): ReadonlyMap<string, Worked> {
   const stats = equationStatsOf(read.stats, read.healingDone)
   const built = heldSetOf(read)
   const active = activeOf(read)
@@ -228,7 +270,7 @@ export function workedOf(read: TooltipCaseRead, equations: Equations): ReadonlyM
     const pairing = tooltipPairingOf(
       skill.description,
       held,
-      stats,
+      skillStatsOf(stats, skill.abilityId, read.skills, built, lines),
       built,
       active,
       skill.durationMs
@@ -252,10 +294,14 @@ export function inNameOrder(numbers: Readonly<Record<string, number>>): Record<s
   return Object.fromEntries(Object.entries(numbers).sort(([one], [two]) => one.localeCompare(two)))
 }
 
-export function pinnedTooltipCaseOf(read: TooltipCaseRead, equations: Equations): TooltipCase {
+export function pinnedTooltipCaseOf(
+  read: TooltipCaseRead,
+  equations: Equations,
+  lines: SkillLines = NO_LINES
+): TooltipCase {
   const pinned: Record<string, number> = {}
   const gaps: Record<string, number> = {}
-  for (const [formula, worked] of workedOf(read, equations)) {
+  for (const [formula, worked] of workedOf(read, equations, lines)) {
     if (worked.temper === worked.game) pinned[formula] = worked.game
     else gaps[formula] = worked.game
   }

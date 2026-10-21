@@ -40,11 +40,15 @@ import {
   activeOf,
   type BuildHeld,
   type Equations,
-  equationsIn,
+  equationsOf,
   healingDoneOf,
   heldOfBuild,
   heldOfCase,
   heldSetOf,
+  type SkillLines,
+  skillLinesOf,
+  skillStatsOf,
+  skillValuesIn,
 } from "akasha/temper/player/character/stat/modules/tooltip-case/tooltip-case.module.code.ts"
 import { readings } from "akasha/temper/player/character/temper-account-character/properties/readings.file-property.ts"
 import { temperAccountCharacter } from "akasha/temper/player/character/temper-account-character/temper-account-character.page-type.ts"
@@ -74,11 +78,14 @@ export function comparedSkillsOf(
   equations: Equations,
   held: ReadonlySet<string>,
   active: ActiveHeld = NOTHING_ACTIVE,
-  healingDone = 0
+  healingDone = 0,
+  lineOf: SkillLines = new Map()
 ): readonly ComparedSkill[] {
   const stats = equationStatsOf(reading.stats, healingDone)
-  return (reading.skills ?? []).map((skill) => {
+  const skills = reading.skills ?? []
+  return skills.map((skill) => {
     const lines = equations.get(skill.abilityId)
+    const skillStats = skillStatsOf(stats, skill.abilityId, skills, held, lineOf)
     return {
       slot: skill.slot,
       abilityId: skill.abilityId,
@@ -86,7 +93,7 @@ export function comparedSkillsOf(
       pairing:
         lines === undefined
           ? null
-          : tooltipPairingOf(skill.description, lines, stats, held, active, skill.durationMs),
+          : tooltipPairingOf(skill.description, lines, skillStats, held, active, skill.durationMs),
     }
   })
 }
@@ -172,7 +179,9 @@ export async function temperTooltipCompare(argv: readonly string[], given: Given
   })
   if ("refused" in chosen) return refused(`\`${slug}\`: ${chosen.refused}`, INPUT)
   await Promise.all([loadSkillCatalog(), loadSetCatalog(), loadMetricCatalog()])
-  const equations = equationsIn(given.root)
+  const skillValues = skillValuesIn(given.root)
+  const equations = equationsOf(skillValues)
+  const lineOf = skillLinesOf(skillValues)
   const byBuild = new Map<string, BuildHeld | undefined>()
   const buildOf = (hash: string): BuildHeld | undefined => {
     const build = byBuild.has(hash) ? byBuild.get(hash) : heldOfBuild(hash)
@@ -190,7 +199,8 @@ export async function temperTooltipCompare(argv: readonly string[], given: Given
         equations,
         heldSetOf(held),
         activeOf(held),
-        healingDone
+        healingDone,
+        lineOf
       ),
     }
   })

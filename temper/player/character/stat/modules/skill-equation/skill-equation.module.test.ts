@@ -1,8 +1,11 @@
 import { expect, test } from "bun:test"
+import { darkCloak25377 } from "akasha/temper/catalog/skill/pages/dark-cloak-25377/dark-cloak-25377.temper-skill.ts"
+import { emeraldMoss } from "akasha/temper/catalog/skill/pages/emerald-moss/emerald-moss.temper-skill.ts"
 import {
   equationOf,
   equationStatsOf,
   equationValue,
+  healingDoneOfSkill,
   NOTHING_ACTIVE,
   shownNumbersOf,
   tooltipPairingOf,
@@ -302,6 +305,17 @@ test("a heal over time totals each tick grown by the healing done, unless it is 
   expect(worked(vigor)).toBe(6 * tick)
   expect(worked(vigor.replace("ticks on application)", "own duration)"), 30000)).toBe(5 * tick)
   expect(worked(vigor.replace("ticks on application)", "per tick)"), 16000)).toBe(tick)
+})
+
+test("Emerald Moss adds 5% healing done to a Green Balance skill for each one on the bar", () => {
+  const green = emeraldMoss.skillLineId
+  const shadow = darkCloak25377.skillLineId
+  const moss = new Set([emeraldMoss.slug])
+  const bar = [green, green, shadow, undefined]
+
+  expect(healingDoneOfSkill(0.08, green, bar, moss)).toBeCloseTo(0.18)
+  expect(healingDoneOfSkill(0.08, green, bar, new Set())).toBe(0.08)
+  expect(healingDoneOfSkill(0.08, shadow, bar, moss)).toBe(0.08)
 })
 
 test("a duration tagged with a passive is that much longer only where the build holds it", () => {
