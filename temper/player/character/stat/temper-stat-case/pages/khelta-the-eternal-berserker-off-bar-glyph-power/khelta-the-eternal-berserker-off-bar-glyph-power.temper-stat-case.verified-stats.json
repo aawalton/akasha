@@ -107,6 +107,7 @@
   "pinned": {
     "critical-rating-spell": 4910,
     "critical-rating-weapon": 4910,
+    "healing-critical-bonus": 22,
     "healing-done-base": 2,
     "healing-taken-base": 2,
     "health-maximum": 26112,
@@ -141,7 +142,6 @@
     "damage-done-physical": 7,
     "damage-done-poison": 7,
     "damage-done-shock": 7,
-    "healing-critical-bonus": 22,
     "movement-sprint-speed": 157,
     "sneak-cost": 57,
     "stamina-block-cost": 1424,
