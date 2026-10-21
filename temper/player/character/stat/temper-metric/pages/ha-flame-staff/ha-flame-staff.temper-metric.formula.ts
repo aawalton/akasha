@@ -65,7 +65,7 @@ export const FORMULA: FormulaNode = {
         },
         {
           type: "metric-refs",
-          metricIds: ["damage-done-flame"],
+          metricIds: ["damage-done-flame-without-base"],
         },
         {
           type: "metric-refs",
