@@ -20,19 +20,19 @@ export const crystalFragments46324 = {
   skillType: "temper-skill-type/active",
   hashPlace: 274,
   createdAt: "2026-05-28T16:03:32.040Z",
-  updatedAt: "2026-10-21T05:44:15.210Z",
+  updatedAt: "2026-10-21T15:59:41.296Z",
   equations: [
     "<<1>> = 0.11043513 MaxStat + 1.1595689 MaxPower (Ultimate, RankMod(1), Dmg, Magic, SingleTarget, Direct, 0.8s cooldown)",
     "<<2>> = 3 seconds (Constant)",
     "<<3>> = 10% (Constant)",
     "<<5>> = 33% (Constant)",
-    "<<4>> = 0.17748 MaxStat + 1.86354 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, SingleTarget, Direct, R2 = 1)",
+    "<<4>> = 0.17748 MaxStat + 1.86354 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, SingleTarget, Direct, R2 = 1, rank IV)",
   ],
   variants: [
     {
       esoSkillId: 114716,
       equations: [
-        "<<1>> = 0.17748 MaxStat + 1.86354 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, SingleTarget, Direct, R2 = 1)",
+        "<<1>> = 0.17748 MaxStat + 1.86354 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, SingleTarget, Direct, R2 = 1, rank IV)",
         "<<2>> = 3 seconds (Constant)",
         "<<3>> = 10% (Constant)",
       ],
