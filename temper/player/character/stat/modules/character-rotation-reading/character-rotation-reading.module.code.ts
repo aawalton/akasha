@@ -57,7 +57,7 @@ function catalogMultipliers(
   const value = (metric: string) => metrics[metric]?.value ?? 0
   const chance = Math.min(1, value("critical-rating") / criticalRating.divisor)
   return {
-    healing: (1 + value("healing-total")) * (1 + chance * value("healing-critical-bonus")),
+    healing: (1 + value("healing-total")) * (1 + chance * value("healing-critical-total")),
     damage: 1 + chance * value("critical-damage-total"),
     healthMaximum: value("health-maximum"),
     physicalShare: physicalShareOf(value("resistance-physical")),

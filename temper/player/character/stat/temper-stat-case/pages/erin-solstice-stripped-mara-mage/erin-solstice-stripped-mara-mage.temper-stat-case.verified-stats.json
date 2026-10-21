@@ -31,6 +31,7 @@
     "damage-done-physical": 0,
     "damage-done-poison": 0,
     "damage-done-shock": 0,
+    "healing-critical-bonus": 0,
     "healing-done-base": 0,
     "healing-taken-base": 0,
     "health-maximum": 21051,
@@ -58,7 +59,6 @@
     "stamina-recovery": 514
   },
   "gaps": {
-    "healing-critical-bonus": 0,
     "movement-sprint-speed": 143,
     "sneak-cost": 133,
     "stamina-sprint-cost": 485

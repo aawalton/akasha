@@ -36,6 +36,7 @@
     "defense-spell-mitigation": 2.60606050491333,
     "experience-gain": 10,
     "gold-gain": 11,
+    "healing-critical-bonus": 0,
     "healing-done-base": 4.5,
     "healing-taken-base": 0,
     "health-maximum": 16477,
@@ -61,7 +62,6 @@
     "ultimate-recovery": 3
   },
   "gaps": {
-    "healing-critical-bonus": 0,
     "sneak-cost": 133
   }
 }

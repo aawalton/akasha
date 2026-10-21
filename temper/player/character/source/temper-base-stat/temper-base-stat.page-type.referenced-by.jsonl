@@ -4,7 +4,7 @@
 {"propertySlug":"import","fileName":"temper-base-stat.page-type.types.ts","path":"temper/player/character/source/temper-base-stat/pages/break-free-cost.temper-base-stat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-base-stat.page-type.types.ts","path":"temper/player/character/source/temper-base-stat/pages/critical-damage-total.temper-base-stat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-base-stat.page-type.types.ts","path":"temper/player/character/source/temper-base-stat/pages/critical-rating.temper-base-stat.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"temper-base-stat.page-type.types.ts","path":"temper/player/character/source/temper-base-stat/pages/healing-critical-bonus.temper-base-stat.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-base-stat.page-type.types.ts","path":"temper/player/character/source/temper-base-stat/pages/healing-critical-total.temper-base-stat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-base-stat.page-type.types.ts","path":"temper/player/character/source/temper-base-stat/pages/health-maximum.temper-base-stat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-base-stat.page-type.types.ts","path":"temper/player/character/source/temper-base-stat/pages/health-recovery.temper-base-stat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-base-stat.page-type.types.ts","path":"temper/player/character/source/temper-base-stat/pages/magicka-maximum.temper-base-stat.ts","typed":true,"deferred":false}

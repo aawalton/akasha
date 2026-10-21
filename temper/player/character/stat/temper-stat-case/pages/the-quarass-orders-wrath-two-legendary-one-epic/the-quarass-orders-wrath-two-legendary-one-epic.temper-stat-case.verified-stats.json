@@ -111,6 +111,7 @@
     "damage-done-physical": 0,
     "damage-done-poison": 0,
     "damage-done-shock": 0,
+    "healing-critical-bonus": 14,
     "healing-done-base": 2,
     "healing-taken-base": 2,
     "health-maximum": 17960,
@@ -144,7 +145,6 @@
     "bash-damage": 436,
     "block-speed": 42,
     "critical-damage": 34,
-    "healing-critical-bonus": 14,
     "sneak-cost": 26
   }
 }

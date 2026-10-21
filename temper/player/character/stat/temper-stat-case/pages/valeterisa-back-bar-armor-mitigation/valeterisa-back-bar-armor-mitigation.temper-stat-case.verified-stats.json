@@ -107,6 +107,7 @@
     "defense-spell-mitigation": 23.809091567993164,
     "experience-gain": 10,
     "gold-gain": 20,
+    "healing-critical-bonus": 0,
     "healing-done-base": 5,
     "health-maximum": 19936,
     "health-recovery": 373,
@@ -144,7 +145,6 @@
     "damage-done-physical": 12,
     "damage-done-poison": 12,
     "damage-done-shock": 12,
-    "healing-critical-bonus": 0,
     "healing-taken-base": 3,
     "movement-sprint-speed": 143,
     "sneak-cost": 79

@@ -121,6 +121,7 @@ export type MetricId =
   | "healing-critical-bonus"
   | "healing-critical-bonus-spell"
   | "healing-critical-bonus-weapon"
+  | "healing-critical-total"
   | "healing-done-aoe"
   | "healing-done-base"
   | "healing-done-direct"
