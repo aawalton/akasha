@@ -157,6 +157,7 @@
   "weapons": [
     "greatsword"
   ],
+  "healingDone": 0.05999999865889549,
   "skills": [
     {
       "abilityId": 183047,

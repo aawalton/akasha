@@ -147,6 +147,7 @@
   "weapons": [
     "mace"
   ],
+  "healingDone": 0.019999999552965164,
   "skills": [
     {
       "abilityId": 39076,

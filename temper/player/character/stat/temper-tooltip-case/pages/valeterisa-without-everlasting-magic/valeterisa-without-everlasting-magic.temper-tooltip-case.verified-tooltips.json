@@ -150,6 +150,7 @@
   "weapons": [
     "lightning-staff"
   ],
+  "healingDone": 0.019999999552965164,
   "skills": [
     {
       "abilityId": 40457,

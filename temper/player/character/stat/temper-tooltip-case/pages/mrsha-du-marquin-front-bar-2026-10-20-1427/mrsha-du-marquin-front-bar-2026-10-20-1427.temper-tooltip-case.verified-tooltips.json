@@ -162,6 +162,7 @@
   "weapons": [
     "maul"
   ],
+  "healingDone": 0.019999999552965164,
   "skills": [
     {
       "abilityId": 220542,

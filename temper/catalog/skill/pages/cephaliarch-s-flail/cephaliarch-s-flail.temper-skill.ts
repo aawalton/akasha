@@ -20,12 +20,12 @@ export const cephaliarchSFlail = {
   skillType: "temper-skill-type/active",
   hashPlace: 194,
   createdAt: "2026-05-28T16:03:31.908Z",
-  updatedAt: "2026-10-21T03:53:31.433Z",
+  updatedAt: "2026-10-21T06:23:05.681Z",
   equations: [
     "<<1>> = 0.086243899 MaxStat + 0.90556093 MaxPower (Ultimate, Dmg, Physical, AOE, Direct, Melee, 0.3s cooldown)",
     "<<2>> = 3 seconds (Constant)",
     "<<3>> = 20 seconds (Constant)",
-    "<<4>> = 0.043144 MaxStat + 0.453055 MaxPower - 1.69305 (Ultimate, ratio = 10.50, Heal, SingleTarget, Direct, R2 = 0.999999)",
+    "<<4>> = 0.044525772 MaxStat + 0.46752061 MaxPower (Ultimate, Heal, SingleTarget, Direct)",
     "<<5>> = 5% (Constant)",
   ],
 } as const satisfies TemperSkill

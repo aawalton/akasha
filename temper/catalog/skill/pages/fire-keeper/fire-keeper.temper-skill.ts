@@ -20,10 +20,10 @@ export const fireKeeper = {
   skillType: "temper-skill-type/active",
   hashPlace: 512,
   createdAt: "2026-05-28T16:03:32.478Z",
-  updatedAt: "2026-10-21T01:42:11.846Z",
+  updatedAt: "2026-10-21T06:23:05.681Z",
   equations: [
     "<<1>> = 15 seconds (Constant)",
-    "<<2>> = 0.0194428 MaxStat + 0.202931 MaxPower - 1.26031 (Ultimate, ratio = 10.44, Heal, AOE, Direct, 1s tick, R2 = 0.999998)",
+    "<<2>> = 0.019971788 MaxStat + 0.20970377 MaxPower (Ultimate, Heal, AOE, Direct, 1s tick)",
     "<<3>> = 1 second (Constant)",
     "<<9>> = 50% (Constant)",
     "<<4>> = Minor Fortitude (Constant)",

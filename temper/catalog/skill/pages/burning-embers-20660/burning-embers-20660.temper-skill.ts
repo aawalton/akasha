@@ -20,13 +20,13 @@ export const burningEmbers20660 = {
   skillType: "temper-skill-type/active",
   hashPlace: 173,
   createdAt: "2026-05-28T16:03:31.869Z",
-  updatedAt: "2026-10-21T04:08:18.668Z",
+  updatedAt: "2026-10-21T06:23:05.681Z",
   equations: [
     "<<1>> = 0.051639378 MaxStat + 0.54221347 MaxPower (Ultimate, Dmg, Flame, SingleTarget, Direct, Melee)",
     "<<2>> = 0.030978338 MaxStat + 0.32527255 MaxPower (Ultimate, Dmg, Flame, SingleTarget, DOT, 8s duration, 2s tick)",
     "<<3>> = 10 seconds (Constant)",
-    "<<4>> = 0.206642 Health - 1.14018 (Health, Heal, SingleTarget, Direct, R2 = 1)",
-    "<<5>> = 0.0310464 Health - 1.70418 (Health, Heal, SingleTarget, Direct, R2 = 0.999992)",
+    "<<4>> = 0.21337753 Health (Health, Heal, SingleTarget, Direct)",
+    "<<5>> = 0.031978067 Health (Health, Heal, SingleTarget, Direct)",
     "<<6>> = Burning (Constant)",
   ],
 } as const satisfies TemperSkill

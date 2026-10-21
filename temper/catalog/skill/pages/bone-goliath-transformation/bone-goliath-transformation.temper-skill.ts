@@ -20,12 +20,12 @@ export const boneGoliathTransformation = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 144,
   createdAt: "2026-05-28T16:03:31.824Z",
-  updatedAt: "2026-10-21T05:05:04.595Z",
+  updatedAt: "2026-10-21T06:23:05.681Z",
   equations: [
     "<<1>> = 30000 (Constant)",
     "<<2>> = 20 seconds (Constant)",
     "<<1>> = 30000 (Constant, Repeat)",
-    "<<3>> = 0.02 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
+    "<<3>> = 0.019993051 Health (Health, Heal, SingleTarget, Direct)",
     "<<4>> = 0.05 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
   ],
 } as const satisfies TemperSkill

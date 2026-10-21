@@ -204,6 +204,7 @@
   "weapons": [
     "battleaxe"
   ],
+  "healingDone": 0.019999999552965164,
   "skills": [
     {
       "abilityId": 38754,

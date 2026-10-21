@@ -139,6 +139,7 @@
   "weapons": [
     "sword"
   ],
+  "healingDone": 0,
   "skills": [
     {
       "abilityId": 24595,

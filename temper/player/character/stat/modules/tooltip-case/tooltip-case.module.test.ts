@@ -99,6 +99,19 @@ test("a case keeps the stacks of each buff active with stacks, and no stacks whe
   expect(heldOfCase(undefined, { activeBuffs: [{ name: "Gallop" }] }).stacks).toBeUndefined()
 })
 
+test("a case's heals are worked with the Healing Done it keeps", () => {
+  const heal = new Map([[1, ["<<1>> = 0.1 MaxStat (Heal)"]]])
+  const read = {
+    ...READ,
+    skills: [{ abilityId: 1, name: "Mend", description: "heals |cffffff2160|r" }],
+  }
+
+  expect(pinnedTooltipCaseOf({ ...read, healingDone: 0.08 }, heal).pinned).toEqual({
+    "1 <<1>>": 2160,
+  })
+  expect(pinnedTooltipCaseOf(read, heal).gaps).toEqual({ "1 <<1>>": 2160 })
+})
+
 test("a variant takes its skill's equations unless it states its own", () => {
   const found = equationsOf([
     {

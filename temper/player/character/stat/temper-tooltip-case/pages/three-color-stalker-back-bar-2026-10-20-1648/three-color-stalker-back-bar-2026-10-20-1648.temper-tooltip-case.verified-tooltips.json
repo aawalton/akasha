@@ -145,6 +145,7 @@
   },
   "mediumPieces": 2,
   "weapons": [],
+  "healingDone": 0.019999999552965164,
   "skills": [
     {
       "abilityId": 25267,

@@ -79,6 +79,23 @@ test("the stats an equation reads take the higher of Magicka and Stamina, and of
   expect(equationStatsOf(stats, 0.08).healingDone).toBe(0.08)
 })
 
+test("a heal is rounded, grown by the build's healing done, and rounded again", () => {
+  const line = "<<1>> = 0.04452 MaxStat + 0.46746 MaxPower (Heal, SingleTarget, Direct)"
+  const worked = (healingDone: number) => {
+    const paired = tooltipPairingOf(
+      "heals |cffffff1|r",
+      [line],
+      { ...STATS, healingDone },
+      new Set()
+    )
+    return paired.paired ? paired.numbers[0]?.temper : undefined
+  }
+  const raw = 0.04452 * 20000 + 0.46746 * 5000
+
+  expect(worked(0)).toBe(Math.round(raw))
+  expect(worked(0.08)).toBe(Math.round(1.08 * Math.round(raw)))
+})
+
 const EMBERS = [
   "<<1>> = 0.05165 MaxStat + 0.542325 MaxPower (Ultimate, ratio = 10.50, Dmg, Flame)",
   "<<2>> = 10 seconds (Constant)",

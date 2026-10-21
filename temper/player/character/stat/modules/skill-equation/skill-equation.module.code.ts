@@ -153,6 +153,8 @@ function longerBy(equation: Equation, passives: ReadonlySet<string>): number {
 
 const SHIELD = "DmgShield"
 
+const HEAL = "Heal"
+
 const DAMAGE = "Dmg"
 
 const DIRECT = "Direct"
@@ -316,6 +318,7 @@ function tooltipValueOf(
   }
   if (equation.tags.includes(SHIELD)) return shieldOf(equation, worked, stats, passives)
   const bonused = bonusOf(equation, passives, active) * stackedOf(equation, active) * worked
+  if (equation.tags.includes(HEAL)) return Math.round((1 + stats.healingDone) * Math.round(bonused))
   if (!isDamage(equation)) return Math.round(bonused)
   return Math.floor(bonused) * ticksOf(equation, durationMs)
 }

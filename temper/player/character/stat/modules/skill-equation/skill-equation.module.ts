@@ -157,11 +157,19 @@ export const skillEquation = {
         "A reading gives Merciless Charge no stacks, so the numbers its stacks grow are gaps.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
+      decisionKind: "decision-kind/departure",
+      statement: "A heal is rounded, grown by the build's healing done, and rounded again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
-        "A heal is worked without the build's healing done until where the game rounds a heal is read.",
+        "The healing done is the Healing Done Temper works out for the build, not a tooltip.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A heal over time is worked as one tick, so its tooltip's total is a gap.",
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T05:12:23.433Z",
+  updatedAt: "2026-10-21T06:23:05.681Z",
 } as const satisfies Module
