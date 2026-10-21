@@ -18,7 +18,11 @@ export const pageForwarder = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "Under a burst socat carries hundreds of connections at once all the same.",
+      statement: "socat before 1.8.1 lets more connections through than its cap once one ends.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The forwarder runs a socat that holds its cap, so a burst waits its turn.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -30,5 +34,5 @@ export const pageForwarder = {
     },
   ],
   createdAt: "2026-09-05T21:47:46.216Z",
-  updatedAt: "2026-10-21T14:38:56.908Z",
+  updatedAt: "2026-10-21T15:10:08.695Z",
 } as const satisfies Manifest
