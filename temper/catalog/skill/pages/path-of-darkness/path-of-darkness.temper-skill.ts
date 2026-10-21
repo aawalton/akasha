@@ -20,9 +20,9 @@ export const pathOfDarkness = {
   skillType: "temper-skill-type/active",
   hashPlace: 876,
   createdAt: "2026-05-28T16:03:33.219Z",
-  updatedAt: "2026-10-21T01:40:37.191Z",
+  updatedAt: "2026-10-21T02:29:23.868Z",
   equations: [
-    "<<1>> = 10 seconds (Constant)",
+    "<<1>> = 10 seconds (Constant, +2 seconds with dark-veil)",
     "<<2>> = 30% (Constant)",
     "<<3>> = 4 seconds (Constant)",
   ],

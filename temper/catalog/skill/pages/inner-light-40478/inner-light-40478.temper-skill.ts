@@ -21,9 +21,9 @@ export const innerLight40478 = {
   effects: "jsonl",
   hashPlace: 688,
   createdAt: "2026-05-28T16:03:32.859Z",
-  updatedAt: "2026-10-21T01:40:37.191Z",
+  updatedAt: "2026-10-21T02:29:23.868Z",
   equations: [
-    "<<1>> = 5 seconds (Constant)",
+    "<<1>> = 5 seconds (Constant, +2 seconds with everlasting-magic)",
     "<<2>> = 4 seconds (Constant)",
     "<<3>> = Major Savagery (Constant)",
     "<<4>> = 12% (Constant)",

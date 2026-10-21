@@ -34,6 +34,11 @@ export const skillEquations = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A duration a passive lengthens is tagged with it where readings with and without it differ.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "UESP's equations are fit for game update 51.",
     },
     {
@@ -42,5 +47,5 @@ export const skillEquations = {
     },
   ],
   createdAt: "2026-10-15T15:41:52.487Z",
-  updatedAt: "2026-10-21T01:42:11.846Z",
+  updatedAt: "2026-10-21T02:29:23.868Z",
 } as const satisfies TextProperty

@@ -20,10 +20,10 @@ export const blur = {
   skillType: "temper-skill-type/active",
   hashPlace: 135,
   createdAt: "2026-05-28T16:03:31.812Z",
-  updatedAt: "2026-10-21T01:42:11.846Z",
+  updatedAt: "2026-10-21T02:29:23.868Z",
   equations: [
     "<<1>> = 20% (Constant)",
-    "<<2>> = 20 seconds (Constant)",
+    "<<2>> = 20 seconds (Constant, +2 seconds with dark-veil)",
     "<<3>> = Roll Dodge (Constant)",
     "<<4>> = 10% (Constant)",
     "<<5>> = 100% (Constant)",
