@@ -9,6 +9,7 @@ import { extractCurse } from "akasha/temper/player/character/stat/modules/extrac
 import { extractJewelry } from "akasha/temper/player/character/stat/modules/extract-jewelry/extract-jewelry.module.code.ts"
 import { extractMundus } from "akasha/temper/player/character/stat/modules/extract-mundus/extract-mundus.module.code.ts"
 import { extractPassives } from "akasha/temper/player/character/stat/modules/extract-passives/extract-passives.module.code.ts"
+import { extractPureClassPassives } from "akasha/temper/player/character/stat/modules/extract-pure-class-passives/extract-pure-class-passives.module.code.ts"
 import { extractSets } from "akasha/temper/player/character/stat/modules/extract-sets/extract-sets.module.code.ts"
 import { extractSkills } from "akasha/temper/player/character/stat/modules/extract-skills/extract-skills.module.code.ts"
 import { extractTarget } from "akasha/temper/player/character/stat/modules/extract-target/extract-target.module.code.ts"
@@ -41,6 +42,8 @@ export function buildStateToEffectSources(
   sources.push(...extractSkills(build, context))
 
   sources.push(...extractPassives(build, context))
+
+  sources.push(...extractPureClassPassives(build, context))
 
   sources.push(...extractChampionPoints(build, context))
 

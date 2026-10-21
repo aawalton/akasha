@@ -105,6 +105,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/set-source/set-source.module.ts","id":"01a061a4-18b1-7a6e-bc9b-94150a72e67b"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/mundus-source/mundus-source.module.ts","id":"01a061a7-9bb1-778e-b38f-f397e2f754ea"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/enchant-proc/enchant-proc.module.ts","id":"01a13ff0-d4d8-7ee8-8a0f-d092bf883998"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/extract-pure-class-passives/extract-pure-class-passives.module.ts","id":"01a15e8d-bff9-713b-bfd3-4f051f4641be"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/skill-damage/skill-damage.module.ts","id":"01a13fef-5e7e-711d-90eb-ebfc00e306bb"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/skill-equation/skill-equation.module.ts","id":"01a1403d-d551-75df-ac1b-9f48985d15c4"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/stale-sheet-rows/stale-sheet-rows.module.ts","id":"01a15e44-b15d-7971-9f28-1781c9e634b9"}
