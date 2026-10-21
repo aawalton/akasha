@@ -9,7 +9,7 @@ export const aJobForTheProfessorWhileTheChildIsFed = {
   parents: ["all-about-alan-topic/keeping-the-professor-and-the-child-fed"],
   related: ["all-about-alan-topic/what-reaches-the-child"],
   settled:
-    "A core constraint I am realizing is that when the Child is at the front, the Professor still needs to be occupied.\n\nJen and I had a phase where we watched a lot of Hallmark murder mysteries together. Those worked because the Child enjoyed the romance and the Professor enjoyed the mystery. When we ran out and tried romances, it did not work, because there was nothing for the Professor.",
+    "A core constraint I am realizing is that when the Child is at the front, the Professor still needs to be occupied.\n\nJen and I had a phase where we watched a lot of Hallmark murder mysteries together. Those worked because the Child enjoyed the romance and the Professor enjoyed the mystery. When we ran out and tried romances, it did not work, because there was nothing for the Professor.\n\nOn the night of 20 October 2026, while Jen held me in silence, the Professor was counting. I have started using counting as a Professor stim, counting to around ten thousand most days.",
   createdAt: "2026-10-21T13:29:15.365Z",
-  updatedAt: "2026-10-21T13:29:15.365Z",
+  updatedAt: "2026-10-21T13:29:54.513Z",
 } as const satisfies AllAboutAlanTopic
