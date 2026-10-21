@@ -1,1 +1,2 @@
 {"id":"01a05fd0-8d81-7ff7-b4c0-8239f94c69c6","metricId":"temper-metric-tree/metric-bash-damage","type":"integer","value":500,"rank":2}
+{"id":"01a15f1d-1d99-7815-af44-3f59d6c5540f","metricId":"temper-metric-tree/metric-bash-cost","type":"fractional-change","value":-0.5,"rank":2}
