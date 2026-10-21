@@ -44,7 +44,7 @@ async function besideBodyOf(
   return typeof body === "string" && body !== "" ? body : null
 }
 
-export function newestReadingHash(body: string): string | null {
+function newestReadingHash(body: string): string | null {
   let newest: string | null = null
   let newestAt = Number.NEGATIVE_INFINITY
   for (const line of body.split("\n")) {
@@ -78,7 +78,7 @@ const COMPANION_BUILD = "companion-build"
 
 const COMPLETION = "completion"
 
-export function capturedCompanionHash(body: string): string | null {
+function capturedCompanionHash(body: string): string | null {
   const completion = JSON.parse(body) as { build?: { hash?: unknown } }
   const hash = completion.build?.hash
   return typeof hash === "string" && hash !== "" ? hash : null
