@@ -1,3 +1,4 @@
+import { workstation } from "akasha/infrastructure/machine/host/pages/workstation.host.ts"
 import type {
   Appended,
   Appending,
@@ -58,8 +59,6 @@ const ORIGIN_NAMES: readonly string[] = [ORIGIN_ENV, "PAGE_STORE_ORIGIN"]
 const THROUGH_THE_FORWARDER = "http://page-forwarder.page-forwarder.svc.cluster.local:8787"
 
 const AT_THE_WORKSTATION = "http://workstation.alanwalton.ts.net:8787"
-
-const IN_A_POD = "KUBERNETES_SERVICE_HOST"
 
 const IN_A_BROWSER = "/api"
 
@@ -125,14 +124,11 @@ export function originOf(named: readonly string[] = ORIGIN_NAMES): string {
   return here === null ? unstatedOrigin() : `${here}${IN_A_BROWSER}`
 }
 
-const POD_TOKEN = "/var/run/secrets/kubernetes.io/serviceaccount/token"
+type Node = { process?: { getBuiltinModule?: (name: string) => typeof import("node:os") } }
 
-type Node = { process?: { getBuiltinModule?: (name: string) => typeof import("node:fs") } }
-
-export function unstatedOrigin(token: string = POD_TOKEN): string {
-  const files = (globalThis as Node).process?.getBuiltinModule?.("node:fs")
-  const inAPod = saidIn(IN_A_POD) !== null || files?.existsSync(token) === true
-  return inAPod ? THROUGH_THE_FORWARDER : AT_THE_WORKSTATION
+export function unstatedOrigin(host?: string): string {
+  const named = host ?? (globalThis as Node).process?.getBuiltinModule?.("node:os").hostname()
+  return named === workstation.slug ? AT_THE_WORKSTATION : THROUGH_THE_FORWARDER
 }
 
 export function backoffFor(taken: number): number {

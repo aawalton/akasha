@@ -1,6 +1,5 @@
 import { expect, test } from "bun:test"
-import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
+
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import {
   ATTEMPTS,
@@ -39,36 +38,20 @@ test("the origin is read from the environment before anything else", () => {
   else process.env.PAGE_STORE_ORIGIN = held
 })
 
-test("outside a pod the store is reached at the workstation rather than through the forwarder", () => {
-  const held = optionalEnv("KUBERNETES_SERVICE_HOST")
-  const stated = optionalEnv("PAGE_STORE_ORIGIN")
-  try {
-    delete process.env.PAGE_STORE_ORIGIN
-    delete process.env.KUBERNETES_SERVICE_HOST
-    expect(pageStoreOrigin()).toBe("http://workstation.alanwalton.ts.net:8787")
-    process.env.KUBERNETES_SERVICE_HOST = "10.96.0.1"
-    expect(pageStoreOrigin()).toBe("http://page-forwarder.page-forwarder.svc.cluster.local:8787")
-  } finally {
-    if (held === undefined) delete process.env.KUBERNETES_SERVICE_HOST
-    else process.env.KUBERNETES_SERVICE_HOST = held
-    if (stated !== undefined) process.env.PAGE_STORE_ORIGIN = stated
+test("only the workstation reaches the store there, and every other machine goes through the forwarder", () => {
+  expect(unstatedOrigin("workstation")).toBe("http://workstation.alanwalton.ts.net:8787")
+  for (const host of ["deploy-temper-web-501d12505a8d-z5hw8", "node-05", "macbook", ""]) {
+    expect(unstatedOrigin(host)).toBe("http://page-forwarder.page-forwarder.svc.cluster.local:8787")
   }
 })
 
-test("a pod whose test run was handed no pod variable is known by its account's token", () => {
-  const held = optionalEnv("KUBERNETES_SERVICE_HOST")
-  const folder = mkdtempSync(join(optionalEnv("SCRATCH_AT") ?? "/var/tmp", "pod-token-"))
-  const token = join(folder, "token")
+test("where nothing names an origin, the store is where a page call reaches the service", () => {
+  const stated = optionalEnv("PAGE_STORE_ORIGIN")
   try {
-    delete process.env.KUBERNETES_SERVICE_HOST
-    expect(unstatedOrigin(token)).toBe("http://workstation.alanwalton.ts.net:8787")
-    writeFileSync(token, "held")
-    expect(unstatedOrigin(token)).toBe(
-      "http://page-forwarder.page-forwarder.svc.cluster.local:8787"
-    )
+    delete process.env.PAGE_STORE_ORIGIN
+    expect(pageStoreOrigin()).toBe(unstatedOrigin())
   } finally {
-    rmSync(folder, { recursive: true, force: true })
-    if (held !== undefined) process.env.KUBERNETES_SERVICE_HOST = held
+    if (stated !== undefined) process.env.PAGE_STORE_ORIGIN = stated
   }
 })
 

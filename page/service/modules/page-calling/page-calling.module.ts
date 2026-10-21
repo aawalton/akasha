@@ -43,20 +43,17 @@ export const pageCalling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A pod reaches the service through the forwarder.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A pod is known by its environment or by its account's token file.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "A test run in a pod is handed no variable that says it is in a pod.",
+      statement:
+        "A caller on the workstation reaches the service there, never through the forwarder.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A caller outside a pod reaches the service at the workstation, never through the forwarder.",
+        "A caller is on the workstation where its machine is named as the workstation host.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every other caller reaches the service through the forwarder.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -223,5 +220,5 @@ export const pageCalling = {
     },
   ],
   createdAt: "2026-09-01T17:34:08.092Z",
-  updatedAt: "2026-10-21T15:58:04.957Z",
+  updatedAt: "2026-10-21T16:23:23.918Z",
 } as const satisfies Module
