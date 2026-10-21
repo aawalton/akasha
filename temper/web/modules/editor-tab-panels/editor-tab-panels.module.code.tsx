@@ -118,6 +118,7 @@ export function EditorTabPanels({
             skills={build.skills}
             scribing={build.scribing}
             character={build.character}
+            masteries={build.masteries}
             equipment={build.equipment}
             availableSkills={availableSkills}
             onUpdateSkills={onUpdateSkills}

@@ -14,6 +14,7 @@ export interface SkillsPanelProps {
   skills: CharacterState["skills"]
   scribing: readonly ScribedSkill[]
   character: CharacterState["character"]
+  masteries?: CharacterState["masteries"]
   equipment: CharacterState["equipment"]
   availableSkills: readonly Skill[]
   onUpdateSkills: (updates: Partial<CharacterState["skills"]>) => void

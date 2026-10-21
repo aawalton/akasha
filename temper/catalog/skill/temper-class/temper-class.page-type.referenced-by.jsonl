@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"temper-class.page-type.ts","path":"temper/player/character/temper-account-character/modules/character-race-class/character-race-class.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-class.page-type.ts","path":"temper/player/character/temper-account-character/modules/character-race-class/character-race-class.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-class.page-type.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-class.page-type.ts","path":"temper/web/modules/class-masteries-panel-card/class-masteries-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-class.page-type.ts","path":"temper/web/modules/use-set-catalog/use-set-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-class.page-type.ts","path":"temper/web/modules/use-skill-catalog/use-skill-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-class.page-type.types.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-info/sets-set-info.module.code.ts","typed":true,"deferred":false}

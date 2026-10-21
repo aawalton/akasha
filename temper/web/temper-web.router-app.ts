@@ -105,6 +105,7 @@ export const temperWeb = {
     "module/characters-tab-filters",
     "module/characters-tab-panels",
     "module/class-change-confirmation-dialog",
+    "module/class-masteries-panel-card",
     "module/collapsible-skill-card",
     "module/companion-actions",
     "module/companion-armor-panel-card",
@@ -399,5 +400,5 @@ export const temperWeb = {
     },
   ],
   createdAt: "2026-09-02T21:23:16.800Z",
-  updatedAt: "2026-10-20T14:25:52.637Z",
+  updatedAt: "2026-10-21T14:12:41.414Z",
 } as const satisfies RouterApp

@@ -9,6 +9,7 @@ import {
   getArmorSkillLineIds,
   getWeaponSkillLineIdsForBar,
 } from "akasha/temper/player/character/skill/modules/skill-line-queries/skill-line-queries.module.code.ts"
+import { ClassMasteriesPanelCard } from "akasha/temper/web/modules/class-masteries-panel-card/class-masteries-panel-card.module.code.tsx"
 import { PassiveSkillsPanelCard } from "akasha/temper/web/modules/passive-skills-panel-card/passive-skills-panel-card.module.code.tsx"
 import { ScribingPanelCard } from "akasha/temper/web/modules/scribing-panel-card/scribing-panel-card.module.code.tsx"
 import { ScribingSelectionDialog } from "akasha/temper/web/modules/scribing-selection-dialog/scribing-selection-dialog.module.code.tsx"
@@ -30,6 +31,7 @@ export function SkillsPanel({
   skills,
   scribing,
   character,
+  masteries = [],
   equipment,
   availableSkills,
   onUpdateSkills,
@@ -126,6 +128,7 @@ export function SkillsPanel({
           search={deferredPassiveSearch}
           selectedCategory={deferredPassiveCategory}
         />
+        <ClassMasteriesPanelCard masteries={masteries} />
       </ResponsiveColumns>
 
       {}

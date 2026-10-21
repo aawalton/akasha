@@ -17,6 +17,7 @@
 {"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/player/character/stat/modules/extract-class-masteries/extract-class-masteries.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-scribing-progress/completion-scribing-progress.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/web/modules/characters-data-content/characters-data-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/web/modules/class-masteries-panel-card/class-masteries-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/web/modules/home-page-content/home-page-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/web/modules/scribing-selection-dialog/scribing-selection-dialog.module.code.tsx","typed":false,"deferred":false}
