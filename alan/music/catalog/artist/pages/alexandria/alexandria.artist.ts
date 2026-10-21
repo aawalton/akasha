@@ -17,11 +17,11 @@ export const alexandria = {
       source: "spotify",
       externalId: "0SQG4wPVUlfbmbGQfqB47y",
       externalLink: "https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y",
-      lastSyncedAt: "2026-09-16",
+      lastSyncedAt: "2026-10-21",
     },
   ],
   title: "Alexandria",
   genre: [],
   createdAt: "2026-09-03T16:04:08.682Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-21T13:45:14.062Z",
 } as const satisfies Artist
