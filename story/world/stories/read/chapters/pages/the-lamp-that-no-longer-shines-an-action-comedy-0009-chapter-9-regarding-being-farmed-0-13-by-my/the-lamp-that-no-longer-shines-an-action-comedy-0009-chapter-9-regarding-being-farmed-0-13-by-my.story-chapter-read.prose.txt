@@ -1,0 +1,201 @@
+[Time]: 1:00 PM[Location]: Milan'thir · The White City · "Iron Rose" Comprehensive Arena · VIP Box No. 3
+
+Hathaway stood in the center of the arena, the gravel beneath her feet making a soft crunching sound against her boots. In her right hand, she gripped a [Ludwig Custom · 'Silver Star' Model]: ninety-five percent conductive Moon-Silver, a high-purity sapphire core humming with latent energy, and in Hathaway's sweaty palm it looked less like a weapon of mass destruction and more like a glow stick she didn't know how to turn on.
+
+She felt exactly like a QA tester who had just been handed a poorly optimized, level-capped account, and told to go stress-test it against a top-10 server-ranked Smurf, and said Smurf was not only naked (gear-wise) but also lazily telling her: "Come on, sis, I'll play with one hand tied behind my back."
+
+Opposite her, Lin was rolling up the sleeves of her black tactical vest, revealing forearms with fluid lines and tight muscles. She didn't even bother using her legendary staff, [Legion's Bane], which could probably trigger planar quakes. Instead, she had just grabbed a generic, white-grade wooden stick from the weapon rack, the kind you could find anywhere.
+
+"Repeating the rules one last time." Lin swung the wooden stick, tearing the air with a sharp whoosh. "You have 42,000 M-Units and top-tier gear from the Ludwig family. I have 60,000 M-Units, but I will restrict myself to Tier 1 (First Circle) and below basic cantrips. If you can force me to move half a step or even graze the hem of my clothes, you win."
+
+Hathaway took a deep breath. The mana inside her surged through her veins like a roaring river, channeling into the [Silver Star] staff, causing it to emit a blinding azure radiance.
+
+That overflowing sense of power gave her a massive hardware advantage. But Hathaway wasn't delusional.
+
+In game development, you didn't test a new engine by playing on Easy Mode. You threw it into the highest-stress environment available and logged the error codes.
+
+I just need to survive long enough to reverse-engineer one of her combat loops. Just one frame of data.
+
+She glanced at her reflection on the highly polished surface of her staff: those crimson, blood-like eyes were contracting with excitement.This is my high-speed camera.
+
+"Stop glaring."
+
+Opposite her, Lin finished rolling up her sleeves and tapped the wooden stick on the ground. "Although your eyes look like you want to swallow me whole right now, I have to remind you: Staring at me won't increase your win rate."
+
+In the spectator stand, Rhode was sitting with zero decorum, her long, slender legs crossed, hugging an extra-large bucket of popcorn. She brushed some crumbs off her miniskirt and flicked her finger upward.
+
+An orange fireball condensed out of thin air. It arrived without a roar, a quiet unstable blob of liquid magma, pulsing gently in the air.
+
+Rhode glanced at Hathaway, who looked ready to pounce, gripping the villa-priced staff like a baseball bat, and then at Lin, whose relaxed posture suggested she was waiting for takeout delivery. A mischievous grin tugged at the corner of Rhode's mouth.
+
+"Don't be nervous, Hathaway. Getting personally beaten up by Lin is 'fan service' that many people beg for but can't get."
+
+Rhode's gaze sharpened. "Catch this. Fastball."
+
+The host's memory supplied the rule without being asked, the way it supplied street names: no referee, no countdown. Ball hits dirt, match live.
+
+Rhode slammed her palm down, and the fireball plummeted like a falling meteor, dragging a trail of distorted red light as it smashed toward the ground.
+
+The instant the fireball began its descent, Hathaway snapped her eyes wide open, her consciousness screaming:Motion capture ON!
+
+The world changed. Under the insane infusion of 42,000 M-Units of mana, those red eyes overheated. The rapidly falling fireball turned into a frame-by-frame slow-motion slideshow on Hathaway's retinas.
+
+She saw the subtle turbulence generated as the fireball cut through the air, saw the spark remaining on Rhode's fingertip, and even saw every grain of dust kicked up by air pressure near Lin's feet.
+
+I see it! The visual refresh rate is keeping up!
+
+Hathaway's brain frantically compiled the counter-attack: 0.42 seconds until fireball impact. Lin's center of gravity is tilted 3 degrees to the left. The moment the fireball explodes, I just need to point the [Silver Star] and unleash an instant-cast [Explosive Fireball] to lock down her movement! Action queued!
+
+BANG!
+
+The fireball hit the ground, exploding into a rippling shockwave, and Hathaway's brain sent the command to her body: Do it! Cast! Coordinates (12, 45), maximum output!
+
+However, what happened next shattered every fantasy she had as a game designer about "cheats." Her eyes captured all of it: Lin moved. That practice wooden stick moved in a trajectory that looked "heinously slow" to Hathaway's eyes but was lightning-fast in reality. It slipped past the [Silver Star] staff, which Hathaway hadn't even finished raising, and tapped the tip of her nose.
+
+Her eyes were still running the footage at a luxurious crawl. The rest of her had already stopped receiving updates.
+
+[Evocation · Tier 0 · Force Push]
+
+BOOM—!
+
+Hathaway watched helplessly as she was swatted away like a baseball. Her body traced a beautiful parabola in the air. The "slow-motion" vision allowed her to see every fold of her robe fluttering in the wind, and see her unformed Fireball spell "misfiring" inside the crystal core of the Silver Star due to the forced interruption. The violent mana backlash made her lungs feel like they were filled with pepper spray.
+
+Then, SPLAT. She plastered against the protective wall with a miserable thud and slid down like a soggy pancake.
+
+Time Elapsed: 0.05 seconds.
+
+"Too slow." Lin stood in place, one hand in her pocket, her breathing not even slightly disrupted. "Seeing a fastball and only thinking about reaction speed? What are you doing? Writing a thesis in your head?"
+
+"No... my eyes clearly saw it..." Hathaway clutched her chest, crawling up from the ground with a face full of shock and a trace of blood at the corner of her mouth. She used her staff to prop herself up, the metal shaft groaning under her weight. "In that moment, the world definitely slowed down..."
+
+"What's the use of seeing it?" Lin popped her bubble. "It's like installing a master-grade perception array behind your eyes while your casting circuits are still apprentice-tier."
+
+She pointed at Hathaway's still bloodshot red eyes. "Your neural transmission, muscle memory, and casting circuits are still 'white grade' garbage. Being able to see but not move: in a real duel, this only serves to make you die with more clarity. You'll watch yourself die frame by frame."
+
+Forget reimbursing the hotpot; if we keep fighting, I'm afraid I'll end up owing medical bills.
+
+Hathaway gritted her teeth.Data point one logged, her developer brain processed coldly despite the ringing in her ears. Agility build is a dead end. Ping is too high. Time to test raw mitigation.
+
+"I'm not done!" She slammed the [Silver Star] into the ground.
+
+"[Abjuration · Greater Mage Armor]!"
+
+The foundation of 42,000 M-Units erupted, and a pale blue wall of light, thick as bulletproof glass, snapped into place. Hathaway huddled behind the shield, finally feeling a shred of security.
+
+Come on! Idol! This is a Tier 4 strength shield! Let's see how you break it with a Tier 0 cantrip!
+
+Lin looked at the turtle shell and sighed. "Typical brute-force thinking. You have no concept of Resource Efficiency."
+
+She didn't attack the shield. She simply snapped her fingers.
+
+[Conjuration · Tier 1 · Grease]
+
+A puddle of slick, black magical grease appeared out of thin air beneath Hathaway's feet. Hathaway, fully focused on her frontal defense, lost her footing and flailed. In that split second, with the caster's posture gone, the structure of the "invincible" shield collapsed and dissipated into shards.
+
+Immediately after, Lin followed up with a non-lethal—
+
+[Evocation · Tier 0 · Gust]
+
+A blast of wind swept past with precision, and Hathaway looked like a drunkard trying to dance ballet on ice. Feet on grease, facing the wind, she performed a standard "faceplant" in full view of everyone, smashing face-first into the puddle of oil.
+
+Time Elapsed: 1.5 seconds.
+
+"You traded the price of a sports car for one of my bicycle tires." Lin twirled the wooden stick leisurely. "Hathaway, with this playstyle, even if you had 420,000 M-Units, you wouldn't last three minutes."
+
+The next ten minutes were mostly Hathaway walking back to her mark. The fighting inside them came to somewhere under ninety seconds, which meant Lin's estimate had been generous.
+
+"Remember. Mage Hand holds cups. Mage Hand also holds shoelaces."
+
+Hathaway lay on the floor, staring at the spotlights on the ceiling, her brain buzzing. Not because of the violence, but because of the despairing gap. It felt like a toddler who just learned to walk trying to challenge an Olympic sprinter.
+
+Hathaway fell for the thirteenth time, and this time she didn't get up. She lay spread-eagle, covered in oil, her hair a bird's nest, looking like she had lost the will to live.
+
+A giant red [WASTED] sign hung in her vision, and behind it, in neat order, the three great illusions she had walked in here carrying. My stats are enough. My eyes are a cheat. I can still fight. And somewhere under all of it, she was never getting that expensive hotpot money back in this lifetime.
+
+"It's over." Lin walked over and looked down at her. "13 to 0."
+
+Lin tossed the wooden stick to Rhode. "If this were real combat, you would have died 13 times. We could have pieced your corpse together into a jigsaw puzzle."
+
+Hathaway gasped for air, her voice choked with tears. "...This is impossible to fight. Every move before I make it, you've already set the counter. Every second of my existence is within your prediction..."
+
+"It's not a bot; it's a brain." Lin crouched down and tapped Hathaway's forehead. "In a real Witch Duel, Timing is king. You don't have any."
+
+Rhode walked over and pressed an ice-cold sports drink against Hathaway's burning cheek. "Alright, don't be discouraged," she said, popping open a popcorn bucket. "Lasting thirteen rounds without rage-quitting makes you pretty outstanding already. Do you even realize who you were trying to hit?"
+
+Her bruised physical body finally translated what "G.O.A.T." actually meant, and the fan-girl cache in her head supplied the stat to go with it: a 97% "First-Cast Rate" across an entire World League season.
+
+If a Control Mage, whose sole purpose was to interrupt, trip, and silence you, struck first 97% of the time against other world-class professionals, it meant her opponents literally didn't get to play the game. You were permanently stun-locked from the opening buzzer.
+
+You try to raise your wand? Cast canceled. You try to move? Landing zone predicted.
+
+She had suffocated the world's best with frame-traps they could not get out of.
+
+I tried to stat-check a player with perfect frame data while playing on a 500-ping brain, Hathaway thought, her soul leaving her body. I'm not a clown; I'm the entire circus.
+
+"In my rookie year, they called my style a 'gimmick' because the League was obsessed with massive firepower," Lin said, standing up and brushing off her pants. Her blue-grey eyes looked down at Hathaway with cold pragmatism.
+
+"They thought my win rate was just a cheap trick. So, by the second season, the entire League adapted. Every top-tier Witch evolved, copied my meta, and started playing the disruption game."
+
+Lin stepped closer, her aura pressing down like a physical weight. "And I still slaughtered them. I swept the championship three years in a row. Do you know why?" Lin sneered, radiating the arrogance of an apex predator. "Because anyone can copy a loadout and a tactic, but they can't copy the hands operating them. They learned how to play my game, but I was already optimizing the frames they couldn't even see."
+
+She looked at Hathaway, her tone softening, though her words remained razor-sharp. "In a real, unrestricted slaughterhouse outside the League, there is no referee to stop me from targeting their casting nerves directly. And you, Hathaway? You aren't even ready to be a punching bag. You are a very expensive battery that hasn't been wired to anything."
+
+Hathaway clutched the drink bottle, the cold condensation cooling her feverish brain.
+
+Hathaway sat up and wiped the oil off her face fiercely.
+
+"...Again."
+
+"Hah?" Lin raised an eyebrow.
+
+"I said, Again!" Hathaway looked up, her eyes burning. "That combo just now, [Grease] into [Gust]. I want to learn that! And that operation using [Mage Hand] to tie shoelaces... although it's cheesy, it's so effective! I want to learn that!"
+
+Lin paused, then smiled. Not the one she'd been using all afternoon.
+
+"Cheesy?" Lin raised an eyebrow, her tone carrying a hint of amusement at Hathaway's naivety. "Kid, tying shoelaces is kindergarten-level mischief. If you think that's dirty, you're going to develop PTSD when you meet a Plumed Dragon Witch."
+
+She spun the wooden stick in her hand, her expression turning grim, as if recalling something. "Those maniacs don't aim for your HP bar; they aim for your dignity. I only hurt your body. But they? They specialize in 'Social Death.' They will make you do things in the arena that will force you to change your name and migrate to another planet out of pure shame."
+
+She looked at Hathaway with pity. "Compared to the mental pollution they inflict, my little shoelace trick is practically a gentleman's greeting. But at least you understand that 'Honor' is just a shackle for the weak. You want to learn how to fight without a bottom line? You've got good taste."
+
+She fished a crumpled letter out of her pocket, stamped with a shimmering silver World Tree emblem. Hathaway reached for it, and Lin's hand moved past her.
+
+Snap.
+
+She flicked the letter directly at Rhode, who caught the envelope with two fingers and did not look surprised.
+
+"Yggdrasil Academy?" Hathaway saw the emblem on the envelope and stopped mid-reach. "Wait, isn't it already the middle of the semester?"
+
+"Yggdrasil Academy only looks at Hardware," Lin explained casually, her tone as matter-of-fact as if discussing some cosmic axiom. "That is the recognized apex of the entire star sector, the crown jewel of Witch Civilization. And Yggdrasil has only one hard rule for entry: Mana Reserves exceeding 12,000 M-Units, achieved before the age of 18."
+
+She looked Hathaway up and down. "The old you only had 8,200 blue bar, which is the level of a regular honor student at a top school. But now, you have 42,000. In Witch logic, there is no 'late,' only 'strong enough.' As long as your stats meet the standard, you can transfer in anytime. This is Privilege."
+
+Hathaway stared at the letter in Rhode's hand. As a game designer in her past life, she knew the weight of this item all too well. If this world were a game, this was the "VIP Pass" to the Endgame Content.
+
+"Rhode," Lin ordered lazily. "You handle the logistics."
+
+"Understood." Rhode tucked the silver letter into her jacket pocket. She looked at Hathaway with a smirk. "I'll take this Recommendation Letter to the Main House Archive first. I need to get the Matriarch to stamp the 'Financial Guarantee.' You can't enter Yggdrasil without a sponsor covering the tuition."
+
+"I'll have the full admission package delivered to Auntie Margaret's desk before you even get home," Rhode said, tapping her pocket. "Don't worry about the paperwork. The Family Machine is efficient."
+
+Hathaway nodded.Lin gives the Ticket. Rhode validates the Ticket. The Main House pays for the Ticket. All I have to do is show up.
+
+"However, don't celebrate too early." Lin suddenly changed the subject. "Yggdrasil has no written entrance exam. You can get in just by filling out a form, but in exchange, there is the Entrance Duel."
+
+She held up one finger. "The rule is simple: As a new student, you have the right to designate one opponent from all the senior students watching for a duel."
+
+"Designate an opponent?"
+
+"This tests your eye, and it tests your guts. Pick someone too strong, and you get stomped. Pick someone too weak, and the whole school despises you. How to pick a 'lucky bastard' out of hundreds of people who you can beat and use to showcase your strength. That choice itself is part of your strength."
+
+Hathaway swallowed hard. "So... who did you pick back then?"
+
+Rhode laughed before Lin finished the sentence, still tapping the letter in her pocket. Lin shrugged.
+
+"I found it troublesome. So I used an AOE hard crowd-control spell: [Curse of Tarantella]. I pointed at the three third-year seniors leading the pack. Then they tap-danced at the school gate for the entire night until their shoe soles wore through. Since then, no one has dared to disturb my afternoon naps."
+
+Hathaway: "..."
+
+"Alright, off you go."
+
+Lin turned around, waving her hand at Hathaway with her back turned, her silhouette looking ridiculously cool. "Go home. Pack your bags. Your mother is waiting for the good news. Report in at 8:00 AM tomorrow. Don't embarrass me. If you lose even the Entrance Duel, don't say you're my fan."

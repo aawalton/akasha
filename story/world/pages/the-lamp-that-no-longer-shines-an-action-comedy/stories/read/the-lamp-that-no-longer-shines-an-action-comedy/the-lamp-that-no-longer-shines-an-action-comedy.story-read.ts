@@ -1,0 +1,48 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const theLampThatNoLongerShinesAnActionComedy = {
+  id: "01a164b9-8f24-77c8-bd8b-aef5c30e1c2b",
+  type: "page-type/story-read",
+  slug: "the-lamp-that-no-longer-shines-an-action-comedy",
+  author: "Broken_Bulb",
+  following: false,
+  unit: "unit/words",
+  title: "The Lamp That No Longer Shines: An Action Comedy",
+  world: "world/the-lamp-that-no-longer-shines-an-action-comedy",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "149095",
+      externalLink:
+        "https://www.royalroad.com/fiction/149095/the-lamp-that-no-longer-shines-an-action-comedy",
+    },
+  ],
+  externalTags: [
+    "GameLit",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Anti-Hero Lead",
+    "Ruling Class",
+    "Action",
+    "Comedy",
+    "Fantasy",
+    "Satire",
+    "Female Lead",
+    "High Fantasy",
+    "Lesbian Romance",
+    "Magic",
+    "Magitech",
+    "Modern Knowledge",
+    "Reincarnation",
+    "Romance Subplot",
+    "School Life",
+    "Secret Identity",
+    "Strategy",
+    "Strong Lead",
+  ],
+  publicationStatus: "ongoing",
+  readLater: true,
+  createdAt: "2026-10-22T17:47:24.836Z",
+  updatedAt: "2026-10-22T17:47:24.836Z",
+} as const satisfies StoryRead
