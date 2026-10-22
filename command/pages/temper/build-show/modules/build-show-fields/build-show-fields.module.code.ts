@@ -292,7 +292,7 @@ export function companionFieldsOf(build: CompanionState): readonly Field[] {
   ]
 }
 
-export type Difference = {
+type Difference = {
   readonly section: string
   readonly key: string
   readonly first: string | number | null
