@@ -1,5 +1,5 @@
 import { idFrom } from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
-import type { Followed } from "akasha/alan/collection/royal-road/modules/follows/royal-road-follows.module.code.ts"
+import type { Listed } from "akasha/alan/collection/royal-road/modules/follows/royal-road-follows.module.code.ts"
 import {
   betweenRequests,
   fetchHtml,
@@ -26,6 +26,7 @@ const STORY_PAGE_TYPE = "story-read"
 const SOURCE = "royal-road"
 const IDENTITY = "externalIdentity"
 const FOLLOWING = "following"
+const READ_LATER = "readLater"
 const RESTATE = `${changeMechanicalFile.slug}/${addIfNotPresentFile.slug}` as const
 const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 const STATUS_KEPT = new Set(["ongoing", "completed", "hiatus"])
@@ -48,6 +49,12 @@ export interface Story {
   readonly status: string | null
   readonly tags: readonly string[]
   readonly following: boolean
+  readonly readLater: boolean
+}
+
+interface OnLists {
+  readonly following: boolean
+  readonly readLater: boolean
 }
 
 function listIn(row: Row, key: string): readonly string[] {
@@ -59,7 +66,7 @@ function listIn(row: Row, key: string): readonly string[] {
 export function readStories(root: string, only: string | undefined): readonly Story[] {
   const asked = asking(root, {
     pageTypeSlug: STORY_PAGE_TYPE,
-    keys: ["slug", IDENTITY, "world", "publicationStatus", "externalTags", FOLLOWING],
+    keys: ["slug", IDENTITY, "world", "publicationStatus", "externalTags", FOLLOWING, READ_LATER],
   })
   if ("refused" in asked) throw new Error(`the stories to follow went unread: ${asked.refused}`)
   const out: Story[] = []
@@ -78,6 +85,7 @@ export function readStories(root: string, only: string | undefined): readonly St
       status: textAt(row, "publicationStatus"),
       tags: listIn(row, "externalTags"),
       following: row[FOLLOWING] === true,
+      readLater: row[READ_LATER] === true,
     })
   }
   if (found === 0) {
@@ -98,10 +106,12 @@ export function restatementFor(
   story: Story,
   status: string | null,
   tags: readonly string[],
-  following: boolean
+  following: boolean,
+  readLater: boolean | null
 ): Value | null {
   const values: Value = {}
   if (following !== story.following) values[FOLLOWING] = following
+  if (readLater !== null && readLater !== story.readLater) values[READ_LATER] = readLater
   const wanted = keptStatus(status)
   if (wanted !== null && wanted !== story.status) values["publicationStatus"] = wanted
   const sameTags =
@@ -131,8 +141,8 @@ export function restatedStory(
   }
 }
 
-export function storyValues(followed: Followed, meta: Meta, world: string): Value {
-  const { fictionId, fictionSlug } = followed
+export function storyValues(listed: Listed, meta: Meta, world: string, lists: OnLists): Value {
+  const { fictionId, fictionSlug } = listed
   const values: Value = {
     title: meta.title ?? fictionSlug,
     world,
@@ -143,9 +153,10 @@ export function storyValues(followed: Followed, meta: Meta, world: string): Valu
         externalLink: royalRoadUrl(`/fiction/${fictionId}/${fictionSlug}`),
       },
     ],
-    following: true,
+    following: lists.following,
     unit: WORDS,
   }
+  if (lists.readLater) values[READ_LATER] = true
   if (meta.author !== null) values["author"] = meta.author
   if (meta.tags.length > 0) values["externalTags"] = [...meta.tags]
   const status = keptStatus(meta.status)
@@ -164,17 +175,17 @@ interface Created {
   readonly story: Story
 }
 
-export async function storyCreated(root: string, followed: Followed): Promise<Created> {
-  const slug = followed.fictionSlug
+export async function storyCreated(root: string, listed: Listed, lists: OnLists): Promise<Created> {
+  const slug = listed.fictionSlug
   const named = `${STORY_PAGE_TYPE}/${slug}`
   if (listedAt(root, STORY_PAGE_TYPE, slug).length > 0) {
     throw new Error(`${named} is already a page stating no royal road id, so none is made`)
   }
-  const url = royalRoadUrl(`/fiction/${followed.fictionId}/${slug}`)
+  const url = royalRoadUrl(`/fiction/${listed.fictionId}/${slug}`)
   const { meta } = parseFictionPage(await fetchHtml(url))
   await betweenRequests()
   const world = `${WORLD_PAGE_TYPE}/${slug}`
-  const values = storyValues(followed, meta, world)
+  const values = storyValues(listed, meta, world, lists)
   const changes: Put[] = []
   if (listedAt(root, WORLD_PAGE_TYPE, slug).length === 0) {
     const made = composedFor(root, {
@@ -197,6 +208,6 @@ export async function storyCreated(root: string, followed: Followed): Promise<Cr
   changes.push(put(made.put.path, made.put.content))
   for (const part of made.parts) changes.push(put(part.path, part.content))
   const status = keptStatus(meta.status)
-  const story = { slug, externalId: followed.fictionId, world, status, tags: meta.tags }
-  return { named, changes, story: { ...story, following: true } }
+  const story = { slug, externalId: listed.fictionId, world, status, tags: meta.tags }
+  return { named, changes, story: { ...story, ...lists } }
 }

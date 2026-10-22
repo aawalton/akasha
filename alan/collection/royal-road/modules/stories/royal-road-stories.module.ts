@@ -38,6 +38,14 @@ export const royalRoadStories = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A story states read later exactly where its fiction is on the read later list.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A read later list that went unread leaves read later as each story states it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A story's status is restated only where royal road says ongoing or completed or hiatus.",
     },
@@ -55,7 +63,7 @@ export const royalRoadStories = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A story made here states it is following.",
+      statement: "A story made here states whether it is following and whether it is read later.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -71,5 +79,5 @@ export const royalRoadStories = {
     },
   ],
   createdAt: "2026-09-28T19:46:59.746Z",
-  updatedAt: "2026-09-28T19:48:45.000Z",
+  updatedAt: "2026-10-22T15:10:11.063Z",
 } as const satisfies Module

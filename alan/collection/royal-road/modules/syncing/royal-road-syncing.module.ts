@@ -97,6 +97,34 @@ export const royalRoadSyncing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every story but one only on the read later list is synced first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A story only on the read later list is synced after, in the order that list gives.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Those stories stop being synced forty-five minutes after the run began.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The next run carries on from there, since a chapter held is fetched no second time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A fiction only on the read later list has a story made on the run that reaches it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A read later list that went unread fails the run and syncs nothing from that list.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The pages composed are shown rather than landed unless the run was asked to commit those pages.",
     },
@@ -150,5 +178,5 @@ export const royalRoadSyncing = {
     },
   ],
   createdAt: "2026-09-03T17:56:43.735Z",
-  updatedAt: "2026-09-28T19:48:45.000Z",
+  updatedAt: "2026-10-22T15:10:11.063Z",
 } as const satisfies Module

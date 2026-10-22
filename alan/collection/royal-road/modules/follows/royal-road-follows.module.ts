@@ -4,7 +4,7 @@ export const royalRoadFollows = {
   id: "01a0e986-f314-7174-aae1-bf1aabba3853",
   type: "page-type/module",
   slug: "royal-road-follows",
-  definition: "the fictions Alan follows on Royal Road and the last chapter he read in each",
+  definition: "the fictions on Alan's Royal Road lists and the last chapter he read in each",
   code: "ts",
   test: "ts",
   decisions: [
@@ -41,7 +41,15 @@ export const royalRoadFollows = {
       decisionKind: "decision-kind/departure",
       statement: "An empty follow list refuses the run.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The read later list is read the way the follow list is, every page of it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The read later list names no chapter last read.",
+    },
   ],
   createdAt: "2026-09-28T19:38:50.516Z",
-  updatedAt: "2026-09-28T19:38:58.000Z",
+  updatedAt: "2026-10-22T15:10:11.063Z",
 } as const satisfies Module

@@ -51,6 +51,11 @@ test("a fiction is read off its title link by id and slug", () => {
   ])
 })
 
+test("a title link with other attributes before its address is read all the same", () => {
+  const item = APART.replace('<a href="/fiction/62881', '<a rel="noreferrer" href="/fiction/62881')
+  expect(parseFollowPage(listed(item))?.followed[0]?.fictionId).toBe("62881")
+})
+
 test("the last chapter read is read apart from the last chapter posted", () => {
   expect(parseFollowPage(listed(APART))?.followed[0]?.lastReadChapterId).toBe("4014049")
 })

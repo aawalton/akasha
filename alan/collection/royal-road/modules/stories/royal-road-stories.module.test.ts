@@ -16,40 +16,60 @@ const STORY: Story = {
   status: "ongoing",
   tags: ["LitRPG"],
   following: true,
+  readLater: false,
 }
 
 test("a story royal road says nothing new of is not restated", () => {
-  expect(restatementFor(STORY, "ONGOING", ["LitRPG"], true)).toBeNull()
+  expect(restatementFor(STORY, "ONGOING", ["LitRPG"], true, false)).toBeNull()
 })
 
 test("a story followed that stated no following is restated as following", () => {
-  expect(restatementFor({ ...STORY, following: false }, "ONGOING", ["LitRPG"], true)).toEqual({
+  const story = { ...STORY, following: false }
+  expect(restatementFor(story, "ONGOING", ["LitRPG"], true, false)).toEqual({
     following: true,
   })
 })
 
 test("a story no longer on the follow list is restated as not following", () => {
-  expect(restatementFor(STORY, "ONGOING", ["LitRPG"], false)).toEqual({ following: false })
+  expect(restatementFor(STORY, "ONGOING", ["LitRPG"], false, false)).toEqual({
+    following: false,
+  })
 })
 
 test("following is restated beside a status that changed", () => {
-  expect(restatementFor(STORY, "COMPLETED", ["LitRPG"], false)).toEqual({
+  expect(restatementFor(STORY, "COMPLETED", ["LitRPG"], false, false)).toEqual({
     following: false,
     publicationStatus: "completed",
   })
 })
 
 test("a status royal road says that no story states is not restated", () => {
-  expect(restatementFor(STORY, "STUBBED", ["LitRPG"], true)).toBeNull()
+  expect(restatementFor(STORY, "STUBBED", ["LitRPG"], true, false)).toBeNull()
 })
 
 test("tags royal road gives in a new order are restated", () => {
-  expect(restatementFor(STORY, "ONGOING", ["Magic", "LitRPG"], true)).toEqual({
+  expect(restatementFor(STORY, "ONGOING", ["Magic", "LitRPG"], true, false)).toEqual({
     externalTags: ["Magic", "LitRPG"],
   })
 })
 
+test("a story put on the read later list is restated as read later", () => {
+  expect(restatementFor(STORY, "ONGOING", ["LitRPG"], true, true)).toEqual({ readLater: true })
+})
+
+test("a story taken off the read later list is restated as not read later", () => {
+  const story = { ...STORY, readLater: true }
+  expect(restatementFor(story, "ONGOING", ["LitRPG"], true, false)).toEqual({ readLater: false })
+})
+
+test("a read later list that went unread restates no read later", () => {
+  const story = { ...STORY, readLater: true }
+  expect(restatementFor(story, "ONGOING", ["LitRPG"], true, null)).toBeNull()
+})
+
 const FOLLOWED = { fictionId: "57861", fictionSlug: "the-bookstore", lastReadChapterId: null }
+
+const FOLLOWING_ONLY = { following: true, readLater: false }
 
 const BOOKSTORE = `${world.slug}/${theBookstore.slug}`
 
@@ -62,7 +82,7 @@ const META = {
 }
 
 test("a story made states its fiction's id, link, title, author, tags and status", () => {
-  expect(storyValues(FOLLOWED, META, BOOKSTORE)).toEqual({
+  expect(storyValues(FOLLOWED, META, BOOKSTORE, FOLLOWING_ONLY)).toEqual({
     title: "The Bookstore",
     world: BOOKSTORE,
     externalIdentity: [
@@ -83,7 +103,12 @@ test("a story made states its fiction's id, link, title, author, tags and status
 
 test("a story made from a fiction saying little states only what it says", () => {
   const bare = { title: null, author: null, status: "STUBBED", description: null, tags: [] }
-  const values = storyValues(FOLLOWED, bare, BOOKSTORE)
+  const values = storyValues(FOLLOWED, bare, BOOKSTORE, FOLLOWING_ONLY)
   expect(values["title"]).toBe("the-bookstore")
   expect(Object.keys(values)).toEqual(["title", "world", "externalIdentity", "following", "unit"])
+})
+
+test("a story made off the read later list alone states read later and not following", () => {
+  const values = storyValues(FOLLOWED, META, BOOKSTORE, { following: false, readLater: true })
+  expect([values["following"], values["readLater"]]).toEqual([false, true])
 })

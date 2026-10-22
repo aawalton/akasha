@@ -3,8 +3,9 @@ import {
   recordingRun,
 } from "akasha/alan/collection/modules/sync-run-recording/sync-run-recording.module.code.ts"
 import {
-  type Followed,
+  type Listed,
   readFollows,
+  readReadLater,
   signedIn,
 } from "akasha/alan/collection/royal-road/modules/follows/royal-road-follows.module.code.ts"
 import {
@@ -64,6 +65,7 @@ const PROGRESS = "ownProgress"
 const POSITION_DIGITS = 4
 const BATCH_CEILING = 50
 const COMMIT = "--commit"
+const FILLING_ENDS_MS = 45 * 60 * 1000
 
 type Put = Extract<Asking, { at: typeof PUT | typeof RESTATE | typeof REMOVE }>
 
@@ -164,15 +166,18 @@ interface Counts {
   unworlded: number
 }
 
-async function syncStory(
-  story: Story,
-  follows: ReadonlyMap<string, Followed>,
-  held: Held,
-  taken: Set<string>,
-  counts: Counts,
-  budget: { left: number },
-  filing: Filed[]
-): Promise<void> {
+interface Run {
+  readonly follows: ReadonlyMap<string, Listed>
+  readonly readLater: ReadonlyMap<string, Listed> | null
+  readonly held: Held
+  readonly taken: Set<string>
+  readonly counts: Counts
+  readonly budget: { left: number }
+  readonly filing: Filed[]
+}
+
+async function syncStory(story: Story, run: Run, until: number | null): Promise<void> {
+  const { follows, readLater, held, taken, counts, budget, filing } = run
   const fictionUrl = royalRoadUrl(`/fiction/${story.externalId}/${story.slug}`)
   const fiction = parseFictionPage(await fetchHtml(fictionUrl))
   await betweenRequests()
@@ -189,7 +194,7 @@ async function syncStory(
   )
 
   for (const chapter of pending) {
-    if (budget.left <= 0) {
+    if (budget.left <= 0 || (until !== null && Date.now() >= until)) {
       counts.skipped += 1
       continue
     }
@@ -222,7 +227,8 @@ async function syncStory(
     story,
     fiction.meta.status,
     fiction.meta.tags,
-    follows.has(story.externalId)
+    follows.has(story.externalId),
+    readLater === null ? null : readLater.has(story.externalId)
   )
   if (wanted === null) return
   if (story.world === null) {
@@ -257,16 +263,62 @@ export async function landInBatches(filing: readonly Filed[], counts: Counts): P
   }
 }
 
+function byFiction(listed: readonly Listed[]): ReadonlyMap<string, Listed> {
+  return new Map(listed.map((one) => [one.fictionId, one]))
+}
+
+async function readLaterOrNone(
+  cookie: string,
+  counts: Counts
+): Promise<ReadonlyMap<string, Listed> | null> {
+  try {
+    const listed = byFiction(await readReadLater(cookie))
+    console.log(`royal road read later list: ${listed.size} fiction(s)`)
+    return listed
+  } catch (error) {
+    console.log(
+      `royal road read later list went unread, so nothing fills the run: ${String(error)}`
+    )
+    counts.failed += 1
+    return null
+  }
+}
+
+async function madeFor(listed: Listed, run: Run): Promise<Story | null> {
+  try {
+    const made = await storyCreated(ROOT, listed, {
+      following: run.follows.has(listed.fictionId),
+      readLater: run.readLater?.has(listed.fictionId) === true,
+    })
+    run.filing.push(made)
+    console.log(`  + ${made.named}`)
+    return made.story
+  } catch (error) {
+    console.log(`  ${listed.fictionSlug}: no story made — ${String(error)}`)
+    run.counts.failed += 1
+    return null
+  }
+}
+
+async function syncedOrSaid(story: Story, run: Run, until: number | null): Promise<void> {
+  try {
+    await syncStory(story, run, until)
+  } catch (error) {
+    console.log(`  ${story.slug}: failed — ${String(error)}`)
+    run.counts.failed += 1
+  }
+}
+
 async function syncRoyalRoad(argv: readonly string[]): Promise<RunCounts> {
+  const until = Date.now() + FILLING_ENDS_MS
   const only = argv.includes("--story") ? argv[argv.indexOf("--story") + 1] : undefined
   const limitRaw = argv.includes("--limit") ? argv[argv.indexOf("--limit") + 1] : undefined
   const budget = { left: limitRaw === undefined ? Number.MAX_SAFE_INTEGER : Number(limitRaw) }
 
   const stories = readStories(ROOT, only)
   const held = heldChapters(ROOT)
-  const follows = new Map(
-    (await readFollows(await signedIn(ROOT))).map((one) => [one.fictionId, one])
-  )
+  const cookie = await signedIn(ROOT)
+  const follows = byFiction(await readFollows(cookie))
   console.log(`royal road follow list: ${follows.size} fiction(s)`)
   console.log(`royal road sync: ${stories.length} stor${stories.length === 1 ? "y" : "ies"}`)
   const counts: Counts = {
@@ -284,30 +336,36 @@ async function syncRoyalRoad(argv: readonly string[]): Promise<RunCounts> {
     changes: [{ at: REMOVE, given: { at } }],
   }))
   if (filing.length > 0) console.log(`  ${filing.length} second copies of a chapter to take away`)
+  const readLater = await readLaterOrNone(cookie, counts)
+  const run: Run = { follows, readLater, held, taken, counts, budget, filing }
 
   const known = new Set(stories.map((one) => one.externalId))
   const created: Story[] = []
   for (const one of only === undefined ? follows.values() : []) {
     if (known.has(one.fictionId)) continue
-    try {
-      const made = await storyCreated(ROOT, one)
-      filing.push(made)
-      created.push(made.story)
-      console.log(`  + ${made.named}`)
-    } catch (error) {
-      console.log(`  ${one.fictionSlug}: no story made — ${String(error)}`)
-      counts.failed += 1
-    }
+    const made = await madeFor(one, run)
+    if (made !== null) created.push(made)
   }
 
-  for (const story of [...stories, ...created]) {
-    try {
-      await syncStory(story, follows, held, taken, counts, budget, filing)
-    } catch (error) {
-      console.log(`  ${story.slug}: failed — ${String(error)}`)
-      counts.failed += 1
-    }
+  const filling = (story: Story): boolean =>
+    !follows.has(story.externalId) && readLater?.has(story.externalId) === true
+  for (const story of [...stories.filter((one) => !filling(one)), ...created]) {
+    await syncedOrSaid(story, run, null)
   }
+
+  for (const story of stories.filter(filling)) {
+    if (Date.now() >= until) break
+    await syncedOrSaid(story, run, until)
+  }
+  for (const one of only === undefined && readLater !== null ? readLater.values() : []) {
+    if (Date.now() >= until) break
+    if (known.has(one.fictionId) || follows.has(one.fictionId)) continue
+    const made = await madeFor(one, run)
+    if (made === null) continue
+    created.push(made)
+    await syncedOrSaid(made, run, until)
+  }
+  if (Date.now() >= until) console.log("  the read later list stopped where the run's hour ran out")
 
   if (filing.length === 0) {
     console.log("nothing to land")

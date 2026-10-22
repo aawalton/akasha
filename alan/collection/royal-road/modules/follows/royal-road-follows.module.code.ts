@@ -16,31 +16,32 @@ const EMAIL = "email"
 const PASSWORD = "password"
 const SIGN_IN = "/account/login"
 const FOLLOWS = "/my/follows"
+const READ_LATER = "/my/readlater"
 const SIGNED_IN = ".AspNetCore.Identity.Application"
 const FORM = 'class="form-login-details"'
 const TOKEN = /name="__RequestVerificationToken" type="hidden" value="([^"]+)"/
 const ITEM = '<div class="fiction-list-item row">'
-const FICTION = /<h2 class="fiction-title">\s*<a href="\/fiction\/(\d+)\/([^"/]+)"/
+const FICTION = /<h2 class="fiction-title">\s*<a [^>]*href="\/fiction\/(\d+)\/([^"/]+)"/
 const LAST_READ = /Last\s+Read:\s*<a[^>]*href="\/fiction\/\d+\/[^"/]+\/chapter\/(\d+)\//i
 const PAGE_NUMBER = /data-page='(\d+)'/g
 const LIST = 'id="result"'
 
 class SignInRefused extends Error {}
 
-export interface Followed {
+export interface Listed {
   readonly fictionId: string
   readonly fictionSlug: string
   readonly lastReadChapterId: string | null
 }
 
 interface FollowPage {
-  readonly followed: readonly Followed[]
+  readonly followed: readonly Listed[]
   readonly pages: number
 }
 
 export function parseFollowPage(html: string): FollowPage | null {
   if (!html.includes(LIST)) return null
-  const followed: Followed[] = []
+  const followed: Listed[] = []
   for (const item of html.split(ITEM).slice(1)) {
     const fiction = FICTION.exec(item)
     if (fiction?.[1] === undefined || fiction[2] === undefined) continue
@@ -121,22 +122,30 @@ export async function signedIn(root: string): Promise<string> {
   return cookieOf(jar)
 }
 
-export async function readFollows(cookie: string): Promise<readonly Followed[]> {
-  const followed: Followed[] = []
+async function readList(cookie: string, path: string, named: string): Promise<readonly Listed[]> {
+  const listed: Listed[] = []
   let pages = 1
   for (let page = 1; page <= pages; page += 1) {
     await betweenRequests()
-    const url = royalRoadUrl(`${FOLLOWS}?page=${page}`)
+    const url = royalRoadUrl(`${path}?page=${page}`)
     const read = parseFollowPage(await fetchHtml(url, cookie))
-    if (read === null) throw new SignInRefused(`${url} answered with no follow list`)
-    followed.push(...read.followed)
+    if (read === null) throw new SignInRefused(`${url} answered with no ${named}`)
+    listed.push(...read.followed)
     pages = read.pages
   }
-  if (followed.length === 0) {
+  if (listed.length === 0) {
     throw new SignInRefused(
-      `the follow list answered with no fiction. An empty answer is a broken read rather than ` +
-        `an empty list, and syncing on it would unfollow every story.`
+      `the ${named} answered with no fiction. An empty answer is a broken read rather than ` +
+        `an empty list, and syncing on it would take every story off that list.`
     )
   }
-  return followed
+  return listed
+}
+
+export function readFollows(cookie: string): Promise<readonly Listed[]> {
+  return readList(cookie, FOLLOWS, "follow list")
+}
+
+export function readReadLater(cookie: string): Promise<readonly Listed[]> {
+  return readList(cookie, READ_LATER, "read later list")
 }
