@@ -1,0 +1,473 @@
+Max stood in the castle courtyard, neck craned back to stare up at the renovated Mage Tower.
+
+The thing stretched into the night sky like someone had decided the horizon needed correcting—all black stone and angular brutality, with windows that glowed a soft amber against the darkness.
+
+Two more towers were under construction on the far edges of Frosthold's walls. The scaffolding looked like skeletal fingers clawing at the stars, and the half-built structures had that optimistic desperation of people who knew they were racing against time.
+
+The towers were meant to protect the north from the Shards.
+
+Those things...
+
+Max still couldn't wrap his head around that. The Shards hadn't existed in Sabo's novels—seven fragments of Lich that had emerged after the books ended. Two days ago, the latest reports had been grim. A whole village, wiped out in a single night. Every man, woman, and child. Then they'd all gotten back up and started walking north, toward the edge of the world.
+
+The barbarian tribes had intercepted them about fifteen miles from here. But even victory against walking corpses was a relative concept.
+
+This wasn't the clean, heroic fantasy Sabo had written.
+
+The Proving Year now loomed roughly thirteen days away, and Max was here because his current magic wouldn't cut it.
+
+A palm-sized flame was personally satisfying but wouldn't keep him breathing if something with teeth and murderous intent decided he looked like dinner. Or if a pack of walking corpses decided to shamble in his direction. The thought made his stomach clench.
+
+He'd considered branching out into other magical spells—ice magic for slowing enemies, earth magic for defensive barriers, maybe even lightning if he could figure out the principles. But starting from scratch with an entirely new element would probably take weeks, months, maybe years to reach any kind of combat effectiveness. He'd already invested countless hours mastering fire, understanding its behavior, building the mental frameworks that let him cast flame spells reliably.
+
+So fire was the logical progression.
+
+He could conjure a flame reliably, shape it with precision, maintain it for extended periods. The Thoughtshape had crystallized through repetition until casting flame required barely more effort than snapping his fingers. Building on that foundation made infinitely more sense than abandoning all that progress to fumble around with unfamiliar elements.
+
+What he needed, now, was a fireball.
+
+Contained combustion, directed force, enough thermal output to discourage whatever predators called the deeper north home—or to put down threats that didn't stay down when you killed them the first time. Nothing fancy. He'd read about advanced mages who crafted elaborate constructs, flames shaped like hunting beasts or mythical creatures that pursued targets with apparent intelligence. Impressive, certainly, but far beyond his current capabilities.
+
+The problem wasn't even energy or complexity in the abstract sense.
+
+Yes, Max could create flame easily enough. But the moment that fire left his immediate control, it followed the laws of physics with ruthless consistency.
+
+Fire wanted to spread. To consume. It wanted to flow upward, outward, toward anything that would burn.
+
+Creating a larger flame meant creating something with more surface area, more heat, more aggressive behavior. And unless every single one of those natural tendencies was explicitly countered in the Thoughtshape, the spell would do exactly what fire was supposed to do—including burning the caster.
+
+Max unconsciously rubbed his left forearm, where the skin still remembered his most ambitious attempt two weeks ago. He'd managed to create a fist-sized ball of flame and launch it toward a practice target. For about three seconds, it had been glorious—a proper fireball, contained and directed, exactly what he'd envisioned.
+
+Then the containment parameters had failed.
+
+The fire had expanded instantly, following thermal dynamics and available oxygen, blooming into a cloud of superheated gas that engulfed everything within ten feet.
+
+Including Max.
+
+He'd died choking on his own burned lungs, the last thing he remembered being the acrid smell of his hair catching fire and the count of his rerolls going down to nine.
+
+The loop had reset, of course. But the memory remained sharp enough to make him considerably more cautious about playing with uncontrolled combustion. That death had been particularly unpleasant—not the quick demise of a blade through the heart, but the slow agony of breathing superheated air while his skin blistered and charred.
+
+He owed Bro an apology for that one.
+
+The spider had been perched on his shoulder when the fireball went wrong, probably died even faster than Max had. After the reset, Max had given him extra strips of dried meat—the good cuts from the castle kitchens that Bro seemed to prefer over the flies and insects he usually hunted. The spider had accepted the offering with what Max chose to interpret as forgiveness, settling into his usual spot against Max's neck with apparent contentment.
+
+The Thoughtshape for a safe, controllable fireball wasn't just longer than his palm flame—it was much more complex. And then there were the conditional statements. If temperature exceeds X, then Y. If containment pressure drops below Z, then emergency dissipation. If proximity to caster is less than A, then safety protocols B and C.
+
+The Thoughtshape became a maze of nested instructions, each one critical, each one requiring perfect execution. Miss a single parameter, and the spell would follow the path of least resistance—which usually meant doing something enthusiastically destructive in directions you hadn't planned for.
+
+He'd tried simplifying it, breaking the spell down into smaller components. But fire didn't care about his convenience. The natural behavior of combustion remained stubbornly consistent whether he was prepared for it or not.
+
+Hell, even if he had managed to solve all the technical problems with fireball magic, he was still looking at months of development time. First, he'd need to get the Thoughtshape working reliably. Then came the real work: refinement, simplification, practice until the spell became as automatic as breathing.
+
+Max had a strict standard for spell mastery.
+
+If he couldn't cast it in under three seconds, he didn't consider it learned. Three seconds was fast enough for combat, quick enough to be useful when surprise mattered, reliable enough to stake his life on. His flame spell had taken three months of daily practice to reach that threshold. Three seconds was still a lot in a battle—enough time for an enemy to close distance, enough time for something already dead to grab you—but it was, he thought, the minimum required for survival.
+
+He had thirteen days.
+
+The reports from that massacred village kept echoing in his head. An entire settlement, gone in a single night.
+
+That was what he might face during the Proving Year. Not just wolves or bandits or the cold. Something that could kill entire communities and turn them into walking nightmares. A palm-sized flame wouldn't do shit against that.
+
+Winter was coming.
+
+According to Gregory, more than half the participants failed during those first four months. Not from wolves or bandits or hermits who'd rather kill than talk. From the cold itself. From exposure, frostbite, starvation when game became scarce and every calorie burned just staying warm. The winter claimed more would-be knights than all other dangers combined.
+
+After those four months came spring—which in the deep north meant slightly less snow and marginally fewer chances of dying in your sleep from cold. Then summer, which was the only season without snow at all, though as cold as autumn in more civilized lands. Then fall, which was basically winter's dress rehearsal.
+
+If you survived the full year, you'd supposedly be on your way back to Frosthold by the next winter, token in hand, having proven whatever the hell it was the Proving Year was meant to prove.
+
+So exciting.
+
+Max sighed, his breath misting in the cold air. No snow tonight, but the temperature had dropped enough to make his teeth chatter.
+
+"You comfortable up there?" he asked.
+
+Bro shifted from his shoulder to the warm space against Max's neck, tiny legs tickling against his skin. The movement made Max snort out a quiet laugh despite everything.
+
+"Right. Stupid question. You've probably got the best heating system in the kingdom."
+
+He walked toward the tower's entrance, boots echoing against the courtyard stones. The massive wooden door looked like it could stop a siege engine, which was probably the point. These days, every door might need to be that strong.
+
+Tonight, he was hoping the mages inside might have some insight into advanced Thoughtshape construction that didn't involve accidentally immolating himself.
+
+The tower door was heavier than it looked. Max had to lean his full weight against it, the hinges groaning like they were personally offended by his presence. The sound echoed through the entrance hall—a cavernous space that seemed designed to make visitors feel appropriately insignificant.
+
+Two guards stood near a brazier that cast dancing shadows across the stone walls. They looked up as Max entered, their expressions shifting from bored alertness to something approaching panic.
+
+"Lord Vanheim," the taller one said, straightening. "My lord. It's... quite late."
+
+"Is it?" Max glanced around the empty hall. "I hadn't noticed."
+
+The second guard—shorter, stockier, with the kind of mustache that clearly took a lot of grooming—cleared his throat. "My lord, if I may ask... what brings you here at this hour?"
+
+"Reading," Max said simply. "I came to read. Is that a problem?"
+
+The guards exchanged a look. It was one of those meaningful glances that people shared when they knew something you didn't, and weren't sure whether they should tell you. Max found it mildly irritating.
+
+"Well?" he prompted.
+
+The tall guard opened his mouth, then closed it. Opened it again. "It's just... my lord, the Archmage gave specific instructions. No visitors tonight."
+
+"Why?"
+
+"We..." The guard's adam's apple bobbed. "We weren't told why, my lord."
+
+Max raised an eyebrow. "I see. And you think this applies to me?"
+
+"I'm not sure, my lord. The Archmage said no one was to—"
+
+"No one," the stocky guard interrupted, his voice gaining confidence. "Those were his exact words. No exceptions."
+
+The tall guard turned to stare at his companion, eyes widening. "Willem."
+
+"What? It's what he said."
+
+"He's the High Lord's son."
+
+"I know who he is. But orders are—"
+
+"Don't be a fool." The tall guard's voice dropped to an urgent whisper that still carried clearly in the echoing hall. "You can't just tell Lord Vanheim he can't enter the tower."
+
+Max watched this exchange with growing amusement. The two men were now facing each other rather than him, their argument gaining heat.
+
+"The Archmage was very clear," Willem insisted. "No visitors. Period."
+
+"Use your head, man. Do you want to explain to the high lord Tredor why you barred his son from the tower?"
+
+"Do you want to explain to the Archmage why you ignored his direct orders?"
+
+Max cleared his throat. Both guards snapped back to attention, looking mortified.
+
+"Are you two finished?" he asked pleasantly.
+
+"My lord," the tall guard began, "we're terribly sorry for—"
+
+"I'm going to read," Max said, cutting him off. "The Proving Year starts in thirteen days. I need to look at a few spell books, see if I can figure out some techniques." He paused. "Are there any mages up there right now?"
+
+The guards exchanged another look.
+
+"No, my lord," the tall guard said carefully. "Everyone's gone for the evening."
+
+Max frowned. "Then why would the Archmage say no visitors? If no one's here?"
+
+"We..." The guard's adam's apple bobbed. "We weren't told why, my lord."
+
+"I see," Max paused, looking between their anxious faces. "Now, are you going to try to stop me?"
+
+The silence stretched.
+
+Max could hear the fire crackling in the brazier, the distant sound of wind through stone.
+
+"My lord," Willem said carefully, "the Archmage's instructions were quite specific..."
+
+"Willem," his companion hissed.
+
+"I'm just saying what we were told."
+
+Max rolled his eyes. "Right. Well, this has been fascinating, but I have books to read."
+
+He started toward the spiral staircase that wound up into the tower's heights. Behind him, he heard urgent whispering.
+
+"—can't just let him—"
+
+"—what choice do we have—"
+
+"—the Archmage will have our heads—"
+
+"—rather face the Archmage than the High Lord—"
+
+Max began climbing.
+
+The stone steps were worn smooth by countless feet over the years, and his boots made soft scraping sounds that echoed in the narrow stairwell. Bro settled more comfortably against his neck, apparently unbothered by the change in angle.
+
+The guards' voices faded below, still arguing in increasingly desperate whispers about whose wrath they'd rather face. Max couldn't quite make out the words anymore, but the tone suggested they were both losing the argument.
+
+He climbed steadily upward, following the curve of the wall. Occasionally he passed narrow windows that offered glimpses of the moonlit courtyard far below. The library was somewhere above—he'd been there before, though not often enough to remember exactly which floor.
+
+The mystery of why the Archmage wanted no visitors tonight nagged at him, but not enough to turn back. Whatever Kellor was doing, it probably didn't involve the basic spell theory books Max needed. And if it did...
+
+Well, he'd deal with that when he found it.
+
+After what felt like roughly seven hundred steps, he finally reached a landing with a relevant door. A brass plaque mounted beside the doorframe read "First Library" in elegant script.
+
+The heavy oak barrier stood slightly ajar, warm light spilling through the gap.
+
+Max pushed it open and stepped into the library.
+
+"Oh."
+
+The word escaped before he could stop them. The space was enormous—a circular chamber that took up the entire floor of the tower, with a domed ceiling that disappeared into shadows high above. Shelves lined the walls from floor to impossibly high ceiling, packed with books, scrolls, loose parchments, and what looked like actual grimoires bound in leather that had seen better decades.
+
+The scale was staggering.
+
+Max had never seen so many books in one place, and this was apparently just the first library. How many more floors of books were stacked above him?
+
+Torches lined the walls in iron sconces, their flames casting dancing shadows across the shelves. A few oil lamps sat on reading tables scattered throughout the space, providing additional pools of warm light. The smell of parchment, leather bindings, and lamp oil created an atmosphere that was somehow both scholarly and slightly smoky.
+
+The good news was that he might find what he was looking for here in some sort of lucky encounter.
+
+The bad news was that nobody was here to help him navigate this bibliographic maze. Even Kellor would have been welcome at this point—Max could have just told him about finally feeling the Source and asked for guidance.
+
+Time was too short for pride.
+
+The organization system was... ambitious. Some sections were clearly labeled with brass plaques—"Historical Chronicles," "Agricultural Techniques," "Theoretical alchemy"—while others appeared to follow a system known only to whatever librarian had been responsible for them. One shelf seemed to be organized by color. Another by size. A third appeared to be sorted alphabetically, but only for books whose authors' names started with letters from M to R.
+
+Max started with the most obvious approach: looking for anything labeled "Fire Magic" or "Combat Spells" or "How Not to Accidentally Immolate Yourself While Casting."
+
+The fire-related materials were scattered across three different sections. He found basic flame spells mixed in with brewing techniques, advanced pyromancy tucked between agricultural manuals, and what looked like a treatise on magical metallurgy filed under "Miscellaneous Useful Things."
+
+After twenty minutes of searching, Max had accumulated a small pile of potentially useful texts. Scrolls wrapped in silk, leather-bound books with brass clasps, parchments covered in diagrams that looked like someone had tried to draw fire and gotten distracted halfway through.
+
+And one particularly impressive grimoire.
+
+The thing was massive—easily two inches thick and bound in black leather that had been worn smooth by countless hands. Gold lettering on the cover proclaimed it to be "Theoretical Foundations of Elemental Manipulation, with Practical Applications in Combat Magic, by Master Oberyn Blackwater of the Archivum of Evrador."
+
+Max hefted it. The book weighed about as much as a small anvil.
+
+"Bingo."
+
+He found a reading desk near one of the oil lamps and settled in, stacking his collection of fire-related materials within easy reach. The grimoire went in the center, its brass clasps gleaming in the lamplight.
+
+Max opened the first scroll—a relatively thin parchment that promised to explain "Simple Flame Creation for the Beginning Practitioner."
+
+The Thoughtshape– in the form of an incantation –was written in elegant script at the top of the page:
+
+"By ember's breath and heart's desire, let sacred flame in palm aspire. Through will made manifest and spirit bright, kindle now this holy light."
+
+"Bruh..."
+
+Below that was what Max assumed was supposed to be the Thoughtshape description:
+
+"The aspirant must envision the divine triangle of creation, wherein flame represents the marriage of earth and sky. Let thy mind become as still water reflecting heaven's fire, and speak the words with conviction born of righteousness. The flame shall answer those who approach with pure intent and steadfast will."
+
+Max stared at the scroll. "What the hell does that even mean?"
+
+The rest of the text was more of the same—flowery language about divine triangles and pure intent, with the occasional diagram that looked like someone had tried to draw a flame while having a philosophical crisis.
+
+This was exactly what Gerth had warned him about.
+
+The incantation was meaningless without understanding the mental framework behind it, and this particular mage apparently believed fire magic was some kind of religious experience involving divine triangles and righteous conviction.
+
+Max set the scroll aside and tried the next one.
+
+This author favored a more technical approach, but their version of "technical" involved references to "elemental matrices" and "thaumaturgic resonance frequencies" that made about as much sense as the mystical poetry.
+
+The third scroll was written in what appeared to be some kind of academic shorthand, complete with symbols Max didn't recognize.
+
+"Great. Just great."
+
+Max looked at his pile of texts, then at the massive grimoire sitting unopened beside them. Master Oberyn Blackwater's "Theoretical Foundations" was starting to look like his best hope for finding something actually useful.
+
+He cracked open the grimoire.
+
+The first page contained an introduction that was mercifully written in plain language:
+
+"The fundamental error of contemporary magical education lies in the assumption that students can successfully cast spells by merely memorizing incantations. This approach treats magic as if it were a collection of recipes.
+
+"Magic is not a recipe. The Thoughtshape is the grammar that gives meaning to the words. Without this structure, incantations are merely noise.
+
+"This text provides that grammar for elemental magic, with particular emphasis on practical combat applications. Each spell description includes not only the traditional incantation, but also a detailed explanation of the Thoughtshape that makes the incantation meaningful.
+
+"Students should note that these are my Thoughtshapes, developed through twenty-three years of study and experimentation. Other mages may achieve similar effects through entirely different mental frameworks. What matters is not the specific approach, but the precision and consistency of whatever approach you choose to adopt."
+
+Max felt his mood improve considerably. Finally, someone who actually explained things.
+
+He flipped through the pages, looking for fire magic.
+
+The grimoire was organized logically—basic principles first, then simple spells, building up to more complex applications. Each spell got several pages of explanation, starting with the incantation and then diving deep into the mental framework required to make it work.
+
+Max found what he was looking for in Chapter Four: "Elementary Pyromancy."
+
+The first spell was titled "Controlled Palm Flame," and reading it was like finding a technical manual after struggling through poetry.
+
+"Incantation: 'Let flame dance above my palm, contained and safe from harm.'
+
+"Thoughtshape Structure: This spell creates a small flame above the palm through controlled combustion of created vapors. The caster must simultaneously manage five distinct elements:
+
+"First, vapor generation approximately two inches above the palm. I recommend using the lighter combustible gases detailed in my companion work 'Properties of Gaseous Fuels and Their Optimal Applications.' These burn cleanly with minimal residue and produce stable flames. The heavier gases tend to create more soot and unpredictable combustion patterns.
+
+"Second, ignition source to begin combustion. A mental spark of sufficient heat to initiate the reaction.
+
+"Third, fuel management to control the rate of vapor generation and maintain steady flame size. Too much fuel creates uncontrolled fire; too little allows the flame to die.
+
+"Fourth, thermal protection to direct heat away from the caster's hand. I visualize cool air flowing beneath the flame, creating a barrier.
+
+"Fifth, containment to establish boundaries for the flame's size and behavior. I use the mental image of an invisible cylinder extending from my palm upward.
+
+"Common Failures: Inappropriate vapor generation causes flickering, insufficient thermal protection causes burns, unclear containment causes uncontrolled flame spread. Practice each element separately before attempting the complete spell."
+
+Max stared at the page, his eyebrows climbing toward his hairline. "Properties of Gaseous Fuels"? The clinical precision, the scientific terminology, the methodical approach to what should have been mystical knowledge—it all sounded uncomfortably familiar.
+
+This was starting to feel like something someone from Earth would write. Someone who understood combustion on a level that medieval mages definitely shouldn't.
+
+He flipped back to the author's introduction, reading it more carefully this time. Master Oberyn Blackwater of the Archivum of Evrador. The name meant nothing to him, but the writing style...
+
+Max settled deeper into his chair, the grimoire spread open before him. The oil lamp cast a warm circle of light around his reading area, but the rest of the library remained relatively shrouded in comfortable shadows. He'd positioned himself near one of the less well-lit sections, partly for the quiet and partly because the lamp oil seemed to burn cleaner here.
+
+Bro emerged from beneath his cloak, tiny legs picking their way across the fabric. The small white spider seemed curious about the books, or maybe just wanted a better view of their surroundings. Max absently extended a finger, letting Bro climb onto his hand.
+
+"What do you think?" he murmured, stroking the spider's back with one fingertip. "Think this Oberyn fellow might actually know what he's talking about?"
+
+Bro settled onto Max's knuckle, apparently content to observe the reading process.
+
+Max turned the page, scanning the next section of text.
+
+Each spell came with detailed explanations, potential failure modes, even troubleshooting guides for when things went wrong.
+
+He was halfway through a particularly interesting passage about thermal management when the library door creaked open.
+
+Max looked up, expecting to see one of the guards coming to check on him, or perhaps a mage who'd decided to ignore the Archmage's no-visitors order.
+
+Instead, a woman stepped into the library.
+
+Not that Max had anything against women. On the contrary.
+
+But this one was naked.
+
+Completely naked, walking like someone taking a morning stroll through a garden. She was humming something under her breath—a melody Max didn't recognize, though it had an oddly hypnotic quality.
+
+She was... attractive, certainly. Long dark hair, pale skin that seemed to glow in the torchlight, curves in all the expected places.
+
+Max wasn't sure if he should look away, announce his presence, or just sit very still and hope she didn't notice him in the shadows.
+
+Was she human? Some kind of magical creature? Had someone enchanted her? Was she completely insane?
+
+What the hell was—
+
+Their eyes met.
+
+The woman stopped humming. Her gaze locked onto Max's face like an arrow finding its target.
+
+Max's brain scrambled for something appropriate to say. Something that wouldn't make the situation worse. Something that would explain why he was sitting in a darkened library at midnight staring at a naked woman.
+
+But wait.
+
+She was the one who'd come here naked, and he was just minding his own business. Why should he feel guilty? He decided to start the conversation in the most reassuring and diplomatic way his sophisticated noble education had supposedly prepared him for.
+
+"Hey."
+
+The woman screamed.
+
+Not a startled yelp or a surprised gasp, but a full-throated, lung-emptying shriek that echoed off the domed ceiling and probably woke half the castle.
+
+Bro immediately turned bright red, his tiny body heating up as he prepared to breathe fire.
+
+"No, no, no," Max hissed, quickly cupping his hand around the spider. "Not now, Bro. Really not now."
+
+The woman was still screaming, backing toward the door with her hands raised defensively.
+
+"Wait," Max said, standing up and raising his own hands. "I'm not—I didn't—you came in here first—"
+
+"What's happening?"
+
+The voice came from the doorway, deep and irritated and unfortunately familiar.
+
+Max turned to see Archmage Kellor step into the library.
+
+Also naked.
+
+Also carrying a glowing sword.
+
+Behind him came four more women, equally naked, looking various degrees of concerned, confused, and annoyed at having their evening interrupted.
+
+"Ah," Max said quietly. "So that's why no one was supposed to be here."
+
+The silence that followed was the kind of profound quiet that usually preceded either violence or very awkward conversations.
+
+Kellor squinted into the shadows, trying to make out who was standing in the dim corner of his library. Max found himself looking anywhere but directly at the Archmage, particularly avoiding the rather unfortunate view of anatomy he'd rather not have encountered.
+
+"Harek?"
+
+"Haha..." Max managed. "In the flesh."
+
+The Archmage lowered his sword, his posture relaxing. He looked back at the women clustered behind him, then gestured with his free hand.
+
+"Go wait for me in my quarters," he said, giving the woman who'd screamed a casual slap on the rear as she passed. She jumped slightly but didn't protest. "No trouble here, love. I'll be back soon enough after I talk to the boy."
+
+The women exchanged glances, clearly startled by the unexpected interruption to their evening, but they filed out without argument. Their footsteps echoed in the stairwell as they made their way up to whatever floor housed the Archmage's private chambers.
+
+Kellor remained where he was, completely unbothered by his state of undress. He let out a hearty laugh that echoed off the library's domed ceiling.
+
+"Sera, Gina, Catelyn, and sweet little Lyanna," he said, counting them off on his fingers. "Brought them up from the capital myself. Best girls from the Golden Rose brothel in Valdris." He grinned at Max. "You should come by the capital sometime, lad. I'll take you there myself. Heard you've got quite the appetite for women too."
+
+Max stood there, somewhat dumbfounded by the casual nature of this conversation. He didn't particularly want to argue the point.
+
+"Well," he said carefully, "I am betrothed, so..."
+
+"Hah!" Kellor's laugh boomed through the library. "Marriage, boy! Political arrangements, nothing more. You're allowed to enjoy yourself—you're highborn, after all. The gods smile on those who take their pleasures where they find them, especially us mages. We're allowed things common men are not."
+
+Max remained silent, unsure how to respond to the Archmage's casual attitude.
+
+Kellor laughed again. "Oh, come now, boy. This is the world we live in. I myself am not unfamiliar with pleasure, and surely you haven't reformed so much that you'd judge an old man for indulging in what this world has best to offer?"
+
+He gestured broadly, as if the entire library represented life's available pleasures. "We're mages, lad. We take what we want, when we want it. The gods made us special for a reason."
+
+Kellor's expression shifted, becoming more curious. "But what were you doing here at this hour anyway? Reading by lamplight when you should be sleeping?"
+
+Max hesitated for a moment, then figured there was no point in pretending anymore. "Well..."
+
+He raised his palm and a small, steady flame bloomed above his hand, casting additional light across the grimoire's pages.
+
+Kellor's eyes brightened immediately, his whole posture changing. "You hid this from me, haven't you?"
+
+Max said nothing. There wasn't much point in lying now.
+
+Kellor laughed, but this time it carried a different tone—something between amusement and mild annoyance. "You little shit. Keeping secrets from your elders, are we?"
+
+The flame above Max's palm flickered slightly as he maintained it.
+
+"But this is good," Kellor continued, his irritation transforming into something that looked like pleasure. "This is very good indeed."
+
+He stepped closer, studying the flame. "Do you know, boy, that among men, only one in a three thousand or so is born a mage? That makes us special individuals. Chosen. You don't have to be ashamed to come to me about this. In fact, I have quite a lot of plans for you."
+
+Max let the flame die. "Speaking of plans, I was about to ask you about this."
+
+He gestured to Blackwater's grimoire, still open on the reading desk.
+
+Kellor glanced at the book, then waved dismissively. "You were reading this heretic's book?"
+
+"What's wrong with him?"
+
+"Oberyn Blackwater lived some hundred years ago. Brilliant at first, but he started to be defiant of everything we'd ever done. Said our knowledge was archaic, claimed he could do better." Kellor's voice carried disdain "Ended up getting himself killed while trying to create some new spell, not understanding what he was doing."
+
+The Archmage shook his head. "Even among mages, there are idiots. Don't look at that nonsense. Read the other books instead, I'll guide you through them personally."
+
+Max glanced at his pile of other texts.
+
+"These books?" he asked, pointing at the collection of glorified bullshit.
+
+"Yes, those are the best. If you have the proper context, of course. Not that overly complex book from a heretical fool."
+
+Max smiled.
+
+There it was—confirmation that he'd been absolutely right not to trust Kellor. They were not going to get along at all.
+
+"I'll come back at a better hour then," Max said, closing the grimoire and gathering his things. "Thank you, Archmage."
+
+"As a fellow mage," Kellor said, his chest puffing out slightly, "and as a highborn of House Vanheim, you may call me Ron. My name is Aron, but all those I consider friends call me Ron."
+
+Aron. Ron.
+
+Could that also be... Ronnie?
+
+Max's expression shifted, a frown crossing his face.
+
+Kellor noticed the change immediately. "What was that face you were making?"
+
+Max forced a smile, the expression feeling stiff and unnatural. "Oh no. Nothing."
+
+But internally, his mind was making connections. Ronnie. That had been the name of one of the burglars back on Earth.
+
+Was this some kind of pattern? A warning?
+
+No... no, of course not. Probably just bad luck.
+
+"Good night, Ron."
+
+"Good night, young Harek. Sleep well. Tomorrow we'll begin your proper education."
+
+Max nodded and headed for the door, Bro settling back into the warm space against his neck. Behind him, he could hear Kellor's footsteps heading toward the staircase, presumably to rejoin his evening's entertainment.
+
+Once he was alone in the stairwell, Max allowed himself a quiet sigh. The grimoire would have to wait, but at least now he knew where to find it.
