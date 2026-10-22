@@ -1,0 +1,125 @@
+I stood in the center of the chamber, encased in the bulky, utilitarian frame of a Mark III-E Engineer suit. My hands, magnified and stabilized by the armor’s servos, worked with microscopic precision on the device before me.
+
+It was ugly. A rough, skeletal cylinder of lead and chrome-vanadium steel, sprouting thick, armored conduits like the roots of a metallic tree. It lacked the elegance of my other creations, the smooth lines of the Wyverns, or the imposing grace of the MECHs. This was pure, brutal function. A cage built to hold a monster.
+
+Mirelle stood by the blast door, her hand resting nervously on the hilt of her katana. She was a warrior born of shadow and silence, fearless in the face of demons and dragons. But this… this silent, humming machine terrified her in a way no beast ever could.
+
+“My Lord,” she ventured, her voice tight. “Are you certain the containment fields will hold? The… readings… they are unlike anything I have ever seen.”
+
+“That’s because we’re not using magic, Mirelle,” I muttered, my focus entirely on the delicate alignment of the control rods. “We’re using physics. And physics doesn't bargain.”
+
+“Tes, initiate startup sequence. Phase One.”
+
+[Acknowledged. Retracting primary control rods. Initiating neutron source bombardment. Cooling pumps at 100%.]
+
+A low, vibrating hum began to fill the chamber, a sound that wasn't heard so much as felt in the teeth. Inside the core, atoms were being smashed apart, their fundamental bonds severed by a bombardment of subatomic particles. The temperature spiked.
+
+On my HUD, a graph began to climb, a jagged red line ascending a steep cliff.
+
+[Core temperature rising. 500 degrees… 1000 degrees… Criticality approaching.]
+
+The hum deepened into a growl. The lead shielding of the reactor began to vibrate. Inside the viewports, a flicker of Cherenkov radiation bloomed—a ghostly, impossible blue light that signaled the breaking of the light barrier within the water.
+
+Then, the instability hit.
+
+The graph on my display spasmed. The smooth climb turned into a chaotic, violent spike.
+
+[WARNING. REACTION INSTABILITY DETECTED. NEUTRON FLUX VARIANCE EXCEEDING 400%. CONTAINMENT FIELD INTEGRITY AT 85%.]
+
+“It’s surging!” Mirelle shouted, stepping back as the air in the room seemed to warp with heat.
+
+“Hold,” I commanded, my voice calm despite the adrenaline flooding my system. I didn't reach for a shutoff switch. I reached into the code. My hands flew across the holographic interface, manually adjusting the control rod depth by fractions of a millimeter, fighting the chaotic heart of the atom with cold, hard math. “Tes, modulate the magnetic constriction field. Counter-phase the resonance. Now!”
+
+[Modulating.]
+
+The hum rose to a scream, a sound of tearing metal and tortured physics. The blue light flared, blindingly bright, threatening to melt the very sensors recording it.
+
+And then, it snapped.
+
+As if a hand had been placed upon a spinning wheel, the chaos smoothed out. The scream dropped back to a hum. The jagged red line on my HUD leveled off into a steady, flat plateau.
+
+[Reaction stabilized. Core temperature nominal. Energy output steady at 500 megawatts.]
+
+I let out a breath I didn’t realize I’d been holding. The reactor sat there, humming contentedly, a tame star in a lead box.
+
+“It worked,” Mirelle breathed, lowering her hand from her eyes. “It’s… stable.”
+
+“It’s power,” I said, stripping off my helmet and wiping the sweat from my brow. “Raw, dirty, beautiful power.”
+
+But as I looked at the readouts, something was wrong. Or rather, something was too right.
+
+[Master,] Tes’s voice broke in, laced with a note of genuine digital confusion. [Detecting anomalous particle emissions. The radioactive decay chain is producing the expected alpha, beta, and gamma radiation. But there is a fourth signature.]
+
+I brought up the sensor feed. There it was. A stream of particles that shouldn't exist. They weren't interacting with the lead shielding. They were passing right through it, only to be caught by the magical dampening fields we had installed as a secondary precaution.
+
+I cross-referenced the signature with my database of this world’s physics. The frequency, the resonance… it was unmistakable.
+
+My heart skipped a beat.
+
+“Tes,” I whispered. “That’s not radiation.”
+
+[Correct. Spectral analysis confirms: The controlled fission reaction is generating high-density Mana particles as a byproduct of heavy isotope decay.]
+
+I stared at the reactor, my mind reeling. The scientists of my old world had spent decades hunting for dark matter, for exotic particles, for the unified theory of everything. They had theories about energy states that violated thermodynamics.
+
+They were right. They just didn't have the word for it.
+
+I hadn't just built a nuclear reactor. I had built a Mana Generator. I had bridged the gap between science and magic, finding the common root that connected the splitting of an atom to the casting of a spell.
+
+For a moment, the war, the deadline, the crushing weight of command—all of it vanished. I was just a scientist standing before a discovery that would rewrite the laws of two universes. A smile, pure and unburdened, spread across my face.
+
+“We didn't just build a battery, Mirelle,” I said softly, staring at the glowing blue heart of the machine. “We built a well.”
+
+. . .
+
+The euphoria of discovery is a potent drug, but reality is a persistent, throbbing hangover. I stood before the humming reactor, the blueprint for a new age glowing in my mind, a vision of a thousand flying fortresses blotting out the sun. I turned to Tes, my voice ringing with triumph.
+
+“Tes, run the numbers. Calculate the output efficiency compared to a standard-grade Dungeon Core. We’re going to scale this up. I want to replace every core in the fleet.”
+
+There was a pause. A hesitation in the data stream that I had never felt before.
+
+[Calculation complete. Efficiency rating: 8.9%.]
+
+My smile faltered. “Repeat?”
+
+[While the fission reaction generates Mana, the conversion rate is extremely inefficient compared to the dimensional siphoning of a Dungeon Core. A Dungeon Core is a singularity, a point of infinite density. This reactor is a machine. To match the stable, continuous output of a single, standard-grade Dungeon Core, you would require an array of eleven Mark-I Fission-Mana Reactors operating at maximum capacity.]
+
+The number hung in the air like a lead weight. Eleven.
+
+I looked at the reactor. It was a beast. Ten meters tall, weighing fifty tons, requiring a constant supply of refined heavy isotopes, complex cooling systems, and heavy lead shielding to prevent the crew from melting. To power a single Vindicator-class carrier, which ran on one compact Dungeon Core, I would need to cram eleven of these monsters into its hull. The weight alone would ground the ship.
+
+The dream of an infinite fleet of flying super-fortresses evaporated in an instant. Physics had given me a gift, but it had also slapped me with a constraint. Gravity was still the law.
+
+“We can’t do it,” I murmured, pacing the length of the catwalk, my mind racing through redesigns and discarding them just as fast. “We can’t build more Aegises. We can’t even build more flying Vindicators. The power-to-weight ratio is impossible. If we try to fly with these reactors, we’ll just be building very expensive falling rocks.”
+
+Mirelle, sensing the shift in my mood, stepped forward. Her hand rested on the railing, her eyes scanning the complex readouts she was only just beginning to understand. “My Lord? Is the machine… flawed?”
+
+“No,” I said, turning to face her, frustration warring with pragmatism. “It works perfectly. It’s just… heavy. And hungry. We can’t conquer the sky with this. Not yet.”
+
+I projected a holographic slate into the air, my hands moving quickly to wipe away the old paradigms. “We have to change the doctrine. We stop trying to build singular, invincible titans that rule the heavens. We build swarms that rule the seas.”
+
+I sketched a new shape. Leaner. Sharper.
+
+“The Crusader-class Light Carrier,” I announced, the specs flowing from my mind to the display. “Three hundred meters long. Strictly sea-based. Powered by three linked fission reactors. Fast, efficient, capable of deploying a single squadron of Wyverns and a battalion of automata. It’s a raider, a hunter.”
+
+I drew another, larger shape next to it, a floating fortress of steel. “The Sovereign-class Supercarrier. Five hundred meters. Sea-based. Powered by five reactors. It will be the fleet anchor, a mobile base that can launch Phantoms and sustain an entire invasion force. But it stays in the water. We leave the sky to the birds for now.”
+
+I added a final shape, sleek and deadly. “Nuclear Attack Submarines. Smaller, mass-producible versions of the Hydra. Powered by a single reactor. We can flood the Maelstrom with them.”
+
+I stepped back to look at the new fleet layout. It was massive. It was redundant. It was unstoppable. If we lost one ship, we had ten more. It was a strategy of industrial attrition, a way to drown the enemy in steel.
+
+“This,” I said, pointing to the glowing blue lines, “is how we win. We don’t need magic. We need mass production.”
+
+Mirelle looked at the map, her eyes scanning the sheer number of ships I was proposing. She walked over to the main strategic display of the Obsidian Dominion, her face grave. She pointed a slender finger at the single, tenuous line connecting the deep mines to the coastal shipyards.
+
+“My Lord,” she said gently, her voice cutting through my strategic reverie. “This is a magnificent vision. Truly. But look at our supply lines.”
+
+She highlighted the caravans, the slow-moving river barges, the overburdened skiffs struggling through the treacherous mountain passes.
+
+“We are currently extracting iron and cobalt at maximum capacity just to repair the damage to The Aegis and maintain our current ammunition stocks,” she explained, her tone apologetic but firm. “To build a single Sovereign-class hull requires more steel than we have mined in the last six months. To build this fleet… we would need to move mountains of ore. We simply do not have the capacity to transport it.”
+
+I stared at the map. The red lines of the supply routes were thin, fragile veins trying to feed a starving heart. She was right. I had unlocked the secret of infinite power, I had designed the ultimate fleet, only to be defeated by the simple, brutal reality of logistics. My supply chain was a straw, and I was trying to drink an ocean.
+
+The triumph of the reactor room felt distant now, replaced by the crushing weight of practicality. I didn't need warships. I didn't need more guns. I didn't need more reactors.
+
+I needed trucks. I needed a way to move the world.
