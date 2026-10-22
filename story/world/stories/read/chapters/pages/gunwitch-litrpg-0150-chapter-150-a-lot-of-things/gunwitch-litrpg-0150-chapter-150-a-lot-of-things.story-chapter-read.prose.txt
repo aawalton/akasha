@@ -1,0 +1,107 @@
+Could I offer both of his hands? Should I want to? Eventually I’d have 100% control and then that would be a waste of a slot. I could definitely see myself killing enough people to reach that 100%. Not because I was a killer, but because everyone and everything always seemed to want to kill me, forcing me to defend myself. Sometimes they wanted to kill Kasia instead of me, and obviously I would defend her as well. No one ever wanted to kill Vasil, so I wouldn’t have to defend him, but I would do it out of principle, not because I was some kind of homicidal power-hungry maniac.
+
+Or maybe it wouldn’t be a waste of a slot, because I’d reach 100% control faster and then I could always swap it out. Which might be a waste of a skill upgrade point, but maybe not. Maybe it would actually be super smart, because 100% control would make me a bona fide killing machine. Not that that was my goal, obviously. Or maybe it was. I resolved to try and see if I could use both of his hands.
+
+When I tried to offer the other hand to Ambelios, it wouldn’t let me. Unfortunate, but I wouldn’t hold it against him. I guess I had to come up with something else to offer. What did I have that he might accept?
+
+I had Irena’s staff, which probably had some added lightning damage. Not really something I was interested in at the moment, possibly ever.
+
+I had a bunch of amulets and rings I wasn’t using. Edge of the Alkonost was probably useless since I had wings. The Ring of Quickening could be good, since it made my spells move 20% faster and gave 8 Attunement. If It made my bullet unreasonably fast, they’d become unreasonably difficult to dodge. Would that really be getting the most bang for my buck, though? And that was assuming both enhancements carried over when offering it.
+
+The best stuff to offer was ultimately the stuff that I was wearing.
+
+I could offer my tunic or my pants. I was certain they would provide great benefits. I could always remake the Adder runeword, since I had the runes for it now. All I needed was a new tunic… but this tunic had built in protection, which was pretty great. I wasn’t sure if I was willing to sacrifice that yet, since I didn’t have any alternatives.
+
+The Flamegrip bracers had potential, the only problem was that it stole mana per hit. If I hit something that didn’t have mana I wouldn’t get any benefit. Pass.
+
+I’d probably get the most value out of offering my amulet or one of my rings. It might set me back a little bit until the stats caught up. It might need a lot of killing, but I had to think long-term.
+
+The Rumours ring could be good if the bounce effect went up to 100%. Every shot I fired would bounce to every hostile within 5 meters. What if the range expanded with every kill? Would be really good, actually.
+
+In my heart I knew the real decision was between Blessing of the Firemind and Russet Damage Conversion Ring. I decided to see what benefits I’d gain from offering them and run it by Vasil.
+
+“Vasil, I need your wisdom.”
+
+“You have it.”
+
+“Well first we got this:”
+
+Offering: [Jerzy Ruta, Kinetist - Hand]
+
+Offering: [Russet Damage Conversion Ring - Ring]
+
+Resulting Modifiers:
+
+You can now decide the percentage of enhanced damage you apply.Permanently gain +0.5% control over projectiles fired by you after every kill.Permanently gain +2 Attunement after every kill.Permanently gain restore +0.25% of maximum mana after every kill.Permanently gain +0.5% Fire Resistance after every kill.
+
+“And then we have:”
+
+Offering: [Jerzy Ruta, Kinetist - Hand]
+
+Offering: [Blessing of the Firemind - Amulet]
+
+Resulting Modifiers:
+
+You can now decide the percentage of enhanced damage you apply.Permanently gain +0.5% control over projectiles fired by you after every kill.Permanently gain +2 Attunement after every kill.Permanently gain +0.5% of Damage is converted into barrier after every kill.Permanently gain +0.5% Fire Resistance after every kill.
+
+“Hmm,” Vasil said. “Almost the same, except one restores mana after kill and the other converts damage into barrier.”
+
+I gave him a flat look. “Yeah. I can read, you know.”
+
+He considered the options for a moment. “I think the choice is actually easier than it appears at first glance. The ring will only restore mana on kill, which means you absolutely have to be killing people to gain any benefit at all. The benefit is that it scales off maximum mana, so it is definitely the better scaling one of the two.”
+
+I nodded along.
+
+“But since your regular barrier has been replaced by [Mana Shield], the amulet pulls ahead in usefulness. There is no barrier without Mana for you, so every successful hit will actually restore your Mana. I assume that once you reach over 100% that it will restore more Mana than you do damage. Also do not forget that your damage also scales with this skill.”
+
+Once again Vasil was completely right. I hadn’t even thought of that.
+
+I crouched down and patted him on the back. “You know what? I’m not surprised they wanted you to advise the king. You’re a really smart guy.”
+
+“What I do wonder,” he said, “is if it counts all kills you got since accepting the skill. That would give you an immediate significant boost in Attunement as well.”
+
+“Only one way to find out,” I said as I offered the amulet and hand to the System. Two plops later I read the new description aloud.
+
+[Generous Gift - Upgraded]
+
+Upgrade: [Jerzy Ruta, Kinetist - Hand]
+
+Upgrade: [Blessing of the Firemind - Amulet]
+
+Type: Passive
+
+Their loss, your gain.
+
+You can now decide the percentage of enhanced damage you apply.
+
+Permanently gain +5% enhanced damage after every kill. (170%)Permanently gain +0.5% control over projectiles fired by you after every kill. (17%)Permanently gain +2 Attunement after every kill. (68)Permanently gain +0.5% of Damage is converted into barrier after every kill. (17%)Permanently gain +0.5% Fire Resistance after every kill. (17%)
+
+Insane bonuses. I couldn’t believe it actually counted all the kills since I’d gotten the skill. The System clearly wasn’t balanced for people who fought and killed a lot. Or maybe it was. It did seem to reward violence disproportionately. Just 166 more kills and I’d be impervious to fire while completely naked! And to top it all off my Attunement got a near 50% bump simply from upgrading this skill!
+
+“Thank youuuu Mēnē and Ambelios,” I said, waving at the ceiling.
+
+“You have gained a significant boost in power in a very short amount of time,” Vasil said. “You not only learned to control your body and your weapons in ways you had not thought of before, but this upgrade to [Generous Gift] will pay dividends as time goes on.”
+
+“It already is paying dividends! I can’t wait to kill more people!” I smiled at the thought of bending a bullet around someone, making them think I missed them, only to bend it back and blast them in the back of the head.
+
+I saw Hubert was looking at me with an uneasy expression.
+
+“You okay?” I asked.
+
+“Y-yes. It’s just…”
+
+Vitek clapped him on the shoulder and laughed. “Can’t be an angel of retribution without killing some folks, I suppose.”
+
+“Ahem,” Hubert said, regaining his composure. “She is our Lady of the Radiant Dawn.”
+
+Vitek smiled. “She’s a lot of things.”
+
+Was I a lot of things, or was I just me and did people try to attribute a bunch of things to me I really wasn’t? Didn’t that make me those things, though? People probably thought a lot of different things about me and not all of them were true. With all the dumb stories I helped into the world, who knew how they actually saw me? Did I even know who I was anymore? Maybe it would be a good idea to sit down some time and think about who I was and what I wanted to be. With everything that had been going on, I felt like I kind of lost who I was, myself.
+
+Who am I, even? I wondered. The thought made me feel uneasy. The not knowing made me feel uneasy. I’d been pretending to be so many things I just didn’t know anymore.
+
+I reflexively tried grabbing the amulet hanging from my neck, but realized I had offered it to upgrade my skill and should probably equip a new one. I chose to equip Edge of the Alkonost. 50% less fall damage probably wasn’t useful since I’d never hurt myself falling, plus I had wings now, but 35% faster cast rate could be pretty good, and +6 Attunement was always good.
+
+I could ponder who I was at some other time. There was a lot to do, and I still had no idea what everyone had been up to while I was gone. As their fearless leader it would be wise to know what was going on at all times. At least it seemed like it would be. My mother always stressed that there were few things more valuable than information. My father saw it differently. He always felt that hitting hard was the most important thing. I didn’t see why I couldn’t have both, cover all my bases.
+
+“Right,” I said. “That reminds me. I asked you guys a question. What has my Order of the Radiant Dawn been up to in my absence?”
