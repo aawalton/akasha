@@ -1,0 +1,213 @@
+Name: Alexandra Ward
+
+Class: Heroine of Quests
+
+Rank: Bronze
+
+Level: 7 (0/350)
+
+Strength (STR): 70
+
+Dexterity (DEX): 65
+
+Constitution (CON): 71
+
+Intelligence (INT): 72
+
+Perception (PER): 74
+
+Bloodline: Blood of the Verdant Lord
+
+Class Art:
+
+Current Streak: 105.
+
+Class Perks:
+
+General Skills:
+
+Achievements: Defiance III, Insistent Quester IV, Insurrection II, Uprising II, Rebellion II, Bronze
+
+Skills:
+
+Inflict Weakness:
+
+Applies a curse of weakness to the target.
+
+Each level increases the duration and potency of the curse.
+
+Dark Bolt:
+
+Sacrifice lifeforce to cast a needle of dark magic that corrupts the lifeforce of its target.Each level increases the power behind the needle.
+
+A Face Among Many:
+
+Makes it more difficult for other people to notice you within crowds.Each level improves your inconspicuousness.
+
+Life Curse:
+
+Lifeforce costs are replaced by a random, self-inflicted curse.
+
+Curse potency is inversely proportional to the initial lifeforce cost.
+
+Each level improves curse to lifeforce conversion effectiveness.
+
+Sure Footing :
+
+Improve stability when using your feet.Each level increases stability.
+
+Running:
+
+Improve your ability to run.
+
+Each level increases your speed and endurance.
+
+Drain Life:
+
+Drain the lifeforce of your target, replenishing your own.
+
+Lifeforce drained cannot exceed the maximum capacity for your rank.Each level increases the amount of lifeforce drained.
+
+Each level improves conversion effectiveness.
+
+Solar Manipulation:
+
+Improves your control over solar mana.
+
+Each level increases your control over solar mana.
+
+Giant Slayer:
+
+This skill allows you to partially ignore rank suppression.
+
+Each level increases the effect.
+
+Curse Unraveling:
+
+This skill provides a framework to reverse engineer curses.Each level increases your ability to decipher curses.
+
+Aggressive Assimilation:
+
+Extract the essence of a species’ lifeforce and convert it into a temporary buff.Each level increases the buff’s potency and the conversion efficacy.
+
+Manyfold Style:
+
+Every weapon is a tool. Every tool is a weapon. You see the battlefield for what it is, and the battlefield loves you for it.
+
+Each level improves your proficiency with every melee weapon.
+
+Each level improves your read of the battlefield.
+
+Solar Concentration:
+
+Your solar mana will naturally concentrate inside your core instead of radiating outward.
+
+Each level increases your solar mana density.
+
+Reading:
+
+Improve your ability to read.Each level increases reading speed and information retention.
+
+Basic Hygiene:
+
+Passively applies the most basic hygiene.Each level increases the effect.
+
+Basic Herbology:
+
+Grants basic knowledge of herbs you interact with.Each level increases the depth of knowledge.
+
+Sewing:
+
+Manipulate threads with greater dexterity.
+
+Each level improves your precision with threads.
+
+Basic Enchantment:
+
+Slightly improve your skill in every aspect of the enchantment process.Each level increases the effect.
+
+Light:
+
+Summon an orb of light.Each level increases your control over the orb’s brightness.
+
+Tracking:
+
+Helps you identify and follow trails of living creatures Each level increases detail detection.
+
+Solar Blast:
+
+Cast a blast of solar-mana-induced pressure.Each level increases the blast’s maximum power.
+
+Solar Affinity:
+
+Replace your mana core with a solar core, turning your personal mana into solar mana.
+
+Warning: you will lose access to unaffinited mana. Using unaffinited skills with affinited mana may not work as intended.Each level minutely increases the conceptual truth of your solar mana.
+
+Locked Skills:
+
+Summon Lesser Fiend
+
+Diving
+
+Cleaning
+
+Swimming
+
+Mana Persuasion
+
+Achievements:
+
+Defiance: Slay an Iron rank while unranked. +1 all stats.
+
+Defiance II: Slay a Bronze rank while being at the Iron rank. +5 all stats.
+
+Defiance III: Slay a Silver rank while being at the Bronze rank. +10 all stats.
+
+Insistent Quester: Reach a 10-day daily quest streak. +1% All stats, +1% Skill experience.
+
+Insistent Quester II: Reach a 25-day daily quest streak. +2% All stats, +2% Skill experience.
+
+Insistent Quester III: Reach a 50-day daily quest streak. +5% All stats, +5% Skill experience.
+
+Insistent Quester IV: Reach a 100-day daily quest streak. +10% All stats, +10% Skill experience.
+
+Insurrection II: Slay a Silver rank while being at the Iron rank. +10 all stats.
+
+Uprising II: Slay a Gold rank while being at the Iron rank. +5% all stats.
+
+Rebellion II: Slay a Platinum rank while being at the Iron rank. +10% all stats.
+
+Bronze: Reach the Bronze rank. +5% All stats.
+
+Class Perks:
+
+Quest Ledger – Unlocks Event Quests and Training Quests. Event Quests are granted based on external circumstances, with a reward dependent on the quest’s difficulty. Training Quests are designed to help you improve your skills. Select a skill to generate a quest that will reward you with a skill level.
+
+Adventuring Contract – Draft a contract to share your quests. Set the share of the reward in agreement with the quester. Daily and skill quests excluded. Contracted questers must be of the same rank or have a maximum difference of 15 levels.
+
+Streak Enhancement – Improve the bonuses received for each streak milestone. Applies retroactively to all streak milestones that have already been achieved.
+
+Contribution Points – Replace all non-daily quest rewards with contribution points. Contribution points can be traded for rewards of your choosing. The number of awarded contribution points is equivalent to the value of the original reward.
+
+Bloodline:
+
+Blood of the Verdant Lord - Platinum Bloodline
+
+Iron: Photosynthesis - The sun feeds you.
+
+Bronze: Solar Core - Hold the dawn captive.
+
+Silver: Locked.
+
+Gold: Locked.
+
+Platinum: Locked.
+
+Skill Ranks:
+
+Common -> Uncommon -> Rare -> ???
+
+Ranks:
+
+Iron -> Bronze -> Silver -> Gold -> Platinum -> Ruby -> Emerald -> Diamond -> ???
