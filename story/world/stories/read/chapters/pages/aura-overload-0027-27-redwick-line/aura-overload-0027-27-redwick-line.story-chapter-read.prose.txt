@@ -1,0 +1,163 @@
+27 – Redwick Line
+
+Later that night, when Lemon succumbed to sleepiness and cheap alcohol, curling up on one end of the couch to fall asleep, Hector reviewed some messages Evie had prepared for him in a window of his AUI:
+
+//Here’s my official flavor text for the new archetype I discovered.//
+
+//Berserker Archetype – restraint severed, fury awakened—shock assault, breaker, annihilator.//
+
+//Transfer archetype from Brawler to Berserker: 30 potentia with a 5 point reduction for each additional Brawler level.
+
+Would you like to see transfer costs to other archetypes?
+
+Awaiting input…//
+
+Hector read the text, gently scratching at the sparse stubble on his jawline—his new skin didn’t have much of a beard yet.
+
+Evie, any idea what abilities will open with the Berserker archetype?
+
+//Not yet, though the flavor text I provided should give you an idea of the direction of the pathways I’ve discovered.//
+
+I still have the other archetypes as options?
+
+//Conduit, Watcher, Bulwark, yes. Bulwark would be the cheapest transfer at the moment at only fifteen potentia.//
+
+I’ll keep working on Brawler for now. I need to buy an ability for my trip to Redwick, though.
+
+//Aura Blade?//
+
+Reading my mind again, hmm?
+
+//When you’re already thinking of it, there’s no challenge…confirmation incoming.//
+
+//Aura Blade ability purchased for 10 aura potentia…
+
+Initiating aura pathway propagation. This process will be relatively mild; go about your business as usual. Integration will be complete in 5 to 6 hours.//
+
+Hector smiled, leaning back into the couch cushions. His new ability would be ready long before he reached Redwick Station, and that meant he’d be ready for just about anything. It wasn’t that a standard Aura Blade was considered a devastating weapon; it was an entry-level ability, after all, but like all aura weapons, it took on different aspects based on the wielder’s aura type. On a blue aura, it might be little better than a scalpel—very sharp, very precise, but small. He’d seen a yellow create something like a set of elongated claws—again, sharp and quick, but useless against decent armor, and difficult to use against another weapon-wielder.
+
+Sometimes they wouldn’t even be blades. Hector had seen a rust aura—sort of a dirty orange—who created a set of aura-charged knuckledusters. He’d fought a pink aura whose ability had summoned a handful of darts. He supposed it had something to do with archetypes as well as a person’s aura color. Not that those were the only factors; one had to consider the system, after all, taking into account its creativity and intelligence.
+
+The point was that Hector had seen pretty much everything, and he knew that his red aura, combined with Evie’s talents, produced an excellent blade. It would be short—there was only so much she could do with an entry-level ability—but it would have a savage edge that would tear through most armor types. That was why he wanted it for his upcoming “job.” He knew he’d be up against some decent mercs, the kind a magistrate with royal connections could afford.
+
+He found his eyes getting heavy, and he might have joined Lemon, drifting off to sleep there on the couch, but then Evie spoke again, interrupting his nascent slumber:
+
+//I’ve cracked the bit-locker!//
+
+Hector’s eyes snapped open, and he yawned hugely. It took him a moment to process Evie’s words, but then they clicked into place.
+
+The necklace.
+
+//Yes! It has almost a thousand bits on it. Now that I have control, though, if you place it against the other bit-lockers you stole, I can use their contact transmission to apply the cracking algorithm I purchased.//
+
+Hector frowned, reaching into his pockets to retrieve the various bit-lockers. It’s that easy?
+
+//It’s not easy, Hector. I have more processing power in this gold-tier neurodeck than many professional netjackers can bring to bear. I can’t take credit for this clever protocol, and there’s a good chance that more well-maintained bit-lockers will have patched the vulnerability.//
+
+Well, don’t let it impact your other jobs. Managing the aura system is priority one, and—
+
+//I promise! Now put the rings on that necklace.//
+
+The “necklace” was a pendant, shaped like a half moon, and it wasn’t large enough to hold both rings. Still, he arranged the bit-lockers on the coffee table so that the rings were each resting on one pointy end of the moon. As he did so, Lemon stirred and yawned.
+
+“Oh man. I think I’m getting the spins,” she said with a groan.
+
+Hector stood, took her wrist, and pulled her to her feet. “Come on. Drink some water and then get into bed.” He led her to the sink, holding her shoulders to keep her steady. Then he poured her a large glass of filtered water and watched as she gulped it down. “Good. Come on.” He guided her around the corner to the sleeping alcove, and she collapsed onto her blankets. Hector pulled the topmost one free and then draped it over her.
+
+A few minutes later, after a quick shower in the tiny plastic-lined alcove, he stretched out on the floor beside the wall and immediately fell asleep.
+
+###
+
+Hector ground his teeth as another shatter-bomb rocked the concrete bunker.
+
+“Oh S-Saints!” Jack cried, clamping his hands against his helmet and squeezing his eyes shut. “They’re dropping nukes!”
+
+Hector shook his head, pointing to the narrow slit in the meter-thick concrete wall. “Look at the sparkles. Can’t you hear the secondary explosions?” He certainly could—crackling repercussions that sounded almost like fireworks. “They’re clearing the streets.”
+
+He checked his aura report:
+
+//Aura Pool: 67/122
+
+End Report.//
+
+He put a hand on Jack’s shoulder. “You got enough juice for a shield? We’re gonna have to push out. I think we’re the only unit on this side of the line, and someone needs to take out those mortars.”
+
+“You’re nuts! I don’t care what—”
+
+Hector shook him. “Stop crying and move your ass. Get to the hatch. You either run when I say run, or I’ll leave you in here with a bullet in your brainpan.”
+
+“Whoever made you sergeant was a sadist,” Jack groaned, picking up his GISI-99 carbine.
+
+Hector nodded, grinning. “That’s the spirit. Let’s go!” He pushed Jack ahead of him, then followed, stooping to avoid the ruined anti-air cannon hanging from the pitted concrete ceiling. He stepped over Leon’s corpse, then—
+
+###
+
+A soft chime interrupted the dream, and Hector’s eyes snapped open. His ocular augments used the tiny LEDs in Lemon’s apartment to enhance the brightness, making his surroundings clear to him. Lemon’s breathing, more congested than usual, came to him as he sat, blinking away the sleepiness from his eyes.
+
+//It’s 0500 and I’m waking you as requested. The next train to Redwick Station from the local hub is in 37 minutes. I’m calculating your travel time to the station to be roughly fifteen minutes.//
+
+Hector grunted an acknowledgement as he stood.
+
+//I’ve finished integrating your Aura Blade, and it’s ready to use. Note that its relatively small aura consumption is still significant for your low-level pool—two per second.//
+
+Hector nodded, pulling on his shirt.
+
+//I also finished hacking into those other two bit-lockers. Combined with the remaining bits in your skull ring, you now have local access to 12,942.33 bits. The ring you took from the Taurus crew leader had nearly ten thousand bits on it.//
+
+Hector blinked, looking at the bit-lockers sitting on the coffee table. “Shit,” he muttered. Then: That’s good work, Evie.
+
+//Thank you!//
+
+Hector cocked an eyebrow. Was it his imagination, or was Evie more emotive this go-round? Maybe it was his perception of her; his life had taken a hell of a turn and being in a new, young skin could certainly color things. He reached up and rubbed the back of his neck, frowning.
+
+Could Paul be influencing me? Are there ghost traces in this damn skin?
+
+//I know you’re just speculating, Hector, but you know there isn’t any conclusive evidence that such things exist. It’s a tale mercs tell each other, a ghost story swapped over mess hall tables, a—//
+
+I get it.
+
+Hector scooped up the bit-lockers from the coffee table and gripped them all in one fist.
+
+Transfer everything but 500 bits onto the necklace.
+
+//Done!//
+
+Hector put the necklace on, set the rings on the coffee table, then walked to the bathroom. He wasn’t worried about waking Lemon; she was deep in a booze-fueled stupor.
+
+Send a message to Lemon—low priority. Tell her to keep the five hundred on the ring and she can sell the other bit-lockers.
+
+//Should I make you a messaging account on Magenta Palace?//
+
+It took him a moment to remember what that was—a social hub on the local net. Hector shrugged. Wherever.
+
+After he finished in the bathroom, he pulled his coat on, slipped into his boots, and then left the apartment, careful to close the door quietly. He hurried out of the building and then, standing on the sidewalk, he inhaled deeply, peering up into the hazy early-morning sky. It was still dark, but the air was dry, the wind wasn’t blowing, and the chill in the air was nothing like the last couple of days. Evie guided him to the outbound train junction—a four-story platform with a wider track than the ones he’d been on prior to that.
+
+He saw a peacekeeper, but he tried to act naturally; his new ID was on-line, so he should pass a cursory inspection, and he knew that acting evasive would only draw attention to himself. He walked with the crowds as much as possible, letting hair blow with the passage of the trains, partially obscuring his face. When he stepped in front of the big ticket vending machine, it dawned on him that none of the other transports he’d ridden on had required any sort of fare. It had been a hell of a long time—in his old life—since he’d ridden public transport, and he honestly couldn’t remember if that was how it had been back then. He supposed it depended on the city.
+
+The machine was easy to navigate, and he chose a one-way fare to Redwick Station. A standard ticket was 68 bits, but he paid an extra fifty for a parlor-class seat, and when the machine prompted for payment, Evie handled the transaction with his new bit-locker necklace. Apparently, its near-field wireless signal had no trouble reaching from his chest to the payment terminal.
+
+His ticket emerged from a narrow slot beneath the screen. Hector took it in hand and walked to the correct platform: C-7. When he arrived, Evie updated his clock display with a countdown indicating he only had a bit more than five minutes to wait. While he stood there, shoulder-to-shoulder with a dozen other waiting passengers, he wondered what exactly a parlor-class ticket even was.
+
+//You’ll have a semi-private booth in a car adjoining the dining car. Wait-staff will attend to your needs during the four-hour journey.//
+
+Semi-private. So some stranger might be staring at me across the table the whole way?
+
+//That’s a distinct possibility, but your booth will be far more spacious than the standard seats in which several people would no doubt be staring at you.//
+
+Hector grunted, folding his arms as he looked left and right, ensuring he wasn’t being stalked. It wasn’t a serious worry; he didn’t think any criminals or thugs would start trouble there on the platform, but he hadn’t exactly found that part of Helio safe. Then there were the PKs to think about, though he couldn’t even spot the one he’d seen earlier.
+
+Before long, a hidden speaker beeped and announced the arrival of the Redwick Line, and Hector, like everyone else, turned his head to the right to watch as the brilliant headlights of the train approached. Sunrise was still a ways off, so that was all they could see until the train was almost upon them—those big white lights.
+
+When the train came to a stop with a series of loud hisses and gusts of warm air, the doors remained closed on Hector’s side of the tracks while the other side opened, and the disembarking passengers got off. After a few minutes the near-side doors opened and ticket takers, all wearing blue uniforms with white stripes, stepped down onto the platform and began admitting passengers.
+
+When Hector approached the nearest door, a young woman with a bright red ponytail smiled up at him and took his ticket. “Welcome, Mr. Valerius. No baggage?”
+
+He shook his head.
+
+The woman tilted her head, her smile faltering only a little. “Your seat is in Parlor Car C. Just turn left and walk toward the front of the train. You’ll need to pass through three cars before you reach yours.”
+
+“Thanks.” Hector took his torn stub, slid it into his pocket, and then climbed the steps behind her. Just as she’d instructed, he walked through three crowded train cars. It seemed Heliopolis was far from the first stop for the Redwick Line. When he reached the parlor car, he was pleased to see that Evie had been correct; there were only five booths on either side of the aisle, and they were all spacious—a luxurious lounge-style chair on either side of a small square table.
+
+His seat was directly across from an older gentleman in a suit—the first, other than Grando’s ostentatious ones, Hector had seen since waking from his two-hundred-year slumber. It was a fine, tailored garment, with a vest and stark white material that looked like it cost enough to pay the living expenses of someone like Lemon for a year. The man looked up, his dark gray mustache shifting slightly as he frowned. He made eye contact with Hector briefly, wrinkled his nose faintly, and then turned back to his tablet. The red lenses on his golden specs flickered with faint traces of light.
+
+Hector sat down, more than happy to have a quiet travel companion. As the actuated cushions in the seat conformed to his body, he touched the button to recline and then turned his head to the window. Before long, a conductor announced that the train was departing. It pulled away, slowly at first, but then faster and faster. Hector felt the force of the acceleration as his stomach sank. It soon evened out, though, and he watched as the fog-smeared lights of Helio sped by.

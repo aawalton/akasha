@@ -1,0 +1,149 @@
+54 – Clearing Town
+
+“Evie?” Hector asked, reaching toward the metallic ball.
+
+//I’m detecting a very strong near-field data stream from it, but it’s not a protocol I recognize. Can you rotate it so I can see the full string of digits?//
+
+Hector plucked the little sphere from the gel. It wasn’t especially heavy—some sort of alloy—but it had a deep, liquid luster that shifted from platinum to carbon gray to a muted gold as he turned it in his fingers. The surface almost seemed to flow beneath the light, as though the metal were gradually rearranging itself.
+
+He rolled it slowly so Evie could capture every inscribed character, then leaned his head against the dirt-streaked window and waited.
+
+He was exhausted, and his body ached. The Berserk ability had healed the worst of his breaks—amazingly—but it had run out before Logan finished thrashing. Hector knew he still had cracked ribs, and his left hip and knee were killing him. Nothing throbbed more than his hand, though—the fingers he’d used to rip and tear his way into Logan’s armor.
+
+He glanced at his clock: 0815.
+
+“Stop at a store. I need clothes and some nanites.”
+
+//Route updated.//
+
+He closed his eyes, letting the steady drumming of tires on gravel lull him. His thoughts drifted back to the concrete tube—to Britt’s cold body and Logan’s sizzling flesh.
+
+The images snapped his eyes open and sent his pulse racing.
+
+He blinked, scanning the sky through the windshield. The clear blue made him think of drones, and he wondered if Logan had used one to track them.
+
+//Not likely. A PK drone feed would route through the judicial administration servers, and Logan wouldn’t have wanted a record of his movements.//
+
+Right.
+
+Hector exhaled slowly through his nose. A moment later, Evie spoke again.
+
+//This is very interesting. The character sequence engraved on the sphere matches the format used for certain pre-Imperial ship identification codes—unique strings that identify the builder, hull class, tonnage bracket, and operational designation.//
+
+Hector frowned down at the sphere.
+
+“So…what is it?”
+
+//I believe this may be a drive-core cipher—an authentication device used to initialize a ship’s AI and unlock its propulsion systems.//
+
+Hector blinked.
+
+“Wait…like a key to a spaceship?”
+
+//A key, yes—but not merely an ignition device. This cipher functions as an encrypted identity token. Without it, the ship’s AI would remain dormant, and any fold drive installed on the vessel could not be brought online.//
+
+Hector sat up a little straighter. “Fold drive?” Visions of Imperial capital ships and consortium deep-system haulers danced through his mind.
+
+//More importantly, devices like this were used to establish command authority. Possession of the cipher identifies the bearer as the vessel’s commanding officer. Even if it were online, without this cipher, the ship’s AI would refuse operational directives beyond basic maintenance.//
+
+Hector’s mouth went dry. “You’re saying I’m holding the key to a fold-enabled spacecraft in my hand?”
+
+//Not just any spacecraft. Based on this identifier, the vessel would predate the Empire by nearly a millennium—an Expansion-Era privateer-class cruiser. There’s more: the near-field transmission isn’t just authentication traffic. With the proper interface, the signal can be decoded.//
+
+Hector frowned. “Decoded into what?”
+
+//Navigation metadata. This device would broadcast a compressed identification packet so shipboard systems can verify authority before accepting it. That packet typically includes the vessel’s last authenticated coordinates.//
+
+Hector stared down at the sphere. Broadcasting its location?
+
+//Not exactly where it is now. But if the vessel hasn’t moved, then yes, it would reveal the ship’s last known location.//
+
+“So, with the right reader…”
+
+//Yes. With the proper interface, we should be able to extract the coordinates.//
+
+Hector turned the sphere slowly in his fingers again, his pulse quickening, but he clamped down on his excitement—there were too many unknowns. Still, if that cruiser hadn’t been moved…
+
+Evie read his thoughts again, but it couldn’t have been difficult. He was practically shouting them. //Then we may know exactly where to find it.//
+
+With those words to mull over, Hector pushed the sphere back into the gel casing and closed the cover with a snap, careful not to bend any of his swollen fingers. The little car lurched as it pulled off the gravel road, back onto pavement, and then sped toward town. He gripped the metal box on his lap, and things clarified in his mind, most especially why Paul had been willing to risk everything for the device—and why Logan had killed for it.
+
+A fold-enabled ship from the Expansion-Era was a ticket to real freedom. People with ships like that could operate outside the Empire’s jurisdiction—to a degree. It was a ticket to anywhere in the Sol System—and beyond, if someone knew where to go. It was very hard to follow a ship through a fold, and virtually impossible to track one afterward. That was where the idea of being free of the Empire’s rules came from.
+
+Logan’s ticket to power. True, so long as he had managed to get aboard and get the ship somewhere safe­—so long as he never fell into any traps, physical or political. Those were enormous “ifs,” though. He’d been unrealistically optimistic about his chances. So had Paul been, but…
+
+But if I had a ship like that, it would alter the stakes. It would make justice for the Contis more of a real possibility.
+
+//According to the Martian net, fold-tech is still tightly regulated. Less than three percent of interplanetary ships are equipped with it.//
+
+Hector grunted in acknowledgment. He remembered the old rumors—that the tech was lost, that the drives were just recycled from one generation of ship to the next. The Empire had denied it back then, and Hector was sure they still maintained the same line: that the tech was dangerous and needed to be tightly regulated and released sparingly to partners and allies of the Empire.
+
+Lots of unknowns, though. Everyone was banking on knowing where this ship was, on it still being there. Unless Paul had deciphered the message already…
+
+//It’s possible.//
+
+As Redwick Station came into view down the long, sloping road, Hector scanned for anything to be alarmed about. Traffic was still light. No drones swooped in—no PKs. It looked like Janus was still holding up his end, keeping things quiet. Had he been in on the double-cross? It didn’t seem likely to Hector. That had been all Logan. He’d gotten wind of the magistrate’s prize—likely from playing both sides, offering to help track Paul or his sister down—and he’d decided to make his play.
+
+Running every angle through his mind, Hector couldn’t think of a way to find out if Paul had already decoded the cipher’s message. If Tacitianus had the location somewhere, it was lost to him; no way to go back for it. No, he’d have to find a way to decode it himself and go from there. How difficult?
+
+//The cipher’s beacon information shouldn’t be encrypted—just the key sequence. Give me some time to hunt the Martian net for protocols.//
+
+Evie directed Britt’s car to a large outlet store on the outskirts of town. It seemed to sell everything—from clothes to cleaning products to food to pharmaceuticals. Hector bought a clean outfit—worker’s boots, black denim pants, a T-shirt, and a gray-hooded sweatshirt. Clothes in hand, he made his way to the pharmacy section and bought a tube of first-aid nanites, advertised as being “Easy on your organs!” Before leaving, he also picked up a plain, black backpack, the kind someone might use on a hike.
+
+Back in the car, he sucked the tube down—sickly sweet lemon—hoping it would be strong enough to mend his cracked bones, and then he gingerly went about changing into his clean outfit. There were a dozen vehicles in the parking lot, but nobody seemed to be around when he stood outside the little car and stripped down. He stuffed everything into the duffel with the other bloody clothes and…evidence. Then he got back in the car and let it hurry along its route to the train station.
+
+“If we pass a recycler, stop. I mean a proper one.” Some “recyclers” were nothing more than bins that were hauled off to larger processing plants. What he wanted was a machine that chemically and mechanically broke waste down into its base materials, liquefying some and compressing others, separating them into pressurized canisters.
+
+He was already feeling better, his fingers bendable if still swollen and sore, when Evie directed Britt’s car into a parking lot and stopped before a hulking, graffiti-covered, fluid-stained machine, maw open, awaiting refuse. Hector got out and hauled his duffel bag back, throwing it into the recycler’s open hopper. He didn’t leave until he saw the teeth come down, drawing it back into the shredder, and he heard the faint rumble and watched a thin trail of steam drift out of the pipe atop the device.
+
+Satisfied, he got back in the car. It sped off, humming along even as a low-battery warning flashed on the cracked HUD—fifty kilometers of range. Hector checked the time; he still had twenty minutes before the train departed. According to his mini-map, they were just four minutes from the station. Still no sign of the next double-cross.
+
+//Do you think there will be one?//
+
+I’m starting to wonder…
+
+The train station, when it came into view, was quiet. He counted nine people standing around under the metallic awnings. Nobody stood near the ticket kiosk, nor were there any signs of security—private or Imperial. “None of Logan’s PK buddies…”
+
+//Shall I park?//
+
+“I’ll get out. Send the car to the rock yard where Britt took us.” Another twinge of guilt passed through him as he pictured Britt’s getaway, the place where she went to shoot and “forget things.” He saw her face looking back at him in the crowded cabin of her little car…
+
+Hector stuffed the metal box into the backpack he’d purchased, then clambered out, slinging the bag over his shoulder. As the little vehicle trundled away, he watched, some fanciful part of his mind imagining Britt was sitting in the cab, looking back at him as he grew small with the distance. When the car turned the corner and fell out of sight, he walked over to the ticket kiosk.
+
+He navigated the menus and was about to finalize the purchase when the hackles rose on the back of his neck. Hector felt the person behind him before he heard the footsteps. As soles scuffed concrete, he gripped his backpack strap with his left hand and lowered his right, priming his aura pathways, ready to summon his blade.
+
+Then, a woman cleared her throat, and a familiar voice said, “Yo, Hector.”
+
+He relaxed, touched the purchase option on the kiosk, then turned to regard Sass. She smiled, her white teeth beaming inside the skull tattoo. She shrugged as his eyes narrowed. Her thumbs were hooked under the straps of a much more thoroughly packed backpack than his. She was dressed a lot like he was—jeans, boots, a well-worn, faded denim jacket. Her cybernetic fingers clicked as she drummed them against her backpack straps. “I know what you’re thinking.”
+
+“I doubt it.”
+
+“You offered to help me someday, thinking I’d probably never make it out of here, right? Well, I’m not gonna waste another day of my life in this place. I’m sick of one dead-end after another. I—”
+
+“Okay.” Hector snatched his ticket from the kiosk’s little printer slot and walked over to the small crowd awaiting the train.
+
+Sass hurried behind him. “Okay?”
+
+He nodded as he joined the back of the queue. He was still grappling with his thoughts, so he didn’t want to say something he’d regret. The truth of the matter was that he’d felt so relieved when he realized it was Sass behind him he’d probably would have been agreeable about almost anything. There was more to it, though; despite her difference in appearance, Hector couldn’t help seeing Britt standing there in Sass’s boots. He couldn’t help thinking about how Britt had wanted a way out—about how Paul had.
+
+//Sass is good for you, anyway.// Evie’s uncharacteristic intrusion made a corner of Hector’s mouth quirk upward.
+
+He looked at Sass and nodded. “Yeah, okay.”
+
+“So you’ll, like, train me and—”
+
+Hector held up a hand. “Don’t get carried away.”
+
+“Right, right. One step at a time, Sass.” She tried to smile, but it looked like a grimace. “I know it’s crazy, and I get it if you don’t want me pestering you. I-I don’t quite have enough saved up for what we talked about—you know, finding a system, but—”
+
+Again, Hector held up a hand. “Relax. It’s a long train-ride.”
+
+She stuffed a hand in her pocket and tugged out a slip of paper—her ticket. “Oh! Um, what seat did you get? I should try to adjust my ticket.”
+
+Hector briefly thought about denying her. He could use a little quiet time to process his thoughts—to talk to Evie about his next steps for developing his aura system and to think about how he was going to handle Lemon’s situation.
+
+//Come on, Hector. Be nice to her. She’s giving up everything to follow you to Helio.//
+
+Didn’t ask her to.
+
+Despite the thought, he said, “Here,” and handed Sass his ticket. “It’s in a parlor car. Upgrade if you need to. I’ll pay for it.”

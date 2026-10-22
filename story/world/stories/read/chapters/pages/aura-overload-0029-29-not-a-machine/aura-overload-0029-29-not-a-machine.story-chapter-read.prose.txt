@@ -1,0 +1,157 @@
+29 – Not a Machine
+
+Before he left the work apparel store—Roughnecks Emporium—Hector pulled his new breather over his head, situated it comfortably over his nose and mouth, and then pressed the activation button on the strap that ran around the back of his head. It cinched up snugly, and tiny fans pulled air in through the filtered panels on either side. It was comfortable, and the air coming through the filters smelled only faintly of ozone.
+
+Satisfied that, combined with the changes to his eyes, the breather would hide enough of his face to keep people from recognizing him, Hector stepped outside.
+
+Evie, did you figure out the sister’s information? He’d gotten Grando’s contact info from Lemon the night before, so he’d put Evie on the job of getting some details about the Redwick situation from the crime boss.
+
+//Yes, Brittany Chevalier works for RMC as a contracted security officer. I’ve marked her apartment’s location on your map. She’s two years younger than Paul…was.//
+
+“Right,” Hector muttered, slinging the cheap, plain backpack he’d purchased over his shoulder. As he started up the sidewalk, he stuffed his hands into his pockets, head down as he moved toward the taller buildings ahead.
+
+He wasn’t exactly sure how he’d approach the sister with regard to the fact that he was wearing her dead brother’s body. He figured he had a few hurdles to get through before he had to cross that bridge, though—like figuring out how closely Tacitianus was having her watched. It wasn’t that he hadn’t thought about it, and Hector felt like he had an angle, but it was kind of a Hail Mary, and he was still hoping something else would present itself to him.
+
+//Care to talk about it?//
+
+Care to stop snooping?
+
+Hector stepped around a group of slow-walking youths—hard looking kids with heavy jackets, mean haircuts, and lots of tatts. They ignored him, laughing and shoving each other over a wise-crack one of them made. Hector walked quickly; he always had, but the long legs of his new skin made it even more pronounced, and he left the laughing boys behind.
+
+Redwick reminded him of how industrial suburbs were portrayed in old-Earth vids. There were corner stores, lots of vehicles on the roads, scattered parks surrounded by slatted plasteel fences, and rows of blocky industrial buildings decorated with gang tags and the occasional mural. For at least the third time, he saw one depicting the white-winged angel with the sword, and he paused to look.
+
+She was tall and straight-backed, with wind-blown blonde hair, fierce eyes, and a bloody sword. As in the other versions he’d seen, there were children cowering nearby, looking up at the figure with hope in their eyes.
+
+Who is she?
+
+//Judging by her depiction, I would speculate that she’s meant to represent Agnes Rectus, a former Imperial Praetorian who broke ranks during the quelling of the Tharsis Workers Rebellion. She stood against her commander and his Imperial Guard unit, defending children known as the “rag-crew”—minors used to commit crimes in an attempt to avoid strict punishment. They were caught raiding a supply truck, and, being that martial law had been enacted, the commander wanted to make an example of them.//
+
+“Huh,” Hector grunted. “Good for her.”
+
+//She killed nine legionnaires, maimed her commander, and was put to death after a lengthy, public trial.//
+
+Hector stared at the image for another minute, letting himself process the regret. Some part of him had hoped for a happy ending to the angel’s story, but he’d known better. Deep down, he’d known better. He turned and continued walking.
+
+According to his map, he had a thirty-minute hike ahead of him. The blinking dot of his destination was past Redwick’s downtown area, up the main road toward the mine. There were several apartment complexes in the area, likely primarily occupied by mine employees. He had other stops to make before he inspected the sister’s apartment, however.
+
+I need an electronics store—someplace I can buy a transmitter.
+
+//What sort of transmitter?//
+
+Something we can make a signal jammer out of.
+
+//Oh, in that case, I should do some research on such devices. In any case, there’s a network and home security business just past the downtown area. I’ll update your map.//
+
+After his time in Helio, Hector thought the streets and sidewalks of Redwick felt almost deserted—no trains and sparse foot traffic. The buildings were hotels, bars, and office complexes, most related either directly or tangentially to the mining business. Nobody bothered him; nobody even looked twice in his direction.
+
+Soon he was hiking out into a sprawling retail zone where large business plazas housed dozens of stores catering to the populace who lived on the edges of the city in apartments or the low, concrete and plasteel tract homes that hugged the Martian landscape.
+
+He followed Evie’s directions, and after twenty minutes or so of walking, he came to a retail plaza with a store on the corner called Network Wizards. It was, according to Evie, an outlet for a massive, multi-planet electronics conglomerate. Hector entered the store to find nothing but a pale blue room, from the carpet to the counter to the walls, with a blinking crystal-glass sales kiosk facing the door.
+
+He stepped up to the display and browsed the products, looking for something that might suit his needs. After a bit of digging, he found a TA44 Network Diagnostics Kit. He read through the description and was about to keep looking, but Evie chimed in:
+
+//That would work. I can turn it into a localized denial field. It would be subtle.//
+
+How subtle?
+
+//To the people around you? It’ll feel like bad service—heavy packet loss.//
+
+It sounded like a perfect solution, so Hector added it to his cart, then browsed to the batteries section, choosing a brick-sized one that ought to be able to run the device far longer than he needed. In total, the make-shift jammer cost him 487 bits. When he paid the balance, the terminal chimed and a pleasant, masculine voice said, “Your claim number is 5-1-A. Please wait for your items. We estimate the time to fetch them will be less than five minutes.”
+
+Hector unslung his empty black backpack and set it on the counter. You need any special software or anything, Evie?
+
+//No, I found a surprising number of guides for this sort of device on the Heliopolis city net. I simply have to alter some settings in the diagnostic spectrum controller. The device will flood comm bands with garbage data, but only in a limited broadcast area.//
+
+Hector nodded, drumming his fingers on the counter. He didn’t mind a limited area; the idea was to keep the mercs watching Brittany Chevalier from calling for help if he got into a tussle with them—or moved to take them out.
+
+He only had to wait a couple of minutes before the door behind the counter clicked open and a blue-plastic synth emerged carrying a pair of boxes. “Ah, hello, sir. I have your purchases.” The speaker grille under its nose flashed with white LEDs when it spoke, and its chrome eyebrows moved up and down expressively to convey a bit of emotion as it approached.
+
+As far as synths went, it was one of the cheapest models Hector had ever seen, but then, what did he expect from a self-service retail outlet? It set two boxes on the counter, one considerably heavier than the other—the batt. Hector ignored the synth and began unpackaging the two devices.
+
+“Was there anything I could assist with?”
+
+“You can take the garbage.” Hector pulled the sleek, rectangular battery from the box, peeling off the foam packaging. It came with a charging cord, but the top was meant to support contact charging for myriad devices. Hector turned it on, nodding to himself when the indicator reported a 97% charge. Next, he unpackaged the network diagnostic device. It was a plastic triangle with two ten-centimeter antennae that he had to screw onto either side of the top point.
+
+“You don’t want to keep your warranty information, sir?”
+
+“No.” The device had its own battery, but Hector had a feeling Evie’s jamming trick would drain it quickly. That said, he plugged it into the external batt and then, after turning it on and pressing the sync button on the bottom, he put the two items into his backpack.
+
+Got it?
+
+//Yes, I’m connecting to the diagnostic device now. I should be able to configure everything from here.//
+
+As the synth collected his discarded packaging, it asked, “Will that be all, sir?”
+
+“That’s all.” Hector slung the pack over his shoulders, cinched the straps, and twisted his torso a few times, getting accustomed to the feel of it. Should be good. As he left the shop and started on his way, following the route Evie outlined on his mini-map, he wondered if he was being smart.
+
+Theoretically, the improvised jammer was a precaution, meant to protect his identity if he happened to run into the mercs watching Paul’s sister. If he were being honest with himself, though, he’d admit that he didn’t really intend to try to sneak past the watchers. He meant to take them out—individually, if at all possible. Part of him knew it was hubris, but another part refused to be intimidated by the prospect of mercenaries working for a minor official in a backwater mining town.
+
+Even as he had the thought, he had to edit it; the “minor” official was a magistrate, distantly connected to one of the Great Houses. Still, the “backwater mining town” reasoning held. If Tacitianus had any real clout, he wouldn’t be working out in Redwick.
+
+All of that brought to mind another question: why was he bothering with him at all? He supposed part of it was the sense that he was operating in a void, and this was something that had come to him without Grando putting it together. Where there was corruption, there was opportunity—profit without the fear of reprisal. Whatever criminal element Tacitianus had aligned himself with, they wouldn’t be running to the Empire to report a crime.
+
+More than that, Hector had to admit that deep down, he felt some kind of obligation to the man whose body he’d been given. Paul Chevalier had died for something, and the men who’d killed him were still haunting his sister’s life. Everyone Hector had cared about was long dead—buried in his disgraced history. Well, Paul’s sister was still alive. Maybe he could do something to ensure she didn’t think of Paul that way.
+
+It was stupid, considering the greater purpose of his current existence—vengeance—but Hector was a man, not a machine. And sometimes, a man had to be allowed to do something stupid.
+
+He passed through the retail zone, and as the hills of the open-pit mine loomed larger and larger on the horizon, he came into a residential zone—lower income apartments and a few collections of box-style townhomes. Looking at his mini-map, he knew Brittany’s building would be about a quarter klick ahead on his left, and when he looked that way, he clocked it right away. It was a five-story rectangle with different-colored plasteel balconies hanging off the sides.
+
+It’s ready?
+
+//Yes. With the battery pack, you should be able to jam your immediate vicinity for upwards of ninety minutes.//
+
+Well, keep a finger on the trigger. If I get into a fight or if someone confronts me, turn it on.
+
+//Right. “Finger” on the “trigger.”//
+
+Hector smiled at her playful inflection.
+
+As he approached, he studied the vehicles in the street. He watched for people on balconies, faces in windows. He saw some kids playing on a dilapidated playground, and a desperate-looking mother, hollow-eyed and zombie-like, as she carried groceries behind a beat-up old synth that pushed a stroller for her. A man was working on a van, cursing and grumbling as he used a bottle jack to hold up its battery pack while he wormed his hand into a gap.
+
+Nobody looked like a merc. Nobody looked like they were watching the apartment building in question. Nobody let their gaze linger on Hector. He meandered toward the building, frowning when he saw the door panel with a biometric reader. He paused, squatting to mess with his shoe, like he’d gotten something stuck in it. The mom with the synthetic nanny was heading toward the building from the other direction. Could he slip in behind her?
+
+The synth was slow, its steps less than sure. It had yellow-green plastic panels covering most of its body, though the face was synth-flesh—tinted a shade of green to blend in with the plastic of its skull. It had pleasant eyes, though; they were almost human in their expression, and it smiled when it paused to wait for the mom to unlock the door. Hector stood and walked up behind it.
+
+“You’ve got your hands full there,” he said, nodding to the two-seater stroller and the toddlers wriggling around within. He turned to scan the street—still no sign of any watchers.
+
+The synth nodded, leathery lips stretching to expose rectangular white teeth as it replied, “These two are ready for their naps.”
+
+Hector nodded, looking at the mom. “Twins?”
+
+She touched the door panel, and it buzzed. Hector hurried to pull it open for her while she sighed. “Unfortunately. My doctor swears it was a natural occurrence, but I think my husband tipped him when we did the fertility treatment.” She chuckled, adding some levity to the dour tone of her voice, and Hector forced himself to nod, mimicking her chuckle.
+
+The synth pushed the stroller into the building, nodding to him as it passed. “Thank you, sir.”
+
+The woman followed it in, but she turned to look at Hector. “I don’t recognize you.”
+
+Hector shrugged. “I’m new. Still trying to get hired on.”
+
+“Well, if you need something…” She paused, hesitating, then shook her head. “I want to give you Raul’s contact info—that’s my husband—but he’d be furious. He’s got so much on his plate. If you don’t get picked up in the next week or so, I want you to come and see me anyway. I’ll have him put you in touch with some of his boys.”
+
+Hector stepped into the lobby, letting the door swing shut behind him. “Oh, that’s very nice, ma’am.”
+
+“It’s Jasmine, and I’m in 4C.”
+
+Hector tapped his forehead. “Got it. Jasmine in 4C.” She looked at him expectantly, and Hector said, “Oh, um, the name’s Orin. I’m staying with my cousin in—”
+
+Evie was quick to supply a response. //5B—Paul Dorgan, a man living alone, according to the directory.//
+
+“—5B.”
+
+“Oh? Old Man Dorgan’s your cousin?”
+
+Ah, fuck. Hector nodded, grimacing under his mask. “Yeah. Um, really my mom’s cousin.”
+
+“Ah, I see. Well, I don’t know him well. He doesn’t work for the mine. Anyway, it was nice to meet you, Orin.” She shifted her groceries in her arms and nodded toward the stroller. “Well, I need to get these monsters down for a nap.”
+
+“Nice meeting you.” Hector made an attempt at a wave, failing to not look awkward. As she started for the elevator, he walked past her to the stairwell. “Need to build up my stamina.”
+
+“That’s for sure. That mine is no joke. Smart to wear a breather, no matter what the other guys say. Don’t let them tease you—red-lung’s not worth it.” The elevator dinged, and she stepped into it. Hector watched the doors shut, then he stepped into the stairwell, looking up to see if there were any cameras. He didn’t see any.
+
+The hell am I doing?
+
+//I thought you figured that out? You’re reminding yourself that you’re not a machine.//
+
+Hector smiled grimly. Think I like you more this time around, Evie. Something’s different.
+
+//Perhaps being dead for two centuries had an effect on us.//
