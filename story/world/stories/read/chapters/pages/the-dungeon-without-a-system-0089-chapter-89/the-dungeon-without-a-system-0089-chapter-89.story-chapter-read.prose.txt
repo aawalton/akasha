@@ -1,0 +1,149 @@
+-0-0-0-0-0-
+
+The Dungeon, Medea Island, The Kalenic Sea
+
+-0-0-0-0-0-
+
+With my upward inspection done, I started working downward again.
+
+Starting with the Seventh. The Sixth only needed a few more monsters; I could deal with that later. From what I understood, the confusing, unordered layout of the mine's tunnels worked incredibly well initially. Hallmark's party had to comb every tunnel looking for the exit, then killed every Drake-kin they ran into. When they eventually discovered the exit, their second attempt was a more direct route, leading to them bypassing most of the floor.
+
+I couldn't allow such a flaw to remain.
+
+After some thought, I stumbled onto the solution. One of the major dangers with mines was tunnel collapse, right? Being buried by falling rock, or worse, trapped in a dead-end. Oxygen slowly running out, with no food or escape. I made a few dead-ends that'd trigger a rockfall behind the group, trapping them, and connected them to the same 'hard mode' enchantment as many other traps. I'd save those kinds of fates for those who want to harm me.
+
+Otherwise, I took inspiration from the Second. The Labyrinth's shifting nature, specifically. Once again, I couldn't change where the exit was, so I had to make the route long, laborious, and, most importantly, random. At key intersections, I laid rockfall traps. But their triggers weren't directly beneath the falling rocks. No, those laid at corners a tunnel-length away. When a party turned the corner, they'd witness the tunnel ahead of them collapse, cutting off the most direct route.
+
+Of course, to get this deep, the guilders would be quick, but the triggers were far enough away that, even running at their full speed past the trigger, they couldn't pass through before the passage filled with rocks. They'd approach the blocked path, and when faced with a choice between an open alternate route and digging through who-knows how much rock... they'd take the easier way.
+
+Which tunnel was cut off was random, as was the number of tunnels cut off in the case of intersections with more than two tunnels. I had to make the tunnels more inter-connected and connect all the traps together to prevent there being no way through. If there was only one path remaining, that path wouldn't collapse. Inspired, I went back to make all the non-hardmode rockfalls trigger when the first rockfall went off... with a condition to ensure no monsters were in the way before they fell.
+
+Wouldn't want to crush an unsuspecting group of Drake-kin. That'd be rude.
+
+I set the reset condition for these traps to be the party leaving the floor by moving forward, backward, or teleporting out. This way, every new attempt would be a fresh experience. They could map the tunnels, but they'd still have to explore and may become confused and turned around. It'd be susceptible to the right-hand trick, but having an entirely different maze every time would cancel that out.
+
+Satisfied for now, I moved further down to the Eighth.
+
+The Snowbolds, Ice Foxes, and Pyry had done Marvelously! They'd killed one party member quickly, prompting a second to abandon the rest, then engineered the death of a third. That the fourth proved far more potent and motivated than they could handle wasn't their fault. Hallmark was... something else.
+
+Speaking of the psychopath, I wanted to keep the caves he'd used, but I couldn't allow another like him to use them in the way he did. In the end, the solution was simple. Illusions woven over the caves attached to the hardmode enchantments would allow only those who didn't want to kill me to see them. I littered a few more caves throughout the mountain. Some became tunnels, one leading to a 'secret' valley where I decided to have some greenery. An enchantment heated water leaking from a 'spring' that kept the valley warm. Much of the vegetation I used was from the Tenth, as it was more appropriate than the tropical and desert plants from the Third and Ninth.
+
+Another cave led to an underground network disconnected from the other nearby tunnels. In the deepest chamber, I seeded a single Brainshroom, with instructions to keep its growth contained to the tunnels but otherwise to spread and grow its mushroom creep and Fungal Shamblers as it pleased.
+
+This was a test, of course.
+
+Disconnected from the rest of its hivemind, barely sentient and with the potential to develop further... I wanted to see what it'd do without any input from me. It had 'blueprints' of the various shamblers and the dozens of fungi species I'd developed, but otherwise... nothing.
+
+I looked forward to seeing the results, whether it would rise to the challenge or use only what I'd already given it.
+
+Back on the 'surface' of the Eighth, I decided to spend some time adjusting the mountains themselves. The First, well, I mainly left it alone since it introduced guilders to the hazards and terrain just fine. I spent far more time shaping the Second Peak. I carved dozens of routes over and around the peak. Some were harder, and some easier. On the more challenging paths, I settled a permanent cloud that hid precariously thin tracks, crumbling rock, and ambush spots for the Snowbolds to take advantage of. Another Hardmode enchantment would obscure the entire mountain, making even the 'easy' paths harder and rendering the hapless guilders unable to determine which route was safer from a distance, as Hallmark had done.
+
+Ultimately, I left the 'hard' paths accessible for non-homicidal guilders. They deserved the choice to challenge themselves. If they died? That's their own fault. I wouldn't manually activate any traps on them, though. That'd be unfair.
+
+Before I could move on to the Third Peak, I heard Kataren calling me.
+
+It'd been a few days, but it seemed she'd made her decisions.
+
+-0-0-0-0-0-
+
+The Drake-Kin Village, The Seventh Floor, The Dungeon
+
+-0-0-0-0-0-
+
+Huea sat across from Kata and sighed. Her best friend had informed her of The Creator's offers and asked her to look into how the human could hear His voice. To Huea's manasight, Kata did have some significant differences from the Children. While she possessed an ovoid core tapering to two dull points on the vertical axis, every other sapient Child had one similar. It was in the humans's mana that the actual differences could be seen.
+
+From her limited investigation, most Children had the same teal color to their mana as The Creator Himself, with only a few unique individuals possessing any other color. As far as Huea could tell, this was linked to how much mana they pulled from The Creator compared to how much elemental mana they used. Water mana tinged your mana blue, earth tinged it brown, and so on.
+
+Since most of their mana was still Teal, It only changed the color slightly. When she'd been informed of Wave's deep blue mana, she could only explain it as his mana having been overwhelmingly water-aligned at the time. He had just acted as a conduit for The Creator to provide water mana for the Water Sprites to fill the Eleventh, so that made sense. Though she hadn't visited him, Huea was sure Wave's mana would be teal again after his... transformation.
+
+And wasn't that weird to think about. Huea's just found her brother, already so different from how she remembered... and then he'd gone and changed into something entirely different. She shook her head. Now wasn't the time.
+
+She let her gaze fall back on Kata.
+
+Kata's mana was almost devoid of any hint of teal. The little there had spread from where her connection to The Creator rested. The rest was a violent riot of color she had to turn away from every so often.
+
+"You don't have any particular elemental affinity, do you?" Huea asked, wondering about the reason her mana was as it was. Kata shook her head.
+
+"No. I took the test back when I became a Guilder, and the mage who performed it said trying to do magic was a waste of time for me," the woman explained. "I didn't have enough elemental mana of any one type to cast spells, and he said it would be tough for me to be a mage."
+
+"Well, whoever it was, he said that back when you were a... Copper? Is that the proper term? It's been a long time since then, and you have a lot of mana of every element. You could learn from any Shaman and get a spell or two of every element."
+
+"That's... interesting. Thanks. But back to why I asked you to look in the first place, please?"
+
+"Right. You have the same connection to The Creator as every other Child has. The only real difference is how much other mana you have and your entirely physical body."
+
+"So, it's true..." Kata whispered, then flopped back on her bed. "Ow." Her stone bed. Yes, it had furs, but it was still a stone shelf. Perhaps they should import some wool from the Capriccios or the Minotaurs...
+
+"So, have you decided?"
+
+"There's nothing to decide, really. This is a chance to go back to the surface!" Kata exclaimed, sitting up suddenly. "I want to feel the sun on my skin, Huea! The manasuns aren't the same. I've never been so pale in my life! I could buy clothes! Not just this hodgepodge of furs and scavenged cloth, Huea, but tailored clothes! I mean, I'm sad you won't be one of my guards, but maybe we can have you visit me! I could show you around town!"
+
+Huea had to lean back as Kata stood, then started pacing the room. She'd never seen the human so excited. "Okay, I get it," Huea replied, chuckling slightly. "You're excited. And the visits sound fun, but what about the other decision?" Kata stopped in her tracks and then sat down on the bed again.
+
+"I've... been thinking about that a lot these last few days. I'm going to say yes," Kata announced with a deep breath.
+
+"And?" Huea prompted, seeing the woman hesitate.
+
+"But I'm not going to take the crystal. Respawning, miraculous though it is... I don't want immortality. The Creator also said it'd only let me get so strong, and I don't want that either." Huea smiled at Kata as the woman finished her little speech. She gave her friend a hug, then gave her a severe look.
+
+"So... are you going to call Him?" Huea asked. Kata nodded.
+
+"Yeah. Stay?"
+
+"Of course."
+
+-0-0-0-0-0-
+
+The Dungeon, Medea Island, The Kalenic Sea
+
+-0-0-0-0-0-
+
+You've made up your mind then? I asked, projecting my voice into both Kataran and Huea's heads.
+
+"I have, Creator," Kataren answered, psyching herself up. "I accept both offers but refuse the crystal. I don't want immortality."
+
+Oh? I'm glad to hear that on all counts.
+
+"You're... glad I'm not taking the crystal?"
+
+Being Immortal is a curse. To be eternal while the mortals around you wither and die... It always turns out poorly. It's necessary in the case of my Children, but I worry for their futures.
+
+Kataren looked intrigued but shook her head. "So what happens next?"
+
+We talk about alterations. I've done some thinking, and it'll be better for everyone involved if the guilders and humans on the surface remain in the dark about your origins. There could be backlash or reprisals against you for 'abandoning your humanity' or other bullshit.
+
+"Yeah... that's one of the reasons I agreed to be changed," Kataren said.
+
+Great minds think alike. So, we need to shift your features enough that you no longer register as 'human' to them. When they look at you, I want them to see something that resembles a human but very obviously is not. I have a few templates I've been thinking of. Do any of these catch your fancy? I sent her a few mental images. Basically, what I'd imagine she'd look like as classic fantasy races and a few 'monster girl' species. An Elf, a Dwarf, A catgirl, etcetera.
+
+"I... think I wouldn't mind being this one." Kata eventually chose, sending a mental image back to me.
+
+Oh Ho! Nice choice. Alright, we have a template. Any changes you want to make? Is there anything you dislike about your current body or always wished you had?
+
+I could see her turning that idea over in her head. "Well..."
+
+-0-0-0-0-0-
+
+Port Medea, Medea Island, The Kalenic Sea
+
+-0-0-0-0-0-
+
+Jerrad walked through the empty streets of Port Medea with a melancholic sigh. They'd finished the evacuations. The only ones who remained were the Guilders who'd settled into their life here and refused to leave, the levies raised from the population, and the Duke's retinue.
+
+As he entered the deserted market square, Jerrad's mind drifted back to that meeting with the dungeon. Or, Medea, as his niece had named the entity. He still found the idea of dealing with a dungeon as a person extremely strange. All his life, he'd known they were driven by base instinct. That this one was different was easy enough to understand, but this different? After standing in on several negotiations and making deals with the monsters themselves... he was beginning to appreciate how different.
+
+He sat on a bench and looked down the slight incline towards the dungeon. The Lighthouse built above the entrance remained a beacon for the ships still gathering to defend the island against the Bahrain armada. Around the cliffs, hundreds of seabirds nest. Jerrad had long suspected they were dungeon monsters rather than wild monsters feeding off the manastream. Far too... docile isn't quite the right word. Passive, perhaps. Another thing different about it. If they were dungeon monsters, were these the ones Medea was referring to? The monsters positioned to aid in the island's defense? He had no idea.
+
+Then there were the rumors. The port's fishermen and sailors had been spreading stories of giant fish for more than a month. He let his gaze rest on the side of the market where the fish hawkers usually set up. The number and size of their catch had been growing steadily for a while now... He made a few connections, and suddenly, Jerrad was struck with a horrifying realization.
+
+Medea had monsters in the ocean. It had BIG monsters in the seas around the island, and it could direct them, even outside the dungeon itself! It'd had the capacity to destroy ships for at least since the rumors started. They already knew the town's rats were dungeon monsters, but since it kept them out of storerooms and sight, they were happy to ignore that little fact.
+
+But those are just rats. They'd been writing off the rumors as whales, but... if it had monstrous whales, sharks, or any other terrifying creature that dwelled beneath the surface...
+
+Jerrad tried to calm down. This was all just a theory, after all. And even if it did have these things, it very pointedly hadn't used them on the innocent citizens of the island.
+
+Medea could be reasoned with. Bargained with. It had some kind of conscience, even if it didn't have human morals. And more importantly... it was on their side. Jerrad's thoughtful frown gave way to a vicious grin that frightened a patrol of levies as they passed by. He chuckled and wondered if the invaders would even get to the island.
+
+He stood and walked with a purpose in his stride. The sun was setting, and he was looking forward to dinner with his wife.
+
+-0-0-0-0-0-

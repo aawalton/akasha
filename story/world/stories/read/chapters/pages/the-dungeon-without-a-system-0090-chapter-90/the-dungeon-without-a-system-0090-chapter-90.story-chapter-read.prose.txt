@@ -1,0 +1,127 @@
+-0-0-0-0-0-
+
+The Dungeon, Medea Island, The Kalenic Sea
+
+-0-0-0-0-0-
+
+After directing Kataren and Huea to head to the Eleventh for more specialized training, I returned to sorting out the Eighth. There were two things I wanted to sort out before I started on the Ninth. Firstly, the bridge. It'd been used to great effect, and when the snowbolds replaced it, they made sure it could be quickly and easily released from either end.
+
+Given this is the only way between the first and second peaks that guilders currently have access to... If this was to be the ultimate trap for those truly antagonistic, where the bridge is dropped, there should be an alternate route. But first, the bridge!
+
+I enchanted the bridge itself to automate the trap under the 'hardmode' enchantment, triggering when a guilder passed the midpoint. Then, it would drop from the far end, preventing another Indiana-jones situation, where they could cling to the planks and climb up to make it to the other side. It would trigger earlier for the non-hardmode guilders, with plenty of creaking and snapping effects, so they could retreat across the bridge before it fell. The timing should allow them to make it if they sprint as soon as the creaking starts. If not, they'd have to climb the planks.
+
+But, with the most apparent route an impassible trap, there needed to be another way. I'd had a few thoughts about this since I first made this floor and finally decided to implement it. Between the two peaks, I formed a glacier. Creating the glacier itself was the problem since they were composed of compacted snow that turned to ice, eventually flowing down from mountains, carving valleys along the way. I didn't have hundreds of years to wait for this process to occur naturally.
+
+So, I'd have to make a 'false' glacier. I brought yet another tunnel of water from the ocean, desalinating it on the way, and directed it to freeze into a glacier-like state. I made a note to summon Ice Sprites in the near future since this was the perfect place to have them.
+
+The Glacier would slowly accumulate snow anyway, with the blizzards happening every other day, so I moved on to the next part of the path.
+
+I carved a thin, snaking path down both sides of the cliffs. The one on the far cliff should be visible from the bridge, and an observant guilder could spot the close side path as they sprinted back along the collapsing bridge. The route would be relatively stable, but with the standard collapsing ledges and dropping icicles that could catch out the unwary.
+
+After descending this path, they would need to cross the glacier. It was filled with crags and cracks, which would soon be covered with powdered snow. With ice sprites down here, potentium golems, and pure-ice golem bodies alike, it'd be plenty dangerous, especially with how windy it would get down there in a blizzard.
+
+With that done, it was time to move on to the second thing. Pyry.
+
+Layla's gift of a breeding pair of hawks, with some 'encouragement,' had already laid a few clutches of eggs. Most of them I brought to maturity, then let loose on the Eleventh. I took one of the males and had him brought to the Eighth. Under my careful hand, I evolved him into a second Thunderbird. Something to note was that the hawk base I evolved him from was sexually dimorphic, and I kept that in his new form. He was slightly smaller than Pyry, with a small 'plume' of white feathers on his head where she lacked them.
+
+Pyry was undoubtedly interested in the male after I introduced them, and when I left them alone, the two hawks were in the middle of a sky dance. I decided to finish the glacier now rather than put it off.
+
+I quickly ordered half a dozen Potentium golem bodies to be delivered with two dozen cores. As a side note, the cores came from my fish monsters. The Kobolds, Drake-kin, and other Children loved them, and their replenishment rate was fast enough to easily support the dungeon's various residents.
+
+The Second Peak snowbold shamans were happy to summon all the ice Sprites I wanted. The sprites were given the same contract every other sprite was given, and I provided some quickly-carved Ice Golems for those interested in the idea. I let them loose on the Glacier, leaving them with a request to contact me when one of them transforms into a Spirit.
+
+Pleased, I skipped the Ninth and Tenth for now, jumping down to the Eleventh. I had a contingency plan that I'd just thought of to implement.
+
+-0-0-0-0-0-
+
+The Eleventh Floor, The Dungeon, Medea Island
+
+-0-0-0-0-0-
+
+Wave let the currents carry him as he explored the other half of the Eleventh. While there was endless freedom and exploration in the skies, he was just as equipped to explore the ocean's vastness. He'd had a taste of this place when he was escorting the Fire Court to Isla Fuego, but as with the sky, a taste didn't compare to the real thing.
+
+Thousands of fish, of dozens of different species swam through the currents alongside him. The largest of his temporary companions were huge Sea Turtles. The elder of the bale was almost as large as Wave himself! After a quick mutual assessment, Wave judged the fight not worth it and could tell the turtle had decided the same. He was exceptionally well-armored, and his leathery flesh was almost as tough as his shell, making him slow and lumbering. Wave was significantly quicker and more agile when you added his water and ice magic to the equation.
+
+After giving a friendly wave to the turtle hatchlings, who waved back enthusiastically, Wave dove out of the current.
+
+He emerged near a quickly growing coral reef. A quick trip to the surface showed he was near Isla Fuego, and now that he was looking, he recognized the contours of the ocean floor. The slopes leading up to the volcanic island were now littered with seedling corals of every kind he could imagine, and Wave could see hundreds of little fish making their homes in the coral's shelter. In deeper waters, Wave could spot a pod of whales, a giant shark, her pups, and even the trailing tentacles of a giant squid as it made for deeper waters.
+
+He swam closer and circled the island for a time. He briefly popped up to the island's shore and chatted with a nearby golem. The golem was relatively small for a Magma golem. And it wasn't one he recognized, either. The newly summoned sprite, for that is what it was, had been exploring the island and getting a feel for its new body. Or, that's what he could tell from its rather simplistic thoughts.
+
+He bid it farewell and to pass on a greeting to Igna, then dove back beneath the waves.
+
+After passing the small reef, Wave's senses tingled.
+
+His eyes were drawn back to the whale pod. He wasn't sure of the species, but they were definitely baleen whales and a vast species, too. He watched with awe as they grew to at least three times their previous size. There were a few more visual changes, but their new size was the most striking. Such a sudden and overwhelming change... He was watching The Creator at work. Intensely curious, Wave just had to ask.
+
+"Creator, what are these enormous monsters?" He sent down the warm connection in the back of his mind. A few seconds later, The Creator's attention drifted his way.
+
+These are Leviathans. I have one larger than these in the ocean on the surface and felt it would also be good to have a pod down here. I plan on adding a few Kraken and Sea Serpents too.
+
+"They are enormous... Are the 'Kraken' and 'Sea Serpents' just as large?"
+
+Hah! These are on the small side. Most of the changes I've made to them are internal. They'll continue to grow for the rest of their lives, though I might have to intervene if they grow too big. I want to avoid multiple-miles-long monsters in this little ocean. It's a little small for such sizes. As to your other question... The other two are big but nowhere near as large.
+
+Wave tried to imagine a monster that spanned whole miles... and failed. He just couldn't grasp the scale of them.
+
+"What else are you doing down here?"
+
+Ah. Apart from growing some sea monsters and making some contingency plans, I did have one other thing to do. Wave, I need your help, though this task is far less life-threatening than the last.
+
+"How can I help?" Wave asked immediately, without hesitation.
+
+As the only Child to have gained wings, I need your help to teach someone how to use theirs.
+
+"Can you not give them the instincts to use them, as you did for me?"
+
+I did, but there are some mental barriers to be overcome, and I was exceptionally light in any mental changes. They're over at... Dawn Beach, you named it?
+
+"They?"
+
+Yes, Your sister accompanied your future student and is also here to visit. Have fun!
+
+Buoyed by joy, Wave quickly gathered momentum and breached the waves. With a roar, he caught the air under his wings, switching from his gills to his lungs and hiding away his aquatic adaptions. He gained some altitude, then banked, turning towards Dawn Beach. It was a short flight, and he could already see two figures standing at the crest of the dunes. One waved as he approached, while the other hid behind the waving figure.
+
+He felt a mischievous urge overtake him. There was nothing wrong with pranking your siblings, right?
+
+-0-0-0-0-0-
+
+The Dungeon, Medea Island, The Kalenic Sea
+
+-0-0-0-0-0-
+
+Leaving the Eleventh, I brought my attention to the surface. My rats had been tracking patrols and any other congregation of the militia. At the same time, the seagulls kept an eye on the growing number of ships moored offshore. There were a couple of dozen warships now, though only three were of a significant size. If I had to make comparisons, I'd say the largest rivaled men-of-war from Earth's exploration era. Another six were frigates, ten were brigs, and the rest were schooners. Gathered as they were, it was an impressive sight.
+
+But from what my seagulls were overhearing, they were far from confident.
+
+The admiral of the Eastern Fleet would get here after the Bahrain reached the island, and the commodore, who looked pretty young and inexperienced, was the highest-ranked officer around. While he put on an impressive front among the gathered captains, he was a mess in private.
+
+The navy obviously had yet to be informed of the guild's request for my assistance, given the plans they were making didn't mention me. In fact, it seemed like the Guildmistress asked me without informing anyone in the first place. That... might be a problem later, but it was her job to hold up her end of the bargain.
+
+I had a seagull sneak into the commodore's cabin when he was on deck and read through a couple of letters. From their estimation, the Bahrain were invading with almost their entire navy force, leaving only enough to protect their ports from pirates. And they'd been busy. The numbers were... daunting. I doubled the height my patrolling gulls were flying. I needed as much warning as I could get.
+
+Their preparation amounted mostly to doing a few drills and wargames while they waited, but they didn't expect to do much. Perhaps they'd manage a one-to-one k/d ratio, but that'd barely dent the Bahrain fleet, leaving the rest free rein to invade the island, wipe away the local resistance, and set up shop.
+
+I'd put in a lot of work, training the locals, and I didn't particularly feel like breaking in a whole new group who wanted to settle on my shores. I had a five-mile range around me, which I could influence, and standing on the deck of a ship, you could only see about 3 miles until the horizon hid any incoming vessels.
+
+That meant I had a two-mile window to ravage the Bahrain fleet without alerting the Phenoc to my interference, disregarding any patrolling schooners around the island. At that range, the Leviathan was my go-to. She was easily large enough to swallow ships whole, and if they were too big she'd undoubtedly take a bite big enough to sink them. She could breech and fall on the larger ships, though I was unsure about her resistance to cannonballs. She was untested, after all.
+
+But I had no doubt she'd strike fear into the hearts of every sailor on that fleet.
+
+When they reached the 3-mile mark, they'd be close enough for the Phenoc fleet to spot from the island, and my Sea Serpent would take over. It was long enough to wrap around ships and then snap their spines. The Leviathan would continue breaking vessels as they passed through her zone if she survived that long. When they reached a mile away, the Kraken would engage whatever survived the first two, regardless of whether the Phenoc engaged. Meanwhile, Gull and his legion could pick off commanders, throwing ships into chaos.
+
+Honestly, I thought the Bahrain would indeed make it to shore. The Leviathan might survive, but the Serpent and Kraken had scales and hide where she had layers of blubber, leaving them far more vulnerable. I expected two things to happen once they committed to the actual landing.
+
+First, the island's militia would do their best to fight them on the beaches. Given their skill level and limited training, I didn't expect them to do well. I had no idea how strong the Bahrain's army was, though. I couldn't imagine they'd ignore literal magic in a real military force. I didn't know how they'd integrate mages or other mana-enhanced individuals into their troops. Would they be like champions? Fighting in a cleared circle while the average people around them slaughtered each other?
+
+I could only interfere here by having bloodfish bite holes in any rowboats they might use. They'd be useless if the ships beached themselves instead. Otherwise, it was too shallow in the foreshore, even if they invaded at high tide!
+
+The second thing is that the Medea Island Guild would get involved. If not the guild itself, then it's members. I'd already overheard dozens of conversations affirming their commitment to defending their home, regardless that they were meant to be neutral.
+
+I applauded them. There was no point defending your people from inhuman monsters, just to let them die to the very human monsters who wanted what they had and weren't asking.
+
+Depending on how many mana-enhanced soldiers the Bahrain had and how many soldiers made it through my sea monsters... In the best case, the guilders keep them from getting a foothold, push them off, and the remaining invasion force retreats in shambles. Worst case, they'd be slaughtered, and the Bahrain take over. They invade me regularly, and depending on their attitude towards dungeons and their attitude in general...
+
+Well, no plan survives first contact with the enemy. I'd just have to wait and find out.
+
+-0-0-0-0-0-
