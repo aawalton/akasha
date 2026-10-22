@@ -25,6 +25,10 @@ export const surplusReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "From the 04:00 day boundary, a day Alan has not opened yet reads zero.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A day moved into akasha is read from akasha.",
     },
     {
@@ -86,5 +90,5 @@ export const surplusReading = {
     },
   ],
   createdAt: "2026-09-04T00:05:05.441Z",
-  updatedAt: "2026-10-20T11:11:50.885Z",
+  updatedAt: "2026-10-22T14:49:16.907Z",
 } as const satisfies Module
