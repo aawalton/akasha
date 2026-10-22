@@ -1,0 +1,113 @@
+She had seen it countless times before in her games. Level one units were fragile by design. Cheap to train. Fast to deploy. Easy to replace.
+
+And easy to kill.
+
+Riley closed her eyes briefly and made a mental note she knew would change everything going forward. Even if she trained a massive army of level one soldiers, it would never be enough. Numbers alone would not let her stand against an organized force with higher level troops. Not without a real edge. Not without upgrades, training, or something that changed the balance.
+
+Quantity without quality only delayed defeat. She had learned that lesson the hard way more times than she could count.
+
+In her games, failure had always been reversible. A reload. A restart. A lesson absorbed without consequence beyond frustration. Losses were numbers that reset once she optimized the approach.
+
+Here, there were no resets.
+
+Every death left a gap that could not be patched with a better build. She could already see the pattern forming: cheap troops bought time, but time alone did not win wars. Time without preparation simply delayed the inevitable.
+
+If she wanted this place to last, she needed to stop thinking like a player farming early advantages and start thinking like a ruler preparing for midgame threats.
+
+The hospital doors opened and another stretcher was carried inside. Riley pulled up the HUD and reviewed the healing requirements.
+
+The hospital could save them.
+
+Healing all the soldiers, at their level, took approximately one hour. The cost was manageable. Food, wood, and stone only. No ore. No gold. Not at this level. Level one troops were cheap to heal because they were expected to break.
+
+Riley swiped to the inventory menu in her HUD to check what stock she was working with.
+
+“Great,” she cursed to herself. Just what she had expected. The raid had also reduced her inventory. Significantly. This was the challenge with resources; you were constantly working just to make enough to sustain daily activities. Everything drew on those resources: troops, buildings, research, the forge, upgrades, and now healing. Nothing existed in isolation. Gathering fed training. Training fed defense. Improved defense demanded weapons. weapons demanded ore. And healing pulled from everything at once. The system wasn’t designed to let settlements grow comfortably. It was designed to force tradeoffs, sharp ones, where every decision created a weakness somewhere else. It was difficult to get ahead.
+
+And raids exploited those weaknesses because when you get attacked, even resources checked into the system are drawn down. Riley smushed her face with her hands. “All that work, gone.” She let herself wallow for just a moment. No time for a pity party now, Riley. She exhaled slowly.
+
+The first thing she needed to do was heal her soldiers. She needed everyone back at full capacity so that they could start working to replenish the inventory and give her enough to start timers again.
+
+Between Valrik, her five uninjured soldiers, Thorne, and herself, they could gather what was required within the hour. She would focus on food, wood and stone for now to satisfy the healing requirement. Ore and gold would come later.
+
+Right on time, an hour later, as the soldiers brought in the last of the resources, Riley wasted no time in bringing up the HUD to start the healing timer.
+
+❖ Heal: 16 Injured (1 hour)
+
+“In an hour, when the men are all healed, we will need to work as hard as possible to rebuild inventory,” she explained to Valrik. She proceeded to give him exact instructions for how she wanted the men deployed on resource gathering. “I’ll be checking regularly so that I know when I can begin working on my plans. You will have your weapons soon enough.”
+
+“We will follow your instructions exactly,” Valrik confirmed.
+
+“But be careful in the mine. Until we get a new engineer, I don’t want another incident. Use that first raider too. But remember not to let the two see one another.”
+
+Valrik stomped a foot on the ground, pivoted and hurried off to execute Riley’s orders.
+
+She stepped outside for some air and to gather her thoughts. Her gaze drifted toward the wider settlement as her thoughts shifted forward.
+
+Riley clenched her hands at her sides.
+
+The raiders had hit the mine because ore mattered. She had thought her operation was small, and maybe it was, but apparently size didn’t matter because all that mattered was what was coming out of it. Ore, in any quantity, was desirable. And she knew now she was a target. If they had come for her ore once, they would do it again.
+
+If she wanted this place to survive, she could not rely on her troops alone. They could only do so much. And that put too much responsibility on their shoulders. Especially for level one troops. She needed systems that worked independently of whatever else might be going on around them. Buildings that produced food, soldiers, weapons without needing hands to aid in that production.
+
+Infrastructure didn’t bleed. It didn’t panic. It didn’t sleep.
+
+If she built correctly, the settlement itself would shoulder part of the burden, buying time, creating structure, reducing the cost of every future mistake. That was how real power scaled. Not through bodies, but through systems.
+
+She needed something sustainable. She needed tangible protection because she was going to go up against kingdoms that had years of existence ahead of her; they had bigger, better, stronger armies so she needed to out-smart them.
+
+She looked back at the hospital doors as they closed again.
+
+Level one troops were a starting point.
+
+Not an endgame.
+
+***
+
+She found a quiet stretch of ground near the tower where she could see most of the settlement. Activity was picking up. Hammer strikes echoed. Wood was hauled into place. Soldiers shifted roles without complaint.
+
+She would take advantage of this stillness as it would give her time to think.
+
+Smoke drifted upward from the forge. Soldiers moved with subdued urgency. The mine entrance stood erect, but still exposed.
+
+She closed her eyes. There was no time to linger. She needed to keep momentum. She pulled up the HUD to help her sort the chaos into something usable. It would help her think through what she needed to prevent this from ever happening again. What she needed to secure a safer, more prepared future. As she set the day’s timers, each decision clicked into place with the clarity.
+
+The first priority was replacing what had been lost. Bramholt. She took a moment to acknowledge his death. If only the hospital could have saved him. But she knew that was not how it worked. Hospitals were for troops, not special personnel. Engineers were not replaceable like infantry. Bramholt hadn’t just been another worker. He had been knowledge. Experience. Judgment. The kind that couldn’t be rushed or trained overnight. Losing him wasn’t a delay, it was a fracture in every plan that depended on stone standing where it was placed. Without one, structures failed, mines collapsed, plans stayed plans. The mine could not be a liability. Without an engineer, it was only a matter of time before another collapse jeopardized her troops.
+
+❖ Barracks Timer: Engineer = 1 (8 hours/1 special personnel)
+
+She stared at the timer longer than normal.
+
+Next came preparedness. The raiders had come in silent and unseen. No warning. No time to react. By the time anyone realized what was happening, it was already over.
+
+A watchtower would change that.
+
+Height meant sight, over treeline and over terrain. Sight meant early detection, even if only for a moment. And a moment meant seconds. Enough time to sound an alarm. Enough time to grab weapons. Enough time to form up instead of breaking apart.
+
+Seconds meant lives.
+
+For what it was worth, the fact that it would only take two hours to build was a great deal.
+
+❖ Building Timer: Watchtower = 1
+
+Now protection. The settlement was open. Too open. Walls would not stop a determined force, but they could slow down some intruders. Funnel them. Buy time. Time for soldiers to arm themselves. Time for Thorne to react. Time for decisions instead of panic. She opened her eyes to scan the settlement and trace the perimeter in her mind. The river side. Definitely the northern approach. Two gates placed deliberately in only those two directions. If she started now, she could build them up over time. Walls would not rise all at once. They would creep outward in sections, visible proof of intent long before they offered real protection. They would go up in sections, a slow tightening of control.
+
+The system confirmed what she already knew. Building walls around the entire base would take all day.She accepted that cost without hesitation. In a couple hours, when the watchtower was done, she would come back to initiate this item.
+
+❖ Building Timer: Wall = 1 (wood with 2 gates toward river & north)
+
+Defence. Her soldiers had been holding tools when arrows found them. Close combat had already found them unprepared once. She would not allow it to happen again. Thorne had asked for it too. She thought back to the other day when she had been watching Valrik drill his infantry. They had long spears in hand which were good for reach and formation fighting but useless once lines broke and enemies closed the distance. Every soldier needed a sword and shields.
+
+❖ Forge Timer: swords, shields
+
+The timers locked in.
+
+Riley let the HUD fade and looked out over the settlement.
+
+This time she saw her humble settlement differently. Not as a fragile camp reacting to threats, but as something that could become defensible if she built it correctly. She was not reacting now. She was building something meant to endure.
+
+She let out a slow breath.
+
+This was not about surviving the next attack.
+
+This was about making sure the next attack wouldn’t be easy.
