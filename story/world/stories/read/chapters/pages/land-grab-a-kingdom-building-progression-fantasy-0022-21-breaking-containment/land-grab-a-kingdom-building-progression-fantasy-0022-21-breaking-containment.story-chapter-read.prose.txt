@@ -1,0 +1,207 @@
+As Tavian reentered the Core Courtyard, Braun, Cormath, and Calli scrambled down the steps from the wall where they’d been watching him.
+
+“He looks furious!” Braun said, grinning.
+
+“We need to get back up in the tower,” Tavian said. “I’m sure he’s going to get aggressive now. I wish someone else could update this map!”
+
+Lea fell in with him. “You can do that,” she said. “Core perks can be added to any Class you’d like. Hexsight and Map Maker are Tier I perks, so they cost 1 Essence to add to a Class.”
+
+“Good, I’ll do that,” Tavian said, looking around. “Calli, can I borrow some of your girls as scouts?”
+
+Calli called over three of her handmaidens, and Tavian gave each girl a Tier 0 Class; no stat bonuses, nothing but the Map Maker perk. The Class cost him an Essence to assign. The last young woman blushed prettily as he clasped her by the shoulders.
+
+⬣ New Class Created: [Scout] ⬣
+
+“You’re a [Scout], now,” Tavian explained. “I need you up in that tower, constantly scanning the fortress, so that my map stays up to date.” The girls nodded, then ran off to fulfil their new assignment, giggling as they went.
+
+“It went that badly, eh?” Cormath asked.
+
+“He really wants us out of this keep. He kept pushing, and it just made me more certain that there’s something he wants here, badly. It’s got to be down in the dungeon,” Tavian said. “We need to get down there and figure out what’s going on.”
+
+“I can lead a team,” Braun suggested. “Let’s go now.”
+
+Tavian shook his head.
+
+“Why won’t you let me go?” Braun asked.
+
+“Not yet,” he said. “We have a more immediate problem. The dungeon can wait. Going down there is going to stir up more miasma, and that’s going to cause problems for us if we’re encircled and bleeding Essence. We’re going to break the encirclement.”
+
+“How?” Braun asked. “If we claim more tiles, we’re going to lose Influence.”
+
+“We’re going to use claimstakes,” Tavian said. “And we’re going to get more Essence.”
+
+He pulled up his map interface and checked the Anarvian claim. “If we go through the throne room, we can cut through their claim,” he said. “They’ve only made it two tiles thick here, so it’s an ideal target. And as we pass through the throne room, we’ll loot it for anything we can sift.”
+
+Braun nodded slowly. “I like it,” he said. “Those statues in there, and the decorative armor will probably yield a lot.”
+
+“Excellent observation,” Tavian said. “I wasn’t even thinking about the armor, those will be good. But we’re going to have to spend Essence to gain Essence.”
+
+“What is a claimstake, my lord?” Cormath asked. “Where will we get them?”
+
+“It’s a magical spell,” Tavian explained. “I’ll assign it to a new Class.”
+
+Tavian started working on the Class. A Tier II Class gave him two stat points to assign; one of those had to go into Magic so that [Claimstake] could be used. The other could go into any of the three stat types, so…
+
+Survivability was going to be important. Constitution it was. Add in the Hexsight Perk, and he had an effective but expensive Class ready to go.
+
+Tavian assigned it to Braun and Cormath, for a total cost of 14 Essence.
+
+Cormath raised an eyebrow when he saw the name of the Class, then grinned at Tavian. “Claimbuster, eh?”
+
+⬣ New Class Created: [Claimbuster] ⬣
+
+⬣ Spells: ⬣
+
+⬣ [Claimstake] ⬣
+
+⬣ Perks: ⬣
+
+⬣ Hexsight ⬣
+
+“Should be everything you’re going to need,” Tavian said. “But please don’t die. That is an expensive Class.”
+
+⬣ Kingdom Status ⬣
+
+Each extension was a risk. Tavian didn’t like it.
+
+His system map updated as the new [Scout] reached the tower and began scanning their surroundings. Anarvia had, indeed, begun more aggressively claiming tiles. The salient to the west had wrapped around the keep, looping out wide to avoid the miasmic turbulence, and was seeking a path to meet up with the eastern chain to complete the surround.
+
+“We’ve got to go now,” Tavian snapped.
+
+A short time later Tavian led his forces out through the Air Gate, past the stairway down to the vault and toward the throne room. He’d left a skeleton defense back in the courtyard, and brought a Half Block of men with him: 72.
+
+They crossed through an unclaimed tile in the halls, then entered the throne room.
+
+It had already been looted. Anything light enough to move without a cart—tapestries, gilded seats, banners, busts, and rugs—was missing. The Anarvians had likely already sifted all these treasures into Essence to feed their core.
+
+The bodies were also gone. Dark stains of blood left splotchy shadows on the bare stone floor.
+
+Tavian walked to the place where his father had died. He stood beside the crust of dried blood.
+
+They had taken him, and used him as fuel.
+
+A dull ache swallowed his soul.
+
+Cormath stood beside Tavian. He placed a hand on his shoulder, but didn’t say anything.
+
+The Anarvians hadn’t taken everything. Heavy pieces of decorative armor, full sized statues on ornate plinths, even the carved wooden woodwork of the gallery railings all remained. They could use all this.
+
+“Start gathering everything we can move,” Tavian said. “We need more Essence!”
+
+Men got to work, but they were going to need more than just enthusiasm to gut the throne room.
+
+Tavian claimed two tiles; the tile containing the throne room and the tile connecting them to the courtyard.
+
+⬣ Kingdom Status ⬣
+
+“By Ishtoran,” he muttered. If miasmic turbulence started flipping his tiles, the whole thing could run away from him in a vicious cycle of draining Essence.
+
+The added Influence allowed men to pick up and carry statues weighing hundreds of pounds, and begin carting them back to the courtyard.
+
+“Make sure that they sift those as soon as you get there!” Tavian ordered.
+
+“Tavian,” Braun said. “The throne!”
+
+Tavian’s gaze went to the huge seat. Sunlight shone on it through broken stained glass windows.
+
+“Bring it,” Tavian said. “The whole thing.”
+
+Men began working to pry the heavy stone seat from the dais. In the end, it took a full fist of soldiers to lift it, even enhanced with Influence. They hauled it out of the nearest entrance.
+
+The throne room’s majesty had been stripped away. Debris littered the floor, and bare stone walls looked on ominously. Upper galleries looked down into the barren room. The space had been designed to hold hundreds of people, to watch the rulings of the king.
+
+With so many doorways and windows, the room was a strategic disaster. They’d never be able to hold these tiles if Anarvia decided to claim them.
+
+“Tavian,” Lea said warningly. “They’re nearing a complete encirclement.”
+
+“Braun, Cormath, let’s go!” Tavian shouted, and they gathered their forces at the far entrance, preparing to strike out into Anarvian territory. A portion would remain behind, protecting their retreat back to the courtyard.
+
+“Their claim is only two tiles wide,” Tavian said, pointing down the dark corridor. “Braun, you hold the first one, and use [Claimstake] to start draining the tile’s Essence. Cormath, you take the second. If we can defend the claimstakes until they complete, the tiles will neutralize. They’ll lose their claim to all the tiles not directly connected to their Core.
+
+“Ready?”
+
+Braun and Cormath nodded.
+
+“As soon as we set foot on their claim, they’ll know,” Tavian said. “And they’ll try to stop us.”
+
+A single neutral tile separated their territory from Anarvia. Tavian felt the loss of Influence as he stepped beyond the boundary of his kingdom.
+
+They sprinted down the hall of the keep, sunlight punctuating the darkness as it beamed though windows high overhead.
+
+Stepping onto the Anarvian tiles was like a punch in the gut despite there being only two Influence working against them.
+
+Braun scrambled as deep onto the tile as he could manage. He lifted his arms and activated [Claimstake].
+
+A tornado of elemental colors swirled out of the ground between his feet, condensing into a solid pillar of crystal, three meters tall. Essence billowed out of the top, like smoke from a chimney.
+
+Anarvians were already running down the hall toward the claimstake. They only had about a dozen minutes to destroy the structure before the spell completely drained the tile of Essence, flipping it neutral.
+
+Braun’s men took up a defensive posture around the stake, as Cormath’s soldiers met the enemy, trying to fight through to the next tile to erect the next claimstake.
+
+Tavian fought alongside Cormath, his former mentor wielding his blade with deadly precision.
+
+Fighting under the oppressive weight of 2 Influence slowed every action that Tavian made, forcing him to fall into Stone stance, a strong defensive posture. He blocked the more rapid, more energetic attacks of his opponents, conserving his energy as he tried not to fight against the Influence.
+
+Nearly two dozen Anarvians faced them here, matching their numbers. Tavian had skilled fighters on his side. In a fair fight they would probably win. On enemy territory, they were outmatched.
+
+But as they held the line, Anarvian Influence weakened. Tavian felt the air loosening around him, his movements growing sharper, crisper. Anarvian Influence in this tile was down to 1.5. He downed two men, and suddenly he and Cormath were breaking through their line, advancing onto the next tile.
+
+Tavian defended Cormath as the man summoned a claimstake. It grew from the tile, and began weakening Anarvian Influence there.
+
+The Anarvians aborted their attack on Braun, turning instead to fight Tavian and Cormath. The battle dissolved into a close quarters melee, as lines broke down and men struggled for survival.
+
+Down the hall, Tavian saw a neutral tile flip to Anarvia. Lord Anarvia was shoring up his lines, making it harder for Tavian to cut through.
+
+He was going to have to claim more tiles to break this enclosure.
+
+As he realized the problem, Tavian claimed two more tiles: the neutral tile separating his kingdom, and the tile Braun was currently draining.
+
+⬣ Kingdom Status ⬣
+
+What were Calli and Vanal doing with the loot from the throne room? Tavian needed that Essence.
+
+With Braun’s claimstake and the Influence overwhelm attack of Tavian’s hextile, the Anarvian claim soon fell.
+
+The claimstake evaporated and Tavian’s men instantly began winning the fight. Anarvians fell back, and Braun pressed forward, moving up to defend Tavian and Cormath, where they fought on an Anarvian tile.
+
+Then, taking a risk, Tavian claimed the tile where he stood as well.
+
+⬣ Kingdom Status ⬣
+
+“Come on, Calli,” Tavian gasped. The tile he’d just claimed was surrounded on 5 sides by Anarvian tiles, opening it up to being flipped, even by an Influence overwhelm attack from significantly weaker tiles. The Anarvians tried to retreat to their own claim.
+
+“One more!” Tavian shouted, cutting down the men around him in a flurry of activity. “One more tile!”
+
+Without Anarvian resistance, they could rush forward—
+
+“My lord!” A soldier ran up from behind. “They’re assaulting the throne room, with mages. We need backup. They’ve planted a claimstake!”
+
+Tavian cursed, looking down the hall toward the remaining Anarvian tile.
+
+If they fell back to defend the throne room, Anarvia would complete the encirclement.
+
+If he pushed forward, Anarvia would break his claim on the tile and cut him off from returning to the courtyard.
+
+Shouts and the clash of steel on steel rang out in the halls. If they were cut off now, how would they get back?
+
+Tavian shouted to his men, waving them forward. “One more tile!” he ordered, and they sprinted down the corridor.
+
+Cormath reached the undefended tile, and immediately activated his claimstake. Essence billowed from the crystalline structure, but it wasn’t fast enough. They had to break through before Anarvia solidified his defenses.
+
+Tavian claimed this last tile, cutting through to the neutral area. All the Anarvian claimed tiles to the left flickered to neutral.
+
+“Yes!” Braun exclaimed.
+
+In the same moment, their own Influence faded, rushing away. The tiles beneath their feet turned neutral.
+
+They were cut off.
+
+Tavian turned to face the corridor where the enemy would be coming for them. His men fell into formation, locking their shields together.
+
+Tavian examined the map, preparing to reclaim tiles.
+
+The distant sound of marching echoed in the hall.
+
+Soldiers shifted nervously, weapons ready. Heavy breathing and the sound of creaking leather grew loud in the silent hall.
+
+But no enemy came.
