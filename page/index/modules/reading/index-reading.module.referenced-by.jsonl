@@ -242,6 +242,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/temper/combat-compare/temper-combat-compare.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/temper/eso/generate/item-sets/temper-eso-generate-item-sets.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/temper/set-text-compare/temper-set-text-compare.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/temper/skill-check/temper-skill-check.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/temper/stat-compare/temper-stat-compare.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/temper/tooltip-compare/temper-tooltip-compare.command.code.ts","typed":false,"deferred":false}

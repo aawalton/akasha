@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"set-catalog-loading.module.code.ts","path":"change/agent/page/restate-tooltip-cases/restate-tooltip-cases.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"set-catalog-loading.module.code.ts","path":"command/pages/temper/build-show/temper-build-show.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"set-catalog-loading.module.code.ts","path":"command/pages/temper/combat-compare/temper-combat-compare.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"set-catalog-loading.module.code.ts","path":"command/pages/temper/set-text-compare/temper-set-text-compare.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"set-catalog-loading.module.code.ts","path":"command/pages/temper/stat-compare/temper-stat-compare.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"set-catalog-loading.module.code.ts","path":"command/pages/temper/tooltip-compare/temper-tooltip-compare.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"set-catalog-loading.module.code.ts","path":"temper/player/character/stat/modules/character-rotation-reading/character-rotation-reading.module.code.ts","typed":false,"deferred":false}

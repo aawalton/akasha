@@ -582,6 +582,8 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/picture/temper-picture.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/quest-port-trace/temper-quest-port-trace.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/quest-port-trace/temper-quest-port-trace.command.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/set-text-compare/temper-set-text-compare.command.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/set-text-compare/temper-set-text-compare.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/skill-check/temper-skill-check.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/stat-compare/temper-stat-compare.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/stat-compare/temper-stat-compare.command.test.ts","typed":true,"deferred":false}
