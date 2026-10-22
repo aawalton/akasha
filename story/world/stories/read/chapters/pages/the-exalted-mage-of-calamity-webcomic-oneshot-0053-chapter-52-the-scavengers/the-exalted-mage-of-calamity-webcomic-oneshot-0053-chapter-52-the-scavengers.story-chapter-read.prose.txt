@@ -1,0 +1,209 @@
+“This doesn’t make sense,” Veronica muttered.
+
+She stepped out of High Crates with the documents clutched tightly in her hands. By the time she had put several blocks between herself and the building, a deep frown had settled across her face.
+
+[Are you referring to Mr. Galland’s debt?]
+
+“Yeah,” she replied, slipping into an empty alley to avoid the rush of foot traffic. “How does a junior merchant end up carrying that much liability? Even with a contract, leaving a decision like that to someone with so little experience feels negligent at best.”
+
+[Mr. Dain stated that Mr. Galland had volunteered for the position.]
+
+“That’s great and all,” she said, crossing an intersection without slowing, “but that doesn’t change the structure of things. Seriously. No oversight? And it bothers me that he had a news article sitting on his desk that would have solved the problem and he ignored it. Was Galland always that foolish?”
+
+She rounded the corner; the inn came into view.
+
+“If a shipment that large was lost, there should’ve been more uproar, right? It feels strange to square the blame on two people alone, even if whatever contract they had said so in its terms.”
+
+By the time she reached the inn, her irritation was tempered, but instead, it made her thoughts spiral. She entered without speaking to anyone and made her way upstairs.
+
+Only after the door shut behind her did she release a slow breath. She set the contract on the stand beside the bed, removed her boots, and lay back against the sheets.
+
+The room was silent save for the faint rustle of fabric and the murmur of her own voice.
+
+“Either I find a way to earn the money myself and pay it off… or I find a way to invalidate the contract binding him,” she said. “Sage, is there anything in the law that could render the debt unenforceable? Something I could use to challenge it?”
+
+[Unfortunately, without additional details, I will not be able to reliably argue the case in his favor. Furthermore, you lack formal legal training. You would have to fight for it on his behalf or hire a representative, as I cannot speak to others directly.]
+
+She clicked her tongue in irritation.
+
+Maybe she could ask the viscount?
+
+No. He was already compensating her with hartivel vines and a substantial sum of vix. Pressing further would strain the goodwill she had only just secured.
+
+Perhaps she could take guild commissions and repay the debt gradually?
+
+That seemed unlikely. With her current rank and guild restrictions, the highest-paying contracts remained out of reach. Even the Rocky extermination had paid less than four thousand vix.
+
+At that pace, it would take weeks—perhaps months—to approach the required sum. And that assumed consistent payouts. Not to mention, she still needed to advance and grow stronger if she wanted access to higher-tier commissions.
+
+“Sage,” she said, exhaling slowly, “in the future—what time does he reach Annesheim?”
+
+[My records state that Mr. Galland first arrives in Annesheim in approximately three years and four months.]
+
+She frowned.
+
+Ninety-four thousand vix.
+
+He had repaid roughly thirty-six thousand in three years. That meant eleven thousand per year. At that pace…
+
+“Eight to nine more years,” she said aloud.
+
+At his current repayment rate, he should have remained bound to High Crates for nearly a decade.
+
+So how had he shortened that time so drastically?
+
+“Yeah, none of this makes sense,” she said quickly. “Something changed.”
+
+Her brows knit together.
+
+“Or… something changes. You don’t know what happened, do you?” she asked. “Why he arrived early? Anything about his history with High Crates?”
+
+[There are no records of his time or tenure at High Crates or any mention of his debt.]
+
+“What about the caravan? Anything on a shipment being attacked by bandits?”
+
+[There are no records. Private and minor regional trade losses are not typically stored in my archives unless they have a considerable socioeconomic impact.]
+
+Veronica groaned softly. “Damn it. Then what am I supposed to do? There has to be a reason his debt vanished so quickly. If I could just figure out why…”
+
+Nothing about him suggested urgency. During their meeting, Galland had presented himself as meek—nothing like the confident merchant whose name would one day spread throughout Vitian.
+
+By all appearances, he was repaying his debt at a normal pace. There was no sign he was working toward a sudden breakthrough.
+
+“Okay. What about High Crates? Any significant events involving them that could be related to Galland?”
+
+[There are no major events involving the merchant house that appear related to Mr. Galland.]
+
+Her eyes narrowed further as she stared up at the ceiling.
+
+“Then broaden it. Anything in your archives about alchemists losing profits and refusing to use High Crates again? Or any canceled contracts with Lilybed?”
+
+There was a long pause—so long that Veronica’s eyes drifted shut, on the verge of sleep.
+
+[There are no significant results in relation to High Crates and Lilybed. However, there is a record of the Scavenger Transport Company being dissolved in three years. This coincides with the timeline in which Mr. Galland departs for Annesheim.]
+
+“Scavenger? That’s the mercenary group that protected the caravan, right?” Veronica asked, opening her eyes. “Why did they disband?”
+
+[The Scavenger Transport Company is formally dissolved following a court ruling. Charges include extortion, falsified loss reports, bribery, and coercive labor contracts. Several senior figures of the company are imprisoned]
+
+Veronica slowly sat upright.
+
+“That’s… a lot of charges. What happened?”
+
+[During trial proceedings, evidence surfaced of collusion between certain Scavenger leaders and senior members of multiple interconnected groups. These include merchant houses, mages of the Mage Tower, local farmers, minor nobility, and weapon manufacturers. Among those implicated were three individuals affiliated with High Crates.]
+
+“What?” she asked, startled. “Are you saying High Crates was involved in this? Some type of scheme targeting Galland?”
+
+[No. The High Crates merchant house itself was not implicated. The operation appears to have been a closed system among a small number of individuals, unlike the Scavenger scheme, which was widely known within their circle. There is no direct evidence that Mr. Galland was specifically targeted, but the probability is high given his circumstances]
+
+Veronica leaned back, bracing herself on her arms atop the bed.
+
+“So the house survives,” she murmured. “But specific men fall. And that’s why there’s nothing noteworthy about High Crates in your records. They used a few scapegoats to take the blame. Just like they did with Galland.”
+
+She exhaled slowly.
+
+“What exactly was the Scavenger scheme? And how did they get caught?”
+
+[There were several charges, however, only a few were found credible. They worked in coordination with other companies, exploiting punitive contract clauses. By falsifying records or tampering with shipments, they created damages or losses that forced new contractees into increasingly unfavorable labor conditions. This resulted in members working for free without pay.]
+
+“So that’s what it is,” she said. “A conspiracy. One that targets new workers and keeps them indebted to the companies for years. And once it’s exposed, all those bound by these blood-contracts are released.”
+
+Veronica stood.
+
+“Alright. Perfect. I just need to expose the Scavengers’ wrongdoing and clear Galland’s debt.”
+
+She drew a steady breath.
+
+“Sage… how exactly does the scheme fall apart in the future?”
+
+[The Scavengers attempted their scheme once more, this time involving several alchemists from the Mage Tower. However, one day a mysterious man appeared at City Hall and submitted forged documents created by the Scavengers, along with recordings from surveillance artifacts that revealed incriminating conversations. The evidence was brought to Viscount Leopold’s attention, and all parties were sent to trial.]
+
+“Who is the man?” she asked.
+
+[Their name has been redacted from all records. Presumably to protect their identity.]
+
+She frowned and crossed to the mirror, wetting her hands before splashing cool water across her face.
+
+A mysterious man had simply appeared with evidence? How?
+
+Had he broken into the Scavengers’ headquarters and stolen their documents?
+
+“I can’t wait three years for that to happen… I need to set things in motion sooner,” she said, lowering her hands to the basin. “If I can just expose the Scavenger officials, I should be able to trigger their downfall.”
+
+The real problem lay in execution. How exactly was she supposed to expose them?
+
+She could bring the matter to City Hall—or even the viscount—but that raised another issue: how would she explain any of it?
+
+Sage possessed detailed records from the future, but she couldn’t exactly claim to be from the future. No one would believe her. The accusation would sound baseless.
+
+Could she infiltrate their offices and steal the documents herself?
+
+It was possible.
+
+She, however, was notoriously poor at information gathering, reconnaissance, and stealth. Parek had always handled matters of that nature. She couldn’t simply sneak into the Scavenger company’s building. That was work suited to an assassin, a rogue, or a mage walking the Path of Veils.
+
+“Who would…” she murmured.
+
+Then something clicked.
+
+“Sage. When does that Helm guy get released from prison? The one who was with Galland?”
+
+[I do not have record of his release. However, he is listed as a testifying witness during the Scavenger’s trial.]
+
+Veronica stared at her reflection.
+
+“So that’s it,” she said quietly. “It was probably him.”
+
+There was a strong possibility that the man named Helm had set their downfall in motion—that he was released from prison and devised a plan to expose the Scavengers.
+
+He must have realized something was wrong.
+
+“He knows something,” she said. “Looks like I’m going to have to pay a visit to city jail.”
+
+“We’ll allow you to speak with him for fifteen minutes, Miss Veronica.”
+
+“Of course,” Veronica replied smoothly.
+
+She was underground now, beneath City Hall, near the lower levels where the holding cells were kept. The air was cooler here, tinged faintly with damp stone and iron. A uniformed city officer led the way down the corridor, boots echoing softly against the floor.
+
+Having the viscount’s seal proved invaluable. The moment she presented it, she was given permission to meet with Helm.
+
+They stopped outside a small meeting room. The officer opened the door and gestured her inside.
+
+Veronica stepped through, her gaze settling on the sparse interior: two wooden chairs facing each other across a narrow wooden table. It was basic and bare.
+
+“Please wait here. I’ll go fetch Helm.”
+
+Veronica inclined her head. “Thank you.”
+
+She took a seat, folding her hands loosely atop the table. The silence pressed in around her, broken only by the distant clang of metal doors and muffled footsteps in the corridor beyond.
+
+After a few short minutes, the door opened again.
+
+He was middle-aged, short in stature but solidly built, with the compact strength of someone accustomed to physical labor. His brown hair was cropped close, and a thick beard framed a weathered face marked by deep lines around the mouth and eyes. He wore a simple white tunic and plain trousers, unadorned and practical.
+
+Notably, he wasn’t in restraints.
+
+His crime, of course, hadn’t been one of violence or something heinous such as murder; cuffs weren’t needed.
+
+Helm’s eyes flicked toward her, wary but steady, as he stepped into the room.
+
+“You have fifteen minutes,” the officer said, before stepping back into the hall and closing the door.
+
+Silence settled between them.
+
+Helm studied her for a moment, suspicion tightening his brow. “You’re not my family,” he said at last. “And you aren’t a lawyer.”
+
+“No,” Veronica replied evenly. “My name is Veronica. I’m here about the caravan. The reason you’re in prison.”
+
+His expression hardened. “What do you want?
+
+“I want to talk about the Scavenger Transport Company,” she said evenly. “And about what happened to you.”
+
+His gaze sharpened. For the first time since entering the room, he leaned forward slightly.
+
+“…Careful,” he said. “Those are dangerous words to speak in this building.”
+
+Veronica met his stare without flinching.
+
+“Then let’s discuss it quietly.” She gestured toward the chair opposite her. “Please—have a seat, Mr. Helm.”
