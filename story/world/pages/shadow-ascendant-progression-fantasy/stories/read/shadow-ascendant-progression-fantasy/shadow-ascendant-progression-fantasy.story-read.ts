@@ -1,0 +1,42 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const shadowAscendantProgressionFantasy = {
+  id: "01a165ce-4e79-74b5-aa9a-73acf3134c20",
+  type: "page-type/story-read",
+  slug: "shadow-ascendant-progression-fantasy",
+  author: "KPS_writes",
+  following: false,
+  unit: "unit/words",
+  title: "Shadow Ascendant [Progression Fantasy]",
+  world: "world/shadow-ascendant-progression-fantasy",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "132235",
+      externalLink: "https://www.royalroad.com/fiction/132235/shadow-ascendant-progression-fantasy",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Urban Fantasy",
+    "Progression",
+    "Strategy",
+    "Comedy",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Dungeon Crawler",
+    "GameLit",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "School Life",
+    "Slice of Life",
+    "Strong Lead",
+    "Supernatural",
+  ],
+  readLater: true,
+  createdAt: "2026-10-22T22:49:41.753Z",
+  updatedAt: "2026-10-22T22:49:41.753Z",
+} as const satisfies StoryRead
