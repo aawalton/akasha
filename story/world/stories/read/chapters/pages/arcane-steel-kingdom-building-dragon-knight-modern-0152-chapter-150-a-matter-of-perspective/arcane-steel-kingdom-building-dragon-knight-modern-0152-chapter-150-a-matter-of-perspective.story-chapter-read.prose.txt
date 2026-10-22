@@ -1,0 +1,187 @@
+I stared at the glowing blue data streams scrolling across the main tactical display in the CIC. The situation in the valley was deteriorating rapidly, but not in the way Cinderfall anticipated.
+
+The issue was that the enemy was running into our lines, dropping their weapons, and expecting not to be shot.
+
+Tes, I projected, my mental voice flat, tight with the stress of rapid recalculations. I need you to sift through the fifty thousand combatants currently engaged in the vanguard charge.
+
+[Acknowledged, Master. Processing tactical data. Please specify sorting parameters.]
+
+"Categorize them into three distinct groups," I instructed, leaning over the console. "Group One: True defectors. These are the refugees. The ones dropping their shields. They are to be immediately escorted out of the active war zone. Secure the earliest transport available and ship them to the designated holding sectors in the Obsidian Dominion."
+
+I tapped a section of the map, highlighting the rear trench lines.
+
+"Group Two: The hostages. These are the men who are fighting because they have families held back in the Hegemony. They are desperate, but they are still swinging swords. They are to be incapacitated using non-lethal means only. Take them in as prisoners."
+
+I straightened up, my eyes narrowing at the dense cluster of red icons representing the elite Cinderfall forces.
+
+"Group Three: The loyalists. The fanatics. The ones who raise a blade to the Aegis and mean it. These are the men who entered the battlefield for the sole purpose of gaining military honors, hoping for the opportunity to visit the royal hatcheries, bond with a phoenix, and earn a noble title. Deal with them using extreme prejudice."
+
+Silence hung in my mind for a long moment. it was the digital equivalent of a profound, exasperated sigh.
+
+[Master. It is computationally impossible to sort a chaotic, active battlefield of fifty thousand individual variables into those specific sociological categories within a three-minute engagement window.]
+
+Tes's voice retained its usual crisp, synthesized tone, but the subtext was glaringly obvious. I was asking an AI to perform mass psychoanalysis based on aerial footage.
+
+[To achieve a sorting accuracy that meets your non-lethal parameters would have required prior background checks and comprehensive psychological evaluations of the entire Cinderfall army. Facial expressions and body language gathered from orbital sensors are not sufficient data points to reach a decisive conclusion on a soldier's internal political motivations.]
+
+I rubbed the bridge of my nose, fighting off an impending headache. She was right. It was an algorithmic nightmare. To make matters worse, I had established a strict secondary parameter: we couldn't look weak while doing it. The absolute last thing I needed was for the Hegemony commanders to think our defense grid was faltering or that our turrets were experiencing targeting errors. They needed to believe the selective fire was a display of omnipotent, terrifying control.
+
+There has to be a workaround, I thought, pacing the length of the command table. What about that prototype we developed? The non-lethal suppression gas. What did we name it again?
+
+[You are referring to the Rapid Deployment Sleeping Potion via Aerial Bombardment and Jet Nebulizer, Master.]
+
+I stopped pacing. Did I seriously name it that? Or are you just reading the name of the project folder?
+
+[Apologies, Master. My primary processing cores are currently preoccupied with managing multiple, simultaneous, high-priority targeting algorithms across a chaotic battlefield. I am prioritizing literal data retrieval over conversational nuance.]
+
+Right. Sorry. I was stressing out an ASI. That was a new low.
+
+Here is the plan, I projected, trying to streamline the strategy. What if we knock out the majority of the charging army with the suppression gas? We can haul the unconscious bodies behind our lines under the cover of night and sort them securely in the holding cells later.
+
+We had never actually used the gas in a combat scenario. The deployment method was incredibly violent. It utilized modified precision missiles that detonated with the concussive force of a standard explosive, masking the release of the specialized aerosol. It looked exactly like a lethal bombardment. Here, it would serve our purposes perfectly. The Cinderfall commanders watching from the rear would see their vanguard consumed in explosions, completely unaware that the men inside the blast radius were simply taking a very deep, unexpected nap.
+
+There might be a few localized casualties near the actual blast zones from the shrapnel of the casings, I conceded grimly, but it will save significantly more lives overall. We can always drop the gas canisters in clusters to make it look like a more aggressive, targeted strike to maintain the illusion of lethal force.
+
+[That logistical approach is possible, Master. I shall instruct the fabrication labs on-site to begin manufacturing the specialized munitions immediately.]
+
+The payloads were manufactured, loaded onto the waiting wyvern fighters, and ready to fire within a few minutes.
+
+I watched the tactical feed as Tes began culling the front ranks. The automated C-RAM turrets and the hidden Claymore mines did the heavy lifting, creating a terrifying wall of death that halted the initial Cinderfall momentum.
+
+Simultaneously, the Aegis Wyvern fighters streaked across the sky and unleashed a volley of precision missiles. The projectiles detonated at a precise altitude, bursting into clouds of knock-out gas under the guise of standard explosive warheads.
+
+It was working. The red icons on the map were stopping, slumping into the mud.
+
+Then, a glaring red error message flashed across the central holographic display.
+
+[ERROR.]
+
+[Master, we have a critical localized failure. The combatants who are surrendering and the combatants who are charging with lethal intent are too densely mixed together in the front lines. There are no clear firing lanes or isolated clusters where the gas munitions can be deployed safely without hitting friendly or surrendered targets. We will need to manually sort the vanguard using the automata and ground officers.]
+
+I cursed under my breath. This was bad. I had hoped to suppress the entire vanguard before they reached the trenches, utilizing the gas to avoid a messy, close-quarters brawl. But my hands were tied. I couldn't risk dropping artillery on men who had just thrown down their shields to beg for mercy.
+
+"Tes, power down the automated defensive grid in Sector Four," I commanded aloud, my voice tight. "From now on, we prep for mass defection scenarios before they occur. I want the enemy sorted before they begin their charge. Increase the number of Shadow Order operatives embedded near their forward bases."
+
+[Understood. Calibrating deployment strategies accordingly.]
+
+[Master, General Valen requests clearance to join the manual sorting of combatants and non-combatants on the front lines.]
+
+I let out a sigh of profound relief, the tension bleeding from my shoulders. Well, that puts me at ease.
+
+If Valen was handling the ground sorting himself, I didn't need to worry. He was the most cool-headed, ruthlessly efficient officer among my generals. He would analyze the situation, separate the threats from the refugees, and manage the chaos with absolute, clinical precision. He was the perfect man for the job.
+
+I trusted he would handle the rest. I needed to step away. The stress was giving me a migraine, and I was scheduled for a routine check-in call with my family. Taking a break to see Lyra and Ela would clear my head.
+
+Clearance is granted for Valen, I projected, turning away from the console. It feels good to have people working so proactively. I think it's about time that man gets another promotion.
+
+I walked toward the heavy blast doors of the CIC, leaving the tactical nightmare in the capable hands of my generals.
+
+"If possible," I called out to the room before the doors hissed shut, "take this Nigel guy alive."
+
+[Understood, Master.]
+
+...
+
+The darkness was overwhelming. It pressed down on him, a heavy, suffocating weight that demanded surrender.
+
+Nigel Acard wanted to give in to it. He wanted to betray his creed, to simply close his eyes and let the darkness take him.
+
+He had always stayed true to his morals. The rigorous, brutal discipline his grandfather had beaten into him demanded endurance. Giving up was unthinkable. He could not yield to this temptation.
+
+That's right, Nigel thought, fighting the heavy lethargy dragging at his mind. I can't give in. What would my knights think? No doubt they are waiting for me.
+
+But the bedding. The pillows. They were so unbelievably comfortable.
+
+And it wasn't like he had morning training scheduled. Why wake up early?
+
+The realization itself acted like a bucket of ice water, snapping Nigel out of his comfortable stupor. He gasped, his eyes flying open. He swung his feet over the edge of the single bed, his boots hitting a smooth, clean floor.
+
+He looked around the room.
+
+It was small. It contained one metal washbasin, a strange, porcelain toilet sticking out from the wall, and the single bed he had just vacated. But the place was immaculately clean. Spotless.
+
+Nigel might even go as far as saying it was cleaner than his own private chambers back at the Acard estate, though significantly smaller.
+
+It was infinitely better than any holding cell he had ever seen in his life. To call this pristine, sterile room a dungeon was a joke. There was no rotting mold creeping up the walls. There were no rats scurrying in the dark corners. There was no smell of rust and despair. It looked like the kind of room wealthy, pampered noble kids were sent to for a timeout when they threw a temper tantrum.
+
+He looked up at the most magical feature of the room. The lights.
+
+It was the thing Nigel had taken the longest time to adjust to. It was a clear, pure white light. All his life, indoor lamps and torches cast a yellow, flickering glow. Even the expensive, sustained magical lights used in the royal palace were distinctly yellow. The harsh, unwavering white illumination took quite a bit of getting used to.
+
+Another thing Nigel had realized during his confinement was that the light's intensity mimicked the sun outside. It faded to a dull, comforting glow when the sun set, reminiscent of moonlight, and burned brightest during the noon hours.
+
+Nigel walked to the door and looked out through the bars. They weren't rusted iron; they were shiny, polished silver metal.
+
+As the man in charge of law and order in the lower districts of the Cinderfall capital, he was no stranger to prisons, dungeons, and holding cellars. This place was oozing luxury in contrast.
+
+He looked across the wide, brightly lit corridor at the adjacent cell. Unlike his private room, there were four beds in there, stacked two by two on top of each other.
+
+It appeared he was being given special treatment, a semi-private room to himself. The other anomaly was the guard detail. There were two guards stationed directly in front of his cell. The other cells further down the corridor also had guards, but they were the silent, unblinking metal golems. The automata, as the guards called them.
+
+Nigel, however, had been granted the luxury of living guards. Actually, there were six of them in total. They interchanged in shifts. The morning shift guards were by far the most talkative. They loved bragging about their Lord Commander's inventions.
+
+According to them, everything in this room—from the design of the strange toilet to the seamless metal bars—was made by the Lord Commander. It was no wonder the dwarves loved the boy so much. He was practically forged from their wet dreams.
+
+Nigel looked back at the cell opposite him. All four of his captured lieutenants were fast asleep in their bunk beds, completely dead to the world. If they were back at their own barracks, they would have been doused in freezing water an hour ago for sleeping past dawn.
+
+Nigel sighed, a treacherous thought crossing his mind. Maybe I could have slept in a little longer.
+
+Suddenly, a new guard approached the two men stationed at his door. They communicated quietly. The new arrival held up a glowing, flat tablet of some kind, tapping the surface.
+
+Nigel had seen those tablets during meal distribution. Speaking of meal distribution, the food here was sublime. There was nothing in the Hegemony that could be compared to it. And they offered three hot meals a day. The food they were giving to their prisoners was vastly superior to the rations the nobles and generals were served in the Cinderfall command redoubts.
+
+Heck, Nigel would go as far as saying the prison food was better than the meals prepared by the private chef at his own estate.
+
+Thinking of his estate, Nigel felt a sharp pang of guilt for all the loyal attendants and staff left behind. How would they make a living now that he was gone? There was no one else left to take charge of House Acard.
+
+He pushed the dark thoughts aside, focusing on the present. The arrival of the guard didn't make sense. There was still time before the morning meals would be distributed. Everything in this prison operated like clockwork, and it was far too early for food. The fact was reinforced by the absence of the small, metal carts that moved on their own to deliver the trays.
+
+This place was truly magical. Nigel felt a deep, shameful twinge of jealousy toward his captors. If they treated their prisoners with such overwhelming hospitality, it made him wonder what kind of absolute luxury the actual soldiers of the Aegis Legion experienced.
+
+If the stories the chatty guards told were true, their leader was a truly magnanimous man. His wife, too—the kind Lady Nyxia. Nigel knew firsthand the true character of the lady of House Black.
+
+One of the guards turned, holding a flat, white card. He pressed it against a small black panel next to the door. A soft chime echoed in the corridor, and the heavy metal door clicked open.
+
+Nigel looked down at his hands. Two thick metal rings were attached to his wrists. They were another one of the mechanical creations of the Lord of Wight. They called them mag-cuffs. Nigel could move his hands freely, but if the guards willed it, with the press of a button, the cuffs would slam together, snapping tight with immense magnetic strength, preventing him from moving his arms.
+
+He knew the routine. He held his hands out in front of him so the guard could inspect the restraints. This was likely just one of the random, routine checks of his room. Nigel had gone through this just yesterday. Yet another one of his special privileges, it appeared.
+
+What happened next baffled him.
+
+The guard held a small device over his outstretched wrists. The metal rings detached with a soft click and fell away from his arms. The guard caught them smoothly, hooking the heavy restraints onto his belt next to several others.
+
+The second guard stepped into the cell. He set a neatly folded pile of dark, normal clothing on the pristine bed.
+
+"You have been invited for breakfast," the guard informed him.
+
+That was all he said. Nigel couldn't probe for any more information. The man's tone was flat, brooking no arguments. Nigel complied. He stripped off his tattered, dirt-stained tunic and put on the clean clothes. He looked through the corner of his eye toward the corridor. There was no way to talk to the chatty morning shift guards, especially not with their supervisor standing right there.
+
+Nigel finished dressing. The supervisor beckoned him to follow.
+
+The morning shift guards fell into line behind him, creating a tight, triangular escort. As they marched down the corridor, Nigel finally got a better look around the complex.
+
+He looked up. There were eleven floors easily visible, a dizzying array of walkways, rows, and columns of identical cells. It wouldn't be a stretch to assume they could house several hundred thousand prisoners here. It was a marvel of logistical engineering.
+
+His view had been severely limited from his cell. The sheer, terrifying scale of the place was now evident.
+
+As he passed through the lower blocks, he saw several faces he recognized. It appeared this wing of the complex was full of his retainers and his knights. Some of them were up early in the morning, leaning close to the shiny metal bars, asking the passing guards questions where they were taking him.
+
+Nigel tried his best to reassure the men with a tight, confident smile, even though he had absolutely no idea where he was being taken. He just knew he was being escorted to a meal.
+
+When Nigel was brought here after the battle, he had been knocked unconscious. He hadn't seen this place from the outside. Where are we? he wondered. We can't still be in the valley. None of our reconnaissance scouts reported seeing such a massive complex.
+
+After passing through five sets of double-layered blast doors and enduring several meticulous security checks, Nigel was finally led outside.
+
+The cold air hit his face. He looked back at the complex he had just exited.
+
+The sight made him stop dead in his tracks, his breath catching in his throat.
+
+The prison was a magnitude of size bigger on the inside. From the outside, the structure was barely the size of a small, unremarkable house sitting quietly in a clearing.
+
+Did they dig underground? Nigel thought frantically. But what...?
+
+It was a spatial manipulation. A pocket dimension utilized solely for a holding cell.
+
+There was only one thought ringing clearly in Nigel's stunned mind.
+
+Why in the nine hells did we pick a bone with these people?

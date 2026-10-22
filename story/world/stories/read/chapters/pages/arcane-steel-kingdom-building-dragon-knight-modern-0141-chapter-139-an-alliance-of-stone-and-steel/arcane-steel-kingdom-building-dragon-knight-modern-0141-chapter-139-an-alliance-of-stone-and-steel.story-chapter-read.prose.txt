@@ -1,0 +1,155 @@
+I stood before the main comms station in my private study. The heavy weirwood doors were sealed, isolating me in the quiet, sterile hum of the room's electronics. I tugged at the stiff, high collar of my dark blue uniform. I hated diplomatic meetings.
+
+Tes, I projected, keeping my mental voice sharp and focused. Is everything ready to go?
+
+[Affirmative, Master. Everything is operational on our side. The feed will commence shortly.]
+
+I paused, my hand hovering over the activation rune on the glass console. I frowned. Our side?
+
+Over the years, I had learned to pick up on the subtle nuances of Tes’s phrasing. She was a Moderator-Class AI; her baseline programming was cold, absolute logic. She didn't use colloquialisms or specific framing unless there was a data-driven reason.
+
+If everything was operational on our side, she was deliberately implying that something was going wrong on the Dwarven end. It was a subtle shift in her tone—a hint of almost human amusement—that served as a clear warning.
+
+Before I could prompt her for a clarification, the rune flared under my palm.
+
+The holographic projector hummed to life.
+
+The image solidified. I expected to see the formidable High King Valdric Ironhand, flanked by his stern, bearded councilors, ready to discuss the fate of continents.
+
+Instead, the High King of Khaz'Modan wasn't even looking at the projection. His back was half-turned to the camera, his massive, rune-etched warhammer discarded on a nearby table. He was staring intently off-screen, pointing a thick, calloused finger at something out of frame.
+
+"I saw that!" the High King roared, his voice booming through the audio feed. "What is that? Show it to me!"
+
+With surprising agility for a man wearing heavy plate armor, Valdric shoved past his own ambassador and disappeared off-screen.
+
+I stood there, feeling completely and utterly dumbfounded. I looked at the young Legionary communications operator manning the console. "Is the feed still operational, or did it cut out?"
+
+"Sir, the live feed is still running," he confirmed, sounding just as confused as I was.
+
+The screen remained focused on an empty section of a very opulent, stone-carved meeting room. Then, a new figure stepped into the frame, leaning close to the scrying lens.
+
+"Is that you, boy?"
+
+When the massive, braided red beard pulled back, I finally recognized the face. It was Master Aldric, my old mentor.
+
+He peered into the lens, his eyes wide with genuine wonder. "This is quite splendid," he mumbled, reaching a hand out as if trying to touch the hologram. "The image isn't distorted like a standard communication orb. The clarity is unreal. It’s almost like you’re sitting right in front of me."
+
+I interrupted his tangent before he could start asking for schematics. "Master Aldric, what is going on there? Where is the High King?"
+
+"Oh, the King," Aldric said, waving a hand dismissively. "He be examining the tools."
+
+The statement left me more confused than before. The tools? We were supposed to be negotiating a military alliance that would reshape the balance of global power, and the High King of the most heavily fortified nation on the planet was looking at tools?
+
+"Oi! If I move this, the boy will be able to see, right?" Aldric yelled to someone off-screen.
+
+He received confirmation, presumably from one of my technicians, and the camera angle tilted sharply.
+
+The new view showed the High King of Khaz'Modan in a heated, highly animated discussion with a young Dark-haired woman. I recognized her immediately: Morrigan von Ingelheim, the elite mage from House Black that Nyxia had selected to be our official ambassador.
+
+Morrigan looked like she was trying very hard not to scream.
+
+High King Valdric held a simple, unassuming object in his massive hand. It was a standard-issue Aegis engineering tool. A ratchet screwdriver.
+
+"Explain this sorcery to me, girl!" Valdric demanded, pointing the screwdriver at Morrigan. "How does this device only spin in one direction without any magical enchantments? There are no friction runes! No barriers!"
+
+Morrigan, seeing an opportunity to salvage the meeting, redirected the King's attention toward the hovering holographic projection. "Your Highness, who better to explain the device's creation than the creator himself?" She gestured elegantly toward my image.
+
+The High King spun around, finally noticing me standing there. He stumbled forward, holding the screwdriver up to the lens like a holy relic.
+
+So, instead of a grand, formal introduction involving titles and declarations of war, I spent the next ten minutes explaining the mechanics of a ratcheting screwdriver to the absolute ruler of the Dwarven nation.
+
+"Imagine a heavy wagon wheel fitted with a curved wooden block that presses firmly against its outer rim," I began, using Tes to project a simple, rotating diagram into the hologram beside me. "When the wagon rolls forward, the block slides smoothly and silently over the wood, but the moment the wagon tries to roll backward, the block jams tightly against the wheel and locks it completely in place."
+
+The King and Aldric leaned closer, their eyes tracking the spinning diagram with intense focus.
+
+"A ratchet screwdriver uses this exact same mechanical logic, but shrunken down to fit entirely inside a handheld grip," I continued. "Inside the handle rests a miniature iron wheel lined with sharp, sloped teeth, accompanied by a small, spring-loaded metal catch. When you twist your wrist to tighten a screw, the catch wedges hard into the flat side of a tooth, locking the handle directly to the iron shaft and forcing the screw to turn. When you twist your wrist backward to reset your hand, the catch slides harmlessly up and over the sloped backs of the teeth, making a sharp clicking sound while keeping the screwdriver shaft perfectly still."
+
+Valdric turned the tool in his hand. Click. Click. Click. The sound echoed clearly over the feed. A look of profound revelation spread across his face.
+
+"For a builder or artisan, this mechanism completely changes how work is done by eliminating the need to ever lift your hand from the tool," I concluded. "In traditional crafting, driving a long screw requires you to twist your hand, release your grip, reposition your fingers, and twist again. With this tool, your hand never leaves the handle. You simply twist forward, click backward, and twist forward again in one continuous motion. A small lever on the side flips the internal catch, allowing you to instantly switch from driving a screw into wood to drawing one back out."
+
+High King Valdric stared at the screwdriver, then looked back at me. The manic curiosity vanished, replaced by a heavy, appraising respect. He handed the tool back to a very relieved Morrigan.
+
+"You build without magic," the King rumbled, his voice low and serious. "You use the very laws of the world to shape your steel."
+
+He straightened his back, rolling his broad shoulders. Ambassador Hedric quickly stepped into the frame, clearing his throat loudly.
+
+The formal introductions finally began. Morrigan introduced me to the King, detailing my titles, and Ambassador Hedric formally presented High King Valdric Ironhand.
+
+After the pleasantries concluded, the atmosphere in the room shifted. The playful curiosity was gone. This was business.
+
+"Thank you, High King Valdric," I started, meeting his steel-grey eyes through the projection, "for supporting my claim to these lands and its people. This is a debt I will certainly repay one day."
+
+The King waved a hand dismissively. "Nonsense. That is just our answer to the offer you made. We are now in the same boat, lad. You are as responsible for the safety of our nation as we are for yours. That was the core of your alliance offer, was it not?"
+
+"Yes," I confirmed, my mind shifting into tactical mode. "To that extent, if you allow it, I wish to establish a tactical airbase within your mountains."
+
+I had Tes project images of the Obsidian Fang's hangars and runways.
+
+"A similar deployment in your mountains will ensure complete aerial dominance for your upcoming engagement against the Elves. We can easily deploy W-29 Wyverns, P-2 Phantoms, Kantonov K-225 heavy lifters, Centurion C-130 gunships, C-52 bombers, and the X-9 Specter surveillance drones, along with Revenant carriers for rapid deployment."
+
+I spent the next several minutes detailing the capabilities of each airframe, focusing heavily on the X-9 Specters and The Oracle network. "This setup will grant you and your people superior tactical awareness of the entire eastern battlefield."
+
+"However," I added, "for this to function optimally, a formal Combat Information Center—a CIC—must be established within your borders." I briefly explained the concept of the CIC, the data processing capabilities of The Oracle, and the necessity of real-time communication relays.
+
+The King listened intently, nodding along. He seemed incredibly receptive to the idea. I hadn't expected him to be so willing to allow a foreign power to establish a heavily armed military outpost deep within his impenetrable mountains. He was seriously considering integrating his forces into our automated defense grid.
+
+I decided to drop a bait to test the waters.
+
+"The main logistical hurdle," I said, pitching my voice to sound slightly frustrated, "is that all my forces and automated builder units are currently preoccupied on the southern front. The closest active factory is the Obsidian Fang. Relying on cross-continent supply lines for maintenance and ordinance will mean a long delay before the airbase is fully operational. If only I had a localized factory and forge established in your territory..."
+
+The King’s eyes lit up. He took the bait instantly.
+
+"You wish to build a forge here?" Valdric leaned forward, stroking his braided beard. "Why not? We dwarves have long welcomed any craftsman worth their salt. You have proven your craftsmanship has a valuable place in our lands. Establish your forge in our mountains."
+
+Well, I thought, a cold knot forming in my stomach. That was way too easy. What is he playing at?
+
+"You need to understand the implications of what you are agreeing to, Your Highness," I warned him, leaning closer to the console. "You would practically be allowing me to place one of my automated foundries inside your impenetrable fortress."
+
+I brought up the schematics for the Omni-Forges. I explained how they operated. How they utilized an endless horde of automata. How they recycled their own dead units from the battlefield to produce a continuous, unbroken supply of new machines.
+
+"Under the right conditions," I said, my voice dropping, "this factory would be powerful enough to subjugate and conquer the dwarven mountains from the inside out. Everyone knows your external defenses are impenetrable. But this would be like a virus taking root in your vital organs. It would be akin to allowing a necromancer to build his Mage Tower inside your capital."
+
+I watched the King. He visibly flinched at the necromancer analogy. He looked at the endless, looping schematic of the automated assembly line. He was excited by the capabilities, but clearly wary of the terrifying implications.
+
+He was looking for a guarantee. A safety mechanism. That was what the dwarves wanted—a way to build without fearing outside threats, a way to focus on their craft. It was the reason they had built such formidable defenses over the centuries.
+
+It was time to douse him with cold water.
+
+"But, alas," I sighed, waving the schematics away. "I do not have any dungeon cores to spare for this project. That is the key to powering such a facility. Without it, the forge is just cold iron."
+
+The King physically recoiled, shock replacing the caution on his face.
+
+"You... your forge is powered by a dungeon core?" he stammered.
+
+"Yes."
+
+Valdric stared at me, then looked at Aldric. He let out a booming laugh that echoed in the stone chamber.
+
+"It appears you have stumbled upon one of the closely guarded secrets of the royal family, boy," Valdric chuckled, shaking his head. "We also use forges powered by dungeon cores to melt metals that would otherwise not yield. To think someone so young figured out on his own what took our ancestors generations to develop."
+
+He stopped laughing, his gaze hardening. "If that is the case, why not place the power source of this factory in our hands? We would control the flow of mana. If your machines turn hostile, we cut the power."
+
+"That would be possible," I conceded. "But it still poses a significant risk to you. And as I said, I currently lack the manpower to spare for the construction, nor do I have the dungeon core required."
+
+The Dwarven King looked at me. The playful curiosity, the booming laughter, all of it vanished. He was a monarch evaluating a peer.
+
+"Boy," Valdric rumbled, his voice dropping to a low, serious register. "Can I trust you? Will you keep your end of the bargain? Teach us some of your craft? Provide us with your machines of war for our safety?"
+
+He leaned closer to the scrying lens. "In exchange, we open our lands. We offer you our abundant supply of mineral ores. We accept your offer to build this future. You handle the military craftsmanship, and we handle the rest. Our people would freely move between the two lands."
+
+I held his gaze through the shimmering blue light of the hologram. I didn't blink. I didn't hesitate. This was the foundation of an empire. An attack on one is an attack on both.
+
+"Yes."
+
+King Valdric Ironhand broke into a fierce, triumphant grin.
+
+"I shall provide the craftsmen and the dungeon core for you to build your factory," Valdric declared, his voice echoing with absolute finality. "You shall provide security to my people, teach them, and make them a part of your military structure. We shall forge a unified defense against any foreign entities."
+
+The plan was set. I would leave the dwarves with civilian development while my factories focused entirely on defense and automated warfare. I would teach them the basics—I wouldn't be handing over the blueprints for jet engines anytime soon, but I could teach them how to build internal combustion engines and propeller craft. It was a gamble on both sides. Let's see how this works out. Allies were what I desperately needed at this moment.
+
+We discussed the finer details of the integration. Dwarven engineers would be invited to join the Aegis Legions, learning to maintain the units and the communication relays. We were creating a modern economic zone, a mutual defense pact that blurred the borders of our nations.
+
+The air on the study felt charged, heavy with the magnitude of what had just occurred. A thousand years of dwarven isolation had ended with a handshake across a holographic void. The immovable mountain had finally decided to move, and they were marching alongside the Steel Tide.
+
+The meeting concluded with a formal agreement to finalize the treaty. The official documentation would be signed and sealed with the Steward of Dragon Valley acting as a neutral witness on a later date.

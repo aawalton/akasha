@@ -1,0 +1,43 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const loopshard = {
+  id: "01a16605-9d0d-70cc-b779-2cef8222159a",
+  type: "page-type/story-read",
+  slug: "loopshard",
+  author: "Dosei",
+  following: false,
+  unit: "unit/words",
+  title: "Loopshard",
+  world: "world/loopshard",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "105968",
+      externalLink: "https://www.royalroad.com/fiction/105968/loopshard",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Time Loop",
+    "Progression",
+    "Post Apocalyptic",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Psychological",
+    "Apocalypse",
+    "Dungeon Crawler",
+    "GameLit",
+    "Male Lead",
+    "Supernatural",
+    "System Invasion",
+    "Time Travel",
+    "Tower",
+  ],
+  publicationStatus: "ongoing",
+  readLater: true,
+  createdAt: "2026-10-22T23:50:06.349Z",
+  updatedAt: "2026-10-22T23:50:06.349Z",
+} as const satisfies StoryRead
