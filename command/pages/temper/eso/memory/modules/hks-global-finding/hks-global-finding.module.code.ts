@@ -38,7 +38,7 @@ export function globalHeld(read: Reader, global: Global): Held | null {
   return { type: TABLE, value: bytes.readBigUInt64LE(3 * WORD) }
 }
 
-export type Search = { copies: number; strings: number; capped: boolean; scan: Scan }
+type Search = { copies: number; strings: number; capped: boolean; scan: Scan }
 
 export function searchAfresh(): Search {
   return { copies: 0, strings: 0, capped: false, scan: scanAfresh() }
