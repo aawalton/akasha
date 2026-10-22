@@ -1,0 +1,41 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const hiatusTheEndlessDream = {
+  id: "01a1655f-73d1-7db1-9d27-4be0aed81d98",
+  type: "page-type/story-read",
+  slug: "hiatus-the-endless-dream",
+  author: "StaleCrow",
+  following: false,
+  unit: "unit/words",
+  title: "[HIATUS] The Endless Dream",
+  world: "world/hiatus-the-endless-dream",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "123313",
+      externalLink: "https://www.royalroad.com/fiction/123313/hiatus-the-endless-dream",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Urban Fantasy",
+    "Progression",
+    "Villainous Lead",
+    "Horror",
+    "Mystery",
+    "Thriller",
+    "Tragedy",
+    "Anti-Villain Lead",
+    "Apocalypse",
+    "GameLit",
+    "Grimdark",
+    "Local Protagonist",
+    "Male Lead",
+    "Strategy",
+  ],
+  readLater: true,
+  createdAt: "2026-10-22T20:48:36.817Z",
+  updatedAt: "2026-10-22T20:48:36.817Z",
+} as const satisfies StoryRead
