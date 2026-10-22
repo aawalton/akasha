@@ -1,0 +1,159 @@
+Luke wasn't getting home anytime soon. Or perhaps he was just feeling a little more pessimistic after having to kill three Lifeweavers in a row. From the myriad of different races he'd come across in this dungeon, he'd come to the conclusion that almost all Lifeweavers could be put into one of three categories. First, the healers. They, like Luom and Dot, gave themselves wholeheartedly to the healer role. This one was logical, since the class was a healer archetype in the long list of classes to choose from. If one picked a healer class, it stood to reason that they wanted to heal. Most Lifeweavers fit into this category in one way or another.
+
+The second category was the opposite: the fighters. Almost all of those found in this category started out in the first, but found the healing underwhelming at the start and gave up on it before investing enough to push through the awkward beginner phase. A lot of those who attacked before asking questions belonged to this category, as evident by their pitiful mana stores and their lack of control with Threads of Mana.
+
+The third category was the one Luke himself fit into. Healers who did push through and got somewhat competent, but who also saw the potential for dealing damage as well as healing it. Some who attacked belonged to this category, and they were by far the biggest pains in the ass to deal with. A few, Luke was able to talk down with the help of the others, but others he had to put down. More than anything, this pink dungeon had taught him a lot about fighting other Lifeweavers. He hoped it would be something he didn't find use for in the future, but at least it provided quite a bit of experience.
+
+Congratulations! You have reached Level 41!
+
+Congratulations! You have reached Level 42!
+
+Boon of Potential grants you an attribute point (+1 Willpower).
+
+Boon of Potential grants you an attribute point (+1 Focus).
+
+Boon of Potential grants you an attribute point (+1 Intelligence).
+
+Levels were always a good thing, but Luke didn't know what to think about gaining them from fighting Lifeweavers, and as they made it through the corridors with an ever-growing number of them in the group, he noticed more and more fearful glances thrown his way. They got first-row seats to watch him fight, and most looked worried he would turn on them, while a couple, Splinter included, nodded in appreciation, as if they were getting some good lessons out of it. And perhaps they were.
+
+Luke got some practice using the new staff, extending threads of mana through it. It was a powerful tool, but the hospital hallways meant he didn't have the room for proper swings. Either way, he was happy with it. Real happy.
+
+After finding another long-haired, four-legged, Lifeweaver critter who joined them rather than flee, Luke found enough peace to give his character sheet a good, long look for the first time in ages.
+
+Name: Luke Quinn
+
+Class: Lifeweaver
+
+Level: 42
+
+Guild: The Band
+
+Profession: Enchanter (Level 3)
+
+Attributes
+
+Strength: 31
+
+Agility: 31
+
+Endurance: 34
+
+Vitality: 50
+
+Intelligence: 34
+
+Wisdom: 40
+
+Willpower: 49
+
+Focus: 43
+
+Skills:
+
+Malleable Needle of Life (Rank 3) [Active - Mana Cost: ?]: Part the weave as you see fit. The shape of the Needle will conform to your will.
+
+Integrated's Threads of Mana (Rank 5) [Passive]: Your threads are one with the system. Allows for greater control and increased capacity to thread the spaces between.
+
+The Healer's Moment (Rank 2) [Active. Mana Cost: Moderate]: Your choices in the moment shape the future.
+
+Weaver's Grasp [Passive]: The Weaver's control extends beyond their touch.
+
+Weaver’s Mercy (Rank 2) [Active - Mana Cost: Moderate]: Allow your target another few moments in their current condition.
+
+Weaver’s Renewal (Rank 2) [Active - Mana Cost: High]: The core of a being remembers.
+
+The Healer's Staff [Active. Mana Cost: Low]: Turn your weapon indestructible for a brief moment.
+
+Weavestep (Rank 2) [Active - Mana Cost: Moderate]: The weave is yours to traverse.
+
+Weaver's Perception (Rank 2) [Passive]: Many are the senses, but all you need is one. Best you use it.
+
+Weaver’s Rupture (Rank 2) [Active - Mana Cost: Moderate]: Create a controlled blast of mana to disrupt any who would threaten you.
+
+Bountiful Recovery [Passive]: Any healing power claimed may stay within the core of your being.
+
+Guardian Weave [Active - Mana Cost: Low-High]: Shield structures within yourself or another.
+
+Lifeweaver's Sacrifice [Toggleable - Mana Cost: Low]: Absorb damage from anyone touched by your threads.
+
+Cascading Threads [Active - Mana Cost: High]: The threads weave from one to another, and to another.
+
+Manipulate Thread [Passive]: Reach out a trembling finger and touch the thread.
+
+Loom's Reminder [Active - Mana Cost: Moderate]: For a brief moment, each touch produces a thread.
+
+Bleed The Weave [Active - Mana Cost: High]: Rupture a weave to make your target weep mana.
+
+Draft Insight [Passive]: Read the intent in the weaves of others.
+
+Destabilize Spellweave [Active - Mana Cost: Moderate]: Destroy spellweaves with Threads of Mana.
+
+Will of the Weaver [Passive]: Make those who dare clash with the Lifeweaver tremble under the weight of their will.
+
+Weave Integration [Passive]: Allows for greater control in all aspects regarding weave manipulation and understanding.
+
+Explosive Reach [Active. Mana Cost: Extreme]: The Lifeweaver may extend their reach for a moment in time.
+
+Available skills:
+
+Wounded Symmetry [Active - Mana Cost: Moderate]: Mirror a tear in the weave and create it anew.
+
+Strengthen Thread [Active - Mana Cost: High]: Use mana to strengthen the weave.
+
+Heartthread [Active - Mana Cost: High]: Bind your weave to another.
+
+Weaver’s Boon [Active - Mana Cost: High]: Mana not only restores, but empowers.
+
+Corrupt Thread [Active - Mana Cost: High]: Force threads together in a harming weave.
+
+Weaver's Whip [Active - Mana Cost: Low]: Turn a thread of mana into a weapon.
+
+Weaveguard [Toggleable - Mana Cost: Low]: Shield the core of your being from outside influence.
+
+Threads of Life [Passive]: The mere presence of the Lifeweaver's tools is enough to bring health to those without.
+
+Reject Intrusion [Active. Mana Cost: Moderate]: Experience in delving into others has given the Lifeweaver knowledge in the act of keeping others out.
+
+Continuing the plan from before, Luke added all ten new points to Intelligence, for a total of 44, since it was lagging behind the other mental attributes. While it added a small amount to his maximum mana, it wasn't enough to make a difference in most cases. Every little bit helped, of course, but once a fight started, the ability to drain resources from his opponents was what kept him going. The description of Intelligence mentioned mind potency. That wasn't the same as maximum mana, or at least not only that. While it was difficult to get a grip on the specifics of the effect, Luke was sure it helped in those tough situations where he needed to push with nothing but his mind. Those moments used Willpower most of all, but the other attributes helped as well. Luke was sure of it.
+
+After having to put down yet another Lifeweaver, one of the half-fish types, Luke grabbed a not-Relian fake doctor and drained its mana with a sigh, looking into its face.
+
+"Why do you look like The Fallen Shepherd?" he asked, but got no answer other than a faint, knowing smile. The question irked him. One had handed over a key just as soon as Luom suggested they ask, but no amount of questioning them after that provided answers.
+
+Luke dropped the used-up monster and turned to face what was, by now, a decent-sized crowd. A quick headcount told him they'd gathered over twenty Lifeweavers, and most of them dragged a monster or two with them. The mana drain from just attempting to open that gateway had been immense, but this should be enough. It would have to be.
+
+"It's time," he told them, and was met with nothing but silence. In that silence, he noticed something. The echo of Dot showed she was somewhere at the back of the large group. She'd snuck back in. Luke couldn't fault her for it, since she'd be dead on her own. He was through doing her favors, but if she wanted to offer up her mana, he would take it.
+
+What he was about to attempt could be performed anywhere, even right there in the corridor, but it felt wrong to do so. No, this needed a better spot, a place made for greatness.
+
+A little later, they'd all crammed into one of the examination rooms. Even after throwing every piece of furniture into the corridor, the best they could do was a small spot in the middle where Luke stood. He wasn't even sure a portal would fit there, but it was the best he could do.
+
+"This isn't really what I imagined for this, but it'll have to do," he said, getting down to sit. While all the Lifeweavers in the room had agreed to join him in this endeavor, he wasn't stupid enough to trust them, not even Luom. Splinter, he did trust, but that was on account of loving Turtles growing up. As good a reason as any, he decided when he designated the ratkin to stand guard next to him beside the Singers. Those two, at least, had a good reason for keeping him alive.
+
+"Everyone, join hands, please."
+
+They did as asked without whining. If the Lifeweavers touched each other, that meant no mana was wasted connecting everyone through threads of mana, which wouldn't be mana effective. Pressed together as they were, the holding hands part was perhaps a bit much since they were packed so tight, but Luke wasn't one to squander a chance for some interspecies connectedness.
+
+The ratkin put his hand on Luke's shoulder and squeezed. "We're ready, human."
+
+That, they were. It was up to Luke now. Before, he'd decided not to share information and Lifeweaver know-how with the others, but there was no hiding from them during what he was about to attempt. Most wouldn't understand what he was doing, but perhaps some might figure it out. A few probing questions had told him Splinter was the only other Lifeweaver capable of seeing system weaves at this time, and even he hadn't perceived The Greater System Weave.
+
+Perhaps in doing this, Luke was teaching future enemies, but there was no helping it. Concentrating, he submerged himself into a state of meditation.
+
+The twisted weave of this nightmare of a dungeon appeared, the threads going this way and that in chaotic patterns without rhyme or reason. Before starting the process of weaving the threads into a portal, Luke reached out to Splinter, then through the ratkin to Luom and Cage, then on and on until his Meta-Heart was one with all others, including the monster cores of the fake hospital staff they had gathered. Among all those, he noticed an infernal core. A demon Lifeweaver. That was not one he had recruited, but at this point, he needed all the mana he could get, no matter how much it would burn his insides to use it. Dot was there too, and even through all those Lifeweavers, he sensed her apprehension. Luke let it all flow through him. It didn't matter. No emotions in the group mattered. Luke stared at the weave, and the weave stared back at him.
+
+Not to be dissuaded, he began the arduous work of forming threads into the spellweave pattern of a portal. While he did so, he found himself wondering if forming other patterns would work, like that of, let's say, a fireball. The weave trembled, forcing Luke to assert his will to keep the whole thing from falling apart. He wasn't sure what had just happened, but there was no longer any doubt in his mind: other spells would not work, at least not just any spell. An interesting idea to ponder at a later time, in a different place.
+
+The weave locked into place, forming the necessary pattern. Luke, for lack of a better word, heaved, pushing for the portal to form. Mana rushed from him in a raging torrent. Pulling in from his network of Lifeweavers, equal amounts of mana crashed into him.
+
+Luke became a conduit for mana. His mana channels ached, and his Meta-Heart trembled, like a muscle worked to exhaustion. It took seconds for his metaphysical self to approach the edge. Wavering on that invisible line, Luke brought the full force of his will and every scrap of focus he could muster. Pain surged through him, and at first he thought something had broken. Then he recognized the infernal mana mixed in with all the rest, like a splash of alcohol in a drink. Like this, it almost went down smooth. Almost.
+
+The portal formed in his mind and in the weave. Several Lifeweavers fainted from exhaustion, but most held on. Another push would do it, just one more.
+
+Luke pulled the portal into the physical realm. It shimmered open in the exact same way as all other portals he'd seen opening, and it was a massive release on both his psyche and his Meta-Heart when it finally opened.
+
+Around him, Lifeweavers gasped, and monster nurses and doctors fell dead, all their mana extracted.
+
+Rather than stand up and celebrate with the others, Luke looked at the portal from where he remained seated, shaking his head.
+
+"No... Something is wrong," he said, more to himself than to the crowd.
