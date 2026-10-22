@@ -1,0 +1,46 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const etherAtlasTheHiddenGridLitrpgSystemApocalypse = {
+  id: "01a16485-d488-78db-b7f3-d4905e9b0b20",
+  type: "page-type/story-read",
+  slug: "ether-atlas-the-hidden-grid-litrpg-system-apocalypse",
+  author: "Lucas Arden",
+  following: false,
+  unit: "unit/words",
+  title: "Ether Atlas - The Hidden Grid [litRPG, System Apocalypse, Ancient Mysteries]",
+  world: "world/ether-atlas-the-hidden-grid-litrpg-system-apocalypse",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "160813",
+      externalLink:
+        "https://www.royalroad.com/fiction/160813/ether-atlas-the-hidden-grid-litrpg-system-apocalypse",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Urban Fantasy",
+    "Progression",
+    "Post Apocalyptic",
+    "Multiple Lead Characters",
+    "Adventure",
+    "Fantasy",
+    "Mystery",
+    "Thriller",
+    "Apocalypse",
+    "Artificial Intelligence",
+    "GameLit",
+    "Local Protagonist",
+    "Male Lead",
+    "Mythos",
+    "Strong Lead",
+    "Supernatural",
+    "Survival",
+    "System Invasion",
+  ],
+  publicationStatus: "ongoing",
+  readLater: true,
+  createdAt: "2026-10-22T16:50:54.728Z",
+  updatedAt: "2026-10-22T16:50:54.728Z",
+} as const satisfies StoryRead
