@@ -22,11 +22,11 @@ export const jisoo = {
       source: "spotify",
       externalId: "6UZ0ba50XreR4TM8u322gs",
       externalLink: "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs",
-      lastSyncedAt: "2026-09-17",
+      lastSyncedAt: "2026-10-22",
     },
   ],
   title: "JISOO",
   genre: ["k-pop"],
   createdAt: "2026-09-03T16:04:08.683Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-22T13:48:15.719Z",
 } as const satisfies Artist
