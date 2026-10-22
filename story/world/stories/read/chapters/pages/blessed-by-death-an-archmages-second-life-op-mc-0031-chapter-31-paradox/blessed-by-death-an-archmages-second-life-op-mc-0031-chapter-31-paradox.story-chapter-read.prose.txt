@@ -1,0 +1,219 @@
+It was almost impressive how quickly the rest of the students vacated the classroom after Professor Heimler’s declaration. They gave Levi a wide berth as they hurriedly cleared out, though they still made sure to throw him smug, vindictive looks as they passed by, no doubt already writing him off as a goner and taking immeasurable satisfaction in doing so.
+
+Andevar was the last to leave. To his credit, he did falter slightly at the doorway, giving Levi one last worried glance over his shoulder. Levi just gave him a small nod. Andevar hesitated before he turned and left the classroom as well.
+
+The heavy door slammed shut behind him from an invisible force, leaving Levi alone in the room with Professor Heimler.
+
+“Well?” Heimler said when Levi remained seated in the back. “Do you intend to speak from across the room, or are you going to come up?”
+
+Warily, Levi stood and approached the professor’s desk, stopping right in front of it, though he made sure to stay more than a meter away, well out of [Stillpoint’s] range.
+
+During all of this, Professor Heimler’s gaze had been unnervingly fixed on Levi, his cold dark eyes not blinking even a single time as he stood behind his desk. His short blonde hair was immaculately coiffed as always, and his burgundy robes were unnaturally still around him.
+
+Levi returned his stare evenly, his body outwardly relaxed even as his mind and magic whirled furiously within him. Did Qorbin tell Heimler about the Elder Wyvern fight after all? Did Heimler figure out that it had been Levi in the Restricted Sanctum?
+
+“I must say,” Heimler said, his every word delivered in a clipped, cultured tone. “I’m impressed, Levi Ironwood.”
+
+“Is that so?” Levi said, keeping his voice as neutral as possible.
+
+“Indeed. I did not think you to be capable of such a feat. Even now, I still do not. For you to have bested me in such a manner… It should be inconceivable. Impossible, even. Yet I cannot avoid the facts staring me straight in the face, especially with my source’s corroboration.”
+
+Levi tensed up immediately at that. Source? Fuck, so Qorbin did sell him out after all. Though in fairness, Qorbin probably hadn’t thought telling Heimler would do any harm since he was unaware that Levi had already fought Heimler in the Restricted Sanctum. Even so, however, the next time they met, Levi was going to expeditiously introduce Qorbin to the intricacies of the torsion inducement spell.
+
+First things first, though, Levi had to somehow talk his way out of this. Fortunately, he’d already prepared an elaborate, well-thought-out excuse ahead of time for this exact situation.
+
+“Okay look, I’m sorry,” Levi said, “but I swear I just got lost and panicked. It wasn’t anything personal.”
+
+Heimler frowned. “What?”
+
+“What?”
+
+Heimler gave him an odd look. “What are you talking about?”
+
+“... what are you talking about?”
+
+“You solved the Subaru Paradox,” Heimler said, almost impatiently.
+
+“Ah,” Levi said. “So I did.” A pause. “I did?”
+
+Heimler’s eyes narrowed. He flicked his wrist and a familiar piece of parchment appeared in his hand. Levi recognized it immediately – it was the homework he’d turned in almost a week ago. Levi had honestly forgotten about it, what with all the chaos of the Ascension Trials.
+
+Though… Levi took a closer look and frowned. Why was there protective magic surrounding the paper? Holy shit, and a substantial amount too; Levi wouldn’t be surprised if the paper could survive a point-blank Elder Wyvern’s fireball.
+
+“Of course you did, boy. What else would you call this?” Heimler asked, holding out the paper as though it was incontrovertible proof.
+
+Levi stared at him. “My… homework assignment?”
+
+Heimler stared back. “Your… homework assignment.”
+
+“Yes,” Levi said slowly. Was this some sort of misdirection ploy? Was the professor trying to confuse him before attacking? Levi didn’t know what the point of that would be, since the professor had literally already said that Levi had bested him; there was nothing else he could’ve been referring to other than the Restricted Sanctum fight. “For the homework problem on the blackboard.”
+
+He nodded to the side, where the problem was still displayed on the blackboard, though he made sure to not take his eyes off Heimler. As such, he saw the interesting cocktail of emotions that momentarily flickered across the professor’s face.
+
+“Homework problem?” Heimler repeated, a low incredulity to his voice. “Are you mocking me? The problem written on the blackboard is the Subaru Paradox, coined over a thousand years ago by the theoretical magical researcher Okabe Subaru from the country that is now modern day Yukihasa.”
+
+Levi got the sudden realization that he might have made a dreadful miscalculation somewhere. He just didn’t know where.
+
+“Right,” Levi said. “The Subaru Paradox.” He paused. “It was, ah, a tricky problem?”
+
+Heimler examined him for a long moment. “You don’t know, do you?” he finally breathed in genuine amazement. “The Subaru Paradox has been an unsolved problem in fundamental magical theory for centuries. It has confounded countless notable theorists and practitioners alike. I have been attempting to solve it for the better part of the past year, and even I have barely made any progress whatsoever.”
+
+Levi blinked. “Oh.”
+
+Wait.
+
+What?
+
+“By the Goddess, to think that I would be beaten to the answer by a student who doesn’t even know what the Subaru Paradox is…” Heimler pinched the bridge of his nose, looking like he was reconsidering every life choice he’d ever made. “I don’t know what to say.”
+
+“Hold on,” Levi frowned. “What do you mean by unsolved?”
+
+Yes, the problem had been difficult, but only because it had been more akin to a trick question. Levi wagered that most mages from his previous world could’ve easily solved it as well, and much faster than him too. His old mentor probably would’ve arrived at the answer in just a few minutes instead of the days it took Levi.
+
+So for this new world to not have ever solved the problem before? It didn’t make any sense. Levi got the feeling that he was missing something.
+
+“What do you think it means?” Heimler asked rhetorically. “Though, I suppose this is as good an opportunity as any. The solution you gave is correct, that much is certain; I already created and ran multiple tests to confirm it. However, I am ashamed to confess that I do not even begin to understand how you arrived at the answer. Shall we walk through the process from the beginning?”
+
+Slowly, Levi nodded. “Sure.”
+
+“Excellent. At its core, the Subaru Paradox revolves around the problem of how to stabilize a three-dimensional rotational magical matrix without it collapsing into a calamitous vortex that’ll vaporize everything inside and around it,” Heimler said, effortlessly switching into his professor mode. “To stabilize an ordinary three-dimensional magical matrix, the process is quite simple; all you need to do is make sure the forces cancel out in every direction. Every leftward force needs a rightward force, every upward force needs a downward force, every frontward force needs a backward force. Thus, equilibrium can be achieved.”
+
+“Right,” Levi said. “I’m following.”
+
+“However, the issue arises when you begin rotating the matrix, setting it into motion,” Heimler said. “You would think that for every clockwise force, you simply need an equal counterclockwise force to balance it out. But instead, doing so would only destabilize the entire matrix and rip the whole thing apart. No matter how perfectly you balance the numbers, the matrix will invariably collapse; that’s where the paradox stems from.”
+
+Levi nodded. That had been his main holdup in the beginning as well; he’d attempted to derive the right equations and brute-force his way to the correct answer, to no avail.
+
+“However, your solution doesn’t balance the numbers,” Heimler said. “Instead, you give nonsensical numbers for every vector: a different upward force than the downward force, a different clockwise force than the counterclockwise force, and so on. Initially, I thought that you’d made the values up at random, and to be honest I’d nearly discarded your paper in the bin. The only thing that’d stopped me was that for once, the homework was actually in your own handwriting.”
+
+Levi froze. Shit. He had forgotten about that.
+
+“Yes, yes, I am well aware that you’ve been having Mr Baker do your homework for the entire year you’ve been in my class,” Heimler said dismissively. “I thought he was the one to ghost-write the solution at first, but I questioned him at length the other day and he seemed pretty adamant that it was all you.”
+
+Ah, Andevar must’ve been the source Heimler had been referring to earlier.
+
+“You knew about the homework cheating?” Levi asked. “Why didn’t you do anything about it?”
+
+“It would’ve been too much trouble,” Heimler said dismissively. “Besides, I believe Mr Baker needed the money. It wouldn’t have mattered anyhow – I was planning to fail you at the end of the year regardless of your grade.”
+
+“Ah, fair enough.”
+
+“At any rate… Seeing you turn in something written by yourself – a solution to the Subaru Paradox, no less – made me curious. So I decided to run your numbers in a simulation, and… it actually worked.”
+
+The professor shook his head in a mixture of stupefaction and consternation. “I thought it was an error at first, but no matter how many times I recalibrated and reran the simulation, the results were the same every time. So I switched to running experimental tests. I fully expected it to blow a hole into my lab, and I admit I would’ve been quite vexed at you if it did, but… that one worked as well. So I tried several more iterative experiments, and they all succeeded as well.”
+
+“Ah,” Levi said. “That’s… good?”
+
+Heimler’s eyes flashed. “Good? It’s downright infuriating, is what it is,” he hissed, a hint of emotion entering his voice. “Your solution shouldn’t work, it can’t work. It violates every single magical principle we have. None of the equations are balanced, the vector forces are skewed, the magical coefficients are mismatched–”
+
+He cleared his throat, composing himself. “Forgive me for that,” he said, his voice back to normal. “The point is… How? How did you arrive at the solution? For the past several days I’ve been attempting to understand and reverse engineer your process, but I’m at a point where I am convinced that you really did just select numbers at random and somehow stumbled into the right answer through pure fortuitous luck.”
+
+At this, Levi smiled wryly. “My luck isn’t nearly good enough for that,” he said. “Though, I still don’t really understand what’s so difficult about the problem.” Heimler twitched, and Levi winced; he hadn’t meant for it to come out that way. “It also stumped me at first, of course,” he said hurriedly, “but once I began factoring in the imaginary mana’s influence, the solution became obvious.”
+
+Professor Heimler stared at him uncomprehendingly. “Imaginary mana? What is that?”
+
+Levi stared back.
+
+There was a long moment of silence as neither side spoke.
+
+And then finally, Levi understood.
+
+In this world, where magic was mostly automated by the System, where mana could be measured and quantified into discrete precise units, where every individual literally had a mana bar in their status screens that displayed how much MP they had left… Of course they wouldn’t have the concept of imaginary mana. The term itself would be utterly nonsensical to them; they simply didn’t have the epistemological foundation to support it.
+
+Hell, did they even have the concept of negative mana? In a world where the MP bar ended at zero and it was impossible to display something like ‘-5 MP’, would they have even come up with the theory of negative mana’s existence? Or would they have dismissed the idea altogether as utterly meaningless drivel?
+
+Every child had access to [Status]. Every child would have seen their mana bar display an exact amount of MP from zero to their maximum limit. Every child would have grown up within the ontological framework that mana was positive, discrete, and quantifiable. Because due to the System’s involvement, it was.
+
+However, in Levi’s old world where magic was considered to be inherently variable, dangerous, inconsistent, and contradictory, the mages had an entirely different view of magic. A far deeper, more intimate, but also more flexible understanding of mana, unconstrained by the System’s presence. Negative and imaginary mana were both common theoretical concepts that existed in his world that every first-rate mage knew, because it was only natural that magic, paradoxical and exceptional as it was, wouldn’t be limited by something as inane as reality.
+
+That explained why the Subaru Paradox was an unsolved problem here. The people of this world were simply operating on a fundamentally different magical paradigm altogether.
+
+Okay. Levi could work with this.
+
+“Do you mind showing me your current solution?” Levi asked. “Whatever you have so far.”
+
+After a moment, Professor Heimler nodded. He summoned a piece of chalk to his hand and turned around to write on the blackboard behind him. For nearly a minute, neither of them spoke as Heimler steadily filled up the entire blackboard with lines upon lines of equations and derivations, all from memory.
+
+Behind him, Levi’s eyes first grew wider and wider as Heimler began pulling out theorems that he didn’t even know existed, before they finally glazed over altogether as Heimler began scribbling out several incredibly dense and complicated proofs on the side as supplementary material.
+
+“And that’s it,” Heimler said, turning back around. The blackboard had been entirely filled up with rows upon rows of calculations in tiny, impeccable handwriting. “As you can see, everything turns out to be perfectly balanced. However, in any simulation or tests I run, the matrix will invariably collapse.”
+
+“That’s because it’s not balanced,” Levi said. “You’re not considering the external, or rather imaginary forces at play here.”
+
+Heimler narrowed his eyes. “That term again. Imaginary. What do you mean by that?”
+
+“Magic by nature exists in a constant state of flux,” Levi said, channeling the lessons his mentor had taught him long ago. “It is also inherently paradoxical and contradictory. You have real mana, the mana that exists unambiguously, but you also have imaginary mana – the magic that has not been but could be and perhaps once was.”
+
+Heimler blinked, clearly not understanding.
+
+Levi approached the blackboard, no longer caring about entering the professor’s [Stillpoint] range. He took the chalk from the professor’s hand and began modifying the professor’s equations, crossing out entire chunks and adding in his corrections.
+
+“Magic, as a force, isn’t intrinsically bound by space and time like we are,” Levi said as he wrote. “It can exist in multiple layers of reality and even different times at once.” That was the principle behind his True Sight, after all, though he hadn’t quite been able to master the time aspect yet.
+
+“At any singular point in time, there exists an uncertainty cloud around that point, within which multiple branches of time and space exist parallel to, or more accurately superimposed on, the current reality,” he began drawing a diagram on the board. “While those branches technically are not real, the magic within them is still able to affect the current reality. Such is the principle of imaginary mana.”
+
+“I see,” Heimler said slowly. “Mana that can affect reality even though it technically doesn’t exist.” He tilted his head. “I think I can understand.”
+
+Levi nodded. “The reason why this phenomenon only occurs when you have a rotational matrix is because–”
+
+“--magic in rotation naturally generates a magical field,” the professor finished, his eyes filled with a sudden comprehension. “In doing so, it creates the cloud you mentioned that allows the branches to rapidly propagate. And when you account for the imaginary mana’s presence within that cloud exerting additional forces upon the matrix’s field…”
+
+Levi nodded, and with a final flourish, he finished drawing the matrix diagram with a squiggly cloud around it, from which numerous arrows extended toward the main matrix. It wasn’t his best work, but it conveyed the point well enough.
+
+“Upward cancels downward, leftward cancels rightward, frontward cancels backward, clockwise cancels counterclockwise, and all eight real vectors cancel the imaginary ones. You simply just need to adjust the values of each one to balance out the appropriate imaginary force as well.”
+
+Forces that came from angles that didn’t exist, and all that.
+
+“I see now,” Heimler breathed out. He took a step back, looking as though his entire worldview had just been shattered and reconstructed. “It was never a paradox after all. We just weren’t seeing the full picture.”
+
+Levi nodded. “More or less.”
+
+The professor was silent for a long moment as he continued staring at the blackboard.
+
+Then, he laughed, a simple sound almost childlike in wonder. “It’s so simple, yet so brilliant. Imaginary mana… of course. This explains why there are always so many inexplicable fluctuations plaguing so many otherwise bulletproof equations, or why the theoretically flawless calculations for warpgates always end up being slightly off and they need to be manually adjusted, or even why–” He cut himself off abruptly.
+
+“Well, in any case,” Heimler said, turning back to Levi. “How were you able to figure all of this out? The premises you used to arrive at this conclusion are so utterly ridiculous that nobody with even a basic understanding of fundamental magical theory would ever seriously consider them…”
+
+The professor slowly trailed off as he realized what he’d just said, and more importantly who was in front of him. “Oh. I see now.” He began laughing again. “Of course. This sort of aberrational view on magic can only possibly be gained by someone with an abnormally incorrect and woefully deficient knowledge base.”
+
+Levi smiled. “In other words, someone like me?”
+
+Heimler nodded. “In other words, someone like you.” A small smile spread across his face. “Incredible. Levi Ironwood… I apologize. I fear I may have misjudged you.” Then the professor paused, a deeply contemplative look crossing over his face. After several seconds, he nodded once. “This might be rather abrupt, but... Would you like to become my apprentice?”
+
+“Nah, I’m good.”
+
+“Excellent, I’ll get started on the paperwork–” Heimler froze. “Wait, what? You’re good?”
+
+Levi coughed awkwardly. “Err, I appreciate the offer, but… I’m already apprenticed to someone else.”
+
+Heimler stared at him. “What? Who?”
+
+“... Qorbin Ravenbane.”
+
+Heimler’s eyes widened in an uncharacteristic display of shock. “Qorbin? You’re Qorbin’s apprentice? How in the world do you even know him?”
+
+“It’s… a long story,” Levi said. “You, uhh, hear anything about my Ascension Trial yet?”
+
+“No,” Heimler said, frowning. “Just that you and Ms Volkov passed. Why?”
+
+“Someone sabotaged the dungeon,” Levi said. “They concealed its true tier with runic scripts. There turned out to be an Elder Wyvern inside the dungeon.”
+
+“An Elder Wyvern–?” Heimler stopped himself. “You said someone sabotaged it. Who?”
+
+“He called himself Phantasm,” Levi said, watching Heimler’s reaction carefully. “He’s from an organization called the Crucible.”
+
+Heimler didn’t react at all, not even a microscopic tensing of a neck tendon. Levi supposed there was a reason why the professor had the Concept of Precision. “The Crucible,” he said. “A curious name.”
+
+“Do you know anything about them?” Levi asked.
+
+Heimler regarded him for a long moment. “That is a question for another day. Anyhow, you say an Elder Wyvern appeared?”
+
+Levi nodded. “It broke out of the dungeon. Thankfully, Qorbin happened to be in the town, and he was able to kill the Elder Wyvern along with our proctor, Professor Merriweather. Afterward, he decided to take me and Liliya on as apprentices because…” He shrugged. “Guess he just saw something in us.”
+
+“I see,” Heimler said. He chuckled. “It appears he beat me to the punch. Well, I can’t complain, I suppose. He’ll be a good mentor to you two. I’d even go so far as to say the very best.” There was a softness in the professor’s expression that Levi had never seen before, though it disappeared a moment later. “In that case…” A calculating glint appeared in Heimler’s eyes. “How do you feel about aiding me in some research within the Restricted Sanctum? I’ll provide you a very generous stipend and–”
+
+“Deal,” Levi said instantly, trying his best not to let his glee show on his face. “I look forward to working with you.” Authorized entry into the Restricted Sanctum? Yes fucking please. It was almost beautiful how perfectly the pieces fell into place. Thank goodness Levi hadn’t blasted his way through the sealed door that day.
+
+Heimler blinked at how quickly Levi had agreed, but nodded a moment later. “Phenomenal,” he said. “I’ll need to first figure out how your solution to the paradox affects my current research and prepare my laboratory workshop for outsiders.” He already seemed to be bracing himself for multiple sleepless nights. “Once I’m finished with all that, I’ll get in contact with the details.”
+
+“Sounds good to me,” Levi said. “Oh, and one more thing…” He smiled. “Mind not failing me in your class?”

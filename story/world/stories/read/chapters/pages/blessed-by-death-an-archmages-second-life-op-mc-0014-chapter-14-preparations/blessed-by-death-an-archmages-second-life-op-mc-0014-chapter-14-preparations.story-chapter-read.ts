@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const blessedByDeathAnArchmagesSecondLifeOpMc0014Chapter14Preparations = {
+  id: "01a16527-d3a0-7e30-bb49-18345d6e508e",
+  type: "page-type/story-chapter-read",
+  slug: "blessed-by-death-an-archmages-second-life-op-mc-0014-chapter-14-preparations",
+  position: 14,
+  publishedAt: "2025-12-25",
+  unit: "unit/words",
+  title: "Chapter 14. Preparations",
+  story: "story-read/blessed-by-death-an-archmages-second-life-op-mc",
+  ownLength: 2970,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2879335",
+      externalLink:
+        "https://www.royalroad.com/fiction/143894/blessed-by-death-an-archmages-second-life-op-mc/chapter/2879335/chapter-14-preparations",
+    },
+  ],
+  createdAt: "2026-10-22T19:47:51.327Z",
+  updatedAt: "2026-10-22T19:47:51.327Z",
+} as const satisfies StoryChapterRead
