@@ -393,9 +393,13 @@ export const seat = {
       decisionKind: "decision-kind/departure",
       statement: "Each thing done to a seat is a domain naming the modules that do it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat's screen waits on the seat's own page and on none of its related pages.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T01:07:35.561Z",
-  updatedAt: "2026-10-12T12:30:29.309Z",
+  updatedAt: "2026-10-22T15:49:09.425Z",
 } as const satisfies PageType
