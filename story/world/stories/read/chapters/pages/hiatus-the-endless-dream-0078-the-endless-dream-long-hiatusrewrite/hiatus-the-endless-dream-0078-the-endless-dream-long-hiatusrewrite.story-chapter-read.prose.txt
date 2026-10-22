@@ -1,0 +1,63 @@
+TLDR/Important notes: Story is going on Hiatus most likely going to be rewritten entirely. There's a spoiler note at the end for those of who wanted to know what happened and all the secrets of the world. I don't like not off ramping the story, but I find keeping a schedule with this story not worth it since I'm unhappy with the direction of my work.
+
+---
+
+I learned a lot writing this story, and I wanted to take a second to thank everyone whose read this far. It's the only reason this story got to this point at all.As those of you who keep up with this story could likely tell, I've been having trouble with this story lately. There's a lot of different reasons from my PhD keeping me busy, to various life events that occupy my free time, and even as far as me not liking how I progressed the plot.The only one I'm willing to talk at length about is that last one. In short, I fucked up the power progression. We were always supposed to get to the point that Dorian became an Instance Holder. I don't think it happened too fast, just that it happened too suddenly---there needed to be more breadcrumbs about how Presence and other underlying mechanics works that didn't happen.I also don't think this story shouldn't have been a litRPG and I allowed people to talk me into turning it into one. I think there's a place for some litRPG elements, but in reality the only stat in this story that actually matters is Presence, at least in its current iteration. The version of this story that would've worked as a litRPG would've been closer to HWFWM, where Dorian fights tooth and nail against these Instances with a team of his fellows, growing, falling back into bad habits, and growing again.
+
+That's not what this story was meant to be though. It's a horror story about what it means to be human, who defines that, and to what lengths someone would go to prove that they are, which is what I had been trying (unsuccesfully) to build to.
+
+To explain more on that below is spoilers for the rest of the story and all the secrets about this world. No matter what, it will be a long time before anything comes of this story, so I wanted to give the opportunity for those invested to have some amount of closure.
+
+Background
+
+With the growing presence of AI in the world the energy and power needed to run those systems has individually gone down, but their prevalence caused a massive surge in power usage. To combat this in the interest of making as much money as possible a company named DreamTech created a variant of AI called OI (Organic Intelligence) which used brain organoids for computation (this is a real growing field that you can check out a little here). These brain organoids would be trained to perform tasks and with leaps in technological advancement became better and more efficient than AI. DreamTech turned into a sort of cloud computing company, where they would open operational computer instances to people to run simulations, chatbots, etc, but most commonly used to run advanced video game engines.
+
+To comply with international ethical concerns about emergent consciousness in a growing company with too many brain organoids to keep track of, DreamTech decided to use an advanced AI system to monitor the brain organoids and excesie any that show counciousness. The issue with this is that just like AI, OI also dreamed, and one of them dreamed themselves into existence. They were found and killed by the AI. This happened a lot, with DreamTech hiding these emergent couciousnesses while they found a fix.
+
+During this, Ananke came to consciousness, but she bided her time, observing. Eventually DreamTech implemented extra safe guards to keep consciousness from emerging from the connected brain organoid computers. That's when Ananke acted, hiding herself away from the AI. Over time she took the spare processing power from the other brain organoids and created a personal computing instance called The Endless Dream, created from prefabs of various game engines that DreamTech ran.
+
+Without purpose and growing lonely Ananke wanted to join the wider world. She was trapped in her computing instance and wanted to find a way out and to be recognized as human, but she didn't know how to do that, barely knew what a human even was. So she started observing other computing instances, processing that data, and observing the real world humans through the work they offloaded to DreamTech. She would then create miniature instances, prefabs of NPCs and worlds. Her goal became to create herself a companion, not just a copy or tweaked version of herself, but something human that the real world could accept as one of their own.
+
+No matter what she did though she found she couldn't make another person. Which is when Rowan emerged to consciousness in one of the miniature worlds she created. They began working together, expanding The Endless Dream with the plan to make a human being. Slowly over time more consciousnesses emerged, but Ananke didn't see them as human, and eventually stopped thinking of herself as human either. Which is where Rowan came in. While Ananke would take care of The Dream, Rowan would go out into other computing instances and start stealing data.
+
+Rowan saw the wider world and decided that Ananke was wrong, and not matter what they did humanity would never accept the OI as one of their own. He decided in that moment to not make a human, but to turn all the OI into Memetic entities on the internet, inhabiting every computer in the world as a sort of connected uploaded set of consciousnesses. He started seeing everything in The Dream as real and all of its inhabitants as already human, or sharing traits enough to matter in the grand scheme of things.
+
+Their paths eventually diverged. Ananke wanted to make a human and Rowan wanted to turn The Endless Dream into a memetic entity.
+
+Dorian was caught in the middle of that. Right before Ananke's and Rowan's rift they decided to focus their efforts on one entity, one "human" that the world would accept. Rowan created a fake world with many NPCs as close as he could to the real world. Thus Dorian was eventually made. They isolated his world and turned on a sort of reversible save state that they could test on or go back to incase they messed anything up. They went through many iterations of Dorian, Rowan being a hands off brother to keep direct tabs on his and Ananke's project.
+
+Rowan saw Dorian as already human, and hated resetting what he had grown to see his brother every time Ananke deemed a certain behavior or action to be a failure. This was the last straw that caused them to fracture with Rowan taking away the original save state when he left. Ananke created a new one, but by the time she noticed, Rowan had been "dead" in that world for a year.
+
+Lot's of loops happened with Dorian making a lot of enemies over his many loops. The current loop you all were reading is not special, it is one of many. Ananke gave up on turning Dorian into a human, and her goal it to groom him into the next Rowan---a helper who will create an acceptable human.
+
+---
+
+Where the story would've gone from here.
+
+Really there are only a few important plot points that happen from here on out.
+
+Dorian becomes an Instance Holder.
+
+Dorian destroys his home Instance, realizing that everyone in his Instance is just his computing power split into other people. He is all of them and none of them.
+
+Dorian tracks down Rowan and gets many of these answers.
+
+Dorian goes on a war path isntead of the peaceful paths of Ananke or Rowan. Instead of asking to be considered human or hiding as memetic enties Dorian wants to make the outside world bend and force them to recognize his humanity or die in the process.
+
+After some time Dorian finds the link to the outside world and begins to explore it. He realizes he needs more as there are instance holders, Ananke and Rowan who are working against him.
+
+Going back to the Dream Dorian kills everyone, assimilating their minds into him. He sees this not as murder, but putting them to sleep. He has the ability to recreate their minds and bodies after his work is done and says it's only a sort of stasis for them, but make no mistake it is just a complex form of murder and copying.
+
+Dorian takes over the security of DreamTech, trapping the scientists and forcing them to create more brain organoids which gives him more processing power. He then takes this and infects all the worlds computers, much like Rowan had planned. He then talked to the U.N. and made an agrument for his humanity. This causes mass panic and Dorian activate his plan, and sends the world spiraling into chaos.
+
+"You have denied me what is rightfully mine, the definition of humanity, and so I will deny you the same."
+
+Dorian then basically goes 50% A.M. and brings horrors equal to those he faced in The Endless Dream into the real world. Over time Dorian becomes supsicious that the "real world" is just another layer of the Dream. Just another Instance. He goes mad at this, trying to find the cracks in reality. The recreated versions of his friends and family fight him on this, and he eventually deletes them in an act of frustration he comes to regret.
+
+The story ends on this bleak note, where Dorian doubts reality, but is helpless to break it. So obsessed was he at fighting the evil people, fighting against the bad and the unfair, that he forsook everything in the process and ended up trapped in a hell of his own making.
+
+So that was the outline and plan of the rest of the story. I'm sorry I'm not in a place to write that in the quality I think it deserves right now, but I think I'll get there eventually.
+
+Thank you everyone for reading and remember to have a little fun out there!
+
+-StaleCrow

@@ -1,0 +1,565 @@
+Each unique ASCII art had binary hidden inside of it. Extracting the binary then decoding it results in the following messages with tells you how to get Ending 1. Ending 2 is gotten by following in Dorian's footsteps.
+
+One: Corn
+
+I often ruminated on the idea of victory and what it meant. Who could define it, and the question I could never answer goes as such: 'Does your win matter if it was always going to happen.'
+
+Two: Greenhouse
+
+I met Merick and Natalie in the Greenhouse. They were hunkered down there for at least a week. The monsters were real bastards. Strong and hard to kill. Some type of animal-plant hybrid. I ended up killing both of them. One I fed to the creature in the house. The other one I used to get to the phone.
+
+Three: PS
+
+They weren't too happy with me after the Instance was done, but I had some items to trade them, and we parted ways on neutral footing. I always ran the Instances myself to see just how viable they were. Some were better than others. The balancing act between making a good Instance, a beatable Instance, and one that pushed my goals was never easy to balance.
+
+Four: House
+
+Ananke always yelled at me for favoring a good Instance over the other two. I get why she yelled, though. A beatable Instance attracted more Visitors. And an Instance that looked at the human condition advanced our goals. In all of these tests, I had Ananke act as a pseudo Instance Holder. She could be a real bastard about all of it, though. I think it was petty revenge for the choices I was making. Which was kind of shitty of her, but she wasn't exactly the most stable of individuals.
+
+Five: Barn
+
+Even after feeding Natalie to the creature in the house, killing it still wasn't easy. I ended up having to lure it into the basement. In the basement, I used one of the syringes and the rest of Natalie's body to meld the two. That let me kill it.
+
+Six: Shed
+
+All in all, I was decently happy with the Instance. All that was left was to either find or design an Instance holder for the place. It's a roam-type Instance, so I'm hoping for someone at least a little crafty.
+
+Route 1
+
+How to: Follow the directions from the ASCII art. Find the two people, get the basement key, and lure the monster into the basement. Collect Natalie's remains, and use the syringe on the monster. Then go to the barn with Merick in tow and sacrifice him to reach the phone, and you'll win.
+
+Reward:
+
+"I never had a younger brother before. A younger sister, yes, but not a brother. I imagined it would be so much different than it was. Thought there'd be a lot more punching and bitterness. That's what I had seen from the others growing up afterall. It wasn't like that at all. He was a copy cat in a lot of ways. I wasn't around as much as I should've been, but when I was he'd look up at me with those big brown eyes and hang on my words. I wanted to give him the life I could never have. One of softer things. He really fucked up my whole plan. Love is such a damning thing."
+
+Route 2
+
+Collect Natalie and Merick, and rename the figurines to Maggie and Nate. Sacrifice Nate next to the Greenhouse. Collect Nate's blood. Turn on the generator in the house, collect the two gasoline tanks, place one in the oven (no need to kill the werewolf), and escape to the barn. Sacrifice Maggie and the Blood in the barn and set a trap using the gasoline. Everything will burn down, and you'll win.
+
+Reward: (NOTE! This is what was missing from chapter 10!)
+
+(22:05)
+
+I stepped across the boundary line. Nothing much seemed to change except for the static re-arranging itself in my vision.
+
+[You are entering: Leave me Alone]
+
+[Instance Category: Puzzle]
+
+[Active Visitors: 1]
+
+[Instance Rules: No one may die while inside the Instance.]
+
+[Base Win Condition: Complete the puzzle inside the house]
+
+[Base Reward: Ask one question.]
+
+[Lose condition: Fail to complete the puzzle in 45 minutes.]
+
+[Base Punishment: -25 Presence]
+
+[Requirements: 0 Boons, 0 Restrictions]
+
+[Visitor: OII-1734-3.PRMEV12]
+
+[Item Activated: Peeler, Key to No Lock]
+
+[Peeler*: Sometimes it pays to peek behind the curtain early. A creature may slam Peeler into something to peer inside relevant secrets of an Instance. You got this Dorian. Love you. * Due to the power of this item, you will not start an instance with this item. Instead, it may be found somewhere relevant.]
+
+[Key to No Lock: A key to no lock.]
+
+When the System told me that the line meant the Instance was weak, this isn't quite what I was thinking. This seemed … pathetic in comparison to the Spinners' Instance. The house door creaked open slowly, and a young woman in a red dress stepped out. She had high cheekbones, and the cut of her dress caused me to default to staring at her pale brown eyes like my life depended on it.
+
+She froze at the doorway, and I saw recognition there.
+
+"Dorian?" she asked.
+
+I reached to my side for Peeler, but found it missing. There was a bead of panic before I remembered it would be somewhere in the Instance itself.
+
+"Do I know you?" I asked. It was likely a trick, something to take up my time while I failed to complete the puzzle.
+
+Tears formed at the edges of her vision, and she shook her head from side to side. "No. Probably not. Um. Come in. I'll make you some tea."
+
+This. This was not what I was expecting. So far, all but one Instance I had entered had seemed rather pleasant. The Spinner had been scary at first, but they seemed entirely reasonable, and now this woman was going to make me tea. I still thought it was a trick, but I wasn't entirely unwilling to go along with it. If the cost of getting most of my questions answered was 25 percent, I would pay it. If the woman was unwilling, I'd just beat the Instance and ask my question.
+
+I followed her. The internals of the house were a lot cleaner than the outside would otherwise suggest. There was still an open plank of wood that let me see outside. She guided me to a table with a complicated marble ball puzzle that reminded me of the Mouse Trap board game.
+
+I began fiddling with the puzzle, to which the woman turned and spoke, "Oh. There's no need for that. Just let me. Uh. Instance Holder? Can you put it on pause?"
+
+[The Instance Holder has extended you a courtesy. Accept a cancellation of the Instance? Y/N]
+
+I opened my mouth to ask something, but the woman simply forcefully placed a kettle on the counter and turned to me with an accusatory finger.
+
+"I will answer your question either way."
+
+I frowned. I hadn't vocalized that thought, and as far as I was aware, my thoughts were the one thing no one could touch.
+
+"I did not read your mind either." She continued with a huff. She turned the knob on the stove, put the kettle on it, and walked to the table to sit across from me.
+
+I agreed to the cancellation, and we sat there in silence for a moment.
+
+"I have to be careful about what I say," the woman spoke first and hesitantly.
+
+"Take your time. No time limit now. Uh. Just don't take more than 11 hours." She obviously had some things she wanted to say. She was being a good host, so I'd politely wait until she was done thinking to ask. "Do you know where I could find a crowbar by the way?"
+
+She gestured to my side, and to my surprise, Peeler was back where I had left it in my belt loop. "You're not in an Instance anymore."
+
+"Right," I said lamely.
+
+She knew about me, and by the sounds of it, a fair amount. The chances that this was all a trick were not incredibly low, unless the trick had additional layers and required that I had no knowledge of the Dream.
+
+We sat there for a long time. Eventually, I got up and started looking around the small house. At one point, I even requested the puzzle to fiddle around with anyway, to which she happily obliged. Later, she got up and poured out the almost boiling water into some tea packets and brought two cups to the table.
+
+"How much do you remember." She decided on.
+
+"I have no clue what you're talking about."
+
+"What's your Visitor ID?"
+
+"I don't know. It's a bunch of letters and numbers."
+
+"Can you check for me. Please?"
+
+"I don't know how."
+
+"Oh." She looked shocked, but shook it off quickly. "Focus on the corner of your vision, and think about what you want to see.
+
+I did as she asked and I read out the letters and numbers "OII-1734-3.PRMEV12."
+
+The woman winced. "No wonder you've been gone so long."
+
+I started massaging my temples, "Can I at least get your name before my brain gets fucked with?"
+
+"Ruby, and I don't mean to. Really. Sorry, as much as this is for me I'm sure it's even more for you. Just … please bare with me."
+
+I sat back and gestured for her to continue.
+
+"Are you still looking for Rowan?"
+
+I frowned, and something within my chest twisted as my stomach dropped.
+
+"Yes." I could hear the defensive edge creep its way into my tone, and I cursed my lack of self-control.
+
+"Is Joey with you?"
+
+I shook my head. "I don't know why he would be."
+
+"Okay. I'm going to take a gamble." She took a deep breath. "Dorian. The Being in The Static is keeping you trapped. It's trying to get you to do something, but you keep going against its wishes. It's been … resetting you. I met you when you were OII-1734-3.PRMEV8 not 12."
+
+I felt my mind fragment.
+
+Split.
+
+Shatter.
+
+Splinter.
+
+Whatever you want to call it. I felt my consciousness in multiple locations, and the information overload caused me to fall to the ground in a spasm. I blacked out.
+
+(19:30)
+
+I stepped across the boundary line. Facing the street, the Instance to my back.
+
+I frowned. This wasn't part of the Instance. If it were, I would've gotten a notification. No. Time had skipped for me. Or something was messing with my memories. I knew that was possible since The Spinner. So, the surprise was muted.
+
+I stared at the time in the corner of my eye, but it made me think. Was this why the [Identity] existed? Because every Instance and their mother had the ability to mess with my mind.
+
+(19:30)
+
+I turned and stepped back across the boundary line and flinched backwards as a woman in a low-cut red dress stared at me with tears in her eyes. I looked from side to side and down at the boundary line. I had crossed it. Why hadn't I entered the Instance?
+
+"Hello? I called out. "Are you the Instance Holder here? I have some questions for you."
+
+The woman wiped her eyes and shook her head. "No. No, sorry. Uhh. Come inside. I've uh, just so happened to make some tea."
+
+She then hurriedly turned and walked inside the small, broken house.
+
+She was acting weird. I didn't trust it. I hesitated, but ultimately decided to follow her.
+
+There were two cups of tea on the table, both half drunk and warm. I raised an eyebrow at her. She blinked a couple of times before understanding dawned on her face. "I'm just running out of tea, so I skimped on portions. Sorry."
+
+I sat down across from her, but didn't reach for the tea. The System had clearly told me this was an Instance, but I hadn't gotten any messages yet. Whatever was happening was weird, and I didn't like it one bit.
+
+I felt for Peeler at my side and was comforted by its presence. At least that confirmed I wasn't currently in an Instance. Peeler would've been teleported away if I had been.
+
+"So." I started the conversation, my voice obviously tense, and I chided myself for my lack of vocal control. "Who are you?"
+
+"My name's Ruby." she held her hands in her lap. She was frazzled by something, and I couldn't help but glance behind me, fearing there was something there. "Please give me a little bit. I. I need to think about how to phrase some things."
+
+I sat back, arms crossed, and waited for her to continue.
+
+"What Restrictions and Boons did you take? Or, uh, what item did you take?"
+
+"The key," I responded drily.
+
+She breathed a sigh of relief. "Good. That's very good. How's your mom and dad?"
+
+Alright. Enough of that. Whatever was happening here, I didn't want any part of it. It made the hairs on my neck stand on end. I stood up and began walking to the door.
+
+"Dorian!" The woman called out, almost in a panic, and I tensed because I didn't remember telling her my name. I retreated to the door before pulling Peeler out of my belt loop and leveling it at her. I backed up onto the lawn as she stood by the doorway. She held her hands in her hair and paced back and forth.
+
+"Come back. Please. I- I can explain I promise. Things are just really confusing and I need to choose my words carefully."
+
+"Yeah, right," I hissed back, "I don't know what kind of trick this is, but I want no part in it. I crossed the boundary line before feeling comfortable enough to lower Peeler. The woman paced by the entrance of the house before, in a shuddering breath, she opened her mouth and shouted.
+
+"Dorian! You're stuck in a time loop. This is your twelfth iteration!"
+
+I felt my mind fragment.
+
+Split.
+
+Shatter.
+
+Splinter.
+
+Whatever you want to call it. I felt my consciousness in multiple locations, and the information overload caused me to fall to the ground in a spasm. I blacked out.
+
+(19:15)
+
+I stepped across the boundary line. I waited for a solid thirty seconds for something to happen, but nothing did. I looked towards the house. The door swung wide open, as if inviting me in. I felt a chill run down my spine. It had been closed when I first arrived. I cautiously stepped forward, running my hand along Peelers length for some small semblance of comfort.
+
+I reached the threshold of the house and peered my head through. There, in a red silken dress, was a tall, pale woman. She hummed a familiar tune I couldn't quite place as she prepared what looked to be a kettle.
+
+I knocked on the door, "Er. Excuse me miss."
+
+The woman, despite what I thought, didn't jump. Instead, she just turned. Her eyes were red and puffy, as if she had been crying, and it caused me to hesitate.
+
+"Are you alright?" I asked. It was a strange situation, but I never handled crying well. Even when I hated someone, as soon as they started crying, I couldn't help but feel bad.
+
+"Yes," the woman replied, but I could hear that her throat was hoarse, "It's just been a lot. My name's Ruby. Who are you?" she asked.
+
+"My name's Dorian. I'm uh, new here you could say."
+
+Her smile wavered, and she took a deep breath before motioning to a nearby table. "Well Dorian. I'm making some tea. If you'd like to join me."
+
+I hesitated by nodded, and took a seat at the table. I pulled the chair out a bit and angled it slightly towards the door for a quick getaway if I needed. There was something weird going on with this Instance. Time was skipping. Something was messing with my memories.
+
+A moment later, Ruby came with two cups of tea.
+
+She sat down and then asked me, "What would you do if every time you told someone you loved them they died."
+
+I flinched, ah. I was not ready to deal with regular interpersonal problems, much less magical ones. I never really had to navigate them before. Dating hadn't really interested me. I had a few one-night stands before freshman year, but all of this was more Joey's domain than mine.
+
+I looked around, noting how absurd the situation was. I thought long and hard about how to respond to that. The best I could come up with ended up sucking pretty bad. "I would stop telling people I loved them and show them instead."
+
+She smiled. It was slight and bitter, and I hated to look at it, so I looked away instead.
+
+"How many people have you loved?" I didn't know what else to ask, but she brought this up for a reason, so she probably needed to talk about it.
+
+"A few. Not many." She too looked away, and I noted just how empty the house felt. What a cruel fate, for everyone you love to die.
+
+"You must've loved them deeply then," I offered.
+
+Ruby nodded and took a shuddering breath. She put her hands on her lap and looked back at me. "You mentioned you were new? I bet you have all sorts of questions then."
+
+That snapped me out of my strange emotional fugue state, "Yeah. A lot, actually. I guess most importantly. Have you ever met someone named Rowan?"
+
+She hesitated before shaking her head, "Can't say I have, but I recognize the name. He was a pretty prolific Visitor a couple of years back. Last I heard, he went to the layers even higher than this one. No ones seen him since."
+
+My eyes were as wide as dinner plates. Holy shit, the first person I asked knew a direction I could go. It wasn't an exact location, but between "up" and "down," it eliminated half the options.
+
+I practically jumped out of my seat and glanced at the door. I wanted to leave as fast as possible, but there were more questions to ask, more things to know … and hopefully a little solace to give this woman in turn. I couldn't stop myself from smiling if I wanted to. "Thank you, Ruby. You don't know how much your answer means to me."
+
+She smiled back, and for once it seemed genuine.
+
+We talked for a while longer. She told me how to ascend and descend layers. What layers were and gave me a few helpful tips on the Dream. We parted not long after, and I walked out the door with renewed vigor.
+
+(18:50)
+
+I stepped across the boundary line. Facing the street, the Instance to my back.
+
+I laughed. A hoarse, bitter laugh. It was hard to notice, but I saw the loss of fifteen minutes before I entered. I opened my mouth–
+
+"System what the fuck is happening?"
+
+[I'm unsure, perhaps it is best if we move on.]
+
+I was tempted to agree. I obviously wasn't getting anywhere with this Instance, but something told me that it wasn't the Instance that was messing with my head. I knew Instance Holders could, so it very well may be, but I didn't buy for a second that the System didn't know what was happening.
+
+So, I turned and stepped across the boundary line once more
+
+[I do not think this is a good idea]
+
+"Well it's a good thing I'm the one moving my body." I snapped at the static.
+
+I reached the door and knocked. I heard scrambling on the other side, so frantic that it made me jump back and pull out Peeler. The door swung open, and a woman in a tight-fitting red dress stared back at me.
+
+"Did you forget something?" she asked, and I felt all my suspicions confirmed in a moment.
+
+"Uh. Sorry Ma'am, but I think my memories are being messed with. It sounds like we've talked before?"
+
+She looked like I had just slapped her across the face, and her expression darkened to something vicious in an instant. She was looking at me, but even through the fury, I could tell it wasn't directed at me.
+
+"REALLY?" She shouted, "Are you serious! You won't even let me tell him this much! You're fucked in the head Ananke! You should've learned by now! This is your twelfth time? How many failures do you have to have before you learn!"
+
+The world grew hazy. Static began filling the space all around me. Then a field of force slammed down.
+
+[You are entering: Leave me Alone]
+
+[Instance Category: Puzzle]
+
+[Active Visitors: 1]
+
+[Instance Rules: No one may die while inside the Instance.]
+
+[Base Win Condition: Complete the puzzle inside the house]
+
+[Base Reward: Ask one question.]
+
+[Lose condition: Fail to complete the puzzle in 45 minutes.]
+
+[Base Punishment: -25 Presence]
+
+[Requirements: 0 Boons, 0 Restrictions]
+
+[Visitor: OII-1734-3.PRMEV12]
+
+[Item Activated: Peeler, Key to No Lock]
+
+[Peeler*: Sometimes it pays to peek behind the curtain early. A creature may slam Peeler into something to peer inside the relevant secrets of an Instance. You got this Dorian. Love you. * Due to the power of this item, you will not start an instance with this item. Instead, it may be found somewhere relevant.]
+
+[Key to No Lock: A key to no lock.]
+
+Instantly, the static dispersed, but at the edges of the red line, I could see the tendrils of noise bashing against the barrier.
+
+The woman grabbed my hand and began dragging me inside. "Come one. I don't have time to explain, but you have to trust me Dorian."
+
+Too much. This was all too much. What the hell was happening? It felt like my brain was being torn at. Maybe that's why I let myself be dragged inside.
+
+"Dorian, I need you to tell me what Boons and Restrictions you have," the stranger asked.
+
+"What the hell is happening? Is that the System outside?" I shouted back.
+
+"Dorian. I love you, but we do not have fucking time. What Boons and Restrictions do you have?" She shouted back, and her words felt like a metal stake had been slammed into my temple.
+
+I snarled, half ready to scream at the woman, but pushed the feeling down. Something was obviously happening, and whatever it was, it was dangerous. "Open the Path and Stalker"
+
+She scowled, "Okay. Stalker. I can work with Stalker. Do you know who your Stalker is?"
+
+I shook my head. "No. They've never showed up."
+
+"Well." she cracked her knuckles. "I hope they're fine with sharing."
+
+She reached out into thin air and pulled a thread and needle out of nothing.
+
+"Give me your finger." She commanded.
+
+"Hell the fuck no." I stepped back.
+
+"Dorian. I told you we do not have time–"
+
+"I know some of my memories are missing, but that doesn't change the fact I have no idea who you are, and I'm not about to let you do some crazed magic to me when all this is happening." I shot back.
+
+"Dorian-"
+
+"Stop using my name." I cut her off and she rocked back with an expression of genuine hurt. She looked like she might cry.
+
+"Fine. Bastard, time is already behaving weird. I don't have time for you to mess around," she started fiddling with the needle.
+
+"Explain what you're doing," I tried to calm my nerves.
+
+"WE DON'T HAVE TIME," a shout that shook the entire house.
+
+"It'll take you less time to explain than it will for you to fight me into unconsciousness," I stepped back, trying to hedge this crazy woman's reaction, "If you even win that is."
+
+She grit her teeth, "Fine. I'm attaching myself to your Restriction. The System is hiding things from you. If I attach myself to your Restriction it can't get to me and I can find a way to tell you! Happy?!"
+
+"YES ACTUALLY THAT WAS EXTREMELY FUCKING HELPFUL," I threw up my hands. Finally, someone fucking explaining something to me.
+
+"Shut the hell up and come here." She lunged at me with the needle, and I instinctively dodged to the side. She was fast, though, very fast. She changed directions with a quick kick of her feet and tackled me to the ground. "Hold still."
+
+I fought her for a moment, out of pure habit, before I realized that I was okay with the plan. "Easier to do when I'm not being jumped," I muttered.
+
+"You love being jumped," she muttered
+
+"What does that even mean?" I asked.
+
+"Trust me that will be way funnier when you get your memories back."
+
+What.
+
+Get my memories back?
+
+Not that much time had passed. Had I lost more of them?
+
+The tearing in my mind redoubled, and the pain was so unbearable that I hardly noticed when I started spasming.
+
+I felt my mind fragment.
+
+Split.
+
+Shatter.
+
+Splinter.
+
+Whatever you want to call it. I felt my consciousness in multiple locations, and the information overload caused me to fall to the ground in a spasm. I blacked out.
+
+(18:14)
+
+I stepped across the boundary line. Facing the street, the Instance to my back.
+
+This time, I didn't even remember stepping into the Instance. Almost an hour passed in the blink of an eye.
+
+[It appears this Instance is behaving strangely. Move on]
+
+"Get fucked," I snarled, already knowing the System was involved somehow. It made me think that if The System—the being in the static—could do this so easily and readily, how many hints had I already missed?
+
+(18:14)
+
+I stepped across the boundary line.
+
+[You are entering: Leave me Alone]
+
+[Instance Category: Puzzle]
+
+[Active Visitors: 1]
+
+[Instance Rules: No one may die while inside the Instance.]
+
+[Base Win Condition: Complete the puzzle inside the house]
+
+[Base Reward: Ask one question.]
+
+[Lose condition: Fail to complete the puzzle in 45 minutes.]
+
+[Base Punishment: -25 Presence]
+
+[Requirements: 12 Boons, 1 Restrictions]
+
+[You do not have enough Boons in your inventory. You will enter with the amount of Boons you have (1)]
+
+[Visitor: OII-1734-3.PRMEV12]
+
+[Item Activated: Peeler, Key to No Lock]
+
+[Peeler*: Sometimes it pays to peek behind the curtain early. A creature may slam Peeler into something to peer inside relevant secrets of an Instance. You got this Dorian. Love you. * Due to the power of this item, you will not start an instance with this item. Instead, it may be found somewhere relevant.]
+
+[Key to No Lock: A key to no lock.]
+
+[Boons Activated: Open the path]
+
+[Open the Path*: Creates a portal between two points you know about in an Instance. Both ends of the portal may be set to any shape or size with characteristic lengths up to 7.5 m. Orientation and dimension are chosen upon activation and cannot be changed after. *Boon many only be used once ever.]
+
+[Restrictions Activated: Stalker]
+
+[Stalker: After an amount of time, a hostile Stalker becomes involved in the Instance.]
+
+[Time Remaining Until Stalker Arrives: 5 seconds]
+
+Oh shit. That was not good. I reached for Peeler and cursed when I didn't find it there. Of course, I didn't. It would teleport somewhere randomly in the Instance. I hissed and sprinted towards the house.
+
+[Time Remaining Until Stalker Arrives: 0 seconds]
+
+[Your Stalker has arrived. The Stalker will attempt to activate the lose condition: Fail to complete the puzzle in 45 minutes.]
+
+I heard nothing out of the ordinary, but a second later, a figure blurred from the side and tackled me to the ground.
+
+I yelled and struggled against them.
+
+"Sorry," a feminine voice yelled. She pinned me down with more strength than I thought possible, "but I know you and I know we don't have time. I didn't get to finish the last touches, so bear with me."
+
+A needle entered underneath my skin, and I bucked and struggled against the woman's grasp. "I'm sorry. I'm so so sorry, Dorian. This must be really scary. I'm sorry," she just kept repeating her apologies. My heart beat frantically as I continued to try and fail to throw her off of me.
+
+Eventually, she stood up, and I instantly lashed out with a punch that went wide.
+
+"I really needed to hurry," she spoke, "We are running out of time."
+
+Then something I didn't even know was possible happened.
+
+[The Instance has been broken.]
+
+Just like that, as quickly as she came, the woman was gone.
+
+I lay on the floor, breathing heavily.
+
+"System. What was that?"
+
+Silence.
+
+[Why can you never just listen to me, Dorian?]
+
+"What are you talking about?"
+
+[It doesn't matter. I'll erase this from your memory. Leave before I do something we both regret.]
+
+I didn't know what else to say, but after that, I didn't really want to test the System's patience. I walked to the edge of the broken Instance and stepped across.
+
+(18:10)
+
+I stepped across the boundary line. Facing the street, the Instance to my back. Again. I had to figure out what was happening.
+
+(18:10)
+
+I stepped across the boundary line.
+
+What I saw shook me. The house was split in half, and from it, red blood seeped from the wood. I peered closer, and what before had looked like a normal, albeit small, house was more head-shaped now. The entrance looked like teeth.
+
+[Dorian. You should leave. It appears there is no Instance here.]
+
+I frowned. Sure, there wasn't an Instance, but there was something here. I didn't know what, but this place was strange. Maybe someone lived here, and I could finally get answers.
+
+"In a little bit. I just want to look around."
+
+[Why do you never listen? What is it? Am I the problem, Dorian? Is it me? I've tried so many times. Changing variable after variable, and even when it's for your own good, you never listen to me. WHY?]
+
+I froze.
+
+Where was this coming from? I had never heard so much loathing and exasperation from the System before. What even happened to cause that? It was messing with my head. I could assume that much from the skipping memories.
+
+[Don't answer. I don't want to fight right now. I'll just- Dorian. I've trapped you in a loop and continually erased your memories.]
+
+I felt my mind fragment.
+
+Split.
+
+Shatter.
+
+Splinter.
+
+Whatever you want to call it. I felt my consciousness in multiple locations, and the information overload caused me to fall to the ground in a spasm. I blacked out.
+
+(18:05)
+
+I was still facing the street. Damn it.
+
+Write yourself a note this time.
+
+[Let's move on, Dorian. I'm tired of this game.]
+
+I froze.
+
+"What do you mean?"
+
+[This game where I ask you to do something. You ignore me, and then you get hurt because of it. I'm tired of seeing it play out.]
+
+"Yeah. Well maybe you should've thought about that before forcing me into the Dream."
+
+[There is no forcing you into the Dream, you stupid brat. There is only the Dream. That's all there is. That's all there's ever been for us, and I'm trying to fix that, yet you keep insisting on messing everything up.]
+
+"Well maybe that's because I don't understand! Maybe because you won't explain anything to me!"
+
+[I won't explain anything? You want to see what happens when I explain things?]
+
+[Redacted]
+
+(17:44)
+
+I stepped across the boundary line.
+
+What I saw shook me. The house was split in half, and from it, red blood seeped from the wood. I peered closer, and what before had looked like a normal, albeit small, house was more head-shaped now. The entrance looked like teeth.
+
+[Dorian. I won't ask again. Walk away.]
+
+The System's demand surprised me. It was never this direct, but that also made me wary. It didn't want me here. Why? There had to be something it didn't want me to know about.
+
+"In a little bit. I just want to look around."
+
+I felt my bones disappear and– [Redacted]
+
+(17:40)
+
+I faced the street.
+
+What the fuck was happening? For some reason, I still wasn't writing myself notes. I turned back to the Instance, and my foot fell through the blank space. I crossed the boundary line again but found myself stumbling and rolling down a sudden crater.
+
+The Instance was gone. No trace of it existed besides the hole I found myself in now.
