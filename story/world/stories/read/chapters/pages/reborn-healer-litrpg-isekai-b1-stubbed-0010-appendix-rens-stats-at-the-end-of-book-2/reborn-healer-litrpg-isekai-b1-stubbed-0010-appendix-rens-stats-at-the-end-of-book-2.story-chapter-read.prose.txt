@@ -1,0 +1,143 @@
+Name: Ren Kane
+
+Core: Adept (Mage) / Adept (Warrior)
+
+Spells:
+
+[Healing]
+
+> Heal lvl 10 [Adept]
+
+>> Programmed Heal lvl 3 [Adept]
+
+> Spare the Dying lvl 9 [Adept]
+
+An optimized healing spell that targets vital functions above all else. Very useful for those on the edge of oblivion.
+
+> Anesthesia lvl 10 [Adept]
+
+Requires concentration. Renders a target you touch unconscious and numbs their senses. Ideal for complex surgeries that require multiple operations.
+
+> Reset Bone lvl 10 [Initiate]
+
+A more efficient way to heal dislocated or broken bones. As with many specifically oriented spells, this is a variant of Basic Heal.
+
+> Basic Quick Heal lvl 10 [Initiate]
+
+Send a burst of revitalizing energy into an ally within a moderate distance.
+
+> Healing Aura lvl 10 [Initiate]
+
+Requires concentration. While this spell is active, targets you designate within a small radius are slightly revitalized per second they spend within that radius.
+
+> Basic Heal lvl 10 [Initiate]
+
+The bread and butter of low-level adventurers. Revitalizing energy passes through you or a target.
+
+> Mend Wound lvl 10 [Beginner]
+
+> Cure Infection lvl 10 [Initiate]
+
+Cures infections. Cannot cure infections that have already set in deeply enough to cause necrosis or similar degeneration.
+
+>> Cure Minor Infection lvl 10 [Beginner]
+
+> Body Scan lvl 10 [Adept]
+
+Scans a section of the body for specific diseases or injuries. Can also be used to scan the entire body for major issues immediately.
+
+>> Inferior Body Scan lvl 10 [Beginner]
+
+> Identify Illness lvl 10 [Beginner]
+
+> Cure Poison lvl 10 [Initiate]
+
+>> Cure Minor Poison lvl 10 [Beginner]
+
+[Defensive]
+
+> Lock lvl 10 [Initiate]
+
+Magically locks a door or similar surface. This lock cannot be undone by non-magical lockpicks.
+
+> Fortify lvl 10 [Initiate]
+
+> Shield lvl 10 [Initiate]
+
+>> Barrier lvl 10 [Beginner]
+
+[Buff]
+
+> Doubletime lvl 8 [Adept]
+
+Requires concentration. Speeds up the user’s body, perception of time, and reflexes. Leaves the user exhausted after the spell wears off.
+
+> Augment Perception lvl 10 [Initiate]
+
+> Dash lvl 10 [Initiate]
+
+Grants a sudden, sharp burst of speed.
+
+> Overheal lvl 10 [Initiate]
+
+Despite the name, this is not a healing spell. Creates a layer of mana between the user’s skin and their clothes, providing temporary protection.
+
+> Swift Step lvl 10 [Beginner]
+
+> Enhance Strength lvl 10 [Beginner]
+
+[Offensive]
+
+> Fireball lvl 9 [Adept]
+
+A classic, deadly spell that combines heat and force in equal measure. Not recommended for use indoors.
+
+>> Heat Ray lvl 10 [Initiate]
+
+The evolution of Firebolt, this spell is more precise, uses more refined heat, and projects less force.
+
+>>> Firebolt lvl 10 [Beginner]
+
+> Pulse Wave lvl 9 [Adept]
+
+> Create Water lvl 10 [Initiate]
+
+Creates several gallons of distilled, clean water.
+
+[Soul]
+
+> Harvest Soul lvl 9 [Adept]
+
+> Mark Soul lvl 3 [Adept]
+
+Skills:
+
+> Nightmare’s Call lvl 10 [Adept]
+
+> Danger Sense lvl 10 [Adept]
+
+> Harmonic Awareness lvl 10 [Adept]
+
+> Split the Shadows lvl 10 [Adept]
+
+> Soulwalk lvl 10 [Adept]
+
+- Astral Phantasm
+
+> Absorb Nightmare lvl 10 [Adept]
+
+> Whispers From Within lvl 9 [Adept]
+
+> Unbreakable Will lvl 10 [Adept]
+
+> Dark Reflection lvl 4 [Master]
+
+[Lifeline]
+
+> Control Lifeline lvl 10 [Adept]
+
+> Nightmare Forged lvl 10 [Adept]
+
+> Siphoning Hex lvl 10 [Adept]
+
+> Hollow Point lvl 3 [Adept]

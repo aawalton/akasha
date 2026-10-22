@@ -1,0 +1,46 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const theGodOfMagicArchmageAcademyOpMcLitrpg = {
+  id: "01a164f3-32e5-7d45-9511-9b3495d0d724",
+  type: "page-type/story-read",
+  slug: "the-god-of-magic-archmage-academy-op-mc-litrpg",
+  author: "Kane Drake",
+  following: false,
+  unit: "unit/words",
+  title: "The God of Magic: Archmage Academy [OP MC, LitRPG] [Book 1 Complete!] ",
+  world: "world/the-god-of-magic-archmage-academy-op-mc-litrpg",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "156394",
+      externalLink:
+        "https://www.royalroad.com/fiction/156394/the-god-of-magic-archmage-academy-op-mc-litrpg",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Time Travel",
+    "Progression",
+    "Strategy",
+    "Comedy",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Crafting",
+    "GameLit",
+    "High Fantasy",
+    "Local Protagonist",
+    "Magic",
+    "Male Lead",
+    "Mythos",
+    "Romance Subplot",
+    "School Life",
+    "Secret Identity",
+    "Strong Lead",
+  ],
+  publicationStatus: "ongoing",
+  readLater: true,
+  createdAt: "2026-10-22T18:50:22.309Z",
+  updatedAt: "2026-10-22T18:50:22.309Z",
+} as const satisfies StoryRead
