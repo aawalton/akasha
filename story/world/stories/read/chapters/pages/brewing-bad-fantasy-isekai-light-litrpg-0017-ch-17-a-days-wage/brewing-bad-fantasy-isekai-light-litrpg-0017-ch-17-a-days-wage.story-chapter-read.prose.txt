@@ -1,0 +1,109 @@
+The next morning, Lucas watched the pot that was supposed to be simmering boil over with red froth for the third time that morning. He laughed at that and reflected that this would have been a pretty good way to make a living if the noble who was trying and failing to be his partner could actually make even a simple potion.
+
+A pound of herbs and other components boiling away in two different pots and then combined was enough for at least twelve lesser healing potions. At least that would be true if Adin wasn't spilling half of it.
+
+Sold for two silvers a pop, minus a couple coppers for the vials, which they’d have to start buying in bulk, they’d still be getting paid ten times more than a mason or a cobbler. Hell - they’d be getting twice as much as a physiker and slightly more than a goldsmith… each.
+
+“That’s the good stuff right there,” Lucas said as Adin panicked. “You’re ruining it. Take it off the heat!”
+
+Adin scrambled, almost burning himself in the process, but he moved the pot off the heat enough that it stopped boiling just as the smell of burning started to come from the pan with the rosewood bark.
+
+“Careful, you need to add more water, or you’re going to burn the whole place down!” Lucas cried theatrically.
+
+“This is impossible! Why aren’t you helping?” the lordling complained. “There’s too many things going on for just one person!”
+
+As much fun as he’d been having as he watched Adin screw up, though, he had to admit that the sheer amount of mats going to waste for this farce was starting to get on his nerves. The only useful thing the man had done all day was dispatch a servant to town with a shopping list for bottles, alcohol, salt, corks, and a handful of other sundries they were going to need.
+
+While doing this on a metal grate over a burned-down campfire using battered cookware was hardly ideal, it was still better than Lucas’s first setup had been and almost as good as the one he used to cook blue now, so that was hardly an excuse.
+
+“I’ll show you how it’s done next batch,” Lucas said, eying the stat window for each of the ingredients and deciding they were mostly okay. This would definitely be a tainted potion, but it would still do more good than harm.
+
+“Alright, pour them through the sieve and into the cauldron, and we’ll fish the burned bits out as best we can,” Lucas said finally. He noted the gray color and marked this batch down to one silver instead of two. It was medicine for the desperate, not a cure for the poor.
+
+Some small part of his mind told him that this wouldn’t be so bad, though. Sure, he’d make ten times less than he would brewing a nice big batch of blue, but he wouldn’t be making addicts or trading off human misery. Lucas started doing the math on how long it would take him to open his Mexican food-equipped inn on half a dragon a day when Adin interrupted him by yelping in pain as he burned himself.
+
+Lucas shook his head. “Fortunately for you, we got just the thing to take care of that,” he said, ladling a little of the steaming brew into a wooden bowl and noting the ugly ashen color that only had a few strains of oily pink on it. “Congratulations, my Lord - you’ve made your first potion. It’s terrible.”
+
+Alchemical Healing Mixture (18 doses): Healing 3, poison 2, endurance -1.
+
+The Viscount balked at that. At first, he tried to defend his efforts. “If it works even a little, then I’d say it was pretty good for a first-timer!” he declared.
+
+After that, he continued to protest loudly and proceeded to give Lucas a whole litany of excuses. Lucas didn’t pay much attention to any of that, though. Instead, he got to work and nodded periodically and said “uhuh” or “whatever” when it sounded appropriate as he prepared his own ingredients to show the man who had just failed so colossally under his instruction.
+
+He started with the bark. Once it was good and ground up in the mortar and pestle, he left that to soak in cold spirits. The stuff they were using now was too expensive, and something like that would cut into their profit margin in the long term, but Lucas had no intention of staying long enough to build a still and teach the Viscount how to make vodka from kitchen scraps.
+
+After that, he started to prepare the berries, cutting them open one at a time to get to the pits. As was the case with most alchemical tasks, it was tedious and simple, but he didn’t mind.
+
+“Why are you saving the berry flesh anyway?” Adin asked. “You said it’s not used in the recipe. Are we saving them for another potion or…”
+
+“Yeah, it’s called jam, and it’s the bomb,” Lucas said, rolling his eyes. “It’s a little sugar, a lot of berries, and some time, but I’ll work on that later.”
+
+“Why would you spend your time making jam when you could be making potions of healing or strength or even…” Adin’s words trailed off before he brought up the forbidden word again. Blue. It was never far from the man’s mind. ‘Why would you be making literally anything else when you could be making me my fix?’ Lucas heard the words, even if the man didn’t actually say them.
+
+“Because it’s fucking delicious,” Lucas sighed. “Because as much as your region gets right, it gets a lot of shit wrong. Like - you don’t even have hot sauce, man. That’s just one more thing I gotta change when I find the right peppers.”
+
+“What? There are many hot sauces. The pork we had last night was served with a hot port reduction that—” the lordling volunteered.
+
+“That ain’t even close to the same thing,” Lucas grumbled. “You’ll see. Now go scour these pots with sand before you ruin my cook. You burn it, you clean it.”
+
+All through the conversation, and even after Adin left to do his chores, Lucas kept working. He cut berries ground pits, and when all was in readiness by the time his mostly clean pots returned to him, he began to drain the now toxic spirits from the bark and boiled the two ingredients separately at different temperatures as he watched the stats of both fluctuate.
+
+Elderberry Seeds (processed): Healing 2, mana 1, poison 1, intelligence -1
+
+Rosewood inner tree bark (leached): Healing 2, poison 1, endurance 1, intelligence -1
+
+Theoretically, Lucas could have just boiled them together into one pot, but that wouldn’t have given him the same level of control. One of the reasons his concoctions were so much cheaper and simpler than traditional formulas was because he could see exactly what was changing in real-time. They just had to pile in tons of other ingredients and boil them all down until they each contributed only a little bit of healing to the final product.
+
+Rosewood inner tree bark (leached): Healing 3, poison 1, endurance 1
+
+He could do better, though. He could watch the lesser contributors fall away one at a time, slowly increasing the major attribute as he boiled it down.
+
+Rosewood inner tree bark (leached): Healing 2, endurance 1
+
+Lucas frowned as the canceled poison counteracted some of the healing. That happened sometimes and was frankly better than the alternative.
+
+Truthfully he still only understood how this works in the broadest of strokes. He didn’t attend alchemist school, or study under a master. Apparently the body he occupied was going to be a chef before the pox had taken him. He knew a few mechanics, though, like using alcohol to purify toxins, or boiling something to enhance the main property at the expense of the minor ones. There was a strange sort of logic to it.
+
+Through all of this, he never once let either pot boil over. In fact, he made his minion stoke the fire and add a little more wood, and when he was finally ready, he strained and combined the two into a separate pot and set them aside to simmer.
+
+Alchemical Healing Mixture (25 doses): Healing 5, poison 1, endurance 1. Those who imbibe have a 10% chance of nausea for one hour.
+
+It wasn’t perfect, but Lucas chalked that up to using pans that had not been scrubbed sufficiently. That was his fault. He’d seen the residue, but he’d been in too much of a hurry to go and do it himself. By the time it cooled, though, he knew that it would be a pleasant red-pink and that plenty of people would be happy to buy it at a cut-rate price. Honestly, they could probably dilute with some water and add a little elderberry juice color and get nearly the same price.
+
+The purpose of this exercise wasn’t to scam to make more money, though. It was to show off and demonstrate to Lord Parin that he was in no way ready for this.
+
+So, he filled up two small vials when the servant finally came back from town with his shopping list, and Gerwin brought them out to the cider house.
+
+Small Tainted Lesser Healing Potion (1 dose): Weak healing, poison 2, endurance -1
+
+Small Tainted Lesser Healing Potion (1 dose): Lesser healing, poison 1, endurance 1, those who imbibe have a 10% chance of nausea for one hour
+
+“See,” Lucas said, holding them both up to show off the obvious differences between both to the Lord and his manservant. “Which of these is worth two silver, and which of these should be fed to the pigs, huh?”
+
+“Well, you said they’d both heal, right?” The Viscount asked. “Sooo…”
+
+“I wouldn’t drink the gray one if you paid me two silver,” Gerwin said, cracking a rare smile.
+
+“Exactly!” Lucas said, trying and failing to give the man a fist bump. “He gets it. This is why you can’t be an alchemist Adin - you suck at it, to be honest.”
+
+“I know that,” the Lord admitted. “But you don’t. You’re great at this; if you did all the work, we could—”
+
+“There is no I in we, asshole,” Lucas said, cutting him off. “I paid my debts. I saved your life and gave this little experiment a go, but there’s no team if you bring nothing to the table, is there?”
+
+The butler excused himself from that uncomfortable silence without a word, and when Lucas realized he might have been a little too harsh, he added, “But hey - look on the bright side, at least you’ll get a bunch of healing potions out of the deal, because I sure as hell ain't taking all of this with me. You can sell that shit and make some coin.”
+
+“Where will you go?” the Viscount asked in a tone that was almost pleading. “Where will you find a better deal than this?> Here, you already have a lab and someone to help you and watch your back…”
+
+Anywhere there’s someone less annoying than you, honestly, Lucas thought, reflecting on how much he’d soured on the man after just a few days.
+
+He didn’t say that, though. As exhausting as he found it talking to the spoiled noble, he didn’t want to hurt the guy’s feelings more than he had to. Instead, Lucas just shrugged and said, “Who knows. I’ll go wherever the road takes me and find somewhere nice to settle down.”
+
+Truthfully, there weren’t a lot of places nicer than Lordanin; that’s why he’d come here from the little town in the middle of nowhere he’d started out in. Well, that and to escape the endless rumors that he was a zombie.
+
+He and Adin worked the rest of the day in relative silence. Eventually, Lucas mixed the two mixtures together and added a little fruit juice for color, creating something that was probably better and safer for whoever ended up drinking it.
+
+Adulterated Lesser Healing Potion (2 doses): Weak healing, poison 1, endurance -1, tart, those who imbibe have a 5% chance of nausea for one hour
+
+It was only once that was done, and they’d filled 21 vials with a deep red healing potion, that he finally turned to Adin and asked, “Well, you want to learn how to make it the other way now, or are you good?”
+
+The noble just glared at him, but that did nothing to stop Lucas’s smile.

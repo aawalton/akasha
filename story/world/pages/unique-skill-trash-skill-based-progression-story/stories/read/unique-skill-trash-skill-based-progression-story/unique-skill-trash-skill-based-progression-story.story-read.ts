@@ -5,7 +5,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory = {
   type: "page-type/story-read",
   slug: "unique-skill-trash-skill-based-progression-story",
   author: "Lykanthropy",
-  following: false,
+  following: true,
   unit: "unit/words",
   title: "Unique Skill: Trash [Skill Based Progression Story]",
   world: "world/unique-skill-trash-skill-based-progression-story",
@@ -38,5 +38,5 @@ export const uniqueSkillTrashSkillBasedProgressionStory = {
   publicationStatus: "ongoing",
   readLater: true,
   createdAt: "2026-10-22T16:49:13.804Z",
-  updatedAt: "2026-10-22T16:49:13.804Z",
+  updatedAt: "2026-10-22T23:48:58.433Z",
 } as const satisfies StoryRead

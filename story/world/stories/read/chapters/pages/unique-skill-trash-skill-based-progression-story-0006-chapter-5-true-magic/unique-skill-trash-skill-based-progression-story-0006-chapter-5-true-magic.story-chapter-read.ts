@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0006Chapter5TrueMagic = {
     },
   ],
   createdAt: "2026-10-22T16:49:13.804Z",
-  updatedAt: "2026-10-22T16:49:13.804Z",
+  updatedAt: "2026-10-22T23:48:58.433Z",
+  ownProgress: 1637,
+  progressedAt: "2026-10-22T23:48:58.433Z",
 } as const satisfies StoryChapterRead

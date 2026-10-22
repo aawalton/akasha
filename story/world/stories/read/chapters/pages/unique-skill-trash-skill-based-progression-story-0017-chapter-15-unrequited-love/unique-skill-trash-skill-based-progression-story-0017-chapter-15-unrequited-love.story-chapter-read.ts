@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0017Chapter15UnrequitedLo
     },
   ],
   createdAt: "2026-10-22T16:49:20.256Z",
-  updatedAt: "2026-10-22T16:49:20.256Z",
+  updatedAt: "2026-10-22T23:48:58.433Z",
+  ownProgress: 1879,
+  progressedAt: "2026-10-22T23:48:58.433Z",
 } as const satisfies StoryChapterRead
