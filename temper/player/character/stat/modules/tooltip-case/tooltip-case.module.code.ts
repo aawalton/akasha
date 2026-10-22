@@ -62,9 +62,9 @@ export const tooltipCaseShape = z.strictObject({
 
 export type TooltipCase = z.infer<typeof tooltipCaseShape>
 
-export type TooltipCaseRead = Omit<TooltipCase, "pinned" | "gaps">
+type TooltipCaseRead = Omit<TooltipCase, "pinned" | "gaps">
 
-export type Worked = { readonly game: number; readonly temper: number | null }
+type Worked = { readonly game: number; readonly temper: number | null }
 
 const skillHeld = z.object({
   esoSkillId: z.number(),
@@ -110,10 +110,6 @@ export function skillValuesIn(root: string): readonly unknown[] {
   return [temperSkill.slug, temperScribedSkill.slug].flatMap((type) =>
     valuesOfType(root, type).map((one) => one.value)
   )
-}
-
-export function equationsIn(root: string): Equations {
-  return equationsOf(skillValuesIn(root))
 }
 
 export function skillStatsOf(
@@ -220,7 +216,7 @@ export function healingDoneOf(hash: string, bar: Bar, reading: ReadingCalculated
 
 type Onset = { readonly weapon: number; readonly spell: number }
 
-export type ReadingHeld = {
+type ReadingHeld = {
   readonly activeBuffs?: readonly {
     readonly name: string
     readonly stacks?: number
@@ -231,7 +227,7 @@ export type ReadingHeld = {
 
 const POINTS_KEPT = [warMage, mighty]
 
-export function heldOfReading(
+function heldOfReading(
   reading: ReadingHeld
 ): Pick<TooltipCaseRead, "buffs" | "stacks" | "shares" | "championPoints"> {
   const { activeBuffs, championPoints } = reading
@@ -304,7 +300,7 @@ export function activeOf(
   }
 }
 
-export function formulaOf(abilityId: number, placeholder: number): string {
+function formulaOf(abilityId: number, placeholder: number): string {
   return `${String(abilityId)} <<${String(placeholder)}>>`
 }
 
