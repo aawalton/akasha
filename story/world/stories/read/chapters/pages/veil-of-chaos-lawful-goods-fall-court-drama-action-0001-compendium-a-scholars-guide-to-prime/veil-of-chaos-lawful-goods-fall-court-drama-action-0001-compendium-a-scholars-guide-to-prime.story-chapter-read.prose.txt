@@ -1,0 +1,819 @@
+Timeline, Economy, and World Lore
+
+-Skip Density, Go To Political Theater!-
+
+Again! This is a non-narrative reference chapter. You can skip this and come back later if you’re here for the story first.
+
+If you spot anything that you think is sus, then don’t hesitate to comment or ask for clarification. I made it a lot simpler than the behind-the-veil document to make it more digestible.
+
+What’s Inside:
+
+- 🧭 Timeline of Major Eras (Sundering to Present)
+
+- 👤 Characters Glossary
+
+- ⚔️ Items, Skills, Feats & Class Mechanics
+
+- 🎭 Classes, Races & Reincarnate Mechanics
+
+- 🌌 Reincarnate Perks & Divine Ties
+
+- 📈 Leveling & Experience
+
+- ☠️ Resurrection Penalties
+
+- 🏰 Dungeons, Raids & the Shadow Pits
+
+- 🪙 Economic Structures — The Legacy of Imperium
+
+- 🏘️ Lifestyle Costs & Pricing
+
+- 🍷 Item Costs & Services (Potions, Food, Lodging)
+
+- 🔮 Mana Springs & Public Magic Access
+
+- 🌙 The Nine Moons & Greater Deities
+
+👉 Jump straight to Chapter 1 to meet Damon and begin the story.
+
+1. Timeline.
+
+The Rootflame War Era
+
+[Years 0 R.S. - 200 R.S.]
+
+0 R.S. — The SunderingWorld-ending conflict among reincarnates reshapes Prime. The first Veil of Chaos—nine greater deities’ moons converging—is the earliest recorded in typical human history. Ancient races, such as the sun elves, may have pre-Sundering records.Most nations collapse. Vast regions are reclaimed by nature, turned into deserts, or left as wastelands.Discovery of the Infinite Dungeon: A reality-warping labyrinth with spatial floors is uncovered amidst the ruin.
+
+5 R.S. — Founding of AurelianThe Delmore family leads the settlement near the Infinite Dungeon, laying the foundation for what will become the most influential city in the new world.
+
+10 R.S. — Second Veil of ChaosThe Veil returns, proving this is a cyclical event. Every decade it brings Seeds of Chaos and dungeons that must be conquered or risk breaking into the world.The first reincarnates awaken in this new cycle. Once legendary Level 100 heroes, most killed one another or vanished during the Sundering. Now, reincarnates are met with fear and hostility—many are killed before they can mature.
+
+30 R.S. — Natural Good Reincarnate Group AwakensMemories and powers return to a group of children growing up together in a ruined northern town. At age ten, they survive an assassination attempt by local leaders and begin a harrowing journey south.
+
+45 R.S. — Reincarnate FalloutDue to lingering scars of the Sundering, reincarnates receive little support. Some manage to thrive, but many are hunted or broken by Greater Deity champions.Natural Good Update: The group survives, finding shelter in the rising town of Aurelian. They begin delving into the Infinite Dungeon.
+
+50 R.S. — First Chaos Tree DiscoveredA unique dungeon of plant-like form appears where the modern city of Bluerise will later stand.A newly awakened Chaotic Good reincarnate—dryad—claims it as an omen and secures limited support from her people. She discovers the Tree’s floors are like dungeons, but five times harder, with a 500% EXP multiplier.
+
+70 R.S. — Chaos Tree ProgressWith each Veil, the Tree grows larger, seemingly nourished by divine light or absorbing it to resist falling Seeds. After decades, its branches cease growing.The dryad reincarnate vanishes upon reaching Floor 75. Her community pleads with Aurelian for aid, but tensions rise between humans, fae, and elves.The Adventurer’s Guide is Founded in Aurelian by a True Neutral Bard reincarnate, formalizing exploration efforts.
+
+80 R.S. — City of AurelianAurelian grows into a true city, enriched by dungeon relics and investors. As wilderness is tamed, natural races grow uneasy.Chaos Tree Update: The Natural Good group climbs to Floor 74, finding a note from the vanished dryad detailing a lich-aspiring undead reincarnate on Floor 75. They fight him, free her soul from corruption, and retreat to recover from curses.
+
+85 R.S. — Infinite Dungeon NamedThe Natural Good group, now averaging Level 45, conquers the 100th floor of the Infinite Dungeon.They defeat Zyrraketh, the Echoing Maw (Lv. 47 Phase-Shift Hydra). Beyond lies a 101st floor—the dungeon is officially named the Infinite Dungeon. They begin preparing for the Chaos Tree.
+
+87 R.S. — Chaos Tree ProgressThe Natural Good group pushes through to Floor 99. Champions and Floor Bosses grow as strong as Zyrraketh. They reach Floor 100—then vanish from history, presumed dead.
+
+90 R.S. — Chaos Tree ProgressThe Infinite Dungeon becomes the preferred target of adventurers, offering safer, steadier progress than the volatile Tree.A Chaotic Neutral reincarnate rises to prominence, reaching Level 48. He refuses to enter the Chaos Tree.Meanwhile, the Tree blooms with void-black flowers. Clerics of Titania warn of disaster if it is not destroyed. A newly awakened Chaotic Good cleric echoes the warnings: it is already too late.
+
+100 R.S. — Chaos Tree BreakWarnings go unheeded. During its 5th Veil, fifty years after sprouting, the Chaos Tree folds in upon itself and collapses into an abyss.From it emerges Irraleth, the Rootflame Reborn (Lv. 95 Red Dragon). She scorches the continent, transforming the eastern jungle into the Red Desert of burning ruby sands, then vanishes.Many view her as divine punishment for rejecting reincarnates. Others note she spared the Tree’s surroundings, questioning her role entirely.Bardic tales claim she later fled north, feuded with a Gold Dragon, and vanished—dismissed by most as myth.Lesson: Never allow a Chaos Tree to live for 50 years.
+
+From the abyss also emerges Aethryn, Warden of Withering Hope (Lv. 50 Raid Boss).She leads armies of Champions and warped beasts across the continent, enslaving whole towns with psychic domination.Thus begins the Rootflame War, forcing all races into fragile unity.
+
+101 R.S. — Imperium Trading Company CreationA Lawful Neutral sun elf reincarnate creates the Imperium Coin, a magical and economic unifier.His rise marks the beginning of the holy reverence later generations grant the sun elves, despite their isolationist doctrine.He becomes the leader of the revolution, ending the Rootflame War not by crown or sword, but by coin and balance.
+
+135 R.S. — Slaying of AethrynWith Imperium’s leadership, the Rootflame War ends. Aurelian becomes the capital of the Imperium system, and Aethryn’s eldritch reign is broken. Nations begin organizing for the first time since the Sundering.Imperium refuses the title of emperor, uniting peoples through shared currency and trade.
+
+141 R.S. — Nations FormNew nations begin to emerge across the continent, framed by Imperium’s balance of coin and council.
+
+152 R.S. — Birth of the Tenebrin Royal FamilyThe people narrowly vote for monarchy over Aurelian leadership, birthing the Tenebrin dynasty.The Delmore family is granted high nobility with sovereign control of the Infinite Dungeon. This sparks tension between the new monarchy and the ancient family.Rumors spread that the Delmores are reincarnates of Titania, bound to her clerics.
+
+178 R.S. — Aurelian Castle CompletedSymbol of the city’s independence and wealth.
+
+189 R.S. — Civil UnrestNoble territories of Tenebrin grow restless as Aurelian asserts more autonomy.
+
+200 R.S. — Imperium Coin Becomes Global StandardImperium leaves the continent, spreading his system worldwide. The Coin becomes fully integrated with magical gear, ensuring its dominance.
+
+The Imperium Era
+
+[Years 200 R.S. - 700 R.S.]
+
+280 R.S. — Imperium's AssassinationMurdered by a dark elf—a people who wholly worship The Spider, the Chaotic Evil High Goddess—this brings the focus to the Darkvein for generations to come.Having forethought, Imperium set up his economic empire so it would last beyond his death. Magical devices he created allow for his enchantments to continue after his loss of expertise, and a Lawful Neutral council he established with every race having a seat at the table continues.
+
+The Darkvein — A dangerous place below the surface of the world, kept in check by the High Deities, it festers with creatures beyond any typical surface dungeon and its breaks. On the surface, Level 50 is typically as high as a creature from a dungeon break can become, without exceptional circumstances. However, the Darkvein goes beyond that. Many reincarnates vanish chasing its secrets, believing answers to the Sundering lie beneath its abyss. ‘Evil’ races live within its depths, hardened by its higher-level requirement for survival.
+
+300 R.S. — Assault on Imperium LeadershipAn attempt is made by a Lawful Evil reincarnate to take over the whole network, flipping council members or assassinating them. Whether the blade was guided by divine will or mortal ambition is debated still.In the wake of Imperium’s death, fear of infiltration by dark elves spreads. Noble houses across the continent begin executing suspected Spider cultists, and Tenebrin passes the “public service to eradicate dark elves” law.The purge fragments alliances: some humans and other races push for total extermination on sight, while dwarves and sharkfolk become more isolationist. Individuals still travel abroad, but suspicion runs high.Legacy: Dark elves become cultural scapegoats, further isolating them underground into the Darkvein.
+
+330 R.S. — Aftermath of the Coup AttemptThe Lawful Evil reincarnate’s attempt ultimately fails, but half a dozen original council members—including the snow elf, sharkfolk, and dryad leaders—are murdered.The snow elves and sharkfolk withdraw from the system, becoming some of the few races in the modern day to maintain their own internal currencies, withdrawing from global trade.
+
+345 R.S. — Shattered Coin CrisisA wave of counterfeit Imperium Coins surfaces—enchanted fakes that destabilize markets. Entire towns collapse economically, merchants refuse to trade, and famine spreads in smaller border regions.Resolution: The Council strengthens the enchantments of the Coin, introducing regional minting towers guarded by reincarnates, making the currency more “sacred.”Legacy: Fuels superstition that mishandling a Coin offends Imperium’s lingering spirit.
+
+372 R.S. — The Second Bluerise ScarA Chaos Seed unexpectedly sprouts near the old Chaos Tree scar. Though contained, its raid boss wipes out several reincarnate-led parties before falling.Legacy: Reinforces the cultural maxim: Chaos Trees must never be allowed to live. Aurelian strengthens its Adventurer’s Guide, formalizing reincarnate “registries” to track and monitor new awakenings.
+
+411 R.S. — Council SchismDisagreements erupt within Imperium’s Council: some push for stricter laws on reincarnates after several Neutral Evil ones destabilize towns; others argue reincarnates are vital to balance.Half the Council resigns, creating a rival “Iron Council” that pushes authoritarian law and anti-chaos doctrine.Legacy: For a generation, two competing councils issue rulings and currencies — the “Twin Laws” era of constant bureaucratic contradiction.
+
+439 R.S. — The Silent DecadeFor 10 years, reincarnations have been mysteriously dwindling, with fewer than a dozen recorded across the continent. Adventurer guilds panic, fearing the “flow of souls” has been blocked. Some theologians argue the Veil of Chaos consumed them, or they're trapped in the Darkvein, as many are now venturing into never to be heard of again.
+
+476 R.S. — The Thorn RebellionRural fae and dryads, angered by deforestation for Imperium trade routes, rise against human and dwarf settlements.The rebellion is bloody but short-lived, crushed by joint forces.Legacy: Seeds discontent that Sorrel, the dryad saint, will later heal by regrowing Bluerise.
+
+499 R.S. — The Abyssal EclipseA rare triple-evil lunar eclipse (three deity moons aligning) causes magical surges across the land. Monsters pour out of dormant dungeons; evil reincarnates awaken in droves and integrate into society, working on a long-term plan.Sorrel, sensing Titania’s call, begins her transformation into a rooted guardian.
+
+500 R.S. — Sorrel RootsSorrel, the dryad, roots her tree body, dedicating herself to Titania and founding new Tenebrin after decades of conflict between humans and fae races. Bluerise is seeded and regrown due to her efforts, healing the scar left by the Chaos Tree.
+
+578 R.S. — Gladiatorial Regulations Act (GRA)Outlaws human/elf/dwarf gladiator arenas; permits licensed “monster containment demonstrations” for training, research, and security. Establishes venue licensing, healer oversight, and a monster level cap (10)—but never defines type beyond “legal monster.”
+
+600 R.S. — The Holy Emperor ExpandsThe Holy Emperor begins colonizing Titania’s lands, pushing for aggressive territory expansion while maintaining peaceful relations with Titania’s people. Sorrel protects displaced fae in the Garden District but loses ground due to the peaceful takeover.
+
+Holy Emperor Accords (Divine Oath Recognition Act)Officially recognizes divine contracts (which were in practice long before) sworn before the Holy Emperor, or a select few other deities, including Titania and Khronar.
+
+603 R.S. — Extra-Pantheon Clerical Recognition Statute (EPCRS)Formally recognizes clerics not of The Nine if a stable Blessing (e.g., Immortality) and deity-seal pass inquisitorial proof.
+
+663 R.S. — The HollowingThe Infinite Dungeon ends: a Level 77 party hits a dead-end at Floor 2,768. Songs call it the Hollowing — the day hope itself hit stone.
+
+Identity & Status Evidence SafeguardsFor registry changes, requires multi-source corroboration (temple seal + magistrate + guild attestation) unless wartime restoration is invoked.
+
+671 R.S. — Racial Feat Attribution AddendumIf someone shows racial Feats without a documented curse/metamorphosis chain, the registry defaults to mixed ancestry rather than “cursed human.”
+
+672 R.S. — Birth of Merana ThorneMerana Thorne is born, a True Neutral reincarnate conceived during the Veil of Chaos. Snow Elf births take two years.
+
+Royal Integrity ActProtects royal image, titles, and dignity; criminalizes non-consensual royal impersonation, lewd depiction, and sale of likeness. Includes consent carve-outs: a legal adult royal may waive protections by signing a registered likeness contract.
+
+674 R.S. — Proxy Performer & Bard Licensing RuleCreates a basic license for contracted impersonation (bards/actors) under audit; royals still need the 672 waiver.
+
+678 R.S. — Regression ConfirmedFloor 2,732 of the Infinite Dungeon is found years later, confirming the collapse was real.
+
+Changeling Registration Ordinance (CRO-I)Requires changelings to register forms, keep use-count ledgers, and mark paid impersonations; unlicensed royal impersonation = felony.
+
+697 R.S. — Dungeon Floors VanishThe Infinite Dungeon’s lower depths disappear entirely, triggering widespread panic as the once-endless labyrinth proves finite.
+
+The Hollowing Era
+
+[Years 700 R.S. - 785 R.S.]
+
+728 R.S. — Birth of Aldwin ThorneAldwin Thorne (human) is born. By 800 R.S., he will become Archmage and Head Researcher of Bluerise, mastering pre-Vanishing genetics and treaty law.
+
+749 R.S. — End of the Seafolk War / Collapse of the Treaty of TidesEmergency decrees, embargoes on sea-ports, mass internment debates. Tenebrin pivots from diplomacy to containment.
+
+750 R.S. — The God Hunter EmergesA mysterious figure around Level 100 begins hunting reincarnates across Prime. His motives remain unclear—vengeance, balance, or divine directive. Fear of his shadow shapes reincarnate activity for decades.
+
+Humanoid Versus Monstrous Humanoid Clarification ActCreates “Monstrous Humanoid” and “Seafolk” legal classes; mandates racial tagging in official Status Records; empowers magistrates to reclassify edge cases during wartime recovery.
+
+751 R.S. — Enemy-Seafolk Containment & Citizenship Review EdictFlags any full/half Seafolk as potential enemy combatants; forces citizenship audits; limits port access and guild licensure for sea-lineage.
+
+752 R.S. — Indenture & Servitude Harmonization Code (ISHC)Codifies indentured servitude protections (pay rates, injury care, housing, maximum terms)… for citizens and “humanoids.” Explicitly excludes monsters and “beasts.”
+
+760 R.S. — Malik Tasnia BornOne of only three reincarnates born in this Veil of Chaos cycle. His path will shape the continent’s survival.
+
+~767–769 R.S. — Merana VanishesMerana disappears under unknown circumstances. The act is never made public, and only a handful of reincarnates know.Esgneal—her closest companion, and possibly her lover—begins an obsessive search for her.
+
+769 R.S. — Second Assassination Attempt on Tenebrin RoyalsAnother attempt is made on the Tenebrin Royal Family. It fails, but increases paranoia and fuels rumors of corruption and divine retribution.
+
+770 R.S. — The VanishingAll reincarnates abruptly disappear—including Esgneal (Lv. 65 Titania Reincarnate)—except for Merana (reason unknown; some claim she caused it) and the three reincarnates born in 760 R.S.At the same time, a Hell Gate opens in Rashguard, a democratic republic north of Tenebrin. Demons flood Prime.Malik Tasnia’s memories return during the crisis, marking him as one of the only active reincarnates remaining.
+
+772 R.S. — Birth of Stephen DelmoreStephen Delmore is born, future Marquess of Aurelian. He is raised in law, divine contract theory, and governance. His mother dies under mysterious circumstances, officially attributed to childbirth.
+
+774 R.S. — Status Record Standardization Act (SRSA)Makes Status windows and registry papers the primary evidence in court. Testimony can’t override a clean registry entry without divine writ or senior-inquisitorial proof.
+
+~775–780 R.S. — Merana ReturnsMerana resurfaces and learns of Esgneal’s disappearance. She begins investigating the Vanishing, though some question whether she seeks truth or conceals guilt.Tenebrin royalty request her aid in the war, but she refuses, citing neutrality.
+
+777 R.S. — Birth of Princess CatelynPrincess Catelyn is born—future mother of Damon. Known later as a royal rebel.
+
+780 R.S. — Reincarnate WaveA new reincarnate wave begins with the births of Brand (Chaotic Good) and Tate (Lawful Good).Malik Tasnia, hardened by brutal warfare, reaches Level 49 while supporting the new reincarnates. He encounters Merana during this period.
+
+The Rosen Monarch awakens, devastating the northern territories. Malik Tasnia is directed by Titania to confront the dragon goddess. Both vanish in the ensuing conflict.
+
+Lord Malik Silverwing and Lady Rose Silverwing purchase barony over Emisberg, a seaside territory in Tenebrin’s southern coast.
+
+Citizens’ Nullification Act (CNA)Allows the Crown/courts to nullify citizenship for treason, monstrosity reclassification, or “civilizational threat” categories. Includes species-specific amendments the Crown may activate during crises.
+
+782 R.S. — The Public Decency Statute of 782
+
+Expands the Dignified Conduct Code to criminalize “uncivilized” conduct among lower-class and demihuman populations.
+
+Framed as a postwar stabilizing measure following Chaos incursions and the Vanishing of most reincarnates, the statute codifies standards for “civic presentation” in urban areas. Enacted with bipartisan noble support and theological backing, it aims to restore public morale and visible order amid mounting post-war exhaustion. The war with Hell only entrenched its use and acceptance among the poor who require work and support to build meaningful lives.
+
+Prohibits public “acts of indignity,” including:Refuse consumption, open bathing, tail/limb exposure in common zones, scavenging, “predatorlike” behavior, and sleeping outside zoning compliance.
+
+Authorizes magistrates to issue fines, enforce registry downgrades, or initiate indentured servitude for repeat violators.
+
+Introduces the “Civic Harmony Clause,” empowering guards to assess violations based on “dissonance with local expectations,” effectively legalizing profiling based on appearance, dress, and race for public health.
+
+783 R.S. — The Emisberg CrisisHell forces erupt in Emisberg. Panic spreads when a hidden, fully grown Chaos Tree is revealed on an island off the coast.Mass gatherings unite adventurers under Lord Malik Silverwing, joined by Tenebrin’s elite paladin divisions.
+
+Lord Malik Silverwing leads a daring assault into Hell’s encampment. A mysterious implosion wipes out the site, leaving no trace. Malik Silverwing is presumed dead.
+
+A massive Rosen Flame vortex consumes the Chaos Tree, annihilating it. Hell’s forces vanish.It is the last known sign of the Rosen Monarch, the dragon goddess.
+
+Lady Rose Silverwing disappears soon after, leaving control of the estate to their banker, a wood elf named Ena. Rumors swirl about her fate.
+
+Late 783 R.S. — Birth of Cassy (“Trash Saintess”)Cassy, a shark demi-human, is born in the arena system. Destined for notoriety, she later appears prophetically in 800 R.S.
+
+The Current Era
+
+[Years 785 R.S. - 800 R.S.]
+
+785–788 R.S. — Stephen Becomes Marquess of AurelianBetween ages 13–16, Stephen inherits his title following the mysterious death of his father.He launches sweeping reforms, including governance restructuring and the founding of the Adventurer Academy, a training institution to regulate and support adventuring parties across the continent.
+
+~789 R.S. — Catelyn EnsnaredPrincess Catelyn is captured and brainwashed by a dark elf vampire lord. She is prepared for a ritual tied to forbidden dhampir and necromantic rites.
+
+Beast-Management Ordinance Consolidation (BMOC)Consolidates capture, transport, training, and public “demonstrations.” Any “monstrous” registry tag = eligible, if Lv. 10 cap and healers present.
+
+790 R.S. — The Ritual and Damon’s ConceptionThe vampire lord’s ritual succeeds. Damon is conceived—a pivotal, mystery-laden event for future series.At the same time, Aria, Catelyn’s unborn twin daughter, has her soul bound into a lich’s phylactery, sealed within a necklace. The necklace passes mysteriously into Stephen’s possession, and he entrusts it to Catelyn.
+
+Late 790 R.S. — Damon’s BirthCatelyn, only 13 years old, gives birth to Damon through the dark ritual. The truth of his mixed bloodline is hidden behind a bracelet concealing his nature.In Tenebrin, fierce debate begins over monster battle ethics law, framing questions of morality, slavery, and the definition of monstrosity.
+
+791 R.S. — Rescue and ExileStephen rescues Catelyn and the infant Damon. The vampire lord escapes, leaving unresolved threads for the future.When the royal family learns Catelyn has borne a child, she is swiftly exiled. Her arranged marriage to a foreign prince is annulled.Catelyn retreats to the Delmore estate in Aurelia. She raises Damon and Aria in quiet seclusion while donating large portions of her monthly royal allowance to public charities.
+
+792 R.S. — Identity & Performance Commerce Act (IPCA)Creates a formal market for licensed likeness: crest + unique legal code + use-count. Registers actors/changelings/bards as lawful proxies when the subject is an adult and signs.
+
+~790–800 R.S. — Stephen’s Hidden SafeguardsStephen begins building covert protections around Damon, Aria, and Catelyn.He creates a loyalist intelligence network and cultivates alliances with reincarnates, including Merana.
+
+~792 R.S. — Zorya’s ApprenticeZorya discovers a scavenger child named Ashcroft and begins training her in deception, contracts, and manipulation.
+
+792–800 R.S. — Ashcroft’s RiseAshcroft rises from obscurity, eventually inheriting a noble house. She begins exploiting loopholes in Tamer law, laying the foundation for her future influence.
+
+795–800 R.S. — Zorya’s InfiltrationZorya embeds herself within bureaucratic wards and contract systems, subtly bending Tenebrin’s legal framework to her designs.
+
+796 R.S. — CRO-II (Changeling Controls Expansion)Expands 778: stricter logs; heavier penalties for unlicensed royal uses; requires venue & date stamping for each impersonation.
+
+Late 790s — Aria’s Memory StirringAria begins regaining fragments of her reincarnate memories.Her emotional bond with Catelyn deepens through shared experiments, domestic life, and the simple joy of food.
+
+800 R.S. — Damon’s AwakeningDamon awakens as a reincarnate, setting in motion the events of the main saga.
+
+CNA: Seafolk Provisional AmendmentTreats half-seafolk as Seafolk for venue eligibility under Beast-Management pending appeal; appeals are slow, venues are fast.
+
+GRA “Cap Carry-Forward” ClarificationReaffirms Lv. 10 cap but delegates type-eligibility to the registry (SRSA). Courts won’t parse biology; they read the tag.
+
+2. Character Glossary
+
+Primary Characters
+
+Damon:
+
+The protagonist and former prince of Tenebrin. A dhampir dark elf who was reincarnated from Earth after dying in a car accident. Currently ten years old physically but can appear as his twenty-four-year-old self through a transformation bracelet. He's a Sage Unity Tamer chosen by the goddess Titania, tasked with rescuing his transformed girlfriend while navigating a world that despises his dark elf heritage. Known for his protective nature toward his sister and tendency to shoulder burdens alone.
+
+Aria:
+
+Damon's seventeen-year-old sister from Earth who was reincarnated as a sun elf lich. A Wizard with the Chronomancer subclass, she possesses exceptional magical abilities but struggles with the racial pride inherent to sun elves. Currently masquerading as sun elf [???????] after a misunderstanding with the kingdom's Archmagus. Her phylactery exists as an amulet that Damon wears, and she must maintain a magical body to interact with the world. Despite her powerful abilities and high intelligence, she tends to be impulsive and has a weakness for fantasy romance tropes.
+
+Sophia:
+
+Damon's girlfriend from their previous life on Earth, currently transformed into a [?????] monster and placed in a dungeon. She carries deep guilt over secrets she kept from Damon in their past life. As a [?????], she struggles between human consciousness and monster instincts, slowly losing herself to the hunger and violence of her new existence.
+
+Copper:
+
+A razorback [???? ???] bonded to Damon as his first tamed companion. Despite being Level 1, he possesses a mysterious lineage that hints at greater potential. The orphaned [???] shows remarkable intelligence and loyalty, having lost his mother to monsters near the Hell Gate. His name reflects Damon's hope that he'll serve as a conduit for connection and warmth within their party.
+
+Cassandra "Cassy" Nameless:
+
+Known as the "Trash Saintess," a seventeen-year-old half-mako shark, half-human Cleric. Cursed by the forgotten goddess Sekrina to automatically heal from any damage at the cost of soul pain and insatiable hunger. Frequently arrested under the Public Decency Statute for eating from trash to survive. Cannot refuse requests to heal others and transfers their injuries to herself temporarily. Described as immortal but suffering constantly.
+
+Royalty & Nobility
+
+King Enrir Rhommo du Mentris:
+
+Damon's grandfather and the lawful ruler of Tenebrin. A man bound absolutely by the law even when it forces him to condemn his own family. While appearing cold and inflexible during Damon's trial, he secretly works within legal constraints to protect his grandson. He struggles with the declining favor of the Holy Emperor due to corruption within the kingdom's interpretation of its laws and cultural decline.
+
+Queen Elara:
+
+Damon's grandmother who has locked herself in her chambers, unable to face the trials of her daughter and grandson. Her absence speaks to the emotional toll the family scandal has taken on the royal household.
+
+(Youngest) Princess Catelyn Rhommo du Mentris:
+
+Damon's mother, only twenty-four years old. A victim of a dark vampire ritual at age thirteen that resulted in Damon's conception, she nevertheless raised him with love and protected his identity for ten years. Secretly a powerful [??????] class user trained by Stephen Delmore. Currently awaiting execution for treason after her son's dark elf nature was exposed. She demonstrates remarkable strength and cunning.
+
+(Eldest) Princess Evelyn:
+
+Catelyn's eldest sister who exposed Damon's true nature to the court. Motivated by complex feelings including jealousy of her younger sister's beauty and a genuine belief in upholding the kingdom's laws. Mother to Miriam and at least two other children.
+
+Princess Miriam:
+
+Evelyn's youngest daughter, age fifteen. Damon's cousin who genuinely cared for both him and Catelyn. Described as spirited and rebellious, she's begun a romance with a lower-ranking noble against her mother's wishes.
+
+Marquess Stephen Delmore:
+
+Technically Damon's uncle through undefined family connections. Ruler of the sovereign territory of Aurelian which contains the legendary Infinite Dungeon. A Level 40+ adventurer who achieved Mithril Rank and has traveled with reincarnates. He serves as Damon's primary protector and arranged the secret meeting between Damon and his mother. Harbors deep feelings for Princess Catelyn and has spent enormous resources trying to save her from execution.
+
+Marquess Aldric:
+
+A weak-chinned, nervous noble who serves as a primary antagonist. He pushed for Damon's execution and appears to have connections to the underground slave trade. Particularly noted for his fear of dark elves and his attempts to manipulate the Public Decency Statute for personal gain.
+
+Count Aldrich Ravencrest:
+
+A young noble who recently inherited his title after mysterious deaths in his family. Shows interest in Aria and invites her to the royal banquet. Despite his suspicious circumstances, he appears genuinely interested in Aria beyond her sun elf status and shows competence in recognizing magical threats.
+
+Archmage Aldwin Jespar:
+
+The kingdom's Chief Research Coordinator for magical affairs, Level 42. An old friend of the king who serves as a liaison to various magical races, including sun elves. Has a mysterious connection to the Solar Incarnas Lumineth (extremely high-level sun elf diplomat).
+
+Religious Figures
+
+High Cleric Sorrel Nightbloom:
+
+A dryad bound to a tree blessed by Titania herself, making her over 300 years old. The highest authority of Titania's faith in Tenebrin. She vouched for Damon during his trial and later provided him with divine guidance about his quest. Lives in the Garden District and serves as a bridge between the fae-influenced old faith and the kingdom's current lawful system.
+
+High Bishop (Unnamed):
+
+A stern-faced elder who serves the Holy Emperor. Present at Damon's trial and reluctantly confirmed the legality of Damon's invocation of the Clemency Act.
+
+Law Enforcement and Military
+
+Ser Bailey:
+
+A female knight/paladin-in-training who escorts Damon and shows exceptional hostility toward him. She deliberately led him through patches of sunlight, hoping to harm him, and later made threats about his survival outside the capital. Represents the systemic racism within the kingdom's military forces. Justifies this due to the highly misogynistic (toward all other races' women) and female supremacy (their own women, whom they worship) of the whole dark elf race, residing in the infamous Darkvein.
+
+Jacob:
+
+One of the paladins assigned to guard Princess Catelyn during her confinement. Shows more professionalism than emotional involvement in his duties.
+
+Underground Network and Criminal Elements
+
+Lady Ashcroft:
+
+A mysterious woman who poses as a merchant dealing in exotic goods and indentured servants. Actually, a powerful underground figure and fellow Sage Tamer with a snake companion named Vasily. Could be somehow connected to or trained by Madame Zorya.
+
+Vasily:
+
+Lady Ashcroft's snake companion, described as brilliant red with black diamonds along its spine. Implied to be extremely dangerous and has a taste for souls.
+
+Madame Zorya:
+
+A changeling reincarnate from Earth (specifically Russia/USSR, based on her language use). An information broker and criminal mastermind who operates within legal gray areas. A [????] class with exceptional shapeshifting abilities who has contracts with multiple nobles. She tested Princess Catelyn and Stephen. Described as treating people's lives like an amusing game of chess.
+
+Marcus:
+
+Presented as the owner/manager of "Ashford's Exclusive Acquisitions" but actually a cover identity used by Lady Ashcroft.
+
+Vera Iselza:
+
+Stephen's most trusted operative and spy. Described as capable and deadly, with a scar above her left eyebrow from her youth. Was shot by Madame Zorya during an encounter, leaving persistent damage to her [???] that she kept secret from Stephen out of embarrassment and desire for revenge.
+
+Other Reincarnates and Significant Figures
+
+(Reincarnate) Merana Thorn:
+
+A 128-year-old snow elf reincarnate from another world, known as the Wyvern-bound Unity Tamer. Level 55 and the only reincarnate known to survive the Vanishing. Has numerous creatures bound to her as living tattoos on her skin.
+
+(Past Reincarnate) Esgneal:
+
+The previous Sage of Titania who vanished during the Vanishing twenty-five years ago. Reached Level 65 and was beloved throughout the kingdom for taking on tremendous responsibility with a smile. Had romantic feelings for Merana Thorn, but disappeared before they could act on them.
+
+(Vanished Reincarnate) Malik Silverwing:
+
+A legendary reincarnate who appeared during the Hell Gate opening. Reached Level 49 in ten years before vanishing on a mission from Titania to battle a literal dragon goddess. He fought for a decade as the kingdom's primary defender against Hell's forces.
+
+(Sun Elf) Solar Incarnas Lumineth:
+
+One of only three sun elves permitted to leave their isolationist islands. An Arch Wizard of incredible power who serves as diplomat and representative of sun elf interests. Has warned the kingdom about a problematic sun elf reincarnate male in service to The Spider.
+
+Servants and Common Folk
+
+(Inn Girl) Tess:
+
+A bright, bubbly teenage servant at the Silver Chalice inn. Has very loose lips and spreads gossip like nobody's business. Has an aunt who owns the inn.
+
+(Librarian) Julia:
+
+The dedicated librarian at the Grand Library of Bluerise. Initially stern but becomes devoted to helping Aria upon seeing she's a sun elf. Shows deep reverence for sun elves due to their extended lifespans and magical achievements.
+
+(Servant) Lyesa:
+
+A middle-aged cat-folk woman with elaborate tattoos in Ashford's service. Has a daughter attending academy with Ashford's support and seems genuinely grateful for the opportunities provided.
+
+Grimwald:
+
+Seems to be a partial owner of a coffin shop with Count Aldrich Ravencrest, but doesn't seem to be manning the shop when the establishment is introduced, since Halbrith is the maker inside.
+
+Glen:
+
+A corrupt banker who works with the underground arena. Wears robes bearing Imperium banking symbols.
+
+Minor Named Characters
+
+First Officer Hansen:
+
+A patrol officer who frequently arrests Cassandra for "indignity." Shows cruel enjoyment in enforcing discriminatory laws.
+
+Officer Madison:
+
+A female guard who works with Hansen in arresting Cassandra.
+
+Second Officer Bradley:
+
+Mentioned as having let Cassandra go without charges to avoid touching her.
+
+Lord Brennan:
+
+Father of Mira Ashford (serving in the royal court as a lower noblewoman), whose tax evasion forced his family into palace service.
+
+Lady Mira Ashford:
+
+Daughter of Lord Brennan, forced into palace service. She is quite beautiful and has caught the attention of one of the princes, who enjoys monopolizing her service (no ill intent shown so far; it seems he just enjoys her company).
+
+Halbrith:
+
+The dwarf craftsman who creates coffins and supply crates.
+
+Commander Lightshield:
+
+Paladinn commander who summons Bailey during Damon's processing, inadvertently giving him the opportunity to meet with his mother. Seems to be planned or manipulated by Vera.
+
+Lord Dravan:
+
+A noble mentioned in passing as potentially having been affected by Titania's dream intervention due to insulting High Cleric Sorrel Nightbloom.
+
+Groups and Organizations
+
+(Legal Org) The White Hand:
+
+An organization that operates in legal gray areas and may be involved in the moral degradation of the 'good' part of the Lawful Good kingdom. Frequently entraps the Trash Saintess for legal healing purposes.
+
+The Royal Guard:
+
+The kingdom's official military force and city police, showing varying levels of hostility toward Damon based on individual prejudices.
+
+The Adventurer's Guild:
+
+An organization that requires proven competence and companionship for registration. Shows systematic discrimination against dark elves in at least the capital. It may be less so outside of its strict oversight in other cities.
+
+The Underground Arena Guards:
+
+Corrupt guards who manage the illegal monster fighting pits beneath the city. Show typical prejudice but are primarily motivated by greed. Still, more lawful-neutral, leaning neutral-evil, than pure evil.
+
+The Indentured Servants:
+
+Various individuals are in a state of legal servitude, some voluntarily and others involuntarily, due to circumstances. Treated with varying degrees of humanity depending on their masters, but generally rather well, with many legal protections. It is due to many of those protections that this nation still seems to function in that 'good' category, though leaning more towards a lawful-neutral stance over the last thirteen years since the Decency Act was amended and expanded.
+
+3. Items, Skills, Feats & Class Mechanics
+
+Feat Trees & Spell Types
+
+Feats are not individual skills—they’re trees that unlock branches of abilities.
+
+Example: Black Magic Feat unlocks Water, Ice, Lightning, Fire, Earth, Air, and even Unity Spells.
+
+Having Fire Magic alone only unlocks fire spells, but combining it with Black Magic allows cross-scaling upgrades and unification.
+
+1. Action-Based Use
+
+Skill Feats earned by profession (e.g., [Riding], [Forging]).
+
+Takes months/years of practice.
+
+2. Divine Patronage
+
+Gods grant Feats via quests.
+
+Power varies by god’s tier (Demigod → God → Greater Deity).
+
+3. Feat Books
+
+Created by C-tier+ Scribes.
+
+Sacrifice a Tier of one’s own or another’s Feat to create a [Volume of Feat] that can be instantly gained at the F-tier Normal Grade level.
+
+4. 5-Level Bonuses
+
+Every 5 levels, pick 1 of 3 Feats offered based on Class/Subclass.
+
+5. Reincarnate Perk
+
+Reincarnates get unique Feats and expanded access paths.
+
+Often leads to traps, as they think they can “game the system.”
+
+Many drawbacks to typical “game-breaking” mechanics.
+
+Feat Trees unlock combinations — racial and legacy/path trees are usually superior to ordinary “end-game” feats due to their long-term scaling.
+
+What good is a level 90 spell if it costs 25k mana and you’ve only got 50?
+
++3 points per level (up to Level 100).
+
+Extra points earned from achievements (e.g., defeating strong enemies, completing tasks).
+
+Used to unlock or enhance Feats, Feat Trees, and Subskills.
+
+Powerful but non-upgradeable Feats.
+
+Reincarnates receive a discounted cost for these.
+
+Can only be transferred via:
+
+Skill Book → sacrifices 1 Tier from donor.
+
+Divine Gift → initial path choice.
+
+Items:
+
+1. White - Normal Items - No Magical Properties (Think D2 White Weapons; I got a lot of these ideas from Diablo).
+
+2. Blue - Magic Items - Think baseline affixes and stuff
+
+3. Yellow - Rare Items - Think pretty good affixes or Feats attached to them. We can get into combinations here, even sets. This is typically the highest you'll find above ground or outside of the Darkvein. Also, baseline in the Darkvein Dungeons.
+
+4. Purple - Very Rare - Found in the Darkvein (the corrupted dimensional layers below the planet's surface).
+
+5. Red - Extremely rare - Highest you'll find in the Darkvein with incredible properties.
+
+6. Rose Pink - Typically not found on Earth or only proven to have been in the Infinite Dungeon, until the tragedy of what happened to it—shown in the Compendium Timeline (the chapter at the start of the series with all the world info).
+
+7. Pearlescent - Really, no weapon is known.
+
+Feats:
+
+tl;dr: You have Grades and Tiers. Tiers can be upgraded through use (small upgrades, like mastery). Grades (the color) can only be upgraded through Feat Points, earned through accomplishing feats, obviously. It doubles every time.
+
+4. Classes, Races, & Reincarnate Mechanics
+
+All reincarnates start with an F-tier Class at Level 1.
+
+Typical residents of Prime only obtain their Class at Level 5 and their Subclass at Level 10.
+
+Greater Deities can have only one reincarnation of every Class → 17 total Classes/Reincarnates per Greater Deity.
+
+Reincarnates may choose from Mythic, Forgotten, or Godlocked Paths/Lineage depending on divine favor.
+
+If a deity’s reincarnate betrays them or joins another faction, that Class slot cannot be refilled until the reincarnate dies.
+
+The world recognizes distinct racial hierarchies, each with innate racial Feats and vulnerabilities:
+
+Normal Races (F-tier) → Humans, Wood Elves, Dwarves, Halflings, etc.
+
+Advanced Races (E-tier) → [Revealed as encountered]
+
+Greater Races (D-tier) → [Revealed as encountered]
+
+Heroic Races (B-tier) → Dark Elves, Snow Elves, [Others Unknown]
+
+Legendary Races (A-tier) → Sun Elves, [Others Unknown]
+
+Mythical Races (S-tier) → [Unknown — Lottery Only]
+
+Notes:
+
+Each race begins with racial Feats they are born with.
+
+Higher-tier races carry:
+
+More base Feats.
+
+Greater social expectations.
+
+Unique vulnerabilities tied to their identity.
+
+Example: Sun Elves suffer from [Sun Elf Pride].
+
+Example: Dark Elves suffer from [Sunlight Vulnerability].
+
+5. Reincarnate Perks
+
+Reincarnates are distinct from ordinary mortals, gaining unique advantages and expanded progression paths. Hidden drawbacks and divine expectations balance these benefits.
+
+6. Leveling & Experience
+
+When thinking about leveling, imagine a person’s spirit as a balloon:
+
+Too little → flimsy and weak.
+
+Too much → it bursts.
+
+To prevent imbalance, the System applies limiters and penalties:
+
+Fighting weaker monsters reduces EXP gained.
+
+Party leeching (via [Party Exp] Feat) penalizes those who don’t actively contribute.
+
+Each level provides a structured progression of stats, Feats, and unlocks:
+
++3 Stat Points
+
++3 Feat Points
+
+Level 5 → Unlock Class (normal citizens; reincarnates gain this instantly at Level 1).
+
+Level 10 → Unlock Subclass (normal citizens; reincarnates gain this instantly at Level 1).
+
+Class/Subclass Tier Upgrades unlock automatically at specific level breakpoints.
+
+Unlike in most games:
+
+EXP is tied to direct contribution.
+
+A person only gains a very small percentage of the EXP earned by the one delivering the finishing blow.
+
+Healers: if they don’t deal damage, debuff, or otherwise land a System-linked attack, they receive no credit.
+
+EXP share ranges between 1%–10%, matching the [F-tier] Party Share EXP Feat.
+
+Characters gain 100% EXP if within ±5 levels of the monster.
+
+Beyond that range, EXP sharply decreases.
+
+At Level 30: drop-off is softened (only 15% penalty for enemies +5 levels above).
+
+EXP gain tightens severely:
+
+±5 Levels → only 5% EXP.
+
+After Level 70 → stacking debuffs apply even within the ±5 range, as the System “weighs” down the soul.
+
+Progression slows drastically toward Level 100.
+
+7. Resurrection Penalties
+
+Casting magic at the S-tier level pushes a mortal’s spirit, body, and memory to their limit. Each spell color tier reflects escalating danger:
+
+8. Dungeons & Raids
+
+Dungeon Origins & Growth
+
+Star fragments crash into the land → consume life, terrain, and mana → create dungeons.
+
+Example: a forest dungeon begins as twisted trees, wild beasts, and nature-born horrors. The further it grows, the more warped its ecosystem becomes.
+
+At max S-tier maturity, dungeons break, unleashing their contents in a catastrophic flood.
+
+Shadow Pits = corrupted ley line zones → 10× difficulty.
+
+Red Gates → naturally spawn +1 Tier higher, with unique modifiers (denser mobs, stronger raid bosses, or multiple champions/named monsters).
+
+Shadow Pits → floor count multiplied (ex: F-tier = 100 floors, not 10).
+
+Every 10th floor = Raid Boss.
+
+Dungeons regenerate monthly, but bosses and traits shift with each cycle.
+
+Dungeons parasitize the environment as they grow:
+
+Crops wilt.
+
+Sunlight dims (artificial cloud cover).
+
+Water sources drain.
+
+Growth spreads outward like a cancer into the overworld.
+
+Pearlescent-glowing dungeons with infinite randomized floors.
+
+Continue growing until destroyed.
+
+Dual Core Destruction:
+
+Top Core → unlocks the basement.
+
+Bottom Core → must also be destroyed, or the tree can mutate into a Darkvein dungeon that tunnels to the surface.
+
+Dungeon breaks occur every time a Raid Boss is defeated.
+
+When full energy is gathered → monsters escape.
+
+Creates both overworld monsters and sentient dungeonborn.
+
+Once rewarded, adventurers up to Lv. 90.
+
+Post-Sundering, this has changed—its depth, scaling, and rewards are now unpredictable.
+
+9. Economic — The Legacy of Imperium
+
+Imperium was a global trading empire founded by a legendary reincarnate sun elf nearly seven centuries ago. Over 180 years, he perfected a system that replaced fragmented regional currencies with a universal one, establishing the first global bank.
+
+Used both diplomatic conversion and hostile currency buyouts to force nations into compliance.
+
+Invented enchanted printing devices that produced Iron and Steel coins; over 100 still exist.
+
+Only three Silver presses exist—one now in a Hell-controlled northern city.
+
+All Gold and Platinum coins were personally crafted by Imperium with secret enchantments.
+
+The bank is maintained by the politically neutral Twelve Zodiac, whose reputation sustains the fragile balance.
+
+Despite his assassination, the system endures, supported by his foresight, magical devices, and a Lawful Neutral Council where every race holds a seat.
+
+Each Imperium coin is a magical item in itself:
+
+Indestructibility → Resistant to scratches, wear, and even E-tier spells.
+
+Distinct Appearance → A radiant sparkle visible in any lighting.
+
+Tracking Feats → Coins are tied to the Imperium Bank’s monitoring system, preventing counterfeits.
+
+Longevity → The enchantments keep coins valuable and trusted centuries later. (Adventurers have even strung Iron coins into makeshift chainmail for protection.)
+
+Beyond standard coinage lie whispered legends of god-tier metals. These are thought to be tools of trade between demigods and deities, but no proof exists.
+
+A large city (~100,000 people) handles an average 150 silver pieces per day in wealth transfer (~150 million Iron).
+
+This enduring system demonstrates why Imperium’s currency remains the foundation of global commerce even centuries after his death.
+
+Despite Imperium’s safeguards, entire shadow economies grew around the cracks in his system:
+
+Counterfeit Coins → Some have reported that there is a Chaotic Neutral reincarnate who discovered a lost Steel Press. These coins usually fail under scrutiny due to meticulous creation notes and registry records, but in border towns and wartime, they circulate freely. The bank watches these regions closely, and many suspect the Zodiac will be called in to intervene.
+
+Silver Press Raids → Smuggling groups in the north seek to capture or duplicate the Silver Press now held in Hell-controlled lands. Many believe that mastery over it could collapse the entire Imperium Bank.
+
+Trust Wars → Rival councils and rebel groups occasionally mint counterfeit “platinum-standard” notes, backed only by regional militias. These schemes almost always collapse but destabilize local markets long enough to topple smaller towns and weaken faith in Imperium coinage.
+
+10. Lifestyle & Pricing
+
+In the world of Prime, a person’s lifestyle determines their quality of life, social standing, and access to resources. Costs vary drastically — from scavenging scraps in alleys to the opulent luxuries of kings and queens.
+
+Wretched → Survives on scraps, begging, theft, or luck. Constant hunger.
+
+Squalid → Eats barely enough; subject to extortion, poor treatment, or disease.
+
+Poor → Stable existence but unpleasant. Rare comforts.
+
+Modest → Consistent food and shelter; some indulgences.
+
+Comfortable → Secure, moderate prestige; access to cultural life.
+
+Wealthy+ → Power, servants, political leverage.
+
+11. Item Costs & Services
+
+Clean Water
+
+20 oz Tankard → 1 ip
+
+Gallon (6x) → 6 ip
+
+Barrel (40 gal / 256 servings) → 2.5 sp
+
+Ale
+
+20 oz Tankard → 2 ip
+
+Gallon (6x) → 12 ip
+
+Keg (15.5 gal / 100 servings) → 2 sp
+
+Barrel (40 gal / 256 servings) → 5 sp
+
+Wine
+
+Common (pitcher) → 12 ip
+
+Fine (bottle) → 10 sp
+
+Exquisite (bottle) → 50 sp
+
+Regulated by nobles, guilds, or temples to control magical access.
+
+12. The Nine Moons & Greater Deities
+
+The nine moons orbit Prime in a complex dance, their positions constantly shifting except during the Veil of Chaos, when all align in the same sky. Each moon's surface tells a story of divine conflict through its scars and discolorations.
+
+The Lawful Triad
+
+Solarius, The Holy Emperor (Lawful Good)
+
+Veridian, The Eternal Balance (Lawful Neutral)
+
+Asmodeus, Lord of the Nine Hells (Lawful Evil)
+
+Terranak, The World Serpent (Neutral Good)
+
+Khronar, The Cosmic Witness (True Neutral)
+
+Mortifax, The Pale Shepherd (Neutral Evil)
+
+Titania, The Laughing Storm (Chaotic Good)
+
+Tempestas, The Tide Turner (Chaotic Neutral)
+
+Lilsha, The Spider (Chaotic Evil)
+
+During normal orbits, the moons maintain careful distances. Proximity indicates either alliance or active conflict. The current configuration shows:
+
+When all nine moons converge, their surfaces reveal the true state of divine power. The black spots, scars, and discolorations become more pronounced, and sometimes—rarely—they begin to heal if a deity has been particularly successful in reclaiming or converting souls.
+
+The Crawling Chaos is not a single entity but a consortium of trans-cosmic intelligences ("Void Lords") that predate the Nine’s compact. They cannot manifest directly on Prime without catastrophic recoil, so they seed worlds through Dungeon Seeds—parasitic reality-nuclei that mimic natural starfall and ley-line blooms.
+
+Unlike the System, which is Lawful and ordered, the Void Lords corrupt its functions, seeking to reach the core of Prime. The people believe that the Veil of Chaos is the nine greater deities uniting to stop the Void Lords from manifesting in the waking world. Clerics claim that’s the greater deities healing what was stolen; skeptics call it a show of theater. Some reincarnates have doubted all speculation—their whispers even sway the chosen to join their side.
+
+Either way, strange things happen—songs go off‑key, contracts read differently in the morning, and some dungeons wake hungry.
+
+Some say there are minds beyond the Nine that send Seeds to fatten worlds. Others insist that’s heresy. Yet, the only agreed-upon fact: certain dungeons don’t feel like the rest.
+
+Field Signs (hunter’s shorthand). If you see two or more, report to the Guide.
+
+Nyrih‑Lath, the Jester Between — rumors perform themselves.
+
+Signs: laughter after silence; text that won’t stay put.
+
+Azarak, the Ratio Engine — the world turns into a ledger.
+
+Signs: clocks agreeing when they shouldn’t; repeating bookkeeping errors.
+
+Shuth, the Root Below — rot that remembers.
+
+Signs: sweet‑tasting spores; scents that erase memory lanes.
+
+Ul‑Oth, the Still Tide — the water that keeps what it takes.
+
+Signs: reflections a breath late; stone that ripples.
+
+Vekh, the Coin‑That‑Counts‑You — prices that count the soul.
+
+Signs: coins stacking on their own; totals that always round down—against you.
+
+Notes: True names are restricted to clergy and auditors. Lesser patrons and copycats exist; don’t assume a single hand behind every oddity.
+
+AuthorSME's Closing Statement
+
+I thank you for looking through the world-building in the background. Much of this will be added over time, but I hope this is helpful to those who love this sort of thing! It keeps things grounded, and people can challenge me and push for clarifications.
+
+Please, do not hesitate to call me out! I want to be consistent. Val, my editor, is always calling me out whenever it comes to numbers. >.> I am far from perfect!
+
+I hope you enjoy my world!
+
+Over. Out!
