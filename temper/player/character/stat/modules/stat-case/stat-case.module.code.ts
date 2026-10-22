@@ -60,7 +60,7 @@ export function estimatedOf(read: Omit<StatCase, "pinned" | "gaps">): Estimated 
   return estimatedOfBuild(build, read)
 }
 
-export function estimatedOfBuild(
+function estimatedOfBuild(
   build: CharacterState,
   read: Omit<StatCase, "pinned" | "gaps">
 ): Estimated {
@@ -91,7 +91,7 @@ type AmountHeld = {
     | undefined
 }
 
-export function elderDragonAmountOf(reading: AmountHeld): number | undefined {
+function elderDragonAmountOf(reading: AmountHeld): number | undefined {
   if (reading.elderDragonAmount !== undefined) return reading.elderDragonAmount
   const passive = reading.classPassives?.find((one) => ELDER_DRAGON_RANKS.has(one.abilityId))
   if (passive === undefined) return undefined
