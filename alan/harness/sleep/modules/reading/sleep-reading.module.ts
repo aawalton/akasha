@@ -25,6 +25,10 @@ export const sleepReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "From the 04:00 day boundary, a day Alan has not opened yet reads zero.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A day moved into akasha is read from akasha.",
     },
     {
@@ -74,5 +78,5 @@ export const sleepReading = {
     },
   ],
   createdAt: "2026-09-03T23:56:10.458Z",
-  updatedAt: "2026-10-20T11:11:19.161Z",
+  updatedAt: "2026-10-22T14:49:27.960Z",
 } as const satisfies Module
