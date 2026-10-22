@@ -35,7 +35,7 @@ function getSetInfo(item: EquipmentSlotItem): { setId: Slug; worn: SetItemWorn }
   return { setId: item.data.set, worn: { quality, level: item.data.level, pieces: piecesOf(item) } }
 }
 
-export interface SetWorn {
+interface SetWorn {
   pieceCount: number
   readonly items: SetItemWorn[]
 }
