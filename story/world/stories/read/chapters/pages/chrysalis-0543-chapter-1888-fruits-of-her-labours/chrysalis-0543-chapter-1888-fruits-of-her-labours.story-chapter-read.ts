@@ -20,5 +20,7 @@ export const chrysalis0543Chapter1888FruitsOfHerLabours = {
     },
   ],
   createdAt: "2026-10-22T01:08:37.949Z",
-  updatedAt: "2026-10-22T01:08:37.949Z",
+  updatedAt: "2026-10-22T02:08:54.742Z",
+  ownProgress: 1029,
+  progressedAt: "2026-10-22T02:08:54.742Z",
 } as const satisfies StoryChapterRead
