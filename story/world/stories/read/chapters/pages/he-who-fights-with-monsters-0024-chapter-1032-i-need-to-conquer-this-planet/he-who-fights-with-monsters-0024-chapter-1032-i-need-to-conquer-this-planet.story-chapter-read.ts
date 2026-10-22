@@ -20,5 +20,7 @@ export const heWhoFightsWithMonsters0024Chapter1032INeedToConquerThisPlanet = {
     },
   ],
   createdAt: "2026-10-21T22:08:44.887Z",
-  updatedAt: "2026-10-21T22:08:44.887Z",
+  updatedAt: "2026-10-22T01:08:37.949Z",
+  ownProgress: 2351,
+  progressedAt: "2026-10-22T01:08:37.949Z",
 } as const satisfies StoryChapterRead

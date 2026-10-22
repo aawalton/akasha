@@ -20,5 +20,7 @@ export const fiveElementOverlordICanUpgradeEverything0168Ch168FailedAmbush = {
     },
   ],
   createdAt: "2026-10-21T23:07:40.321Z",
-  updatedAt: "2026-10-21T23:07:40.321Z",
+  updatedAt: "2026-10-22T01:08:37.949Z",
+  ownProgress: 1836,
+  progressedAt: "2026-10-22T01:08:37.949Z",
 } as const satisfies StoryChapterRead
