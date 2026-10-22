@@ -1,0 +1,305 @@
+Each of the Paths available moved in wildly different directions. If he assumed correctly, in that Tempered would connect with whatever Path he next unlocked, then this was a major choice that would affect him for the rest of his life.
+
+Based on that, he went over his options once again.
+
+The Path of Resolution:
+
+A line of development focused on handling failed, stalled, or disputed Quests. Unlocks abilities that aid in Quest salvage and Reputation retention.
+
+Cost to unlock: 700xp
+
+The Path of Expansion:
+
+A line of development focused on expanding the role of the QuestWright. Unlocks additional tools for the management of buildings, materials, and resources.
+
+Cost to unlock: 1000xp
+
+The Path of the Tactician:
+
+A line of development focused on anticipating conflict and coordinating action before escalation occurs. Unlocks abilities that emphasize preparation, positioning, and indirect influence over contested situations.
+
+Cost to unlock: 2000xp
+
+The Path of the Builder: A Path of vision and permanence. Allows the QuestWright to lay conceptual foundations for institutions, guilds, and settlements. Grants non-standard ability interfacing, community-linked quests, and regional developmental blueprints.
+
+Cost to unlock: 1200xp
+
+QuestWright Path: Enterprise
+
+A path designed for QuestWrights who lead enterprises and organizations through formally recognized charters. Unlocks abilities that enhance cohesion, interpersonal situations, and member productivity.
+
+Cost to unlock: 300xp
+
+Warning: Dissolution of the connected charter will disallow Cassio Vale from using any unlocked nodes until a new enterprise has risen.
+
+QuestWright Path: Cornerstone
+
+The Cornerstone is laid first, so others may rise.
+
+This unique path, forged through the union of Logistics and Stalwart, emphasizes foundational roles in long-term growth.
+
+The QuestWright will gain a singularly rare Quest-type.
+
+Passively improves Cassio Vale’s Constitution.
+
+Cost to unlock:
+
+500xp
+
+50 Stalwart Tokens
+
+25 Survivor Tokens
+
+This was the first time he’d really gone in and looked at all of the Paths together. Six open paths altogether, with a little over 4500 experience to spend. That meant he could unlock any of these right now.
+
+Heck, he could unlock any two at once, as long as he didn’t mind losing out on several nodes.
+
+But still assuming he was right about the Tempered Way, the first would be the most important. Stalwart had combined with Logistics to create a set of options he would most closely associate with structural endurance. So, he could cheat a little.
+
+Tempered enhanced his reflexes and gave him daily Quests that focused on dexterity, bodily control, and combat instincts. It had felt like electricity itself, a burning difference from the fiery pain Stalwart’s integration had brought upon him.
+
+In hindsight, he should’ve gone with the Way of the Cinder to improve his stamina since the Airscript Quill drained him thoroughly on each use, but he shrugged that off. Sitting on the mistakes of the past wouldn’t help him plan for the future.
+
+“So what’s going to mix with reflexes and control?”
+
+The answer was staring him in the face. Though he’d chosen Builder and Cornerstone to move away from military-esque thinking, he couldn’t deny that he was in a foreign and likely hostile city. Choosing Tactician now would not be a betrayal of his choices, as it was something that was readily available and currently within reach far sooner than he’d expected. Combining its choices with those of Tempered seemed like the wise move.
+
+So, with a half-squint, Cass selected it and made his choice.
+
+[Path Confirmed: Tactician]
+
+Unlike the Logistics blue, Tactician forced the screen to shift orange before the node lifted, then shattered. And it didn’t stop there. A sound like glass breaking on a rough stone surface reverberated through his mindspace as the node did something he never thought he’d see.
+
+It disappeared.
+
+Your System Map ability has evolved to Command Center.
+
+Command Center (Tier 1):
+
+Active ability: As a true Tactician, you see the heart of every conflict before it begins. This evolved ability allows the QuestWright to see all living beings within the map's radius and to undergo dynamic shifts based on the user's needs. The Command Center can be adjusted in size as needed, with no theoretical upper limit, and can now be made visible at the QuestWright's discretion.
+
+Upgradeable
+
+Cass backed out the moment he finished reading and pulled up the map on the ceiling. When it had upgraded from Tier 1 to 2, extra details had been included.
+
+This was not like that.
+
+He now had a complete three-dimensional breakdown of the city right at the tips of his fingers. Rather than just seeing Questors, it was like the description said. He saw every living being all at once as they moved about their day. The days of seeing only routine and active Quests were over. Cass now had a true map in front of him.
+
+Curiously, the tower he was in was excluded. It was a large, floating block of gray in the center of far too much information. That got him thinking.
+
+“What could they be hiding?”
+
+I should’ve expected they’d have a way to block the Tower off from any information-gathering abilities. But it doesn’t affect Profile. So, I’ll just have to learn things myself.
+
+Not liking the feeling of walking around an unknown place surrounded by potentially hostile people, Cass calmed himself by poking at his connection to Bella. She had definitely stopped for the night and at a healthy distance away, but as always, it was a comfort to feel her nonetheless.
+
+He spent a few more moments going over the changed Map. The detail was truly incredible at this point, as were the controls. He could move over to any building, any location on the map, expand it, and get a first-rate look at what it would be like if he were there in person. It also revealed several issues.
+
+A new filter on the side had appeared with the changes, and as he clicked on it, every injured, lame, or otherwise disabled person in the city appeared. The filter was called Combat-Ready, and it imparted a great sea of knowledge for how the city worked.
+
+His captors had told him a little, but seeing it on the map was something else. Liberty was built outward from the Guildtower in five concentric rings. The smallest ring surrounded the Guildtower itself, with each beyond it growing in size as the diameter naturally increased.
+
+But in the final ring, easily ten times the size of the one that came before it, a great wash of bodies in disrepair showed itself to him.
+
+And now I know where I’m needed most, Cass thought as something settled within him. If there are that many people with issues in the city, I’m sure they know about it. Know about it and do nothing.
+
+It was as if every third person was missing an arm, a leg, or, as shown through the filter, starving.
+
+Closing the map, he nodded to himself, I know where I’m needed, but there is still more to do before I can get there.
+
+Cass went back to the Paths screen and clicked on Tempered. As he roamed around, worried that Tactician’s shattering had screwed up his plans, he saw something that put his mind at ease.
+
+[Minor Node: Tempered Tactician]
+
+-Unique Unlock-
+
+Unlocks a daily trial that brings great rewards upon completion.
+
+Cost to unlock: 15 Tempered Tokens
+
+The node stood to the side, out of place among the organized Tempered selections around it, just like Stalwart Logistics had.
+
+I have to assume that means the System thinks I’ve already unlocked the Tactician’s side of things. So, there’ll be another Path merger. That’s a relief. Hopefully, unlocking the next path before my third Way won't cause any issues. It'll be a while before I can do that again.
+
+Set at ease, he decided to move on to his second unlock of the day. He could’ve held off, perhaps work on studying the ins and outs of the city more, but there was one more Path still to go.
+
+Clicking on it, Cass finalized his decision, then sighed when thinking about all the Tokens he’d have to earn again.
+
+[Path Confirmed: Cornerstone]
+
+The purple node shattered, flinging violet shards out. Only they didn’t fade. But before he could get a handle on what he was seeing, text took over his vision.
+
+–Cornerstone Unlocked–
+
+Automatically gain a passive improvement to your constitution.
+
+Your body will filter toxins more efficiently, recover from minor ailments without notice, and require less rest to function at full capacity.
+
+Upgradeable
+
+[CONSTITUTION UPGRADE INTEGRATING]
+
+Cass closed the screen as some very weird things were currently happening in his body. First, he had to use the restroom immediately and regretfully.
+
+Rushing to the toilet, he sat down as what felt like five years of buildup came out of him all at once. Even as that occurred, his skin prickled, and a cold sweat broke out across his back, neck, and other moist areas he’d rather not think of. He then had to brace himself against the back of his seat when a wave of nausea struck him.
+
+The moment the feeling reached its zenith, he leaned forward and vomited across the floor. It came out as an odd mix of white and black, so off-color that he immediately felt like doing so again just from the sight of it.
+
+As his time on the toilet reached its natural conclusion, he rushed into the shower, scrubbing his body every which way as the film of sweat covering him was inappropriately clingy.
+
+“Why is it so sticky!” He yelled to the unrelenting water as he used the provided scrub brush and soap to beat back whatever disgusting elements had existed in his body before the integration.
+
+When he was finally done, he cleaned up the mess on the floor, which wasn’t as easy as he’d hoped, then did his best to unclog the toilet. It was several dozen minutes since he’d left the bedroom that he finally returned to his seated position.
+
+“That was incredibly unpleasant, but…” He smiled to himself. “I feel better now than I have since losing my eye. There’s something to be said for that.”
+
+Back in position, he reopened the Path to look at the unexpected changes that had occurred. It made a certain sense that, this being a merger between a Path and a Way, it would go about things differently.
+
+But he hadn’t expected a fog to rise up along the violet path. Nor had he foreseen how the System would go about granting him his first Rare Quest-type.
+
+[Rare Quest Node: The Cornerstone]
+
+Every Quest begins with a choice.
+
+Cost to unlock: 500xp
+
+Selection unlocks The Exponential Quest-type
+
+“That’s…that’s it?” Cass looked over the screen, but nothing was changing. “Where’s the rest of the Path? It’s one? Just one thing! I spent 3-4-5, seventy-five tokens, and five hundred experience on this!”
+
+Cass punched the soft bed below him, “Fine, System. Fine. You want more experience just to show me what the hell I’m working with here? You want more blood? Fine.”
+
+Reaching out, Cass touched the single purple node and confirmed his choice.
+
+Node unlocked: The Cornerstone
+
+A Quest-type that can only be issued to those below Tier 3.
+
+Dormant functions within the Cornerstone Path will be revealed with time.
+
+The Exponential Quest-type
+
+A daily and dynamic Quest-type that evolves and can be grown by the QuestWright to better reward their Questors.
+
+Starting at its center, the purple node grew bright as the Node came alive. As the light reached the borders, a popping sound struck him. Then, in a blink, six smaller nodes pushed themselves out of the border and settled along the outside of the greater node before the light faded away.
+
+Cass clicked on the first one he saw to the north.
+
+[Minor Node: Stalwart]
+
+Adds a strength modification to the Exponential Quest-type options.
+
++3xp
+
+Cost to unlock: 50xp
+
+“What?” Thoroughly flummoxed, Cass clicked on two more.
+
+[Minor Node: Administrative]
+
+Adds an administrative modification to the Exponential Quest-type options.
+
++3xp
+
+Cost to unlock: 50xp
+
+[Minor Node: Message]
+
+Adds a message modification to the Exponential Quest-type options.
+
++3xp
+
+Cost to unlock: 50xp
+
+Not knowing what to make of it, Cass pulled a quote from his father, “In for a penny, in for a pound.”
+
+Selecting all six of the minor nodes around Cornerstone, he pushed three hundred experience in and held his breath. For a second time, the violet light of Cornerstone lit up, then, as it reached the six minor nodes at the border, it pulled them in, growing in size as a pulse susserated along its border.
+
+When the pulse ended, six smaller nodes appeared around it again, with lines stretching out and connecting further nodes in the near distance.
+
+Cass clicked around randomly on the first nodes before selecting those further out.
+
+[Minor Node: Scouting]
+
+Adds a scouting modification to the Exponential Quest-type options.
+
++5xp
+
+Cost to unlock: 60xp
+
+[Minor Node: Crafting]
+
+Adds a Crafting modification to the Exponential Quest-type options.
+
++5xp
+
+Cost to unlock: 60xp
+
+[Minor Node: Riding]
+
+Adds a riding modification to the Exponential Quest-type options.
+
++5xp
+
+Cost to unlock: 60xp
+
+“Honestly,” Cass scratched his chin, “I have no clue what’s happening here. And I won’t, until I assign it to myself.”
+
+Knowing that was the only way of figuring out what was happening, Cass reached his hand up and called down the Airscript Quill. The room lit up in that incandescent way it had of going about things as he stepped into his outliner.
+
+As it was the only Rare Quest-type he had, Cass found it near the bottom of the list. Pulling it up, it didn’t have the usual areas where he would fill things out by hand.
+
+Instead, a series of buttons met his eyes.
+
+>Administrative on/off<
+
+>Delivery on/off<
+
+>Investigation on/off<
+
+>Message on/off<
+
+>Stalwart on/off<
+
+>Training on/off<
+
+Deciding just to test things out, Cass clicked off Investigation and Message, leaving the other four on. Then, holding his Quill in the air and bracing against what was coming, he drafted the Quest.
+
+Golden light spilled out of the Quill as he wrote upon the world. It took far, far longer than he expected as his hand moved of its own accord, slashing against an invisible wall that nobody could perceive. When it was finally over, and the drain hit him in full, the Quest notification struck him.
+
+Cassio Vale, will you accept a new Exponential Daily Quest?
+
+Hesitantly pushing his intent in the affirmative, the text replaced itself quickly.
+
+Quest accepted…
+
+[The Exponential Daily Quest]
+
+Cassio Vale will organize his man-purse for twenty percent more efficiency of space.
+
+This must be done before the day is over.
+
+Cassio Vale
+
+Liberty Guildtower
+
+QuestWright
+
+Time remaining: 6 hours, 23 minutes, and 42 seconds…
+
+“Seriously, what the shit is happening? And it’s not a man-purse!”
+
+It took him a little longer than he wanted to admit to fulfill the Quest. He’d thrown a few bits and bobs in there that had never truly served a purpose, but just seemed like things he might need one day. Removing them was only the first step.
+
+Then came the throwing them away. Then, when it didn’t complete, he cleaned the bag and shuffled a few things around. In fact, the ding didn’t come until he’d finally pushed everything to the side after truly organizing it as best he could.
+
+[Exponential Daily Quest Complete]
+
+Time remaining: 5 hours, 42 minutes, and 23 seconds…
+
+Reward: 3.6xp
+
+Note: Tomorrow’s Quest will be strength-related and slightly more difficult
+
+“Oh…Ohhhh.”
