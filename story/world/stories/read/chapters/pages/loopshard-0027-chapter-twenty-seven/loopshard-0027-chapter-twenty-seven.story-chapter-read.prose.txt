@@ -1,0 +1,389 @@
+Let’s have a look at these upgrades.
+
+Adam stuffed the slime core in his pocket and walked over to where the cube was unfolded into a podium. There was a familiar general upgrade symbol, as well as a hand with waves around it and a book with a plus next to it.
+
+Upgrades Available
+
+Barrier Durability (Uncommon) — Increases barrier health by 20%
+
+Manipulation Effect (Uncommon) — Increases manipulation responsiveness by 20%
+
+Bleed (Uncommon) — Attacks inflict bleed dealing 10% weapon damage over the course of 10 seconds
+
+No commons at least.
+
+[You have 30 seconds to pick an Upgrade. Failure to decide will forfeit your choice and none will be selected.]
+
+[You currently have 0 Rerolls.]
+
+“What does it mean by responsiveness?”
+
+[This upgrade affects how your summons respond to your efforts to manipulate them.]
+
+That’s a bit too vague…
+
+Is it extra speed? Or better control?
+
+I think durability is a good choice, especially since it’d to be able to sustain more than just one hit before it breaks once I reach a certain amount of extra health. After all, I can only summon four in quick succession before wearing myself out, so making sure they last is a good idea.
+
+I never did ask Willow about how mana works… That was a mistake.
+
+He looked at the bleed upgrade and frowned, remembering how it had lost him the fight against Ilya.
+
+That upgrade is a lot stronger than I first assumed.
+
+Not sure if it even applies to the barrier though.
+
+“What’s the requirements for the bleed effect? Does it work with my barrier?”
+
+[Bleed is applied with all attacks performed.]
+
+“What? Even punches?”
+
+[Yes.]
+
+So, it’s not useless even on Warder.
+
+But it’s got the same limitation as fiendbarb, in that it only works on targets with blood or something equivalent to it.
+
+Not much use in stage one, but useful in two and four.
+
+I still think weapon upgrades are worth more, considering they can give mastery shards.
+
+I really want the orb of insight, I think it can be a huge benefit. After all, I don’t know what comes after stage five, so having it by then might make all the difference.
+
+Before Adam picked an upgrade, he went over to the large apple tree.
+
+I want to get the sword trapped in there, but is my barrier strong enough to cut through it?
+
+He lifted his hand and used his index finger to spin the barrier so that it became horizontal. Then he swung his hand and a moment later the pane of yellow energy flew forward, slicing across the thick bark. It left a groove that was about as deep as his pinkie.
+
+Not bad, but I’d need to hit it like forty times in the same spot at least.
+
+Best get to it, I guess.
+
+Adam swung his hand again and the barrier struck the tree a second time, missing the first groove and creating another right above it.
+
+Then it shattered.
+
+Shit…
+
+[10 seconds remaining.]
+
+He selected the durability upgrade.
+
+Upgrade Selected
+
+Barrier Durability (Uncommon)
+
+The iron on his spell-tome became slightly less rusty.
+
+That’s an interesting way to visualise that upgrade.
+
+He looked at the tree again.
+
+I’ll have to get the bigger slimes to help me destroy it.
+
+Question is, should I get the acorn first?
+
+Maybe I can use the barrier to lift me up there.
+
+Wave Two
+
+60-Second Timer
+
+Adam summoned another barrier and his whole world suddenly tilted and warped. He stumbled for a moment before sitting down to avoid falling.
+
+[Warning! Mana below 30%.]
+
+Not ideal…
+
+He shifted the barrier out in front of himself as he waited for his mana to recoup. It looked a bit less transparent than before, but he couldn’t tell if the 20% increase was enough to survive more than one hit from the slimes.
+
+At the other end of the clearing came the rustle of the approaching enemies. It would take them a while to get to him, so he wasn’t in a hurry to get back on his feet.
+
+The barrier seems to take damage based on what it hits, but is strong enough to survive at least one collision with the big tree. I wonder if it’ll take more damage if it hits harder, or if it’s entirely based on its durability.
+
+The slimes deal forty-five points of damage per hit, and it can only survive one of those, so it started off with less health than that. I wonder if my defence rating affects it or not, but I assume it wouldn’t. It is possible that my mana perhaps affects it, so if I can grow that resource pool it might be a good thing to test out.
+
+I need to see if it can sustain a hit with the increased durability. If it can, I’ll know that it has over forty-five health.
+
+“What’s my mana at?” Adam asked, as the two blue slimes broke from the treeline and hopped towards him.
+
+[Your Mana is at 35% or 70 points. Currently recovering 2% or 4 points every second.]
+
+“So, it does just recover faster from sitting…”
+
+That seems very open for exploitation.
+
+Adam tried to use his mind alone to manipulate the barrier, but it struggled to obey until he used his hand. He made it horizontal and pushed it down so it was flat to the ground.
+
+Then he climbed onto it as though it was a magic carpet and sat down.
+
+He carefully lifted his hand, willing it to rise.
+
+The distant slimes slowly came closer as Adam lifted off the ground.
+
+“Mana?”
+
+[Your Mana is at 41% or 82 points. Currently recovering 2% or 4 points every second.]
+
+Hell yeah!
+
+He lifted himself higher.
+
+Hah! It’s working!
+
+The barrier cracked underneath him.
+
+“Uh oh.”
+
+The crack spread like a spiderweb, while Adam quickly lowered it back to the ground.
+
+When he was two metres above the mossy understory, the barrier shattered and he fell down onto his ass. Fortunately, he didn’t take any damage from it.
+
+Fuck.
+
+I’ll need to pump a lot more durability into it for ‘carpet riding’ to be viable… But it might work as a stepping stone in a pinch if I need to cross a gap or go higher to reach something.
+
+The slimes were now only a few metres away and Adam got to his feet, summoning a replacement barrier.
+
+[Warning! Mana below 25%.]
+
+Adam felt woozy and unsteady on his feet.
+
+This is hard to deal with…
+
+How the hell did Willow manage this and still beat this stage fast enough to get the speedrun?
+
+He swung his hand forward and the barrier moved to obey, smacking into both of the slimes and knocking them away. One of them landed upside-down, while the other just flew back a couple metres unscathed.
+
+Okay, it survived being used as a battering ram once. Maybe it’s important what I hit it against. Since the slimes are soft targets, they might not damage it that much, unlike the tree.
+
+But I need more mana if I’m going to test this out.
+
+Adam once again sat down, which felt quite absurd given the ease with which the slimes could kill him. For the next thirty seconds or so, he kept trying to knock the slime upside-down like its friend, but it simply refused. It did, however, provide good information, since he now knew that the barrier could be rammed into the blue slimes at least seven times without shattering.
+
+“Mana?”
+
+[Your Mana is at 100% or 200 points.]
+
+He stood up.
+
+Alright, time to do some experimenting.
+
+With two gestures, he slashed the barrier through the left side of the stubborn slime and then the right, causing its body to break apart and dissolve after 80% of its mass was removed. It left behind its intact core, just like the first he’d killed.
+
+Adam picked up the core, but instead of putting it in his pocket, he eyed the upside-down and struggling slime nearby.
+
+[15 seconds remaining of Wave Two.]
+
+Alright, Lenard, let’s see if your theory is correct.
+
+There was no safe way for Adam to insert the core, so he tried just dropping it onto the slime.
+
+As the round stone hit the blue slime, its jelly flesh started to vibrate, before the core slipped inside its body with a squelch.
+
+Adam took a few steps back, expecting the worst.
+
+The slime started to vibrate faster and more erratically, until suddenly it grew in size, doubling its entire mass. It was still upside-down but quickly rolled itself back upright.
+
+Strange, I thought for sure that it would turn either purple or green, but it’s still just blue.
+
+The evolved blue slime flattened itself, before launching for him. It flew like a cannonball, both faster and further than before.
+
+Adam only just managed to move the barrier in front of himself at the last moment, but the slime barrelled right through, forcing him to throw himself to the side to avoid it hitting him.
+
+Okay, so evolving it only makes it stronger.
+
+The purple and green slimes are something completely different then. And I guess the slime king is just a double-evolved blue slime. I wonder if that means that I can turn the other two colour variants into bosses too. Although I’m not sure the benefit of that.
+
+Adam tossed himself aside again as the evolved slime shot for him once more.
+
+He summoned a barrier and felt a slight wooziness just like earlier.
+
+I hope I can learn to ignore that feeling, otherwise fighting with barriers is going to be a pain.
+
+Adam almost wanted to insert the core in his pocket into the evolved slime just to see if it’d turn into a king, but then Shitbox announced, [5 seconds remaining.]
+
+Better wrap this up.
+
+With a twirling gesture of his hand, the barrier spun around so that the thin edge was facing the blue slime. When it shot at Adam a third time, it perfectly bisected itself on his barrier and landed in two separate blobs, each with a core of their own.
+
+It became two normal slimes again. Weird.
+
+He rapidly chopped up the one on his left, but before he could get to the other—
+
+[The Wave Timer has run out! You were unable to defeat the enemies fast enough. Unfortunately, this means that the next Wave now begins. You must defeat all enemies from both Waves before the Timer runs out again. You will not receive rewards until you successfully defeat all enemies within the allotted time.]
+
+Wave Three
+
+90-Second Timer
+
+I just got a bad sense of déjà vu…
+
+[During Waves you may take damage. Although you can purchase consumable health regeneration after this Stage, there are also ways to acquire them from within the Stages themselves. Look towards the tree, where a Healing Apple is awaiting you.]
+
+He chopped up the last slime as the treeline at the other end started to rustle.
+
+A purple slime and two blue ones popped out of the trees, while Adam scooped up the slime cores from the two he’d just killed.
+
+I wonder what happens if a slime gets to four cores.
+
+I’ll save that experiment for the slime king, since that’s gotta be what triggers the secret boss.
+
+He eyed the purple slime, which slowly made its way towards him. It was slower than the two blue ones, which themselves weren’t that fast.
+
+I never actually tested out the range on this barrier.
+
+With a looping motion of his index finger followed by a pushing gesture, he made the barrier spin on its central axis like a slow-mo rotary saw as it moved towards the leftmost blue slime.
+
+He made a few minor adjustments as it got closer, but then suddenly, ten metres out, it stopped moving forward.
+
+That’s some terrible range…
+
+Adam walked towards the slime and the barrier moved along with him as its reach was shifted forward. He waited for the blue slimes to come within his ten-metre reach, before he moved his spinning barrier around and carved them up, once again managing to keep their cores intact.
+
+It was a lot messier than the simple ‘guillotine chop’, but it seemed like it might be more effective against armoured enemies or tough ones like the purple slime.
+
+The purple one might help me break the tree, but it’s way too slow, so I think I’ll wait for the green ones that appear in the next wave.
+
+Besides, there’s something else I want to try.
+
+It was an idea that’d occurred to him after he’d proven Lenard’s theory.
+
+Adam walked towards the spinning barrier, which he manipulated into staying stationary while continuously rotating. He held out one of the cores he’d looted earlier and nicked it on the edge of the barrier, cracking it slightly.
+
+The core immediately started to sputter and fizz like some cheap firework. Adam dropped the spell-tome to the ground and put both hands around the core, before he threw it at the purple slime like a baseball.
+
+It struck the front of the cone-shaped slime and stopped. Then came a squelch before it was sucked in. Just like with the blue slime, the purple one started to vibrate.
+
+Then it suddenly exploded.
+
+Adam spun the barrier around so that it covered him, while bits of the purple slime rained down on the moss around the clearing. A couple pieces struck the barrier, but for once it didn’t break.
+
+[Well done! You cleared the Wave with more than half the time remaining.]
+
+He went over to the rapidly-dissolving remains and found two cracked and fizzing cores left behind. While they made a strange hissing sound, they seemed to remain stable until introduced into a slime’s body.
+
+“Is this still a collectible relic?”
+
+[Yes. This is a Common Relic called a Cracked Slime Core.]
+
+“Can I sell it?”
+
+[Yes.]
+
+So, they’re still worth the same as the normal cores even though they’re broken. Weird.
+
+Wave Two & Three Complete
+
+Choose your Upgrades
+
+The System message is different. Not sure what I expected though.
+
+Adam put the two cracked cores into his left pocket. Then he suddenly realised something.
+
+I’m back in my original clothes…
+
+I didn’t even notice.
+
+Since this is my original body, that means that I’m still sent back in time but also moved across dimensions. That’s really odd. Although maybe it’s because I’ve overwritten my other self?
+
+Adam frowned.
+
+The more he thought about his unique situation, the more existential dread he felt.
+
+Maybe this body isn’t really my own. It just looks and feels and behaves exactly like it.
+
+If I see the System again, I need to ask what exactly it meant by ‘overwriting’ myself. I mean, if this is an alternate universe, isn’t it possible that the me I overwrote was utterly different in many ways? How does the universe compensate for that?
+
+God forbid there’s a version of me that decided to grow a fancy moustache and that somehow affects me when I loop and overwrite it.
+
+Adam sighed and looked over at where the cube had unfolded itself.
+
+“Do I get extra time to select since I technically beat two waves?”
+
+[No. There are 20 seconds remaining before your choices will be forfeit and Wave Four begins.]
+
+Better hurry then…
+
+The symbols for the weapon upgrades once again showed a book and a hand, but the hand had speed lines next to it and the book had what looked like a recycle symbol in the corner.
+
+Upgrades Available
+
+Barrier Efficiency (Uncommon) — Reduces barrier summoning cost by 10%
+
+Manipulation Speed (Uncommon) — Increases manipulation speed by 20%
+
+Crush (Uncommon) — Increases the impact of attacks by 10%
+
+Crush might work well with the barrier.
+
+Ah, but I’ve gotta go for efficiency.
+
+It’s better to buy the general upgrades than picking them as wave rewards, I think.
+
+I should probably focus more on getting upgrades this time around, instead of spending all my points on relics.
+
+I think investing more into Luvicidix’s upgrades is also a good idea. I think the rewards upgrade might not actually be as good as the one for saving relics, since that can give me an edge from the start and help me snowball my power, but it would still be useful to have.
+
+Upgrade Selected
+
+Barrier Efficiency (Uncommon)
+
+Unlike the durability upgrade, he couldn’t immediately tell what the efficiency one changed about the tome. Then he noticed that the papers inside were a bit less yellow.
+
+The icons above the tesseract’s podium flickered and were replaced by new ones. One of them was already familiar to him, but the other was a book with a stippled outline that seemed to indicate growth.
+
+Upgrades Available
+
+Barrier Size (Uncommon) — Increases maximum barrier dimensions by 10%
+
+Manipulation Effect (Uncommon) — Increases manipulation responsiveness by 20%
+
+Movement (Uncommon) — Increases movement speed by 5%
+
+Good ol’ movement speed… But it doesn’t help me much here.
+
+Hmm, the size upgrade says ‘maximum’ dimensions, not actual? That implies I can scale the size of the barrier at will, or maybe during the summoning process.
+
+Adam held out his hand and tried to imagine the barrier getting smaller.
+
+Nothing happened.
+
+He tried making it bigger.
+
+Also nothing.
+
+[5 seconds remaining.]
+
+Upgrade Selected
+
+Manipulation Effect (Uncommon)
+
+Ah… I kind of picked that without thinking.
+
+The upgrade hadn’t visibly changed anything about the spell-tome.
+
+Let’s see if it does what I think it does.
+
+Adam swung his hand and the barrier moved to follow.
+
+He did this a few more times until he realised what the effect was.
+
+It’s like there’s less of an input lag on my commands.
+
+He tried spinning the barrier while moving it around and it was easier to pull off than before.
+
+Okay, that’s actually a great improvement.
+
+Wave Four
+
+90-Second Timer
+
+Adam rolled his shoulders.
+
+Alright, time to get this hidden sword.
+
+Come on green slimes, show me what you got!

@@ -1,0 +1,625 @@
+Adam played around with his barrier, trying to get it to fold into a tube, while waiting for the cube to turn into a podium. It felt like he was trying to squeeze his own brain within the confines of his skull.
+
+[Since you have slain the Secret Boss, two upgrade choices are once again available to you.]
+
+[Additionally, as you completed the Wave quickly, your rewards have gone up one Rarity level.]
+
+Hell yeah!
+
+With my luck already ensuring everything is uncommon, that means I should only be seeing rare and above.
+
+Hopefully I can get effect and speed for my weapon, that would really increase its lethality.
+
+Then the upgrades popped up and Adam frowned at what he saw. He lost his concentration and the barrier unfolded into a flat square.
+
+Upgrades Available
+
+Chip Stone — Reveal a portion of the sword
+
+Damage (Rare) — Increases all damage by 15%
+
+Crush (Rare) — Increases the impact of attacks by 15%
+
+Shit.
+
+I didn’t switch back to the spell-tome fast enough…
+
+At least there’s only one weapon upgrade. No way I’m picking that one though.
+
+He sighed. There was nothing he could do about the mistake now.
+
+Damage is not a bad pick. Not quite sure how that works with the barrier though, but 15% is quite a lot.
+
+“Select damage.”
+
+Upgrade Selected
+
+Damage (Rare)
+
+The upgrades flickered and were replaced.
+
+Upgrades Available
+
+Chip Stone — Reveal a portion of the sword
+
+Luck (Rare) — Increases luck by 3
+
+Movement (Rare) — Increases movement speed by 15%
+
+Now we’re talking!
+
+I definitely don’t need movement, since I’ve figured out a faster way to travel around.
+
+“Select luck.”
+
+Upgrade Selected
+
+Luck (Rare)
+
+Alright, let’s have a look at these stats.
+
+“Status.”
+
+Player Status
+
+“Adam”
+
+Shaper
+
+Level 15
+
+Stats
+
+Health — 50
+
+Stamina — 75
+
+Mana — 200
+
+Damage — 65% (+15%)
+
+Defence — 100%
+
+Dodge — 10% (+10%)
+
+Speed — 75%
+
+Luck — 10 (+5)
+
+Not bad.
+
+Wait, it just says ‘Adam’ now. I guess because of the nickname thing I did at the tavern?
+
+I wonder if there’s a filter to prevent obscene nicknames.
+
+Anyway…
+
+“Armament.”
+
+Weapon Status
+
+1
+
+Spell-Tome
+
+Rare Quality
+
+Level 10
+
+Stat Upgrades
+
+Barrier Durability +90%
+
+Barrier Efficiency +20%
+
+Manipulation Effect +75%
+
+Manipulation Speed +55%
+
+2
+
+Gram
+
+Rare Quality
+
+Level 0
+
+Stat Upgrades
+
+— — —
+
+Huh, it shows both weapons.
+
+If what Emelia says is true, then I’d need to upgrade Gram eighteen times before it actually becomes powerful. If I bought all the upgrades, then that would be 8,100 points, which is a lot to invest into a weapon. I think I’m better off replacing it with the Spellcaster though.
+
+As the cube reverted to its normal shape, Adam eagerly watched the treasure chest where light started to spill out from under the lid.
+
+Come on, give me something good!
+
+Two ears appeared as options, one yellow and one blue. There was also a pair of dented iron gauntlets.
+
+Relics Available
+
+Yellow Trophy (Rare) — Increase Player Speed by 15% for 10 seconds. 2-minute cooldown
+
+Blue Trophy (Rare) — Increase Player Damage by 15% for 10 seconds. 2-minute cooldown
+
+Cruel Summoner’s Gauntlets (Rare) — All summons explode on death
+
+Damn, no epics…
+
+The gauntlets are potentially quite strong, but it would make it dangerous to use the barrier as a shield. Also, it takes up both of the relic slots for my hands.
+
+It might also result in the enemies in stage three exploding on death…
+
+Still, I think I’ll pick them and test them out in the player house.
+
+But first…
+
+“Shitbox, alert me when there’s three minutes remaining and automatically select the ‘Cruel Summoner’s Gauntlets’ when the timer hits one second.”
+
+[Understood.]
+
+Adam went from the chamber and into the adjoining one, just as Belamouranthe walked out to meet him.
+
+“Has mine mother sent for me at last?” she asked.
+
+“Hello Belamouranthe. Yes, I am here to save you. My name’s Adam.”
+
+“Are thou a magician?” she asked, noticing the spell-tome in his left hand and the barrier floating nearby. “Mine family likewise has magic in their veins,” she added.
+
+That’s different from how she said it last time, he noted curiously.
+
+Adam undid the bonds on her hands and told her, “I need your help collecting something. If you help me, I’ll make sure you get the best boar meat stew you could ever imagine.”
+
+Bel’s eyes lit up and Adam couldn’t help but smile.
+
+I will save you this time, he promised her in his mind.
+
+“Shall I aid thee in slaying these foul gremlins!?”
+
+“Nothing like that,” he said with a grin. “I just need your help picking something out from a hole that’s too small for me.”
+
+“Understood! The boar stew shall be mine!”
+
+Adam laughed as he went into the chamber where she’d been kept hostage.
+
+It was a round room with some stacked weeds that smelled rotten and fermented. He guessed it was the hobgoblin’s bed. Next to it were some bones and simple tools. Despite being the boss of the goblin village, it was very spartan living, especially when compared to the huts.
+
+I wonder why, Adam mused, as he rummaged through the crap and found a smooth polished rock.
+
+He picked it up, but then immediately felt annoyed with himself when he realised what a mistake he’d made.
+
+Secret Relic Obtained
+
+Lucky Stone (Rare) — Flip to increase the rarity for the next reward options. 1 use
+
+I could’ve used this on the relic chest and gotten all epic rewards…
+
+Goddamn it.
+
+He sighed.
+
+Oh well, I guess it’ll be more powerful later on anyway. Doesn’t seem like I can use it at Lucca’s shop unfortunately. Unless her wares count as rewards.
+
+Adam returned to the boss chamber again and noticed that the warped crown had actually slipped off the boss’ head and was left behind where his body had been.
+
+He stooped to pick it up.
+
+Collectible Relic
+
+Damaged Crown (Uncommon) — With the proper care, even a tarnished symbol may rekindle its former glory | Subordinate allies gain 10% more Health
+
+It evolved?
+
+Adam had just assumed the collectible relic would disappear once it fulfilled its purpose, but it seemed there was more to it than that.
+
+“Does ‘subordinate allies’ refer to summons?” he asked the cube as he put the crown back on his head.
+
+[Yes. The term includes all entities under your control.]
+
+“So it doesn’t work on players?”
+
+[It might.]
+
+“What the hell does that mean?” he asked.
+
+The tesseract did not respond.
+
+I guess there’s a way to make players count for the buff then?
+
+Perhaps if I can get someone to become my subordinate, whatever that entails, it may work.
+
+Adam pushed the thought to the back of his mind for now. It was another thing to consult Emelia about.
+
+With Belamouranthe in tow, Adam left the foul-smelling cave and came out into the fresh air. The elphin girl immediately dropped to her knees in the grass and started running her hands through it.
+
+Instead of taking the time to indulge in the sight like in his previous loop, Adam summoned a barrier behind his back and pushed himself through the forest and into the village. He stopped in front of the hut with the spiderweb hole in the floor, using Gram to clear the webs away. After Belamouranthe caught up, she went down and retrieved the secret relic.
+
+Secret Relic Obtained
+
+Weaver’s Egg (Rare) — Wriggles with inner life
+
+I wonder if I’d have gotten a bonus reward for collecting both secrets before the score was calculated.
+
+Although that’d be a bit difficult to accomplish and I might’ve lost out on time, missing the speedrun bonus.
+
+After pocketing the cocoon, Adam used his barrier to zoom back to the cave. The elphin girl dutifully ran after him, although she stopped outside.
+
+“I will await thee here.”
+
+Last time she’d followed him inside, so he wasn’t sure what’d changed.
+
+“Fair enough,” he just replied and went in by himself.
+
+[3 minutes remaining,] the cube announced as he was halfway through the tunnels.
+
+I could’ve looked around more, he realised. But I’m fairly sure there’s nothing else to find here.
+
+He came to where he’d left behind all of the severed ears. Then he pulled off his shirt and used it to bundle them all together since he wouldn’t have enough space in his pockets, now that he also had the cocoon.
+
+Feels a bit weird returning to the island shirtless…
+
+With his sack of ears slung over his shoulder, the warped crown on his head, and the cocoon in his pocket, he went over to the relic chest and picked the gauntlets.
+
+Relic Selected
+
+Cruel Summoner’s Gauntlets (Rare)
+
+The cube floated over next to him as the gauntlets materialised on his hands. There was a very thin inner lining to cushion his skin against the metal, but they felt very cold.
+
+Darkness spilled out from the black cube and made the surroundings disappear. For a split-second he was worried that Belamouranthe wouldn’t be brought with him, but then the dumpy buildings of Interim Island appeared around him, along with the elphin girl two metres away.
+
+Now Entering
+
+‘Interim Island’
+
+Time immediately froze for everyone except Adam as the white moth descended from above with lazy flaps of her large wings. Silvery scales orbited the centre of the island.
+
+“You did it again, Adam!” Luvicidix praised him.
+
+“Are you here to bring me another ‘companion’? The last one keeps calling me ‘squire’…”
+
+“Absolutely!”
+
+She held out two of her black-banded arms, pressing them together. Then, when she pulled them apart, a lanky one-and-a-half-metre tall purple-skinned goblin just appeared in front of her. Unlike all the other denizens in his bizarre little dimensional world, this one was undeniably male.
+
+Finally some diversity.
+
+I think I can settle for a goblin as a friend.
+
+The purple goblin sported a mohawk of bristle-like dark hair and its eyes were completely black. It shared the most similarities with the blue goblins, since its head was narrower and less pig-like than the green and yellow ones. Its hands were slightly bigger though, the fingers longer than normal with short black nails.
+
+“I’ve never seen a purple goblin before, what’s special about him?” Adam asked.
+
+“Purple goblins are usually considered adept at tribalistic forms of magic,” the white moth explained.
+
+Surprised she was allowed to tell me that, he mused.
+
+The purple goblin just stood there in front of Luvicidix, a blank expression on his face.
+
+“Wait, I just had a thought,” Adam said. “What happens when players unlock these denizens without having looped back? Is it still you that brings them here?”
+
+“In such cases, the new companion simply appears before the players when they return from a stage,” Luvicidix explained. “I am still the one bringing them here, but I use my power to obscure my presence.”
+
+Weird.
+
+“Would you like to invest some of your many points in my upgrades?” she then asked.
+
+“I’ve gotta sell these first,” Adam explained, patting the bundle of ears in his improvised shirt sack.
+
+“I was wondering why you were half-naked this time,” the moth commented. “But very well, I shall await your return.”
+
+Luvicidix took to the air and all the floating silver scales pulled back into her wings. When she was swallowed by a cloud above, time unfroze.
+
+The melody of a handpan filled the air, sounding like metallic raindrops.
+
+The cube immediately announced the arrival of the purple goblin. [Congratulations! You have unlocked a Special Denizen due to your stellar performance in Stage Two — The Goblin Village.]
+
+Unlike last time, it didn’t make that weird sound.
+
+I wonder if the reason why it didn’t is because I got all the achievements in the same run? Perhaps it glitches out like that when there’s a clear discrepancy caused by the time-loops.
+
+Belamouranthe looked around in wonder, while the purple goblin approached Adam.
+
+“A’ight mate? Me name’s Migraine. Collect trophies I do,” he said in a weird probably-fake Australian accent.
+
+Ah fuck, here we go again.
+
+Quest Unlocked
+
+“Trophy Treasure”
+
+Migraine would like you to bring him 35 trophies
+
+Reward — Shaman Curse-Stick
+
+‘Curse-Stick’? I wonder if that’s a type of affliction-based magical weapon.
+
+Migraine eyed the shirt-sack Adam had over his shoulder. Blood was seeping through the bottom of the fabric and dripping onto his naked back. “Give it here, mate.”
+
+“Not happening,” Adam replied. “Also, what kind of name is ‘Migraine’? The boss I just killed was called ‘Bulge’… Are all of you named like that?”
+
+“Y’see, goblin’s simple. Name things as they are. Me? Head always full of pain. Bulge? He always very bulgy.”
+
+I take it back, Finnian might be better after all…
+
+“What counts as a trophy?” Adam asked the goblin, trying not to let his annoyance show.
+
+“Things what come from dead things.”
+
+“So like hearts and ears and such?”
+
+Migraine nodded and gestured to the sack. “So, give it here.”
+
+“Not happening,” Adam replied firmly.
+
+“Migraine go find girl goblin then.”
+
+“There ain’t any around here,” Adam told him. “Just insects and a weird slime.”
+
+The purple goblin nodded. “Slime good enough for Migraine.”
+
+Adam sighed.
+
+My desire to collect more of these ‘special’ denizens has greatly diminished…
+
+While Migraine walked off in the direction of the garden, Adam went towards the market, eager to get rid of his collection of ears. He was starting to notice the smell.
+
+Belamouranthe followed along beside him. “Where is the boar stew, Adam?”
+
+“I’ll take you to the tavern after I’ve done some shopping.”
+
+“Understood.”
+
+At least Belamouranthe isn’t weird like the rest of them. That would’ve been too painful to bear.
+
+She just likes food, which I can relate to. Especially since Charlie is such an amazing cook.
+
+Adam went to the market where he found Yenna sitting on the ground with the handpan in front of her.
+
+“Hello Adam,” she said as he approached.
+
+“Hey Yenna.”
+
+“Why are you shirtless?”
+
+“Don’t worry about it.”
+
+“Alright…”
+
+Adam walked past the fountain which once again had goblin statues spitting water into the top bowl.
+
+Secret Relic Activated
+
+The cocoon floated out of Adam’s pocket and went down to the same spot as in the last loop, before turning into a stall made of spiderwebs. The dog-sized spider crawled up onto the counter, while Lucca leaned out of her own stall to watch.
+
+[You have unlocked the Weaver. This vendor sells non-Relic attire.]
+
+Adam walked past the vendors until he reached the large spider’s relic shop.
+
+“You mind?” he asked her and she retracted her creepy head back under the overhang.
+
+“You have brought a weaver here,” she said. “My kind eats other spiders. But fret not dear, I am civilised.”
+
+Adam opened the improvised sack full of ears.
+
+“I wanna sell all of these,” he told her, ignoring her comment about Weaver.
+
+The large spider looked down at the pile of ears.
+
+“You have been hard at work.” She sounded excited about that for some reason.
+
+“Are you buying them?” he asked.
+
+“Of course. For all twenty-five of them, I will pay 1,875 points.”
+
+“Deal.”
+
+Relics Sold
+
+Goblin Ear (Common) x25
+
+5,405 Points Remaining
+
+“Would you like to sell your gauntlets and crown as well?” she asked.
+
+“Maybe later.”
+
+“What about my relics, would you like to purchase any?”
+
+“Not right now.”
+
+Adam looked down at the shirt he’d left behind on the counter. It was stained with blood and smelled like shit, since goblins weren’t exactly hygienic creatures. He picked it up like it was a stinky diaper and walked past the silverfish to say hello to Weaver.
+
+The smaller spider hid from him when he approached, but then slowly crawled back up onto the counter made of webs.
+
+“Hi Adam. My name is Weaver,” she said in a timid voice. “Thank you for bringing me here.”
+
+He almost said, “Hello again”, but managed to catch himself. “Hi.”
+
+“I sell clothing spun from my own silk.”
+
+Belamouranthe piped up. “Mother would love to welcome thee to our Sanctuary I am sure.”
+
+Adam massaged his head. Déjà vu…
+
+“Thank you,” Weaver replied. “If you would like, I can spin new clothes for you both. For free.”
+
+“I need a new shirt, as well as something like a sack with handles that can be folded and put in my pocket when I’m not using it. I also need a rope that’s maybe fifteen metres long.”
+
+“Would you also like new pants?” she asked.
+
+“Sure. Bel would also like a new dress, isn’t that right?” he asked, looking down at the girl.
+
+“I do! I do!”
+
+Weaver crawled forward on the counter and looked down at the elphin. “What colour would you like?”
+
+“Green!”
+
+“It will be done.” Weaver skittered back a few steps and then looked up at Adam. “Which of your orders should I work on first?”
+
+“The rope. I need that as soon as you can have it done.”
+
+“How much should it be able to carry?”
+
+“Probably like two-hundred kilos.”
+
+“That will be no issue at all. The clothes I will make for free, the rope and the sack will be two hundred points.”
+
+A bit expensive, but not unreasonable.
+
+“Deal.”
+
+Items Purchased
+
+Spidersilk Rope
+
+Spidersilk Sack
+
+5,205 Points Remaining
+
+“I will make the rope right away. Please give me a few moments.”
+
+Adam nodded. “I’ll be over by the other stalls.”
+
+He walked over to Nelly’s shop. Before he asked to see what weapons she had for sale, he pulled out Gram.
+
+“Shitbox, can you return this to my player house storage for me?”
+
+[I am unable to store weapons in the Player House, but I can remove it from your possession if you’d like.]
+
+Oh right, if I don’t have the weapon rack that won’t work.
+
+I could hold onto it until I get Builder, but I guess I don’t really need it?
+
+“Sure. I’ll just get rid of it.”
+
+The eye on the floating black cube shot a golden beam into the stone sword and it vanished from Adam’s hands. Deleted on the spot.
+
+That’s kind of a scary power.
+
+“What about my ruined shirt? Can you send that to the player house?”
+
+[Understood,] the cube said and beamed his stinky shirt away.
+
+That’s convenient. I should probably do that instead of physically going to my house to store things.
+
+“Are you also able to retrieve any items I have stored?”
+
+[Of course. What would you like to retrieve?]
+
+“Nothing right now. Just checking.”
+
+[Understood.]
+
+He turned to regard the silverfish.
+
+“Show me the weapons for sale.”
+
+Adam wanted to get the Spellcaster, since it might synergise well with the Warder. Emelia had said so at least. Plus there was the benefit of relic options all matching mana-based weapons, rather than the stone sword somehow causing melee-based options to appear.
+
+“Here they are!” Nelly announced, gesturing to the stone block.
+
+Classes For Sale
+
+Duellist (Uncommon)
+
+Spellcaster (Uncommon)
+
+Brawler (Uncommon)
+
+Summoner (Rare)
+
+Adam paused as he saw the last option. The hologram for the Summoner showed a wand and a lantern.
+
+I didn’t realise there was a Summoner Class…
+
+Shit, now I’m torn.
+
+“How much would Summoner cost?” he asked.
+
+“Rare options cost two thousand points.”
+
+Fuck, that’s so many points…
+
+“And uncommons?”
+
+“One thousand points.”
+
+“What does the Summoner come equipped with?” he asked.
+
+“A wand for simple spells and a relic.”
+
+“And I’m not allowed to know what the relic does, right?”
+
+[You have to buy it to find out.]
+
+“Right…”
+
+Adam sighed.
+
+Guess I’ll go to the tavern and ask around before I decide.
+
+He walked past the stalls until Thea the beetle smith stopped him.
+
+“Your crown is in a terrible state, would you like me to fix it for you?”
+
+Adam looked at her incredulously. “You can do that?”
+
+“Who do you think I am? Of course I can.”
+
+“Will that make it stronger?” he asked.
+
+It might be really good if I can evolve it again.
+
+Thea gave him a look, which, despite her beetle face not really having the capacity for expressions still managed to radiate smugness. “Of course. I’m not just any smith, you know.”
+
+“Well then, please fix it.”
+
+“That’ll be five hundred points.”
+
+Adam thought about it for a moment.
+
+If she can turn it into a rare relic, then that’s the same price as what Lucca charges. Plus the current effect boosts my summons, so if it evolves the effect might get stronger or it could receive a new one.
+
+Adam pulled off the crown and mentally poked it to get the description to pop back up again.
+
+Collectible Relic
+
+Damaged Crown (Uncommon) — With the proper care, even a tarnished symbol may rekindle its former glory | Subordinate allies gain 10% more Health
+
+I wonder if Thea’s hammer would count as ‘proper care’, though the heat of her forge might be considered rekindling.
+
+Fuck it, I might as well see what it does. It’s unlikely that Lucca will have any relics I want anyway.
+
+“Deal.”
+
+Relic Repair Purchased
+
+Damaged Crown
+
+4,705 Points Remaining
+
+Thea took the crown from Adam’s hands and immediately started working on it.
+
+“I’ll be done in a couple hours,” she told him.
+
+“Guess I’ll come back later then,” he said.
+
+He was about to head for the tavern when he realised that Weaver might already have finished his first order. Adam returned to Weaver’s stall where a long rope was awaiting him on the counter.
+
+“That was quick,” he said as he coiled it around his right shoulder.
+
+“Would you like to pick up the sack and clothes from here as well or should I bring it to the player house?”
+
+“I don’t need those right now, so home delivery is fine.”
+
+“Understood.”
+
+With the rope over his shoulder, Adam looked down at his companion.
+
+“Let’s go get some food,” he said.
+
+“Finally! I wish to devour this boar stew thou told me about.”

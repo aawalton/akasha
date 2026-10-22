@@ -1,0 +1,357 @@
+“That was Nelly’s favourite tree,” Lucca muttered as Adam approached the counter of her stall.
+
+“I’ve already apologised,” he said.
+
+The large spider leaned closer to him.
+
+“You possess a powerful relic, I can sense it.”
+
+“Are you talking about the abyssal tooth?”
+
+“I don’t know what that is. Show me.”
+
+Adam manifested the tooth in his hand and the spider pulled back immediately as though it was painful to be close to it.
+
+“I cannot buy this. It is foul. Take it away.”
+
+Even someone as sinister-looking as Lucca doesn’t like it. Quite the endorsement…
+
+He made the tooth go away and she calmed down.
+
+“I’m here to look at the relics you have for sale.”
+
+“Of course you are,” she replied, then she gestured to the black chest next to her and it started glowing.
+
+Relics For Sale
+
+Bone Armour (Uncommon) — Increases Player Defence by 30%. Breaks after 6 hits
+
+Potion Belt (Uncommon) — Carries up to three potions and makes them indestructible | Uses the right-most potion when its associated resource is exhausted
+
+Yellow Trophy (Rare) — Increase Player Speed by 15% for 10 seconds. 2-minute cooldown
+
+Blink Ring (Uncommon) — Charged attacks are performed instantaneously when you blink
+
+Hmm, blink ring might work with the wand. The bone armour is also not a bad idea perhaps.
+
+“Can I wear the armour and still keep my crown?”
+
+[No.]
+
+Damn.
+
+“I’ll buy and use a reroll.”
+
+“Excellent,” she chittered.
+
+Relic Purchased
+
+Reroll Die (Uncommon)
+
+2,605 Points Remaining
+
+The chest closed and opened again. This time there was an epic.
+
+Relics For Sale
+
+Curse-Giver Necklace (Rare) — Magical attacks inflict Curse, increasing damage taken by 10%
+
+Hobgoblin Pendant (Epic) — Player becomes immune to pain | Survive a fatal hit. Relic breaks if triggered
+
+Echo Earring (Uncommon) — All trigger effects activate twice
+
+Spellburn Glove (Uncommon) — Spells are infused with fire. Breaks after 4 uses
+
+That’s the pendant that Lenard got in the last loop.
+
+He recalled the fight with the hobgoblin lord.
+
+Being able to survive a fatal hit is good, but the way it actually works isn’t. Just because you survive the fatal hit, it doesn’t mean it actually heals you back to full. It’s basically just delaying the inevitable at that point.
+
+The echo earring is potentially interesting though. I think it would make my summons explode twice, which could be powerful. It might also trigger the wraith lantern twice, though I need to test how that one actually works. However, Willow told me that it also doubles the enemies’ triggers, which makes a lot of them way scarier suddenly.
+
+“Does the curse-giver necklace’s effect stack?”
+
+[No. The effect can only be applied once. The Curse Affliction lasts until the end of the Stage.]
+
+So it’s just a flat boost in power, not as good as I thought. Although the fact that it lasts an entire stage is quite interesting.
+
+“I think I’ll just buy two reroll dice.”
+
+“You don’t want to try your luck with another roll?” asked Lucca.
+
+She’s not even trying to hide the fact that this is basically gambling.
+
+“I’m good.”
+
+Relic Purchased
+
+Reroll Die (Uncommon) x2
+
+2,405 Points Remaining
+
+Still 2,400 remaining. That’s quite a lot.
+
+“See you tomorrow,” said the spider as Adam went over to the red-brown cockroach’s stall.
+
+“Hey, Belin,” he said.
+
+“Hello Adam, are you looking for potions or temporary boosts?”
+
+He thought about it for a moment.
+
+The roots only increase one stat by 10%. I’d like to get more health, but it would only put me at fifty-five. I guess I don’t need potions either, since I can find one in stage three next to the dead driver.
+
+“Actually, never mind,” he said and went over to the smith.
+
+“Are you looking for weapon upgrades?” Thea asked. “I see you have a new wand.”
+
+Adam took the wand from his belt. “Sure, might as well see what kind of stuff it gets.”
+
+Thea gestured to the anvil and four symbols appeared. All of them pictured the wand, which was peculiar, since he’d expected the relic to get upgrades too.
+
+Weapon Upgrades For Sale
+
+Spell Damage (Uncommon) — Increases spell damage by 10%
+
+Spell Size (Rare) — Increases spell size by 45%
+
+Casting Effect (Uncommon) — Increases casting responsiveness by 20%
+
+Casting Efficiency (Uncommon) — Reduces casting cost by 10%
+
+It seems to follow the Warder’s upgrades. Although…
+
+“These upgrades, are they really only bound to the weapon? They seem a lot broader than normal.”
+
+[Weapon upgrades encompass all weapons and types of attack that are described within their text.]
+
+“So, since it says it increases spell damage, that would mean anything considered a spell?”
+
+[Yes.]
+
+Then perhaps that’s the true strength of the Summoner? The wording of its upgrades broadly affect way more than just the wand. I suppose that’s why my manipulation effect from the spell-tome is making it easier to shape the chair in the tavern?
+
+I wonder if Emelia knows about this. It seemed like she wrote off the Summoner really easily.
+
+Adam swapped to the Shaper and the upgrades flickered and were replaced.
+
+Weapon Upgrades For Sale
+
+Barrier Durability (Uncommon) — Increases barrier health by 20%
+
+Barrier Efficiency (Uncommon) — Reduces barrier summoning cost by 10%
+
+Manipulation Range (Uncommon) — Increases manipulation range by 20%
+
+Manipulation Effect (Uncommon) — Increases manipulation responsiveness by 20%
+
+Perhaps manipulation effect would influence how the wraith from the relic works? Although probably not, since it sounds like I can’t actually manipulate it.
+
+He wasn’t sure if he should buy an upgrade or save his points, so he mentally prompted his armament to appear.
+
+Weapon Status
+
+1
+
+Spell-Tome
+
+Rare Quality
+
+Level 10
+
+Stat Upgrades
+
+Barrier Durability +90%
+
+Barrier Efficiency +20%
+
+Manipulation Effect +75%
+
+Manipulation Speed +55%
+
+2
+
+Wand & Wraith Lantern
+
+Rare Quality
+
+Level 0
+
+Stat Upgrades
+
+— — —
+
+Getting the manipulation effect would put me pretty close to 100% and I feel like I’m right on the cusp of being able to fold the barrier in half and coil it into a tube.
+
+But if I get it, then I only have 1,955 points left to spend on Luvicidix. Although I think I need four thousand or so to unlock the relic saving upgrade anyway, so I guess it doesn’t matter since I’m still two thousand points short.
+
+“I’ll buy the manipulation effect upgrade.”
+
+“Understood,” Thea replied.
+
+Weapon Upgrade Purchased
+
+Manipulation Effect (Uncommon)
+
+1955 Points Remaining
+
+One more upgrade and I can evolve the Shaper, though I think I’ll hold off until I feel like I’ve mastered the shaping a bit more. I think that I would benefit from upgrading the Summoner anyway. Although in the next stage, I’ll focus on getting health and defence upgrades. It’s still way too risky for me to run around with just fifty health. All of the mini bosses in stage four will literally one-shot me.
+
+Adam summoned a barrier as he left the market. Migraine the goblin walked past him right when he reached the fountain. He was heading for Weaver’s stall for some reason.
+
+After watching the goblin for a moment, Adam walked past Yenna, who’d switched out the handpan for a guitar.
+
+He paused and looked at her. “Can you play Ana Vidovic’s cover of ‘Asturias’?”
+
+“Of course, Adam,” said the wasp.
+
+He grinned as she started playing the frenetic rhythm.
+
+“Watch this,” he told her and focused all his attention on the barrier.
+
+His brain did a somersault and a pirouette, but then it was like he’d cracked the code, because the barrier coiled itself into a tube.
+
+Fuck yes!
+
+Adam grabbed it with his metal gauntlets as it floated at eye-height. With one final flourish of pure concentration, he curved the tube into a half-moon shape, forming a handle.
+
+Then he pushed it forward, dragging himself towards the centre of the island while holding on like he was a windsurfer and the cobblestones were his waves.
+
+Dust shot out from the heels of his shoes as he skated across the island’s streets. The cube floated along beside him, not making a single comment about his ingenious transportation method.
+
+The handle-bar shape held so long as he focused on it entirely, which meant that when he tripped over a root protruding out from the middle of a narrow street, the barrier lost its coherence and unfolded back into a large square. Its sudden transformation cut a long rend in the wall of a dumpy-looking house and nearly took his right hand off at the wrist.
+
+Adam lifted himself off the ground.
+
+Okay…
+
+I think I’ll stick to just using it to push me from the back.
+
+He formed the barrier back into a tube and jogged the last bit to the island centre, while playing around with the shaping power. He knew he needed to practice more so that he’d be able to do the transformations intuitively and not be locked down by having to concentrate on the barrier the entire time. It would be especially crucial when he was fighting a lot of enemies at once.
+
+When he reached the centre of Interim, silver scales fluttered down around him and the cube froze in its tracks. Then the great white moth alighted on the edge of a roof in front of him.
+
+“Hello again, Adam,” she greeted. “You have visited the deep place below the island’s surface, I hear. Amusing, isn’t it? Even this island holds secrets for you to find.”
+
+“Are there other hidden envoys?” he asked.
+
+The moth shrugged, somehow. “Who can say?”
+
+She hopped down onto the cobblestone street and towered over him.
+
+“You’ve come for upgrades, right? You should hurry up before the sun sets.”
+
+“I’ve got all the time in the world,” he replied. “You’ve stopped it, after all.”
+
+“It would be a good idea not to abuse time. It can get cranky if you don’t take it seriously.”
+
+“What’s that supposed to mean?”
+
+Luvicidix waved an arm and her upgrades appeared. It was clear she didn’t want to stick around for too long. He wondered why.
+
+Meta Upgrades For Sale
+
+Damage — Increase All Damage by 10% — 1,000 Points
+
+Rewards — Increase Reward Options by 1 — 625/4,000 Points
+
+Vendors — Increase Vendor Options by 1 — 4,000 Points
+
+Rerolls — Start every loop with 1 Reroll Dice — 2,500 Points
+
+Relic Saving — Start every loop with 1 Saved Relic Slot — 1040/5,000 Points
+
+Cheat Death — Start every loop with the Cheat Death Relic — 10,000 Points
+
+“I’ll put all my remaining points into relic saving.”
+
+“Expedient. I appreciate that.”
+
+“Seriously though, where are you going?” he asked.
+
+“Wherever the sun takes me,” she replied cryptically.
+
+“Is that supposed to be a pun based on ‘moths to a flame’?”
+
+The moth did not reply and instead his upgrade progress popped up.
+
+Meta Upgrades Progress
+
+Rewards — Increase Reward Options by 1 — 625/4,000 Points
+
+Relic Saving — Start every loop with 1 Saved Relic Slot — 2,995/5,000 Points
+
+“Since you have no points left, I will take my leave. See you tomorrow,” Luvicidix told him.
+
+“Later.”
+
+As the moth flew off into the orange sunset-stained clouds, time unfroze and Adam instinctively looked towards the tavern. But first he wanted to practice his new weapon at the player house.
+
+As predicted, using the wand was quite finicky. He’d spent the last thirty minutes just practising the three spell patterns it had come with, and it’d taken him nearly half that time to get one to fire back-to-back.
+
+I wonder if the casting effect upgrade would make the spells fire more consistently.
+
+Fortunately, the spells only used mana when they succeeded, but they were expensive. Each cost twenty-five mana per cast and only one of the three dealt damage.
+
+The first one had a pattern that like a square spiral with a half-moon at the very middle. It was performed from the outside moving in and even the slightest deviation caused it to malfunction. This was the one he felt the most comfortable casting though. When it succeeded, a grape-sized ball of violet energy fired in a straight line from where his wand aimed when he finished the pattern.
+
+It took two hits against the straw dummy to destroy it.
+
+When it broke, a tiny white firefly flew from its ruined remains and into the wraith lantern. Adam had absorbed the essence of four straw dummies so far and the relic had yet to activate.
+
+Relic
+
+Wraith Lantern (Rare) — When an enemy is slain nearby, their Soul Essence is absorbed | When the Relic is fully charged with sufficient Soul Essence, a Winter Wraith is summoned
+
+Maybe the dummy doesn’t count?
+
+Would make it difficult to practice with though.
+
+Adam looked at the lantern that hung from the front of his belt like a trinket. The four white fireflies circled the pale-blue flame inside.
+
+He focused on the rebuilt dummy and prepared to try out a different spell pattern. Besides the ‘Bolt’ spell, which he felt he was already quite proficient with, there were ‘Push’ and ‘Snare’ patterns. These two didn’t deal any damage and were instead focused on utility. Although the push pattern could be used to potentially kill enemies by flinging them against things or off of high places.
+
+Adam moved the wand through the pentagram pattern for the push spell, before stabbing the wand through the middle.
+
+Nothing happened, so he tried again.
+
+And again.
+
+On the fourth try, he succeeded and a blast of air moved through the dummy, knocking it over and dispersing against the back wall of the house.
+
+Adam figured it might also work as a counter-projectile spell, but if he couldn’t master it, then he was better off using the barrier to protect himself.
+
+The dummy reformed itself back into an upright position. It didn’t count as a ‘kill’, so he didn’t get any soul essence for knocking it over.
+
+Next he tried the snare spell. This was by far the hardest one to use. He had to hold the wand vertical for the start of the spell while spinning it in increasingly-bigger circles and moving it down. To actually fire it, he needed to transition into a horizontal whipping motion.
+
+He’d only managed to get it to work once so far and the effect was that violet rope emerged from the ground and tied itself around the bottom of the dummy, which would probably slow a moving target or trip them up.
+
+After five more minutes of failing to cast the spell, Adam gave up and switched to his spell-tome, finishing off the dummy with a simple chopping gesture.
+
+As it broke apart, the soul essence firefly flew out from the severed remains and into the wraith lantern.
+
+A heart-stopping shriek filled the player house, and the temperature dropped several degrees.
+
+Then a vague pale-blue ghost of a monstrous woman with large clawed hands emerged from the relic, flying across the room at the reformed dummy. Her bottom-half was gone, and the upper-half was so blurry that he couldn’t make out the features. Her face had two black holes for eyes and a screaming mouth. From her abdomen was a very fine string that tied her to the hovering flame still inside the lantern, and her passage left snowflakes on the floor.
+
+The wraith swiped her claws through the dummy as she shot herself right through its straw torso. Her claws tore open its body, leaving frost behind on its straw skin.
+
+That’s pretty strong.
+
+But then the true brilliance of his current build made itself known, since, instead of dissipating, the wraith gained a red outline and went absolutely berserk. She swiped her claws through the dummy until it broke apart, and a new one replaced it only to be torn apart as well. To really top it off, the kills sent fireflies back into Adam’s lantern, meaning it was possible to end up with a never-ending cycle of wraiths creating more wraiths.
+
+Just when the duration of his crown’s last stand’s fervour wore off and the wraith exploded, a second one shot out from his lantern to attack. The death explosion from the wraith covered everything in a three-metre diameter with ice.
+
+“Stop respawning the dummies,” Adam told the cube, since he didn’t want to have the wraith spawn endlessly, which seemed the case as the second one had already made its third kill.
+
+[Understood.]
+
+When the dummy didn’t respawn, the wraith hovered in the air for a moment, red-glowing and angry. Then it was reeled back into the lantern instead of exploding.
+
+Adam still needed to practice more, and he wanted to see how the wraith fared against the slimes and goblins, but for now he was quite satisfied with having purchased the Summoner. It was quite obvious that Emelia had no idea about its potential.
+
+And if I can get the summoning relic from the boss of stage three, then I’ll become a one-man army for sure!
+
+Adam was in a good mood as he left the player house and went towards the tavern to meet up with his new friends. The silver light of the moon above guided his way through the streets.
