@@ -1,0 +1,111 @@
+The world shifted, and Viktor found himself standing once more in the familiar surroundings of the Core Room.
+
+Celeste was present, of course, and so was Galatea in her projected form, ready to deliver her report on last night’s investigation. But as he swept his gaze across the chamber, he noticed someone else was also here—an impish creature, all wiry limbs and glittering eyes, flashing his toothy grin at Viktor with barely restrained enthusiasm.
+
+“Kazyk? I don’t remember summoning you. Should I be worried that the workshop is on fire?”
+
+[He has a new project in mind, so he came seeking your approval. I have told him that I would pass the matter along to you, but he insisted on making the pitch in person.]
+
+“Go on then,” Viktor said with a chuckle, gazing at the gremlin boss. “What catastrophe are you calling an idea this time?”
+
+“No no no,” Kazyk said, waving his hands. “Nothing catastrophic at all, Master. Nothing crazy, I promise you that. Very normal, in fact.” He paused, letting the silence hang for dramatic effect, before flashing his signature grin again. “A trebuchet.”
+
+Ah, yes. A trebuchet. The most normal thing one could find in a dungeon.
+
+“Why?”
+
+“Master,” Kazyk began, folding his fingers together in the manner of someone who had rehearsed this and was now, with immense delight, performing it. “You remember when we talked about improving the ballista? My proposal back then was to increase its firing rate, to get more bolts in the air in less time. But the problem is, since you’re the one who personally guides each projectile, the rate at which you can do so creates a hard ceiling on how useful a faster weapon actually is. So, I began to ask myself: what if, instead of firing more shots, we focused on making each individual shot more devastating?”
+
+“But why a trebuchet specifically? Why not just build a bigger ballista?”
+
+“Because a bigger ballista shoots a bigger bolt, Master. Longer. And such an oversized projectile would have a hard time navigating the narrow corridors of our dungeon without lodging itself in a wall before it ever reaches its target. On the other hand, if it’s something round, it’ll have much better maneuverability.”
+
+That was true. A big-ass arrow was certainly awkward to use inside a dungeon.
+
+Besides, the only reason why that shape existed in the first place was, after a projectile was launched from a normal ranged weapon, it was on its own. The elongated profile was there to improve accuracy, to compensate for the absence of guidance. Thanks to it, bows were more accurate than slings, and ballistae were more accurate than catapults. But when a Reliquary allowed you to directly steer the missile in question, all of that was moot. The only thing that mattered now was how well the projectile could maneuver through a confined environment without hitting the obstacles along the way. And in that case, a simple rock was vastly superior to a giant bolt.
+
+He had done the same thing himself, hadn’t he? When he killed Dagnar, he used a sling, not a bow. Because both the weapon and its ammunition were cheap and easy to make, while every advantage that a bow held over it ceased to matter the moment he had the power of the Reliquary transferred into that primitive, unassuming sling.
+
+And then there was last night. He had seen what a boulder in a giant’s hands could do. The raw, almost casual devastation of it. He let himself picture it for a moment—that same boulder moving through the corridors of his dungeon, guided by his will. That would be quite a spectacle. And, thinking about it even further, if he had had a trebuchet during the battle at the mortuary complex, the whole affair might have been brought to a much quicker conclusion.
+
+A trebuchet was not cheap, however.
+
+The great bottleneck in the operation of his workshop had always been raw materials. Metal, at least, was manageable. Steel and iron arrived in a steady stream through two reliable channels: dead adventurers and summoned minions. The Templars of the fourth floor brought silver, so they would remain useful even after their defeat. And if push came to shove, he could resort to forging weapons and armor out of gold. Wood, on the other hand, was a different story entirely.
+
+After all, Celeste did not have the ability to directly create it. Every plank and beam and wooden component that had been used to date came from one single source: the trees that grew on the small islands scattered across the water realm on the third floor. They were basically “accessories” to the environment, so harvesting wood this way was very inefficient. It was like buying a whole chicken just for its beak. In order to build that trebuchet, he might need to double the size of the third floor.
+
+Still, the potential was undeniable, and he had mana to spare. So, why not?
+
+“I’ll think about it,” Viktor said. “Celeste will let you know when I’ve reached a decision.”
+
+“Yes, Master.”
+
+And so, Kazyk bowed in farewell. First to him, then to Celeste, then to Galatea. And he couldn’t help but notice the last bow was three full seconds longer than the one the gremlin offered to his master, the actual lord of the dungeon.
+
+“So,” Viktor said, turning to his luminous Guardian after Kazyk was gone, the door closing behind him. “What happened after I left?”
+
+At the very least, the fact that he had slept through the night without being interrupted by Celeste meant nothing unexpected had occurred in the Folded Chamber.
+
+“I’ve investigated the stone building with that party, as you instructed,” Galatea said. “The interior was a mess, though. Walls and ceilings had collapsed in several areas, and vines were everywhere. Nevertheless, we managed to locate a basement level. Within it were the cells where the masked men held their prisoners.”
+
+“The pyromancers?”
+
+“Yes, Master. Most of them were... dead. They had been kept there for quite a while. Starved and subjected to torture. Only a handful were still alive when we reached them. Barely. Mandragora and I gave them what healing we could, and—”
+
+“Did they see you?”
+
+Galatea shook her head. “They were all unconscious, so I don’t think that’s something you need to worry about. Anyway, the healing we provided only slowed down the deterioration of their conditions. They needed to be brought out of that place and given proper care as soon as possible. That was why Ekon proposed reporting the Folded Chamber to the Adventurer’s Guild in Daelin immediately. And, after consulting with Celeste, I agreed to that course of action.”
+
+Viktor nodded. This was, strictly speaking, slightly ahead of schedule. After all, he wanted to poke around the place a bit more before inviting official attention. Still, in the grand scheme of things, it was but a minor deviation.
+
+The groundwork had already been laid. The cover story was ready, and the bald man was probably reciting it to the Guild at this very moment.
+
+He would tell them that he had been ambushed by the masked men. After barely escaping with his life, he made the panicked decision to take shelter inside the dungeon. He remained there for two weeks, surviving on the supplies he had brought with him and whatever scraps he could scavenge from the dungeon, until both ran dry and hunger forced his hand. He emerged at last, and was received by the guards and the employees of the Guild at the entrance. He didn’t tell them anything because he feared they would not believe him. So he shut his mouth and left the camp, trying to go back to his companions. However, he was ambushed on the way and taken captive by the masked men.
+
+Fortunately, his friends Mandragora and Renee had found his trail and followed it to the secret hideout. They entered the Folded Chamber, and there, an unbelievable scene unfolded before their eyes—a titanic clash, between an enigmatic being made entirely of shadow and the masked men along with their monsters. They used the chaos to rescue Ekon, then found a place to hide and wait out the fight. After the man of shadow was done with his business and gone, they ventured to the stone building, cleared what remained of the masked men, and found the pyromancers in the cells below.
+
+In other words, a story that was not too different from the truth. It merely omitted or altered a few inconvenient details.
+
+“What happened to the three men inside the building?” Viktor asked.
+
+“They’re dead,” Galatea replied. “They’d taken poison by the time we reached them.”
+
+Well, that was about as expected as anything could be, given what he had already come to understand about these lunatics. And that meant there was no one left alive to contradict Ekon’s account of events.
+
+“How about that masked woman?”
+
+“Renee knocked her unconscious, and Mandragora restrained her. The Druidess then found the poison she’d kept inside her mouth. Something she could use even if both of her hands were bound.”
+
+Viktor nodded. “Where is she now?”
+
+“I’ve told Mandragora not to report this matter to the Guild. She’s to keep her somewhere out of sight, until she receives further instructions from you.”
+
+It would be great if he could get the woman into the dungeon somehow, but it was not going to be easy. Moving himself in and out was one thing; his Thaumaturgy could see to that. Moving someone else, and an uncooperative prisoner at that, past all the guards in the camp outside would be no trivial matter. Oh, well. He would think about it later. For now, the woman was Mandragora’s responsibility.
+
+“So,” Viktor asked, “you haven’t found anything useful in the building yet? Anything that might shed more light on the Children of the Abyss?”
+
+“Unfortunately not, Master. As I said, the place was a mess, and the time available to us was limited.”
+
+A pity, but it was fine. The Guild would send their own people in soon enough. They had manpower, so perhaps letting them do the investigation for him was far from the worst outcome.
+
+Anyway, this seemed to mark the conclusion of what Galatea had to report. Shorter than he had anticipated, but he wasn’t going to complain. Because it meant he could go home immediately. He had asked Jeanne to look after Claire in the morning, a precaution taken in case the fight in the Folded Chamber might drag on through the night. But it hadn’t, and now with everything in place, there was no reason to linger here any longer.
+
+“If there’s nothing else, you can—”
+
+“Actually,” Galatea said, “there’s one thing. Not from inside the building, though.”
+
+“Oh?” Viktor arched a brow. “What is it?”
+
+“The monsters you killed in that place. Those whose corpses were left scattered across the chamber after the fighting was done. I recognized them.”
+
+“Recognized them how? You’ve seen them before? Where?”
+
+“Do you remember the story I told you the day I was summoned, Master? About the battle I fought in the Ethereal Sea against the so-called Great One of the Deep? And I mentioned a powerful Prophet, who had summoned a horde of monsters...”
+
+Viktor frowned. “You’re saying the monsters in the Folded Chamber are the same as those you’ve fought?”
+
+“Yes.”
+
+But... they were also the ones who had assaulted Daelin’s outpost, the ones who had attacked the town itself eight years ago, and the ones who had been infesting the rivers of the Central Plains for three hundred years.
+
+Those monsters were minions of the Great One of the Deep?
