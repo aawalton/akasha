@@ -7,6 +7,7 @@ export const hooks = {
   definition:
     "Reading pages from supabase: one by id suffix, all of a type, related ones, and a nav's views.",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -32,7 +33,16 @@ export const hooks = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Related pages are shown only once their own question has been answered.",
+      statement: "Related pages are shown only once a question for them has been answered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Related pages asked for again keep the ones last answered until the new question is answered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Related pages are loading only until their first question is answered.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -95,5 +105,5 @@ export const hooks = {
     },
   ],
   createdAt: "2026-09-02T12:08:30.267Z",
-  updatedAt: "2026-09-28T20:53:34.000Z",
+  updatedAt: "2026-10-22T15:13:29.457Z",
 } as const satisfies Module

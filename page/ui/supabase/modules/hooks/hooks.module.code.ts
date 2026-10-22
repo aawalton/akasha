@@ -49,7 +49,7 @@ import {
 } from "akasha/page/ui-store/query/modules/regular-pipeline/regular-pipeline.module.code.ts"
 import { createRelatedPipeline } from "akasha/page/ui-store/query/modules/related-pipeline/related-pipeline.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import { useEffect, useMemo, useState } from "react"
+import { useEffect, useMemo, useRef, useState } from "react"
 
 const NAV = "nav"
 
@@ -222,6 +222,17 @@ export function usePageTypeLine(slug: string | null): {
 
 const NAMED_AT_MOST = 100
 
+const NO_ROWS: readonly PageRow[] = []
+
+export function relatedShown(
+  last: readonly PageRow[] | null,
+  ready: boolean,
+  snapshot: readonly PageRow[] | null
+): readonly PageRow[] | null {
+  if (!ready) return last
+  return snapshot ?? last ?? NO_ROWS
+}
+
 function shapeReading(group: RelatedIdGroup): ShapeDescriptor {
   if (group.values.length > NAMED_AT_MOST) return slugShapeDescriptor(group.pageTypeSlug)
   return namedShapeDescriptor(group.pageTypeSlug, { by: group.by, values: group.values })
@@ -263,17 +274,21 @@ export function useRelatedPages({
     groups.length > 0,
     HELD_RELATED
   )
+  const asked = groups.length > 0
+  const lastShown = useRef<readonly PageRow[] | null>(null)
+  const shown = asked ? relatedShown(lastShown.current, ready, snapshot) : NO_ROWS
+  if (asked) lastShown.current = shown
   const relatedPages = useMemo(
     () =>
       relatedAsNamed(
-        (ready ? (snapshot ?? []) : []).map((row) => toPageWithProperties(flattenRow(row))),
+        (shown ?? NO_ROWS).map((row) => toPageWithProperties(flattenRow(row))),
         pages,
         specs,
         pageTypes
       ),
-    [ready, snapshot, pages, specs, pageTypes]
+    [shown, pages, specs, pageTypes]
   )
-  return { relatedPages, isLoading: groups.length > 0 && !ready }
+  return { relatedPages, isLoading: shown === null }
 }
 
 interface ViewsFound {
