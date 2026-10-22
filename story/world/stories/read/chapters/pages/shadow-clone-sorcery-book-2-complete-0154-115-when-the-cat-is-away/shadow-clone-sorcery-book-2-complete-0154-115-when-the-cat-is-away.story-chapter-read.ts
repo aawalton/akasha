@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const shadowCloneSorceryBook2Complete0154115WhenTheCatIsAway = {
+  id: "01a16597-48a5-7c71-96c5-91c6c5cc8077",
+  type: "page-type/story-chapter-read",
+  slug: "shadow-clone-sorcery-book-2-complete-0154-115-when-the-cat-is-away",
+  position: 154,
+  publishedAt: "2026-07-06",
+  unit: "unit/words",
+  title: "115. When The Cat Is Away",
+  story: "story-read/shadow-clone-sorcery-book-2-complete",
+  ownLength: 2296,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3640437",
+      externalLink:
+        "https://www.royalroad.com/fiction/117529/shadow-clone-sorcery-book-2-complete/chapter/3640437/115-when-the-cat-is-away",
+    },
+  ],
+  createdAt: "2026-10-22T21:49:35.779Z",
+  updatedAt: "2026-10-22T21:49:35.779Z",
+} as const satisfies StoryChapterRead
