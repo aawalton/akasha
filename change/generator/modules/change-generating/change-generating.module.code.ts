@@ -108,7 +108,7 @@ export function generatedAlong(
   const handed = (one: Listed): Change => {
     if (one.runsAfter.length === 0) return change
     if (seenOver !== edits.length) {
-      seen = again(edits)
+      seen = phased("generators again", () => again(edits), GENERATOR_NAMED_MS)
       seenOver = edits.length
     }
     return seen
@@ -218,10 +218,14 @@ export function generatedOver(
   again: Again,
   only: ReadonlySet<string> | null = null
 ): Ran {
-  const cast = shadowFor(change)
+  const cast = phased("generators settle", () => shadowFor(change), GENERATOR_NAMED_MS)
   if ("refused" in cast) return NOTHING
   const every = listedIn(cast.shadow, change)
   const listed = only === null ? every : every.filter((one) => only.has(one.slug))
   if (listed.length === 0) return NOTHING
-  return generatedAlong(listed, change, again, loadedIn, costedIn(change.root))
+  return generatedAlong(listed, change, again, loadedTimed, costedIn(change.root))
+}
+
+function loadedTimed(change: Change, at: string, beside: string): Loaded {
+  return phased("generators load", () => loadedIn(change, at, beside), GENERATOR_NAMED_MS)
 }

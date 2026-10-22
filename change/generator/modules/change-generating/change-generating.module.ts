@@ -62,6 +62,11 @@ export const changeGenerating = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Reading the tree, loading each generator and rebuilding the change are each timed as a phase.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A change generator whose page is not on disk yet is run uncosted.",
     },
     {
@@ -74,5 +79,5 @@ export const changeGenerating = {
     },
   ],
   createdAt: "2026-09-24T19:21:33.777Z",
-  updatedAt: "2026-10-18T14:56:58.697Z",
+  updatedAt: "2026-10-22T15:43:04.637Z",
 } as const satisfies Module
