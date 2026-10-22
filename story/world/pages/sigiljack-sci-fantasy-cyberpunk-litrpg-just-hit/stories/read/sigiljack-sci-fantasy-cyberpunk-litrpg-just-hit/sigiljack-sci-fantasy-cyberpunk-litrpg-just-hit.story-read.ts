@@ -1,0 +1,47 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const sigiljackSciFantasyCyberpunkLitrpgJustHit = {
+  id: "01a16526-46bd-76be-a682-ae9d800c501a",
+  type: "page-type/story-read",
+  slug: "sigiljack-sci-fantasy-cyberpunk-litrpg-just-hit",
+  author: "Nate C.",
+  following: false,
+  unit: "unit/words",
+  title: "Sigiljack: Sci-Fantasy Cyberpunk LitRPG (Just hit Rising Stars!)",
+  world: "world/sigiljack-sci-fantasy-cyberpunk-litrpg-just-hit",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "124319",
+      externalLink:
+        "https://www.royalroad.com/fiction/124319/sigiljack-sci-fantasy-cyberpunk-litrpg-just-hit",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Urban Fantasy",
+    "Progression",
+    "Post Apocalyptic",
+    "Grimdark",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-fi",
+    "Artificial Intelligence",
+    "Cyberpunk",
+    "Dystopia",
+    "GameLit",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "Mythos",
+    "Soft Sci-fi",
+    "Strong Lead",
+    "Supernatural",
+    "Technologically Engineered",
+  ],
+  readLater: true,
+  createdAt: "2026-10-22T19:46:09.724Z",
+  updatedAt: "2026-10-22T19:46:09.724Z",
+} as const satisfies StoryRead

@@ -1,0 +1,607 @@
+EXCERPT:
+
+"Where the hell are these things even coming from," Red swore as he broke every bone in a jumping ghoul's torso with a vertical swipe of his gun-club.
+
+Ghaz turned. "No shooting. We don't want them to hear--"
+
+Outside, the ghoul horde—likely tipped off by of their screeching kin inside, anyway—rammed the barricaded door. A blooded hand smashed through the door's glass. Then a face. Then shoulders and crashing reflective shards.
+
+Fex shot the ghoul in the face. It slumped in the shattered doorframe. "Too late now."
+
+Then the door to the pharmacy cracked from its hinges. Broken under the weight of multiple bodies.
+
+Vorrak and Ghaz turned and opened fire. Ghaz slammed slugs through the collapsing frame.
+
+"The shelf's not gonna hold!" Red bellowed, turning after he broke the face of another mana-mutated monster. "They're climbing!"
+
+Ghouls crawled over each other, shoving limbs into broken glass to get through into the pharmacy. One fell and pierced its own eye. It laughed.
+
+Vorrak swung his glaive like a scythe, bisecting a leaping ghoul as it came up and over the shelving Red had thrown down.
+
+"Stay together!" Ghaz ordered.
+
+Ghouls flooded in. From the front door, from the back.
+
+[Skill Activated: Combat Draw Lv. 2.][Skill-Energy Remaining: 3.5.]
+
+John shot through the mouth of one. Athena was already stabilizing his aim again, but it wasn't going to be enough.
+
+He aimed again and shot another ghoul... one that came from the back and that definitely wasn't one of the original six. Its chest and shirt were clawed open, ribs cracked, heart and soulcore pulsing with the same black-blue glow that emanated from the other monsters. Only the veins around this one's heart were glowing, however. As if whatever animated it was still spreading.We’re the ghouls victims resurrecting to join the horde themselves?
+
+"Athena... options," he whispered.
+
+"Permission to aid you in combat?" she asked. She was calm, clinical. "I have an idea. To go beyond merely stabilizing and adjusting you."
+
+A ghoul lunged.
+
+John slashed its throat with his orichalcum katana, then its abdomen. It dropped, spasmed, and crawled toward him, dragging its entrails like weighted ropes across broken tile.
+
+He double-tapped it in the head. "Go."
+
+He felt her presence pulse through him, searching, sifting, slotting into his nerves and muscles. Not as an invader. As a partner. Not seizing control, instead asking to share it. And he gave it. Trusting her fully for the first time.
+
+Chapter One
+
+"A machine doesn't need rest. A worker doesn't need unallocated comfort. Only uptime. Should either falter beyond acceptable benchmarks, replace the cheaper one."— From "The Doctrine of Acceptable Attrition," Blackspur Internal Ops Manual, Rev. 7.
+
+Verge Tunnels - Gulf Reclaim Campaign, Eastern Front
+
+The tunnels were humming again. Mana recoil from a dozen ruptured ley-nodes pulsed through the walls, making every wall-light flicker like they knew the squad was seconds from dying and wouldn't need them if they did.
+
+The military threadrunner's voice came distorted, mechanical, filtered through thousands of tons of rock. She pinged Sergeant John Ranson's threadlink directly:
+
+<ENVIORMENTAL WARNING: Threadway Distortion – 9.1μs Feedback Drift.>
+
+<THREADBEAST PRESCENCE: CONFIRMED.>
+
+Ranson moved first. He always did.
+
+No time to wait for orders. The Verge had fed threadbeasts into their own tunnels like cursed fire.
+
+The chrome-armored soldiers behind him followed, augments humming like hive machinery.
+
+Red was somewhere to his left, covering the flank. Always covering flank.
+
+They advanced near single-file through steam and shattered pipework.
+
+Squad formation was tight: five forward, three rear, two overwatch. All combat engineers. All part demolitionist, part chrome-medic. All overworked.
+
+They weren't supposed to fight this hard. They'd been support. Sappers. Tunnel-clearance.
+
+But the infantry had buckled. Platoon scattered. Sigma-2 had been the last ones through the breach, and now they were buried in it.
+
+A shriek pierced the corridor, wet and elastic. Something hungry had found them.
+
+The threadrunner again:
+
+<ALERT: Mana-Signature Detected – Class: Elemental.>
+
+She dropped a location indicator onto his helmet HUD.
+
+"Weapons up!" John barked. "Rear angle. Sixty-three degrees—!"
+
+The beast came through the wall. Actually through it. Stone parted like fabric.
+
+The monster that emerged was hulking in size. Moving on hind legs like an ape. No face. Just mud and rock chips and too many clay-stone arms dragging behind it like broken antennas.
+
+Sigma-2 opened fire. Controlled bursts. Tandem pattern. Sparks danced off the tunnel walls as casings pinged against leaky concrete.
+
+The beast staggered, then it surged forward.
+
+Their VX-9 rifles' electro-fused caseless rounds could penetrate the elemental's thick carapace, but only barely.
+
+The military assault rifle was only System tier 2 on its own. Exactly the sort of thing the Freeholds' Army would standard-issue to every grunt with a pulse.
+
+[Skill Activated: Heavy Shot Lv. 3].
+
+[Skill-Energy Remaining: 3].
+
+John hit the shambling golem hard enough to crack its chest open. Skill energy flared around his bullet as it punched through.
+
+It kept coming.
+
+More warnings from their digital guardian angel did too:
+
+<PROXIMITY ALERT – Rear Formation Breach Imminent.>
+
+A scream, too young. Ranson turned. Elena, the new one. Blonde. Barely eighteen. Still didn't have a scrap of chrome inside her combat armor. She was fumbling her reload.
+
+Too late.
+
+A second beast that was smaller and faster tackled her into the tunnel wall opposite the one it had just emerged from. Her rifle skittered away. Rocky tendrils lanced toward her helmet seals.
+
+<FORMATION BREAK – Squad Cohesion: Compromised.>
+
+He didn't think. He moved. Fired one last shot into the golem he'd already almost zeroed.
+
+"Put that one down! Cover me!"
+
+[Passive Skill Activated: Adrenal Dump Lv. 1].
+
+[Cyberware Engaged: Neuromuscular Overdrive Mod].
+
+Chrome servos surged as electricity fired down his spine. He barreled forward, shoulder crashing into the creature atop Elena, fists already chambered.
+
+[Skill Activated: Body Blow Lv. 2].
+
+[Skill-Energy Remaining: 2].
+
+One punch.
+
+Stone ribs suspended in muck cracked.
+
+His second punch was lower, just under the monster’s jaw-equivalent. Skill energy surged into his fleshy knuckles beneath his gloves.
+
+It got the threadbeast off his newest responsibility. She was barely out of training, too green to die here.
+
+The golem bellowed from rocky vents in its neck, hissing dirty steam as it staggered backwards.
+
+John gripped his rifle one-handed. In the cybernetic hand.
+
+[Skill Activated: Breathe and Break Lv. 2].
+
+[Skill-Energy Remaining: 2].
+
+His perception of time slowed him to line up the shot. His surging adrenaline allowed him to do so quickly.
+
+Muzzle to stone. If the golem had a face, the barrel would've been in it.
+
+Five rounds. Semi-auto. Controlled shots. Dead center.
+
+One long pull, then another.
+
+Muzzle flash lit the beast's dissolving skull.
+
+The threadrunner echoed what he already knew:
+
+<HOSTILE STATUS: Terminated.>
+
+<SQUAD INTEGRITY: Restored.>
+
+As the last chunk of dissolving stone hit the floor, John dropped beside Elena, hand on her helmet. "Breathe. Breathe."
+
+"I-I'm sorry—sergeant—my mag—"
+
+She was bleeding from her neck, her suit seal broken. He pulled his own auto-injector from off his battle belt: one per soldier was all that was allotted.
+
+He slammed it into her wound, injecting her with the mana-saturated biocatalysts and cellular regeneration agents. While trying not to do any more damage to her suit.
+
+She shuddered.
+
+"Shut up and stay close," he said. Not unkindly. "You're fine. You reload when the guy next to you isn't. Got it?"
+
+She nodded, gasping, pale under the HUD glare.
+
+He returned his empty autoinjector to his belt, replaced it in his hand with quickseal foam. Sealed the hole in her suit with the white, fast-hardening spray.
+
+He helped her up. "Fall in."
+
+"Roger, sergeant," she said, her voice shaky.
+
+"Red," John barked, not turning, "status?"
+
+"Rear's clear for now," came the reply over squadlink. Calm. Graveled. "But they're flanking. At least two more scraping down the tunnels behind us."
+
+The threadrunner pinged the entire squad:
+
+<Charlie Platoon is twenty meters out.>
+
+"More assholes in the junction that way!" said the Latino engineer on John's six.
+
+"Then we clear to them," John said. "Together. Regroups in sight."
+
+He reloaded. Slow. Steady. Let the rage cool, but only partway.
+
+He stood.
+
+Chrome arm sparking.
+
+Eyes burning.
+
+And a squad that still followed him.
+
+One last rodeo, then his military contract was over. A corpo engineering internship waited for him.
+
+He wasn't losing anyone today.***SCENE BREAK***
+
+Three Years Later – Sector 19-Mid, New Cascadia
+
+John Ranson's cyberarm hissed like it was chewing glass.
+
+The plasma-vox CNC had been screaming for twelve hours.
+
+It wasn't the kind of scream you could pick out from all the usual rusty and grinding spark-pops of the factory. Unless you spent the last few years learning to sniff out the difference between burning mana-conduction wires versus the whirr of chipping gear-teeth.
+
+But John heard it. Felt it. Through the cage floor. Through his boots. Through his bones.
+
+The conveyor arm was half-made of spare pieces sourced from a ruined class-e weld lifter. Barely worth the scrap-steel it was milled out of.
+
+John knew, because it was him who'd put it back together when the brass had refused to order a replacement for the original part six months ago.
+
+Every time the machine shifted, it let out a low, grinding whine that harmonized with the floor's heat dampeners.
+
+He had his prosthetic shoulder deep inside the access panel. The cybernetic arm's false-skin had long since worn away. Now live arcs of electricity bounced off its bare metal and exposed wiring.
+
+Moving the arm hurt; the synthetic ball-joint that was supposed to line the arm's socket had cracked three shifts back. All he felt was just bone and plasti-steel and friction where bone met metal.
+
+He twisted and pushed a cable a quarter-inch into a different socket. The machine clicked, whinnied—and stopped its mostly unnoticed death screech.
+
+He exhaled. Victory, temporary as always.
+
+Behind him, the brown-chipped lift doors hissed open.
+
+He didn't turn around. Didn't have to.
+
+The sound of thin-soled boots on concrete told him exactly the kind of person it was.
+
+Only one type of person ever came down from the observatory floor. Some half-promoted Blackspur junior. With soft hands and a performance metrics tablet surgically welded to their sense of importance.
+
+A voice. Too bright. Too clipped.
+
+"Ranson, that repair should've been cleared an hour ago," the baby corpo, barely short of his own age, told him.
+
+John didn't move. Not yet. Let the silence speak for itself first.
+
+He closed the machine's panel, reengaged the magnetic seal, and stood slowly. His bones felt like they were groaning louder than the machine had.
+
+The Blackspur floorman was new, but looked exactly as John had expected.
+
+Early twenties, synth-thread suit barely tailored to fit. System-jacked visor HUD flashes still running a tutorial against his disinterested and unsure eyes. Corporate clipboard cradled like a badge of nobility.
+
+The junior's nameplate read Kollin (L3/LOG). Third-level logistics. Not even real chain-of-command. An errand boy, stand in manager.
+
+John wiped his forehead with his sleeve. Real sweat. Real labor. The kind of perspiration people like Kollin had probably only experienced in neurodives—if he fancied himself the type to 'experience' life from the other side.
+
+"Had to reroute the mana-dust conductor," John said flatly. "Whole relay's trees about to fail."
+
+Kollin didn't even pretend to understand.
+
+"Thats not on the log."
+
+John stared at him.
+
+"Because I didn't stop to log it. I fixed it for now. Matt needs his shift tomorrow. I'm guessing you sent him home?"
+
+Kollin looked uncomfortable for a moment, fingers twitching at the corner of his clipboard like he was waiting for a pop-up to tell him what to do next.
+
+"Just... try not to lag behind quota or exceed repair-time guidelines next shift. You know these machines don't fix themselves," the corpo said.
+
+John gave him a long look.
+
+The corpo added, like it might appease John:
+
+"As long as the machine runs, its operator will be scheduled in the contracted time-slot."
+
+John's chrome arm flexed, servos whining like a dying animal. "It'll run."
+
+"You might want to do something about that arm. Blackspur offers loans for work-related augmentations, comes right out of your salary," Kollin said. "Convenient like."
+
+The floorman turned and left, doors hissing shut behind him like the room was relieved.
+
+John sat back down on the crate he often used as an impromptu work chair. He let the relative silence flood back in.
+
+He looked at his hand, stared. The chrome one.
+
+The one that should've been retired, scrapped, or upgraded a year past.
+
+The servo shudder had gotten worse.
+
+The tactile pads didn't respond to anything shy of dangerous heat anymore.
+
+Half the functions were running off bypass code he'd written in a necessity and sleep-deprivation induced high at 3 AM.
+
+Twelve-hour shift. Five days straight--sometimes seven. No benefits. No pension. Just the slow, grinding certainty that he was the next machine due for failure.
+
+Kollin had a point, maybe showing just a little bit of rare corpo humanity—if he wouldn't be due for a small commission on any augmentation loans the workers under him took out.
+
+But John wouldn't be a corporate slave, indebted to their "generosity" for the next forty years. Their money, their goodwill, was a drug for the desperate that ensured the need for another hit. Ad infinitum.
+
+He closed his eyes, rubbed the bridge of his nose.
+
+He just wanted to sleep.
+
+Instead, he opened his System Status Panel. Just to remind himself how bad things were getting--like he needed that.
+
+The pale blue overlay slid into his vision—semi-opaque, sluggish from neural lag.
+
+His eyes scanned it, frustration blooming in his chest as he did.
+
+He had too many skills his body couldn't support anymore. And nothing but cyberware that was old and long past their service or replacements dates.
+
+And the debuffs, the ones that sapped his speed, strength, and mind:
+
+<<<>>>
+
+[Malnourished – Moderate] (-0.5 Body) (-0.5 Reflexes)↓ Physical resilience, stamina, healing rate.‣ Immediate dietary intervention recommended.
+
+[Fatigued – Moderate] (-0.5 Body) (-0.5 Reflexes) (-0.5 Mind)↓ Adrenal response and systemic endurance.‣ Sleep cycle disruption detected.
+
+<<<>>>
+
+All of them originating from the same issue: he didn't have enough credits, and had too many bills.
+
+Too few ways to use any of what he'd worked for twenty-five years to get, or to make anything better.
+
+Everything he'd once been... buried under exhaustion, rust, and the slow erosion of trying to live without enough.
+
+But he had to keep going.
+
+For her. For her mother who'd raised him when she didn't have to.
+
+His cousin would be waiting at the academy gate in less than an hour.
+
+Then he had to use the credit advance a certain jackdock had given him to wire up some circuit boards.
+
+He stood.
+
+Better to move before the city got darker. It was going to be another long night.
+
+And the dark brought nothing good in New Cascadia.
+
+***Scene Break***
+
+The school gate hissed open, plasti-glass flickering in the polluted sunlight. John waited just past the curve, hazards clicking on his half-dead car like a metronome too tired to keep time.
+
+Kids poured out in a blur of neon backpacks and cracked smiles. Most were a little dirty. Loud voices, still untrained by fear. He barely registered them—until he saw her.
+
+Small for her age. Freckled. Big coat over thin shoulders and her school uniform. Boots tight at the toes. He'd have to find new ones soon.
+
+Claire. His cousin. His responsibility.
+
+She spotted him and ran. She was fast, but careful. The way kids from bad neighborhoods learn to move.
+
+The passenger door creaked open. She climbed in beside him.
+
+"Hey," she said.
+
+Her voice was tired. Not sleepy tired. Fourteen-years-old-and-carrying-too-much tired.
+
+"Hey," he replied, slotting the keycard.
+
+The engine coughed, then caught.
+
+He eased away from the curb, the car groaning like it resented being alive.
+
+They drove in silence for a while. Mid-archaeology-level buildings and rusted highway rails flickered past—holo-ads blinking, windows boarded, city layers descending. The lower they went, the dimmer the sun got. Overpasses and smog swallowed the light.
+
+He clicked on the headlights.
+
+"How was school?" he asked. "Test?"
+
+"I got an A."
+
+He smiled, despite himself.
+
+"Didn't tell me right away 'cause it wasn't an A-plus, or something?"
+
+She smirked, leaned against the window. "Not great at English."
+
+"Words don't get you out of the undercity anyway. A's good. Real good. I'm proud of you."
+
+A pause.
+
+"How was work?"
+
+John didn't answer right away. "Alright. Getting tired of the suits."
+
+"You've been tired of the suits."
+
+"Will be till you're one of 'em."She laughed. "Yeah."
+
+Then she frowned. He knew why.
+
+"Stop that," he said.
+
+"What?"
+
+"Feeling bad for me. I made my choices," he said. "You don't have to say thank you either."
+
+"You look tired," she said. "Drinking-and-working-all-night tired."
+
+"I'm fine, Claire."
+
+She didn't tell him to stop drinking. As if she understood why he did. That hurt more than it should've.
+
+"You could've been the suit," she said. "You're not because of me."
+
+"Because of your mom's accident. Not you. She raised me. I owe her. You don't owe either of us anything."
+
+"You hear how dumb that sounds? You owe her, but I don't owe you?"
+
+"Words aren't my strong suit. Hear the meaning, not the sounds—"
+
+The car jolted. A hiss. A warning light.
+
+"Shit..."
+
+"What?"
+
+He already knew. He'd known for weeks. Knowing didn't stop the engine from coughing like a dying dog or the left ball joint from cracking out of its housing. And he'd been too damn tired and poor from just trying to feed his family to do anything about it.
+
+He coasted into an alley between a half-lit ramen bar and a shuttered clinic.
+
+Popped the hood. Steam hissed. The air stank of coolant and desperation.
+
+He didn't need [Diagnose] to see it was bad.
+
+He needed a bypass valve, filament tubing, and a clean mana insulator. He had none of it.
+
+"We walking?"
+
+Clara stood beside him. She seemed nervous, but still calm. Sharp-eyed like her mother had once been. Not scared. Just used to it.
+
+John slammed the hood and pulled his Vektor PD-11 from the seat holster. Didn't need to check the slide. One in the chamber. Nine in the mag. Always.
+
+Claire didn't flinch. Just watched.
+
+John pulled the keycard from the ignition slot, locked the car. He knew it likely wouldn't be there in one piece when he came back around for it.
+
+"Yeah," he said. "We're walking. Stay sharp for me."
+
+He took a purposeful step. And then froze.
+
+A ripple slid down his spine. Cold. Wrong.
+
+It wasn’t fear or nerves. Instead the vague awareness of something foreign. Quiet.
+
+Like static lacing his cells.
+
+He hadn't felt that in years.
+
+Almost like—
+
+No. Couldn't be. Not here. Not in the middle sprawl.
+
+"You okay?" Clara asked, voice low.
+
+John's spine coiled as a flicker pulsed through a dead streetlamp just outside the alley—one that looked like it hadn't powered on in months. Maybe years.
+
+"Fine," he muttered, scanning the empty stretch and seeing just alley walls, litter, and cracked concrete. "Let's go."
+
+They moved fast.
+
+Past cracked solar panels and corporate "Hope Initiative" signs. Past light-rails scabbed with graffiti and alley walls bleeding threadrot. The sun dipped. The neon glow from the upper districts hadn't kicked in.
+
+Two blocks from home, he heard footsteps.
+
+Slow. Confident and not hiding.
+
+Three of them stepped out of shadow—synth-leather and cheap cyberglow. That hungry, lazy swagger of gangers who knew the system wasn't watching.
+
+"Evenin'," one drawled. "Sorta nice arm. Got a few dents, though."
+
+John stepped in front of Clara, chrome arm gleaming faintly. One finger locked stiff at the knuckle.
+
+The speaker was wiry, all implants and rot-smile. Only one with a cheap, Chinese gun in hand. His backup carried a busted stunner and a pipe. The last was an orc, emaciated but huge in build.
+
+John didn't speak.
+
+Wiry tilted his head. "What you think we get for a deadweight arm, bruh?"
+
+"Scrap at best," the second muttered.
+
+The orc said nothing.
+
+"Still," the leader said, "better than nothing."
+
+John raised his arm slow. Fingers twitchy.
+
+"Ain't worth the fight. She's held together with tape and prayer."
+
+Laughter.
+
+John made a decision, one that tasted bitter. He pinged a cred-transfer across the threadnet. Couldn't afford it, but he sent it. Not to the thugs, though. The recipient should still respond this close to top of the sector--but it was close.
+
+"Oh shit," the one with the stunner grinned. "He's serious. Ain't gonna give it up like a good little civ?"
+
+Even if he did, they wouldn't stop. John knew their type.
+
+The leader stopped smiling. Looked to Claire.
+
+"Nah. I think she's worth more. Clean. Schoolgirl look. Someone probably got people who'd pay to stream what we do to her."
+
+And that's why they'd really stopped them—the play all along.
+
+[Skill Activated: Hardbody Lv. 2].[Skill-Energy Remaining: 1.]
+
+Echoes of lost strength flooded in as his Body attribute increased by one point. Muscles thickened. Bones weighted, tendons corded. Knuckles primed.
+
+And all but the last of his debuff-depleted skill energy bled out.
+
+He moved.
+
+No hesitation.
+
+Smashed his fist into the leader's throat. Wet crunch against his skill-hardened fist. Grabbed the rat's shitty pistol with his cybernetic hand mid-fall. Chambered. Turned.
+
+The leader staggered back, choking. John pivoted and aimed at the base of the orc's Adam's apple; it was one of the few places on the body that was an instant kill shot.
+
+And his arm locked. Cybernetic finger unable to pull the trigger.
+
+Mid-fight.
+
+Servos screamed. Nerve links burned. Joints seized.
+
+He was open. Exposed.
+
+The orc with the pipe cracked him across the ribs. His reaction time was too lagged to stop it.
+
+He felt the blow more than he should've, more than he once would have. He was underfed for his frame, barely any muscle padding—or padding in general.
+
+He staggered. Tried to draw his own gun with his good hand, the ganger's pistol still locked in the grip of malfunctioning chrome arm.
+
+The unlit plasma stunner cracked his head. He couldn't block it. It came from his glitching side.
+
+He fell to a knee, one arm limp, breath ragged. Blood in his mouth.
+
+The gangers closed. He forced himself back up, delivered a hook to the face of the one with the stunner. His follow through was weaker than it should've been.
+
+The orc grabbed him from behind. John elbowed him in the nose. Didn't stop him from being thrown to the ground.
+
+His weakened body was screaming in exhaustion already. His head hit the ground, disorienting him.
+
+The leader, face filled with rage and asphyxiation, kicked him in the gut.
+
+His cousin screamed something. He couldn't hear it clearly.
+
+"Claire!" he yelled.
+
+Fists. Boots.
+
+Nothing important had broken yet, but [Hardbody] was weakening; he couldn't keep it up for long in his current state.
+
+[Skill-Activated: Combat Draw Lv. 2.][Skill-Energy Remaining: 0.5.]His gun flew into his hand as his Reflex attribute was boosted by two for just the time it took to draw and aim the gun. Just as [hardbody] ran out.He got a shot off, clipping the orc through the stomach. The orc staggered back, but didn't fall.The ganger with the pipe slammed it down on John's forearm. Once and then twice, causing him to drop his gun. It skidded away.[Passive Skill-Activated: Adrenal Dump Lv. 2].John roared to his feet, as his Body and Reflexes attributes shot up by one each. Not much time before the skill's debuff put him on his ass. With [adrenal dump], he had an effective two in Body. Making him twice as strong as a baseline man--even if his cybernetic arm was still hanging limply by his side.Before the man could swing his stunner again, John's fist collided with the face of the human ganger. It rocked him--not a knockout, but it must've hurt like hell. John's body was shaking--it could hardly take skill-use like this anymore and it'd already taken too much damage. Blood was pouring from his nose and from impact-cuts above his eye.But he had to endure. "Claire! Get back now!"The small fourteen year old took two steps back in his peripheral vision. Not sure what to do, John realized. Not sure how to help--she knew running away hardly made her safer on these streets. Or maybe she just wasn't willing to leave her cousin to die alone.
+
+The orc he'd shot in the gut snarled and pushed past his compatriots. He punched John in the face. John fell back a step and then returned the favor with a stumbling right cross to the jaw. John wasn't able to return the next punch the orc got him with. It hit far too hard against his solo plexus and pushed the air from his lungs.The metahuman grabbed John and lifted him up by the jacket collar.Shot and still able to fight like a beast out of hell.
+
+That was an orc for you...John's vision swam.Funny... if he could just move his chrome arm and use the gun locked in its glitching death-grip... then he could maybe finish things.
+
+Then:
+
+Sirens.
+
+Sharp and corporate clean. The sound of privatized public security.
+
+John had cashed in the last cred he'd been fronted by Vexi—for this.
+
+He headbutted the orc. Hard. And holy fuck did it hurt him too.
+
+The high-speed drone descended—red-blue lights spinning, chaingun bristling.
+
+The orc dropped him. The gangers began to scatter.
+
+"Threadwatch alert: Violation of Penal Code 234-B detected—unauthorized assault with lethal intent. Lethal countermeasures engaged," the drone barked in flat corporate cadence.
+
+Two of the attackers dropped in a blur of staccato muzzle flash and polymer casing. The orc hobble-ran, turned an alley.
+
+A beat later, a cleaner voice slid into John's threadlink. It was professional, automated, and just cheery enough to sting.
+
+<SecureAlert™ transaction complete. One-time enforcement response deployed. Additional coverage requires premium subscription. Thank you for protecting your future with SecureAlert™.>
+
+<Notice: You are currently on the edge of our service grid. Please consider contacting our partner, New Hope Reality™ to broaden your living horizons.>
+
+The drone scanned the street with a sweeping pulse of holographic light, chirped twice, then vanished back up into the sprawl.
+
+He couldn't afford an actual escort, even if they'd offered one to where he and Clara lived. Just the minimum response. Exactly what he paid for.
+
+He coughed. Iron in his teeth.
+
+Clara knelt beside him, hand on his shoulder.
+
+"They're gone, Johnny. It's okay. You scared them away."He reached over and, with all his strength, pried the fingers of his cybernetic arm away from the ganger's gun. He dropped its mag, racked the slide back against his chest to eject the chambered around. And then tossed it aside. Even though he knew he should give it to Claire.
+
+Claire picked up his fallen gun, placed it in his still-human palm without saying a word about how badly he'd failed her. "Here, Johnny."
+
+He didn't feel like anything worth being scared of. Didn't feel like much at all.
+
+Maybe once, but now his body was always too tired to work right, and the mechanical bits no longer obeyed him.
+
+He just nodded. Didn't say anything. Wanted to apologize to Claire, but couldn't. Stayed quiet the whole way home, pistol gripped in his flesh-having hand. Once [adrenal dump] deactivated and the debuffs hit, Claire was forced to grab his arm to steady him.
+
+He didn't want to think about what the Retainers would have to say later if they picked up on his threadnet traffic. Or the fact he'd spent a jackdock's creds on a drone call.
+
+More broke. More bruised. More burned than usual.
+
+Which, lately, was saying something.
+
+Or maybe it was just a fucking Friday.

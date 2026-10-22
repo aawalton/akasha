@@ -20,5 +20,7 @@ export const thePrimalHunter0206Chapter1409AishalstromozVsJake3 = {
     },
   ],
   createdAt: "2026-10-22T16:49:13.804Z",
-  updatedAt: "2026-10-22T16:49:13.804Z",
+  updatedAt: "2026-10-22T19:46:09.724Z",
+  ownProgress: 2757,
+  progressedAt: "2026-10-22T19:46:09.724Z",
 } as const satisfies StoryChapterRead

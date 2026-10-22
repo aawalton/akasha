@@ -1,0 +1,133 @@
+The C4 was small. Matte-gray, sealed tight in polymer casing. Military-issue; clean, mean, and surgical.
+
+John peeled back the adhesive strip on the explosive's backing, slapped it onto the concrete slab marked by Kaito’s waypoint overlay, and locked the circular detonator Kaito had provided into place with a firm push. Every movement was muscle memory, honed back when he wore a uniform instead of armor designed by a friend.
+
+He glanced at the repurposed combat droid beside him. “With me.”
+
+It nodded once. Surprisingly obedient post-override.
+
+Athena shimmered out of the air, invisible to him now--but her presence was still noticeable in netspace as she controlled her new minions. Within the digital overlayer, <Umbra>’s threadnet constructs padded after him as he made distance between himself and the tactical charge. The panthers were built of blacklight code, the ravens made of fragmented packets of numbers and mirrored static.
+
+John turned the corner he'd come from, crouched behind a support column, and covered his ears.
+
+One. Two. Three—
+
+WHUMP.
+
+The hall trembled. Concrete groaned. Spread dust sifted like fallout snow.
+
+John peeked back, drew his PD11 with one hand, and slid Gravewind from its scabbard with the other.
+
+“After you,” he muttered to the combat droid still-crouching even after he'd stood.They moved back to the wall they'd come here to partially collapse. And sure enough, the charge had done its job.
+
+John raised his finger and pointed at the new hole in the wall. And his robot ally stepped through said opening.
+
+John followed, grinning marginally. “God, I love breaching charges.”Athena rematerialized beside him, voice amused. “Your fondness for explosions was a recurring trait in your archived memories when we integrated.”"Mhm."
+
+The boiler room yawned wide, muggy and metallic. Pipes twisted in overhead tangles. Steam hissed from corroded junctions. It smelled like copper and burnt pressure.
+
+Somewhere, hydraulics thudded with the rhythm of a tired heart.
+
+Umbra’s familiars dispersed—code-panthers stalking between terminal racks, glitch-ravens hopping from pipe to pipe in the overlay.
+
+“See anything weird?”
+
+“We’re mapping netspace now. Signals are minimal.”
+
+“We?”
+
+“Umbra's constructs and myself. They are learning quickly.”
+
+“You’ve got pets now.”
+
+“One of the panthers is quite elegant. And I believe I have a fondness for birds, though I'm not sure why."
+
+He watched the digital feline in question ripple like liquid shadow around a rusted boiler tank. “You gonna name it?”
+
+“I have considered it.”
+
+Kaito’s HUD marker pinged and updated, highlighting a door in the back of the boiler room. Steel. Sealed.
+
+“Let’s see what we’re dealing with.”
+
+[Program-Deployed: Burstjack][Cyberdeck RAM Remaining: 1]He lifted Ghostwind and sent the program's code-wave off the katana and straight at the door.
+
+The door's programing offered no-resistance, code-folding and becoming obedient immidetely. A cheap smartlock. Nothing custom.
+
+Once it was under John's control, he opened the door with a soft sliding.
+
+“One moment,” Athena said, before he could walk through it.
+
+One of her digital birds glided through the door. A minute or so later, John's HUD blinked with a basic net-layout of the hallway beyond it. The map was relatively bare-bones, but it showed the threadnet-enabled devices Athena had detected.
+
+Which amounted to one wall-mounted camera. And no active alarms.
+
+“Can we hack the camera from here?” he asked mentally.
+
+“Yes. Focus your eye on the icon on the netmap.”He did so. And then willed Burstjack to target the camera. His cyberdeck produced no visual representation of the program this time.
+
+[Program-Deployed: Burstjack][Cyberdeck RAM Remaining: 1]
+
+Semi-familiar options blinked into view:
+
+<<<>>>
+
+▸ View Feed ▸ Deactivate ▸ Short-Circuit ▸ Loop Footage
+
+<<<>>>
+
+He hijacked the feed.
+
+His cybereye's vision staggered, then shifted as it streamed what the camera saw.
+
+The secuirty camera feed showed a clean corridor. Dimly lit. Lined with unlabeled doors."Looking like we're real lucky. Not a soul in sight--wait. Shit--" he cursed.A lone figure in the distance of the hallway John was observing, walking.
+
+Male. Middle-aged. Worker coveralls. No armor, no weapons beyond a sidearm and a utility belt with a radio. Flashlight in one hand. Looked more like a night custodian than a guard.
+
+Athena’s voice flicked through. “He appears to be a minimal threat.”
+
+“Not one of the Grin's puppets?”
+
+“I cannot asses his thread-echo through a camera feed. That is only possible when we are in close proximity.”
+
+John scrunched his brows.
+
+Kaito had made it sound like this place was just a nest of controlled husks.
+
+That guy? He looked like someone’s uncle just trying to pay bills.
+
+“Let's just try not to shoot anyone who doesn’t earn it,” he muttered over their mental bond.
+
+John mentally sealed the door in front of him, while he tracked the guard’s position via the camera feed.
+
+When the man passed by the boiler room door and turned a corner, he made his move. But not before setting the camera he'd hacked to loop-upload the previous hour's footage.
+
+He reopened the boiler room door. He and his droid slipped out. Moved as fast as his new droid could manage to follow. Beelined it down the hallway for the door that Kaito's marker was highlighting.When he'd reached it, John quickly appraised the door. It had a keypad, with a cardlock. His cybereye pinged the pad's metadata. The read out revealing that <Burstjack> wasn't going to cut it to get the door open--the program-class of his new go-to tool for breaking and entering was too low.
+
+“We could hack it manually,” Athena offered."Hacking isn't exactly our forte," he said and focused on the keypad's card slot. "We're going to need that guard's keycard."
+
+“Were we not going to avoid dispatching bystanders?""We're not going to kill him. We're just going to say hi" John said to Athena and then looked at the droid. “Stay. Shoot only if you’re shot at.”
+
+The drone gave him a mechanical thumbs-up.
+
+John squinted his eyes at the robot. "Good."He shifted his focus. "Athena, can you see if there are any cameras down the way the guard went?""One moment," she replied.One of her data-ravens took off, flapping down the hallway in question.
+
+He stepped forward, fast and smooth in the same direction. He watched as his netmap updated to show one camera that he'd be coming into visual range of soon.Athena verbally confirmed what he saw. "One camera."
+
+John selected the camera's net icon and, once again, overtook it.
+
+[Program-Deployed: Burstjack][Cyberdeck RAM Remaining: 1]Before the camera could broadcast his face, John set it to loop-upload its previous footage to its parent server as well.
+
+It was all the confirmation he needed. He moved faster to catch up to the guard.
+
+Once he got close, he made his move.
+
+“Hey!” he called out to the man.
+
+The guard turned, maybe a bit startled. "What--"
+
+John closed the remaining distance between them and punched the other man hard in the gut, then cracked a clean shot across his jaw. The older gentleman folded over. John snapped his boot into his chin just to be sure he was solidly knocked out.
+
+And then--
+
+John looked down into the tank, peering through its frost-covered plasti-glass lid.

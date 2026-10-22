@@ -1,0 +1,57 @@
+This entire post assumes that you have a) read Dead End Guild Master to completion and b) don’t mind commentary about a project that may or may not change how you felt about the ending when you first read it. I don’t intend to do that intentionally, but this is material not from the final product and, well, you can tell I’m weird about spoilers and final feelings so I’ll pull back on the disclaimers.
+
+Or try to.
+
+You were warned.
+
+Post-Mortems
+
+A “post-mortem” is a reflection on a project after its conclusion. The idea isn’t new, but I first saw them in the game development world and have followed that tradition as a result. The idea is to learn from the work and carry those lessons forward into the next thing, but it also doesn’t have to be all serious.
+
+Bigger Challenge than I Thought: Small Village with Limited POV
+
+Hans arrives in Gomi in book 1 and never leaves again. I knew going into the series that telling a story that incorporated the whole of the world would be challenging if the MC never got to leave an extremely isolated, exceptionally small town. Flashbacks through adventuring stories and letters were my way of breaking out of that box without Hans actually having to travel, and that worked well enough, but these parts surprised me:
+
+Flashbacks were great for developing characters and the scope of the world, but using them to move the plot forward wasn’t as easy I expected. Flashbacks came in the form of recreated dungeon moments, stories told by characters, and Hans’ own private reflections. They helped make the world feel more alive, but I had to be especially careful to make any flashback either present-relevant or future-relevant (or both) for the content to be more than set dressing.
+
+The distance I committed to in the world meant that I had to keep multiple timelines in mind: if a letter needed 3 months to get from point A to point B, assuming weather wasn’t an issue, then news, correspondence, and outside influences of any kind were always on a permanent delay of sorts. I like how that worked out in the end–I think it built up the feeling of Gomi being isolated–but it also made it more difficult for new things to happen or for characters to get new information.
+
+The limited POV (Hans’ perspective) made it more challenging to represent the multi-dimensional aspects of non-Gomi characters. Many readers thought Vaglell was cartoonishly evil from the start, which was a failure on my part to properly round out the long-term dynamics of Hans’ and Vaglell’s relationship. I leaned too hard on the premise that Hans’ career used to be awesome, expecting that to spill over into how readers perceived Vaglell, but I didn’t do enough of that. Readers saw the end of the relationship, when it had gone bad, so that's the only Vaglell they pictured. I think by the end Vaglell is sympathetic, but 6 books is a long time to wait for that, especially when it would have been useful far earlier in the series.
+
+Was Fun at First but Got Annoying to Manage Long-Term: Hans’ Internal, Totally Made-up Quest System
+
+I am really proud of several moments in the story that the quest system enabled. I liked how it established a picture of how Hans saw the world around him and how he measured his own success and progress. I liked how the quest system could be used for dramatic tension or for comedy, and it was kind of okay at quickly resurfacing a plot thread to remind readers other things were still happening or unresolved. My all-time favorite uses were Hans’ assigning himself a quest to take a nap so he could get an easy completion in, and then I really liked getting to write out all the quests Hans failed by dying to the armorbacks.
+
+The drawbacks:
+
+I was trying to cheese DEGM into being considered litRPG without having to go full-blown system with screens and such, but that was me trying to stretch the genre in a direction that the majority of readers didn’t want it to go. That intention failed, and that’s fair. The point of genres is to give readers base expectations of what kind of story they’re getting. I don’t get to change the definition of litRPG. That’s something the community at large decides.
+
+The quest system made major revisions clunky and tedious. If I moved a moment a few chapters, I often had to update a dozen or so quest summaries so that they properly matched the timeline of the story. I don’t mind putting in the effort for consistency, but I didn’t feel a big enough return on that effort in most cases.
+
+I put the quest summary at the end of chapters because I read several RR comments on other stories talking about how much they appreciated a summary of stat screens and such at the end of chapters (instead of forcing them into the content, disrupting the flow with a big, mostly irrelevant pasted block of text), but more people accused me of using that method to pad word count. That wasn’t the intention, but I understand why readers would have the suspicion. I don’t believe that raising that suspicion was worth the returns the approach gave me elsewhere.
+
+I’m Unreasonably Proud of How it Worked Out: Souls, Cores, Dungeons, and Memories
+
+Using the dungeon core to recreate Hans’ memories was probably my favorite mechanic from DEGM. I liked what that meant for Hans, his students, and the other people in his orbit to have a real adventuring memory recreated in a livable way. I liked extending that mechanic to how the Lady of the Forest could read and transfer memories, how Devon’s blood gave us memories from his god, and how that mechanic came back as a means of exploring very distant character stories (Wargod, Devon’s god, Vaglell, and the gazer).
+
+I’ll stop patting my back after this last point: Giving Hans a Diamond boon after so much of the story being about not getting a Diamond boon was a difficult moment to decide because on the one hand, we want to see Hans get a win and achieve his goals, but on the other hand, giving him a Diamond boon undermines all of his introspection around respecting himself and the limits of his accomplishments. What does all of that tension matter if he got one anyway?
+
+The dungeon core memories gave me a way for Hans to triumph where he once failed without erasing the consequences of those previous failures by putting him back in the exact quest he failed thrice before. We got the perspective of a smarter and more mature Hans taking on what bested his younger self, and it gave him an upgrade that was close to what we expected Diamond boons to be but different enough that Hans didn’t actually get what he wanted in the end.
+
+A Diamond boon means more power, yes, but for someone like Hans, a Diamond boon is the key to a whole new extreme of adventuring that normal humans simply couldn’t survive. Hans got his boon, but he still had to accept his adventuring career was over and continue living with all of the self-development (coming to terms with where his life ended up and what his legacy would be) he had gone through in the 4.5 books leading up to that moment.
+
+One other self-congratulatory statement: I liked putting that twist in the middle of book 5 so that it felt earned after all the buildup, but I also hate when books (and games) end at the moment the MC gets the ultimate cool new toy. Giving him the dungeon core powers in book 5 meant we get a whole book of him putting those powers to use in new and interesting ways instead of the curtain dropping shortly after he got his powers.
+
+Dumb References that Entertained Me But May Not Have Entertained Most of You
+
+Several readers commented about getting the “Haynu B. Dumas” joke. It took a while, but those comments came in eventually. Does getting that joke matter to the story at all? Nope. That was purely me being a very old 13-year-old boy.
+
+The macaron vs. macaroon joke from one of the Haynu stories still stops me in the middle of the day for a small, sensible chuckle. I’m that proud of it, and I’m not at all bothered/hurt/insecure about no one commenting on the genius of that whole dungeon moment.
+
+“Daojmot” is a reference to an idea that already exists in literature and music, but this presentation of the reference is more obscured than items like the Takarabune that you can just drop into Google and learn what they are. Coming up with a name for this “force,” or however you came to think of Daojmot, was one of the most excruciating creative decisions of the series because I knew something that touchy-feely could easily come off as ham-fisted and lame.
+
+I haven’t seen any comments correctly guessing the origin of the idea. If someone does crack it, I’d be interested to hear how it changes their perception and feeling of what they understood Daojmot to be.
+
+Getting Amazon Reviews is a Huge Pain so I have to Ask Again
+
+Please consider leaving reviews for the DEGM series on Amazon. Please be honest. There’s no need to inflate anything, and there’s no reward for doing me this kindness, but I would greatly appreciate you taking the few minutes a brief review requires.

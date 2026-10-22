@@ -1,0 +1,217 @@
+The metro tunnel sighed around him—faint steam, distant hum of broken transit rails still breathing electricity.
+
+John reached the locked vault-door at the far end of the shut-down platform and buzzed the rusted intercom. “Vex. You alive in there?”
+
+A beat. Then the wards flickered. The sigil-laced steel door peeled back with a groan like a dying mech suit.
+
+Lights inside the jackdock flashed. Not in any rhythmic diagnostic way either. Emergency red, static white, then gutter-blue. Electrical chaos that semeed like it was on as much caffeine as the Jackdock in the center of it all.
+
+John stepped through.
+
+And froze.
+
+Vexi sat sideways on her own patient chair. A surgeon’s perch, now turned throne of madness. Wires hung from her empty eyesockets. Her cybereyes—in her damn hands. Twin chrome spheres flickered faint blue between her blackened fingers.
+
+“What the hell, Vex?” he said, voice flat.
+
+One of her repair drones—Chuck was its 'name', maybe?—twitched violently on the ground nearby, half-smashed and leaking servo fluid. The other, Lindsay, clacked closer, head rotating toward John, cameras whirring.
+
+Vexi looked up—but not at him. She was seeing through Lindsay’s optical feed, John realized, patched through either her terminal or threadlink.
+
+“Hey, John. Yeah… had some problems.” She casually waved the eye in her left hand. “Can you help me out here?”
+
+“Vex. I’m not a cyber-surgeon,” he muttered, trying very hard not to look at the raw wire-nests in her sockets.
+
+“You’re a good enough engineer to plug in some lenses. Come on,” she said, a bit too cheerfully. “I cheaped out on her eyes and the feed is really grainy. I'm getting dizzy.” A nod at Lindsay.
+
+John sighed, stepped forward. “You’re lucky I'm nice to you.”He sat down the cyberdeck box and the bag of coffee he'd brought on Vexi's surgical trolley.
+
+"Come on. I'm blind and need help."
+
+He took one of the eyes. Up close, it wasn’t eyeball-shaped except on the front. Behind, where no one could see when it was installed? Just a flat-backed module with female ports and magnetic anchor lines. Delicately, he held it near her socket.
+
+“You want this now?”
+
+“Yes, now. Eyeballs are important."
+
+John gently caught the lead from her port. Plugged it in. She shivered. Her pupil re-lit, booting up with a soft iris glow.
+
+“Fuck. It’s weird seeing from this angle,” she muttered. “Careful.”
+
+He eased the unit into her eye socket. It clicked, then whirred—socket lines retracting the module smoothly under her eyelid.
+
+“Now this one,” she said, holding out the twin.
+
+John took it. “What the hell happened in here?”
+
+“You happened.”
+
+He frowned. “Doubt it.”
+
+She sighed. “Spent all yesterday and last night debugging my systems. That transponder you brought me? The one summoning dungeon shit in Sector-22? It tried to hijack my entire shop when I plugged it in.”
+
+John’s gaze shifted to the busted drone. “Chuck didn’t like that?”
+
+“Chuck got violent. Lindsay broke him.” The working drone hummed smugly.
+
+John grunted. “What kind of virus took you this long to root out?”
+
+“No fucking idea. Just know when I plugged it in, all I saw on my displays was a creepy-ass smiley face trying to hijack my ware and brainwipe me with black code. Pulled my own damn eyes out and killed my threadlink to stop it. Next second, everything with a server connection in my shop tried to eat me.”
+
+He looked at the now-bios-only screens. “You debugged this whole place blind?”
+
+“Got easier once I fixed Lindsay, junked Chuck and got my terminal stabilized. After that, just had to scrub every system. The eyes I left out just in case. Didn’t trust ‘em until I'd gone through every line of their OS.”
+
+John hesitated. “How’d you know you were getting brainjacked before it was too late?"
+
+“I know subjugation code when I see it. Idiots who run the thread and don’t study that stuff get eaten alive.”
+
+He nodded, then paused. “I might know who wrote it.”
+
+She blinked. “So do I. Someone who didn’t want their shit poked around in.”
+
+John leaned back. “Yeah. Group calls themselves the Grin. Smiley face tracks with their MO. Been running into them more than I like. Still don’t know how they tie into the transponder.”
+
+“And how the hell do you know them that well?”
+
+“I’ve got a job tomorrow night. I’m raiding their servers.” He gestured to the cyberdeck case he’d set down earlier. “Thought I’d get some help installing that so I can.”
+
+Vexi crooked a finger. “Hand it over.”
+
+He did.
+
+She popped the case. “Huh. Mid-grade but solid. Military issue, but not the garbage-tier kind. Holds six active programs, nice RAM base…” She paused at the chip-slot. “Already got some ware loaded in.”
+
+“Yeah. Got it from the fixer who gave me the job. Think you can check it for blackhat bullshit?”
+
+“You don’t trust him?”
+
+“I’d be stupid if I did.”
+
+Vexi grinned. “You might not be as dumb as you look.”
+
+She stood, slotted the deck into her terminal.
+
+John winced. “You sure that’s safe?”
+
+“Relax. My system's clean now. I was better than whatever they threw at me.”
+
+He hesitated. “So, was it a a code-virus or a mana-virus?”
+
+She tapped at her terminal. “What the hell do you mean?”
+
+“They’re mixing them now,” he said quietly. “Code to infect cyberware. Mana to infect people through their fucking souls.”
+
+Vexi looked at him, then back at the screen. “No. This was just code. Optical hijack through the cortex, routed into the threadlink for neural overload. Repgramming attempt. If it was mana-infected, I’d probably be dead or a zombie. I'm a wizard, but not that kind of wizard."
+
+John didn't answer. He was thinking of the supposedly brainwashed residents at the Grin apartment complex. Thinking that it sounded like Kaito was right and Vexi couldn’t whip anything up help them either.
+
+“How much for install?”
+
+She raised a brow. “Free, if it means you’re going after the assholes who wrecked my place.”
+
+John pulled out the red creds card Nabe had given him. “Not on my tab.”
+
+Vexi whistled. “Well then. Full market rate. I’ll split it with you.”
+
+He laughed. “Greedy fuck.”
+
+She swiped it, plugged it into a card reader hooked up to her terminal. And initiated the transfers. She sent him 1,250 credits. He accepted.
+
+Vexi handed the card back. “Still want a freebie? In a better mood now. I’ll toss in an uplink cable in your cyberarm so you can jack into shit. Direct deck-to-systems interface. No wifi required.”
+
+He blinked. “That’d be great.”
+
+“Got a box of ‘em. I’ll find one that won’t fry you.”
+
+He nodded, then asked, “How much will the deck mess with my mana circuits?”
+
+“Your cyber-debuff is only moderate tier, right?”
+
+“Yeah.”
+
+“Then you’re fine. This deck mounts spine-top. It’s small. But chip anything else big? That tier’ll climb.”
+
+“Understood.” He looked at the Grin transponder currently steaming on the floor. “You didn’t get any data off that thing?”
+
+“Nope. Whole board was wired to burn after it uploaded its bullshit. Got fuck-all.”
+
+She tapped again. “Give me twenty minutes to finish scrubbing this one.”
+
+Her gaze shifted to the bag of coffee he’d also set on the trolley.
+
+“Is this for me?”
+
+“Yeah.”
+
+She smirked. “Go make it. Or I’ll fall asleep while I’m elbow-deep in your spinal column.”
+
+“You treat all your clients like waiters?”
+
+“Coffee machine’s right over there.”
+
+He grabbed the bag and moved to the machine.
+
+Athena flickered in beside him, voice smug. “I told you she’d like the coffee.”
+
+From across the room, Vexi called out, “I’m gonna link the deck to your new eye when I mount it! Software matches. I’ll toss in a RAM stick too—help your potato brain sync with the deck’s OS.”**SCENE BREAK***
+
+The apartment smelled like soy-salmon and vinegar rice. John sat at the table with Claire, half a sushi roll in his mouth when the ping hit.
+
+<Open up, Johnny. It's me.>Red’s threadlink.
+
+“Kai’s here,” he told Claire.
+
+He opened the door with a mental flick.
+
+Red strode in carrying a crate like it weighed nothing. He set it down with a dull thunk as Claire sprang up and hugged him.John's cybereye highlighted Red's chrome leg like it always did when it pinged metadata. However, a new option now lit up thanks to his cyberdeck:<Initiate Breech: y/n?>It'd let him attempt to hack into and upload any programs he had installed on the cyberdeck now implanted at the base of his skull. Vexi had done good work. All that he could feel when he touched the implantation site was the small data-port that came with the deck--one that could allow for deeper threadnet dives.
+
+“Uncle Kaijou!”
+
+“Hey, runt. You get taller since last week?”
+
+Claire smirked. “Why don’t you visit more?”
+
+Red side-eyed John. “Your cousin only shows up at my place when he wants a drink.”
+
+John shrugged. “Who doesn’t like free drinks? Grab a beer or something.”
+
+“Later. First, the armor.”
+
+“I’m eating.”
+
+Red crossed his arms, patient and obsessed with his job.
+
+John rolled his eyes, wiped his hands, and stood. “Fine. Let’s see.”
+
+Red opened the crate. Inside: a sleek synth-kev suit, matte black. Sturdy gunmetal hued plates over a ballistic weave undersuit.
+
+“Torso’ll shrug off SMGs. Arms and legs are plated with lighter composites. Knives won’t get through the weave underneath unless they’re skill-enhanced--and it'll catch ricochets.”
+
+John nodded. “Nicer than anything I’ve owned.”
+
+“You get some more creds, I’ll make you something prettier. Proud of this one though.”
+
+Red pulled out a pair of armored boots next. “Slip-resistant. Shockproof. Fire-retardant. Reinforced ankles. They’ll take a jolt or flamethrower better than you.”
+
+John squinted. “You guessed my size?”
+
+“Trade secret.”
+
+John scoffed and transferred the 3,000 creds. Less painful after the boost from Vexi.
+
+Claire cleared her throat. “Are you two done nerding out?”
+
+Red laughed. “When’d you get so mouthy?”
+
+“Came with puberty,” she grinned. “You staying for dinner?”
+
+John nodded. “I’ll order more sushi.”
+
+Red smiled. “Wouldn’t miss it.”
+
+John leaned back, sipping a bottle of coke.
+
+Tomorrow night he’d go to war with a bunch of smiling freaks.
+
+Tonight, he had a family.

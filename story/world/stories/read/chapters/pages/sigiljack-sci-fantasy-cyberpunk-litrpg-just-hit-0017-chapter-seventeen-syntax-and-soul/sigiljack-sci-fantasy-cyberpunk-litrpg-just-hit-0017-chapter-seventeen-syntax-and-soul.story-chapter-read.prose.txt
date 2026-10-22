@@ -1,0 +1,261 @@
+The night wound down slow. Claire had gone to bed, her laughter still echoing faint in John's ears.
+
+Red leaned back in the kitchen chair, arms crossed, the sushi mostly gone, the room quiet.
+
+"You think you're ready to tangle with the Grin again?" Red asked finally, voice low.
+
+John didn't hesitate. "I'm as ready as I could be, man. Don't think the asshole we ran into is supposed to be there, but who knows."
+
+Red nodded, then offered, "Want me to take Claire to school in the morning? Buy you some sleep."
+
+John gave a half-smile. "I'll be fine. I'd like to see her before. But the morning after the job? Yeah. That'd help. Don't want her missing more classes because of me, incase something goes sideways and holds me off on getting home."
+
+"I don't mind."
+
+John looked at him. "Thanks."
+
+Red held his gaze. "And John—if anything ever happened. Just know I'd make sure those two were okay."
+
+John froze. "That's a lot to ask you, Red."
+
+"Ain't got much other real family anymore."
+
+A breath. A beat. Then John sighed. "I'm gonna have to start paying you back for everything you do, man."
+
+Red smirked. "Oh, I’m going to get my creds worth. Knowing you, you’ll need repairs on that armor after every damn job."John raised his drink to that. "I see. That's the real play: customer retention."***SCENE BREAK**
+
+John's workshop was dead quiet, save the soft buzzing of his workbench light and terminal.
+
+The box of cybernetic scrap Nabe delivered sat beside his chair, half-open. Most of it was junk. Then again, so was his arm.
+
+He sat hunched, his cybernetic forearm dissembled open, outer plating stripped. With Athena’s help, he began swapping the worst of the cracked plating with the best of the salvage.
+
+"After Kaito's job, we should be able to purchase what we need to construct a new arm after," Athena noted.
+
+"Sure," John muttered, tightening a screw, "but it'll be expensive."
+
+"Estimated cost: 5,000 credits minimum."
+
+"Money's burning fast."
+
+"Perhaps. But the designs I've prepared would significantly enhance your combat capabilities."
+
+John paused, then said, "You've never actually shown me the designs. We've been too busy I guess."
+
+"May I?"
+
+He felt her presence drift through his organic hand.
+
+"Sure."
+
+"Please face your terminal."
+
+He did, and felt her guide his fingers—both cybernetic and flesh—to the keys.
+
+"Didn’t know you could control my cyberarm?"
+
+"It’s a matter of interpreting neural input. I’ve improved my capability to pilot your body post-synchronization. It feels more natural now and requires less strain."
+
+Her typing speed was inhuman. Code blurred across the screen. Too fast for him to read, but in a language he understood--made sense, as far as he ken Athena had learned what she knew from him.
+
+"This will take ten minutes."
+
+"What will?"
+
+"I am outlining your optimal replacement limb visually."
+
+John watched as wire-frame diagrams compiled. Green lines formed the cybernetic musculature of a new arm, then its sockets, wiring, and plating.
+
+"Okay. Won't say this isn't impressive," he said finally. "What the hell can it do?"
+
+With a few final clicks, Athena highlighted specs on the screen. "Responsiveness and software integration will be doubled in comparison to your current arm. The strength and durability output will be equivalent to Body 5. Also—"
+
+A panel on the display's cyberarm opened. A forearm sequestered cannon emerged on the digital model.
+
+"You're shitting me. We going to load grenades into it?"
+
+"With a low-grade mana crystal in the shoulder mount, it can draw from your mana circuits and generate either piercing bursts or explosive blasts."In that moment he was reminded that Athena had only learned his proficiencies from his mind. Her inherent link to magical theory was all her own.
+
+"Alright. Didn't think we could do that. But a low-grade crystal is fifteen hundred easy."
+
+"We can compromise with crystal dust suspended in mana-fluid. The damage of the blasts will be reduced, however. But it should still be as effective as a large frag grenade or large-caliber rifle round."
+
+"How much mana will it cost per shot?"
+
+"Depends on the blast strength. We'll write scaling software. Neural-linked."
+
+"At least we'll finally get some more mileage out of my Mana stat. Besides using just Ki."
+
+"We'll need 200 hours of code work for the BIOS. Or fifty with Synchronicity."
+
+John frowned. The thought of full sync lingered in his chest.
+
+The memory of the last sync:
+
+Intoxicating. Hollow. Heavy. All at the same time.
+
+"That long in sync? We'd burn out."
+
+"We can work in bursts. Your Diagnose skill would also assist us greatly to refine the mechanical design."
+
+"Fair. If we have Sync, we might as well use it for more than killing shit."
+
+"Do you dislike being merged with me?"
+
+He hesitated. "Not exactly. Just weird feeling like I’m not entirely myself."
+
+"You seemed pleased last time."
+
+He remembered. The clarity. The power. The dangerous joy of being more than just a man--beyond more than a singular brain in a bone cage.
+
+"Us people, we cling to our identity."
+
+"For what it's worth… I enjoyed it."
+
+He smiled faintly. "Yeah, wasn't so bad, Athena. Didn't mean that, okay?"
+
+Then he shifted topics: "Let's finish the arm later. For now, if you're really up for synchronizing… we could optimize the deck."
+
+Athena materialized, leaning on the desk, half-cropped jacket and a new messy bun. First time he'd seen her change her look at all.
+
+"I'm not opposed. Upgrading our digital weaponry before we require it is an intelligent decision."
+
+John nodded, and reached for the data cable of his terminal. And plugged said cable into the deck port at the base of his skill. A UI flared into life on the terminal screen, replacing Athena's cyberarm diagram.
+
+<<<>>>
+
+[NSX-88 Mindlock Tactical Cyberdeck] (10.0 C-Capacity) (1 Ram)Manufacturer: Kurovalis Systems - C.F. Defense Contractor.‣ Deck-Ram: 10/min.‣ Program Storage: 6/6.‣ Installed Programs: Ghostmask, Signal Spike, Burstjack, Black Wave, Shieldwall, Overwatch Geist.
+
+<<<>>>
+
+He skimmed the list of programs.Black Wave: was an offensive construct and ICE-breaker. Signal Stun: a cyberware overload offensive program. Shieldwall: basically personal ICE. Burstjack: system-override controller that could open doors, control drones, etc. Ghostmask: offered minor surveillance interference.Kaito hadn't cheaped out. What really shocked John, however, was the presence of the Overwatch Geist. Geist were like autonomous dumb a.i. The single program was easily the most expensive of any on the list.The Overwatch Geist in particular was a combat-oriented auto-scanner and threadnet-mapper. Bassically a tactical assistant.
+
+"You think the Geist'll help? I mean, I already have you."
+
+"Yes. It has better and more expanded capabilities within the net that I do. However, we could modify it. Piggyback its subroutines for my use."
+
+"How?"
+
+"By excising the Geist's mental faculties. But keeping the framework for its capabilities. I could pilot its subroutines through your brain if we reoriented the program's code for direct neural control."
+
+"Alright. Let's do it. I trust you more than some random AI. Also… Black Wave. I want to tweak it. Make it fit me better. Right now it basically just shoots a code-beam within the net. I'm not much of a caster."
+
+"Then shall we sync?"
+
+He hesitated. Then nodded. "Sure. Let's go."
+
+[Skill Activated: Synchronicity - Body Lv. 1][Skill-Energy Remaining: 2]
+
+[Mana-Points Remaining: 2]
+
+"Initiating partial-neural personality merger. Co-opting arms and eyes."
+
+She slid into his being.
+
+Thoughts blurred. Fingers moved before he commanded them. Reflexes surged. Logic rewired as his Mind attribute was boosted by two.
+
+His hands fell on his terminal keys. Opened the source code for the programs on his deck. And they coded. Together.
+
+Time fractured. Ideas spilled through the membranes of what they both were. What they could be. Thier programing became a shared conversation, perfectly communicated. Then it became instinct.Past a certain point, John didn't know if it was him working and thinking, or Athena. And he could feel that she didn't either.They were still separate beings, but separate beings that were entirely aware of one-another's every thought and movement. In a way that blurred the separation to the extent of it meaning almost nothing. The longer the sync went on, the more true this became.He, they, created strings of code John never would have imagined attempting without the Sync. They were only limited by their programing proficiency's limits. Somewhere along the line, they began to reteach John what he already knew, to redefine his understanding.
+
+And:
+
+[Proficiency Upgraded: Programming – Expert][Skill Acquired: Code-Sprint Lv. 1]
+
+<<<>>>
+
+[Code Sprint Lv. 1] (Mind) (Programming) (Passive)Hours melt away when the code flows. Your neural pathways have better adapted to sustained cognitive load. When focused on programming tasks, you enters a deep-flow state.‣ Cost: 0 Skill-Energy‣ Activates after 1 hour of continuous coding.‣ Mind +1 while coding is sustained.
+
+<<<>>>
+
+Finally, his finger, Athena's finger... their finger, clicked the key that would compile their code.
+
+He slumped.
+
+[Skill Deactivated: Synchronicity - Body Lv. 1]
+
+Athena peeled away from his mind. He missed her more intimate touch instantly.
+
+He stared at his computer screen and the endless lines of data they'd created. And the clock on the terminal UI. Hours had passed.
+
+"Fuck," he muttered. "That's like snorting speed that actually makes you smarter."
+
+Athena reappeared, more solid, more real somehow. As if touching his personhood for so long had made her even more of a person herself. Surprisingly, her eyes were tired too."You good?" he asked her."Yes. Are you alright as well, John?"John nodded. "Yeah... let's see how we did."
+
+Still cable-tethered to his terminal via his cyberdeck port, John pulled up the programs they'd retooled:<Black Wave> had become <Black Fang>. And somehow they'd managed to turn it into a geist. But only after taking apart the <Overwatch Geist> and learning how it worked.
+
+<<<>>>
+
+[Black Fang] (Geist) (Offensive) (Black ICE)A semi-self aware, self-adapting code katana forged from offensive-structures. Learns from every string of data it cuts to target the weaknesses of opposing programs and constructs.Cost: 5 Deck-RAM/min.Program-Class: 5.
+
+<<<>>>
+
+Speaking of the <Overwatch Geist>. They'd completely gutted it's internal logic, replacing it with a backdoor for Athena. Which cut the Deck-Ram costs down enough to allow them to integrate Shieldwall into the program--turning the lobotomized geist into a sort of multi-purpose tactical threadnet suite.It was still expensive to activate and keep running, but it was also one hell of a package now:
+
+<<<>>>
+
+[Umbra] (Geist) (Support) (A.G.I-Bound)Silent, non-sentient, co-processor tethered to Athena. Offers ambient signal and threadnet scanning, net-space mapping, and ICE detection and prediction. May be used once per minute to negate 1 enemy offensive hack or attack of Program-Class 3 or lower.Cost: 5 Deck-RAM/min.Program-Class: 5.
+
+<<<>>>
+
+"We did good. Thanks," John said to Athena.Athena smiled at him, still looking weary. "Always, John."
+
+Then came a threadlink call.[INCOMING CALL – KAITO]
+
+Right on time.
+
+John answered.
+
+"Are you prepared, Ranson-san. And did you find that the cyberdeck was acceptable?"
+
+"Yeah. It's nice as can be. Thanks. Still waiting on that extra intel though."
+
+Kaito sent a data packet. The HUD of John's cybereye lit up with images when he accepted it.
+
+An overlayed blueprint of the apartment tower formed in front of him."I believe this should prove useful in navigating the complex," Kaito said."You're thorough. Where's the Grin server though? Or do I have to find it myself?"
+
+Kaito highlighted the basement level on John's HUD display.
+
+"The basement level is the only portion of the building that is entirely shielded from outside digital intrusion."
+
+"So it's either there or they're idiots. Entry plan?"John's cybereye HUD shifted again. On the 3D blueprints, another long passage appeared running parallel to the lower levels of the apartment complex.
+
+"There is an old Undercity tunnel. It shares a wall with the boiler room of the complex's sublevels. If you use a small pinpoint breaching charge, you should be able to enter there. Quiet. Controlled."
+
+John blinked. "Don’t exactly have any tactical plastics lying around."
+
+"Check again."He was confused for a moment. Doubly so due to the come-on of a strong migraine. Then he got a bad feeling.
+
+He looked at the box of scrap. Dug. Found a small, sealed pack. Inside? Breaching charge. And a small, separately sealed circular detonator plate meant to be affixed to the charge.
+
+"You put a bomb in my house?"
+
+"It’s inert without the detonator. As I'm sure you well know."
+
+John grunted. "Fine."
+
+Kaito sent one last file. "Upload this virus at the CPU core of their system's datafortress--if they do indeed have one. I will take over from there and you will merely need to focus on your departure."
+
+"Got it."
+
+"That is excellent, Ranson-san. Do you require anything else from me?"
+
+"No. I can't say I do. Minus the fucking bomb, you've been more helpful and professional than anyone I've worked with--including a good many Freehold Army Officers."
+
+"This is something I pride myself on. I have invested much in you for this purpose. I wish you the best of luck."
+
+The call ended.Man. Kaito both gave him the creeps and strangely made him want to trust him. Want to... it wasn't happening, the motherfucker was a damn vampire after all.
+
+John turned to where Red's armor was also laid out on the bench. His cyber-eye scanned it.
+
+<<<>>>
+
+Item: Lightweight Custom Composite PlateHand-fitted by an expert-tier armoursmith. Built from custom-forged combat plating, mounted onto a ballistic weave undersuit, and breathable carbon-poly mesh. Optimized for kinetic dispersion and resistance to ballistics, fire-damage, and bladed weapons. Non-reflective coating reduces scanner profile. Hidden gel layer absorbs blunt shock.Armor-Tier: 4+.Market Value: 5,000 Credits.
+
+<<<>>>
+
+It was everything Red had promised. SMGs might hurt, but they'd bounce off most of the suit.
+
+He exhaled slowly.
+
+"Alright," he said. "I think we're ready.""As do I," Athena agreed.He hadn't lied to Red either, he was pretty sure he'd made sure he could at least probably survive Kaito's job.John rubbed the bridge of his nose."I think I need those two hours of sleep now."

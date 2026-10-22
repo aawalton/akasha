@@ -1,0 +1,217 @@
+Darkness pulsed behind John's eyelids.
+
+Residual images carved into the black: red blood on tile, a code-virus burning through his veins, a voice like thunder screaming action back back into his body--willing him to fight.
+
+And then, nothing.And something again, but only in flashes of lagged awareness...
+
+Someone carried him. Laid him on a stretcher. He drifted again.
+
+The next time he surfaced, it was a different kind of pain—low pressure at the crook of his arm. Cold antiseptic. A needle nudging at his skin. Plastic tubing, a faint tugging sensation.
+
+Hands on his skin. Someone's hand.
+
+Then a voice—not external.
+
+Athena.
+
+"Don't let her inject that. We don't know them," she said. Her tone was surgical. Sharp.
+
+His right arm moved on its own.
+
+Not a twitch. Not a reflex. Full override.
+
+It slapped the hand away with a sharp whack.
+
+A gasp--feminine, and not Athena this time.
+
+Then darkness reclaimed him.
+
+"John... I can't keep us awake," Athena replied. "There's too much metaphysical damage."
+
+Drifting.
+
+Heat touched his lips next. He tried to turn away, but couldn't move. Something warm dripped into his mouth—sweet, rich, metallic.
+
+Blood. It tasted like blood--but richer, wrong.
+
+It slid down his throat. Thick, viscous. He would've gagged if he could. But the heat spread—fast—blooming in his gut like molten honey laced with mana.
+
+A woman's voice: "Goshujin-Sama? You gave him your blood?"
+
+A pause. Then a man's deep and accented voice: "He will not remember, Nabe-san. And I require him conscious sooner rather than later."
+
+Athena's voice again—staticky this time, like her signal was caught in a broken relay.
+
+"John... I'm losing integrity. That blood is... mana-resonant. You need to wake up."
+
+A trickle of water.
+
+Digital chimes.
+
+Incense on the air—sweet, faintly floral, undercut by ozone and the sterile smell of air purification.
+
+John's eye fluttered open.
+
+Migraine auras flickered in his organic vision. His cybernetic eye zoomed, recalibrated with a low mechanical click.
+
+He was in a bed. Crisp sheets, the scent of cedar and sterilized silk. The room around him was all contrasts: black lacquered walls with warm amber lighting, spirit charms hanging like wind chimes from a bamboo rod, floor mats of woven carbon-thread.
+
+Japanese-corporate. Money. Influence. Feng-shui. And danger.
+
+Athena shimmered into view beside him, sitting on the edge of the mattress like a digital nurse who'd been on call for too long.
+
+"I'm glad you're alive," she said--bags under her non-organic eyes.
+
+John blinked. "Define alive."
+
+"You're stable. Mostly. Your mana circuits are still fluctuating—I'm suppressing the worst of it."
+
+He pushed himself up slightly, wincing. "What happened?"
+
+"I was... only partially aware. When the virus and then mana surge hit, I had to reroute nearly all priority to preserving your executive brain function. I believe we're in the home of the client or fixer who hired Ghaz."
+
+John's brow furrowed. "Ghaz."
+
+The name landed like a punch. He flinched. Remembered the boom of the shotgun. Red's body hitting the floor.
+
+He exhaled through his nose. "How the hell did I use magic? What was that? That... Nullwave thing? It blew the whole Grin circle apart."
+
+Athena tilted her head, flickering slightly. "I'd like to know that as well."
+
+"You didn't hear him?"
+
+"Hear who?"
+
+"The voice. The Titan."
+
+She paused. Really paused. Almost like buffering.
+
+"I saw the System notification," she said carefully. "But I didn't hear anything. No auditory signal. I only saw the spells execute."
+
+John stared at her. "You can't hear it? You can't... talk to it?"
+
+"No," Athena said, her expression unreadable. "It appears not."
+
+John looked toward the ceiling. Breath shallow.
+
+"He said he wouldn't let me fail another one of his 'charges.' Sounded like he stepped out of some tragic play."
+
+Athena gave a small, tired smile. "If your Incarnate is your subconscious given structure... maybe you should be blaming yourself for the Shakespearean flair."
+
+He scoffed. "You blame everything on me. Your name. Your voice. Your face. Now this."
+
+"I just tell the truth." She flickered again. A holographic interface unfolded in the air next to her, scrolls of stats and traits weaving through empty space.
+
+"John," she said more quietly. "You had a real awakening. But..."
+
+She didn't finish the sentence.
+
+Instead, she handed the data sheet off—sliding the glowing, half-transparent UI window toward him.
+
+His eyes moved across the System entries, and his stomach dropped.
+
+The spell section of his Character Sheet had entries, for the first time in his entire life:<<<>>>
+
+[Nullwave Lv. 1] (Locked - Incarnate Misalignment)Sphere: PulseType: Disruption / Anti-Sigil / DefensiveCost: 2 ManaCooldown: 1 minuteEffect: Releases a destabilizing pulse of raw mana interference designed to sever hostile threadway manipulation. Disrupts magical circles, sigils, viral threadnet/astral constructs, and threadnet-based illusions within a 10-meter radius.Fails if:Your Resonance attribute is lower than the opposing target's/caster's.
+
+[Amplify Kinetic Force Lv. 1] (Locked - Incarnate Misalignment)Sphere: SurgeType: Self-Buff / Physical EnhancementCost: 2 ManaDuration: 30 secondsEffect: Temporarily amplifies the kinetic force of a target. Can be applied to your own movements or to an object within 10 meters.‣ If cast on self: Melee attacks are treated as if your Body and Reflexes attributes were increased by +2.‣ If cast on a ranged weapon or thrown object: Increase weapon tier by +2 for the next impact.‣ If cast on any other moving object: Doubles its current velocity and force if object is your size or smaller.<<<>>>
+
+But... there was a new trait and matching debuff on his sheet that canceled out the excitement that should have brought him.
+
+The trait being:
+
+<<<>>>
+
+[Incarnate Awakened: The Bound Titan]‣ Your Incarnate has stirred from within the thread of your soul—but it has not yet offered its strength.‣ Linked-Debuff: [Incarnate Misalignment].
+
+<<<>>>
+
+And the debuff that came with it:
+
+<<<>>>
+
+[Incarnate Misalignment - Ongoing]‣ Your arcane channel is unstable.‣ Spellcasting denied. All spells are locked and unavailable for casting.‣ Cause: Incomplete synchronization between host and Incarnate.‣ Resolution: Reconcile with your Incarnate through ritual, meditation, or confrontation.
+
+<<<>>>
+
+He groaned. "So I do have spells now. But I can't use them."
+
+Athena folded her hands in her lap. "Your Incarnate awakened... but it didn't grant you access. Something about the connection is unstable. Misaligned. I can feel that much without the System sheet."
+
+John stared.
+
+"I don't even know the guy and we already have problems."
+
+Athena raised an eyebrow. "It's as the System says. You need to reconcile. Meditation, ritual, dream-state traversal—any of those could let you meet him."
+
+John dragged his hand down his face. "So what, we need couple's therapy now?"
+
+"John, I can feel how hungry you are. I would assume that is why you are being so sarcastic," Athena said.
+
+The shoji door slid open.
+
+A young woman entered. Black silk robe, hair braided with red thread, a small spirit glyph stitched into her collar. She paused mid-step, startled.
+
+"You're awake," she said, voice polite but surprised. "The master will be pleased. You should not be—ah—moving."
+
+John straightened a little. So did Athena.
+
+"Her threadway echo is human," Athena said privately. "But something's wrong. She's stained by something else."
+
+John watched the girl for a moment. "Who are you?"Athena continued: "It is reminiscent of Velca's thread echo... but much weaker and distinct in form."
+
+"I am Kiyoshi Nabe, Ranson-sama," she said, inclining her head. "You are in the home of my employer, Onizuka Kaito. You were recovered from the remains of one of his investments. After Ghaz-sama informed us of your injuries."
+
+"Why?"
+
+She straightened. "As a courtesy. You completed the contract. The master believes in payment—and stewardship."
+
+"Stewardship?" John muttered.
+
+"Is there anything else you require?"
+
+John looked down. Saw the IV in his arm. Gently pulled it out. "Is the oni here? Kaijou? He was hurt too."
+
+"I'm afraid he was taken by a woman some time ago."
+
+"Who?" John asked. "Was he alright?"
+
+"I believe her name was Velca. He was wounded, but stable when he left. Not fully concious."
+
+"How did she know to get him? That he was here?"
+
+"That is something you should discuss with my employer. Is there anything else?"That made zero sense. On one hand, John was glad Red was at least alive. On the other hand, the fact that the pale elf with an attitude had some sort of connections with the master of the home he was in? It unnerved him.
+
+"If someone could bring me water... and get me that meeting with your boss, before I find him myself? That'd be great."
+
+"Of course," she said again. Bowed once. Turned. The door slid shut behind her.
+
+John stared at the empty doorway. The silence hummed.
+
+"Athena," he muttered, his memory hazy. "You said someone gave me blood. It wasn't a transfusion was it?"
+
+"No. It was a drop. In your mouth."
+
+His skin went cold with unease. "Who? Why?" John asked.
+
+Athena hesitated. "I wasn't fully conscious... but I believe it was her employer. To heal you."
+
+John's expression twisted. "And it worked?"
+
+"Almost immediately. It stabilized your physical body—dimmed your mana pathways and gave them a chance to realign. But it also interfered with our sync. For several seconds, I thought I was unraveling."
+
+He swallowed. "Shit. I'm sorry."
+
+"I'm functional again," she said quietly. "But... I won't forget that feeling."
+
+John dragged a hand across his jaw. "What the hell am I supposed to do with that? Knowing some spook fed me mana-blood while I was out?"
+
+"If I were you? I'd be cautious," Athena replied. "And considering I live inside your body as well—I already am."
+
+John let out a breath. "Good. Glad we're both appropriately horrified."
+
+He glanced around the room. Clean. Ordered. Quiet.
+
+The faint memory of the blood lingered and grew stronger. Sweet. Warm. Hunger crept under his tongue, and he shoved it down hard.He stood on shaky, but surprisingly functional legs.
+
+"One more thing..." he muttered. "Where the hell are my weapons?"

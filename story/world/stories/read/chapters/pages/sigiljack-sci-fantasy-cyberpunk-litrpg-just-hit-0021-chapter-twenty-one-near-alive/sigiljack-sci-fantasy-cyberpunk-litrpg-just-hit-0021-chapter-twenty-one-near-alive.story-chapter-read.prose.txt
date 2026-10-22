@@ -1,0 +1,179 @@
+The waypoint pulsed like a heartbeat in his HUD, dragging John deeper into the guts of the Undercity.
+
+The space had fully shifted now. Sewer stink giving way to something more oil and steam laden.
+
+Nothing but maintenance corridors now, narrower but cleaner. And yet still crooked, like someone bent the place into its shape and hoped no one would notice.
+
+The more time John spent in it, the more he thought the Undercity really wasn’t anything like a sector of its own. It was more like a crazy-god's scrapbook of civilization’s leftovers, all stitched together with rust and mana and ideas that hadn’t aged well.
+
+He walked slow. Deliberate.
+
+And breathed in. Things were calm for now and he intended to take advantage of that to get back to full strength.
+
+Athena sensed his intentions to replace his lost ki without him needing to say, or think, a word to her.
+
+[Skill Activated: Focused Breath Lv. 1][Skill-Energy Remaining: 3.][Mana-Pool Remaining: 4.][Ki Points Gained: +1 (3/4).]
+
+Air slid through his nose. Pressure regulated. Every breath a metronome thanks to the automating touch of his neural passenger. Athena perfectly tuned his body and the flow of his mana and skill-energy.
+
+Within moments, renewed ki surged within his core once more.
+
+Ki was a powerful resource, but one that didn't just generate on its own--unlike its individual components.
+
+He repeated the process of activating [focused breath] once more, until his Ki stores were back to being full.
+
+And just in time. He stopped walking.
+
+Ahead, just past the next intersection of pipe-lined hallways, something moved.
+
+Something metal.
+
+A security drone hobbled into view. Rusted. One leg twitching. Sparks spit from its shoulder actuator. Old military frame. Outdated even two decades ago.
+
+Should’ve been in a scrapyard.
+
+“It has a thread-echo,” Athena said quietly in his head.
+
+"How the hell does that track?"
+
+“Likely the same as how the creatures from before came to be: long-term exposure to a magic-rich environment. Mana has somehow seeped into its circuits, and it has begun to produce its own."
+
+He gripped his gun. "Great, so does that mean its as batshit at the leeches were or--"
+
+The drone stopped mid-step.
+
+Its head cracked sideways with a servo squeal. Red targeting lens zoomed, and locked straight on John.
+
+Its arm raised. Not a hand. A barrel.
+
+“Shit...”
+
+[Skill Activated: Breathe and Break Lv. 2][Skill-Energy Remaining: 3.]
+
+Time stretched as his Reflexes surged.
+
+John dropped sideways to a knee as the drone released a volley of semi-automatic rounds at him.
+
+Bullets ripped across the corridor. A few pinged off Red’s armor. He barely felt the hits.
+
+His PD11 came up. And he returned fire.
+
+The rounds hit, but the drone barely flinched. It shuddered a bit, but kept moving towards him. Closing the distance, likely to make up for its aged targeting software.
+
+“Our ranged firepower is not enough to breach its armor.” Athena’s tone didn’t waver.John figured Gravewind could probably cut through the drone's armor. But it'd be stupid to try to close with it and give it a clear shot at his head.He also didn't want to use [Heavy Shot]. He had something else he wanted to test out.
+
+"Yeah. I got that. Can you take over the shooting for a second?""Yes."Athena overrode his right arm, firing another shot at the drone--if only to keep it slightly off balance.Meanwhile, John focused on his cyeberye's HUD and the prompt hovering over the automaton within it.
+
+<Initiate Breach: y/n?>
+
+He selected yes with a thought.
+
+The cyberdeck implant at the base of his neck buzzed to life. His HUD shifted as the drone lit up with a pulsing red within it.At the same time, his cyberdeck began to visualize the threadnet for him through his cybernetic eye. The world was overlaid with blue-digital lines that crisscrossed the signal streams he'd already been seeing through his HUD. But now it was like a second reality had been revealed--and, in a way, John figured it had.
+
+He lifted his chrome arm. Took another shot to the chest, one that made him wince back--not from pain, but from the force. And a flick of thought sent a code wave surging forth from his raised, metal fingers--but only within his digital vision.
+
+<Program-Deployed: Burstjack.>
+
+<Cyberdeck RAM Remaining: 6.>
+
+The digital spike cut through cyberspace rapidly and struck home, exploding around the robot's body and sending it staggering like a physical hit. The drone’s eye dimmed mid bullet burst.
+
+It stopped firing.
+
+John stayed still. Watched. Waited.
+
+The drone didn’t fall.
+
+But it froze.
+
+Then--A tag appeared in his HUD over the drone:
+
+[ALLY]
+
+Under it, a soft radial menu:
+
+<<<>>>
+
+▸ Deactivate▸ Short-Circuit▸ Follow / Wait ▸ Guard
+
+<<<>>>
+
+John lowered the PD11 slightly. “Huh. Well, guess the programs aren't defective."
+
+“We already knew that. We saw their source code,” Athena offered. "An additional ally could be useful."
+
+“Assuming the Grin don’t counter-hack and turn it right back on me.”
+
+He stood up and stepped closer to his former enemy. The drone remained still as he closed the distance.
+
+He examined the drone. Old, just like he'd thought. But not too terribly worse for wear all things considered. He could probably repair it himself, and on the cheap, if he got it back to his workshop. But hadn't Athena said something about a threadecho...
+
+Then he saw it, where the chestplate had cracked open. A dim pulse of blue inside. Not mechanical. Organic-looking.
+
+He narrowed his eyes. There was something inside the pulsing light.
+
+It was crystalline. Faintly heart-shaped. Beating. Dim. Nested deep inside the frame. And black veins, that didn't look at all synthetic, grew out from it and fed into the drone's machine bits.
+
+"Athena. Does that look like a soulcore to you…?"
+
+“Yes... it appears to be one.”
+
+"In a robot? Does that mean it's alive?"
+
+“Not fully. But likely close enough.” she said. "Its thread-echo is emanating almost solely from the core."He hesitated, not taking his eyes off the drone's glowing soulcore. "So, putting aside how weird this is, does that mean it can be hacked and mind-controlled if we take it with us?""No. I don't believe so. Mana is within its shell, but it doesn't posses an organic brain," Athena explained. "The Grin mana-virus we encountered worked through infectious digital code. Code that spread into your neural pathways through your threadlink and then that hijacked those neural pathways to manipulate your mana-circuits. This drone has no neural pathways.""But it has mana circuits, right? Couldn't the Grin just overtake those right away.""I... also only experienced the virus briefly, but no. I believe it was too complex in its operation to deviate from an exact step-by-step methodology of infection."John took her words in and then moved on, gesturing to the drone's frame. "I don't get it, it's not made of living metal. I can tell that just by looking at it. How the hell did mana even stick to it?""Perhaps it is more possible than we think, given enough time for the mana to bond. Or it could be that the drone's programming was adjacent enough to sapient thought to allow the bonding."
+
+John stepped up. Looked the drone in the singular eye.
+
+“You think you’re alive?”
+
+The drone hesitated.
+
+Then shrugged.
+
+He blinked. Behavioral code? Or something more?
+
+“Alright. What were you even guarding that was worth wasting bullets over?”
+
+The drone looked down. Scratched its head, slow and confused, like it didn’t understand the question.
+
+Then shrugged again.
+
+“Great.” John sighed. “You want to come with?”
+
+The drone nodded.
+
+He selected [Guard] on the HUD.
+
+“Walk in front. I'm not getting shot in the back if you glitch out.”
+
+It tilted its head slightly. Hurt? Maybe. But it complied anyway, and didn't try to get behind him.
+
+They moved, the drone keeping a distance ahead of him, only stopping for him to point out which turns to take to it.
+
+Their journey took them through tight corridors. Rusted pipes and fiber-optic bundles spidering across the ceiling. Footsteps echoed over grime and silence.
+
+Until John's HUD waypoint pulsed faster.
+
+They rounded a final curve. Stopped.
+
+A wall. Flat concrete. Not even reinforced.
+
+Unmarked.
+
+But the blue glow in his HUD framed it neatly.
+
+This was it.
+
+John exhaled.
+
+Rolled his neck.
+
+Cracked his knuckles.
+
+Athena appeared next to the wall, looking at it closely.The drone stared at him, as if unsure why he'd stopped moving."Guess this is it."Athena looked to him.
+
+"I suggest we activate [Umbra] now. To scan for potential ICE and physical security from here on out. We are likely dealing with threadrunners of some sort.""Sure. Good idea," John agreed.
+
+<Program-Deployed: Umbra.>
+
+<Cyberdeck RAM Remaining: 6.>Athena's form surged in his cybereye and in the net. He watched as Umbra's data swirled around her, forming into the shape of two glitching shadow-formed panthers to either side of her shapely and glowing legs. Two small code-ravens joined the ensemble, perching on her shoulders.She lifted a hand, one of the code-ravens squawked and flapped into the air briefly. Before it then perched on her wrist. She brought it closer to her pupilless eyes and smiled."I believe I like netspace quite a bit.""Other people still won't be able to see you?" John asked to confirm.She looked at him quizzically. "They will not see me. Only the icons of Umbra's digital avatars will be visible as I control them."John hesitated. "Sure that's still safe though?""I believe we should be fine. We did code Umbra together John?"He tried not to frown. "Yeah, well, some things blur after we desynch.""For me as well," Athena admitted. "Perhaps we should resync before we enter? We'd be much more capable if we did?""Let's... hold off, okay? We might need the Mana and Skill-Energy."Athena tilted her head at him. "Of course, John. I understand."
