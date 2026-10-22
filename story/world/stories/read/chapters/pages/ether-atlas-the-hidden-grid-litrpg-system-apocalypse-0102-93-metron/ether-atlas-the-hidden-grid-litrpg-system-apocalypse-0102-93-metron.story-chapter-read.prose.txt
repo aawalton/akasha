@@ -1,0 +1,169 @@
+Chapter 93
+
+The Vassilou family fed me tonight and argued across the table in two languages while I ate. Eleni set the heaviest piece of fish in front of me without being asked. I did not know, until I was sitting at a stranger's table in Piraeus, that a kitchen could be this loud and still be kind. I’ve seen the same look in Arthur’s eyes. I wrote nothing useful in this entry. I just wanted to keep it. — The Ether Atlas: Field Notes of Steven Parr, Piraeus
+
+Steve had the ledger open and three other books Arthur did not recognise fanned around it. He did not look up when the gate swung shut behind them. A pencil turned over and over in his fingers, and he had the look he got when a problem had stopped being a nuisance and started being an opponent.
+
+“He let you back in, then,” Arthur said.
+
+“He sat me at his own table and brought out charts I have only ever seen named in footnotes,” Steve said, looking up. “Then he left the room to make coffee for the better part of an hour. On purpose, I suppose, so that I could copy down whatever I liked.” He pushed a book to one side. “Sit. Where is Donna?”
+
+“Here.”
+
+She came through the courtyard door with a layer of dust on each boot. “So, Dr. Parr, I hope your sleuthing went better than my reconnaissance.”
+
+“Did something happen?” Arthur asked.
+
+“No, and that’s the problem,” Donna said, leaning her back against the doorframe. “I know there are undercurrents here that I can’t quite pin down yet. What I can confirm is that three foreigners in the Vassilou house are doing the rounds. Also, the local council is more like four factions that only marginally tolerate each other.”
+
+“And how did you find that out?” Sarah asked, settling into one of the weathered courtyard chairs.
+
+“I exchanged one of the fox cores for a lot of booze. And as you can see, I didn’t bring any of it back.”
+
+“Good to know the tavern cliché still works, even when the world lacks taverns,” Steve muttered.
+
+“It’s a cliché for a reason. Anyway, let’s hear what you found out.”
+
+Steve turned the ledger so the four of them could see the figure he had copied from the pillar. A triangle with the text etched along its lines. One riddle sat at the apex, another at a base corner, while the third corner remained blank.
+
+“I have the first corner,” Steve said, tapping his pencil tip against the paper. He read it off the page.
+
+South to the cape where the mainland ends,
+
+to the sea-lord’s columns where the last light bends;
+
+to the eye on the water the measure is shown;
+
+the first hand sleeps in the wave-cut stone.
+
+Arthur squinted at the lines, reading them again to himself. “I don’t know about the last three lines,” he said, “but the first one is plain. A cape at the end of the mainland toward the south. That isn’t poetry, it’s geography.”
+
+“Exactly. A geographical anchor. The southern tip of something,” Steve said, looking up expectantly. “Go on.”
+
+“What, go on?” Arthur snorted. “This is my first time here. How the hell would I know where that is?”
+
+Sarah had been staring at the riddle as well, her eyes fixed on the ledger with a faraway look that belonged entirely to memory.
+
+“I know of a cape,” she said softly. “Where the mainland simply stops, and there is nothing past it but the sea. We used to drive down for the day when I was small.” She hovered a finger near the apex of the drawn triangle. “Sounion. It is Sounion. There is a temple on the headland. A temple to Poseidon.”
+
+“The sea-lord’s columns,” Steve said, nodding. “I was hesitant to point to Poseidon when we first saw the puzzle. Every seafaring culture across the millennia has its own lord of the deep. But now we can be reasonably certain.” He dragged his pencil tip to the second part of the line. “Where the last light bends.”
+
+“As it so happens, and I needed the old man’s reference books for this,” he continued, gesturing to the scattered volumes, “Sounion has a peculiar atmospheric effect at dusk. The sun drops straight past the columns. The light appears to bend or fracture as it passes through the ruins at that exact low angle.”
+
+“It’s on every tourist postcard from Attica,” Sarah agreed.
+
+“Well, that should be evidence enough,” Arthur said, his practical mind sorting the evidence. “Unless there are other temples to Poseidon with the same trick.”
+
+“That, my friend, is a beautiful observation,” Steve said, warming up. “And that is precisely why we need line three.”
+
+He tapped the leather spine of a heavy volume. “Because as it turns out, the Sanctuary of Poseidon at Cape Tainaron shares almost identical ground. It sits at a southern tip; the mainland ends there too, and though its columns are mostly rubble now, some of the older logs mention a matching sunset alignment. We have a red herring.”
+
+to the eye on the water the measure is shown
+
+“It was Kostas who made me see it,” Steve continued. “Yesterday, he said that cranks are cranks, but underneath the noise there is sober work, with real names and survey angles on it.”
+
+“So this ties into the golden ratio as well?” Sarah asked.
+
+“Not quite. Or at least, not yet,” Steve said. “But it does refer to a very peculiar sort of measurement. One of the things I learned today is that the Temple of Poseidon at Sounion was built for ships, not people.”
+
+He looked around the table for an objection. When no one spoke, he leaned forward, his pencil rolling between his fingers. “Most temples of that era were built with a cheat in them. A perfectly straight column reads as pinched in the middle to a human being standing directly in front of it, a trick of the eye. So the ancient builders gave the stone a slight, localised swell to fight the illusion.”
+
+“Optical correction,” Arthur said, nodding. “Entasis. You build the bend in on purpose so the finished structure looks straight to the viewer.”
+
+“Exactly that. Every major temple of the age does it,” Steve said, tapping the open page. “Sounion does not. The columns there are dead straight. No swell at all. They’re cut with sixteen grooves where the standard rule demands twenty, and the shafts are stretched taller than any comparable temple. They stripped out the close-up correction entirely and elongated the whole frame.”
+
+He looked up, his eyes sharp. “That only makes structural sense if you aren’t building for a man standing at the base of the monument, but rather for men out on the water. The temple would only appear perfectly proportioned to eyes a few hundred feet from the cape.”
+
+Arthur turned the concept over in his mind. An entire temple, hundreds of tons of marble, warped for a single, distant line of sight.
+
+“They chose the distance it was meant to be seen from,” Arthur said, his voice dropping into that quiet, analytical register. “Then they built backwards from the horizon. That isn’t an aesthetic choice. That’s a calibration.”
+
+Three days for a single point. Archie was in all their heads at once. The Seeders would not have rated this performance well.
+
+“Well, then they should have left more than cryptic nonsense behind,” Donna shot back.
+
+That should be taken up with the curators, Archie responded, if you survive long enough to meet them.
+
+A silence settled over the table as the weight of what the geometry said sank in. It was Donna who broke it.
+
+“One corner,” she said, her eyes fixed on the sketched triangle. “Of three. And you’re certain?”
+
+“The last line, the first hand sleeps in the wave-cut stone, will probably resolve itself when we get there,” Steve said. “It reads like the Malta puzzles. It would be tied to an action Arthur will have to perform physically.”
+
+“So we will only know for sure when we get there,” Arthur said.
+
+Steve nodded. “The location itself? Yes. I’m fairly certain, nothing else fits. I suspect the second corner will unlock once we activate Sounion. As for the apex riddle, I still have no clue.”
+
+“It isn’t like you to just shelve an unsolved puzzle,” Donna said, her eyes narrowing with suspicion.
+
+“Oh, I have a theory,” Steve said, his smile widening. “I’m just not willing to share it until I can test the variables.”
+
+* * *
+
+Eleni’s voice drifted through from the kitchen, calling out that dinner would be ready in twenty minutes.
+
+“So there you go, then,” Steve said, gathering the borrowed volumes into a neat, precise stack. “Stavros wanted three days to pull the equipment together. Today is all but gone. We wait out the two days here, get our gear and then we head for Sounion.”
+
+Over by the cistern, Petros straightened up from the iron pump he had been bleeding for the last quarter of an hour, in theory mending the valve, but in practice listening to every single word.
+
+“Sounion,” he said, wiping his greasy palms on a rag. “The four of you are going to walk all the way to Sounion?” He looked past Arthur straight at Sarah. “Did you ask Mama? It is almost seventy kilometres. Long way on foot.”
+
+“I will tell her during dinner. She won’t mind,” Sarah said, though her shoulders tightened slightly.
+
+Petros barked a short laugh. “We will see about that.”
+
+“It is still seventy kilometres,” Donna said, her eyes dropping to her maps. “Down an open coast road we don’t know.”
+
+“Oh, I know the road. We will be fine,” Sarah insisted.
+
+“If your mum lets you go.” Donna smirked.
+
+“Not you too,” Sarah groaned.
+
+“I’m less worried about your mother than I am about whatever new local fauna we cross out there,” Donna said, her tone shifting back to dry pragmatism. “We go heavy, and we go prepared. Petros, are there any settlements left between here and the cape?”
+
+“Ne,” Petros said, shrugging. “But nobody knows if they have people any more. Or what kind of people.”
+
+“We need a cover story for heading south,” Arthur said, leaning his forearms on the table. “Roads have eyes, and a good story is cheaper than a fight.”
+
+They were still trading options for the narrative when Eleni’s voice called from the house a second time, sharper now, and the group dispersed in a hurry to wash up.
+
+The fish was psari plaki, thick cuts of bream baked in a heavy, aromatic sauce of tomatoes, onions, garlic and a sharp splash of white wine. Two dense loaves of crusty horiatiko psomi sat beside the platter, ready to soak up the juices.
+
+Steve took a single bite and let out a low moan of pure pleasure, drawing a round of laughter from the table.
+
+“I’m going to miss this,” Arthur said, gesturing with his fork at the spread. “When we’re out on the road.”
+
+Eleni’s fork froze halfway to her mouth. She looked up, her gaze sharpening instantly. “What road?”
+
+“Vlaka,” Sarah hissed under her breath, shooting Arthur a glare before she forced her face into something resembling calm. “Mama, we need to go to Sounion.”
+
+“No. It is too far, and it is too dangerous,” Eleni said, with maternal finality. “Why do you do this to your mother?”
+
+Petros barked a short laugh, then choked it back as Eleni’s stare locked onto him.
+
+“Mama, you know the reason,” Sarah said, her voice rising slightly. “We don’t have a choice.”
+
+“You always have a choice,” Eleni countered. She shifted her gaze across the table, her eyes measuring Arthur, Donna and Steve in turn. “Risking your lives in old ruins. Your mothers would be so disappointed in you.”
+
+“Never knew mine,” Steve muttered in a low voice, only to catch a brutal, silent kick from Donna beneath the table.
+
+Sarah turned to her grandmother for support. “Yiayia, explain to Mama, please.”
+
+The old woman looked at Sarah for a long moment, her weathered fingers resting on the edge of the table. “I raised your mama to listen to her mama,” Yiayia said softly. “She did not pass the lesson on well.”
+
+“Oh, brilliant,” Sarah said, throwing her arms up. She stood up, her chair scraping against the tiles. “Mama, let’s go upstairs. Please.”
+
+“You should finish your dinner,” Arthur said, his practical instincts overriding his tactical awareness.
+
+Sarah whirled on him, her eyes flashing. “All of this is your fault,” she snapped. “I had it all planned out, but you just had to open your mouth.”
+
+“Hey, now—” Arthur started, but he shut his jaw tight as Sarah’s glare pinned him to his seat.
+
+Eleni followed her daughter toward the stairs, still muttering about the thoughtlessness of children. The last thing that drifted down from the stairwell was “I hope your own children do exactly the same to you.”
+
+A heavy, awkward silence fell over the table.
+
+“Women,” Petros murmured, breaking off a thick chunk of the crusty bread. “What can you do?”
+
+He summarily shut up when he caught Maria’s glare from across the platter.

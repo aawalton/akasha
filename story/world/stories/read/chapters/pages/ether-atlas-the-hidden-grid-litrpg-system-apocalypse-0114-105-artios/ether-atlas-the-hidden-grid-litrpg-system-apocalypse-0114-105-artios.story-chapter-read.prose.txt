@@ -1,0 +1,225 @@
+Chapter 105
+
+A smith once brought me a blade he had folded two hundred times along a single edge and left soft as lead everywhere else. I weighed it, admired it, and handed it back. It served him for years — until the winter it met something that struck the flat. — Codex of the Long Watch, Field Observation, 11th Century, Anatolia
+
+Steve turned the pencil over in his fingers, his eyes locked on the small, flickering campfire they’d tucked away between the fallen blocks of marble.
+
+“It’s been gnawing at me since Marseille,” he said, the familiar academic cadence returning to his voice. “And the climb up to this cape definitely hammered it home. We know D&D was structurally influenced by what the System was going to bring to Earth. Sure, some of the terms are slightly different, maybe it was just easier for human minds to conceptualise ‘Charisma’ instead of ‘Acuity’ before the fence dropped. But the core point remains - the game was a tailored blueprint for the integration.”
+
+Sarah watched him over the rim of her tin mug, her good hand steadying the metal as she took a slow sip. “This is the role-playing game you mentioned before? The tabletop one?”
+
+“Dungeons & Dragons,” Donna said from her bedroll. “Arthur ran a table for the better part of a decade. Steve and I were at it almost every Thursday night, back when weekdays were still a thing.”
+
+Sarah looked from one to the other, her brow furrowing slightly. “All three of you spent your Thursday nights playing a game?”
+
+“After work, mum,” Donna said with a faint, tired smile. “Steve played a wizard who almost always chose the wrong spell to memorise. I played a rogue, mostly. You know, kill things quick. Arthur sat behind a cardboard screen and calculated exactly how many heavy objects could fall on us in a single room. Or he joined in as a half-orc tank when someone else was running the table.”
+
+“I ran a fair and balanced table,” Arthur said, his voice entirely level.
+
+“Why a half-orc?” Sarah asked, her nose crinkling slightly.
+
+"Bit racist, that." Arthur laughed softly. “Humans start with ten as a base attribute. Attributes over ten give a bonus of one for every even number over ten. A half-orc gets +2 in Strength, so let’s say I started with twelve Strength. My character would get a +1 bonus to Strength.”
+
+Sarah stared at him blankly for a second, then shook her head.
+
+"Right, this is the important bit," Steve interjected. “Before being rudely interrupted, D&D tells us ten is the base human attribute.”
+
+“Which is obviously incorrect,” Sarah said, “since all of us have attributes below ten.”
+
+Arthur leaned back against the dead shield and thought through the question, the DM in him surfacing without any effort at all.
+
+“Ten is the baseline,” Arthur said, his boots grinding slightly into the temple dust as he shifted his weight. “In the tabletop rules, ten or eleven is what an ordinary human has, straight across the board. It means the game calculates zero bonuses and zero penalties. If you were knocking up some random punter to stand behind the bar in a tavern, you'd write tens all the way down and call it a day."
+
+“So anything below a ten introduces an active penalty?” Sarah asked.
+
+“Yeah. One point of penalty for every odd tier below ten,” Arthur confirmed, turning a small chip of broken marble over in his rough fingers. “An eight or a nine gives you a minus-one penalty to your physical or mental checks. A six or a seven drops you to a minus-two.”
+
+"An eight's already a proper handicap," Steve picked up, using his pencil stub to point at the ledger. “Anything lower than that and you aren’t building a viable character; you’re building a liability that the rest of the party has to carry. In D&D you get around that problem with a balanced party and because if the build's rubbish, only the character pays for it."
+
+Arthur looked up, the low glare of the campfire reflecting in his eyes. “So what you’re really asking is... what are we actively sacrificing right now by leaving our attributes below ten?”
+
+“That’s exactly it,” Steve said, flipping the book toward the firelight so the hand-drawn stat blocks were visible. “The tabletop rules treated the penalty as a simple numeric deduction: lower carrying capacity, lower armour class, a reduced health pool and worse skill checks. But we never looked at the attributes as actual biology.”
+
+“Every single one of us has been treating our lowest stats as dump stats. Arthur, your Acuity is sitting at an eight. Twenty levels of turning yourself into a thick kinetic wall, and you’ve only spent two points in it, and that was to use Counterforce Plant more often.”
+
+“I am a wall,” Arthur muttered. “And it’s worked.”
+
+“But what if you’re a wall with a choked biological circuit?” Steve countered, his lead tracking down the paper. “Donna, your Resonance is at eight. You are running the Drive straight off Reserve and have never thought of what more control through Resonance would give you.”
+
+Donna didn’t move her arm from her face, but her jaw tightened.
+
+“Sarah and I are even worse off,” Steve continued. "My Strength and Dexterity are both eight. I've built a mage who can level a courtyard but would struggle to climb back out of the bloody thing."
+
+“But that’s standard optimisation,” Donna countered. "Giving a wizard ten Strength is daft."
+
+“Agreed. It’s a wasted allocation when the wizard is using Intelligence and Wisdom. But...” He took a second to line up his thoughts. “I think we started chasing the ideal build without readying our bodies for the System change.”
+
+“I have absolutely no idea what you two are talking about,” Sarah said, setting her tin mug down carefully on the flat stone.
+
+“Back during our first allocation, Archie told us something we completely brushed off because it didn’t fit our gamer logic,” Steve said. He turned his face toward the dark air above the columns. “Archie, what did you tell us when Arthur questioned why our starting attribute totals were forty-two instead of a clean base ten across the board?”
+
+The floating geometric interface drifted lower into the lee of the pillars, its violet lines shifting into a brighter, expectant sequence.
+
+Ten is the threshold for an awakened human frame. The System measures your bodies as they are.
+
+“Exactly,” Steve said, snapping his fingers against the ledger. “We ignored the vocabulary because we were trying to force the System into a pre-existing game model.”
+
+“An awakened frame,” Arthur repeated softly, his brain grinding on the phrasing.
+
+“Ten is the System’s true baseline,” Steve said, his voice dropping. “You don’t get a positive modifier, but more importantly, you eliminate the negative drag. Which leaves the one question we haven’t asked. What does a frame do when no part of it is dragging?”
+
+It took you twenty levels for this realisation, Archie said. Not the fastest of all the species I have monitored, not the slowest either. Typical human.
+
+Arthur leaned forward, his elbows resting on his knees as he stared into the small fire. “So you are saying that we might have nerfed ourselves, trying to min-max too early?”
+
+“I’m saying it might be a possibility, and we are in a position to test it,” Steve answered.
+
+“Then I’m one move away from finding out,” Arthur said.
+
+The others looked at him, the low firelight catching the salt and dust on their faces.
+
+“My Acuity is sitting at an eight, and we’ve still got three unallocated points left,” he continued. "Might as well stop guessing and find out. We can test it now."
+
+Sarah opened her mouth to object.
+
+“Carefully,” Arthur added quickly, cutting her off before she could launch into a medical warning. “I know. But there shouldn’t be any real danger here. It’s just standard attribute allocation.”
+
+Arthur pulled up his menu. He dropped the first point into Strength, watching his primary stat tick up. “Right then, Doctor Parr,” he muttered, glancing across the fire at Steve. “Let’s see if you’ve stumbled onto a new research paper.”
+
+He confirmed the choice, then dumped the final two points straight into Acuity.
+
+The moment the allocation locked in, his Nadi-Matrix erupted. This wasn’t the localised prickle of a new technique. This felt like Day Zero. It was the exact same sudden, heavy rush from back when the framework had initially mapped itself to his flesh.
+
+The lattice flared to life across his entire frame, tracing lines of vivid violet-blue down his arms, across his chest and all the way through his legs. The complete circuit pulsed beneath his skin once, a heavy throb of light, and then the lines dissolved back into his body.
+
+A block of cold System text stabilised in his vision.
+
+CLOSED NADI MATRIX CIRCUIT ACHIEVED
+
+ARTHUR ASHWORTH - L20: STR 33 | DEX 15 | CON 31 | ACU 10 | RES 10
+
+Arthur read the lines once, then read them a second time, his jaw working as he processed the numbers.
+
+"Well," he said slowly. "I'll be fucked."
+
+"Well?" Steve leaned forward, pencil hovering over the ledger. "Go on then. What happened?"
+
+“It didn’t give me a new technique or anything,” Arthur said, turning his heavy hands over to inspect the palms. “But I got a notification saying the circuit is closed.” He flexed his fingers, testing the grip. “Something is definitely different. I can’t quite understand what it is yet. I just feel more sensitive to the Ether around us, but I don’t feel any other physical change.”
+
+What you are experiencing is the first stage of Nadi-Matrix evolution. Your Matrix is now roughly tuned to the Ether field around it. A frame with no dead channel can reach into that field and pull from it. You are feeling the door, not yet what is behind it.
+
+“What is behind it,” Arthur said.
+
+I find that this is better explained as a demonstration. Your Matrix will guide you. Pull in what is around you. You will understand it faster than I can describe it.
+
+“Pull in how? Through breath?” Arthur asked, puzzled.
+
+The Ether is all around you. It is touching your frame. This is no different from activating a technique. Use your Matrix to pull the Ether in. Archie said.
+
+The draw came in as warmth. The dense air went through his skin and suffused his body, the lattice brightening by a fraction underneath his skin. There was no sense of his Reserve filling; it felt more like a cloud of Ether passing through his body.
+
+"Go on," he said to Donna. "Hit me. Let's see if this actually does anything."
+
+“With pleasure,” Donna said with a grin, and got up off the bedroll. She took her axe and tapped his shoulder with the haft.
+
+“Harder,” Arthur said.
+
+Donna did not argue. She stepped into the swing, putting her hip into the movement and driving the haft against his shoulder with a solid, dull thud.
+
+"Right, I felt that," Arthur said. "So it does bugger all for taking a hit."
+
+You did not time the draw, Archie said.
+
+“Meaning what?” Arthur asked, looking down at his arms where the violet lattice had faded back into the skin.
+
+Try the same exercise right after you draw, Archie said.
+
+Arthur closed his eyes and tried again, but this time the draw felt sluggish, like pulling thick fluid instead of air. It took longer for the Ether to respond. Just as the lattice flared back to life beneath his skin, he nodded.
+
+Donna didn’t hesitate. She repeated the strike, bringing the wooden haft of the axe straight across his chest with a hard, flat crack.
+
+The wood hit with a dull thud. Arthur stood motionless, absorbing the impact without flinching. He waited for about a second until the glowing lines under his flesh dimmed and died.
+
+"Scratch that," Arthur said, rubbing his breastbone. “This does mitigate some of the hit. Not a whole lot, but still. I almost didn’t feel that one. But it still doesn’t feel like the Ether is filling my Reserve. Also, that second draw was, I don’t know how to explain it, more reluctant.”
+
+Suffusing the Matrix has severe diminishing returns when executed repeatedly over a short window of time, Archie confirmed.
+
+“So it doesn’t store,” Steve said, his pencil scratching furiously across the paper as he huddled by the fire. “There’s nothing to bank here. You’re running off the live field; it dissipates within a single second, and it becomes either progressively harder to pull or progressively weaker if you force it.”
+
+Both, Archie stated.
+
+It is saturation dependent, Archie continued after a beat, the lines of his interface pivoting a fraction in the dim air. If you stand in an Ether-dead valley, you get nothing, because there is nothing in the air to take. What you can do scales with where you stand. This, however, as with everything, will change as more Ether suffuses your planet and as more of the Grid activates.
+
+Steve sat back on his heels, looking quietly pleased. “Looks like there would be a paper after all,” he said, a faint smile breaking through the dust on his face. “Once scientific journals are a thing again, that is.”
+
+“So just to make sure I am on the same page,” Donna said, her eyes shifting to Archie. “We can saturate our bodies for an instant with Ether, but we won’t store it.”
+
+That is an accurate estimation, Archie replied. For this stage.
+
+“And what happened to the level 20 technique.” Steve asked
+
+Nothing happened to the level 20 technique Archie replied in his usual infuriating manner.
+
+“Well, then where the hell is it?”
+
+You do not get a technique at level 20
+
+“Why Not?”
+
+Because level 20 is not a threshold for a new technique
+
+“So when is the next threshold?”
+
+You’ll know it if you get there.
+
+Steve threw up his arms in frustration. “This is ridiculous. I should be able to plan my build.” he muttered.
+
+Donna had stopped pretending to rest several minutes ago. She sat upright, the heavy weight of the trident balanced flat across her knees.
+
+“Mine is Resonance,” she said, her focus shifting inward. “Two points in there gets me to clean tens in all attributes. One into Constitution, two into Resonance.”
+
+She brought the menu up and locked the choices in.
+
+CLOSED NADI MATRIX CIRCUIT ACHIEVED
+
+DONNA CALLAS - L20: STR 20 | DEX 36 | CON 23 | ACU 10 | RES 10
+
+She drew the Ether in, and when she moved her right hand, the limb snapped through the dark air, crossing the empty space in front of her a full half-beat ahead of where her physical frame should have been able to put it. She flexed her fingers, listening to the sharp click of her knuckles, and made a small, unimpressed sound.
+
+“Speed,” she said, her voice characteristically flat. “Of course it is speed. It is always speed with me.”
+
+“I think it is more than that,” Steve offered, as he watched the rapid movement of her fingers. “I think what you are experiencing is your body utilising your dexterity with the control that comes with Resonance.”
+
+Steve looked up at the violet interface. “Archie?”
+
+Mostly correct, Archie replied, his tone flat. Your closed Matrix grants control, not velocity. Speed remains a function of dexterity. You can move as quickly as before, but with a degree of stability that was impossible with an unlinked Nadi-Matrix circuit. Your archetype dictates how the ambient Ether interacts with the lattice.
+
+Arthur watched the violet lines settle, his back resting against the cold marble block. “Since we are paying attention to specifications, there are two phrases worth parsing. You said first stage of Nadi-Matrix evolution, and then you said for this stage. That implies a multi-tier upgrade path. More evolutions.”
+
+I am fully aware of my choice of syntax, Archie replied. Your current integration level does not warrant data disclosure on subsequent phases.
+
+“Which is a textbook confirmation that they exist,” Steve muttered, his pencil scribbling across the ledger. He gave a dry, self-deprecating laugh. “The absolute irony. I built the hypothesis, and I’ll be stuck with an open circuit tonight.”
+
+The pencil scratched as he allocated his points, the physical adjustments sending a subtle, aching knot through his shoulders as his baseline shifted. Two went into Strength, one into Dexterity. “One more level. Then we see what a closed circuit does for casting.”
+
+STEVE PARR - L20: STR 10 | DEX 9 | CON 15 | ACU 40 | RES 25
+
+Sarah took her turn last. She was staring down the same two choked biological paths Steve had just faced. She mirrored the distribution, committing two points to Strength and one to Dexterity, her jaw tightening as the systemic shift forced a dull ache into her neck.
+
+“Two more points in Acuity would push it to twenty-five, past the threshold,” she said in a tired voice. “But looking at my current state, I don’t think my nervous system could handle the shock of the transition tonight. Not out here in the dirt.”
+
+SARAH VASSILOU - L19: STR 10 | DEX 9 | CON 25 | ACU 23 | RES 26
+
+“Archie, how does this ambient draw interact with a Mender archetype?” Sarah asked, rubbing at the base of her skull.
+
+You will receive that data when the circuit is closed, Archie replied.
+
+Sarah let out a sharp, tired breath. “When are you going to stop withholding information? Our goals are the same.”
+
+My primary directive is observation, Archie stated.
+
+“You can keep telling yourself that if it helps you function,” Sarah said, her eyes narrowing as she looked at the hovering light. “But I don’t buy it.”
+
+The lines hovering in the air slowed and began to shift, folding into an intricate but slow sequence of geometric shapes. Archie stayed silent for a long moment.
+
+I am one tier away from a total System unlock, Archie said, catching everyone off guard. And you are one portal away from your final destination.

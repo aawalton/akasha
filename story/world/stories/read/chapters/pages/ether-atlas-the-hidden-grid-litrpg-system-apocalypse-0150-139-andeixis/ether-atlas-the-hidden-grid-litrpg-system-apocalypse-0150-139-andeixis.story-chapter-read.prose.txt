@@ -1,0 +1,299 @@
+Chapter 139
+
+The recruiting sergeant wrote sapper against my cousin's name, and my cousin, who had spent the walk to the muster deciding he was a grenadier, argued it the whole morning. He dug his first trench that winter under fire and never argued the word again. A man may pick the coat he wants to be buried in. His work picks the name they cut on the stone. — Codex of the Long Watch, A Field Observation, the siege-towns
+
+Donna packed away the map despite Steve's objections.
+
+"We finish the sub-specialisation and then you can go back to being a nerd."
+
+Steve watched it disappear into the field pack with the expression he reserved for a library closing early, then looked towards the path down through the pines.
+
+"Spyros might still be working on the hull," Arthur said. "We may as well do this here. Firm ground, open space and nothing nearby that sinks if Steve gets too excited."
+
+"I object to the phrasing," Steve said.
+
+"Didn't you want Meteor Swarm ten minutes ago?"
+
+"That was an academic curiosity."
+
+Donna set the pack beside a column and looked at the others. "We do one at a time, and we understand what each notification actually says before anyone starts firing things. Sarah decides what counts as safe."
+
+"How very democratic. A system of checks and balances powered entirely by spite," Steve said.
+
+"This isn't a democracy, Steve. It's a dictatorship. I'm the tyrant, you're the minion. Get with the programme," Donna said.
+
+"Arthur first, then. Tradition is tradition," Steve said, settling himself.
+
+Arthur sat on the edge of the outer platform and reached for the deferred notification. It opened the moment he stopped treating it as a message and supplied the intent it was waiting for.
+
+His Nadi-Matrix lit up all through his body and the world narrowed around a block of cold text.
+
+SUB-SPECIALISATION EVALUATION COMPLETE
+
+ARTHUR ASHWORTH
+
+SUB-SPECIALISATION: COUNTERGUARD
+
+DOMINANT PATTERN: FORCE REDISTRIBUTION
+
+TECHNIQUE INTEGRATION: CONTACT REINFORCEMENT / COUNTERFORCE PLANT
+
+TECHNIQUE EVOLUTION: COUNTERFORCE ROUTING
+
+There was no explanation around it, no convenient question-mark icon he could click for more context or a helpful list of uses.
+
+"Counterguard. Based around force redistribution, I think. Contact Reinforcement and Counterforce Plant have been integrated into Counterforce Routing. That's pretty much it. I would have liked a button labelled show me how not to kill myself," Arthur said.
+
+"Meaning what, in words the rest of us can use," Donna said.
+
+"It sounds like what you already do," Sarah said.
+
+"It does a bit, yeah."
+
+Steve had the ledger open again. Donna had apparently failed to pack that one away quickly enough.
+
+"Archie, are you allowed to tell us what it means, or do I have to get smacked in the gob until the Matrix takes pity on me?" Arthur said, looking up at the violet geometry.
+
+“The relevant information partition is open. Counterforce Routing is part of your active Matrix architecture, so I may explain its operation,” Archie said. His geometry had drifted down out of the light near the pediment and was turning at the slow rate that meant he was paying attention.
+
+“Contact Reinforcement now defines a continuous reinforced network through your body, your equipment and any structure you are physically touching and able to reinforce. While that network is active, kinetic force entering it may be caught reflexively, up to your existing storage capacity. Unlike the old Counterforce Plant, Routing lets you choose how much to release, when to release it and where, which includes anywhere in the network you are maintaining. The effect is not passive outside that network.”
+
+"Meaning what, in words the rest of us can use," Donna said.
+
+"I think what Archie is saying is that now I don't have to activate Counterforce Plant. As long as I'm running Contact Reinforcement, any force coming into the affected area, including what I block, is automatically banked. And then I decide where and how much comes back out."
+
+“That is a serviceable summary.”
+
+"So if I'm touching a wall, I could take a hit on the shield and send some or all of it into the wall," Arthur said.
+
+“Correct.”
+
+"That should be useful. Though it still does bugger all for range," Arthur said.
+
+“You have never shown the Nadi-Matrix any propensity for, or competence with, ranged weapons. This is not wish fulfillment.” Archie said matter-of-factly.
+
+Donna went next, reaching for the pending notification without hesitation.
+
+SUB-SPECIALISATION EVALUATION COMPLETE
+
+SUB-SPECIALISATION: INTERDICTOR
+
+DOMINANT PATTERN: THREAT INTERCEPTION
+
+TECHNIQUE INTEGRATION: TRAJECTORY PREDICTION / THRESHOLD DRIVE
+
+TECHNIQUE EVOLUTION: VECTOR INTERCEPT
+
+"Well? What is it?" Steve said, his pencil poised.
+
+"Interdictor," Donna said, turning the word over in her head.
+
+"You sound disappointed," Arthur said.
+
+"Not disappointed, surprised. I kill things, and I am pretty fucking good at it. That is all I've been doing for the last few months. That, and keeping Steve in check. Why would the Matrix read it as an interdiction?" Donna said after a long pause.
+
+“The Nadi-Matrix reads your intention, not your output,” Archie said. “You spend a considerable amount of your attention deciding which action in a room cannot be permitted to finish, and reaching it before it does. The killing is one way you interrupt an action. But that is not the pattern. The pattern is the interruption.”
+
+"Threat interception. What am I intercepting? A person or an action?"
+
+“An action. During Vector Intercept, Trajectory Prediction can commit to a hostile action and continuously calculate the shortest physically viable route by which you may reach it before completion, if a route exists. If the attacker changes direction, the route changes. Every correction consumes part of your Drive window and imposes additional stress on your joints and nervous system.”
+
+"Teleportation, phasing, a little supernatural blurring at the edges?" Steve asked.
+
+“She runs, Steven. She would run extraordinarily fast towards a specific goal. Walls would still matter, bodies in the way would still matter, and she would need traction to go anywhere.”
+
+"Good. It is something honest, at least," Donna said, nodding.
+
+"How many course corrections before you keel over?" Steve asked, looking up from the ledger.
+
+"We will have to test that, won't we?"
+
+"Right. My turn," Steve said, standing and shaking out his hands.
+
+"What are you loosening up for?" Donna asked.
+
+"I am composing myself." He opened the notification and went very still.
+
+SUB-SPECIALISATION EVALUATION COMPLETE
+
+SUB-SPECIALISATION: SIEGE
+
+DOMINANT PATTERN: ENVIRONMENTAL FIELD MANIPULATION
+
+TECHNIQUE INTEGRATION: MULTI-MODAL PROJECTION / SPECTRAL CONVERGENCE
+
+TECHNIQUE EVOLUTION: SPECTRAL FIELD
+
+"Siege," he said, and the flatness in his voice was worse than a shout. "It says Siege."
+
+"And?" Arthur said.
+
+"And nothing. Siege is not a class. There is no Player's Handbook in the history of the hobby where you roll up a Siege."
+
+"Well, to be fair, there is no Interdictor or Counterguard either," Arthur said.
+
+"Yes, but those still feel like classes. But Siege? That's not a class, that's an operation. You can lead a siege, you can survive a siege, but you can't be a siege. Am I a person or a tactical manoeuvre?"
+
+He turned to Archie. "I wanted a Wizard. I would have taken Artificer. I would, in a weak moment, have accepted Warlock and made peace with the patron."
+
+The Matrix is not playing a game, and it does not hand out the words you will feel good about. It interprets a pattern, Archie said.
+
+"I am an archaeologist. I have spent my whole adult life studying and preserving ancient structures. A siege."
+
+"And the Matrix has watched you since London and decided you're best at knocking them down," Donna said with a smirk.
+
+“You spend your time altering the conditions of a fight rather than producing a single effect and ending it. The Matrix has read that habit. The ice you spread across the ground last fight, the freeze you held over an area. It has given you the tool that behaviour was asking for,” Archie said.
+
+“Spectral Field changes the geometry of your projection. You establish a carrier channel through Harrow to a fixed volume within your normal range. Spectral Convergence closes the projection into a circulating source-and-sink pattern. As long as you maintain it, one selected energy mode accumulates inside that volume. The field remains fixed after establishment and affects allies, enemies and objects without distinction. You must remain largely stationary and maintain the carrier, and a separate major projection will collapse it.”
+
+"Say what now?" Arthur asked, a perplexed look on his face.
+
+"Area of effect. He means a channelled area-of-effect spell. I choose a volume that I need to affect and channel a projection across it. But it does not distinguish between friend and foe, so friendly fire is a possibility, and I have to be stationary."
+
+"So, like a wall of fire across a doorway. That could be useful," Arthur said.
+
+"Except it makes me feel like a trebuchet," Steve complained.
+
+"You'll come round to it. Steven 'Siege' Parr. That's got a nice ring to it, innit? It is positively epic compared to Arthur 'Counterguard' Ashworth or Donna 'Interdictor' Callas."
+
+"If you ever call me that, I will hurt you," Donna said, looking at Arthur.
+
+Sarah stopped monitoring everybody's vitals and opened her own deferred message.
+
+SUB-SPECIALISATION EVALUATION COMPLETE
+
+SARAH VASSILOU
+
+SUB-SPECIALISATION: ARBITER
+
+DOMINANT PATTERN: MATRIX ARBITRATION
+
+TECHNIQUE INTEGRATION: TRIAGE FIELD / GUIDED MENDING
+
+TECHNIQUE EVOLUTION: MATRIX GOVERNANCE
+
+"Arbiter," Sarah said. "Technique evolution to Matrix Governance, whatever that means."
+
+"That sounds ominous," Arthur said.
+
+"It sounds like a person who decides things for other people. We already have Donna for that," Steve said.
+
+"You are welcome," Donna said.
+
+Sarah looked up at Archie. "What does governance do?"
+
+“Triage Field maps compatible Nadi-Matrices within its sensing radius. Matrix Governance allows you to issue one of three instructions to a Matrix you can read and reach: restore, disrupt or arrest,” Archie said, floating over to where Sarah sat. “Arrest closes an active Matrix process whose pattern you can read. It does not permanently disable the technique. It simply interrupts the channel once.”
+
+"So restore is my regular healing, and that should mean disrupt is the Nadi-Matrix overload," Sarah said.
+
+“You have two available channels for Nadi-Matrix manipulation; that is how you can use ranged mending on two targets,” Archie replied. “Matrix Governance gives you finer control of those channels. Your channel numbers do not increase, but you can run one as an active channel and one as passive, or both as passive. Disrupt will let you overload a Nadi-Matrix, and now you can choose how much Ether to push in, while the target's Constitution decides how far you can push. These are not new techniques. They are all part of Nadi-Matrix manipulation.”
+
+Donna looked at Arthur, who was looking at Sarah.
+
+"You got all that?" Donna asked, and Arthur shrugged.
+
+"Right now I can't control my ranged mending. I'm much more effective when I touch someone," Sarah said, thinking aloud. "Now I can hold one of the channels active so that the ranged mending is just as effective, while the other stays passive."
+
+"So if I have a shallow cut and Steve has broken his leg, and you can't reach us physically, you can use the active channel to set his leg while just dumping Ether into me, since my injury isn't critical," Arthur said.
+
+"I think so," Sarah said, looking up at Archie.
+
+“That interpretation is correct.”
+
+"And now I can choose how much Ether to push into something to overload its Matrix."
+
+"All that is well and good. What was that about the arrest?" Donna said.
+
+"I can arrest a running technique."
+
+“Incorrect. You can arrest a technique running through a Matrix that you are familiar with. You know the patterns of your companions well enough to arrest Donna's Drive, Arthur's Counterforce network or Steven's field.”
+
+Sarah nodded and looked around. "Restore is Guided Mending. Disrupt is overload. Arrest is interruption."
+
+"I would like to register a mild concern about the direction of Sarah's professional development," Steve said, lowering the ledger.
+
+"You can register it over there," Sarah said, pointing to an empty patch of terrace. "We are going to test these before any of you decide you understand it."
+
+"Power has already gone to her head," Arthur said, shaking his head, and then gave a small shudder as Sarah sent a small Matrix-overload jolt through him.
+
+"Oi, none of that, now."
+
+It was Donna who came up with the test.
+
+She scratched a line across the dust with the heel of her boot, then paced six metres back and made another one. She wrapped a blanket around one of their packs and set it a metre beyond the first line.
+
+"Arthur starts at the back mark. On Sarah's signal, he runs the Counterforce network, commits to a shield rush and tries to knock that pack over. Once he's moving, I try to intercept the charge. If he reaches the marker, I fail."
+
+"You're testing whether you can stop the charge in time, and I'm testing what happens when you hit the Counterforce network."
+
+"Hopefully, you catch the force and put it into the terrace, and not back into me."
+
+"Two tests, one collision."
+
+"Now you understand drills. No weapons and no clever ideas."
+
+Sarah positioned herself near the middle, close enough to reach either Donna or Arthur through Farhand. Steve retreated to the side with Harrow and the ledger.
+
+Arthur lifted the Ironhold and activated Contact Reinforcement. The familiar charge ran through his body and the shield, but Counterforce no longer felt like a separate system being called on. It ran off his body and into the marble, and the column and the floor became a part of him. He could feel capacity threaded through the network, empty and responsive.
+
+"Ready," he said.
+
+Donna stood three metres from the line, off to his right rather than squarely in front of him. The moment Arthur leaned into the first step, she activated Vector Intercept.
+
+The lattice climbed her throat.
+
+Arthur had taken two strides when she moved, and there was the familiar blur and jump. Her first step cut across the angle between them, the second placed her outside the shield, and the third rammed her shoulder into the rim.
+
+The contact should have turned both of them. Instead, the force entered the reinforced rim and Arthur felt it arrive as something he could hold and manipulate. The earlier Contact Reinforcement would have needed him stationary; now the reinforced field moved with him.
+
+His right foot came down on the stone and he chose the path through his hip, leg and boot. The stored impact left him and went into the terrace. Dust jumped in a ring around his sole, but unlike earlier the floor did not crack.
+
+Donna had moved him half a metre sideways and his shoulder passed outside the marked line. He had caught and grounded the impact, but not quickly enough to keep his own movement clean.
+
+"Again," she said, dropping out of Vector. "You slowed down when you caught the force."
+
+"Actually, I think I can test mine while giving you two a new problem to deal with," Steve said, coming forward. "I'll create a pressure field across the middle two metres. Low intensity, lateral gradient. It should complicate Donna's route and your shield rush."
+
+"Should?" Arthur said.
+
+"The purpose of an experiment is to promote 'should' into something less embarrassing."
+
+Steve aimed Harrow at a point halfway between Arthur and the finish line. A pulse travelled from the rod and stopped in empty air. The Ether did not disperse; instead it folded and began to circulate through a volume Steve seemed to have chosen while initiating the technique.
+
+Dust was pushed sideways, and fine grains of rubble and marble slid across the terrace and stopped at an invisible edge. A dry leaf floated towards the shimmering patch of air, struck it and was turned away.
+
+Arthur reset behind the first mark. Donna was watching the dust pattern rather than him.
+
+"Ready," Sarah said, and Arthur drove forward.
+
+He felt the pressure on the shield as he entered the shimmering field. It was not a strike like Steve's concussive blast. It simply tried to deny him passage, pushing steadily from right to left and making every step cost more than the last.
+
+Donna entered Drive, and Arthur saw the moment Vector Intercept recalculated the route and changed its answer. Her weight had been committed to a line across his front; then her lead foot altered by a few inches and the rest of her body followed the correction. She went around the stronger portion of the field, skirted its edge and came at his shield from the opposite side.
+
+As she hammered the shield boss, the field caught her trailing leg. Her technique corrected immediately, but the correction was too sharp and her knee turned.
+
+Almost immediately Sarah's hand closed in empty air, and the channel through Harrow vanished and the pressure field collapsed.
+
+Arthur caught Donna's impact and this time sent it under a mound of rubble off to his left, instead of straight down into the floor. The rubble jumped.
+
+Donna dropped out of the Drive and stumbled a little before looking at Sarah.
+
+"You arrested it. Stopped Steve's channelling and my Drive."
+
+"Yes."
+
+Donna nodded, then reopened the Drive for less than a second. The lattice flashed across her throat and disappeared again.
+
+Sarah stared at her. "What do you think you are doing?"
+
+"Checking that it could reopen," Donna said.
+
+"If I stop you during a real fight, stay stopped until I tell you why."
+
+"Yes, mum."
+
+"This is rather disconcerting. One moment I was channelling, the next moment I wasn't," Steve said, staring at Harrow.
+
+"I know your Matrix. Archie said unfamiliar patterns will take time to read," Sarah said.
+
+Donna glanced up at the sky. "We still have some daylight left. Time for individual tests."
