@@ -20,5 +20,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0369B5Chapter57 = {
     },
   ],
   createdAt: "2026-10-21T20:06:06.403Z",
-  updatedAt: "2026-10-21T20:06:06.403Z",
+  updatedAt: "2026-10-22T00:05:50.733Z",
+  ownProgress: 1381,
+  progressedAt: "2026-10-22T00:05:50.733Z",
 } as const satisfies StoryChapterRead
