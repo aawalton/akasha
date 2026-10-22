@@ -1,0 +1,185 @@
+32 – Tempting Fate
+
+Evie rarely intruded on Hector’s sleep, but when he asked her to, she was excellent at it—far better than a jarring alarm. Her voice drifted into his dreams, and sometimes his mind would assign a role to her for a few moments until her words penetrated his cognition. Such was the case an hour or two after he’d gone to sleep in the cave. Once her soft, pleasant voice managed to break through the haze of slumber, she repeated her message:
+
+//Hector, the aura system is finished updating. I’ve generated a report for you.//
+
+He opened his eyes to find a flashing notification on his AUI, but he ignored it at first, taking stock of the cave. The air was thicker than he remembered, almost unpleasantly so, and he could hear the whining hitch of the air processor. What’s going on with the air processor?
+
+//I’m afraid the inorganic materials in your team’s equipment are beginning to lose their structural integrity; we’ve exceeded the standard window on the rift world. Mathews is likely trying to conserve the remaining biofilm for critical equipment and cybernetics.//
+
+I’d call the air processor critical…
+
+//Yes, but it’s a difficult piece of equipment to maintain, being as it has to run the rift air through its filtration system.//
+
+Hector grunted. It made sense; part of what made the minerals from the rift world special was the same thing that made Sol-based materials vulnerable on the planet—the air was thick with microscopic rift-born organisms that fed on or disrupted conventional metals, polymers, and composites. Putting the concern aside, he looked around.
+
+Mathews wasn’t in the cave, but Freddy was sleeping not far away. Kristy was playing some kind of card game with Paige, and the two techs were sitting up, eating and talking softly. Satisfied that things were—for the moment at least—status quo, he opened the blinking notification:
+
+//Corpus vivum conditioning complete and level advancement has been applied. Potentia investment resulting in new pathways has opened new corpus vivum enhancement opportunities and novel aura abilities. Level results are as follows:
+
+Aura Potentia Available: 302
+
+End Report.//
+
+Hector gave the numbers a double take, adding them up in his head. Damn…
+
+//The Reaver archetype is delivering on its “Elite” promise, isn’t it? You’ve rarely made so many attribute gains with a single level, even in your “old” life.//
+
+Yeah, well, I can see you’re itching to show me; what opened up?
+
+Another window appeared, and Hector, breath held in anticipation, read the report:
+
+//Available Abilities and Boosts:
+
+Level Advance 9 -> 10. Cost: 86 aura potentia.
+
+Enhanced Bone Density 2: Infuse potentia into the skeletal structure of your corpus vivum, further increasing density, resilience, and load-bearing capacity. Repeatable. Cost: 30 aura potentia.
+
+Phase Pathways 2: Enhance specialized aura pathways capable of limited matter-state transition, allowing for more pronounced versions of advanced movement, defensive, and offensive phase techniques. Cost: 100 aura potentia.
+
+Ghost Reaver: Slip into the veil, phasing out of physical space for a short time and enhancing your movement rate. Aura constructs will remain anchored in physical space and continue functioning while transitioned. Cost: 75 aura potentia.
+
+Critical Eye -> Apex Trance: With an infusion of aura, you will effectively double your Perception for a short time. As your Perception value transcends natural limits, you will experience moments of precognition, easing transition into the heightened mind-state of a battle trance. Cost: 75 aura potentia.
+
+Awaiting directive…//
+
+Damn, Evie, I can see why you were excited.
+
+//Ghost Reaver is on par with any of the strongest abilities we’ve uncovered in the past.//
+
+The other one, too. They’re not cheap, though, and these Reaver levels are ramping up in the potentia costs. Am I understanding this correctly? If I take that ghost ability, I’ll be able to phase out and still hit things with my Aura Blade?
+
+//Yes! Be cognizant, though: you’ll be untouchable to mundane attacks, but aura abilities will still affect you.//
+
+Right, and we don’t know how long it will last yet, do we—not until I buy it.
+
+//It would likely only last a few seconds, much like a Speed or Strength Boost.//
+
+Hector yawned, and the reflex reminded him to breathe normally again; he’d been holding his breath as he re-read the description for Ghost Reaver and Apex Trance several times. This was the first archetype he’d ever advanced that had opened up phase pathways, and the two abilities highlighted what he’d been missing out on.
+
+Briefly, he wondered if Evie was still exploring other archetype evolutions, but he discarded the thought. He might change at some point, but he felt there was much more to explore with the Reaver. Mentally, he tallied up the cost of all the available updates and quickly realized he couldn’t buy everything he wanted and take the next level.
+
+I think I’ll hold off on Apex Trance, Evie. I’ll burn through my aura pool pretty fast with my current abilities. Go ahead and purchase everything else, including the next level.
+
+//I think that’s a wise compromise. Hopefully, you’ll earn more aura quickly…considering your current situation. Please confirm: You want me to purchase Reaver level 10, Enhanced Bone Density 2, Phase Pathways 2, and Ghost Reaver for a total of 291 aura potentia, correct?//
+
+Yes.
+
+A new window appeared on his AUI with yet a third aura system message:
+
+//86 potentia applied. Corpus Vivum conditioning has begun. Approximately 10 hours to complete level advancement. Disorientation, weakness, and even fleeting incapacitation may occur. Extra caloric intake is recommended.//
+
+//Enhanced Bone Density 2 purchased for 30 aura potentia. Initiating aura pathway propagation. This process may cause aches and stiffness that will range from mild to debilitating…
+
+Phase Pathways 2 purchased for 100 aura potentia. Initiating aura pathway propagation. This process is likely to result in coordination deficits…
+
+Ghost Reaver purchased for 75 aura potentia. Initiating aura pathway propagation. Caution! Headaches and severe fatigue are likely! Extra caloric intake and sufficient hydration are essential!
+
+Integration of purchased abilities and boosts will be complete in 4 to 5 hours.//
+
+//Please take the warnings seriously this time, Hector, though the most severe side effects will manifest toward the end of the propagation window.//
+
+Hector grunted his agreement and then sat up. Kristy and Paige looked his way, and the biologist called out, pitching her voice just loud enough to be heard across the space, “Hector, if you’re up, I need to speak with you.”
+
+“Just a minute.” He stood and then walked over to the mule that held most of their food supplies. He took out two pouches of electrolyte-enhanced water and a handful of protein bars, then walked over to the two women, ripping the wrapper off the first bar.
+
+“You can sit here,” Kristy said, patting the bedroll beside her.
+
+Hector complied, though he felt like moving around; he had things he wanted to accomplish before his system kicked his ass again. After swallowing his first chocolate-flavored bite, he asked, “What’s the situation?”
+
+“Mathews is standing watch,” Kristy replied, then gestured toward the other side of the cave. “You can see what everyone else is doing.”
+
+“The air processor’s failing,” he observed.
+
+Paige nodded. “Right. That’s one of the things I wanted to talk to you about. We applied a fresh layer of biofilm to your helmet while you were sleeping, but we’re trying to conserve, so we didn’t cover the rest of your armor. It looks like you submerged your gun in muddy water, too. The bugs are having a heyday with it. It’ll probably start misfiring soon.”
+
+Hector glanced toward his bedroll where he’d left his rifle, still on the gimbal mount, and his helmet. “Dammit, I should have cleaned it as soon as I got back.”
+
+“Well, you got kind of distracted.” Kristy looked at the rock-filled crevice meaningfully.
+
+Hector frowned, looking at Paige again. “What else?”
+
+“I was reviewing my drone footage, and I think I found something.”
+
+“Something?”
+
+“An early attempt at a foothold, maybe? It looks like a human-made structure built into a hillside about four klicks to the south.”
+
+Hector shook his head. “Stuff we build here doesn’t last a full cycle.”
+
+Paige shrugged. “I know that. Still, the fact remains.” She tapped her fingers on her knee—a nervous gesture, maybe. “I mean, there are mixes you can use with local materials to make something like concrete. I wouldn’t be surprised if the IG built bunkers or stockpiles out of it.”
+
+“Mathews wants you to check it out,” Kristy said, stifling a yawn.
+
+“She does, huh?” Hector wanted to say something clever, but his heart wasn’t in it. The truth was that he’d enjoy the chance to head out and investigate something like that. He wanted to try to pick off another rift denizen or two, anyway. So, rather than argue, he took another large bite of his protein bar.
+
+“I’d go, but I don’t have squat for stealth talents,” Kristy added.
+
+Paige watched him chew, then asked, “Are you feeling okay, Hector? Did your system update go well?”
+
+He swallowed and nodded. “Fine. What about the drone? Did you send it for another look?”
+
+Paige sighed, shaking her head. “I tried, but one of the turbines failed and it crashed.”
+
+Kristy tapped his knee and then pointed toward the polymer curtain. “What about Mathews?” she whispered. “She seems normal, right?”
+
+“I was thinking the same thing.” He leaned toward Paige. “What do you know about it, Doc? Do aura fiends mimic a person’s personality so well?”
+
+She shook her head. “Usually the people they’re closest to can tell something’s off, but in many cases it’s explained away as PTSD or depression. I’m hopeful, but it’s hard to believe that Mathews, despite all odds, actually survived and made her way here—crawling—past more than a few rift scavengers.”
+
+Kristy blew out her breath, leaning back on her palms. “Put it like that, and I’m even more impressed with the mean old bitch than I used to be.”
+
+“She’s not old,” Paige and Hector both said. Paige clapped and said, “Twins! You owe me a candy bar.”
+
+The phrase was different from what he remembered, but he understood well enough. Chuckling, he nodded. “Sure. Soon as we get outta this shithole.” He stood, arching his back in a deep stretch. “I gotta hit the head, then I’ll go talk to the commander about going out for a scout.”
+
+Kristy held up the cards. “Sure you don’t want to play a game with us first? You just woke up.”
+
+“What game?” he asked, peering at the cards. They had detailed images of things like rockets and guns.
+
+“Moons. We’re playing for bullets.”
+
+Hector didn’t know what Moons was, so he said, “Nobody plays poker around here?”
+
+“I do!” Paige cried. “I tried to get her to play that, but—”
+
+Kristy scoffed. “So boring! My grandma plays poker.”
+
+“Classics never die,” Hector said, turning to the curtain that hid the waste recycler.
+
+“So? Join us?” Paige asked.
+
+“Maybe later. Gonna do that scout run before my system hits me again.”
+
+Five minutes later, ensconced in his helmet and feeling much nimbler without his rifle and its mount, he worked his way up the tunnel to the battery of auto-turrets. Mathews was there, her helmet’s visor tilted toward the darkening sky. It was never bright on the rift world, but there were rifts that opened into much warmer, less gloomy climes. Still, in the fading light, the thickly layered clouds were almost pretty; some moved quickly on the wind, and others were almost like permanent fixtures.
+
+“Hard to believe we’re not even in our universe,” the commander said as he approached.
+
+“Do we know that?” Hector asked, stopping beside her.
+
+“Does it feel like our universe to you?”
+
+“Not exactly, but if you took someone from Earth to Io, someone who didn’t know a thing about the Jovian System, they might think they were in a different universe, too.”
+
+“Point made.” She glanced at him, and her eyes traveled down to his well-stained armor. “No rifle?”
+
+“Probably a bad idea to rely on it at this point.”
+
+“We have some spare SMGs on one of the mules.”
+
+“I’ll just count on my Aura Blade.”
+
+She turned her visor back toward the sky and didn’t comment for a moment. Hector was the wrong person to try to win a game of patience with, though, and after a while, she said, “You’re going to scout the structure Paige found?”
+
+He nodded, glancing at the corner of his AUI. Evie had placed several countdowns there—his level update, his aura ability updates, and her estimate for when the rift would shift again. “We’ve got 119 hours until that rift opens. I might as well try to be a little productive.”
+
+“Don’t want to bring the kid? His armor’s got active camo.”
+
+“Nah, he’ll just slow me down. Besides, if something wanders this way, you’re going to want him here.”
+
+She didn’t reply for a long few seconds, and then she nodded. “Well, do me a favor and find something that’ll keep me from going bankrupt when we get out of this damn place.”
+
+Hector clapped her shoulder, then jogged into the strange twilight, following the ridgeline in the general direction of the destination marker Evie had put on his mini-map. He figured he’d have plenty of time to get to the location and back before his system started messing with him. Of course, as soon as he had the thought, he wished he hadn’t. Come on, man. Don’t jinx yourself.
+
+//Generally, I put little stock in superstitions, Hector, but I agree. Don’t tempt fate!//
