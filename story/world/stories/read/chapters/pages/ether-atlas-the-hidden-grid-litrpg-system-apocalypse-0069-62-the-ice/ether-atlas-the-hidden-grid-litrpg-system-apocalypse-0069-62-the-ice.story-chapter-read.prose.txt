@@ -1,0 +1,253 @@
+Chapter 62
+
+"A pendulum swings both ways. A breath moves both ways. A channel flows both ways. The candidate species frequently discovers only the first of these and is satisfied." — Codex of the Long Watch, Pedagogical Notes
+
+"So are you the chosen one? Like Paul Atreides?"
+
+Arthur nearly broke stride. Steve snorted.
+
+"Yes, Arthur," Donna said. "Are you the chosen?"
+
+"I'm a structural engineer from Camberwell who got conscripted by a floating geometry. Chosen isn't the word I'd use."
+
+"Archie chose you," Sarah said. "Out of everyone on the planet."
+
+Archie's geometry brightened.
+
+"I explained this on the first day. Donna asked why I selected Arthur. I said: observed behavioural patterns demonstrating consistent prioritisation of non-self survival outcomes. Steve translated. Donna confirmed. Arthur called it a character flaw." A pause. "It is not a character flaw."
+
+"After planetary activation, I observed Arthur intervene in life-threatening situations within the first few hours. He checked pulses on strangers he could not save. Positioned himself between threats and civilians he had never met. He assessed his own survivability at no point."
+
+Archie's geometry rotated slowly.
+
+"The Nadi Matrix classifies this as compulsive structural response. Arthur does not choose to hold the load. He is incapable of choosing otherwise. Across seventeen integrations and twelve planetary bodies, this behavioural signature is the single strongest predictor of candidate viability I have observed."
+
+Nobody spoke for fifteen paces.
+
+Donna looked at Arthur. "Aww. Archie likes you."
+
+"I do not experience preference. I report data."
+
+"He likes you."
+
+Arthur filed it where he filed everything too heavy to carry in the open.
+
+"Well," he said. "If I am the chosen, and I'm not saying that, I hope it ends better for Earth than it did for Arrakis."
+
+Sarah frowned. "What happened on Arrakis?"
+
+"Sixty-one billion dead. Paul Atreides saw it coming and couldn't stop it."
+
+Sarah was quiet for a dozen paces. Then she smiled. Small and real, without anything sharp behind it.
+
+"So an intelligence thousands of years old chose you because you hold things up and get in front of danger," she said. "And your two D&D friends went along for the ride to watch your back." She looked at him. "I could have done a lot worse for a party."
+
+Steve, from behind them: "You never split the party."
+
+* * *
+
+The herd came from the southwest. Six shapes across the flat karst, long-legged and closing fast.
+
+"Company," Arthur said.
+
+Donna turned. "Six. Spread formation. Two hundred metres."
+
+Steve raised the rod. "Those aren't goats."
+
+These were cervid-derived. Deer or horse stock, rebuilt for speed across open ground. Antlers thickened into forward-facing rams. They moved as a herd, and the herd had a target.
+
+"Too many for a stand-up fight," Donna said. "Too fast to outrun. No chokepoint."
+
+There was flat limestone in every direction. No walls, no ruins, nothing Arthur could use as a chokepoint.
+
+"Steve, ideas?"
+
+Steve was already working, hands tight on the focus rod.
+
+"Speed. Speed is the problem," he muttered.
+
+"We could do with a grease spell right about now," Arthur said, positioning himself.
+
+Steve's eyes lit up. "Oh, that's brilliant."
+
+"If thermal excitation works in one direction, deceleration should work in the other. Pull the heat out instead of pushing it in." He raised the rod toward the limestone ahead of the charging herd. "I need thirty seconds."
+
+"You've got fifteen," Donna said, eyeing the herd.
+
+Steve planted the rod's tip against the ground and channelled.
+
+The air changed. Arthur felt it on his face, a cold that had no business existing on a Mediterranean island in late September. Moisture on the limestone crystallised in a spreading arc, frost racing outward from the rod's contact point. Twenty metres across, then thirty, and the stone turned white.
+
+The herd hit the ice at full stride.
+
+The lead animal's hooves found no traction on frozen stone. Its front legs went sideways. Momentum carried the body into a tumbling skid and tangled the ones behind it. Four went down. Five, maybe six hundred kilograms of calcified antler and panicked muscle on a surface their bodies had no reference for.
+
+Arthur went in to take advantage of the confusion. He made it four steps before his boots betrayed him. Hip struck frozen limestone, the shock running up his spine. He tried to stand, and his feet slid on the same surface that had taken the herd down.
+
+Ten metres away, a creature found its footing. It skidded while keeping its antlers forward.
+
+Arthur managed to gracelessly stand up and triggered Structural Reinforcement. His legs locked, the technique driving through the ice into stone. The creature hit his shield and folded, its own momentum snapping its neck against reinforced steel.
+
+He released the technique and swung the hammer at a second creature. The hammer connected with skull plate, and the follow-through dragged his centre of gravity past his base of support. His left foot slid and he went down. Something punched through his vest below the ribs. An antler. The pain arrived bright and real, blood soaking through his shirt.
+
+Donna was a different proposition. She'd read the surface the moment her boots touched it. Weight centred, steps short, Trajectory Prediction mapping each animal's recovery arc before it completed. The axe took the first across the throat. Momentum carried her into a controlled turn that put the blade through the second's spine.
+
+Arthur couldn't walk on this surface. Donna was dancing on it.
+
+Steve held the freeze until his body gave out. The rod was coated in white. His fingers had gone numb, and the numbness was climbing his forearms. He released the channel and caught the rod against his chest with hands that couldn't close.
+
+Donna slid towards the remaining two, dodging antlers and hooves while slashing at the exposed flanks. Every time the creatures tried to turn and face her, they lost balance and gave her more time to do her grisly work.
+
+Arthur dragged himself clear and Sarah was there. Her hands found the antler wound below his ribs, warmth flooding in immediately, fingers tracing the puncture track with a surgeon's certainty.
+
+"Through the external oblique," she said. "Missed the peritoneum." Her fingers traced the wound track a second time, slower.
+
+"This should be deeper. An antler at that velocity, through muscle wall, at this angle." She looked at the entry point again. "Your tissue stopped it early. The density is different from this morning." She sat back on her heels. "That threshold saved you an organ."
+
+"Doesn't feel like it saved me anything."
+
+"It feels like an antler in your ribs. I know. Hold still."
+
+Blue text scrolled as the last creature stopped moving.
+
+ETHER ABSORBED: +945 (6 KILLS)
+
+PARTY INTEGRATION: 2,430 / 1,968
+
+LEVEL UP: LEVEL 14
+
+INTEGRATION: 462 / 2,200
+
+The restructuring hit while Sarah's hands were still on his ribs. She felt it under her fingers, the tissue density shifting mid-heal.
+
+"Your body just did it again," she said. "Levelled up?"
+
+"Level 14."
+
+"Warn me next time."
+
+"I'm not sure the system would be interested in my opinions on timing."
+
+Archie waited until Sarah's hands came away from the sealed wound.
+
+"Your channel isolation on endothermic projection was approximately forty-one percent," he told Steve. "The remaining fifty-nine percent cooled the ambient air within a twelve-metre radius. Your companions' discomfort could have been avoided."
+
+Everyone's breath was still visible. Donna rubbed her axe hand against her thigh.
+
+Steve looked at his frosted rod. At the melting ice and the six dead creatures on it.
+
+"I just invented ice magic," he said.
+
+"You froze my axe hand."
+
+"But also. Ice magic."
+
+"My fingers are still numb, Steve."
+
+"Ice. Magic."
+
+Archie's geometry drifted past the melting field without comment on whether the endothermic projection represented a meaningful tactical development. Steve watched the geometry rotate away. He opened the ledger and wrote something that had nothing to do with creature taxonomy.
+
+Sarah straightened up from Arthur's side. Blue text filled her vision.
+
+ETHER ABSORBED: +1123 (6 KILLS)
+
+LEVEL UP: LEVEL 10
+
+INTEGRATION: 921 / 1,533
+
+ARCHETYPE RECOGNITION AVAILABLE
+
+She stiffened.
+
+"Level 10," she said. "And something called Archetype Recognition. It wants me to accept."
+
+Steve was on his feet. "Don't. When we accepted ours in Marseille, the recognition restructured our nervous systems. I lost motor control. Donna's perception burst went involuntary. Arthur's body locked rigid." He held up a hand. "It's safe. But you need to be somewhere secure when it fires."
+
+Sarah looked at the notification only she could see. The doctor in her wanted to understand what was happening inside her own biology. The same doctor understood that you didn't begin a procedure in an unsecured field.
+
+"When we stop," she said.
+
+* * *
+
+They walked, and the shield-strike responses came faster. Arthur hit the shield every few hundred metres, and the answer arrived before his knuckle left the metal.
+
+Two hundred metres on, Arthur passed a fig tree growing out of a collapsed boundary wall. The branches reached over the track at head height, heavy with late-season fruit, the air around it thick with the smell of warm honey.
+
+He picked one and bit into it before the thought finished forming.
+
+"Arthur, don't—"
+
+He had half the fig in his mouth.
+
+Steve had his hand half-raised. His mouth stayed open. Then his expression went from alarm to something else.
+
+"...actually."
+
+Arthur stopped chewing. "Actually what."
+
+"We've been eating Cédric's dried meat for a week. We drank from a stream yesterday that had algae blooming purple. Nobody's been sick."
+
+Donna stopped walking. "Steve. How many fields have we walked past?" she said slowly.
+
+Steve looked back the way they had come. Olive trees on the slope. A lemon tree gone wild against a stone wall. Wild thyme along the verge. A second fig tree fifty metres back that none of them had registered as food.
+
+Arthur swallowed. The fig tasted like a fig. Sweeter than he remembered, maybe, but he had not eaten a fresh fig in years and could not be sure.
+
+"Archie, are Ether-saturated fruits and vegetables edible?" Donna asked.
+
+Archie's geometry rotated once. "The Nadi Matrix processes ambient Ether at the metabolic level. Trace concentrations in food and water are absorbed into the carrier's reserves. The biological substrate is digested normally. This applies to all consumables below dungeon-saturation thresholds."
+
+"You could have mentioned this," Donna said.
+
+"You did not ask."
+
+"We have been eating ration bars," Donna said. "For weeks. There are orchards. There are vegetable gardens going wild. There is a lemon tree right there."
+
+"In our defence," Steve said, "the world ended and there were a lot of other things to think about."
+
+"In our defence, we are idiots. We could have had lemon with the Earl Grey," Arthur sighed.
+
+Donna walked back ten metres, reached up into the second fig tree, and pulled down four. She passed them around without comment.
+
+Arthur took his and looked at it. Three weeks of dried meat, ration bars, and protein paste. He bit into the second fig.
+
+This one definitely tasted sweeter.
+
+Steve still had the ledger out as they cleared the orchard.
+
+* * *
+
+The terrain dropped into a shallow valley. Beyond it, the outskirts of a town climbed across the rising ground. Limestone buildings, flat roofs, a church dome catching the late afternoon light.
+
+Arthur struck the shield again. The pulse went forward, down into the valley, and the response came back from below. Straight down.
+
+Steve stopped walking.
+
+"That's Paola," he said. "The Hal Saflieni Hypogeum is underneath that town. Three levels carved into solid limestone with antler picks and stone tools. Five thousand years old. Somewhere at the bottom, there's a node that's been pulsing since the sky changed."
+
+"Five thousand years of people living above it with no idea what was under their feet."
+
+Arthur found the farmhouse fifty metres off the track. Stone walls, barrel vault, and a solid door. He checked the lintel and the vault. Both were sound.
+
+"We camp here," he said. "We eat what's left of Cédric's provisions, get some sleep, and get Sarah's recognition done. We don't go in tired and we don't go in hungry."
+
+Donna was already inside, clearing debris. Steve and Arthur stood in the doorway, looking out across the valley. Sarah lowered herself against the wall and laid her palms flat against her thighs. Her hands were trembling from six hours of healing and a recognition notification she could still feel waiting behind her eyes.
+
+Arthur set the shield against the wall and struck it one final time. The response came from beneath them. Deep and patient.
+
+THE ETHER ATLAS: FIELD NOTES OF STEVEN PARR
+
+Central Malta
+
+THE REVERSIBILITY PRINCIPLE
+
+Thermal excitation pushes energy into a target. Endothermic projection pulls it out. Same channel. Opposite direction. The Ether does not care which way it flows.
+
+If thermal works bidirectionally, concussive should too. Push is explosion. Pull is vacuum. I have not tested this. I am noting it because the implications are significant and because my hands are still numb from the first attempt.
+
+Resonance may also reverse. If I can identify a target's resonant frequency, the opposite phase should cancel it. Destructive interference at the channelling level. This is not fire. This is not ice. This is the Ether equivalent of noise cancellation.
+
+Archie watched me freeze thirty square metres of limestone and said nothing. He rotated away without comment. He does that when the candidate's party discovers something he expected us to discover later.
+
+✎ Every technique I have learned so far has been one-directional. Push fire. Push force. Push resonance. Today I discovered the channel works in reverse. If the system intended each technique to have a mirror, I have been using half of my toolkit for thirteen levels.

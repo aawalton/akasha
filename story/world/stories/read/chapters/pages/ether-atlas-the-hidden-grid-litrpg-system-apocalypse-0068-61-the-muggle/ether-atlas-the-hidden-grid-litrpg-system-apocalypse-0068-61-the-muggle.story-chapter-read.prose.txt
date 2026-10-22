@@ -1,0 +1,211 @@
+Chapter 61
+
+“Started a taxonomic index in the ledger. Someone has to name these things properly. Donna says I’m the only person alive who worries about academic rigour during the apocalypse. I’m choosing to take that as a compliment.” — Steve Parr, Field Notes
+
+Arthur woke to grey light through the chapel's single window and the sound of Donna sharpening the axe against limestone.
+
+Sarah was already up, sitting near the entrance with the Reacher across her knees. Her hands were steady. Two days ago they hadn't been.
+
+He got up and stretched, hearing satisfying pops and cracks. Sarah's work yesterday had held. His shoulder and wrist felt ready for action.
+
+Steve was unwrapping the last of the dried meat and dividing it into four portions. He passed one to Sarah without looking up.
+
+"Here, eat. You burned through everything healing yesterday."
+
+She took it. "I would also commit a minor crime for hot tea right now."
+
+"Did you say tea?" Donna looked at Steve and smiled. Steve groaned.
+
+"Well, I wouldn't mind some myself," Arthur added, smiling.
+
+"What?" Sarah was looking between them.
+
+Donna pulled four metal cups from her pack and lined them up on the chapel floor. She filled each from the canteen, dropped a tea bag in, then looked at Steve and smiled.
+
+"Your turn."
+
+Steve set the rod down and cupped the first mug in both hands. The metal warmed under his palms in seconds. He held it until steam rose, then passed it across to Sarah and reached for the next.
+
+Sarah watched him do the second cup, then the third. She wrapped both hands around her mug and breathed into the steam.
+
+"This is unfair," she said, smiling. "You're a wizard and a kettle."
+
+"Steve's a kettle, a flashlight, and a battery pack," Donna said. "He's the most useful piece of equipment we own."
+
+"I am sitting right here."
+
+"Arguing lowers the utility value of equipment."
+
+Sarah laughed, and the sound surprised everyone, including her.
+
+Arthur took his cup from Steve and held it against his chest. The warmth carried through his shirt. Three weeks ago he would have called this a parlour trick. Now he watched a man heat metal with his hands and thought about thermal conductivity coefficients. He took a long sip and sighed.
+
+"Allocation," he said, when the cups were empty. "Then we walk."
+
+Donna went first and followed a familiar pattern. She put three into Dexterity, two into Constitution, and one into Strength. The allocations took their familiar thirty seconds each and finished without ceremony.
+
+Steve went next, adding four to Acuity and two to Resonance.
+
+"I'm happy with twelve CON right now. I need to be able to throw more Ether around."
+
+"Can't argue with a fireball in the face," Arthur said, and went next.
+
+He started with Strength, as those would be the easiest. Three points: STR 26, 27, 28. Clean and efficient. The familiar rewriting of muscle fibre along pathways the Nadi Matrix had carved over thirteen levels. He'd passed the Strength threshold, and these were just increments now.
+
+Steve was cross-legged opposite him, ledger open. "Con next?"
+
+"Con next."
+
+The first point went as always. CON 24. The restructuring rolled through him: connective tissue tightening and bone matrix densifying. The second point was something else.
+
+At CON 25 the restructuring hit as weight, not heat. As if gravity had found a second gear and his body was the only thing in the room it applied to.
+
+His torso locked rigid. His ribcage compressed inward and would not expand. The air in his lungs sat trapped behind walls that were being rebuilt around it. His Nadi Matrix flared beneath his skin, not the clean blue-white trace he'd seen at STR 25 but a deep pulse that throbbed once through his entire skeleton and stayed lit.
+
+He felt his body changing from the inside. His skeleton grew heavier, the mineral matrix compressing beyond anything human biology was designed to achieve. His ribs thickened. His vertebrae locked tighter into the column. The cartilage between his joints hardened into something that felt less like cushioning and more like gaskets in a pressure vessel. His organs tightened against their housings, membranes condensing, the lining of his chest cavity upgrading from tissue to something closer to armour plating from the inside out.
+
+He was heavier. The balls of his feet bore harder into the stone than they had before this change. It was the same body and the same frame from the outside, but the material spec had changed. Standard-grade concrete to high-performance mix. Fundamentally harder to break.
+
+Finally the compression released. His diaphragm shoved downward, and air flooded in, his lungs expanding against a ribcage that felt different. The second breath came easier. The third felt almost normal.
+
+ATTRIBUTE THRESHOLD: CON 25
+
+STRUCTURAL INTEGRITY UPGRADE ACHIEVED
+
+He found Sarah on her knees beside him before the gasping stopped. "Arthur. Can you hear me? What are you feeling?" Her hands moved to his wrist, then his neck, checking pulse at two points. Her eyes tracked his pupils.
+
+Donna had a hand on her shoulder. She had obviously tried and failed to keep a doctor from a patient the doctor thought was in distress.
+
+"I'm fine," he said. "It's the threshold. Steve had one. Donna had one. Even I had one for Strength before."
+
+"You stopped breathing. Your skin flushed head to toe, and your core temperature spiked." She set two fingers against his forearm and frowned. "Your bones are denser. I can feel it through the skin. The radius feels like palpating through a centimetre of wood." She looked up at him. "What did it do to you?"
+
+"He crossed a threshold," Steve said, pen already moving. "All attributes hit a threshold at twenty-five, fundamentally changing them. Dexterity at twenty-five restructured Donna's neural processing. Acuity at twenty-five restructured my channelling architecture. Constitution at twenty-five just restructured his material properties." He looked at Arthur. "What does it feel like?"
+
+Arthur pressed his knuckles against the chapel wall. The hand sat heavier on the stone. "Heavier," he said. "Denser. Like someone swapped the rebar for structural steel but didn't change the drawings."
+
+He allocated the third point to CON 26 and it went clean. The threshold was behind him.
+
+Sarah sat there watching Arthur. A man's bones had grown heavier inside his body. The medical professional in her wanted a lab, a scanner, and about forty blood tests.
+
+"Twelve points," Steve said, pulling her attention back. "CON keeps you alive and controls Ether recovery between heals. Acuity is your throughput, and Resonance is your control. Cleaner channelling, more precision per unit of Ether."
+
+Sarah looked at Arthur. "Is he always like this with the numbers?"
+
+"Since forever. The apocalypse had nothing to do with it," Donna said, moving her axe in practised arcs. "Just be thankful Arthur isn't joining in with his 'I'm an engineer, so I'm a number god.'"
+
+"Hey, what did I do to get pulled into this?" Arthur complained.
+
+She turned back to Steve. "Donna mentioned something about Level 10. What happens then?"
+
+Steve's face did the thing it did when someone asked him about a dig site. "The system watches how you fight. How you allocate. How you respond under pressure. It is collating data, building a model of you. Ten levels of data, and then it tells you what you are." He paused. "Arthur's a Guardian. Donna's an Executor. I'm a Conduit."
+
+"It diagnoses you," Sarah said.
+
+"The Matrix observes," Archie said from above the doorframe. "It does not assign. It recognises. The archetype is a formalisation of the behavioural pattern you have already established. You do not receive a title. You receive a recognition of what you already are."
+
+"What if it's wrong?"
+
+Archie's geometry rotated. "Define 'wrong.'"
+
+"What if I'm more than what it's seen so far?"
+
+"Then subsequent developmental thresholds will provide additional data. The initial recognition is a starting point. It is not a ceiling."
+
+Sarah took a deep breath. "Here goes nothing."
+
+Two points into Constitution, five into Acuity, five into Resonance. It went smoothly, although the twelve points took over two minutes to allocate, with Sarah grimacing at intervals.
+
+"CON gives me the recovery base. ACU increases my Reserves for longer engagement, and RES makes every heal count more." She opened and closed her fists. "I've been triaging on limited resources since my second year of medical school."
+
+Steve recorded the updated numbers in the ledger.
+
+ARTHUR ASHWORTH - L13: STR 28 | DEX 8 | CON 26 | ACU 6 | RES 10
+
+DONNA CALLAS - L13: STR 14 | DEX 32 | CON 18 | ACU 6 | RES 8
+
+STEVE PARR - L13: STR 7 | DEX 7 | CON 12 | ACU 33 | RES 19
+
+SARAH VASSILOU - L9: STR 7 | DEX 8 | CON 19 | ACU 13 | RES 19
+
+* * *
+
+They left the chapel after another hour of rest. Arthur struck the shield as they cleared the doorway. The pulse went inland. The response came back in under a second.
+
+"Closer," Steve said.
+
+"Much closer."
+
+The terrain ahead opened into flat karst. Low scrub, exposed limestone, rubble walls lining abandoned fields.
+
+Steve had the ledger out before they'd covered two hundred metres.
+
+"Capra Mutabilis," he said, writing as he walked. "The Maltese Skull-Goat. Goat-derived, characterised by calcified cranial plating and a tendency to charge at anything that makes a sound."
+
+"You're not naming them," Donna said.
+
+"The scientific community will thank me."
+
+"What scientific community?"
+
+"The future one. When this is over and someone needs a reference text, I'll have laid the groundwork." He held up the ledger. "Lacerta Loricata for the lizard-type. And I'm still working on a name for the pipe snake."
+
+"How about 'the thing that tried to eat Sarah,'" Donna said.
+
+"That's not Latin."
+
+"Serpens Sarahvorus."
+
+Steve looked at her, barked a laugh, and wrote it down.
+
+The first creatures came forty minutes in. Three goat-derived from a collapsed livestock pen. Arthur took the animals on the shield while Donna and Steve finished them. Sixty seconds.
+
+"You three are frighteningly good at this. The Baron took me to hunts for passive Ether absorption. Those fights were three on one, and there were injuries routinely," Sarah observed.
+
+ETHER ABSORBED: +285 (3 KILLS)
+
+PARTY INTEGRATION: 1,285 / 1,968
+
+SARAH INTEGRATION: 866 / 1,328
+
+They passed rubble walls along the track. Dry-stacked limestone, each stone fitted to its neighbour by weight and geometry. Arthur ran his hand along the top course. Still solid after a century.
+
+"The Maltese practice of dry-stacking limestone without mortar," Archie said, unprompted, "is structurally inferior to the Tessarai method of interlocking crystalline blocks. The Tessarai achieved unsupported spans of fourteen metres. These walls achieve approximately two point two." Archie's geometry rotated once. "They have, however, outlasted the majority of human construction I have observed across millennia. That is a low bar, but it is met."
+
+Arthur looked at the wall again. "The coursing's good. Someone understood load paths."
+
+"Agricultural workers," Archie said. "Not engineers. The distinction, in this instance, appears negligible."
+
+Two more creatures hit them from a drainage gully. Donna handled both while Arthur covered Sarah.
+
+ETHER ABSORBED: +200 (2 KILLS)
+
+PARTY INTEGRATION: 1,485 / 1,968
+
+SARAH INTEGRATION: 1,126 / 1,328
+
+“DPS is holding, at least for the overland fauna,” said Donna putting her axe back in her belt.
+
+"What's DPS?" Sarah asked as they walked.
+
+"Damage per second," Steve said. "Gaming term. Donna deals the damage. Arthur aggros and soaks damage. I provide ranged DPS and control."
+
+"And I patch up the soaker. What's aggro?"
+
+"When Arthur strikes his shield, everything nearby decides it wants to hit him instead of us. He generates threat."
+
+Steve grinned. "Oh, this is like bringing a muggle into the fold. There's so much to cover."
+
+Arthur laughed, and the sound surprised him.
+
+Sarah looked at Arthur. "You volunteered for a job where the primary requirement is being attacked."
+
+"Somebody needs to hold the line."
+
+"From a medical perspective, that's an appalling career decision."
+
+"He's been told. And Steve's been waiting two weeks for someone new to explain all this to," Donna said without turning.
+
+They were two kilometres inland when Sarah said it.
+
+"So are you the chosen one? Like Paul Atreides?"

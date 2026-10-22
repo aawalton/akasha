@@ -1,0 +1,213 @@
+Chapter 66
+
+“The room remembers what the dead were taught. The room remembers in pitch.” - Codex of the Long Watch, On Tuned Spaces
+
+The stairs to the second level spiralled counter-clockwise, tight around a centre pillar that had been carved out of the living rock. Arthur went down them with his shield on his right and the hammer in his off-hand. The blue ether-glow that had been a thin wash on the L1 walls thickened around him until the limestone looked wet.
+
+Steve was three steps behind, focus rod held low. Sarah was behind him and Donna brought up the rear, watching the upper landing.
+
+Arthur registered the change in the air and sound on the fifth turn. His footfalls came back clean and a half-note higher than the steps before. He tapped his shield lightly against the limestone and the ring lasted a beat longer than it should have.
+
+The chamber at the foot of the stairs was wider than anything on L1, and the workmanship had changed. The walls were smooth where the upper level’s had been chipped and rough. They carried the same blue ether-glow but it was brighter, as if the limestone itself was holding the light.
+
+Above Arthur, the ceiling was concave with the rock stepping inward in three rings of overhanging stone, a stack of bands drawing in toward the centre. The ceiling was wreathed in shadows, and faint red spirals still clung to the walls.
+
+Steve came up alongside him, looking around the chamber. He pointed up at the ceiling directly over their heads, where the rock dipped low before opening into the wider space beyond. His finger then tracked the room’s length to the far wall, and lifted to a flat ledge of rock cut into that back wall above head height, projecting half a metre out into the chamber.
+
+“Look at the shape,” he said quietly. “The ceiling drops at the doorway. The room runs long from here to the back wall. The walls curve inward as they go. And that shelf is cut deeper than any shelf needs to be. The whole chamber is one piece. A funnel for sound.”
+
+“Decorative?”
+
+“Functional. Whoever cut this knew what shape a chamber had to be to catch a sound and ring with it. Every surface in here is shaped for that.”
+
+Steve shook his head, more to himself than anyone. “And it isn’t only here. Newgrange in Ireland. Maeshowe in Orkney. Half a dozen others scattered across Europe, all prehistoric, all cut by cultures with no proven contact between them. All tuned to the same low band, within a hertz or two of each other. And the frequency they kept choosing has measurable effects on the human brain. We needed fMRI to find that out.”
+
+“And they did it with antler tools,” Arthur smirked.
+
+“Go figure,” Steve said, looking up at the corbelled rings. “Whatever they were doing in here, they were doing it together. And they were doing it on purpose.”
+
+Archie’s voice came from a point over Arthur’s left shoulder. “Ambient Ether content in this chamber is structured. The substrate is responding to it. This is consistent with engineered acoustic environments observed at three other regional sites. The chamber is an instrument.”
+
+While the party was still gaping at the walls, a shadow on the ceiling moved.
+
+A section near the apex was darker than it should have been, and the darkness reorganised itself while Arthur watched. He took it for bad lighting until the reorganisation happened a second time. The third time, his eye found the shape of what was hanging up there.
+
+The vault was full of bats.
+
+They were calcified at the wing edge, eyeless heads gathered into clusters of teeth where a normal face would be. Folded into themselves, packed together so densely that the apex of the corbelling had read to him as ceiling instead of as a single living mass. The first one dropped while he was still counting them. Then ten. Then the whole roost.
+
+* * *
+
+Arthur swung the Ironhold up and a body hit it before he’d finished the motion.
+
+Wing-edges scoured the rim with a sound that lived somewhere between a saw and bone on bone. He swung his hammer and caught two of a few hundred. Another hit his shoulder, small claws digging in. Another bit his neck. The swarm was at the party. Donna was waving her axe frantically, killing multiple bats with each strike but the mass hardly thinned.
+
+“Cone!” Donna shouted.
+
+Steve’s focus rod came up. The thermal cone burst out of it in a fan thirty degrees wide and hot enough to flash the air to mirage. A wedge of bats died in mid-flight, dropping in a curtain of bodies, and the rest of the swarm reorganised around the dead zone like water around a stone.
+
+They were on the four of them again three seconds later. The fireshow had bought nothing.
+
+“Damn it, it’s the damn rats all over again,” Steve cursed.
+
+Donna was a kite of biting bodies. Her axe was working but the targets were small and fast and in three dimensions at once, and Trajectory Prediction wanted a vector, a single committed line. She had thirty.
+
+Arthur planted and triggered Contact Reinforcement on instinct. The blue lines ran out of him into the floor and had no effect on the swarm. Of course it didn’t. The L1 creatures had hunted by substrate vibration and his bubble had been silent to them. These were reading echoes off air, and the floor under his feet meant nothing. He cursed and let the technique drop.
+
+Sarah’s hands were everywhere. Steve’s forearm, Donna’s neck, Arthur’s back while trying to keep the bats away from herself. She was keeping the three of them upright at a damage rate her reserve couldn’t sustain past another minute.
+
+“Back, back,” Arthur screamed. “Stairs.”
+
+The party retreated up the stairs with as much grace as a mass of swarming bodies would allow. Arthur held the rear, his shield braced against the swarm that followed them to the chamber threshold. The bats hit the level of the staircase mouth and broke off. Whatever the lower chamber gave them, the stairs didn’t.
+
+“Archie, are vampires a thing now?” Steve said, panting. “If they are, we are screwed.”
+
+* * *
+
+Sarah went to work without speaking. Steve’s forearm, his palm, Donna’s neck. Arthur’s left ear, which had a tear he hadn’t noticed until the warmth ran through it and the pain registered as it left.
+
+“Well, ideas?” Donna asked.
+
+“Don’t bats hunt using echolocation?” Sarah said, sitting down. “Send out clicks and read what comes back.”
+
+“Yes, and with the numbers in there, there are hundreds of clicks coming at us at the same time. There is no way we can hide,” Arthur said.
+
+“Actually…” Steve was staring at a distance with ‘that’ look on his face.
+
+“Earth to Steve, Earth to Steve, please respond,” Donna said after the party had sat around staring at Steve for ten seconds.
+
+“It’s the room,” he said. The cascade had started. “The room is the answer. The bats hunt by sonar. Each one sends a click and reads the echo. How do you hide in a storm on sonar?”
+
+“Jam echo-location,” Arthur said, sitting up. “Like wind turbine emitters that blast ultrasonic noise to keep bats away.”
+
+“Exactly. We blind them by burying their clicks. The wave-guides on the walls were designed for sound. The whole chamber is tuned. Any loud impact inside it gets filtered into a single frequency and returned at amplitude. If we make loud enough noise, nothing they send out will come back legible.”
+
+“How much noise,” Donna asked.
+
+“Enough to saturate the chamber. Loud impact, hard surface. The chamber does the rest.” Steve was breathing through his nose, fast. “But it won’t sustain. The note will decay. We need to hit something every twenty, thirty seconds to keep the room singing.”
+
+“What luck, Arthur has been practising his shield-drum for the last two days,” Donna said, looking at the Ironhold.
+
+Arthur turned the Ironhold in his hand and nodded to himself.
+
+“In Nereus, echolocating fauna mutated under comparable Ether saturation,” Archie said. His geometry had brightened a fraction. “The candidate party there required four engagements to identify the broadband acoustic vulnerability.”
+
+Steve looked up at him. “Are you congratulating us?”
+
+“I am noting a deviation from expected timelines. Interpretation is your responsibility.”
+
+“He’s congratulating us.”
+
+“I have not used that word.”
+
+Donna had her axe across her knees and her eyes on the descent.
+
+“Let’s go make some noise,” she said.
+
+* * *
+
+The bats had gone back to roost and the ceiling was dark again.
+
+“Everybody ready?” Arthur asked, looking back. “Be ready to evacuate in a hurry if this doesn’t work.”
+
+Arthur set himself at the chamber’s centre under the apex of the corbelling, raised the Ironhold to chest height, and brought the hammer down.
+
+The clap was sharp and short. Then the chamber answered.
+
+A single note rose out of the limestone, steady and enormous, loud enough to push the air flat against his chest. His teeth ached and the note held.
+
+“Damn it, that’s loud,” Steve said from behind.
+
+And then the bats fell.
+
+Most of them went into walls. Some flew into each other. A few dropped without doing anything at all, as if a string holding them up had been cut. The first second of the resonance killed more than Steve’s cone had killed in five.
+
+The others flew around in chaos, colliding with each other and the wall. Swooping down to find nothing but the floor.
+
+Donna’s eyes sharpened. “Steve, aim high. Arthur and I will take the ones coming down.” She glanced at Sarah and smiled. “Wave that Reacher around. Easiest practice, you gonna get.”
+
+Then she was gone. Arthur saw her axe flash across the chamber three times before he saw her cross it once. Reflex Acceleration was firing. A bat dropped at his right with its head separated from its spine. A second dropped at the apse mouth. A third in the air, mid-glide, and the body hit the floor a second after Donna was already past it and onto the fourth.
+
+Steve was firing lances, focused and narrow, conserving reserve. The bats he hit went limp before they hit the limestone.
+
+Arthur was more measured. He needed to time his second strike or the note in the chamber would dissipate. But it was a target-rich environment and he only had to swing his hammer.
+
+Sarah was having some trouble waving the Reacher, the top-heavy weapon moving in a laborious arc. Arthur glanced at Sarah and smiled.
+
+“Careful, or the next time you break something, the bone might fuse wrong,” she said, not looking at him.
+
+Arthur looked ahead and concentrated on counting the seconds. At twenty-five he brought the hammer down again.
+
+The chamber answered louder this time, or his hearing had narrowed enough that the same note felt larger. Something warm ran out of his left ear. He glanced sideways. Donna’s right ear was bleeding too, a thin line of it tracking down under her jaw. Steve had a hand to his temple, and when he took it away his palm came back red.
+
+Sarah was cataloguing it too. She touched her own ears and found blood.
+
+“Our ears are bleeding. This note will rupture our eardrums if this goes on for long.”
+
+Arthur grimaced. The note was wrecking them every time it rang. Two more strikes, maybe three, before someone lost an eardrum. They had to finish this and get out.
+
+ETHER ABSORBED: +850 (~180)
+
+PARTY INTEGRATION: 2,992 / 2,200
+
+LEVEL UP: LEVEL 15
+
+INTEGRATION: 792 / 2,440
+
+ATTRIBUTE POINTS AVAILABLE: 3
+
+NEW TECHNIQUE AVAILABLE
+
+Sarah’s notification.
+
+ETHER ABSORBED: +901 (~180)
+
+INTEGRATION: 2,201 / 1,746
+
+LEVEL UP: LEVEL 12
+
+INTEGRATION: 455 / 1,968
+
+The bats above them had thinned to maybe thirty. Arthur brought the hammer down on the third strike.
+
+The room rang. The warmth in Arthur’s ear turned to something deeper, a pressure inside the skull he could feel through his eyes. Donna grunted. Steve dropped to one knee and came up firing again, but slower.
+
+Steve turned to Sarah without taking his focus rod off the ceiling. “Sarah, get to the stairs.”
+
+“You still need-”
+
+“We need a working healer when this is over. One who can hear us tell her where we’re bleeding. Go.”
+
+Sarah hesitated for a heartbeat but knew Steve was right. She would be more useful to the party if she was on her feet when all this was over. She went.
+
+The avicide continued. Donna was moving slower, her bleeding eardrum compromising her balance. Steve was visibly running out of Ether, having fired dozens of shots and cones. Arthur just stood and swung his hammer like a drunk tree.
+
+It took one more strike before they were able to finish the last of the bats. When the chamber went quiet, his balance went with it.
+
+ETHER ABSORBED: +150 (~30 CREATURES)
+
+PARTY INTEGRATION: 942 / 2,440
+
+Sarah.
+
+ETHER ABSORBED: +159 (~30 CREATURES)
+
+INTEGRATION: 614 / 1,968
+
+The floor tilted at him. He set a foot wrong, caught himself on the shield, and moved backward toward the staircase mouth in the unsteady half-walk of a man whose inner ear had stopped reporting accurately. Donna had to catch his elbow at the threshold.
+
+“Sarah,” he shouted but couldn’t hear his own voice.
+
+* * *
+
+Sarah guided all three down in sitting positions before starting on the healing. The warmth ran through Arthur’s head and the world stopped tilting at him. Sound came back to him by degrees.
+
+The chamber’s note had died a long minute ago. It had faded gradually and then thinned to nothing. Yet they could feel a hum in the room.
+
+At first Arthur thought it was his abused eardrums and waited for the hum to fade, till he realised that it was coming up through the limestone.
+
+Steve was listening with his head tilted, one hand on the wall.
+
+“Something down there is resonating with all the sound we made,” he said.
+
+Whatever was down there, it had heard the room sing.

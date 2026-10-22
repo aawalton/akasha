@@ -1,0 +1,279 @@
+Chapter 58
+
+There are four of us now. I keep catching myself counting heads on the trail. One, two, three, then remembering. Four. - The Ether Atlas: Field Notes of Steven Parr, Malta
+
+Arthur found Sarah sitting against a limestone outcrop when he woke.
+
+She had her knees drawn up, looking south. The compound sat dark against the harbour below. Her window, on the second floor of the central building, was unlit. Her eyes traced the goat track down to the compound, measuring the distance between her and it.
+
+Arthur built the fire up and put water on. They had tea bags scavenged from a shop in Sliema. This morning called for tea.
+
+Donna was moving inside the tent, the careful sounds of someone reintroducing a leg to weight. Steve's guidebook lay open beside his bedroll with a pen clipped to the spine.
+
+Sarah hadn't moved. She was looking through the compound, not at it.
+
+When the water was ready, Arthur made two cups and carried one over, setting it on the limestone beside her. He walked back to the fire and drank standing, watching the goat track, not Sarah. She'd speak when she was ready. The gesture mattered more than the words right now.
+
+A few minutes later she picked up the cup and drank without looking at him for permission.
+
+Arthur poured himself another and sat down a few metres away.
+
+"Donna told me some of what you've been doing," Sarah said. "Last night, on the climb. The short version."
+
+"Yeah, between Donna and Steve, it's either bullet points or case studies." He smiled, briefly. "How short?"
+
+"Alien infrastructure beneath monuments and temples. Creatures that are getting worse, and guardians you've fought. A floating geometry that knows more than it says." She looked at her hands. The tremor was there, faint. She gripped the cup harder. "She also said the fights are constant. And that you're heading somewhere south of here next."
+
+"Mnajdra. A temple, five hundred metres down the hill. We need to activate it."
+
+"The same thing you did to Ħaġar Qim. The thing that brought more creatures."
+
+"That's the one."
+
+"Why would you do that? Why bring in more?" she asked, looking him in the eye for the first time.
+
+"There's a lot more going on, and a lot more coming, than anyone in the world knows," Arthur said, setting his cup down. "What we know for sure is these nodes lead to answers eventually. As far as we know, that's the best course of action the world has right now."
+
+"And your AI told you this?"
+
+"Among other things."
+
+She nodded, sorting the information for a moment, then asked, "What happens to me in a fight? How do I contribute?"
+
+Arthur looked at her. She hadn't asked how dangerous it was, or what happened if she got hurt. She'd asked where to stand and what to do with her hands. A doctor's question.
+
+"You stay behind the line. You heal any damage that gets through. I hold the front, Donna flanks, Steve handles range."
+
+"And if something gets past all three of you."
+
+"That's what the shield is for," Arthur said. "Nothing reaches you unless I've already gone down. And if I go down, you'll be the one putting me back together."
+
+Sarah held his eyes for a moment. Then she looked back at the compound below and drank her tea.
+
+Donna came out of the tent on both legs, testing the repaired tibia with the deliberation of someone who'd learned to inventory her own body down to the millimetre. She sat down beside Sarah and stretched the leg out without ceremony.
+
+"How does it feel?" Sarah asked, her eyes already on the angle of the shin.
+
+"Better. The fracture line is solid. I can put almost all my weight on it now."
+
+Arthur brought Donna a cup of tea as well.
+
+"Let me check it properly." She knelt and put her hands on Donna's shin. The violet glow came in a steady pulse, no dimmer than yesterday despite the exhaustion. The micro-hesitation was still there, a fraction of a second between intention and contact. But shorter by a breath than at the compound.
+
+Arthur brought food over. Dried meat and flatbread from Cédric's provisions, divided evenly. He put Sarah's portion beside her knee where she could reach it without stopping. After a minute, she reached for the bread with one hand and ate while the other maintained the glow on Donna's shin.
+
+"The bone's set well," Sarah said. "You're weight-bearing. Full mobility by this afternoon if you don't do anything stupid."
+
+"Define stupid," Donna said.
+
+"Jumping. Running. Fighting anything larger than Steve."
+
+"The comparative anatomy of that insult is going straight in the field notes," Steve said, emerging from the tent with his guidebook already open. He sat cross-legged, pen ready, and looked at Sarah with the expression of a man trying very hard not to ask twenty questions at once. "What level are you?"
+
+"Seven. About a third of the way to eight, if the Integration number means what I think it does."
+
+"You've been tracking your Integration?"
+
+"I'm a doctor, I can’t help it. When a notification tells me numbers are changing inside my body, I pay attention."
+
+Steve wrote. "How have you been allocating your attribute points?"
+
+Sarah withdrew her hands from Donna's shin and wiped them on her trousers. "How do you normally do this? Donna showed me hers last night so I'd understand the system."
+
+"You share yours and I'll walk you through it."
+
+Sarah closed her eyes for a moment "STR 7, DEX 8, CON 17, ACU 8, RES 14."
+
+Steve wrote it down. "And allocation? The three points per level."
+
+"Constitution and Resonance. One point each, every level. Constitution because it helped me recover faster between sessions. Resonance because I could feel the injuries more clearly when it went up. The third point each level I kept."
+
+Steve's pen stopped. "You banked six attribute points?"
+
+"I was planning to run. Having unspent resources seemed like insurance."
+
+Steve looked at Arthur with the wide-eyed reverence of a man who'd just been handed an unallocated character sheet. "Six points. Arthur. She has six unallocated points."
+
+"I heard her."
+
+"STR 7, DEX 8, CON 17, ACU 8, RES 14, with six in reserve."
+
+Steve was writing fast, filling a margin with numbers. "Con 17 at Level 7 with six in reserve. That's a serious healer build with room to grow. We need to talk about what she does with the six."
+
+"What 'she' does with them," Sarah said.
+
+Steve had the good grace to look briefly embarrassed. It lasted about two seconds. "Right now you're a pure healer. That's strong, but in a fight it means you stand behind the line and wait for someone to bleed. If you put a few points into Acuity and Resonance, you might unlock combat support abilities. We've seen the system reward investment patterns. Donna hit DEX 25 and got a whole new capability she didn't know was coming. Your healing is already advanced. The system might be sitting on options we can't predict yet."
+
+"The classic healer problem," Arthur said. "Pure healer keeps the party alive but contributes nothing to the fight's tempo. If the system offers you a way to do both, you take it."
+
+"You two have known me for four days and you're already deciding how I spend my points." Sarah's voice was guarded.
+
+Donna looked at her. "Trust me. Let them have it. There is absolutely no way to stop them theorising, and you'll save yourself hours if you don't try." She paused. "Their hearts are in the right place. The delivery is just appalling."
+
+"Did you get a technique at Level 5?" Steve asked. "We all did. Arthur's reinforcement, Donna's acceleration, my projection. The system formalises your dominant Ether behaviour into a repeatable technique."
+
+Sarah looked at her hands. "Yes, the healing changed around then. I was at the compound, maybe a week ago. Before, channelling was like pouring water over a wound and hoping some of it went where I needed. The Ether responded to contact but I couldn't direct it precisely." She turned her palms over. "Then after the technique, I put my hands on a man with a shattered femur and I could feel the pathway. The Ether followed my intent. I could place it where the bone needed to knit, hold it there, control the flow. I went from pouring water to using a syringe."
+
+"The Matrix formalised your healing technique," Steve said, writing. “What is it called?”
+
+"Guided Mending. Directed channelling based on diagnostic intent. I called it not wanting to waste my energy on things that didn't work," Sarah said. "The Baron noticed immediately. My throughput doubled in a week. He was delighted."
+
+Nobody said anything to that.
+
+Sarah looked at Steve's page. The numbers and abbreviations looked disturbingly like the patient charts she'd kept at Mater Dei.
+
+"What's a Reacher?" she said.
+
+Steve reached behind him to where the Reacher was lying against his pack. A metre and a half of Ether-treated wood, the grain tightened by saturation, a sharpened point at one end. "Ether-Honed Reacher. Primitive tier. I've been using it as a backup, but I won't need it anymore. The sensory feedback through the shaft would pair with your Resonance. You'd feel what it touches." He held it out. "This keeps things at arm's length while you work."
+
+"Why won't you need it?"
+
+"Because now I deal exclusively in fireballs, concussive force, and the like." Steve grinned. "Mage stuff, you know?"
+
+Donna groaned.
+
+Sarah took the Reacher. Her fingers tested the weight and balance with the same unconscious calibration she used on a scalpel. "It's warm."
+
+"Ether saturation. The wood's been soaking in ambient energy since Marseille."
+
+"Your healing channelling efficiency is approximately seventeen percent above the human median for your level," Archie said. The geometry had drifted closer during the session, the facets angled toward Sarah's hands with what might have been professional interest. "Stress-adaptation in channelling is a documented phenomenon. Yours is consistent with extended forced operation."
+
+Sarah looked at the geometry. "You've been watching me heal."
+
+"I observe all Ether interactions within my operational range."
+
+"And you didn't mention the efficiency data while I was working eighteen-hour days in that compound."
+
+"You were not my candidate's party member at the time. My observational data is allocated according to operational relevance."
+
+"And now I'm relevant?"
+
+"You are standing in a camp with my candidate, holding a healer's glow on a party member's fractured tibia, and eating bread." A pause. "Unfortunately the bar for relevance is not high."
+
+Steve covered his mouth with the guidebook.
+
+"Another machine that gives me data and no solutions," Sarah said. "At least the blood pressure monitors at Mater Dei didn't have opinions."
+
+• •
+
+Azzopardi arrived mid-morning with two soldiers and a water resupply.
+
+He came up the goat track at the pace of a man who'd been climbing it daily for two weeks and took in the four people. The new addition holding a weapon she hadn't had yesterday.
+
+"Mela." He clasped Arthur's hand. "I heard about last night. The Baron is telling his people it was a negotiation. His people are telling my people it was a threat."
+
+"Both are accurate," Arthur said.
+
+Azzopardi looked at Sarah. "Doctor. You are well?"
+
+"I'm out," Sarah said with a smile "That's a start."
+
+"Issa, good." He turned back to Arthur. "My soldiers at the market keep talking about the lizard attack. Two of my people would have died if your party hadn't moved when it did. The boy with the sling, mela, that was ugly business. But your speed on the counterattack saved lives. I won't forget."
+
+He watched Donna testing her leg with walking circuits of the camp. His eyes moved from the axe on her hip to the Ironspine Bar.
+
+"You fight with a hatchet and a bar," he said. "No sidearm. No piercing weapon."
+
+"I make do," Donna said.
+
+"We cleared the Palace Armoury in Valletta the first week. Hospitaller collection. Most of it was display, issa, but some of those short swords were made for use, not glass cases." He looked toward the temple ridge. "When you come back from your node business, I'll have something picked out for you."
+
+Donna nodded.
+
+"The Sanctum Zone between here and Paola is getting worse," he added. "The creatures adapt. Last week they hunted in pairs. This week, threes. Whatever you did at Ħaġar Qim, mela, the island felt it. My soldiers level faster, but the ground between the temples is hostile."
+
+"We know," Arthur said. "Unfortunately it might get worse after today. Risk and reward."
+
+• •
+
+The walk to Mnajdra took twenty minutes.
+
+Steve talked for most of it. The cart ruts were familiar territory by now, but the stone was new. Mnajdra's coralline limestone was harder than the globigerina at Ħaġar Qim. Steve crouched at the boundary where one type gave way to the other and rapped his knuckles on each in turn.
+
+"Hear that?" He rapped the globigerina again. Dull. Then the coralline. Brighter, with a ring that lasted. "Different density, different resonance frequency. The builders used two kinds of limestone like a luthier uses spruce for a soundboard and maple for the back. They weren't building temples. They were tuning instruments."
+
+"Conduit surface markers," Arthur said. He could feel it through his boots. The faintest vibration in the substrate, like standing on a floor with heavy machinery running two storeys below.
+
+"The rut formations on this plateau correspond to subsurface Ether conduit pathways," Archie said. "The correlation coefficient is 0.97."
+
+Steve looked at Arthur. "Archie just confirmed my hypothesis. He never confirms my hypotheses."
+
+"I confirmed a mathematical correlation. Your interpretation of its purpose remains your own."
+
+"Steve, that's as close to a compliment as you're going to get from him," Donna said. "Take it."
+
+Sarah was walking beside Steve, the Reacher held across her body like a quarterstaff. She'd found her grip in the first hundred metres and was now matching their pace.
+
+"So why are you activating these temples?" Sarah said.
+
+Steve glanced at Arthur who nodded.
+
+"The short version is that the infrastructure under these sites is connected. Activation opens it up. Each temple we've activated has pointed us to the next one. London to Marseille. Marseille to Malta. There's a sequence, and at the end of it there's something. A destination. An answer. Arthur was selected for it."
+
+"Selected by whom?"
+
+"By whatever built this." Steve gestured at the ruts beneath their feet, the limestone that hummed when you listened for it. "Something installed this network tens of thousands of years before anyone built a temple on top of it. Archie is part of that system. He's Arthur's guide."
+
+Sarah looked south. The scrubland shimmered in the heat. "And you don't know where it ends. You don't know what's at the end of the sequence."
+
+"Revealing the final destination to the candidate would undermine the evaluation process," Archie said. His geometry was dim, the facets barely turning.
+
+"Evaluation," Sarah said. "You're testing him. What are you testing him for?"
+
+Archie's geometry went still.
+
+The silence lasted four seconds. Five. Sarah looked at Donna.
+
+"Right now all we know is this," Donna said. "The change that happened to the world is connected to whatever Arthur is being led toward. The creatures, the Ether, the sky. All of it. We don't know who built this system and we don't know how it ends. But we know the only way to find out is to keep walking."
+
+Sarah looked at the Reacher in her hands and at the three people she'd known for less than a week who'd bet their lives to get her out.
+
+"Keep walking, then," she said.
+
+Steve reached the outer wall first. "The equinox alignment," he called up. "Light enters through this aperture and hits the back wall at exactly the equinox sunrise. Same design principle as Newgrange in Ireland. Two sites three thousand kilometres apart, built within five hundred years of each other." He turned to Archie "Who standardises temple architecture across the Mediterranean five thousand years ago?"
+
+Archie's geometry dimmed.
+
+Steve noticed. He pulled the guidebook from his back pocket and wrote something in the margin. Arthur couldn't see the words, but he'd seen the gesture enough times to recognise it. Steve was documenting another silence.
+
+Inside the temple, the air was different. It felt cooler, denser. The limestone walls held a vibration that Arthur could feel. The node was here.
+
+Steve was crouching at the central threshold where the equinox light would fall. His pen had stopped.
+
+"Arthur, get over here."
+
+Steve pointed at the stone floor where the equinox light would fall. It was smooth limestone, worn by millennia of weather and ceremony.
+
+"Stand on it," Steve said. "Right where the light hits."
+
+Arthur stepped onto the threshold stone. The moment his weight settled, the Resonance pull sharpened. He felt it lock into his chest, the node finding his Nadi Matrix as the pitted-heart stone at Ħaġar Qim had found his palm.
+
+Letters resolved in the limestone. The Ether in the stone tracing lines that had been carved five thousand years ago and hidden until a candidate stood under the light.
+
+Steve dropped to his knees beside the inscription. Donna stepped in closer to cover his flank. Sarah stood at the chamber's edge, her mouth open, watching blue-white light crawl across a temple floor.
+
+Set the scarred earth ringing with your hand
+
+What answers knows the way; let it command.
+
+Arthur Ashworth - Level 11 - STR 25 DEX 8 CON 23 ACU 6 RES 10
+
+Donna Callas - Level 11 - STR 13 DEX 29 CON 16 ACU 6 RES 8
+
+Steven Parr - Level 11 - STR 7 DEX 7 CON 12 ACU 29 RES 17
+
+Sarah Vassilou - Level 7 - STR 7 DEX 8 CON 17 ACU 8 RES 14 (+6 banked)
+
+THE ETHER ATLAS: FIELD NOTES OF STEVEN PARR
+
+Mnajdra Temple, Malta
+
+THE DATING PROBLEM
+
+The coralline limestone at Mnajdra rings at a different frequency than the globigerina at Ħaġar Qim. I tested both with my knuckles. Different density, different resonance. The builders selected two types of stone the way a luthier selects spruce for the soundboard and maple for the back. Material choice driven by acoustic properties. Two stones, two voices, deliberately paired. That makes Mnajdra a tuned chamber, not a temple. You build with stone for shelter. You build with two stones at chosen densities for sound. The temple is an instrument. We have not yet heard what it plays.
+
+The conduit network underneath is older. Archie confirmed the ruts are surface markers for subsurface routing. Correlation coefficient 0.97. The infrastructure was in place before anyone put a megalith on top of it. This inverts the archaeological sequence. The standard model says the temples came first and the ruts were transport tracks. If the conduits predate the temples, the builders were not innovators. They were responders. They felt something in the ground and built around it.
+
+Göbekli Tepe was buried on purpose. The Maltese temples were built on top of conduits that were already running. Two different cultures, eight thousand years apart, both reacting to the same substrate.
+
+✎ The temples are not the infrastructure. The temples are the human response to the infrastructure. Every megalithic site on our route may be a monument built by people who could feel the Grid but could not name it.

@@ -1,0 +1,133 @@
+Chapter 79
+
+“Give them the proportion. Withhold its purpose. Let them carve it for beauty, raise it for a god, pass it down the centuries as a sacred inheritance, and they will keep the measure exact for reasons that have nothing to do with the reason. A population guards best what it has been permitted to misunderstand. The instruction that survives longest is the one that has forgotten it was an instruction.” - Codex of the Long Watch, Operational Directive
+
+“Phi,” Steve said, taking a piece of bread from Sarah and popping it in his mouth.
+
+He then picked up his pencil, and Arthur knew the picnic was over and the lecture had begun.
+
+“All right. Here is the part nobody swallows until it’s under their nose. It isn’t only mysterious entities cutting this number into a wall on purpose,” he said, motioning at the pillar. “Take, for example, the sunflower.”
+
+“The seeds in the head sit in two sets of spirals, winding opposite ways. Sit and count them, and I have, on a train, and the two counts come up as neighbours in one run of numbers. Every time. Thirty-four one way, fifty-five the other. The next flower along, fifty-five and eighty-nine. The counts climb as the head grows, but they stay neighbours, and you lay one against the other and you land back on this.” He flicked the pencil at the triangle glowing on the pillar. “Divide the larger number by the smaller, and the answer is Phi.”
+
+“I’ve been sold that,” Sarah said. She was still sitting, working the last of the confit, unhurried. “Not the flower. The face. I’ve had reps stand in my clinic before the MSF with a tablet and tell me the ideal jaw is built to the divine proportion. Cheekbone to chin, brow to base, here’s the overlay, here’s the app, here’s the invoice. It is rubbish, Steve. I can lay the same grid on a horse and sell it as a skincare range.” She looked up. “So tell me why your sunflower isn’t the same rubbish, because from this rock it sounds identical.”
+
+That stopped him for a second, which Arthur enjoyed, and then it just shoved more wind into his sail. Steve was getting into his element.
+
+“Because the flower has a reason and the face doesn’t.” He crouched in front of her. “The lines on a face are a rectangle somebody draws on afterward. They pick the lines that fit and ignore the lines that don’t. That isn’t the face doing anything. That’s a man with a ruler deciding what counts.”
+
+“The sunflower drops each seed turned a fixed angle on from the last. One angle, always the same, close to a hundred and thirty-eight degrees. And that one angle is the only turn that packs the head tight without two seeds ever falling into line and wasting the gap between them. The flower isn’t drawing a number. It is solving how to fit the most seeds into a round head before winter, and the answer it lands on, by force, every time, is sitting on that wall.”
+
+He sat back on his heels, pleased and faintly appalled. “You can predict it before you count and you can check it after to confirm.”
+
+“So some of it is real and some of it is a tea towel,” Donna said.
+
+“Most of it is a tea towel.” Steve laughed. “Let’s start with the shell, because the shell is the one everyone shows you. The nautilus. That perfect spiral on the front of every textbook, supposed to be built on this exact number.”
+
+He shook his head. “Somebody actually measured eighty of them in a museum drawer. They come out around one point three. Close enough to fool a tourist, nowhere near the real thing. A genuine spiral wearing the wrong number, and every gift shop on earth is printing it on a mug and calling it the secret of the universe. I marked an undergraduate down for the shell once. I would do it again tomorrow.”
+
+“Didn’t Leonardo draw a man for it, though?” Sarah rubbed the crumbs off her hands. “Arms out, legs out, inside a circle and a square. Half the anatomy boards I trained on had him pinned up. The proportions of a person, supposedly.”
+
+“Everyone says that one as well.” Steve pointed the pencil at her. “And it isn’t this number, though it looks as if it ought to be, which is half the trouble. That drawing is built on Vitruvius, an old Roman architect, and Vitruvius worked in plain fractions. Halves, quarters, sixths. A head is one eighth of a man, a foot one sixth, on down the whole body like that. Whole numbers, all of it.”
+
+He turned the pencil over once. “Leonardo drew it, and drew it beautifully, and what he drew was Vitruvius. Not this number. People hang it on him because the story comes out prettier with him holding it.”
+
+His voice came down a register, the showmanship of keeping restless students engaged. “But here is the part they get half right but never finish. Leonardo did draw this number. He just didn’t draw it in the man. He drew it in a book.”
+
+“There was a friar,” he said. “Luca Pacioli. A Franciscan mathematician and architect and a monk. Who in 1506 sat down and wrote a whole treatise on this one proportion and called it divine. De Divina Proportione, or On the Divine Proportion. And even wrote how to construct buildings using 1.618. And here is the interesting bit. The book was illustrated by Pacioli’s close friend-”
+
+“Leonardo Da Vinci,” Arthur murmured.
+
+“Exactly.” Steve looked back at the wall. “So the friar names it, the painter draws it, and four hundred years on, the only thing anyone remembers is a sketch of a man in a circle that hasn’t got the number in him at all. The right name came loose and stuck to the wrong thing.” A short, sour breath. “It usually does.”
+
+Donna picked up her axe and methodically started running a piece of leather along the edge.
+
+“You’ve got two different things going on here,” she said. “A flower that falls into the shape because it can’t help falling into it. And a teleport chamber with a triangle etched into it. Those aren’t the same, and you keep telling them like one story.”
+
+She nodded at the triangle.
+
+“So answer me one thing. There are more numbers than anyone could ever count. Endless. Free. Take your pick of them. Why does this one matter?”
+
+“Because it’s the one number that won’t settle,” Steve replied.
+
+He came and sat down properly, the pencil still in his hand.
+
+“I mean that as a mathematician means it, not as a poet. Take almost any number, square it, you get something miles off. Square this one.” He drew it in the dust. “You get itself, with one added on. Nothing else. 1.618^2 = 1 + 1.618.”
+
+“Now take one away from it instead, and you get the same number again, shrunk down small. Its own reflection. 1/1.618 = 1.618 - 1.” He looked up. “It grows by adding and it shrinks by taking away. No well-behaved number does that. This one does both, and it’s the only one in existence that does.”
+
+Arthur settled in more comfortably against a pillar, and Steve looked up.
+
+“We did an experiment in engineering. Out of every number on a line, this is the single hardest one to pin down with a fraction. You can chase it forever and never quite land. It won’t round off. It won’t fall into a tidy repeating pattern, not at ten places, not at ten thousand. It just keeps going, refusing to fall into step with anything,” Arthur said.
+
+Steve nodded and continued.
+
+“If you went looking for a number that lined up with nothing,” he said, “that never fell into time with anything near it, never started to echo, this is the one you’d come back with. There’s no second choice. It’s the one number in all of them that the universe can’t make ring.”
+
+“So it’s a number with unique mathematical properties that shows up in nature, and it might fit the elegant way of constructing things,” Sarah said. “I mean, it’s interesting, but so is the fact that chlorophyll and haemoglobin have almost similar molecular structure.”
+
+“We should talk about that sometime,” Steve said with a smile. “But with Phi, the coincidences melt with the occult.”
+
+“We named it Phi after a man. Phidias. Perhaps the greatest sculptor of the classical age. The one who sculpted the statue of Zeus in Olympia. Historians also argue that he based his sculptures on Phi, and that’s why he is the only man ever to have a number named after him.”
+
+Steve had a gleam in his eyes. “And long before him there was a society, a cult, really. The Pythagoreans. It was a secretive, religious mathematical cult who treated this geometry as something holy.”
+
+“Sounds like your kind of people. The nerd cult,” Donna said.
+
+Steve ignored her. “Any guesses what their badge was?”
+
+When no one ventured a guess, Steve shook his head and went on.
+
+“The pentagram. Their badge was a five-pointed star. And the crazy bit is that the pentagram is nothing but Phi locked in a closed loop.”
+
+He looked round at them.
+
+“The story goes that they drowned one of their members, Hippasus, for telling outsiders about the sacred number Phi. People have been guarding this one since before we had a word for it. That, on its own, is a pattern.”
+
+“The Pythagorean Brotherhood is recorded,” Archie added, brightening slightly. “Most leaks of this kind produced a religion.” A pause. “Their containment was, by the standards of your species, a success.”
+
+The chamber had gone very still around him. Arthur realised he had been turning the hammer in his hands and made himself stop.
+
+“So. A crazy secret brotherhood, and a pentagram.” Donna’s mouth twitched. “Pentagram, Satan worship. Coincidence?”
+
+“In this case? None at all. It’s just wrong.” Steve said it with more heat than the question deserved. “The five-pointed star spent almost all of its life as a good thing. The Mesopotamians used it. The Greeks used it. It stood for the elements. For perfection. For mathematics itself. Thousands of years of that.”
+
+He held up a finger.
+
+“Then the 1800s. A French occultist, Éliphas Lévi, decides there’s a difference between the star pointing up and the star pointing down. Upright is spirit over matter. Flip it, point down, and you’ve inverted the natural order. Animal appetite sitting on top, spirit underneath.”
+
+“Then in 1897, Stanislas de Guaita published La Clef de la Magie Noire, which featured the inverted star with a goat’s head in it.”
+
+Steve took a breath before continuing on.
+
+“A hundred years after that, Anton LaVey founded the Church of Satan in California and took Stanislas de Guaita’s inverted star straight off the page. Goat’s face and all. He puts it on everything. And because that’s the version the cameras kept finding, that’s the version the whole world learned.”
+
+He shook his head.
+
+“Two and a half thousand years of meaning, painted over inside a single lifetime. A good symbol, wearing a borrowed face.” He looked at Donna. “It happens. The swastika was a symbol of well-being across India for thousands of years before a party in Germany picked it up and made it the most hated shape on earth. Same theft. Different century.”
+
+The transit room fell into a long silence as each of them digested this. Archie kept hovering beside the carved pillar, adding no insights. Finally, Arthur broke the silence.
+
+“Okay, so I think you make a fairly strong case that Phi is not just a number and maybe there is a reason why it was protected and then made a myth. But I have a feeling you’re circling something,” he said. “Say it.”
+
+THE ETHER ATLAS: FIELD NOTES OF STEVEN PARR
+
+Underground. Location unknown.
+
+THE TWO BINS
+
+For twenty years I kept one bin and wrote COINCIDENCE down the side of it. Everything went in. The men who measured the Great Pyramid and found Phi in its slope. The ones who found it climbing the front of a cathedral. Every first-year who laid a spiral over a shell and thought they had touched the face of God. I had no way to tell the people seeing things from the people seeing something, so I tipped them all into the one bin and called the bin rigour.
+
+It was not rigour. It was a filter built to reject false positives, and a filter like that throws out every true one that happens to wear the same coat. I spent two decades sharpening an instrument that could not, even in principle, find the thing I was looking for. I was very good at it. I taught others to be good at it.
+
+Today I watched the number come off a wall. So now I need a second bin, and a rule to sort between them, and I am writing the rule down before I lose my nerve and decide I imagined the afternoon.
+
+The question was never whether the number is there. Any fool with a ruler can put it there afterward. Pick the lines that flatter you, ignore the ones that don’t, and you can find 1.618 in a doorway, a horse, the gap between two reasonable people. The real question is whether there is a reason it is there.
+
+The sunflower has one. It is solving how to pack a head before winter, and Phi comes out of the solving, every time, whether anyone is counting or not. A face has none. Somebody draws the rectangle on afterward and admires his own pencil. So the test is single and brutal. Does the thing need the proportion to do its job, or does the proportion merely fit once you go hunting for it?
+
+Le Corbusier built an entire system of measurement on it last century, on purpose, knowing exactly what he was doing. The nautilus did not, no matter how many gift shops insist otherwise. One built to the number. One wearing it as a costume. My discipline never owned a tool to tell those apart, so it swept them into the same heap and called the heap caution.
+
+This is testable. If the proportion is doing real work, it should sit in the bones of the things meant to last and nowhere in the ornament. It should run cleanest in the oldest and most important work and rot through the copies. It can be proved with a length of string and an afternoon, at the next old place we reach. I intend to try.
+
+✎ I did not spend twenty years failing to find the signal. I spent twenty years building an instrument guaranteed not to detect it, and grading my students on how faithfully they built the same.

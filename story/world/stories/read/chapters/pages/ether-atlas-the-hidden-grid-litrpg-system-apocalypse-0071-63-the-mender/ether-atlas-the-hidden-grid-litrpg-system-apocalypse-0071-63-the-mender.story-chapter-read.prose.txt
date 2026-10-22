@@ -1,0 +1,217 @@
+Chapter 63
+
+"We do not build from nothing. We build from what the substrate provides. The error of seventeen integrations was assuming the biology required replacement. It did not. It required activation." - Codex of the Long Watch, Engineering Addendum
+
+The farmhouse cooled as the sun dropped behind the ridge. Arthur sat with his back against the wall beside the shield and watched Sarah’s hands opening and closing.
+
+She was across the room, her fingers stretching and curling in a rhythm that reminded him of a pianist warming up before a concert. Her eyes were open and unfocused, tracking something none of them could see. The recognition notification, still waiting behind her eyes.
+
+Arthur rolled his shoulders and let his body report in. The shoulder stiffness from a day of staggered shield impacts had faded to background noise. The antler wound below his ribs was a dull ache, the kind of pain that confirmed repair rather than damage.
+
+Donna was working the axe blade along a leather strip she’d found somewhere in the farmhouse. Steve had the last of Cédric’s dried meat and the orchard figs laid out on his pack, four portions, evenly divided.
+
+“Let’s allocate first,” Arthur said. “Then Sarah’s recognition.”
+
+He went first because someone had to and because his reasoning was simple enough to state in one sentence. “Two into Dexterity. One into Constitution.”
+
+Steve looked up from the ledger. “Dexterity?”
+
+“I fell on the ice today because my body can’t move on surfaces that aren’t flat. I can take hits and I can deal them, but I need to stay upright while I’m doing it.” He flexed his right foot against the stone. “My body is becoming too dense. I need to offset that somewhat. The Walk proved that.”
+
+The allocations went clean, thirty seconds each, the familiar restructuring rolling through his frame. DEX 9 brought a marginal improvement in his own spatial orientation that he wouldn’t have noticed six weeks ago. DEX 10 brought something more. A recalibration of his body’s balance, the inner ear, the ankle joints and core stabilisation cooperating at a higher level.
+
+CON 27 was incremental after the threshold. Denser by a fraction.
+
+Donna went next and put one into Strength, one into Dexterity, one into Constitution. “The Walk punished everything equally,” she said, and didn’t elaborate.
+
+Steve added one to Constitution, one to Acuity, and one to Resonance. “CON 13. Still underweight, but at least I’m not made of paper anymore.” He updated the ledger and held it up for the group.
+
+“Your turn,” Steve said to Sarah. “But recognition first. Trust me, you want to see what the system is working with before you decide where to put those points.”
+
+“What does it feel like?” she asked. “When it fires.”
+
+“The Matrix traces your nervous system,” Steve said. “For me it was a cascade, every pathway lighting up from my spine outward. Lasted maybe a minute. Motor control went loose for about five minutes afterward.”
+
+“My body locked rigid for about two minutes,” Arthur said. “Full structural reinforcement, involuntary. It passed.”
+
+Donna looked at her hands. “Mine ran fast. Spine to fingertips in thirty seconds. Then I could see things I couldn’t before.”
+
+Sarah absorbed this with the professional calm of a doctor receiving pre-operative briefing from patients who’d already survived the procedure. She straightened against the wall and laid her palms flat on her thighs.
+
+“Accepting,” she said.
+
+The blue lattice appeared beneath her skin, slower than Arthur remembered his own, the light tracing pathways that followed the nervous system but weren’t quite the nervous system. He’d seen it three times now. Each one had been different.
+
+Sarah’s recognition moved like a tide coming in. The lattice traced from her palms up her forearms, through her shoulders, down her torso, and back to her hands. The light followed the pathways her healing had carved through weeks of practice. Ten levels of data compressed into a pattern and reflected back as architecture.
+
+Her eyes closed and her breathing changed, slowing into the deep measured rhythm of a doctor performing a procedure on herself. Arthur watched her face and recognised comprehension. She wasn’t enduring the recognition. She was understanding it.
+
+Forty seconds passed, then fifty. The lattice pulsed one final time and settled into her skin.
+
+ARCHETYPE RECOGNITION: MENDER
+
+DOMINANT PATTERN: BIOLOGICAL REPAIR
+
+TECHNIQUE EVOLUTION: ACTIVE
+
+Sarah opened her eyes and looked at Arthur.
+
+Her gaze moved across him with a focus he’d only seen from her when she was diagnosing an injury, but she wasn’t looking at an injury. She was looking at all of him.
+
+“I can see your Nadi Matrix,” she said. She was a doctor describing a scan result. “The lattice. The blue lines. I can see them through-” She paused for a second, trying to get the right word. “-a new sense. The pathways running through your body, the structural reinforcement along the skeletal channels.”
+
+She turned to Steve. “Your forearms. The channelling damage from the ice projection. I can see where the pathways are inflamed along the medial aspect, from your wrist to your elbow.”
+
+Steve’s pen was moving. “This must be a diagnostic Ether sight. You can see the Nadi Matrix.”
+
+“I can see damage and I can see structure.” She held up her hands. “I’ve been healing blind. Feeling my way through injuries by touch and training. This is like going from palpation to having a scanner built into my hands.”
+
+She looked at Donna and paused. “Your nervous system is running ahead of real time. The neural pathways from your spine to your extremities are firing at a speed that should cause seizures.”
+
+“And yet,” Donna said.
+
+Sarah turned back to Arthur. “I want to allocate now.” She closed her eyes for a moment. “One into Constitution. One into Acuity. One into Resonance.”
+
+Sarah grimaced at each one, then opened her eyes and studied her hands with the expression of a doctor who’d been given a new instrument and was already working out its limits.
+
+ARTHUR ASHWORTH — L14: STR 28 | DEX 10 | CON 27 | ACU 6 | RES 10
+
+DONNA CALLAS — L14: STR 15 | DEX 33 | CON 19 | ACU 6 | RES 8
+
+STEVE PARR — L14: STR 7 | DEX 7 | CON 13 | ACU 34 | RES 20
+
+SARAH VASSILOU — L10: STR 7 | DEX 8 | CON 20 | ACU 14 | RES 20
+
+* * *
+
+Sarah did her rounds, kneeling beside Steve first.
+
+She took his forearms in her hands and ran her thumbs along the discolouration from the focus rod. “The channelling damage is worse than I thought this afternoon. Before the recognition I could feel the inflammation through touch. Now I can see the pathways themselves.”
+
+She traced a line from his wrist to the crook of his elbow. “The Ether flow runs along these channels. When you froze the limestone, you reversed the thermal direction, and the pathways weren’t built for it. Forty-one percent went where you intended. The rest bled into the surrounding tissue and cooled everything within reach, including you.”
+
+“Including my axe hand,” Donna said from the doorway.
+
+“Including her axe hand. But the pathways are adapting. Your Matrix is building insulation around the endothermic channels.” She released his arms. “It’s learning from the damage.”
+
+“The Nadi Matrix optimises under stress,” Steve said, writing. “Same principle as muscle fibre. Tear and rebuild stronger.”
+
+“I find it impossible to believe that a System just changed biology in under a second and gave us this Nadi-Matrix,” Sarah said, shaking her head. “And I can’t seem to figure out why a person got it and the person next to him didn’t. It makes no sense.”
+
+“The system didn’t create the Nadi Matrix,” Arthur said. “The Nadi-Matrix activated when Ether came. It was already inside us.”
+
+“As for the twenty-five percent. They didn’t have the genetic marker.” Steve nodded. “Archie told us in London. The Matrix requires a gene to function. Without it, Ether saturates the body without regulation, leading to systemic shutdown.”
+
+Sarah looked at him. “If the system didn’t build this, then where did it come from?”
+
+Steve glanced at Archie, who was hovering near the ceiling in his low-power configuration. “We’ve asked. The Seeders built the Grid, the Matrix, Archie. Beyond that, it’s locked.”
+
+Archie’s geometry rotated downward, brightening to operational levels.
+
+“The completion of two activation sites within this operational region has decompressed additional data partitions within my current authorisation tier.” A pause. The geometry cycled through a configuration Arthur hadn’t catalogued before. “I can provide context for some of what you are asking.”
+
+Steve’s eyes went wide, and he hurriedly picked up his pen.
+
+"The Nadi Matrix," Archie said, "is present in all human carriers of the R-M207 genetic marker. It was engineered into your species approximately thirty-four thousand years ago at a single geographic origin point in southern Asia. Seeder designation - AD-1Y0G-1."
+
+The farmhouse was very quiet for a long time after that.
+
+"Steve mentioned in London it's something to do with genetics. But what's R-M207 exactly?" Arthur asked.
+
+Sarah answered before Archie could. "Yes, a genetic marker. It passes from father to son through the Y chromosome." She saw Arthur's expression and simplified. "Think of it as a family stamp. Every man who carries it can trace his line back to the same ancestor. R-M207 split into two main branches thousands of years ago. One that dominates South Asia and Eastern Europe, and another that dominates Western Europe. Between them they cover a huge proportion of the world's male population."
+
+"Male population," Donna said from the doorway. "I have the Matrix. I'm not male."
+
+"The marker is male-only," Sarah said. "But the Matrix gene doesn't have to be." She looked at Archie. "The Matrix isn't on the Y chromosome, is it?"
+
+"The R-M207 marker on the Y chromosome passes only from father to son," Archie said. "The Matrix gene itself was placed on a standard chromosome, one that both sexes inherit. The marker is a tag. The Matrix is the payload, and the payload passes through both parents."
+
+Arthur held up a hand. "So R-M207 is like a medieval crown. It only passes from father to son. But the royal blood runs in the daughters too."
+
+"That is a reasonable analogy."
+
+"Then how do we end up with seventy-five percent of the world carrying this?" Arthur asked. "From one place in southern Asia?"
+
+Sarah was shaking her head. It was not confusion; she was rewriting a diagnosis in her head based on new test results. "Migration. If the gene was placed thirty-four thousand years ago, every population movement since then carried it further. The Yamnaya expansion five thousand years ago pushed it across Europe and Central Asia in both directions. Thousands of years of trade, conquest, intermarriage. And because the Matrix gene passes through both parents, it spread even wider than the male-only marker. R-M207 is only one-half of the trail. The real thing travelled through mothers too."
+
+"Someone modelled thirty-four thousand years of human migration," Steve said, writing fast, his handwriting deteriorating with his excitement, "and found the one geographic location where a single gene would spread furthest through natural reproduction."
+
+Donna had been listening from the doorway.
+
+“If the Seeders could do this, they could have done it more than once. Different populations. Different insertion points. Full coverage.” Her voice was flat. “They chose not to. Twenty-five percent of the human race died on Day Zero because someone decided seventy-five was good enough.”
+
+Archie’s geometry went to a hard white pulse, sharp enough to throw shadows against the farmhouse wall. When he spoke, his voice carried something Arthur had never heard from him.
+
+“You are describing an engineering achievement that exceeds the computational and biological capability of every civilisation I have observed across seventeen planetary integrations.” Each word was precise. Each word carried an edge. “A single genetic modification. One insertion event. Thirty-four thousand years of unguided propagation through a species that migrates, conquers, interbreeds, and destroys itself with mechanical regularity. Seventy-five percent coverage.”
+
+His geometry pulsed again, the shadows jumping on the wall behind him.
+
+“On eleven other worlds, the biological preparation achieved between twelve and forty-one percent propagation from comparable single-point interventions. The median is twenty-three percent. Earth is the most successful genetic integration in Seeder operational history. By a factor of three.”
+
+Arthur had heard Archie deliver casualty statistics, extinction timelines, the operational lifespans of dead candidates, all of it in the same flat clinical register. He had never heard this. For the first time since they’d met, something that sounded like emotion had bled through the architecture.
+
+“The Seventy-five percent,” Archie said, and the edge was still there, quieter but unmistakable, “represent the mathematical ceiling of what single-point genetic engineering can achieve across a species with your migratory patterns, your reproductive variability, and your consistent tendency toward self-destruction. The Seeders did not choose to leave twenty-five percent unprotected. They achieved the maximum the substrate permitted.”
+
+Donna held his gaze for a long time. Then Arthur saw her jaw loosen by a fraction.
+
+Sarah broke the silence with the steady voice of a doctor working through the problem.
+
+"He's right, Donna. You can't run the same experiment in five different labs and expect the same result." She held up her hands. "When I heal, my Matrix interfaces with the patient's Matrix. That only works because everyone's architecture is compatible. Same gene, same system, same language."
+
+"Then put the same gene in five places," Donna said. "Same gene. Full coverage."
+
+Sarah shook her head. "The same gene doesn't mean the same outcome. A gene doesn't work in isolation. It interacts with every other gene around it. If you put the same Matrix gene into five isolated populations and wait thirty-four thousand years, the surrounding DNA shapes how it expresses. South Asian genetic context builds the Matrix one way. West African context builds it slightly differently. Northern European, differently again."
+
+"One gene, one population, one connected bloodline," Steve said. "The genetic context stays consistent because everyone's descended from the same source."
+
+"One gene, one protocol," Sarah said. "Think of blood types. You're born with yours and you can't change it. Transfusions have to match, or your body rejects them. If there were five different Matrix types walking around, I'd need to match before I could heal anyone. One universal type means I can heal all of you." She paused. "The Seeders built a universal donor. The fact that it reached seventy-five percent of the planet from a single insertion is beyond anything I would have thought possible."
+
+Sarah was quiet for a time after that. When she spoke again, her voice had dropped into a more personal register.
+
+“My Yiayia,” she said. “My grandmother. She used to talk about the body’s rivers. Energy that flowed through channels in the skin and the muscle and the bone. She said health was flow and sickness was blockage, and that the right hands could feel where the rivers had stopped.” Sarah turned her palms upward and looked at them. “She was describing the Nadi Matrix. Knowledge surviving in folk traditions.”
+
+She looked at the channels in her own hands that only she could see.
+
+“And I told her it was superstition.”
+
+Steve had lowered the pen. “Priya,” he said quietly. “In the hardware shop in London. She recognised the word Nadi immediately from Ayurvedic tradition. Energy channels in the body, described in Sanskrit texts thousands of years ago. The same system in a different tradition.”
+
+“Same system,” Sarah said. “Different grandmother.”
+
+Nobody spoke for a while. Arthur thought about that. Two women on different continents, in different centuries, describing real Seeder infrastructure in their grandmothers’ words. Both dismissed by the generations that followed them.
+
+Sarah’s face had gone still. Arthur recognised the expression from the compound: the surface calm of a woman processing something that cost more than she would show. Her grandmother had been right. The channels were real. The folk medicine was real. And the Baron had taken the same gift Yiayia celebrated and run it like a production line.
+
+Arthur didn’t ask about it. He carried his own version of inherited weight and had learned that naming someone else’s rarely helped.
+
+Sarah looked up from her hands. “The standard explanation for R-M207’s distribution was always migration. The Yamnaya expansion five thousand years ago. Indo-European populations moving east and west.” She paused, and Arthur could see her turning it over, the medical mind and the granddaughter’s grief running on parallel tracks. “But for a single gene placed at one point in southern Asia to reach three-quarters of the planet through reproduction alone, someone didn’t just engineer the gene. They modelled thirty-four thousand years of human migration and found the exact insertion point that would carry it furthest.”
+
+She looked at Archie. “Who are... Were the Seeders?”
+
+Archie’s geometry slowed to its lowest rotation. The light dimmed to the flat, stripped configuration Steve had catalogued months ago- the wall. Archie did not answer.
+
+Steve opened the ledger and wrote something beneath the day’s notes, underlining them. Twice.
+
+THE ETHER ATLAS: FIELD NOTES OF STEVEN PARR
+
+Paola, Malta
+
+THE DORMANT PROBLEM
+
+The Nadi Matrix was engineered thirty-four thousand years ago. It activated on Day Zero. That is a thirty-four-thousand-year gap between installation and deployment.
+
+Archie called it dormant. I am not sure that is accurate.
+
+Sarah's grandmother could feel the channels. No Ether. No system activation. No Grid. Just a woman pressing her hands against skin and sensing flow and blockage in something that was supposedly inert. Priya's Ayurvedic tradition mapped the same channels in Sanskrit texts written centuries before electricity, let alone Ether. Chinese acupuncture. Japanese reiki. Polynesian mana pathways. Every healing tradition on this planet independently described a system that was, according to Archie, switched off.
+
+Dormant systems do not generate cultural memory on six continents.
+
+Either the Matrix was never fully dormant and has been doing something at a sub-threshold level for thirty-four millennia, or the Seeders installed something that resonates strongly enough with human biology that we could feel the architecture even without the power supply. I do not know which is more extraordinary.
+
+If the first: what has it been doing? Guiding healer selection? Strengthening the gene's survival advantage? A dormant Matrix that subtly rewards its own carriers would explain why the propagation rate hit seventy-five percent when the median across eleven other worlds is twenty-three. The gene didn't just spread. Something helped it spread.
+
+Archie's geometry went dark when Sarah asked who the Seeders were. That silence has a texture I have catalogued before. It is the silence of architecture, not discretion. He has the answer. The system will not let him say it.
+
+But he defended them. Whatever the Seeders are, Archie's relationship with them is not operational. It is personal. A construct does not speak with that kind of heat about a specification document.
+
+✎ The Matrix was never dormant. We just didn't have the voltage to see it running.

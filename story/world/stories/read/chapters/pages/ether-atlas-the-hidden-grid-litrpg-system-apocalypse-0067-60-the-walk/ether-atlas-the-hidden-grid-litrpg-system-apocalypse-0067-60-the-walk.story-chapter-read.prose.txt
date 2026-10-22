@@ -1,0 +1,289 @@
+Chapter 60
+
+“The distance between activation points varies by planetary geography. The transit is not incidental. The transit is the test.” — Codex of the Long Watch, Operational Record, Integration 2.7
+
+Arthur struck the shield.
+
+The Ironhold rang clean and high, the note climbing through the limestone under his feet and running inland. He counted three seconds, then five. Then the answer came through his boot soles. A low pulse from beyond the scrubland.
+
+The response felt a little quicker compared to Mnajdra.
+
+“Bearing confirmed,” Archie said. “Fifty-two degrees. Deviation: negligible.”
+
+Steve scribbled in the ledger. Donna was tracking the dry grass to the east, where something low and fast had started moving through the brush. Responding to the pulse.
+
+“Two,” she said. “Forty metres. Coming from the tree line.”
+
+Arthur planted the shield.
+
+They came out of the scrub in a dead run, the same goat-derived creatures albeit smaller than the Mnajdra pack. Skull plating across the cranium, flanks exposed. His body read the approach speed and committed to the brace.
+
+The first hit the Ironhold face-on. The impact rolled across the surface, distributed and absorbed, converted into something his shoulders could manage. The second darted left from the shield and tried to flank left. Donna was there, axe finding the gap between skull plate and spine with a swing that made precision look effortless. The creature dropped before it registered the cut.
+
+Arthur shoved the first one back. Steve’s concussive burst caught it mid-stumble. It hit the ground sideways and Arthur finished it with the hammer. Fifty seconds, start to clean.
+
+Sarah stood six metres back, the Reacher held across her body like a barrier. Her knuckles were white on the shaft but her breathing was even.
+
+“Show me,” she said, already looking at Arthur’s forearm where chitin from the second creature had scraped past the shield edge.
+
+He held the forearm out for her. The cut was shallow, barely bleeding. She looked at it for two seconds. “You’ll live,” she said, and a half smile crossed her face. “I’ll hold on to my Ether for when you really need it.”
+
+“Yes, Arthur. Don’t be a baby,” Donna chuckled.
+
+“Hey, wait a minute. I didn’t ask for heals,” Arthur said defensively.
+
+“First cycle,” Steve said, pen to ledger. “Still on bearing. How close are we, Archie?”
+
+“Triangulation requires a minimum of three data points from non-collinear positions. You have one.”
+
+“So we keep walking.”
+
+“That is one interpretation of the available data.”
+
+Donna wiped the axe. “Well, let’s get to it. Walk.”
+
+They moved out across the open ground. The sun sat low behind them, throwing their shadows long across the karst. The limestone crumbled in places where centuries of weathering had eaten the surface calcium. Rubble walls lined the field boundaries, dry-stacked, no mortar, some of them older than half the buildings he’d surveyed in London. Good construction with nobody left to appreciate it.
+
+The road had vanished a kilometre back, replaced by a farmer’s track that was more rut than path. Sarah stayed between Arthur and Steve, keeping a distance that balanced safety with sight lines. She was learning the formation, Arthur realised, fitting herself into the group’s rhythm without being told where to stand.
+
+Steve was keeping pace beside him, writing as he walked, which meant they were covering about two-thirds of the ground they should have been.
+
+“You know what this is?” Steve said, pen hovering. “This is a transect survey. We walk a straight line through an environment, record every specimen we encounter, note frequency and distribution.”
+
+“You’re comparing this to fieldwork,” Donna said from the rear.
+
+“The methodology is identical. We’ve just replaced pottery sherds with mutant goats.”
+
+“The goats hit back.”
+
+“Which is a methodological improvement. Pottery never tells you your survey design is flawed.”
+
+Arthur struck the shield again.
+
+* * *
+
+The second strike brought three.
+
+Two similar to the goat-derived creatures from before but larger than the first pair, and something new. A low-slung, lizard-shaped creature, armoured along the spine with overlapping plates that looked like slate tiles. The lizard moved with a deliberation the goats lacked, each foot testing the ground before committing weight, reading vibration through its footpads.
+
+“Armoured spine,” Donna said. “Belly’s soft.”
+
+She didn’t wait. She circled right, drawing its attention. The lizard tracked her with small, precise head movements and did not commit. Donna feinted low. The lizard held. She went high, reversed direction, and came back low again. The lizard lunged.
+
+Its mouth opened wider than the skull should have allowed, replacement teeth stacked three deep behind the front row. Donna dropped under the bite, and the teeth clipped hair as she rolled. Karst tore her trouser knee open and scraped the skin underneath raw, but she came up inside its guard and drove the axe into the soft belly from below.
+
+The creature’s own momentum pushed the blade deeper. It thrashed once, dragging Donna sideways before the nerves disconnected and the weight collapsed.
+
+She pulled the axe free and checked the goats. Arthur had both on the shield, but they were hitting harder and faster, staggering their charges so he couldn’t reset between impacts.
+
+“Steve!”
+
+“Yes, sorry, the angle was all wrong,” said Steve as he put a thermal burst through the nearer goat’s flank. The smell of scorched keratin cut through the limestone dust. As it staggered, another thermal burst caught it below the chin and it went down.
+
+As the last one charged Arthur again, he broke its footing with a shove and put the hammer through its eye socket. Before it could recover, the next blow caught it on the side of the jaw, ending the engagement.
+
+Donna’s knee was bleeding through the torn fabric. She looked at it and said nothing.
+
+Sarah was already there. She cleaned the gravel from the wound by hand before channelling, pressing warmth into the shredded tissue until Donna’s face unclenched. Then she went to work on Arthur’s left wrist, strained from absorbing staggered impacts.
+
+“Your wrist needs ten minutes,” she told him. “Keep the shield down.”
+
+While Sarah worked on the wrist, Donna checked the three carcasses. One core from the lizard, nothing from the goats. She held it up: flatter than the goat cores, slate-grey, cool to the touch.
+
+“Different type, different core,” Steve said. “We should log that.”
+
+“I’m logging it by putting it in my bag.”
+
+When Sarah finished, the system notification was waiting:
+
+INTEGRATION THRESHOLD REACHED
+
+LEVEL 8
+
+Integration: 74/1,134
+
+Attribute points available: 3
+
+Total unallocated: 9
+
+Sarah read it and closed her eyes for two seconds. “Banking.”
+
+Steve lowered the pen and looked at her. “Nine unallocated points. Sarah, listen, when we find a safe place to stop we need to sit down and allocate. CON-RES primary with ACU support - that’s what your healer trajectory wants. The sooner those points are doing work, the safer the rest of us are.”
+
+“I know.” She looked inland. “First safe place.”
+
+“I’m going to hold you to that,” Steve said.
+
+* * *
+
+The third strike brought five.
+
+They came from three directions: two from the scrub east, two from the south where the terrain dropped toward a dry riverbed, and one from a drainage culvert to the west that Arthur had dismissed because it was eighteen inches across and nothing with a spine should have fit through it.
+
+The thing that emerged was snake-derived, boneless and fast and it was heading for Sarah.
+
+Arthur couldn’t reach her. He had two goats on the shield, their combined weight driving him backward across loose stone. Donna was engaging the southern pair twenty metres away. Steve stood between positions, rod raised, choosing.
+
+“Steve!” Arthur jerked his chin.
+
+Sarah saw the snake-thing before Steve’s head turned. She planted the Reacher in the dirt at an angle, braced the base with her boot on it and held. The creature hit the shaft and the impact buckled her arms, but the angle held. The snake deflected left, momentum carrying it past her, midsection exposed for half a second.
+
+Steve’s concussive burst hit it centre-mass and it folded.
+
+Sarah stumbled back three steps in panic but pushed the Reacher into the downed creature, her arms shaking. The snake went still and she kept hold of the Reacher.
+
+Arthur took a skull-plate charge to the ribs while his focus was split. The Bulwark Vest spread the force across its ceramic plates, but the creature’s mass drove the air from his lungs. His vision greyed at the edges and he tasted copper.
+
+He swung the hammer without seeing the target, more to maintain distance than to hit it, but felt the hammer connect. He swung again and heard something crack that wasn’t him. Then he felt a gush of hot air pass him.
+
+When his vision cleared, both goats were down. Steve had cooked the second one. Donna was walking back from the southern pair, axe dripping, breathing hard for the first time all day.
+
+“Five,” she said.
+
+“I know.”
+
+“Three directions.”
+
+“Yeah, the terrain is of no help.”
+
+Sarah came up behind him and looked at his arm pressed against his ribs. “How bad?”
+
+“Vest took it, mostly.” He breathed in. The pain was blunt. A load his frame could carry. “Bruised, I think.”
+
+“I’ll be the judge of that,” Sarah said as her hands went to his ribs through the vest fabric, warmth going deeper, searching.
+
+“Not bruised, cracked. Two cracked floating ribs,” she said. “The vest stopped them from being displaced. Hold still.”
+
+Arthur held still while she worked. Four minutes by his count. When she finished, the pain had faded to an echo.
+
+Donna was nudging the snake with her boot. “That came through an eighteen-inch gap.”
+
+“Ether-saturated fauna demonstrate significant skeletal plasticity,” Archie said. “On Zed-rssk, organisms within proximity of a high-density node exhibited coordinated approach vectors and adaptive morphology. The pattern is consistent.”
+
+Donna looked at the drainage culvert and then at Archie. “Plasticity. You mean it was flexible.”
+
+“I will not substitute imprecise terminology for the sake of accessibility.”
+
+“It squeezed through a pipe.”
+
+“With considerable skeletal reorganisation, yes.”
+
+Steve’s pen stopped on the page. “You’re saying the closer we get to the node, the more organised they become. Or maybe the closer they are to a node, the more Ether they are absorbing, which is making them smarter?”
+
+Archie’s geometry rotated once, slowly. “I am describing what I have observed.”
+
+“On a planet that doesn’t exist anymore.”
+
+Archie did not respond to that.
+
+They rested for fifteen minutes. Steve sat with the ledger open, staring out at the haze. He uncapped his pen and wrote something in the margin. He underlined it twice.
+
+Sarah checked Arthur’s ribs a second time. “Still holding,” she said.
+
+“Told you.”
+
+“You also said bruised. They were cracked.”
+
+He didn’t have a good answer for that.
+
+* * *
+
+Strike. Fight. Heal. Walk. The cycle became a machine, each component locked to the one before it, and the rhythm settled into Arthur’s body like repetitive load testing. You stop counting individual stress events. You calibrate, compensate, endure.
+
+The creatures came in twos and threes and fours. Twice more they came in fives. Sarah healed between every engagement, her hands steadier each time, the hesitation from the compound gone entirely. She read each fight with a triage nurse’s instinct: who was bleeding, how bad and how fast she could reach them. By the sixth cycle she was calling flanking threats as a backup spotter to Donna.
+
+Between fights, Donna butchered and Sarah watched. By the fifth cycle, Sarah held out her hand. “Show me where to cut.”
+
+“You sure?”
+
+“I’m a surgeon. I know how to find things inside bodies. And I like to feel useful.”
+
+Donna showed her the incision point and the angle. Sarah’s first attempt was cleaner than Donna’s first had ever been. She held the core up, turned it in bloody fingers, and handed it to Donna for the pouch.
+
+Arthur rotated his left shoulder. “My shoulders say you’re useful enough already.”
+
+Level 13 fired for the party between the seventh and eighth strikes.
+
+INTEGRATION THRESHOLD REACHED
+
+LEVEL 13
+
+Integration: 109/1,968
+
+Attribute points available: 3
+
+Total unallocated: 6
+
+Arthur dismissed the notification and struck the shield again. Six banked points. He could feel the weight of them sitting unused, two levels’ worth of potential sitting behind a decision he hadn’t made yet. The numbers would wait. The creatures wouldn’t.
+
+Arthur found himself watching Sarah during the eighth cycle, after she’d called an approach vector that even Donna had missed. Sarah had positioned herself at the exact distance where she could reach any of them in under three seconds. Her body had learned the geometry of their formation through repetition, under pressure, with no room for theory.
+
+Sarah hit Level 9 two cycles later.
+
+INTEGRATION THRESHOLD REACHED
+
+LEVEL 9
+
+Integration: 495/1,328
+
+Attribute points available: 3
+
+Total unallocated: 12
+
+She banked the points without comment and went back to sealing a gash on Donna’s shoulder.
+
+The response grew stronger with every strike. Each answer arrived faster and heavier, the echo shortening as the distance closed. By the ninth cycle the pulse came back in under two seconds. Still distant, but closer. The pipe was getting shorter.
+
+Steve had stopped writing in the ledger. He was just listening to the rhythm now.
+
+* * *
+
+It was late afternoon when they found a chapel at the top of a low rise, the sun behind them turning the limestone gold.
+
+It had a single room, four walls, one entrance facing east. Limestone block construction, fitted tight, mortar still sound despite what looked like two centuries of neglect. Two narrow windows were set high.
+
+The roof was barrel-vaulted stone rather than timber. No fire risk, no collapse risk worth calculating. A structural engineer could have designed it as a defensive position and barely changed a thing.
+
+“This works,” he said.
+
+Inside was cool and dry. Wooden pews had been pushed against the south wall and stacked sideways. Everything was covered in a uniform layer of dust that said nobody had been here in years. A stone altar stood at the far end, plain and undecorated.
+
+Donna came back after checking every corner and the windows. “One entrance. Good sight lines. We will stay here tonight.”
+
+Sarah set down the Reacher and shook her hands out. She’d been channelling healing energy for eight hours straight. Her hands had a fine tremor, and she studied it with clinical detachment, a doctor reading her own vitals on a ward round.
+
+Then she started her rounds. Donna’s accumulated scrapes and the shoulder gash that had reopened on the last cycle. Steve’s forearms, where the rod had left pressure marks from sustained channelling. She ran her thumb along the discolouration and frowned.
+
+Arthur leaned the shield against the wall beside the door and sat with his back against the cool limestone. Setting his body down felt like blessed relief. It felt like his skeleton was still vibrating from all the hits he had taken during the walk.
+
+“We need to allocate,” he said. “But we need clear heads for it. Let’s get some rest and a bite to eat. We’ll do it before we start again.”
+
+THE ETHER ATLAS: FIELD NOTES OF STEVEN PARR
+
+Southern Malta
+
+THE BALANCING EQUATION
+
+Sarah received roughly eighty Ether per kill. We received roughly sixty. Same fight.
+
+Same creatures. Different yield. Archie called it Integration deficit weighting.
+
+Lower-level participants receive a proportionally larger share to accelerate convergence. The system wants the party at the same level. It is not passive.
+
+It is pushing. This has implications I have not raised with the group. The system is not a neutral ledger.
+
+It has preferences. It wants balanced parties. It distributes resources to achieve that balance.
+
+There is a question buried under the mechanic that I keep circling. Why does the system care if Sarah catches up? A neutral system would distribute Ether evenly and let the level differential persist.
+
+A purely meritocratic system would distribute proportionally to contribution, which would punish the new joiner. Instead, the system actively rebalances toward parity. That is not neutral.
+
+That is engineered. If the system rewards party composition, then the system anticipated parties. If it anticipated parties, the candidate was never meant to do this alone.
+
+Archie selected Arthur. Arthur recruited us. We recruited Sarah.
+
+At every step, the system adjusted to accommodate the new configuration. It has not once penalised us for being more than one. There is no version of these mechanics that does not assume cooperation.
+
+A solitary candidate, whatever Archie may have intended at selection, would be playing a fundamentally different game. A worse one.
+
+✎ The system does not reward individual excellence. It rewards group function. Every mechanic we have discovered optimises for a party, not a person. I do not think that is accidental.
