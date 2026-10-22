@@ -39,6 +39,7 @@
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"page/ui/component/modules/use-app-nav-items/use-app-nav-items.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"page/ui/component/modules/use-descendant-pages/use-descendant-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"page/ui/component/modules/use-page-default-content/use-page-default-content.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"page/ui/component/modules/use-page-default-content/use-page-default-content.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-hrefs/use-pages-filtered-hrefs.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-mutations/use-pages-filtered-mutations.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.code.ts","typed":true,"deferred":false}

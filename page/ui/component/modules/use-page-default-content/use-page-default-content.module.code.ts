@@ -173,6 +173,7 @@ export function usePageDefaultContent({
   return {
     page,
     isLoading: isLoading || pageTypesLoading || relatedLoading,
+    pageIsLoading: isLoading,
     pageTypes,
     relatedPages,
     targetSlug,

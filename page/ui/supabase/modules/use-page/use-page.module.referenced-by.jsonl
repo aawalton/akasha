@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"use-page.module.code.ts","path":"page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-page.module.code.ts","path":"page/ui/component/modules/reader-page-source/reader-page-source.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-page.module.code.ts","path":"page/ui/component/modules/use-page-default-content/use-page-default-content.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-page.module.code.ts","path":"page/ui/component/modules/use-page-default-content/use-page-default-content.module.test.ts","typed":false,"deferred":true}
 {"propertySlug":"import","fileName":"use-page.module.code.ts","path":"story/world/stories/read/modules/reader-shell/reader-shell.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-page.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-page.module.code.ts","path":"story/world/stories/written/story-written.page-type.page-component.code.tsx","typed":false,"deferred":false}

@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"page/ui/component/modules/reader-chrome/reader-chrome.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"page/ui/component/modules/sortable-navs/sortable-navs.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"page/ui/component/modules/use-page-default-content/use-page-default-content.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"page/ui/component/modules/use-page-default-content/use-page-default-content.module.test.ts","typed":false,"deferred":true}
 {"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"page/ui/component/modules/use-pages-filtered-mutations/use-pages-filtered-mutations.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"page/ui/component/modules/use-view-row-handlers/use-view-row-handlers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"navigation-context.module.code.tsx","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx","typed":false,"deferred":false}

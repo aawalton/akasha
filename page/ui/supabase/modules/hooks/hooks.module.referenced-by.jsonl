@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"hooks.module.code.ts","path":"page/ui/component/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"hooks.module.code.ts","path":"page/ui/component/modules/reader-page-source/reader-page-source.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"hooks.module.code.ts","path":"page/ui/component/modules/use-page-default-content/use-page-default-content.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"hooks.module.code.ts","path":"page/ui/component/modules/use-page-default-content/use-page-default-content.module.test.ts","typed":false,"deferred":true}
 {"propertySlug":"import","fileName":"hooks.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"hooks.module.code.ts","path":"page/ui/component/modules/use-view-tab-content-data/use-view-tab-content-data.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"hooks.module.code.ts","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx","typed":false,"deferred":false}
