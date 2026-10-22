@@ -1,0 +1,575 @@
+“Target identified.”
+
+Exploration was quickly cut short as projectiles struck my chest.
+
+I fell, clutching at myself as breath fled my lungs, torso crumpling as I attempted to scramble behind a large crate.
+
+I’d barely made it a few paces into the terrifying, wondrous facility ahead before two mounted guns had started indiscriminately firing at me.
+
+At least, I assumed they were guns. They looked similar to the weapon I’d managed to pick up earlier.
+
+Gasping, I felt beneath myself for blood, but besides what I suspected was a cracked rib and some nasty bruising, I couldn’t detect any injuries that had gotten through. Most of the still-warm bullets had been crushed against my vest. They fell to the floor with loud clinks! as I brushed them away.
+
+I could hear the spinning whir of both guns slowly dying down as I hid. I tried to consider my next actions, thankful that the weapons didn’t continue to shoot at my hiding spot.
+
+I had my own weapon. Maybe if I shot the turrets I’d be able to disable them?
+
+I wanted to test things before I popped my head back out. First thing was grabbing a rock from my [Hoard] and tossing it into the centre of the corridor.
+
+No reaction. The guns didn’t move or even whir.
+
+Next was me tapping my foot against the metallic floor, first quietly and then progressively louder.
+
+No response. I could make noise just fine. Whatever method these guns used to detect motion, it must’ve been reserved for things that it considered to be ‘targets’.
+
+Considering that, I decided to aim my own gun at the rock I’d thrown.
+
+It was about ten feet away from me. I’d never fired a gun before; the closest I’d come was a crossbow I’d briefly gotten my hands on, but the principle didn’t seem much different.
+
+I pulled the weapon up to my face, allowing my eye to travel down the line of the iron crosshair that ran along the top of the weapon.
+
+Once I had a good view of the target in front of me, I pulled the trigger.
+
+The recoil caused the back of the weapon to collide with my cheek, bashing it as the gun fired multiple rounds in the span of a second.
+
+I gasped as I attempted to measure the effect.
+
+I hadn’t managed to hit the rock, but there was a dent in the floor just inches away.
+
+I tried again. This time, I pinged it, and the rock bounced a few feet, landing upturned with a large hole running through it.
+
+The bullet appeared to be embedded inside…
+
+This weapon had decent stopping power, but it wasn’t able to pierce both sides of even a fist-sized piece of stone. Would it be able to punch through those wall-mounted turrets enough to disable them?
+
+I had a thought. Grabbing another stone, I struck it against the Pyre Stone to heat it in the same manner I had when unlocking the door’s console.
+
+Once the rock was sufficiently hot, I threw it out into the open, just like the other one.
+
+“Target identified.”
+
+Both turrets sprang to life, once again whirring as they began ripping up the ground near where the hot stone had impacted.
+
+They detect heat, just like the sensor on this weapon does.
+
+Even now, I could see a distinct red pulse on the weapon’s thermal sensor, indicating where I’d thrown the rock.
+
+I took advantage of the distraction while I could. I popped out from my hiding spot, lining up the weapon against a single target and beginning to fire.
+
+Again, the weapon rattled against my cheek and shoulder as I shot in a large burst at the leftmost turret. I started to squeeze the trigger more intermittently as I went, realising my aim drifted less as I did so, but even after exhausting a full cartridge of bullets, the turret I was aiming for still seemed operational.
+
+It turned at me, continuing its rapid stream of bullets.
+
+I caught one in the arm before I was able to hide again. That pain was blinding. It felt like something white-hot had branded me far beneath my skin.
+
+I took a sip of superior healing potion, and for the first time, felt that it didn’t do a perfect job of rejuvenating me.
+
+Mainly because rather than ejecting the bullet that had entered my upper left arm, it had healed over the wound. The bullet was still somewhere deep inside.
+
+I could feel it inside, but it didn’t necessarily hurt…
+
+It was probably fine. I flexed my arm just to make sure it still worked properly.
+
+Okay. Time to figure out how to reload this thing.
+
+I replaced my potion before pulling a new magazine from my [Hoard]. It took me a few moments to figure out how to eject the previous magazine and slot this one inside, but it wasn’t as difficult as I’d anticipated.
+
+Popping back out from my cover, I took aim, pulled the trigger and...
+
+A hollow click. Why was nothing happening?
+
+I ducked back and checked the weapon. The new magazine seemed securely in place. But pulling the trigger wasn't making anything happen.
+
+I tutted as I stored the weapon. Maybe I'd broken it? I'd figure it out later. Either way, I needed a new strategy.
+
+I hadn’t been able to damage the turrets so far, and I clearly needed to get past them somehow, but shooting them wasn’t on the cards, so…
+
+I heated and threw another rock, the last one I had stored. If I’d had enough things to throw, I might have been able to make the turrets burn through all of their ammunition. If there was closer cover, I might be able to make them shoot at each other. Considering those didn’t seem to be options…
+
+“Target identified.”
+
+The guns whirred back to life.
+
+Power and Rush Stones were stabbed into my arm without hesitation. I felt the thrum of strength as I burst from behind my hiding spot, rushing across the room as quickly as my legs could carry me.
+
+[Running 5 >> 6.]
+
+The turrets still hadn’t reacted to me zooming across, and as soon as I reached one, I grabbed the hot, still-firing machine and attempted to rip it off its wall mounting.
+
+It took all of my enhanced strength for me to succeed, and as soon as I did so, despite the incredibly long belt of bullets trailing from the weapon, the weapon ceased to fire and eventually stopped spinning.
+
+I was in the corner of the corridor, against two walls. The other turret didn’t seem able to turn all the way to me from here, and despite having noticed me, wasn’t firing.
+
+Still, I’d need to walk past it if I wanted to get through this corridor.
+
+Staring down at the turret in my hands, I looked for a slot that would properly fit a Control Stone.
+
+To my joy and surprise, I found one. For the first time, I took a Control Stone and fed it into a mechanical object, watching it glow a faint green as a system screen unlike any I’d seen before appeared before me.
+
+[Neural link established. Mk. III light mounted turret will respond to any reasonable commands you give it until Grade D Control Stone runs out of charge.]
+
+[Estimated duration remaining: 3 hours.]
+
+I blinked as I read the message. What reasonable commands could I give a gun?
+
+I wrapped the belt of bullets around my shoulder in a sash as I thought up the one reasonable answer there was.
+
+‘Fire’.
+
+The turret whirred to life as I aimed it at its sibling, and with a loud, manic vibration that jolted my entire body, the machine roared, spinning like a cyclone as dozens of cases dropped to the ground before me and the other opposing turret was filled with holes, its inner mechanisms sizzling and shooting out static lightning as a small part of it caught on fire.
+
+The turret in my hands grew progressively hotter until I finally commanded it to stop. It really was as simple as thinking it.
+
+Control Stones were crazy. Was there a proximity on this mental link I’d attained?
+
+Before I went any further, I decided to test just that.
+
+I set my previously wall-mounted gun down before pointing it at the wall and stepping back five paces.
+
+I mentally commanded it to fire. It did so.
+
+Grinning like an idiot, I walked back ten paces and repeated the process.
+
+It worked.
+
+Fifteen.
+
+It worked.
+
+Twenty…
+
+Nope. Seemed that the neural link had a limit. Whether that was due to the power of the Control Stone being used or something else, I wasn’t sure, but the answer was immaterial right now.
+
+Point was, I had a weapon I could activate from range if I wanted. All I needed to do was situate it somewhere where it would hit something. I’d try to find something I could mount it on if I could.Before leaving, I decided to figure out what was wrong with my new gun. I removed it from my [Hoard] once more, giving it a good look over.It took me some time to realise there was a switch I could flick on the weapon, as well as a sliding thing that I could pull on. I was hesistent to mess with it at first, but after giving that a good yank, one that took a fair bit of strength to accomplish, I was finally able to fire once more.
+
+[Tinkering: 5 >> 6.]
+
+Seemed I had to slide that thing back with each new magazine if I wanted to fire. It'd taken me a little while to figure out, but my system seemed happy with my discovery.
+
+Before leaving, I went over to the other turret and tried to rip out its ammo belt, but what it had left wound up barely being worth taking. Someone had clearly restocked my turret far more recently than the other one.
+
+Whatever. More ammo didn’t hurt.
+
+After passing that first hurdle, wary about the existence of other security and knowing there might be living enemies inside, I decided to pull the submachine gun back out of my inventory.
+
+Holding both it and the mounted turret simultaneously was kind of awkward, so I stored the latter, knowing I could pull it back out fast if a threat came up that my current weapon couldn’t handle.
+
+Considering the look of this place, with the flickering lights and the lack of noise, the clacking echo of my footsteps and the gentle buzz of machinery, I figured there were likely no Drassians to speak of anymore.
+
+That didn’t mean there weren’t rift monsters inside, though. Plus, the journal I’d read had mentioned ‘ferals’. Who knew what those were?
+
+My thermal sensor wasn’t picking anything up so far. My eyes flicked to it every few seconds as I crept through the corridor and out into a large, expansive area.
+
+The ceiling of this place was wide and sat maybe a couple hundred feet in the air, high enough that the light barely stretched to accommodate.
+
+There were multiple balconied floors overhead, spanning around the edges of the large oval room, complete with sets of stairs on either side alongside glass and metal boxes that seemed to run between the ground and higher floors.
+
+The ground floor itself seemed to host a wide variety of plant life. An entire garden, clearly manmade, spanned the centre of my periphery: large green leaves, purple vines, and yellow fruit-like growths dangling from thin branches stole my focus for a time.
+
+They, like everything else on this floor, were bathed in the everpresent white glow of strip lights that emanated from the ceiling, powered by either magic or whatever other strange force permitted the constructs in this facility to remain operational.
+
+The entire area had been lit in a similar sense, though the lights dimmed in some places and seemed to straight up not work in others. Clearly, some of the power in this facility had already failed, and likewise, some of the large plants below seemed to have grown out of their previous fixtures, likely in search of stronger light, possibly due to no one tending them.
+
+The whole place looked fascinating. It was sterile, alien, and wondrous, but it carried a grim undercurrent. I couldn’t ignore the lack of life or noise permeating my surroundings, nor my awareness that the previous residents were likely all dead.
+
+I also couldn’t ignore the stifled air tugging at my mask’s flimsy defences.
+
+I couldn’t be here too long. I needed to find a way out soon.
+
+Still, I could check a couple rooms first. I hadn’t come this far just to immediately leave, even if I knew a full exploration of this place would need to wait, at least for a time in which I had a better-working mask and no imminent worries about starving to death.
+
+I wandered around the ground floor first, giving the plants a wide berth out of abject paranoia, eventually stumbling across a low-ceilinged area that ran more than fifty feet wide and across, complete with a ton of benches and tables, some of which were upturned.
+
+At the centre of it all was a still-running fountain, its architecture pretty but simplistic, the water appearing clean.
+
+It had a large crack in its side, and was endlessly spilling water onto the floor, which cascaded down towards a distant vent.
+
+In the distance was a long table that had been filled with bowls and trays.
+
+Their contents were rotted, partially disintegrated. There were no insects to be found amongst the spoiled items. Even that born from death had died here.
+
+How long had it been since this place was operational? Years?
+
+“Guest detected!”
+
+Before I could react, or even do more than instinctually grab for my gun, a square-shaped… thing on three wheels had rolled on up to me. With a blue glow emitting from what appeared to be eye-holes, it scanned me up and down.
+
+“Oh no! You appear to be missing a Guest Pass.”
+
+It began beeping and its square body started to spin. Within moments, it appeared to have printed a piece of card, which it then covered in a glossy, see-through substance.
+
+It held it out to me, and I stared at it.
+
+A perfect illustration of my own, masked, bloodstained face stared back at me, looking dishevelled and tired.
+
+“Please have your Guest Pass visible on you at all times!” The voice advised me. “Otherwise, certain security krrzh may mistake you for an intruder!
+
+“Your pass is also needed in order to access certain areas! This is a tier one pass, and cannot be used to access control rooms, the brig, storage rooms, mining routes, or lab areas! If you think you need a higher-tier pass, please go to maintenance and speak to staff there!”
+
+I stared at the metallic creature—if it even was a creature. I felt that the back of the Guest Pass was sticky, and decided to affix it to the front of my vest.
+
+“...thank you?”
+
+“You’re welcome! If you krrzh a tour, please go to reception and have one booked! I’d be happy to show you around the place!”
+
+I blinked. “...can you just show me around now?”
+
+“If you krrzh a tour, please go to reception and have one booked!”
+
+Well, never mind that then.
+
+Hold on. How could I even understand the little thing? Had almost all of the words it’d used been present somewhere in the journal I’d picked up earlier?
+
+Seemed to be the case. It was a pretty big book.On second thought, how had the machine been able to understand me? Had I spoken in another language?
+
+Questions for later. I decided to give myself a quick tour if I wasn’t getting one, leaving this area behind and continuing on to the other end of the large hall.
+
+The outlay of the rooms and walkways that dotted the outskirts of this area appeared pretty uniform, the architecture of the facility being consistent in its clean and clinical nature. It… wasn’t quite what I imagined the inside of palaces looked like, as I assumed those were filled with much more art and gold and splendour, but maybe I was wrong. Stuff this advanced had to belong to filthy rich people. No one but a lord or a king would be able to put such a structure together. Even having access to all of these materials was one thing. Having the energy and manpower to build this place was another.
+
+I was pretty sure I was walking through the abandoned headquarters of a powerful foreign country right now. Possibly one far stronger than my own.
+
+Then again, maybe Melusia had the resources to build things like this, and I’d just never seen it.
+
+I pondered each possibility as I moved past the gardens and towards the far end, spotting a large, domed structure that veered off to one side, and a set of glass doors that ran down the centre.
+
+Behind those glass doors was something amazing. I could see it clear as day. I walked forwards, mouth hanging as I took the structure in, eyes widening, shock and awe swirling in my mind.
+
+The glass doors before me slid open of their own accord. Normally, that might’ve startled me, but right now, I was too transfixed to realise.
+
+I was staring at another portal.
+
+From the looks of it, it was more or less identical to the one I’d used to come into this rift. There was the same signature swirl, the colours bleeding into one another and being lost entirely before I could grasp what I’d been looking at only a moment prior… an infinite, enigmatic miasma.
+
+That said, I couldn’t feel the same static buzz in the air. Couldn’t smell the sulphuric taint. Couldn’t feel the pressure pushing and pulling my body all at the same time.
+
+There was one distinct difference between this portal and the one that I’d used to come into this rift.
+
+A faint blue sheen around it. It was translucent, but solid, and seemed unwavering even against the swirling force of the portal beneath it, lightly shimmering as it stood against the insane pulse.
+
+A barrier. The one I’d read about before.
+
+I confirmed as much as I walked closer. I didn’t dare to touch it, worried what it might do to my hand, but the fact that I couldn’t feel anything from the portal in front of me when standing this close to the last one had been like walking into a hurricane basically confirmed it for me.
+
+Whatever had been placed over this portal to stop people from leaving, it still stood. It likely prevented anyone from coming in, either.
+
+It was fascinating, but wasn’t a way out of this place.
+
+I was about to turn away, then text boxes exploded across my vision.
+
+The system’s reaction was as strong as it was swift, hundreds of boxes appearing with such alacrity that my sight was completely blotted out and all I could see was white text on a sea of pure black.
+
+I tried to adjust my focus and read as some of the boxes began to disappear, to fall back, to shrink. As one after the other vanished just as quickly as they had appeared. I was left staring at one single box, prominent in my vision, large, right in the centre of my periphery.
+
+Eyes strained, heart pumping, I attempted to discern the words laid out before me, as alarmed as I was curious.
+
+[Quest received!]
+
+Quest? What the hell was a quest?
+
+[Remove the barrier on the portal inside the facility! In return, you will be awarded with one Major Advancement!]
+
+A quest? A Major Advancement?I’d never heard of systems giving out quests before. Was this meant to happen? Had my bloodline god given this to me somehow? Was the rat able to see me down here?And if that was the case, why did it care about the barrier on the portal?
+
+If the interface in my mind could hear my thoughts or questions, it didn’t make me aware of it. The screen remained inert until I eventually closed it.
+
+I could feel the shortness of my breath mixing with the prevalence of the mist as I wandered out of the portal room, back into the wide atrium.
+
+I spotted the same dome from before. It was glassy, made up of many hexagonal squares. Multiple blue currents seemed to run along the back end of the room beyond, sparking with blue surges of lightning.
+
+It was… some kind of power room?
+
+I walked closer. Attempted to peer inside.
+
+The weapon in my hands pulsed, detecting for the first time a hint of life just ahead.
+
+I stared and I stared, trying to find what was responsible for this faint little red dot.
+
+And then I saw it.
+
+Or rather…
+
+Saw her?
+
+Deep inside the power room, behind rows of mechanical apparatus that I couldn’t even begin to understand, inside a glass chamber that seemed to surround her entire body…
+
+There laid a blue-skinned girl with sharp purple horns, seeming as if she was locked in a smooth, gentle sleep.
+
+…what was she? A demon of some kind?
+
+I simply stared for a time, unable to process. The repeated pulse of the rifle through my hands and the permanence of the red dot told me that she was warm, that she was alive, but…How could anyone be alive in this place after so long?
+
+Instinctually, I tried to enter the room, holding my pass up to the console beside the door and hoping it would recognise me.
+
+A light buzzing sound… then a red light.
+
+[Scan failed. Level 2 pass or clearance code ____ to access Control Room.]
+
+Or clearance code?I decided to try five-four-eight-two.The console flashed red, but thankfully didn’t shock me.
+
+[Incorrect code.]
+
+Well, at least it wasn’t threatening to murder me this time. That must’ve just been for doors leading into this place.
+
+Still, with no further information, I was stumped. I tried hitting one of the glass panes with the butt of my gun, but the surface felt more like metal than glass, and my weapon bounced straight off.
+
+This room might be the key to deactivating the portal, and I also wanted to check on the girl inside… how had she even survived in there for so long?
+
+As I watched her, pondering how to get inside, I thought I saw a flash of discomfort wash across her face, like she was in distress or pain.
+
+Before I could wonder what had caused it, the grimace had left her. She drifted back into calm, peaceful slumber.
+
+I considered trying to shoot my way through one of the glass panes. With the girl situated inside, far away from the walls and seemingly insulated, I wasn’t worried about the possibility of the glass violently smashing and somehow hitting her…It was this or find a way to get level 2 clearance, and I wasn’t exactly long on time.Sighing, I stood back from the door and aimed my gun at the leftmost glass pane.
+
+I began to pull the trigger…I emptied about ten rounds into the glass window, the sounds echoing loudly around the otherwise empty chamber, the only other noise the hum of generators and the splash of a distant fountain.
+
+No damage.I pulled over the strap and let the gun lay against my chest as I searched my [Hoard] for something I could rest my turret gun on.
+
+I found a series of metal tubes that were apparently called a tripod, just one of the various objects I’d picked up while frantically searching my way through the storage room.
+
+It was a bit awkward to mount the turret atop the metal, which had apparently been intended for holding some kind of drill, but it made it far easier to aim or shoot for long periods than simply carrying it.
+
+With a bit of jury rigging, knotting a few shirts and wrapping them around the turret multiple times, I managed to make it stay upon the tripod even without me holding it in place.
+
+That all done, I decided to aim the stronger weapon directly at the same window, firing at it in short bursts.
+
+The weapon spun, bullets began to fly. After twenty seconds of intermittent shooting, my ammo belt had diminished a little, and I’d managed to make a dent in the glass pane.
+
+…or at least the first layer of it. I wasn’t sure how deep that crack went.
+
+I continued for another twenty seconds, burning through another chunk of bullets just to find that the crack had barely widened.
+
+Made sense. This room was clearly important to the Drassians, doubt they wanted anything to be able to punch through it easily.
+
+I’d been about to put away the turret and try to discern a new plan when I felt a pulse.
+
+This one was fainter. I hurriedly checked my submachine gun’s panel in search of answers.
+
+The screen was flashing a different light. One other than the red signature ahead that clearly belonged to the girl.
+
+This one was to the right…
+
+I turned, keeping hold of the mounted turret and turning it with me, staring down at the beeping dot, silent…
+
+I heard a clicking sound. Like that of an insect.
+
+I heard a voice.
+
+“There you are…”
+
+It sounded strangled, like someone who’d had half their voicebox ripped out.
+
+“Why were you hiding from me? What did Coda tell you?”
+
+I blinked. My eyes strained as I attempted to see what was speaking to me in this horrific voice…
+
+Nothing. I couldn’t see anything in the well-lit room.
+
+Even still, the red dot on the gun’s screen was drawing closer. Veering closer to the centre of the interface.
+
+Until it was straight ahead.
+
+“I’m fine! There’s nothing wrong with me!”
+
+I heard another click.
+
+I felt a rush of wind rake right past me. I gasped as I felt the mask tear from my face.
+
+It wasn’t all that had been torn. Deep gashes raked into my cheek, tearing so much skin half of my face had gone numb. Shuddering, face lopsided, I turned with a jolt to inspect the screen, but the red dot had moved right behind me.
+
+I wheeled around, hastily dragging the turret in a one-eighty.
+
+Still I saw nothing. Still the sensor told me my opponent laid straight ahead.
+
+“WHERE IS SHE? YOU HID HER FROM ME, DIDN’T YOU?
+
+“WHERE IS SHE?!”
+
+I commanded the turret to fire, staring at the dot ahead of me as I did.
+
+The gun whirred. Bullets ripped.
+
+I heard metal connect with soft tissue. Something sputtered and coughed.
+
+It clicked.
+
+This time, I braced myself, throwing my arms over my face and moving my body to the side as once again I felt a burst of movement where I’d been standing.
+
+“It’s not fair. It’s not fair…”
+
+The voice gurgled and spat as it spoke, putrid and evil.
+
+I stared down at my torn arms, knowing I wouldn’t have long until the next attack. From my position on the floor, I didn’t have time to clamber back to my feet, nor wheel around the turret.
+
+I clutched at the gun in my arms. I stared at the dot as long as I could. My eyes followed the smear of blood along the ground.
+
+“You KNOW that I’ve been starving.
+
+“Let me taste you…
+
+“Just a little taste.”
+
+Eyes locked on a dripping pool of blood emanating from an invisible source, I ignored the protest of my mangled arms as I aimed down the gun’s sights and unleashed a torrent of bullets.
+
+My clip emptied before the creature fell. I could hear it gasping. Wheezing. It was so bullet-filled that I could see much of its body, revealed by the yellowish blood coating it all over.
+
+I pulled myself to my feet, choking back thick, mist-laden air. I stabbed a Power Stone into my arm.
+
+I advanced upon the feral monster.
+
+I punched it.
+
+“No.”
+
+I knocked it to the ground.
+
+“Please!”
+
+I kicked it in the head.
+
+“I only wanted to help her!”I kicked it again.
+
+“I was so—”
+
+Kick.
+
+“—hungry!”Kick.“Please!”
+
+Kick.
+
+“Forgive—”
+
+Its sentence never ended. By the time I was finished, the creature’s head was a bloody paste, and I was panting, seething, still enraged.
+
+[Unarmed Combat: 8 >> 9.]
+
+I took a deep breath.
+
+Then I kicked it in the ribs.
+
+I kicked it again. And again. And again. And again and again and ag—
+
+Wait.
+
+Breathe.
+
+No.
+
+Don’t breathe.
+
+Mist.
+
+No mask.
+
+Power Stone.
+
+I fumbled as I ripped my way into my [Hoard]. No time for full thoughts.
+
+Recovery Stone.
+
+Stab.
+
+Breathe.
+
+Clear mind.
+
+Rags from [Hoard].
+
+Cover face.
+
+I tied them tight.
+
+I breathed a few ragged breaths.
+
+I stared down at the feral Drassian I’d just brutalised.
+
+I felt a cold chill run through me. I struggled against the urge to vomit into my new makeshift mask.
+
+I pulled it down and took a swig of potion, my first superior health pot on its last dregs, feeling sensation return to my face as my missing flesh reformed.
+
+I needed to get out of here.
+
+This was too dangerous.
+
+Screw this quest, screw staying in the underground.
+
+I desperately wanted to explore this place, to find out what a Major Advancement was and to do something about the mystery right in front of me…
+
+But I wasn’t equipped to handle this place right now.
+
+I’d almost lost my mind there. The mist, the stress, the adrenaline spike, the Power Stone, they’d all coalesced into something mindless. Something violent.
+
+I could’ve ended up like Marcois; no one would’ve been here to snap me out of it.
+
+I needed out. I could figure out a way to handle the air and come back later. Right now, I’d rather take my chances on the surface with Toar than stay down here a second longer.
+
+I began searching for an exit. I was careful not to make any unnecessary noise.
+
+Thankfully, nothing else seemed to come after me. That last feral had clearly been attracted by all of the gun sounds…
+
+What had it been saying, anyways? It was all a bit of a blur now that I thought back on it. Directly breathing the mist definitely hadn’t helped with that…Search led me to find another wide tunnel out like the one I came in from, a mining route.
+
+These doors all operated on the code I’d learned earlier. I was able to get out of a neighbouring door and find a path through the tunnels and back out into the central cave system.
+
+I kept walking, checking my gun’s sensor every few steps. From here, I just needed to find a way up. Easier said than done… but I had plenty-a-reason to wanna climb out of this death trap.
+
+Survival was paramount… but I also needed Toar dead.
+
+***“—and then, after that, he just took off.”
+
+“Hah! Good riddance,” Jackal spat, cackling like a hyena. “Gotta say, wasn’t a fan of that guy.”
+
+“Just ‘took off’?” Maisie asked, her ears perked, an eyebrow raised. “You’re telling me our brand new member just happened to decide to run off on his own, in the underground no less?”
+
+Toar nodded. He knew it would be toughest to sneak this past Maisie. Even so…
+
+“It’s like I said. We went down there to mine. Everything was going fine until I noticed the new guy was pocketing a bunch of crystals. I called him out on it, we were in the middle of arguin’, and then a monster attacked. Things got dicey, and the new guy bailed.”
+
+Toar was quiet for a moment. He didn’t really need to act solemn. Truth of it was, he’d never expected the little rat to run off like that. He was surely dead by now. The truth of that, and the fact it was definitely Toar’s fault, had been gnawing at him the whole way back.
+
+“Is that what happened, Marcois?”
+
+Maisie turned to question Marc, who despite his busted up face was more or less fine now.
+
+“I dunno,” Marc said, his voice a little lower than usual, which almost made him hard to hear. “I don’t… really remember much.”
+
+“Marc hit his head, remember?” Toar said, still glad that Marc couldn’t recall the real sequence of events.
+
+He’d had to deal with Marc once the rat left. Toar took a couple nasty hits goading the enraged orc and having Marc chase him back up out of the cavern, where he’d finally managed to knock him down and force a mask back on his face.
+
+Even for a peak Tier 1 beastkin with a combat class, getting attacked by a massive orc like Marc hurt like hell. He had a nasty bruise on his stomach from a punch he’d caught, and a black eye from where the orc had headbutted him as he’d held him down.
+
+Toar felt like he deserved more than that for what he’d done today. Still, he’d done as he’d meant to. He’d waited for an opportunity to blackmail the kid, and he’d taken it. Sure, he’d thought it’d all resolve much more smoothly than that, but what was he supposed to do to change things now?
+
+“So that’s it?” Maisie asked. “You couldn’t even go look for him?”
+
+Not even if he’d wanted to, and part of him had. He’d had his hands so full dealing with Marc that by the time that was resolved, he’d needed to take the orc back.
+
+“Why would boss go looking for him?” Finn asked, forever the sycophant. “The kid was a thief. We’re better off without him.”
+
+“Yeah, fuck that guy!” Jackal agreed. “Honestly, Maisie, you’re so soft. Can’t imagine how you would’ve ended up if you’d landed in a worse group.”
+
+“Can you guys just shut the fuck—”
+
+Toar stopped himself. He rubbed at the forming bruise on his forehead. He spat on the floor.
+
+“Stop, okay?” Finn said. “You’re pissing him off. Can’t you see they’ve been through enough today?”
+
+“Oh! I’m sorry! Are you stressed, Toar? Did your grand plan to take a complete newbie into the underground somehow backfire? Who’dathought that would happen!”
+
+“Leave him alone, Maisie.”
+
+Toar almost threatened to punch Finn. He bit his own tongue.
+
+Ceri cackled from where she was sitting in the corner. Yup. Laugh it up. Whole thing was a fucking joke.
+
+It really was. Not only had Toar not managed to get what he was looking for, but he’d gotten someone killed in the process and nearly endangered Marc too.
+
+And the little bastard had said no to him.
+
+It pissed him off. He’d still be alive if he’d said yes.
+
+The rat refused to bow. The dragon did as he was told.
+
+Something was wrong with this picture.
+
+Something was wrong with Toar.
