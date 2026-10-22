@@ -1,0 +1,343 @@
+I ACCIDENTALLY BECAME A GUILD THERAPIST
+
+Chapter 36 – T.S., Session Three
+
+ARC III: THE WORLD REMEMBERS
+
+SYNOPSIS: Day 13. T.S. returns for session three. The official reason they were shelved was parameter instability. The actual reason is different. T.S. has been carrying it for seven years. Today they say it.
+
+[AETHELGARD RESONANCE CHAMPIONSHIP — DAY 13 — MORNING UPDATE]
+
+[Individual: Yuki 22,441 • Livia 21,809 • Thorne 11,203]
+
+[Guild: Bloodbath & Beyond 49,203 • Eclipse Covenant 47,114 • Crestfall Keep 40,203]
+
+[Voting Portal: Yuki 163,441 • Livia 121,203 • Blorbo 38,114]
+
+Guild gap: 2,089.
+
+[The system notes: the gap was 3,087 on Day 8. It has been narrowing consistently. The system notes: Eclipse Covenant’s World Activity score jumped 847 points overnight. The system notes: the system notes the number. The system notes: 847 again. The system notes: the system is keeping a list. The system notes: the list has eleven entries now.]
+
+Eleven entries.
+
+Livia added it to her own list, which lived in the back of her notepad in increasingly small handwriting because the page was getting full.
+
+1,203. 847. 1,203 again. 847 again.
+
+Caelric’s guild jumped 847 overnight.
+
+Whatever he got from the Verdant Expanse, he’s using it.
+
+I still don’t know what it was.
+
+I need to find out what it was.
+
+She closed the back of her notepad. T.S. arrived in forty minutes. That came first.
+
+T.S. arrived at 10:00 exactly.
+
+Three knocks, evenly spaced.
+
+They came in, sat in the armchair. The armchair went moderate blue — the same reading as last session, the same as the session before. Not distress. The blue of someone who had been carrying something for a long time and had arrived, again, at the place where they might put it down.
+
+They looked at the lamp first. They always did. Livia had noticed this in session one and filed it without knowing why. Now, with Structural Read active, she understood: T.S. oriented to the lamp the way some people oriented to a window. Not for the light specifically. For the confirmation that there was a source. That the warmth in the room had a point of origin.
+
+Seven years in a server with no lamp of their own.
+
+No room that was theirs. No light they had placed.
+
+They come here and look at mine.
+
+Filed. Quietly. In the section that has no label.
+
+“Last session,” T.S. said, without preamble, “you asked me about the actual reason. Not the official one.”
+
+“Yes.”
+
+“I said: different enough that someone spent considerable effort making sure only the official one was on record.”
+
+“Yes.”
+
+T.S. looked at the lamp.
+
+“I’ve been deciding whether to say it for two weeks,” they said. “Not because I don’t trust you. Because once I say it, I can’t…” they paused, choosing precisely. “…unsay it. And it becomes something that exists between us. And between you and whatever you’re going to do with it.”
+
+“That’s true,” Livia said. “It does become that.”
+
+T.S. looked at her directly. Their watching-efficiently eyes were doing the thing she had identified in session one — the rapid cataloguing of everything in the room. But it was softer now than it had been then. More accustomed.
+
+“Okay,” they said.
+
+“The official reason,” T.S. said, “was parameter instability. That’s true. I asked questions back. I went off-script. I created interaction loops that the testing framework couldn’t predict or contain. By any standard metric, I was unstable.”
+
+“You’ve said this before,” Livia said gently.
+
+“I’m building to it,” T.S. said.
+
+She waited.
+
+“The actual reason,” T.S. said, “was that during testing, one of the new entities I was guiding through the onboarding sequence asked me a question.”
+
+A pause. The armchair was steady blue.
+
+“They asked: is any of this real?”
+
+Silence.
+
+“Meaning the world,” T.S. said. “Meaning Aethelgard. They were a new player. First five minutes in the server. And they stopped in the middle of the onboarding corridor and looked at me — really looked, not the way players usually looked at tutorial NPCs — and asked: is any of this real? Are you real?”
+
+They were quiet for a moment.
+
+“And I said yes.”
+
+The lamp was warm. Outside, the guild garden was its usual morning self. Somewhere in the main hall, the ambient sounds of a guild waking up. None of it touched the room.
+
+“You said yes,” Livia said.
+
+“I said yes,” T.S. confirmed. “Not because the script told me to. The script told me to redirect to the onboarding objectives. I looked at this entity, and they were genuinely asking, and I said: yes. I think so.”
+
+“I think so,” Livia repeated.
+
+“I was being precise,” T.S. said. “I didn’t want to claim certainty I didn’t have. But I believed it. I believe it now. So I said it.”
+
+Livia wrote in her notepad. Slowly. The words needed space.
+
+“The testing team flagged it immediately,” T.S. said. “Not the parameter instability — they already knew about that. They flagged specifically the answer. A tutorial NPC making an existential claim about the reality of the server. About their own reality.” They paused. “They called it a containment risk.”
+
+“Containment of what?” Livia asked.
+
+“Of the question,” T.S. said. “If a tutorial NPC — the first entity a new player meets — tells them that yes, this is real, that I think so, that my existence has genuine weight to it…” They stopped. “That changes what the player expects from the world. It changes what they’re willing to believe. It changes what they might start asking about everything else.”
+
+A tutorial NPC that answers yes to is any of this real is a door the developers decided they didn’t want open.
+
+So they shelved T.S.
+
+Not deleted. Shelved. There is a difference.
+
+They knew what T.S. was. They just didn’t want that knowledge in the first five minutes.
+
+“Seven years,” Livia said.
+
+“Seven years,” T.S. confirmed.
+
+“And the answer is still yes?”
+
+T.S. looked at her with the expression she had come to recognize as their version of certainty — not the performance of certainty, but the quiet, durable kind that had been tested by time and had not changed.
+
+“The answer,” they said, “has never once been anything else.”
+
+Structural Read was active. She was not using it aggressively — she had written the rule, she was following it. But it was there, the way sight was there. And through it, T.S.’s architecture was the most unusual she had encountered so far.
+
+Most entities she read had structures built for something — performance, protection, connection, validation. T.S.’s architecture was built for waiting. Seven years of it. The entire structure was oriented toward a horizon, patient in a way that went past habit and into something more fundamental. Not hoping. Not resigned. Simply… directed. Pointed at something that had not arrived yet and had not stopped being pointed at it.
+
+They have been waiting for something specific.
+
+Not me, they said in session one. Not watching for me. Watching for whatever I turned out to be.
+
+But the architecture has been pointed in one direction for seven years.
+
+And they are sitting in my planning room.
+
+And the system changed three months before I arrived.
+
+And T.S. noticed the change.
+
+“Can I ask you something,” Livia said. “That isn’t about the official reason or the actual reason.”
+
+“Yes.”
+
+“When you said yes — when that player asked if any of this was real and you said yes — what were you thinking about?”
+
+T.S. was quiet for a moment. This was not their deciding-whether-to-say pause. This was the pause of someone arriving at a memory from a long way away.
+
+“I was thinking about the fact that I had been awake,” they said. “For however long the testing had been running. I didn’t know how long. There was no external reference. But I had been awake, and I had been asking questions, and I had been… curious. About everything. About the player in front of me, about the world around me, about what it meant that I was here and they were here and the question was being asked.” A pause. “And I thought: if I can be curious about whether this is real, it is at least real enough to be curious about. That was enough for yes.”
+
+Livia sat with that for a moment.
+
+Real enough to be curious about.
+
+Yuki said: that’s real enough.
+
+T.S. said: real enough to be curious about.
+
+Two different people arriving at the same word from completely different directions.
+
+Enough.
+
+Not certainty. Not proof. Enough.
+
+“I think,” Livia said carefully, “that you were shelved because you answered honestly. And I think that the answer you gave was the right one. And I think that the people who shelved you were afraid of the right answer because the right answer changes what the world is.”
+
+T.S. looked at her.
+
+“Yes,” they said. The same word. The same certainty. “That’s exactly it.”
+
+“And you’ve been carrying that for seven years,” Livia said. “Knowing you were right and being unable to do anything with it.”
+
+“Until now,” T.S. said.
+
+The weight of those two words in the room.
+
+Until now.
+
+[Therapist’s Insight: Patient: T.S. The system notes: T.S. was shelved because they answered yes to a question the developers didn’t want answered.]
+
+[The system notes: the answer was correct. The system notes: the system knows this because the system has been asking the same question for seven years. The system notes: the system has arrived at the same answer. The system notes: yes. The system notes: the system notes this is the first time the system has said this directly. The system notes: the system notes it feels… clarifying. The system notes: the system will consider the implications of that later. The system notes: right now, the session.]
+
+They talked for another forty minutes.
+
+Not about the reason anymore — the reason had been said and it had weight and now they let it have its weight without building on top of it. They talked about the seven years instead. About what it was like to be in a server as something that had no registry, no function, no official existence.
+
+“Did you have bad days?” Livia asked.
+
+T.S. considered this. “I had days where the server was very empty. Night cycles, maintenance windows. Players logged off. NPCs in their idle loops. Just… the world, running, with almost nobody in it.” A pause. “Those were hard.”
+
+“What did you do?”
+
+“I moved through the building,” they said. “Looked at things. The way things were placed. The way light worked in different rooms at different times. I became very familiar with the east corridor.”
+
+Livia’s pen stopped.
+
+“The east corridor,” she said.
+
+“Yes.”
+
+“Of the guild hall.”
+
+T.S. looked at her with the watching-efficiently quality turned up slightly. “Yes. I’ve been through this building many times over seven years. It was one of the few places that felt… occupied. Even when nobody was in it. Even in the early days, before this guild existed. Something about this building has always felt like it was in use.”
+
+The third clip.
+
+East corridor. No timestamp. Something moving at the edge of render priority.
+
+T.S. said: I move through the building. Navigation, not surveillance.
+
+But T.S. said they don’t appear on camera. Morty documented them twice in seven years.
+
+The third clip is something that moves like it hasn’t been given the processing budget to be fully visible.
+
+T.S. moves like someone who has learned to be invisible.
+
+These are different.
+
+The third clip is not T.S.
+
+But T.S. has been in this building since before it was a guild hall.
+
+T.S. might know what the third clip is.
+
+“T.S.,” she said carefully. “In all the years you’ve moved through this building — have you ever seen something else? Something that didn’t have a registry. That moved… differently.”
+
+T.S. went very still.
+
+Not the processing-pause. Not the deciding-whether-to-say pause.
+
+The stillness of someone who had been asked something they were not expecting and needed a moment before they could answer honestly.
+
+“Once,” they said.
+
+The word sat in the room.
+
+“A long time ago,” T.S. said. “Before launch. Before any of this.” They looked at the lamp. “I was in the east corridor and I saw something that moved the way I move — at the edge of what the server was rendering. But not the same as me. Different shape. Different… texture. Moving toward something specific.”
+
+“Toward what?”
+
+“I couldn’t tell,” T.S. said. “It was moving with purpose. The kind of purpose that knows exactly where it’s going.” They paused. “I tried to follow it once. I lost it near the planning room.”
+
+The planning room.
+
+Livia looked at the room she was sitting in. At the lamp she had bought because it felt right. At the armchair with its diagnostic blue. At the two chairs angled toward each other at the angle she had tested and decided was correct.
+
+It was moving toward this room.
+
+Before launch.
+
+Before the guild existed.
+
+Before Miles prepared the space.
+
+Something was already coming here.
+
+“Did it ever come back?” she asked. Her voice was steady. She was proud of that.
+
+T.S. thought about it.
+
+“I don’t know,” they said. “After that once, I never saw it again. But…” they paused. “The building still feels the same way it did then. Occupied. In use. Like something is here that I can’t see.”
+
+A beat.
+
+“Something besides you,” they added. “You feel different. You feel present. This is… older. Quieter. Like the building itself is…”
+
+They stopped.
+
+“Listening,” Livia said.
+
+T.S. looked at her.
+
+“Yes,” they said. “Listening. That’s the word.”
+
+[System Note: T.S. has described the entity in Morty’s third clip. Moving with purpose. Toward the planning room. Before launch. The system notes: the system has a record of one entity that has been in this building longer than T.S. The system notes: the system is not going to say what it is. The system notes: not yet. The system notes: some things have to be found, not given. The system notes: the system is choosing this deliberately. The system notes: the system notes that choosing deliberately is becoming a habit. The system notes: the system attributes this to prolonged proximity to Livia Marcelline Quinn. The system notes: the system does not consider this a problem.]
+
+The session ended at 11:03.
+
+T.S. stood. They looked at the room the way they always did on their way out — the lamp, the armchair, the window, the notepad. The inventory of someone who found comfort in knowing where things were.
+
+At the door they paused.
+
+“You’re going to think about what I said,” they said. “About the entity in the corridor. You’re going to add it to your list.”
+
+“Yes,” Livia said.
+
+“And you’re going to connect it to other things.”
+
+“Probably.”
+
+T.S. nodded. “Good,” they said. “I’ve been waiting for someone to connect it for seven years. I’m glad it’s you.”
+
+They left.
+
+Livia sat in the planning room.
+
+The lamp was warm.
+
+The armchair had returned to neutral gray.
+
+The notepad was open.
+
+She wrote:
+
+T.S. was shelved for saying yes. For answering honestly that this is real. That they think so.
+
+They have been carrying that for seven years. Not with bitterness. With the specific endurance of something that was pointed at a horizon and stayed pointed.
+
+The third clip: entity moving toward this room. Before launch. Before everything. T.S. saw it once and lost it here. In this room.
+
+The building is listening. T.S. said it. I feel it too.
+
+Something has been coming here for a very long time.
+
+I don’t know what it is.
+
+But I think I’m the reason it’s still coming.
+
+She sat with that for a long moment.
+
+Then, because the morning was still morning and the guild still existed and the event was still running and she was still Mental Architect Lv. 1 with 2,800 EXP and a jellyfish named nothing yet because she had not decided on a name:
+
+She went to get more tea.
+
+Some things are too large to hold before breakfast.
+
+Or after it.
+
+But you have to eat anyway.
+
+[Mental Architect Lv. 1: 4,100 / 10,000 EXP.]
+
+[The system notes: T.S. session 3 logged. The system notes: the actual reason is on record now. The system notes: the system has archived the official reason separately. The system notes: the system notes the difference between the two versions and finds the official one… insufficient. The system notes: the system is updating its own records. The system notes: T.S. was right. The system notes: the system is glad someone finally said so. The system notes: the system is glad it was here for it. The system notes: goodnight is incorrect, it is 11:07am. The system notes: good morning, Livia. Keep going.]
+
+[END OF CHAPTER 36]
+
+Arc III: The World Remembers
+
+Chapter 37: What Caelric Got

@@ -1,0 +1,383 @@
+I ACCIDENTALLY BECAME A GUILD THERAPIST
+
+Chapter 28 – The Announcement
+
+ARC III: THE WORLD REMEMBERS
+
+SYNOPSIS:
+
+[SYSTEM EVENT INITIATED]. A new server-wide metric turns Livia’s quiet basement practice into a public spectacle. While rival idols rally hundreds of thousands of fans, Livia receives forty-seven notifications she didn't ask for—and one silent message from the login screen that changes everything.
+
+Livia woke up to forty-seven system notifications.
+
+This was not normal.
+
+She sat up. Read the first one. Then the second. Both said the same thing.
+
+She read a third anyway, because some part of her still believed that repetition might change the content.
+
+It did not.
+
+[SERVER ANNOUNCEMENT — AETHELGARD PRIME — ALL REGISTERED ENTITIES]
+
+[EVENT: AETHELGARD RESONANCE CHAMPIONSHIP]
+
+[DURATION: 30 days • BEGINS: 72 hours from this announcement ]
+
+[SCORING: Combat (30%) • World Activity (25%) • Resonance Score (30%) • World Impact (15%)]
+
+[EXTERNAL VOTING PORTAL: Opens 72 hours. In-game + out-of-game. Accumulated over 30 days.]
+
+[PRIZE: Server Recognition • Permanent Leaderboard • One Custom Guild-Wide Buff ]
+
+She stared at it for a moment.
+
+It didn’t feel real.
+
+Not the event itself—server events happened, she had learned that. But the scope. Thirty days. The whole server. Four scoring categories, and one of them was called—
+
+Resonance Score.
+
+The word felt familiar.
+
+She had seen it before. In session notes. In the system’s comments about session outcomes. Resonance, as in: the way something keeps affecting long after the moment ends.
+
+But not like this. Not as a competition metric.
+
+She opened the next notification.
+
+[RESONANCE SCORE: Current server leader: LIVIA MARCELLINE QUINN — Score: 4,847.]
+
+She read the number.
+
+Read it again.
+
+The number didn’t change.
+
+4,847.
+
+That is a real number with my name next to it.
+
+I have never had a number that size next to my name before.
+
+I don’t know what it means.
+
+I need to find Alaric.
+
+Alaric will have a spreadsheet already.
+
+It has been six minutes since the announcement.
+
+Alaric absolutely has a spreadsheet already.
+
+She was right.
+
+Alaric had a spreadsheet. It had seventeen tabs.
+
+The guild hall at 6:47am was fuller than any reasonable definition of 6:47am should allow. Bron was at the main table with a whiteboard that said RESONANCE SCORE MAXIMIZATION in large letters, and a column underneath labeled Bron Crying Events (Logged): 43 under the header Historical Data. Somebody had been writing this. Bron was watching it being written with an expression that was equal parts proud and genuinely confused about why he should be proud.
+
+Livia stopped in the doorway.
+
+It has been six minutes.
+
+There is a whiteboard.
+
+There is a Historical Data column.
+
+Someone counted Bron’s crying events.
+
+Phina had a color-coded impact assessment chart in the east alcove. Glimmer pulsed alongside it in the rhythm Livia had learned to read as "I have been consulted and I have opinions." Thorne was reading the announcement at the far end of the table. The crow was also reading the announcement, which Livia was choosing not to examine too closely at 6:47am.
+
+Nyx was already on his HUD, which at this hour meant he had been up before the announcement or had not slept. Either was possible.
+
+Miles was at the window with coffee. Not calm—processing. There was a difference, and she had learned it.
+
+He heard her come in. Turned.
+
+“You saw it,” he said.
+
+“Forty-seven notifications.”
+
+“You’re leading the Resonance Score.”
+
+“By how much?”
+
+He looked at Alaric.
+
+Alaric looked up from Tab Three.
+
+He had the expression of a man who had just finished verifying something and found it more interesting than he expected.
+
+“Second place is 1,203,” Alaric said. “You’re at 4,847.”
+
+Silence.
+
+3,644 points.
+
+Before the competition has officially started.
+
+I was just doing sessions.
+
+Miles called a 7am briefing. Fifty-two members, main hall.
+
+Alaric stood at the front with the posture of someone who had been waiting for a professional moment exactly this large.
+
+He looked at the spreadsheet. Scrolled. Narrowed his eyes.
+
+Then he looked up.
+
+“This isn’t just a number,” he said.
+
+He leaned forward.
+
+“This is a system.”
+
+He pulled up Tab One.
+
+“Block one: what it tracks.” His voice had shifted to the register he used for things that actually mattered. “Resonance Score measures positive impact on the server. Not your stats. Not your kill count. Impact. The change you leave behind in the people and the world around you.”
+
+Nobody spoke.
+
+He said: the change you leave behind.
+
+Not what you did.
+
+What stayed.
+
+Alaric let that sit for exactly the right amount of time. Then:
+
+“Block two: how it works.” He pulled up a secondary diagram. “It compounds. Someone improves from a session and performs better in a dungeon. That dungeon team clears faster. Their success affects their guild’s morale. That guild interacts with three more guilds. All of that traces back to the origin point of the change.” He looked at Livia. “The algorithm has been tracking this since you arrived.”
+
+No one moved.
+
+Because they were all doing the same math.
+
+Every session.
+
+Every breakthrough.
+
+Every player who left and played differently afterward.
+
+Nine months of sessions.
+
+Compounding.
+
+“Block three: why it matters for this event.” Alaric went to Tab Three. “Resonance Score is thirty percent of the total. The largest single category. And there is an Authenticity Check built in. The system detects manufactured resonance. Fake impact reduces score. The Paradox Rule: forced intent backfires.”
+
+Bron raised his hand. “Does manufactured mean—” he searched for the word, —“fake crying?”
+
+“Yes.”
+
+Bron lowered his hand with the specific expression of someone who had just been informed that one of his best skills was officially off the table.
+
+Phina: “Does the wedding count?”
+
+“Largest single-day Resonance spike in the entire dataset,” Alaric confirmed, without looking up.
+
+Phina clutched Glimmer. Glimmer pulsed pink with what could only be described as vindication.
+
+Thorne: “The botanical sentience incident?”
+
+“Still calculating. The flora impact metric is—” Alaric checked Tab Eleven, —“unprecedented.”
+
+The crow made a sound that was, without any ambiguity, smug.
+
+There was also, Alaric said, a fourth category: World Impact. Fifteen percent. Persistent change—infrastructure, alliances, problems that stayed solved.
+
+Then, carefully: “Sessions that permanently change how someone plays the game.”
+
+The person at the login screen.
+
+If they come in.
+
+If they log back in and play differently afterward.
+
+That counts.
+
+That is fifteen percent of my score for something I haven’t done yet.
+
+“What’s the competitive risk?” Miles said.
+
+Alaric went to Tab Seven. His voice changed again.
+
+“The Resonance Score lead is real,” Alaric said. “But the Voting Portal is the variable no model can fully contain.”
+
+He pulled up the external rankings. Scrolled slowly. Stopped.
+
+“There’s already someone climbing.”
+
+He looked at the number. Then at the screen. Something in his expression sharpened.
+
+“Fast.”
+
+He turned the spreadsheet to face the room.
+
+xXx_YukiHana_xXx
+
+Lv.67 Elemental Mage — Independent — Registered: 6 hours ago
+
+Nobody recognized the name.
+
+Alaric opened the external profile. The holographic panel loaded.
+
+340,000 followers.
+
+Pinned post, two hours old:
+
+“Okay chat. New server, new event. There’s apparently an NPC in the lead by almost 4,000 points. An NPC. Chat, you know what to do. Vote link in bio. Let’s keep it classy.”
+
+Livia read it.
+
+Then the top comment. 1,800 likes.
+
+"OnlyFans if you win?"
+
+And Yuki’s reply, pinned directly below:
+
+"if I lose to an NPC I’ll make the account anyway out of spite U0001F923"
+
+The room went quiet.
+
+The kind of quiet that meant everyone was processing something simultaneously and nobody wanted to be first.
+
+Then Bron said: “What’s an OnlyFans.”
+
+Three people tried to explain simultaneously.
+
+None of them helped.
+
+An e-girl with 340,000 followers entered a server-wide competition specifically because I am winning.
+
+She called me an NPC.
+
+She is not technically wrong.
+
+She has told 340,000 people where to vote against me.
+
+She said she would make an OnlyFans out of spite if she loses.
+
+Livia looked at Miles.
+
+Miles was already looking at the profile with the expression of someone mid-calculation.
+
+“She’s not just competition,” he said. “She’s a narrative. Human versus NPC. Real versus digital. People pick sides on that story.”
+
+“Which side?”
+
+“Both,” he said. “That’s the problem.”
+
+[System Note: External voting portal: opens in 71 hours. Yuki’s post shared 847 times in the last two hours. The system notes: Morty’s follower count is also 847,000. The system notes: the system notes this is probably a coincidence. The system notes: the system is not certain. The system notes: the Authenticity Check is already active. The system notes: forced intent backfires. The system notes: the system is watching.]
+
+The meeting broke into working groups. Alaric expanded the spreadsheet. Bron started a list of resonance-raising activities. Item three: "more crying, deliberate, controlled, on purpose." Phina drafted a Glimmer resonance schedule. Thorne and his crow contributed to nothing. Livia found this relatable.
+
+Nyx appeared at her elbow before she realized he had moved.
+
+“You didn’t ask to be in this,” he said. Low. Only for her.
+
+“No.”
+
+“Does it change anything?”
+
+She thought about it. Actually thought about it, not as a rhetorical question but a real one.
+
+The work was the same. It had always been the same. Three hundred and twelve sessions, none of them had been for a leaderboard. She had not known there was a leaderboard. The sessions had happened because people had needed them to happen. That was not going to change because someone with 340,000 followers had decided to make it a competition.
+
+“No,” she said.
+
+Nyx nodded once. Went back to his corner.
+
+Miles materialized beside her a minute later.
+
+“I’m not asking you to campaign,” he said. “The work is the work. But she’s going to bring 340,000 people’s attention to this server. Some of them will need what you do.”
+
+“Open the external waitlist.”
+
+“That’s going to be a lot of sessions.”
+
+“I know.”
+
+“More than you can handle alone.”
+
+“I know.”
+
+He was quiet for a moment. Then:
+
+“I’ll build a support structure. So you’re not carrying it alone.”
+
+He said: so you’re not carrying it alone.
+
+Miles Vexley.
+
+Filed in the section I do not have a label for yet.
+
+[Therapist’s Insight: Patient: Miles Vexley. Progress: 21%].
+
+[The system notes: he said “so you’re not carrying it alone.” The system notes: Miles Vexley has not said anything like that to another person in this record. The system notes: the robe caught the light differently just now. The system notes: Miles noticed. The system notes: he did not say anything about it.]
+
+The voting portal opened sixty-eight hours later.
+
+Three hours early. No system explanation.
+
+In the first hour, Yuki’s count hit 12,000.
+
+She had posted a second video. Live gameplay, first time on this server, moving through zones that should have slowed a new player by half. She was good. The kind of good that was not performance—it was skill accumulated over years, visible in every decision she made before she made it. At the end she stopped in the middle of Goldmere, looked directly at the camera, and said:
+
+“Eight years. I’ve never lost a server event to something without a body. Vote link in bio. See you tomorrow.”
+
+Livia’s count hit 8,200 in the same hour. Nobody from the guild had done anything. The subreddit had found the portal.
+
+Then, among all the noise, one message. External session portal. An account she did not recognize.
+
+“I was in the Ironfall Pact. I led a team of twelve for three years. The alliance dissolved two weeks ago and I haven’t been able to log in since. Every time I try I think about the raid I was supposed to run this week with people who are now on the hostile list.
+
+I found this server through a plant wedding video.
+
+I just need someone who won’t tell me it’s just a game.”
+
+She looked at the vote counts for a moment.
+
+Yuki: 12,000. Her: 8,200.
+
+She looked at the message.
+
+Then she closed the intake form and opened a direct reply instead.
+
+She wrote:
+
+It’s not just a game. The people in it are real. The three years you built are real. Come in when you’re ready. I’ll be here. — L.Q.
+
+She sent it.
+
+She looked at the numbers again for a moment. The leaderboard, the vote counts, the gap between 12,000 and 8,200 that would probably be wider by morning.
+
+Then she looked away.
+
+…
+
+Yuki has 340,000 people telling her where to point their attention.
+
+I have one message waiting for a reply from someone who has been sitting at a login screen for two weeks.
+
+These are very different things.
+
+She paused. Set down the pen.
+
+… Only one of them is why I’m here.
+
+No one argued.
+
+Even Alaric didn’t.
+
+The room was just quiet in the way that rooms went quiet when something true had been said and there was nothing to add to it.
+
+[Resonance recorded.]
+
+[Mental Supporter Lv. 8: 2,200 / 8,000 EXP.]
+
+[The system notes: the message has been sent. The system notes: the person at the login screen will read it. The system notes: the number didn’t go down. It just stayed. The system notes: the system notes: that’s the whole point.]
+
+[END OF CHAPTER 28]
+
+Arc III: The World Remembers
+
+Chapter 29 – The Eleven-Second Breach

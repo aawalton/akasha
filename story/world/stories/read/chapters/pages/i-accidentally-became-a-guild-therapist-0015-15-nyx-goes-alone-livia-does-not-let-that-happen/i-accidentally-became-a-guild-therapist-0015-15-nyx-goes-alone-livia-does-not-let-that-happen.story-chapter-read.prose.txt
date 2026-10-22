@@ -1,0 +1,415 @@
+I ACCIDENTALLY BECAME A GUILD THERAPIST
+
+Chapter 15 – Nyx Goes Alone (Livia Does Not Let That Happen)
+
+ARC II: THE WORLD OUTSIDE THE CAMP
+
+SYNOPSIS: Nyx receives a solo stealth mission. He does not ask for help. He does not mention it to anyone. He is already three steps out the door when Livia notices. What follows is a masterclass in why Ghost Rogues should not bring therapists on infiltration missions, and also why they should.
+
+Nyx left at dawn.
+
+This was not unusual. Nyx kept irregular hours at the best of times, disappearing for stretches that the guild had long since stopped questioning. Ghost Rogues operated on their own schedules. The guild knew this. The guild accepted this. The guild had collectively learned not to ask where Nyx went, because the answers were either classified, uncomfortable, or delivered in the specific monotone of someone who found the question personally offensive.
+
+What was unusual was the mission briefing Livia found on the guild board at 5:47am, unsigned but legible in Nyx’s precise handwriting:
+
+Solo retrieval. Vault district, east sector. Target: stolen guild data. Unauthorized extraction by rival player, identity confirmed. Estimated duration: four hours. Risk: moderate. Back by noon.
+
+Below it, in much smaller text:
+
+Do not send backup.
+
+Do not send backup.
+
+He wrote that down.
+
+He wrote it down because he thought someone might.
+
+Livia looked at the briefing for a long moment.
+
+Then she looked at the clock.
+
+Then she picked up her notepad and her robe and went after him.
+
+[Achievement Unlocked: Correctly Identified a Cry for Company. +10 Instinct Points.]
+
+[The system notes: he said do not send backup. The system notes: you are not backup. The system is watching how this distinction plays out.]
+
+She caught him at the east gate.
+
+He was standing at the gate’s threshold, flashlight in hand despite the early light, hood up, pack strapped with the particular efficiency of someone who had done this many times. He heard her footsteps and did not turn around.
+
+“No,” he said.
+
+“I didn’t say anything yet,” Livia said.
+
+“You were going to say you’re coming.”
+
+“I was going to say good morning.”
+
+A pause.
+
+“Good morning,” he said, without turning around. “You’re not coming.”
+
+“The mission briefing said moderate risk,” Livia said..
+
+“I can handle moderate risk.”
+
+“You wrote "do not send backup" in small text at the bottom. People only write things in small text at the bottom when they want someone to read them.”
+
+He turned around.
+
+His expression was the kind that happened when someone was caught doing something they had not decided to admit to yet.
+
+“It’s a stealth mission,” he said. “You have zero stealth stats.”
+
+“I have been informed of my stats,” Livia said. “Several times. Usually right before something interesting happens.”
+
+He looked at her for a moment. Then at the gate. Then back at her. His ears, under the hood, were doing something she was choosing not to comment on.
+
+I see you, Livia thought. You put that note there on purpose and now you are deeply regretting that I am a therapist.
+
+“You’re going to touch things you shouldn’t touch,” he said..
+
+“I won’t.”
+
+“You’re going to try to talk to NPCs.”
+
+“Probably not.”
+
+“That’s not a no.”
+
+“If you come,” he said, with the slightly pained tone of someone setting rules they already know will be tested, “you stay where I put you, you do exactly what I say, and if I tell you to stop you stop. No questions.”
+
+“Understood.”
+
+“I mean it.”
+
+“I know.”
+
+He looked at her for one more moment with the expression of someone who had made a decision and was already anticipating regretting it. Then he turned back to the gate without another word.
+
+“Stay close,” he said, to the gate rather than to her. “And don’t make noise.”
+
+I am going on a stealth mission.
+
+With zero stealth stats.
+
+At six in the morning.
+
+For a guild that stole data from us.
+
+Because Nyx wrote a note in small text.
+
+This is my life.
+
+[Mental Supporter Lv. 7: 6,000 EXP. Current mission: Unofficial field support, Ghost Rogue Division. The system has no category for this. The system is creating one.]
+
+The vault district was in the east sector of the server’s main hub—a cluster of high-security player storage facilities that ranged from the straightforwardly locked to the impressively paranoid. Invisible barriers. Identification-locked doors. One vault, Nyx explained quietly as they approached, had installed an actual alarm enchantment that screamed in seventeen languages simultaneously.
+
+“Why seventeen?” Livia whispered..
+
+“Because the owner has a dramatic personality,” Nyx said..
+
+Their target was a mid-tier vault belonging to a player named Corvath—Level 71, stealth build, known in the server’s more unsavory circles for running a side business in stolen guild data. He had lifted Bloodbath & Beyond’s last three months of raid strategy archives from a compromised member account. The data itself was not irreplaceable; Miles had backups. But the principle, as Miles had explained the previous week in a tone that made his meaning clear without stating it, was the principle.
+
+“We get the data back,” Nyx had told the guild, the night Livia had not known about this mission yet. “We make it clear his extraction method has been identified. We document the breach. Nobody gets hurt.”
+
+That was the plan, Livia thought now, watching Nyx assess the vault district’s entrance with the focus of someone consulting a mental map. I just joined it at the end.
+
+Nyx moved with a quality that was genuinely impressive at close range. It was not just the Ghost Rogue’s stealth skill—it was something in how he occupied space, or didn’t. He was present and simultaneously not quite there. Players walked past the alley they were standing in without registering them. An NPC guard made his patrol route without his gaze catching on anything.
+
+Livia stood very still and tried not to exist too loudly.
+
+L
+
+He is not sure yet how he feels about this.
+
+Neither am I, honestly.
+
+But he wrote the note.
+
+Getting into the vault district required bypassing a gate lock, navigating a patrol rotation, and—this was the part Nyx had not mentioned until they were three steps away from it—crossing a courtyard that was under continuous observation by two high-level security NPCs who were specifically programmed to flag non-stealth characters.
+
+Livia looked at the courtyard. Then at Nyx..
+
+“You were going to mention this part,” she said..
+
+“I was going to mention it when we got here,” he said..
+
+“Which is now.”
+
+“Which is now,” he agreed..
+
+She looked at the two security NPCs. They were the kind of NPCs built for function rather than charm: blank-faced, methodical, scanning. Their patrol routes did not overlap, which left a narrow window, but both routes crossed the courtyard at the same point every forty seconds..
+
+“I can pull your stealth field wide enough to cover you if you stay within two meters,” Nyx said. “But two meters is close. You can’t drift. And you can’t react to anything you see or hear out there. Not visibly.”
+
+“I understand,” Livia said..
+
+“I’m serious. Not visibly.”
+
+“Nyx.”
+
+“You have a tendency to react to things.”
+
+“I’m a therapist, not a—”
+
+“You made a dungeon boss cry and your first instinct was to sit down next to it.”
+
+A pause.
+
+“Two meters,” Livia said. “Not reacting. Understood.”
+
+He extended his stealth field.
+
+It felt like stepping into a different quality of air—the ambient sound muffled slightly, the light around her edges becoming less definite. She could see perfectly clearly. She simply felt less visible, which was a novel sensation.
+
+This is what Nyx experiences all the time, she thought. Walking through places as a presence that the world slides off of.
+
+No wonder he finds crowds difficult.
+
+They crossed the courtyard in thirty-one seconds. Nyx’s count, not hers—she was counting her own breaths. The security NPCs continued their routes without deviation. The gate on the far side opened silently under Nyx’s hand.
+
+Inside.
+
+Corvath’s vault was on the third level of the district’s eastern block, and finding it required navigating a series of corridors that were designed to disorient casual intruders. Nyx navigated them from memory, turning without hesitating, cutting through a maintenance passage that was technically not supposed to be accessible and opening directly into the vault’s antechamber.
+
+The antechamber was not empty.
+
+A player was sitting on the floor with his back against the vault door, head in his hands, armor dimmed to its off-duty state. He was low-level—mid-thirties at most, clearly not a fighter, his equipment the practical kind that suggested someone who spent more time in utility builds than combat. He had the look of someone who had been sitting there for a while.
+
+Nyx stopped.
+
+The player looked up. Saw Nyx. Then, more slowly, registered Livia. His expression went through several stages: alarm, calculation, and then something that settled into a kind of exhausted resignation.
+
+“I’m not here to fight,” the player said. “I work for Corvath. Or I did. I’m not sure anymore.”
+
+Nyx’s daggers were out. Not raised. Just present..
+
+“The data,” Nyx said..
+
+“Is inside,” the player said. “He left me here to guard it. Except he’s been gone for six hours and I don’t have the access code to leave and I’ve been sitting here since midnight.”
+
+Silence.
+
+“He locked you in?” Livia said..
+
+“He said it was temporary,” the player said. “He said he’d be back in an hour. He said a lot of things.”
+
+There it is, Livia thought. That’s not a guard. That’s someone who got used.
+
+[Empathic Insight: Player. Name tag: Veln. Level 34. Current state: tired, humiliated, and in the specific emotional position of someone who has realized they believed something that was not true. He is not dangerous. He is just stuck.]
+
+Nyx looked at Livia.
+
+Then he looked at the ceiling, in the manner of someone who had already made a decision and was not pleased about it.
+
+He’s not going to say we can’t help him, Livia thought. He’s also not going to be the one to say it out loud.
+
+That’s fine. I will say it out loud.
+
+Livia sat down. Not on the floor—there was a low storage crate nearby that served. She set her notepad on her knee and looked at Veln with the neutral attention that she had learned was its own kind of signal: I have time. I’m not going anywhere.
+
+“How long have you been working for him?” she asked..
+
+It took twenty minutes.
+
+Not the retrieval—that took four minutes once Nyx had the access code, which Veln gave them freely once it became clear that nobody in this antechamber was going to hurt him and that the woman with the blue-threaded robe was, inexplicably, more interested in whether he had eaten recently than in any of the data Corvath had stolen.
+
+It took twenty minutes for the whole shape of it to come out: Veln was a utility-class player, good at logistics and information management, who had taken a contract with Corvath three months ago because it paid well and the work seemed harmless enough. Sorting data. Organizing archives. The kind of thing that could mean anything depending on what the archives contained.
+
+“I knew it wasn’t clean,” Veln said, at some point in the middle of it. “I just didn’t ask. It’s easier not to ask.”
+
+“Until it isn’t,” Livia said..
+
+“Until it isn’t,” he agreed..
+
+Nyx, who had retrieved the data and was sitting with his back to the wall across the antechamber, said nothing. His flashlight was off. He was very occupied with examining a crack in the floor tile and had been for the past several minutes.
+
+He was not looking at Livia.
+
+He was also, very clearly, listening to every word.
+
+He’s heard this kind of story before, Livia thought. Not the details. The shape of it. Someone who didn’t ask questions until they had to.
+
+He is not going to say that.
+
+He is studying that floor tile with remarkable focus.
+
+When Veln wound down, Livia said: “You can leave when we do. Nyx can get you out the same way we came in.”
+
+Veln looked at Nyx, who had not moved or spoken and was still very interested in the floor tile.
+
+“He’ll get you out,” Livia confirmed, when the silence extended slightly past comfortable..
+
+Nyx, still not looking up: “Yeah.”
+
+Veln, carefully: “Is he— okay?”
+
+“He’s fine,” Livia said. “He’s just—” she searched for the right word, —“processing.”
+
+From across the room, still directed at the floor: “I’m right here.”
+
+“I know,” Livia said..
+
+[You conducted an unscheduled session in an antechamber while on an infiltration mission. +700 EXP. The system notes: this was not in the mission parameters. The system also notes: Nyx did not object. The system is updating its assessment of what Nyx considers acceptable mission parameters when Livia is involved.]
+
+The exit route went smoothly until the last corridor, where a player who had not been on the patrol rotation earlier was standing at the far end.
+
+Not a security NPC. An actual player. Level 68, heavy armor, clearly not expecting to see three people come out of a maintenance passage. He had the look of someone who had been told to check on Corvath’s vault and had not expected the vault to be occupied.
+
+His hand went to his weapon.
+
+Nyx’s daggers came out..
+
+And then Livia stepped past both of them.
+
+“Hi,” she said, to the player. “Sorry to come out of a wall. We’re leaving.”
+
+The player blinked. “You’re— who are you?”
+
+“Livia Quinn,” she said. “Mental Supporter. Bloodbath & Beyond.”
+
+He stared at her.
+
+Then, slowly, his expression did something complicated. Recognition. The kind that meant subreddit, not server history.
+
+“The— the ASMR one?”
+
+Behind her, she heard Nyx make a sound that was not quite a laugh.
+
+“That’s me,” Livia said, with the composure of someone who had made peace with being known for exactly one thing. “We retrieved some data that belongs to our guild. Corvath’s gone. If you want to report this, the breach was his—we can provide documentation. If you don’t, we’re just leaving.”
+
+The player looked at Nyx, who was standing with daggers out and the specific stillness of someone who was not going to start a fight but was very prepared to end one.
+
+He looked at Livia..
+
+“You’re really the ASMR one?”
+
+“Please let us leave,” Livia said..
+
+He stepped aside.
+
+[You talked your way through a security confrontation by being recognizable from a subreddit. +200 EXP. The system has no comment. The system is simply logging this.]
+
+We got through because someone recognized me from the internet.
+
+Nyx will tell this story for years.
+
+I am going to let him.
+
+They walked back through the east sector in the mid-morning light, Veln having split off at the district gate with a guild resource contact slip that Livia had written out on a page torn from her notepad. Nyx had said nothing about this. He had watched her write it with the expression of someone cataloguing information.
+
+They walked back in silence for most of it.
+
+Nyx was slightly ahead, flashlight angled at the ground, hood pulled further forward than usual. He had been doing that since the antechamber—the hood adjustment was a thing he did when he was thinking about something he was not planning to bring up.
+
+He is thinking about Veln, Livia thought. Or the note. Probably both. He is not going to say either.
+
+A block from the guild, he said, without slowing down or looking at her: “Veln’s going to be okay?”
+
+“He’s going to have to make some decisions,” Livia said. “But he’s not stuck anymore. That’s a start.”
+
+Nyx made a sound that was not quite acknowledgment and not quite a response. He kept walking.
+
+Half a block..
+
+Then, still not looking at her: “The note thing. That was—” he stopped. Started again. “I wasn’t—” He stopped again.
+
+Livia waited..
+
+“The small text,” he said, finally, with the energy of someone closing a topic they should not have opened. “The ink ran. That’s why it’s small.”
+
+The ink ran, Livia thought.
+
+“Sure,” Livia said, looking at the lamppost..
+
+They walked the last half block without talking.
+
+At the guild gate, Nyx pushed the door open and was already halfway through it when he stopped.
+
+He did not turn around.
+
+He said, into the gap between the door and the frame, at a volume that was technically audible: “Thanks. For. Coming.”
+
+Then he went inside very quickly.
+
+Livia stood at the gate.
+
+He said it to the door.
+
+He was already inside when he finished saying it.
+
+He has never thanked anyone for anything in my presence.
+
+He has been a patient of mine for months.
+
+Today he was… something else.
+
+“Thanks for the note,” she said, to the closed door.
+
+[Therapist’s Insight: Note. Nyx Shadowmint is no longer only a patient. The relationship has shifted. Not resolved—shifted. He trusted you differently today. That matters. The system suggests you update your log category for him. The system leaves the new label to your discretion.]
+
+I need a new category, Livia thought.
+
+I don’t have one yet.
+
+I’ll figure it out.
+
+[EXP gained this chapter: +1,100 total. Mental Supporter Lv. 7: 1,100 / 7,000 EXP.]
+
+[Achievement Unlocked: First Mission as Partners (Unofficial). The system notes the word partners. The system is not going to comment on this further. The system has taste.]
+
+Back in the guild hall, Miles was waiting.
+
+Not standing. Seated at the main table, which was a different kind of waiting—the deliberate kind. He had Nyx’s mission briefing in front of him, the small-text note visible from where Livia was standing.
+
+“How’d it go?” he asked. Neutral. Calibrated..
+
+“We got the data back,” Livia said. “No casualties. One stranded contractor who needed a resource contact.”
+
+Miles looked at the briefing. Then at her.
+
+“He asked you to come.”
+
+“He left a note.”
+
+“Same thing.”
+
+Livia sat down across from him.
+
+“Is that a problem?”
+
+Miles was quiet for a moment. His expression was the controlled kind, but her Empathic Insight was running and what it caught was not disapproval.
+
+Not disapproval.
+
+Something that sat closer to:
+
+He’s never asked anyone before.
+
+“No,” Miles said, finally. “Not a problem.”
+
+He folded the briefing and set it aside.
+
+“Debriefing’s in an hour. Be there.”
+
+He stood and left.
+
+Livia watched the door for a moment after he was gone.
+
+Not disapproval.
+
+He noticed that Nyx asked.
+
+It meant something to him.
+
+I don’t know exactly what yet.
+
+Filed.
+
+[END OF CHAPTER 15]
+
+To be continued...
+
+Chapter 16: The Dungeon That Feels Too Much
