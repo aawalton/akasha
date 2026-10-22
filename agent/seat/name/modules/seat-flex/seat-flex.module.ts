@@ -4,7 +4,7 @@ export const seatFlex = {
   id: "01a06949-b281-72df-a9c3-507005e3dfd2",
   type: "page-type/module",
   slug: "seat-flex",
-  definition: "a seat's flex, read out of its name, with the rules for refusing one",
+  definition: "how code reads the last part of the name of a seat",
   code: "ts",
   test: "ts",
   decisions: [
@@ -35,5 +35,5 @@ export const seatFlex = {
     },
   ],
   createdAt: "2026-09-03T22:00:32.641Z",
-  updatedAt: "2026-09-26T17:23:28.000Z",
+  updatedAt: "2026-10-22T15:11:55.398Z",
 } as const satisfies Module
