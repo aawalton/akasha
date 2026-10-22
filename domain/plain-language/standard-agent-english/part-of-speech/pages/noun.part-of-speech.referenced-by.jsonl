@@ -33,6 +33,7 @@
 {"propertySlug":"part-of-speech","path":"agent/model/version/model-version.page-type.ts","id":"01a0d4b7-ebed-7a27-8b91-440087702aa8"}
 {"propertySlug":"part-of-speech","path":"agent/properties/edits.file-property.ts","id":"01a07771-c8a1-7ef9-b931-04ce8f6bbc85"}
 {"propertySlug":"part-of-speech","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
+{"propertySlug":"part-of-speech","path":"agent/seat/properties/conversation.computed-property.ts","id":"01a0d44c-37ba-7558-91d4-4633e3c24b5f"}
 {"propertySlug":"part-of-speech","path":"agent/seat/pty/pty.domain.ts","id":"01a0932f-f8ee-7c96-8069-edc7cda2dc6d"}
 {"propertySlug":"part-of-speech","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
 {"propertySlug":"part-of-speech","path":"agent/seat/supervisor/seat-supervisor.domain.ts","id":"01a08859-4c01-7bf5-9ebc-b39e6b3406fa"}

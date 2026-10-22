@@ -6,6 +6,10 @@ export const conversation = {
   slug: "conversation",
   propertySlug: "conversation",
   definition: "the words written in a seat after the seat's current summary",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "conversation" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "conversations" },
+  ],
   holds: "records",
   askedByName: true,
   properties: [
@@ -43,5 +47,5 @@ export const conversation = {
   ],
   types: "ts",
   createdAt: "2026-09-24T16:42:39.930Z",
-  updatedAt: "2026-09-25T18:03:46.000Z",
+  updatedAt: "2026-10-22T15:14:39.714Z",
 } as const satisfies ComputedProperty
