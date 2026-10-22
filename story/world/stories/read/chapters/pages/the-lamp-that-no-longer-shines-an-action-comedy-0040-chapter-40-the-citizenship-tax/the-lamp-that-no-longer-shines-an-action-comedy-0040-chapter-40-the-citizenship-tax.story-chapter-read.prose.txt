@@ -1,0 +1,265 @@
+[Time]: Day 30 of Enrollment, 06:30 PM[Location]: Milan'thir · "The Witch's House" · Shared Void Interface
+
+The game board materialized.
+
+A holographic forest covered the table. Three [Witch Clones] (grey, featureless mannequins) stood in the corners. The Shared Void shuffled the 114 non-core cards into a massive, swirling vortex in the center.
+
+Hathaway cracked her knuckles.
+
+Give me a Slime. Give me a Goblin. Give me anything cheap.
+
+[Hathaway's Turn][Resources: 1 Star]
+
+Hathaway looked at her starting hand.First, her two guaranteed Core Cards, safely retained from the shuffle:
+
+[Core Card 1: The 1st Seat · Ovelia] (Cost: 10)
+
+[Core Card 2: The 7th Seat · Camilla] (Cost: 8)
+
+Next, the three cards she had just drawn from the Shared Void. She prayed for cheap minions, then looked.
+
+[The Scarlet Fox of Casendiara · Josephine] (Cost: 9). My own brick.
+
+[Grand Artifact: The Eye of Truth] (Cost: 10). Also my own brick.
+
+[Sewer Rat] (Cost: 1 / ATK: 1 / HP: 1). Tacky gold border. Definitely Rina's.
+
+Okay. One rat. It's a start.
+
+"I summon..." Hathaway declared, with all the dignity available to a woman deploying somebody else's vermin.
+
+She flicked the [Minion Card] onto the board.
+
+[Sewer Rat] (Cost: 1 / ATK: 1 / HP: 1)
+
+A tiny, dirty holographic rat appeared. It squeaked, holding a rusty nail shiv.
+
+"My turn!" Rina chirped.
+
+She drew a card from the vortex. Her ruby eyes lit up.
+
+"Wow! Look at this! It's so shiny! I think I drew something good!"
+
+Rina slammed the card onto the board.
+
+"I summon [The 5th Seat · Irene (Young Ver.)]!"
+
+HUMMMM—
+
+The table didn't just glow; it sang.
+
+A burst of golden light, warm and blinding like the morning sun, erupted from the card. The holographic forest was bathed in a luxurious, radiant dawn.
+
+From the light, a figure emerged.
+
+Young Irene.
+
+She was breathtaking. Even in this Q-Version projection, her beauty came through without a seam.
+
+She looked about twelve or thirteen. Her long silver hair fell in natural, elegant curls. Under the corner of her right eye sat a charming beauty mark, adding a hint of mature allure to her youthful face. She wore a magnificent red-gold cloak over a dark navy, high-waisted military coat.
+
+She stood there radiating effortless nobility, raised a small scepter with a gentle, polite smile, and gold coins began to rain around her like blessings.
+
+She is gorgeous, Hathaway thought, and resented how well the lighting budget had been spent.
+
+But as the text box scrolled beside the hologram, Hathaway realized the "Blessings" were actually "Taxes."
+
+[Card Name: The Radiant Tyrant · Irene][Rarity: Golden Legend][Anecdote: The Sun in the Mud]"The Universe accidentally dropped a Sun into a medieval world. At 13, she realized she didn't need a Knight; she needed a Throne. At 18, she burned the old laws and dragged a primitive civilization into the Starry Sea by its hair.""She is not cruel; she is simply too bright. If you burn standing next to her, that is your honor."
+
+That was no flavor text. That was the patch history of the greatest speedrunner the world had ever produced.
+
+Awakened as a mortal in a Low-Magic Plane at 18. Crowned as a High Council Grand Witch at 33.
+
+In a civilization of immortals, 33 was practically infancy: while her peers were still crying over their A3 Exams, Irene was already ruling 4.2 billion souls, a millennium of grinding compressed into a fifteen-year run with no legendary bloodline, no family trust fund, and no patience.
+
+Hathaway looked at the gold coins piling up on Rina's side.
+
+[Effect: The Golden Age. Generate +1 Coin every turn.]
+
+Those weren't just coins. They were Efficiency. They were the crystallized output of a civilization forced to evolve at gunpoint.
+
+I love her, Hathaway admitted, her gamer soul trembling. I love this ruthless economy engine.
+
+"She's so cute!" Rina squealed, clapping her hands. "And look! I use my Trait: Lucky Coin!"
+
+Rina flipped a virtual coin. Heads.
+
+"Yay! I gain +2 temporary mana!"
+
+"I summon... [Gold-Plated Golem] (Cost: 3)!"
+
+Boom.
+
+A blinged-out golem dropped onto the board beside the elegant Young Irene. The Rat looked at the Golem, then up at the Radiant Young Princess, who smiled down at it with gentle pity.
+
+The Rat trembled in existential shame.
+
+Victoria played quietly, ignoring the flashbang of wealth.
+
+"I summon [Shadow Wisp]." (Cost: 1).
+
+A small, dark spirit flickered into existence. A sensible, control-oriented opener.
+
+[System Alert: The Golden Age Effect Triggered]
+
+Clink. Clink.
+
+Two gold coins fell from the sky into Rina's resource pool. Every coin had a source. These two bypassed the Rat entirely and came straight out of Hathaway’s Clone.
+
+[-5 HP to Hathaway]
+
+Hathaway watched her Clone's Health Bar drop with no attack, no spell, and no warning.
+
+"Hey!" she protested. "Why am I losing health? My Rat is still alive!"
+
+"It's the 'Citizenship Tax'," Rina explained innocently, pointing at the flavor text. "Young Irene believes that living in her Golden Light is a privilege, not a right. You are paying the subscription fee for... existing in her presence."
+
+"I'm paying to breathe?!" Hathaway yelled. "This is literal tyranny!"
+
+"No," Rina chirped, looking up with wide, sparkling eyes. "It's Efficiency!"
+
+Hathaway froze. The word hit her like a physical slap. Instant Karma at its finest.
+
+I take it back, Hathaway thought bitterly, watching her life force being converted into Rina's pocket money. I don't love her anymore. This is a daylight robbery.
+
+Before she could file a formal tax appeal, the [Gold-Plated Golem] moved.
+
+It raised a fist made of solid diamond and flattened the poor [Sewer Rat] acting as Hathaway's meat shield.
+
+Splat.
+
+The Rat was deleted. But the Golem had 5 Attack, and the Rat had 1 HP. The excess force washed over Hathaway's Clone.
+
+[-4 HP (Trample Damage)]
+
+Hathaway staggered. Between the Golem's fist and Irene's "Tax," her frontline was shattered and she was bleeding out fast.
+
+I have the mana... she glanced at her growing resource bar, a bead of sweat forming on her temple. But will I survive long enough to spend it?
+
+[Hathaway's HP: 65%]
+
+The "Malicious Sabotage" strategy was failing spectacularly.Because Rina's economy engine was ramping her mana at an absurd speed. Rina wasn't choking on Hathaway's 9-Cost bricks; Rina was actually generating enough money to afford them.
+
+"My turn!" Rina announced happily.
+
+The "Lucky Girl" reached into the Shared Void vortex.
+
+"Ooh!" Rina gasped, pulling out a card. "This one isn't shiny gold... it feels warm! And look! She has feathers!"
+
+Hathaway's heart stopped.
+
+Feathers? There is exactly one Grand Witch in this deck with feathers.
+
+On the other side of the table, Victoria flinched. She stared at the card in Rina's hand with visible disgust, as if Rina had just pulled a live cockroach out of the deck.
+
+"Her," Victoria muttered, her grip tightening on her wine glass. "The Anomaly."
+
+Rina giggled. "I have enough money! I deploy [The 9th Seat · Paddy]!"
+
+BOOM.
+
+Hathaway's card, her precious Paddy, landed on the board under Rina's command, and the 9th Seat emerged.
+
+She had a striking Red and Black color scheme, short messy hair, magnificent feathered dragon wings, and a confident sunny grin, and she held a bomb the size of a basketball.
+
+To the uneducated, she looked like a classic Shonen Hero. Reliable, sunny, the type who would take a bullet for you. But every wise Witch knew the truth:
+
+That sunny smile was the last thing you saw before she put a whoopee cushion on the electric chair.
+
+A Lore Text floated up beside her.
+
+[Card Name: The Unwanted Hero · Paddy][Rarity: Crimson Legend][Anecdote: The Impossible Seat]"The Council voted 'No' 135 times. To block her, they sent retired Legends to break her legs; she broke their staves. They sent the Dragon Slayer to execute her; she danced around the blade.""She sits on the 9th Seat not because we wanted a Plumed Dragon, but because we couldn't stop her.""Council Note: In the event of an Apocalypse, please deploy her. We apologize in advance for her behavior."
+
+Hathaway stared at the text, and her pulse picked up a beat it had no right to.
+
+That's right.
+
+She isn't a clown. She is a One-Woman Army in a clown suit. She fought the System and won. She is the ultimate proof that Reliability outweighs Bloodline.
+
+"Paddy..." Hathaway whispered, leaning over the board. "Show them why you are the Hero!"
+
+[Effect Triggered: Chaos Gamble]
+
+Paddy winked at the screen. She pulled out a massive, cartoonish bomb with a burning fuse from behind her back.
+
+She tossed it with a cheerful, sporty motion, the way you would lob a ball to a friend in a park.
+
+[Dice Roll: 6 (Jackpot)][Result: Deal 10 Damage to a random enemy.]
+
+The bomb sailed through the air, tracing a perfect arc.
+
+It bypassed Victoria's minions.And because Hathaway had no Minions left to intercept it, it landed directly in the lap of Hathaway's Witch Clone.
+
+Paddy waved happily at Hathaway. "Catch!"
+
+KA-BOOM!
+
+[-10 HP]
+
+"Hey!" Hathaway yelled, slamming the table. "That's MY card! Paddy, you traitor! Why are you smiling at me while bombing me?!"
+
+Victoria took a slow sip of her boiling-ice wine and let the silence run three seconds longer than it needed to.
+
+"Paddy is a Plumed Dragon, Hathaway. She does not have 'Teams'. She has 'Participants'. Be grateful she considers you worthy of holding her bomb."
+
+[Victoria's Turn]
+
+Rina commanded a massive [Gold-Plated Golem] (ATK 5 / DEF 5) with its fists pointed at everyone.Hathaway was burning.And Paddy was standing on Rina's field, smiling her sunny, innocent smile, spinning another bomb on her finger.
+
+Every line of play on that board pointed at the Golem.
+
+Victoria was staring at Paddy. Her jaw had set, and the stem of her wine glass had stopped turning between her fingers.
+
+"Victoria?" Hathaway asked, noticing her roommate's darkening aura. "You should probably deal with the Golem..."
+
+"No," Victoria said flatly.
+
+She drew [Shadow Execution] (Destroy a target unit. Cost: 5), the card you hold in reserve until a final boss walks onto the field, and played it in the same motion she drew it.
+
+"I cast [Shadow Execution]," Victoria announced.
+
+She pointed a gloved finger directly at the smiling Plumed Dragon. Her voice was calm, but it carried the weight of 50,000 wasted Solars.
+
+"Target: [The 9th Seat · Paddy]."
+
+Rina blinked, confused. "Eh? But Paddy only has 4 Attack! My Golem has 5!"
+
+"You don't understand, Rina," Victoria hissed, slamming the spell card onto the table. "If I let her live one more turn, she will stack [Hero's Spirit]. She will become immune to Magic. She will flip the table. She creates miracles, and I hate miracles."
+
+"Get. Her. Off. My. Board."
+
+SHING—
+
+A guillotine of shadows fell. Paddy looked up, gave a final, cheerful salute, and dissolved into darkness.
+
+"See ya!"
+
+Victoria exhaled, and her shoulders came down a full inch. "Crisis averted. Variance eliminated."
+
+"That was a 5-Cost spell on a 4-Cost minion," Hathaway pointed out. "Mathematically, a negative trade."
+
+"Mathematically, yes," Victoria swirled her wine, her eyes dark. "But psychologically? I won."
+
+She pointed at the empty spot where Paddy used to stand.
+
+"In Round 6, she starts throwing 'Party Poppers' that randomly shuffle your deck order. I calculate my draws three turns in advance, Hathaway. I do not tolerate a lizard turning my strategy into a slot machine. Five mana to prevent that is a discount."
+
+The board was quiet for a second. But the air felt heavier.
+
+The fun and games were over. Paddy was gone. The Gold Golem was still there. And Hathaway was bleeding out.
+
+"My turn!" Rina announced, her luck showing no signs of stopping.
+
+Rina plunged her arm into the vortex again. The air around her hand warped, turning grey and cold.
+
+"Ooh," Rina blinked, her fingers brushing the card surface. "This card... it doesn't feel like gold. It feels... feverish."
+
+She pulled it out.
+
+Frost crawled up the outside of Hathaway's cup and kept going.
+
+Oh no. That aura. That specific, suffocating pressure.
+
+Rina smiled innocently and flipped the card.
+
+"I summon... [The 3rd Seat · Ash]!"
