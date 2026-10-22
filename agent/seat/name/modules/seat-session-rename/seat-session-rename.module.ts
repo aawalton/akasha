@@ -4,7 +4,7 @@ export const seatSessionRename = {
   id: "01a0687e-534d-7000-bad8-47a890a18ce1",
   type: "page-type/module",
   slug: "seat-session-rename",
-  definition: "the tmux session a renamed seat sits in, moved to the seat's new name",
+  definition: "how code changes the name of a tmux session when the name of its seat changes",
   code: "ts",
   test: "ts",
   decisions: [
@@ -30,5 +30,5 @@ export const seatSessionRename = {
     },
   ],
   createdAt: "2026-09-03T18:18:24.461Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-22T15:12:10.335Z",
 } as const satisfies Module
