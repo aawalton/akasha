@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const confluenceSagaDancingWithGuestsVol5InProgress0010Chapter10 = {
+  id: "01a164f4-0e6d-7951-b676-4b52f93cba1d",
+  type: "page-type/story-chapter-read",
+  slug: "confluence-saga-dancing-with-guests-vol-5-in-progress-0010-chapter-10",
+  position: 10,
+  publishedAt: "2025-09-26",
+  unit: "unit/words",
+  title: "Chapter 10",
+  story: "story-read/confluence-saga-dancing-with-guests-vol-5-in-progress",
+  ownLength: 1829,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2630936",
+      externalLink:
+        "https://www.royalroad.com/fiction/132776/confluence-saga-dancing-with-guests-vol-5-in-progress/chapter/2630936/chapter-10",
+    },
+  ],
+  createdAt: "2026-10-22T18:51:18.508Z",
+  updatedAt: "2026-10-22T18:51:18.508Z",
+} as const satisfies StoryChapterRead
