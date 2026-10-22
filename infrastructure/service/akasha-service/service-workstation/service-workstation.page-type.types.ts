@@ -9,6 +9,7 @@ import type { RestartsItself } from "akasha/infrastructure/service/akasha-servic
 import type { Running } from "akasha/infrastructure/service/akasha-service/service-workstation/properties/running.module-property-group.ts"
 import type { Systemd } from "akasha/infrastructure/service/akasha-service/service-workstation/properties/systemd.record-property.types.ts"
 import type { Told } from "akasha/infrastructure/service/akasha-service/service-workstation/properties/told.boolean-property.types.ts"
+import type { Troubles } from "akasha/infrastructure/service/akasha-service/service-workstation/properties/troubles.text-property.types.ts"
 import type { Unbound } from "akasha/infrastructure/service/akasha-service/service-workstation/properties/unbound.text-property.types.ts"
 import type { Well } from "akasha/infrastructure/service/akasha-service/service-workstation/properties/well.boolean-property.types.ts"
 import type { WorkedAt } from "akasha/infrastructure/service/akasha-service/service-workstation/properties/worked-at.instant-property.types.ts"
@@ -23,6 +24,7 @@ export type ServiceWorkstation = AkashaService & {
   binds?: Binds
   worksWithinSeconds?: WorksWithinSeconds
   unbound?: Unbound
+  troubles?: Troubles
   well?: Well
   lookedAt?: LookedAt
   workedAt?: WorkedAt

@@ -137,6 +137,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/after.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/binds.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/stops.text-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/troubles.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/unbound.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/wants.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/akasha-service/web-app/properties/service-clusters.multi-relation-property.types.ts","typed":true,"deferred":false}

@@ -10,6 +10,7 @@ export const pageService = {
   binds: ["127.0.0.1", "::1", "workstation.alanwalton.ts.net"],
   maxMemoryMb: 16384,
   killMemoryMb: 20480,
+  worksWithinSeconds: 300,
   systemd: {
     restartDelaySeconds: 1,
     startLimitIntervalSeconds: 0,
@@ -187,7 +188,8 @@ export const pageService = {
     "module/read-answering",
     "module/page-threading",
     "module/page-landing",
+    "module/trouble-keeping",
   ],
   createdAt: "2026-08-31T23:59:18.778Z",
-  updatedAt: "2026-09-27T19:41:56.000Z",
+  updatedAt: "2026-10-22T15:03:47.130Z",
 } as const satisfies ServiceWorkstation

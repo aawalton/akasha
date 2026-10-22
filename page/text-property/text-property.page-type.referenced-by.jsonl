@@ -332,6 +332,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/part-of.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/schedule.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/stops.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/troubles.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/unbound.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/wanted-by.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/wants.text-property.ts","typed":true,"deferred":false}

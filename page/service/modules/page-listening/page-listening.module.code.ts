@@ -35,6 +35,11 @@ import {
   keptReads,
   readersFor,
 } from "akasha/page/service/modules/reads-keeping/reads-keeping.module.code.ts"
+import {
+  keepingTroubles,
+  SAID_EVERY_MS,
+  troublingFor,
+} from "akasha/page/service/modules/trouble-keeping/trouble-keeping.module.code.ts"
 import { pageService } from "akasha/page/service/page-service.service-workstation.ts"
 
 export const SERVICE_SLUG = pageService.slug
@@ -45,6 +50,7 @@ const LOOKED_MS = 1_000
 export const HELD_MS = 2_000
 const ASKED_CHARS = 400
 const MB = 1024 * 1024
+const TROUBLING = troublingFor()
 
 type Writer = ReturnType<typeof writerFor>
 
@@ -74,6 +80,7 @@ export async function timed(
   const response = await marked(route, () => answered(request))
   const ended = performance.now()
   const spent = ended - started
+  TROUBLING.answered(ended, spent)
   if (spent < SLOW_MS) return response
   const asked = copy === null ? "" : await copy.text().catch(() => "")
   process.stdout.write(
@@ -99,6 +106,7 @@ function watchingHeld(): undefined {
     const heldMs = now - last - LOOKED_MS
     last = now
     if (heldMs >= HELD_MS) {
+      TROUBLING.held(now, heldMs)
       process.stdout.write(stalledSaid(heldMs, heldSaid(now - heldMs - LOOKED_MS, now)))
     }
     forgotten(now)
@@ -163,6 +171,19 @@ export function saying(root: string, page: string, names: readonly string[]): un
   mergeUncommitted(root, page, { [UNBOUND]: [...names] })
 }
 
+function troublesKept(root: string, page: string): undefined {
+  const said = () =>
+    keepingTroubles(
+      root,
+      page,
+      TROUBLING.troubles(performance.now(), process.memoryUsage().rss / MB),
+      new Date()
+    )
+  said()
+  setInterval(said, SAID_EVERY_MS).unref()
+  return undefined
+}
+
 function answeredAt(bound: Bound): string {
   return `page queries are answered at ${bound.servers.map((one) => one.url.href).join(" ")}\n`
 }
@@ -197,6 +218,7 @@ export function runPageListening(root: string): undefined {
     throw new Error(`no host name the page states could be bound at ${port}`)
   }
   process.stdout.write(answeredAt(bound))
+  troublesKept(root, page)
   if (bound.refused.length > 0) {
     const beat = setInterval(() => {
       const before = bound.refused.length

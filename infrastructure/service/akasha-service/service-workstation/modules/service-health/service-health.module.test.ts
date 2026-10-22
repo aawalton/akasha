@@ -43,6 +43,7 @@ const RUNNING: Watched = {
   pagePath: PAGE,
   scheduled: false,
   unbound: [],
+  troubles: [],
   worksWithinMs: null,
   workedAt: null,
   told: true,
@@ -316,6 +317,13 @@ test("what a service published as unbound is carried into what is watched", () =
   } finally {
     rmSync(root, { recursive: true, force: true })
   }
+})
+
+test("a published trouble is broken in its own words, after a round overdue", () => {
+  const troubled = { ...BEATS, troubles: ["holds 9000 MB", "took 61 s"] }
+  expect(brokenIn(troubled, UP, NOW)).toBe("held-service.service holds 9000 MB, and took 61 s")
+  expect(brokenIn({ ...troubled, workedAt: OLD_BEAT }, UP, NOW)).toContain("work landed")
+  expect(watchedIn(ROOT, [pageOf({})])[0]?.troubles).toEqual([])
 })
 
 test("a service publishing nothing unbound carries no host name", () => {

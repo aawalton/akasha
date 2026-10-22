@@ -53,6 +53,7 @@ export const serviceWorkstation = {
     "text-property/schedule",
     "text-property/stops",
     "text-property/unbound",
+    "text-property/troubles",
     "text-property/wanted-by",
     "text-property/wants",
     "module/service-telling",
@@ -69,6 +70,13 @@ export const serviceWorkstation = {
     { pageProperty: "number-property/works-within-seconds", required: false, many: false },
     {
       pageProperty: "text-property/unbound",
+      required: false,
+      many: true,
+      maxCount: null,
+      uncommitted: true,
+    },
+    {
+      pageProperty: "text-property/troubles",
       required: false,
       many: true,
       maxCount: null,
@@ -186,6 +194,10 @@ export const serviceWorkstation = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A service publishing a trouble it sees in itself is broken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A service whose work lands in rounds publishes beside its page when a round last landed.",
     },
@@ -232,5 +244,5 @@ export const serviceWorkstation = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-31T23:55:19.466Z",
-  updatedAt: "2026-10-19T18:54:33.922Z",
+  updatedAt: "2026-10-22T15:03:47.130Z",
 } as const satisfies PageType

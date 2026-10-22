@@ -96,6 +96,11 @@ export const pageListening = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Every answer and every hold is counted toward the troubles the service publishes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A slow answer is logged with every landing that ran while it waited.",
     },
     {
@@ -104,5 +109,5 @@ export const pageListening = {
     },
   ],
   createdAt: "2026-08-31T23:59:18.777Z",
-  updatedAt: "2026-09-27T19:41:56.000Z",
+  updatedAt: "2026-10-22T15:03:47.130Z",
 } as const satisfies Module

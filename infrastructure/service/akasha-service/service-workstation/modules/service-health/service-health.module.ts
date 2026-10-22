@@ -51,6 +51,15 @@ export const serviceHealth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A service publishing a trouble it sees in itself is broken in that trouble's words.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A round overdue is said before any trouble the service published.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A scheduled service resting between its runs is well.",
     },
     {
@@ -146,5 +155,5 @@ export const serviceHealth = {
     },
   ],
   createdAt: "2026-09-08T17:44:24.035Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-22T15:03:47.130Z",
 } as const satisfies Module

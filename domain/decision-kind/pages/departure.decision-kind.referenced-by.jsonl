@@ -3265,6 +3265,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-workstation/properties/stops.text-property.ts","id":"01a06738-9f12-776d-8c5e-1f8340434ace"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-workstation/properties/systemd.record-property.ts","id":"01a05a3f-b42d-7f99-8339-43009bbd74bb"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-workstation/properties/told.boolean-property.ts","id":"01a0a577-6d6c-764c-9532-d688d37182a7"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-workstation/properties/troubles.text-property.ts","id":"01a16423-c0bb-75f7-924a-c933a73311b9"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-workstation/properties/unbound.text-property.ts","id":"01a08ca8-6bf9-7831-8200-c579ad49fb3c"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-workstation/properties/wants.text-property.ts","id":"01a06738-9f12-7c0b-8ea5-4b76050ff060"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-workstation/properties/well.boolean-property.ts","id":"01a08c77-7bb7-706c-8b79-08bbd7620c7a"}
@@ -3575,6 +3576,7 @@
 {"propertySlug":"decision-kind","path":"page/service/modules/reads-keeping/reads-keeping.module.ts","id":"01a0d4da-95ae-71bd-a4e3-35db49d47caa"}
 {"propertySlug":"decision-kind","path":"page/service/modules/refusal-fault/refusal-fault.module.ts","id":"01a0d92a-75b2-7000-b56b-cc28e4f4593c"}
 {"propertySlug":"decision-kind","path":"page/service/modules/select-refusing/select-refusing.module.ts","id":"01a0e081-01f7-7419-93f2-298eb3697f31"}
+{"propertySlug":"decision-kind","path":"page/service/modules/trouble-keeping/trouble-keeping.module.ts","id":"01a16423-c0bc-7b43-b968-6a226fb0f72d"}
 {"propertySlug":"decision-kind","path":"page/service/modules/where-testing/where-testing.module.ts","id":"01a05bdd-d54c-7989-aac7-52cb42d778c4"}
 {"propertySlug":"decision-kind","path":"page/service/page-forwarder/page-forwarder.manifest.ts","id":"01a0738a-b8a8-7ed0-b30c-fb54c86490a9"}
 {"propertySlug":"decision-kind","path":"page/service/page-service.service-workstation.ts","id":"01a05a43-5afa-7d0d-8d60-dbd3c3498f99"}

@@ -54,6 +54,8 @@
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"page/service/modules/page-writing/page-writing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"page/service/modules/reads-keeping/reads-keeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"page/service/modules/reads-keeping/reads-keeping.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"page/service/modules/trouble-keeping/trouble-keeping.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"page/service/modules/trouble-keeping/trouble-keeping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"persona/modules/reading/persona-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"persona/point/modules/persona-points-keeping/persona-points-keeping.module.code.ts","typed":false,"deferred":false}

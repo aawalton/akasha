@@ -22,6 +22,7 @@ const RUNNING = new Set(["active", "activating", "reloading"])
 const SUCCESS = "success"
 export const SETTLE_MS = 120_000
 const UNBOUND = "unbound"
+const TROUBLES = "troubles"
 
 export type UnitState = {
   readonly activeState: string
@@ -35,6 +36,7 @@ export type Watched = {
   readonly pagePath: string
   readonly scheduled: boolean
   readonly unbound: readonly string[]
+  readonly troubles: readonly string[]
   readonly worksWithinMs: number | null
   readonly workedAt: string | null
   readonly told: boolean
@@ -48,28 +50,26 @@ export type Health = {
   readonly told: boolean
 }
 
-function unboundAt(root: string, pagePath: string): readonly string[] {
-  const held = uncommittedIn(root, pagePath)?.[UNBOUND]
+function textsAt(values: Readonly<Record<string, unknown>> | null, key: string): readonly string[] {
+  const held = values?.[key]
   if (!Array.isArray(held)) return []
   return held.filter((one): one is string => typeof one === "string")
-}
-
-function beatAt(root: string, pagePath: string): string | null {
-  return beatOn(uncommittedIn(root, pagePath))
 }
 
 export function watchedIn(root: string, services: readonly Service[]): readonly Watched[] {
   const found: Watched[] = []
   for (const one of services) {
     if (!one.service.enabled) continue
+    const published = uncommittedIn(root, one.pagePath)
     found.push({
       slug: one.service.slug,
       unit: `${one.service.slug}${SERVICE_SUFFIX}`,
       pagePath: one.pagePath,
       scheduled: isScheduled(one),
-      unbound: unboundAt(root, one.pagePath),
+      unbound: textsAt(published, UNBOUND),
+      troubles: textsAt(published, TROUBLES),
       worksWithinMs: windowMsIn(one.service.worksWithinSeconds),
-      workedAt: beatAt(root, one.pagePath),
+      workedAt: beatOn(published),
       told: one.service.told ?? true,
     })
   }
@@ -149,6 +149,7 @@ export function brokenIn(
   }
   const unbeaten = unbeatenIn(one, now)
   if (unbeaten !== null) return unbeaten
+  if (one.troubles.length > 0) return `${one.unit} ${one.troubles.join(", and ")}`
   if (one.scheduled) return null
   if (runningNow(state)) return null
   if (settling(state.changedAt, now)) return null
