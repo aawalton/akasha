@@ -1,0 +1,167 @@
+-0-0-0-0-0-
+
+The Dungeon, Medea Island, Kalenic Sea
+
+-0-0-0-0-0-
+
+As dawn broke on a new day, I decided to perform a top-down inspection of my Dungeon.
+
+The First floor, my first creation. It was minimalist, simplistic, and, by now, trivialized. The Crabs' strengths, attacks, and weaknesses were well-known. Their tactics were simple and easily countered. It wasn't something I was going to change, either. Ultimately, I had always known the first floor would become an introduction, an entrée.
+
+The Second floor was also well-known, if still frustrating to navigate. It introduced both a plentiful array of traps and underwater combat. Guilders that made it through this floor, by necessity, gained proficiency in avoiding traps and fighting vicious, aggressive fish in their natural habitat.
+
+The Third floor was a roadblock. Its boss and sub-bosses were intelligent, immortal kobolds who learned from you even as you cut them down. While their knowledge remained, as long as the kobolds were killed regularly, they couldn't amass enough strength or speed to overwhelm prepared opponents.
+
+Mushu was the same, if with a higher starting strength. With the lack of teleport crystals and no easy way to escape the consequences of losing in deadly combat, the guilders needed to be platinum-level before attempting to fight him. With their predilection for over-preparedness and overwhelming numbers... Mushu hadn't won decisively in battle since taking out the Gorge Twins and their party.
+
+Still, the environment of the Third was already challenging to navigate by its nature as a semi-shifting jungle. With the exact sub-bosses needing to be defeated varying depending on the party, it proved a challenge for the Golds who made it there regularly. I had a few ideas to mitigate Guilders overwhelming Mushu with numbers, but I need to test something first.
+
+The Fourth remained a slog for all who did make it past Mushu. The Ratten continued to fill their role. Ever-evolving horde-type monsters, their numbers kept in check only by their constant warring with each other. New clans rose and fell daily, and only those with more than a slight advantage could survive to join the ranks of the Great Clans.
+
+The newer Platinum parties were still stuck on this floor, though I didn't expect them to take much longer to get through.
+
+The Fifth Floor remained a dark, silent nightmare. The Mushroom Hivemind grew more cunning and tactical with every engagement, new Fungal Shamblers being created with ever-more-interesting weapons. One that I observed seemed to be a suicide bomber. It had a compartmentalized sack in its chest that, if slashed, would mix two chemicals that exploded on contact with each other. Its outer shell was much like a grenade, designed to shatter and spread hot shards of hardened matter all over the place. I dub thee Suicide Shamblers.
+
+Even better, a shadow golem would transform in a day or two. At least, it displayed the same signs I had observed with sprites of the other elements. With a Darkness Spirit in the castle, it would make their currently mostly leisurely walks to the boss room a bit more intense. They could fight off the occasional ambushes with ease at the moment, and I was contemplating adding another monster to the castle. Or, at least, fill it with traps.
+
+The Sixth was the current 'frontline.' The only group that had made it there was the Isid/Haythem/Cliche raid group. The Hero group was still around, but half of them had given it up as a deathtrap of a job and vamoosed. The half that remained held a hell of a grudge. They'd recently learned of the whole 'key' deal, so I could probably expect them to break through to the Sixth soon.
+
+The Seventh remained untested. The Drake-kin Mines were extensive and continued to grow as the Kobolds followed the ore veins to their ends. There were practically miles of tunnels. Finding the boss room amongst all of that would be difficult already. With some traps, it would make it even more so.
+
+Thinking about it, I may have been hasty assigning Tear to boss-hood. He was currently the head of all weapon and armor production for my humanoid monsters, and having to spend time training for combat took up a decent chunk of time. I was still determining who I wanted to replace him, though. I'd need time to think about it.
+
+The Eighth was trucking along just fine. Nothing to change there. The Snowbolds, Ice Foxes, and Air Mana-beings continued to live their lives and train themselves.
+
+The Scorpans on the Ninth and the Minotaurs on the Tenth built up their villages. Each had started farming some of the plants native to their floors. All on their own, without input or direction from me. I was so proud of them when I noticed that little detail.
+
+Which brought me back to the Eleventh.
+
+The water level continued to rise, and with the portals now totally submerged, more fish and other sea-dwelling creatures actually survived going through said portals. From the looks of things, I'd have a plentiful biosphere when all is said and done.
+
+But I digress. With the started shore and most accessible island complete, it's time to do something a bit more interesting.
+
+Over the next while, about three miles 'north' of the first, a collection of islands rose from the waves. The islands were, on average, a mile apart and shaped very differently when compared to each other. These, I would name the Elemental Isles.
+
+Their future populations were quite evident by the name.
+
+The only mana-beings that wouldn't get their own islands were those of water. They've the whole ocean as their territory.
+
+I started with Isla Fuego. I shaped it into the classical concept of a volcanic island. A single large, tall cone. Its slope resembled an exponential gradient and spread into a roughly circular area around the cone. The top was open, and some lava teleported down from the Sixth filled the caldera. I left the ground dead and lifeless, but for some exceptional trees.
+
+These were designed to look old, long burned up, and covered in ash. Inside, they were healthy, gaining energy from hyper-efficient photosynthesis in their almost black bark. I made them as fire-resistant as possible in such a short time, leaving them to grow on their own. I envisioned the island covered in them when the guilders eventually made it there.
+
+As I began contemplating the design of the other Isles, I contacted Igna. I had something to ask her.
+
+-0-0-0-0-0-
+
+The Sixth Floor, The Dungeon, Kalenic Sea
+
+-0-0-0-0-0-
+
+Igna was preparing for her twice-weekly patrol of the Sixth when she was interrupted by a mental nudge. Half-expecting one of her attendants, she found herself quite surprised when it was her contractor contacting her.
+
+Igna, I have a proposition for you, the Dungeon asked her. It obviously picked up on her interest because it quickly continued.
+
+I have created a series of islands on the Eleventh Floor, explicitly designed for a population of mana-beings such as yourselves. Each island will host beings of a different element. The island for Fire, Isla Fuego, Is the first one ready to be inhabited.
+
+I am here to offer you and a group of your choosing the opportunity to descend to the Eleventh and live on this island. My only request is that you leave at least one of your spirit peers behind to act as the floor's boss and enough sprites to patrol and defend the floor.
+
+Igna took a few minutes to consider the offer. Her contract with the Dungeon was to defend it in return for a golem body and a constant supply of mana. She was to follow given orders only insomuch as they led to the better defense of the Dungeon. This wasn't an order, and it certainly wasn't a defensive move.
+
+"This island would be ours to use, manipulate and modify to our whims?" She asked, trying to get some insight into her contractor's mind.
+
+Indeed. You seem pleased enough with the Sixth, but I don't fully understand your preferred environment. My only limitation would be that you do not increase the island's footprint. You should have plenty of space, and I can craft a cave system within the volcano if you increase your numbers enough that it's required.
+
+Igna scrutinized the Dungeon's words for any deception or falsehood. Not that she expected to find any. It had been honest and forthright in all its dealings with her and her kind.
+
+"I accept this offer. I will leave behind my weakest peer and their attendants, and in return, we will move to occupy this island you have made for us on the Eleventh Floor. And while I have your attention, O Dungeon, several of my peers have requested that you provide them names."
+
+Oh? Which would those be. I would be honored to bestow names upon them."
+
+"The male-identifying Spirit inhabiting a Potentium Golem, the 'Continental' Golem Spirit, as you named it, and the spirit who chose to go without a vessel. They are currently performing minor duties, organizing patrols and training, but I can have them called to Court forthwith."
+
+I assume you wish to make a spectacle of the event?
+
+"You would be correct."
+
+Very well. Call them, and I will name them. Igna felt the Dungeon's attention wane but not retreat entirely. She quickly called forth three messenger sprites, who zoomed away with their orders in moments.
+
+Once informed, the three spirits in question made all haste to the Court. Many nearby heard the commotion, and the room was lined with observers by the time they were ready.
+
+When the nameless were present before the throne Igna lounged upon, she felt the Dungeon's attention settle upon the room.
+
+You have chosen to have your names granted to you rather than claiming one for your own? It asked. Though she could hear, as she assumed all in the Court could, it was directed to the three beings alone in the center.
+
+"We have." They replied in unison.
+
+Then I will give you your names. You, who are what I have dubbed a Continental Golem. I name you Titan. They were among the largest of beings and possessed immense power. You, who have chosen to reject a golem body and instead follow the path intended for your people. I dub thee Logi. Once a name given to fire itself. You, who chose to take up on the offered golem body upon your transformation. You are Agni. A mighty name, once possessed by a god of fire.
+
+His piece spoken and names bestowed, his presence withdrew. As it did, Igna felt it briefly settle on her. Let me know when you're ready. I'll open the path. This time, it faded entirely.
+
+Igna was once again left with more questions than answers. She had never heard of these names. Logi, Titan and Agni. Yet he stated their origins with such confidence. A name once possessed by a god? She knew of no such god. One, the name of fire itself? Nothing. No beings she knew of held the name or title of 'Titan.'
+
+What being had she tied herself to? What were its origins? Where did it learn these names? Igna gathered herself, and her thoughts and addressed her Court.
+
+"My Peers, the Dungeon has graced you with names of great power. I am confident your power will grow to match the legacy of your names, in time. On a more immediate note, the Dungeon has informed me that it has crafted an island on the eleventh floor. It offers us the chance to reside there, and shape the island to our liking." Igna took a moment to observe the mood of the room. Her peers and subjects seemed impressed.
+
+"I will descend to this new land personally and take most of the Court with me. Those who remain will be responsible for defending this floor against the humans and their repeated incursions."
+
+She felt more than heard the discussion between her subjects.
+
+"My Peers," She started, talking to the Spirits in her Court. All had gathered before her by now. "Are there any who wish to remain behind? If no one presents themselves, I will choose from amongst you.
+
+She felt the pulse of discussion between them as they conferred. In the end, one moved forward.
+
+"Totanam. You volunteer to remain behind?" The floating, glowing hot ball of metal bobbed, and the feeling of agreement quickly followed.
+
+"I do, Igna. I feel that my place is here. I have the most experience directing the sprites in battle. I have even fought and driven them off myself on two occasions." Igna had to acknowledge the point.
+
+"You speak the truth. Very well. You and your subordinates will remain behind. I will inform the Dungeon of your decision, and he will affirm your new position. The rest of you will have a few days to prepare before we descend. Rejoice, my Peers. We continue to grow more powerful with every passing day."
+
+Igna felt her fires grow hotter as her Court cheered.
+
+Where the Dungeon came from was moot. He was the source of their strength. They would defend him until none remained.
+
+-0-0-0-0-0-
+
+The Dungeon, Medea Island, Kalenic Sea
+
+-0-0-0-0-0-
+
+I left the Sixth floor with a profound sense of satisfaction.
+
+Igna and her Court had grown wonderfully, glutted upon my mana as they were. The Guilders would never have gotten past them if I had let them stay. They'd been unable to meaningfully injure one of the weaker Spirits and had to retreat multiple times against them. Besting Igna was almost unthinkable, given their previous performances.
+
+They would never have gotten past them...
+
+So why was I giving them a chance to?
+
+This decision... made complete sense to my human side. I was bringing my most potent monsters and defenses closer to me, building an impenetrable wall none could surpass. The ocean on the Eleventh would already have been monumental to overcome. With powerful spirits in place to defend me, it would become even more so.
+
+My dungeon side... rebelled against me. Specifically against the thought of letting the Guilders descend deeper. These Instincts had cooperated throughout my entire existence here, informing my decisions and providing background knowledge when needed. It had disagreed with many of my choices in the past. In those cases, it had relented when my decisions had borne out results.
+
+It had advised digging deeper when I had gone back over 'finished' floors, reinforcing them, and altering things where I saw deficiencies. It resulted in increased difficulty and delayed the Guilders further.
+
+It approved of 'Hard Mode,' but had pushed for its activation against all delvers rather than just those out to kill me.
+
+It disagreed with my decision to bring the metal golem downward and, in its eyes, had yet to be proven wrong. All it saw was the replacement Golem fail against the guilders. Repeatedly.
+
+The choice to offer Igna a home on the Eleventh was a step too far. She was incredibly powerful and commanded many spirits of only slightly lesser strength. With them in the way, It was doubtful the guilders would ever make it past them.
+
+It rebelled. It insisted I take back the offer while I still had the chance. It felt that it was foolishness of the highest order to give the Guilders a chance. Replacing the Metal Golem with a weaker version had seen them beat it down at each encounter.
+
+With each push against my consciousness, insistences turning into demands, and I became aware of what exactly my dungeon instincts were. It was the Dungeon. The Dungeon's original consciousness. Whatever had caused my arrival here, the process had not overwritten the Dungeon's mind. It's soul. I had merely been so much bigger, so much more than it, that it had been unnoticeable in comparison. It had been my shadow, watching and learning from me all this time. It had grown, too, as our core grew in size.
+
+Weeks ago, I had pushed it down. Dismissing its insistence on more formidable defenses in favor of showing the Guilders the wonders I would create. Now, It rose up against me. It showed its strength, at a level comparable to my own.
+
+That I had not noticed the soul growing beneath my own could only be attributed to carelessness. I rarely inspected my core; rather focusing on the Dungeon and its creatures.
+
+I felt my awareness of all but the struggle for dominance fade as I wrestled with the ascendant soul. This... It wouldn't be pretty. I could do it. I knew. I could push the Dungeon Soul down and overcome it. I was still the larger presence, and when it came to souls, it seemed like that mattered. It would just take time. How much time... I was unsure.
+
+It might be a while. A long while.
+
+I could only hope the dungeon would survive without my guiding hand.
+
+-0-0-0-0-0-
+
+© Max Porteous, 2023

@@ -1,0 +1,103 @@
+-0-0-0-0-0-
+
+The Dungeon, Medea Island, Kalenic Sea
+
+Two Days Later.
+
+-0-0-0-0-0-
+
+Aaaaaand Done! The dunes have been completed! Far, far faster than I had expected to be done by as well. Though the first dunes had taken almost half an hour to form, I found my efforts becoming easier, faster, and smoother. Well, it makes sense. The more you do something, the more you will discover inefficiencies or ways to do it better. For example, the speed with which I dig out caverns has significantly increased.
+
+It was simple; I'd found a more efficient way to crush the chunks of rock into even grains. Before I had focused on smaller sections, making sure every grain was the same size, I had started doing larger and larger areas at once. It required a significant investment of mana, but there was so much swirling around from my pedestal in the center of this cavern that by the time I was done, it had only reduced my mana rings by half.
+
+With the dunes done, I turned on the environmental enchantments. Unlike the Eighth floor, these were tuned to create a dry, hot, and windy environment. When my fake sun sets, the enchantments will suck the heat from the cavern, making it cold, dry, and windy. Either time of day would be dangerous for the inexperienced or unprepared.
+
+I could also trigger localized sandstorms. I hadn't quite figured out how to make small tornados, but I might try to get a couple of Air Spirits down here. Imagine intelligent, malicious tornados chasing down those who earn my ire. Heh. Yeah, I'm doing that. The Air spirit of the Eighth floor seems happy there so I won't force her downwards. Perhaps until then... I haven't messed with providing different golem bodies to sprites. Who says that golems need to be humanoid?
+
+With a quick inquiry to Tear, I had ten balls of Potentium Alloy with cores collected from fallen monsters. None of the cores had a particular elemental inclination, and each ball was about a foot in diameter.
+
+The Air Sprites should be able to make the ball levitate on their own, but some inactive enchantments would make them more able to channel their elements outward. I couldn't think of anything more to add right now, but I'm sure the sprites themselves will be able to provide feedback about what would make their bodies more comfortable. Bodies complete; I called a couple of Air Shamans down to summon the sprites.
+
+They seemed to consider the desert floor as their Holy Land.
+
+It... doesn't make sense to me. They were initially jungle lizards, tiny salamanders that lived near streams. The sheer density of the mana in the air or some genetic memories could contribute to that. I suppose I will have to add a Kobold or Drake-kin Tribe to the canyon since they seem to love it here. Perhaps a mixed tribe. I have no idea if they are... compatible in that way. It might be interesting, though.
+
+Anyway. The Shamans summoned the Air Sprites, and they accepted my by-now standard contract. They possessed the 'golem' bodies, and after a few minutes, they were whizzing about, hovering about seven feet over the sand. One decided to test the enchantments I added, and it seemed delighted as the sand beneath it began swirling up and around it. In seconds, there was no evidence of the sprite-possessed metal ball. There was only a little twister, about ten feet high. I don't think it can get any bigger right now, but I imagine that once it morphs into a Spirit, it will become... quite a bit larger.
+
+The other nine Twister Golems all follow the first's example and spread out to explore the dunes. With that taken care of, I took some time to check on the rest of my dungeon. I can't neglect the higher floors while focusing on the lowest ones. The first three floors are running like clockwork thanks to my earlier changes.
+
+The Crabs have a fast enough breeding cycle to replace the basic monsters, while the Boss and his Lieutenants continue to grow in skill and knowledge. The Golds can no longer sweep them aside with minimal effort. The lieutenants are smart enough to take advantage of the Assassin Crabs and the self-resetting traps to maneuver the guilders into effective ambushes. The only problem is it never works more than once on a party, and the Golds are still too strong for the Crabs to match.
+
+The Second Floor is a very different experience for every single party that goes through it. The traps littering the labyrinth ensure the guilders can't rush through it, forcing them to take each hallway slowly and carefully. The underwater sections have the humans encounter just enough fish to pose a challenge, depleting their healing and recovery potions and slowing their progress. The maze itself, I had adjusted a tad. The randomization of the maze's configuration is still mostly random, though I made sure that any path has a minimum length making them pass through at least half the labyrinth.
+
+At this point, the weaker golds have to turn back due to their depleted resources and the fact that they have to fight their way back up. Just pushing onwards isn't a viable strategy since they need to ensure they can survive the trip back.
+
+The stronger golds emerge onto the Third Floor, and most won't delve too deeply. They'll search one, maybe two of the ruins. If they find Kobolds there, they'll fight them. And that isn't a guarantee anymore. Each party that enters gets assigned specific 'trials,' forcing them to search the fifteen different 'ruins' and arenas for the six 'trials' they are set. Not that they know that. All they know is that sometimes, there aren't any Kobolds there to fight.
+
+Only the Platinums are tough enough to push through the jungle, which now re-grows over trails and paths. It forces them to move through the thick undergrowth anew every time, significantly slowing their progress. Isid's party, the Hero Party, and the other Platinum Party are the only ones confident enough to defeat Mushu. Haythem's party aren't confident in their ability to take on the third floor's boss and haven't attempted it yet. Smart guy, that Haythem.
+
+The Fourth Floor continues to be a nightmare of claustrophobic, pitch-black pipes and screeching, bloodthirsty Ratten. Neither 'regular' Platinum party has made it through the hordes, ensuring they have time and enough supplies to make it back out.
+
+The 'Heroes' are still the only ones to make it to the Fifth floor. They're there right now, Fifteen hours into their delve, and they've just left the Castle and are venturing towards the Mushroom Forest. Time to introduce them to my Fungal Shamblers.
+
+-0-0-0-0-0-
+
+The Fifth Floor, The Dungeon, Medea Island
+
+-0-0-0-0-0-
+
+Lina Laskiin was, again, pushing through the pitch blackness outside the Castle and into Mushroom Forest. Like her, the rest of the party members were watching their surroundings closely for the slightest hint of movement. The question on everyone's minds was simple; what would the dungeon throw in their way. The last time they were here, they had only encountered the corpses of their lost comrades infested by something that forced them to walk around like a puppet on strings.
+
+The dungeon had let them encounter their lost members. It wanted to show them even death wasn't a release.
+
+This time, they had barely passed the first stalk when noises began echoing all around them. Clicks, groans, gurgles, and more heralded the monsters that emerged from the darkness. They were roughly humanoid, though none were identical. Some were small, some excessively tall. Some glistened wetly in the light of their summoned sprites, and others seemed as dry as the cracked and arid southern plains.
+
+Their limbs were mismatched. They could be long and slender, ending in organic-looking spikes and blades. Others were bulbous, resembling maces and warhammers. Not even their facial features were similar across the dozens of variations she observed. From one black eye, up to a dozen that glowed in every color of the rainbow. Their mouths were just as unique in the number and shape of the teeth within.
+
+With shrieks and yells, the (likely intentionally) malformed monsters fell upon them. After ten minutes of combat, Lina realized they weren't thinning out. If anything, there were MORE shambling towards them than before, stumbling and climbing walls formed of the butchered fallen.
+
+"We need to retreat!" She shouted, "They're not stopping, and we don't know where the hell the exit is!" She received grudging agreement as they all realized the same thing she had. They did so, pulling back into the darkness around the castle. The monsters didn't pursue past the giant stalks. In the dark, they had no way of knowing if the monsters were dispersing or gathering near the edge.
+
+"We'll circle the castle and enter the forest on the other side." The party's 'leader' announced. As much as a party like theirs could have a leader, at least. Lina grimaced. None of them liked each other, not truly. They were here to make enough cash to support their luxurious lifestyles by selling information on the deeper floors, selling their loot, or cashing in on the bounty. When Lina had heard of the dungeon and the bounty attached to it, she had thought it would be easy gold. Just a quick delve through the hordes of uncoordinated monsters, fighting through stone tunnels with the occasional room.
+
+She had been shown the folly of that opinion.
+
+Honestly, she wasn't sure they would ever find the core. This dungeon was scarily intelligent. They had lost three members on the Fifth Floor. And there is no way to know how deep the dungeon is because no one alive has ever reached the bottom.
+
+When they reached the Mushroom Forest again, Lina had decided.
+
+Tomorrow, she would be getting on a ship and leaving. The chance of dying here is far too great for comparatively little gain.
+
+-0-0-0-0-0-
+
+The Dungeon, Medea Island, Kalenic Sea
+
+-0-0-0-0-0-
+
+I was pretty pleased with the Shambler's first encounter. Yes, probably a hundred died, but they were merely limbs. The hivemind persisted. The monsters became more coordinated as the fight went on, and the spawning speed stress test went perfectly.
+
+This would be the new norm for any delvers who dared enter the Mushroom forest. Continuous and growing waves of monsters that would get better at fighting you the longer you fought them. They're on a timer as soon as they enter and need to fight while desperately searching for the exit. The exit, by the way, is in the castle.
+
+There is a tower in the castle, a tall, thin tower. Inside the tower is a spiraling staircase. At the top, the tower goes into the cavern's roof, and the stairway emerges into the middle of an arena. There, the floor's Boss waits for anyone smart enough to explore the castle before rushing out into the forest properly.
+
+After the arena is a long, shallow stairway that slowly ramps up in temperature until it reaches the Sixth Floor. The glorious, scorching heat of the Lava Caverns, filled with lakes of lava and crawling with heat-resistant monsters. The Fire Spirit roams freely and is probably the most powerful 'monster' on the floor. She has a following of about a dozen fire sprites possessing child-sized Potentium golem bodies. The other monsters mostly leave them alone.
+
+It's going to be a fun time.
+
+The Seventh Floor is running smoothly. The Drake-kin train daily for the day someone makes it to their home. Kataren is doing fine, I think. She's gotten a nicer blanket and has some little carved totems sitting on a new shelf on the wall. She hasn't fought Mushu again. He's training on his own and practicing against the Platinums. He might come down in a week or two, I think.
+
+The Eighth Floor is peaceful. The Snowbolds are still exploring their mountain homes, learning every cliff and hill so they can navigate it blindfolded. A good idea since any delver that manages to get down here will run into a full-blown blizzard. Training to navigate without sight is a good idea. Although, now that I think about it, heat vision will probably serve them well. Something to consider.
+
+The Ninth... Well.
+
+Time to keep digging. With the Dune Sea complete, I need to finish digging out the Canyon and bring down some water to run through the bottom. After that... It's time to decide what monsters I'll put down there. There are a few contenders, in my mind. Some that will fit, and others I'll have to make fit.
+
+I'll need to think about this carefully while I dig. What kind of ecosystem do I want here, and what would it look like from the delver's point of view? What monsters would fit into that ecosystem?
+
+All these possibilities...
+
+I'm so excited.
+
+-0-0-0-0-0-
+
+© Max Porteous, 2022
