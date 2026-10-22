@@ -9,8 +9,9 @@ export const seatsAll = {
   pageType: "page-type/seat",
   viewPlace: 1,
   layout: "list",
+  narrows: [{ key: "persona", comparison: "not-in", values: ["persona/claude"] }],
   viewSorts: [{ key: "slug", descending: false }],
   visibleProperties: [],
   createdAt: "2026-09-24T15:48:20.424Z",
-  updatedAt: "2026-09-27T17:29:48.000Z",
+  updatedAt: "2026-10-22T14:59:42.002Z",
 } as const satisfies View
