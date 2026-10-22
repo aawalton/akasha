@@ -1,0 +1,209 @@
+The white was still white.
+
+The book was still a book. The flame still hung above it the way a punctuation mark hangs above its sentence, small and patient and apparently fine to wait forever. The desk sat at the room's only point of gravity, mahogany catching the sourceless light along its brass fittings in a way Kage had decided, last session, not to think about too hard.
+
+Kage stood in the middle of all of it and felt, for one second, almost at peace.
+
+Then his notifications opened.
+
+[Friend Requests Pending: 100]
+
+[Inbox is at maximum capacity. New requests will be rejected until the inbox is cleared.]
+
+Well.
+
+He stared at the panel for a long moment. The list scrolled itself helpfully when he tilted his head, names he didn't know stacking down the column in a quiet, polite avalanche. Most of them had clan tags. A few had cute little flags from streamer overlays. One had what looked like an entire roleplay backstory in the bio preview, which he refused to read.
+
+Welcome to public life, idiot.
+
+He'd known this was coming. He hovered over the setting toggle.
+
+[Allow Friend Requests From All Players: ON]
+
+His thumb didn't quite press it.
+
+He noticed the message indicator instead. The little persistent dot at the corner of his vision, the silver filigree of the high-Artistry UI curling around it like ivy that had decided the dot deserved framing. He flicked it open.
+
+[New Messages - Lily (3)]
+
+He paused.
+
+Right. Before he sealed the door, he should at least open it for the people on the other side of it.
+
+He pulled up the party log from yesterday's raid. Nine names. He sent the friend invite to each of them in order, working down the list.
+
+Vami. Sent.
+
+Lily. Already friends.
+
+Zara. Sent.
+
+Jax. Sent.
+
+Valdrias. Sent.
+
+Finn. Sent.
+
+Julie. Sent.
+
+Zherdev. Sent. He winced involuntarily and sent it anyway.
+
+Ren.
+
+His thumb hovered.
+
+It was a fraction of a second. Less. The kind of pause that didn't show up on a stopwatch and that no one in the world would have noticed except for the man making it.
+
+He knows.
+
+That was the whole content of the pause. Three syllables he refused to let unfold into a full sentence. Ren had called his footwork old, which was a polite word for not learnable. Ren had, almost certainly, noticed what had happened in the Curator fight.
+
+If Ren knew, then the only question was what Ren intended to do with it.
+
+And the only way to find that out is to keep him in the room.
+
+He sent the request.
+
+Then he flipped the setting.
+
+[Allow Friend Requests From All Players: OFF]
+
+[The remaining 100 pending requests have been rejected.]
+
+The silver dot at the corner of his vision went still.
+
+Better.
+
+He opened Lily's thread.
+
+There were three of them, spaced out.
+
+[Lily → Kage] you've probably seen the forums. or the media, in general. (Don't look at the forums.)
+
+He had looked at the forums.
+
+[Lily → Kage] Zara wants to talk about a guild, she's been making spreadsheets, you know how she gets lol. she says there's benefits to being in a guild, something about progression and quality of life and other stuff I didn't listen to. I think she's right though - we should sit down, all of us, and figure out where we stand. Nothing official. Just talk.
+
+The third was shorter.
+
+[Lily → Kage] Whenever you're ready. We're not going anywhere.
+
+Kage stood under the pale flame in the boundless white.
+
+Reasonable. Zara is right. He thought. Guild membership produces progression dividends - territory, taxation breaks, bulk crafting access. Public formation provides identity cover. A registered guild draws attention as a unit rather than an individual. The math sat there, well-arranged. And they already know.
+
+That was the part that mattered.
+
+Nine people in the world had connected Kage to Architect of Verse. Nine people in the world might also, through Ren, have connected Kage to Klaid. The number was already nine. The number was not going to get smaller. The number was, in the worst-case projection, going to get a great deal larger over the next few days, and the question now was who was inside the circle when it expanded.
+
+They held the line. He thought it without sentiment. Through the whole raid. Every one of them did what I asked. Including Jax.
+
+He sent her back two sentences.
+
+[Kage → Lily] Sure. Schedule's bad today though - too much to do. I'll ping you when I'm free.
+
+The thread closed. He exhaled through his nose at the empty white room.
+
+"Okay," he murmured aloud, "Spoils. Raid. Curator. Songstone."
+
+Spoils he could organize on the move. The raid was now his, mechanically, structurally, and apparently legally, and he had no idea what that meant. The Curator was a closed book and a tiny patient flame and a conversation that he had been putting off since logging in. The Songstone thread was, according to forums, currently a tourist attraction being trampled by the global player base.
+
+One thing at a time.
+
+The Operator settled, the way he always settled when given a list. Cold resolve was easier than cold panic. It used the same muscles and asked for less calcium.
+
+Post-level administration first. Don't sit on points.
+
+He pulled his character sheet.
+
+[You have 2 Stat Points available.]
+
+He didn't think about it.
+
+[Artistry: 138 -> 140]
+
+The numbers shifted. The silver filigree at the edge of his vision rearranged itself by a fraction. His HP and Awen pools recalculated quietly, water finding new height in old jars.
+
+He closed the panel.
+
+[Specialization Stones Available: 1]
+
+There it was. The harder question.
+
+The Samurai's three trees opened in his interface. The Wordless Strike already glowed at the top of the diagram with the soft fullness of a tree that had begun its growth. [One Breath] sat at its base, unlocked, paid for, used. He had spent the entire raid running on the foundation of it. The Opening Syllable mechanic had done a great deal of his damage in the back half of the duel without him quite tracking it explicitly.
+
+The realization had come at once, towards the end of the raid.
+
+The tree works whether or not I'm thinking about it. The Operator turned the observation over. As long as I fight the way I already fight. As long as the swordsmanship is honest, the system honors it.
+
+His original plan had been the obvious one. Each tree's unlock node frontloaded its core mechanic. Spending one point per tree opened three doors and bought three baselines, which was the maximum efficiency a single Specialization Stone could buy in a system that paid out diminishing returns.
+
+He had Wordless Strike. He needed to choose between Stillness and Jisei now.
+
+But he paused on Wordless Strike anyway.
+
+The second skill in the line, The Third Line.
+
+A third keyword in a physical verse. The Awen cost on a three-keyword physical sequence would be obscene, which the panel cheerfully confirmed by doubling the figure twice in succession until it sat at a number he had to look at sideways. The effect, if he landed it, would be correspondingly catastrophic.
+
+That wasn't even the prize.
+
+The prize was the second line. The one beneath the cost.
+
+Composition no longer requires uninterrupted sequence. Keywords may be landed across non-consecutive actions provided coherence is preserved within a rolling window.
+
+In the raid, more than once, he had found himself committing to a sub-optimal swing because his second keyword needed to land next, and the chain would snap if he chose the move the situation actually demanded. The system, as written, forced linearity onto a thing he had spent years training to be non-linear about. Removing that constraint was a restoration. The skill would simply give him back the swordsmanship he already had and was currently being forced to spend in straight lines.
+
+Good. But not now.
+
+He pulled the Art of Stillness.
+
+The Art of Stillness was good out of the gate, no argument. It was good in the way that a high-quality wrench was good. You wanted one in the toolbox eventually. You did not buy a wrench first if your house was on fire.
+
+Unlocking it gave him Magnitude, which cleansed debuffs, and the Interval, which bumped his Convergence grade up a tier on a held beat while hitting harder and trickling back HP and Awen. Survivability and sustain and a Convergence accelerant in one entry node. On paper, beautiful. In practice, for him, the worst of the three.
+
+Because survivability was not his problem.
+
+He thought about the raid. He thought about the numbers Vami had put up, the way the rare DPS classes had simply deleted health bars while he stacked Convergence and ink and titles and crawled toward something that approached, at full stacks and strength, close. Close.
+
+With every resource fully loaded he could brush the hem of what a dedicated damage class did at rest. And full saturation took time, and most fights didn't last long enough to give it to him, and the early-mid stage of every fight was him being aggressively mediocre while the meter filled. The Stillness capstone looked broken in a way that made his fingers itch, genuinely broken, the kind of thing he'd build around eventually. But eventually was not his current deficiency. His current deficiency was output, and Stillness did not fix output now.
+
+The capstone is broken. The whole tree gets broken in the back half. I want it.
+
+He didn't want it first. He pulled the Jisei tree.
+
+Right.
+
+He looked at it and, not for the first time, concluded that whoever had designed it—some sleep-deprived dev, or Morpheus itself in a mood—was out of their mind. The concept was, he'd admit it freely, the single coolest mechanic he'd encountered across every title he'd ever touched. A death poem, rendered as a system. It took his own bleeding health and converted the loss into combat power or verse power, scaled to how close to the edge he was willing to live.
+
+It was also, just as freely admitted, built for psychopaths. To run it at full value you had to dance on the lip of the grave and stay there, deliberately, on purpose, because every point of safety you bought back was damage you left on the table. One misread, one beat off, and the tree punished you with a death screen.
+
+The tree subtracted margin from your existence and converted the subtraction into numbers on a damage panel.
+
+Am I a psychopath?
+
+The question was rhetorical. The Operator already had its answer queued. The Operator answered questions like are you reckless the way a tired shift manager answered questions like are you understaffed. With a flat, tired obviously.
+
+The other part of him, the part the box no longer fully closed on, also had an answer. The other part of him looked at the Jisei tree and noted, with a quiet that did not feel like the Operator's quiet at all, that the tree wasn't about death.
+
+The tree was about how close to it you were willing to stand to make the next line of the poem count.
+
+Hah.
+
+He filed that, also, before it got out of hand.
+
+He selected the node.
+
+[Specialization Stone Allocated.]
+
+[Skill Tree Unlocked: Jisei.]
+
+[The Threshold Active.]
+
+[Skill Unlocked: Sutemi.]
+
+The panel resolved. He let the character sheet collapse.
+
+The white room came back into focus around him. The desk. The book. The pale, steady flame.
+
+Now, he thought, the parts I actually have to think about.

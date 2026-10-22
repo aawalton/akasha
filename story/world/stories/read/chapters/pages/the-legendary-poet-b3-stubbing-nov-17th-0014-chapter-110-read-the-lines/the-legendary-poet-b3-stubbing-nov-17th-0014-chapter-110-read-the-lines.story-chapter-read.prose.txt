@@ -1,0 +1,819 @@
+Ren’s sword met the Alpha behind the jaw hinge.
+
+Water-light rippled across his blade at the instant of contact. The class effect arrived as a faint circular shimmer, a flat pond disturbed by a single stone. It corrected the final angle of the parry by a hair.
+
+The Alpha’s lunge skidded aside.
+
+Its teeth snapped shut on empty air hard enough to crack sparks from its own glass fangs.
+
+Ren stepped in with the parry’s recoil already dead under his feet. His wrists turned. The curved longsword cut down through the soft draft-line under the monster’s throat.
+
+[Critical Hit! -624 HP]
+
+[Reefscript Alpha - Lvl 27]
+
+HP: 5876/6500
+
+Kage’s smile stayed for half a second longer than he expected.
+
+National bracket.
+
+The thought arrived clean and irritatingly confident.
+
+Ren had the feet. The hips. The hands. More important, he had the part most game swordsmen never learned because games forgave ugly movement if the damage numbers came out large enough. Ren controlled centerline.
+
+The Still-Water Duelist class helped him. Kage saw it now. Small ripples at the ankles when Ren shifted weight. A soft blue correction at the blade when he caught an attack. A stance buff settled over his shoulders like calm water over stone.
+
+Systemic power, shaped like discipline.
+
+Annoying.
+
+Beautiful.
+
+The Alpha recoiled with a wet glass shriek. The eight rakers surged.
+
+Kage raised his hand.
+
+“Raid Line.”
+
+The Title spread across the party like a taut thread.
+
+“Strengthen the hands that hold the line.
+
+Let Growth run warm through heart and spine.”
+
+[Awen -260]
+
+[Shared Verse: Braced Cadence applied.]
+
+[Party Physical Damage +7%.]
+
+[Party Magic Potency +7%.]
+
+[Healing Received +5%.]
+
+[Duration: 45 seconds.]
+
+Warmth snapped through Kage’s arm and bled into the others. Valdrias’s shield flared brighter, which was impressive because the thing already looked like it had been designed by a lighthouse with self-esteem issues. Jax’s expensive sword left a thicker trail. Zara’s frost gathered in a tighter spiral. Finn drew his bow with less tremor in the fingers.
+
+Vami glanced down at the glow across his white armor and grinned.
+
+“Oh, that’s absolutely OP.”
+
+Vami vanished forward.
+
+He moved like a bad idea with a speed stat. White leather flashed through the rakers’ formation, too bright against the black wreck and blue reef. His first cut opened a Glassfin’s flank. His second carved under its foreleg. His third came from behind after he stepped through the creature’s own turning arc.
+
+[-208 HP]
+
+[-204 HP]
+
+[Critical Hit! -700 HP]
+
+[Glassfin Raker - Lvl 26]
+
+HP: 2047/3900
+
+Lux gathered over him in thin lines at first, then in broad strokes. The white armor drank motion and gave back glare. Every dodge, every cut, every reckless half-step inside a killing angle painted him brighter.
+
+Two rakers turned toward him at once.
+
+A third followed half a second later.
+
+Aggro magnet. Good ceiling. Horrible insurance policy.
+
+Valdrias planted the new tower shield and slammed the rim into the reef.
+
+A pulse rolled out of the shield.
+
+“BEHOLD,” Valdrias bellowed, voice carrying clean across the wreck, “THE TYRANT WHO WOULD CHAIN THE OCEAN TO HIS THRONE.”
+
+The Rakers, possessing no opinions about tyranny, lunged anyway. The taunt held them.
+
+Three rakers snapped their heads toward Valdrias. The Alpha’s eyes fixed on him again. The charcoal mark across his hand smoked pale dust into the reef, and the unstable footing around him solidified into dull gray certainty.
+
+Julie stared at him for a fraction too long. “What?”
+
+Valdrias adjusted his stance with grave sincerity. “Kage taught me that tyranny generates threat.”
+
+“I did no such thing,” Kage said.
+
+A raker leaped at Jax.
+
+Jax answered instead of arguing. His sword came up in a clean block, plate boots braced against the tilted hull. The impact shoved him back half a step. He held the lane.
+
+At launch, Jax would have shouted something stupid and chased damage.
+
+Now he took the angle Zara needed.
+
+Progress. Ugly, loud, paid-for progress.
+
+Zara punished the held raker immediately. Frost-threaded hems whipped around her legs as she lifted both hands. Ice formed under the creature’s claws, crawled up its joints, and locked the exposed graphite tendons.
+
+[Glassfin Raker Slowed. Movement Speed -35%.]
+
+“Keep them there,” Zara said. “I can make that area miserable.”
+
+“That’s your whole personality,” Jax grunted.
+
+“Shut up.”
+
+Finn’s hawk screamed from above the broken mast. The bird dove, banked sharply, and marked a raker climbing along the far edge of the wreck. Finn followed with an arrow. The shot did not go for the head. It hit the translucent membrane behind the foreleg where the creature’s finished glass failed to cover the draft-lines.
+
+[Critical Hit! -251 HP]
+
+[Glassfin Raker Bleeding.]
+
+Finn swallowed, then called, “The right one’s using the beams. It’s avoiding the gray patches.”
+
+Kage looked.
+
+Finn was right.
+
+The raker on the right refused to step where Valdrias’s Canvas mark had stabilized the deck. It circled through unfinished sections, claws finding white gaps and half-rendered planks with disgusting confidence.
+
+Environmental preference. They move better in draft-space. Common marks deny terrain advantage.
+
+That mattered.
+
+A lot.
+
+The air above the right raker began writing itself.
+
+and the narrow one slipped past the painted wall toward the soft hands
+
+The sentence tasted like salt and damp paper at the back of Kage’s throat. He pointed before it moved.
+
+“Backline, right. It’s going for healers.”
+
+Lily pivoted at once. Julie moved with her, calm as if someone had asked her to pass a cup instead of survive a murder-fish with elbows.
+
+“Lily, pre-shield Valdrias,” Julie said.
+
+“On it.”
+
+Lily’s staff dipped. Gold-white light wrapped Valdrias’s shoulders just as the Alpha recovered from Ren’s cut and slammed into him.
+
+[Holy Ward applied.]
+
+[-118 HP]
+
+The damage came through softened by Kage’s debuff, Valdrias’s block, and Lily’s ward. Still a chunk. The Alpha hit like a cart full of knives rolling downhill.
+
+Julie flicked two fingers toward the right raker.
+
+Her ink-black geometric mark flashed.
+
+A thin line appeared between the raker’s leading claw and a missing section of deck. She pulled.
+
+The line became a corner.
+
+The corner became a waist-high angled barricade, sketched into reality with exact ruler edges. The raker slammed chest-first into it and flipped sideways with a strangled scrape.
+
+Then her class did something else.
+
+Vami’s Lux spiked as he carved through the wounded raker. He dumped cooldowns and whatever suicidal resource economy his class considered a lifestyle. The bright exhaust streamed off him in ribbons.
+
+Julie turned her wrist and caught the trailing light and twisted the spent motion into a tether that snapped onto Jax’s back as a pale line.
+
+[Momentum Tether applied to Jax.]
+
+[Next block or parry grants Barrier.]
+
+Jax blinked. “Was that you?”
+
+“Yep.”
+
+“Warn a guy.”
+
+“Block something and say thank you.”
+
+The slowed raker lunged at Jax’s shoulder.
+
+He blocked.
+
+The tether flashed. A translucent shield shell expanded over his plate and absorbed the bite.
+
+[Barrier gained: 210.]
+
+Jax stared at the fading shell. “Thank you.”
+
+Julie gave him a sunny look. “See? Growth.”
+
+Vami yelled from the left, “She’s terrifying once she starts being supportive!”
+
+Julie called back, “Do the dishes when we log off!”
+
+Kage almost laughed.
+
+Almost.
+
+The Alpha tried to crush Valdrias again.
+
+Above it, another line appeared.
+
+and the crown-backed beast broke the shield with a downward tide
+
+“Valdrias, high slam,” Kage said. “Angle left. Ren, punish after impact.”
+
+Valdrias shifted before the Alpha rose. He lifted the glowing tower shield high and canted it left. The Alpha’s crown of glass smashed down, skidding along the shield face instead of punching straight through.
+
+[-74 HP]
+
+Ren entered on the recoil.
+
+His footwork stayed small. Efficient. Kendo through a game body, wearing a rare class like a formal jacket. He struck the Alpha’s foreleg joint with a clean kote-line adapted for a monster that had too many wrists.
+
+[Critical Hit! -588 HP]
+
+[Reefscript Alpha Tendon scored. Attack Speed -5%.]
+
+Kage’s eyes narrowed.
+
+The system applied the debuff through Ren’s class, but the target choice came from Ren. He saw overextension. He read recovery. The class granted vocabulary. Ren supplied grammar.
+
+Definitely national bracket.
+
+Maybe higher.
+
+The Alpha swept its tail across the reef.
+
+Valdrias had the front. Jax had right. Vami had left. The problem came from everywhere else.
+
+Eight mobs in a crescent created more angles than one tank could cover. Even with common marks stabilizing territory, even with Zara slowing two and Julie blocking one, the formation began stretching.
+
+A raker slipped around Valdrias’s shield and snapped at Lily.
+
+Kage lifted two fingers.
+
+“Stray fang."
+
+"Bind.”
+
+[Awen -55]
+
+[Glassfin Raker Bound.]
+
+Black script lashed around the raker’s legs for a heartbeat. Lily stepped back. Finn shot the creature through the open mouth.
+
+[Critical Hit! -248 HP]
+
+“Thanks,” Lily said.
+
+“Bill later,” Kage replied.
+
+“Of course.”
+
+She sounded amused. That was probably bad for his brand.
+
+Another line wrote itself above the rakers on the hull.
+
+and the glass throats opened together to sing the splintering note
+
+Kage’s shoulders tightened.
+
+“Interrupt throats. Now.”
+
+Zara reacted first. She snapped a hand closed, and frost detonated around the jaws of two rakers.
+
+[Glassfin Raker Silenced.]
+
+[Glassfin Raker Silenced.]
+
+Finn put an arrow into a third throat. Jax slammed his pommel into the fourth. Zherdev, standing in the middle exactly as ordered, saw the last one inhale.
+
+For one glorious second, he looked like a player.
+
+He set his feet.
+
+He waited until the raker’s head aligned with the gap between Valdrias and Jax.
+
+Then he swung the gigantic greatsword from his back in a horizontal cut that shed sparks, purple cape-light, and possibly several financial crimes.
+
+[Critical Hit! -1044 HP]
+
+[Glassfin Raker Silenced.]
+
+The raker flew sideways and crashed into the broken hull.
+
+Zherdev froze with the sword extended. His magma shoulder hissed. Shadow-smoke leaked upward in smug little curls.
+
+Then he whispered, “Bro.”
+
+Kage stared at him. A messy lane. A late lane. A lane.
+
+Still.
+
+That counts.
+
+Kage felt a small, inconvenient satisfaction settle in his chest.
+
+Pride? No. Too clean. Too sentimental.
+
+The feeling had rougher edges. Like seeing a blunt tool finally hold an edge after too much grinding.
+
+Annoying. He hated that answer.
+
+“Good swing,” Kage said.
+
+Zherdev’s entire body lit up harder than his gear. “Did you guys hear that? He said good swing.”
+
+“Focus,” Zara snapped.
+
+“Focusing with morale!”
+
+The interrupted song collapsed into harmless shards of sound. They tinkled against the reef and dissolved.
+
+Kage inhaled once. The room was readable.
+
+The lines were cast bars. Stage directions. Sometimes target calls. The dungeon wrote intent into the air before executing it. That meant the raid had an advantage.
+
+“Everyone,” Kage said, voice cutting through the chaos. “The floating lines I see are tells. If a sentence names a target, that target is next. If it describes an action, that action follows.”
+
+Jax parried a raker and grunted. “So you'll be reading poetry mid-fight?”
+
+“Yes.”
+
+“I hate this dungeon.”
+
+Vami streaked past him, bright enough now to leave afterimages. “I’m having a wonderful time.”
+
+Three rakers peeled off Valdrias and chased Vami.
+
+There it was.
+
+Vami’s armor hit magnesium-white brightness. The air around him warped with glare. The rakers snapped and lunged, all aggro lines bending toward the radiant idiot who had turned himself into a walking raid marker.
+
+Valdrias sucked in a breath as the pressure on his shield dropped.
+
+Vami danced the left side of the reef.
+
+His damage ramped with every motion. He cut hamstrings, jaw hinges, exposed draft-lines. A raker tried to pounce from above. He stepped in instead of away, shoulder brushing under the creature’s chest, dagger flashing up through the belly seam.
+
+[Critical Hit! -1138 HP]
+
+[Glassfin Raker - Lvl 26 defeated.]
+
+[Experience Gained: +620 XP]
+
+The remaining two rakers converged on him from opposite sides.
+
+A sentence wrote above them.
+
+and the twin teeth closed upon the stolen sun
+
+“Vami, pincer,” Kage called.
+
+“Obviously.”
+
+“Then stop admiring yourself.” Zara snapped.
+
+Vami laughed and let both rakers commit.
+
+At the last instant, he detonated.
+
+The flash hit like someone had opened a white furnace in the middle of the storm. Kage turned his eyes away by instinct. Even so, the afterimage burned across his vision in a clean rectangle.
+
+The rakers crashed into each other.
+
+Julie caught the burst. Of course she did.
+
+Her Tender class hooked the flash’s trailing edge and folded it into a broad ribbon of pale light. She sent it across the party in a wave that settled into their legs.
+
+[Party Armor +6%. Duration: 10 seconds.]
+
+Zara stared at Julie for one fraction of a second, deeply offended by the efficiency. “That class is good.”
+
+Julie shrugged. “It rewards teamwork.”
+
+Vami reappeared behind one raker and drove both blades into its spine.
+
+[-206 HP]
+
+[-244 HP]
+
+[Glassfin Raker - Lvl 25 defeated.]
+
+[Experience Gained: +600 XP]
+
+The fight tipped.
+
+Once the first bodies fell, the crescent lost its teeth. Valdrias reclaimed the Alpha and one raker. Jax and Zara crushed the right side. Finn kept calling movement from above, voice still tight, yet his arrows landed in weak points with growing confidence.
+
+“Left wave,” Finn said. “More shadows under it, but they’re staying deep.”
+
+“Current pack first,” Kage said.
+
+“Yeah. Yes. Current pack.”
+
+His hawk circled over the wreck and screamed whenever a raker tried to use the high beams. Finn started shooting a breath before the creature moved, trusting the bird instead of the UI.
+
+Good.
+
+The Goblin Mines version of Finn had panicked under pressure. Tanglevine Finn had learned to look at the world. This Finn was doing it while a glass shark attempted to eat his healer.
+
+Progress had a smell in the Shifting Galleries. Dry charcoal dust, wet paint, and the sharp mineral bite of broken crystal.
+
+A raker broke through Jax’s guard, jaws snapping toward Zara’s side.
+
+Jax pivoted and shoulder-checked it.
+
+[-89 HP]
+
+The bite glanced off his plate. He gave ground and kept his sword between Zara and the raker.
+
+Zara’s eyes flicked toward him.
+
+“Acceptable,” she said.
+
+“Wow. Be still my heart.”
+
+“I can arrange that if you move.”
+
+He moved.
+
+She cast through the gap and speared the raker’s front legs with ice.
+
+[Critical Hit! -702 HP]
+
+[Glassfin Raker Frozen.]
+
+Kage’s gaze slid to Lily.
+
+She had improved in the quiet way people tended to miss. Her heals came earlier now. Fewer panic dumps. She watched shoulders, feet, breathing. She caught Valdrias before his health became a problem and let Jax sit at a safe missing chunk instead of wasting mana to make a bar pretty.
+
+Julie murmured something to her.
+
+Lily nodded and adjusted her position two steps left, opening a cleaner line to Vami without exposing herself to the right beam.
+
+Veteran healer coaching. Live. In a raid. During a monster fight.
+
+Useful.
+
+The party had become a ridiculous pile of incompatible parts, but the pile had edges now. Edges could cut.
+
+Another raker tried to leap over Valdrias.
+
+The text appeared.
+
+and the lean hunger vaulted the gray wall
+
+“Jump,” Kage said. “Valdrias, shield up. Zherdev, after it lands.”
+
+Valdrias lifted.
+
+The raker struck the raised shield, bounced, and landed badly in the exact middle lane Zherdev had been defending with the intense seriousness of a man entrusted with a sacred snack table.
+
+Zherdev raised his greatsword.
+
+He almost swung too early.
+
+Kage saw the shoulder start.
+
+Then Zherdev stopped himself. Or rather… he stumbled.
+
+The raker’s legs touched the reef.
+
+Zherdev's sword fell forward along with him.
+
+[Critical Hit! -1088 HP]
+
+[Glassfin Raker - Lvl 24 defeated.]
+
+[Experience Gained: +560XP]
+
+Zherdev made a tiny noise that sounded like a teakettle achieving enlightenment.
+
+Kage didn't know if he should nod or shake his head.
+
+“DID YOU SEE THAT,” Zherdev shouted at no one. “DID ANYONE SEE THAT.”
+
+“I saw it,” Kage said.
+
+Zherdev nearly fainted on the spot.
+
+The Alpha roared.
+
+Its remaining HP had dropped under half through Ren’s steady cuts, Valdrias’s shield counters, and incidental damage from everyone who could spare a hit.
+
+[Reefscript Alpha - Lvl 27]
+
+HP: 2874/6500
+
+The crown along its back flared blue.
+
+The line above it wrote slowly this time, each word pressed into the air with heavy ink.
+
+and the reef-king called the unfinished sea to remember its hunger
+
+Kage’s skin prickled.
+
+A slow line meant a bigger mechanic. The words gave pieces. Reef-king. Sea. Remember. Hunger.
+
+The glass wave around the party vibrated.
+
+Under their feet, the newly restored reef clicked and creaked. White draft-space leaked between the crystal spines.
+
+“Common marks, stabilize footing,” Kage said. “Finn, Jax, Zara, Lily, Valdrias. Plant hands or boots. Julie, save your mark.”
+
+They moved.
+
+Good. Immediate.
+
+Finn dropped from the beam and slammed his marked hand onto the reef. Jax stomped into a gray smudge patch. Zara pressed her charcoal-marked palm against the tilted hull with visible disgust. Lily knelt by the mast rib and steadied a vanishing plank. Valdrias anchored the center.
+
+The white leaks slowed.
+
+The Alpha’s call dragged a swell up from the frozen sea. It rose as a translucent wall full of teeth-shaped silhouettes.
+
+Vami, glow building again, looked over his shoulder. “Can I cut it?”
+
+“Probably,” Kage said. “Bad idea.”
+
+“I collect those.”
+
+“Collect later. Ren, interrupt the caller. Zara, freeze the base. Finn, eye. Jax, cover Zara.”
+
+Ren was already moving.
+
+This time Kage watched harder.
+
+Ren approached the Alpha along a diagonal that forced its jaw to choose between Valdrias and him. His sword stayed low. His shoulders stayed quiet. At the last moment, the Still-Water Duelist shimmer spread around his feet.
+
+A stance change?
+
+The Alpha snapped.
+
+Ren’s blade rose.
+
+The class widened the timing. Kage saw the system place a faint blue arc across the path of the bite.
+
+Ren still had to meet it.
+
+He did.
+
+Steel kissed glass at the final quarter of the motion. The Alpha’s head deflected. Ren’s sword slid along the jawline and cut into the glowing throat where the call gathered.
+
+[Perfect Parry.]
+
+[Critical Hit! -646 HP]
+
+[Reef-Call interrupted.]
+
+The rising wave collapsed into loose rain.
+
+Zara froze the base anyway. Finn’s arrow struck the Alpha’s eye.
+
+[Critical Hit! -489 HP]
+
+[Reefscript Alpha Blinded: Right Eye.]
+
+The monster thrashed.
+
+Valdrias absorbed the first hit. Jax caught a stray claw meant for Zara and cursed. Lily healed him with a quick pulse. Julie turned that heal’s overheal into a thin thread that snapped to Finn’s bow arm.
+
+[Steadying Thread applied.]
+
+[Next ranged attack Critical Chance increased.]
+
+Finn blinked down at his hand. “Oh. That’s, uh, nice.”
+
+“Use it before it expires,” Julie said.
+
+He used it.
+
+[Critical Hit! -303 HP]
+
+The Alpha staggered backward on the reef, bleeding light and graphite.
+
+[Reefscript Alpha - Lvl 27]
+
+HP: 1136/6500
+
+Only two rakers remained. One low. One fresh enough to be irritating.
+
+Vami took the fresh one because Vami had a spiritual allergy to moderation. Zherdev, Jax, and Zara pinned the wounded one. Valdrias held the Alpha. Ren stood just outside its range, blade angled, breath steady.
+
+Kage felt the rhythm settle.
+
+They had the fight.
+
+He could keep watching. He could let the group finish and call that good play.
+
+Mumyo pulsed once in his hand. Small. Eager, as if waiting to see whether the new subclass had teeth.
+
+Fine.
+
+He stepped forward.
+
+The battlefield changed texture at once.
+
+The old part of his brain, the part he had starved and buried under bills and hospital invoices, woke with a quiet click.
+
+Distance first.
+
+Alpha reach. Valdrias shield width. Ren’s line. Vami’s left-side flash cycle. Jax’s backswing. Zara’s cast lane. Finn’s arrow path. Lily and Julie in safe rear. Zherdev in the middle, still somehow alive and proud of it.
+
+Kage moved through the available space.
+
+Mumyo weighed nothing until it mattered. The blade slid from low guard into a short cut across the wounded raker’s rear tendon. Kage kept the motion compact to spare his shoulder.
+
+[Glassfin Raker - Lvl 24]
+
+[Critical Hit! -316 HP]
+
+[Mumyo: Echoes of Devotion (Stack 1/5)]
+
+[Convergence Action Registered: Clean.]
+
+[Convergence +2]
+
+[Convergence: 2/100 | State: Sharpened.]
+
+The notification hit like a small bell behind his eyes.
+
+The raker buckled. Jax finished it with a heavy diagonal cut.
+
+[Glassfin Raker - Lvl 24 defeated.]
+
+[Experience Gained: +560 XP]
+
+Kage continued past the falling body and entered the Alpha’s right blind side.
+
+Ren saw him enter.
+
+Kage felt that attention like pressure between the shoulder blades.
+
+The Alpha swept a claw toward Valdrias’s exposed flank. Kage cut the joint from beneath, not hard enough to sever, precise enough to spoil the angle.
+
+[-168 HP]
+
+[Mumyo: Echoes of Devotion (Stack 2/5)]
+
+[Convergence Action Registered: Clean.]
+
+[Convergence +2]
+
+[Convergence: 4/100 | State: Sharpened.]
+
+The claw struck Valdrias’s shield off-line and skidded.
+
+Fair.
+
+The Alpha twisted toward Kage.
+
+Kage stepped in, because stepping back would put him in Ren’s lane and also because the monster expected prey to flee. Mumyo snapped upward in a straight vector, a cut that looked too abrupt for a normal sword. His arm still paid for it. Heat bit into his shoulder as he stopped the motion and redirected.
+
+The blade found the draft seam under the Alpha’s lower jaw.
+
+[Critical Hit! -329 HP]
+
+[Mumyo: Echoes of Devotion (Stack 3/5)]
+
+[Convergence Action Registered: Clean.]
+
+[Convergence +2]
+
+[Convergence: 6/100 | State: Sharpened.]
+
+Good.
+
+The meter rewarded timing under threat. The action variety rule sat in the back of his mind like a debt collector with excellent posture. Tendon cut. Joint spoil. Upward seam strike. Different enough.
+
+The Alpha’s head snapped down to bite him.
+
+Text formed above it.
+
+and the broken crown devoured the hand that wrote
+
+Kage almost smiled.
+
+Rude.
+
+He saw more than the text.
+
+He saw Ren shift, ready to intercept.
+
+He saw Valdrias try to turn the shield, half a breath late.
+
+He saw the Alpha’s bite path. Wide, brutal, confident, simple.
+
+He saw the space under the jaw where the monster’s own momentum would drag its throat across a blade if someone stood in the stupid place at the stupid time.
+
+Heart rate jumped. Breath sharpened.
+
+Threat response.
+
+Wrong.
+
+His body felt awake. Irritated. Bright.
+
+Anticipation. Still hate that.
+
+Kage let the bite come.
+
+At the final instant, he slid his lead foot a handspan inward, shoulder folding just inside the closing teeth. Mumyo rose in a short, flat line. No flourish. No extra motion. A cut placed where the neck committed and the jaw blocked its own recovery.
+
+The blade touched.
+
+Mass returned.
+
+The strike drove through the exposed draft-line with a clean, ugly sound like thick parchment tearing under a knife.
+
+[Critical Hit! -356 HP]
+
+[Mumyo: Echoes of Devotion (Stack 4/5)]
+
+[Convergence Action Registered: Perfect.]
+
+[Convergence +7]
+
+[Convergence: 13/100 | State: Sharpened.]
+
+The Alpha’s bite slammed shut beside his ear.
+
+A single glass tooth grazed the edge of his beret plume and shaved off a burgundy fiber.
+
+Kage landed already turning out.
+
+Ren stood frozen on the other side of the Alpha.
+
+Vami flashed in from the left and carved both blades across the opened throat.
+
+[Critical Hit! -812 HP]
+
+[Reefscript Alpha - Lvl 27 defeated.]
+
+[Experience Gained: +1000 XP]
+
+The body collapsed into wet paint, crystal, and unraveling black script. The remaining raker lost its nerve or its pathing. Hard to tell. It lunged at Vami, missed after another flash-step, and ate a combined arrow, frost spike, and Zherdev overcompensation swing.
+
+[Glassfin Raker - Lvl 25 defeated.]
+
+[Experience Gained: +600 XP]
+
+Silence snapped into place.
+
+Rain hung motionless again. The glass sea returned to frozen violence. Broken reef glittered under the party’s boots. The black stage directions above them faded one line at a time, ink thinning into the storm.
+
+Kage exhaled and checked his arm.
+
+The letters drifted lazily again.
+
+His shoulder burned from the abrupt vector changes. Elbow too. Mumyo could cheat inertia. His body still had to settle the bill.
+
+Thirteen Convergence from four actions.
+
+Low number. Useful number.
+
+He nodded once to himself.
+
+“That works.”
+
+Jax leaned on his sword, breathing hard. “Glad your private experiment worked during the part where the shark king tried to eat you.”
+
+Vami appeared from optical shimmer with a delighted sigh. His armor had dimmed back to merely obnoxious. “This group has promise.”
+
+Julie walked over and poked him in the chest with two fingers. “You are down thirty percent health.”
+
+“I was managing aggro.”
+
+“You were flirting with a dental accident.”
+
+“Same thing, sunshine.”
+
+Lily laughed softly as she topped off Valdrias. Finn sat on a beam stump and gave his hawk a shaking thumbs-up. Zherdev tried to rest his greatsword on his shoulder, remembered the sparks, and carefully held it away from his cape.
+
+Valdrias faced Kage, shield still raised. “Was my tanking sufficient?”
+
+Kage looked at the dead monsters, then at the stabilized footing around them.
+
+"Close enough. Work on the phrasing." Kage turned away. He found he couldn't look him in the eye. "Start looting."
+
+Valdrias’s expression became solemnly radiant.
+
+Kage glanced toward Ren.
+
+Ren had lowered his sword.
+
+His posture remained perfect, but the stillness had changed. Earlier, he had stood like a disciplined fighter conserving energy. Now he stood like someone had heard a voice from behind a locked door.
+
+His eyes fixed on Kage’s last step.
+
+No. On the footwork.
+
+On the cut.
+
+On the timing.
+
+Lily noticed first, because of course she did. She walked closer, staff still glowing faintly in one hand. “Ren?”
+
+Ren blinked once.
+
+Lily tilted her head. “Is everything alright?”
+
+Ren’s fingers tightened around the hilt of his sword.
+
+His gaze stayed on Kage’s right hand, where Mumyo’s shadow edge drank the stormlight.
+
+And for the first time since arriving, the Still-Water Duelist looked shaken.

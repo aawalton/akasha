@@ -1,0 +1,279 @@
+The stone still waited in the panel.
+
+Kage stared at it from the bench between the apothecary and the paint shop while Korros kept making noise around him. A lute trilled somewhere up the lane. Somebody laughed too loudly. From the forge district came the rhythmic ring of hammers hitting tuned metal. The whole city sounded like it was trying to impress itself.
+
+One point now. Next point at twenty-eight.
+
+That sentence had sounded reasonable a minute ago. Then he looked at the new experience requirement again.
+
+He pulled the allocation panel back up.
+
+[Available Specialization Stones: 1]
+
+[Available Rerolls: 3/3]
+
+Three rerolls helped. A lot, actually. That changed the whole problem.
+
+He did not have to marry the first branch he picked. He could draft the build, field-test it, rip it apart later, and pretend the earlier choices had been “research” instead of “guessing".
+
+He leaned back against the bench.
+
+Opening all three first is probably correct.
+
+Each tree frontloaded its engine. Wordless Strike gave him the Physical Lexicon. Stillness gave him the Anchor and Magnitude system. Jisei gave him Threshold. First points were expensive in opportunity cost and stupidly good in return. That usually meant the optimal route was breadth first, then specialization once the game stopped hiding information.
+
+If that turned out to be wrong, he had rerolls.
+
+If a boss somewhere demanded one degenerate interaction from a single branch, he could reset, dump three stones into one tree, and act like he’d planned it that way from the beginning.
+
+Good system. Dangerous system. His favorite kind.
+
+Then the experience number stabbed him in the eye.
+
+He opened his sheet, looked at the bottom, and felt his mouth flatten.
+
+[Experience: 4392/62500]
+
+He had seen it a minute earlier and dismissed it as panel clutter. Now he focused.
+
+“What.”
+
+A passing player glanced at him, decided the charcoal-coated guy with the dead-black sword was somebody else’s problem, and kept moving.
+
+Kage kept staring.
+
+To hit level twenty-five, he had needed a bit under twelve thousand experience from twenty-four. Around 11.8k, if he remembered right. He had enough level-ups behind him to feel the old pattern by instinct. Costs had been rising fast, sure, but in a smooth curve. Heavy. Manageable.
+
+This number was not smooth. It felt like a brick to the face.
+
+He started reversing the formula in his head. Old level breakpoints. Old jumps. The pattern clicked together fast.
+
+One hundred times level to the one-point-five.
+
+That fit everything before this. He looked at 62,500 again.
+
+One hundred times twenty-five squared.
+
+A dry laugh escaped him - level twenty-five had been a border crossing. Before it, the game let players climb, after it, the game started charging rent.
+
+He did the next bit too, because apparently his brain enjoyed self-harm.
+
+Twenty-five to twenty-six was 62,500.
+
+Twenty-six to twenty-seven would be 67,600.
+
+Twenty-seven to twenty-eight would be 72,900.
+
+He sat with that for a second. Three levels. The phrase sounded small.
+
+The actual number was 203,000 experience. He almost respected the audacity.
+
+Tutorial’s over, he thought. Good of them to say it with a shovel to the teeth.
+
+That also made his earlier conclusion more important. If first points were this valuable and future points were this expensive, opening all three trees before hard specializing still looked right. By level thirty-one he could have the core engines from every branch online.
+
+Level thirty-one.
+
+He did the math for that too and immediately regretted it.
+
+Another 78,400. Then 84,100. Then 90,000. Total from twenty-five to thirty-one: 455,500 experience. He closed the mental spreadsheet before it turned into a stress rash.
+
+“Later problem,” he muttered.
+
+A luma-orb drifted past at eye level, washing the bench in soft violet light. It made the mosaic tiles look wet.
+
+He went back to the trees.
+
+The Jisei branch tempted him first, because of course it did. Threshold was filthy. Elegant too, in a predatory sort of way. Lose health, gain power. No breakpoints. No setup gimmick. Just raw scaling with pain. In a duel or a solo fight, he could sand his own HP down, hold the line, and ride the bonus into the floor.
+
+In a raid?
+
+Terrible.
+
+Two healers changed the math immediately.
+
+Lily was coming. Vami’s girlfriend was apparently the other healer, which meant the raid had actual recovery coverage. Raid bosses also loved unavoidable damage. Cleaves. pulses. room-wide checks. Mechanics that landed because the designer wanted everybody to suffer together. Keeping himself low on purpose in that environment meant gambling against teammates and scripted damage at the same time.
+
+He respected the tree. He did not trust it with strangers and two priests.
+
+He shifted to Stillness.
+
+That one was cleaner in a different way. Hold space. Build Magnitude. Cleanse debuffs. Recover resources. It was a duelist’s tree disguised as meditation.
+
+He could already feel how nasty it would get later.
+
+The issue was timing.
+
+The raid started in minutes. Stillness offered sustain and control. Good tools. Immediate tools, even. But two healers covered a chunk of its value already. If he took chip damage, healers existed. If the raid faced debuffs, healers existed. The tree would still be good. He just wouldn’t feel the first point as sharply tonight.
+
+That left Wordless Strike.
+
+His eyes settled on the left branch again. That’s the one. The reason was simple.
+
+He'd been timing his verses manually to land on exact physical beats since the Rhythmic Flow unlocked. Every sword exchange ran two parallel processes simultaneously: the fight and the composition inside the fight. If the Physical Lexicon resolved that by design, if the verses generated the double Convergence tick automatically because the physical action and the verse were the same thing in that tree, the mental overhead dropped considerably. He couldn't know until he had it active. And the only way to have it active was to choose it. Just steel, timing, and coherence.
+
+The unanswered questions were the argument for it, not against it.
+
+The biggest one sat in the center of his brain like a lit match.
+
+If the physical keyword itself counted as a timed verse on top of the actual action, would it generate separate Convergence by default?
+
+If yes, the tree was absurd. If yes, it solved one of the most annoying parts of his current combat loop.
+
+He pressed the first node, and the stone dissolved into pale light.
+
+[Specialization Stone spent.]
+
+[Skill Tree Unlocked: The Wordless Strike]
+
+[Core Mechanic Acquired: The Physical Lexicon]
+
+[Skill Acquired: One Breath]
+
+The panel widened. New text streamed downward in thin silver script.
+
+[Physical Verses unlocked.]
+
+[Physical Verses require no Title.]
+
+[Intent and target are assessed from completed action.]
+
+[Base Cost: 75 Awen for the first keyword.]
+
+[Each additional keyword doubles total cost.]
+
+[Current maximum supported physical sequence: 2 keywords.]
+
+He stood from the bench and stepped into a clear patch of tile beside a shuttered pigment shop. A pair of apprentices carrying sealed clay jars paused, saw the sword, and accelerated their lives in a different direction.
+
+Smart kids.
+
+He could already see how the tree would scale with Mumyo’s vector changes. Exact repeated action was hard with a normal sword because inertia and recovery always muddied the line. Mumyo cut recovery out of the weapon’s side of the equation. His arm still had to obey flesh and stats, but the blade itself had zero loyalty to momentum.
+
+This tree had been designed for regular steel. Mumyo turned it into a public health concern.
+
+The panel hovered in front of him. A street performer somewhere nearby hit a wrong note on a flute and kept going anyway.
+
+[Character Sheet: Kage]
+
+[Level: 25]
+
+[Class: The Architect of Verse (Legendary Poet)]
+
+[Subclass: The Samurai]
+
+[Experience: 4392/62500]
+
+[HP: 640/640]
+
+[AWN: 1420/1420]
+
+[Weight: 31/80]
+
+[Convergence: 0/100 | State: Sharpened]
+
+[Parry Efficiency: +10%]
+
+[Strength: 36]
+
+[Agility: 50]
+
+[Stamina: 38]
+
+[Intellect: 15]
+
+[Artistry: 116]
+
+[Physical Damage: 144]
+
+He stared at it, and his expression went flat.
+
+Jesus.
+
+At level twenty-five. On a Poet.
+
+An artisan class. A legendary artisan class, sure, but still a class that theoretically ought to spend most of its life writing literature at people.
+
+Instead, he was looking at 36 Strength, 50 Agility, 640 HP, 1420 Awen, 144 physical damage, baseline Convergence benefits, and a dedicated parry efficiency line. Sonic-Weave Wraps gave 10% attack speed. Mumyo gave another 10%.
+
+Before Convergence climbed. Before any of the ugly interactions inside the subclass had time to mature.
+
+And that said nothing about the rest of the sheet. Legendary growth weapon. Two unique items. Two active titles. Bonus damage against targets whose true lore he knew. A class mechanic that rewarded him for understanding rather than farming. A sentient shortsword that ignored inertia whenever it felt helpful.
+
+It looked like the sort of build that made forum posters invent conspiracy theories and start typing in all caps. Disgust and satisfaction arrived together.
+
+He felt both. He accepted the second one first.
+
+The game’s entire selling point was the living world and near-total non-interference from the devs. Yggdrasil had bragged about that forever. Dynamic AI, emergent systems, no constant handholding, no emergency hotfixes every time a player discovered something powerful.
+
+If he had this sheet, then either they had checked it and approved it, or Morpheus had seen it and decided it would be funny to let it live.
+
+Both counted as permission.
+
+Sure, he thought to the panel. Totally balanced.
+
+He closed it and finally moved.
+
+The raid timer in his head had shrunk to a handful of minutes.
+
+He cut through the Mosaic Path toward Korros’s main entrance, leaving faint gray dust over bright tile as the Treads of the Ashen Dune carried him along. The city glowed in evening colors now. Floating luma-orbs drifted under archways in soft gold and deep plum. The fresco walls above the avenues shifted with slow-moving scenes of kings, wars, harvests, saints, and all the other lies civilized places liked telling about themselves.
+
+The closer he got to the gate, the louder the city became.
+
+Duelists sparred in the open field outside the walls while Azure Watch guards observed like irritated art critics. A bard near the entrance sang a heroic ballad for exactly six listeners and one sleeping dog.
+
+Korros was still excessive.
+
+He reached the main entrance five minutes early and picked a spot just inside the gate where he had clean sightlines in three directions and one limestone column at his back. Habit. Always habit.
+
+General chatter rolled across the area in waves.
+
+A tank in bronze armor bragged about holding aggro on a zone boss for seventeen seconds. Two min-maxers argued about whether luck was a fake stat hidden behind lore triggers. A roleplayer in velvet declared himself “the moon-touched heir of forgotten waters,” then nearly got run over by a courier.
+
+Kage let the noise pass around him. One minute later, a voice spoke from his right.
+
+“Hello.”
+
+He turned. A nameplate hovered above the newcomer.
+
+[Ren - Lvl 21 (The Still-Water Duelist)]
+
+The class name landed first. The posture landed second.
+
+Slim build. Minimal armor, functional rather than decorative, a hakama-derived cut to the leg pieces and lightweight leather plating without ornamentation or cosmetic additions. A single curved longsword, seven or eight inches longer than Mumyo, seated cleanly at the left hip. Straight posture, weight settled and distributed evenly through the hips. Both hands were loose but positioned in the way that hands were positioned when the body had logged enough time to know what it might need next.
+
+Three meters.
+
+Kage absorbed the distance without advertising that he was absorbing it.
+
+Deliberate measurement produced slight overcorrection. Someone calculating the appropriate gap consistently arrived at three-point-two or two-point-eight. Three meters was the instilled kind: inscribed through repetition until the correct interval stopped being a number and started being the place the body arrived without being directed. More specifically: the correct interval for that weapon length, that grip width, that standing stance, in relation to a target of Kage's height. Not a personal space habit. The specific correct distance for this particular exchange, and it hadn't required a single conscious thought to achieve.
+
+Something in the back of Kage's processing filed a label for it. He moved on.
+
+Kage’s next immediate reaction was confusion.
+
+Do I know this guy?
+
+Ren gave a small, respectful nod.
+
+“By Lily’s description,” he said, “you should be Kage. I'm here for the raid.”
+
+Right.
+
+Lily’s message from an hour ago surfaced from the pile.
+
+well he’s free tonight!! would it be okay if he joined the raid?? he has a rare class, The Still-Water Duelist ... and he’s honestly really, really good. like really good. he’s been one of my best friends since I started playing games and i think you’d actually like him!! please please can he come? :)
+
+At the time, Kage had been elbow-deep in self-sacrifice mechanics and subclass math. He had sent back a distracted approval and moved on.
+
+Now the message had a body attached to it. And the body knew distance.
+
+Interesting.
+
+Still-Water Duelist at level twenty-one indicated a Rare unlock, condition-based rather than a default progression path. A safe quess. Rare classes at this point in the game's release cycle were a genuinely small demographic. The class name communicated sustained exchange mechanics, stance economy, readings built across extended pressure. Single weapon, no cosmetic investment, armor selected purely for function. All of it layered on top of a body that had placed itself at exact ma-ai without a calculation.
+
+A smile touched Kage’s mouth a beat later. He noticed it only after it was already there.
+
+“Hello.”
+
+He let the three meters stay where they were.

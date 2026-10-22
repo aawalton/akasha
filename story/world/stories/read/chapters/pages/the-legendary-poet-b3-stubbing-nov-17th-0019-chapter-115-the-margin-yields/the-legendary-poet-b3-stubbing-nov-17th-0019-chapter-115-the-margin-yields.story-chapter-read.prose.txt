@@ -1,0 +1,335 @@
+The first line wrote itself fast.
+
+the unwritten throat opens, and what it cannot finish, it swallows
+
+Kage read it aloud before the verb landed. "Throat attack. Cone in front of the head."
+
+Valdrias planted his shield without asking what cone meant. Jax stepped left on instinct that surprised everyone, including Jax. Lily pulled the chalk floor a hand-width tighter under her boot.
+
+The leviathan opened its jaw.
+
+Black liquid script poured from the gap. It washed across the front third of the arena and passed through Vami's chest as if Vami were a page someone forgot to print.
+
+Vami did not die. Vami did not even flinch.
+
+He looked down at the script that had eaten his ribs, then back up at the leviathan. "It missed."
+
+"It didn't miss," Kage said.
+
+He watched the boss's flank ripple where Ren's blue frame had clipped a section of body into focus. That section had texture. Scales. Edges. The rest of the leviathan remained sketchwork. A drifting suggestion of a creature.
+
+"Hits don't land outside frames," Kage said. "Neither do its attacks. The arena only counts what's inside one."
+
+Zara's eyes went sideways and stayed there for two full seconds. "So melee is useless without a frame nearby."
+
+"Melee is decorative without a frame nearby. Vami, Ren, Zherdev, get the frames moving. Pick a section. Stay on it."
+
+Vami was already running. The wet paint on his wrist coiled toward the nearest gilded border. Ren moved with less spectacle and more economy, sliding along Julie's arc to his frame and laying a palm flat across the gold leaf. Zherdev arrived at the third frame two beats late, breathing hard.
+
+"Vermilion on mine," Zherdev announced, slapping red pigment onto the border with the enthusiasm of hanging a flag.
+
+The framed section over the leviathan's mid-coil pulsed crimson. Scales gained color, then more color. The body underneath visibly tensed, like flesh aware it had become a target.
+
+Vulnerability window. Short.
+
+"Vami," Kage said. "Red frame. Burst on my call."
+
+"Will do."
+
+Vami crossed Julie's bridge, white Lux climbing the seams of his armor as he ran, the suit waking up. He hit the framed section at a sprint, daggers blurring, and the air around him went chrome-bright as light bled off his shoulders.
+
+The framed flank opened in red lines.
+
+Vermilion Hunger, Kage thought. It feeds him while it lasts.
+
+The leviathan twisted its head toward the brightest thing in the arena, which was now, predictably, Vami.
+
+"Aggro grab," Kage said. "Valdrias, hold center. Don't chase."
+
+Valdrias did not chase.
+
+The leviathan struck at the floor.
+
+Its head dipped, and a section of body that had previously been suggestion compressed into actual mass and slammed downward through the arena fabric near Finn's chalk anchor. The text under Finn's hand softened. His boots sank a finger's width.
+
+"Floor going," Finn said. Calm. Almost. The hawk overhead screamed for him.
+
+"Hand off to Jax," Kage said. "Slide right. Don't lift, drag."
+
+Finn dragged his palm across the floor instead of lifting it, gray dust trailing under his fingers like spilled flour. Jax stepped into the seam, planted his marked hand, and the chalk caught before the seam could open.
+
+"Floor is alive, then," Jax said through his teeth. "Good. Hate that. Glad we're doing it."
+
+"Welcome to art," Kage said.
+
+Ren's frame slid blue.
+
+The framed section over the leviathan's spine slowed visibly. Time pulled long inside the rectangle. The scales there resolved into a kind of armored ridge that had been only a smudge a second ago.
+
+"Slow window on mine," Ren called. "Six seconds, maybe seven."
+
+"Take it. Single committed strike, then reset."
+
+Ren stepped through his own frame.
+
+His longsword cut the slowed scale ridge in one clean motion. No flourish. The blade entered, traveled the line, exited. The wound bled gold ink. The leviathan jerked.
+
+Its tail uncoiled across the back half of the dome and brushed Zherdev's frame at speed. The gilded rectangle skidded off-rail, red pigment sloshing dangerously toward the dome's edge.
+
+"My frame," Zherdev wailed. "MY FRAME."
+
+"Catch it," Kage said.
+
+Zherdev hauled the frame back into position with both hands and a sound that was either a battle cry or a hernia. The Vermilion Hunger held.
+
+Kage watched the cycle the way he watched a rotation in any well-designed boss. Blue for windows. Red for spikes. The third frame waited.
+
+"Vami, swap white onto yours when Pale Wake recharges," Kage said. "I want to see what's hidden under the head."
+
+"Recharging."
+
+"Zara, watch the rings."
+
+"Watching."
+
+"Lily, Julie, eyes up. Anything I miss, scream."
+
+"Always," Julie said, dry.
+
+The fight settled into a loop. Frames slid. Pigment dyed. Vami burned, vanished in his own light, and reappeared somewhere else without making any of it look difficult. Ren picked his moments and made them count. Zherdev's contribution was largely architectural, but the architecture held, which was more than Kage had expected from a man who once set his own pants on fire on purpose.
+
+Kage stayed at the central platform, calling adjustments. The boss's HP dropped in chunks of a few hundred per Ren cut, larger spikes per Vami burst inside red. Slow. Honest. The kind of damage that suggested the fight was not, in any normal sense, about damage.
+
+"Vami. White."
+
+Vami threw a palmful of Pale Wake across his frame on the next pass.
+
+The framed section moved over the leviathan's lowered head. The pigment soaked into the gold border, and the scales beneath the frame went translucent.
+
+Script glowed underneath.
+
+Old script. Not written for this fight. Written before.
+
+the final door waits in the dark beneath the tongue
+
+The line had been there since the boss was sketched. Maybe longer. The dungeon had not added it. The dungeon had simply stopped hiding it.
+
+The kill isn't the kill.
+
+"Change," he said. "We're not killing this thing. We're opening its mouth."
+
+Jax kept his sword arm steady but turned his head a fraction. "I'm sorry, what."
+
+"There's a door under the tongue. Health damage forces mouth-open states. That's all the damage is for. We open the mouth wide enough to expose what's beneath it."
+
+"That is probably the most ambiguous guess of a raid boss I've heard."
+
+"You'll live."
+
+Zara had already reorganized the math in her head. Kage could see it happening behind her eyes, the spreadsheet rebuilding around the new objective. "So Vami's burst windows shift to jaw-hinge. Ren's blue locks the same. We need to brace the jaw open the second it cracks, or it closes and we restart the cycle."
+
+"Julie braces," Kage said. "Sketch frame across the lower jaw on cue."
+
+"Got it." Julie was already drafting the geometry in the air, fingers moving along invisible angles. The black ink-lines on her wrist had thinned, the once-crisp pattern fraying at the edges. "I have one good brace in me. Maybe one and a half if you're nice."
+
+"I'll be nice."
+
+"Promises."
+
+The leviathan moved again.
+
+It dropped its body through the floor near Lily this time. Not against her chalk anchor, beside it. The text under the spot rewrote itself mid-attack. Lily's anchor disk softened on the inner edge, her boot tilted, her balance went a fraction wrong.
+
+Kage saw it before Julie did.
+
+Not a frame near her. Not enough time for a sketch. Lily was a healer, not a footwork specialist, and the floor under her was three seconds from becoming opinion.
+
+He moved.
+
+Mumyo cleared the sheath in the same motion as his step. He crossed Julie's arc without thinking about it, took the angle the leviathan's body had carved, and met the rewriting force where it touched the chalk seam.
+
+His feet found the right distance on their own.
+
+Old distance. The kind a hall measured for you over enough years that the body stopped measuring at all. Heel placed first, weight settling through the arch, hips opening just enough to let the sword arrive.
+
+Two strikes. Maybe three. He stopped counting because counting was a thing you did when you were thinking, and he was not thinking.
+
+Mumyo pulsed once at the wrist, surprised in a small and quiet way.
+
+The first cut intercepted the dropping body weight at its slowest point. The second turned the rewriting line aside with the flat. The third was barely a cut at all. A held position. Pressure against text that wanted to keep moving and stopped because Kage refused to let it past.
+
+The chalk under Lily firmed.
+
+Lily's boot found the floor again.
+
+Kage exited.
+
+He stepped back along the same line he had stepped in on, weight settling without flourish, sword returning to a low rest before his shoulder caught up. His Convergence ticked upward in the corner of his vision in three small increments and he didn't look at the number.
+
+The exchange had taken under three seconds.
+
+Lily exhaled. "Thanks."
+
+"Move your anchor inward six inches."
+
+"Moving."
+
+Kage glanced sideways out of habit. Ren was on the nearest frame. He was looking at the feet.
+
+Then at the way the cut had finished, low and forward, the blade returning to its rest position before the hips had finished settling. The school taught that. The school taught it on day one, and the school taught nothing else like it, and Kage had not thought about the school in a long time.
+
+Ren said nothing.
+
+The frame under Ren's hand began to drift, and Ren corrected it without looking down.
+
+Kage turned away. "Vami. Red on the jaw. Now."
+
+The cycle accelerated.
+
+Vami crossed two bridges and a frame edge in one motion and detonated his Lux exactly as he reached the leviathan's lower jaw. The framed section pulsed red. The jaw split where the pigment said it should split. Gold ink wept from the corner of the boss's mouth.
+
+"Ren, blue on the hinge. Hold it."
+
+"Holding."
+
+Ren swapped pigment with one wet smear and placed his palm flat. The hinge slowed. The jaw, partway open, stayed partway open.
+
+"Zherdev, third frame, grab white from the basin for the upper palate. I need to see what's holding it shut."
+
+Zherdev abandoned his red, scooped Pale Wake with a degree of care that suggested a man learning, slowly, that volume and competence were separate stats. The framed section over the upper palate revealed a knot of script holding the jaw partially closed. Three lines, woven, anchored above the tongue.
+
+"Jax," Kage said. "Can you get me five seconds of pressure on the right side of the lower jaw? Visual cover for Julie's brace."
+
+"Five seconds of pressure on a creature the size of a barge. Sure. Why not."
+
+Jax went, because Jax had already decided that arguing with Kage was a worse use of his time than just doing the thing and complaining afterward. He braced his sword against the lower jaw plate and pushed. The sword's edge sank into a section that Vami's red frame had made real. The boss's head jerked an inch. An inch was enough.
+
+"Julie."
+
+"Bracing."
+
+Julie's hands moved.
+
+Two long sketch-lines arced across the gap between the leviathan's upper and lower jaw, then cross-braced themselves at the back. The lines snapped solid, glass-clear with inked edges, holding the mouth open against the boss's attempt to close.
+
+The black ink on her wrist faded by half. Her jaw tightened.
+
+"Brace will not last," she said.
+
+"Doesn't need to."
+
+The mouth opened wide enough.
+
+Beneath the leviathan's tongue, partly hidden by parchment scales and ink saliva, a door sat embedded in the flesh of the throat. Gilded. Vast. The leviathan made a sound and… its body began to lose detail.
+
+Scales softened back into strokes. Fins thinned. The targetable sections, the carefully framed parts of it, faded one by one as the dungeon released them.
+
+A panel opened in the silver script above the platform.
+
+[The Leviathan has yielded the margin.]
+
+The HP bar did not finish. The number froze at a value none of them looked at, then dimmed and disappeared.
+
+The leviathan submerged. It descended past the platform, its eye closing as it went. The arena, turns out, did not hold a monster. It held the door under the tongue, exposed now.
+
+Jax lowered his sword. "I'm sorry. Where's the loot screen?"
+
+"There isn't one," Kage said.
+
+"There has to be one. We just spent like ten minutes on that thing."
+
+"There isn't one."
+
+A second panel resolved.
+
+[Editor's Key Fragment 1/5]
+
+That was it.
+
+Vami stared at the panel for a long moment. "No experience."
+
+"No experience," Kage said.
+
+"No gold."
+
+"No gold."
+
+"No drops."
+
+"No drops. A key fragment."
+
+"Instead… what?" Finn chimed in. "A fifth of a key. Which we got by punching a fish for ten minutes. And… to what door?"
+
+"More like seven." Zara corrected.
+
+"It felt like ten."
+
+Zherdev made a strangled sound that suggested a man who had been promised flashy items and instead received an object that did not even glow. "I have been emotionally robbed."
+
+"Good thing you are rich."
+
+"I will recover. Slowly. With expensive purchases."
+
+Zara was already past the protest. She had her arms folded and was looking at the gilded door embedded where the tongue had been. "Five fragments. Five frames, probably."
+
+Lily walked over to where Kage stood and squeezed his shoulder once. The squeeze said thank you without using the word, which Kage preferred. He nodded a fraction.
+
+He moved to the edge of the framed door and crouched. The script around the frame was wet. Fresh. Some of it still drying. He held out his marked hand, and the floating Author's Ink on his arm leaned toward a small pool of ink that had collected in a script-fold near the door's corner.
+
+He scooped what he could.
+
+[Pigment-Adjacent Reagent Acquired: Throatwell Sepia.]
+
+He pocketed it without comment. Then, because the dungeon felt like a place where one should always check what wasn't being looked at, he glanced over his shoulder.
+
+Ren had stepped down from his frame.
+
+He was standing apart from the group. Sword sheathed, hand resting on the saya the way Master Jin used to rest his hand on the saya when he was thinking about something he wasn't going to say. Ren did not move. His eyes followed Kage across the platform, then dropped, then lifted again to the place where Kage's footwork had ended.
+
+Lily was already crossing to him.
+
+"Hey." Quiet. "You alright? You've been quiet for a while now, you know. Since we entered the frame? Quiet for you quiet."
+
+Ren did not answer immediately.
+
+He watched Kage at the door's edge. Then, low, careful:
+
+"Some of the footwork. I'm pretty sure at this point. It belongs to a school. The school… the school has no name and no active disciples. It only ever had one. And that one hasn't been seen in years. So it doesn't make sense."
+
+Lily's brow drew together. "What school?"
+
+Ren breathed out. The breath was longer than it needed to be.
+
+"Jin," he said.
+
+Lily's expression shifted. She knew the name. Everyone knew the name. People who had never picked up a shinai in their lives knew the name. Ten consecutive national titles, all won with too much ease. Retired before age could make this decision for him. Refused sponsorships, committees, celebrity duels, documentary teams, and every wealthy parent who tried to buy their child proximity to greatness.
+
+The old man treated fame like mud on a floor. A real-life case of someone becoming larger than the sport.
+
+"Jin," Lily said. "Master Jin."
+
+"Yes."
+
+"Haven't you been trying to become his disciple? For a while now."
+
+Ren did not look at her. "Not only me. Everyone serious has tried. The answer is always the same. I have one disciple. I will not take another. And the disciple. Klaid. No one has seen him compete in years. No one even knows if he's still training."
+
+A pause.
+
+Lily's voice softened in a way that meant she had already done the math and was checking it twice before she said it out loud. "And you think." She didn't finish.
+
+"I don't know." Ren's hand tightened on the saya. "It doesn't make sense. It doesn't make sense no matter how I look at it."
+
+Something passed across his face. Something closer to the look someone wore when he had spent years climbing a wall and someone walked past him going the other way carrying the wall on their back.
+
+Kage heard it.
+
+He heard most of it. He could have moved. He could have closed the inventory panel he had opened and stepped to the far side of the platform and let the conversation finish without him. He had done that before.
+
+He did not move.
+
+He closed the inventory panel slowly. He looked at the gilded door beneath where the tongue had been. The frame was huge. One fragment of five. Something was already waiting on the other side of it, and the room after that, and so on, and the dungeon had not bothered to hide that the path ahead was long.
+
+He did not turn around. He did not say anything to Ren. He did not say anything to Lily. He did not say anything at all, because the thing about a sword in a sheath was that the sheath was the loudest part of the sword, and the only person who heard it was the man wearing it.
+
+Behind him, Ren said nothing else.

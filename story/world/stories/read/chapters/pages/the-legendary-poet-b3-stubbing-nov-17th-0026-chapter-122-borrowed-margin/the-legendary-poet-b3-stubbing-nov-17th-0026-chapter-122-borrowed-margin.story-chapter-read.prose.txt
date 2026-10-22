@@ -1,0 +1,305 @@
+Awen surged through him, heavier than the couplets, a deep pull behind the sternum. The Sash of the Held Margin tightened around his waist as if bracing his ribs from the outside.
+
+“[Strengthen] bright hearts now,
+
+[Weaken] all hostile false hands,
+
+[Bind] their wrath in ash.”
+
+The Haiku landed.
+
+For one instant, the white paper void gained texture. Fine black fibers spread across the floor beneath the party, visible like handmade paper held against sunlight. Kage’s words stitched through every active buff, every heal-over-time, every shield, every speed boost, every stabilizing mark.
+
+Then the domain answered.
+
+[Awen Cost: 612]
+
+[Verse Accepted. Truth Factor: High.]
+
+[Contextual Truth established: Hostile manifestations are false hands within an unfinished draft.]
+
+[Domain Effect Applied: Borrowed Margin]
+
+[Allied positive effects amplified by 65%.]
+
+[Hostile inverse resonance applied.]
+
+[Enemy Damage -18%. Enemy Action Speed -12%. Enemy Stagger Resistance -25%. Duration: 45 seconds.]
+
+[AWN: 604 / 1660]
+
+The next bleeding commas struck the raid. They still hurt. They hurt less.
+
+[-126 HP]
+
+Valdrias took a brush follow-up under the Haiku’s dampening field.
+
+[-403 HP]
+
+His health dipped, then Lily and Julie slammed it back up.
+
+[Sacred Mend amplified: +693 HP]
+
+[Tender Weave amplified: Restoration Spike +887 HP]
+
+Valdrias straightened behind the shield, breathing hard.
+
+“Good enough,” Kage said.
+
+The Curator’s paper eyes narrowed. “You alter my margins with borrowed grammar.”
+
+“Your margins are, technically, mine.” Kage cut a folio in half as it lunged.
+
+[Convergence +2]
+
+[Convergence: 6 / 100]
+
+The Haiku changed the tempo.
+
+Zara’s slows bit deeper. Jax’s cleaves staggered the folios long enough for Finn to pin them. Lily and Julie could finally heal ahead of damage instead of chasing corpses in progress. Vami’s Lux cycle became nastier under amplified speed buffs, bright enough that the Curator kept turning toward him and wasting strokes into Purges.
+
+Ren watched the brush arm, waited, then placed his palm against a fresh tear near the Curator’s elbow. Deep blue pigment flowed from his rare mark in controlled, even layers. No wasted movement. No theatrical nonsense. Just precision.
+
+[Pigmented Annotation applied.]
+
+[Marked Section: Brush Arm]
+
+[Damage taken by marked section: x2.5]
+
+“Arm,” Kage called.
+
+Zherdev reached it a heartbeat later, slammed his own glowing hand into the same stained area, and accidentally headbutted the Curator’s chest because his pauldron blocked half his view.
+
+The system, generous in the way slot machines were generous before ruining lives, counted the contact.
+
+[Pigment Saturation increased.]
+
+[Marked Section Duration refreshed.]
+
+Zherdev gasped. “I contributed.” He swung his greatsword into the painted brush arm.
+
+The weapon was absurd. It had too many flames, too much shadow, and a special effect that made the air scream like a teakettle full of ghosts. It also hit very hard when Zherdev managed to point it at the correct continent.
+
+[Critical Hit! -4,812 HP]
+
+Kage passed him and cut the same section with Mumyo. His damage stayed smaller. The x2.5 mark helped.
+
+[-912 HP]
+
+Mumyo’s shadow trail thickened. Kage stepped under a brush recoil, let the shaft pass close enough to ruffle his beret plume, and flicked Mumyo across a seam near the Curator’s wrist.
+
+[Perfect Timing.]
+
+[Convergence +7]
+
+He placed the keyword on the beat.
+
+[Physical Keyword recognized: Strike]
+
+[Convergence +7]
+
+[Convergence: 20 / 100]
+
+The cut opened wider than it should have.
+
+[-1,181 HP]
+
+Pain bloomed up Kage’s forearm.
+
+The brush arm tore. Pages poured from it. Julie’s funnel caught most of them. A few escaped. Finn shot one midair. “Loose pages right!” he called.
+
+Jax broke anchor to intercept. The boundary near his sector immediately squeezed inward.
+
+“Jax!” Zara barked.
+
+“I see it.” He cut two folios, then slammed his charcoal-marked boot onto the red line. The crop stopped a handspan from Lily’s heel.
+
+[Canvas Anchor re-engaged.]
+
+Lily shot him a quick smile. “Nice save.”
+
+Jax’s jaw tightened like he wanted to say something loud and heroic. He settled for, “Yeah. Watch your left.”
+
+Again, progress.
+
+Kage moved toward the boundary and thrust his marked hand down.
+
+The black floating letters around his forearm stirred. He tried to push them into the crimson line.
+
+Stet. Hold. Keep this section unchanged.
+
+The letters touched the floor. The red crop mark flared. A cold rejection snapped up his arm.
+
+[Marginalia attempt failed.]
+
+[Authority contested by active Axiom.]
+
+Kage’s fingers spasmed. The floating script recoiled to orbit his wrist. Wonderful. Legendary class my ass. He tried again on a fallen page. Same result.
+
+[Marginalia attempt failed.]
+
+[Authority contested by active Axiom.]
+
+No route there. His unique mark could read the room, maybe argue with scraps, but the Curator owned the final chamber’s grammar for now.
+
+“Any luck?” Zara called.
+
+“My mark is decorative until proven otherwise.”
+
+“Love that for us.”
+
+The Curator drew the brush back to his chest. His body had grown ragged along the shoulder, elbow, and chest. Every wound filled itself from inside, fresh pages sliding into place. The torn pages had become a carpet of enemies in Julie’s kill funnel.
+
+Kage understood the shape now.
+
+Damage boss. Boss sheds pages. Pages become adds. Adds overwhelm anchors. Anchors hold crop. Rare marks create real damage windows. Julie controls hazard placement. Healers survive raid-wides. Kage calls text and keeps the rhythm from rotting.
+
+A miserable fight. Good design, if the designer needed to be punched.
+
+“Plan,” Kage said, voice carrying across the arena. “Canvas marks rotate on boundary. Never leave a section empty for more than two seconds. Julie funnels all shedding pages to Jax’s kill zone. Zara freezes kill zone on cooldown. Finn pins loose pages before animation completes. Rare marks paint one body part at a time. Color first, damage second. Val keeps brush pointed away. Vami baits swings during Lux. Ren covers paint channels. Zherdev hits what glows and tries to remain connected to the floor.”
+
+Zherdev gave him a thumbs-up with the wrong hand and nearly dropped his sword. “Locked in.”
+
+“Terrifying,” Jax said.
+
+The next forty seconds became work.
+
+Vami painted the chest, vanished under a Purge, and returned through his own flash to carve the stain open.
+
+Ren painted with surgical calm, each contact placed during a brush recovery.
+
+Zherdev painted the Curator’s hip, got slapped by a flying folio, panicked, and somehow refreshed the duration by falling palm-first into the marked spot. “Advanced technique,” he shouted from the floor.
+
+Zara’s frost turned the kill funnel into a grinding machine. Folios slid down Julie’s angled Sketch barriers, hit the ice field, slowed, and met Jax’s cleaves. Finn called the larger sheets before they folded into dangerous shapes.
+
+“Long fold. That one becomes a spear.”
+
+Jax cut it early.
+
+“Top right. Wing shape.”
+
+Zara froze it to the barrier.
+
+“Under Val’s shield!”
+
+Kage handled that one. He stepped in, trapped the page against Valdrias’s shield rim, and cut through its crease.
+
+[Convergence +2]
+
+[Convergence: 22 / 100]
+
+The Curator’s health dropped in chunks during each painted window.
+
+[The Curator - Lvl 40]
+
+[HP: 742,019 / 800,000]
+
+Then 718,604.
+
+Then 689,330.
+
+Every chunk bought another wave of pages. Every wave stressed Julie’s barriers.
+
+[Sketch Construct: Funnel Barrier]
+
+[Durability: 4,211 / 18,000]
+
+Julie’s wrists trembled. The ink-black geometric lines had faded along her right hand, some of the crisp angles thinning.
+
+“Barrier won’t hold forever,” she said.
+
+“Drop it after next wave,” Kage said. “Redraw narrower. Make the kill zone smaller.”
+
+“That gives Jax less room.”
+
+Jax glanced at the mountain of hostile paper sliding toward him. “Jax loves less room.”
+
+“He does?” Lily asked.
+
+“He is learning to,” Jax said, and swung.
+
+The Haiku’s timer ticked down in Kage’s buff cluster. Synesthesia rendered it as a black thread burning shorter near his left eye.
+
+Ten seconds. The Curator lifted his brush vertically. New text wrote itself overhead.
+
+The frame rejects the crowded hand.
+
+All marks shall be thinned.
+
+Kage’s stomach tightened. “Mark mechanic. Anchors, brace. Everyone else center.”
+
+The crimson boundary flashed. Thin red lines shot from the crop circle toward every player touching it. Lily, Jax, Zara, Finn, and Valdrias all stiffened as the lines wrapped their charcoal-marked hands.
+
+[Crop Pressure]
+
+[Canvas Anchors under strain.]
+
+Health bars began to drain.
+
+[-52 HP]
+
+[-52 HP]
+
+[-52 HP]
+
+Per second.
+
+“Can’t hold long,” Finn gasped.
+
+Kage looked at Julie. “Can you brace anchors?”
+
+Julie shook her hands once, as if flicking water from her fingers. “With Sketch, yes. With class, also yes.”
+
+She drew five short triangular braces, one behind each Canvas anchor. The geometric ink locked into the floor around their palms and boots.
+
+[Sketch Construct: Anchor Brace]
+
+[Crop Pressure reduced by 40%.]
+
+Julie then caught Lily’s healing aura and spread it through the anchor braces with Tender threads.
+
+[Tender Weave: Distributed Recovery]
+
+The drains slowed enough for healers to keep pace. Kage exhaled. That was the wipe check. Decorative, he reminded himself. Solve with the tools that work.
+
+He stepped into the swarm. Mumyo pulsed once. Kage gave it motion.
+
+The next series of cuts came in short vectors. No broad arcs. Straight lines, hard stops, punished joints. He cut a folio’s fold, reversed into another, stabbed a third through the center crease as it rose.
+
+[Clean Strike.]
+
+[Convergence +2]
+
+[Clean Strike.]
+
+[Convergence +2]
+
+[Perfect Timing.]
+
+[Convergence +7]
+
+His shoulder burned. His elbow screamed. His HP dipped as a page grazed his cheek.
+
+[-48 HP]
+
+The pain helped.
+
+Ren and Vami reached the Curator at the same time. One precise. One reckless. Both effective.
+
+Zherdev reached them three seconds later, trailing sparks and shouting, “I am also part of the triangle.”
+
+“There is no triangle,” Zara snapped.
+
+The Curator’s HP crossed the next visible chunk.
+
+[The Curator - Lvl 40]
+
+[HP: 600,000 / 800,000]
+
+The arena went silent. Every folio froze. The crimson crop boundary stopped moving.
+
+The Curator lowered his brush. Torn pages crawled back across his body, layering over wounds, forming a cleaner silhouette. The painted stains sank inward, swallowed beneath fresh vellum.
+
+His paper face smoothed.
+
+Then the red circle around him split.

@@ -1,0 +1,567 @@
+The red circle split into five lines.
+
+They cut away from the Curator’s feet like cracks in dried wax, each one racing toward a different edge of the white arena. The moment they reached the boundary, the lines hooked upward and became vertical strokes, red hanging in the air.
+
+The last thread of Kage’s Haiku burned out near his vision.
+
+[Domain Effect Expired: Borrowed Margin]
+
+The fibers he had stitched into the floor faded. The raid’s buffs lost that extra weight, that borrowed thickness. Lily’s healing glow thinned. Zara’s frost field lost its black-edged bite. Vami’s light still screamed across the white, but the Curator turned toward it with smoother patience.
+
+The boss had cleaned himself.
+
+Fresh vellum layered his torso. His paper shoulders squared. His brush lowered, bristles grazing the floor without bending.
+
+“The page has been damaged,” the Curator said. His voice had lost the ragged rasp from phase one. It came out flat and formal, like a verdict read from a sealed letter. “The manuscript will be rebound.”
+
+The five red lines pulsed.
+
+Black slabs rose from the Curator’s body.
+
+They unfolded from his chest, shoulders, ribs, hips, and back, each plate made from compressed script packed so densely that the letters had become a material. Thick. Matte. Hardcover black. The slabs moved with a slow orbit around him, sliding over wounds before fresh attacks could land.
+
+Kage’s interface tried to parse them and gave him a headache instead. The standard nameplate blurred under silver filigree. The slabs felt heavy to look at, dragging his gaze down like wet wool wrapped around the eyes.
+
+[Phase 2: Hardcover Binding]
+
+[Axiom Entity has invoked archival protection.]
+
+[Hardcover Plates manifested.]
+
+“Armor phase,” Zara said instantly.
+
+She raised both hands and fired a shard of frost at the Curator’s chest. The projectile struck the nearest black plate. It sank.
+
+The ice slowed in the slab as if forced through a tank of clear syrup. It reached the paper body beneath and broke into glittering dust with a pathetic chime.
+
+[-184 HP]
+
+Zara stared at the number.
+
+“That,” she said, “is offensive.”
+
+Jax lunged next. His sword flashed in a clean diagonal and hit the plate over the Curator’s ribs. The blade entered the air in front of the slab and dragged. The swing lost speed mid-cut, like the space had turned thick. Jax’s shoulders followed through anyway, overcommitting him into a near stumble.
+
+[Damage reduced by Hardcover Binding.]
+
+[Critical Hit! -317 HP]
+
+Ren moved in after him. One step. Two. Perfect distance. His curved longsword drew a straight line toward the shoulder plate.
+
+The cut slowed at the surface.
+
+Ren withdrew immediately, face calm, eyes sharpened.
+
+“The blade loses intent before contact,” he said.
+
+Kage glanced at him. That was an annoying way to describe a mechanic. Also accurate. The black slab had accepted motion and drowned it. Damage entered, wandered, arrived weak.
+
+Phase armor with viscosity distortion. Great. Someone at Yggdrasil discovered liquid bureaucracy.
+
+The Curator lifted his brush. Text wrote itself overhead.
+
+A proper work survives the crude hand.
+
+Covers close. Pages endure.
+
+“Brace,” Kage called.
+
+Valdrias planted his glowing tower shield and took the brush stroke across the front. The impact boomed through the white arena. Without Borrowed Margin, the hit carried its full ugly weight.
+
+[-681 HP]
+
+Valdrias’s HP plunged, then Lily and Julie hit him together.
+
+[Sacred Mend: +421 HP]
+
+[Tender Weave: Restoration Spike +538 HP]
+
+Valdrias’s boots skidded back a foot. The red line under him flared where his charcoal-marked hand tightened on the shield grip.
+
+The black slab covering the Curator’s chest jerked. Kage saw it. A flake of gray dust lifted from Valdrias’s Canvas mark and flew toward the chest plate.
+
+“Val,” Kage said. “Touch the red line with your marked hand. Keep shield up.”
+
+Valdrias slammed his palm down onto the red stroke beneath his boot. The line flashed gray. The chest slab stopped orbiting.
+
+For one second, the black cover became solid in a different way. Less fluid. Less smug.
+
+[Frame-Lock initiated.]
+
+[Canvas Anchor engaged: Hardcover Plate stabilized.]
+
+“Canvas stabilizes plates,” Kage said. “All common marks, find a line. Touch and hold.”
+
+Zara’s eyes flicked to the five red strokes. “There are five lines.”
+
+“Five Canvas marks,” Finn said, voice tight. “Me, Lily, Jax, Zara, Val.”
+
+“Congratulations,” Kage said. “You’re furniture again.”
+
+Lily moved first, sliding to the left line and pressing her charcoal-marked fingers against it. Finn went to the far side, hawk circling overhead with anxious wingbeats, and flinched as gray dust crawled up his wrist. Jax and Zara took the remaining two without argument. Valdrias held the fifth, shield raised, knees bent.
+
+[Canvas Anchor engaged: Hardcover Plate stabilized.] x4
+
+Five black slabs froze around the Curator. The raid attacked. Damage improved. Barely.
+
+Zherdev swung his ridiculous greatsword into the chest plate, sparks flying from the sheath still strapped across his back. The blow hit with enough force to make the white floor ripple.
+
+[Damage reduced by Hardcover Binding.]
+
+[Critical Hit! -777 HP]
+
+Zherdev blinked. “That usually deletes something.”
+
+Kage cut a folio that had begun peeling from the floor near Julie and stepped toward the Curator. Mumyo pulsed in his hand, eager in its small, wordless way.
+
+He struck the stabilized chest plate with a short cut. The blade hit clean. The plate took the strike like a locked door taking a thrown pebble.
+
+[-201 HP]
+
+Mumyo’s shadow trail hissed across the black surface and faded. Kage’s jaw tightened.
+
+Canvas suppresses the water problem. Armor still exists. So stabilizing gets us from useless to bad.
+
+“Rare marks next,” Kage said. “Vami, Ren, Zherdev. Paint stabilized plates. One target. Chest first.”
+
+Vami appeared beside Valdrias in a streak of white, Lux painting him into a painful glare. He slapped his glowing wet-paint hand against the stabilized chest plate.
+
+The mark smeared across black script in a bright ribbon of white and amber.
+
+[Pigmented Annotation applied.]
+
+[Marked Section: Chest Hardcover]
+
+[Editorial Seam exposed.]
+
+“There,” Zara snapped. “Burst.”
+
+Ren’s cut landed first, exact and clean.
+
+[-1,284 HP]
+
+Vami followed with four cuts, each one brighter than the last.
+
+[-699 HP]
+
+[-742 HP]
+
+Zherdev arrived late, shouted something about literary vandalism, and slammed his greatsword into the paint.
+
+[Critical Hit! -3,644 HP]
+
+Jax, pinned to his anchor line, stretched as far as he could and clipped the edge of the marked plate.
+
+[-1,214 HP]
+
+Zara fired a compact frost lance that struck the exposed seam and spread ice into the black letters.
+
+[Critical Hit! -2,997 HP]
+
+Finn’s arrow punched into the same seam.
+
+[Critical Hit! -1,106 HP]
+
+Kage stepped in last.
+
+[Clean Strike.]
+
+[Convergence +2]
+
+[Convergence: 35 / 100 | State: Focused]
+
+The state change clicked through him.
+
+His body felt fractionally more aligned. The sword line in the air gained a pale edge, a suggestion of possible meaning. The system had stopped whispering numbers and started drawing invitations.
+
+Mumyo carved through the pigment seam.
+
+[-1,034 HP]
+
+The mark flashed. Then it peeled away from the plate in glowing droplets and dissolved before they hit the floor.
+
+[Pigmented Annotation expired.]
+
+The chest slab resumed its dead black density. The next hit from Vami dropped to garbage.
+
+[-512 HP]
+
+“Seven seconds,” Zara said. “We have seven-second damage windows, tied to Canvas anchor uptime and Rare paint application.”
+
+The Curator swept his brush in a wide crescent. The five Hardcover plates shifted with the motion, trying to drag the Canvas anchors off their lines. Lily slid three inches, caught herself, and pressed her marked hand harder into the red stroke.
+
+Finn’s breath hitched. “I can hold. I can hold.”
+
+His hawk dove at a loose folio and shredded it midair. The paper screamed in a dry little tear.
+
+[Rejected Folio defeated.]
+
+Jax braced his legs and grunted. “This line pulls.”
+
+“Because your slab is moving,” Zara said. “Match pressure. Push into the line when the plate rotates clockwise.”
+
+Jax pushed right. The shoulder plate stabilized again.
+
+The raid could execute it. Slowly.
+
+The boss had 600,000 HP when phase started. Their best window had shaved a little over thirty thousand under ideal conditions. The next windows would come with more pressure, less healer mana, more mistakes, and Zherdev’s cape trying to murder. Probably.
+
+A workable strat with an ugly timer. Kage preferred ugly strats that he could make unfair.
+
+“Repeat chest,” he said. “Val holds. Vami paints, Ren refreshes if it flickers. Zherdev, save big swing for paint.”
+
+The next rotation went cleaner. Valdrias held the chest line. Julie sketched a short angled brace behind him, crisp black geometry reinforcing his stance. Lily kept a healing thread on Val and Finn. Zara timed frost for the seam. Ren delayed his paint until Vami’s first mark reached its last second and refreshed it with a controlled palm press.
+
+[Pigment Saturation increased.]
+
+[Marked Section Duration refreshed.]
+
+They extended the window to eleven seconds.
+
+The Curator’s HP dropped again.
+
+[The Curator - Lvl 40]
+
+[HP: 566,482 / 800,000]
+
+Then the chest plate snapped shut.
+
+A black ripple flowed through the other four slabs, and all current pigment evaporated. The red lines pulled. Finn yelped. His fingers tore off the line for half a second. The plate tied to him liquefied again and slid across the Curator’s back. A brush-stroke fired from the loose slab, thin and fast. It went toward Lily.
+
+Kage moved.
+
+The new Focused state made the line in the air visible before he decided. Mumyo wanted the intercept. Kage gave it the path.
+
+He stepped across the white floor, caught the incoming black stroke on Mumyo’s flat, and redirected it upward. The force traveled into his wrist and tried to climb his shoulder.
+
+[Perfect Parry.]
+
+[Convergence +7]
+
+[Seeker’s Respite triggered.]
+
+[AWN restored: +33]
+
+[Convergence: 42 / 100 | State: Focused]
+
+The brush-stroke split above Lily’s head and became harmless flecks of ink.
+
+Lily’s eyes widened. “Thanks.”
+
+“Bill Finn,” Kage said.
+
+Finn slapped his hand back onto the red line, face pale. “Sorry. Sorry.”
+
+“Stop apologizing. Push left.”
+
+Finn pushed left. His plate locked.
+
+Kage’s Awen readout drifted into focus as a liquid weight behind his ribs.
+
+[AWN: 854 / 1660]
+
+Enough to try something stupid. He looked at the black slabs.
+
+Hardcover Binding. Armor. Damage reduction through archival protection. The dungeon thinks covers preserve pages. So argue that covers are obsolete.
+
+It was a bad argument, though sometimes bad arguments won if filed through the right office.
+
+Kage lifted his marked hand and spoke before the Curator could begin another cast.
+
+“Hardcover Binding.”
+
+The title landed. The system opened a thin black bracket around the armor.
+
+“Let [Weaken] take this armored [Shape],
+
+Let useless covers split and scrape.”
+
+The rhyme hit. Shape. Scrape. Two keywords. Valid couplet.
+
+The words struck the black slabs.
+
+For a heartbeat, the armor trembled.
+
+Then the Curator turned his blank vellum face toward Kage.
+
+The slabs tightened.
+
+[Verse Rejected.]
+
+[Scope exceeds current authorial capacity.]
+
+[Required Artistry: 240]
+
+[Current Artistry: 138]
+
+[Partial Awen consumed: 50]
+
+[AWN: 804 / 1660]
+
+Kage clicked his tongue.
+
+The Curator’s brush rose. “You mistake stolen ink for authorship.” The brush came down.
+
+Valdrias caught it. His rare tower shield flared so brightly that the white arena gained a hard-edged shadow behind him. The impact drove him to one knee.
+
+[-742 HP]
+
+His health bar crashed into the lower third.
+
+[Reactive Vial condition met.]
+
+[Sacred Mend: +438 HP]
+
+[Tender Weave: Restoration Spike +612 HP]
+
+Valdrias rose, breathing through clenched teeth.
+
+Kage stared at the system rejection.
+
+Too large. Too abstract. Phase-wide negation asks the game to rewrite the boss. Dumb.
+
+Rare marks were accepted by the dungeon. The mark existed. The boss cleared it after seven seconds because the mark had duration. He had asked to delete the armor.
+
+He needed to ask for less.
+
+Do not remove the cover. Keep the note on the cover.
+
+A smaller lie. A better lie. The kind the system liked. Kage opened his inventory with a flick of his fingers. Panels unfolded beside his vision, half-transparent over the white arena. Common ink. Uncommon ink. Rare commercial ink.
+
+Then the five raid inks.
+
+Abyssal Draft-Sepia. Cinderscript. Aerodraft Vermilion. Sun-Stamped Gold. Hollow Lyric.
+
+His gaze settled on Cinderscript.
+
+[Ink: Cinderscript]
+
+[Quality: Rare]
+
+[Volume: 1 Use]
+
+[Effect: Volcanic Syntax]
+
+[Increases the overall potency of Written Verses by 35%. Verses interacting with heat, destruction, earth, or unyielding barriers apply a stacking Ethereal Burn that damages target integrity over time.]
+
+[Description: Drafted from the core of the Magmascript Caesura. This ink is hot to the touch and smells of burning parchment. It does not dry; it cools, locking words into reality with the finality of hardening stone. It cannot be easily crossed out.]
+
+Unyielding barriers. Perfect.
+
+“Kage?” Lily called.
+
+He realized he had stopped moving for half a second.
+
+“Stall,” he said. “I need one painted plate and ten seconds.”
+
+Zara’s expression sharpened. “Specific target?”
+
+“Chest plate. Val holds. Vami paints. Ren refreshes. Zherdev blocks adds by existing near them.”
+
+“Bro, I can do that,” Zherdev said.
+
+Vami’s Lux surged. “Going high.”
+
+He dashed in, used the Curator’s brush shaft as a launch point, and slapped his glowing hand across the chest plate again.
+
+[Marked Section: Chest Hardcover]
+
+Ren stepped in behind him, blade held low, body balanced exactly outside the Curator’s retaliation range. “I can refresh once.”
+
+“Do it at two seconds,” Kage said.
+
+Kage equipped the ink.
+
+[Ink Equipped: Cinderscript]
+
+[First Maker’s Quill: Automatic Coating enabled.]
+
+Heat crawled into his right hand.
+
+The First Maker’s Quill appeared between his fingers, dormant and plain until the Cinderscript touched it. Then the nib glowed with a dull coal-red light. The ink gathered at the tip, thick and dark, its edges glowing like paper left too close to a stove.
+
+The smell hit him next. Scorched book glue. Dry ash caught in the back of the throat.
+
+A small rectangle of vellum unfolded in the air in front of him. The raid blurred around its edges. The Curator raised his brush, noticing the quill.
+
+“Stolen implement,” the Curator said.
+
+Kage set the nib to the vellum.
+
+“Borrowed,” he said. “With terrible customer service.”
+
+The Curator thrust the brush toward him.
+
+Valdrias moved first. His shield slammed into the shaft and forced the angle wide. The blow still released a burst of black commas that spiraled around the shield toward Kage.
+
+Jax abandoned three feet of comfort on his anchor line and cleaved two commas out of the air.
+
+Zara froze the rest.
+
+“Write faster,” she snapped.
+
+Title first.
+
+Pigment Locked in Cover
+
+The Cinderscript letters cooled as soon as they formed, each stroke hardening from red-black liquid into dark glass. The vellum sagged under their weight.
+
+[Bind] had weight. [Memory] had danger.
+
+The word [Memory] in his Lexicon glowed gold even when he only thought of it. Low resonance. Two percent. A shiny button labeled press me if you enjoy consequences.
+
+This dungeon was made of discarded drafts. Paper remembered edits. Covers preserved pages. Pigment marked a seam. Cinderscript locked words into hardening stone.
+
+Truth enough.
+
+He wrote the first line.
+
+[Bind] wet color to this place,
+
+Awen pulled from his chest.
+
+The Curator’s brush scraped along Valdrias’s shield, trying to angle around. Julie threw a Sketch barricade between the bristles and Kage. It formed as three precise black planes and cracked instantly under pressure.
+
+[Sketch Construct: Intercept Plane]
+
+[Durability: 0 / 6,400]
+
+The plane shattered into ruler-straight fragments.
+
+Kage kept writing.
+
+Ren’s hand touched the fading pigment at the two-second mark.
+
+[Pigment Saturation increased.]
+
+[Marked Section Duration refreshed.]
+
+The chest mark flared again.
+
+Kage wrote the second line.
+
+Let [Memory] keep the painted trace.
+
+The rhyme snapped shut. The Cinderscript sank through the vellum and dropped as molten letters onto the white floor. They raced toward the chest plate, trailing thin lines of ember-dark script.
+
+The Curator struck the writing with his brush.
+
+Kage felt the impact through the quill. The Sash of the Held Margin tightened around his waist.
+
+[Unflinching Verse Triggered.]
+
+[Held Margin activated.]
+
+The shock still punched through his ribs.
+
+[-219 HP]
+
+His hand shook. The final letter stayed intact.
+
+The molten couplet reached the chest plate and wrapped around the glowing pigment. For a second, the mark tried to peel away as usual. The Cinderscript caught it.
+
+The liquid paint flattened. Hardened. Burned into the black cover as a permanent line of red-orange annotation.
+
+[Awen Cost: 188]
+
+[Ink Consumed: Cinderscript x1]
+
+[Verse Accepted. Truth Factor: High.]
+
+[Contextual Truth established: A bound page preserves the annotation it remembers.]
+
+[Volcanic Syntax applied.]
+
+[Hardcover Plate modified: Pigmented Annotation converted to Persistent Annotation.]
+
+[Ethereal Burn applied to target integrity.]
+
+[Chest Hardcover: Editorial Seam exposed.]
+
+[Duration: Persistent.]
+
+[AWN: 616 / 1660]
+
+The mark stayed.
+
+Vami, already retreating from a brush swipe, twisted mid-step and stared. “Oh.”
+
+Zara’s voice sharpened into command. “Chest is permanently open. All damage into chest. Do not split.”
+
+Jax released his anchor only as far as the line allowed and started hammering the exposed plate. Zara moved into a better angle and fed frost lances into the Cinderscript seam. Finn’s arrows landed with a steadier rhythm now that the target stayed marked. Lily kept one hand on her Canvas line and healed with the other, face tight but controlled.
+
+Zherdev lumbered forward, cape streaming purple and orange behind him, sword raised overhead.
+
+He hit the chest plate.
+
+[Critical Hit! -8,911 HP]
+
+The Ethereal Burn stacked.
+
+[Ethereal Burn (Stack 1/5)]
+
+[Target Integrity damaged: -1,200 HP]
+
+Zherdev froze. “Was that good?”
+
+“Yes,” Kage said.
+
+The Curator recoiled for the first time in phase two.
+
+The Persistent Annotation carved an ugly glowing wound through his perfect black cover. The slab over his chest cracked, not enough to break, enough to expose layered script beneath. Pages fluttered inside him with frantic motion.
+
+[The Curator - Lvl 40]
+
+[HP: 548,706 / 800,000]
+
+The boss lifted his brush. New words wrote themselves overhead, faster now.
+
+The unauthorized note shall be scraped clean.
+
+The Cinderscript line had cooled into the plate, an annotation the cover remembered. The Curator could target it, maybe reduce it. The status panel still said persistent.
+
+“Keep hitting. If he spends casts trying to erase it, we win tempo.”
+
+The Curator dragged his brush across the chest plate, bristles scraping at the Cinderscript mark. The mark dimmed.
+
+Then the Ethereal Burn flared.
+
+[Persistent Annotation resisted removal.]
+
+[Ethereal Burn (Stack 2/5)]
+
+[Target Integrity damaged: -1,200 HP]
+
+“Good,” Kage said.
+
+The raid settled into the new pattern. Every mechanic still mattered. The chest plate needed Valdrias’s line stabilized, because when his hand slipped for even a fraction, the exposed seam blurred and damage dipped.
+
+The fight had become less stupid.
+
+Kage could work with less stupid.
+
+He cut down a Rejected Folio sliding toward Julie’s ankle. Mumyo passed through the paper fold, no drag, no mercy.
+
+[Clean Strike.]
+
+[Convergence +2]
+
+[Convergence: 44 / 100 | State: Focused]
+
+A pale sword-line hung in the air after the cut. For the first time, he saw the line as more than a guide. It looked like a stroke of calligraphy made with steel.
+
+The thought snagged.
+
+Kage glanced at the combat log.
+
+[Volcanic Syntax: Increases the overall potency of Written Verses by 35%.]
+
+The Wordless Strike tree. The flagship line he'd read numerous times and barely tested. The premise sitting at the top of it, the sentence the whole subclass was built on.
+
+The sword is a writing instrument.
+
+His pulse did something he'd have labeled, once. He checked the data, found it didn't fit, and refused to name it anything else right now because the answer was too large.
+
+The quill took the ink and gave his written verses thirty-five percent.
+
+If the system treated the blade the same way the tree said it did, then the ink shouldn't care which instrument he wrote with.

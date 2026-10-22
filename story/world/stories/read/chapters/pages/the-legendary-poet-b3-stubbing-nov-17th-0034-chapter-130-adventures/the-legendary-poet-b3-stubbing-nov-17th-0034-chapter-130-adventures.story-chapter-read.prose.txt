@@ -1,0 +1,267 @@
+"Magnum Opus," Zherdev whispered again.
+
+Jax pinched the bridge of his nose. "We haven't even—"
+
+"I will pay," Zherdev said. "Whatever the second-highest bidder offers, plus twenty percent. In cash. Real cash. Outside the game. Right now. I have an app for this."
+
+"Zherdev. Buddy." Vami was grinning behind his collar. "Nobody is gonna outbid you on the named legendary that has the word opus in it. Read the room."
+
+"I'm reading the room. The room agrees with me."
+
+"The room does agree with you," Julie said mildly. She had her arms folded, weight on one hip, healer's posture for a fight that wasn't going to happen. "Pull it up. Let's see what we're actually splitting."
+
+Zherdev did not need to be asked twice. He swiped at the floating roster, fingers shaking with restrained ecstasy, and the [Magnum Opus, First Edition] line unfolded across the chamber.
+
+Kage skimmed the panel sideways while the rest of the party gawked. He registered the key lines without absorbing the rest. Two-handed greatsword. No level requirement. No stat requirement. Plus thirty Artistry baseline. Burst-trail aesthetic that probably visible from low orbit. He almost laughed.
+
+"NO. REQUIREMENT." Zherdev's voice cracked. "I can use it RIGHT NOW. Guys. Right now. This sword. Today. Tonight."
+
+"Equip it before someone changes their mind," Zara said, without looking up from her own panel. "We accept your offer of please for the love of god take it."
+
+Zherdev didn't wait. He swept the line into his loadout, the air around him chimed, and the gigantic sparking greatsword on his back was replaced by a longer, blacker, gold-veined thing that looked like someone had taken a tombstone and given it a grip. Of course it glowed. The hilt was wrapped in what might genuinely be a scrap of vellum.
+
+"I love it," Zherdev said reverently.
+
+Kage was already looking past him at the second orange line.
+
+[Gloves of the Final Draft]
+
+He tapped it before anyone else moved. The panel ballooned wide enough to be polite, projecting outward so the whole party could read along, because at this point sharing the math was faster than negotiating.
+
+[Gloves of the Final Draft]
+
+Quality: Legendary
+
+Type: Cloth/Leather Hybrid Gloves
+
+Armor: +24
+
+Artistry (ART): +30
+
+Agility (AGI): +30
+
+Requirement: Level 30
+
+Special Effects:
+
+[Indelible]: Damage you deal cannot be reduced by buffs, shields, or mitigation effects applied to the target after the strike connects. Once written, a hit cannot be unwritten.
+
+[The Last Word]: When you land a killing blow, your next attack within 6 seconds inherits 30% of the killing blow's base damage as additional Ethereal damage.
+
+[No Revisions]: Once every 45 seconds, your next physical action cannot be parried, blocked, or interrupted.
+
+Description: Worn by no one. Drafted and shelved. The hands that would have held them never reached the page. Now they wait for the one who finishes what others left undone.
+
+Silence around the panel.
+
+"Oh," Zara said.
+
+"That third one," Vami said, very quietly, like he didn't want to startle the item, "is the kind of mechanic that ruins PvP forums."
+
+"Level thirty," Finn said, and there it was - flatness, a small exhale of disappointment. "Everything's level thirty, isn't it."
+
+He swiped the rest of the roster open. The party leaned in.
+
+Every item, top to bottom, save Zherdev's: Requirement: Level 30.
+
+Jax groaned at the ceiling. "Of course. Of course it's a wall. We clear the first Legacy raid in the world and the reward is go grind, peasants."
+
+"It's not unreasonable," Julie said. "We're a tier below the gear. The dungeon was at our throat the whole time, the loot pays out at the next breakpoint. It's just MMO physics."
+
+"It's annoying MMO physics," Jax said.
+
+"It's aspirational," Zherdev corrected, polishing his hilt with a thumb. "Drives engagement."
+
+"I will end you."
+
+Kage let them argue and ran his own ledger. Every item in the roster, regardless of slot, carried a base +Artistry roll on top of its primary stats. Even the [Greaves of the Gilded Frame], a tank piece sitting at Rare, had a +6 ART tucked in beside the stamina. The dungeon had stamped its theme onto every reward. Artistry isn't a niche stat anymore, Kage thought. Every player who clears this place walks out with a little more of the world's hidden text legible to them. Morpheus is seeding the entire economy with art-readers. He filed that next to the other unsettling things Morpheus had done today.
+
+"Alright," Zara said, taking command. "Distribution. We've all done this dance. Magnum Opus to Zherdev, obviously. Final Draft Gloves - Kage. No argument."
+
+"Agreed," Vami said, before Kage could open his mouth. "The gloves are general-purpose, every one of those passives leans toward whoever's doing the most precise mechanical work in a fight. That's him. Stop pretending it isn't."
+
+Kage swept the gloves into his inventory without commentary. They settled into his bag at a weight his Synesthesia rendered as a thin, satisfying click, like a manuscript clipped into a binder. He'd wear them in two levels. Two levels and the Shroud waiting underneath them. Level thirty was becoming a serious spike.
+
+The rest of the roster moved fast after that, because Zara ran it and the only person who could have made it slower was Zherdev, who was busy whispering compliments to his sword.
+
+The [Chiaroscuro Half-Cloak]—light armor with crit damage and stealth bonuses—went to Vami, whose entire kit was already an argument for it. The [Fresco-Saint's Aegis], a tower shield that grew a small painted angel above the wielder when blocking critical hits, went to Valdrias, who accepted it with wordless gravity. The [Diadem of the Patient Restorer]—Epic healing piece with a passive that banked overheals into a held shield—Julie and Lily looked at each other for half a second before Julie nodded. "Lily's main-spec is direct healing. Mine scales off you all. She gets more out of it." Lily accepted with both hands.
+
+The [Conductor's Baton, Winter Movement] went to Zara, because the icon was literally a frost focus and the stat block was a love letter to her rotation. The [Vellum-Strung Recurve] went to Finn, who actually smiled at his own panel for the first time Kage had seen all session. The [Scabbard of the Unsigned Duelist] went to Ren, after Jax had pointedly cleared his throat and Ren had refused twice and Jax had said we all watched you carry the second wing, take the sword sheath, weirdo. The [Greaves of the Gilded Frame] went to Jax himself. The [Perfectly Adequate Paintbrush] got a long, ceremonial pause.
+
+"Whose is the brush," Zara said.
+
+Nobody moved.
+
+"Vendor it," Vami said.
+
+"It's the dungeon's parting joke," Lily said warmly. "Someone should keep it."
+
+A beat. Then Julie reached over and plucked it from the roster without ceremony. "I'm keeping this," she said. "I feel less scammed this way."
+
+"Alright," Zara said. "We're good. Everyone got something. Everyone hates that they have to wait levels before any of it matters. Welcome to MMOs."
+
+Jax muttered something about Zherdev's lack of suffering. Zherdev pretended not to hear over the sound of his own sword glowing.
+
+Kage stepped back from the chest while the rest of them traded compliments and complaints about their respective panels. He had bigger problems.
+
+He turned, slowly, until the column was directly above him.
+
+The wisp was still rising off the dungeon, broad and continuous, the silver-grey of it tasting faintly of cold paper at the back of his molars. Conceptual Material. No defeated creature. No corpse to harvest from. No skinning prompt, no inspect cursor, no UI handle at all.
+
+He reached into his tool slot and brought out the First Maker's Quill.
+
+Three things happened at once.
+
+His Synesthesia tightened, the way air pressure tightens before a storm. The wisp above him bent, very slightly, as if recognizing something in his hand. And from somewhere across the white expanse, the small pale flame above the closed black book flared once, and steadied, like a candle in a draft.
+
+The Curator is paying attention.
+
+He held the quill up, dormant and quiet in his palm, and after a moment of hesitation he tipped it skyward and nibbed the air, the way a scribe taps a fresh pen against an inkwell to check the flow.
+
+The white floor under his boots stayed perfectly solid. The air stayed perfectly breathable. But everything else moved.
+
+The wisp coiled, the way a slow tornado coils, gathering inward toward a focal point that turned out to be the quill's nib. The column narrowed at the top, fed itself downward, and the air pressure in the chamber dropped just enough that the ten of them looked up as one.
+
+"Uh," Finn said, "what is he—"
+
+The wisp condensed. Sheets of silver-grey light that were not light spiraled inward at no speed in particular, sliding past Kage's face, past his shoulders, past the quill itself, and the room briefly looked like the inside of a slow whirlpool. None of it touched anyone. The party stood in the eye of it, perfectly safe, watching a domain breathe out its own concept.
+
+It took a long time. A minute. Two. Kage held the quill steady, arm at full extension, and let his shoulder burn and the Operator in him resist the urge to count seconds.
+
+The last of the wisp drew down. The chamber stilled. The faint pressure behind his teeth let go.
+
+The quill's nib carried a single bead of something at its tip, dense and silvery and turning slowly on itself, and as he watched it dissolved into his inventory the way ink soaks into vellum.
+
+[Conceptual Material Acquired: [Concept: The Maker's Abandoned Breath]]
+
+[Quality: Mythic]
+
+[Keywords: [Genesis] - [Draft] - [Art] - [Potential]]
+
+Four keywords. Mythic-grade. The Stifled Toll, his only other Conceptual Material, sat in his inventory at Legendary with three. This thing was a rung above it, and the rung was steep.
+
+Genesis. He had [Origin] now, gold and gleaming and one percent, and [Genesis] sat right next to it on the same conceptual shelf, locked away in a Conceptual Material he couldn't actually use for anything because—
+
+Two Conceptual Materials and exactly nothing to fuse them into.
+
+Except.
+
+He glanced down at his inventory. The Ink of Origin sat, Mythic, untouched. Mythic ink. Mythic conceptual material.
+
+The Artist in him said, in a small interested voice, Oh.
+
+Later. Lots of laters today.
+
+He pocketed the quill. The flame above the black book steadied, then dimmed, but did not go out. The Curator was watching, was answerable to him, and was right there waiting for questions.
+
+Kage glanced sideways at his party, who had finished sorting their gear and were now openly staring at him.
+
+"What," Jax said, "was that."
+
+"Harvesting," Kage said. "It worked."
+
+"Yeah, no, I caught the worked part. What was it."
+
+Kage thought about the truthful answer, which was: a Mythic conceptual material distilled out of an entire abandoned realm, the first of its kind I have ever seen, currently sitting in my pouch alongside a vial of Mythic ink and a sword and a quill, which together feel like three sides of an equation I haven't been allowed to see.
+
+"A reagent," he said. "Crafting thing."
+
+Vami snorted, low. "Sure."
+
+"It's been a long session," Kage said, and that was the truest thing he'd said in an hour.
+
+He looked across the chamber at the Desk he hadn't touched yet, and at the black book that had once been the Curator, with its small patient candle. Two pieces of business he would not, absolutely would not, conduct in front of nine other players.
+
+Tomorrow, he thought. Both of them. Tomorrow.
+
+Behind the party, soundlessly, a portal had opened.
+
+It was a clean rectangle of soft golden light cut into the white air, the kind of polite, unambiguous exit that game design used when it wanted everyone to understand they were not trapped. None of them had triggered it. The dungeon had simply unlocked its own door.
+
+"Oh thank god," Finn breathed.
+
+Lily checked her clock and made a small, theatrical face. "Guys. We've been in here seven hours."
+
+"What?" Jax said.
+
+The number landed inside Kage's chest with a soft, surprised thud.
+
+Since the Songstone.
+
+He hadn't pulled a session this long for a long while. The adrenaline had carried him through the Ruins, through the wings, through the duel, through the Echo, through all of this, and now that the Operator had unclenched its jaw for thirty consecutive seconds his body was sending up the receipts. His shoulders were lead. His eyes felt like they had been scraped. There was a low, fine vibration in his hands that he recognized intimately and dispassionately as the come-down from too much focus held for too long.
+
+Ren stood at the portal’s edge with one hand near the new scabbard at his hip, jaw set hard enough to show. He looked back across the white chamber.
+
+“Klaid—”
+
+The name hit the room like a dropped glass.
+
+Finn blinked. Jax turned half around from inside the golden threshold. Zara’s eyes narrowed with immediate, vicious clarity. Even Zherdev looked between them like he had walked into the middle of a board meeting without pants.
+
+Kage felt his spine lock.
+
+Ren seemed to realize he’d said it a fraction late. Lily moved before anyone else could. She caught Ren lightly by the wrist.
+
+“Not now, Ren.”
+
+Her voice stayed gentle. Firm underneath.
+
+A beat held. Seven hours of combat, one legacy raid, one name hanging in the air like a blade that hadn’t fallen yet.
+
+Ren exhaled through his nose. “...Right.”
+
+He dipped his head once toward Kage. Respect. Apology. Warning? No, something else, something closer to resentment, but not exactly directed at him. Then Lily tugged him through the portal, and the chamber went quiet again.
+
+"Yeah," Vami suddenly said, breaking the silence. He stretched, the white leather of his armor catching no particular light in this empty chamber. "I'm out. Julie?"
+
+"Out," Julie agreed. She put a hand on Vami's elbow with the casual proprietary gesture of someone confirming a person was still in working order. "We've got a thing tomorrow."
+
+"We do not have a thing tomorrow."
+
+"We have a thing tomorrow. You agreed to it on Friday."
+
+"I have no memory of—"
+
+"That's the thing we have tomorrow."
+
+Vami's response was an aggrieved sigh that the rest of the party laughed at.
+
+Jax cracked his neck both directions and stalked toward the portal. "Logging out. My back hurts. My real back." He paused at the threshold. "Good run, all of you. Even you, Zherdev."
+
+"I absolutely obliterated this dungeon, thank you very much."
+
+Finn followed him through; Zara left without ceremony. Julie tugged Vami by the elbow and vanished. Zherdev lingered the longest, polishing his new greatsword and explaining to no one in particular how he intended to walk through Korros with it in twenty minutes.
+
+Kage stood alone with a black book, a closed wooden desk, and a column of nothing where a wisp used to be.
+
+One last thing. Before he could rest, one last problem.
+
+How do I get back in.
+
+He swept his inventory: no key, no scrap of parchment marked with the dungeon's name. No new tooltip. He opened his skill panel and scrolled, expecting nothing, and found something at the bottom of the page that had not been there an hour ago.
+
+[Skill Acquired: Return to Domain - The Shifting Galleries]
+
+[Type: Owner's Privilege]
+
+[Cooldown: 24 hours]
+
+[Description: As Owner of a Sealed Domain, you may return to its control room from any location in the world.]
+
+A one-day-cooldown teleport back to not only the dungeon, but also to Korros, from anywhere on the map, dressed up as a dungeon-key. He felt the Operator wake up and write that down with both hands. Free fast-travel to a major, important city on the continent, on a tap, from a road, a forest, a goblin cave, a sand dune. The skill paid for itself before he'd run it once.
+
+He looked, finally, at the book.
+
+The pale flame above it had not moved. The Curator wasn't going anywhere. He was a book now, and he was bound to the core of this domain, and the domain was his. Kage's. Mine, he thought, testing the word internally and not enjoying how comfortably it sat.
+
+"Tomorrow," he told the flame. He sent the logout command, and there was a newfound comfort in knowing the inventory would keep, that the gloves would still be there in the morning unequipped and waiting, the Ink untested, the desk untouched, the Curator patient in the specific way of things literally bound to the root of a domain and going nowhere. That tomorrow he could pull up his quest log, find it full again, and follow whatever thread it handed him somewhere new. That there would be more. More doors. More nights exactly like this one, only different.
+
+Adventures, he thought. The word arrived alone, nothing analytical attached.
+
+The Operator noted it. Filed it under things to examine when there was something left to examine with.
+
+There wasn't.
+
+Kage fell asleep with the thought still where he'd dropped it: unexamined, intact, and, against every habit he had, comfortable there.
+
+Sleep took him.

@@ -1,0 +1,193 @@
+The key led them left.
+
+Or, more accurately, the key thumped harder when Zherdev pointed it left, which Finn interpreted as "left," which made Zara walk left, which meant the rest followed because not walking meant standing still and looking like tourists.
+
+"That way," Zherdev confirmed, with confidence, and Kage doubted whether the guy had ever actually needed to read a map in his life.
+
+"You're guessing," Zara said.
+
+"I'm intuiting."
+
+"Those are the same thing."
+
+Vami’s eyes sharpened. “Hot and cold.”
+
+“Finally,” Jax said. “A mechanic designed for idiots.”
+
+Zherdev looked offended. “I paid for this mechanic.”
+
+Kage walked at the back of the column and watched the key over Zherdev's shoulder. The pulses were irregular but the pattern was clear enough: stronger toward the forge lane, weaker toward the dye district. Process of elimination. The kind of navigation that didn't require intuition so much as basic attention, which Zherdev had apparently managed to locate by accident.
+
+They moved through the forge district at a reasonable pace. The Artisan's Quarter had a different kind of crowd than the Golden Plaza. People here walked with purpose and looked annoyed when interrupted. Smiths, apprentices, material merchants arguing over grain rates on alloy stock.
+
+Kage found it tolerable.
+
+Jax muscled through the crowd in a way that opened a lane without needing to ask twice. Vami moved like he was threading a combat zone, each step precisely placed, never touching anyone. Finn apologized to three separate people for simply existing in their general direction.
+
+The key thumped. Thumped. Then slowed.
+
+Zherdev frowned at it.
+
+The pulses had dropped from urgent to lazy. One beat every few seconds, almost disinterested.
+
+"Did the entrance move?" Finn asked.
+
+That was the correct question.
+
+Kage had been thinking the same thing. Of course it didn't sit still. Whoever designed this had made it deliberately difficult to pin down. The entrance wasn't waiting for them.
+
+"It moved," he said.
+
+"Can it do that?" Valdrias asked.
+
+"It just did. And it was supposed to."
+
+Zara turned on her heel and started walking back the way they came, eyes already calculating. "Grid it. Two sweeps, meet in the center."
+
+"Splitting up is terrible," Finn said.
+
+"Splitting up is efficient."
+
+"Those aren't the same thing either."
+
+Kage cut across both of them. "Stay together. Zherdev, hold the key out and stop trying to predict it. Just follow the beat."
+
+Zherdev straightened. "Right. Yeah." He extended the key like a dowsing rod, and the group fell in behind him.
+
+It became a chase within five minutes.
+
+The key picked up speed toward the textile row, so they went there. Then it slowed. They doubled back toward the glass-blowers' lane, where the air carried scorched silica and the pavement shimmered with residual heat. Glassworkers had arranged floating panes outside their windows to catch lamplight and scatter it across the street in moving cuts of blue and gold. Stronger. Then it veered south toward the pigment district. The Pigment Row fumes hit before they rounded the corner, sharp mineral dye and something that smelled like burnt grass, and Zherdev sneezed so hard the key nearly left his hand.
+
+"Sorry," he said to no one in particular.
+
+They kept moving.
+
+At one point Jax tried to shortcut through a sculptor's private yard and got argued out of it in thirty seconds by an NPC with a mallet and a vendetta. Valdrias offered to apologize on his behalf, which somehow made it worse. They went around.
+
+Kage kept his pace steady through all of it. The group had settled into a functional rhythm without discussion. Zherdev at the front with the key. Finn watching overhead angles out of habit. Ren keeping precise distance from anyone he walked near. Vami utterly silent at Kage's left shoulder, which was more disconcerting than if he'd been talking. The man moved like he was mapping the ambush points in advance.
+
+They were passing through a narrow lane between a leather workshop and a sign-painter's stall, surrounding players' conversation overlapping the ambient noise.
+
+"—have you seen the vid?"
+
+"Huh? Which one?"
+
+"Remember the annou—"
+
+They rounded the corner and the crowd swallowed them as the key went quiet again. This time for longer.
+
+Zherdev turned in a slow circle, and the pulses stayed even and distant in every direction. The group clustered around him.
+
+"Map," Kage said.
+
+Finn had one pulled up before anyone else. His Pathfinder class loaded the painted overlay across his vision and he angled it outward so the adjacent players could see. The Vista Guild sold art, not engineering schematics. The streets curved instead of running parallel. Some labels floated in the wrong positions. Evocative rather than precise.
+
+But Kage could read the terrain from what they'd already covered.
+
+Forge district. Textile row. Glass-blowers. We skipped the western section.
+
+He pointed. "That way." No justification given. The group moved.
+
+He pulled up his interface while they walked. He'd been meaning to do it for twenty minutes and the walk gave him a clean window.
+
+Title 2. Patron of the Songstone.
+
+The title had earned its slot. Past tense. In a city full of artists and cultural NPCs, the social effect had genuine value. Inside a dungeon it would do exactly nothing. He scrolled to The Error in the Math and swapped.
+
+[Title Equipped: The Error in the Math]
+
+Effect 1 [Fear Factor]: Mobs lower than your level will now actively avoid aggroing you unless provoked.
+
+Effect 2 [Giant Slayer's Algorithm]: Reduces the hidden Level Suppression damage penalty by 15% when fighting enemies higher level than you.
+
+Effect 3 [The Many]: When facing 5 or more active hostiles, gain +10% Movement Speed, +10% Damage Mitigation, and +10% Damage Multiplier.
+
+The passive interactions mattered more than the sheet reflected. Giant Slayer's Algorithm alone would compound the moment the dungeon's enemies started outleveling him, which they probably would. The Shifting Galleries was built for groups. The level ceiling would not be generous.
+
+Appropriate name, he thought. He closed the panel.
+
+Zherdev's key went absolutely berserk.
+
+One moment it was tapping its lazy heartbeat against his palm, and then without warning it hammered. Rapid, continuous, frantic, like something trying to knock down a door from the inside.
+
+Zherdev yelped and almost dropped it. "HERE! Here, it's HERE!"
+
+The group stopped.
+
+They were standing in a section of the Artisan’s Quarter Kage hadn’t passed through on any previous route through Korros. Wide enough for three people abreast, paved in the quarter’s characteristic rough stone, lit by Luma-Orbs drifting in pale gold.
+
+And covered in paintings. Literally covered.
+
+They lined every surface. Stacked against the outer walls four and five frames deep. Hung from wire strung between upper-story hooks at varying heights, swaying slightly in the evening air. Propped on wooden easels arranged in dense rows that crowded the lane down to a narrow footpath between them. Some leaned against each other at angles. Some were enormous, as tall as a standing man, and some were small enough to hold in a palm.
+
+Landscapes. Portraits of nobles, saints, dead kings, rich merchants, and one extremely smug dog in ceremonial armor. Abstract compositions in dense color that caught the Luma-Orb light and threw it back changed. Storm-grey seas. A market scene painted in tight strokes, faces blurry but posture vivid. A charcoal sketch framed in gilt showing the Spire of the Muse from below, its tower twisting up until it vanished off the paper’s edge. An oil painting of a forest floor, every mushroom rendered with obsessive detail. A harbor at dawn. A figure standing in a field with no face. A painting of a painting inside a painting.
+
+Kage had walked through Korros a few times by now. He had been through the Artisan’s Quarter specifically. He had not seen this lane before. He wasn’t certain it had existed before.
+
+The key didn’t stop. It hammered against Zherdev’s palm in rapid, excited beats.
+
+“Well,” Jax said, surveying the mass of frames and canvases and wire and wooden struts running further than the lane had any geographical right to extend. “Which one?”
+
+Nobody answered immediately.
+
+Three hundred paintings at minimum within arm’s reach in any direction. Possibly more. The lane stretched.
+
+Lily drifted toward the nearest easel, then stopped. She turned in a slow circle instead, looking at the arrangement. “There’s no signage. Nothing labeled.”
+
+“Dungeon entrances do not typically announce themselves,” Ren said.
+
+“Why are they all just here?” Finn was scanning overhead out of reflex. “Whose are these?”
+
+No one answered, because no one knew.
+
+Zara crossed her arms. Her eyes moved in the methodical sweep Kage had learned to recognize as active analysis. “If it’s in here, there’s a tell. There’s always a tell. What properties would a portal-entry painting have that a regular painting wouldn’t?”
+
+Valdrias considered this with visible effort. “It would be… bigger?”
+
+“Not necessarily.”
+
+“Shinier?”
+
+“Also not necessarily.”
+
+“Scarier?”
+
+Zara looked at the ceiling.
+
+Kage stepped forward into the lane.
+
+The Luma-Orbs swayed. Paintings shifted on their wires. The key in Zherdev’s hand kept hammering its frantic rhythm, no longer pointing direction because direction had collapsed into everywhere at once.
+
+Three hundred paintings. One door.
+
+He moved through the rows without urgency. No rush in it, no snagging on individual frames. The same stillness he’d learned to bring to a sparring floor, the kind that stopped the eyes from chasing motion and let the pattern surface on its own terms.
+
+He was looking for something that looked back.
+
+As he walked deeper the paintings changed. A portrait whose subject’s face had been painted three times, each expression layered over the last so the smile and grief occupied the same mouth. A seascape where the waves curled upward into hands. A banquet scene missing every guest except the shadows beneath their chairs. A full-body painting of a knight with the head scraped away down to raw canvas. The air smelled of linseed oil, dry dust, and old wood warmed all day by the sun.
+
+His gaze passed a harbor painting. A portrait of a stern-faced woman in blue. An abstract sweep of red and black that might have been a battlefield or might have been nothing. A small canvas showing a doorway painted from the inside, looking out into a garden.
+
+He stopped.
+
+Backed up one step.
+
+Looked at the doorway painting again.
+
+The garden on the other side of the painted threshold had a light source that didn’t match the angle of the painted sun above it. The shadows fell wrong. The painted grass moved—barely, just at the edge of visible motion—a single blade bending in a wind that didn’t exist in the painting next to it.
+
+And then the rest of the lane began to move with it. Just enough that once you noticed one thing, you couldn’t stop seeing the others.
+
+In the storm-grey sea a crest of foam trembled and slid sideways. One of the empty-chair shadows in the banquet lengthened by a careful inch. The faceless knight’s scraped canvas drank a little more lamplight, the raw edge darkening as if something behind the paint had stepped closer. The three-faced portrait’s middle smile twitched, the barest curl at one corner.
+
+Every painted eye in the lane seemed to follow the group now.
+
+The key in Zherdev’s hand hit its fastest rhythm yet.
+
+Kage didn’t point at the doorway immediately. He stood still and watched the grass move again, one slow bend, one slow return, patient and hidden and waiting for someone to notice it had been there the whole time.
+
+Behind him the lane had gone quiet. Korros still breathed somewhere beyond the walls, faint hammers, distant conversation, but here the sound dulled like someone had shut a door over the whole street.
+
+Kage’s hand settled on Mumyo’s hilt. The weightless shortsword pulsed once against his palm.
+
+“Found it,” he said.

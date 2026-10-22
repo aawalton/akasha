@@ -1,0 +1,223 @@
+The idea wanted testing, and Kage had stopped trusting ideas that only lived in his head.
+
+He pulled the inventory panel back up with a flick. Cinderscript sat near the front, one vial of dark molten weight, the last he'd carried out of the fire wing. He'd planned to hoard it for another emergency couplet. The Operator in him filed a quiet objection about spending a rare reagent on a hunch.
+
+The Prodigy had already opened the vial.
+
+The sword is a writing instrument. The quill took ink and paid him thirty-five percent. The tree said the blade was the same kind of pen.
+
+He tipped the vial over Mumyo.
+
+The Cinderscript poured along the spine like blood that had decided to glow. It found the crimson vein already running the steel, the weapon's own heartbeat, and the two reds met and disagreed about which was hotter. The ink ran down the edge in a single unbroken line, gathered at the point, and hung there in a fat dark droplet that refused to fall. Heat crawled up the grip into his palm. The smell came next, scorched book glue and ash held in the back of the throat, the same kiln-after-midnight scent the quill made when it drank.
+
+The system caught up.
+
+[Novel Application Detected.]
+
+[Recognized Implement: Mumyo, The Devoted Shadow.]
+
+[The blade is a writing instrument.]
+
+[Ink Consumed: Cinderscript x1]
+
+[Weapon Coating: Volcanic Syntax]
+
+[Mumyo gains 35% of Physical Damage as extra Fire Damage.]
+
+[Strikes against heat, destruction, earth, or unyielding barriers apply stacking Ethereal Burn.]
+
+[Duration: 2:00]
+
+Kage looked at the panel for exactly as long as it took him to want to laugh, which he did not do, because laughing in the middle of a raid made healers nervous.
+
+The ink didn't care which pen wrote with it.
+
+"Two minutes," he said, mostly to himself, and the empty white air absorbed it. "Don't waste them."
+
+The Curator's brush rose again. New text scrolled overhead.
+
+The covers will be re-sealed. The note will fade.
+
+It dragged the bristles across the chest plate, scraping at the Persistent Annotation, and the Ethereal Burn flared up to spite it.
+
+[Persistent Annotation resisted removal.]
+
+[Ethereal Burn (Stack 3/5)]
+
+Kage stepped in on the open seam.
+
+He cut at the cooled red wound in the cover, wrist snapping the blade through a tight angle his arm immediately regretted. Mumyo reverted to steel a hair before contact, and the coated edge bit the exposed script with everything the ink had added.
+
+[Critical Hit! -2,884 HP]
+
+[Ethereal Burn (Stack 4/5)]
+
+[Target Integrity damaged: -1,200 HP]
+
+The number landed in his chest like good news he refused to celebrate.
+
+His previous best cut on that plate had been a thousand. The coating had nearly tripled it, and the Cinderscript synergy treated the Curator's hardcover binding as exactly what the ink description promised. An unyielding barrier. The blade argued with the barrier in the barrier's own language, and the barrier lost.
+
+"Chest stays open," Zara called, already adjusting. "Kage's hitting like a siege engine, so funnel everything there. Vami, refresh paint at two seconds. Val, do not slip."
+
+"I do not slip," Valdrias said, knees bent, shield grinding against the brushstroke he was forcing wide. The line under his boot flashed gray where his charcoal hand held it.
+
+The raid found its tempo and kept it.
+
+Kage worked the seam. Each strike he varied, because the system would hand him nothing for repeating himself inside the ten-second window, and Mumyo made variety cheap. He cut high, then thrust low, then flicked a rising slash through the same wound at an angle his shoulder had to brace against. The weightless blade let him write three different sentences with one hand, and the burning edge stamped each one into the cover.
+
+[Clean Strike.]
+
+[Convergence +2]
+
+[Convergence: 46 / 100]
+
+A folio peeled off the floor toward Finn's heel. Kage caught it on the backswing, no drag, the paper splitting along the burning edge before it finished forming a mouth.
+
+[Clean Strike.]
+
+[Convergence +2]
+
+Vami refreshed the pigment at the two-second mark, his palm slapping the plate and his Lux screaming so bright the white arena threw a hard shadow behind him. Ren backed him in perfect distance, blade low, cutting only into the open seam and only when the seam was open, never wasting motion into the dead black slabs. Zherdev arrived late to every window, apologized to no one, and dropped his ridiculous greatsword into the wound like a man felling a tree.
+
+[Critical Hit! -4,402 HP]
+
+"Was that one good?"
+
+"Better than the last one," Kage said.
+
+"I'm getting better." Zherdev sounded genuinely moved. "Years of money and what I needed was you yelling at me."
+
+"I'm not yelling."
+
+"You yell with your face."
+
+Kage ignored him and slid Mumyo under a brushstroke aimed at Lily, catching the black ink on the flat and turning it up into the empty void above the arena. The force ran into his wrist and tried to climb. He let his shoulder absorb the bounce his arm couldn't avoid.
+
+[Perfect Parry.]
+
+[Convergence +7]
+
+[Seeker's Respite triggered. AWN restored: +33]
+
+[Convergence: 55 / 100]
+
+"Thanks," Lily said, hand still on her line.
+
+"Hold your seat."
+
+The boss bled.
+
+[The Curator - Lvl 40]
+
+[HP: 412,118 / 800,000]
+
+For a moment Kage felt the weight of a Haiku gathering at the edge of his thinking, the way a big spend always announced itself.
+
+He checked the math and the math told him to keep his money.
+
+The current cycle whittled the boss by tens of thousands per window. His coated blade did the heavy lifting, the rotation held, the healers had mana. A Haiku now would buy speed he didn't strictly need and leave him empty for whatever the boss did when it got desperate. Bosses always got desperate. He'd save the big spend for the moment the fight tried to kill him, because the fight always tried, somewhere around ten percent.
+
+He kept cutting instead.
+
+He varied everything. A thrust that became a draw-cut because Mumyo could change its mind mid-air. A bind that trapped the brush shaft against the chest plate while Zara froze the seam open. A step-through cut he placed on the exact beat of Vami's pigment refresh, steel and light landing as one stroke.
+
+[Clean Strike.] [Convergence +2]
+
+[Perfect Parry.] [Convergence +7]
+
+[Clean Strike.] [Convergence +2]
+
+The numbers climbed in his peripheral vision, a quiet ledger filling itself. Each entry felt less like a counter and more like a held breath getting deeper. Focused state pulled tighter around him. The sword-lines hanging in the air after each cut had stopped looking like UI prompts. They looked like ink that hadn't dried, like a sentence he was halfway through writing across the white.
+
+[Convergence: 66 / 100]
+
+The coating ran down to its last seconds. Kage spent them on a flurry into the open chest, three cuts and a thrust, the Ethereal Burn ticking integrity down between each.
+
+[Critical Hit! -3,011 HP]
+
+[-2,640 HP]
+
+[-2,889 HP]
+
+[Weapon Coating expired: Volcanic Syntax.]
+
+The glowing red line slid off Mumyo's edge and faded, and the blade went back to drinking light instead of shedding it. He'd gotten his two minutes. He'd taken roughly a hundred and fifty thousand off the Curator with them.
+
+The boss staggered.
+
+[The Curator - Lvl 40]
+
+[HP: 198,030 / 800,000]
+
+"Twenty-five percent," Zara said. "Keep the chest open. Same rotation."
+
+They kept it. The cycle ground on, slower now without Kage's blade screaming, but steady, the Persistent Annotation holding the seam, the Canvas anchors locking the plates, Vami painting and Ren refreshing and Zherdev felling trees. Kage stayed in the melee and stayed varied, his convergence ticking up through clean strikes and a parry he caught off the Curator's lunging brush.
+
+[Perfect Parry.] [Convergence +7]
+
+[Convergence: 73 / 100 | State: Converged]
+
+The boss dropped past a hundred and twenty thousand.
+
+Everything stopped.
+
+It stopped the way a recording stops, all at once, the brush frozen mid-arc, the fluttering pages inside the Curator's chest seizing in place. The five red lines on the floor went dark. The Hardcover plates ceased their slow orbit and hung still as hung paintings.
+
+[The Curator - Lvl 40]
+
+[HP: 119,997 / 800,000]
+
+"That's not good," Finn said, hand still glued to his line, hawk shrieking somewhere above. "Stops are never good."
+
+The Curator's blank vellum face turned, slow, and settled on Kage alone.
+
+"You will not be permitted to keep doing this," the Curator said. The flat verdict-voice cracked at the center, the way it had when it first called him Master. "It is vulgar."
+
+The brush lowered. "You carry the Master's hand and you use it to fence. If you insist on a swordsman's fight, then I will give you a swordsman's fight, and your borrowed friends can occupy themselves with what you have made of me."
+
+The Hardcover plates detached.
+
+They tore away from the Curator's body all at once, and the body went with them, ninety percent of his mass shearing off in a storm of crumpled vellum, torn bindings, and ink that had stopped being words and started being weight. The wreckage gathered in the center of the arena. It stood. It kept standing, far past the point where standing made sense, a colossus of discarded paper and raging black ink, mindless, towering, its surface a churn of half-formed sentences that never finished. Where a face should sit there was only a crumpled hollow.
+
+[The Discarded Draft - Lvl 38 (Boss)]
+
+[HP: 480,000 / 480,000]
+
+"Oh, come on," Jax said.
+
+A wall went up beside Kage.
+
+It rose from the floor in a square, fifteen feet to a side, made of black script packed so dense the letters had fused into something past material. The lines climbed and met overhead and sealed, and the white arena outside was still visible, barely, and the noise of the raid cut off as if a door had shut on it. Inside the box stood Kage, and stood the Curator, shrunk now to a human shape, page-bodied still but compact, composed, every fold of him deliberate. The Calligraphy Brush had shortened and hardened into a shaft as long as a spear, the bristles set at one end like a naginata's blade.
+
+The Curator settled into a stance Kage recognized in his spine before his head named it. Weight back. Point low. Distance measured to the inch.
+
+[The Margin]
+
+[A private correction.]
+
+[The Curator (Composed) - Lvl 40 (Axiom Entity)]
+
+[HP: 119,997 / 119,997]
+
+Through the script wall, dimmed and distant, Kage heard Zherdev shout something about tyranny and the floor shook as the Discarded Draft swung its first arm.
+
+Inside the box, the Curator turned the brush in his hands and lowered the point at Kage's throat. Here, there was only the white floor and the inkblot eyes fixed upon him.
+
+"A thief may steal a pen," the Curator said, the paper-shear voice dropping to a whisper that filled the cage. "He may even learn to mimic the signature. But he cannot steal the soul that authored it."
+
+The Curator slid his lead foot forward by the width of a single page.
+
+"I was left to preserve the First Maker's truth," the Curator continued. "I will take back the legacy from the usurper, and I will scrub this draft clean of your ink."
+
+A system panel shattered the air between them. It tore through Kage’s interface with a sound like a snapping string, the text bordered in a jagged red that he had never seen the system use before.
+
+[Axiom Challenge Issued: The Disputed Margin.]
+
+[The Curator contests your authorship.]
+
+[Outcome Conditions Established:]
+
+[Victory: The Curator accepts your canon. Complete mastery of the domain.]
+
+[Defeat: Permanent loss of the Legendary Class 'Architect of Verse'.]

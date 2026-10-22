@@ -1,0 +1,45 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const theLegendaryPoetB3StubbingNov17th = {
+  id: "01a16528-85dc-7d7e-b764-238229554272",
+  type: "page-type/story-read",
+  slug: "the-legendary-poet-b3-stubbing-nov-17th",
+  author: "Nejm",
+  following: false,
+  unit: "unit/words",
+  title: "The Legendary Poet [B3 STUBBING NOV 17TH]",
+  world: "world/the-legendary-poet-b3-stubbing-nov-17th",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "141752",
+      externalLink:
+        "https://www.royalroad.com/fiction/141752/the-legendary-poet-b3-stubbing-nov-17th",
+    },
+  ],
+  externalTags: [
+    "Virtual Reality",
+    "Progression",
+    "Anti-Hero Lead",
+    "Strategy",
+    "Martial Arts",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-fi",
+    "Artificial Intelligence",
+    "Crafting",
+    "Dungeon Crawler",
+    "GameLit",
+    "High Fantasy",
+    "LitRPG",
+    "Magic",
+    "Male Lead",
+    "Secret Identity",
+    "Strong Lead",
+  ],
+  readLater: true,
+  createdAt: "2026-10-22T19:48:36.956Z",
+  updatedAt: "2026-10-22T19:48:36.956Z",
+} as const satisfies StoryRead

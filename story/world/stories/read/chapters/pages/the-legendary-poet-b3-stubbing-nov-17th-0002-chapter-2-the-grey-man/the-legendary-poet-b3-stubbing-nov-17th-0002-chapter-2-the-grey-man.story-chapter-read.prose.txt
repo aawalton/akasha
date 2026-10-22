@@ -1,0 +1,291 @@
+The world dissolved into sterile white. Darkness gave way to a light so absolute it had no source. Before Kage, the light coalesced, weaving itself into the form of a woman who defied gravity and several mortal standards besides.
+
+Silver hair flowed around her as if underwater. Her eyes shone like liquid starlight, and her translucent silks seemed to hold a map of the night sky within them. She leaned forward, her smile dazzling, her presence radiating warmth.
+
+Pretty graphics don't increase DPS, Kage thought, already counting the seconds this cutscene would burn.
+
+"Welcome, brave soul!" Her voice chimed, warmth that the sterile void seemed to reject. "I am Lora, the Weaver of Fates! Your journey in the magnificent world of Crown of Destiny begins now. Come, let us shape the vessel of your destiny!"
+
+Tutorial NPC. Skip button. Where's the skip button.
+
+Menus bloomed in the air before him, panes of translucent blue light displaying an almost offensive number of options. The Character Creation Suite. A developer's proudest boast, a player's first time-sink.
+
+He could have spent days here. Sliders for cheekbone height, fingertip length. Sixteen million colors for eye pigmentation, separate controls for the sclera. A dynamic scarring system. A library of a thousand hairstyles with individual strand physics. Five hundred voice modulations.
+
+Beautiful. Intricate. A waste of game time.
+
+Lora gestured to the menus with a flourish, her silk robes rippling with constellations. "Behold! The Loom of Creation! Every hero's story begins with their face. Will you choose the jawline of a king? The piercing eyes of a hawk? The possibilities are as endless as the stars themselves!"
+
+Every second here is money not being made. Mom's treatment won't pay for itself.
+
+He executed a pre-planned sequence.
+
+Randomize.
+
+Lora's smile tightened for a fraction of a second, her starlight eyes blinking. "Ah, a bold choice! Seeking inspiration from the cosmic ether! Let's see what the fates have woven for y—"
+
+Randomize.
+
+Her hair flow stuttered. "Oh! Well, that's... certainly different! Perhaps we could just adjust the cheek structure to be a bit more—"
+
+Randomize.
+
+The constellations in her robes flickered erratically. "Oh my. That's... that's quite a unique combination," she said, her voice straining to hold its cheerful pitch. Her smile developed a twitch. "Very... bold. But perhaps we could just tweak the nose a little? Give it a more... heroic arch? Something that screams 'protagonist'?"
+
+Randomize.
+
+"...Or not," she whispered, watching another forgettable face materialize. The starlight in her eyes dimmed.
+
+He toggled the function a final time. A face flickered into existence. High cheekbones from one template, broad nose from another, a jawline that belonged to a third. The result was nothing. A face you'd see in a crowd and forget.
+
+Lora stared at it for five full seconds, mouth slightly open. "...Subtle," she finally managed, clapping her hands together with the enthusiasm of someone trying to convince themselves everything was fine. "A quiet confidence! I... I love it! It says, 'My deeds will speak for me, not my cheekbones!' Very... very wise!"
+
+Good enough. Let the streamers paint targets on their backs with glowing eyes and dramatic scars. Fame is a liability. The best players are ghosts.
+
+"Now then!" Lora continued, her forced cheer reaching painful levels, "Let us sculpt your heroic physique! This is where legends are truly born! Will you be a towering titan of muscle? A lithe and graceful warrior? The canvas awaits your artistic vision!"
+
+He navigated to the physical proportion sliders. Only the measurements that mattered.
+
+Lora watched with growing confusion as he bypassed muscle mass, skin tone, body fat. "Such... focus! Are you perhaps looking for the aesthetic presets? I have some lovely—"
+
+He honed in on two values: height and limb length. With careful precision he adjusted the sliders until the avatar's skeleton matched his own measurements.
+
+"Oh," Lora said, watching him work with scientific care on what she'd clearly expected to be an artistic endeavor. "You're... calibrating bone ratios. How wonderfully... technical." Her smile was starting to look painful. "Might I suggest adding just a touch more shoulder breadth? For that heroic silhouette?"
+
+This isn't about how it looks. Muscle memory. Years of kendo wired the brain for a specific reach, center of gravity, step-length. The old geezer always said the blade is an extension of the body. Same principle here.
+
+Kage confirmed without a word.
+
+Lora placed a hand over her heart, her expression shifting to a strained solemnity. "Your... your form is complete. Truly unique. Now! A name! A name to be whispered in fear by your enemies and shouted in praise by your allies! What epic title shall echo through the halls of legend?"
+
+A text box appeared. He typed four letters.
+
+K. A. G. E.
+
+"...Kage," Lora tested the name, flat. She paused, clearly waiting for him to elaborate, to share the epic backstory behind his chosen identity.
+
+He confirmed.
+
+"Right. Kage it is. Short. Sharp." The enthusiasm was now purely mechanical. "Like a... like a very efficient dagger."
+
+Don't care for the meaning. Used it a dozen times before. Short, easy to type, doesn't show up on any "cool gamer names" lists. A ghost's name.
+
+"Now!" Lora's voice cracked as she gestured to the final interface. "Pour your spirit into your vessel! Define your inner self! Will you be a pillar of Strength? A whisper of Agility? A wellspring of Intellect? Or perhaps..." she leaned forward hopefully, "a connoisseur of Artistry, for those with truly refined taste?"
+
+The character model dissolved. Glowing runes representing the starting classes hovered in the white void: Warrior, Mage, Ranger, Priest, Rogue, Artisan (which broke down further into specialized subclasses).
+
+Kage's focus snapped to the first rune without glancing at the others.
+
+He selected [Warrior].
+
+[Character Sheet: Kage]
+
+Level: 1
+
+Experience 0/100
+
+Class: Warrior
+
+Title: -
+
+Fame: 0
+
+Physical Damage: 10
+
+HP: 110/110
+
+MP: 110/110
+
+Weight: 0/50
+
+[Attributes] (10 Points to Allocate)
+
+Strength (STR): 10
+
+Agility (AGI): 10
+
+Stamina (STA): 10
+
+Intellect (INT): 10
+
+Artistry (ART): 10
+
+"A path of strength and steel!" Lora declared, some real relief creeping into her voice. "A classic choice! Noble! Honorable! The very essence of—"
+
+The attribute allocation window opened, and Kage immediately began draining points from the stats that didn't matter.
+
+"—heroic..." Her voice trailed off as the numbers shifted.
+
+STR and AGI. Strength is damage. Agility is speed. Everything else is luxury.
+
+His spectral fingers flew across the interface.
+
+"Oh," Lora said faintly, watching Intellect plummet. "Oh my."
+
+INT? Useless. Let the mages have it. A warrior with INT is a failed spellsword.
+
+"Wait, you're not seriously going to—" she started, then watched in growing horror as Artistry joined Intellect at the floor.
+
+Artistry. A joke stat for role-players who want to craft useless furniture. Zero combat application.
+
+"But... but Artistry governs your ability to appreciate beauty! To create! To find meaning beyond mere—" Her protests grew desperate.
+
+He ignored the warning prompts and confirmed.
+
+[Character Sheet: Kage]
+
+Level: 1
+
+Experience 0/100
+
+Class: Warrior
+
+Title: -
+
+Fame: 0
+
+Physical Damage: 20
+
+HP: 110/110
+
+MP: 60/60
+
+Weight: 0/60
+
+[Attributes]
+
+Strength (STR): 20 (+10)
+
+Agility (AGI): 20 (+10)
+
+Stamina (STA): 10
+
+Intellect (INT): 5 (-5)
+
+Artistry (ART): 5 (-5)
+
+The build was clean.
+
+Stamina? A trap. More HP just means you survive your own mistakes. Better to not make them.
+
+Glass cannon. High risk, high reward.
+
+He checked his starting skill window. Nearly bare, as expected.
+
+[Skills]
+
+[Power Strike I] (Active): A basic, high-damage attack. 150% Base Damage Multiplier. Costs 10 MP.
+
+Then the beginner's weapon.
+
+[Novice's Rusted Sword]
+
+Quality: Common
+
+Type: One-Handed Sword
+
+Weight: 2
+
+Physical Attack: +8
+
+Attack Speed: +3%
+
+Durability: 20 / 20
+
+Requires Level: 1
+
+Description: Less a weapon and more a sharpened piece of scrap metal. It's better than nothing... probably.
+
+Enough. One reliable damage-dealer and his own two hands.
+
+Lora recoiled, her composure finally cracking. "You... you've created an abomination," she whispered, staring at his stats in horror. "A warrior who cannot appreciate a sunset, compose a simple haiku, or even understand the artistic merit of a well-crafted blade! You've made yourself functionally aesthetic-blind!"
+
+Perfect.
+
+"Please," she tried one last time, voice small, "just one point in Artistry? Just one?"
+
+He was already moving to the next screen, choosing his starting zone as [Whispering Woods].
+
+Lora stood in stunned silence, then drew a shuddering breath. When she spoke again, her voice had the warmth of a corporate customer service recording.
+
+"Your... path is set. Your form is... technically functional. Your name is... memorable in its brevity." The orchestral music around her sounded tired. "May your legend be written in... very simple words. Your story begins now."
+
+Finally. He spared her a glance.
+
+They went all-in on AI, he noted. A simulated breakdown followed by a detached professional recovery. Fully dynamic. State-of-the-art. A waste of processing cycles, but impressive.
+
+For a fraction of a second, he felt a simulated vertigo, the sensation of falling through reality. Then light and sound and a thousand other sensations crashed into him at once.
+
+Behind him, in the white void, Lora slumped, her perfect posture giving way.
+
+[Your Artistry stat is too low to appreciate hidden details in the world.]
+
+[Some quests and their clues may be locked for you.]
+
+[Artistic and poetic descriptions will be rendered in a simplified, functional format.]
+
+Kage blinked. The transition completed.
+
+To a standard player, the Whispering Woods was a sensory masterpiece. Golden shafts of light pierced the emerald canopy, illuminating dust motes that danced like spirits. The air was thick with the scent of pine, damp earth, and the sweet promise of adventure.
+
+Kage saw none of it.
+
+The picturesque landscape rendered as pure geometry. The "golden light" was a flat yellow ambient tint. The gnarled oaks reduced to their collision meshes: smooth brown cylinders capped with low-poly green canopies. The complex undergrowth was gone, replaced by flat green textures on the ground.
+
+The smell was absent. In the bottom right of his HUD, a plain text line read:
+
+[Olfactory Simulation: Minimal.]
+
+Hideous. Perfect.
+
+He stood in the center of the starting town, [Oakhaven]. Around him, hundreds of new players materialized in flashes of blue light. The air erupted with human noise.
+
+"Look at the graphics! skibidi"
+
+"FOR THE HORDE! Or… whatever the faction is here."
+
+"Party invite, anyone? LFG for slimes!"
+
+"MOM GET OFF THE PHONE I'M GAMING!"
+
+"My starting spell… HIGHLIGHTS RHYMES???"
+
+The starting zone was a chaotic mess. A level 1 mage set himself on fire trying to cast a spell. Players ran in circles, testing the movement, swinging their flimsy [Novice's Rusted Swords] at the air.
+
+The official low-level mobs, designated punching bags for new arrivals, were tiny gelatinous things called Pygmy Slimes. They squelched pathetically as swarms of players descended on them, shouting skill names as if it made any difference.
+
+"Power Strike!"
+
+"Rapid Arrows!"
+
+Kage didn't move.
+
+For ten full seconds he stood still, a single point in a sea of frantic motion. He wasn't in awe. He was processing.
+
+His eyes scanned the UI, the semi-transparent elements overlaying his vision. HP and MP bars. Mini-map: local topography and an unhelpful sea of blue dots representing other players. Chat window: a scrolling waterfall of joyful gibberish. Latency. Stable. Acceptable.
+
+His awareness expanded to the environment. Density of the player swarm. The Pygmy Slime spawn points already getting camped. Competition for low-XP mobs was fierce and inefficient. A waste of time.
+
+He listened, filtering. The shouts, the clumsy impact sounds, the triumphant jingles of mobs dying. All noise. He was searching for a signal.
+
+He found none. Just amateur enthusiasm.
+
+The crowd was moving east, toward the first quest-giving NPC, whose location was marked by a glowing exclamation point on the mini-map. They followed the breadcrumb trail the developers had laid out for the masses.
+
+Kage turned west.
+
+Against the current. One grey man moving with purpose while thousands ran in circles. His destination had been logged from weeks of research.
+
+His path was a straight line through the chaos. He wove through the throngs of jumping, shouting players with the unconscious grace of a fish in a turbulent current. He didn't bump anyone. No wasted motion.
+
+A player swung a sword in a wild arc, nearly clipping him.
+
+Kage adjusted his path by a few centimeters without breaking stride, eyes already on the treeline ahead.
+
+Through the town gates. Past the NPCs shouting about destinies and chosen ones. Into the unmarked forest where the tutorial said not to go.
+
+Behind him, Oakhaven roared with the sound of ten thousand heroes being born.
+
+The herd was chasing the game.
+
+Kage was on his way to break it.

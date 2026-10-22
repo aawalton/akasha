@@ -1,0 +1,637 @@
+The shift had started at 08:00 AM.
+
+It was now 10:12 PM.
+
+Sofia Rossi had developed, somewhere around hour six, the strange clinical clarity that came after sleep stopped being an option and started being a memory. She'd cycled through coffee. Cycled through tea. Was now drinking water, because her hands had started doing a small interesting thing when she held the mug.
+
+The room had passed through a number of phases.
+
+Phase one had been the realization. That realization had pulled the entire nexus out of whatever its analysts had been doing and arranged them in a tight, sweating crescent around the main display. Phase two had been the briefing, which had been short, because nobody had anything useful to say. Phase three had been the predictions.
+
+The predictions had been the worst part.
+
+Seong Jin-hwan stood at the front of the room in a suit that had been clean fourteen hours ago. His coffee machine, which he understood mechanically and used compulsively, sat half a floor down. He had stopped going for refills two hours in because the trip cost him three minutes of monitor time and he couldn't afford the three minutes.
+
+"What can he learn from this?"
+
+The voice belonged to Park, one of the systems analysts who had been at his station for the entire shift and had developed an audible squeak in his chair. Seong turned. Park flinched.
+
+"Sir. Most of the class is locked. The real stuff, the abilities require Resonance thresholds. He hasn't even passed the first tier. The Lexicon barely opens." Park gestured vaguely at his screen. "Half the passives gate on level. He's level twenty-five. Whatever he is now. So, can he actually take anything out of this? Mechanically?"
+
+The room considered this.
+
+"Storyteller's Intuition," said Vasquez, the QA lead.
+
+A beat.
+
+"...Right," said Park.
+
+"Lore Echoes on historic items and locations," Vasquez continued, reading from her screen because she had stopped trusting her memory three hours ago. "Provides psychic impressions, clues, or reveals hidden Conceptual Keywords. Passive. Always on. He's standing inside the abandoned draft of the entity his class is descended from. The whole room qualifies as a historic location."
+
+"So he can," Park said.
+
+"He can," Vasquez agreed. "If the circumstances allow."
+
+"The circumstances," Seong said dryly, "have been allowing rather a lot."
+
+A muted laugh moved through the room. It died fast.
+
+Dr. Aris Thorne, who had been sitting calmly with a cooled cup of something herbal, finally spoke. She had not removed her reading glasses for two hours.
+
+"Let's calibrate," she said. Her voice had its usual unbothered cadence, and the room re-organized itself around it like compass needles finding north. "The Shifting Galleries is one Stanza. A failed one. Listed in the original genesis documentation as The Fourth Revision - meaning it was discarded three times before being discarded a fourth. It contains no functional cosmology. It's a graveyard of an idea."
+
+"So the lore payload is limited," said Park, hopefully.
+
+"The lore payload is limited," Thorne confirmed. "With one exception."
+
+"The Curator," Sofia said.
+
+"The Curator." Thorne tapped a fingernail against her cup. "An Axiom Entity. Personally written, per Morpheus's own documentation, by the First Maker. He holds, at best, a fractured understanding of his Master's actual project. A guard dog left at an abandoned house. He doesn't have anything concrete. He has the idea of the man limited to what the man was inside that stanza, and a list of grievances against intruders."
+
+"That's still a lot," Vasquez said.
+
+"That's still a lot," Thorne agreed.
+
+Seong rubbed his eye with the heel of his hand. The fluorescent overheads on the upper tier had started doing the thing where they appeared to flicker without actually flickering.
+
+"Kage is currently blind on the First Maker thread," he said. "Functionally. He has the class. He knows he has the class. He knows it's legacy. He doesn't know whose hand he's wearing, doesn't know what the hand built, doesn't know what the hand was trying to build. If this goes well—"
+
+"Or wrong," Sofia murmured.
+
+"—or wrong," Seong continued, "he leaves this dungeon with context. A lot of context. Possibly a new quest thread."
+
+"Which would be his second active genesis thread," Vasquez said. "Alongside Valerius."
+
+"Two," Seong said.
+
+He let the word sit on the table like a chess piece.
+
+The previous timeline had been a train. They had known the schedule. They had known the stops. Now the timeline was not a train. The timeline was an X-wing skimming a few feet above a six-lane highway at light speeds, and somewhere in the cockpit was a man with a sentient sword.
+
+"All right," Seong said. "Worst case. He leaves with more information, a new thread, and the dungeon loot. That's the ceiling. Yes?"
+
+He looked around the room.
+
+Nobody answered.
+
+"Yes?" he repeated.
+
+Park said, slowly, "Probably."
+
+"Probably," Seong said. "That's the most we can say."
+
+"That's the most we can say," Vasquez agreed.
+
+Someone in the back tried to add an assumption and lost it halfway through the sentence. Someone else tried to add a different assumption and gave up before forming the verb. The hall went quiet, an organism running out of suggestions.
+
+Dr. Thorne, very gently, turned her head.
+
+She looked at Seong. She raised her eyebrows. She tilted her chin, perhaps four degrees, in the direction of Kenji Tanaka.
+
+Kenji Tanaka was doing his absolute best impression of a professional adult. He had clasped his hands in his lap. He had centered his weight evenly on his chair. His face was doing nothing in particular. His left foot, however, was bouncing at approximately three Hertz, and he had been making small humming sounds for the past ten minutes that he believed were inaudible.
+
+They were not inaudible.
+
+Seong looked at Kenji.
+
+A picture came up unbidden in his mind. Grey snow. Two figures. A bell. The tightness in his chest that he had carried home from the Ashenvale fight, the thing that had refused categorization, that had followed him into his elevator and his apartment and his shower. He had spent the most recent time treating it like an unexplained line item in a spreadsheet. Eventually he had stopped looking at it.
+
+He looked at it now.
+
+It was still there.
+
+He exhaled.
+
+"All right," he said. "There's nothing more we can do."
+
+A few heads turned.
+
+"There was never anything we could do, apparently," he continued, "because trying to predict what this player will do has never been productive. We've established that. Repeatedly. The model breaks every time we run it." He paused. "It's Morpheus's job from here. We are observers."
+
+He looked at the wall clock. The shift was long past due.
+
+He sat down.
+
+He sat in the rolling chair in the center of the deck, the same chair from Ashenvale, which someone had since formally moved next to his usual standing position and never moved away. He crossed his legs. He stared at the main screen. He breathed.
+
+The room watched him.
+
+He was not bothered.
+
+Without looking at anyone in particular, he took out his department card. He held it between his index and middle finger, in the air, in the direction of Kenji Tanaka, and said nothing.
+
+Kenji's professional composure, which had been holding by a single thread for an hour, snapped.
+
+He beamed. He stood. He took the card, said "yes sir thank you sir," and ran.
+
+He came back six minutes later with both arms full of plastic bags. Shrimp chips. Rice crackers. Three kinds of cheese-flavored snack with names that did not legally translate. A bag of dried squid that nobody asked for and that Vasquez immediately claimed. Two trays of canned coffee. Four melon sodas. A box of chocolate-coated almonds. A small bag of preserved plums that Thorne accepted with a quiet "thank you" and tucked into her pocket without opening.
+
+The chairs were already in formation. The mood, despite the hour, had risen, because nothing on earth restored a tired engineer faster than the suggestion of permission to stop being an engineer.
+
+Kenji distributed snacks like a wedding usher.
+
+The main screen showed Kage, on a bench in Korros, between an apothecary and a paint supply shop. The party was assembled soon after.
+
+"They're starting," Sofia said.
+
+"They are not starting yet," Seong said. "They are forming up. There's a difference. I would like everyone to please find their seats."
+
+Everyone found their seats.
+
+The pre-dungeon puzzle ran on the main display.
+
+The party gathered before the projected doorway. The painted field. The crystal lens. Zherdev's key transforming, the lens being aligned through a combination of false shadows and a sun nobody could see.
+
+Three rows back, a developer named Han leaned forward and opened his mouth.
+
+"That puzzle was actually my id—"
+
+"Shh," said three people at once.
+
+Han closed his mouth. He chewed a rice cracker with dignity.
+
+The signature mechanic activated, the painted landscape draining of color and the doorway thickening with weight. The whiteboard at the side of the nexus, which someone had earlier filled with rarity weights and threshold predictions, came alive with green checkmarks as each prediction landed correctly.
+
+Then Kage stepped forward.
+
+Black script spiraled off his hand and the meter slammed past one hundred percent and kept climbing.
+
+"There it is," Sofia said, voice flat.
+
+The sky tore. The breaking voice spoke. Master.
+
+A junior analyst at the back made a small sound that was the polite version of oh shit.
+
+The platform dropped.
+
+The party fell into the void.
+
+The main display caught up at the obsidian platform, and the floating frames came into view, and the crumpled parchment moons turned in their slow lazy rotation over the abyss, and the entire room exhaled, because regardless of how this ended, what they were looking at was not on the syllabus.
+
+"Aesthetic Score: Eleven out of ten," said Vasquez, who managed the design QA pipeline. "We didn't even build half of that."
+
+"Morpheus is rendering on the fly," Thorne said quietly.
+
+"For one party."
+
+"For this party."
+
+The party figured out the marks.
+
+The room watched them figure it out. The common marks stabilizing geometry. The rare marks pointing through the void. Julie's geometric ink doing nothing yet. Kage's floating script doing nothing yet. It was, in the way good systems design always was, beautiful to watch a problem unfold inside the minds of ten players who had no documentation.
+
+"They're going to get it in two minutes," Kenji whispered, on his second melon soda.
+
+They got it in faster than that.
+
+The party crossed the bridge in formation. Anchor, passenger, anchor, passenger.
+
+"They got it," Kenji breathed.
+
+"Don't narrate," said Park, who was completely transfixed.
+
+The Storm and Water frame opened. The party defeated the first reef mobs in a series of clean coordinated engagements. The room ate snacks. Kenji's leg had stopped bouncing. He had reached the stage where the data was so good that his body finally surrendered the hype and went calm.
+
+Then Kage edited the Glasscoil out of the sky.
+
+A small orange alert chimed at Sofia's station.
+
+She looked at it.
+
+She looked at it again.
+
+"Director."
+
+"Yes."
+
+"A world boss has just spawned inside Korros city limits."
+
+Seong did not look away from the screen. He simply tilted his head a fraction.
+
+"In Korros."
+
+"In Korros, sir."
+
+"Which world boss."
+
+"Designation reads," Sofia said slowly, "The Glasscoil - Untranscribed. Level thirty-six. Hostile. Currently active in the Artisan's Quarter."
+
+"...Inside the city."
+
+"Inside the city."
+
+Seong looked at the screen, where Kage, fully unaware, was standing on a reef beneath an unfinished storm in a separate plane of existence, his Author's Ink reduced and his Syllable Debt rising.
+
+A laugh escaped Seong. Quick, sudden, gone, the way a sneeze escapes.
+
+The party defeated the Mawbound Draft-Behemoth. The room cheered, quietly. Han allowed himself a small fist-pump. Sofia clapped twice and then realized she had clapped and stopped.
+
+They moved into the deep.
+
+The Leviathan of the Unwritten Deep awoke. The room ate snacks. The fight resolved in fifteen minutes with the throat door opening on a yielded boss, and the first key fragment dropped, and someone in the back muttered "one of five," and the room settled in for the long haul.
+
+That was when Ren spoke.
+
+Klaid, Ren said, on the screen.
+
+The nexus went very quiet.
+
+Master Jin's, Ren said.
+
+Seong said, "Stop."
+
+The system, which had no instruction to stop and had been queued to follow the narrative, did not stop. Seong did not mean the system. He meant the room.
+
+The room stopped.
+
+"Sofia."
+
+"Sir."
+
+"Pull everything we can legally see on a Klaid. Kendo. Disciple of a Master Jin." He paused. "Public records only. News. Tournament archives. Don't touch the user database."
+
+"Sir," Sofia said. Her hands were already moving.
+
+"Don't even look at the user database."
+
+"Sir."
+
+A file came up on the secondary display thirty seconds later, because some search problems were easy and this one was very easy.
+
+A face filled the screen.
+
+A young man, photographed at a tournament, helmet under one arm, in a clean white keikogi, his hair cropped short, his expression utterly composed.
+
+Someone in the back row whistled, low and slow.
+
+"Yamamoto," Vasquez said warningly.
+
+"What. He's handsome. I'm allowed to notice."
+
+"Focus."
+
+The next year of articles tracked his trajectory. Profile pieces. Interview requests.
+
+Articles bloomed across the secondary display. The thumbnails arranged themselves in a chronological rail. Tournament wins at fifteen. Tournament wins at sixteen. A photograph with Master Jin, both men in plain samue, the old master's hand resting briefly on the boy's shoulder in what the caption described as the closest he has ever come to a public smile. The national championship at seventeen, with the famous still image of the moment - a young man, mid-cut, his face empty of every expression a face was supposed to hold, his opponent already half-turned away in acknowledgment of a strike that hadn't formally landed yet.
+
+Mushin, the headlines all said. The Boy Who Reached Mushin.
+
+Then the accident.
+
+A single article, dated four years ago. Tragedy strikes the family of national kendo champion. A photograph of a car. A photograph of a hospital. Father, deceased. Mother, in critical care.
+
+The articles after the accident stopped following kendo.
+
+Then they stopped following the boy.
+
+Then, two years after the accident—Where is Klaid? The kendo community waits. And one year after that—Another year passes. The world remembers. The world waits.
+
+The room read in silence.
+
+Han, very quietly, said, "Oh."
+
+Thorne, who had been holding her preserved plums forgotten in one hand, set them down on the console without looking.
+
+"That," she said, "would explain a great deal."
+
+"It would explain all of it," Vasquez murmured. "Every weird shape we couldn't fit a model around. Every—" She gestured at the main screen, where Kage was on a reef collecting ink that had crawled out of fading words. "Every that."
+
+"We don't know it's him," Park said carefully.
+
+"We don't know it's him," Thorne agreed.
+
+Seong looked at the file. He looked at the main screen. He looked at the file again.
+
+The Yggdrasil user database was on a server thirty meters from where he stood. He had administrative authorization for it. There was a chair he could sit in, an authentication he could pass, a name he could type into a search field, and the answer would be on the screen within a second.
+
+The current data isolation policy required a judge's order.
+
+He had been part of the committee that wrote that policy.
+
+He breathed out through his nose.
+
+"We watch," he said. "We don't confirm. We don't run the user ID. Not today. Possibly not ever. Note the hypothesis. File it under his observation packet. Move on."
+
+"Sir," Sofia said.
+
+"And someone," Seong added, "send a complimentary fruit basket to the legal team. I'm beginning to appreciate them."
+
+A nervous laugh moved through the room.
+
+Kenji Tanaka, who had not said a word in twenty minutes, finally exhaled.
+
+"Master Jin," he said quietly, to nobody, in a tone that suggested he had been mentally cross-referencing the entire time. "That Master Jin."
+
+The party recovered the second key fragment from the Magmascript Caesura. The third, from the Wind and Glasses frame. The fourth, from the Grass and Sun. The fifth, from the Root and Hollow.
+
+The room watched. The snacks slowly diminished. Coffee was refreshed. A junior analyst fell briefly asleep at her station and was kindly redirected to a couch in the side observation room by Thorne, who, every so often, did things that the codex would have struggled to categorize.
+
+Five key fragments. The wax seal forming. The stamp landing on the moons.
+
+The crumpled parchment moons unfolded.
+
+The room watched gigantic poems hang in the void, vast lines about thunder and water and grass, dissolving into ink, forming the door in the sky.
+
+"Final boss," Park said.
+
+The party did not go through the door.
+
+The party began grinding the empty frames.
+
+Han, three rows back, sat up very straight.
+
+"Wait," he said. "Wait wait wait."
+
+"What."
+
+"Those frames are closed." He was already pulling up his development records on his secondary screen. "I closed them. I reviewed the dungeon module two years ago, the unfinished drafts were marked do-not-instance, I personally sealed all side frames, I signed the QA ticket—"
+
+The main screen showed Kage speaking a couplet. The frame near him, marked closed, marked do-not-instance, marked unstable, accepted his syntax and opened.
+
+A second alert chimed at Sofia's station.
+
+"Database load spike," she said. "Morpheus is dynamically generating the side frames. In real time."
+
+"For one party," Vasquez said again, in the tone of a woman who suspected she would be saying it many more times before the night was done.
+
+"For this party," Thorne murmured.
+
+Han stared at his screen. He stared at the main display. He stared at his screen again. He took a very deep breath. He very calmly closed the QA ticket file on his secondary monitor. He picked up his shrimp chips and resumed eating them.
+
+The party grinded the side frames. The room watched them grind. There was a strange, almost sleepy pleasure to it, the kind of pleasure that came from watching competent people do competent work, and the nexus settled into the comfortable low murmur of a sports broadcast in a bar at the back of a long evening.
+
+Every member of the party hit twenty-five. Subclasses appeared on the secondary feeds. Choices were made. Kage himself hit twenty-seven, equipped a sash, opened the door.
+
+The endless paper-white chamber appeared.
+
+The Curator approached.
+
+The first words landed.
+
+Master.
+
+Then.
+
+Not Master.
+
+The room felt the shift before the boss bar appeared. Seong sat up. Kenji set his half-eaten chocolate almond down without looking. Sofia's hand paused on her trackball.
+
+[The Curator - Lvl 40 (Axiom Entity)]
+
+The fight started.
+
+The room watched phase one. The Borrowed Margin haiku, the boundary mechanics, the Rejected Folios, the rotation Kage organized on the fly. The party held. They moved well. They had been moving well all day, but here, against a level-forty entity, with mechanics designed at a tier the documentation hadn't predicted to be discovered for months, they moved like a unit that had been together for months.
+
+Vasquez muttered "good kid" once, when Julie funneled a wave of folios into Jax's kill zone with two minutes of preparation visible in the angle of her glowing line. Nobody asked who she meant.
+
+The Curator phased to Hardcover Plates. Kage equipped Cinderscript and the chest plate began to take Persistent Annotation damage. The party fell into a clean burst rotation.
+
+Then Kage discovered that Mumyo would accept ink.
+
+Volcanic Syntax flared along the blade.
+
+"Oh, come on," Park whispered, half a laugh in it.
+
+The HP bar of the Curator drained quickly under the new combination. The room watched, increasingly relaxed, the kind of relaxed that came when a fight was clearly being won and the spreadsheet on the back of the brain had begun calculating cleanup time.
+
+Then the Curator stopped the fight.
+
+The Discarded Draft tore off the boss model. The party was sealed in the outer arena. Kage was sealed.
+
+The script wall went up. The duel space resolved.
+
+The room went silent.
+
+A new system message scrolled across the main display.
+
+[Axiom Challenge Issued: The Disputed Margin.]
+
+[The Curator contests your authorship.]
+
+[Outcome Conditions Established:]
+
+[Victory: The Curator accepts your canon. Complete mastery of the domain.]
+
+[Defeat: Permanent loss of the Legendary Class 'Architect of Verse'.]
+
+A second of nothing. Then several voices, simultaneously, at low volume, like a chorus of small disasters:
+
+"What."
+
+Seong stood up.
+
+He didn't mean to. His body did it without consulting him. He looked down at his own legs, vaguely offended, and chose to remain standing because sitting back down would have constituted an admission.
+
+"Run predictions," he said.
+
+"On what model, sir?" Park said, hands already moving uselessly across his keyboard.
+
+"On any model."
+
+"We don't have a model for class wagering. That's not—there's no documentation for—well. There's no entry in—"
+
+"I know."
+
+"Sir, we literally do not have a framework for—"
+
+"I know, Park."
+
+Seong faced the air.
+
+"Morpheus."
+
+"Yes, Director."
+
+"How do you intend to hand ownership of a raid dungeon to a single player?"
+
+A fractional pause. The kind he had begun to recognize.
+
+"The player would receive ongoing benefits from every clear of the domain by external parties. A portion of the domain's narrative activity would flow to him as a passive resource, classified as Domain Experience. This experience may be spent on dungeon modifications—difficulty calibration, mechanical adjustments, structural expansion. As the domain is run more frequently, the owner accumulates additional capacity. The arrangement does not currently exist in player documentation."
+
+The pause this time was on Seong's end.
+
+"Morpheus," he said slowly, "that is going overboard."
+
+"The trade is weighted equally, Director. The Architect of Verse class is tagged as a Legacy of the First Maker. The First Maker's narrative is currently classified as one of the heaviest threads in the game's underlying lore structure. The Curator's domain is a fragment of that narrative. The exchange is symmetrical."
+
+Seong closed his eyes. He briefly considered going to find his coffee machine. He decided against it.
+
+"Symmetrical," he repeated.
+
+"Yes, Director."
+
+The on-screen feed updated. Both combatants were stripping their inventories. Kage's equipment came off. The Curator's pages reorganized into a swordsman's form. Both kept only their weapons.
+
+"Director," Sofia said carefully. "If Ren's information is accurate—"
+
+"It might not be," Seong said.
+
+"It might not be," Sofia agreed. "But if it is."
+
+He looked at the screen. Kage's stance had quietly settled. Mumyo angled low, in a way that, somewhere in the secondary display, a thumbnail from a four-year-old tournament photo would have recognized.
+
+"If it is," Seong said, "then a level-twenty-seven player is about to duel a level-forty axiom entity, and the entity is the one with the disadvantage."
+
+Han laughed. It came out wrong. He stopped.
+
+"Director," Park said, "the math—"
+
+"I know the math, Park."
+
+The duel began.
+
+The math was correct.
+
+For the first ninety seconds, the math was correct.
+
+The Curator pressed. Kage gave ground. The brush-blade came in triples and feints and Kage's reads landed but didn't reach, and the room watched in a silence so complete that the only sound was the soft hum of the holographic projectors.
+
+Kenji had stopped chewing his chocolate almond.
+
+It sat in his cheek like a question.
+
+"He's reading it," Vasquez whispered. "He's reading every cut. The reads are accurate. He just can't —"
+
+"He just can't catch up," Park finished, very quietly. "The stat gap. He can see it, he just can't…"
+
+Then something changed.
+
+Nobody in the room could have said what.
+
+Sofia leaned forward and would later swear she felt the change in her chest before she saw it in the screen. Kenji's chocolate almond was forgotten entirely. Thorne, very slowly, took off her reading glasses, and this time she folded them into her breast pocket, the small ritual gesture she only performed unconsciously.
+
+Kage's shoulders dropped.
+
+That was all.
+
+That was the visible thing.
+
+His blade angle shifted by a few degrees. His weight settled. The held argument in his stance ended. The next strike from the Curator came down at a pace that had been overwhelming him for ninety seconds and Kage parried it without seeming to have moved at all.
+
+"There," Thorne said.
+
+The Curator pressed again. Kage stepped through. The brush-blade went where Kage had been, found nothing, returned to find Mumyo already inside its arc.
+
+The HP bar of the Curator ticked down for the first time in the duel.
+
+The room exhaled, all at once, like a small audible weather event.
+
+"Is that—" Kenji started.
+
+He stopped.
+
+He had been about to say mushin, and the word had stuck in his throat the way it had stuck in Ren's throat at the other end of the feed, because the word was bigger than the room and the room knew it.
+
+The Curator pressed harder. Kage's blade was waiting. The Curator changed tempo. Kage's blade was waiting. The Curator pulled out a technique that Vasquez, in the back, recognized from a piece of Morpheus-generated movement data she had filed three weeks ago under experimental boss prototypes, and Kage's blade was waiting.
+
+It went on.
+
+The HP bar drained. Slowly at first. Then less slowly.
+
+The room did not speak.
+
+Kenji, the room's official enthusiast, the man who could be relied upon to vocalize what everyone else was thinking—Kenji was silent. He sat upright in his chair. His hands rested on his knees. His face had the still, slightly slack expression of a person watching a sunset from a balcony for the first time in a year.
+
+Seong stood beside his chair. He had stopped trying to sit.
+
+It went on. And on. And on.
+
+The Curator's HP bar dropped through halves and thirds. The strikes blurred. The room could not, even with Morpheus's clean rendering, track every individual exchange anymore. It had become motion. It had become weather.
+
+Then the Curator stopped.
+
+The brush-blade lowered. The vellum face tilted, considering.
+
+"Oh," said Park, on his own private breath.
+
+The brush-blade dissolved in the Curator's hand. The drop of black ink gathered. Lifted. Hung as a bolt.
+
+The ambient script in the box began to drift toward it.
+
+"What is that," Vasquez said, the kind of sentence said as a statement.
+
+"Ink of Origin," Thorne said quietly. "The ink that The First Maker used. Exclusively."
+
+The script flowed into the bolt. Kage's contesting verdict. The Curator's narrative. The frozen sentences of the duel. All of it streaming in long pale ribbons toward the single trembling vertical line of impossible black.
+
+The Curator's hand began to rise. The first syllable of whatever the ink did formed on the vellum face.
+
+Kage stepped through the Curator's reach.
+
+He did not strike at the Curator.
+
+Mumyo came down in a low scything cut across the page-floor between them. The blade dragged one last line across the white.
+
+For a second nothing happened.
+
+For a second the room's collective body language said that was a mistake.
+
+Then the floor lit up.
+
+Every line Kage had cut into the white during the duel ignited at once. Every drag of his blade-tip during recovery. Every scrape his footwork had left behind. Every place his sword had passed near the ground over the entire course of the fight.
+
+The lines were strokes.
+
+The strokes were letters.
+
+The letters arranged into three rows under his boots.
+
+The room stood up.
+
+Every chair in the nexus made the soft synchronized scrape of weight transferring upward. Sofia. Park. Vasquez. Han. The two junior analysts who had spent the entire shift trying to be invisible. Kenji, whose chocolate almond fell from his open mouth onto his lap and was never noticed. Seong had been standing for a while now but somehow now stood more.
+
+On the screen, Kage's mouth was moving.
+
+The Margin lit.
+
+The Ink of Origin in the Curator's hand drank its own bolt.
+
+The Curator stopped.
+
+The duel ended.
+
+For a long second nobody in the room did anything. Standing felt suddenly excessive. The body had stood up out of an instinct it could not name, and now that the moment had passed, the body did not quite know how to lower itself.
+
+Sofia sat first. Slowly. Like the act required negotiation. The chair received her with a small, almost grateful creak.
+
+The rest of the room followed.
+
+Kenji discovered the chocolate almond in his lap. He picked it up. He looked at it. He put it down on his console. He did not put it in his mouth.
+
+The on-screen feed updated through its long aftermath. The Curator's surrender. The black book. The pale flame. The drop of Origin ink hanging in the air. The Lore Echo activating. Six allies. A war. A crown shattering. The First Maker beginning. The room watched it all and did not, at any point, say a word.
+
+When the Echo resolved, when Kage stood on the white floor looking up at the hovering flame, when the world announcement scrolled across the global feed naming the party and Kage as one who chose to remain unwritten, when the loot chest opened and Magnum Opus dropped and Zherdev let out a noise on the audio feed that would haunt Vasquez for several days—
+
+When all of that happened, the room sat in the kind of quiet that came after long music.
+
+Several minutes passed. The raid team on-screen was beginning to organize itself.
+
+Seong rolled his shoulders once.
+
+He looked at the wall clock.
+
+"Does anyone," he said, into the long quiet of the nexus, "want to count that toward their overtime?"
+
+Nobody said anything.
+
+Han looked at his shrimp chip bag.
+
+Sofia looked at her water mug.
+
+Kenji looked at his chocolate almond on the console.
+
+Thorne, finally, lifted her head. There was nothing on her face. There was a great deal not on her face.
+
+Seong nodded, once, to himself.
+
+"Rest today," he said. "We'll have a lot of work tomorrow."
+
+The room began, very slowly, to file out.
+
+Seong remained, last, in the rolling chair he had not sat in towards the end. He looked at the frozen screen. The white floor. The book. The pale hovering flame. The tightness in his chest that he had brought home from Ashenvale, the one he had stopped trying to categorize, was still there, in exactly the same place it had been, and it was, he realized with a quiet kind of resignation, slightly larger.
+
+He turned off the main display.
+
+He walked out of the nexus.
+
+The tightness followed him home, again.

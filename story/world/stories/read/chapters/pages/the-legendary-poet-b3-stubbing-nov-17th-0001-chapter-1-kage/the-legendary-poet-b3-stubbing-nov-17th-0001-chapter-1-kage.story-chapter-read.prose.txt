@@ -1,0 +1,177 @@
+In eleven minutes, Klaid would stop existing.
+
+He watched the server clock tick down in the corner of his third monitor. Ten minutes, fifty-nine seconds. Fifty-eight.
+
+The apartment smelled of warm electronics and dust burning off cooling fans. Silence, broken only by the whir of his custom rig. A sound that once meant freedom, now the drone of machinery. Then the notification.
+
+[NOTICE: $15,000 due in 48 hours.]
+
+[Memo: Escalated Neurological Treatment Sequence]
+
+Klaid stared at the number. Panic burned calories and ruined focus, so he refused it. A cold weight settled in his gut, like swallowing gravel. He swiped the notification away. The debt was a raid boss with too much health. He beat it by grinding.
+
+Ten minutes, twenty seconds.
+
+He stood.
+
+The shinai was already in his hand by the time he reached the center of the room.
+
+Snap.
+
+Bamboo cut the air, sharp and dry.
+
+He moved through the room, hardwood slick under his bare feet. Grey sweats that had seen the inside of too many laundromats. The shinai felt like a dead stick in his hands.
+
+He executed the first kata. Shomen-uchi.
+
+A vertical strike. Hips locked. Shoulders rotated. The bamboo tip stopped two millimeters from the floorboards.
+
+The geometry was clean.
+
+To Master Jin, the performance would be an insult. A wire-frame render of the art, stripped of texture. No zanshin, no lingering follow-through. Klaid treated the movement as a macro. Execute. Reset.
+
+His breathing kept time. In. Out.
+
+In a full-dive environment like Crown of Destiny, physical conditioning was the hardware limitation. The brain could command a perfect parry, but real-world synapses firing through exhaustion meant death. Death meant downtime. Downtime meant poverty.
+
+He flowed into the next stance. For a microsecond, muscle memory betrayed him. His grip tightened, the bamboo feeling like an extension of his radius bone, a pulse of old heat—ki—rising in his chest. The urge to make the swing beautiful.
+
+He crushed it.
+
+Do not elaborate. Simplify.
+
+Art was a luxury for people who could afford expression. He operated in binary. Did the sword hit? Yes/No. Did the gold transfer? Yes/No.
+
+He racked the shinai. Heart rate 65 BPM. Acceptable.
+
+He sat at the command center. Three curved monitors washed his face in blue light. Spreadsheets on the left. Forums scrolling on the right. In the center, a document he'd spent three months compiling.
+
+Cheating was lazy work. Leaks got patched. He took systems apart until he found the loose screws.
+
+He pulled up the high-resolution concept art, "The Age of Tyrants," on his central monitor. On the right screen, he loaded the vector map of the "Whispering Woods" - one of the starter zones.
+
+Official lore painted King Valerius as a liberator who overthrew the tyrants. The art told a different story. It depicted a Forgotten Tyrant’s banner: a stylized hawk clutching a broken crown.
+
+Klaid highlighted the map's border. The hilt of Valerius’s legendary sword bore that exact insignia.
+
+He dragged the map over the concept art and dropped the layer opacity to 50%.
+
+The alignment was perfect.
+
+The hawk’s sharp beak overlaid the ridge of "Eagle’s Peak" in the west. The top-most point of the broken crown sat perfectly on the "Old King's Watchtower" in the north. The hawk’s clutching talon gripped the dense southeast forest, the "Grasping Woods."
+
+He plotted the vertices. The lines converged on a single, unmarked coordinate: a small clearing deep in the woods.
+
+A pointer to buried treasure, hidden by the developers in plain sight.
+
+This was it. His launch-day strategy was now brutally simple.
+
+Others would have found it. Statistically certain. He'd be among the best of those who had. The starter zones were the only content Yggdrasil Company had shown the public. He had to make it count.
+
+The reward for being first would be staggering. Game-breaking, to anyone who could snowball off an early lead. The edge he needed to dominate the early market.
+
+Efficiency is king. His eyes scanned a spreadsheet of monster attack animations. TTK in the first 48 hours determines your income for the next months. He pulled up the frame data. Vexing Alpha Wolf. Lunge animation: 0.7 seconds. Heavy paw swipe telegraphed at 1.2.
+
+A ringtone cut through the room.
+
+Cheerful, some J-Pop track Elara had set as a prank three Christmases ago. Against the silence it sounded like fingernails on a chalkboard.
+
+He looked at the phone. Let it ring. Once. Twice.
+
+He tapped the green icon. "I'm working."
+
+"Nice to hear your voice too." Elara. Her voice was thin, eroded. "I'm at the hospital."
+
+Klaid's spine stiffened. His eyes stayed on the animation data, but his focus fractured.
+
+"Status?" Clipped. "The machines again?"
+
+"She's... she's the same," Elara said. Through the receiver came the ward. Squeak of rubber soles on linoleum. Hum of life support. It made his skin itch. "Vitals are stable. But, Klaid... looking at her today? She had a moment."
+
+"Define moment."
+
+"A smile. Or... I think it was." A pause. He heard her thumb rubbing the microphone housing, a nervous habit. "The nurse, she found that old postcard? The one from Kyoto. She read it out loud. Mom's hand... it squeezed mine."
+
+Klaid's fingers stopped drumming on the desk.
+
+A spike drove itself under his ribs. The memory of polished wood and sweat, his mother cheering from the stands. Her face alive.
+
+He swallowed it. Pushed it down where the failures went.
+
+Emotions caused lag.
+
+"That's productive," he said. The word tasted like ash. "Listen. The transfer for life-support maintenance cleared this morning. You check the account?"
+
+Silence stretched on the line. Heavy.
+
+"I got it," she said finally. Her voice dropped an octave, losing what warmth remained. "Thanks. I'm sure Mom appreciates you keeping the lights on."
+
+The accusation hung between them. While you stay away.
+
+"Someone has to pay for the lights," Klaid snapped, defensive. "The new NRT-7 protocols aren't free. The subscription alone is—"
+
+"I know, Klaid. You 'work'." She cut him off. The sarcasm was dull, a rusty knife. "Just... she squeezed my hand."
+
+He flinched. His eyes burned.
+
+"El. Time." He checked the server clock. "Launch is in seven minutes. This is... This is a big one, El. The biggest. If I get a good start, I get ahead of the curve. Better income. More stability."
+
+"Right. The curve," she whispered. "Just... pick up the phone next time? After you've... saved the virtual world."
+
+Click.
+
+Klaid stared at the monitor. The wolf animation looped. Lunge. Bite. Reset.
+
+I should be there.
+
+The thought was loud, unbidden.
+
+He stood, shoving the chair back. The movement was jagged, lacking his usual grace. He walked to the corner of the desk, to the silver frame he kept face-down.
+
+He flipped it up.
+
+His mother. Before.
+
+She held the camera with a laugh, the sun overexposed behind her. Messy. Happy.
+
+Alive.
+
+Klaid looked at his reflection in the darkened monitor. Dark circles. A ghost in grey sweats.
+
+I should be there, the voice repeated.
+
+No, the Operator corrected. You are an asset generator. A resource funnel. Function.
+
+He placed the photo face-down.
+
+His shoulders dropped an inch. His face slackened, smoothing into a mask.
+
+He walked to the capsule.
+
+It looked like high-end medical equipment. The kind that kept people technically alive. Sleek and white. He ran a hand over the lid. Cold.
+
+He keyed the sequence. The hatch hissed open, releasing stale air and antiseptic wipes. A cockpit. A trench.
+
+He climbed in. The foam fit him too well; he spent more time here than in his bed. The neural nodes pressed against his skull, cold metal on warm skin.
+
+The hatch sealed. Darkness took him. He waited.
+
+On his internal HUD, the countdown burned green.
+
+[SEQUENCE START: 00:05]
+
+[SYNC: 98%]
+
+His right hand twitched in the dark. A phantom sensation. He was reaching for a hilt that didn't exist yet.
+
+[00:01]
+
+[00:00]
+
+Millions of hopeful players were logging in, their new names lighting up the server like stars.
+
+Unseen, a name that had become a myth on the leaderboards of a dozen forgotten worlds slipped past the gates.
+
+Klaid was gone.
+
+Kage was online.
