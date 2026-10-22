@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const gunwitchLitrpg0016Chapter16MaybeItsFine = {
+  id: "01a1655e-8cd8-74bc-803a-4927ac41c788",
+  type: "page-type/story-chapter-read",
+  slug: "gunwitch-litrpg-0016-chapter-16-maybe-its-fine",
+  position: 16,
+  publishedAt: "2025-12-04",
+  unit: "unit/words",
+  title: "Chapter 16: Maybe It’s Fine",
+  story: "story-read/gunwitch-litrpg",
+  ownLength: 1798,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2818617",
+      externalLink:
+        "https://www.royalroad.com/fiction/141704/gunwitch-litrpg/chapter/2818617/chapter-16-maybe-its-fine",
+    },
+  ],
+  createdAt: "2026-10-22T20:47:37.686Z",
+  updatedAt: "2026-10-22T20:47:37.686Z",
+} as const satisfies StoryChapterRead

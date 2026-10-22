@@ -1,0 +1,40 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const gunwitchLitrpg = {
+  id: "01a1655e-8cd7-78d2-a5a0-70f1d698c1c2",
+  type: "page-type/story-read",
+  slug: "gunwitch-litrpg",
+  author: "Goroella",
+  following: false,
+  unit: "unit/words",
+  title: "Gunwitch [LitRPG]",
+  world: "world/gunwitch-litrpg",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "141704",
+      externalLink: "https://www.royalroad.com/fiction/141704/gunwitch-litrpg",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Progression",
+    "Comedy",
+    "Female Lead",
+    "Slice of Life",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "GameLit",
+    "High Fantasy",
+    "Magic",
+    "Secret Identity",
+    "Strong Lead",
+    "Supernatural",
+  ],
+  publicationStatus: "ongoing",
+  readLater: true,
+  createdAt: "2026-10-22T20:47:37.686Z",
+  updatedAt: "2026-10-22T20:47:37.686Z",
+} as const satisfies StoryRead
