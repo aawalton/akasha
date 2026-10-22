@@ -1,0 +1,99 @@
+For the next two days, Lucas did very little which didn’t involve cooking up blue. He went upstairs every few hours for more barrels or vials at first, but eventually, Hura’gh figured out the intervals and just brought them downstairs into the laboratory without being asked. That sped things up a little. After the first day, Lucas stopped eating upstairs with them, too.
+
+It wasn’t that he feared that he might not be able to make enough to cover his absence for the foreseeable future or anything, though. He’d already bottled enough blue in the first eighteen hours, and he’d already made sure that they’d had enough until summer started, thanks to the amount he could water the stuff down at this point. No, he was in the zone.
+
+Lucas might have been a junkie and a criminal for half his life. He was certainly still a piece of shit on some level, but now that he had a real lab and a little theory, he was somewhere between a perfectionist and an experimenter, too. Not in the stuffy way that Heisenburgle was, either.
+
+Every batch he made over the next two days was a little different. Sometimes, he heated up the reagents a little more before he mixed them together. Sometimes, he cooled them to near freezing instead, just to try to tweak the recipes a little further toward perfection. It was a process that was almost as addictive as the drug itself, to him at least.
+
+Most of the time, nine times out of ten, in fact, according to the journal he was keeping, his changes would do nothing, and half the time, the changes would be bad. They would introduce more poison, or decrease the euphoria at the expense of adding other attributes or effects that weren’t particularly desirable.
+
+This was usually in the form of intelligence or endurance, and none of them was so drastic that he wouldn’t be able to sell the stuff. It wasn’t like the crazy batches that the gnome had made that were downright lethal. Still, on his 24th batch, he succeeded in lowering the poison from 2 to 1, and on his 37th, he was finally able to get the euphoria up to 16.
+
+In the former case, he managed to isolate the portion of goblin bile that was paradoxically the most toxic and apparently reactive by leaving it outside for a couple of hours and letting frost distillation do its work. In the latter case, he drifted off to sleep for a few minutes and let the fire beneath the final solution burn down far lower than he meant to. This let the potion boil down longer without losing so many volatiles and gave him ideas about how he could further develop the recipe if only he had access to a vacuum chamber or pressurization.
+
+Through all of this was only a single distraction: the damn system.
+
+I don’t think this is what you meant to make. +10 exp.
+
+This isn’t a recipe, you know. +10 exp.
+
+One of your reagents might have gone bad. +10 exp.
+
+It was the words in his head that mocked him every step of the way. He shouldn’t have let it get to him, but now and then, he did. Especially when he succeeded at making the recipe better, and all it did was mock him again. At this point, he was pretty sure that if he took the time to improve one of the potions from the gnome’s books, he’d get the same results, which made no sense in a sane world.
+
+“This world isn’t necessarily sane, though,” he reminded himself regularly.
+
+Still, even if the little pop-ups didn’t care for what he was doing, the results spoke for themselves. The potion no longer practically glowed when he made it; now it actually did. If he extinguished all the lanterns in the room, it fluoresced brightly for several minutes before it slowly dimmed to something like the blue potion with cyan glints he’d made so many times before.
+
+He even brought Kar’gandin and Hura’gh down to take a look at one point just to show off the improvements he’d made.
+
+“Ye figure out how to add magic to your herbalism, laddie?” the dwarf asked with a little concern.
+
+“Nah,” Lucas said with a shrug, “the gnome just taught me a couple tricks to making this shit even purer.”
+
+“So then we can dilute it a bit more now?” the dwarf asked, regaining the glint of greed in his eyes.
+
+“We have to; something this potent would kill someone if they tried to drink it,” Lucas answered. “This way though—”
+
+“An orc would be strong enough,” Hura’gh chimed in, predictably. “Nothing is too poisonous for us.”
+
+Lucas thought about refuting that statement but decided it wasn’t worth the trouble. Instead, he said, “Yeah, but orcs would be smart enough not to drink intensely addictive substances, now wouldn’t they?”
+
+That at least got a smug nod from the man, but Lucas continued before Hura’gh could pontificate about how smart orcs were for the hundredth time. “The point is, it’s basically twice as strong now as it was when we started. Which means every time I brew, I can make two kegs of the cheap stuff for the Knights of Brass or one of the good stuff for our more exclusive clientele.”
+
+Lucas didn’t bother to explain that it was slightly less toxic now, too, because they wouldn’t care. He only cared for more esoteric reasons, really. If a junkie got sick, then as far as he was concerned, that was pretty much what they deserved.
+
+He appreciated it more for a sense of perfectionism in general and, more specifically, as a clue that he was on the right trail toward the “perfect” recipe. He didn’t know if such a thing existed, of course, but that didn’t stop him from trying.
+
+It was only after he’d completely exhausted their stores of goblin bile and they were running low on wizened gnome caps that he finally stopped his brewing rampage. He let Kar’gandin know exactly what they needed to prioritize once the weather improved, but on the plus side, they had close to two thousand doses of the good stuff, which was enough to get them through the summer at the current pace. It was a literal fortune, and he looked forward to turning it into cash.
+
+If stocks held out, he might brew a few barrels in the summer and work with the Prince to sell them abroad. Lucas didn’t really like the idea of expanding his hold on the market any more than he had already, but if he was hooking people far away, then that wouldn’t be so bad.
+
+What Danaria doesn’t know won’t hurt her, he decided, and he finally took a real break and had dinner in the main house again with her.
+
+He’d been looking forward to seeing her, but Adin’s mere presence soured Lucas’s mood and, eventually, his stomach. Eventually, he excused himself and went to bed early, feigning exhaustion, but the truth was he couldn’t even look at the man anymore and could only barely tolerate his existence. Danaria looked worried by that, but he assured her, “There’s nothing wrong with me that sleep can’t fix.”
+
+Even there, in a soft bed, though, sleep didn’t come. As a result, Lucas ended up staying awake for half the night studying his system interface.
+
+First, he looked at the achievements interface, desperately wishing he could drill down further into some of the options. Wishing didn’t make it a reality, though, and the thing stone-walled him. Still, he found himself returning to the same option again and again as he went through the thing: Practice makes perfect.
+
+Practice makes perfect: 91% Different failed potions created will help you learn what you did wrong that much faster!
+
+It, frustratingly, had not moved at all since he’d last looked at it at Blackgate, which didn’t make much sense, given how many times he’d failed to make a correct potion between now and then, according to his system.
+
+“Maybe I need to fail to make a bunch of different potions,” he whispered to himself as he stared up at the dark ceiling.
+
+It certainly seemed useful. Given how often the thing said he failed, he would love some insight into exactly why he failed or what he needed to do to not fail, even though he had no idea how exactly that would work.
+
+Eventually, he raised his intelligence by one point, just to see what that would do, but he regretted it almost immediately because it seemed pointless. Lucas certainly didn’t feel smarter with an intelligence of 15 than he had with 14.
+
+“What are these numbers even supposed to mean?” he sighed, wishing, not for the first time, that there was a help file. Eventually, he was able to pull up additional details on the intelligence attribute, but it did little to enlighten him.
+
+Intelligence: The ability to acquire and apply knowledge and skills. The amount of mental ability you are able to bring to bear to solve problems. Current rating is above average, with a slight bonus to certain related skills.
+
+What was a related skill, on the other hand, was an open question. Lucas found a similar screen for each other attribute, and read them. Eventually, that was enough to figure out that the average was around 10 somewhere. They were about what he expected. Only the description on appearance made him laugh when it noted that he was ‘significantly below average, and likely to repulse strangers.’
+
+“Yeah, like women haven’t been telling me that my whole life,” he chuckled to himself.
+
+Eventually, all other options explored, and sleep nowhere in sight, he turned his attention back to the perks and advantages, which were things he could actually buy. There was something he actually needed to buy before he went out with Danaria tomorrow, but he didn’t remember exactly what it was called.
+
+He wasn’t exactly in a hurry looking for it. So, he took his time looking through any option that sounded good to him. Tough as Nails, Superior Scavenger, Extraordinarily Perceptive All sounded interesting to him. Inured to Hardship seemed interesting at first, but he realized it would make good food and comfortable beds just as bland and endurable as starving. He didn’t see why anyone would want it.
+
+Tough as Nails - This feat makes all pain feel half as strong as it otherwise would. This is a passive effect. Taken multiple times, it will assist in blood loss and recovery against illness.
+
+Superior Scavenger - This feat will reveal the closest source of a chosen reagent within one mile so you can find exactly what you are looking for. This feat uses mana for the duration you upkeep it.
+
+Extraordinarily Perceptive - With this perk, one can see what others miss. Details will stand out more than ever before.
+
+Inured to Hardship - With this ability, discomfort no longer bothers you. You may sleep on the floor or a feather bed, and you will be just as satisfied as you would be as if you’d experience the bare minimum for these requirements. Additionally, with food and water, one can…
+
+Recalling the comment that Kar’gandin made about adding magic to the vials, Lucas eventually found one that would let him learn limited magic, but the price seemed much too high. Most of these cost one or two points, but the cost of using magic seemed to be five or ten points, depending on which version he chose. There were even some divine variants related to worshiping gods, but he wasn’t especially interested in those and skipped them.
+
+Lesser Elementalism - This feat will allow you to learn and use lower-tier spells of a single elemental sphere.
+
+Low Magic - This feat allows you to learn and use lower-tier spells.
+
+Eventually, shortly before he fell asleep, as false dawn was coloring the sky, he found and selected Superior Forager. Though Lucas already had a small collection of miscellaneous herbs collected for Heisenburgle, he was sure that there were more strange winter reagents he could collect to add to that collection before he headed back in a couple of days.
+
+Superior Forager - This feat will let you detect all reagents within a quarter mile to make your task of finding them that much easier. This feat uses mana for the duration that you upkeep it.

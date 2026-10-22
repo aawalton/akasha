@@ -1,0 +1,121 @@
+Lucas slept the night and the day away and woke up sometime after lunch the following day after an 18-hour coma. He wasn’t sure if that was because of how bad he’d screwed up his sleep schedule, Heisenburgle’s pick-me-up, or both.
+
+He didn’t give that much thought, though, because the reason he’d finally woken up was a pounding headache. Lucas groaned as he braved the sunlight long enough to get to his bag and pull out a lesser tincture of healing, which solved the problem almost immediately. After that, he just lay there feeling like he was recovering from the aftereffects of a hangover, with dry eyes and a stiff neck.
+
+It was only when that started to ease, and he could feel himself relax as the potion worked its magic, that he realized he finally had the privacy and the energy to try bringing up that screen he hadn’t gotten the chance to explore before.
+
+“Bonus experience,” he whispered, trying to make it appear, but nothing happened. He lay there another few seconds in frustration as he tried to figure out what he’d said last time, but the moment he reviewed the statement from before in his mind, the glowing blue screen burst to life once more. Bonus experience? What is this, a video game? What in the world do I need a character sheet for?
+
+Ohhh… Character sheet, He thought as he figured out what the real trigger was.
+
+Name: Lucas Sharpe  Class: Alchemist   Level: 1
+
+Agility: 13    Endurance: 9   Appearance 7
+
+Intelligence: 14  Strength: 11   Soul: 9
+
+Health: 100%      Mana: 100%
+
+Status Effect:  Minor healing: Ongoing
+
+Wakefulness withdrawal: Ongoing
+
+Fatigued: Moderate
+
+Imbued Equipment: Ring of Vanishing (Fine Quality)
+
+You have unspent points. Please use them to increase your ability scores or gain feats/perks.
+
+Lucas sighed. There was a lot to unpack there, and he had zero frame of reference for it.
+
+There was no number for the experience, but there was a little bar next to where it listed his level that was mostly empty, so he assumed that was where the experience bar was. Likewise, if this was a video game, he would have expected to see a health bar or a mana bar or something, but it just said 100%, which was less than helpful. He didn’t, though. Instead, there were just the status effects, and when he focused on them, more information expanded from each of them, making whatever this was fairly intuitive, if nothing else.
+
+Minor healing: ongoing - You have recently imbibed a minor healing tincture. Its effects will continue for the next 2 minutes or until its injury threshold is exceeded.
+
+Fatigued: moderate - You have had irregular and insufficient sleep for more than 24 hours. Your performance in all activities will be lower until this is rectified.
+
+Wakefulness withdrawal: ongoing - You are suffering minor withdrawal from the use of a wakefulness potion. This can be cured immediately by consuming another wakefulness potion. Caution, repeated use of wakefulness potions can lead to addiction. If no further potions of this variety are consumed within the next 48 hours, this withdrawal will abate.
+
+Addiction? What the fuck did that asshole give me? Lucas wondered. He made a note to stay away from the alchemist's potions without a little more careful review.
+
+“Man, I would have thought there would have been more here,” Lucas sighed to himself. “I don’t give a shit about these stats; I want to see alchemy shit. Where are the recipes that I learned? That achievement mentioned…”
+
+His words trailed off. As he spoke the magic words, an achievement panel opened up. Only a few of the options were lit up, though.
+
+Murderer: 1/1 - You have committed your first murder. +2% to all damage
+
+Killer: 1/10 - in Progress.
+
+Alchemical Scholar: 10/10 - An excellent start! +10% to the effectiveness of all created alchemical mixtures.
+
+Alchemical Scholar: 23/50 - in Progress.
+
+Perfectionist: 10/10 - You have perfected several easy recipes. Additional levels of quality have been unlocked.
+
+Serious Perfectionist: 10/100 - in Progress.
+
+“What in the actual fuck?” Lucas said out loud. This was the last thing he expected to see.
+
+Killer? Perfectionist? That was crazy. There were a ton of partially started achievements below those, along with an apparently endless amount that he hadn’t started that he couldn’t read.
+
+Accomplished forager: 87% reagents gathered.
+
+Careful Dosages: 28% use solvents to purify toxic reagents.
+
+Exceptional Etiquette: 33% learn all of Lordanin’s cultural rules.
+
+Fancy Footwork: 40% complete - learn one style of sword fighting.
+
+Happily Ever After: Fall in love with a partner who reciprocates.
+
+Naturalist extraordinaire: 44% You have discovered many reagents, solvents, and catalysts, but there are always more to find!
+
+Practice makes perfect: 91% Different failed potions created will help you learn what you did wrong that much faster!
+
+There were dozens of these stupid things without apparent rhyme or reason, and his eyes glazed over as he flipped through them. Why should it matter to anyone how many herbs I’ve picked or how many times I’ve failed to brew a potion? He wondered.
+
+Lucas felt like he was losing his mind. In that moment, he wanted nothing more than to march downstairs, find Heisenburgle, and explain everything to him in the hope that the gnome might have some understanding of what this was. He couldn’t do that, though. Tipping his hand about something like this? He had a feeling that would be a big deal. For now, he would just have to go through the gnome’s library and see if any of the books he kept mentioned it.
+
+For now, though. Lucas didn’t get up. He kept digging. He found a screen for both recipes and ingredients when he finally stumbled on the Alchemist class interface. It was like a wiki in his head for all the potion stuff he’d discovered until now, and out of everything he’d found in this jank-ass interface so far, it was by far the most useful.
+
+With a thought, he could search through every herb and root he’d ever seen and look for every one of them that had an effect on intelligence or even a positive effect on intelligence. He could then sort that list from highest to lowest or most to least common. He could even sort them alphabetically. It was very impressive.
+
+Certainly, it was more impressive than the list of potion recipes he had. Those he disagreed with almost entirely. As far as he was concerned, there was no one right way to make a potion, but if there was, it certainly wouldn’t be to make a boost potion with a poison value of four.
+
+Lucas almost gave up on that interface completely until he checked out one of the potions that he’d made ‘perfectly’ according to the logic governing this thing. That at least showed some promise.
+
+Potion of Lesser Mana Regeneration: Ground distilled vessin root, leached sardic blossoms, kobold marrow.
+
+Variation 1 of 13 perfected. Additional options are available.
+
+Considering the additional options brought up another menu with two more recipes. Neither of these was completely filled out, though, and some of the ingredients were simply listed as ????.
+
+What he didn’t see anywhere on any of these lists were potions of mana intoxication, which is what the pop-ups had called Blue for the longest time. That was one mystery, but maybe not the most important one. The real question, beyond what the hell did all this shit mean, was why now?
+
+He’d been in this world for years now. It had been nearly half a decade since he was chased by angels and fell from heaven into a stranger’s corpse, and now, all of the sudden, he was level 1? Why? Who determined that? It didn’t make any sense, and he rubbed his eyes in frustration. He was not sure what he was supposed to do about any of this.
+
+He was about to put the whole thing away when he suddenly remembered the damn points the thing had mentioned. Lucas reluctantly shrugged mentally and decided to check that out, too. Might as fuckin’ well, he thought with ever-increasing frustration.
+
+It turned out that he had 3 points to spend. He had no idea if that was good or bad or what the stats did, but apparently, he could raise one three times if he wanted to. There were other things, too. The list of those was nearly endless. Sneak attack, effortless upkeep: invisibility, endure blood loss, endure pain, poison toleration, advanced appraisal, and many were listed in row after mind-numbing row.
+
+“I can’t believe I have to deal with this nerd shit,” Lucas sighed. He hadn’t played D&D since high school, and he’d long ago pawned his play station for other, more important needs. Video games and all that were alien to him, and now some aspect of his survival was dependent on them. It was more than a little frustrating.
+
+On a whim, Lucas picked out Superior Forager and gave it a look. It was straightforward enough. This feat will let you detect all reagents within a quarter mile to make your task of finding them that much easier. This feat uses mana for the duration you upkeep it.
+
+Would you like to select this ability? Y/N
+
+Lucas declined and picked another one. This time, he chose Superior Scavenger, curious about the difference. This feat will reveal the closest source of a chosen reagent within one mile so you can find exactly what you are looking for. This feat uses mana for the duration you upkeep it.
+
+Would you like to select this ability? Y/N
+
+“They’re basically the same thing,” he said in annoyance.
+
+They weren’t, of course. They were different enough, but really, he didn’t need either. He knew where the shit he needed grew by now. He wasn’t fucking Adin, after all. He was actually competent.
+
+Adin. Just the thought of that man-made Lucas wonder what it was that he was out there fucking up, and the interface dropped away as he realized he needed to send another note to let Danaria know that he was still doing okay. If she was rising all the way over here every few nights, the last thing he wanted was to worry her.
+
+He quickly sketched out a quick note, folded it up, stuck it in the window, and then went downstairs to find something to eat. ‘Doing great, making progress. Things got a little more complicated, and this could take longer than I thought.’
+
+“Complicated,” he chuckled darkly. “That’s an understatement. I have to deal with a dragon, find the recipe for a mythological potion, and who knows what sort of fresh hell that will unleash.”
+
+It didn’t matter. He wasn’t exactly just a long for the ride this time. He was pretty sure that Heisenburgle could labor at this for fifty years and never crack it, but Lucas already had a few good ideas. He was pretty sure this was a solvable problem, and then, well, then, some pretty powerful people were going to owe him some pretty big favors.
