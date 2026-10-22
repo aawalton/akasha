@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const lifeIsASideQuest0015Chapter15AlexanderTheUnwillingAdventurer = {
+  id: "01a165cd-8089-7795-aa91-3565b09d050d",
+  type: "page-type/story-chapter-read",
+  slug: "life-is-a-side-quest-0015-chapter-15-alexander-the-unwilling-adventurer",
+  position: 15,
+  publishedAt: "2025-07-22",
+  unit: "unit/words",
+  title: "Chapter 15: Alexander the Unwilling Adventurer",
+  story: "story-read/life-is-a-side-quest",
+  ownLength: 2388,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2457375",
+      externalLink:
+        "https://www.royalroad.com/fiction/124819/life-is-a-side-quest/chapter/2457375/chapter-15-alexander-the-unwilling-adventurer",
+    },
+  ],
+  createdAt: "2026-10-22T22:48:49.032Z",
+  updatedAt: "2026-10-22T22:48:49.032Z",
+} as const satisfies StoryChapterRead
