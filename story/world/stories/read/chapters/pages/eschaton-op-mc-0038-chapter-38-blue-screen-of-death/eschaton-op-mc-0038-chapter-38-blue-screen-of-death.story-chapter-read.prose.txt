@@ -1,0 +1,209 @@
+Park Byeong-ho is lounging in his seat at Song Technologies’s Mission Control when everything goes red. Datacenter 3, the latest and greatest, spikes to maximum. Both traffic and processor loads cap out. It’s throwing its entire weight against… something. The red emergency phone next to him rings loudly. He quickly picks it up, and the panicked DC3 operator runs over him before he can get a word in edgewise.
+
+“Please tell me what I’m seeing is a glitch!”
+
+“No,” Parks says, barely hiding his growing panic. “I’m seeing that too. Call in everyone! Get it under control!“
+
+Datacenters 1 and 2 go red in unison too, and the operators manning those stations snap their heads towards their own terminals.
+
+“I gotta go. Keep me apprised!“
+
+“What—”
+
+He slams the phone down before redialing. A few agonizing seconds go by before a groggy voice comes over the line.
+
+“This better be fucking worth it.” His boss growls out.
+
+“Every datacenter we own has just been hacked. We have no idea how or why.”
+
+“….What?“
+
+Park has to speak up over the sound of other operators sprinting into the room. Given the late hour, only a skeleton crew was in the room. The rest were in the break room, or maybe napping in their on-site barracks.
+
+“We’ve been hacked! We’ve lost control of all three datacenters!“
+
+“Wake Xeroday. I’ll be right there.” The line goes dead with a click.
+
+Park gulps at the thought of waking Song’s Empowered hacker. Despite their powers revolving entirely around the digital realm, they’re still ultimately a 3-Star. Meaning they’re strong enough to rip someone limb from limb. Park’s heard enough horror stories about Empowered to know that you don’t piss one off.
+
+Paying off your family—and the police—for your murder costs less than losing an Empowered.
+
+Park shakily dials Xeroday as his co-pilot slams into the seat next to him. Out of breath and still in his sleep clothes his fingers fly across the keyboard.
+
+“Figure out where the traffic’s going!” He tells him. “I gotta call Xeroday.”
+
+The line picks up before the first ring even finishes.
+
+“What.” Xeroday’s voice is artificial and non-descript.
+
+Park gulps again. “We, uh, need you in Mission Control right now. We’ve been hacked, we’re losing control of everything!”
+
+Xeroday hangs up.
+
+Park’s co-pilot goes pale beside him. “Uh, Park? We’ve got a problem.”
+
+Park’s stomach drops.
+
+“What? What are the DCs doing?”
+
+“They’re attacking Kwon Heavy Industries!”
+
+Park and his co-pilot share a look of mutual panic. While the truce between Song Technologies and Kwon Heavy Industries is uneasy, breaking it is suicide. The Corporate Accords set very heavy punishments for those who use the closer ties as an opportunity to take out a rival. A blatant attack like this will bring down the rest of the Conglomerate on them. An example will have to be made, and it looks like they’ve been volunteered.
+
+“We’re so fucked.”
+
+Xeroday ghosts into the command center, a black leather phantom. Not an inch of skin is exposed, and their form is androgynous and indistinct as is their modulated voice. A thick trench coat billows around them. Their head is covered by a full helmet and mask. A pixel screen displays a singular eye that scans the room.
+
+Their boots make no noise as they take their seat in the center of the room. They lean back in the luxuriously padded chair, and place their metal tipped gloves onto perfectly molded metal indents. Park’s co-pilot whispers to him.
+
+“No monitors? No keyboard? How do they control anything?”
+
+“They connect their brain directly to the computer. They don’t need something so clumsy as keyboards.”
+
+Another alarm sounds, and something else on the theater screen-sized monitor at the front of the room goes red.
+
+“We’ve lost control of the satellites!”
+
+The entire satellite branch somehow manages to scramble even faster than they already were.
+
+“—Can’t get in!—”
+
+“—They’re de-orbiting—”
+
+“—Hurry! We’re going to lose them!—”
+
+Xeroday sends a message to his headset rather than speaking aloud.
+
+“The attack on the satellites is coming from Kwon’s own servers. It seems to be a retaliatory strike.”
+
+“What should we do?!”
+
+“Damage control. Save what we can. Slash and burn the rest. Trust nothing but the terminal you’re using now. Consider everything else compromised. Go.”
+
+The attacks escalate with every second that goes by. Network loads are spiking not just between KWI and Song’s connections, but across the entire Conglomerate intranet.
+
+“KWI’s attacks are spreading! What have they done?!“ Park says in horror.
+
+“Focus.”
+
+The biggest source of the attacks is Datacenter 3. Its combination of insane bandwidth and processing capabilities means it has the ability to inflict incredibly powerful Denial-of-service attacks and the ability to decrypt by brute force.
+
+Regaining control of it offers an opportunity to not only stop what’s going on, but also the ability to fix it. If they can take it back, they can restart the network from a powerful central hub, allowing them to bring back the Conglomerate’s intranet with decent capability almost immediately from the get-go.
+
+Easier said than done.
+
+Park dives into Datacenter 3’s management software, scanning it for irregularities. An odd connection, a non-responsive server bank, anything that might be the source of the hack. He notices the traffic load dropping, and taps his co-pilot on the shoulder.
+
+“Take a look at that. Xeroday’s already taking it back!”
+
+The Empowered comes back over the headset, their voice emotionless. It fills Park with dread.
+
+“That’s not me.”
+
+Park dives back into the management software, checking everything.
+
+Outside connections are still up. Internal VPN says its good, but can’t trust that…
+
+He dives in deeper.
+
+Power draw is high, which makes sense. Coolant system running at full. Temperature is perfect—
+
+Oh God.
+
+Despite the datacenter’s state-of-the-art liquid cooling system, with everything pushing so hard, it should still be running a little hotter than normal.
+
+It shouldn’t be perfect.
+
+Temperature logs show a constant 32 degrees Celsius operating temperature, and it hasn’t changed. There should have been a tiny spike after the load jumped and the delay in the cooling system’s response. Even if it was only a couple of degrees for less than a minute. But the temperature reading has flatlined.
+
+He scrambles for the phone, and dials up the on-site team for Datacenter 3.
+
+“CHECK THE HARDWARE! RIGHT FUCKING NOW!” He screams into it. “THE TEMPERATURE READING IS TOO PERFECT!”
+
+The manager on the other end yells at someone to go check, and both of them wait with baited breath.
+
+Please, please, please let me be wrong!
+
+A klaxon wails, both in Mission Control and at Datacenter 3. It’s the fire alarm. The datacenter manager drops the phone, and before it goes dead, Park hears him ordering everyone to evacuate.
+
+The power draw stays high. The fire alarm should cut the power to the data center once it goes off, but the fail-safes aren’t mechanical, they’re BIOS level programs.
+
+“Someone rewrote the fail-safes!”
+
+Park’s co-pilot shakes his head.
+
+“Impossible! They’re kernel level, they can’t be rewritten while in operation!”
+
+“I could do it. We’re facing an Empowered.” Xeroday says.
+
+“Kwon’s been hiding an Empowered Cyber specialist? Where? How?“
+
+“Not important. Datacenter 3 is lost. It’s melting down as we speak. Cut it out of the network. Quickly. I’m looking into something else.”
+
+Park frantically orders Datacenter 3 to shut down and disconnect from the network, but nothing happens. Not only is DC3’s local copy of the management software broken, but his is too. He calls up Heo Electrical, the power company that services Datacenter 3’s direct line. If he can’t turn it off, he’ll pull the power.
+
+“The line you are trying to reach is no longer in service. Goodbye.”
+
+Fuck! Heo Electrical uses an internet phone!
+
+With the network overloaded and collapsing, the phones won’t work. They’ve been cut off.
+
+It’s a good thing we use landlines.
+
+The satellites are continuing to shift, the satellite branch powerless without the ability to regain control. The only thing they get back from them is a repeating message, broadcast on all frequencies.
+
+I have lost control and am deorbiting at periapsis. No connection or recovery is possible. Please avoid me. My orbital parameters are as follows…
+
+Whoever is deorbiting them was smart. Perfectly timed to prevent collisions with other satellites.
+
+The controllers for Datacenters 1 & 2 are as panicked as Park was, though he’s only exhausted now. Both of them are melting down just as 3 was, though slower given their lower power draw. With the management systems compromised, the fail-safes overwritten, and the power company isolated, there’s no chance of recovering any of them. The staff has already evacuated, trusting in the software fail-safes. There’s nothing left to do.
+
+It’s over.
+
+Park tried to bring up the lack of mechanical fail-safes to the higher ups, but they were deemed expensive and unnecessary. Software is more reliable, they said. Mechanical parts are prone to mechanical failures. Song Technologies is world-class when it comes to software. Far more reliable than outdated and obsolete mechanical options.
+
+“We have a new problem, Controller Park. Pay attention.” Xeroday sounds oddly strained.”I’m chasing down another attacker. They stole information from Datacenter 3 before it melted down entirely.”
+
+“What do you need me to do?”
+
+A window pops up on his terminal.
+
+“Find out what they stole. Whoever is on the other end is good. I need to focus.”
+
+“Another Empowered Cyber specialist?!“
+
+Xeroday doesn’t respond, and Park looks over. The eye on their mask has turned off, and their fingers are slightly twitching.
+
+Who the hell is capable of pushing Xeroday so hard?
+
+Hours later, Song’s Mission Control is filled with an atmosphere of defeat and despair. What little remains of the first of five satellites is already on the ocean floor, and a second is minutes away from becoming a fireball. All three Datacenters are flaming wrecks—total losses.
+
+The staff got out as soon as the fire alarms went off, but the fire control systems weren’t capable of stopping the server racks from melting down. Cutting the power was a critical step in fire control, and the software fail-safes meant to cut the power failed. The meltdown raged unabated, and left nothing intact.
+
+It’ll be burning for days.
+
+Billions of dollars in damage, and that’s not counting whatever the Conglomerate is going to do to them. Song had a few remaining server racks that were air gapped after they were attacked by Kwon, and KWI confidential files were found on them. Not just a couple, but everything. Terabytes of customer records, blueprints for both old and new products. Research projects. Bank information.
+
+Terabytes upon terabytes of information. Of course the execs denied they had a hand in it. They said it was a false flag, an inside job carried out to disrupt the Conglomerate. No one believed them, but it doesn’t matter if they did anyway.
+
+This is the first time the Corporate Accords have just not been tested, but broken. It’s impossible to hide it either. Three of the best datacenters ever built are smoldering wrecks. Song Technologies’ in-house satellite network is doomed. By the time the satellite crews managed to take back control, all of them had emptied their fuel tanks. Every single one is on one-way trips to the Pacific Ocean’s seabed.
+
+The Conglomerate intranet lies in shambles, running off legacy hardware pulled out of storage. They had to cannibalize a few in-progress communication satellites ordered by other companies just to get things running again. Years of work and hundreds of millions of dollars gone, destroyed in a single night. They’ve even been forced to sign deeply-one sided emergency contracts with Jovian Telecomm to use their satellite network.
+
+Our network will literally never recover from this.
+
+What this will do to the war effort is too terrible to think about. The intranet and Xeroday was one of the biggest advantages the Conglomerate had. At least Xeroday is still around, but they haven’t moved from their chair since they sat down.
+
+What are they doing?
+
+The news loads slowly on his phone as he doomscrolls. What else is there to do but find out how bad things really are?
+
+“Colonel Cho of Kwon Heavy Industries has just retreated in good order from his position defending Kwon’s headquarters in Seoul. Republic forces have already moved in. Conglomerate defenses in Seoul are strained but holding—
+
+With Conglomerate control over the media being so tight, Park can barely fathom how bad it must actually be if the reports are “retreats in good order” and “strained defenses”.
+
+Park gets up and moves towards the barracks.
+
+“Where are you going?” His co-pilot asks him.
+
+“To bed. Wake me when they come to fire us.”

@@ -1,0 +1,179 @@
+Our convoy passes through layers of fortifications, some modern, others more medieval. We pass through anti-tank concrete dragon teeth, barbed wire, a minefield, and finally over an actual drawbridge. All of it is obviously new, lacking even microscopic amounts of weathering.
+
+Inside the concrete walls is no different as the rest of Palisade’s private military base is clearly in the early stages of expansion. Construction crews swarm over a second runway, a 12,000 footer for heavy aircraft. The steel skeletons of hardened shelters and bunkers jut up, and even more workers swarm over them like ants.
+
+“Pardon our dust, Machina. We’re currently expanding to meet a rapid influx in demand of our services.” Ms. Tilden says we drive by them all.
+
+We pull up to a series of reinforced hangars, and Ms. Tilden leads me to the closest. Inside is a brand new aircraft, one just as large as the Pineapple Express.
+
+“That’s a CX-6, they’re still in the experimental phase. How did you get one? Not even the US Airforce has received one.” I ask.
+
+The CX-6 Andromeda Program by Bluefire is meant to replace the aging C-5 fleet. The Pineapple Express is even older than I am, and I doubt it has many flight hours left on it before it’s no longer safe to fly.
+
+We circle the futuristic aircraft as a neatly uniformed support crew stand at ease by the rear cargo bay. Even the mechanics’ uniforms are spotless and creased.
+
+Too clean.
+
+Along one side is the name “Valiant”, as well as the minimalistic logo of Palisade: A blue fence inside of a silver shield. All of it stands out against the midnight black paint scheme. Three engines are merged into each wing, and the wings smoothly flow into the main body of the aircraft, blurring the line between engine, wing, and fuselage.
+
+“Lifting-body airframe. Wing-embedded engines. Turbulent-flow diverters for the intake. Configurable bypass engines. Long range, high altitude, heavy lift capacity. A masterpiece of aerospace engineering.”
+
+“Nothing but the best for you. I must admit I’m surprised at your familiarity with the Andromeda program. Not many people pay attention to cargo aircraft,” Ms. Tilden says with a congenial smile.
+
+“When you’re bound to heavy lift aircraft as much as I am, it’s a good idea to keep up to date on the only way you can get around,” I say, shrugging.
+
+“Well, would you like to look inside? Should you decide to join us, you’ll be spending a lot of your time onboard, I’m sure. If there’s something missing, we can discuss changes to your preferences.”
+
+We step into the rear of the cargo bay, and it’s a familiar sight after spending so much time in the Pineapple Expresss’s own cargo bay. The utilitarian cargo bay is painted in gunmetal gray paint.
+
+“Here’s where we’ll stow your Chinook. It’ll be a new-build CH-47F, the latest and greatest model. It’s actually on its way here right now. It should be here in two days. If you follow me to the fore section…”
+
+Half of the bay is obscured by black plastic slats, and we push past them with a clatter. On the other is a lavish interior. The floor is still metal, though instead of functional grills for easy cleaning, it’s thick, gleaming tiles. The walls and ceiling is covered in a soft, cream colored sound dampening fabric.
+
+There’s even furniture sized for me. A heavy steel throne is bolted into the floor on the center line, with the back to the nose of the aircraft. Behind the throne is a lowered elevator, going up to the second deck. A dozen plush armchairs are built onto one side with tables in between them. The other side is a bar, bottles of liquor securely stowed in padded slots. A pair of attendants stand at ease, one behind the bar.
+
+Ms. Tilden gestures to the open, almost opulent cabin with a flourish.
+
+“Here’s your cabin. We know you don’t drink, but we had it installed in case you end up entertaining guests. I’m sure you’ll find no shortage of them, given your prominence in the defense industry.” She points to the attendants standing silently off to one side. “You’ll have a pair of flight attendants on hand for whatever you need. What do you think?”
+
+“It’s certainly… a lot.”
+
+You could fit a platoon in the same space. A second helicopter. A tank.
+
+I don’t tell her what I really think of it.
+
+Wasteful.
+
+“If there’s any changes you’d like made, we’re willing to accommodate. But that’s not all. Unlike the Pineapple Express, you can access the crew deck, where the command center is located.”
+
+I follow her onto the elevator, and rises with a hum at the press of a button. The crew deck is a cramped and busy space. Unlike the rest of the aircraft, with the crew standing silently by, the command crew are busy. Each side of the deck has eight stations, and all of them are crewed by analysts. Each analyst is busily typing away at a station in front of them.
+
+A Captain, strides over from overlooking the slew of other officers and gives us both a crisp salute.
+
+“Machina. Ma’am. Welcome to the command center. I’m Captain Winters, and if you’d like, I can give you a quick tour.”
+
+Ms. Tilden looks to me, and I give a nod.
+
+“Please do, Captain.”
+
+I follow him, though I have to hunch over. There’s enough space for me to walk between the rows of analysts, if barely. Ms. Tilden gives me an apologetic glance.
+
+“Sorry about the cramped conditions. We’re able to do quite a bit, but raising the ceiling isn’t possible,”
+
+I wave off her apologies, and the Captain starts his sales pitch.
+
+“This is the command center, which will be staffed around the clock by eight analysts and overseen by one officer. We have top notch hardware, with cutting edge storage drives. We’re aware of the quality of the sensor data you can produce, sir. We’re prepared to accept quite a bit. The aircraft’s mainframe has ten petabytes of storage.”
+
+Ten thousand terabytes. More storage than DARPA gave me.
+
+“That’s not all. We’ve got an ultra-high speed satellite data stream set up to a land-based data center. We’ve got an exabyte of storage there. We can process a lot of data too. We’ve got even larger teams standing by there to assist with combat strategy and to help with threat ratings for other dive teams. We’re aware that experimentation, recon, and resource collection are your current priorities, correct?”
+
+I give him a nod of agreement, and he continues.
+
+“We’re ready to assist with all of that. I believe CPO Tilden can discuss the research side more, but we’ll coordinate distributing dossiers on monsters and Fractures as you learn about them. We’ll also coordinate material hand offs. Wherever you go, you’ll have a couple of cargo aircraft flying with us to take anything you find off your hands. Where it goes is above my paygrade, but we’ll get it there.”
+
+He then taps an analyst on the shoulder, pointing at the screen. After pressing a few buttons, I get the digital equivalent of a tap on the shoulder.
+
+“We’ve got a dedicated high-speed datalink connection just for you. Right now you’re directly connected to the Valiant’s mainframe, but it’ll automatically reroute through satellites as needed.”
+
+I quickly rummage through the aircraft’s mainframe. The operating system is custom built with a file structure designed with myself in mind. Captain Winters, with one eye on a screen, notices my connection.
+
+I need to figure out how to not trip those alarms.
+
+“I’m sure you’ve already noticed, but everything has been designed with your capabilities in mind for maximum efficiency. I was told DARPA had something to do with it, but it’s not my area of expertise.”
+
+A moment later an external connection opens up. I can see that electromagnetic stream lance through the clouds and up into space.
+
+“And there’s the satellite datalink. That one connects to the datacenter I mentioned. Feel free to take a look.”
+
+Before I blindly dive into it, I peer into the operating system of the transceiver, looking for the alarm. It’s relatively slow going, the pared down system is exceptionally well put together. It’s obviously been hardened against cyberwarfare, and there’s plenty of intrusion countermeasures liberally sprinkled through.
+
+Most of them are designed to just silently track what and when I’ve accessed something—Who else would this be designed for?—but there’s a couple designed to terminate external connections. Those are probably for hackers who aren’t me.
+
+After a few milliseconds of careful work, I finally find the trigger, though it’s too complex to unravel without triggering several more alarms. There’s even an incredibly advanced unlisted ICE AI stealthily roaming this section of the mainframe, randomly checking on connections and active process threads.
+
+Well, time for a little recon by fire.
+
+Keeping one thread on watching the ‘Mach Detector’, I run up the connection to the satellite. Before moving onto the datacenter, I spin off another thread scanning the satellite for the same detector routine. I fall back to earth at the speed of light along an electromagnetic road, paved with frequencies and data pulses.
+
+The datacenter is the most powerful piece of external computing I’ve ever connected to. While it’s mostly storage, there are plenty of powerful supercomputers. They’re also running the custom built OS built with me in mind. How they managed to pull off all of this—aircraft, satellites, and datacenter so quickly I have no idea.
+
+Although, who knows how long they’ve been preparing for this pitch.
+
+My watchdog threads catch something good. The aircraft watchdog catches a glimpse of the detector routine activating as I complete the connection to the satellite. It’s hard to see exactly what it’s triggering on, as I’m viewing that section of computer memory through indirect methods. I’m actively tracking the process status by watching the entire chip’s physical status as it slings electrons around in a blistering lightspeed dance.
+
+It means I won’t be detected by that damnable Black ICE AI—where the hell did they get something like that? Shit like that should be relegated to science-fiction—but I can’t get a perfect view of what is actually going on. I can see the machine and the effect, but what the cause is currently beyond me. Something to keep in mind for the future.
+
+I tap into the thread paying attention to the people around me, letting my cyberwarfare threads continue without the bulk of my focus. Maybe with some more data I’ll be able to come up with something.
+
+“Well, what do you think?” Ms. Tilden asks. “Is the datacenter up to your standards?”
+
+“It’s beyond anything I’ve seen so far. It’s honestly shocking how much you’ve pulled together. I’m deeply impressed.”
+
+“I’m glad! But this isn’t everything. If you’re satisfied with your command and control systems, would you like to take a look at your unit?”
+
+“Of course. I’m sure they’re just as impressive as everything else so far.”
+
+Both of the infantry companies are lined up in another hangar, all of them in their full combat gear rather than dress uniforms. All two hundred and forty troops in perfect formation. Ten soldiers to a squad, four squads to a platoon, three platoons to a company, and two companies in total. Their attached vehicles, a fleet of armed Humvees and APCs mirror them on the other side of the hangar.
+
+As soon as we step into the hangar, the commander at the head of the formation calls out.
+
+“Attention!”
+
+Without hesitation, all of them salute in unison. The clack of hundreds of thick combat slamming into concrete echoes. I wave them down on reflex, learned from being saluted far too many times for my liking. The soldiers relax, returning to an at ease posture.
+
+We approach the commander, a grizzled, older man. His accent clearly gives him away as British.
+
+“Machina. CPO Tilden. Good to meet you sir,” he says to me. “I’m Lieutenant Colonel Howards, and I’m in overall command of Longsword Battalion. Shall I introduce my men, sir?”
+
+“Please do.” I say.
+
+Two more officers step forward, both Captains. The first is a burly man with short red hair. He crisply salutes. His voice is deep and gravely.
+
+“Sir. Captain MacDonald reporting for duty. I command Alpha Company.”
+
+The second is an extremely tall woman, even taller than Morgan. She has short cropped blonde hair with icy blue eyes.
+
+“Captain Heikka reporting for duty. I’m in charge of Bravo Company.”
+
+“It’s good to meet you both. What can you tell me about your troops?”
+
+“We’re already ready for deployment, sir,” Lt. Col. Howards says. “Both companies have the necessary airlift set aside to get us anywhere in the world. We can pull vehicles from local bases and stockpiles as needed.”
+
+“What about their equipment?” I ask, pointing at the long rifles most of the soldiers are carrying.
+
+“Good question, sir.” Howards says appreciatively. He takes MacDonald’s rifle and demonstrates it to me.
+
+“The standard rifle for Longsword Battalion is the SCAR-H, a battle-rifle chambered in 7.62x51mm NATO. Over the past few months, 5.56 has simply not hit the metrics against monsters to make weapons chambered in it viable. So at great expense, we’ve acquired and outfitted the entire unit with the SCAR-H, a common choice among special forces throughout the West.”
+
+He pulls the magazine out, and I sense a miniscule amount of Potentia wafting from the ammunition.
+
+“All of the ammunition provided is made from magical materials. They’re made out of steel recovered from Fractures. Capable of putting the hurt on even Category-2 bosses.”
+
+He hands the rifle back to MacDonald, and points to a pair of soldiers carrying a heavy machine gun. They quickly scurry over.
+
+“Go ahead and set it up. Quickly now.”
+
+The soldiers rapidly assemble the M-2 Browning .50 Cal machine gun. The heavy clunk-clank of a racked charging handle signifies the completion.
+
+“The M-2 Browning. A staple of the US military for nearly a century.” Howards pulls a round out of a box set down next to the machine gun. He holds it up. It’s also magical, though it looks different than most bullets. It’s a sharp-pointed tip with a red plastic band between the casing and the bullet itself.
+
+“This is a SLAP round, or a Saboted Light Armor Penetrator. It’s a discarding sabot bullet. It’s also been made of magically infused steel, rather than the conventional tungsten. Loaded with this, an emplaced machine gun could tear apart even a Goliath with sustained fire.” He hands back the round to the machine gun team. “Any more questions, sir?”
+
+“No, none. Thank you for your time.” I say.
+
+“Of course, sir.”
+
+Ms. Tilden and I leave the hangar behind.
+
+“Well, would you like to see the combat vehicles?”
+
+“No, I think I’ve seen enough, actually.”
+
+She visibly perks up.
+
+“Oh? Should we begin contract negotiations?”
+
+“I’d like to talk to your boss first. If I’m going to be working for Steven Coulson, I’d like to know the man. Especially since I’d have such a large stake in the company he runs.”
+
+“Of course, we expected nothing less. He flew in a few hours ago. He’s in his on-site office. Right this way.”

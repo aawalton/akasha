@@ -1,0 +1,155 @@
+I reach up into low orbit, and splice into the satellite telecom network, though this time I’m far more careful about it. Jovian Telecomm was kind enough to publish reports on the details of my hack in my first moments of my new life.
+
+What tipped them off the first time was the huge spike in network load when I grabbed hold of a single satellite. Not only that, but I also escalated my own privileges to the point I cut off the primary command datalink Jovian Telecomm used to control the satellite. The huge surge in traffic combined with the loss of control alerted Jovian to the hack.
+
+By splitting my connections among multiple satellites and keeping their access levels to a reasonable level means I won’t raise those alarms again. I even go a step further and disguise my traffic as Io base stations, which are a part of their satellite internet package.
+
+Technically, in order to connect to a Jovian satellite, the transceiver needs to pass certain hardware checks. The satellite sends a few signals that aren’t processed software side but through components on the board which reply with the response from the satellite’s challenge. I’m capable of emulating that hardware. I’ve seen a few of the Io base stations, they’re common enough.
+
+It takes only a few milliseconds, faster than a blink of an eye, and I’m in. No alarms so far, but connecting to the satellite is just the first step. Right now I’m constrained to just the bare minimum access needed to authenticate the base station I’m currently posing as. But I’ve got a plan.
+
+The constellation I grabbed was a group that just about to pass over the horizon, and it needs to move all the connections it currently has over to another satellite without actually breaking the connection. During the process, my connection is moved into a different part of the transmission process buffer. For a brief moment, the satellite has to bundle my own connection with other, authenticated connections in order to efficiently hand them all off.
+
+And the moment the satellite is about to duplicate the connection bundles to continue seamless service, I strike with a complex and multi-step cyberattack. The first step is a deauthentication attack.
+
+I flood the routing processor with a burst of garbage data. With all of the connections more efficiently bundled for hand-off, it loses track of which connections are authentic and which aren’t. This is a normal situation, one easily rectified. The satellite merely sends an authentication request to all of its connections. Most importantly, this includes the downlink to Jovian Telecomm’s mission control.
+
+Step two.
+
+The second half of this hack is a man-in-the-middle attack. By snatching Jovian’s session token for this satellite, I steal their identity. Now the satellite thinks I’m Jovian’s ground station. Even after taking control over a constellation, I’m still not done. I need to pass data from the constellation back to the real mission control as to not alert anyone who might be monitoring them. I need mission control to believe that everything is working as intended.
+
+Just like stuxnet.
+
+Now that I have access to Jovian Telecomm’s network, it’s time for a few attacks with a bit more teeth to them.
+
+Let’s see what the Conglomerate is up to, shall we?
+
+The Conglomerate is an alliance of megacorporations currently fighting a civil war against the South Korean government. To call them poorly coordinated would be an understatement.
+
+Their origins as dozens of corporations that often competed against each other in multiple different industries now works against them. The very thing that meant they had the resources and the connections to even attempt a civil war gives me an opening to strike back against them.
+
+*People are dying. I have to help.
+
+The best target to get into the Conglomerate’s network would be a high-level executive. From there I can get into a company’s internal network, and use that access to scan for vulnerabilities. I can also steal data, sabotage operations, and damage hardware. The first step is a quick network scan and research on notable officers who are likely to have access.
+
+Need to move quickly. Every microsecond I’m connected risks detection.
+
+Not only does an officer need to have high level access to internal networks, they also need to be dismissive enough of cyber threats to be careless with login credentials as well as offer easy avenues to attack them.
+
+It doesn’t take me too long to find one.
+
+Chief Security Officer Kim Ga-young for Kwon Heavy Industries likes Internet-of-Things a little too much. While his phone is secured from outside connections, it’s connected to his home’s network, and that’s far less secure. The service he uses to control his lights from wherever he is about as secure as a white picket fence. I masquerade as the service by spoofing the IP address. I send a notification to his phone.
+
+Your lights are on. Do you want to turn them off?
+
+Given the time of day and the fact he’s currently fighting a war means he’s probably distracted, so it might take a bit for him to—nevermind. He presses on the false notification just a few seconds after I send it.
+
+I’m in.
+
+I rampage through his phone, the malicious notification doing far more than just supposedly controlling his kitchen lights. He’s using a secure messaging app to communicate and coordinate. While trying to hack into that subtly would be next to impossible, now that I’ve got access to his phone, all I have to do is read the messages.
+
+I download hundreds, thousands of text messages. There’s even files I’m sure would be disastrous if they fell into ROK hands. I set the phone’s mic to always on, and hide it from the OS. Now his phone becomes a wire tap. I listen in for a few moments to test it.
+
+“I’m well aware of the condition of your unit, Colonel. But no, you can’t retreat. We’ve been promised reinforcements from an outside contractor, and the ROK needs to be pinned down. You will hold.” The CSO’s voice is cold, ordering a bloodied and battered mercenary company to hold ground they can’t.
+
+“Sir, I’m down to less than half strength. Our heavy armor is gone, and we lost our 1-Star squad to a lucky artillery strike. We’re going to get chewed up here!” The Colonel on the other end of the line is desperate.”*Sir, at this rate, we won’t last the week!”
+
+“*No retreat, Colonel. I won’t repeat myself again. You do it or I’ll find someone who will.”
+
+Ga-young hangs up and snorts.
+
+“Barely worth their contract.”
+
+I disconnect in disgust and stop monitoring the mic. I don’t know how anyone could treat people so callously. But he is commanding a war effort, so I suppose he’s used to it.
+
+Although, that gives me an idea.
+
+I install a rootkit on the phone, buried deep into the operating system, allowing easy access to it later. I queue up a message I’ll have it send then hide from Ga-Young. If it’s so critical that the unit stays there, if I fake a message from him telling them to retreat, not only will I save their lives, but maybe the Conglomerate’s line will collapse.
+
+*Still more to do. I’ve got time.
+
+I jump into KHI’s internal network from Ga-young’s phone after stealing his admin credentials. It’s easy to get into everything from accounting to shipping to procurement.
+
+Cutting corners on network security I see.
+
+I’m not even challenged by internal security measures, and with the CSO’s login information, I breeze through the network looking for other targets of opportunity. Seeing a connection to the broader Conglomerate network, I try the CSO’s login information. Often times people reuse passwords when they shouldn’t—I used to, back when I was human. Unsurprisingly, I am able to log into the Conglomerate network, though I don’t have the admin access I did on KHI’s internal network.
+
+Tsk Tsk. You’d think a company engaged in warfare would take better care of their cybersecurity.
+
+Before I start stealing data wholesale, I need to do a little prep work. I disguise a new connection as a secondary data center by emulating the off-the-shelf hardware KHI uses for their in-house bulk data storage. A simple task of falsifying some IPs and monitoring systems, and we’re golden. I can pull high traffic loads without tripping alarms.
+
+Nothing suspicious here, just a scheduled backup to an off-site data center.
+
+Reading emails from KHI’s leaders, I get another idea to cause some even more damage. If I pull this off, this could cause permanent damage to the Conglomerate. One of their chief competitors is Song Technologies, and the formation of the Conglomerate has not made their rivalry any better.
+
+They’re constantly trying to undercut each other, to the detriment of the greater alliance. The Corporate Accords, the legal document that enshrines the alliance, includes severe penalties for active attacks against another member, but it doesn’t preclude the snubbing they’ve been giving each other so far.
+
+Let’s escalate for them. Time for a false-flag.
+
+The plan is simple in design, but complex in execution. I need to slip into ST’s own network without tripping any alarms, but then attack KHI again using their hardware while getting caught in the process. Far easier said than done. With literal gigabytes of confidential files I’ve already recovered, I can plant a few files to make it look like Song tried to use the new Conglomerate network as a chance to get a leg up on KHI.
+
+Now, in order to sell it, I can’t try to hack into Song using the access I’ve gained from Kwon. But reading through Kwon’s files, it looks like they’ve done some homework I can crib off of. Long before the Corporate Accords, Kwon was looking for an advantage, and wasn’t about to put hacking off the table. They managed to do some research into Song’s own network that makes this a cakewalk.
+
+How they did was nothing short of ballsy, really. While Song Technologies design and fabricate all of their own server hardware—electronics is their specialty—they don’t build their own data centers. Kwon Heavy Industries put taps on the power lines into server racks to monitor their power draw, record EM leakage, and even acoustic traces by infiltrating the HVAC and electrical teams that built Song’s newest data center. They’ve recorded terabytes of data over the last four years.
+
+While they can’t do anything with it yet, I can. I quickly chew it up, letting my own algorithms find patterns that no human ever could. Not even the most powerful supercomputers and machine learning model on the planet could pull off what I’m about to do.
+
+The golden ticket to the network would be accessing the data center’s management interface, but that’s hidden behind the data center’s internal VPN. To access it, I need two separate 256-bit encryption keys, one to get through the VPN’s connection to the wider web, and one to access the internal network behind the VPN.
+
+With the data Kwon has, I’m able to calculate them both, pulling off a cryptoanalysis feat long feared. And with that, I have complete access to Song’s internal network. I take a handful of the files I’ve liberated from KWI and place them in some hidden directories, though not too hidden.
+
+I hijack Song’s own hardware and use it to launch a series of attacks against Kwon’s infrastructure, and I’m far less subtle about it. I use a combination of Denial-of-service attacks to overload key points and then brute force a few access points.
+
+Though, in a few places I have to help Kwon’s poor cybersecurity routines and overloaded intrusion response teams. With Kwon going on lockdown, my work with them is done. I drop out of their network, moving fully into the Conglomerate’s instead.
+
+Now let’s break some stuff.
+
+Song makes up the backbone of the Conglomerate’s network and cyber capabilities. Now that I’ve breached them, their intranet is my oyster. The first step is to destroy Song’s communication satellites. Given Korea’s high latitude, geostationary satellites would give poor connections given they’re locked to the equator. Instead, they use Molniya orbits. While most of the time they operate at very high orbits—even higher than geostationary orbits—they have to come in at very low periapsis, or minimum altitudes.
+
+Song has a series of five satellites operating on the same orbit at different phases, allowing for continuous communication, and I take control of all them.
+
+If you use your toys to hurt people, you should expect to get them taken away.
+
+I take control of their station-keeping routines, the programs that keep them in their proper orbits. I rewrite them in milliseconds, changing the orbital parameters they’re meant to maintain. I override the transmitters and force it to send a single transmission on repeat.
+
+I have lost control and am deorbiting at periapsis. No connection or recovery is possible. Please avoid me. My orbital parameters are as follows…
+
+I set them all to burn max retrograde—orbital braking burns—at their highest altitude. While counter intuitive, this lowers the periapsis of the satellite to below the atmosphere. Once all the fuel is gone, they’ll be doomed to dive into the Pacific Ocean, assuming anything is left after slamming into the atmosphere at many times the speed of sound. The satellites have at most, less than twelve hours left to live.
+
+I force the receiver to refuse all communications by dumping anything into RAM then immediately overwriting it with garbage data. The controllers will be able to fix it eventually I’m sure, which is why I need to deorbit them. Nothing less than catastrophic damage will truly put them out of action.
+
+In pieces on the ocean floor would certainly count.
+
+I quietly slink through the network, outracing the panic from Song’s cybersecurity teams. The satellites will still be burning through their tiny reserves of fuel by the time I’m done.
+
+I jump into another company’s network using Song’s network access I’m sure they ‘forgot’ to tell everyone about. I rewrite their BIOS settings to dangerously overclock their CPUS, turn off their fans, and report all good to anyone who tries to figure out what’s going on. I repeatedly overwrite critical data on SSDs and hard drives, making sure whatever is on them is irretrievably lost.
+
+Finally, it’s time to go for the big ticket items: the data centers themselves. All of the data centers have anti-DDOS hardware components called Intrusion Prevention Systems, which prevent the rest of the network from being overloaded with phony requests. They’re digital safety valves, designed to keep a network from being overloaded with high pressure traffic loads.
+
+With my internal access, I can actually bypass these systems forcing them to allow all traffic. After cutting the IPSs out of the network, I promptly force all the data centers and individual company networks to try to draw from each other as fast as they can.
+
+Without the Intrusion Prevention Systems to shield the network switches from the ultra-heavy load, they start to heat up. I hide the thermal alerts from the damage control teams and override safety hardlocks. By the time maintenance personnel physically on site realize the internal network is compromised and the management system is lying to them, it’s too late.
+
+I watch through cameras as thousands of server racks burst into flames and meltdown. Molten plastic and vaporized silicon triggers internal fire control systems, and server rooms are flooded with argon in a vain attempt to save the hardware.
+
+Hack the planet!
+
+I slowly withdraw from what little remains of the Conglomerate’s network, staying quiet. I almost get away cleanly too, with virtually every single IT and cybersecurity team frantically trying to stop what I’ve done. All the evidence should point towards Song Technologies trying to hack Kwon Heavy Industries, only to trigger a retaliatory strike that caused a massive amount of collateral damage.
+
+Unfortunately, Song has someone who’s really good. Too good, really. They’re tracing my connection as fast as I can withdraw.
+
+An Empowered with cyber powers? Where were they before?
+
+I won’t be able to keep this up forever. They might not be able to stop or catch me, but they might be able to trace me.
+
+“Captain? Can I ask a favor?”
+
+Only a few minutes have passed since I started, and Hwang is still standing in front of me, eager to know what I can do for the Republic of Korea.
+
+“Uh, sure? What can we do for you?”
+
+“Can you cover for me? I might’ve just pulled off the largest cyber attack of all time, and I didn’t get away as cleanly as I hoped.”
+
+“What did you do?” she says with wide eyes.
+
+“I just burnt down the entire Conglomerate network. Their datacenters are on fire, their satellites are doomed, and they’ll be too busy tearing each other apart to care about half of it.”
