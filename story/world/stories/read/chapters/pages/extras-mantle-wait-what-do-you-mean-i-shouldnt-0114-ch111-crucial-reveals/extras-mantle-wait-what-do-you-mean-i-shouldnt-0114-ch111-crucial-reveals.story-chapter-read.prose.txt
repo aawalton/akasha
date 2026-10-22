@@ -1,0 +1,267 @@
+◈◈◈
+
+Veric jumped into motion the moment Jin uttered—Multiple overmortals, traps, cultists—the man was already moving, turning on his heel and shouting down the corridor before Jin could tell the man more about the situation.
+
+"Alden, Jack! Get Gleeward and Barsta geared. Bring out any potions and paralytics if we have any left." Veric's voice carried an edge. "Five minutes. Move."
+
+“Yes, sir!” Alden saluted and bolted down the hall alongside Jack.
+
+Veric turned back to Jin, his dull brown gaze sharpening into something more focused.
+
+"I'm not a superb fighter," Veric said, direct and without false modesty. "But I’ve been in combat situations enough times in my life to get by and not be a burden. My mantle allows me to bind opponents in place. I also have a skill that knocks them out if they're caught in the binding long enough." He paused, studying Jin's face. "Is that useful to you?"
+
+The effects of Sovereign's Indifference made the decision simple—another tool in the arsenal, another piece on the board—and Jin nodded. "That would be helpful. Do you expect us to run into mindwashed civilians?"
+
+"Almost certainly." Veric pulled a small device from his belt—palm-sized, dark metal with a single activation rune glowing faint blue. "We have hundreds of civilians unaccounted for, and that’s just on this floor alone. With comms down, we don’t know exactly who and how many are missing, but we can expect the enemy has converted a good amount of civilians, and to think we wouldn’t even know about this if it weren’t for you."
+
+He sighed and then tapped the rune.
+
+A holographic layout bloomed into existence above the device. The detail was impressive—corridors, rooms, ventilation shafts—and the hologram shifted slightly as Veric manipulated the display with finger gestures.
+
+"This is the base where you were with Maya and the others." Veric pointed to a central hub on the circular map, a wider area marked with reinforced walls and multiple access points. "That was the central station on Floor 31. Command hub, medical, armory. And…"
+
+The holographic map shifted, zooming out and sliding laterally until it centered on a different section.
+
+"This is where we are now. At the West Wing of this floor." Veric's finger traced along a series of rectangular chambers. "This wing was used as cold storage for hydroponic farming, which is the core theme of Levels 29 through 31."
+
+He pinched his fingers together, and the map contracted.
+
+Smaller and smaller.
+
+Jin, even in the muted state of Sovereign's Indifference, felt something close to awe as the sheer scale of the bastion revealed itself. Judging by what the map was showing, the bastion was as big, if not bigger than, the city of Vienna itself.
+
+"It's mind-numbing, truly, how big this place is." Veric's voice carried a note of something that might've been respect or might've been exhaustion. Hard to tell. "As of right now—or rather, in the past few years—only the Central, West, and Southwest wings have been reclaimed and put under maintenance."
+
+"Reclaimed?" Jin asked.
+
+"You need appropriate clearance levels to access the sealed sectors. High-level hacking, security overrides, stuff I'm not familiar with." Veric shrugged. "The bastion locks itself down when it detects threats or catastrophic damage."
+
+"I see."
+
+« Jin, » Angel's voice cut through his thoughts, clear and urgent. « Elenor is in the Seed Vault direction. That's all I've been able to deduce from the memories so far. The good news is that Order IV shouldn't be there. The bad news is he's busy setting up a ritual. I'll have more details soon. »
+
+Jin turned his attention back to Veric. "Elenor is in the Seed Vault’s direction."
+
+Veric's brows creased, and Jin caught the man’s expression. There was surprise, and then regret, which was quickly suppressed.
+
+"Yes, I do." Veric manipulated the hologram again, and the map shifted to highlight a specific area labeled in small text: SEED VAULT - AGRICULTURAL RESERVE ALPHA-7.
+
+It wasn't far from their current position. Maybe ten minutes at a run through relatively clear corridors if he was reading the map right.
+
+Jin nodded. "Then let's get to it. Unless there's something you want to tell me?"
+
+Veric sighed—a long, deliberate exhale that suggested he absolutely had something to tell Jin and wasn't happy about it—and he moved the map slightly, pointing to another room adjacent to the path they'd need to take.
+
+"That room is the worker residence quarters for everyone… the survivors assigned to operate the Seed Vault and cold storage." His expression darkened. "There are around twenty-five civilians in there, all mindwashed. And there's no way to reach Elenor except by going through that room."
+
+Jin had a feeling he knew what Veric was going to say next.
+
+"This is also the area where we caught that cultist initially." Veric's scowl deepened. "Elenor decided to pursue when they scattered."
+
+He closed the map with a flick of his wrist, and the hologram dissolved into fading green motes. When he turned to face Jin fully, his eyes were hard.
+
+"And I'm certain there will be at least one or two cultists hiding in the mix."
+
+Jin was grateful for the sovereign's indifference—without it, he'd probably feel the weight of that statement. It’s going to be a nightmare, fighting enemies hidden in a crowd of hostages who'd attack you if you got too close—at least with it, he could look at the problem with detachment.
+
+"I'll identify the cultists and handle them," Jin said. "Can you get the civilians off my back and make sure they aren't caught in the crossfire?"
+
+Veric looked at him for a long moment, his brown eyes narrowing slightly.
+
+Something's off with this one. Jin wouldn’t be surprised if Veric was thinking something along those lines.
+
+"Yes," Veric said finally. "We'd need to bring Jack and Gleeward. But yes, I can make that happen." He paused. "Not for long, though. Maybe a minute or two at most."
+
+"That's good enough."
+
+Jin reached into his inventory and pulled out the [Veil of the Shared Horizon]. The mask materialized in his hand—dark, featureless, smooth obsidian-black material with no eye slits, no mouth opening, just a seamless oval that would cover his entire face—and he put it on.
+
+The mask conformed immediately, flowing like liquid across his skin. His vision lit up with Angel syncing to it as sharp lines of UI began to thread across his peripheral awareness.
+
+And a panel bloomed open in the corner of his vision.
+
+•••
+
+❂ Item: Veil of the Shared Horizon (Rare ‘D’ rank)
+
+A neural-interface command mask designed to impose clarity upon chaos, the Veil of the Shared Horizon enables shared perception, stabilized cognition, and coordinated battlefield awareness.
+
+◈ Effect: A neural-interface command mask designed for coordinated battlefield awareness. Integrates sensory filtering, cognitive stabilization, and shared tactical overlays, allowing the wearer to process large volumes of combat data without mental overload.
+
+◈ Effect: Reinforces mental resilience, reducing panic responses, disorientation, and psychic backlash caused by sensory or essence overload.
+
+◈ Effect: Automatically conforms to the wearer's features and remains secure unless deliberately removed.
+
+◈ Effects: Grants the boons [Shared Battlefield Overlay], [Target Seal: Convergence Mark], [Illusion Dampening Matrix], and [Neural Relay Synchronization].
+
+└─ [Shared Battlefield Overlay] (augment, active): Projects a real-time tactical overlay directly into the wearer's perception. Synchronized allies are highlighted, with positional accuracy scaling based on distance and interference.
+
+└─ [Target Seal: Convergence Mark] (augment, active): Allows the wearer to designate a visible enemy, applying a sealing mark that broadcasts the target's location to all synced allies for 30 seconds. Allies may archive the mark into a Marked Enemy Slot for persistent tracking. Aware targets using specialized skills may purge the mark. Marked Enemy Slots: 0 / 3.
+
+└─[Illusion Dampening Matrix] (enhancement, passive): Moderately reduces the effectiveness of illusion, charm, and perception-warping effects affecting the wearer or the nearby environment. Resistance increases when multiple synced users observe the same target simultaneously.
+
+└─ [Neural Relay Synchronization] (augment, active): Receives and displays incoming data directly within the wearer's vision, increasing information clarity and reducing cognitive strain across the network.
+
+•••
+
+Jin dismissed the panel and glanced at Veric, whose expression had shifted into something more wary. The mask probably made Jin look more like a cultist.
+
+Jin shrugged, and Veric turned and shouted orders down the corridor, and Jin found himself staring at the holopad device still in the other man's hand.
+
+A new prompt appeared in his vision.
+
+•••
+
+Would you like to sync Holopad E12041 with the "Veil of the Shared Horizon"?
+
+•••
+
+"Hmm?" Jin murmured. "Angel?"
+
+« It's a system prompt. » Angel's voice carried a note of interest. « Your whisperlinks and the Veil's effects are synergizing with each other, which means you can link with other devices and sync data. »
+
+« The range is extremely limited right now, and you'd need a specialized processing unit to decode and analyze the sync data properly. But for simple things like maps? Should work fine. »
+
+"I see. Then sync and store the map."
+
+« Understood. »
+
+Jin found a relatively quiet corner and leaned against the wall, settling into a meditation posture.
+
+It took Veric only a couple of minutes before he returned with Jack and Gleeward in tow, both men geared up.
+
+Jack looked tense but focused. Gleeward looked like he was trying very hard not to look terrified and failing.
+
+Jin stood as they approached.
+
+"Before we move," Veric said, his voice dropping into a quieter register, "I need to know what we're walking into. What exactly did you get from that cultist?"
+
+Jin considered how much to share. The harvest process itself was... complicated. Better to keep that mechanism vague.
+
+"My method of getting information is through soulbound gear, and the feedback is a jumbled mess," Jin said. "From what I’ve been able to parse… the cult has been marking people. Anyone exemplary—strong fighters, talented essence users, natural leaders—they've been flagged for either conversion or erasure."
+
+Veric's jaw tightened. "Elenor."
+
+"Elenor wasn’t one of those." Jin shook his head. “But she made their list because she recently ascended and is actively hunting down cultists."
+
+"Fuck." That was Jack, his hand tightening around the grip of his weapon.
+
+"There's more," Jin continued, reading the info Angel was giving him. "Killing civilians was never their goal, and that they let us get to the bastion.”
+
+“What?” Veric frowned.
+
+“They already had their people and an underlord here, Veric. They most probably infiltrated this place way before Mathew even decided to lead people here.” Jin sighed. “They need these people for something. Specifically, they need their fear."
+
+Gleeward blinked. "Their... fear?"
+
+"Yeah, the underlord mind mage’s core purpose is conducting a ritual," Jin explained, watching Veric's expression shift as he processed the implications. "It's designed to enhance feelings of terror and dread in everyone caught in its radius. The stronger the fear, the better. And somehow, they're collecting something from it—crystallized hope—the memories called it. Fragments of pure emotional essence extracted when hope collapses into despair."
+
+"That's..." Gleeward's voice trailed off.
+
+"That's so much like cult bullshit," Jack finished for him.
+
+"Damn it," Veric said. "They've been farming us ever since the initial attack, haven’t they?”
+
+Jin nodded. "Yes, the ritual here is similar to what’s been laid out on a much larger scale in Vienna. It seems conversion was always the primary objective..." He let that hang.
+
+Veric was quiet for a moment.
+
+Veric's expression hardened into something more determined. "There’s nothing more that would come out of talking. Let's move."
+
+“Yes, sir!” Jack and Gleeward saluted, and Jin nodded contentedly at letting Veric take the lead; he preferred doing his own thing.
+
+Leadership was a heavy responsibility.
+
+They set off through the corridors, and Jin found himself appreciating Veric's tactical sense. The man moved with the experience of a veteran, checking corners, keeping his team in formation.
+
+Jack took point, Gleeward stayed center, and Veric moved beside Jin at the rear, close enough to talk quietly without the others hearing.
+
+"Something’s different," Veric said after a few minutes of silence.
+
+Jin glanced at him.
+
+"Since you came out of that interrogation room or since you walked in…" Veric continued. "Something changed. You're calmer. No, you are much colder."
+
+Jin chuckled.
+
+"I have a technique that sort of mutes emotional responses," he said. "I developed it in the fight against Orodain. And with the gruesome process of getting info from the cultists and what we are about to go through, having it running makes it easier to think clearly when things get bad."
+
+"And things are bad."
+
+"Things are bad," Jin agreed.
+
+Veric nodded slowly, as if that confirmed something he'd already suspected. "Just make sure you don’t make using that a habit. I've seen what happens to plenty of people in the army who stay detached too long."
+
+Jin paused and then nodded, “Yeah, I’m not a big fan of this as well.”
+
+They reached the worker residence corridor faster than Jin expected, and the barricaded door came into view—heavy industrial metal reinforced with welded crossbeams and stacked crates—someone had put serious effort into sealing this room.
+
+"We locked them in along with other nearest routes," Veric explained, seeing Jin's gaze. "Once we confirmed they were turned, we couldn't risk them spreading through the wing."
+
+Jack and Gleeward moved to the barricade and started pulling away the crates.
+
+Angel, he thought. The moment the doors open, I need you to identify any cultists… this task takes priority over everything else.
+
+« Understood. I'll cross-reference essence signatures against the patterns from Corren's memories and will also run appraisals. Any matches will be flagged immediately. »
+
+The last beam came free with a metallic clang, and Veric stepped forward, placing both hands on the door. He turned to face the group, and his expression was all business.
+
+"Remember," he said. "Only non-lethal force against civilians. Knock them out if you have to, but keep them breathing."
+
+"If you're unsure about the attack," Veric added, "a good blow to the head will do just fine once they're under my mantle's effect."
+
+"Understood," Jin said, pulling Iron Howl from his inventory. The gun materialized in his hand with its familiar weight, and he saw Gleeward's eyes go wide.
+
+"One good blow to the head," Jin said thoughtfully, giving the gun a slow spin.
+
+"Heck… no!" Gleeward said immediately, alarm clear in his voice. "That will most definitely fucking kill them!"
+
+Jin caught Jack with his hand over his mouth, shoulders shaking with suppressed laughter.
+
+Even Veric's lips twitched, though he covered it with a flat stare in Jin's direction.
+
+"Good," Jin said, also pulling out Essence's Edge. "Remember, guys, too much tension, and you're more likely to break under pressure."
+
+The mood had shifted slightly. Still serious, but not quite as suffocating.
+
+Jin saw Veric looking at him with something like curiosity, and the other two had their full attention locked on him now instead of the door.
+
+"Remember," Jin continued, his voice dropping back into that emotionless register the Sovereign's Indifference provided, "the enemy has a mind mage who is at least Underlord rank."
+
+"You're not expected to fight them," Jin said. "In fact, it would be better if you weren't anywhere near when they show up. But we're not in a position to choose our battles anymore. So stay vigilant, they could very well be in that room."
+
+He looked at each of them in turn—Veric, Jack, Gleeward.
+
+"I'll take point and go in first. If there are cultists hidden in the mix, I'll draw them out and engage. Your task is to make sure none of the turned civilians interfere in my fight."
+
+"Yes, sir!" All three nodded.
+
+"Our primary objective is to provide aid to Elenor, who is probably in trouble by now. The moment the cultists are dealt with, Veric and Gleeward stay behind to get the situation under control and contact the base at Central Station." Jin's gaze shifted to Jack. "Jack and I proceed to Elenor's position."
+
+"Any questions?"
+
+Gleeward raised a hand, hesitant.
+
+Jin nodded to him.
+
+"What if the fucking Underlord is in there?"
+
+Jin answered without missing a beat. "Then we retreat. The situation is already compromised, and I'm not confident we can save the civilians if we're fighting someone that strong. They'd just become casualties."
+
+He paused, considering.
+
+"But that's an unlikely scenario based on what I know. This Underlord isn't like the other cultists. Their core goal right now is setting up the ritual, and for that to work, he can't afford to be disturbed. He'll be somewhere secure, somewhere he can maintain concentration for extended periods."
+
+Jin gripped Iron Howl with his right hand, Essence's Edge gripped in his left, and looked at Veric.
+
+"Ready?"
+
+Veric's hand settled on the door handle, and Jin saw the man's essence flare—subtle, controlled—spreading outward like invisible threads preparing to weave a binding.
+
+"Ready."
+
+“Then let’s move!”
+
+The door opened.
+
+◈◈◈
