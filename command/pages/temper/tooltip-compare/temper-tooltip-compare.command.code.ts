@@ -61,14 +61,14 @@ const NUMBER = 8
 
 const CASE_BARS = { frontBar: "primary-weapon-bar", backBar: "backup-weapon-bar" } as const
 
-export type ComparedSkill = {
+type ComparedSkill = {
   readonly slot: number
   readonly abilityId: number
   readonly name: string
   readonly pairing: TooltipPairing | null
 }
 
-export type Tally = {
+type Tally = {
   readonly numbers: number
   readonly matched: number
   readonly unpaired: number
