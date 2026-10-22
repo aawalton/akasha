@@ -1,0 +1,40 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const theFracturedTowerBook2Stubbed = {
+  id: "01a1655f-0d73-7229-a7e1-958c5129536d",
+  type: "page-type/story-read",
+  slug: "the-fractured-tower-book-2-stubbed",
+  author: "EmergencyComplaints",
+  following: false,
+  unit: "unit/words",
+  title: "The Fractured Tower (Book 2 stubbed)",
+  world: "world/the-fractured-tower-book-2-stubbed",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "138567",
+      externalLink: "https://www.royalroad.com/fiction/138567/the-fractured-tower-book-2-stubbed",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Reincarnation",
+    "Progression",
+    "Anti-Hero Lead",
+    "Martial Arts",
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "GameLit",
+    "Magic",
+    "Male Lead",
+    "Strong Lead",
+    "Survival",
+    "Tower",
+  ],
+  readLater: true,
+  createdAt: "2026-10-22T20:48:10.611Z",
+  updatedAt: "2026-10-22T20:48:10.611Z",
+} as const satisfies StoryRead
