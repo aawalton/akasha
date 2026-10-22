@@ -1,0 +1,43 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const brokenClassASpyLitrpg = {
+  id: "01a16606-4d24-798d-ba87-7667147f1de6",
+  type: "page-type/story-read",
+  slug: "broken-class-a-spy-litrpg",
+  author: "Tory Riter",
+  following: false,
+  unit: "unit/words",
+  title: "Broken Class - A SPY LitRPG",
+  world: "world/broken-class-a-spy-litrpg",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "119720",
+      externalLink: "https://www.royalroad.com/fiction/119720/broken-class-a-spy-litrpg",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Kingdom Building",
+    "Grimdark",
+    "Mystery",
+    "Psychological",
+    "Satire",
+    "Tragedy",
+    "Dungeon Crawler",
+    "Dystopia",
+    "GameLit",
+    "Magic",
+    "Male Lead",
+    "Reincarnation",
+    "Secret Identity",
+    "Strategy",
+    "Strong Lead",
+  ],
+  readLater: true,
+  createdAt: "2026-10-22T23:50:51.428Z",
+  updatedAt: "2026-10-22T23:50:51.428Z",
+} as const satisfies StoryRead
