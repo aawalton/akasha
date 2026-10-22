@@ -1,11 +1,9 @@
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-abby-2026-10-14/gateway-transport-abby-2026-10-14.seat-log-day.ts","id":"01a13819-03e9-7515-9371-42ad36ecffd6"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-abby-2026-10-15/gateway-transport-abby-2026-10-15.seat-log-day.ts","id":"01a13d0a-0a0c-7f2e-b584-e1dc0815fc60"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-abby-2026-10-16/gateway-transport-abby-2026-10-16.seat-log-day.ts","id":"01a143a0-e0e5-7a95-b5c2-68c8976387e9"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-abby-2026-10-17/gateway-transport-abby-2026-10-17.seat-log-day.ts","id":"01a14891-556f-7dd8-b81b-c7051f0502f4"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-abby-2026-10-18/gateway-transport-abby-2026-10-18.seat-log-day.ts","id":"01a14cef-cf58-7769-a603-f4b73e4a1dda"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-abby-2026-10-21/gateway-transport-abby-2026-10-21.seat-log-day.ts","id":"01a15e6f-3c25-7d0a-a3b9-6740f5495cc0"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-abby-2026-10-22/gateway-transport-abby-2026-10-22.seat-log-day.ts","id":"01a161bb-bf89-7ba2-909f-f650f1730234"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-aelwyn-2026-10-14/gateway-transport-aelwyn-2026-10-14.seat-log-day.ts","id":"01a13802-03b3-7228-ada5-483e992c9589"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-aelwyn-2026-10-15/gateway-transport-aelwyn-2026-10-15.seat-log-day.ts","id":"01a13cf2-feeb-748c-990b-933499afa7fa"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-aelwyn-2026-10-16/gateway-transport-aelwyn-2026-10-16.seat-log-day.ts","id":"01a14389-5b98-7217-bd65-5abd289cfa5d"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-aelwyn-2026-10-17/gateway-transport-aelwyn-2026-10-17.seat-log-day.ts","id":"01a14879-cfff-7c24-b7c7-acd163c848e4"}
@@ -20,7 +18,6 @@
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-aine-2026-10-22/gateway-transport-aine-2026-10-22.seat-log-day.ts","id":"01a16178-0f65-7de4-b269-dad8a98b9be7"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-akasha-recorder-2026-10-17/gateway-transport-akasha-recorder-2026-10-17.seat-log-day.ts","id":"01a149a5-3fdf-7c0c-86d4-f02ee88ea694"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-akasha-recorder-2026-10-18/gateway-transport-akasha-recorder-2026-10-18.seat-log-day.ts","id":"01a14c68-8fcb-7695-ad54-b1fd6a5f79b2"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-alan-2026-10-14/gateway-transport-alan-2026-10-14.seat-log-day.ts","id":"01a137b5-f3cb-7bfb-af54-98a0d5907aac"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-alan-2026-10-15/gateway-transport-alan-2026-10-15.seat-log-day.ts","id":"01a13cde-5959-7496-9d9c-4c9cfca027e1"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-alan-2026-10-16/gateway-transport-alan-2026-10-16.seat-log-day.ts","id":"01a14214-7f7d-7259-b35d-4c18534a9484"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-alan-2026-10-17/gateway-transport-alan-2026-10-17.seat-log-day.ts","id":"01a14796-37bc-7bc9-a54a-66471c0de7f7"}
@@ -31,17 +28,14 @@
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-alan-2026-10-22/gateway-transport-alan-2026-10-22.seat-log-day.ts","id":"01a160f5-b176-7779-bb25-a79dd1bb6946"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-all-about-alan-recorder-2026-10-21/gateway-transport-all-about-alan-recorder-2026-10-21.seat-log-day.ts","id":"01a15e70-44cc-77fa-895b-3931e23083d3"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-all-about-alan-recorder-2026-10-22/gateway-transport-all-about-alan-recorder-2026-10-22.seat-log-day.ts","id":"01a160fb-aa4b-7dd1-817c-d8152e704d1b"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-amy-2026-10-14/gateway-transport-amy-2026-10-14.seat-log-day.ts","id":"01a1381e-82d2-7d13-a6de-f875a98a1251"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-amy-2026-10-15/gateway-transport-amy-2026-10-15.seat-log-day.ts","id":"01a13d0f-82d4-741a-8c58-78820399e675"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-amy-2026-10-16/gateway-transport-amy-2026-10-16.seat-log-day.ts","id":"01a143a5-bcd8-7692-8fdb-9a186a1d9261"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-amy-2026-10-17/gateway-transport-amy-2026-10-17.seat-log-day.ts","id":"01a14896-307f-7411-bf30-648cc8ce8796"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-amy-2026-10-18/gateway-transport-amy-2026-10-18.seat-log-day.ts","id":"01a14d86-b78d-7942-8785-0b336708624e"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-astra-2026-10-14/gateway-transport-astra-2026-10-14.seat-log-day.ts","id":"01a13873-8fa4-79ff-8829-a86b342e8577"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-astra-2026-10-15/gateway-transport-astra-2026-10-15.seat-log-day.ts","id":"01a13d64-dc75-738b-a926-d407bcf81825"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-astra-2026-10-16/gateway-transport-astra-2026-10-16.seat-log-day.ts","id":"01a14255-e841-7944-86f5-5e1a6bc0ded2"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-astra-2026-10-17/gateway-transport-astra-2026-10-17.seat-log-day.ts","id":"01a14746-5b7d-7f72-9569-2cebdb0ca679"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-astra-2026-10-18/gateway-transport-astra-2026-10-18.seat-log-day.ts","id":"01a14ddc-c94a-730c-be9c-87adfc891574"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-athena-2026-10-14/gateway-transport-athena-2026-10-14.seat-log-day.ts","id":"01a13835-c20c-73fe-9de5-2144d3ae3ca4"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-athena-2026-10-15/gateway-transport-athena-2026-10-15.seat-log-day.ts","id":"01a13d26-e37f-768f-a5b7-e83b481e5840"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-athena-2026-10-16/gateway-transport-athena-2026-10-16.seat-log-day.ts","id":"01a14218-25dd-7298-aa11-f01050921767"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-athena-2026-10-17/gateway-transport-athena-2026-10-17.seat-log-day.ts","id":"01a148ae-14f2-7db8-a27c-26985fe4bafa"}
@@ -49,13 +43,11 @@
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-awen-2026-10-17/gateway-transport-awen-2026-10-17.seat-log-day.ts","id":"01a14aa5-82b8-7e7a-b711-d0d74c3bf8c7"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-blue-boxes-roleplay-recorder-2026-10-17/gateway-transport-blue-boxes-roleplay-recorder-2026-10-17.seat-log-day.ts","id":"01a14aeb-f961-72f7-94c6-832f33d53791"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-blue-boxes-roleplay-worldbuilder-2026-10-17/gateway-transport-blue-boxes-roleplay-worldbuilder-2026-10-17.seat-log-day.ts","id":"01a14af0-acf3-7577-99db-55ef9d2091e8"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-echo-2026-10-14/gateway-transport-echo-2026-10-14.seat-log-day.ts","id":"01a13803-b131-7d37-985b-e8c89659766b"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-echo-2026-10-15/gateway-transport-echo-2026-10-15.seat-log-day.ts","id":"01a13cf4-7b38-7e10-8177-9d05c7556e04"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-echo-2026-10-16/gateway-transport-echo-2026-10-16.seat-log-day.ts","id":"01a1438b-2539-7c41-9925-1ffea501f049"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-echo-2026-10-17/gateway-transport-echo-2026-10-17.seat-log-day.ts","id":"01a1487b-97ee-7b13-a6c3-e8cd9e551701"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-echo-2026-10-18/gateway-transport-echo-2026-10-18.seat-log-day.ts","id":"01a14d6d-102a-78ed-9653-3d7e2b78fa96"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-elaine-2026-10-18/gateway-transport-elaine-2026-10-18.seat-log-day.ts","id":"01a15054-7911-751b-b5e4-4cd2bf9acb74"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-elin-2026-10-14/gateway-transport-elin-2026-10-14.seat-log-day.ts","id":"01a13bbf-5219-7c29-a08c-e24c7c06c851"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-elin-2026-10-15/gateway-transport-elin-2026-10-15.seat-log-day.ts","id":"01a13d64-d4fe-717a-bf76-fa5c22295969"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-elin-2026-10-16/gateway-transport-elin-2026-10-16.seat-log-day.ts","id":"01a14256-2791-78da-ad4d-3fff179f1b91"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-elin-2026-10-17/gateway-transport-elin-2026-10-17.seat-log-day.ts","id":"01a14746-9c5d-7353-91ba-d3647eb70de2"}
@@ -63,7 +55,6 @@
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-elin-2026-10-20/gateway-transport-elin-2026-10-20.seat-log-day.ts","id":"01a157e0-038d-790a-8e28-0d43a8e5c383"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-elin-2026-10-21/gateway-transport-elin-2026-10-21.seat-log-day.ts","id":"01a15cd2-4ca8-7967-a0fd-739e2121c841"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-elin-2026-10-22/gateway-transport-elin-2026-10-22.seat-log-day.ts","id":"01a161c4-0b58-7d4b-9e21-3725ac1b75f2"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-ember-2026-10-14/gateway-transport-ember-2026-10-14.seat-log-day.ts","id":"01a13953-de0a-7f3b-a8e3-774fa85d63de"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-ember-2026-10-15/gateway-transport-ember-2026-10-15.seat-log-day.ts","id":"01a13e46-bd9c-7107-b1a9-f30533876589"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-ember-2026-10-16/gateway-transport-ember-2026-10-16.seat-log-day.ts","id":"01a14343-0f84-7395-8437-539d1eb3c815"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-ember-2026-10-17/gateway-transport-ember-2026-10-17.seat-log-day.ts","id":"01a14833-831c-7833-8b6d-3e0e68f029d2"}
@@ -73,7 +64,6 @@
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-ember-2026-10-21/gateway-transport-ember-2026-10-21.seat-log-day.ts","id":"01a15bfd-2159-7ceb-b979-8ffec0cca9bb"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-ember-2026-10-22/gateway-transport-ember-2026-10-22.seat-log-day.ts","id":"01a160ef-ad65-7e8b-81cf-910f68d1a246"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-grace-2026-10-18/gateway-transport-grace-2026-10-18.seat-log-day.ts","id":"01a14f47-8270-7d4a-9bd4-cb1e3951f56f"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-mari-2026-10-14/gateway-transport-mari-2026-10-14.seat-log-day.ts","id":"01a1385c-f089-7df2-ae6f-58a4e0ad7cfe"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-mari-2026-10-15/gateway-transport-mari-2026-10-15.seat-log-day.ts","id":"01a13d4e-0c1b-7c70-b590-e3d5af455fc6"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-mari-2026-10-16/gateway-transport-mari-2026-10-16.seat-log-day.ts","id":"01a1423f-c3fc-7879-ac38-a9d4517794fc"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-mari-2026-10-17/gateway-transport-mari-2026-10-17.seat-log-day.ts","id":"01a14730-3894-7e34-89e2-1a3430c79a4c"}
@@ -86,12 +76,10 @@
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-nimue-2026-10-20/gateway-transport-nimue-2026-10-20.seat-log-day.ts","id":"01a1569b-a602-7272-9dbf-6f7c9ecc79d7"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-nimue-2026-10-21/gateway-transport-nimue-2026-10-21.seat-log-day.ts","id":"01a15bc7-9e64-7c12-bc01-693569f871e6"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-nina-2026-10-18/gateway-transport-nina-2026-10-18.seat-log-day.ts","id":"01a14f42-39eb-7380-9f30-100ec16af095"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-nova-2026-10-14/gateway-transport-nova-2026-10-14.seat-log-day.ts","id":"01a138dc-1a1e-7787-ac90-594f9516d9ca"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-nova-2026-10-15/gateway-transport-nova-2026-10-15.seat-log-day.ts","id":"01a13dcc-fa34-7acb-a105-2d6e678e2301"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-nova-2026-10-16/gateway-transport-nova-2026-10-16.seat-log-day.ts","id":"01a142bd-ec60-7008-ad13-d73d2be1907e"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-nova-2026-10-17/gateway-transport-nova-2026-10-17.seat-log-day.ts","id":"01a147ae-5ff2-7242-9b81-610de9112aa5"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-nova-2026-10-18/gateway-transport-nova-2026-10-18.seat-log-day.ts","id":"01a14ca0-1df7-76e1-aca8-dcf29e1f514f"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-rhia-2026-10-14/gateway-transport-rhia-2026-10-14.seat-log-day.ts","id":"01a13900-59eb-7f93-9e85-ccdb437de1ab"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-rhia-2026-10-15/gateway-transport-rhia-2026-10-15.seat-log-day.ts","id":"01a13df1-5952-7206-ba65-1990ace3d902"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-rhia-2026-10-16/gateway-transport-rhia-2026-10-16.seat-log-day.ts","id":"01a142e2-0795-72ea-8e96-71a32f3a9cc7"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-rhia-2026-10-17/gateway-transport-rhia-2026-10-17.seat-log-day.ts","id":"01a147d2-7b96-796a-83d0-0d024462fd59"}
@@ -100,7 +88,6 @@
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-ryn-2026-10-20/gateway-transport-ryn-2026-10-20.seat-log-day.ts","id":"01a156d2-65a1-7004-9579-9e33a6386495"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-ryn-2026-10-21/gateway-transport-ryn-2026-10-21.seat-log-day.ts","id":"01a15bc4-27a3-7ae8-bdee-af018a3de6fb"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-shaestrel-roleplay-thornford-2026-10-17/gateway-transport-shaestrel-roleplay-thornford-2026-10-17.seat-log-day.ts","id":"01a14b70-71b0-74fc-9251-338845d50eb9"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-sophia-2026-10-14/gateway-transport-sophia-2026-10-14.seat-log-day.ts","id":"01a1382f-3a97-74d3-bb6b-b9e6d3f5a6f3"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-sophia-2026-10-15/gateway-transport-sophia-2026-10-15.seat-log-day.ts","id":"01a13d20-90c8-71c2-ab44-16901ea21792"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-sophia-2026-10-16/gateway-transport-sophia-2026-10-16.seat-log-day.ts","id":"01a14211-e682-75d7-9b45-99df23ac85b2"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-sophia-2026-10-17/gateway-transport-sophia-2026-10-17.seat-log-day.ts","id":"01a148a7-d594-70e3-8e46-ecaf174e241b"}
@@ -108,7 +95,6 @@
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-thornford-roleplay-illustrator-2026-10-17/gateway-transport-thornford-roleplay-illustrator-2026-10-17.seat-log-day.ts","id":"01a14bb2-b0d2-745c-824d-f7af947b8a35"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-thornford-roleplay-recorder-2026-10-17/gateway-transport-thornford-roleplay-recorder-2026-10-17.seat-log-day.ts","id":"01a14b71-bf65-74fe-9f8f-c31dc67b6e2d"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-thornford-roleplay-worldbuilder-2026-10-17/gateway-transport-thornford-roleplay-worldbuilder-2026-10-17.seat-log-day.ts","id":"01a14b71-cc3e-7837-b68a-3caf40c0a9d4"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-zeli-2026-10-14/gateway-transport-zeli-2026-10-14.seat-log-day.ts","id":"01a137c9-b2bb-7137-999c-faeee5a7de5e"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-zeli-2026-10-15/gateway-transport-zeli-2026-10-15.seat-log-day.ts","id":"01a13e5f-aab9-7fce-bad4-780427ffdf86"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-zeli-2026-10-16/gateway-transport-zeli-2026-10-16.seat-log-day.ts","id":"01a14350-e00f-7aa9-b44b-d4c611a74640"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/gateway-transport-zeli-2026-10-17/gateway-transport-zeli-2026-10-17.seat-log-day.ts","id":"01a14841-5433-7603-81bc-4c3d0255e139"}
