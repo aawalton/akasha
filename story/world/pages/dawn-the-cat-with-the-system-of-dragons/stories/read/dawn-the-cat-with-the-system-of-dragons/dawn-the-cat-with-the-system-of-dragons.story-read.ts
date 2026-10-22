@@ -1,0 +1,46 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const dawnTheCatWithTheSystemOfDragons = {
+  id: "01a16598-9b9b-78bf-8cb7-d5aae6f1b120",
+  type: "page-type/story-read",
+  slug: "dawn-the-cat-with-the-system-of-dragons",
+  author: "Aatonu",
+  following: false,
+  unit: "unit/words",
+  title: "Dawn: The cat with the System of Dragons",
+  world: "world/dawn-the-cat-with-the-system-of-dragons",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "125595",
+      externalLink:
+        "https://www.royalroad.com/fiction/125595/dawn-the-cat-with-the-system-of-dragons",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Strategy",
+    "Multiple Lead Characters",
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Dungeon Crawler",
+    "High Fantasy",
+    "Magic",
+    "Monster Evolution",
+    "Mythos",
+    "Non-Human Lead",
+    "Non-Humanoid Lead",
+    "Reincarnation",
+    "Supernatural",
+    "Survival",
+  ],
+  publicationStatus: "ongoing",
+  readLater: true,
+  createdAt: "2026-10-22T21:51:02.554Z",
+  updatedAt: "2026-10-22T21:51:02.554Z",
+} as const satisfies StoryRead
