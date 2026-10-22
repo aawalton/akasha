@@ -4,7 +4,7 @@ export const needsAttention = {
   id: "01a0defb-9e02-7601-bb88-b9d57f458c08",
   type: "page-type/module",
   slug: "needs-attention",
-  definition: "how code keeps whether a seat's last turn asked Alan for something",
+  definition: "how code keeps whether what an agent writes to Alan needs Alan",
   code: "ts",
   decisions: [
     {
@@ -17,5 +17,5 @@ export const needsAttention = {
     },
   ],
   createdAt: "2026-09-26T18:30:27.074Z",
-  updatedAt: "2026-09-26T18:31:02.000Z",
+  updatedAt: "2026-10-22T15:13:17.860Z",
 } as const satisfies Module
