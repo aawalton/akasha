@@ -1,7 +1,7 @@
 import { mighty } from "akasha/temper/catalog/champion-point/temper-champion-star/pages/mighty.temper-champion-star.ts"
 import { warMage } from "akasha/temper/catalog/champion-point/temper-champion-star/pages/war-mage.temper-champion-star.ts"
 
-export type PowerHeld = {
+type PowerHeld = {
   readonly buffs: ReadonlySet<string>
   readonly championPoints: Readonly<Record<string, number>>
   readonly mediumPieces: number
