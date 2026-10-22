@@ -1,0 +1,201 @@
+"Bandit."
+
+I screamed, a mixture of pain and frustration. My ears leaked hearing and viscous blood in equal measures. I turned my head to look for some modicum of cover, and my eyes locked onto a small alcove. I had only taken one step towards it before realizing my mistake and whipping back around towards the creature. I had done the one thing I shouldn't have: looked away.
+
+It had only been a second, three at most. But in that time, it had used its arm as a fulcrum and lifted itself in an arc to the top of the arena. Three seconds. What had been a desperate scramble for me was done in three seconds.
+
+Fast. It was too fast for that to be its natural speed. I had seen how slow it moved. It was like a reversed version of [Line of Sight]. I had to get out of here somehow. I could use [Open the Path*] to transport myself to the space I was in last time, but there wasn't even a guarantee that this was the same space as the Mourning Circle. More importantly, if it wasn't, would it still use up the one charge I had of that B–
+
+"Marauder."
+
+I screamed. This time out of pure frustration. I could feel my vocal cords resonating, and yet, I couldn't hear a damned thing.
+
+I looked up to the other visible appendage—statue still in hand, raised high in the air, as if it were a mace.
+
+I didn't even have time to think. To breathe. It was just constant.
+
+No. Complaining wouldn't do anything. I needed to break down the problem.
+
+I walked backwards, closer to the large metal door to buy myself space.
+
+The creature moves fast when I'm not looking.If I am looking, it can use a statue to hurt me.
+
+What tools did I have?
+
+Question?Could I use any of my Restrictions as Boons in this situation?
+
+[Stalker: After an amount of time, a hostile Stalker becomes involved in the Instance.]
+
+[No Free Kill: Whenever an enemy is defeated, its strength remains in its corpse. When another enemy walks by a defeated foe, it inherits a portion of its strength.]
+
+[Untrustworthy: In an Instance, every word you say sounds like a lie regardless of sincerity or truth. People will have a natural inkling to distrust you regardless.]
+
+Answer: No.Actually, maybe.
+
+I pulled up my stats.
+
+Lucidity: 7
+
+Assimilation: 17
+
+Identity: 48
+
+Continuity: 8
+
+Presence: 575
+
+I had 5 stat points to distribute. What would help? More continuity? More Lucidity.This wasn't a true physical attack. It was a psychic one. It had to be. I was hearing the voices in my head despite lacking hearing.Nate taught me Identity boosted the damage from psychic attacks. So, the answer became obvious.
+
+Identity: 48 -> 20
+
+Presence: 575 -> 1975
+
+Instantly, the pressure around my ears vanished in a jarring moment. I could hear again. The cave was loud. Softly moving wind roared, and the dripping of water sounded like skipping stones.
+
+I had just burned more than half my Identity. It still felt like me. That's all the time I could spare to that thought.
+
+"Horror."
+
+The voice came again, but much softer than before. We were now closer to the door than the arena. The hands kept the statue trained on me as they continued their snail-like approach.
+
+It likely didn't realize it wasn't hurting me as much as before. I didn't want it to realize that fact. I clutched my head and feigned a stumble of pain.
+
+I finally had time to think.
+
+Jeren had experienced this Instance once due to his [Loop Bound Marcher], as a sort of time loop, and from the sound of it—just himself—it did not go well. He knew about this creature and the space I was in. So, it couldn't have been an insta wipe, but that's all I knew.
+
+Okay. I didn't have many options and I very much did not want to use my one charge of [Open the Path*] here.
+
+I thought through my list once again. I could stall now that the accusations didn't hurt as badly, but the voices would grow louder. I couldn't stall forever, which left the other option I had thought of.
+
+I only got hurt by the statues when they pointed at me, but did it affect other things it was pointed at too?
+
+My guess was that as long as a creature had Identity, then yes, it could be hurt. I couldn't confirm if the creature had any, but I'd put money on it all the same.
+
+A few things needed to happen.
+
+I solidified the plan in my mind and began circling around the creature—back to the edge of the arena. To my immense discomfort, every statue in the arena followed my movements. The repetitions had already reached "Desecrator," and I hadn't even noticed. The creature would realize after "Blight" that I wasn't affected by the statues as much. It had already shown itself to be intelligent; it would come up with something else.
+
+From the periphery of my vision, I searched for a large rock to break statues with.
+
+The last word of the cycle hit. It felt like a child had punched me in the stomach instead of the gravity-ripping force it had been before.
+
+Unpleasant, but only that.
+
+Sure enough, no matter how hard I tried to pretend I was doubled over and reeling, I saw the hands start to pause. They raised and lowered, as if nodding. The creature's grip tightened around the marble. I swore I could see golden veins bulge. It dropped the statue from its grasp and it shattered on the floor. The field of nothing moved forward, but before it could move more than the length of a step, a blue wisp shot out from the statue and into the creature's veil.
+
+It froze.
+
+I froze.
+
+Then, simultaneously, we both understood what just happened.
+
+[No Free Kill: Whenever an enemy is defeated, its strength remains in its corpse. When another enemy walks by a defeated foe, it inherits a portion of its strength.]
+
+[No Free Kill] didn't specify that I had to be the one to kill a creature.
+
+The next time it moved I understood, the creature wasn't nearly as slow as it pretended to be. The snail's pace had been it on a leisurely stroll, but now it was throwing itself with reckless abandon.
+
+And reckless was the proper word for it. The void that the creature resided in flexed and undulated. I caught sight of either or both creatures at different times. Snippets of thick, yet gaunt legs and a pulsating mass on its back. It jittered and glitched towards the edge of the circle.
+
+I had a head start, but once statues started getting destroyed, all bets were off, and the chances that it could do it faster than me were all but guaranteed. I hadn't moved from my spot by the edge of the arena. Too much thinking. I needed to do something. I could use the key. No. Dumb.
+
+My Presence was near the threshold of 2,000—might as well burn another stat point and see if it gave me anything useful.
+
+Assimilation: 17 -> 16
+
+Presence: 1975 -> 2025
+
+[Congratulations, you have unlocked part of your Title: True Child of {}]
+
+[True Child of {}: Once per Instance, select one creature and have one of its Boons assigned to you at random for the remainder of an Instance.]
+
+I selected the only creature I could see.
+
+[True Child of {A Beast of Desecrated Graves}]
+
+[Randomly selecting 1 of 3 Boons]
+
+[Assigned Boon: Shroud of Nothing]
+
+[Shroud of Nothing: Shroud a single space with a sphere, whose diameter is equal to Lucidity / 20 m, around a point on your body in a thin, one-way void. Any part of your body within the space can not be harmed by physical attacks. Anything in the space taken up by the void is shunted out in the direction of its momentum to the next available space within range. Cost: 25 Presence per hour.]
+
+Okay. Awesome. Cool [Title]. I could gush over it later.
+
+The results didn't help me at all. No. I just needed to be more creative. This was very useful.
+
+I had low Lucidity, so my void wouldn't be nearly as impressive as this creature's, and the statue's attacks were all psychic, but now I could contend with the hand monster physically. I didn't need to go with my original plan; I just had to make sure I survived long enough for Jeren to get here.
+
+I hesitated. I considered that thought more and found it lacking.
+
+Why? Why did I feel so dissatisfied with just this much?
+
+My eyes never strayed from the hand monster as it rapidly approached me and the circle's edge.
+
+I didn't want to kill it, but I knew I should want to. It had taunted me, mocked me this entire time. It hadn't even taken me as a serious threat, even now it was more excited to become more powerful by destroying statues than it was at the prospect of killing me.
+
+So, I had to kill it. Even though the desire I felt that should be there wasn't, I still knew it was something I had to do.
+
+I selected my right hand and activated the Boon.
+
+Presence: 2025 -> 2000
+
+Growing from the spot on my palm, a sphere expanded. It wasn't like a ball of color that washed everything else out. It was just ... nothing. Not opaque or translucent—I couldn't see through it, but there wasn't anything there. I didn't, still don't, have the words to describe the complete lack of something.
+
+The sphere expanded until it reached a little more than a foot in diameter and was completely dwarfed by the monster's own shroud. It must have had almost 100 Lucidity.
+
+I could make do with this much, but the more wiggle room I had, the better. My [Title] said I'd have this Boon for the remainder of the Instance. I really hoped that was true.
+
+Lucidity: 7 -> 8
+
+Presence: 2000 -> 1900
+
+[Your Presence has decreased under the required threshold for your Title. Part of your Title has been locked.]
+
+I kept the void of nothing in my hand outstretched towards the monster, keeping both in my vision, and was infinitely relieved when not only did the void in my palm stay, it abruptly grew in volume.
+
+I pumped more of my Presence into Lucidity.
+
+Lucidity: 8 -> 17
+
+Presence: 1900 -> 1000
+
+I looked at the creature. My stomach dropped. I could see through its veil of nothing—just barely. It was like trying to see through a fence while running. I could make out enough, though. It was curled in on itself, an Ouroboros of bones that jutted out of a hunched-over creature with thick, gaunt legs that only just managed to keep the growth on its back upright.
+
+I looked at it, and it felt my stare. The mass pulsed and quivered. I could see a pulse of energy grab at its host's spine and crush. I followed that energy as it reached the host's hand, which twisted backwards painfully. Then, with one nailed finger, it began to slice eyes into the creature's flesh. Each time it did it would place a forefinger and thumb inside and push matter apart, and from that opening manifested an iris.
+
+They stared at me unblinking, as if it were a sin to look, and they relished every second. I felt my lungs constrict, and for a horrid moment, I thought it could see through my skin. I took a step back. My legs shook. Another step back, despite my wishes. My legs still worked, though, that would have to be enough.
+
+The hands were disturbing. Frightening, even, but they were just hands. I had mentally prepared myself to deal with those. Not … not this creature.
+
+It kept moving forward, towards the circle, its course changed towards me drastically. One of the hands kept making eyes, all along the spiraled surface of mass. Then it moved to lips, and then it drew fingers that jutted out from the flesh, and at the base of the finger, it drew a palm, then at the base of that palm, it drew the wrist and forearm. The new hand took over from that point, drawing on the forearm, and then the bicep in disproportionate lengths. Its arm curved in on itself, too, moving at uncomfortable angles to draw more and more of itself. Then, in a single motion, it straightened its elbow, and a fleshy hand—that wasn't slowed at all by my vision—was thrust towards me.
+
+I flung my own hand out to block the reaching appendage. It impacted the veil, and the creature was shunted to the open air behind me. Where I couldn't see it.
+
+I whipped around just in time for one of the original hands to slam around my side, its digits closed around my chest as it crashed down the massive steps.
+
+I went with it, being dragged down as the pressure on my already broken ribs increased. I slammed the shroud down on the creature's palm, and it shifted three feet away in the direction of its momentum, leaving me free-falling to the third staircase while it tumbled down to the second.
+
+I landed on my side, my lungs ejecting air from my body. This time, I did cough up blood, and it became harder to breathe.
+
+Fuck. I wasn't looking at the monster. I turned my head to stare at the edge of the platform and saw a hand decrease in speed from that of a train to a crawl. Several statues lay scattered on the ground around me, broken. It confirmed my theory that rotation counted as momentum at least. They must've gotten teleported when the creature fell on them and then shattered without a dais to hold them. From their broken corpses, wisps of blue escaped and entered the nearest creatures that weren't me. Some went to other statues, but most went to the dual beast. I could see the eyes as the creature lifted itself up—their foggy pupils became more aware, and the twitching fingers sped up.
+
+I barely had time to think because the third arm, the one jutting out of the parasite, swung to meet me. It crashed down on my veil. I was lying on the floor; there was nowhere else for it to go, so instead its momentum was absorbed by the nothing and stopped dead in its tracks.
+
+The palm grew in size, and the wobbly digits closed around the sphere of nothing and yanked as it stepped forward. To my shock, I found myself strung through the air. I could see its other arm reaching out—upward and at an angle—towards seemingly nothing. Then, in midair, as soon as there was enough space from where I had been, the Boon activated properly and the creature was shunted to my other side. The arm that had been stretching out to nothing before was suddenly reaching at me. It didn't bother with a grasp this time. Instead, sharpened points of fingers formed themselves into a spear. My body twisted through the air. In a moment, I'd be facing away, and it would tear me in half.
+
+Never any good options. I dumped all but 100 Presence into Lucidity.
+
+The sphere expanded. I thrust my palm to my chest, letting the void encompass the majority of my body, and then I tucked myself into a ball.
+
+The next thing I knew, the creature was above and in front of me, and we were both falling back to the center of the arena. I stayed tucked, and instead of crashing and breaking every bone in my body like I thought might happen, I found myself completely unharmed as the void absorbed the impact from the too-smooth concrete.
+
+The creature and I both stood. We weren't in a stalemate—it was killing me, and I was barely surviving. I hadn't even known that the void could be grabbed if there was nowhere to teleport to, but it had known. Of course it did, it was its Boon after all, I had just stolen it. I looked around for what I could possibly use to kill this thing, and my eyes landed on the portcullis and chamber beyond the creature had been released from. More specifically a lever deep inside that was no doubt in charge of raising and lowering the gate.
+
+I smiled—breath shallow, lungs filling with blood, and a multitude of broken bones—but I still smiled. Because I knew beyond a shadow of a doubt I could win now.
+
+I continued staring at the creature and began backing up towards the large stone chamber. It walked in lock step with me; what it lacked in speed, it more than made up for in stride.
+
+We passed the threshold into the chamber, all the way to the back wall, where I pulled the lever with a hard 'THUNK'. The portcullis rattled as chains scratched against themselves and the walls, until the spiked barrier slammed into its closed position.
+
+Just like that, we were both trapped inside.

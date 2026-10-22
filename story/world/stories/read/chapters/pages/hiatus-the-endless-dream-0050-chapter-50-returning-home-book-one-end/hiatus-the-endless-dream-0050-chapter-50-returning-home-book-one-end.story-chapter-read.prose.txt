@@ -1,0 +1,257 @@
+I opened my eyes in a field of corn, a circle of crop razed around me to make a small clearing.
+
+[You have completed: Haunted Graves]
+
+[Instance Category: Survive]
+
+[Win Condition: Have at least 4/10 individuals survive the night]
+
+[Result: 5/10 individuals survived the night]
+
+[Base Reward: +500 Presence, 2 boons, car keys]
+
+[You have gained 500 Presence]
+
+Presence: 25 -> 525
+
+[You have gained a Boon]
+
+[Boon: Stone Bound Resilience]
+
+[Stone Bound Resilience: Your skin temporarily hardens when under threat, capable of protecting against (3) fatal physical blows before breaking.]
+
+[You have gained a Boon]
+
+[Boon: Not Done Yet]
+
+[Not Done Yet: You may stop yourself from going unconscious.]
+
+[You have an item: Car Keys]
+
+[Car Keys: "It's your turn to drive." Once per Instance attempt switch all [Boons] and [Restrictions] with another Visitor.]
+
+[Due to base actions inside the Instance, you have bestowed certain stat changes]
+
+[Visitor: OII-1734-3.PRMEV12]
+
+Lucidity: 26 -> 28
+
+Assimilation: 14 -> 15
+
+Identity: 20 -> 21
+
+[You have accomplished the feat: Consume a Direct Piece of an Instance Holder. You have been bestowed with the vast majority of its associated Presence]
+
+Presence: 525 -> 7821
+
+[Due to an adequate amount of Presence, you have access to additional benefits:
+
+You are now able to access more information without splintering. This is not infinite, tread with caution.
+
+Presence locked. You may no longer go under 5,000 Presence unless it is directly consumed from you. If you would otherwise go under 5,000 Presence, the penalty [Lose a Person] will be imposed a number of times equal to the deficit instead.
+
+You may use Boons, Restrictions, and Titles outside of designated Instances. Boons and Restrictions with a per-instance use limit reset upon entering or leaving the Dream or an Instance.
+
+Upon leaving the Dream, you will have access to the tutorial.
+
+Your Title has been further unlocked: True Child of the Dream.]
+
+[True Child of the Dream: Once per Instance, select one creature and have one of its Boons assigned to you at random for the remainder of an Instance.
+
+You may store up to (Presence/2500 rounded down) Boons for one Instance.
+
+Upgrades available:
+
+Assimilation 30: You may see and select specific Boons from a creature.
+
+Lucidity 30: You may select any creature in the Instance regardless of distance or line of sight.
+
+Identity 30: The number of Boons is increased to two. You may create a transferable copy of a Boon for 2500 Presence.
+
+Continuity 30: You may permanently store Boons.]
+
+I hardly processed the static. I was already on my feet and running. Despite not reading the notification, the information zapped into my brain. There was important information there, but I didn't have time. This wasn't over. I still had to deal with the Parasite inside of Krevith. We were out of the Instance, which meant it was free to act independently. I couldn't let it escape.
+
+I just hoped that I had woken up before the others. I clambered up one of the light poles, my eyes scanning for the crop clearings where the others had no doubt been transferred. I spotted seven, including mine. I didn't like that one bit. A ways off was the caravan's camp.
+
+It was a mad dash to each of the clearings. They were all empty. I cursed and pivoted to the caravan. I broke from the corn, expecting some level of chaos, but instead, all I got was worried looks from the merchants before they recognized me.
+
+Some waved. My brain was scrambled. I absentmindedly waved back, eyes again scanning for any signs of Krevith.
+
+"Lookin' for Jeren?" one of the merchants called out. "He's over by the big tent. Looks like you're the last one up. Can't wait to hear what happened!"
+
+I didn't acknowledge the man, but I did head over to the tent he had indicated. My mind raced as I rounded the tent to see the remaining Survivors sitting around a campfire. Each was wrapped in a thick wool blanket with a warm mug of some dark liquid in their hands. I saw Krevith, relief filled me. He had a thousand-yard stare, but he was still here, which meant I could fix anything wrong with him. There were only two Survivors who weren't sitting. Paltra, who lay on the ground, eyes closed and … Illia?
+
+I didn't understand how she was alive. She stood there, eyes wide as they flicked back and forth. The rest of the head and body were unmoving as it squeezed the surroundings for information. She was supposed to be dead. The Parasite had swallowed them, and— Motherfucker. The Parasite had never killed Illia. All I had said was that it couldn't change anyone I had named and to protect one other Survivor. I didn't give a qualifier to anyone else.
+
+I paused. That was the outcome I wanted. It had worked, yet I was still angry.
+
+They all turned to me. Jeren stood to his feet, and I tensed, ready for a fight. He didn't take a stance. Instead, he fumbled with a large pack for a second and pulled out a blanket and a bag of what looked like instant hot chocolate.
+
+He approached, careful and telegraphing his movements like I was some wounded animal, "Here. Take a seat. We did it! There's a lot to talk about."
+
+"I don't need it." I snapped at Jeren, turning down all offers. I looked between Krevith, Illia, and the unconscious Paltra, unsure which one to address first. "What's wrong with Paltra?" I asked. There had to be something wrong. The solemn air over Maerin was the first dead giveaway, but the way she was laid out, everyone giving the body space confirmed it.
+
+Krevith responded. "She's brain dead. She hasn't moved since our exile."
+
+A long silence. I shrugged and walked over to her. Jeren moved to stop me, but I ducked under his hand and placed my own against Paltra's. I activated [No Good Deed], which I could now do outside Instances. Her eyes shot open a second later, and she gasped for air.
+
+A notification popped up.
+
+[You are not in an Instance. No Restriction will be conveyed.]
+
+Jeren just stared at me, slack-jawed. Paltra sputtered, gripping her throat and coughing as if there was water in her lungs. Maerin was already on her friend, holding her tight and shivering. She said nothing, just held Paltra. The Huntress had questions and began asking them to Maerin and Krevith, and I turned my back on the conversation.
+
+I refocused on Illia, or rather, the thing wearing her skin. "You're the Oathbound Parasite." I accused.
+
+The creature turned its head, but not its body, to me. Its iris stayed in the dead center of its eye. It rolled Illia's tongue around her mouth, feeling for concepts and words. A series of unintelligible syllables cascaded out in a random order, but slowly, like tuning an old radio, the meaning came into focus. "Yes. I am."
+
+My lip twitched, "Why are you here?" It wasn't really a question.
+
+"Comfortable body," it replied, and I shivered.
+
+I let static take my vision and pumped by Assimilation to 30. I selected Jeren and his [Wayfarer] skill. I thought of the creature before me, trying to separate the entities. There was Illia and the Parasite. I couldn't think of Illia as an ally. I didn't know the woman---hadn't said a single word to her. I could view her as neutral, and I definitely thought of the Parasite as an enemy.
+
+I pulsed [Wayfarer], ready to rush forward and heal Illia when the Parasite flew out of its host. Except the whole body was shunted back. A Parasite did burst out of someone else, though, Krevith. It left a hole in his chest. I cursed and jumped to heal him, too. He slumped and hit the ground, but he was already healed by the time he stood.
+
+I retrieved the Parasitic figurine, and the face of Illia scowled at me. There was too much to process. I could feel myself sliding back into apathy. I pocketed the now frozen Figurine and took a step back.
+
+"Give it back," The Parasite hissed out at me.
+
+"Kill yourself," I retorted. Even I was surprised by the coldness in my tone. For some reason, the Parasite didn't leave Illia. I had tried, and that was all I was willing to do. I dropped the idea of saving the woman.
+
+They all stared at me. The expressions varied.
+
+Static took my vision as I pulled out the [Communication Stone] item and handed my half to Jeren. "I'm going to go now. Good luck getting home."
+
+He shook his head, regaining part of his wits, "Let's walk there's some stuff we need to talk about."
+
+I sighed, but decided if he tried to trap me, I could bite off my tongue. I also had [Wayfarer] now, so I could probably just walk out. I checked my remaining Presence. I didn't have enough to boost continuity to thirty, so I couldn't keep the ability. It was a shame, but this worked. There was silence. The camp had gotten a lot larger in the time we had been gone. Instead of a random campfire, the space was more organized, and now there were tents instead of open space.
+
+"You killed the moon?" Jeren asked through part of a laugh. He was too jovial. It was pissing me off.
+
+I frowned, "Why the hell are you acting like this Jeren. We were ready to kill each other in there."
+
+He looked shocked, physically reeling back. He looked almost hurt, "Maybe you were, but I wasn't. Even if I was, that's in an Instance. We're in the Dream right now. It's different."
+
+I considered biting my tongue off right then and there. "What the fuck has become of my life." Was my response. "Yeah, I did."
+
+He nodded, silent for a moment. "You didn't kill the kid," Jeren continued.
+
+"Evidently," I responded.
+
+"You scare me," Jeren's words took me off guard. I didn't have a rebuttal. I wasn't exactly acting 'okay' in the past day, so the fact that I scared him felt normal. "You've been in the Dream for less than three days and you already have a Title. If I told people back home about you, they'd say I'm full of shit."
+
+"Where are you going with this?" I asked.
+
+He mulled his words over, "You're dangerous. I realized something in the Instance. I thought that you saved everyone in the caravan, but that wasn't quite right. We were just collateral that worked out."
+
+I said nothing. He was right.
+
+"Then in the Instance I thought that you were just doing what you had to. Making cold calculations, but that wasn't right either. When Theon told me about the moon shattering I finally understood. You're more concerned with hurting bad people than helping those that need it."
+
+"Get on with it," I snapped. "I don't need a lecture."
+
+"No. You need to go home and be around loved ones. I don't think you're bad or evil, just dangerous, and because of that when Maerin asks to join you in your world I want you to tell her no. The girls gone through enough, I don't think these higher layers will treat her well."
+
+"Fuck you." The words slipped out, and didn't stop. I couldn't think or even hope to stop them. They all sounded like complete bullshit coming out of my mouth, sounded so fucking fake. "You can't take me, but you can take everyone else. Because I'm dangerous and they're not? They're not some holy saint like you pretend to be. No one needs your saving."
+
+I was breathing heavy now. Jeren reached out to pat me on the shoulder, but I smacked the hand away.
+
+"Think on it," he said before stepping away.
+
+I walked through the camp. Jeren could have them all. I didn't care. I just wanted to go home.
+
+Then I saw her. I recognized the woman whose life I had peered into with Peeler. Kailey wasn't young, nor was she old. Middle-aged with crow's feet around her eyes. She was thin and muscled, but slumped over and tired. I understood the feeling. She looked at me with uncertain, hard eyes, a vague recognition crossing over her face.
+
+I approached and sat across from her. She raised an eyebrow but said nothing.
+
+"I accidentally saw into your life in the Field Instance," I began. My voice still sounded far off to my ears. "I don't know how long you were trapped in there, but I know you want to go back. I don't think Presence will be enough. Your warlord didn't seem to be the understanding type."
+
+Her eyes narrowed, and she looked ready for a fight. Ah, maybe she realized that and had been planning something. Maybe she was planning on robbing this caravan when she got the chance. I just shook my head, "I would offer you a spot in my world, but I know you'd never accept, not with your family where they are, so take this. It should be enough tithe."
+
+I tossed her the [Car Keys], which jingled in the air. She caught them in surprise, and I got up to walk away. She'd know they were valuable just from the description. It would have to be enough. She deserved this much after everything she went through.
+
+"Thank you!" she called after me. My steps stuttered, grief welling in my heart, but I kept walking.
+
+I didn't deserve thanks right now. For the past three days, I had done whatever it had taken to survive. More than that. I had been vicious and cruel, and I wouldn't change a thing. So, my grief couldn't matter. The only thing worse than a crying wolf was one who sobbed as they tore, and worse still, one who thought bringing a chunk of flesh to another absolved them.
+
+I walked back to the group of Survivors. Jeren had already returned to them, but had been watching me from his spot by the fire. I looked to Maerin, and was about to tell her she couldn't come to my world when she matched my gaze. They were unfocused. Her posture was straighter than I thought it should be. She looked determined.
+
+She softly mouthed, "You owe me," and she was right. I did owe her. I took away her decision once, and as I realized that, I understood I couldn't do it again. "Fine. You can come."
+
+Jeren didn't look surprised, just resigned. Paltra was the same. Krevith didn't react much, still.
+
+"Are you sure about this?" Jeren asked, but he directed it at more than just Maerin.
+
+Maerin nodded. Paltra looked more unsure. Krevith spoke, "Yes. We are sure." It surprised me. I wasn't sure why any of them wanted anything to do with me. Then I saw both of their eyes staring at the red-haired girl. It wasn't because of me, it was because of her.
+
+"How do I take them back to my Instance?" I asked.
+
+Jeren breathed deeply before responding, "If you're in a party with an unclaimed Visitor, they'll teleport back to your Instance with you, as long as you're on the same layer.
+
+I directed them on how to build the static in their vision, and each grasped my hand. Alder didn't move to join. I looked from Maerin to Alder with a questioning gaze. She nodded, and I approached the man. He looked up at me, then between me and Maerin. Resigned, he held his hand out.
+
+The Parasite was the last surprise. "I want to come to."
+
+"Why would I ever allow that," I asked.
+
+"Because I'm useful," it responded.
+
+"Not enough. I don't trust you. You're dang-" I cut myself off.
+
+"What if we make a contract then. I act as I did in the Instance. You give me a command and I do it. In return, you eventually give me the rest of my body back." It gestured to my pocket, where I had the Figurine. I hesitated, but only for a moment.
+
+"We'll iron out the details later." I was about to do the same thing to it that Jeren did to me. Was it smart? Was it the right decision. Probably, but in that moment I couldn't handle making it. I held out my hand and they took it. With that done, I took a step back.
+
+"Okay," I started. "I'm going to go to sleep and take us back to my world." I hesitated, "Thank you, Jeren. For the help."
+
+He gave me a sad smile. "If possible. Don't return to the Dream, Dorian. Good luck. I hope you won't need it."
+
+With that, he broke away and strode into the large tent.
+
+My breath shuddered, and wordlessly I walked into the cornfield and lay down. My eyes had hardly closed, and I was out in an instant.
+
+I was going home.
+
+Moonlight
+
+Krevith woke up in a soft bed, naked, next to a woman, with only a sheet stopping the rays of light from touching their bodies. She had beautiful auburn hair and sharp features that softened in sleep. The plain sheet conformed to her curvy, tanned body. Krevith found her beautiful, but more importantly, completely unknown to him. He froze in place, finding it hard to breathe or organize his thoughts. He had just been in the Dream a minute ago. Now he was in a strange room with a strange woman.
+
+The Survivor extricated himself from the bed, fearful of the gap in his memory and hoping that he didn't do anything harmful. He made it silently to the door and cracked it open with a squeal that sounded like snapping wood in the silence. The woman stirred, but just turned over and shoved a pillow onto the top of her head. Outside the room, Krevith was met with a massive, fluffy mountain dog. The animal sat there staring up at him, its tail wagging wildly back and forth. He kneeled and ruffled the dog's fur, to which they broke their sitting position and began licking his face.
+
+Not laughing was a struggle for Krevith, but the brief moment of levity only lasted a moment as he stood back up and saw the picture hanging on the wall. It was him, picking the woman up and kissing her cheek. He didn't remember that.
+
+His hands dropped to his sides, and the dog began licking them. The other Survivors. Krevith needed to find them.
+
+"Honey?" a muffled voice, the woman's voice slurred through the haze of sleep, "are you up?"
+
+Like a deer in headlights, he froze. He swallowed a ball of thick saliva and responded, "Yes?"
+
+"Could you get me some water?"
+
+"Okay."
+
+The man made his way down the stairs. The house was strange. There were similarities and overlaps from his world. He had seen these light bulbs before, but they were rare and only seen in government buildings or churches, not multiple pasted in one room or three onto a … he didn't know what it was. It spun in a circle, five thin, carved wooden planks spun rapidly at almost a rotation per second. The climate was cool, reminding him of windy autumn days. He made it to the kitchen, and his jaw almost dropped.
+
+They were rich. Actually, screw rich, they were living in luxury. Marble countertops and a sink. Cabinets full of ceramic and a car in the garage. He filled up one of the glasses and brought the water upstairs.
+
+"Thank you, love," the woman said, still groggy. She sat up just enough to drink before lying back down and closing her eyes.
+
+The Survivor had so many questions. He wanted to start by asking the woman who she was, but that wouldn't go over well. During his time as an enforcer, he had learned about conflict escalation, and no matter how confused he was, telling the woman he didn't know who she was would be a good way for more confusion and possibly panic. He opted for exploring their new world instead. "I'm going to take the car out for a bit. I'll be back soon."
+
+"Pick up some milk while you're out, please," the woman said before turning back over.
+
+He nodded and headed downstairs, unsure of what milk was, but made a mental note to ask someone.
+
+Minutes later, while driving, Krevith pulled over onto the side of the street and stared out in horror. The five of them had been so drained and desperate after the Instance ended that they hadn't questioned if Dorian's world was safe, but he couldn't deny what he saw with his own eyes.
+
+So many Instances, eating away at the world. How could Dorian live in a place like this?
+
+It was a hive of layered monsters, only temporarily visible to him through the veil of what he had just recently learned was the Dream. He could see a massive world tree and on top of it perched a moth, a sea of undulating bodies that rose like the tide, massive spiders the size of skyscrapers, a field of eyes and teeth, and worst of all, he could see a rift into the world they had just escaped from.
+
+From that rift something stood, its malice and anger radiating from it, so intense he could've mistaken it for the sun. He thought he had been helpless back in the Instance, but as he stared at the Old God, he understood the true meaning of the word:
+
+Inevitability.
+
+End of Book 1: Crying Wolf

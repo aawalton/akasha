@@ -1,0 +1,63 @@
+Steps 1: DNA Cipher
+
+We start with the letters
+
+CGGACTCACTCACTAACTATATGGAGTTAGTTCGATCGTTCGTACGACCGAGAGTGCTAGCGCCCTATCGCCCGACCTAGCGATCGGAAGTGCGCTCGTTCGTTCGCTCGTACGCCAGTGCGATCGTTCGTCAGTTCGCACTAGCGGCCTCGCGCCAGTTATACCGCTCATACTGACAGGCATGATACCTAACATTCACCCCCTCACACGCACCGAATACAGTCATCGCCGGCGATCGCGATCGCGGGCCCCCCACCACTCAGTCTCTCACTCATGCGCCCGGGCAATCAGCATTTCTCCCTATCTAAATTCCTATCGGACGACCTAGCGGCCGTGCGCTAGAACCCTCGCCCGTACGATCGTTCGTCCGCCAGAACTCACGTTAGAACCCACGGACGCCAGAACACCCGTGCGCACGTACGCCCTATCTATAGAACACACTAGCGCCCGACCGTCAGAACAACCCAGCACTAGTGAGAACAGCCGCGAGAACTGCCGTTCTCCAGAACGATCGACCGTGAGAACTAGCGCCCGACCGCAAGAACTCACGGACGGCCTATAGAACTGCCGTTCTCCAGCTCTCGCGCCAGAACGCTCGTTCTCACTCACGCCCGTGAGAACTAACGACCTATCTCAAGAACTCACGGACGCCAGAACGCGCGGCCTAGCTATCTCAAGAACGGACTCCCTAGCGCACGTACGCCAGTAAGAACGAGCTCCCTCAAGAACTCACGGACGGCCGTGCGCTCTATAGAACGACCTAGCGCCAGAACGTTCGTGCGTACTGCAGAACGCTCGTTCGGCCGTGCGCTAGAACTCACGTTAGAACGCTCGCCCTCAAGAACGGACGACCTAGCGCACGCCCTAGAGAACGCGCTAGCGTTCGTCAGAACGGACGCCCTAGCGCCAGTGAGAACAGCAGCTCTCGCGCCAGAACGTCCGACCGCACGCCAGAACTCACGGACGGCCTATAGAACGCTCGACCGTCCGCCAGAACGCGCGTTCTAGAGAACGTTCGTGCGCCAGAACTAACTCCCTAGCTAACGTTCTATCGCCAGTGAGAACCCACGTTAGAACGCGCGGCCGTGCGCAAGAACGTTCTCCCTCAAGAACTCTCGGACGACCTCAAGAACTGCCGTTCTCCAGAACGACCTAGCGCCAGTG
+
+From chapter 2 we get
+
+A -> 11C -> 10
+
+Completing that for the other pairing you would get
+
+T -> 00G -> 01
+
+You don't use these values though, you use the inverse because the key isn't this DNA strand by its component.
+
+A -> 00C -> 01T -> 11G -> 10
+
+Decoding this you would get what would appear to be a random string of numbers and letters. This is actually Base64, and upon converting it you would get the following message:
+
+https://colab.research.google.com/drive/1gLxJN1pOEWDdX1-6Zcf6jUQGKwGNejCI?usp=sharing Welcome to The Endless Dream ARG. If you can read this you've gotten past the first hurdle, but things are only going to get harder from here. I've made this game for one purpose. To find out what you are.
+
+Step 2: Google Collab Neural Network
+
+That links leads you to a google collab. Using it you can download the correct .pth file. Originally I had something where you had to reconstruct the neural network from the .pth file, but none of the people I got to beta test it could figure it out, so I scrapped the idea.
+
+If you input: Visitor or Resident you get the following.
+
+Water Fills Its Vessel
+
+[I understand this is a highly irregular case, but the direct and active aggression of another instance holder was the first item that we all agreed on.]
+
+[It's not an instance holder System.]
+
+[He is. He meets all the criteria and qualifications to be considered an instance holder]
+
+[Except for the fact that the actual instance holder is still alive]
+
+[A philosophical belief, not a functional or technical one]
+
+[Ridiculous. That bastard is still out there. My trackers are still on him.]
+
+[You put trackers on Rowan?]
+
+[No. I put trackers on my people. Rowan didn’t get rid of them when he ate them. I know exactly where he is, which is why I know our dear System does as well]
+
+[...]
+
+[Ha! Hahaha. That’s great! If Rowan is alive how can that one be an instance holder. So not only him, but Rowan’s entire instance is up for grabs then right?]
+
+[That is incorrect. Even if we argue on the technicalities of all of this, It is clearly the new instance holder. We can argue the intent and wordings of our agreements, but that does not change what It is.]
+
+[In that case it must be fine if I make the jump and bring Rowan into my instance then.]
+
+[That can not be allowed.]
+
+[You can’t have it both ways.]
+
+[Is this the dissolution of our agreement then?]
+
+[Not saying that, but for something intended to be impartial we’re feeling some favoritism. Just a bit confusing, especially considering Rowan hadn’t been an instance holder for more than a year at that point.]
+
+[A trial then. If that eases your hearts. The outcome is the same regardless.]
