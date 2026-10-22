@@ -316,7 +316,7 @@ function Conversation({ heard }: { heard: Heard }) {
 }
 
 export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
-  const { page, isLoading, data, allDefinitions } = usePageDefaultContent({ pageTypeSlug, id })
+  const { page, pageIsLoading, data, allDefinitions } = usePageDefaultContent({ pageTypeSlug, id })
   const { heard, pending, send, resend, dismiss } = useSending(id)
   const voice = useSeatVoice(id, heard.state === "heard" ? heard.entries : NOTHING_SAID, (text) => {
     send(text, [])
@@ -336,7 +336,7 @@ export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
       followAnchor={{ ref: endRef, renderTrigger: shown }}
       footer={<SeatComposer onSend={send} voice={voice} />}
     >
-      <PageLayout loading={isLoading} skeleton={simplePageSkeleton({ titleWidth: 160 })}>
+      <PageLayout loading={pageIsLoading} skeleton={simplePageSkeleton({ titleWidth: 160 })}>
         {page != null && <title>{pageName(data)}</title>}
         <PageLayout.Content className="max-w-[710px]! pt-3 min-[584px]:pt-6">
           <div className="flex flex-col gap-4 pb-6">
