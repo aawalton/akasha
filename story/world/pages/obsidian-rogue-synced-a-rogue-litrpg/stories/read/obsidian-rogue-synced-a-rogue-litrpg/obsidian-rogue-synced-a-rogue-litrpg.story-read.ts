@@ -1,0 +1,41 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const obsidianRogueSyncedARogueLitrpg = {
+  id: "01a165cc-a5cc-7516-b596-a4f41cbcb624",
+  type: "page-type/story-read",
+  slug: "obsidian-rogue-synced-a-rogue-litrpg",
+  author: "Sant33",
+  following: false,
+  unit: "unit/words",
+  title: "Obsidian Rogue: Synced [ A rogue litrpg]",
+  world: "world/obsidian-rogue-synced-a-rogue-litrpg",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "133269",
+      externalLink: "https://www.royalroad.com/fiction/133269/obsidian-rogue-synced-a-rogue-litrpg",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Ruling Class",
+    "Comedy",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Attractive Lead",
+    "Dungeon Crawler",
+    "GameLit",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "Strategy",
+  ],
+  publicationStatus: "hiatus",
+  readLater: true,
+  createdAt: "2026-10-22T22:47:53.035Z",
+  updatedAt: "2026-10-22T22:47:53.035Z",
+} as const satisfies StoryRead
