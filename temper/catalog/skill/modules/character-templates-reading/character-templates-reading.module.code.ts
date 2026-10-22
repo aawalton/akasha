@@ -71,7 +71,7 @@ export type ClassMasteryTemplate = {
   readonly effects: readonly Effect[]
 }
 
-export type ClassMasteryReading = {
+type ClassMasteryReading = {
   readonly keyOf: (said: unknown, where: string) => string
   readonly effectsOf: (row: Value, where: string) => readonly Value[]
 }
