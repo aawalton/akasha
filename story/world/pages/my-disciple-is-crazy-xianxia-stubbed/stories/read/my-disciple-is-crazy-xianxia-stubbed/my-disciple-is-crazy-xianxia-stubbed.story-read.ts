@@ -1,0 +1,41 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const myDiscipleIsCrazyXianxiaStubbed = {
+  id: "01a164b8-eb79-7459-ada9-2d960e4d6847",
+  type: "page-type/story-read",
+  slug: "my-disciple-is-crazy-xianxia-stubbed",
+  author: "Aisoo_Star",
+  following: false,
+  unit: "unit/words",
+  title: "My Disciple Is Crazy! (Xianxia) [Stubbed]",
+  world: "world/my-disciple-is-crazy-xianxia-stubbed",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "155482",
+      externalLink: "https://www.royalroad.com/fiction/155482/my-disciple-is-crazy-xianxia-stubbed",
+    },
+  ],
+  externalTags: [
+    "Reincarnation",
+    "Progression",
+    "Wuxia",
+    "Comedy",
+    "Male Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Cozy",
+    "Crafting",
+    "Cultivation",
+    "High Fantasy",
+    "Martial Arts",
+    "Slice of Life",
+    "Strong Lead",
+    "Supernatural",
+  ],
+  readLater: true,
+  createdAt: "2026-10-22T17:46:42.937Z",
+  updatedAt: "2026-10-22T17:46:42.937Z",
+} as const satisfies StoryRead
