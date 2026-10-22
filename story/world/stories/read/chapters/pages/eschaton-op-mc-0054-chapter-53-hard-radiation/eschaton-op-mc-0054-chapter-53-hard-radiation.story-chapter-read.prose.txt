@@ -1,0 +1,129 @@
+An officer, Major Zhao by markings and name tag, crisply salutes.
+
+“Right this way, if you would, sir.”
+
+Miss Wu was right, I was portaled just outside of the command center. The tent wasn’t too far away. The clearing I portaled to was likely pulling double duty as a helicopter landing zone.
+
+The command tent itself is huge and grandiose, as large as a circus tent. The faint smell of paint, though long dried, means it probably was one. The interior is exceptionally spacious, and most of the tent isn’t actually used for anything. Clearly, it’s for me.
+
+Being too large for the world is difficult. I no longer fit in the world I so viciously defend. It’s a nice touch to see others accommodate me, though it’s by no means required.
+
+Major Zhao takes his head at the place of the long table, surrounded by officers. A large TV screen is long one side.
+
+“Firstly, I wish to convey the deepest possible gratitude of the People’s Republic of China.” Major Zhao says. “It is well understood that you are an extremely busy man, pulled in many different directions at once. Countless tiny fires are brought to your attention without the time to put them all out. Thank you for helping us.
+
+“Secondly, I would like to apologize for General Guan Yu’s absence. He was meant to be here, but was unfortunately pulled away at the last minute. He will be here later to discuss future plans with you, of which I was not privy to.”
+
+“No thanks are necessary,” I tell him. “I help where I am needed the most. I think we all agree that this Fracture is very possibly one of the most dangerous ones we’ve ever seen. No one wants to know what kind of monsters are going to come out from a Fracture based on a nuclear reactor. As for General Guan Yu’s absence, it’s not a problem. I’m sure he’s very busy. Speaking of, do you have any information for me?”
+
+“We don’t have much, unfortunately. The drones we’ve sent in can’t stay long enough to go particularly far, or be complex enough to have high quality sensors.”
+
+“I assume it’s because of the radiation?”
+
+Radiation is well known to cause damage to electronic components. Radiation hardening is an important part of spacecraft design. It’s possible they’ve been forced to use film cameras and lower-performance computers with larger transistors that might be less sensitive to radiation.
+
+He nods. “Yes, exactly. We’ve had to build a few custom-designed drones just for this Fracture. By using components for satellites, we’ve been able to get some information, but even they have limits.”
+
+“Just how radioactive is the Fracture?”
+
+“We don’t know. Every sensor we can fit on the drones is maxed out. The sensors read 10 Sieverts per hour, but the damage indicates more. We’re seeing unusual levels of corrosion on the drones we send in. There’s heat damage as well, though the electronics are rated for that. The mechanical components, less so.”
+
+“I can see why you asked for my help.”
+
+That’s truly an immense amount of radiation. At that rate, a normal human would likely be dead inside of an hour. They would almost immediately start suffering from radiation sickness, and would likely be incapacitated in minutes.
+
+A quick gesture to one of the officers around the table has them turning on the TV screen.
+
+“We haven’t been able to recover much footage. The drones were heavily damaged by the extreme radiation, but here’s what we have.”
+
+The videos that come on screen are choppy and grainy. Whatever the camera actually recorded, the hard drives must have been fried. The officer who turned the TV on narrates the footage.
+
+“It was a miracle we were able to pull anything off the hard drives at all. We actually had to use magic to repair the drives, and even then it wasn’t quite enough.”
+
+The video shows a long concrete hallway, with on one end a set of rusty double metal doors. They’re partially bent apart by a much larger tracked drone, and a virulent green light can be seen from the room on the other side. The drone then drives towards the room, avoiding a few other various dead drones scattered over the long hallway.
+
+“It took us multiple attempts before we were able to send in a drone that managed to return.”
+
+The footage is so heavily corrupted it’s difficult to make anything out. Radiation damage to the hardware as well as inference with the camera itself has taken a toll. White dots flicker in such numbers it almost looks like the interior of the Fracture is in a blizzard. The bare concrete hallway is crumbling, a mixture of simulated age and real radiation causing the walls to slowly fail.
+
+Once the drone makes it to the double doors, the camera raises up and over the much larger drone that rammed into the doors, bending them apart.
+
+“We think the larger drone, the first one we sent in, lost control when its computer was presumably fried by the radiation. The doors must be in very poor condition, the drone couldn’t move all that fast.”
+
+The raised camera only catches the barest glimpse of the room on the other side, but we can see a huge pool, filled with water. A deep green glow emanates from the pool, and a few rickety catwalks cast shadows along the far wall.
+
+“What we can see of the next room is very interesting. We’ve only been able to see small parts of it, though,” the officer narrating the footage says.
+
+The officer points out a faded logo, barely legible between the darkness and poor quality video. A sign is below it, equally difficult to read.
+
+“This is the sigil for the power plant, and the sign below says ‘Fuel Storage Pool Room #1’, which is odd.”
+
+“Why is that odd?” I ask.
+
+“The real reactor doesn’t have a separate fuel storage room,” the officer explains. “The fuel rod pool is directly adjacent to the reactor itself to keep rod transfer safe and easy.”
+
+“So this isn’t a real room with a direct equivalent to the actual plant?”
+
+“Correct. We’ve tried to do some analysis of the footage to estimate the size of the room, but with the poor quality video, we haven’t been able to come up with much. But we do know there is highly radioactive material down there, though once again we aren’t sure what.”
+
+“How do you know that?”
+
+He rewinds the video, and cranks up the colors. On the wall with the sign there’s an eerie green glow.
+
+“That light looks a lot like Cherenkov Radiation, but for some reason, it’s green. Normal Cherenkov radiation is blue.”
+
+“I don’t know much about nuclear reactors and radiation,” I say. “Is it not just something else glowing?”
+
+“No, Cherenkov Radiation is always blue,” the officer replies while shaking his head. “The specifics aren’t important, but Cherenkov Radiation is sort of like a sonic boom, but for light. It’s caused by particles moving through a medium faster than light can travel through that same medium. It’s always blue. Despite what movies and TV show, radioactive materials glow blue, not green. Mundane ones, anyway.”
+
+“You think there’s magical uranium down there?”
+
+“We do,” the officer confirms.
+
+The drone turns around from peering into the room possibly filled with magical radioactive materials and trundles back down the hallway.
+
+“Anything more complex than an extremely simplistic microprocessor with the best radiation shielding we can make would fry out too quickly to even come back. As it was, the drone was useless afterwards and extremely contaminated. We tossed it back through the Fracture to be presumably destroyed when it closes. Any questions, sir?”
+
+“Is this all you have?”
+
+The Lieutenant nods, grimacing.
+
+“I’m afraid so, sir. The computers a quadcopter drone would require wouldn’t last long enough to get anywhere. The other side of the Fracture is just a dead end.”
+
+He flicks the TV over to a still image. It’s a picture of a collapsed hallway, broken concrete and rusted rebar fill passageway.
+
+“The only way forward is into the rod storage pool,” he says.
+
+“Any idea on what kinds of monsters might be inside?”
+
+“None, sir. Nothing has been spotted so far.”
+
+As I chew over that, Major Zhao leans forward.
+
+“While the General has requested that he be the one to lead more concrete negotiations with you over the salvage, I have been authorized and requested the float the idea. We would like all or most of the nuclear materials you recover. We know resource extraction is not your current priority, and would like to propose a trade.
+
+“If you’re willing to provide us with the materials, we will release everything we learn about them in the course of our research. There are, of course, further concerns.”
+
+“What do you mean?”
+
+“Nuclear power has become more important in recent months. With overseas shipping falling and more tankers going missing by the day, it’s only a matter of time until our fossil fuel power plants go dry, and the grid collapses.”
+
+“That would be catastrophic. You’d lose everything if that happens. Communications. Water. Hospitals,” I say.
+
+“Industry, research, and everything else needed to fight a war,” he agrees.
+
+“And you want the magical uranium—or whatever is glowing down there—to keep the reactors running,” I guess.
+
+“Correct,” Major Zhao says. “The uranium mines we have are isolated and difficult to defend. Our fuel rod plants are starved of fissile material suitable for energy production. It’s possible whatever is down there could be repurposed or scrapped to fuel our reactors. Every single rod we can make counts. This is an opportunity we cannot give up. It will buy us valuable time for us to move towards other alternative energy sources, and stabilize our supply of mundane nuclear fuel.”
+
+“You’re asking for all of it? What about others? There are many nations with nuclear power plants who must be facing the same problems you are. Surely we’re all in this together.”
+
+“That’s something the General would like to discuss with you. I’m merely here to propose the idea to you.”
+
+I sigh.
+
+I don’t care about this. I probably should.
+
+“I’d like to get going. We can worry about all this after the Fracture has been closed.”
+
+“Very good sir. If you’ll follow me, I’ll show you to the Fracture itself.”
