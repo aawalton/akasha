@@ -2,5 +2,4 @@
 {"propertySlug":"import","fileName":"explore.subagent-kind.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"explore.subagent-kind.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/astra-a4fdf0539c796ddb4/astra-a4fdf0539c796ddb4.subagent.ts","id":"01a16427-2daf-7c68-8d25-1993807f8d6b"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/astra-a8a1f31091ccc17c7/astra-a8a1f31091ccc17c7.subagent.ts","id":"01a16427-0a7c-75b6-9288-716782a1288c"}
