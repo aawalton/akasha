@@ -1,0 +1,97 @@
+Yoru had a concussion and had torn off a huge flap of his scalp on the way down, which was honestly a relief. There would probably be a scar, but that was easy enough to fix with the right soulprints. He wasn’t missing an eye, which had been the second-worst case scenario after a brain bleed and would have been difficult to impossible to heal. Sorin had been afraid of what he’d been about to find, but it only took a few seconds to pull back the stone wall protecting Yoru and diagnose the damage.
+
+In truth, it was less a diagnosis and more that a single healing spell was enough to cause the man’s eyelids to flicker open. That alone told Sorin the injury wasn’t too severe; anything worse would have taken substantially more effort to deal with. It was hard to see exactly how bad things had been beneath all the blood and matted-down hair, making the fact that Yoru had responded positively to a relatively weak healing spell a good sign.
+
+“Get Odric down here,” Sorin told Azlo while he worked. “Be gentle with him. I don’t know how bad a shape he’s in yet.”
+
+That was the reason Sorin had limited himself to the D-rank Lesser Restoration. His anima reservoir was near empty, and he didn’t know how much he needed to save for Odric. Ideally, he’d have healed Odric first so that their team’s official healer could have used his own anima to patch up Yoru. Their relative positioning hadn’t allowed for that, and without knowing the extent of the injuries, Sorin could have been racing against a clock with mere seconds left on it to save Yoru’s life.
+
+With a single, worried glance at Rue, Azlo leapt up thirty feet and forced his way through the wall of scorched and shattered vegetation. He quickly disappeared from sight, but Nemari was already bringing Odric down. They met halfway and, working together, got him into the arena in less than a minute.
+
+Meanwhile, Rue limped over to where Sorin was standing guard over Yoru. The Antechamber portal hung open in the center of the bowl, right where the lightning doll had stood motionless at the start of the fight. Without the guardian present, though, the jungle was already beginning to encroach on the empty space.
+
+New buds were sprouting from the blackened ends of the trees, and clouds of bugs were already filling the air. Across the way, something that looked vaguely like an armadillo with a foot-long horn growing between its ears and claws that could cut through stone trundled out of the tree line. Vines clung to its armored body, but it just paused to shake vigorously, and the edges of the overlapping plates shredded the plants.
+
+Fun, Sorin thought as he watched it. It definitely knew they were there, but it didn’t seem to care at all. Mostly, it just sniffed around at the scorched stone, a wide, flat, pink tongue occasionally flitting out to lick at a particularly thick stain. That cannot possibly taste good. There must be a million edible things in the jungle behind you.
+
+Then a line of static went up its horn, and Sorin understood. It wasn’t after the crisp leftovers of the monsters or animals the guardian had killed. It was feeding on the electrical discharge, or more specifically on the magical echo left behind.
+
+Have at it, in that case. Just leave us alone, and we’ll do the same.
+
+“Keep an eye on Yoru for me while I check on your brother,” Sorin said when he sensed Nemari and Azlo getting close to the ground. Rue nodded back silently, her eyes locked on the three auras quickly making their way down the tree.
+
+Sorin met them at the edge of the arena. He had to suppress a grimace at the smell, which jumped from pungent to overpowering in the span of twenty feet. Odric’s skin was mottled—perfectly healthy in some spots and charred black in others. Nemari, on the other hand, barely looked hurt.
+
+Flame Resistance wasn’t a protection against lightning, but it could blunt the damage such attacks did. More than anyone else on their team, Nemari was protected from sources of heat. That meant she’d probably been more stunned by the lightning coursing through her, with torn muscles and a sore chest being the worst of it.
+
+“He shielded me with his body,” Nemari said, though nobody had asked. “I saw him start to trigger Stone Skin, then... nothing.”
+
+That explained the pattern. The magic had started to spread, a process that normally happened so fast as to be instantaneous. Against lightning, however, it wasn’t fast enough. Somewhere in between feeding anima into the soulprint and it covering his whole body, he’d been struck. It didn’t matter that a fraction of a second later, he’d been fully encased. The damage had already been done.
+
+Still better than nothing. If not for Stone Skin, he’d likely be a charred corpse. This way, a third of his skin is still intact. And he’s not dead yet, but... Yeah, this is bad.
+
+Lesser Restoration wasn’t going to cut it. The C-rank version, known simply as Restoration, was strong enough to regenerate a lost limb—though it was still a relatively slow process—and Sorin wasn’t even certain that would work.
+
+Multiple casts would probably keep Odric alive. At minimum, it would buy them time to come up with a more targeted solution that relied on finesse instead of raw power. Sorin mentally eyeballed his anima reservoir and cursed. One cast for sure. Maybe two if I keep the weave as tight as possible. No chance of a third one.
+
+Odric wasn’t going to live if Sorin did nothing. In fact, he probably wasn’t going to make it through the next five minutes without help, but there had to be something better than Restoration for healing this kind of injury. Sorin racked his brain, trying to come up with something that specifically treated internal organ damage.
+
+The problem was that he was more of a triage healer than anything else. That was why he knew basic healing spells like Restoration, Rejuvenation, Cleanse, and Purify. Those were good enough to keep someone alive in almost every case, at least long enough to get them to a specialist. But the red tower didn’t have any specialists, not really. With the artificially low floor cap caused by the Void Wall, a dedicated healer couldn’t pick up anything past C-rank either.
+
+That wasn’t even looking at the financial cost to hire such a person, though that was admittedly pretty far down the list of Sorin’s concerns at the moment. With no one else besides Odric capable of doing powerful healing, if Sorin’s one-maybe-two Restorations wasn’t enough, his patient was going to die.
+
+The only healing spell Sorin could think of that he knew was strong enough was Panacea, but he was a long, long way from casually throwing out an A-rank spell. Absolute Regeneration would also work, but that was A-rank, too.
+
+Quit thinking of solutions that don’t work here and start coming up with ones that do! he admonished himself as his eyes darted back and forth.
+
+Restoration could fix the burns. That was something, but through Observer, he could see the damage was far worse than skin-deep. Remedy was another C-rank healing spell, but it was focused more on removing poisons and sicknesses. It would probably work better than Restoration since it had a component of recovery for internal organs, but it was also more expensive. If Sorin cast that, he’d be pinning all his hopes on it working.
+
+Two options. Safe one definitely doesn’t save him, but it maybe buys us some time. Risky one might save him, but if it doesn’t, he’s dead. Can I cast Restoration to give myself enough time to recover more anima, then use Remedy later?
+
+“What’s wrong?” Rue asked. “Why aren’t you doing anything?”
+
+“I don’t have a spell to address this kind of damage. If I use Restoration, I can fix the surface level damage—skin and muscle. If I use Remedy, it’ll probably work better on the organ damage, but it’s designed to fix damage from toxins and diseases, not lightning bolts. I don’t have enough anima left to use both, and I’m not sure which one will be more effective.”
+
+“What if I free cast Soothing Touch?” Nemari offered.
+
+“At F-rank? It won’t hurt, but even if you drained yourself dry, it wouldn’t be strong enough to save him.”
+
+“I’ve got an E-rank healing soulprint,” Azlo said. “I’m low on anima, but I could probably cast it three or four times.”
+
+“Do it, both of you,” Sorin said. “Rue, keep anything coming out of the trees off us.”
+
+“Maybe we should go into the Antechamber first,” Rue said.
+
+Sorin hesitated. The tower did not like climbers using its Antechambers as rest stops. It wouldn’t kick them out right away, but even the least superstitious person had no doubt that it could and would exact some form of punishment on them later.
+
+“Only as a last resort,” Sorin decided. “Healing out here for as long as we can hold, retreat through the Antechamber when we have to, or after five minutes. Last thing we want is it closing on us before we can go through.”
+
+Nemari and Azlo got to work, and despite the low power of their magic, the quantity helped make up for it. Before their eyes, burns started to fade away, leaving a series of ugly, splotchy scars in their place. But it was healthy skin covering whole muscles, and that was a step in the right direction.
+
+Without prompting, Yoru started to crawl toward them. He was on both knees and one hand, with the other clutching at his head, but he ignored all of that. Rue started to help him, but then she got distracted with a small, fist-sized bird zipping toward the team so fast that Sorin thought he’d have to intercept it himself.
+
+She burned the anima on Reach, and an aura of power extended out to three times the length of her blade to pick the little monster off. Two more appeared, both circling around the group well outside the edge of her reach and watching the wounded climbers with dark, intelligent, malicious eyes.
+
+She killed one with a surprise Force Spear, which caused the final bird to give up on whatever meal it was hoping to make of them and fly off. By then, Yoru had reached Odric’s side and started casting his own healing spell.
+
+I didn’t even know he’d picked something up.
+
+It was F-rank, but each little bit helped. Slowly, Odric started to look less like a length of unevenly charred meat and more like a person. The three of them working in concert still couldn’t compare with what a single Restoration from Sorin could accomplish, but all they were trying to do was buy time.
+
+“It’ll have to be enough,” Sorin said as all three of them exhausted themselves cleaning up the most superficial of the damage over a span of two minutes. It wasn’t the kind of safety margin he’d been hoping for, but he’d known it was a long shot.
+
+Remedy, then. Please let it be enough.
+
+Sorin cast the spell. There was no visual change, but Odric’s shallow, infrequent breathing smoothed out to something raspy and regular. His heartbeat strengthened, too, which had been one of Sorin’s biggest concerns. Part of him wanted to kick himself for hesitating, but the truth was that even now, he still wasn’t sure Odric would survive.
+
+There was one last trick in his arsenal, something he really, really didn’t want to do. If it came down to it, he would, though. Doing it would cripple him for weeks, and there was no telling how far the void would spread while he recovered.
+
+With luck, it wouldn’t come to that. Odric just needed to hang on for another twenty or thirty minutes. But nothing they’d done had caused the big man to wake up, and for all Sorin could tell, all they’d accomplished was to make his final moments slightly more comfortable.
+
+“I’ll carry him. Everyone through the portal,” he ordered, slipping his arms under Odric and lifting him in a princess carry. Despite the fact that the other man was half a foot taller and probably close to a hundred pounds heavier, he wasn’t difficult to hold. Sorin limped toward the portal more because of his own injuries than because of Odric, but he didn’t let those slow him down.
+
+He crossed the threshold, not waiting to see if the others made it through. Observer couldn’t reach beyond the portal, so it was with some relief that he ‘saw’ Nemari and Rue come through next. Yoru was upright, with one of the women on either side supporting him, and Azlo appeared right behind him.
+
+“Is he going to make it?” Rue asked immediately, passing Yoru’s weight to Azlo and taking three large strides across the floor to where Sorin was laying Odric back down.
+
+“I don’t know.”

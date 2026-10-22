@@ -1,0 +1,40 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const theDungeonWithoutASystem = {
+  id: "01a1655f-2817-7c46-a414-758194d845fe",
+  type: "page-type/story-read",
+  slug: "the-dungeon-without-a-system",
+  author: "StrangerDanger51",
+  following: false,
+  unit: "unit/words",
+  title: "The Dungeon Without a System",
+  world: "world/the-dungeon-without-a-system",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "48893",
+      externalLink: "https://www.royalroad.com/fiction/48893/the-dungeon-without-a-system",
+    },
+  ],
+  externalTags: [
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Multiple Lead Characters",
+    "Strong Lead",
+    "Adventure",
+    "Fantasy",
+    "Dungeon Core",
+    "Genetically Engineered",
+    "High Fantasy",
+    "Magic",
+    "Modern Knowledge",
+    "Non-Human Lead",
+    "Non-Humanoid Lead",
+    "Reincarnation",
+  ],
+  publicationStatus: "ongoing",
+  readLater: true,
+  createdAt: "2026-10-22T20:48:17.431Z",
+  updatedAt: "2026-10-22T20:48:17.431Z",
+} as const satisfies StoryRead
