@@ -4,8 +4,7 @@ export const seatProcKey = {
   id: "01a068a4-60f0-7000-bffe-694978e0a342",
   type: "page-type/module",
   slug: "seat-proc-key",
-  definition:
-    "a pid held together with the tick its process started at, so a reused pid shows as gone",
+  definition: "how code writes the id of a process and the time the process starts",
   code: "ts",
   decisions: [
     {
@@ -43,5 +42,5 @@ export const seatProcKey = {
     },
   ],
   createdAt: "2026-09-03T18:59:58.320Z",
-  updatedAt: "2026-09-22T13:22:14.000Z",
+  updatedAt: "2026-10-22T15:12:51.595Z",
 } as const satisfies Module
