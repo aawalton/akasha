@@ -1,0 +1,123 @@
+[Time]: Autumn Semester, Day 2 — 9:00 AM[Location]: West Campus · Yggdrasil Academy · Transmutation Spire · Tiered Lecture Hall
+
+To the land-dwellers, the School of Transmutation was the most housebroken of the magical disciplines. If one of them had ever watched a Witch work at all, it was almost certainly a Transmutation spell: [Mage Hand] to haul a crate, [Scribe] to copy a ledger without a single blot, [Mending] to coax a shattered jug back into one piece. Convenient. Domestic. The kind of magic that made daily life fractionally less miserable and never once threatened to end the world.
+
+To the academic elite of the Inner Sea, that impression was considered quaint, bordering on adorable.
+
+At its absolute zenith, Transmutation was the surgical dismantling of reality's source code. A Grandmaster did not so much move matter as reach into the atomic lattice and bully it into a new opinion, persuading steel that it possessed the viscosity of warm honey, informing the air around an enemy that it now weighed as much as a collapsing star. Structurally, it was the nearest sister-school to Alchemy, trading the crucible for nothing but the caster's own unyielding conceptual authority.
+
+Professor Heidi Lucent entered the tiered hall with a trench coat worn open and the slow, soundless tread of flat velvet slippers, and the hush ran up the rows ahead of her, shutting forty-five students up well before she reached the podium. She did not write her name on the slate or distribute a syllabus. She taught from a single governing assumption: everyone who had clawed through the enrollment queue to sit in this room was a generational genius, and she was not about to insult that talent by starting at the beginning.
+
+"Today," Heidi said, her voice chiming through the vault with the clear, freezing resonance of glass wind chimes, "we build a composite spell. Illusion married to Evocation."
+
+She lifted one pale finger. Two enormous runic arrays ignited in the air above the podium. One blazed the violent crimson of the rune whose every meaning was fire; the other wept the deep, still azure of the rune whose every meaning was water: two glyphs that, by every textbook in the building, wanted nothing in the universe so much as to annihilate each other.
+
+"You will bind these two contradictions into one stable matrix," Heidi continued, her gaze drifting up the ascending rows. "Consider it your entry-level exercise for the A3 certification. If you cannot deduce a viable path for it, I would gently suggest you abandon any ambition of sitting the A3 at all."
+
+In the second row, Hathaway's operating system crashed straight to desktop.
+
+An A3 entry exercise. She had officially enrolled in the A2 Alchemy track twenty-four hours ago and was, at this exact moment, still memorizing decimal coefficients for competing varieties of dirt. We are compiling senior-grade dual-school fusion architecture at nine in the morning on a Tuesday. Is this legal?
+
+Heidi's gaze slid down the rows, past the general population of blank, bracing faces, and stopped on Hathaway with the quiet precision of a targeting rune finding lock.
+
+"Hathaway." Soft, almost fond. "Your approach."
+
+The blood left Hathaway's face on a clean, orderly schedule. The exact feeling of a junior developer getting called out by the chief architect in a room full of the whole company. She stood. In the half-second it took her boots to find the floor, her cognitive core was physically smoking.
+
+An approach. She wants an approach. Two nested problems. Illusion fused with Evocation into a single spell, and Hathaway had precisely zero lines of code for that half. Bolted under it, a fire rune and a water rune sharing one payload, a fatal conflict error in a live build. You cannot merge, so you duct-tape it and force the compiler to look the other way. Answer the part you can render. Say it loud enough that nobody profiles the part you can't.
+
+"I would," Hathaway said, excavating the single most expensive-sounding term from her crammed summer reading, "bind the fire rune and the water rune with a Roche Gyre."
+
+Silence dropped over the hall. She plowed forward on nothing but bluff. "Rather than reconciling the elemental contradiction, you force the whole matrix into high-speed axial rotation. The spin outpaces the collapse. As long as the containment loop keeps the paradox in a stable orbit and nothing detonates, the spell holds its shape."
+
+Heidi studied her for a long, unreadable moment.
+
+"A profoundly barbaric application of raw force," she said, her tone perfectly level. "You may sit."
+
+Hathaway dropped back into her chair, her soul exiting her body on a grateful sigh. She had been called a barbarian by a Grand Witch and survived the cold call with her enrollment intact. Net positive.
+
+"And you." Heidi's eyes moved to the front row.
+
+Surtrina was already leaning forward, tail cracking against the floorboards, golden eyes lit with predatory delight. "Shape the water, but transmute the sensation to fire. You drown the target in an illusion-laced deluge, and her nervous system reads a sea of open flame. The brain commits so hard to burning that the flesh obliges. Real third-degree burns, blooming across a body that never touched heat."
+
+Heidi remained a portrait of beautiful, unbothered stone, and turned her head a few degrees.
+
+"Spectra."
+
+Spectra rose the way cold air rises, and the temperature of the front row dropped to meet her. "Refine the illusion's structure so the incantation tethers real matter instead of deceiving a mind. The visible payload is a freezing blizzard. The true payload, buried under it, is Evocation fire. The target braces against the cold, drops her thermal wards, and burns in a single breath."
+
+Heidi sighed. It was a small, quiet sound, and it carried the specific weight of a woman recognizing something old.
+
+"Your line of thought," she said gently, "is identical to your mother's."
+
+The airy composure went out of Spectra all at once. The quill in her fist snapped clean, ink bleeding a slow black bruise across the blotting paper.
+
+Roxanne. Hathaway's internal database surfaced the file without being asked. Candidate for the Axiom of the Water Dragon. The Potions professor waiting for me later this week. Spectra has spent her whole life inside that shadow, and Heidi just told the entire room she is still standing in it.
+
+Heidi's attention landed on the second row, and Victoria, seated at Hathaway's side, who had plainly been waiting for this her whole life.
+
+"Discard the illusion's effect entirely," Victoria said, her syntax flowing out pre-compiled and seamless. "Keep only the casting gestures and the incantation. Strip the 'unreal' out of the core, replace it with a live effect, and you have refined the whole spell into a direct-effect composite that merely wears an illusion's syntax to slip past a counter."
+
+A razor-thin smile touched the corner of Heidi's mouth. "You have studied the Ultra-Modernists quite deeply."
+
+Awe compiled quietly in Hathaway's chest as she stole a sideways look at Victoria. Bottomless trench. The Ultra-Modernist school is the bleeding, borderline-heretical frontier of arcane theory, and its founding architect is Marianne Horton. Of course Victoria worships that flavor of ruthless structural efficiency.
+
+Heidi stepped out from behind the podium, turned her back on all of them to face the glowing prompt, and her wind-chime voice hardened into something with edges.
+
+"Evocation and Illusion, treated as a binary toggle." The disdain came out aristocratic and effortless. "Push it to its outer limit and what have you built? Fire that looks convincingly real. Water that feels like fire. Or, worse." She glanced back over her shoulder. "The foolish Ultra-Modernists, who dissect a spell into its mother-group and its father-group. An Illusion mother-group carrying an Evocation father-group, or the reverse, and they call the corpse a composite. It is not one. It has lost the single thing that ever made it one."
+
+The pressure in the hall dropped several degrees.
+
+Good lord. Hathaway's jaw came fractionally loose. She let the whole class turn in their homework, and then she carpet-bombed the entire room in one pass. Fourth Seat's life's work included.
+
+Beside her, Victoria had gone perfectly, geometrically still. Her idol had just filed the theory she revered, authored by the woman she revered second-most, under foolish, out loud, to a full lecture hall. Not one muscle moved to reveal which loyalty had won.
+
+"A true composite spell must possess flexibility," Heidi went on, raising both hands, the loose sleeves sliding back from her wrists. "Its defining act is Transmutation. It must be Evocation and Illusion at once, held in a state of constant change. So you do not blend the two. You split every molecule the spell owns into an outside and an inside."
+
+She traced a slow circle in the empty air.
+
+"Hold the outside of each molecule in pure Evocation. Whatever it presents, it presents honestly: real mass, real heat, real consequence. Its inside holds nothing but the question of what the thing is, and you code that in Illusion, because Illusion is the one school where an answer may change while it is still being given. The spell becomes something that refuses to stay one thing."
+
+She exhaled. A soft ribbon of steam rolled off her lips, gentle as breath, and seared the air with the melting heat of a dragon's exhale. She turned her wrist, and a sphere of water bloomed and hung there in the precise shape and heavy, sluggish weight of a fireball, wrong in every way at once. It struck the containment ward and did not splash. It burst into a thousand fat, glowing beads of molten magma, and the air across the front rows flash-boiled. Then Heidi lifted two fingers, and the magma unspooled into a drift of harmless fog that rolled over the seats carrying the faint, clean scent of jasmine before it thinned into nothing.
+
+Hathaway watched the whole thing without breathing.
+
+She understood perhaps a third of the underlying math. Her translation layer caught the rest anyway, and what it caught raised the hair on her arms: the lecture had just violated several hard-coded, load-bearing theorems across the Eight Schools, out in the open, on purpose. And looking at the magma-fog going still in the air, the verdict assembled itself with no room for appeal. The theorems are wrong. Not Heidi.
+
+She swept the amphitheater. Most of the forty-five wore her own expression to the letter: buffers overloaded, eyes glazed, quietly drowning at their desks. Only a microscopic minority were keeping pace. Victoria, Surtrina, Spectra, all three leaning in, not one of them taking a single note, every one of them staring at the podium with the bright, feverish devotion of a witness to something holy.
+
+For the rest of the block Hathaway's quill never stopped. She packed a dozen sheets of parchment with cramped, frantic diagrams and molecular-division logic, wrist cramping, logging every stray gesture and offhand metaphor. Missing one syllable of this felt like hemorrhaging net worth in real time.
+
+The great bell tolled through the spire. Heidi cleared the arrays with a single sweep of her sleeve.
+
+"Your assignment," she said softly, already stepping down from the podium. "Using the internal-external paradigm from today, develop one original composite spell. You have seven days."
+
+She was gone before the hall had finished exhaling.
+
+Hathaway stared at the vacated podium.
+
+Am I the only structurally sane person in this room? She handed us a proprietary physics engine and told us to ship a brand-new triple-A title by next Tuesday.
+
+She turned to her friends. "Does anyone here actually have a way into this?"
+
+Surtrina snorted, chin tipping toward the ceiling, the flame at her tail-tip burning tall with pride. "Obviously. I'm going to build something that makes her look at me all over again."
+
+Spectra was staring down at her own broken quill. The shadows at her desk had deepened into something jagged, and her voice came out low enough to raise the fine hair on Hathaway's arms. "I am not," she said, "my mother."
+
+Victoria was already sheathing her quills, a cold fire steady in the pale blue of her eyes, her voice carrying the serene composure of an architect scheduling a demolition. "I will tear down the foolish Ultra-Modernist framework," she murmured, "and build something better on the rubble."
+
+Hathaway swallowed.
+
+Around her, three of the most terrifying sophomores in the academy were spontaneously powering up like shonen protagonists, fueled respectively by spite, unresolved mother issues, and academic bloodlust, and every last one of them fully intended to spend the coming week bleeding in a laboratory to forge a miracle.
+
+Hathaway had no framework to tear down. She had duct tape and a dozen pages of other people's genius.
+
+Her fingers brushed the cold enchanted coin in her pocket. Network audit. Her contact directory was a deranged spread of top-tier Witches. Every one of them carried a different, unhinged school of thought. She was going to crowdsource the modules, harvest a pile of mutually contradictory angles, and solder the best fragments into one matrix that was, technically, hers. The integration is the original part.
+
+But you do not dump a raw assignment prompt into the senior engineering chat and ask them to do your job. You build a Minimum Viable Product first. You duct-tape a working demo together, get it to compile, and then you submit it for code review. That was the only way to ask for help without losing all professional dignity.
+
+One name in her network was already walled off entirely. Not Irene. That contact stayed locked away for the day she had a Sunflare-level question actually worth Irene's time.
+
+She glanced sideways at Victoria's burning eyes, then at Spectra's broken quill, then at the tall proud flame of Surtrina's tail. Three monsters she was, against all reason, extremely lucky to keep. She loved them. But she was not going to bleed in a laboratory for seven days trying to reinvent the wheel just to keep pace with them.
+
+Build the janky prototype. Ship it to the beta testers. She stood up, her mind already shifting from pure panic to structured logic, drafting the architecture for what was about to become an aggressively collaborative week of troubleshooting.

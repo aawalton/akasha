@@ -1,0 +1,201 @@
+[Time]: Autumn Semester, Day 99 — 9:00 AM[Location]: West Campus · Yggdrasil Academy · East Examination Blocks
+
+Finals week arrived as a wall of administration, with a seating chart.
+
+Nine modules across two weeks, every professor setting her own date. Sharon Curie had put her doll-making practical all the way out to Monday next, which left runes to open the week, which meant the entire cohort spent the first morning of finals discovering what the archive had been keeping in its basement.
+
+Hathaway sat in an isolation booth under a silence ward and looked at the crime scene glowing on her desk.
+
+The prompt for [Elementary Practical Runes & Applications] was one sentence long.
+
+Fix it.
+
+The professor had gone into forty years of archived student submissions, pulled out arrays that worked, distributed them at random, and sealed every one of the little rooms.
+
+You want me to refactor a legacy codebase abandoned by a developer who left no forwarding address. Hathaway's mouth twitched at one corner. Professor, this violates the single covenant our people have. If the ugly thing compiles, you put a sign on it and you back away slowly.
+
+She ran a diagnostic thread through the outer containment loop, and underneath the irritation something ancient and professional woke up and started reading.
+
+It was a localized climate-control matrix. Temperature held, humidity held, the vent cycle came around on schedule and did what it said, and it drank thirty percent more mana than the theoretical ceiling for its class, every hour, for however many years it had been sitting in a drawer being somebody's passing grade.
+
+Ten minutes down through the logic gates, she found it. The original author had never managed to synchronize the barometric node against the thermal one. A race condition, ugly and small and genuinely hard. With a clock running and a cohort of geniuses breathing on both sides of her, that student had wrapped the entire sequence in a retry loop: run it, throw the first result away unread, run it again on the residue and render that one. Thirty percent of the fuel, forever, on a calculation the array had been instructed to ignore.
+
+Wontfix. Hathaway sat back and felt a flicker of kinship with a woman she had never met. You knew. You knew while you were carving it, and you shipped it anyway, and you graduated.
+
+Her first instinct was to tear it out at the roots. Two lifetimes of watching production burn stayed her hand, because a redundant loop is only redundant right up until the afternoon it isn't, and the person who finds out is never the person who deleted it.
+
+She cut a secondary shunt into the substrate instead, six microns wide, forced the two nodes to resolve on the same beat, and watched the consumption curve come down flat on the first pass. Then she drew a clean border around the now-dormant loop and etched a block of marginalia beside it in aggressively legible script.
+
+Root desync resolved at Node 4A via secondary shunt. Legacy loop is now inert and safe to excise.Do NOT excise below 400 ambient M-Units. Under that floor the shunt starves, the desync returns, and this loop is the only thing standing between you and a backdraft through the vent stack.
+
+She capped her ink, and somewhere underneath the satisfaction her scheduling thread quietly produced the Badlands.
+
+Five words on that codebook. Radius, hold, abort, mark, ignite. She looked at the second half of her own annotation. Every one of them says what to do. Not one of them says what happens if I am wrong about when.
+
+She filed that where she filed everything she was not going to enjoy, and submitted forty minutes early.
+
+The professor at the invigilator's desk unrolled the slate, tracked down the array, stopped at the margin, and read the second line twice. Then she gave Hathaway a single nod, and Hathaway went out into the corridor feeling roughly the way she had once felt closing a critical ticket at four o'clock on a Friday.
+
+[Time]: Autumn Semester, Day 100 — 10:00 AM[Location]: West Campus · Transmutation Spire · Assessment Cell 4
+
+Tuesday belonged to Heidi Lucent, and the entire spire had the atmosphere of a building waiting to be audited.
+
+Hathaway stepped into a stark white cell. On a pedestal at the center of it lay a single iron nail.
+
+The slate carried one line, in a hand that had never once needed to press hard.
+
+Transmute this object into itself. Attach a complete working log.
+
+Turn an iron nail into an iron nail. Her tactical thread walked a slow circle around the prompt. Null operation. Submit a blank log and argue that declining was the elegant answer.
+
+She killed it on arrival. This is the Tenth Seat. Hand that woman an empty page and call it philosophy and she will transmute your skeleton into glass and enter it in the register as a failing grade.
+
+Option two was honest work. Break the iron down, reforge it into the identical shape, log the thermal bleed and the mana spend, and close on the oldest line in the discipline: transmutation is never free, physics always takes its cut.
+
+Heidi does not grade blacksmiths.
+
+She stepped up to the pedestal. Why is it a nail?
+
+Because iron had cooled out of a rock, and somebody had hit it with a hammer, and physical law had agreed to hold the result in that configuration until further notice. Nobody had ever specified a nail. The universe had shipped it on defaults and moved on to other business.
+
+To turn A into A, you first have to define A. Her developer brain came all the way up out of its chair. And a definition is a declaration.
+
+Hathaway sat down and wrote a specification for an iron nail.
+
+Alloy composition to four places. Crystalline grain orientation. Length, gauge, head diameter, shear tolerance under load. Intended function, stated in one sentence, because a thing that does not know what it is for cannot be said to have failed at anything. Then failure conditions, itemized: the temperature at which this object stopped being this object, the lateral force at which the specification no longer held, and the exact circumstances under which a future owner should stop trusting the document in her hand. Eleven pages before she looked up.
+
+Same skill as yesterday. Her spectator thread found that funnier than the situation strictly allowed. Yesterday I wrote down when not to delete somebody else's ugly loop. Today I am writing down when to stop believing me.
+
+Then she brought the matrix up, aimed it at the specification and closed it.
+
+The nail lay on the pedestal, grey and cold and identical under the calipers to the object she had measured going in. Her reserves came down by forty-six M-Units, which was the entire point, because a null operation does not send an invoice.
+
+She wrote the number at the top of the log and underlined it once.
+
+She had taken the deed.
+
+[Time]: Autumn Semester, Day 101 — 9:15 AMStolen content warning: this tale belongs on Royal Road. Report any occurrences elsewhere.[Location]: West Campus · The Grand Conservatory · Student Sectors
+
+Wednesday morning smelled of wet loam and chlorophyll and something faintly carnivorous three rows over, and Hathaway came into her own greenhouse sector carrying a clipboard she did not need, and enjoying the ritual anyway.
+
+A semester of it had turned her allotment into a riot. She audited the fungal blooms on their petrified logs. She logged spore density. She took the humidity down half a point on the spectral bed, which sulked about it, as it did every single week.
+
+At the Renavelle Cactus she stopped and frowned. The primary taproot had gone dry at the crown, three weeks out from a scheduled substrate change and thoroughly out of order about it. She measured five hundred M-Units, pushed the whole allocation straight into the soil, and watched the root network flare and swell and take hold again with the sullen ingratitude of a plant native to a realm whose wildlife is principally famous for lying.
+
+She handed Cosette the binder: every growth log of the semester, the substrate rotation, the thermal adjustments, and the four-column table where she had priced each medium against yield and then quietly rebuilt the entire schedule in week six, because looking at an inefficient table for fourteen consecutive weeks was not a survivable proposition.
+
+Cosette turned the pages with those delicate fingers, and her eyes went soft.
+
+"You have a great deal of patience, Hathaway," she said, and she meant it, which was somehow worse. "They are flourishing."
+
+Heat came up Hathaway's neck and made it all the way to her ears before she could route around it.
+
+Madam, on Earth I was a serial killer. Her inner corporate drone had its face in both hands. I put a succulent in the ground. A succulent. The care instructions said water it once a month, and it looked at me, and it made a decision.
+
+"Thank you, Professor," she said, and meant that too. "I had excellent instruction."
+
+[Time]: Autumn Semester, Day 101 — 2:00 PM[Location]: West Campus · Potions Hall
+
+The two prompts went up at the front of the hall, the same two for everybody, off the same published page, which left the hand holding the knife as the only variable in the room.
+
+[One]: Brew a [Twin Solution], or a higher-grade equivalent of the same classification.[Two]: Brew a [Mana Burst Potion], or a higher-grade equivalent.
+
+Higher grade carries the bonus. Hathaway ran it and closed the file. Which means an original formulation, or a proprietary line some house is sitting on.
+
+Not this year. She pulled her materials. White wood thread, chlorine dioxide crystals, the ears of a Tervasha lop-ear, six distinct spell-fire flasks, and the Spirit Sea Mind Mushroom, which had ruined more grades in this hall than every other reagent on the shelf combined.
+
+Cap veins run thick and fibrous. Her inner study guide had the card up before she reached for the knife. Score it wrong and it will not break down. The residue clouds the solvent and the partition never holds.
+
+She took the silver blade, drove it deep across the cap, then rolled her wrist and lifted, turning the cut into a clean and ruthless V.
+
+She sorted, prepped, fired the four-element burner, and fed the crucible in strict sequence, riding the thermal gradient with the flat unhurried competence of a woman who had done it forty times in a kitchen at midnight. The liquid climbed the vial, divided itself down the middle, and stopped: crimson on one side, blue on the other, neither acknowledging that the other was in the room.
+
+Eleven days ago she had swallowed one of these on a plate of scoured rock and spent an afternoon with somebody else's heartbeat sitting under her sternum.
+
+The Mana Burst went faster, because Spectra had put a red line under four recipes during the study group, and two of them were now on the board, and she had declined at the time to explain how she had arrived at four.
+
+Nepotism. She sealed the stopper with wax. A magnificent institution, and I will hear nothing against it.
+
+Roxanne came down the aisle as she was clearing the bench, held the vial up, checked the partition against the light, and made a small sound of approval before she moved on.
+
+[Time]: Autumn Semester, Day 104 — 10:00 AM[Location]: West Campus · Second Alchemy Tower · Tool Creation Workshop
+
+Saturday was the crucible.
+
+Mephisto had taught fourteen high-difficulty consumables across the semester, and the format had never been a secret: three drawn out of the drum at the bench, live, against the gate she had named on the sixth day of term. Shelf life, eighty percent efficacy, eighty-five percent yield, on every item drawn.
+
+Hathaway could guarantee that number on nine of the fourteen.
+
+Twenty-three percent to pull three out of the safe pool. Her inner producer had run it on Thursday and regretted it continuously ever since. That is a banner rate. People write letters about that banner rate.
+
+She drew.
+
+[Force Beads]. [Heroism Potion]. [Shell Protection Pearl].
+
+Two out of three, and she let a breath out through her nose. She had a pouch of Force Beads on her hip at that exact moment and had been running above ninety since week nine. The Heroism Potion was ubiquitous and obscene money, three or four of them on every serious combat witch's bandolier, because swallowing one bought three to four seconds of physical supremacy against somebody who massively outclassed you, and three to four seconds was, with distressing frequency, the whole argument.
+
+Then the third slip.
+
+The Shell Protection Pearl came off the pearls of a shell dragon and delivered a Tier-3 defensive package: a medium deflection shield, aquatic mobility, flat physical mitigation. It was also miserable work. Nacre came laminated, dozens of concentric growth rings laid down by an animal with no opinion whatsoever about spellcraft, and the matrix had to seat evenly through every one of them or the pearl split along a ring. Her most recent practice run had come in at eighty-one.
+
+Four under, and the gate is per item. Her tactical thread laid it out with no particular sympathy. Nine safe out of fourteen, and the drum reached in and handed me one of the five.
+
+She stopped hearing the forge. For two hours she seated matrices through nacre one growth ring at a time, holding her output flat against the ambient drift of forty-four other roaring benches.
+
+When the bell went, she counted her survivors twice.
+
+Eighty-eight.
+
+Overperformed, under pressure, on the worst one I own. Her developer brain sagged against an interior wall and put up a weak thumbs-up.
+
+Mephisto came down the aisle with the abyss rolling off her in slow waves that a hall full of forges declined to affect, glanced at the tray, snorted, and addressed the room at large.
+
+"Not bad," the Arch-Witch said. "Those of you still standing may now refer to yourselves as qualified alchemists."
+
+Hathaway put her whole weight on the bench and let a semester go.
+
+[Time]: Autumn Semester, Day 104 — 6:30 PM[Location]: White City · Commercial Ring
+
+Evening came down over a city that had never once gone dark for it, and five witches came out through the West Gate onto a promenade running the same steady amber it ran at noon.
+
+Hathaway looked around the circle, considered opening with something about the exams, and let it go before it reached her mouth. Telling this particular circle that it had passed would have been reading a receipt aloud to the woman who paid it.
+
+And underneath that, for the first time in six days, the Badlands were quiet.
+
+"So," she said. "Where are we eating?"
+
+"Hell cuisine." Surtrina rolled her shoulders. "There is an authentic place up on Snowsheen Lake. It will remove the roof of your mouth and you will thank it."
+
+"And the arcade after," Yenna said, ears swiveling forward, entirely mild. "I hit S-Rank in Marit Kart on Thursday."
+
+Hathaway stopped dead on the cobbles. "Thursday. Yenna. We had an agreement. We swore we were staying in A-Plus together forever, and you ranked out behind our backs during finals week."
+
+"I wonder," Spectra said, arriving at the edge of the conversation the way fog arrives at a shoreline, "who was getting out of bed at three in the morning during finals week to grind ranked."
+
+Hathaway drew herself up to her full height. "Somebody was doing that? During finals? Give me a name."
+
+Spectra turned her head and looked at her and did not blink. "A-Plus. It is a small pool."
+
+Hathaway coughed into her fist and pivoted without shame. "Fine. Yes. I was there. And if you were not queued at three in the morning, how exactly did you know I was online?" She threw both hands up, and a grievance she had been carrying since Wednesday came out sideways. "And I did not even rank. Three matches, back to back, the same Butcher Kart. Every single time I touched a boost pad that hook came out and dragged me backward into the wall. She was not racing. She was not even scoring. She was farming me."
+
+"Look on the bright side," Yenna said gently. "It was not for nothing. You have the exhaustion to show for it."
+
+Victoria, at her shoulder, spoke into the middle distance without turning her head.
+
+"That was my alt account."
+
+Hathaway made a sound like a kettle going through a wall. Surtrina hit her between the shoulder blades hard enough to rattle her teeth and did not appear to be trying to help, and somewhere around the third breath her survival instincts seized the wheel and executed a full reverse.
+
+"Ah." She came up wheezing, an octave high. "No wonder. No wonder. I said at the time, I said it out loud, who has mechanics like that, that entry angle was immaculate, that was the most beautiful cliff I have ever been driven off in my life. Vicky's alt. Ha. Haha." She patted her own chest. "And honestly, that one is on me. Three in the morning during finals week. You saw the state of me and you took extreme measures, out of care, to ensure that I logged off and got some rest. Which I did. Hahaha."
+
+She fired a wide and desperate look over Victoria's shoulder at the other three. Help. Any of you. Now.
+
+Victoria said nothing whatsoever, and adjusted one glove.
+
+Surtrina watched her flounder for a further five seconds with unhidden professional enjoyment, and then turned for the street.
+
+"Food," the Balor witch said. "We lose the table at seven."
+
+Semester compiled. Hathaway let the ledger close on the whole shipped, tested, faintly ridiculous week.
+
+Ahead of her the four of them went down the promenade at a volume that carried, arguing about which of them was actually the best driver. Hathaway walked at the back, where she could see all of them at once, and did not examine why.

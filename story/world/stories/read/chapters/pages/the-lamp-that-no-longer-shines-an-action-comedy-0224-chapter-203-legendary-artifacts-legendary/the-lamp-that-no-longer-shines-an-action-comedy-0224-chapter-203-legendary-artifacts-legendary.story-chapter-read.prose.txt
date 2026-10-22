@@ -1,0 +1,171 @@
+[Time]: Autumn Semester, Day 4 — 1:40 PM[Location]: West Campus · Yggdrasil Academy · Grand Corridor
+
+The duration decay had not, after all, been a lie. It had simply been in no hurry.
+
+Twenty minutes before the afternoon block, walking the vaulted corridor with Victoria at her side, Hathaway felt the agonizing weight anchored to the base of her spine decouple all at once. The six red-gold tails dissolved into a drift of warm sparks that winked out before they touched the flagstones, and the twitching ears melted back into ordinary human hearing.
+
+She stopped dead in the middle of the hall and let out a long, shaking, religious breath.
+
+I am a bipedal primate again. Her soul wept, as she rolled shoulders that no longer had to counterbalance a sofa's worth of fluff. I can sit in a chair with a backrest. I can calculate a tip without my own backside opening into a peacock display. I am free.
+
+Beside her, Victoria's footsteps halted.
+
+She looked at the empty air behind Hathaway's waist, then up to the crown of her head where the ears had been, and the ambient light in her pale blue eyes dropped by a precise, measurable degree: the poorly concealed grief of a collector watching a limited-edition asset despawn permanently from her inventory. She sighed, soft and aristocratic.
+
+A chill went down Hathaway's newly liberated spine.
+
+Her memory bypassed every security protocol to surface a single high-resolution image: the spare, fully loaded vial of Foxification Potion that Spectra had flicked into Victoria's waiting hand the previous afternoon, now riding in the inner pocket of that tailored dark jacket.
+
+She has the backup file. Cold sweat pricked her collar. She holds the installation media, and judging by that look, she is already running deployment simulations. Hathaway swore a blood oath. She would never again, under any circumstances, accept an open beverage from this woman.
+
+"We should hurry," she said, a full octave above standard operating parameters. "We'll be late for Wondrous Item Crafting."
+
+Victoria's gaze rose from Hathaway's lower back to her eyes, and a razor-thin smile touched the corner of her mouth. "Indeed," she said. "We have a long semester ahead of us."
+
+[Time]: Autumn Semester, Day 4 — 2:00 PM[Location]: West Campus · Yggdrasil Academy · Wondrous Item Hall
+
+The hall looked like the inside of a deranged watchmaker's skull. Gear-driven astrolabes turned slowly from the vaulted ceiling, tracking constellations that did not exist in this hemisphere, and the workbenches were dark, polished wood threaded with fine veins of silver inlay, channels worn smooth by decades of precise, deliberate use.
+
+The woman behind the obsidian podium held the room's attention before she had said a single word.
+
+Emilia Lucas. Head of the thousand-year Lucas dynasty, a house that stood shoulder to shoulder with the Ludwigs. The undisputed genius whose artifact patents held the Inner Sea's market by the throat. And, most unreasonably of all, the reigning Axiom of the Water Dragon, a title she had seized at an age when most Witches were still weeping over their A3 certification. Immaculate, dark hair cropped into a merciless bob, dressed in a severe navy suit, her eyes as cold as the floor of an ocean trench.
+
+She squared a stack of schematics against the podium with the crisp efficiency of an executioner checking her blade, and looked up.
+
+"Let us dispense with the preamble," Emilia said, her voice striking the tiered acoustics like a thrown scalpel. "Wondrous Item crafting is not Alchemy. Alchemy is the science of equivalent exchange. It is a negotiation with physics, and physics always takes its cut."
+
+She planted both hands flat on the podium.
+
+"This discipline is a mockery of that. We gaslight reality. The only currency at this table is logical self-consistency. Build a paradox whose internal logic is airtight enough to deceive the Will of the World, and the world will shrug and execute the code."
+
+In the second row, Hathaway's quill paused, her translation layer engaged, and her eyes went wide. It's Ork logic. Red wunz go fasta. Convince the universe a bell rings because a fairy kicked a gong, and she could build Doraemon's fourth-dimensional pocket out of a leather satchel and some string.
+
+"Today," Emilia said, dimming the lumen-globes with a flick of two fingers, "we lay the foundations of spatial folding and soul-hosting. We will do it by dissecting three of my early works."
+
+Two silver necklaces resolved in the air above the podium, each hung with a thumb-sized galleon carved to the last rivet.
+
+"We begin here. The [Wealth Fleet of Plymouth Port]," she said. "A linked pair. Between them they hold the cargo tonnage of twenty standard galleons, in a shared pocket space: deposit into one, withdraw from the other. It also runs a passive trait, dredging random lost resources out of the Void Sea of discarded things."
+
+A murmur of appreciation.
+
+"A textbook case of spatial folding," Emilia said, ignoring the murmur entirely. Her wand tapped the slate, and a suffocating wall of runic mathematics detonated across it. "To hold a stable sub-space tunnel open between two moving anchors, you resolve for Void Resistance."
+
+Hathaway's quill flew, and her processor smoked. The line the board labeled the Three-Dimensional Coordinate Dynamic Compensation Formula read like a targeted cognitohazard.
+
+"This piece," Emilia said flatly, "is a failure."
+
+The murmuring died.
+
+"In my youthful arrogance I chased ultra-long-distance transmission, and failed to weight the latency coefficient of Void turbulence. Every retrieval takes a five-minute baseline summoning channel, and the delay scales with distance." A tight, humorless pause. "In field test, pulling a single crate of apples from Milan'thir to Casendiara held the channel open for five continuous days."
+
+Hathaway lowered her quill.
+
+Ping: four hundred and thirty-two million milliseconds. Her developer brain logged the number with a shudder. She built a wireless matter transporter and routed it over dial-up through Jupiter. You reach for a health potion mid-boss-fight, and it finishes loading halfway through your own funeral.
+
+Emilia spent the next forty minutes dissecting the exact cascade of mathematical failures that led to the delay, forcing the class to chart the Void drag coefficient by hand until half the room was nursing cramped fingers and ink-smeared foreheads.
+
+"Moving on." She wiped the slate clean with a brutal, dismissive swipe of her hand. The necklaces vanished, replaced by a bronze shortsword floating in the light, its verdigris patina glowing with a quiet, ancient authority.
+
+"The [Carving the Boat to Seek the Sword]," Emilia said. "Static capacity, fifteen cargo containers. Twin blades, one shared space, exactly as the fleet. This one was built to solve the anchor-locking problem that crippled the necklaces, and it solves it perfectly." She paced. "I used the surface of water as a fixed conceptual medium and bypassed the coordinate mathematics wholesale. Its spatial stability is absolute. It cannot be jammed, intercepted, or collapsed by hostile magic."
+
+Hathaway leaned in. Perfect stability, zero ping. Where's the catch.
+
+"The catch," Emilia said, pinching the bridge of her nose, "is the boot sequence. To open the inventory, the user excavates a trench, two hundred centimeters by one hundred, precisely one meter deep, fills it to the brim with fresh water, and throws the sword in. Closing it is trivial, a simple retrieval charm lifts the blade back out of the mud."
+
+The hall stared in dead silence.
+
+It's a physical dongle. Hathaway's inner UX designer was on its feet, screaming. She engineered an uncrackable storage drive, and then bolted on a port that requires you to perform municipal landscaping and flood a ditch every single time you want to plug it in.
+
+Emilia rapped the chalkboard. "Your assignment. Calculate the refractive index of a water medium under spatial conduction. Due next week."
+
+A muffled collective groan rolled up the rows. Hathaway massaged her wrist, staring grimly at the six pages of dense spatial geometry she had already filled, the low amber light already thick with the particular stillness of a room that had been sitting too long.
+
+"Finally." Emilia's voice cracked across the acoustics like a whip, snapping the drooping spines in the amphitheater back to attention. The hologram shifted to a scabbard, lacquered pitch black, traced with fine gold cherry blossoms. Emilia magnified the cross-section, and the interior bloomed across the hall: a staggering miniature ecosystem, an ancient cherry tree in perpetual flower at the center of a sealed dome.
+
+"The [Izumi Saki]," she said. "Sixty carriages of storage beneath the tree. And a continuous [FreshRevert] field: fruit sealed inside stays edible for a full century, exactly as fresh as the day it was picked."
+
+Perma-fresh inventory, Hathaway's inner gamer sighed, enchanted.
+
+"To arrest decay on that scale," Emilia went on, her eyes narrowing, "you need overwhelming spiritual suppression. A mechanical rune-field decays and fails. You require a biological one."
+
+She reached to her belt and drew the invisible blade from the scabbard.
+
+Wooooooooo.
+
+A mournful, ear-splitting wail flooded the amphitheater, and the temperature dropped ten degrees. Pale blue vapor poured from the scabbard's mouth and gathered into the translucent form of a samurai in rotting Edo armor, entirely, conspicuously missing her head. Where the neck ended, a ghost-flame guttered. The apparition snapped open a spectral war fan, struck a pose, and launched into a slow, agonizingly long, catastrophically loud Waka poem in a screeching falsetto that shattered an inkwell three rows back.
+
+"This is the price," Emilia said over the howling, regarding the spirit with the dead-eyed fatigue of a sysadmin who had inherited someone else's legacy code. "To power the biological field, I sealed this entity, Izumi Saki, into the core. Her soul wavelength is catastrophically active."
+
+A student in the third row raised a nervous hand. "Professor. Can you not simply put a silence hex on her?"
+
+"Tell her to be quiet," Emilia said, "and she takes offense. She throws a tantrum, refuses to cooperate with the array, and the inventory stays locked. The hour passes, and you receive nothing." She pinched her temple. "Every deposit or withdrawal costs a one-hour activation window, and she sings through all of it."
+
+Hathaway buried her face in her hands.
+
+She built a refrigerator that plays an unskippable, hour-long cutscene of a decapitated ghost performing karaoke every single time you reach for a snack. Her inner developer was appalled outright. And if you hit Skip Ad, it bricks your account. They have weaponized bad UX into a school of magic.
+
+The headless soprano was coaxed back into her scabbard. By the time Emilia finished mapping the parasitic binding arrays that anchored the spirit, the chronometer at the back of the hall had ticked relentlessly past the ninety-minute mark. The wall of mathematics finally eased, and the high-intensity block wound toward its close. A brave student in the front row raised a hand.
+
+"Professor Lucas. These are all your early failures. Do you have a true masterpiece, something you consider flawless?"
+
+Emilia, packing her notes, stopped dead.
+
+She raised her head slowly, and the cold, hyper-rational calculation that had defined her for two straight hours drained out of her face all at once, replaced by a quiet, unguarded softness. Hathaway had the sudden, distinct sense of having walked in on a private moment, and busied her quill with an urgent note instead.
+
+"I do," Emilia said.
+
+She flicked her wrist. The hologram flared gold and reformed into a mountain.
+
+A volcano, sculpted flawless, its slopes blanketed in lush blooming oleander, a luminous liquid bubbling gently in the caldera at its peak. And the scale beside it read the whole object at no larger than a six-person hotpot.
+
+The air in the front rows changed. Victoria sat bolt upright, every trace of casual grace gone. Surtrina's swishing tail froze mid-arc. Even Spectra leaned out of her own shadow, pale gaze locked on the projection.
+
+[Legendary Wondrous Item: Oleander Radiance Tea Mountain]
+
+"The culmination of my life's work," Emilia said, her voice dropping breathless and fierce. "The internal folded space runs to 1.05 billion cubic meters, partitioned into 167 fully independent environments, each one calibrated to cultivate, harvest, and store a single one of the 167 finest tea varieties in the known universe. Thermal control holds to one-tenth of a degree, from a minus-forty-five flash-frozen brew to a hundred-and-twenty rolling boil, switching in an instant. The interior runs a closed, self-sustaining ecosystem dedicated to nothing but master-grade tea pastries."
+
+The hall erupted.
+
+"That's one of the Six Great Tea Vessels of the Inner Sea," a scion of old money hissed behind Hathaway, her voice genuinely cracking. "I saw the appraisal projections. Conservative estimate: you could trade that single artifact for two massive, resource-rich sky islands."
+
+Hathaway sat very still. A billion cubic meters of folded space, pristine thermal rendering, an entire private dimension. And she built it to brew tea.
+
+Then a jagged shard of bar gossip slid into place. If her memory held, this legendary artifact had never been sold, and never kept. It had been forged as a gift.
+
+For Irene.
+
+[Time]: Autumn Semester, Day 4 — 3:50 PM[Location]: West Campus · Yggdrasil Academy · Corridor
+
+The instant Emilia swept out through the faculty door, the strangled whispers detonated into open pandemonium. Hathaway, Victoria, Surtrina, and Spectra pooled into an alcove by the arched windows while the rest of the class filed past toward the exits, threads of the same gossip trailing behind them.
+
+Surtrina crossed her arms, a strange, bewildered respect working across her face. "I picked up the Lucas story down at the Styx drift club. The dead love telling it. Word is, she didn't just offer up the tea set."
+
+Hathaway blinked. "What else was there left to offer? The mountain it was mined from?"
+
+Spectra turned her head a precise fraction. "Her entire family."
+
+Beside Hathaway, Victoria paused halfway through capping her inkwell, and genuine shock cracked clean through the aristocratic lacquer. "That rumor is verified? The Lucas family agreed to surrender their ancestral surname, in full, for a single chance at marrying the Fifth Seat?"
+
+Hathaway choked on her own saliva and folded into her sleeve, coughing.
+
+"They agreed?" she wheezed.
+
+Her geopolitical database was screaming. Witches did not change their names when they married. Bloodlines were sovereign.
+
+If Emilia had only changed her own name, they would have stripped her of the family seat that same afternoon. Her logic engine turned it over, and the scale of it kept getting worse. That's the standard abandoning-the-throne-for-love tragedy, and it ends with the genius exiled from her own dynasty. But she leveraged her authority as Axiom of the Water Dragon to march her entire ancient house into a name change, folding a sovereign thousand-year empire into the Habsburg portfolio as a wholly-owned subsidiary. As a dowry.
+
+Hathaway stared into the middle distance. That is an entire family tree afflicted with the identical terminal illness, because a merger that unhinged still had to clear a boardroom vote, and every last board member signed.
+
+Surtrina threw her hands up. "And the punchline? They signed the whole bloodline away, wrapped up the greatest artifact ever forged as the gift box, and Irene turned her down flat anyway."
+
+Hathaway stood in the corridor, absorbing the catastrophic tonnage of unrequited, dynasty-scale simping.
+
+And then a thought bloomed warm in the center of her chest.
+
+Wait a moment. Her eyes drifted, narrowing, toward the doors of the hall she was going to be graded in. A bright, opportunistic smile tugged at her mouth. I suddenly feel exceptionally confident about my chances of passing this class.
+
+Beside her, Victoria watched the scheme finish compiling behind Hathaway's eyes, and something eased at the corner of her mouth. She slid the capped inkwell into her bag, and, without any particular hurry, let her gloved fingertips rest a moment against the jacket pocket.
+
+"A long semester," she agreed, to no one in particular.
+
+Hathaway did not notice, too busy being rich in contacts. It was, on the whole, the best kind of poverty to be escaping.

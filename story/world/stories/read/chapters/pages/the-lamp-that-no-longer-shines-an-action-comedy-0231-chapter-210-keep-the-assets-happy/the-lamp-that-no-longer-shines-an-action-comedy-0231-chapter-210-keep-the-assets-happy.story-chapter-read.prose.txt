@@ -1,0 +1,165 @@
+[Time]: Autumn Semester, Day 7 — 2:00 PM[Location]: High-Altitude Research District · Sector 6 · Lab 606
+
+The doors of Lab 606 came apart on a pressurized hiss and breathed sterile, ozone-scrubbed cold into the corridor.
+
+Inside, nothing had changed since spring. The Leviathan sat quiet in its cradle, that colossal fusion of brass and wet muscle idling at a heartbeat slow enough to pass for polite.
+
+Hathaway crossed the threshold with Victoria a half-step behind her, and the high-backed chair at the primary terminal rotated exactly one hundred and eighty degrees.
+
+Nino Lucent had a titanium stylus turning between two fingers and the expression of a woman who had already spent one morning on other people's incompetence and did not intend to spend a second.
+
+"That thing from this morning," she said. "Did you finish drawing it. Bring it here."
+
+Hathaway got the parchment out of her ring and handed it over with both hands, and her nerve went before her manners did.
+
+"I thought you were angry, Professor. You sent one question mark and went dark for five hours."
+
+Nino looked at her with precisely zero percent of anything.
+
+"Who told you to ask me for drama, Hathaway." The hoarse, nasal voice ran flat, the voice of someone metabolizing caffeine and grievance in roughly equal parts. "I don't keep drama in this laboratory. I can tell you whether the thing runs. That is the entire menu."
+
+She snapped the parchment open across the desk.
+
+For one long minute the only sound was the cooling vents. Nino's grey eyes tracked the crowdsourced monstrosity Hathaway had rebuilt in her own hand out of the collective genius of the eight most dangerous women in her directory: past Alice's hollow centre, past twelve rotating spokes, past a municipal notice, past a ledger of names.
+
+The stylus stopped.
+
+"That woman," Nino said, "asked for something that cannot answer what it is."
+
+She tapped the fat black disc at the middle of the page.
+
+"You have built something that knows every answer from the microsecond it leaves the wand, and then you carved all of them into the floor. It is a beautiful piece of siege artillery, Hathaway. It fails the prompt."
+
+She dragged the stylus left, then right.
+
+"You filed the event in the past tense. Completed, prepaid, unalterable. Elegant, and it buys you immunity from same-tier counterplay." The stylus stabbed twice. "Then over here you have continuous rescaling, and over here shadow-tracking off live positions. Those have to be awake to work. You hardcoded the outcome and then asked it to improvise."
+
+Hathaway's compiler threw the error before Nino finished the sentence, and the floor of her stomach went with it. Three people in one spell. One requires it to be over. Two require it to be listening.
+
+She abandoned what remained of her academic dignity somewhere around the edge of the desk and leaned across it on both palms.
+
+"Then how do I fix it, Professor!"
+
+The stylus completed one clean revolution around Nino's thumb. She looked at the ceiling with the air of a woman submitting a formal request for patience, received nothing, and swallowed the sigh anyway.
+
+"You change the tense. To the undecided."
+
+She brought the nib down onto the master copy and began cutting new bridges through the middle of it.
+
+"The interior holds no answer. It holds the question. Any living thing inside the boundary that forms a judgment about a sector supplies one." The stylus scratched. "It decides a stretch of dark is safe, and in that instant the molecules at those coordinates receive their answer, and the exterior executes it honestly and at once."
+
+She circled the core node hard enough to emboss the reverse.
+
+"The shape of the spell becomes a function of the enemy's attention: the more they look, the more of it commits. The better they are at reading a battlefield, the faster they finish reading themselves into the ground."
+
+Hathaway had stopped breathing somewhere around undecided. It renders on the target's hardware.
+
+"Costs." Nino lifted the pen. "Something has to hold the question open, and that something is you. Break concentration and every molecule answers simultaneously. The field resolves into one state, and what is left standing is an ordinary sixth-tier working that any competent witch can strip at her leisure."
+
+She set the stylus down.
+
+Hathaway rolled the parchment closed with the reverence of a woman handling her own pension, tucked it against her chest, and then produced a smile of surgical innocence.
+
+"Professor. Is it really all right for you to just edit my coursework?"
+
+Nino's face did not move.
+
+"Academy Charter, Chapter Four, Article Eleven. Coursework does not restrict external consultation." She leaned back until the chair took her weight. "Furthermore I altered seven connective pathways. Your sheet carries one hundred and forty-six nodes. That is a peer review, not a forgery."
+
+She turned to her terminal, and her gaze drifted off toward the Leviathan's cradle.
+
+"One more student clearing that threshold makes the pass rate on that course marginally less pathetic. Which means I will not have to sit through it again at dinner."
+
+A pause. The temperature in the room came down a measurable amount.
+
+"Do not mention my involvement."
+
+Hathaway bit the inside of her cheek. The corner of her mouth went anyway, and she looked away fast for safe harbor, and found Victoria.
+
+Victoria was studying a blank copper pipe with the ferocious concentration of a scholar authenticating it. Her chin was a fraction lower than protocol allowed. The pale blue of her eyes was suspiciously bright, and the flawless Wellington geometry of her jaw was under visible structural load.
+
+Oh no.
+
+The oldest law on the books, older than magic, older than the Charter: never make eye contact with someone losing the identical war.
+
+"Moving on," Nino said, and the subject changed with the brutality of a clutch dropping.
+
+A hologram bloomed over the console: a slim booth of brass and glass, no bigger than a wardrobe, violet conduit threaded through the frame and a door you would hold open for somebody.
+
+"Consciousness materialization. The objective was fear." She said it the way other people say quarterly figures. "When a biological entity experiences terror, that resonance sinks into the ambient consciousness of the zone and settles into a plane adjacent to the real. The extractor converts it into nightmare and condenses the nightmare into matter. That step is finished."
+
+Hathaway nodded. They had spent most of a spring semester dodging the byproducts of that step.
+
+"The bottleneck is application. Fear-matter is a curiosity. To be worth anything it has to come out the far end as something this civilization actually spends." Nino turned the booth over in the air. "The solution is the [Emotion Coil]. It delivers a baseline necromantic terror hex into the neural architecture of anything that steps inside. The hex waits for the subject to sleep. Then the subject dreams, and a brain running a nightmare produces a thought, and the thought functions as an aggregator, drawing the ambient material into a concentrated spiritual mass. Compress that far enough and it crosses over into continuous physical thrust."
+
+"And once you have thrust," Victoria said, unhurried, "the first conversion is trivial. Rotation into current is a mechanical problem, and that one was solved long before anybody considered it worth dating."
+
+Nino stopped talking.
+
+She looked at Victoria. Victoria looked back, serene, helpful, and entirely at her disposal.
+
+"...Correct. It is also the only conversion in the chain that is." Nino cleared her throat. "Current into mana read zero for the entire recorded history of the discipline, until the eleventh of last month, when—"
+
+"The Fifth Seat," Victoria supplied, adjusting one cuff.
+
+Nino closed her eyes and held them closed for a full second.
+
+Victoria, stop. Hathaway's spectator thread was on its feet and screaming. You are speedrunning the principal investigator's own slide deck. She has been waiting to say this out loud since that day. Let the boss finish her cutscene.
+
+"...Yes," Nino said, through the approximate region of her teeth.
+
+The title went in and kept going. A month ago current had been a crutch in a civilization that had never broken a leg. Then one woman put a door in the wall, and the continent had spent the month since developing a ravenous appetite for machinery it had declined to build for its entire history.
+
+Irene took a currency nobody accepted and made it convertible. Every treasury on the server is still repricing.
+
+Including this one. Up to the tenth of last month every nightmare this laboratory had ever condensed terminated in a pile of something nobody would take delivery of. On the eleventh the pile acquired a destination, and the professor had taken thirty-two days to get from a dead line of research to the object turning slowly over the console.
+
+Nino swept the hologram out of the air. "I finished fabrication over the break. Hathaway, physical deployment and calibration. Victoria, telemetry."
+
+She pulled a heavy cloak off the rack.
+
+"Follow me."
+
+[Time]: 3:15 PM[Location]: The Spatial River · En Route to Lucent Territory
+
+The skiff was small, silver, and stripped of every gram of ornament in favor of navigation arrays. It climbed until the sky thinned, and then the sky came apart like sugar glass and dropped them into a spatial river.
+
+Hathaway stood at the viewport and counted, and at three minutes and thirty-two seconds the current spat them out into unfiltered sunlight.
+
+Below lay six continental plates stitched into a single body over an impossible blue ocean, the seams still visible where somebody had argued geography into compliance. Above the plates drifted hundreds of anchored islands trailing waterfalls that gave up and became mist halfway down. Silver rivers. Gold fields. White stone and blue crystal, curated to the last hedge.
+
+"Sector Four," Nino said from the helm, banking toward a metropolis terraced across a stepped plateau. "I partitioned one urban center for the test."
+
+[Time]: 3:45 PM[Location]: Lucent Territory · Sector 4
+
+Hathaway walked a spotless boulevard with both hands in her pockets. The units rode in the skiff's hold and came out one at a time, at the coordinates, when she called them.
+
+The city was working. Servitors in clean, well-cut clothing filed out of a crystal foundry at shift change, laughing about something, and cut across a park that somebody maintained on a schedule. Children in matching coats went past in a loose column. The market stalls were loud and the produce was real.
+
+"Two hundred and forty units," Nino had said on the way down. "Placement is derived from eleven weeks of movement data. Ninety-six percent of this population passes within thirty metres of a coil at least once in any given day. The remaining four percent do not leave their homes and will be handled separately."
+
+At the corner of a public square Hathaway found the survey mark, called the next unit out of the hold, and set it down on it. The anchor bolts drove themselves through the flagstones with a sound like a lock deciding something.
+
+It stood there in the afternoon light, warm brass, clean glass, the door hung so that it swung open at a touch. It was the single most inviting object on the street. Whoever had shaped it had been given a brief, and the brief had been make them want to go inside, and they had cleared it comfortably.
+
+"Ambient baseline is holding at ninety-four," Victoria said behind her, not looking up from the telemetry slate. "Nutrition, housing density, working hours, mortality, leisure allocation. All of it deliberately generous." She scrolled. "A subject in distress produces static. A subject with a comfortable life produces a usable signal the moment it is threatened, and produces it again tomorrow. You are looking at yield management. The quality of the harvest is a function of how much they have to lose."
+
+She turned the slate around.
+
+Hathaway stood in the middle of the street with her hand still on the bolt.
+
+I know this.
+
+She knew the shift change. She knew the park with the leisure allocation tuned just high enough. She knew the door that swung open at a touch, she knew the thirty metres and the ninety-six percent, and she knew the exact spreadsheet somebody had opened before deciding that ninety-four was better than eighty-eight.
+
+She had shipped this city. Different engine, worse lighting, but the same city, at three in the morning, under two monitors, in a chair she had picked out herself. Residents wake, residents commute, residents work a timed loop, residents deposit at the designated structure, residents return to pathing. Keep the happiness meter green, because a miserable population stops producing and a starving one stops existing, and neither of those is good for the numbers.
+
+She looked at the booth, and then up at the anchored islands and the silver rivers and the whole gorgeous, humming, load-bearing paradise of it, and her inner producer took its hat off.
+
+Nino built a management sim, populated it with living things, and optimized their quality of life strictly to raise the server's power output.
+
+Down the boulevard a servitor slowed, looked at the new thing on the corner, and put a hand out toward the door.
+
+Hathaway checked the next set of coordinates and started walking.
+
+And I, Hathaway thought, watching a servitor wave to a neighbor on their way to be mathematically harvested, used to be the Lead Developer.

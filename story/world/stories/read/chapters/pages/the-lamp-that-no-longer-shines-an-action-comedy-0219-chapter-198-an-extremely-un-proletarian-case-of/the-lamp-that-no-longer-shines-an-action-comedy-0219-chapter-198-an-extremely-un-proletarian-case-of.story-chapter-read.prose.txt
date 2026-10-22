@@ -1,0 +1,187 @@
+[Time]: Autumn Semester, Day 1 — 2:00 PM[Location]: West Campus · Yggdrasil Academy · Runic Theory Hall
+
+Victoria did not attend the afternoon session. Neither did Surtrina, nor Spectra.
+
+Hathaway found a seat alone in the fourth row and spread a blank parchment across the desk, bracing for another afternoon of punishing, incomprehensible theory.
+
+The professor at the podium traced a glowing sigil into the air with the tip of her wand.
+
+"Mana inherently possesses prescience," she intoned, her voice rolling off the vaulted stone ceiling with the dry cadence of someone who had opened every single course this way for thirty years. "It symbolizes the deep, inescapable connection between mysticism and the material world. A rune is a conduit: a fixed translation of that prescience into physical law. Every practical rune you will ever draw descends from this one principle."
+
+Hathaway stared at the geometry hanging in the air above the podium.
+
+Input. Processing. Output.
+
+The professor was demonstrating an illumination array, a standard matrix that harvested ambient mana and converted it into a stable stream of light, its containment loop curved along a prescribed, textbook-mandated arc that throttled the output.
+
+Her quill moved across the parchment, but her attention had already left the lecture behind.
+
+The base strokes were syntax. The intersecting geometric arrays were logic gates. The containment loops were exactly that: loops. The mana input was a variable, typed and waiting to be assigned. Witches were writing source code directly into the fabric of causality, and because every witch alive was constitutionally incapable of leaving well enough alone, the textbook openly conceded that the standard arrays never survived first contact with a competent practitioner. You forked the repository. You patched the inefficiencies. You wrote your own backdoors into the spell model and called it style.
+
+I have found my home turf.
+
+She isolated the curve governing the illumination array's light output and rewrote the logic gate, slashing a sharp diagonal intercept through the containment loop to force a binary switch: mana above zero triggered light, held for a tenth of a second, terminated, looped.
+
+She fed the ink a hairline thread of mana to test it.
+
+The parchment detonated into a violent, blinding strobe, hammering a rave-grade flicker directly into her retinas from eight inches away.
+
+Hathaway slapped her palm flat over the parchment and smothered the light show before it could trigger a mass seizure event across the fourth row. A thin curl of smoke rose from beneath her fingers.
+
+Ship first. Patch later, she thought, blinking away the afterimage, her heart hammering with a very specific, deeply familiar rush. I can hack the universe. I just need to stop doing it eight inches from other people's optic nerves.
+
+[Time]: Autumn Semester, Day 1 — 6:30 PM[Location]: [Seven Blades of Thatch]
+
+If the name suggested a humble roadside noodle stall, the building itself filed an immediate, aggressive defamation suit against the entire concept of humility.
+
+[Seven Blades of Thatch] sat on a private, magically preserved stretch of coastline just past the academy's outer wards, the kind of real estate that had stopped needing to advertise itself sometime around the previous century. Localized climate wards kept the terrace at a permanent, perfect twenty-two degrees Celsius, letting the cool ocean air in while filtering out everything that might make a guest uncomfortable. The signboard above the entrance was carved from a single slab of petrified dragon-wood, its lettering hollowed out and filled with a slow current of liquid sapphire that shifted hue with the angle of the eye. Low-key and screaming at the top of its lungs, simultaneously.
+
+Below the terrace, the beach curved out into a mirror-flat sea. Bioluminescent plankton answered the stars overhead point for point, until the horizon dissolved and the whole bay looked like it was floating in the center of the galaxy.
+
+The view alone is a thousand-Solar line item, Hathaway's internal accountant noted, sliding into the booth between Victoria and Surtrina. This is what buying your way out of ever having to look at poor people costs.
+
+Once the appetizers, thin slivers of abyssal pearl-fish dressed in citrus and star-anise, had been cleared, Spectra reached into the folds of her robe and produced a slim, silver-banded pipe.
+
+Hathaway's fork stopped halfway to her mouth. "Spectra. You smoke?"
+
+Spectra shook her head once, unhurried, and tapped the bowl with a pale finger. A cool, sweet mist began curling from the mouthpiece without so much as a spark, carrying the smell of fresh rain over cut grass.
+
+"Sugarcane fog," she said, her voice carrying its usual flat, airy register. "Fifty kilograms of cane, pressed, boiled, distilled, and bound with Sindel grass into a drinkable vapor. You taste chilled cane juice through the stem, whenever you like."
+
+Hathaway watched the mist curl and settle around Spectra's face: pale, aristocratic, faintly melancholic, exactly like a detective in a noir serial nursing a tragedy she'd never explain to the reader.
+
+Not a cigarette. Not even bad for you. Her inner consumer was already pricing one for herself. An S-tier charisma accessory, and I want it.
+
+"So," Victoria said, cutting cleanly into her own plate. "How was everyone's summer?"
+
+Hathaway ran the query. "It's," she said, "hard to summarize in one sentence."
+
+Surtrina gave her a long, sympathetic look. "Yeah. I believe you."
+
+"What about you two?" Hathaway said, gratefully redirecting.
+
+"Spectra and I went to Casendiara," Surtrina said, waving a hand. Her face soured. "And I died there. So I got the scenic tour of the Underworld."
+
+Hathaway sat up straight. Given her current side project, this was extremely relevant field research. "Was it fun?"
+
+Surtrina's expression went dead serious. She pointed a finger directly at Hathaway's nose.
+
+"Whatever you do. Never die in Casendiara."
+
+"Why?"
+
+"Because it's a toll booth with a body count," Surtrina said, her tail cracking against the floorboards. "Anywhere else in the Inner Sea, dying is basically free. Two Solars gets you across the River Styx, and you're filing your paperwork before the ferry's even docked. Casendiara charges you for the privilege of dying on its specific patch of dirt. Ferry fee, entry tax, soul-stabilization surcharge, they stack it until the average witch dying anywhere else pays two hundred and forty Solars total, and the average witch dying in Casendiara pays fifteen thousand, three hundred."
+
+Hathaway's jaw dropped.
+
+That, she thought, a familiar cold pooling in her stomach, is exactly, precisely, unmistakably something Irene Habsburg would build. She didn't just monetize the living. She put a toll booth on the afterlife.
+
+"So did you skip out on the fee?" Hathaway asked.
+
+Spectra exhaled a slow ribbon of sweet fog. "She fully intended to. I paid for her instead."
+
+"She doesn't even pretend it's fair!" Surtrina slammed a palm on the table, rattling the silverware. "You know what fifteen thousand Solars buys you over the standard rate? Same boat, same queue, same everything. It's the exact same miserable ferry with a markup of over sixty times slapped on for dying in the wrong district. I can respect being robbed. I cannot respect being robbed inefficiently." She pressed a hand to her chest, eyes blazing. "As a proud daughter of the working class, how am I supposed to bow my head to that kind of naked extraction?"
+
+Hathaway looked slowly around the private terrace of the thousand-Solar view. She thought about the three city blocks Surtrina had personally bought up and demolished just to install a private lava canyon under her bedroom.
+
+...Working class?
+
+Spectra tapped the side of the bowl with practiced precision, settling the mist. "Witches who won't pay the Casendiara toll drift the River Styx for five or six years until they wash up somewhere cheaper. They've built a whole club around it. Cards, gossip, the works." A pause. "She jumped in because she wanted to hear the gossip."
+
+Surtrina crossed her arms, sulking without an ounce of shame. "I was this close to the ending. There was a whole saga about some Arch-witch who got bitten to death in bed by her own kept lover."
+
+Hathaway leaned in immediately, the scandal outweighing every other consideration. "Bitten to death? Who was she?"
+
+"I don't know! Because Spectra hauled me out and paid my fee, and the whole club decided I'd sold out the revolution and refused to finish the story."
+
+Beside Hathaway, Victoria paused with her fork halfway to her mouth. "I recall that one, actually."
+
+Three heads turned toward her.
+
+"She caused an administrative incident that ran for forty-five days before her expedited return was approved," Victoria said, in the same even tone she might use to report a minor shift in the weather. "By the time she resurfaced, her lover had already liquidated the entire estate and secured a new Arch-tier patron for protection. She came back to find herself both dead and broke, in that order."
+
+Hathaway stared, fully recalibrating her understanding of the meta. You can play it like that?
+
+Then her logic engine snagged on a structural inconsistency. "Wait. Is it really that easy to kill an Arch-Witch? With a bite?"
+
+Victoria sighed, pressing two fingers to her temple. "Your common sense continues to surprise me, and not in a direction I enjoy."
+
+Spectra leaned forward, her voice flat and clinical. "A witch's teeth carry an innate venom, one of the very few things that bypasses tier entirely: enough contact, and a first-year student can put down a Grand Witch."
+
+Hathaway went still.
+
+While the other three moved on to dessert, she turned her head, slow and casual, toward the dark reflective glass of the terrace window, and bared her teeth at her own reflection.
+
+I have a venom delivery system installed in my own mouth, she thought, and in four months nobody thought to mention it. Thank Ovelia nothing ever came of it. Cold sweat traced a line down her spine as the hypothetical assembled itself without her permission: a playful bite on the neck, a diplomatic incident, the sudden, unscheduled assassination of a Wellington over something that had started as affection.She slammed the thought behind a mental firewall, felt the heat crawl up from her collar to the tips of her ears, and buried her face in a spoonful of dessert she hadn't actually tasted, refusing, on principle, to look anywhere near Victoria for the rest of the meal.
+
+[Time]: Autumn Semester, Day 1 — 9:00 PM[Location]: White City Commercial District · Starlight Arcade
+
+Dinner concluded, the four of them drifted, without discussion, toward the arcade.
+
+They wedged onto a single oversized leather sofa in front of a wall-sized screen, controllers in hand, four witches locked into a single, increasingly lethal round of Marit Kart.
+
+"Sister. Yield the point. Yield it!" Surtrina's knuckles had gone white around her controller, her tail lashing hard enough to crack against the sofa frame. "If you don't yield I am actually going to die!"
+
+"Not a chance!" Hathaway's eyes hadn't blinked in ninety seconds. "If I drop this point I have to grind three more ranked matches just to break even, and you know exactly how toxic the A-Rank queue is right now!"
+
+"This is my A+ promotion match!"
+
+"This is my A-Rank maintenance run!" Hathaway swung her cannon around and fired backward without looking.
+
+"I called you sister!"
+
+"Fine, then I'll call you Grandma!" Hathaway seized the opening without a flicker of shame. "Yield to your granddaughter!"
+
+"..."
+
+From the far end of the sofa, holding a flawless, entirely unbothered second place, Victoria let out a long-suffering sigh. "Are the two of you drafting a family tree independently, or is there a coordinated plan here?"
+
+The final lap counter dropped. Hathaway, running neck and neck with Surtrina for third, deployed the oldest trick in the arcade's book: the chair pull. Without taking her eyes off the screen, she hooked the toe of her boot under the near edge of Surtrina's cushion, the seam pressed flush against her own, and yanked.
+
+She expected a collapse. Instead, Surtrina let out a booming "Kiai!" and dropped into an immovable horse stance, thighs locked, suspended precisely where the cushion used to be, thumbs never missing a beat.
+
+What kind of core strength is that, Hathaway thought, already bracing for round two.
+
+But Spectra moved first. A thread of ectoplasm, nearly invisible, whipped out from beneath her sleeve and hooked the back of Surtrina's knee. Pure, unbothered opportunism: kick them while they're down.
+
+"You two absolute bastards—"
+
+The horse stance folded. Surtrina crashed backward into the gap in the sofa, legs flying, thumb slipping off the stick. Her kart plowed into a guardrail and spun out in a shower of pixelated wreckage.
+
+Fourth place. Minus fifteen. Promotion series, over.
+
+Hathaway crossed the line a beat later. Third place. Minus ten. Rank protected.
+
+"Spectacular," Victoria observed, setting her own controller down with unhurried composure. "Truly a triumph of sportsmanship."
+
+Hathaway stroked her chin, eyes narrowing into two smug, deeply punchable crescents. "A minor trick. Hardly worth discussion." She waved a hand with the calculated modesty of a martial arts grandmaster deflecting praise. "Had we played it straight, I'd have given myself perhaps a thirty percent chance. Fortune simply favored the prepared today. I walk away with two victories."
+
+"Oh?" Victoria played straight man without missing a beat. "Two?"
+
+"The first, obviously, is that I didn't hemorrhage rank. Ten points is an acceptable toll."
+
+She reached over and patted Surtrina's rigid shoulder with theatrical concern. "The second, alas, is that my poor junior sister here could not ascend to A+." A mournful shake of the head. "Junior Su, the peaks up there are crawling with villains. This senior feared you lacked the fortitude to survive such wickedness. Let this burden rest on my shoulders alone."
+
+Surtrina abandoned her controller entirely and tackled her.
+
+[Time]: Autumn Semester, Day 1 — 10:45 PM[Location]: Yggdrasil Academy · West Campus Pathways
+
+Having survived Surtrina's attempt at a headlock and said goodnight at the fork in the path, Hathaway and Victoria walked the last stretch to the [Golden Bough] alone.
+
+The night had gone crisp, the air carrying the sharp edge of autumn leaves and the faint ozone smell of the academy's wards. Floating crystal lanterns lit the cobblestones in long, soft pools, quiet after the chaos of the arcade.
+
+Hathaway reached out without deciding to, found the edge of Victoria's gloved hand, and laced their fingers together. Victoria's stride caught for half a step before her fingers curled inward and answered the grip.
+
+Boots on stone. Nothing else needed saying.
+
+"What is it," Victoria said, not quite a question.
+
+Hathaway couldn't stop the grin spreading across her face. She looked up at the sky, then sideways, at the sharp, silver-lit line of Victoria's profile.
+
+"Nothing. I'm just happy." She squeezed Victoria's hand. "It's really good, having found you all."
+
+Something eased in the corner of Victoria's mouth. "Fool."
+
+"You always think I'm the fool."
+
+"That fool," Victoria said, her thumb tracing once over Hathaway's knuckles, "is mine."

@@ -1,0 +1,219 @@
+[Time]: Autumn Semester, Day 6 — 8:45 AM[Location]: West Campus · Yggdrasil Academy · Second Alchemy Tower · Approach Corridor
+
+Wondrous Item Crafting was the art of forging a wristwatch out of a paradox. You poured a dynasty's wealth into one impossible object, argued reality into accepting it, and left it behind for your great-granddaughters to fight over.
+
+Magical Tool Creation was the art of forging a bullet.
+
+Same degree track, opposite religions. Scrolls torn open once and finished, alchemical grenades sold by the crate, combat draughts with the expiry date stamped into the glass. Nothing in the discipline was built to survive its own usefulness. Every last piece of it existed to be torn, swallowed, or detonated, and never thought about again.
+
+Hathaway walked the vaulted stone with Victoria at her shoulder, running the two of them on their usual cadence. They came around the last corner into the long approach corridor.
+
+Victoria stopped, and her arm came across Hathaway's chest like a dropped gate.
+
+"Careful." Her voice went down to nothing. Her pale eyes moved across fifty yards of polished, beautifully lit, entirely empty marble, reading an architecture that was not there. "The floor is painted with proximity triggers, and the masonry is packed with dimensional anchors, so we walk."
+
+Hathaway's hand found her wand on reflex.
+
+I knew something felt off this week. Her developer brain filed the sensation. Six days of lectures and not once was the commute the dangerous part. The schedule was incomplete.
+
+She put [Amora's Analytic Vision] on, and the corridor stopped being empty. Pressure plates surfaced under the polish in a staggered grid, a needle spread sat in the third panel of the left wall, and a mana tripwire ran the hall at ankle height with something fat and cold waiting on the far end of it. Then her eye followed the tripwire down into the masonry, and the read stopped the way a floor stops at the edge of a hole.
+
+Tutorial layer. Her developer brain priced the relief and took it back. Everything under it is rendering for somebody else.
+
+"Can you clear it clean?" she whispered.
+
+Victoria considered the corridor the way a general prices a minefield. "It would be considerably more efficient to let a few pieces of cannon fodder chart the blast radii first."
+
+Hathaway nodded so fast her collar moved.
+
+She dropped [Greater Invisibility] over herself, fed it through the [Ring of the Dark Sun] on her finger. Beside her, Victoria simply stopped being there. The two of them backed silently into the nearest empty classroom to use the cracked door as a blind.
+
+"How remarkably coincidental," Victoria said, to nobody. "You are here as well."
+
+Three concealment fields collapsed at once.
+
+Yenna sat up on a warded alchemical bench with her legs swinging, the burner rings beneath her dark and cold. Surtrina held up the chalkboard with her arms crossed and her tail-flame guttering low. Spectra stood in the darkest corner and did not appear to be doing anything as strenuous as waiting.
+
+Victoria let her concealment go, and Hathaway's drained off after it. Hathaway looked at her friends, holed up in a spare classroom like gargoyles waiting out a rainstorm.
+
+"Let me guess," she said. "You're also waiting for someone else to step on the landmines."
+
+"Better a dead classmate than a dead me." Surtrina did not even uncross her arms.
+
+Spectra's gaze drifted toward the hallway, and her voice arrived at the pitch a hall keeps after the last note has stopped. "There are severing arrays out there tuned specifically to spectral tissue. The professor appears to want me home, and to have put real thought into the travel arrangements."
+
+Yenna's golden ears folded back, and she let out a small, sincere sigh. "It is a pity Rina is not here."
+
+Hathaway found herself nodding before she had authorized it.
+
+You send Rina down a hallway and the traps decline, individually and of their own free will, to be there.
+
+Boots echoed off stone from the junction outside.
+
+Five witches hit the door crack at once.
+
+The volunteer stood at the mouth of the corridor and took her time. She stacked every ward and every buff her pool held that would tolerate the company of the others, layer over layer over layer, until Hathaway lost the ability to tell them apart and the woman was standing there glowing like a small, extremely confident sun.
+
+The volunteer lifted her chin and stepped onto the marble.
+
+Click.
+
+A Tier-4 [Pillar of Flame] went up through her boots. She did not so much as flinch. Her thermal plating drank it, and she took a second step with visible satisfaction.
+
+Click.
+
+The displacement trap woven underneath the fire trigger, which had been waiting patiently for exactly that satisfaction, snapped shut. The student vanished off the floor and reappeared three feet in the air inside a rune-sealed conjuration cage, and the cage delivered its payload inward from all six faces simultaneously.
+
+Hathaway watched all of it come apart in sequence, like someone walking down a hallway switching off lights.
+
+In the last thousandth of a second before the pressure finished the job, the cage let her go and dropped her into the classroom at the far end of the corridor. Alive. Smoking. Unavailable for comment.
+
+Somebody built it to take you all the way down to nothing and then hand you in. Hathaway's mouth went dry.
+
+Surtrina narrowed her golden eyes at the crack in the door. "Her stats were too low. She only mapped three layers before the system pulled her."
+
+Hathaway let out a long, unsteady breath. "So outsourcing is off the table." She turned to the room, and the question came out flatter than she wanted it to. "I read three layers off that floor and hit bottom. What's under it?"
+
+"Under all of that." Surtrina's eyes glowed like banked coals. "Right wall, second panel, pendulum greataxe. Ceiling, fourth from the right, mounted dragon's breath. Center, third tile, reactive carnivorous flora. Skeleton vault. A [Force Nova] array running off packed Force Beads."
+
+"It is worse than that." Yenna's ears rotated forward, tracking hums nobody else could hear. "A labyrinth hex stacked directly over a high-voltage grid. A [Campfire] cantrip wired backward into a chain detonation. Blazewood powder kegs in the wall cavities. Armor corrosion mist. A [Banshee Wail] module."
+
+Spectra did not blink. "A concealed reservoir of consecrated water. Apricot Grove mung beans. Spacetime anchors. A rotting curse."
+
+Victoria pinched the bridge of her nose. "Fortune Theft. Sigil brands. A localized time trap. Arcane Banishment."
+
+The sweat came up cold along Hathaway's collarbone.
+
+A Banshee Wail is a saving throw with your soul on the table. Blazewood powder kegs are siege ordnance, one barrel yields Tier-8 across a footprint this hallway does not begin to contain, and she installed three. And Rina wouldn't have helped either.
+
+Hathaway pressed her palms flat against her cheeks, shoved the panic down into a box, and sat on the lid.
+
+"We link up," she said. "I'll take the anti-ghost arrays and sweep the low-tier triggers." She turned. "Surtrina, the fire grid."
+
+"Mid-tier fire traps are a free buff, I'll walk it." Surtrina's tail cracked against the floor, and then she clicked her tongue. "The powder kegs I need help with. The trigger logic on those is genuinely nasty."
+
+"The kegs are mine," Spectra said. "My ectoplasm goes through the masonry and cuts the ignition from inside. Someone dismantles the spacetime anchors first, or I am not going anywhere at all."
+
+"I can unravel the anchors." Victoria's voice did not change register. "Provided someone breaks the Fortune Theft before I begin. I will not attempt a spatial unraveling on a fumble."
+
+Yenna raised a hand. "Fortune Theft I can misdirect. Breaking it fires the Arcane Banishment as a fail-safe. Every time, no exception."
+
+"Enough," Victoria said, and smoothed one glove.
+
+They worked the threshold first, standing at the junction and firing precise dismantling hexes down the hallway in a cascade, each one queued behind somebody else's. Yenna's misdirect went out ahead of everything, and the luck-theft array spent itself on a patch of empty air; Victoria unraveled the spacetime anchors in the seconds that bought her; Hathaway put [Dispel Magic] through the severing arrays one at a time until the spectral band came up clear, then went down the wall burning out pressure plates with something cheap enough to spend on them; Spectra poured herself into the masonry and cut three keg ignitions out from the inside. Surtrina walked the fire grid and came back warmer. Runes fizzled and invisible wires snapped and pressure vented harmlessly into the stone, and when the safe corridor finally opened it was narrow, crooked, and in several places theoretical.
+
+They ran it anyway.
+
+Five of them, a plan executed without a single dropped input, and it still came close to killing all of them. Composite traps refused to render until their first layer was tripped. Two arrays had been laid in a frequency band that not one of the five had detected. They announced themselves by going off. Hathaway slid under a scythe of compressed air with her lungs on fire and her boots skating, and made the threshold on the last stride.
+
+Behind her, a delayed [Force Nova] tripped.
+
+A gloved hand closed on the collar of her greatcoat and hauled her bodily through the doorway, and the corridor detonated into the space she had been standing in, the shockwave slamming the warded steel doors on their hinges.
+
+"Not bad."
+
+The voice came from above.
+
+Hathaway got her hands onto a workbench, hung there breathing like a bellows, and looked up.
+
+Professor Mephisto sat on the edge of the instructor's dais with one leg crossed over the other, elbow on knee, chin in her palm. Two heavy horns swept back from her temples. She had watched five students very nearly get scraped off her hallway with the mild, unhurried interest of a woman waiting for a kettle.
+
+"You're the best material this cohort has handed me," Mephisto said.
+
+The workshop behind her ran on for what looked like an acre: warded alchemical benches in long rows, a terminal folded into the stone at the head of each, and a reinforced live-fire range at the far wall with the scorch pattern of something recent.
+
+The imperious silhouette, the horns, the abyssal weight rolling off her in slow waves: her memory, entirely without being asked, produced a tiered pastry stand.
+
+And underneath it, Irene's hand rising, unhurried, to cup this woman's cheek, and the color that had come up afterward.
+
+It's gone, Hathaway thought, her pulse coming down. Professor, you can sit up there radiating the abyss all semester. The boss aura is unrecoverable. I have seen the footage.
+
+With the gauntlet thoroughly disassembled by other people, the rest of the class began filing in, wearing the expressions of women who had expected to spend the morning dying and were now unsure what to do with the surplus.
+
+Mephisto pivoted her body a few degrees to face the room and stayed exactly where she was.
+
+She's not standing behind that podium because she's short, Hathaway's logic engine reported, with no mercy at all. From back there we'd get the top of two horns and an opinion.
+
+"Everyone knows," Mephisto said, and the smile that came with it was crooked and delighted and not remotely kind, "that in a war between Witches, the war does not begin until the last scroll has been torn."
+
+She let that sit exactly long enough.
+
+"A Witch who walks out her own front door without enough consumables to fund a small war is a corpse with good posture. And an alchemist who cannot manufacture the things has no business using the word."
+
+Her wrist turned. A small bead rolled out across her knuckles, transparent, faintly clouded grey, with all the menace of something you would find at the bottom of a child's coat pocket.
+
+"So. Force Beads."
+
+Hathaway flinched hard enough to rattle the bench.
+
+Eleven minutes ago one of them had come within a hand's width of removing her head, and she had the ringing in her left ear to prove it.
+
+The Force Bead was the discipline's flagship. Crack one and it delivered the exact damage profile of a standard Tier-3 [Fireball], except the payload was pure force, which no scale, ward, or elemental resistance in the catalogue had ever found a way to argue with. The overlapping blasts suffered brutal diminishing returns and nobody cared, because for any witch below the top brackets a pocket of Force Beads was the mandatory entry requirement for hunting a dragon.
+
+"The recipe follows the one law this discipline has." Mephisto flipped the bead up and caught it without looking. "The materials must be cheap enough to insult you. The process must be hard enough to kill you."
+
+Hathaway pulled the standard formula onto her terminal. Bottom-grade leyline crystal ground to grit, spent mana slag, binding slime scraped out of a sump. Fifty beads' worth of raw material came in under the price of a decent cup of coffee.
+
+"It fails at the suppression layer." The lazy drawl went out of Mephisto's voice, and what replaced it was a professional. "An ultra-thin containment membrane over a volatile core, applied inside a thermal window you can miss by breathing wrong. Too thick and you have a dud that will not deliver its Fireball. Too thin and it self-detonates on your shelf inside three months."
+
+She flicked the bead into the air, caught it, and pointed at the room with it.
+
+"Begin."
+
+[Time]: Autumn Semester, Day 6 — 10:30 AM
+
+The next ninety minutes were microscopic thermal management as a form of religious suffering.
+
+Hathaway heated leyline grit and slag to eight hundred and forty-two degrees Celsius, held it there on raw mana, and feathered binding slime across the surface at a target thickness of three microns while her hands, her mana output, and the ambient temperature of the room all conspired against her in shifts. Her first batch cooled two seconds slow and thickened into duds. Her second slipped the window by a degree and a half and started vibrating on the bench with an enthusiasm that sent her sprinting for the disposal chute.
+
+By the bell she had slag-dust to the elbows and a tray in front of her.
+
+Fifty attempts. Fifteen beads sitting quiet and stable and translucent grey.
+
+Thirty percent. She sat back and looked at them. For a first pass on a live process, honestly not embarrassing.
+
+Mephisto came down the aisle at last, surveying a room of exhausted, slag-streaked geniuses with open, unhidden enjoyment.
+
+"I assume," she said pleasantly, "that all of you know the commercial specification for a Witch's consumables."
+
+Hathaway's spine went straight.
+
+"One." A finger went up. "Guaranteed shelf life, minimum one to two years."
+
+"Two. Effect no lower than eighty percent of the standard product it replaces."
+
+"Three." Mephisto stopped, and let her hand rest on the end of a bench. "Yield rate above eighty-five percent."
+
+She clapped once.
+
+"Hit all three without having to think about it and you may call yourself an alchemist. That is also your final examination, so I would start thinking about it."
+
+Hathaway's vision went dark at the edges.
+
+Eighty-five percent. On a thermal window measured in single degrees. She looked at her fifteen survivors, then at the thirty-five failures, then back. It was an industrial one, hand-soldering tolerances demanded from organic fingers, and the woman had waited until the entire class was covered in the evidence of their own inadequacy before naming the number.
+
+Then the second half of it landed, and the whole week rearranged itself.
+
+Irene.
+
+Hathaway sat very still. Nobody set a standard like that out of academic sadism. Somebody had made it the floor of the market, and there was exactly one candidate. Irene Habsburg's product line had been so flawlessly, boringly consistent that six hundred low-end manufacturers went under the same season, and the survivors had to re-tool or die, and the industry baseline came up so far and so fast that the academy quietly rewrote its grading rubric to match the new market floor.
+
+She weaponized quality assurance. The number sat there, cold and clean. The pass mark on my final exam is a rounding error off somebody's balance sheet.
+
+Across the room, Mephisto was leaning over a second-year's tray, and whatever she said about its contents was too low to carry, though the student went scarlet to her ears and two neighbors developed an urgent interest in their own equipment. The professor moved on, entirely unbothered, humming.
+
+And she is the one person in the Inner Sea who talks about Irene like she used to share a bar tab with her, Hathaway thought, watching those horns drift down the aisle. Which she did.
+
+Fine. She fitted the fifteen survivors into a shock-padded pouch, one at a time, with the tenderness of a woman handling her own retirement fund. The failure rate is a crime scene. The product is magnificent. From this morning forward the doctrine was simple, local, and battle-tested: any problem she could not out-think within a reasonable window, she was going to throw a Force Bead at it. Possibly several. Possibly the whole pouch, in a single motion, like confetti at a wedding nobody had consented to.
+
+She buckled the pouch to her belt and felt the ordnance settle against her hip, and it was, she decided, the single most reassuring sensation she had experienced all semester.
+
+I am now a woman who carries a small war to breakfast. This is the correct amount of war to carry.
+
+A gloved hand entered her field of view, selected one bead off the top of the pouch with two fingers, and withdrew.
+
+Hathaway looked up.
+
+Victoria was already turning away, sliding the bead into the inner pocket of her jacket, and her expression gave away precisely nothing at all.
+
+"Come along," she said. "You have slag on your face."

@@ -1,0 +1,133 @@
+[Time]: Autumn Semester, Day 4 — 7:00 AM[Location]: Yggdrasil Academy · Dormitory [Golden Bough] · Room 302
+
+It had cost Hathaway an entire night of sleepless, sweat-soaked empirical testing to isolate the trigger.
+
+She sat on the edge of the mattress in the grey pre-dawn, eyes bagged, and ran the confirmation pass one final time. She emptied her mind. Pure static. No active processes. A clean idle screen. Behind her, the six enormous red-gold tails pooled across the floorboards lay dead still, as inert and decorative as shed scarves.
+
+Then she deliberately calculated the square root of one hundred and forty-four.
+
+Twelve.
+
+The leftmost tail snapped up and cracked against the bedpost like a bullwhip.
+
+Hathaway buried her face in her hands, her shoulders shaking.
+
+The telemetry is hardwired to cognitive load. Every equation she compiled, every stray memory she pulled from the cache, every hypothesis she so much as glanced at, the tails received the motor command and fanned out like a peacock throwing a tantrum. They were not limbs. They were six aggressive, externally visible CPU-usage monitors bolted onto the base of her spine.
+
+Understanding the bug was, somehow, infinitely worse than suffering it blind.
+
+What kind of sadistic, anti-intellectual firmware ships a body part slaved to the clock speed of the brain? Ask her to stop breathing instead, and she'd have signed that contract on the spot: a lung-compression hex could coast an hour on a single breath. Asking her to stop thinking was asking a processor to voluntarily halt its own clock. It was a death sentence with the paperwork filed under "self-care."
+
+The one identifiable mercy in the whole defective codebase was that the appendages ran a default sleep mode. When she finally crashed into genuine, dreamless unconsciousness, the tails went dark and slumped across the sheets like heavy furniture throws. She had squeezed out three hours. Her spine, which had spent two entire lifetimes learning to lie flat, had no working model for accommodating six additional limbs with the combined mass of a large sofa, and she had spent the night folding herself into aching, un-ergonomic geometries and jolting awake every time she rolled onto her own fluff.
+
+She dragged herself to the mirror. The ears twitched atop her head, swiveling to track a single droplet hitting the bathroom sink two rooms away. The bags under her eyes had bags.
+
+The duration decay is a lie. The buff was holding strong into day two, sublimely indifferent to her suffering. The patch is not coming.
+
+She stood frozen at the wardrobe, running the cost-benefit on a medical leave request. I have a visible, arguably contagious status ailment. The excuse writes itself. I could seal the door, mute comms, and hide until the biology uninstalls.
+
+Then she checked the schedule glowing on her terminal. Thursday. [Doll-Making Basics & Soul Architecture]. Sharon Curie.
+
+Her inner accountant looked at the projected net-worth hemorrhage of skipping a Grandmaster who had personally reverse-engineered the soul, looked at the social cost of walking into a lecture hall as a six-tailed liability, weighed the two for approximately half a second, and dragged her out the door by the collar.
+
+[Time]: Autumn Semester, Day 4 — 9:45 AM[Location]: West Campus · Third Alchemy Tower · Tiered Lecture Hall
+
+Hathaway edged into the second row with the hunched, delicate footwork of an ordnance tech crossing a minefield.
+
+She dropped into her seat and, on pure muscle memory, slid a sweating can of [Frost-Bite Cola] across the gap. Surtrina caught it without looking, already sprawled low in her chair, using her single massive crimson brush of a tail as a custom heated lumbar cushion, thumbing an ember off her nail.
+
+She adapted overnight, Hathaway thought, and the raw injustice of it fanned three of her own tails out in an aggressive spread. I am drowning in my own anatomy.
+
+That she resembled a functioning student at all was the product of a massive, invisible intervention. Victoria sat at the edge of the seat beside her in immaculate posture, pale eyes forward, to the untrained observer merely waiting for class. To anyone with arcane senses, she was projecting a razor-precise field of raw spiritual pressure directly over Hathaway's chair, pinning all six rogue appendages to the floorboards under the invisible dead weight of a bank vault. The suppression of a mid-boss handled as an afterthought while she reviewed her reading.
+
+The rest of the amphitheater had run its own risk assessment and voted with its feet. A fair share of yesterday's fox-eared casualties had filed in with their own leftover ears and tails, tucked flat, folded, or simply sitting in perfect, boring stillness: living proof that the defect lived exclusively in Hathaway's personal batch. The seats flanking her on the second row sat conspicuously empty, and the row directly behind her had thinned out to match.
+
+The Splash Zone, Hathaway noted, holding a face carved from frozen marble. They are treating me like unexploded arcane ordnance. On the empirical record, this was the correct call.
+
+The heavy oak doors drifted open, and Professor Sharon Curie stepped up to the podium, swallowed in her oversized white coat, golden hair knotted loose, her wet golden eyes carrying their usual baseline of incurable, apologetic sorrow.
+
+Beside Hathaway, Victoria's gaze snapped to the podium and narrowed a fraction of a millimeter, tracking the professor's slow walk with the sudden, silent intensity of a hound catching a scent off the wind. She said nothing, and the silence held past the point where an explanation should have arrived.
+
+What is it? Hathaway wanted to ask.
+
+"Today," Sharon murmured, her feather-light voice carrying without apparent effort to the back rows, "we move from the sculpting of the vessel to the philosophy of its occupant. Puppetry, and automata."
+
+Hathaway forced her spine straight and spun up her primary threads. She had a private, deeply ingrained reason to master this discipline. In the grand developer ecosystem of magic, a [Clone] spell married to a high-fidelity Doll was the holy grail of productivity: a body double to grind through the tedious lectures while the real operator stayed in bed. The ultimate AFK farm.
+
+"The layman," Sharon went on, tracing a crude stone automaton into the air with a fingertip, "believes a Doll is merely a Golem dressed up to look pretty. This is a profound insult to the discipline. A Golem is a tractor. You point it at whatever labor no Witch wants to spend her own life on, and it grinds through the job until its joints seize. The vast majority of practitioners will never build an autonomous one. Does anyone know why?"
+
+"Because a controllable Golem and an autonomous one are not the same discipline wearing two price tags. A controllable Golem is a puppet: cheap, single-purpose, and it borrows your judgment for exactly as long as you are driving it. An autonomous Golem carries the job through on its own, and a mind reliable enough to trust unsupervised does not come cheap." Open admiration cut through the melancholy. "But setting the price aside, the autonomous Golem has no flaws at all."
+
+So an autonomous Golem is a colleague who never quits, Hathaway compiled, quill flying. And a colleague who never quits is exactly what I need. For the part where I don't have to be there.
+
+Sharon set the schematic aside, rested her fragile hands on the podium's edge. "A Doll is a vessel for something greater than craftsmanship—"
+
+She stopped.
+
+"I trust," Sharon said, the timid lilt draining out of her voice and leaving behind a flat, crystalline clarity, "that a few of the more perceptive among you have already noticed that this body is a Doll."
+
+Forty quills stopped scratching at once.
+
+Hathaway's own quill punched clean through the parchment. Her eyes blew wide and swept the small frame behind the podium: the measured rise and fall of the chest, the faint nervous flush on the cheeks, the wet luminous depth of the sorrow. Since when? Where does the puppet stop and the person start? You programmed a biological anxiety response into a remote desktop client?
+
+Beside her, Victoria spoke at last, and her voice carried a rare, unfeigned note of connoisseur's awe.
+
+"Indistinguishable from the living," she murmured. "A truly supreme art."
+
+As if it had been waiting for the appraisal, the Sharon at the podium simply switched off.
+
+Every background process ceased in the same instant. The simulated breath halted mid-inhale. The tension bled out of the shoulders, the damp golden light drained from the eyes into dull, vacant glass, and the body tipped backward and fell, dead weight with zero reflex left to break its own descent.
+
+Before the front row could finish its collective flinch, a pale hand in an identical oversized white sleeve reached out of the velvet shadows behind the chalkboard and closed on the collapsing chassis by the collar, arresting it inches above the stone.
+
+The real Sharon Curie stepped into the light, molecularly identical to the shell now dangling from her fingers. She flicked her sleeve, and the lifeless duplicate folded away into spatial storage. She stepped up to the podium and picked the sentence back up without the seam so much as showing.
+
+"To modify a chassis so that an uploaded consciousness retains full sensory perception," the real Sharon continued, summoning a slow, multi-layered nightmare of interlocking runes into the air, "you must first map the metaphysical nerve endings onto the alchemical lattice."
+
+Cold sweat crawled down Hathaway's collarbone. We have spent half an hour taking notes from a peripheral device.
+
+The theory itself was a war crime. Sharon was diagramming the binding of a soul's raw pain receptors to a lattice of liquid mercury, and she was doing it at the calm, brisk pace of a woman who did not remotely expect the sophomore class to replicate it. It was a pure flex, the ceiling held up to the light so the students could measure exactly how far down in the basement they were currently standing.
+
+Hathaway's brain, handed a dense, multi-threaded architectural puzzle, did the one thing two lifetimes of training had wired it to do. It attacked.
+
+If the soul-map runs on a recursive loop, the sensory feedback delay compounds, so the insulation has to hold across the entire mercury channel or the loop backwashes straight into the operator's real cortex. Her processing spiked toward capacity, threads forking, overclocking hard against the alien mathematics.
+
+Under Victoria's suppression field, six tails began to riot.
+
+They fought the spiritual pressure with the frantic, uncoordinated strength of an animal in a snare, twitching, surging, straining against a weight that had no give in it. And if you route an uploaded soul through analog liquid metal, the sync rate alone
+
+Whap.
+
+One thick red-gold tip slipped the net and slapped flat against the immaculate, pressed sleeve of Victoria's dark jacket.
+
+Victoria did not look down. She raised the output of the field a notch and clamped the offending limb back to the floor.
+
+Focus. Empty the buffer. Become functionally brain-dead. Hathaway hauled at her own thoughts, trying to throttle a mind that had never in either life possessed a working brake. If the mercury isn't perfectly insulated the feedback fries the host, so the tolerance on the
+
+Whap. Whap.
+
+Two more breached the perimeter, one dusting aggressively across Victoria's knee, the other looping a tight, involuntary coil around her ankle.
+
+Victoria's posture stayed geometrically flawless, her eyes never once leaving the chalkboard. But the beautiful aristocratic arch of her silver brow descended, slowly, dangerously, one measured millimeter into a knot of deep, dangerous patience.
+
+For the remaining stretch of the block, the second row was a silent, localized war on two fronts: Hathaway fighting to memorize the soul-architecture formulas she would never be shown twice, and fighting, with equal and losing effort, to suppress the physical manifestation of her own intelligence. By the time the great bell tolled through the spire she was damp with sweat, and the theory in her notes was worth every drop.
+
+The real Sharon wiped the board, gave a small fragile bow, and drifted out the side door.
+
+Hathaway cut power to her processing threads all at once, forcing her mind into a merciful, vegetative blank, and the six tails slumped, spent and limp, spilling across the floorboards. She turned her head and offered Victoria a look, her gaze flicking to the fine dusting of red-gold fur clinging to that pristine sleeve.
+
+Are you all right? the look asked.
+
+Victoria met her eyes. The pale blue was perfectly calm, utterly unreadable. She reached down under the desk without breaking eye contact, and her gloved fingers bypassed the soft, fluffy midsections of the tails entirely, hunting instead for the dense, ultra-sensitive cluster of nerves right at the base of Hathaway's spine, the seam where the borrowed biology grafted into the real.
+
+With clinical, devastating precision, she squeezed.
+
+A jolt of pure electricity bypassed Hathaway's brain altogether and fired straight into her soul. Her spine bowed like a drawn bow, her ears pinned flat against her skull, and a strangled, mortifying, high-pitched squeak tore loose before both her hands could clamp over her mouth.
+
+And in the white, roaring silence that took the place of every thought in her head, all six tails went instantly, completely still.
+
+Hathaway sat frozen, ears scalding, and watched the implication assemble itself through the static. She fixed it. The one reliable method for stilling a runaway cognitive loop was, it turned out, to overwrite the entire processor with a single overwhelming signal until there was no compute left to spare. The bug that no hex, no meditation, and no willpower had touched all morning had just been patched by a girlfriend who could reach under a desk and switch her mind off at the source. She has now mapped the exploit. Logged the coordinates. Filed the vulnerability for future deployment. It should have read as a threat. It landed, instead, somewhere warm and deeply, catastrophically compromising.
+
+Victoria withdrew her hand, brushed the fur from her sleeve, and rose with serene, unbothered grace.
+
+"I am quite well, thank you," she said, and let a razor-thin, entirely pleased smile touch the corner of her mouth. "Shall we go to lunch?"

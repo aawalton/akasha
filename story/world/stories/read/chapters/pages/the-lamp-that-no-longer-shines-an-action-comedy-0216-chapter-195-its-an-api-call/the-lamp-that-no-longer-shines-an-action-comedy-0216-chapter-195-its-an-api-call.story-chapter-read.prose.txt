@@ -1,0 +1,165 @@
+[Time]: Summer Break, Day 61 — 9:00 AM[Location]: White City · Townhouse 107 · Sub-Basement Alchemy Laboratory
+
+The previous evening's single failed batch had been an instructive failure: the lunar-tide coefficient for the crushed lodestone had drifted two-tenths of a decimal place, producing a useless plug of hardened slag that smelled faintly of burnt sugar. She had logged the error, corrected the variable, and gone to bed.
+
+This morning, the variables were aligned.
+
+The liquid inside the crystalline vial had settled into a perfect, heavy silver, the surface still and reflective as a face of polished mercury. Four standard reagents, clean dependency tree, no Spellfire jelly required. Compared to the thermal neutralizer nightmare that had consumed four attempts and a spare laboratory coat, this had been, in professional terms, almost embarrassingly easy.
+
+Hathaway reached into the materials safe and extracted a single square sheet of alchemical copper, exactly one-tenth of a millimeter thick.
+
+Step one.
+
+She aligned the edges under the magnification lens, the cold-iron calipers measuring the gap to four decimal places. When the corners were flush to the microscopic level, she pressed the crease flat. The copper resisted. She forced it.
+
+Step five. The sheet was now a dense, stubborn block the size of a playing card. Her fingers had started to ache.
+
+Step nine. Both hands. The metal fought back with the sullen, structural stubbornness of a material that had never once agreed to bend. She routed her mana into the atomic lattice, softening the grain just enough to yield without fracturing, holding the alignment with the Ludwig-inherited reflex nerves.
+
+Step fourteen. Her entire body was acting as a hydraulic press.
+
+The edges met with a final, sharp exhalation. For exactly one second, the copper block sat quiet in her palm.
+
+Then it rang.
+
+A single, clean, resonant tone vibrated through the bones of her hand, up her arm, and directly into her sternum: the conceptual bridge, confirmed. Without wasting a microsecond, she picked up the vial, tilted her head back, and swallowed.
+
+It tasted like a mouthful of ball bearings, cold and dense, sliding down her esophagus with the steady, indifferent weight of molten lead. The moment the liquid hit her stomach, the copper block in her other hand dissolved. Not melted. Not crumbled. Dissolved, instantly and completely, leaving behind a fine dusting of glittering copper powder that drifted to the workbench and went still.
+
+The schematic matrix of physical matter wrote itself into her neural registry with the clean, irrevocable finality of a signed contract: [Fabricate].
+
+The glass liquefied, hovering for a single suspended microsecond, and then snapped into the precise, sharp geometry of a chess rook: a miniature tower of clear glass, every facet exact to the millimeter.
+
+Hathaway set it on the workbench and looked at it for a moment.
+
+Feature successfully deployed.
+
+[Time]: Summer Break, Day 61 — 2:15 PM[Location]: White City · Townhouse 107 · Hathaway's Bedroom
+
+The confidence lasted precisely until she opened the dragon-leather tome.
+
+She had been sitting cross-legged on her bedroom carpet for over an hour, staring at the geometric matrix on the third page of [Ovelia's Evil Lantern Cat Sunflare Burst]. The faint, residual heat of the legendary-tier leather prickled against her shins. The afternoon light came through the window at an angle that illuminated the frantic, overlapping handwriting in the margins with unforgiving clarity.
+
+Her progress on the spell since she first opened the book was, from a strictly mathematical perspective, a floating-point error that the server had long since truncated to zero.
+
+The problem isn't comprehension, her logic engine processed, running the same diagnostic loop it had been running for eleven days. It's architecture.
+
+The ancestral annotations in the margins, which she had initially assumed would function as a translation layer, had turned out to be worse than useless. Unable to survive Ovelia's original 115-meter compression without their constitutions catastrophically failing, they had methodically deleted the safety limiters, manually expanded the ignition radius into the hundreds of meters to bleed off the thermal pressure, and relied on their Legendary-tier biological hardware to survive the resulting shockwave.
+
+They had been trying to pass a test they couldn't understand, and their solution had been to hack the grading system.
+
+Maximum score achieved by the entire Ludwig bloodline: a 60 out of 100, Hathaway calculated, closing the book against her knee. And the path to that 60 included one grandmother who vaporized herself during the final exam. Copying the homework of someone who barely passed by rewriting the question is a one-way ticket to the same result.
+
+She needed proof that a Witch without Ovelia's intrinsic architecture had actually cast this spell at its original parameters and survived. If no such proof existed, she was going to lock the book in her spatial ring and quietly redirect her development budget toward subjects that did not require a death certificate as an intermediate step.
+
+She picked up her terminal; the connection engaged on the first half-ring.
+
+"Hathaway, my dear!" Matriarch Wilhelmina's voice arrived with its habitual resonance, warm with the specific enthusiasm of an investor watching a portfolio outperform projections. "Have you encountered a bottleneck? Do you require additional resources? The treasury is fully operational."
+
+"Aunt Wilhelmina," Hathaway said, bypassing the preamble entirely. "Besides our family, and besides Her. Who in the world has successfully learned this spell?"
+
+There was a brief pause. The ambient glow of the Palace's eternal choir softened slightly in the background.
+
+"Those who may have scavenged the theory in the dark, through unsanctioned means, I cannot speak to," Wilhelmina said, her tone dropping into a careful, administrative register. "Famia and Akkukataya are Ovelia's own, and both have confirmed it directly. But witnessed in actual deployment? Two."
+
+Hathaway opened her notepad application. "Marianne Horton," Wilhelmina said. "And Irene."
+
+Through the audio feed, as Wilhelmina had spoken Marianne's name, Hathaway heard a sound she would not have predicted: the distinct, low grinding of teeth being held together by sheer force of will.
+
+"Marianne," Wilhelmina continued, inhaling slowly and with the controlled deliberateness of someone managing a physiological response. "She sto—"
+
+The word choked off into a brief, tightly-loaded silence.
+
+"She learned it from us," Wilhelmina finished, the syllables released with the resigned cadence of a professional diplomat speaking at gunpoint.
+
+Did the Fourth Seat of the High Council just commit corporate espionage against my family? She filed the thought and asked the only available question: "How?"
+
+Through the receiver, she heard the exhale of someone delivering a painful factual report.
+
+"Marianne Horton," Wilhelmina said, each word measured and reluctant, "is universally acknowledged as possessing the highest raw magical comprehension in the recorded history of our species. The legend states that she carries a cognitive anomaly: she can watch a Tier-8 spell deployed once, and reconstruct the entire foundational spell model from memory."
+
+The notepad application on Hathaway's terminal went unattended. That is the structural equivalent of watching a compiled application run through a single complete execution and mentally reverse-engineering the entire source code and deployment architecture from the visual output.
+
+"That is not how anything works," Hathaway said, her voice entirely flat. "This is Ovelia's architecture." She pressed on, searching for any available logical grounding. "Could it be wrong? Marianne Horton is the Fourth Seat. Obtaining a copy through Ovelia's archives directly would be a trivial administrative request for someone of her clearance."
+
+"When she did it," Wilhelmina said quietly, "she was not yet the Fourth Seat."
+
+Hathaway sat back against her bedframe. A Witch who can decompile the sun by looking at it once. She filed the information carefully, in the dedicated partition of her mental filing system labeled things I do not fully believe yet but cannot argue with empirically.
+
+"Then Marianne Horton must be the most proficient practitioner," Hathaway reasoned, reaching for solid ground. "With that level of raw talent, her execution should be the closest to the original."
+
+"No," Wilhelmina said.
+
+The word arrived quietly, stripped of resonance, its weight raising the fine hairs at the back of her neck.
+
+"Between those two," the Matriarch continued, "only Irene Habsburg's output is genuinely comparable to the original."
+
+Hathaway frowned. "Comparable in what sense? The 115-meter compression radius?"
+
+"Both of them compress the ignition radius to exactly 115 meters," Wilhelmina confirmed. "But only Irene's version possesses a destructive yield that can actually be measured against the genuine article."
+
+Hathaway stared at the floor. Up against a living decompiler: the Fifth Seat won?
+
+"How do you even quantify that?" Hathaway asked. "Even a severely degraded 1,500-meter version is a localized apocalypse. The destructive yield at 115 meters is beyond meaningful damage assessment."
+
+Wilhelmina was silent for a long moment, and when she finally spoke, the Eternal True Sun's reverb was entirely absent, leaving behind the quiet voice of someone who had stopped performing for the Palace entirely.
+
+"Because," Wilhelmina said, "when Irene casts it, the cat is actually there."
+
+Hathaway did not breathe.
+
+"Within that 115-meter radius." Wilhelmina's voice came through the receiver barely above a whisper. "A fully materialized Sun Ion Lantern Cat. Existing in physical space. Undergoing cellular division sixty-five million times per second. You don't just see the light, Hathaway.
+
+"You see her."
+
+The line went dead.
+
+Hathaway sat in the afternoon quiet of her bedroom, the terminal resting against her knee, the connection ended.
+
+I found it.
+
+Not an A-student. Not a ninety-point answer she could use as a reference. A perfect, 100-point score, and its author was someone she was already on first-name terms with.
+
+Her first instinct was to reach for the enchanted coin. Call Irene. Ask her how she did it.
+
+Her logic engine clamped down on the impulse before it could complete the motor sequence. No. You do not walk into a senior architect's office and ask her to explain how to declare a variable. If she approached Irene now, Irene would have to begin the lecture at 1+1: foundational mana architecture, basic thermal containment theory, the reason the ancestral safety limiters existed in the first place. A Grand Witch did not have the schedule allowance to debug a junior developer's syntax errors. And Hathaway's own professional pride refused to submit a support ticket that simply said it doesn't work, please fix.
+
+She needed a question. One specific, precise, structurally heavy question that was worth Irene's time.
+
+She pulled the dragon-leather tome toward her and opened it to the title page.
+
+To the single line Ovelia had improvised on the spot because she had not considered documentation a meaningful use of her time.
+
+Face the Wicked Cat inward, let her remember the sun she carries.
+
+For eleven days, she had treated this as arrogant flavor text: a genius attaching a fortune cookie to a weapon of mass destruction and calling it a user manual.
+
+She looked at the words through the lens of what she had just learned.
+
+Marianne had solved the mathematics. She had handled the thermal feedback, managed the compression matrix, survived the kinetic shockwave. Her execution was, by all measurable parameters, flawless. And when the spell detonated, the result was catastrophic, entirely consistent with the written specifications.
+
+But Irene's version had the cat.
+
+Let her remember.
+
+The gears in her cognitive architecture caught, ground, and slowly began to turn in a direction they had not turned before.
+
+Her ancestors had looked at the runic matrix and assumed it was a construction schematic. They had been trying to procedurally generate a high-density thermal mass shaped like a cat, using raw mana to force physics into the geometry of an organic entity, building the containment parameters, the particle division rate, the ignition sequence from first principles.
+
+They had been writing the entire game engine from scratch.
+
+But the documentation said let her remember.
+
+You do not tell a procedurally generated mass of thermal energy to remember anything. You say that to something that is already alive. To something that has existed in the cosmic architecture of the universe since before the first line of the matrix was written.
+
+It's an API call.
+
+The epiphany had sharp edges she couldn't see past yet. She still had no idea what the connection protocol looked like in practice, or where the server hosting this particular entity was located, or what it meant to "face the cat inward" in terms of actual mana routing architecture. The wall was still standing.
+
+But for the first time since she had opened the book, there was a crack running through the stone. She could feel the cold air coming through it.
+
+She finally knew what she didn't know.
+
+And in the ruthless, practical logic of a developer staring at a broken codebase at three in the morning: knowing what you didn't know was the only prerequisite for asking the right question.
+
+Irene was in her future; she just needed to figure out what to say when she got there.

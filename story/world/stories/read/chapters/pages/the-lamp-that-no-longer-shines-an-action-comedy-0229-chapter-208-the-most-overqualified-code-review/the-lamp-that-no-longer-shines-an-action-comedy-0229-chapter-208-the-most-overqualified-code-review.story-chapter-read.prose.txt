@@ -1,0 +1,171 @@
+[Time]: Autumn Semester, Day 7 — 9:18 AM[Location]: Yggdrasil Academy · Dormitory [Golden Bough] · Room 302
+
+Hathaway sat cross-legged in her desk chair with the communication slate balanced on one knee, her directory open on it.
+
+The etiquette here was narrow and unforgiving, and she had spent the walk back from breakfast mapping it. A letter was fatal. A letter arrived by courier, on paper, with a seal, and it said I am formally petitioning a senior for unpaid academic labor, and the recipient would put on her professor face and grade it. A clean, properly rendered diagram was worse. A clean diagram said I prepared this for you, and preparation implied a request, and a request created an obligation.
+
+But a mess. A mess dropped into a chat window at nine in the morning with a self-deprecating one-liner was a girl sharing a funny thing that had happened to her, because she had thought of you, and the fact that the funny thing happened to be a composite spell architecture was purely incidental to the warmth of the gesture.
+
+Never send a question mark, her social engineering thread concluded, with the grim satisfaction of a system architect closing a security hole. A question is an invoice. A statement is a gift. And nobody has ever, in the history of civilization, been able to look at an illegible diagram and not try to read it.
+
+She drafted the payload.
+
+Drew this drunk last night. Woke up and can't read my own handwriting.
+
+She read it twice. The apostrophe was in the correct position. It was the sentence of a woman who had drafted it four times, which she had, and it radiated forethought like a wet dog radiates wet dog.
+
+She deleted the whole line and typed it again from scratch, this time deliberately, letting her thumb land a full key to the left on the word that mattered most.
+
+[Ctrl+S]: drew this dtunk last night woke up and cant read my own handwriting
+
+Perfect. She admired it for a moment, the way she had once admired UI copy that tested nine percent better because somebody removed a comma. This is the work of a woman who has not yet located her boots.
+
+She attached the capture.
+
+The parchment came through raw, all of it, including the bottom third of the page where her own sprawling hand had written, and then underlined twice with enough pressure to emboss the reverse side.
+
+Her thumb found the crop tool and hovered there for a long, agonizing second while her dignity made its case.
+
+Crop it and it looks curated, she thought. Curated is deliberate. Deliberate is a formal request.
+
+She lowered the slate, closed her eyes, and left the margin in.
+
+Routing came next, and routing was where amateurs died.
+
+The rule was Delayed Optimization. You did not fire at your fast responders first, because they would answer immediately and you would spend twenty minutes trapped in a live conversation while your slow responders were still un-contacted, and the whole illusion would collapse into what it actually was: one girl, alone in a room, working her way down a list. You seeded the slow ones early and let their latency do the staggering, and if you got the intervals right, everything landed at once and the terminal lit up like a party.
+
+Broadcast was out. Four of the nine were Ludwigs, and Ludwigs travelled in packs. Four slates chiming on the same beat at the same table and she was finished.
+
+So she typed it nine times, by hand. The words were identical either way. Typing them nine times was more sincere, and she declined to examine that.
+
+The first went to [Still Up Overall].
+
+Mihaye Grün's handle contained no reference whatsoever to quitting, cutting losses, or stepping away, because those were concepts that had never been introduced to her. It was, technically, a claim about aggregate data, made by a woman who studied historical records for a living and had presumably run the numbers. It was also, Hathaway was fairly confident, false.
+
+The status beneath the name changed to typing...
+
+And stayed there.
+
+Hathaway logged the latency and moved on.
+
+Second: [Offset].
+
+Tasia's entire display name was one clinical word, no ornament, the kind of figure you copy off an instrument.
+
+The reply came back inside eight seconds.
+
+[Offset]: Very cute drawing.
+
+Then, beneath it: typing...
+
+Eight seconds meant the slate had already been in her hand, and that the Empress of the White City had nothing whatsoever scheduled for her Sunday. The real answer would arrive when it arrived.
+
+Third: [Response Window: 22:00–22:15].
+
+Nino Lucent had converted human contact into an equipment protocol and posted the operating hours. The portrait beside it was a photograph of her own bench: terminal, racked reagents, a scorch mark in the wood, and at the edge of the frame, half out of shot, a shallow pot of nineteen-leaf clover.
+
+She sent it at 9:21 in the morning.
+
+The reply took two-tenths of a second.
+
+[Response Window: 22:00–22:15]: ?
+
+No typing... followed it. No second message. Just the one character sitting in the empty thread, like a door closing in a building you had assumed was empty.
+
+Something cold went down the back of Hathaway's neck.
+
+She's angry. Her threat assessment came online without being asked. What did I do. Is it because it's Heidi's assignment and I took Heidi's assignment to Heidi's sister? Is there an academic blood feud I stepped into with both boots?
+
+She swiped the thread away and did not look at it again.
+
+Fourth: [and the morning has no claim].
+
+Rhode's handle was a line from a poem, which was the most surprising fact Hathaway had ever learned about her cousin, until she had spent one evening watching it deployed and understood that it was a tool. It implied that the woman in the leather jacket contained a private sorrow that the right person might one day be permitted to see, and it worked on approximately everyone, and Rhode had never once read past that line.
+
+[and the morning has no claim]: having an episode?
+
+Hathaway deployed a sticker of a small white cat sitting in a corner, ears flat, trembling with visible and entirely fraudulent grievance.
+
+The status beneath the name changed to recording...
+
+Fifth. Hathaway put the slate down, breathed out through her nose, picked it up again, and opened the thread belonging to [She Who Devours the].
+
+Bella's full handle ran past sixty characters, and it opened with a marching row of ornamental sigils, each one rendering three letters wide, so the interface had spent most of its budget before reaching a single word of the actual title. What survived the amputation was four words dangling off a definite article, promising an object that would never arrive.
+
+[She Who Devours the]: AN ECLIPSE.[She Who Devours the]: Blood of my blood, the seal is broken! Too long have you draped that borrowed mortal cloth across the sovereign thing that sleeps in your marrow. Too long have you knelt beneath the petty tyranny of the visible spectrum, and called that kneeling humility! But the Wheel has turned, the appointed hour stands open, and the Devouring Crown descends at last upon a brow that was measured for it on the day of your naming![She Who Devours the]: I saw it—I have always seen it—I alone among them[She Who Devours the]: DO YOU KNOW HOW LONG I HAVE WAITED
+
+Hathaway put her hand flat over the screen, as though covering it might retroactively reduce the number of words on it, and scrolled past with her eyes averted.
+
+Sixth: [Strawberry Parfait ♡].
+
+The Matriarch of the Ludwig bloodline, holder of a scepter, wearer of magma-silk, a woman who kept her eyes closed in public because opening them constituted a localized environmental hazard, had put a heart on it. Nobody alive was permitted to address her by anything shorter than her full name and title, and the display name field was the one place in the entire Inner Sea where that woman was allowed to exist.
+
+[Strawberry Parfait ♡]: ……Niece. Why did you draw the sun black.
+
+Hathaway sat back.
+
+That's not a joke. The ellipsis is real. She sat there.
+
+Two theatrical cosmologies had met at the property line and neither one of them was going to move.
+
+Seventh: [And I Shall Remember].
+
+Elder Frederica's handle read like the closing line of a war oath, sworn on a field, over a body, by a woman with a fire phoenix on her shoulder. It described, in practice, a filing system.
+
+[And I Shall Remember]: Good. Who is the target.
+
+Hathaway started typing an explanation involving the word homework.
+
+She got four words in.
+
+[And I Shall Remember]: Understood.[And I Shall Remember]: Say nothing further.
+
+No. No no no. Hathaway's thumbs went into overdrive. That's a blank field and she just filled it in herself. She has a book. There are one thousand nine hundred pages in that book and every single entry has a surname on it, and there is exactly one surname that book is about, and I am currently dating it.
+
+Eighth: [Currently Awake].
+
+Alucard had chosen a status rather than a name, and the status was phrased as a temporary condition worth reporting.
+
+[Currently Awake]: Hathaway. It is currently working hours.
+
+Hathaway looked at the timestamp. She looked out the window at the grey, civilized, unmistakably Sunday morning sky over Yggdrasil.
+
+A single tear of pure proletarian solidarity welled at the corner of her eye.
+
+Sunday, Alucard. She pressed a hand to her sternum. It's Sunday, and the city is not going to thank you. Somebody has to put a stop to this. It's not going to be me, but somebody.
+
+Ninth, and last: [Death of the Author (pending litigation)].
+
+[Death of the Author (pending litigation)]: Now then. Was this line composed exclusively for me, or did it go out to every woman in your directory?
+
+Hathaway's heart stopped.
+
+She was still assembling a denial when the slate chimed again, timed with the precision of a woman who could feel a pulse rate through a glass screen.
+
+[Death of the Author (pending litigation)]: Kidding.[Death of the Author (pending litigation)]: [sticker: a grin, no cat behind it]
+
+She knows. Hathaway set the slate down on the desk very carefully, the way one sets down something that has begun ticking. She isn't going to say so again, and she wanted me to know she knows.
+
+Then Alice Varro, who produced five thousand publishable words a day for a living, began to type.
+
+[Death of the Author (pending litigation)]: Illusion crossed with Evocation. Six hundred and seventy thousand viable pairings.[Death of the Author (pending litigation)]: We eliminate on drama. Anything an audience would not sit through, cut. That leaves four hundred and six.[Death of the Author (pending litigation)]: You may have the other four hundred and five. I am not typing them out and you would not use them.[Death of the Author (pending litigation)]: Here is the one worth writing, and it begins with an extremely elementary mistake.[Death of the Author (pending litigation)]: An eclipse takes TWO bodies, darling. A sun, and the thing in front of it.[Death of the Author (pending litigation)]: You drew one.
+
+Hathaway's quill stopped.
+
+She looked at her own drunken diagram, and at the fat confident black disc squatting in the middle of it, and felt the floor of her stomach relocate.
+
+[Death of the Author (pending litigation)]: If the sun is blocked, the thing blocking it is the protagonist. Every eye goes to the black spot.[Death of the Author (pending litigation)]: So hollow it out. The disc is scenery. Put every gram of the deprivation into the corona, the ring, the burning edge.[Death of the Author (pending litigation)]: Which means the only safe ground on your battlefield is dead centre, directly beneath the black sun, and there is not a living creature in this world that will run there.[Death of the Author (pending litigation)]: [attachment: Blocking for a Black Sun, 9 pp.]
+
+Hathaway wrote it down with her hand unsteady on the nib. The illusion is telling them exactly where to stand, and where they'll stand is wrong.
+
+The model came through clean, and it was a proper one: an annulus, the disc drawn hollow and marked as scenery, the entire deprivation load carried in the burning ring, tolerances given. Then the annotations, in a smaller hand, crowded into every margin, and not one of them was a force. Sightlines. One arrow per hypothetical observer, a dozen of them ranged around the outside of the field, every single arrow pointing at the black spot in the middle. In the dead centre, circled: SAFE. WHICH IS WHY NOBODY WILL BE STANDING HERE.
+
+She blocked it like a stage.
+
+Then the delayed routing came due.
+
+The slate went off against the desk, once, twice, and then gave up on individual chimes and simply rang.
+
+That was one of them. Hathaway got both hands around the quill and did not look away from the screen. One. Answering a drawing I sent her as a joke.
+
+Eight more were coming, and Hathaway von Ludwig braced for the most overqualified code review in the history of the discipline.
