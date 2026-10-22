@@ -4,7 +4,7 @@ export const zaraLarssonBlueMoon = {
   id: "01a163de-95ad-7822-9ee8-178d136df268",
   type: "page-type/release",
   slug: "zara-larsson-blue-moon",
-  ownLength: 6.124033333333333,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
@@ -21,5 +21,5 @@ export const zaraLarssonBlueMoon = {
   ],
   title: "Blue Moon",
   createdAt: "2026-10-22T13:48:14.124Z",
-  updatedAt: "2026-10-22T13:48:14.124Z",
+  updatedAt: "2026-10-22T14:00:22.199Z",
 } as const satisfies Release
