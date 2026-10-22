@@ -1,0 +1,277 @@
+Skip this chapter if you do not want to read/hear the overview of each character
+
+Elise
+
+Race: Death-Tal
+
+Innate Trait - One With Shadow
+
+Can hide in shadows and resist shadow based attacks
+
+Power Affinity: Stealth.
+
+Element Affinity: Shadow.
+
+Innate Abilities:
+
+Innate Ability - Soul Reap
+
+Allows the gathering of information from killing something with a soul.
+
+Innate Ability - Strength In Darkness
+
+Grants benefits such as resistance and healing when outside of direct light.
+
+Innate Ability - Connected In Thought
+
+Can read minds, speak into minds and resist both effects naturally.
+
+Essence Abilities
+
+Shadow Dagger - Body - Summoned Item - Stone of Death
+
+A dagger that grants benefits to triggered attacks based on how long they have been active, or if the enemy is casting at the time.
+
+Soul Curse - Body, Soul - Affliction - Triggered Ability - Stone of Corruption
+
+An undetectable curse that deals damage when an attack is made.
+
+Debilitating Strike - Mind, Body - Triggered Ability - Stone of Pain
+
+Causes debilitating effects to the mind and body.
+
+Cloak of Darkness - Body - Summoned Item - Stone of Cloth
+
+Creates a concealing cloak made of darkness.
+
+Silence - Body, Mind, Soul - Area Effect - Stone of Quiet
+
+Silences sound in an area.
+
+Elusive Repositioning - Soul - Blessing - Stone of the Tactician
+
+Team-wide invisibility with speed and dexterity increase and a one-time burst of damage to the next attack.
+
+All-Consuming Darkness - Mind, Soul - Passive - Triggered Ability - Stone of Defense
+
+Damage mitigation while in darkness.
+
+Rowan
+
+Race: Displaced Soul
+
+Innate Trait - World Guide
+
+You can interact with items and people to learn basic information about them.
+
+You have access to a personal map.
+
+Power Affinity: Utility and Affliction.
+
+Element Affinity: Astral.
+
+Innate Abilities:
+
+Innate Ability - Warped Space
+
+An extradimensional storage space
+
+Innate Ability - Flickerstep
+
+Allows instantaneous movement every 3-5 steps
+
+Innate Ability - Timeless Body
+
+More resistant to diseases, poisons and the effects of time and time magic
+
+Essence Abilities
+
+Relativity - Body, Mind, Soul - Affliction - Blessing - Stone of Reality
+
+Slow or speed up a persons stream of time
+
+Reality Guard - Body - Summoned Item - Stone of Armour
+
+Magical armour that makes attacks pass through it
+
+Rewind - Body, Mind, Soul - Activated Ability - Triggered Ability - Stone of Renewal
+
+Turn back time when activated, automatic activation on death
+
+Titan’s Burden - Body, Soul - Affliction - Debuff - Stone of the Sky
+
+Increase the gravity for a target
+
+Twisting Mist - Mind - Affliction - Debuff - Passive - Stone of Mist
+
+Blur vision of you and bend space to make attacks miss
+
+Reality Command - Body, Mind, Soul - Summon Familiar - Stone of Command
+
+Summon Fracture, a being from the Astral
+
+Melody
+
+Race: Erendel Human
+
+Innate Trait - Human Aptitude
+
+You’re able to adapt better to your environment
+
+You have minorly increased resistance to most attacks or environmental hazards, as well as minorly increased damage dealt of all types.
+
+Power Affinity: Support.
+
+Element Affinity: Sun.
+
+Innate Abilities:
+
+Innate Ability - Afterimage
+
+Creates afterimages that continue songs
+
+Innate Ability - Sun Strengthened
+
+Become stronger in the sun
+
+Innate Ability - Musical Mind
+
+Increased mental resistance when playing music and better memory for songs
+
+Essence Abilities
+
+Violin of the Sun - Mind, Body - Summoned Item - Stone of Music
+
+Channels songs and decreases their mana cost.
+
+Song of Power - Soul - Channelled Ability - Stone of Enhancement
+
+Increases strength of abilities and reduces cost of abilities
+
+Song of Peace - Soul, Mind - Channelled Ability - Stone of Calm
+
+Reduces targets will to fight
+
+Song of Mending - Body - Channelled Ability - Stone of Health
+
+Overtime healing, targeting worst injuries first
+
+Song of Rest - Body, Mind, Soul - Channelled Ability - Stone of Home
+
+Regenerates stamina and mana over time, free to cast outside of combat
+
+Afterimage Consumption - Body, Soul - Active Ability - Stone of Absorption
+
+Consumes afterimages to create a burst of power, the effect of which is based on which song the afterimage is playing.
+
+Helja of Dawn
+
+Race: Avian of the Dawn Eagle
+
+Innate Trait - Born to the Wind
+
+You fall significantly slower than others.
+
+You have increased resistance to air based attacks or environmental hazards, as well as increased damage dealt by any air based attacks.
+
+Power Affinity: Utility.
+
+Element Affinity: Air.
+
+Innate Abilities:
+
+Innate Ability - Air Magic
+
+Control wind and imbue it with force. It also affects the soul.
+
+Innate Ability - Flight
+
+Limited flight at no cost, quick flight at increasing mana costs
+
+Innate Ability - Wind Sense
+
+Smell, touch or hear things with the wind.
+
+Essence Abilities
+
+Wind Rune Enhancement - Mind, Soul - Body Enhancement - Stone of Magic
+
+Increased mana pool, mana regeneration when under open sky, and magic strength when off the ground. Rune magic enhances strength of abilities
+
+Air Blast - Body - Attack - Stone of Air
+
+Create a focused or broad blast of air from any direction at a target.
+
+Gasping Breath - Mind - Affliction - Stone of the Ocean
+
+Drain mana and air from a target, regaining that mana for yourself
+
+Tornado - Body, Mind, Soul - Area Effect - Stone of Devastation
+
+Create a powerful tornado that grows in strength over time
+
+Wind Shear - Body - Attack - Stone of Sharpness
+
+Create a blade of air capable of cutting magical constructs
+
+Corporeal Air - Body, Soul - Passive - Stone of Power
+
+Air based effects have more force, sharper dimensions and can be frozen in place
+
+The Dawn Eagle - Body, Mind, Soul - Summon Familiar - Stone of the Dawn
+
+Summon the dawn eagle that empowers your magical effects against undead and imbues them with fire.
+
+Arne of Forest
+
+Race: Avian of the Forest Owl
+
+Innate Trait - Born to the Forest
+
+You move through forested areas with ease.
+
+You have increased resistance to plant based attacks or environmental hazards, as well as increased damage dealt by any plant based attacks.
+
+Power Affinity: Defense.
+
+Element Affinity: Plant.
+
+Innate Abilities:
+
+Innate Ability - Call of the Roots
+
+Grow, control and grant sapience to roots
+
+Innate Ability - Earthbound
+
+Bind yourself to the ground, becoming unmoveable
+
+Innate Ability - Deeply Rooted Mind
+
+Have a strengthened mind which is harder to read or affect with powers.
+
+Essence Abilities
+
+Root Guard - Body - Summoned Item - Stone of the Root
+
+Summon a root shield that adapts to damage and grabs weapons and limbs
+
+Fiery Form - Body, Mind, Soul - Avatar Form - Stone of Fire
+
+Assume a fiery form that alters abilities to become aggressive
+
+Toughened Roots - Body - Passive - Stone of Stone
+
+Roots are tougher, damage weapons and grant you mana when attacked
+
+Forest Awakening - Mind, Soul - Temporary Summon - Stone of Sapience
+
+Summon forest guardians that count as roots
+
+Root-Bound Blessing - Mind - Blessing - Stone of Gifting
+
+Gives allies and their summons enhanced toughness and slow repair
+
+Form of the Deep - Body, Mind, Soul - Avatar Form - Stone of Water
+
+Assume a watery form that changes abilities to grant healing effects
