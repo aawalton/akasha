@@ -25,8 +25,9 @@ export const incrementalTortureAnIdleSystemTowerClimbing = {
     "Fantasy",
     "High Fantasy",
   ],
+  readLater: true,
   ownProgress: 136760,
   unit: "unit/words",
   createdAt: "2026-09-03T04:18:50.403Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-22T16:49:13.804Z",
 } as const satisfies StoryRead

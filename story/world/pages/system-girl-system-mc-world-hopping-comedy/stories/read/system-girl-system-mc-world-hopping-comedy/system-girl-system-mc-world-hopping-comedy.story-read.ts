@@ -33,6 +33,7 @@ export const systemGirlSystemMcWorldHoppingComedy = {
     "Reincarnation",
   ],
   publicationStatus: "ongoing",
+  readLater: true,
   createdAt: "2026-09-03T04:18:50.405Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-22T16:49:13.804Z",
 } as const satisfies StoryRead
