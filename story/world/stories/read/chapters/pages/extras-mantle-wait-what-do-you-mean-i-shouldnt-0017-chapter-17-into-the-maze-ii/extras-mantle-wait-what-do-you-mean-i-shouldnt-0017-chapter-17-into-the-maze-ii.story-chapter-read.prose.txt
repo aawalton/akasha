@@ -1,0 +1,281 @@
+~~~
+
+The first arrow screamed through the air, barely missing Rudy's chest as he threw himself sideways behind a stone pillar.
+
+"Shit, shit, SHIT!" he spat, rolling to regain his footing as dozens of mechanical crossbows emerged from hidden alcoves along the chamber walls. "Jin, I think I might have fucked up!"
+
+"You THINK?" Jin shouted back, diving behind another pillar as arrows peppered the stone where he'd been standing. "What gave you that brilliant insight? The death trap, or the fact that we're currently being turned into pincushions?"
+
+Why couldn't this be one of those forgiving puzzle rooms where you just get a gentle 'try again' message?
+
+The arrows came in coordinated volleys, each wave precisely timed to catch anyone trying to move between cover. Jin pressed his back against the pillar, mind racing as he tried to process their situation.
+
+Jin activated his [Appraisal] skill, trying to get a read on the crossbow mechanisms:
+
+o__________________________________________o
+
+[DUNGEON DEFENSE SYSTEM: AUTOMATED CROSSBOW ARRAY—??? ANALYZING... FAILED APPRAISAL LEVEL NOT HIGH ENOUGH]
+
+[AMMUNITION: 847/1000 BOLTS REMAINING]
+
+[DEACTIVATION CONDITIONS: ???—ANALYZING... FAILED APPRAISAL LEVEL NOT HIGH ENOUGH]
+
+o__________________________________________o
+
+THUNK-THUNK-THUNK-THUNK-THUNK
+
+"Okay, good news and bad news!" Jin shouted over the sound of bolts embedding themselves in stone. "Good news: they only have about eight hundred arrows left!"
+
+"That's the GOOD news?" Rudy's voice cracked slightly.
+
+"Bad news: I have no idea how to turn them off!" Jin grimaced as he processed the implications. "But I'm pretty sure solving another riddle correctly might help!"
+
+At least, I hope it will.
+
+"See what I meant about your learning stats before!" Jin shouted over the chaos, pressing himself flat against the cold stone.
+
+"Fuck you!" Rudy protested, also hugging the floor. "That was a perfectly reasonable answer!"
+
+"The answer is a candle, you muscle-brained moron!" Jin snapped back. "Born in darkness—made from wax—consumes itself—the flame—gives light to others!"
+
+"Oh…" Rudy's voice was very small. "That... that actually makes more sense."
+
+Another volley whistled overhead, and Jin could hear the trap mechanisms resetting for the next barrage.
+
+CLICK-CLICK-CLICK-CLICK-CLICK
+
+"It will stop after its ammo is expended, right?" Rudy asked, wincing as a bolt shattered against the stone inches from his head.
+
+Jin's mind raced through his knowledge of dungeon mechanics. "I think it’ll then trigger the escalation protocols."
+
+"What are escalation protocols?"
+
+"No idea, just made that up," Jin said grimly.
+
+“Sonvabi—” Rudy cursed.
+
+Jin chuckled to himself.
+
+The clicking stopped. In the sudden, deafening silence, both boys held their breath.
+
+"I think it's over," Rudy whispered hopefully.
+
+"No," Jin said, his blood turning to ice as he recognized the pattern. "It's just getting started."
+
+A low rumbling sound echoed through the chamber, like distant thunder building toward a crescendo. Orange light began to flicker from the same wall slits that had been firing arrows moments before.
+
+"Fire," Jin breathed. "The second level is fire."
+
+"Okay, okay!" Rudy scrambled to his feet, hands raised in surrender toward the riddle archways. "Jin, you handle the brain stuff! I'll stick to hitting things with swords! That's clearly what I'm actually good at!"
+
+"We need to get at least one riddle right to proceed. Hopefully it'll reset the defenses, or at least buy us passage deeper into the maze."
+
+“Then don’t get wrong…”
+
+Waaah…
+
+Jin pushed himself up, scanning the remaining six archways while heat began to build in the chamber. They had maybe thirty seconds before the flame jets activated.
+
+The second archway's inscription glowed softly:
+
+o__________________________________________o
+
+« I am not what I seem, yet more real than flesh. I can be shared without loss, stolen without theft. The wise seek me in shadows; fools flee from my embrace. What am I? »
+
+o__________________________________________o
+
+"Philosophy riddle," Jin muttered, his mind immediately shifting into overdrive. "Okay, let's break this down. 'Not what I seem but more real than flesh'—so we're talking about something abstract, conceptual. 'Shared without loss, stolen without theft'—that's the classic knowledge riddle framework."
+
+The rumbling grew louder. Orange light flickered brighter.
+
+"Jin!" Rudy's voice cracked with rising panic. "Whatever you're going to do, do it faster!"
+
+"I'm thinking!" Jin shot back, pacing rapidly in front of the archway. "The wise seek it in shadows—so it's something hidden, something that requires introspection. Fools flee from it because they're afraid of—"
+
+"Jin!" Rudy's voice cracked with panic.
+
+"Truth!" Jin shouted, pressing his palm against the second archway's runes. "The answer is truth!"
+
+The runes blazed brilliant white for a moment, then settled into a steady golden glow. The rumbling stopped abruptly, and the flickering flames died.
+
+CLICK
+
+The archway's stone door ground open, revealing a passage that stretched into darkness.
+
+o__________________________________________o
+
+[CORRECT ANSWER: PATHWAY UNLOCKED]
+
+[GATE#2 OPENED]
+
+[MAZE SECTION BYPASSED: EASTERN WING]
+
+o__________________________________________o
+
+"Holy shit, it worked," Rudy breathed, relief flooding his voice. "And look—there's another message appearing!"
+
+Jin read the new text that materialized in the air above the opened door:
+
+o__________________________________________o
+
+[QUESTIONS: 2/6]
+
+o__________________________________________o
+
+« [APPRAISAL] triggered! »
+
+o__________________________________________o
+
+[EACH CORRECT ANSWER WOULD UNLOCK A HIDDEN GATE, WHICH WOULD ALLOW YOU TO SKIP A SECTION OF THE MAZE COMPLETELY.]
+
+o__________________________________________o
+
+"Wait, there are six possible correct answers out of seven riddles?" Jin realized, his mind immediately grasping the implications. "So we already failed one, but if I can solve the rest..."
+
+"We can skip most of the maze entirely," Rudy finished, his purple eyes lighting up with understanding. "That's actually pretty clever dungeon design."
+
+"Right? It's like the dungeon designers actually wanted to reward intelligence and critical thinking.”
+
+He moved to the third archway, reading its inscription aloud:
+
+o__________________________________________o
+
+« I am the child of questions, yet I birth more queries. The more you feed me, the hungrier I become. I make the simple complex, the complex simple. What am I? »
+
+o__________________________________________o
+
+"This one's trickier," Jin murmured, falling into his element as he began to pace. "Child of questions that births more queries…”
+
+Jin closed his eyes, thinking through the philosophical implications. Questions led to knowledge, but knowledge revealed how much you didn't know, creating more questions...
+
+"Knowledge," he said confidently, touching the runes.
+
+They flared golden, and another passage ground open.
+
+o__________________________________________o
+
+[CORRECT ANSWER: PATHWAY UNLOCKED]
+
+[MAZE SECTION BYPASSED: NORTHERN WING]
+
+[GATE#3 OPENED]
+
+[QUESTIONS: 3/6]
+
+o__________________________________________o
+
+"You're on fire!" Rudy cheered. "What's next?"
+
+"Thanks, I think I'm starting to get the hang of ancient dungeon riddle logic," Jin said, already moving toward the fourth archway. "They're all philosophical concepts disguised as abstract descriptions. Once you recognize the pattern—"
+
+The fourth archway presented a more complex riddle that made Jin pause:
+
+o__________________________________________o
+
+« I exist in the space between certainty and doubt. I am not ignorance, yet I am not knowledge. The brave claim to possess me, the wise admit they lack me. In my absence, tyrants flourish; in my presence, growth blooms. What am I? »
+
+o__________________________________________o
+
+"Okay, this is getting more sophisticated," Jin said, rubbing his temples as his analytical mind shifted into high gear. "Between certainty and doubt... not ignorance, not pure knowledge... the brave claim it but the wise admit they lack it..."
+
+He started pacing again, a habit that helped him think through complex problems.
+
+"Tyrants flourish when it's absent because they can impose absolute certainties. Growth blooms in its presence because..." Jin stopped mid-stride. "Wait, I think I was overcomplicating this."
+
+"Wisdom?" he tried, “No…”
+
+Damn. Think harder, Jin. What exists between certainty and doubt that isn't just knowledge?
+
+"The space between certainty and doubt," Jin murmured to himself, continuing his restless pacing. "Not ignorance, because that's the absence of knowledge. Not knowledge, because that leads toward certainty. The brave claim to possess it because it makes them feel superior..."
+
+Understanding dawned like sunrise.
+
+"Humility!" Jin pressed his palm to the stone. "The answer is humility!"
+
+Golden light blazed, and the third passage opened with a grinding roar.
+
+o__________________________________________o
+
+[CORRECT ANSWER: PATHWAY UNLOCKED]
+
+[MAZE SECTION BYPASSED: WESTERN WING]
+
+[GATE#4 OPENED]
+
+[QUESTIONS: 4/6]
+
+o__________________________________________o
+
+"Only two more to go!" Rudy said, his confidence now matching Jin's growing swagger. "You've got this, bro."
+
+Jin approached the fifth archway:
+
+o__________________________________________o
+
+« I am the mirror that shows no reflection. I reveal truth by concealing lies. The young fear me, the old embrace me. In finding me, you lose everything else. What am I? »
+
+o__________________________________________o
+
+"Okay, this is getting seriously deep," Jin said. "A mirror with no reflection... reveals truth by concealing lies..."
+
+He thought about the nature of self-discovery, about stripping away illusions to find what lay beneath the constructed facades people built around themselves.
+
+"Death?"
+
+No, that's too literal. Think about the philosophy.
+
+“Mirror with no reflection... showing truth by concealing lies... finding it means losing everything else...”
+
+"The self!" Jin said suddenly. "The true self—not the ego, but the essence beneath all the masks!"
+
+The runes blazed brighter than any before, and the fourth passage opened with what sounded almost like a sigh of satisfaction.
+
+o__________________________________________o
+
+[CORRECT ANSWER: PATHWAY UNLOCKED]
+
+[MAZE SECTION BYPASSED: CENTRAL RING]
+
+[GATE#3 OPENED]
+
+[QUESTIONS: 5/6]
+
+[SPECIAL ACHIEVEMENT: THREE CONSECUTIVE CORRECT ANSWERS]
+
+[BONUS REWARD UNLOCKED]
+
+o__________________________________________o
+
+The chamber rumbled, but this time the sound wasn't threatening—it was purposeful, mechanical. Stone blocks in the center of the room shifted and rearranged themselves with precise, ancient engineering, forming a pedestal that rose from the floor with ceremonial grandeur.
+
+On top of the pedestal sat a chest that made both boys stop and stare.
+
+Not just any chest—this one was carved from what looked like crystallized starlight, its surface covered in runes that pulsed with inner radiance. The lock was shaped like an intricate puzzle, its components shifting and rotating in hypnotic patterns.
+
+o__________________________________________o
+
+[REWARD CHEST: PHILOSOPHER'S CACHE]
+
+[RARITY: RARE GRADE]
+
+[CONTENTS: ANALYZING... APPRAISAL LEVEL INSUFFICIENT FOR FULL ANALYSIS]
+
+o__________________________________________o
+
+"Jin," Rudy breathed, staring at the chest with wide, wonder-filled eyes. "Holy shit, look at our loot!"
+
+"Yeah, I can see it!" Jin grinned, approaching the chest.
+
+His fingers brushed the crystalline lock, and it clicked open by itself with a sound like wind chimes in a gentle breeze.
+
+Golden light exploded from the chest, washing over them both in waves of pure essence that made Jin's bones sing with power. Inside, nestled in velvet that seemed to be woven from liquid shadow, lay...
+
+Oh, Dayum!
+
+"Jin?" Rudy's voice seemed to come from very far away, even though he was standing right next to him. "What is it? What did we find?"
+
+Jin's hands trembled as he stared into the chest.
+
+"Rudy," he said, his voice barely above a whisper but filled with barely contained awe. "I think we just hit the jackpot."
+
+~~~
