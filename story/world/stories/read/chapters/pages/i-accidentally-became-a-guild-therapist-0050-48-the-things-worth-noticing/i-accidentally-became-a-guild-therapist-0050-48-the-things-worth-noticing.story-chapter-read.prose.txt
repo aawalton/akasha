@@ -1,0 +1,267 @@
+Chapter 48 – The Things Worth Noticing
+
+ARC IV: THE THINGS THAT STAY
+
+SYNOPSIS: Day 6 post-declaration. The city has opinions. Aldous has filed a report about a cat. Blorbo is at the fountain again. Mar comes back with a repaired sword, better directions, and one question that lands harder than she intends.
+
+[AETHELGARD — DAY 6 POST-DECLARATION]
+
+[Server political status: 7 formal neutrality declarations. 3 informal coalition support statements. GG No Re, Rank 18, has submitted an auxiliary support offer to B&B, terms pending review]
+
+[lumiere_27: Warrior Lv. 4. Sword: repaired. Deaths since Day 4: 1. Cause: looking at the blacksmith sign while walking.The system notes: progress.]
+
+The city had opinions about the war.
+
+Not through announcements. Aethelgard’s NPC population did not issue press releases or post forum threads. Their opinions moved differently — through small adjustments, through the particular quality of attention they directed at certain things. The vendor near the Resonance Halls had reorganized his stall overnight so that defensive potions sat at eye level and the cosmetic ones were behind them. The bard at the Goldmere archway had been playing the same minor-key piece since Day 2, without his usual rotation, without his usual showmanship. The queue at the civic hall’s records office, which normally held maybe three people on a slow morning, had seven.
+
+People filing things. Writing things down. Preparing for the possibility that they might need a record of something.
+
+Livia noticed all of it on her morning walk, wrote three lines about it in her notepad, and then went to find Aldous.
+
+Aldous kept his posting board near the civic hall, where he had kept it for eleven years. The board itself was functional — quests posted, quests accepted, the standard exchange of tasks and rewards that formed the backbone of how the server’s NPC ecosystem maintained itself. But Aldous had, over eleven years, developed supplementary practices that the quest system had not asked for and did not track.
+
+He kept a ledger. Handwritten. On paper that should not have existed in a server-rendered world and which he had never explained and which nobody had ever thought to ask him about. He noted things in it that were not quests: weather patterns that deviated from the rendering schedule, player behaviors he found statistically unusual, changes to the city’s ambient sound that predated official patch notes. He had, in the ledger, records going back to Year One.
+
+He was reviewing one of these records when Livia arrived. He looked up, marked his place with a thin strip of cloth, and closed the ledger.
+
+“Mental Architect,” he said. He had switched to the correct title three weeks ago without being asked. “You’re out early.”
+
+“I’m always out early,” Livia said.
+
+“You’re out earlier than early today.” He looked at her notepad, which she was holding open. “You’ve been writing since you left the guild hall.”
+
+“How do you know when I left the guild hall?”
+
+Aldous considered this. “I notice patterns,” he said. “You typically pass the civic hall at 08:47. Today it was 08:23. You have ink on your left hand from before the standard morning writing session, which suggests you started writing earlier than usual, which suggests something interrupted your sleep, which is consistent with the guild hall’s planning room light being on past 02:00.” He paused. “I can see the planning room window from here.”
+
+Livia looked at him. Then at the civic hall. Then at the approximate angle from which the planning room window would be visible.
+
+“You can see the planning room window from here.”
+
+“On clear nights. Yes.” He straightened a notice on the board that was already straight. “I note these things. In the ledger. I don’t always know why they matter. Sometimes they don’t.”
+
+“How long have you been noting the planning room light?”
+
+“Approximately four months before you arrived,” he said. “It started being on late around that time. I noted the change.”
+
+Four months before she arrived. Livia wrote that in the margin of her notepad without commenting on it.
+
+“Aldous,” she said. “I saw the community watch board. You filed a report about a cat.”
+
+His expression did something that was almost a wince. Almost. The NPC equivalent of a man who had hoped this would not come up. “The cat report,” he said.
+
+“The cat report,” she confirmed. “You listed it under ‘unusual entity behavior.’”
+
+“Because it is unusual.” He opened the ledger to a specific page without looking. He knew where it was. “Grey cat, medium size. Has been sitting on the Eclipse Covenant auxiliary warehouse roof since Day 1 of the declaration. Four hours each morning, facing the eastern gate. Does not belong to any registered entity in this district.” He showed her the entry. In the notes column, in careful handwriting: ‘Possible agenda.’
+
+“Possible agenda,” Livia said.
+
+“I don’t assign agendas,” Aldous said, with the dignity of someone who had been questioned about this before and had not changed his position. “I note possibilities. The cat is making a choice about where to sit. I find that worth recording.”
+
+“There are better roofs in this district,” Livia said.
+
+“Several,” he agreed. “I checked.”
+
+She looked at him — at this small, tidy NPC who had been at this board for eleven years, checking the quality of nearby roofs for the sake of accurately assessing a cat’s choices.
+
+“How are you, Aldous?” Not as a session opener. Just a question.
+
+He closed the ledger. Set it on the board with the care of something that was handled frequently and had not been dropped in eleven years.
+
+“I am well. The declaration has generated considerable additional record-keeping, which I find clarifying. Uncertainty produces paperwork. People write things down when they don’t know what’s coming.” He looked at the queue at the records office. “The volume of filings at the civic hall has increased significantly. Fourteen separate inquiries asking about neutral zones in the event of active combat. Seven requests for historical records of previous Guild War outcomes on this server. Three inquiries about…” he checked a separate note, “…whether pets count as personal property in server law during wartime.”
+
+“What did you tell them?”
+
+“I told them I would look into it. I have been looking into it. The answer is complicated and involves a 2019 patch note that I believe was applied inconsistently.” He made a small mark in his ledger. “I am filing a clarification request. It will probably take three weeks.”
+
+Livia wrote: ‘Aldous — filing a clarification request about pet property rights during wartime. 2019 patch note. Three weeks.’
+
+“GG No Re submitted an auxiliary support offer to the guild,” she said. “You’ll probably see it in the diplomatic feed. Twenty-three members, Rank 18.”
+
+“I’ve already noted it,” Aldous said. “GG No Re has a territorial dispute with Ashen Compact going back fourteen months. Their offer to B&B is not primarily about B&B.”
+
+“No,” Livia agreed. “It’s about Ashen Compact being in Caelric’s coalition.”
+
+“Yes.” He straightened the cat entry on the board, which did not need straightening. “The enemy of my enemy is a very old calculation. It functions. It also has a moderately high rate of resulting in complications after the initial enemy is dealt with.” He looked at her. “I have noted this in the historical records. If it would be useful.”
+
+“I’ll mention it to Miles.”
+
+“I would appreciate that.”
+
+She was about to leave when Aldous said, in the particular tone of someone adding something that was not officially part of the conversation:
+
+“The server has layers.”
+
+She turned back.
+
+“Most entities only interact with the top one,” he said. He was looking at the ledger, not at her. “Players arrive, complete quests, leave. Things change, records are filed, the surface moves. But occasionally something moves through from a deeper layer. And when it does, the surface responds.” He was quiet. “I have been keeping records for eleven years. I have seen the surface respond twice. Once was a system event. The other…” he touched the ledger’s cover, “…was you.”
+
+He said it the way he said everything — factually, without drama, as something he had observed and recorded and was now reporting. Then he opened the ledger again and went back to work.
+
+Livia stood there for a moment. Then wrote in her notepad: ‘Aldous has been watching the planning room light for four months before I arrived. He filed a report about a cat. He has a ledger going back to Year One. He said: the surface responded twice. Once was a system event. The other was me.’
+
+She underlined the last sentence. Then kept walking.
+
+Blorbo was at the Tessarae fountain.
+
+This was not surprising. He had been at the Tessarae fountain, or near it, every time Livia had passed through the square since Tuesday. He had claimed the section of fountain edge that Yuki had used, which Livia was increasingly certain was intentional. The daisy from Day 2 was still there, propped against the stone, now at the stage of wilt where it had stopped looking fresh and started looking like a commitment.
+
+He was eating something. Or attempting to. The server had rendered him a small bowl of what appeared to be flies, which was the kind of detail that the rendering engine had produced with complete sincerity and which Livia was choosing not to think about too carefully.
+
+“You’re still here,” she said.
+
+“Yes.” He set the bowl down. “I have been thinking about Tuesday.”
+
+“Good. What have you been thinking?”
+
+“I have been thinking about the path.” He adjusted his glasses. “East of the last rendered zone. Past where the map stops. I know that part.”
+
+“And after that?”
+
+He was quiet for a beat. The particular quiet of someone checking an internal filing system and finding the relevant folder less organized than they would like.
+
+“After that it becomes contextual,” he said. “The space responds to who is looking. When I passed through it I was… not fixed yet. Not fully rendered. The path opened because I had no particular shape at the time, which I think made it easier.” He looked at the daisy. “With fixed entities the path may behave differently. I am not certain how.”
+
+“So you’re not certain you can find it.”
+
+“I am certain I can find it,” Blorbo said, with the confidence of someone who had made a decision about which level of certainty to commit to. “The details of the specific route are… subject to on-site assessment.”
+
+Livia looked at him.
+
+“That’s why Yuki is coming,” she said.
+
+“Yuki is coming because she finds things that do not wish to be found,” Blorbo said. “The route situation is a separate benefit.” He picked up the daisy. Examined it. Appeared to decide it was still viable. Set it back down. “I will bring a better one on Tuesday. This one has served its purpose.”
+
+“What purpose was that?”
+
+“Presence,” he said. “Sometimes the point of a thing is simply to have been there.”
+
+Livia wrote that down. Blorbo watched her write it with the satisfaction of something that had said a thing worth writing.
+
+“Is she well?” he asked. Not looking at Livia. Looking at the section of fountain edge that Yuki usually occupied, which was currently empty. “The mage.”
+
+“She’s fine.”
+
+“I noticed she didn’t stream yesterday. She streams every day.”
+
+“She was probably busy.”
+
+“Yes,” Blorbo said. “I thought so.”
+
+He said it with a kind of careful neutrality that would have been almost convincing if he hadn’t immediately adjusted his glasses twice in a row.
+
+“Blorbo,” Livia said.
+
+“Yes.”
+
+“She knows you’re watching her stream schedule.”
+
+“I am aware,” he said. “I am patient.”
+
+Mar came back at 16:00.
+
+Same bench, east wall. She arrived from the correct direction this time without any visible hesitation, which meant she had either memorized the route or walked it a few times to make sure. The sword on her hip was the repaired tutorial sword — still not a good sword, still slightly too long for her frame, but it sat in its scabbard correctly now, which was a different relationship with it than she’d had two days ago. Level four. The armor had stopped clanking quite so loudly. She had learned to move in it, or she had adjusted something, or both.
+
+Livia was already there, mug on the stone beside her, notepad open but not being actively written in. She had been thinking through the Aldous conversation. The planning room light noted four months before she arrived. She had written it down and underlined it and then spent twenty minutes looking at it, which was not the same as understanding it.
+
+“You found it,” Livia said.
+
+“Second left,” Mar said. She sat. Less clanking. “I died from the archway again.”
+
+“Again?”
+
+“The blacksmith sign is very high up. I was reading it.”
+
+“Was it worth it?”
+
+Mar considered. “The sign says ‘Repairs While You Wait.’ It’s in a font that someone put a lot of effort into. So: yes, actually.”
+
+Livia’s mouth did the thing that was not quite a smile. She wrote: ‘Mar: died from archway reading blacksmith sign. Font worth it.’
+
+“You met the flowers,” Livia said. “In the Verdant Expanse.”
+
+“One bit me. Is that normal?”
+
+“The flora at the outer perimeter has been emotionally aware since a Phina-Glimmer wedding event. The biting ones are processing something.”
+
+“A wedding.”
+
+“Between an elf and a slime. I officiated.”
+
+Mar stared at her. Then at the middle distance. Then back at Livia, with the expression of someone deciding whether to pursue that or let it go.
+
+She let it go. “So the flower wasn’t biting me specifically.”
+
+“Almost certainly not.”
+
+“Good. I was going to feel bad about killing it.” A beat. “I did kill it.”
+
+“I know. You went up a level.”
+
+“Is the flower… okay?”
+
+“It respawned. It’s fine.”
+
+Mar nodded, processing this. The server rendered a small bird somewhere above them — three of them, the standard cluster — moving through their pattern across the Tessarae. She watched them.
+
+“Is it always like this?” she asked. “The server. Things just… being this way.”
+
+“Like what way?”
+
+“Like… a flower with feelings. A frog with an agenda. A cat filing paperwork.”
+
+“Aldous filed the paperwork. The cat just sits on the roof.”
+
+“But someone noticed. And wrote it down. Because it matters.” She looked at the notepad in Livia’s lap. “Everything gets noticed here.”
+
+Livia looked at the notepad too. At the ink stain on her palm. “A lot of things do, yes.”
+
+Mar was quiet. Then she said, in the register of a question she had been sitting with for a while: “Do you miss it? The real version. Of things.”
+
+The question landed with an edge Mar probably hadn’t measured before she said it. Not unkind. Just honest, the way questions were honest when someone asked them without first checking whether the asking was comfortable.
+
+Livia set her mug down on the stone. The steam from it drifted sideways in the rendered afternoon air.
+
+“Sometimes,” she said. “Less than I expected to.”
+
+Mar nodded. She was looking at the mug.
+
+“The tea is close enough that you stopped noticing,” she said. Not a question. Checking something.
+
+“Yes.”
+
+“And the other things?”
+
+“Some of the other things,” Livia said, “are better here than the version I had before.”
+
+She said it plainly. Mar heard the plainness of it. She didn’t ask which things. She just sat with it, the way she had sat with the okay two days ago — receiving it, filing it somewhere careful.
+
+“Tuesday,” Livia said. “The investigation I mentioned. Still want to come?”
+
+“Yes.”
+
+“The frog will be there. He doesn’t know the exact route. Yuki — the mage — is good at finding things. You’d need to stay close and follow quickly if we need to move.”
+
+“I can do that.”
+
+“You’re level four with a tutorial sword.”
+
+“I’m aware,” Mar said. “I’m very good at staying close to people who know what they’re doing. I have been doing that my whole life.”
+
+Livia looked at her. The warrior armor. The sword that had been repaired but was still slightly wrong for her frame. The person inside it who had walked into a game she’d never played and was learning to move in it one death at a time, with a patience that was not passive but deliberate.
+
+She wrote: ‘Mar — Tuesday confirmed. Staying close to people who know what they’re doing. Her whole life.’
+
+Then, smaller: ‘I said: some things are better here than the version I had before. She heard that.’
+
+[Mental Architect Lv. 2: 9,847 / 11,000 EXP.]
+
+[The system notes: decisions are still sitting where they were left.]
+
+[The system notes: Tuesday approaches.]
+
+[END OF CHAPTER 48]
+
+Arc IV: The Things That Stay
+
+Chapter 49: Tuesday

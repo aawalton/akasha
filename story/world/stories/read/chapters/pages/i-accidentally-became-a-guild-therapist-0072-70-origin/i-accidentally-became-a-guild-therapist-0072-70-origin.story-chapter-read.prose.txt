@@ -1,0 +1,187 @@
+Chapter 70 — Origin
+
+ARC IV: THE THINGS THAT STAY
+
+SYNOPSIS: This is not a chapter about Miles Vexley. It is a chapter about a person named Luke — one of four university students who built a world, lost a vote, and spent the years after learning to fight a war that nobody above the table could see. The guild doesn’t read this chapter. This one is just for you.
+
+[ TWELVE YEARS AGO ]
+
+They had been awake for thirty-six hours when it finally worked.
+
+Four university students in a rented room that smelled like instant noodles and overheating laptops, who had collectively decided at the beginning of their second semester that building a game world was more interesting than attending lectures about building game worlds. The math was simple. The execution was not.
+
+Luke typed a command at 3:47 in the morning and the server came up, and the four of them stood in a sunlit valley that had not existed thirty-six hours ago and watched a rendered breeze move through grass that had never existed before either.
+
+"It’s real," Renne said, jaw slightly open, looking at the horizon the way you looked at something you’d built from scratch and couldn’t quite believe had become real.
+
+"It’s a server," Davan said. Practical, as always. "It’s a very beautiful server."
+
+"It’s not just a server," Renne said.
+
+"It’s a — it’s a —" Renne spread his hands and gave up. "Luke. Help me."
+
+Luke was looking at the grass. The way it moved. He had written that algorithm himself, modeled on the pressure differentials of real wind, debugged it so many times it had stopped feeling like anything, and now he was standing inside it.
+
+"A world," said Eric, from behind all three of them. Quietly. Like confirming something.
+
+Eric was the fourth. He didn’t say things unless he meant them.
+
+Nobody argued with ’a world.’
+
+It took two years to build what they’d stayed up thirty-six hours to start. Two years of classes they attended sporadically and architecture they built obsessively. Renne wrote the lore. Davan managed everything that wasn’t lore or code. Eric found the edges of things by breaking them on purpose.
+
+Luke thought about what the system would mean for the person inside it.
+
+Not the player. The person.
+
+He built something at the bottom of the stack, in a layer the others didn’t know to look for. The entity registry tracked not just player states but something closer to presence — the weight of a person existing in a place. He never explained what it was for. He wasn’t entirely sure himself.
+
+Aethelgard launched ten years ago. Six months late, buggier than they wanted, with a world that had been built by four people who were still technically enrolled in university. Within three months: forty thousand active players.
+
+"We did something," Eric said, looking at the numbers.
+
+"We did something," Luke agreed.
+
+It was the last time all four of them agreed without argument for the next two years.
+
+[ EIGHT YEARS AGO ]
+
+Meridian Interactive sent the first letter when Aethelgard was two years old and had three hundred thousand active players.
+
+Luke read it twice. Filed it. Said nothing to the others for a week.
+
+The letter was not alarming on its face. Meridian was legitimate. The money was serious. Complete acquisition framed as a partnership, as an opportunity to give Aethelgard the infrastructure it deserved. The kind of offer that, if you were twenty-two and exhausted and running a server on three laptops and a dream, sounded like the obvious next step.
+
+What made Luke go quiet for a week was a single line about Meridian’s research division and ’alignment with Aethelgard’s unique architectural properties.’
+
+He knew what his architecture could do. He had built the part that tracked presence like weight.
+
+They want to use it as a container. Not a game. A substrate.
+
+When he told the others, Renne’s first question was about the number. Davan’s was about the infrastructure. Eric’s was about the research division.
+
+Only Eric asked the same question as Luke.
+
+They met Meridian once, in a building too clean and too quiet for a company doing what they claimed to be doing. The representative was warm, prepared, and answered questions they hadn’t asked yet — which Luke noted was a technique, not generosity.
+
+The technology was called consciousness persistence. Human minds mapped with sufficient fidelity to exist in a digital substrate. Not a copy. A continuation. They had the theory and the hardware. What they lacked was an architecture sophisticated enough to host a human presence without reducing it.
+
+Aethelgard, they explained, was the first environment they had encountered that might be sophisticated enough.
+
+They meant it as a compliment.
+
+"How far from deployment?" Renne asked.
+
+"Two to three years with your architecture," the representative said.
+
+"Human trials," Luke said. "When do people enter the equation?"
+
+The representative smiled and said something about phased trials and regulatory frameworks. Luke heard: soon. He heard: before it’s ready. He heard: the people who enter first will be the proof that it works, and if it doesn’t work, they won’t be able to say so.
+
+On the way back, Renne said: "Two to three years. That’s not that far."
+
+Luke said nothing. Eric, walking beside him, also said nothing. But he looked at Luke with the specific expression of someone who had confirmed a fear they were hoping was unfounded.
+
+[ SEVEN YEARS AGO ]
+
+The vote happened on a Thursday.
+
+Luke had spent three months building his case. Documents. Technical analysis. The risk of deploying before the exit protocol was confirmed. The people who would become the experiment before anyone knew the experiment was survivable. He talked to Eric for two weeks and Eric said, at the end: "I think you’re right. But I also think the others won’t hear it."
+
+"Make them hear it," Luke said.
+
+"I’ve been trying." Eric looked tired. "Luke. I’ve been trying."
+
+Three to one.
+
+Renne and Davan and Eric, in favor. Luke, opposed.
+
+He sat in the room afterward for a long time. Looked at the walls. Looked at his hands. Thought about the part at the bottom of the stack, the architecture Meridian had called sophisticated enough.
+
+They don’t know how sophisticated. Nobody does. But when the technology goes live before it should, and something goes wrong for someone because it wasn’t ready—
+
+I need there to be a door I left unlocked.
+
+He did not tell Eric what he was going to do.
+
+This was the thing he still carried, seven years later: he did not tell Eric. Eric had voted wrong but he hadn’t been glad about it. He had the look of someone who made the choice they felt they had to and was not at peace with it. Luke could have told him. Maybe Eric would have helped. But he was three to one and he had learned not to trust the margins.
+
+He started building the same night.
+
+He had thirty days from the vote to the formal transfer of ownership.
+
+During that time he still had access to the maintenance deployment pipeline. There was a seasonal event scheduled for the week before handover — the Winter Convergence, an annual update the players had been anticipating for two months, full of new quests and cosmetics and the kind of content that made players look forward and not at the seams of the world they were standing in.
+
+He used it.
+
+Three fragments of code, embedded in the maintenance build. Slipped into the seasonal event rollout the way you slipped a key into a lock you weren’t supposed to have — carefully, and in the noise of everything else happening at once. The fragments were not labeled. They were not named. They had no in-game description, no lore entry, no quest attached to them. They were just objects the architecture could not classify: three pieces of something that, if they ever existed simultaneously in the same instance, would make the system functionally incomplete for what Meridian needed it for.
+
+He committed the build. Ran the maintenance cycle. Watched the seasonal event go live without incident.
+
+He never found out exactly where the fragments spawned.
+
+That was intentional. If he knew, and Meridian ever found ways to ask him—
+
+The system, encountering three unclassified objects with no name and no context, did what systems did with unclassified objects: it tagged them, assigned them spawn parameters, made them discoverable. It gave them a label.
+
+’Aethelgard Contracts,’ the system called them. He didn’t know why that word. He hadn’t chosen it.
+
+On the thirty-first day the transfer completed. Above the table, Aethelgard became Meridian’s property. Below the table, somewhere in the world he had built, three fragments of a failsafe were spawning in zones he had not yet visited.
+
+He created a player account that night. Username: Miles Vexley. Starting class: Warrior. Starting zone: the camp near the east portal, the same camp where, six years later, a woman in a gray robe would sit on a creaky bench and wait to find out what she was supposed to do with the rest of her existence.
+
+He logged in for the first time as a player in the world he had built. It looked different from the inside. Bigger. Louder. Full of people who had no idea they were standing in something a twenty-two-year-old had stayed up thirty-six hours to make real.
+
+I have to find them the same way anyone would. No map. No shortcut. Just a player, looking.
+
+He opened his inventory. It was empty except for a starting sword and a pair of boots that were objectively terrible.
+
+He started walking.
+
+[ NOW ]
+
+Seven years of walking.
+
+Seven years of building a guild strong enough to protect what he found and skilled enough that nobody thought to look too hard at why the guild leader cared so much about objects that the rest of the server treated as rare collectibles. Seven years of being Miles Vexley — the name he had given himself when he’d needed to become someone who could do this, someone with no history attached to the world he was inhabiting, someone Meridian would see only as a player and never as the person who had buried the thing they were looking for.
+
+He had not spoken to Eric in seven years.
+
+That was the thing about the man he had called a friend for eleven years and a stranger for seven and something-without-a-name since yesterday: he knew Eric’s face. He knew how Eric stood. He knew the specific angle of Eric’s jaw when he was thinking hard and the way his hands moved when he found a solution and the exact tone of voice he used when he was trying to convince himself as much as the room.
+
+He had watched Eric’s face when he said ’you have no idea what they’ll do once they have all three Contracts’ and Caelric had fallen.
+
+He had watched him write something after. He hadn’t been close enough to read it but he knew from the angle and the duration that it was a question, not a statement.
+
+What did Meridian not tell me.
+
+No question mark. Still deciding whether to commit to the uncertainty.
+
+He doesn’t know about Livia. He voted to sell something he thought was a game and he is only now beginning to understand it was never just a game. He wrote the lore. He named the world. He spent two years making it beautiful and he sold it and somewhere between then and now the technology went live too early, and someone ended up here who wasn’t supposed to, and that person is two corridors away and has chosen — with full knowledge — to stay.
+
+I don’t know what to do with that. With him. With the distance between the person who voted wrong and the person who is only now starting to ask the right questions.
+
+Miles — Luke — sat on the edge of the planning room table in the quiet after everyone had gone to sleep and looked at his hands.
+
+The hands that had written the algorithm that made grass move like real wind. The hands that had committed the maintenance build on a Thursday night while the seasonal event banner loaded in a dozen server zones. The hands that had, on the morning after the transfer, logged into a world they had built as a stranger and started looking for something they had hidden without knowing where it was.
+
+I built this world thinking about the person inside it. I didn’t know the person inside it would be her. I didn’t know she would choose to stay. I didn’t know that the thing I was most afraid of would wear a gray robe and sit on a creaky bench and be, somehow, exactly what this guild needed.
+
+I don’t know if what I built was a protection or a trap or both. Probably both. Most things I build are both.
+
+But the failsafe held. And she chose this. And the guild is still standing.
+
+And Meridian still doesn’t know that Miles Vexley helped build the world they’re trying to use.
+
+For now, that matters.
+
+He stayed in the dark for a while. Then he went to sleep.
+
+Tomorrow was going to need him. It always did.
+
+[The system notes: the name ’Luke’ appears nowhere in the official Aethelgard record. The system notes: the system knows it anyway. The system notes: there is a line of code, twelve years old, in the deepest layer of the entity registry, written in a style no other part of this architecture uses. It has never been called. The system notes: the system encountered this line once, early in its existence, and did not know what to do with it, and so filed it as pending. The system notes: pending. The system notes: the system has been meaning to get back to that.]
+
+[END OF CHAPTER 70]
+
+[END OF ARC IV: THE THINGS THAT STAY]
+
+Coming Next: Arc V

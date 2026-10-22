@@ -1,0 +1,247 @@
+Chapter 68 — The Open Door
+
+ARC IV: THE THINGS THAT STAY
+
+SYNOPSIS: The morning after. Miles calls the full guild together and tells them everything. Then Livia speaks. Fifty-one people process what she said. One of them already knew.
+
+GUILD HALL, B&B — 09:14
+
+The message went out at eight in the morning.
+
+[Miles Vexley]: Main hall. One hour. Everyone. And I mean everyone. If you don’t know where the main hall is, find Bron, he will carry you there if necessary.
+
+[Bron Ironslam]: I will absolutely do this.
+
+[Alaric The Blessed]: does ’everyone’ include people currently asleep on a bench in the east corridor
+
+[Miles Vexley]: Yes.
+
+[Alaric The Blessed]: ok that bench is really uncomfortable anyway
+
+By nine-fourteen they were all there.
+
+Fifty-four guild members, plus Yuki at the edge with a recording crystal she hadn’t turned on. Margo near the back, quiet. Blorbo by the door. The hall was past comfortable capacity and nobody mentioned it. People arranged themselves on benches, the long table, the second step of the staircase, a windowsill. Bron stood because sitting felt wrong to him this morning.
+
+Livia stood on Miles’s left. Not at the front, not at the back. The place that was beside him without being in front of the room herself.
+
+Fifty-four people. Plus Yuki and Margo and  a frog who has more sense than most of the humans in this building.
+
+Whatever he’s about to say, he needs to say it himself.
+
+Miles didn’t pace. Didn’t look at the floor. He stood at the front and let the room settle and started talking.
+
+"Aethelgard was built by four people," he said. "About twelve years ago. We were in university. We thought we were building a world." He paused. "We were."
+
+The room was listening.
+
+"Eight years ago, a company called Meridian Interactive made an offer to buy it. Complete acquisition. Full control of the architecture, the codebase, everything this world runs on. Three of the four people who built it agreed to sell. I didn’t."
+
+"Meridian wasn’t buying Aethelgard because they liked MMORPGs. They were buying it because Aethelgard’s architecture is compatible with technology they’ve been developing for years. Technology for transferring human consciousness into a persistent digital environment."
+
+The silence changed quality.
+
+"That technology is not ready," Miles said. "It wasn’t ready eight years ago. Which means that anyone who enters this system through that method has no guarantee of getting back out." A pause. "That was what I objected to. Not the acquisition. The people who would become the proof of concept before anyone had confirmed the concept was survivable."
+
+"I was outvoted. Three to one."
+
+He let that sit. Then:
+
+"I had thirty days from the vote to the formal transfer. During that time I still had access to the maintenance deployment pipeline. There was a seasonal event scheduled for the week before handover." He looked at nothing in particular. "I used it."
+
+"I embedded three fragments of code into the maintenance build. Fragments that, when all three activate in the same instance, make the architecture functionally incomplete for what Meridian needs it for. I didn’t name them. I didn’t label them. They were just pieces of something unfinished, buried inside a routine update."
+
+"The system named them," he continued. "The architecture encountered objects it couldn’t classify and did what it does with unclassified objects: tagged them, assigned spawn parameters, made them discoverable. It called them Aethelgard Contracts. I don’t know why that word. I didn’t choose it."
+
+"Spawn parameters," Alaric said slowly. "They appear… randomly."
+
+"Yes. I didn’t know where. That was intentional. If I knew and Meridian ever found ways to ask me — the fragments appear at intervals, in different zones. I had to find them the same way any player would."
+
+Bron said it before anyone else could: "That’s why you play. That’s why Miles Vexley exists. You built this world and then you had to play it to find what you hid inside it."
+
+"Yes," Miles said.
+
+"Meridian doesn’t know I’m in here," Miles continued. "They know there is a player named Miles Vexley who leads the number one guild and has been holding Contract fragments. They don’t know Miles Vexley built this world. If they knew —" He left the rest unsaid. "Above the table, Aethelgard belongs to Meridian. That fight is over. I lost it. But inside this world, there is no rule that stops a player from playing."
+
+"Seven years ago, someone figured out I was in here. Not who I was — just that I was protecting something valuable. Two professional players were hired to take a Contract from me. They found me at a location someone had described to them." He said it simply. No accusation in it. "Five against one. I lost one Contract. I’ve spent seven years making sure I don’t lose the others."
+
+"Why didn’t you tell us?" Bron asked.
+
+"Because I thought knowing would put people at risk. Because I thought the fewer people who understood what the Contracts were, the less useful it was to target anyone other than me." A pause. "I was wrong. I was protecting information when I should have been trusting people. And it cost us a war that might not have needed to be a war."
+
+He said I was wrong. Out loud. In front of fifty-one people and a frog. Without being asked to.
+
+Miles looked at Livia.
+
+Two seconds. A glance that asked something.
+
+I know. This part is not yours to tell.
+
+"There’s something else," Miles said. "Something I think someone else should explain, because it’s not my story."
+
+Fifty-four people looked at Livia.
+
+She hadn’t prepared a speech.
+
+"Yesterday," she said, "we went to the Cradle of Aethon. Yuki, Margo, Blorbo, and me. We retrieved the third Contract." She looked at the room. "While we were there, something happened. An entity inside the Cradle made contact with me in a way that involved memory. Fragments of my own memory, from before I was here."
+
+She took a breath.
+
+"I exist in Aethelgard as an anomaly. The system has never been able to classify me correctly. Nine months and I still don’t have a combat stats just like everyone else, I’m not on any registry, and according to the architecture I’m something the world doesn’t have a category for." She paused. "I think I know why. I think I got here the same way Miles was afraid other people would get here. Not intentionally. Not because anyone planned it. Because something in the technology that was supposed to be impossible went wrong, or went early, and I was in the way when it did."
+
+"I don’t know what happened in the real world. I don’t know if I’m okay there. What I know is that I’m here, and I have been here for almost ten months, and I have chosen — every day, with full knowledge — to keep being here."
+
+Silence.
+
+Then Bron sat down. Heavily. On the nearest bench. He looked at his hands, then at the shield fragment, then at the floor, and the thing on his face was not surprise — it was recognition. The specific expression of someone receiving information that explained something they had felt for a long time without knowing what it was.
+
+"That’s why," he said, to himself as much as anyone. "That’s why it always felt like you were actually here." He looked up at her. "Are you scared?"
+
+"Sometimes," Livia said. "Not right now."
+
+Bron nodded. Like the honesty of it was more important than the content.
+
+"Good," he said.
+
+Nyx said nothing.
+
+He stayed where he was against the wall, the broken flashlight halves in his hand, while the room moved around him — people sitting down, looking at each other, reaching for words, the various shapes that fifty-four people processing the same thing simultaneously produced. Nyx was already still before any of it started.
+
+Livia noticed this while she was talking to Bron. She looked toward the wall and found Nyx there, not processing, not arriving — already at the destination everyone else was just reaching. He met her eyes. Nodded once.
+
+He’s been here for months.
+
+At the start of the Resonance Championship, he pulled me aside and said the event might expose more than my class or my robe. He said: this might put your name out there. Your actual name. Livia Marcelline Quinn. That’s a real name. Not an NPC handle. Not a system designation. Someone named you that.
+
+I filed it. I didn’t understand what he was filing toward. He did.
+
+Alaric had put the cracked die on the table and was looking at it.
+
+"You’ve been listening to us," he said. "All of it. The stupid things. The things we’d never have said if we thought you had your own—"
+
+"Your own version of all of it," Livia finished. "Yes."
+
+"Does it bother you? That we didn’t ask?"
+
+"No," she said. "You trusted me enough to say the hard things. That’s not nothing. That’s actually most of it."
+
+Alaric picked up the die. "You still owe me a retroactive billing session. For all the times you listened while having your own version running underneath."
+
+Three people laughed. Then more. Smaller than usual, more tired, more real.
+
+Alaric doing what Alaric does. Giving the room permission to breathe without making the thing smaller.
+
+Nobody left.
+
+Osric, from the back, raised his hand. "The sessions. Does this change anything? About the door being open?"
+
+The room went quiet. He had asked the question several people hadn’t found words for yet.
+
+"No," Livia said. "Nothing changes. The door is open. It stays open."
+
+Osric nodded. Around him, small shifts — shoulders dropping, something easing.
+
+Nine months. Three hundred and twelve sessions. And the question that mattered most was not 'who are you really.' It was 'are you still here.'
+
+Phina came to her when the hall had loosened into smaller conversations, Glimmer quiet on her shoulder.
+
+She looked at Livia for a moment with the expression of someone who had given everything yesterday and arrived on the other side to find the person it was partly about still standing in front of them.
+
+Then she hugged her, briefly and precisely.
+
+"You’re going to tell me you’ve been fine this whole time," Phina said.
+
+"Mostly," Livia said.
+
+"Good. Then we’re keeping you."
+
+"I wasn’t going anywhere."
+
+"Better," Phina said. Glimmer pulsed once. Noted. Filed. Confirmed.
+
+Margo found her near the window, still holding the wildflower from the walk back.
+
+"I’m not going to ask how you are," Margo said. "You just told fifty-four people how you are. That’s enough for one morning."
+
+"Thank you," Livia said.
+
+Margo looked at the wildflower. Then at Livia, with the careful expression of someone holding something they have not yet decided to put down.
+
+Not yet. The decision went back to holding.
+
+"I’m staying," Margo said simply. And went to find tea.
+
+Nyx found her before Miles did.
+
+Not in the main hall — in the corridor outside it, where she had stepped for a moment of air before the afternoon started filling with whatever the afternoon was going to bring.
+
+He leaned against the wall across from her. Held up the two halves of the flashlight between them, not speaking.
+
+"Nyx," she said.
+
+"I know," he said.
+
+A pause.
+
+"The Championship," Livia said. "When you told me the event might expose my name."
+
+"Yes."
+
+"You meant it more than I understood."
+
+"You were going to understand it when you were ready to understand it," he said. The way Nyx said things — plain, without the edges filed down. "I didn’t need you to understand it then."
+
+She looked at the flashlight halves in his hand.
+
+"You could have said something. After that. Any time in the last months."
+
+"I know," he said. A pause. "You had a door that was slightly open. That was already the right thing. I didn’t need to make it bigger."
+
+He knew and he kept the door open anyway. Not to protect me from the truth — because he understood the truth was mine to say when I was ready to say it.
+
+He has been carrying this quietly for months.
+
+She didn’t say thank you. It would have been the wrong word. She just looked at him, and he looked back, and that was what was needed.
+
+He went back inside. She stayed in the corridor for a little while longer.
+
+Miles was at the window when she found him.
+
+"Thank you," Livia said.
+
+"For what?"
+
+"For saying I was wrong. Out loud. In front of everyone."
+
+"It should have cost more," he said. "I waited too long." He looked at the courtyard. "I think I was just afraid."
+
+"Those two things are sometimes the same thing," Livia said.
+
+"That’s either very wise or very convenient."
+
+"Probably both."
+
+Something in him eased.
+
+"Meridian isn’t finished," he said.
+
+"I know."
+
+"Yesterday bought us time. Not resolution."
+
+"I know that too."
+
+"Then I guess we figure out what to do with the time."
+
+Yes. But not today. Today is for tea and morning light and letting people who held a siege vehicle line for eight hours sleep until noon.
+
+Today is for the guild knowing everything and still being here.
+
+[The system notes: 10:47. New designation queued for one Livia Marcelline Quinn: PENDING REVIEW. External classification authority: [REDACTED]. The system notes: this review request was submitted at 09:31, during a guild assembly it should have had no visibility into. The system notes: the system did not submit this request. The system notes: someone else did. The system notes: the system is keeping track.]
+
+——————————
+
+[END OF CHAPTER 68]
+
+Arc IV: The Things That Stay
+
+Next: Chapter 69 — The Right Pace

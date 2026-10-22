@@ -1,0 +1,181 @@
+Chapter 57 — Old Ground
+
+ARC IV: THE THINGS THAT STAY
+
+SYNOPSIS: Eastern approach. Margo, still learning to read a map that doesn’t work like any map she’s used before, takes a wrong turn at exactly the wrong moment. Yuki notices her missing before Livia does, and panics in a way that surprises everyone, including herself. Somewhere off the marked path, in a clearing nobody has logged in six years, Margo finds something she has no context for — and neither, yet, does she know it matters.
+
+EASTERN APPROACH — 07:40
+
+They broke camp at dawn.
+
+Nobody had slept well. Livia least of all — she had drifted in and out through the night with the war feed open in the corner of her vision out of habit, even after it had gone dark for the night, even after there was nothing left to watch except a status line confirming that B&B was still active, still fighting, still holding. She had woken before the others, made tea nobody had asked her to make, and sat with it going cold while she waited for the camp to wake up around her.
+
+Margo woke up apologizing for something nobody had accused her of — a habit Livia recognized from university, the specific reflex of someone whose mornings had never quite trusted themselves to be acceptable without a preemptive apology attached. She ate two of her forty-seven apples for breakfast. She offered one to Blorbo, who accepted it with the solemnity of a formal gift exchange.
+
+"We have maybe three hours to the Cradle from here," Yuki said, studying her HUD map. "The terrain gets rougher past the second waypoint. Stay close on that stretch."
+
+"Define close," Margo said.
+
+"Within sight."
+
+"Got it."
+
+She did not, in fact, have it. Livia would think about this later — how confidently Margo had said it, and how little that confidence had to do with whether it was true.
+
+SECOND WAYPOINT — 09:15
+
+The trouble with Margo and maps was not that she couldn’t read them. It was that she had spent her entire gaming life — all six days of it — reading maps that behaved like maps: north was up, scale was consistent, paths that looked connected were connected. Aethelgard’s terrain rendering didn’t always cooperate with that logic, especially this far from the rendered zones, where the engine prioritized atmosphere over cartographic honesty and a path that looked like a straight line on the overlay could, in practice, fork around an outcropping that the map hadn’t bothered to draw.
+
+She had been keeping pace. She was fairly sure she had been keeping pace. Margo, three meters behind and slightly to the left, saw what looked like the same path continuing around a rock formation and took it.
+
+It was not the same path.
+
+By the time she registered that the terrain had changed — the grass here was different, sparser, the color slightly wrong in a way she couldn’t name — she had gone far enough around the outcropping that looking back showed her more rock than people.
+
+"Livia?" she said, to the empty air. "Yuki?"
+
+Nothing.
+
+Okay. Okay, this is fine. This is just a video game.
+
+She kept walking, on the theory that walking toward where she thought the group should be was better than walking nowhere, which was a theory that would have benefited from more than four hours of sleep behind it.
+
+EASTERN APPROACH — 09:17
+
+Yuki did the headcount without thinking about it. It was a combat habit, not a social one — four years of dungeon runs had drilled into her the reflex of knowing, at all times, exactly how many people were supposed to be in her party and exactly how many currently were. She did it automatically, the way she checked her mana bar or scanned for environmental hazards. Background process. No emotional weight attached.
+
+Livia. Blorbo. Herself.
+
+Three.
+
+She did the count again, because the first count had clearly been wrong.
+
+Still three.
+
+"Where’s Margo," Yuki said.
+
+It came out faster and higher than she intended, the words tripping slightly over each other, and Livia turned with an expression that suggested this was not how Yuki normally sounded about anything.
+
+"She was right behind us," Livia said.
+
+"She was not right behind us. I would have counted her in right behind us." Yuki was already moving, scanning the rock formation, her staff coming off her back with a speed that had nothing to do with the actual threat level of a missing party member and everything to do with something Yuki had not examined closely enough to name yet. "Margo!"
+
+Nothing came back.
+
+"Okay," Yuki said. "Okay, this is — she’s level four. She has a sword that does negligible damage and apples and absolutely no situational awareness and I let her walk three meters behind me without checking and now she’s—" She stopped herself. Took a breath that did not noticeably calm anything. "I’m going to kill her. After I find her. I’m going to find her and then I am going to kill her."
+
+Livia looked at her for a moment with the particular attention of someone recognizing something in real time.
+
+That’s not how Yuki sounds about a tactical problem. That’s how Yuki sounds about something she’s scared of losing.
+
+"We’ll find her," Livia said. Calm. Deliberately calm, the kind of calm she’d learned to project specifically for moments when someone else needed to borrow it.
+
+"I know we’ll find her," Yuki snapped. Then, immediately: "Sorry. I know. I just — she doesn’t know how any of this works yet. She doesn’t know what’s dangerous and what isn’t."
+
+Blorbo, hopping along behind them with what was, for a frog, an impressively brisk pace, offered: "Statistically, most areas adjacent to a marked safe path retain reduced hostility ratings."
+
+"That is not helping, Blorbo."
+
+"I am attempting to be reassuring."
+
+"Try harder or try quieter."
+
+They rounded the outcropping at a near-run, Yuki half a step ahead of everyone, scanning the terrain with an intensity that made it look, for a moment, like she expected the rocks themselves to have done something to Margo personally and was prepared to hold them accountable.
+
+UNMARKED CLEARING — 09:21
+
+Margo found the clearing by accident, which was, she was beginning to suspect, the only way she found anything.
+
+It opened up past a stand of dead-looking trees, wider than she expected, the ground flat and strangely bare in a way that didn’t match the wilder terrain around it. No quest marker. No NPC. No glowing resource node, no ambient music shift, none of the cues the game usually gave you when you’d walked into something that mattered.
+
+It just felt wrong.
+
+Not hostile-wrong, not the prickling unease of a trap about to spring. Old-wrong. The specific quality of a place that had had something happen to it a long time ago and had never quite finished healing.
+
+She walked further in before her brain caught up to her feet and suggested, with some urgency, that this was probably the kind of place Yuki had meant when she said stay close.
+
+Too late for that now.
+
+There was a scar across the ground — not a crack, not erosion, something cleaner than either, a long, precise gouge that ran in a single curved line across nearly the entire clearing, as if something enormous and very sharp had passed through in one motion and the earth had simply never recovered the texture it used to have. Margo crouched beside it. The edges were too smooth to be natural. Too deliberate to be random damage.
+
+A few meters past it, scorched into a cluster of boulders: a blast pattern. Concentric, radiating outward from a central point, the rock surface glassy and discolored in a way that reminded her, with a small unpleasant jolt, of the war footage from the night before — the heat-warped air, the construct’s breath crossing open ground, the ground turning to glass beneath it.
+
+This looked like that. Older. Weathered. But unmistakably related.
+
+Something fought here. Something fought here a long time ago and whatever it was, it left marks the game still hasn’t bothered to clean up.
+
+She didn’t have the vocabulary yet to know what she was looking at — didn’t know that the curved scar matched, almost exactly, the particular follow-through of a psychoblade swing thrown by someone who had been fighting for his life and had committed to the strike completely. Didn’t know that the blast pattern matched, in shape and signature, constructs built from crystallized mana and fused fire specialists, six years before anyone had built one for this war.
+
+She just knew it felt important, in the vague, prickling way that things felt important before you understood why.
+
+A sound behind her. Not footsteps — something lower, scraping, the particular drag of something that didn’t walk so much as pull itself.
+
+Margo turned.
+
+The entity that rose out of the scorched ground was not large. That was almost worse — if it had been large, it would have looked like a threat from a distance, given her time to react. Instead it simply unfolded out of the discolored earth near the blast pattern, low and fast, a tangle of blackened root-like limbs that moved with the jerking, arrhythmic quality of something that had been corrupted rather than created, an echo of violence that had settled into the terrain itself and given it teeth.
+
+A status window flickered at the edge of her vision:
+
+SCARRED REMNANT — LV. 38 — HOSTILE.
+
+Margo had a sword. The sword did, by her own honest assessment, negligible damage.
+
+"Okay," she said, out loud, to nobody, drawing the blade with hands that were not entirely steady. "Okay. New plan. The plan is: scream very loudly and hope someone hears it."
+
+"MARGO!"
+
+That was not a plan working. That was Yuki, somewhere close, closer than Margo had dared hope, the name torn out of her with an urgency that didn’t sound tactical at all.
+
+"HERE!" Margo shouted back, dodging sideways as the Scarred Remnant lunged, the motion clumsy enough that she got clear more through luck than skill. "I’M HERE, I FOUND A WEIRD CLEARING AND A MONSTER, IN THAT ORDER, MOSTLY UNRELATED —"
+
+Yuki broke through the dead trees at a dead run, staff already up, and the spell that left it caught the Scarred Remnant mid-lunge and threw it backward into the scorched rocks hard enough that it didn’t immediately get up.
+
+"Are you hurt," Yuki said. Not a question — flat, urgent, already crossing the distance.
+
+"No, I’m—"
+
+Yuki grabbed her by both shoulders, checked her face, her arms, the general fact of her being upright and breathing, with a thoroughness that had nothing to do with HP bars. "Don’t do that. Don’t — you have to stay where I can see you, that’s the entire point of stay close, it’s not a suggestion, it’s the only thing standing between you and —" She gestured, somewhat wildly, at the twitching Scarred Remnant. "That."
+
+"I’m sorry," Margo said. "I took a turn that looked like the same path and it was not, in fact, the same path."
+
+"I noticed."
+
+Livia and Blorbo arrived a few seconds later, Livia slightly out of breath, Blorbo not at all because frogs apparently didn’t experience cardiovascular strain the way mammals did. Livia took in the scene — Yuki’s hands still gripping Margo’s shoulders, the downed Remnant, the scarred clearing — and her Therapist’s Insight, quieter and more automatic than Structural Read, registered something before she’d consciously decided to look for it.
+
+Yuki is still holding on. She found her and she is still holding on like letting go might undo it.
+
+Yuki seemed to notice the same thing about herself half a second later. She let go of Margo’s shoulders like they’d become unexpectedly hot, stepped back, and busied herself with finishing off the Remnant with more force than the Lv. 38 entity strictly required.
+
+"Don’t wander off," she said again, to the Remnant’s dissolving form, which was not in a position to disagree.
+
+Margo, watching this with the particular attention of someone who had known Livia long enough to read a room even in an unfamiliar genre of room, glanced at Livia. Said nothing. Filed it.
+
+Once the immediate danger had dissolved into experience points nobody bothered to check, Livia walked the clearing herself.
+
+The scar in the earth. The blast pattern on the boulders. She crouched where Margo had crouched, running her fingers an inch above the gouged earth without quite touching it, and felt something she couldn’t fully name — not Structural Read, not exactly, but a kind of recognition that didn’t come with words attached. Like walking into a room where an argument had happened hours ago and the air still hadn’t settled.
+
+"What is this place?" Margo asked.
+
+"I don’t know," Livia said, honestly. "Somewhere old. Something happened here."
+
+She did not know — not yet, not with any certainty — that the curve of that scar matched a motion she had seen Miles make a hundred times, in sparring, in casual demonstration, in the unconscious habit of someone testing his blade’s edge against open air while thinking about something else entirely. She did not know that the blast geometry on the boulders matched, in every measurable way, the constructs Cipher and Grimshot had built three days ago for a war that was, in the grand scheme of this server’s six-year history, very recent.
+
+She just felt the weight of it, unattached to explanation, and wrote in her notepad:
+
+Unmarked clearing, six-plus years undisturbed by the look of the growth pattern. A long curved scar in the earth — deliberate, not erosion. A blast pattern on rock, concentric, glassy. Something fought here once. Something significant enough that the terrain still hasn’t recovered.
+
+Margo found it by accident. I don’t think that’s nothing. I don’t know what it is yet either.
+
+She closed the notepad. Looked at the clearing one more time — the dead trees, the bare ground, the specific silence of a place that had been left alone for a very long time and had not asked anyone to come back.
+
+"We should keep moving," Yuki said. Her voice had returned to its usual register, controlled, efficient, but she kept Margo half a step closer to her side than strictly necessary as they walked, and didn’t seem to notice she was doing it.
+
+Margo noticed. She didn’t say anything either.
+
+[The system notes: location flagged — unregistered combat residue, age estimate: six years, ten months. The system notes: this location does not appear in any active or archived quest database. The system notes: the system has cross-referenced the scar geometry against its combat history logs. The system notes: there is exactly one match in six years of recorded data. The system notes: the system is not going to say what it found. The system notes: not yet. The system notes: some things are not the system’s to surface before the person who needs to find them does.]
+
+[END OF CHAPTER 57]
+
+Arc IV: The Things That Stay
+
+Next: Chapter 58 — Riven’s Moment

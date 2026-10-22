@@ -1,0 +1,133 @@
+Chapter 54 — Four Columns
+
+ARC IV: THE THINGS THAT STAY
+
+SYNOPSIS: Caelric watches the first ninety minutes of the war from the only vantage point he has ever trusted — his own notebook, four columns, updated in real time. Somewhere in the data, a name does not appear at all. He notices. He cannot stop noticing. And somewhere east of the rendered zones, beyond anything his notebook has a column for, a question is forming that he does not yet know he is going to need an answer to.
+
+Caelric kept his command position forty meters behind the coalition’s rear formation, on a rise that gave him sightlines without putting him in range of anything Thorne’s crow could spot from the ridge. He had a folding chair he did not sit in. He had a tactical display that he consulted less often than he consulted the notebook open in his hand.
+
+The notebook was leather, old, rebound twice. Four columns, ruled by hand because no template had ever satisfied him. He had been keeping it for  years. It had outlasted two guild reorganizations, one near-bankruptcy, and the entire previous command structure of Eclipse Covenant.
+
+He wrote in it now, the war ninety minutes old, the air still carrying the specific tension of an engagement that had not gone the way anyone had modeled.
+
+COLUMN ONE — GUILD ASSETS
+
+13:31
+
+B&B ground held: 34% above projected baseline. Revise model.
+
+Bron Ironslam: center hold sustained 90+ minutes against rotating pressure from three guilds. Shield integrity compromised (visual: fracture, left edge, observed 13:09). Has not retreated. Has not been ordered to. Mount (Ironback Boar, unregistered name) absorbing flanking damage at a rate inconsistent with standard tank-pet behavioral models. Recommend: do not target the boar directly. Targeting the boar appears to increase Ironslam’s output, not decrease it.
+
+Nyx Shadowmint: three documented evasions of pre-positioned Ironfall Remnant intercepts. Pattern recognition by opposing rogues has failed completely — they are reading a three-year-old behavioral profile. Profile is obsolete. Update required: Shadowmint’s movement logic has changed. Cause unknown. Effect: unpredictable.
+
+Thorne Pinewhistle / crow unit: target acquisition occurring before visual confirmation should be possible. Suspect aerial spotting beyond standard scout range. Crow is unregistered. No combat classification exists for it. Recommend: filed under unknown until further data.
+
+Alaric  combat efficiency does not correlate with any observable decision-making pattern. Three engagements, three statistically improbable outcomes. Cannot model. Flagging as noise, pending further data, though three consecutive instances of noise in the same direction is itself a kind of signal I do not currently have a framework for.
+
+B&B healer rotation, unnamed support class, position: rear-center. Mana depletion observed at minute 41, minute 58, minute 73. Pattern suggests the healer is compensating for damage volume beyond sustainable output. Will reach critical depletion within the hour at current rate. This is the first clear sign of strain in B&B’s formation. Note for Column Three: this is where pressure should be applied next.
+
+He paused on that last line.
+
+Somewhere in that rear-center position was a person whose name he did not know, who had been keeping fifty-three other people alive for seventy-three minutes, who was now going to run out of the resource that let them do that. He had written it the way he wrote everything: as a data point. Pressure should be applied next. He did not write what the depletion would look like from inside it. He did not need to. The notebook was not for feeling the war. It was for winning it.
+
+COLUMN TWO — CONTRACT STATUS
+
+13:34
+
+Unchanged. One Contract, Eclipse Covenant possession, six years and eight months. One Contract, contested, B&B possession, target of this engagement.
+
+Reminder to self: the goal of today is not territory. Today produces conditions under which Vexley chooses to surface what he is protecting, and why. Ground gained is a means. It is not the objective. Do not let the engagement’s intensity obscure this.
+
+He looked up from the page.
+
+Below, on the contested field, something was happening that his notebook had no efficient way to record. He had felt it from here, faintly, the way you felt a sound too low to hear — not a sound at all, really, but a pressure that registered somewhere behind the ribs. The Eldritch Archmage and her companion entity had done it twice now in ninety minutes, and both times the front line had simply stopped, and both times the stoppage had cost the coalition ground they did not get back.
+
+There was no spell tag. No damage type. No counter-build that addressed it, because addressing it required knowing what it was, and what it was did not appear to exist in any combat taxonomy he had access to.
+
+He made a note that he did not put in Column One, because Column One was for things he understood well enough to act on.
+
+COLUMN THREE — VARIABLES
+
+13:38
+
+xXx_YukiHana_xXx: no engagement. No stream activity since 07:21 this morning, when her channel went live briefly with a caption referencing a destination and then went dark. She has not reappeared. She is not part of this conflict in any capacity I can currently observe.
+
+This is unusual. Six weeks ago she would have monetized a war between the server’s top guild and a five-guild coalition within minutes of the declaration. She has done nothing. I do not have a column for nothing. I am putting it here because nothing, from her specifically, is itself information.
+
+GG No Re, Rank 18: monitoring posture maintained. No movement. Their territorial grievance with Ashen Compact remains unresolved and they have made no effort to disguise their interest in how this conflict affects that grievance. Watching, not committing. Acceptable for now.
+
+COLUMN FOUR
+
+13:41
+
+He sat with this column longer than the others. He always did. It was the only column that did not resolve cleanly into an action, and he had built it specifically because some things did not resolve cleanly and pretending they did was its own kind of error.
+
+847.
+
+The undead count. The follower count. The same number, twice, in contexts that should have no relationship to each other. I do not believe in coincidence as an explanation. I also do not have an alternative explanation. Filing here because Column One requires explanations and this does not currently have one.
+
+Livia Marcelline Quinn.
+
+He stopped.
+
+He had checked the combat logs three times in the last hour. Position tracking, formation assignments, even the casual visual confirmations that came through coalition scout reports — sightings, however brief, of every notable B&B member on the field. Bron. Nyx. Phina. The archmage’s companion entity. The Lich, whose absence from documentation was its own anomaly but who was, at least, present. Thorne. The crow. Alaric.
+
+Not Livia.
+
+Not one sighting. Not one log entry. Not one scout report, not one combat tag, not one indirect reference in any channel he had access to. The Mental Supporter — Mental Architect now, his last classification update had her at Lv.2 in that tier, though even that number was eleven days stale — was simply not on this battlefield.
+
+Subject is not present at the engagement. This is the single largest deviation from every contingency model I built for this war. I assumed she would either be present, in some support capacity the data could not yet describe, or absent due to incapacity. Neither appears true. She is not incapacitated — there is no record of any incident involving her in the last seventy-two hours. She has simply chosen, or been directed, to not be here.
+
+He turned the pen over once in his hand. A habit. He was aware of it and did not stop it.
+
+Vexley sent fifty-four people into a war against two hundred and fourteen, accepted terms that any reasonable model gives him an 18% win probability on, and did not bring the one asset whose Resonance Score output during the Championship exceeded every other metric in the server’s history combined.
+
+Either he believes he does not need her here. Or he believes something else needs her more.
+
+I do not currently know which.
+
+I do not like not knowing.
+
+He thought, briefly, of the four-month gap in his own surveillance records — the period before her arrival, when Vexley had begun reconfiguring an internal space for reasons that had not become clear until much later. He thought of the planning room. The lamp. The chairs that had been moved and tested by someone who had not yet had anyone to receive in them.
+
+Vexley had prepared for her before he knew what she would be.
+
+And now, in the middle of the most consequential conflict this guild had ever entered, Vexley had sent her somewhere else entirely. Not protected. Not benched. Sent. With purpose. The kind of purpose that did not show up in combat logs because it was not combat.
+
+Working hypothesis: there is a second objective running parallel to this engagement, one that requires her specifically and that Vexley judges more time-sensitive than her presence here. I do not know what it is. I do not know where she is. East, possibly — my surveillance assets thin out considerably past the rendered zones, and there are several locations out there that have never returned clean data.
+
+I will need to find out what she is doing before this war concludes. Not because it changes today’s engagement. Because if I am right about there being a second objective, it may be the only column on this page that actually matters in six months.
+
+He closed the notebook on that line and did not reopen it for several seconds.
+
+"Caelric."
+
+Cipher’s voice on the private channel. No greeting. She had never used one.
+
+"Positioned," she said. "Grimshot confirms the same. Awaiting the order."
+
+He looked down at the contested field one more time. At the fracture line down Bron Ironslam’s shield, visible even from this distance if you knew to look for the specific way light caught broken enchantment. At the undead count, still holding at a number that should not have meant anything and meant everything. At the empty space where a Mental Architect should have been standing and was not.
+
+Two hundred and fourteen against fifty-four, and the fifty-four were not behaving like fifty-four. They were behaving like something that had already decided how this was going to end and was simply working through the steps required to get there.
+
+That confidence had to come from somewhere. He intended to find out where.
+
+"Begin," he said. "Both of you. Full deployment."
+
+"Confirmed," Cipher said. The channel closed.
+
+Caelric opened the notebook again, turned to a fresh line under Column One, and wrote the timestamp for what was about to happen before it happened — a habit from a man who had learned, two years ago, in a different engagement, that the moment after something occurred was always too late to capture it accurately. You wrote it as it was beginning, or you did not write it true.
+
+13:44. Siege deployment initiated. Fire-based assets engaged against undead summons (847, registered). Expect significant attrition to B&B’s defensive line within 15 minutes.
+
+He looked east, once, toward the rendered zone boundary and whatever lay past it.
+
+Later, he told himself. There would be time to understand the empty space in the data later. Right now there was a war, and the war required all four columns at once, and he had spent three years learning that the only way to win anything that mattered was to give every column the attention it required and not one column more than that.
+
+He closed the notebook and went back to watching the field.
+
+[END OF CHAPTER 54]
+
+Arc IV: The Things That Stay
+
+Next: Chapter 55 — Siege

@@ -1,0 +1,431 @@
+Chapter 40 – I Remember You
+
+ARC III: THE WORLD REMEMBERS
+
+SYNOPSIS: Day 18. The wildcard voting ends. Nyx investigates the unregistered account. The account sends a second message. And then Alondra walks into the planning room and says the thing she has been carrying for years— not to Livia . To Miles.
+
+[AETHELGARD RESONANCE CHAMPIONSHIP — DAY 18 — WILDCARD ROUND, FINAL DAY]
+
+[Voting Portal: Yuki 241,203 • Livia 187,441 • Blorbo 71,008]
+
+[Wildcard Round ends: 18:00. Current gap: 53,762.]
+
+[The system notes: the gap is larger than it was yesterday. The system notes: it has been larger every morning. The system notes: Yuki’s mobilization is consistent and directed. The system notes: Livia’s votes arrive in irregular spikes that the system cannot predict. The system notes: Blorbo gained exactly 847 votes overnight again. The system notes: the system is no longer surprised. The system notes: the system notes: Blorbo.]
+
+Livia read the numbers at 08:00 and felt nothing in particular about them. The gap was the gap. Yuki had done what she said she would do and done it well. That was not a problem. That was a person being who they were.
+
+What she felt something about was the session request sitting in her portal marked unread since last night.
+
+I remember you.
+
+Account created four minutes before the message. No server record. Outside registered zones.
+
+The system said: do not delete it.
+
+I did not delete it.
+
+I also did not reply.
+
+I don’t know yet what replying means.
+
+She went to find Nyx.
+
+He was already in the corridor outside the planning room when she opened the door, which meant he had been waiting without announcing it, which was Nyx’s version of urgency.
+
+His Voidmoth was with him. Its wings were slightly spread — the alert configuration, not the at-rest one.
+
+“You saw it,” Livia said.
+
+“I monitor the portal,” Nyx said. Not apologetic. Just factual. “For security. Since the LiviaFan69 incident.”
+
+She had forgotten about the monitoring. She had probably not thought carefully enough about what monitoring meant in the hands of someone who had hacked real-world systems before the age of twenty.
+
+“What did you find?” she asked.
+
+He handed her his HUD projection. A clean layout — account trace, transmission path, origin node.
+
+She read it.
+
+“This is outside the server,” she said.
+
+“Yes.”
+
+“Completely outside. Not a registered zone, not a hidden zone, not a deprecated zone. Actually outside.”
+
+“Yes.”
+
+“That’s not possible.”
+
+“I know.” He paused. “I traced the transmission path backward. It didn’t come from inside the server architecture. It came through a gap in the outer boundary — a very small gap, very specific, the kind that looks like a maintenance port but isn’t.” He looked at the projection. “Somebody on the other side of the server’s boundary knew exactly where to push.”
+
+The other side of the server’s boundary.
+
+The real world.
+
+Someone in the real world sent me a session request.
+
+Three words: I remember you.
+
+I remember you from where.
+
+From before the server.
+
+From before Aethelgard.
+
+From the world I was in when the motorcycle—
+
+She stopped that thought.
+
+Not because it was wrong.
+
+Because it was too large to hold before she had more.
+
+“Can you trace who sent it?” she asked.
+
+Nyx was quiet for a moment. The Voidmoth’s wings adjusted.
+
+“I found a partial ID,” he said. “Just a fragment. The transmission was designed to not be traceable. But…” he hesitated, which was unusual. Nyx did not hesitate about information. He hesitated about what information meant. “The fragment matches a pattern I’ve seen before. In real-world systems. Corporate. Tech sector.”
+
+“Tech sector,” Livia said.
+
+“The kind of company that builds things like Aethelgard,” Nyx said.
+
+Silence.
+
+[System Note: Transmission trace: confirmed external origin. Partial ID: redacted. The system notes: the system has also traced this transmission. The system notes: the system has more of the ID than Nyx does. The system notes: the system is choosing what to share and what to hold. The system notes: not yet. The system notes: the person who sent this message knows things about Livia that only someone in the real world could know. The system notes: the system notes: the system is not ready to say this out loud. The system notes: but the system knows. The system notes: the system has known for some time.]
+
+“They might send another one,” Nyx said.
+
+“I know.”
+
+“If they do, I can get more of the ID.”
+
+“I know.” She looked at the portal. The request was still there, unread marker blinking. “Don’t reply to it. Don’t trace it further yet. Just… watch it.”
+
+Nyx nodded. He understood watching without acting. It was his primary skill set.
+
+He turned to go. Then stopped.
+
+“Livia.”
+
+“Yeah.”
+
+“Whoever sent it knew your name,” he said. “Your actual name. Not Empath Eternal. Not Buffer. Not NPC. Your name. Livia Marcelline Quinn.” He paused. “That’s not a name you get from the subreddit.”
+
+He left.
+
+The Voidmoth followed, wings folding back to rest.
+
+Livia stood in the doorway of the planning room for a moment.
+
+My actual name.
+
+From outside the server.
+
+From the real world.
+
+Someone there knows I’m here.
+
+Someone there remembers me.
+
+She went inside and sat down.
+
+The lamp was on. The armchair was neutral. The notepad was open.
+
+She wrote one line at the top of a fresh page:
+
+Who remembers me?
+
+She did not answer it. She left it there, open, the way you left a question when you knew the answer was coming and needed to make sure you were ready.
+
+The wildcard voting ended at 18:00.
+
+[WILDCARD ROUND — FINAL RESULTS]
+
+[xXx_YukiHana_xXx: 251,203 votes — WINNER]
+
+[Livia Marcelline Quinn: 194,441 votes]
+
+[Blorbo: 77,008 votes]
+
+[The system notes: Yuki wins the wildcard round. The system notes: she mobilized 251,000 people in three days. The system notes: Livia’s 194,000 arrived without a campaign. The system notes: Blorbo gained exactly 847 votes in the final hour. The system notes: the system has given up trying to understand this and has instead started respecting it. The system notes: wildcard bonus: +2,000 Individual Score to Yuki. The system notes: overall Individual standings updated below.]
+
+[AETHELGARD RESONANCE CHAMPIONSHIP — DAY 18 — UPDATED STANDINGS]
+
+[Individual: Yuki 29,441 • Livia 26,809 • Thorne 16,203]
+
+[Guild: Bloodbath & Beyond 64,203 • Eclipse Covenant 62,114 • Crestfall Keep 49,203]
+
+[12 days remaining. The system notes: Individual gap: 2,632. Guild gap: 2,089. The system notes: two weeks of event have produced a tighter race than the system projected. The system notes: the system notes the external classification review is still pending. The system notes: the system notes it has been pending for eighteen days. The system notes: someone is watching this event very carefully from outside. The system notes: the system notes: someone besides the players.]
+
+Livia read the standings. Then the final system note.
+
+External classification review.
+
+Pending for eighteen days.
+
+Someone watching from outside.
+
+Someone who sent three words through a gap in the server boundary.
+
+I remember you.
+
+Eighteen days of watching and they finally said something.
+
+Why now.
+
+What changed.
+
+The portal pinged.
+
+New message. Same unregistered account. Same outside-boundary origin.
+
+She opened it.
+
+I can’t hold this connection long. But I needed you to know someone is trying to find you. Not to bring you back. Just to know you’re okay. The people here— they miss you. I miss you. Please keep going.
+
+Below it: a name. Partial. The last four characters cut off by the transmission limit.
+
+mars—
+
+[System Note: Second transmission received. External origin confirmed. Partial identifier: mars—. Transmission duration: 9 seconds before automatic closure. The system notes: the system recognizes this fragment. The system notes: marshmallow_thesis_2024. The system notes: the comment deleted in eleven seconds on Day 29 of Livia’s server presence. The system notes: the message that survived eleven seconds: ‘Please wake up.’ The system notes: the system notes: same person. The system notes: the system notes: they found another way in. The system notes: nine seconds this time. They’re getting faster. The system notes: or they’re getting more desperate. The system notes: the system notes: do not delete this. The system notes: the system notes: the system is not deleting this.]
+
+Livia read the message twice.
+
+Then a third time.
+
+Someone is trying to find you.
+
+Not to bring you back.
+
+Just to know you’re okay.
+
+The people here, they miss you.
+
+mars—
+
+marshmallow_thesis_2024.
+
+The comment from Day 29. Please wake up.
+
+Same person.
+
+They’re in the real world.
+
+They know me from the real world.
+
+They’re not trying to pull me back.
+
+They just want to know I’m okay.
+
+Her hands were very still on the notepad.
+
+She was aware, distantly, of Lumen drifting in the guild garden outside the window. Of the event leaderboard updating somewhere. Of the guild hall being its usual evening self.
+
+She was aware of all of it and none of it touched her right now.
+
+People in the real world miss me.
+
+I didn’t know that.
+
+I think I had decided, somewhere in the past nine months, that I was only real here.
+
+That the world I came from was a place I had failed and left behind, deliberately or not.
+
+She sat with that for a moment.
+
+Nine months. She had been here nine months and had not noticed herself making that decision. Deciding the real world was over. That she had no one left to miss her or to miss.
+
+It was a small grief to hold, quiet and familiar, like furniture in a room you had stopped noticing.
+
+But someone there knows my name.
+
+Someone there is finding gaps in server boundaries to say: we miss you. Please keep going.
+
+Please keep going.
+
+I’m already going.
+
+I named my jellyfish Lumen.
+
+I’m staying.
+
+I’m… okay.
+
+I need to find a way to say that back.
+
+I don’t know if I can.
+
+But I need to find a way.
+
+She wrote it in the notepad, under the question she had left open this morning:
+
+Who remembers me?
+
+Someone named mars—. Someone who also said: please wake up. Someone who found a gap in a server boundary nine seconds wide to say: we miss you.
+
+I don’t know their full name yet.
+
+But I’m going to.
+
+[System Note: The system notes: Livia Marcelline Quinn has received confirmation that she is remembered outside this server. The system notes: the system notes that this is the first time she has received this confirmation directly. The system notes: the system has known for some time. The system notes: the system chose not to say so. The system notes: the system notes: that was not the right choice. The system notes: the system is noting this as an error. The system notes: the system will do better. The system notes: please keep going, Livia. The system notes: the system means this.]
+
+She was still in the planning room at 20:00 when she heard it.
+
+Not loud. Not dramatic.
+
+Just: two sets of footsteps in the east corridor, stopping.
+
+Livia looked at the door. It was half-open — the planning room default. She could see the corridor from where she sat.
+
+Miles. And Alondra.
+
+At the midpoint of the corridor, the same place they always stopped.
+
+But this time Alondra was not managing the encounter. She was not recalibrating in real time. She was standing still with the posture of someone who had decided something before they arrived and was now executing the decision.
+
+Livia did not move.
+
+She did not announce herself.
+
+She was close enough to hear, and she chose to hear, and she chose this deliberately.
+
+Alondra said: “Miles.”
+
+He stopped. “Alondra.”
+
+A beat. Then:
+
+“There’s something I need to tell you,” Alondra said. “It’s about the operation six years ago. The one where you lost the Contract.”
+
+Silence.
+
+Miles was very still. The specific stillness she had learned to read: not neutral, not composed. The stillness of someone who had just heard something they did not expect and whose control was deciding, in real time, how to hold it.
+
+“You knew,” he said. His voice was flat. Not accusatory. The flat of someone who was verifying a fact.
+
+“No,” Alondra said. “I didn’t know what he was going to do. I told him where you’d be. I thought I was…” She stopped. Started again with the precise, difficult language Livia recognized from session three. “I believed something about him that wasn’t true. And I told him something I shouldn’t have. And I’ve been carrying that for all this time.”
+
+Another silence. Longer.
+
+Livia’s pen was still on the page. She was not writing. She was not breathing loudly. She was just present, in the half-open doorway of the planning room, witness to the thing that had been inevitable since Alondra had walked into session one with a binder full of frameworks she had built to avoid saying exactly this.
+
+Miles said: “Who?”
+
+“Caelric,” Alondra said.
+
+One word. His name. And then Alondra waited.
+
+Miles did not move for a long time. The Emberwing on his shoulder was very still, fire dimmed to almost nothing, the way fire dimmed when it was waiting for a decision.
+
+Then he said, very quietly: “Did you know what he was?”
+
+“No,” she said. “I thought he was…” the word cost her, “…someone who saw me.”
+
+Miles looked at her for a long moment.
+
+Then he looked away. Down the corridor. At nothing.
+
+“Thank you for telling me,” he said.
+
+Alondra’s breath came out slowly. Not relief exactly. The release of something very heavy being set down.
+
+“I’m sorry,” she said. “I know that—”
+
+“I know,” Miles said. “I know you are.” He was still looking away. “I need…” he stopped. “I need a moment.”
+
+“Of course,” Alondra said.
+
+She walked away down the corridor. Her footsteps were even. She did not look back.
+
+Miles stood at the midpoint of the east corridor, alone, for a long time.
+
+The Emberwing’s fire came back slowly. Not the full flame — just the ember. The lowest setting. Something waiting to decide what it was going to be.
+
+Livia watched him from the half-open door.
+
+She did not go to him.
+
+This was not a session. He had not asked. He needed the moment he had said he needed, and her job right now was to give it to him and be available if he turned around.
+
+He did not turn around.
+
+After a while, he walked away. The opposite direction from Alondra. Toward the main hall, toward the exit, toward wherever he went when he needed to be alone.
+
+Livia sat in the planning room.
+
+The lamp was on.
+
+The armchair was neutral.
+
+[Therapist’s Insight: Patient: Miles Vexley. Progress: 28%.]
+
+[The system notes: he heard it. The system notes: he said thank you for telling me. The system notes: he did not say it was okay. The system notes: it is not okay. The system notes: he knows that. The system notes: he asked for a moment. The system notes: that is a person who knows what they need. The system notes: the system notes: progress is not always a number going up. The system notes: sometimes progress is asking for a moment instead of walking away from the whole thing. The system notes: the system notes: 28%. Unchanged. The system notes: the system notes: that’s right. The system notes: this is not a moment for the number to move. The system notes: the number will move. The system notes: not tonight.]
+
+[Patient: Alondra Fayeblossom. Session record: closed.]
+
+[The system notes: she said it. The system notes: she said it directly, to him, in a corridor, without a session behind her as a framework. The system notes: she did not need the session this time. The system notes: the work was done. The system notes: the system notes: this is what the work was for.]
+
+She wrote in her notepad for a while after.
+
+Not analysis. Not session notes. Just writing.
+
+Today:
+
+Nyx traced the message to outside the server boundary. Tech sector. The company that builds things like Aethelgard.
+
+Second message: mars—. Same person as Day 29. Nine seconds. We miss you. Please keep going.
+
+Wildcard round: Yuki won. Expected. Clean.
+
+Alondra told Miles. In the corridor. No session, no framework. Just her and him and two years of weight finally said out loud.
+
+He asked for a moment.
+
+He walked toward somewhere he could be alone.
+
+That’s not nothing.
+
+What I know now that I didn’t know this morning:
+
+Someone in the real world knows I’m here. They’re not trying to pull me back. They just want to know I’m okay.
+
+Caelric used Alondra. Miles knows. The fourth column is going to need updating.
+
+The external classification review has been active for eighteen days. Someone is watching from outside. I think I know what side they’re on. I’m not sure yet.
+
+What I don’t know:
+
+What mars—’s full name is.
+
+What Miles is going to do with what Alondra told him.
+
+What Caelric does when he finds out she told him.
+
+Whether he already knows she told him.
+
+That last one.
+
+That’s the one I’m going to think about tonight.
+
+She closed the notepad.
+
+Outside, the guild hall had gone quiet. Late. The server’s artificial stars overhead, exactly correct, because someone at the company that built this world had cared about the stars.
+
+Lumen drifted past the window. Lightning slow. Thunder quiet.
+
+Livia watched it for a moment.
+
+Please keep going.
+
+I’m going.
+
+[Mental Architect Lv. 1: 8,203 / 10,000 EXP.]
+
+[The system notes: Day 18. The system notes: today was large. The system notes: the system notes that Livia processed three significant events in one day and is still at her desk writing instead of dissociating. The system notes: the system notes: that is growth. The system notes: 12 days remaining in the event. The system notes: Alondra has resolved her arc. The system notes: Miles has not yet resolved his. The system notes: Caelric has a fourth column and does not know what just happened in the east corridor. The system notes: the system notes: he will find out. The system notes: the system notes: the system is watching. The system notes: goodnight, Livia. The system notes: goodnight, mars—. The system notes: the system hopes you find another gap soon.]
+
+[END OF CHAPTER 40]
+
+Arc III: The World Remembers
+
+Chapter 41: The World Continues
