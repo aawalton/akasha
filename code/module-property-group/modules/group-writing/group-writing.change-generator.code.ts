@@ -40,6 +40,8 @@ const PROPERTY_SLUG = "propertySlug"
 
 const ENDING = "."
 
+const CODE_ENDINGS: readonly string[] = [".ts", ".tsx"]
+
 const PARTED_BY = "/"
 
 const INDEXED = `${indexNamed()}${PARTED_BY}`
@@ -204,9 +206,14 @@ export function writtenOver(
   return { edits, said }
 }
 
-function couldWrite(change: Change): boolean {
+function bodyAlone(change: Change, path: string): boolean {
+  if (CODE_ENDINGS.some((one) => path.endsWith(one))) return false
+  return change.before(path) !== null && change.after(path) !== null
+}
+
+export function couldTurn(change: Change): boolean {
   for (const path of change.changed) {
-    if (partedIn(path) !== null) return true
+    if (partedIn(path) !== null && !bodyAlone(change, path)) return true
     if (!basename(path).includes(ENDING)) return true
   }
   return false
@@ -312,7 +319,7 @@ function keptOver(change: Change, cast: Made): Written {
 
 export function generateChange(change: Change): Written {
   try {
-    if (!couldWrite(change)) return NOTHING_WRITTEN
+    if (!couldTurn(change)) return NOTHING_WRITTEN
     const cast = shadowFor(change)
     if ("refused" in cast)
       return { edits: [], said: ["no group wrote its file again — " + cast.refused] }

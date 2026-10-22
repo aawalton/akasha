@@ -67,6 +67,14 @@ export const groupWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A file beside a page that is no code and whose body alone changed turns nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A group reads where a file beside a page sits, and never what that file holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A group reads the index the change leaves rather than the committed index.",
     },
     {
@@ -140,5 +148,5 @@ export const groupWriting = {
     },
   ],
   createdAt: "2026-09-11T00:17:09.018Z",
-  updatedAt: "2026-10-18T14:00:06.527Z",
+  updatedAt: "2026-10-22T15:29:12.782Z",
 } as const satisfies ChangeGenerator

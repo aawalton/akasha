@@ -4,6 +4,7 @@ import { join } from "node:path"
 import { generatedOver } from "akasha/change/generator/modules/change-generating/change-generating.module.code.ts"
 import { type FileChange, leftAt } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
+  couldTurn,
   groupAt,
   groupsIn,
   type Reaching,
@@ -132,6 +133,30 @@ describe("the body a group's code is loaded from", () => {
   test("a group is run off the checkout again once that body is loaded", () => {
     const reached = writingIn(NOTHING, ONE)
     expect("writing" in reached ? reached.writing(ROOT) : reached.missing).not.toBe(MARKER)
+  })
+})
+
+describe("whether a change could turn a file a group writes", () => {
+  const lines = "here/there/one.container-recipe.readings.jsonl"
+  const held = (before: string | null, after: string | null): Change => ({
+    root: ROOT,
+    changed: [lines],
+    before: () => (before === null ? null : BYTES.encode(before)),
+    after: () => (after === null ? null : BYTES.encode(after)),
+  })
+
+  test("lines added to a file beside a page turn nothing", () => {
+    expect(couldTurn(held("{}\n", "{}\n{}\n"))).toBe(false)
+  })
+
+  test("a file beside a page that is added or removed could turn a file", () => {
+    expect(couldTurn(held(null, "{}\n"))).toBe(true)
+    expect(couldTurn(held("{}\n", null))).toBe(true)
+  })
+
+  test("a page or code beside a page could turn a file", () => {
+    expect(couldTurn(changeTurning(GROUP, TURNED))).toBe(true)
+    expect(couldTurn(changeTurning(PAGE, TURNED))).toBe(true)
   })
 })
 
