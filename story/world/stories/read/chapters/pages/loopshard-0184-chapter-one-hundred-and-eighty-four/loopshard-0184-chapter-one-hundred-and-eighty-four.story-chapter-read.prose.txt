@@ -1,0 +1,341 @@
+Adam bought the eighteen upgrades required to fully evolve the Cloudmaker staff. Its upgrades were seemingly the same as for the Summoner and Spellcaster classes, giving spell and casting upgrades. After buying them all, he was down to 8,092 points.
+
+The evolutions were a lot more interesting than Adam had hoped, giving him many dangerous ideas about how to utilise the weapon in the future.
+
+< < Evolutions > >
+
+< Water Dance — Effectiveness of water-based spells is doubled while standing in a body of water >
+
+< Water's Flow — Standing in any liquid imbues it into your water-based attacks >
+
+< Cloudstrider — Become immune to all cloud-based afflictions >
+
+I could very easily mix this weapon with Blood Mage’s powers, he realised. If I imbue blood into the Cloudmaker’s spells, I wonder if it would allow me to manipulate the blood of others without needing to flood their bodies with mana.
+
+Maybe even a flammable liquid like oil would work, which could let me create a widely-dispersed accelerant that would explode when I set fire to it. I should really look into explosions more, now that I have the fire glove to play around with.
+
+After Adam was done upgrading the staff, he obtained three more mastery shards, putting him at ten, which would allow him to buy another vanity from Alivida.
+
+Before he left to go visit the moth, he went over to Karie’s stall and bought twenty-five general upgrades, rerolling once, which all combined set him back 7,600 points.
+
+< < General Upgrades Purchased > >
+
+< Affliction (Epic) >
+
+< Affliction (Rare) x4 >
+
+< Antivenom (Epic) x2 >
+
+< Antivenom (Rare) >
+
+< Bleed (Legendary) >
+
+< Bleed (Epic) >
+
+< Damage (Epic) x3 >
+
+< Defence (Epic) x3 >
+
+< Force (Epic) >
+
+< Health (Epic) >
+
+< Mana (Epic) x4 >
+
+< Mana (Rare) x2 >
+
+< Venom (Epic) >
+
+< 492 Points Remaining >
+
+I think I got a pretty good spread out of that.
+
+He’d even been fortunate enough to get a single legendary bleed upgrade to show up, which meant that his bleed affliction now dealt 130% of his weapon damage over ten seconds, more than doubling his attacks’ damage against any enemy that could be bled.
+
+Adam brought up his stats, eager to see what everything looked like now.
+
+< < Player Status > >
+
+< Twilight >
+
+< Red King >
+
+< Level 192 >
+
+< Stats >
+
+< Health — 340 (+35) [+57] >
+
+< Stamina — 60 [+10] >
+
+< Mana — 156 (+55) [+26] >
+
+< Damage — 240% (+75%) [+40%] >
+
+< Affliction — 222% (+85%) [+37%] >
+
+< Defence — 192% (+160%) [+32%] >
+
+< Antivenom — 30% (+25%) [+5%] >
+
+< Speed — 84% (+20%) [+14%] >
+
+< Luck — 30 (+15) [+5] >
+
+[ Modifiers ]
+
+< Glass Sapling +20% >
+
+I’ve gotta win the next bet… I can’t have the system calling me ‘Twilight’…
+
+The status information was quite overwhelming to Adam, but after looking at it for a while, he started to understand how it worked.
+
+It looks like the glass sapling’s effect is added after the upgrades, displayed inside the last box for each stat.
+
+To find my base value, I just need to subtract both additions from the total, which is the number on the left. So my base health is 248 after subtracting 57 and 35. It’s 98 points higher than the default for Blood Mage, since I maxed out the meta upgrade for health and lost 2 points to the Obsidian Rot. The addition of 57 roughly equals 20% of 248+35, so that adds up.
+
+Since I swapped out the captain’s cape, I lost the attack speed, putting it back to 100% which made it vanish from the list. I still have the minus 25% defence from the blood mage choker, and now also the minus 50% antivenom effectiveness because of the scoundrel’s torn bloodied glove. Good thing I got those extra Antivenom upgrades to compensate for that.
+
+Adam looked at his armoured body.
+
+Hmm, I guess the boost from kingly raiment isn’t shown.
+
+Wait a minute.
+
+I should have a boost from the crimson shirt, but I don’t see it.
+
+“What is the capacity of my shirt relic at?” he asked the cube since he couldn’t view the relic through his skill-created armour.
+
+[Your equipped Gluttonous Aristocrat’s Crimson Shirt is at 0% capacity.]
+
+“Huh? Why?”
+
+[Your Kingly Raiment skill absorbs all collected blood stored within the relic.]
+
+Adam frowned.
+
+That means I can’t get the defence and speed boost from my shirt, nor the blood nova effect on hit. At least so long as the raiment is active.
+
+If the wording of the relic had been different, the nova effect might’ve worked with kingly raiment, which would’ve been very broken, but it specifically states that it uses the blood that’s within the shirt’s fabric.
+
+Adam brought up his upgrades menu to see what the ‘invisible’ upgrades were, since not everything appeared on his status overview.
+
+< < Upgrades > >
+
+< Bleed +130% >
+
+< Force +25% >
+
+< Venom +25% >
+
+Anyway, I’ve gotta try out the thing Kat mentioned.
+
+Adam turned back to Karie.
+
+“I’d like to buy one last upgrade, since I can afford one more.”
+
+Unsurprisingly, the cube stepped in and said, [You have purchased the maximum allowed general upgrades for today.]
+
+“What if I wanted to buy a weapon upgrade?”
+
+[Purchasing upgrades for weapons that have passed level 18 falls under the same 25-upgrades limit as the one imposed on general upgrades by the All-Seeing System.]
+
+“So, I’m cool to just fully evolve as many weapons as I’d like, but I can’t buy more than twenty-five of the 300-point upgrades?”
+
+[Correct.]
+
+Such a blatant attempt to prevent Players from completely breaking the Trials…
+
+I guess I’ll buy as many luck upgrades as I can next time, and use that to get upgrades strong enough to truly break everything. After all, that one legendary bleed upgrade was worth the same as two epics or three rares. If I can hit fifty luck, or whatever the next milestone is, I should be guaranteed epic options at least.
+
+Adam looked back at his status overview.
+
+“Are the base stats of Red King the same as Red Prince?”
+
+[Correct.]
+
+“What if the stats of the two fused weapons are different? How is it decided which one is used?”
+
+[The dominant weapon’s stats will be set as the default.]
+
+“How do you determine which one is the dominant one?”
+
+[The answer depends on the fusion.]
+
+“Is there a way to change which weapon is the dominant one?”
+
+[No.]
+
+I wonder if there are scenarios where that’ll lead to a less favourable set of base stats. Like, what if I could fuse Gram with something else and lose the improved stats it has?
+
+I’m guessing that for Lasse’s fused evolution, it used the Archer class’ stats, while for Kat’s it must’ve used the Bloodfiend Beast one. But since that’s rare and not epic, maybe that makes its stats worse than the ones for Beast.
+
+Adam pushed his thoughts aside and hurried to Alivida’s tent, guessing there wasn’t that much time left of the night. He still needed to use his challenge stone, so he couldn’t spend too long messing around.
+
+Once he landed in the garden and entered the tent, the black moth sat up in her chair, quickly putting away something she’d been toying with.
+
+“Hello again… Adam. I was unsure if you would return.”
+
+“Fal told me to say that she’s doing fine,” he replied.
+
+“I am relieved to hear that,” Alivida commented. “I am sure my bright sister would like to know as well.”
+
+“I’ll tell her,” Adam promised. “Now then, I was told you have something new for me.”
+
+“Indeed.”
+
+Alivida gestured to the purple-glowing orb on her table.
+
+< < Mastery Upgrades For Sale > >
+
+< Scale of Nihility — Make everyone forget you — 1 Shard >
+
+< Skipping Stone — Skip a Stage if eligible — 2 Shards >
+
+< Evolution Encyclopaedia — Obtain an encyclopaedia with all discovered evolutions — 2 Shards >
+
+< Lucky Stone — Flip to increase the rarity for the next reward options — 3 Shards >
+
+< Vanity — Turn an Interim Island Denizen into a humanoid — 10 Shards >
+
+An encyclopaedia?
+
+“What does it do?” Adam asked her.
+
+“The Evolution Encyclopaedia contains all known knowledge of weapons and their evolutions. It also contains information on… fusions.”
+
+“But only if I know it already?”
+
+“There are hints within its pages,” she promised.
+
+I guess I’ll have to get it later.
+
+“I will buy another vanity for now,” he decided.
+
+“Understood.”
+
+< < Mastery Upgrade Unlocked > >
+
+< Vanity — Turn an Interim Island Denizen into a humanoid >
+
+Adam already knew who he wanted to use the vanity on, so he flew back towards the centre of the island until he found the correct house and went inside.
+
+He continued down through the hidden stairwell leading to the domain of Tisa the mantis, straining his blood sense to track her down, but after all of his practise in Moonport it was much easier than before. With the confidence of knowing where she was hiding, Adam trudged through the overgrown forest and approached her.
+
+The dead leaf mantis seemed to frown when he poked her, revealing that he knew where she was. To the naked eye she looked like she was part of the shrubbery and densely-grown trees, but the tiniest beat of life was noticeable with Adam’s Mandate of Blood.
+
+“Here,” he said, handing her the vanity mirror.
+
+The large mantis tilted her triangular head in curiosity, before grasping the mirror with her claw and staring at her own reflection.
+
+Then it was like leaves shed from her form, leaving behind a woman with a slightly strange anatomy, a long neck, an absurdly-thin waist, and claws folded under her forearms. Her figure was still mostly covered in organically-shaped chitin plates, but they looked more like clothes now.
+
+Tisa grunted as she took in her new shape, folding and unfolding her claws.
+
+“Inconvenient,” she muttered.
+
+“Now you can go wherever you want on the island,” Adam told her.
+
+“I prefer my forest.”
+
+“Charlie will make you anything you’d like to eat if you visit the tavern.”
+
+Tisa paused. “Maybe I will pay her a visit. I have not eaten since my arrival to this island.”
+
+She pulled out a strange gauntlet with a hinged folding claw at the end. The whole thing was made of green plate-like chitin, similar to Tisa’s own body. It was clear it was her weapon, though detached from her form and turned into something a human could use.
+
+“I am being told to gift you a prized weapon,” she explained. “It is shameful to give gifts to those who have not yet earnt them, but you have restored some of my freedom, so perhaps you are deserving of it.”
+
+< < Secret Weapon Obtained > >
+
+< Mantis Claw (Legendary) — The claw of a Mantis Weaponmaster >
+
+Adam swapped out the fire glove for the claw, but as expected, there was nothing gained from simply touching the weapon.
+
+He tried moving it around a bit, flexing the hinged joint and realising that the foldable blade at the end of the gauntlet could also pivot from side to side. It seemed far too flexible to be a reliable weapon and he was sure he’d hurt himself more than whatever he was trying to hit.
+
+If it had just been a spiked gauntlet, I might’ve been fine, but I don’t see how it’s possible to keep this steady and inflict damage without chopping off my own fingers.
+
+“How do I use this?”
+
+Tisa clicked her tongue in annoyance. “This is a tool made for a Weaponmaster. You are no such thing,” she remarked coldly, and Adam couldn’t help but agree.
+
+Although he could tell she wanted to take the weapon from him, she instead just retreated into the shrubbery slowly, all while her black eyes were locked onto his.
+
+Then suddenly her melody vanished.
+
+Adam looked around.
+
+I think she just teleported? Like what Fisher does.
+
+He swapped the claw out for his fire glove and flew out of the mantis’ forest and the hidden tunnel, returning to his player house where he went down into the basement restaurant and found a seat next to Tisa.
+
+“This freedom is convenient,” she remarked, not questioning his ability to immediately find her again.
+
+“You’re back,” Beck said from the opposite side of the table, his hologram just appearing out of nowhere. “I thought you would visit my dimension.”
+
+“Sorry,” Adam replied. “I ended up messing around with my weapons and upgrades. I figured out how to use the Cloudmaker staff though. Sort of. Did you make any progress with the golden nail?”
+
+“Not yet,” Beck said.
+
+“I used my vanity on Tisa and got a mantis claw weapon,” Adam told him. “It’s really difficult to figure out how to use, I guess because it’s legendary. I’m sticking with the fire glove that Charlie gave me though.”
+
+Beck nodded.
+
+“Anyway,” Adam said. “Should we get to it?”
+
+“I’ve already identified our targets,” Beck told him. “Tell your cube to show you everyone who killed all their team members in Moonport after they survived the Patriarch fight.”
+
+To Adam’s dismay, all of the tables around him filled up, only to flicker and be replaced by new people, again and again.
+
+“How many is that?” he asked.
+
+“291,” Beck answered.
+
+“Fucking hell…”
+
+“Filter for the ones worshipping the Flayed Lady,” Beck continued.
+
+Adam did as he was told, and there were now just sixteen players left.
+
+“I’m taking down the blonde guy with the Brawler and Priest setup,” he said. “You should kill the woman using Summoner and Blood Mage.”
+
+“That’s an odd combo.”
+
+“I’ve been watching her, and I think she has the evolution that lets her go all necromancer on her victims,” Beck replied.
+
+“I’ve used that evolution once,” Adam admitted.
+
+Beck gave him a disapproving look. “Did you use it on any players?”
+
+“No.”
+
+“Good. It’s horrifying.”
+
+“What does it do to players?” Adam asked.
+
+“It brings them back to life, but not completely. It’s like they’re still aware, but they can’t control their own bodies properly and they’re at the whims of the necromancer who revived them. Someone did it to one of my friends in stage fifteen last time. I had to kill him to make him stop screaming.”
+
+Goddamn.
+
+“I’ll take care of her,” Adam promised and brought out his challenge stone.
+
+“See you on the other side,” Beck said, pulling out his stone too, before vanishing a moment later.
+
+Adam locked onto the woman that Beck had indicated. She had the black sigils from Blood Mage on her hands and she’d left her wand on the table. Beck had been right, because it was the same design as the one Adam had used himself.
+
+Like Adam, she was pale and looked like a bloodfiend, but there was an anaemic look about her on top of that.
+
+I might be the only one who completed the Flayed Lady’s quest for Moonport, unless she gave different quests to her other adherents.
+
+But if I’m right, then that means that she might be weak from her punishment.
+
+Adam doubted the Flayed Lady would have held back, since she clearly cared more about seeing her adherents fail than for them to perform her tasks successfully.
+
+He couldn’t tell what skin colour she’d had before her transformation, and the vampire traits made it impossible to guess at a nationality, but she had a rounded face and eyes he would normally associate with kindness. The look in her eyes wasn’t quite right though, like she wasn’t entirely there. Her dark-brown hair was tied back in a ponytail with a colourful scrunchie, which added to her strangely disarming appearance.
+
+Adam lifted his challenge stone and pointed it at her, activating it.
+
+< < Challenge Stone Activated > >
+
+< You have forced Player Iona Gartner into fighting you >
