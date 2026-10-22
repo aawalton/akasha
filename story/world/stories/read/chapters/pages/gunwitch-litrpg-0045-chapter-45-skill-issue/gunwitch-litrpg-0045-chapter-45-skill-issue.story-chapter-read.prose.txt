@@ -1,0 +1,299 @@
+Vasil nodded. “Good idea, but before we start you should probably identify the magical items you took from the [Flame Adept].”
+
+I pulled out the amulet and the two rings. Since I didn’t have an amulet equipped yet I figured I’d cast [Artifact Index] on that first.
+
+[Blessing of the Firemind - Amulet]
+
+Killing an enemy restores 10% of maximum Mana
+
++20% Fire Damage
+
++20% Fire Resistance
+
++10 Attunement
+
+I stared at it for a long time.
+
+“Hecate?” Vasil asked. “Everything alright?”
+
+I read the stats aloud, slowly.
+
+Vasil nodded. "That’s incredible."
+
+"Right?!" I turned the amulet over in my hands. It was simple—a circular bronze pendant with a flame etched into it. Nothing fancy. You’d walk right past it in a market stall.
+
+"The mage you killed must have been someone quite accomplished," Vasil said. "That kind of item... those are not just handed out to any Inquisitor. That is the kind of gear reserved for people the Church actually values."
+
+"So I killed someone important?"
+
+"Pretty important, I would imagine. And now you have his amulet."
+
+I put it on. It felt warm against my chest, like it had been sitting in sunlight. "Well, he shouldn’t have tried to [Fireball] me."
+
+"No," Vasil agreed. "He definitely shouldn’t have."
+
+I moved on to the rings.
+
+[Russet Damage Conversion Ring - Ring]
+
+12% of Damage is converted into Barrier
+
++9% Fire Resistance
+
++6 Attunement
+
+[Ring of Kindling - Ring]
+
+When you ignite an enemy, nearby enemies have a 25% chance to also ignite
+
++10% Fire Damage
+
++7 Attunement
+
+I read the stats aloud and looked at Vasil. "So it looks like this guy was running some kind of loop?"
+
+Vasil nodded. "The damage conversion would have kept his barrier constantly full. Combined with the stacked Fire Resistance, he could stand in his own area-of-effect spells without taking much damage, if any at all, depending on his skills. He would only have to ignite one target, the Ring of Kindling spreads it to nearby enemies, and once they start dying, the amulet restores his mana. The more people he set on fire, the harder he became to kill."
+
+“So basically: light one guy on fire, watch it spread, and the whole room takes care of itself.”
+
+"It is an excellent synergy."
+
+I went quiet for a moment, thinking. If he’d managed to light Kasia on fire first, the flames would’ve spread. To Kuba. To me. I was standing right there. And I was an enemy of the Church, so the fire would’ve targeted me automatically.
+
+With my fire resistance at a whopping 0 at the time, I’d have been taking a lot of damage. He’d have been getting barrier and mana back. I would’ve died just from standing too close. Another example in favor of “shoot first or die horribly”.
+
+I cleared my throat. "Is this a common build? Do a lot of mages run something like this?"
+
+"Not that I know of," Vasil said. "There are standard builds, certainly. Popular combinations that work well. But this is not one of them. Most people base their builds around whatever items they can actually acquire. So while there is overlap—similar stat priorities, common synergies—most builds end up with some unique element. A specific item, a particular skill interaction."
+
+"Makes sense."
+
+"The Church employs many classes," he continued. "Not just Flame Adepts, though the class is popular among Inquisitors. Fits the whole witch burning theme. It sends a message."
+
+I looked down at the amulet hanging from my neck. "Well, message received. And stolen."
+
+I considered equipping the [Flame Adept] totem to my belt and ran the numbers in my head. No, even with every item that had Fire Resistance equipped I’d still only get to seventy-four percent. Close, but not enough. Which meant I would not be setting myself on fire any time soon. Not on purpose, at least.
+
+Since I barely had any Barrier, putting together a build that relied on converting damage back into it also wouldn’t do me much good.
+
+Xorine’s Ring was out. The Ring of Kindling was a lot better and didn’t cost me any Strength points. So I swapped them.
+
+That left me with one open ring slot to fill. I took out Ring of the Fire Serpent.
+
+[Ring of the Fire Serpent – Ring]
+
+Fire based attacks and skills gain +50% power.
+
+Now that one of my revolvers shot flaming bullets, it suddenly wasn’t so useless. The damage was tempting, very tempting. But the Russet ring offered more Attunement, and Attunement meant more casting, more [Blink], more control. Fire damage was nice. Surviving long enough to use it was nicer.
+
+So, Attunement it was.
+
+I set the Fire Serpent ring aside and slid the Russet ring onto my finger, which put my total Fire Resistance at 49%.
+
+I shook my head, because I couldn’t believe I was wearing the guy’s entire kit—rings, amulet, boots… his head. What other treasures could be out there, just waiting for me to liberate them from their lame owners? Items like these deserved to be worn by someone cool. Someone with hair. Someone like me.
+
+I should kill more people, I thought.
+
+Vasil’s head snapped up. "What?"
+
+"What?"
+
+"You just said you should kill more people."
+
+"Did I… say that out loud?" I asked, puzzled.
+
+"Yes."
+
+"Huh." I shrugged. "Well, I thought I only said it in my head."
+
+Vasil stared at me.
+
+"What?"
+
+He shook his head once. “Nothing. Go on.”
+
+“Right,” I said. “So I reached level ten. That means I should have access to new skills.”
+
+“True, but I thought you were planning to take [Haste]?”
+
+“I was. I am. Unless there’s something new that suits me better.”
+
+“Cannot hurt to check.”
+
+I opened up my System and filtered for new skills, then started reading them aloud.
+
+[All is One]
+
+Type: Passive
+
+Perfection through unity.
+
+You become one with your weapons. You grow with them as they grow with you. You will no longer be able to use other weapons. Your bond with your weapons is reflected physically.
+
+I paused. "What does ‘reflected physically’ mean?"
+
+Vasil thought for a moment. "Skills like this are not uncommon. Warriors who dedicate themselves to a single blade, archers who bond with their bow. The physical reflection varies. Sometimes it is subtle, like markings or a metallic sheen to the skin. Sometimes it is more pronounced."
+
+"How pronounced?"
+
+"Hard to say. It depends on the weapon, the user, the depth of the bond."
+
+I frowned. "So I could end up looking... weird?"
+
+"Possibly."
+
+"Like, ugly weird?"
+
+"That is subjective."
+
+I could already see it. The more I used my revolvers, the longer and more barrel-like my nose would become. My teeth would slowly start looking like triggers, crooked and metallic. I stared at my pistol with its smooth, polished metal. Just like my future bald, shiny head. I shuddered.
+
+“I don’t want to become ugly weird!”
+
+"The obvious benefit is that you will become exponentially more effective with your chosen weapons. The more you use them, the stronger the bond, the better you become. And you can always upgrade the weapons themselves—add enchantments, improve materials. The skill grows with you."
+
+I crouched and pointed at my face. “Look at me, Vasil! I’m beautiful! Would you risk ruining perfection?”
+
+He cocked his head. “What if the bond made you even more beautiful?”
+
+I scoffed. “Please. How could I possibly become more beaut—”
+
+Wait. What if I could become more beautiful? What if I didn’t look gross and metallic and clunky and bald, but sleek and radiant? Luminous skin. Hair always shiny. What if I always looked like I was in good lighting? Would I never get wrinkles?
+
+My reflection winked back at me from the pistol’s barrel. I tilted it, testing angles. Yes, this was promising. Maybe the System actually understood aesthetics. Maybe it was time perfection got an upgrade.
+
+I caught myself mid-thought and froze. But what if I got crooked trigger teeth instead?
+
+“Let’s just put that one in the maybe pile for now,” I told Vasil, and read him the next skill.
+
+[Terror Eater]
+
+Type: Passive
+
+They say fear is the mind-killer. Now you’re the mind-killer. And the everything else killer.
+
+You draw strength from fear itself. The more they dread you, the stronger you become.
+
+I squinted. “So… the more people are terrified of me, the stronger I get?”
+
+Vasil made an approving sound. “That one suits you.”
+
+I frowned. “What are you talking about? No one is scared of me. Everyone loves me. Pass.”
+
+[Stunt Double]
+
+Type: Active
+
+Finally, someone else can get shot for you.
+
+Creates an autonomous illusion of yourself. It deals no damage but may confuse enemies. Medium upkeep cost.
+
+What’s better than one of me? Two of me. Maybe I could even upgrade it to be more than just an illusion. Then we could do each other’s hair! She’d always know exactly what looked good because she’d have impeccable taste. Because she’d be me.
+
+I could already imagine the conversations we would have. Finally, another brilliant mind to share ideas with.
+
+I looked at Vasil with complete seriousness. "This one goes on top of the maybe pile. This is a seriously good skill."
+
+"Because of the tactical advantages?" Vasil asked carefully.
+
+"Huh?" I said. "Sure."
+
+His eyes narrowed. I smiled.
+
+[Hall of Mirrors]
+
+Type: Active
+
+Quantity has a quality all its own. Even if it’s imaginary.
+
+Summons illusions that mimic your movements. They deal no damage but may confuse enemies. Number of illusions scales with Attunement. Medium upkeep cost.
+
+“Oh, I love this one,” I said. “Imagine it—dozens of me, all perfectly synchronized, devastatingly attractive, all dancing in unison.”
+
+Vasil looked confused. “Dancing?”
+
+I nodded. “Obviously. What else would I use it for?”
+
+He stared. I folded my arms. “This one also goes in the maybe pile.”
+
+[Mana Shield]
+
+Type: Barrier
+
+Who needs armor when you have unreasonable amounts of mana?
+
+Your Mana forms a barrier, absorbing damage at the cost of Mana. Points of Damage absorbed per point of Mana scales with Attunement.
+
+I was starting to get a sizeable Mana pool. At the moment I was close to being able to cast [Clean Entry] eight times when topped up. On the other hand it meant the more I’d get hit, the less I’d be able to cast, and every time I’d use my spells I’d be able to tank less damage.
+
+I frowned. “That one’s interesting, but kind of double-edged. The more I get hit, the less I can cast, and the more I cast, the easier I am to hit.”
+
+“It is efficient in theory, but risky in practice,” Vasil said. “It works best for mages with deep reserves who rarely take direct hits, or have high Mana regeneration.”
+
+I tapped my chin. “It would mean I’d never have to invest in Barrier, and I’d probably be able to survive a surprise attack. If it also works with Russet Damage Conversion Ring, it’s actually really good.”
+
+“True.”
+
+“Alright. Also in the maybe pile.”
+
+[Generous Gift]
+
+Type: Passive
+
+Their loss, your gain.
+
+Permanently gain +5% enhanced damage after every kill.
+
+“See!” I yelled at Vasil. “They want me to kill more people!”
+
+“Considering your… proclivity for violence, it would synergize quite well. ”
+
+“My what? I don’t have a proclivity for violence. I’m a pacifist at heart. I just have principles. I am a fighter for justice! It’s not my fault the world has apparently become overrun with the forces of evil, hell-bent on extinguishing my light.”
+
+“So, maybe pile?” Vasil asked.
+
+“Maybe pile.”
+
+[Countershot]
+
+Type: Bullet Hex
+
+Not today, wizard.
+
+Fires a projectile that cancels the target’s spell. Low Mana cost.
+
+I chuckled at the flavor text. It would probably be infuriating to fight someone who could fizzle your spell after you’d just spent half your Mana and thirty seconds chanting like a dramatic idiot. Then again, I could already counter most spells by shooting the caster in the face, and that didn’t cost any Mana at all.
+
+“Not feeling it.”
+
+[Return to Sender]
+
+Type: Bullet Hex
+
+No, YOU have a fireball problem.
+
+Fires a projectile that reflects target projectile back at caster. High Mana cost.
+
+I shook my head. “If I’m going to use something with high Mana cost I might as well use [Clean Entry].”
+
+Vasil nodded. “Makes sense.”
+
+“Besides,” I said, “if I shoot first, there’s nothing to return.”
+
+[Finger Guns]
+
+Type: Passive
+
+Pow pow. But unironically this time.
+
+You can now shoot from your index fingers.
+
+Vasil snorted.
+
+Sometimes I got the feeling I was being mocked. By the System, by the gods, by the universe itself. Like they were all sitting somewhere, watching me scroll through my skills, giggling.
+
+Was this punishment for something? Did I accidentally insult a deity? Did I not sacrifice enough? When I did the finger guns back in Lipova, it was cool. Why did they have to turn it into a joke?
+
+“Maybe pile?” Vasil asked.
+
+“Fuck you.”

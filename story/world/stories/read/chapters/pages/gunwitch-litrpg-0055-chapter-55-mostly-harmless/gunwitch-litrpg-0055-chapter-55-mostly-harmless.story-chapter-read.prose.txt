@@ -1,0 +1,155 @@
+I looked at the various armor pieces that Kuba and Kasia had neatly arranged. A helmet, a pair of what looked to be ethereal bracers, rusty metal boots, and a single leather glove. What should I identify next? Would the glove even do anything without its counterpart? Time to find out.
+
+I cast [Artifact Index] on it.
+
+[Five Fingers’ Glove - Gloves]
+
+While wearing this nothing else can be equipped in the second hand slot.
+
++15 Dexterity
+
++50% Proficiency: Pickpocket
+
+Five Fingers’ Glove, huh. With that proficiency bonus I could imagine what happened to his other hand. Guess he could have used that bonus earlier. The dexterity bonus alone made it worth it for me to swap out the two Strong Bracelets of the Stag Beetle for it, though. Another win.
+
+The bracers took up the same slot as the gloves so I figured I might as well identify those next. They looked pretty interesting, transparent with what I assumed were swirly flames covering the top.
+
+[Flamegrip - Bracers, ethereal]
+
+These bracers cannot be repaired.
+
++10 Attunement
+
++20% Fire Resistance
+
++5% Mana stolen per hit
+
++5% chance to summon a [Flame Serpent] on hit.
+
+Wow. Much, much better. That did it. The gods clearly wanted me to make some kind of fire build. And if they didn’t, too bad. Even with the limited gear I had I could make something that was both powerful and able to resist the Church’s most prominent mages.
+
+Next up were the boots.
+
+[Waterwalker - Boots]
+
++5 Dexterity
+
++50% Movement speed in water
+
++50% Movement speed on water
+
+Uh… walk on water? Pretty niche boots. Maybe Moryana could walk on water? I read the stats aloud and held the boots up to her. “You want these?”
+
+She grimaced and pulled in her feet.
+
+I glanced at the boots. Sure, they were too big. Sure, they were rusted and ugly. “They would make you super fast.”
+
+“I don’t like wearing shoes,” she said.
+
+“These boots in particular, or shoes in general?”
+
+“Both.”
+
+I nodded. “I get it. I mean, they are ugly. Would be a shame to just let something like this go to waste, though.”
+
+Moryana turned away from me. “I’m not wearing those things.”
+
+I set them down on the floor. “Your choice. I won’t force you to wear them. I just thought you’d like to be able to drown people faster, that’s all.”
+
+Her head snapped back to me. “Give me the boots.”
+
+I tossed them over and she put them on right away. She frowned and looked at them for a moment, then shrugged.
+
+That left the helm. I picked it up and examined it from all angles. It had an interesting design: besides the two white horns sticking out, it was completely made of shiny black metal. The design was either the face of a monster, or whoever it was supposed to resemble had been very ugly.
+
+[Karn’s Face - Helmet]
+
++15% All Resistances
+
+35% Of damage taken goes to mana
+
+5% Chance to cast [Fear] on hit
+
+I could use this, but that would mean no one would be able to appreciate my beautiful face. It would probably also be hell for my hair. On the plus side, it would also mean people wouldn’t be able to recognize me, though I wondered if they’d just let me walk around wearing this creepy mask. It might even attract more attention than my regular face.
+
+With this I had enough gear to easily reach over 100% Fire Resistance, so I could finish the build. 35% of damage taken going to mana would be strong if I had the ability to tank hits, but I didn’t. So that wouldn’t be helping me at the moment. The chance to cast [Fear] was a nice little bonus, but not good enough to get excited about.
+
+“I’ll be holding on to this one as well,” I said. No one objected.
+
+That just left opening the chest. I walked over to it and examined the lock. I turned to Moryana, then nodded to the lock. “You didn’t happen to find the key for this, did you?”
+
+She nodded. “I did.”
+
+I looked around, but didn’t see it anywhere. “So… where is it then?”
+
+She reached into her hair and pulled out a bronze looking key. Then she held it out to me.
+
+I raised an eyebrow “Why didn’t you just give it to me in the first place?”
+
+She shrugged. “Didn’t think you’d be needing it.”
+
+What?
+
+“You didn’t think I’d be needing the key required to open the chest?”
+
+“That’s right.”
+
+“How did you expect me to open it then?”
+
+“Yes.”
+
+Huh? That wasn’t a yes-or-no question. Were we having the same conversation? Probably not. I narrowed my eyes and leaned in a bit closer. Maybe she had water in her ears. Hard to tell with all that hair. I filed it away as just Moryana being Moryana.
+
+“Just give me the key,” I said, and snatched it out of her hand.
+
+I put it in the lock and twisted. It fell off without any problems.
+
+This was it. This was when I became rich.
+
+I looked back and wondered if I should increase the tension a bit or create some extra anticipation, but by looking back I only managed to create more anticipation for myself. I decided to just open the chest.
+
+I closed my eyes and flipped the top open. When I opened my eyes the first thing I saw was a completely hairless, squat, naked, little brown golemish-looking guy curled in the fetal position, scowling up at me. He was about the size of a loaf of bread and didn’t appear happy to see me. Which was odd, considering I just liberated him from a chest that had been at the bottom of a puddle for gods knew how long.
+
+I cast [Soul Index] to see what I was dealing with.
+
+[Skrzat]
+
+Status: Displeased
+
+Uhh… That didn’t help me much.
+
+I looked back at Vasil and pointed at the chest. The [Skrzat] calmly stood up, climbed out, walked a few steps, turned to give me one more scowl, then walked away and disappeared down the hall.
+
+“Shouldn’t we try to stop it or something?” I asked.
+
+“Oh, no,” Vasil replied. “That was just a skrzat. They are harmless household spirits. Mostly harmless.”
+
+I scratched the back of my head. Even though I’d been here for a while, Silesia was still a strange place. Apparently people were okay with living alongside “mostly harmless” spirits. I glanced down the hall again, but there was no sign of the skrzat. I wondered where it had gone. I also wondered why the bwotnik had been keeping it in a chest. Maybe this was one of the “mostly” harmless ones.
+
+You’d think the longer you spent in a place, the more sense it would start to make. With Silesia it was the opposite. There seemed to be a distinct lack of logic behind the actions of its people, and even its monsters.
+
+Maybe I should have shot that little guy, just so he wouldn’t come back to strangle me in my sleep. If he was so harmless, why did he keep scowling at me like that?
+
+And what did mostly harmless mean, anyway? Mostly harmless to who? People who didn’t open the chest? People who feed him properly? Was I supposed to feed him? Did household spirits need food? If he got hungry would he stop being "mostly" harmless and become "mostly" harmful?
+
+Then again, Vasil said it was fine. Vasil had lived here his whole life. He’d know better than me.
+
+I pushed the thoughts aside and peered into the chest again. It was full of silver coins, with some copper and gold ones sprinkled in. Not enough to be super rich, but enough to be pretty rich. If the bwotnik were still alive, I’d have thanked him for his generous donation. Unfortunately, he’d passed away in a tragic accident involving me killing him on purpose.
+
+I sifted my hand through the coins to see if there was anything hidden underneath. To my surprise I found a runestone, and what looked like a small glass marble with purple fog inside. I dug through the coins a bit more until I was certain there weren’t any more runestones hiding in there, then laid everything out in front of Vasil.
+
+One marble thing. Seven runestones.
+
+Vasil picked up the marble first and examined it as the purple fog swirled inside. "A consumable skill upgrade point. Extremely rare and valuable. Use it wisely. People kill for these."
+
+He set it down and moved to the runestones, reading the symbols. He sorted through them with his little webbed hand, separating them into groups. "Flame," he said, tapping the first one. "You already have one of those."
+
+He moved to the next. "Lightning. Poison." He pushed two together. "Two Cloud runestones. So that makes five common ones."
+
+Then he picked up another and studied the symbol. "Steel. This one is extremely rare and valuable. It makes whatever you socket it into indestructible."
+
+Then he picked up the last one and turned it over. When he held it up to the light, his eyes widened.
+
+"What?" I asked.
+
+"I have never seen one like this before."

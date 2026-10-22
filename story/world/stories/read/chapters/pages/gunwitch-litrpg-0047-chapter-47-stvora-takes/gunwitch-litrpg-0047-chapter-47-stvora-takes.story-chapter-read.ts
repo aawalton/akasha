@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const gunwitchLitrpg0047Chapter47StvoraTakes = {
+  id: "01a1655e-a6cb-7198-9002-1a1fe3f03453",
+  type: "page-type/story-chapter-read",
+  slug: "gunwitch-litrpg-0047-chapter-47-stvora-takes",
+  position: 47,
+  publishedAt: "2026-01-27",
+  unit: "unit/words",
+  title: "Chapter 47: Stvora Takes",
+  story: "story-read/gunwitch-litrpg",
+  ownLength: 1587,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2984911",
+      externalLink:
+        "https://www.royalroad.com/fiction/141704/gunwitch-litrpg/chapter/2984911/chapter-47-stvora-takes",
+    },
+  ],
+  createdAt: "2026-10-22T20:47:44.331Z",
+  updatedAt: "2026-10-22T20:47:44.331Z",
+} as const satisfies StoryChapterRead

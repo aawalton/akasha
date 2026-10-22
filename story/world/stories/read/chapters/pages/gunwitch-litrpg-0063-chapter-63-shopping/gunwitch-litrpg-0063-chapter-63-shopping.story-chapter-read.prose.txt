@@ -1,0 +1,157 @@
+We stepped inside, and immediately I knew this wasn’t a normal blacksmith. (Besides the anvil wearing pants, of course)
+
+The place looked more like a clothing store than a forge. Everything was clean, organized, and neatly displayed. Racks along the walls held cuirasses, helmets, and pauldrons, polished to a shine. Someone had clearly taken great care with the presentation.
+
+There were swords too, of course, and axes, and a few tools—shovels, picks, a scythe—but they were laid out with the same care as the armor.
+
+What really caught my eye, though, was the leather. There were full sets of leather armor, reinforced in places with metal plates or rings. Flexible where you’d want to move, rigid where you’d want to not die. Some pieces blended leather and steel so seamlessly it took me a second to even tell where one ended and the other began. This was solid craftmanship.
+
+Behind one of the displays stood a slim woman adjusting the straps on a chestpiece. Late thirties, maybe. Light brown hair pulled back into a knot. She didn’t look anything like the brawny blacksmith I’d expected to find here.
+
+She looked up when the door closed and smiled. “Welcome. How can I help you?”
+
+“…You’re the [Blacksmith]?” I asked.
+
+She laughed. “No, that’s my husband.”
+
+Right on cue, a voice boomed from the back of the shop. “No, you idiot, not like that! If you heat it unevenly you’ll ruin the—”
+
+There was a loud clang, followed by a curse.
+
+She gestured toward the noise. “That’s him. I’m a [Leatherworker]. We figured it made sense to combine our skills. Most people do either leather or metal. We do both.”
+
+I glanced at the armor. “That’s actually pretty clever.”
+
+“Thank you. So what brings you in today?”
+
+From the back of the shop came another clang, followed by, “I told you not to—!”
+
+I nodded toward the noise coming from the back. “Everything alright in there?”
+
+“Oh, yes,” she said. “He’s just working with his apprentice. The boy’s level four and still thinks every problem can be solved by hitting it harder. He means well, but he needs… supervision.”
+
+I could have sworn I heard a little snort coming from my satchel.
+
+Another clang followed by another curse.
+
+She sighed. “A lot of supervision.”
+
+I shrugged, then gestured toward Kasia. “Do you have anything that would fit her? Something light, but focused on maximum protection.”
+
+The woman looked her over. “Hmmm. I think so, yes. We have a couple of sets that should work.”
+
+"What about enchantments?" I asked. "Or runestones?"
+
+"Of course," she said. "Though as I’m sure you’re aware, runewords come at a significant extra cost. The stones themselves are rare and expensive." She paused, glancing at my tattered cloak and Kasia’s dirty clothes and obviously oversized boots. "Not that you look like you can’t afford it, of course."
+
+I looked down at my cloak and dirty boots. I absolutely looked like I couldn’t afford it. Kasia somehow looked even worse, just with less holes and blood. Okay, maybe I looked worse.
+
+I looked back up. “Money won’t be a problem. We’ve just been traveling for a while, and let’s just say the journey was… eventful. Which is why we’re in need of new gear.”
+
+The woman nodded thoughtfully. “It happens. We are pretty far off from the nearest town.”
+
+The woman walked over to a rack and pulled off what looked like a relatively simple leather tunic and pants. Honestly, it looked so light it might as well have been fabric. Was that lamb leather or something? It didn’t look like it would stop anything at all.
+
+What part of "maximum protection" did she not understand?
+
+I was about to say we needed something with actual defense when she turned the tunic inside out, revealing very fine metal rings woven throughout the interior. She smiled. "We like to keep these discrete when possible. Both pieces have a +100% Enhanced Defense enchantment as well."
+
+That was actually perfect. That enchantment would boost the armor itself, not the wearer, so Kasia would still get significant protection. And being as light as possible meant she could run away faster if things went badly. Which, let’s be honest, was likely to happen…. Again.
+
+"It’s twenty-five silver for the set," the woman said.
+
+A little pricey, but thanks to the bwotnik’s generosity, I could spare it.
+
+"I like it," I said. "What about the other one? With runestones?"
+
+"Oh, we have a similar, but unenchanted set if you prefer. We don’t add the runestones until someone commits to buying. Wouldn’t want to use them on something that doesn’t sell. The price, of course, would depend on which runeword you’d like us to use."
+
+That made sense. Kasia wouldn’t be able to get the full benefit of most enchantments until she turned eighteen, but it would be good to have something on hand already. Double points if there’s something that gives enhanced defense like the set the shopkeeper just showed.
+
+I tapped my chin. My mask-chin. “So… which runewords do you have on offer?”
+
+“I’m glad you asked,” the woman said with a grin. “The defensive combinations we currently are able to provide you with are ‘Steeled,’ ‘Fortify,” and ‘Reflex.’ I know ‘Reflex’ may not be considered max defense per se, but it does have some enhanced defense, which is why I included it. If you have any runestones yourself we might be able to provide additional combinations.”
+
+“Hmmm.”
+
+“Does any of those have your preference?”
+
+I wondered if I could get her to write down all combinations she knew. If she was selling them she probably wouldn’t be opposed to sharing them, right?
+
+“Well,” I started. “Would you be able to explain what each runeword does and which combination they use to my… companion? I’m afraid she was never educated in these matters.”
+
+The woman smiled. “Of course, no problem at all. So, here’s what each does:”
+
+Steeled - BubbleCloudBubble
+
+1/1 charges of [Iron Skin]. Recharges every twelve hours.
+
++200% Enhanced Defense
+
+Take 10% reduced damage
+
++20% Faster hit recovery
+
++10 to Barrier
+
+-25% Item Weight
+
+Fortify - FlameFrostShockPoison
+
+[Aegis] aura when equipped
+
++150% Enhanced Defense
+
++15% All Resistances
+
+Repairs 1 Durability In 5 Seconds
+
+Reflex - SpeedCloverHand
+
+Ignores the first hit once every six hours
+
++5% Chance to cast [Haste] when struck
+
++10 to Dexterity
+
++50% Enhanced Defense
+
++15% Enhanced Movement Speed
+
+I knew [Iron Skin] makes your skin harder to penetrate. Which would give Kasia some more survivability.
+
+“What does [Aegis] do?” Kasia asked.
+
+“It gives enhanced defense, increased resistances, and reduces damage taken for the entire party,” the woman answered.
+
+That could be good. If I gave her that, I’d also receive some benefits. “Does the aura stack?” I asked.
+
+She shook her head. “Afraid not.”
+
+Figures. That would be too good to be true. “What about the ignores first hit on Reflex?”
+
+The woman shook her head again. “Unfortunately they both activate at the same time. So it really is just once every six hours.”
+
+I kind of wanted to ask if anything else could be made using the runes I had, but I was afraid that if I told her I had a Steel rune I might paint another target on my back. “Anything defensive you can make with Flame, Shock, Poison or Cloud?”
+
+“Not sure. But I don’t know of any such combinations.”
+
+So the question was do I give Kasia maximum defense now, and get her a set of Steeled (assuming I could afford it), or do I look ahead and maybe give her a Fortify tunic and Reflex pants? The quality of the gear looked good and while 50% may be a significant difference it could be worth having the aura, since it would affect the whole party.
+
+Speaking of parties… I wondered if Vasil could join my party. He did have a class after all. Would he get experience if I killed someone while he was in my party? Would I be able to level him up? Would I… Wait. I was trying to decide on what to get Kasia.
+
+Not knowing what class Kasia was going to get made deciding a bit more difficult, but these runewords seemed like they would be useful to anyone. Investing in her future survivability while also boosting her current survivability (albeit slightly less than double Steeling) ultimately sounded like the wisest course of action. And if we did come across better gear she could always switch.
+
+I turned to Kasia. “You know, I said I wanted maximum protection for you—and I still do—but… I think going for a Fortify tunic and Reflex pants would be the smartest idea here. You’re most likely to get hit in the upper body, which is why I feel Fortify would serve you best. And I know the other enhancements won’t activate until you’re eighteen, but I can’t guarantee we will find you something better and these are actually really good.”
+
+Kasia opened her mouth.
+
+I raised my hand. “And it’s definitely better than what you have on right now. No offense.”
+
+I gestured to myself. “And better than what I have on as well. Though you have less holes in yours.”
+
+“We will take a Fortify tunic and Reflex pants,” I told the shopkeeper.
+
+She nodded. “Was that all, or would you like anything else?”
+
+“Oh yes. Do you have any runewords geared toward offensive Dexterity or Attunement builds. Perhaps both?”

@@ -1,0 +1,195 @@
+I opened up the System and checked. Apparently I did have access to [Piercing Insight].
+
+“It’s there,” I said. “How does it work?”
+
+Jelka leaned back. “You just toggle it on, and it will continuously drain a relatively small amount of mana. The more objects you want to look through, the more mana it will drain.”
+
+“So it’s not like it gives you 360 degree vision?”
+
+She shook her head.
+
+I turned to Vasil. “That’s not ideal. I mean, [Piercing Insight] is good, but it works best if I already know there’s something out there. What I really need right now is something that will let me know if there is something out there.”
+
+“True,” he said. “But if you choose a skill that will allow you to disguise yourself you will most likely have less need for a perception skill. The need will never go away, of course, but since you only have one free skill point at the moment, you need to make a choice.”
+
+I tapped my chin. “Alright, so we’ve only encountered one guy with [Identify], disguising my class is probably the least important of the three.”
+
+“Be ready to have an answer ready if someone asks you what your class is, though.”
+
+“Good one. I could always just tell them I’m a [Goat Herder].”
+
+“A [Goat Herder] without goats?”
+
+I crossed my arms. “A [Baker] then.”
+
+“Can you bake?” Vasil asked.
+
+“No, but what are they going to do? Ask me to bake a cake to prove it?”
+
+“Probably not. You do not look like a [Baker], though.” He gestured at my outfit. “I am not certain you will be able to convince someone wearing that gear.”
+
+“Fine. [Gunslinger] then.”
+
+He hesitated. “Ehh… Pistols are relatively uncommon in Silesia. You would still stand out.”
+
+I waved him off. “I’ll think of something. Besides, they will be looking for someone with black hair and silver eyes. If I can become blonde and blue-eyed they won’t suspect a thing.”
+
+“I am not so sure,” he said. “Not all inquisitors are stupid. Plenty of them are quite perceptive. Sniffing out people who are different is their job after all. Disguises can still be detected. And if I may be honest, you do tend to attract attention.”
+
+“My mask has done a decent enough job at keeping me anonymous. It will have to keep doing that for a little while longer. I think a perception skill will give me the most benefit at the moment.”
+
+Vasil nodded. “Solid reasoning.”
+
+I opened the System and asked it to filter perception type skills. Five of them popped up, and I read them aloud, hoping Vasil would have some insight to make choosing one easier.
+
+[Scent of Fear]
+
+Type: Passive
+
+Is that sweat in your pocket or are you just happy to see me?
+
+Fear has a smell. You can smell fear in those around you. Scales with Attunement.
+
+“I feel like this one wouldn’t help me that much. I’d imagine people are scared all the time, and most people already smell bad enough without me smelling their fear.”
+
+“I agree,” Vasil said. “I am sure there are better alternatives.”
+
+[Sense Malice]
+
+Type: Passive
+
+Those aren’t happy thoughts.
+
+You can sense hostile intent directed at you or others nearby. Scales with Attunement.
+
+“I like this one. I even like the others part, even though that will muddy the waters a bit. I’m not sure if it will tell me who the hostile intent is directed at, but I’d like to think that even without that it’s pretty solid. It would also allow me to keep Kasia safe. Safer.”
+
+Kasia gave me a smile.
+
+“Definitely one for the maybe pile,” Vasil said. “If you know a person’s intent you can generally extrapolate their actions, be it now or in the future.”
+
+[Observe the Observer]
+
+Type: Passive
+
+I see you see me.
+
+You become aware when someone observes you, and can see them in your mind. Scales with Attunement.
+
+“Uh. Would that mean if there are one hundred people looking at me I’d see one hundred people all around me in my head?”
+
+“That is what it sounds like,” Vasil commented.
+
+“How am I going to see and be aware of one hundred people at the same time? The more people looking at me the worse the skill becomes.”
+
+Vasil shrugged. “It has its uses. In normal situations you wouldn’t have that many people observing you, in which case you would be able to see exactly what they were doing. In that case it would be superior to [Sense Malice].”
+
+Damn it, he was right. “Maybe pile.”
+
+[Premonition]
+
+Type: Passive
+
+I saw that coming. Literally.
+
+When mortal danger is imminent, time slows briefly, allowing you to react. Only activates once per hour.
+
+I whistled. “Wow! This seems ridiculously overpowered. Especially since I’m putting points in Dexterity as well. The only downside I see is that the danger has to be mortal. If someone just wanted to blast my arm off it probably wouldn’t do anything.”
+
+“Losing an arm is better than dying,” Vasil said. “This is by far the strongest of the bunch so far. A chance to escape death is beyond invaluable.”
+
+[Mēnē’s Watchful Eye]
+
+Type: Passive
+
+The moon sees all.
+
+You gain enhanced awareness of your surroundings in all directions. Scales with Attunement.
+
+“It looks like this is actually the one I wanted in the first place,” I said.
+
+“Mēnē?” Jelka asked.
+
+I pointed up at the moon. “The moon.””
+
+“We dance for the moon sometimes,” Jelka said, “but we just call her ‘the moon.’”
+
+“Yeah, we also call her that. But we also call her Mēnē.”
+
+“Why?”
+
+“Because that’s her name.”
+
+“Huh. Never knew.”
+
+She waved at the sky. “Hi, Mēnē.”
+
+I turned back to Vasil. “Anyway, what do you think about this one?”
+
+He thought about it for a moment. “Out of all of those skills, this is the most universally useful one. It probably even synergizes with some of the others, or makes them easier to use or more effective.”
+
+“Yeah, I thought so. At the same time [Premonition] is extremely good, though.”
+
+“I cannot deny that it is good, and it will save your life, but remember that it also has a one hour cooldown. This one does not, and what makes it even more interesting is that it has your patron’s name attached to it.”
+
+“Maybe she heard me,” I said. “Maybe she put this one up because she knew I needed it.”
+
+“Maybe she did,” Vasil said. “Maybe it was already there. Either way, I think this is your best option.”
+
+“You’re probably right.” I sighed. “There are just so many good skills to choose from, and I only have a finite amount of skill points. It feels like every time I look for something I find five more skills I want to take.”
+
+Vasil shot me an empathetic look. “That is how it always is. That is why everyone’s build is unique. We are the choices we make.”
+
+“Alright then,” I said as I selected [Mēnē’s Watchful Eye].
+
+[Mēnē’s Watchful Eye] acquired.
+
+As soon as the message popped up it felt like my brain exploded. Instantly I was bombarded by thousands of different sensations stabbing painfully into my skull. Kasia’s breathing. The smell of the flowers. The rustle of the grass. A beetle buzzing through the air. Mana radiating off Jelka. The heat radiating off my skin. It was dizzying, and I grabbed my head with both hands, hoping to somehow make it stop.
+
+I dropped to my knees, still holding my head. Everything was too sharp and too loud. Somehow I could feel every blade of grass around me, every gust of wind.
+
+“Hecate?” Kasia asked, the sound slamming into me, adding to my sensory overload.
+
+“Too much,” I hissed with my eyes closed.
+
+“Calm down. Deep breaths,” Vasil said, adding another spike of pain.
+
+I did as he said. Slowly breathing in and out. As I did the pain got less and less, until after a couple of minutes everything felt normal again. Well, not normal, but manageable.
+
+I opened my eyes, but I didn’t really need to. Even though I was staring at the ground, I knew exactly where Vasil sat.
+
+“Better?” Vasil asked. His voice didn’t hurt this time, but I could somehow feel his breath as he spoke.
+
+“Yeah,” I said, standing up slowly. I felt a little shaky, but the dizziness and pain were gone. “That was intense. Still is, kind of.”
+
+I shook my head, hoping it would somehow calm my mind a bit more. It didn’t. “I still have three stat points to assign.”
+
+I opened up my stat sheet. With my current gear my Dexterity was at 54, and my Attunement at 103. That was pretty lopsided. Since it was easier for me to get Mana back I decided to put my three free points into Dexterity.
+
+Strength: 1 (1 + 0)
+
+Dexterity: 57 (24 + 33)
+
+Barrier: 1 (1 + 0)
+
+Attunement: 103 (21 + 82)
+
+Stamina: 6 (1 + 5)
+
+Luck: 1 (1 + 0)
+
+Chaos: 1 (1 + 0)
+
+Headhunter Totems Equipped: 2/2
+
+Not too shabby. I could cast [Clean Entry] thirteen times now, and if I killed someone it would be able to top me off, since it would recover more mana than it cost. Not too long ago I had to count my bullets and make sure every [Clean Entry] was a kill since it was such a mana intensive skill. Now it could be mana positive.
+
+I’d come a long way, but I knew I still had much further to go if I wanted to beat Menekrates. He might be an idiot, but the man could fight, and the troops he commanded were no slouches either.
+
+I wondered what he could be doing. Was he expanding Asteria even further? Probably. That also meant he would be getting stronger. Oh well, no sense worrying about it now, and I had a Vortex rune to obtain.
+
+I glanced at Kasia. “You think that cat is still in the tree?”
+
+She shrugged. “Stranger things have happened.”
+
+I nodded in agreement. “Something tells me stranger things are about to.”
