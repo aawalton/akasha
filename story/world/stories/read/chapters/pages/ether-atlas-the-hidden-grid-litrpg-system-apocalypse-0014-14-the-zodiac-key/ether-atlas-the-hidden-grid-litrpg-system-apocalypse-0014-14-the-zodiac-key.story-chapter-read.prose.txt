@@ -1,0 +1,247 @@
+Chapter 14
+
+"Three cultures separated by thousands of years and thousands of miles used the same geometric notation. We have always treated that as a coincidence. What if that was a memo?" - The Ether Atlas: Field Notes of Steven Parr, London
+
+Steve approached the stone relief with the same hungry focus Arthur had seen him bring to every archaeological survey: careful and methodical, a man approaching something that might rewrite what he thought he knew. The blue glow from the carved figures lit his face from below, catching the scratches on his glasses and the dried blood on his forearm where the fox bite had reopened.
+
+"Start with the blindingly obvious, Steve," Arthur said from the stone bench. He shifted his weight, resting his hands on the bone-veined rim of the Bullguard Shield. His shoulder had settled into a low, dull throb, functional enough to move, but a steady reminder of the bull's weight. "The bloke in the cloak with the knife."
+
+"Mithras," Steve said, tracing his fingers a few centimetres above the central carving without touching the stone. "The god who slays the cosmic bull. Every Mithraeum in the Roman world had this scene, the Tauroctony. It's the defining image of the cult. The core iconograph and the first part of the riddle - Where the Bull-Slayer bleeds.”
+
+"And the constellations of old?" Donna asked. She'd positioned herself at the chamber entrance, half-watching the dark stairwell behind them, half-listening. She did it so naturally that Arthur sometimes forgot it was a choice.
+
+"That's where it gets interesting." Steve traced the arc of figures flanking Mithras. "The bull is Taurus, that's straightforward. But the other animals aren't random mythology. The dog is Canis Major. The serpent is Hydra. The scorpion is Scorpius. The raven up here -" he pointed to a small figure near the top of the relief, "- is Corvus."
+
+He stepped back, taking in the full composition.
+
+"Every figure in this carving corresponds to a real constellation. Positioned in the correct relative arrangement. This isn't religious art, or at least it's just not religious art. It's an astronomical diagram carved in stone and framed as a myth."
+
+Arthur studied the glowing figures. He wasn't an astronomer, but he understood technical drawings, and Steve was right. The placement had the precision of a schematic, not the flourish of decorative sculpture. Each figure occupied a specific position relative to the others, and the lines connecting them formed a curve that looked deliberate.
+
+"The Zodiac arc," he said. The arc of the Zodiac begins to unfold.
+
+"Exactly." Steve's voice was accelerating, the pattern pulling him forward faster than caution could hold him back. "Now look at the arc itself. The constellation figures don't spread evenly around the scene. They cluster along one side, here to here." He traced the curve with his finger. "That's not a full zodiac circle. It's a segment, a slice."
+
+"It looks like a directional slice," Arthur said, tilting his head. He could see it now. The arc wasn't ornamental, it was an arrow. "The arc is acting like a sightline."
+
+Steve turned and pointed down the length of the chamber. "If you project that arc as a bearing from this position, it points southeast."
+
+“Southeast gives us half of London. You'll need to narrow it down.” Donna said from the doorway.
+
+"I know. But it's not just the constellation arc." Steve turned back to the relief. "Think about where we are. This temple was built on the banks of the Walbrook."
+
+"London's lost river," Arthur said. He'd done restoration work on buildings along its buried course. "Runs underground now. Has been buried for centuries."
+
+"Quite. And Mithraic temples weren't placed randomly. Roman religious sites were aligned with water flow and celestial orientation. It was fundamental to their sacred architecture. The Walbrook runs southeast from here, through the City, towards the Thames. The same bearing as the star map."
+
+Donna turned halfway from the doorway, keeping one eye on the dark. "So the river and the stars are both pointing southeast. But at what?"
+
+"That's what the rest of the riddle should tell us. 'The Line where the turning spheres divide.' That's the piece I haven't cracked yet."
+
+“We do need to talk about the stat points first, though. We still haven’t allocated. It is driving me mad knowing they are just sitting there unused.” Steve said, twitching.
+
+Donna looked up the stairwell and then back across the chamber. Stone on five sides. One way in. A guardian on the floor that was not going to get up again.
+
+"Four walls, one approach, and I can see all of it. It's the best room we've had since the pub." She shifted her grip on the axe. "Finish the riddle first. Then we allocate one at a time, with the other two watching the stairwell. Nobody goes down twitching without cover."
+
+"You're agreeing with me."
+
+"I'm agreeing with the room. Don't get used to it."
+
+Steve turned back to the glowing text with the barely contained energy of a child who had been told he could open his present after dinner.
+
+“Considering we are looking at some sort of star map, a sphere could mean a heavenly body. A line that divides...”
+
+"It's obvious isn't it?" Donna said.
+
+Both men looked at her.
+
+"It is either The Equator or The Prime Meridian." She pushed off from the doorframe and walked towards the relief, her boots echoing on the flagstones. "The turning sphere is Earth. And since the equator isn't a specific location, that leaves the Prime Meridian. Zero degrees.”
+
+Steve blinked. "That's... yes. Exactly." Seek the Line where the turning spheres divide,
+
+"And the Prime Meridian was established when?" Donna asked.
+
+"1884. The International Meridian Conference in Washington."
+
+Donna gestured at the glowing two-thousand-year-old Roman carving. "So explain to me how does a riddle carved into stone before the fall of the Roman Empire reference a line that wouldn't be agreed upon for another eighteen centuries?"
+
+Steve's eyebrows went up slowly. His expression went from excitement to a look a researcher would get when they’d just found data that contradicted their model.
+
+"That's..." Steve paused. "You're right. The meridian is eighteen centuries too early. That shouldn't be here." He was looking at Donna in a strange way.
+
+"I do read, Steve."
+
+"I never said -"
+
+"Your eyebrows said it."
+
+"The Prime Meridian," Arthur repeated. The bearing, the river, the line that divides the spheres. It all converged on a single point. Greenwich.
+
+Steve stared back at the riddle. "The Hill of the Stars….yes, of course. The Royal Observatory, it sits on a hill in Greenwich Park. That's where the first signals hide." On the Hill of the Stars where the First Signals hide.
+
+But the excitement of decoding the riddle was muted by the realisation that it pointed at something larger behind it.
+
+"The zero-longitude concept existed before 1884," Steve said slowly, trying to work it out, to find a logical explanation. "The Greeks used Rhodes as their prime meridian. The French used Paris until the twentieth century. But Greenwich specifically, that was an 1884 decision. An international vote. Forty-one delegates from twenty-five nations, arguing about where to draw the line. There's no reason a Roman temple builder would reference that exact location as the zero line."
+
+"Unless, the people who designed this riddle already knew that Greenwich would become the zero line." Arthur said.
+
+"Or made sure it did," Steve added quietly.
+
+He was staring at the relief, but Arthur could tell he wasn't seeing the carving anymore. He was trying to see the pattern behind it, the one his mind had been assembling since the London Stone, maybe longer.
+
+"You know what's always bothered historians about Mithraism?" Steve said. His voice had changed. It was slower, more careful. The voice he used when a theory was forming that he wasn't sure he believed yet.
+
+"Every single Mithraeum ever excavated, from Hadrian's Wall all the way to the Syrian border, follows the same architectural layout. Of course, there is a little variation, but the similarity is uncanny. The narrow central nave. The flanking stone benches. The structural orientation. The exact same Tauroctony carving with the exact same animals in the exact same positions. Hundreds of temples across three continents, built over centuries, all matching similar specifications."
+
+"Like franchise architecture," Arthur said. He tried straightening his back and winced in pain. "Like someone issued a blueprint."
+
+"Exactly like that,” Steve said. “And modern academia has never produced a functional explanation for it. They talk about central religious hierarchies or shared ritual traditions, but none of those theories account for the physical precision. And we're not talking about rough similarity. We're talking about temples whose internal measurements match to within centimetres, built by different cultures in different centuries with no known communication between them."
+
+"Your archaeologists have published four hundred and twelve competing theories for the architectural uniformity. Several are creative. None are accurate." Archie said, glowing a warm blue.
+
+Steve stared at the floating geometry and got no further elaboration.
+
+Steve turned back to the relief. The blue glow had dimmed slightly but the figures were still visible, their engraved lines holding the light like veins holding blood.
+
+"And now I'm standing in one that contains a directional star map pointing to a location that won't be internationally significant for another eighteen hundred years, and I'm expected to believe this was just a mystery cult."
+
+"It was an instruction set," Arthur said, recognising what this was. A standardised installation following a specification document. The temple was infrastructure disguised as faith.
+
+"And whoever wrote the spec had a very long planning horizon." Donna added, moving back to the doorway.
+
+Arthur felt the scale of it settle. Like pulling up floorboards in a renovation and finding the load path extended three storeys deeper into the bedrock than the original plans indicated.
+
+He looked at Archie. The construct's geometry had been rotating in its usual slow pattern, but at Steve's words, the rotation had paused. Just for a fraction of a second.
+
+Arthur stood, rolling the bad shoulder until the joint settled. "This is bigger than a scavenger hunt, isn't it? One riddle points to a location that gives us the next riddle, and off we go again. We're being moved through a sequence." He folded his arms. "Why? What's the end goal?"
+
+Archie's geometry shifted into something more measured. "Curator protocols established a distributed evaluation sequence across the planetary node network."
+
+"Evaluation, we're being tested?" Steve asked.
+
+"The candidate is being assessed. Riddle interpretation, environmental adaptation, threat response, and collaborative problem-solving are evaluated at each stage. The tests are calibrated to the candidate."
+
+"Candidate. You keep using the singular. It's me you're evaluating. Not us." Arthur said, catching the word.
+
+Archie did not deny it.
+
+"And whoever passes the evaluation gets what?" Arthur pressed.
+
+"Access."
+
+"Access to what?"
+
+"Planetary master node authority."
+
+The words were clinical. Archie delivered them with the same flat precision he'd used to describe monster cores and Ether density. But the scale behind them was vast enough to make the ancient chamber feel suddenly, claustrophobically small.
+
+"Planetary, as in the whole planet." Steve said.
+
+"And who are these Curators? Who designed the evaluation?" Arthur continued.
+
+Silence. Locked partition.
+
+"Where is this master node?"
+
+Silence.
+
+"How many other candidates are there?"
+
+Silence.
+
+Three locked partitions in a row. A geometry that had opinions on four centuries of scholarship went silent the moment the questions turned to who, where and how many. The questions that produced the silences were the ones that mattered.
+
+The answers were somewhere in Archie's encrypted memory, waiting for milestones they hadn't reached yet. The architecture of the test extended far beyond this temple, far beyond even London, and the construct floating beside them knew exactly how far beyond. And couldn't say.
+
+"So, we're running a test we didn't sign up for," Donna said, her voice flat and professional. The tone said that the briefing was bad, but the mission was proceeding anyway. "Designed by people we can't identify. Leading to a destination we can't see. And the prize is control of something planetary. Is that pretty much it?"
+
+"That is a functionally accurate summary," Archie said.
+
+Donna looked at Arthur. "And our alternative is?"
+
+Arthur thought about the wounded sky, the dead city and the creatures in the streets. "We both know we are not going to just hunker down. So we don't have one," he said.
+
+"Fine then, we see what these attributes points are and then we go to Greenwich." Donna stuffed the axe in her belt. "Five miles through a city that wants to kill us, to a hill we've never been told is important, because a floating shape that just got a name thirty minutes ago says it's the next stop on a planetary treasure hunt designed by people who may have secretly invented Dungeons and Dragons."
+
+She looked at Steve. "Did I miss anything?"
+
+Steve thought for a moment. "The treasure hunt was probably designed thousands of years before D&D. The game was just a study guide."
+
+"That's all right, then.” Donna said and settled on the bench closest to the stairs. “So how does this attribute—”
+
+Donna was up and facing the stairs with her axe at the ready. Voices were coming down the stairwell. Two men at least.
+
+They came in single file. There were three of them wearing high-vis over black fleece. The acid-green illumination of the chem-light caught the reflective banding and lit them up like road signs. The man in front held a disposable lighter above his head, thumb clamped down on the gas.
+
+He looked at the green glow pooling on the flagstones, then at the blue light bleeding out of the carved relief, and let his hand drop. Then he saw the bull and stopped so abruptly that the second man walked into his back.
+
+"What the fuck is that?"
+
+"What does it look like?" Donna said from the darkness beside the arch.
+
+All three turned towards a voice that had come out of a wall. They had their truncheons raised but visibly relaxed when they realised it was a person.
+
+"It looks like a fucking bull."
+
+“There's your answer, then.”
+
+The lead man's eyes travelled the length of the dead guardian. The shoulders, the horns, the chitin armour and the ruined skull.
+
+“What's a bull doing beneath a bank?”
+
+“Haven't a clue, but it’s sorted." Arthur said.
+
+The man looked at the carcass a while longer. Arthur heard the third man whisper something that sounded suspiciously like ‘witchcraft’. When the lead man turned back, he had somewhat composed himself.
+
+“Right. One more for the list of weird bollocks we've had tonight. Come on, lads. You're not supposed to be down here.”
+
+"We're rather in the middle of something," Steve said.
+
+"Could be. Doesn't change it." He looked down at his boots and took a long breath. "Look, I've been on since six. Now we have no radio, no phones, no coppers, no idea what's going on out there. What I have got is forty people upstairs who watched three strangers walk into the basement carrying an axe, and they've had over an hour in the dark to think about it. Half of them have you down as looters. There's a woman by the desk telling anyone who'll listen you're terrorists."
+
+"Terrorists, that’s preposterous." Steve said.
+
+“Her word, not mine.”
+
+“She's had a long day,” Donna said.
+
+“We all have, love.” He said it without any heat. "Supervisor's made his call. The door at the top gets locked and barricaded tonight and it stays that way, till we get some coppers down here. We didn’t know what was down this basement. Now that I've seen it, I'm not arguing with him. So you're either coming up with us, or you're staying down here on the wrong side of it."
+
+Arthur looked at Donna and Steve. He could explain what was actually in this room and watch three exhausted men decide he was mad, dangerous, or both. He could refuse, and make them choose between a locked door and a confrontation with people just following orders. Neither ended with anybody better off.
+
+None of them wanted to be here. The one in the oversized jacket had not taken his hand off the doorframe since he came through it. Three men working the end of a shift that had stopped making sense hours ago.
+
+"We'll come up," Arthur said.
+
+Steve did not move. "Arthur."
+
+"I know."
+
+Archie hung at eye level, two metres off the lead man's shoulder, his pale blue lines folding and refolding and throwing thin geometric reflections down onto the stone. In a room this dark he should have been the brightest thing in it. The man turned for the stairs and walked past him without a flicker.
+
+Donna headed for the stairs and Arthur followed. Steve grabbed the billhook and lingered for a few seconds longer, his gaze sweeping the darkened relief one last time. The carving that had been a star map, a directional marker and a two-thousand-year-old signpost pointing towards a line that shouldn't have existed when the stone was cut.
+
+He followed the others into the dark. The Tauroctony's blue glow faded behind them, and the temple returned to the silence it had held for two thousand years.
+
+Five miles of dead city lay between here and whatever had been sitting on that hill since before the observatory was built.
+
+FIELD NOTES OF STEVEN PARR
+
+London
+
+THE TAUROCTONY / STARK WAS RIGHT AND WE BURIED HIM
+
+Karl Bernhard Stark proposed in 1869 that the animals around Mithras are constellations. Taurus, Hydra, Scorpius, Corvus, Leo, Crater. David Ulansey took it up again in 1989 and published it with Oxford. The discipline did not buy it. R. L. Gordon dismissed the whole thing as speculation heaped upon speculation, and that verdict has held for thirty-five years.
+
+The objection that killed it is simple, and I thought it was fatal. If the relief is a star map, why are there constellations missing? That patch of sky holds more than what the sculptors carved. A map with gaps is not a map. I have made that argument out loud. I made it to a student, in a seminar room, with the quiet pleasure of a man closing a door properly.
+
+Tonight the relief lit up and pointed southeast.
+
+Here is what none of us had, Stark included. The gaps are the point if it was never a map, if it was carved as a bearing. You do not carve the whole sky when you are drawing an arrow. You carve the figures that define the arc, and you leave out everything that would blur the line. Every constellation that is "missing" is missing because including it would have made the direction ambiguous. The flaw that buried the theory for a hundred and fifty years is the best evidence for it.
+
+The arc runs southeast. So does the Walbrook, under this floor. Both point at Greenwich, which became zero longitude in 1884 by a vote of forty-one delegates from twenty-five nations in a room in Washington, sixteen centuries after this stone was cut.
+
+Confession, since no one will read this but me: I once marked a student down for citing Ulansey. Not for citing him badly. For citing him at all.
+
+✎ Stark saw it in 1869 and we spent a century and a half explaining why he could not be right. We are very good at proving things are impossible. We never ask who benefits from the impossibility.

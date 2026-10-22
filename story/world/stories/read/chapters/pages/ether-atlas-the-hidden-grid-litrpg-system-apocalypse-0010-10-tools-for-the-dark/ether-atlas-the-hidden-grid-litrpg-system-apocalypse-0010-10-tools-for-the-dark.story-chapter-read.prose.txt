@@ -1,0 +1,209 @@
+Chapter 10
+
+“The human relationship with tools is the single most reliable predictor of species survival. A species that improves its tools under pressure will improve itself under pressure. A species that abandons its tools has already decided to die.” - Codex of the Long Watch, Field Observation, date unknown
+
+They were halfway to the Toolstation when Steve stopped dead on the pavement.
+
+“Steve -” Donna began.
+
+“One second.”
+
+A man sat on the kerb beside a street sign with his back against the post and his legs stretched into the gutter. His face was slack and he looked thoroughly at ease, as though the last few hours had failed to inconvenience him in the slightest. He had either found profound inner peace or profound pharmacological intervention.
+
+Every few seconds he snapped his fingers, and every third or fourth snap produced a faint blue spark that jumped between his thumb and forefinger and vanished.
+
+He was grinning at it like a child watching a magic trick he’d taught himself.
+
+Steve crouched beside him. “Mate, how are you doing that?”
+
+The man looked up with an amiable unfocused gaze. The gaze was of someone who had made his peace with the universe several hours and several substances ago. “It’s the air, innit,” he said. “Can’t you feel it? The whole sky’s humming, blud.” He snapped again and a spark jumped between his fingers. “Been doing it since the purple started. Mad, right?”
+
+Steve stared at the man’s fingers, then at the sky and then at his own hand. His lips began to move as the observations connected.
+
+Donna gave him a few seconds to get his bearings. “Please tell me you’re not about to explain how a stoned man snapping his fingers is a scientific breakthrough.”
+
+“It’s external manipulation. He’s pushing Ether out through his skin somehow, without even knowing he’s doing it. Or he’s interacting with the Ether already in the air.” Steve said, still staring at the sparks.
+
+“Or he’s generating static because it’s dry and he’s wearing a polyester jacket,” Donna said.
+
+Steve opened his mouth to object then looked at the man’s jacket. It was polyester. He filed the observation away with visible reluctance and stood up. But he didn’t move immediately. He stood on the pavement looking at his own hand, flexing his fingers, frowning at the space between his thumb and forefinger as if it owed him something.
+
+"Steve. Whatever you're about to— don't." Arthur said.
+
+Steve snapped his fingers. Nothing happened. He tried again, still nothing.
+
+“The stoned man is clearly more talented than you,” Donna said. “Accept it and walk.”
+
+“We’ll revisit this,” Steve said, with the quiet intensity of a man making a promise to the new laws of physics.
+
+“We absolutely will not,” Donna said, and kept walking.
+
+The construct’s internal lines oriented towards the man on the kerb briefly then it said, “External Ether discharge. Unstructured. Metabolically wasteful.” And then it dissolved before Steve could respond or ask a question.
+
+Steve stared at the space where it had been. “It has opinions about a stranger’s finger sparks but won’t tell us why the sky is violet.”
+
+“Keep up, Steve.” Donna said, without looking back.
+
+The Toolstation sat on the corner of a narrow side street, its signage dim beneath the purple haze. The windows were dark, the interior a cavern of unpowered shelving visible through dusty glass. A commercial-grade deadbolt that didn’t care about shoulder charges secured the door. Arthur stood there, his hand on the frame, and felt a small, absurd war break out inside his chest.
+
+He was a restoration engineer and he had spent his professional life preserving structures. Breaking into one went against something fundamental in how he was wired. Like asking a doctor to cause a wound or a firefighter to start a blaze.
+
+Donna on the other hand made a career of breaking into buildings and testing security protocols.
+
+“Glass panel, break it, reach through, thumb-turn on the inside. Don’t waste energy on the door.” Donna said and pointed at the reinforced pane beside the latch.
+
+Arthur hesitated.
+
+“Arthur. We are in the middle of a violet apocalypse, the owner is not coming back to check the till.” Donna’s expression was flat, clinical, and devoid of patience.
+
+He nodded trying to convince himself physically and then drove his elbow through the glass. The crack echoed a little too loudly down the empty street. He reached through, found the thumb-turn, and the lock disengaged with a heavy clack.
+
+The shelves were still mostly full. Arthur could see a few tools and essentials scattered on the floor but whatever panic had emptied the streets hadn't reached the hardware store yet. Without electricity the aisles felt cavernous, the light from the windows barely reaching the back wall.
+
+Donna found a stack of glow sticks on the counter, snapped one and tossed it to Steve. Acid-green chemiluminescence cut through the dark, throwing long shadows across rows of hammers, saws, and drill bits.
+
+“Chemiluminescence, reliable, low-heat, doesn’t require a battery that we clearly can’t trust.” Steve said, turning the tube in his hand.
+
+“Thank you, Professor. Grab a handful.”
+
+They moved through the aisles discovering that a hardware store is, under the right circumstances, an armoury.
+
+Arthur snagged a crowbar first. It was forged steel with a rubberised grip, a tool that existed at the intersection of leverage and violence. He wrapped his hand around it and felt the weight settle into his palm with a rightness that surprised him. It felt balanced and solid, the kind of object you could trust to do exactly what applied force demanded of it.
+
+He had written more than one survey that opened with the words forced entry, always on the other side of the damage. In a few hours he would be walking a crowbar into a structure that had stood for over two thousand years.
+
+"You look like a man having second thoughts about his own crowbar," Donna said, not looking up from the shelf she was clearing.
+
+"I've just never been on the wrong end of a forced entry."
+
+Then he saw the galvanised bin lids near the back wall and stopped.
+
+Donna raised an eyebrow as he picked one up, turned it over, and tested the gauge of the corrugated steel with his thumbnail. He reached for a short wooden handle from a nearby display.
+
+“What are you doing?”
+
+“Shield.”
+
+He grabbed a screwdriver, a handful of oversized washers, and bolted the handle through the centre of the lid in a series of quick, practised turns. He slipped his forearm through the grip and raised it. The metal was light enough to swing and dense enough to distribute an impact across the surface rather than concentrating it at a point.
+
+“That,” Donna said, studying it with the appraising eye, “is actually not terrible.”
+
+Coming from Donna, that was a five-star review.
+
+The construct assembled behind Arthur’s shoulder. Its geometry oriented towards the bin lid with seemed like something similar to analytical focus.
+
+“Adequate for dispersed impact. Concentrated force will exceed the material tolerance.”
+
+Arthur looked at it. “Noted.”
+
+Donna had found her own weapon. A short-handled fire axe, rated for structural rescue and light demolition. She swung it once in a tight arc, testing the balance and how the weight carried through the stroke. Her expression suggested she’d found something she’d been missing without quite knowing it.
+
+Steve was further down the aisle, engaged in what appeared to be a deeply personal relationship with a rack of painter’s poles.
+
+“Steve,” Donna called. “You’re not painting a ceiling. Pick a weapon.”
+
+“I’m not merely picking a weapon. I’m engineering a reach advantage.” He pulled a telescopic aluminium pole free and extended it to just under two metres. Then he moved to the garden tools section and came back holding a billhook, a short-handled tool with a heavy, inward-curving blade designed for clearing brush and cutting branches.
+
+Arthur took the rod from him, collapsed it and pressed his thumb against the locking collar.
+
+“This is thin-walled aluminium held open by a friction lock.”
+
+“And?”
+
+"And it's hollow. Extendable means hollow, and a hollow pole folds the first time you put real weight behind a swing. The tape won't save the joint when it does, it'll just mean you're holding two pieces instead of one. The first bad impact will either fold the tube or collapse it through your hands.”
+
+Steve looked at the pole, then at the tape in his hand. "...Structurally, that's a fair point."
+
+“Are there none with a handle, back there?” Arthur asked.
+
+“Not that I could see.”
+
+"Give me the billhook." Arthur took the blade and moved two aisles over, to a rack of spare tool handles sold separately. He picked one built for a garden hoe, notched the end with a hacksaw and seated the billhook's tang into the cut. Four long screws went in next, driven through pilot holes until the heads sat flush.
+
+He handed it back to Steve. "I would prefer a stronger handle but that'll hold."
+
+Steve turned it over, tested the balance, and gave it an experimental swing. A metre and a half of ash with a heavy, curved blade fixed fast to the end. It looked ridiculous. It also looked like it would take a limb off at range.
+
+Arthur looked at the result. “That’s a polearm, Steve.”
+
+“Technically, it’s a long-handled agricultural cutting tool.”
+
+“That’s a polearm.”
+
+“It’s a reaching implement with a hooked cutting edge that allows the user to engage threats from outside their effective strike radius.”
+
+“Steve. Medieval English infantry carried billhooks into battle for four hundred years. It’s a polearm. We’ve made a polearm in a Toolstation.”
+
+“The medieval infantry comparison actually supports my point of it being a garden implement,” Steve said. “Billhooks were very effective peasant weapons in European military history. Notice the word peasant. Cheap, versatile, and devastating against armoured opponents when used with proper technique.”
+
+Donna stared at him. “Do you have proper technique?”
+
+“I have theoretical technique.”
+
+“Theoretical technique,” Donna snorted. She took the polearm from his hands, tested the weight, made two short thrusting motions followed by a hooking pull, and handed it back. “Thrust first. If it hooks, pull sideways, not back. You’ll lose the blade in the chitin if you pull straight. And for God’s sake, keep it moving. The moment you plant your feet, something will close the distance and your reach advantage is gone.”
+
+“How do you know that?”
+
+“Common sense.”
+
+“Hardly, common sense. That was more like polearm combat doctrine.”
+
+“Doctrine is what you nerds call common sense that has been written down.”
+
+Arthur and Steve found steel-capped work boots in their sizes. Donna tested the soles and ankle support of the boots she was already wearing, then kept them. They added hard hats with chin straps, close-fitting safety glasses. Arthur and Steve also took cut-resistant gloves with reinforced palms. Donna tried three pairs, flexed her fingers in each and rejected all of them when they interfered with her grip.
+
+The useful workwear had already been picked over or not restocked this week. Donna searched the remaining racks for heavier jackets or trousers, but found only lightweight waterproofs, high-visibility shells and sizes none of them could use. A welding apron offered thickness at the cost of weight, heat and most of the wearer’s freedom of movement. She left it where it was.
+
+“None of this is armour,” she said. “It might keep broken glass out of your eyes or might save your skull from falling masonry, but teeth and claws will go right through.”
+
+They spent another ten minutes collecting the rest. Heavy-duty backpacks, utility belts, a coil of climbing rope. Glow sticks by the fistful. High-carbon steel knives to replace the kitchen blades. A first-aid kit that Donna opened, inspected and closed with a nod of approval.
+
+Steve examined head torches for thirty seconds before confirming that yes, whatever had killed every electronic device in London had also killed alkaline cells.
+
+“The energy discharge wasn’t electromagnetic,” he muttered, turning a dead battery over in his fingers. “An EMP wouldn’t drain a chemical cell. This is something else, something that interferes with electron flow at the atomic level.”
+
+“File it,” Donna said, strapping the fire axe to her new belt. “Right now I care about things that cut, things that block, and things that glow in the dark. Everything else is academic.”
+
+Steve filed it but Arthur saw him pocket the dead battery. Data was data.
+
+Arthur found himself standing in front of the phone charger display. Two full racks of them, USB-C and Lightning, carefully organised by brand and completely useless. He picked one up and turned it over in his hands. It was the most normal object in the building, and for just a minute he wanted to remember a world where phone chargers mattered.
+
+Then he put it back and reached for the duct tape.
+
+On his way back past the counter, Steve picked up a Lonely Planet guidebook that had been lying face-down next to the till. A train ticket to Margate was tucked between the pages as a bookmark. Someone's lunch break reading. A holiday they'd been planning. Margate was probably shit now as well.
+
+Steve pulled the ticket out, looked at it for a moment, and set it down on the counter. He kept the book.
+
+"Maps," he said, to no one.
+
+He found a carpenter's pencil in a tub by the till and slid it into the spine of the book like it had always lived there. Arthur watched him do it and said nothing. Steve with a book and something to write with was Steve wrestling back a measure of normalcy.
+
+"Don't encourage him," Donna said, from three aisles over.
+
+"I didn't say a word." Arthur protested.
+
+"That’s what I mean."
+
+The construct had not reappeared for any of Steve’s observations about the batteries. It had opinions about shield construction and Ether discharge but nothing to offer about why every electronic device in London had died. For a being that assessed institutional response probabilities and critiqued bin lid engineering, the silence was pointed.
+
+They stood in the centre of the Toolstation, glow sticks casting green light across their new hardware. Arthur with the crowbar and the improvised shield. Donna with the fire axe and a utility blade on her hip. Steve with his billhook polearm and a knife he clearly hoped he’d never have to use at the range a knife implied.
+
+They looked, Arthur thought, like the world’s least convincing adventuring party. Three people in clothes they’d put on for a Tuesday night at the pub, armed with hardware store equipment, about to descend into a Roman temple because a glowing rock had given them a riddle. He ran that sentence through his head once more, just in case repetition might lend it some dignity. It did not.
+
+Donna caught his expression. “What?”
+
+“If this were D&D,” Arthur said, “a party of three heading into an underground temple with makeshift weapons and no healing would have TPK written all over it.”
+
+Steve looked at him. “Total party kill?”
+
+“Total party kill.”
+
+“Well,” Steve said. He shouldered the polearm with as much dignity as a polearm in a store would permit, “let’s hope you’re a more generous DM in real life than you are on Tuesdays.”
+
+At the door, Donna waited for the street to clear. “Bloomberg building. Two hundred metres south. Stay tight, stay quiet, and if anything moves that isn’t human, Arthur’s in front.”
+
+Arthur raised the shield in acknowledgement.
+
+He thought about the riddle. To ground the First Signal in the chamber below. The stone had given them a destination, a direction, and a puzzle. What it hadn’t given them was any indication of what grounding the signal would require, or what waited in a temple that had been buried beneath the city for two millennia.
+
+The pull behind his eyes sharpened. Whatever was down there knew they were coming.

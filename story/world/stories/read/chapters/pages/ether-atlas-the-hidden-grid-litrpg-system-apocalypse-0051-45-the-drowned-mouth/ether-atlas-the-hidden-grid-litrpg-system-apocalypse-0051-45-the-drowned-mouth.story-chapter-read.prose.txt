@@ -1,0 +1,233 @@
+Chapter 45
+
+“The Ether yield on Marseille's marine fauna is triple the harbour average. The water is concentrating it. Whatever we find at the cave entrance has been saturating in liquid Ether for over a week. I am trying to think of this as an opportunity rather than a death sentence.” -  The Ether Atlas: Field Notes of Steven Parr, Marseille
+
+The harbour shallows were three metres deep and smelled of salt and Ether.
+
+Léonie had sourced four full kits from the Pointe-Rouge dive centre: tanks, regulators, BCD vests, wetsuits, masks, fins. The spearguns came from the rental rack, three spring-loaded harpoons, each loaded with a single barbed shaft. She'd also brought a bag of chemical light sticks from the emergency supplies. They'd have to navigate by glow stick and whatever bioluminescence the Ether had produced in the tunnel.
+
+Donna took to the water with her usual competence. Mask sealed, regulator in, descent controlled. Ten years since her open water certification and the muscle memory was still there. Léonie watched her clear her ears at two metres and gave a nod that meant one less problem.
+
+Arthur was definitely a problem.
+
+He stood waist-deep in the harbour holding the regulator like a man assessing a pipe fitting. "The first-stage reduces tank pressure to intermediate. The second-stage delivers on demand through the diaphragm valve. The exhaust goes through the one-way-"
+
+"Arthur." Léonie was standing in front of him. "Put it in your mouth. Breathe."
+
+"I'm trying to understand the failure modes."
+
+"The failure mode is drowning. The prevention is breathing. Put it in your mouth."
+
+Arthur put the regulator in his mouth and breathed. His engineering brain spent the first thirty seconds cataloguing the airflow dynamics and the next thirty accepting that the device worked regardless of whether he understood every component or not. Léonie took him to two metres. He equalised. She took him to three. He equalised again. His hands kept reaching for the regulator to check the connection.
+
+"Stop touching it," Léonie said when they surfaced. "Every time you grab the regulator, you risk breaking the seal. Trust the equipment."
+
+"He doesn't trust equipment he hasn't inspected," Donna said from where she was floating comfortably on her back.
+
+"At thirty-seven metres he'll have to."
+
+Steve was definitely a problem, as well.
+
+He'd entered the water holding the focus rod in one hand and the regulator in the other, asking Léonie about nitrogen narcosis thresholds while simultaneously trying to calculate whether Ether density in the water column would affect gas absorption rates.
+
+"At thirty-seven metres on air, narcosis onset is likely," he said, treading water with the coordination of a man whose body existed primarily to transport his brain from one location to another. "But if Constitution scales resistance to physiological stress, and our CON ranges from ten to whatever someone gets to, the narcosis threshold should shift proportionally. Arthur might not feel it at all. I'll probably be impaired. How impaired depends on-"
+
+"Steve." Léonie was holding his BCD inflator. "You are going down."
+
+He was. He'd been talking with the regulator in his mouth, a muffled, determined mumbling through rubber, and had forgotten to inflate his vest against the weight of his kit. Léonie stabbed the inflator button and air hissed into the BCD. Steve rose; water ran down his mask. He hadn't stopped talking.
+
+"-mfpends on the interaction between nitrogen partial pressure and Nadi Matrix compensation, which we haven't tested, so actually this dive is also an experiment in-"
+
+"Your friend," Léonie said to Donna. "Does he stop?"
+
+"No."
+
+"Ever?"
+
+"When he's unconscious. Sometimes not even then. He talks in his sleep."
+
+Léonie looked at Steve, who was now examining the harpoon's spring mechanism while floating at an angle that suggested buoyancy was a concept he understood theoretically but had not internalised. She closed her eyes for a moment. When she opened them, the decision to take this job was buried under several new layers of professional resignation.
+
+"Regulator stays in your mouth at all times below the surface," she said to Steve. "If you take it out to talk, you will inhale water. At thirty-seven metres, inhaling water is fatal. This is my one rule for you specifically. Can you follow it?"
+
+Steve opened his mouth.
+
+"That was not an invitation to answer."
+
+Donna laughed. Arthur, mask around his neck, allowed himself a smile. Steve looked wounded, like a man who had been told to stop doing the only thing he knew how to do.
+
+Léonie ran the training until dusk. By the end of it Arthur had stopped reaching for his regulator every thirty seconds. Donna's ten-year-old skills had returned with the ease only she was capable of. Steve could equalise without holding his nose, though he was still talking.
+
+Back at the compound they ate whatever Maryam put in front of them and slept without dreaming.
+
+They spent the morning reviewing the cave. Léonie unrolled a chart of the Calanques on the compound table and walked them through the entry, the bend at sixty metres, the narrowing passage, the final ascent to the chamber. She had them repeat the guide-line protocol until Steve could recite it without looking. Donna cleaned her harpoon. Arthur inspected every seal on every regulator twice.
+
+By noon the kit was loaded, the skiff was waiting, and the water was flat.
+
+* * *
+
+They rowed south along the Calanques in a fishing skiff that Rémy had requisitioned from the harbour. Four divers, four kits, three harpoons, and a bag of glow sticks.
+
+Arthur had told Léonie about Archie before they launched. "Our guidance system will be with us. You can't see him. He'll speak occasionally."
+
+Léonie had stared at him for a long time. "An invisible voice."
+
+"Yes."
+
+"And you trust it?"
+
+"With our lives. Every day for the last ten days."
+
+She'd looked out at the water for a while after that. "Fou. The world has gone complètement fou." When she finally spoke again, it was the voice of a scientist who had decided to treat an impossible data point as provisional rather than fictional. "If it speaks to me directly, I may need a moment."
+
+They rowed in silence for a while. The Calanques slid past, pale rock giving way to scrub pines and coves the colour of glass.
+
+"Your species' relationship with this medium has always been contradictory," Archie said. The first words he'd spoken since they'd launched. "You require it for survival. You cannot breathe it. You build vessels to cross it and structures to keep it out. Seventy percent of your ocean floor remains unmapped. You have better cartography of the lunar surface."
+
+"He does this," Steve said to Léonie. "Commentary."
+
+"I provide contextual observations relevant to the operational environment."
+
+"Commentary," Donna said.
+
+Léonie looked at the space beside Arthur's shoulder where no one was sitting. She said nothing, but her grip on the oars changed.
+
+The water changed at Cap Morgiou.
+
+There was a shift in the light beneath the surface. The Mediterranean had carried a faint luminescence near the shore, the Ether giving the water an underlayer glow visible in the right conditions. Here, near the cave, the glow was stronger. The water felt denser somehow. Heavier against the oar blades. When Arthur pulled his hand through it, the luminescence clung to his fingers for a moment before fading.
+
+"Ether saturation in the water column is elevated," Archie said. "Proximity to the submerged node is increasing ambient density. The marine environment within a two-hundred-metre radius of the cave entrance will contain organisms adapted to this concentration."
+
+"Translation," Donna said.
+
+"The things in the water near the cave will be stronger than the things in the water away from it."
+
+Léonie was watching the water with a worried expression. "The entry point is below us. About forty metres east. The cliff face drops straight down to a ledge at fifteen metres, then slopes to the tunnel entrance at thirty-seven." She had started to pull on her wetsuit. "Stay close and follow the guide line. Don't touch the walls; the silt will blind us. And if I signal to surface, you surface. No hesitation."
+
+They geared up in the rocking skiff. The tanks were on. The regulators were checked. The masks were cleared. They were as ready as they could be.
+
+Léonie dropped the anchor and tied off the guide line. She looked at each of them in turn.
+
+"Ready?"
+
+Arthur put the regulator in his mouth, tasting rubber and compressed air. Thirty-seven metres of water between him and a cave that had been sealed since the ice age. Something down there the Seeders had prepared before the people who painted the walls had been born.
+
+They went over the side.
+
+* * *
+
+The world went blue and silent.
+
+Arthur's breath underwater was the strangest sensation of his life: his lungs expanding against water pressure, the regulator delivering air that tasted metallic and insufficient despite being exactly what his body needed. The harbour shallows had been practice. This was the real thing. Three metres. Then five. Then ten. The cliff face beside them dropping away into a darkness the glow sticks barely touched.
+
+Léonie led, her movements economical, her fin strokes producing distance without effort. Donna followed, adapting to the medium with the fluid precision that her rewired nervous system gave to everything she did. Arthur came third, breathing too fast, forcing himself to slow down, his engineer's instinct fighting the absence of solid ground. Steve was last, the focus rod clipped to his BCD harness, his eyes wide behind the mask.
+
+At twenty metres the luminescence in the water became visible without the glow sticks. The Ether glow rose from below, a violet shimmer that silhouetted the cliff face and turned the descending slope into a terrain of shadows and light. It was beautiful and Arthur hated it. Beauty underwater meant energy, and energy near a node meant creatures.
+
+They saw the tunnel entrance at thirty metres. A dark oval mouth in the limestone, maybe three metres wide and two tall. The guide line from Léonie's reel trailed into it. The Ether glow was strongest here, pulsing from the tunnel's throat in slow rhythms that reminded Arthur of breathing.
+
+The first creature hit Donna's tank.
+
+It was fast and came from the left. A shape Arthur couldn't resolve in the distorted light: torpedo-bodied, bioluminescent, a trail of cold blue light behind it. Donna spun. Her harpoon tracked the shape but it was gone, circling back into the dark.
+
+Then two more came from below. Rising from the slope like missiles, angling toward Steve at the back of the formation. Steve fumbled the focus rod off his harness. Arthur kicked toward him, shield up, and caught one creature on the Ironhold. The impact was different underwater: muffled, heavy, the water transmitting the force across his entire body instead of concentrating it on the shield. The creature rebounded and came back and a third joined it.
+
+They were everywhere. Six. Eight. Coming from the dark in every direction: above, below, flanking. Léonie was surrounded. She put her harpoon through one creature's body and it kept coming, the barbed shaft through its midsection, bioluminescent blood clouding the water.
+
+Steve pointed the rod at the nearest cluster and fired.
+
+The concussive burst was catastrophic.
+
+Underwater, the pressure wave expanded in every direction. The creatures in Steve's line of fire tumbled backward, stunned or dead. But the wave hit everyone else too. Arthur felt it in his sinuses, his chest, his teeth: a compression that squeezed every air space in his body simultaneously. His ears screamed. Donna doubled over. Léonie's mask cracked.
+
+ETHER ABSORBED: 47
+
+ETHER ABSORBED: 52
+
+ETHER ABSORBED: 44
+
+INTEGRATION: 180/ 1,328
+
+Léonie grabbed Arthur's arm. Her hand signal was unambiguous even through the ringing in his ears and the cracked mask leaking water against her face. Up. Now.
+
+They ascended, Léonie controlling the rate despite a mask full of water, one hand on her BCD deflator, the other pulling Steve by his harness. The creatures didn't follow past fifteen metres. The pressure wave had bought them that much. The cost was four sets of ringing ears, a cracked mask, and the certain knowledge that the tunnel was defended.
+
+* * *
+
+They sat in the skiff and bled from their noses and didn't talk for two minutes.
+
+Léonie pulled off the cracked mask. Her hands had a tremor she couldn't hide. She pinched the bridge of her nose and tilted her head back. Blood ran down her chin. She sat like that for thirty seconds, breathing through her mouth, before she trusted her voice.
+
+"What was that?" she said finally, controlling the anger in her voice.
+
+"Concussive burst," Steve said. "The pressure wave. I didn't account for water being incompressible. I-"
+
+"I know what a pressure wave is." Léonie's voice was tight. "I have studied marine acoustics for six years. I know what sonar does to cetacean tissue. You just did that to us. At thirty metres. My mask cracked. My mask cracked at depth. Do you understand what happens if a mask fails at thirty-seven metres?"
+
+"I know," Steve said. He was holding the focus rod and staring at it like it had betrayed him. "Water doesn't compress. The pressure wave propagated omnidirectionally. I should have-"
+
+"You should have known that a blast weapon in an incompressible medium would hit everyone in the water," Arthur said. He was pressing his palm against his right ear. The ringing was fading, but his hearing felt stuffed with cotton.
+
+"But it's not just you. I should have known it too. I know how pressure waves work in enclosed structures. Water is just a structure without walls."
+
+"I have a PhD and I forgot that water doesn't compress. If anyone would like to revoke my doctorate, the paperwork is at Goldsmiths." Steve said
+
+"The rod," Steve said. His cascade was engaging despite the nosebleed. "The rod focuses output directionally. Ninety-four percent forward on thermal. If I can get the same directionality on concussive, shape the pressure wave into a cone instead of a sphere-"
+
+"Archie," Arthur said. "Can the focus rod shape a concussive burst directionally?"
+
+"The channelling geometry of the focus is designed for axial output. Thermal projection achieves ninety-four percent forward directionality. Concussive projection, which involves compression of the surrounding medium rather than excitation, will achieve lower directionality. Approximately seventy percent forward. Thirty percent lateral and rearward scatter."
+
+"Aquatic fauna in Ether-dense water are consistently more aggressive than terrestrial equivalents," Archie added. "On Ketharis, predators within high-saturation zones developed coordinated territorial behaviour within the first tidal cycle. The Ketharis fauna were eventually managed through acoustic disruption. Your current approach is a crude analogue."
+
+"Crude," Steve repeated.
+
+"Functional. Crude. These are not mutually exclusive."
+
+"Seventy percent," Donna said. She was holding her ribs. The pressure wave had been unkind to bones still carrying residual ache. "That means thirty percent of a concussive blast still hits us."
+
+"At range, the scatter attenuates," Steve said. "If I'm two metres ahead of you, the thirty percent that reaches you is a shove. Uncomfortable but not dangerous."
+
+"And if you're one metre ahead?"
+
+"Then it's more than a shove."
+
+Arthur looked at the water. The glow from below pulsed. The creatures were still down there, circling the tunnel entrance, waiting for the next attempt.
+
+"The formation has to change," he said. "Steve goes first."
+
+Everyone in the skiff looked at him.
+
+"Steve leads and we follow two metres behind. If he fires forward, the concussive wave goes into the tunnel ahead of us. We stay behind him, outside the worst of the scatter. Léonie stays behind Steve for navigation. Donna and I on the flanks with harpoons for anything that comes from the sides or behind."
+
+"You want the mage at the front," Donna said.
+
+"I want the only person with a ranged area weapon at the front of a formation moving through a tunnel full of creatures that attack from every direction. Yes."
+
+"Every tactical instinct I have says the glass cannon does not lead the charge."
+
+"Every tactical instinct you have was built on land. We're in water. The physics changed. Steve's the only one who got stronger when we went under."
+
+Steve looked at Donna for a long moment. He was still bleeding from the nose, still holding the rod that had nearly deafened them all, still the man with Constitution 10 and the structural integrity of damp cardboard. But behind the blood and the guilt, something had clicked into place.
+
+"Aren't you glad," he said, "you have a mage in the party?"
+
+Donna wiped blood off her upper lip. "Ask me again when my ears stop ringing."
+
+Léonie had been quiet through the tactical discussion. She'd replaced the cracked mask with the spare from her kit bag. When she spoke, her voice carried the measured calm of someone who had made a professional assessment and arrived at a conclusion she didn't enjoy.
+
+"The formation works. Steve in front, me behind him, you two on the flanks. But the tunnel is a hundred and seventy-five metres. At the pace we'll need to maintain with creatures in the water, that's six to eight minutes submerged. Steve, how many concussive bursts can you sustain?"
+
+Steve thought about it. "Six. Maybe eight. The rod reduces the Reserve cost but each burst still drains. After eight I'm empty and we're back to harpoons."
+
+"Steve, don't waste Reserve on isolated creatures," Arthur said. "Save the bursts for clusters: places where they're packed together and one shot clears the path." He looked at Léonie. "You know this tunnel. Where does it narrow? Where will they bunch up?"
+
+Léonie thought about it. "There are three points. The entrance is the widest about three metres. At about sixty metres in, the tunnel drops and narrows to maybe a metre and a half. That's where anything territorial will hold. Then it widens briefly before a sharp left turn at a hundred and twenty metres. The turn is blind. After that, it's a straight run up to the dry chamber."
+
+"Three chokepoints," Arthur said. "Three bursts minimum. Steve, those are your targets. Everything in between, Donna and I handle with harpoons. You don't fire unless it's a chokepoint or we're about to die."
+
+Steve nodded once. Léonie looked at Arthur.
+
+"Second dive. Same entry point. Different approach." She pulled the mask over her face. "My water. My rules."
+
+They went over the side.

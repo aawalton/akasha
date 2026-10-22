@@ -1,0 +1,249 @@
+Chapter 41
+
+“Every dungeon master knows: the side quest is where the real loot is. The main quest gives you the story. The detour gives you the tools to survive it.” - The Ether Atlas: Field Notes of Steven Parr, Marseille
+
+Steve had been reading the riddle by chemlight since they’d made camp on the basilica terrace. Arthur woke to find him cross-legged beside the compass rose with the Lonely Planet open on his knees, the Mediterranean archaeological survey propped against his thigh, and the guidebook margins filled with new notation.
+
+“Crown of the Guard,” Steve said, without looking up. “That’s here. We’re on it. Salt wind’s road: south, the Mistral. We had that already. But the next line.” He tapped the brass inlay. “Follow the Phocaean shore where the old waters flowed. Phocaean is Marseille. The city was founded by Greeks from Phocaea in 600 BC. So we’re following the coastline south. But where the old waters flowed: that’s not just ‘the sea.’ That’s a sea level reference. Waters that used to be somewhere they aren’t now.”
+
+"So sea level changes," Arthur said, sitting up. He had slept longer than intended.
+
+"Exactly. The Mediterranean was a hundred and thirty metres lower during the last ice age. The entire coastline south of here, the Calanques, was dry land. Grassland, actually. People walked where fish swim now."
+
+Steve got up, arched his back to hear a satisfying click, and continued. "So the riddle is pointing us to somewhere on the coast where the geography changed when the water rose. Somewhere that used to be accessible and isn't anymore."
+
+Arthur rubbed at his jaw, thinking. "A Phocaean site, then. Something the Greeks built on dry ground that's now underwater."
+
+Steve stopped pacing. "That's… actually not a bad call." He ran a finger down the riddle text. "There are submerged Hellenistic structures along this coast. Dock remains, quarry faces. Whole harbour layers below the modern waterline. Some of it's been surveyed by dive teams, a lot of it hasn't."
+
+"Descend past the drowned mouth to the painted hall," Arthur read. "Would a submerged Greek dock have a painted hall?"
+
+Steve's hand stopped on the page.
+
+"Actually, no." He looked up. "Frescoes don't survive submergence. Pigment on plaster in salt water for two thousand years doesn't stay pigment on plaster. A few mosaic floor fragments, maybe, but mosaics aren't painted hall." He started pacing again, faster. "Painted hall means pigment on stone walls. Painted hall means -"
+
+"A cave," Donna said.
+
+Both of them looked at her.
+
+She was still on the terrace wall, one boot up, watching the city come awake below. She hadn't moved in ten minutes. "You keep saying place. Riddle doesn't say place. Says mouth. Mouths are on things."
+
+Steve made a small grunt and looked down at his notes.
+
+"Painted hall behind a drowned mouth." He picked up the pacing again, slower now, working it through. "A cave with decorated walls whose entrance is underwater. The Calanques are riddled with sea caves. Hundreds of them. Most are just erosion voids with nothing in them." He stopped. "But there's one that matters. One that isn't just a hole in the cliff."
+
+Arthur waited.
+
+"There's only one place on this coastline that fits," Steve said. "I didn't see it last night because I was thinking about caves you walk into. This is a cave you dive into."
+
+"The candidate's interpretation accuracy is currently at ninety-one percent," Archie said.
+
+Steve spun toward him. "What's the other nine percent?"
+
+"The nine percent you have not yet reached."
+
+"That's… you can't just… which part is the nine percent?"
+
+"Continue."
+
+Donna looked at Arthur. “I think Archie is enjoying this.”
+
+“Enjoyment is not within my operational parameters,” Archie said.
+
+Steve opened the Mediterranean survey to a dog-eared page, muttering about floating shapes with withholding problems. A cross-section diagram showed a coastal cliff with a long tunnel angling upward from deep underwater to a dry chamber above.
+
+“Cosquer Cave. Discovered in 1985 by a diver named Henri Cosquer. The entrance is thirty-seven metres below the surface near Cap Morgiou, about ten kilometres south of here. The access tunnel is a hundred and seventy-five metres long, completely submerged. But it leads up to a dry chamber, a massive space that was above sea level when people used it twenty-seven thousand years ago.” He looked at Arthur. “The painted hall. There are hundreds of prehistoric paintings inside. Horses, bison, seals, auks. And here’s the part that matters.”
+
+He held up the book. A photograph of a cave wall covered in dark handprints, palms pressed to stone and pigment blown around them. The negative shapes of human hands preserved for millennia.
+
+“Sixty-five hand stencils. Gravettian era. Men, women, children; they laid their hands against the wall and blew pigment around them. The oldest are twenty-seven thousand years old.” He set the book down. “Place your hand where the first hands touched the wall. Arthur, you have to find the right handprint and set your palm into it. The activation is in a cave that’s been underwater for ten thousand years.”
+
+“There we go touching stuff again,” Donna said dryly.
+
+“Ninety-one percent,” Archie announced.
+
+Steve turned. “I’ve identified the location, the entrance, the painted hall, and the activation mechanism. What am I missing?”
+
+“The temporal reference in the riddle is imprecise. The hand stencils were created twenty-seven thousand years before the present. The cave entrance submerged approximately ten thousand years before the present. However, the infrastructure predates both.”
+
+Steve’s mouth opened to argue and then closed. “The Seeder infrastructure in the cave is older than the paintings. Older than twenty-seven thousand years.”
+
+“The hand stencils were placed on a wall that was already prepared for them.”
+
+Steve sat down on the compass rose. “The Gravettian people who made those handprints; they weren’t just making art. Someone told them where to put their hands. Someone showed them which wall. The same way someone showed Francis the First where to build his fort and the Templars where to build their round church.”
+
+Archie said nothing. Which was confirmation enough.
+
+Donna looked south toward the coast. “The cave that’s thirty-seven metres underwater.”
+
+“Yes.”
+
+“We need a diver.”
+
+“We need a diver,” Steve agreed. “Nadia mentioned there is a marine biologist at the camp.” He thought for a second. “Léonie, I think. If anyone on this coast can get us into a submerged cave system, it’s probably her.”
+
+“Steve,” Arthur said. “On the climb up. You mentioned a hidden stairway. 1944. The French soldier who came up behind the Germans.”
+
+Steve’s head came up from the guidebook. “You’ve been thinking about it.”
+
+“Since you said it.”
+
+They found the entrance in the fort’s old stone on the north face, below the basilica’s foundation wall. An iron military door, sealed by rust and time. Whether this was the stairway the liberation soldier had used or a deeper access point, the fort had more underneath it than the Germans had found.
+
+It had been invisible yesterday. Today, the node’s Ether channels traced its frame in faint blue lines, the Grid’s infrastructure marking the boundary between the surface and whatever was beneath.
+
+Arthur set his hand on the iron. It was cool and dense, and the rust crumbled at his touch, the metal beneath darker than it should have been. It was transmuting.
+
+“Sanctum-grade density on military ironwork. If the transmutation has been working on anything down there, doors, fittings, structural hardware, there might be materials worth the risk,” Steve said.
+
+“Might,” Donna said. “Is doing a lot of work in that sentence.”
+
+“We need Ether,” Arthur said. “Level 10 is close. If Archie’s right about class recognition at ten, that’s a technique evolution for all three of us. Going into Cosquer Cave at Level 9 with what we have is one thing. Going in at Level 10 with upgraded abilities is another.”
+
+“The cave isn’t going anywhere,” Steve added.
+
+Donna looked at the glowing door frame. Then at Arthur. And then at Steve. Two men with the expression of D&D players who had just spotted an optional dungeon and were physically incapable of walking past it.
+
+“Archie,” she said. “What’s down there?”
+
+“Ether saturation in the substructure exceeds surface readings by a factor of three. Biological signatures detected across multiple subsurface levels. Material transmutation is probable given the density and duration of exposure.” A pause. “I would note that probable is not confirmed. The candidate appears to have already made his decision regardless.”
+
+“Did Archie just call you out?” Steve said.
+
+“I observed a pattern in the candidate’s decision-making process,” Archie said. “This is within my operational parameters.”
+
+Arthur pulled the door. The rust-fused hinges resisted for a fraction of a second, then gave. Air came up from below, cold and mineral, carrying the ozone smell of concentrated Ether.
+
+“Also,” Arthur said, looking at Donna, “if you don’t do side quests, there’s no way you’re high enough level for the final boss.”
+
+“I hate both of you,” she said, and went through the door first.
+
+The stairway spiralled anticlockwise into the hill’s limestone core. It was military construction. The treads were even, the walls dressed stone, the whole thing engineered to move soldiers between levels under fire. Arthur’s hand traced the wall as they descended. The stone was warm and getting warmer.
+
+Ether light traced the walls in faint veins. The same blue channels that had lit the terrace above, but were denser here. The Grid’s infrastructure running through the rock like rebar through concrete, except the rebar had been here for thirty-five thousand years and the concrete had been poured around it by a king who thought he was building a fort.
+
+At the second landing the stairway broadened. The walls stood four feet further apart than the level above, the ceiling three feet higher. The fort was bigger on the inside than it should have been.
+
+“Spatial distortion,” Steve whispered. He was running his hand along the wall, feeling what Arthur was seeing. “The Ether is warping the geometry. Same principle as the Printworks.”
+
+“The Printworks had dense electronics as conduits,” Arthur said. “This is stone and iron.”
+
+“Stone and iron that have been channelling Grid energy for over a week on top of a major node. The substrate is different. The principle is the same.”
+
+Donna was ahead of them, moving with the silent precision that her new dexterity baseline gave her. She held up a fist, motioning them to stop.
+
+“Something moving,” she said. “Ahead and below. Multiple contacts. Small and fast.”
+
+They descended into the garrison level.
+
+The corridor stretched longer than the fort’s footprint allowed. Stone walls, vaulted ceiling, evenly spaced doorways opening into barracks rooms that hadn’t seen light since the basilica was built over them. Apart from the Ether, the air carried the smell of something biological, animal musk, dense and sour.
+
+Arthur saw the first rat and almost laughed.
+
+Then the walls moved.
+
+They came from everywhere at once. Hundreds of them, Ether-mutated, chitin-patched, each the size of a large palm. They flowed along the walls and ceiling in a living carpet, moving as a single organism. The sound was a continuous chittering rustle that filled the corridor from stone to stone.
+
+Donna struck. The axe carved through the mass, and the swarm parted around the blade like water around a stone, reforming behind it. Three rats died. The gap closed in a second.
+
+Arthur raised the Ironhold. The swarm hit the shield and flowed around its edges, over his shoulders, under his arms, chitin legs skittering across the back of his neck and down inside the collar of his vest.
+
+“Fuck! They’re behind the shield - get them off!”
+
+Steve was stamping and swatting, a rat clamped on his boot, two more running up his leg. “They’re in my bloody trousers! Shit! Donna!”
+
+Donna grabbed a rat off Steve’s shoulder and crushed it bare-handed, precision wasted on something the size of a shoe. Another one was in her hair. She ripped it out and threw it at the wall. “Back! Get back!”
+
+They retreated in a graceless, swearing tangle. Three Level 9 combat veterans reduced to slapping themselves and kicking vermin off each other in a dark corridor.
+
+Arthur found his voice between a rat leaving his collar and another one arriving at his ankle. “It’s a swarm. We need area effect. Single target doesn’t work.”
+
+Donna was already moving. “Doorway. Funnel them.”
+
+They fell back to the nearest barracks doorway, a stone frame a metre and a half wide. Arthur filled it with the shield, scraping two rats off his forearm in the process. The swarm piled against the Ironhold, rats climbing over each other.
+
+“Steve,” Arthur said. “This is the moment.”
+
+Steve stepped up behind Arthur’s shoulder. He raised his hands. The blisters from the boar fight had healed to tight pink skin. The blisters from the Notre-Dame thermal wall were fresher. He was about to add a third layer.
+
+He pushed.
+
+A cone of blue-white heat filled the doorway above Arthur’s shield. The swarm screamed. Dozens of rats caught in the thermal blast recoiled, chitin scorching, the leading edge of the mass retreating from the heat. The smell was terrible, burned fur and cooked Ether and something sweetly chemical.
+
+The swarm pulled back five metres, and Steve pushed again. A second blast was weaker, the cone narrower. But more rats died nonetheless. The swarm retreated further, the mass thinning as the survivors scattered into side rooms.
+
+Steve's third attempt guttered out after half a second. His Reserve was empty. He staggered sideways and caught himself on the wall.
+
+“Bloody rats! This is Waterdeep all over again!”
+
+“Reacher,” Donna said, and Steve unclipped the polearm from his back with trembling hands.
+
+They cleared the stragglers together. Donna’s axe and Arthur’s hammer for the clusters, Steve’s Reacher for the ones that bolted. Ten minutes of ugly, close-quarters pest control in a stone corridor that stank of burned chitin.
+
+ETHER ABSORBED: 212
+
+INTEGRATION: 456/1134
+
+When the last rat stopped twitching, Steve sat against the wall and looked at his hands. The skin across both palms was raw again, red, weeping, the fresh burns layered over the healing ones.
+
+“Two casts,” he said. “Two proper casts and a fizzle. My Reserve is empty and my hands are wrecked.” He turned them over, studying the damage like a failed excavation trench. “The throughput is there. I have the bandwidth. But the delivery, pushing raw Ether through skin that wasn’t designed for it, it’s burning me from the outside in.”
+
+“You need a focus,” Arthur said.
+
+Steve’s face lit up despite the pain. “An arcane focus. Every caster build needs one; I just never thought I’d need one literally.” The grin faded as he looked at his palms. “I need something between my hands and the Ether. A conduit. Something that can channel the output without me paying for it in skin.” He flexed his fingers carefully. “The right material, the right shape. Axial geometry: long, narrow, single direction of flow. A rod, maybe a staff. Something I can point.”
+
+“You want a wand,” Donna said.
+
+“I want a focus. There’s a difference.”
+
+“You want a wand, Steve.”
+
+“The terminology is… it’s not… the physics are completely -”
+
+“Wand.”
+
+Steve opened his mouth to argue and then stopped. His eyes went distant. The cascade face.
+
+"The Curators knew," he said quietly, looking at his hands. "Humans have been associating magic with staves and wands and rods since we started leaving records. Sumerian cylinder seals from the third millennium BC: Ninshubur, Inanna's messenger, carved carrying a staff. The attribute that marked her as a conduit between gods and mortals." He looked up. "Egyptian war-sceptres. The Greek kerukeion. Merlin, Prospero, Gandalf. Moses parted the sea with a staff. Circe turned men into pigs with a wand. Every civilisation that ever thought about magic put it through a stick."
+
+He turned his palms over.
+
+"It's not fantasy. It's engineering. Pushing raw Ether through human skin is inefficient and damaging. You need a conduit. The Curators wrote it into the human imagination over five thousand years, so that when some idiot archaeologist set his hands on fire in a dungeon under Marseille, he'd already know what he needed. He just wouldn't know he knew it."
+
+“Steve,” Donna said.
+
+“I need a wand.”
+
+“There it is.”
+
+Donna hauled him to his feet, no softness in it. “Stay behind us until your Reserve refills. And stop setting yourself on fire.”
+
+“It was effective fire.”
+
+“Two casts is not a sustainable combat contribution.”
+
+“It is if each cast kills thirty rats.”
+
+Donna looked at Arthur. His shield arm was scratched where rats had climbed over the Ironhold’s edge. Her own vest had fresh scoring across the ceramic scales, chitin claws finding purchase and sliding off the binding’s hard surface. The upgraded armour had earned its cores.
+
+“How deep does this go?” she asked and moved forward without waiting for a response.
+
+The corridor descended toward the second level, and through the warped geometry of the fort’s old bones, something heavier than rats was moving in the dark.
+
+THE ETHER ATLAS: FIELD NOTES OF STEVEN PARR
+
+Marseille
+
+THE FOCUS PRINCIPLE
+
+Two casts. A fizzle. Sixty-odd rats roasted. Third set of burns.
+
+Every civilisation that left artifacts had one of these. Viking völva, buried with an iron staff plated in bronze; the word itself means staff-bearer, and without the staff, no magic. Buddhist khakkhara, iron with a ringed head, rung to announce a monk and to scatter demons underfoot. The Etruscan lituus, curved bronze, used by augurs to mark sacred space in the sky. The Yoruba orisha Ogun carries a staff of iron; the metal is the god. The Dionysian thyrsus, fennel stalk tipped with a pine cone, carried by the maenads when the god rode them.
+
+Humans have associated magic with staves and wands since we started writing things down. Sumerian cylinder seals, third millennium BC: Ninshubur carrying a staff. Egyptian was-sceptres. Moses's staff. Circe's wand. Merlin, Prospero, Gandalf.
+
+Every civilisation that ever thought about magic put it through a stick. It is not fantasy. It is engineering. A conduit between the caster and the Ether.
+
+I want a wand.
+
+✎ The Curators did not write a rulebook. They wrote the image into every civilisation that kept records.

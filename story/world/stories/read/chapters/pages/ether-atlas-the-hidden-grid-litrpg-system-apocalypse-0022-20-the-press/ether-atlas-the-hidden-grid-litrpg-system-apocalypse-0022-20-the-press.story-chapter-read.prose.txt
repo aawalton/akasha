@@ -1,0 +1,271 @@
+Chapter 20
+
+“The integer is sacred. The integer is not negotiable. Do not approximate. Do not round.” - Codex of the Long Watch, Founding Tenet
+
+The production floor opened into a space that broke Arthur's brain.
+
+The first thing that was dodgy with the damn space was that it was circular. The Printworks had been a single-storey rectangular building. He'd walked its perimeter on the way in, seen the ridge-and-valley metal roof, and clocked the external dimensions out of habit.
+
+What he was standing in now could not physically fit inside what he had measured from the outside. The ceiling rose three storeys above them, far higher than the building's entire exterior height. The walls curved inward at the top like the inside of a kiln. Ether light moved through every surface; the brick, concrete and exposed wiring turned into a luminous cage of blue veins.
+
+And at the centre was a mass of metal and biology that defied explanation.
+
+It was the main printing press. Arthur could still see the original machine beneath the mutation. The massive central drum, the ink distribution rollers, the paper feed mechanism. But Ether had rewritten all of it.
+
+The drum had fused with organic tissue, chitinous plates armouring its surface. The rollers had become limbs, eight of them, each two metres long, and tipped with hardened steel, that Arthur was sure wasn’t part of the original design. The paper feed had become a mouth, a grinding aperture of interlocked metal teeth that rotated in slow, rhythmic cycles.
+
+Unlike the amalgamation, which had moved on repurposed legs, this thing was rooted to the floor. Massive conduits of fused cable and organic growth ran from its base into the concrete, feeding it Ether directly from the building's saturated infrastructure. It was the dungeon's heart.
+
+"That's the core entity," Archie stated. "The Saturation Anomaly's central node. The spatial distortion emanates from this organism."
+
+"Kill it and the dungeon collapses?" Donna asked.
+
+"The spatial extension will begin to normalise. Until enough Ether accumulation renews the cycle."
+
+"Would we have time to leave?"
+
+"The space will normalise, not collapse. So yes. Though human biology in a shrinking space has never been studied."
+
+"Archie, has anyone ever told you that your reassurances need work?" Donna said.
+
+"Reassurance is not within my operational remit."
+
+Arthur was reading the creature. The eight limbs were arranged radially around the central drum, four on each side. The drum rotated slowly, the chitinous plates catching the Ether light coming off the walls. The mouth at the front ground its teeth in the same rhythm as the distant sound they'd heard from the corridor. This was what had been grinding in the dark.
+
+"It's rooted. We control the engagement distance." Arthur said.
+
+"Limbs are two metres each," Donna said, planning the fight in her head. "Plus, the radius of the drum. Kill zone is about five metres from centre. Inside that, we're in range of four limbs at once. And we've got nothing ranged."
+
+Arthur took the numbers in. An enemy that could not chase them but with a reach that they could not match from outside. That was the trade.
+
+"But they're mechanical. They'll have a sweep pattern. Steve, you're reading."
+
+Steve had the Ether-Honed Reacher up before Arthur finished speaking; his eyes were unfocused. Arthur waited to hear whatever Steve’s higher Acuity had done for his pattern sensing obsession.
+
+"The limbs move in pairs," Steve said. "Left front and right rear swing together, then right front and left rear. Alternating. There's a gap, maybe two seconds, between each pair's sweep when the opposite side is resetting."
+
+"Entry window," Donna said. "Two seconds to get in, hit, and get out before the next pair swings."
+
+Arthur and Donna stared at the machine. They both knew two seconds was tight. At her current Dexterity maybe, it was possible, but they wouldn’t know till Donna was already within its reach.
+
+"I draw its attention from the front," Arthur said. "Shield hits on the forward limbs. I will get it to target me. You come in from the flank during the reset window. Hit the conduits at the base, the ones feeding it Ether from the floor. Cut the supply line."
+
+"That's not a one-hit job," Donna said. "Those conduits are thick."
+
+"Then you hit them more than once. I'll give you the windows."
+
+"And if it decides to target me instead of you?"
+
+"It shouldn’t. Anchored creatures defend their root structure. The biggest perceived threat to an immobile target is the thing standing in front of it hitting it. That's basic encounter design."
+
+Steve raised his hand slightly. "He's right. Stationary boss encounters almost always prioritise the highest-threat target in their forward arc. Arthur with the shield is the loudest signal."
+
+"You're both citing game design to plan a fight with a printing press that grew teeth," Donna said. "Steve, you're on limb-tracking. Call every window. If the pattern changes, I need to know before it changes, not after."
+
+"Sensory feedback through the Reacher should help. If I touch a limb during the reset, I should feel the hydraulic pressure building before it swings."
+
+"Then stay at maximum range and keep a blade on the nearest limb." She looked at Arthur. "Whenever you're ready."
+
+Arthur rolled his shoulders and positioned the shield. The creature's drum was rotating, its mouth grinding and the limbs sweeping in the paired rhythm Steve had identified. A machine that had become a monster. Or a monster fused into a machine. Either way, it had a pattern, and patterns could be broken.
+
+He stepped into the kill zone.
+
+The response from the creature was immediate. The two forward limbs snapped towards him with mechanical speed. This thing was faster than the amalgamation in the previous room, driven by direct Ether feed rather than scavenged hydraulics.
+
+Arthur caught the first on the Bullguard, the sound ringing through the chamber like a struck bell. The second limb swung low and he jumped it, the steel tip passing beneath his boots close enough to feel the displaced air.
+
+"Left pair resetting!" Steve called. "Window, now!"
+
+Donna moved. She was inside the kill zone before the word finished, her axe already swinging. The blade bit into the nearest floor conduit, a cable of fused copper and organic tissue, and the creature made a mechanical shriek, like the sound of a turbine under stress.
+
+Two of the rear limbs broke pattern and swept towards Donna. Steve felt it through the Reacher before it happened, the hydraulic pressure building in the wrong limbs at the wrong time.
+
+"Pattern break! Donna, out!"
+
+She was moving before Steve's warning had finished. Her points in Dexterity, buying her the fraction of a second she needed. The limb passed behind her close enough to catch the trailing edge of her jacket, tearing fabric but not flesh.
+
+"It adapts," Steve said in a tight voice. "It broke the alternating pattern when she hit the conduit. It's protecting the feed lines."
+
+Arthur processed the new information. An anchored creature that adapted its defence to protect its supply would redirect more limbs to defence, if the supply was properly threatened. But if it could break pattern, Donna's entry windows would shrink.
+
+"New approach," Arthur called. "Steve, can you reach a conduit from range?"
+
+Steve looked at the Reacher. It had a two-metre pole. The nearest conduit was three metres from the kill zone's edge. "If I extend fully. One shot."
+
+"Hit a conduit on the opposite side from Donna. Force it to split its defensive focus."
+
+Steve understood immediately. Two threats, Arthur in front, then Steve on right. Make it commit to protect its supply line, giving Donna time to finish what she had started on the left.
+
+"Steve on three, Donna on five." Arthur took a step forward and slammed the shield against the nearest forward limb, once, twice, drawing the creature's targeting. The front legs hammered the shield. "One. Two. Three."
+
+Steve lunged. The Reacher’s blade bit into a conduit on the far side; it was a shallow cut, but enough. The creature shrieked again and two rear limbs swung towards Steve.
+
+“Four, Steve back.”
+
+He pulled back; the pole flexed as the limb struck where his hands had been a second earlier.
+
+“Five.”
+
+And Donna was in, her axe falling again on the conduit she had already damaged.
+
+First strike.
+
+The machine arms started to move from Steve's position.
+
+Second strike.
+
+The arms were halfway to Donna when her axe fell for the third time and severed the conduit.
+
+The effect was immediate. The creature's drum stuttered, the rotation faltering as Ether supply dropped. The limbs on the severed side slowed, their movements losing the mechanical precision that they had and turned into erratic sweeps.
+
+"It's losing coherence on the left!" Steve shouted. "The DPS window just doubled."
+
+"Steve, stop narrating the raid and keep tracking."
+
+Arthur saw the opening. With the left limbs compromised, the creature's forward defence had a gap, a metre-wide window between the functioning right limbs and the dying left ones. He stepped through it, raised the crowbar, and drove the steel into the joint where the central drum met the anchor point. The structural weak point. The place where the machine connected to the floor and the floor connected to the Ether.
+
+He hit it once, twice, three times. Each strike sent a vibration up through his arms that felt like striking a foundation bolt with a sledgehammer. On the third, something gave out. Arthur knew the sound, from condemned buildings when a connection stops holding and starts falling.
+
+The drum screeched and stopped rotating, the limbs locked and the grinding mouth went silent.
+
+For a moment, all was silent. The eight limbs were extended, the drum was still, and the mouth open. Then the creature sagged. The chitinous plates cracked and shed like bark from a dead tree. The Ether light in the conduits flickered and went dark, one by one, until the chamber was lit only by the chem-light's green glow and the fading glow of the building's Ether.
+
+The dungeon's heart had stopped.
+
+***
+
+Arthur's legs buckled under him, and he went to his knees. Absorbing the full force of mechanical limbs and driving heavy crowbar blows into the foundation had emptied him. He felt hollowed out, scraped clean.
+
+THREAT NEUTRALISED
+
+ETHER ABSORBED: +285
+
+LEVEL UP: LEVEL 4
+
+INTEGRATION: 225 / 336
+
+ATTRIBUTE POINTS AVAILABLE: 3
+
+Two hundred and eighty-five. The single largest Ether gain since the system had activated. Arthur felt the level-up being absorbed by the Nadi Matrix, rearranging his biological systems. His vision sharpened. His body felt denser.
+
+And then, before the level four notification had fully faded, there was another.
+
+ETHER ABSORBED (PROXIMITY BONUS): +118
+
+With the core entity dead, the ambient Ether in the Saturation Anomaly was bleeding outward, and their Nadi Matrices were absorbing it passively, drinking from the collapsing density.
+
+LEVEL UP: LEVEL 5
+
+INTEGRATION: 7 / 470
+
+ATTRIBUTE POINTS AVAILABLE: 6
+
+TECHNIQUE INTEGRATION AVAILABLE
+
+Arthur stared at the last line. The words hung in his vision, and he could feel a channel in his Nadi Matrix open. A pathway that had been sealed, quietly unbolting a potential he couldn't name yet.
+
+"Technique integration," Steve whispered. He was reading the same notification, and his voice carried the same reverence it had when the Tauroctony had first lit up. "Techniques must be something like skills. It's available. Arthur, skills are available."
+
+Donna was staring at her own display. Her expression unreadable.
+
+Archie's geometry rotated but he made no comment.
+
+"Later," Arthur said. His voice came out rougher than he intended. "Core first. Then we get out."
+
+Donna walked up to the dead machine where the core was visible in the wreckage. It was larger than the amalgamation's, nearly the size of the bulls, and glowed with a steady blue pulse that hadn't dimmed with the creature's death. She pulled it free and held it up to the fading blue ambient light.
+
+"Mine," she said.
+
+"Yours," Arthur confirmed.
+
+She held the core against the axe head and closed her eyes.
+
+Her intent was straightforward and precise. No hesitation, no searching for the right concept. Donna knew exactly what she wanted. Speed to out-manoeuvre and lethality to out-kill. The ability to find the gap, exploit the gap, and end the threat.
+
+The core dissolved into blue light and the metal changed.
+
+The blade narrowed to an edge that looked almost translucent, while the flat of the head darkened and became denser. Faint lines appeared along the steel, running from edge to haft in branching patterns that echoed the creature's conduit network. She could feel the weight of the axe redistributing, lighter in the swing, heavier in the strike. A weapon that accelerated into the target.
+
+ARTIFACT CREATION DETECTED
+
+BINDING LAW ENGAGED
+
+Vessel: Short-Handled Fire Axe
+
+Core: Printworks Core Entity
+
+Intent: Precision Lethality
+
+ITEM: CONDUIT-EDGE AXE
+
+Tier: Primitive (High)
+
+Attributes: Edge Geometry Optimised, Strike Acceleration Active
+
+Donna tested the balance. The axe spun in her hand, a single rotation that ended with the blade resting exactly where it started, the haft seated perfectly in her grip. The speed was fast but controlled.
+
+"That'll do," she said.
+
+Around them, the chamber was changing. The walls were contracting slowly, the spatial distortion receding as the core entity's influence faded. The three-storey ceiling was a little lower now and the circular room was developing corners.
+
+"Time to leave," Arthur said.
+
+They moved back through the production floor, past the dead amalgamation, and through the corridor that felt shorter than it had been on the way in.
+
+They emerged through the loading bay into daylight, or as close to it as a violet sky allowed. The air tasted clean after the thick Ether concentration inside. Arthur breathed it in and felt his body recalibrate to normal density.
+
+Jared and Co. were nowhere to be found and the shed stood open.
+
+“Seems like they took your advice,” Donna said, poking her head inside the shed to make sure it was empty.
+
+Steve was scribbling in the guidebook. Arthur caught a glimpse: First dungeon. Saturation Anomaly. Spatial distortion correlates with Ether density. D&D encounter logic applies: chokepoints, pattern reading, split aggro. The Player's Handbook is the survival manual. The Curators knew.
+
+Arthur looked north. The Temple Church and the unanswered line were waiting. But before any of that, they had six attribute points and a notification that said the rules of what they could do had just changed.
+
+"We should camp," he said. "Somewhere nearby. We need to allocate and test whatever techniques are, but for that I want walls around us."
+
+"Agreed," Donna said.
+
+Steve was still writing.
+
+"Steve."
+
+"Coming." He tucked the guidebook away and hurried after.
+
+Arthur didn’t know how techniques would work. But he knew it would change what they could do. With the Temple Church and probably a guardian looming in their future, they needed every advantage they could get.
+
+THE ETHER ATLAS: FIELD NOTES OF STEVEN PARR
+
+London
+
+THE ROOM THAT DID NOT FIT
+
+There is a boring phrase archaeologists use when two measurements refuse to agree: survey error.
+
+We use it explain a when something doesn’t measure up. The tape slipped. The original plan was inaccurate. A wall was rebuilt. Someone recorded feet as metres. We find the mistake, correct the drawing and move on because the alternative is that space itself has become an unreliable witness.
+
+The Printworks was rectangular, single-storey and entirely ordinary from outside. Inside it contained a circular chamber three storeys high.
+
+That should be impossible. The more troublingly part is that it was easy to accept.
+
+Arthur needed seconds to move from this room cannot exist to calculating reach and load paths. Donna treated the extra dimensions as another hostile variable. I called the space a dungeon and immediately knew what rules might apply. None of us wasted time demanding that reality behave itself.
+
+We already had the vocabulary.
+
+Bigger on the inside. Probably instanced space. A boss room. An environmental boundary. We have spent decades encountering impossible architecture in games and stories, then accepting it because it was labelled as fiction. If the Curators gave us Dungeons and Dragons as a grammar for the System, perhaps the rules were only part of the lesson. Perhaps they were also teaching us how to remain functional inside places the human mind should reject.
+
+That possibility creates an archaeological problem.
+
+Every excavation begins with the assumption that the volume beneath the ground cannot exceed the volume of ground available. Every missing chamber is either undiscovered or destroyed. Every ancient account of a cave without an end, a palace larger within than without or a road descending farther than the mountain allows is filed under metaphor.
+
+What if some of them were measurements?
+
+When the core died, the additional space did not collapse into rubble. It simply stopped being accessible. Walls drew closer. Corners returned. Several thousand cubic metres went somewhere that our instruments do not have a column for.
+
+If space can be opened and closed this way, the Curators would never have needed to bury their most important structures. They could have placed an archive inside a room no larger than a cupboard, sealed the geometry and left archaeologists to catalogue the cupboard.
+
+We may have found the entrances already.
+
+We may have labelled them shrines, niches, blocked passages and unfinished tombs.
+
+✎ A ruin may not be what remains after a structure is destroyed. It may be what remains visible after the rest of the structure is closed. We have been excavating the doors and calling them buildings.

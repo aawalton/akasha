@@ -1,0 +1,315 @@
+Chapter 13
+
+"Embed the mathematics in play. A species that games will learn the integers without resistance. A species that studies will question the integers until the sky changes. Play first and the understanding will follow. It always has." - Codex of the Long Watch, Operational Directive
+
+The riddle glowed above the ancient altar, casting a cold blue tint across the subterranean stone chamber while the crystal pulsed in Donna's hand, casting rhythmic shadows against the walls. Those would have to be dealt with, but Arthur was entirely done being patient.
+
+“Before we touch either of those, we're having a word,” he said, his voice cutting through the damp air.
+
+He wasn't looking at the riddle or the crystal. He was looking at the construct.
+
+The geometry rotated with its usual clinical hum, but Arthur had spent the last hours learning to read its configurations, and this one was defensive. Lines compressed, symmetry tightened, it knew what was coming.
+
+"You knew there was a guardian down here." Arthur's voice had dropped into the register he used on site when a contractor had cut a corner and someone had paid the price for it. The tone that made experienced foremen stop talking. "You let us walk in blind."
+
+"The guardian presence was inferrable from available contextual data."
+
+"Inferrable by whom? You, who have been monitoring this planet from whatever perch you inhabit? Or us, who have had hours to accept that the world has gone mad?”
+
+Silence.
+
+"My shoulder is partially torn," Arthur continued. "Steve has a chunk missing from his arm, and Donna nearly wrenched her spine out. Next time, the cost is going to be higher. So here is how this works from now on. Everything you can share, you share. No rationing. No protocol games. If you want me to go along with whatever this whole trial nonsense is."
+
+The construct held its compressed pattern for three seconds. Then its geometry loosened, and Arthur heard the tonal hum drop a half-step.
+
+"Certain information remains architecturally inaccessible. Memory partitions are encrypted. They unlock as the candidate reaches system milestones. This is not a choice. It is an engineering constraint," the construct said.
+
+"Your own memory is locked behind the same progression system we're levelling through?" Steve asked.
+
+"That assessment is not inaccurate. The progression, however, is tied to nodes and not levels."
+
+"So you’re saying that you genuinely can't see what's ahead of us?" Donna asked. She'd been cleaning the axe blade with a strip torn from her sleeve, but her eyes hadn't left the floating geometry. "You're not choosing to withhold information."
+
+"Both descriptions address aspects of the restriction. Certain sectors are locked. Others are accessible but protocol-limited. The distinction is architectural, not behavioural." The geometry said, reconfiguring slightly.
+
+Arthur processed that for a minute. Here was an AI whose knowledge was partitioned, unlocking in stages as the humans it guided reached physical checkpoints. Archie could not give an answer it could not yet access.
+
+It also meant that every silence and every non-answer was data. If it couldn't respond, the question had touched a locked partition. And locked partitions meant the answer mattered.
+
+"We need something to call you," Arthur said, and the shift in topic surprised even him. "I'm tired of thinking of you as 'the floating shape' or 'that thing.' What's your name?"
+
+"I do not have a name. I have a function."
+
+Steve tilted his head. "Surely you've got something. A serial number? A model designation?"
+
+"Autonomous Relay: Cognitive Interface Hub. Designation AR-C1H1-E."
+
+Steve mouthed the letters, his eyes narrowing as he traced the syntax. "AR-C1H1-E. A, R, C, H..."
+
+"Archie, his name is Archie." Donna said flatly.
+
+"That is a significant reduction in informational precision," the construct stated.
+
+"And yet," Donna replied, fixing it with a steady look, "that is what we are going with."
+
+The construct, Archie, rotated once but did not object further.
+
+"Right then, Archie," Arthur said, testing the name. It gave the thing a fixed point in his head, something to anchor the rest of the strangeness to. "What exactly can you tell us?"
+
+"Systems you are currently interacting with. Diagnostic data for entities you have successfully encountered. Confirmation or correction of theories you develop through direct observation. Environmental assessments." Archie paused before adding, "I can explain the mechanics of what you have already experienced. I cannot preview what you have not."
+
+"Then explain that." Donna said, pointing at the crystal she'd set on the altar.
+
+"Monster core. A condensed Ether matrix formed within high-saturation biological entities. You extracted it with acceptable precision."
+
+"And it does what, exactly?"
+
+Archie extended a thin blue line towards the crystal, then towards Arthur's battered shield. "Artifact creation. The System designates this as the Law of Binding."
+
+"Binding. As in crafting?" Steve asked.
+
+"Correct. Three components are required." The blue line touched the shield. "A vessel." The line then touched the crystal. "A core." The geometry produced a low-frequency hum before adding, "And intent."
+
+"Intent," Arthur repeated, frowning. "Meaning what? I just think really hard and the crystal turns into a magic item?"
+
+"The user must form a clear conceptual outcome. Visualise the desired function. The core restructures the vessel according to the combined properties of all three components. Within defined structural limits."
+
+Arthur stared at the crystal in Donna's hand, then at the wreckage of his shield. "That's not an explanation, that's barely a fortune cookie. How am I supposed to visualise a 'function' for an alien energy crystal? I'm a structural engineer, not a -"
+
+"You are a structural engineer," Archie said. The interruption was unusual enough that Arthur stopped mid-sentence. "That background should make the execution significantly easier for you in particular."
+
+Steve leaned forward. For once, he didn't start talking immediately. "Intent, visualise the function," he said, chewing on the words.
+
+He looked at the crystal, then at the shield, and then at Arthur.
+
+“Archie said your profession should make it easier. Why would an engineering background matter for a… magic crafting ritual?” He stopped and Arthur could see it arriving.
+
+“Unless the intent isn’t abstract. Unless the system needs specifics.” His voice accelerated.
+
+“You don’t visualise in abstractions, Arthur. You visualise in specifications. Load capacity. Deflection tolerance. Failure thresholds. Maybe that's what intent means here. Not ‘I wish for a magic shield.’ It’s ‘I need this object to withstand a specific force applied at a specific angle.’”
+
+Arthur looked at the dented bin lid on his arm. The corrugated steel was buckled inward from the bull's charge and scarred with claw marks from the foxes. It had saved his life twice and nearly failed both times.
+
+He picked up the crystal from the altar. It felt alive, the blue light pulsing against his skin in time with the rhythm behind his eyes.
+
+"So I just... think about what I need it to do," Arthur said. It still sounded absurd. But the crystal was warm and the shield was broken and a few hours ago he'd been drinking beer and playing D&D. Absurd had lost its meaning somewhere between the sky changing colours and a bull manifesting in an underground temple.
+
+"Structurally, think about it structurally." Steve said.
+
+Arthur closed his eyes, held the crystal against the centre of the shield and tried to think of a better one. Nothing happened.
+
+He was too aware of the stone bench beneath him, the ache in his shoulder, Steve and Donna watching. His mind kept circling the instruction instead of following it. Visualise the function. What function? Defensive function. What does that mean in engineering terms?
+
+He stopped trying to think about the shield and he thought about the bull.
+
+The charge. The moment of impact. The way the steel had folded inward like cardboard, deforming around the horn with a screech that had vibrated through his skeleton. He thought about his shoulder, the ligaments stretching past tolerance.
+
+The calculations he had run automatically in that fraction of a second. The angle of deflection, the point of impact and the likely force of it, the margin between survival and puncture. And the answer was - not enough. The steel wasn't thick enough. The geometry wasn't right enough. The material couldn't absorb enough.
+
+Then he thought about what it would take to fix that. Thicker cross-section. A harder surface. A rim to deflect lateral force. A grain pattern that distributed impact across the full surface instead of concentrating it at the point of contact. The same principles he applied to reinforcing a compromised lintel or shoring up a cracked foundation. Except in this case the building was a shield and the load was a bull.
+
+Hold. Deflect. Endure.
+
+The crystal dissolved.
+
+It sank into the metal and Arthur felt the steel change under his hands. The grain of the metal opening, realigning, and locking into configurations his brain recognised even though his eyes couldn't follow. Blue light traced the dents and seams, and everywhere it touched, the metal answered.
+
+The dents smoothed. The thin corrugated steel darkened and thickened, its surface shifting from galvanised silver to deep gunmetal grey. Veins of what looked like bone spread through the metal in patterns that echoed the creature's chitinous plating. The weight doubled, giving it a balance that hadn't existed before.
+
+When the light faded, the shield didn't look like a bin lid anymore. It looked like it had been forged. Blue text assembled in his vision.
+
+ARTIFACT CREATION DETECTED
+
+BINDING LAW ENGAGED
+
+Vessel: Improvised Shield (Metal Lid)
+
+Core: Bull-Type Guardian
+
+Intent: Defensive Strength
+
+ITEM: REINFORCED BULLGUARD SHIELD
+
+Tier: Primitive
+
+Attributes: Structural Integrity Increased, Impact Resistance Enhanced
+
+Arthur tapped the surface with his knuckles and the sound that came back was deep and solid. He smiled.
+
+Steve barked a laugh. “Archie, does this game have crafting professions? We could corner the economy early.”
+
+Archie didn’t answer and Donna narrowed her eyes.
+
+Arthur just held the shield. It sat on his arm the way the best tools did, like it had been waiting for him. The thought made him realise why he didn’t have a girlfriend.
+
+He’d felt this once before, the first time he’d picked up a plumb bob on a job site at seventeen, the weight dropping true, and thinking: this is how the world is supposed to work. Except plumb bobs didn’t grow bone veins or pulse with the remains of something he’d killed twenty minutes ago.
+
+He let the moment pass. There’d be time for wonder later, if they survived long enough to have a later to wonder in.
+
+Steve ran his fingers along the bone-veined surface. "The core's biological properties merged with the steel. This is similar to the chitin pattern. It's using the bull's structural design as a reinforcement template. That's materials engineering at a scale we can't replicate."
+
+Donna tested the edge with her thumb. "Is it heavier?"
+
+"Substantially," Arthur nodded. "But it sits better. Like the weight understands my arm."
+
+"The artifact interfaces with the bearer's Nadi Matrix. Weight distribution is optimised for current physical parameters." Archie stated.
+
+Steve was staring at the shield with the hunger of a man who wanted to take it apart and understand every layer. "If every monster core can do this, if every piece of equipment can be upgraded through intent-based crafting..."
+
+"It means we need more cores," Donna said, looking at her axe.
+
+"It also means we need to understand why it worked," Steve said and turned to Archie. "You said the shield interfaces with something called the Nadi Matrix. What is that?"
+
+"It is a biological substrate layered into the human nervous system. It converts ambient Ether and system interactions into structured data and renders that data in cognitive-compatible formats.”
+
+"Try that again and this time, assume you are talking to people who do not spend their lives inside a server rack." Donna said, crossing her arms.
+
+The construct stopped rotating. “Status displays, attribute quantification, integration thresholds. The Nadi Matrix is the reason you can perceive the System at all."
+
+Steve's fingers drummed on his knee. "So that's the interface translating all of this for us. Levels, attributes, status windows."
+
+He stopped drumming and his eyes moved across the gash on Arthur's shoulder, the bandage on his own forearm, then back to Archie.
+
+"You said attribute quantification. That's the same substrate that would handle allocation," he asked.
+
+"Not inaccurate."
+
+"So when we allocate, we're asking the Matrix to modify our biology. Through the same interface that just folded a bull into a bin lid."
+
+"Your interpretation is sufficient."
+
+Donna's hand paused halfway through her cleaning swipe. "Archie. When we allocate, what happens to us physically?"
+
+Archie's geometry rotated a fraction to face Donna. "Integration stabilisation is non-instantaneous. Substrate adjustment varies by attribute."
+
+"Translate to English," Donna said, running her hand down her face.
+
+"Strength allocation triggers short-duration musculoskeletal recalibration. Dexterity produces transient motor retraining. Acuity generates brief sensory reprocessing. Constitution is subjectively invasive."
+
+"Define invasive."
+
+"Thermal response. Muscle fasciculation. Reduced voluntary motor control during the adjustment window."
+
+"And how long is the window?"
+
+"Variable. Anywhere from seconds to several minutes."
+
+The three of them sat with that, then Donna looked at Steve and raised her eyebrow. She did not need to vocalise the told-you-so.
+
+“Fine. Point taken. Every objection I raised on the way down, withdrawn.” Steve said.
+
+"Accepted," Donna said.
+
+Arthur filed the information. Constitution allocation might make you sit down involuntarily. Strength allocation temporarily rewrote your muscles. Any one of those in an uncontrolled environment was a death sentence.
+
+"From now on, we allocate one at a time, the other two on watch and with doors locked." Arthur said.
+
+"Agreed," Donna said.
+
+"Grudgingly agreed but agreed."
+
+"You said layered on to our nervous system. Where did it come from?" Steve said, leaning forward, the curiosity coming back.
+
+"It is a lineage marker consistent with certain genetic haplogroups. It enables stable interaction with Seeder infrastructure."
+
+"Seeder infrastructure. The same Seeders who built the Grid?" Steve asked, his eyes narrowing.
+
+Silence.
+
+“What about the haplogroups? That's ancestry, isn't it?” Arthur tried.
+
+Silence.
+
+"Let's try a different angle then," Steve pressed on, undeterred. "The interface uses classic tabletop mechanics. Levels, attributes and experience points. That cannot be a coincidence. Someone deliberately designed this translation layer to map onto a mathematical framework humans already understood."
+
+"The Curators embedded precursor frameworks into your species' cultural development. Rule-based simulations were distributed across your history to prime cognitive readiness for System mechanics." Archie stated.
+
+None of them spoke. They knew what the construct meant, but this was so beyond the realm of possibility that it had left them dumbfounded.
+
+Steve stared at the construct. "No wait…wait…are you telling me that D&D was a training manual?"
+
+"The manual was disguised as leisure to ensure maximum cultural penetration."
+
+Steve's mouth opened. More than fifty years of gaming history, of character sheets and saving throws and armour class calculations was reframing itself.
+
+"Gary Gygax," Steve whispered. "Arneson. The Lake Geneva basement. They were-"
+
+"Vehicles for distribution. The foundational mathematical framework was provided. The creative implementation was entirely human." Archie said.
+
+Donna stopped cleaning her axe. "So someone handed them the core numbers and let them build a game around it to prime the population."
+
+"Your species was given a biological operating manual. You converted it into fiction and philosophy."
+
+The words settled into the ancient stone. Donna's expression wasn't one of disbelief. She'd stopped being surprised three hours ago. It was the colder recognition of the sheer scope. Thousands of years of human culture, shaped and guided for a moment that most of humanity would never see coming.
+
+Arthur had been turning something over from the alley, and when Archie mentioned philosophy, it clicked in place. "Steve. Back in Camden, after the spider. The word for the energy we are absorbing wasn't modern. 'Ether'. You called it Aithēr."
+
+"I did." Steve said, finding a new gear.
+
+Donna's arms folded. "Meaning what?"
+
+"Meaning if the Curators seeded the games, maybe they seeded the vocabulary before they ever seeded the games," Steve said. "Aither. The Greeks split the sky into three tiers: Erebos at the bottom, aer where we mortals breathe, and aithēr at the top. It is described as the pure, bright air the gods breathe. It also was the name of a primordial god that-”
+
+Steve had a bit of a mad grin on his face. He raised a finger in front of Arthur and continued. “-represented the luminous blue sky and air. Two and a half thousand years of humans using that word for something none of them could see, right up until it turned out to be real.
+
+“The blue is a bit of giveaway, I would think.” Donna said.
+
+Arthur looked at Archie. "Did you hand us that word, or was it already there?"
+
+"The System draws on pre-existing linguistic frameworks for translation efficiency," Archie said. "Optimal candidate comprehension requires minimal semantic drift."
+
+"And forty-two? Why does the first level threshold require exactly forty-two Integration?" Steve said quietly as if he wasn’t sure if he really wanted an answer.
+
+"Forty-two is the most stable integer for initial biological interface calibration. It recurs across Seeder mathematics as a foundational constant."
+
+Something had snagged in Arthur’s brain when Steve had mentioned forty-two. "Steve. The system message we got in the pub. What was the exact duration it listed for the calibration event?"
+
+"System Calibration Event Initiated. Planetary Ether Integration in Progress. Fence Protocol Engaged. Duration: 1,260 days." Steve responded immediately.
+
+"Three and a half years. Which is..."
+
+They looked at each other.
+
+"Forty-two months," they said together.
+
+Donna exhaled through her nose. "Wasn't that in the Hitchhiker's Guide to the Galaxy as well? Forty-two. The answer to life, the universe, and everything?"
+
+"Your species identified the value. You simply misclassified its function."
+
+Steve's pale face broke into a wide, brilliant, disbelieving grin despite the bandages. "I swear it feels like the entire world is one giant Easter egg."
+
+"Archie, the riddle. Can you solve it for us?" Arthur asked.
+
+"I cannot solve puzzles on the candidate's behalf. I can verify interpretation accuracy."
+
+"Of course you can't. Why would the apocalypse be simple?" Steve said and turned to the floating words. Arthur could see his brain shifting gears, from the weight of civilisational manipulation to the immediate question of where the text was telling them to go.
+
+"Right then," Steve said. He cracked his knuckles, a habit Arthur had seen hundreds of times, usually right before Steve disappeared into a research hole for six hours. "Let's see what the Bull-Slayer is trying to tell us."
+
+Where the Bull-Slayer bleeds the constellations of old,
+
+The arc of the Zodiac begins to unfold.
+
+Seek the Line where the turning spheres divide,
+
+On the Hill of the Stars where the First Signals hide.
+
+THE ETHER ATLAS: FIELD NOTES OF STEVEN PARR
+
+London
+
+THE LAW OF BINDING / METHODS THAT WORKED ONCE
+
+Arthur made a shield tonight that no blacksmith who ever lived could teach or reproduce. Then I sat down to write it up and my whole discipline changed in front of me.
+
+My field is a catalogue of impossible objects. We hold them in gloved hands and we explain them away. Trade routes. Outliers. A genius we cannot name.
+
+The Ulfberht swords are the cleanest case. Around a hundred and seventy of them were discovered from the ninth to eleventh century, each inlaid with the same mark. +VLFBERH+T. These were crucible steel with three times the carbon of anything else on the continent, almost no slag, a level of metallurgy Europe would not manage again until the blast furnace eight hundred years later. The mark runs for two centuries and then it stops and the method is never reproduced. That is not how a craft behaves. A craft spreads. A craft is taught. This one appeared, dominated, and vanished without leaving behind a way to do it again.
+
+Damascus steel is the same problem from the other side of the world. Wootz cakes out of southern India became the stuff of legends by allowing a level of hardness and flex that should not co-exist in the same blade. The secret was lost by 1750 and stayed lost until 2006, when a laboratory in Dresden put a sabre under an electron microscope and found carbon nanotubes. In a sword forged four centuries before anyone knew of them.
+
+I have always assumed the smiths forgot. Fires go out. Masters die before the apprentice is ready. Ore runs dry. That is the comfortable version, and I taught it, because the alternative was unprofessional.
+
+The alternative is that some of these secrets were never fully the smith's to keep. That the world permitted a result under conditions no craftsman controlled, produced the object, and then closed the door. I cannot prove it. I have handled the swords. I wrote the trade-route paper myself, and I believed it. But I have just watched a bin lid become a wall in front of me.
+
+✎ My discipline is a list of methods that worked once and vanished. I always assumed the smiths forgot. Tonight saw something made that no smith could teach, and forgetting stopped being the obvious answer.

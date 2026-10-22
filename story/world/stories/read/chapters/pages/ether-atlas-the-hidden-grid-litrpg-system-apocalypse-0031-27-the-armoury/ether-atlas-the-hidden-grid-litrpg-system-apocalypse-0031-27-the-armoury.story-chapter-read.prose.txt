@@ -1,0 +1,185 @@
+CHAPTER 27
+
+“Mrs. Hadley at the Goldsmiths library recorded our theft of eight books in her lending ledger. During the apocalypse. With the correct date stamp. I want it on record that when civilisation fell, the librarians held the line.” - The Ether Atlas: Field Notes of Steven Parr, London
+
+They were three streets from the courtyard when Donna halted and said, "We're not stepping on that platform in jeans and then hope for the best. We need gear, proper gear."
+
+"I’m assuming you have destination in mind," Steve said.
+
+"Yeah, Snow Hill." She said "City of London police station. Halfway between here and the Embankment."
+
+"A police station!" Steve said. "You want to loot a police station."
+
+"I want to requisition equipment from an abandoned emergency services facility. And it's not just any station." She turned onto a side street without slowing down, the destination already decided. "Snow Hill is a public order staging point. I know because I assessed their physical security two years ago for a contract with the Corporation of London. They store riot equipment for financial district deployments, protest response, civil disorder, that sort of thing. Full public order kit."
+
+"What does that mean in practical terms?" Arthur asked.
+
+"It means stab vests, riot armour, batons, and a custody suite full of things that were designed to keep police officers alive when people are trying to hurt them. Which is a reasonable description of situation we find ourselves in."
+
+"You assessed their security, so you know the layout." Steve said.
+
+"I know every door, every lock, every storage room, and at least two ways in that don't require a key." Donna smiled, probably satisfied that her pre-apocalypse skills turned out to be exactly, precisely and absurdly relevant. "Red teaming. It's not just a job title."
+
+"It sounds like a job title for breaking into buildings."
+
+"It is a job title for breaking into buildings and I’m very good at it."
+
+***
+
+Snow Hill police station was a compact brick building tucked into a side street near Smithfield Market. It was two storeys with a heavy front door and barred windows on the ground floor. The lamp above the entrance was dark, but the building was intact.
+
+And empty by the looks of it. Arthur could hear no sound, not could he see any lights or shadows in the windows. The City of London Police was the smallest force in England, barely eight hundred officers covering the Square Mile. When the system hit, they'd have consolidated to their main station at Guildhall or dispersed to their families. A satellite station like Snow Hill would have been abandoned within hours.
+
+"The mortar joints are sound," Archie observed out of the blue. "The brickwork predates your current century. The original builders understood load distribution. Your species occasionally produces adequate masonry."
+
+“You do realise that remarking on random rubbish and then going all obtuse the second we ask something useful is proper infuriating, yeah?” Arthur made his own observation
+
+Archie’s geometry rotated and changed direction, almost felt like he was giving them the cold shoulder
+
+Donna bypassed the front door entirely. She led them around to a side entrance, a staff access point with a keypad lock that no longer had power and a physical deadbolt beneath it.
+
+"Two years ago, this deadbolt was a single-cylinder pin tumbler. A budget model that I flagged in my report as a vulnerability." She pulled the utility blade from her belt and fifteen seconds of deft manipulation later the lock clicked. "They didn't upgrade."
+
+The door swung open.
+
+The station inside was preserved in the amber of sudden departure: mugs on desks, a skewed jacket over a chair, a half-eaten sandwich smelling dodgy on a filing cabinet. Donna moved through the building like she'd built it.
+
+"Custody suite. This way."
+
+The custody storage room was behind a reinforced door that Donna opened with the multi-tool and forty-five seconds of patience. The inside was filled floor to ceiling with rows of lockers, each labelled with equipment categories in Met-standard notation.
+
+Donna moved and started pulling the open.
+
+"Stab vests." She pulled three from a locker. These were black, bulky and serious. Body armour with rigid panels over layers of woven Kevlar, designed to stop knife and spike penetration. She tossed one to Arthur. "These are rated for KR2 plus SP2. That's knife resistance and spike protection. They won't stop a bullet, but they'll stop anything with an edge or a point up to fifty joules of impact plus margin."
+
+Arthur held the vest up and examined the panel construction. The rigid inserts were a composite: ceramic-faced, Kevlar-backed, seated in nylon carriers.
+
+He put it on and adjusted the straps. The vest sat over his chest and back like a second ribcage, and his actual ribcage, the cracked one, registered the compression with a spike of pain.
+
+"How does it feel?" Donna asked.
+
+"Like wearing a building."
+
+"Good. That's the point."
+
+Steve's vest fit him poorly, it was too wide in the shoulders, designed for someone with a lot more mass. Donna adjusted the side straps until it stopped shifting around too much.
+
+Steve looked down at himself and said, "Three days ago I was a research archaeologist with a university pension, and now I'm wearing nicked body armour in a police custody suite."
+
+"I'd say your life's looking up," Donna said. "Next locker."
+
+Steve paused at drawer and pulled it open. Inside, among the handcuff pouches and radio holsters, a loose nine-millimetre round rolled around. He picked it up and turned it in his fingers.
+
+The brass felt warm. It was warmer than the inside of the drawer, warmer even than the room. When he held it towards the light sneaking in from the barred window, the casing had an iridescence that copper-zinc alloy shouldn’t produce. The metal was caught between what it had been manufactured to be and what the Ether was rewriting it into.
+
+"No firearms," Donna said, reading his look. "City Police armed response operates out of Leman Street. Different station, different security tier. If the ARV unit consolidated after Day Zero, they took everything with them."
+
+"Hmm –no, that's not what I'm thinking about." Steve held the round up "This has been sitting in ambient Ether for three days and transmuting the same way every other metal is transmuting. The propellant inside is a nitrocellulose compound undergoing a molecular rewrite. The primer is a lead-based detonator whose activation chemistry is changing in ways nobody can predict."
+
+He set the round back in the drawer.
+
+"This might fire, it might not or it might do something else entirely. Every chemical compound in every round of ammunition is being rewritten at the molecular level. We know Ether transforms metals, we saw it in the Printworks. There's no reason to think it stops at metal.”
+
+"So guns are unreliable." Arthur noted
+
+"Guns are unknown. Which is rather worse." Steve closed the drawer. "You can work with unreliable. You can't plan around a weapon that might fire, might fizzle, or might detonate in your hand because the primer compound has transmuted into something with a lower activation threshold. Day One, ammunition was probably fine. By now?" He shrugged. "I wouldn't pull the trigger."
+
+He looked at Archie. The question was implicit.
+
+"Your analysis of the transmutation cascade is approximately seventy-one per cent accurate," Archie said. "The remaining twenty-nine per cent relates to compounds you have not yet identified. The conclusion, however, is sound."
+
+"Which compounds?"
+
+Archie's geometry rotated once. He did not answer.
+
+Steve wrote "71%: what compounds?" in the margin of the guidebook.
+
+Arthur filed away the information. The weapons that worked were the ones that relied on physics - mass, edge, force, leverage. The weapons that relied on chemistry were a gamble with odds that worsened by the day.
+
+"So, physics good, chemistry bad, guns cursed. Anything else the universe would like to take off the table?" Donna said. “This whole circus would have much easier with something automatic.”
+
+The public order storage was in the basement. Donna led them down a narrow staircase to a reinforced room that had the riot kits. Shelves of it, stacked and labelled.
+
+Shin guards of hard polymer shells over dense foam, strapped below the knee. Designed for kicks, thrown bottles, and street debris. Arthur tested one against his forearm, rapping the shell with his knuckle. It felt solid. "These'll take a claw strike."
+
+Then came the forearm protectors, same construction, shorter, strapped from wrist to elbow. Donna grabbed three sets without discussion.
+
+She paused at the riot helmets. Picked one up. Full-face visor, neck guard, reinforced crown. She turned to Arthur.
+
+"You should wear this."
+
+"It restricts peripheral vision."
+
+"You're the one who stands in front of things and lets them hit you. Your head is the one target the stab vest doesn't cover."
+
+Arthur took the helmet and tried it. The visor narrowed his field of view by maybe twenty degrees on each side. In a building this was manageable. In open ground against fast creatures it could be dangerous.
+
+"Tell you what," he said. "I’ll carry it. I’ll put it on when we're in enclosed spaces or facing something big. On open ground, it stays on the pack."
+
+"Acceptable." Donna picked up a second helmet, looked at it, and put it back. She needed her peripheral vision more than she needed head protection. Speed was her armour. "Steve, you take one too. Strap it to your pack."
+
+Steve held the helmet at arm's length. "I look like I'm about to be kettled at a protest."
+
+"You look like someone who's going to survive getting hit on the head. Strap it."
+
+The station kitchen gave them tinned beans, tinned soup, UHT milk, biscuits, and eight bottles of water. Donna found a box of electrolyte sachets in the first aid room and took all of them. Arthur raided the first aid supplies properly, getting fistfulls of bandages, surgical tape, and compression wraps. He used one immediately on the cracked rib. The relief was significant.
+
+They also took proper patrol packs from the locker room. These were black, forty-litre ones, designed for long shifts. They scavenged the rest of the building for spare clothes and then loaded the packs methodically.
+
+Donna also took two ASP batons from the duty belt rack. Extendable, steel-cored, designed for one-handed use. She clipped one to her own belt and handed the other to Arthur.
+
+"Backup. For when the shield's engaged and you need something faster than the crowbar."
+
+Arthur flicked his wrist and the telescoping sections locked into a rigid twenty-one-inch baton with a weighted tip. It was compact, balanced and fast. He could feel the difference from the crowbar immediately. This was designed to be swung, the crowbar was a lever he'd been misusing as a weapon.
+
+He clipped it to his belt and the crowbar went into the pack as a tool. Its fighting days were over.
+
+***
+
+They found a construction site two streets from the Embankment. A half-finished office renovation, the scaffolding was up, hoarding around the perimeter with site cabins sitting open. Arthur climbed through a gap in the hoarding and came back a few minutes later with his arms full.
+
+He showed them the lump hammer first. It was four pounds of drop-forged steel head with a twelve-inch handle. Arthur held it out to Steve.
+
+"Hit that." He pointed at a chunk of concrete rubble by the hoarding.
+
+Steve looked dubious but swung as instructed. The concrete cracked but held.
+
+Arthur took the hammer back and swung at another concrete slab. The hammer punched through, shattering the concrete and burying itself two inches into the ground beneath.
+
+"The crowbar distributes force along a thin edge," Arthur said, pulling the hammer free. "It pries. It levers. It's a tool. This on the other hand-" he tested the balance, "-concentrates four pounds onto a two-inch striking face and every point in strength I've, goes through that contact point. This hammer will collapse anything with structural integrity."
+
+"Right," Steve said, looking at the destroyed slab. "I'll stay behind you, while do get on with the collapsing."
+
+Donna got a short pry bar of flat steel with a curved end. This was the answer to the Printworks problem. The Conduit-Edge Axe was built for cutting. But against metal or stone, the pry bar gave her mass and hardness. She tested the weight, nodded and stowed it.
+
+"Ready?" Arthur asked.
+
+"I was ready two streets ago," Donna said. "You're the one who spent ten minutes choosing a hammer."
+
+They headed for the embankment and the concealed door set in it and for the first time since the pub, he felt like he was wearing the right equipment for the job.
+
+THE ETHER ATLAS: FIELD NOTES OF STEVEN PARR
+
+London
+
+THE UNLABELLED WORLD
+
+Archie said my analysis was seventy-one per cent accurate.
+
+I have been treating the missing twenty-nine per cent as a gap in my knowledge of the compounds involved. That is probably true, but it misses the larger point.
+
+Chemistry is the name we give to matter changing according to rules and Ether has joined the reaction.
+
+The rules we knew may still be correct under the conditions in which we discovered them. Those conditions no longer exist. Ambient density, exposure time and proximity to transmuted material may now matter as much as temperature, pressure and concentration. Intent may matter. Binding proves that it can influence matter elsewhere, although I have no idea whether it belongs anywhere near an equation.
+
+For the last two centuries, a printed label represented an extraordinary chain of confidence. Someone knew what substance entered the container, how pure it was, what dose it contained and what it would do inside a human body.
+
+Now the label tells us only what entered the container. It does not tell us what is in there today.
+
+That makes every pharmacy dangerous, but it does not make every medicine useless. A transformed antibiotic might lose its function. It might become toxic. It might also do something no antibiotic has ever done. We do not know because the reaction is new and almost every instrument capable of analysing it died when the sky changed.
+
+We have been pushed back to the beginning of experimental science. Observe. Record. Compare. Change one condition and try again. Original compound, duration of exposure, ambient Ether density, container material, visible alteration, effect on living tissue. We need new tables for all of it.
+
+Somewhere in the world, there is probably a chemist looking at a familiar substance doing something impossible and wondering whether they have lost their mind. We need that person. We also need a doctor, controlled samples and more paper than Mrs Hadley is likely to let me remove from the library.
+
+✎ Chemistry is not leaving us. Certainty is. Every label in the world has become a historical document.

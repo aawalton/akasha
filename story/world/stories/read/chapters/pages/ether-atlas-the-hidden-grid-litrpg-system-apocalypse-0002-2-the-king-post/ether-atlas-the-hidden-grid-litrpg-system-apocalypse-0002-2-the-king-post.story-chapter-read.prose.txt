@@ -1,0 +1,181 @@
+CHAPTER 2
+
+Arthur reinforced a four-hundred-year-old pub on the same evening the world ended. I think about this a lot. It's funny, sure, but it might be the most Arthur thing that has ever happened. The man sees a failing structure and his hands move before his brain formulates a reason. - The Ether Atlas: Field Notes of Steven Parr, London, Day 1
+
+Lime Street - Tuesday Night
+
+The Grapes was older than the city around it, and Arthur couldn't stop noticing the small ways in which it was slowly failing.
+
+Heavy timber beams above the bar had blackened with four centuries of tobacco and coal smoke. The floor sloped three degrees to the east, just enough to send an unattended pint glass sliding on a slow journey towards the far wall. Along the stairwell, the plaster had cracked in jagged, hair-line fractures where the building's southeast corner was slowly sinking into the wet London clay.
+
+None of this bothered him, though. Old buildings carried their damage the way old people carried their scars, as evidence of endurance. What actually bothered him was the joint.
+
+A heavy corner post met a massive tie beam right above the window and the ancient oak had shrunk just enough over the decades to open a narrow gap. It was nothing dramatic or urgent, but visible if you knew where to look, and Arthur always knew exactly where to look. He'd spent his entire afternoon down in the cramped crawlspace underneath the pub with a steel hydraulic jack and a canvas bag of shims, fixing a structural problem that had probably been developing since the Restoration.
+
+He stood near the worn bar now with a pint in his hand, checking his handiwork. The joint looked solid, the weight transferring down a clean, uninterrupted load-path. The four-hundred-year-old building would survive at least another Tuesday night.
+
+"Oi, you're doing it again," Donna said, her voice cutting through the low hum of the pub.
+
+Arthur blinked. "Doing what?"
+
+"Structural analysis." She slid smoothly onto the creaking wooden stool beside him and slid a tumbler of something dark and heavy towards him. "You've been staring at that beam for a minute straight. I timed it."
+
+"The corner post was compromised. I shored it up this afternoon." Arthur explained defensively.
+
+"You reinforced the pub before game night." Donna said, staring at him.
+
+"Loose joint. It was bothering me." He said. He took a sip of the dark and heavy and nodded in appreciation. “This is lovely. Did Patrick change the brewers?”
+
+Donna shrugged and took a slow sip of her own drink. "How do you even clock a loose joint in a ceiling you're walking under, though?"
+
+"The floor deflection changes when you step near the post," Arthur said, shifting his weight to demonstrate. "You can feel the load path shift through the boards."
+
+"Through the floorboards."
+
+"It's subtle."
+
+"Arthur, that's not subtle. That's mad." She paused, tilting her head up to study the reinforced timber. "Useful, though. If the world ever ends, I'm standing right behind you."
+
+Arthur cracked a smile. He'd known Donna for four years, ever since she'd been hired to assess the physical security vulnerabilities of a heritage building he was restoring over in Mayfair; within ten minutes he'd understood that she was the most terrifyingly competent person in the room and would rather break her own hand than admit she gave a toss about anyone in it.
+
+It had taken her one lap of the perimeter on her first morning to find the weak spot. She pointed at a historic Georgian sash window on the second floor and told him that even a novice burglar would be through it in under a minute. The original crown glass everyone was so keen on preserving sat in a fragile frame, held together mostly by layers of paint and optimism.
+
+The security assessment took three days. Their friendship had outlasted the contract by four years and counting. He'd watched her do the same thing the day she walked into the pub without appearing to be looking at anything. Somewhere between the door and her stool she had clocked the cellar hatch, the fire door wedged with a beer crate and the snug window a determined man could be through before the barman looked up. She never pointed or commented on any of it. She simply took the chair that kept all three in view.
+
+"Where’s the historian?" Donna asked, checking her watch. "If he delays the campaign again because he found a mildly interesting rock, I’m going to start rolling initiative on him."
+
+"Give him ten minutes," Arthur said, pulling his worn leather satchel onto his lap. "He said the Central line was delayed."
+
+"The Central line is a myth we tell tourists to thin the herd." Donna said.
+
+Steve arrived twelve minutes late, shaking rain from his jacket with the enthusiasm of a dog who'd just discovered a lake.
+
+"Please tell me you two haven't started without me," he said, dropping a tablet, two notebooks, and what appeared to be a rolled-up archaeological site map onto the table in their usual corner.
+
+"Hello, Steve. Nice of you to join us in the present century." Donna leaned back in her chair. "We were just discussing Arthur's heroic quest to prevent catastrophic beer loss."
+
+"Honestly, structural reinforcement of the primary drinking venue might be the most underrated skill in the party." Steve pushed his glasses up his nose and slid into the booth. He was buzzing. Arthur could see the excitement in the way his fingers drummed on the table edge. He must have found something today.
+
+"You're vibrating," Donna observed.
+
+"I found something incredible in the Southwark crypt today.” Steve paused for dramatic effect. When he didn’t receive the ‘what’ he was hoping for, he continued. “A subterranean drainage system that predates the Roman street grid by at least two centuries. And the alignment is off by twelve centimetres, which doesn't sound like much until you realise that Roman surveyors worked to a tolerance of..."
+
+"Steve."
+
+"...roughly a few centimetres per hundred metres, which means either the Roman survey was wrong, which never happens, or this drainage system was built by someone using a completely different -"
+
+"Steve." Donna held up a hand halting Steve’s explanation of what the completely something could be. "Are you going to tell us about underground pipes all night, or are we going to play?"
+
+Steve weighed the competing priorities of archaeological revelation and Tuesday night D&D, and made the only decision a reasonable person could possibly make.
+
+"Both. I'm going to do both." He said.
+
+Donna looked at Arthur and he shrugged. This was Tuesday.
+
+“And the next time you are in a crypt, find a skeleton or a proper tomb. You went into a crypt and found a sewer. That's a bit sad, that.” Donna said.
+
+“A very important sewer, I would have you know. I fully intend to publish a paper on it.”
+
+Arthur had known Steve longer than anyone. They'd come up in the same children's home. The two boys arrived within a month of each other and worked out quickly that the other was worth keeping. Arthur was always the one who fixed things. A stuck drawer, a bike nobody else could be bothered with, the loose banister the staff had promised to see to for a year and never had. He mended them because they bothered him.
+
+Steve was the clever one. Faces, pages, dates, random trivia no one cared about, none of it ever seemed to leave him. Everything got tucked away behind those restless eyes, waiting to be pulled out years later. The university listed him under archaeology because it needed a box to put him in and the plaque on his door needed something to say.
+
+He was a historian and an anthropologist in the same breath and the youngest person ever elected to the British Academy.
+
+For thirty years, their dynamic hadn't changed: Steve supplied the frantic, speculative fire; Arthur built the scaffolding to keep it from burning the house down. When Donna had drifted into their orbit, she had merely added a perimeter fence and a tripwire to it.
+
+***
+
+Arthur pulled his battered leather binder from his backpack and squared it on the table like he was handling blueprints. The Dungeon Master's screen and a few minis followed. Dice clattered across the wood as Donna upended her velvet pouch while Steve opened his character sheet with the meticulousness of handling a survey map.
+
+"You both realise," Arthur said, flipping through his notes, "that the dungeon entrance you found last week was marked 'Do Not Enter: Extreme Danger' and had a dead bloke lying next to the door."
+
+Donna smirked and cracked her knuckles. "And yet."
+
+"Statistically," Steve said, not looking up from his sheet, "every dungeon marked 'extreme danger' contains at least one artefact worth the risk. I've run the numbers across fourteen modules."
+
+Arthur sighed. "You are the worst adventuring party I have ever run.” Years of Tuesday nights and they had never once taken the path he'd prepared. He'd learned more about improvisation from DMing for Steve and Donna than from a decade of professional site management.
+
+By the time the drinks arrived, the dice were already rolling, accompanied by the steady tap of rain against the windows.
+
+Steve's wizard spent twelve minutes examining a carving on the dungeon wall while Donna's rogue stood guard and loudly catalogued all the ways the delay was going to get them killed. Arthur described a set of carvings as abstract symbols and immediately regretted it.
+
+"What kind of symbols?" Steve asked, looking up, pen in hand.
+
+"They're decorative. Flavour text."
+
+"There's no such thing as decorative symbols in a dungeon. Everything is data."
+
+Donna rolled her eyes. "This is why our campaigns take nine months. Steve treats every dungeon like a dig site."
+
+"Because every dungeon IS a dig site! Arthur, does my wizard recognise the script?"
+
+Arthur flipped through his notes. The symbols were, in fact, a clue he'd planted three sessions ago that neither of them had found. He kept his face neutral and said, "Roll Arcana."
+
+Steve rolled a nine and Arthur watched his face fall.
+
+“Bollocks.” He muttered under his breath.
+
+“Arcana check failed.” Arthur confirmed with a smile.
+
+“Well don’t look so bloody pleased about it.”
+
+Donna rolled Perception unprompted, got a fourteen, and announced she was checking the corridor behind them for threats.
+
+"There's nothing behind you. The corridor is empty." Arthur said.
+
+"Then I want to make sure that it stays that way. My rogue wedges the door we came through and watches it while the wizard wastes time.”
+
+Donna had never once walked into a room without first deciding how she was getting back out of it. A few months ago Arthur had built an entire collapsing bridge sequence around that habit and she'd simply refused to cross the bridge.
+
+“The bridge was obviously going to collapse. You telegraph, Arthur. It's adorable." She had said later.
+
+Arthur leaned forward and let the pub fall away. This was the part he'd never been able to explain to anyone who didn't play, the shift. The moment when the table stopped being a table and became a world, the dice turned into probability engines and the story became theirs.
+
+"You stand at the threshold of the crypt," Arthur said, his voice dropping into the register he used only for their sessions. "The door is old, heavy stone. Carved with symbols neither of you recognise, and the air coming from inside feels wrong."
+
+Donna raised an eyebrow. "Wrong how?"
+
+"Like pressure that doesn't have a source. Like a storm that's passed but has left the weight of it behind."
+
+"That's atmospherically implausible." Steve said.
+
+Arthur smiled faintly. "Do you open the door?"
+
+Donna reached for the dice.
+
+Before she could roll, the lights above the bar dimmed. It was a half-second flutter that made the brass taps glint.
+
+Then Arthur felt something coming through the floorboards. It felt like a vibration, too low to hear but steady and rhythmic, like a load test being applied to a structure without preparing it. The pint glasses trembled on the table and the dice shifted. His hands instinctively went flat on the table. When you felt a structure begin to resonate, you braced.
+
+"Did you feel that?" Steve asked, looking up from his character sheet.
+
+"Probably the tube." Donna said, tilting her head.
+
+Arthur didn't answer. His hands were on the table and he was listening to the structure. The vibration wasn't coming from the east, where the tube lines ran. It was coming from directly below, in deep regular beats that felt like a heartbeat in the foundations. In fifteen years of reading stress patterns in buildings, he had never felt anything like this.
+
+Then the vibrations faded, the glasses settled and the pub returned to its four-hundred-year-old equilibrium.
+
+Arthur exhaled and tapped the map. Whatever that was, it was gone. Probably a water main.
+
+"Right then. Back to the dungeon."
+
+Donna rolled. The d20 bounced once and came up a natural twenty.
+
+"Door's open." She kissed the top of her fingers and grinned.
+
+"The stone slab grinds aside and cold air spills from the chamber beyond. Inside, you see..."
+
+A sharp crack cut across the room. It came from the bar where a glass had shattered behind the counter. The bartender was staring up at the television mounted above the taps. The screen was dead, with no loading icon or cursor. With a sudden clang the till opened and the man jumped.
+
+"No signal." Steve had his phone out.
+
+Donna checked hers and shook her head. “Same.”
+
+Arthur looked back down at the table. The dice were vibrating again, trembling in place against the wood, and this time the frequency was climbing. Climbing through the floorboards and the bones of his forearms and into his teeth.
+
+He lifted his hands only to realise that the vibration was in his wrists as well.
+
+Steve met his eyes across the table. For the first time that evening, Steve wasn't smiling. Donna's hand had moved to the edge of the table, fingers gripping the wood, her weight shifting forward.
+
+Outside, the sky above Lime Street was the same grey it had been all evening. Arthur couldn't point to anything obviously wrong. But he could feel it, beneath the building, beneath the street, beneath the bedrock. Something was waking up.

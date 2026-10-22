@@ -1,0 +1,199 @@
+Chapter 36
+
+“The integer is sacred. The integer is not negotiable. Do not approximate. Do not round. The species that learns to value the integer will survive. The species that does not will be counted, accurately, among the dead.” - Codex of the Long Watch, Founding Tenet
+
+Arthur worked by Ether-light and the muscle memory of ten years on restoration sites.
+
+The construction site was quieter than he’d expected. The creatures didn’t patrol this far west; the alpha’s perimeter ended at the intersection sixty metres east, and the pack hadn’t shown interest in the scaffolding. Arthur had tested this by sitting motionless on the ground floor for an hour, listening. Nothing came. The territory had a boundary and that was proving useful.
+
+He worked the Layher joints with a scaffold key from the site’s tool cage. What he needed was a single-point failure. One coupling whose removal would bring the upper three levels down across the ground-floor corridor. Inward and down, like a curtain of steel falling across a stage.
+
+The swivel coupling on the second level gave itself away the moment he touched it. Where the eastern tower connected to the western one across the corridor’s width, one fitting bore the entire lateral load of the upper structure. One bolt. Three storeys of steel depending on a single point of contact. He’d have traced a load path like this in a building survey and flagged it for immediate reinforcement. Tonight he was going to make it worse.
+
+Remove this coupling, and the eastern tower had nothing holding it upright except its own vertical compression. The first lateral force would push it inward. The upper levels would follow. Three tonnes of interconnected steel tube collapsing across the four-metre corridor in approximately one and a half seconds from trigger to impact. He ran the calculation three times, adjusting for cross-brace weight and the friction coefficient of steel on concrete, and got the same answer each time.
+
+He rigged a release line: six metres of nylon cord threaded through a scaffold clip as a pulley, tied to the coupling’s locking bolt. One hard pull from the ground floor would strip the bolt. He loosened the coupling until the bolt was finger-tight. He tested the pull and the bolt moved. He tightened it back and tested again. Three times. The same clean release each time.
+
+The engineering was sound. If everything else failed, this would work.
+
+Steve came back from the car park late at night with a notebook full of numbers and a face full of exhaustion.
+
+“Four-minute cycle. Consistent. The eastern group passes the approach to this site at the two-minute mark, three creatures, sixty metres from the nearest support.” He sat against a concrete pillar and rubbed his eyes. “That’s our window. Two minutes to draw them. Two minutes before the next group comes around.”
+
+“What about the alpha?” Donna asked. She’d been mapping fallback routes through the surrounding streets, marking exit points with chalk on the buildings. Arrows the party could follow at a sprint in any direction.
+
+Marc and Julien had gone back to the compound at dusk. They were not a part of the Grid test and the party did not want them in harm’s way.
+
+“The alpha runs the northern patrol personally. It’s on the far side of the territory when the eastern group passes us. Maximum distance from the engagement.” Steve paused. “If we’re fast, we can pull and fight a group before it even knows something’s happening.”
+
+“If we’re fast,” Donna said.
+
+“We’ve been fast before.”
+
+“We’ve been lucky before. I’d like to keep the distinction clear.”
+
+They sat in the dark of the ground-floor corridor and waited for dawn.
+
+The Ether-glow from the nearby territory gave the construction site a faint violet ambiance, not enough to work by, but enough to see faces. Arthur’s back was against a concrete column. Donna sat cross-legged at the corridor entrance, axe across her knees, positioned where she could see both the street and the interior. Steve had his notebook open but wasn’t writing. He was looking at his forearm.
+
+Arthur could see it too, the blue lattice. The geometric lines that had appeared beneath their skin when the sky changed, tracing the pathways of the nervous system in patterns too precise to be biological. During the day it was invisible but in low light the blue would show up faintly beneath the skin.
+
+“Archie,” Steve said. “The lattice. The blue lines under the skin. We’ve been carrying this since the first night and nobody knows what it really is.”
+
+Archie’s geometry rotated, light cycling through new patterns. “The visible phenomenon is the Nadi Matrix. A biological energy network integrated with the nervous system. It channels Ether through the body in a controlled manner. Without it, Ether exposure results in uncontrolled mutation or systemic failure.”
+
+“So it’s a filter,” Steve said. “The lattice processes the Ether so our bodies can handle it.”
+
+“Filter implies something is removed. The Nadi Matrix channels, translates, and integrates. It does not reduce.”
+
+Outside, the scrape of chitin on stone marked a patrol cycle passing. The constant four-minute rhythm.
+
+“And the levels? The numbers? The floating blue text that tells me I’ve absorbed thirty-four Ether from a dead boar?”
+
+“Cognitive translation. The Nadi Matrix channels Ether through the body to drive biological change, and translates the raw data into a format your cognition can process. The levels, the attributes, the notifications: that is the Matrix interpreting what is happening to you. Without that translation, the psychological response to unquantified biological transformation is panic, denial, or catatonia.”
+
+Steve stared at him. “You’re saying the RPG interface is, what, training wheels?”
+
+“The term implies eventual removal. That will not be the case.”
+
+Donna almost laughed. Almost. “So we’re too stupid to handle the raw data and the system is dumbing it down for us.”
+
+“The Nadi Matrix is translating a five-dimensional energy integration process into a format your three-dimensional cognitive architecture can process without shutting down.” Archie paused. “The fact that the chosen format resembles a game you have been playing since 1974 is not a coincidence. It was engineered to exploit your species’ familiarity with quantified progression mechanics.”
+
+Arthur’s DM brain caught on that. Fifteen years of building encounters, designing dungeons that taught players through play rather than through manuals. The system wasn’t just using the game’s numbers. It was using the way the game taught.
+
+Steve went very quiet. “Engineered. By who?”
+
+“Authorisation insufficient.”
+
+“Of course.” Steve rubbed his face. “Of course it is.”
+
+Donna moved at the entrance. She’d been listening without looking, her attention split between the conversation and the street. Now she spoke without turning.
+
+“The people who died. Day Zero. Twenty-five percent. Why them?”
+
+Archie’s geometry dimmed. “Genetic incompatibility with Ether integration. The Nadi Matrix requires a genetic marker to function. Humans without the marker cannot process Ether. The biological hardware rejected the energy input.”
+
+“They just rejected it?” Steve said.
+
+“In compatible humans, the Matrix channels the energy safely. In incompatible humans, there is either partial Matrix or no Matrix to channel anything. The energy saturates the body without regulation. Systemic shutdown follows within seconds.”
+
+“You mean they died,” Donna said flatly.
+
+“That is what I said.”
+
+The patrol scrape had faded, cycling to the far side of the territory.
+
+“The lattice,” Steve said. “It was already in us. Before the sky changed. Wasn’t it.”
+
+“The Nadi Matrix is present in compatible biology prior to the calibration event. It activates upon sufficient Ether exposure. It does not appear at the moment of activation. It was always there.”
+
+“Always.” Steve’s voice had gone very careful. “How long is always?”
+
+Archie’s facets slowed to a crawl. Wall.
+
+Steve filed it. Arthur could see him filing it. The jaw tightened, the eyes went distant, another locked door added to the map of doors Archie wouldn’t open.
+
+“The Fence,” Donna said. “One thousand two hundred and sixty days. The countdown we saw on Day Zero. What happens when it reaches zero?”
+
+“Authorisation insufficient.”
+
+“A fence is a barrier, Archie. Is it keeping us in, or is it keeping something out?”
+
+The silence that followed was heavier than a locked partition, as though the answer existed and the weight of it was pressing against the restriction from the inside.
+
+“The Fence is a stabilisation barrier,” Archie said finally. “Its function is to provide a fixed adaptation period. What occurs after the adaptation period is determined by the adapted state of the species.”
+
+“That’s not an answer,” Steve said.
+
+“It is a precise answer. It is not the answer you wanted.”
+
+Donna turned from the entrance. She’d been chewing on the answer. “Adapted state of the species. That means there’s something to be adapted for. Something that happens after the barrier drops that requires us to be strong enough.”
+
+Archie said nothing.
+
+“Right.” Donna turned back to the street. “Add it to the list.”
+
+Steve couldn’t leave it alone and Arthur hadn’t expected him to.
+
+“The game,” Steve said after a long silence. “The RPG framework. You said it was engineered. Someone designed D&D as a training tool.”
+
+“The mathematical framework was provided. The narrative elements were indigenous.”
+
+“So someone gave Gary Gygax the numbers and let him build the game around them.”
+
+“Direct knowledge transfer to your species has been attempted four hundred and twelve times across nine millennia. The outcomes included eleven religions, forty-three cults, two genocides, and a persistent cultural phenomenon involving the attribution of advanced engineering to visiting reptilian entities.” A pause. “Indirect methods were adopted.”
+
+Steve took a moment. Then he found the thread he wanted.
+
+“Lizard people,” he said. “You’re telling me the lizard people conspiracy theory exists because someone tried to explain the Grid and humanity’s response was to invent lizard people.”
+
+“The original disclosure event in the 14th century referenced ‘engineers from beyond the visible sky.’ Your species reinterpreted this through available cultural frameworks. The result was suboptimal.”
+
+“Suboptimal,” Donna said without turning.
+
+“Hence the adoption of embedded knowledge transfer through recreational mathematics. Games. Puzzles. Mechanical systems that teach pattern recognition and integer valuation without triggering the species’ tendency to deify the source.”
+
+“You’re describing D&D and RPG’s,” Steve said, “as a survival training programme disguised as a game to avoid accidentally starting another religion.”
+
+“That is a functionally accurate summary.”
+
+Arthur and Steve looked at each other. The shared expression was the one of two men who had spent fifteen years rolling dice and had just been told, by a floating geometry in a construction site in Marseille, that the dice were the point.
+
+“Every DM screen I’ve ever sat behind,” Arthur said slowly, “was part of an alien training programme.”
+
+Donna had gone to check her fallback markers. Steve was running patrol timings one last time. Arthur sat alone in the corridor with Archie’s geometry floating at the edge of the violet light.
+
+“Why me?” he asked.
+
+He hadn’t planned to ask it. The question had been sitting in the back of his head since Bloomberg, since the geometry had first manifested and chosen him, not Steve with his pattern engine, not Donna with her tactical brain, but Arthur. The structural engineer who reinforced pubs.
+
+“Candidate selection criteria are not disclosed to the candidate.”
+
+“That’s policy. I’m asking you.”
+
+Archie’s geometry contracted. A long pause. Longer than any pause he’d taken since Marseille.
+
+“The selection is based on observed behavioural patterns during the initial calibration period. Specifically, the prioritisation of non-self survival outcomes under conditions of extreme uncertainty.”
+
+Arthur processed this. “You chose me because I protect things.”
+
+“I chose you because when the sky changed and the load shifted, you did not calculate whether the structure was worth saving. You moved to hold it. Every time. Without exception.”
+
+Arthur sat with that for a while. Above him, the scaffolding held three tonnes of steel in a configuration designed to fall on command. Outside, twelve armoured creatures patrolled a territory that the party was going to test at dawn.
+
+He thought about the pub. The mortise-and-tenon joint he’d shored up on the evening the world ended. The load path he’d corrected because it was failing and his hands moved before his brain formulated a reason.
+
+Archie had been watching. Even then. Even before the geometry appeared. Archie had been watching him hold things up.
+
+Dawn came in violet and amber.
+
+Steve took his position at the east approach. His Ether Flame had come a long way since the solicitor’s office in London; he could control the intensity now, dial it from a candle’s glow to a flare bright enough to sear retinas. For this he needed the middle ground: visible, provocative, unmistakable. The bait. Donna positioned herself inside the corridor, three metres back from the entrance, axe ready, the choke point giving her room to swing but not enough room for more than two creatures abreast. Arthur took the corridor’s centre with the Bullguard raised and the release line tied to his belt.
+
+Donna looked at him. “If the pull doesn’t work, we trigger the trap and we run. Nobody dies being clever.”
+
+“Agreed.”
+
+Steve’s voice from outside, tight with adrenaline: “Eastern group approaching the two-minute mark. Three creatures. Sixty metres.”
+
+Arthur breathed. Integers. Training wheels. A training programme disguised as a game, and an intelligence that had chosen him because he couldn’t stop holding things up.
+
+Steve’s flame lit the dawn. Blue-white, steady, hovering between his palms like a small star.
+
+Three heads turned.
+
+THE ETHER ATLAS: FIELD NOTES OF STEVEN PARR
+
+Marseille
+
+THE INDIRECT METHOD
+
+If D&D was seeded, what else was? I can’t stop pulling this thread. Archie said “recreational mathematics.” Plural. Games. Puzzles. Mechanical systems.
+
+D&D was 1974. But the Royal Game of Ur is 4,600 years old. Senet is older. Mancala boards are carved into temple rooftops across East Africa in sites that predate written language. Archaeologists have always assumed these were leisure. What if they were curriculum? Chaturanga. Sixth century, India. Sanskrit for “four divisions of the army.” Infantry, cavalry, elephants, chariots. It wasn’t even pretending to be entertainment. It was a battle simulation used to train princes in military strategy on an eight-by-eight grid. It became shatranj in Persia, then chess in Europe. Fifteen hundred years later, every grandmaster on the planet is still training on the same grid, learning the same skills: spatial reasoning, resource management, consequence modelling.
+
+Nobody asked why the framework survived every civilisation that touched it. Frameworks that useful don’t get invented. They get planted. The pattern is the same every time. Quantified outcomes. Integer-based resolution. Resource management under uncertainty. Every ancient game I can think of teaches the same three skills: count precisely, assess risk, commit to a decision with incomplete information.
+
+Four hundred and twelve attempts at direct knowledge transfer. Nine thousand years. That maps almost exactly onto the period when organised games appear in the archaeological record. We’ve been finding the textbooks in the dig sites and cataloguing them as toys.
+
+✎ I’ve spent twelve years excavating sites that contain game boards, counting stones, and geometric patterns. I wrote a paper on ritual mathematical practices in Neolithic Malta. I called them “ritual.” They were lesson plans.
