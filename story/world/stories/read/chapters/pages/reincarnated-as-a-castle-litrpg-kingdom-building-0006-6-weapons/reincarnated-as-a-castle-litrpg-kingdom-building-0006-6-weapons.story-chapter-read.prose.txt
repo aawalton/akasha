@@ -1,0 +1,151 @@
+I couldn't believe it. A wooden club cost ten points?
+
+(The math doesn't add up at all! If a wooden club costs 20 Wood, then how come the wooden bench in the Furniture tab only needed 10 Wood?)
+
+A bench was clearly much bigger than a simple club. Material-wise, it made zero sense. Bigger, more substantial things should cost more resources. So why was the pricing completely backwards like this?
+
+But then, as I viewed the equipment in full detail, I finally understood why.
+
+(Sorry, System. I may have been too harsh on you after all!)
+
+[Wooden Club]
+
+Type: Weapon (Normal)
+
+Rarity: F
+
+Effect: +1 ATK
+
+Special Effect: Holder gains Skill: [Bonk!]
+
+Bonk: Every hit on an enemy has a chance to stun them! Higher chance if it hits the head!
+
+[Wooden Hammer]
+
+Type: Weapon (Normal)
+
+Rarity: F
+
+Effect: +1 ATK
+
+Special Effect: Holder gains Skill: [Crafting (F)]
+
+Crafting (F): While holding the hammer, the user can make simple items when interacting with crafting stations.
+
+[Wooden Shield]
+
+Type: Armor (Light)
+
+Rarity: F
+
+Effect: +1 DEF
+
+Special Effect: Holder gains Skill: [Piercing block (F)]
+
+Piercing block (F): Reduce extra 10% damage caused by piercing type attacks.
+
+[Bone Dagger]
+
+Type: Weapon (Piercing)
+
+Rarity: F
+
+Effect: +1 ATK
+
+Special Effect: Holder gains Skill: [Backstab (F)]
+
+Backstab (F): Attacks from behind deal 20% extra damage.
+
+****
+
+Obviously, these weren't ordinary items.
+
+The rarity might be total trash at F-tier, but every single one of them provided extra stat boosts and useful skills. The system was charging a premium for the hidden value.
+
+That aside, one particular skill caught my attention: [Crafting (F)] from the wooden hammer.
+
+So, in other words, one could learn skills simply by holding the right item?
+
+Did that mean… if I somehow acquired a sword with a ridiculous skill like "Dragon God of Destruction Sword Art" or something equally overpowered, I could instantly use that Dragon God of Destruction Sword Art without ever needing to train, practice, or learn it beforehand?
+
+That made my gamer instincts tingle for a moment.
+
+I didn't know how other weapons worked in this world, but at least my weapons from the System seemed quite incredible!
+
+Once I upgraded the shop and gained access to better items, I might even unlock some truly broken skills. Who knew what kind of insane abilities waited further down the line?
+
+Anyways, I scrolled down further, and some more info appeared.
+
+[Shop Info]
+
+The Daily Equipment Shop will refresh daily at midnight, providing new randomized options based on rates determined by Shop Level.
+
+Upgrading the shop will increase the amount of options available and improve the rates for better equipment.
+
+Current Rates:
+
+F Tier: 100%
+
+E Tier: 0%
+
+D Tier: 0%
+
+C Tier: 0%
+
+B Tier: 0%
+
+A Tier: 0%
+
+S Tier: 0%
+
+SS Tier: 0%
+
+SSS Tier: 0%
+
+EX Tier: 0%
+
+(Damn, there are this many tiers?)
+
+(And the shop doesn't stay fixed? It refreshes daily with completely random options?)
+
+I felt like I had seen this design somewhere else before…
+
+(GASP! Don't tell me!)
+
+I looked a little further down the panel, and there it was…
+
+(OF COURSE!)
+
+[Refresh Now: 5 Points]
+
+[Free Daily Refresh Available: 1 Refresh]
+
+Yeah, I knew this design all too well!
+
+It locked all the potentially good options behind heavy RNG, turning the whole thing into a goddamn resource sink for anyone desperate enough to chase the best items.
+
+I was still scarred from my gacha games days, when I'd been trapped in the endless hell of artifact grinding.
+
+It was such an evil, predatory system, and yet so strangely addicting. You just kept rolling and rolling for random shit until you burned through a small fortune min-maxing, desperately hunting for that perfect golden crit value item or that elusive 1% increase in power…
+
+Yet most of the time, you just ended up gearing your best DPS character with sad, useless HP and DEF artifacts that did almost nothing.
+
+Still, good thing that the shop at least offered one free refresh per day!
+
+So I used it immediately. I wanted to see exactly what kind of things got randomized.
+
+And as the new item appeared, I could feel my soul leaving.
+
+(Well, I'll be damned…)
+
+Not only could the primary effects and stats be randomized, but the skills they came with could change too! Meaning: if you got an ass skill or terrible stats on a roll, then the entire item would basically be trash!
+
+For example, this one!
+
+[Wooden Hammer]
+
+Effect: +0.5 HP Regen
+
+Special Effect: Holder gains Skill: [Lumberjack (F)]
+
+Lumberjack: Chopping wood consume 10% less stamina and 20% more efficient.

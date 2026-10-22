@@ -1,0 +1,299 @@
+Together, Kae and Silvia walked into the church. Kae spoke briefly with Father Brinkhorn, the eccentric priest who would give such a dangerous mission to a novice, before making her way back outside.
+
+“Alright, before we leave, I need to buy some [Strawberry Juice] from the merchants. Do you need some, Silvia?”
+
+“What does it do?”
+
+“It restores 25% of max MP. I can buy you some so you can keep up the heals for me.”
+
+“Oh, sure.”
+
+Kae walked over to a merchant and found one selling them for 125 gold apiece. She bought 300 of them for 37,500G. The merchant was also selling Keo Leaf, the revival item, for 12,000G each, so she bought 10 of those for 120,000G. Finally, she bought 10 red potions for 95G each.
+
+New total: 15,050,350G
+
+“Here you go,” Kae said, trading 100 [Strawberry Juice] to Silvia.
+
+“Huh, you’re really helping me out, aren’t you, Kae?”
+
+Silvia accepted it, putting the juices in her bag.
+
+“Of course. Are you ready to go? Do you have anything you need to do before we leave, Silvia?”
+
+“No, I’m ready to go. It’s the weekend, so I can be up all night.”
+
+She pumped her fist, eyes bright and ready to go like an excited puppy about to go for a walk.
+
+“Good. We are going to do some major grinding while we are there. We’re going to get stronger in no time.”
+
+Silvia held her rod and tilted her head, her smile radiating toward Kae.
+
+“Hehe, okay. If you say so.”
+
+Together, they journeyed out of Restoria city into the southern fields, heading toward Yale Forest. Thankfully, it was just a few maps to the south.
+
+“Do you know where to go, Kae?”
+
+It was only then that she realized she had no idea where the Yale Forest was. So, she decided it was best to just stay behind her new party member.
+
+“Yeah, I have the maps of Keostar memorized by this point. Just follow me.”
+
+“S-Sure thing.”
+
+The forest they entered was dark, dreary, and cold. The trees were bare, and fog rolled along the ground. A place that had been cursed by a dead priest long ago still refused to give life to this forest. It brought a shiver down Kae’s spine. Less because it was scary... it was just cold, and even her tail wasn’t keeping her warm.
+
+“The monsters we are looking for are undead. They drop the [Yale Root].” Kae explained as she looked about.
+
+Silvia looked around, mouth wide open.
+
+“I didn’t expect Yale Forest to look like this. It’s so creepy.”
+
+The acolyte’s shoulders shook, but in contrast, Kae’s tail wagged at her words.
+
+“Yeah, it was one of the coolest maps when it was first released in version 1.1. Father Brinkhorn’s...”
+
+She paused to avoid spoiling the lore.
+
+“Ah, never mind.”
+
+Purple water pooled around the dead trees as they walked cautiously.
+
+“Be careful, Silvia. You can poison yourself if you touch the purple water. Do you have an antidote yet?”
+
+“Yes, I just opened it. I have [Heal] and [Antidote]. For attacks, I have [Holy Light].”
+
+“Don’t use [Holy Light]. It’s better when you’re at a higher level. For now, just use [Heal] on the undead here to kill them.”
+
+Keostar had a neat little gimmick that allowed players to heal monsters, not as a troll, but as a way to heal-bomb undead. Players could accidentally heal monsters if they weren’t careful, and high-level priests sometimes did it to fallen angels and annoyed their teammates. But there were more conditions to make that happen by accident.
+
+“Arrrrgggaaa!”
+
+Groans rose from all around. The undead were slow but hit hard. Kae and Silvia stood back-to-back as they prepared for the fight.
+
+Undead Man
+
+HP: 2007/2007
+
+MP: 0/0
+
+Undead Woman
+
+HP: 1567/1567
+
+MP: 0/0
+
+“The undead come in clusters, so they can easily overwhelm you if you’re not careful. Focus on the weaker ones. I’ll take out the stronger ones, Silvia.”
+
+Kae tossed [Blazeball Lv. 1], dealing 300~700 damage with a critical hit. With almost no cast time, she could kite the enemies while attacking.
+
+Silvia healed as she went, dealing about 600 damage per heal to the undead. With her low MP, she had to keep using more strawberry juice than Kae.
+
+SILVIA REED LEVELED UP
+
+Silvia Reed
+
+Level 10
+
+Acolyte Trainee
+
+HP: 126/126
+
+MP: 101/101
+
+STR: 5
+
+INT: 17
+
+DEX: 4
+
+VIT: 1
+
+AGI: 6
+
+LUK: 1
+
+NEXT LEVEL: 400/2039
+
+“Wow, they give a lot of EXP, Kae!”
+
+Silvia cheered, healing and destroying another undead.
+
+“Yeah, it’s a great grinding spot for newer players. If you don’t mind, we’re going to stay here for a little while!”
+
+In the muggy swamp, Kae and Silvia burned and healed the zombies all around. It reminded Kae of her first time in this place, dying back in version 1.1.
+
+Back then, she had just been having fun, running around, and looking for a party with a few other carefree players. She hadn’t been trying to get strong; her only goal had been to enjoy the game.
+
+“Hehe, this is fun, Kae!” Silvia said, showing a smile emoji over her character. Her excitement brought Kae a wave of nostalgia. She couldn’t help but smile back.
+
+“It is. That’s why I used to play this game. It was so much fun.”
+
+Those jerks who had bullied Silvia didn’t understand the meaning of it. The more people who could enjoy themselves in this world, the happier it would be. Simple as that, play the game to have fun.
+
+“Oh, no!”
+
+A zombie slapped Silvia across the head, dealing 632 damage and killing her instantly.
+
+Silvia Reed
+
+Level 10
+
+Acolyte Trainee
+
+HP: 0/126
+
+“Don’t respawn! I’ll revive you!”
+
+Kae cautioned.
+
+“Oh, I was just about to respawn...”
+
+After killing the cheap zombie that had sneaked up on her, Kae revived her with a [Keo Leaf].
+
+Kae used [Keo Leaf] on Silvia.
+
+“Should I carry some too, just in case you die, Kae?” Silvia asked.
+
+Kae waved her hand dismissively, a slight chuckle escaping her lips. “No worries. If I die, I’ll be killed for real. So holding the revival item for me is useless.”
+
+“O-Okay...”
+
+Silvia muttered.
+
+They continued onward, killing zombies left and right.
+
+KAE LEVELED UP
+
+Level 20
+
+Kae Loredom
+
+Foxian Trainee
+
+HP: 522/522
+
+MP: 159/159
+
+STR: 29
+
+INT: 33
+
+DEX: 14
+
+VIT: 12
+
+AGI: 28
+
+LUK: 10
+
+NEXT LEVEL: 54/27963
+
+Kae noticed something was on Silvia’s mind. She stopped, turned toward Kae, and slanted her eyes as if the fox had stolen something from her.
+
+“Okay, I’ll bite. What are you talking about, Kae?”
+
+Silvia wouldn’t know how strange Kae’s situation really was. Layla was still on edge about believing her, but that didn’t matter.
+
+“You see, I’m trapped in this game. I have perma-death. If I die, I die.”
+
+She popped her hands up in a strange attempt to make the explanation explosive. But she wasn’t sure if it helped. Silvia crossed her arms and slanted her eyes further. But then... it clicked all at once.
+
+“Perma-death?! If your character dies, you’ll have to start over. You’re one of those hardcore players, Kae?”
+
+Silvia gasped.
+
+Kae shrugged.
+
+“Yes, I guess I am.”
+
+She burned down more zombies as she clarified. On a keyboard, this would have been harder, but thankfully, she could throw [Blazeball] and chat with ease.
+
+“The Goddess, Rexia, came to me and transported me into the game. My goal is to kill her and become the new God of the game.”
+
+The Foxian said, almost like reading from a script by this point. Maybe she would put her lore in her notes for players to click on and read to make it easier for new people she met.
+
+“And to be God, I can’t let bullies like that mean Trade Baron, Dareth Darkmere, exist. People like that shouldn’t be allowed to hurt others and get away with it.”
+
+She turned back to her newfound ally.
+
+“So, we will beat him one day, Silvia. But first, we’ll get stronger. We always need to get stronger!”
+
+Kae smirked as she guided a horde toward them. Luckily, their attacks were short-range, and she was fast enough to keep them at a distance.
+
+SILVIA LEVELED UP
+
+Silvia Reed
+
+Level 12
+
+Acolyte Trainee
+
+HP: 196 / 196
+
+MP: 155 / 155
+
+STR: 8
+
+INT: 20
+
+DEX: 6
+
+VIT: 3
+
+AGI: 8
+
+LUK: 2
+
+NEXT LEVEL: 550/7039
+
+“Always get stronger?”
+
+Silvia repeated.
+
+“Yeah, and getting stronger is fun with friends! Don’t you think so?”
+
+The acolyte’s eyes shone a bit brighter...
+
+“Yeah, this is much better!”
+
+Kae’s eyes lit up. Her words reminded Kae of herself when she first started. Silvia was like Kae back then; she would become strong and powerful just like she had.
+
+“Hey, would you like to kill Rexia with me, Silvia? I’m sure it’ll be fun together.”
+
+Kae offered, extending her hand after they cleared the last horde of zombies. Silvia reached out, and they shook hands.
+
+“Hehe, sure. I’ll kill the Goddess of the world with you. It’s a fun goal, I guess!”
+
+They laughed like a couple of school kids as they made a pact to murder the Goddess, Rexia.
+
+Current stats.
+
+Level 20
+
+Kae Loredom
+
+Foxian Trainee
+
+HP: 522 / 522
+
+MP: 159 / 159
+
+STR: 29
+
+INT: 33
+
+DEX: 14
+
+VIT: 12
+
+AGI: 28
+
+LUK: 10
+
+NEXT LEVEL: 3454/27963
+
+Weapon – Short Sword STR+3 [Slime Core], [].
+
+Helmet – Wooden Helmet VIT+4 [][][][]
+
+15,050,350G

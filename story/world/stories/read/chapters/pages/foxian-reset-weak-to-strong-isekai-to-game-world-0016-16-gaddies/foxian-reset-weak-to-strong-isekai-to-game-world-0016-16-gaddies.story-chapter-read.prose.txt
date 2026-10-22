@@ -1,0 +1,315 @@
+"There are some silly alligator monsters in the Restoria Groves."
+
+Layla mentioned as the group traveled together. The walk wasn't too far, just a few maps from Restoria. Traveling gave them a little bit of time to chat and relax.
+
+"Gaddies. I haven't seen those guys in a long while."
+
+Kae smirked, thinking about the strange design. Gaddies were bipedal alligators that walked about in T-shirts, arms raised. Randomly, some even wear shades... a unique, silly design, for sure.
+
+Despite how goofy they looked, though, the Gaddie orb was actually useful for new weapons, offering ATK+7 and SPD+7. Not only that, Gaddies dropped an item called [Rough Scale], which sold for a reasonable price for newer players as well.
+
+"Hm, I kind of miss the Gaddies. Depending on the class I choose, I might need to farm those allegators again for their core. Hehe."
+
+The Foxian chuckled as she reminisced about the months she had farmed them for their core.
+
+"Kae, how long have you been in Keostar then?"
+
+Gale asked as he made his way beside the fox.
+
+"Ten years, Gale. Since the start of the server. I'm a day one player."
+
+She admitted. Surprised, Gale awed, looking back around to the Foxian.
+
+"Oh, really? I thought we both were new to this world. Ah, does that mean you're... ah, starting fresh or something?"
+
+The thief gazed at Kae in a new light. Something about the way Gale spoke was odd to Kae. She's been picking up on a few things... but she let it go and answered.
+
+"It's a bit more complicated than that. As Layla mentioned, my main was destroyed by Rexia, forcing me into this character. Basically, I had to start over. If I die, I really die!"
+
+Gale scratched his cheek, feeling a tad overwhelmed.
+
+"I-I don't know about the whole Rexia thing, Kae, but it's no wonder you're so knowledgeable about Keostar."
+
+Finally, the group reached the Restoria Grooves. The calming sound of the river in the distance made the Foxians' ears perk up. The serene environment to relax and go about farming, just like she remembered.
+
+"Huh, there's a lot of dead players here."
+
+Layla pointed out. Just a little way ahead, multiple players were dead on the grass. Only then did Kae's ear twitch, hearing a unique "Rawr, Rawr, Rawr" sound coming from the lake nearby.
+
+Gaddie
+
+HP: 1027/1027
+
+MP: 352/352
+
+A super mob of Gaddies rushed them out of seemingly nowhere. With their little arms raised, the Gaddies chopped at them with their long jaws. Their googly eyes spinning around were like something out of a cheap horror movie as they swarmed the group of four at the entrance.
+
+"Wow, why are there so many of them?!"
+
+Silvia shouted as she ran around, trying not to die. There had to be twenty or thirty of them rushing to the party the moment they entered the map.
+
+[Hawk Dive]
+
+Layla attacked, but the mob easily took her down like a horde of zombies.
+
+"Nope, can't die from this."
+
+Kae dived out of the massive mob and exited the map without a second thought. Dying to staggering or something equally ridiculous would have been a cheap way to go. After taking a breath, she opened party chat and contacted her team.
+
+["How is everyone?"]
+
+Kae messaged.
+
+["We're all dead aside from Gale, Kae. Someone is mobbing monsters and killing newer players with them."]
+
+Silvia groaned in the group chat.
+
+["I assumed as much…"]
+
+The fox replied. It wasn't against the rules to mob enemies. Many players did it to gather loot faster. But there had always been controversy about players using mobs to kill passersby. It happened... more often than not in KO.
+
+["I need you three to be my eyes. Who are the people mobbing them? Give me their names."]
+
+Kae asked as she paced around, deciding how to go about this.
+
+["It's Dareth Darkmere, Kae. Of course it would be him..."]
+
+The acolyte accused. Kae thought about that merchant from before. He seemed like the kind of bully who knew no bounds.
+
+Level 50
+
+Dareth Darkmere
+
+Trade Baron
+
+HP: 5691/6592
+
+MP: 508/508
+
+STR: 76
+
+INT: 20
+
+DEX: 20
+
+VIT: 30
+
+AGI:19
+
+LUK: 33
+
+Comparing their stats, Dareth could easily win in a duel. But if Kae wanted to continue enjoying the game with her friends, she would have to deal with him one way or another.
+
+["Respawn, all of you. I'll meet you outside the Restoria Groves entrance."]
+
+Kae ordered. Gale was the first to return from the Grooves. He removed his [Hide] status and reappeared by the fox.
+
+"Quick thinking, Gale, using [Hide] to escape."
+
+The fox praised.
+
+"Perks of being a thief. Ah, from what I've seen, Kae, Dareth is walking about. He's not even staggering from the massive mob of Gaddies he has."
+
+Gale explained, a tad unsure what to do with that.
+
+"Merchants have a skill called [Endurance] that prevents them from staggering so they can mob easier for a time, Gale. That's what he's doing."
+
+The Foxian put a finger to her chin, thinking it over.
+
+["Dareth is likely using [Endurance] to mob and kill newer players who are trying to enjoy the event. But even if the monsters are weaker than him, enough of them can kill him if he gets overrun."]
+
+Kae messaged the team. Layla and Silvia arrived soon after. There, they all gathered around the entrance to formulate a plan.
+
+"Yeah, but he's spamming health items to keep himself alive. What a useless person!"
+
+Silvia shouted in annoyance. Her hate for the merchant was palpable; anyone in this group could see that.
+
+"Maybe we should just report him and find another spot to collect what we need?"
+
+Layla suggested with a shrug. She was clearly over it, too, already.
+
+"I'm sure a lot of players already did that. But moderation isn't the best in Keostar. And it always takes time for them to investigate."
+
+The fox slumped her shoulders. In other words, she had no faith in the devs to do anything about this. So, instead of waiting, she lifted her head and stood tall. She didn't want any more new players falling victim to Dareth's antics. And truth be told, she was tired of him, too.
+
+"Knowing how the game worked might be the key to taking Dareth down. I have an idea."
+
+Kae said confidently. With both hands on her hips, she turned back to the group and smiled like a cocky little Foxian, as Rexia would say.
+
+"I'm going to play a dirty trick on him. You all stay here, I'll deal with Dareth Darkmere. Just come in when I message you all in the group chat."
+
+The fox's tail was wagging as she ordered. But before she could go in, Silvia ran up to her and stood in front of Kae.
+
+"Wait! J-Just be careful. That mob is dangerous, Kae. And... I don't want you to die."
+
+[Silvia used Quick on Kae.]
+
+"Thanks. And don't worry, Silvia, I've handled my fair share of mobs."
+
+When the Foxian stepped back into the Restoria Grooves, the army of Gaddies rushed toward her, tiny arms raised. Their choppers nearly nicked her, but thankfully, she was nimble enough to dash out of the way thanks to her [Quick] buff.
+
+"Hey, is that Kae Loredom?! The weirdo from the other day?!"
+
+Just like her friends mentioned, Dareth was holding his mob of Gaddies around him. They were attacking him constantly, but he was spamming low-HP items to stay alive, all just for the fun of killing newbies. A few Gaddies would aggro towards Kae as Dareth approached.
+
+"Why are you doing this, Dareth?!"
+
+Kae shouted as she avoided death. Dareth chased her as the horde of Gaddies swayed wildly and chopped at the fox in a cluster. Kae dodged, rolled, and flipped back to her feet, keeping a good distance from the mob.
+
+"Nimble little Foxian! Just die already!"
+
+Dareth laughed like a bad villain from an old corny movie. Waves of damage rolled off him as he shoved potions into his mouth. If the fox got hit once and staggered, her run was over, and Rexia would win. The thought was ludicrous, dying to these wacky alligators.
+
+"I'm just bored. And it's fun messing with the newbies!"
+
+She circled Dareth's massive mob carefully, waiting for the right moment to strike. A Gaddie spawned right next to her, targeting her instead of Dareth.
+
+"Eh?!"
+
+[Fox Litter]
+
+The litter of foxes scattered around, provoking several Gaddies toward them. The poor foxes didn't last long, though, getting mobbed in an instant.
+
+"Nnnnggggg!"
+
+"Little guys! Don't worry, you won't die in vain!"
+
+Their sacrifice was enough to give Kae the opening she needed, though. So, she closed in and reached out toward Dareth.
+
+"Got you!"
+
+Kae swiped her hand across her body and opened a trade request with Dareth. The corner of her lips rose.
+
+"Eh?!"
+
+Dareth let out a grunt.
+
+The trade request menu was a one-sided action. So, only Dareth could see the "Will you trade?" options, leaving Kae free to keep running and avoiding the mob until he answered yes or no. But if Kae stayed far enough away, even pressing "accept" won't activate the trade. She was too far away for it.
+
+Another annoying gimmick the developers were too lazy to fix.
+
+Level 50
+
+Dareth Darkmere
+
+HP: 2394/6592
+
+MP: 508/508
+
+"Annoying! So, annoying!"
+
+The Gaddies mobbed Dareth as he was locked in the selection screen. He exited the request window, but Kae was relentless, as she rushed back in and sent another trade request his way, sealing his fate.
+
+"Dang it! Dang it all!"
+
+The merchant shouted at Kae. The Gaddies dealt small amounts of damage, around -30~60 HP per hit, but thirty of them doing that damage constantly was enough to kill even a stronger player in seconds.
+
+Level 50
+
+Dareth Darkmere
+
+Trade Baron (Ascension 2)
+
+HP: 0/6592
+
+MP: 508/508
+
+As soon as Dareth fell victim to his own trap, all the Gaddies turned on the fleeing fox right as her [Quick] buff vanished.
+
+["Everyone! Help!"]
+
+Kae yelled in the team chat. She kited the mobs as best she could, but it was getting overwhelming. The Gaddies' silly googly eyes, once funny on a screen, now seemed terrifying as they attempted to chop at her tail.
+
+"Kae!"
+
+[Hawk Dive]
+
+Layla's hawk, Dynomight, descended, killing a Gaddie or two. Soon, Gale and Silvia joined in as well.
+
+[Dagger Throw]
+
+The two of them worked together, taking out several enemies as Kae raced around the map, avoiding the mob but keeping them busy.
+
+[Quick]
+
+Kae felt lighter again as Silvia buffed her again.
+
+"Thanks, everyone!"
+
+[Blazeball]
+
+The Gaddies were weak to fire, so they burned down pretty easily. One by one, the Gaddies fell until the mob became manageable. Despite the hindrance, the teamwork made it worth it in the end. Kae ran over to Dareth's corpse before he could respawn and sent him another trade request, forcing him to stay in place for a bit longer.
+
+"You know, that was kind of clever, Kae Loredom. You're pretty smart for a newbie at this game."
+
+Dareth laughed as he looked into her eyes. Kae didn't return the amused smile, though. Instead, she crossed her arms and glared down at him.
+
+"I don't need your praises, Dareth. People like you ruined the gaming experience. I hope you've learned your lesson. We all should mass report you."
+
+The merchant stayed silent for a moment, then only answered with a...
+
+"Whatever."
+
+He canceled the trade request and tried to leave, but Kae sent another, stopping him in place yet again.
+
+"My friends are trying to have fun. If you want a day ban or something, steal loot from veterans. But don't mess with people who just want to enjoy themselves."
+
+Dareth's face twisted in annoyance before his dark eyes lowered.
+
+"There's nothing fun about this game anymore…"
+
+Instead of respawning, Dareth warped away, logging out of Keostar. His final words echoed in Kae's Foxian ears, making them twitch. She paused for a moment, thinking about those last words.
+
+"Dareth sounded so jaded…"
+
+Kae thought with her eyes closed. It was eerie how Dareth sounded a lot like her as.... Ray Belmont.
+
+"People like him just like to grief other players..."
+
+Silvia spewed with disdain, waking Kae up from her own head. It was understandable that she despised him the most. Dareth had tricked and killed her just the other day for simply asking questions.
+
+"Yeah... well, let's not allow him to ruin the mood he had going. We actually got a lot of loot from that mob."
+
+They all picked up the spoils of war when a neat shiny caught Kae's attention.
+
+"Hm, Gale, get over here!"
+
+Kae called out, and like a little puppy, Gale bounced his way over to the fox. There, she opened the trade menu with Gale. She picked up a little something special, thanks to all the crazy Gaddies.
+
+[Gaddie Orb]
+
+"Huh?!"
+
+"Here, since you're a thief, you'll need fast attack and critical damage in the future to be effective. I think you're the best person to have this, Gale. Save it for now and don't add it to a weapon just yet."
+
+The thief admired the orbs before a soft smile came on his face...
+
+"Thanks, Kae. I'll do just that. But... are you sure?"
+
+"Yeah, I think I'll farm some myself if I end up picking up thief. But for now, you can have it."
+
+Gale put the orb in his pack and patted it.
+
+"Again, thanks, Kae."
+
+With that behind them, Kae held her fluffy tail as it wagged from side to side. The excitement of it all was getting to her, and she knew it.
+
+"Let's get the [Water] and [Pine] we need. How about you lead the way, Gale?"
+
+Kae suggested.
+
+"S-Sure!"
+
+As they walked away, a few super-high players came rushing in. A bit late to the game, Kae thought, but better late than never?
+
+"Where's that jerk, Trade Baron?!"
+
+Jayden Stiffelman, a Holy Paladin, ran around the area, likely a veteran who was on new account before he died. It was too late though if he was seeking revenge.
+
+"Hm, I could have waited for someone stronger to deal with that problem, couldn't I?"
+
+If Kae hadn't cleared Dareth out, some high-level players probably would have... It was a risk she didn't have to take... But...
+
+"But no, I wanted to solve the problem. I wanted to deal with Dareth myself."
+
+The fox looked over at Silvia. She was chatting with Layla, carefree. A soft smile rose on Kae's face. Not thinking any more about it, she rushed over to the lake, joining her new team of friends.

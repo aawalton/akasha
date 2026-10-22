@@ -1,0 +1,481 @@
+"Alright, the FA here can one-shot you if you don't dodge its mana heat ray."
+
+Kae and Layla made their way into the circular arena. Fire torches lit up the underground coliseum. On their side was a pitfall, making this battle all the more dangerous. They had to make sure they stayed within the area, else they'd fall.
+
+“There he is! He’s coming from above!”
+
+Layla pointed dramatically at the creepy crawly above.
+
+Lord Beetle, the biggest dark beetle around, scampered its way into the arena. It crawled up from the darkness and towered over them. He was massive, covering half of the battle area with his body alone.
+
+Lord Beetle
+
+HP: 9265 / 9265
+
+MP: 1760 / 1760
+
+"Alright, time to have fun again."
+
+The Goddess, Rexia, appeared from the aether, as smug as always. She played that harp of hers. Kae thought it was for show. With every stroke, it was majestic and easy on the ears.
+
+“What are you up to, Rexia? Are you going to make the FA annoying again?”
+
+Kae pouted.
+
+“No! This time, it will give you a challenge!”
+
+She pointed back at Kae before circling Lord Beetle.
+
+"Is this part of the quest?"
+
+Layla watched, confused at what was going on.
+
+The FA turned the rich color of bronze. A bright light took over the giant bug. A flood of buffs came on the enormous beetle, along with the [Sentient] buff.
+
+Lord Beetle
+
+HP: 11265 / 11265
+
+MP: 2760 / 2760
+
+[HP UP], [MP UP], [INT UP], [Sentient]
+
+“Eh? Those are some stat boosts…”
+
+Kae groaned more out of annoyance than anything.
+
+"Die for me, Kae Loredom! Entertain me!"
+
+The Goddess vanished with a puff of mana smoke and a chuckle for good measure.
+
+"Did she call you out by name, Kae?!"
+
+“Yes. We are in a game of life and death against one another. But due to our rules, she can’t kill me directly, I guess? I’m not sure why she does this roundabout way to torture me.”
+
+Layla’s character stared at Kae like she was the FA. Maybe it was sinking in that the battle between Kae and Keostar’s Goddess was real. But that was for another time...
+
+“Layla, we need to focus on this beetle. This fight will be a little harder than normal.”
+
+Lord Beetle raised its body and spoke to them.
+
+“You’ve made it this far, but my dung beetle body and newfound power will protect my fellow beetles from you, swordsmen!"
+
+“It can talk?!”
+
+The hunter lunged back, shocked.
+
+The beetle swung its dirty body and used [Fire Blade], an AOE that covered most of the battlefield. It didn’t normally have that skill, likely a gift, courtesy of Rexia.
+
+“Dodge to the right, Layla!”
+
+Kae dived out of the way, but Layla took a critical hit of -358 HP.
+
+Level 36
+
+Layla Valmort
+
+Hunter (Ascension 2)
+
+HP: 907 / 1265
+
+MP: 106 / 176
+
+“Wow! That’s some damage!”
+
+"Yep, and it's a one-shot for me. But we should be able to win this fight."
+
+Kae circled the battle area, rolling out of the way of the fire blade wave skill. When possible, she returned fire. Her fireballs were still pretty weak against him, doing around 60~100 damage. But she had the patience and endurance for a long fight.
+
+[Hawk Dive]
+
+Layla would shoot her arrows, giving around 200~300 damage per strike. She would be the key to this battle for sure.
+
+“I want more dung on my body! The more dung around me, the better I can protect my fellow beetles!”
+
+Lord Beetle rolled on the dirt, shaking the battlefield. A horrible stench saturated the catacombs, and they were both afflicted with [Blindness].
+
+“Eewww, I've never heard an FA talk like this! It’s gross.”
+
+Layla shivered.
+
+“Yeah, I like them better when they don’t have voice lines. [Blindness] only lasts a few seconds. Stay vigilant, Layla.”
+
+Blinded, Layla moved about and nearly fell off the edge.
+
+[Mini Fox]
+
+Kae tossed her fox decoy, and Layla bumped it, stopping herself from falling. It was out of instinct, not even sure it would work for her.
+
+“Oh, you saved me, Kae.”
+
+After a few seconds, their vision returned, allowing them to see the entire battle area again. That was close. Kae needed Layla here more than anything.
+
+The battle waged on, and Kae could see Layla getting used to the pattern of the FA. Her confidence was growing, using her skills with purpose and strategy.
+
+“You're doing great, Layla.”
+
+Kae cheered.
+
+"LB’s around 75% dead. That means it’s going to start using his heat beam.”
+
+As expected, the enormous beetle charged with magic through its body, and the catacombs heated up.
+
+"Be careful. This is an easy one-shot for our level."
+
+Kae moved back, close to the edge, waiting for the right time to dodge. It was a little tricky, but she recalled a tell from the forums: When LB’s left antler shakes, dodge left. When the right shakes, dodge right. Seeing the tell was the hardest part for newer players.
+
+[Heat Beam]
+
+“To the left, Layla!”
+
+Kae called as the beam shot to the side. But Layla was too late, and the ray incinerated her for -3571 HP. Her character fell to the ground, dead.
+
+Layla Valmort
+
+HP: 0 / 1265
+
+MP: 106 / 176
+
+“Dang it! I have a Keo Leaf for revival. Can you get to me and trade so I can come back, Kae?”
+
+Layla begged.
+
+Kae wasn’t going to beat the boss without her. They both needed to finish this quest. As dangerous as it might be, they were in this together.
+
+“Sure, give me a second. I’ll be right there, Layla.”
+
+Kae sent her [Mini Fox] to provoke Lord Beetle. The adorable golden fox ran up to the FA and hit him on the side with its fake tail.
+
+“Nnnnngggg!”
+
+The little fox doll squealed.
+
+“Get away from me, little adorable fox! I will CRUSH you!”
+
+That gave Kae the chance to run to Layla and open the trade menu.
+
+“Here.”
+
+Layla traded [Keo Leaf] to her.
+
+“There you go.”
+
+Kae revived Layla, and she shoved a few potions in her mouth to max out her health.
+
+“Be wary of that beam. I’ll call out which way to dodge, so don’t worry, we got this.”
+
+“Sure, Kae. I’ll keep up the DPS. Tell me when, and I’ll follow your lead!”
+
+They continued their onslaught of spells as LB cursed them with its horrible voice lines. A mob of dark beetles spawned, surrounding the boss, a staple of FA battles.
+
+The dark beetles attempted to push them off the edge. This was getting dicey.
+
+“[Heat Beam] is coming, Layla! Dodge to the left. Follow me!”
+
+Together, in sync, they moved left, avoiding the massive spell. The catacombs lit up with hellfire as they navigated the circular arena.
+
+“Alright, I’ll deal with the mobs; you handle Lord Beetle! I’ll call out when to dodge.”
+
+Layla dealt damage to the boss while Kae exploited elemental weaknesses on the mobs. She easily burned them alive, earning a good amount of EXP. If this battle went on longer, Kae could get a few levels.
+
+KAE LEVELED UP!
+
+Level 13
+
+Kae Loredom
+
+Foxian Trainee
+
+HP: 347 / 347
+
+MP: 78 / 78
+
+STR: 26
+
+INT: 20
+
+DEX: 10
+
+VIT: 13
+
+LUK: 6
+
+NEXT LEVEL: 154 / 17553
+
+“Nice, you leveled, Kae!”
+
+“Yeah, it’s not a bad spot. LB brings out 10 spawns at once. I can kill each for 600 EXP. 6k per round isn’t bad.”
+
+Kae scorched the mobs as Layla rained arrows down on Lord Beetle.
+
+“Ah, Kae! Dodge to the right!”
+
+Layla pointed at the antlers. Kae did just that as the heat beam shot their way. Together, in sync during the heat of battle, they both dodged flawlessly.
+
+“This is the final shot!”
+
+Layla pulled her bow back, marking the beetle in her sight.
+
+[Hawk Dive]
+
+Lord Beetle screeched and fell to its back. The bug shriveled and curled.
+
+"Oh, how I want more dung! Such a tragedy!”
+
+The bug crumpled to the dirt with a splat. Green guts flew across the arena, and Layla jumped back.
+
+“Ewww, so gross. I hate this fallen angel.”
+
+KAE LEVELED UP!
+
+LAYLA LEVELED UP
+
+Level 19
+
+Kae Loredom
+
+Foxian Trainee
+
+HP: 502/502
+
+MP: 148/148
+
+STR: 29
+
+INT: 31
+
+DEX: 13
+
+VIT: 11
+
+AGI: 27
+
+LUK: 9
+
+NEXT LEVEL 194/27563
+
+Weapon – Short Sword STR+3 [Slime Core], [].
+
+Helmet – Wooden Helmet VIT+4 [][][][]
+
+Level 37
+
+Layla Valmort
+
+Hunter (Ascension 2)
+
+HP: 1304 / 1304
+
+MP: 189 / 189
+
+STR: 10
+
+INT: 22
+
+DEX: 43
+
+VIT: 15
+
+LUK: 32
+
+NEXT LEVEL: 5353 / 64653
+
+Both of them were teleported back to the swordsmen's guild for a story to play out. It was jarring for Kae, dealing with all of this in real time. After gaining her awareness, she turned to her hunter partner.
+
+“Great work, Layla. You’re really good at the hunter class.”
+
+Kae held her hand up, and Layla gave her a high-five. To think that just a few hours ago, they were fighting over loot.
+
+"You're a great teacher, Kae! That was awesome seeing you fight. You know the game so well."
+
+The muscular Ashley towered over them. Kae grabbed her tail for protection. Real-life Ashley was intimidating. With her hands on her hips, she whipped her red hair to the side and grinned with satisfaction.
+
+"Good work, minions. Lord Beetle is dead, but he may return, so stay vigilant. Here are the badges of recommendation. With these, if you wish to go through the next steps and become a swordsman, you have my endorsement."
+
+Quest Complete
+
+Obtained [Swordsmen Badge]
+
+Obtained [ Swordsmen Heroes' Amulet]
+
+“Alright, put that [Swordsmen Heroes' Amulet] into your storage when you get the chance, Layla. Don’t sell it or get rid of it. You’ll need it in the future. Great work today.”
+
+Kae stretched and then took out her comb, gently brushing her tail. One day, DEX would rise, but for now, her tail felt nice and silky.
+
+“That was a lot of fun! And it was super odd how Rexia appeared and called you out by name, Kae.”
+
+"I told you, though, Layla. We are trying to kill each other. Sorry you had to get in between us in this death battle."
+
+Layla shrugged.
+
+“I don’t get it, but I’m having even more fun playing Keostar Online. Hey, want to check our shop?”
+
+“Sure.”
+
+They both walked over and opened the shop to see what items were there.
+
+“Hey! It’s gone! Someone bought the Blue King’s Core for 19 mil!”
+
+The hunter jumped for joy.
+
+“That’s my first big sale, Kae! I can’t wait to see how a million gold looks on my screen.”
+
+Layla logged off.
+
+The simple pleasantries from when Kae was a novice came back to mind.
+
+“Huh?”
+
+A sudden memory popped into Kae’s head. She recalled working hard to advance her human trainee to a merchant. Her eyes lowered, reminiscing about how delighted she was that day.
+
+“Hmmm...”
+
+The memory flooded in like it was locked behind a door, thrown away into a deep dungeon of her mind palace. With that key, Kae unlocked that doorway to the first year of her time in this world...
+
+“How did I forget about that day? That was my first sale on Keostar Online…”
+
+Sheen logged in.
+
+“As promised, here’s 80% of the pay.”
+
+Sheen traded 15,200,000 gold to Kae.
+
+“Hehe, I have so much money now!”
+
+Sheen looked at Kae as she was lost in thought.
+
+“Kae, are you there?”
+
+Kae didn’t respond for a moment, and that might have prompted Sheen to call her out. Something was stirring in her chest, and instead of letting it stay inside, she spoke up.
+
+“When I first started Keostar Online, I worked hard to make my first merchant class character.”
+
+After so long, Kae had forgotten this memory, but seeing Layla so happy brought it bubbling back to the surface.
+
+“I put up a few garbage items to sell and watched my shop closely. I was too tired that night, but I watched intensely... I wanted to see my first ever sale on Keostar Online.”
+
+Kae turned to the crowds of Restoria, the city she had once loved quite a lot back in the day. Over the last year, it had become rather foreign to her. Just a place full of people... like the world she left behind all those years ago.
+
+“I fell asleep on my computer and woke up to find my shop gone and everything sold. But I had a private message from a player telling me my prices were all over the place.”
+
+Kae giggled, but it fell into the bustle of the crowd like a fleeting memory, trying its best to come back.
+
+“But they bought it all anyway because they wanted to help me out. I even had a friend request from them, too.”
+
+Embarrassed by the corners of her eyes welling up, Kae looked away. She couldn’t meet Sheen’s eyes as those feelings came back. Even though she wasn’t sure... why it was causing such a reaction.
+
+“It feels great when hard work pays off. And it feels even better when people help each other. That’s just one of the many reasons why I liked playing this game.”
+
+Kae lifted her head and looked back at Sheen, Layla’s trader.
+
+“Thanks for helping me. I think I forgot how fun it was, working with someone else...”
+
+Sheen logged off.
+
+“Huh?”
+
+Layla logged in.
+
+“Sorry, I think it would be more appropriate if I said it with my hunter.”
+
+Layla rubbed the back of her head and smiled brightly at Kae.
+
+"No problem. I want to do more quests with you! I had a lot of fun, Kae. Thank you for teaching me a lesson this morning!”
+
+Kae’s tail was wagging, kind of like how her old dog's tail would when they got a pat or attention. She had to hold it tight just to stop it from hitting passing players.
+
+"Yeah, let's play a lot more later. Are you still going to play for a little longer?”
+
+Kae asked.
+
+"No, Mom’s been calling for the last hour, but I didn’t want to leave you during LB’s fight. I need to clean up and get ready for bed."
+
+They both laughed.
+
+“That’s fine. I’m going to do some grinding while you’re away. We can look at your skill tree more and optimize it when you get back if you want.”
+
+Kae tilted her head.
+
+“Or just do whatever.”
+
+“Sure, I like to do whatever.”
+
+Kae’s skills in making a hunter would be tested, but that was the fun of it. And as promised, she wanted to help Layla get better and enjoy the game, as Layla helped her today.
+
+“Don’t you have to get off and do stuff too, Kae?”
+
+Kae shook her head.
+
+“I can’t leave Keostar Online. I’m trapped in this world until I kill Rexia or she kills me. But don’t worry, I don’t need to sleep or eat, and I feel motivated to keep grinding.”
+
+Layla shrugged.
+
+“You’re too fun! You'd better still be on when I get back then! I want to have more adventures with you, as I promised!”
+
+Layla waved at Kae, and Kae did the same.
+
+“Sure. I’ll do my best not to be killed. Once you get back, I’ll give you more stuff to sell, too. And we’ll continue our journey to kill Rexia!”
+
+"Okay! To kill Rexia!"
+
+The hunter raised her bow to the sky victoriously.
+
+“Bye-bye!"
+
+Layla logged off.
+
+“Bye, Layla…”
+
+Kae gently closed her palm. How she hoped Layla would come back on and not vanish, like so many others she’d known before.
+
+“You’re getting pretty chummy about killing me!”
+
+Rexia appeared above Kae, making her jump. Her lingering thoughts were still at the forefront of her mind. With a cough, she cleared her mind and faced her nemesis.
+
+“It’s because I will kill you. It’s the only way for me to become the God of this game and make Keostar Online harder and more fun.”
+
+Kae beamed at her.
+
+“And I might kill you with friends.”
+
+Appalled, Rexia hovered away from her.
+
+“You’re such a jerk! I’m going to make your life a living hell, Kae Loredom!”
+
+The bratty Goddess disappeared once more. Her threats had fallen on deaf ears so far.
+
+“Alright, time to go back to the catacombs and grind. While I’m there, I can pick up materials for the next quest too.”
+
+With newfound dedication, Kae happily skipped back to the swordsmen guild’s catacombs.
+
+Current stats
+
+Level 19
+
+Kae Loredom
+
+Foxian Trainee
+
+HP: 502/502
+
+MP: 148/148
+
+STR: 29
+
+INT: 31
+
+DEX: 13
+
+VIT: 11
+
+AGI: 27
+
+LUK: 9
+
+NEXT LEVEL 194/27563
+
+Weapon – Short Sword STR+3 [Slime Core], [].
+
+Helmet – Wooden Helmet VIT+4 [][][][]
+
+15,206,000G

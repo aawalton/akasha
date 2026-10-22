@@ -1,0 +1,265 @@
+Level 27
+
+Kae Loredom
+
+Foxian Trainee
+
+HP: 1799/1799
+
+MP: 720/720
+
+STR: 38
+
+INT: 74
+
+DEX: 45
+
+VIT: 37
+
+AGI: 41
+
+LUK: 8
+
+NEXT LEVEL 86/41328
+
+Weapon – Wedding Staff +12 INT, +20 DEX [Undead Infestation Core][Undead Mage Core][][]
+
+Helmet – Wooden Helmet VIT+4 [x3 Dark Beetle Core][] (Thunder RES)
+
+12,677,340G
+
+"Are you two ready?"
+
+Kae asked as she bounced up and down, looking towards the purple desert in front of them. The merchant was curious, seeing the fox act a bit wild and jumpy. His curiosity got the best of him, and he spoke up.
+
+"Kae, why do you always move around like that? You never sit still for long..."
+
+The fox glanced back, still bouncing around like she was restless.
+
+"Grandfathered stats, Dareth. The more you move around and do other small things, the more likely you are to get... Oh?"
+
+AGI + 1
+
+AGI: 42
+
+"Speak of the devil. My AGI just went up, Dareth."
+
+The timing couldn't have been better. Happily, the Foxian revealed her stats to Dareth and the elf, showing the fruits of her labor. The merchant sighed deeply.
+
+"That's right. I remember reading about those before playing the game. People say it takes so long, so it's kind of pointless to try and get them organically."
+
+Dareth rolled his eyes, finding the entire system ludicrous. But Kae rubbed her nose with pride.
+
+"Those are just people who don't understand how it works, since a lot of the math is hidden behind data mining the game. I'll go into more detail with you later, though, Dareth. But all you really need to know is, if you live in this game, the game will reward you."
+
+Palona marched forward, passing her teammates as she approached the village's exit.
+
+"Alright, you two, let's get going. The longer we wait, the more likely the monsters out here will infiltrate and wreak havoc on this village."
+
+The Knight took the first step out of the rune barrier and into the purple desert sands. The Thieves Guild was their goal, though it lay a considerable distance away.
+
+"We may get lucky and avoid Perry. He was patrolling the previous area, so he might still be roaming that map."
+
+Dareth hoped as they pushed through the cooled-off purple sands. In the distance, a pure black pyramid with swirling purple magic rising from its top. Against the plum sky, it was captivating. But that place felt like it was miles away, further in the desert than they would ever need to go.
+
+"What is that place, Kae?"
+
+Dareth asked, in awe of the sight.
+
+"Ah, that is the Raha's Domain. As the name entails, Raha, the Fallen Angel, lies deep within. But we're not going there anytime soon."
+
+Raha, one of the elite Fallen Angels, was way beyond their level, and the veteran knew it. Thankfully, the problem is the dang bird with an outrageous upgrade and not an elite FA. As they trekked through the desert, Palona looked back towards Kae and Dareth.
+
+"If Perry decides to hunt us down again... I'll give him the punishment he so wants."
+
+Palona said, tone slightly irritated as she pushed through the dark winds. Seeing the villagers crying out in pain sparked a drive in her that had been unseen until now. The elf Knight spoke with venom behind her words. But before Kae could speak up...
+
+"Hm?"
+
+The fox's ear twitched as the sands beneath them rumbled. Black sand worms, dark like onyx, emerged from the shifting dunes. Kae prepared for these monsters. The stronger version of the white worms from earlier. The large cluster of worms generated an electric field in a circular pattern around the trio.
+
+Onyx Sand Worm
+
+HP: 6745/6745
+
+MP: 112/112
+
+"Area-of-effect attack! Scatter, everyone!"
+
+Kae ordered, and the group split up. Kae braces for the brunt of the attack as she feels the tingling of electricity infiltrate the air. The spell unleashed, shocking the sands around them. The first strike hit everyone, but wasn't enough to cut deep into Kae's new resistive armor, dealing low damage of -231HP. Surrounded by at least six of the worms, everyone took formation.
+
+"Dareth, stay in the front and tank! Palona and I will deal with them as they focus on you."
+
+The Foxian instructed. Kae and Palona assault the worms with fire and ice spells as the merchant took the lead, tanking them while swinging his massive hammer. The strategy worked well. Dareth maneuvered with surprising skill as the monsters zoned in on him. Palona's ice spells cut through the worms, and Kae's fire cleared them with ease, too. As fast as they came with a surprise attack, the ragtag trio's teamwork made quick work of them.
+
+Level 27
+
+Kae Loredom
+
+NEXT LEVEL 32896/41328
+
+"Wow, they give a surprising amount of EXP for my level."
+
+As much as Kae wanted to relax and farm, time was still of the essence. As the sand worms thinned out, black clouds hovered over them. The trio looked up, feeling the oppressive darkness approaching.
+
+"Those aren't clouds…"
+
+Dareth pointed out. The thickness of the swarm above was vultures drawn in by the commotion. They knew, when those black birds appeared, Perry was soon to follow.
+
+"Let's avoid the vultures! They'll lead Perry to us. Focus on distancing ourselves and keep moving toward the Thieves Guild. Follow me!"
+
+The fox vet took the lead as the trio raced towards the Thieves' Guild. As they moved through the purple sands, more onyx worms appeared in an attempt to stop them.
+
+"They're relentless!"
+
+Dareth complained. Palona glanced back at the mob of birds flying their way. The massive cloud of caws darkened the desert above them.
+
+"The vultures are closing in, and I can see Perry in the crowd of them! We might have to engage again!"
+
+The Knight warned. Kae, knowing the layout of the map, knew the Thieves Guild was still a ways off in the distance. It was inevitable that they'd have to battle with the large tongue bird again. Despite how silly it looked... it was dangerous.
+
+The loud screech confirmed it as Perry emerged from the flying forest of vultures. Those shining birds' feathers sparkled with mana as he charged up his powerful spells. The screech of the fowl echoed in the trio's ears as he speared down their way.
+
+"Palona, he's targeting you!"
+
+The Foxian warned. Soaring through the skies, the bird sped past the dark winds and purple sand storm, towards the Knight elf. There was no escaping Perry, and Palona accepted that.
+
+"Here I go!"
+
+Palona spun around, cutting her feet in an arc as she channeled mana in her great sword. Determined, Palona activated her Knight elemental skill.
+
+[Ice Charge]
+
+Her great sword blade froze like solid ice as she prepared for the Fallen Angel spearing her way. She readied for the impact, planting her feet firmly in the sand. The Knight wasn't backing down.
+
+"You've hurt too many of Rexia's people!"
+
+The fire in her eyes burned as the coldness of her ice channeled around her blade. Massive ice spikes appeared on the edge of her great sword as the bird arched back and dived straight into her.
+
+"Die already!"
+
+Lighting danced around the group in an incredible light of mana as Palona slashed the bird, head-on. The sound of shattering ice echoed sharply in the dark, sandy world. Perry flew to the side into the sands, losing a massive -23015 of its HP as he rolled. There was a frosted scar across its belly as the bird lay there, dazed and confused. Palona's mana depleted to 0, though. An intense wave of exhaustion fell over her. Feeling dizzy, the Knight fell to her knees.
+
+Palona Vertra
+
+MP: 0/1210
+
+Perry
+
+HP: 22225/45240
+
+MP: 13312/13312
+
+[STR],[INT],[AGI],[DEX]+++, [Enlightened]
+
+"Palona dealt half of Perry's HP! I've... never seen a skill like that before."
+
+The veteran marveled at the attack. What the proclaimed "Goddess in flesh" did was outside the skill set of any Knight. That unnamed spell wasn't something in the skills of the game... but out of the will and rage of a woman enraged by her people being harmed.
+
+"Nnnnggg…"
+
+The elf's body locked up as she grit her teeth. Shaking it off like a true soldier, though, she used her blade to get back to her feet. Kae rushed over to her and touched her back.
+
+"Are you alright, Palona?"
+
+"Don't worry, I can still move, Kae. Let's go, everyone!"
+
+The Knight ordered as she pushed past the fox, taking the lead in the escape.
+
+"Geez, that was a strong spell! Do knights have skills like that?"
+
+The merchant asked as they rushed through the purple sands, getting closer to the Thieves' Guild. The quick answer in Kae's head was "No". That was something only Palona manifested. It intrigued Kae as they made their break for it.
+
+But soon enough, Perry screeched and rose from the dunes along with his hoard of vultures. They made chase, shooting spells at the trio to stop them.
+
+"Palona, Perry is weak to ice! Your spells can keep him at bay better than Dareth and me. Can you restore your mana?"
+
+The elf tried, but none of her items were functioning correctly. She groaned and turned back to Kae as they ran.
+
+"Give me a bit of time. None of my items is working and... I'm feeling too worn out..."
+
+Perry ascended, summoning dark winds and lightning their way. It was getting harder to dodge his spells. The mobs of vultures circled the trio like a tornado, cutting off their pathway briefly.
+
+"Ngggg!"
+
+Without Kae summoning him, Tuffy, along with his copies, jumped out and provoked the mob.
+
+"Huh, Tuffy?"
+
+The swarm of vultures crowded the mini foxes, giving the team a chance to gain distance on the Fallen Angel. So, everyone took this chance and pushed through the mob. The Thieves' Guild wasn't much further away. But instead of being provoked, Perry flew past Tuffy and flew towards the group, his sights on the Foxian instead.
+
+"No, you don't, you dang bird!"
+
+Just as Perry was about to dive into the fox, a dark figure appeared from the shadows, cutting the bird down. Perry's cries of pain made the trio look back.
+
+"Who is that?"
+
+Dareth looked back in shock. The team stopped to see what was going on. A male Night Stalker, the elite version of the Thief Class, stood between them and Perry.
+
+In dark cloak that danced in the violent winds and a large blade at his side, the figure stood confidently against the Fallen Angel. He had short hair, the pale color of snow, and a red scarf covering his mouth. In the cool of the dark desert, the mysterious man watched Perry as it took off and flew again. Without hesitation, he rushed in and slashed the bird with a blade hooked to his right arm's armor piece. He danced around, disappearing and reappearing in an instant, slicing Perry like a butcher.
+
+Easily, he was holding his own against the overpowered bird. Perry would try to fight back, but the Night Stalker avoided him with ease, cutting him down countless times.
+
+Perry
+
+HP: 10225/45240
+
+"There's no way. That really is..."
+
+The fox's excitement grew as one of her favorite True Heroes appeared before her.
+
+"It's Voxx. The True Hero of the Sands."
+
+Kae whispered with a sharp grin. Voxx's blade cut through the bird like butter. The True Hero made the bird look like a rag doll to be beaten around and abused for his amusement.
+
+[Shadow Blade]
+
+Voxx cut through the horde of vultures and sand worms attempting to intervene. Perry was nearly defeated; only a few more hits would be all that it would take. So, the fox took this chance to aim at him.
+
+"Don't even think about trying to kill Perry, Foxian!"
+
+Voxx shouted towards Kae, who was mid-charge in her spell.
+
+"It's useless, Perry is immortal! Keep running north, the Thieves' Guild is close! Start running and don't stop, you three!"
+
+Palona saluted the Night Stalker, Voxx.
+
+"Right, everyone, you heard him! Let's move!"
+
+The Knight ordered. Kae laughed to herself and gave him a salute too before turning tail and running behind her teammates. The trio made ground, far away from the battle between the True Hero, Voxx, and the corrupt Fallen Angel. Taking note that they were far enough away, Voxx sighed deeply.
+
+"More people to take care of. What a hassle to deal with..."
+
+The Night Stalker glared at Fallen Angel. Suddenly, its feathers hummed as electricity gathered around both of them.
+
+"It doesn't matter how many times I kill you..."
+
+Lightning roared from the heavens, striking Perry and restoring its wounds. It was as if Rexia herself were gifting the cursed bird with new life. Voxx tapped his blade and shifted his iron boots in the sand.
+
+"You just keep coming back stronger than before."
+
+Perry
+
+HP: 45240/45240
+
+"Cheating fowl. You're so annoying…"
+
+Voxx spat, flipped the fowl the "bird" and vanished in the purple winds with his [Hidden] ability. He successfully escaped the immortal bird and appeared in front of Kae's group in an instant.
+
+"Ah?!"
+
+Kae let out a squeal, but Voxx ignored her surprise.
+
+"We're almost there! There's a hidden passageway in the dunes nearby. Stay close, you three!"
+
+Voxx ordered. He moved so quickly that it was hard to keep an eye on him. The roar of vultures and monsters terrorized them as all the chaos closed in. Only by the skin of their teeth did they reach the dunes and the secret passage to the Thieves' Guild. It was a small hole, just enough for one of them to fit inside, one at a time.
+
+"In here, the rune barrier will keep them at bay!"
+
+One by one, they climbed down into the underground passage and disappeared from the monster's sight. A wave of holy mana, resonating from the runes, stopped the monsters from getting closer to the small entrance.
+
+Perry flew over their escape route, screeching as its tongue flapped around in its mouth.
+
+"Perry, leave them."
+
+A cold, disembodied voice from the heavens called out to the Fallen Angel. After a few more times circling the hole, the cursed fowl did as it was ordered and flew away.

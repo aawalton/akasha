@@ -1,0 +1,47 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const reincarnatedAsACastleLitrpgKingdomBuilding = {
+  id: "01a164f2-d205-7c7e-9536-60bb16ab385a",
+  type: "page-type/story-read",
+  slug: "reincarnated-as-a-castle-litrpg-kingdom-building",
+  author: "Bluebery",
+  following: false,
+  unit: "unit/words",
+  title: "Reincarnated as a Castle! (LitRPG, Kingdom Building, Progression)",
+  world: "world/reincarnated-as-a-castle-litrpg-kingdom-building",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "159132",
+      externalLink:
+        "https://www.royalroad.com/fiction/159132/reincarnated-as-a-castle-litrpg-kingdom-building",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Anti-Hero Lead",
+    "Kingdom Building",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Crafting",
+    "Dungeon Core",
+    "GameLit",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "Monster Evolution",
+    "Non-Human Lead",
+    "Non-Humanoid Lead",
+    "Reincarnation",
+    "Slice of Life",
+  ],
+  publicationStatus: "hiatus",
+  readLater: true,
+  createdAt: "2026-10-22T18:49:57.509Z",
+  updatedAt: "2026-10-22T18:49:57.509Z",
+} as const satisfies StoryRead

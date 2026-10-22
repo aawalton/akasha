@@ -1,0 +1,401 @@
+Level 27
+
+Kae Loredom
+
+Foxian Trainee
+
+HP: 1799/1799
+
+MP: 899/899
+
+STR: 38
+
+INT: 74 +(30)
+
+DEX: 45
+
+VIT: 37
+
+AGI: 41
+
+LUK: 8
+
+NEXT LEVEL 86/41328
+
+Weapon – Wedding Staff +12 INT, +20 DEX [Undead Infestation Core][Undead Mage Core][][]
+
+Helmet – Wooden Helmet VIT+4 [x3 Dark Beetle Core][]
+
+12,704,150G
+
+Level 56
+
+Palona Vertra
+
+Elf Seeker
+
+Knight
+
+HP: 4328/5728
+
+MP: 1210/1210
+
+STR: 106
+
+INT: 95
+
+DEX: 70
+
+VIT: 35
+
+AGI: 30
+
+LUK: 17
+
+Perry
+
+HP: 45240/45240
+
+MP: 13312/13312
+
+[STR],[INT],[AGI],[DEX]+++, [Enlightened]
+
+The intense wave of electricity resonated from the Fallen Angel. Encircled by a small mountain of stalagmites, Kae and Palona readied for the birds' first strike.
+
+[Mediation],[Preservation]
+
+Kae Loredom
+
+HP: 2356/2356
+
+MP: 899/899
+
+INT: 74 + (30)
+
+VIT: 37 + (30)
+
+Perry screeched as he flew above the duo. A wave of electricity flowed from the bird as he flew overhead, releasing a spell from above.
+
+[Electricity Feather Wave]
+
+Feathers rained down like light bombs, exploding around them. Kae and Palona did their best to avoid the AOE, but it was strong, dealing -500~700HP with each bomb.
+
+"Tsk, this is a new and powerful spell."
+
+Kae shouted as she took off to one side. Palona did the same as she dragged her great sword behind her, flanking Perry. The metal of her blade sparked against the crude rock terrain under them. Perry was high in the sky, out of the Knights' range.
+
+[Flame Beam]
+
+Kae fired away, shooting at the fowl in the sky. With every direct hit, she was dealing -2000~3000HP. The bird opened its massive mouth, and a spark of lightning gathered on its tongue.
+
+[Lightning Beam]
+
+"Kae, watch out!"
+
+Palona stepped in front, deflecting the beam with her sword. The ray of lightning reflected, fired to the side, and destroyed one of the stalagmite walls. The damage revealed an opening to the purple desert.
+
+"Thanks, I owe you one, Palona."
+
+Kae grinned. Perry was relentless, though, firing off more of the same spell from the sky. They were getting overwhelmed between the [Lighting Beam] and [Electricity Feather Wave] raining down on them.
+
+So, the duo moved back to regroup.
+
+"Huh?"
+
+From the heavens, a roar of purple lightning descended from above. In a strange twist, the powerful mana struck the bird, shocking it as it flew in the sky.
+
+Perry
+
+HP: 45240/45240
+
+MP: 13312/13312
+
+[STR],[INT],[AGI],[DEX]+++, [Enlightened]
+
+"Did Perry just recover in full?!"
+
+Palona said, gritting her teeth.
+
+The tornadoes around them were making it hard to see the bird in the sky, too. But clearly, Perry had no problem sending powerful mana down upon them.
+
+"Okay, this isn't going well, Palona. Maybe it's time we retreat and formulate a plan?"
+
+The Foxian suggested that just as the sound of constant cawing from the distance made her stomach drop. Palona knew what this was as well, and it only added to the feeling of "It's time to escape."
+
+"We have to run!"
+
+Palona shouted. The world shook violently as another massive lightning spell rained down on them. They avoided the spell, but the sand exploded as it turned to crystallized stone around them.
+
+Vultures surrounded Perry, a staple of the Fallen Angels. But the amount was staggering, as the world above them looked like a collection of clouds coming alive. Taking this chance, Palona and Kae ran out of the exit they created earlier. The Knight was ahead as she took off toward the desert village, and Kae was close behind her. But Perry swooped in front of them and screeched.
+
+"Nnng!"
+
+They both grimaced as they held their ears, only for dark tornadoes to dance around them, blocking them in. The Foxian wasn't planning to die by some large-tongued cartoonish bird. That would be a sad way to end her journey...
+
+"This is getting out of hand, fast! We need a new strategy, or else we're both dead!"
+
+Palona shouted. Kae agreed; it wasn't time to falter. She had to come up with a plan and quickly.
+
+"Follow my lead, Palona!"
+
+[Fox Litter]
+
+Kae tossed out her five fox troops, provoking Perry and his collection of vultures for a few seconds. The Foxian directed their action.
+
+"I'll draw his attention, Palona. Hit the vultures with AOE spells and keep them off us for now!"
+
+"That's suicide! You want us to fight back?!"
+
+Palona yelled back.
+
+"Trust me! Just do what I say! Focus on the vultures, I'll handle Perry!"
+
+Kae turned back to the bird. It's wacky tongue swinging out of its mouth as it aimed at the fox.
+
+"I know just how to survive this, but we have to be fast!"
+
+The eagerness in Kae's words wasn't that of recklessness, but confidence. And Palona could sense that.
+
+"Just don't get hit, Palona!"
+
+Kae shot back before rushing in.
+
+"This fox is crazy! This fox is crazy!"
+
+Palona muttered before charging her spells. Using her [Blizzard] spell, the Knight easily wiped the waves of vultures. Kae weaved through the tornadoes, blasting Perry with [Flame Beam], dealing -2000~3000HP per hit. She had to be just as relentless as the FA if this was going to work, though. Otherwise, Perry would recover, and all this effort would be wasted.
+
+Perry
+
+HP: 41231/45240
+
+[STR],[INT],[AGI],[DEX]+++, [Enlightened]
+
+"I'm almost there!"
+
+The Fox avoided Perry's massive lightning spell. With Palona in the back, destroying the vultures, this fight was becoming manageable. But even so, Kae was straying further from Palona. She wouldn't be able to protect herself if something went wrong from that distance.
+
+"Kae! It's too dangerous! Get back here!"
+
+"Don't worry, just one more hit!"
+
+The massive bird dived at Kae, but she shot him in the face with a burning beam of fire, dealing -2103. The bird screeched and suddenly vanished from the naked eye.
+
+[Hidden]
+
+Perry executed a spell, hiding himself from the chaotic world. Kae's eyes lit up as she spun around, ran to Palona, and grabbed her hand.
+
+"We need to go right now! Don't kill anything else!"
+
+"W-What's going on, Kae?!"
+
+"Like other Fallen Angels, Perry had a threshold before they changed their tactic."
+
+The fox sped up as she rushed toward the town.
+
+"After he loses 10% of max HP, Perry hides himself."
+
+Kae recalled from her previous fights with Perry that when he loses 10% of HP, he would hide and lie in wait for the player to attack him. So, it was the perfect time to run while he idled, waiting for the player to search him out.
+
+"Perry will eventually come back to attack us, but a minute of reprieve is better than being attacked and killed!"
+
+As the elf was dragged along, a slight smirk washed over her face.
+
+"You really are different... How simple yet... effective."
+
+She muttered before pulling ahead.
+
+"Whoa! I can't keep up, Palona!"
+
+Kae complained as the elf pulled her along. The village was in sight, but the dark clouds of vultures and tornadoes descended upon them yet again. The screeches of the massive bird rumble in the desert sands like a tremor.
+
+"Tsk, if only that threshold were longer!"
+
+Palona cursed. As they neared the cacti marking the desert's edge and village beginning, a shadow fell from the sky. Perry screeched, attempting to slam his body into the duo.
+
+"Stay back!"
+
+A dark figure emerged from the cloudy sands. He had dark short hair that swayed in the wind. With a large hammer flying through the darkened world, he slammed it into the tongue and teeth of the fowl, knocking Perry back with a -4701HP. The duo turned back, looking to see their savior standing before the Fallen Angel.
+
+"Go on, I'll handle Perry!"
+
+He shouted back. That voice was unmistakable, along with his player name for confirmation.
+
+"Dareth Darkmere?! Is that you?!"
+
+Kae called out. She could see his name in the desert, confirming her suspicion.
+
+Level 50
+
+Dareth Darkmere
+
+Human Seeker
+
+Trade Baron
+
+HP: 6592/6592
+
+MP: 508/508
+
+STR: 76
+
+INT: 20
+
+DEX: 20
+
+VIT: 30
+
+AGI:19
+
+LUK: 33
+
+But Dareth didn't stop to answer her, chasing after Perry instead, battling it out with the cursed bird and its vultures. He had the HP to tank the attacks as they battled it out in the desert.
+
+"What is Dareth doing out here?"
+
+"It doesn't matter, Kae. We need to go! If Dareth dies, he'll respawn. The same can't be said for us, though!"
+
+The elf pulled Kae, and she fell into step with her. The two turned and rushed toward the village. As they got closer, Kae and Palona could see a magic barrier, along with runes, like those in the Fiador Hallow, stationed at the front. In all the chaos outside, the Desert Village of Chalaco was still intact, thankfully.
+
+"We're almost there! Keep running!"
+
+Palona ordered. As they passed through the barrier, Kae and Palona rolled into the next town. There, they took a moment to catch their breath, realizing just how close they had come to death in the desert. Palona wasn't sure if she could die, but Kae wasn't about to leave that chance to fate either.
+
+"What the heck was that? W-Why was Perry so much stronger?"
+
+With the chance to breathe, Palona asked the veteran of the world.
+
+"No idea. But was that really Dareth who just helped us out? Dareth Darkmere helped me out?"
+
+Kae asked, unsure of his motives. The Fox was suspicious, rightfully so. After making him fall on his own sword, it was more than likely that he was stalking them to try to player-kill them or something nefarious.
+
+"Seems like it..."
+
+Palona put a finger to her chin.
+
+"Thankfully, I don't think we would've survived that if it were just us running away."
+
+She leaned her body up against a wall, looking out into the darkened desert. There in the darkness, the figure of that merchant came into view. The two waited for him to make it through the village's barrier.
+
+Dareth walked into town, a safe zone for everyone. Even the Fallen Angels weren't able to get through the barrier runes. At least the runes were still strong enough to keep the Fallen Angels at bay.
+
+With his massive hammer behind his back, he approached them.
+
+"We never would've survived without you stepping in. Thank you for saving us, but... why are you here, Dareth?"
+
+Dareth scratched the back of his head, then lifted his eyes to meet their gazes.
+
+"I was bored and saw you two heading toward the desert. I actually planned to grief you, but then… this weird desert storm happened."
+
+Dareth said, nonchalantly.
+
+"I believe the grieving part…"
+
+The Foxian held her tail, soothing her mind. Kae had a feeling Dareth wasn't telling the full story, though. By this point, Kae had established what kind of person Dareth was. Someone who didn't enjoy the game but still logged in and occasionally participated by hurting others.
+
+"Again, I want to say thank you for saving us, Dareth. But if you plan to hurt Palona and me, just leave."
+
+Kae was stern as she glared at him, still petting her tail in a soothing, calming motion. The merchant put a finger in his ear as his eyes lowered.
+
+"Don't worry, something interesting is happening."
+
+He paused, looking back at the storm.
+
+"And I'm more interested in seeing more of this than player-killing you two."
+
+They all looked around their surroundings. The entire desert was a deep, cold purple, unlike how it normally was. Dareth was right; whatever was going on here, the emptiness of Chalaco suggested this strange event might have been ongoing for some time. Kae approached the merchant and squared up to him.
+
+"Hey, Dareth, do you want to join Palona and me for the time being? We were going to do the Thieves' Guild Quest when all this craziness happened."
+
+Kae explained as she looked out into the vast desert, then back to the merchant.
+
+"I won't lie, we could use a hand, and since you're already here, might as well, right?"
+
+The fox's tail wagged. And Dareth's eyes followed it.
+
+"I mean, it could be fun. And... you're looking to have some fun, right?"
+
+Dareth wouldn't show it, but that word, "fun," actually drew him into the Foxian's request. But something told him that Kae was using that to her advantage... the crafty fox. He shrugged, glancing at Palona.
+
+"I've got nothing better to do. Thief class isn't really my thing, but I guess there are some special items I can get."
+
+He turned back to the village.
+
+"I don't know what's going on with this map, but since I entered, I haven't been able to message anyone in DMs either."
+
+Dareth said.
+
+"That is odd."
+
+Palona mumbled. The merchant brought up his window, showing them. Palona tried the same, and so did Kae. Whatever was happening, it was outside of the game's control.
+
+"I guess this is a mystery we have to solve."
+
+Kae chuckled, thinking about it. Dareth looked at Kae, a hint of curiosity in his eyes.
+
+"I've been wondering about you. Are you a new player who got lucky, or an old player on a new account?"
+
+"Old player."
+
+Kae said firmly.
+
+"Veteran, on a new account. I'm not planning to die anytime soon. If you're trying to grief us, you can leave."
+
+If either of them died, they'd vanish from this world. It was simple for the fox. And Kae had promised Palona they'd confront Rexia. That promise had to be kept.
+
+"If you don't mind, join our party. Just for the time being. Could be fun. It looks like something unique is happening."
+
+Dareth hesitated, then gave a small nod.
+
+"[Rexia Killers]?"
+
+The merchant questioned.
+
+"Don't ask, Dareth. Kae will just give you some crazy reason. For now, just... accept the party."
+
+The defeated elf begged with a deep, tired sigh. He had questions, she was sure, but now wasn't the time. Dareth joined the party, and the now trio made their way into the village of Chalaco. They needed to understand the desert and the strange forces at play.
+
+The desert village mirrored the old Arabian origins of their world. The beautiful buildings of pale white stone were damaged, though. The homes and shops were in ruins, as if a war had torn through the rich city, leaving it desolate.
+
+The dark storm brewing in the distance made it clear that Chalaco has been in a war for quite a while...
+
+Kae checked her friend's menu. Nothing worked; no messages could get through. Same for Dareth and Palona. As far as they knew, they were trapped in the desert village of Chalaco until they solved what was going on here.
+
+"Look at the NPCs gathered over there."
+
+Dareth pointed to the crowd, gathering nearby.
+
+"I've never seen them act like this."
+
+Kae turned back to the group of people gathered around the capital building. The town square was destroyed, and a crowd of wounded men, women, and children all gathered around, pleading to the guards in front.
+
+"Then let's go find out what's going on.
+
+Without waiting, the Foxian walked toward the crowd. Her tail was swinging back and forth.
+
+"I can't believe she's enjoying this. Did my sister let a psychopath in this world by accident?"
+
+Palona mumbled.
+
+"Your sister?"
+
+Dareth questioned.
+
+"Never mind. I'll explain another time."
+
+He looked at Dareth.
+
+"For the time being, what happened between me and you, or Kae for that matter, is put aside."
+
+Firmly, the Knight said.
+
+"Listen, I won't do anything. This sudden storm is way more interesting than trying to kill that nutjob."
+
+He pointed at the Foxian, trying to see over the crowd of onlookers.
+
+"That nutjob is the reason why I'm alive... Don't think you can kill her that easily."
+
+She chuckled before joining the fox in her endeavors.
+
+"Huh… well, at least this will be interesting."
+
+Despite sounding stoic and slightly annoyed, Dareth rushed over as well, eager to see what was going on in this closed-off world.

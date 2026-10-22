@@ -1,0 +1,655 @@
+Level 31
+
+Kae Loredom
+
+Foxian Trainee
+
+HP: 2143/2143
+
+MP: 820/820
+
+STR: 41
+
+INT: 85
+
+DEX: 50
+
+VIT: 42
+
+AGI: 47
+
+LUK: 10
+
+NEXT LEVEL 6109/49999
+
+Weapon – Wedding Staff +12 INT, +20 DEX [Undead Infestation Core][Undead Mage Core][][]
+
+Helmet – Wooden Helmet VIT+4 [x3 Dark Beetle Core][] (Thunder RES)
+
+12,677,340G
+
+Level 60
+
+Palona Vertra
+
+Elf Seeker
+
+Knight
+
+HP: 6142/6142
+
+MP: 1388/1388
+
+STR: 114
+
+INT: 100
+
+DEX: 72
+
+VIT: 41
+
+AGI: 32
+
+LUK: 19
+
+Level 54
+
+Dareth Darkmere
+
+Human Seeker
+
+Trade Baron
+
+HP: 17333/17333
+
+MP: 118/118
+
+STR: 3
+
+INT: 1
+
+DEX: 2
+
+VIT: 131
+
+AGI: 3
+
+LUK: 3
+
+The remaining nineteen entered Raha's grand chambers. It was a wide space with the backdrop of the purple desert. A one way mirror to see the world outside. But the ones outside would only see the onyx pyramid. At the far edge of the sanctuary, on a throne carved from obsidian and bone, sat Raha.
+
+He was enormous in size, that of a giant tenfold. The top half of him was a black hound with sharp red eyes. He was so tall, his head almost touched the ceiling space. His bottom half was that of a man, with onyx-black skin and black iron boots. The Anubis sat there like a statue, simply gazing and looking at the floor where the ants, those who dared to challenge him, walked up to confront him.
+
+"How dare you come and defile this place, Assassin's of Rexia."
+
+Raha's voice boomed like an earthquake across the closed-in chamber. Just as Kae expected, Raha was also [Enlightened] like the former Fallen Angel, Perry. But it still begged the question, how did he receive this blessing in the first place?
+
+"We see that you're [Enlightened] with that same blessing as that bird. So, we were right, you are the one controlling Perry from your throne, Raha."
+
+Voxx accused as he walked up to the front of the group, confronting his old foe. But like a statue, Raha didn't move. Though unlike one, he was alive despite being unable to leave his throne.
+
+"Ah, Voxx. How long has it been since I last trapped you in here? It was fate that we met again."
+
+"Tsk, you missed me more than I missed you, it seems, Raha. Tell us, what is this [Enlightened] blessing! How did you obtain this power?"
+
+The ancient hound laughed, shaking the bones of everyone inside. Raha's eyes glowed like coals in an ash heap. The group could tell that Raha had no plans to speak of his new blessings and gift.
+
+"Your kind desecrated this land. I'll reclaim it. I will take our power back into the darkness where it belonged before Rexia stole it. Let your blows come, Assassins. My sanctuary will swallow you in this chamber!"
+
+The sound of chains rippling on the walls echoed as Raha locked them in with powerful dark mana spell. A mighty clear wall formed between them and the Fallen Angel. This was the start of the fight, there was no turning back now.
+
+"This is it, everyone! Kae Loredom, the Foxian, is our commander! Listen to her! Is everyone ready?!"
+
+Voxx raised his arm with his blade on it, roaring to his army.
+
+"Right!"
+
+Everyone cheered back. Creatures of living shadows appeared around them. From the dark magic smoke, a floating specter with a large skull head and a black long cloak appeared before them. The beast held a massive sword in one hand with chains dangling from the ends. The creature didn't have a bottom half, floating like a spirit dammed to this hellscape. The second one that appeared was a hound like Raha. He wore a black cloak and held a large silver wand.
+
+Skull of the Ancient Desert
+
+HP: 219653/219653
+
+MP: 10/10
+
+[STR],[INT],[AGI],[DEX]+++
+
+Fallen Wizard from the Sands
+
+HP: 150653/150653
+
+MP: 2510/2510
+
+[STR],[INT],[AGI],[DEX]+++
+
+[10/10 monsters remaining]
+
+[10:00]
+
+Kae took a breath and barked the orders.
+
+"All Assassins, focus on the Wizard! He's the only true threat to Dareth! Dareth, hold down the skull beast, he's all physical! Voxx, be prepared to [Assassinate] when ready!"
+
+The Night Stalker stayed in the back, waiting for his chance. The rest of his guild rushed into battle, clashing with the caster. The enemy was quick, though, warping around the battle arena in an attempt to finish his spells and strike from afar.
+
+"Come here, big guy! You're mine!"
+
+Dareth charged the floating skull beast with the wide blade. They clashed with weapons in the hot chambers. The merchants damage was pointless, but he soaked up hits like the perfect meat shield, spamming items to stay alive. With every sword strike, the skull was dealing -2000~4000HP damage to Dareth, not enough to kill him, but a critical wouldn't be good. Kae and Palona were focusing their magic on the skull as well to lower its resistance.
+
+[Ice Icicle]
+
+[Flame Beam]
+
+They were doing flea damage, around -200~400HP, but that didn't matter.
+
+"Don't worry about the damage, Palona, we're weakening his elemental resistance."
+
+"Right, Kae."
+
+A spell shot off from the corner of the room, aiming towards Dareth.
+
+"Huh?!"
+
+[Judgment Beam]
+
+Dareth was hit for -45212HP, killing him instantly.
+
+"Dareth!"
+
+Kae called out as the skull beast turned to her and Palona.
+
+"Sorry, the caster escaped! It's almost dead though!"
+
+Gaia called out. But Kae and Palona couldn't focus on that. They had bigger problems with the overpowered beast rushing their way.
+
+"Palona, dodge to the right! I'll get Dareth!"
+
+From the back, Voxx watched anxiously. The words of the Foxian came back to mind when they were plotting in the round table room...
+
+"If Dareth falls, don't jump in to save him, Voxx. That's my job. Because if you die... we all die."
+
+He closed his eyes, hearing the battle around him as his heart pumped against his chest.
+
+"I don't know where this confidence comes from. That Foxian... acts as if she's seen this world in countless ways. But... from her explanation, she knows Raha's chambers better than me."
+
+Instead of intervening, Voxx watched the Knight and Foxian face off against the skull beast. Kae shot off a [Flame Beam], making the skull beast focus on her. The giant roared as it raced after the fox.
+
+"Palona, keep shooting ice his way! And when I say so, enchant Voxx!"
+
+Kae called out as she dodged the blade aimed at the ground next to her. It was a spell she was well aware of. So, she jumped to the right at the perfect time. [Earth Blade] stalagmites rumbled from the world below in a circular arc attempting to finish Kae off.
+
+But this was the spell she hoped for. This would stop the skull beast for a few seconds, giving her the perfect window to rush to Dareth.
+
+"Dareth, take this!"
+
+Kae tossed a [Keo Leaf], reviving Dareth to 1HP just as the beast appeared behind her.
+
+"No, you don't!"
+
+Already at max from slamming potions, Dareth fended off the beast from his Foxian teammate.
+
+"Get back, Kae. I got it from here!"
+
+The merchant pushed his foe away and charged back into the fight. Kae rushed back to Palona, turned around, and pointed at the beast.
+
+"Palona, buff Voxx with [Ice Enchant]. Skull of the Ancient Desert's resistance should be low enough!"
+
+The Knight did just that. The enemies elemental resistance was a hidden stat, so Kae had to assess when the right time to strike was. As soon as the ice blessing hit Voxx's blade, he opened his eyes. The coldness touching his blade burned the passion in his fighting spirit.
+
+"It's my time..."
+
+He whispered. [Assassinate] executed, and the True Hero appeared behind the floating skull, still focused on the merchant. The effect [Death] silenced the beast, and it screeched, going back to hell from which it came.
+
+[Death]
+
+Skull of the Ancient Desert
+
+HP: 0/219653
+
+MP: 10/10
+
+[STR],[INT],[AGI],[DEX]+++
+
+"Wow! It worked! Hahaha!"
+
+Dareth shouted in victory. Even Palona, the normally stoic Knight, had a slight smile on her lips. But Kae was still focused... it was too early to celebrate. In the same instance, the Assassins finished off the Fallen Wizard from the Sands.
+
+"Caster is down!"
+
+Gaia called out as the rest of the guild cheered.
+
+"Good work! Let's try to keep this up, everyone!"
+
+The True Hero ordered. The group all came back together and faced the Elite Fallen Angel hiding behind his invisible wall. Kae was getting frustrated; this was one thing about this battle that made it all the more... annoying.
+
+"Where's the next set of enemies, Kae?"
+
+Dareth asked, restlessly.
+
+"Raha sometimes has a long lag time before he summons more enemies..."
+
+Yet another annoying part to this gimmick boss. Players would have to watch their precious time be wasted as Raha waddled his thumbs before summoning more waves. There were times when Kae would be screaming at the computer screen because Raha would freeze for a solid 10 seconds or longer... Yet the devs refused to stop the timer. Back then, Kae was the keyboard warrior fighting for change. But it never happened...
+
+"Does that mean we can lose if he just... takes too long?"
+
+Dareth scratched his cheek, a tad annoyed.
+
+"Yeah, It's happened to me before. But don't focus too much on the time it takes. It will stress you out, Dareth."
+
+[8/10 monsters remaining]
+
+[8:22]
+
+God Skeleton x3
+
+HP: 329153/329153
+
+MP: 1066/1066
+
+[STR],[INT],[AGI],[DEX]+++
+
+Cerberus
+
+HP: 431515/431515
+
+MP: 510/510
+
+[STR],[INT],[AGI],[DEX]+++
+
+Raha raised his staff, summoning more. A cloud of dark smoke penetrated the hot chamber as three massive golden skeletons holding great swords charged at Dareth.
+
+"Eh?! They're strong! I'm taking a lot of damage!"
+
+With every swing, they dealt a whopping -3000~4000HP damage. Butchers that would cut through meat shields with ease.
+
+Dareth Darkmere
+
+HP: 1592/17333
+
+Dareth slammed potions, but they were powerhouses in comparison to the last monster.
+
+"Hang in there, Dareth!"
+
+Gaia, the Assassin, called out, taking charge and battling it out with them from behind. Taking this chance, they all ganged up on one. The Cerberus focused on Palona and Kae.
+
+"All Assassins, focus on the God Skeletons with Dareth! Leave the Cerberus to me, Palona, and Voxx!"
+
+The massive three headed dog rushed at the Foxian, appearing from a void above the tailed veteran. It's three heads aimed right at her in a quick finisher.
+
+"Stop, right there!"
+
+Palona guarded against the heads though, forcing them away from the fox. But she took massive damage of -5351HP in the process.
+
+Palona Vertra
+
+HP: 791/6142
+
+Voxx appeared in front of both of them, slicing the beast away from the duo. Palona restored her health but that was too close for comfort.
+
+"Get it together, you two! What's its weakness, Loredom!"
+
+[Flame Beam] shot from behind Voxx, hitting the Cerberus and giving him the answer he wanted, fire.
+
+"Palona, enchant as many Assassins as you can with ice for now. That will help them out. When I call you, bless Voxx the [Fire Enchant], alright?!"
+
+"Alright, stay safe, Loredom!"
+
+The Knight raced off, as Kae and Voxx faced the Cerberus together. The beast circled the two, ready to strike and take them down.
+
+"Tsk, we could use more assassins helping us at this point, Loredom. That's what I suggested earlier."
+
+The beast attacked, and Kae grabbed Voxx, pulling him toward her to avoid a double-strike attack from it's claws. The dog spun around and growled at them as it approached.
+
+"No, they need to focus on the God Skeletons. Those three can easily finish our run if they use their triple ability. Believe me, we have it easy, Voxx."
+
+She explained as she lowered the beast's fire resistance with every spell. Voxx was there to help spread the aggro between them. They both had to be quick on their feet, though, with how fast their enemy was. On the other corner of the blazing hot chamber, Palona, Dareth, and the other Assassins were battling it out with said skeleton trio.
+
+"These God Skeletons have thick bones!"
+
+Gaia complained as she faced off with two of them. Suddenly, a cold blessing came across the blade on her arm.
+
+[Ice Enchant]
+
+The enchantment rapidly spread amongst the thieves thanks to Palona quick efforts. As Dareth kept them at bay, their blades were doing more damage thanks to the elemental exploit. Around -4000~8000HP per hit, cutting away at the God Skeletons defenses.
+
+God Skeleton
+
+HP: 120153/329153
+
+MP: 1066/1066
+
+[STR],[INT],[AGI],[DEX]+++
+
+Kae noticed one skeleton was far weaker than the rest. It was only a matter of time before they would use their trio spell though...
+
+"Assassins! Focus on the weakest God Skeleton! Don't spread your DPS too much!"
+
+The veteran ordered as she rolled out of the Ceberus's strike.
+
+"Right! Everyone, attack the left-most skeleton as Loredom ordered!"
+
+As they were doing just that, the group of three skeletons stopped their attacks and started walking into the center of the room. They ignored the group trying to attack them and rigidly made a triangle in the middle of the chambers.
+
+God Skeleton
+
+HP: 100123/329153
+
+MP: 1066/1066
+
+[STR],[INT],[AGI],[DEX]+++
+
+"They're cutting it too close! The spells are about to activate!"
+
+Kae assumed they had the DPS to finish this part relatively fast. But with the extra status boost, she miscalculated how taxing it would be. Still facing off against the Cerberus with Voxx, Kae felt her heart about to drop. They had less than thirty seconds to kill one of the skeletons, or everyone would die...
+
+And that would be journey's end....
+
+"Loredom! Stay focused! Give us orders!"
+
+The True Hero woke her up from her sudden spiral.
+
+"Right!"
+
+Voxx was right, it wasn't time for her to falter and she knew it. So, her brain went into overdrive like the true veteran she was.
+
+"Change of plans, we're going for broke! Palona, enchant Voxx with ice! Dareth, come to my side and tank the Cerberus!"
+
+In an instant, the switch was made as the God Skeletons raised their swords in the air, channeling a massive wave of dark mana. The air grew stiff, hard to breathe, as the boss monsters channeled their team attack.
+
+[Ice Enchant]
+
+"Voxx, aim for the strongest God Skeleton with [Assassinate]!"
+
+The chances of activation were already low. But if they all shared the same activation resistance level, Kae figured they might as well go for the strongest one to make their lives easier... if they live.
+
+"Right!"
+
+The True Hero acknowledged.
+
+Dareth rushed over and took the damage from the Cerberus, aiming at Kae's way. The Foxian continued her fire resistance lowering on the three headed dog while praying that everything would work out in the center of the room. The air was thick and murky, as the effects of the three God Skeletons' spells were rising. It was only a matter of time until they slammed their blades into the ground and kill everyone alive.
+
+[Assassinate]
+
+[No effect]
+
+God Skeleton
+
+HP: 314922/329153
+
+MP: 1066/1066
+
+[STR],[INT],[AGI],[DEX]+++
+
+"Tsk, it didn't work!"
+
+Palona screamed towards Kae. But before the fox veteran could give another order, Voxx tried it again, a last-ditch effort to save his guild from certain death.
+
+[Assassinate]
+
+[Death]
+
+God Skeleton
+
+HP: 0/329153
+
+MP: 1066/1066
+
+[STR],[INT],[AGI],[DEX]+++
+
+The chambers lit up again as the murky mana spell died in an instant. What was left were two God Skeletons, unable to finish their spell.
+
+"Got him!"
+
+Voxx disappeared, reappearing at the Foxian's side. With a sigh of relief, Kae held her chest. It might have been dumb luck or because Voxx was a True Hero. Either way, that wouldn't have worked without an insane amount of LUK stat.
+
+"Orders, Fox?"
+
+The True Hero prompted her. It was good for Kae to have someone to keep her on track in such a tense battle.
+
+"Right! Palona, we need [Fire Enchant] on Voxx! Dareth, back to the remaining God Skeletons to tank! Assassins make quick work of the last two!"
+
+Dareth pushed the Cerberus off of him and laughed like a madman.
+
+"Sure, sure! Let's keep going! This is so great!"
+
+The merchant ran back, restored himself to max, and made his way with the group of Assassins, finishing up the remaining golden skeletons.
+
+[Fire Enchant]
+
+Voxx felt the heat of his blade as he raced at the Cerberus...
+
+[Assassinate]
+
+[Death]
+
+Cerberus
+
+HP: 0/431515
+
+MP: 510/510
+
+[STR],[INT],[AGI],[DEX]+++
+
+The beast vanished before their eyes, and soon after, the Assassins destroyed the remaining skeletons. With the heat dying down just a bit, the True Hero closed his eyes for a brief moment to calm his own racing mind.
+
+"The Foxian and Elf are pretty good, despite them being the weakest here. It goes to show you, strategy wins out in cases like these."
+
+Voxx noted as he focused up.
+
+[4/10 monsters remaining]
+
+[4:13]
+
+"Oh, come on, Raha! Send them out already!"
+
+Dareth was screaming at the Anubis of Death just like Kae had in the past. The merchant was pacing back and forth, shouting all kinds of obscenities the Fallen Angel's way. Despite them running low on time, Kae couldn't help but chuckle...
+
+"We have two more waves. Stay focused, everyone, we are almost there!"
+
+Kae ordered, and the group chanted back with acknowledgments, standing at the ready for the next set of monsters. The chambers swirled as Raha lifted his staff high. Dark tornadoes spun in front of the raid team as three monsters appeared from them.
+
+A mummy with dark mana flowing from its body as it approached. A set of broken knight armor that floated with no body inside, and lastly, a dog man with a great sword. He was large, towering over everyone other than Raha, the Fallen Angel himself.
+
+Royal Mummy
+
+HP: 114922/114922
+
+MP: 12066/12066
+
+[STR],[INT],[AGI],[DEX]+++
+
+Destroyed Armor
+
+HP: 395761/395761
+
+MP: 2036/2036
+
+[STR],[INT],[AGI],[DEX]+++
+
+Anubis Guardian
+
+HP: 514977/514977
+
+MP: 12066/12066
+
+[STR],[INT],[AGI],[DEX]+++
+
+Kae pointed at the Anubis Guardian.
+
+"Dareth, watch out for Anubis Guardian. You'll need to dodge a few attacks, but he's the one that you'll need to tank! He's mostly physical but avoid the magic sword strikes!"
+
+The Foxian ordered.
+
+"Right, Kae!"
+
+The merchant held his large hammer in preparation as the Anubis Guardian stomped their way, shaking the world with every step.
+
+"The rest, focus on the mummy and destroyed armor! Spread the team out! Dareth will be focused here, so be careful of attacks!"
+
+The veteran turned to Palona and Voxx last.
+
+"The Anubis Guardian is weak to ice. Palona, you will shine here. I'll do my best to direct the Assassins in their duo battle."
+
+"Right, don't worry. Dareth, Voxx, and I will deal with this massive beast!"
+
+The Elf Knight promised. With that, the Foxian rushed over to Gaia's side. When she made it over to the group of Assassins, Gaia waved to her as they formed around the fox to protect her.
+
+"Kae Loredom, don't die when you're with me. I don't want to look bad in front of Voxx."
+
+She teased.
+
+"I'll try not to. I wouldn't want Voxx to be disappointed in you. You're slowly becoming one of my new favorite characters."
+
+Kae admitted, hands on her hips and that signature cocky grin of hers. Before Gaia could say anything back, her group of Assassins rushed past them, battling it out with the mummy and destroyed armor. Kae turned to the battle ahead.
+
+"The armor has long-range attacks! The mummy is short-ranged. Split the group to fit your best abilities team! We have this! Let's take this wave out fast!"
+
+Kae rushed in and kited the foes as she threw out orders. Gaia was a bit bewildered, seeing a Foxian Trainee Novice act as if she were a True Hero. But instead of thinking too hard, she shook her head and listened to the orders as if they were from Voxx himself.
+
+"Right!"
+
+Gaia yelled as she confronted the mummy with her group.
+
+On the other side of the map, Palona was fiercely casting ice spells, dwindling the Anubis Guardian's ice resistance. But the beast used its own magic in return.
+
+[Severance Ice Blade]
+
+The massive dog raised its blade, full of ice mana. It slammed down on Dareth so fast, he wasn't able to react, dealing -42193 to him and knocking him down.
+
+"Dang! That was fast!"
+
+Dareth shouted. The Anubis giant turned to Palona, vanished from her view and appeared right in front of her.
+
+"Ah?!"
+
+She faltered as he raised his blade to her.
+
+"Palona!"
+
+Voxx appeared in front of her, grabbed her shoulder, and used [Hidden] to mask them both from the monster view. The beast paused for a moment before turning away and walking towards the split-off group of Assassins.
+
+"Thanks for saving me, Voxx-"
+
+"No time to thank me, you're in charge of getting Dareth back on his feet. Do it before he engages the other Assassins, Knight!"
+
+The Elf nodded, took hold of a [Keo Leaf], and raced over to revive her fallen comrade. The True Hero sighed and smirked softly.
+
+"Gosh, she really does remind me of Ashley, the True Hero, when she was a novice."
+
+He tapped his feet relentlessly as he watched the Anubis about to interrupt his guild members fight. But before it could, Dareth was back at it, keeping him at bay by swinging his hammer, provoking the beast. Palona was firing off ice from the back too. As Voxx watched the chaos, all he could do was occasionally glare at the Elite Fallen Angel behind the unbreakable barrier watching in silence.
+
+"You will die soon, Raha."
+
+He promised.
+
+"Voxx, it's time!"
+
+Palona ordered as the [Ice Enchant] touched his blade. She wasn't as skilled at seeing when the enemies resistance was low enough though. But Kae put her in charge of this part of the plan.
+
+"Right! Here I go."
+
+[Assassinate]
+
+[Death]
+
+Anubis Guardian
+
+HP: 0/514977
+
+MP: 12066/12066
+
+[STR],[INT],[AGI],[DEX]+++
+
+In the cold blades slash, the massive beast disappeared. Dareth was already rushing in to aid the remaining Assassins, tanking the mummy and making their battle way easier for them. Soon enough, they finished off the destroyed armor and mummy.
+
+[1/10 monsters remaining]
+
+[2:02]
+
+After a leisurely delay of 10 seconds, the final [Elite] beast appeared out of golden smoke. The Anubis was pure gold, the size of a enormous tree. The body of a man, he sat crossed legged on the ground of the arena. He held two staffs in both hands and crossed them as the dog glared at the raid team. With a howl, the final fight commenced.
+
+Golden Bark - Ancient Treasure of the Sands
+
+HP: 622653/622653
+
+MP: 12710/12710
+
+[STR],[INT],[AGI],[DEX]+++
+
+"This is the last stand, everyone! Golden Bark can't be [Assassinated], so this is a DPS check! Everyone go all in! He's weak to fire, so Palona, enchant as many Assassins as you can!"
+
+The Foxian smiled like a maniac with fangs. Her expression even worried the Elf Knight briefly. Excited, Kae pointed at the enormous statue before them.
+
+"This is my favorite part of this battle! No gimmicks, all DPS! No holds barred! Everyone, attack!!"
+
+Voxx got the fire enchantment first. The True Hero slashed his way into the fight, and his team behind him did the same. Like a pack of wolves, they fired attacks on the enormous golden statue in a pact. In return, the Golden Bark would attempt to strike back with powerful physical attacks but...
+
+"Nah! You don't get to fight back! Take your beatings, scum!"
+
+Dareth laughed as he soaked up all the hits with ease. The Golden Bark did the most damage out of all the bosses, around -9000~10000HP per hit. But his attacks were so slow that it was meaningless compared to the others. Even Kae was getting into the fray, firing off her [Flame Beam] from the back. The chambers lit up with fierce skills and spells from the Assassins as the poor statue cried in pain.
+
+"Hurry up, we have to kill it fast! We're running low on time!"
+
+Palona shouted as she continued her enchantments on the group.
+
+[0:59]
+
+Golden Bark - Ancient Treasure of the Sands
+
+HP: 312613/622653
+
+MP: 12710/12710
+
+[STR],[INT],[AGI],[DEX]+++
+
+At less than one minute, Raha raised his staff to the sky, and a swirl of dark mana appeared above them. Purple sand, like the sands in the cursed desert appeared at their feet. The entire chamber was changing to that of a sand trap.
+
+"You Assassins have ruined the land that was sacred to our Demon Lord. Beelzebub and the other Elite Fallen Angels will dance on your graves when you perish today!"
+
+The heat of the chamber was rising as the dark mana above was getting closer, preparing to kill everyone below.
+
+"Don't listen to that wounded dog! We have this everyone, keep fighting! Think about your friends and family that this Fallen Angel hurt! We have to win!"
+
+Voxx pressed the group, and they responded by quickening their attacks.
+
+"Fight! Fight!"
+
+The Thieves' Guild chanted and fell in unison as they slashed away at the shining golden wall.
+
+[0:45]
+
+The abilities they displayed were far outside the normal range for Assassins and Kae picked up on this. As like Palona did in the desert against Perry, Gaia and the guild members were fighting out of sheer willpower. Emotions and drive behind every strike.
+
+"Right! The Thieves' Guild won't let down! We will win!"
+
+Gaia shouted over the sound of blades cutting at the beast, and the rest responded, fighting harder than ever before. But Raha's spell didn't stop as the storm picked up around them. Purple sands masked their vision as they pressed on to win.
+
+[0:23]
+
+In the bleakness of the sand, a voice echoed into Kae's ears.
+
+"Come on! We got this! It's almost dead!"
+
+Whacking at the Golden Bark, doing little to no damage was Dareth. He was getting into this battle the most. His eyes were wide, bright, and full of excitement and determination. Through the blinding sands, Kae could see him smile. The merchant who complained earlier about how much he hated this game, jaded for reasons beyond the veterans' knowledge, was... enjoying himself.
+
+The Foxian smiled softly as she shot off her [Flame Beam]. In her mind, Kae said the words she was sure Dareth was thinking after the last strike.
+
+"That raid was so much fun!"
+
+Golden Bark - Ancient Treasure of the Sands
+
+HP: 0/622653
+
+MP: 12710/12710
+
+[STR],[INT],[AGI],[DEX]+++
+
+[0/10 monsters remaining]
+
+[0:07]
+
+KAE LOREDOM LEVELED UP
+
+PALONA VERTRA LEVELED UP
+
+DARETH DARKMERE LEVELED UP

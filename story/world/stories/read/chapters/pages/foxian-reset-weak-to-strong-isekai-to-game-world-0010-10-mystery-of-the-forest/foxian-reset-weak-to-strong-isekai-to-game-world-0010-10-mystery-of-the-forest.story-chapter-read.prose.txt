@@ -1,0 +1,401 @@
+Current stats
+
+Level 20
+
+Kae Loredom
+
+Foxian Trainee
+
+HP: 522/522
+
+MP: 159/159
+
+STR: 29
+
+INT: 33
+
+DEX: 14
+
+VIT: 12
+
+AGI: 28
+
+LUK: 10
+
+NEXT LEVEL: 24954/27963
+
+Weapon – Short Sword STR+3 [Slime Core], [].
+
+Helmet – Wooden Helmet VIT+4 [][][][]
+
+15,050,350G
+
+“So, what’s the lore behind this map?”
+
+Silvia asked as Kae destroyed a few more zombies. They had been grinding for a while, just relaxing and earning EXP. The fox could do this for hours, but she considered that a change of pace might be good.
+
+“Actually, the lore is really interesting. Ah, hm…”
+
+Kae hesitated, tail flicking as she thought. Maybe it would be better for Silvia to experience it organically, the way she had. Spoiling it wouldn’t feel right.
+
+“How about we do the quest line here?”
+
+Kae suggested after wiping out another horde.
+
+“It shouldn’t take more than an hour if you have the time.”
+
+KAE LEVELED UP
+
+Level 21
+
+Kae Loredom
+
+Foxian Trainee
+
+HP: 531/531
+
+MP: 171/171
+
+STR: 31
+
+INT: 35
+
+DEX: 15
+
+VIT: 12
+
+AGI: 29
+
+LUK: 11
+
+NEXT LEVEL: 206/28361
+
+“Are you sure? I don’t want to waste your time, Kae.”
+
+Silvia rubbed the soles of her shoes nervously against the dead grass.
+
+“Oh, stop that already,”
+
+Kae said with a small smile.
+
+“Playing this game with a friend will never be a waste of time. If anything, I’m taking up your time since I live in this game now.”
+
+SILVIA LEVELED UP
+
+Silvia Reed
+
+Level 13
+
+Acolyte Trainee
+
+HP: 203/203
+
+MP: 190/190
+
+STR: 9
+
+INT: 23
+
+DEX: 7
+
+VIT: 3
+
+AGI: 9
+
+LUK: 2
+
+NEXT LEVEL: 110/8039
+
+“Okay, if you want to do it, I would love to, Kae!”
+
+Silvia spun around, throwing her hands up in excitement. Kae smiled. Silvia really was interested in the lore of this map.
+
+“Good. To start the storyline, we have to make our way to the abandoned cabin in the woods.”
+
+Kae explained, pointing in the direction of the quest.
+
+“Do you still have enough [Strawberry Juice]?
+
+Silvia paused, likely checking her inventory.
+
+“Yeah, I have 50 of them left.”
+
+“Perfect. If you run out, just tell me. I still have around 170 more.”
+
+The two ventured deeper into the marshy darkness. Kae’s tail swayed with excitement as anticipation bubbled in her chest.
+
+“Be careful..."
+
+She warned, looking about the dreary forest.
+
+“The harder zombies are further in, and some can cast spells.”
+
+She was confident she could kite them, but Silvia was still low level, and Kae didn’t want to overwhelm her. It wasn’t fun when you were still learning the game and just getting slaughtered.
+
+Seeing Yale Forest in full this way was breathtaking. The sparse brush seemed to sway in a still, stale air. Miasma hovered in purple crescents, making the whole place look like a haunted graveyard. Kae couldn’t help but admire the effort the developers had poured into this place.
+
+“How long have you played this game, Kae?”
+
+Silvia asked as she raced to her side.
+
+Her character occasionally clasped her hands behind her back as she walked, a charming animation setting unique to each player. Kae wondered if she still had that option available herself... even though it would be a useless setting.
+
+“I’ve been playing since day one. Roughly ten years ago now.”
+
+Not a day missed, she wanted to add, but opted against it.
+
+“Wow, really? Ten years? And you did this quest back then?”
+
+“Yep. I started as a Swordsman class. It was fun, and a group of people did this quest together.”
+
+It had been a ragtag group of misfits who just happened to find each other while exploring this brand-new map. They had no cohesion, no builds, no strategy, but they had fun.
+
+“This game is a lot more fun with friends, isn’t it?”
+
+The acolyte asked, tilting her head.
+
+Kae nodded.
+
+“Yep. And now that we’re friends, we’re going to keep having a blast.”
+
+“Are you starting a new character then?”
+
+“I guess I am. I was booted into this new character when Rexia destroyed my main. Foxians are the weakest race in the game. I think she did that on purpose.”
+
+They leapt over a few pools of miasma as Kae continued, her voice sharpening.
+
+“My guess is she wanted me to have a hard time in Keostar. Foxian’s would be the way to do it..."
+
+Her thoughts flickered back to the smug, white-haired Goddess laughing at her. One day, she would wipe that grin off her face.
+
+“You have such a complicated lore..."
+
+Silvia said, giggling.
+
+“Maybe I should make one too!”
+
+“It’s not that complicated. My goal is to kill Rexia. Simple as that.”
+
+Silvia laughed harder, clutching her stomach.
+
+“I’ll think of my lore tonight and tell you before I go to bed. It’ll be a good one!”
+
+“I’ll be looking forward to it."
+
+Kae said with a grin, then her ears twitched.
+
+“Ah, Silvia, stay back. A horde’s coming.”
+
+Undead Infestation
+
+HP: 4003/4003
+
+MP: 0/0
+
+Undead Mage
+
+HP: 1267/1267
+
+MP: 110/110
+
+The undead infestation charged at Kae, catching her off guard. Its claws raked across her chest, knocking her into a fallen tree and inflicting [Poison].
+
+Kae Loredom
+
+HP: 189/531
+
+MP: 171/171
+
+Thankfully, poison left her at 1 HP instead of outright killing her, but moving would cause her HP to drain rapidly.
+
+Silvia quickly cast [Antidote] on Kae.
+
+“Oh, thank you!”
+
+Kae waved, barely dodging the undead mage’s fire spell.
+
+Silvia followed up with [Heal], restoring +400 HP.
+
+Kae gritted her teeth. Silvia was doing all the heavy lifting she had to finish this fast. She hurled [Blazeball] after [Blazeball] at the mage until it finally collapsed from its low HP.
+
+“Wow, the infestation has a lot of HP,” Silvia said.
+
+“Yep. It’s slow but hits hard, basically a meat shield. But watch out, it can rush you like it just did to me.”
+
+With a few more well-timed attacks, the infestation went down.
+
+SILVIA LEVELED UP
+
+Silvia Reed
+
+Level 14
+
+Acolyte Trainee
+
+HP: 223/223
+
+MP: 210/210
+
+STR: 9
+
+INT: 24
+
+DEX: 7
+
+VIT: 3
+
+AGI: 9
+
+LUK: 2
+
+NEXT LEVEL: 1110/9939
+
+“Wow, they give a lot of EXP!”
+
+“Yeah, but they’re tougher than the earlier ones. It’s safer to stick with the lower-level zombies until you’re around level 30 before farming these.”
+
+As they pressed deeper, more enemies came at them, but Silvia was already getting the hang of things. Kae handled DPS duty while Silvia alternated between healing and curing poison.
+
+KAE LEVELED UP
+
+Level 22
+
+Kae Loredom
+
+Foxian Trainee
+
+HP: 561/561
+
+MP: 177/177
+
+STR: 32
+
+INT: 37
+
+DEX: 16
+
+VIT: 12
+
+AGI: 31
+
+LUK: 11
+
+NEXT LEVEL: 606/29542
+
+“Hey, Kae."
+
+Silvia asked between casts...
+
+“Do you think I should open up the skill [Quick]?”
+
+“Yeah, just a single point in it for now."
+
+Kae advised.
+
+Silvia allocated the point, then stretched, flexing her new power.
+
+“I feel a little stronger!”
+
+She said with a bright grin.
+
+“Here we are."
+
+Kae said at last, tail swaying.
+
+“The cabin in the woods.”
+
+An event triggered. A spinning cabin floated in midair before crashing gently into place in the middle of the clearing.
+
+A parody of a certain franchise.
+
+Kae remembered the forum debates. Some players said it broke immersion, but she had always thought it was neat and showed what the developers loved.
+
+“I must find a way to bring them back. It’s the last thing I can do to repent.”
+
+The voice of Father Gerado, Priest Brinkhorn’s older brother, echoed from the cabin. Slowly, the cabin settled, its door creaking open as a rush of fog spilled out across the ground.
+
+“Wanderers of the world, leave this accursed place!”
+
+The fog turned into a poisonous miasma, whipping their clothes with a violent wind. Both girls were infected with [Poison].
+
+“Here, I’ll cleanse us!”
+
+Silvia called, casting [Antidote] and restoring them to full HP.
+
+“Thanks."
+
+Kae said with a grin. Having an acolyte really made these moments shine.
+
+As they approached, another voice whispered from the ether.
+
+“Please, tell my brother not to let anyone else come. Tell Brinkhorn that I deserve what’s happening to me.”
+
+A shadowy figure appeared before them, his tone cold and weary.
+
+“Please… no more sacrifices.”
+
+Then he faded, leaving the path clear once more.
+
+Silvia’s character was visibly trembling as she clutched her rod.
+
+“Huh… that’s not a game animation…”
+
+Kae muttered as she watched Silvia a tad closer.
+
+“Sorry...”
+
+Silvia said after a moment.
+
+“I had to turn on my bedroom light. I’m ready now.”
+
+“Oh, is this place scaring you?”
+
+“Yeah… I don’t like horror stories or movies. Zombies are silly fantasy things, but ghosts? I believe in them.”
+
+Kae tilted her head, watching Silvia rub the back of her neck nervously.
+
+“Interesting. I’ve never considered whether ghosts are real. But don’t worry if one pops out, I’ll just throw [Blazeball] at it, and you can heal it to death.”
+
+Silvia giggled; the fox lightened the mood a bit for her.
+
+“Yeah, I’ll heal it to death!”
+
+Kae grinned, hoping that it would lighten her mood. This part of the quest line had plenty of specters and ghouls, so she wagged her tail and pumped her fist.
+
+“We’ve got each other. Let’s go figure out what Brinkhorn’s brother did to cause all this madness!”
+
+Silvia took a deep breath, raised her rod, and smiled.
+
+“Yeah! Let’s solve this mystery! I’m ready!”
+
+Current stats.
+
+Level 22
+
+Kae Loredom
+
+Foxian Trainee
+
+HP: 561/561
+
+MP: 177/177
+
+STR: 32
+
+INT: 37
+
+DEX: 16
+
+VIT: 12
+
+AGI: 31
+
+LUK: 11
+
+NEXT LEVEL: 606/29542
+
+Weapon – Short Sword STR+3 [Slime Core], [].
+
+Helmet – Wooden Helmet VIT+4 [][][][]
+
+15,050,350G
