@@ -3,7 +3,7 @@ import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
 
-export type Passive = {
+type Passive = {
   abilityId: number
   name: string
   description: string
