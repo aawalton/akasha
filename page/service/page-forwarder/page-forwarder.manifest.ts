@@ -14,7 +14,15 @@ export const pageForwarder = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The forwarder asks socat to carry at most 24 connections at once.",
+      statement: "The forwarder asks socat to carry at most 128 connections at once.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A web app's follow holds its connection open for as long as the follow runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The cap leaves room for an ask beside every follow the web apps hold open.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -34,5 +42,5 @@ export const pageForwarder = {
     },
   ],
   createdAt: "2026-09-05T21:47:46.216Z",
-  updatedAt: "2026-10-21T15:10:08.695Z",
+  updatedAt: "2026-10-22T15:16:29.990Z",
 } as const satisfies Manifest

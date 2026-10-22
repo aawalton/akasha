@@ -42,7 +42,7 @@ const DEPLOYMENT_SELECTOR_LABELS = selectorOf(DEPLOYMENT_LABELS, "name-instance"
 
 const NETPOL_LABELS = kubernetesLabels({ name: APP_NAME, managedBy: MANAGED_BY })
 
-const MOST_CHILDREN = 24
+const MOST_CHILDREN = 128
 
 const BACKLOG = 512
 
