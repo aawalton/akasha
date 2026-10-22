@@ -1,0 +1,143 @@
+The portal shimmered with its usual cool, blue light, a stark contrast to the oppressive heat they knew waited on the other side. Josh stood before it, adjusting the straps on his loaner armour. It still lacked the familiar, custom-forged comfort of his old gear, but his skill made it feel less like wearing a metal box and more like a heavy second skin.
+
+"Everyone ready?" Josh asked, looking over his shoulder at the rest of the party.
+
+Bhel was running a whetstone down the edge of his offhand axe, the sound a harsh rasp in the quiet morning air of the portal room. He nodded once, a grim smile hidden beneath his thick beard. Perberos stood in the shadows near the wall, double-checking the tension on his bowstring, while Carcan and Brett were finishing up a quiet conversation about mana conservation.
+
+"Ready as we'll ever be," Brett said, stepping forward. Today, he hadn't brought his staff, wanting to test a theory. He had a feeling his most effective weapons now were his own two hands, and he flexed them in anticipation.
+
+They stepped through the portal, and the familiar wave of dry, cracking heat washed over them. The smell of ash, ozone, and hot iron filled their lungs. It was the scent of the second floor, a place that had nearly killed them just a few days prior. Today, however, the scent did not bring a spike of panic. It brought focus.
+
+The run so far was smooth, almost unnervingly so. They knew the layout of these initial corridors intimately by now. They knew where the kobold patrols liked to hide, which rusted gratings were prone to collapse, and the exact distance a Pyromancer needed to begin chanting a spell.
+
+When they encountered the first patrol of the day, a standard mix of Enforcers and Scavengers, they moved with a terrifying, synchronised efficiency. Josh stepped into the chokepoint, his heavy boots locking onto the iron floor plates. He took the initial charge of the Enforcers without giving a single inch of ground, his new skills absorbing the kinetic impact and filtering the damage down to nothing.
+
+Behind him, Brett did not waste time gathering mana for complex spells. He simply reached out and willed the air around the kobolds to ignite. A flash flood of liquid fire washed over the group, burning the unarmoured Scavengers to ash and severely weakening the Enforcers, leaving them prime targets for Bhel's sweeping axe strikes and Perberos' precision arrows.
+
+They cleared the corridor in under two minutes.
+
+It continued like this for hours. They swept through the industrial nightmare of the second floor, dismantling the clockwork traps and slaughtering the kobold legions with methodical precision. It didn’t feel like they were fighting at times; they were harvesting. Every encounter was a calculation of effort versus reward.
+
+Deep in the dungeon, shortly after clearing a large holding pen filled with rabid, oversized forge-hounds, it happened.
+
+A chime echoed in the minds of all five adventurers simultaneously. It was a sound they had been chasing, a sound that brought a surge of golden light erupting from their chests, washing away the fatigue and knitting together the minor scrapes and bruises they had accumulated.
+
+[Congratulations! You have reached Level 20.]
+
+The notification hung in the air, pulsing with a triumphant brilliance.
+
+Josh let out a long breath, feeling the sudden rush of vitality expanding his health pool and fortifying his stamina. Level twenty. It was a major milestone for any adventurer. It marked the transition from a newbie to someone whose opinion mattered.
+
+"We did it," Carcan whispered, leaning heavily on her staff, though the fatigue was rapidly leaving her system. "Twenty. I actually didn't think we would make it this far when we first started."
+
+"Speak for yourself," Bhel laughed, slapping Josh on the back. His hand bounced off the dense metal of the loaner breastplate with a dull thud. "I knew we were destined for greatness the moment I saw this big lump holding a shield."
+
+They took a moment to review their new status. There were no massive, reality-altering skill evolutions this time around. Those were rare, triggered by extreme circumstances like those Brett and Josh had experienced.
+
+"Alright," Josh said, dismissing the system window. "We hit the milestone, and we’re one step closer to the third floor. But the day isn't over. Let's push to the boss room. We have a rhythm going, and I want to keep it."
+
+They pressed on, their newly enhanced stats making the remainder of the floor feel almost trivial. When they reached the massive bronze doors at the end of the final corridor, they did not hesitate.
+
+Josh pushed the doors open, and the party stepped inside, weapons drawn.
+
+To their surprise, the room had changed again. The circular arena and the massive workbench from their last encounter were gone. The Dungeon had rotated the architecture back to the first layout they had ever seen for this boss, but twisted it.
+
+The room was dominated by a churning river of molten slag that bisected the chamber. Hovering above the white-hot current, suspended by four massive iron chains that disappeared into the dark ceiling, was a large iron platform.
+
+The Master was out there, standing on the swaying grate, a hulking silhouette against the glow of the liquid metal below. He guarded the single narrow gantry that connected the platform to the exit.
+
+"The Platform variant," Brett noted, a cruel smile forming on his lips, though his eyes darkened. "I hated this one." His mind went back to the snapped support chains and his close call with a bath in molten metal. "Hopefully he doesn’t snap the chains this time."
+
+"Let him try," Perberos said, already nocking an arrow and scanning the shadows of the ceiling for the stealth units that always seemed to appear at the worst times. "He won't get the chance this time."
+
+The fight played out like a well-rehearsed play. The Master began hurling massive, explosive slag-bombs from his suspended position as they made their way towards him, trying to bombard them on the narrow bridge. In their first encounter here, this had been a terrifying ordeal of desperate dodging on a swaying surface. Today, Brett simply looked up, focused his mind, and willed the explosive cores of the bombs to detonate prematurely in mid-air. The resulting fireworks display rained harmless sparks down upon them, completely neutralising the boss's primary advantage.
+
+While Brett handled the artillery, Josh held the narrow gantry, becoming an immovable wall against the flood of Kobold Enforcers that tried to flank them from the side tunnels as they made their way to the boss. He absorbed their blows, his shield ringing like a bell, knocking them off the edge into the molten river below, while Bhel chopped down any that got too close.
+
+Without his ranged superiority, the party pushed across the bridge to engage the Master directly on the platform. The floor grated and shifted under their feet, the chains groaning, but they held their formation. They surrounded him, expertly managing his aggression, dodging his heavy swings, and exploiting the openings.
+
+When his internal furnace began to overheat, Brett was ready. He moved in close, ignoring the swaying of the floor, and manipulated the exhaust vents.
+
+"Not the chains," Josh warned as the Master raised his hammer for a desperate strike against the supports. "Drop him now!"
+
+Brett clenched his fist, fusing the vents. The suit locked up. The Master roared, freezing in place before the internal pressure became too much. The party quickly scattered, putting some distance between themselves and the boss, though thankfully this variant wasn’t quite as explosive as others.
+
+Boom.
+
+The detonation rocked the platform violently, swinging it like a pendulum, but the chains held. The Master vaporised, leaving only loot and silence.
+
+They looted the chest, gathered their substantial haul of gold and crafting materials, and stepped through the exit portal, returning to the town just as the sun was beginning to set.
+
+That evening, sitting in the inn with plates of hot food and cold ale, they made a plan.
+
+"We found the loop," Josh said, taking a large bite of a rare steak. "The dungeon is adapting, but it only has so many variations for that floor. We've seen the Platform, we’ve seen the Temple, and we've seen the Smeltery where he builds the golem. If we keep running it, we can farm the experience safely."
+
+"It's a grind," Brett agreed, looking at his hands. "But it's a profitable one. And we need another level before we even think about going to the third floor. The jump in difficulty between floor two and three is apparently massive."
+
+"So, what is the schedule?" Perberos asked, nursing a cup of spiced wine.
+
+"Two days in, one day off," Carcan confirmed. "We go in, we clear the floor, we kill the boss, we come out. On the third day, we rest. We let our minds recover. We don't want to get sloppy."
+
+And so began the iron grind.
+
+For the next nine days, their lives became a cycle of violence, fire, and rest.
+
+On their next run back into the dungeon after hitting level twenty, they discovered the second variation of the boss room. They pushed open the bronze doors to find the room transformed into a dark, oppressive temple of rusted iron.
+
+The Master stood at the far end of the room above a massive furnace. He was not alone. He was surrounded by a dozen Kobold Acolytes in dark robes, chanting in a guttural, clicking language. The air was thick with dark magic, and glowing red runes pulsed on the floor plates, granting the Master a shimmering shield of kinetic energy.
+
+"The Furnace Temple variant," Josh had called out over the chanting. "Buffs and shields. Target the Acolytes first!"
+
+This variation proved to be a test of target prioritisation. If they attacked the Master while the Acolytes lived, their weapons simply bounced off his magical shielding. The party had to weave through a labyrinth of pillars, dodging the Master's relentless aerial attacks, to hunt down the chanting kobolds.
+
+Bhel proved invaluable in this layout. He used his stout frame and low centre of gravity to charge through the dark alleyways, barrelling into the clusters of Acolytes like a bowling ball. His axes became a blur of motion, silencing the chanters one by one. Once the final Acolyte fell, the red runes atop the furnace faded, the shield shattered, and the Master was left vulnerable to the combined assault of the party.
+
+They quickly learned that the boss room operated on a strict rotation. Platform, Furnace, Smeltery. Once they understood the pattern, the fear of the unknown vanished. They could prepare their tactics before they even opened the doors.
+
+The days blurred together, a montage of clashing steel and roaring flames.
+
+They became wealthy. The amount of gold dropped by the elite patrols and the boss chests quickly filled their pouches. They sold the excess crafting materials, the rare ores, and the mechanical parts they scavenged to the local stores, watching their fortune grow steadily.
+
+However, they were careful not to become complacent. The dungeon, even when predictable, was still a deadly place.
+
+On their fourth day of the grind, during a run through the wide, industrial corridors, they experienced one of the few tricky fights that broke their routine.
+
+They were moving through a section that was heavily congested with rusted machinery and towering piles of scrap metal. The air was unusually still, lacking the constant hiss of venting steam.
+
+"Keep your eyes peeled," Perberos warned, his bow drawn. "The shadows are too thick here."
+
+Without warning, the floor beneath Bhel and Carcan suddenly gave way. The metal plates shrieked and folded inward, dropping them into a shallow trench that ran the width of the corridor.
+
+Before Josh could react, heavy iron grates slammed down from the ceiling, sealing the trench and trapping the dwarf and the healer inside.
+
+"An ambush!" Brett yelled, spinning around as the sound of scurrying claws echoed from the scrap piles.
+
+The trap was sophisticated. Dozens of hidden vents in the walls of the trench began to hiss, pumping a thick, sickly green gas into the confined space where Carcan and Bhel were trapped.
+
+"Poison!" Carcan screamed, coughing as the gas filled her lungs. She immediately began casting a purification spell, but the gas was pouring in too fast.
+
+At the same time, a kill-squad of Kobold Assassins detached themselves from the ceiling above Josh, Perberos, and Brett. They were not the usual cloaked variants; they were clad in heavy, articulated stealth-armour, designed to drop from above and overwhelm their targets with sheer weight and poisoned blades.
+
+"Get them out of the trench!" Josh roared, raising his shield to intercept the plunging assassins.
+
+Three of the heavily armoured kobolds landed on Josh simultaneously. The impact drove him to one knee, their poisoned daggers scraping uselessly against his loaner armour and his skin. He roared in defiance, surging upward and throwing two of them off, but more were dropping from the shadows.
+
+Brett was forced to split his concentration. He needed to deal with the assassins pressing in on him, but he also needed to save his friends in the trench.
+
+He thrust his left hand forward, unleashing a short, concentrated burst of flame that caught a diving assassin in mid-air, turning the creature into a screaming fireball that crashed against the wall.
+
+With his right hand, he reached out toward the trench. He couldn't just blast fire down there; he would roast Bhel and Carcan alive. He had to be precise.
+
+He closed his eyes, tuning out the sounds of Josh hammering the assassins nearby. He focused entirely on the chemical composition of the green gas. It was flammable. He could feel its volatility.
+
+"Bhel! Carcan! Get down!" Brett screamed.
+
+He willed a tiny, microscopic spark into existence right at the source of the gas vents inside the trench.
+
+The reaction was instantaneous. The spark ignited the gas, creating a flash-fire that rippled through the trench. The sudden, violent expansion of hot air blew the heavy iron grates completely off their hinges, sending them crashing into the ceiling. The fire burned off the toxic gas in a fraction of a second, leaving the trench clear but scorching hot.
+
+Bhel, his beard slightly singed, scrambled out of the trench and hauled Carcan up after him. The healer was coughing violently, her health bar dipping, but she was alive.
+
+With the team reunited, the momentum shifted. Josh stopped defending and went on the offensive, using his shield as a battering ram to crush the remaining assassins against the scrap piles, while Bhel's axes made short work of the survivors.
+
+When the fight was over, they stood panting in the corridor, the smell of burnt poison and scorched metal thick in the air. It was a stark reminder that the grind was only a routine until the dungeon decided to change the rules. They proceeded with extreme caution for the rest of that run, triple-checking every suspicious grate and avoiding narrow passageways whenever possible.

@@ -1,0 +1,113 @@
+The morning mist still clung to the cobblestones when the party gathered outside, their breath visible in the chill air. The town was fully awake now, the sounds of shutters banging open and merchants calling out their wares echoing through the damp streets.
+
+Josh stood near the entrance of a grocery store where Bhel was foraging for supplies, adjusting the unfamiliar weight on his hips. The Twin Fangs sat differently from his old arming sword. The longsword, Fang of the Dawn, hung on his left hip; it was slightly lighter than he was used to, the balance point nestled closer to the guard for precise tip-work. On his right side was the shortsword, Fang of the Dusk.
+
+He tapped the pommel of the longsword and felt a faint, answering hum from the enchantment. It wasn't just metal; it was a circuit waiting to be closed.
+
+"Stop fidgeting," Bhel rumbled, emerging from the store with a half-eaten apple in one hand and his heavy pack slung over the other shoulder. "You look like a lad on his first date, checking his fly every three seconds."
+
+"It feels different," Josh admitted, his breath misting. "I keep expecting the drag of the old blade. This one... it wants to move before I do."
+
+"That’s the dexterity bonus activating whenever you touch it," Perberos said, stepping out of the store like a wraith. The elf was wearing his new Cloak, and the effect was unsettling. The grey wool seemed to drink the mist, making his outline shimmer and blur as if he were a smudge on a painting. "It anticipates the muscle twitch. You will get used to it. The tool learns the master, and the master learns the tool."
+
+Brett and Carcan followed, looking less rested than the martial members of the party. Brett, in particular, looked haggard. He was clutching a piece of parchment covered in scribbled diagrams, his eyes narrowed in a mix of concentration and lingering fear.
+
+Since the Foundry, Brett hadn't slept well. Every time he closed his eyes, he felt the lurch of the platform. He felt the sickening drop, the rush of superheated air, and the terrifying realisation that he was a creature of gravity, utterly bound to the earth. He was a mage, he wielded the primal forces of the universe, yet he had nearly died because of a simple snapped chain.
+
+It gnawed at him.
+
+"Right," Brett said, tapping the paper with a charcoal-stained finger. "We have the firepower. We have the tank. But we still have a physics problem. The Foundry floor isn't stable. If the Master decides to drop the platform again, we can't rely on Josh catching us or Perberos turning into a human anchor."
+
+"I pulled a muscle doing that," Perberos noted dryly, rolling his shoulder. "I do not recommend a repeat performance."
+
+"Exactly," Brett muttered, looking up at the sky where a hawk was circling the currents. "So, before we even look at the gate, we have one more stop. We need to go to Branman’s Sundries."
+
+"We’re nearly broke," Josh reminded him, patting his light coin purse. After the purchase of the swords, they had barely four gold pieces between them, a fortune for a farmer, but a pittance for a Level 18 adventuring party needing to restock consumables. "We need to save for potions, not random other items.”
+
+They navigated the winding streets towards the West Gate. The mood in the town was noticeably tense. People walked quickly, heads down, avoiding eye contact. The rumours of the 'corrupted' adventurer and the massacre at the gate had evidently spread, curdling the usual morning optimism. Patrols of the town watch were doubled, their faces grim beneath their steel helms.
+
+Branman’s Sundries was a sprawling, chaotic emporium that smelled of sawdust, pickled fish, and linseed oil. It was the kind of shop that sold everything from heavy mining picks to delicate sewing needles, all piled in precarious towers that threatened to collapse if anyone sneezed.
+
+Branman, a balding human with a permanent squint and hands stained with ink and grease, looked up from a barrel of salted herring he was repacking.
+
+"Morning," he grunted, eyeing their gear. "You lot look like you’re off to start a war. Or finish one."
+
+"Something like that," Brett said. He bypassed the food aisles, his eyes scanning the shelves with feverish intensity. He headed straight for the back wall where coils of rope hung like sleeping snakes. He ignored the standard hemp and jute, his fingers trailing over the more expensive options.
+
+He stopped at a spool of dark, braided cord that had a slight oily sheen.
+
+"That looks…?" Bhel asked, leaning on his axe. "Fancy."
+
+"Fire-treated," Brett corrected, pulling the cord down. "Alchemically sealed. Guaranteed not to burn, rot, or snap under loads of up to two tonnes." He turned to Branman. "I need two hundred feet. And five climbing loops. And iron pitons, the screw-in kind for granite, not the hammer-ins. And carabiners. Heavy duty."
+
+Bhel raised a bushy eyebrow. "Planning on scaling the Titan’s Spire, lad? Or are we capturing a dragon?"
+
+"It’s for the boss room," Brett explained, hauling the heavy coil onto the counter. It landed with a solid, heavy thud. "The Foundry. The platform."
+
+Josh’s eyes widened as the logic clicked into place. "The chains."
+
+"Exactly," Brett nodded, looking vindicated. "The platform is suspended. If the chains snap, gravity wins. I am not, I repeat, not going to be left dangling over a lake of molten iron by the hem of my robe again. That was terrifying, and quite frankly, undignified."
+
+Brett paused, his gaze drifting to the coil of rope, but his mind seemingly elsewhere. "I’ve been thinking... about Phoenix Step. It’s a burst of propulsion, right? Fire at my feet. And my Gust spell... that’s directional force. If I could condense the Gust to sustain the lift from the Phoenix Step... maybe channel it through the soles of my boots..."
+
+"You want to fly," Carcan realised, a smile touching her lips.
+
+"It would be cool to fly," Brett admitted, his eyes lighting up with a spark of manic invention. "I’d be like Iron Man. Just... wizard-y. If I can master the vectoring, gravity stops being a threat and starts being a suggestion."
+
+He gestured to the harnesses, quickly changing the subject back to the practical reality. "Anyway, for now, we tether ourselves. We secure the main line to the heavy iron statues at the entrance of the boss room; those things weigh five tonnes, they aren't moving. We run the line out to the platform. If the floor drops, we swing. We don't fall."
+
+Perberos looked at the mage with a newfound respect, a slight nod of approval barely visible within his hood. "A practical solution. Mechanical. Simple. I approve."
+
+"It’s paranoia," Bhel chuckled, picking up one of the heavy iron carabiners and testing the spring mechanism with a thick thumb. Click-snap. Click-snap. "But it’s the kind of paranoia that keeps dwarves alive in deep mines when the gas pockets blow. Good thinking, spark-thrower. But, how are the more mobile of us meant to, ya know, move about? If I'm tied to a wall, I can't exactly charge."
+
+"Err," Brett squirmed slightly, realising the flaw. "We use a running line? We clip onto the main rope with a slider? No, that would mean chopping the rope up... maybe if something happens you rush back and clip in? I don’t know. We’ll figure out the kinetics on the go. The point is, the rope is there."
+
+"How much?" Josh asked Branman, wincing in anticipation.
+
+"For the fire-cord and the hardware?" Branman scratched his chin, doing a mental calculation. "Four gold. The rope alone is three. That alchemical treatment isn't cheap; takes a week to soak in the oil."
+
+Josh exchanged a look with Carcan. Four gold. That was everything they had left.
+
+"That leaves us with nothing," Josh calculated, his heart sinking.
+
+"We need potions," Perberos whispered. "The heat in the Foundry drains stamina just by existing. And if we get hit by that fire damage again..."
+
+"We take the rope," Carcan decided firmly. "We can dodge fire. We can't dodge gravity."
+
+She counted out the coins. It hurt to physically hand them over, watching the purse deflate until it was little more than a flat piece of leather. But as she ran her hand over the braided, fire-proof rope, it felt like insurance.
+
+"Right," Josh said, stowing the heavy coil in Bhel’s pack. "We have next to nothing left. Might as well head to the dungeon and earn it back."
+
+The party nodded, the reality of their financial situation settling in. They were 'All in.' They quickly filed out of the cluttered shop, heading for the Southern Gate.
+
+They reached the gatehouse, finding the scene unchanged. The same guards from the afternoon before were still on duty, propped heavily against their spears as if the wood were the only thing keeping them upright. One of them looked profoundly weary, the dark circles under his eyes standing out against his pale skin, but he offered a sharp, recognising nod as they approached, his gaze drifting down to linger on the fresh, matte-grey steel of Josh’s new swords.
+
+"Refitted?" the guard asked.
+
+"Ready to go back," Josh confirmed, patting his painfully flat coin purse with a wry grimace. "Apparently I need to earn some money sharpish, otherwise I’m in trouble with the landlord and we’ll be camping under a hedge tonight."
+
+The guard let out a bark of laughter, a brief, genuine flash of life in his exhausted face. "Aye, the innkeepers in this town have hearts of stone when the gold runs dry."
+
+But the amusement died as quickly as it had arrived. The guard’s smile faltered, the lines around his mouth deepening as his gaze drifted to his right. He stared at a dark, scrubbed patch of masonry near the gate arch, the spot where the corrupted adventurer had been put down yesterday. He swallowed hard, his hand tightening on his spear until the knuckles turned white.
+
+"Good luck, then," he said softly, and the humour was entirely gone. "Just... try not to bring anything back that wants to eat us. We've buried enough friends this week."
+
+They stepped through the gate, moving out of the city's protective shadow. As the familiar path to the mountain rose before them, Josh let his hand rest on the hilt of Fang of the Dawn. He closed his eyes for a moment, trying to attune himself to the weapon.
+
+A sword is a lever, he thought, visualising the mechanics. A shield is a wall. I have both now.
+
+"Josh," Carcan said softly, falling into step beside him. "Are you sure about going in today? You haven't had time to train with your new swords. The muscle memory for a longsword is different."
+
+"I know," Josh said, opening his eyes. "But they felt right when we were in the shop. And my advancement with the shield skill... it should help compensate. It tells me where to be. If I'm in the right place, the sword just has to follow the opening. I don't need to be a master swordsman yet. I just need to be good at positioning. I think I’ll stick with the longsword for the reach for now. Maybe switch it up later, use the shortsword when we get to the crush."
+
+"Theory is nice," Bhel called from the front. "But practice bites harder."
+
+The dungeon entrance loomed before them, a dark maw surrounded by walls. The familiar smell of stale air and old stone wafted out to greet them.
+
+They stopped at the threshold. Bhel adjusted his pack, the rope coiled heavily inside like a slumbering python. Perberos pulled his hood up, his form becoming a haze to the eyes. Carcan gripped her staff, the crystal flaring to life. Bhel slammed his axes together, a shower of sparks hitting the stone.
+
+Josh drew his longsword, the grey steel hissing against the scabbard. He wanted to test the extra dexterity in the first few chambers, to see if he could dance before he had to brawl.
+
+"Let’s go make some money," Carcan said, a rare edge of hunger in her voice.
+
+They crossed the threshold, leaving the morning light behind for the deep, profitable dark.

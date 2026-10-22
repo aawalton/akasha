@@ -1,0 +1,129 @@
+The massive bronze doors of the inner sanctum did not slide open with the smooth, magical grace they had encountered last time. Instead, they groaned on rusted hinges, the sound of metal screaming against metal echoing through the vaulted stone corridor like the cry of a dying beast. Josh and Bhel put their shoulders into the task, their boots skidding on the soot-covered floor, gritting their teeth until the heavy portals finally yielded with a thunderous thud.
+
+They walked in, expecting to find the same swinging platform as last time. They had mentally prepared for a battle of balance, aerial agility, and vertigo. What met them instead was a wall of dry, suffocating heat that felt like a physical blow to the chest, instantly sucking the moisture from their eyes and mouths.
+
+The chamber had been utterly transformed. The yawning chasm was gone, choked by massive blocks of basalt, and in its place stood an industrial nightmare. The room was dominated by a ziggurat-like furnace that rose forty feet into the gloom. At its base, rivers of molten metal churned through stone gutters, casting a hellish, flickering orange light across the walls. The air was thick, tasting of sulphur, burnt oil, and the sharp, copper tang of blood.
+
+"Yeah... I’m not sure if this is better or worse," Brett muttered, staring around the room with wide eyes. "The guidebook said the room could change, but I didn’t expect... this."
+
+His eyes were drawn inexorably upwards. At the summit of the stone pyramid stood the Master. He was wearing a suit of massive, articulated plate armour that seemed to be fused with his very skin, crude rivets driven directly into the flesh to hold the steel in place. He stood over a massive anvil, a six-foot hammer in his hands, rhythmically striking a slab of dark, pulsating metal.
+
+CLANG. CLANG. CLANG.
+
+Each strike sent a shockwave through the floor that the party could feel rattling in their teeth.
+
+"So the dungeon knows we beat the other version of this boss, and it’s changed to something else?" Perberos whispered, his voice raspy from the sudden dehydration. He pulled his mask up over his nose to filter the heavy soot.
+
+"He’s not alone," Bhel grunted, his knuckles white as they tightened around the haft of his axes.
+
+The Master didn't need to bark orders. As the party stepped onto the killing floor, six shadows detached themselves from the darkness of the furnace’s lower vents.
+
+"I think those are the Cinder-Grooms," Brett said, stepping back slightly as he recognised the silhouettes from the logs. "Kobolds that have been twisted by the forge."
+
+They were broader than their kin, their muscles knotted and scarred from years of heat exposure. They wore heavy, soot-stained leather aprons and iron welding masks that hid their features, leaving only glowing red slits where their eyes should be.
+
+Two held massive, iron-ribbed bellows strapped to their backs; three carried long, glowing branding irons that dripped with white-hot slag; the last carried a heavy chain connected to a bubbling cauldron of molten lead.
+
+"Spread out!" Josh commanded, his voice cracking under the oppressive heat. "Bhel, you’re with me on the front line! Perberos, find a vantage point, make those last arrows count! Brett, Carcan, stay near the entrance!"
+
+The Grooms with the bellows squeezed their instruments, and a jet of superheated vapour erupted across the centre of the room. It wasn't just steam; it was a scalding cloud of misery.
+
+"Shields!"
+
+Brett and Carcan instantly reacted, throwing up shimmering barriers of mana, but Josh saw the scale of the superheated cloud rolling towards them. It wasn't enough; the edges of the formation were exposed. At the last second, he activated Bulwark Aura.
+
+A golden dome of safety expanded over the party just as the white wall of steam hit. The scalding vapour washed over them, but the skill did its work, leeching the thermal energy from his companions and funnelling it directly into Josh. He gritted his teeth, a scream dying in his throat as he felt the searing pain of five people at once, a sudden, crushing weight of transferred damage that nearly buckled his knees.
+
+His health bar plummeted, sweat instantly slicking his skin inside his armour as he became a lightning rod for the agony. A flash of white light hit his back; Carcan, seeing his status bar crash while the rest of them stood unharmed, had panic-cast a Heal. The cooling energy stabilised him just enough to keep him upright.
+
+"Go!" Josh roared, charging out of the steam.
+
+Bhel moved like a juggernaut, his dwarven constitution allowing him to ignore the residual heat that would have wilted a lesser man. He engaged the first Kobold he could get to, his axe clashing against the heavy iron chains it wore across its chest. The kobold swung its weapon, a pot of molten lead, with terrifying momentum, using it like a flail. As Bhel ducked, a spray of the liquid metal splashed against a nearby pillar, melting the stone like wax.
+
+"These bastards are tough!" Bhel shouted, his beard singed by a passing spark. He chopped at the kobold’s arm, but the heavy leather apron turned the blade. "Their gear is enchanted! My edge is sliding right off!"
+
+"Aim for the joints!" Perberos called out from high above.
+
+The elf had scaled a pile of slag to reach a rusted gantry overlooking the floor. He drew one of his remaining arrows, sighting down the shaft. He waited for the Groom fighting Bhel to raise the cauldron again, exposing its side.
+
+Thwip.
+
+The arrow flew true, burying itself deep in the soft flesh. The Groom shrieked, dropping the cauldron. Molten lead spilled across the floor, and Bhel seized the opportunity, burying his axe into the creature's exposed neck.
+
+Josh was tanking three of the Grooms at once. Two with branding irons were pressing him, their glowing weapons leaving trails of light in the air. They worked in tandem, one thrusting high while the other swept low. Josh parried the high strike with his shield, the smell of burning leather filling his nose as the iron seared the shield's cover, and blocked the low strike with his sword.
+
+"They're using fire magic I think! Or their weapons have flame enchantments!" Josh grunted, feeling the vibrations travel up his arm. "Don't let them touch you!"
+
+He riposted, his blade darting out to pierce a knee, just as the third Groom blasted him with another jet of steam from its bellows, blinding him.
+
+High above, the Master continued his work. He ignored the chaos below, his hammer falling with the inevitability of a heartbeat. With every third strike, the furnace groaned, and a fresh wave of radiant heat pulsed outward, forcing the party to shield their eyes.
+
+Brett, standing back with Carcan, was analysing the flow of energy. He ignored the melee, focusing his mage-sight on the machine. He saw the way the Master’s armour was connected to the furnace via thick, flexible copper pipes. On the Master’s back were four large exhaust ports, shaped like dragon muzzles. Every time the furnace pulsed, these ports vented a crimson gas that shimmered with magical instability.
+
+"He’s a closed-loop system!" Brett realised, shouting over the din. "The furnace powers his armour, and his hammering regulates the furnace pressure. If we break that cycle, the whole thing goes critical!"
+
+"We have to get to him!" Carcan cried out. She was frantically weaving Shield charms and heals, casting them onto Josh and Bhel to keep their blood from boiling inside their armour, but the spells were evaporating almost as fast as she could cast them. "Josh! You can't hold them forever!"
+
+Indeed, the remaining Grooms were closing in. One of the branding-iron wielders lunged at Josh, the red-hot tip of the weapon searching for the gaps in his plate. Josh parried, but the heat was so intense it began to soften the outer layer of his shield’s grip. He felt the sweat stinging his eyes, blurring his vision.
+
+"Perberos! Can you hit the vents on his back?" Josh ordered, stepping into a brutal shield-bash that sent a kobold reeling into a slag pile.
+
+"I have two arrows left!" Perberos yelled back. "And he's facing away from me! I need an angle!"
+
+Perberos scrambled along the gantry, trying to flank the Master. But the Boss finally reacted. Without stopping his rhythmic hammering with his right hand, the Master reached out with his left and pulled a heavy iron lever.
+
+A torrent of molten metal poured down the side of the ziggurat, creating a waterfall of fire that cut off the elf's path. The gantry groaned and began to sag.
+
+"I can't get through!" Perberos yelled, leaping back to a lower platform just as the metal beneath him melted away.
+
+"Brett! You have to do it from down here!" Josh shouted, his breathing coming in ragged gasps. He was now fighting two Grooms at once, his sword arm feeling like lead. A branding iron caught him on the shoulder, the heat searing through his gambeson. He let out a guttural growl of pain, but refused to give ground.
+
+Brett stepped forward, the heat curling the ends of his hair. He looked at the Master, forty feet up. A firebolt wouldn't do it; the simple projectile would just splatter against the heavy plating. He needed something to plug the vents, but with no ice to freeze them and no telekinesis to block them, his options were thin.
+
+"I need to fuse them shut again!" Brett muttered, his mind racing. "If I can melt the casing, the pressure will do the rest."
+
+He shifted his stance, grounding himself against the trembling floor. He gathered his mana, compressing it not into a ball, but into a tight, vibrating point at the tip of his staff. Molten Lance. It was a spell of pure, concentrated thermal cutting power, but the range was extreme, the recoil was brutal and it ate through his mana like no other spell. He would have to be surgical.
+
+"Carcan! Keep them off me!"
+
+Carcan didn't argue. She stepped in front of the mage, staff raised, creating a shield in time to catch a stray glob of slag. "Just take the shot!"
+
+Brett unleashed the spell. A blinding beam of superheated, liquid mana erupted from his staff, tearing through the smoky air. A continuous lance of energy, roaring like a jet engine. He fought the recoil, steering the lance with sweat pouring down his face. The molten energy struck the Master’s back, raking across the four dragon-shaped exhaust ports.
+
+The metal screamed as it was instantly liquefied. The intricate venting mechanisms melted into slag, fusing shut in a heartbeat.
+
+The Master let out a mechanical screech of protesting metal. The exhaust gas, with nowhere to go, began to build catastrophic pressure.
+
+The rhythmic clang of the forge stopped.
+
+A deadly silence fell over the room, broken only by the sound of the Master’s armour beginning to vibrate. The crimson glow in his vents turned into a violent, pulsating violet. The pressure gauge on his chest snapped, a needle of steam shooting out.
+
+"AH CRAP! THE EXHAUST!" Bhel yelled, his eyes widening. "HE’S BECOME A BOMB!"
+
+"GET TO COVER!" Josh’s voice was a command that brooked no argument. He grabbed the nearest Cinder-Groom and hurled it aside, clearing a path for his friends.
+
+Bhel dived behind a massive stone pillar. Perberos slid into a cooling trench. Brett, drained of mana, collapsed behind a heavy iron anvil.
+
+Carcan turned to run towards the entrance, but the floor was slick with oil and cooling lead. Her foot slipped, and she went down hard. Her ankle snapped with a sickening pop, and she cried out, sliding across the stone towards the base of the vibrating furnace.
+
+Josh was already ten yards away from Carcan when he heard her cry. He stopped. He looked at the Master, whose armour was now expanding, the metal plates groaning as they were pushed to their breaking point. The light coming from the cracks was blinding, a miniature sun about to go supernova.
+
+Josh didn't hesitate.
+
+He reached Carcan just as the Master’s chest plate shattered. He didn't have time to carry her. He slammed the rim of his shield into the stone floor at her feet, bracing it to create a steel barrier between her and the coming firestorm, and then dived on top of her, his massive frame covering her completely, though he wasn’t fully behind his shield.
+
+"Close your eyes!" he roared as he activated every skill he had that might mitigate the pain he was about to go through.
+
+The explosion was not a bang; it was just light and an absence of anything else. A wave of pure thermal energy and shrapnel expanded outward in a sphere of white-hot destruction. The furnace itself disintegrated, the massive basalt blocks turned into projectiles.
+
+The shockwave hit Josh’s shield first. The heavy enchanted metal of his armour began to warp and glow. The heat was so intense that the air around Josh’s back ignited. He felt his cloak vanish in a heartbeat, turned to ash. Then he felt his heavy plate armour transferring the heat directly to his skin.
+
+He felt the skin on his shoulders blister, then char. The smell of his own burning flesh filled his nostrils, a sickening, sweet scent that made his head swim. He felt something liquid splashing against his greaves and legs, eating through the steel and flesh.
+
+He didn't move. He didn't scream. He gritted his teeth so hard that blood began to leak from his gums, his eyes squeezed shut against the white light. He felt Carcan trembling beneath him, her hands clutching at him. He was the only thing standing between her and total incineration.
+
+The blast lasted for five seconds. To Josh, it felt like an eternity in the deepest pit of hell.
+
+When the light finally faded and the roar died down to a dull ringing in their ears, the chamber was unrecognisable. The furnace was a crater. The soot had been burned off the walls, leaving the stone scorched and white.
+
+Josh remained arched over Carcan for a long moment, his shield still planted in the ground, glowing a dull cherry red. Then, slowly, his arms gave out. He slumped to the side, then collapsed onto the stone.
