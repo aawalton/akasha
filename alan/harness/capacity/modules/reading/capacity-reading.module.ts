@@ -25,6 +25,10 @@ export const capacityReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "From the 04:00 day boundary, a day Alan has not opened yet reads zero.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The stretches are reached through the module saying where a day is kept.",
     },
     {
@@ -116,5 +120,5 @@ export const capacityReading = {
     },
   ],
   createdAt: "2026-09-04T00:03:57.592Z",
-  updatedAt: "2026-10-20T11:12:19.064Z",
+  updatedAt: "2026-10-22T14:49:38.971Z",
 } as const satisfies Module
