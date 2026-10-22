@@ -1,0 +1,181 @@
+The party made its way toward the center. The Dragon King's massive form dominated the horizon, perched beside his lake of molten stone, but distance in the volcanic wasteland was deceptive. What appeared close proved maddeningly far.
+
+They walked for twenty minutes before Clive realized they'd barely closed half the gap. The heat was worse than he expected, making his hands tremble.
+
+"Wait." Lucia called out, breathing hard. "We need to be prepared."
+
+Prince Sion turned back; one eyebrow raised. "We are prepared. I’ve been preparing for this my whole life."
+
+"You can never be too prepared." Lucia knelt and began extracting vials from her pack. "Here. Crimson Vigor for Sion—it'll help you withstand the heat and any physical blows. Miranda,Guma,Yara—Skyward Clarity, enhances reflexes and vision."
+
+She continued distributing vials. When she reached Clive, she pressed a vial of pale gold liquid into his hand. "Steady Hand. Your pictomancy requires precision. Can't have the heat making you shake."
+
+“Thanks,” Clive took a quick gulp. The effect was immediate. The tremor in his hands from the heat vanished.
+
+[Status Effect Applied: Steady Hand]
+
+[Precision +15% for 180 minutes]
+
+"I can see why they brought you along," Miranda said, downing her own Skyward Clarity. “It’s certainly a unique blend. Can't say I had anything like this.”
+
+A brief walk more, and they reached the Dragon King. The lake of molten lava bubbled around them, casting everything in an orange glow.
+
+Prince Sion stepped forward.
+
+"Ignis Primus, Seventh King of the Dragons, First Flame of the Ashes. I am Sion Margaux, second son of Thordan Margaux, Prince of San Dioral. I have crossed the North Sea and walked through your domain. I stand before you now to request the ancient rite. Trial by fire, trial by will. I challenge you for the right to bond."
+
+The Dragon King's eyes narrowed, smoke curling from his nostrils. "Sion Margaux. Second son. Not first. Not heir by birth, yet you carry yourself as one who would rule. Tell me, princeling. Why should I grant you what your elder brother has not sought? Why should the Seventh King bind himself to a spare?"
+
+The prince's jaw tightened. "Because my brother will inherit a throne and a crown. I seek to inherit something far more difficult. The trust of a creature who has seen kingdoms rise and fall like tides. If you judge me by my birth order rather than my worth, then perhaps the legends have made you wiser than you actually are."
+
+The Dragon King's lips pulled back, revealing teeth the size of broadswords. He was smiling.
+
+"Better. Your ancestors groveled. You have pride." Ignis Primus rose to his full height. "Let us see if that pride burns... or if it endures."
+
+[You have initiated the Trial of Ignis ]
+
+[Ignis used Flare Breath]
+
+Blue fire erupted from the Dragon King's maw. The torrent of flame roared toward them like a tidal wave.
+
+"Scatter!" Miranda shouted.
+
+But Prince Sion didn't scatter. He planted his feet, raised his shield, and stepped forward into the inferno.
+
+[Prince Sion used Fortress Stance]
+
+[Physical Defense +50%, Magic Resistance +30%]
+
+[Prince Sion used Taunt]
+
+[Ignis attention locked on Prince Sion]
+
+"Come on then!" Sion roared. "Is that the best the Seventh King can manage?"
+
+The blue fire crashed against his shield. The flames parted around the shield, splitting left and right. Sion angled the defense, redirecting the torrent away from the party behind him. The residual fire scattered across the volcanic stone, superheating the ground.
+
+The Dragon King's tracked Sion's movement, his head turning to follow the prince as he shifted position to direct the flames away from the party. The blue flames cut off abruptly, and for a moment there was only the sound of Sion's labored breathing and the crackle of cooling stone.
+
+"You do not run." Ignis smiled. "Good. Dragons have no use for cowards."
+
+"Now!" Miranda's yelled. "While he's focused on Sion!"
+
+The Dragon King's back was turned toward the rest of the party, his attention locked on the prince. Miranda moved first. She sprinted towards it with Guma and Yara flanking her.
+
+They reached Ignis’ hindquarters and leaped, finding handholds in the gaps between his massive scales. Miranda climbed until she reached a junction point between two scales near the base of his wing and drove her blade downward with all her strength.
+
+[Miranda's attack dealt 0 damage]
+
+Her sword hadn't even scratched the surface. The scales were like fortress walls, impervious to conventional weapons.
+
+"Damn it!" Guma slashed at a different section, aiming for what looked like a softer spot near the dragon's shoulder joint.
+
+[Guma's attack dealt 0 damage]
+
+Yara tried next, targeting the membrane of the dragon's wing. Her dagger struck and rebounded.
+
+[Yara's attack dealt 0 damage]
+
+"Annoyance." The Dragon King's voice rumbled with displeasure. “But a fly will forever be a fly.” He swung his body, shaking off the trio. "Die, insects."
+
+[Ignis used Divebomb Command]
+
+The sound of beating wings filled the air.
+
+All around the crater, the watching dragons launched from their perches. Dozens of them rose into the ash-choked sky. Then they dove down.
+
+"Incoming!" Guma shouted.
+
+The first wave hit like a meteor storm. Dragons plummeted from above, pulling up at the last moment to unleash their breath. Fire, ice, and lightning crashed down in a devastating barrage.
+
+[Volcanic Drake used Fire Breath ]
+
+[Frost Wyrm used Ice Breath]
+
+[Storm Dragon used Lightning Breath]
+
+The ground exploded into shrapnel. Clive threw himself flat, feeling the heat of flames pass inches over his head.
+
+Beside him, Lucia screamed as a bolt of lightning struck the ground near her feet. “This was a bad idea.”
+
+"Dragon Knight formation!" Miranda barked. "Pattern Sigma!"
+
+[Miranda used Dragonslayer's Stance]
+
+[Bonus damage vs. Dragon-type enemies +35%]
+
+As a volcanic drake swooped low, Miranda jumped high into the air. She met the creature mid-dive, her blade finding the soft tissue beneath its jaw.
+
+[Critical Hit: Weak point struck]
+
+The drake shrieked and veered off course, crashing into the ground with enough force to crack the ground.
+
+Guma moved in tandem with her. A storm dragon dove at him. He waited until the last possible second, then sidestepped and brought his blade up in a rising arc.
+
+[Guma used Rising Fang]
+
+[Storm Dragon's dive interrupted]
+
+The dragon's momentum worked against it. Guma's strike caught it along the wing. The creature tumbled past him, unable to maintain altitude, and slammed into the crater wall.
+
+Guma grinned. "See? Technique still works!" He gestured at the downed drake, then up at Ignis. "It's not us. That bastard's scales are just on another level entirely."
+
+"Less talking, more fighting!" Miranda shouted as another wave began their descent.
+
+"I can do both!" Guma shot back, already repositioning for the next target.
+
+Beside them, Yara drew a heavy crossbow designed for dragon hunting. She loaded a bolt, tracked a frost wyrm circling for another pass, and fired.
+
+[Yara used Dragonpiercer Shot]
+
+The bolt punched through scales, embedding itself deep in the wyrm's shoulder. The dragon roared in pain and rage, breaking formation to retreat to a higher altitude.
+
+"Thank the gods," Lucia gasped, still shaking off the lightning's aftereffects. She fumbled for a healing vial. "I thought we were dead. These three actually know what they're doing. "
+
+"Of course we do!" Guma called back, already positioning himself for the next wave. "What did you think dragon riders do all day? Fly around looking pretty?"
+
+“Kind of.” Lucia muttered under her breath, though Clive was sure he was the only one close enough to hear it. She pulled out three more healing potions and tossed them. “Clive, get these to them.”
+
+Clive caught the vials and sprinted toward the dragon riders. He hurled it to them and painted a [Green Breeze] to power the potions to them.
+
+"Drink fast," he yelled.
+
+Miranda caught hers without looking. "Efficient. I like her."
+
+Guma and Yara followed suit, the red liquid working quickly to close wounds and restore stamina.
+
+[Party HP restored]
+
+"Much better," Yara said. "Tell your alchemist she's earned her keep today."
+
+"Tell her yourself!" Clive called back. "After we survive this!"
+
+While the dragon riders battled the aerial assault, Prince Sion remained locked in his duel with Ignis Primus. His breath was heavy, but his defence held firm.
+
+"You endure," Ignis rumbled. "Your companions fight well. But this trial is not theirs. It is yours."
+
+[Ignis used Form Shift]
+
+The Dragon King's massive body began to shimmer. His massive body compressed. When the light faded, a man stood where the dragon had been. In his right hand, flames coalesced into a greatsword of white-hot plasma.
+
+He dashed. One moment he stood twenty feet away. The next, he was on Sion, his burning blade descending in an overhead strike that would have split the prince from crown to groin.
+
+[Ignis Primus used Flame Strike]
+
+Sion's shield came up on pure instinct, but the strike split it cleanly down the middle. The two halves fell away, still glowing where the cut had melted through.
+
+[Prince Sion's shield destroyed]
+
+The impact drove Sion to one knee.
+
+"The eighth name on a list of failures." Ignis lowered his blade, turning his back on the kneeling prince as if the fight were already over. "Disappointing."
+
+But Sion wasn’t finished. His legs shook with the effort, but he pushed himself upright. He cast aside the ruined halves of his shield. He drew his spear and levelled it at Ignis’s retreating back.
+
+"For the sake of my kingdom…for the people who will stand against the darkness—" He shifted into a proper combat stance, spear held in both hands, point aimed at the Dragon King's spine.
+
+"—I will not fall here."
+
+Birth may determine where you begin. But only will determines where you rise.
+
+—Ignis Primus

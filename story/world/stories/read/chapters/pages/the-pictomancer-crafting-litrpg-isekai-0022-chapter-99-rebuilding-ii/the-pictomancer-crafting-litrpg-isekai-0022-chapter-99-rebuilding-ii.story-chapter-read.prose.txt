@@ -1,0 +1,101 @@
+The fire-damaged district lay in the west end of the city. Where the slums had suffered from neglect and earthquake damage, this section of Marblehaven bore the fresh scars of Sayid's lightning and the collateral fires that had raged in its wake. Entire blocks had been reduced to charred skeletons with wooden structures consumed so completely that only stone foundations remained.
+
+Bran consulted his map. "Forty-three buildings total. Seventeen completely destroyed, twenty-six severely damaged. We lost the cooper's workshop, two general stores, and..." He swallowed hard. "The children's home on Ember Street."
+
+"Casualties?" Clive asked quietly.
+
+"Miraculously few. Your lightning rods gave people time to evacuate. But the property damage..." Bran shook his head. "Many of these families have lost everything."
+
+Clive walked through the ruins, cataloging the devastation.
+
+A woman sat on the remains of her doorstep, sifting through ash with blackened hands. She looked up as they approached, her face streaked with soot and tears.
+
+"Looking for survivors?" Clive asked gently.
+
+"My daughter's doll," the woman said, her voice hollow. "She won't sleep without it. I keep thinking maybe it survived somehow, maybe in a corner where the fire didn't reach..." She trailed off, staring at the ash slipping through her fingers.
+
+Clive knelt beside her, his hand moving to his sketchbook before he consciously decided to help. "What did it look like?"
+
+The woman's eyes widened. "You're... you're the Pictomancer. The one who fought the Thunder God." She described the doll: cloth body, button eyes, yellow yarn hair, a blue dress with white flowers.
+
+The drawing took shape under his hands, each detail rendered with care. When he finished, he activated his [Draw] ability. The doll materialized in his palm, perfect and whole.
+
+"It won't be exactly the same," Clive said, offering it to her. "But maybe it will help."
+
+The woman took the doll, pressing it to her chest. "Thank you," she whispered. "Thank you so much."
+
+As they moved deeper into the fire district, more survivors approached. A man who'd lost his carpentry tools. A baker whose ovens had cracked beyond repair. An elderly couple whose wedding portrait had burned. Each request was small, personal, irreplaceable.
+
+Clive wanted to help them all, but Bran intervened.
+
+"Master Clive, you're depleting yourself," Bran insisted. "And while these gestures are kind, they're not solving the larger problem. We need to rebuild, and we need to rebuild smart. Otherwise, the next time Sayid attacks, we'll be right back here."
+
+Clive knew he was right. He forced himself to close the sketchbook, to stop drawing. The grateful faces of the people he'd helped were both rewarding and heartbreaking. He'd barely made a dent in what they'd lost.
+
+"Alright," he said, pulling out a fresh page. "Let's talk about fire-resistant architecture."
+
+He began sketching different building designs. "The problem with wooden structures is obvious. They burn. But you can't build everything from stone. It's too expensive, too slow."
+
+"Exactly," Bran agreed. "Stone is reserved for important buildings. The common folk can't afford it."
+
+"Then we need to think differently." Clive drew a building with a stone first floor and wooden upper floors. "Fire rises. If you have a stone base with proper fire breaks, gaps between buildings, stone walls between properties, you can contain the spread."
+
+He sketched firebreaks, wide streets that would act as barriers. "And look at your city layout. These buildings are too close together. The fire jumped from roof to roof because there was no gap. If you rebuild with spacing, with regulations about minimum distances..."
+
+"The merchants will complain," Bran said. "Less building space means less rent, less profit."
+
+"The merchants can complain to the ashes of their inventory," Clive said flatly. "This is about survival. Besides..." He drew quickly, showing a building with a stone facade and strategic use of clay tiles. "There are compromises. Use stone for load-bearing walls, wood for interior framing. Clay roof tiles instead of thatch—they're heavier but they don't burn. And here..."
+
+He sketched a water tower system, inspired by fire hydrants from LA. "Storage tanks at elevated positions throughout the district. Gravity-fed pipes that can deliver water pressure to fight fires quickly."
+
+Bran examined the sketch. "Remarkable. The capital has something similar, designated wells spread throughout the city for firefighting, but this is far more elegant."
+
+"How so?"
+
+"When a fire breaks out, the guards form bucket chains from the nearest well. It works, after a fashion, but drawing water while smoke chokes you and flames spread..." Bran shook his head. "It's slow. Chaotic. By the time you've drawn enough water to matter, the fire's often jumped to the next building.
+
+"But with elevated storage," Clive said, seeing where this was going, "the water's already there. Already pressurized. Open a valve and it flows."
+
+"Exactly!" Bran tapped the sketch enthusiastically. "No drawing, no hauling, no wasted time. And the pressure from that height, that alone would fight fires more effectively than any bucket brigade." He paused, adjusting his spectacles. "It's not just different from the capital's system. It's actually better. Much better."
+
+They walked to a relatively intact building that had survived the fires, a stone structure that had served as a bakery. Its thick walls had acted as a firebreak, saving the buildings behind it.
+
+"See that?" Clive pointed. "That baker accidentally did everything right. Stone construction, clay tile roof, and look—" He indicated gaps between the bakery and neighboring buildings, spaces the baker had used for herb gardens. "Natural firebreaks. This building should be your model."
+
+A group of workers had been following them, listening to Clive's explanations. One of them, a burly man with carpenter's calluses, spoke up. "Begging your pardon, Master Weston, but some of what you're saying... we can't afford it. Stone costs silver. Clay tiles cost silver. We're lucky if we have copper."
+
+Clive turned to face the workers. Their clothes were patched and worn, their tools old but well-maintained.
+
+"You're right," he admitted. "I'm proposing ideal solutions. But let me show you some practical ones too."
+
+He created a new model, this one of a building constructed primarily from wood but with key differences. "Earth-packed walls between the inner and outer wooden frames. Earth doesn't burn. It's not as good as stone, but it's a massive improvement over plain wood. And it's basically free. You dig it up from the ground."
+
+The carpenter studied the model. "And the weight? Won't the earth be too heavy?"
+
+"You'd need stronger framing, yes. But not that much stronger." Clive sketched quickly, showing timber frame designs with proper bracing. "And here's another trick, whitewash the exterior walls with lime. It's not just decorative. Lime is fire-resistant. Won't stop a determined blaze, but it buys you time to evacuate and fight back."
+
+"That... that we could do," the carpenter said slowly. "Earth, lime, timber—those are materials we can source locally."
+
+"And organize bucket brigades," Clive continued. "Not as good as a pipe system, but better than nothing. Keep barrels of water stationed at street corners. Train residents in fire response. In my world, we had volunteer fire departments—citizens who trained to fight fires in their neighborhoods."
+
+"We have the town guard," Bran said doubtfully.
+
+"Who were busy fighting Sayid while the fires spread," Clive countered. "You need redundancy. Multiple layers of protection."
+
+He spent the next hour sketching designs at different price points, from the ideal stone-and-pipe systems for the wealthy merchant quarter to practical earth-wall solutions for the poor districts. The workers asked questions, offered insights about local materials and construction techniques. Bran filled page after page with notes.
+
+"This will take months," Bran said finally, looking at the scope of the project. "Years, maybe. We'll have to retrofit existing buildings, redraw city plans, train workers in new techniques..."
+
+"Then you'd better start now," Clive said. "If Marblehaven is meant to be the first line of defence against Vandiel, then it should be built like it. The city must become a fortress, capable of withstanding any attack. Because Sayid will come back. And next time, he’ll bring more than lightning and fire. If the city isn’t ready…”
+
+He didn't need to finish the sentence. They all understood.
+
+The last area they visited was the wind-damaged district. This area was near the eastern edge, where the city met the cliffs overlooking the sea. It had once been the most picturesque part of town—colorful buildings with wide windows to catch the ocean breeze, flower boxes on every sill, wind chimes that sang in the salt air. Bernadette’s storm had savaged it.
+
+Roofs had been peeled away like paper, exposing the skeletal frames beneath. Windows were blown out, leaving fragments of glass on the street like scattered diamonds. Several buildings had collapsed, their walls pushed in by wind pressure they were never designed to withstand. Debris was everywhere—shutters, shingles, furniture, personal belongings scattered across blocks like a giant's tantrum.
+
+Amidst the rubble was Lord Thornwald, one hand shading his eyes against the sea glare as he surveyed the wreckage. He turned at their approach. "Clive, you’re here."
+
+Stone remembers. Wood forgets. But a city built with foresight? That endures.
+
+— Bran the Builder

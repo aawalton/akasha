@@ -1,0 +1,243 @@
+[HP +50]
+
+[MP+50]
+
+[Power level+50]
+
+[Clive Weston]
+
+HP:375
+
+MP:295
+
+Power Level: 290
+
+The notifications materialized in Clive's vision. Yet, again he’d gotten a sizable stat increase. From a single sparring match that had lasted less than five minutes. He remembered the early days, when he was grinding five point increases from Shadowhounds. Ten on an exceptional day. But ever since he'd advanced to the [Artist] rank, his stats were climbing at an exponential rate.
+
+A part of him felt a thrill of possibility. How much stronger could he become? The thought was intoxicating.
+
+“Clive—”
+
+The Grand General’s voice brought Clive back.
+
+Clive blinked, and the notifications faded. He turned to face Louis, whose carried an annoyed expression. The officers behind him wore various expressions ranging from impressed to concerned.
+
+“My apologies Grand General. I got carried away.”
+
+"So I noticed." Louis's gaze flicked to the scorch marks on the courtyard stones, then back to Clive.
+
+“We all got carried away. I was the one who challenged him.” Beside him, Prince Sion was already on his feet, brushing stone dust from his armor. The scorch mark across his breastplate was the only evidence he'd taken a direct lightning strike. No signs of electrical shock beyond some singed hair at his temple.
+
+Clive stared at him. A Tier III lightning spell, and the prince looked like he'd weathered a mild inconvenience. In contrast, when Sayid’s lightning had hit him, he turned into wobbling jelly unable to move. Just how durable was the Prince?
+
+"Your Highness," Clive said. "Are you certain you're uninjured?"
+
+Sion glanced at him. "Nothing serious. Though I'll admit, yours packed more punch than I expected. Felt like getting kicked by a horse. A very angry, electrical horse."
+
+"So. Care to explain why you two turned the courtyard into a crater field?"
+
+"A necessary evaluation," Sion said smoothly. "I wanted to assess our newest recruit's capabilities firsthand."
+
+Clive noted the deference in the prince’s tone. Seemed like the Grand General was still the superior, regardless of royal blood. Interesting power dynamics.
+
+"And?" Louis asked, his gaze moving between them. "Did he pass your evaluation?"
+
+"With flying colors. His tactical thinking is sound. He'll be an asset to the expedition."
+
+Louis studied them both, then shook his head. "Wonderful. I'm thrilled you've bonded through mutual destruction of property." He gestured broadly at the cratered courtyard. "Now, Your Highness, might I suggest you make yourself presentable? We still have a reception this evening with the Marblehaven Council, and you currently look like you lost an argument with a thunderstorm."
+
+Sion glanced down at his scorched breastplate and dirt-streaked face. "Fair point." He straightened, giving Clive a nod. "Clive. I look forward to seeing what else you can do."
+
+He strode off toward the estate, leaving Clive alone with the Grand General.
+
+Louis waited until the prince was out of earshot before turning his full attention to Clive.
+
+"As for you," he said. "We leave in three days. I suggest you use that time to settle any unfinished business in Marblehaven. Say your goodbyes. Tie up loose ends. Make your peace with whatever you're leaving behind. This expedition isn't a short patrol, Clive. Just make sure there's nothing here you'll regret not finishing."
+
+The forge hadn't changed. It’d been a long time since he was here, but the smell of coal smoke and heated metal still felt familiar. Clive stood in the doorway, letting the memories wash over him. It felt like yesterday that he learnt to make high-quality weapons. The experience of making mithril weapons with Garrett was something he would never forget.
+
+Garrett was at the anvil, working a piece of steel. The blacksmith looked up at the sound of footsteps. "Clive. It’s been ages. What brings you here?"
+
+Clive stepped closer, feeling the forge's heat wash over him. "I came to say goodbye."
+
+Garrett’s hammer paused mid-swing. "Goodbye?"
+
+"I'm leaving Marblehaven with the royal army. We depart in three days."
+
+The silence stretched between them, filled only by the hiss and pop of the forge fire.
+
+“The Grand General's doing, I assume?"
+
+"His request. My agreement."
+
+"Hm." Garrett wiped his hands on his apron, then moved to the workbench. He rummaged through a drawer. "Then you'll need this."
+
+When he turned back, he held something small in his palm. A whetstone, its surface worn smooth from decades of use. "Belonged to my father. Kept every blade in his battalion sharp." He pressed it into Clive's hands. "Take care of your tools, they'll take care of you."
+
+[Item recieved]
+
+Whetstone
+
+Weapon Dmg +10
+
+Durability regeneration increased
+
+Clive closed his fingers around the stone. "Master Garrett, I can’t—"
+
+"None of that." The blacksmith's voice was gruff. "You learned well, boy. Better than most apprentices I've trained, and you weren't even trying to be a smith." He clapped Clive on the shoulder, his grip firm. "Stay sharp out there. In every sense of the word."
+
+"I will."
+
+"One more thing. The whetstone’s a loan, not a gift. I’ll want it back.” His grabbed Clive’s shoulder. “So you make damn sure you return to give it back to me. Understood?"
+
+Something hot and tight formed in Clive's throat. He swallowed it down. "Understood."
+
+Garrett held his gaze for another moment, then released his shoulder and turned back to the anvil. He picked up his hammer. "Now get out of here before you make an old man weep. I’ve got work to finish.”
+
+Clive turned to leave, but before he could leave, Emma voice boomed across the room.
+
+“CLIVE!”
+
+She came running from the back room, and collided with him hard enough to nearly knock him over.
+
+"Whoa—" He stumbled back a step, catching his balance against the doorframe.
+
+"You're leaving?" Her voice was muffled against his shirt. “I heard you talking to Papa.”
+
+Clive steadied himself, then gently extracted her arms from around his waist. "Just for a while."
+
+"That's what people say when they're not coming back."
+
+"Emma." He met her gaze directly. "I promise I'm coming back. Your father just gave me his father's whetstone. I can't very well keep something that important if I don't return it, can I?"
+
+"You could just keep it."
+
+"I could. But then he'd track me down, drag me back here, and make me forge a hundred swords as punishment."
+
+Emma chuckled before wiping her eyes with the back of her hand.
+
+She hugged him again, fiercer this time, then pulled back and reached into her pocket. "Here." She pressed something into his palm, a small carved wooden horse, no bigger than his thumb. The craftsmanship was crude but earnest. "I made it. For luck."
+
+Clive looked at the little figure, at the careful knife marks where she'd tried to shape the mane.
+
+"It's stupid, I know. I'm not good at carving yet, and the legs aren't even—"
+
+"It's perfect." His voice came out rougher than intended. He closed his fingers around it carefully. "Thank you. I'll keep it safe."
+
+[Item recieved]
+
+Lucky charm (Handcrafted)
+
+Luck +10%
+
+A gift from someone who believes you'll return
+
+Emma's face brightened. "You promise?"
+
+"I promise." He slipped the tiny horse into his pocket, the one closest to his heart. "I'll keep it right here."
+
+She nodded. Then, she straightened up and wiped her face with both hands. "Okay. But you better write letters."
+
+"I'll write when I can."
+
+"Good." She stepped back. "And Clive? Don't do anything stupid."
+
+Despite everything, he almost laughed. "I'll try my best."
+
+She gave him one last fierce look then darted back toward the workroom.
+
+The Art Guild was his next stop. The converted warehouse still smelled of fresh paint and turpentine.
+
+A few heads turned at his entrance. Most of them young faces. Street children he'd taught to see the world through an artist's eyes. Some were bent over sketchbooks, others working clay
+
+"Clive!" Markus Gallentine waved him over. "Come check out our latest work. We’re almost done with the Thornwald commission."
+
+The statue stood on a raised platform near the center of the room, covered partially by a draping cloth. Markus pulled it aside with theatrical flourish.
+
+The Tuna was impressive. Life-sized, cast in bronze with silver inlay that caught the light like scales underwater.
+
+"The proportions are perfect," Clive said as he examined the piece. “Lord Thornwald will like it.”
+
+Markus grinned. "Lord Thornwald's going to lose his mind when he sees it."
+
+"And we have the commission from Lord Ashford as well." Tim Marsh appeared from behind a canvas partition. His first student, the boy who motivated him to create the guild in the first place. "He wants a relief sculpture for his entrance hall."
+
+Clive surveyed the art pieces around the room. New easels lined the western wall. A proper sculpting station had been set up near the north windows. Supply shelves, once bare, now overflowed with pigments, brushes, chisels, and materials he'd only dreamed of accessing during those first desperate months.
+
+He was proud of how far they had come. He remembered begging Lord Thornwald to fund the art guild, remembered the skeptical looks from nobles who couldn't understand why anyone would waste resources teaching street children to paint. Now those same nobles commissioned works from the guild, paid good coin for the privilege. The guild was self-sustaining now.
+
+Which made what he had to say even harder.
+
+"Markus." Clive's voice cut through the ambient chatter of the workshop. "I'm leaving Marblehaven for a bit. I'd like you to take care of the guild while I'm gone."
+
+The room went quiet. Conversations died mid-sentence. Brushes paused on canvases.
+
+Markus set down his brush slowly. "How long?"
+
+"I don't know. Weeks. Maybe months."
+
+“When?”
+
+“Three days.”
+
+"Dangerous?" Tim asked bluntly.
+
+"Probably."
+
+"Is it because of the royal army?" A younger voice from the back. Clara, one of the newer students. "There’s so many of them. Everyone's saying the kingdom's mobilizing."
+
+"Partially. The Grand General requested my assistance."
+
+"Requested," Markus repeated. "That's a polite word for conscription."
+
+"I agreed to go."
+
+"Why?" Tim's question came out harder than probably intended. "You built this place. We need you here."
+
+Clive shook his head. "Perhaps there was once a time when that was true. But you don't need me. Not anymore." He gestured around the room, taking in the half-finished commissions and students working independently at their stations. "Look at this place. When's the last time any of you actually needed my help with a piece? A month ago? Two?"
+
+"That's not the point—" Markus started.
+
+"It's exactly the point." Clive pulled the guild's master key from his pocket. He handed it to Markus. “This guild exists because of you guys.”
+
+Markus stared at the key like it might bite him. "Clive..."
+
+"Take it."
+
+Slowly, Markus reached out. His fingers closed around the iron. For a moment they both held it.
+
+"Very well," Markus said quietly. His grip tightened. "But I'm just the steward. I'll keep things running until our guild master returns."
+
+"I'm not your guild master anymore." Clive released the key. "You are."
+
+"No." Markus's voice was firm. "We'll hold it for you. You founded this place, Clive. That doesn't change just because you have to leave." He met Clive's eyes. "So you'd better come back to reclaim it."
+
+Around the room, heads nodded. Several students moved closer.
+
+"He's right," Tim said. "You can't just dump this on Markus and pretend you're not still part of what we built. We'll keep the guild running. But it's still yours."
+
+"All right," Clive said. "I'll come back for it."
+
+"You'd better." Clara piped up from the back. "Otherwise we'll track you down and drag you back ourselves."
+
+A ripple of laughter broke the tension. Students returned to their work, though Clive caught several surreptitious glances his way as they did.
+
+Markus pocketed the key. "Three days, you said?"
+
+"Give or take."
+
+"Then we'll throw something together. A send-off." He waved away Clive's opening protest. "Nothing elaborate. Just dinner. The guild members. Maybe some of the merchants who've commissioned work." His expression turned sly. "Unless you were planning to sneak out of the city at dawn without saying proper goodbyes?"
+
+"The thought had crossed my mind."
+
+"Well, uncross it. We'll meet at the Brass Griffin tomorrow evening. Don't be late to your own farewell dinner."
+
+There was no arguing with that tone. Clive nodded his acceptance, exchanged a few more words with students who'd gathered around, then made his way back toward the door.
+
+The afternoon sun hit him as he stepped outside, and he paused on the threshold, looking back one last time. The guild was in good hands.
+
+Now there was just one more person left to visit. The person who'd brought him to Marblehaven in the first place. Lucia.
+
+The master's final lesson is not in technique, but in departure. For only when the teacher steps away can the student truly understand what they have become.
+
+—Pedagogical Principles

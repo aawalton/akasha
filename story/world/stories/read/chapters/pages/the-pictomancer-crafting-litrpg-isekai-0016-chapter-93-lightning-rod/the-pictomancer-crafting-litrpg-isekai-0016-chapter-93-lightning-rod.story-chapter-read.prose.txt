@@ -1,0 +1,127 @@
+"What is a lightning rod?" Joshua stared blankly at Clive.
+
+Around them, the other mages had stopped their probing spells and shifted their attention to Clive with expressions ranging from curiosity to skepticism.
+
+Clive wiped rain from his eyes, trying to organize his thoughts. He knew how lightning worked from his Introduction to Physics 101 classes. But how would you explain centuries of electrical engineering to a world that viewed lightning as magic? Then again, most students thought of Maxwell’s laws as magic anyway. He would just have to translate physics into terms they could grasp.
+
+"It's a—" He paused, searching for the right words. "It's a tall metal structure, usually made of copper or iron, that you place at the highest point of a building or area you want to protect. The concept is simple. Lightning wants to strike something. It's going to hit the ground one way or another. So instead of letting it hit randomly, homes, people, whatever happens to be in its path, you give it an attractive target. Something it wants to hit more than anything else."
+
+Joshua grabbed his chin in thought, processing the explanation. "An intentional target. It might just work."
+
+One of the nearby apprentice mages moved closer. "But why would lightning strike one target over another?"
+
+"Because of how electricity works." Clive pointed upwards at the storm. "Lightning isn't random, even though it looks chaotic. When storm clouds build up electrical charge, that energy wants to reach the ground, to equalize the difference in charge between sky and earth. It searches for the path of least resistance, the easiest route to complete that circuit."
+
+“Well said,” Joshua said. “Though not exactly the words I would use.”
+
+The mage still looked confused.
+
+“There is a reason why lightning is not one of the six elements but is instead a subdivision of the air element. Lightning mages have to refine the air ether into positive and negative charges. It is only then that lightning manifests,” Joshua explained. “That’s why lightning magic is so rare. It’s a niche area that few study.”
+
+Positive and negative charges. Clive felt a surge of excitement. He wasn’t sure that lightning in this world would follow the same principles. But from the Archmage’s explanation, the science of lightning remained the same, even across worlds.
+
+“What do you need to create this lightning rod?” Joshua asked.
+
+Clive smirked. “The only thing I need, is time.”
+
+He took out his sketchbook, already analyzing, calculating, visualizing. Height-to-base ratios for structural stability. Conductor thickness for maximum current capacity. The angle of the grounding cable. Every detail that would mean the difference between a functional lightning rod and an expensive metal sculpture.
+
+His pencil touched paper and Clive began to draw.
+
+He started with the tip, the business end, the part that would pierce the sky and dare the storm to strike. Clive drew it sharp but not needle-thin. Too fine a point would melt under repeated strikes; too blunt and it wouldn't concentrate the electrical field effectively. He settled on a conical tip that tapered to a rounded point, maximizing surface area for charge accumulation while maintaining structural durability.
+
+At the base, he added a flared mounting plate, a circular disk three times the rod's diameter. This would distribute the weight, provide stability, and serve as the connection point for the grounding cable.
+
+Finally, the grounding cable. Clive drew it as a thick braid of copper wire spiraling down from the mounting plate. The cable would need to be buried deep, to reach moist earth where electrical charge could safely dissipate.
+
+[Draw: Lightning Rod]
+
+The lightning rod materialized, 24 inches in height, half an inch in diameter.
+
+[Level up]
+
+[Architectural Illustration Level 3]
+
+“Is that it?” the apprentice mage asked. “It looks like a metal stick.”
+
+“Sometimes that’s all you need," Clive's said, fighting the urge to launch into a lecture about the elegance in its engineering.  His professors would have approved, but this wasn't a classroom, and explanations could wait. "The important part is that it's metal and placed high up. The height attracts the strikes, the metal conducts them safely away."
+
+Thunder cracked overhead, punctuating Clive's explanation. A bolt struck somewhere in the city's eastern quarter, creating a white flash.
+
+“We should act fast,” Joshua said. “ The longer we delay, the more damage this storm will create. Every minute costs lives.”
+
+"We'll need dozens of these," Clive said as he drew a few more rods. "One on every tall structure in Marblehaven. The cathedral, the guild halls, the watchtowers, even some of the larger residential buildings in the upper quarters."
+
+"How many can you create?"
+
+Clive checked his remaining pages. Eight left, and dawn was still hours away. "Not enough..."
+
+"Then we start with the most critical targets. The tallest buildings first. That gives us the widest coverage area. Once those are protected, we work our way down to secondary structures." The Archmage turned to the assembled mages. "I need runners. Fast ones. And earth mages capable of securing these rods to rooftops." He pointed to three younger mages. "You three, start with the cathedral. Master Thom, take a team to the merchant quarter. Kella, the noble district is yours."
+
+"How do we attach them?" one of the mages asked, already moving toward Clive to receive his assignment.
+
+"Firmly," Clive said. "Drive them into the highest point of each structure. Chimneys, bell towers, wherever gives you maximum elevation. And make sure there's a clear path to the ground. The lightning needs somewhere to go after it hits the rod."
+
+The mages scattered into the rain, clutching the copper rods. Through the downpour, Clive could see them sprinting toward their assigned districts.
+
+Lightning struck the cathedral's southern transept, exactly where they'd been about to place a rod. The explosion sent stone fragments spinning into the night. One of the runners stumbled but kept going.
+
+"Faster," Joshua muttered, though whether to himself or the distant mages, Clive couldn't tell.
+
+"Cathedral is secure!" A runner staggered back into the courtyard, soaked and gasping. "Rod's in place, anchored to the bell tower's peak."
+
+"Merchant quarter reporting, two buildings protected!" Another voice from the rain-dark chaos.
+
+"Noble district, two manors complete, working on the rest!"
+
+Joshua pulled a map from his robes and marked positions with quick, decisive strokes. He paused, studying the marked locations. "It might be enough. The major structures are protected. Lightning should prefer those targets over smaller buildings."
+
+"Should," Clive echoed.
+
+"We'll know soon." Joshua turned to the remaining runners. "Last deployment. Western watchtowers get priority, then fill in gaps where you see them. Move!"
+
+The final mages vanished into the storm.
+
+"Now we wait," Joshua said quietly, as they both stared up into the sky.
+
+Lightning continued to fall, but something had changed. Clive noticed it first. The strikes were still frequent, still powerful, but they were becoming... concentrated.
+
+There, a bolt slammed into the cathedral's bell tower, right where they'd placed a rod. The copper flared white-hot for a moment, conducting the massive charge. The building shuddered but held. No explosion. The lightning had found its path and followed it, just as physics demanded.
+
+Another strike, this time hitting the merchant guild's headquarters. The rod absorbed it. The building survived.
+
+"It's working," Clive breathed. "It's actually working."
+
+The city was no longer being systematically destroyed. It was surviving.
+
+"Damage report," Joshua called to a mage who'd just returned from the eastern quarter.
+
+"Significant improvement, Archmage." The woman was breathing hard but grinning. "Lightning's hitting the rods almost exclusively now. Some buildings showing scorch marks where the current passes through, couple of cracked foundations, but nothing catastrophic. No new casualties reported in the last fifteen minutes."
+
+Fifteen minutes. Clive had lost track of time entirely, but fifteen minutes without deaths felt like a miracle.
+
+"The western watchtowers?" Joshua pressed.
+
+"All protected. Rods in place and functioning. One took three direct hits in succession and held firm."
+
+"You did it," Joshua said. "Now we just need to wait for Sayid to realize the futility of his storm. He can’t keep this up forever. Once he sees his lightning reduced to a minor inconvenience, he’ll realize he’s wasting power."
+
+"Will he return?" Clive asked, though he already suspected the answer. Men like Sayid didn't abandon vengeance just because one tactic failed. They adapted, evolved, and came back with something worse.
+
+"Undoubtedly." Joshua's expression hardened. "This was just an opening move, a test of our defenses, a demonstration of power, maybe a distraction from something else entirely. Sayid isn't the type to pour twenty years of planning into a single storm and then disappear when it fails. He'll return. Probably sooner than we'd like."
+
+Clive's first encounter with the Thunder God had ended in utter defeat. His lightning bolts were no joke, even the slightest contact resulted in complete paralysis. He'd barely survived the encounter thanks to Joshua.
+
+But how do you fight someone who could turn into lightning itself? It was absurd. Sayid could transform into pure electricity, moving at speeds that made defense nearly impossible. He could call down divine beasts that scattered into sparks when struck, generate magnetic fields strong enough to rip weapons from trained hands.
+
+Clive's [Artist's Eyes] tracked another lightning bolt striking the copper rod. The mechanism was simple. Give electricity a better path, and it follows without question. Natural law overrides magical fury.
+
+But what if we give it a path it can't take...
+
+The realization hit him. I know how to beat Sayid.
+
+Lightning might remember. But so do engineers.
+
+And engineers knew how to build things that last.
+
+—Pictomancer Clive Weston

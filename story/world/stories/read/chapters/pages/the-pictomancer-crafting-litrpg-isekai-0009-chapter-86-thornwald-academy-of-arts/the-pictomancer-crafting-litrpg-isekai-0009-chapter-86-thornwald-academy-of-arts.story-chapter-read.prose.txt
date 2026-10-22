@@ -1,0 +1,193 @@
+With funding secured, Clive made his way to secure the venue for his new guild. The warehouse owner's son, Emmanuel Crenshaw, lived in the textile district. When Clive knocked, it took three attempts before the door opened to reveal a man who looked like he'd been sleeping for the past two years—unshaven, clothes wrinkled, eyes red-rimmed.
+
+"Whatever you're selling, I'm not buying."
+
+"Actually, I'm here to buy. The warehouse on Cooper Street."
+
+Emmanuel blinked. "That dump? You serious?"
+
+"Two thousand gold." Clive withdrew a promissory note signed by Lord Thornwald.
+
+Emmanuel stared at him for a long moment, then laughed. "Two years I've been trying to unload that place. Two years of tax payments eating through what little Father left me. And now someone shows up at my door?" He rubbed his face. "Come in. We'll need to draw up papers."
+
+The transaction took less than an hour. Emmanuel had the deed ready, yellowed at the edges but legally sound. He signed it over excitedly.
+
+"You know the roof leaks in twelve places," Emmanuel said. "The north wall has dry rot. There's a family of something living in the third-floor ceiling. Rats or bats, maybe both."
+
+"I know."
+
+"And you're still buying it."
+
+"It has good bones. I can fix it."
+
+Emmanuel pocketed the promissory note, then paused at the door. "My father built that place from nothing. Started with a single wagon, ended with three warehouses." He looked back at Clive. "Whatever you're planning, I hope it lasts longer than his legacy did."
+
+After Emmanuel left, Clive stood in his warehouse. Shafts of afternoon light streamed through gaps in the roof, illuminating dust motes and bird droppings. The main floor stretched sixty feet wide and ninety feet long. The ceiling soared twenty feet overhead, supported by thick oak beams.
+
+He walked the perimeter, his [Artist's Eyes] cataloging damage. Water stains were abundant across the northern wall. Several floorboards had rotted through completely. The smell—mold, decay, and something that had definitely died in the walls—made his [Apothecary's Nose] rebel.
+
+[Property Acquired: Abandoned Warehouse]
+
+[Condition: Deteriorating (12% Structural Integrity)]
+
+[Renovation Required for Functional Use]
+
+[New Skill Tree Unlocked: Construction Management]
+
+Construction Management? Clive pulled up the skill interface.
+
+[Construction Management - Level 0]
+
+[Construction Management allows you to oversee building projects. Higher levels reduce costs, improve quality, and decrease construction time. Synergizes with artistic visualization skills.]
+
+Clive counted the broken windows. Thirty-two windows total, only eight intact. He needed to prioritize. Patch the roof first, then the walls, then windows. He pulled out his sketchbook and began drawing renovation plans.
+
+The next morning, Garrett connected him with Hans Mueller, Marblehaven's most reliable contractor. Hans arrived with two apprentices, all three wearing leather aprons filled with tools.
+
+"Garrett says you bought Crenshaw's disaster."
+
+"I prefer to think of it as an opportunity."
+
+Hans walked through the space, tapping the walls with a small hammer, listening to the sound. He climbed a ladder to inspect the roof beams, pulled up several floorboards to check the foundation. His apprentices took notes in shorthand.
+
+"This will require a bit of work. Two thousand gold to make it safe and functional. That's materials and labor, working dawn to dusk for three weeks."
+
+Clive winced. That would eat most of his remaining budget. He considered using his pictomancy to help with the material cost. Maybe draw some nails or a new window. With a limit of ten of a day, it might not help much, but every little bit helps. Clive had grown up frugal. Every opportunity to save gold was an opportunity taken.
+
+But he hesitated. He wasn’t sure how it would interact with his [Artistic Purity]. If he used his pictomancy to create infrastructure that helps his guild generate gold, would that violate the rules?
+
+[Certainty: Yes Clive, it does. That’s a no-go.]
+
+Damn. Clive cursed internally. Still, what if he could source the materials independently? Hans was likely to markup the material cost. All craftsmen did. He knew this from his experiences with electricians replacing his light bulbs. It was always cheaper to provide your own light bulb.
+
+"What if I provide the materials?" Clive asked.
+
+Hans raised an eyebrow. "You know suppliers?"
+
+"I have my ways."
+
+"Fine." Hans pulled out a different ledger, scratched some calculations. "One thousand gold for labor alone. But I'll need to inspect everything you bring. Substandard materials, and the whole structure could collapse in a year."
+
+"Fair."
+
+Hans tore a page from his ledger. It was a detailed list of materials. "Pine planks, two-inch thickness, no knots. Iron nails, three sizes. Window glass, quarter-inch minimum. Tar for waterproofing. Lime mortar." The list went on for two pages. "Can you get all this?"
+
+"Give me a day."
+
+Clive took the list straight to Lord Thornwald's offices at the harbor. The shipping magnate was reviewing manifests when Clive arrived.
+
+"Building materials," Thornwald said, scanning the list. "I can get most of this at wholesale prices. The Merchant Guild owes me several favors." He made notations next to each item. "Pine from the Nordheim mills, they just delivered a shipment. Glass from Brennan's workshop. Iron goods from..." he paused. "Actually, Garrett could provide those at cost."
+
+"I already asked. He's willing, but it would clean out his current stock."
+
+"Then we'll split the order. Half from Garrett, half from the Harbor forge." Thornwald tallied numbers. "Eight hundred gold for everything on this list, delivered tomorrow morning."
+
+Less than Hans's estimate. Clive knew he had made the right choice in having Lord Thornwald as a partner.
+
+The next morning, three wagons arrived at the warehouse. Clive helped unload while Hans inspected each delivery. The contractor ran his hands along the wood planks, checking for warping. He tested the nails between his fingers. He held the glass sheets to the light.
+
+"Better quality than I usually work with," Hans admitted. "This is good stuff."
+
+Work began immediately. Hans's crew stripped the damaged sections first, tearing out rotted wood and crumbling plaster. Clive watched, his Construction Management skill absorbing techniques.
+
+By the end of the first week, they'd replaced the roof. No more leaks.
+
+The second week focused on walls and floors. They discovered the "something" living in the third floor—a colony of messenger pigeons that had nested there for years. Hans wanted to clear them out, but Clive had another idea.
+
+"Leave them. Build proper roosts, add windows they can exit from. Messenger pigeons could be useful for a guild."
+
+Hans shrugged. "Your building."
+
+They sectioned off a corner of the third floor as a dovecote. The pigeons seemed pleased with the upgrade, cooing approval as Clive sketched perches into existence.
+
+[Achievement Unlocked: Friend to All Living Things]
+
+[+10% Reputation with Animal Handlers]
+
+[Messenger Pigeons Added to Guild Assets]
+
+During the renovations, children kept arriving at the construction site. Timothy brought friends, who brought siblings, who brought more friends. Soon Clive was teaching impromptu lessons among sawdust and scaffolding.
+
+"Is that safe?" Hans asked, watching seven-year-old Margaret balance on a beam while sketching.
+
+"Safer than the streets," Tim said. He'd appointed himself as informal teaching assistant, helping younger kids with basic shapes.
+
+By the third week, they'd moved to finishing work. Iron roses for window frames, brass birds for door handles. His [Artist's Eyes] guided the aesthetic choices while Construction Management helped optimize placement.
+
+[Construction Management - Level 3 Achieved!]
+
+[Project Planning: 47/100]
+
+[Resource Allocation: 89/100]
+
+[Worker Coordination: 34/100]
+
+[Quality Control: 72/100]
+
+[Renovation Efficiency +15%]
+
+Lord Thornwald visited on the final day of construction. He walked through the space slowly, examining everything. The main floor had been divided into teaching areas—one for drawing, one for painting, another for sculpture. The second floor housed supply storage and smaller practice rooms. The third floor contained offices and the pigeon roosts.
+
+"It's functional," Thornwald said. "But it needs furniture. Tables, chairs, easels."
+
+"I was planning to make those myself."
+
+"With your abilities?"
+
+Clive shook his head. "The old-fashioned way. Carpentry. What better way to teach traditional arts than practicing them yourself?"
+
+"That will take weeks."
+
+"Then the students can help. First lesson in how art requires patience and preparation."
+
+Thornwald almost smiled. "You're thinking like a teacher now. Good. The guild registrations arrived this morning. You're officially recognized as the Thornwald Academy of Arts." He handed over a rolled parchment with official seals. "There's a ceremony next week. The Mayor wants to make an announcement."
+
+"Ceremony?"
+
+"Politics, Clive. If we're investing this much, we need the city's backing. Smile, shake hands, and try not to get paint on your formal clothes."
+
+After Thornwald left, Clive stood alone in his warehouse—no, his academy. He could almost see it—easels arranged in rows, students bent over their work, the walls gradually filling with art.
+
+[Quest Complete: Establish an Arts Guild]
+
+[Rewards:
+
+[Guild Status:
+
+[New Quest: First Exhibition]
+
+[Objective: Hold a successful art exhibition within three months]
+
+[Reward: Full Guildmaster Status, Remove "Provisional" Title]
+
+Clive sat on a sawdust-covered crate, admiring his work. Then, he noticed movement outside. Tim pressed against the window, trying to see inside. Behind him, a dozen other children waited.
+
+Clive walked to the door and opened it. "Want to see your new school?"
+
+They flooded in, running through the space, their voices echoing off the high ceiling. Margaret found the spot where she'd been sketching during construction and announced it was "her place." Two boys discovered the pigeon roosts and immediately began making friends with the birds.
+
+"When do we start real lessons?" Tim asked.
+
+Clive looked at his empty academy, his provisional title. Then he looked at the children's eager faces.
+
+"How about now? First lesson: we're going to build our own easels. Anyone know how to measure wood?"
+
+Twenty hands shot up, even from kids who definitely didn't know.
+
+[Free Students: 20]
+
+[Weekly Upkeep increased to 70 gold]
+
+[Morale: Exceptional]
+
+The Thornwald Academy of Arts had begun.
+
+THORNWALD ACADEMY OF ARTSNow Accepting Students for Winter Term
+
+Learn the Timeless Crafts of Drawing, Painting, and Visual CreationUnder the Instruction of Master Pictomancer Clive Weston
+
+Located in the Former Crenshaw Warehouse, Cooper StreetThree floors of workshop space, natural lighting, carrier pigeon services
+
+"Art is not the privilege of the few, but the birthright of all"
+
+Inquire within or send correspondence via Lord Thornwald's officesLimited positions available

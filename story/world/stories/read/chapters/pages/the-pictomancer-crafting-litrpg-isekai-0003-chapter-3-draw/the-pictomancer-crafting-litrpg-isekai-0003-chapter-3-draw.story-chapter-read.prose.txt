@@ -1,0 +1,285 @@
+The sound of birds chirping in the distance woke Clive up. He felt cool grass beneath him and a gentle breeze carrying the scent of salt. Clive kept his eyes closed for a moment, savoring each sensation.
+
+When he finally opened his eyes, the sight took his breath away. The sky stretched above him in gradients of azure and cerulean, free of pollution from the modern day. A creature that looked like a cross between a hummingbird and a dragonfly darted past, leaving traces of luminescent dust that sparkled before dissolving.
+
+Clive sat up slowly, afraid to blink as he took in the sights. This world. It was beautiful.
+
+[You have entered the world of Euchronia]
+
+[Overview]
+
+Class: Pictomancer
+
+Rank: Apprentice
+
+HP: 100/100
+
+MP: 10/10
+
+Power Level: 10
+
+[SKILLS UNLOCKED]
+
+- Artist's Eyes (Passive): Enhanced visual fidelity to notice any detail in scene
+
+- Draw (Active): Create permanent constructs through sketching
+
+- Paint (Combat): Harness color theory to cast elemental spells
+
+[BACKGROUND TRAITS]
+
+- Obsessive Focus: Tends to channel all energy into a single pursuit. (+20% skill progression when working on a single project)
+
+- Artistic Purist: Driven by the pursuit of artistic truth rather than material gain. (Unable to manifest gold or any form of currency through skills, Unable to sell items manifested through skills)
+
+- Certainty’s Chosen: Chosen as the champion of the Goddess of Certainty. (???)
+
+The text hovered in his peripheral vision with a soft blue glow. Clive blinked, but the notifications remained.
+
+Beside him, he found a satchel. He opened it with interest, and more notifications popped up.
+
+[INVENTORY]
+
+- Graphite Pencil Set (Common)
+
+- Grades: HB, 2B, 4B
+
+- Effect: Medium for Draw skill activation
+
+- Watercolor Pencil Set (Common)
+
+-Set of 72 color pencils
+
+- Effect: Add color to Draw skill activation
+
+- Artist's Sketchbook (Common)
+
+- Pages: 10/10
+
+- Effect: Required medium for Draw skill
+
+- Special Property: Pages regenerate daily at dawn
+
+- Novice's Paintbrush (Common)
+
+- Effect: Basic tool for chromatic spellcasting
+
+- Quality: Enables basic-tier Paint abilities
+
+- Novice's Color Palette (Common)
+
+- Colors: 4/6 slots filled
+
+- Currently contains: White, Red, Blue, Yellow
+
+- Special Property: Can store mixed colors in empty slots
+
+What were all these?
+
+“Do you like it?” Certainty’s voice came from behind him.
+
+Clive spun around to find the goddess perched on a nearby rock. Her blonde twintails bobbed as she tilted her head, studying his reaction with undisguised glee.
+
+"What is this?" he asked, gesturing at the hovering text. "These... notifications. This 'system.' It's like I'm playing a video game."
+
+Certainty clapped her hands together. " This, my dear Clive, is my gift to you." She hopped down from the rock and skipped towards him. She tapped the air before him, causing the notifications to ripple like water.
+
+"I present to you — the system — the embodiment of certainty. In a world of guesswork and hope, you alone will know. Others might feel they improve, but you will know, see, and measure it with certainty."
+
+Clive crossed his arms. "I'd rather rely on my own effort than surrender my growth to some... external validation system."
+
+A knowing smile played across Certainty’s lips as she tapped his forehead with one slender finger. "The system doesn't create your talent, silly. It doesn't draw a single line or mix a single color. It simply... makes it impossible to lie to yourself about it.”
+
+Clive considered her words, rubbing his temple where her finger had landed. There was wisdom in what she said, even if he was reluctant to admit it. After a moment, he decided to move past his resistance.
+
+"These 'Background Traits,'" Clive said, pointing to the floating text. "Obsessive Focus? Artistic Purist? What are these? "
+
+Certainty's eyes lit up. "Describes you pretty well, don’t you think?"
+
+Clive studied the text again. "Obsessive Focus seems useful, a 20% bonus to skill progression. But this Artistic Purist...unable to create gold." He frowned. "It seems like a huge liability."
+
+"Well..." Certainty floated closer. "You never cared about money, did you? No matter how poor you were, you refused commissions that didn't align with your vision." She shook her head. "So stubborn."
+
+"It wasn't stubbornness," Clive protested. "It was integrity."
+
+"Semantics," Certainty waved dismissively. "The point is, you valued artistic truth over material gain. That carries over here too.”
+
+“And these skills," he said, pointing to the list floating before him. "Draw, Paint... they'll let me create real things? Actual objects?"
+
+“Why don’t you give it a try? Draw something.”
+
+Clive stared at the notifications, then back at Certainty.
+
+Draw (Active) - Create permanent constructs through sketching
+
+Almost against his will, he felt his resistance giving way to curiosity. What if she wasn't lying? What if his art could truly manifest in this world? The thought awakened a familiar hunger in his chest, the same desire to create that had once consumed his life. Only this time, perhaps, that obsession might lead somewhere extraordinary. Excited, he took out a pencil and sketchbook from his backpack.
+
+"Let's start with something simple," he muttered, gripping the pencil. His first thought was to sketch a weapon. Beautiful as this world was, he was a stranger in it. He needed to protect himself.
+
+[Skill: Draw activated]
+
+He sketched a handgun, the kind he'd seen in reference photos. He visualized a gun in his head. The curve of the grip, the angle of the barrel, every mechanical detail he could remember.
+
+[Draw skill analyzing sketch...]
+
+[Error: Critical knowledge missing]
+
+[Substituting with closest known reference]
+
+Light flashed, momentarily blinding him. When his vision cleared, the page containing the sketch was consumed, and a gun lay in his palm. But something felt wrong. Too light. He tapped it against a nearby rock, and it made a hollow plastic sound.
+
+[Item Created: Replica Handgun (Poor Quality)]
+
+[Durability: 1/1]
+
+[Effect: May startle weak enemies]
+
+[Note: "All appearance, no function"]
+
+[MP Cost: 1]
+
+"Damn it," he muttered, turning the useless replica over in his hands.
+
+"A gun? Really? That's your first creation?" She leaned forward to inspect the plastic replica with disappointment in her eyes. "How boringly practical."
+
+Clive frowned. "I thought I might need protection in a strange world."
+
+"Oh, Clive." Certainty floated around him, her pink dress fluttering in the air. "You're so American. Bang-bang, shoot-shoot." She mimicked firing a gun with her hand. "But really, what do you know about guns? Have you ever fired one? Disassembled one? Understood the mechanism of the firing pin and chamber?"
+
+"No… not really."
+
+"Art requires understanding." She tapped his forehead with a finger again. "You can't create what you don't comprehend. That's why your gun is just a toy. Your mind filled in the blanks with... well, blanks." She dissolved into giggles at her own joke.
+
+“Tch…” Clive clenched his jaw. He was annoyed, but he wasn’t sure if it was her condescending playfulness or the uncomfortable truth in her words. He tried sketching again, this time attempting to draw the internal mechanism, but his pencil hesitated. There was supposed to be a hammer, firing pin, and chamber, but their exact arrangement eluded him.
+
+[Skill Check Failed: Technical Knowledge Insufficient]
+
+[Suggestion: Begin with items you fully understand]
+
+Of course. How could he create something if he didn't understand its inner workings?
+
+Frustrated, he flipped to a new page. "Something simpler," he muttered. A dagger. Every artist had sketched such weapons for character designs.
+
+[Skill: Draw activated]
+
+His first attempt was quick, confident lines forming a classic dagger shape. Light flashed.
+
+[Item Created: Plastic Replica Dagger (Poor Quality)]
+
+[Durability: 1/1]
+
+[Note: "Looks can be deceiving"]
+
+[MP Cost: 1]
+
+The plastic dagger fell onto the grass. Clive picked it up, turning it over in his hands. The shape was perfect. He'd sketched enough fantasy weapons to get the form right. But the material was all wrong.
+
+"Two failures in a row?" Certainty's voice drifted from above. She was lounging in mid-air, chin propped on her hands as if lying on an invisible bed. "This is starting to get disappointing.”
+
+“You could help instead of just criticizing." Clive grumbled, not looking up from the plastic dagger.
+
+She righted herself and plucked the plastic dagger from his hands, examining it with exaggerated concentration. "Hmm, yes, I see the problem." She flipped it in the air. "It's plastic."
+
+"I can see that," Clive said through gritted teeth.
+
+"But do you know why it's plastic?" She tapped the dull edge against her palm. "This is a very important question, very important indeed. In your old world, you could draw a dagger and everyone would say, 'Oh, what a lovely dagger drawing!' But here?" She stabbed the air dramatically. "When your art becomes reality, you must understand the very essence of what you create."
+
+She tossed the dagger back to him. "You've seen thousands of daggers in your life. But have you ever seen one?"
+
+Clive stared at the dagger in his hand. What made his drawing turn out this way?
+
+The breeze rustled through the leaves above him, creating patterns of light and shadow across his face.
+
+Lighting.
+
+"That's it." He had an Eureka moment. Every material had its signature way of interacting with light. He'd been too sloppy, too keen to test [Draw] that he had only illustrated the silhouette and basic form.
+
+On a fresh page, he started again. This time, he worked methodically. First, the shape. Then, careful attention to the highlights. He thought of every metal surface he'd ever painted. Metal had a polished shine, creating much sharper highlights than plastic or wood. He focused on his lines, adding precise parallel lines to suggest the grain of forged metal and careful gradients along the blade's edge.
+
+[Draw analyzing creation...]
+
+[Material Properties detected: Metal Characteristics - Basic]
+
+[Crafting complexity increased]
+
+Light gathered around his sketch, more intense than before.
+
+[Item Created: Iron Dagger (Normal Quality)]
+
+Material: Cast Iron
+
+Attack: +10
+
+Durability: 20/20
+
+Damage Type: Piercing
+
+[Note: "Understanding materials is the first step to mastering them"]
+
+[MP Cost: 2]
+
+The dagger that materialized felt right. This was definitely metal. He tested it against a branch, and it cut clean through.
+
+[Experience gained: 35/100] [Achievement Unlocked: Budding Metallurgist!]
+
+[You've discovered how to differentiate material properties in your creations]
+
+[Reward: +65 EXP, Metalwork Illustration skill unlocked]
+
+["First step to mastering material manifestation"]
+
+[New Skill Branch: Metalwork Illustration - Level 1]
+
+[Allows basic understanding of metal properties in drawings]
+
+[Current materials: Iron]
+
+“Congrats, Clive, you’re finally starting to get it.” Certainty clapped.
+
+Clive smiled, feeling a deep satisfaction with himself.
+
+"So, I've unlocked a skill branch," Clive said, examining the notifications at the edge of his vision. "Metalwork Illustration."
+
+"One of many potential branches," she said. "Your artistic journey is like a great tree, Clive. Each skill branch represents a different direction your talent might grow. Will you focus on weaponry? Sculpting? Landscapes that come to life? Or perhaps creatures of your own design? The possibilities are endless."
+
+"And where does this journey end?" Clive asked. “How do I become an ascended?”
+
+The question had been burning in him since the Sea of Fragments. All he wanted was to find the perfect world for Jill and him. Everything else was just steps along the way.
+
+"You can barely materialize a dagger." Certainty's form began to shimmer, growing translucent at the edges. "It's too early for you to be asking such questions."
+
+"But—"
+
+"You have to learn to walk before you can run." She twirled her finger in the air, and notifications materialized. "Though I suppose I could give you some... direction."
+
+[New Quest: The Edge of Understanding I]
+
+[Main Objective: Create a Steel Dagger]
+
+[Reward: 1 Certainty Point]
+
+"Your current rank is [Apprentice]. Keep improving your craft, and you'll climb the ranks. Eventually, you might even reach ascended." Her voice carried a note of challenge. "If you're truly serious about it."
+
+Clive stepped forward. "Wait, what is this quest? And these ranks? How many are there?"
+
+"How many? Figure it out." She giggled. "That's half the fun."
+
+"That's not an answer." His words came out sharper than intended. He'd just been dropped into an entirely new world with a magic system he barely understood, and his patron deity was speaking in riddles. Why do these goddesses always speak in riddles?
+
+"You can't just—"
+
+But even as he spoke, her form began to shimmer at the edges, growing translucent like morning mist.
+
+"Trust me Clive," she said, her voice already sounding distant. The pink of her dress faded first, then her limbs, until only her torso remained visible. "As long as you follow my direction, I guarantee that you will certainly become an Ascended."
+
+"Certainty, wait!" Clive reached out instinctively, but his hand passed through empty air where she'd been floating moments before.
+
+Her body dissolved completely, leaving only her eyes suspended like twin pink stars against the blue sky.
+
+"I’ll be watching. We're always watching," the disembodied eyes whispered.
+
+Then they too winked out, leaving Clive alone with the gentle sound of wind through leaves and the floating quest notification that pulsed softly at the edge of his vision. He stood there for a long moment, staring at the spot where she'd been.
+
+Life gave me lemons. They wanted me to make lemonade. I told them no. And killed them all. With lemon grenades.
+
+-The book of Certainty 1:3

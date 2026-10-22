@@ -1,0 +1,237 @@
+John sat on his small living room couch. Across from him, metallic knees up to the small coffee table, Marvin sat quietly.
+
+The robot was fully repaired now, his chest sealed and leg servos tuned, with a new neon pink hand that sleeved over the gun barrel and could iris open when he needed to shoot. The droid sat perfectly still, optic unfocused as if he was lost in thought.
+
+John watched the aerial drone hovering over the apartment door. It hung in the dead zone above the frame where no one would look, silent enough to be unnoticed by anyone who didn't know it was there. The idea was that if someone forced their way in, it would challenge if appropriate and or, if needed, fire upon unwanted intruders. While reprograming the drone, John had set a whitelist in its targeting subroutines.
+
+Refitting the drone with a more robust guard protocol had all been relatively simple after John had installed some scrap speakers in its shell and written vocalization code.
+
+Additionally, if Claire or he walked in with a guest and their posture and voice read normal, the drone would stand down. On the other hand... if coercion cues tripped its updated emotional and body language parsing code John had written up, it would speak and then escalate.
+
+“Are you sure you’re not being paranoid?” Claire asked. She dropped onto the couch inbetween John and Marvin and tilted her head up at the drone. “I can’t even have friends over now without worrying that thing will shoot them.”
+
+She wore the new boots he’d bought her, loose pants in the current style, and a crop top that bothered him and made him feel like a much older old man than he was. He swallowed the impulse to say anything to her. He wasn’t her father. And the crop top wasn't scandalous by any means. He just didn't like seeing her getting older. Not to mention, he'd been there with Claire when she'd bought it; he hadn't had the heart to deny her what she wanted, considering she'd practically never gotten to buy new clothes before now.
+
+“It isn’t going to shoot anyone who doesn’t trip it,” John said. “If they’re with you and you’re safe, it'll know.”
+
+“Yeah... but, you taught it that, right? You sure your code is clean?” she asked.
+
+Claire had a pretty deep appreciation for programming, having expressed over the past two years that she wanted to eventually work in the field. Although, she didn't really have John's appreciation for robotics or cybernetics beyond being intrigued by the syntax that made them actually operate.
+
+Athena appeared in the kitchen doorway, leaning on the frame with a small smirk. Claire’s challenge of John and her own work seemed to amuse her somewhat.
+
+“I’m sure,” John said. “I’m no slouch on a keyboard, you know?"
+
+“You could have asked me to help,” Claire said.
+
+John didn't hate the idea of spending more time with Claire. But I might have to explain a lot, he thought to himself.
+
+“I just pushed my programming to expert. It's fine. Maybe next time?”
+
+Her eyes widened. “I’m only competent. When did that happen?”
+
+“The other night,” John said. "A competent programming proficiency is pretty impressive for someone your age, you know? You've only been doing it for, what, a year?"
+
+“Did you get any good skills when you tiered?” Claire asked, seemingly wanting to live vicariously through his own advancement.
+
+“Eh, I got one that boosts my Mind if I code for long enough. Pretty useful, could've unlocked something worse."
+
+“I wish I had that,” she said, no hesitation in her tone.
+
+“Keep studying,” John said. “You’ll get there and get something like it or better. Just remember, the skills you get for leveling up proficiencies is usually based on how you leveled it in the moment."
+
+“I still wish you’d let me help in the workshop.”
+
+He again considered what that would actually mean. Letting her see him in a focus trance that didn’t break for hours. Letting her notice how he never seemed to tire due to Athena's optimization of his sleep. He scratched his bearded jaw.
+
+“Most of what I do is just me messing with hardware,” he said. “More cybernetic tinkering than scripting.”
+
+“Mmm.” She hummed in a way that said wasn't completely convinced he wasn't holding out on her, or trying to shoot her down politely.
+
+“I’ll bring you down there more often when I'm actually coding,” he made the decision that spending time, and investing in her interested, was worth the risk of her asking questions and offered. "Maybe I can teach you something a few times a week."
+
+Claire had already moved on. She eyed Marvin’s bright hand and grinned. “I like his hand.”
+
+“It was his idea,” John said, not willing to take credit for the droid's taste in aesthetics.
+
+Marvin’s head turned toward Claire, optic tightening in a faint refocus. He didn’t gesture. He didn’t need to. The droid's sudden departure from what could only be interpreted as some sort of rest mode trance hinted that he liked Claire's compliment.
+
+“His idea?” Claire looked back to John after seeing
+
+“He's an older model,” John said. “Someone might have tweaked him. He’s got some quirky personality code.”
+
+“I’d love to see his scrips,” she said. “Maybe play with them a little too to see what I can get him to do.”
+
+Marvin’s robotic shoulders twitched a hair. John noticed and hid a smile.
+
+“He’s a combat unit,” John said. “You play too much with something like that for no reason, and I could end up shot in the back by mistake."
+
+“Fine,” Claire sighed, though she cast one more considerate look at the robot. “When is Uncle Kaijou getting here?”
+
+Marvin settled again, a hint of relief reading in the posture lines of his frame.
+
+“He pinged me a while ago. He'll probably be here any minute now,” John said.
+
+“Okay. I’ll be right back then.”
+
+"Okay. I've got to make a few calls real quick.""Are you calling Uncle Kaijou? If he said he's coming, I'm sure he is," she asked.
+
+"Nah. Just some business stuff."
+
+She gave him a doubting look and nodded. "Alright. Be right back."
+
+She stood and headed down the narrow apartment hallway. John guessed she needed the bathroom or she'd forgotten something she wanted for the day in her room.
+
+He opened and scrolled down his threadlink contact list in his cyberyee's HUD until he found a name he hadn’t looked for in a long time. He sent a short text to the threadlink identifier.
+
+<You still working at the same place?>
+
+He didn’t wait for an answer, didn't expect one to come too quick.
+
+Instead, John tapped Vexi’s threadlink contact next. The line rang for a few and then clicked alive.
+
+“John? Why are you waking me up?”
+
+“Yeah. Sorry. Guess it’s early, huh?” he said.
+
+“I was up all night.”
+
+He didn’t ask why she had been. With Vexi, there were too many possible answers and most of them involved solder and scrap cybernetics.
+
+“Me too,” he said simply. “I actually had an ask for you.”
+
+“That right? You give those assholes a bloody nose for me?”
+
+He thought of the Grin virus that had infected Vexi's systems when she'd tried to crack the transponder he’d sold her. It also made him think of the dungeon opening and the way the Grin seemed to have some kind of hand in it. He was still pretty sure he wanted to go into the dungeon; it was too lucrative an opportunity not too.
+
+But, he also still hadn't decided whether to clue Kaito in about the whole dungeon situation now that it overlapped with his enmity with the Grin. The vampire fixer could probably provide more or at least as many resources than the Retainers could, but he wasn't sure it was worth it. He was still working through the mental calculus, but he'd have to decide who to loop into his plans pretty soon.
+
+“I pissed them off,” he said. “Pretty bad.”
+
+“Good. Anyone who tosses around subjugation code like it’s candy deserves a boot to the teeth.” A pause. “So. What did you want from me, Ranson?”
+
+“Was wondering if you could get me some UV lights. Preferably industrial grade,” he said. “Some big units and maybe some handheld ones I could mount in some tech. The stronger the better."
+
+“Why do you think I have that?”
+
+“You have a lot of random shit, Vex. You're half a hoarder or more. Really, I just figured you could source it for me."
+
+“Maybe. But you remember that I don’t work for you, John, right? I'm just your jackdock."
+
+“Come on, Vexi. I’ll owe you. It's important."
+
+"Why is it important that you get UV lights? You trying to scare off some ghosts, or something?""Or something. You really don't want to know."
+
+Silence, then a resigned breath. “Fine. I’ll make some calls, but no promises, 'kay? Can I go back to bed now?”
+
+“You even actually in your bed?”
+
+“What kind of question is that?”
+
+“You’re sleeping in your surgery chair again, aren't you?" John asked.
+
+She didn't give him the satisfaction of a confirmation. “Goodnight, John.”
+
+“Night, Vexi. At least grab a blanket or something."
+
+The call clicked to an end.
+
+A moment later, the sound of knuckles rapped through the apartment door. Claire reappeared in the living room. Marvin’s circular, large optic moved to the doorway.
+
+John slid the door open with a threadlink-carried thought. Red filled the frame, broad shouldered and tusked, city clothes big and casual him his muscled body.
+
+“Hey!" Claire said, bright.
+
+“Hey, kid,” Red said, voice rising in tempo. “You ready?”
+
+“Yep.” She grabbed her bag from beside John and bounced up to the oni.
+
+John was already up and approaching his best friend. He and Red clasped hands.
+
+“Good to see you breathing,” Red said.
+
+“You too.” John nodded at Claire. “Thanks for taking her.”
+
+“No problem. Thought you’d be passed out, though?"
+
+“I got a little sleep earlier.” He exhaled, not mentioning that it'd only been a thirty minute nap following working on Marvin and the drone's code. “Was actually wondering if you might swing back by after you drop her off?"
+
+Red glanced at Claire, then back to John. “For what?”“So we can meet those people we talked about,” John said, implying the Retainers. “Maybe stop by the Old Man's first if he’s around. I pinged him to see if he's in the mood to deal."
+
+Claire squinted at her cousin's vagueness when speaking of the Retainers. “Who are you talking about?”
+
+“Don’t be nosy,” John said.
+
+“Hmph,” she said, clearly not impressed with his dismissal.
+
+“The Old Man is still working as far as I know,” Red said, his tusked mouth pulling into a small smile at Claire's pout. “If you want to meet the others too, I’ll want to get into some nicer clothes first.”
+
+The implication was clear, despite Red not wanting to worry Claire either: the oni wasn't walking into the Retainer's hideout with armor on.
+
+“Smart,” John said. “Works for me if it works for you?”
+
+"Sure," Red said and then tipped his chin at Marvin. “He new? You already spend what you just made on him?”
+
+“Nah. He was free, undercity find,” John said. “I just retooled him.”
+
+“Hope you scrubbed his drives too,” Red said. “Taking in strays from down there can end badly.”
+
+“He’s clean,” John said. "Already checked."
+
+I think, John thought to himself.
+
+When he'd hooked Marvin up to his terminal, John had found the droid's code to be pretty boring. Until he'd checked his behavioral protocols.
+
+To put it plainly, Marvin's personality code made almost no sense in either its syntax or mere existence, as in it was so complicated and extensive that it shouldn't have fit on the droid's memory banks. Moreover, a lot of the droid's behavioral code was actively editing itself. And some of it didn't even make sense to John, not in that it was too advanced for him to understand, though it was in placed, but in the fact that it shouldn't have done what it seemed to be trying to do.
+
+Athena had posited that the droid was likely somehow actively using its growing soulcore as a memory bank and an processor of its still-forming sapience.
+
+Besides giving him a headache over the technomagic bullshit that was the droid's code-expressed soul, the whole thing had really hammered a conclusion home for John: Marvin really was alive somehow, or he was at least very good at simulating being alive.
+
+“Huh. Well, I'm not going to question you on tech,” Red said to John shifted his attention back to Claire. “We should go, kid. Or you'll be late.”
+
+“Okay.” She hugged John, despite her earlier annoyance at him. “See you after school.”
+
+“Sure. Wanna maybe do a grocery run after school?” he asked. “So we can stop up on some of what you like too? Figure we need to fill the cabinets now that we can."
+
+“Really?” Her eyes went wide. “Should we spend that much?”
+
+“It’s fine. Stop worrying. You'll get wrinkles before you get out of college."
+
+“Whatever.” She smiled, then rolled her eyes at him. “I’m just going to get used to us having money.”
+
+“Go on and get going,” John said. "You're keeping Red waiting."
+
+“Okay. Love you,” she said and stepped out of the apartment, and followed Red out.
+
+“See you in a bit,” Red said before he left.
+
+John watched them walk through the lobby until they stepped out of view, then closed the door.
+
+He made his way to the kitchen to get a water, when a threadlink message blinked into his HUD. It was from the Old Man, otherwise known as Marcus--but no one called him that.
+
+<Been a while. Still working. Mostly odd hours now.>
+
+The message meant more than it led on by design. Coming from the Old Man, who was a bonafied veteran gun runner, It meant he was open to doing business if John was paying. And that he had some inventory.
+
+<Drinks in an hour or two?> John sent.
+
+It meant John wanted a meet.
+
+<You paying?" the Old Man replied, again seeking confirmation that John wasn't just meaning to window shop.
+
+<Sure. But you better be good company.> John replied, implying he expected some decent options if Marcus expected him to buy anything but that he did intend to buy.
+
+<Then yeah. Same place as last time.> A beat, then another message came through. <See you then.>
+
+<I’ll be there.>
+
+He closed the thread and looked at Marvin. “Looks like you’re probably getting that new gun after all.”
+
+Marvin lifted both his hands, pink and not, and clapped in excitement.
+
+“You’re so weird,” John said.
+
+Athena appeared on the couch next to Marvin.
+
+"You like him," she said, calling John out.
