@@ -1,0 +1,113 @@
+(So I was right! They’re eating Powerstones to level up!)
+
+I didn’t waste another second before pulling up their status screens.
+
+【Citizen Status】
+
+Name: Gopuro
+
+Race: Super Forest Goblin
+
+Rank: ★★
+
+Level: 11 (↑ +1)
+
+Vital Status
+
+HP: 300 / 300 (Max ↑ +50)
+
+MP: 30 / 30 (Max ↑ +5)
+
+Stamina: 67 / 300 (Max ↑ +50)
+
+Core Attributes
+
+Attack: 23 (↑ +8)
+
+Defense: 12 (↑ +2)
+
+Magic Attack: 0
+
+Magic Defense: 0
+
+Magic Capacity: 0
+
+Speed: 5
+
+*The arrows indicated changes compared to last time I checked their statuses.
+
+I checked Gopuran's status as well, confirming that she got the similar increase in her stats.
+
+(So per level they gain roughly +50 Max HP, +5 Max MP, +50 Max Stamina… and a whopping 10 points distributed across core attributes? That’s fantastic growth!)
+
+That immediately made me compare it to what I remembered of Gopuro’s earlier stats.
+
+When I had first saved him, he was only level 8 and had around 10 total attribute points. That meant each level from 0 to 10 had likely granted only 1 point, or at most 2.
+
+But now, the jump from level 10 to 11 alone had given him nearly as many attribute points as his entire progression from level 0 to 10 combined!
+
+The difference was absurd. No wonder the cost of leveling up had become so steep.
+
+In this case, it had taken 7 Powerstones to push Gopuro from level 10 to 11.
+
+That was equivalent to 35 Castle Points.
+
+By comparison, raising him directly from level 9 to 10 through [Lord’s Blessing] had cost only 12 Points.
+
+That aside, I should always use Powerstones if I wanted to level up my citizens, as it was far more cost-efficient this way.
+
+After all, as I had checked earlier, going from level 10 to 11 through the same skill would cost a whopping 100 Points. That was nearly three times more expensive than simply using Powerstones. And if I wanted to push him to level 12 after that, it would cost another 150 Points.
+
+(Hmmm… there really is a cost to everything. This Super Forest Goblin variant is powerful, but it demands far more resources to raise…)
+
+Satisfied with the results of my little analysis, I let them rest.
+
+I turned off the torchlight, leaving only the crackling firepit to provide warmth. They simply curled up on the wooden beds I had bought for them and went to sleep.
+
+****
+
+The next morning, I let the two goblins sleep in a little longer. Today would be a relaxing day for them, as I planned to spend most of the morning testing my [Quest Creation] skill.
+
+I began with small experiments that didn’t require their participation, mostly probing the hidden rules.
+
+Before long, the mechanics started falling into place quite smoothly.
+
+First revelation: I had previously assumed rewards were limited to items I already held in my inventory. That turned out to be only partially true.
+
+The restriction wasn’t strictly “things I currently possess,” but rather “things I can afford.”
+
+When I tried drafting a simple quest that rewarded 1 kg of chicken meat, even though I had zero chicken in my inventory at the time, the system still allowed me to generate the quest scroll. Upon closer inspection, a small note appeared in the reward section:
+
+[If, at the moment of completion, no chicken meat is present in the inventory, the cost will be automatically deducted from your Castle Points balance.]
+
+Even more surprising, I could offer rewards that didn’t physically exist at all—such as “Level +1” or “+1 to [Regeneration] skill level.”
+
+This worked because I possessed the [Lord's Blessing] skill, which let me directly raise citizens’ levels and skill levels. When I included such rewards in a quest, the system said that it would calculate the equivalent cost and deduce it from my balance at the time of quest completion, equal to the same points I would have spent using [Lord's Blessing] manually.
+
+However, I couldn’t offer direct increases to Core Attributes, such as Attack, Defense, Speed, etc, since [Lord's Blessing]’s scope was limited to only overall level and skill levels.
+
+But it also meant that if I ever acquired a skill in the future that could grant Core Attribute boosts, I would presumably be able to design quests around those rewards as well.
+
+Pretty nice.
+
+On the flip side, if I tried to offer something outrageously beyond my means, like… say, “Level +10”, the system simply refused to generate the scroll. This was because with my current Castle Points balance, there was no way I could cover the cost.
+
+And finally, I tested whether I could use items my citizens would gather during the quest as part of the reward itself.
+
+I drafted a quest: “Gather 10 twigs; reward: 5 twigs.”
+
+At that moment, I had no twigs in inventory, and the System Shop offered none for sale. The only realistic source of twigs was… the goblins themselves, collecting them during the quest.
+
+To my surprise, the system accepted it without complaint.
+
+(Cool!)
+
+(This will opens up so much flexibility!)
+
+Just then, Gopuro and Gopuran woke up at almost the exact same moment, as though they shared an internal alarm clock. For a brief second they looked drowsy, blinking sleepily… but within two heartbeats, both sprang out of bed, alert and refreshed!
+
+Gopuro dropped into a quick set of push-ups while Gopuran stretched her arms and legs.
+
+(Perfect timing, you two!)
+
+With my test subjects awake and ready, it was time for the next round of experiments!

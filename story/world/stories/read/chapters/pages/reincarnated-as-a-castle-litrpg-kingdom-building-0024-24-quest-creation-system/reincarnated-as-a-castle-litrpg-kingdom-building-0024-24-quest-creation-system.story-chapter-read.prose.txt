@@ -1,0 +1,89 @@
+First things first: I needed to give them names.
+
+With hundreds, maybe even thousands, of creatures potentially flocking to my castle to become citizens in the future, I knew I needed a proper naming system. It was for my own sanity. I wanted to look at a name and instantly know what race I was dealing with. Otherwise, things would get chaotic and confusing very quickly.
+
+Technically, the most efficient method would be labeling them Goblin 1, Goblin 2, Goblin 3, and so on. But that felt too boring and lazy. These were my citizens now — I needed to at least put in some effort and make it feel personal.
+
+In the end, I settled on the prefix "Gopu." From now on, every goblin citizen I acquired would be named "Gopu-[Something]."
+
+The first two ended up as Gopuro (the male) and Gopuran (the female). Simple, nice, and kinda cool! I liked them.
+
+With the naming ceremony out of the way, I finally moved on to test [Quest Creation].
+
+I activated the skill and studied it for a quick moment.
+
+Turns out, it was far more complicated and interesting than I had expected! The instructions were surprisingly clear and detailed.
+
+This made me wonder… could it be that this System was actually created by multiple different entities?
+
+After all, the one who gave me the [Citizenship Granting] skill was absolutely terrible at explaining anything, forcing me to figure everything out through painful trial and error.
+
+However, the one who designed [Quest Creation] seemed to be very good at explaining things properly.
+
+(Now that’s some interesting thought…) I mused.
+
+****
+
+Anyways, when I activated the [Quest Creation] skill, a blue form floated before my mind’s eye.
+
+[Quest Form]
+
+Quest Name
+
+Prerequisite (Optional)
+
+Quest Info
+
+Quest Type
+
+Objective
+
+Reward
+
+Penalty (Optional)
+
+Quest Name, Prerequisite, and Quest Info were pretty self-explanatory. For Quest Type, I was presented with many useful options. It could be One-Time, Repeatable, Periodic, Chain, or even Group Quest.
+
+If I set a quest to Repeatable, I would only need to fill the form once and have it run automatically forever. That was pretty neat!
+
+I could also set up a chain of quests, just like in classic RPG adventure games.
+
+Then, for Objectives, the System recommended I make them as specific as possible.
+
+And that made sense.
+
+If I set the objective too vague, like “Chop some wood,” the System might not recognize it as complete. But if I set it as “Chop 30 Units of Wood within 2 Hours,” the System could track it automatically, and the citizen would have a much better idea of exactly what I wanted.
+
+And finally, the Reward section…
+
+(Huh? What the hell is a Powerstone?)
+
+I could also put things like meat, resources, or equipment as rewards. Basically, anything inside my inventory. But the System strongly recommended using something called “Powerstone” as the reward.
+
+(But what the hell is a Powerstone? Do I even have a Powerstone?)
+
+Just when I was wondering about that, another notification came.
+
+[Ding!]
+
+[Your Powerstone Balance is: 0]
+
+[Would you like to convert Points into Powerstones?]
+
+And with that, a conversion window opened.
+
+[Conversion Menu]
+
+You can convert your Points into Powerstones.
+
+Powerstones can be exchanged for Points or vice versa at a fixed rate.
+
+System Fee: 10% (Automatically taken off balance after every 100 Points converted).
+
+Exchange Rate: 5 Points → 1 Powerstone (F).
+
+The powerstone icon showed a small, glowing white crystal. And when I focused on it, the description popped up.
+
+[Powerstone]
+
+Description: The materialization of Points in the real world. Contains the essence of power and magic, with endless potential. Wanted by all beings and creatures in Azef.

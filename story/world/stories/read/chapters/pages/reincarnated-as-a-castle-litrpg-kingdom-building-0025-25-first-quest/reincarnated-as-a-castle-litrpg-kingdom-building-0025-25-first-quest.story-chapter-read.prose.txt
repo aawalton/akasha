@@ -1,0 +1,105 @@
+Since I had some Points to spare, I exchanged 25 Points for 5 Powerstones.
+
+Points Remaining: 66
+
+I moved on to creating the quest by filling in the remaining lines of the form.
+
+[Quest Creation Form]
+
+Quest Name: Wood Gathering Quest
+
+Prerequisite: None
+
+Quest Info: Collect wood from the surrounding forest to help build and expand the castle.
+
+Quest Type: Repeatable
+
+Objective: Gather 100 Units of Wood from the forest, and drop them within the castle territory.
+
+Reward: 1 Powerstone (F)
+
+When I entered 100 Units of Wood as the objective, the System recommended a reward of 0 to 1 Powerstones. But when I increased the requirement to 200 Units, the recommendation shifted to 0 to 2.
+
+(Wait, a 0 Powerstone reward? Is that even possible?)
+
+But after thinking for a second, I understood why.
+
+The goblins saw me as some kind of powerful being. I had not only saved their lives, but also helped them evolve. So even if I offered no wage at all, they would probably still accept the quest.
+
+But... I wasn’t that heartless a ruler.
+
+They were my citizens, not slaves. They deserved fair pay.
+
+By my calculations, I could get back 20 Points if I sold all 100 units of wood back to the System. That was equivalent to 4 Powerstones, so paying 1 Powerstone for the labor was like giving them a 25% share of the return, which seemed pretty fair.
+
+And if they performed the task well, I might even consider giving them performance bonuses later.
+
+Not to mention, the profit would eventually be reinvested into the castle to improve their lives.
+
+(Yeah, let’s go with it!)
+
+Once everything was set, I hit the [Create Quest] button.
+
+[Are you sure you want to create this quest?]
+
+[Warning: Once a quest has been issued, it cannot be modified unless you take it down. Once it has been accepted, it can no longer be modified or canceled!]
+
+I paused to read the warning.
+
+So basically, no take-backs.
+
+I needed to be careful. Imagine accidentally adding an extra zero and paying ten times the intended reward. On top of that, the rule also ensured that I could never scam my own citizens by canceling a quest right before they turned it in.
+
+(Tch, I’m not that evil, you know!) I muttered to the System.
+
+Finally, I double-checked the quest details to make sure everything was correct before hitting [Confirm].
+
+The moment I did, a scroll icon appeared in my vision. The quest text swirled into it, and a second later, a physical scroll materialized inside my inventory.
+
+Its description perfectly mirrored the quest details.
+
+Now came the next question:
+
+How exactly was I supposed to distribute it?
+
+[To issue the quest, either give it to a citizen or post it on a flat surface.]
+
+[If you give the scroll to a specific citizen, it will be assigned to them only.]
+
+[If you post it on a surface, that surface will become a Quest Board. Anyone who sees the paper can accept the quest.]
+
+(Alright!)
+
+I did as instructed, focusing on the wall.
+
+A sheet of paper suddenly materialized on the stone surface, displaying the quest details in neat writing. A sharp DING! echoed through the room, not just inside my head, but loud enough for the goblins to hear.
+
+Gopuro and Gopuran perked up, their heads snapping toward the wall.
+
+They scrambled to their feet and hurried over to the notice, spending a solid minute staring at it.
+
+"Ooo! Wara wara!" Gopuro exclaimed, his eyes widening and sparkling with excitement.
+
+Gopuran was no different. The moment she finished reading, she looked just as thrilled.
+
+The two goblins placed their hands on the paper.
+
+[Ding!]
+
+[Gopuro has accepted your "Wood Gathering Quest" quest!]
+
+[Gopuran has accepted your "Wood Gathering Quest" quest!]
+
+(Nice!)
+
+Excitement surged through me.
+
+(But wait a minute!)
+
+It only hit me then.
+
+The text on that scroll was written in English. How the hell could the goblins understand English?
+
+(Is this the System's doing?)
+
+(If the System can make the goblins understand English, then it must also have some way for me to understand Goblish, right?)
