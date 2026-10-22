@@ -1,0 +1,161 @@
+With a bronze rank secured, Vivi wasted no more time in tying up loose ends. She had put off the Quest for too long already, simply out of sentimentality.
+
+Thus, she wrapped up discussions with Elise, met Remy, received his stunned and disbelieving approval, and then teleported the two siblings over to Vanguard. After signing him on as an adventurer and Elise as staff, Vivi warped to the Eastern Kingdom and scooped up Shel Donovan, Petra's prior apprentice.
+
+Malach had been handled earlier that morning, as agreed upon, which left the last three crafters. Unsurprisingly, each had accepted the offer to join Vanguard the moment Rafael presented it. The steward wouldn’t have pursued anyone he wasn’t certain would accept. Rhek Verontell, the grumpy leatherworker, was the last individual to be signed on, officially completing the Quest.
+
+The old parchment that Rafael had brought in from the common room burned with golden fire for three spectacular seconds, washing the room in vibrant yellows, then smoldered down into not so much as a dusting of ashes.
+
+“That's that, then,” Vivi said, the gathered individuals all looking at the empty spot on Rafael’s desk where a scroll had once lain.
+
+“You got the Codex out of the last one?” Saffra hesitantly ventured. “Any idea what the next will be?”
+
+“I honestly couldn’t guess,” Vivi replied. The Codex was one of the most powerful artifacts in the world, so far as she knew. Certain plot-related items she remembered from the game’s campaigns could rival it, though none of those belonged to her, and even if she hunted them down, they would come with drawbacks or troublesome prerequisites. That this relatively simple mission might provide a second piece of legendary equipment was both ridiculous and, admittedly, exciting. Because she was far from immune to the allure of shiny new gear. “But let’s go find out,” she finished.
+
+“Thank you for your time, Master Leatherworker,” Rafael told the craftsman, reaching out to shake his hand. “We have some tasks to attend to, but we look forward to working with you in the future.”
+
+Vivi glanced at the dwarf. He had stayed quiet, grunting or giving gruff replies as needed. The demeanor wasn’t entirely new; she had noticed the change the moment he had realized who she was, back during that crafting project of theirs. She could only assume that his methodology for ‘being on best behavior’ was keeping his mouth shut.
+
+They said their polite goodbyes, and Vivi, Rafael, and Saffra left the steward’s office, parting from Rhek Verontell. The party of three trekked to the guild’s vault. Even Rafael’s steps were brisk—he wanted to know what they would find as much as Vivi did. Yet no doubt for different reasons. She was curious about what world-shaking powers an artifact derived from the Reaper of the Lost Harvest might possess. Specifically, how it might be used to make casting more interesting, though she knew she shouldn’t jump to conclusions. It might not even be functional for mages. She’d likely gotten lucky with the Codex, it being a magic user’s dream item. Rafael, on the other hand, knew the artifact would introduce opportunities one way or another. Complications, depending on what it did. An item that powerful could create fear in important people, or change the conflict against the void threat somehow. Or who knew what else?
+
+The steward pulled open the vault door and bowed slightly while gesturing for Vivi and Saffra to enter. They did so.
+
+Centered a few feet in front of the opposite wall where the holder of the Codex had once sprouted was a pedestal that had certainly not existed the last time she had stepped into the vault. Atop that stone stand sat a cup carved from bone, red and amber gems adorning its intricately etched sides.
+
+Vivi’s first instinct was to [Inspect] the item, and she indulged. A screen flashed into existence, which she read with interest.
+
+***
+
+The Chalice of Withered Plenty
+
+Legendary
+
+Lv. 2000 (Lv. 0)
+
+Description
+
+Drink deep of a bounty not yours.
+
+***
+
+She digested the name and description, then huffed. “That’s definitely an artifact of the Reaper’s,” she said dryly. “I see it’s keeping to the ominous tone the Codex set.”
+
+“I question whether an item whose base is a Cataclysm could be anything but menacing,” Rafael remarked.
+
+“Um,” Saffra said. “Am I allowed to [Inspect] it too?”
+
+Vivi glanced at the girl in surprise. “Of course you are.”
+
+“You asked me not to with the Codex,” Saffra explained. “But I guess that’s just because I didn’t know who you were yet. Just wanted to check.” The girl peered at the cup, squinting, and clearly pulled up its name and description. She froze, eyes widening at what she saw. “Oh. That’s… interesting. What does it mean?”
+
+“‘Drink deep of a bounty not yours’?” Vivi quoted. “I’m not sure.”
+
+For reference, Vivi pulled out the Codex and [Inspected] that too, just to see if any similarities jumped out at her.
+
+***
+
+The Codex of the Hollowed Sun
+
+Legendary
+
+Lv. 2000 (Lv. 0)
+
+Description
+
+Consume it all, for come what may.
+
+***
+
+But while the book’s description gave vague clues on what it might be used for, it certainly didn’t illuminate anything in clear terms. She had needed to use her magical intuition to deduce the Codex’s purpose, and the Chalice probably wouldn’t be any different.
+
+“Let me see if I can find anything out,” Vivi said, striding up to the pedestal. She raised her staff and cast a series of analysis and detection spells, the same sequence as she had with the first artifact. She hardly believed a Mythic Quest would deliver a cursed item to her, but with such a sinister name, description, and appearance, she felt obligated to check.
+
+When those spells returned no warnings, she gently gripped the stem of the elegantly carved, bejeweled chalice of bone. Power thrummed through the artifact, but unlike with the Codex, she felt no immediate intuition on what its purpose might be. The Codex had cried out to be opened and linked to, and for mana to be poured in.
+
+“I can feel… that it’s empty,” Vivi said slowly. But even her impressive instincts failed to explain more than that. Perhaps because the Codex had been an inherently magical item—working with the flow of mana at its foundation. A mage’s tool. She didn’t think the chalice was the same, which produced some disappointment.
+
+But don’t jump to conclusions, Vivi. It’s probably nothing to scoff at.
+
+Rafael walked up, looked inside the cup, and raised an eyebrow. “Anything else, my lady?”
+
+She tried sensing the item’s purpose a second time before reluctantly shaking her head. “No. But it needs to be filled. And once it is… I’m not sure?”
+
+“One could drink from it?” he suggested.
+
+“It is a cup.”
+
+Not that an item’s physical design guaranteed any particular usage. Combined with the description, though, the idea seemed promising.
+
+“Question is, how do we fill it?” Vivi extended her magical senses into the Chalice one more time, but even forceful probing provided no intuitive link. It definitely didn’t work like the Codex. “And what does it actually do when drunk from?”
+
+“We could logically extend our previous deductions,” Rafael began slowly, “and assume that these Quests—the artifacts they yield—are being provided by the Grand System with explicit purpose to aid in the fight against the otherworldly threat. Perhaps aid you in particular, my lady. But even with that in mind, I could invent a thousand theories for what might ‘benefit you.’ We know too little to make a useful guess.”
+
+“Experimentation will get us somewhere faster. We’ll just fill it and see what happens.” She didn’t want to blindly experiment with such a powerful item, but with the Codex having proved its usefulness and, more importantly, non-maliciousness, she didn’t find the concept too uncomfortable. “Where do we even start with that?”
+
+“Killing monsters?” Saffra suggested.
+
+Vivi and Rafael glanced at her.
+
+“That just seems like the most obvious way to fill up the evil cup of stolen bounties, or whatever,” the girl said, flushing. “Or is that too obvious?”
+
+“It’s a good starting point,” Vivi said thoughtfully. She told Rafael, “I’m assuming you want to come with?”
+
+“Technically, if I’m not needed, I should return to my work.” His words were amused, and he held a hand out. “I am nevertheless mortal. My curiosity wins against my pragmatism.”
+
+Vivi touched her fingers to his, and Saffra linked too. One [Greater Warp] later, and they popped back into existence in a field of swaying yellow, orange, and red grass that would easily flow up to a man’s chest. Or cover me entirely. Vivi mentally wrinkled her nose at the unflattering thought.
+
+The Emberblade Fields—specifically where the Convoy had derailed. Despite how little time had passed, the scenery’s damage had mostly healed, the tall, multicolored grass reclaiming the tracts of dirt the train had torn up. She had no particular reason for choosing the destination; it had just been the first hunting grounds she’d thought of. Anywhere worked.
+
+“[Detect Presence],” Vivi incanted.
+
+Finding the nearest monster, she wrapped her party of three in [Fly] spells, then used [Blink] to drag them to where she had sensed the beast. Now floating a few dozen feet off the ground, she looked down at the wolf-like creature, then at the Chalice of Withered Plenty, which had yet to respond to any recent events—not that much had happened.
+
+A sudden worry struck her that they might experiment all day or week and not figure out how it worked. Surely if it’s weird or obscure, the description would’ve been clearer.
+
+“[Pyroclastic Blast],” she incanted.
+
+A spear of orange-hot molten rock manifested and slammed downward, eradicating the wolf monster beneath them in the blink of an eye. If Vivi hadn’t been watching so carefully, she might have missed it. A thin strand of red essence, a thousand times finer than spiderweb, flew up from the creature’s corpse and struck the cup. The smallest imaginable infusion of mana pulsed—nearly imperceptibly—through the artifact.
+
+After a moment of silence in which Vivi frowned at the artifact, Saffra asked, “Did… anything happen?” The girl’s eyes flicked between the chalice and the smoking crater Vivi had created. Saffra obviously hadn’t seen what Vivi had.
+
+“Yes, actually.” She tilted her head to the left as she studied the cup. “But whatever it was, it was so faint even I could barely sense it. I think it did fill up slightly, though.” Her brow furrowed. “At that rate, even if I killed more of those monsters than exist in the world, I doubt it’d reach a quarter full.”
+
+Rafael, oddly, straightened his posture at hearing her words—then his eyes narrowed in clear suspicion. Vivi recognized a man who’d formed a theory, and a theory by Vanguard’s steward was more reliable than most. It seemed that there’d been a practical reason to bring the man along.
+
+He saw her looking expectantly at him and dipped his head. “Indulge me a moment, Lady Vivisari. Give the chalice to your apprentice.”
+
+With a hint that significant, an immediate suspicion of her own formed, but she didn’t voice it aloud. Saffra, blinking in surprise, accepted the cup when Vivi handed it to her. A moment later, they had teleported over to another monster—lower level, appropriate to Saffra’s.
+
+“Just kill it?” the girl asked.
+
+“At your leisure,” Rafael responded.
+
+Vivi strained her mental senses as Saffra pulled her staff out of her inventory and began inscribing [Scorchlance]’s design into the air. The concentration turned out to be unnecessary, because once the javelin of flames erased the monster, thick, gushing waves of that previously spider-strand-thin red essence poured from the beast’s smoking remains and slammed into the cup—impossible to miss, probably even for Saffra herself.
+
+The cat beastkin, meanwhile, stiffened like she’d been yanked upward. Every inch of her posture screamed tension.
+
+“What is it?” Vivi asked, immediately concerned.
+
+“You didn’t feel anything when you did that?” Saffra asked, alert but not panicked, which put Vivi halfway at ease.
+
+“No. I didn’t.”
+
+The girl slowly relaxed, though it seemed like she forced herself to. “I… it felt like…” She trailed off, then clutched a hand to her chest and shivered. “Like something was… taken from me?”
+
+Rafael made a noise of satisfaction despite the ominous words, and Vivi frowned. Because with a statement like that, her own theory—which was no doubt Rafael’s to begin with—had been all but confirmed.
+
+Saffra looked into the cup and blinked. “There’s something inside it now.”
+
+With how much essence Vivi had seen fly toward the chalice upon the monster’s death, she would have been surprised if it hadn’t filled. Saffra handed over the cup. Indeed, Vivi saw several droplets of red liquid within.
+
+Curious, she swirled the cup around, watching the fluid slide about. She tipped the chalice over, ready to catch whatever spilled, but the liquid met an invisible barrier and slammed to a stop at the cup’s rim.
+
+Made for travel, at least, she thought.
+
+“You know what it does?” Saffra prompted.
+
+“I have an idea of how it’s filled.” Vivi was satisfied with so quickly discovering the first half of its basic usage, but if she was right, then she had complicated feelings about the requirement… or rather, the implications of that requirement.
+
+She looked at Rafael, and her steward nodded. She was certain they were on the same page. The item’s description—‘drink deep of a bounty not yours’—did give it away, she supposed.
+
+Vivi turned to Saffra. Still frowning, she said, “I’m not sure what happens when someone drinks from it yet, but where the liquid came from? What it uses as fuel?” She raised the artifact and studied the intricate bone carvings. “Your experience. It stole from you what you should’ve gained.”
