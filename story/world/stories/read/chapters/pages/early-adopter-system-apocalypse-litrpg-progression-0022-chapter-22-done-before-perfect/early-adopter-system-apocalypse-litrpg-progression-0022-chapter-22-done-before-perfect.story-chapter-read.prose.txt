@@ -1,0 +1,153 @@
+[06:03]
+
+Three and a half hours of sleep were not ideal on a good day, let alone a day when she’d require all her faculties to be working at peak efficiency. However, her internal clock was what it was, and complaining about it would do nothing to change it.
+
+Scarlet went through her usual morning routine, only this time, instead of picking up a book to break fast with, she would be working through her Status.
+
+Interacting with the Interface was quickly becoming second nature.
+
+Name: Scarlet BourneLevel: 4Tier: 0Stats Per Level (SPL): 10
+
+Free Stats (FS): 21
+
+System Credits (SC): SC 1000
+
+Titles:
+
+Traits:
+
+Stats:
+
+Skills:
+
+Bond:
+
+Those were a lot of changes since she last opened the full sheet. She had some decisions to make.
+
+Looking at her Stats, she noticed that Willpower had advanced to the cap. Scarlet hoped beyond all hope that she hadn't accidentally hindered her Willpower gains by not adding any of her free Stats and raising her Stat potential.
+
+It was a frustrating oversight, and one she wouldn’t allow to happen moving forward.
+
+She pulled out a new notepad – yes, a new one was necessary – and added Interface optimisation to her morning routine.
+
+The new Skills were expected, if a bit worrying. She only had the seven slots until she passed whatever threshold she needed to pass to become Tier 1 and she’d already used five. She didn’t even know how many more slots she’d get at the next tier, or how to get to T1 in the first place.
+
+Then there was her level.
+
+It looked like killing that shadow bat had bumped her from three to four. She checked the log.
+
+[You have been attacked by Shadow Bat]
+
+[You have been attacked by Shadow Bat]
+
+[You have killed Shadow Bat – Level 5]
+
+Level 5. No wonder she’d jumped a Level, she thought. She remembered fighting the roidcoons.
+
+That first level-up had come after she’d killed the second roidcoon. The first had been Lvl. 2, and the second Lvl. 1. Then once she was Lvl. 2, not even killing two Lvl. 2s had yielded her another level. Only after she’d killed the level 3 had she seen her own Level increase.
+
+This pattern suggested diminishing returns when killing things at or below one’s own Level. That, or increased returns when killing something above it. She’d also remembered Levelling up when she’d solved the shadow bat mystery, suggesting combat wasn’t the only way to gain experience.
+
+For now, she would proceed under the theory that facing tougher opponents, and more difficult challenges, yielded more recognition – EXP – from the System.
+
+More than her Level though, was her Mana. Eight. She had eight Mana. Something told her that had as much to do with Mana Sense as it did Meditation. She made a note to meditate before bed, and during moments of leisure. As well as to constantly exercise and test her mana and psionic senses.
+
+Before any of that, though, Scarlet needed to allocate her free Stats. She didn’t want what had happened to Willpower to happen again if it wasn’t entirely unavoidable.
+
+She had 21 FS, which was just enough to bring most of her Stats up to fifteen. However, she didn’t feel that was the most optimal distribution. While some of her Stats had a lot more room for growth others had a faster growth rate.
+
+Her Stats did not exist in a vacuum. Much as she'd often wished it were so, her mind was not independent of the rest of her, and she could not simply divorce herself from her emotions either. If she was going to be strategic about getting stronger, becoming more powerful, she needed to think of every step of her progression as pieces of a connected whole; the various parts of her working in tandem to make up who she was.
+
+A higher WIL would help her mental recovery more than something like INT. That recovery might then boost her VIT. Likewise, her INT could inform her perception when she encountered something new.
+
+She was aware she had been leaning towards a higher 'Perception' and 'Intelligence' build to help her leverage her strengths. However, she realised she needed to be strong overall. It was the only way to truly maximise her talents.
+
+Scarlet would not advance half-heartedly. While her body may never be on par with her mind, she would make well sure it was strong enough to keep up.
+
+There must be an optimal way to allocate these. Only she didn’t have access to it. Did she? She tried querying the Guide.
+
+[Optimal Statistic allocation is different for each individual and their unique paths.]
+
+Okay, but considering there were other ‘worlds’ in this ‘System-Network’, there had to be common or even uncommon wisdom about individual optimisation.
+
+The Guide did not respond.
+
+She supposed that meant she was on her own until she had a better source of information.
+
+For now, instead of going for a flat distribution, she figured it would be best to see if she couldn’t give all the Stats the same room to grow. Her lowest Stats, Vitality and Strength were both at five. However, because of their lower starting point they had comparatively more overhead before they hit their ceiling. STR had eight more Stat points while VIT had six. MNA on the other hand had only two while WIL had reached its cap.
+
+Her goal then, was to make sure all her Stats had at least three points to grow into before she began thinking about where she should focus the rest of the points.
+
+Strength, Vitality, and Perception were at or above three, so she went in and added one point to Mana, three to Willpower, one to Intelligence, and one to Dexterity, leaving her with 15 FS left to allocate.
+
+She looked at Maus.
+
+“Okay, buddy, you’re our main damage dealer, but we agreed that I’d be working on that. That means I need some physical focus. However, my greatest strength will probably never be how hard I can smash things, or how well I can slice them.”
+
+Something told her that gaining Stats was only going to get more difficult the higher they got, however while they were relatively low, and until she was able to access a better source of information, she was going to drop her remaining FS into the Stats that maximised her advantages.
+
+With that thought she decided to raise her WIL another two, her INT up one, then add four to her DEX, MNA and PER. With all her FS allocated, she took another look at her Stats:
+
+Stats:
+
+All right, that was her sorted.Now she just needed to do the same for Maus. She tried to consult the little guy, but he was mostly uninterested. The strongest reactions she was able to get from him were trust and indifference.
+
+At Level 4 Maus had 9 FS. In the end, Scarlet decided to raise the caps of his highest Stats so that each one had at least a five-Stat buffer.
+
+Stats:
+
+It wasn't ideal. It wasn't as perfect as it could be, but some wise person somewhere had once said that perfect was the enemy of done. Did that mean she would stop striving for perfection? Absolutely not. Scarlet would be superlative. If she had to suffer for it, then suffer she would. Either she died exceptional or she died mediocre, the only thing she could affect was how she lived.
+
+That's what this portal run was about, wasn't it? To operate to the best of her abilities she needed strength, to use that strength she needed information, and to get that information she would have to take risks.
+
+Thinking about risk and ongoing operations, Scarlet tucked away her new notebook, cleaned up the table, fixed herself another cup of tea, and settled down in the control centre.
+
+The first thing she did was update herself on world affairs. It was then that she became aware that there were people who were still unconscious. How was that possible? What did that mean? She queried the guide.
+
+['Earth' sapients require approximately twelve hours to complete full System Integration]
+
+Twelve hours. It took roughly twelve hours for the average person to regain consciousness. That meant that most people had only woken up around the time she was heading to sleep.
+
+She tried to imagine what that might have been like, how terrifying, how intense it would have been to regain consciousness and find the world so dramatically different. It had already been a jarring experience when she'd opened her eyes to find that not only was Maus missing, but to then be immediately ambushed by a group of mutated animals.
+
+She'd had almost no time to gather her bearings before being thrust directly into the thick of things. She'd been down for what, one hour? One hour, and there were already Level 3 mutated beasts running around.
+
+Scarlet had been both lucky and somewhat prepared. What if she hadn't taken her gun? What if she didn’t have her Maus?
+
+After twelve hours, there was no doubt that those creatures that had been fumbling with their powers had only become more dangerous to people who were just opening their eyes and coming to terms with the fact that the world hadn't collapsed, at least not in the 'welcome to the ice-age', kind of way.
+
+Once she caught herself up on world news and madness, she switched over to STAR. The forums were livelier than ever, and she'd discovered that people had started calling the website StarNet, which made sense considering the domain was a dot-net address.
+
+She entered the back end and made some updates. If things kept going this way, she would eventually need to expand her servers. Which would be a challenging undertaking at the moment.
+
+She put a survey up on the landing page, asking people for suggestions and promising that the most requested ones would be considered for the next major update. When she looked at the data, it appeared that the thing people most wanted was some sort of geo-feature, something that would let them map danger zones and hotspots, point out areas of interest, and as had been most requested, find people nearby. A request Scarlet absolutely approved of.
+
+Just think of all the lovely data. Offered so freely.
+
+It would take a while to implement a proper GIS to do what she wanted and fulfil the user request. Unfortunately, she had plans that morning, or she would have started on it right away. Instead, she made it her top priority for the next update before moving on to the largest reason she’d logged into StarNet. Crowdsourcing.
+
+The night before, she had left a question in the forum. Logging in as an anonymous regular user, she discovered, to her great delight, that there were already a lot of posts about dungeons, and rifts, and zones and even, yes, portals. She'd picked one that had a lot of traffic but wasn't flooded and asked the growing community, hypothetically, what they believed would be must-haves to take on a dungeon delve. She'd received an overwhelming amount of information that she’d synthesised into a list.
+
+The good thing was that she had a healthy selection of creatively obtained, behind-the-counter pharmaceuticals.
+
+Scarlet pulled up an inventory of items she currently had in her storage bag. The night before, when she'd been putting together what she thought she'd need, she had discovered that she didn't have to be in contact with the soul bound item to view what was inside it. It only needed to be on her person if she wanted to view items, remove materials or add something to the storage space.
+
+Going over the list, she was only missing a few things, and she could grab those after gearing herself up. She pulled a small notebook out of her breast pocket and added a note to collect the materials before tucking the notepad back.
+
+Finally, she logged into her secure messaging application. What she found there caused a slow, slow smile to pull up the corners of her mouth. Oh, this was interesting, she thought as feelings of anticipation and delight began to build.
+
+Scarlet didn't press the emotions down. She didn't suppress the pounding of her heart, or the tension roiling through her limbs, making her want to clench and flex her fingers. She needed a new notebook, something to plan, and iterate, and make sure she remembered everything properly.
+
+She could make it a Quest notebook. Perhaps one of the thinner ones? Her thoughts, all those ideas and orders and instructions, were coming to her so fast her fingers couldn’t keep up.
+
+She breathed through her emotions as she worked. Deep, meditative breaths that she could feel dragging the mana into her core and cycling it around her body as her fingers flew over the keyboard.
+
+Dead bats and harvesting tomes had nothing on the sheer satisfaction of what she was doing now.
+
+This could work, she thought before looking at the countdown she'd added to her Interface. It settled her some.
+
+[06:15:41:05]
+
+Just over six and a half days left, but she'd taken the first step. Now it was time to take the next. Pulling away from the control centre was almost painful, but she made herself focus.
+
+She had a portal to enter.
