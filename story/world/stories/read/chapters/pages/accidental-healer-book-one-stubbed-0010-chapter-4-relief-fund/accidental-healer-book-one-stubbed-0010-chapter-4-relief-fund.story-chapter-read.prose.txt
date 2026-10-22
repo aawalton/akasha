@@ -1,0 +1,203 @@
+Layton ShepardHUMAN Humans are well-rounded and adaptable. Receives +5 free points per level.
+
+CLASS
+
+Warden of Judgement (Level 31)
+
+Constitution: +2, Strength: +3, Agility: +2, Wisdom: +9, Intelligence: +10, Sense: +3
+
+Fighter (Level 20)
+
+Each core stat +1 per level; choose +5 Str or Agi, the other gets +2.
+
+STATS
+
+HP: 163/163
+
+MP: 261/261
+
+Constitution: 143
+
+Strength: 221
+
+Agility: 238
+
+Wisdom: 218
+
+Intelligence: 241
+
+Sense: 94
+
+ABILITIES
+
+Swooping blade - Extends a sword's range in a swooping strike. Scales with Str.
+
+Piercing lunge – Extends a sword’s piercing range. Scales with Str/Agi.
+
+Dash – Boosts user’s speed over short distances. Scales with Agi.
+
+Battle sense - Passive skill that enhances awareness in combat, while also improving effectiveness of skill-books. Scales with sense.
+
+SPELLS
+
+Defender’s Aura – Creates a field of energy that enhances the shield integrity for everyone within its radius judged as allies. Note even spells not cast by the user. Area size is adjustable; the larger the area, the higher the mana cost. Scales with Wisdom and Intelligence.
+
+Dome of Protection – Projects a barrier shielding against all ranged attacks. This shield will only repel ranged attacks outside its casted radius, any attack from within the shields radius will not be repelled. Strength and size scale with Intelligence.
+
+Heal – Minor healing, scales with Wis/Int.
+
+Regenerate Health – Heals small amounts every 5 mins for 60 mins; duration + strength scale with Wis.
+
+Barrier – A protective shield that breaks after a damage threshold or 30 mins, whichever comes first. Scales with Int.
+
+Healing Wave - Projects a wave of health to perceived allies. The larger the wave the greater the man consumption. Scales with wisdom.
+
+OBJECTIVES
+
+Grow your faction to 25,000 occupants.
+
+Grow your faction to five regions and hold them for three months.
+
+TITLES
+
+Forerunner – First to set foot on the new world (+5% exp).
+
+Man or a Mouse – Forgo a full tutorial and remove fail-safes (+10 to every stat, +10% each stat). Requirements: Survive the first trial. (Met)
+
+Follow the Leader – Be the first human to slay a monster after induction (+2 to each stat).
+
+A Path Paved in Blood – Slay 1,000 monsters first (+5 to each stat).
+
+Dungeon Savant - Be the first human to have a perfect dungeon run on a newly inducted planet. +3 to all stats +3% to all stats.
+
+Pencil or Sword - Be the first human on a newly inducted world to reach 100 in intelligence. +10 int. +1 int per level.
+
+You can’t teach speed - be the first human in a newly inducted world to reach 100 in Agility. +10 AG +1 AG per level.
+
+Evolution underdog - Defeat a foe with an evolved class while still unevolved. +5 to all stats.
+
+Slave liberator - Defeating a faction and inheriting their slave property you have chosen to grant freedom as opposed to maintaining ownership. + 15 wisdom
+
+Arbiter of Judgement - You have taken the first step in accepting your role as a warden of judgement. (+5 to each stat, +5% to each stat)
+
+What’s the big Ideal? - Establish the first ideal for your faction. (+15 strength, +15 Wisdom)
+
+***
+
+“You're a cheat code. That’s all there is to it.” Alex glared daggers after I finished reading all the numbers off.
+
+“I don’t kn—”
+
+“CHEAT CODE,” he said, cutting me off. “Like—I am a strength build and you have higher strength. How is that fair?”
+
+His excitement made me feel uncomfortable. My stats put me in a realm of freak for my level. At this point I knew I probably ranked pretty high in terms of sheer power on the world.
+
+That hadn’t mattered much five days ago. All my stats, all my power and I had very nearly died. Alex and I had spoken about that night several times since. It was hard for him to believe that a soccer mom tried to kill me.
+
+We concluded that it must’ve been a spell that sealed mana use, and since it was such a strong spell it took time to cast.
+
+“Are you thinking about her again?” He shoved me on the shoulder pulling me from my thoughts.
+
+I grinned sheepishly. “She left quite an impression.”
+
+“Bro, forget about that. It’s in the past.” He stood up and offered me his hand. “We’ve got bigger fish to fry. And when that DHW from hell shows up we’ll gank her.”
+
+“DHW?” As I grabbed his hand letting him drag me to my feet.
+
+“Yeah, Desperate Housewife. Obviously.”
+
+***
+
+Jared did send people to clear out the loot from my storage room. Before he sold it all to the system interface he perused through it. He ended up finding a few upgradeable weapons and armor that he collected for Damon to work on, along with a few other odds and ends to help our faction.
+
+Once satisfied that there was nothing left that was needed he traded it in for UBC’s. After all was said and done I was left with three empty storage chests and a handful of dimensional bags.
+
+The haul yielded surprisingly little. 3,000 UBC’s in total.
+
+It was a good start.
+
+Cassie already made plans.
+
+“The militia already has had enough of a head start as it is.” Her and Jared had never left the armory after the council meeting. She was pacing while Jared listened with his notepad out.
+
+“More of them should be locked away. It wasn’t just Eric and Dennis that helped Jordan.”
+
+Jared was still writing figures down. “Layton doesn’t want that. Maybe if there was hard evidence.” His voice was heavy, tired. “Can we stick to the point?”
+
+“You know I can speak for myself Jared.” I said from my seat on the stairs. “But yeah, Jared’s right. I’m not going to arrest anyone unless we know they’ve committed a crime.”
+
+Of all the militia, we only really knew of two of them that were left that actively participated in the kidnappings and murders. The rest were just benefiting from more opportunities, and although it didn’t sit right with me it was not a punishable offense.
+
+“But to your point, they aren’t getting any support from the relief fund. In fact, they should be required to contribute.”
+
+Jared noted it down. “Agreed, the same—actually I think it should be a higher contribution than our native faction members. They are, after all, part of the reason why we need the fund in the first place.”
+
+Cassie scowled. “They aren’t going to like that.” Then her scowl turned to a smile. “Let’s bleed them dry.”
+
+“Get what you can out of them, but make sure they can still get the equipment they need to fight at optimal capacity.” Jared’s pragmatic approach is a big reason I loved him as a steward.
+
+“We need to gather an inventory of who needs what. There are still hundreds of fighters who need upgraded equipment. Damon and the other outfitters are aware any in the relief fund are to be given discounted prices. It will be more than they can get from the interface but not much.”
+
+That didn’t feel fair to me. “How are people feeling about the forced discounts?”
+
+Jared chuckled. “I had to force them to take money at all. Most wanted to work for free.”
+
+“They wanted to work for free? Everyone?” Damon wouldn’t really surprise me. I had come to know him really well and he was always extremely generous. But in spite of it being an apocalypse people were settling in and money would matter.
+
+“I think that you underestimate the impact you have on the people around you. If you think you can act without being seen, you're wrong.”
+
+That seemed like a crazy notion to me. Jared thought I was the reason people would be so willing to offer donations. It felt like a stretch to me.
+
+“Well I’m not sure about all that, but I’m glad that they aren’t working for free.”
+
+Something about what Jared said though got me thinking. How was it that Jordan convinced so many people to go along with his schemes?
+
+He was no doubt a powerful influencer, and the way he could spin a lie was downright terrifying. But it just didn’t feel like enough. And then there was what Jared just said.
+
+If I can act without being seen.
+
+“Cassie. Before your faction merged with Jared's, what were they like?”
+
+Jared bristled at the change of subject. “Layton, we have a lot that needs to be done. Can this wait?”
+
+I waved him off. My mind was working on putting something together here.
+
+“Cassie?”
+
+“I don’t know.” She curled her hair with finger. “I’m not really sure what you're asking.”
+
+“Did people change? When the factions merged, did people change?”
+
+Cassie seemed to consider the question. “Maybe they did. I mean of course they did. Jordan was terrible.”
+
+“What were they like before that though?”
+
+It had only been five days since we brought in the newcomers. Within that time, I could already feel a shift. People were more active, they looked for opportunity, embraced their classes, their heads were held higher. All this came after a horrible tragedy had just struck.
+
+There was something strange about that to me. I mean sure there was plenty of grieving. Especially the first few days. But now? Guy’s like Brett, the healer seemed to find a new purpose.
+
+Was that just a product of being out from under Jordan’s thumb? Or was there more to it?
+
+“We were—hopeful. Even when the disappearances started, people believed things would get better, easier.” Jared, who had seemed annoyed, was paying attention now.
+
+Hopeful is not how I would describe Jordan’s faction. It was the opposite. And now? After all that these poor people had gone through, hope had returned. And with it, a desire to improve.
+
+Maybe it was just human nature? There was a more open path ahead, more obvious opportunity. I wasn’t sure, but there seemed to be something more to it.
+
+As if reading my mind…
+
+“Layton, there is something that feels different here.” She placed her hand on one of the armor stands inspecting it. “It’s hard to explain…I just feel—I just feel like I want to be better.”
+
+“You haven’t always felt that way?” Jared studied Cassie.
+
+She fiddled with the chestplate on display. “No. I haven’t. But here? I feel like I can move forward. Ya’ know?”
+
+I didn’t know. Why did she feel that way here? Was that how everyone felt? Maybe it had something to do with Tim’s monument.
+
+One thing I knew for sure. I wasn’t going to figure it out today. Just another thing added to the list of unknowns.
+
+Cassie and Jared must’ve seen that I was lost in thought because their conversation moved back to planning.
+
+I let the words fade to the background as my thought’s wandered. Would there ever be real answers to our questions? Of course there would, I just needed to be patient.
+
+My biggest concern was that I would mess everything up before the answers came.
