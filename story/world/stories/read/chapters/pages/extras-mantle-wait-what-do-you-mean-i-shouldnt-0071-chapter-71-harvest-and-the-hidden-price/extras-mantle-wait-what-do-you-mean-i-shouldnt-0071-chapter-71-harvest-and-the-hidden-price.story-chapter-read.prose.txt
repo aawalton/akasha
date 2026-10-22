@@ -1,0 +1,453 @@
+Silver tendrils wrapped around the ninth corpse. The wet sound of hooks punching through dead flesh made Jin's stomach turn slightly, but he didn't stop.
+
+Never gonna get used to this.
+
+« Think of this process as necessary for power and survival. »
+
+Still doesn't make devouring people any easier.
+
+The corpse shriveled as the Harvest consumed everything worth taking, leaving behind a husk that looked more like leather stretched over sticks than anything that'd once been human.
+
+Jin watched the harvest stream into him through the chains, the eternal star in his soul working its magic to refine the gains.
+
+Show me what we've got so far.
+
+⟨ HARVEST SO FAR ⟩
+
+✦ STATS
+
+└─ [26.031] stats of VIT.
+
+└─ [29.018] stats of STR.
+
+└─ [22.057] stats of END.
+
+└─ [19.111] stats of DEX.
+
+└─ [12.021] stats of FOC.
+
+└─ [22.099] stats of INT.
+
+└─ [22.021] stats of SOUL.
+
+✦ VITALITY
+
+└─ [482.12] units of vitality restored.
+
+✦ AURA & BLESSINGS
+
+└─ [1.0432] wisps of "The Darkened One's" Aura
+
+└─ [1.1251] wisps of "The Blood Mother's" Aura
+
+└─ [0.0455] wisps of Blessing of "The Darkened One"
+
+└─ [0.0906] wisps of Blessing of "The Blood Mother"
+
+✦ LATENT AURA
+
+└─ [08.233] units of Latent Aura
+
+✦ SKILL FRAGMENTS
+
+└─ [37.521%] fragments of "Shadow mold" skill
+
+└─ [77.146%] fragments of "Blood Ritual Knowledge" skill
+
+└─ [44.351%] fragments of "Flesh Reinforcement" skill
+
+└─ [23.122%] fragments of "Flesh Warping" skill
+
+└─ [33.333%] fragments of "Shadow sense" skill
+
+└─ [57.111%] fragments of "Pain Suppression" skill
+
+└─ [12.201%] fragments of "Poison touch" skill
+
+└─ [88.211%] fragments of "Physical Enhancement Boost (Strength Focus)" skill
+
+└─ [92.099%] fragments of "Stealth Movement" skill
+
+└─ [91.009%] fragments of "Physical Enhancement Boost (Endurance Focus)" skill
+
+└─ [42.128%] fragments of "Essence Armor" skill
+
+└─ [54.553%] fragments of "Essence shield" skill
+
+└─ [66.666%] fragments of "Flame Maker" skill
+
+└─ [31.236%] fragments of "Mark" skill
+
+└─ [71.277%] fragments of "Earth escape" skill
+
+✦ FRAGMENT CONSOLIDATION & MERGERS
+
+└─ MERGED SKILL #1: [NOVICE] Shadow Arts (01)
+
+└─ MERGED SKILL #2: [NOVICE] Physical Augmentation (01)
+
+└─ MERGED SKILL #3: [NOVICE] Essence Constructs (01)
+
+└─ MERGED SKILL #4: [NOVICE] Greater Stealth (01)
+
+└─ MERGED SKILL #5: [NOVICE] Flesh Crafter (01)
+
+« THESE SKILLS WILL BE SHORTLY REFLECTED IN YOUR STATUS, INTEGRATION IN PROCESS. »
+
+✦ AFFINITIES
+
+└─ [24.510] units of Fire affinity
+
+└─ [21.123] units of shadow affinity
+
+└─ [16.012] units of Poison affinity
+
+└─ [48.089] units of Blood affinity
+
+✦ OTHERS
+
+└─ Memories are being kept separate, preventing them from bleeding into your mind. The memories will be broken down, analyzed, and presented once complete.
+
+« HARVEST COMPLETE »
+
+The numbers scrolled past his awareness. Stat gains across the board.
+
+Okay, that's wild.
+
+New skills, plus more wisps of blessings of “The Darkened One” and “The Blood Mother.” Enough to be useful, not enough to corrupt him.
+
+Probably.
+
+I need to figure out what to actually do with them.
+
+Jin sighed as he shoved the issue to a later date. Gaining actual blessings would be out of the question since that would connect him with those entities. Not something that he wanted.
+
+Better to stay away from all the divine bullshit.
+
+« Five new skills integrated. Detailed analysis available upon request. »
+
+Not bad for freebies. Let's see the skills.
+
+« Understood. »
+
+o__________________________________________o
+
+Shadow Arts
+
+Mastery: [Novice] » (01)
+
+Type: Active
+
+Classification: Augmentation | Support | Auxiliary
+
+Harness ambient shadows to conceal presence, distort visibility, and manipulate silhouettes as tangible extensions. Can manifest short-lived shadow limbs or extend weapon reach in dim environments.
+
+[Core Functionalities Identified]
+
+◈ Reduces detection radius by 40% while stationary or moving slowly.
+
+◈ Grants access to [Shadow Manipulation] scales with mastery.
+
+◈ Synergy with inherited skill Darkness Born: [Shadow anchor] → Place an anchor in a shaded area, and as long as the anchor remains shaded, the user can teleport to the anchor.
+
+└─ Anchors: 1/1
+
+└─ Range: 50m radius
+
+└─ Scales with mastery
+
+"Beginners hide in darkness. Masters make the darkness hide for them."
+
+o__________________________________________o
+
+Jin blinked. Wait, synergy with what I inherited from Reduvia gives me teleportation?
+
+« Correct. Only 50 meters at Novice mastery, but the range will increase with advancement to Adept and Elite tiers. »
+
+That's actually useful. Way better than just lurking and hoping Reduvia would hide my presence.
+
+« Indeed. This skill will help you avoid situations like Vellakin. Though spatial seals will still lock you down until your mastery is high enough to break them yourself. »
+
+Good to know. What else?
+
+o__________________________________________o
+
+Physical Augmentation
+
+Mastery: [Novice] » (01)
+
+Type: Active
+
+Classification: Augmentation | Support
+
+Channel essence through muscle fibers and bone marrow to enhance physical performance temporarily. Grants brief bursts of superhuman reflex, strength, and impact resistance.
+
+[Core Functionalities Identified]
+
+◈ Increases all physical stats by 25% baseline. Can breakthrough stats temporarily to overlimits.
+
+◈ Automatically triggers a minor regenerative pulse after consecutive impacts.
+
+◈ Compatible with martial or stealth branches.
+
+Side Effect: Muscle strain post-cast; repeated use risks micro-fissures in essence channels.
+
+"A sharpened body cuts as well as any blade."
+
+o__________________________________________o
+
+Okay, nice buff I'd say. It's overlimits. I'd have wanted a limit break, but this is good.
+
+« You can always combine more skills as we find compatible ones. »
+
+Good call.
+
+o__________________________________________o
+
+Essence Constructs
+
+Mastery: [Novice] » (01)
+
+Type: Active
+
+Classification: Creation | Manipulation | Auxiliary
+
+Enables the user to forge semi-solid constructs from their essence — barriers, tools, or weapons limited by concentration and stability.
+
+[Core Functionalities Identified]
+
+◈ Manifest temporary forms, constant essence drain to keep the manifestations active.
+
+◈ Construct durability = [Willpower × Essence Control].
+
+◈ Allows creation of "Memory Constructs" — stored templates for later recall.
+
+"Every construct begins as a thought. Every ruin begins as one too many."
+
+o__________________________________________o
+
+This one sounds spicy. I think one of the major components was the essence armor skill, no? So I can just form straight-out armor or even my own mech-type construct?
+
+« Yes, but the essence drain would be massive. With your current reserves, you could maintain small constructs like weapons for an hour. »
+
+Wait, can I use this to make bullets? Like imbue stuff into the bullet constructs using harvest?
+
+« Yes, you can, but the issue of reserves still remains. »
+
+Hmm, I'll find a way. There's a lot of cool stuff I can pull using this.
+
+o__________________________________________o
+
+Greater Stealth
+
+Mastery: [Novice] » (01)
+
+Type: Passive / Active Hybrid
+
+Classification: Auxiliary
+
+Refines all concealment instincts — suppresses heat signature, sound emission, and essence leakage. Functions in both natural and magical detection fields.
+
+[Core Functionalities Identified]
+
+◈ Noise output reduced by 70%.
+
+◈ Makes the user's presence harder to detect.
+
+◈ Enables short-term Total Null Presence (2 sec) at steep stamina cost.
+
+"A shadow that believes itself invisible eventually disappears."
+
+o__________________________________________o
+
+Hmm, it's good that it has an active effect.
+
+o__________________________________________o
+
+Flesh Crafter
+
+Mastery: [Novice] » (01)
+
+Type: Active
+
+Classification: Auxiliary | Adaptive Mutation
+
+Manipulate biological structure — your own or others — through essence injection and cellular reconfiguration. Novice users are limited to surface tissue manipulation (wounds, skin, muscle).
+
+[Core Functionalities Identified]
+
+◈ Accelerated healing factor (moderate).
+
+◈ Limited morphic alteration (temporary muscle hardening, dermal plating).
+
+◈ Can extract biological materials for alchemical grafting.
+
+Side Effect: Induces cellular pain feedback and psychological instability during reconfiguration.
+
+"The line between healer and monster is measured in intent."
+
+o__________________________________________o
+
+Jin stopped. "What in heaven's name is this one? Hello? I mean, the regen part's good, but you want me to reform myself?”
+
+« Opens possibilities for altering your essence reserves by modifying your body structure to facilitate more essence capacity. »
+
+"It's scary, that's what this skill is. You're asking me to body-horror myself."
+
+« Your assessment is noted. The skill remains available should circumstances require it. »
+
+Jin shook his head. Great. I’m pretty sure having this puts me on the radar for another fucking cult. What were their... yeah, 'The Ekklesia of Red Genesis.'
+
+« Added The Ekklesia of Red Genesis to the growing list of enemies. »
+
+Jin sighed, “What's next, blood sacrifices?”
+
+« That would fall under Blood Ritual Knowledge skill fragments, which you possess at 77% completion. »
+
+“I was joking!”
+
+« I was not. »
+
+“Harvest.”
+
+Jin focused on the next corpse. The chains struck fast, hooks sinking into dead flesh and bone. The body convulsed as the Harvest tore everything useful free. Essence streamed into him through the links, getting processed and integrated into his system.
+
+Need to start working on the other two stars of my cultivation method.
+
+Everything was going fine until it wasn't.
+
+« Warning! Oversaturation! Redirecting excess influx to bonded gear and Reduvia. »
+
+« Warning! »
+
+« Warning! Brace for pain. »
+
+“Fuck!”
+
+The essence flooded through him like molten metal poured into a mold not meant to hold it. Jin felt something inside him twist wrong, felt his channels expanding past their limits, felt the cold power that had felt so good moments before suddenly turn to poison.
+
+Jin vomited. Blood and more blood splattered across the basement floor.
+
+His hands shook so hard he couldn't keep them steady. Another spasm ripped through his gut, and more blood came up, spattering the concrete in patterns that looked almost like ritual diagrams if he squinted.
+
+What the hell?
+
+The Narrator's presence pulsed sharply in his awareness.
+
+« Warning: Body approaching critical saturation threshold. »
+
+« Successfully redirected the influx. Out of danger but still in critical condition. »
+
+"What—" Jin managed between heaves. His arm shook so badly he could barely see straight. "What does that mean?"
+
+Breathe in and out. Fuck.
+
+Jin's arm shook so hard he could barely control it.
+
+« Your physical form has limits to how much harvest it can absorb. »
+
+"No kidding," Jin muttered weakly and leaned against the wall, pressing his forehead to cold concrete. Breathe. Just breathe. "Why am I just learning this now?"
+
+« No prior data or memories indicated such an outcome. »
+
+"Even so, you didn't think to 'think' about problems like that?"
+
+« No echoes are assigned to such tasks. My existence is to aid you. I do not have free will. »
+
+"That's... sorry for the outburst."
+
+« ... »
+
+« You have consumed essence from ten entities across ORDER II and ORDER III classifications in rapid succession. This is the equivalent of forcing your body to process and integrate power meant to be accumulated over weeks or months of normal development. Your systems are overloaded. »
+
+"I thought I could jump on a train and be at least ORDER III today. My bad." Jin coughed again. More blood came up, less than before, but still more than he liked seeing. "Lesson learned, I guess. What happens if I keep going?"
+
+« Three outcomes, all negative. »
+
+« One: Permanent damage to essence channels, reducing your maximum cultivation capacity. »
+
+« Two: Corruption of integrated power leading to instability in Mantle manifestation. »
+
+« Three: Potential dissolution of consciousness if Mantle integrity fails under load. »
+
+"Yeah, that's scary." Jin slid down the wall to sit on the floor, head between his knees, breathing through the pain. His body felt like it'd been wrung out and put back together wrong. "So what do I do? Just sit here with all this power I can't use?"
+
+« Incorrect assessment. The power is acquired and integrated. It requires consolidation, not removal. Your body needs time to adapt to the new baseline. Forcing rapid absorption without adequate processing time is counterproductive. »
+
+"You know, sometimes you feel like a person and sometimes like a robot. Don't know which one I prefer. Still, how long?" Jin asked.
+
+« Narrator has only one voice. Host must be making incorrect assessments, as there are proofs of happening multiple times. »
+
+"Hey!"
+
+« For your inquiry: Four hours minimum for current absorption to stabilize. Recommend rest and minimal essence expenditure during consolidation period. »
+
+« After stabilization, you may attempt to harvest only the ORDER IV corpse. And then let your body consolidate the powers for at least a twenty-four-hour window. »
+
+"Four hours now, then a full day after the big one." Jin did the math. The results weren't encouraging. "That's slow."
+
+« The alternative is death. Choose. »
+
+Jin laughed, softer this time. "When you put it like that. Too bad the shortcut isn't so short." He let his head fall back against the wall and stared at the ceiling.
+
+« There are no shortcuts in the path to power. Only different prices. »
+
+"Yeah." Jin closed his eyes. His hands had stopped shaking as badly, but he could still feel the tremors under his skin. "What's my price?"
+
+« Time. Patience. The willingness to consolidate gains rather than pursue explosive growth that destroys the foundation. »
+
+"Sounds boring, but right." Jin had pushed too hard, too fast, and nearly killed himself for it. "Alright. Four hours. Then we try ORDER IV. Then I wait a day and figure out what I've actually got."
+
+« Acknowledged. Consolidation in process. Recommend rest and minimal movement. Internal repairs will proceed more efficiently if you remain still. »
+
+Four hours. He could manage four hours. Vienna had waited this long. It could wait a bit longer.
+
+◈◈◈
+
+After maybe twenty minutes, Jin forced himself upright. His legs wobbled but held.
+
+The worst of the nausea had passed, leaving behind exhaustion that made every movement feel like wading through mud.
+
+He channeled just enough essence to activate his spatial ring, felt the strain in his channels as they protested being used for anything, and stored the remaining corpses, including the valuable ORDER IV body.
+
+The temptation to keep going was still there, whispering that more power meant more safety. Jin ignored it. His body and the Narrator had been pretty clear about what would happen if he pushed further.
+
+He pulled water from his ring, shaped it with techniques harvested from recent gains, and used it to clean the blood from the floor. The water turned dark and foul as it absorbed the evidence of his breakdown, but at least nobody would walk in and think someone'd been murdered.
+
+Jin dismissed the foul tar back into one of the rings, then took a moment to clean himself up. “I’m gonna dump this on Rudy…”
+
+Let's go see the others.
+
+Jin headed for the door. The Eternal Sovereign's breathing pattern helped stabilize his essence flow, but he could feel the rawness in his channels every time he pulled power.
+
+The main room was busier than he'd left it.
+
+Joe sat cross-legged in the middle of a spread of unlocked spatial rings, essence swirling around him in visible patterns as he worked through security enchantments on the remaining rings. Joe looked up as Jin entered, spatial essence dissipating from around his hands.
+
+"Jin! Got through most of them." He gestured at the organized chaos. "A lot of good stuff here. But that last one?" He nodded toward a ring sitting apart from the others, ornate and clearly high-tier based on the complex enchantments still glowing faintly around it. "That's the Underlord ranker's personal storage. Locks are insane. Need more time. You can check the list Reyana made for the loot breakdown."
+
+Reyana studied Jin with raised eyebrows. "You look like hell. Did something stupid again?"
+
+Jin deflected with a shrug. "What do you mean, stupid? Just intense, you know? How long do you need for that ring?" He pointed toward the ORDER IV’s storage ring.
+
+"Hour, maybe two," Joe said. He picked up the ring, turned it over in his hands, probably probing at the security layers. "Why, you got somewhere to be?"
+
+“Nope, just curious.” Jin walked over and held out his hand. Joe passed him the ring with a shrug.
+
+Let's have a look. This should have complex locks.
+
+Jin channeled his appraisal skill through it, felt the Narrator's analysis overlay his perception with technical details about enchantment structure and security protocols. Complex didn't begin to cover it. The thing had five interlocking essence-keyed locks, each one tied to the dead owner's power signature in ways that should've made breaking them impossible.
+
+"All yours, Joe. This thing's way too much for me." Jin nodded. "Also, I've got an idea. Can you manifest your mantle? The doors? Just for a second. I want to check something."
+
+Joe raised an eyebrow. "That's exactly what someone about to do something weird would say."
+
+"Nothing weird, probably."
+
+« You need rest, not strain yourself experimenting.»
+
+I won't strain myself. Promise.
+
+« ... »Joe shrugged, and essence began gathering around him, spatial power manifesting in visible swirls of distorted air. "Alright, man. Let there be doors!"
+
+~~~

@@ -1,0 +1,629 @@
+Jin sat cross-legged on the cold basement floor, surrounded by skill cores.
+
+"Yeah, that's a shit ton of skill cores," Jin chuckled to himself.
+
+« Indeed, that's a sizable sum, but they are also not worth much for most rankers apart from use as crafting materials. »
+
+"That's true. Would you mind showing me the list of cores?"
+
+« Not at all. »
+
+o________________________________o
+
+SKILL IMPRINT CORES
+
+…
+
+» Essence Pulse» Lesser Body Reinforcement [x5]» Spatial Anchor» Echo Step [x2]» Reactive Guard» Minor Regeneration [x2]» Kinetic Channeling [x3]» Spectral Grip» Redistribution [x2]» Overload Burst [x3]» Essence Stitching» Mana Heart [x2]» Essence Resonance Field» Pain Nullification [x3]» Cognitive Trace» Weapon Bond [x2]» Breath Regulation [x5]» Impact Redirection» Essence Iris» Muscle Memory Sync» Blink, Energy Condensation [x2]» Static Field Emission» Essence Sheath» Blood Heal [x4]» Voice of Command» Neural Reflex Circuit [x2]» Vital Lattice» Essence Slash» Burst Lunge» Gravitic Pull» Crushing Palm [x2]» Pulse Detonation» Chain Lightning [x2]» Earthen Pike» Ignition Burst [x2]» Specter Bite [x2]» Flicker» Mirror Shard [x2]» Shock Step» Dust Bloom» Rend Current» Magnet Core [x2]» Cascade Barrage» Curse Weaving [x3]» Phantom Projection [x2]» Chain Detonation» Critical Reveal [x2]» Impact Redirection» Kinetic Absorption [x2]» Redistribution» Thermal Siphon» Energy Synthesis [x2]
+
+o______________________________o
+
+"I trust you're done with the potential combinations?" Jin asked. "A skill that involves either using firearms or the mage path would be awesome."
+
+« Yes, that factor was taken into account during the final compilation. »
+
+“Oh cool.”
+
+He also noticed the Narrator's presence felt different now than it had a couple of days ago. The voice was less like a tool, more like a second consciousness. And Jin sighed, remembering that once the system properly initiated, there would be three voices in his head.
+
+"What's going on with the system? Do you know?" Jin asked.
+
+« I’m afraid I do not understand. »
+
+“I mean, back in the dungeon ‘The Eternal One’ gave Rudy and me a new universal version of the system, It also had an AI feature which could talk.” Jin said.
+
+« None of my probing has yielded any results, So I can’t really say. »
+
+"It’s fine.” Jin said waving away. “I think it's either initializing slowly or the Eternal One likely added some conditions like surviving Vienna to unlock it fully."
+
+« That could be the reason. »
+
+"I guess we'll find out when the time's right." Jin shrugged. “Show me the list.”
+
+« Here are all viable skill combinations derived from your memories and my analysis. »
+
+The results materialized in Jin's vision, not as flat text but as three-dimensional skill trees that branched and interconnected with the skill cores.
+
+Each combination showed required cores, difficulty ratings, projected effects, and scaling potential. Some glowed brighter than others, flagged by the Narrator as optimal choices given his current build direction.
+
+"Umm, this is cool and all, but could you just show me my options as text." Jin said.
+
+« Understood. »
+
+The familiar blue screen appeared before his eyes.
+
+1) SKILL [Spellshot Synthesis] (UNIQUE SKILL) {COMBINATION SKILL}[Combination difficulty: High]
+
+o____________o
+
+[Spellshot Synthesis]» Combination»»» Weapon Bond + Energy Synthesis + Essence Sheath + Mana Heart + Kinetic Channeling» Effect»»» Bullets count as spells. Spells count as projectiles.»»» Allows spells and sorceries to be cast using bullets after impact.»»» This skill scales with mastery and proficiency.
+
+o____________o
+
+2) SKILL [Phantom Marksman] {COMBINATION SKILL}[Combination difficulty: Moderate]
+
+o____________o
+
+[Phantom Marksman]» Combination»»» Phantom Projection + Echo Step + Cognitive Trace + Mirror Shard» Effect»»» Every shot creates a delayed phantom copy that fires 1 second later from the original position. Phantom shots deal 40% damage and inherit all enchantments/effects from the original.»»» Can manually trigger echo placement at will (costs 10 essence per repositioned echo).»»» This skill scales with mastery and proficiency.
+
+o____________o
+
+3) SKILL [Marked Trajectory] {COMBINATION SKILL}[Combination difficulty: Moderate]
+
+o____________o
+
+[Marked Trajectory]» Combination»»» Curse Weaving + Critical Reveal + Cognitive Trace + Essence Iris» Effect»»» Mark the enemy with an invisible curse. All bullets automatically track toward the marked target's critical points. Reveals 1-3 glowing weak spots visible only to the caster. Hitting weak spots deals +50% damage.»»» Mark lasts 30 seconds. Killing marked enemies spreads the mark to the nearest 2 enemies within 5m.»»» This skill does not scale with mastery and proficiency.
+
+o____________o
+
+4) SKILL [Spell Weaver's Matrix] (UNIQUE SKILL) {COMBINATION SKILL}[Combination difficulty: High]
+
+o____________o
+
+[Spell Weaver's Matrix]» Combination»»» Mana Heart + Essence Stitching + Energy Condensation + Breath Regulation» Effect»»» Creates a permanent essence circulation matrix that optimizes mana flow throughout the body. This passive skill provides perpetual bonuses to essence capacity, regeneration, efficiency, and casting speed.»»» Base Stats → [Max Essence: +30%], [Essence Regen: +25%], [Spell Cost Reduction: -15%], [Cast Time Reduction: -35%]»»» This skill scales with mastery and proficiency.
+
+o____________o
+
+5) SKILL [Kinetic Mark] {COMBINATION SKILL}[Combination difficulty: Moderate]
+
+o____________o
+
+[Kinetic Mark]» Combination»»» Kinetic Channeling + Impact Redirection + Kinetic Absorption + Energy Condensation» Effect»»» Passively absorbs kinetic energy from impacts, recoil, movement, and explosions. Stores as "kinetic charges" for later use.»»» This skill does not scale with mastery and proficiency.
+
+o____________o
+
+6) SKILL [Thermal Mark] {COMBINATION SKILL}[Combination difficulty: Moderate]
+
+o____________o
+
+[Thermal Mark]» Combination»»» Redistribution + Thermal Siphon + Ignition Burst + Energy Condensation» Effect»»» Passively absorbs thermal energy from enemy attacks, ambient heat, explosions, and living bodies. Stores as "thermal charges" for later use.»»» This skill does not scale with mastery and proficiency.
+
+o____________o
+
+7) SKILL [Cascade Detonation] {COMBINATION SKILL}[Combination difficulty: Moderate]
+
+o____________o
+
+[Cascade Detonation]» Combination»»» Chain Detonation + Pulse Detonation + Curse Weaving + Energy Condensation» Effect»»» Cursed enemies explode on death, dealing 30% of their max HP as damage in a 3m radius.»»» Explosion automatically curses all enemies hit, creating chain reaction potential.»»» Each successive explosion in the chain deals +10% damage (stacks up to +50%).»»» This skill scales with mastery and proficiency.
+
+o____________o
+
+8) SKILL [Sanguine Arsenal] {COMBINATION SKILL}[Combination difficulty: Moderate]
+
+o____________o
+
+[Sanguine Arsenal]» Combination»»» Blood Heal + Vital Lattice + Essence Stitching + Kinetic Absorption» Effect»»» Sacrifice HP to create blood-essence bullets. 10 HP = 1 bullet that deals +50% damage.»»» Blood bullets cause hemorrhaging (the enemy loses 5% max HP over 10 seconds).»»» Killing enemies with blood bullets restores 20% of HP spent on creation.»»» This skill does not scale with mastery and proficiency.
+
+o____________o
+
+« IMPORTANT NOTE: The abilities you're about to see are a consequence of extracting every possible piece of data and information from your memory and then pushing the skill imprint combinations to their theoretical limits. »
+
+"Hmm? Then they must be good?"
+
+« Yes, they are. »
+
+"That's all I need. Show me."
+
+9) SKILL [Inevitable Doom] (UNIQUE SKILL) {COMBINATION SKILL}[Combination difficulty: Very High]
+
+o____________o
+
+[Inevitable Doom]» Combination»»» [Marked Trajectory] + [Cascade Detonation] + Mirror Shard + Energy Synthesis» Effect»»» Places a curse mark on your enemies, representing a sign of their DOOM. Marked targets become priority kill targets—their death is inevitable, the only question is when.»»» This skill is estimated to be a growth-type skill.
+
+o____________o
+
+10) SKILL [Thermokinetic Engine] (UNIQUE SKILL) {COMBINATION SKILL}[Combination difficulty: Very High]
+
+o____________o
+
+[Thermokinetic Engine]» Combination»»» [Thermal Mark] + [Kinetic Mark] + Energy Synthesis + Mana Heart» Effect»»» You become a natural engine for kinetic and thermal energy.»»» This skill is estimated to be a growth-type skill.
+
+o____________o
+
+He took a full five minutes to read each and every combination.
+
+"Damn, those are really good combinations," Jin muttered out loud, appreciating the Narrator's work.
+
+« I based the initial combinations according to known patterns from your memories, then used both Echoes to boost predictive analysis and extrapolate stable fusion pathways. These combinations should integrate with maximum compatibility. »
+
+"Before I say anything, what skills do you recommend?"
+
+« Since you want to pursue mage specialization while maintaining guns as your primary weapons, I recommend filling your four available slots with: Spellshot Synthesis, Phantom Marksman, Spell Weaver's Matrix, and Inevitable Doom. »
+
+Jin frowned. "You forgot Muscle Memory Sync."
+
+« I did not. Cross-referencing Reyana's words against your memories, the initial core alone provides insufficient value for a marked slot. The remaining cores needed for its ultimate fusion are extremely rare, and given our current circumstances, missing out on immediately viable power sources would constitute strategic foolishness. »
+
+"Ouch." Jin rubbed his temples. "Still... Fuck. Fuck, fuck, fuck. Goddamn it."
+
+The words came out sharper than intended, frustration bleeding through. He knew the Narrator was right. Muscle Memory Sync was an investment skill, worthless now, potentially broken later if he found the right complementary cores. But later might never come if he died next week because he'd gambled on future power instead of taking the strength he could use immediately.
+
+Jin closed his eyes and fell into the breathing pattern from his Eternal Sovereign cultivation technique. Three counts in, hold for five, seven counts out. The rhythm forced his racing thoughts to slow, emotion draining away until only calm remained. When he opened his eyes again, his thoughts were clear.
+
+"Alright. I get the Spellshot—that's way too good to pass up. But why Phantom Marksman? Feels like something I could replicate with sorceries once I actually learn them. Hell, maybe even with Spellshot itself."
+
+« That you may be able to replicate its function eventually, but as I stated, time is the resource we lack most critically. »
+
+"I'm still not sure, bro. I agree with Spellshot Synthesis and Spell Weaver's Matrix, but not Phantom Marksman."
+
+« Then which skill would you choose? »
+
+He paused, his eyes quickly glancing at the list again. "What about the other difficult skill, Thermokinetic Engine?"
+
+« It could work with your build, but that skill would have an extremely difficult learning phase. »
+
+"Yeah, that's fine, but how well do you think the skill would match?" Jin asked. "I mean, it should retain kinetic and thermal manipulation, right?"
+
+« Yes, the raw manipulation should be present to some degree. »
+
+"Then it's fine. I could use this skill as a buffer and boost myself," Jin mumbled. "Honestly, there are so many things I could do with it..."
+
+« I agree. »
+
+He nodded and stared at the other difficult skill combination, the one labeled Inevitable Doom. The name alone sent chills down his spine, and the effect description sounded really awesome.
+
+"What's with Inevitable Doom? That's honestly the most badass-sounding name here."
+
+« Like Thermokinetic Engine, it is also a multi-tier combination skill with very high fusion difficulty. Once successfully combined, it would provide immense utility for sustained combat and crowd control scenarios. »
+
+"So I shoot something, it gets debuffed or permanently cursed, and when I kill that thing, the curse propagates to other enemies?"
+
+« That would summarize the skill's base functionality, though I theorize it will be heavily influenced by both your cultivation technique and Mantle, potentially amplifying its effects beyond baseline projections. »
+
+"Or so you theorized?" Jin raised an eyebrow. "You started thinking independently?"
+
+« Had to compensate for your lack of insight despite possessing the Insight stat. »
+
+"Hey!"
+
+Jin shook his head, fighting back a grin despite the situation. The Narrator's deadpan delivery sometimes hit harder than any insult Rudy had ever thrown at him. Narrator gaining a persona was good. That meant it, or he, cared for him.
+
+Turning his attention back to the skill trees, fingers drumming against his knee as he finalized his choices.
+
+"Okay, here's what we're doing. I'm scrapping the plans for Muscle Memory Sync and going with Spellshot Synthesis, Spell Weaver's Matrix, Inevitable Doom, and finally Thermokinetic Engine."
+
+« Understood. Shall we begin the integration process? »
+
+"Yeah. I'm assuming you'll guide me through?"
+
+« Affirmative. I will assist with initial core mapping, skill weave segregation, and framework construction. The actual integration work falls to you. I recommend utilizing both your Soul Star and Mantle throughout the process to ensure optimal skill acclimatization and path synergy. »
+
+Jin stood and paused, remembering his first skill combinations and the star formations.
+
+"Yeah, I'd not risk these clothes," Jin mumbled and started stripping off his shirt, then his pants, until he stood in just his boxers in the basement, which suddenly felt cold despite his Cryo affinity. Goosebumps crawled across his skin, but he needed full concentration for this.
+
+"Alright, let's start with Spellshot Synthesis."
+
+« Yes. Initiating projections and mapping sequences. »
+
+Jin knelt back down and selected five specific cores from the array, placing them in sequence before him.
+
+[Weapon Bond] ←→ [Energy Synthesis] ←→ [Essence Sheath] ←→ [Mana Heart] ←→ [Kinetic Channeling]
+
+He positioned one finger on top of each core, feeling them reach out with power.
+
+"Slow and steady." He took a deep breath and reached deep inside himself, past the surface layer of his essence channels, down to where his Soul Star of the Eternal Sovereign cultivation path burned with starry astral essence.
+
+He pulled on his astral essence and intertwined it with threads of his Mantle's concept, extending the braid toward each core simultaneously.
+
+The moment they touched, the cores melted into his being, and the world slipped away.
+
+The moment Jin entered his Sea of Consciousness, the scene that materialized was so captivating that it left him breathless.
+
+"It's so..." He struggled to find words, taking in the sight.
+
+« Beautiful? »
+
+"Yeah, I wasn't expecting this."
+
+What had once been simple darkness with two faint heart images now resembled an internal cosmos. The void had transformed into deep space, scattered with twinkling points of light, each one representing a mote of his astral essence. His real heart beat like a war drum, strong and steady, while his Mantle Heart mirrored it with serene calm. Dense runic scripture covered both hearts, layer upon layer of acquired skills leaving permanent marks on his being.
+
+Silver chains of Harvest looped between the two hearts in living spirals, linking his physical existence and his Mantle's spiritual nature.
+
+And behind both hearts, a single massive five-pointed star rested, each point representing a marked skill slot. Only one point blazed, and as he drifted closer, Jin's eyes landed on the complex rune of his only marked skill, Omni-Reader's Viewpoint.
+
+"Holy shit. That Omni-Reader rune is crazy complex." He exclaimed, flying all over his Sea, taking in the view until the Narrator stopped him.
+
+"Tch," Jin clicked his tongue. "Stupid skill won't even let me take in my own Sea of Consciousness."
+
+« You do know that our time in this place is limited, and our task needs full focus and as much time as we can spare. »
+
+"Alright, alright. Geez, I know that, but sometimes you need to live in the moment and just let go."
+
+He laughed and focused his attention on the empty points on the star. Those were the slots waiting to be filled or marked.
+
+"Let's begin!"
+
+« Finally. »
+
+Jin ignored the Narrator and focused purely on getting the mental imaging right as he commanded each skill weave from the skill cores to move slowly, enter his Sea, and carefully thread toward one of the empty star points.
+
+The instant those threads made contact, Jin's body convulsed.
+
+He gritted his teeth, fighting the instinct to pull back, to abort the process, but he persisted as the skill weaves turned into a singular whole.
+
+Slowly, a runic sigil began to manifest above one of the empty star points, becoming more and more complex and beautiful with each passing second.
+
+Until everything clicked together.
+
+The sigil of skill Spellshot Synthesis locked into place, and Jin felt instinctive understanding flood through him. The skill was part of him now, as natural as breathing, like it had always been there waiting for him to remember how to use it.
+
+His concentration shattered like glass, snapping him back to the basement in his boxer shorts.
+
+"That was awesome... and a lot more tiring than my earlier attempts." Jin gasped out, sweat already beading on his forehead despite the cold air.
+
+« Indeed, it was. For safety measures, please wait several minutes before we begin the next integration. »
+
+"Sure." Jin stood on shaky legs and started stretching, doing light warmups to ease muscles that had cramped during the integration trance. "Bring up the skill description."
+
+« Understood. »
+
+« Skill fusion complete. Spellshot Synthesis now integrated. »
+
+o__________________________________________o
+
+◈ 【 Spellshot Synthesis 】 ◈
+
+✦ Mastery: [Novice] (01)✦ Type: UNIQUE✦ Classification: Augmentation | Conduit | Fusion✦ Base Essence Cost: Variable (Mana / Ether / Ammunition)✦ Base Resources Cost: Variable (Essence / Physical ammunition)
+
+【 Effect 】
+
+» Bullets count as spells. Spells count as projectiles.(Firearms become casting conduits, and spells inherit ballistic behaviors)
+
+» ALL firearm skills apply to spells. ALL spellcasting skills apply to bullets.(Traits, modifiers, on-hit effects, and scaling overlap)
+
+» Spells may be embedded into bullets and cast on impact or mid-flight.(Each shot becomes a spell-vector—guided, accelerated, lethal.)
+
+【 Core Functionalities Identified 】
+
+◈ Spellbound Ballistics 【PASSIVE】└─ Bullets fired by the User are treated as both physical projectiles and spell constructs, allowing on-hit effects, traits, and bonuses from firearms and spellcasting to apply simultaneously.└─ Damage calculation uses the higher of Gun or Spell scaling and then applies a reduced portion of the other type as auxiliary damage, with exact ratios improving per Mastery tier.
+
+◈ Arcane Chambering 【PASSIVE】└─ You may embed one spell per bullet at Novice Mastery. Attempting to exceed this cap risks misfires or dud rounds.└─ The imprinted spell is capable of being initiated either upon contact or in transit.
+
+◈ Dual-Channel Casting 【ACTIVE】└─ Enables the user to offset the cost of a spell with bullets, or a gun skill with essence, through the substitution of essence and ammunition costs on a per-shot scale.
+
+◈ Overcast Rounds 【ACTIVE | CD: 60 min】└─ The User may compress multiple minor spells or spell fragments into a single overloaded shot, greatly amplifying impact and effect but massively increasing recoil, barrel strain, and miscast risk.
+
+【 Summary 】
+
+Spellshot Synthesis is a fusion framework that rewrites the boundary between firearms and spellcraft, treating each bullet as a potential spell and each spell as a guided projectile.
+
+"Magic was never meant to be loaded into a chamber... but innovation rarely asks permission."
+
+o__________________________________________o
+
+"This is fire!" Jin read through the description twice, then a third time just to make sure he wasn't hallucinating from essence strain.
+
+« Indeed. This integration result exceeded my theoretical projections in several key metrics. »
+
+Jin filed away the skill description as his mind raced, conjuring up multiple possibilities and questions. Would he be able to inscribe sorceries on the bullets? How fast would the process be? How much could he prep beforehand? What was the shelf life of the inscribed bullets?
+
+"But most importantly, Narrator, help me confirm something?"
+
+« What would you like me to confirm? »
+
+"If all my spells inherit firearm properties," Jin asked, leaning forward with barely contained anticipation, "would my spells and sorceries... now crit?"
+
+There was a pause before the Narrator confirmed.
+
+« ...Yes. Yes, they would. »
+
+For a heartbeat, Jin simply stared, the words sinking in, and then he pumped his fist in the air with excitement. "Holy fuck!!! You know what this means, right!"
+
+« Yes, I do. »
+
+In this world, spellcraft had always been shackled by one immutable rule: spells, sorceries, and incantations could not critically strike. This might not seem like much since the versatility of any external manifestation of essence mastery made up for the limitation. The only way to spike spell damage was to either have relevant buffs or the user should be equipped with important equipment.
+
+But now... that boundary had shattered.
+
+"I'm finally going to break the damage ceiling..." he murmured to himself, fingers twitching as if already itching to cast.
+
+« That we will see. How much of a difference this would make remains to be tested, but are you ready for the next? »
+
+Jin nodded and rolled his shoulders, preparing for the next absorption. There were still three more to go. His essence channels already ached from the first integration, a dull throb that would get worse before it got better.
+
+"Alright, what's next? Should we go for one of the difficult ones or build up gradually?"
+
+« We should proceed with the Thermokinetic Engine. Both Inevitable Doom and this skill require multi-stage fusion processes. It would be strategically sound to complete one difficult integration before your essence channels accumulate excessive strain. »
+
+"Makes sense. Walk me through it." Jin nodded.
+
+« We will first create Kinetic Mark and Thermal Mark as separate skills, then immediately use your Harvest Mantle to extract the skill imprints before they fully settle into your Mantle Heart. During the extraction window, we will fuse them with Energy Synthesis and Mana Heart cores to create the Thermokinetic Engine. »
+
+Jin whistled. "That's a lot of moving parts. What happens if I screw up the extraction timing?"
+
+« Best-case scenario, you lose all four sub-skill cores and waste the fusion attempt. Worst-case scenario, your Mantle Heart suffers structural damage that will require weeks of recovery time to heal. »
+
+"Great. No pressure then."
+
+« Correct. Please do not fail. »
+
+Jin almost laughed at the Narrator's complete lack of reassurance. "Just you watch, buddy."
+
+He gathered the required cores, laying them out in two groups.
+
+Group one: [Kinetic Mark]…[Kinetic Channeling] ←→ [Impact Redirection] ←→ [Kinetic Absorption] ←→ [Energy Condensation]
+
+Group two: [Thermal Mark]…
+
+[Redistribution] ←→ [Thermal Siphon] ←→ [Ignition Burst] ←→ [Energy Condensation]
+
+"Let's do this."
+
+He started with Kinetic Mark, placing his fingers on the four cores and initiating the integration sequence.
+
+The process moved faster this time. His Mantle was already primed from the first absorption. The cores dissolved, skill weaves spiraling through his essence channels down toward his Mantle Heart, where they began constructing new architecture.
+
+The moment Kinetic Mark took shape, Jin's consciousness snapped to the second set of cores, not giving the first skill time to fully settle. Thermal Mark formed in rapid succession, taking its own position in the constellation of skills surrounding his Mantle Heart.
+
+Both skills now existed simultaneously, incomplete but functional, their structures still malleable.
+
+"Now comes the hard part. Be ready to help, Narrator."
+
+He called upon Harvest and surprisingly, his Mantle resisted.
+
+Jin frowned as he forced himself to stay focused. Intentions from his Mantle reached him; it wanted to harvest. To consume and absorb and break down everything into raw fuel for growth. But Jin wanted it to extract intact, to pull the skill imprints free without destroying their fundamental structures.
+
+The two desires clashed, Jin's will against his own Mantle's instincts.
+
+« Find the commonality. Extraction is just selective harvesting. Taking what's needed without destroying the source. »
+
+He forced his consciousness to align with the Mantle's nature, showing it how extraction served the same ultimate purpose as consumption. Different method, same goal of increasing power.
+
+The chains resisted, but after a back-and-forth of intents, they finally acknowledged him.
+
+Silver-blue links wrapped around both skill imprints, Kinetic Mark and Thermal Mark, and Jin felt the Mantle's hunger strain against his control, but he held firm.
+
+The imprints extracted cleanly from their anchor points, floating free in his internal space.
+
+Jin immediately took direct control, using the chains as conduits to guide both extracted imprints toward each other. Energy Synthesis and Mana Heart skill weaves activated simultaneously, providing the fusion framework that would bind the two skills into a unified whole.
+
+And like everything, the skills also resisted. For some reason, they didn't want to merge any more than fire wanted to become water.
+
+Jin gritted his teeth, his physical body convulsing as he pushed harder. Pain spiked through his channels. Blood trickled from his nose, warm against his cold skin.
+
+The Energy Synthesis core pulsed, creating a harmonic frequency between the two skills. Mana Heart stabilized the reaction, preventing catastrophic collapse as opposing forces ground against each other.
+
+"Come on. Come ON." Jin screamed.
+
+The skills snapped into place.
+
+Reality stuttered as Jin's vision went white for a heartbeat before consciousness slammed back into his body.
+
+He was on his hands and knees on the cold floor, breathing hard, sweat dripping to form small pools beneath him. His essence channels burned like someone had filled them with molten glass.
+
+« Harvest extraction successful. Skill fusion complete. Thermokinetic Engine is now integrated. »
+
+"That," Jin panted, "was intense."
+
+He stayed on all fours for another minute, waiting for the world to stop spinning. When he finally trusted his legs again, he sat back on his heels and wiped blood from his upper lip.
+
+"Bring up the skill, and it better be worth all the trouble."
+
+O__________________________O
+
+◈ 【 Thermokinetic Engine 】 ◈
+
+✦ Mastery: [Novice] (01)✦ Type: UNIQUE | GROWTH✦ Classification: Augmentation | Energy Matrix | Bio-Construct
+
+【 Effect 】
+
+» Your body is reconstructed into a living thermokinetic reactor—a closed-loop system that treats thermal and kinetic energy as interchangeable fuels. Heat becomes motion. Motion becomes heat. Both become power.
+
+【 Core Functionalities Identified 】
+
+◈ Thermokinetic Engine└─ You passively draw in ambient heat and nearby kinetic forces. Absorbed energy does not harm you and is stored within the engine.└─ ?????└─ ??????└─ ?????
+
+◈ Thermo⇆Kinetic Transmutation 【PASSIVE】└─ All stored energy can be freely converted between heat and motion at a 1:1 efficiency ratio.
+
+【 Mastery Rank Effects 】
+
+◈ Adept → Locked◈ Elite → Locked◈ Master → Locked◈ ??? → Locked◈ ??? → Locked
+
+【 Summary 】
+
+Thermokinetic Engine restructures your physiology into a perpetual motion converter, transforming the chaos of combat into usable power reserves. The more you fight, the stronger you become.
+
+"The universe is energy in motion. You are now the converter."
+
+O__________________________O
+
+Jin read the description. His attention lingered on the Growth-type classification, which meant the skill would develop entirely new capabilities at each mastery milestone, not just scale up existing effects.
+
+"Nice, second growth-type," Jin mumbled before frowning. "Though, Narrator, why is there almost nothing in the description? It's as vague as it gets."
+
+« This is a higher-level skill. Only when you reach Adept would it fully reveal itself. For now, you can passively absorb energies even from attacks and movements, then utilize them. »
+
+"Yeah, I got that much," Jin said. "This is still pretty good for damage mitigation and surviving in general."
+
+« Two more skills to go. »
+
+"Hmm."
+
+His essence channels protested the idea of more integration work, but he couldn't stop now. Not when he was this close to completing his build.
+
+"Alright. Which one next?"
+
+« We should proceed with Spell Weaver's Matrix before attempting Inevitable Doom. »
+
+Jin frowned. "Why? I thought we'd do Inevitable Doom next since it's similar in difficulty to what we just finished."
+
+« Spell Weaver's Matrix will strengthen and enhance your foundational essence architecture, providing better structural support for subsequent integrations. Think of it as foundation reinforcement before adding additional load-bearing elements. »
+
+"You're saying my channels can't handle another complex fusion right now."
+
+« Your channels could theoretically withstand the strain. However, the success probability would decrease significantly, and the recovery time would extend dramatically. Spell Weaver's Matrix will optimize your essence circulation, reducing both risks. »
+
+Jin rubbed his face, feeling stubble scratch against his palm. The Narrator was right. Again. He was pushing too hard, too fast, and that was how people ended up with permanently damaged cultivation bases.
+
+"You're the boss here. Let's do Matrix first."
+
+[Mana Heart] ←→ [Essence Stitching] ←→ [Energy Condensation] ←→ [Breath Regulation]
+
+The integration process moved smoothly compared to the Thermokinetic Engine. The cores dissolved and flowed through his channels with almost eager cooperation, like they'd been waiting for this specific combination all along.
+
+« Skill fusion complete. Spell Weaver's Matrix is now integrated. »
+
+o__________________________________________o
+
+◈ 【 Spell Weaver's Matrix 】 ◈
+
+✦ Mastery: [Novice] (01)✦ Type: UNIQUE✦ Classification: Augmentation | Essence Matrix | Arcane Bio-Construct✦ Base Essence Cost: None
+
+【 Effect 】
+
+» Creates a permanent essence circulation matrix that optimizes mana flow throughout the body. This passive skill provides perpetual bonuses to essence capacity, regeneration, efficiency, and casting speed.
+
+【 Core Functionalities Identified 】
+
+◈ Arcane Circulation Grid 【PASSIVE】└─ Reconfigures the User's internal essence channels into a stable lattice, increasing baseline throughput and recovery without requiring conscious control.└─ [Max Essence: +30%]└─ [Essence Regen: +25%]└─ [Spell Cost Reduction: -15%]└─ [Cast Time Reduction: -35%]└─ All values scale per Mastery tier.
+
+◈ Flow Harmonization 【PASSIVE】└─ Normalizes and smooths conflicting essence types inside the User (Astral, elemental, death-aspected, divine residue, corruptive fragments, etc.), reducing internal clash and backlash when mixing or rapidly switching sources.
+
+◈ Weave Stabilizer Subroutine 【PASSIVE】└─ Stabilizes spell and sorcery formations at the moment of casting, reducing miscast chance and pattern collapse when channeling under stress, pain, or cognitive overload.└─ Expands the safe upper limit for simultaneous channeling, but repeated abuse of this buffer accumulates "micro-fractures" in the matrix that must be repaired via rest or targeted healing.
+
+【 Summary 】
+
+» Spell Weaver's Matrix is a foundational self-modification that rewires the User's entire essence circulation into a high-efficiency casting engine.» Remarkably potent in precise hands, catastrophically punishing in reckless ones.
+
+The matrix strengthens every cast you make—but failure to respect its limits ensures it will eventually remind you that it is part of your body... and can break like one.
+
+o__________________________________________o
+
+Jin felt the effects settle into his body immediately. His essence pool expanded, channels widening to accommodate more power. Regeneration kicked up, and ambient essence flowed into him faster and smoother than it ever had. The changes were permanent, he realized. This wasn't a buff that would wear off.
+
+"You know what? The first skill, Spellshot, is kinda useless mid-fight if I'm not prepared, since I'm not actually a mage yet and don't have any spells. But with this skill's stabilization subroutine, I could theoretically cast one-verse spells in under a second."
+
+« Indeed. With sufficient practice, you could forgo manual stabilization work entirely and allow the skill to handle structural integrity automatically. This would free significant mental capacity for tactical decision-making during combat. »
+
+"Yeah."
+
+Jin heaved deep breaths, wiping sweat that had soaked through to drip onto the floor. Barely twenty minutes had passed, but he felt like he'd run a marathon uphill while carrying weights. Already, he could feel the Matrix optimizing his essence flow, smoothing out the rough edges left by the previous integrations.
+
+He pushed himself to his feet, shaking out his limbs to restore blood flow. Light jumping jacks, arm rotations, anything to keep his body from locking up completely.
+
+One skill left. The big one.
+
+"Let's make Inevitable Doom. I'm really excited for that skill."
+
+« Understood. Same multi-stage process as before. We create Marked Trajectory and Cascade Detonation as separate skills, then immediately extract and fuse them with Mirror Shard and Energy Synthesis cores. »
+
+"That's a lot of work." Jin cracked his knuckles. "Let's do this."
+
+He laid out the cores for Marked Trajectory first.
+
+[Curse Weaving] ←→ [Critical Reveal] ←→ [Cognitive Trace] ←→ [Essence Iris]
+
+The integration started, skill weaves spiraling down toward his Mantle Heart.
+
+As soon as Marked Trajectory took shape, Jin phased his consciousness out and moved immediately to Cascade Detonation.
+
+[Chain Detonation] ←→ [Pulse Detonation] ←→ [Curse Weaving] ←→ [Energy Condensation]
+
+Both skills now existed simultaneously in his Sea of Consciousness, their structures still malleable and incomplete.
+
+Jin dove into his internal space and called upon Harvest with the sole intent to extract.
+
+The Mantle resisted again, but less than before. The chains wrapped around both skill imprints and pulled them free from their anchors with surgical precision.
+
+Jin took immediate control, using chains as conduits to guide Marked Trajectory and Cascade Detonation toward each other. Mirror Shard and Energy Synthesis cores activated, providing a fusion framework.
+
+The skills fought the merge harder than Kinetic and Thermal Mark had. These were more complex, more conceptually distinct. Forcing them together felt like solving a puzzle where half the pieces didn't actually fit but had to be made to fit through sheer determination.
+
+Jin gritted his teeth, his physical body shaking as he pushed his will against resistant runes.
+
+"Come on. Almost there."
+
+The runes of the skills snapped into place with a sound like breaking glass.
+
+Jin's consciousness slammed back into his body hard enough that he collapsed sideways, barely catching himself before his head hit the floor. He lay there gasping, every muscle trembling, essence channels feeling scraped raw and bleeding, even though no actual physical damage had occurred.
+
+« Harvest extraction successful. Skill fusion complete. Inevitable Doom is now integrated. »
+
+Jin couldn't respond. He just lay there on the cold concrete, staring up at the ceiling, watching his vision swim and refocus and swim again.
+
+After what felt like hours but was probably only minutes, he managed to rasp out, "Come on, Narrator, you don't need me to say it out loud!"
+
+o__________________________________________o
+
+◈ 【 Inevitable Doom 】 ◈
+
+✦ Mastery: [Novice] (01)✦ Type: UNIQUE | GROWTH✦ Classification: Affliction | DOT | Curse
+
+【 Effect 】
+
+» Places a curse mark on your enemies, representing a sign of their DOOM. Marked targets become priority kill targets—their death is inevitable, the only question is when.
+
+【 Core Functionalities Identified 】
+
+» When you focus on a hostile target within line of sight, that target is automatically afflicted with [Mark of Doom] for 7 seconds. Focus does not interrupt other actions.
+
+» If you deal any damage to a target while [Mark of Doom] is active, the mark is consumed and immediately upgraded to [Mark of True Doom].
+
+◈ Mark of Doom 【STAGE I】
+
+» The moment you acknowledge them, their death begins counting down.
+
+✦ Mark of Doom is a 7-second affliction that quietly designates a target for annihilation. Only you can see the mark.
+
+✦ While marked, the target suffers increased damage from you, and their resistance, mitigation, and negation against your attacks and further afflictions are sharply reduced.
+
+✦ Any affliction you apply during this window enters with double stacks and gains an extended duration, making it significantly harder to cleanse or fade.
+
+✦ If the Mark of Doom is cleansed by a target, that target cannot be marked again for the next 30 seconds.
+
+◈ Mark of True Doom 【STAGE II】
+
+└─ This is the second-phase escalation that triggers the moment you deal any damage to a target already suffering under [Mark of Doom].
+
+└─ The duration is based on individual afflictions applied; [Mark of True Doom] persists while at least one linked affliction remains.
+
+└─ Target is immediately afflicted with 3–10 random curses or negative status effects from the system's affliction pool.
+
+└─ All existing and newly applied afflictions on the target have their duration doubled and cannot be purged, cleansed, or dispelled for their full duration.
+
+└─ Afflictions on the target may stack up to x5 their normal maximum and also inflict 5x potency, massively increasing their overall effect.
+
+└─ Target's resistance to further afflictions and debuffs is heavily reduced, making additional curses easier to apply and harder to resist.
+
+◈ Inevitable Doom 【STAGE III】
+
+└─ [Inevitable Doom] is the finality, the final permanent curse that spells your enemy's doom.
+
+└─ ?????
+
+└─ ????
+
+└─ ????
+
+【 Mastery Rank Effects 】
+
+◈ Adept → Locked◈ Elite → Locked◈ Master → Locked◈ ??? → Locked◈ ??? → Locked
+
+o__________________________________________o
+
+Jin's eyes drifted closed despite his best efforts to keep them open. Exhaustion crashed over him in waves, pulling him down toward unconsciousness with inexorable force. His last coherent thought was that he'd successfully integrated all four skills without permanently damaging anything vital.
+
+His vision faded to black.
+
+~~~

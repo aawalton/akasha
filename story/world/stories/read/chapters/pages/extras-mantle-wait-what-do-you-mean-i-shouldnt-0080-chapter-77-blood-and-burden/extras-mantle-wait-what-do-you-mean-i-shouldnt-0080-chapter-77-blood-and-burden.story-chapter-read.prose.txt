@@ -1,0 +1,763 @@
+Jin curled up on the cold concrete floor, body convulsing as the ORDER IV power tore through him like fire through dry timber. His Mantle Heart pulsed erratically, chains manifesting and retracting in spasms across his skin. The Narrator's voice cut in and out, fragmented warnings that sounded like a radio broadcast through a storm.
+
+« CRITICAL OVERLOAD DETECTED. REDISTRIBUTE. OVERFLOW INTO— »
+
+"I swear to god," Jin gasped through clenched teeth, "if you're about to say 'I told you so'..."
+
+« I am calculating probabilities of your survival, not engaging in petty vindication. Current odds: 43%. »
+
+"Ugh." Jin's vision blurred as another wave of power slammed into him. His bones felt like they were being reforged from the inside out. "Love those numbers. Really comforting."
+
+« Redirecting excess power to bonded items. Reduvia accepting overflow. Iron Howl at capacity. Essence Edge saturating. Barely. »
+
+Jin barely heard it. The world had narrowed to just pain and the desperate need not to let his soul structure fracture under the strain. His Mantle worked overtime, compressing, converting, storing what it could, and bleeding off the rest before it could kill him.
+
+Then, just when he thought his entire body was going to tear itself apart at the seams, the torrent stopped.
+
+The pain didn't vanish so much as it broke, fever-style, leaving him gasping on the floor in a puddle of sweat that steamed in the cold air of the underground. His heart hammered against his ribs. Every breath tasted like metal and burnt something.
+
+« Harvest complete. »
+
+« Harvested Resources »
+
+✦ STATS
+
+└─ [56.031] stats of VIT.
+
+└─ [89.018] stats of STR.
+
+└─ [62.057] stats of END.
+
+└─ [49.111] stats of DEX.
+
+└─ [52.021] stats of FOC.
+
+└─ [51.099] stats of INT.
+
+└─ [64.021] stats of SOUL.
+
+✦ VITALITY
+
+└─ [11482.12] units of vitality restored.
+
+✦ AURA & BLESSINGS
+
+└─ [11.0432] wisps of "The Darkened One's" Aura
+
+└─ [11.1251] wisps of "The Blood Mother's" Aura
+
+└─ [1.0455] wisps of Blessing of "The Darkened One."
+
+└─ [4.0906] wisps of Blessing of "The Blood Mother."
+
+└─ [0.2237] wisp of Anomalous Blessing ("The Thorned Vein") — unidentified
+
+✦ LATENT AURA
+
+└─ [51.233] units of Latent Aura
+
+✦ LORD'S FLAME
+
+└─ [11.233] units of Underlord soul flames.
+
+✦ SKILL FRAGMENTS
+
+└─ [92.771%] fragments of "Blood Ritual Mastery."
+
+└─ [66.342%] fragments of "Hematophagic Surge."
+
+└─ [57.119%] fragments of "Crimson Mantra."
+
+└─ [84.992%] fragments of "Blood Puppet Control."
+
+└─ [45.201%] fragments of "Vitality Drain."
+
+└─ [32.661%] fragments of "Severing Art: Artery Rend."
+
+└─ [77.009%] fragments of "Crimson Armor."
+
+└─ [29.128%] fragments of "Organic Weaponization."
+
+└─ [54.882%] fragments of "Life-Thread Manipulation."
+
+└─ [61.300%] fragments of "Blood Mist Step."
+
+└─ [40.331%] fragments of "Pulse Tracking."
+
+└─ [91.778%] fragments of "Corrupted Flesh Rebirth (Incomplete)."
+
+└─ [36.001%] fragments of "Soul-Sang Recollection."
+
+└─ [22.904%] fragments of "Crimson Sigil Casting."
+
+└─ [10.331%] fragments of "Forbidden Rite: Feast of 1,000 Veins."
+
+✦ FRAGMENT CONSOLIDATION & MERGERS
+
+└─ MERGED SKILL #1: [NOVICE] Greater Blood Arts (01).
+
+└─ MERGED SKILL #2: [NOVICE] Vital Force Predation (01)
+
+└─ MERGED SKILL #3: [NOVICE] Path of Crimson Blood (01)
+
+└─ MERGED SKILL #4: [NOVICE] Flesh Alchemy (01)
+
+└─ MERGED SKILL #5: [NOVICE] Flesh Alchemy (01) » COMBINED WITH FLESHCRAFTER » [NOVICE] Path of Fleshcrafting
+
+└─ MERGED SKILL #6: [NOVICE] Essence Construct (01) | [ACTIVE SKILL]
+
+└─ MERGED SKILL #7: [NOVICE] Feast of Absolution (01) | [ACTIVE SKILL]
+
+└─ MERGED SKILL #8: [NOVICE] Sanguine Constructs (01) | [ACTIVE SKILL]
+
+« Consolidation underway. Status updating… »
+
+✦ AFFINITIES
+
+└─ [21.123] units of shadow affinity
+
+└─ [78.089] units of Blood affinity
+
+└─ [7.221] units of Flesh affinity
+
+└─ [1.002] units of Corruption affinity
+
+✦ OTHERS
+
+└─ "Lord-tier Blood Core Residue" obtained — can be refined or consumed.
+
+└─ 1× "Crimson Memory Cluster" — sealed; requires careful integration.
+
+└─ Psychological imprints detected: fanatic devotion, ritual cycles, butchery techniques, chain-hierarchy logic.
+
+└─ Memory bleed isolation is active.
+
+└─ Breakdown in progress…
+
+« HARVEST COMPLETE! »
+
+The blue window flooded his vision with data. Jin stared at it with bleary eyes, not quite processing the sheer volume of acquisitions scrolling past. Stats, affinities, skill fragments, auras, blessings, and buried in the middle of it all, he'd even managed to get wisps of "Lord's Flame."
+
+Laughing bloodily, he pulled a healing potion from his ring with shaking hands, nearly dropping it twice before getting the cork out. The liquid tasted like copper and mint, burned going down, but the ache in his bones started to fade.
+
+"That was not fun." Jin croaked, wiping blood from his nose. "Heavens, that hurts."
+
+« Approximately 73% more than your previous highest yield. Also, 60% of the total potential harvest was lost due to insufficient capacity. »
+
+Jin pushed himself up to a sitting position, back against the wall. "Wait, I lost more than half of it?"
+
+« Think of your soul as a container. You attempted to pour an ocean into a cup. Compression only helps so much. »
+
+"A really awesome cup, though, I hope."
+
+« Your hubris remains intact, I see. »
+
+Jin snorted, then winced as the movement sent a spike of pain through his ribs. He pulled up the full harvest readout again, scanning through the data with more focus now that his brain wasn't melting. The stat gains were insane. And the Lord's Flame...
+
+"So what you're saying is, I bit off more than I could chew."
+
+« An oversimplification, but accurate. I recommend limiting future harvests to half-step ORDER IV at maximum. Peak ORDER III preferably, until your masteries increase or you ascend. »
+
+"What happens if I just decide to take a quick bite?"
+
+« Your soul structure could fracture. Permanent crippling. Or death. Possibly both simultaneously, which would be unprecedented and scientifically fascinating. »
+
+Jin rubbed his face with both hands. "You have really messed up the idea of 'fascinating.'"
+
+« I contain multitudes. »
+
+"Okay, this... the units of the Lord's Flame are indeed real lord's flames?"
+
+« Yes. The threshold between ORDER III and ORDER IV. »
+
+Jin leaned forward. "So I can not only get latent aura but also harvest Lord's Flame?"
+
+« With chance, yes, you can. »
+
+« To ascend to ORDER IV, a cultivator must compress their latent aura to critical density, then ignite it. Successfully sparking the flame transforms the aura into something fundamentally different. More potent. More refined. A single unit of flame-converted aura equals approximately ten units of compressed latent aura in practical application. »
+
+"I know about that. You're citing my memories to me!" Jin chuckled.
+
+« You have one chance. One moment of ignition. The process cannot be halted once begun, and cannot be repeated if you fail. Failure results in the aura collapsing inward, crippling your cultivation base permanently. Most who attempt it without proper preparation lose everything. »
+
+"Shut up."
+
+"I call upon my Mantle," Jin said.
+
+o__________________________________________o
+
+…
+
+NAME: Jin Winters
+
+AGE: 17 years old.
+
+[ORDER II] ENTITY | High Mortal Rank
+
+TITLE: The Soul Truly Beyond the Stars of Fate, The one who harvested Divinity, The Eternal One’s Blessed.
+
+o~~~~~~~~~~~~~~~~~~~~~~o
+
+THE MANTLE OF HARVEST
+
+o~~~~~~~~~~~~~~~~~~~~~~o
+
+❂ BOON
+
+"What mortal hands would barely reap, the Bearer's touch shall always yield more—when the harvest blade learns new domains, all gathered yields eternal gains."
+
+└─[MANIFESTATIONS]: CHAINS OF HARVEST
+
+o~~~~~~~~~~~~~~~~~~~~~~o
+
+❂ CULTIVATION PATH
+
+『 THE PATH OF ETERNAL SOVEREIGN 』
+
+o~~~~~~~~~~~~~~~~~~~~~~o
+
+"Reality bends not to strength, but to absolute understanding. The Eternal Sovereign walks between mortal perception and cosmic truth, wielding consciousness as both weapon and crown."
+
+【PAGE ONE: THE FIRST THRESHOLD, TRIESSENCE STAR FORMATION.】
+
+└─ [STARS FORGED] 1/3
+
+【First Star: The Eternal Sovereign Soul.】[ASSIMILATE]
+
+【FUCTIONS】
+
+»»»» ESSENCE CONVERSION ENGINE
+
+└─ Converts ANY essence type → Astral Essence
+
+└─ Conversion Rate: 85% efficiency (base)
+
+»»»» PURIFICATION PROTOCOL
+
+└─ Automatically cleanses and protects from hostile/incompatible essence and presences.
+
+»»»» SYNTHESIS MATRIX
+
+└─ Combines multiple essence types into hybrid forms
+
+└─ Creates custom essence signatures
+
+【PASSIVE EFFECTS】
+
+»»»» Essence Purity: +289%
+
+»»»» Cultivation Speed: +198%
+
+»»»» Breakthrough Stability: +412%
+
+»»»» Corruption Resistance: HIGH
+
+o~~~~~~~~~~~~~~~~~~~~~~o
+
+❂ ESSENCE TRANSFORMATION
+
+»»»» ESSENCE → ASTRAL ESSENCE
+
+»»»» PURITY: Exceptional (+200% from Star)
+
+o~~~~~~~~~~~~~~~~~~~~~~o
+
+❂ AFFINITY
+
+»»»» Major Affinities
+
+✦ [CRYO]
+
+✦ [DARKNESS]
+
+✦ [BLOOD]
+
+»»»» Minor and forming Affinities
+
+└─ [SPACE]: 79.002%
+
+└─ [VOID]: 14.045%
+
+└─ [EARTH]: 25.012%
+
+└─ [FLESH]: 12.012%
+
+└─ [LIFE]: 14.441%
+
+└─ [THERMAL]: 31.012%
+
+└─ [KINETIC]: 28.012%
+
+o~~~~~~~~~~~~~~~~~~~~~~o
+
+❂ STATS
+
+❂ [BODY]
+
+└─ Vitality: 100.00 [+]
+
+└─ Strength: 94.403
+
+└─ Endurance: 89.798
+
+└─ Dexterity: 97.221
+
+└─ Resistance: 100.00 [+]
+
+❂ [MIND]
+
+└─ Intelligence: 100.00 [+]
+
+└─ Essence: 100.00 [+]
+
+└─ Focus: 97.645
+
+└─ Will: 100.00 [+]
+
+❂ [SOUL]
+
+└─ Soul: 97.128
+
+└─ Insight: 1.11
+
+└─Karma: 0.0111111
+
+…
+
+o~~~~~~~~~~~~~~~~~~~~~~o
+
+❂ MARKED SKILLS [5/5]
+
+»»»» [Adept] [OMNI-READER'S VIEWPOINT (GROWTH TYPE)] (91)
+
+»»»» [Novice] [INEVITABLE DOOM (GROWTH TYPE)] (01)
+
+»»»» [Novice] [THERMOKINETIC ENGINE (GROWTH TYPE)] (03)
+
+»»»» [Novice] [SPELLSHOT SYNTHESIS] (01)
+
+»»»» [Novice] [SPELL WEAVER’S MATRIX] (01)
+
+o~~~~~~~~~~~~~~~~~~~~~~o
+
+❂ BONDED SKILLS
+
+»»»» [Novice] Reduvia's Shadow
+
+└─ Darkness Born [Bond Lv. 3] (Inherited)
+
+└─ ?????
+
+❂ EQUIPPED EQUIPMENT & ASSOCIATED SKILLS
+
+»»»» Iron Howl: Soulbound [LVL 3]
+
+└─ [Spatial Link Chamber]
+
+└─ [Essence Resonance Burst]
+
+└─ [Predator’s Mark]
+
+└─ [Soul Memory] » Imprints (1/3) → Imprint of Velakin
+
+»»»» Essence Edge: Soulbound [LVL 3]
+
+└─ [Essence Catalyst] » [250]% bonus
+
+└─ [Essence Reservoir]
+
+»»»» Zephyr Stride
+
+»»»» RESONANT BANDS OF THE DUAL FLOW
+
+»»»» WHISPERLINKS V1.0
+
+»»»» HELLDIVER'S MARK
+
+»»»» Ring of Crimsion Aurelian (Spatial storage ring)
+
+o~~~~~~~~~~~~~~~~~~~~~~o
+
+❂ ACQUIRED SKILLS
+
+【COMBAT & WEAPON MASTERY】
+
+»»»» [Adept] Light Firearm Mastery (99)
+
+»»»» [Adept] Combat Flow (99)
+
+»»»» [Adept] Combat Mastery (98)
+
+»»»» [Adept] Dagger Mastery (86)
+
+»»»» [Adept] Unarmed Combat Mastery (89)
+
+»»»» [Adept] Tactics and Battle Plans (97)
+
+»»»» [Adept] Aiming (91)
+
+»»»» [Adept] Adaptive Combat Instinct (97)
+
+»»»» [Adept] Sword Mastery (59)
+
+»»»» [Adept] Dual Wield Synchronization (71)
+
+»»»» [Novice] Improvised Weapon Familiarity (01)
+
+»»»» [Novice] Collateral Anticipation (01)
+
+»»»» [Novice] Vital Force Predation (01)
+
+»»»» [Novice] Entropy Zone (03) | [ACTIVE SKILL]
+
+»»»» [Novice] Spatial Seal (01) | [ACTIVE SKILL]
+
+【ESSENCE & SORCERY】
+
+»»»» [Adept] Essence Manipulation (97)
+
+»»»» [Adept] Essence Conversion (83)
+
+»»»» [Adept] Path of Sorceries (94)
+
+»»»» [Adept] Essence Sight (94)
+
+»»»» [Adept] Path of Rituals (92)
+
+»»»» [Adept] Essence Gathering and Cultivation (93)
+
+»»»» [Adept] Sorcery Incantation (93)
+
+»»»» [Adept] Essence Honing (98) | [ACTIVE SKILL]
+
+»»»» [Adept] Essence Breathing Techniques (96)
+
+»»»» [Adept] Essence Flow Reading (88)
+
+»»»» [Adept] Essence Reserves Overload (65)
+
+»»»» [Adept] Essence Reinforcement (73) | [ACTIVE SKILL]
+
+»»»» [Novice] Essence Construct (01) | [ACTIVE SKILL]
+
+»»»» [Novice] Feast of Absolution (01) | [ACTIVE SKILL]
+
+»»»» [Novice] Sanguine constructs (01) | [ACTIVE SKILL]
+
+»»»» [Novice] Greater Blood Arts (01)
+
+»»»» [Novice] Path of Crimson Blood (01)
+
+»»»» [Novice] Divinity Manipulation «UNIQUE» (01)
+
+»»»» [Novice] Karma Manipulation «UNIQUE» (01)
+
+【PERCEPTION & ANALYSIS】
+
+»»»» [Adept] Reading (87)
+
+»»»» [Adept] Learning and Remembering (93)
+
+»»»» [Adept] Target Assessment (78)
+
+»»»» [Adept] Predictive Analysis (88)
+
+»»»» [Adept] Weak Point Insights (97)
+
+»»»» [Adept] Observe (88)
+
+»»»» [Adept] Farsight (89)
+
+»»»» [Adept] Danger Sense (89)
+
+»»»» [Adept] Rune Knowledge (89)
+
+【PHYSICAL & MOBILITY】
+
+»»»» [Adept] Pain Suppression (94)
+
+»»»» [Adept] Pain Resistance (96)
+
+»»»» [Adept] Pain Mitigation (84)
+
+»»»» [Adept] Physical Fitness (84)
+
+»»»» [Adept] Adrenaline Overclock (81)
+
+»»»» [Adept] Momentum Control (81)
+
+»»»» [Adept] Ambidexterity (88)
+
+»»»» [Adept] Sprinting (86)
+
+»»»» [Adept] Evasion (74)
+
+»»»» [Adept] Acrobatics (61)
+
+»»»» [Adept] Dodging (71)
+
+»»»» [Adept] Quick fingers (89)
+
+»»»» [Adept] sleight of hand (81)
+
+【UTILITY & CRAFT】
+
+»»»» [Adept] Strategic Planning (89)
+
+»»»» [Adept] Runecarving (87)
+
+»»»» [Adept] Ritual circles making (87)
+
+»»»» [Adept] Alchemy/Potion Crafting (68)
+
+»»»» [Novice] Path of Fleshcrafting (02)
+
+»»»» [Novice] Cleaning (43)
+
+【MENTAL FORTITUDE】
+
+»»»» [Adept] Unbreaking Mind (78)
+
+o~~~~~~~~~~~~~~~~~~~~~~o
+
+❂ ACTIVE EFFECTS
+
+»»»» Divine Blessing Residue: 0.001% (fading)
+
+»»»» Latent Aura: Awakened (not yet condensed) [129 Units]
+
+»»»» Lord’s Flame: unsparked [11.23 Units]
+
+o~~~~~~~~~~~~~~~~~~~~~~o
+
+【WARNINGS】
+
+»»»» Fate Variant Signature V
+
+»»»» Karmic Anomaly Present
+
+…
+
+o__________________________________________o
+
+Jin scrolled through his status again, noticing several skills hovering at the edge of advancement. "Wait, hold up. A lot of my skills are about to hit Elite rank. That's big, right?"
+
+« Yes. Each tier advancement grants instinctual understanding of the skill's application. Novice to Adept provides foundational mastery. Adept to Elite unlocks traits. »
+
+« And according to your memories, traits are unique modifications based on your cultivation path and usage patterns. For sword mastery, it could manifest as increased cutting power, essence integration, or technique specialization. The trait is individual to the practitioner. »
+
+Jin nodded. "Omni-Reader's Viewpoint is almost at Elite, too. And what's this Perspective Shift thing? I don't remember that being there before."
+
+« New sub-ability. Unlocked at Adept rank. »
+
+"Why didn't you tell me before?"
+
+« I informed you. Three times. You were distracted by Joe's spatial doors, Reyana's potion brewing efficiency, and, I quote, 'that really awesome sandwich.' »
+
+Jin scratched his head sheepishly. He vaguely remembered the narrator saying something while he'd been watching Joe work. And that turkey club had been really good. "Oh. Right. So what does it do?"
+
+« Entities linked through your Harvest chains become potential viewpoints. »
+
+Jin straightened. "Wait, so that's why I suddenly saw through Mr. Door's...?"
+
+« Likely. The connection was strong. You were curious. The ability activated. »
+
+"Can I control it?"
+
+« With practice. Currently, it triggers based on subconscious focus and existing connection strength. The cultist you just harvested, for example, would provide a potential viewpoint. » The Narrator paused. « If he weren't deceased. »
+
+"That's actually really useful for intel gathering."
+
+« Indeed. Though I recommend discretion regarding this capability. »
+
+"Yeah, I don't wanna accidentally meet their gods. That would be stupid." Jin nodded slowly.
+
+His earpiece crackled to life. Joe's voice came through clear despite the faint sound of explosions in the background. "Testing one, two, three. Mighty Joe here. We are ready to leave."
+
+Jin stood. "Yup, we should. I'm assuming Salvatore already went ahead?"
+
+"Indeed, our leader, well, previous leader, is more of a solo person. I've no doubt he's already engaged with cultists. Ever since you came along, he's been enjoying himself immensely."
+
+"I bet it's the burden of survival and leadership that's off him." Jin chuckled darkly. "Now that pressure's on me."
+
+"You can handle this, Jin." Joe's voice returned, filled with reassurance.
+
+"Give me a moment, and I'll join you guys." Jin cut the connection, and after a couple of minutes meditating, he headed for the door.
+
+◈◈◈
+
+The Vienna streets looked like a warzone. Smoke drifted between buildings, thick enough to taste. The burnt smell mixed with copper, blood, and something else Jin couldn't quite identify but made his skin crawl. An unnatural silence filled the gaps between distant explosions and screams.
+
+"Shit," Rudy muttered, looking at a collapsed building. The entire western wall had been sheared off cleanly, leaving furnished rooms exposed like a dollhouse. "Master really doesn't do half-measures."
+
+"He's pulling attention across the whole district," Jin said. "Good for us."
+
+"Yeah, but that means our window is also closing." Reyana's voice was calm and professional. "They'll regroup soon."
+
+"Then we move fast. We have two locations to hit. Remember: in, plant the crystals, loot what we can, out before they even know we were there."
+
+Rudy grinned. "Easy."
+
+"You just jinxed us."
+
+"Nah, that's not how jinxes work."
+
+Jin shot him a look.
+
+The target came into view around the next corner. A fortified warehouse, cult banners hanging from the walls in crimson and black. Jin's sight revealed the power signatures inside.
+
+"Around thirteen," Jin whispered. "All ORDER III. There might be an ORDER IV."
+
+Reyana exhaled slowly. "Well, this was bound to come sooner rather than later."
+
+Rudy cracked his knuckles and hefted his greatsword, his essence flaring brighter. "Only if we fight fair."
+
+Jin checked Iron Howl and made sure everything was ready. "Let's get this done and bail out. The longer we are on the surface, the worse our situation will get."
+
+"I'd want nothing else," Reyana said.
+
+"Rudy, you're the door."
+
+"My favorite role."
+
+"Reyana, their archer is on the second floor, northwest corner. He's yours first. Get in there and wipe them out."
+
+"Got it."
+
+Jin pulled his gun. "On three. One. Two."
+
+Rudy didn't wait for three.
+
+He hit the reinforced door with his flames blazing from his greatsword, and the whole thing exploded inward in a shower of splinters and twisted metal. The purple-haired teenager crashed through like a comet, and Jin followed half a second behind with Reyana flanking left.
+
+The warehouse interior erupted into chaos.
+
+Cultists scrambled for weapons, for position, for any kind of organized response.
+
+"Alright, time for a new skill!"
+
+Jin's eyes shone with a faint red glow as he quickly went over all three nearest cultists in his clear line of sight. A red sigil of a skull appeared above their heads in his vision.
+
+Jin poured essence and shot two rounds into the cultist, channeling what looked like a blood magic ritual. The bullets pierced the man's left leg and the center of his chest.
+
+He reached out with his free hand and clenched the air. A seemingly simple gesture triggered another skill, [Spellshot Synthesis], which allowed him to imbue a spell on his bullets. All Jin did was imbue an unstable sorcery without any proper form, and when he triggered it, the unstable sorcery exploded inside the man.
+
+BOOM.
+
+Jin called up Reduvia and dove into the shadows as his eyes shone over the rest of the cultists. Multiple sigils popped up above the enemies' heads.
+
+"Rudy, make sure you attack all of them!" Jin said, his voice reaching through the earpiece.
+
+"Aye aye," Rudy responded as he lunged for three cultists converging on Jin's position. White flames with a red tinge formed crude armor around Rudy's arms as he blocked a blood-red blade with his forearm, laughed, and drove his fist through the cultist's guard hard enough to crack ribs.
+
+Rudy jumped and threw his greatsword down, which landed with a boom, exploding waves of fire throughout the place.
+
+"You're gonna burn this place down, Rudy!"
+
+"That's what we are here for!" Rudy called back.
+
+Jin activated his other skill, [Entropy Zone], and a wave of cascading withering aura exploded out, halting and forcing the two cultists' movements just long enough for Iron Howl to find center mass. The bullet pierced, and once again, Jin activated the unstable sorceries imbued in the bullets.
+
+BOOM.
+
+"So far so good!" Jin breathed heavily as he reappeared out of the shadows at the far end of the room. Using this many abilities at once was more tiring than using sorcery.
+
+But the skills were worth it. The afflictions stacking up with his Inevitable Doom skill were game changers. None of the cultists here were elite, and managing to keep the nasty curses piling up meant fighting against two enemies cost much of their attention. They couldn't properly utilize their auras to lock both Jin and Rudy down.
+
+Jin was sure he was hit less than when they'd fought the necromancer, who had been a truly elite ORDER III.
+
+Reyana dropped from the second level like a falling knife, her longsword finding a cultist's throat on the way down. She hit the ground in a roll, came up cutting, and another cultist fell.
+
+Jin noticed that anything she touched and hit with her sword rapidly decayed and withered.
+
+So that's her Mantle... even when suppressed and excess essence harvested.
+
+Blood magic barriers snapped into place across the warehouse.
+
+"Let's finish this up fast," Jin spoke softly, and both Reyana and Rudy nodded back.
+
+"The confusion is settling, and they might start adapting—"
+
+A blood spear appeared inches from Jin's face. He threw himself sideways, felt it graze his cheek, hot as a brand. Another cultist was already moving in behind it, blade raised.
+
+Rudy intercepted with a flying tackle that took both of them through a wooden crate, and Jin heard the meaty sound of fists on flesh.
+
+Jin's danger sense screamed. He activated the Entropy Zone without thinking, and a wave of wither and decay rolled off around him. Two blood spears halted mid-flight. The cultist who'd thrown them stared in shock.
+
+Jin shot him in the face, but the cultist had already erected a shield. The subsequent blast from the sorcery detonating broke the shield, but the cultist was already on the move, his hands moving rapidly in signs.
+
+"Rudy, that one!" Jin pointed at a cultist in the back, hands moving through complex gestures.
+
+They moved as one unit. Rudy was blocked by two cultists.
+
+"Shit. Reyana, he's yours."
+
+"Gladly," Reyana said as she dashed toward the one no doubt setting up a ritual circle.
+
+A cultist got past Jin's guard, blade opening a line across his ribs. Jin hissed, shot the cultist in the knee, and followed up with a knee to the chest, and his dagger slitting the enemy's throat.
+
+One of the cultists, blood running down his face, raised his hands and screamed. "For the Blood Mother! For the Convergence! Your blood feeds the Veil!"
+
+"Shut up!" Rudy's punch landed hard on his face.
+
+Another cultist, eyes wild with fanaticism, laughed as he channeled his own life force. "The Darkened One sees all! Your deaths nourish the ritual! The Veil hungers!"
+
+Jin put two rounds through his chest. "Yeah, well, the Veil's gonna stay hungry."
+
+A third cultist, wounded and cornered, spat blood. "You cannot stop what has been set in motion! The Convergence reaches its apex! Vienna bleeds, and from its blood, salvation!"
+
+"Salvation." Jin reloaded. "Oh, my all god all of you are brainwashed fanatics."
+
+The cultist grinned through broken teeth. "The worthy will ascend. The unworthy become fuel. Which are you, child?"
+
+His hand whipped around, and the dagger punched through the cultist's heart. "Neither."
+
+The warehouse fell silent except for their heavy breathing.
+
+"These guys really were over the top actors…" Rudy muttered, kicking over a body.
+
+"Fanatics always are," Reyana said, cleaning her blade.
+
+◈◈◈
+
+The looting went fast. Bodies and all went into one of the designated rings.
+
+The ritual chamber was in the basement, hidden behind a false wall that Jin spotted immediately. The circles were elaborate, intricate, beautiful in their complexity.
+
+Jin very carefully made sure all the traces were hidden as he planted his decoy suppression crystals, making them just difficult enough to find that the cult would feel clever for discovering them.
+
+"Jin?" Reyana stood in the doorway, expression grave. "We need to move. Joe says the ORDER IV is one nasty cockroach."
+
+Jin spared one last glance and nodded. "Yeah. Let's go."
+
+They exited through a back passage, emerging onto Vienna streets that felt even more oppressive than before. Jin's earpiece crackled with Joe's voice.
+
+"I'm done."
+
+"Good. We're clear on our end. Heading to rally point."
+
+"How'd it go?"
+
+Jin looked at Rudy, limping slightly despite the healing potion. Looked at Reyana, her armor torn and bloodstained. Looked at his own hands, steady now but still aching from combat. "We're alive."
+
+"Seems like you guys had fun."
+
+"Ugh, just come get us."
+
+"Sir, yes, sir!"
+
+They moved through the destroyed city in silence. Buildings stood like broken teeth against the smoke-filled red sky.
+
+"You good?" Rudy's voice broke the silence.
+
+"Yeah. You?"
+
+"Managing. So what's the next stupid plan?"
+
+"I don't have a plan," Jin said. "And none of them were stupid!"
+
+"Yet."
+
+"Yet."
+
+~~~
