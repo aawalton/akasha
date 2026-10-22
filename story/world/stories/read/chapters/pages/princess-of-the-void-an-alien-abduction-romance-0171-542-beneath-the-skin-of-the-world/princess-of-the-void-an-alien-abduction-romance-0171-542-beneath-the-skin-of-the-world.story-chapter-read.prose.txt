@@ -1,0 +1,277 @@
+“We’ve nailed her!”
+
+Waian comes pounding up the command deck steps two at a time, trailed by Lomanza, who’s filling in for Vora (temporarily, as the command group continually stresses to her).
+
+“We’ve nailed her,” the chief engineer crows. “She’s fucked herself.”
+
+Sykora jolts and halfway leaps from her seat before her pregnant belly reasserts itself. “What’s happened?”
+
+“Hon,” Grant says. “Your call.”
+
+“Ah, hellfire.” Sykora refocuses on the command deck monitor, where Viscountess Vikla, the Black Pike sector’s preeminent gravel maven, blinks confusedly. “Viscountess. I know that time is of the essence on these drainage systems, but can I call you back?”
+
+“Oh, of course, Majesty, of course,” Vikla says. “As long as I can get your sign-off by 1900. I can send you my estimated quantities of gravel offline, if necessary.”
+
+“I would be so, so grateful for that, Viscountess. Thank you.” Sykora punches the disconnect and lets out an exhausted breath. “I’m an interstellar murder machine, and an afternoon of comm calls tires me out. I need these laggards to crawl out of me already. What’s happening? Who have we fucked?”
+
+“Dantia has sent her latest communications log with Shoskia, Majesty,” Lomanza says.
+
+“Have we caught her red-handed?” Grant asks.
+
+Lomanza’s eyes widen. “Pardon me, Majesty?”
+
+“Is there a smoking—” Grant gives up the metaphors. “Is there enough evidence to move against her?”
+
+“Not quite, Majesty,” Lomanza says. “But the chief engineer and I have analyzed the log, and we believe we have our whispering gasket.”
+
+“Oh, good,” Grant says.
+
+“She has been careful, but—” Lomanza swipes through a file on her tablet. She tries again. “May I have access to the table projector, chief engineer?”
+
+Waian hurries to her terminal; her metal hand skitters across the keys.
+
+“Here we are. Thank you.” Lomanza two-finger taps her tablet and a text file flowers up from the command deck table. “Shoskia has been careful in her dealings with Dantia. But an opening has presented itself.”
+
+“Dantia’s been bugging and bugging Shoskia for a sample of her product,” Waian says. “It was getting nowhere when we were just sockpuppeting her, but now that we have the woman herself in our pocket, we’ve cracked it.”
+
+Lomanza nods. “And now there’s a Ximik exo barge departing the system bound for Bright Covenant.”
+
+Grant rubs his bristly chin. They have sockpuppeting but not red handed.
+
+“Now these vessels automatically transmit their locations and heading in real time as a precaution,” Waian says. “And that information is datacrypted, which makes it a fucking bastard to fake or zap out of a system while the transmission is happening. What smugglers usually do is transport exo on a no-transmitter barge, which is extremely illegal to possess, or wait until the transmission is finished and then scrub the log. That’s the easiest way.”
+
+“But Shoskia has dispatched her vessel,” Lomanza says. “So right now, in her transit log, there’s an in-progress shipment to Dantia of the Bright Covenant that she can’t scrub until it’s back in its berth.”
+
+“So if we ask her for it right now, she has two options.” Waian is practically vibrating. “Either she sends it to you with the prayer that you won’t see it, or the vessel she’s got out there destroys its transmitter and blinks out of existence.”
+
+“She can’t just turn it off and on again?” Grant asks.
+
+“Not unless she has a black-market transmitter, which is just as illegal,” Lomanza says. “Either way, we’ll catch her exporting exo to a Bright Covenant depot she has zero export agreements with.”
+
+“Which means either way she’s burned.” Sykora drops her fist into her palm. “This is exactly the casus belli I required to open a full investigation into that rotten little trollop. Fabulous work, Majord—” She halts. All the excited warmth departs her. “Well done, Lomanza.”
+
+Lomanza bows. “Not at all, Majesty. Full credit is due to the Chief Engineer’s data interception team.”
+
+A lead weight ties itself to Grant’s heart. Lomanza seems entirely unbothered by the chilly reception she’s received by the Pike, of which Grant is a part. But guilt still gnaws at him when he considers it. He’s asked a few times now whether Vora couldn’t just be his majordomo, but everyone’s been clear that the position is to a House, not an individual, and Grant’s not sure if Vora would even want it if it was a possibility. She likes Grant very much, but it’s Sykora she loves.
+
+“We gotta move fast,” Waian says. “Can I get us a line to Shoskia? Right now?”
+
+Sykora sits up. “Do it.” She grimaces and folds her legs. “Before I go into labor on this goddamn throne.”
+
+The first call attempt goes unanswered. Waian sends another, on Imperial Command frequency, and after five lip-biting seconds it connects—Shoskia has picked it up audio-only.
+
+“Marquess.” Sykora puts on a threadbare smile. “Good afternoon.”
+
+“Majesty.” Shoskia sounds surprised. “Good afternoon indeed. Please pardon the delay in answering. I thought it might be your husband calling.”
+
+“Just your Princess. I hope that doesn’t come as a disappointment.”
+
+“Not at all.” The monitor clicks on; Shoskia sits in her solarium, in a hastily shrugged-on shawl over her dressing gown. “Oh, but goodness. You are far along, aren’t you?”
+
+“Another cycle or so,” Sykora says.
+
+“Two daughters and a son, yes?” Shoskia beams at Sykora’s affirming nod. “How lovely. Two girls for competition and a boy for compliance.”
+
+“It’s lovely,” Sykora says. “On that we agree. Now: I’m afraid this wasn’t a social call.”
+
+“I hadn’t assumed.”
+
+“My people are investigating the attack on Harok.” Sykora’s got her one of the kids is kicking face on. Fortunately, Grant’s the only one who can tell it apart from her mean mug. “The chief investigator has requested all official sweep records for the Paas system. I know your transit logs for this cycle aren’t due for another tenday, but I’ll be requesting them now.”
+
+Shoskia’s sham smile falters. “Now as in—now?”
+
+“How much time do you require?”
+
+Shoskia draws her shawl tighter across her shoulders. “I’ll need to contact the data team, have them format it properly—”
+
+“That will not be necessary,” Sykora says. “We will take it as-is. Just dump the raw datafile and send it through to me.”
+
+“There are procedural—”
+
+“Have no fear,” Sykora says. “You have your Princess’s permission to bypass procedure. Send me the data. My husband is familiar with these systems. He can do it at the press of a button. Is your system somehow less efficient than his?”
+
+“No, Majesty.” Shoskia scoffs. “Not at all, I assure you.”
+
+“Good. Press the button.”
+
+“Well—surely they wouldn’t use an exo barge,” Shoskia says. “Why, we don’t even transport fuel to anywhere but the depots on Triwat II.”
+
+“It strikes me as unlikely, yes. But for completion’s sake, you will transmit those logs.”
+
+“Immediately, Majesty. As soon as this call ends.”
+
+“You needn’t sprint, Marquess. Within the next ten minutes is fine. Thank you in advance.” Sykora hangs up before Shoskia can reply. She sighs, then flinches and puts a hand on her stomach. “Insufferable little things.” She beckons Grant to a private crouching conference. “All these kicks are because they’re part-Maekyonite, you know,” she whispers.
+
+“I don’t kick you.”
+
+She tweaks his nose. “You certainly love poking my insides, dove.”
+
+He straightens, trying not to blush.
+
+Sykora gives him an impish grin and returns to her regal mien. “We need to send that same message to the rest of the system now. In case Shoskia asks around.”
+
+“That sounds like a lot of work,” Waian says.
+
+Sykora smacks her lips. “It does, doesn’t it?” She swivels in her seat. “Lomanza. Kindly organize the comms desk to send that same request to every exo-registered business in the Paas system. There should only be a few score of them.”
+
+Lomanza bows and descends the steps of the command deck without hesitation or complaint.
+
+Grant watches Lomanza industriously command her new subordinates. Though the bridge crew seem confused and concerned by the new non-Vora majordomo, their training and Taiikari obedience quickly kick in, and the yes, ma’ams and as you command, ma’ams follow in short order.
+
+“I’ll be right back,” he says.
+
+Sykora gives him a quizzical glance but nods.
+
+Grant descends the command deck steps and loiters by their rise. He tips his tricorne to Lomanza as she approaches. “Majordomo.” He indicates the dim area of the bridge beneath the command deck’s balcony, occupied by ticking, humming mainframes rather than crew. “Would you step aside with me for a moment?”
+
+Lomanza looks quizzically at him but nods and follows him into the shade. “How may I serve, Majesty?”
+
+“Now and then when I’ve thought of you, I’ve seen you as the enemy,” Grant says. “I want to give you a fair shake.”
+
+“That would please me, Majesty.”
+
+“How has your time aboard the Pike been so far?” Grant asks. “I know you’ve been dealing with a cold shoulder from the command group. Have you been acclimating besides that?”
+
+“I have, Majesty. My reception doesn’t bother me, I assure you. I understand it. And the lodgings are very nice.”
+
+“That’s good.” Grant fidgets with a ring. “I just want to make sure—you haven’t been outside of your room much, I’ve heard.”
+
+“You have, I suppose, noticed that we are a very social species,” Lomanza says. “My mind does not work that way. I enjoy the quiet.”
+
+“Is that—uh, never mind.”
+
+“Go on, Majesty.”
+
+“I shouldn’t pry.”
+
+“I am entirely at your disposal, Majesty. Pry away.”
+
+“Do you reckon that’s a result of your implant?”
+
+“Not at all. In fact, when they rooted around in here—” She taps her forehead. “They told my parents there was a way to fix it. But I said I didn’t feel broken. Not in that way, anyway.”
+
+“In some other way, then?”
+
+“I was an unhappy child,” she says. “I made few friends. I found myself, many times, under rule by emotions that I had trouble regulating, and that feeling of helplessness became something of a feedback loop. I would read about how wonderful it was to be given a mind that could be happy or sad, how emotions were part of the fullness of life, and it rang quite hollow. To me, the fullness was… different.”
+
+“Different how?”
+
+Lomanza hums. “How to explain… I suppose I was spellbound by the systemic nature of things. By watching everything fall into place. To behold the gorgeous mechanisms beneath the skin of the world. Laws of nature and Empire and their intersection. Great impossible purposes. I found more in common with celestial bodies than with my podmates. Once I was given cause to weep when considering the beauty of the hydrological cycle. The chemical and hormonal tides in my mind infuriated me. Why, even when I understood the systems at play, did I fall prey to them? Why, even when I knew shame was a mechanical process, of orbitofrontal cortices and neurotransmitters and spiking cortisol, was I always so ashamed of myself?”
+
+Behind her the databases tick away, casting her in their teal light.
+
+“In most echelons of Taiikari life, such a reclusive nature is a deficiency to be addressed. I found myself oddly protective of it.” She studies the skin of her knuckles, as if supervising some chemical reaction beneath her skin. “I wanted control. Becoming a majordomo was how I took it.”
+
+“Dove!” Sykora’s excited voice snaps Grant out of his focus on Lomanza. “We’ve got a pull on the hook!”
+
+Grant’s about to ask Lomanza her pardon to go, but she’s already hurrying up the stairs. He follows.
+
+Sykora’s excitement has managed to lever her out of her seat; she’s waiting at the top of the steps, proudly holding out her communicator so the screen is facing him. “From Dantia,” she says. “We’ve got Shoskia on the run now.”
+
+Dantia’s ID on the sender bar is The Bright Covenant Harlot.
+
+Your little Marquess is calling me back
+
+Will send recording once it’s done
+
+As Grant reads it, another unread message pings into view. He squints. “What’s Grantyde’s Groupies?”
+
+“What?” Sykora snatches the phone back. “That’s um. That’s me and the command group.”
+
+“Oh.” Grant’s brows raise. “There’s a command group chat? Named Grantyde’s Groupies?”
+
+“It’s a joke,” Sykora says. “Just a funny little inside joke.”
+
+“Should I be a part of it?”
+
+“No, no. Nothing of import in there to worry your head over.” Sykora taps her notification. “It’s just, uh—just gals being pals. It’s been a cycle since anyone’s sent anything in it, I’m not sure what—”
+
+She exhales as the communicator beeps and expands the new message. She turns it around.
+
+Majordomo Midnight:
+
+Just swept in
+
+I’m back
+
+“We give her room,” Waian says, over the hangar hubbub. “Right? We wait at the end of the gangplank, and we watch her face as she comes in, and until we see what she’s looking like, we have very neutral expressions on. Neutral smiles.”
+
+“What’s a neutral smile?” Hyax asks.
+
+“Hyax, just do your normal Hyax face.”
+
+“What do I do with the cake?” Hyax holds up the baked good in question.
+
+Waian sighs. “Kinda wish you hadn’t brought the cake.”
+
+Grant squints at the cake’s expertly piped glyphs—Hyax must have put in an order with the quartermaster. “Why does it just say VORA on it?”
+
+“I didn’t know whether to write congratulations or condolences above it,” Hyax says. “So I just stuck with her name. What else am I meant to put on it?”
+
+“Just a cake without any writing would have sufficed, I think,” Sykora says.
+
+Hyax frowns. “It’s her cake. Why would it not have her name on it?”
+
+The incoming shuttle docks with a hiss of hydraulic steam. Its door slides open. Majordomo Vora of the Black Pike teeters from the shuttle, lugging a duffel almost as large as she is. Oryn curses under his breath and rushes forward to help her carry her bag. She tosses it to one side with a thump as he approaches and opens her arms wide. He changes heading, from bag to wife, and sweeps her off her little kicking feet into an embrace.
+
+“Majordomo.” Sykora follows in Oryn’s wake as fast as her condition will allow, arms outstretched. “Welcome back from the Core.”
+
+“Thank you, Majesty.” Vora accepts Sykora’s kiss on the cheek with a smile, still tightly in Oryn’s arms. “It’s good to be home.”
+
+“Hey, kiddo.” Waian muscles in and forms a group hug. “Missed you.”
+
+“Missed you, too,” Vora says.
+
+Grant joins the pileup. Hyax shuffes in on Vora’s flank. “There’s a cake,” she says.
+
+Vora laughs and extracts herself from her husband’s arms and the joyful clump of friends to settle back to the ground. “Is it for me?”
+
+“It has your name on it,” Hyax says, quietly exasperated.
+
+“So it does.” Vora takes the offered cake. “Thank you, Hyax.”
+
+An uneasy silence slithers into the reunion.
+
+“So,” Grant says. He’s going for casual, but it feels more like he’s prodding a toe onto thin ice. “How’d it go?”
+
+“I passed,” Vora says.
+
+Grant tries to throttle the gasp. “You passed?”
+
+She nods. “Eighty-ninth percentile.”
+
+“Eighty-ninth! Without any of their brain fuckery!” Sykora’s ears fan outward as she embraces Vora all over again. “Oh, I knew it. I knew my Vora was a fucking genius. Look at you.”
+
+“Fuck yeah, Vora.” Waian’s mechanical arm rubs Vora’s back. “Showed those Core brats how the voidborn roll.”
+
+“So are you ready to get back to work?” Sykora bounces her brows. “Majordomo?”
+
+“No, Majesty,” Vora says.
+
+Sykora titters uncertainly, as if in response to a joke she doesn’t get. She steps back. “Whyever not?”
+
+“The exam I passed was the entrance exam,” Vora says. “It is the first of thirty.”
+
+“What?” Grant heard her, even understood her. It’s just a confused syllable, just noise.
+
+“Had I scored in the top five percent, I could have been selected for a fast track.” Vora’s knuckles are white where she grips the cake tray. “But the people who made it up that high were all Coreworlder modifiers who have been studying all their lives. I have twenty-nine more.”
+
+“Surely they can’t all be the bear this one was,” Sykora protests.
+
+“This was the easiest one, Majesty,” Vora says. She nudges the cake back toward Hyax. “Would you take this back for a moment, please?”
+
+“You, um.” Sykora’s zeal teeters as the solemn brigadier takes her tray back. “You’ll just pass those exams, too, then.”
+
+“I could.” Vora nods. She’s looking at something invisible and far away. “I think I could. I would need to work harder than I’ve been working.”
+
+“Harder?” Waian scoffs. “That’s imposs—” She clasps her hand over her mouth, clearly mortified at what she was about to say.
+
+“It’s possible,” Vora says, without emotion. “If I left everything else behind, if I continued to eschew my friends and my lovers, if I returned to the Core and loaded myself with a new suite and new wetware to withstand it. If I devoted myself only to this, and only to you, Majesty. It’s possible.”
+
+“Vora…” Sykora’s shoulders slump. Oryn holds his wife tighter.
+
+“I thought I was capable of that.” Vora smiles wistfully. “But I’m not. I can’t leave my life. I can’t put my husband through it. I can’t demand he love whoever comes out the other side of it. I am sorry, Majesties. Lomanza was right about me. I can’t.”
+
+She drops to her knees and bows low, head to the deck.
+
+“It was the greatest pride of my life that I could call myself your Majordomo, Majesties,” she says. “And it is with deeper love than I know how to express that I tender my resignation.”
