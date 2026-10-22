@@ -1,0 +1,195 @@
+“Here’s Peala.” Hyax unzips the body bag and reveals a face Grant recognizes from their briefing, now pallid with decomposition. “Found her in the Governess’s manor, such as it was.” A dark star has drilled itself into the late Governess’s forehead. The visage of terror she died with has softened into a dull sightless vacancy. Grant looks away.
+
+He refocuses his attention on the landscape around them. The rest of the corpses—nearly a hundred of them—are covered, at least, by thick tarps dragged from the carrier and draped over all that remains of the Myak colony. That, and the mystery.
+
+“The Empire’s supposed to keep its people from this.” Sykora looks a million miles away. “Even the homesteaders who run from it. I want these people ID’d and sent home. Care should be taken. Even if it’s too late.”
+
+“I know it should,” Hyax says. “But these are Kanori’s bodies, Majesty. We’re already about to go on the back foot to fend her off. We can’t take them offworld and let her accuse us of grave robbing.”
+
+“Grave robbing.” Sykora scoffs. “She failed these people. Dead for cycles, bloating in the rain.”
+
+A marine threads his way through the rows of tarped bodies, holding out a metal module hung with snipped and disconnected wires “The daemon, Majesty.”
+
+Sykora takes the module and rotates it in her hand. “J-92606.” She frowns at the serial on the bottom. “I suppose it was silly to expect them to plug a Gravitas daemon into a defense grid.
+
+“But then what the fuck happened here?” Grant asks.
+
+“Waian will tell us more, I suspect.” Sykora salutes the marine. “Take me to the main pit, Stors. I need to see.”
+
+He salutes back. “Majesty.”
+
+Sykora taps Grant’s forearm and brings him down. “I’ll be back,” she whispers. “This isn’t something you want to see.”
+
+Grant kisses his wife’s forehead and watches her departure through the drizzling rain.
+
+“The Princess is right, you know.” Hyax clatters to his side. “Nothing needing your attention down here, Majesty. We’ll finish bagging, then comb the colony. You don’t have to trouble yourself with these scenes.”
+
+“It’s all right, Brigadier.” Grant pivots on his heel to indicate the colony-turned charnel house. “I need to get comfortable with dead people. It’s just bodies, right? Just…stuff. Nobody left in there.”
+
+“I suppose not.”
+
+“There are certain tradeoffs I’m making, and I’d make them all again.” Grant rests his palms on his knees and stands. “But I’ve seen more dead faces in the past decacycle than I’ve seen in the rest of my life. This is the job, I’m gathering.”
+
+Hyax’s frown broadens. “It didn’t have to be, Majesty. You can live a comfortable life. Even as a Prince.”
+
+“You want to protect me.”
+
+She nods. “Her Majesty’s heart is hardened for this.”
+
+“I know it is. That’s why I’m needed.” He touches her armored shoulder. “But I’ll go. If you think it’s best.”
+
+“Take Sykora with you,” Hyax says. “She’s only torturing herself, tarrying here. No need for it. I can’t tell her that, but you can. Bring that daemon to Waian. Leave the stuff to us. Get us some answers.” She shakes the rain out of her cloak. “And then maybe these people can rest easy.”
+
+The gray, flickering sphere of Myak casts a chilly pall across the Princess’s cabin. Grant sits with his feet up on the kitchen table, fingerpicking through an Eqtoran travel-canticle. One of his favorites from the immersion he underwent during the annexation. Sykora is in a meeting going over the forensics of the massacre. He’s recused himself.
+
+It’s getting easier to see these things. It’s true, what he said to Hyax. He’s not glad about it, exactly. But there’s a grim satisfaction in remembering how sheltered he was, how naïve.
+
+A chime plinks unobtrusively below his playing. “Intercom,” he says, and the crossed halberds at the cabin door’s center blink blue. “Who is it?”
+
+“It’s me.” Waian’s voice filters through the connection. “Uh, Waian.”
+
+“Come on in, Chief Engineer.”
+
+The doors recognize his welcome and slide open. Waian steps out of her boots at the threshold and crosses into the crimson luxury of the Princess’s cabin. “Hope I’m not breaking your practice flow, boss.”
+
+He shakes his head and puts his guitar aside. “What’s up?”
+
+Waian holds her tablet up in one hand, and the wire-draped daemon in the other. “I want to talk to you real quick. Before I bring what I found to Sykora. Some early findings.”
+
+“Uh, okay.” He takes his socked feet off the table and sits up.
+
+“Okay.” Waian hops onto a seat at the table. She cracks the casing on the daemon and plugs a multithreaded red cord into it. “So this daemon’s a defense mainframe, totally standard. A J-92. Top-of-the-line shit, just like Hyax suggested.”
+
+The tablet fills with red text and error messages. Bars fill halfway, blink, and go crimson.
+
+“The reset protocols on this thing are in tatters,” Waian says. “That is not how Js work. The rampancy reset is the most aggressive and advanced in the firmament. There’s barely any of its original pattern’s personality left in there. I mean, it has to be predictable, right? It’s the shit we use to control automated defenses. J lines don’t turn rampant. They just don’t.”
+
+“But this one did.”
+
+“Oh, yeah. This one went violently rampant. This is one of the most fucked-up daemons I’ve ever seen. It gnashed at my connection like a rabid throok. I’ve frozen it since.” Waian slides down her tablet. “But I want to show you its final communication. Here’s the log.”
+
+She taps a chat icon. The message spills across the screen. The scrollbar at the edge of the log plummets to microscopy as it unfurls. One phrase, repeated without seeming end:
+
+HAILTHENEWEMPRESSHAILTHENEWEMPRESSHAILTHENEWEMPRESSHAILTHENEWEMPRESSHAILTHENEWEMPRESSHAILTHENEWEMPRESSHAILTHENEWEMPRESSHAILTHENEWEMPRESSHAILTHENEWEMPRESSHAILTHENEWEMPRESSHAILTHENEWEMPRESSHAILTHENEWEMPRESSHAILTHENEWEMPRESSHAILTHENEWEMPRESSHAILTHENEWEMPRESSHAILTHENEWEMPRESS
+
+“Fucking hellfire,” Grant says.
+
+“You’re telling me,” Waian says.
+
+“Why are you bringing this to me alone, here?”
+
+“Two reasons.” Waian holds up her pointer and middle. “The first is that you made the most stricken face when you saw it and I explained it, which I get, cause you’re squirrelly about these things, and we’ve up and found just about the worst possible example of them going bad. If Sykora had seen that, she’d be panicking about you, and she doesn’t need to be panicking about extraneous stuff right now. She’s gonna go into this debrief having looked at like a hundred dead Taiikari. So when I present this to the command group, I gotta ask you to put more of a stoic face on. Okay? For her sake. She worries about you.”
+
+“What’s the other reason?”
+
+“I worry about you too, kid. I mean I’m worried about this.” She taps the tablet. “God knows. But you, too. I know this daemon stuff weirds you out. I know that change brings stress. Even good change. And you and Kora are going through some big-time changes. I have a feeling you’re teetering right now. You thought that you’d found an equilibrium, that you’d figured out how to reconcile things. How to keep being Grant Hyde in the Empire.”
+
+Grant didn’t know that Waian knew his real name.
+
+“Now all of a sudden you’re not sure. This daemon shit, these assassination attempts, your visit to the Core and seeing all its bullshit firsthand.”
+
+He nods. What is there to add?
+
+“I went through this,” Waian says. “Sorta. Thinking I knew what I was, and then having it all yanked out from under me. Rose up the Navy ranks like a rocket, top of my class every class. Thinking I was hot shit. Nobody could balance a manifold like me. My last assignment before the Pike was a ship called the Quintain. I could juice that sucker’s membrane to near double its baseline. Know what happened? Has Sykora told you?”
+
+His attention drifts to her arm. “She’s told me the short version.”
+
+“Short version’s all there really is.” Waian rotates her artificial limb. Its metal facets catch and refract the light. “Quick and irreversible. That’s how the big changes happen, sometimes. You’ve got it and you’re counting on forever with it, and then you’re in the graveyard of everyone you know, watching it float away. Trailing little frozen bits of blood. Well. It was reversible, this part.” She knocks on her forearm with her fleshy hand. “I just didn’t want it to be. Wanted to feel like a part of me was still with the rest, you know? So dramatic of me. And it took me a long time to figure out what I actually was. Not what I’d wished I was or thought I was. Am I making any sense?”
+
+“Sure.”
+
+“Anyway, it’s not about me. Just telling you where I’m coming from, y’know. Your shake-up isn’t quite as crazy as mine was, but you have less time. And put fatherhood on top of that? You’re thinking just what kind of civilization am I bringing my children into? You’re thinking I gotta get my shit back together before the babies come. And normally you’d have your wife to lean on, but this is all happening to her at the same time. So she’s teetering too. Right?”
+
+An uneven seasickness feeling rises in him. She’s saying everything he was trying to ignore. “Right.”
+
+“I talk like this to Kora when I see strain,” Waian says. “And now I’m talking like this to you. She’s my family, and that makes you my family, too.”
+
+He takes a deep breath on a three-count and lets it out. A touch of shake in its tail. He crouches. “Thank you, Waian.”
+
+Her metal hand lands on his shoulder. “Did she pass, or was she just not around?”
+
+“Who?”
+
+“Your mom.”
+
+“She wasn’t—I never knew her.” He blinks. “I, uh… have I mentioned that to you?”
+
+“Nah. Just something on your face when I said you’re my family.” One of her ears tilts. “And something about you. There’s a seeking in you. Same thing there is in Sykora. That’s what happens. You lost something, and you never really stop looking. And I’m not, uh, not trying to weird you out or overstep or anything like that. But I try to be there for her. Your wife, I mean. I’m not saying I’m her foster mom or anything. But, uh.” Waian fidgets. He’s not accustomed to seeing her this uncomfortable. “But if you need an ear, you have a problem, you need to puzzle anything out. Doesn’t have to be engineer shit. I’m here if you ever need me. For anything.”
+
+“Maybe, uh.” He glances at the ominous message plastering her tablet. “Maybe a hug?”
+
+She grins. “C’mere.”
+
+He leaves his seat and embraces the chief engineer. She's as small as any Taiikari woman, but somehow her hug feels like a shelter.
+
+“You’re a good kid, Grant,” she whispers. “You’re good for her. I’ve never seen her as happy as she is when she’s with you. And that’s all that really matters.” She pats his back. “To me, at least.”
+
+“That means a lot, Waian. It really does.” He leans back and stands. “Thank you.”
+
+“All right.” Waian retrieves her tablet and the daemon module. “Let’s go tell our girl about the psycho murder program.”
+
+“Hail the new Empress.” Sykora’s eyes narrow at the stark scroll of white type casting its pall across the command deck table. “More of this rubbish. Comet Queens, new Empresses.”
+
+“My educated guess,” Waian says, “is that this is our infection vector right here. This J-92—they strip these things to the bone. And it’s patterned off a marine lieutenant, so there wasn’t so much brain to work with in the first place.”
+
+Hyax scoffs.
+
+“But loyalty to the Empress. That’s something which is always kept. That’s a key control. This new Empress—that’s what started the cascade. And that does not happen on its own.”
+
+“Intentional sabotage, then,” Vora says.
+
+“It should have been caught by the reset protocol,” Waian says, “but they managed to fuck that apart somehow, too. Still pondering that one. Might wanna make some tweaks to our digital fail-safes. It’ll take me some time.”
+
+“We have, I think, somewhat less time than we thought,” Sykora says. “But take yours, Chief Engineer.” She climbs from Grant’s lap and paces along the length of the deck. “It is clear to me now, everyone, that this mission we’ve been press-ganged into has higher stakes than we imagined, and deeper intrigue. I am finished dancing to the Core’s tune.”
+
+“Do we cut Inadama’s task off, then?” Vora asks. “We can bring this to the clerks. If there was any doubt they’d side with you before—”
+
+“No.” Sykora halts. “We’re still finding this daemon. But we are no longer undertaking this mission at the behest of the Marquess Palatine. Now we’re doing it in the name of our sector’s security, and in the name of justice for our dead fellow-citizens entombed on Myak. I have no intention of returning it to Inadama like a good little errand girl. If that harpy wants it, she can explain herself, first.”
+
+Hyax taps an armored knuckle on the table. “Hear, hear.”
+
+“Well stated, Majesty,” Vora says.
+
+Grant catches Sykora’s eye and gives her a reminding wave of his head. Sykora smacks her lips with recognition and turns back to Waian. “May I ask you about one of your specialists?”
+
+“Sure.” Waian raises a purple brow. “Who?”
+
+“Meena. Sergeant Ajax’s girlfriend.”
+
+“Ahhh. Meena.” Waian chuckles. “Meena’s Meena. Kind of a nutcase.”
+
+“Meena like little pink Meena?” Grant cocks his head. “She’s a nutcase?”
+
+“She’ll fool you,” Waian says. “Smart as a whip, though. One of my finest engineers.”
+
+Sykora returns to her husband’s side. Her tail wraps around her throne’s armrest and boosts her up onto it, where she leans against Grant’s shoulder. “Would you say she’s good enough to be Senior Specialist?”
+
+“Well, she has the talent for it, but I just made her Specialist a few cycles ago, so it’d be an upjump. Also, uh…” Waian purses her lips. “As soon as I do that, we’re gonna lose her and Ajax for a decacycle or so.”
+
+“Why?”
+
+“Soon as she makes Senior Specialist she’s gonna marry him and mate him, is why,” Waian says. “That’s the word, anyway. Didn’t tell me directly.”
+
+“After this ridiculous errand of ours is finished, then. I need everyone I can get.” Sykora nudges Grant’s arm. “Sounds like you might be able to reform the Alien Groom Squad, Grantyde.”
+
+An image flashes through Grant’s mind of him, Tikani, and Ajax drinking beers by the pool, their wives in their laps, while their kids splash each other.
+
+“Maybe,” he says.
+
+One of the angular frames of the command deck’s window into the firmament pulses an urgent, angry red.
+
+Vora’s tail snaps out into a straight line. “That’s a high-import hail.” She lifts her tablet to her face. “Oh, dear.”
+
+Sykora’s expression hardens. “Kanori?”
+
+“Kanori,” Vora confirms.
+
+Sykora’s foot taps against Grant’s knee. “Lend me the throne, dove.”
+
+He stands, and she slides off the armrest into the seat proper. She squares her shoulders, tosses her hair over her shoulder, and glances at Grant. He gives her the thumbs up.
+
+“Right,” she says. “Onscreen.”
+
+The red-pulsing glass hexagon slides down the span of the firmament and resolves into a dusky maroon Taiikari woman, with a plaited braid snaking around the back of her skull and over the gray-blue capelet that hangs down her shoulder.
+
+“This is Princess Kanori of the ZKZ Cloud Gate, wishing health and long life to my good cousin, Princess Sykora of the ZKZ Black Pike.” The woman’s smile is a razor-slashed study in cheerful malice. “Let us discuss your infiltration of my sector, and your attack on one of my worlds.”

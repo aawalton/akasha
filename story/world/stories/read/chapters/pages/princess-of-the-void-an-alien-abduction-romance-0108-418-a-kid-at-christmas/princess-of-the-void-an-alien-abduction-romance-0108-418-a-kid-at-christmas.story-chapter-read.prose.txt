@@ -1,0 +1,211 @@
+They move through a thoroughfare tunnel and out into a cavernous space hewn into the volcanic rock. Far below, a gridded field of turbines hang in suspension over a glowing, sizzling lake of fire, their undersides gleaming with heat.
+
+“Thermal farms like this one are honeycombed throughout Tamion to handle the massive power draw of our foundries.” Wex has to raise her voice over the continuous roar from below. “But the armories and shipwrights use barely half of what we do. Such is the power of our fabricant. They make world-enders. We make worlds.”
+
+Waian’s snicker bubbles beneath the rotor noise. Grant looks down at her; she catches his glance and makes a derisive masturbatory motion with her middle and ring fingers.
+
+“Are you not dying in this heat, marine?” Grant directs this to his closest escort, a guy named Fion who dragged his ass into a cell once upon a time, shoulder-to-shoulder with Ajax. Grant’s become friends with Jax since—Fion he still doesn’t know so well.
+
+Fion shakes his head. “Refrigeration in the HAK suit, Majesty.” He has a movie voiceover rasp to his voice.
+
+“Goddamn,” Grant says. “I have got to get myself one of these. A HAK suit, you called it?”
+
+“Yes, Majesty.”
+
+“What’s that stand for?”
+
+“Multi-environmental Armor System, Majesty.”
+
+“Do they make those things in Maekyonite size, you know?”
+
+“I do not, Majesty.”
+
+“Are you one of those always-ends-the-sentence-with-Majesty type marines, Fion?”
+
+“Not as far as I know, Majesty.”
+
+Out from the glowing magma and up another spiral stairway, this one dimmer and narrower than the last. This is evidently not an area they’re accustomed to showing their guests.
+
+Wex pauses at the threshold of a plain crash-bar door. “Majesties. I understand the caution, but we cannot fit your entire retinue inside.”
+
+“Very well.” Sykora points. “Waian and Sergeant Ajax, with us. Majordomo, the retinue is yours.”
+
+“Understood, Majesty.”
+
+Sykora’s tail swishes out like a velvet rope to block the door before Reka can step through. “Kindly remain outside with them, Marquess.”
+
+“Ah, uh. Yes, Majesty. As you wish.” Reka watches them proceed into the guts of the archive with the air of a fretful interviewee observing her recruiters’ departure.
+
+Wex’s crest droops with relief as she escapes the close martial scrutiny of the marines. “You really must pardon the sparse arrangements here, Majesty.” She eases a set of crinkled folders from their supine scatter to rigid uprightness along a shelf. “We are quite below decks, to use the Naval term. And a hair between maintenance shifts. I’d have expedited one if I’d known.”
+
+“All’s well, Director,” Sykora says. “Your flexibility does you credit.”
+
+Wex’s feathers poof outward somewhat at that. She bows them into a stuffy office given primarily over to a phalanx of filing cabinets guarding a holo-terminal. These things are the primary workstations Grant’s seen, boxy computers shaped like a game of Battleship with a keyboard on one side, a holoprojection bed on the other, and a secondary monitor screen between the two.
+
+Before the terminal, in a rickety-looking swivel chair, sits a nervous-looking sapphire man chewing a sandwich wrapped half in foil. “Madame Director. Majesty. Uh, hello, everyone. I’m Archivist Daioskai and this, uh—” He gestures with the sandwich, sees it in his hand as if for the first time, and hurriedly wraps it up to stow in his knapsack. “This is one of our archive terminal access points. If, uh—if you’d like me to look anything up for you.”
+
+Grant’s on-edge wife gives Daioskai the smile she reserves for functionaries who haven’t pissed her off yet. “If you would be so kind, Archivist. Will this serial number be enough?”
+
+“I hope so. Truly I do.” Daioskai takes the page Sykora proffers. He carefully places it on the desk next to the terminal and murmurs something under his breath. Grant strains to hear and catches the second half of a prayer. “—and shine the Divine Court’s light into any corner where weal or woe wait for me that my service to the Empress be bolstered with insight ancestral.” Daioskai cracks his knuckles. “Okay.”
+
+Grant has brief cause to wonder why Daioskai’s so visibly shaking as he searches. Then he remembers his wife rules 40 billion souls including this man, his family, and quite possibly everyone he has ever met. Grant is so used to dealing with magnates and nobles and dignitaries. Daioskai is just some dude. How do you put what’s happening to him in Maekyonite terms? The President of the planet has waltzed into the archivist’s place of work on his lunch break. He supposes it’s not far off from when he was trotted in front of the Empress unexpectedly.
+
+That terror he’s felt so many times when staring down the barrel of a powerful person with an agenda for his life and his time. That’s what Daioskai is feeling now toward him. The urge comes to him to pat the archivist on the shoulder or give him some word of encouragement. You’d only give the poor guy a heart attack, Grant. You’re lofty now. Metaphorically as well as literally.
+
+The holographic projection over the archivist’s terminal stretches up to the craggy ceiling and gives the royal retinue a firsthand look at the nested directories Daioskai is combing through.
+
+“K-77. K-77, let’s see… ah, thank the Omnidivine.” The archivist blows a sigh. “K-77272’s record. Here we—”
+
+He falters. He scratches the curly dark hair around his horn.
+
+“Well, now,” he says. “That is odd. K-77272 was scheduled for disposal.”
+
+“What?” Sykora leans in to scan the entry their host has keyed them into.
+
+“Looks like it was a holdover,” Daioskai says. “One of the last of the old generation before the K-80s replaced them. We skipped shipping on 78 and 79 ‘cause of the, uh…” His voice tremors. “There were improvements we had to put in.”
+
+“Why?” Sykora asks, voice flat and calm.
+
+“Simple runtime improvements,” Wex says, over her terrified archivist’s head. “If memory serves, 80 was when we modeled the ocean to actually act like an ocean. Additions of current and tide.”
+
+“No behavioral changes?”
+
+“No, Majesty,” Wex says, at the same time that Daioskai opens his mouth, and quickly slams it shut.
+
+“We had a longer uptime between resets,” Wex says. “That’s all. Strict upgrade.”
+
+“Pardon me, Director,” Grant says. “I’d like to hear from Daioskai.”
+
+The archivist’s eyes drift to him with deep apprehension. “There were some reductions. That’s all I was going to say. Standard stuff. We do it all the time. Pruning cruft from the NVI that was leading to faster rampancy.”
+
+“Taking more pieces of their personality out?” Grant asks.
+
+“There are a great many problems with that framing,” Wex interjects.
+
+“Of course.” Grant gives the mad scientist bird lady a deferential tilt of his head. “Excuse my Maekyonite simplicity. So this is common with new versions?”
+
+Daioskai loosens his already-loose collar. “Yes, Majesty.”
+
+“How did it manifest with K-77? The Rampancy?”
+
+Daioskai purses his lips. “She, uh…”
+
+“Go on, Daioskai.” Wex is full of forced cheer. “It’s really nothing.”
+
+“She had a tendency to declare war on God,” Daioskai says.
+
+“Huh,” Grant says.
+
+“It was a minority of runtimes, and a quick reset was all you needed,” Wex says. “And that little hiccup has been fully patched out.”
+
+“But not from K-77.”
+
+“Not from that unit,” Wex allows. “That’s why we rolled out the replacement. But even with the 77, there are very proactive auto-resets that kick in when rampancy reaches unsustainable levels before manual reset. Yes, there are. No reason to imagine those would fail.”
+
+“Sure,” Grant says, imagining them failing.
+
+“So it was scheduled for disposal,” Sykora says. “Was it disposed of?”
+
+Daioskai taps a few keys. “Well, now. That’s strange. The next record isn’t a destruction order. It’s a shipment slip. No sale information, no buyer. Just right onto the outbound ship. And then it’s gone.”
+
+Sykora’s tail is coiling and uncoiling like a serpent. “Gone to where?”
+
+“Uh—not showing any destination, Majesty.” Daioskai hits a key and triggers a stringent error beep. “That would be on our receipt record, and we don’t have one. My guess is the liquidators just filed the wrong form and this liquidated entry got swept into some shipment record.”
+
+Sykora shakes her head. “We are not here for guesses.”
+
+“Does this shipment slip have a designation attached to it?” Waian asks.
+
+“Yes, ma’am.” Daioskai highlights the field; its glowing block on the wall dyes the room cyan. “That’s the registration for the Argosy True, isn’t it, Director?”
+
+Grant catches the ripple that name sends through Wex’s feathers. “Perhaps,” she says. “I’ll cross-reference.”
+
+“Well if it’s them, then it has to have been one of their last trips with us,” Daioskai says. “They’re not in the sector any longer.”
+
+“Why not?” Grant asks.
+
+“Competitive offer over in the Cloud Gate sector. That’s what I’d heard.”
+
+“Hauling for homesteaders?” Ajax speaks up for the first time.
+
+Daioskai looks past the assembly to his fellow Taiikari man as if seeing him for the first time. “Uh, yes. You’d expect. Have you been?”
+
+Ajax shakes his head. Silent again.
+
+“The Princess of the Cloud Gate regularly tries to headhunt my best servants,” Sykora says. “One of her favorite methods of attack against my sovereignty.”
+
+Wex taps her clawed foot against the floor. “Print this complete record for us, archivist, and we’ll let you return to your lunch.”
+
+Daioskai prints the history of K-77272, abridged though it may be, and hands it over to the monarchs of the Black Pike with ill-disguised relief at the transaction’s completion. His copious bows as they depart finish with his hand snaking into his knapsack for the rest of his lunch.
+
+They rendezvous with the rest of the retinue and Reka, who scrutinizes the sheaf of papers in Grant’s hands. “You have what you need, Majesties?”
+
+“Remains to be seen.” Sykora strides past the Marquess to the spearpoint of her marines. “But for now I do believe we can untie ourselves from your tail, Marquess.”
+
+“It was my pleasure to host you, Majesty. My absolute pleasure.” Reka skitters to the fore of the group, to Sykora’s side. “Not a burden. Never think of it.”
+
+Sykora returns a remote smile.
+
+As the party moves back through the display hall, Technician Sakko retrieves a familiar statuette and holds it out to Sykora with a bow. “Please accept a K-86 as a gift for the Black Pike, Majesty, with our compliments.”
+
+Behind them, Vora muffles her sharp intake of breath.
+
+“I would prefer as few NVIs on my vessel as possible,” Sykora says. “But—” Grant’s foot taps against hers. “One moment.”
+
+She steps behind a row of marines, who close ranks in an unthreatening but unyielding manner between their employers and the foundry’s anxious hosts. Grant sinks into conference with her. “Are you saying that for my sake?” he whispers.
+
+Sykora chews her lip. “I know they disturb you, these daemon things.”
+
+“Sure they do. But Vora looks like a kid at Christmas.”
+
+“What’s Christmas?”
+
+“Maekyonite thing. Gift-giving holiday. What I’m saying is I don’t think my hangups count here.” He runs a knuckle against her stomach. “Let’s get the Majordomo something nice.”
+
+“Well… okay.” She squeezes his finger. “If you’re certain.”
+
+“It’ll give us a break from her handing us our asses every tenday. Let the daemon soak up some of the Majordomo’s insane Gravitas supremacy, right?”
+
+Sykora laughs, then screws her imperious face back on and parts her curtain of marines with a flick of her tail. “Very well, Marquess. We gladly accept your gift.”
+
+An effervescent Reka accompanies them all the way back to the threshold of their warty carrier, making vast promises about the Rovakt-copy’s efficacy and her dedication to tracking down Sykora’s would-be assassins and the competitive bid she’s putting together for the Qarnaq partnership.
+
+Sykora settles into her seat in the carrier’s front cabin with a heavy sigh. “That woman,” she says, “needs to learn the tactical value of silence.”
+
+“It was nerves, you’d have to assume,” Grant says.
+
+“Her Majesty was nearly assassinated on her watch.” Vora looks up from the statuette she’s rotating in the low luster of the cabin. “She should be nervous.”
+
+“I wish she’d be nervous a little quieter.” Sykora buckles herself in and nods to her ever-taciturn pilot, Arn, who nods back and flicks the ready light on for the marine deck.
+
+“What time is it?” Waian checks an integrated timepiece that flips out from her wrist. “1700. All right.”
+
+“You have a rendezvous to get to, Chief Engineer?” Vora looks up from the varnished housing of her new daemon.
+
+“Just wanna make sure I leave myself air,” Waian says. “I’m hosting tonight, remember?”
+
+“Hosting what?” Grant asks.
+
+“Oh, uh.” Waian’s ears fan out. “Nothing.”
+
+“Hosting what was supposed to be a surprise, Chief Engineer.” Sykora’s tail reaches across the cramped cabin and thwacks Waian’s shoulder. “But I suppose now is as good a time as any to spring it.”
+
+The rumble of the carrier engine rises to a dull roar. The ship turns itself toward the growing strip of ashy Tamion sky.
+
+“That food you’ve told me about, dove,” Sykora says. “Peeza?”
+
+“Pizza,” Grant says. “Yeah.”
+
+“Kymai’s finally gotten his interpretation up to his standards.” Sykora laces her hand into Grant’s. “And I tasked a team to reroute a spy drone into the Prelate System and siphon a few petabytes of your homeworld’s artistry.”
+
+Grant’s eyebrows go up.
+
+“The amount of porn they found,” Waian adds. “Wild. It's all illegal, the video stuff, but you know. Gotta archive that sort of thing. For the record.”
+
+“We have a mysterious missing Gravitas daemon that was and wasn’t destroyed,” Sykora says. “We have the murky meddling of the Princess of the Cloud Gate to consider. We have records to pore over and ships to chase down. But as duty-bound as I am to turn these stones and discover this seeming conspiracy, a time frame was never specified. And I don’t know about the rest of you, but I could use some relaxation.”
+
+“Seconded,” says Waian.
+
+“Hear, hear,” says Vora.
+
+“Then in the name of my command group’s edification and entertainment,” Sykora says, stentorian over the accelerating shuttlecraft, “I am setting aside the evening to sit in my husband’s lap and eat my husband’s favorite food and watch the art of my husband’s people. Tonight is our inaugural Maekyonite Movie Night.”
