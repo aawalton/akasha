@@ -22,7 +22,7 @@ export const zaraLarsson = {
       source: "spotify",
       externalId: "1Xylc3o4UrD53lo9CvFvVg",
       externalLink: "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg",
-      lastSyncedAt: "2026-09-16",
+      lastSyncedAt: "2026-10-22",
     },
   ],
   title: "Zara Larsson",
@@ -37,5 +37,5 @@ export const zaraLarsson = {
     "hip hop",
   ],
   createdAt: "2026-06-08T00:23:52.750Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-22T13:48:14.124Z",
 } as const satisfies Artist

@@ -16,6 +16,7 @@ export const zaraLarssonCrushMidnightSun = {
     "release/zara-larsson-midnight-sun-girls-trip",
     "release/zara-larsson-midnight-sun",
     "release/zara-larsson-midnight-sun-more",
+    "release/zara-larsson-blue-moon",
   ],
   status: "completed",
   unit: "unit/minutes",
@@ -26,6 +27,13 @@ export const zaraLarssonCrushMidnightSun = {
   trackKey: "midnightsun|1Xylc3o4UrD53lo9CvFvVg|189898",
   song: "song/zara-larsson-midnight-sun",
   carriedBy: [
+    {
+      release: "release/zara-larsson-blue-moon",
+      discNumber: 1,
+      position: 2,
+      externalId: "6e5cKxc4j2fvzIY6VnPphh",
+      externalLink: "https://open.spotify.com/track/6e5cKxc4j2fvzIY6VnPphh",
+    },
     {
       release: "release/zara-larsson-crush",
       discNumber: 1,
@@ -91,5 +99,5 @@ export const zaraLarssonCrushMidnightSun = {
     },
   ],
   createdAt: "2026-09-16T13:51:02.369Z",
-  updatedAt: "2026-09-24T20:01:46.000Z",
+  updatedAt: "2026-10-22T13:48:14.124Z",
 } as const satisfies Track
