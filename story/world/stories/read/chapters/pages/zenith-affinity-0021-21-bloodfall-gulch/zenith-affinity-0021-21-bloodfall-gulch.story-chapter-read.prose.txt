@@ -1,0 +1,307 @@
+“Have you ever heard of a chase dungeon?” Zedra asked the guild.
+
+Morning came, and the guild had just fueled up on breakfast as Zedra addressed everyone.
+
+“Presumably a dungeon where we chase something?” Kesa asked, a touch of sarcasm in her tone.
+
+“Well, no, the opposite, actually. We are the ones being chased,” Zedra said, his grin reappearing.
+
+“You mean…like being hunted?” Zaria asked.
+
+“Not necessarily, but kind of. This dungeon has an entrance, which is just beyond this warbling gate, I presume, but it's just a cave with a few spider mobs and a larger mini-boss at the end. It's fairly quick, or at least it was in the game, but it is the warm-up to the sprint. The spider queen, I forget her name now, is just a fairly easy boss with limited mechanics.”
+
+“She does have a nasty snare with her webbing, and if you run into any webbing, you have to either burn or cut it down. It can be frustrating if you are holding a hammer or something that doesn’t slash,” Sky interjected.
+
+"Also, her poison cloud is pretty nasty if you don't get out of the way," Zedra said.
+
+“Easy enough,” Ren said.
+
+“This dungeon will be fundamentally faster than most others, on account of each encounter having a time frame or the ‘big baddie’ catches up,” Zedra said.
+
+“And if he does, then you have to fight him?” Mia asked.
+
+“No, he will consume the mobs before you do, and gain strength from them, making the Beast harder to kill in the end.”
+
+“The Beast? Like from The Sandlot?” Dark Hero asked, drawing a bit of laughter.
+
+“Sure. It's a sort of hyena-boar-wolf thing, and it gets stronger for each of the five mini bosses beyond the spider cave that you don’t kill on time. The mini-bosses aren’t anything too crazy, but each one has a theme and affinity. Do you remember the order, Sky?”
+
+“Uhh, first one is Earth, then Fire, then I think Nature or Shadow, and I know the last is definitely Blood.”
+
+“Shadow or Nature?” Zaria asked.
+
+“It's both of them, but I don’t remember the order. Either way, the Beast gets an ability from each of the mini-bosses you don’t kill in time. Flame breath for Fire, stone spikes for Earth, that sort of thing,” Sky explained.
+
+“Is it those abilities specifically?” Ar’Gen asked.
+
+“For those two, yes. At least that is how it was in the game. As for the others, I think it has like a blood siphon ability or something for Blood.”
+
+“And for the Nature ability it gains, I believe it will cast an AoE that entraps everyone in it, like a swarm of roots or something. Shadow is one of the more dangerous ones because it can teleport behind people. That one and the blood siphon ability, or whatever it is actually called, are the worst to deal with,” Zedra finished. “Also, in hard mode, the Beast gets multiple abilities from each, but we can worry about that later.”
+
+“Any questions?” Sky asked with a smile.
+
+Hands went up like a group of students.
+
+≪ ⋆⋅☆⋅⋆ ≫
+
+“On your marks! Get set! GO!” Sky yelled. Each party leader sprinted for the dungeon entrance, Ren, Zedra, and Salazar Dread making it first. Each of them placed their hands on the dungeon entrance and sent invites to their parties, which all quickly accepted and entered.
+
+Sky had challenged every other party to a race; the first to finish the dungeon wins the top choice of loot dropped from anyone’s instance, and, having the competitive nature common amongst gamers, everyone agreed.
+
+One theory going around the guild was that the first party to finish any event or unique monster got the best loot, even in an instanced dungeon. The guild was hoping to test the theory by holding a race and comparing notes afterward. Their time in the Zaphid Caverns seemed to indicate that the first ones through got the best loot, including mounts and the single [Zaphid Queen’s Core Ring] that had dropped, which Azalea from [Affliction] now had equipped.
+
+When [Reality Check] appeared together on the inside of the dungeon, they were met with a humid cave with long-forgotten supports that outlined the wall. The smell of untouched pools of water and wet stone met their noses, a damp and dank cave that wasn't entirely welcoming.
+
+The temperature drop from the bright sun to dark cave was also notable, but it didn’t seem to affect the party to any significant degree. [Reality Check] was once again on their own, just as the rest of the parties within the Zenith Star Guild, the race having already started.
+
+“Alright! On we go!” Dark Hero said, leading the party deeper into the caves, the second he got his bearings.
+
+The party followed, finding the first enemies in the form of an ambush from the ceiling of the cave. The spiders were nearly impossible to see up there, but they dropped down all the same, emerging from darkness like silent wraiths.
+
+Dark Hero engaged first, using his [Darkness Vortex] to pull five of the eight Blood Widow Spiders toward him.
+
+Atticus followed up with his classic [Shocking Field], stunning those in Dark’s grasp. The Shadow Paladin quickly went to work, [Rending Strikes] raining down on the spiders as the golden light of Sky’s Solar and Divine attuned damage began to sear into the enemies.
+
+Kesa had an angle on the few that Dark hadn’t pulled, and quickly side-stepped, sending her upgraded [Healing Wave] at the extra Blood Widows, knocking them all back into a line. It was enough CC for Zedra to go to work, leaving the main group for the rest of the party. He tore through one Blood Widow, blinding another with [Shadow Powder], before easily disengaging and forcing them to move around the first corpse.
+
+Kesa was a healer, but it didn’t mean she did no damage. Part of her [Healing Waters] ability had transformed her basic attack, [Mana Shot], into [Aqua Slash], which had also been upgraded with an ability called [Splash Damage]. It healed allies while cutting enemies, and could be cast continuously until every enemy was dead and every ally was healed. She was now focusing her attacks on the closest Blood Widow, allowing the consecutive slashes to bounce around two extra times per attack, enough to hit both Zedra and the final Blood Widow.
+
+Sky’s damage was a direct counter against the spiders, but it still swept through the stunned Blood Widows like a solar flare scouring a rogue meteor’s surface. She easily built her stacks of [Searing Light] with two quick [Sun Bringer’s] and a few basic [Flare Shots] to even things out. The encounter was over just as fast as it started, and the party wasted no time running deeper into the tunnel-cave.
+
+Dark Hero said it first, “Let’s move! We are racing here!”
+
+There were six more ambush encounters before they faced the first mini-boss of the game. ‘Elishna, Blood Widow Queen’ floated over the massive spider's head, her black eyes contrasting with her blood red chitin. Instead of dropping down from the roof of the cave, she emerged from a web-filled sump, dozens of unnamed, tiny spiders following in her wake. She came out after the party had destroyed about a dozen other Blood Widows and even a huge clutch of eggs, letting out a disgusting screech of fury as she did so.
+
+“Oh god, this is officially the worst dungeon ever!” Kesa said.
+
+Sky shook as if the chills going down her spine had multiplied into a million spiders crawling down her back, “Yeah, this is rough. Let’s kill this thing!”
+
+Dark was resigned to his fate, and he reluctantly activated [Dark Charger]. He crashed into Elishna, the Queen reeling back as she was hit, but some ability blocked his stunning effect. Zedra couldn't activate [Opportunity Strike], instead waiting for Atticus’ cooldown on [Shocking Field].
+
+Atticus had just used his AoE stun and was now charging up one of his [Stormhorn Scepter’s] inherent abilities instead of doing nothing. He yelled out as he cast it, “[Lightning Saw]!”
+
+A vertical circle of spinning blue lightning appeared in front of him, just over a meter and a half in diameter, and he swung forward with the scepter, causing the [Lightning Saw] to roll at an ever-accelerating speed toward Elishna.
+
+Just as it impacted, he dropped [Shocking Field], a cue for everyone else to start a burn phase. Even if his own damage wasn’t increased by the field, he still did a noticeable chunk to the queen’s health bar with piercing and lightning damage.
+
+The party dropped all the damage they could on Elishna, only for the spider queen to shake violently as she broke the stun. It had taken her down to about 70% health, but she responded with an AoE of her own.
+
+A surging breath attack billowed outward as the queen screeched in rage. Bloody red fog filled the entire cavern, making it not only difficult to see but hard to move. The spider queen could mix her venom into the misty breath, applying the [Blood Widow Blight] affliction that is normally only transferred with her fangs.
+
+It took effect immediately, and there was no escaping the bloody fog. The first effect was the feeling of the neurotoxin-laced cloud that made everyone feel nauseous. A sweat immediately took hold, followed by slight cramping, and a spell of dizziness each time they breathed in. Now that this was real, it made for a horrible time as it slowed combat action speed, movement speed, and began to drain health at a concerning rate.
+
+Kesa wasn’t phased, however, placing herself in the center of her party, just as she finished casting a [Bubble Shield] on Dark Hero. She was expecting Elishna to go on the offensive immediately, targeting the closest player. She was right, but had other concerns to deal with. Her new [Staff of Surging Waters] had a perfect inherent ability for this situation, but it wasn’t just the healing that was impressive, as there was a secondary buff that would work perfectly.
+
+“[Golden Nova]!” Kesa verbally cast out, and her staff glowed with golden Holy light.
+
+She targeted the [Golden Nova] right at her feet, and a veritable waterfall of golden glowing water hit the ground, causing a rolling wave to expand outwards. The entire party was hit with a burst of healing magic and the buff [Affliction Resistance], which made the application of afflictions nearly impossible unless there was an opposing ability to stop it.
+
+The problem was that it didn’t remove afflictions, which were already rapidly stacking up throughout the party. Kesa then cast her [Cleansing Rain] with the [Monsoon] upgraded skill she acquired at level 23. A torrential downpour took place in the cave, spawning from nothing but a small cloud that sat along the roof. It now spread out much further, encompassing the entire battlefield, while lasting as long as she kept feeding mana into it. Afflictions fell off like dirt in the rain, as all of [Reality Check] was drenched in Kesa’s healing waters.
+
+“That feels amazing, Kesa!” Atticus said, even as he continued to cast.
+
+There was another effect that happened, something that wouldn’t have happened in the game. The bloody red cloud of [Blood Widow Blight] was affected by Kesa’s [Cleansing Rain]. It seemed to nearly cancel out the ability, as if the rain grabbed onto it and washed the potent attack away. A quirk of the game world clashing with reality, it seemed to impose the ‘higher laws’ of the world onto the magic. This only infuriated the Blood Widow Queen, and she began to attack more viciously.
+
+Dark took the brunt of those attacks on his shield, including the nearly 10-second [Web Lock] that had to be burned or cut through to escape, all while activating [Dark Aegis] with the enhanced skill point into [Shadow Wall], which prevented all projectile attacks from passing him. This only mattered since Elishna decided to start spitting a bloody red acid out, but it was stopped cold by the [Dark Aegis]. Kesa kept up her channeling of [Cleansing Rain], so she couldn’t apply a [Bubble Shield] to Dark Hero as he face tanked the furious Queen.
+
+Sky stepped up, casting a [Flare Step] right up to the queen with a [Sun Flash] cocked and ready to burst out. The moment her movement ability stopped, she unleashed the flash of sunlight, applying [Blindness] to the Queen. On top of that, she used her [Searing Light] to burn through Dark’s [Web Lock], freeing the Paladin while he continued to hold the aegis.
+
+Zedra was able to capitalize on the CC, and he quickly activated his [Opportunity Strike], sending the Queen’s health pool spiraling downward.
+
+The fight was winding down as the injuries began to show on the queen, while Kesa’s [Cleansing Rain] came with [Regeneration], meaning that [Reality Check] was nearly topped off on health while the queen was struggling to keep up.
+
+The fight finally came to its end as Elishna trampled forward through the center of the party’s formation. They dodged out of the way, only Dark Hero taking any damage from it, but it was his counterattack that set her up for death. He activated [Dark Charger] just as she ran up to the far wall, perhaps trying to climb up and out of the way, but she didn’t make it in time.
+
+Just after Dark Hero landed his stun, the rest of the party engaged once again. Everyone unleashed more CC, powerful attacks, and finishing blows, putting Elishna down for good.
+
+“Okay! I want out of the nasty spider cave!” Sky said, drawing laughter and agreement from the rest of her party.
+
+≪ ⋆⋅☆⋅⋆ ≫
+
+“Oh, would you look at that? I got an upgrade!” Zedra said with mild surprise.
+
+“What did ya get?” Sky asked.
+
+“[Blood Widow Fang], a dagger that applies the same affliction as that bloody cloud stuff, but only on a powerful strike.” He equipped the dagger and examined it. The nearly black-colored fang was sharpened down one edge, and the point had a constant oozing, bloody red color that could only be seen in the reflected light from the exit of the cave.
+
+As with normal drops from the game, they come already fashioned for use. The dagger was nearly a foot long, like a wider, single-edged rondel dagger made from black bone. The handle almost seemed to be carved into a grip that started just before the blade did, and looked comfortable in his hand, in both a reversed and standard grip.
+
+“Will it run out of poison?” Kesa asked.
+
+“Doubt it,” Sky replied. “It's an imbued enchantment, I think. That’s the lore behind how some more natural enchantments come into being. For example, I doubt Elishna’s toxin was created or stored within the fangs, right?”
+
+“I guess it was probably in a sack of some sort, but did you get that as a drop?” Atticus asked Zedra.
+
+“Nope, we got a bunch of essence, the dagger, and Elishna as a mount. Which I am thinking means that we were first to defeat her, or she won’t be unique.”
+
+“She is named. She’s definitely unique. I think you’re right, though, Zed, which means we need to get moving and start the chase if we want to win!” Dark said.
+
+“That's right!” Sky agreed.
+
+They exited the cave and entered the valley where the rest of the dungeon took place. Despite being a secluded instance, it was open to the sky above, allowing the sun to touch the interior of the dungeon. They weren’t clear if it was a boundary or a magical effect, but they didn’t have time to examine it. The first of the five camps was in sight off to the right, and normally, a cut scene would have taken place, illuminating the entire path through the relatively small valley that made up Bloodfall Gulch.
+
+It would have started at the far side, following the rusty reddish-brown creek as it showed each of the five mini bosses and their minions, finishing up with the ledge above them where The Beast rested.
+
+Dark Hero was the first to step out, “He’s up there?”
+
+Zedra was in stealth but also walked out, looking up behind them on the cliffs, but they couldn’t see over the edge where the Beast lay. “It should be, but we should move on regardless.”
+
+The party wasted no time, seeing a group of a dozen or so boars that resembled rocks, if not for their health bars above their heads. The largest boar was a massive boulder that would have perfectly blended into the cliffside, apart from the deep breaths that echoed against the cliff wall.
+
+“Boars…again? Why are they always Earth Attuned?” Kesa asked.
+
+“I think the mobs rotate spawn locations, but the elements remain in the same order,” Zedra said. He hadn’t left stealth and spoke in Party Chat. “Dark, start us out, will you? Go straight for the big boar while Sky and Atticus stun and take care of the rest.”
+
+“On it!” Dark ran forward, preparing his charging stun.
+
+“Shouldn’t I start with a [Healing Wave]? It’s got a knockback, and it could put all of them right on top of the miniboss.”
+
+“That’s a good idea. They are pretty spread out,” Sky said, nodding at Kesa.
+
+“Do it!” Zedra replied as he closed in on the group.
+
+Kesa had yet to pick up a movement ability, but thankfully Atticus was prepared, “[Wind Imbuement]!”
+
+It gave the whole group movement speed, combat action speed, and added lightning damage to attacks and spells, the buff lasting an hour. They had made him hold off on using it until the start of the chase just to ensure that they had it the entire time. Dark Hero held back, entering the aggro range together with Kesa. The noise of their footwear on the dirt was enough to wake some of the smaller boars.
+
+“[Healing Wave]!” Kesa called, ensuring that she got all of the smaller boars in the width of the spell. The [Tidal Force] upgrade once again did wonders, throwing all of the boars against the cliff wall.
+
+Dark didn’t hesitate, following in the wake of the wave. He silently activated [Dark Charger], slamming into the miniboss, followed directly by [Darkness Vortex] pulling in everything that had just been CC’d. Unfortunately, his charging stun attack hadn’t actually stunned the boar, an ability that gave the mini-boss immunity to most forms of CC, which had been active while it rested, making opening CC attacks difficult to land.
+
+The boar squealed in fury as the rest of the herd were pulled into him, but Atticus was prepared.
+
+“[Shocking Field]!” Every single boar was hit with the stun from his debilitating field, allowing Sky and Zedra to follow up.
+
+Zedra’s new dagger delightfully sank into the flank of the nameless mini-boss, applying the neurotoxin from Elishna. This slowed both movement and action speed, while dealing damage over time in conjunction with his [Shadow Poison] affliction. Admittedly, his [Shadow Poison] did fairly limited damage, but it increased physical damage from all other sources, allowing for both Dark and himself to deal increased damage.
+
+Just as planned, Sky and Atticus focused on AoE damage, while Dark and Zedra took down the mini-boss. Atticus’ [Stormhorn Scepter]’s ability, [Spark Nova], which caused a ring of rolling and sparking lightning to surge out, was cast as soon as Sky finished a [Searing Blast]. The well-coordinated attacks wiped out the ads while simultaneously dealing splash damage to the mini-boss.
+
+The mini-boss fell, and a terrifying roar crashed through the valley.
+
+The chase was on.
+
+“Run!” Zedra called.
+
+The group didn’t hesitate and began to continue through the path that would lead them through the dungeon. They weren't in danger just yet, as the Beast would consume the corpses, but they were still on a timer. Behind them, a terrifying growl and the sound of claws on dirt could be heard.
+
+A contemplative look crossed Sky’s face, and she slowed down. Zedra noticed and turned to see what she was doing. She slowly turned around.
+
+“Wait. No, Sky, don’t you do what I think you’re about to do,” Zedra said.
+
+The rest of the party came to a stop. Sky took a step back towards the earth camp, where the sounds of the boars could be heard…being consumed.
+
+“Uhhh, Sky? Seriously, what are you doing?” Dark Hero asked.
+
+“Yeah, we are supposed to go this way…” Kesa said, holding a hand out as if to guide her back on course.
+
+Sky looked back at them, “Atticus?”
+
+Atticus was surprised that she ignored everyone and looked at the rest of the party for support, “Y-yes?”
+
+“Is your stun still on cooldown?”
+
+“Not anymore…why?”
+
+A small smile appeared on Sky’s face. “I think we should switch our strategy a bit.”
+
+“Sky, isn’t it invulnerable right now?” Zedra asked, seeing where she was going with this.
+
+“Why would it be? It was in the game, and sure, these dungeons are closer to holding to the rules of the game, but we know they are also different. There was supposed to be a cut scene, right? What would make us have to follow the rules of the dungeon if it doesn’t enforce them?”
+
+“Do you really think this is the right time to be testing this theory?” Kesa asked.
+
+“Yes! Why not now? Who cares if we are first to finish? I want to see how much we can bend the rules before they break. Reality is forcing its will on the rules of the game; we just need to see how far that goes.”
+
+“Damn, I think she’s right,” Dark said.
+
+Zedra sighed, “Fine then. Let’s take it down.”
+
+≪ ⋆⋅☆⋅⋆ ≫
+
+The recommended level for the Bloodfall Gulch was 28, and Sky was the highest level in the party at 26 because of her time in the PvP Tournament. But like most dungeons, there isn’t just a recommended level, but a range of effective levels that both ‘modes’ of the dungeon are good for. In other words, going outside of the level range, you will find either disproportionately stronger enemies if your level is too low, or significantly reduced experience if too high.
+
+The current level range for the normal mode on Bloodfall Gulch is 27 to 30, while hardmode goes from 30 to 32, and the experience falls off completely by level 35. Either way, it meant that [Reality Check] was turning around to face a level 30 dungeon boss that may or may not be immune to damage.
+
+“If I die, I am blaming you, Sky,” Dark said.
+
+“Yeah, I will fight with you!” Sky replied.
+
+Dark grunted and shook his head as he sprinted at the Beast. They finally got a decent look at the creature, which had the powerful legs of a predator, scaled up to fit a creature larger than a horse. The brownish-tan fur had streaks of red and black through it, not quite stripes, but enough to make it more difficult to spot in the dungeon, if it was trying to hide. The snout couldn’t be seen, as it was buried in the largest boar’s corpse, though the powerful neck was flexing with each bite.
+
+“Start us off, Atticus,” Dark said, hoping to pull the Beast away from the corpses.
+
+“[Shocking Field]!”
+
+The Beast jolted, but the stunned debuff didn’t appear on its bar. The health bar did go down, if only a sliver, though, proving that Sky was right to some degree. Attacks came in from Sky and Atticus while Zedra hung out in stealth. The Beast stood up from eating, allowing its face, which was a cross between a hyena and a wolf, but also with the tusks of a boar, to look up to them with furious red eyes. Also, her poison cloud is pretty nasty if you sit in it.
+
+It walked out of the [Shocking Field], uncaring about the stunning effect.
+
+Dark stepped up and charged it, [Dark Charger] activating and allowing him to crash into the Beast. It worked for a moment, but the Beast activated some ability with a snarl, and it broke the stun. It charged back, bucking its head at Dark and sending him flying. Zedra appeared from a flash and threw [Shadow Powder] in its face. He immediately activated [Opportunity Attack], using the inherent teleportation aspect [Strike From Behind] to appear on its flank.
+
+Sky sent a [Sun Bringer] at its blinded face, while a [Lightning Saw] from Atticus rammed into its side. The Beast slashed out at where it thought Zedra was, but leaped forward as he sank his daggers into its rear ends. Zedra’s afflictions took effect, slowing action speed, increasing damage taken, and preparing for the next engagement.
+
+Dark reappeared, jumping forward with a [Rending Strike]. The [Blindness] debuff from [Shadow Powder] lifted, and the Beast slashed at Dark. He was able to tank most of the damage and quickly replied with [Revenge of Shadows], which immediately struck back with the same amount of physical damage applied as the Shadow Affinity. It massively increased the threat generated from Dark and ensured that aggro was locked onto him.
+
+Kesa focused on Dark the moment he acquired the Beast's full attention, and ensured that his health didn’t flatline. [Bubble Shield], [Healing Geyser], and [Healing Wave] all went out, as multiple strikes landed on Dark. He had his shield up, even casting [Dark Aegis], but that only lasted three seconds. He was locked in as the Beast pushed him back with devastating swipes and even an attempt to bite around the shield.
+
+The huge bloody maw of the Beast was trying to get around the shield when Sky used her minor amount of CC to help mitigate some of the damage. [Sun Flash] once again applied [Blindness] and caused another three seconds of missed attacks on Dark Hero as he stepped back.
+
+Dark called out, “We need to kite this thing!”
+
+“Back towards the cavern! Don’t push to the camp!” Sky said.
+
+“Rotate around it!” Zedra urged.
+
+Dark did just that, side-stepping to turn the Beast as it continued to attack. Kesa began running with Sky back to the lair of Elishna.
+
+“Atticus, time!?” Sky asked.
+
+“Five seconds!”
+
+The group moved, Kesa’s [Aqua Slashes] bouncing between damaging the Beast and healing Dark, but the party was ready.
+
+Atticus finally dropped the [Shocking Field] as soon as they made it to the entrance of Elishna’s cave. Everyone turned on the creature and began to damage it as fast as they could. Stars, daggers, lightning, and more impacted the Beast. Debuffs and afflictions appeared on its bar, and the party was in luck, as the unnamed stun-break ability the Beast had went off not a second before [Shocking Field] ended.
+
+Dark capitalized, activated a point-blank [Dark Charger] and reapplied the [Stunned] debuff. The damage continued, and Sky held off on activating [Searing Blast] to allow for more damage to pile up. The second it broke free, she snapped her fingers, smiling as the Beast’s health pool dropped below 55%, a huge damage phase.
+
+The group continued this process, waiting for the double stun activation on cooldowns as they kited the Beast back towards the start of the dungeon, completely bending the rules of the new world to their favor. They finally took the Beast down, not a hundred yards from the warbling entrance portal.
+
+_______________________________________________________
+
+WORLD FIRST DUNGEON COMPLETION: Bloodfall Gulch
+
+Party: [Reality Check]
+
+Guild: Zenith Star [★]
+
+Clear Time: 36m 12s
+
+Difficulty: Normal
+
+Level Rec: 28
+
+_______________________________________________________
+
+_______________________________________________________
+
+Guild Chat:
+
+Zaria Flamesoul: WTF!?
+
+Ren Tidecrest: You can’t be serious.
+
+Salazar Dread: LETS GOOOOO!!!
+
+Cadmeas Odalfus: With profound shock and pride: As expected of our guild master and her party! Could there be any doubt about their prowess!?
+
+Gary: That’s honestly impressive.
+
+Solara Sky: Hi, Gary!
+
+Selena Blackmore: So, how did you cheat? You cheated, right?
+
+Dark Hero: Of course, Sky cheated!
+
+………
+
+_______________________________________________________

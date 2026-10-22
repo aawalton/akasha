@@ -144,6 +144,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/stonehaven-league/stonehaven-league.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/stray-cat-strut-stubbing-never-lol/stray-cat-strut-stubbing-never-lol.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/succulent-girl-evolution/succulent-girl-evolution.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/summoned-a-hundred-years-too-late-book-2-stubbing/summoned-a-hundred-years-too-late-book-2-stubbing.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/super-supportive/super-supportive.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/syl-a-slime-monster-evolution-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/system-change-system-universe/system-change-system-universe.world.ts","typed":true,"deferred":false}
@@ -196,6 +197,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/warbreaker/warbreaker.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/what-burns-beneath-fantasy-romanceadventure/what-burns-beneath-fantasy-romanceadventure.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/wolf-girl-evolution-tails-teeth-and-too-much-food.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/zenith-affinity/zenith-affinity.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
 {"propertySlug":"target-page-type","path":"agent/properties/assignment-world.relation-property.ts","id":"01a11ce4-4cd1-7b04-bfd6-d0f20579c93a"}

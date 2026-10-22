@@ -1,0 +1,303 @@
+Level 3 came with the defeat of the largest and first affinity attuned creature the party faced, an [Earth Strider Boar]. The whole party worked together to take the car-sized earth-attuned boar down. Every time the boar attacked, wedges of earth would rise in front of it, causing the party to take some serious damage until they learned its attacking patterns.
+
+It finally fell as it ran past with three [Mana Bolt]s crashing into the side of its head from the three casters.
+
+"Nice shots! What skills first, everyone?" Zedra asked. The internal ‘ding’ of hitting level 3 was party-wide.
+
+"Uhhh, you want me to grab that [Shocking Field] you were talking about?" Atticus asked first.
+
+"Oh yeah, read the description for me again, please?"
+
+"Sure, [Shocking Field] - Allows the caster to place a 5 square meter field of lightning, stunning foes that are in or step into the field. Scales in duration with Lightning Affinity, current duration: 1 second."
+
+"That is definitely the one. You want to drop it in front of enemies to stun them, and at level 5, you need to get the damage-enhancing modifier. Read that stat to me if you can. It should be in the subcategory for [Shocking Field]," Zedra asked.
+
+Atticus nodded and looked back at the screen only he could see, "Hmmm, [Shocking Damage], Increased the damage-"
+
+"No, that is the flat damage increase for your own skill; it's probably only a 10% increase on an already low-damaging spell,” Zedra replied.
+
+"Okay, what about [Static Discord]: Enemies stunned inside of [Shocking Field] have [Vulnerability] applied. Creatures take 50% increased damage from non-lightning damage sources,” Atticus asked.
+
+"That's the one! A direct increase from other sources of damage on top of giving enemies the debuff [Vulnerability]. This will let us attack much higher-health and damage-resistant enemies," Zedra explained.
+
+"Uh, yeah, that sounds good, but what is the difference between [Vulnerability] and increased damage taken?" Atticus asked.
+
+Dark spoke up, "[Vulnerability] is a debuff that reduces the target's defenses, that's both magical and physical defenses. So, their defenses get dropped, meaning that any damage reduction they have is inherently less. Comparing that to the direct damage increasing ability of [Static Discord] means that all non-lightning damage is increased."
+
+"I see, but why isn't lightning damage increased?"
+
+"I think it's just an easy way of placing you more into a supporting role than damage. Lightning Enhancer has insane damage-enhancing capabilities at the cost of personal damage output. Meaning that a party can do more damage with a true set of DPS'ers versus a group without an Enhancer," Zedra finished as Atticus nodded at the overwhelming amount of information.
+
+"Next up, Sky, whatchu got?" Zedra asked.
+
+"[Searing Light] - Any solar damage adds a stack of [Searing Light] and changes [Mana Bolt] into [Flare Shot]. My damage will then be increased by my Solar Affinity, and it stacks up to three times," Sky read her skill selection.
+
+"And at level 5?"
+
+"I take [Searing Blast], which lets me explode the stacks of [Searing Light] for a huge amount of solar and force damage. Gonna be wild at higher levels!"
+
+"Great, big AoE damage. Dark?"
+
+"I grabbed [Darkness Vortex], it lets me pull enemies towards me, and eventually I can place it somewhere else, to pull enemies into your [Shocking Field], for example," Dark said, nodding at Atticus. "I will take [Rending Strike] at 5, a huge armor reducer, and it lets me hit multiple enemies in front of me...bread and butter basic attacks for my kit from now on," He shrugged.
+
+"Ah, yeah, I remember that one. Changes your basic attack up, very good. Kesa?" Zedra nodded.
+
+"[Cleansing Rain], a small rain storm that cleanses afflictions, 1 every second for 10 seconds, while giving [Regeneration] to allies within the AoE. At level 5, I will take [Healing Wave], which lets me send out a small wave of healing in front of me in a cone," Kesa explained. “Eventually, it will be quite the nice spell, CC for enemies and healing for friends.”
+
+"What does any of that mean?" Atticus asked.
+
+Sky laughed and began explaining all the concepts, like how CC means Crowd Control, or one's ability to disable an opponent. She explained many of the typical MMORPG terms, not at all expecting Atticus to remember everything.
+
+Zedra helped explain things, then spoke about his 3rd- and 5th-level skills and abilities. "I took [Veil of Shadows], letting me go invisible, giving a better chance for crits while coming out of stealth. At level 5, I will take [Opportunity Strike], letting me stab an enemy when it is stunned or disabled for huge damage."
+
+"Damn! Sounds crazy strong!" Dark said approvingly.
+
+"It will be. Let's keep going!"
+
+≪ ⋆⋅☆⋅⋆ ≫
+
+Boars turned into aggressive wolves and feral bears, the strongest of which were called Elite Mobs. Many of them had some kind of elemental attunement, just like the [Earth Strider Boar]. They gave way to organized groups of goblin camps and giant beetle hives as the party moved further away from the starting city of Ostbury. They finally found the first quest chain as they hit level 5, nearly 4 and a half hours since they jumped off the wall.
+
+"Dang, I really need to check the scaling on this, it's completely different here than in-game," Sky said, looking at her map.
+
+"That bridge is usually so close to the Ostbury, but this is an actual forest now. Not just some place with like 50 trees and a bunch of enemies. We are running pretty far between each fight," Kesa said.
+
+"Ostbury was way bigger than it was in-game," Zedra agreed. "It felt like an actual city."
+
+The party showed up at a large stone bridge where there was an NPC holding his bleeding arm, "I got this!" Kesa said.
+
+She summoned [Cleansing Rain], starting the small [Regeneration] effect to take hold. The man breathed in relief as the wound closed, and he looked up at the group.
+
+"Adventurers? Wow, I wasn't expecting any help. Thank you, Lady Healer," the human man said while bowing.
+
+"No problem," Kesa said with a smile.
+
+"Sir, what was it that did this to you?" Zedra asked, fully entering Role Play mode.
+
+"Ah, a damn Hobgoblin is taking over the local tribes and stirring them up into a frenzy. I had to leave my cart after they killed my donkey, and they retreated once I got off the bridge!"
+
+"What was your name, sir?"
+
+"Adam Gazz, farmer and decent runner..." He said the last part in a joking tone. The party exchanged odd glances, but Atticus chuckled a bit.
+
+"Running from goblins!" The Kainen said with a rare smile.
+
+Adam laughed with Atticus and spoke again, "Well, what do I call your group here?"
+
+Dark snorted, "[Reality Check]!"
+
+A pop-up window showed up on all of their HUDs, "Accept party name, [Reality Check]?"
+
+Everyone looked around and accepted, as Zedra replied, "[Reality Check] it is..."
+
+"Well, I don't mean to press, but if you adventurers are as strong as you seem, well...We would love some help clearing out goblins if you are willing," Adam said.
+
+"Yeah, will do! Let's go, [Reality Check]!" Zedra seemed all too excited about it.
+
+"I don't think we should have let Dark choose the name..." Sky said skeptically.
+
+"I didn't hear you say anything!" Dark said defensively, though a huge smile was on his face.
+
+"It just happened so fast," Sky replied.
+
+"Yeah, and the dude just accepted it like nothing odd happened," Zedra said.
+
+"But you all accepted it too!" Dark complained.
+
+"Yeah, but not really, we can blame you just fine, okay?" Kesa said with a laugh at her husband.
+
+≪ ⋆⋅☆⋅⋆ ≫
+
+"I have to admit that I haven't seen that many of the green little suckers before," Adam Gazz said.
+
+Zedra had slipped away in the shadows while the group slowly approached.
+
+Dark spoke up, "Alright, Adam?"
+
+"Eh?"
+
+"We are going to take this camp down, but you need to get away from here so we don't have to protect you while taking out the rest...alright?" Dark asked.
+
+"Oh, alright. Yeah, no problem, fella."
+
+He took off back the way they came, and the group followed Dark's lead to the spot Zedra marked.
+
+"We are here," Dark said over voice chat, noting the icon that appeared on his HUD.
+
+"Atticus, the goblins will be rushing through those two gaps. You just wait until 5 or so have come through, then drop your [Shocking Field] on the side with the most goblins, alright?" Dark kept explaining.
+
+"On top of the first batch?"
+
+"No, let those through. I will pull the first batch, and you follow up with the [Shocking Field] on the second group. Then it will be basic attacks and dropping the field on cooldown until the fight is over."
+
+"Wait, what if I accidentally hit one of you?"
+
+"It's fine! There isn't friendly fire, Zed and Dark figured that out by attempting to stab each other earlier," Sky said casually.
+
+Atticus shook his brown furry head, “Crazy…”
+
+"By the way, don't you guys think goblins are sort of...I don't know... overdone? Cliche?" Kesa asked.
+
+"They definitely are. That is why you only see them in the first part of the game. Nearly the entire second half is elemental alternatives for awesome fantastical creatures for the most part. I am pretty sure the community made fun of the game for having them, even though they have dwarves and elves too," Sky said.
+
+"Incoming," Zedra said over Party Chat.
+
+"Here we go, you guys know what to do!" Dark said.
+
+He stood closer to the left gap in the rocks. Sky and Atticus were behind him, with Kesa in the back.
+
+A dark elf came sprinting through with haste. It seemed that Zedra had pulled the whole camp.
+
+Dark stepped forward, activating [Darkness Vortex] the second that enough goblins had stepped forward. A large series of dark tendrils went flying out to attach themselves to the first wave of goblins, and he pulled them all to him as if being sucked into a black hole.
+
+Sky began attacking, using her staff to cast [Flare Shot], each arcing path looking like a solar flare from the sun, scaled down to the size of a basic spell. Kesa and Atticus sent [Mana Bolts] flying as well, not having their base attack switched to an affinity attack just yet.
+
+Zedra appeared in a quick burst of shadows, pulling more towards their tank as he easily dispatched one of the healthier goblins. Just after that, a huge hobgoblin, one of the strongest versions, ran into the clearing.
+
+"Atticus!" Sky yelled while pointing.
+
+"On it!" Atticus dropped a [Shocking Field] on top of the larger Hobgoblin, immediately stunning it and the three around it. The next wave of goblins didn't stop running and instead just ran straight into the field of lightning, stopping in their tracks or falling over each other as they were stunned.
+
+Sky let multiple [Flare Shots] connect with the large Hob. Each consecutive strike did more damage with the stacking intensity of [Searing Light] in conjunction with the damage enhancement from [Shocking Field]. A [Searing Blast] sent a wave of force and fire out from the large Hob, dropping it down to a quarter health while dealing significant damage to the rest of the stunned smaller gobs.
+
+A shadow in the shape of Zedra finished the large Hob off with a single [Opportunity Strike] as it was still stunned, his daggers tearing through the goblin. He disengaged after delivering a few more swipes to nearby goblins.
+
+"Fall back to B! They are following the same pathing perfectly!" Zedra said as he ran past. He was referring to the ways in which enemy mobs tended to traverse any particular territory. It was just like the pathing in the game as they navigated the poorly defended camp they had created.
+
+Zedra had always been good at noticing and taking advantage of mechanics like this in the game. There was a reason why everyone wanted him to lead the party, while Sky would lead the guild. He was a genius at exploiting and figuring out mechanics, while Sky was great at getting groups of people to follow her mad schemes.
+
+Zedra could feel the flow of the battle as he ducked into his [Veil of Shadows]. Each time he disappeared, aggro switched from him to Dark, and he was able to double back on enemies, tearing them apart from behind.
+
+Sky turned and grabbed Atticus, "We're going back now. Be ready for when your field comes back up and drop it there on the pinch point!" She pointed ahead at the next point where the goblins would funnel together.
+
+Atticus nodded, adrenaline flowing, "A-alright!"
+
+They ran after Kesa, who dropped a [Cleansing Rain] on their retreat path, cleansing a stack of afflictions per ally as they ran through the magical field, even though only Dark had been hit. The single stack of [Regeneration] didn’t do anything for the casters who were at full health, but it lasted long enough that when they did inevitably take damage, they could start healing immediately.
+
+Dark finished off a couple more with [Rending Strikes] before the second wave began to file through the tents. It was just a matter of time for the Goblins to fall.
+
+Another [Shocking Field] and [Darkness Vortex] from Atticus and Dark Hero stacked them up, and they were brought down with no trouble as the party collapsed on them. Dark’s [Rending Strike] helped increase Zedra’s damage more than anyone else, so that is where Zedra’s strikes fell, one after the other.
+
+"Oh yeah, great fight! Any good loot?" Sky asked, breathing heavily.
+
+"Hmmm, a fair amount of blood and iron affinity dust...and a weapon for Dark, maybe?" Zedra said.
+
+Zedra tried to initiate a trade to hand the item over, but then he just pulled it from his inventory and physically handed him the axe.
+
+It looked like a rusted and blood-covered monstrosity of a hand axe that had a blade extending over a foot in length. There was a clear weight to the top of the axe, looking like it wanted to always fall forward and cleave something.
+
+"Unnamed tier one blood affinity handaxe," Dark said. "Good enough for now."
+
+"Hmmm, wait, was I not supposed to also get a bunch of dust? Cause I got a bunch," Atticus asked.
+
+"Each of us will get affinity essence drops for everything we damage when they die, but items, trinkets, mounts, and other stuff like that all go to the party leader for distribution. Oh, we should speak on crafting and loot distribution soon..." Sky said to Zedra.
+
+"Ah, and Zedra is the Party leader?" Atticus asked.
+
+"That's right!" Sky replied.
+
+"I might be the party leader, but I think Sky here will be our Guild Master..." Zedra said.
+
+"Seconded!" Dark Hero said.
+
+"Yup! Third-ded," Kesa said with a laugh.
+
+"What? You don't want GM, Zed?" Sky asked playfully.
+
+Zedra smirked, "Nah, I don't think I do. I'll be your number two, but you are the face...Deal?"
+
+"Yeah, that's good with me. I got the inspiring speeches down at least. That being said, I intend to be one of the top Enchanters in the game, so I can't let being GM distract me from that," Sky said with determination.
+
+Dark asked, "Is this still just a game? Or are we planning out our future lives?"
+
+That left the group silent for a good 10 seconds, but the rhetorical question left them with more thoughts than answers.
+
+Kesa broke the silence, "Did we still want to ask Atticus about Refining?"
+
+"Refining...like oil?" Atticus asked.
+
+That brought a laugh from the dark goliath next to him, "No, it's a good craft that helps everyone refine materials, giving benefits and eventually getting more out of our raw materials. We would essentially funnel all the resources from the party through you for proper refinement processes, regardless of what they are. Turning ore into ingots, for example. The higher level Refiner that you are, the better quality components you can produce."
+
+"Is there a cooking craft?" Atticus asked after listening to that.
+
+"Yeah! Do you know how to cook?" Sky asked, attention fully fixed on the newest party member.
+
+A huge smile appeared on his kainen face, sharp teeth bared in a grin, "I was a line cook at a French restaurant a few years ago!"
+
+The party stopped and turned in shock, but Zedra spoke up, "Sounds like you are our cook then!"
+
+"I actually wanted to start this game because of the cooking...and so I could be an awesome cat person," Atticus said. This game was indeed known for its crafting ‘mini-games’, which had been what drew many people to it. They had enough complexity and depth to be extremely addictive, but weren’t too overwhelming either. It could be done while leveling up normally, or in place of leveling up through combat, though it takes much longer.
+
+The group chuckled at that, and Kesa spoke up, "If this isn't an actual game and we are stuck in here for a while...it would be awesome to have an experienced and high-level cook in our party. I bet some of the epic raid food is going to be amazing!"
+
+"Right?!" Dark agreed, "And just wait till you get magic food ingredients..."
+
+Atticus looks shocked, "Magic ingredients?!"
+
+"Oh yeah!" Sky continued, "After we hit level 50, damn near everything will be magical, even cuts of meat and foraged vegetables. We used to be forbidden from reading the descriptions of Raid Food cause it would make everyone hungry, back when this was still a game."
+
+"That reminds me, we should find a gathering tool merchant after we hit 10, so we can start harvesting. I have seen some herbs, wood, and ore deposits...not that it matters for now, but it will be good to start harvesting," Zedra said.
+
+"Also, I am hungry!" Sky said with a smile.
+
+≪ ⋆⋅☆⋅⋆ ≫
+
+An area of harvested experience was the result of [Reality Check]'s passing. Grinding every red bar and public event known to this portion of the world. After hitting level 5, the leveling slowed by a visible amount. Each 5th level was a threshold where experience to move forward grew. It wasn’t exponential outside of the switching of tiers, but it was still obvious. The goblin camp had netted everyone a single level, putting them at 6, though some leveled faster than others due to a myriad of reasons.
+
+The quest chain that started with meeting the former NPC named Adam Gazz on a bridge, continued on to taking down several decently sized goblin camps, and would then continue on to a larger fortress. The quest would culminate in defeating a goblin lord who has taken residence at an abandoned human fort, finishing the quest chain with a larger fight.
+
+They needed to hit level 7 or 8 before taking on the fortress, though, so they went around it and searched for more outposts and camps, hoping to gain a few levels while finding the exact spot of the last boss.
+
+Another three goblin camps and random mobs, let all of [Reality Check] hit level 7, which enabled another skill point selection.
+
+The frustrating part was that the normal time to level up would take a few days of nearly 8 hours of gameplay to get to 100, or the maximum level of the original base game. Now, though, they found themselves struggling to hit a pace that would bring them to 100 in a few months or more of full-time leveling.
+
+"I am literally one bar from level 8," Zedra complained.
+
+"It’s annoying how you get ahead of everyone in experience, even Sky, with her AoE can’t quite keep up,” Dark Hero said.
+
+Zedra smirked and flipped his daggers, "Yeah, I am pretty amazing."
+
+Kesa and Sky laughed at that and the conversation.
+
+"Seriously, though, it's going to switch as we start farming dungeons, and Sky will fly ahead once we have a bunch of mobs."
+
+"Such is the burden we AoE mages bear," Sky said, a melancholic tone to her voice.
+
+Dark laughed at her, but didn't say anything.
+
+"So, I was thinking, I want to buy that guild hall in the Crystal City. It was the [Crystal Lotus] guild that had it on our server, but I was able to get in one day because of my buddy Dread Sloth. He had a friend in the guild who let us explore it. It has to be the coolest friggin' Guild Hall out there," Sky said.
+
+"What's a guild hall?" Atticus asked.
+
+"I am so glad you asked!" Sky said, way too much excitement in her voice.
+
+"Oh, god, we let the question go without contesting it," Zed said, causing Dark and Kesa to both laugh.
+
+Atticus raised an eyebrow and looked around nervously, but Sky stood right in front of him and began to list off everything required to get a guild hall, what it was, and how it would play a pivotal role in the growth of the guild from the moment they got it.
+
+"Wait, Sky, back it up and go to the guild-forming part. You said we need how many to start a guild?" Kesa asked.
+
+"So, we need at least 10 people to create a guild. They also have to agree on who becomes the GM, the assistant GM, and at least 2 officers to start. Everything can be changed later on, but you need that much to initiate it. Once we find a fellow party of adventuring friends, we will just have a couple of them join us in Ostbury with 50 gold coins to purchase the writ. How much do we have now, Zed?"
+
+"Hah, not even close, but our gold will flow once we hit ZC and start crafting."
+
+"ZC?" Atticus asked.
+
+"Sorry, that is the first dungeon we are going to, Zaphid Caverns at level 15," Zed explained.
+
+"Got ya. A dungeon..."
+
+"Don't worry, our farming speed just got overhauled," Sky said, while looking at the description of the skill she bought from the 7th-level skill point.
+
+"Oh? Did you get your star?" Zedra asked with a smile.
+
+Sky mirrored his smile as a sphere of golden sunlight turned into a mix of light and golden fire at the tip of her staff, "I have the light and bring it forth, come now, [Sun Bringer], ignite the sky!" She yelled like someone in an anime.
+
+Sky's joking words didn't take away from the awe and terror that her new spell provoked. A spherical star of flaming white and yellow light formed to be about the size of a large beach ball. The power and force of the star made a torrent of wind and heat spill across the clearing.
+
+Sky flung the sphere forward with surprising speed, and it impacted a tree. As it flew by, solar flares shot off in random directions, which were actually [Flare Shots] that would target nearby enemies automatically. The sun didn't destabilize and go supernova; instead, the tree not only ignited but was torn and devoured by a maelstrom of gravitational and fiery power.
+
+The entire group stared at the results, the star slowly collapsing into itself and bringing the smoldering remains of the tree with it. They then looked over to Sky.
+
+"Hmph, that took a lot of mana,” Sky said, as she realized everyone was staring at her in shock. “What?”

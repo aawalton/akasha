@@ -1,0 +1,349 @@
+[Reality Check] was the first to enter, and they did so with the rising sun. The [Flamesouls] were on their heels, using the first dungeon as a test to see how the mechanics transferred to this new world.
+
+It could have just been an open cavern instead of an instanced dungeon, removing all the benefits for repeating it. Thankfully, it appeared to work in their favor, as both parties entered their own instance of the dungeon.
+
+The caves had blue and green colored moss and mushrooms that added to the odd sort of yellow ambient light that didn’t seem to have a source. Dark brown rock walls and a surprisingly level ground with a bit of dust floating around.
+
+“What is first?” Kesa asked.
+
+“The Burrower, a digging bug that opens holes where the mobs flow out of. Should be relatively easy, Atticus, you just wait for the ugly thing to pop up and just like wack-a-mole, drop your [Static Field] on it,” Zedra explained, acting as the first one to head further into the caverns.
+
+Atticus nodded his furry head but didn’t speak, showing a bit more nervousness than he had since jumping off the wall in Ostbury.
+
+“It will be just fine, big guy. You just make sure to keep moving, and look out for burrow holes that spawn, right?” Sky asked, patting the lithe, muscular arm of the kainen.
+
+“R-right,” he said.
+
+The group made their way around the first bend and found a suspiciously uneven sandy floor that spanned a good 30 meters in diameter. It wasn’t solid like the first room and would hinder their movement a bit.
+
+Atticus started with his [Wind Imbuement], ensuring that everyone had the secondary and tertiary effects of the buff, [Storm Aspect], and [Lightning Empowerment]. It was now the strongest buff anyone had, increasing damage, movement speed, and combat speed.
+
+Dark Hero received the buff from Atticus and immediately entered the sand pit. His eyes roamed over the uneven surface, and despite having the movement speed increase, the sand slowed him a noticeable amount.
+
+As he entered the arena, something happened that no one had expected since entering the world, “Is that boss music?”
+
+Sky had asked that as she followed the party into the combat.
+
+“It is!” Zedra laughed, “It obviously has to do with the instanced dungeon, but I won’t complain!”
+
+“Eyes up! Here we go!” Dark Hero drew their attention back to the current circumstances as the room shook.
+
+A deep rumble from underground seemed to signify that danger was imminent.
+
+“Stay moving!” Sky called.
+
+The ground underneath Dark shifted, and he quickly rolled out of the way with surprising athleticism for someone so huge. The ground burst in a 2-meter circle, a dust cloud went up, and before it cleared, bugs began to pour out as the Burrower dove down into the sand once again.
+
+Flashes of a brown carapace and a longer centipede-style body were visible through the dust cloud.
+
+Dark was the first, landing a solid [Rending Strike] in an armor-reducing slash in front of him. The skill had been upgraded to extend 5 meters beyond the range of his one-handed axe. [Slashing Arc], now extended his axe into a magically massive weapon on attack, seemingly made from shadows. It connected to the bug that was still obscured by a dirt cloud and applied the armor-reducing effect.
+
+Sky followed up with [Flare Shots] off of cooldown, building up her stacks of [Searing Light].
+
+The dust cleared enough to see, and three bugs had crawled out of the hole, already taking damage from Sky while they entered the stunning field from Atticus.
+
+Another burst of sand in a different spot on the sandy floor, and the first boss revealed itself.
+
+‘The Burrower, level 17’ appeared above the bug, whose rotating mandibles went back and forth. It immediately struck out at Dark, who was able to block most of the damage with his shield. He wasn’t fully able to stop one of the mandibles from slashing around the edge and piercing him in the side. He took it with a grunt but didn’t let his guard down.
+
+Kesa was prepared as slashes of water flew at Dark, and an iridescent bubble appeared around him. Her upgraded [Mana Shot], the original base attack for casters, had become [Aqua Slash], something that damages enemies and heals allies. She held her [Healing Tide] to see if more damage came in, but preemptively applied her level 13 skill, [Bubble Shield] to him, blocking a portion of incoming damage.
+
+The Burrower was about to go underground when Dark landed his [Dark Charger] skill, stunning the boss who had seemingly evaded Atticus's field. Zedra appeared from a [Veil of Shadows], dropping a poison-enhanced [Opportunity Strike], courtesy of his new skill [Shadow Poison] that increases vulnerability to physical and shadow or adjacent affinity attacks. He then rolled away using [Evasive Vault] to lower his threat and ensure that the creature remained focused on Dark Hero.
+
+Zedra’s attack was a critical strike as his dual daggers easily pierced the tough carapace. While Sky did the most AoE damage, at lower levels her single-target damage was almost as serious as Zedra’s. That was slowly changing.
+
+Zedra’s critical strikes were devastating and even made the weird Burrower flinch at his ministrations.
+
+Dark’s stun wore off, and the Burrower pulled back into its hole, where a swarm of even smaller burrowers began to scurry out. The bugs were swarming Dark, and while he slashed at the tiny creatures, the better answer came from Sky, who began to show her prowess at large-scale AoE.
+
+Her [Sunbringer] star appeared directly in the hole while [Flare Shots] trimmed the sides. Zedra and Dark both retreated, awaiting the next arrival of the larger boss.
+
+Dark and Atticus doubled up [Dark Charger] and [Shocking Field], both enabling the tank to close the gap of the surfacing Burrower, as well as applying a stun for Zedra to capitalize on.
+
+Just as that happened, Sky had delivered enough stacks of [Searing Light] that she felt confident in activating [Searing Blast], and it caused bugs all over the sandy field to burst with light, clearing the field of smaller bugs.
+
+These early game dungeons had simple mechanics but forced parties to switch tactics and change tempo. This made it more difficult for low-level or inexperienced parties to complete. That being said, the one with the least amount of experience was Atticus, and while he was playing one of the easier builds, it was still difficult for him to get the timing right.
+
+When things started getting truly hectic, there were around 10-12 holes in the ground that continuously released miniature burrowers. Dark was kiting the building hordes around while he waited on cooldowns for stunning the Burrower.
+
+Sky chipped away at the large numbers as she kept moving around the arena with Atticus and Kesa. Her level 15 ability, [Piercing Flare], was an upgrade to [Searing Light], allowing her basic [Flare Shots] to pierce through multiple enemies, building up her stacks much faster while simultaneously increasing the maximum stack count from 3 to 5.
+
+As the game progressed, skills got stronger by unlocking more aspects of them. [Searing Blast] would be able to trigger at a higher level of stacks, increasing damage output by a fair amount.
+
+Kesa also helped with mob control; her upgraded [Healing Tide] had been empowered to knock back smaller enemies while healing allies. This lets her sweep up mobs like using a push broom for Sky to drop fiery orbs on them.
+
+After the 15th hole had been made, the Burrower finally went down after a damage phase, flopping wildly in its death rattle. Another few minutes of cleaning up the mobs finished the first boss event.
+
+“Now that is a solid amount of experience!” Dark said triumphantly.
+
+Smiles were shared, and the group looked around as essence dust appeared in their inventories.
+
+“Anything special, Zed?” Sky asked.
+
+“Hmmm, not really, just a single earth-attuned shield that Dark can probably use. That isn’t unexpected, though, not every boss is going to drop something incredible,” Zedra replied. As he was the party leader, all loot outside of equivalent essence drops went to the party leader.
+
+“A shield, you say?” Dark asked curiously.
+
+Zedra handed it over, allowing Dark to immediately equip it. The thing looked like the head carapace piece of the Burrower, and had dark brown runes etched in it that slightly glowed with small flashes of silver. It increased his overall physical defense, a basic enchantment. There would be no bonuses due to the affinity discrepancy, but it would still be a flat upgrade to his starting shield.
+
+≪ ⋆⋅☆⋅⋆ ≫
+
+The next two boss encounters weren’t much more than health sponges with minimal mechanics that were easily dodged. They just took time to whittle them down as they cycled through burn phases and between Zedra and Sky, dealing damage; it was just a matter of time.
+
+In between boss encounters, they would run into groups of bugs, none of them a true threat, as they made their way deeper into the Zaphid Caverns. The first puzzle event was in the next room. The puzzle itself was simple, more like standing on stones in the correct order to unlock the door, essentially putting a code into a stone number pad.
+
+The difficult part was that bugs could spawn and ruin the unlocking order. This meant that Kesa and Dark would do most of the puzzle work while Sky, Atticus, and Zedra would kill bugs as they spawned in hopes that they didn’t get overwhelmed. The longer it took to complete the unlocking code, the more bugs spawned, meaning that mistakes could be compounding.
+
+Fortunately, [Reality Check] was up to the challenge and only screwed up the code one time before completing it. Having AoE damage, CC fields, and even more serious single-target damage meant that nothing was strong enough to get by, even in the second attempt.
+
+“That wasn’t too bad at all!” Sky said.
+
+“I am sorry about that. I stepped on the wrong tile like an idiot,” Atticus said, worried that he wasn’t keeping up with the party.
+
+“You did just fine, Atticus. You should see how many puzzles I screwed up when we played. It was much harder on a computer for some reason,” Kesa said thoughtfully.
+
+“Yeah, it was so embarrassing!” Dark added, only to receive a swat from his wife.
+
+“Shut it, you!”
+
+Zedra walked up and patted Atticus on the shoulder, “Yeah, don’t worry about it, buddy, you did perfectly. Plus, next up, we have a bug that is lightning attuned!”
+
+“First Legendary Boss inside the dungeon, too! We might get some solid drops from it!” Sky said.
+
+“Won’t that mean that it’s harder for me to be effective against it, if it is my same attunement?” Atticus asked.
+
+“Only if you were the DPS! No, the last boss will be the toughest by far,” Sky explained. “It's kinda flame attuned, or something.”
+
+Atticus gulped, “What kind of bug is flame attuned?”
+
+“Fireflies!” Dark Hero said happily.
+
+Kesa shook her head in disappointment as Sky burst out laughing.
+
+“One that spits lava, of course!” Sky said through laughter.
+
+The party pushed up to the open archway and waited at the threshold as they eyed up their next opponent. A huge bug that resembled a rhinoceros beetle, with a series of horns, one curling up, and the other pushing straight out. It was also the size of an SUV and had lightning arcing from the top horn while glowing blue under the largest segments of black carapace, as if the lightning was constantly moving around its body.
+
+‘Karne, Zaphid Stormhorn, level 18’
+
+“Holy shit, that thing isn’t messing around!” Dark said.
+
+“Yeah, no kidding,” Sky said.
+
+“This guy has three attack patterns with lightning, and a nasty charge and knock up,” Zedra said. He went over the different moves that the Stormhorn used, from what he could remember. This dungeon was a large part of their leveling plan from before they arrived in the Zenith world, and so far, all of the mechanics in the dungeon instance had been directly the same, apart from the size.
+
+The Zaphid Caverns were much larger than in the game, and it had taken them several hours to get as far as they had, especially while constantly swarmed by groups of Zaphid bugs. It was part of the strange transfer of things into a real world that Zedra was calling a 'reality effect'. The basic premise is how games depict smaller versions of what reality would be to make it more feasible than a game.
+
+“I will pull it first, you guys wait until I have its attention. Sound good?” Dark asked.
+
+They nodded, and Sky spoke, “Yeah, let's do this!”
+
+Just as planned, Atticus lit everyone up with some [Wind Imbuement], and Dark Hero entered the battlefield. He wrapped around to the left side and got close enough to draw the attention of Karne. The giant bug sort of screeched, and lightning began to build up from its top horn. It jerked forward like someone headbutting the air, and a bolt of lightning connected to Dark’s shield.
+
+Dark Hero was prepared, though, activating one of his newer abilities, [Dark Aegis]. That was an ability that required an equipped shield, but it blocked all incoming damage for 3 seconds, as long as it was from directly in front of him.
+
+The Stormhorn noticed how its attack didn’t have any effect, and it roared in its strange insectoid voice. Then the sound of thunder blasted throughout the cavern as it stomped on the ground.
+
+The bug charged forward with thunderous steps while Atticus tried to drop his [Shocking Field] to stun it.
+
+“That won’t work if you use it during its charge ability, remember? You have to wait until he hits a wall!” Zedra said.
+
+“Dang! Sorry!” Atticus said.
+
+Dark dodge-rolled to the right and was able to get out of the way of the charging bug, which impacted a wall. The forward horn smashed into the wall with the force of a vehicle collision. Karne wasn’t stunned by the impact and immediately turned to address the party.
+
+The huge goliath wasn’t about to be pushed around as the tank of his party. He activated [Dark Charger] and smashed into the side of Karne, finally able to drop a stun on the huge bug.
+
+Atticus, Sky, and Kesa were able to hit it with ranged attacks while Zedra was too far to make it in time to add his damage, so he waited in the shadows for the next damage phase.
+
+Karne reared back onto his hind legs, and lightning built up in its top horn. It smashed to the ground, and a nova-wave of lightning rolled outward from his impact.
+
+“Get ready to jump!” Sky yelled.
+
+Dark was the closest and was immediately hit, though he didn’t try to jump it and had activated his damage reduction skill, [Revenge of the Shadows], which also increased his threat and ensured continued aggro after the attack.
+
+“Now!” Sky yelled again while standing next to Atticus and Kesa.
+
+Kesa didn’t need the call, but Sky wanted to make sure that Atticus had the tempo down. It was easier to dodge when the visible wave of lightning slowly approached, and jumping over it was all that was necessary. Atticus, being the athletic kainen that he was, easily hopped over the rolling lightning wave and went back to chucking lightning and preparing to disable the Stormhorn.
+
+Before the giant bug could begin its next attack, Atticus was already casting, dropping his [Shocking Field] right on top of it. Zedra appeared from the shadows, showing why he had the highest single-target damage in the party.
+
+He started with his [Shadow Poison], which increases vulnerability to Shadow and adjacent affinities. This was a buff to the next attack made after activation. Appearing on the flank of Karne, Zedra opened up with [Opportunity Strike], which had been empowered with his level 13 skill point, giving the attack [Shadow Empowerment].
+
+In one devastating strike, nearly 15% of the Stormhorn’s health was removed with Zedra’s ministrations. He continuously attacked until the burn phase was over, though he didn't do nearly as much damage as his opening strike.
+
+Sky wasn’t going to let him have all the fun, as she had launched her [Sun Bringer] spell just after Atticus stunned it, but she didn’t let the damage build up too long, and instead activated [Searing Blast], consuming all the stacks of [Searing Light] that had quickly built up.
+
+The burn phase ended, and Karne’s horn began to crackle with lightning once again. This time, the charge built until both horns on the forehead and the snout created a rotating circle of electricity in the arc between them.
+
+Karne wasn’t moving while charging the vertical lightning circle, but was shaking the whole cavern as he vibrated, and power seemed to charge. A shield of lightning was preventing any damage from being sent the giant bugs' way.
+
+“Kesa! Be ready, I think this will hit all of us!” Zedra said.
+
+Dark Hero activated [Dark Charger] and flew at the beetle, hoping to at least disrupt its casting. He collided with Karne as it released the attack, completely ignoring Dark’s stun. The circle of lightning that had been charging struck Dark Hero and the [Bubble Shield] Kesa placed on him, popping it instantly. The second it hit, the circle sent smaller and less devastating yet still terrifying lightning circles at the rest of the party, scything through the air like giant saws made from lightning.
+
+Atticus held up his scepter and braced, surprised to be taking less damage because of his high lightning affinity. Zedra activated his upgraded [Evasive Vault], which now had [Shadow Evasion], enabling him to completely dodge the attack.
+
+Kesa blocked the lightning attack with her own self-cast bubble shield, though it wasn’t enough to fully block the damage. Sky activated her level 10 ability [Solar Shell], which was just like Kesa’s shield except it looked like the flaming sphere visible around a lunar eclipse, and it protected against ranged attacks and spells for the duration. She took the same amount of damage as Kesa.
+
+Atticus cast another [Shocking Field], being the first to recover from the attack, stunning Karne once again, but not before he smashed his horns into Dark Hero. Kesa, in turn, activated a [Healing Tide] and [Cleansing Rain], giving an immediate boost to regeneration and a flat amount of healing for everyone hit, though she centered it on Dark.
+
+Sky and Zedra wasted no time after being splashed with healing waters and capitalized on another burn phase.
+
+Dark had taken the first hit from the [Lightning Saw], acquiring [Vulnerability], [Shocking Stun], and [Nerve Break] from Karne. They made him take more damage, stunned him, and decreased his combat action speed by 50%.
+
+Kesa's spells landed and slowly removed his afflictions while applying [Regeneration]. She remained focused on Dark as Zedra acquired aggro long enough to draw the Stormhorn away.
+
+“That sucked!” Dark said, after catching his breath. He stepped back from Karne and let the giant bug charge at Zedra.
+
+Zedra easily dodged, and they waited for the next phase of the battle.
+
+≪ ⋆⋅☆⋅⋆ ≫
+
+“I know the Stormhorn was lightning attuned, but damn! I didn’t expect it to drop 2 perfect things for Atticus!” Zedra said, looking at the party loot in his inventory.
+
+“Oh? What do you mean?” Atticus asked, still breathing heavily from the finished fight. “I got a boatload of lightning essence dust and even a bunch of shards.”
+
+Zedra nodded, then held out what looked to be the top horn of Karne, “Here is the [Stormhorn Scepter], something that Sky can eventually learn the enchantment from to get an upgraded version later.”
+
+The big Kainen’s eyes widened as he took the scepter and inspected the description, “Wow, this lets me access some of Karne’s attacks…the [Lightning Saw] attack! And even the nova!”
+
+Sky nodded, “It will be powerful until about level 30-35, when we can either upgrade it or disenchant it to make a new and more powerful one.”
+
+“That isn’t all, you aren’t afraid of bugs, are you, Atticus?”
+
+“Bugs like Karne?”
+
+“Yup.”
+
+“No way! He was awesome looking, with the lightning glowing under his larger segments. That was a majestic creature,” He said.
+
+“I agree, take this,” Zedra handed the mount stone over.
+
+Atticus immediately recognized it as one of the mount summoning stones, “No way!”
+
+“Oh yeah, and what’s more, this thing will be a flying mount later on, see the icon on the bottom there?” Zedra asked.
+
+It was a small section on the item description that explained which of the terrains it could go through with the use of icons. It had two boxes, one with an image of legs walking on the ground and one with a stylized set of wings, meaning that it could be used for both ground and air, but could not be used in water.
+
+“Uhh, whoa!” Atticus shook his head while reading the item description. “I think Karne and I will be great friends in the future!”
+
+Sky spoke up, “Can I examine your scepter? I promise I won’t disenchant it.”
+
+“Sure,” Atticus said, not entirely knowing what disenchanting meant.
+
+Sky briefly read the description, “As I thought, this is a Tier 2 scepter, very nice drop!”
+
+“Wait…how can I use it now if we are in Tier 1?”
+
+“You can equip items from the tier above you. This is true all the way to max level when some of our items will essentially be beyond the Tier 4 limit,” Sky explained.
+
+“I see, so it’s good to use because we are tier 1, then later we can upgrade it to tier…3?” Atticus clarified.
+
+“That's right, or we will find a better one, depending on what we find or what recipes there are,” Zedra said.
+
+Atticus equipped the scepter while storing the mount summoning stone for Karne in his inventory. It looked just like the slightly curved top horn of Karne, but had a clear handle and grip. As he waved it around, lightning seemed to flash around the scepter like it was charged up and ready to attack, a natural stun baton.
+
+The party moved on and prepared for the final fight of the dungeon. They had a longer walk than they had from any boss room so far, dropping hundreds of feet deeper into the earth with winding cavern walkways. The sparse vegetation that provided luminescent light withered away as they went deeper. The light was now provided by strategically placed flows of molten stone. The lava seemed to be a bit off in color, as if there was neon green food coloring in it.
+
+“It doesn’t quite look like nuclear waste, but it’s close enough to give me the creeps…” Dark said.
+
+“I think all this is directly created by the final boss; it’s her element,” Sky said.
+
+“Her?” Dark asked.
+
+“Pindra, the Zaphid Queen,” Sky replied, wiggling her eyebrows like she was sharing inside news.
+
+“Will she also drop a mount?” Atticus asked.
+
+“Nope! She is…sort of stationary, I think,” Sky said.
+
+“The queen is pretty much embedded in the wall of the chamber she lives in, which makes the engagement kind of strange. While Sky handles mobs with you, Atticus, the hard part will be on Dark and Kesa. They have to bait the acidic lava spit to hit open areas that can make it flow away. If not, we get burned,” Zedra explained.
+
+“That sounds…ominous,” Atticus said.
+
+"That's just one mechanic of the fight," Sky laughed.
+
+The group went over the battle strategy and mechanics to take advantage of. The party continued along the path, deeper and deeper. Along the way, they ran into several mobs that were easily dispatched in their overlapping field of CC and damage.
+
+The acid-lava flows were more common, and the lighting was much brighter and greener as they reached a natural stone bridge. It was covered in more mobs, and falling off the uneven surface meant taking a dip in the burning neon-green lava below.
+
+The mobs weren’t difficult, though they did have a new attack that none of the previous mobs had displayed. Each of the beetle-like zaphid bugs had a snout that launched quick bursts of acidic lava, causing a single affliction: [Zaphid Corrosion].
+
+It was both burning and caustic in its application, causing quite a painful series of afflictions to build up. Kessa was liberal with her water spells, ensuring that no conditions stuck for long.
+
+The party could block the projectile spit, yet burns were still something that Kesa had to deal with. Her [Bubble Shields] were the first line of defense, along with Dark Hero’s [Dark Aegis], while Sky could periodically protect herself with [Solar Shell]. They fought across the bridge, taking down mob after mob while collecting obscene amounts of essence dust and shards along the way.
+
+The bridge led straight into an upward hill that had many streams of the same corrosive lava, flowing like streams. A stark contrast to the constant descent they had faced so far, the upward charge was tiring and filled with constant combat. The many flows seem to all originate from the very top.
+
+"Would this be pyro...caustic flows?" Dark asked, a smirk on his face to highlight the dad joke.
+
+Sky and Zedra laughed, but shook their heads. Kesa face-palmed. Atticus was too concentrated on the fight to process the lame joke.
+
+Cresting the hill revealed an open area with winding streams of acidic-lava as well as the Zaphid Queen.
+
+“Damn, that is something,” Dark said, holding the line on the very edge of her aggro range.
+
+The Queen looked to be only partially exposed while mostly embedded in the huge wall of glowing orange stone. The heat billowed off of her in waves, and every time she spewed more acid, there was a huge thump from beyond the wall, as if her huge thorax was smashing the ground in another chamber.
+
+Twenty to thirty seconds after she spewed lava, more mobs of zaphid beetles would run out of small tubes on either side of her embedded body, which was the source of the constant attacks as they pushed up to her. Looking directly at the Queen revealed a gruesome and mutated bug that had two huge scything arms and glowing orange-green multi-faceted eyes.
+
+The party had to take down a few more mobs as they examined the monstrosity that was the Zaphid Queen. She didn’t stop spawning them, as soon as they touched the bridge, the only way through was forward.
+
+“Let’s go for it,” Dark said. “Just like we planned, yeah?"
+
+Zedra spoke up, “Yessir! Sky stays on mobs, Dark and Atticus focus on pinging the Queen with stuns when I hit her with the pustule beetles, and Kesa keeps us from burning up. Simple.”
+
+Atticus gulped, “Yeah, simple.”
+
+Dark charged forward, but not before Atticus cast his buffing spells. The Zaphid Queen reacted when Dark entered the arena, letting out a horrifying insectile screech that rattled the party’s bones. The rest of the party followed, but fanned out.
+
+Sure enough, the Queen started with a blast of acidic green lava, pointed directly at Dark. He was prepared for the strike and let it hit the wall, so it would break down and prevent lava from covering the floor.
+
+Meanwhile, Atticus and Sky flanked out to the right, where they began to pepper the Queen with basic attacks, waiting for the first phase to start. Zedra flanked to the other direction, but didn’t close the distance into melee range just yet.
+
+The Queen let out another screech and began to swing her scything claws around. The 6-foot-long razor blades were surprisingly easy to dodge the telegraphed attacks, which came in slow motion. Of course, this was only easy as long as there was nothing else to focus on. If one of those scything blades connected, it would be devastating.
+
+Dark waited until 3 sets of attack patterns were completed, then he smashed forward into the carapace of the Queen, using [Dark Charger] to close the gap and stun her. Zedra quickly appeared off to the side and unleashed a series of attacks. It didn’t crit, regardless of [Opportunity Strike].
+
+That was something that had to be resolved with the main mechanic of this fight. Sure enough,  the required mob finally spawned, and Zedra was on it immediately.
+
+The Zaphid Pustule Beetle was a unique bug that only spawned when fighting the Queen. They had a huge sack of the neon green acidic lava on their backs, a balloon waiting to be popped. Atticus waited for Zedra to grab the aggro and pull it as close to the Queen as possible before he dropped his [Shocking Field] right on top of the bug. It was easy for the rogue to grab aggro while dodging the Queen's scything blades, but he was one of the more skilled players in the game and had done stuff like this for years. At least he had while sitting at a computer.
+
+Sky unleashed her combination of [Flare Shots] and a [Searing Blast] after the stacks were high enough to burst through its health. The small beetle swayed and fell back towards the Queen, only to burst and splash the acid all along her side. She was immune to the damage from her own acidic lava, but the corrosion and heat mixture was enough to make her chitin soft for a small window.
+
+That was the cue for everyone to attack. Dark started with a stun from [Dark Charger] to enhance the damage done by Zedra. Zedra appeared and had one of the highest damaging critical hits from his [Opportunity Strike] that he had ever had. It pierced right into the stunned Queen like her chitin was made from foam.
+
+Sky joined in with a [Sun Bringer] and some [Flare Shots], but most of the single-target damage was coming from Zedra. Atticus was able to join in with his new [Stormhorn Scepter], adding a few of the lightning-based attacks that Karne had launched at the group earlier.
+
+That was the pattern the group was looking for, and they backed off, mitigating damaging strikes from the Queen while managing mob spawns and waiting for more of the pustule beetles.
+
+The fight still took a long time, taking 7 more damage phases to eliminate the Queen. The hard part was that by the end of the fight, there was very little ground that wasn’t covered by the green lava, even with the breaking down of the drainage walls. This meant that they had to wait for it to clear or let the Pustule Beetles spawn on another side to take them down.
+
+“I still don’t understand why the popping bugs cause weakness on the Queen,” Sky said. “Like, shouldn’t she be immune to her own stuff?”
+
+“Well, if it didn't, this fight would be a lot harder. Not being able to crit her would take forever,” Zedra said.
+
+Atticus snorted, “Those beetles were disgusting. It’s no wonder she didn’t want to be hit by it.”
+
+Kesa agreed, “Yeah, that is some nasty stuff. I will be honest, being able to smell doesn’t make this experience better.”
+
+Before they could respond, an announcement crossed their vision.
+
+_______________________________________________________
+
+WORLD FIRST DUNGEON COMPLETION: ZAPHID CAVERNS
+
+Party: [Reality Check]
+
+Clear Time: 5h 43m 26s
+
+Difficulty: Normal
+
+Level Rec: 17
+
+_______________________________________________________
+
+The party stared at the announcement in silence for nearly 20 seconds.
+
+Sky broke the silence, “Do you think that went to all players? Are we the first to complete a dungeon?”
