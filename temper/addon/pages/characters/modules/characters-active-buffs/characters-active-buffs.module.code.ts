@@ -4,12 +4,12 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
 
-export type PowerAtOnset = {
+type PowerAtOnset = {
   weapon: number
   spell: number
 }
 
-export type ActiveBuff = {
+type ActiveBuff = {
   abilityId: number
   name: string
   description: string
