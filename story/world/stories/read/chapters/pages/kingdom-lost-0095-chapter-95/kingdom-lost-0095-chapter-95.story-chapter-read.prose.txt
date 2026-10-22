@@ -1,0 +1,179 @@
+Chapter 95
+
+She had stood at the window of the upper room and watched the yard come on in pieces, the cookfire smoke first, then the forge column, then the steady movement of soldiers along the wall walk in their early rotation.
+
+The stairs from the upper room were quiet under her boots as she descended into the meeting room. The meeting room on the ground floor was already half full when she stepped into it.
+
+Nikola sat in his usual seat with three small stacks of parchment in front of him and his hands folded between them, a welcome addition from the raiders’ loot. He did not look up when she entered. Landryn stood at the wall by the cold hearth, a smear of mine dust across the back of one wrist where he had pushed his sleeve up. Zelgra was at the table on the side closer to the door, her hands flat on the wood, her eyes on Riley as Riley crossed. The chair to Nikola's left was empty. Pushed in flush against the table. Riley did not look at it as she passed. She took her seat at the head.
+
+The HUD pulsed at the edge of her vision. Forge timer running. Academy timer running. Barracks timer running. Building Timer idle. The idle timer caught her the way it always did now, a small wrong shape in a row of right ones. She set it aside without acknowledging it.
+
+The tower main door opened and Thorne came in from the yard. He did not sit, instead he took a position at the wall behind her left shoulder and stayed there.
+
+She looked at Nikola.
+
+“Let’s get started.”
+
+Nikola did not move except to draw his top sheet of parchment a quarter inch closer. “Several days since the last council, Warden. Approximately forty hours of idle building time across that period. The hours are mostly attributable to the gap between the resource buildings completing Level 9 and the next decision being made. I would like to address that this morning.”
+
+“Go ahead.”
+
+"All resource buildings are at Level 9. The barracks is at Level 9. The walls are at Level 9. The tower is at Level 9. The forge is at Level 8."
+
+The room was quiet.
+
+"The forge is the only structure not yet at the settlement's working level. It is currently in upgrade. The timer will complete in two days."
+
+Riley nodded once.
+
+"After the forge clears Level 9," Nikola said, "the tower can begin its upgrade to Level 10. That timer will run two weeks."
+
+He let the number hang in the air for a moment. He did not look around the table to see how it landed. He waited for Riley.
+
+"Two weeks for the tower," she said.
+
+"Yes, Warden."
+
+"And the walls?"
+
+"The walls cannot begin their Level 10 upgrade until the tower has reached Level 10. That timer will run two to three days once it begins."
+
+Riley did the math without writing it down. Two for the forge. Fourteen for the tower. Two to three for the walls. Roughly three weeks from this morning to a Level 10 settlement.
+
+"You said each level above eight costs four times the previous level," she said.
+
+"I have not measured Level 10 directly. The pattern from earlier upgrades suggests that scaling continues. Level 10 to Level 11, when we reach it, will be considerably more expensive again. That is a problem for a later council."
+
+"The forge," she said. "Why is it last."
+
+"It is the slowest performer. It has been the slowest performer since Level 7. There is no specialty bottleneck that I have been able to identify. It is simply slow."
+
+He said it the way he said everything. Flat, factual, without apology and without excuse. The forge was slow. He did not know why. He had stopped trying to find a reason and was managing the consequence.
+
+Riley paused in thought, then she said, "And the tower upgrade, what opportunities will level 10 bring?"
+
+"I do not know."
+
+The answer came without hesitation. Nikola lifted his eyes from the parchment for the first time since she had sat down.
+
+"Every previous level has reinforced the existing structure without changing its appearance. Tower walls thicker and stone denser. Level 10 could be a milestone level. I have no precedent for what a milestone level produces on a structure that is already stone."
+
+That registered with Riley. The tower had been built of stone since before she had laid eyes on it. Whatever Level 10 was going to do, it would not be turning wood into stone the way the wall upgrade would. It would be something else, and Nikola did not know what, and neither did she.
+
+"Do we have access to level 2 soldiers?" she asked.
+
+“Not yet, again this may unlock with level 10.”
+
+She turned slightly toward him. "The Academy. What is currently in the research queue."
+
+"Wall durability tier two completes in four hours. The queue after that is empty pending your direction."
+
+"Offensive upgrades, then. Anything that improves troop damage, ranged accuracy, weapon durability. Whatever the Academy will offer at the next tier. Run those continuously."
+
+"Yes, Warden."
+
+"And as soon as the Academy unlocks any wall defense research, that goes to the front of the queue. Arrow slits, murder holes, rolling timber, wall spikes. Whatever it offers. The instant it becomes available."
+
+"Yes, Warden."
+
+"Good," she said.
+
+She turned to Landryn.
+
+"The mine."
+
+Landryn took a half step away from the wall and rested one hand on the back of an empty chair. He did not sit.
+
+"The brimstone seam is producing steady. Not as fast as I would like, but steady."
+
+He hesitated slightly and Riley caught it. She stared at him, letting the silence do the work.
+
+"There is something else," he said. "While you were at the compound. Zelgra and I opened a vein and found chalkstone. Wider than we first measured. Still opening."
+
+Riley sat with it for a beat.
+
+"Chalkstone."
+
+"Yes."
+
+She looked at Zelgra.
+
+Zelgra did not move from where her hands were flat on the table. "Soft white stone. Burns down to quick chalk in a hot enough kiln. Mix the quick chalk with water and sand and you have mortar."
+
+"Mortar."
+
+"Mortar that sets harder than the stone around it. The great castles, the ones that have stood for centuries, the ones still standing when everything around them has fallen, their walls were built with it." Zelgra's voice had gone quiet in the way it did when she was no longer speaking as a merchant. "This is what keeps stone standing."
+
+"How much do we have?" she said.
+
+Landryn shook his head once. "Not enough yet. The vein opens deeper than we have followed it. With labor on it we can produce mortar in volume inside a few days."
+
+"Start it."
+
+He nodded.
+
+Riley had heard of chalkstone before, but not for securing walls or building castles, it could be weaponized. She had remembered this like she had remembered black powders and the wild fire. She would put a pin in this for the next meeting.
+
+“Mine chalkstone but do not do anything with it yet. We will circle back to it later.”
+
+He nodded again, more slowly.
+
+Riley looked across the table at Zelgra.
+
+Zelgra had a small leather bag in front of her that had not been there when Riley sat down. She unrolled the top of it and laid out three samples on the wood of the table without ceremony. Two pale ore fragments and a small lump of dull yellow that gave off a faint sour edge of brimstone even from where Riley sat.
+
+"High grade," Zelgra said. "Both ore samples. The brimstone is cleaner than what came out of the eastern shafts in my time. If you ever need to convert what is coming out of this ground into outside currency, this will move at the right tables in Rivermark."
+
+"How much."
+
+Zelgra named a rough exchange figure. Riley gave a nod and Nikola made a small mark on the second sheet of his parchment.
+
+The meeting fell into silence for more than a beat as Riley looked down for a moment before she continued. She reached into her coat and brought out the scroll. She did not unroll it. She laid it in front of her with the broken seal facing up, the wax red and split clean across the Corvessa sigil. The room saw it. Landryn shifted his weight off the chair he had been leaning on. Zelgra's eyes went to the wax and stayed there.
+
+"This was in the basement of the compound," Riley said. "I read it yesterday."
+
+She told them what it was. The ledger of raider deliveries running back three months. The volumes that were too large for one compound's output. The location codes in the margins that named at least four collection points. The regional operation. The structure.
+
+Then she told them about the last two lines.
+
+"The new warden. Tower north of the divide. Assess, observe, report. Do not engage."
+
+The room was quiet, again, this time for a different reason.
+
+"Corvessa has been watching us for longer than I would have liked," Riley said. "Long enough to put a standing instruction in writing. Long enough that the order had become routine paperwork in the bottom of a delivery ledger. The man who held a blade to Valrik's throat in that longhouse knew exactly who I was when he looked across the room at me. That is not the language of an army about to march. That is the language of a house gathering information for use later."
+
+"Three things you all need to hear together," she continued. "First, the Hoshin migration. The next group is a few days out. After that one or two more, depending on what Tama judges. Every villager who chooses to come, we take. Nikola, the bunkhouses cannot hold what is coming. We will need timber and we will need labor on the road south to bring it."
+
+Nikola scratched a mark on his parchment.
+
+"Second, the Clawborn. Tarin's report places their army in the frozen valley facing something they cannot read. Possibly weeks before they return south, maybe longer. Plan as if they are at our gates in a few weeks."
+
+Riley waited before she continued.
+
+"Third, Grey Ridge. King Darius has not declared where his loyalties lie. So until that changes, the south is not with us.”
+
+She looked around the table.
+
+“And underneath all three of those, Corvessa. Their main raider arm in this region is gone. Their intelligence agent is probably on his way to a hole in the ground. There is a window between the moment he reports back and the moment Corvessa decides what to do about it. We will need to send scouts south to warn of any possible reaction.”
+
+Nobody spoke. Nikola wrote nothing. Landryn had not moved.
+
+“From this moment forward,” Riley said, “we build for war. Every timer. Every redeployment. Every decision.”
+
+Riley stood.
+
+The chairs scraped as the room shifted with her. Landryn straightened. Nikola gathered his three sheets of parchment into a single stack.
+
+“I will speak with each of you individually before the day is out,” Riley said. “The mine, the road, the training cycles, the bunkhouses. You will know your part by evening. We start at first light tomorrow.”
+
+She looked at Nikola.
+
+“Send for Nami. We have something to settle.”
+
+Nikola gave a small nod and turned toward the door.
+
+Zelgra glanced at Landryn. Landryn glanced back. Neither of them spoke. Thorne, behind Riley's left shoulder, did not move.
+
+Riley turned to the window.
+
+Across the open ground, between the tower and the inner wall, Nami was already crossing toward the door at a hurried pace.

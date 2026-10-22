@@ -1,0 +1,221 @@
+Chapter 101
+
+The forge had cleared Level Nine in the night.
+
+❖ Building Timer: Forge Upgraded to Level 9
+
+Riley saw it on her HUD before she had her boots on. The progression column for the forge had gone from the dark amber it had held for two days to the clean steady green of a completed structure, and there was no flicker at the edge of it, which meant the build had finished cleanly and the new tier had taken. She sat on the edge of the bed for a moment and let herself look at it, because this Level did not come cheap and she had emptied a forty-seven hour reserve to buy it, and the green column was the receipt.
+
+She dressed. She coiled the whip at her hip the way she had begun coiling it every morning, without thinking about it, and went down.
+
+The yard had the early-shift movement to it. The wagon from the southern cutting crews was at the lumber yard with the day's load, and the framing crew for the first new bunkhouse was already at the site. She crossed the yard, gave a nod to the gate guard, and went out through the inner gate toward the mine path.
+
+Landryn was waiting at the head of the path. He was in his field coat, the heavy one with the deep pockets, and he had a ledger under one arm and a length of chalk in his other hand. He watched Riley come down the path and did not move from where he stood.
+
+"Warden."
+
+"Landryn."
+
+"Nikola told me you would come this morning. He is at the forge."
+
+"Checking out our recent upgrade. He's thorough."
+
+Landryn's mouth moved at one corner, which was as close as Landryn came to a smile in the open yard, and he turned and walked beside Riley along the path toward the mine. The path had been widened in the last week, Riley noticed. There were fresh edges to it where stone had been cleared, and the boards over the wet patch near the second bend had been replaced with planed timber.
+
+"You widened the path," Riley said.
+
+"The silo will need carts. The carts need width."
+
+"You did it before I asked?"
+
+"You were going to ask."
+
+Riley smiled as they turned and walked the rest of the path in the quiet of the morning, and at the mouth of the mine Landryn stopped and turned to face her.
+
+"I want to show you three things," Landryn said. "Then I have a fourth that is not about the mine."
+
+"Show me."
+
+They went inside.
+
+The mine had changed since Riley had last walked it. The new sections opened after the burrower nest discovery had been cleared and shored, and the cross-tunnel that ran east from the main shaft was wider than it had been. Landryn led her past the brimstone chamber, the sulphur smell of it still hanging in the side passage even with the entrance sealed, and on past the rough opening that had been widened into a proper doorway. They stepped through, and the cavern opened around them the way it had the first time.
+
+The Koovrah's old chamber.
+
+The torchlight Landryn carried did not touch the far walls, the same as before, and the shallow ribs of the burrower's passage still wound across the stone in their long, sinuous arcs. The floor stretched out under their boots in its broad sweep of smooth basalt. The cool, clean air still moved through the space, the same faint draws Riley remembered from the first visit, the ones that suggested high open space somewhere above.
+
+Riley stopped a few paces in and looked up.
+
+"You want to put the silo here?"
+
+"This is the silo site," Landryn said. "Below the surface. Inside the tower range. The shaft up to the yard runs through the rock at the back wall, behind that." He pointed his chalk. "We will open it after the silo is built. From the yard it will look like a small wellhead. From down here it will be the loading shaft. The resources go in from above and stay here."
+
+Riley looked at the chamber again. It was a good chamber. It was dry, the floor was level, the air was steady, and the burrower had done most of the excavation work centuries before they had ever come down here.
+
+She willed open the HUD.
+
+The Building Timer was idle, which it had been since the forge had taken the queue, and the construction menu opened at her thought. She scrolled to Silo and held it. The placement frame appeared in her vision, the pale outline that meant the system was waiting for her to set a location, and she walked the outline to the centre of the cavern floor and turned it on its axis until the loading face pointed back toward the access she and Landryn had come through. She held it there.
+
+❖ Place Silo here?
+
+She confirmed.
+
+The outline went solid. The HUD pulsed once. A new column appeared at the edge of her vision in the dark amber of a structure beginning its build, and the timer began running.
+
+❖ Building Timer: Silo (Underground) — 6 hours
+
+Landryn watched her face while she did it. He had seen her use the HUD before, but he had not seen her place a building outside the yard, and he had not seen her place one underground, and the small change in his expression told her he had not been certain it would work until she had done it.
+
+"It took the placement," she said.
+
+"One hour, for level one and if we level up quickly it should be level nine by the end of the day."
+
+She closed the HUD.
+
+"And if the walls are breached," she said.
+
+Landryn nodded.
+
+"The second access. Nikola and I have been thinking on it. There is a fold in the rock about forty paces along the eastern tunnel that runs back toward the yard at an angle. If we drive a tunnel along the fold, it will come up under the floor of the storehouse." He paused for a beat. "Only you, Nikola, and myself would know it is there."
+
+Riley looked at him.
+
+"The storehouse."
+
+A small flicker of pride moved across Landryn's face before he put it away.
+
+"The storehouse will hold," he said. "You gave me the go-ahead for it after the raider battle. The timbers came from the first proper cuts of the southern crews. The floor is doubled planking, set on cross-beams laid into stone footings. A hatch through it will not weaken the floor and will not show. I designed the floor knowing this might happen one day."
+
+She thought about the night the column had come back from the raider compound with the dead across the saddles, and Landryn already at the gate with his coat on over his work clothes, and how he had carried Valrik into the hospital with Nikola at the other end, and how the next morning he had stood in front of her with the ledger under his arm and asked her about the storehouse, and she had said yes without quite knowing why and had not regretted saying it.
+
+"You knew this might happen one day."
+
+"I did not know what it would be," Landryn said. "I knew there would be something."
+
+"Who would do the work on the tunnel?"
+
+"Four of my men. The ones who have done the shoring in the new sections. They do not talk."
+
+"How long?"
+
+"Eight days, if we begin tomorrow."
+
+"Begin tomorrow."
+
+"Yes, Warden."
+
+Landryn walked her along the eastern tunnel and showed her the fold in the rock, and the angle, and the place where the tunnel would come up under the storehouse floor. Riley stood at the spot and looked up at the stone above her head and tried to picture the doubled planking on the other side of it, and she could picture it, and she nodded.
+
+"What was the third?"
+
+"The firebomb store. Nami's pots. I would put them not in the silo cavern, but in the side chamber where the white crust runs along the floor. The one off the main cavern. The air in there has a different feel. There is a natural draw in the rock that runs up through the stone from somewhere above the chamber, and the draw vents somewhere outside our walls. If anything were to go wrong with the storage, the draw would take the worst of it up and out, away from the yard."
+
+"Show me."
+
+Landryn showed her. The white-powder chamber, the one Zelgra had knelt in months ago and tasted the crust and spat it out. The pale layer still spread across the stone floor in uneven patches and the air had the same sharp dry smell. Riley held her hand at chest height with her palm flat and turned it slowly until she felt the slight pull upward against the back of her hand.
+
+Landryn was right. It was the place.
+
+"Use it."
+
+"Yes, Warden."
+
+"And the vent. You know where it lets out?"
+
+"I have an idea. I sent two men up the slope to walk the woods past the north gate the morning after we found this chamber. They were looking for the burrower's surface scar. They did not find a scar. They found a fissure in the limestone in a hollow some way past the clearing, north of the gate, hidden in a stand of old growth. The fissure was warm. The air coming out of it carried a faint version of what you smell in this chamber. They could not find it again on the second walk without a guide, and they marked the third walk so they could." He paused. "It is well concealed. A person would walk past it from three paces away and not see it."
+
+Riley looked at him.
+
+"You sent them looking before I asked."
+
+"You were going to ask."
+
+She held his eyes for a moment and then she gave a small, tight smile, and Landryn looked away because Landryn was not a man who held a smile in the open for long.
+
+"Anyone else know about the fissure?"
+
+"The two men. Myself. Now you. Nikola knows there is a draw. He does not know where it lets out."
+
+"Keep it that way."
+
+"Yes, Warden."
+
+She filed it in her head. A hidden way out of the mine, north of the gate, in the woods past the clearing. Or, if she ever needed it, a hidden way in. The reverse was a thought she did not say aloud and Landryn did not say aloud either, but it sat in the cool air of the white-powder chamber between them, and she saw in his face that he had already thought it.
+
+They walked back toward the mine mouth together. At the entrance Landryn stopped and turned to her again, and the chalk and the ledger had not moved from where he carried them.
+
+"The fourth thing."
+
+"Go on."
+
+"Hoshin. The last of the move was meant to come through inside the week. The escort sent regular word. The last runner came days ago. There has been nothing since."
+
+Riley turned her head.
+
+"Days ago?"
+
+"Correct. The last word said the move was in preparation. The smaller groups had all gone through. The final group would be the largest, and Tama would come with it. Then nothing."
+
+"For a few days is too long," she said.
+
+"It is."
+
+"I will think about it."
+
+"Yes, Warden."
+
+They walked the path back together to the head of it, and at the head Landryn turned off toward the tower where his quarters were on the ground floor with the other special personnel, and Riley went on alone toward the yard.
+
+There was a fence at the edge of the training ground with a row of hitching posts along it, and she stopped at the nearest of them and unhitched her whip from her belt and looked at the post for a moment. The post was a hand's breadth across at the top, weathered, the wood grey from a winter of use. She set herself in front of it at a distance she judged by eye.
+
+She lifted the whip overhand the way she had lifted it the day before, and snapped it forward, and the lash struck the post and rebounded. The crack was good. The strike was clean. She had hit what she was aiming at. But the whip had not done what she wanted it to do, which was to wrap. The lash had bounced off the post and come back toward her, and she had to step aside to let it pass.
+
+She tried again.
+
+The second crack was the same. The lash struck and rebounded. The wrap did not happen.
+
+She lowered her arm and looked at the post and thought.
+
+The overhand was a striking motion. It was the motion she had used on the cups. It put the lash into the target and out of the target in the same arc, and that was good for knocking something off a table, but it was not good for catching something. To catch she would need a different motion, one that brought the lash around the target instead of into it.
+
+She tried a side-arm.
+
+The lash went wide. It did not strike the post at all. It went past it and curled in the air and came back at her in a loop that she had to duck under.
+
+She straightened up and stood for a moment with the whip slack in her hand and felt, for the first time since she had picked the weapon up, that she did not know what she was doing.
+
+She tried again.
+
+This time she came around in a half-circle with her arm and let the lash travel along the curve of the motion rather than out from her shoulder, and the lash went around the post once, partway, before the tip lost its energy and the wrap fell open.
+
+Closer.
+
+She tried again. The wrap was deeper. The tip still let go.
+
+Again. The wrap held for half a second before the tension came out of it.
+
+She stood and breathed and thought about it. The problem was at the end of the motion. She was letting her arm finish the throw before the lash had finished the wrap, and when her arm stopped the tension in the leather went, and the lash uncoiled. She needed to pull. She needed to finish the motion through the wrap, not at the wrap, so that the lash tightened around the post instead of laying against it.
+
+She set herself.
+
+She brought her arm around in the half-circle and at the moment the lash touched the post she pulled, hard, back through her shoulder and down toward her hip in one motion, and the lash wrapped around the post and bit, and the tension held, and she felt the post take the pull and the leather go taut between her hand and the wood.
+
+She stood there with the whip taut around the post and the handle in her hand and her shoulder set against the line of the pull, and her HUD pulsed at the edge of her vision.
+
+She did not look at it at once. She let the tension stay in the line for a count of three. Then she released. The lash came loose from the post and fell to the ground in a coil at her feet, and only then did she let her eyes shift.
+
+❖ Skill Advanced ❖ Whip handling Level 2
+
+She read it twice.
+
+She gathered the lash up and coiled it back at her hip and stood at the fence for a moment longer with her hand on the coil, looking at the post, and at the small bright line in the weathered grey where the leather had bitten.
+
+The grab. She had it.
+
+She walked back toward the inner gate.
+
+At the gate she stopped and looked out at the ridge to the east, where the path ran down toward the river crossing and on toward Hoshin a day's ride away, and she stood there for a long moment with her hand still on the coil at her hip.
+
+She thought about all that had been done, and what was left to do. Her shoulders started to tighten and her eyes glazed over. Trying to wrap her mind around all of it at once was a lot, and she smiled thinking about all the people she could rely on now, the ones who would help shape the events to come. Now it was no longer about her managing everything herself. It was about what needed her attention most, and right now that was Hoshin. Her eyes narrowed, and she turned and went through the gate.
+
+She would leave at first light.

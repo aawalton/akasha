@@ -1,0 +1,185 @@
+The road to Hoshin stretched ahead of them in a long, quiet curve.
+
+Thorne walked at Riley’s side, his stride steady, eyes moving between the path, the trees, and the distant hills. Riley kept her gaze forward, boots finding their rhythm against packed earth. Neither of them spoke. The silence was not empty, just occupied.
+
+As they walked, Riley’s thoughts replayed the morning.
+
+She had stood with Nikola near the steps to the upper level of the tower, steam from her tea curling into the air as she pulled up the HUD. He had watched closely, saying little, eyes following the way her attention shifted between timers and structures.
+
+She had talked him through each screen.
+
+“Day and night,” she had said, tapping the air where the HUD hovered. “Timers never stop. That’s the key. If something finishes and nothing replaces it, we lose time.”
+
+“No timers should sit idle,” Nikola had confirmed.
+
+She had shown him the morning queues, pausing long enough at each to make sure he understood the priority.
+
+❖ Barracks Timer: Archers = 4 (4 hours)
+
+“Once these are done, you can schedule the next set. If I don’t return by then, just schedule another four.”
+
+❖ Academy Timer: Defense: Defense Building (8 hours)
+
+“This research opens up the ability for us to build defences in the kingdom using the building timer. Things like archer towers, spikes and flaming boulders. Things that slow down enemies.”
+
+❖ Forge: shovels, sickles, axes and saws, swords, shields, tools, helmets
+
+“Keep stockpiling; we can never have too much. As our army grows, they will need these items.”
+
+❖ Building Timer: Hospital Upgrade to Level 2 (2 hours)
+
+“This will give us more beds to treat injured soldiers.”
+
+Riley stopped for a moment, deliberately to test Nikola.
+
+“And what comes next in the building timer?” he asked.
+
+“Good. That’s right. No gaps,” she confirmed, happy that he had recognized he needed more work for the building timer.
+
+❖ Building Timer: Farm Upgrade to Level 2 (2 hours)
+
+❖ Building Timer: Sawmill Upgrade to Level 2 (2 hours)
+
+❖ Building Timer: Ore Foundry Upgrade to Level 2 (2 hours)
+
+❖ Building Timer: Quarry Upgrade to Level 2 (2 hours)
+
+❖ Building Timer: Alchemist Hall Upgrade to Level 2 (2 hours)
+
+“Upgrading the buildings allows us to get more benefit out of each structure. That should be more than enough to action while I am gone. Now explain it back to me.”
+
+Nikola nodded slowly, repeating pieces back to her in his own words, testing his understanding. Riley had corrected him when needed, patient but precise.
+
+She felt confident that she had left Nikola with a solid execution plan for the rest of the day.
+
+With that item checked off her list, her mind quickly moved onto the next pressing item.
+
+Hoshin waited ahead, and with it the conversation Riley had been turning over in her mind since dawn. Convincing an entire village to leave their homes was not something that could be improvised. It required certainty.
+
+In the middle of her internal rehearsal, Riley’s sidearm brushed against her hip, pulling her free from the morning’s drifting thoughts. Carrying a sword had been her decision. She thought it would be wise given the monster attack that happened the last time she ventured out into that territory.
+
+She glanced sideways at Thorne.
+
+He met her look briefly, but didn’t seem fully engaged. He was preoccupied with something too. He returned his attention to the road, hand resting near the hilt at his side. He did not ask questions. He did not interrupt her thoughts. His presence was quiet yet solid.
+
+Riley exhaled slowly and faced forward again.
+
+The road narrowed as the trees pressed closer. Riley walked with her hands clasped behind her back, eyes fixed ahead, her steps steady, even as her thoughts raced several turns ahead of where her feet carried her.
+
+If the villagers agreed to return with her, the village would empty.
+
+That would not go unnoticed, at least not for long.
+
+The Clawborn would see it. Scouts, hunters, someone would pass through and find abandoned homes and cold hearths. There would be a lot of questions. Riley turned possibilities over in her mind, one after another, fitting responses to threats that had not yet arrived.
+
+She barely registered Thorne slowing his pace slightly until his voice cut through her thoughts.
+
+“What are you thinking about?”
+
+She blinked and glanced sideways, the question pulling her back into the moment.
+
+“Our next steps,” she offered with no elaboration.
+
+They walked a few more paces before Thorne spoke again.
+
+“Look, I know we got off to a strange start,” he said.
+
+Riley stopped.
+
+The gravel shifted under her boots as she turned to face him. Thorne halted a step ahead, then turned back, their eyes meeting fully for the first time since they had left the settlement.
+
+“Thorne,” Riley said, the words coming faster now, “I know I haven’t been the leader for you that I should have been. You were a dog, then a naked man scaring the crap out of me first thing in the morning, and I have been using everything that has happened since as an excuse not to deal with our unusual start. I am sorry.”
+
+The forest seemed to hold its breath.
+
+Thorne watched her for a moment, his expression unreadable until the freeze broke and he nodded.
+
+“I am here for you,” he said. “For the kingdom. This is my calling.”
+
+“Your calling? So this is your purpose?” she asked. “I thought you were summoned. That you were drafted to do this.”
+
+“That’s right, this is who I am. I was a hero before,” Thorne said quietly. “For the kingdom that stood before yours,” he added.
+
+Riley stopped walking.
+
+Thorne took another step, felt the absence beside him and turned back. Riley stood still on the path, staring at him, the weight of his words settling in slowly.
+
+“Before?”
+
+“There is a rich history with this tower you are rebuilding,” Thorne said.
+
+He stopped mid-sentence, and the casual rhythm of the walk suddenly vanished.
+
+His body shifted instantly, knees bending as he lowered his center of gravity. He lifted his hand in front of her, signaling Riley to be still. He scanned the trees.
+
+Riley felt it before she understood it.
+
+Her gaze snapped from side to side, breath catching as she followed his lead. The forest looked the same, but it no longer felt the same. She narrowed her eyes, trying to separate shadow from movement.
+
+The ambush came without warning.
+
+The bushes behind them exploded outward as a massive wolf launched itself into the open, a guttural snarl ripping through the forest. It was enormous, muscle and fur moving with terrifying speed, dirt and leaves spraying as it flew, body angled toward the easiest target.
+
+Riley.
+
+A woodland wolf, hundreds of pounds of muscle and fur the color of wet slate, followed in a straight, brutal pounce. Its jaws gaped wide, eyes locked on Riley’s unprotected back.
+
+It was fast, but Thorne was faster.
+
+“Riley!”
+
+❖ Woodland Wolf Level 1
+
+He lunged forward, both hands slamming into her shoulder. The shove sent her stumbling sideways, arms windmilling as she crashed into a tangle of ferns and low branches. She hit the ground hard on her side, breath punched out of her lungs.
+
+Thorne let his body follow after her, moving himself out of the wolf’s direct path also. Barely. As the wolf sailed by him, its claws raked across the front of Thorne’s leather jerkin. It left shallow, stinging lines that drew thin beads of blood but nothing deep.
+
+❖ Hero’s Health: 90%
+
+The beast let out a roar in frustration that it had missed its mark.
+
+Thorne wasted no time in drawing his sword. It came free in a smooth silver whisper.
+
+Thorne stepped away from Riley’s position, where she was still watching him from the ground. His movements were light and balanced whereas the wolf was scrambling to reorient itself. The beast was huge and terrifying, but slow to recover. Its Level 1 instincts were raw power, not precision. It lunged again, overcommitting, front paws churning dirt.
+
+Thorne sidestepped cleanly, like a matador with almost effortless skill.
+
+His blade flashed in a single, practiced draw-cut. Steel bit deep into the wolf’s exposed flank, carving a long, weeping gash along the ribs. Hot blood sprayed across Thorne’s forearm. The wolf yelped, a high, startled sound, and spun toward him.
+
+Thorne circled to its off-side, staying light on the balls of his feet. The wolf swiped with a massive paw. He caught the blow on the flat of his blade, the impact jarring up his arms but not breaking his guard. Then he stepped in and thrust, clean, economical, driving the point into the meat of the wolf’s shoulder joint. The beast staggered, front leg buckling slightly under its own weight.
+
+It roared and lunged a third time, jaws wide.
+
+Thorne let it come.
+
+He rolled his wrist, parried the snapping bite aside with the strong of his blade, then slashed downward across the wolf’s hindquarters as it overextended past him. Another deep cut opened on its rear leg. The wolf stumbled, blood sheeting down its flank, breath coming in wet, ragged huffs. It was bleeding heavily now. The blows had slowed it down slightly but it was still dangerous as it continued to turn and face him.
+
+Riley pushed herself up from the ferns, chest heaving, her own sword finally in her hands. The grip felt wrong, too heavy and too awkward, but she tightened her fingers anyway. She saw Thorne with blood on his jerkin, shallow claw marks across his arm, breathing hard but steady, still moving like water around the wounded beast.
+
+The wolf’s back was half-turned to her now, attention locked on Thorne.
+
+Without giving it a second thought, she charged.
+
+No form, no footwork, just raw momentum and a wordless yell tearing out of her throat. The wolf sensed her at the last second and started to twist, but it was too slow, too wounded.
+
+Riley brought the sword down in a desperate, two-handed overhead chop.
+
+The blade struck the thick base of the wolf’s neck with a meaty thud. The impact jolted up her arms, rattling her teeth, but she felt the steel bite deep, crunching through muscle, inevitably severing tendons and nerves.
+
+Riley watched as her blade remained stuck in the wolf’s meaty flesh as it convulsed. Its legs began to fold beneath it. A second later its massive body collapsed sideways.
+
+Riley reached for her sword and wrestled it free from the animal’s body releasing a flood of blood in the process. She stood there, shaking, sword clutched in white-knuckled hands. Blood dripped from the edge of the blade onto the pine needles.
+
+Thorne stepped out from the other side of the dead weight that lay before him. He was breathing hard. He looked down at the wolf, then up at her, bruised, blood-streaked, but whole. A faint, crooked smile tugged at the corner of his mouth.
+
+“Well,” he said quietly, voice rough with adrenaline, “I didn’t see that coming.”
+
+Riley let the sword point drop to the ground. Her knees felt like jelly.
+
+She stared at the dead wolf, at the ruin she had made, and felt something shift inside her chest.
+
+Not fear, this time.
+
+Something sharper.
+
+Something new.
