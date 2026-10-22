@@ -3,10 +3,10 @@ import { OperationalError } from "akasha/code/error/errors-core/modules/exit-cod
 import { isRiff } from "akasha/infrastructure/inference/client/modules/riff-bytes/riff-bytes.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
-  placingFor,
   readingFor,
   writingFor,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import { placingFor } from "akasha/page/service/modules/place-calling/place-calling.module.code.ts"
 
 const AUDIO_PAGE_TYPE_SLUG = "audio"
 

@@ -72,6 +72,7 @@
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"page/query/modules/store-reaching/store-reaching.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"page/service/modules/held-reading/held-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"page/service/modules/page-calling/page-calling.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"page/service/modules/place-calling/place-calling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.test.ts","typed":true,"deferred":false}

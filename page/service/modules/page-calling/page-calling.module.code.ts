@@ -40,8 +40,6 @@ export const FILE_AT = "/file"
 
 export const APPEND_AT = "/append"
 
-const PLACE_AT = "/place"
-
 export const INCREMENT_AT = "/increment"
 
 const EVENTS_AT = "/events"
@@ -71,8 +69,6 @@ const WRITE_CEILING_MS = 30000
 const FILE_CEILING_MS = 15000
 
 const APPEND_CEILING_MS = 15000
-
-const PLACE_CEILING_MS = 30000
 
 export const ATTEMPTS = 6
 
@@ -135,7 +131,7 @@ export function backoffFor(taken: number): number {
   return 100 * 2 ** (taken - 1)
 }
 
-const sleep: Sleeper = (waited) =>
+export const sleep: Sleeper = (waited) =>
   new Promise((settle) => {
     setTimeout(settle, waited)
   })
@@ -146,7 +142,7 @@ export function refusedIn(said: unknown): string | null {
   return typeof held === "string" ? held : null
 }
 
-const fetchThrough: Fetcher = (url, init) => fetch(url, init)
+export const fetchThrough: Fetcher = (url, init) => fetch(url, init)
 
 type Sent = { readonly said: unknown } | { readonly refused: string }
 
@@ -169,7 +165,7 @@ async function takenFrom(answered: Response): Promise<Taken> {
   }
 }
 
-async function sentTo(
+export async function sentTo(
   at: string,
   body: unknown,
   ceiling: number,
@@ -346,41 +342,6 @@ export async function appendingFor(
     return { refused: "the pages answered an append naming no file part" }
   }
   return held.said as Appended
-}
-
-type Placing = {
-  readonly pageTypeSlug: string
-  readonly slug: string
-  readonly key: string
-  readonly ending: string
-  readonly bytes: Uint8Array
-}
-
-type Placed = { readonly placed: string } | { readonly refused: string }
-
-const CHUNK = 0x8000
-
-function base64Of(bytes: Uint8Array): string {
-  let held = ""
-  for (let at = 0; at < bytes.length; at += CHUNK) {
-    held += String.fromCharCode(...bytes.subarray(at, at + CHUNK))
-  }
-  return btoa(held)
-}
-
-export async function placingFor(
-  asked: Placing,
-  fetcher: Fetcher = fetchThrough,
-  naps: Sleeper = sleep
-): Promise<Placed> {
-  const body = { ...asked, bytes: base64Of(asked.bytes) }
-  const held = await sentTo(PLACE_AT, body, PLACE_CEILING_MS, fetcher, naps)
-  if ("refused" in held) return held
-  const said = objectIn(held.said)
-  if (said === null || typeof said.placed !== "string") {
-    return { refused: "the pages answered a placing naming no path" }
-  }
-  return { placed: said.placed }
 }
 
 export async function incrementingFor(

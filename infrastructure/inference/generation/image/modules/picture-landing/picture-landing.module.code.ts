@@ -3,10 +3,10 @@ import { OperationalError } from "akasha/code/error/errors-core/modules/exit-cod
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   filingFor,
-  placingFor,
   readingFor,
   writingFor,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import { placingFor } from "akasha/page/service/modules/place-calling/place-calling.module.code.ts"
 
 const IMAGE_PAGE_TYPE_SLUG = "image"
 

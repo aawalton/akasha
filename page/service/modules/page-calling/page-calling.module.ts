@@ -189,14 +189,7 @@ export const pageCalling = {
       decisionKind: "decision-kind/departure",
       statement: "The waiting on an append outlasts the turn the service waits for.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Bytes placed beside a page are sent through this module as base64 text.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A placing answering no path is refused rather than read as landed.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "An increment is sent through this module.",
@@ -220,5 +213,5 @@ export const pageCalling = {
     },
   ],
   createdAt: "2026-09-01T17:34:08.092Z",
-  updatedAt: "2026-10-21T16:23:23.918Z",
+  updatedAt: "2026-10-22T15:14:02.904Z",
 } as const satisfies Module
