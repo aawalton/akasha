@@ -1,0 +1,361 @@
+< < Weapon Type Selected > >
+
+< Axe >
+
+< Common >
+
+< < Player Status > >
+
+< Adam >
+
+< Woodsman >
+
+< Level 0 >
+
+< Stats >
+
+< Health — 150 >
+
+< Stamina — 100 >
+
+< Mana — 0 >
+
+< Damage — 110% >
+
+< Defence — 100% >
+
+< Speed — 100% >
+
+< Upgrades >
+
+< — — — >
+
+That’s a very solid spread, Adam mused as the weapon appeared in his hands. It had a light-brown wooden handle that was about a metre long, and the head at the end was made of dark metal with the majority of its blade curving down.
+
+He had picked it because of what Emelia had told him about its Huntsman evolution that gave a special trap Relic, but also because he remembered talking to Mori Toshio, who was the first person to tell him about the sword trapped inside the tree.
+
+This time I won’t fuck up.
+
+The first step should be to find out who, if any, is the time-looper in this new universe, and then I should block them so that they can’t see me. If they can’t see me, then they can’t mark me with the Challenge Stone.
+
+He thought about how even Emelia had possessed the item and threatened him with it.
+
+I will find her.
+
+He wanted to find all his friends. And given the new chance in this universe, he was hoping to lay the foundations for an ideal perfect loop. A loop in which all the people he’d met would be there and where they could work together to defy the All-Seeing System and its Trials.
+
+But that’s probably naïve.
+
+I still don’t fully understand the implications of looping, but I fear that every new loop makes the odds of finding a universe without a homicidal time-looper harder and harder.
+
+Adam hefted his axe as he strode towards the spot the first enemies would appear from. The Hardmode was still active from the last loop, since it operated on a toggle system for some reason.
+
+Something Adam realised as he chopped through the jelly flesh of the slimes, safely excavating their cores and killing them, was that his muscle memory was retained across loops. But not just that, it was like he became surer of his movements too.
+
+It may be that the upgrades to my Speed, Damage, and other stats are affecting my mind, but when I loop the effect doesn’t go away.
+
+It wasn’t that he dealt more damage or swung faster, in fact it was noticeably worse than before since the axe had very balanced stats. Instead it was just like his body retained those impossible to quantify elements that belonged to increased stats, such as the quickened reflexes that followed a growth in Speed, or the improved posture and swing optimisation that came from Damage. Added on top of the fundamental weapon knowledge simply touching a new weapon imbued, it was making him a far more proficient fighter.
+
+It may be a good idea to pump up my stats as much as possible to take full advantage of this nebulous effect should I need to loop again.
+
+Unsurprisingly, he managed to beat the first Wave fast enough to get his upgrade rewards to go up a tier.
+
+< < Upgrades Available > >
+
+< Axe Growth (Uncommon) — Increases axe size by 30% >
+
+< Deflect (Rare) — Increases deflect effectiveness by 15% >
+
+< Venom (Rare) — Attacks inflict venom slowing target by 15% for 10 seconds >
+
+< Bleed (Uncommon) — Attacks inflict bleed dealing 10% weapon damage over the course of 10 seconds >
+
+The axe has access to deflection? Odd.
+
+But it doesn’t seem like it’s the same as the one from the Hoplite and Opportunist which stuns when successfully parrying.
+
+Adam looked down at his weapon. It moved a lot faster than what he’d expected, since movies and games always portrayed axes as slow, unless they were dual-wielded. He figured that deflection would be quite difficult, since the blade was relatively small compared to a sword’s. And in terms of fighting other armed opponents, the axe lacked the sort of protections swords offered with their cross-guards. In short, the axe was actually a finesse weapon, though it offered quite generous power.
+
+I think I want to start gathering as many Mastery Shards as I can, so I’ll focus on evolving the weapon. I already have 3, but I need 5 more for the Visiting Stone.
+
+Bleed and Venom will be good upgrades once I get the Woodsman to level 12 and unlock the bear trap Relic.
+
+He climbed the tree to get the Glass Acorn, something he’d become quite adept at already, and then went back down to the ground, beginning to chop into the large tree.
+
+“Select Deflect when there is 1 second remaining,” he told the Eye that was unfolded nearby.
+
+[Understood.]
+
+He only managed to get four good hits in before the next Wave started.
+
+< < Upgrade Selected > >
+
+< Deflect (Rare) >
+
+He continued through the Stage, collecting all the intact cores he could, while focusing on clearing the waves quickly enough to get higher-tier upgrades. Between the Waves he chopped at the tree as fast as he could, managing to knock it down before the start of the third Wave. He pulled out Gram from within, and this time it didn’t turn to ash in his hands.
+
+< < Second Sheath Activated > >
+
+< Would you like to swap to the Mythical Hero Weapon Type? >
+
+“Show me its stats compared to Woodsman,” he told the Eye.
+
+< Mythical Hero compared to Woodsman >
+
+< Level 0 >
+
+< Stats >
+
+< Health — 200 (+50) >
+
+< Stamina — 200 (+100) >
+
+< Mana — 0 >
+
+< Damage — 100% >
+
+< Defence — 50% (-50%) >
+
+< Speed — 100% >
+
+Yeah, that’s a lot better. The reduced Defence won’t matter that much since I’m pretty sure I can breeze through the early Stages and raise it by the time I reach the Forbidden Altar. And 200 Health is quite a lot, so even if I do get hit it’s not the end.
+
+“I’ll swap.”
+
+In the third Stage he realised how weak the purple slimes were to the chopping power of his axe, and he easily opened them up and removed their cores without issue. Although he possessed the Secret Weapon, he relied on the axe instead, since he still felt like he had a way to go to truly understanding how best to utilise it in a fight.
+
+However, when he got to the final Wave, he swapped to the stone sword and used its Anvil Splitter skill to immediately kill the Slime Emperor after he’d evolved one of the two Slime Kings that appeared. Then he methodically dismantled the remaining boss and finished the Stage.
+
+Adam ended up taking off his white shirt and using it to carry the many cores he’d extracted. He had been unable to get any out of the Slime King, but the Emperor had dropped four, putting him at a total of 30 cores, which was literally the perfect score.
+
+I also won’t make the mistake of not selling and upgrading before I go to the Tavern, he told himself. I can’t believe how many Points I lost because of Hiroshi Sakurai…
+
+< < Wave Five Complete > >
+
+< < Stage Complete > >
+
+< Tallying Score >
+
+< < Score > >
+
+< 80 Seconds Completion Time >
+
+< 400 Point Secret Boss Bonus added >
+
+< 300 Point Flawless Bonus added >
+
+< 150 Point Speedrun Bonus added >
+
+< 150 Point All Secrets Bonus added >
+
+< 0 Damage Received >
+
+< 2530 Points Awarded >
+
+400 Points over last loop. It really is worth going for all the bonuses.
+
+From the Relic Chest, the reward from which had gone up a rank, he got the following options:
+
+< < Relics Available > >
+
+< Bark Armour (Uncommon) — Increases Player Defence by 25%. Breaks after 5 hits >
+
+< Scope of Insight (Rare) — Any target viewed through this Relic has their weaknesses laid bare >
+
+< Purple Slime Glove (Rare) — Player can touch corrosive materials | Turns Player’s hand into a spike for one attack. 60-second cooldown >
+
+< Duellist’s Glove (Rare) — Charge an attack for 2 seconds to enable it to pierce armour. 60-second cooldown >
+
+Adam ended up selecting the Duellist’s Glove since it would work well with the weapon.
+
+< < Relic Selected > >
+
+< Duellist’s Glove (Rare) >
+
+From the Wave upgrades, all of which had gone up a tier due to his speed, he selected the following:
+
+< < Upgrades Selected > >
+
+< Axe Damage (Rare) — Increases axe damage by 15% >
+
+< Axe Speed (Epic) — Increases axe attack speed by 50% >
+
+< Axe Damage (Rare) — Increases axe damage by 15% >
+
+< Block (Rare) — Increases block effectiveness by 15% >
+
+< Impact (Rare) — Increases the power behind attacks by 15% >
+
+The axe had three quite surprising secondary upgrades, since it offered Block, Deflect, and Impact as options. Impact in particular seemed like it could be really strong, since it wasn’t just straight damage, but instead something like how deep that damage went into a target, based on his few test swings against the remains of the apple tree.
+
+With the sixth upgrade he was also offered the chance to evolve his weapon.
+
+[Your Woodsman Weapon Type has reached Level 6.]
+
+[At Level 6, your Weapon Type can be evolved in one of two possible directions.]
+
+The axe hologram that appeared to the right of the pyramid shape was slimmer and looked to be weighted more towards the centre of the handle, rather than towards the chopping head. Its blade was also silvery in colour.
+
+The one on the left had a dark-green handle that was curved slightly to make it more ergonomic, and there was the symbol of a leaf engraved into the side of the axe-head.
+
+< < Select an Evolution > >
+
+< Forester — Take 25% reduced damage from nature >
+
+< Aggressor — Trade weapon finesse for throwing capabilities >
+
+Emelia hadn’t mentioned which route he had to evolve along in order to get the Huntsman to show up, but Adam was certain it was Forester.
+
+And besides, reduced damage from nature feels like it could have quite a broad application, while being able to throw my axe but having to give up Deflect, Block, and Impact feels like a terrible trade.
+
+Just to make sure though, Adam asked his Eye to clarify what Forester’s effect entailed.
+
+[The Forester takes less damage from all natural sources, whether they are creatures that call nature home, toxins, plants, traps, or other things related to the wild.]
+
+Okay, that’s way broader than I anticipated.
+
+< < Evolution Selected > >
+
+< Woodsman => Forester >
+
+The axe with the dark-green handle and leaf engraving appeared in his hands, followed by the floating pyramid gem that manifested in the air and flew into his chest.
+
+< < Mastery Shard Obtained > >
+
+Then darkness spread out around him, and he was transported to Interim Island.
+
+After greeting Luvicidix briefly, Adam ran to the Market to sell all his cores. He considered selling the Rusted Crown, but then realised he needed it to unlock the Secret Boss in Stage Two.
+
+< < Relics Sold > >
+
+< Slime Core (Common) x30 >
+
+< 5520 Points Remaining >
+
+Adam was grinning like he’d just gotten away with robbery in broad daylight as he hurried back to Luvicidix to spend all his Points.
+
+“You look happy, all things considered,” the moth remarked.
+
+Adam paused. “If I can’t celebrate the small victories, then I’ll literally go insane.”
+
+Though I suppose I need to do something about the swirl of emotions in my head.
+
+Ignoring them won’t make them go away.
+
+But I can’t let myself be consumed by negativity.
+
+If not for his mental endurance though, Adam would easily have cracked already. He hadn’t ever been any good at talking about his emotions with people, and in the past he’d built up a tolerance to tragedies, like when his father had lost all his memories following his brain surgery a few years back. He had made the conscious effort to block out all his fears and anxieties at the time, and that effort was still serving him now, though he knew it couldn’t last forever.
+
+Even the strongest materials will eventually crack under enough pressure, and I’m certainly not as strong as I’d like to be.
+
+But he also knew that everything he’d lost would eat away at him if he let it. All the friends he’d made, Emelia, his family, and his hard-fought progress. All of it was like smoke in his hands. He had a scant few upgrades from Luvicidix and Alivida that still persisted, along with his memories and improved physical awareness. But it wasn’t much.
+
+Adam remembered how Willow had brushed him off during the fourth loop because he’d messed up the introductions.
+
+Even if I do find the perfect universe, I could so easily screw things up…
+
+But when I find such a place, I will follow Emelia’s guidance to the Self-devouring Eye and go back until all the stars align.
+
+Beating the Trials of Defiance may very well demand perfection.
+
+Even though I know that Divine Relic has got to be a trap.
+
+Luvicidix poked Adam in the forehead.
+
+“Hellooo?” she asked, concerned. “Are you going to just keep staring at me or will you buy something?”
+
+Adam swallowed, blinking himself out of his reverie.
+
+I hope this universe is the one.
+
+He sighed. “Show me your upgrades.”
+
+< < Meta Upgrades For Sale > >
+
+< Damage — Increase All Damage by 25% — 2500 Points >
+
+< Mana — Increase Mana by 10 — 1000 Points >
+
+< Vendors — Increase Vendor Options by 1 — 4000 Points >
+
+< Rerolls — Start every loop with 1 Reroll Dice — 2500 Points >
+
+< Relic Saving — Start every loop with 2 Saved Relic Slots — 5000 Points >
+
+< Scale of Remembrance — 25000 Points >
+
+“I’ll buy Relic Saving again,” he said. He wanted to get the Scale of Remembrance, but he couldn’t get it at this point, and besides, he didn’t think it was a good idea to focus on getting it yet, especially since there was no guarantee this loop would be the one. Adam also wasn’t a fan of how it worked, even if he had promised Emelia he would give it to her.
+
+“Good choice!” she told him.
+
+< < Meta Upgrade Unlocked > >
+
+< Relic Saving — Start every loop with 2 Saved Relic Slots >
+
+“You’ll now be able to bring back two Common Relics or one Uncommon Relic to the start of your next loop.”
+
+“The next step, to get three slots, is 5,000 Points too, right?” Adam asked.
+
+“That’s right.”
+
+He nodded to himself.
+
+I can get that after Stage Two, though I might focus more on upgrades if my friends are alive in this universe…
+
+“How many Players survived Stage One?” Adam asked the Eye after the white moth disappeared into the clouds above.
+
+[A little under 600 million Players survived Stage One.]
+
+I have no idea if that’s a good or a bad sign…
+
+He had a pit in his stomach as he went to the Tavern. Part of it was the fear that he was too late to save them yet again, but it was also because he worried he might botch the introduction or do something that made them consider him in a different light. A lot of the time, the first impression someone had of you was the one that dictated how things would go, and it was so easy to say or do the wrong thing without realising it.
+
+But before I worry too much about that part, I need to figure out how I’ll deal with the time-looper in this universe. If there is one.
+
+Charlie came up to his side as he entered the Tavern, but he zoned out her words as he carefully prepared the queries.
+
+Show the bonuses completed in the last Stage by all the Players I see in here, represented with coloured dots for each bonus, and displayed over their heads.
+
+Simultaneously, show me any Player who knows about the Self-devouring Eye and mark them with a red X, while also blocking them so they cannot see me.
+
+There was no confirmation of his queries working or being rejected, since such announcements only came when he directly asked the Eye to query on his behalf. But these things were too sensitive to trust it with, since alerting the Eye to the fact that he was a time-looper could have catastrophic consequences, at least if Emelia was to be believed.
+
+And yet it never seems to care when we speak about it out loud to each other in the Tavern or during Visiting Stone visits.
+
+Adam finally regarded Charlie. “I’ll have a croissant from Jameson’s Bakery and a strawberry milkshake.”
+
+“Coming right up,” she said cheerfully and went towards the kitchen.
+
+He took a deep breath and sat down on a stool, absentmindedly shaping it into a lounge chair with his mind.
+
+Immediately, a man popped up a few seats down to his right with a red X flashing above his head and all the coloured dots for the bonuses. White, Green, Red, and Orange.
+
+I recognise that guy from the fourth loop. It’s gotta be Haoyang Sun.
+
+He was Chinese, with a shaped jaw, pale yellow-brown skin, muscular upper body and neck, hair that was long on the top but shaved to a fade on the sides, and a face with thin lips, thick eyebrows, and calculating eyes filled with purple spirals. Next to his chair leant the black Solbor spear from Stage Five, and it was yet another verification of the fact that it was possible to bring weapons back, although Adam had yet to unlock whatever Meta Upgrade enabled this.
+
+That would be definitely worth investing into.
+
+If I could bring back the Legendary staff from Stage Seven, I could probably dominate all the Stages with ease.
+
+Adam turned to the Eye that floated next to him. “Is that guy’s name Haoyang Sun?”
+
+[Correct.]
+
+I’ll keep an eye on him.
+
+Show me Emelia Bell.
+
+Nothing happened, so he turned to the Eye again and repeated the query out loud.
+
+[The Player you are searching for has perished.]
+
+Adam sagged in his chair.
+
+This universe is no good either.
+
+Part of him wanted to find a way to kill Haoyang, since he was surely responsible for her death. But there was no point, since he couldn’t bring her back.
+
+He went through the names on his list until he finally got a hit.
+
+On the opposite side of the table, a few seats away from where Haoyang’s hologram sat, Willow appeared.
