@@ -1,0 +1,183 @@
+Chapter 130
+
+The kingdom was quiet.
+
+Not silent. Silent would have been another thing. It was quiet the way a workshop is quiet when the workers have stepped out for a moment and left their tools on the bench. The forge still hummed at low output. Two hens in the coop had a small disagreement and settled it. From the direction of the barracks came the sound of one man sweeping. One, where there had been forty a week ago.
+
+Nikola stood inside the main gate with his hands clasped behind him and watched the yard. From this angle he could see the training pen, empty. The far bunkhouse, empty. Two Hoshin women crossed the open ground with baskets balanced on their hips. They were not moving quickly. There was no one to move quickly for.
+
+He had been already thinking through this, this morning and the morning before. The bodies were where the plan had put them. The soldiers were at the depot. The new soldiers Riley had queried him about, forty in the first pass and a second forty behind them, had been dispatched at first light and were already a league on the road. What remained inside the walls was the Hoshin and the skeleton crew and the ordinary work of a kingdom that had, temporarily, no soldiers to run it.
+
+He had known the ratio would not hold. He had said so, briefly, in the operational brief the day before, and Riley had known it as well as he did. It was one of those problems his function did not extend to fixing on its own. It existed, and it had to be lived through.
+
+"Riders! First wave!"
+
+The call came from the west lookout, the young Hoshin who had learned the watch rotation two days earlier and taken to it with a seriousness the older soldiers had approved of before they left. Nikola inclined his head. He walked to the gatehouse and set his hand on the release beam.
+
+The gates opened.
+
+They had grown into themselves since the upgrade. At level ten the timbers were the width of a man's chest, banded with dark iron along the joins, and the hinges had been reset into deeper stone. What had been a squeal at level five was now a low working groan, a sound that traveled through the ground more than through the air, a sound that carried the weight of the wood itself. The great doors moved slower and stopped harder.
+
+The first riders came in on foot.
+
+That was the first thing to notice. The horses were behind them, and the horses were carrying. Two men to a horse's flanks, walking, hands on the leads. On the saddles: shapes wrapped in soldier cloaks, roped down carefully so nothing shifted with the horse's gait. Six horses in the first line. Nikola counted without meaning to. Then the next line, and the counting kept happening.
+
+The gold came behind the fallen. Two heavy carts, drawn by the largest of the pack horses, with tarps lashed over the loads and the load lines so tight they trembled. One of the wheels had been re-shimmed on the road; the mud on the shim was still fresh.
+
+He had given his instructions the night before through Riley's HUD relay and again this morning as the vanguard had come into sight. They knew where the fallen went. They knew where the gold went. He did not need to speak.
+
+They did not look at him as they passed.
+
+He had expected that and it still cost him. The soldier at the front, a corporal who had drilled here for weeks under Valrik and now walked with the reins wrapped once around his gauntlet, kept his eyes on the ground three paces ahead of his own boots and did not lift them. The soldier behind him did the same. The Hoshin who had come to help unload made way for them without a word, without a nod, because there was no acknowledgment to be given yet. The fallen were the priority. Nothing else asked to be seen first.
+
+Nikola inclined his head as each horse passed him. It was the smallest formal act he had. He gave it anyway.
+
+The Hoshin provided support even though their numbers were spread thin. Along the inside of the gate wall, the supplies for the return leg. As each horse was unloaded of what it had carried, it was led directly to the stack, and Hoshin and soldier working the same rope at the same knot began to load it again. Nobody spoke. There would be no rest on this round trip.
+
+Nikola opened the HUD.
+
+He kept it half-visible in the corner of his sight, the way Riley did when she was thinking. The gold column ticked upward as each strongbox was carried into the vault and the receiver at the vault door tapped the deposit through. It climbed cleanly. He watched the number and let the number be what he watched.
+
+He watched the yard.
+
+The gold column kept climbing. The hospital counter, on the small tile beside it, blinked as the fallen went in one by one and their beds registered. Both numbers were climbing fast while the other resource numbers were just crawling.
+
+He sighed.
+
+He knew what it meant and Riley would too. The soldiers were doing the work of soldiers and the Hoshin were doing the work of the manufactory, and nobody was doing the work of the ordinary yard, the timber crews and the haul teams and the walker who took the cart from the sawmill to the storeyard four times a day and made the resource column tick over.
+
+He closed the HUD.
+
+The last of the first wave came through. The soldier at the front, having deposited what he carried, turned his horse and walked it back toward the stack. He did not look up. He nodded once in Nikola's direction as he passed, and Nikola inclined his head in return, and neither of them spoke, and it was enough.
+
+***
+
+Riley's eyes strained.
+
+She had been reading the same HUD panel for longer than she should have, and the small text at the corners of each menu had started to blur. She pressed the heel of her hand into one eye, then the other, and looked again.
+
+The gold was climbing beautifully.
+
+She pulled the hospital menu up next.
+
+❖ Hospital Total Healing Time: 27 hrs
+
+She started the timer.
+
+Twenty-seven hours. She had noticed this a while back and hadn't quite put words to it until now: dying cost the system more than being hurt. More than twice. The heal she had run on the compound wounded a month ago had been a nine-hour job for a full ward. This one was three times that for less than half the count. It was still cheaper than training a soldier from nothing. It was still the right call. It was also, and she would sit with this later, a real number, one that would matter the next time she was choosing whether to hold ground or fall back.
+
+She looked up.
+
+The gold column, in the time she had been reading the hospital menu, had reached another milestone. She smiled, then she looked at the other columns.
+
+Timber, marginal gain. Stone, not much better. Iron, an almost-imperceptible upward drift that at this scale might as well have been flat. Grain, dropping, because the kingdom was still eating and the yard crew that had been due to bring in the morning's cut had walked out to the depot instead.
+
+She had known this too. The gold would save them from a lot of things. The gold would not, today, save them from the fact that a resource-generating kingdom needs bodies in the community to generate resources.
+
+She thought about the Hoshin.
+
+Most of them were on the manufacturing lines. The new weapon fabrication had been eating labor for a fortnight and she had been the one who assigned them. A few, Nami had put a team together, were doing gathering, and they were doing it well, but "well" for a team of five was not going to move a column that needed twenty. The resource buildings themselves were at level ten. In her experience with these buildings, they didn't come alive until fifteen or eighteen; the passive yield at ten was, essentially, decorative. The continued forging and other leveling activities were a drain.
+
+The key was outside. Bodies gathering resources, like it was in the beginning. The trick was going to be finding the manpower for that.
+
+She sat with that a moment, and then, she dug into the sub-menus.
+
+She had been meaning to for since the last level up and had not.
+
+She started with the forge, because the forge was where the gold was going to earn its keep and she wanted to know what she was buying with it.
+
+The list was longer than it used to be.
+
+Weapons and armor sat at the top the way they always had. Below them was a whole section she did not recognize. Wheelbarrows. Hand carts. Furniture: benches, tables, cots, a whole subcategory just of shelving. Building components: brackets in a dozen sizes, nails by the pound, support beams cut to length with the length itself as an adjustable parameter, floorboards, roofing pins, hinges.
+
+She tapped a hinge. A little panel opened. The hinge came in three sizes. The material was iron by default, with a dropdown that offered steel or bronze at higher cost. She tapped back out.
+
+She tapped a brick.
+
+Stone by default. She opened the material dropdown out of curiosity. Wood was there, which surprised her at first, a wooden brick struck her as a bit silly, and then she thought about it and remembered the barn in her grandmother's photos that had been built out of what her grandmother had called cordwood, short logs stacked like masonry, and it was less silly than it had looked. Not all materials were on all items. She flipped through a few and made sense of it: a hatchet came in steel and only in steel, because a wooden hatchet was a stick, and a stone hatchet was a museum piece. Flooring came in stone or wood, which matched what she had seen in this world; the tavern in Rivermark had a stone-floored common room and a wood-floored back parlor and both had made sense.
+
+"Huh," she said aloud.
+
+She spent the better part of the afternoon in there. She stopped noticing the light shift on the yard through the window. Nikola crossed her mind twice and both times she pinged him a short acknowledgment on the HUD and went back to the menus. She stopped thinking about weapons. She started thinking about everything.
+
+Kitchen sinks. Flagpoles. A separate subsection just for well fittings. She scrolled through the well fittings and then stopped on the one above them.
+
+Support and structural materials.
+
+Her eyes narrowed. She began to smile without knowing it.
+
+Wooden pipes. For running water.
+
+She tapped it. The panel opened. Length, adjustable. Diameter, adjustable. Wall thickness, adjustable. She sat with the three sliders open in front of her and did not move them for a moment, because her brain was moving instead.
+
+Wooden pipes for water, she thought.
+
+Or wooden pipes for anything you could push through a pipe?
+
+She adjusted the diameter up and then back down. She adjusted the wall thickness. She thought about the range of a thrown rock and the range of the same rock pushed through a tube by something that wanted it to move faster than a thrown rock could go. She thought about other things that could be loaded that were more dangerous than a rock.
+
+She closed the pipe.
+
+She opened flagpoles.
+
+Flagpoles came in wood by default and in steel as an upgrade. The steel version had a diameter slider. She dragged the diameter down. Down again. It let her go smaller than she had expected. She stopped at something a little thicker than a knitting needle and looked at the length. The default was tall, wall-height tall, but the length was adjustable too and she could take it down.
+
+A thin steel rod. Long, thin, springy. Coil it. Compress it. Load it inside a wooden tube.
+
+The physics were not exact. She did not need them to be exact yet. She needed them to be plausible. She thought about it: the coiled spring, the tube, a small plate at the base that would push against a projectile when the spring released, some mechanism to hold the spring and let it go on command. It was plausible.
+
+Accuracy and range would need to be tested and worked out. Getting the spring to release cleanly. Getting the projectile to leave straight. Fitting a sight, or something like a sight, so the person aiming could hit what they meant to. All of it was work, real physical iterative work, the kind Landryn would love.
+
+She checked the forge.
+
+The current queue was running the second half of Nikola's requested weapons order and would finish by dawn. Below the running slot, where before there had only been a grayed-out empty box, there was now an empty queue slot. Set the next job. The forge would pick it up when the current slot cleared. There was still a restriction, only like items in a single fabrication cycle, but the queue meant the next cycle no longer had to wait on someone remembering to start it. She stared at it for a second, at the empty slot, and thought, quietly, oh thank god.
+
+She dropped the thin flagpole into the queue slot. It would run in a few hours and be done before the second-wave soldiers had cleared the outer road.
+
+The pipe she did not queue. The pipe was a Landryn problem. She would need to explain what was needed and that could be partly done over messaging but to be thorough an in person meeting was needed.
+
+She flipped back to the pipe anyway. She did not want to leave it yet. She wanted to stare at it a little longer.
+
+She noodled with the size for a moment, widening the diameter and then narrowing it back, and her eyes drifted to a tab above the sliders she had not opened.
+
+Material.
+
+She opened it.
+
+Wood, default. She had already seen that.
+
+Below wood, stone. She frowned at stone. A stone pipe was a millstone with a hole in it; the wall thickness alone would break the wagon that carried it. She tapped past.
+
+Below stone, steel.
+
+Riley stopped.
+
+She did not move for a full breath. Her mouth opened and did not say anything. She just stared at the menu.
+
+A steel tube.
+
+A steel tube of adjustable length, adjustable diameter, adjustable wall thickness.
+
+Not a pipe. Not any longer a pipe.
+
+She screamed.
+
+It came out of her before she chose it. A short sharp gamer-in-the-basement-at-two-in-the-morning yell of the kind she had not made in a year of being the Warden, and it went out through the guard tower window and across the Clawborn depot and the soldiers working below.
+
+Then a sound on the stairs.
+
+The sound of boots pounding on the stairs, coming up to her.
+
+The door burst open.
+
+Valrik was in the room. Sword half-drawn. Eyes doing the sweep, his breath was hard. His color was not right.
+
+"Warden." He was laboring for the word. "What is it? Are you in danger?"
+
+Riley stopped.
+
+She had been mid-motion, halfway to some private small jig she had been about to do without an audience, and she froze with one hand still lifted. She looked at Valrik. She looked at the sword. She looked at his face, which was the face of a man who had run up her tower stairs think her life was in peril.
+
+Her smile broke wide.
+
+"What?" she said. "No. The Clawborn are the ones in danger."

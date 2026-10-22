@@ -1,0 +1,115 @@
+Chapter 114
+
+The path down to the mine had been widened again.
+
+Riley noticed it before she reached the head of the cut. The verges had been pushed back another arm's length on each side, the earth freshly cut and the roots showing pale where they had been sheared, and the ground underfoot had been graded and packed with the crushed stone that came out of the shafts. Now two carts could pass each other on it without either driver having to pull his mule aside, and two carts were passing each other as she came down.
+
+She stepped off the path to let them go by.
+
+The cart going up was full. Ore in its rough state, the dull grey and the streaked red of the iron-heavy stone, and on the top of the load a leather tarp lashed at four corners to hold it against the jostle. The cart going down was empty and moving at a good pace, the driver flicking the reins and nodding to Riley as he passed without slowing.
+
+The staff had doubled since the Hoshin came through the gate, and the shape of the place had changed to hold them. Where there had been one sorting table there were now four, and at each table two people worked pulling the good stone from the poor, dropping the good into hoppers and the poor down the slope behind them where it fed the crushed-stone pile the path was being paved with. Nothing wasted.
+
+Past the tables the ore for the powder work had its own line. She recognized it by the color and the smell, the way the sulphur-yellow crumbs sat separated in their own broad shallow bins and the way the workers handling them wore gloves and cloths across their faces. Every stage of it contained. Every stage of it labelled.
+
+Somebody knows what they're doing down here, she thought, and half of the thought had Landryn's dust-flecked face on it, and the other half had Nikola's silence.
+
+They were waiting for her at the end of the decent at the mouth of the mine.
+
+Landryn saw her first and lifted a hand. Nikola did not lift a hand. He stood a pace behind Landryn with his hands folded in front of him, and Riley crossed the yard and reached them, and Landryn's mouth curled at the corner in the way that on him was the equivalent of another man's grin.
+
+"Warden," Nikola said.
+
+"Thank you for coming," said Landryn.
+
+He turned without waiting and led her in.
+
+Fresh timbers braced the roof at intervals close enough that a person could reach one from the next without stretching, and the lamps hung at every second brace, oil lamps with their reflectors turned inward so the light threw down the shaft in a chain rather than pooling near the entrance. The floor was even. She could walk it at pace without watching her feet.
+
+"You have been busy," she said.
+
+"The tunnels have been the work," Landryn said. He walked with his ledger under one arm. "South first. We picked up a second vein of the iron ore three days after we started that push, and it is running strong. West is newer. West is where I have a few ideas."
+
+"What sort?"
+
+"The stone breaks cleaner. That means faster cutting, less spoil, and it means the second saltpetre pocket may not be a pocket at all. It may be a bed. I will not put a number on it until we have cut into it another week, but the number I would put on it if you pushed me would surprise you."
+
+"Surprise me now."
+
+"Triple current output on the saltpetre, if the bed is what I think it is."
+
+She glanced at him. "Triple!"
+
+"If."
+
+Nikola, walking on her other side, said nothing. She noticed because she was in the habit of noticing what Nikola did not say. He was letting Landryn have this moment, but Nikola had something to say and it felt like waiting for the other boot to drop.
+
+"Production overall," Riley said.
+
+"Up seventy percent on iron since the doubled crews came on," Landryn said. "Coal up sixty. Sulphur has doubled. The saltpetre is the number I keep looking at. Even without the west vein confirmed, we are producing more than the pots can hold at Nami's current rate. That is a good problem to have."
+
+"It is a problem I want to keep having."
+
+"Then you will like what we are about to show you."
+
+They had reached the last brace before the wider ground. She could feel it in the air and the shaft opened ahead. The three of them stopped just before the opening.
+
+They were both looking at her, and both of them had the small suppressed expression of men who had been waiting to show her a surprise that was overdue. Landryn's mouth had gone from its usual quarter-curl to something closer to a proper smile. Nikola's stillness had a different quality to it, focused rather than neutral, the way a man stands when he has verified something and wants to reveal.
+
+"Warden, after you." Landryn said.
+
+She stepped through the opening.
+
+The cavern opened up around her, the roof lost somewhere in the dark above the reach of the lamps, the saltpetre working along the north wall with its pale bloom on the stone and its faint sharp smell in the air. She had been here before. She had come down when they first found the pocket, and she had come down again when they set the scraping crews to it, and both times the cavern had been the cavern and the wall had been the wall.
+
+The wall was not the wall.
+
+Against the eastern side of the cavern, set into the space where a tumble of scree had been the last time she stood in this room, a cylindrical structure rose from the floor to a height a little above her head. Timber-banded. Stone-set at the base. A hinged door of dark wood on iron pintles at the front of it. The proportions were exactly right and the proportions were exactly familiar, and she stood for a moment looking at them because her brain would not accept what her eyes were reporting.
+
+It was a silo.
+
+The system silo, the same shape and the same banding as the one up in the yard above ground, standing here inside a cavern.
+
+Landryn made a small sound that was almost a laugh.
+
+Riley walked over to it. She put her hand on the timber banding at chest height and let her palm rest against the wood.
+
+She smiled.
+
+"This has been tested and is ready for use," Nikola said behind her.
+
+"I was surprised too," Landryn said. "This seems to work exactly like the main silo above ground."
+
+He crossed to a small pile of sorted stone at the base of the wall, bent, and lifted a two-handed piece of ore. He held it out to her with both hands. The rough weight of it settled into her palms as she took it, dense and cold, the fresh face of it showing the grey-and-red streak of the good iron.
+
+"Try it out," Nikola said.
+
+She walked to the front of the silo with the stone. She pushed the door open with the ore in her hands. Inside was the same dark that was inside every silo, the small non-space that was not a room and not a shaft and not a floor. She dropped the stone in.
+
+She felt the small confirmation before she saw it. She pulled up the HUD.
+
+The line item was there, clean, entered against the mine silo the way any deposit entered against any silo. One unit of iron ore. Timestamp was current.
+
+She dismissed the HUD.
+
+"How much time will this save the mine crews," she said, "not having to bring their hauls above ground?"
+
+"Considerable," Landryn said. "This would free up production of one half of one full shift."
+
+She turned back to the silo with her hand still on the timber, already running the numbers, already seeing what half a shift of crew time redirected to the west push would mean if the saltpetre bed was what Landryn thought it was.
+
+The silo worked down here. That meant other things worked down here too. All four resource buildings, a hospital. Anything in the HUD that was not grayed out could be sunk into this stone and the system would treat it the same as if it stood in the yard above ground. She could put bunkhouses down here for the ones who could not fight, the children and the older Hoshin and anyone else the wall would not save if the wall came down.
+
+If the wall came down.
+
+That was the piece she had not put words on before. Above ground, if the wall broke, the ones who could not fight went first. Down here they did not. The mouth of the mine was a hallway a man had to come through single file, and the last of her soldiers could stand at that hallway and pick off whatever came through it, one at a time, until the enemy ran out or the arrows did. This was not the main plan. This was the plan for the day the main plan failed. A lifeboat, cut into stone.
+
+Nikola's face hardened.
+
+He raised one hand.
+
+"However."
+
+Riley turned to look at him, and her smile faded.
+
+"What?"
