@@ -1,0 +1,93 @@
+Lucas’ first idea had been that he might be able to steal a page from Heisenburgle’s playbook and make a sword that was part weapon and part hypodermic needle. While he hadn’t invented deadly dragon poison yet, he would, and it would be a lot easier to shoot that shit straight into her veins if he could set off a gunpowder charge in the hilt of his weapon.
+
+While the plan struck him as a little gimmicky, he was going to need every gimmick he could get his hands on if no easier options presented themselves, and this really did turn into a fight. Even if he hadn’t owed her a particularly brutal revenge for all she’d done, there was no need to play fair with a hundred-foot-long fire-breathing monster.
+
+Killing a dragon was going to make killing an ice troll look easy, so he’d cheat any way he could. As time went on, though, he lost interest in that plan and became more obsessed with the ratios of the chemicals he was mixing. More specifically, the fact that he could make different products from the same set of ingredients.
+
+After almost a week, he succeeded in making gunpowder. His system insisted on calling it Highly Explosive Firedust, but it wasn’t the only product he’d been able to make with sulfur, charcoal, and vitriolic earth, and that raised a lot of questions in Lucas’ mind.
+
+Highly Explosive Fire Dust (single use): This dust burns violently on contact with fire.
+
+Poisonous Fume Volatiles (single use): 8 poison. This material burns slowly on contact with fire, creating 5 cubic feet of toxic smoke, which makes both vision and breathing very difficult for one minute.
+
+Sulfurous Fulminating Powder (single use): This powder explodes violently on contact with fire.
+
+How many potions have I missed out on already? He wondered as he saw his experience tick up marginally with every new creation.
+
+With the exception of Blue, and to a much lesser extent during his brief foray into cosmetics, Lucas had really only tried a formulation or two, and once he got something that worked, he called it good and moved on.
+
+Was that a mistake? It sure felt like one.
+
+For a while, he let himself be distracted by using empowered alchemy to tune his gunpowder. That wasn’t because he needed to; it was because he wanted to see how far he could push the needle, and the answer turned out to be quite far. To him, it was starting to seem like he could make almost anything stronger just by adding mana to it.
+
+Volatile: 4% mana - increases strength by 50% but makes the dust more likely to detonate at random.
+
+Stable: 5% mana - Remove the chance of random detonation without direct flame.
+
+Potent: 8% mana - increase explosive force by 20%.
+
+Abundant: 9% mana - Increase yields by 40%.
+
+Lucas tried potent; he even tried a batch of double-potent powder, though he stabilized both batches first. That double-strength stuff was no good to him because it just blew through whatever container he tried to put it in, but it was still interesting, and he suspected that if he worked with a dwarf on it, they could get up to some serious shit.
+
+“I kinda wish I’d studied hard enough to know how TNT is made,” he sighed to himself as he very carefully put away his remaining powder where it wouldn’t hurt anyone. “Because that shit would be the bomb.”
+
+While the gunpowder project had started as a weapon and slowly transformed into a way to show off to Heisenburgle, there were larger theoretical questions here now. Sure, he could throw in some paper tubes with iron and copper fillings and create some red and green fireworks just to show off, but the whole thing was quickly sending him down an unexpected rabbit hole.
+
+Rabbithole or not, he still showed off one night for the gnome, provoking exactly the sort of consternation he craved as he launched a barrage of tiny rockets, one after the other, little red and green explosions above the Black Gate Keep.
+
+“Big deal,” the gnome said with a shrug. “Dwarves have long ago mastered the art of fireflowers. Why, once for the old king's birthday, I supervised—”
+
+“Yeah, but these were made without a single grain of firedust,” Lucas bragged. “I can probably do other colors, too.”
+
+“So you added some elemental essence to your noxious black powder or some other trick,” the gnome insisted. He refused to believe that Lucas had replaced the expensive dwarven firedust with a cheap substitute.
+
+The conversation that followed about ratios was even less productive, but Lucas didn’t really care. The gnome could insist that he was cheating, but Lucas wasn’t, and he was learning a lot of new things while he did it. For the first time since he’d started to feel at home in the cider house, he was really starting to enjoy himself.
+
+That, of course, made him feel bad, but in an entirely different way. As long as I have to pretend that Danaria is still dead and Skylara is still free, I shouldn’t be allowed to feel happy, he told himself. That was hard, though, given how excited he was about all of this. If he was able to make magical gunpowder with what were widely considered to be bottom-shelf ingredients, then who knew what he could make now that he was looking at the world in the right way.
+
+With the exception of sulfur, none of the books he’d read had mentioned anything particularly positive about the ingredients. Have I just been scratching the surface all this time? He wondered as he looked at a shelf full of expensive ingredients. He knew that chemistry powered this reaction, but he also knew from his experiences with empowered alchemy that man amplified it.
+
+So, since Hesenburgle still showed no sign of letting him go crazy with boost potions, he started to play around with some simple two-ingredient healing potions. This time, the goal wasn’t to make the strongest potion or the most profitable one. It was to look for things he hadn’t noticed the first time.
+
+Elderberry Seeds (processed): Healing 2 (enriching), mana 1 (tingling), poison 1 (irritating), intelligence -1 (forgetful)
+
+Rosewood inner tree bark (leached): Healing 2 (nutritious), poison 1 (allergic), endurance 1(fortifying), intelligence -1 (dull)
+
+Neither of these ingredients was complicated. Heisenburgle didn’t even consider the bark to be a real reagent. Nonetheless, it was one of the first healing potions that Lucas had ever learned how to make. It was even the one that he’d tried to teach Adin how to make so long ago.
+
+Small Tainted Lesser Healing Potion (1 dose): Healing 4(restorative), poison 1 (nauseous), endurance 1 (fortifying), those who imbibe have a 10% chance of nausea for one hour.
+
+This time, though, he didn’t make the same potion he knew
+
+This time, though, he didn’t settle for the formulation he knew. He spent an entire night making twenty different batches. In the end, half of them were nothing but waste products.
+
+I’m sorry, these ingredients have no active effects. +3 experience.
+
+You have failed to make a viable potion, but keep experimenting! +3 experience.
+
+Half of them weren’t, though. Amidst the ten batches that produced something viable, he found three different healing potions, whereas before, he’d found only one, and that shocked Lucas. It shouldn’t have, but it did. Up until now, he’d still been stuck in the same stunned mindset as Heisenburgle and Thrzealwick. He’d been acting like there was just one way to do things. While there might be one best way to do things, it was becoming very clear to him that the answer was more complicated.
+
+Heisenburgle listened to him as he showed off the three different healing potions. There was a Small Tainted Lesser Healing potion, A Minor potion of Mental Healing, and a Tincture of Nausea Resistance. While the latter two didn’t seem particularly useful to Lucas, it blew his mind that just altering the balance of the formula within certain bounds created such specific curatives.
+
+“Are you certain they’re all different?” the wizened alchemist asked finally. “They all look the same to me.”
+
+Lucas wanted to strangle him, but he supposed he couldn’t really blame the gnome. Almost all of the vials he’d made, including the failed batches, were little more than red-brown water. Some bubbled, and a few were a little darker than others, but if he didn’t have his pop ups, he could have very easily made that mistake.
+
+“None of them are going to change the world or anything,” Lucas agreed, trying to stay amiable, “But all of them treat different conditions; at least, that’s what my talent says.”
+
+“Your talent,” he scowled. “Very well, tell me more about these supposed differences.”
+
+Lucas explained all the ways in which the potions differed without using numbers. Instead, he described the symptoms they were intended for, but the idea that something could be done in many different ways almost offended the gnome. “I’m telling you there’s not just eight or eighty or however many different ways you say there are to make a healing potion. There might be eight million. We don’t know because no one’s ever tried before.”
+
+“You are implying there are recipes that my God does not know?” Heisenburgle asked. “That’s blasphemous. Be more careful with your words, or he might well strip you of your talents!”
+
+Lucas demurred then, not because he believed he was on the road to getting smited but because he didn’t want to piss the gnome off. He was trying to win him over, not irritate him.
+
+Still, even if Hesienburgle acted like he didn’t care about what Lucas was working on, he could tell that the gnome was getting jealous. For the first time, he wasn’t just making a potion that he needed to make to get paid or save lives; he was doing real experimentation. His options were starting to branch out, and he was adding different compatible catalysts and purifying his simple reagents to see what other strange edge cases he could find. Not only was he getting real results, but his enthusiasm while he was getting them was contagious.
+
+Day by day, it was getting to him. Lucas could tell. He could hardly blame the guy. He wanted to know more about alchemy than Lucas wanted to kill Skylara, and he wanted to kill that dragoness badly.
+
+Finally, Less than a week after Lucas had started, that moment finally arrived. “That’s it,” Heisenburgle said, obviously tired of not being able to share in Lucas’ strange insights. “I’ve had enough. I have to know. What is it Lwyn will want from me to arrange a meeting with Thrzealwick?”
+
+“Not much,” Lucas said with a growing smile. “She’ll just want you to promise to kill Skylara. Do that, and she’ll probably help you with anything.” In that moment, it took everything Lucas had not to laugh at the bug-eyed, strangled expression that Heisenburgle made.

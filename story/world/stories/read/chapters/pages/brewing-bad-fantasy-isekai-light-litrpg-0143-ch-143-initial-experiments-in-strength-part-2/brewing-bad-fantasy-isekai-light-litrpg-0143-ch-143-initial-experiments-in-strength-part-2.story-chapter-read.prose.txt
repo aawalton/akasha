@@ -1,0 +1,97 @@
+The possible upgrades that Lucas’s talent gave him were generally straightforward but not always predictable. He could take any of the main traits of a given potion and make them stronger or weaker at the cost of mana and the other existing bonuses that the potion had.
+
+Even so, as simple and powerful as the magic was, it left a lot of room for improvement. To start with, some better numbers would have been helpful. Would it really kill them to give me absolute numbers rather than percentages? Lucas thought as he reviewed the options.
+
+Civilized: 6% mana - Removes side effects.
+
+Concentrated Strength: 10% mana - Increases strength by 4 at the cost of removing the endurance bonus.
+
+Reactive Strength: 15% mana - Increases strength by 33%.
+
+Balanced Performance: 8% mana - decreases strength by 4 to double endurance.
+
+Poisonous Rage: 8% mana - increase strength and poison by 5.
+
+Purity: 4% - reduces poison content to 0.
+
+Abundant: 11% mana - Increase yields by 33%.
+
+Lucas was vaguely disappointed that there weren’t any weird options this time. Everything seemed to be pretty cut and dry, and he was left to wonder if anything interesting would emerge later after he’d empowered the potion a time or two.
+
+He knew from previous experience that the mana number was the percentage of mana he had remaining, based on the way the prices changed as he slowly depleted his pool. Still, an actual cost would have made it all much simpler.
+
+Lucas shook his head to clear it and cracked his knuckles. There was no point in complaining about what he couldn’t fix. So, instead, he started ruling out options. The first to go was Abundant. He had no interest in making more doses. In the same way, he had no interest in keeping the endurance. Poison, on the other hand, was a more complicated question.
+
+He had a talent to cope with poison, so it wasn’t an immediate concern. He’d probably even be able to cope with increasing it quite a bit. The real question was not how much poison he could endure but how much strength. Was there a limit?
+
+Just how much do I want this to hurt? Lucas asked himself.
+
+He was pretty sure that if he made the thing more poisonous and removed the endurance before he used Reactive Strength, he could make the thing +27 strength. That was an insane number, and he had no idea what side effects that might have.
+
+If ten was average, and twenty was pretty damn strong, then what was thirty, or for that matter, thirty-seven?  While that was the question he hoped to answer tomorrow, he couldn’t help but think about it as he judged his options. A lot depended on whether it was closer to an Olympic powerlifter or a Greek demigod. Both options raised questions of their own.
+
+Could I make myself so strong I break my own arm when I punch someone? He wondered. It was a good question, but he didn’t have an answer. Lots of celebrities had ODed on steroids over the years, so there was almost certainly such a thing as too much of a good thing.
+
+The thought of getting a fatal heart attack while fighting was enough to dissuade him from pushing things to the limit, at least for the moment. While he wanted to max everything out eventually, he decided to stick with something more conventional for the moment.
+
+“Twelve strength potions in one day is probably a little much,” he told himself. “I should probably take it easy where I can. Next time, though…” he let that thought hang in the air as he started using magic to change the potion one step at a time. As much as he wanted to top the charts, that could wait for another day. Hurting himself would really get in the way of the rest of his training.
+
+The first thing he did was remove the poison with Purity. After that, he used Civilized to remove the side effects. He’d expected these changes to make the potion’s color become a clearer red, but that's exactly the opposite of what happened. Instead, with every change, the thing became a darker tan color.
+
+Lucas opted not to waste the mana by removing the intelligence modifier since it was so minor. Still, by the time he finished using Concentrated Strength and Reactive Strength, he’d blown almost half his mana supply and was left with a dark brown fluid that looked like a flat, foamless, stout beer more than anything.
+
+While it was underwhelming at first glance, a quick look at his status screen revealed the truth. Even without his decision to go completely crazy, it was still almost as strong as all of the other potions he’d made today combined.
+
+Monstrous potion of Greater Strength (1 dose): +20 Strength (inhuman), -2 intelligence (primitive). Duration: 5 minutes. Strongly earth-aligned. This potion is extremely potent and will be hard on anyone who takes it with less than twenty strength.
+
+In fact, it was so strong it seemed to come with its own warning label. Lucas frowned at that as he studied it. Toxicity Tolerance probably wouldn’t help him with this complication. It wouldn’t be enough to dissuade him, though. If anything, it was helpful and gave him an extreme to plan around in future brewing.
+
+Aren’t you glad you didn’t go balls to the wall? He asked himself as he looked at his character sheet. If you’d gotten it up to 25 or 30, it might have just said, ‘Caution, this will kill you!’
+
+Lucas smiled at that, but before he could figure out another joke to make on the subject, he noticed that his level had gone up. When he’d started all of this, he’d definitely been level eight, but now he was level nine.
+
+Name: Lucas Sharpe  Class: Magical Chemist    Level: 9
+
+Agility: 13    Endurance: 11   Appearance 10
+
+Intelligence: 14  Strength: 11   Soul: 10
+
+Health: 100%      Mana: 44%
+
+Status Effect: None.
+
+Imbued Equipment: Ring of Vanishing (Fine Quality)
+
+You have unspent points. Please use them to increase your ability scores or gain feats/perks.
+
+More interesting, though, was the fact that this final potion had leveled him up. While he’d only gotten a 66 experience for creating a new great strength potion, all the little jolts of experience he’d gotten from improving it had pushed him over the line.
+
+“Hah - I guess every little bit really does count,” he said to himself.
+
+Lucas cut himself off there, suddenly paranoid that someone might be watching. No one’s here, he tried to tell himself, but the fact that he could have very easily watched those assistants from the shadows two floors above him easily disproved that.
+
+Instead of continuing his train of thought, he forced himself to look over the many vials he’d created and act like they were what he was talking about. Still, he paused, holding his breath to listen for noise and see if there was any dust falling from somewhere up above. When he saw none, he shrugged and calmed down. Then he got some ink and started to label the corks of each vial.
+
+He didn’t need labels, of course, but anyone watching him now or who noticed his experiments might wonder if he was drinking a lot of unlabeled potions. He’d already revealed enough to Heisenburgle. He didn’t need to reveal anything else to the world. When that was done, he took one more long look at the product of all his hard work, and then he started to put the reagents away and get ready for bed.
+
+All in all, it had been a good day. Not only had he earned a lot of experience from the ensemble of potions, but he had more than enough to experiment with. They scaled from +1 strength all the way up to +20 strength, skipping only a few numbers in between. Although none of them lasted more than five minutes, for now, that wasn’t the important part.
+
+When the time finally came to take the dragoness down, he’d mix whatever recipe he settled on with some ingredients that would make the effect last for at least half an hour. Extending the duration would lower the effect by quite a bit, but it would be a necessary evil.
+
+Right now, what mattered was that he would be able to feel the difference without committing any more of his points. Long-lasting potions would only get in the way of that. Lucas nodded to himself as he looked over the line of potions. There wasn’t a clear pattern in the colors. Some were red or pink, and others were more of a muddy brown. One was even a muddy green color that looked pretty much the opposite of agatizing.
+
+Still, taste was going to be the easiest part of all this. Just thinking about how he was going to have to experiment with all of this junk left him feeling a little tired.
+
+“Look on the bright side,” he told himself. “Once I try this out, I can do the same thing with agility. ”
+
+Lucas rolled his eyes at that, but that was how science worked. You experimented, you got results, and then you used those results to guide further experiments. Once he figured out all of this out, he could start to estimate how much strength and speed he really needed for what was going to come next, and that at least was something to look forward to.
+
+She won’t know what hit her, he thought as he packed up his potions and started up the stairs. Lucas felt good; the only question was whether or not he felt good enough to do his daily workout before he crashed the hell out.
+
+“Yeah, I probably should,” he told himself, stifling a yawn. “Can’t afford to get lazy and rely entirely on potions, now, can I?”
+
+Lucas had zero desire to exercise now, but that didn’t mean he could just skip it. He had to get that achievement to 100% somehow, and that was going to be harder than ever without his own personal instructor here to berate him regularly.
+
+Despite that, his energy level was so low he almost turned back around and made himself a lesser potion of wakefulness just to cope with it. That wouldn’t do, though, unfortunately. If he popped one of those, there was no way he was going to get any sleep before he started the night shift back up with Heisenburgle, and if he didn't get a little rest, it would throw all of his other plans off. He definitely wasn't going to start his potion experiment tomorrow after staying up for more than a day straight.
+
+So, reluctantly, he dragged his ass back up the stairs, wondering vaguely how much making these strength potions six stories underground had helped improve his results. He was tempted to go make one or two in the air lab right now to see, but he decided against it for obvious reasons. “The only way you’re going to find out is if you make the same damn potions in the air lab. It’s just five extra flights of stairs,” he told himself as an involuntary shudder passed through him. Suddenly, a brief bout of sword fighting didn’t sound so bad after all.

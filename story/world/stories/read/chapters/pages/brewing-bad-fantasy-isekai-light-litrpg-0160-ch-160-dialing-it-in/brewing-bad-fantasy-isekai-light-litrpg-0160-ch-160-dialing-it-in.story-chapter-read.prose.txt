@@ -1,0 +1,69 @@
+While it only took a day to gather the ingredients, it took Lucas a week to make something worth testing, because in its natural state, the Wyrm’s bane leaves were really only poisonous when they were burned. Then, they created a choking, acrid gas that made his eyes water, even if it seemed to only be deadly toward reptiles.
+
+Noxious mixture of Cold Blooded Fumigation(1 use): Create 30 cubic feet of choking smoke for 10 seconds. Poison 4 (choking), twice as effective on reptiles.
+
+The first time he made it, the concoction exploded violently, and they had to spend the rest of the evening airing out the lab to get rid of the foul smoke. It was nasty stuff, and Heisenburgle gave him hell for days about that.
+
+While he had no doubt that an entire forest of such things burning might trouble even a dragon, he doubted that a smoke bomb or two made from the thick waxy leaves would do much, even in her human form. So, he dug deeper, and after isolating and concentrating the reagent into a liquid, and eventually a paste that resembled a sort of dark green chocolate, he no longer feared the tendency of its leaves to smoke and smolder under the heat of his magical burners. After that, he started to mix it with other poisonous compounds with ever-increasing success.
+
+At first, he tried mixing that concentrate with things it was compatible with, but those produced nothing useful. It was only when he tried mixing it with things that were decidedly incompatible that he had real results.
+
+Hydra saliva was an ingredient he’d used before, early on in his quest to make a stronger batch of Blue. Lucas felt kind of dumb about that, since he now knew the real secret was to uncover the formula he’d been dancing around the edge of. Still, with a poison rating of fourteen, the stuff was toxic, so despite a lack of compatibility, he mixed it with the Wyrmbane concentrate, and the result was decent.
+
+Wyrmbane Acid Mixture(5 doses): 9 poison (corrosive). Incompatible, unstable mixture, 12 hours remaining until complete breakdown. Twice as effective on reptiles.
+
+While it wasn’t as poisonous as the hydra saliva, it no longer needed to be inhaled, which, when you considered the bonuses involved, made it that much better. Still, even after tweaking these numbers higher with Empowered Alchemy, Lucas was sure he could do better.
+
+They didn’t have any Dragons to test their poison on. So, Heisenburgle wanted to inject it in some water lizards he’d had captured for just such a purpose, but Lucas wanted to minimize the whole animal testing thing as much as possible. “Just give me some time, man,” he insisted. “I want something that will put them out of their misery, not just fuck ‘em up, alright?”
+
+The water lizards were the biggest reptiles in the area. Somewhat larger than crocodiles, they were like some vestigial dragon missing link, and they weighed nearly as much as a cow. Lucas didn’t like the look of them, but apparently they were captured regularly for reasons related to both meat and entertainment.
+
+“We won't be able to eat these after you taint the meat,” the gnome answered with a shrug, “But that’s usually what happens after a gladiator defeats them in an exhibition fight. Dinner and a show all in one.” Heisenburgle seemed disappointed as he explained that, but his glee left Lucas wondering whether vegetarians might be right about a couple of things, and instead of focusing on testing, he focused on the toxicity of incompatible reactions.
+
+Normally, such reactions were undesirable. Normally, he didn’t want to burn out all the interesting traits a reagent might have, but this wasn’t a normal potion. This was something that he wanted to be utterly, completely fatal, so creating ugly, incompatible mixtures was exactly the right direction to take.
+
+The main downside at first seemed to be how unstable they were. He’d seen that in plenty of failed potions before, too. It was hardly a new side effect, still, for every mixture that turned into an unusable separation of glop and oily sheens, he found a few that gelled better, and better, he found that he could vary the temperature for some of the more troublesome recipes.
+
+Slowly, Lucas went through various ingredients, looking for both ingredients that were fatal and ingredients that would stabilize the fatal poison he managed to concoct. It was a challenging compromise that took a lot of experimentation and a lot of scrubbing to clean the fouled glassware after he’d finished, but one step at a time, he made progress.
+
+First, he tried hydra blood. It wasn’t as poisonous as hydra saliva or hydra venom, but it was still nasty stuff he needed to open the windows for. That was Lucas’ first real breakthrough, because, after four failed batches of toxic mixtures, he figured out the right balance to make something that didn’t come apart immediately.
+
+Hydrabane Mixture(1 dose): 8 poison (corrosive). Incompatible, unstable mixture, 9 hours remaining until complete breakdown. Three times as effective on hydras.
+
+With Empowered Alchemy and 12% of his mana, he was able to increase its potency to 4x and duration to 18 hours. That might just be long enough, Lucas decided, imagining himself spending half the night making the ugly brown tar on the eve of his fight with the dragoness.
+
+Heisenburgle, though, was less satisfied. “Why in tarnfabulation are you making hydra poison? No matter how much she acts like it, the woman ain’t a snake!”
+
+Lucas was certainly aware of that, and only shook his head. “I’m using what I got. You said to lay off the dragon blood until I need it, and well… I need it. Almost.”
+
+“Your talent says this will kill a hydra?” he asked more quietly. “How can you be sure? What’s the dose?”
+
+“Dose it a good question,” Lucas answered with a shrug. “But it’s twice as poisonous as troll blood and nearly three times as deadly as hydra saliva, so I think it will kill any hydra dead without much trouble.”
+
+“That would be useful if we had a test subject, but there aren’t many swamps between here and Silvanar that have the beasts,” the gnome mused. “No matter. You can start again, but this time on the water lizard blood. If your experiments bear out there... well, then we can experiment with the good stuff.”
+
+Dragon blood was expensive, and like wine, it only went up in cost as its vintage got older. This was because of its rarity, of course, but also its utility. It was used in no less than one of the forbidden elixirs, three mana potions, and nearly every potion of fire resistance. Alchemists prized the stuff, and dragons were not fond of giving it up. So, Lucas could forgive Heisenburgle for him not wanting to waste the stuff, even if he had several types on tap scattered throughout his various laboratories.
+
+Red Dragon Blood (young): Poison 3 (burning), mana 3 (ancient), soul 1 (ancient), +30% to fire-related potions.
+
+Blue Dragon Blood (juvenile): Poison 4 (freezing), mana 5 (ancient), soul 2 (ancient), agility -1 (frozen), +30% to ice-related potions.
+
+Black Dragon Blood (adult): Poison 7 (toxic), mana 8 (ancient), soul 4 (ancient), endurance -2 (sickly), strength 1 (tainted), +30% to poison-related potions.
+
+Lucas wasn’t sure if the color would matter, but the age obviously did. Still, for now, he satisfied himself with experiments on species of lizard that were easier to explore, and began applying all the work he’d done with hydras to water lizards. Only, almost as soon as she started that, he finally got the letter he’d been waiting for from Skylara, and he knew it wasn’t going to be good news when he saw it was written in a male hand.
+
+‘Dear Mr. Parin, I regret to inform you that my interest in you has gone as cold as your bed must be without me. I’ve taken other lovers, and simply cannot be bothered to waste any more time on a two-timing cad like yourself. I am not one of the Prince’s floozies, and even if I were for sale, I assure you, you could not afford me. Please kindly stick to your labs so that I shall never have to think of you again. Good day.’
+
+When he showed the missive to Heisenburgle, the gnome was frantic, but this was about what Lucas expected. In his limited experience, the bigger the prima donna, the more she loved drama. “It will be fine,” Lucas told him. “She just wants to be chased. I just need to do it without seeming desperate.”
+
+The plus side to that meant that he wouldn’t have to write any love notes to her for a while. Unfortunately, it also meant he’d have to start going to dances again so he could be seen by the woman, and they could “accidentally” run into each other.
+
+So, after Lucas told Heisenburgle to keep him apprised of the Kingdom’s social calendar, he got back to work. Even as complicated and messy as it was to try to force blood and poison to coagulate it just the right way, it was still worlds easier than handling women. This time, the process only took half as long as it had with the hydra, and only two days and twelve batches of poison later, he had something he thought was pretty good.
+
+This time, because they’d mentioned it, he added just a splash of troll blood to a few of the batches. Though Lucas didn’t really like the way the stuff throbbed and writhed like it was trying to put itself back together despite its toxic environment, it dramatically increased the stuff’s longevity. Unfortunately, that came at the cost of reducing its poison multiplier back to being only twice as effective.
+
+“It’s always one trade-off or another, isn’t it?” Lucas sighed to himself as he compared the two recipes to try to decide which one he liked more.
+
+If he could just make a stable potion instead of just trying to make something as broken and toxic as he could, then he could focus on refining it, but as it was, all he could do was choose between a series of ugly trade-offs. Eventually, he chose stability, though, and pumped it up with a third of his mana bar, just so he could see how much it actually weakened over time.
+
+While he didn’t know when he’d get his chance to assassinate Skylara, he knew it would be a narrow window, and given her sense of smell, he didn’t really like the idea of brewing incredibly toxic potions together the night before. She was sure to sense something was off about that.
