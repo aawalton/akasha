@@ -1,0 +1,107 @@
+I open the door, and heat washes over me instantly. The entire building is enchanted, after all, consistently kept as a temperate environment. As soon as the wood creaks open, madame Shelly’s gaze bores into me, but when she recognizes my dark cloak, her expression shifts and she coos in delight.
+
+“Aha! Yuki!” the zoof chirps, bobbing in delight, sending her straw-coloured fur bouncing. “My favourite student! Have you finally scraped up enough chits for another lesson? Oh, come in, come in, you’re wasting mana keeping the door open!”
+
+Her voice rains in on me in an unceasing stream of noise, and I nod faintly, closing the door behind me. As usual, the Runewrights’ is largely empty. A few studious climbers sit across tables, most of them looking older and scholarly. Instead of any of those, though, the madame quickly gestures for me to join her at the counter.
+
+“Come, come!” she urges me, and I slowly approach. “Here for another lesson, yes? Please say yes, dear. I so missed your input!” She carefully places her thin, wiry hands next to her head, the limbs extending amidst bushes of carefully braided fur, giving me an innocent grin.
+
+“I’m not selling you my runes,” I say simply.
+
+At that, she pouts and stomps. “Augh! What I wouldn’t give to get those out of you, Yuki! You know, madame Shelly is real trustworthy, you can share allllll your secrets with me~” she purrs.
+
+I shake my head. “Nope.”
+
+Again, she pouts. “Fine,” she says with an arrogant huff, averting her face and crossing her arms. “Guess I’ll charge you extra for the lesson, then!”
+
+“No, you won’t,” I note with a smile. The older woman gives a long sigh, burying her fluffy face in her hands at my comment.
+
+“You’re no fun!” she complains, pointing at me accusingly as I move to count out the chits, laying coin after coin down on the table.
+
+Gently, I nod. “You tell me every time,” I reply calmly. “And yet you get happy to see me.” Strangely, I truly don’t mind her tone, even. Despite everything, her gestures, her noise, she is very careful about invading my space. She points, but never pokes at me. She huffs, but always at a respectful distance. When I start to frown even slightly at her chatting, she quiets down, without me needing to ask.
+
+In fact, even now, she seems to realize she was getting to be too much. With a small sigh, she tones it down, instead simply picking up the coins from the counter with her scraggly limbs. “Same as usual?” she asks, simply, dropping all the extravagance and simply giving me a small smile.
+
+As soon as she does so, a lot of the gazes fall away from us. The scholars seem to forget their annoyance as soon as the room quiets down again, focusing on their runic projects. Men, women and enbies of all shapes and sizes sit peacefully around working desks, wielding chisels and quietly discussing their craft.
+
+I nod at madame Shelly’s question, and she quickly drops the coins into her necklace. It’s a long string wrapped around her fluffy fur, full of shells strung up on it. In fact, I’m pretty sure the necklace is her namesake, and the coins clack inside the shells for a moment before the noise abruptly vanishes.
+
+Once again, I try to move in [Observation] to get a look at the runes, only for the older zoof to gently push my skill aside. “Mh-mh-mh!” she hums, wagging a finger at me. “That’s an enchantment that’s not for sale, Yuki-dear.”
+
+Shrugging, I nod. “The usual. More-”
+
+“Yes, yes, runic hiding,” she says with a smile. “You guard your knowledge jealously, Yuki. Hopefully this time we’ll get there. Come on!”
+
+And then, in swift motions, the zoof shuffles ahead of me, heading into one of the backrooms. Some of the other scholars give us quick glances and chuckle, recognizing my cloaked form. I’ve… something of a reputation, already, for being soft-spoken and private. Hopefully none of them try to touch me. It’d be a real shame if I had to break someone’s nose to make a point.
+
+Shaking my head and banishing the thought, I follow madame Shelly into the back, where she leads me to a workbench, full of little enchantment projects of hers. With deft motions of her hands, the zoof picks them all aside, placing them on another place, before stopping when holding a wide disc of silver.
+
+“Aha!” she says happily, turning the shiny piece of metal in her hands. “Do you know what that is, Yuki?” she asks.
+
+I stare at it for a long moment, and this time, when I reach out to [Observe] it, the woman easily allows it. And despite that, I cannot make out what any of the inscriptions mean. They’re dull and blurry against my sight, seeming to shift, and entire sections of them are fully misleading.
+
+Sighing softly, I shake my head. “I don’t know. If I had to guess, just based on the shape… probably a heating plate. Silver should be a good conductor and-”
+
+“You’re entirely correct,” the madame beams, then holds up a finger. “But! And this is a big but, dear Yuki. You had to guess, hmmm?”
+
+A soft smile spreads on my lips. “Yes, I still had to guess.”
+
+“That’s because I am a tricky old lady! This recent project is, in fact, going to some nobles. Nobles, who usually employ their own enchanters. And I’ll be damned before I give away my secrets freely to some prissy prick living the high life,” she whispers with a conspiratorial grin, her fur bobbing at her snickers. “So, I obscured my runework! What do you think I did?”
+
+An easier question. “Blurring, extraneous inscriptions intending to mislead, and a perception-interference enchantment.”
+
+The old zoof beams at me. “Very right, Yuki. Now, how would I have done this?”
+
+I tilt my head, thinking, then nod. “I think the blurring is achieved by a secondary layer of runes entirely hidden inside the material at varying depth.”
+
+“Correct again,” madame Shelly nods. “How?”
+
+Thinking it over, I can’t come up with a good solution, so I guess. “You probably pre-inscribed them, before setting to work on the top layer, then welding the plates together on the sides?”
+
+She snaps her fingers in delight. “Wrong!” she says happily, seemingly pleased that I couldn’t figure her trick out. It’s been like this for a while. She’ll present me with some enchantment, and I have to figure out the tricks used to make it.
+
+Not once has she enchanted in front of me or let me [Deconstruct] her skills. I don’t pay enough for that, she says. And she’s entirely correct. Giving away the blueprints of her skills would be even worse of an idea than giving me the enchantments she knows.
+
+“I didn’t make it from two pieces of silver. I carved one set of runes deeper, then forged the top back down, making the metal fold over the runes,” she explains smugly. And I have to nod, because it’s dang clever. “That left the blurring enchantments buried inside. Which makes it hard to work on the top, doesn’t it?” she says with a smile.
+
+“There’s a failsafe,” I instantly realize. “Some skill patterns are excluded from the blurring. You made yourself a backdoor.”
+
+At that, the old woman grins again. “Exactly,” she says smugly. “But you can’t find it.”
+
+“Because of the mana rejection,” I nod along. “Clever.”
+
+“That’s what runewrighting is about, Yuki. Being smart about things. Using tricks. We live and breathe the runes we know - and you should never give our value away freely. Now, for most people, selling unaltered products is fine. Most people won’t have their designs stolen - because most people can’t enchant. What’s a cook gonna do with my stove?” she asked, then snickered. “They’ll cook. Nothing else.”
+
+I nod along with her.
+
+“So why hide your designs?” she asks, tilting her fluffy head.
+
+This time, I actually think it over. “Because our runes reveal part of our skillset,” I eventually suggest.
+
+She nods along slowly. “That’s part of it, yes. You can also sell hidden runes for higher prices to people who can afford to be scammed. And, of course… you can sabotage items. Selling your greatest enemy a stove that poisons all the food they cook, well,” she smiles faintly. “That’s a good trick.”
+
+And once again, I’m reminded not to take climbers lightly. Madame Shelly is a pleasant woman, who usually insists on sharing knowledge being a good thing. I’ve wondered for a while why she’d hide runes at all. For me, it’s because with imbuement, they’re often derivative of my skills, or other skills I've deconstructed.
+
+Now, eventually, this’ll stop being a problem as my runework simply becomes so sophisticated people can’t mimic it anymore - but for now, they’re part of my powers. So, I’ll have to sabotage everyone else, annoyingly. All part of the stealth mission. Picking a fake name, hiding my healing, obscuring my runes.
+
+Madame Shelly smiles, and gives me a few pages of her designs. “Here, these are some more sneaky inscriptions I’ve come up with.” A moment later, she passes me a few silver plates, and a stylus to inscribe runes with. “Go ahead and give them a try, dear.”
+
+With slow movements I lift the metal tool, press it against the silver plate, cycle my mana, and scratch.
+
+I feel my authority of efficiency hum gently in my ears, enhancing [Intuition] to let me know when I’m going wrong. The sensation is strong enough, sometimes, that I make small alterations to the design Shelly handed me. She opens her eyes wide in delight, every time it happens, even clapping her hands for me. “Wonderful, dear! This is why you’re my favourite student.”
+
+[Intuition 8 > 9]
+
+It’s also why she gives me such a ridiculous discount. That, and the fact that she likes me. So, I follow my skills, remembering the entirety of the plans she’s shown me with [Memorization]. There is a whole host of new designs swimming around my mental library, etched into the mana-network that I use to store information.
+
+[Memorization 8 > 9]
+
+And then, when I finish the first layer of the design, I add a second one. I build my own backdoor. I forge things closed. I used [Observation] to carve the surface layer of runes, creating an intersecting motif with things that almost have an effect, but are, in the end, utterly pointless. And as I do so, I link those principles with the ones I already understand.
+
+My epitaph, Perpetual Pursuit, lets me work for an hour without wavering in the slightest. My mantle, architect of the ascended archive, allows me to process the data, cross-referencing it with everything else I’ve learnt, transforming parts of it into essence as I break down the principles. And finally, my authority, efficiency, quietly guiding my hand along, allowing me to learn that much faster.
+
+After three weeks, finally, it coalesces into what I needed to learn.
+
+[New Skill acquired!]
+
+[Obfuscation 0 > 1]

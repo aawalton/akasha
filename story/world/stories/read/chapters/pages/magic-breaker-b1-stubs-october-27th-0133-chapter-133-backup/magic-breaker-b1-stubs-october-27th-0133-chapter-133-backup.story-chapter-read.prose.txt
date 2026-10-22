@@ -1,0 +1,99 @@
+PoV: Orri, the Soothsayer - Snare
+
+The earth rises in front of me, and then, there is a torrent of mana.
+
+I blink as I feel it, the jaws of the trap snapping shut. Ezekiel grimaces at it, almost reaching out to help - but I grab his wrist. The games are over. I’d been dragging this out to get paid more, but this is enough. “They’re dead,” I tell him. “Run.”
+
+“No,” he snarls. “I am the hunter, Orri. You are being paid for this. Do not go against my bright lady. I will earn my freedom back.”
+
+And that’s when I notice that he has the eyes of a manic man. Of a beast in a cage. Respitia put him in one, because he was too wild, and now he’s doing it again. I flinch back from him, raising my magic, snatching my arm free and rubbing my wrist. “No,” I state firmly. “Even if it earns me Respitia’s ire, this is too much to ask.”
+
+“Shut your mouth and do your job. They’re fucking rookies,” Ezekiel spits. The mana down there redoubles.
+
+My mouth drops open. Fuck. Did that monster have an attunement loop already? Did it need one?! That amount of mana should have killed the fucker! How many points- I couldn’t imagine the strain that vessel must be under.
+
+Again, I took a step back, and Ezekiel’s eyes hardened.
+
+[Respitia the Pure demands that you-]
+
+I ignore the rest of the message. That’s always the trouble with zealots. They’re reasonable until they’re not. I grit my teeth, and move to run, because I am not dealing with that shit - and then I crash into a rebounding metal wall.
+
+My own force crashes back into me, sending me sprawling to the ground, and I look up to find a woman wearing steel armor. She had raven hair and dark skin, looking at me with kind, hazel eyes. “Sorry,” she says calmly. “You’re not going anywhere.”
+
+Stress pools at my back, making my skin itch. I shift my arms into blades, preparing to fight, but then think better of it. Looking at her face, knowing that I couldn’t have won if I tried, I raised my hands.
+
+“I surrender,” I hummed simply. Feeling that mana at my back, the way that it leeched into and out of the earth, pulled at me like a hungry, waiting maw… it was very persuasive. “I surrender.”
+
+The human looks at me with surprise plainly written on her face, then smiles. “That will make this a lot easier. Thank you.”
+
+Next to me, Ezekiel is glaring for just a moment, then he moves. He discards me, but Respitia doesn’t. I can practically feel her gaze boring into me, the displeasure radiating from her Eye in the sky, but I don’t care. That’s then, and this is now - and right now, Ezekiel moves, only to crash into some kind of wolf-lizard.
+
+Snarling at him, the monster bares its fangs. “My blood-sibling is down there, priest. I will present them your entrails as a gift,” the wolf says with a grin, and its claws bite through the air, moving far faster than they should. Ezekiel parries with a mana-barrier of course, but the wolf simply turns translucent.
+
+A burst of momentum carries it through the shield, and Ezekiel’s eyes widen as his chest splits open, three shallow lines carving his flesh. He is unprepared. He doesn’t know their skills, but they know ours.
+
+Icicles shoot at him, forcing him to step back, where metal unwraps from the earth. A bear-trap snaps shut around his leg, steel spikes biting into his flesh. A mage and an engineer, I note mentally. The metal-woman is a bastion, the wulven a striker.
+
+Ezekiel is a well-balanced build. He can heal, he can move, he can deal damage, and he can escape. But he’s also out of it. Shaken. Different.
+
+And then I notice that their bastion has a tether to him. Which reminds me to make sure I stay very, very quiet as the screams behind me die out.
+
+When the earth crumbles away and more of that horrid mana spills out, I am grateful for my decision. I look upon Ion, the monster-rookie, and feel fear. There is nothing on that face - not a single emotion. A blank look as Ion regards me calmly.
+
+“Shame,” the word spills from those lips without a hint of regret. “I was looking forward to dissecting your magic.”
+
+Another shiver trails down my spine, and once more, I find myself glad I gave up.
+
+Then, that blank face turns to Ezekiel. Ion raises a hand, and my boss, one moment to another, crumples.
+
+- - -
+
+PoV: Snow Okiyama - Ion
+
+Out of seven paths that I’ve mapped out for the healing skill, Ezekiel went along the third. It’s full of little enhancements, providing a more spread out buffing effect than pure healing. It turns him faster, his vision sharper, and his muscles strengthen.
+
+But I found its weak spot. All the enhancements spring off a central additional node that’s stitched onto the main healing element. That stitch is complex, and complexity is a weak point. So I target the connection between healing and buffing, and the entire skill falls apart.
+
+[Deconstruction 20 > 21]
+
+“What?” Ezekiel croaks, as his movement suddenly slows. Then, [Suppression] sneaks into his joints. They weaken, and he slows further. I remember how he likes to move, and he still hasn’t lost some of his bad habits.
+
+[Memorization 7 > 8]
+
+The lattice in my mind keeps a record of it. How he likes to step a little bit too far while running, his center of gravity leaned forward, so it's easy to make him stumble. The breaking of his buff made him stumble, and as he shifts to catch himself I slow down his back foot even more. He leans too far, and falls on his face.
+
+A blink later I step to the left.
+
+[Intuition 6 > 7]
+
+A lance of fire shoots through where I just stood. But it doesn’t disappear. It swings back around, arching towards me, towards the mark he placed. I hum; the mark is new, probably a feature of his hunt-related class, but I did expect that his javelins would be controlled.
+
+It’s not quite the same as my projection, but it does have a common weak point - I just need to damage the targeting mechanism. The link between the mark and the lance is faint, but I find it with [Selection], and then  I break it.
+
+[Deconstruction 21 > 22]
+
+The lance, halfway through turning around, shoots off and digs into the dirt. Ezekiel forms another one, but I shatter the forming spell in his hand. “That one is too slow,” I note its weakness. “You pack too much power into it, you channel too slowly. While it's forming, you establish the targeting before finishing the main circuit. So all I need to do is disrupt that center a little and - poof,” I explain, squatting down in front of him. “Gone.”
+
+Ezekiel snarls at me, and I summon a dagger. I move it forward slowly, toward him. My mana is at about half-full. He summons a barrier, and I smile. “Now that’s an improvement,” I note. “You fixed all of the glaring flaws. They’re stable. Strong, thin.” My dagger touches the barrier, and then I frown.
+
+“Ah, they’re still brittle. They don’t bend. You didn’t properly include a mana-lattice, no grain variation or flexibility,” I note with a hint of disappointment. All I need to do is focus, turn my dagger thinner, sharper, condensing [Deconstruction] down to a central node on the point, focus it on a single connection and-
+
+The ripple effect shatters the entire barrier as a single part of it falls out of place. It crumbles into a thousand shards of mana-glass.
+
+“H-how?!” Ezekiel stammer, and I smile, for the first time.
+
+“The tower let me fight a version of you at level 80,” I tell him. “And I fought. I dragged out every single skill you have. I learnt them. And I spent a month seeing how to change them, how you might’ve grown.”
+
+He sneers, finally, and seems to prepare. A moment passes, then another, as he pushes against me. But after my skills, he’s so weak, so feeble. I move my dagger forward, tip pressing into his skin, even as his mantle flares to create more barriers.
+
+“From level 80,” he says slowly, a grimace worn into his face. “Then you won’t be ready for this, rat.”
+
+I blink for a moment, and the world shifts. Pressure descends on me, and I feel fear thumping in my heart. A deep, bone-grating fear that claws at my insides like a rabid animal.
+
+Ezekiel moves, and I focus. The fear squeezes my heart, and more blood pools from me. A force presses against me like a physical blanket, an aura like the swordswoman had, like that of the vanguard, too. It lashes against me, tearing open my skin, and blowing back my hair.
+
+“Run, little rat,” Ezekiel commands.
+
+The words seep into my very bones. But then, I’ve known fear like this before. I’ve moved past it before. Gritting my teeth with all I can, I hold onto him, and roll. Down the dirt ramp. Back underground. And the enchantment, with a tendril of mana, flickers on.
+
+Me against him, one more time.

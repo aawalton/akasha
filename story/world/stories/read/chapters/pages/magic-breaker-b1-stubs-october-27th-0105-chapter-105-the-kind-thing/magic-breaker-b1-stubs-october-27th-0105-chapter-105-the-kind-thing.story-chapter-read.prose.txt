@@ -1,0 +1,99 @@
+When I walk down the staircase to the main room of the inn, Harry turns to look at me. Then he gives a soft whistle. “Snow,” he calls. “You figured out an attunement loop?”
+
+I tilt my head, then look at my vessel. I suppose, in a way, the construct of [Selection] and [Suppression] does look a bit like a loop. “I guess?” I say. “You knew this was a thing?”
+
+He snorts at that. “Yeah, I knew,” he says. “Pretty common, especially for descenders. Almost necessary if you wanna go down a few floors.”
+
+The part he isn’t saying is that he has one active, too. Something similar to my new technique. Funny, that. Retired adventurers in unlikely places. “Why didn’t you tell me about it?” I ask.
+
+“What, and deprive you of the joy of figuring it out?” Harry smirks. “You wouldn’t have listened. Plus, you were still a few dozen points off getting seriously injured. I’d have told you in a level or ten.”
+
+At that, I nod. It makes sense. He seems to understand me, just a bit. When he doesn’t add anything else for a few seconds, I simply say “Alright,” and decide the conversation is over. Instead of focusing on Harry, I sit down with the one other person in the inn.
+
+Amelie is in her wheelchair, across from me. The others are all out on errands. I’m working more on my skills, while she’s expanding her network.
+
+Turns out, this floor is rather good at letting her make puppets. Apparently, [Puppeteer] works best when the creatures she reanimates used to be alive, in some form. They also copy over some of the rudimentary intelligence. So, turning an ant puppet into a scout might be hard, since ants aren’t particularly smart, but using a human corpse to relay information might work.
+
+She’s currently eating while her other hand dances through the air with faint, ethereal strings coming from it. They’re so thin I can barely spot them, and some seem to fade away into the ether, or pass through walls. “Can you control the puppets when they aren’t taut?” I ask.
+
+Amelie looks up from her food, meeting my eyes. She smiles, slightly. “Oh, have I awakened thine curiosity?”
+
+I nod, shamelessly. “Yeah,” I reply. “Necromancers are cool.”
+
+“I’m not a necromancer,” she returns, pouting.
+
+“You turn corpses into useful puppets,” I say.
+
+Amelie frowns, just a little. “I’m a puppeteer.”
+
+“Sure,” I say with a shrug. “Whatever works for you.”
+
+She pouts some more, eats another bite of food, then focuses on the strings again. “If you must know,” she says, “I evolved my job. Now, I can weave ethereal threads. They pass through objects when infused with a bit of mana. This means I can now use my puppets even when they’re distant, and even when there is something in the way.”
+
+“That’s very cool.”
+
+At that, she smirks, just a bit. “It is, isn’t it? Right now, the puppets are gathering more plant matter for me to use. It’s amazing what this floor regularly sheds.”
+
+I tilt my head a little. “Are you making golems?” I ask.
+
+She pouts. “They’re grafted puppets.”
+
+What a vain girl. I smile, slightly, at her antics. “I see. Is there any chance you’d like me to attempt enchanting these grafted puppets of yours?”
+
+A glimmer twinkles in her eyes. She leans forward a bit. “My, my. Now that does seem interesting.”
+
+I smile. It seems like a good opportunity to practice my skills. “Just let me know when you’ve got something for me to work on. And ask Bay if she wants to add some armor, too, maybe.”
+
+“Hmmmm,” Amelie hums. “The armor may be too heavy, but it’s worth an attempt. Let’s see here, we could attach thin metal plating at the joints…”
+
+And then she goes on. We theorize about her grafted puppets. It’s a little fun, being part of a task like this. Usually, I’m not a fan of group projects, but when everyone has their own specialty, it’s a lot more interesting. Amelie makes the puppets and gathers the materials. All I need to do is the fun part - inscribing runes. Maybe I’ll take a look at how she makes the puppets move. Some string-based abilities could be useful.
+
+There’s a small smile on my lips as we theorize. The third floor is proving a lot of fun so far - as well as a lot of trouble. We still have to set the wayfarer’s guild on fire, after all, and then there was the ominous message about lighting a beacon for the Flametouched. But surely nothing will come of that. Surely.
+
+The door to the tavern swings open, and Vincent walks in.
+
+I look over, brushing him with my mana sense.
+
+[Fighter, lv. 28]
+
+Then I look at him. There’s blood staining his clothes, and he’s covered in a few wounds. In fact, he looks in pretty crappy condition. He stumbles against a table, smearing blood all over the furniture. He can barely stand.
+
+A moment later, his eyes trail to me. They’re fully aware, not even slightly cloudy, and he looks at me… hungrily. “Hey,” he gasps. “Ion. You. You’re a healer, right? I’ll pay anything you need, I’ll-”
+
+Amelie looks at me, as if considering her words. Harry eyes him as well, giving the bloodstains a glance. There’s a lot of blood on him - quite a bit in places that he’s not even hurt. “Did you get into a fight?” I ask, standing right in front of him.
+
+He reaches out for my shoulder, as if he wants to steady me, but I take a step back. He looks at me, and I see his lips pressed into a thin line for a moment. “I did. In the undergrowth, it was… the plants came alive, and… they all died.” Tears form at the edges of his eyes. “They all died.”
+
+I look at him. “Two minor requests,” I say. His eyes widen.
+
+“But… you only charged one before!”
+
+“My prices have gone up, since I’m a better healer now,” I reply calmly.
+
+Vincent grits his teeth. “Fine,” he grinds out. “Fine, damn it. Now stitch me back together.” Again, he moves to lean on me, but I don’t let him.
+
+“Sit in a chair,” I tell him.
+
+This, at least, he does without complaint. I sit across from him, making sure there’s a reasonable amount of distance between us. Vincent eyes me, and I try to [Select] him.
+
+The skill slips off, unable to target him properly.
+
+He blinks at me. “What was that?”
+
+“It’s a targeting skill, to let me heal you more easily,” I reply.
+
+“Can’t you just do it?” he asks, annoyed.
+
+I frown. “It’ll be faster and more efficient this way.”
+
+“What do I care about your efficiency?” he snaps. “You’re a healer. I’m paying you. Do your job!”
+
+That annoys me. Unfortunately, “being annoyed” is not a good enough reason for me to let him keep bleeding all over the floor. So, I force a blank expression on my face, and, despite the nagging feeling I have, I cast a healing spell.
+
+Vincent’s lips twist upwards.
+
+[New Skill acquired!]
+
+[Intuition 0 > 1]
+
+The bad feeling worsens, and mana like an oil slick flows over the cloud of healing. I look at Vincent’s grin, blank faced. Then, his skill considers all conditions active, and I feel a knife stab into my stomach.
