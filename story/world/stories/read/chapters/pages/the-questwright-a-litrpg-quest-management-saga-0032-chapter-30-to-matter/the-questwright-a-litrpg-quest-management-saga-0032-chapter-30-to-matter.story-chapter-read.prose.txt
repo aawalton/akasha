@@ -1,0 +1,203 @@
+It took Cass an hour to work through all the nodes and the options they contained. A less intelligent person would likely move straight to the first major node. After all, it was right there, just within reach, and only two minor spots up. But Cass was smarter than that.
+
+Several nodes surrounded each major. Through careful study, he discovered that each was directly connected to the centralized node, such as Waypoint. By unlocking the smaller, passive effects of the options around it, he would be enhancing the total effect when the major was finally active.
+
+[Minor Node: Route Optimization]
+
+Efficiency blooms where timing aligns.
+
+Cost to unlock: 30xp
+
+Grants a 10% efficiency bonus to Quests with pre-established delivery or service times.
+
+No nodes currently connect to Route Optimization
+
+Or even the one just above it.
+
+[Minor Node: Pulsed Reporting]
+
+Maps are often the bearers of bad news.
+
+Cost to unlock: 60xp
+
+The heatmap overlay now updates more frequently.
+
+If an alert persists for more than one full day, it is auto-flagged to the QuestWright.
+
+Note: The Functionality of Pulsed Reporting will not work without first unlocking the major node: Waypoint
+
+No nodes currently connect to Pulsed Reporting
+
+That’s why, rather than rushing the major node, Cass picked out several minor nodes to unlock that would help him reach it all the faster.
+
+The first granted additional experience if a Questor took a fast route and arrived at their source location with extra time. It cost only twenty experience, a pittance that could be made up with a single day of Quests and a challenging workout. That thought fluidly brought him to another.
+
+It’s funny how quickly twenty experience turned into a small amount. Is that time, growth, or hubris?
+
+The second node was the first of its kind that he’d found. Its design was more long-term, with only a small immediate effect. Called Quiet Stabilizer, it increased the amount of experience he gained every time three Routine Quests were completed. It seemed small, but he knew that it would explode the longer he worked.
+
+After feeding it the required amount, Cass was left with a little over a hundred experience remaining. The final node he was weighing stood alone, unlike the others.
+
+[Minor Node: Assignment Spread Monitor]
+
+Balance is a silent strength.
+
+Cost to unlock: 90xp
+
+The System will now automatically track whether any location or zone is receiving disproportionately fewer Quests.
+
+It all came back to what Mr. Moore had asked him earlier in the day. What did he want from Liora?
+
+To build a beautiful city, every part of it needed the right amount of attention. In Cass’s still-evolving view of his Calling, he understood things a little better now. Liora was a shiny rose. And as every gardener knew, roses sometimes needed pruning for balance.
+
+He hadn’t meant to lock it in just yet, but somehow, his hand had seemed to move on its own. The node lit up blue as the experience came in; a new light on the Path of Logistics.
+
+Calling: QuestWright Initiate: Cassio Vale
+
+Level: 5
+
+Experience Accrued: 704.69
+
+Experience required for the next level: 295.31
+
+Unspent experience: 44.69
+
+Total Stalwart Tokens: 2
+
+Total Survivor Tokens: 15
+
+“How quickly it goes.” There were more options, but the ones he wanted sat between fifty and seventy required experience, and he didn’t have any Quests out there right now aside from Gary’s routine. “Patience is the greatest of virtues.” He said softly.
+
+Standing up, Cass felt a twinge in his arm. He rolled up the sleeve and found swirling scar tissue covering the Scrounger's former damage. It still wasn’t fully healed, but it was close.
+
+He did some quick mental math to understand his new limitations. He’d nearly regenerated from bone-deep damage in under eighteen hours. It was incredible. Amazing, really. But along with that consideration came a recent memory, one in which his physical training instructor came to mind: “Just remember, everything dies when you cut off its head.”
+
+Shaking that thought away and unintentionally touching his neck, Cass began the short walk to the Quest Registry. For once, it was mostly empty, but not entirely. Standing behind the first-floor desk was Mr. Moore, already appearing at ease as he spoke to several men in Silvers regalia.
+
+Cass approached as they were mid-conversation.
+
+“Like I said, I think we can handle it, Clerk.” The tall man near the front said. Cass couldn’t see his face, but he could imagine the sneer that likely covered it. “It’s just some Scroungers.”
+
+“Incorrect,” Moore’s ever-serious tone replied as his fingers drummed the desk’s wood, “Several monster packs were spotted in the area, along with a voracious pack of Skreels. One of their trademark screams, and you’d be torn to pieces within minutes. I cannot allow that.”
+
+A big man in the back stepped forward, pulling his friend aside, “Who do you think you are?”
+
+“Thomas Moore, Head Clerk of the Liora Guildhall Quest Registry, Tier 6 Maestro, and the only person aside from the young man behind you and the Guildmaster who can forever ban you from ever taking another Quest from our boards.”
+
+He said all of it in the exact same tone as before, with zero change in expression. Rather than be put off by it, Cass was fascinated. It wasn’t the threat that caught him in the moment; it was the way it was delivered. No fluff, no bluster or raised voice. Simply consequences. Truth.
+
+Comparatively, when he’d spoken with the man harassing Chancey in the Petition Chamber, he’d used Kara’s authority to bolster his own. But here, this man just spoke of what would happen, and watched their attack fall apart. It was inspiring, in an odd way. But some ears were deaf to more than sound, as the Leader stepped closer.
+
+“Listen here, little man. A tier 6 Clerk is still a Clerk. We know all about your kind.”
+
+“My Calling, you mean?” Mr. Moore asked, voice unchanged.
+
+“Yeah. Bunch of jacked-up paper pushers. My dad told me about your kind, before the Reshaping. Said you’d work at someplace like the d-dmv. Get your uppers from knockin people around with bullshit.”
+
+“I assure you, Mr. Jain. That is not the case here.”
+
+Cass stepped forward, deja vu settling around him like fog. “What’s going on here?”
+
+“QuestWright, I have this handled.” Mr. Moore stated, then looked back at the Silvers’ leader, “You are a group of Tier 1 Combatants, but the makeup of your team is abysmal. No team needs three armored fighters and two archers. You have no magical users, no healing, and from what I can see, your equipment hasn’t been cleaned in several weeks. Worse still, I believe Scroungers by themselves might overwhelm you the moment you become outnumbered. You are not prepared for that Quest.” He stood up a little straighter, “Hand it over to my fellow Guild member there, and be on your way.”
+
+The man gripped the edges of the desk, tendons standing out on his hands, “Make me, paper man.”
+
+“Frank, come on.” One of the thin men in the back of the group said.
+
+“No! He insults me, our team, and my equipment, then thinks we’re just going to leave with nothing for our trip here? I don’t think so.”
+
+Mr. Moore’s eyes became glassy for a moment, then he blinked, just as all five of them acted like they’d been struck.
+
+“What the hell is this!” The leader yelled.
+
+“You’re banned from all Quests provided by the Liora Guildhall for the next week.”
+
+“Like hell we are,” He said, walking towards the end of the desk where people passed through.
+
+“Two weeks.”
+
+“Frank!” One of the armored men said.
+
+“Give it over, Frank!” Said the same thin man from before.
+
+He stopped when he found Cassio Vale standing in his way with an arm stretched out. “Please stop, this isn’t the way to go about things.”
+
+“Move, kid. He needs to learn how things work around here.”
+
+“No,” Cass replied, feeling a warmth beginning to spread through his body.
+
+Frank swung an arm back, ‘I’m warning you. We’re Silvers. We don’t take orders from you Administrative types.”
+
+Cass looked him dead in the eyes, “And yet, I’m still here.”
+
+If that man thought Cass was going to walk away, he’d severely misjudged the situation. Long before Scroungers and Skreels had become a part of his life, Cass had spent many hours training with his mother and getting between those who wanted to project power, and those who just wanted to live their lives. In his time within the Rings, Adya had been forced to fix his stance because it had been so long. Fear had pushed his lessons to the back of his mind. Fear had controlled him.
+
+But as every combat veteran across history knew, the more you practiced a thing, the less fear and mystique it had over you. Cass had single-handedly taken down a pack of Skreels using nothing but gut and quick thinking.
+
+He’d defended his friends in a second ambush, taking most of the damage on himself to spare them. He wasn’t going to back down now. Besides, it was like Gary had said some time ago. Cass tended to fix problems the moment he found them.
+
+And this man was a problem.
+
+The fist came at him with slow inevitability.
+
+Cass didn’t flinch. Trying to cultivate the exterior Mr. Moore had been exemplifying for him all day, he calmly stepped to the side of the attack as his mother’s voice rebounded in his head.
+
+“When you’re against a physically superior opponent, get the inside leverage, and stay there!”
+
+Placing both hands on the edge of the arm completing its punch, he pushed, taking a light step with it for added weight. Frank’s momentum and balance were thrown off, knocking him sideways and further away from the desk, which was Cass’s goal.
+
+“Three weeks.”
+
+“Frank!” One of his team members shrieked.
+
+As he was turning, face flush and eyes dark with rage, one of the other armored men barked out, “Enough! You keep going, and we’ll lose a full month.”
+
+Frank's head snapped toward him, “Really, you’re going to back down just like that? We’re Silvers!”
+
+“Silvers…that’s right.” Mr. Moore said softly, “I’ll speak to your leader this evening. I believe they invited me for dinner upon my arrival. I’m only too happy to accept, of course.”
+
+“Let's go!” The same armored man from before yelled, then intentionally put himself between Cass and Frank.
+
+Standing on his toes to look over his team member’s shoulder, he yelled out, “This ain’t over, kid!”
+
+“Four weeks.”
+
+“Frank! Just shut the hell up already!”
+
+As they walked away, Mr. Moore waved Cass over.
+
+“Why did you do that?” He asked with a raised brow, the first real emotion Cass had ever seen from him.
+
+Cass decided to go with honesty, “I don’t like bullies.” He hesitated a moment, then spoke up again, “If he’d made it around the corner, things might’ve gotten worse.”
+
+“Worse than a QuestWright fighting an idiot with a Combat Calling?”
+
+“I can manage myself,” Cass replied a little defensively.
+
+“Clearly. Well, I will have to compliment Guild Trainer Tullis, her notes are well written. Now, I received several messages from your instructors that you did not attend any of your later classes today. I assume that is because you have been considering my question from earlier?”
+
+“I’ve been thinking about it all day, and yeah, I think I have an answer.”
+
+Moore nodded, “Proceed, but” He held up a thin finger, “don’t give me a long speech. I want the real answer, not the planned response.”
+
+“I,” Cass had to rework what he was going to say, as Moore had hit the mark. He did have a speech in mind. The Clerk stood there patiently, not saying anything as he organized his thoughts.
+
+“What I want from Liora is…to matter. To make people like that think twice before stomping on their problems just because they can. ”
+
+Moore steepled his fingers together, “Is that all?” he asked in an unimpressed voice.
+
+“No,” Cass shook his head, “I want a city full of people doing work that matters to them as well, and-and being able to choose how they do it.” He considered himself, deep down, beneath the turbulent fears and lows he’d recently experienced. “I want a city where joy isn’t rare, and the future seems secure, not smoke drifting over the landscape.”
+
+“Better. Though to get there, you would have to create a list of priorities to follow.”
+
+Cass nodded, “I’ve considered that. I have three rules for creating Quests, but now, I don’t think that’s enough.”
+
+“No, they wouldn’t be.” Stepping away from the desk, he came around the corner, “Rules govern consistency, and it speaks well of you that you’ve already established them. But without priorities, all you have is what you won’t do. The first without the second only leads to stagnation.”
+
+“So…” Cass scratched the back of his neck, “What do I do?”
+
+“You have set yourself on a difficult road, Cassio Vale. The question that naturally branches from the first I asked you is this: What will you prioritize when every choice comes at a cost? If you can answer that, you will have a cemented vision for the future you want to build.”
+
+Cass knew the correct response, “I don’t know, but I’m hoping you can help me with that.”
+
+Moore smiled, “Perfect. Now we begin.”
