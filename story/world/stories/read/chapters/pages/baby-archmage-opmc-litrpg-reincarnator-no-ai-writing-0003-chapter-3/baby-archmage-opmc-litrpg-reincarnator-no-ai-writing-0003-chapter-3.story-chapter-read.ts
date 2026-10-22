@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const babyArchmageOpmcLitrpgReincarnatorNoAiWriting0003Chapter3 = {
+  id: "01a16484-a7e0-7a4e-ac78-8249a4410876",
+  type: "page-type/story-chapter-read",
+  slug: "baby-archmage-opmc-litrpg-reincarnator-no-ai-writing-0003-chapter-3",
+  position: 3,
+  publishedAt: "2026-10-19",
+  unit: "unit/words",
+  title: "CHAPTER 3",
+  story: "story-read/baby-archmage-opmc-litrpg-reincarnator-no-ai-writing",
+  ownLength: 2973,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "4211405",
+      externalLink:
+        "https://www.royalroad.com/fiction/198845/baby-archmage-opmc-litrpg-reincarnator-no-ai-writing/chapter/4211405/chapter-3",
+    },
+  ],
+  createdAt: "2026-10-22T16:49:37.759Z",
+  updatedAt: "2026-10-22T16:49:37.759Z",
+} as const satisfies StoryChapterRead
