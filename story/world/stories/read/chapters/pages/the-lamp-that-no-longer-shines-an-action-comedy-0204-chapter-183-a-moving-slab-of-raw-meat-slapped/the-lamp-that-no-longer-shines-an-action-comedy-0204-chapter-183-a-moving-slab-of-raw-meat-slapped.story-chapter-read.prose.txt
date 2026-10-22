@@ -1,0 +1,227 @@
+[Time]: Summer Break, Day 49 — 1:00 PM[Location]: White City · Royal Rosas Club · Potion Lab
+
+Hathaway slid the thick stack of annotated papyrus across the counter.
+
+Agnes received the finalized schematics for The Banishment of Sorrow without ceremony. Her eyes tracked the extraction architecture, the discrete rollback checkpoints, the abort fail-safe she had retrofitted into the third-tier node. For two minutes, the only sound in the dispensary was the sharp rustle of parchment and Agnes's nail tapping the wood in irregular time.
+
+Then Agnes turned, disappeared into her brewing chamber, and returned with a single crystalline vial.
+
+Hathaway accepted it. The liquid inside was a pale, swirling amber. She uncorked it, bracing her palate for the standard alchemical assault: battery acid, liquefied rust, the taste of regret made corporeal.
+
+It tasted like memory.
+
+A warm, syrupy sweetness flooded her tongue, carrying the nostalgic weight of sweet potato soup simmered low and slow, laced with the delicate crunch of silver ear fungus and the deep, rounded sweetness of longan. It radiated gentle heat all the way down her throat, then inverted the moment it hit her stomach into a crisp, mint-like coolness. It was simultaneously a winter broth and a summer iced drink. It was profoundly, completely, categorically unfair.
+
+Before her prefrontal cortex could properly authorize the consumption, she had tipped her head back and drained the vial.
+
+She lowered the glass. Subconsciously, she ran her tongue along the rim, chasing the last microscopic drop. Completely dry.
+
+That, her sensory array reported, overriding all analytical functions, was the greatest beverage I have consumed in two lifetimes. It outclasses mint iced-tea beer. It is smoother than Moon Sugar. I would pay exorbitant subscription fees for continuous access. I would personally crush the continent's supply chain and monopolize distribution.
+
+A sharp, crystalline clarity slammed into her consciousness: the exact sensation of stepping out of an ice-cold shower into a suffocating, sweltering afternoon. The mental fog dissolved. The impossibly complex extraction nodes, the transactional rollback loops, the fail-safe abort parameters: the entire spell model burned itself into the bedrock of her memory, the code etched in steel.
+
+A strange, weightless sense of unreality settled around her shoulders.
+
+It's done. The longest matrix she had ever compiled. The highest-tier spell she had ever attempted. It felt like standing at the end of a very long, very dark hallway, finally looking back at the door she had just locked behind her.
+
+She set the empty vial on the counter and looked across at Agnes.
+
+The Pharmacist was already turning back toward a simmering cauldron, her expression locked in its habitual, deep-set irritation. The dark circles under her eyes were heavy, the kind that had been accumulating for some time.
+
+Hathaway's developer brain executed a sudden lateral connection.
+
+Every single time she had been here, at any hour, Agnes was standing behind that counter. The woman held an A2 Potions certificate. The discipline's official employment rate was 1.2%.
+
+She has the credential to earn a hundred and twenty thousand a week working from a private laboratory. And she is here, watching potions cool.
+
+"No wonder you always look like you want to murder someone," Hathaway murmured.
+
+Agnes paused mid-stir and turned. She gave Hathaway a long, flat, comprehensive look.
+
+"Get out," Agnes said.
+
+[Location]: White City · Royal Rosas Club · The Revolving Restaurant
+
+Hathaway had walked into the Revolving Restaurant for a late lunch when she stopped.
+
+Sitting alone at a corner table by the window, her forehead resting against the heel of her hand, was Heidi Lucent. She was staring at an empty teacup, looking profoundly, immovably drained.
+
+Hathaway's heart executed a sharp, anxious spike.
+
+The karma payload.
+
+She crossed the room immediately. "Are you alright? The karma—is your physical architecture compromised?"
+
+Heidi lowered her hand. She exhaled a long, quiet breath. When she looked up, the corners of her mouth curved into a faint, ethereal smile, and her voice chimed in the quiet dining hall with the clean, clear resonance of glass wind chimes.
+
+"It is you, Hathaway."
+
+She gestured toward the empty chair across the table. Hathaway sat. The midday light filtered through the stained glass windows, casting long, colored shadows across the linen tablecloth.
+
+"I heard from Irene that you were present at the scene," Heidi said, her tone soft. "You did exceptionally well." She studied the empty teacup. "Knowing when to ask for help... that is never a bad habit."
+
+Hathaway lowered her head. "I only did the single, mathematically viable thing I could do."
+
+A shadow, brief and heavy, moved across Heidi's features.
+
+"Regardless of the outcome," Heidi said, speaking more to the porcelain than to Hathaway, "one must always exert every possible effort. If nothing else, it lessens the weight of the regret that follows."
+
+The Restaurant was quiet.
+
+"Are you regretting something?" Hathaway asked carefully.
+
+Heidi exhaled: a tired, hollow sound.
+
+"I was," Heidi said quietly, "once Evangeline's professor."
+
+Hathaway's eyes widened. Of course.
+
+"Did you know?" Hathaway asked, the question slipping out before she could filter it. "Did you already know back then what she would become?"
+
+The ambient temperature around the table dropped. Heidi's eyes darkened, the wind-chime voice descending into a register of freezing, absolute contempt.
+
+"I knew the microsecond I laid eyes on her," Heidi said.
+
+She looked directly at Hathaway, her expression chillingly flat.
+
+"That kind of perfection... it was assembled entirely from other people's patterns, with no original signal underneath. An echoing hollow, completely devoid of a self." Heidi's fingers tightened against the table edge. "It looked like a moving slab of raw meat slapped onto a skeleton."
+
+The visceral, clinical horror of the description hit Hathaway's logic engine like a physical blow.
+
+The clearest evidence had been the signing itself. When Irene produced the contract, Evangeline had looked genuinely, visibly nauseated. And then she had lifted the quill and signed with a sharp, elegant flourish.
+
+She had no "Who Am I?" firewall to breach, Hathaway's developer brain compiled, cold and steady. She had no "I" to defend. She could accept the ultimate degradation with serene composure because there was nothing inside her to be offended.
+
+She lived more fiercely, survived more completely than anyone else, precisely because she lacked the core that gave a sentient being any reason to live.
+
+Heidi's knuckles white against the tablecloth.
+
+"Have you ever heard," Heidi asked, "of the 'Great Schism' at Yggdrasil Academy?"
+
+Hathaway shook her head.
+
+"During her time as a student," Heidi said, "Evangeline was the undisputed leader of the Holheim faction." She made a small, dismissive gesture. "Milan'thir had its own student leaders, of course. Your cousin Rhode, for instance. But among every student leader active during those four years, none could rally the volume of students Evangeline commanded. And none wielded absolute, unquestioning obedience the way she did."
+
+"Speak of the devil."
+
+The voice boomed across the Revolving Restaurant with zero regard for indoor acoustics.
+
+Rhode strode up to the table, sunglasses perched firmly on her nose, radiating the high-octane arrogance of someone whose team had just won a geopolitical war without having to play in the final match. Bella drifted half a step behind her, draped in theatrical gloom.
+
+Rhode offered Heidi a casual salute, then immediately zeroed in on Hathaway, reached out with both hands, grabbed her cheeks, and pulled.
+
+"What are you doing?!" Hathaway swatted her cousin's hands away, rubbing her face.
+
+Rhode rolled her eyes and adjusted her sunglasses. "Just checking to see if you absorbed lethal toxins after wandering into the bat cave."
+
+Bella stepped forward, sweeping her cloak back to execute a deep, theatrical bow before Heidi.
+
+"Ah, Radiant Sovereign of Fortune's Unbroken Current," Bella proclaimed, her visible eye gleaming with manufactured awe. "The blinding silver resonance of your soul-field threatens to sear the encroaching void from my cursed eye. Truly, the cosmic threads themselves quiver in your incandescent presence."
+
+Heidi, clearly accustomed to the specific neuroses of the Ludwig bloodline, offered a polite, profoundly tired nod.
+
+Suitably acknowledged, Bella spun on her heel and turned her single uncovered eye on Hathaway.
+
+"Blood of my blood," Bella intoned, her tone shifting into trembling reverence. "Your reckless valor shall be etched into the eternal monoliths of history."
+
+A cold sweat broke across Hathaway's forehead. How far has this mutated?
+
+"What exactly do you think I did?" Hathaway asked warily.
+
+Rhode grinned, predatory and delighted. "Word on the sky-lanes is that you played a crucial logistical role in turning the Tarnished Crow into a collared pet."
+
+"I pinged Irene's private channel!" Hathaway protested, waving her hands to manually dispel the narrative. "Irene brought the contract! The subjugation had nothing to do with me—"
+
+The correction bounced off Rhode's armor of willful narrative bias without leaving a dent. Rhode rubbed her chin with dark, satisfied amusement. "I figured the absolute ceiling for that psycho was a few months in a municipal hamster wheel. To think it ended like this." She shook her head in reverent appreciation. "A slave contract. Truly a victory."
+
+The grin faded. Rhode's jaw set, something old and dark moving through her expression. She looked at Heidi. "A damn shame they never kicked her out."
+
+Heidi slowly rotated her empty teacup between her fingers. A smile touched the corners of her mouth, faint, razor-precise, and cold enough to drop the room temperature.
+
+"'Witches are chaotic evil by nature,'" Heidi said quietly. "'Talent is the only currency that matters.'" She let her hands fall. "It is a pity that they failed to recognize the fundamental structural difference between 'chaotic evil' and 'hollow.'"
+
+Beside the table, Bella pressed a hand lightly against the edge of her eyepatch and went entirely silent.
+
+Hathaway looked at the Chuunibyou.
+
+Weeks ago, Bella had put it in words Hathaway hadn't been able to find herself: a hollow abyss that silently devours anyone foolish enough to draw near.
+
+Hathaway felt the structural integrity leave her knees.
+
+Is this the operational payload of Chuunibyou Insight? she thought, staring at Bella. What is the tactical value of a divination protocol so thoroughly buried in archaic metaphor that you can only decode it after the apocalyptic event has already concluded?!
+
+Rhode snorted, breaking the silence. "Only Cecilia would remain pathologically obsessed with something that empty."
+
+At the mention of Cecilia's name, Heidi pinched the bridge of her nose, her eyes closing.
+
+"Rhode," Hathaway said, pivoting. "What was the Great Schism?"
+
+Rhode's face darkened instantly. The arrogant swagger evaporated, replaced by deep-seated pride and genuine, burning fury in equal measure.
+
+"After Evangeline enrolled," Rhode said, her voice dropping into a taut growl, "the friction between Milan'thir and Holheim breached the standard rivalry parameters. Nobody could ever prove exactly how the escalation triggered. It just..." She made a frustrated gesture. "...happened."
+
+"Because," Heidi interjected quietly, "she never committed a single act that could be directly, administratively traced back to her."
+
+Rhode's head snapped up, as if a missing line of code had suddenly compiled. "The Schism started when the Holheim students issued a mass formal apology to Milan'thir."
+
+Hathaway stopped breathing. "An apology? Holheim students apologized?"
+
+The geopolitical implication hit her with the force of a structural collapse. The ideological foundation of the Inner Sea rested on the understanding that Holheim did not apologize.
+
+"Evangeline issued the directive," Heidi confirmed, her voice devoid of all inflection. "And every last Holheim student obeyed."
+
+"The psychological fallout nearly tore the academy from its roots," Heidi continued. "When the unyielding bow, the opposing faction assumes it is the preamble to a slaughter. The paranoia became a contagion. The divide between Holheim and Milan'thir polarized into a binary stance. Neutrality was administratively revoked. Students from the other ten districts were forced to choose sides and militarize. It escalated from cafeteria brawls to political assassinations. Blood on the marble floors."
+
+Hathaway felt the blood drain from her face.
+
+Those were her hallways. Her cafeteria. Her brain forced the rendering: students butchering each other, paranoid ambushes between classes, blood pooling on the pristine floors she walked every day.
+
+"I submitted the motion to expel her," Heidi said, her tone flat and perfectly still. "I failed."
+
+"The tribunal declared the Ludwig testimonies 'severely compromised by inherited bias' and discarded them entirely!" Rhode spat, her fists clenching. "They threw out our evidence!"
+
+Hathaway looked at her cousin. Rhode had been in the same year as Evangeline. She could only begin to map the scale of what her brash, straightforward cousin had survived during that administrative warzone.
+
+Rhode exhaled, sharp and disgusted. "Whatever. The Tarnished Crow walked away without a single demerit and graduated with full honors." She crossed her arms. "She left. But her little sister still had to enroll at the exact same school."
+
+Hathaway's heart slammed against her ribs.
+
+Cecilia. Evangeline graduated, and Cecilia walked through those doors. An eighteen-year-old Cecilia, her mental architecture already fractured from her sister's departure, stepping into a campus still scorched from the war her sister had started.
+
+Hathaway looked at Bella. Bella had been a senior when Cecilia enrolled. Rhode had mostly been off-campus by then.
+
+Bella cleared her throat and raised a hand, preparing to deploy a theatrical, grandiose summation.
+
+Heidi shifted her gaze to Bella and leveled a look that was quiet, precise, and cold enough to freeze a river.
+
+"Bella," Heidi said softly. "What you did during that period was not exactly bathed in glory."
+
+Bella coughed. The chuunibyou persona evaporated on contact. When she spoke, her voice was flat, brief, and devastatingly clear.
+
+"When Cecilia enrolled, the concentration of Ludwig students at the academy was statistically dominant. Every time a Ludwig crossed paths with Cecilia, they initiated a provocation. Cecilia never once issued a formal challenge." A pause. "But she accepted every single one."
+
+Hathaway stared at Bella. "Is that all?"
+
+Bella clamped her mouth shut and looked at the floor.
+
+Hathaway loved her cousins. She loved Rhode and Bella, their fierce loyalty, their brash, unkillable pride, the way they had her back without question or caveat. She did not want to open a directory containing logs she would not be able to un-read. Even for a second.
+
+But there was one remaining query she could not leave uncompiled.
+
+"What about Victoria?" Hathaway asked, the question coming out tighter than she intended.
+
+Rhode and Bella exchanged a heavy, complicated look.
+
+Rhode sighed, her shoulders dropping slightly. "She had a good older sister."
+
+"By the time Victoria enrolled," Rhode grumbled, "the operational environment had stabilized. Because of the massive age gap between her and the older two, the Milan'thir-Holheim blood-feud fatigue had set in and the hostilities had cooled naturally. The Ludwig concentration on campus had dropped to an unprecedented low." She kicked at the table leg. "She wasn't carrying the Heir title either. The difficulty modifier on her enrollment was practically set to Story Mode."
+
+Thank Ovelia, Hathaway thought, her eyes closing for a second. At least Victoria didn't walk through that specific meat grinder.
+
+Rhode scowled, crossing her arms tighter. "And you weren't even on campus back then. If you had been, there is absolutely no way we would have let her coast through her first semester so comfortably."
+
+A few feet away, Heidi's expression underwent a subtle, complex shift. She lifted her teacup, raising it to her lips to hide her mouth.
+
+Hathaway looked at her cousin. She adopted the perfectly neutral tone of a system administrator delivering a patch note.
+
+"She is my girlfriend."

@@ -1,0 +1,251 @@
+[Time]: Summer Break, Day 45 — 2:10 PM[Location]: The Crown of Ovelia · Grand Masters Main Arena · Outer Festival Grounds
+
+Allison stepped through the [Fey Star] deployment gate.
+
+The surrounding plaza seemed to absorb the presence on the broadcast screen and voluntarily reduce its own atmospheric pressure in deference.
+
+Mihaye was the first to break the silence. "She's still running on the baseline restriction?"
+
+Alice confirmed, her tone completely stripped of its usual playful deviance: the flat, reverent register of a high priestess confirming a foundational text. "Sixty-three thousand, one hundred and twenty-eight. Exactly. The Big Boss Cat allocated this vessel the precise maximum pool of Lin Zhaojun."
+
+The woman who had defined the modern dueling paradigm, built the reputation of the strongest duelist in the world, and whose highest possible praise from any combat analyst was a single sentence: Her style carries the echo of Ovelia in her youth.
+
+Ovelia only deployed Aspects to competitive arenas because if she appeared in person, she stopped being a player.
+
+The moment the Witch of Eternal Slumber stepped onto an arena floor, the event stopped being a competition. It became a Game Master logging into a ranked lobby with full admin privileges.
+
+But by hard-capping her Aspect's mana pool to the precise limit of the server's most mechanically gifted player, the broadcast message was immaculately, arrogantly clear.
+
+Even confined to the parameters of a standard player character, I am still the ceiling of this universe.
+
+One of the three fundamental rules of Witch dueling surfaced in Hathaway's mind automatically.
+
+Rule Two.The Offensive Clause.
+
+Named in every academy textbook, every historical record, every rulebook: the Ovelia Rule. No Witch may chain more than five consecutive Legendary-tier spells without interruption.
+
+The only rule in the history of competitive dueling named after a single person. Not as an honor. As a nerf.
+
+Drafted and violently legislated into existence because Ovelia had spent fifteen uninterrupted years treating the competitive ladder as her personal sandbox until the league had no choice but to hard-code an emergency patch into the physics engine.
+
+Hathaway looked at the screen and felt the back of her neck prickle.
+
+This is the hardest player-scaled raid boss in the server. Designed by the GM. The current test: are you worthy of the title?
+
+[Selected Terrain: Sector 1 — Mirror Lake.]
+
+The broadcast director engaged the tactical dampening array, reducing the visual feed to one-third speed. Even at one-third speed, Irene's opening sequence was an administrative offense against visual comprehension.
+
+In the history of competitive dueling, the opening frame was defined by a few foundational paradigms.
+
+The Classical opening: standard [Transmutation] paired with [Conjuration] summons for heavy board control, a reliable and enduring strategy when most reality-breaking Legendary spells were banned from turn-one casting.
+
+The Modern opening: [Abjuration] and [Divination] layered with Conjuration crowd control, the standard-bearer for the current generation.
+
+But apex predators did not play standard formats. They played custom architectural routines.The sequence Irene executed across the mirror surface had its own dedicated entry in every modern dueling textbook: [Calamity].
+
+The Golden Iris champion danced across the water, her light sword tracing a fluid, hypnotic arc. But every single beat of her footwork detonated five distinct [Evocation] spells simultaneously.
+
+A crushing ocean wave. A blizzard of jagged, carriage-sized hailstones. A localized volcanic eruption. A hurricane laced with obsidian shrapnel. A beam of raw kinetic force.
+
+Woven between the elements: ten overlapping vectors of psionic assault.
+
+This isn't about casting speed anymore, Hathaway's processor stalled, rebooted, and processed again. The question is: how do you mathematically respond to an ocean of Tier-7 to Tier-9 artillery using Tier-5 and Tier-6 outputs?
+
+"Irene possesses the greatest mana control and morphological mastery in recorded history," Mihaye said, her voice stripped of its usual gambling energy. "She doesn't need dedicated Abjuration wards. The overflow density from her Evocation spells automatically compiles into an impenetrable defensive formation."
+
+Hathaway tracked Irene's execution through the slowing field.
+
+Microsecond bursts of [Quicken] threaded into the sequence, accelerating the casting frames. [Twin Cast] chained immediately after, multiplying each catastrophe.
+
+Through the apocalyptic tempest, Irene moved like liquid silver. The light sword drifted in her grip with terrifying, fluid economy, deflecting shrapnel with microscopic wrist adjustments, her stance constantly resetting, waiting for the precise microsecond of spatial exposure to close the gap.
+
+Allison's response was a masterclass in exploiting the physics engine.She cast the lowest-tier spell in the compendium: [Magic Missile].
+
+In staggering quantities. A literal kinetic storm.
+
+As the missiles hung in the air, Allison layered a massive [Illusion] over them, tricking the localized physics of the environment into registering the low-tier darts as possessing a density matching Irene's weather system.
+
+When Irene's ocean wave shattered the missiles, Allison seized the resulting shrapnel with [Transmutation] and instantly reforged the debris into secondary spells that fired back.
+
+Then she used [Enchantment] magic on the elements themselves.
+
+The incoming hailstones and volcanic fire warped their trajectories mid-air, their underlying causal logic hijacked, turning on their originator in a localized mutiny.
+
+The two Witches closed the distance.
+
+At some point in the preceding minutes, the concept of "casting spells" had dissolved entirely. The magic was moving like extra limbs, instantaneous, the casting gestures themselves indistinguishable from movement.
+
+Their combined output exceeded a fully mobilized battalion of High Witches, and the gap between them was still shrinking.
+
+Melee range.
+
+The historical archive of Ovelia's youth contained no surviving video footage.
+
+Only written accounts, unanimous in their assessment: flashy, arrogant, with deflection shields so precise she could redirect direct-hit artillery and counter-attack in the same breath. The most feared close-range combatant in recorded history.
+
+Irene was universally recognized as the undisputed greatest melee Witch of the modern era. The qualification had an unspoken asterisk that the entire analytical community had, by silent consensus, agreed not to mention.
+
+On a pure, unfiltered scale, Ovelia's close-range combat had historically beaten the "undisputed greatest" into the ground.
+
+The technique was called the [Tail Sword Art]. Nine tails, independently controllable.
+
+The classification had been settled decades ago, unanimously and without appeal: it wasn't a sword discipline at all. It was a combat art built entirely on the stat-check philosophy: If your numbers aren't high enough to make the math irrelevant, you cannot play this build.
+
+The broadcast director framed them in a slow-motion tracking shot, and Hathaway's developer brain immediately ran the equipment diagnostics.
+
+Irene was the absolute, unrestrained zenith of pay-to-win.
+
+She was draped in the [Golden Fleece], a Legendary Deflection Cloak that appeared woven from liquid starlight. Beneath it: a fitted, platinum-and-white light-armor bodysuit. Around her neck hung a priceless artifact, a tri-color prismatic amulet strung on pure titanium-silver arcane ingots.
+
+Her waist featured a seemingly standard [Belt of Charisma and Perception], modified with a casual, horrifying [+10] suffix.
+
+The belt held three custom holsters: [Metamagic Recovery], [Metamagic Quicken], and [Supernatural Spellcasting], granting her over a hundred free metamagic slots and auto-triggering health/mana regeneration or bonus blink frames with every cast. Inside those holsters sat three complete, un-shuffled decks of the [Deck of Many Things], a Legendary-tier reality-warping Wondrous Item.
+
+Gloves, boots, thigh-high garters, ten rings, earrings, an anklet, hairpins, a choker, three backup light swords. Every single square inch of available anatomical real estate was populated with gear that started at Legendary and frequently appended a [+10].
+
+Mihaye directed a look of unmediated class-warfare resentment at Irene's projected figure. "The most important rule when fighting that woman: automatically assume your gear is one to two tiers behind hers from the opening frame. Don't calculate for that deficit, and you will die to her bank account."
+
+And facing this walking GDP of a major Hive City?
+
+Allison had stepped into the arena equipped with a wizard's robe and a short wand. The liquid gemstone silk woven into the robe's fabric, the outrageous density of World Tree wood in the wand, confirmed they were both unambiguously Legendary.
+
+But every other slot was empty.
+
+Hathaway could practically reconstruct the administrative thought process at the registration desk: I need a wand. Done. A sword? My tail will suffice. Cloak and boots? I suppose I should wear something. The rest of the slots are irrelevant.
+
+The broadcast cut to the Fey Star bench.
+
+Akkukataya had returned from the resurrection point. She was staring at the arena feed with the expression of an impotent spouse who had arrived home to find their beloved monarch engaging in unilateral disarmament negotiations.
+
+Alice's face at the patio table was wearing the exact same expression.
+
+Two of the most powerful, resource-deep Witches in the Inner Sea, Hathaway noted, watching their sovereign walk into the arena against Irene while treating eighty percent of her equipment slots as a polite suggestion.
+
+Alice covered her face with both hands.
+
+"Big Boss Cat," she groaned. "If you had actually equipped a weapon alongside your tail, you could be executing a dual-axis assault right now. Was filling out one additional line on the equipment form genuinely too much trouble?"
+
+Down on the field, Allison executed a sweeping arc with her tail.
+
+Irene's light sword came down, a weapon of pure, concentrated lethal energy, theoretically capable of severing anything it contacted with the lightest possible touch.
+
+It slammed into the glowing, fluffy tail.CLANG.
+
+The light sword bounced off cleanly. The tail continued its arc and smashed into Irene's guard, completely, catastrophically intact.
+
+Hathaway's expression went perfectly flat.
+
+Standard MMORPG axiom: Endgame viability is entirely gear-dependent.The Ovelia override protocol: If your biological hit-box possesses a base armor value that rivals the server's most expensive legendary item, then inventory management is simply a cosmetic choice for lesser beings.
+
+Alice sighed, peeking through her fingers. "It's a pity Allison only has one tail. Irene actually has room to breathe."
+
+Hathaway looked at Alice. She looked at the two soft, cloud-grey tails swaying behind the Mistfall City Hive Lord's chair with the lazy grace of something that had no particular reason to hurry.
+
+She swallowed. "...Can you use it too?"The world skipped.The tip of Alice's tail simply existed, exactly one inch from the bridge of Hathaway's nose.
+
+It had bypassed the concept of distance entirely, arriving at its destination through a localized fold in spatial causality. The only sensation Hathaway felt was the faint, cold ripple of a dimensional boundary settling back into place, like the disturbed surface of a pond after a stone has already sunk.
+
+Alice's teal eyes curved into bright crescents. "[Tail Sword Art: Dimensional Assault]. I'm rather untalented, I'm afraid."
+
+Hathaway leaned slowly back in her chair, ensuring her nose remained in its original position.
+
+Irene had been carrying Golden Iris through the entire bracket on her back. Her hands were hot. Her instincts were sharp, compacted by continuous high-stakes match pressure into an edge that couldn't have been manufactured any other way.
+
+Allison had spent the last two weeks attending tea parties, eating handmade biscuits, and rating the local festival food stalls.
+
+In the final, compressed exchange, Irene bet everything on a single read.
+
+She exposed her spatial anchor, a calculated gap wide enough to read as an invitation and narrow enough to be worth taking.
+
+Hathaway's fingers dug into the wrought-iron table.
+
+[Cosmic Foam].
+
+Thousands of spheres crossed the ruined lake in pink and violet and seafoam green, pretty for exactly as long as it took the eye to find them, and then the first rank arrived and the lake stopped being a lake and the second rank was already in the air behind it.
+
+The [Golden Rejection Law] sat near the top of every list of legendary defensive workings anyone had ever compiled, and the Conqueror's answer to it was to arrive more times than it could refuse, with enough yield behind each arrival to take the bottom out of an island.
+
+Allison stood inside her own envelope with the serene confidence of a woman who had never once been on the wrong side of a distribution.
+
+But Irene had bet on the bait.
+
+The exact microsecond the barrage committed, [Contingency] triggered, swapping her physical presence with a [Clone: Death Ward] and buying an interval too short to put a number on.
+
+With the sky coming down in colors, Irene cast [Heavenly Fortune], a working that bent local probability violently in her favor, and drove her light sword forward.
+
+The distribution moved three degrees.
+
+Every bloom that had been going to open on empty water opened on one coordinate instead, perfectly synchronized with Irene's counter-strike.
+
+The Conqueror was vaporized by her own spell.
+
+[Match Complete. Winner: Irene (Golden Iris).]  [Final Score: Golden Iris 5 — Fey Star 4.]
+
+The stadium roar hit the festival grounds as a pressure-system shift. Ceramic cups rattled against the iron table.
+
+At the resurrection point, Allison materialized.She touched her cheek with an absent, distracted air.
+
+"Got baited," she said quietly. The acoustic arrays caught it. "Got counter-killed. How fun."
+
+Hathaway sank slowly back into her patio chair.
+
+A line from the White Star Chronicle's society section surfaced in her memory without being invited.
+
+"I'm simply here to cheer for Akkukataya," Allison had told the press, at the pre-opening tea party, ten days and a lifetime ago. "And perhaps... to watch the scenery."
+
+Hathaway looked at the broadcast feed. At the ruined Mirror Lake. At Irene, still standing in the wreckage of the terrain, light sword powering down, chest heaving with the exertion of a gamble she had barely survived.
+
+Irene, Hathaway realized, watching Allison's faint smile from across the glass. She was the scenery.
+
+The afternoon light had shifted by the time the broadcast cut to post-match analysis.
+
+On the cobblestones, Katdoastin rose from her position beside Katalu with the unhurried finality of something that had other appointments and had been patient about it. She drifted through the air and settled behind Alice, resting her plush, substantial paws over the author's shoulders.
+
+Alice capped her fountain pen.
+
+She reached into her coat and produced a single leaf of manuscript paper, dense with silver ink, and placed it on the table in front of Hathaway without looking at her.
+
+"The dialogue in the confrontation scene, Chapter Eleven," Alice said, already collecting her things. "I need a second opinion on whether it reads as accurate. You know her better than I do."
+
+She paused. Her liquid-teal eyes moved to Hathaway once, adding a notation to a long file.
+
+"Stay out of trouble," Alice said.
+
+She walked away into the dispersing festival crowd, the Greater Cat drifting at her back with its paws still settled over her shoulders.
+
+Mihaye settled the remaining tab with the aggressive, unceremonious efficiency of someone whose gambling winnings had rendered the price physically irrelevant.
+
+Katalu rose from the cobblestones, her magnificent tail curling once in a slow, enormous arc in the afternoon breeze.
+
+The Greater Explorer Cat looked up.
+
+The small, cow-spotted Explorer Lantern Cat was still perched squarely on top of Katalu's massive head, its tiny feathered wings folded, apparently operating under the assumption that the arrangement was permanent.
+
+Katalu reached up, collected it with a single enormous paw of unhurried care, and deposited it in the air at Hathaway's eye level.
+
+The small cat blinked. It drifted forward and pressed its paws against Hathaway's collarbone with the territorial certainty of a flag planted in a newly acquired province.
+
+Mihaye looked at Hathaway."You'll be interesting in a few years," she said.
+
+Katalu was already moving. The towering, luminescent silhouette cleared the corner of the nearest souvenir stall, parting the tourist crowd like a weather system with somewhere to be, and then the two of them were simply gone.
+
+Hathaway stood alone by the wrought-iron table.
+
+The festival crowd buzzed and surged around her, energized by the historic upset they had just witnessed, entirely oblivious to the fact that two of the most terrifying entities in the Inner Sea had just finished sharing cat-paw biscuits at this exact spot.
+
+She looked down at the single leaf of parchment Alice had left behind.
+
+She had intended to fold it away unread. But the silver ink caught the afternoon light, and her eyes caught the opening lines of the "confrontation scene."
+
+Her developer brain, which had spent the past hour throwing fatal errors at the sheer absurdity of the Mistfall Hive Lord, went cold and still.
+
+There were no exaggerated romantic tropes. No biomechanically impossible mechanics.It was a flawless diagnostic log of Cecilia Wellington's soul, written by a monster who understood exactly how tragedies were architected.
+
+You know her better than I do, Alice had said.Hathaway didn't know her better.
+
+She folded the parchment and slipped it into the inner breast pocket of her coat, pressing it flat against her racing heart.
+
+She gathered the warm, purring weight of the Explorer Cat into her arms, taking one last look at the smoking ruins of Mirror Lake on the broadcast screens.
+
+The Grand Masters was advancing to the finals. But the real violence was going to happen far away from the arena glass.

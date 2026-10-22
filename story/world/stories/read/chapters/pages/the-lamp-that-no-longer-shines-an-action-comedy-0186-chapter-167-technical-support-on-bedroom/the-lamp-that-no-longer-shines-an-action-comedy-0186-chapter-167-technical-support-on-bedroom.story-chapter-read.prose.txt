@@ -1,0 +1,141 @@
+[Time]: Summer Break, Day 44 — 8:15 AM[Location]: White City · Townhouse 107 · Dining Room
+
+At 4:17 AM, operating on spite, adrenaline, and the specific, righteous fury of someone who had been personally wronged by a retrieval hook, Hathaway had breached B-Rank.
+
+She descended the staircase of Townhouse 107 with the unearned, transcendent serenity of an apex predator in peak physical condition.
+
+Her internal diagnostic array was returning a clean string of green lights.
+
+[Spell Rebound] was fully operational: an afternoon of live-fire drilling had mapped the precise microsecond of residual matrix decay required to cannibalize the frame data and restart the engine mid-arc.
+
+[Tide of False Life]'s iron fish matrix sat anchored in her spiritual substrate, positioned downstream of her primary mana channel, ready to catch the overflow the moment she chose to open the door past its measure.
+
+Her combat profile had officially crossed from 'fragile tactical gimmick' to 'structurally sound.'
+
+I am a B-Rank racer, her soul sang, with the serenity of someone who has survived something they were not supposed to survive. The air up here is clean.
+
+She walked into the dining room. Margaret and Anna were already at the table, their morning tea steaming beside the central broadcast projector.
+
+The stadium chime rang out above the marmalade.
+
+[Grand Masters Semi-Final Draw: Complete.][Match One: Greed Umbrella vs. Absolute City.][Match Two: Golden Iris vs. Fey Star.]
+
+"The Holheim syndicate will be dismantled today," Margaret murmured, setting down her Earl Grey with the serene authority of a woman announcing the weather. "Absolute City possesses the structural density required to break their momentum entirely."
+
+"Agreed," Anna said, slicing a strawberry. "Lin has been resting. It is time for her to clock in."
+
+Hathaway poured herself coffee and listened to the White City's morning crisis unfold from the outdoor broadcast feeds.The geopolitical mathematics were straightforward.
+
+The citizens of the White City held a deep, historically entrenched, culturally reinforced hatred for the Holheim academic establishment. The Greed Umbrella needed to be eliminated from the bracket with extreme prejudice.
+
+Unfortunately, their opponent was Lin Zhaojun.
+
+On any other day of the year, the White City would have been thrilled to see Lin Zhaojun get steamrolled. But today, between watching the arrogant Holheim invaders advance and watching Lin Zhaojun advance, the collective hatred for Holheim narrowly edged out the hatred for Lin Zhaojun.
+
+Because, as the popular saying went: out of a global population of 4.2 billion Witches, there were 5.2 billion Lin stans, the excess one billion being the registered inhabitants of the Underworld, who maintained active subscriptions to the mortal broadcast networks via necromantic broadband exclusively to watch her play.
+
+And while the citizens of the White City undoubtedly led the globe in aggressively scrutinizing and critiquing her every tactical decision, they were fundamentally just the most vocal, devoted hate-watchers on the planet.
+
+It is not hatred, Hathaway's developer brain concluded, listening to a commentator's blood pressure audibly strain against the microphone. It is an entire city of hate-stans. They are personally terrified that she might actually lose to the invaders.
+
+She sat down and opened her notebook.
+
+Her combat mechanics were solid. Her firmware was updated. Yesterday had been an excellent day by any objective metric.
+
+The only outstanding ticket was The Banishment of Sorrow.
+
+She had spent two nights staring at the detection algorithm's targeting matrix, turning the edge case over until the variables blurred.She had hit the absolute structural limit of solitary debugging.
+
+Time to consult the senior engineers.
+
+"Mothers," Hathaway said, sliding the heavy grimoire across the mahogany table. "I need a code review."
+
+The effect was immediate. Both matriarchs transitioned from 'leisurely breakfast' to 'academic seminar' in the span of a single breath. They were, Hathaway had come to genuinely appreciate, terrifyingly competent scholars when the occasion demanded it.
+
+"Where is the friction?" Anna asked.
+
+"The detection targeting matrix," Hathaway said, opening to the silver-inked equations. "The algorithm is supposed to locate the trauma's epicenter by triangulating the compensatory scar tissue built around it. But I keep trying to tune my mana to ping the scar tissue directly and I get lost in the noise of the host's baseline emotional state. I cannot isolate the signal."
+
+Margaret produced a slim monocle from her breast pocket and settled it with unhurried precision. "You are looking for a positive integer where you should be looking for a null value."
+
+"The signal of a successful detection isn't the presence of something foreign," Anna continued, her hands moving to trace the flow of mana through an invisible architecture. "It is an absence. When your mana reaches the true epicenter, the host's natural spiritual buoyancy simply stops pushing back. You feel a specific, localized void where the resistance should be."
+
+She tilted her head. "You are not looking for the wall. You are looking for the hollow space where the foundation gave way."
+
+Don't scan for the error. Watch for where the Garbage Collector stops running.
+
+Hathaway wrote it down. "That solves the targeting entirely."
+
+She hesitated. "The edge case still stands. What if the damage occurred during the foundational rendering phase, if there is no pre-trauma baseline because the trauma is the personality? The algorithm should read the entire soul as scar tissue and execute a total system wipe."
+
+Margaret and Anna exchanged a glance. The look of two professors whose student had successfully derived the exam question from first principles without being given the answer key.
+
+"That is not an unsolved bug," Margaret said. "It is a thoroughly documented contraindication. You need to read the appendix."
+
+"The targeting sequence requires a confirmed baseline ping before the extraction phase can authorize," Anna explained smoothly. "If the baseline does not exist, there is no ping. The spell throws a harmless error and aborts the sequence entirely. It will not format what it cannot confirm it is safe to format. It is a hard-coded fail-safe."
+
+The entire knot in Hathaway's mental framework dissolved.
+
+The system requires explicit authorization before initiating irreversible operations. No ping, no authorization, no operation. The software is not broken. The software is protecting itself from a null pointer dereference. It always was.
+
+"That is exactly how you would engineer it," she breathed, her stylus moving rapidly across the notebook. "I was trying to patch a fail-safe that was already functioning correctly. The abort was the correct architectural decision from the start."
+
+"Exactly," Margaret smiled, her posture relaxing fractionally. "The true difficulty of this spell is not the targeting. It is the execution phase. The feedback management."
+
+"Yes, the feedback loop is notoriously aggressive," Anna agreed, warming to the topic with the enthusiasm of a specialist discussing their preferred mechanic. "Because you are forcibly severing the target's neurological stress and physical tension, the resulting vacuum is immediately flooded with relief.
+
+"The euphoria is localized to the target, but you are connected through the tether. If your insulation is insufficient, it washes back through the channel."
+
+Her hands moved expressively. "You have to feather the mana flow at the very edge of the emotional block. Ease into the withdrawal rather than releasing all at once. It is a delicate gradient. Like last time, Margaret, when you completely misjudged the feedback threshold on the second hour, and we ended up—"
+
+Margaret cleared her throat.
+
+It was a sharp, violently abrupt acoustic barricade dropped directly across the center of the dining room table.
+
+Anna stopped speaking.The Earl Grey teapot hovered above her cup. She lowered the spout and poured with the slow, meticulous care of someone who required something productive to do with their hands.
+
+Hathaway sat with her stylus against the paper.A small dot of black ink bloomed into the parchment fibers.
+
+In the deepest, most heavily quarantined corner of her developer brain, a locked directory silently decrypted itself.
+
+She had known the lore for weeks. She had been carefully, methodically, not thinking about it.
+
+An exorbitant licensing fee for an authorized duplicate.Like last time, when you completely misjudged the feedback threshold on the second hour, and we ended up—
+
+Hathaway's soul detached from her body, drifted upward through the ceiling, breached the outer atmosphere, and entered the cold, uncaring vacuum of deep space, where it pressed itself against absolutely nothing in particular and processed the full implications of the morning's consultation in complete, total silence.
+
+I just asked my parents for technical support on their bedroom mechanics.
+
+The dining room was quiet.Margaret was staring at the handle of her teacup with the total, unblinking concentration of a scholar examining a previously undiscovered primary source. Anna had developed a sudden, profound interest in the precise geometric arrangement of the remaining strawberry slices on her plate.
+
+Hathaway set her stylus down on the notebook paper.
+
+She placed a neat, precise checkmark next to her note on the fail-safe abort mechanism. She placed a second neat, precise checkmark next to the targeting null-value logic. She closed the notebook. She closed the grimoire. She stacked them with perfectly even edges, their spines aligned.
+
+She stood up. She pushed her chair in with polite, measured force.
+
+"Thank you, mothers," Hathaway said. Her voice was level, clear, and entirely devoid of human inflection. "I have acquired all necessary data. I am going to return to my room to digest this information."
+
+"You're welcome, sweetheart," Margaret said, to the handle of her teacup."Good luck with your studies, darling," Anna said, to the strawberries.
+
+Hathaway turned and walked out of the dining room with the measured, deliberate footfalls of a bomb disposal technician exiting a live minefield. Her pace was standard. Her expression was neutral. Her spine was straight.
+
+She climbed the stairs. She walked down the hallway. She entered her bedroom and closed the door behind her with a soft, definitive click.
+
+She walked to her desk. She set the books down. She sat in her chair.She initiated a full, comprehensive technical review of the morning's progress.
+
+The spell logic is architecturally sound. The edge case is a hard-coded abort parameter, not a flaw. The fail-safe was always functioning correctly. The research can proceed to the practical rendering phase. I obtained all necessary data.
+
+The theoretical application of said data is none of my professional business and will not be considered further.This is fine.
+
+From the center of the unmade bed, eighteen kilograms of hyper-dense, cow-spotted biological mass stirred.
+
+The Explorer Lantern Cat levitated slowly off the duvet, its tiny feathered wings fluttering with unhurried grace. It drifted across the room with the frictionless certainty of an entity that had already determined exactly where it intended to be.
+
+It settled its full, considerable weight directly into Hathaway's lap and began to knead her thighs with the heavy, authoritative rhythm of a biological process that had found an anchor point and intended to remain permanently.
+
+Purrrrrrrrrr.
+
+Hathaway sank both hands deep into the thick, plush fur. The heavy vibration resonated upward through her palms and into her chest.
+
+Thank Ovelia for cats.

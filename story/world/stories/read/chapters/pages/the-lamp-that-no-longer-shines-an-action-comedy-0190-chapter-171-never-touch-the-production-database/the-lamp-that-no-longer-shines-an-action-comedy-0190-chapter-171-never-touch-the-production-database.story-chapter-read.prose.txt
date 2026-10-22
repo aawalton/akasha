@@ -1,0 +1,171 @@
+[Time]: Summer Break, Day 46 — 8:15 AM[Location]: White City · Townhouse 107
+
+The most frictionless, unthinking method of escapism available to a former game designer was, inevitably, pressing buttons in a ranked queue.
+
+Hathaway had spent the night in the oxygen-deprived fugue state of someone who had absolutely no business queuing for a competitive anti-gravity racing simulator at 2:00 AM, but who had committed too much ego to log off on a loss.
+
+She had ridden the promotion threshold for four consecutive hours, had been personally victimized by an anonymous opponent who executed a frame-perfect momentum-tether on the apex of the final zero-G inversion, slingshotting themselves across the finish line while sending her careening into the digital stratosphere, and had finally logged off at four with the specific, hollow-eyed devastation of someone who had been robbed by the universe.
+
+She woke up with a stiff neck, eyes at minimum viable resolution, and a profound, lingering resentment toward physics.
+
+She splashed cold water on her face. She sat down at the mahogany desk. She opened the master copy of The Banishment of Sorrow and arrayed a blank roll of parchment.
+
+Work was better than feelings. Work had architecture.
+
+The detection layer and the authorization gate were already mapped. Twenty-three pages of routing schematics confirmed it. The architecture held.
+
+What remained was the extraction engine, which was where, as her mothers had diplomatically demonstrated, the fatalities happened.
+
+Marlena's original design ran a smooth, continuous gradient through the extraction phase: feathering the mana flow at the emotional boundary in a controlled bleed. Elegant.
+
+It had exactly one failure mode: if the caster's focus slipped for a single frame at the wrong moment, the relief backwashed up the tether and the feedback cascaded.
+
+Hathaway stared at the silver-inked diagrams until her developer brain finished filing its complaint.
+
+Then she picked up her stylus and started dismantling the third tier.
+
+She replaced Marlena's smooth curve with discrete transactional blocks.Extract one packet. Pause execution. Query the feedback channel: is buffer pressure within safe threshold?If yes, commit the transaction and initialize the next packet.If no, abort and hold position: the committed packets remained intact, the compromised step rolled back cleanly.
+
+Slower than the original by a significant margin. But every single operational node possessed an independent rollback capability. A failure at step eighty-five would not corrupt the eighty-four batches that had already cleared.
+
+You never touch the production database without transaction protection, her inner systems architect noted, with the quiet, humming satisfaction of a design decision finally clicking into place. You never, ever do.
+
+The nib scraped against dry glass. She checked the crystal vessel: Dragon's Blood ink, completely spent, reduced to a dry crimson crust at the bottom. She was halfway through the feedback loop routing and entirely out of ink.
+
+She capped the stylus. She grabbed her coat.
+
+The streets of the White City were operating on the atmospheric frequency of a capital in mourning.
+
+[Greed Umbrella] had reached the Final, and the White City's cultural immune system had responded as it responded to all geopolitical catastrophes: with synchronized, city-wide despair.
+
+The citizenry would sooner accept total municipal darkness than permit a Holheim roster to hoist the championship trophy on their soil.
+
+For the pedestrians moving down the commercial promenade, the [Golden Iris] was not a sports team. It was the last functioning bulwark between civilization and collapse.
+
+Hathaway navigated the gloomy crowds until a blinding flash of yellow light from a window display nearly seared her corneas.
+
+She stopped. She looked.
+
+The boutique's centerpiece was a statuette cast from solid, 24-karat gold. It depicted Irene standing inside a dragon's nest overflowing with intricately minted coins, wearing a golden dragon-horn gladiator cloak, her head thrown back in a triumphant roar, filling the lair with the precise, sovereign fit of something that had been made exactly to her dimensions.
+
+The shopkeeper materialized at the doorway.
+
+"Magnificent, isn't it?" she offered. "It represents her draconic nature conquering her human limitations. The transcendent ascension from a mortal of the realm into the guardian of the hoard. Strong occult resonance with wealth accumulation. Excellent for drawing financial prosperity to a household."
+
+Hathaway looked at her. "Irene," she said, her voice devoid of inflection, "is a human Witch. She does not have a draconic nature."
+
+"Ah," the shopkeeper replied, entirely unbothered by biological taxonomy, "but her soul is undoubtedly a dragon's."
+
+Hathaway looked back at the statue.
+
+She thought about the [Golden Fleece]. The customized [+10] belts. The triple decks of Legendary artifacts. A woman who had crammed the GDP of an entire Hive City into every conceivable anatomical slot, treating the very concept of a balanced loadout as a joke for the poor.
+
+Her capacity for resource accumulation significantly exceeds any biological dragon on record.
+
+Her developer brain immediately filed a report.
+
+Witch Gold was a universally demanded arcane reagent, legal tender, and spellcasting fuel simultaneously. A Witch could never hold too much of it. If the occult wealth-attracting properties were fraudulent, she was still holding fungible premium stock she could melt down for enchantments.
+
+If the occult properties were genuine, any marginal probability increase to ambient financial luck was a net positive return. This is a rationally structured hedge position.
+
+She walked inside. She paid the merchant.On her way to the register, a secondary display case caught her eye.
+
+Solid sterling silver, inset with polished moonstones. Heidi Lucent, depicted in a heroic, wind-swept pose: the definitive image of the majestic Dragon Slayer, cape billowing, looking tremendously competent.
+
+The placard beneath it read: For Good Fortune and Favorable Encounters in Wilderness Expeditions.
+
+Hathaway studied the marketing copy.
+
+Lin Zhaojun's famous verdict on Heidi had always read to Hathaway as the bitter hyperbole of a generational rival: Daughter of Blind Luck. Grand Witch manufactured by circumstance.
+
+She didn't dismiss it anymore.
+
+Selling Heidi as a good luck charm, Hathaway thought, reaching for her coin purse, is the most fundamentally honest piece of marketing I have ever encountered.
+
+She paid for the silver Heidi.
+
+She walked down the sun-drenched promenade with the solid gold dragon-Irene in her left hand and the sterling silver Dragon Slayer in her right, navigating the gloomy crowds with the careful, lateral efficiency of someone managing a precious cargo through a hostile environment.
+
+She made it half a block before her processor caught up with her physical actions.
+
+She stopped. She looked at her hands.
+
+I possess a high-tier spatial ring with virtually unlimited carrying capacity. Why am I dual-wielding eighteen pounds of precious metals through a crowded pedestrian zone?
+
+She tapped the ring. Both statues vanished into the localized dimension. With her hands free, she pulled her terminal from her coat pocket.
+
+Her thumb bypassed her prefrontal cortex and typed two words into the query bar:
+
+Greed Umbrella.
+
+The results cascaded down in real-time. The dichotomy was jarring: White City user posts saturated with creative, targeted hostility; Holheim posts vibrating with electric, unburdened hope. Two entirely separate planets, forced onto the same screen, indifferent to the collision.
+
+She scrolled until one line stopped her:
+
+After they take the championship, Cecilia will finally get everything she deserves.
+
+Hathaway stopped walking.
+
+She stared at the pixels. The pedestrian traffic divided around her, two streams, rejoining half a block ahead.
+
+They meant the trophy.The air in her lungs felt thin.
+
+She deleted the query. Her fingers were numb. She typed a new search.
+
+Grand Masters Final odds.
+
+The professional market had aggregated the variables overnight.
+
+Golden Iris: 1.75x. Implied win probability: ~57%.Greed Umbrella: 2.15x. Implied win probability: ~46%, including bookmaker margin.
+
+It isn't a slaughter.
+
+Hathaway let out a slow, steady breath. The professional oddsmakers: the entities whose entire operational existence depended on ruthless, unsentimentalized reality.
+
+They had looked at the raw variables and handed Greed Umbrella nearly half the board. They weren't a Cinderella story anymore. They were recognized.
+
+They are real, she thought, slipping the terminal back into her coat. The world actually acknowledges them.
+
+She walked the rest of the way home in silence.
+
+She unpacked her acquisitions on the mahogany desk.
+
+To the left of the routing manuscript: the pure gold, wealth-attracting dragon-hoard Irene.To the right: the pure silver Dragon Slayer, oblivious to prayer but undeniably potent in her chosen domain.In the center: twenty-three pages of transactional extraction architecture, currently missing the final third of the feedback loop.
+
+She uncapped her stylus, dipped it in the fresh Dragon's Blood ink, and located her place in the routing diagram.
+
+Before the nib touched the parchment, a cow-spotted entity simply ceased to acknowledge gravity.
+
+It drifted off the edge of the bed with the slow, frictionless menace of an untethered parade balloon, floating across the room until it deactivated its buoyancy over the far corner of the desk, touching down with a soft, authoritative clump.
+
+The Explorer Lantern Cat surveyed the new topography. Its luminous eyes fixed on the golden Irene statue. It extended one thick white paw and delivered a single, investigative boop to the dragon horns.
+
+Hathaway put her stylus down. She scooped the cat under its front legs and deposited it firmly on the floor.
+
+"I am executing a production migration," she informed it. "The environment is not a toy."
+
+She picked up her stylus.A shadow immediately eclipsed her reading lamp.
+
+The cat had simply reversed its internal altitude parameters, drifting straight back up from the floorboards.
+
+It bypassed Hathaway's personal space entirely, floated directly over to the golden statue, and lowered its enormous head to within a quarter-inch of the sculpted dragon horns. It studied the craftsmanship with the focused, deliberate scrutiny of a licensed appraiser verifying karat purity.
+
+Hathaway sighed. She manually hauled the majestic, heavily upholstered gravitational anomaly off the desk and placed it gently, firmly, back on the floor.
+
+The anti-gravity protocol instantly re-engaged. The cat floated right back up.
+
+This time, it ignored the golden Irene entirely. It drifted over the mahogany surface, navigated around the inkwell, and touched down beside the silver statue of Heidi Lucent.
+
+It turned in a tight circle. It tucked its front paws neatly beneath its chest, assuming the impenetrable, absolute geometry of a loaf.
+
+It lowered its chin to the edge of the silver base. Its eyes fixed, with unblinking, total concentration, on the complex routing map spread across the parchment.
+
+It froze there. Utterly motionless. A massive, cow-spotted entity, settled peacefully beside the silver monument to statistically impossible good fortune, studying a soul-surgery algorithm.
+
+Hathaway looked at the cat. The cat did not look away from the manuscript.A faint smile touched the corners of her mouth.
+
+She didn't move it.
+
+She brought her stylus to the parchment, found her place in the feedback loop routing, and began drawing the next line. The nib scratched quietly. The cat purred, a heavy, rhythmic vibration that traveled up through the mahogany wood and into her wrists.
+
+The routing diagram was not finished. Tomorrow, she would finish it.

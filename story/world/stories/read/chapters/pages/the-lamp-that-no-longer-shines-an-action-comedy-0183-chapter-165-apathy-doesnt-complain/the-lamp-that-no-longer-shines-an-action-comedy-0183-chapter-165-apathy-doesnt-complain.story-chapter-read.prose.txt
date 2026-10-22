@@ -1,0 +1,193 @@
+[Time]: Summer Break, Day 42 — 1:15 PM[Location]: White City · Townhouse 107 · Living Room
+
+Hathaway finished her lunch with the mechanical, unblinking efficiency of a background process.
+
+Her right hand managed the fork through a plate of seared scallops and wild mushroom risotto on pure muscle memory. Her eyes were fixed on the empty space three inches above the dining table. Her left hand held the stylus, making tiny, deliberate annotations in the margins of her notebook.
+
+The mana bifurcation routing for the [Tide of False Life] finalized itself somewhere between the third scallop and the last bite of risotto.
+
+She set the fork down, capped the stylus. Task complete. Ticket closed.
+
+She deposited her plate in the kitchen, returned to her corner of the living room, and slid the finalized Tide of False Life schematics into the desk drawer. From the center of the desk, she pulled the master copy of The Banishment of Sorrow.
+
+She opened it to the detection algorithm.
+
+On the panoramic display at the far end of the room, the afternoon broadcast was mid-session.[Current Score: Fey Star 4 — Steam Saints 3.]
+
+Hathaway kept her eyes on the silver-inked equations.
+
+Fey Star was, structurally speaking, a luxury escort mission. Allison and Akkukataya using the Grand Masters main stage to power-level three junior Cat Witches through live-fire competition at the highest available tier.
+
+The fact that those three juniors had managed to drag the score to 4-3 before being eliminated said something genuine about the quality of their training.
+
+They had also successfully forced Famia Schüder to spend actual calories.
+
+Famia Schüder was constitutionally accustomed to treating a 1v5 attrition gauntlet as a standard Tuesday overtime shift. But against a final anchor like Akkukataya, every fractional unit of stamina previously expended became a critical tax.
+
+The broadcast director understood exactly where the audience's attention lived. The camera kept panning back to the Fey Star bench.
+
+The gambling kiosks across the festival grounds were currently sustaining a local shadow economy on two specific, highly volatile prop bets:
+
+The arena roulette locked.[Selected Terrain: Sector 7 — Jagged Alpine Peaks.]
+
+The Fey Star gate retracted.
+
+Akkukataya stepped out onto the outermost stone spire wearing a deep, ink-green structured coat that absorbed the pale light of the wind-scoured rock. Resting against her right shoulder was a long, slender staff built in the silhouette of a precision hunting rifle: dark-lacquered wood, a barrel that tapered to a point, gold inlays running the length of the stock.
+
+Her posture communicated the effortless, devastating ease of a courtier arriving at a state dinner thirty seconds early, already knowing exactly where she would be seated.
+
+Across the ravine, Famia Schüder stood on the opposing peak.
+
+The Second Seat wore full plate: matte deep black, its surface running with a slow gravity-silver shimmer that shifted with each breath. Three previous bouts had left scoring on the pauldrons and a hairline fracture sealed across the left vambrace, but the armor's structural integrity was absolute.
+
+Her posture remained a monument to uncompromising authority. The microscopic tightening around her eyes was the only acknowledgment that the gauntlet had existed.
+
+Akkukataya offered a smile of polished, aristocratic warmth. It had the precise thermodynamic temperature of liquid nitrogen.
+
+"Your Excellency," Akkukataya's voice rolled through the acoustic arrays, each syllable wrapped in velvet and edged in steel, "you are truly an inspiration to us all. To carry the daily burden and the specific aesthetic weariness of a bankrupt orphanage director, while possessing the unparalleled authority of the Second Seat. It must be exhausting to be so constantly, deeply unamused. Please, allow me to end your suffering."
+
+From the living room sofa, Margaret offered a low, approving hum. "A precise strike at the structural integrity of her roster. Excellent form."
+
+Famia Schüder's expression went flat and completely dead, the precise color and texture of an administrative notice for public infrastructure demolition.
+
+"There is no need for concern, Akkukataya," Famia replied, her voice carrying the grinding finality of a closing vault. "Your juniors have already fertilized the soil. They are perfectly positioned in the spectator stands to lay flowers for you."
+
+The referee's sphere shattered. The alpine ridgeline erupted.Hathaway's eyes returned to the silver ink.
+
+She let the ambient violence of the broadcast wash over her as background noise, sinking into the grimoire's cartography of invisible damage.
+
+Margaret issued a low, critical murmur from the sofa. Anna responded with an evaluative "Hmm." Explosions rattled the broadcast audio. Hathaway absorbed the battlefield updates in fragments.
+
+She looked up for the first time when the broadcast cut to the bench.
+
+The match was still in its opening escalations. Allison was lying back on her lounger, her posture liquid and entirely relaxed, propped slightly to her left, exchanging a casual, smiling conversation with one of the respawned junior Cat Witches beside her.
+
+She looked like a VIP ticketholder who had purchased an exceptionally comfortable seat to a theatrical performance she had already read the reviews for.
+
+Hathaway looked at her for five seconds. Noted nothing. Returned to the book.
+
+She traced a silver rune with the dry tip of her stylus, following the detection algorithm's first targeting tier.
+
+If it isn't scanning for the trauma itself, she thought, what is it looking for? The trauma signature blends with the baseline personality over time. It becomes indistinguishable.
+
+She flipped back one page. She read the targeting parameters again.The logic compiled.
+
+It isn't looking for the damage.
+
+When a biological or psychological system sustained catastrophic structural injury, it routed daily functions around the damaged sector. It built compensatory architecture to maintain operational continuity despite the missing load-bearing pillar.
+
+And because the system was terrified of the damage recurring, those compensatory structures were massively over-provisioned: hyper-dense scaffolding erected around the blast crater, its topology fundamentally misaligned with the host's natural personality architecture.
+
+Scar tissue, Hathaway realized, her stylus stopping. The scar itself registers as normal cellular material on a basic diagnostic scan. But its density gives it away every time: the rigidity, the over-calcified structure.
+
+The algorithm didn't look for the wound. It looked for the oversized walls the psyche had built around it, triangulated backward from those structures, and located the exact epicenter of the original strike.
+
+Her developer brain translated the arcane architecture into its native language without effort.
+
+You don't find a memory leak by scanning every single address in the system registry. You open the task manager and you watch where the Garbage Collector is working overtime, cycling through cache dump after cache dump. The behavior pattern points directly to the bleeding sector.
+
+Then, the fatal edge case rendered.What if the trauma occurred before the baseline personality finished compiling?
+
+If the damage was inflicted early enough, during the foundational rendering phase, before the host's identity had fully set, the compensatory structures weren't built on top of the personality.
+
+They were the personality.
+
+The algorithm's entire operational premise relied on a fundamental assumption: that the host possessed a pre-trauma baseline to use as the comparative metric.
+
+If there was no baseline. If the foundation itself had been poured out of grief.
+
+Then the algorithm wouldn't execute a surgical extraction, Hathaway realized, the blood leaving her face. It would read the entire soul as scar tissue. It would execute a total system wipe.
+
+The ambient roar of the television felt very loud.
+
+Hathaway closed the grimoire. The leather cover made a soft, definitive thud against the mahogany desk. She didn't mark her page. She just shut it.
+
+Not right now, she told herself, pushing the catastrophic edge case into a quarantined directory. Not yet.
+
+She turned her chair to face the screen.
+
+The Jagged Alpine Peaks had been subjected to unauthorized, catastrophic terraforming.
+
+More than half the sky-piercing spires had been violently sheared off and collapsed into the deep ravines. The remaining peaks were scorched, shattered, and utterly unrecognizable, reduced to jagged platforms of smoking glass and cratered, melting stone.
+
+The broadcast cut to the bench.
+
+Allison was reclining with a delicate porcelain teacup in her hand, taking a measured, unhurried sip.
+
+The apocalyptic destruction reflecting in the arena glass behind her didn't register in her peripheral vision. The acoustic shockwaves from the exchange below did not cause her to spill a drop. She looked exactly like a patron who had already read the intermission program and found the second act exactly as anticipated.
+
+Hathaway watched the rest of the match.
+
+The combat was in its terminal phase. Famia Schüder was a localized extinction event, blanketing the remaining alpine fragments in suffocating, gravity-crushing abyssal domains.
+
+Akkukataya was moving through the collapsing space with liquid, terrifying grace, trading fractions of her own health bar to manufacture microsecond casting windows.
+
+Famia's primary domain is compressing, Hathaway's processor noted, tracking the cooldown windows automatically. Three seconds to the next cycle. Akkukataya has one blink remaining.
+
+The execution frame arrived in silence.
+
+The simultaneous detonation of compressed dark matter and starlight completely saturated the broadcast feed with white. The acoustic arrays cut entirely to protect the audience's eardrums. When the visual feed restabilized, a slow haze of debris was drifting over a massive, glassy crater where the final peak had stood.
+
+Famia Schüder's resurrection stone had shattered. The Second Seat had been evicted.At the crater's edge, Akkukataya remained upright.
+
+Her coat was half-scorched away by abyssal fire, the deep green reduced to char along the left side. A deep laceration ran down her left arm, blood welling freely onto the glassed stone.
+
+She was swaying, hovering at the precipice of a forced ejection.Thanks to the sheer, unreasonable biological resilience of a Witch operating at the threshold of High Council tier, the ejection parameters had not been triggered.
+
+If Famia's detonation had triggered one-tenth of a second earlier, Akkukataya's stone breaks first.
+
+The scoreboard chimed.[Match Complete. Winner: Akkukataya (Fey Star).][Final Score: Fey Star 5 — Steam Saints 4.]
+
+The stadium erupted, validating Proposition One and permanently denying the world an answer to Proposition Two.
+
+On the sofa, Anna took a slow sip of her coffee. "A very expensive victory."Margaret watched the replay. "But she held the line."
+
+The teleportation array flashed.
+
+Akkukataya materialized directly before Allison's lounger. She was bleeding, exhausted, and visibly fighting the structural instability of a body that had just survived something it had no business surviving.
+
+The blood dripping from her left arm was leaving small, dark circles on the pristine floor.
+
+She looked down at Allison and smiled the way a champion smiles when they are returning with exactly what they promised to bring.
+
+She placed her right hand over her heart and executed a slow, perfectly measured bow, ignoring the blood on the floor entirely.
+
+"I did not disgrace my mission, my Queen," Akkukataya said. Her voice was smooth, reverent, and carrying a profound, unshakeable satisfaction.
+
+The broadcast camera held on Allison's face.
+
+The Conqueror did not stand. Her gaze did not move to the laceration, or the blood, or the charred remnants of the green coat.
+
+She looked at the porcelain cup in her hand.
+
+"My tea has gone cold," Allison said. Her voice was flat, unhurried, a passing observation delivered to the air.
+
+Akkukataya's smile deepened. She lowered her head further, the bow transitioning from chivalric performance into something quieter and entirely real.
+
+"Yes," Akkukataya said. "I will do better next time."
+
+In the living room, Hathaway's developer brain spun up a behavioral-parse subroutine.
+
+Standard validation protocol, she tagged it automatically. The method is negative reinforcement: you won the match, therefore the victory is expected, therefore the only remaining variable is efficiency. A display of sublime, aristocratic indifference. I will do better next time means: I will finish the target faster, so your beverage remains at optimal temperature.
+
+She prepared to stamp it [Resolved] and archive it.Then she stopped.
+
+"My tea has gone cold."
+
+She looked at the screen. At Allison's gaze, fixed on the cup. At the blood dripping, unacknowledged, onto the floor.
+
+A truly indifferent person does not complain, her logic engine noted.The standard operating procedure for absolute apathy was silence. Or a flat "Acknowledged." Or "Return to your position."
+
+Complaining requires more emotional investment than apathy.
+
+She looked at the blood. She looked at the teacup. She looked at the exact direction of Allison's gaze.
+
+If you look at the blood, you acknowledge the cost.If you complain about the tea, you demand she focuses on the future.
+
+Hathaway sat very still.The data point was real and she had nowhere to put it.
+
+She tagged the interaction [Unresolved Variable] and turned back to the mahogany desk.
+
+She opened The Banishment of Sorrow to the marked page, picked up her stylus, and found her place in the silver ink.
+
+Sharpening the axe delayed no woodcutter. Eventually, you actually had to swing at the tree.

@@ -1,0 +1,141 @@
+[Time]: Summer Break, Day 49 — 10:30 AM[Location]: White City · Townhouse 107 · Underground Library
+
+Victoria stopped at the heavy oak doors; Hathaway slipped past her into the stacks.
+
+She navigated the climate-controlled aisles by brass classification plaques until she found the Modern Alchemy section.
+
+Sharon Curie.
+
+Her mothers' pathological habit of solving problems via wholesale financial acquisition had, for once in recorded history, paid a genuine dividend. The complete collection sat there: twelve volumes, pristine, first edition, looking as though they had been transferred directly from the printing press to these shelves without ever suffering the indignity of being opened.
+
+Hathaway pulled Volume One from the shelf and opened to the preface.
+
+The Curie School of Alchemy rests upon three absolute pillars: Harmony, Talent, and Discipline.Harmony is the decision to move in the same direction as chaos.Talent is the unforgiving prerequisite. My alchemy is not formatted for the dull, the slow, or the careless.Discipline is the bedrock. Preparation before ignition must be meticulous and absolute. Those who rush the foundational steps do not graduate. They become footnotes.
+
+She read it twice.
+
+Every sentence carried the specific, unbothered confidence of a master who had made something genuinely dangerous look effortless for so long that the difficulty had ceased to feel real to them. The flair was immense and entirely without apology.
+
+She tucked the volume under her arm and headed back upstairs.
+
+[Location]: White City · Townhouse 107 · First-Floor Parlor
+
+She set Volume One on the coffee table and opened it to the preface.
+
+"The foundational philosophy is something," Hathaway said, tapping the page. "Harmony, Talent, Discipline. Very elegant. Very you."
+
+Victoria glanced at the open page. The corner of her mouth executed a precise, downward twitch.
+
+"Allow me to provide the operational translation," Victoria said, in the mild, clinical register of a pharmacist reading a medication's fine print. "You are going to deliberately construct the most violently unstable reaction the laws of alchemy will permit before they intervene to stop you. When it inevitably attempts to remove the laboratory from existence, you will suppress the detonation in the final microsecond using reflexes that have no reasonable right to belong to the person who caused the situation. You will then wipe your hands on a clean cloth and present the result as intentional."
+
+Hathaway stared at the pristine academic prose as the romantic flair dissolved into the sweat-drenched reality of a live-fire engineering environment.
+
+"...Is the mortality rate for this school high?" she asked carefully.
+
+"The core tenet of the Curie School," Victoria said, picking up her teacup without looking up, "is Talent."
+
+Right, Hathaway's developer brain registered. Glass-cannon flex build, dressed up as a syllabus. The price of the aesthetic is paid in survival rate.
+
+If the barrier to entry is this catastrophic, her logic engine calculated, pulling up her terminal, the market return must be commensurate. A discipline that actively filters its practitioners by whether they can survive their own work should have a hundred percent employment rate. Corporations should be waging standing wars over these graduates.
+
+She ran a query: [A2 Professional Selection Guide and Employment Prospect Analysis — 2004 Edition].
+
+She opened the document and scrolled to the top ten employment rates.
+
+No Alchemy.
+
+She scrolled past the top twenty. The top fifty.
+
+Still nothing.
+
+"It isn't in the top fifty," Hathaway said, bewildered. "Does this discipline not produce employed Witches? Do they simply detonate immediately upon certification?"
+
+Victoria's eyes moved to the terminal. "Sort the index in reverse."
+
+Hathaway tapped the filter. The list inverted.
+
+Alchemy was now ranked first. Dead last. Number 402 out of 402 registered professional tracks.
+
+[No. 402: A2 Alchemy — Employment Rate: 0.8%]If you encounter this narrative on Amazon, note that it's taken without the author's consent. Report it.[No. 401: A2 Potions — Employment Rate: 1.2%][No. 400: A2 Practical Runes — Employment Rate: 1.5%]
+
+Hathaway's processor threw an unhandled exception.
+
+Zero point eight percent. Her previous-life corporate instincts issued a full system alarm. This is an art history degree. This is a vanity credential for Witches who already own three property portfolios and have nothing else to do with their Tuesday afternoons.
+
+"I have a question," Hathaway said. "How does the Witch Authority define the word 'Employment'?"
+
+Victoria set her teacup down. "According to the standardized reporting parameters of the Witch Labor Law: a practitioner is classified as 'Employed' only if they log more than thirty working hours per week at a registered, taxable entity."
+
+Hathaway blinked.
+
+"So Alchemists work less than thirty hours a week."
+
+"Correct."
+
+"So I'm looking at the wrong number entirely."
+
+Victoria reached over and tapped the screen. "Average Weekly Salary."
+
+Hathaway changed the filter; the data recompiled.
+
+[No. 1: A2 Practical Runes — Average Weekly Salary: 260,000 Solars][No. 2: A2 Enchantment & Light Alchemy — Average Weekly Salary: 180,000 Solars][No. 3: A2 Alchemy — Average Weekly Salary: 150,000 Solars][No. 4: A2 Potions — Average Weekly Salary: 120,000 Solars]
+
+She counted the zeros. She counted them again.
+
+Her memory delivered an unprompted, violent flashback: fluorescent lights at 3:00 AM, cold instant coffee, crunch deadlines compounding toward the cardiac arrest that had finally clocked her out.
+
+You are telling me, something in her chest said as she looked back at the screen, very quietly, that I never have to work thirty hours a week in my life, and the baseline compensation is a hundred and fifty thousand?
+
+"Whoever said Alchemy was a difficult major," Hathaway announced to the parlor, "is a liar and an enemy of rational thought. Alchemy is the finest academic discipline ever constructed by sentient beings."
+
+She looked at the list again. No. 1: Practical Runes. No. 4: Potions. Both of which her girlfriend currently held A2 certificates in.
+
+Three hundred and eighty thousand Solars of theoretical weekly earning capacity. Next semester, if she casually tacked the Alchemy certificate onto her loadout as planned: five hundred and thirty thousand. She turned toward Victoria: next to her sat a walking, breathing municipal GDP, calmly refilling her teacup and treating the acquisition of a Hive City's annual treasury as a standard academic side quest.
+
+"Professor Curie actually teaches at the academy," Victoria added, tucking a loose strand of silver hair behind her ear. "Her seminars are notoriously difficult to register for. The enrollment queue fills immediately."
+
+Hathaway opened the Inner Sea Encyclopedia on her terminal and searched Sharon Curie.
+
+The page loaded, and the primary header resolved: a high-resolution photograph of Sharon Curie in the audience, staring up at the golden Sindra Alchemy Award trophy on the stage.
+
+The camera had caught the exact microsecond her composure cracked: her face tilted upward, her expression locked in a last, trembling effort to hold the tears back. A single tear had just breached her lower lash line. The sheer vulnerability radiating from the composition made it look less like a candid press snapshot and more like a priceless Renaissance oil painting of a martyr abandoning hope.
+
+Hathaway frowned and turned the screen toward Victoria. "She is a grandmaster. Why is this her permanent encyclopedia portrait? Did she not sue?"
+
+"She did," Victoria said, her tone scrupulously neutral. "Professor Curie has been nominated for the Sindra Award, the highest academic honor in the field, thirteen times. She has lost all thirteen. That photograph was taken during her thirteenth consecutive loss."
+
+"Then why is it still her headshot?"
+
+"During the defamation tribunal, the photographer submitted a formal declaration under oath: she would gladly forfeit every Solar of royalty income in perpetuity rather than allow what she described as a flawless, transcendent masterpiece of misery to be deleted from recorded history." Victoria set down her teacup. "The court agreed."
+
+Hathaway stared at her.
+
+"The image was ruled too historically significant to suppress. As compensation for emotional damages, Professor Curie was awarded one hundred percent of the copyright royalties generated by its circulation. It went globally viral immediately after the ruling. It has since been reproduced extensively in academic textbooks, financial newspapers, and several popular fictional serials as the standard visual shorthand for 'profound, irreversible disappointment.'" A pause. "Having exhausted all legal avenues, Professor Curie had no choice but to tearfully accept the passive income."
+
+Hathaway looked at the weeping master for a long moment.
+
+She is getting paid an exorbitant passive income because her humiliation was deemed too historically funny to delete.
+
+Discipline is the bedrock, the preface had said. Those who rush the foundational steps do not graduate. They become footnotes.
+
+The woman who had written that sentence had also sat in that ceremony thirteen consecutive times and watched someone else walk away with the award each time. She was still here. Still a professor. Still writing books that Victoria Wellington, who had impeccable taste in precisely one category and catastrophic taste in coffee, had recommended.
+
+Hathaway locked the terminal and set it face down.
+
+She opened Volume One, flipped past the preface, and landed on the final section of Chapter Three: Tool Calibration and Baseline Diagnostics. The page contained a comprehensive inventory of required instruments, each entry annotated with a tolerance standard calculated to the fifth decimal place.
+
+She turned the heavy book around and pushed it across the coffee table toward Victoria.
+
+"Can I use the tools currently in my mothers' laboratory?"
+
+"Your mothers have excellent standard potion equipment," Victoria said, scanning the checklist. "A2 Alchemy requires a different spectrum of mechanical precision entirely." A brief pause. "Are you intending to begin today?"
+
+"What do I need to buy?"
+
+Victoria leaned forward, reading off the required specifications. Hathaway pulled up the premium arcane supply catalogue on her terminal and began adding items to her cart with the focused, rhythmic efficiency of someone running an automated script.
+
+The total climbed steadily through the five figures.
+
+She watched her ninety-two-thousand Solar tournament winnings exit her account in their entirety, in a single, irrevocable transaction. Beneath the bracing shock of the number, something quiet settled into place: the specific, grounded satisfaction of a developer who had just purchased top-of-the-line server architecture.
+
+Explosions or not, Hathaway thought, looking at the confirmation screen. I am getting that hundred and fifty thousand.

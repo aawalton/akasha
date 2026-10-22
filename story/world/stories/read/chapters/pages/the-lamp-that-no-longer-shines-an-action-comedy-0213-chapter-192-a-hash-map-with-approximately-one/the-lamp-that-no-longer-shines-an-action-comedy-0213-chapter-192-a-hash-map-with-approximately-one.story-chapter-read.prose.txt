@@ -1,0 +1,137 @@
+[Time]: Summer Break, Day 50 — 2:00 PM[Location]: White City · Townhouse 107 · Sub-Basement Alchemy Laboratory
+
+Hathaway stepped back and surveyed her financial ruin.
+
+The sub-basement alchemy laboratory had been fully assembled. Star-silver compounding crucibles sat beneath specialized exhaust hoods. Reinforced crystalline glassware, medium-capacity biomatter incubators, tiered formula racks. Rows of climate-controlled material bins lined the far wall, each sealed behind containment wards. Above the entryway, an array of heavily ionized sterile air jets blasted periodic gusts at carefully timed intervals, keeping the atmospheric particulate count at something approaching absolute zero.
+
+And positioned in the far corner, with an unobstructed sightline to the primary workbench, sat an absurdly expensive, magically articulated, heavily cushioned leather massage chair.
+
+The foundational design philosophy of the Curie School, her developer brain compiled, identifying the underlying message with clinical accuracy. We acknowledge that this discipline is going to cause you immense, prolonged suffering. Therefore, we guarantee that at three in the morning, when you are weeping over a collapsed reaction matrix, your lumbar spine will at least be ergonomically supported.
+
+She turned her attention to the wall above the central workbench.
+
+Pinned to the reinforced stone was a large, meticulously printed diagram. It depicted a complex nonagram, a nine-pointed star, intersected by a dizzying web of geometric lines. Scattered across this web were thousands of individual nodes, and beside every node was the name of an alchemical material paired with a small numerical coefficient.
+
+Some values were listed as 1. Others were 0.0001. But alchemy did not permit ambiguity; even the integers were rigidly formatted to enforce exactness. The number one was not written as a solitary digit. It was inscribed as 1.00000. Every single coefficient on the chart was locked to the fifth decimal place.
+
+Learning alchemy meant committing this chart to memory. You did not touch a crucible until you had memorized the board.
+
+Hathaway looked at the nonagram.
+
+This is a lookup table, she realized, a wave of strange, nostalgic familiarity washing over her. It is a hash map with approximately one thousand keys. Every value is a float, locked to five mandatory decimal places.
+
+If she were sitting at a terminal in her previous life, she would simply import the dictionary and call the variable. In this life, she had to manually encode the entire hash map directly into her biological long-term memory.
+
+Sharon Curie's Volume One sat open, but it was currently buried under a tower of supplementary reading: Common Mineral Traits, In-Depth Mineral Analysis, Alchemy Basics II, Potion Material Decomposition, and Common Alchemy Runes. Volume One outlined the execution techniques. To understand what she was actually executing, she had to read everything under it first.
+
+This was, without hyperbole, pure academic agony.
+
+Alchemical formulas were parameterized: the ambient mana surged and receded daily, and the same measurements that produced a perfect result on Tuesday could detonate the lab on Wednesday.
+
+The formulas are environment variables, Hathaway's logic engine processed, staring at a densely packed paragraph on tidal compensation adjustments. Every morning, before lighting the crucible, I have to read the runtime environment. Check the ambient mana differential. Recalibrate the coefficients. There is no compile-once, run-anywhere in alchemy. It is a permanently dynamic system.
+
+She dragged a chair to the desk, sat down, and opened Common Mineral Traits.
+
+[Time]: Summer Break, Day 50 — 4:30 PM[Location]: White City · Townhouse 107 · Sub-Basement Alchemy Laboratory
+
+"The coefficient drift for fluorite dust doesn't account for the lunar tide," Hathaway muttered, rubbing her temples. "Curie specifies a 0.0002 deduction when the lunar tide peaks, but the textbook skips three steps. Why does this particular coefficient need a deduction at all?"
+
+From the massage chair in the corner, Victoria did not reach for a reference text.
+
+"Fluorite inherently possesses a latent spatial resonance," Victoria said, her tone smooth, clinical, and completely unhurried. "When the lunar tide peaks, ambient spatial pressure drops. If you do not deduct the 0.0002 coefficient to account for the reduced resistance, the ignition catalyst over-performs and breaches the thermal threshold. You would detonate the crucible."
+
+Hathaway applied the logic. The math locked cleanly into place. She wrote the answer in the margin and went back to reading.
+
+It was the seventh highly specific, deeply technical question she had asked that afternoon. Victoria had answered every single one instantly, in exactly two sentences, without glancing toward the towering stack of reference textbooks. She was simply delivering data the way a calculator outputs addition, as an inherent property of her existence.
+
+Hathaway had seen this before, during the A1 certification tutorials. That version had been compelling.
+
+This version, watching Victoria effortlessly dismantle the most notoriously volatile examination track in the entire academic system, from a massage chair, without looking at a book, was threatening to snap the y-axis of Hathaway's internal charts entirely.
+
+Hathaway swallowed, looked back down at the textbook, and forced her processing threads to re-engage with the float values before her expression could betray the complete structural collapse of her professionalism.
+
+[Time]: Summer Break, Day 53 — 9:00 AM[Location]: White City · Townhouse 107 · Estate Expansion — Lower Strata
+
+Over the past two and a half days, Hathaway had maintained a punishing academic schedule, consuming the foundational texts, memorizing the hash tables, and processing the remaining feat scrolls at carefully measured intervals so as not to overload her neural architecture.
+
+By the morning of Day 53, her cognitive buffer was at capacity. If she read one more page of tidal compensation theory, something was going to spontaneously combust, and she had now spent enough time around alchemical instability to recognize this as a non-trivial concern.
+
+It was time to execute the terraforming project.
+
+In every fantasy novel she had absorbed in her previous life, beings who moved mountains, rewrote ecological cycles, and conjured self-sustaining biomes from empty space were described as gods. In the Inner Sea, the accurate classification was Arch-Witch. The only reason they did not actively reshape the continent every Tuesday was that, fundamentally, they were profoundly lazy.
+
+For Hathaway, however, this was the first time since transmigrating that she was deliberately deploying her mana pool for a purely constructive, non-lethal purpose.
+
+She hovered on her broom high above the estate's expanded lower strata, the fading cold of the artificial tundra pressing against her face. Victoria floated a few meters away, pale eyes tracking the invisible atmospheric currents below.
+
+"The foundational step is the atmospheric rewrite," Victoria instructed, her voice cutting cleanly through the rushing wind. "Reverse the high-altitude cold circulation. Force the geothermal steam from the lake to rise unimpeded and form a stable, warm-humid air mass. Use a heat distribution vortex to spread the thermal energy evenly across the entire lower basin."
+
+Because Hathaway possessed a remarkably sparse vocabulary of actual environmental manipulation spells, she bypassed elegance entirely. She flooded the upper atmosphere with raw, brute-force mana and physically seized the invisible cold currents, wrestling them into a reverse spin through sheer, overwhelming administrative pressure.
+
+"Your mana vortex is irregular on the eastern ridge," Victoria noted calmly, pointing a gloved finger. "Layer it thicker. You are leaking thermal retention."
+
+"On it," Hathaway said, dumping another massive wave of mana into the eastern grid and forcing the air currents to comply.
+
+This feels incredible, her developer brain noted, firing with a very specific, deeply familiar dopamine signal. Every gamer who had ever touched a keyboard harbored a dormant base-building instinct. In her previous life, she had burned hundreds of hours in sandbox creative modes, painstakingly laying out automated infrastructure. This was the ultimate, hyper-realistic, unlimited-budget premium edition of that exact fantasy.
+
+Working under Victoria's architectural direction, the estate underwent a rapid, total overhaul.
+
+She restricted the snowfields to the high-altitude boundary zones, transforming the flat tundra into a tiered mountain layer: a lush tropical island basin in the lower expanse, ringed by snow-capped peaks in the distance. The contrast was visually stunning.
+
+Next came the precipitation cycle. She saturated the newly formed cloud layer with mana and hardcoded a simple "trigger temperature" parameter: when the humidity maxed out, it rained: a warm, gentle tropical downpour that flowed directly back into the lake, completing a flawless, self-sustaining closed loop.
+
+The lighting system came last. She reached into the artificial atmospheric array that had previously maintained the bleak, glacial overcast and forcibly re-tuned the spectrum output to simulate a perpetual tropical afternoon: full-spectrum light, low sweeping angles, the kind of slow golden twilight that stretched shadows long and made the world look like a painting.
+
+Below them, the Walrus-Tusked Ground Leopards proved to be an unexpected infrastructural contribution. Under Rory's enthusiastic direction over the past several days, their pathological obsession with excavation had honeycombed the estate with a vast, interconnected tunnel network. As the tropical rain fed the new water table, those tunnels naturally flooded, transforming into a pristine, winding network of warm surface streams that crisscrossed the entire basin.
+
+Total environmental stabilization: before lunch.
+
+[Time]: Summer Break, Day 53 — 11:30 AM[Location]: White City · Townhouse 107 · Subterranean Cave Network
+
+They landed their brooms at the mouth of a large, unworked cavern branching off the main lake. It was dark, smelling of wet stone, the floor jagged and uneven.
+
+Victoria dismounted, smoothed her jacket, and raised her wand.
+
+[Transmute Rock to Mud] (Tier 5). The jagged, hazardous stalagmites liquefied and immediately re-solidified into smooth, rolling contours.[Fabricate] (Tier 4). The raw stone reshaped itself into smooth, odorless, interlocking hardwood that snapped into place across the cavern floor with mathematical perfection.[Garden Bloom] (Tier 5). Lush tropical moss and vibrant ferns exploded across the perimeter rock faces, the foliage dense and immediate.[Fresh Air Modification] (Tier 6). The stagnant cave air purified instantly, cycling through with a crisp, clean breeze.[Geothermal Burst] (Tier 6) and [Hot Spring Bloom] (Tier 7). The cavern walls fractured along natural fault lines, and cascading waterfalls of ice-blue, mineral-rich hot spring water poured into newly formed stone basins. The steam rising from the water caught the purified air, condensing into cascading crimson sea-flowers that drifted lazily through the grotto.
+
+Before the last cascade of hot spring water had finished finding its level, a damp, jagged, hazardous cave had been transformed into a fairy-tale hot spring sanctuary.
+
+Victoria lowered her wand. A quiet flicker of satisfaction crossed her features.
+
+"What was that for?" Hathaway asked.
+
+"Your family estate possesses an excessive volume of unutilized square footage," Victoria said, her tone carrying the mild, precise disapproval of an urban planner reviewing an abandoned lot. "You should be constructing proper landscapes."
+
+Hathaway experienced a profound architectural epiphany.
+
+I am a filthy casual. The realization landed with the weight of a structural indictment. I am a player sitting on a premium sandbox expansion pack, allowing prime real estate to generate default terrain assets indefinitely, and I have completely neglected the landscaping mechanics. She looked at the amber-glowing cave walls, the cascading hot springs, the floating crimson sea-flowers. She did not have so much as [Transmute Rock to Mud] in her active spell registry.
+
+She was going to have to update her toolkit.
+
+Stone manipulation: [Stone Shape] (Tier 4). Vegetation: [Plant Growth] (Tier 3). Material processing: [Fabricate] (Tier 4). Macro-terrain sculpting: [Move Earth] (Tier 5 to 6).
+
+She said it to Victoria.
+
+"The two that share a foundational intuition go first: [Move Earth] and [Fabricate]," Victoria said. "[Stone Shape] after. [Plant Growth] last; Tier 3 can wait."
+
+"Noted," Hathaway said, reordering accordingly.
+
+[Time]: Summer Break, Day 53 — 12:15 PM[Location]: White City · Townhouse 107 · The Lower Estate
+
+The moment the tropical waterway system fully activated, a pod of Walrus-Leopards rocketed through the rushing currents of the tunnel network like self-propelled geological events, shedding glowing blue coral spores into every new tributary and branch line as they went.
+
+Rory toddled into view at the top of the ramp. She froze, her wide eyes sweeping the golden tropical sunlight, the lush ambient warmth, the distant snow-capped peaks, the steaming rivers winding through the estate below.
+
+She let out a delighted shriek, broke into an unsteady, rapid run, and threw herself directly into Hathaway's legs.
+
+"Better!" Rory giggled, clapping her small hands together, her eyes shining as she looked up at the newly crafted sky.
+
+Hathaway laughed and scooped her up.
+
+Five stars, her developer brain noted, surveying the bioluminescent waterways, the amber grotto, the snow-capped peaks in the distance. Immersive, self-sustaining, no loading screens. Would build again.
+
+She hitched Rory higher on her hip. Victoria stood at her shoulder, the golden artificial sunlight catching the silver of her hair, watching a Walrus-Leopard execute an enthusiastic barrel roll in the nearest glowing stream.
+
+The new semester, the spells not yet learned, the weight of a thousand hash map entries staring down from the lab wall. Somewhere between the tropical rain and Rory's chubby hands patting her cheek, all of it had quietly let go.
+
+She stood in the warmth of the summer they were building, and it was enough.
