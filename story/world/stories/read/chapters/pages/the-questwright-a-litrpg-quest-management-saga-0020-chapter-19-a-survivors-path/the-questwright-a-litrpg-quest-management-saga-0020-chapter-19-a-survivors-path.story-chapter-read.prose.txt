@@ -1,0 +1,387 @@
+Cass’s day started with a soft Click.
+
+Opening his eyes, he found Kara’s head inching past the entryway.
+
+“Oh, I thought you’d already be awake. I apologize.” She looked at the nightstand beside him, his eyes following hers to find an already cold breakfast sitting there.
+
+Cass sat up, the strength in his arms having recovered significantly compared to the past few days. “I guess last night wore me out more than I thought.”
+
+Kara raised a hand as she took a nearby seat. “My fault. The only reason I invited so many people was that I thought it would help you. Did you see any gains from your efforts last evening?’
+
+Cass frowned, ignoring the question, “Why are you talking that way? You used to be much more…” He searched for the right word. “Open, than you are now.”
+
+She grimaced, “My Supervisor noted a change in my personality as well. She thinks I’m blaming myself for what happened to you, even if I’m not consciously doing so.”
+
+“And are you?”
+
+A light shrug was her response, “I guess. Logically, I know it’s not quite my fault, but I still sent you with Shamus.”
+
+“And I sent Johnny on that Messenger Quest.”
+
+A deep silence fell as they both considered the other’s guilt. Kara’s laugh shattered the moment, “What fools we are.”
+
+Cass snorted, the sound somehow coming across as both agreement and disbelief, “Is this what being an Administrator is like? Guilt on your back, but the day comes calling for more?”
+
+“Don’t forget paperwork.” Kara’s smile was small, but real. A notable step-up from before. “We still have it better than many of the Combat Callings.” Leaning back in her chair, she crossed her legs, bouncing one foot and much more herself than she’d been since first walking into the Infirmary. She glanced toward the door, “Ready for the day’s beginning?”
+
+“One sec.” Cass reached over and grabbed his cold porridge, small bits of sliced fruit telling him his father had dropped it off for him. He pushed a spoonful into his mouth before mumbling, “ohkay”
+
+Adya Korring and a new face arrived shortly after. The young woman standing next to the scout was decked out all in leather as Kara introduced her, “This is Vino Khatri, Calling: Tracker. You already know Adya.” The Scout nodded at him without speaking.
+
+Now that he thought about it, he’d never once heard her voice.
+
+Kara stepped up beside him, “I’m going to walk you through creating a Training quest for them both. Go ahead and pull up the System map and describe what you see.”
+
+Cass pulled up the Map. While he’d always been able to see Administrative Quests, he’d assumed with the addition of Training Quests, the markers would explode in numbers. But that isn’t what he saw. Instead, there was a multi-hued marker right next to him, and two more in green locked in on himself, Adya, and the new girl, Vino. Saying so out loud, Kara sighed.
+
+“Yes. Training Quests, while necessary, aren’t often created by the Guildmaster. Since they are always personalized, they’re treated differently. He doesn’t get around to making them very often, aside from basic Foundational and Team Leader types. Pull up the outliner and let's dive in.”
+
+Following instructions, Cass got the outliner up and set it to Training. A list with several options dropped down.
+
+Kara had Cass focus on Adya for the first Quest. Sticking to the thirty percent rule, she had him create a quest for her to both memorize the route and deliver a message to the Western Fieldhouse outside of Liora. Things got a little complicated as he built it out, Kara’s voice helping him manage all of the smaller options that appeared as he merged the two tasks into one Quest.
+
+Quest ID: CV-0001-T-LIA
+
+Type: Movement training and message dispatch
+
+Objective: Scout Adya Korring will bring a non-urgent message to the Western Fieldhouse. Route must be memorized and repeated verbally upon return to Guild Trainer Tier 2: Kara Tullis.
+
+Source Location: Liora Guildhall Quest Registry: First Floor
+
+Destination Location: Western Fieldhouse (LIA-WFH)
+
+Assigned Candidate: Adya Korring
+
+Completion Conditions:
+
+Timeframe: 3 hours
+
+System Reputation: +3
+
+Modifiers: Dual-Track Quest (+100%), Complexity (+20%)
+
+Questor Reward: +12xp
+
+QuestWright Reward: +1.2xp
+
+Embarrassingly, even with Kara’s help, it still took him over fifteen minutes to create the Quest. Drafting it caused a sweat to break out on his head as he tried to contain all the modifiers in the tiny unoccupied space of his mind. When it was done, well, it wasn’t pretty.
+
+[Tier 1 Training Quest]
+
+Adya Korring, travel to the western fieldhouse that I have never been to and bring with you a letter of meaninglessness from the Liora Guildhall’s first floor. Do not die. Do not get mauled by Skreels. Do not end up like Johnny, so I will not be sadface.
+
+Memorize thy path to your utmost powerfulness, then, repeat it back to previously but no longer weird Guild Trainer Scary Tullis.
+
+You have three hours.
+
+Cassio Vale
+
+Liora Guildhall
+
+QuestWright
+
+“You’re backtracking a bit here,” Kara said, holding up the Quest as she read it. “Your message types the other day were almost guild-standard.”
+
+“A lot has happened since then.” Cass said as he fed himself some more porridge, cheeks brightening when Adya snorted after reading it, a brief glow suffusing her figure.
+
+[System Notice]
+
+Bonus reputation granted for building a multi-level Quest:
+
+10 System Reputation
+
+Achievement progress:
+
+7/10
+
+Cass read it over, then refocused. Vino’s quest was much easier. The Tracker gave him a cheery smile when she stepped closer and he drafted her quest.
+
+[Tier 1 Training Quest]
+
+Vino of the tight-leathers, you are required to circle the grounds of Liora three times in search of those pieces of shits who killed a good man. If you find danger, you are to retreat. Report your final findings to Guildmaster Hollis at the end of the day.
+
+Cassio Vale
+
+Liora Guildhall
+
+QuestWright
+
+“Better, though still in need of work.” She handed it to the woman, who gave a small giggle before shining gold and leaving, Adya following behind her. “I guess it’s only natural that your experience will affect you this way.” She patted his shoulder, “Give it a little time, things will get better.”
+
+She too left, and Cass quietly finished his porridge. The tutor visits started quickly after, and a new shift began with sleepy eyes. Archivist Marell focused on what was known about self-modifying your screens, while Vex taught about the first Consortia, and why corporations were a thing of the past.
+
+There was a brief pause, during which Gary dropped in and failed at a weenus-grab. They spoke for a few minutes before the Baker had to leave, Quest in hand, and Cass was left alone again.
+
+Then he remembered the Quests completing last night, and just how close he’d been to his first path. Lying back, he accessed his experience screen and watched the nodes pop up.
+
+Calling: QuestWright Initiate: Cassio Vale
+
+Level: 3
+
+Experience Accrued: 300.1
+
+Experience required for the next level: 149.9
+
+Unspent experience: 200.1
+
+“Finally.”
+
+He didn’t have to consider which to pick; that was already in the past. Choosing his first Path was a foregone conclusion the moment it had appeared. He’d just needed to come to terms with it.
+
+As he selected the node, red text appeared above it.
+
+[SYSTEM WARNING]
+
+Survivor is a unique Calling path.
+
+Should you choose this, you will never be able to take another’s Quests again. All active Quests assigned to you will be marked as complete with default-level returns.
+
+Proceed?
+
+[Yes] [No]
+
+Cass stared at the prompt, the wheels in his mind turning furiously.
+
+The System’s wording was explicit and couldn’t be misunderstood. If he took this path, it would lock him out of any other Quests he might pursue. It would isolate him in a world of Quests. Roads that he would no longer be able to tread upon.
+
+Cass exhaled sharply, not realizing he’d been holding his breath. “If this is what it takes to get skills that will help me stay alive, it’s worth it.”
+
+[Path Confirmed: Survivor]
+
+The dim surroundings took on a green light as the node shook, then shattered. Fragments split up and shot into the distance as five new lines appeared from their broken origin. They were raw and uneven. Jagged things that brought to mind roughly hewn wood that hadn’t gone through processing.
+
+Text blazed itself over the original line leading from the shattered node.
+
+The Path of the QuestWright Survivor:
+
+You weren’t chosen for combat.
+
+You weren’t trained for violence.
+
+But the world doesn’t care.
+
+Though injured, you continued to think.
+
+Though outclassed in violence, you adapted.
+
+You were broken, and yet you survived.
+
+Where others fall, you endure. The System watches…and rewards.
+
+Qualifications Met!
+
+5/7
+
+Hold a non-combat Calling
+
+Defeat an enemy without a proper weapon or assistance
+
+Complete a Quest that holds a higher danger level than natural
+
+Take a severe wound and maintain mental clarity.
+
+Endure without System support or healing during a combat situation.
+
+Make excellent tactical decisions while under duress.
+
+Survive.
+
+Every line lit up, each a different color as writing appeared.
+
+Way of the Stalwart
+
+You endure. Not because you’re unbreakable, but because you refuse to stop.
+
+The QuestWright can assign one Quest per day to themself.
+
+Quests will increase resilience, bodily strength, and physical fortitude.
+
+Passively enhances Cassio Vale’s recovery.
+
+— —
+
+Way of the Cinder
+
+Your flame burns slowly, but never out.
+
+The QuestWright can assign one Quest per day to themself.
+
+Quests will increase stamina efficiency, recovery rhythm, and physical tolerance.
+
+Passively improves Cassio Vale’s stamina.
+
+— —
+
+Way of the Tempered
+
+You weren’t forged for battle, you were shaped by it.
+
+The QuestWright can assign one Quest per day to themself.
+
+Quests will improve dexterity, bodily control, and combat instincts.
+
+Passively improves Cassio Vale’s reflexes.
+
+— —
+
+Way of the Wild
+
+The world didn’t kill you. You just learned how to move through it.
+
+The QuestWright can assign one Quest per day to themself.
+
+Quests will improve fieldcrafting, supply foraging, and natural evasion.
+
+Passively improves Cassio Vale’s instincts.
+
+— —
+
+Way of the Last Light
+
+When no one came, and hope thinned, you kept going into the dark.
+
+The QuestWright can assign one Quest per day to themself.
+
+Quests will improve mental endurance, fear resistance, and willpower.
+
+Passively improves Cassio Vale’s clarity.
+
+CHOOSE YOUR WAY
+
+CASSIO VALE
+
+Cass stared at the five Ways, each radiating a different hue as the words carved themselves deep into his thoughts. He re-read the System text, making sure he hadn’t misunderstood anything. The path didn’t restrict him.
+
+It gave him the tools to build Quests for himself.
+
+Every Way pulled at something different buried within him. Stalwart promised to build strength, implying it would heal him faster. Cinder, on the other hand, seemed more attuned with stamina and energy. Tempered would help him in fights or fine motor control, while the Wild would see him survive if he ever found himself lost or alone in a dangerous place.
+
+The Last Light felt different than the others. More isolated. Independent, even.
+
+A dull throbbing pain in the back of his skull almost made the decision for him. If he chose Stalwart, and it really did improve his body as described, he could be out of the infirmary that much quicker. And it wouldn’t hurt to have some extra muscles on his out-of-shape body.
+
+But for some reason, his eyes trailed back to Tempered several times.
+
+“I hope I can pick all of them eventually.”
+
+But he knew from the moment he first saw the option which one he would pick. His recent fight with the Skreels, the visual of Johnny’s torn-up body, and the need to leave the infirmary were all too strong. With a sharp breath, he focused on the glowing Way of the Stalwart and accepted the prompt. The other lines faded into the background like future possibilities, less tangible, but still very much there. In the bold, red color of the Way he’d chosen, text appeared.
+
+[WAY OF THE STALWART INTEGRATING]
+
+Then, a burning pain registered throughout his body. With a gasp, the screens closed out on their own as Cassio involuntarily arched his back.
+
+It felt similar to the potion, but instead of gently drifting throughout his body, it struck all at once. Every square inch of his body felt like it was on fire, until, ever so slowly, the fire moved to only two locations. His injured arm and the upper part of his chest.
+
+Panting, Cassio felt the pain continue to burn as he pulled away his sleeve to look at the several slashes marring his skin. The last time he’d looked, being only yesterday, it had been a mottled mess of angry bruises and partially sealed wounds. Now, it already looked better, with some of the coloring shifting as he laid his eyes on it. Still painful, but seeming as if a whole week had already passed, rather than just a few days.
+
+“Not instant, but improved,” Cass said through gritted teeth. The pain didn’t lessen, but he did grow slightly more tolerant of it as the minutes ticked down. When he got control of himself, he selected his notifications.
+
+[SURVIVOR PATH: WAY OF THE STALWART- INTEGRATION COMPLETE]
+
+First node unlocked: Basic Physical Calisthenics.
+
+First Quest Automatically Assigned
+
+Questor: Cassio Vale
+
+Calling: QuestWright
+
+Objective: Complete a full calisthenic cycle:
+
+Timeframe: One Day
+
+Questor Reward: +5xp, 1 Stalwart Token, 1 Survivor Token
+
+It didn’t stop there. As soon as Cass registered that experience and two tokens were up for grabs, a deluge of notifications rang in.
+
+[SYSTEM NOTICE- TITLES UNLOCKED]
+
+All titles held in reserve are now released.
+
+[Title Unlocked: QuestWright Initiate]
+
+Recognized by the System as a designated QuestWright who has successfully completed Foundational training.
+
++25xp
+
++10% experience gained from all completed Quests
+
+Upgradeable
+
+Note: Title pre-emptively upgraded
+
+[Title Unlocked: Speedy Leveler]
+
+Unlocked for reaching Level 2 in less than a week of receiving your Calling
+
++1 bonus experience granted for every five completed Quests
+
+Upgradeable
+
+Note: Modified per Calling
+
+[Title Unlocked: Blooded Survivor]
+
+Granted for slaying a monster with a non-combat Calling
+
+Gain an additional daily personal quest for every three steps on the Way
+
+Note: Blooded title modified by Path of the Survivor
+
+[Title Unlocked: WayWalker]
+
+A special title granted for unlocking a unique path
+
+Activates the Unique Achievement Set
+
+— —
+
+[System Notice]
+
+Bonus experience granted for unlocking a Unique Path
+
++5 xp
+
+WayWalker Achievement progress 1/10
+
+Bonus reputation granted for completing Foundational Training (Review Superceded):
+
+20 System Reputation
+
+Achievement progress:
+
+8/10
+
+Bonus reputation granted for unlocking your first path:
+
+40 System Reputation
+
+Achievement progress:
+
+9/10
+
+Cass's world became filled with numbers and hypotheticals. Then a clear thought rang through, “Why isn’t it retroactive?!” Though he’d just received a wave of experience, a part of him felt greatly let down that the percentage multipliers now applying to every Quest he wrote didn’t kick in. With a sigh, he pulled up his experience screen again.
+
+Calling: QuestWright Initiate: Cassio Vale
+
+Level: 3
+
+Experience Accrued: 330.1
+
+Experience required for the next level: 119.9
+
+Unspent experience: 30.1
+
+Titles earned:QuestWright Initiate, Speedy Leveler, Blooded Survivor, WayWalker
+
+Cass spent some time reviewing the multipliers and expectations for all his new titles. The fact that the Ways had its own method of activation brought whole new possibilities to his mind.
+
+“I’m gonna have to change up my schedule.” Daily training would no longer be optional. It was now just a part of who he had to be. Not to mention, with all the bonuses attributed to Questing experience and his agreement with Rina, he’d be shooting up in levels soon enough. Maybe enough to upgrade the Speedy Leveler again.
+
+As for his System reputation gains, he chose to ignore that at the moment. He’d just started to learn how to assign Training Quests and hadn’t even touched Administrative types. Taking on too much was a sure way to fry your brain.
+
+Staring at the titles for the third time, a soft knock came at the door. Cass swiped it away as he called out.
+
+“Come in.”
+
+His sister peeked her head in, “Hey, Cass.”

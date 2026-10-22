@@ -1,0 +1,207 @@
+It turned out, Cass wasn’t half bad as a QuestWright. There was a rhythm to it that was almost meditative, and the longer he worked at it, the more he enjoyed it.
+
+I could get used to this.
+
+Sure, it was creating a simple delivery quest, and yes, it was a simulation, but as he grew accustomed to the options that appeared and clicked through each setting, it all started to fall into place. As he worked, Kara answered all of his questions.
+
+“Deliveries are always non-living. If you tried to add a living being, like a dog, cat, or even a person, the option would change to an escort quest. You don’t have access to those yet.”
+
+“Long-distance quests don’t return here. That’s the curse of being a low-level QuestWright: your contracts don’t auto-complete. Normal contracts are reabsorbed the moment they’re done.”
+
+“I don’t know how long it took Guildmaster Hollis to get to his position; you’d have to ask him yourself.”
+
+With a few additional selections, Cass finally felt like he had a working model.
+
+Quest ID: Sim-CV-0001-LIA
+
+Quest Outline: (Simulated – Tutorial Mode)
+
+Type: Delivery
+
+Objective: Deliver 10 kg of flour
+
+Source Location: Sim01 Miller
+
+Destination Location: Sim01 Bakery
+
+Assigned Candidate: (Auto-Generated)
+
+Completion Condition: 10 kg of flour in the residence of Sim01 Bakery
+
+Timeframe: Delivery window: 2 Hours
+
+Modifiers: None
+
+Reward: (Calculated based on final Outline)
+
+With the timeframe finally set, he felt it was done. It was clean, efficient, and should give the simulated candidate plenty of time.
+
+“Complete.”
+
+Tapping on an empty part of the screen, Kara asked, “Any particular reason you chose a bakery?”
+
+Cass shrugged, “Just curious about how this all works.”
+
+Kara paused, “Alright then, let’s see what we’ve got. Go ahead and select Outline in the Ledger.”
+
+Seeing what she was talking about, Cass hit the button, then was caught off guard when a warning splashed across his screen.
+
+Warning: Destination site Sim01 Bakery is currently undergoing reconstruction.
+
+Redirection required.
+
+Cass blinked twice, “Wait…what?”
+
+“As expected for a QuestWright’s first outline. You didn’t check the destination and the source locations for any issues. Creating quests isn’t as simple as just inputting a few settings; you have to know everything around it. Who, what, when, where, and why. Without that, you’re just a basic functionary.”
+
+Cass frowned. “So, what do I do?”
+
+“As it’s a sim, there’s no harm, no foul. In the real world, you’d take a hit to your reputation as a QuestWright. The ID at the top isn’t just a notifier of what the quest is, but who assigned it. For this issue, though, you either need to find a new location that wants 10 kg of flour or find a new quest.”
+
+She stepped beside him, hands behind her back as she leaned against the side of the desk. “Most Civic quests come through the Petitioner Chamber, so issues like this don’t often crop up.”
+
+“Then why would it need to be a quest? Couldn’t they just grab the flour and walk it over to the bakery? It doesn’t seem realistic for everyone to need to fulfill quests for every action.”
+
+“And they don’t.” Kara said, giving him a level stare, “But after the reshaping, everyone needed one thing more than anything else: trust. Quests create a verified record, assign accountability, and let Liorans gain bonus experience through real, honest work. It’s how we rebuilt all of this.” She gestured around the room. “Most civic quests come from one of two places, enterprises like Companies and Trade Consortiums, or Liora itself through the system. And they all want the same things…results and proof. Quests give them both.”
+
+Cass chewed on that as his mind ran through everything. “So, it’s about the people.”
+
+Kara’s expression lightened perceptibly, “It always was. Good.” She gave a nod, “Proof. Record. Reward. Break any part of it, and the System will knock you down a peg. Go ahead and fix that up, there’s another Bakery near the south.”
+
+Cass did as she instructed, and with slight trepidation, hit Outline again. The map took over the screen, pushing his ledger to the side, as a green marker appeared that hadn’t been there before. A thread shot out as everything connected, and a wavy, green path emerged from the Miller to the Bakery.
+
+Quest ID: Sim-CV-0001-LIA
+
+Objective: Deliver 10 kg of flour from Sim01 Miller to Sim03 Bakery.
+
+Assigned Candidate: Sim099
+
+Status: Active
+
+Questor Reward: +5 XP
+
+QuestWright Reward: +.5 XP
+
+Kara snorted, “Here it comes…”
+
+“Here what com-” Cass’s vision was blocked as text appeared, not on the System Map, but on his overlay.
+
+Basic QuestWright Tutorial Completed
+
+Additional experience granted for simulated quest completion:
+
+1xp
+
+Experience Progression paths activating…
+
+The text faded, and in its place, a black screen appeared with a single gray node at its center. Though he didn’t touch anything, when he focused on it, information appeared.
+
+Calling: QuestWright: Cassio Vale
+
+Level: 1
+
+Experience Accrued: 1.0
+
+Experience required for the next level: 99.0
+
+Then, more nodes appeared around it. The first one to reach clarity had a slightly green hue, and it directly connected to the original, with more lines branching out from it.
+
+What kind of heaven is this? Cass thought to himself.
+
+When he first got the Calling, he thought it'd be a linear path, like Gary’s. His friend had told him that each step on the route of baking was a movement from one to the next. Kneading, timing, rolling. But this was…something else.
+
+The information for the second node appeared as he had those thoughts.
+
+Autonomy upgrade: 100xp
+
+Allows the QuestWright to create quests and contracts from any location.
+
+Following that, two nodes broke out from there, with two more beyond them, though they were slightly blurred.
+
+The Path of Inspection:
+
+A line of development focused on refining how candidates are evaluated and assigned.
+
+Unlocks abilities that increase match precision and reduce inefficiency.
+
+Cost to unlock: 200xp
+
+The Path of Logistics:
+
+A line of development focused on goods, resources, and civic management.
+
+Unlocks tools that grant the QuestWright increased understanding of supplies and crafting methods.
+
+Cost to unlock: 200xp
+
+The Path of Resolution:
+
+Unlock one path to view…
+
+Cost to unlock: 700xp
+
+The Path of Expansion:
+
+Unlock two paths to view…
+
+Cost to unlock: 1000xp
+
+Cass didn’t know it, but he was mumbling the writing as he read through. When Kara’s voice blared out of nowhere, he stumbled back, his screen automatically fading into the background.
+
+“Each path opens new abilities and unlocks further combinatory ways of growing your Calling.
+
+You know how they say there are no two snowflakes alike in the world? It works the same way with QuestWrights and many of the rarer Callings.”
+
+Cass latched onto one word. “Combinatory? Wait, you’re saying if I unlock Logistics and Expansion, I’ll have a hybrid path?”
+
+“Exactly. As a Guild Trainer, the system lets me view several paths you might take. Synergy begins to show when your choices start to overlap. So-” She stood up from her leaning position, “Any preference between the two?”
+
+“I don’t know yet.” Cass said, placing his hands on his face, “This is a lot more than I thought it was. I figured I’d just be, you know, making quests and throwing them out willy-nilly. You get a quest, you get a quest. But after the issue with the SIM and now seeing this…I-I need to think”
+
+“That just might be wisdom showing through your age. Come on, we still have another stop to make.” Asking him to follow her, Kara started to walk back into the thoroughfare.
+
+Cass stood up, unsurprised to find that the System map and Ledger had disappeared. All that was left was the threadbare seat and wide desk, innocuous as anything else in the building. He quickly caught up, finding the Guild Trainer standing near several large, wooden boards, pieces of paper pinned to them.
+
+Stepping up to one with a blue border at the top, she gestured. “This is the Tier 1 Civic quest board. Any tasks that can be fulfilled by those brand new to their calling and up to level 10 will come here.”
+
+She stepped over to a green-bordered one, “Trade and Crafting,” and another, this one in red, “Combat and Defense.”
+
+Each board was filled with pinned papers, layered and crisscrossed across its breadth. As he looked at them, a man in a robe stepped toward the red board and pulled down a page. It glowed gold, he glowed the same, and then he walked away. Nobody even noticed the strangeness of it.
+
+“That man just glowed.”
+
+“What?” Kara glanced up, spotted the man, and gestured in his direction. “Yeah, that happens. When you pull down a quest, the system prompts you automatically. It does a quick scan to make sure you fit the role and level requirement; most of the Tier 1s do that.”
+
+Cass looked at the hundreds of pinned pages again, “And this is all made by Guildmaster Hollis? All…all of them?”
+
+“Hrmm? Yep. These floors and the others.” She pulled a page she’d been looking at off the board. It glowed, but strangely, she didn’t. “Follow me.”
+
+Stepping over, she approached a woman behind a standing desk in the standard Guild robe and placed the page down. “Chancey, why is this quest on the Tier 1 red board?” Though she spoke in an even tone, there was an undercurrent there that made Cass’s spine tingle.
+
+The young woman grabbed the page and looked it over, seemingly not noticing. She spoke in a light and bubbly fashion, “Oh my goodness, I have no idea, Kara. Let me run this up to the second floor right away.”
+
+Kara held up a hand to stop her, “You realize that if a low-level picked that up and set out to complete it, they’d assuredly have died. We haven’t had a single death in the last three months, do you know why that is?”
+
+The bubbles seemed to pop as the young woman’s eyes grew wide, “No, Kara.”
+
+“It’s because,” the words came across slowly, “Every. Single. Time. The quests arrive, they have to be placed on the correct board. Do you have your Quest Guide?”
+
+Chancey held up a book thicker than Cass’s wrist as she seemed to wilt before them, “Right here.”
+
+“Excellent. I want you to spend the next three evenings reviewing the Quest Guide over and over again. If I get back here and find another mismatched quest,” a pause. “I’m going to make you eat it.”
+
+“Yes, Kara.” The young lady said, standing straight up from her slouched position, a green look to her face.
+
+Kara waved at Cass, who tried to dip his head a little, not wanting the woman to feel even more embarrassed as he followed the Guild Trainer out of the building.
+
+As soon as they got outside, Kara rubbed her hands through her hair, “Ugh, I hate Clerks. It’s like the System picked the dumbest people for that Calling. Well, not all Clerks, just most of ‘em.” She spun around fast enough that Cass almost walked into her. “So, you’re not due to start your QuestWright duties until the day after tomorrow. Since you said you need some time to think, I’m going to let you go right now. I suggest you take care of your affairs with the extra day. Here, this is your schedule beginning Monday.”
+
+She handed over a page that glowed the moment he touched it, writing appearing in real-time. Numb from the changes the day had brought, Cass didn’t even think there was anything special about the action. He looked up as Kara had already started to walk away.
+
+He yelled back at her, “Physical conditioning at six a.m.!”
+
+“6.15,” She yelled back without turning, “You’re welcome!”
+
+“But I’m a QuestWright,” He mumbled to the empty air, “I assign the quests.” He looked at the glimmering page in his hand, then at the woman’s quickly receding form, and came to a decision.
+
+“Lunch. Then panic,” he muttered, “then…studying."

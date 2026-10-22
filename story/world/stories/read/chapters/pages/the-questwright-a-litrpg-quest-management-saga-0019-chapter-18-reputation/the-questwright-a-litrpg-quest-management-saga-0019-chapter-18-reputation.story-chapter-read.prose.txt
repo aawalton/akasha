@@ -1,0 +1,329 @@
+Cass woke up with a severe case of dry mouth. Thankfully, the GoldenCrown Infirmary was a well-prepared location. On the nightstand beside him and just in reach was a jug of water and an empty glass. Quickly pouring and solving his first problem of the day, he noticed the blank Vellum lying beside the jug.
+
+Something stirred within him, causing him to reach for his interface immediately as he settled down to stare at the ceiling.
+
+[System Notice]
+
+4 Quests completed:
+
+Total xp gained: 2.1
+
+Total System reputation gained: 5
+
+Total Liora Guildhall reputation gained: 1
+
+Details can be found in your Quest Ledger.
+
+Frowning, Cass pulled up the entries. Something’s off.
+
+[Quest Ledger Entry: CV-0003-D-LIA]
+
+Assigned Questor: Pellin Cray
+
+Quest Objective: Pellin Cray delivered the horse, Bella, to the Stablemaster at the Liora Guildhall.
+
+Status: Completed
+
+Questor XP Awarded: +6 XP
+
+QuestWright XP Awarded: +0.6 XP
+
+System Reputation: +2
+
+Modifier:
+
+Notes: Quest complexity increased due to the difficulty of separating the horse, Bella, from an unknown attachment.
+
+Warning: Quest parameters and results border on a state of mismatch. Although not an escort-type delivery, this quest is almost unqualified and came close to damaging your System Reputation.
+
+“Damaging my System reputation?” Cass muttered to himself, “What makes it different from any other Delivery?” The note lingered with an uncomfortable weight on his mind. Shifting in the bed, he considered what the System wanted. It didn’t take him long to figure it out.
+
+“It really wants me to unlock new Quest types.”
+
+Not one to argue with the System's logic without knowing everything he needed to, Cass tapped on the reputation button steadily blinking in the corner of the Ledger.
+
+Just like when viewing paths, the world around him turned pitch black. But unlike the lines and nodes that defined experience options, reputation appeared as towers rising steadily from the darkness.
+
+In the center, and quite large, stood a wispy System Tower. It gleamed with several interlocking silver blocks, each pulsing with a soft light that felt rather inviting. To the right of it were the two Quest types he’d already unlocked, with a plus icon beside them, but he wanted to explore the area before making a decision.
+
+Focusing on a single block near the base, translucent text appeared overhead.
+
+QUEST ID: CV-0001-D-LIA:
+
+Source: Gary Trenner’s successful Quest completion
+
++1 System Reputation
+
+Each block responded to his focus, highlighting entries from the last week, with the majority being from Gary. Many showed simple completions, but one stood out as larger and far brighter.
+
+QuestWright Achievement #6 out of 10:
+
+Source: Three Quests in the same category
+
++5 System Reputation
+
+While another was three times as large, with a darker pulse emanating from its center.
+
+Combat Reputation:
+
+Source: Defeated 2x Skreel, 1x Alpha Skreel
+
++15 System Reputation
+
+Cass swallowed through a renewed dryness in his throat. The visual weight of the tower was immense. It wasn’t very tall right now, but the more he did and the more the System saw, the larger it would grow. It was a perceptible image of his Calling. And the silver tower wasn’t the only one.
+
+To the left stood another tower, shorter and polished in gold. Only two blocks made up its body. When he focused on them, it brought up his time meeting the Crafters and the completion of Pellin’s trip with Bella to the stables.
+
+In the back, all alone, sat a small but thick amber tower built from a single block.
+
+Bella the Draft Horse:
+
+Implicitly trusts Cassio Vale for actions taken during a Skreel pack attack.
+
+System note: Reputation gained is conditional and tied exclusively to the animal’s ongoing trust. Any perception by Bella of abandonment or mistreatment may result in a loss of reputation or penalties.
+
+The brownish, amber block seemed almost warm, as if it were alive.
+
+So I guess I have a horse now. He hadn’t been to the stables before; all he knew was that it was in the southeast of the Guildhall. I’ll visit her as soon as I get out of here, but it does make me wonder. Why doesn’t it show my relationship with other people?
+
+Questions unanswered, Cass focused back on the System Tower again, clicking on the plus sign to see what new options appeared.
+
+QuestWright Cassio Vale:
+
+Region: Liora- LIA
+
+Callsign: CV
+
+(Unknown)
+
+—
+
+Current System reputation:
+
+35
+
+— —
+
+Initiating weekly Reputational review:
+
+Weekly quota met:
+
+Yes : 5/5
+
+Failed Quests:
+
+1- Delivery Quest assigned to Johnny Figure
+
+Reason for failing: Questor Deceased
+
+Total quests completed since last review (Initiation of Calling):
+
+9
+
+Pending quests:
+
+1: Personal: Foundational Training set by Callsign: GH
+
+…
+
+Minimal reputation gate for upgrade met: 30/20
+
+Status updated:
+
+QuestWright Cassio Vale:
+
+Region: Liora- LIA
+
+Callsign: CV
+
+Calling recognition upgraded: Unknown -> Initiate
+
+Automatically assigning new quest type: (A)Administrative
+
+…
+
+QuestWright Ledger updated…
+
+…
+
+You may now select a new Quest type from the following options (Restricted by recognition level):
+
+-COMMON QUEST TYPES-
+
+(R)Retrieval, (E)Escort, (B)Construction, (S)Scouting, (U)Support, (I)Investigation, (F)Resource, (T)Training, (L)Diplomatic, (RE)Rescue
+
+[SYSTEM NOTE]
+
+New Quest types unlock at higher reputational levels
+
+In the real world, Cass heard the click of the door as someone came in. Telling them he’d be just a moment, he looked over each available option. I need to be smart about this. Delivery and Message quests are fine, but I need something I can hand out often. Something that’ll bring in the most amount of experience possible without violating my rules in a short amount of time.
+
+Quickly, he eliminated the Investigation, Diplomatic, and Rescue options. The odds of them showing up right now were almost none, as was the idea of the Guild assigning a QuestWright who’d had his Calling for all of a week to create them. Focusing on Support, a description came up.
+
+(U) Support: A Quest type related to aid roles, such as healing, greater logistics, and morale.
+
+Nope, that won’t work. It’s doubtful they’ll send me to the combat lines anytime soon, even with what happened.
+
+He looked over the options again. Because of what Pellin’s Quest had said, he was curious about escorts.
+
+(E) Escort: A Quest type related to protecting a person or object during transit.
+
+Why the hell was Bella almost an escort type? Did she fight Pellin, or was someone trying to steal her? What happened?
+
+One by one, he focused on each description until he felt he’d found the right choice.
+
+(T) Training: A Quest type related to helping others improve their skills and physical conditioning
+
+Hearing a sigh from the real world, Cass settled on his choice, finalizing it when the prompt appeared.
+
+Quest type: (T) Training selected…
+
+QuestWright Ledger updated…
+
+New recognition status: Initiate
+
+The System has increased your maximum Quest rate.
+
+New maximum daily Quest rate: 10
+
+New weekly Quest quota: 20
+
+The reputation screen folded in on itself, bringing the towers back into view. As he watched, the bricks making up the first two-thirds of the silver tower solidified, any form of transparency disappearing with his choice as it became that much more real. His four quest types now floated beside it, settling near the Reputation he’d used to finalize his choice.
+
+Cass closed the screen right after, only to find Kara staring at him. He gave her a light wave, “Hey, Kara,” He said, shifting upright. “Just reviewing some System updates.”
+
+Kara moved closer with an odd hesitation. She glanced once at the Vellum on the table before sitting in a nearby chair. “You looked pretty focused. Something important?”
+
+Cass hesitated, but only for a brief moment. What had happened with Johnny and the Skreels wasn’t her fault, and it wasn’t the Guildmaster's fault, no matter what they both thought. It was the Skreels' fault, not to mention the messed-up world they lived in. Blaming her wouldn’t go very far, and he refused to be petty.
+
+He told her about Bella, the towers, and the new quest type, though he kept his new paths to himself, following Guildmaster Hollis’s advice.
+
+When he was done, she gave him an approving nod. “Training was an excellent choice, if I do say so myself.” A light grin fleetingly came across her face, but it was gone fast enough that he almost thought he’d imagined it. “That’ll be very easy to make sure you meet your weekly quota. So I take it you leveled up?”
+
+“Yep,” He confirmed, “In both experience and reputation.”
+
+“Reputation…” She tapped the chair’s arm twice, “Oh! You’re an Initiate now? Hey, congratulations, Cass! Most QuestWrights take several weeks to get there. Level three and already an Initiate, wow…” She paused, and Cass could almost hear the cogs in her brain churning. Suddenly, she pounded a fist into her hand. “This calls for a celebration. You survived a bout with monsters, and you’re level three in both of your tracks. Yes, we definitely need to mark the occasion.” The Guild Trainer stood up, paused, then bounced out of the room, leaving Cass alone again in his bed before he could come up with a reason why it wasn’t necessary.
+
+“Great,” He muttered through a clenched jaw, not exactly enthused to have a large group of people staring at him.
+
+Over the next few hours, Cass had several visitors. True to his word, the Guildmaster had set up tutoring sessions with all of Cass’s instructors, and most offered mild encouragement during their meetings. He learned as best as he could, trying to ask questions he felt pertinent while ignoring the steadily creeping pulsing in the back of his skull. Most of them were very understanding, but the worst by far was Officer Vex of the Valiants.
+
+Rather than his usual, dry tone as he related every major event in recent world history to himself, he instead peppered Cass for descriptions of the battle and how he should’ve fought instead.
+
+“No! Skreels are pack hunters. You did great separating them, but they’re one of the few monsters we know of who will try to defend one another. Wound ‘em! Then, group them up for your kills…What do you mean you only had a knife?”
+
+In between his tutoring, a few oddballs dropped by as well.
+
+After making Gary’s newest daily quest, he discovered a muscled-out Holt standing in the entryway. The blacksmith took two steps into the room before Cass was able to see Rina the Leatherworker waving behind him. The large man seemed to be looking over every inch of the room while chewing on the inside of his cheek. “So this is the GoldenCrown Infirmary…I thought you’d get a bigger room.”
+
+Cass rolled his eyes. “Sorry to disappoint you.”
+
+The man looked like he was about to spit, then thought better of it. “It’s no matter.”
+
+Rina shoved past him, “Hey there, Cass! Holt’s been telling me that you got him ten experience points in the last few days, and I remembered you wanted that list. So after Orla dropped by the Commons, we thought we’d stop in and hand it off to you. Here.” A multi-page volume written in a clear script was handed to him. Cass only looked at it for a second before he started to feel overwhelmed.
+
+“This is…a lot.”
+
+“Yeah!” Rina said, misunderstanding the tone of his voice. “When word got out that there was a QuestWright handing out experience, and that he was the same guy who’d killed a pack of monsters with an Administrative Calling, everyone came forward. Isn’t it great?”
+
+“Yes…Yes, it is.” He flipped through it for a few moments as Rina beamed and Holt continued to prowl around the room. Cass paused, then looked up with a shine in his eyes. “I have an offer for you, Rina. Are you interested?”
+
+She tapped her foot twice with a pensive expression, “Depends on the offer.”
+
+Cass nodded and collected his thoughts, then said, “Right now, I have four open Quests per day and I’m willing to give them to the Commons, IF,” He said, noticing she was about to agree. “If you can help me keep all of this organized and find sources for both deliveries and raw materials. If you do all of that, I’ll make sure that you, personally, get at least one of the quests each day. Guaranteed.”
+
+Rina actually squealed, “Sure! Five extra experience a day? That’ll be amazing for my Calling. Thank you, Cass!”
+
+Holt turned quickly around while clearing his throat, “Huh? What about me? I told everybody about the Quests.”
+
+Cass helplessly looked at the large man before gesturing at Rina, “Talk to her, she’s in charge of things. Hey, wait a second.” Closing his eyes so he could picture the vast amount of dust-covered quests back at the Guildhall, he opened them and looked over at Holt again. “How would you like to earn more than five experience points per day? I know of dozens of Quests that need to get done and are languishing in the Guildhall.”
+
+Holt took two steps forward, winding up at the foot of Cass’s bed, “Where?”
+
+“Go to the Quest Registry in the Guildhall and speak to Chancey. Let her know I sent you, and that you’re interested in the blue board.” He paused for a moment, recalling a lesson he’d received from Officer Vex on the first day. “You’ll have to get a pass letting you take Guildhall Quests, but she should give it to you with my approval. The Quests aren’t easy, but they do provide experience. Does that work for you?”
+
+Holt weighed the offer for several seconds before shrugging, “I’m normally done with most of my Smithing by the later afternoon anyway, may as well fill the rest of my day.”
+
+Rina laughed, “He must be excited. He rarely uses complete sentences.”
+
+They hung around long enough for Cass and Rina to work out the first four Quests he was handing out, though he stayed away from the two newest types. That was an issue for tomorrow. As they left, Gary slipped in. They spoke for a few moments before the large man had to head out on his own Quest, then tutoring resumed for the day.
+
+In and out, friends and family visited, interspersed with tutors trying to cram as much knowledge as possible into his head. When he finally thought the day was over, Kara showed up, a small metal chair on wheels in her hands.
+
+“Come on, Warrior. It’s all set up.”
+
+A complaining Cass was easily loaded into the chair, along with a blanket and a glass of water he was told to sip along the way. Wheeled out into GoldenCrown territory, many people he’d known all his life stopped to congratulate him or just to say a friendly hello and express how happy they were that he was recovering.
+
+When he was wheeled past his house, he called over his shoulder, “Where are you taking me?”
+
+Kara gave away nothing. “You’ll see.”
+
+At a sedate pace, they moved through Liora. Stopping for a moment at the GoldenCrust, Gary came out, walking alongside him. When asked, he said he didn’t know what was happening either, only that he’d been asked to join them at this time. Cass spent the time as they moved waving at the well-wishers while trying to hold his exhaustion at bay. And sipping from the water whenever Kara noticed.
+
+It was like she had it on a timer.
+
+Soon enough, they were at the Entrance Hall, where Gatekeeper Jim saluted him with a fist to his chest as they moved past.
+
+“There aren’t many non-combat Callings who have fought and killed monsters, not still alive, at least. In the beginning, everyone was fighting,” Kara said as they passed the road that led to the Quest Registry, “but once we learned how the System worked, we put a stop to that. It simply wasn’t sustainable. Losing Healers and Stablemasters, people like you, it…it set us back years.”
+
+They approached a large building he’d only viewed from a distance.
+
+“You’ll remember this place as the Company Commons. It’s a neutral ground for whatever’s necessary, and this is necessary.”
+
+Entering past wide doors that swung open from the inside, a small crowd had gathered. In the middle was an older man and woman, who looked only slightly familiar as grief painted both of their faces. Kara whispered their names in his ears, and he understood what was expected of him. When they got closer, Kara stopped, and he tried to stand, but the man stepped forward and pushed him back down.
+
+“No, Cassio Vale, stay seated. We wouldn’t want your injuries to reopen.” Looking at his wife, he sighed, then glanced back at Cass, “I want to say thank you. Thank you for avenging our son. All too often, we’re told that those who die in the field are never recovered. That Justice will never come. But because of you, my wife and I will not suffer that burden.”
+
+Cass’s grip on the chair's arms tightened, as despite what the man said, he stood on his own. Doing his best not to wobble, he looked them both in the eyes, “I’m only sorry Johnny died. If I could kill them again, I would.”
+
+The man put a hand on his shoulder with a light squeeze, “I know you would.” Johnny’s mother broke down, then she rushed forward and hugged Cass, as Kara and Gary supported him on either side. That seemed to release the pressure in the room as a large group of people he’d never met before collapsed inward, laughing and talking up his heroics.
+
+“Bet there were five and he’s being modest!”
+
+“Who knew a QuestWright could fight?”
+
+“Get Hollis a sword!”
+
+That night, as a cake baked especially for the event was spread around, Cass met and shook hands with dozens of Company members and Officers, Tradesmen and Administrators from all over Liora. Though he grew more and more tired the longer things went on, he tried to put on a brave face, shaking hands and smiling when the occasion called for it.
+
+When it was done, Cass looked down at the writing on the cake, just as the last few people slipped out of the building. They’d left the center of it untouched so he could take it back to the infirmary.
+
+Good Job Not Dying!
+
+“Gary, you’re an idiot,” Cass said with a small smile.
+
+“Weenus!”
+
+“Not fair, I’m in a chair!”
+
+“I waited all night for that!”
+
+After the return trip and Kara’s promise to see him in the morning, Cass lay down and looked at his screens.
+
+[System Notice]
+
+5 Quests completed:
+
+Total xp gained: 2.5
+
+Total System reputation gained: 5
+
+Details can be found in your Quest Ledger.
+
+A Reputational echo has occurred due to recent events:
+
+Various enterprises view you more favorably.
+
+Various members of Liora view you more favorably.
+
+Your Liora Guildhall Reputation has increased by 5
+
+Your Valiant Company Reputation has increased by 6
+
+Your Liora Council Reputation has increased by 8
+
+Your Shattermark Company Reputation has increased by 12
+
+Your GoldenCrown Company Reputation has increased by 23
+
+He was asleep before he could realize he finally had enough experience for his first Path.

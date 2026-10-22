@@ -1,0 +1,285 @@
+Entering the Quest Registry felt like walking to the gallows.
+
+While the ceiling was high, the lighting inside was dim and uneven, thick with the smells of old ink, sweat, and things he couldn’t put a name to. The noise level was a constant churn, with dozens of overlapping conversations happening simultaneously. Rather than allow himself to be overwhelmed, he fixed his eyes on the dark leather of Kara’s back, following in her wake as she navigated through the crowds.
+
+A jostling from a small but sturdy man almost threw him off the Guild Trainer’s path, but with some quick movement, he managed to catch up as she called back to him, “The QuestWright station is over here in the left-hand corner. Be thankful for that, as it keeps you away from the thoroughfare.”
+
+They turned a corner at a cluster of crowded tables, and Cass had the barest moment to believe that he’d skip seeing his sister, but as recent history has shown, he wasn’t that lucky.
+
+“Hey loser.”
+
+Cass turned, and there she was. Janine, leaning against a pillar, arms crossed with a big grin on her face like she’d won a prize. Her hair was pulled back into a severe ponytail, which only made the angles of her face sharper. It was her battle uniform.
+
+“Hi, Janine.” He said, trying for neutral.
+
+She sidled over, her steps light despite the green and gold armor hugging her form, “I was so sure that you’d remain an Uncalled forever. Now look at you.” She grabbed him by the arms, then pulled him into a powerful bear hug. “I was so worried, idiot.”
+
+“Huh?” Those were the only words Cass could get out through his shock. The last time they’d hugged was shortly after she’d received her calling, and that was years ago. It went on a little too long before they were interrupted.
+
+“Janine Vale, please release my trainee,” Kara said with a voice like stone.
+
+Cass was stunned again, but this time, by how fast Janine obeyed. It took a moment for his equilibrium to take back over as he looked up to see his sister standing ramrod straight.
+
+“Of course, Kara.”
+
+“Very good.” She looked past his sister, “Is the Fabulous Five all healthy and prepared for their mission?”
+
+A small man seemed to step from the shadows, his movements precise and nearly soundless. With a pencil-thin mustache and eyes a little too small for his face, he looked like every shady merchant and scheming villain Cass had ever read about.
+
+But as he held up a piece of paper, he smiled. The transformation was startling, making him look less like a demon and more like a charming prince here to save the day.
+
+“Naturally, Kara. I’ve already got the quest right here.” He turned his attention towards Cass, “Janine, is this the little brother you’re always telling us about?”
+
+His sister gave a smile, the unfamiliar expression seeming strange on her face, “Yep. This is Cassio, but he goes by Cass. He’s the new QuestWright.”
+
+“Is that right?” He gave Cass a second look, “Well, I’ll keep an eye out for your callsign. If you’ll excuse us, there’s a problem near the fields that needs taking care of.” Reaching a gloved hand out, Cass matched it, feeling a very firm grip from the other side. “Name's Carter, see you around, Cass.”
+
+“Nice to meet you, Carter. Good luck in your mission, Janine.”
+
+A big man drinking nearby laughed, “Hah, as if the Ironmonger needs luck.” A few people joined him, but Janine only gave him a small and soft wave before she and her party turned around and left.
+
+“Now, let’s take a look at where you’ll be working from now on,” Kara said, drawing Cassio’s mind back to why they were there.
+
+Kara led him deeper into the Registry and toward a quiet alcove in the far end of the building. As the noise of the thoroughfare faded away, the atmosphere changed. It was quieter, cooler, and far calmer.
+
+Stepping toward an extra-wide desk paired with a patchy chair, she waved a hand, “This is the QuestWright Annex.” Pulling the chair back, the squeaks accompanying its movement were audible. “Go on, have a seat. See what that feels like.”
+
+Cass didn’t see anything special about the desk or the threadbare seat, but he sat anyway. The chair shifted slightly under his weight.
+
+Then, everything changed.
+
+—QuestWright Annex Initializing—
+
+New QuestWright recognized: Callsign CV
+
+Welcome, Cassio Vale
+
+Cass blinked.
+
+The words didn’t appear on paper or a screen. They shimmered in the air before him, locked just above the desk’s surface in a pale, softly blue pulsing that was mostly transparent. Unsure if it was a projection or hallucination, he reached out. To his surprise, it was solid.
+
+“The QuestWright Annex is a bridge between the Called and the System,” Kara said behind him. “You have limited access in your overlay because you’re only level one; that’ll change as you gain experience and build up your reputation.”
+
+Cass stared at the floating prompt.
+
+> Awaiting Input
+
+“What do I do?”
+
+“Try talking to it. Eventually, you’ll gain a few upgrades that'll let you do much more, but this,” she tapped the desk, “this is just the beginning. Tell it, begin the tutorial.”
+
+Cass cleared his throat. “Uh..begin tutorial?”
+
+The text blinked once as the words changed.
+
+> Tutorial Mode Unavailable
+
+> Awaiting Directive from Local Assigned Authority: Tier 2 Guild Trainer: Kara Tullis
+
+Kara sighed, as if she had seen this message a hundred times before. “Right, that’s on me.” Stepping closer, she tapped on a box at the top and pressed her thumb against it. The shimmer adjusted, and new lines appeared.
+
+> Tier 2 Trainer Override Accepted
+
+> Tutorial Functions Engaged
+
+The shimmering changed into something more as the text disappeared. In its place was the same replica he’d seen this morning, only every detail was enhanced to a realistic level. Smoke rose from several chimneys in wavy blue lines, and the colored dots of the past made their reappearance.
+
+He reached out to touch one, but it slipped past his finger, unaffected.
+
+The snap of a folder opening sounded out, “You’ve unlocked the Quest Ledger, haven’t you?” She moved closer to examine the interactive scene before them. “Why haven’t you activated it?”
+
+“I thought it was passive?”
+
+“It is. But passive doesn’t mean automatic. Can you imagine if your sister ran around, absorbing the iron from every building she passed?” Kara gave a single, dry laugh. “Liora would be rubble within a week. Passive abilities run in the background, but they still require a trigger to start. Active abilities are ones that you can shape.”
+
+Based on the level look she gave him, Cass didn’t say anything else and did as told.
+
+> QuestWright CV System Ledger connected…
+
+> Advancing Tutorial
+
+The Fiora construct flickered as a new panel came to life beside it. A line of filigreed text appeared near the top. Then, all at once, every colored dot moving across the construct fired matching threads to the panel.
+
+QuestWright Simulation Training Map
+
+[CV-0001-SIMMAP-LIA]
+
+Each colored thread of light bound itself between the balls on the construct and a series of text on the Ledger. Cass leaned in and began to read as the lines updated as he watched.
+
+Sim-CV-0001-D-LIA
+
+Sim-CV-0001-A-LIA
+
+Sim-CV-0001-M-LIA
+
+Sim-CV-0002-D-LIA
+
+“Go ahead,” Kara encouraged, “Select one.”
+
+Cass reached out a hand and touched the first in the list. The corresponding ball of color in Liora brightened as all the others faded away, text appearing near the top of the city in green.
+
+Quest ID: Sim-0001-D-LIA
+
+Objective: Deliver 80KG of Iron from Sim01 Ironworks to Sim01 Smithy
+
+Assigned Candidate: Sim001
+
+Status: Active
+
+Questor Reward:
+
++5xp baseline
+
+QuestWright reward: .5xp
+
+“The way the ID system works is simple. The first two initials are your Callsign, the numbers in the middle are for numerical tracking, and the letter after tells you the quest type. Every quest type has a different baseline of experience gained for both the candidate and the QuestWright.”
+
+“D for deliver,” Cass confirmed. When he tapped on an area of the screen that wasn’t the writing, it moved back to normal. “What’s LIA?”
+
+“That’s the callsign for Liora, every region has a different one, so it lets you track incoming questers and where they’re coming from.”
+
+So that’s how it works. Cass considered not just that, but also the long-term ramifications of the Calling. The quests I assign give them experience, but I also gain experience when they are completed. I don’t fight, but I’m still helping, and the system’s rewarding me all the same.
+
+That set him at ease a little. He’d never throw a fireball or swing a sword, but he’d still be useful to Liora. Extrapolating from the last lines of the quest, Cass came to a conclusion. That means, if I send out ten quests in a day, I’m making the same amount of experience as the people who are completing them.
+
+Clicking on the next two brought up similar screens.
+
+Quest ID: Sim-0001-A-LIA
+
+Objective: Audit stock discrepancies between Sim01 Storehouse and Sim01 Armory
+
+Assigned Candidate: Sim002
+
+Status: Active
+
+Questor Reward:
+
++3 xp baseline
+
++5 xp for complexity
+
+QuestWright reward: .8xp
+
+Quest ID: Sim-0001-M-LIA
+
+Objective: Bring the encoded message from Sim01 Guildhall to Sim01 Gatepost
+
+Assigned Candidate: Sim003
+
+Status: Active
+
+Questor Reward:
+
++5xp baseline
+
+QuestWright reward: .5xp
+
+The complexity level of something increases the experience gain.
+
+“Quest complexity directly scales the xp value for both you and the Questor. It’s called a modifier.“ Kara said, unintentionally parroting back to him what his mind had just brought forth. “Quests that identify with an A are administrative, and quests with an M are for messages.”
+
+“But there’s already a delivery ID? It’s the same thing, isn’t it?”
+
+“That’s true,” Kara said, looking at him with a smile as Cass finally turned away from the map. “But communication is the lifeblood of civilization. Some years ago, a high-level QuestWright decided to separate the two types so the map would be less confusing. For instance, take a look at the coloring.” She waited for his eyes to track back to the map. “What do you think each means?”
+
+Cass took a guess, “Green is for healthy, yellow is…sick?”
+
+“Hah, no. Green markers indicate singular assignments, a once-and-done kind that fall within simpler quests. Yellow identifies the cyclical kind that have become routine. Things like supply chains or sanitation. It’s-” She was interrupted by a red set of text splashing across the screen.
+
+Warning: Numerous tasks remain uncompleted.
+
+Incursions are rising near the-
+
+With a quick movement, Kara clicked something, and the text went away before he could read the rest.
+
+“What was that?” Cass asked. The message seemed ominous, like an emergency that needed addressing immediately.
+
+“Don’t worry about it, you’re only level one.” The screen resumed its standard patchwork of greens and yellows as she said, “Go ahead and click on the marker near the Sim02 Inn.”
+
+Only level one. He didn’t press the situation, but a bad feeling hit his stomach all the same. That warning was anything but subtle. Finding the slowly pulsing marker near the edge of the map, he clicked on it, and everything faded into the background again.
+
+Quest ID: Sim-0034-D-LIA
+
+Objective: Deliver dirty sheets from Sim02 Inn to Sim01 Washery.
+
+Assigned Candidate: Sim034
+
+Status: Active, Routine
+
+Questor Reward: +5 XP
+
+QuestWright Reward: +.25 XP (routine modifier -50%)
+
+Cass frowned. .25xp? He didn’t know how much he needed to get to the next level, but that felt like an insult.
+
+“Looking at the experience modifier?” Kara said, and he could hear the smile in her voice. “You’re not the first new Calling who has stared at the experience line first.” She laughed at him over his shoulder while he tried not to grimace. “Routine quests are former singular assignments that were completed a set number of times. Do the quest enough, and it upgrades, becoming optionally acceptable to the Questor whenever they’d like.”
+
+Cass added that information to the small amount he currently knew about quests. That means…if I design ten or twenty quests and they all upgrade to routine, it’ll passively earn me a lot of experience. The more routine quests that get upgraded, the faster the xp comes in.
+
+Kara stepped close. Close enough that he caught a minty fragrance about her, then tapped something on the screen. When she pressed her thumb against it, the ledger to the right expanded, while the map shrank in size.
+
+“What you’re seeing here is a slightly out-of-date simulation, but still effective. The current Sovereign is trying to get all of the Annex’s updated, but it takes time, and we’re still a few months out.” With a flicker, new writing appeared.
+
+>QuestWright Outlining Phase Initiated
+
+>Advancing to the Final Step of the Basic QuestWright Tutorial
+
+As the ledger populated a series of boxes, Cass asked, “What’s a Sovereign?”
+
+“I like the curiosity,” Kara said as text flickered into being. “The Sovereign is the head QuestWright. They sit on the World Council, formed after the reshaping. They’re also the QuestWright who smartly decided to separate messages and deliveries. You’d think it’s a small change, but for a Calling that stares at a System map all day, it makes things much cleaner. Now, pay attention.”
+
+Quest ID: Sim-CV-0001-LIA
+
+Quest Outline: (Simulated – Tutorial Mode)
+
+Type: (Select)
+
+Objective: (Enter Objective)
+
+Source Location: (Select or Speak)
+
+Destination Location: (Select or Speak)
+
+Assigned Candidate: (Auto-Generated)
+
+Completion Condition: (Define)
+
+Timeframe: (Optional)
+
+Modifiers: (Calculated based on Parameters)
+
+Reward: (Calculated Based on Final Outline)
+
+That was a lot more than he’d expected. “Why are there more options?”
+
+“Because there are more things you need to know. This is a tutorial, and the first of many that you’ll complete. If you think that’s a lot-” She changed the screen in front of him with a flick, as if she knew he’d ask that question.
+
+Quest ID (GH-0917-SUP-LIA)Quest Outline (Historical Archive – Rare Tier Sample)Type (Support – Combat Adjacency)Objective (Deliver 18 reinforced spears and 4 ration crates to Defensive Line 03)Threat Environment (Confirmed presence of 8–12 small monsters and one large on the path)Zone Designation (LIA-E – Perimeter Sector 3F)Escort Requirement (Minimum team of four)Route Complexity (Moderate – Two chokepoints, unstable bridge, partial cover)Timeframe (Delivery window: 3 hours, 17 minutes)Completion Condition (Delivery confirmed by Line 03 Commander; all supplies intact; personnel survival ≥80%)Failure Risk (Zone destabilization likely; fallback condition projected; potential loss of defenders)
+
+Assigned Candidate (Team Biscuit – 8 Members)
+
+Modifiers  • Urgency Modifier (+25%)  • Threat Zone Modifier (+30%)  • Route Complexity Modifier (+20%)  • Timeliness Bonus (+0.2 XP per 30 minutes early, max +0.6 XP)  • Stability Shift Bonus (+0.6 XP if fallback avoided and Line 03 maintained)
+
+Reward – Questor(s) (+22–34 XP depending on threat management, timing, and survival)Reward – QuestWright  • Base: +4.0 XP  • Zero Casualties Bonus: +0.0 XP (not earned)  • Timeliness Bonus: +0.6 XP  • Stability Bonus: +0.6 XP
+
+Reputation Impact (Trust increased in both regional and system records)
+
+Final Status (Completed – One escort injured, delivery on time)
+
+Final Rewards  • Questor(s) awarded +29 XP  • QuestWright awarded +5.2 XP  • Regional trust reaffirmed  • System recognition acknowledged
+
+Filed by: Archivist Nella Brant (LIA)Date: 2 AR
+
+Cass felt his eyes bulge. That was a real quest, not a simulation. Real people with real stakes. “This is…” was all he got out before Kara flicked it, and the quest disappeared.
+
+“Now you see why the system slowly gets you used to everything. Deliveries and messages don’t seem like much, but for a Level 1, it’s a lot more difficult than you think it is.” The original outline reappeared. “Now, let’s figure this out. We only have today and tomorrow before your classes start.”
+
+“Classes?”
+
+“Of course.” She turned him in his chair so she could look him in the eyes, “Did you think we were just going to throw you at the Guild with a new Calling? We’re not like the Resswich Guildhall.” Pointing at the screen, she said, “You need to start by selecting the Quest type.”
+
+Cass held up his hands, already accepting that he was no longer in control of his life, but he could still ask questions. “Wait, wait, wait. Who was the QuestWright that designed the one you just showed me?”
+
+“Gerald Hollis, the Guildmaster. Now, focus up.” She spun him around, and time sped by as he slowly but surely learned how to manage the ledger and the map. One thought stuck around in his head as his world became filled with boxes and text.
+
+Is the Guildmaster the one making all the quests?
