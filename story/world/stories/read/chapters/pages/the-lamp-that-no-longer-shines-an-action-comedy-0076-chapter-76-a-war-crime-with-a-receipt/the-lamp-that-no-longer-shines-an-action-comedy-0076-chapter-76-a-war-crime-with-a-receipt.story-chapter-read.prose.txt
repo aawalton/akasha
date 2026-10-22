@@ -1,0 +1,233 @@
+[Time]: Day 47, Thursday, 05:15 PM[Location]: Royal Rosas Club · The Quartermaster's Vault
+
+The Quartermaster's Vault did not look, smell, or feel like an academic library.
+
+Libraries smelled of old parchment, vanilla, and quiet intellectual contemplation.The Vault smelled of ozone, hot copper, and the sharp, metallic tang of condensed violence waiting to be unspooled.
+
+It was a moderately sized, perfectly circular room.Ringed bookshelves crafted from dark, polished Void-wood stretched from the marble floor to the domed ceiling, packed so tightly with grimoires that the air practically vibrated.
+
+Every Witch's spellbook on these shelves was heavily encrypted. Heavy, glowing crimson chains of warning runes pulsed lazily across their spines.
+
+Browsing the titles was safe, but the exact moment an unauthorized Witch cracked a cover open to read a single page without explicit system permission, a targeted transaction curse would trigger. It would instantly bypass all banking security, deduct the book's market value—multiplied by a punitive factor of six or seven—directly from their vault, and force-print a new copy.
+
+But as Hathaway stepped across the threshold, the crimson runes recognized the VIP lanyard resting against her collarbone.On the shelves holding Tier-4 and below, they flickered, turned a welcoming, pristine white, and dissolved.The paywall dropped for the standard arsenal. But on the higher-tier shelves, the crimson chains remained, humming with expensive, lethal intent.
+
+Rhode strolled in right behind her, flip-flops slapping the marble. She leaned casually against a shelf of Tier-4 Evocation texts that were actively humming with thermal energy.
+
+What immediately caught Hathaway's attention wasn't just the sheer volume of books, but the organization.
+
+Each shelf was color-coded—not by author, not by school of magic, but by blast radius. The categories, printed in crisp black stencil on brass plaques, read:
+
+[ANTIPERSONNEL] > [STRUCTURAL] > [AREA DENIAL] > [SCORCHED EARTH]
+
+The Evocation section—angry crimson, unstable orange, flickering white—took up nearly half the room.
+
+This isn't a spell repository, Hathaway thought, her game-designer brain involuntarily running a UX analysis. This is an ammunition depot with a filing system. And whoever designed the layout is a genius.
+
+Color-coded threat classification, vertical shelving for density, blast-radius categories instead of alphabetical—this is a UI designed for someone who needs to grab the right explosive in under three seconds.
+
+She filed it under steal this.
+
+The heavy blast doors hissed shut, sealing them inside the high-density mana environment.
+
+"So, Eclipse," Rhode crossed her arms, putting an obnoxious, deliberate emphasis on the word. She had unilaterally decided to make Bella's Chuunibyou nickname a permanent fixture, and was milking every syllable. "What's the diagnostic on your spell pool?"
+
+Hathaway mentally pulled up the inventory she had spent the last week painstakingly mapping out. She forcefully ignored the nickname.
+
+This isn't a build, Hathaway diagnosed, feeling a phantom migraine building behind her eyes as she calculated the open-market cost of filling those gaps. It would easily hit 300,000 Solars.
+
+This is a demo version. An alpha release with three features duct-taped to a loading screen. 'Hathaway Ludwig v0.3: Now featuring ONE attack spell and a pair of eyes that work funny.'
+
+"My Tier-3 and above is a wasteland," Hathaway admitted, her voice flat. "I have the mana capacity of a strategic bomber, but my payload consists entirely of water balloons."
+
+"Yep," Rhode said, popping the 'p'. "Arch-Witch mana pool, but you're shooting it through a straw. We have three weeks until the qualifiers. We don't have time to carefully cram fifty different utility spells into your head. Pick a strategy."
+
+Rhode held up two fingers. "Patch your weaknesses."She dropped one. "Or stack your damage until the math physically breaks."
+
+Hathaway didn't even blink. "Stack."
+
+"Reasoning?"
+
+"Stat checking," Hathaway explained, her gaze sweeping across the heavily stocked Evocation section. Her Ludwig blood practically sang in the presence of so much concentrated firepower.
+
+"Standard High Witches in the qualifiers cap out around twenty to thirty thousand M-Units. At forty-two thousand, I have absolute resource superiority. If we run into an actual Arch-Witch team, I won't be the one fighting them anyway. My job is sweeping the board."
+
+She reached out, letting her fingers hover inches from a row of explosive spells."When you have a clean mathematical advantage over the general mob, you don't diversify. You build multipliers. You turn a statistical edge into a guaranteed execution."
+
+The title page of Yggdrasil's mandatory textbook, Introduction to High-Yield Evocation, surfaced vividly in her mind.
+
+The current Department Head—a hyper-aggressive, meta-obsessed Arch-Witch whose entire pedagogical philosophy could be summarized as applied arson—had refused to write a standard academic foreword. Instead, she had printed her personal manifesto in bold, crimson ink right on page one:
+
+"Empower is good. Penetration is beautiful. Empower paired with Penetration is both good and beautiful.""We Evocation casters aren't like those filthy Transmutation or Illusion cowards. We believe in a simple binary: either we vaporize the enemy in one wave, or we get vaporized ourselves."
+
+Truth, Hathaway thought reverently. The unbreakable laws of Applied Thermodynamics accept all converts.
+
+Rhode threw her head back and barked a laugh that echoed off the circular shelves, rattling the Abjuration section across the room.
+
+"I love this bloodline." Rhode stepped forward and clapped Hathaway on the shoulder hard enough to compress her spine by a measurable fraction. "Glass Cannon it is. Let's talk Feats."
+
+In the games Hathaway used to design, a 'Feat' was a passive skill icon. You clicked it on a menu screen and got a tidy "+10% Damage" tooltip.Cute.
+
+In the Witch world, a Feat was a directed, irreversible biological mutation.
+
+You didn't learn Spell Penetration. You drank a customized alchemical compound so toxic it would kill a lesser species, and you let it physically restructure your internal organs until your body evolved a new one.
+
+[Spell Penetration], for example.The potion grew a microscopic secondary mana-gland near the heart that shaped all outgoing mana into high-velocity, cone-shaped streams. When a Penetration-enhanced [Fireball] hit a magical shield, it didn't splash. It shattered into thousands of hyper-dense needles that drilled through the barrier from the inside.
+
+It was so brutally unfair that in the military, they simply referred to it as a "War Crime."
+
+That was the Metamagic version. The standard Feat was less dramatic, but the principle was the same: your body changed. Permanently. Painfully. Expensively.
+
+And Hathaway's mouth was watering.
+
+"I want four," Hathaway said, pulling up the Quartermaster's requisition terminal beside the reading table.
+
+Rhode raised an eyebrow, leaning over to look at the list. Then, a slow, fiercely approving grin spread across her face.
+
+"Empower, Penetration, Extend, Widen. The 'Brute Force' starter pack," Rhode praised, popping her knuckles. "I like it. No delicate neural rewiring, no complex sensory-cortex mapping. Just bigger pipes, denser glands, and raw output."
+
+She pushed her sunglasses up, revealing the full, oppressive 150-lumen blast of her crimson eyes.If you discover this tale on Amazon, be aware that it has been unlawfully taken from Royal Road. Please report it."If you picked four finesse Feats, your brain would need months to adapt. But these? These are purely structural. The club's Potion Master can force-grow these in your system in three weeks. They'll drip-feed the bio-catalysts alongside your daily meals so cleanly you won't even lose a night of sleep. And don't worry about the requisition costs. I'm putting them on my tab."
+
+"I'll pay you back for them once I earn the qualifier points," Hathaway promised immediately, her gamer brain already calculating the debt repayment schedule.
+
+"Don't be stupid," Rhode cut her off, completely uninterested in the concept of debt. "We're Ludwigs. A future Arch-Witch running around with an empty spell pool is an embarrassment to the family. We don't skimp on our juniors' education. Consider it an investment in explosive entertainment."
+
+Investment.
+
+Hathaway filed the word quietly.
+
+On Earth, that word had come with a stiff gray business suit and a suffocating ledger of expectations. It was a cold, calculated transaction disguised as family love.
+
+She looked at Rhode. Her cousin had already turned away, lazily inspecting a row of volatile plasma spells, completely unconcerned with the astronomical sum she had just set on fire for a junior member.
+
+The Ludwigs were magnificent, financially ruinous liars. They operated in reverse—disguising absolute, unconditional support as a careless business expense.
+
+The phantom chill of that old gray suit finally evaporated, burned away by the ambient heat of the Evocation aisle.
+
+"Right," Hathaway said softly, her grip on the terminal tightening. "Explosive returns. You'll get them."
+
+And she knew exactly how she was going to guarantee those returns. The four Feats Rhode had just authorized weren't just about raw damage; to Hathaway's unique biology, they were an exploit waiting to happen.
+
+Normally, a Witch undergoing heavy structural mutations had to endure a torrent of raw physical vitality. The potions flooded the body with biological energy to keep the host alive during the rewiring process, permanently raising the Witch's physical Constitution.
+
+Casters didn't do cardio. If you put an Arch-Witch on a hamster wheel for three hours, she would physically pale and demand a lawyer. If they needed to lift something heavy or punch a dragon, they just passively circulated their mana to reinforce their limbs—it was as effortless as breathing.
+
+Physical stats were Junk Stats.
+
+Her mutated eyes disagreed. Constitution flooded in; they stripped it, refined it, and routed it straight into her permanent mana capacity. Extra mana reinforced the body anyway. Zero net loss.
+
+Flawless, closed-loop exploit.
+
+All offense. Zero survivability.The build equivalent of strapping a rocket engine to a shopping cart and pointing it at the enemy.
+
+"Now," Hathaway said, striding toward the crimson Evocation wall like a woman possessed. "Ammunition."
+
+If the Feats were the engine, she needed shells worth firing through it.
+
+[Fireball] was reliable. Classic. The AK-47 of Evocation—it never jammed, it always killed, and every Witch on the planet knew how to use one.But an AK-47 with a V8 engine strapped to it was still an AK-47. She needed something with a higher base yield.
+
+She pulled [Conflagration] from the shelf and flipped it open.
+
+Tier-4. Independent high-density blast spell.This wasn't "bigger Fireball." This was a fundamentally different weapon.
+
+If Fireball was an AK, Conflagration was an RPG. And an Empowered Conflagration—Conflagration multiplied by the Empower Feat multiplied by the Penetration Feat—was an RPG duct-taped to a cruise missile, aimed at someone's forehead, fired from a postal district away.
+
+Yes.
+
+She moved down the aisle, her hands flying over the shelves with practiced, predatory speed.
+
+[Vodka Spray]. Tier-3. Conical AoE.A massive, fan-shaped eruption of hyper-flammable arcane accelerant that ignited on contact. The name was not a metaphor. You pointed your hand at the enemy's face, you sprayed magical high-proof alcohol directly onto their frontline, and then you set the air on fire.Conflagration handled range. Vodka handled anyone stupid enough to close the distance.
+
+[Flame Shroud]. Tier-5. Multi-point Continuous Damage.
+
+A clinging, self-sustaining wrap of arcane fire. The name was literal—it wrapped around the target like a burning body bag.
+
+In Witch combat, defense was fundamentally harder than offense. A standard magical shield could easily pool its mana to block a single, massive burst like [Conflagration]. But [Flame Shroud] wasn't a burst; it was a multi-point algorithmic nightmare. It forced the enemy's shield to constantly and dynamically reallocate mana to dozens of different thermal stress points across its surface.
+
+And shields were notoriously stupid at handling asymmetric pressure. If the target was already covered in [Vodka Spray], and the Shroud suddenly spiked a Tier-1 heat wave into a Tier-3 localized eruption? The shield's mana allocation would panic, lose structural equilibrium, and literally shatter itself from the inside out under its own unbalanced weight.
+
+The other two were burst damage—instant detonation, instant carnage. Flame Shroud was the slow burn. The ultimate shield-breaker. The receipt that kept printing.
+
+The heavy crimson runes on the Tier-5 text were still active, pulsing with the threat of a seven-fold penalty fee.
+
+She turned to her cousin, ready to ask for the override.
+
+Rhode was already moving. Without missing a beat, she reached past Hathaway and casually slapped her obsidian-black Vanguard ID against the shelf's terminal.
+
+Ding.The crimson chains turned white and dissolved.
+
+Hathaway pulled the volume and set it beside the other two on the mahogany table.
+
+Rhode simply looked down at the three brutal, highly destructive books on the table, her crimson eyes gleaming with fierce, unapologetic pride.
+
+The combo ran itself in her head—Empowered Conflagration opens from max range, Vodka Spray catches the survivors rushing forward, Flame Shroud wraps whatever's still twitching and forces their shields to commit suicide—and the internal damage calculator returned a number so absurdly high it displayed in scientific notation.
+
+Without fire immunity or a Tier-6 Abjuration ward capable of hyper-advanced dynamic load-balancing, this rotation is mathematically fatal.
+
+I have just designed a war crime. It has three steps and a shopping receipt.
+
+Rhode let out a low, appreciative whistle.
+
+"Brutal," She commented, smoothly shifting the topic. "But what happens when you fight a Caster? Transmuters blink. Illusionists mirror-image. Your fire hits empty air and you've just wasted your entire burst window."
+
+"I know."
+
+Hathaway bypassed Abjuration and Transmutation without a glance and headed straight for the Rare & Custom aisle. She tapped a single name into the search terminal.
+
+Amora.
+
+She already owned [Amora's Analytic Vision]. She'd spent two days decompiling the woman's chaotic, variable-riddled source code. She understood the sadistic architecture. Same developer. Same API. Bulk import.
+
+She pulled two more volumes from the shelf.
+
+[Amora's Glitterdust]. Tier-3 Evocation.Standard flashbangs caused blindness and reduced agility. Amora's version—because Amora was a sadistic genius who had been winning duels since before Hathaway was born—carried a cognitive-disruption payload. It didn't just blind you. It dropped your Intelligence.
+
+For a melee fighter, annoying. For a Witch? Catastrophic.
+
+In a millisecond-paced duel, predicting blinks and calculating counter-vectors required massive cognitive processing. Dropping a Witch's Intelligence mid-firefight didn't just blind her—it blue-screened her targeting computer.
+
+A lesser caster might be silenced for three seconds. A trained duel Witch would forcefully reboot and purge the debuff in 300 milliseconds, and top-tiers even faster. But in a meta governed by 0.023-second cast limits, even a 100ms cognitive lag spike was a flawless combo-starter disguised as a flashbang.
+
+[Amora's Dimensional Jump]. Short-range tactical blink for immediate repositioning. If the first wave didn't kill them, she needed an exit.
+
+Rhode glanced at the final stack of volumes resting on the mahogany table.
+
+[The Glass Cannon Loadout]
+
+"It's beautiful," Rhode said, and there was absolutely nothing ironic in her voice. "Completely unhinged. But beautiful."
+
+Hathaway hugged the heavy stack of books to her chest, treating them with the careful, trembling reverence of someone handling a winning lottery ticket.
+
+"The Amora spells will compile fast—I already have the framework installed in my head. The Feats are passive; the Potion Master handles those. The real grind is the three fire spells. Simulator rooms?"
+
+"Available 24/7 for rostered members," Rhode said, turning on her heel and heading for the exit. "But the sims are just for magic. You also need to learn how to not die when someone gets past your killzone."
+
+Rhode cracked her neck, the sound sharp in the quiet vault."Tomorrow morning. Bring your wand."
+
+"...Okay?" Hathaway blinked. "Simulator combat?"
+
+"Dragons," Rhode corrected, and the word came out with the casual, warm affection of someone discussing a weekend camping trip. "Big ones. We're heading to the Hunter's Club on the next floating island over. It's the club's private reserve."
+
+Hathaway stopped walking. "We are going to hunt... actual dragons. Tomorrow."
+
+"They've got extremely high magic resistance, so your fancy new fire spells won't do much against their scales anyway. So, you use your wand to buff your physical stats to the absolute limit. Then we take heavy weapons—warhammers, polearms, halberds. You infuse them with mana and you beat the dragon to death with physics."
+
+Hathaway stared at her cousin.Forty-two thousand M-Units of pure arcane potential. A freshly optimized long-range glass-cannon artillery build.And her first combat assignment was melee.
+
+"You've been burying your head in textbooks for nearly two months, Eclipse," Rhode grinned broadly, pushing the brass doors open. The warm evening air of the resort rushed in, carrying the scent of blooming roses and distant hot springs.
+
+"If you keep studying like that, you're going to turn into a gloomy Wellington nerd. Bloodlust is a core Witch trait. We need to express it healthily!"
+
+Rhode patted her back with bone-rattling enthusiasm."Premium clubs have premium hunting grounds. Bella is coming too. It'll be a nice, relaxing family BBQ," Rhode beamed. "Don't look so tragic. You just swing the hammer, we'll hold the meat still."
+
+Hathaway followed her out into the golden light of the plaza, her brain rapidly adjusting to the new schedule.
+
+PVE in the hunting grounds for combat rhythm and bloodlust management.PVP in the simulators for the qualifier prep.Potions drip-feeding Feats in the background while I sleep.Amora suite compiling from existing architecture.Fire spells grinding between hunts.
+
+Three parallel progression tracks. Zero downtime. Every single hour of the day producing either stats, skills, or currency.
+
+She adjusted her VIP lanyard, feeling the specific, deeply addictive satisfaction of a perfectly optimized experience-point routing map locking into place.
+
+This isn't a training camp, she thought, her dark crimson eyes catching the brilliant, blinding light of the setting sun.
+
+This is the best patch notes I've ever received.

@@ -1,0 +1,305 @@
+[Time]: Summer Break, Day 34 — Late Afternoon[Location]: Royal Rosas Club · Training Hall
+
+The problem with biological targeting was that it refused to behave like math.
+
+Hathaway stared at the half-formed spell matrix of [Blight] hovering in her mental workspace, her temples throbbing with the specific, grinding ache of a backend developer who had spent ten years writing clean geometric rendering engines, only to be suddenly reassigned overnight to build a dynamic, self-learning AI behavior tree with fuzzy logic.
+
+[Wall of Ice] had been geometry. Spatial targeting had exact borders, immovable vertices, logic that behaved like logic.
+
+[Blight] required her to write an "entropy acceleration function" against an active, living, resisting operating system—identify the mana circuits maintaining the target's biological life functions, isolate the loops keeping their cells regenerating, then write a localized inversion command.
+
+It wasn't "injecting damage." It was rewriting the target's cellular logic so their own biology began actively consuming itself.
+
+The boundary conditions were a nightmare. Biological targeting was organic, constantly shifting, packed with microscopic redundancies and variables that refused to stay still long enough to be formally defined.
+
+This was her first attempt at designing a model for a biological system across two lifetimes.
+
+She rubbed her eyes.
+
+A grim, grudging satisfaction settled in her chest as she watched the necrotic mana slowly stabilize in the containment field—the specific satisfaction of a programmer who has just stopped the memory leak without fully understanding why it works yet.
+
+Tomorrow, she'd begin the potion phase.
+
+[Time]: Summer Break, Day 35 — Morning[Location]: White City · Townhouse 107 · Dining Room
+
+The Ludwig family's sunroom was already full of morning when Hathaway came downstairs. Pale sunlight fell through tall windows onto a crisp linen tablecloth. The scent of fresh coffee and warm bread filled the room with the quiet efficiency of a household that ran well without effort.
+
+Margaret and Anna were at the table. Rory occupied her high chair with absolute single-minded focus, dismantling a bowl of mush at a pace that suggested strategic intent. Curled on the edge of her tray — somehow perfectly clear of the splash zone — was a small, white furball radiating a faint ice-blue glow.
+
+Between the adults: newspapers. Neatly stacked. Still folded from delivery.
+
+The Ludwigs were deep-rooted White City nobility, which meant their morning reading consisted exclusively of deep-rooted White City publications. Hathaway had opinions about this. She kept them to herself.
+
+Hathaway had already experienced this localized taxonomic disease firsthand. She remembered Alucard and Rhode pausing a life-or-death tactical briefing just to flawlessly agree that anyone born outside the White City limits was essentially a "provincial nomad."
+
+The White Star Chronicle, it turned out, operated on the exact same geographical bigotry, just printed in a more expensive font.
+
+Under the pen of White City media, the boundary between "Milan'thir" and "The Hillbillies" was maintained with the precision of a national border.
+
+The Witches of Holheim were damp, cheerless bumpkins who had never seen proper sunlight. The Witches of Casendiara were flower-brained nouveau riche with no heritage, no culture, and more money than sense. Even Ovelia occasionally appeared insufficiently "orthodox" in White City columns—something about her origins having a faint, unpolished quality.
+
+Hathaway settled into her chair. The Frost Lantern Cat cracked one eye open, hopped from the tray, and padded onto her lap. It circled once and settled, purring like a tiny frozen engine.
+
+She poured her tea, her other hand dropping automatically to scratch it behind the ears, and picked up the White Star Chronicle: Grand Masters Preview Edition.
+
+Two faces occupied the entire page. The ratio had clearly been subjected to precise, deliberate calculation.
+
+The sixty percent visual real estate belonged to Heidi.The forty percent belonged to Irene.
+
+Hathaway noted the discrepancy immediately. Basic hierarchy and aristocratic protocol dictated that the higher-seated Grand Witch—who also happened to hold a Dukedom—should dominate the page.
+
+But Heidi was a Lucent. The White City's favorite daughter.
+
+Irene, despite her universal charm and Yggdrasil Academy pedigree, had only been grudgingly granted the status of an "Honorary White City Citizen" by the local press. A designation which, in the local taxonomy, translated strictly to: Almost as good as a real person.
+
+[GOLDEN IRIS]
+
+Feature Headline: Her Grace, Duchess Irene Berenice Habsburg, and Lady Heidi Lucent: The Two Most Anticipated Faces of This Year's Grand Masters Tournament.
+
+Sub-header: Sources confirm that Golden Iris's reception specifications have been correspondingly elevated.
+
+Hathaway read it twice, just to appreciate the spiteful craftsmanship.
+
+Irene's title was exhaustively complete, satisfying every metric of international protocol. But Lady Heidi Lucent, clean and unadorned and unquestionable, was the local media's way of executing a flawless "Old Money" flex.
+
+It quietly suggested that while Casendiara's Duchess needed a paragraph of prefixes to establish her worth, White City's daughter only needed her name.
+
+"Casendiara," Margaret said, not looking up from her own section of the paper. She turned a page. "Special expense for these two."
+
+Her expression was perfectly polite. Her internal subtitle was not.
+
+In the adjacent signed opinion column:
+
+The White City's Moon Marches with Casendiara's Pride — Can the Aristocratic Spirit Endure?
+
+Margaret saw the question mark. She took a sip of her tea and said nothing. The knife was buried in the punctuation.
+
+Hathaway turned the page.
+
+The next two pages were not an article. They were a textual coronation.
+
+[ROYAL ROSAS]
+
+Headline: The Unshakable Foundation of Milan'thir: Royal Rosas Commences Their Rightful Reign.
+
+Sub-header: Deep academic heritage, orthodox aristocratic bloodlines, and an indisputable competitive legacy. The Pride of the White City prepares to defend the ultimate honor.
+
+Hathaway's eyes swept over the layout. If the coverage of other districts was carefully manicured topiary, the coverage of the home team was an entire botanical garden forged from solid gold and shameless bias. Every starting member had a dedicated portrait and an accompanying psalm.
+
+The Milan'thirskaya Twin Empresses, Lady Tasia and Lady Alucard, Lords of the White City. As the absolute apex of orthodox lineage, their presence on the roster guarantees that Royal Rosas will dictate the rhythm of the arena with the innate sovereignty of true rulers.
+
+True rulers, Hathaway read, her mind immediately supplying the image of Alucard looking like a grey, exhausted corporate husk calculating fiscal projections, while Tasia blissfully zoned out in the background, having successfully outsourced every single one of those sovereign duties onto her sister's desk.
+
+She moved to the next portrait.
+
+Lady Nino Lucent: The Academic Vanguard. Sister to the illustrious Tenth Seat, Heidi Lucent, Lady Nino continues to elevate White City's pedagogical supremacy, wielding the Lucent genius with devastating precision.
+
+Hathaway felt a phantom pang of secondhand embarrassment. She had watched the "Lucent Genius" malfunction completely and violently the moment her sister entered the room.
+
+Then came the Ludwig block.
+
+The Sword and the Star of the Ludwig House. Lady Rhode stands as the contemporary hope of White City's martial nobility, an unbreakable vanguard.
+
+Hathaway paused.
+
+The Sword and the Star? She visualized her older cousin: perpetually dressed in what could only be described as beach trash, a lollipop hanging haphazardly from the corner of her mouth, radiating the overwhelming, unbothered aura of an unemployed street delinquent.
+
+Did the editorial board base this entire profile exclusively on her limited-edition nightclub gacha skin? Hathaway wondered, genuinely baffled. Because they completely ignored the fact that her default base model is a public nuisance.
+
+She kept reading.
+
+Beside her, Lady Bella redefines the pinnacle of high-society aesthetics — her revolutionary approach to absolute luminescence and theatrical mystery has become the undisputed trendsetter for aristocratic fashion this season.
+
+Hathaway pinched the bridge of her nose.
+
+Pinnacle of high-society aesthetics? Revolutionary luminescence? The entire White City elite apparatus had looked at Bella striking exaggerated anime poses in an aggressive light-pollution cloak, and genuinely concluded: Ah, yes. Avant-garde aristocratic fashion.
+
+You people have mistaken a walking RGB gaming keyboard for a fashion icon, Hathaway screamed internally, mourning the absolute death of Milan'thir's aesthetic judgment. She isn't pioneering luminescence. She's roleplaying.
+
+Finally, her eyes drifted to the bottom of the spread. The bench roster.
+
+The substitute roster is fortified by promising new blood from our most esteemed lineages, featuring Lady Hathaway von Ludwig. Her integration into the team further cements the unbreakable bond between White City's premier families and competitive excellence.
+
+A full stop. The article simply ended there.
+
+Hathaway looked for Yenna's name. She looked for Rina's name.
+
+Nothing. Complete editorial erasure. Because they didn't have the "von" or the aristocratic surnames, they had simply been cropped out of existence by the White Star Chronicle's layout editor.
+
+Hathaway sat back in her chair.
+
+She wasn't angry. It was weirder than that. Reading this spread was like stumbling onto the official lore page of an MMO, only to find the developers had completely rewritten the personalities of your weird, dysfunctional guildmates to sound like mythological heroes.
+
+My friends are idiots, Hathaway decided, looking at the glorious, golden spread. And this newspaper has done an excellent job proving it.
+
+She turned the page.
+
+[THE LAUREATES]
+
+Headline: Fourth Seat Marianne Horton Leads The Laureates to the Grand Masters Tournament; Former Seat Josephine Durant Travels with the Team.
+
+Sub-header: Ms. Horton, hailing from Lectania, has won widespread respect through her outstanding achievements. This paper is pleased to note that profound academic heritage and parliamentary experience serve to compensate for many innate deficiencies.
+
+Innate deficiencies.
+
+Hathaway stared at those two words for a moment.
+
+The packaging was elegant. On the surface: praise. Underneath: the White City media firmly believed that simply being born in Lectania was itself a congenital condition—a handicap that Marianne Horton had bravely, remarkably managed to partially overcome through sheer effort and institutional support.
+
+Furthermore, travels with the team rather than competing roster had quietly reclassified a team anchored by two Council-level Witches as a pleasant cultural excursion.
+
+Margaret set her teacup down with a soft clink. "Lectania."
+
+"She truly is outstanding," Anna said, her tone completely genuine.
+
+Hathaway looked at her mothers for a half-second, then silently turned her head back to the paper.
+
+Sidebar: Nine Consecutive Years: Why Ms. Josephine Durant Remains the Most Anticipated Marriage Prospect in the Inner Sea of Stars.
+
+Followed by a full spread.
+
+The method was as familiar as breathing: offset a dangerous competitor's combat record by turning her into an after-dinner gossip column. The White City press excelled at taking serious, lethal women and repurposing them as table entertainment.
+
+"Josephine truly lives up to her name," Anna remarked. "Even married, she still commands hundreds of millions of admirers. I heard she was taken to court for the ninety-third time for keeping mistresses?"
+
+Hathaway paused.
+
+She scanned the text of the spread carefully. The White City media, maintaining its impeccable standards of euphemistic restraint, had indeed gently implied that Ms. Durant currently existed in a quantum state of either occupying a defendant's seat or commuting toward one.
+
+Hathaway put the paper down without a word. Then she picked it up again, specifically to look at the photograph.
+
+The woman in the picture was looking directly into the lens. It was a serene, devastatingly gentle smile. Vivid red lips contrasted sharply against snow-white, almost translucent skin. She wore a very plain black dress, a sartorial choice that somehow only amplified an intense aura of fragile, pitiable loveliness.
+
+It was the physical baseline of someone who had never learned how to flinch.
+
+The underlying logic of those ninety-three lawsuits clicked into place. They weren't looking for damages; they were looking for a declaration.
+
+Each lawsuit was a desperate, aggressive attempt to construct a wall, to grab this woman's unreserved, bottomless capacity for affection and force it into the shape of a monogamous artifact. They sued because they wanted the impossible: to be her only true love.
+
+She looked at the elegant black dress.
+
+As for the wife's refusal to ever file for divorce: the math there was even simpler. It was a matter of basic resource retention. This woman was officially the most desired person in the world.
+
+Having successfully achieved the impossible, actually marrying her, the wife possessed zero incentive to relinquish the ultimate prize, regardless of how many others tried to claim a share of the emotional bandwidth.
+
+It wasn't a scandal. It was a closed, perfectly balanced system of absolute possession and infinite demand. The overwhelming sincerity of Josephine's gentleness was the flawless gravity well that kept the whole chaotic ecosystem from collapsing.
+
+Understood.
+
+The idol had not collapsed. She was simply built to a scale of emotional endurance that the rules of society were not designed to contain. The image remained intact.
+
+That, Hathaway noted, is the true manifestation of idol charisma.
+
+She turned to the next section.
+
+[FEY STAR]
+
+Sports Section Headline: Fey Star Roster: Lord of Sea Otter Island, Sovereign of the Stars of the Malevolent Universe, One of the Three Titans of Munitions — Akkukataya Katu Maryjonst.
+
+Every official title. Not one missing. Not one extra. The White City press had correctly determined that for certain entities, complete, unflinching accuracy was the only safe response.
+
+The facing page ran a very different register:
+
+Social Section Headline: The Flower of Fey Star Graces White City; Ms. Allison Stuns at the Pre-Opening Tea Party.
+
+Sub-header: Ms. Allison arrived in White City accompanying Ms. Akkukataya, and has reportedly accepted multiple social invitations. As for the matters of the arena — those are naturally Ms. Akkukataya's concern.
+
+Featured Quote: "I'm simply here to cheer for Akkukataya. And perhaps... to watch the scenery."
+
+Hathaway looked at the two pages side by side.
+
+Sports section: titles stacked down half the page, each one more terrifying than the last. Social section: a smiling woman at a tea party.
+
+She filed "the matters of the arena are naturally Ms. Akkukataya's concern" into a specific mental folder.
+
+The quote—to watch the scenery—went into a different folder. Labeled: pending.
+
+At the table, Margaret and Anna exchanged a look. It was a specific kind of look: the highly recognizable, slightly guilty, deeply invested look of people who have an established opinion about an interpersonal situation they are technically not involved in.
+
+Anna cleared her throat. "Akkukataya is here again this year."
+
+Hathaway looked up. Glanced at the faces of the two cat witches in the photograph. The visual combination was undeniable. Persian-level aesthetic supremacy.
+
+My mothers are shippers....Fair.
+
+She turned the page.
+
+[SUNSHINE PALS]
+
+Headline: Sunshine Pals Have Arrived in the Capital: This Paper Urges Caution Across All Sectors.
+
+Sub-header: Ladies Paddy and Adeline confirmed their entry into the city yesterday. Throughout the duration of the tournament, this paper will continuously monitor White City's public order and the physical and mental health of its citizens.
+
+"Physical and mental health of its citizens." The editorial board had determined, apparently via committee, that the arrival of these two individuals constituted a cognitively hazardous event affecting the general population.
+
+For the first time that morning, Margaret looked up from her section of the paper entirely.
+
+She and Anna held eye contact for one full second. Hathaway noted, clinically, that both of their lips were visibly trembling.
+
+Hathaway turned to the team photograph.
+
+Her visual threat-assessment engine spiked the moment her eyes hit the page. She pressed her fingers flat against the newsprint, manually censoring Paddy and Adeline from her visual feed.
+
+She shifted her palm, obscuring the other two unknown members as well, cropping the entire cognitive hazard down to a single corner.
+
+Isolated in that remaining sliver of space was one face.
+
+Sweet. Completely expressionless. Instantly recognizable.
+
+She didn't need to look at anyone else. That one deadpan, hopelessly trapped expression was enough.
+
+Too tragic.
+
+She turned the page as quickly as possible.
+
+[ABSOLUTE CITY]
+
+The column the White City press approached with the most concentrated, venomous joy.
+
+The collective civic trauma was four years old. Lin Zhaojun had forged her Millennium Dynasty by stepping directly on Milan'thir's face. White City's memory of the 2000 Invitational was flawless and entirely unforgiving.
+
+They remembered the Open Ban. They remembered the brutal 4-0 sweep. Above all, they remembered the casual "Spiral Drink Taunt" performed over the wreckage of their hometown Grand Witch.
+
+The editorial board had spent four years sharpening their typographical knives, waiting for the tyrant to bleed. Last year, Lin Zhaojun failed her A3 examination, finally providing the exact ammunition they craved.
+
+Headline: The Millennium Crown Returns — Reviewing the Results of the Last Two A3 Examinations.
+
+Sub-header: Since her honorable hiatus last year, Ms. Lin Zhaojun has undergone sufficient rest and returns to the arena with a renewed posture. This paper sincerely wishes Ms. Lin smooth endeavors, and hopes her competitive condition recovers to expected standards at the earliest opportunity.
+
+Margaret read the final sentence aloud. Her tone was warm, gentle, and impeccably measured—the tone of a society matron complimenting an underperforming student at a parent-teacher conference.
+
+"...hopes her competitive condition recovers to expected standards at the earliest opportunity."
+
+She offered no further commentary. The recitation was the commentary.
+
+Below the main article, in noticeably smaller type:
+
+It is worth noting that Absolute City's roster this season also includes Ms. Liandra of the Milan'thirskaya family. This paper offers no further comment on the matter.
+
+Anna paused—her silver spoon freezing mid-stir. She frowned slightly, and turned the page.
+
+Sidebar: Roster Update: Du Lingxuan Joins Absolute City — Analysts Call It the "Strongest Absolute City Configuration in History."
+
+This year's Absolute City was an anomaly. Their dynasty era had famously run on a "four carries and a passenger" formation. This year, they had finally kicked out the passenger.
+
+They had recruited an Arch-Witch capable of fighting Lin Zhaojun to a 40/60 standstill in the Fusang circuit wars. A genuine Grand Witch candidate.
+
+Du Lingxuan.
+
+The universally recognized Queen of Trash Talk. The woman who had leaked Lin Zhaojun's A3 failure to international media. A figure of whom it was widely observed: "That Du Lingxuan hasn't been beaten to death in an alley by now is a collective failure of every Witch alive."
+
+Fine print: Ms. Du Lingxuan, former ace and captain of the Greenwood Syndicate, officially completed her transfer procedures days ago. The industry broadly considers this acquisition the most substantive roster upgrade in recent years. Ms. Du has made no public statement regarding her transfer—nor has she issued any subsequent clarification regarding her previous comments on Ms. Lin Zhaojun's A3 examination.
+
+Hathaway's game-designer brain recognized the trope immediately.
+
+Forced Party Member Join Event. Typically triggers at the end of Act 2. The only remaining question was the narrative arc: reluctant allies forging an unbreakable bond under pressure, or structural fault line detonating at the worst possible moment during the climactic boss fight?
+
+She strongly suspected both. Simultaneously.
+
+She reached for her tea. But as her eyes dropped to the bottom right corner of the spread, the standard layout was gone.
+
+The elegant, aristocratic borders of the White Star Chronicle had been replaced by a stark black framing that bled off the edge of the page. A dedicated insert.
+
+She set her cup back down without taking a sip.
+
+She turned the page.

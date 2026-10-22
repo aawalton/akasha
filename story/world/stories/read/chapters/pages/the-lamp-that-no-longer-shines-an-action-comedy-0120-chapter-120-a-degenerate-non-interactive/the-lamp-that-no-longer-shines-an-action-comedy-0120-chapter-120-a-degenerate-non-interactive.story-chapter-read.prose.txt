@@ -1,0 +1,195 @@
+[Time]: Summer Break, Day 25 — Morning to Evening[Location]: Royal Rosas Club · Training Arena / Dining Room
+
+Rhode von Ludwig's teaching philosophy fit on a single line: I explain the theory exactly once. After that, failure is the curriculum.
+
+She delivered this with arms crossed and her deep red eyes fixed on Hathaway from across the reinforced training floor.
+
+Hathaway faced the blast-marked stone and translated the mechanism into pure PvP logic: Cast a massive AoE fire nuke, but instantly self-cast [Dispel Magic] to eat the pre-cast light and sound cues before they rendered in the environment.
+
+A zero-frame stealth nuke. No warning indicator. No cast bar.
+
+In principle, elegant. In practice, she was about to find out.
+
+Attempt one.
+
+She allocated two of her four mental processing threads. [Conflagration] anchored in Thread One. [Dispel Magic] suspended in Thread Two. She linked the activation sequence, locked the target, and released the mana.
+
+Nothing happened.
+
+Hathaway stared at her empty palm. Her mana had cycled out, hit a wall, and returned to her circuits with a phantom shudder. Complete silence. Total stillness. Not a spark.
+
+Input error. The diagnosis arrived instantaneously in Hathaway's mind. The Dispel cast registered half a beat too early. It didn't cancel the particle effects—it canceled the actual spell. I interrupted my own cast. Success metric: achieved. Damage output: absolute zero.
+
+"You snuffed it out before the construct even formed," Rhode said, with the bored cadence of a high-ranked veteran watching a novice fumble their controller. "Again."
+
+Attempt two.
+
+She staggered the sequence. [Conflagration] first—the ignition caught, heat gathering in her palm. [Dispel] immediately triggered from Thread Two.
+
+Half a beat too slow.
+
+A sliver of violently unstable mana bled into the air before the Dispel could eat it. Rhode didn't move. Her perception clocked the fluctuation without effort.
+
+"Mana bleed," Rhode said. "But the intersection was correct. You found the boundary. Reset."
+
+Hathaway shook out her hands. The timing window existed. She just had to thread the needle.
+
+The final attempt.
+
+She stopped. Took a breath.
+
+The default casting speed is causing sequencing risk. Trying to perfectly sync two complex models is creating too much margin for error. Brute-force solution: strip the primary spell's complexity down to lower the cast time, and dump raw mana into it to compensate for the damage drop.
+
+She stripped the [Conflagration] architecture down to its barest skeleton.
+
+Then—since the person standing ten paces away was a top-tier Witch who would casually dismantle a point-blank explosion with a flick of her wrist just because she didn't feel like taking a step back—she opened the mana throttle to double the standard volume and pushed.
+
+[Conflagration].
+
+The air half a meter above her palm tore open.
+
+A dark blue vortex ignited without warning: the compressed, pressure-cooked coloration that only manifested from mana of absolute, terrifying quality. It didn't roar. It burned in a pressurized, architectural silence, casting a chill glow across the stone floor below it.
+
+At the exact microsecond between ignition and outward thermal expansion, Hathaway split her focus and slammed the [Dispel Magic] model into the outer edge of the vortex. She flooded it with mana, forcing it to consume every escaping trace before it could breach the air around them.
+
+She ran the internal mana radar.
+
+Dead air. Nothing. The sensors registered an empty room.
+
+Except directly in front of her, a fireball the color of deep winter was burning in complete, impossible silence.
+
+"Oh," Hathaway murmured, her reflection caught in the dark blue light. "I actually did it."
+
+Rhode let out a low, amused sound. "Yes, you did."
+
+She raised a finger. A pulse of high-density, isolating mana crossed the training floor and struck the vortex.
+
+The moment Rhode's Dispel made contact, the sheer mana volume still locked into the double-injected spell refused to simply yield. Not a conscious choice: Hathaway's mana pool, still running at elevated pressure from the Gaia Encounter's residual stabilization, slammed back against the external force on instinct.
+
+The two sources collided. A grinding, high-frequency resonance shook the air between them.
+
+Hathaway jolted, severed her own supply, and the vortex died.
+
+The recoil traveled straight down her arm.
+
+"Hiss—" She grabbed her wrist. The bones were throbbing. "Wait. Isn't [Dispel Magic] a conceptual interaction? Non-physical? Why is my wrist doing this?"
+
+Rhode had already withdrawn her hand.
+
+She didn't answer immediately. She glanced at her own fingertips, just for a moment, examining something she had felt in the transfer, then crossed the floor to Hathaway's reddened wrist.
+
+"...Aside from the small mana leak at the beginning, your execution was excellent," Rhode said, her voice returning to the instructional register. "Your Dispel construct entry is still too slow. Next time, begin building the nullification matrix while injecting mana into the primary spell. Use the mana flow differential as the timing trigger—faster, and absolute silence becomes easier to guarantee."
+
+She glanced at the empty space where the vortex had been. "Using localized suppression to choke an Evocation spell's buildup is structurally bizarre. Mechanically, you succeeded."
+
+She held still instead. Her eyes moved from Hathaway's wrist back up to her face, slow and deliberate: the look of someone recalculating a set of numbers that had just stopped making sense.
+
+"Forty-five thousand, five hundred and fifty," Rhode said.
+
+Hathaway's brain took a half-second to catch up. Rhode was reciting the projected post-Encounter mana total from Alucard's stabilization briefing. The number they had all assumed was settled.
+
+"...A bit more than that, actually," Hathaway said.
+
+Rhode tilted her head.
+
+"About a thousand more."
+
+Rhode's mouth opened. No words arrived.
+
+She clicked her tongue: the specific sound of a precise tactical brain arriving at an impossible result and getting the same answer twice.
+
+She turned her head and looked Hathaway up and down. A second time.
+
+"A thousand more," Rhode said, rolling the number in her mouth as though testing whether it was real.
+
+Then she let out a short, sharp breath. The smile was narrow, razor-blade narrow, carrying the private, unapologetic satisfaction of an apex predator watching a family member quietly develop into something she hadn't fully accounted for.
+
+"Again," Rhode said, stepping back. "Drop the nullification a fraction of a beat earlier. Keep going until it runs on reflex."
+
+The afternoon dissolved into high-focus repetition: cast, suppress, debug, reset. By the time Rhode called an end to the session, Hathaway's mana reserves were deep in the red and her wrist ached in a specific, instructive way.
+
+She flexed her wrist anyway. Worth it.
+
+[Time]: Summer Break, Day 25 — 06:30 PM[Location]: Royal Rosas Club · Dining Room
+
+Before collecting her tray, Hathaway pulled up the build plan on the lounge terminal.
+
+Fourteen days. Three spells. No improvisation.
+
+[Spell Acquisition List]
+
+Hathaway reviewed the list.
+
+Terrain control. Stealth offense. Anti-heal necrotic burst.
+
+When added to her existing loadout: absolute anti-air suppression, sonic detonations that bypassed physical armor, an instant-cast magic resistance shield, and the catastrophic, true-damage-enabling debuff chain of [Cold Justice]. A very clear picture began to form.
+
+It was a degenerate, non-interactive control build. The kind of zero-counterplay, toxic structural nightmare that didn't just defeat opponents, but actively made them want to uninstall the game.
+
+The full kit had the profile of something that would make a significant number of professional Witches physically ill to play against.
+
+She collected her tray and crossed the dining room.
+
+Nino was in the far corner, mechanically dissecting a steak while her eyes tracked a holographic data stream scrolling at a speed that suggested she was reading raw machine code.
+
+Hathaway sat down across from her and submitted the build plan as a voluntary report.
+
+After all, Nino had spent the previous day walking her through an eighty-nine-page tactical autopsy of every suboptimal decision Hathaway had made in the qualifiers. Turning in the homework was the minimum professional courtesy.
+
+Nino's knife paused over the steak.
+
+She looked up. The expression that settled onto her face was the one a strict doctoral supervisor produces when a student who has previously answered every question with rote memorization spontaneously generates a viable research thesis.
+
+Grudging. Precise. The specific acknowledgment of someone who distributes it rarely and on purpose.
+
+"Terrain control into a stealth burst sequence," Nino said. "Workable. The [Blight] penetration angle against Holy-type shielding has an exploitable entry window." She set the knife down.
+
+For the next twenty minutes, Hathaway received a private masterclass while eating.
+
+Nino deployed a salt shaker as the opposing forward vanguard, a pepper grinder as the backline sniper, and a measured handful of peas to demonstrate precisely how [Wall of Ice] could force an enemy formation into a choke point perfectly aligned for an invisibility-covered [Blight] drop.
+
+The tactical geometry was detailed, merciless, and fascinating in the specific way of watching a professional explain a problem they have already solved before breakfast.
+
+Hathaway devoured her dinner, utterly entranced.
+
+By any mundane biological standard, pairing a high-density tactical lecture with a hot meal should have been a recipe for severe indigestion. But the Witch's innate scholarly hunger had fully taken root in her system.
+
+She took another large bite of roast, thoroughly intoxicated by the theory, and wished Nino would talk even faster.
+
+Rhode dropped into the empty seat beside Nino, tray in hand.
+
+She placed a thick stack of parchment on the table and pushed it toward Nino without preamble. Nino examined it briefly, confirmed the contents, and withdrew a single document from her spatial storage:
+
+Waterproof dragon-skin parchment, the text rendered in dragon-blood ink, dark and permanent, sealed against weather and most mid-tier elemental interference. She slid it across to Rhode.
+
+Rhode accepted it with both hands and the genuine enthusiasm of someone who had been waiting on this specific document for days.
+
+"Lifesaver," Rhode said, flipping through the pages. "The Main Tournament bracket is going to be a problem. There's a real chance I end up facing that new invisible mid-range composition—you know the type. They stack buffs in the dark and win through sheer attrition."
+
+She took a large bite of meat, chewed, and continued with the uncomplicated contempt a frontline fighter reserves for everything that refuses to stand in front of her:
+
+"Dealing with those cowardly, underhanded, shameless Necromancy, Divination, and Illusion cheats—"
+
+Hathaway cleared her throat.
+
+"Ahem."
+
+Rhode's voice stopped.
+
+Her eyes lifted from the document and moved, efficiently, precisely, from Hathaway's face to Nino's expression, which had not changed in any visible way but had acquired the specific stillness of someone who had predicted this exact sequence with high confidence.
+
+Rhode required approximately half a second.
+
+Without flinching, without rephrasing, she completed the sentence:
+
+"...Dealing with those cowardly, underhanded, shameless Conjuration cheats. Standard detection spells simply aren't enough against them. Your niche detection variant is exactly the right tool for this, Nino—new approach, fresh angles. No one in the current Grand Masters bracket has calibrated their defenses against it."
+
+She patted the waterproof document with authority, as though she had been discussing Conjuration the entire time.
+
+Hathaway reached for her soup bowl.
+
+She lifted it. Adjusted the angle slightly. The ceramic rim settled precisely below her eyeline, perfectly obscuring the expression she had no intention of displaying in a public dining room.
+
+She took a slow, deliberate sip.
+
+Fine, she thought, behind the porcelain. All Conjuration Witches in the world can absorb the stray fire. This is an entirely acceptable distribution of consequences.

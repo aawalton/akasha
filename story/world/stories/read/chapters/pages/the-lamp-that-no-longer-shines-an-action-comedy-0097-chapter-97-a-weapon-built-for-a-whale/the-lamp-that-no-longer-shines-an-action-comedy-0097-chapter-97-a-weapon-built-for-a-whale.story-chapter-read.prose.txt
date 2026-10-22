@@ -1,0 +1,201 @@
+[Time]: Summer Break, Day 6, Afternoon[Location]: Open Sea · Grand Masters Qualifier Venue · Royal Rosas Recovery Zone
+
+The white light faded.
+
+Hathaway's eyes snapped open on the recovery cot.The first thing her lungs registered was the smell of sterile disinfectant and recycled air: the quiet, antiseptic hum of a room designed specifically for people who had just been killed at scale.
+
+Resurrection sickness settled over her like a wet coat. Her nerve endings were filing a formal complaint with upper management.
+
+The day had actually started as a masterpiece of geographical destruction.
+
+In the opening 3v3, the barrier had barely dissolved before Hathaway raised [Silver Star] and fired. No engineering analysis. No elegant spell sequencing. Just her mana, unreasonable, terrifying quantities of it, converted into a single sustained point of application. The opposing vanguard hadn't been defeated. They had been excavated. The entire team fight lasted forty-two seconds.
+
+Zero tactics. Zero elegance. The creative vision of a geological event.
+
+Nine out of ten. Extremely satisfying. Would replay.
+
+She had carried that apocalyptic high right into the KOF Singles. Round One: she walked out, caught the enemy speed-caster in a saturated grid of exploding fire, and vaporized her shields before she even finished her opening cast.
+
+Then came Round Two. And she was dismantled. Embarrassingly so.
+
+Her second opponent, a specialist in Divination and Illusion, hadn't even bothered engaging her in a firepower duel. After her explosive opening performances, Hathaway's fatal flaw was public knowledge across the tournament data networks: her spell pool was pitifully shallow.
+
+Everyone knew she didn't even possess a basic [Dispel Magic].The illusionist had come fully prepared, completely bypassing her artillery coverage to humiliate her with phantom targets and precognitive dodges. It was the brisk, professional efficiency of a matador dealing with a very predictable, very blind bull.
+
+Fortunately, Royal Rosas did not require Hathaway to hold the entire match together.
+
+Rina had stepped up after Hathaway's defeat.Relying on her frankly unreasonable, reality-warping RNG luck, Rina managed to chaos her way through the illusionist, trading blind blows until she secured a kill, before finally being worn down and eliminated by the enemy's next vanguard. The score sat at 3-2.
+
+Then Yenna stepped onto the field.Having permanently metabolized her stage fright yesterday, she deployed her tactical probability engine at full output. She sealed the match with the serene, merciless precision of a mathematician confirming her proof.
+
+Final score: 4-2. Royal Rosas advanced.
+
+Hathaway sat up and ran the replay of her loss in her head.
+
+Her neural reflexes had been fine.The problem was downstream: when her instincts had screamed fire and she'd flooded the command into the wand for a saturation bombardment, something had dragged.A microscopic, yet fatal, hesitation between intent and execution. A few dozen milliseconds of hardware lag.
+
+Previously, Hathaway hadn't been able to properly isolate this issue.Her casting had been severely bottlenecked by her own "legacy code".Back then, the massive internal casting delay felt like pushing concrete through a straw, so the wand's sluggishness was completely masked by her own internal lag.
+
+But after spending a grueling month painstakingly refactoring those outdated models, her internal architecture was finally a flawless, zero-latency engine.
+
+And precisely because her internal "software" was now perfect, the external "hardware" bottleneck, the heavy, grinding resistance of the wand itself, was glaringly exposed.In a meta where fractions of a second was the difference between a counterspell and a crater, that sluggishness was a kill condition.
+
+"Here."
+
+A glass of warm water materialized in her peripheral vision.
+
+Bella stood at the cot's edge in her gothic gown.The single crimson eye not hidden behind the lace eyepatch watched Hathaway with an expression of profound, theatrical tragedy.
+
+She spoke in a slow, resonant cadence, the voice of someone delivering a divine pronouncement to a fallen champion:
+
+"Thy blade can no longer bear the roar of the Abyss.
+
+"This rotting wood, forged from mortal craft—it is unworthy of the star-shattering darkness housed within thy vessel."
+
+Hathaway took the water. Drank. Said nothing.
+
+"She is correct."
+
+Nino materialized from the corner with the silent, inevitable quality of a theorem proving itself.Her tablet was already open. It was always already open. Since Day One of the qualifiers, she had been perched on the bench recording combat data with the focused serenity of a research scientist.
+
+"The conductive inscriptions inside your current wand are calibrated for Witches operating between 8,000 and 20,000 M-Units," Nino said, not looking up from the screen. "Its internal architecture is optimized for positional mages. Setup spells. Delayed-damage arrays. For that type of Witch, it is a precision instrument."
+
+She looked up. Her grey eyes held the clinical warmth of a pathology report.
+
+"For you—pure burst-damage artillery, apex output class—every one of those pressure valves is dead-locking your peak output. You are attempting naval bombardment with an embroidery needle."
+
+"So what do I need?" Hathaway set the wand down. "A short wand?"
+
+The exact moment the question left her mouth—
+
+Clack.Nino turned her tablet around.
+
+On the screen was a half-completed weapon blueprint, dense with arcane schematics and dimensional structural renderings.
+
+Hathaway stared at it. Then she looked at Nino.
+
+"Before we proceed." Nino tapped her stylus against the screen. "Baseline assessment. What is your working understanding of wand theory?"
+
+Hathaway answered from memory."Going wandless in combat is considered tactical amputation. A wand is an external amplifier—a second spine for your spell execution. Giving it up means fighting a fully-equipped opponent with nothing but your own body."
+
+"The classifications?"
+
+"Industrial compromises," Hathaway answered smoothly."Short Wand: highest handling speed, lowest stats—the standard for speed-casters."Long Staff: maximum stat amplification. Requires height and physical leverage to wield properly. You can cave someone's skull in with it or use it for heavy blocking, but it physically lacks the twitch-reflex dexterity of a short wand."Medium: balanced, therefore mediocre."
+
+"Correct." Nino's expression didn't change. "Now. Have you encountered the term Variant Staff?"
+
+Hathaway shook her head.
+
+"A Variant Staff abandons industrial standard classifications entirely," Nino swiped to a new projection."But do not confuse 'exotic' with 'superior.' Only idiots believe a bizarre weapon automatically makes them stronger. The wand does not make the Witch; the Witch selects the exact geometric architecture that optimizes her output. A top-tier Witch only touches a Variant if standard parameters physically limit her."
+
+She brought up two rotating holograms."Tasia and Alucard use Variants disguised as grimoires. But their weapons aren't apocalyptic because they are shaped like books. They are apocalyptic because each one was forged by compressing the cores of twelve high-magic planes. You could forge those materials into a frying pan and it would still shatter a continent."
+
+Twelve high-magic planes.
+
+Hathaway's internal accounting software threw a fatal exception error at the sheer, macroeconomic violence of the Milan'thirskaya family.Compressing the cores of twelve dimensions into a book wasn't just a weapon; it was a blatant, unapologetic pay-to-win exploit that deeply offended her game-designer soul.
+
+She hadn't actually seen Tasia or Alucard draw their weapons yet. She immediately updated her threat-assessment log: Observe the continent-shattering grimoires at the earliest opportunity. Preferably from a different time zone.
+
+Nino swiped again, bringing up a sleek, minimalist wand.
+
+"Then there is Lin Zhaojun. Externally, her weapon looks like a slightly elongated short wand."The industry evaluated it visually, classified it as a medium-staff, and mass-produced replicas based on that assumption. Those replicas are completely non-functional garbage. Why? Because her weapon isn't a staff at all. It's a conductor's baton."The magic isn't channeled through the physical wood; it's channeled through the three-dimensional trajectory she carves in the empty space around her. The Witches who bought those replicas assuming 'exotic equals power' found that out the hard way."
+
+Hathaway kept her facial muscles paralyzed.Internally, a cold sweat was breaking out down her spine.
+
+As a hardcore fan, the original Hathaway hadn't just bought Lin's tactical combat suit. Tucked safely in her closet back home was an agonizingly expensive, limited-edition "combat-ready" replica of [Legion's Bane].Which Hathaway had absolutely, one-hundred-percent believed was a medium staff.
+
+Nino pointed the stylus at Hathaway.
+
+"Which brings us back to you. You are in a similar position. You do not need a Variant to show off. You need a Variant because you have the mana pool of an apex predator, but the tactical spell-depth of a first-year novice."Your hardware requirements are a contradictory mess that standard factories refuse to touch. You need a crutch to bridge the gap your skills cannot cover. Therefore—"
+
+A three-dimensional model assembled itself above the tablet's surface.
+
+A bracelet. Three rings, collapsed flat.Then—mana injected—the rings detaching, rising, spreading into a slow, geometric orbit around an invisible point in space.
+
+Hathaway stopped breathing.
+
+She knew, intellectually, that Nino was a Nominee for [The Axiom of the Water Dragon].In Hathaway's internal dictionary, this honor meant you weren't just a scholar; it meant you had successfully discovered a new fundamental law of the universe, wrote the source code for it, and then stepped into the arena to prove your math by weaponizing it against other Witches.
+
+But reading a reality-architect's theoretical white-papers was one thing.Watching that same apex-intellect casually sit on a bench and hard-code a completely game-breaking, proprietary aimbot specifically for your personal hardware was a completely different religious experience.
+
+"Three rings. Three independently deployable spatial nodes. Three core mechanics."
+
+Nino raised one finger.
+
+"First: Long Staff stats, Short Wand handling." "You hold a minimal conductive Short Wand. When a spell exits the wand and passes through a hovering ring, the ring acts as an external metamagic module, applying [Quicken] or [Maximize]. There is no casting telegraph. Your output looks identical whether you're firing a fast-cast harassment shot or a maximum-damage nuclear warhead."
+
+Two fingers.
+
+"Second: Vector refraction." "You fire a spell into Ring A beside you. It exits from Ring B—positioned behind the target, directly above their head, inside their blind spot. The exit vector belongs entirely to you. A hard-counter to the illusionists and kiters who dismantled you today."
+
+The illusionist had spent the entire match one step ahead of every angle she chose. It hadn't been superior speed. It had been superior information. She had been broadcasting her trajectories like a public announcement.
+
+She ran the frame back: the position she'd been standing when the Ice Storm landed. The angle the illusionist had predicted.
+
+A vicious spike of adrenaline hit her.
+
+Ring A, deployed beside her, angled away from the target. Ring B, positioned directly above the illusionist's head, behind her. The spell enters Ring A. Exits from Ring B.
+
+The illusionist reads the casting stance. Sees the output vector. Moves to dodge.
+
+She dodges in the wrong direction.
+
+The read rate doesn't get slower. It becomes a death trap for anyone trying to predict her based on her body language.
+
+Three fingers.
+
+"Third: Single-slot preload." "Each ring can cache one fully chanted spell, bound to a customized trigger condition—enemy proximity, shield rupture. It is chambering a round in advance and suspending it in mid-air."
+
+Nino set the tablet down.
+
+"This design is highly inefficient," Nino stated flatly. "For 99% of the Witch population, the mana cost required to operate this external architecture would cripple their combat endurance. But for someone with your pool to burn? It becomes a daily loadout."
+
+The rotating holographic rings hummed quietly above the tablet, maintaining their slow, planetary orbit.
+
+In the corner of the room, Bella stared at the three-dimensional geometry.
+
+For exactly one and a half seconds, her single crimson eye went completely wide. Her fingers twitched.
+
+She did not say anything. Her eye was still fixed on the rings. Whatever was happening behind it looked computationally expensive.
+
+Hathaway looked back at the three rings still tracing their slow orbits above the tablet.
+
+The weapon's fatal flaw was its running cost. The exact thing she had too much of.
+
+"I want it," Hathaway said.
+
+"The blueprints are complete," Nino said. "The materials are the problem. The chassis requires [Gilt Corona]. The suspension nodes require [Sun-Eater Prism]. Both are out of stock. Sourcing them through legitimate market channels would take a minimum of four weeks."
+
+Four weeks.The qualifiers ended in three.
+
+Hathaway's processing threads pivoted. Legitimate market channels.
+
+A memory surfaced. The Yggdrasil Academy corridor. Irene extending a hand, a coin resting on her palm.
+
+"Full procurement clearance to my private commercial network. Consider it a foundation for your next brilliant idea."
+
+Hathaway placed the heavy, black-and-gold coin on the cot.Twenty-seven rays of the sun. The master key to the Sovereign of Avarice's personal supply chain.
+
+Nino’s grey eyes flicked to the coin. The stylus stilled for a half-second.
+
+"Good. You remember you have leverage," Nino noted calmly. "With the Fifth Seat's logistics network, shipping takes two days. Route the purchase authorization through your coin, and forward the invoice directly to the club's quartermaster."
+
+"Wait," Hathaway blinked. "The club is covering the material cost for a custom Legendary-chassis build?"
+
+"Hathaway, we are Royal Rosas," Nino stated flatly, tapping her stylus against her tablet. "Our operational budget rivals small sovereign states. What we lacked was high-priority clearance to a private vault on a tight deadline. You provide the access; the club provides the capital and the forge. Get me those materials, and I will have it built in five days."
+
+Bella stepped forward.
+
+"The coffers of the Sovereign Rose overflow with the gold of mortals!" Bella intoned, adjusting her eyepatch with a flourish that had accumulated considerable momentum during her silence. "Yet the forbidden materials remained sealed behind the veil of time! But thou hast produced the Key of Avarice! The celestial rings have aligned. The pact of war is struck. The Crimson Bloodline shall wield this stellar engine, and we demand only that you reap the souls of your enemies in return!"
+
+"Understood," Hathaway said, pocketing the coin.
+
+Nino recorded the blueprint parameters with impeccable efficiency. She picked up her tablet and turned to leave the recovery room.
+
+"Pick it up in one week," Nino said over her shoulder. "Try not to lose horribly in the interim."
+
+Hathaway leaned back on the recovery cot and stared at the ceiling.The [Silver Star] sat abandoned beside her on the mattress, already a relic.
+
+Seven days.
+
+In seven days, she thought, with the calm of a player who had just locked in their endgame gear progression, every opponent left in these qualifiers becomes a walking ATM.

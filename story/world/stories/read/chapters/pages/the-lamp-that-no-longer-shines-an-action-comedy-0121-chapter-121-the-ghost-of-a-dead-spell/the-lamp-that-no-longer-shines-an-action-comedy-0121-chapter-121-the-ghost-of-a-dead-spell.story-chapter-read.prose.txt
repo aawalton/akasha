@@ -1,0 +1,233 @@
+[Time]: Summer Break, Day 26[Location]: Royal Rosas Club · Meditation Chamber
+
+The spell model for [Wall of Ice] did not look like magic.
+
+It looked like an architectural schematic for a building that had never been constructed.
+
+Hathaway sat cross-legged on the silencing array, eyes closed, her full analytical bandwidth poured into parsing the heavy spell book resting on her lap. As a Tier-6 spell, the underlying logic was staggeringly complex.
+
+[Ice Storm], her old benchmark for high-tier ice magic, had been a chaos simulation. Pressure differentials, storm nuclei, mana-saturated weather patterns propagating outward from a core origin. Loud with elemental noise. Spatially greedy.
+
+This was none of those things.
+
+What materialized in her mental workspace was a geodesic lattice: a three-dimensional wireframe of exact spatial coordinate nodes connected by load-bearing structural tethers. Zero elemental diffusion. Zero propagation origin. No "center" at all.
+
+The entire model existed in pre-solved space; its geometry had to be strictly defined before a single unit of mana could be introduced.
+
+If I input standard flat coordinates...
+
+A perfectly sheer wall of frosted ice materialized. Not from the ground up. Not from a center point outward. Every node synchronized and locked in the same microsecond, the surface arriving all at once, like a 3D render completing in a single frame instead of progressively loading from the origin outward.
+
+She let the model dissolve, dove deeper into the uncompiled theory, and spent three grueling hours just to locate a single buried parameter inside the topological math: a fold-line toggle.
+
+If I switch this and lock the coordinates directly overhead...
+
+The planar model curved, closed, and sealed itself into a dome configuration.
+
+Hathaway rubbed her aching temples and stared at the dense pages of the spell book.
+
+Every offensive spell she had mastered so far concentrated its cognitive load at the moment of release: calculate trajectory, predict movement, control yield. The entire challenge lived at the trigger-pull. It was a shooter's problem: aim, then fire.
+
+[Wall of Ice] inverted this entirely.
+
+Once the spell was actually installed, the activation step would be the easiest part. It was just a simple injection of mana to flood the completed grid.
+
+The real challenge lived exclusively in the pre-cast window: What are the exact coordinates? How wide? How tall? What thickness? Flat intercept or inverted dome? She would have to complete the spatial modeling before outputting any mana, because there was no room for mid-cast correction. The lattice would either arrive correct or it would arrive wrong.
+
+This isn't a weapon skill, her game-designer brain concluded, with the specific bafflement of someone who had shipped three games and never encountered an interface like this. The interaction design is insane. They literally handed the player the developer engine's Level Editor and told her to use it during a live fight.
+
+She was not going to throw a spell. She was going to build terrain.
+
+[Time]: Summer Break, Day 27[Location]: Royal Rosas Club · Underground Training Arena
+
+Bella arrived six minutes late, a delay precisely calculated to make the atmosphere appropriately ominous.
+
+She descended the training stairs dressed for a third-act villain's entrance: all black velvet, gothic lace, and today's choice from her extensive collection of eyepatches, this one set in a silver constellation frame.
+
+However, the dark theatricality was, as always, undermined by her unavoidable Ludwig family aesthetic. The excessive gold threading, massive ruby buttons, and the cheerful solid-gold sunburst clasp on her parasol-staff caught the arena lights with an enthusiasm that thoroughly ruined the brooding effect.
+
+She planted the parasol-staff against the stone floor with a decisive click and regarded Hathaway across the length of the arena.
+
+"Every spell," Bella began, pitching her voice to fill the cavernous space with the full resonance of someone who had practiced this, "when violently aborted or shattered, lets out a final despairing wail." She raised one lace-and-gold-thread-gloved finger. "That scattered mana residue is not garbage. It is a horde of masterless, violent ghosts.
+
+"Perceive the residue. Record the frequency. Repeat the manifestation." A beat, perfectly timed. "This is the fundamental architecture of [Echo Casting]. The art of resurrecting a slaughtered spell."
+
+Her voice dropped to something that was genuinely trying to be velvet and almost achieved it. "Come, Eclipse. Show me whether you can catch the echo of shattered stars."
+
+The three geometric rings orbiting Hathaway's wrist flared with a cold, pale-gold light. She fired an [Ice Storm] directly at Bella's head.
+
+The temperature above Bella plummeted; icicles condensed out of the air and dropped in a lethal volley.
+
+Bella raised her staff with the unhurried precision of someone swatting a fly.
+
+"Scatter, false winter."
+
+The [Ice Storm] was simply deleted. Every icicle, every gust, every unit of Hathaway's mana expenditure dissolved into powdery white mist a meter above Bella's head. Bella stepped through it, the gold thread in her lace trim catching the light again.
+
+"Too crude, blood of my blood." The velvet register had not left her voice, but real criticism had entered it. "An aftershock is not a crude refraction of light and shadow. It is the swan song of falling stars—the sigh left behind when laws collapse.
+
+"You are focused only on manufacturing slaughter and failing to listen to the fleeting frequency of the collapse itself. Smashing blindly like this will never let you touch the abyss."
+
+Hathaway registered the failure as expected.
+
+She flicked the short wand in her hand, threading a completely transparent [Magic Missile] through one of the spinning rings to accelerate it in a shallow arc toward Bella's blind side.
+
+It was a Tier-1 spell: structurally minimal, nearly invisible.
+
+When Bella's ward deflected it and the missile dissolved into residual mana, Hathaway's radar captured the fragmented model debris clearly: the dissipation pattern, the dimensional signature, every detail of the spell's collapse in real time. She could perceive it. She understood its geometry in the exact moment of its death.
+
+What she could not do was grab that collapsing structure in the fraction of a second before it scattered and reverse-engineer a live cast from it. It was like trying to catch a gust of wind with bare hands. She could feel it. She could not hold it.
+
+Simultaneously, the floor directly beneath Bella's feet tore open.
+
+The [Conflagration] had been building in Hathaway's secondary mana channel since the Ice Storm launch, preloaded into one of the orbital rings. The dark-blue, high-temperature vortex detonated in the same moment Bella's focus was occupied with deflecting the Missile.
+
+A column of compressed blue fire shot upward, swallowing Bella entirely.
+
+For two seconds, the arena was bathed in cold, pressurized glow. Then the flames stopped moving. They didn't extinguish. They warped.
+
+Bella's hand emerged from the inferno, fingers moving with the precise, delicate economy of someone conducting a string quartet.
+
+The full mass of Hathaway's blue fire, still burning, still violently alive, every unit of mana still hers, responded instantly. The vortex twisted, collapsed inward, reshaped.
+
+Six flame-hounds crashed into existence on the arena floor and heeled at Bella's boots, burning skulls nuzzling her skirt hem, synthesized phantom whimpers issuing from their fire-throats with what could only be described as affection.
+
+She hijacked my admin rights.
+
+Hathaway's eyes narrowed. She extended her mana threads toward the residual signatures still embedded in the hounds, pushing to reclaim them through raw pressure.
+
+"You have learned to silence the breath of your slaughter. Rhode's barbaric little lessons bear fruit."
+
+Bella reached down and scratched one of the burning hounds behind what functioned as its ear. The hound leaned into it. The gold sunburst on her staff clasp caught the light.
+
+"But your sovereignty over your own essence—its loyalty, its submission to your will—is as brittle as a mortal's promise. You cannot summon back the fangs you never truly tamed."
+
+Hathaway stopped fighting for control.
+
+The mana cores were hers. Regardless of what Bella had done with the structure, the raw fuel still answered to her base signature. She reached in and detonated them.
+
+BANG.
+
+Not magic-explosion loud. Gunshot loud. The crack of a heavy rifle firing inside a sealed room.
+
+The six hounds underwent a sympathetic chain detonation.
+
+Bella's high-precision compression structure had been applied to Hathaway's extremely dense mana base; the combined yield exceeded either component by an unreasonable margin. The reinforced alloy floor melted into a smoking glass crater at the blast center. Stone cracked in a ring extending meters from the epicenter.
+
+Through the structural framework of the sky island, the whole mass of floating bedrock gave a brief, unmistakable shudder.
+
+Thick smoke swallowed the arena. Hathaway stood in it and watched.
+
+The smoke cleared.
+
+The grand opera persona slipped.
+
+Not all the way. Not obviously. But the half-second between when the blast zone became visible and when Bella reoriented herself was unmistakable: the theatrical ease, the languid arrogance, the comfortable distance of someone who was teaching: gone.
+
+In their place was the pure, unadorned attentiveness of a competitor who had just recalculated something important about the person across the arena from her.
+
+Then the temperature stopped mattering.
+
+Not cold. Colder was still temperature. This was something else. The air itself was reclassified, shifted from ambient atmosphere into a physical object pressing down on Hathaway's shoulders, her chest, the base of her skull.
+
+It was pressure that had been earned through something real: a genuine aura from a Witch who had actually survived things, her instincts having silently reclassified Hathaway from student to threat below conscious thought.
+
+Her thoughts began to slow. Her heartbeat hit her ribcage like something trying to get out.
+
+Then the paradox kicked in.
+
+Because underneath the terror, riding the same current as the fear, was something that was not fear at all. A response so profoundly incorrect for the situation that her Witch instincts generated it anyway.
+
+Her hands went light. Focus sharpened past the point of usefulness. Every survival heuristic reclassified as noise. The thrill that demanded she discard logic, discard two lifetimes of survival instinct, and simply burn.
+
+She had spent thousands of hours in her past life staring down mechanics that should have killed her. Some part of her brain had been waiting for this caliber of opponent since she arrived in this world.
+
+A craving to be destroyed.A greater craving to destroy.
+
+The more terrified she was, the sharper her comprehension became. The more the pressure compressed her, the more her thoughts achieved a paradoxical clarity at the center of it: a calm so precise it felt like a different person had stepped forward from behind her fear and taken the controls.
+
+She raised her short wand.
+
+The three rings snapped into a tight, vibrating alignment as she triggered [Charged Sonic Boom].
+
+The air between them became a shimmering distortion of ruptured physics.
+
+"The Sin of Silence."
+
+Bella's voice cut through the distortion like a concept rather than a sound.
+
+The guillotine dropped on Hathaway's mana circuits. Absolute, unyielding suppression sealed every output channel simultaneously. The glowing rings around her wrist instantly went dark and dropped their planetary rotation. Her physical body entered forced [Silence].
+
+The [Charged Sonic Boom], fully formed and mid-detonation, had its mana supply simply yanked: the matrix collapsed inward, the acoustic energy gagged and smothered, the entire construct dying with the quiet finality of a machine losing power.
+
+Bella gripped her staff in one hand. In her uncovered eye, genuine approval had surfaced, unperformed for the first time since she'd arrived.
+
+"Magnificent, blood of my blood. Most minds fracture when the abyss opens its jaws. But your soul beneath the guillotine is—"
+
+In the absolute dead silence of the Silenced state.With zero mana output from her own body.Hathaway heard it.
+
+Every ambient circuit sealed, every channel cut, her mana radar had never been this clean.
+
+And in that clean silence, the [Charged Sonic Boom]'s aftershock was as distinct as a single guitar string plucked in a soundproof room. The aborted spell had left a corpse: a cluster of highly volatile, forcibly interrupted mana residue bleeding out from the collapsed model, suspended in the air around her before it scattered.
+
+She could see every wavelength. Every dissipation trajectory. Every structural ghost of the dead spell's geometry, given to her for free by the silence that was supposed to stop her.
+
+Recording.Complete.
+
+She did not reach for her own mana. Her own mana was sealed. Her wand and its orbital modules were dead weight. She reached for the corpse.
+
+Without a cast, without a model, without a single unit of output from her silenced circuits. She grabbed the aborted sonic boom's residue with raw mental force and played it back through it.
+
+Bang.
+
+The echo detonated at point-blank range, directly through the conceptual suppression of [Silence], fueled by nothing except the dead spell's own aftershock. The invisible shockwave slammed into Bella's ward and blew the black velvet cloak straight up and over her head, gold-threaded lace and all.
+
+Bella stood in the dissipating blast.
+
+Her cape was still coming down.
+
+She executed a very composed, deeply unnecessary half-turn to face the far wall and spent approximately two seconds regarding the empty stone with the expression of someone who had simply chosen to look at it and whose timing had nothing to do with anything else. Then she turned back.
+
+"...Heh." A low, slow laugh, theatrical timing fully restored. She raised the gold-clasped parasol-staff in a measured, unhurried gesture. "Do you see? This is the true frequency of the abyss. Even with your throat crushed by the law, you have finally learned to make the ghosts of shattered magic sing."
+
+Shut up, Hathaway thought, rubbing her aching temples, the corners of her mouth pulling upward in spite of herself. The dialogue is absolutely cringe.
+
+But this skill.This skill is broken.
+
+[Time]: Summer Break, Day 28[Location]: Royal Rosas Club · Library Alcove
+
+The physical receipt arrived the next morning: a headache parked behind Hathaway's left eye and a right wrist that objected, specifically, to being bent.
+
+She settled into the library alcove with a cup of black tea she didn't taste and the quiet satisfaction of a developer who had shipped a patch on deadline and had the crash logs to prove it.
+
+[Wall of Ice]: in production. Forced geometry rewrites. Flat intercept or dome, pre-configured on demand. The Level Editor, added to the loadout.
+
+[Echo Casting]: foundational mechanics acquired. Counter-counter-spell engine assembled from the wreckage of her own failures, powered by dead spell residue and the silence that tried to stop her. Instruction time: one session. Lesson delivery method: getting her mana circuits forcibly shut down in front of someone who found her defiance "magnificent."
+
+Nationals opened Day 36. Eight days until the opening ceremony.
+
+Hathaway looked out the alcove window at the afternoon light crossing the club's garden. Her thoughts drifted back to her very first qualifier match.
+
+Less than a month. That was all it had been since she had first stepped onto a sanctioned arena floor, sweating over basic cast timings, a pitifully shallow spell pool, and trying not to die.
+
+She ran a quick, objective combat simulation in her head: her current self against the Hathaway from Day One.
+
+It wouldn't even be a fight, her game-designer brain concluded with absolute certainty. With this build, it would be a unilateral spawn-camp. I could 1v10 my past self without dropping my shield.
+
+But her calculations didn't stop at her own shadow.
+
+Rhode. Bella. Nino.
+
+A month ago, standing across from them would have been a scripted death. A hard zero. An absolute impossibility where no amount of strategy or luck could have forced a miracle.
+
+Now, reviewing the toxic utility and rule-breaking mechanics bound to her circuits, a profound, unprecedented sense of stability settled over her. The gap was still an abyss. The probability of actually posing a lethal threat to them might only be a fraction of a fraction of a percent.
+
+But it was no longer zero.
+
+And as any game developer knew: the moment a probability shifts from absolute zero to literally anything else, it stops being an impossibility. It becomes a miracle just waiting for the right frame.
+
+She reached for her tea.
+
+It had gone cold while she was thinking.
+
+She drank it anyway.

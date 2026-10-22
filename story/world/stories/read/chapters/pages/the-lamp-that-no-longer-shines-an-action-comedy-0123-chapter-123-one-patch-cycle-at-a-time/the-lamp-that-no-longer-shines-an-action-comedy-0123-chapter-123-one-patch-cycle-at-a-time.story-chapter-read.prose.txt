@@ -1,0 +1,187 @@
+[Time]: Summer Break, Day 30 — Afternoon[Location]: Royal Rosas Club · Tactical Training Arena
+
+When Rhode von Ludwig pushed open the heavy doors of the training arena, the fine hairs on Hathaway's forearms stood up without any directive from her brain.
+
+It wasn't a targeted aura. Rhode wasn't doing anything.
+
+She looked, in fact, physically wrecked. Days of brutal training had scraped the color clean out of her skin and stripped the characteristic steamroller weight from her stride. She wore her usual ensemble: a loose T-shirt with "GLORY" printed on the front, flip-flops, and apparently nothing else resembling combat readiness.
+
+The welding-dark goggles were pushed up onto her forehead rather than over her eyes, which meant those deep red irises were fully exposed—and fully lit. The complex geometric light-patterns that normally warranted welding-grade suppression were burning at full output, bright enough to make Hathaway's eyes water at fifteen meters.
+
+She looked like she'd been rinsed through a meat grinder and come out the other side significantly more interested in violence.
+
+Hathaway's internal threat-assessment filed its update in half a second: Current Rhode: more dangerous than qualifier Rhode. Including finals Rhode. The chassis is weaker. Whatever is running it is not.
+
+"Cousin," Hathaway said carefully. "How's the training coming along?"
+
+Rhode didn't answer immediately.
+
+She stood in the center of the arena, chest rising and falling in the slow controlled rhythm of someone replaying a very satisfying memory from close range. The expression on her face was that of a sommelier revisiting a world-class vintage—distant, savoring, completely terrifying.
+
+"I really can't wait," she said, voice roughened to a rasp, "to tear Cecilia Wellington apart in the Main Tournament."
+
+Hathaway's mouth stayed shut. The light in Rhode's eyes communicated everything the answer would have communicated and considerably more. She pulled up her training notes and redirected.
+
+"Spell Chains today, right?"
+
+Rhode rolled her neck once, joints popping clean and precise. The goggles came back down. "Right." She extended a finger and drew a glowing red line in the air between them. "Without it, your so-called combos are slow-motion footage to anyone worth fighting."
+
+"Every spell model in your spine carries a switching cost," Rhode said, her voice settling into the cold instructor cadence. "You finish casting one spell, and pulling the next from your spinal library requires your mental bandwidth to retrieve, activate, route the mana, align the geometry. Small cost. But in a high-tier match, small costs are how you die."
+
+She tapped six points along the glowing line.
+
+"A [Spell Chain] eliminates that cost for six chosen spells. Every morning, before combat, you pre-configure a priority activation sequence. Your spine builds dedicated, high-speed conductive pathways for those six specifically. Within the chain, the switching cost between them approaches zero. True seamless casting."
+
+"Why six?"
+
+"Because simultaneously maintaining six hyper-active conduction pathways is the hard limit of cognitive load for a Witch." Rhode's tone didn't shift. "Try to pre-set seven. The pathways start interfering with each other. Signal degradation. At best your spell misfires. At worst it detonates inside you before it forms. Six is the cap, and it will never feel like enough."
+
+Like pre-loading six hotkeys directly into RAM. The game-designer in her flagged the mechanic with professional appreciation. The economy is brutal by design. That's good balance.
+
+"Therefore." Rhode's red eyes, visible through the dark lenses as two faintly luminous points, fixed on her. "Your six cannot be random. The chain must form a sequence you will actually execute in order in a real fight. Choose right, and your casting is a continuous hurricane. Choose wrong—or get forced off your sequence by your opponent—and the cost of breaking those pre-set pathways makes casting slower than if you'd never built the chain at all. Double-edged."
+
+Rhode listed the exclusions. [Cold Justice]: SLA, self-triggering, no chain needed. [Anti-Spell Domain]: instant at triple mana cost. All Tier 0–2 cantrips: fast enough without it. Tactical tools: stripped. Exactly seven remained:
+
+[Wall of Ice] · [Ice Storm] · [Slow] · [Charged Sonic Boom] · [Greater Invisibility] · [Blight] · [Flight Suppression]
+
+"Seven spells. Six slots. Drop one." Rhode looked at the list. "Tell me: how do you choose?"
+
+She went straight to the principle.
+
+"Not how to choose today. How to choose a year from now, when the depth of your spell pool vastly exceeds a mere six slots, and the chain won't even cover a fraction of your arsenal."
+
+Rhode held up one finger. "One rule: who you are fighting today dictates your chain today.
+
+"If your opponent is a high-defense melee brawler—someone like Alucard," Rhode said, citing the name with flat, tactical recognition. "Open with [Wall of Ice] to force their pathing. Seamless transition into [Ice Storm] for suppression. Immediately follow with [Charged Sonic Boom]—acoustic damage, bypasses physical armor, internal impact. The casting logic is sequential. Those three must be in the chain.
+
+"But your opponent is a backline positioning master," Rhode swapped the scenario without pause. "Something like Nino, who wants to trade at maximum distance and make your terrain control worthless. Completely different script. Open with [Greater Invisibility] to drop your coordinates and reposition. Drop [Blight] for necrotic consumption they can't block. Finish with [Slow] to lock their evasion. Different six entirely."
+
+Rhode tapped her temple. "Which of the seven you cut depends entirely on the read. No fliers on the opposing team? [Flight Suppression] is a dead draw—don't let it take a slot. Enemy is all-aerial, high-mobility? [Blight] requires close-range to land; close-range attrition isn't in today's script. Cut it.
+
+"Six slots will never cover every emergency." A thin, precise expression. "So the essence of setting your chain at dawn is this: pre-write the exact sequence of cards today's opponent will force you to play. Lock those spells into the chain. You write the script. You force them to walk it."
+
+Hathaway sat on the arena floor and said nothing for a moment.
+
+This isn't stacking stats anymore. This is game theory at the tier where a wrong build choice before the match starts is how you lose the match. Character creation screen opens every morning at dawn.
+
+Significantly more interesting than she'd expected.
+
+[Time]: Summer Break, Day 31 — Afternoon[Location]: Royal Rosas Club · Potion Lab
+
+The topological knot finally gave.
+
+Two days of staring at the spatial coordinate definitions for [Wall of Ice], and then at some point between one breath and the next—two misaligned gears clicked into place. The geodesic lattice closed. The logical enclosure held.
+
+Blueprint complete. Time to drink.
+
+Hathaway carried the papyrus—dense with geometric lines and mana-circuit equations—down to the potion lab, found Lady Agnes at her station, and slid the sheet across the counter.
+
+Her hand was slightly tense.
+
+Three days ago she had submitted a first-draft model. Agnes had looked at it, smiled with exquisite aristocratic grace, and delivered the following formal academic evaluation:
+
+"Miss Ludwig, could you perhaps show some mercy and spare this vulgar, tactless spell model? Its biological mother merely failed to educate it, leaving it unable to articulate itself properly. But the radical alterations you have performed have mangled it into a deformity so profound that even if its mother crawled from the grave, she would not recognize it."
+
+Agnes was impeccably polished in her pristine lab coat, and she was deeply unhinged, and the two facts coexisted without friction. Hathaway had developed a Pavlovian reflex: if Agnes smiled, verbal destruction was incoming. No exceptions.
+
+Agnes took the papyrus. Her eyes moved across the spatial coordinate equations, fast and flat, like a scanner.
+
+One second. Two seconds. Three.
+
+She didn't smile.
+
+Expressionless, she turned, walked to the ingredient cabinet, weighed out frost-aspected reagents with practiced hands, lit the cauldron, and began brewing. Throughout the entire process: not a word, not a smile, not one flicker of that particular aristocratic amusement that meant Hathaway's week was about to get worse.
+
+Hathaway let out a breath so long it was nearly structural.
+
+No smile. No flaws. The model passed.
+
+Twenty minutes later, a vial of faint blue liquid was pushed across the counter.
+
+She downed it in one go.
+
+The [Wall of Ice] potion had no taste. What it had was a sensation—a purely conceptual cold. The liquid entered without temperature, without warmth or chill, just the idea of cold itself, and that idea dropped down her throat and hit her spine and spread outward along every vertebra in precise, geometric increments.
+
+It felt like microscopic ice-scalpels carving spatial coordinates into bone, one by one—methodical, exacting, and utterly painless.
+
+Just cold. Cold enough to blank every stray thought. Cold enough to make the inside of her skull feel like a processing environment running at optimal temperature.
+
+Ten minutes later.
+
+She stood in the empty test area, fed the coordinates into her mind, and activated the spell.
+
+[Wall of Ice].
+
+A crystalline wall erupted from the floor—half a meter thick, three meters high, frost radiating off its surface in waves—and simply existed where nothing had been a moment before.
+
+As a former game designer, watching this happen, Hathaway felt exactly one thing:
+
+The code compiled. Zero errors. Deployed to the live server, running clean on day one.
+
+The feature was live.
+
+[Time]: Summer Break, Day 32 — Morning[Location]: Royal Rosas Club · Corridor
+
+Hathaway was walking past the training arena with an armful of documents when she glanced through the reinforced glass and stopped.
+
+Tasia stood alone in the center of the floor.
+
+No visible mana. No spell arrays. No staff. She hadn't activated anything. She was simply standing at a specific coordinate on the reinforced stone, almost motionless, for an extended period of time.
+
+Then she tilted her head slightly—as though listening to a frequency that Hathaway's instruments couldn't detect—and took two small, unhurried steps to the left, and stood there again.
+
+It looked like a person who had eaten too much at lunch and was waiting for digestion to resolve the situation.
+
+Hathaway narrowed her eyes and activated her tactical analysis. Footwork pattern? Nothing discernible. Mana signatures? She swept the area. The radar came back clean. Tasia's position registered like a geological feature. A rock.
+
+She watched for five full minutes.
+
+Analysis output: zero. Hard zero.
+
+She thought about it for another few seconds, then decisively filed the entire visual sequence into a new encrypted mental folder labeled Tasia's Metaphysics, engaged the lock, and turned back toward the corridor.
+
+When dealing with the operational logic of higher-dimensional beings: if you can't parse the syntax, stop trying. You'll just lose Sanity points.
+
+She had training to get back to.
+
+[Time]: Summer Break, Day 33 — Afternoon[Location]: Royal Rosas Club
+
+[Greater Invisibility] engraving complete.
+
+The potion hit her tongue with a burst of rich, artificial sweetness—and then, in the next microsecond, that sweetness vanished entirely. The texture of the liquid dissolved with it. The physical sensation of swallowing vanished.
+
+Even the aftertaste was cleanly erased, as if the physical memory of the act had been directly blocked. She had consumed something. There was no evidence that this had occurred.
+
+She left the lab and walked the corridor back toward her room.
+
+Over the past few days, the Royal Rosas Club had undergone a shift she could feel in the air before she could name it. The logistics channels were hyperactive with high-priority requisitions. Certain training modules had been cancelled—not because they were finished, but because introducing new variables this close to the Main Tournament was how you manufactured errors under pressure.
+
+The experimental sessions were over. The consolidation sessions were over.
+
+Passing the potion lab, she caught the smell difference immediately.
+
+What Agnes had been brewing all month had the scent of a quiet library—cold, precise, the smell of careful construction. What came out of the cauldrons now smelled like a trench filled with gunpowder.
+
+Instant-recovery elixirs, aggressive stimulants, high-intensity combat consumables: materials that traded long-term stability for immediate output.
+
+The whole base carried the specific, pressurized quiet of a war room in the twelve hours before deployment. All weapons loaded. All tactics locked. All variables accounted for, or accepted as uncontrollable.
+
+Hathaway stood in the upper corridor and looked down at the main floor, where Rhode and Bella were running final equipment checks.
+
+Her probability of taking the field in round one of the Grand Masters Main Tournament sat at a flat zero. She had done the math. The data was accurate, the assessment was clean, and she was completely comfortable with both. She wasn't going to step onto that stage in round one. The build didn't support that deployment yet.
+
+But her career extended significantly past this single tournament.
+
+She had started eighteen years behind the monsters who had been grinding since birth—behind people who had spent those eighteen years etching spell models while she'd been designing game mechanics that no one in this world would ever understand. That gap was real, and she was not pretending otherwise.
+
+What she was doing was running the most aggressive catch-up arc of two lifetimes, and the numbers were moving. Every spell etched into the spine. Every tactical framework internalized. Every chain configured and tested. The gap between her and the stage closed in real, measurable increments.
+
+She wasn't watching it on faith; she was watching it on data.
+
+She didn't need to step onto the field in round one.
+
+She needed to ensure that when round one ended, she was closer to the person qualified to stand on that stage than she'd been when the tournament began.
+
+That number, she had absolutely no intention of making look bad.
+
+One patch cycle at a time, she thought, and went to check the next day's training schedule.
