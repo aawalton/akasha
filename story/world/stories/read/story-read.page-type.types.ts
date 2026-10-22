@@ -3,6 +3,7 @@ import type { Parts } from "akasha/domain/properties/parts.multi-relation-proper
 import type { Story } from "akasha/story/story.page-type.types.ts"
 import type { ExternalTags } from "akasha/story/world/stories/read/properties/external-tags.text-property.types.ts"
 import type { PublicationStatus } from "akasha/story/world/stories/read/properties/publication-status.select-property.types.ts"
+import type { ReadLater } from "akasha/story/world/stories/read/properties/read-later.boolean-property.types.ts"
 import type { PicturesOnBeats } from "akasha/story/world/stories/written/properties/pictures-on-beats.boolean-property.types.ts"
 
 export type StoryRead = Story &
@@ -11,4 +12,5 @@ export type StoryRead = Story &
     publicationStatus?: PublicationStatus
     parts?: Parts
     picturesOnBeats?: PicturesOnBeats
+    readLater?: ReadLater
   }

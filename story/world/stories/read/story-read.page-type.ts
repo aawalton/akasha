@@ -23,6 +23,7 @@ export const storyRead = {
     "select-property/publication-status",
     "text-property/external-tags",
     "domain/wandering-inn",
+    "boolean-property/read-later",
   ],
   properties: [
     {
@@ -34,6 +35,7 @@ export const storyRead = {
     { pageProperty: "select-property/publication-status", required: false, many: false },
     { pageProperty: "multi-relation-property/parts", required: false, many: true, maxCount: null },
     { pageProperty: "boolean-property/pictures-on-beats", required: false, many: false },
+    { pageProperty: "boolean-property/read-later", required: false, many: false, default: false },
   ],
   decisions: [
     {
@@ -69,5 +71,5 @@ export const storyRead = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T03:34:14.461Z",
-  updatedAt: "2026-10-09T00:59:20.285Z",
+  updatedAt: "2026-10-22T15:06:36.737Z",
 } as const satisfies PageType
