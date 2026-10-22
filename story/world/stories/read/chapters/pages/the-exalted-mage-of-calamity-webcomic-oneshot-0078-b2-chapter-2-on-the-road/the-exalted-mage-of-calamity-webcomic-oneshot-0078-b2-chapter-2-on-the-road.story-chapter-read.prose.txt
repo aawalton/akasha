@@ -1,0 +1,233 @@
+“And the young girl kept begging and begging, looking left and right for—“
+
+[Thunderbolt]
+
+“For… anyone who would come and buy some of her matchsticks. But—“
+
+[Fire Pledge]
+
+Veronica winced. “But… but she couldn’t find—“
+
+[Sparkling Aria]
+
+“Find… any—“
+
+[Astonish]
+
+“Okay—okay! I give up again,” she said, raising her voice.
+
+[Quest failed.]
+
+She lowered her arms, glaring up at the invisible status panel in front of her. “And that last one was cheating. You know how bad I am with dark elemental spells.”
+
+[Unexpectedness is the focal point of this—]
+
+She waved her hand, cutting it off. “Yeah, yeah. I get it. I’ll try again later.”
+
+“Not going too well?” Gwen asked.
+
+Veronica glanced over. Gwen sat beside her in the cabin, focused on her own studies. Both of her palms were held out, a blue shimmering magic circle suspended steadily in the air before her.
+
+A month and a half had passed since the three of them set out for the Valley of Silence. They traveled in a magitech wagon—one provided by Lord Tomas. With mana fueling it, the vehicle moved on its own.
+
+Outside, the path stretched through dry, worn land. The further they went, the fewer trees and patches of grass remained. It was what one would expect of cursed territory.
+
+Of course, they also kept in communication with Ronswick. Specifically, a method to contact Galland: a small communication crystal. Because of the considerable distance, it would take several minutes of prolonged, uninterrupted charging to establish a connection. Fortunately, things were going well with his operations with the Ronswick’s branch mage tower, so there wasn’t anything to worry about.
+
+“No,” Veronica said with a sigh. “This quest is much more difficult than the others. It’s not something simple, like running or advancing a tier.”
+
+Gwen pursed her lips. “You say that like advancing tiers is easy.”
+
+“It is easy.” She paused. “Once you understand it, that is.”
+
+Gwen simply hummed, trying to focus on her own spell matrix.
+
+Veronica looked down beside her. More specifically—her lap. “And… it’s not easy trying to do this quest with a woman laying her head on my lap.”
+
+Nasha was resting peacefully, using Veronica’s lap as a pillow. Veronica didn’t… exactly mind, but it certainly didn’t help when trying to complete Sage’s quest.
+
+[Quest: Recite a story while casting randomly instructed spells]
+
+The task’s purpose was simple: keep her mind sharp, maintain stable casting, and ignore any distractions thrown at her.
+
+It was ingenious. But ingenious didn’t mean easy. In practice, it was far more difficult.
+
+She rested a hand lightly on Nasha’s hair. “How about you?” Veronica asked, glancing over. “How is replacing the variables going?”
+
+“It’s… hard.” Gwen’s face creased as her eyes narrowed in focus. Both of her arms were raised, though Veronica could see the faint tremors starting from strain.
+
+“Whenever I try to insert a second-tier variable, it completely changes the equation. Then I have to stumble my way toward a solution. I don’t understand how other mages just… do this. Without guessing. It almost feels random.”
+
+“It may feel that way, but it isn’t,” Veronica said. “Do you know the three C’s?”
+
+Gwen turned to her, lowering her hands and pausing the spell. “Three C’s? Um… I think I’ve read about that.”
+
+“Continuity, containment, and conversion,” Veronica explained. “Form your spell again. Add a new variable and tell me what happens.”
+
+“Okay,” Gwen said, turning back to her work. A spell circle slowly formed in front of her.
+
+Spells didn’t require circles or incantations, but they helped when learning or working through more complex structures.
+
+As instructed, Gwen introduced a new variable. The spell immediately collapsed.
+
+“The mana doesn’t reach the end,” she said.
+
+“That’s your first issue—continuity,” Veronica replied. “Your mana isn’t reaching the end because the flow is broken. Think of your spell like a well of water in sand. If you carve a path to guide it elsewhere, but the water stops halfway, how would you fix that?”
+
+“Well… since it stops midway, I tried adding a variable that increases the mana input. So instead of letting it flow naturally, I push it forward.”
+
+“Alright. And what happens then?”
+
+Gwen reformed the circle and added two variables: one that disrupted the flow, and another that forced more mana through.
+
+“The density at the end becomes too high. It overfills and starts leaking.”
+
+“And how would you fix that?” Veronica asked.
+
+“Um… I could widen the channel… or reduce the pressure of the mana.”
+
+“Try it.”
+
+Gwen adjusted the structure, widening the channel first. “Okay… it reaches the end now.”
+
+“Mm. What else is happening?”
+
+“Well… I only added in one variable. To make the range longer. I’ve used this combination before, but the healing is much weaker at a range than if I’m touching the injury. It works, but it’s still weaker than what I want, even with these other variables fixing the issue.”
+
+“What are you trying to achieve?” Veronica asked.
+
+“I want to heal from a distance and have it persist over time. Right now, I can heal from a distance, but I have to keep feeding mana into it. The moment I stop, it stops. That doesn’t happen when I’m touching the target.”
+
+“Then what’s different?”
+
+She frowned. “I’m… touching the target.”
+
+“And?”
+
+Gwen hesitated.
+
+“With contact, your mana doesn’t have to travel,” Veronica continued. “It doesn’t need to be maintained across a distance. It simply enters and stays.”
+
+Gwen focused on her spell circle. “…so at a distance, it has nowhere to stay.”
+
+“Stop thinking about spell circles for a moment,” Veronica said. “If you water a plant, does it lose all its water the moment you stop?”
+
+“No.”
+
+“Why?”
+
+“Because the plant has soil to absorb it.”
+
+Veronica nodded. “Exactly. Your spell has nowhere to absorb into. It reaches the target and just… sits on the surface until it runs out. The moment your mana stops, the spell ends.”
+
+“But when I heal up close, the effect keeps going after a while. And I don’t do anything different.”
+
+“That’s because of your path—longevity,” Veronica said. “Your mana is rooted in continuity. At close range, the effect is much stronger. You create a pocket of mana inside the body subconsciously, dense enough to sustain itself. At a distance, you can’t form that same pocket. The mana disperses through the air too much. To supplement that healing, you resort to keeping up a continuous stream.”
+
+Gwen’s gaze flicked back to the circle.
+
+“…so I need to make a mana pocket where the magic is hitting,” she murmured.
+
+“Not just that,” Veronica said. “You need to give it enough fuel to keep it going despite the loss through the air.”
+
+“But how do I…?”
+
+“I’ll give you a hint. Look at one of your newer longevity variables.”
+
+Gwen went quiet as she studied the circle, searching. “There’s… one I don’t use much. It stores a large amount of mana, but only releases it through a single output.”
+
+“Mm. Like a tank with a nozzle.”
+
+“Then… if I use this…”
+
+Veronica watched as Gwen adjusted the foundation of her spell, adding a sort of ‘mana bank’ to store and feed the spell after release.
+
+She had never had a proper student before. But watching Gwen work through the problem, step by step…
+
+It felt… satisfying.
+
+Well… guess I should keep practicing, Veronica thought.
+
+“There once was a little girl—”
+
+[Nova Flare]
+
+Veronica lowered her eyes and sighed.
+
+She started over. Although she knew the equation for every spell Sage spewed, some of them weren’t third-tier or below. That one in particular was a ninth-tier spell.
+
+This damn reward better be worth it.
+
+A thin, bony, four-legged creature shrieked as an arrow pierced its skull. It twitched for a moment before going still.
+
+“Finally, some action,” Nasha said, pulling another arrow from her quiver and nocking it. She aimed at the next target.
+
+“Careful. They’re wright crawlers,” Veronica called. “They’ll play dead and get back up when you’re not looking.”
+
+Nasha glanced back at the one she had just shot.
+
+It didn’t move.
+
+She frowned and fired another arrow. The moment it pierced the creature’s skull again, its entire body twitched violently before going still once more.
+
+“I… can’t tell if it’s actually dead.” She nocked another arrow and fired. This time, the body didn’t move.
+
+Gwen stood behind them, watching their flanks. She lifted a hand, and a single white wing formed behind her palm. She thrust it forward, sending a fireball at a wright crawler creeping in from behind.
+
+The fireball missed—but Gwen didn’t stop. She gathered more ambient mana, refined it, and hurled another. Then another.
+
+Fireball was a simple Tier-1 spell Veronica had taught her. As long as Gwen didn’t infuse it with her Path of Blooming, it behaved like a standard offensive spell.
+
+“How do you even know about these things?” Gwen asked.
+
+“Sage told me,” Veronica replied.
+
+[Wright crawlers are carrion-beasts commonly found in decayed or cursed regions. Their bodies appear emaciated, with stretched-taut, pulled over bone, grey-black skin. These creatures can suppress all movement and vital signs, mimicking a corpse to lure prey.]
+
+“Oh. That’s strangely convenient… and also cheating,” Gwen muttered.
+
+Veronica raised her hand and thrust it forward. A spear of light formed instantly and shot ahead, piercing straight through a wright crawler before crashing into the ground behind it. It detonated in a violent burst.
+
+After a while, Nasha rushed forward, engaging another crawler up close. It slashed at her, but she ducked and drove a punch straight into its skull, sending it flying.
+
+Behind them, Gwen focused on the fallen bodies, setting each one ablaze with repeated fireballs to make sure they stayed down.
+
+Veronica, meanwhile, began turning the road into a field of destruction. Explosions rang out every other second as her spells struck the advancing horde. Dust and debris rose in thick clouds, swallowing the surroundings. When it became too much, she released a burst of wind that tore through the area in all directions.
+
+Gwen threw an arm over herself, grabbing her hair as the gust threatened to sweep her away.
+
+When the dust finally settled, she frowned, noticing her hair had turned frizzy.
+
+Veronica turned back to them. “Alright. We should be good to—”
+
+She stopped.
+
+Both Gwen and Nasha were staring at her. Their hair was a mess, split and windswept from the blast.
+
+Veronica let out a nervous laugh. “Haha… uh. Guys? Why are you walking toward me without saying anything?” She took a slow step back. “Uh… girls?”
+
+Afterward, Gwen sat out front, scanning for any more monsters as they continued. Meanwhile, Veronica learned what it felt like to almost die from laughing uncontrollably back in the cabin.
+
+After a while on the road, they reached their destination—a rural village that sat just outside the Valley of Silence.
+
+At first glance, it barely looked like a village at all.
+
+Just from the gate alone—if it could be called that—they could tell the poor living conditions and the wealth level of those living there. Wooden posts were placed to act as an entryway, but their tilted nature and dark-colored erosion told that it hadn’t been touched for years.
+
+Past that, they spotted the homes—or huts. The structures were all crude and uneven, more like patched-together huts than proper abodes. Wooden planks of mismatched sizes, nailed together without much care. Gaps were covered and layered with paper-like material.
+
+It was a miracle that some of the homes could even stay upright.
+
+“Hey, guys. I think… we’re here.” Gwen was sitting at the front in the coach seat. Their wagon didn’t need a horse or other animal to drive it, but it was there, just in case it ever ran out of magic.
+
+Nasha stepped out through the front, climbing ahead to sit beside Gwen. “This looks like a ghost-town.”
+
+Veronica peeked her head out of the cabin. “Well, let’s hope that there’s somebody here that can guide us through the valley.”
+
+Gwen pressed on the control panel, sending the wagon forward through the gate. “Yeah… if they aren’t all already dead.”
+
+As they passed through, the three of them suddenly felt an eerie sensation wash over them. As if they had just entered somewhere forbidden. For the time being, no one said anything as Gwen drove them further into town.
+
+Veronica watched with her head peeked through the curtain, but something unnerved her as they strode forth. Sage had the same feeling.
+
+[I am detecting several figures that are hiding in the shadows and watching you. There is also an abnormal energy I am sensing surrounding this settlement.]
