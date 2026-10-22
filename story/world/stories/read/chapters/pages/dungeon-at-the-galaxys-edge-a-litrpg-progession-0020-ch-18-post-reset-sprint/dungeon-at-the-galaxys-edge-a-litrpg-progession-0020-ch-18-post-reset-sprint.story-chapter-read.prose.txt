@@ -1,0 +1,163 @@
+The next day I woke up in a jolt. Mom was at home, talking to uncle Wilhelm’s widow. We made the trip to visit and it was tears and mourning. They still didn’t have the story on what happened. Not yet anyway.
+
+On our way back home, she stopped me and made a plea.
+
+“Please. Don’t die,” she said. I hugged her.
+
+“I’ll do my best,” I said. When we got back home, she put on her blue jumpsuit and headed to her old job at Central Hospital. It was like she never left and they weren’t in a position to turn down experienced help.
+
+My first stop was for the necklace. The shop was still a projected mess. Actually it was even messier, with the stuff I sold yesterday being firmly shown in the projections. But Oliver was behind the counter, a smile wider than the mess.
+
+“Hello,” said Oliver. “Treasure necklace is made. It is ready.” His shaky hands placed the necklace right on the counter. It was inspired work. A think silver chain with 4 cube charms hanging with a thin hook. Each gem was small enough to have its own side, fitting all four augmentations I had given neatly into one cube. The other three were for any extras I might obtain. He explained it was a simple press and hold to socket the augmentation into place.
+
+“Oliver. This is incredible,” I said. “How did you do this?”
+
+“I always was able to. I practice and practice and practice. You are first to trust. You are first I thank. Thank with good discount.” He shrieked a laugh. “Tell your friends where you get.”
+
+“Oh I will, Oliver. Thank you.”
+
+Caddie was weirdly silent. Is this what sweet vindication felt like. Placing it around my neck felt like a surge of strange energy. A warm sensation trickled down my spine and radiated throughout my body. I had to shiver it off.
+
+“I’ll be seeing you,” I said to Oliver, turning to head to the hangar.
+
+Luna was waiting for me, the pilot jumpsuit already on and the tablet in her hand. She saluted me like the first time we met.
+
+“Luna, don’t. I’m just as new as you. I’m only technically a squad leader. Hell, I don’t have experience past the third floor. But I’ll get you into a Tank. There should be plenty of exit bosses on the third floor.”
+
+She put down the tablet, staring at it with a grin.
+
+“You alright?” I asked.
+
+“I just didn’t think I’d ever put that thing down. I’m not sure why you want me in your squad. But I don’t care.” She saluted me again and I understood why Jacob felt the way he did.
+
+“Are you still my engineer or do we need another one?” I asked.
+
+“Technically I can be both. I still have the credentials and you signing me off as squad leader gave me the green light to pilot.”
+
+“Alright. You ready then?”
+
+She grabbed the tablet and swiped away. It wasn’t the cracked one from yesterday.
+
+“Yeah. I’ve already installed the equipment and armor plating. Your integrity bar went up to 110. Standard for an E rank armor plating but the damage resistance went up as well. Your mana module brought it up to 125 so that was good. Also, you’ll be using more energy from the extra weight of the armor and module, but still well within what you’re used to. The blaster attachment is also ready to go…” I put a hand up.
+
+“Luna. Are you ready to go? I’m not worried about my Aegis because you were on top of it. I’m asking if you, Luna, are ready?”
+
+She paused for a long moment and took a deep breath.
+
+“I will be. I’m nervous. But yeah. I’m ready.” I grabbed the tablet from her hand and tossed it onto the seat.
+
+“You’ll be fine. I’ll make sure no one gets close.”
+
+She nodded.
+
+“I still need that tablet to mark us ready.”
+
+The catapult was firing non-stop. We had a small cue of mechs waiting, with a new one coming to the back of the line each time the catapult fired. It was funny that I could see the level of each and everyone of them and I wanted to laugh at the absurdity of what I was trying to do. Just the mech in front had me realizing how out of depth I was. It was all thanks to the new Augmentation I had on. It provided more information that usual.
+
+[lvl 41][“The Beast”][Tank][D Rank]
+
+[Attachments]
+
+[lvl 7 Energy Shield] [lvl 9 Blaster Rifle]
+
+[lvl 3 Head-Mounted Blaster]
+
+[lvl 5 Shield Drone] [lvl 9 Speed Drone]
+
+[lvl 8 “Marked” Laser Designator]
+
+He would have no problem getting to the third floor. However, he would still get dinged up with enough time. And since repair bays cost credits, it meant staying too long in the early floors wasn’t financially advisable.
+
+“I saw a post,” said Luna over the comms. Her Gatherer unit was right behind me. “The colony is offering extra credits for water filters and a bounty for water taps.” Taps were like inventory bots, except they only spit out a finite supply of something. In this case, it would be water, if we could find one.
+
+“That’s good to know. Let’s try to keep an eye out.” That would help with the debt I had waiting for me. I kept all 7948 credits. But the embark fee, repair fee, and new squad fee all had me north of 45000 credits. You know, chump change.
+
+It was our turn on the catapult. I jumped in first and rocketed towards the Cradle. I kept the thrusters slow while waiting for Luna to catch up. A moment later, she was huffing and puffing on the comms.
+
+“I. How…” she said.
+
+“It’s pretty hard the first time,” I said.
+
+“How did I wait this long to do it! Oh my God. The rush! I can barely feel my blood going to my head.” She sounded like she was in bliss. “This might be the single greatest day of my life. Oh crap.” She spun in the air, nearly crashing into me. “Sorry.”
+
+“It’s fine. Just stay close. You remember right? Straight to the portal. And conserve your energy.” She was burning a lot of fuel to correct her heading. After a few tries, she was level.
+
+[1st FLOOR]
+
+[BOSSES: 396]
+
+“Caddie, do you think I can take on an exit Boss? It’s only the first floor so I should be able to, right?”
+
+“I cannot say. If it’s a hidden boss, it scales to the Frames participating. But an exit Boss does not. It depends on which one you are forced to engage with.”
+
+“Well, let’s get to work,” I said.
+
+The map on my HUD was fully blacked out. Probably a consequence of the reset. But it was still the same familiar walls of the first floor. What new ways would it find to hurt us.
+
+The map was filling nicely with each corridor we rounded. But strangely, there were no packs of sentries. Just the sound of the mechs stomping on the ground filled the eerie void. After a few corners, something was off. It was a feeling in my gut. A mental click and the screens turned to thermal. They were clear. But didn’t shake the gut feeling that we were being watched.
+
+“Is it always like this? I thought there would something by now,” said Luna. Her piloting wasn’t clumsy per say, but each step required a small bit of her thrusters. Each step wasn’t smooth, but the fact that she could correct it was a good sign.
+
+“There should be,” I said. “Something is off.” As we closed another intersection, we caught a strange site. A group of Gatherers. The spitting image of Luna’s mech. The same exact kind that would be found on the colony ship. Yet, there they were. A squad of four.
+
+It wasn’t standard practice. At least not anymore. They were supposed to be accompanied by a squad leader who already had a Dungeon Frame. In fact, there was no way they would let a squad of Gatherers out of the bay. I flipped to all channels on the radio.
+
+“Hello. This is Stefano of Squad 1. Did you guys get lost?” There was no answer on the comms. No, there was. Breathing. “Hello, this is Stefano of Squad 1. Are you getting this?”
+
+No response. That sinking feeling in my stomach became a pit. The four Gatherers turned to me, marching a little more awkwardly than Luna piloted. When they got to the light of my flashlight, I pulled back on the thrusters, slamming into Luna.
+
+“What-“
+
+“Luna, get back!” I yelled. The dots on my map showed four hostiles. They raised their weapons at us, showering us in bullets. My integrity was dropping fast.
+
+I twisted off her, grabbed her arm unit and flung her around the “T” sided intersection. My unit was getting peppered and it was about a third of the way down.
+
+“What?” asked Luna.
+
+“They’re not ours,” I said. “I think the Dungeon made them.”
+
+“That is correct,” said Caddie. “It appears the era has changed. Soon we will experience a dungeon break.”
+
+“A what?!” I yelled, but there was no time for an answer. I peeked around the corner, angling the blaster and firing it twice. A health bar appeared on it, putting it at a third. I kept firing until one collapsed. Three more to go. “Luna. When the turn the corner. I need you to fire to distract at least one of them.”
+
+“It won’t do any damage!”
+
+“I know! Do it anyway. I need them distracted.” The three others crunched on the remains of the Dungeon Gatherer. They stopped firing. Each step a clock.
+
+The barrel of the gun inched past the corner.
+
+With one movement, I pulled and rotated, using the thrusters for extra speed. The Dungeon Gatherer slammed against the wall. It’s green paint chipped and wrong. A description came up on my HUD.
+
+[lvl 5 Gatherer][Human]
+
+Although simplistic compared to the technology found in the Cradle, it offers a swath of features meant for colonization of a new planet. With a simple set of weapons, these Gather units are not piloted by people. And are in fact a recreation by the Cradle.
+
+“What the…” The unit I pushed into the wall brought it’s gun and aimed it straight at my cockpit. With the dagger, I jammed it onto the forearm and twisted it away. It’s shot went wide.
+
+I pulled the dagger and jammed it again, pulling the trigger. It created a chunk but I was out of mana. It was still moving.
+
+Another stab and it’s health bar was gone. It crumpled to ground just as Luna began to shoot.
+
+A few shots nicked the new armor plating. It barely budged the integrity bar.
+
+I pushed against the thrusters and slammed against the closest one. With a thought, I had Caddie eject a mana cell. It spit out the viscous goo and the bar ticked up ten percent. Not enough for the dagger, but enough for the gun.
+
+Luna was yelling in the comms. Firing widely at the one getting closer to her.
+
+With the dagger, I plunged it into it’s chest, around where the cockpit would be. The health bar plummeted. I kicked off, shooting it twice to bring it down.
+
+The final one was closing the gap on Luna. It had raised his weapon and shot just as I reached it. One point blank shot to grab it’s attention away from Luna.
+
+The Aegis complied with each maneuver, sometimes struggling to keep up with what I wanted done next. My energy levels were still fine but they were plunging faster than before.
+
+“Luna,” I said. “Check in.”
+
+“I’m fine,” she said. “Took a few shots and my integrity is at 57%.
+
+“Alright.”
+
+I flipped the mech over and slammed the dagger atop it. All the red dots on my map turned to “X’s.”
+
+“What was that?” Asked Luna. Caddie was already at work, looting up the inventory. Her inventory bot also started registering the felled loot.
+
+“I think we need to get you a new mech. Fast,” I said. “I think they’re going to attack the colony soon.”

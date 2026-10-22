@@ -1,0 +1,83 @@
+Phil took the occasional swig until the bot stopped yelling.
+
+"So normally," he said. "There is no voice playing it out. No extra descriptions that you got. And no snarky comments. It's supposed to be in a safe room and you just read it and go to the next one."
+
+"Honestly, it hurt my feelings a little." I actually made Phil laugh. It was a pity laugh but I'm counting it. "And why the safe room? We keep slinging that word around and isn't it like a pocket dimension?"
+
+"It is whatever it is. I have a front yard, a house and garden. It's beautiful and that's why I'm staying there. Loot is opened in a safe room because the mechs can't pass through the restricted zones. I'm sure you noticed the red no mech zone that surrounded Cardamas Island. On top of that you need to access the HUD. The only other place to do that is in a safe room and it's an extra cost to get the computer that lets you access it. It's a pain, so that's why the companion is so worth it. Well...I'm sure you're having second thoughts on that though." He tipped the flask onto his lips again. "So you're way ahead of the curve for most newbies. It takes like ten runs before people can open their achievements and caches."
+
+"What about in shops?" I asked. The bot left my ear and reshaped to a floating orb with robot like eyes and lips. It was whistling a tune I had never heard as he bounced in enjoyment.
+
+"You wouldn't know this. But the menus on the tablet from the shop earlier are locked into the inventory only." He paused and waved the topic away. "Go ahead and open your caches. They'll appear in your inventory. The hidden boss achievement is rare, which is good and it'll open last. Do you remember the cache ranking?"
+
+"Sort of. I know common is white and it doesn't give much. Then Uncommon. I didn't think I'd have this issue this early to be honest."
+
+"So you have Common giving you white. Uncommons green. Graded purple. Rare Gold. Mythic Blue and Secret Red. There is one above that but I've never seen it and you'll never get it."
+
+"Did you ever get a red one?"
+
+"No. Highest I ever got was a Mythic Blue cache. I had to go to the middle floors for that. Don't worry about that, just open your caches and we'll see what you get."
+
+Three new icons littered above the achievements menu. A small box per color and a number right next to it to indicate the amount.
+
+[WHITE] 18 [GREEN] 1 [PURPLE] 1 [GOLD] 1
+
+[OPEN ALL]
+
+I pressed the "Open All" button and an image of a white box layered atop the menu. The white box had detailed markings and off color pain to a wooden color underneath. A simple lock that was attached fell out of view and the box itself opened to a white beam of light. Then one after the other another box appeared just as the last one vanished. The count of each item increased if there were multiples of the same item.
+
+[1][ENERGY CELL][RANK E][3][MANA CELL][RANK E][8][REPAIR CELL][RANK E][2][TEMP SHIELDS][RANK E][1][AUGMENTATION: SLOWING OF BIOLOGICAL WASTE FUNCTION][RANK E][1][FRAME: HEAD-MOUNT FLASHLIGHT][RANK E][2][500 CREDITS][RANK N/A]
+
+Another box superimposed on the menu. A single green LED light strobed on the surrounding with brighter green color. It unlocked at the strip and green exploded from the inside.
+
+[1][THERMAL CAMERA EXPANSION][RANK F]
+
+Next was the purple box. It was supposed to be common items made incredibly strong. These were the items that became necessities in the middle and deep floors. A pipe dream for now. Although there was the slight hiccup that it was completely random.
+
+[1][AUGMENTATION: DESCRIPTOR EXPANSION][RANK C]
+
+The final box was gold plated with intricate fine engravings. A beautiful floral satin stitch encompassed and encircled the lip opening. A thin white light traced each stem of the vine pattern, illuminating each section before opening to a gold light.
+
+[1][ENGRAVED DAGGER OF IMPLOSION][RANK C]
+
+I didn't even notice Phil walk behind me to get a view of the menus. He whistled at the last item on the screen.
+
+"That's not bad," he said. "It'll help you with the early levels. But you'll have to inspect each item. Go to your inventory. Okay. Now press on the item and hold it for the sub-menu. Good now slide to the inspect and let go." I followed his commands and the dagger came into view.
+
+A jet black metal that had a creepy aura, like it was sucking in light at the edges. In faint lettering on the blade were runes that I couldn't make out. Magic? It was the first thought that popped into my head. The hilt was guard-less but it had divets on where the mech was supposed to hold it. It meant it couldn't be an attachment and had to be held. A clear limitation.
+
+[lvl 1 Engraved Dagger of Implosion][Weapon][Cap: 20][Restriction: Not an attachment][Make things explode but inwardly. The dagger itself works fine. The trick is activating it. Deals double damage against biological units upon activation][Cost: 50][Value: Unknown]
+
+"Fifty seems like a lot," I said. "How much is double?"
+
+"Well, it's not like there is a manual," said Phil. "But you'll notice a difference as you level it up. Having a cap of twenty is really good long term. You want to balance out what is high initially with what takes longer to hit the max.
+
+"But my mana bar is at 100."
+
+"Yeah, your stats should be all 100. For reference, my Tank unit had more integrity off the rip at 150 but mana at 50. While the quad mechs have more energy early at 150 but mana at 50. Get the picture?"
+
+"I think I get it." Phil wasn't done. He took a seat across from me.
+
+"Then there's the tradeoff. To improve any of the bar stats you need to buy or obtain the upgrades, keeping in mind that one upgrade might make something worse. More armor means you're heavier so you use more thrust and thus more energy. More energy lets your mech recharge faster, but it also means mana replenishes slower. You can see where I'm going with this. Think what type of mech you want before you commit."
+
+"So balanced is better?"
+
+"Not necessarily. It's best to pick a specialty, but it doesn't mean you’re pigeon holed. It just means you need to keep what you have in mind. If you obtain better thrusters, think how you want to use them. Replace the standard ones or add them to your arms to make attacks faster? It's a balancing act and only you know how to be your best."
+
+"And I assume activation of the dagger is a trigger press?"
+
+"Usually. Otherwise it's just a mech dagger and you would've gotten it in a green drop." He took another swig of his flask, downing it. "Also, don't forget about the pilot tax. Use the shop next door. Bring something to the colony or you're grounded for like a month."
+
+"Oh crap! I totally forgot!" He didn't say another word and walked out, presumably to the bar. I had other questions I wanted to ask but I also wanted to respect his...I got up and chased after him, putting a hand on his shoulder. He turned to regard me as he rocked to a spinning world before him.
+
+"Sorry," I said. "Are you okay? Is there anything I can do? Why did you want me to come here?" His hardened exterior relaxed ever so slightly.
+
+"You're good kid. I'm just tired. I'll be around. Promise." He took a breath. "It's cheaper to repair your Frame here than back home." He changed course, walking to the Inn, his lonely home waiting for him. I took one last step towards him.
+
+"I guess. I'm sorry about Jacob and Eric. I didn't know them long, but they seemed like good guys." Phil forced a grin, probably to reassure me more than anything.
+
+"You're alright. Thanks for saying that." He took a moment and cupped his chin to think. His words were slurring ever so slightly. "Watch for the next reset alright. Don't be in here when it happens. Just wait it out, alright. Oh and take my respirator. I forgot to give it to you earlier." He tossed the helmet that when I caught it and looked up he was already gone. The door was still open to a bright light that was all encapsulating. It closed on it's own and my eyes could open again.
+
+My mind danced but I had done enough. At this point, I just wanted to go to the store and then home. I wanted good food and just a night to rest my eyes.
+
+When I got to the repair bay, my mech was fully repaired and the bot was eager to see home as well. My home.

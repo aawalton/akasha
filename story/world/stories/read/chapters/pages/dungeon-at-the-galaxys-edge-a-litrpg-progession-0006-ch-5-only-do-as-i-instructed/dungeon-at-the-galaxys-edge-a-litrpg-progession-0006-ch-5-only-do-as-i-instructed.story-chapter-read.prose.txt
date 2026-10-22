@@ -1,0 +1,109 @@
+The repair drones disappeared back into the docking area of the hangar, now with plus one level zero Walker frame. It had no color, unless you consider drab gray a color. It was a simple mech that was about fifty feet tall, or about twice the size of the gatherer. It had a head unit, two arms and two legs with very little armor. Each section was made up of wiry strings that resembled a, well, "Frame" and underneath was what would be the skeletal system that interconnected the joints together. It resembled a human if it was made of metal and didn't have a lot of skin to protect itself. The cockpit was in the chest, the only area that had anything that resembled armor and just next to the opening was a mechanical string to allow entry and exit in gravity.
+
+"Stefano. Did you not hear me? Your frame is ready," said the inventory bot. I couldn't wait to get home and have mom name it.
+
+"I'm just looking at it. I worked so hard to get one and it took literally the worst day in the world to obtain one."
+
+"Would happy noises and fanfare make you feel better?" The HUD appeared before me without my input.
+
+"What? No," I said. It played an air horn like I was in the recreation block in the loud dance hall. It blared it three times at an ear piercing volume. Brr. Brr. Brrrr. It then changed the screen to two pom poms waving back and forth with confetti falling vertically from off screen. I broke and gave a smirk, walking to MY mech. It felt good to say, even though everything else kind of sucked.
+
+The inside was roomier than the Gatherer unit. But inside there were only the two throttles and triggers. No long board of button panels. No switches or pedals. It was pure asynchronous mental commands. It just had an initial set up where it had to register my bio markers to differentiate what commands I was giving it. The inventory bot pulled painlessly away from my ear, reformed into its standard inventory mode and hovered to somewhere on the outside of the mech.
+
+The seat was somehow more uncomfortable than the Gatherer unit. It was a luxury upgrade in the safe zones that I wouldn't be able to afford for a while. The cockpit closed and the brief moment of darkness was blasted with lines and lines of data from all directions. It was like multiple screens surrounded me scrolling lines of unknowable text faster than the eye could see. The white lines juxtaposed by the black screen appeared and disappeared faster and faster.
+
+"One moment," said the bot. It was like it was speaking through the metal itself. "It is loading a calibration. This won't take long." It started playing freaking elevator music. The kind that somehow, someone thought would be really funny to add the most annoying music in the world. And the bot was playing it now. A long moment passed before everything darkened again and a singular screen came before me.
+
+[Please raise your right hand]
+
+My eyebrows crinkled and I raised my right hand. The bot sighed.
+
+"No. No. No. ONLY raise your right hand. I'll override the input you gave it, so try again." Before I could open my mouth to speak, the bot chimed in again. "No. ONLY raise your right hand. Do nothing else. Think nothing else. Only raise your right hand. It's lucky for you I am here. Otherwise you would have to furrow your eyebrows every time a command was inputted."
+
+A memory of the academy came to mind...about how the initial calibration and boot set up was the trickiest and required complete focus. The inputs were permanent and to change it required fine tuning that cost credits. The bot was saving me thousands. I should've paid more attention in school.
+
+"Are you ready?" asked the bot. "Don't answer that. ONLY raise your right hand." I didn't move nor think. Didn't even blink as I raised my right hand in the most stoic way I could move my hand. "Well done! I will add this to your list of achievements."
+
+[Replicate raising your right hand in conjunction with the throttle]
+
+The command request was worded weird, but I knew what it meant. Picture activating your arm but without movement, just focusing on it as a part of your body. The system on the frame can recognize that it's the arm I want to move and in which direction I want to move it. But what it can't register is how fast or how far, so it uses the throttle as a manual command. With the arm in my mind, I gently pushed the throttle forward, wiggling the joystick to control the wrist. The mech's hand opened and closed as I applied pressure with my fingers. It was both an unconscious and conscious movement. Like breathing. If I thought too hard on what I was doing, I'd stumble or take a bad breath. But if I didn't think about it, I'd move in the way I wanted. This was what the academy trained on for literally a hundred hours before advanced movement and combat was considered. If you could pilot a Gatherer with its inferior controls well, then piloting a Dungeon Mech would be like taking the weights off.
+
+"Impressive. You can move! From my understanding, you're doing as well as a newborn. Another achievement to congratulate you with later!" said the bot. Were they all like this? Or did I just get lucky, I wondered.
+
+The single screen in front of me was replaced with a 360 degree view of the world around me. It at least seemed like 360 degrees, but I still couldn't see behind me, so in reality it was closer to 200 degrees keeping the head on straight. It was an attachment, believe it or not, to turn the mech's head 180 degrees to see what was behind. Otherwise, the head unit turned only as far as my head turned. Still, the picture quality was leaps and bounds better than the Gatherer unit, even as a Rank E Frame.
+
+The HUD that the bot teased earlier was bright and center in front of me on the screen. Simple thoughts turned it off and on but it took physical actions to swipe left and right on the screen between menus. The HUD shut down forcibly after a few moments and pinged notifications on the upper left side of my field of view. I turned my head to the left and the text followed to where my line of sight.
+
+[Boot Sequence Complete]
+
+[Frame Registered to: Stefano Reyes]
+
+[Frame is ready for use]
+
+[Companion Registered to Frame]
+
+[Secondary Boot Sequence Required]
+
+[Secondary Boot Sequence: Approved]
+
+[Secondary Boot Sequence initiated]
+
+[Boot Sequence Complete]
+
+"What was that about?" I asked. The bot didn't answer for a second, leaving me to step forward with the single thought of forward movement. A slight push on the throttle and my frame moved forward. The screen went dark for a micro-second and flickered back on. Finally, before me, was everything I expected to find. I would've wept if it was for the right reason. I couldn't get the thought out of my head as to why my squads death didn't bother me more. I had a nasty feeling in the pit of my stomach that this would bother me later.
+
+To the bottom left were three bars. White for hull integrity that was full. Green for fuel or energy, it was used synonymously with mechs but they didn't mean the same, yet it didn't stop the old timers from calling it that. Fuel, at least to me, meant it was consumable and transferable, like the colony ship. That needed fuel that was brought from this place.
+
+Energy, at least for mechs, meant that it needed to be on stand-by mode to refill. Almost like a self refilling battery, the longer the mech went idle, the faster the energy recovered.
+
+And finally, the final bar was mana, at least that's what the Dungeon referred it to. It controlled everything else for the mech, including the creation of ammo, the use of certain attachments, certain inexplainable actions that could even be described as magic. But only the best frames in the colony could do anything that resembled magic. For everyone else, like me, it was an ammo bar...if I ever found a weapon.
+
+To the right was a map that could be expanded to fill the screen minimized with a pinching of my fingers in the air. The mech recognized what I wanted to do so it made certain actions easily translatable. Then there was the actual HUD which was divided into sub menus. One to see my frame and all attachments on it, it's current level and any lingering damage to it. The second menu was my inventory that housed a butt ton of common loot. Thirty conventional spears that were about the size of a toothpick in my mech's hand. And five intact laser units named "Pea Shooters." There was an asterisk on the name, meaning it had been edited recently. I raised an eyebrow.
+
+"Bot...are you there?" I asked.
+
+"Yes, I am just categorizing your inventory. I have to find ways to stay busy while we do nothing."
+
+"Rude," I scoffed. "I'm getting used this unit."
+
+"Understood. In the meantime I will continue to waste sentience on busy work. Carry on." I rolled my eyes and kept swiping at the menus. There was also the eye of the Sentry unit from the first floor, but no credits. Did I have to sell it to convert them into credits? I had better ask Phil.
+
+Satisfied with my progress with the menus, I closed the HUD and walked to Phil's mech that stirred as I walked up.
+
+"Ready to go?" he asked. It was like he was talking right next to me. Frame to frame comms were better and in the Gatherer, I must have been a really big burden. Damn...if only I had found this one sooner.
+
+"Yeah," I said. My voice cracked at the emotions that were starting to catch up to me. "Shouldn't we get their tags?" He didn't say anything, his mech treads turned him around as he moved towards the other end of the Boss room. As we passed the quad units, the cockpits were opened and I realized he had already gotten them. My stomach was in knots as we passed them, knowing this was it for them. That this could've been me.
+
+The portal leading back to the field was at the end of the hall. It's blue glow was inviting but it did bring dread to the back of my mind. Phil went in first and vanished in a blue glow. When I asked Phil about it, he just huffed and said, "Not now."
+
+"Hidden Boss rooms don't open the portal until either the attackers or defenders are dead," said the bot.
+
+"Wait. Are we the attackers?" I asked. It didn't respond as we portaled away. It didn't take us to the predator worms of the second floor.
+
+[FLOOR 3]
+
+[BOSSES: 0]
+
+[YOU ARE NOT IN A SAFE ZONE]
+
+"Where?" was all I could mutter as gravity took hold, dropping us from the sky. It was one thing to read about it, it's another to be here. It was a beautiful stretched expanse of water. In the horizon was a sun so warm and and beautiful it sparkled against the crystals that stretched into the heavens. Crystalline like towers that stabbed into the heavens themselves, forming sparkling pillars of beautiful stone.
+
+The air whooshed past as I plummeted like a rock. With a simple thought, the thrusters activated and the throttle pushed forward, accelerating my fall. The seat rumbled on my back and I smiled wider than my lips could handle. The thrusters screamed in compliance as I pushed faster and faster to the ocean surface. I wanted to feel the air on my face and my hair. To feel the freedom that came from what I envisioned.
+
+I yanked the throttle back and pushed the other one forward, spinning to a stop just above the waterline. The thrusters pushed ripples of water for a second before I pushed foward on both throttles and accelerating. The waves formed behind my mech and it's reflection on my screen was serene.
+
+"Are you done?" asked Phil, pulling me from my trance. "We got incoming due North. It just so happens that's the closest settlement too."
+
+"Copy," I said. A moment later, I forced a somersault and yanked back on the throttles before slamming them forward. The thrusters exploded against the water, pushing the wake in every direction before ascending to Phil. The bar on the energy level barely budged. If I had done this in a Gatherer, my energy levels would've tanked.
+
+I pushed past Phil as his thrusters continued to output. If the first floor was ideal for Tank mechs, and the second floor was ideal for quad units, then this floor was ideal for my mech.
+
+"Why can I fly so good here?" A question I asked aloud that I'm certain was answered in the academy.
+
+"Slightly lower gravity, Stefano. On the previous floor, gravity was increased by a measure of 1.5 times Earth gravity. On this floor, gravity is approximately 90 percent of Earth's gravity. Isn't that interesting?! Also your lack of attached armor reduces your mass."
+
+I pushed past Phil who was already shooting in the direction enemies were approaching from. The screen flashed and a woman's voice came over like she was talking in my head. Like everything slowed down and only his voice was perceivable to me in a freeze of time. She sounded ethereal and bossy. It was weird and it brought a shiver to the back of my neck as if by instinct.
+
+[lvl 23 GOBLINOID FIGHTER]: All civilization advances eventually. All forms of life find a way. The best and easiest method of killing each other is the pursuit of all biological life forms. The Goblinoid fighter is what happens when goblins learn about propulsion and using kinetic energy for things that aren't murder. They learn how to murder better. Found only on the third floor, they search for expansion of their territory because why make when you can take?
+
+"Combat ensuing," said the bot. "Isn't this exciting"
