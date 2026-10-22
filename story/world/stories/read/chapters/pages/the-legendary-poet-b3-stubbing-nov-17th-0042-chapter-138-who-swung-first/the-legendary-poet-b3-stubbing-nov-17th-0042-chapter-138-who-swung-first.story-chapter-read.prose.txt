@@ -1,0 +1,341 @@
+Kage made it six steps from Studio 6 before five players closed around him.
+
+Eh. There it is. The first tax on becoming publicly interesting.
+
+He stopped beside a dye shop whose front window displayed six shades of brown with names suggesting a desperate marketing department. Harvest Umber. Autumn Bark. Hearthwood. Deep Hearthwood. One of them looked suspiciously like mud.
+
+The players had approached from both ends of the lane. Their formation left enough space to draw weapons while blocking every easy route out. Deliberate. Practiced.
+
+Levels twenty-three through twenty-five floated beside their names. The upper edge of the current progression curve. Statistically, that meant they were competent. Crown of Destiny had been live for less than a week, and reaching twenty-five already required either efficiency, unhealthy sleep habits, or the sort of guild support that turned both into policy.
+
+Their equipment supported the third option.
+
+Jimmy held the mouth of the lane behind Kage, carrying a steel-rimmed kite shield with fresh blue reinforcement lines. A leather-clad Yorek stood near a stack of warped barrels to his right. Erratjil to his left wore fitted scale armor and held a narrow arming sword loose beside his thigh.
+
+At the far end waited a robed Iolumi and Carol with ash-colored hair. Carol stared at Kage's burgundy beret, then at Mumyo's black hilt.
+
+"It really is him," Erratjil said. "And he's a player. You were right, Carol."
+
+Carol kept an arrow resting across her bow.
+
+Around them, Greywater reacted with experience.
+
+The dye merchant pulled the shutters closed. A pair of laborers carrying a rolled carpet turned into an alley without breaking stride. The old woman selling fried riverfish lifted her entire tray and vanished through a doorway. Even the children playing with a cracked wooden hoop collected it and ran.
+
+No one screamed for the watch.
+
+Greywater had guards in the same sense that cheap armor had durability. Technically, perhaps. The nearest patrol would arrive once the fight had ended, the property damage had been assigned, and every available witness had developed sudden blindness.
+
+Kage sighed.
+
+"So, just to get this straight." He glanced from Carol to Jimmy. "You saw the videos and decided five of you had reasonable odds?"
+
+Yorek smiled. "Better to check ourselves, eh? Defeating NPCs and fighting PvP players are different skill sets altogether."
+
+Are they? Kage mulled it over. In older games, absolutely. Players abused animation locks, cooldown trades, line-of-sight tricks, and every other mechanical weakness that scripted enemies failed to understand. Crown of Destiny's enemies adapted. Some held grudges. Several had demonstrated more tactical sense than entire professional teams Kage had seen.
+
+A distinction still existed. Players built around known systems. NPCs used the world as though it belonged to them.
+
+The gap simply looked narrower here.
+
+Kage's attention settled on the small line of silver text beneath Yorek's name.
+
+[Guild: Singularity]
+
+The same tag appeared under all five.
+
+Ah.
+
+A representative from Singularity had approached him after the Songstone event. Polished manners, and an invitation structured to sound generous until he examined the ownership clauses. Kage had declined.
+
+Apparently, someone in management had taken that personally. Or… this was their second offer. Join them, or spend the foreseeable future dealing with coordinated idiots in side streets.
+
+Kage laughed once.
+
+Erratjil shifted his grip. "Something funny?"
+
+"Your recruitment department."
+
+Carol's bow creaked as she drew it halfway. "Nobody said anything about recruitment."
+
+"Then they're also bad at internal communication."
+
+He checked the lane again while he spoke.
+
+Twelve meters to Carol. Seven to Erratjil. Iolumi had positioned himself behind Carol, using her as partial cover. Jimmy controlled the wider exit. Yorek favored his left leg and kept one hand behind his hip, likely holding a throwing knife or a consumable.
+
+They had chosen a lane too narrow for Carol to reposition quickly.
+
+Good players, statistically speaking.
+
+Statistics remained generous to people.
+
+Kage wanted the first move. Momentum mattered even more against players because players panicked when their planned opener collapsed. One interruption could turn voice chat into five people talking over one another.
+
+Starting the fight himself would flag him as the aggressor.
+
+A criminal name carried consequences. Guards became attentive. Noble districts treated red names as mobile stains, he assumed. The route to the Vane Estate passed through the Artisan's Quarter, and arriving before Lady Vane with a fresh criminal flag would create questions.
+
+Lady Vane looked capable of turning a question into a tax audit with casualties.
+
+So let them start.
+
+The five continued waiting.
+
+They wanted him to draw first.
+
+Fine. We can be technical about it.
+
+Tanglevine Ridge returned to him in one clean image. Valdrias, a shield, and a forced arm movement at the exact moment necessary.
+
+Kage studied Erratjil's posture. The man had already tightened his forearm. His sword rested less than half a meter from Carol's forward leg. He expected to launch into a diagonal cut across Kage's approach.
+
+The formation had written half the poem for him.
+
+Kage willed the rest.
+
+Title: The Cost of Crowding.
+
+Poem: A [Bound] wrist turns where the drawn edge lies, [Betrayal] sends it through an ally's thighs.
+
+[-120 AWN]
+
+The verse took hold without a sound.
+
+Erratjil's wrist twisted.
+
+His eyes widened as his own prepared motion continued along a new line. The arming sword flashed sideways and carved through Carol's leather thigh guard.
+
+She cried out and dropped to one knee.
+
+[Maimed applied to Carol.]
+
+[Movement Speed reduced by 40%.]
+
+Erratjil's name ignited crimson.
+
+"What the hell?" he shouted. "I didn't do that!"
+
+Kage moved.
+
+The distance vanished under his first step. Mumyo left its sheath in a black vector, the burgundy trail from his beret's enchantment briefly following the cut and making the weapon look far more theatrical than it deserved.
+
+His opening strike hit Erratjil's wrist.
+
+[Clean.]
+
+[+2 Convergence.]
+
+[Physical Expression Recognized: Strike.]
+
+[+2 Convergence.]
+
+At level twenty-eight, the living sword supplied 104 physical attack by itself. Kage's effective Strength at Sharpened rose from twenty-four to thirty-eight through The Single Discipline. Grom's signet added another ten.
+
+One hundred fifty-two physical damage before armor.
+
+Erratjil's scale coat caught part of it. Mumyo's edge crossed the same joint again from the opposite direction before his opponent recovered. Zero-Point Inertia removed the blade's drag. Kage's shoulder still carried the motion, so he let the second cut flow into a short turn rather than wrenching his arm backward.
+
+Erratjil stumbled.
+
+Carol's arrow loosed from her half-kneeling position. Kage dipped beneath it. The shaft struck Erratjil high in the chest and threw him backward.
+
+Erratjil's name stayed red. Team chemistry is excellent. The other four committed.
+
+Iolumi raised both hands. Yorek sprang from the barrels. Carol reached for another arrow while Jimmy charged down the lane with his shield lifted.
+
+[The Many activated.]
+
+[Movement Speed increased by 10%.]
+
+[Damage Mitigation increased by 10%.]
+
+[Damage increased by 10%.]
+
+Kage stepped into Jimmy's shield.
+
+The shield bash came from the right, powered by a level twenty-five body and a reinforced stance. Kage placed Mumyo against the steel rim at the last possible instant. The weightless blade gained density for contact. His wrist turned, his hips shifted, and the shield slid past his shoulder.
+
+[Perfect Parry.]
+
+[+7 Convergence.]
+
+[Physical Expression Recognized: Bind.]
+
+[+7 Convergence.]
+
+[Seeker's Respite restored 34 AWN.]
+
+Jimmy staggered.
+
+Kage trapped the shield edge for half a beat, stepped inside, and cut across the narrow gap behind the man's elbow.
+
+[Perfect.]
+
+[+7 Convergence.]
+
+[Physical Expression Recognized: Weaken.]
+
+[+7 Convergence.]
+
+The two physical words joined.
+
+[Physical Verse Completed: Bind + Weaken.]
+
+[-150 AWN]
+
+[Weaken applied. Target's mitigation reduced by 30%.]
+
+Jimmy's shield arm sagged. Mumyo struck his chest twice, then the inside of his forward knee. Dark afterimages accumulated behind the blade.
+
+Yorek reached Kage from the side.
+
+A dagger drove toward the kidney gap beneath the longcoat. Kage read the shoulder first. He turned around the thrust, caught Yorek's wrist with his left hand, and sent Mumyo straight through the opening under the man's jaw.
+
+[Perfect.]
+
+[+7 Convergence.]
+
+Yorek dissolved into pale fragments.
+
+[Convergence: 39/100 | State: Focused]
+
+Power shifted through Kage's limbs as the Single Discipline recalculated. The entire change arrived mid-step.
+
+Carol fired again. Kage knocked the arrow aside with the flat of Mumyo, crossed the lane, and reached her before she drew a third. She tried to retreat on the maimed leg. Her boot scraped through a puddle of diluted ochre and slipped half an inch.
+
+Half an inch was enough. Mumyo's fifth shadow gathered. The next cut released it.
+
+The physical blade struck Carol's shoulder. The detached shadow followed an instant later, biting through her armor as Ethereal damage.
+
+She vanished.
+
+Iolumi finished a spell and flooded the lane with hooked bands of blue light. Kage cut through the first band, stepped over the second, and took the third across his coat at an angle. The Sash of the Held Margin remained dormant. He was performing swordwork, not poetry, and apparently the item had standards.
+
+The spell shaved health from his ruby thread, barely enough to notice. Kage reached Iolumi and three short exchanges ended that argument.
+
+Jimmy recovered last. Weaken still clung to his shield arm, and his party had disappeared around him. He looked at Kage, looked at the crimson name above his own head, and lowered his shield an inch.
+
+"Wait."
+
+Kage struck the shield.
+
+Jimmy braced for force. Mumyo stopped dead against the rim, shed its mass, and changed direction. Kage's arm burned from the abrupt redirection as he drove the blade through the opening above the shield.
+
+Jimmy collapsed into fragments.
+
+Erratjil survived long enough to push himself upright at the far wall. Carol's arrow remained embedded in his chest. His health had dropped into a thin red sliver.
+
+Kage walked over.
+
+The man raised his sword with both hands. "What was that first skill?"
+
+"Friendly fire."
+
+Mumyo crossed his guard, and the last player vanished. Silence held the lane for two seconds, then Greywater resumed business.
+
+The dye shop's shutters opened. One laborer returned for a coil of rope he had abandoned beside the wall. The riverfish vendor emerged from her doorway, checked the fading blood near her stall, and moved her tray three feet farther away.
+
+Kage wiped Mumyo's blade. The sword required no cleaning, and the player blood had already evaporated. Mumyo gave a small pulse of approval anyway.
+
+Five bodies' worth of light dust settled into the ochre puddle and dispersed. Kage didn't linger over it the way the moment probably deserved. He swept the loot in one pass.
+
+[Looting: Jimmy's remains...]
+
+[Acquired: 1 Gold, 40 Silver.]
+
+[Acquired: Reinforced Kite Shield (Uncommon)]
+
+[Looting: Yorek's remains...]
+
+[Acquired: 1 Gold, 85 Silver.]
+
+[Acquired: Throwing Knife x6 (Common)]
+
+[Looting: Carol's remains...]
+
+[Acquired: 1 Gold, 10 Silver.]
+
+[Acquired: Fletching Kit (Common)]
+
+[Looting: Iolumi's remains...]
+
+[Acquired: 2 Gold, 5 Silver.]
+
+[Acquired: Minor Mana Draught x2]
+
+[Looting: Erratjil's remains...]
+
+[Acquired: 1 Gold, 95 Silver.]
+
+[Acquired: Fitted Scale Gauntlets (Uncommon)]
+
+Eight gold and change. Not enough to matter against the number he was actually chasing, but not nothing either - Singularity outfitted its players properly, and properly-outfitted corpses paid better than the alley deserved. He did a quick check of his current gold reserves, after the Shifting Galleries run.
+
+31 Gold, 74 Silver, 24 Copper
+
+He gave it a second of thought; whether to convert it to IRL money now, or keep it for immediate necessities. The promise of Narrative Forging he was about to do surfaced. Keeping it is, then. He didn't know if he would need to buy something extra for the task, but it'd be good to save it, just in case.
+
+He also did a quick pass on the items, and… everything went into the pack unsorted, destined for whatever vendor or auction house he would be next visiting.
+
+His health remained well above ninety percent. The fight had consumed 270 Awen between the willed couplet and the physical verse. Seeker's Respite had returned some through the perfect parry, while his in-combat regeneration had covered another portion.
+
+Cheap enough.
+
+He sheathed Mumyo as a roof tile clicked overhead. Kage looked up. A sixth player crouched beside a crooked chimney two buildings away. The camera icon beside his name glowed.
+
+Recording.
+
+The player wore a plain brown cloak and held no weapon. His level was twenty-four. A familiar guild tag floated beneath him.
+
+[Guild: Singularity]
+
+Of course. The five in the street had been the visible part of the test. If they won, Singularity gained leverage and a useful clip. If they lost, the guild gained combat footage. Either result answered questions about Kage's class, reactions, weapon, and PvP habits.
+
+Someone in the guild had planned beyond bruised pride.
+
+That improved Kage's opinion of them from annoying idiots to organized annoying idiots.
+
+He could reach the roof.
+
+A Shape verse could raise a path along the wall. Bind could stop the recorder before he crossed the next building. The Collar of the Forever-Hound would accelerate Kage once he landed damage.
+
+Then the sixth player would flag him as the aggressor. The chase would also expose more than the original test had captured.
+
+Kage reviewed the fight from the recorder's angle.
+
+One silent control effect. Swordwork. A physical debuff that could easily pass for a normal melee skill. Mumyo's afterimages had already appeared in public clips. No spoken verse. No written verse. No Haiku. No clear view of his resource costs.
+
+The recording contained little.
+
+More importantly, it contained five players attacking him and losing in a Greywater alley. Publishing it would save him time.
+
+Random challengers liked uncertainty. A clean defeat gave them something solid to fear. Large guilds would continue gathering information regardless, but the lower layers of public stupidity might thin out.
+
+Kage met the recorder's eyes. The player rose slowly. Kage gestured toward the spot where Jimmy had disappeared. "Use that angle. The lighting's better." The recorder froze for half a second, then ran across the roof. Kage let him go.
+
+Free advertising. Singularity can pay the editing costs.
+
+He checked his name. White. Good. His quest timer continued its steady descent. Kage stepped over the ochre puddle and continued toward the Artisan's Quarter.
+
+Greywater released him one lane at a time. Sagging workshops gave way to brick storefronts. The tannery stink faded beneath boiled starch, hot wax, and the dry mineral scent of powdered pigments. Artisans packed the morning streets, carrying stretched canvases, tool cases, and narrow wooden trays of glass beads.
+
+Several players recognized him. A pair of low-level crafters whispered beside a public fountain. One lifted a hand as if considering a greeting, then noticed Kage's expression and found urgent interest in a chipped mosaic.
+
+Better. The Singularity clip might improve matters further.
+
+His mind returned to Studio 6.
+
+A child in a peeling courtyard. A grey-cloaked woman offering charcoal in pristine white gloves. Lady Vane's sterile study. The worn drawer handle. Her thumb rubbing against porcelain.
+
+The connection still lacked proof.
+
+Kage disliked guesses dressed as conclusions. Guesswork ruined markets, strategies, and people with equal efficiency. Lyra had built part of her life around that childhood encounter. Lady Vane had, by her own account, spent years buying Lyra's rejected work through intermediaries. One careless accusation could turn both facts into weapons.
+
+So he would keep the suspicion contained. For now.
+
+The road widened as the Noble's Promenade came into view above the tiled roofs. Pale stone terraces climbed toward the estates, scrubbed clean by servants before most of Greywater woke. House Vane waited somewhere beyond them, rigid and immaculate.
+
+Five players had cost him less than a minute.
+
+The woman ahead presented a more dangerous problem.

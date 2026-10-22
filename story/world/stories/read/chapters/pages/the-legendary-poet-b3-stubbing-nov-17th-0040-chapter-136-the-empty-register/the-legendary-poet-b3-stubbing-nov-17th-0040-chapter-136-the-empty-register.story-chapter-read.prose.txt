@@ -1,0 +1,187 @@
+He sat with the manuscript closed and did the thing he was actually good at, which was subtract fantasy from function.
+
+Okay. Strip the poetry out of it. What can I do, right now, today, sitting in this chair.
+
+The honest answer arrived fast and unglamorous. Nothing. He had zero Draft-EXP. He had zero Unbound Syllables. The Slush Pile held zero gold because nobody had died pulling it in yet. Every lever in the Drafting Room was locked behind a currency he hadn't earned, because the currency was earned by other people surviving a dungeon that, as of five minutes ago, had no keys circulating anywhere in the world.
+
+He was a landlord standing in an empty building he'd just been handed the deed to. Impressive on paper. Worth exactly nothing until somebody moved in and started paying rent.
+
+Fine. The Operator settled into the shape of the problem the way it settled into everything, patient and slightly bored. So the only actionable item today is distribution. Seed the keys. Let the market do the work.
+
+He almost laughed, quietly, at himself. He'd spent years running numbers on server economies from a rented apartment with a broken air conditioner, and here he was, doing the exact same job from a chair made of narrative authority. The tools had changed. The instinct hadn't.
+
+He thought about the loop while he sat there, because thinking about loops was the one thing that had never once failed to calm him down.
+
+It really was clean, once he looked past the costume. Four keys went into the world. Some players found them. Those players ran the dungeon. Some of them died on the reef, or in the fire wing, or against something with too many verses in its throat, and their gold and gear fell into his margin, and their skills went into his log to be quoted later. Some of them cleared it and walked out with the First Edition loot, and they'd go tell everyone in Korros about the place, which meant more keys got sought after, which meant more runs, which meant more Draft-EXP, which meant he could build the place taller.
+
+Periodically he'd need to come back. Redistribute the keys. Empty the Slush Pile. Ship a Second Edition so the layout stopped being farmable by rote. It wasn't a job. It was closer to checking on a rental property. He could live with a rental property.
+
+The hard part wasn't the mechanism. The hard part, and he felt the shape of it settle over him, was the tuning.
+
+Two variables, he thought, pulling in opposite directions.
+
+Domain-EXP, the actual budget for expanding the place, scaled with progression. The further a party got through the drafts before they died or cleared, the more the dungeon got paid. Which meant if he wanted the Galleries to grow, he needed people surviving deep into it. He needed parties that were strong enough to make it past the reef and the fire and the grass and the hollow and stand in front of the Curator with a fighting chance.
+
+But every one of those systems he'd just read through, the Slush Pile, the Extracted Abilities, all of it, all of it fed off failure. A party that died on the second frame handed him their gold and their gear and one of their skills as a Quotation, and cost him nothing in return except the runtime.
+
+A dungeon too easy and everyone cleared it, farmed the loot, and walked away rich while his Slush Pile sat empty and his Extracted log stayed thin. A dungeon too hard and word got around fast that the place was a meat grinder, and the keys would sit in some unlucky farmer's inventory unsold and untouched because nobody wanted them.
+
+Balance, he thought, and something in the back of his skull, the part that used to sit alone in a room doing spreadsheets for a debt he could never quite outrun, recognized the shape of the problem immediately. It was the same equation as every predatory gacha game he'd ever picked apart for profit. Enough wins to keep hope alive. Enough losses to keep the house fed.
+
+He didn't love that comparison. He filed it anyway, because it was true, and the Operator didn't believe in throwing away true things just because they made him feel like something he didn't want to be.
+
+The run they'd just done, he decided, had actually been close to right. That was probably the target. He didn't know the exact math yet, wouldn't know it until he had a second and third dataset to compare against, but the instinct told him the current calibration was in the right zone.
+
+The problem was that it wouldn't stay in the right zone.
+
+Players leveled. Gear got better. The playerbase, as a whole organism, only ever moved in one direction, and that direction was up. What felt like a tight, fair fight to a party of current-level adventurers today would feel like a joke to a party of level forty next month, and he'd be sitting here with a dungeon that paid out nothing because nobody bled anymore, or didn't bother anymore because the content was outleveled.
+
+He would need to keep pace. Draft new frames. Mutate the bosses. Level them up. Write new verses into their rotations, assuming he ever figured out how to write a verse good enough that the system didn't spit it back at him as academic nonsense.
+
+Later, he told himself, firm about it. That's a much-later-than-now problem. Today's problem is four keys and a chair.
+
+He reopened the manuscript.
+
+The Bookmarks page waited exactly where he'd left it; he touched the seeding option, and a small prompt unfurled beneath his finger in that same overly formal calligraphy.
+
+[Seed 4 Bookmarks into the Korros Grasslands? Placement: Random. Y / N]
+
+He hit yes without much thought. There wasn't a ritual for it. No light show, no dramatic swell of anything. The page simply confirmed the action and moved on. He'd had more than enough drama for one raid.
+
+[4 Bookmarks seeded. Loot pool integration: complete. Random overworld monsters in the designated region now carry a chance to drop a Bookmark on death.]
+
+Somewhere out in the grasslands, four goblins or wolves or whatever passed for local wildlife had just become, unknowingly, slightly more interesting than their neighbors. He wondered, briefly, who'd get the first one. Wondered if it'd be some farming guild grinding wolf pelts for silver, completely unaware they'd just fished a legacy-tier dungeon key out of a loot table meant for tanning leather.
+
+Not my problem how they find it, he thought. My problem is what happens after.
+
+He went back to the Summon Registry, because that one had been rattling around in the back of his skull since he'd first read it.
+
+The Lexicon page unfolded next to it, a long column of names he'd already met at knifepoint. Each one carried a small figure beside it, and it took him a second to parse the figure correctly. Domain-EXP cost.
+
+He scanned down anyway. A Reefscript Alpha cost a moderate sum. A Glassfin Raker, cheaper, disposable, the kind of thing you'd summon in bulk to chip a boss's HP down while your own party handled the real damage. The Mawbound Draft-Behemoth's number made him raise an eyebrow, high enough that it clearly wasn't meant to be summoned casually, more of an emergency lever for when he needed something that could eat a city block.
+
+Every single entry was greyed past use. Zero Domain-EXP meant zero Publishing rights. He'd known that going in. He checked anyway, the same instinct that made a man check his wallet twice before admitting it was actually empty.
+
+His eyes drifted to the last name on the list.
+
+The Curator.
+
+The entry sat differently from the others. Heavier ink, a border around the name that the rest didn't have. He tapped it.
+
+A small window bloomed, dense with locked upgrades, each one shaded grey and demanding a Domain-EXP figure that made the Behemoth's cost look like pocket change. He scrolled past those without much interest, because there was nothing to be done about numbers he didn't have.
+
+But near the bottom, unlocked, sat a toggle he hadn't expected.
+
+[Form: Assistant (Book & Flame) / Form: The Curator (Original Form).]
+
+He stared at it for a second.
+
+Huh. He tapped it.
+
+The change happened somewhere behind him, out past the edge of the desk, a soft compression of air like a held breath finally let go. He turned in the chair.
+
+The book unfolded. Pages that had been stacked flat and patient split apart and rearranged themselves midair, gathering into a torso, a pair of shoulders, arms that folded across a chest built entirely of shifting parchment. The suit of black-inked pages settled over the construction like a tailor finishing a fitting. Where a face should have sat, a single rectangle of blank vellum hung, waiting for nothing in particular.
+
+The Curator. In the flesh, or whatever passed for flesh when the material in question was paper.
+
+The pages didn't move to attack. No brush materialized. No crimson circle bloomed under its feet. It simply stood there, restored to the shape it had worn before Kage had beaten an Axiom Challenge out of it.
+
+Good to know, he thought. Okay. Nothing else useful there. I need people running this place before any of it means anything.
+
+Then a thought landed, the kind that arrived quiet and grew loud fast.
+
+Wait.
+
+I own this place. Does that mean I can just... run it? For myself?
+
+No cost of a Bookmark. If he could walk in whenever he wanted, he could see exactly which frame dropped which ink, which boss carried which item, and grind the specific loot table he actually needed instead of gambling on a random pull.
+
+A personal farm. With a full loot catalog already memorized.
+
+He looked up at the reassembled shape of the Curator, pages settling into place like a man smoothing his own lapels.
+
+"Can I access the dungeon whenever I want," Kage said. "Any part of it."
+
+The vellum rectangle turned toward him, blank and unbothered.
+
+"Confirmed. Master authority grants unrestricted traversal. All frames, drafts, and encounters remain accessible regardless of Bookmark status or Edition state."
+
+Kage sat with that for a second, feeling something close to a smile try to happen and mostly fail.
+
+"Can I… keep farming your loot table?" He asked as the idea struck him.
+
+A moment of silence passed, and the Curator answered curtly.
+
+"No."
+
+Good to know.
+
+His own dungeon. His own loot table. His own grinding ground, curated by nobody but him.
+
+He remembered the skill notification from earlier, the one about the Return privilege, and pulled it up out of habit rather than need.
+
+[Skill: Return to Domain - The Shifting Galleries.]
+
+[Cooldown: 24 hours.]
+
+[As Owner of a Sealed Domain, you may return to its control room from any location in the world.]
+
+That, at least, solved the logistics problem neatly. He didn't need to hunt down his own dungeon's shifting entrance every time he wanted to check the books. He could come back whenever the cooldown allowed, do the landlord rounds, leave again. Efficient. He appreciated efficient.
+
+He remembered the other thing sitting unread in his queue, the notification that had come in right after the arm's script had gone dormant, right after the world announcement had named him one who chose to remain unwritten. He pulled it forward.
+
+[Quest Received: The First Maker's Legacy.]
+
+[Grade: Legacy]
+
+[Objective: The First Maker's works are scattered across the world, fragments of a creation left unfinished. Seek them out.]
+
+That's it?
+
+No map marker. No coordinates. No hint pointing toward a next location the way the Chronographer's line about the place where the light fails had at least given him a direction to walk. Just an assertion that things existed, somewhere, scattered, and that he should go find them, with a reward field that hadn't bothered to fill itself in.
+
+Fine. He'd played enough games to recognize the shape of this particular trap. A collection quest with the specifics withheld until enough pieces were in hand to make the picture legible. Annoying. Old. Not new. He'd have been more surprised if the game had handed him a checklist.
+
+He set it aside, unresolved, because unresolved was the only state it was currently capable of existing in, and turned his attention to the, almost, last thing he hadn't actually read.
+
+The Hand.
+
+He'd been wearing it for dozens of minutes now, the script rotating slow and patient over the back of his hand and wrist, and he still hadn't opened the actual description. He did now.
+
+[Ability: The Hand of Words]
+
+Type: Passive / Lexicon Integration
+
+Description: The hand that writes the Verse must also know how to mold it. This ability fundamentally alters how the System parses the Architect's Lexicon, loosening the rigid laws of invocation. The depth of the Hand's influence over reality expands as the Poet's mastery over his vocabulary deepens.
+
+Current Integration Status:
+
+Tier I: Academic (1–29% Resonance) - Morphological Unlocking
+
+Effect: Keywords are no longer bound to their base declared root. The Architect may now shift the tense, state, and grammatical function of a keyword to perfectly fit the syntax of the composition.
+
+Example: [Bind] may now be composed as Bound, Binding, Binds, etc.
+
+He read it slower, because the implications were bigger than the flat wording suggested.
+
+Every verse he'd ever composed had needed the keyword exact. Bind. Not binding. Not bound. The System had graded his poetry the way a strict grammar teacher graded a freshman essay, rigid to the letter.
+
+Now the rigidity had a crack in it. He could bend the word without losing the keyword. He could say bound to this floor instead of contorting a whole line just to land Bind cleanly in the meter. It wasn't power in the raw sense, not more damage, not more Awen efficiency. It was flexibility, and flexibility was the resource he'd needed the whole time he was fighting the Truth Factor for every line he'd ever created under pressure.
+
+Effect scales with Resonance, he thought, turning the phrase over. Every keyword he owned sat somewhere in the Academic tier, single digits to high twenties. He had no idea what the Hand would let him do once one of them crossed into whatever came next. He suspected it would matter a great deal. He suspected he wouldn't find out today.
+
+He closed the panel.
+
+Nothing else waited in the queue. The keys were seeded. The Curator sat back in its quiet book-shape, undisturbed. The register was empty, the way an empty register was supposed to be on day one, and the only thing left to do was leave.
+
+He stood.
+
+"I've distributed the bookmarks," he said to the Curator, because it seemed like the polite thing to do. "Four ke—bookmarks, out in the grasslands. You'll be managing whatever comes through after this. Redirect, track, whatever you already do."
+
+The Curator simply nodded. He took that for agreement, or at least for the absence of objection, which in his experience was usually close enough.
+
+He didn't wait for more.
+
+He thought, briefly, about the Ink of Origin sitting in his inventory, heavy in the way Synesthesia made truly significant things feel heavy to the eye. About the conceptual material carrying four keywords bound into it. He had no craft in mind yet, no recipe. That, too, went on the shelf. He had a schedule to keep, and the schedule did not have room today for a research project into materials the game itself probably didn't fully understand yet. He could read them on the go, and he would.
+
+He had an artist to meet, and his public image to navigate.

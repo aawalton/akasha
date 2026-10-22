@@ -1,0 +1,195 @@
+[Would you like to broadcast your identity? (Y/N)]
+
+Kage looked at it. And for a moment, one long honest moment, he actually considered it.
+
+He ran the numbers, because running numbers was what the consideration was made of. Riding his current, unrewindable fame wave wouldn't be so bad. A name attached to a world-first Legendary craft would open doors to most services he'd need from players. Guilds would line up. Commission work would flood in.
+
+And in exchange, every player in Crown of Destiny would know that the man who cleared the Shifting Galleries unwritten was also the only known source of player-made Legendaries. The pressure would never stop. Singularity had sent five people to a back lane over a refused recruitment offer. What would they send over a monopoly? What would the polite guilds send? He would stop being a player who's full of mystique and a powerhouse, and instead become infrastructure. A mint. Something to be owned, guarded, sued, and farmed.
+
+The ability to turn forgotten things into exclusive things was the single largest advantage he had ever held in any game. Its entire value lived in the fact that nobody could trace it, price it, or take it.
+
+He pressed N.
+
+Then he stood there and laughed, once, a short dry sound that the stone cell bounced back at him.
+
+I just spent actual time deciding whether my name should flash across the screen of every human being logged into this game. Genuinely weighed it. Like a man considering lunch options.
+
+Something had gone wrong with him over the past few days. The money had unclenched something in his chest and the thing underneath was turning out to be strange. He filed it under problems for a slower week and opened the world chat, because there was no way the world chat was surviving this quietly.
+
+It was not surviving this quietly.
+
+[World] MerrowNine: A LEGEND IS BOUND IN THREE VOICES??? thAT'S SO FUCKING COOL WTF!!
+
+[World] Kassowary: set????? legendary SET? i have never even seen a green set, u guys and grills sure it's not the devs again?
+
+[World] Dolmen: Silence of the Deep is offering 500g for information on the crafter's identity. DM me.
+
+[World] Petrichor_2: offering 500g for information on why Dolmen thinks 500g buys that information
+
+[World] BeefSupreme: SCREENSHOT THIS. HISTORY WILL REMEMBER
+
+[World] Dyxlesciamus: Ok. At thsi ponti is suspicius that anonymeus is also the crafter, on?
+
+[World] porygodz: @Dyxlesciamus ok wtf the fuck did you just write lmao if its rage bait its a good one
+
+[World] Dyxlesciamus: @porygodz lamo you just seplled 'wtf the fuck' nice rega bait
+
+Kage closed the window.
+
+Fifty-fifty they tear each other apart looking for me. Acceptable odds. The anonymity of the listing would hold. It had to. He had spent the whole evening building a chain of decisions whose entire purpose was to let the world see the work and never the hands, and so far the chain was holding: common vessels, private cell, no broadcast. To anyone watching, a Legendary set had simply condensed out of nowhere, which was exactly as alarming as he wanted it to be.
+
+Now the part he had been putting off, the part his fingers had been itching for since the gold text faded.
+
+He looked down at the bench.
+
+The cloak no longer looked like weaver's work. The gray had deepened into a charcoal so complete it swallowed the lantern light, and along the hem ran a border of stitching he was certain had not existed an hour ago: thin pale thread, worked in repeating bell shapes, each one subtly wrong, each one drawn with its mouth sewn shut. It hummed against his palm. All three of them hummed, one low shared note sitting just under hearing.
+
+He picked up the cloak first.
+
+[The Held Cloak]
+
+Quality: Legendary (Set: The Stifled Toll, 1/3)
+
+Type: Cloak
+
+Armor: +62
+
+Stamina (STA): +25
+
+Agility (AGI): +25
+
+Durability: Infinite
+
+Requirement: Level 27
+
+Passive Effect: [The Weavers' Oath] - After 3 seconds without vocalizing, the wearer and all worn equipment cease to produce sound. Movement, ability use, and impacts are silent. The first hostile action taken from this silence deals +25% damage and cannot be heard coming.
+
+Passive Effect: [Muffled] - Incoming sound-based damage and effects reduced by 40%.
+
+Socketed: [Titan's Tear] - 5% of all damage dealt is repeated as [Emotional] damage.
+
+Description: The night-shift weavers worked beneath the bell tower in enforced quiet, and the quiet entered the thread. This cloak has finished what the silence started. It does not muffle the world. It declines to participate in it.
+
+Kage parsed it.
+
+A stealth passive with no class requirement. Rogues would empty their banks for the cloak alone. Scouts, assassins, anyone whose build lived in the approach. And the muffled clause would matter more later, when sound-based bosses started appearing, which they would, because games always escalated through their status effects. He set it down and picked up the ring.
+
+The bubble-flaw in the bronze had filled with something that caught light the way water caught light, a lens of pale clarity where the flaw had been, and when he turned it between his fingers the whole band thrummed faintly, a held tone trapped in metal.
+
+[The Held Ring]
+
+Quality: Legendary (Set: The Stifled Toll, 2/3)
+
+Type: Ring
+
+Armor: +12
+
+Strength (STR): +25
+
+Stamina (STA): +25
+
+Durability: Infinite
+
+Requirement: Level 27
+
+Passive Effect: [The Tone the Bell Would Have Made] - 15% of all damage taken is stored as Resonance (maximum stored: 30% of the wearer's maximum HP). The wearer's next successful strike discharges all stored Resonance as additional [Emotional] damage. Resonance persists out of combat.
+
+Socketed: [Titan's Tear] - 5% of all damage dealt is repeated as [Emotional] damage.
+
+Description: A failed pour. A bubble in the bronze where a clean ring should be. Hold it to your ear. The tone was always in there. It was only ever waiting for somewhere to be.
+
+Tanks. His breath came a little shorter. Every tank in the game.
+
+A main tank ate damage as a profession. This ring converted their job description into a battery, and Emotional damage bypassed armor. A raid tank could hold a boss's attention for ninety seconds and then hand back thirty percent of their health bar in a single shield-slam that ignored mitigation entirely. It turned the most passive role in the game into a delayed executioner. Valdrias would have cut off a finger for this ring, and Valdrias was a reasonable person. Or not, on a second note. He wasn't.
+
+He almost didn't pick up the amulet. He already knew it was going to be the worst one.
+
+He picked it up. The little bell lay in his palm, silver gone dark as old moonlight, and it was trembling. Constantly, minutely trembling.
+
+[The Held Bell]
+
+Quality: Legendary (Set: The Stifled Toll, 3/3)
+
+Type: Amulet
+
+Armor: +15
+
+Artistry (ART): +25
+
+Intellect (INT): +25
+
+Durability: Infinite
+
+Requirement: Level 27
+
+Active Effect: [First Ring] (Cooldown: 5 minutes) - The bell rings for the first time. All enemies within 20 meters are Staggered, interrupted, and Silenced for 3 seconds. Allies within 20 meters are cleansed of sound-based effects and gain immunity to Silence for 10 seconds.
+
+Socketed: [Titan's Tear] - 5% of all damage dealt is repeated as [Emotional] damage.
+
+Description: It has never made a sound. It was never going to make a sound. Then someone remembered that a bell is not a decoration with a handle. Once.
+
+A twenty-meter AoE interrupt and silence on a five-minute cooldown, with a cleanse stapled to it.
+
+That's a raid-defining button. That's the item a guild builds its entire caster-killer strategy around. Any PvP guild with this amulet could delete a backline's opening volley. Any raid group could eat a boss's mechanic whole.
+
+He lined the three up and the system, recognizing the gathering, offered the rest.
+
+[Set: The Stifled Toll]
+
+Set Bonus (2 pieces): [Divided Note] - Your item effects and triggered procs echo a second time at 40% effectiveness.
+
+Set Bonus (3 pieces): [The Stifled Toll] (Cooldown: 24 hours) - For 10 seconds, all sound within 30 meters is stolen. Enemies are Silenced and cannot perceive audio. Allies may still hear one another. When the silence ends, the stolen sound rings out: all damage dealt by the wearer and their allies during the silence is repeated once as [Emotional] damage, divided among all enemies in range.
+
+Set Lore: The bell died with its purpose inside it. Three things took the note apart and held it between them, the way pallbearers hold a coffin, the way brothers hold a grief. Ask them nicely and they will, at last, let it go.
+
+Kage sat down on the edge of the quench trough, because his legs had made a decision about that.
+
+He made himself do the analysis, slow, line by line.
+
+The two-piece bonus was broken by itself. Echoes of procs at forty percent. Every build in the game with a triggered effect, every poison rogue, every echo mage, every on-hit fighter, every whatever monstrosity of a build Morpheus allowed, would look at [Divided Note] and see a second copy of their favorite number. It was the Hollow Lyric's ink nature, living on in the metal, and it scaled with whatever it touched, which meant it would still be relevant at level sixty.
+
+The three-piece bonus was worse. Ten seconds of enemy deafness in a game where raid coordination ran on voice was a death sentence delivered by logistics. And then the payout, ten seconds of a full raid's damage, repeated, armor-ignoring, split across everything in range. Once a day. Once a day was generous. Once a day was the only thing keeping it civil.
+
+And the requirement was level 27.
+
+That's the knife in the ribs. He was rank 19 at level 28. The entire paying population of Crown of Destiny, the guild treasury officers, the whales, the sponsored players with corporate cards, every single one of them was standing in the level 25 to 30 band right now, and this set was waiting at the top of it like a toll booth. It wasn't a future investment that needed months to ripen. It was usable the day it sold.
+
+Traitor's Cage Pauldrons had moved for around seventy-five thousand dollars, but that had been when the RMT prices were at the peak. This was three Legendary slots on the two rarest gear categories in the game, accessories, with no class restriction at all. Cloak, ring, amulet. Anyone could wear it. A healer could wear it. A guild could pass it between runs like a shared trophy.
+
+He thought about the gold exchange rate sliding off a cliff. He thought about the number. He thought about NRT-7, and the number again, and found that the two numbers were not as far apart as they had been yesterday.
+
+One forge. Ten gold of garbage, three gems, a vial of ink, and a part of a dead titan's autobiography.
+
+His hands, he noticed, were steady. That was new information. A year ago a number like this would have come with shaking. Now it came with something quiet and bright sitting under his ribs.
+
+Satisfaction, he admitted. It's satisfaction. I made something that's the best of its kind in the world, and I want to watch the world bid.
+
+The Operator in him found the whole sentiment deeply inefficient. The Operator could also read a market, and the market was about to lose its mind, so the Operator kept his objections brief.
+
+He packed the set into the Herbal pouch, where the dimensional weave kept the hum from leaking, checked the cell for stray dust, and slid the bolt back.
+
+The main hall had changed in his absence. The hammering was still going, but the rhythm of it was wrong, syncopated, players pausing mid-swing to read the air in front of them. A cluster near the door was arguing in loud voices. He caught the words three voices twice and inside job once before he reached the counter.
+
+The dwarf woman took the key without looking up, then did look up, because her counter was quietly vibrating. The brass plaque hummed. His pouch hummed back.
+
+Her eyes went from the pouch to his face. They stayed there for a long, evaluating moment.
+
+"Good hour?" she said.
+
+"Productive."
+
+"Congratulations." She dropped the key into its drawer and slid the drawer shut. "Cell's paid through the hour. No refunds for finishing early."
+
+"I'll survive the loss, thanks."
+
+He was almost to the door when she spoke again, to her ledger.
+
+"Anvil's in the same place you left it," she said. "In case anyone asks."
+
+Kage paused with his hand on the door frame. He considered the statement. He considered the woman, her ledger, and the precise professional distance of someone who had decided that curiosity was a luxury and discretion was inventory.
+
+"I'll keep that in mind," he said.
+
+Outside, the Smith's Ward was loud with speculation, and the road to the Grand Theater ran through half of Korros. He walked into the noise with the pouch humming against his hip like a thing that knew its own price.
+
+Coming to market, he thought, and couldn't decide whether he was warning the city or himself.
