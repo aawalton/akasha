@@ -1,4 +1,4 @@
-export type GlyphHitTerms = {
+type GlyphHitTerms = {
   readonly tooltip: number
   readonly directDamageMonsters: number
   readonly targetDamageTaken: number
