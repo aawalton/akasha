@@ -128,8 +128,13 @@ export function identified(line: string): string | null {
   return JSON.stringify({ [ID]: uuidVersion7(), ...row })
 }
 
-export function identifiedOver(text: string): string | null {
-  const lines = text.split("\n")
+export function arrivedAt(text: string, was: string | null): number {
+  if (was === null || !text.startsWith(was)) return 0
+  return was.lastIndexOf("\n") + 1
+}
+
+export function identifiedOver(text: string, from = 0): string | null {
+  const lines = text.slice(from).split("\n")
   let turned = false
   const said = lines.map((line) => {
     const next = identified(line)
@@ -137,7 +142,11 @@ export function identifiedOver(text: string): string | null {
     turned = true
     return next
   })
-  return turned ? said.join("\n") : null
+  return turned ? text.slice(0, from) + said.join("\n") : null
+}
+
+function arrivedOver(change: Change, path: string, text: string): string | null {
+  return identifiedOver(text, arrivedAt(text, textOf(change.before(path))))
 }
 
 export function entriedIn(index: Answering): (path: string) => boolean {
@@ -151,7 +160,7 @@ export function entriedIn(index: Answering): (path: string) => boolean {
   }
 }
 
-function entriedOnto(shadow: Shadow, changes: readonly FileChange[]): Rewritten {
+function entriedOnto(change: Change, shadow: Shadow, changes: readonly FileChange[]): Rewritten {
   const entried = entriedIn(shadow.index)
   const held: FileChange[] = []
   const filled: Filled[] = []
@@ -165,7 +174,7 @@ function entriedOnto(shadow: Shadow, changes: readonly FileChange[]): Rewritten 
       held.push(one)
       continue
     }
-    const next = identifiedOver(bodyOf(body))
+    const next = arrivedOver(change, body.path, bodyOf(body))
     if (next === null) {
       held.push(one)
       continue
@@ -176,14 +185,14 @@ function entriedOnto(shadow: Shadow, changes: readonly FileChange[]): Rewritten 
   return { changes: held, filled }
 }
 
-function couldTurn(changes: readonly FileChange[]): boolean {
+function couldTurn(change: Change, changes: readonly FileChange[]): boolean {
   for (const one of changes) {
     const body = bodiedIn(one)
     if (body === null) continue
     const said = partedIn(body.path)
     if (said === null) continue
     if (said.sections.length > 0) {
-      if (identifiedOver(bodyOf(body)) !== null) return true
+      if (arrivedOver(change, body.path, bodyOf(body)) !== null) return true
       continue
     }
     if (said.held === HELD_TS) return true
@@ -289,10 +298,10 @@ function mintedInto(text: string, slug: string, said: Generated, over: Minting):
 }
 
 function mintedOver(change: Change, changes: readonly FileChange[]): Minted {
-  if (!couldTurn(changes)) return NOTHING_MINTED
+  if (!couldTurn(change, changes)) return NOTHING_MINTED
   const cast = shadowFor(change)
   if ("refused" in cast) return NOTHING_MINTED
-  const entried = entriedOnto(cast.shadow, changes)
+  const entried = entriedOnto(change, cast.shadow, changes)
   const early = earlyOf(cast.shadow)
   if (early.size === 0) return { edits: rowsFor(changes, entried.changes), filled: entried.filled }
   const pageTypes = cast.shadow.index.pageTypesIn()

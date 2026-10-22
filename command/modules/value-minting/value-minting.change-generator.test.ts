@@ -12,6 +12,7 @@ import {
   changeOf,
 } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import {
+  arrivedAt,
   generateChange,
   identified,
   identifiedOver,
@@ -251,6 +252,13 @@ test("only the entries arriving without an id are given one", () => {
 
 test("a file whose entries all carry an id is left alone", () => {
   expect(identifiedOver(`{"id": "${HELD_ID}", "page": "one"}\n`)).toBeNull()
+})
+
+test("a file grown at its end has only its new lines read", () => {
+  const was = '{"page": "one"}\n'
+  const now = `${was}{"page": "two"}\n`
+  expect(identifiedOver(now, arrivedAt(now, was))?.startsWith(was)).toBe(true)
+  expect(arrivedAt(now, '{"page": "zero"}\n')).toBe(0)
 })
 
 const INSTANT = /"\d{4}-\d\d-\d\dT\d\d:\d\d:\d\d\.\d{3}Z"/

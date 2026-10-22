@@ -59,6 +59,11 @@ export const valueMinting = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Only the lines after a file's committed body are read where the file grew at its end.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The world is read only where the change could have a page written or an entry arriving.",
     },
     {
@@ -137,5 +142,5 @@ export const valueMinting = {
     },
   ],
   createdAt: "2026-08-30T01:18:26.538Z",
-  updatedAt: "2026-10-18T16:19:16.055Z",
+  updatedAt: "2026-10-22T15:36:21.183Z",
 } as const satisfies ChangeGenerator
