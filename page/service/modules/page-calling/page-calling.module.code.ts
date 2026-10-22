@@ -60,7 +60,11 @@ const AT_THE_WORKSTATION = "http://workstation.alanwalton.ts.net:8787"
 
 const IN_A_BROWSER = "/api"
 
-const ASK_CEILING_MS = 5000
+const READ_CEILING_MS = 30000
+
+const FOLLOW_CEILING_MS = 5000
+
+const READ_ROUTES: ReadonlySet<string> = new Set([ASK_AT, SHAPE_AT, READ_AT])
 
 const SHAPES_CEILING_MS = 30000
 
@@ -196,6 +200,9 @@ export async function sentTo(
       why = refused ?? `the pages answered ${answered.status}`
     } catch (thrown) {
       why = thrown instanceof Error ? thrown.message : String(thrown)
+      if (READ_ROUTES.has(at) && thrown instanceof Error && thrown.name === "TimeoutError") {
+        return { refused: `${why} — a read left waiting at ${origin}${at} is not sent again` }
+      }
     }
     if (taken < ATTEMPTS) await naps(backoffFor(taken))
   }
@@ -212,7 +219,7 @@ export async function askingFor(
   fetcher: Fetcher = fetchThrough,
   naps: Sleeper = sleep
 ): Promise<Rows> {
-  const held = await sentTo(ASK_AT, query, ASK_CEILING_MS, fetcher, naps)
+  const held = await sentTo(ASK_AT, query, READ_CEILING_MS, fetcher, naps)
   if ("refused" in held) return held
   const said = objectIn(held.said)
   if (said === null) {
@@ -232,7 +239,7 @@ export async function shapeFor(
   fetcher: Fetcher = fetchThrough,
   naps: Sleeper = sleep
 ): Promise<Shaped> {
-  const held = await sentTo(SHAPE_AT, { pageTypeSlug }, ASK_CEILING_MS, fetcher, naps)
+  const held = await sentTo(SHAPE_AT, { pageTypeSlug }, READ_CEILING_MS, fetcher, naps)
   if ("refused" in held) return held
   const said = objectIn(held.said)
   if (said === null) {
@@ -274,7 +281,7 @@ export async function readingFor(
   fetcher: Fetcher = fetchThrough,
   naps: Sleeper = sleep
 ): Promise<Read> {
-  const held = await sentTo(READ_AT, sought, ASK_CEILING_MS, fetcher, naps)
+  const held = await sentTo(READ_AT, sought, READ_CEILING_MS, fetcher, naps)
   if ("refused" in held) return held
   const said = objectIn(held.said)
   if (said === null) {
@@ -391,7 +398,7 @@ export async function followSent(
     method: "POST",
     headers: { "content-type": "application/json", accept: "application/json" },
     body: JSON.stringify(body),
-    signal: AbortSignal.timeout(ASK_CEILING_MS),
+    signal: AbortSignal.timeout(FOLLOW_CEILING_MS),
   })
 }
 

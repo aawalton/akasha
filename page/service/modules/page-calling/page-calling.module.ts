@@ -7,6 +7,7 @@ export const pageCalling = {
   definition: "the pages asked for and written over HTTP",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -74,6 +75,15 @@ export const pageCalling = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A call the service refuses for its own reasons is not tried again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A read left waiting past its ceiling is not sent again, since it is still queued.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A read waits thirty seconds, as long as six short tries of it once waited.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -213,5 +223,5 @@ export const pageCalling = {
     },
   ],
   createdAt: "2026-09-01T17:34:08.092Z",
-  updatedAt: "2026-10-22T15:14:02.904Z",
+  updatedAt: "2026-10-22T15:22:35.349Z",
 } as const satisfies Module

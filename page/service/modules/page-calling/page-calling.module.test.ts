@@ -17,11 +17,27 @@ import {
   originOf,
   READ_AT as READS,
   refusedIn,
-  type Sleeper,
   shapesFor,
   WRITE_AT as WRITES,
   writingFor,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import {
+  A_FILE,
+  A_PICTURE,
+  AN_INCREMENT,
+  APPEND_SENT,
+  answering,
+  counting,
+  GARBLED,
+  garbling,
+  handing,
+  KEPT_SENT,
+  neverNaps,
+  PAGES_SENT,
+  racingOnce,
+  timingOut,
+  whyOf,
+} from "akasha/page/service/modules/page-calling/page-calling.module.test-fixtures.ts"
 import {
   APPEND_AT,
   ASK_AT,
@@ -31,48 +47,6 @@ import {
   READ_AT,
   WRITE_AT,
 } from "akasha/page/service/modules/page-serving/page-serving.module.code.ts"
-import { z } from "zod"
-
-const APPEND_SENT = z.looseObject({ under: z.string(), lines: z.array(z.string()) })
-
-const PAGES_SENT = z.looseObject({ pages: z.array(z.looseObject({ pageTypeSlug: z.string() })) })
-
-const KEPT_SENT = z.looseObject({ kept: z.array(z.unknown()) })
-
-const A_FILE = { pageTypeSlug: "persona", slug: "amy", key: "mobileWallpaper" }
-
-const A_PICTURE = new Uint8Array([0x89, 0x50, 0x4e, 0x47, 0xff, 0xfe, 0x00])
-
-function handing(bytes: Uint8Array<ArrayBuffer>): Fetcher {
-  return () => Promise.resolve(new Response(bytes, { status: 200 }))
-}
-
-const neverNaps: Sleeper = () => Promise.resolve()
-
-function answering(status: number, body: unknown): Fetcher {
-  return () => Promise.resolve(new Response(JSON.stringify(body), { status }))
-}
-
-const GARBLED = '{"rows":[{"id":"one"'
-
-function garbling(status: number, body: string, headers: Record<string, string> = {}): Fetcher {
-  return () => Promise.resolve(new Response(body, { status, headers }))
-}
-
-function whyOf(said: unknown): string {
-  return refusedIn(said) ?? ""
-}
-
-function counting(said: Fetcher): { readonly fetcher: Fetcher; readonly spent: () => number } {
-  let spent = 0
-  return {
-    fetcher: (url, init) => {
-      spent += 1
-      return said(url, init)
-    },
-    spent: () => spent,
-  }
-}
 
 test("an answer that is no object is refused rather than read into", async () => {
   const said = await askingFor({ pageTypeSlug: "role" }, answering(200, null), neverNaps)
@@ -223,15 +197,18 @@ test("a call that answers nothing is tried again", async () => {
   expect("refused" in said && said.refused).toContain(`${ATTEMPTS} attempts`)
 })
 
-function racingOnce(then: unknown): Fetcher {
-  let raced = false
-  return () => {
-    const status = raced ? 200 : 409
-    const body = raced ? then : { refused: "`akasha/a.ts` moved since it was read" }
-    raced = true
-    return Promise.resolve(new Response(JSON.stringify(body), { status }))
-  }
-}
+test("a read the service left waiting past its ceiling is not sent again", async () => {
+  const held = counting(timingOut())
+  const said = await askingFor({ pageTypeSlug: "role" }, held.fetcher, neverNaps)
+  expect(held.spent()).toBe(1)
+  expect("refused" in said && said.refused).toContain("is not sent again")
+})
+
+test("a write the service left waiting past its ceiling is tried again", async () => {
+  const held = counting(timingOut())
+  await writingFor({ writer: "Amy <amy@alanwalton.com>", message: "m" }, held.fetcher, neverNaps)
+  expect(held.spent()).toBe(ATTEMPTS)
+})
 
 test("a call the service refuses as a race is tried again", async () => {
   const held = counting(racingOnce({ rows: [], n: 0 }))
@@ -350,16 +327,6 @@ test("a file answered badly on the way is asked for again", async () => {
 test("the path a file is called at is the path the service answers a file at", () => {
   expect(FILES).toBe(FILE_AT)
 })
-
-const AN_INCREMENT = {
-  writer: "Amy <amy@alanwalton.com>",
-  message: "a tap",
-  pageTypeSlug: "readout-widget",
-  slug: "one",
-  key: "taps",
-  by: 1,
-  set: {},
-}
 
 test("the path an increment is called at is the path the service answers an increment at", () => {
   expect(INCREMENTS).toBe(INCREMENT_AT)
