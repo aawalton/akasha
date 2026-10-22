@@ -1,0 +1,297 @@
+Cass didn’t panic as his experience screen went blank. The Prestige screen had called the achievement "Combat and Monsters". He doubted he was the first to get this far, and more than that, the System wouldn’t suddenly remove all of his progress for nothing.
+
+Experience had taught him better than that.
+
+Just as his throat started to feel tight from involuntarily holding his breath, the first path appeared at the bottom. It faded in, shining light blue as it settled into place, with all of its nodes extending outward in a line. Another appeared just below it, though it was mostly transparent. Then another…
+
+Standard Paths:
+
+Logistics
+
+Inspection
+
+Resolution
+
+Expansion
+
+Builder
+
+As soon as those settled, to the side, another set appeared.
+
+Non-Standard Paths:
+
+Enterprise
+
+Tactician
+
+Cornerstone
+
+And then, one more set.
+
+Unique Paths:
+
+Survivor
+
+Index
+
+Choose a Path to enhance…
+
+“What do you mean by enhance?” Cass spoke to the open air. To his shock, he got a response.
+
+Path enhancement (Path of the Versatile):Path enhancement is a rare reward granted to Callings for good works. It can be offered for completing an achievement set, as a rare reward for closing a portal, or as a reward for partially completing a tiered gate.
+
+It took him a second to recognize that he actually got a response.
+
+It’s only talked to me like this once before. If it’s actually answering me, I need to dive deeper, but I’ll have to be careful in how I word things. Maybe I can get some real answers here.
+
+Cass planned out his words before speaking, “I apologize, that’s helpful information, but that doesn’t tell me what enhancement does. I’m not trying to be difficult, but I spent all of my saved experience to get to this point.”
+
+There was a small delay, then the writing appeared again.
+
+Path enhancement:
+
+A method by which the Calling can select a single Path for System-enforced enhancement. Each node/mark/module/rune/sigil will be reviewed by the System, with all upgrades and changes applied, in whole or in part, at the System's will and based on the history of the Calling.
+
+“Is there any way to tell what the enhancement will do?”
+
+There will be no negotiations for Path enhancements, Cassio Vale of Liora.
+
+That miffed him enough for his planned words to fall away, “Why are you only talking to me now? I’ve spoken to you hundreds of times in the past.”
+
+QuestWright Cassio Vale: System Trust (I)
+
+“Thank you for answering…” Cass mumbled. Then the words faded, only for the path list to reappear and begin lighting up one at a time. Once the rotation ended, the prompt returned.
+
+Choose a Path to enhance…
+
+It was obvious what he would pick. Survivor.
+
+Since he’d first unlocked it, Survivor had, time and again, proven to be the greatest Path he’d ever unlocked. It had not only saved his life multiple times but had also combined with other unlocked Paths to give him even greater bonuses. To a large degree, Survivor was his history.
+
+He was about to finalize his choice, then stopped, mental finger hovering over the Path. There was still one more question on his mind.
+
+“System, you said it would enhance a path based on the history of the Calling. I can safely assume that, by "Calling," you mean me as a person, but I’m curious. If I do something, like say, close a dungeon, would that have an effect on the enhancement?”
+
+All prior actions are recorded, and ongoing actions may be considered as well. Outcome remains at System discretion.
+
+“Can my choice be delayed?”
+
+Yes
+
+Cass psyched himself down. I know you want this, ambitious Cass, but we need to wait. If we can close a portal, or even close a couple, the System might give us a bigger upgrade. Hell, I might even get a better Path to enhance.
+
+It’s not likely, but there’s always the option.
+
+But no, I can wait. I waited this long to use that experience; I can wait a little longer. It’s not going to kill me.
+
+Choice made, he said aloud, “I’d like to delay my Path enhancement.”
+
+Path enhancement delayed.
+
+The choice screen faded, and his old Paths popped up again, including the locked ones. He’d had Expansion and Resolution for so long that he’d grown bored of staring at them. In fact, as he looked, ambitious Cass waited in the wings and urged him on.
+
+Tempered and Tactician are already locked in together. Since I haven’t unlocked another Way, any choice I make right now shouldn’t connect to Survivor.
+
+That means I can actually unlock a path right here, right now, and use it. So…why don’t I?
+
+Cass made another choice.
+
+Clicking on the Path of Resolution, the only one he could afford, he confirmed his choice, and 700 more experience points went out the window.
+
+I may not have gotten what I wanted from Versatile, but I’ll be damned if I don’t get something right now. A quick glance at his status screen made him mentally whimper. So you have less than 100 xp now. It’s fine. It’s totally fine, regretful Cass.
+
+A yellow set of locked nodes appeared in the shape of a funnel as Cass sobered up to his recent experience poverty. At the bottom was a single already active node, while the Path expanded upward, widening as it went.
+
+–Resolution Unlocked–
+
+There are 4 major nodes on this path.
+
+There are 16 minor nodes on this path.
+
+Automatically gain the Insurance ability.
+
+Insurance: 5% of your daily Quest allotment can be insured. Insurance allows a failed Quest to automatically be re-assigned back to the QuestWright with reduced failure penalties.
+
+Upgradeable
+
+“Insurance sounds like something Dad used to talk about.” He laughed to himself on his bed, “That’s about as Administrative as it gets. What else can I look forward to?”
+
+Each major node had several minor nodes sprawled around it, with the smaller forms costing anywhere between 65 and 90 xp, a large leap up from Logistics minimal costs of 40s and 50s. He clicked on each major to get a sense of what it was like.
+
+[Major Node: Failure Protection]
+
+Failure must always be managed.
+
+Cost to unlock: 350xp
+
+Selection unlocks Reputational Shielding
+
+Passive ability: Provides a daily baseline protection at up to 10 System Reputation per day.
+
+[Major Node: Absolute Integrity]
+
+Trust and agency are always hand in hand.
+
+Cost to unlock: 350xp
+
+Selection unlocks Fault Isolation
+
+Passive ability: Provides the QuestWright with a Reputational floor that cannot be dropped below. This ability scales with the Reputation level of the QuestWright.
+
+The first two were interesting. They were, hand in hand, attached to protecting him from failures dragging his System Reputation down. It was curious to see, as he’d never dropped below a certain level, though his cascading failures from the defense of Liora had brought him close. A brief thought about what might’ve happened if he’d ever gone negative flitted through his mindscape, then he focused on the last two majors.
+
+[Major Node: Quest Salvage]
+
+Effort shouldn’t be lost, but reclaimed. Cost to unlock: 425xp
+
+Selection unlocks Salvage Protocol
+
+Salvage Protocol
+
+(Active) ability: Allows the QuestWright to recover a portion of the expected Experience and Reputation from a Quest that has been marked as stalled or abandoned.
+
+Note: Recovered rewards are capped at 50% of the original value. Salvaged Quests are considered resolved and cannot be reassigned or recovered further.
+
+[Major Node: Dispute Resolution]
+
+Conflict is the barrier by which resolution is held back.
+
+Cost to unlock: 385xp
+
+Selection unlocks Mediated Outcome
+
+Passive ability: When a Quest failure arrives, the System will automatically perform a review of the Questor's efforts. Should such efforts be in line with the Quest’s requirements, the QuestWright will be assigned as an arbitrator.
+
+“How strange,” Cass said after reviewing everything. “I’d thought it would make people easier to deal with, but it’s literally all about holding back failures or dealing with them when they come. I wonder if I hadn’t unlocked Logistics from the start, I'd have a bigger issue with failures. Maybe this is a path that’s more useful the higher up you move in the QuestWright echelons.”
+
+He shrugged, “Nothing I can do about it now. With how much experience I get per day, I’ll probably have it unlocked pretty quick. Maybe I can split the experience between Resolution and Cornerstone to keep everything moving along.”
+
+With nothing else to do and completely bereft of experience, he fell quickly asleep and woke up with renewed energy. One more Token, and he’d finally get to see what happened when Tempered Tactician went online.
+
+Since he only needed the single token, Cass chose the dexterity daily. He’d practiced it so often that the objectives were complete within less than ten minutes. After dodging back and forth across the room while rolling a coin around his fingers, a breathless Cass reached into his options and finalized his choice.
+
+[SURVIVOR PATH: WAY OF THE TEMPERED- STEP TAKEN]
+
+Fifth node unlocked: Tempered Tactician.
+
+New Way function unlocked: You can now choose one of several trials that bring great rewards.
+
+Your daily Quest has been reset
+
+Immediately, the System pulled him back just as the node began to fill with green. It then adjusted itself, centering on the empty locations where Tactician had once shattered. Orange shards began to fly in from the outside of the screen, the pieces ricocheting against each other until the path made its full reappearance.
+
+Fully reformed as if nothing had happened, an orange line broke away just as a green from Tempered met it at an equidistant point. The two colors mixed until a brown, earthy color took their place, then it began to expand. Blowing up like a balloon, the new path took on a semblance of form before it shattered, and the breaking glass sound erupted a second time as the orange line leading back to Tactician broke it anew.
+
+[Path Confirmed: Tactical Processing]
+
+-Tactical Processing-
+
+Automatically gain a passive improvement to your alacrity.
+
+Your thoughts will form more quickly, your reactions will occur with less delay, and you will be able to track and respond to multiple inputs with greater consistency.
+
+That didn’t say it was upgradeable, Cass’s mind quickly sent out.
+
+[ALACRITY UPGRADE INTEGRATING]
+
+Something heavy settled behind Cass’s eyes. The feeling grew in strength as a headache of the kind he’d never once felt before rested itself over his skull. A feeling of great pressure pushed itself within the confines of his mind, and his breathing picked up, then slowed as his thoughts rebounded off each other with speed.
+
+What’s happening!
+
+Why is Adya even with me?
+
+Is closing the dungeon really going to be that hard? Wait, no, it’s a portal. Dungeon’s outside, portals inside. Wait, that’s not descriptive enough.
+
+Aha! I get how to do conditional Quests! Wait! That won’t work!
+
+With that thought, the pressure released all at once, making Cass collapse back onto the bed as he lost control of his body for a time. His limbs flicked back and forth as unseen and unknown changes occurred beyond his control. Then, blissfully, he passed out.
+
+When he woke up a few moments later, several notifications awaited him. With a tired mental finger, he hit the button.
+
+One Trial awaits you…
+
+Ominous…. He flicked to the next one.
+
+Ability gained: Tactical Framing
+
+When entering a threatened state, a real-time combat display will occupy your vision. Targets, movement, and immediate threats are highlighted to support rapid responses.
+
+Cass was too tired to think. His mind continually rapid-fired through several thought iterations with randomness as he tried to stand up. But one of his legs wouldn’t move. The offending appendage would jerkily shift, then re-align as if controlled by two different and unseen motions. With some trial and error, Cass got it to move almost on its own as he lurched to a standing position. In a haphazard way, he dragged himself to the bathroom.
+
+His face was covered in blood. It hadn’t stopped there, dripping down upon his formerly pristine white robe until enough of it was so maroon as to be irreparably ruined.
+
+“What happened to me?”
+
+“Gonna have to pay for that.”
+
+“Wait, it was alacrity.”
+
+“I wonder if Ana made porridge already?”
+
+“No, it’s not time yet.”
+
+Each thought connected to his mouth and was uttered without much semblance of control. It was like two Cassios had taken occupation in his mind.
+
+One part of him recognized what was happening. His mind was moving faster than it ever had before. Concepts, notions, and considerations were all pushing themselves back and forth, skittering across his mindscape with aplomb.
+
+He wasn’t adapting to it well, as, rather than the thoughts quietly moving in the back of his brain, they were all coming to the front as fully realized ideas.
+
+With a breath, he pinged Bella. Using her as a lodestone of calm in the sea of his thoughts, eventually, he got control of himself enough to remove his bloodstained clothes and hop into the shower. Another mishap came his way as, instead of wiping his face, he accidentally slapped himself. Turning off the faucet, he felt a little better, but the thoughts kept on coming.
+
+Tactical Framing sounds a lot like the ability I rejected in my first gate. And the way it’s described is a mixture of Profile, Battlefield Memory, and Command Center.
+
+It makes me wonder, if I didn’t have those abilities, would this even be an option? Or would it be something completely different?
+
+If I wait to see Adya, I’ll hit the second gate in the next two days. That’s not a bad thing, as I don’t want her to see me like this.
+
+Gotta get control of myself. I need to take it easy and get my ducks…no, thoughts in a row.
+
+He wasn’t going to complain. Who didn’t want faster thinking and even faster reactions? So the first thing he did was stretch, then poke at his head. The pressure that had descended had been like nothing he’d ever felt before. Sadly, poking showed him nothing.
+
+Getting dressed was fine. His body was jittery as he put a fresh robe on and picked up the maroon one from the bathroom floor. Stepping out of his room, he found an early-arriving Ana wiping down the countertop.
+
+Putting the robe down on a clean table with the unstained side down, he sat in his chair. She nodded at him before her eyes found the robe beside him.
+
+“Busy evening?”
+
+“Yep, something like that. Sorry-for-the-mess.” He said a little too quickly.
+
+“Uh-huh,” She commented. “That’s not going to clean up, so you’ll have to pay for it from your earnings.”
+
+“No problem, thank you, I appreciate everything you do, Ana.”
+
+That was slower! Success!
+
+Ana didn’t look convinced. “You seem different today.”
+
+“Just excited for another day of work!”
+
+“Sure,” She shrugged. After making and dropping off his porridge, she scooted around to pick up his robes from the table. Cass caught an unmistakable fragrance on her.
+
+“How’s Ren?”
+
+Ana stopped with the robe in her hands, “He’s fine. How did you know I saw him last night?”
+
+“Lucky guess,” Cass said with a shrug, a twitchy hand pushing a spoonful of warm porridge into his mouth.
+
+“Well, he won’t be around much longer, if that makes a difference to you. Said him and the other two are heading back to the Capitol.”
+
+“You okay?” He asked with another spoonful.
+
+“Oh, sure. I knew it was coming, and we were very honest with each other from the start. Also, I leveled up!”
+
+“Wrearry!” Cass said around his food. He quickly swallowed, “Congratulations!”
+
+“Thanks! It’s been a long time coming, so I’m pretty happy with it. Only one more level to my next gate. Your little daily Quests have really been speeding me right along. I’m on my 9th exponential in a row, and the experience just keeps going up!”
+
+Note to self: Stacking more Cornerstone Quests is a must.
+
+That thought arrived simultaneously with his words, “If you run out or need a refresher, let me know.”
+
+“I will! Thank you, Cass. You coming here has truly been a blessing in my life.”
+
+Cass looked down at the empty bowl of porridge. Holding it up, he hunched his shoulders a little, “Do you mind making a little more? Sorry, I didn’t know I’d be so hungry.”
+
+“Absolutely, kiddo. Give me a second.” She busied herself as Cass put the twitching bowl down.
+
+As she cluttered around, Cass continually pinged Bella with mindless repetition as he forced his mind to center itself. It was going to be a long day.
