@@ -12,7 +12,8 @@ export const claudeCode = {
     "module/claude-launch-args",
     "domain/claude-code-remote-control",
     "domain/claude-code-app",
+    "domain/slash-command",
   ],
   createdAt: "2026-09-03T05:13:56.736Z",
-  updatedAt: "2026-09-24T17:45:18.000Z",
+  updatedAt: "2026-10-22T15:09:32.931Z",
 } as const satisfies Domain

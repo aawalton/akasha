@@ -144,6 +144,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/session/state/claude-code-session-state.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/session/store/claude-code-session-store.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/session/transition/claude-code-session-transition.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/slash-command/slash-command.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/tool/claude-code-tool.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/hook/hook.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/message/recipient-resolving/agent-message-recipient-resolving.domain.ts","typed":true,"deferred":false}

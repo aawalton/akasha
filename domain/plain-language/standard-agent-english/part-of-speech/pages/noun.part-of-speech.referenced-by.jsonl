@@ -12,6 +12,7 @@
 {"propertySlug":"part-of-speech","path":"agent/claude-code/session/resume-menu/resume-menu.domain.ts","id":"01a155c4-a117-7c5d-ac36-b38073e0f263"}
 {"propertySlug":"part-of-speech","path":"agent/claude-code/session/state/claude-code-session-state.domain.ts","id":"01a0ca0f-33c7-78f8-89c7-c79ecf784fac"}
 {"propertySlug":"part-of-speech","path":"agent/claude-code/session/transition/claude-code-session-transition.domain.ts","id":"01a0c9f5-cdad-7bb4-a56e-5fa84e5c5b7e"}
+{"propertySlug":"part-of-speech","path":"agent/claude-code/slash-command/slash-command.domain.ts","id":"01a16429-0784-7b0b-9a2a-acfa2e126204"}
 {"propertySlug":"part-of-speech","path":"agent/hook/hook.domain.ts","id":"01a04e0a-f8f9-7f51-97ed-edfe4be9ba2f"}
 {"propertySlug":"part-of-speech","path":"agent/message/agent-message.page-type.ts","id":"01a06818-107b-7005-8e69-8cefb68f3cdf"}
 {"propertySlug":"part-of-speech","path":"agent/message/notice/agent-message-notice.page-type.ts","id":"019ffe7f-d49d-7000-ba76-13378b883aa0"}
