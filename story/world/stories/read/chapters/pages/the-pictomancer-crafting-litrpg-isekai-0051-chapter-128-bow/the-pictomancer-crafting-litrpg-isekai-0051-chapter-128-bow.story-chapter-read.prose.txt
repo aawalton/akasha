@@ -1,0 +1,215 @@
+A bow. Clive flipped to a fresh page in his sketchbook.
+
+He had a vague idea how a bow should look. Curved stick and a string. Simple enough.
+
+He sketched the basic shape. Added some detail to the grip, shaded the limbs to suggest wood grain. It looked... bow-like. Close enough.
+
+[Draw: Bow]
+
+The weapon materialized in his hands. He gripped it, pulled the string back—
+
+Crack.
+
+The upper limb snapped clean through. The string went slack. The whole thing fell apart in his hands.
+
+Clive stared at the broken pieces.
+
+"What the hell?"
+
+He could make swords. Daggers. Spears. He'd created a mace that crushed a man's skull. But a bent stick with a string defeated him?
+
+He threw the pieces aside and started over.
+
+This time he made the limbs thicker. More wood meant more strength, right? He sketched it out, paying attention to make the whole thing more robust.
+
+[Draw: Bow]
+
+This one didn't snap. Progress. He pulled the string back, testing the draw weight.
+
+It barely moved. The limbs were too stiff. He pulled harder, putting his back into it. The string came back maybe three inches before his muscles gave out. Even if he could draw it, there was no way he'd hit anything with this little power.
+
+He tossed it aside.
+
+"Too thick. Too thin. There has to be a middle ground."
+
+Third attempt. He tried to split the difference. Limbs thinner than the second bow, thicker than the first. He added careful shading to suggest flexibility in the wood.
+
+[Draw: Bow]
+
+Better. The draw weight felt manageable. He pulled the string back to his cheek, aimed at a tree trunk twenty yards away—
+
+The arrow wobbled off the string and tumbled through the air, hitting the ground ten feet away.
+
+"What?" He picked up the arrow, examining it. It looked like an arrow. Straight. Properly fletched. It should have worked fine. What was the problem now? He nocked another arrow, drew again. Same result. The arrow fishtailed wildly the moment it left the string.
+
+He lowered the bow, studying it more carefully.
+
+The limbs bent unevenly. The upper limb flexed more than the lower. When he drew the string, the whole thing twisted slightly in his grip. The string didn't sit centered. It pulled to one side.
+
+"Symmetry," he muttered. "The limbs have to bend the same amount."
+
+He'd never thought about it before. A bow wasn't just a curved stick. It was a spring. A carefully balanced spring where both sides compressed and released with exactly the same force. If one limb was stiffer than the other, it threw everything off.
+
+Fourth attempt. He sketched more carefully this time, using his [Artist's Eyes] to ensure perfect symmetry. Both limbs identical. The curve smooth and even. He even added small grooves at the tips where the string would sit, keeping it centered.
+
+[Draw: Bow]
+
+He tested the draw. Smooth. Even. Both limbs flexed together. He nocked an arrow, drew, released—
+
+The arrow flew true for maybe fifteen yards, then arced sharply downward and stuck into the dirt.
+
+Clive walked over and pulled it free. At least it had flown straight. But the range was pathetic. That deer was forty feet away. This bow couldn't hit anything beyond thirty.
+
+He looked back at the bow in his hand. What was he missing?
+
+The wood. He'd been sketching generic wood, just adding shading to suggest grain. But Master Garrett had taught him that different metals had different properties. Iron wasn't steel. Steel wasn't the same as high-quality steel.
+
+Maybe wood worked the same way.
+
+He thought back to what little he knew about archery. English longbows. Those were famous, weren't they? Something about a gesture... The French would cut off captured longbowmen's middle fingers before releasing them. A bowman without fingers couldn't draw nor fight. They were worse than dead—a liability to his own side. So English archers would flip their intact middle finger to the French lines before battle. A taunt. I can still kill you.
+
+Clive looked at his own fingers, then at the broken bow at his feet.
+
+If losing a finger made a longbowman useless, it meant those bows required serious strength to draw. Which meant serious power. Which meant the wood had to be strong enough to handle that force without snapping.
+
+Not just any wood. Specific wood.
+
+Made from... what was it again? Yew? Yes, yew wood. Something about how it bent without breaking.
+
+Fifth attempt. He sketched the bow again, but this time he focused on the wood itself. He visualized yew with its dense, springy, with tight grain. He shaded each limb carefully, showing how the grain ran parallel to the length, how the sapwood and heartwood created natural tension.
+
+[Draw: Longbow]
+
+The notification changed. Not just "bow" anymore. "Longbow."
+
+He drew the string. Immediate difference. The limbs bent smoothly, powerfully. The draw weight was heavier, but not unmanageable. He could feel the energy coiling in the wood.
+
+He nocked an arrow, aimed at the tree, released.
+
+Thunk.
+
+The arrow buried itself in the bark, dead center, forty yards away.
+
+"Finally."
+
+[Item Created: English Longbow (Normal Quality)]
+
+[Durability: 25/25]
+
+[Woodwork Illustration Level 1 unlocked]
+
+Clive lowered the bow, breathing hard. His arms ached. His chest throbbed where Sion had hit him. But he had a working bow.
+
+He looked down at the weapon in his hands. Such a simple thing. A bent piece of wood and a string. He'd thought he understood it at a glance. It took a few more glances.
+
+He nocked another arrow and moved back into the trees. Azura needed food.
+
+The longbow changed everything. He found a deer at the edge of a clearing, grazing near a fallen log. Forty yards. He drew the string back to his cheek, aimed for the chest cavity, exhaled slowly.
+
+Released.
+
+The arrow took her through the ribs. She staggered two steps and collapsed.
+
+The second deer took longer to find, a young stag near the stream. Same process. Draw, aim, release. The arrow punched through hide and muscle. The stag bolted, made it maybe twenty yards before its legs folded.
+
+Clive field-dressed both kills with his dagger. He'd never done this before, but the principles were obvious enough—open the belly, remove the organs, keep the meat clean. Blood soaked into the dirt.
+
+He dragged the first carcass back to the clearing, then returned for the second.
+
+Azura lifted her head. Her nostrils flared. But when she saw Clive, concern settled into her eyes.
+
+You're bleeding again.
+
+"I know."
+
+You should rest.
+
+“After you eat. We need to keep moving.”
+
+She tore into the first doe, her teeth making short work of hide and bone. The sounds were viscous, so much so that Clive looked away, focusing instead on cleaning his dagger.
+
+Within minutes, the first carcass was gone. Azura started on the stag. Her scales brightened slightly as she fed, color returning to her wings.
+
+“Better?” Clive asked.
+
+Much. She paused, blood dripping from her jaws. You did well, rider. I was beginning to think you'd forgotten how to hunt.
+
+"Turns out I never knew how in the first place. Had to figure it out."
+
+She finished the stag, licked her teeth clean, then laid back onto the ground. Her body temperature was already rising, he could feel the warmth radiating from her even at this distance.
+
+"How long until we fly again?"
+
+Give me an hour. Let the meat settle. She tucked her wings against her sides and closed her eyes. Wake me when you're ready.
+
+[Level up]
+
+[Dragon Bond: Level 3]
+
+[Bond Strength: Trusted]
+
+[New Benefit Unlocked: Bonded Instinct - Both parties can sense immediate threats to the other. Provides split-second warning before attacks]
+
+This ability looked interesting. Threats to each other. Split-second warning.
+
+He looked over at Azura. She lay curled with her eyes closed, wings tucked tight, breathing slow and deep as she digested. Completely vulnerable.
+
+How was he supposed to test this?
+
+He couldn't exactly wait for something to attack one of them. And manufacturing a real threat seemed idiotic. But he needed to understand how it worked.
+
+Clive stood, moved to the tree line. Found a sturdy branch, broke it off. Weighted it in his hand. Not heavy enough to actually hurt Azura, but solid enough to register as incoming.
+
+He positioned himself about twenty yards away, branch raised like a spear.
+
+What are you doing? Azura's voice came through the bond, drowsy and confused.
+
+"Testing something. Stay still."
+
+Rider, if you throw that stick at me—
+
+"Just stay still."
+
+He drew his arm back, aimed at her flank where the scales were thickest. Focused on the motion, the intent to strike—
+
+The sensation hit him like ice water down his spine.
+
+Danger. Immediate. Behind him.
+
+Clive spun.
+
+Nothing there. Just trees and shadows and the sound of wind through branches.
+
+But the feeling persisted. A prickling awareness that something was wrong, something was coming at him from—
+
+He looked back at Azura. She'd lifted her head, eyes open now, watching him with what looked like amusement.
+
+Feel that? she asked.
+
+The branch was still in his hand. He'd been about to throw it at her. And somehow his own intent had registered through the bond as a threat to... himself?
+
+No. Wait.
+
+"You were going to retaliate," he said slowly.
+
+Of course I was going to retaliate. You were about to throw a stick at me while I was resting.
+
+"And I felt that. Your intent to hit back."
+
+Apparently. She settled back down. Interesting, isn't it? The bond doesn't distinguish between types of threats. It simply warns us when the other is in danger.
+
+Clive dropped the branch. "So if someone aimed an arrow at you..."
+
+You would know before it was loosed. And if someone tried to stab you in your sleep?
+
+"You'd wake me."
+
+Exactly. She closed her eyes again. Now stop trying to hit me with sticks and let me digest in peace.
+
+He walked back to the log, mind working through the implications. The bond didn't require him to see the threat nor did it require Azura to vocalize a warning. It was instinctive.
+
+This one might keep them both alive.
+
+A weapon is only as strong as its balance. In war, as in nature, asymmetry is death.
+
+— Principles of the Bow, Huntmaster Kell

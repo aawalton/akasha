@@ -1,0 +1,137 @@
+"The moon?" He looked at her. "What do you mean?"
+
+Jill was quiet for a moment, choosing her words. "Your ability. You can recreate magic using your paintings. That's how it functions, isn't it?"
+
+"Roughly."
+
+"The mages here tried something similar. There were three of them, when I first came to the temple. Scholars, mostly. They wanted to catalog what I could do, break it into components they could study." She turned the duskbell in her fingers again, a habit she'd developed in the last few minutes without seeming to notice. "They couldn't."
+
+"What stopped them?"
+
+"They kept looking for the source. Every spell they knew drew from something — fire ether, water ether, wind ether. There's an entire taxonomy of it. They spent months trying to isolate what I was drawing from." She glanced at him briefly. "They called it moon ether, eventually. As a placeholder. Because they didn't have a better name for something they couldn't find."
+
+"Moon ether…" Clive shrugged. “I’m not a mage, but that doesn’t sound like a real thing.”
+
+“I know. That’s not a category, they just didn’t want to admit they didn’t know. But Clive, you’re special, aren't you? The mages couldn't replicate it, but perhaps you can.”
+
+It was an interesting question.
+
+If he could paint it, he could probably replicate it. But what color was light?
+
+Fire was red. Ice was blue. Lightning was yellow. Those mappings had come to him instinctively when his abilities first emerged.
+
+But light? According to basic color theory, light was all colors combined.
+
+He uncapped his palette. Fifteen different color pigments sat in their wells. He loaded the brush and began mixing — red into blue, yellow across both, white to lift it, cyan and magenta folded in at the edges. He worked the brush until the colors had fully merged.
+
+He looked at what he had.
+
+Black. A dark, flat, unremarkable black.
+
+Jill watched him. “Is everything ok?”
+
+Clive frowned as he stared at the result. It wasn't surprising, not really. Some part of him had already known. He'd learned it the first time a teacher had handed him a set of paints and told him to mix every color together, and he'd expected something luminous and gotten mud.
+
+“It’s not that simple,” he mumbled as he wiped the brush on the cloth, as if cleaning up the failure made it more useful. “Painting moonlight will be tricky.”
+
+“Why?”
+
+"Pigment doesn't work the same way light does," he said. "Every color you add absorbs more of the spectrum. Mix enough of them together and you've blocked out everything — nothing reflects back." He tilted the palette, not because the angle would change anything, but because he needed somewhere to look while he thought. "Actual light runs the opposite direction. Red, green, blue combined give you white. Brightness. But that's not what paint is. Paint is subtraction."
+
+Jill gave him a blank look. It didn’t look like she understood. “So you can’t do it?”
+
+"I didn't say that." He set the brush down and looked up at the moon. "I said I can't mix my way there. That's a different problem."
+
+“And what’s the solution?”
+
+Clive looked up. The moon sat high and close, its light distributed evenly across the cobblestones, across the surface of the fountain, across the back of his hands. It didn't come from one point. It came from everywhere it reached.
+
+“I’ll figure it out.”
+
+He loaded a clean brush with white.
+
+He didn't paint anything yet. He just held it there, thinking. Jill had gone still beside him, her hands in her lap, watching his face the way she used to when he was working and she knew better than to interrupt.
+
+The [New Quest] notification still hovered at the edge of his vision.
+
+Learn Moonlight Arts.
+
+He didn't know what that meant. He didn't know if it was possible. But he wasn’t going to give up.
+
+"I might need to approach this from the other direction," he said. "Not mixing toward light. Starting with light."
+
+Jill shook her head slowly. "You're speaking glibish again."
+
+"Probably." He looked up at the moon. "I'm still going to try."
+
+She didn't say anything to that. But she didn't leave either. They sat together on the bench with the bouquet between them, both of them looking up, the fountain running its quiet commentary beside them.
+
+It was, he realized, exactly what they'd promised each other once. Nothing more complicated than this.
+
+Later that night, Clive was back in his room. It was the middle of the night. He should have been tired.
+
+The walk to the millstream and back, the dinner, the hour on the bench — it should have added up to something. Instead he sat on the edge of his bed in the dark with his sketchbook open on his knee and his mind running at full speed. Ideas were flooding his head.
+
+How do you paint with light?
+
+Not pigment. Not the approximation of light that paint could manage on a good day. Actual light, the thing itself, the way it behaved when nothing was absorbing it.
+
+The first thing that came to him was a prism. Elementary school, a science demonstration, a teacher holding a triangular piece of glass up to the window and throwing a band of color across the wall. He hadn't thought about that in years. But the principle was there, sitting intact in his memory the way useful things tended to: white light enters, and what comes out the other side isn't white anymore. It's everything white was made of, spread apart, each wavelength bent at a slightly different angle by the glass.
+
+Refraction. The colors were always there inside the light. The prism just gave them room to separate.
+
+He started sketching.
+
+The first prism took him thirty seconds to draw. Clean equilateral triangle, precise angles, the geometry exact. He tore the page from the sketchbook and materialized it.
+
+He held it to the moonlight. The glass — if it was glass — was clear enough. He could see the moon through it, slightly distorted. But no spectrum or separation. Just a dull, bent smear of grey where the light passed through.
+
+He set it down and looked at it.
+
+Right. A shape wasn't enough. He'd drawn a triangle of glass. But a prism wasn't just its geometry — it was its material. The whole mechanism depended on the refractive index of the medium, the degree to which the glass slowed light down and bent it. Different materials bent light differently. That was why diamond sparkled the way it did and window glass didn't.
+
+He didn't know the refractive index of whatever material his system defaulted to when he drew something transparent. Apparently it wasn't high enough.
+
+He turned to a fresh page.
+
+This time he drew more carefully, increasing the shading. He tried to imagine optical glass — the kind used in lenses and scientific instruments, not window glass, not bottle glass. Thicker on the sides, thinner on the middle.
+
+He materialized it.
+
+This one was better. He could see it immediately — a faint iridescence at the edges where the moonlight caught the exit face, colors beginning to separate. A thin band of color fell across the back of his hand. Faint, incomplete, the violet end washing out before it fully resolved. But it was there.
+
+He went back to the desk.
+
+The angle was wrong. He knew that from the textbook diagram, half-remembered. A prism worked best when the light entered at a specific angle relative to the face, the angle of minimum deviation, where the path through the glass was symmetrical and the separation was cleanest. He'd been holding it flat, letting the light hit it straight on. That wasn't right.
+
+Third attempt. Same material specification, but this time he changed the geometry itself. The equilateral triangle had been the obvious starting point, sixty degree angles on all three sides, the shape everyone pictured when they thought of a prism. But sixty degrees wasn't optimal. It was just familiar.
+
+He thought about what he actually needed. The light was entering from a fixed direction, the moon. He couldn't control the angle of incidence by holding the prism differently every time. He needed a prism that worked at normal incidence, one whose geometry was designed so that light entering perpendicular to the first face would automatically hit the second face at exactly the right angle to produce maximum dispersion.
+
+He tried to remember from his physics lesson. He had to calculate that angle once. He couldn’t recall the details now, but he knew the answer. For optical glass with a refractive index around 1.5, that meant he needed the angle closer to thirty degrees. A sharper prism. More like a wedge than a triangle.
+
+He redrew it. Steeper. The entry face nearly vertical, the apex coming to a shallower point at the top.
+
+He held it to the moon.
+
+The spectrum hit the wall clean and immediate. Red bleeds into orange into yellow into green, the blue and violet holding their edges at the far end without washing out. All six bands present, distinct, each one sitting in its own lane.
+
+He set it down with a satisfied smile.
+
+That was the shape. The prism worked. That was one problem solved.
+
+But splitting light was only half of it. A prism on its own just made a rainbow on the wall. That wasn't painting. That was decoration.
+
+He drew another one beside it, inverted, the apex pointing down. If you sent the separated colors back through a second prism oriented the right way, they recombined. You got white light again, the same as you started with. Newton had done it.
+
+So you could split and recombine. The colors existed discretely inside white light, independent and recoverable. Which meant, in theory, you could intercept them individually. Pull out just the frequency you wanted. Let the rest go.
+
+His smile widened. The possibilities were exciting.
+
+His palette had fifteen colors. A lot, but not infinitely many. What would happen if he bypassed the pigment entirely and worked with the light directly? He could create any color in existence. A true color and not just a painted approximation.
+
+He started drawing again.
+
+There are two ways to arrive at white. One is addition. One is the absence of subtraction. They look the same from the outside. They are not the same at all.
+
+—Color Theory 101

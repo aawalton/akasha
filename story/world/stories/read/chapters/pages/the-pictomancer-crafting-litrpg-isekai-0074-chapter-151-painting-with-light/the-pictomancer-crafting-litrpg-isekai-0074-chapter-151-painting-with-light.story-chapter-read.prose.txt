@@ -1,0 +1,139 @@
+He started with what he already had: the wedge prism that worked, and the inverted one that theoretically recombined. Two prisms, a spectrum between them. The question was what to put in the middle.
+
+He drew them both on a fresh page, positioned opposite each other, their apex angles facing inward. Then he stared at the gap he'd left between them and tried to think clearly about what filtration actually required.
+
+A filter wasn't complicated in principle. It was just an obstacle with a hole in it. Light went through the hole, everything else stopped. Simple enough if you were filtering particles. Trickier when what you were filtering was wavelength, when the thing you wanted to keep and the thing you wanted to block were the same stuff, just oscillating at different speeds.
+
+But that was exactly what the prism had already solved for him. After the first prism, the wavelengths weren't the same stuff anymore. They were spatially separated. Red was physically over there, violet was physically over here, and everything else was distributed in between along a predictable gradient. That was the whole point of dispersion. It turned a wavelength problem into a geometry problem.
+
+Which meant a filter was just a mask with a hole cut in the right position.
+
+He turned to a fresh page and drew a thin flat sheet metal panel. In the center he cut an aperture, a narrow slot five millimeters wide. He materialized it, held it in the spread spectrum coming off the first prism, and moved it slowly through the bands.
+
+Red. Orange. Yellow. Green. Blue. Violet.
+
+Each one isolated as he slid the panel across.
+
+He set the panel down and picked up his pencil again.
+
+The single-aperture mask was crude. It worked, but it was a blunt instrument — he could only select one band at a time, and the selection was approximate, dependent on how wide he cut the slot and how well he'd positioned it. He needed something better. Something that let him specify which frequencies passed and which ones didn't, with actual precision.
+
+He thought about it for a moment, then drew a second mask. This one had multiple apertures, five of them, spaced at intervals he calculated from the geometry of the dispersion. If the prism separated the spectrum across a known width, and he knew roughly where each color band fell in that spread, he could position the slots to intercept exactly the frequencies he wanted.
+
+He materialized it and held it in the spectrum.
+
+Three bands came through. Red, green, and a mix of something in the blue-violet range that wasn't quite either. He adjusted his mental geometry, tore the page, redrew the mask with the third aperture shifted slightly left.
+
+Materialized it.
+
+Red, green, blue. Clean separation, all three present simultaneously, each in its own slot.
+
+The additive primaries. The ones that combined to white.
+
+He exhaled slowly.
+
+Now the recombination stage. He positioned the inverted prism on the far side of the mask, its entry face aligned to catch all three beams as they came through. To hold everything in place, he improvised a simple bracket with a flat base and two vertical arms. The kind of bracket that was all too common in the labs. He slotted the prisms into the arms and held the mask between his fingers, adjusting angle until the beams hit the entry face at the right geometry.
+
+On the wall opposite, a point of white light appeared.
+
+Eureka. He’d done it. Generated light with his device. Three frequencies recombined into the signal they'd started from.
+
+He stared at it with a wide smile on his face.
+
+Then he tore a fresh page and started redesigning the bracket so his hands weren't part of the apparatus.
+
+The next version was fully self-contained. The base held both prisms at fixed angles, the mask slotted between them in a channel he'd designed so it could slide without disrupting the alignment. He added small set-screws to lock each component once positioned — he drew them as knurled heads, easy to turn by hand, because he didn't want to be hunting for tools in the dark every time he needed to adjust something.
+
+He materialized the whole assembly.
+
+It stood on its own on the desk, about the length of his forearm. He tilted it toward the window to catch the moonlight on the first prism's entry face.
+
+The white point appeared again on the wall, steady, without him touching it.
+
+He pulled the mask out of its channel, slid it sideways until only the single center aperture was active, and reseated it.
+
+Green. A single green point, exactly where the white one had been.
+
+He swapped it to the left aperture.
+
+Red.
+
+Right aperture.
+
+Blue.
+
+He set the mask back to the three-aperture configuration and looked at the white point again. Then he picked up his pencil and began sketching a fourth version, because the current mask system only gave him fixed positions. He already knew he was going to want the apertures adjustable. Each slot to be independently movable, sliding along a calibrated track so he could position it anywhere in the spectrum with precision rather than guesswork.
+
+The execution was another matter. He went through four iterations before he had something that satisfied him. A mask body machined from the same material as the bracket, three aperture slides sitting in parallel channels, each one controlled by a small thumbscrew on the side that advanced or retracted the slide by half a millimeter per turn.
+
+He materialized it and slotted it into the assembly.
+
+The thumbscrews turned smoothly. Each slide moved independently without disturbing the others. He ran the first aperture from one end of its channel to the other, watching the single point of colored light on the wall travel through the full spectrum — red bleeding into orange into yellow into green into blue into violet — and stop cleanly at each position without blurring into the adjacent frequency.
+
+He leaned back and admired his work.
+
+It was about the size of a shoe box. He set the apertures to the three-primary configuration. White point on the wall, steady.
+
+He picked it up and went outside.
+
+The courtyard was empty at this hour, the sky beginning to lighten at the eastern edge but the moon still up and strong. He set the device on the flat cap of the boundary wall and adjusted the angle until the entry face caught the moonlight cleanly. The white point reappeared on the stone across from him.
+
+He looked at it for a moment.
+
+Then he reached over and closed the center and right apertures, leaving only the left one open. He turned the thumbscrew slowly, walking the slide from its current position leftward through the scale until the point on the wall shifted from white to orange to a deep, saturated red.
+
+He tilted the device and swept it left — the point tracked cleanly, no lag. He drew a slow circle with the beam. The circle stayed, forming a ring of red light hanging where he'd traced it.
+
+He aimed at the center and filled it in. Slow passes, left to right, each pass deepening the color until the disc had real weight to it. Then he worked the perimeter in rings, slightly smaller with each pass, building implied volume the way you built form with hatching.
+
+The sphere assembled itself.
+
+[Red Fireball]
+
+Then it ignited. Explosively. The surface brighten, distorting the air around it with heat. The warmth reached his face. He took a step back.
+
+It was larger than anything he'd made with the brush.
+
+But it could be replicated with [Aerial Illustration]. No, this wasn’t utilizing the true potential of painting with light.
+
+The next part was harder. Replicating moonlight.
+
+Moonlight wasn't a single frequency. He'd known that going in. It was reflected sunlight, which meant it was broadband, the full visible spectrum present with certain wavelengths amplified and others attenuated by the lunar surface and the atmospheric path. The mages had called it moon ether because they'd given up trying to isolate it. He wasn't going to make the same mistake. He wasn't looking for a single wavelength. He was looking for a ratio.
+
+He opened all three apertures and began moving them.
+
+It took him twenty minutes of incremental adjustment, walking each slide in small steps, checking the output against the actual moonlight falling on the stone beside the device. He was trying to match color temperature, matching the particular quality of white that moonlight had, cooler than candle flame, bluer than sunlight, but not the flat blue-white of a cold overcast sky. Something in between, with a softness to it that he wasn't sure he could fully replicate.If he was limited to pigments, it might have been impossible to match the tones exactly. But with light, he had infinite possibilities.
+
+He got close. Closer than he expected.
+
+The point on the wall shifted from standard white to something with a slight blue-silver cast, the same quality of light that was falling everywhere around him. He checked it twice, moving his hand in and out of both light sources, comparing. The shadow his hand threw in the device's output beam matched the shadow it threw in the moonlight itself.
+
+Near enough.
+
+Now it was time to paint.
+
+[Moonlight Barrier]
+
+He raised the device and swept it in a long horizontal arc, painting a surface made of moonlight. The barrier materialized as a faint shimmer in the air. From straight on it was almost nothing, like a heat haze distortion in the air. He could only confirm it was there by looking obliquely where the moonlight caught it edges.
+
+He picked up a pebble and threw it at the center.
+
+It stopped, held at the surface for half a second like the air had briefly solidified, then dropped straight down.
+
+He threw another, harder.
+
+Same result. Success.
+
+The mages had spent months looking for the source of moon ether.
+
+He'd just needed the right aperture setting.
+
+[Quest Completed]
+
+Learn Moonlight Art
+
+Reward: 5 Certainty Points
+
+The mages named what they couldn't explain and called it understanding. He named what he could measure and called it a start
+
+—The Legendary Moonlight Artist
