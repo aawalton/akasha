@@ -1,0 +1,99 @@
+The gate to the ninth floor opened onto a precipice, a sheer drop into a cavern of such nightmarish scale that it felt less like a part of the mountain and more like a tear into another dimension. The ceiling was lost in an impenetrable, absolute darkness from which hung thousands of massive, crystalline stalactites, each the size of a siege tower. They glimmered faintly, catching the light from the open gateway behind us, appearing like the teeth in the maw of some impossibly large, sleeping titan. A faint, foul mist, heavy and cold, clung to the cavern floor far below, obscuring whatever horrors dwelled in the abyss and muffling all sound.
+
+The air itself felt wrong, thin and sharp. It was filled with a high-pitched, chittering shriek, a sound that grated on our audio sensors and sent a wave of dissonant static through our comms. The source was everywhere and nowhere, an omnipresent, nerve-shredding chorus.
+
+[ANALYSIS: Shadow Stalkers. Tier 2 Incorporeal Monsters. Capable of phasing through solid matter. Vulnerable to high-energy attacks during transition phase between corporeal and incorporeal states.]
+
+As Tes’s analysis flashed, the shrieks grew louder, more distinct. They began to flow from the very walls around us, misty, vaguely canine creatures with bodies of roiling black smoke and eyes that burned with a malevolent red light. They were phantoms, ghosts of predators born from the dungeon's dark dreams, and there were hundreds of them.
+
+“Hold the line!” I commanded, recognizing the immediate tactical crisis.
+
+Goliath stepped forward to meet the first wave, his massive fists raised. He swung, a blow that should have pulped the lead Stalker into mist. But his fist passed harmlessly through its smoky form as if it weren't there, the displaced air from his strike causing the creature's body to ripple like smoke in a breeze. The Stalker, in turn, lunged, its incorporeal jaws snapping shut on Goliath’s pauldron. There was no physical damage, no crunch of metal, but alarms blared across my HUD.
+
+[WARNING: UNIT GOLIATH. ENERGY DRAIN DETECTED. HOSTILE ENTITY IS BYPASSING ARMOR PLATING AND SIPHONING POWER DIRECTLY FROM INTERNAL CONDUITS.]
+
+The horror of the situation was immediate. Our greatest strength, Goliath’s impenetrable defense, was utterly useless. He was not a fortress to these things; he was a walking battery, a feast of pure energy. He roared in frustration, swatting at the creatures latched onto him, his hands passing through them again and again.
+
+Panic, cold and sharp, threatened to set in. Our primary strategy, the rock upon which all our tactics were built, had just been rendered obsolete.
+
+My mind raced, scrambling for a solution. “Nyx, fall back! They’re intangible!”
+
+“Not entirely,” her voice came back, tight and focused. “Watch.”
+
+A Stalker lunged at her. For a split second, just before it attacked, its form seemed to coalesce, becoming more solid, its red eyes glowing brighter as it manifested just enough to interact with the physical world. In that infinitesimal window, Nyx struck. Her energized blade flashed, not at the creature, but at a point just in front of it. The Stalker’s attack carried it directly into the path of her humming blade. The sound was not of tearing flesh, but of static discharge, a loud CRACKLE, and the creature evaporated with a piercing shriek.
+
+It was a window of opportunity, but one that was impossibly small.
+
+“The transition phase is 0.5 seconds,” Tes confirmed in my mind. “Exploiting it requires predictive targeting with a 99% margin of error.”
+
+We couldn't win this way. For every one Nyx managed to perfectly time, ten more swarmed Goliath, his power meter draining at an alarming rate. We were being bled dry.
+
+“New strategy,” I snapped, my mind seizing on the only viable alternative. “Nyx, you have a talent for shadow magic. Can you influence them? Anchor them?”
+
+“Influence, no. They’re too alien,” she replied, dodging another attack. “But anchor… maybe. It will be a severe drain.”
+
+“Do it. Goliath, defensive perimeter. Your shield. Not to block, but to herd. Use it as a solid wall. Keep them from surrounding me,” I ordered. “This fight is mine.”
+
+I took the lead. My Plasma Katana ignited, its stable, high-energy state the perfect counter to their incorporeal forms. As the Stalkers swarmed me, I became the center of a vortex of azure light. I didn't need to wait for their transition phase. My blade was pure energy. It didn’t cut their forms; it destabilized their very essence. I cleaved through their misty bodies, causing them to evaporate with piercing shrieks of static and ozone.
+
+Nyx knelt, placing her palms flat on the ground. Shadows, deeper and colder than the cavern’s natural gloom, flowed from her, spreading across the floor like spilled ink. The Stalkers that passed over them recoiled, their movements becoming sluggish, their forms flickering as her magic attempted to force them into a more solid state. It was working, but I could see the strain, the way her armor’s energy signature pulsed erratically.
+
+We fought our way across the narrow stone bridge that spanned the cavern, a desperate, grinding battle. Goliath was a mobile wall, his energy shield a glowing blue bulwark that channeled the swarming ghosts into the kill zone I created, his own power core now flashing critical warnings. Nyx was our anchor, her shadow magic buying us precious seconds with every step, her own reserves dwindling dangerously.
+
+We finally reached the far side, stumbling onto a wide, circular platform where the entrance to the tenth floor awaited. We were battered, not physically, but energetically. Our power reserves were lower than they had ever been. We had won, but the price was steep.
+
+And standing before the descending staircase, as if it had been waiting for us, was the dungeon’s second major guardian. It was a Dungeon Behemoth, a four-meter-tall brute of raw, unthinking power, its body a fusion of bulging muscle and a hide of jagged, crystalline growths. A Tier 4 monster. It saw our weakened state, our flickering power signatures, and it roared, a sound that shook the very foundations of the cavern.
+
+It charged. The platform trembled with its thundering footsteps.
+
+"Goliath, engage!" I commanded, my voice raw.
+
+The two titans met with a cataclysmic crash of metal on crystal. The Behemoth’s fists were like siege hammers, and for the first time, I heard the tortured groan of the Mark II’s armor plating as it dented and buckled under the raw, overwhelming force. But it held. Barely.
+
+This was it. A final, brutal test of strength when our energy was at its lowest. The dungeon was not just trying to kill us. It was trying to break us.
+
+The Dungeon Behemoth was a creature of pure, geological violence. It was less a living being and more a mobile earthquake, a juggernaut of muscle and crystalline plates animated by the dungeon’s raw, furious will. The platform shuddered with every thunderous impact as it hammered relentlessly against Goliath’s shield. Sparks, the size of fists, flew with each blow, a chaotic storm of kinetic energy and shattered crystal that illuminated the cavern in brief, violent flashes. The air was thick with the smell of pulverized stone and the sharp, electric tang of stressed energy fields.
+
+[STRUCTURAL INTEGRITY WARNING: UNIT GOLIATH. LEFT PAULDRON AT 74%. THORACIC PLATING AT 81%. MULTIPLE MICRO-FRACTURES DETECTED.]
+
+The warnings flashed across my HUD, a staccato rhythm of failure. Goliath was holding, but he was breaking. The steady, implacable advance we had maintained for nine floors was over. We were on the defensive, pinned down by a creature whose only tactic was overwhelming, apocalyptic force. Each blow echoed in the vast, dark space, a drumbeat counting down our dwindling chances.
+
+“Nyx, its legs! We need to slow it down!” I yelled over the din of battle.
+
+Nyx was already a blur of motion. She couldn't damage the creature’s main body, but its joints were a potential weakness. She darted in, a phantom of black steel, her energized blades leaving glowing trails in the dim light as she struck at the Behemoth’s knee. The impact produced a grating shriek of energy on crystal, but the armor held. She was like a hornet stinging a battleship. Annoying, but not a true threat to the beast.
+
+It backhanded her without even looking, a contemptuous, swatting motion. The blow caught her mid-thrust, and she was thrown across the platform, her armor scraping against the stone with a horrific screech of metal. She recovered quickly, but the dent in her side-plating was a stark, ugly reminder of the power we were facing.
+
+This was not a fight of tactics or intelligence. It was a brutal slugfest, a test of sheer grit and endurance, and we were losing. We were weakened, our power cores already drained from the battle with the Shadow Stalkers. The Behemoth, on the other hand, was fresh, a perfectly designed wrecking ball aimed at our most vulnerable moment.
+
+Brother, its core is unstable, Kaelus’s voice was a sharp, urgent thought in my mind. Too much power, not enough control. The crystal on its back… it’s a flaw.
+
+My eyes snapped to the creature’s back. Embedded between its massive shoulder blades was a single, pulsating shard of raw, unrefined mana crystal, glowing with a furious red light. It was the source of its power, but it was also exposed. A vulnerability. But getting to it while it was locked in a life-or-death struggle with Goliath was impossible. We needed an opening.
+
+"We create one," I said aloud, my voice a hard, determined growl. I looked up. The cavern ceiling was a forest of massive crystalline stalactites, silent, ancient witnesses to our struggle. A plan, desperate and dangerous, formed in my mind.
+
+“Nyx, get ready to move. Goliath, on my command, I need everything you have in one final push!”
+
+I engaged my thrusters, rocketing upward. The Behemoth, its primitive intelligence entirely focused on the giant metal man in front of it, didn't even notice. I landed on the side of one of the massive stalactites hanging directly above the battle, my boots magnetizing to the crystalline surface with a solid thunk. The view from here was terrifying. Goliath looked small, an anvil being hammered into dust.
+
+“Now, Goliath!” I projected over the comms.
+
+Bob understood instantly. He dropped his defensive stance. He stopped trying to absorb the blows and instead channeled all his automaton’s remaining power into its legs and torso. As the Behemoth’s next punch came in, Goliath didn’t block. He met it head-on, not with a punch of his own, but with a single, piston-like shove that put every ounce of his machine’s weight and power behind it.
+
+The Behemoth, unprepared for the sudden, explosive counter-pressure, stumbled forward one single, jarring step.
+
+It was all the opening I needed.
+
+I pushed off from the stalactite, angling my descent into a controlled fall. I was a spear, a missile of dark blue steel aimed at the beast’s exposed back. I landed on its shoulders with a heavy crash, my boots magnetizing to its crystalline hide. It roared in fury and confusion, trying to buck me off.
+
+My Plasma Katana was already in a two-handed grip. I plunged it deep into the pulsating red crystal, pouring every ounce of the weapon’s output into the strike.
+
+The effect was not an explosion. It was a catastrophic, uncontrolled energy release. The azure of my blade met the furious red of the crystal, and the two energies reacted violently. The Behemoth’s body went rigid, its muscles locking as its own power source turned against it. Cracks of pure, white-hot energy spread from the crystal across its entire body like a web of lightning. It gave one final, choked roar, a sound that was half agony and half disbelief, before its massive body went limp and crashed to the floor, shaking the entire platform.
+
+I stood on the corpse, retracting my blade, the smell of burnt crystal and ozone thick in the air. My retainers formed up beside me, their armor visibly dented and scarred, their movements sluggish. We were breathing heavily, the recycled air in our helmets tasting stale.
+
+The illusion of an easy run, of our own invincibility, was completely and utterly shattered. We had won, but for the first time, we felt the cost.
+
+Before us, another massive stone staircase spiraled down into an even deeper, more profound abyss.
+
+Ten floors cleared. Twenty to go. And the dungeon was only getting stronger.

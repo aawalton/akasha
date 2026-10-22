@@ -1,0 +1,59 @@
+Bob / Goliath
+
+The world outside the Mark II’s viewport was a smear of rust-colored rock and violet sky, but the world I saw was a grid of glowing green lines. My HUD overlaid a wireframe schematic of the Deadvein Canyons onto my vision, rendering the terrain in sterile, tactical geometry. To the left, a vertical bar graph showed my power core at a steady ninety-eight percent, the number humming with a low, almost subliminal frequency. Sixty-seven crimson diamonds pulsed across the schematic, each one a target, each one a life. My system tagged them automatically. Threat Level: Minor. Classification: Demonic Infantry.
+
+They weren’t soldiers. They weren’t people. They were entries on a list.
+
+“Goliath, lead the charge. Nyx, take the high ground, eliminate their casters. Legion units, follow my lead. Eradicate all hostiles.” The Lord’s voice, piped directly into my helmet through our private comms, was the same as always: a flat, metallic instrument of command. He spoke with the cold precision of the machines he had created.
+
+I sent the affirmative with a thought, a practiced neural impulse that registered as a faint green checkmark in the corner of my vision. The Mark II Power Armor I piloted—my shell, my weapon, my cage—responded instantly. With a deep groan of stressed hydraulics and the whine of powerful servos, the machine lurched forward. Each footfall sent a tremor through the ground, the crunch of volcanic glass under twelve tons of alloy the loudest sound in the canyon. Behind me, the fifty Mark IV Automata of the Seventh Legion fanned out, their movements perfectly synchronized, a river of silent, black steel.
+
+The words of my oath surfaced, unbidden. To shield the innocent. To stand against the darkness. To be the sword and shield of House Wight. I could almost feel the weight of the dragonbone sword in my hand, the rough texture of its hilt, the chill of the steel on the day I swore my life to the Young Lord's father.
+
+The ambush came with a roar that was more animal than person. From behind a scree of loose rock, the first wave of demons scrambled into view. Their skin was the color of dried blood, their bodies knotted with muscle and bone spurs. They brandished crude axes chipped from obsidian and clubs that were little more than uprooted, petrified trees. My HUD immediately painted them with targeting reticles, prioritizing the largest ones first.
+
+I felt a cold clenching in my gut, the old instinct of a knight facing a charge, the urge to brace my shield. But the machine I wore had no shield, only weapons. My right arm, heavy and alien, lifted without a conscious command, the motion smooth and programmed. The multi-barrel plasma cannon integrated into the forearm whined as it charged, the air around it shimmering with heat. My finger depressed the trigger stud.
+
+A torrent of azure energy bolts erupted from the cannon. The sound was a deafening, overlapping series of cracks, like lightning striking the same spot a dozen times. The lead demon and the cluster around it simply vanished in a flash of incandescent white light that left shimmering afterimages burned onto my optical sensors. The air filled with the smell of ozone and cooked meat. The Automata behind me raised their own rifles, and a single, unified volley of plasma fire tore through the remaining demons, their guttural war cries replaced by the high-pitched squeal of superheated air and vaporizing flesh.
+
+This was pacification. This was the Cobalt War. A demon chieftain named Grolnok, the last one in this sector, had refused to cede his territory. The territory’s value was calculated on a data slate in the Obsidian Fang: it contained a vein of cobalt ore essential for reinforcing the plating of the next generation of Automata. Grolnok and his tribe had been reclassified from a sovereign nuisance to a resource impediment. My mission was to remove the impediment.
+
+I was no longer a knight defending the realm. I was a geological survey tool with a plasma cannon.
+
+We pushed deeper. The demons broke, their charge turning into a panicked rout. I advanced, my machine’s fists pulverizing their crude barricades of rock and sharpened wood into splinters. High on the canyon rim, I caught glimpses of Nyx. She moved between the demon shamans, a black phantom against the violet sky. A shaman would begin to chant, hands glowing with foul green energy; then Nyx would be there, a flash of silver as her energized blades sliced through its throat. The chant would die in a wet gurgle. It wasn't a fight. It was a culling.
+
+A sour taste rose in the back of my throat. I swallowed, the acid burning. I remembered fighting alongside the Young Lord’s father, back when the Dragon Knights of Wight were the pride of the kingdom. We’d fought orcs on the northern border, defended caravans from bandits, and once, driven off a rogue griffin that was preying on shepherd’s flocks. Every life we took was a weight, a heavy price paid for the safety of others. I could look a farmer in the eye and tell him his family was safe because of what we’d done.
+
+Here, there was no one to save. We were clearing an asset column for an efficiency report.
+
+The stronghold at the canyon's dead end was a crude fortress carved into the rock, its gate a reinforced wall of petrified logs. Grolnok stood before it, a four-armed demon twice my height, roaring his defiance into the wind. His body was a tapestry of old scars, his tusks yellowed with age. He was a king standing before the ruins of his kingdom.
+
+I saw them then, framed in the dark doorway of a hut behind him. Two small demonic children, their forms thin and frail. Their faces were pale with a terror so absolute it felt like a physical blow. Their large, black eyes were fixed on the approaching wall of silent machines. One of them, the smaller of the two, clutched a crudely carved doll made of bone.
+
+My HUD drew a box around the chieftain. Text scrolled beside it: THREAT: MODERATE. CLASSIFICATION: CLAN CHIEFTAIN. RECOMMEND NEUTRALIZATION. The children remained untagged, just part of the background scenery, as significant as the rocks they stood on. Strategically irrelevant.
+
+The words of my oath felt like a brand on my soul. To shield the innocent.
+
+Grolnok let out a final, desperate roar and charged, not at the legion, but directly at me, the leader. He was a father trying to buy his children seconds with his life. My targeting system held a perfect lock on the center of his mass. My finger rested on the trigger stud. The faces of the children were superimposed over my tactical display, their wide, terrified eyes blurring the green lines of the wireframe. I saw a flash of another face—Lyra Wight, her expression painted with a child’s playful grin. Then another—my younger brother, George, his hand gripping the wooden sword I’d carved for him the day I left to join the knighthood.
+
+My hand, the real one inside the gauntlet, spasmed. The muscles refused to contract.
+
+For 1.2 seconds, I was paralyzed, a knight’s soul screaming inside a killer’s body, the neural interface refusing my command to fire.
+
+A crimson warning icon flared to life on my display. TACTICAL HESITATION DETECTED. PERFORMANCE DEVIATION: 97%.
+
+Before I could override the internal conflict, a black shape slid into my peripheral vision. It was Unit 7-14, one of the Mark IVs from my legion. Its programming, unburdened by memory or morality, had registered my lack of action as a systemic error. It had processed the variables and identified the most efficient path to mission completion.
+
+Its plasma rifle discharged with a sharp crack. A single, precise bolt of azure energy crossed the distance in a heartbeat.
+
+Grolnok’s charge stopped mid-stride. He stumbled, a smoking, cauterized hole burned clean through his chest plate of bone. His defiant roar choked off into a wet rattle. He collapsed with a heavy, final thud, his dead eyes staring towards the hut where his children were watching.
+
+The Mark IV swiveled its optical sensor, a single glowing blue lens, and looked at me for exactly 0.8 seconds. There was no judgment in its gaze. No malice. There was nothing. It was the diagnostic stare of a machine that had just bypassed a faulty component. Then it turned and resumed its designated scanning pattern.
+
+The battle was over. The last red diamond on my map faded to black. A burst of static preceded the Lord’s voice in my ear. “Well done, Goliath. The cobalt is ours. Have the engineers begin extraction.”
+
+I did not respond. His words were a confirmation of what I already knew. The Young Lord wasn't seeing this. Not the way I was. He saw a red icon vanish from a tactical map, a resource node secured. He couldn't see the two small, terrified faces in the doorway of that hut. If I were to transmit that visual, to show him that the "Clan Chieftain" was a father, what would that do to the boy still buried under all that armor and command? He had already lost one family. The thought solidified into a new, grim purpose. It was my duty to shield him not just from enemy blades, but from this. From the visceral, gut-wrenching truth of what his war of numbers was costing in flesh and blood. He had to remain the architect, the mind in the mountain. I would be the hand, stained with the reality of the work.
+
+The sound of children weeping finally broke through, a thin, desolate wail that my audio processors could not filter out. What would George think of the hero I had become? A silent giant who stood by as a machine murdered a father in front of his children, all for a vein of blue metal in a rock. He would see not a hero, but a coward hiding in a shell.
+
+I looked down at my massive, gauntleted hand, the one that had frozen. I was a Dragon Knight of Wight. The last one. And I had just abdicated my duty to a machine because I no longer had the stomach for it. The hum of the suit’s life support systems, the quiet hiss of the oxygen recycler, had never felt so confining. This wasn't armor anymore. It was a coffin, and the man my brother once looked up to was being buried alive inside it.
