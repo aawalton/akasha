@@ -1,7 +1,7 @@
 import {
   type SubagentPage,
   seatPageAt,
-  subagentPagesStanding,
+  subagentPagesHeld,
 } from "akasha/agent/modules/page-reading/agent-page-reading.module.code.ts"
 import {
   type ForestRow,
@@ -40,7 +40,7 @@ export const NOW: Reading = {
   turn: seatTurnStateOf,
   color: colorOfState,
   pageAt: seatPageAt,
-  subagents: subagentPagesStanding,
+  subagents: subagentPagesHeld,
 }
 
 export function forestOver(repo: string, reading: Reading): ForestSaid {

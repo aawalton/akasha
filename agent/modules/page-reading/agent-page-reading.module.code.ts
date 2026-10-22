@@ -41,7 +41,7 @@ export interface SubagentPage {
   readonly stopped?: boolean
 }
 
-export function subagentPagesStanding(root: string): readonly SubagentPage[] {
+export function subagentPagesHeld(root: string): readonly SubagentPage[] {
   const found: SubagentPage[] = []
   for (const listed of everyOfType(root, SUBAGENT)) {
     const held = declaredAt(listed.path, root)

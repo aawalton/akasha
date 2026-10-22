@@ -1,18 +1,25 @@
 import { expect, test } from "bun:test"
-import type { SubagentPage } from "akasha/agent/modules/page-reading/agent-page-reading.module.code.ts"
-import type { ForestRow } from "akasha/agent/seat/fleet/modules/seat-forest/seat-forest.module.code.ts"
+import {
+  type SubagentPage,
+  seatPageAt,
+  subagentPagesHeld,
+} from "akasha/agent/modules/page-reading/agent-page-reading.module.code.ts"
+import {
+  type ForestRow,
+  readSeatForest,
+} from "akasha/agent/seat/fleet/modules/seat-forest/seat-forest.module.code.ts"
 import {
   type ForestSaid,
   forestOver,
   NOW,
   type Reading,
 } from "akasha/agent/seat/fleet/modules/seat-forest-reading/seat-forest-reading.module.code.ts"
-import {
-  SEAT_TURN_STATES,
-  type SeatTurnReading,
-  type SeatTurnState,
+import { colorOfState } from "akasha/agent/seat/observation/seat-turn/modules/color/seat-turn-color.module.code.ts"
+import type {
+  SeatTurnReading,
+  SeatTurnState,
 } from "akasha/agent/seat/observation/seat-turn/modules/reading/seat-turn-reading.computed-property-module.code.ts"
-import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { seatTurnStateOf } from "akasha/agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"
 
 const ASTRA: ForestRow = {
   id: "01a00000-0000-7000-8000-00000000000a",
@@ -158,16 +165,10 @@ test("a forest that cannot be read throws rather than reading as no seat at all"
   expect(() => forestOver("/repo", held)).toThrow("no seat page akasha holds could be read")
 })
 
-test("the fleet the checkout holds now reads every row with a state and a page", () => {
-  const said = forestOver(akashaRoot(), NOW)
-
-  expect(said.repo).toBe(akashaRoot())
-  for (const one of said.rows) {
-    expect(typeof one.id).toBe("string")
-    expect(typeof one.live).toBe("boolean")
-    expect(SEAT_TURN_STATES).toContain(one.state)
-    expect(Object.hasOwn(one, "waitingOn")).toBe(true)
-    expect(Object.hasOwn(one, "color")).toBe(true)
-    expect(Object.hasOwn(one, "at")).toBe(true)
-  }
+test("the fleet now is read through the real forest, turn, color, page and subagent readers", () => {
+  expect(NOW.forest).toBe(readSeatForest)
+  expect(NOW.turn).toBe(seatTurnStateOf)
+  expect(NOW.color).toBe(colorOfState)
+  expect(NOW.pageAt).toBe(seatPageAt)
+  expect(NOW.subagents).toBe(subagentPagesHeld)
 })

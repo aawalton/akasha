@@ -27,7 +27,6 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/declaration/modules/seat-running/seat-running.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/declaration/modules/seat-stated-identity/seat-stated-identity.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/declaration/modules/seat-whoami/seat-whoami.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/fleet/modules/seat-forest-reading/seat-forest-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/fleet/modules/seat-forest/seat-forest.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/fleet/modules/seat-roster/seat-roster.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts","typed":false,"deferred":false}
