@@ -1,0 +1,227 @@
+After catching the cloudfin herring, it seemed Adam’s fortune had turned, because he quickly caught a second, and then a third. After that, he didn’t get anything for over half an hour, so he decided to relocate to the western edge near the market, where he caught his first cloudfin trout.
+
+< < Collectible Relic > >
+
+< Cloudfin Trout (Uncommon) — An airborne fish known to swim through the clouds, eating the bugs and tiny fish contained within >
+
+After that he caught a cloud lobster, which had a very light and translucent body, with narrow blade-like pincers and a sail-like tail on its flexible carapace.
+
+< < Collectible Relic > >
+
+< Cloud Lobster (Rare) — A rare crustacean that swims through the skies, using its lightweight body and powerful sailfin to leap between clouds in search of food and mates >
+
+Adam managed to catch another trout before the sun fully set, and he now had more than enough to sell in order to buy the upgrades he needed to evolve. He still needed to use his challenge stone afterwards and he wanted to do more training with shaping his slime body, but he was glad that his time spent fishing had been fruitful.
+
+Part of him had been hoping to catch something like the legendary blue vein spirit that Beck had caught, because it had given him a boost to his luck for free, but Beck had said it took three days to catch, and that was despite knowing the river it swam in. Adam had no such intel on any super rare fish swimming around in the clouds below Interim.
+
+When he went to find Fisher by the pond near his house, she wasn’t anywhere to be seen, and he ended up wasting half an hour searching the island for her in the dark, before finding her behind the dimensional tavern, fighting with a tree that her fishing line had gotten stuck in.
+
+Adam melted the branches with his slime hand to free her fishing rod and then sold his catches to her.
+
+< < Fish Sold > >
+
+< Cloud Lobster (Rare) >
+
+< Cloudfin Herring (Rare) x2 >
+
+< Cloudfin Trout (Uncommon) x2 >
+
+< 8090 Points Remaining >
+
+With finally enough points to buy 29 upgrades and hit level sixty to evolve again, Adam ran to the market, using his fish boots and night moth’s bracelet to cover the distance in no time at all, before landing in front of Karie’s stall.
+
+But then he drew up short.
+
+Shit… I forgot about the twenty-five-upgrades limit between stages.
+
+Adam clutched his head, frustrated with himself for forgetting such a simple thing. All his work had been for nothing…
+
+[No need to despair, Adam. I have temporarily rescinded the limit on your behalf. It will return once you have completed our goal.]
+
+Setting aside the fact that Parvillo could somehow read his thoughts, Adam felt so thankful that he tried to reach out and hug the floating eldritch nightmare cube, but Parvillo zipped out of the way with ease.
+
+[Stop that.]
+
+“I know you don’t really give a shit about me, but I still appreciate that. Would’ve been a real bummer if I couldn’t buy all the upgrades I needed.”
+
+He turned to Karie and started going through the options, one after the next.
+
+< < General Upgrades Purchased > >
+
+< Bleed (Epic) >
+
+< Bleed (Legendary) >
+
+< Crush (Epic) x2 >
+
+< Crush (Legendary) x2 >
+
+< Damage (Epic) x7 >
+
+< Damage (Legendary) >
+
+< Dodge (Epic) x2 >
+
+< Dodge (Legendary) >
+
+< Force (Epic) >
+
+< Force (Legendary) x2 >
+
+< Luck (Legendary) >
+
+< Movement (Epic) x6 >
+
+< Movement (Legendary) >
+
+< Venom (Legendary) >
+
+< 260 Points Remaining >
+
+After the upgrades, Adam’s new stats were quite impressive. He’d managed to get both damage and speed to 900%, and his luck was now over one-hundred, so he should hopefully get to see a divine relic in stage three, not to mention obtaining divine upgrades, which were going to be absurdly powerful. The percentage on dodge confused him at first, until he remembered that it worked by the first upgrade determining the base value and then every subsequent upgrade adding to it multiplicatively, meaning his first upgrade of 25% was increased by 25% and then the result was increased by the same again, before finally being increased by 50% and then having its final value boosted by the 20% from the glass tree.
+
+< < Player Status > >
+
+< Adam >
+
+< Leering Prankster >
+
+< Level 60 >
+
+< Stats >
+
+< Health — 180 () [+30] >
+
+< Stamina — 252 () [+42] >
+
+< Mana — 31 () [+6] >
+
+< Damage — 900% (+450%) [+150%] >
+
+< Defence — 90% () [+15%] >
+
+< Dodge — 71% (+59%) [+12%] >
+
+< Speed — 900% (+550%) [+150%] >
+
+< Luck — 102 (+60) [+17] >
+
+[ Modifiers ]
+
+< Glass Tree +20% >
+
+< < Upgrades > >
+
+< Bleed 120% (+100%) [+20%] >
+
+< Crush 270% (+225%) [+45%] >
+
+< Force 180% (+150%) [+30%] >
+
+< Venom 90% (+75%) [+15%] >
+
+Adam’s body started to glow like a golden neon lamp and Parvillo made the familiar announcement, [Your Fool Class has reached Level 60. At Level 60, your Fool Class can be evolved in one of three possible directions.]
+
+I wonder what I’ll get this time.
+
+The holograms that appeared in front of Parvillo were three new versions of Adam. The first depicted a brown silhouette of him hiding out of sight of a trap, giggling in anticipation; the second was a green triumphant version of him in overalls with a shiny cube in his hands; and the last was a purple version of him in a vest and pointed hat giving the finger to a pile of bones.
+
+These images are so odd…
+
+< < Select an Evolution > >
+
+< Giggling Trapper — Receive two Bear Trap Relics. The first time a trap is triggered on a unique target gain 100 points >
+
+< Jubilant Crafter — All Relic fusions are flawless and contain a bonus effect >
+
+< Obscene Hunter — When a Relic successfully contributes to killing a Player or Boss target, reset its cooldown >
+
+Just like last time, Adam was stumped by the choices. He went over to the fountain and sat on its edge to think. Parvillo followed after him with the three holograms floating in front of his main eye.
+
+The Trapper immediately caught my attention, just because I can foresee it being incredibly good against other players, but also because it’ll let me farm points, which I definitely need. There’s also nothing about being required to actually kill or harm anyone hit by a trap, so perhaps I can trigger it on friendly targets too, depending on how broadly the ‘trap’ word is applied.
+
+“When it says ‘trap’, does that mean anything that can be considered a trap, even if I make it with my bare hands?” Adam asked.
+
+[Yes.]
+
+Awesome.
+
+Adam still remembered the description of the bear trap relic, which normally came with the Huntsman evolution of Woodsman.
+
+< < Relic > >
+
+< Bear Trap (Common) — Inflicts 100% Player damage to anyone who triggers the trap, along with the Trapped affliction, marking the target until their health is restored to full. 2-minute cooldown >
+
+Two of these at my disposal would be awesome, and since they deliver player damage and all my afflictions, they'll likely be able to one-shot anything until stage seven. And depending on how they’re deployed, getting a barrage glove might make it possible to duplicate them, if they are considered a projectile mid-flight at least. If only I had the Ghost evolution, I’d be able to do a lot of shenanigans. Parvillo might even let me get away with it too.
+
+Jubilant Crafter was a bit of a wildcard, since it required the ability to fuse relics, which meant Adam needed a conjuring stone, either a legendary one or the ‘cracked’ epic version.
+
+“A ‘flawless’ fusion is what, exactly?”
+
+[A Flawless Fusion means that, even if you utilise a Cracked Conjuring Stone, any Fusion Relic made as a result will not have a weakness.]
+
+That’s pretty good.
+
+“The bonus effect, is it relevant to the relics I combine or random?”
+
+[Bonus effects will be thematically relevant.]
+
+Crafter would rely on a lot more planning and point investment, but could produce some truly busted combinations, especially if I use a legendary conjuring stone.
+
+Obscene Hunter is similar to Leering Prankster which I picked last time, but depending on what counts as a boss and what is considered ‘contribution’, it could be a lot more powerful, though it’ll require good timing and forethought to utilise effectively.
+
+“For the Hunter evolution, what exactly is considered a boss? Do mini bosses count? Would a second-generation bloodfiend count, for example?”
+
+[Yes. Bosses that count are enemies that present an above-average challenge to defeat. So-called ‘mini bosses’.]
+
+“And what is considered contribution to a kill? If I use my bracelet to teleport behind a target before I kill it, does it count as contributing?”
+
+[Correct.]
+
+Adam scratched the bottom of his featureless head with his shapeshifter’s claw.
+
+This is a tough one.
+
+I really like the idea of using relic fusions to get powerful relics, but I don’t actually need to pick Crafter to be able to do that.
+
+I’m also wondering if it’s possible to use a relic renewal stone to make it so a legendary conjuring stone doesn’t break on use, and then recharging it with my Leering Prankster skill. If that’d work, then I’d just need to buy one and could craft as many fusion relics as I want, without having to worry about making cracked relics.
+
+Hunter is also just a bit too complicated to pull off effectively, and trying to satisfy its requirements to reset my relics could end up making me act recklessly. Not to mention, while it’s not as powerful, Prankster’s skill basically does the same thing.
+
+Adam grinned to himself.
+
+In truth, I just really want to use bear traps.
+
+“I’m selecting Giggling Trapper.”
+
+< < Evolution Selected > >
+
+< Leering Prankster => Giggling Trapper >
+
+< < Mastery Shard Obtained > >
+
+Two miniature bear traps appeared on Adam’s waist, hanging from a simple black belt.
+
+Putting a belt on a slime is like tying a bow on a marshmallow… Adam mused, looking down at how his mid-section bulged weirdly thanks to the awkward addition.
+
+[Your eyes are now brown.]
+
+Adam shook his head with a smile. “Is it really that important to point out?”
+
+[No. I simply thought you would find it funny, as you have no eyes.]
+
+“Joking about my disability, huh? That’s pretty dark.”
+
+[Your disability is self-inflicted and you are still able to see. I also fail to understand what darkness has to do with joking.]
+
+“I’m not explaining that. You armed with dark humour is the last thing I need. It’d be like an executioner making fun of the person they’re about to behead.”
+
+[I do not handle Player executions,] Parvillo remarked.
+
+“You’re just ‘following orders’, right?”
+
+[No. I enjoy what I do.]
+
+Adam was so wrongfooted and surprised by the response that he immediately broke out into laughter.
+
+Of course the murder cube enjoys murdering.

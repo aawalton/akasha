@@ -182,6 +182,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/shardrune-universe/shardrune-universe.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/sherly-the-most-virtuous-holy-cow/sherly-the-most-virtuous-holy-cow.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/sigiljack-sci-fantasy-cyberpunk-litrpg-just-hit/sigiljack-sci-fantasy-cyberpunk-litrpg-just-hit.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/skill-emperor-stubbed/skill-emperor-stubbed.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/skillcard-economy-dungeon-delving-skillmerging/skillcard-economy-dungeon-delving-skillmerging.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/somnia-online/somnia-online.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/soul-guardian/soul-guardian.world.ts","typed":true,"deferred":false}
@@ -235,6 +236,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-spirit-smith-isekai-litrpg-crafting-spirit/the-spirit-smith-isekai-litrpg-crafting-spirit.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-stubborn-skill-grinder-in-a-time-loop-book/the-stubborn-skill-grinder-in-a-time-loop-book.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-system-apocalypse/the-system-apocalypse.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-undying-starter-pack-a-necromancer-litrpg/the-undying-starter-pack-a-necromancer-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-unexpected-engagement-of-the-marvelous-mr/the-unexpected-engagement-of-the-marvelous-mr.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-wandering-inn/the-wandering-inn.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-way-of-the-shaman/the-way-of-the-shaman.world.ts","typed":true,"deferred":false}

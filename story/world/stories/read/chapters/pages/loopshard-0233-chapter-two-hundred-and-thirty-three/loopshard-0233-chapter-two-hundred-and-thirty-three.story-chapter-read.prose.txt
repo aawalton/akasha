@@ -1,0 +1,165 @@
+As Beck and Adam entered the player house, Adam asked his cube to put down a doorstopper so that Kat would be able to get in later.
+
+[If you would like to enable visitors to enter your Player House, simply giving them permission will suffice. A visitor without permission will not be able to enter the Player House, even if the door is left open.]
+
+Weird.
+
+“I give them both permission to enter,” Adam said.
+
+[Understood.]
+
+“You didn’t try that to begin with??” Beck asked.
+
+Adam shrugged, his mind still racing with the possibilities of the new exploit. He wanted to see if he could also duplicate weapons and give them special effects like the ghostly barrage glove he’d snuck by the cubes. Although, testing it without one of the moth’s time-stopping powers was clearly a bad idea, so he made sure to act casual, such that it didn’t look like he was actively trying to do the exploit.
+
+He pulled the golden nail weapon out of his weapon saving chest and inserted the Bulwark and Defender weapons in its place, which took up the four available slots.
+
+< < Weapon Saving Activated > >
+
+< 2 items >
+
+< Tainted Bulwark (Rare) >
+
+< Defender (Common) >
+
+Although the golden nail was a magical weapon and thus dangerous for him to use, it was the perfect size and shape to be thrown. So, Adam grabbed it, ignored the question of whether he wanted to equip it in place of his Ghost Class, and tossed it into the air.
+
+Sadly, nothing happened.
+
+“Damn,” Beck muttered from where he’d been watching.
+
+Fortunately, his cube did not make a peep.
+
+Adam caught the nail as it came back down, placing it on the weapon rack.
+
+“I think I might want to evolve the Librarian’s spell-tome with the Warder’s,” Adam said. “Although that means I need 18,200 points.”
+
+“Why not just evolve the two sword and shield weapons you put in that chest?” Beck asked.
+
+“I’m saving them for a future loop. Since they’re not mana-based, I can use them without harming myself until I find a way to cure the ‘gift’ from the Flayed Lady. Plus, the Warder weapon is really powerful, so I’m actually quite curious about its evolutions.”
+
+“Good thing you’re selling your mantle then,” Beck replied.
+
+Adam sighed. He knew he’d be selling it, but a part of him still cringed at the idea.
+
+He hadn’t yet tried his build out properly, so he spent some time killing dummies under Beck’s supervision. Almost immediately he ran into the issue that Beck had mentioned, specifically the limits of the Ghost’s ability to bypass ‘all physical defences’. Slimes and other elementals’ bodies did not count for the effect, meaning there was no apparent difference between the normal projectiles and the ghostly ones when he hit them. For goblins who wore bone armour, the phantom kunai clones slipped right through, piercing the skin below. Adam thought that was the extent of the Ghost’s unique effect, but then Beck pointed out that walls could also be considered a physical defence. When Adam prompted the player house to place defensive walls around the dummy, he discovered that the phantom kunai passed right through them.
+
+“That’ll really make the lucky charm powerful,” Adam remarked after pulling off the trick a few times.
+
+Beck nodded, clearly satisfied that his theory was right. “It would really combo well with a crossbow,” he added.
+
+Adam continued through all of the enemies he’d fought up until this point. He didn’t face any that hard-countered his build, unlike when he’d used the Blood Mage Class, and his ability to use the mentalist’s locket to give a single command to each projectile made him able to pull off some interesting moves. Although the copies and clones of the kunai disappeared after hitting the target and delivering their damage, when Adam used the locket to pull the original kunai back to himself, it spawned the copies again, since it apparently counted as a ‘throw’ for the Ghost effect, and because the barrage gloves triggered on any projectile mid-air. This particular double attack was extremely effective when the main kunai pierced deep, because the clones would spawn inside the target, tearing their way out to great effect.
+
+The real test of his build, however, was how it fared against a slug dragon.
+
+Lasse had been able to use his build to make the massive boss monster explode with just a double blink.
+
+Adam’s ultimate combo of the lucky charm, two barrage gloves, and barrage master’s coat wasn’t quite as explosively destructive, but the 375 kunai they summoned were still more than enough to reduce the dragon to a husk of ruined fat and bone fragments.
+
+Given the way the order of relics worked, the first to take effect was the barrage master’s coat, which made 21 copies of the original kunai, at full damage. Then the two barrage gloves activated, each creating 62 copies, not counting the original kunai used by both. The normal glove had kunai that dealt a third of the original projectile’s damage, while the ghostly glove’s projectiles dealt a sixth. All of the 125 copies were then cloned by the Ghost’s effect, creating 250 phantom kunai that either dealt a sixth or a twelfth the damage of the projectile they had cloned, depending on whether they were created by the ghostly glove or the normal one.
+
+The result was much less powerful than Lasse’s, but in no way weak. The thing Lasse’s build had going for it though, was the fact that neither the Metallic Cascade fused evolution, the barrage skill from Archer, nor the barrage master’s coat reduced the damage of the projectiles they created. Meanwhile, Adam’s damage didn’t go up by a lot since the gloves either split the projectile damage across all the projectiles or even halved the damage in the case of the ghostly glove, while the Ghost merely doubled the damage of a projectile across its two additional clones.
+
+However, the bleed and venom inflicted by each projectile all stacked together thanks to the afflictionist’s corset, delivering two monster afflictions that would theoretically cause a massive explosion of blood many times the original damage when anything survived the initial attack and could be bled, though nothing had so far, not even the slug dragon.
+
+“I have no idea how much damage your kunai deals,” Beck started, “but if the original one deals 10, then the coat raises that to 210, the normal glove splits that across three times as many projectiles, and then the ghostly glove basically doubles that, but halves the damage, meaning you end up with maybe 300 damage in total? Actually, I’m not sure about the math there, since it’s hard to say which copies deal a third and which deal a sixth. Anyway, let’s just say it’s 300 damage. Then that’s basically doubled by the Ghost phantoms, putting it at 600 damage, meaning you have a 6,000% increase of damage.”
+
+“And then the 120% bleed on top of that, per second. But more than that, the bleeds stack because of my corset, so 375 stacks of 120% bleed afflictions means the boost is 45,000%, if the stacks are additive, resulting in the total damage being not 600, but actually 270,000. That’s a 2.7 million percent increase in damage. And that’s without factoring in the Assassin evolution of Backstabber that increases affliction effectiveness by 50%, and whether or not the silver armlet increases affliction damage too.”
+
+As Adam did the math, he wondered just how much he’d undervalued the corset’s affliction stacking power up until now. Unless he was somehow wrong. It was a possibility, since it was difficult to test accurately, and the cube would not provide him any damage statistics.
+
+“There’s no way that’s right,” Beck muttered. Although, as he ran through the math, he seemed to realise just how absurd the affliction stacking power might actually be. “If you used the mantle of atrophy with that, it would genuinely be insane,” he remarked. “But, you know, not a good survival strategy. Every stage from here on has several hard-to-avoid afflictions going forward, quite a few of which you might encounter in the Tower of Mirrors.”
+
+“It’s a moot point anyway,” Adam remarked. “If nothing survives the initial attack or can’t be bled, like the slug dragons, then there’s no way to test if the damage calculation is actually right.”
+
+“The chimaera boss can bleed,” Beck said with a grin. “And that bastard has a lot of health.”
+
+“More than six hundred?” Adam asked with a grin.
+
+Beck nodded.
+
+If I can make it to the top of the tower, even if I’m the lone survivor, I can definitely beat the boss with this.
+
+“But eh, one of its powers creates an antigravity effect that stops all projectiles, so you’ve gotta kill it before it can use that, seeing as your barrage coat has quite a long cooldown.”
+
+“Even without the coat’s effect, I can still use the mentalist’s locket to quickly double trigger fifteen kunai and build up thirty stacks of bleed, which is a 3,600% increase in initial damage,” Adam pointed out.
+
+Since they were unsure just how exactly the damage was calculated and how the corset of the afflictionist really stacked, they spent a while longer testing it and gauging the bleed’s first damage tick following the initial attack. Adam had to use the mentalist’s locket to selectively pick the number of projectiles to hit a target with, in order to avoid outright killing most of the dummies that he was actually able to test bleed afflictions on. After some initial tests, he ended up using the flesh golem from Alepheria’s Tower as the dummy target, since it had a lot of health.
+
+Unfortunately, Adam’s calculations for how the stacking effect of the corset worked had clearly been extremely optimistic. When he hit the golem with two projectiles instead of one, the bleed which should have dealt triple damage, since according to his theory it should be 2.4 times the damage added on top, only seemed to deal slightly more damage than from one stack.
+
+It somehow feels throttled… Adam thought after respawning the dummy and trying again with three, four, and five projectiles.
+
+The cube was, predictably, unwilling to explain how exactly the stacking worked. It was clear that increased stacks did raise the damage of each bleed tick, but it was neither additive nor multiplicative, instead something way weaker.
+
+“I think each stack might be only adding ten percent of the bleed effect on top,” Adam guessed. If he was right, it would take the initial guess from 45,000% to something like 4,600%, almost a tenth of his original estimate. That meant the damage from all 375 kunai hitting and delivering the bleed, if the kunai swarm’s damage was 600, would be 27,600 added on top. It was still a lot, and Adam genuinely doubted the System would allow such a massive stack of afflictions if it already was nerfing the base stacking power by as much as it seemed. Likely there was a cap or an increasingly oppressive nerf of the stacking power the higher the stack went. It would still be more damage overall than if he hadn’t had the afflictionist’s corset, but nowhere near the insane potential he’d dreamed up before they’d started testing.
+
+Adam sighed deeply.
+
+Just then Kat came into the player house.
+
+“Why are you still up here?” she asked.
+
+She’d clearly sold her gauntlets and gotten Duellist instead, since she had a rapier on her hip.
+
+“What’d you get?” Beck asked her.
+
+Adam recognised the weapon. It was silver and gold, and beautifully crafted. “It’s called Insightful Gentlewoman,” Kat said. “It allows me to predict my target’s next move after I have parried them, for a cost of twenty stamina.”
+
+“This is the weapon that Aeran used,” Adam realised.
+
+Kat nodded. “I was wondering why he was using it, since he never told me, but it seems very powerful. More so than the extra damage I would have gotten from Brawler. And it is not as if I have lost a lot of damage potential, since the first evolution, Scoundrel, grants double damage to hits made to the back of an enemy. The Aristocrat evolution of that also grants me extra damage if I ‘declare’ a duel, but something as simple as ‘fight me’ will work.”
+
+“Are you able to parry while transformed?” Adam asked.
+
+“It is easier than I thought, actually.”
+
+“New fear unlocked,” Beck muttered.
+
+She looked between them and the stains on the floor from their many experiments. “How is your build working?”
+
+“It’s powerful,” Adam answered. “But unfortunately, my corset is not as broken as I hoped.”
+
+“It would easily be the strongest relic in the Trials for many situations if it stacked additively,” Beck remarked.
+
+Kat wasn’t familiar with the relic, so Adam shared its description with her, and then explained the results of their tests.
+
+“That is a shame,” she said once he was done explaining. “But it still seems strong if you can kill a slug dragon. How does it fare against something like the Patriarch?”
+
+“His naturally strong body is a slight counter to it, but not by a lot, since I have quite a few penetration upgrades and can hit him with nearly four hundred kunai simultaneously,” Adam replied.
+
+“I want to try my new power against him,” Kat said, and Adam changed the dummy for her.
+
+She immediately transformed into her large Bloodfiend Matriarch form and leapt across the room, her right-hand claws zipping down the back of the dummy in passing, tearing it into two halves that split apart with ease.
+
+“That’s a scary build,” Beck remarked.
+
+“With the ability to predict how my opponents will move, I can easily get around them to strike their backs,” she said.
+
+Adam grinned, agreeing with Beck’s assessment. Kat had gotten quite strong in her own right, but unlike Lasse and Adam’s builds, hers was much more unassuming until she transformed into a monstrous being, and even then there was a surprise to be had in the fact that she could parry with her claws. It was sure to put anyone on the backfoot.
+
+“Let’s go get some food and kill some baddies,” Beck said and they finally went downstairs to the basement restaurant.
+
+Since it was night on Interim Island, the place was filled with the four special denizens Adam had unlocked, as well as Weaver, Belamouranthe, Tisa, Yenna, and Charlie.
+
+Finnian was slurping down a massive bowl of noodles with four empty bowls stacked next to it, while Migraine and Sylvia sat atop his large blob-like body as though he was a sofa, each tending to their own bowls. It looked like they were eating ramen.
+
+Sprite was by himself on the floor in a corner, having somehow snuck in despite Adam’s ban. He was surrounded by bottles and looked to be making cocktails.
+
+“Don’t drink those,” Beck warned them, following Adam’s gaze. “That little maniac gave me something that inverted all the colours I saw, last time I tried one.”
+
+“Apparently he’ll be quite useful once his quest is complete,” Adam remarked. “With Meilo unlocked, it might be a lot easier to brew potions.”
+
+“Like that ‘Return to Sender’ one you mentioned,” Beck said.
+
+“Exactly.”
+
+They sat down at the only available table, and Kat ordered something called moqueca, which was a seafood stew from Brazil. Beck decided to go with stone crab claws with mustard sauce on the side, which reminded Adam of Gladwyn, who’d eaten the dish quite a lot.
+
+I wonder if he’s eating it for good luck.
+
+Beck didn’t seem quite as enthusiastic about it as his friend had always been.
+
+Adam ended up ordering deep-fried chicken, but since he hadn’t specified what kind, Charlie made him a platter of various kinds from all over the world. There were Cajun chicken wings, Korean wings with a sticky gochujang sauce, Japanese karaage with mayonnaise, Sichuan laziji with lots of dried red chilis, chicken nuggets, popcorn chicken, and a lot of other varieties. It was too much for Adam to eat, so he was grateful when the others started helping themselves to the plethora of options.
+
+“Let’s see what we’re dealing with,” Beck said, waving a crab claw around menacingly.
