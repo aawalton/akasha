@@ -1,0 +1,149 @@
+After a brief break to let my mind settle more, I dive right back into looking at my new shiny things. Next, I check out my two titles.
+
+{Spirit Contractor}
+
+You have established a bond with a spirit. Thus, you are now a spirit contractor. Spirit contracts are one of many ways to attain power. However, due to the unique nature of spirit bonds, it is a rather odd path. Still, getting a spirit to agree to form a contract is no easy feat, thus deserving of a reward. Effects: +5 Spirit, +3 [6] spirit contract capacity
+
+{Great Spirit Contractor}
+
+You have met a spirit of great power. By some miracle, it has agreed to form a contract with you, thus making you one of very few beings to ever do so. Great spirits are unique in their ability to stay corporeal permanently, as well as wielding much greater power than other spirits. They also require far more spirit contract capacity than usual, and thus are notoriously hard to bond as not many contractors have so much free capacity. So naturally, such an achievement is deserving of even greater reward. Effects: +25 Spirit, + 10 [20] spirit contract capacity, various beings will recognize you.
+
+Woah, it seems like I have somehow achieved some rare stuff. Plus, I was right, Luma is special. A greater spirit in fact, which are stronger than other spirits. Not that I have met any other spirits to compare her to though.
+
+I am no expert, but those effects seem pretty good. Not only do I get a pretty significant bonus to my spirit stat, but also more contract capacity. Which I presume is very important, after all, more spirits would mean more power, right?
+
+I do notice that there is a second number in brackets. Must be because of the effects of my Hero of Spirit title that doubles my capacity. That bonus seems downright broken, just what kind of people are heroes even?
+
+The last part about ‘greater beings will recognize you’ sounds interesting too. Perhaps certain stronger beings will be able to tell I have a greater spirit contract, even if they can't see Luma? I hope they take kindly to such a thing. I don’t want a random dragon to pick a fight just because it thinks me strong or something.
+
+Anyways, now onto the two traits I gained.
+
+{Spirit Summoner}
+
+You have embarked upon the path of a spirit mage by contracting spirits. Spirits can provide various bonuses, from stats to ultimate abilities. However, due to the nature of such bonds, the amount of spirits you can contract is severely limited. Naturally you will gain one spirit contract capacity for every one thousand points of spirit you possess. This requirement doubles for every fifty contract capacity. However, there are various ways to gain extra capacity surpassing the normal requirements. This trait is one, as it gives you one extra. Effects: +1 [2] spirit contract capacity.
+
+Current contract capacity: 25/28
+
+{Spirit Bond: Luma}
+
+Spirit Name: Luma (Spirit Fox - Lvl 1)
+
+Luma’s Standing: Great (25)
+
+Luma’s Affinity: Light
+
+Luma’s Abilities: [Great Spirit Aura], [Healing Presence]
+
+Summoner Stat Bonus Per Level: +2 Spirit, +2 Vitality
+
+Now, I have no clue how other things measure up in this world. But I am pretty fucking sure that this whole spirit summoner thing is quite over powered. Like, I get stat bonuses from the spirits for one, which seems awesome.
+
+But not only that, it seems spirits can fight and such on their own. Or at least, they can have some combat skills. Though in Luma’s case, it seems she is focused on healing, which also sounds epic. I won’t have to worry as much about finding potions and other methods of healing.
+
+Still, just what sort of power will I be able to wield in the future?
+
+Sure, there are limits. Like the whole contract capacity thing. To be fair to the system, it seems like I have gotten quite a big bonus at the start. Both from bonding a greater spirit, but also from my Hero of Spirit title. So normally it is far more limited, as it requires one thousand stat points in spirit per capacity.
+
+Also, Luma may be strong, but it comes at quite a high contract cost. After all, just her takes up twenty five capacities. Which I presume is more than most summoners would just have in total, let alone to dedicate to one spirit.
+
+Which only makes me more excited, as with such a high cost, Luma must be truly awesome.
+
+Yet still, even for someone more limited, it still seems downright over powered. Which I am not complaining about. After all, it is me that is getting the power. Plus, this world seems quite dangerous and just because it seems powerful, doesn't mean other stronger things don’t exist.
+
+Though, it does have a few glaring weak spots. Mostly the fact that if I was entirely reliant on spirits to fight, I would be very squishy. But, I am also a smith, a magical one too. So, I shall simply have to counter that part. If I can put everything together and really leverage myself, perhaps I can simply be unmatched. Which isn't even to mention whatever shenanigans are going on with the whole hero thing.
+
+But, reigning myself in, I focus on the two abilities that Luma possesses. It also seems that I get information on those, so I open them up.
+
+[Great Spirit Aura]
+
+The aura of a great spirit asserts ultimate dominance over the environment. Lesser spirits will be beholden to the whims of any great spirit. Also, the spirit’s aura will provide various effects to those nearby based on the spirit’s affinity. Effects: Grants ability [Healing Presence]
+
+[Healing Presence]
+
+This spirit passively gives off an aura of light mana. Due to its properties, it accelerates the healing of all allies nearby. It also weakens any undead or those that are otherwise harmed by light mana. The light has a lesser ability to dispel dark-based curses. Effects: x2 to all healing to allies within 10 meters.
+
+I have no clue how useful that bonus to natural regeneration is. But I will take anything I can get. I imagine healing potions are quite expensive, and I definitely don't want to be injured for too long in such a dangerous world.
+
+Now I understand why my body reacted so negatively to the whole bond thing. Not only due to the influx of stats, but also there was probably a brief moment when I did not have enough capacity to bond with Luma.
+
+I am feeling much better now though. So I give my mind a minute or two to settle and then stop my meditation. Though, not without taking a quick peek at my stat sheet beforehand.
+
+Name: Orn Spiritus, Hero of Spirit
+
+Corestone: Hero of Spirit
+
+Grade: 0 Stars
+
+Race: Human
+
+Class 1: Spirit Mage - Level 6
+
+Skills: [Lesser Spirit Sight (Rare)], [Form Spirit Contract (Common)]
+
+Class 2: Magic Smith - Level 3
+
+Skills: [Lesser Inspect (Common)], [Lesser Forging (Common)], [Lesser Mana Imbuement (Common)], [Lesser Metallurgy (Common)], [Lesser Hammer Wielding (Inferior)]
+
+General Skills: [Lesser Identify (Inferior)], [Lesser Mana Sense (Common)], [Storage (Unique)], [Meditate (Common)]
+
+Traits: {Restricted Spirit Nexus}, {Competent Adventurer}, {Spirit Summoner}, {Spirit Contract: Luma}
+
+Titles: {Hero of Spirit}, {Spirit Contractor}, {Great Spirit Contractor}
+
+Contracted Spirits (25/28): Luma - Level 1
+
+Stats
+
+Vitality: 26
+
+Endurance: 19
+
+Strength: 14
+
+Agility: 9
+
+Intelligence: 23
+
+Wisdom: 22
+
+Spirit: 59
+
+Unallocated Points: 12
+
+Resources
+
+Health: 260/260
+
+Stamina: 190/190
+
+Mana: 220/220
+
+Spirit: 590/590
+
+My spirit is super high now. Though my others aren't too far behind, I imagine that my spirit being way higher is about to become a common theme. Which is fine, I am a spirit mage after all.
+
+I do take those twelve unallocated points and distribute them. I put six into endurance as well as six into agility. Why agility? Well, it seemed quite low, and speed is helpful, especially considering I still have to journey to that town.
+
+As one last thing, I check out my Lesser Spirit Sight skill, just out of curiosity.
+
+[Lesser Spirit Sight (Rare)]
+
+You are able to perceive spirits that inhabit this world. Most are unable to see them, and are merely subject to their whims. However, some spirits will still possess enough power to hide themselves from you, so do be aware that not even you are all seeing.
+
+In addition, this skill also removes the perception stat. Instead, all of your senses are based on your spirit stat. This is due to the fundamental nature of spirits being imperceptible to normal methods. Thus, you have been changed irrevocably by this skill at a fundamental level to enable such a function.
+
+Slowly, my awareness of the real world returns. The first thing I notice is a very warm and fluffy fox sitting in my lap, snuggled up in my arms. Oh right, I forgot the best part of the whole spirit contract thing.
+
+Luma is super duper adorable. Like, who doesn't want an adorable and cuddly fox spirit friend? Pretty sure absolutely not a single person could possibly complain. If they even try, I will simply have to smite them to show the error of their ways.
+
+Well, perhaps I wouldn’t go quite that far. Maybe.
+
+She seems to be asleep, so I move very carefully. I lift up the hood of my cloak a bit to create a nice sleeping spot. It is almost as if the cloak was built solely for that function. Then, ever so carefully, I lift Luma into the spot.
+
+With a small grumble of annoyance, she quickly settles in and snuggles up against my neck. It tickles quite a bit, but the warmth is nice. Plus I can definitely feel whatever healing thing she is giving off now.
+
+I stand up on my feet and prepare myself. After all, I have a town to find. You know, to meet other people and such. As much as living alone in a forest with an army of spirits sounds awesome, I do need to interact with others eventually.
+
+Both for basic socialization but also for information. Oh, and maybe a nice mug of ale. With all the shit that has happened recently, I could really use one of those right about now. Also maybe some decent clothes, a nice meal, a bed. Oh, and maybe I can even find a cute bow to put on Luma! Or heck, I could craft one! Spirits must be able to wear equipment, right?
+
+With my motivation through the roof, I clean up my campsite and ensure Luma is nestled in securely. With everything sorted, I continue on my journey.
