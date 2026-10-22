@@ -1,0 +1,45 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const stubbedTheVillainessMandateIsekailitrpg = {
+  id: "01a16606-fe0b-724f-8cc2-70d12464a701",
+  type: "page-type/story-read",
+  slug: "stubbed-the-villainess-mandate-isekailitrpg",
+  author: "The_Bizone",
+  following: false,
+  unit: "unit/words",
+  title: "[Stubbed] The Villainess' Mandate [Isekai/LitRPG] ",
+  world: "world/stubbed-the-villainess-mandate-isekailitrpg",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "127296",
+      externalLink:
+        "https://www.royalroad.com/fiction/127296/stubbed-the-villainess-mandate-isekailitrpg",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "War and Military",
+    "Female Lead",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Mystery",
+    "Attractive Lead",
+    "High Fantasy",
+    "Kingdom Building",
+    "Magic",
+    "Otome",
+    "Reincarnation",
+    "Romance Subplot",
+    "Ruling Class",
+    "School Life",
+    "Strategy",
+  ],
+  readLater: true,
+  createdAt: "2026-10-22T23:51:36.715Z",
+  updatedAt: "2026-10-22T23:51:36.715Z",
+} as const satisfies StoryRead
