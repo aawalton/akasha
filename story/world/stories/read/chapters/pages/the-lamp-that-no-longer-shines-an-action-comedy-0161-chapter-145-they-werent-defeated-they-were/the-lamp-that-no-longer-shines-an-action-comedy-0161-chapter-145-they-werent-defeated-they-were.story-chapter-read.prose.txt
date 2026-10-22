@@ -1,0 +1,157 @@
+[Time]: Summer Break, Day 37 — 2:45 PM[Location]: The Crown of Ovelia · Grand Masters Main Arena · Royal Rosas VIP Box
+
+The leather-bound master copy of The Banishment of Sorrow hit Hathaway's lap with the heavy, uncompromising thud of an academic death sentence.
+
+The vellum pages smelled faintly of ozone. The text inside was encrypted in a dense, margin-scrawled hand that suggested the author had at some point run entirely out of patience for anyone less intelligent than themselves.
+
+Margaret had delivered on her word. The courier had arrived via express dimensional transit just as the afternoon session resumed. Now Hathaway's attention was partitioned: grimoire in the foreground, the roaring broadcast of the arena in the background.
+
+She had a solid foundation in the Abjuration school: [Greater Mage Armor], [Anti-Spell Domain]. But those were structural defenses. Their logical vector was construct a barrier.
+
+Banishment was a different algorithm entirely. The logic wasn't build a wall. It was define the target, locate its coordinates within the host, and un-write its presence.
+
+For a Tier-7 or Tier-8 banishment protocol, the target-definition step alone operated at a level of philosophical and mathematical complexity she had never touched.
+
+She traced a line of cramped silver ink down the primary design page.
+
+The bloom is not the painting. Find the boundary where it meets the original pigment. Begin there. Work outward. When the surface clears: do not restore what is revealed. It was never absent.
+
+Hathaway rubbed her temples, forcing the archaic poetry through her own tactical processor.
+
+It’s not a delete command, her developer brain parsed. It’s an uninstaller routine.
+
+Sorrow isn’t a standalone file you can just target and trash; it deeply embeds its hooks into the host’s operating system. The spell isn't about the raw power of the wipe—it’s entirely about the boundary definition. If you just nuke the affected sector, you corrupt the host's core identity.
+
+You have to find the exact memory addresses where the trauma ends and the baseline psyche begins, sever the dependencies from the outside in, and let the system naturally reassert its own state. You aren't 'healing' anything. You're just safely extracting the malware.
+
+The arena broadcast continued at full volume in the background."Match Complete."
+
+The sharp acoustic crack of a resurrection stone cut through the stadium noise. Then silence. Victoria Wellington's time on the field, terminated by Relentless's second stringer.
+
+Hathaway didn't look up.Anna took a serene sip of her coffee. Margaret offered a short, decisive nod.
+
+The corner of her mouth twitched: a microscopic, violently suppressed spasm of pure aristocratic schadenfreude at the news of a Holheim prodigy being forcibly evicted from the premises, but she maintained her dignified silence. The afternoon session continued.
+
+"Match Complete.""Match Complete.""Match Complete."
+
+Hathaway turned a page.Three consecutive exits.
+
+Cecilia's operational profile was already documented: a passive psionic [Forced Damage Sharing] link: every point of damage she absorbed was mirrored directly onto her attacker, returned immediately or held in reserve for a single deferred detonation at her discretion. The longer the opponent fought attrition, the worse that detonation.
+
+And then there was [Shape Fruit into Tree]: a psionic technique with no documented equivalent anywhere in the Inner Sea's recorded history, something Hathaway had only encountered in second-hand analyst reports until today.
+
+Hathaway knew how to reverse-engineer an opponent's spell. That was the entire architectural premise of [Echo Casting]. But [Echo Casting] was strictly forensic. She waited for a spell to shatter, caught the residual mana, and reconstructed the logical blueprint from the debris. It was autopsy work.
+
+You cannot decompile a live executable file while it is still running, Hathaway's developer brain had always maintained. A spell in flight is a closed, compiled system. The actual spell model is safely locked inside the caster's own neural architecture. You can counter a fireball, you can dodge it, but you cannot read the blueprint used to build it just by looking at the flames.
+
+But Cecilia wasn't doing forensics. Because Hathaway understood the sheer, crushing difficulty of reverse-engineering a spell from its residue, the unreasoning terror of watching Cecilia read the source code while it was still running hit her harder than anyone else in the stadium.
+
+Cecilia observed a piece of fruit, perfectly reconstructed the genetic code of the tree that grew it, and then used that code to salt the earth so nothing like it could grow there again, not for the rest of this match. It wasn't a counterspell. It was a nerf written directly into the opponent's active registry.
+
+But breaking reality's encryption in real-time wasn't free. Every time Cecilia deployed it, she had to aggressively cannibalize her own mana pool, converting raw magical energy into psionic bandwidth just to pay the processing toll.
+
+The [Relentless] roster hadn't been defeated. They'd been audited.
+
+"A brilliant, suicidal efficiency. She is burning her own engine to ash just to strip their roster of its primary weapons," Anna said, her eyes tracking Cecilia's retreat to the tunnel.
+
+Margaret said nothing. Her jaw stayed shut.
+
+The broadcast roar spiked.Hathaway looked up from the vellum pages.
+
+Cecilia Wellington had been on the field for three consecutive high-intensity matches, and three matches had a cost the scoreboard didn't track.
+
+The execution latency had degraded by critical milliseconds. The physical evasion windows were fraying at the edges.
+
+Yuksara Devic stepped onto the field.The fireball dropped.
+
+A fraction of a second.A sound like a soap bubble bursting under pressure: barely audible, barely visible.
+
+Dozens of detonations cracked the air above the Ancient Ruins in a single frame. Fire, ice bursts, gale-force wind, and invisible kinetic shockwaves tore through the arena simultaneously.
+
+Cecilia turned her shoulder by millimeters, letting an armor-piercing round shear the air past her cheek. A targeted [Dispel Magic] erased the elemental barrage; a [Wall of Force] caught the shockwaves.
+
+In the same fluid motion, she fired an explosive AP round into the stone floor ahead of her, aimed not at where Yuksara was, but at where her [Dimensional Jump] was about to land.
+
+The shell detonated precisely beside Yuksara's landing coordinates.
+
+A flood of light crushed the explosion before the shrapnel could bite. Thousands of radiant projectiles swarmed toward Cecilia. She retreated without contesting the push, dropping a [Fire Trap] and a triggered [Dimensional Anchor] in her wake. Blink in again and you eat both.
+
+Yuksara didn't blink in. Instead: the rhythm.
+
+Pressure. Assault. Retreat. Buff. Pressure again. A [Fixed Dimension Door] paired with [Sanctuary] erected small fortified structures across the ruins: temporary towers, sun-facing. An [Ethereal Mount] dragged a wall of flame out of the void to force Cecilia's repositioning.
+
+And while Cecilia repositioned, Yuksara began absorbing sunlight through the tower rooftops.
+
+Light condensed behind her shoulders. One pair of massive radiant wings materialized.
+
+Hathaway's analytical processor flagged the transmutation. [Light Wing Form]. Zero baseline stat boosts. Zero direct melee multiplier.
+
+Then a second pair.
+
+Hathaway's lore database pinged. A red-flagged file surfaced from the Relentless team's historical match logs. Her breath caught.
+
+A third pair.Oh.
+
+A cold spike of adrenaline hit her system. They aren't wings. They are missile pods.
+
+Yuksara pressed again: twenty meters, hard blink, a fan of explosive light-feathers that would shred anything they contacted.
+
+Cecilia triggered the [Lockdown Dimensional Anchor] on her harness. The spatial seal expanded, covering the entire zone containing Yuksara's towers. Every retreat path: deleted.
+
+Cecilia had already burned a [Shape Fruit into Tree] on an earlier [Fixed Dimension Door] cast, permanently banning that specific escape vector from Yuksara's arsenal for the rest of the match. The [Dimensional Anchor] was simply the final lock on the cage: the deadbolt.
+
+Yuksara's figure vanished.
+
+She didn't use a spell to break the anchor. She converted the severed retreat path into a point-blank assault, inverting her own positional error into point-blank range.
+
+She materialized directly in front of Cecilia, all six wings fully extended, the arena lights disappearing behind the canopy of radiant gold.
+
+The wings opened.
+
+[Devic's Downpour].
+
+Hathaway's lore database returned the file with the flat efficiency of a confirmed match.The academic classification was [Evil-Bane Justice Storm], a Tier-5 Holy missile barrage.
+
+Force damage was already the least-resisted type in recorded Witch combat. Holy damage went a step further: it applied a devastating vulnerability multiplier against native Witch physiology, statistically worse than true damage, targeting something older and more fundamental than the mana pool.
+
+The six [Light Wings] acted as localized amplifiers, turning a standard holy storm into a localized extinction event.
+
+A fully stacked [Devic's Downpour] possessed enough concentrated Holy DPS to accomplish something practically unthinkable: it could instantly vaporize Heidi Lucent in full [Cataclysm Dragon Form], the absolute premier physical tank of the High Council, in a single delivery frame.
+
+Millions of radiant projectiles poured from the six wings, each bolt trailing a long, ribbon-like arc of luminescence, the aggregate pattern moving like rainfall through a sunbeam: beautiful, inescapable, total.
+
+In the bassinet, Rory went completely still.
+
+She didn't reach her hands out like she had for the pink runes or the crawling skeletons. Her tiny hands gripped the edge of the padded armrest. Her ice-blue eyes reflected the millions of falling stars in wide, unblinking, absolute awe.
+
+The blows hit home. Again, and again, until there was nothing left.
+
+The six wings of light shattered into a cloud of radiant dust, and the silence that followed was heavier than the storm itself. The Holy recoil burned through Yuksara's own resistances.
+
+The mandatory post-cast paralysis, the warrior's tax, locked her muscles into rigid, unresponsive stone: a total, systemic freeze of her physical and magical motor functions.
+
+As Ovelia annotated in the League archives: only a true warrior dares release this storm.
+
+Then the second hammer fell.
+
+The [Forced Damage Sharing] link reached its critical discharge point at the moment of Cecilia's elimination. The accumulated pool detonated across the bond.
+
+Yuksara had delivered the killing blow in one catastrophic burst rather than incremental attrition, specifically to minimize the sharing link's intake. Locked in the rigid statue of her own spell-exhaustion, she was forced to endure the full weight of it without moving a single muscle. She had calculated correctly. The backlash was manageable.
+
+Her knees buckled anyway.
+
+[Match Complete.]
+
+When the stagger frame finally cleared, Yuksara Devic was still standing in the center of the ruins, breathing heavily through her teeth.
+
+The mana-bleed at her hair's ends had shifted from the clean, hot blue of a gas flame toward a harsh, irregular white, surging in volatile pulses as her system struggled to process the holy backlash.
+
+The match had ended, but her posture had not relaxed.
+
+She did not look like a woman returning to the tunnel to prepare for victory. She looked like a woman who had already accepted her elimination and had decided to make her inevitable loss count for something.
+
+Hathaway sat with the image for a moment. Then she closed the grimoire.
+
+Yuksara stood amidst the shattered stone of her own ultimate, her mana bleeding harsh white light into the dust. She adjusted her grip on her staff, raised her chin, and locked her burning azure eyes on the pitch-black mouth of the Greed Umbrella tunnel.
+
+Waiting.

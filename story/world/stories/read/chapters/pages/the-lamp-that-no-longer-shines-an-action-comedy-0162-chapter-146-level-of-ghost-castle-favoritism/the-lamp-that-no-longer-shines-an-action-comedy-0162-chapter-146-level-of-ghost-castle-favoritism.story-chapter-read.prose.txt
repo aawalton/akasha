@@ -1,0 +1,183 @@
+[Time]: Summer Break, Day 37 — 3:25 PM[Location]: The Crown of Ovelia · Grand Masters Main Arena · Royal Rosas VIP Box
+
+The silent standoff lasted until the arena's automated systems forced the reset.
+
+The holographic roulette above the central dome spun and locked.[Selected Terrain: Sector 5 — Badlands.]
+
+The reset protocol teleported Yuksara to the Badlands deployment zone. She didn't retreat into the tunnel. She was already pressing against the invisible starting boundary, mana still bleeding harsh white, posture stiff from the residual paralysis, burning azure eyes fixed on the opposite gates.
+
+The heavy doors of the Greed Umbrella tunnel ground open.Stepping out from the Greed Umbrella's tunnel, meeting the damaged Ace across the badlands, was Maria.
+
+The golden-haired actress strolled onto the uneven terrain with the radiant, camera-ready ease of an idol arriving on a red carpet. She twirled her wand once, her idol-grade smile already deployed at full broadcast resolution.
+
+The referee hovered above the center of the canyon. The countdown sphere formed.She released it.The fireball dropped.
+
+Hathaway frowned. Her eyes tracked the descent, catching a subtle, unnatural drag in the visual telemetry.
+
+It wasn't falling straight. The sphere curved as it descended, its rotation warping the visual light around it. From Maria's angle, the exact microsecond of ground contact was physically impossible to predict for approximately 0.10 seconds.
+
+A curveball.Hathaway's gaze darted upward to the official on the casting disk. A White City referee.
+
+Technically legal. Hometown civic duty, rendered in the language of professional negligence.
+
+In the VIP box, Margaret and Anna said nothing.On the field, Maria's smile held. The corner of her mouth twitched—once, barely—and she sank smoothly into a defensive stance.
+
+The ward shattered.Yuksara exploded off the starting mark with total, furious commitment.
+
+[Ice and Fire Storm] layered flawlessly into [Radiant Ray]. A composite, high-tier execution matrix: maximum-yield area saturation chained to a precision beam strike, designed to vaporize an opponent before their shields had time to render.
+
+If Yuksara had opened Tasia's match this aggressively instead of stacking shields, Hathaway reflected grimly, Tasia would have died inside ten seconds.
+
+Maria didn't cast a shield.She twisted.
+
+The torso rotation was not a magical evasion. It was pure, terrifying biomechanics: her spine bending at an angle that suggested she had, at some point, significantly renegotiated her relationship with normal human anatomy. The radiant beam sheared the air a millimeter from her cheek. The thermal shockwave of the ice-fire storm clipped the edge of her jacket, singeing the fabric.
+
+Hathaway stared. I physically dodge an armor-piercing kinetic slug. She physically dodges a magical shotgun blast at point-blank range. The difficulty difference between those two actions is a thing I am declining to calculate.
+
+Having absorbed Yuksara's massive opening cast and lost exactly zero mana doing it, Maria was now in net positive initiative.She stepped forward.
+
+[Cat's Greased Heels].
+
+Frictionless arcane energy coated her boot-soles, and she accelerated directly toward the Relentless Ace at controlled, terrifying speed.
+
+In the commentator's booth, Faust the Lucky Lantern Cat erupted from her seat."Meow-ow-ow! Blasphemous woman! Cats do NOT grease their HEELS to go FORWARD! Meow!"
+
+The stadium ignored her. The rush was already in motion.
+
+Yuksara leveled her staff, firing a [Zero-Reaction Force Push], a supersonic kinetic wall, practically invisible, designed to smash the rusher's momentum and force a blink-reset. If Maria tried to dodge laterally, she'd lose her forward vector entirely. Distance would reset.
+
+Maria didn't dodge laterally.She triggered a [Dimensional Jump] in place.
+
+For exactly 0.02 seconds, Maria's physical model vacated the dimensional plane. The supersonic wall of force swept through empty space. She re-materialized in the same coordinates, forward momentum completely unbroken.
+
+Hathaway stood up. The heavy grimoire slid off her lap and hit the floor.
+
+I-frames, her developer brain announced, with the flat, clinical tone of a build report confirming a catastrophic memory leak. She used 0.02 seconds of dimensional transition latency as a stationary invincibility frame. You cannot deliberately blink in-place to dodge a sustained hitbox. That is not something human reflexes accomplish. Are you even running on organic hardware?!
+
+Yuksara's [Wall of Force] snapped into existence between them.Maria arrived.
+
+What followed was a floral bloom of violence, each element feeding the next with the fluid inevitability of a sequence someone had rehearsed until it stopped feeling like effort.
+
+[Dispel Magic] dissolved the wall. A volley of tracer rounds and explosive kinetic bolts chained immediately into the gap. Her left boot planted, pivoting her momentum into a full pirouette; her wand came up mid-spin, discharging [Maria's Glitterdust Blast], Tier-3, Conjuration, heavily modified for explosive kinetic yield and a save DC that bordered on personal insult.
+
+Simultaneously, [Witch Master's Haste] loaded: Tier-4, the acceleration effect doubled, duration halved, trading endurance for operating speed.
+
+The sequence culminated as her right leg snapped upward in a mana-dense [Enchanted Kick] aimed squarely at Yuksara's jaw.
+
+Yuksara was moving before the kick finished extending. Her robes' passive evasion enchantment dragged her backward just enough to avoid the physical blow, and a [Clarify] passive parted the Glitterdust before it could latch.
+
+But passive enchantments couldn't dodge everything, and Maria's casting speed had left exactly zero frames to deploy a reactive shield. The volley of tracer rounds and explosive kinetic bolts slammed directly into Yuksara's chest.
+
+With no time to block, Yuksara had no choice but to hard-tank the barrage. [Tide of False Life] flared into existence across her underlying matrix, aggressively converting a chunk of her own mana pool into a massive, artificial vitality buffer that absorbed the kinetic shrapnel before it could shred her organs.
+
+She held her casting concentration through the explosive chaos, raised her staff, and pointed it directly at Maria.
+
+[Ghost Form].
+
+The VIP suite went silent.Hathaway's tactical processor stalled.
+
+She just cast a massive defensive buff on her opponent.
+
+[Ghost Form] turned the target incorporeal. Physical immunity. Pass through walls. Why would you give a hyper-mobile rusher the ability to—
+
+Then the secondary modifier registered in Hathaway's database.Incorporeal entities take four hundred percent increased damage from Holy sources.
+
+Yuksara's staff was already flaring with the blinding white light of a [Pseudo-Divine: Triple Cast] queue.
+
+Hathaway's eyes widened. Triple Cast only works on prepared spells. She hasn't had a single microsecond to prepare a high-tier payload.
+
+Then she caught the charred remnants of a high-tier scroll dissolving at Yuksara's belt. The [False Spell Slot] feat. She burned a scroll and spoofed its formula directly into her active memory, tricking the system into registering it as a prepared spell just to bypass the restriction.
+
+The sky above the Badlands tore open. A triple-stacked [Holy Storm] rained down.
+
+Maria, mid-air from her missed kick, didn’t panic.
+
+Instead of resisting the [Ghost Form] Yuksara had just forced onto her, Maria actively pulled the incoming spell matrix into her own circuits. Before the first bolt of the Holy Storm could cross the gap, Maria injected everything she had into the foreign formula, aggressively rewriting the source code.
+
+She beat the server tick.[Apotheosis: Ghost].
+
+The stadium telemetry spiked wildly.
+
+Ten seconds’ duration. 85% absolute damage reduction. +50% total mana capacity. +550% mana regeneration. A continuously regenerating shield scaled to her maximum mana pool.
+
+Up in the VIP suite, Hathaway’s lore database catastrophically crashed, rebooted, and surfaced a red-flagged file she had never expected to see outside of historical theory.
+
+That is not a standard legendary spell, Hathaway’s developer brain screamed. That is a Ghost Witch [Mystic Spell]. A Ghost Witch once watched Ovelia use [Pseudo-Omnipotence: Apotheosis] to decompile an entire planet into a Dyson Sphere, and bootlegged a fraction of that source code into a racial survival mechanic.
+
+Hathaway gripped the armrests of her plush recliner.
+
+But that is proprietary, race-locked code. You cannot cast that without the native ‘Ghost’ racial tag. How...
+
+One frame back. [Ghost Form] lands. Temporary ‘Ghost’ status, registered.
+
+Hathaway stared at the screen, her soul temporarily leaving her body. The racial lock checks current status, not birth origin. Maria hijacked the temporary ‘Ghost’ tag and used it as a forged admin key to pass the authentication check for a locked ultimate.
+
+Hathaway’s right eye twitched.
+
+That is not a combat tactic. That is a zero-day exploit. Where is the report button? I need to report a hacker.
+
+The triple [Holy Storm] washed over Maria. The 400% vulnerability multiplier meant nothing when 85% of the total damage was sheared off the top and the remaining 15% was instantly negated by the continuously refilling shield. The golden-haired actress walked effortlessly through the divine bombardment.
+
+Yuksara stared through the dying storm at the luminous, transcendent phantom still walking toward her.
+
+Are you the Ghost Castle's founding mother?! Is that why those devoted daughters are handing you the family heirloom?! her expression broadcast across four hundred million concurrent viewers. You are a human Witch! HUMAN WITCH!
+
+Yuksara was out of options, out of time, and out of clean escapes. She ground her teeth. She abandoned spacing.
+
+[Luminous Madonna Form].
+
+The world seemed to skip a frame. A microscopic, terrifying stutter in the flow of time. A hairline fracture appeared in the air above the Badlands, and Yuksara was simply there. It was a spatial assertion. She melded with the coordinates, materializing inches from Maria’s face with a suddenness that defied the eye.
+
+The raw, unfiltered Holy power of the [Luminous Madonna Form] rejected her baseline Witch physiology. Her skin glowed with a fragile, porcelain luminescence, but deep cracks were spreading across her collarbones and cheeks. Dark crimson blood seeped through the holy radiance, staining her white-hot skin.
+
+Then came the momentary bloom of blazing brilliance.
+
+Millions of light-bullets erupted from the six wings on her back. An ocean crashing down. Each projectile trailed a long, ribbon-like arc of dazzling gold, painting a breathtakingly beautiful, suffocating wave of light that instantly swallowed the phantom figure of the actress.
+
+Maria didn't try to interrupt the transformation. She gave her the stage.
+
+And then, her wand flicked.A [Zero-Reaction Force Push] fired directly into Yuksara’s chest at point-blank range.
+
+The invisible kinetic wall hit Yuksara like the grinding teeth of a high-speed industrial shredder. The acoustic horror that echoed through the stadium microphones was a sickening, continuous crunch.
+
+The kinetic shear caught her mid-air, violently twisting and dismantling almost every bone in her torso and limbs simultaneously.
+
+Yuksara was torn from the beautiful ribbons of light, hitting the stone floor like a broken doll. The post-cast paralysis of her own ultimate, combined with the total skeletal fracture, locked her in a shattered heap.
+
+The golden light dissipated.
+
+Maria stepped forward from the fading glow. Unhurt. Unhurried. Her uniform completely pristine. She raised her wand for the final execution.
+
+[Match Complete. Winner: Maria (Greed Umbrella).][Final Score: 5-2. Greed Umbrella: 1 Win, 0 Losses.]
+
+Hathaway picked up the master copy of The Banishment of Sorrow.
+
+She pulled up her mental threat file on Maria and immediately deleted her previous assumptions.
+
+I knew Lady Sonia was a fangirl, She stared blankly at the fading stadium lights. I knew Greed Umbrella ran a joint training camp at the Ghost Castle. I knew they were getting VIP treatment.
+
+But there is a fundamental, categorical difference between 'VIP tutoring' and 'here is the proprietary source code to our entire race's apex survival mechanic.'
+
+She updated the entry: [Apotheosis: Ghost]. Full parameters documented. Level of Ghost Castle Favoritism: Catastrophic.
+
+She stared at the note.Then she added a second line below it.
+
+Unknown: what other racial secrets Lady Sonia handed over. Unknown: how much of the Ghost Witches' bootlegged source code is currently operating on human hardware.
+
+The final score hung above the central dome in massive, glowing numerals.5 — 2.
+
+Margaret leaned back slowly. Her fingers released the velvet shawl. She closed her eyes.Anna set her empty coffee cup on the saucer. The porcelain clinked once.
+
+Hathaway held it for a long time. She had data now. She had Victoria's operational parameters, Cecilia's mechanics, Maria's speed coordinates and one confirmed Ghost Castle technique. She had more information than she'd had this morning.
+
+The data did not make the math better. It made it more specific.
+
+She opened the grimoire back to the bloom passage.
+
+The bloom is not the painting.
+
+She read it again, slowly.
+
+Do not touch what is beneath. When the surface clears: do not restore what is revealed. It was never absent.
+
+She had work to do.
