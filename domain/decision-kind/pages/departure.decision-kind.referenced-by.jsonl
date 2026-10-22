@@ -2572,6 +2572,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/catalog/list/temper-catalog-list.command.ts","id":"01a06034-110c-7dfa-aceb-1292658c99c3"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/catalog/mined-uploaded/temper-catalog-mined-uploaded.command.ts","id":"01a11d0f-0918-7132-ac72-7b2f7024f3c9"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/catalog/status/temper-catalog-status.command.ts","id":"01a0603c-c1cc-7a60-8387-08c112165535"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/combat-compare/temper-combat-compare.command.ts","id":"01a164ac-b049-7e91-b72b-aa5a1d3e46e8"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/community/addon-install/temper-community-addon-install.command.ts","id":"01a0603c-c1cd-7635-b045-738c4497daa8"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/community/addon-list/temper-community-addon-list.command.ts","id":"01a0603c-c1cd-7bf8-b51c-c43b2e4bb128"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/community/addon-update/temper-community-addon-update.command.ts","id":"01a0603c-c1cd-7290-b641-179d70de4bc2"}

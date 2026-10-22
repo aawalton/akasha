@@ -48,7 +48,7 @@ export function glyphTooltipOf(enchant: string): number | null {
   return found?.[1] === undefined ? null : Number(found[1])
 }
 
-export function directDamageMonstersOf(hash: string, bar: CombatCase["bar"]): number | null {
+function directDamageMonstersOf(hash: string, bar: CombatCase["bar"]): number | null {
   let build: ReturnType<typeof decodeBuild> | undefined
   try {
     build = decodeBuild(buildHash(hash))
@@ -103,7 +103,7 @@ const readingLineShape = z.looseObject({
   }),
 })
 
-export type BuildReadings = {
+type BuildReadings = {
   readonly ids: readonly string[]
   readonly enchants: readonly string[]
 }

@@ -41,6 +41,7 @@
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/addon/typecheck/temper-addon-typecheck.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/build-show/modules/build-show-naming/build-show-naming.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/build-show/temper-build-show.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/combat-compare/temper-combat-compare.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/eso/generate/answers/temper-eso-generate-answers.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/eso/generate/askings/temper-eso-generate-askings.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.code.ts","typed":false,"deferred":false}
