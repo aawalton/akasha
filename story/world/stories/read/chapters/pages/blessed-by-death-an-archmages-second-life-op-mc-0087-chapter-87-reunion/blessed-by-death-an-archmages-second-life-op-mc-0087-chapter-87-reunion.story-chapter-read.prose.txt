@@ -1,0 +1,163 @@
+“As you may know, developments in portal magic have completely stagnated since eight centuries ago,” Professor Heimler said, his voice slipping back into a lecturing tone. “The great sorcerer Fritz Schulte discovered a method to generate, anchor, and link localized distortions in spacetime to one another. His discovery led to the creation of warpgates. The warpgate you stepped through earlier was because of him. It’s one of the most advanced warpgates in the entire world.”
+
+Levi blinked.
+
+Huh. Wait, what?
+
+Every time he thought he got used to the differences in magic between his old world and his current one, something new always managed to surprise him. The warpgates inside the Institute of Ascension were some of the most primitive ones he’d ever seen. He didn’t even need to analyze it with his True Sight to know that it probably had an effective maximum range of less than a kilometer.
+
+Of course, for its application inside the Institute, it didn’t exactly need a long range. But for it to be considered one of the most advanced? That was surprising.
+
+“Is that why cities aren’t linked to each other via warpgates?” Levi asked curiously.
+
+Heimler let out a refined snort. “What sort of fantasies have you been living in, Mr Ironwood? We haven’t even mastered creating intra-city warpgates.” He paused. “Yet, at least. For you see, up until now, all the theoretical calculations involving warpgates have always been just slightly off. Despite the numbers being perfect on paper, the warpgates end up breaking when they’re actually implemented, and thus have to be manually adjusted by feel.”
+
+Oh, right. Heimler had mentioned this during the last time they’d spoken. “That’s so inefficient though…”
+
+“Indeed,” Heimler said. “Inaccurate, as well. There’s only so much you can do by feel, regardless of mastery or experience. When the distance grows too large, it becomes impossible to intuitively adjust the warpgates to maintain the stability and robustness of the connection.”
+
+Levi tensed. “What happens if the connection collapses?”
+
+Heimler tilted his head. “What do you mean by what happens? The warpgates will simply fail to work, of course.”
+
+Ah. Right. Of course.
+
+The System probably had some automated failsafe in place for portal failures. In Levi’s old world, portal magic was so exceedingly dangerous that it was outright banned for normal magical practitioners. A failed warpgate tended to fail, ah, explosively. There were only four master sorcerers in the entire world who held the authorization to create portals, and not a single one of them was under three digits of age.
+
+“However, now that you’ve solved the Subaru Paradox…” Heimler’s eyes took on an almost obsessive gleam. “We’re in the perfect position for a breakthrough. If we do things correctly, then we’ll be able to create warpgates that’ll not only be able to link together cities, but entire countries. Perhaps even more… But that’s a conversation for another time. Can you imagine it, Mr Ironwood? Being able to go from Luminarche to Yukihasa by just stepping through a portal, skipping thousands of kilometers? I realize it may sound ludicrous, like some child’s dream, but–”
+
+“No,” Levi said. “It sounds completely achievable to me. I believe you’ll accomplish it soon enough.”
+
+Heimler blinked. Then, he shook his head in amusement. “As I said. Aberrational. Only someone like you would believe in this plan. Most other mages would laugh me out of the room.”
+
+“Is that why you haven’t told anyone about the Subaru Paradox being solved yet?”
+
+“What? Share the solution of the Subaru Paradox with the world?” Heimler looked alarmed by the very thought. “That would result in an unmitigated disaster. Have you any idea just how calamitous it would be if that knowledge ever became widespread? It would accelerate weapons research, dark magic evolution, eldritch rituals…” A look of worry passed over his face. “You haven’t told anyone else about the solution, have you?”
+
+“Only Qorbin and Liliya,” Levi said.
+
+Heimler relaxed. “I see. Do keep it that way, will you?”
+
+“Will do,” Levi said. He didn’t fully understand, but he assumed that Heimler was more knowledgeable about the world’s geomagipolitical situation than him. Perhaps he’d find time to deal with it later, devise a plan to safely share the knowledge with the world… But he had more pressing matters at hand.
+
+Heimler nodded. He seemed like he wanted to say something else, but he was too excited about his research to do so.
+
+“For the past several weeks, I’ve been attempting to create a warpgate with a range limit of fifty kilometers. This is approximately fifty times higher than the current range limit. With this, it’ll cover basically the entirety of Luxanne. You can set up warpgates anywhere within the walls and it’d work.”
+
+“I see. What’s the problem so far?”
+
+“Well, take a look.”
+
+Heimler strode across the room to one of the warpgate prototypes. He waved his hand across the air and it came to life, giving off a shimmering azure glow in the center.
+
+“The other warpgate is inside my apartment located on the other side of the city. Theoretically, the two should be perfectly linked. However…”
+
+He reached to the side and grabbed a cluster of bananas resting atop a table. He took one and tossed it through the portal.
+
+Levi automatically flinched, half-expecting some explosion or meltdown. Instead, the banana simply went in one side and fell out the other, albeit slightly more deformed than before.
+
+“It doesn’t work,” Heimler said, giving him an odd look at his reaction. “The calculations should be perfect; I’ve gone over them again and again for days. I am accounting for all internal and external mana influences, both real and imaginary, but for some reason, the portals aren’t connecting.”
+
+Levi hummed, examining the portal with his True Sight for a moment. “Why is the warpgate made of obsidian? That seems like a rather suboptimal material, no?”
+
+“What do you mean? Warpgates have always been made out of obsidian,” Heimler said, sounding like he was explaining something very obvious. “The material emits minimal magical interference while still being thaumaturgically potent enough, which allows one to clearly sense what adjustments need to… be… made…”
+
+Slowly, he trailed to a stop as he realized what he just said.
+
+“Oh. Oh, I see.”
+
+For several hours, they worked nonstop.
+
+Levi would like to say he was able to stroll in and immediately provide a solution, but unfortunately that wasn’t the case. Diagnosing the issue was easy enough due to his True Sight. Solving it, however, was a whole different matter.
+
+He and Heimler continued experimenting with the warpgates, trying to stabilize the connection. After Heimler adjusted the calculations, it appeared that the warpgates would work, only for another banana to end up splat on the floor.
+
+The calculations required were immense. They had to take into account the magical leyline underneath, the natural magical resistance of the materials, even the angles of the gates.
+
+In the end, they created an entirely different warpgate, this time from solid mithril, magically distilled to contain zero impurities. Anchor gems of amethyst were embedded in even intervals to provide stability. The shape itself of the portal was adjusted to a half-oval, half-circle. It wasn’t the prettiest, but…
+
+This time, the banana went in through one side and disappeared.
+
+Heimler and Levi looked at each other, each with the barest hints of a smile on their face.
+
+“Excellent work today, Mr Ironwood,” Heimler said as they stepped through the sealed door and reached the warpgates leading to the Institute's ground floor. They stopped in front of the warpgate – far inferior to the one they’d just made. “I have some errands to run during the next few days, so I’m afraid I won’t be available. I’ve been detached from the outside world for a little too long. I need to figure out exactly what mess Qorbin got himself into this time…”
+
+Levi nodded. He wasn’t certain how much he could trust Heimler just yet, so he didn’t mention any details about the attack on Montague Castle. “I think he’ll be fine. He didn’t seem worried at all about being on the run.”
+
+“Of course not,” Heimler said. “You say he was accused of attacking Montague Castle? I assumed it was because of Ms Volkov’s arranged marriage; Qorbin took her on as his apprentice, didn’t he?”
+
+Levi paused, then nodded.
+
+“I feared something like that might happen,” Heimler said, his voice low as his eyes narrowed. “Qorbin’s heart has always been too soft for his own good – and he despises both nobles and Royal Sentinels too much. Theodore Montague being the ungodly combination of basically all that he hates…” He shook his head. “Well, at least Ms Volkov was able to avoid her fate of having to wed that reprobate.”
+
+Levi stared at him. It was astounding how quickly Heimler managed to put everything together. “Are you sure you should be telling me all this?”
+
+“Qorbin trusted you enough to take you on as his apprentice,” Heimler said dismissively. “That’s good enough for me.”
+
+“Ah,” Levi said, regarding Heimler with an assessing gaze. “You two are good friends, aren’t you?”
+
+Strangely, Heimler froze at this. His expression flickered with something unrecognizable. If Levi wasn’t mistaken, he looked almost sad. It disappeared a moment later, though, replaced with his customary dignified expression.
+
+“We are,” he said softly. “The very best.”
+
+Levi’s brows furrowed.
+
+Was it just him, or was that… longing in his tone?
+
+“In any case, your assistance was extremely helpful today,” Heimler said, his voice returning to normal. “Thank you very much. Here, your pay for the day.” He handed Levi a hefty bag of coins. “I’ll see you again in three days?”
+
+Levi nodded. “That works with me. See you then.”
+
+With that, he turned and left through the warpgates, Heimler standing with one hand raised in farewell.
+
+At this exact moment one floor above, Levi gritted his teeth in intense concentration as he continued projecting his consciousness into the solid light clone. He was once again cloaked in total presence concealment, and this time, he’d taken care to stay out of the range of Heimler’s Stillpoint so that he wouldn’t detect him.
+
+He piloted the clone through the entrance hall and had him get into a street carriage. It wasn’t until the clone was a kilometer away from the Institute that Levi finally let it dispel, dropping the entire bag of coins it’d been paid.
+
+It was rather unfortunate to lose the payment, but Levi could live with it. It would just be a bonus tip to the carriage driver.
+
+Levi had pulled off the switch with the clone when Heimler wasn’t paying attention, when they’d been leaving his lab and walking through the hallway. He had been paranoid that Heimler would somehow notice with his Stillpoint presence detection, but thankfully, Heimler had been totally unaware. Levi was now hiding at the very end of the hallway, invisible, soundless, scentless, with his magic so tightly suppressed that even the most skilled sensor wouldn’t be able to sense him.
+
+Now, he had to just wait until Heimler left the Restricted Sanctum. Then, he’d be free to locate and investigate the dark magic. It appeared to be in the highest floors.
+
+He was worried that Heimler would sense it if he released a pulse of magic as he normally did for his magical echolocation, so instead Levi used a more antiquated method of simply enhancing his hearing to pinpoint where Heimler was. It was rather difficult, considering how Heimler barely made any sound when he moved – a hallmark of any highly-skilled individual – but the professor wasn’t actively concealing his presence and Levi’s ears were so amplified with magic that he could hear the impact of a leaf hitting the earth.
+
+He heard Heimler return to his lab, presumably for some more research. After two hours, Heimler finally exited and left the Restricted Sanctum.
+
+Thus leaving Levi completely alone.
+
+He was lucky; it didn’t seem that there were any other professors or researchers in the Restricted Sanctum today. Quickly, Levi made his way to the staircase.
+
+As he ascended the stairs, the feeling of dark magic grew stronger and stronger. Until finally, he reached the highest floor. The 100th floor.
+
+He stepped through the hallway, ignoring the rooms to his either side. Around twenty meters in, he stopped and turned to his left. A blank door stared back at him.
+
+The source of dark magic lay behind this door. All of his senses were screaming at him. He activated his True Sight, and he flinched at just how potent the light was this close. It was blacker than ink yet somehow still bright enough to scorch his eyes. The door itself was also covered in a myriad of magical defenses; in fact, it seemed to be even stronger than the sealed door guarding the Restricted Sanctum.
+
+Oddly, however, most of the enchantments appeared to be new. As though they’d only just been erected a month ago or so. There wasn’t even an alarm mechanism.
+
+Which meant Levi was clear to blast his way through them.
+
+He roared soundlessly, and his magic roared with him, exploding forth with relentless might. The magical enchantments tried to put up a fight, but his magic overwhelmed them all like a hurricane to blades of grass. The door was blasted straight off its hinges, clattering to the floor a solid ten feet away.
+
+Levi strolled into the room, his magic thrumming beneath his skin and swirling around him in a storm. His eyes were hardened grey chips of ice, and he readied himself for the absolute worst. For something, or someone, to emit such a vile aura… He expected to see an eldritch abomination, or an ancient monster, or a creature that defied the laws of nature.
+
+What he didn’t expect to see was a single glass tube standing in the center of the room, around three meters in diameter and five meters tall. It was filled with liquid mana, a notoriously unstable and dangerous substance. And inside the transparent liquid was suspended a…
+
+Levi blinked.
+
+A girl.
+
+Before he could think better of it, he slashed his hand across the air and the glass shattered. Liquid mana spilled out, along with the girl’s unconscious form. Levi caught her easily. She weighed less than he’d expected, her form oddly light.
+
+She wasn’t human. That much he could instantly tell. He didn’t know who she was, or what she was, or why she was held captive inside a glass tube within the Restricted Sanctum. Dark magic poured off her in waves; she was undoubtedly the source he’d sensed. Perhaps releasing her would turn out to be a very bad idea.
+
+But…
+
+Slowly, her eyelids fluttered open. She let out a choked gasp as she took in her first breath of air in Goddess knew how long.
+
+Her eyes focused on him. They were black, blacker than a dying star. She looked up at him from in his arms.
+
+And she spoke.
+
+“There you are, Levi Ironwood. What took you so long?”
