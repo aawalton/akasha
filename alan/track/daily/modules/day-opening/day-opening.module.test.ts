@@ -51,11 +51,16 @@ const WORK = {
   endedAt: "2026-07-04T15:00:00.000Z",
 }
 
-function dayFiled(root: string, day: string, rows: readonly unknown[]): undefined {
+function pageFiled(root: string, day: string): string {
   const at = `akasha/held/${day}/day-${day}.day.ts`
   listedFiled(root, "day", `day-${day}`, [{ path: at, id: `id-${day}` }])
   mkdirSync(dirname(join(root, at)), { recursive: true })
   writeFileSync(join(root, at), "export const held = {}\n")
+  return at
+}
+
+function dayFiled(root: string, day: string, rows: readonly unknown[]): undefined {
+  const at = pageFiled(root, day)
   const beside = at.replace(/\.ts$/, ".sessions.jsonl")
   writeFileSync(join(root, beside), `${rows.map((one) => JSON.stringify(one)).join("\n")}\n`)
   return undefined
@@ -114,6 +119,18 @@ test("a day no page is filed for opens at the ESO reset instead", () => {
 test("an instant past six the evening stays on its day while no sleep opens the next", () => {
   const roots = sleptWorld("akasha-opened-evening-")
   expect(openedDayOf(roots, new Date("2026-07-07T03:00:00.000Z"))).toBe(LATE)
+})
+
+test("from four in the morning a day nobody opened yet is the day on the clock", () => {
+  const root = scratch.rootFor("akasha-opened-unopened-")
+  dayFiled(root, SLEPT, [
+    SLEEP_ON_SLEPT,
+    { id: "e", title: "sleep", startedAt: "2026-07-05T02:00:00.000Z" },
+  ])
+  pageFiled(root, NEXT)
+  const roots = rootsNamed({ [AKASHA]: root }, AKASHA)
+  expect(openedDayOf(roots, new Date("2026-07-05T09:55:00.000Z"))).toBe(SLEPT)
+  expect(openedDayOf(roots, new Date("2026-07-05T10:05:00.000Z"))).toBe(NEXT)
 })
 
 test("what is no day at all is refused, naming the day", () => {
