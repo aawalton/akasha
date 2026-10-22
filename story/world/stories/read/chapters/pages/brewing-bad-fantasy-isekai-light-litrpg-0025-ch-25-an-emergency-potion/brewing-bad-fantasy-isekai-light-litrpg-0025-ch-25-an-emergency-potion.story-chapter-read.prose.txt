@@ -1,0 +1,113 @@
+Despite Lucas’s best efforts, Hura’gh refused to be rushed, and by the time they reached the edge of the Greenwood, the half-orc’s movements had stiffened noticeably. “You sure you’re going to be okay?” Lucas asked.
+
+Hura’gh merely grunted. With great difficulty, he remounted his horse, and when he was in the saddle, he said, “I told you that you should have stayed for those venom glands! You could have made something to sell with them.”
+
+“Whatever man,” Lucas answered with a shrug. “We got what we came for, now let’s go home.”
+
+Lucas had no doubt that was true, but he was also pretty sure that if he’d taken any longer, the paralytic poison running through his companion's veins would have frozen him solid. If that happened, there was no way that Lucas was moving the man without tying a rope to him and dragging him back to their hideout.
+
+Not that things were much better now that he was on his horse. Hura’gh was so big that he made his stolen warhorse look like a pony. As they rode back to the Perin’s land, the man began to stiffen more and more. First he lost control of his hands, then his arms.
+
+That was when he let Lucas pour a healing potion down his throat, but the red potion did little besides close the wounds that had already been scabbing over. It didn’t stop the half-orc’s legs from going numb or from making Hura’gh slur his words. When that happened, Lucas took the reins and led the horse back while his nearly paralyzed companion complained.
+
+“Why dihd yhou nhot bring the aunty-venom with you ihnto a fhorsst fhilled with sphiderss Lhucasss…” he complained.
+
+Because you said you would have said, ‘the warriors of the plains are too strong for such things!’ he screamed for a moment in his head before he shrugged and said, “We’ll get you fixed up in no time; we’re almost back.”
+
+The truth was that he’d completely forgotten. He’d known there were spiders in there, of course, but he didn’t think they’d end up fighting one. Honestly, he’d never personally seen anything worse than a goblin that close to the city. Still, he promised himself that next time, he would bring everything they were likely to need instead of everything he was sure he was going to use.
+
+When he got back to the cider house, Lucas pulled Hura’gh’s horse next to a pile of hay and then pushed the half-orc off his frozen perch on the saddle into the relatively soft landing it provided. “Sorry about that, man,” he said as he quickly checked for a heartbeat and found that the warrior’s heart was still beating strongly despite everything that had happened.
+
+After that, he rushed inside to grab one of the antidotes he’d made the day before only to find they were all gone. “Where did you put the green ones?” he yelled at Adin as he came up empty.
+
+“The yellow-green ones are in that crate there, and the bright-green ones are in the cider barrel out back,” he answered helpfully. He opened his mouth again, and Lucas was sure that he was going to ask about how his hunt for blue ingredients went, but instead of listening to the Viscount ask for a fix in the guise of pleasantries one more time, Lucas cut him off.
+
+“No, not those. The green-brown ones that sort of looked like muddy water,” Lucas sighed. “Hura’gh needs some antivenom like… now.”
+
+“The uhh…” Adin paused. “Our bearded friend took those in the shipment he was taking to his cousin’s emporium today…”
+
+“God damn it,” Lucas cursed, kicking a stool halfway across the room. “Wait - Kar’gandin is going alone into Lordanin? He’s not sending a servant? What about the wanted posters?”
+
+“He said he had his ways and—” Adin started to answer, but Lucas ignored him and stormed over to a drawer full of ingredients to see what he could make that might be able to help the half-orc out.
+
+His ways. Lucas thought in exasperation. We all agreed that was a bad idea, but Kar’gandin just has to do things his way, doesn’t he!?
+
+He didn’t have much left to be honest. He’d used most of the ingredients they’d gathered over the last few days on a big batch of potions, and other than the stockpile of herbs that he’d set aside to make blue, he was kind of tapped out.
+
+Lucas pushed various mushrooms aside, and dug through one of his drying jars, and he came up with enough silver leaf and arrow root to do the job, mostly, but looking at the stats, he decided that probably wasn’t going to be enough to handle a double shot of a Stalking Spinner.
+
+Silver Leaf: End 1, heal 1, poison -2
+
+Arrow Root: poison - 3, makes any potion containing it twice as bitter.
+
+“Hey, Adin, stop what you’re doing and go out and find me some broom thistle leaves or gold heather blossoms,” Lucas ordered as he dug out his mortar and pestle and threw the herbs he’d already gathered inside it before he moved to the small stove across the way from his workbench and started to pump air into the dying coals.
+
+“The what now?” Adin asked.
+
+“Come on man, you’ve gathered both of those with me before,” Lucas said, not bothering to look up at him. “I need the spiny leaves of the puffy yellow thistles or the bright yellow flowers of that weed I showed you. They’re in basically every field; you just have to look.”
+
+“So did you want—” Adin asked, but as soon as he opened his mouth, Lucas whirled around.
+
+“Right fucking now, man!” Lucas yelled. “Hura’gh’s heart is going to stop if you don’t get a move on!”
+
+That at least got him moving, and he ran off to the field without so much as a knife or a basket to find what Lucas needed. He took his sweet time, too. While he was gone, Lucas crushed the herbs he had, boiled some water, and did everything he could. He was honestly tempted to feed this mixture to the big lug, but deep down, he knew that -3 poison wouldn’t be enough to counteract the toxins coursing through Hura’gh’s veins, though.
+
+So he waited, and when Adin returned with a handful of crap, Lucas threw it on the rough wood counter and started throwing out everything he didn’t need. Yellow moth weed? Pass. Thorny worm tongue? Poisonous. Long plains grass? Useless.
+
+Lucas rolled his eyes. Adin really has no eye for this, he thought to himself. When Lucas had finally reduced the pile of crap down to the herbs he actually wanted, he paused.
+
+Broom Thistle Leaf: Int 1, poison -2
+
+Golden Heather Blossom: Str 1, poison -2
+
+Would just the thistle be enough, he wondered. -7 poison is a hell of a lot of antivenom, but -9 would be that much better. There’s always the risk of an adverse reaction, though…
+
+Tucked away in Lucas’s missing notes were recipes he’d developed and ingredients worth remembering, but more than that, he’d kept lists of all the ingredients that didn’t belong together. Some of them were as mild as nausea or foul taste, but others could produce bizarre and even dangerous results.
+
+The odds of that happening with any given combination of herbs was rare, of course, but the more ingredients he added to a given potion, the more likely it was that one or two of them wouldn’t like each other. Lucas had never been able to predict quite why that was. Theoretically there were synergistic combinations too, but he’d only found a few of those. They seemed to be a lot rarer than an adverse reaction.
+
+“Fuck it,” he muttered, throwing both of them in the mortar and pestle and getting to work.
+
+Two minutes later, he had all four bubbling happily away in the water as he boiled down the brown residue and then set it aside to cool in a flask.
+
+Bitter potion of Purity (1 dose): moderate purge poison, +1 to stats, bitter
+
+As soon as it was cool enough to touch the vial, Lucas corked it, dunked the hot vial in a pot of cold water, and then whirled around. That was when disaster almost befell him. He knew where Adin was. He’d seen the Viscount out of the corner of his eye, but as he whirled around to take the potion to the half-orc, he ran right into the man’s sister.
+
+“Alright, lets—” Lucas started to say as he spun around, but the words died in his throat.
+
+Until that moment, Lucas had been so focused on the work he’d been doing that he hadn’t seen her. She squeaked in surprise as he knocked her on her ass, but for now, he ignored that. Normally, he would have been able to catch her and make a cute little joke about it if he'd been into the woman because he was smooth like that.
+
+This time, though, he looked past her pretty blue dress and the look of shock on her face as he watched the fragile vial he’d just worked so hard to create tumble end over end through the air. Everything happened at once as he lept over her falling form and grasped at the cylinder that was slowly falling to the dusty wooden floor.
+
+The world moved in slow motion as Adin looked on in horror. Lucas fumbled once, and felt his hand slip on the slick wet glass with his right hand, but managed to snatch it with his left before he hit the ground hard and rolled with it.
+
+He was as surprised as anyone as he rose to his feet and found the ugly beige potion unbroken in his hand. He looked at the woman struggling to get to her feet while she drowned in her petticoats to her brother and back again before he yelled, “Sorry!” and ran from the building.
+
+Hura’gh wasn’t on the clock, per se. There was no evil countdown above the half-orc's head, which was slowly ticking to zero, but Lucas wasn’t exactly going to take any chances. If the roles were reversed, he was fairly certain that he would already be slowly turning to room temperature.
+
+Lucas found the warrior exactly where he’d left him in exactly the position he’d left him, which wasn’t a surprise. “Alright, buddy,” he said, “This is going to taste like shit, but it’s going to counteract the poison, so just do your best to swallow and then just relax until it kicks in, okay?”
+
+Hura’gh said nothing, but then Lucas didn’t really expect him to. Instead he just poured a little of the beige liquid in at a time and stopped each time the half-orc made any choking sounds. Once that was done, he waited, and when Hura’gh’s outstretched limbs began to relax and fall down to his side, Lucas knew he’d been successful.
+
+Lucas stood and went to rejoin the others but found they’d joined him outside. This time, they watched him from a safe distance, at least giving him the perfect chance to apologize. “I’m sorry about that, Denaria,” he said, “I was—”
+
+“Oh, please, stop,” she insisted. “I was the one that was too curious and got in the way. You were only trying to save that poor man’s life!”
+
+“Yeah, well,” Lucas struggled for the right words. “Hura’gh is a tough bastard. I’m sure he would have made it through but… best not to take chances. right?”
+
+“What happened to you two, anyway?” she asked, approaching him with a cloth and wiping away a bit of blood on his forehead from a wound that Lucas didn’t know he had.
+
+“Well, we went goblin hunting, and we were ambushed by a giant spider,” he said with a shrug. “We got the ingredients we needed, but… well, you can see for yourself. That was one tough bitch, pardon my language.”
+
+She blushed at that and said, “Regardless, I think it’s very brave.”
+
+“Thanks,” he said, rubbing the back of his head, not sure what to say. “Now, if you’ll excuse me, I have a few nasty ingredients to purify before I get started with the real work.”
+
+“Oh? Is that for the blue?” she asked innocently. “Blue potions are mana potions, right? I’m sure those will fetch quite the price.”
+
+“Yeah… something like that,” Lucas answered, shooting her brother an annoyed look.
+
+What the fuck is he doing telling his sister anything about a FUCKING drug lab? He raged internally. He said nothing, but Adin saw the accusation in Lucas’s gaze and shrank away.
+
+“Adin, you keep an eye on Hura’gh for me,” Lucas muttered as he walked back toward his lab. He didn’t have time for this amateur-hour shit.
