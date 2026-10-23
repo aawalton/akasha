@@ -1,0 +1,147 @@
+Ronan watched the items being used without much interest. The sounds and lightshow didn’t interest him after seeing them so many times and he just wanted to receive his rewards.
+
+[Endless Treasury Token (Common)] has been consumed x2!
+
+You have received [Deep Comprehension Elixir (Common)]!
+
+Deep Comprehension Elixir (Common)
+
+A mysterious concoction that allows the one who consumes it to squeeze every last drop of energy contained within shards while cultivating. Shards provide 5% more energy for 4 hours.
+
+You have received [Princess Petal’s Flower Crown (Common)]!
+
+Princess Petal’s Flower Crown (Common)
+
+A crown woven from garden flowers by the princess of a distant kingdom, infused with the magic of friendship
+
++1 Charisma, +1 Wisdom
+
+[Myriad Skills Tome (Common)] has been consumed!
+
+You have received the skill [Idle Cultivation (Common)]!
+
+Idle Cultivation (Common): The user is able to passively cultivate while performing other actions, provided they have a charged shard in their possession. Idle cultivation is 10% the speed of regular cultivation and operates at 80% energy absorption efficiency.
+
+His class had gone for the double, giving him an item and a skill related to cultivation. When it came to skills Ronan also knew the system had a tendency to give people skills that were suited to their existing talents, so he wasn’t that surprised.
+
+The skill wasn’t that beneficial for him, given that he had theoretically infinite time anyway and wasting shard energy didn’t appeal to him. If he found himself in a situation where he couldn’t take a break to cultivate he wouldn’t end up wasting shards.
+
+The elixir was a useful find, too. It reminded him of the warrior’s fortitude elixir he’d earned in one of his earliest iterations. That was how he’d first begun his cultivation journey.
+
+Of course the best item he’d received was a nostalgic one. He raised the crown of flowers in one hand, sighing as he stared at the delicately woven stems. The stats it offered didn’t mean much to him anymore, but he put it on his head regardless. Style was just as important as strength.
+
+There was still another reward to use. The cornucopia of convalescence. It was an item he’d never seen before, but the moment he pulled up the description and read it he was elated. It was practically tailor-made for him.
+
+Cornucopia of Convalescence (Common): Reach into the cornucopia and claim the fruits of the gods.
+
+Ronan wasted no time in activating it, looking forward to seeing which stat fruit he would gain. One of those he had yet to discover, or one he’d already found but hadn’t maxed out his enhancement for yet?
+
+[Cornucopia of Convalescence (Common)] has been consumed!
+
+You have received [Lucky Banana (Common) x2]!
+
+Lucky Banana (Common)
+
+A banana of fortuitous origins, with golden skin and delightful flesh
+
++1 Luck
+
+You have received [Dexterous Date (Common)]!
+
+Dexterous Date (Common)
+
+Rich and sweet fruits with soft and chewy flesh that improve fine motor control and hand-eye coordination.
+
++1 Dexterity
+
+He was rather surprised to receive two kinds of fruit, but satisfied nonetheless. Bananas and dates worked exceptionally well as a flavour combination. Ronan was disappointed to only have one date, but he savoured small bites of it in between mouthfuls of the lucky bananas.
+
+His sweet treat consumed, and his stats improved once more, Ronan pulled up his status to see which of his stats he was still missing fruit bonuses for. Only endurance, regeneration, and strength fruits still eluded his grasp.
+
+As he was about to close his status and check on the others, he noticed something out of the corner of his eye. At least four of his masteries had gone up in tier.
+
+Returning to the kill notifications that he’d barely glanced at, having been so excited about reaching level 100, Ronan realised he needed to take things slowly and not simply rush for the flashy gains. All improvements were important and worthy of his notice, even the little ones.
+
+Then there were the weapon masteries, and pain, which had increased during the wave trials but he’d never actually gone through the new effects. Mostly it was just small increases in the existing bonuses, but there was the occasional new advantage he’d picked up along the way. He read through them all, regardless of whether he’d earned them during the tenth wave or much earlier. There were even a few new additions.
+
+You have reached the mastery cap for [Stamina]!
+
+Stamina III has evolved to Stamina IV!
+
+All stamina costs are reduced by a moderate amount. Whenever you expend stamina to activate a skill or item, regain 9% of the expended stamina. Efficacy of endurance +10%
+
+You have reached the mastery cap for [Mana]!
+
+Mana III has evolved to Mana IV!
+
+Mana costs for skills are reduced. Activation and channeling times for skills which cost mana are reduced. Wisdom potency +9%. Wisdom efficacy +15%
+
+You have reached the mastery cap for [Spear]!
+
+Spear II has evolved to Spear III!
+
+Gain mastery over spears and spear-like weapons moderately faster. Gain a 20% chance to restore stamina equal to 60% of a blow when that blow is parried while wielding a spear or spear-like weapon. Successful strikes with spears gain a 25% increased chance to deal a critical hit.
+
+You have reached the mastery cap for [Health]!
+
+Health II has evolved to Health III!
+
+All health costs are reduced moderately. Vitality efficacy +15%. Vitality potency +5%
+
+You have reached the mastery cap for [Sword]!
+
+Sword II has evolved to Sword III!
+
+Weight and balance penalties for all swords are reduced moderately. When inflicting [Bleeding] with swords, gain a 4% chance to inflict a second instance of [Bleeding] for 60% of the damage as the first. Natural sword talent is multiplied by 1.2x
+
+You have reached the mastery cap for [Pain]!
+
+Pain II has evolved to Pain III!
+
+Your pain is converted into a regeneration buff at a minor exchange rate. The more damage you suffer from an opponent, the more you resist their strikes. (Lasts until death or seven minutes after combat ends). Nervous system impulse reactions to pain are minutely reduced. Pain impacts your ability to focus and act by an infinitesimally lower amount.
+
+You have reached the mastery cap for [Perception]!
+
+Perception I has evolved to Perception II!
+
+Perception is increased minutely. Nerve signals between perceptive organs and the brain travel minutely faster. Gain mastery over perception minutely faster. Vision range and clarity of vision at range are increased minutely. Field of view is increased minutely. Race-specific senses are increased in efficacy by a minute amount.
+
+You have reached the mastery cap for [Mace]!
+
+Mace II has evolved to Mace III!
+
+Deal minutely more damage when striking with a mace. Gain mastery over maces minutely faster. Weight penalties when wielding maces are minutely reduced. When landing a successful blow with a mace, gain a 5% chance to apply a cascading bleeding effect for 2% of the strike’s damage.
+
+You have reached the mastery cap for [Hammer]!
+
+Hammer has evolved to Hammer I
+
+Gain mastery over hammers infinitesimally faster. Hammers are infinitesimally more durable when you wield them. Excess swing momentum from hammers is counteracted by an infinitesimal amount.
+
+You have reached the mastery cap for [Critical]!
+
+Critical has evolved to Critical I
+
+You are infinitesimally more likely to land a critical hit when striking vital areas of an opponent. Critical hits gain a damage multiplier equal to (Strength + Agility) x 0.001; this multiplier can not reduce the damage below the original amount. Gain mastery over critical infinitesimally faster.
+
+It was a lot to take in. He knew he wouldn’t remember most of the changes or new abilities he’d just gained for a while. However, he didn’t need to remember them for them to be useful. Most of the mastery effects were passive, simply improving things he already did in a fight.
+
+Those kinds of small passive gains would make him unbeatable in a fight.
+
+Once he’d truly used all his rewards and taken stock of his gains from the trial itself, Ronan was ready to return to the tower. Though he would first need to make sure his allies were also ready.
+
+When he stood up to check on Ryan and Florence, he found them chatting around the stone table in the centre of the room. “You two already finished? That was quick.”
+
+“It was just using a few items. Most of the delay comes from the excitement. I’m not sure what took you so long, Ronan? Got something to share with us?” There was a teasing smirk on Florence’s face as she replied.
+
+“You wish. Get to level 100 yourself and you’ll find out.” She rolled her eyes. Ryan was less enthused.
+
+Ronan understood the man’s grim expression. They had just fought through a harrowing life-and-death battle in which they’d watched 6 of their allies die. That was tough to handle.
+
+“Let’s head back then. I don’t want to leave the pillar unguarded for too long around those former friends of yours.” The insult was in jest, but Ronan was a little worried about leaving the pillar exposed for a long period of time.
+
+Rockmore’s goons were far from the biggest threat in the sector. He wanted to be ready if any other would-be claimants arrived before the first phase of the integration ended.
+
+Stepping through the portal, he shivered as the goopy substance passed over him. It didn’t stick, but it was still odd. As he stepped into the room, the stench of sewage and rot struck his sinuses like a shit-stained hammer.
+
+The source of the stench was standing just a few metres in front of Ronan, glowing yellow eyes glaring at him through strips of grey flesh.

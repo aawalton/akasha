@@ -1,0 +1,137 @@
+Ronan had expected to see a class evolution message when he reached level 100, but that wasn’t actually what followed the congratulatory message. Curious, he kept reading.
+
+You have reached the first threshold for your race! Race will evolve…
+
+Initiating DNA and Heritage analysis…
+
+Ronan found his body frozen. He was somewhat prepared for what came next, but as this was his first time going through a racial evolution he knew there would be some surprises.
+
+Analysis complete!
+
+No major divergence from base race detected!
+
+Minor divergence from racial heritage detected!
+
+Changes will be incorporated into racial evolution options!
+
+Please select an option for your race evolution from the following:
+
+Human (F)
+
+The basic evolution of the human race. As one of the most numerous species in the multiverse, their evolutionary path is well documented. Follow the path of a quadrillion ancestors, raising yourself to the next grade while retaining everything that makes you human.
+
+Cultivation talent is 1.1x stronger
+
+Learn all masteries 1.2x faster
+
++5 Vitality, +5 Endurance, +5 Free Stat Points on level up
+
+Unlock requirements:
+
+Challenger is level 100
+
+Challenger is human
+
+Augmented Human (F)
+
+You still retain your humanity, but you felt that your natural flesh was insufficient for your purposes. Having taken the first step on the path of the augmented human, this path opens up future possibilities beyond your imagination. Why stick with what nature gave you when better options exist?
+
+Learn all masteries 1.1x faster
+
+Receive Race Skill [Augmented Immuno-Suppression (Rare)] upon selection of this evolution
+
++3 Vitality, +6 Endurance, +1 Resistance, +1 Tenacity, +7 Free Stat Points on level up
+
+Unlock requirements:
+
+Challenger is level 100 or above
+
+Challenger is human
+
+Challenger has modified their body with non-organic components
+
+Ronan paused. The options weren’t that varied or explosive compared to some of his recent classes. The stat points in particular felt lacking, but compared to the meagre 3 points that he received from his base race, they were a huge improvement. He had just been spoiled by dao child and its absurd free stat gain.
+
+A race skill was new. Only the augmented human option received one. Based on the name of the skill Ronan had an idea about what it did. Modifying one’s natural body would cause the immune system to go haywire, and this skill was likely the system’s solution to the problem.
+
+He wasn’t sure what to do. Mainly because he had no idea how his heritage interacted with this facet of the system. Evolving his race was a big deal. Unlike a class that was simply a path he chose, this would be changing him at his core. Whether his heritage would make that permanent or not remained to be seen.
+
+He doubted it, as that would be crazily overpowered. If he improved his race to A grade, would he gain those stats from level 0 each time he began a new iteration?
+
+There was every chance it wouldn’t be permanent and would work just like his class choices where each iteration reset him back to the base and he would be able to choose a new path. Given that there were clearly variations in the race evolution he could take, there was a good chance his heritage would let him keep that freedom.
+
+It was clearly because of his trait, mineral skeleton, that Ronan had unlocked the augmented human race evolution. However, he wondered whether he even needed to take this evolution. He could just keep using the trait regardless of any circumstances relating to his racial makeup.
+
+The multipliers on the regular human evolution were also better, which was making Ronan want to take it over the augmented version. Faster cultivation and masteries was never a bad thing.
+
+Yeah, fuck it. I’ll just stay human for now. I don’t want to mess with anything that could permanently change me until I know how my heritage interacts with race evolutions. His decision made, Ronan accepted the regular human evolution.
+
+You have selected [Human (F)] as your race!
+
+Initiating race evolution…
+
+Unlike the class evolutions which were often accompanied by copious amounts of pain, a warmth filled Ronan from within. It felt like returning to the embrace of his mother, or sinking into a warm bath. A womb, I guess…
+
+It was fitting for an evolution of his race. He felt things shifting inside him, but couldn’t quite sense what was going on. A veil seemed to have been lowered by the system, making him an observer without the ability to discern the goings-on of the evolution.
+
+Race evolution complete! You have become a [Human (F)]!
+
+Ronan found his consciousness returning to awareness as the effects of the evolution faded. He looked around the waiting room, seeing Ryan and Florence still going through their own loot.
+
+Clencing and unclenching a fist while observing his body, from within and without, Ronan frowned. He didn’t feel much different.
+
+Still, the proof was in the pudding. His stat point gain had improved, he would cultivate a little quicker, and learn all masteries slightly faster.
+
+The race evolution wasn’t all that awaited him at level 100, however. The improvements were yet to finish. There was another message blinking, waiting for his attention.
+
+Congratulations for reaching Lv.100!
+
+You have reached the second threshold for your class! Class will evolve…
+
+You have not unlocked any special evolutions due to your achievements
+
+You have not unlocked any special evolutions due to your heritage
+
+You have not unlocked any special evolutions due to your race
+
+You have not unlocked any special evolutions due to alternative methods
+
+Please select a class evolution from the following:
+
+Dao Child (Mythical)
+
+Blessed by the Grand Dao, you are a child of providence. Talented in the arts of cultivation, you know the true path to perfection in this cosmos lies not in the plethora of skills and masteries available to challengers, but the cultivation of oneself. Mind, body, energy, and soul. Four gardens, each of which must be cultivated if one wishes to reach the pinnacle. You have embraced your destiny, tending to the four paths with care. Continue reaching for the heavens and grasp the Dao.
+
+Cultivation talent x3.25
+
+Cultivation benefits are 70% more effective
+
+You are more likely to receive slightly better cultivation arts, and items that benefit your cultivation, or from your cultivation, from endless treasury tokens
+
+You are able to comprehend lesser daos with far more clarity, and greater daos no longer elude you
+
++135 Free Stat Points on level up
+
+Unlock requirements:
+
+Challenger possesses the class [Dao Child (Legendary)]
+
+Challenger has all four cultivation paths beyond the first threshold at Lv.100 or below
+
+As before there was only one class evolution he could choose, but unlike that time it had increased in rarity and the benefits were far, far better. A mythical class. Ronan’s first. The chronos merit he would earn flashed to mind, but honestly he felt the actual class benefits superseded it.
+
+With the extreme quantity of shards he’d acquired from completing the gate trial along with the extra multipliers to his cultivation talent, Ronan felt that he might be able to push all of his cultivation paths a few realms higher before the end of this iteration. Not to mention the treasury tokens and skill tome he had that might give him cultivation related skills or items.
+
+You have selected [Dao Child (Mythical)] as your class evolution!
+
+Initiating class infusion…
+
+Another round of excruciating pain later, which involved every part of his body, soul included, being ripped, torn, and thrown about as though they were in a blender, Ronan had evolved his class.
+
+Infusion complete!
+
+Your class has evolved from [Dao Child (Legendary)] to [Dao Child (Mythical)]!
+
+With both of his evolutions complete, Ronan felt like a new man. There was still a little over fourteen minutes left on the timer. Whatever happened during the evolutions, it seemed to slow time for the person undergoing them.
+
+He had a new skill to earn and items to claim. Taking out the tome and the tokens, Ronan activated them all at once, wondering if his class would put its finger on the scales to give him something neat.
