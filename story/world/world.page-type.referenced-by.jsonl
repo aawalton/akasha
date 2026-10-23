@@ -91,6 +91,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/demonic-city-builder-litrpg-city-kingdom-building/demonic-city-builder-litrpg-city-kingdom-building.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/demonic-conqueror-litrpg-isekai-progression/demonic-conqueror-litrpg-isekai-progression.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/devour-skill-eater-litrpg/devour-skill-eater-litrpg.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/discontinued/discontinued.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/disgardium/disgardium.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/divine-dungeon-universe/divine-dungeon-universe.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/dog-immortal/dog-immortal.world.ts","typed":true,"deferred":false}
@@ -225,6 +226,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/rat-girl-evolution-lab-rat-to-unrivaled/rat-girl-evolution-lab-rat-to-unrivaled.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/reader-mage-stubbed/reader-mage-stubbed.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/ready-player-one/ready-player-one.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/rebirth-a-mage-regressor-litrpg-stubbed/rebirth-a-mage-regressor-litrpg-stubbed.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/reborn-as-a-demonic-tree/reborn-as-a-demonic-tree.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/reborn-as-a-one-celled-organism-fantasy/reborn-as-a-one-celled-organism-fantasy.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/reborn-healer-litrpg-isekai-b1-stubbed/reborn-healer-litrpg-isekai-b1-stubbed.world.ts","typed":true,"deferred":false}
