@@ -1,0 +1,221 @@
+“Jared! Watch out!”
+
+The skeleton clumsily lurched at the cultist. Jared stepped backward, only to collide with Anne. She fell forward with a shout. “What are you—”
+
+There was no time to reply. Jared slashed at the skeleton. His blow sheared through bone, but the skeleton didn’t react. A few ribs lighter, it continued to lunge his way.
+
+Anne fell against him again. He pushed her away. “Get out of my way!”
+
+“How rude. Isn’t she your beloved comrade? And you just dropped her corpse, just like that!”
+
+Jared didn’t have time to turn. A blade slid between his ribs and pierced through the front of his chest. He grunted and stumbled, all the air leaving him.
+
+Both hands and the Armalgam’s hands on his sword, Levi twisted it, then yanked it free. Jared joined Anne on the ground, gasping his last breaths. Levi looked around. “Was that all of them?”
+
+Crack. Across the huge cavern, Isa tossed a cultist with a broken neck aside. She gave him a derisive look. “One got through. He could have hurt Colin.”
+
+“Sorry, sorry. They’re just standard-issue skeletons… well, except the slombie.” Levi twisted his lips. “I really need a skill that enhances the undead I make.” Right now, any undead he made was stat capped to whatever stats they had when they died. He also couldn’t rez any undead with higher stats than he himself had. That led to two problems. One, any undead he made had to be weaker than him. There were ways to overcome this, of course, or mitigate it. The most obvious example would be to redistribute his stats. He had 66 magic and 61 resistance to magic, but if a zombie, who needed no magic and didn’t care much about defenses anyways, had the equivalent of both of those stats combined put into strength, then it would have 127 strength—far beyond his strength.
+
+The problem was that he had to raise a person who already had 127 Strength, yet fewer total stats than his total combined stat count of 249, in order to capitalize on that. Hence why he had created the Armalgam. By raising some strong people’s arms, he’d been able to physically carve out the stats he wanted, in this case, Strength, and carve out the ones he didn’t want, everything else.
+
+But that was clunky. He had to carve up several men in order to create it. While he was fine with doing that kind of work for important zombies he meant to keep around for a while, he didn’t want to do it for every single mob skeleton he raised.
+
+This was all putting aside the other obvious problem: he could only raise dead with stat totals less than or equal to his own stat total. That meant that the second he leveled up, all the zombies he’d previously raised were outdated. In fact, even the Armalgam had struggled to stand up to Kai. It was Strength-optimized, and had far more Strength than Levi’s meager 37, but Levi had created it ten or so levels ago. He had far more stats now, but the Armalgam was stuck at his old stat cap. It couldn’t have 249 Strength, even if he’d optimized it perfectly. It could only have whatever his old stat cap’s worth of Strength was. And every time he leveled up, it would only get worse.
+
+He didn’t mind so much—he could keep harvesting arms, after all—but then he ran into the third problem: the denizens of this world had to work way harder than isekaied people to gain stats. Which meant that, at level thirty of a Champion class, the only way to fully optimize a construct like the Armalgam was to hunt fellow isekaied people’s arms. Not only that, but hunt the arms of people who were higher level than him and had put nearly all their stats into Strength. Strength was a common stat to raise, so it wasn’t outright impossible, but nonetheless, it was a ridiculous requirement. A ridiculous requirement that only got worse the higher his stat cap grew. He’d be caught in a loop of eternally hunting fellow isekaied people for their arms, only to immediately need to hunt a new isekai arm the second he leveled up. And sure, he was meant to be hunting Champions, but even so, did any other Champion have such a ridiculously stringent requirement capping their power output?
+
+He glanced at the Armalgam. Even the arms it was using now came from an isekaied woman’s minions, who were doubtless boosted by her skills. Replacing them wasn’t as simple as using a cultist’s arms. In fact, he doubted he’d run into a cultist yet who had arms strong enough to qualify as upgrades for the Armalgam.
+
+“So, in summary, I need to be able to strengthen both specialized constructs like the Armalgam and mob skeletons if I’m meant to keep on like this,” Levi finished aloud.
+
+Isa squinted at him. “What?”
+
+“Nothing. Just silently bargaining with the System,” Levi said.
+
+She snorted, then tensed. Her eyes narrowed at something behind him.
+
+Levi frowned. He looked over his shoulder, then back at Isa, then over his shoulder again. At last, his eyes widened. “Oh, right! Isa, meet Kai. Kai, Isa. Kai’s an isekaied guy like us. He’s kinda a douchenozzle but we’ve struck a truce for now.” He leaned in. Raising his hand, he continued at a whisper, “Also he’s waaaaaay stronger than me, so this is a good thing for us. Don’t antagonize him.”
+
+“So sayeth the pot,” Isa intoned. She leaned to the side, getting a better look at Kai.
+
+From across the canyon, Kai eyed them warily back.
+
+“Right. Well, as long as you understand.” With that, Levi opened his System.
+
+Levi | 18 | Lv 31
+
+Class: Necromancer [SPECIAL]
+
+Str: 39
+
+Mag: 68
+
+Dex: 35
+
+Spd: 37
+
+Def: 15
+
+Res: 64
+
+[Swordsmanship]
+
+[Shadow Manipulation]
+
+[Shadow Step]
+
+[Raise Dead]
+
+[Drain]
+
+[Shape Dead]
+
+[Heal Undead]
+
+[Call Ghosts]
+
+[Death Resist]
+
+At the bottom, a message popped up, overlapping his skill menu. A chat scrolled down on the message, as if he were receiving texts from a useless IT bot on some manufacturer’s help website.
+
+[Request Heard. Processing…]
+
+[Warning! Skill requires more levels than user has acquired.]
+
+[Would you like to defer future skills to accelerate your acquisition of this skill?]
+
+Levi raised his brows. “Huh. How long would it take me to get the skill if I did that?”
+
+[Level 40]
+
+“And if I didn’t?”
+
+[Level 55]
+
+“Damn, fifteen more levels? Yeah, okay. Defer skills. I need that buff ability posthaste.” He paused, then squinted at the screen. “To be clear, I need a permanent buff, not just a temporary boost.”
+
+[Level 40]
+
+Levi nodded. “Good, good.”
+
+Isa squinted at him. “Are you talking to your System?”
+
+“Yeah. You don’t?”
+
+“No. I’m not crazy,” Isa said.
+
+Levi shook his head. He patted her shoulder. “You should try. It’s gotten me pretty far.”
+
+She hesitated, then shook her head and sighed. “You can communicate with it through thought alone. You don’t need to speak aloud.”
+
+“Oh. But that’s boring.” He walked over to the hole in the ceiling and extended the Spinal Cord for Colin to climb down again.
+
+“Sorry, by the way,” he said.
+
+“Hmm?” Colin asked, distracted. He carefully placed his boot on the next bone down and lowered his weight onto it.
+
+“I didn’t get hurt much in that fight. Not much healing for you,” Levi apologized.
+
+“Huh? No, no. That’s a good thing,” Colin assured him.
+
+“But you won’t get to level up that way! Wait, I know. What if I rez a bunch of low-level skeletons, and you use your life spells to kill them? Can we farm EXP for you that way?” Levi wondered aloud.
+
+“It’s fine, really—”
+
+“Don’t be like that! Now isn’t the time to be demure. Look at all these skeletons! They’re just begging to be rezzed and used for EXP farming! Isn’t that right, guys?” Backing up, Levi slung an arm around one of his skeletons. Putting his other hand to the side of his mouth, he muttered, in a bad approximation of ventriloquism, he continued, “That’s right, Colin! We’d love nothing more! Put our tired old bones to use!”
+
+“Won’t it waste your mana?” Colin pointed out.
+
+Levi waved his hand. “I’d rather waste it now to level you up, than not have a healing spell we need later. Plus, what do you mean, wasted? We’re getting you sweet, sweet EXP! That’s not waste at all!”
+
+“You don’t even know if it’ll give him EXP,” Isa chipped in.
+
+Levi winked and finger-gunned her direction. “That’s why we ought to find out! What do you say, Colin?”
+
+Behind him, Kai scoffed quietly, but just loud enough to be sure they’d heard him. He turned, walking away, deeper into the dungeon.
+
+Levi let him go. No reason to stop him. The man was a loose cannon at best. For now, he wouldn’t deliberately harm them, but he didn’t have any reason to want to hold Kai close, either. Better to let the loose cannon bounce around and roll over someone else. They had enough to worry about with a whole dungeon ahead of them.
+
+Colin hesitated a few more seconds, then nodded. “Well, if you’re okay with it, Levi, I guess there’s no harm in trying.”
+
+Levi nodded excitedly. He stepped away from the skeleton and backed toward Isa and Colin, gesturing for Colin to start whenever he liked.
+
+Colin took a deep breath, visibly centering himself. He looked at the skeletons, then bobbed in a quick bow. “Sorry.”
+
+He spun in place, hefting his staff high. Bright gold light shone from its apex, then beamed out and fell on the lead skeleton. The skeleton’s jaw opened in an approximation of a scream, and it crumpled.
+
+“So? Did it work?” Levi asked.
+
+Colin bit his lip. After a long second, he looked at Levi. “How do I check my EXP?”
+
+Isa burst out laughing. Levi couldn’t help a chuckle. He shook his head. “Try asking the System. Then, uh, asking it again after you kill the next one.”
+
+“Right! Right.” Colin shook his head at himself. He gestured at the air for a few seconds, communing with the System, then hefted his staff again. Once more, gold light burst forth. Once more, a skeleton hit the floor and dissolved into bone dust.
+
+Isa nudged Levi. “Might want to get your slombie out of there.”
+
+“Huh? Oh! Good point.” Levi whistled. The slombie looked up, then slowly lumbered his way, out of the group of skeletons.
+
+He turned to Colin while it crossed to him. “Did it work?”
+
+Colin squinted, leaning in close to get a good look at something. He lifted his head, paused, then lowered it, quickly transitioning into a nod. “Yeah! Yeah, it worked.”
+
+“Excellent!” Levi snapped his fingers. Two more skeletons rose from the floor. “Let’s spend today here, then. Tomorrow, we can move out, after Colin and I replenish our mana.”
+
+“Er, I might need a few pairs of gloves, too,” Colin said sheepishly.
+
+Levi hopped to, a little more literally than Isa would have liked, from the look she shot him. “On it, sir!” He headed off, scouring the floor for gloves, or cloth that could be transformed into gloves. As he found them, he piled them up at Colin’s ankles, rezzing more skeletons whenever he noticed the stocks getting low. At last, when he’d found all the premade gloves, he sat at Colin’s side and pulled out his scissors and a needle and thread.
+
+Isa glanced at him. “How domestic of you.”
+
+“It was an essential skill, where I’m from,” Levi informed her.
+
+“He comes from an apocalypse,” Colin added.
+
+“That’s right. How was I supposed to look fly as hell in some storebought threads? Sewing clothes was an absolutely essential skill. Plus, I went through clothes at turbo speed. Where’s homeless, jobless guy supposed to find the money to buy new threads every day, huh?”
+
+Colin froze. He looked at Levi. “What?”
+
+“Huh? What do you mean, what?”
+
+“I thought it was… well, because there were no new clothes in the apocalypse, or something!”
+
+“Oh. Well, it was an apocalypse, yes, but… you know. The kind where it happened, and then everyone picked up their briefcases and went back to work. Right? It’s not like a few monsters are going to stop the grueling crush of capitalism from marching on.”
+
+“So wait, you just learned how to sew to look cool?”
+
+“Fly as hell, not cool. But yes. I had a sick cape and everything. Leather armor. I looked so fuckin’ fly.” Needle in hand, cloth in the other, Levi posed in a quick demonstration of how cool he looked in the past, then turned back to his sewing.
+
+“You were dressed in normal clothes when you landed in this world, though. I remember. You were wearing some kind of mismatched tracksuit,” Colin pointed out.
+
+Levi let out a dramatic sigh. “Unfortunately, I go through clothes like a porn star goes through condoms. But with more holes. Me and my clothes, that is. Hopefully not the porn star condoms.”
+
+“Holes? What, were you a smoker or something?” Colin asked, holding his staff up again.
+
+“Gods, no. There’s an infinite number of better ways to kill yourself.”
+
+“But the only people I knew who got holes in their clothes all the time were smokers,” Colin said.
+
+“I told you I had a high pain tolerance right from the start, right?” Levi hinted.
+
+“What does that mean?” Colin stared at him, totally lost.
+
+Levi snapped twice and pointed ahead of them. “Hey, healer boy. Those skeletons won’t kill themselves. C’mon, get shootin’.”
+
+Sighing, Colin turned back to the task at hand. Isa sat down beside Levi and gestured. “Have some extra cloth?”
+
+“Sure. You sew?”
+
+“I didn’t have another option. I hate sewing, honestly. But there’s no point standing idle when I can help.”
+
+He glanced at her. “You don’t have to. I really don’t mind. It gives me something to do.”
+
+“No, it’s fine. I need something to do, too. Idle hands and the devil, right?”
+
+Handing over the cloth, he waggled his brows at her. “I’d be happy to watch your idle hands do the devil’s work.”
+
+“Ha. You wish.”
+
+Like that, the three of them settled in, two of them sewing while the third one farmed EXP. Though, to be completely honest, Levi benefitted from it as well. Repeatedly rezzing the skeletons gave him EXP, too. On top of that, completing the same action over and over helped him optimize the simple, low-level rez spell. Even without trying, so much repetition made the inefficiencies of the spell clear, and with a few adjustments to the flow of mana, he optimized the mana needed to rez a skeleton.
+
+[Raise Dead] > [Optimized Raise Dead]
