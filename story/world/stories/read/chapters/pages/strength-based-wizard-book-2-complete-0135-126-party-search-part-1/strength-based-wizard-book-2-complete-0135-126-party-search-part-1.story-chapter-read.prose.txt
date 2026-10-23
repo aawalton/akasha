@@ -1,0 +1,457 @@
+Chapter 126
+
+Party Search, Part 1
+
+The following morning, I officially opt into Phase Two of the God Game while sitting at my kitchen counter in sweatpants, drinking a cup of black coffee after a hefty plate of eggs and veggies. Jelly Boy is in the living room watching a cooking competition where everyone is crying over scallops, and my phone is upside down on the counter because if I look at another message from someone I vaguely knew in tenth grade, I’m going to throw it through a window. Jerome has suggested I get a new phone number, which I’ve been strongly considering.
+
+The System message floats in front of me.
+
+STAGE TWO: THE BLESSED FEW
+
+[OPT-IN] / [OPT-OUT]
+
+I stare at it. My mind hovers over the [Opt-In] option. I hesitate for a moment. Dad’s face appears in my mind. His smile. His hand patting my back, comforting me while he sits propped up in his own hospital bed. Then Reshma. Breaking apart into motes of golden light behind me. The words she had spoken to Matt before joining me to help save Veronica, despite that not being their mission. Do the needful, she had said. Then there’s Veronica saying, What more do you need? And finally Labonte saying, Sons make very bad risk calculations.
+
+I inhale. My chest aches, but I know this is what I have to do.
+
+“Okay,” I whisper.
+
+I select OPT-IN.
+
+The System accepts immediately, and without fanfare. Just a clean chime.
+
+Ping!
+
+A new window appears in the center of my HUD.
+
+SELECTION CONFIRMED!
+
+WECLOME TO THE GOD GAME, STAGE 2!
+
+STAGE 2: THE BLESSED FEW
+
+In this second phase of the God Game, Participants will endeavor to complete three Objectives in order to gain access to the third and final stage of this divine contest.
+
+OBJECTIVES OF STAGE TWO:
+
+1: Receive a [Blessing] from a God.
+
+Note: Gods will have one month from the commencement of this phase of the God Game to select their champions and bestow a [Blessing]. If a Participant is selected by more than one God, the Participant may select which [Blessing] to receive.
+
+2: Obtain a Silver or Gold Gate Ticket.
+
+3: Use the Silver or Gold Gate Ticket to obtain the Divine Tear.
+
+Note: The Divine Tear is a Mythical Item. There are only 10 Divine Tears available. A Divine Tear may be shared by a Party. A Party may not control more than a single Divine Tear.
+
+CONSEQUENCES FOR FAILING TO COMPLETE OBJECTIVES:
+
+Elimination from the God Game
+
+Elimination Type: Culling
+
+TIME REAMINING IN STAGE TWO: 59 Days, 18 Hours, 14 Minutes.
+
+Thank you for participating in this Cycle’s Game. May Creation watch over all Participants and bring them success!
+
+This is all the same information I received when the second phase of the Game commenced following expiration of Stage One. I read it again, carefully, just to ensure I hadn’t missed anything the last time. Or that new information hadn’t been sneakily slip-sheeted into the summary of Objectives.
+
+Ping!
+
+A new System Notification springs into my vision, accompanied by the familiar pulsing sensation in my mind. This one contains new information.
+
+All Participants must form or join a Party prior to the completion of Stage Two of the God Game in order to proceed to Stage Three.
+
+NEW FEATURE ADDED TO [MARKETPLACE] MENU:
+
+[PARTY SEARCH]
+
+I blink. “What? This is interesting…”
+
+Jelly Boy blurps from the couch without looking away from the scallop disaster and the chef judge turning red in the face as he yell-spits inches away from a contestant’s face.
+
+I haven’t used the [Marketplace] much. Not because it isn’t useful. It is. Sort of. The problem is, it’s not Amazon for magical gear. Only Gate-produced items can be exchanged through the System. It’s mostly item-for-item swaps, or people paying other Gate-generated resources, such as elemental shards, for the desired auctioned item. Actual cash still requires in-person exchanges. Plus, now that I’m with Harvest Guild, they can probably handle most of that functionality for me. If I need equipment, Labonte has people for that. Probably.
+
+Still. I should probably think about the [Marketplace] more often, I think, as I open it.
+
+The familiar layout unfurls in front of me—categories, item postings, search filters, exchange requirements. A new tab pulses at the side.
+
+[Party Search]
+
+I select it.
+
+The interface shifts.
+
+Instantly, it stops looking like a marketplace and starts looking like the [Discussion Channels], except cleaner. Lines of text unfurl in the expanding window. It’s essentially a hyper-targeted discussion channel. Thankfully, unlike the [Discussion Channels] this menu appears to have search and filter functionality.
+
+An LFG board, I realize, chuckling to myself. The System has invented Looking For Group, for a super-powered death tournament. A message pops up before I can take in any of the new information.
+
+INITIATING [PARTY SEARCH] INFORMATIONAL PROMPT…
+
+[Party Search] is available to Participants who have opted into Stage Two of the God Game and require a complete Party. All Participants must be a member of an active Party by the end of the Stage Two to proceed to Stage Three.
+
+All Parties must have at least six members. Parties are capped at twelve members.
+
+A majority of a Party must be comprised of Earth-born Participants. Remaining Party positions may be filled by creatures designated as Allies.
+
+Each Participant may create a profile. Each Participant may choose what specific System-generated information to share with other Participants participating in Stage Two.
+
+MATCHING:
+
+If you desire to join parties with another Participant, you may select [Interested]. If both Participants mutually make this selection, a [Match] is generated. Upon a successful match, each Participant shall receive a [Party Gather Ticket] and a [Return Ticket]. A [Party Gather Ticket] will summon a Gate to the other Participant’s location. A [Return Ticket] will summon a Gate back to the approximate location in which the [Party Gather Ticket] was used. Each of these tickets may only be used by a single Participant and only by the Participant to whom the tickets were granted. Once the Participants are in proximity of each other, they may manually join parties.
+
+I stare at the message, reading it a couple of times over.
+
+“So,” I say slowly, “it’s like System User Tinder.”
+
+Jelly Boy gives a sharp buzz from the couch. On TV, someone drops a pan, sending a red wine sauce splattering over two workstations. Chefs are swearing up a storm, creating a symphony of censored bleeps.
+
+These tickets are interesting, I think. If each matched Participant gets a set, that leaves an extra pair of free high-powered teleportation items for one of the two Participants. I have a feeling that’s an exploit, and a purposeful one too.
+
+I exit the explanatory message and take in the [Party Search] interface’s tabs, which are lined across the top of the window, above the lines of text, which I realize are overview listings of other active Participants. There are way more than I anticipated.
+
+Search Participants / Filters
+
+Recommended Matches
+
+Participant Profile
+
+Expressed Interest
+
+Matches
+
+My coffee has gone cold by this point. I take a sip anyway.
+
+I mentally select Participant Profile.
+
+The screen changes again, and a blank profile template opens in front of me.
+
+My name sits at the top, along with my Participant No., Location and Level. This appears to be information included in the marketplace’s listing by default.
+
+Joseph Sullivan
+
+Participant No. 4,432,444
+
+Cleveland, Ohio, United States
+
+Level 43
+
+Underneath that is a row of empty fields waiting to be filled. They correspond with just about all of the information the System makes available: from my Discipline and Class, to the equipment I have equipped and a detailed description of each of my Traits, Skills and Spells. There’s also a general section at the bottom for a short Participant-produced blurb and a photo.
+
+I snort. Great. Now I have to write a dating profile for the apocalypse.
+
+I stare at the empty profile. The joke fades.
+
+Minimum six members. Mostly Participants. Allies can fill the rest.
+
+That means I need people. At least four, if I’m counting myself and Jelly Boy.
+
+I glance toward the living room.
+
+“Buddy,” I call.
+
+Jelly Boy buzzes and gurgles in response.
+
+“You’ll join my Party and ride with me to the gates of Hell, right/”
+
+He buzzes with the serene confidence of a creature who does not understand legal liability.
+
+“Thanks, pal!”
+
+I look back at the profile.
+
+The God Game has become a group project, which honestly might be the cruelest escalation yet. I place both hands on the countertop and lean forward, reading the empty fields again. Then, sighing, I start building my profile.
+
+For a few seconds, my brain tries to be generous. Maybe this is about transparency. Maybe the System wants Participants to find compatible parties and reduce accidental team wipes. Maybe this new feature is meant to build trust between people who are about to risk death together. Then the sane part of my brain grabs that thought by the collar and throws it down a stairwell.
+
+Only ten Parties will be coming out of this stage of the Game alive. Everyone with access to this Marketplace is competing with me. Every single one of them is either another Participant trying to advance, or someone looking for useful pawns to keep themselves alive in this contest. I suppose I can include myself in that latter designation. If anything, this marketplace makes for a potential great source of intel on your competition. Showing my entire hand would be stupid. Extremely stupid.
+
+I’m not listing every Skill. I’m not posting my Traits. I’m absolutely not showing the details of [No Pain, No Gain], [Muscle Mastery], [Cast Fist], or anything else that would give my opponent an advantage in a combat scenario. But I also can’t share too little. After all, the point of this marketplace is to entice total strangers to want you over anyone else for a very limited number of spots a Party can hold. Even at a maximum size of twelve, there’s not a lot of room to carry dead weight.
+
+I think back to the Chase Guild assessment. On the surface, seeing my Class and the fact that I’m a Spellcaster with zero mana looks ridiculous. Because it is. At least a little. At best, it raises a lot of questions that may seem like too much trouble to sort through. If I don’t show enough, people might underestimate me. Or worse, they might ignore me.
+
+That used to be a problem. Now, maybe less so, I think. My newfound notoriety might actually help. I hate that sentence as soon as I think it. But it’s true. Even Participants on the other side of the world could search my name. If I include Harvest Guild as my affiliation in my [Party Search] profile, a simple internet search brings up the Public Square footage, the Lake Erie footage, Stephanie Wolf’s commentary, and probably seventeen conspiracy videos titled something along the lines of MUSCLE MAGE: HERO OR GOVERNMENT-PLANTED FALSE FLAG?
+
+That should be enough to warrant interest. I hope.
+
+I set the profile to display all basic information.
+
+Joseph Sullivan
+
+Participant No. 4,432,444
+
+Cleveland, Ohio, United States
+
+Level 43
+
+Discipline: Spellcaster
+
+Class: Muscle Mage
+
+Guild Affiliation: Harvest Guild
+
+I leave Stats hidden. Traits hidden. Abilities hidden. Skills hidden. Spells hidden.
+
+Then I select the photo option.
+
+A grid appears. Twelve images. All of me. All in active battle.
+
+The first one is from the fight against the Chernobog Avatar. I’m standing in the crater, steam pouring off my body, the wizard hat shadowing my eyes while blue mist leaks from beneath the brim. It’s the image everyone is using in the headlines. The Muscle Mage money shot from one of Stephanie’s drones.
+
+Another shows me midair over Lake Erie, staff beneath my feet, a beam of blue energy punching upward into Nereus like God decided to endorse chest day. The striations in my chest look sick as hell. This one is probably another picture pulled from Stephanie’s work, though I’m less certain.
+
+There are more, which cause me to raise my eyebrows.
+
+Me, striking a flexed pose, at the courtyard containing the fractured World Seed.
+
+Me riding a slime-animated dragon corpse. The image captures me on the dragon’s back, one hand gripping a handful of chain, my body lit by the blue glow of hundreds of small spectral fists raining from the sky. The dragon is skeletal and grotesque, skin actively dissolving, covered by blue slime that winds through the ribs and jaws like living neon. My cape whips behind me. I’m also flexing here, definitely in an active casting pose. Somehow, the lighting is ideal to show off a serious pump.
+
+It also looks awesome. But still begs the question.
+
+“How did you even get these?” I mutter.
+
+The System does not answer. Of course it doesn’t. The thought is worrisome. Am I being watched? Are we all being watched? But worry joins the stack with everything else. Too many concerns for one morning.
+
+I select the dragon one. For two reasons. One, I’m riding a fucking dragon. Two, my pump looks incredible. I am not proud of that second reason. Actually, I am a little proud of it.
+
+The photo locks into place.
+
+Now, the blurb.
+
+A little cursor blinks in the empty field.
+
+I think about typing something serious. Something professional.
+
+Phase Two participant seeking balanced party. Strong front-line spellcaster with Guild backing and high combat experience.
+
+Boring.
+
+Accurate, but boring.
+
+Also, if someone can look at my profile picture and not understand that “front-line spellcaster” is doing a lot of work, we probably shouldn’t be in a party together.
+
+I think for a moment, then mentally type:
+
+I turn Strength into magical might. Want to know what my Strength score looks like? Just check out my profile pic!
+
+I read it back.
+
+It’s stupid. It’s cocky. It sounds exactly like something the Muscle Mage would write.
+
+Perfect.
+
+I save the profile.
+
+Ping!
+
+PARTICIPANT PROFILE UPDATED!
+
+The window automatically closes, replaced with the listing of other Participant profiles. I lean forward against the kitchen island, coffee cold beside me, the taste of fear still sitting on my tongue.
+
+“All right,” I mutter. Time to see what System User Tinder has to offer.
+
+Profiles scroll past in a shimmering column so long it makes my eyes glaze over. Country tags. Level tags. Class names. Party role labels. Warnings. Status icons. Blurbs written by people who either understand exactly how to market themselves or should not be allowed near punctuation. And this is still with plenty of time left for people to opt in. More profiles are probably being added by the minute. We are still days away from the deadline, and the list is already bafflingly long.
+
+Thousands of people across the world have looked at the second phase of the God Game—Blessings, Silver and Gold Gate Tickets, culling as the fail state—and decided, Yeah, sure, sounds better than a regular job.
+
+I’m one of them, so I don’t get to be too judgmental. But still. Jesus.
+
+I cut to the chase.
+
+Filter: Level.
+
+Sort: Highest to lowest.
+
+The list rearranges.
+
+The top numbers appear. All in the fifties.
+
+My stomach does a weird little flip.
+
+On one hand, that makes me feel good. I’m Level 43, and the highest people I can find are in the high fifties. That means I’m not completely behind the top of the curve. On the other hand, it makes me feel terrible, because there are apparently several people walking around Earth who are more than ten levels ahead of me. I know my own capabilities, so it’s a frightening thought.
+
+I fought a True Avatar and a lake kaiju in the last twenty-four hours.
+
+What the hell were they doing? Bench-pressing volcanoes?
+
+My gaze catches on a familiar name near the top.
+
+Sarah Zorbas
+
+Level 58
+
+United States
+
+My tongue turns into ash. Sarah. Of course.
+
+I mentally select her name before I can decide whether that is a good idea.
+
+A notification appears.
+
+This Participant has not yet populated a profile. No further information available.
+
+Select this Participant anyway?
+
+I stare at the prompt.
+
+This means she opted into Phase Two, but she isn’t shopping for teammates. Or at least hasn’t opened the new Menu yet. Pegasus Guild is probably handling it all for her, is my guess.
+
+I decline.
+
+The prompt disappears.
+
+I scroll on.
+
+A few more names sit clustered in the Level 50 range, shining like warning lights.
+
+The first profile I open belongs to a man from South Korea.
+
+Lim Sang-hyeok
+
+Level 54
+
+Seoul, South Korea
+
+Guild Affiliation: None
+
+Discipline: Harvester
+
+Class: Spirit Commander
+
+His photo shows a young, unassuming man with straight black hair and dark eyes set in a pale face. He’s standing in what looks like the remains of a subway platform, one hand in his coat pocket, the other lifted slightly. Behind him, half-visible figures made of translucent white smoke hover in formation. It’s hard to really make out what they are.
+
+Ghosts? Spirits? Summoned ancestors? Angry subway commuters behind a veil of smoke? No idea. But Spirit Commander sounds sick as hell.
+
+His profile has limited information like mine. No stats. No Skills. No Spells. Smart. His blurb is only a single line.
+
+“I do not fight alone.”
+
+I nod.
+
+“That’s pretty cool,” I admit.
+
+No Guild affiliation is interesting. Either he’s independent, hiding support, or the kind of person who says no when billionaires knock on the door offering contracts and matching jackets.
+
+I select Express Interest.
+
+The System pings.
+
+Indication of Interest Sent: Lim Sang-hyeok
+
+“Shooters gonna shoot,” I mutter. Worst thing he can do is reject me and we don’t Match.
+
+Next.
+
+Penelope Alonso
+
+Level 53
+
+Spain
+
+Discipline: Warrior
+
+Class: Cavalier
+
+Her profile photo looks like a Renaissance painting got hit with a System upgrade. Penelope Alonso is middle-aged, definitely beautiful, but in a refined way that makes me feel like I should sit up straighter. Her dark hair is braided back beneath a gold-and-crimson helm tucked under one arm. She wears matching armor etched with sunburst patterns and stands on a battlefield of broken stone, holding a spear taller than she is.
+
+Behind her, something enormous lies dead.
+
+Only part of it is visible—a massive scaled leg, black claws, a spill of silver blood.
+
+Her profile says very little, as I’m realizing may be the trend here. No listed Guild affiliation or specific designation of no affiliation, which I don’t know what to make of. Maybe she’s independent. Maybe she’s just hiding her affiliation.
+
+She doesn’t have a blurb.
+
+I send my interest.
+
+Indication of Interest Sent: Penelope Alonso
+
+Next.
+
+Jase Fears
+
+Level 59
+
+United States
+
+“Huh… No Discipline or Class information?”
+
+I select the profile.
+
+Ping!
+
+This Participant has not yet populated a profile. No further information available.
+
+Select this Participant anyway?
+
+Alrighty, then. I pass.
+
+Next.
+
+Radamel Higuita
+
+Level 55
+
+Colombia
+
+Discipline: Spellcaster
+
+Class: Storm Warden
+
+His profile photo shows an older man with dark skin and curly hair standing in the middle of a rainstorm that looks personally offended. He wears dark leather armor under a weathered gray cloak, one hand resting on the pommel of a machete at his hip. Lightning curls around him like a pet snake. His eyes are tired.
+
+Storm Warden. That also sounds sick as hell.
+
+His blurb is short.
+
+“I hold the line when the sky opens.”
+
+Okay. That is an excellent sentence, if a bit odd. I wonder if this is a result of the System translating the blurb that was written in his native tongue.
+
+I affirm my interest when prompted.
+
+Indication of Interest Sent: Radamel Higuita
+
+Then, I reach the last of the Level 50-somethings currently listed.
+
+Li Qinwen
+
+Level 51
+
+China
+
+Discipline: Crafter
+
+Class: Fae Surgeon
+
+Guild Affiliation: Q-1 Guild
+
+The photo shows a slight but striking Asian woman who looks very young. Her black hair is cut short and neat, framing a face so composed it almost doesn’t look real. Her photo is interesting because it’s just her in normal, Earth street clothes, sitting at a counter in a cramped restaurant.
+
+Fae Surgeon. My pulse jumps. A healer, maybe? The Crafter Discipline throws me off, however. Though the System has a weird way of interpreting Disciplines and translating them to Classes. The listed Guild affiliation is a bit annoying. Still. Perhaps I can persuade her anyway. Or Harvest can.
+
+I shrug and send interest.
+
+Indication of Interest Sent: Li Qinwen
+
+I lean back, rubbing my eyes.
+
+I keep searching. I toggle the filters and play around with the search functionality. I end up sending several more Indications of Interest to fellow Level Forty-somethings, all without a listed Guild affiliation, and having Classes that sound like they may be synergistic.
+
+After a while, I back out to the main screen.
+
+No matches yet, but that’s not surprising.
+
+I close the [Party Search] menu entirely.
+
+The kitchen comes back into focus.
+
+I’ve made the choice. I’ve built the profile. I’ve sent the first feelers into the void. Now I need to do something physical before my brain starts chewing on itself again. I glance toward the living room.
+
+“Jelly,” I call. “I’m heading to Harvest HQ.”
+
+He blurps without turning around.
+
+I equip my fanny pack, my boots, the hat, and the Full Metal Staff. The staff hums as my fingers close around it, heavy and familiar.
+
+Time to test the new abilities.
