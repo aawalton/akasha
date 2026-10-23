@@ -1,0 +1,43 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const thoseWhoIgnoreHistory = {
+  id: "01a167bd-e9c1-7a9a-b724-f4ecc33ba59f",
+  type: "page-type/story-read",
+  slug: "those-who-ignore-history",
+  author: "UmbralWhite",
+  following: false,
+  unit: "unit/words",
+  title: "Those Who Ignore History",
+  world: "world/those-who-ignore-history",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "107121",
+      externalLink: "https://www.royalroad.com/fiction/107121/those-who-ignore-history",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Time Travel",
+    "Urban Fantasy",
+    "Progression",
+    "Ruling Class",
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Attractive Lead",
+    "Cultivation",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "Mythos",
+    "Non-Human Lead",
+    "Soft Sci-fi",
+    "Supernatural",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T07:51:01.824Z",
+  updatedAt: "2026-10-23T07:51:01.824Z",
+} as const satisfies StoryRead
