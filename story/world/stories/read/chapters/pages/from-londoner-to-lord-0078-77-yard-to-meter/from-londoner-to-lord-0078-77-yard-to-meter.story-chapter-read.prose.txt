@@ -1,0 +1,75 @@
+Taniok answered, "There is a marker in front of most temples of the goddess - or at least those temples which are made from stone whose walls would last a long time - which tells us the length of a yard. However, the local temple here is only a wooden building, so there was no point in adding such a marker on it when we were constructing it in the past. So, to get a proper length of a yard for use in the future, I had bought a straight wooden stick in Cinran, and after comparing it to the temple's yard mark in Cinran, I made two marks on it at a yard's width and cut that stick at those marks - so that I would get a stick which is the same length as a yard. Cedoron also has such a stick."
+
+"Alright." Kivamus asked, "Tell me, how long is that stick? Do you have it here?"
+
+"No, milord. My apprentice is using it at my workshop right now." Taniok spread his hands wide, and said, "But I would say that stick is around this long."
+
+Kivamus looked at the gap between his hands, and made an estimate that it was more or less similar to the length of the yard he knew on Earth, or maybe a little smaller. He asked, "Is that yard divided into smaller measurements? For when you need to measure something small, like the width of a plank?"
+
+Gorsazo looked at him sharply but didn't say anything.
+
+"It certainly is, milord," the carpenter replied. "One yard is divided into two feet and seven inches."
+
+Kivamus raised his eyebrows. That would make it very difficult to calculate anything at all. "Right... And how many inches are in a foot?"
+
+"Eleven, of course!" Taniok replied with bewilderment.
+
+Wow... Those are some strange numbers, Kivamus thought. He couldn't imagine how the locals even got anything built from such quirky divisions of length.
+
+Taniok added with a confused frown, "It has always been that way, milord. You must already have known about those divisions. I don't understand why you are asking me about this."
+
+Immediately, Kivamus realized that any normal person in this world, especially a well-read noble like he was claiming to be, would know about that. That must have been why Gorsazo looked surprised earlier. He scrambled to give an explanation. "Well... as you can guess, I never had a need to do any carpentry in my life, so I never thought much about those divisions. Even then, those divisions can vary between different regions, so I had to make sure before I changed anything."
+
+Taniok gave a slow nod. "That makes sense, milord. I apologize for questioning you."
+
+Kivamus waved a hand. "Don't worry about it. Being curious is always a good thing, so you never need to hesitate to ask me any questions."
+
+Thinking about the divisions of a yard, it was so complex that even someone like him would have difficulty in calculating anything from those - especially without access to something as basic as a calculator. Using a meter instead of a yard would make it much easier to calculate things for Taniok and others, especially if they were going to build anything in the future which was even a little bit more complex than a longhouse.
+
+He turned to his guards. "Go on and bring me a few straight wooden sticks, around one and a half yards long. Just look around this place, you should be able to find something like that." As the guards jogged away, he looked at the carpenter. "How were you going to measure the dimensions of the longhouse in meters, like I have been telling you to, when you only have a way to measure a yard, and don't even know how long a meter is supposed to be?"
+
+Taniok looked at the ground, and mumbled, "I was going to ask you about it soon..."
+
+Kivamus gave a sigh. "This just won't do, Taniok! Like I told you earlier, I am not going to beat you, or even scold you for asking any questions to me. But you have to be open with me, and you have to ask questions when you don't understand something! Otherwise we won't get anything built in this place!"
+
+Taniok gave a slow nod. "I apologize, milord. I'll try to do better in the future."
+
+"You certainly have to, Taniok. Never hesitate to ask me anything whenever you need more explanation about something." Seeing the carpenter nod again, Kivamus gave a deep sigh and thought about the problem again.
+
+Being able to successfully divide the length of a meter into ten smaller divisions, which would also make the calculation much easier, would be very helpful to them in the future. Apart from that, everything he remembered from Earth was based on formulas and constants which were based on the length of a meter which he was familiar with. While they had to think of immediate concerns of survival for now, in the future he wanted to make some machines to help them in dealing with all the problems in this place, as well as to ensure their future prosperity. And for that, he just couldn't use this yard measurement with its unreasonable divisions.
+
+So even if they had to estimate the length of a meter for now, the closer they were to the length of the meter he was familiar with - instead of a yard which was smaller, the easier it would be to adapt things in the future when he was able to find the length of a meter accurately based on some universal constant. However, the problem remained about how to find how long a meter was supposed to be when he didn't have any way to compare it to a standard measurement on Earth right now.
+
+If... if he made a seconds-pendulum, which was just a simple pendulum with a period of one second, couldn't he find out the length of a meter easily enough? No, that would depend on the gravity of this place being exactly the same as on Earth, which was unlikely. Not that he had any way of accurately measuring the duration of a second here right now... It wouldn't work... He shook his head again in frustration. It was such a simple thing, and yet without access to any modern instruments, it was not feasible for them to calculate the length of a meter or the duration of a second from scratch.
+
+He sighed. Just making a good estimate would have to do for now until they could get an accurate measurement.
+
+The guards returned back, and he took one of the sticks from them. He put his left hand on one end of that stick, and told the carpenter to tell again how long a yard was. After Taniok showed it on that stick, Kivamus gave a nod. He slowly moved his right hand further on that stick, until he reached a distance between his two hands which looked like the same length as a meter on Earth. He realized that this was the body of Kivamus, and not Steven, so his estimate might still be wrong, but this was still the best he could think of right now. He moved his right hand a little to both sides to check again, and tried to ensure that the gap between his hands was as close to a meter as he could estimate.
+
+Once he was satisfied, he told Hudan to take another stick and break it off at the same length as that between his hands. Hudan gave a nod, and after making a comparison, he easily broke off that stick to the same length. Kivamus took that smaller stick in his hands, and taking a long look at it, he felt that this length should be nearly the same as a meter. He told the guards to break the other sticks to that same length as well after measuring it. Once they had done it, he ensured that all of the sticks were of the same length, and said, "Alright, since I don't have a way to measure it accurately right now, I have made my best estimate that this is as long as a meter."
+
+He gave a wooden stick to everyone standing there, and said, "The beauty of metric measurements is that you can just divide the length into ten parts to get the smaller measurements. That applies for basically everything in metric, including weights, but that is for the future."
+
+He looked at the carpenter, "Now instead of dividing each yard into two feet and seven inches, and a foot into eleven inches, you can simply divide a meter into ten parts, to get a decimeter, which is one-tenth of a meter. Each of those decimeters can be divided into ten centimeters, which are one-hundredth of a meter, and each centimeter can also be divided into ten millimeters, which is as long as one-thousandth of a meter."
+
+Before Taniok got more confused, based on his expression, he said, "For now, you only need to remember that one meter can be divided into a hundred centimeters, that's all. And one centimeter is nearly the same length as the width of the end of your little finger on your hands."
+
+He added, "I understand that it will take some time to think in terms of a meter, but the benefits of it will be worth it in the long-term, particularly since there is a lot of construction that will be happening here in the future. Once you have started using meters and centimeters regularly, you will see the benefits easily." Kivamus added, "It would certainly make it much easier to calculate any lengths and their divisions. Do you know about decimals?"
+
+Taniok nodded.
+
+"Good. Now, for a quick example, let's say you have a plank of four meters length, which is four times hundred, that is, four hundred centimeters long. Then if you want to divide it into ten equal parts to make seats of chairs from them, you can just shift the decimal by one place to the left. So, by doing that in four hundred centimeters, you will get forty centimeters as the required length you need to cut. In the yard measurements, dividing something into ten equal parts would have taken much longer."
+
+Taniok looked at him for a moment with surprise, "That was very fast, milord!" He added, "It would certainly make it much easier if I don't have to do long calculations every time to divide a length into feet and inches. Usually I have to spend a few hours calculating the lengths before I start to construct something. This metric does sound simple for sure."
+
+"It certainly is," Kivamus agreed. "From now on, I want you all to use a meter as the basic measurement of length." He looked at the foreman. "I will tell Cedoron to make a few iron sticks of this length so they won't break easily. He will also need to divide it into a hundred equal parts, but I will explain that to him later on. Once that is done, you all should use that iron measuring scale to measure anything. Apart from the ease in calculating smaller divisions of it, you will see other benefits in due time."
+
+"Of course, milord," Taniok nodded.
+
+Yeden agreed as well. "I will do as you say."
+
+Kivamus gave a nod. "Alright then, you have your orders. You can get back to work now."
+
+After a quick bow, Taniok and Yeden started walking back while talking about the new metric measurements.
+
+He looked at Gorsazo for a moment, who was gazing into the distance. Shaking his head at his mistake, he said to others, "Well, let's return now."

@@ -1,0 +1,69 @@
+"This tool is called a groma," Kivamus replied.
+
+Gorsazo had tilted his head a little, while he observed him with a frown, but didn't say anything.
+
+Kivamus added, "Ideally we should use pointed pieces of iron instead of these round stones, for it to be more accurate. In our case here, where you only need to make a single building at a time, you can make these strings from which the stones are hanging to be a little longer, so that they nearly touch the ground. That way, you can put a mark on the places where all four stones touch the ground, and then you can easily tell workers to hold a string straight, and align the string with these marks. That will easily give you the corner as well as the location of the two walls for a new building."
+
+He pointed at the small piece of wood connecting the cross with the vertical staff. "And if you want, you can make this piece in a way that it pivots around the top of the staff, so that you can move the cross to another side of the staff if you need to. You can also make another pivot at the other side of this piece of wood, so that the cross itself can be rotated to align the lines with the desired directions."
+
+"That I can understand, milord," Taniok said with a nod. "But why didn't you just put the cross right on top of the staff? That would also have worked and would be easier to make."
+
+"You are right, but this design does have its uses," Kivamus replied. "Let's say you need to put the reference point - which is the center of the two lines - above a sturdy object, like a rock where you cannot insert the staff easily. In that case, setting the center of the cross away from the staff is helpful, because you can just insert the staff into the ground a little away from that rock, and you would still be able to put the reference point, that is, the corner of the walls, above that rock."
+
+Taniok nodded. "That makes sense."
+
+Kivamus added, "Apart from that, while making marks on the ground just under the stones would work well enough for a single set of perpendicular lines, but if you need to do planning for nearby areas at the same time, then offsetting the cross from the staff allows you to look in a straight line through the two strings, like you did just now. That way you can tell someone else to mark a distant point on the ground which lies along that same line. That allows you to ensure that even a distant point lies on the same line. This way you can ensure that a long wall, for example the new village walls lie in a straight line. For another example, if we are making a series of houses next to each other, then by using the groma, we ensure that they lie along the same line."
+
+"That would certainly be helpful for the village walls," Yeden said.
+
+Kivamus continued, "As you can guess, a groma can also be used to make a grid. You can mark the perpendicular lines at one intersection, and then you can move the groma further to each intersection, and you can draw perpendicular lines again using this. That will be useful when you clear the ground to make the roads as well."
+
+Yeden gave a nod. "Certainly, milord."
+
+Kivamus looked at the carpenter. "Taniok, you should make one of these so that we can be sure that the longhouse walls will be made in proper alignments. You can ask Cedoron for him to give you small pointed pieces of iron, into which he has made a hole at the top, so that you can tie the strings into it. That piece of iron is called a plumb bob."
+
+Taniok nodded excitedly. "That I know, milord. I use a similar plumb bob whenever I'm making the walls of a building to ensure that the walls are standing straight, and are not tilted to one side. And this groma is easy enough to make. I can make one of it within an hour using a few such sticks kept in my workshop. I don't know why I didn't think of it myself in the past! But it will be really helpful here."
+
+"Certainly," Kivamus said. "It wouldn't work well when there is a wind, but otherwise it would be a good idea to use it everywhere you need to make perpendicular lines on the ground. So, after our conversation you should go and make a groma first, before more trenches are dug."
+
+Taniok gave a nod. "I'll do that, milord."
+
+Kivamus looked at the foreman. "How are the log movers working?"
+
+Taniok happily pointed at the machines nearby towards the north. "They've been very helpful, milord! Usually I keep both of them here in the north, but every few days I send one of them to the southern clearing area for Pinoto to use there." He gazed at the log mover for a moment, before he added, "There is a small problem though. Those wooden axles aren't exactly smooth, so because of the friction between the axle and the ropes used to pull it, those ropes keep breaking again and again. While we have some extra ropes for now to make a new loop around the axle again, it will cause a shortage of ropes soon enough if it keeps going on like this."
+
+"That's concerning..." Kivamus muttered. He thought about the problem for a minute. "You know what? Now that we have some spare iron, since we bought some extra iron ingots from Cinran, there is an easy solution for this. We can make a thin, but wide enough sheet of iron, and loop it around the axle to reduce the friction." He continued, "We can fix that sheet on the axle with some nails, along with some tallow rubbed on the iron sheet as well. This way, the ropes would last much longer - because that sheet of iron rubbed with tallow would be much smoother than the wooden axle."
+
+Yeden nodded. "That's... a good idea." He frowned, "But are you sure we can spare that much iron for this? Iron doesn't come cheap at all, I know that much."
+
+"This is an important thing," Kivamus began, "and since we cannot produce new ropes here, buying new ropes costs money as well. We only need to make two such sheets for the log movers, and they would easily last for years." He ordered, "Make the measurements around the axle, for how long and how wide that sheet needs to be, so that it can be fully curled around that axle, then send someone to Cedoron today with those measurements to give him a new order for two such sheets. Once he has made those braziers today, he should still have time to hammer two such sheets."
+
+Yeden gave a nod. "I'll send someone soon. And I want to thank you again, milord, for making new braziers for us." He pointed at an extinguished brazier kept nearby. "Although we extinguished it soon after the sun came out to save on coal, even having that single brazier here allowed us to easily warm up our hands before we started to work in the morning today. Having a few more of them here and in other places where the villagers are working would be very helpful to us, and will prevent the workers from falling ill in the coming winter."
+
+"Indeed," Kivamus said. "And you can use as much coal as you need for that. While it may be fine these days to extinguish it in the daytime when the sun is out, you know that the sunlight will become rare in the winter, so you should use the braziers all day wherever you are working." He smiled, "Consider it a part of the job benefits."
+
+He added, "Most of you don't have good enough clothing for the winter anyway. I'll try to do something about that soon, but you still need a way to warm up your bodies when working in the winter. So every day in the morning when you are coming for work here, send a worker to the manor to haul some coal here in a cart to use in those braziers all day. We have more than enough coal in the barns, so you don't need to worry about saving it. You can tell other places where the villagers are working to do the same with braziers."
+
+"I will, milord!" Yeden nodded with a smile. "Thank you!"
+
+"There is another thing I was thinking of," Kivamus said. "Since the ground will freeze in the winter, it would become much harder to dig. So once the trenches for the first longhouse block are completed, you should dig them for the second and third block as well. Of course, we won't start the construction of those blocks until the first longhouse block is fully finished, but having all the trenches dug in advance will help a lot to construct the other blocks even after the snow starts falling."
+
+He added, "In fact, since snowfall will start soon, you should divert most of the workers to dig everything that is needed, including the trenches for the village walls and the gutters next to the new roads here, since it would become more difficult to dig after the snow starts falling. Of course, even then you should still keep some workers to keep cutting more trees so that we wouldn't have any shortage of logs for building the longhouse blocks, but since we already have many logs stacked here, most of the workers should be diverted to digging for now. A simple way for that is to put the workers to cut those trees first which stand in the location of the trenches for the village walls. That will keep Taniok supplied with a small number of new logs, and you can easily clear the locations where you need to dig the trenches. Once the digging is completed, all the workers can resume cutting more trees."
+
+Yeden nodded. "I'll make sure of it, milord. I was already thinking about doing that."
+
+"Good. Also, let Pinoto know that he should put his workers to start digging the small reservoir in the south that we talked about earlier. Let him know that it should be located around four hundred yards away from the village, so that it would be close to the farms there, and we can use that water to irrigate the farms in the future. Like here, he can resume the cutting once that is completed." Kivamus continued, "You should also tell your workers to dig a small trench to connect the gutters in the north here to that reservoir. This trench - which will be a bigger gutter, should pass close to the village on its west, so that we can connect more gutters to it later, when we rebuild the houses of the village in the future. This way, when the snow melts after the winter, all the excess water will flow into those gutters, and then it will gather into the reservoir in the south, which would prevent any flooding in the village itself. Now that we have a lot more new tools coming everyday, it should be feasible to dig all the trenches before the snow falls if you put most of the workers on that."
+
+"Of course, and I will let Pinoto know about it," Yeden said with a nod.
+
+Kivamus looked at the carpenter. "Taniok, once you have made the groma, use it to mark out all the places today, so that Yeden can tell other workers to start digging there. Their locations will be the same as we discussed earlier. The first longhouse block right here after a ten meter gap from the rest of the houses to make a road, with the block being twenty-five meters on each side. Then a gap of ten meters for another road, and then the second block of twenty-five meters will be located after that. Since there isn't any space for a third block before the village walls, two such new blocks will be made to our left, parallel to the first two blocks, that is, on the west of the first two blocks."
+
+He added, "Among those two blocks, we will leave the space empty for the twenty-five meter block which would be closer to the village, so that we can make a new market square there in the future. The third longhouse block will be made on the other twenty-five meter block - the one closer to the walls."
+
+Taniok gave a nod, "It will be as you say, milord."
+
+"Alright then," Kivamus said. "That gives you enough work for now." He added after a moment of thought, "But there was something I was curious about. How are you going to measure the length of a meter? In fact, how do you even measure the length of a yard?"
+
+"Oh, I had made a measuring stick in the past which is as long as a yard, milord," Taniok replied.
+
+"Yes, but how do you even know that that is exactly how long a yard is supposed to be?" Kivamus asked.
