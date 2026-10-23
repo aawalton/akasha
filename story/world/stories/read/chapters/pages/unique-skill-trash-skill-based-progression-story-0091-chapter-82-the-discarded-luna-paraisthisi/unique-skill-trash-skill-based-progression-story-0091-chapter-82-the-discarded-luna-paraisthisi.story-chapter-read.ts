@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0091Chapter82TheDiscarded
     },
   ],
   createdAt: "2026-10-22T16:49:26.206Z",
-  updatedAt: "2026-10-22T16:49:26.206Z",
+  updatedAt: "2026-10-23T13:46:00.237Z",
+  ownProgress: 2210,
+  progressedAt: "2026-10-23T13:46:00.237Z",
 } as const satisfies StoryChapterRead

@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0090Chapter81PiercingTheV
     },
   ],
   createdAt: "2026-10-22T16:49:26.206Z",
-  updatedAt: "2026-10-22T16:49:26.206Z",
+  updatedAt: "2026-10-23T13:46:00.237Z",
+  ownProgress: 2077,
+  progressedAt: "2026-10-23T13:46:00.237Z",
 } as const satisfies StoryChapterRead

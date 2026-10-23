@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0094Chapter85AVillainIsBo
     },
   ],
   createdAt: "2026-10-22T16:49:26.206Z",
-  updatedAt: "2026-10-22T16:49:26.206Z",
+  updatedAt: "2026-10-23T13:46:00.237Z",
+  ownProgress: 3486,
+  progressedAt: "2026-10-23T13:46:00.237Z",
 } as const satisfies StoryChapterRead
