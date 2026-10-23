@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const oneWasWorthyBookTwoComplete011650APlaceOfSafety = {
+  id: "01a16a85-e8f2-7b15-8f8d-9fb554e89402",
+  type: "page-type/story-chapter-read",
+  slug: "one-was-worthy-book-two-complete-0116-50-a-place-of-safety",
+  position: 116,
+  publishedAt: "2026-10-07",
+  unit: "unit/words",
+  title: "50 – A Place of Safety",
+  story: "story-read/one-was-worthy-book-two-complete",
+  ownLength: 1450,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "4085467",
+      externalLink:
+        "https://www.royalroad.com/fiction/149588/one-was-worthy-book-two-complete/chapter/4085467/50-a-place-of-safety",
+    },
+  ],
+  createdAt: "2026-10-23T20:48:43.247Z",
+  updatedAt: "2026-10-23T20:48:43.247Z",
+} as const satisfies StoryChapterRead
