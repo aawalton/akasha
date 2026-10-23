@@ -1,0 +1,119 @@
+Nick rolled the pen between his fingers, testing its weight. It sat comfortably in his hand, with the center of mass near the knuckle, and the nib barely flexed when he touched it to the paper. Even the gentle scratch it made on the surface soothed him.
+
+I forgot how nice a good-quality pen feels.
+
+He flipped the packet over and read the first page.
+
+It started simply. He had wondered how testing would work in a world where not everyone could read, but anyone attempting to enter the Tower was likely expected to have reached a basic level of proficiency.
+
+A mage’s class sharpened their mind, and the extra INT did a lot of work to help even the lazy learn quickly. Even without a dedicated teacher like Alexander was for us in Floria, I doubt anyone who gets a Mage class would have trouble learning.
+
+“Describe the sensory framework you use to create a basic evocation, such as a fireball. What do you rely on: image, smell, tactile sensations, rhythm? Provide examples.”
+
+The first question was the kind that could lead to overthinking, but Nick chose to keep it short.
+
+“The feeling of old ovens in Floria, the rush of hot air that forces one to step back even when the door is closed. The smell of ash after a ceremony. The sight of a brushfire spreading to new fuel, its initial explosion, followed by a slow crawl that devoured everything in its path. The way hot air moves, twisting and rising,” he wrote. Perhaps it was too poetic a description, but magic was in equal parts art and science.
+
+The second question was trickier. “Pick one spell you learned early. Describe how you learned it and what changed between your first success and your current use.”
+
+He hesitated for a moment before choosing the most harmless one: [Minor Elemental Manipulation]. He kept the description simple and straightforward, explaining how his mother had shown him the rivulet next to their camp during their first outing, told him to push mana into it, and then to feel for the seam between himself and the water.
+
+Initially, he could only slosh it around, creating ripples. Elena had him hold the magic in place until it bulged and his arms ached, then let go and hold again. When he could do it without shaking, she told him to reach deeper into the rivulet and grasp the mud. He wrote that he learned to feel the spell take shape over the course of the day, and how, over the months, he’d become able to use it to rebuild bridges, even if without much finesse.
+
+The following pages stayed in that lane. “If given a candle and a bellows, how would you use them to teach a novice to visualize a scalable evocation?”
+
+He explained that he would first use the candle to demonstrate ignition and fragility, then the bellows to show how fuel and air increase heat, and only afterward would he use them together to awe them with their combined might.
+
+“Describe the safety precautions you’d suggest for working with volatile elements.”
+
+Nick outlined a simple three-step process his grandfather had taught him: ensuring the element's discharge rate remained steady even if it got out of control by throttling its production, reducing personal involvement by using focusing mediums, and having a second person present in case things went wrong.
+
+I haven’t often followed these guidelines myself, but to be fair, there wasn’t anyone I trusted enough to watch my back. Not anyone who could do anything to help him anyway. Elia and Rhea would have gladly helped them, but when he first started, they’d not been strong enough.
+
+With the first section over, the questions became serious.
+
+There were six pages of diagrams, each illustrating a basic fireball spell schematic. All seemed functional, but they were quite different from one another. Lines and nodes, spiral cores and radial cores, control loops—each diagram varied wildly, resulting in completely different outcomes.
+
+Nick took his time here. The temptation was to write “all valid, depends on caster,” and he knew it would be technically correct, but decided that while cheeky, it wouldn’t be appreciated.
+
+“Diagram A features a three-ring structure. The inner ring is volatile, the middle ring controls, and the outer ring forms and ignites too quickly, forming a brittle spell. It likely produces a bright, hard ball, which is effective for piercing light cover but useless against entrenched targets, with minimal residual flame and a high initial concussive wave because the shell fractures early. It might be a good first step to teach the element, but mastering it would be pointless.”
+
+Diagram B had a spiral core that wound into itself, offering excellent control but producing low power. Diagram C had a layered lattice and caused the most side effects, generating a powerful blast of sound along with heat.
+
+Diagram D was designed for sustained casting, producing a steady stream of smaller fireballs. Diagram E used a different source for the fire, creating something more like napalm than a flare, which was much more dangerous for an inexperienced caster.
+
+And finally, Diagram F. It was an over-engineered masterpiece, with two opposing spirals feeding a torus of heat, and with a secondary command to create a ring of flame from the leftover fire.
+
+He admired it, but noted he wouldn’t give it to a novice because it had too many points of failure. He emphasized that even a proficient caster should only learn it after wholly mastering the more basic applications.
+
+He finished the section by ranking them according to use-case: A for apprentices; C for pedagogy; D for squad mages; E for siege or beasts; B only with safety modifications; F reserved for advanced study and controlled ranges.
+
+Nick paused to rest his hand. All around him, people hurriedly scribbled or bit their nails in worry, but the moment he lifted his eyes from the paper, he felt the wards tighten around him.
+
+Alright, alright, I get the message.
+
+The next section included quotes and excerpts. Four were from grimoires, two from papers bearing the Tower’s stamp, and one from a duelist’s manual.
+
+Each one illustrated a short story about mages learning new spells in different ways, and below it, he was asked to explain why they chose those specific patterns and what the consequences would be.
+
+The first was again a fireball, with the novice mage relying on his anger to produce a more powerful effect, despite his lack of affinity. “Though negative emotions can fuel elemental magics, they also corrupt them, and the initial burst of power ends up costing more than it's worth. Controlling a fireball fueled by anger is a fool’s errand, and it shouldn't be attempted if the caster is serious about mastering the element.”
+
+The second example was more engaging, as it explained the process of learning a divination spell that relied on lucid dreaming. It was similar to something a sect in the U.S. tried in the sixties, but he didn’t know enough about the subject, so he just noted that such a complex method could be influenced by preconceived ideas and spiritual forces.
+
+The last asked his opinion on an excerpt describing the best method to learn a new spell as a linear progression.
+
+Nick snorted to himself. Of course, mastering the basics of a new discipline would make learning the more advanced techniques easier, but that often required a years-long commitment.
+
+Instead, he suggested drawing on personal experience, using it as both fuel and foundation for a new spell schema, adapting the magic one wanted to learn to their own circumstances to make it easier to cast. Once that was done, one could focus on mastering every aspect of it.
+
+The final section was a single prompt on a blank page: “What do you understand the pinnacle of magic to be?”
+
+Nick leaned back and stared at the line. He toyed with writing something innocuous about great enchantments and spatial rings.
+
+He knew it would have been acceptable. The ring on his finger was certainly the most intricate single item he had ever seen, aside from the dungeon core. But such an answer would have come across as dull.
+
+I need to draw some attention if I want to land an apprenticeship soon, and I don't doubt the masters of the tower already know everything that happened in the dungeon. I might as well utilize that.
+
+He described a fire that didn't burn due to fuel, but because a man demanded it, and a divine will enforced the command.
+
+He wrote about vines, fog, and the feeling of paths closing in, not due to the Green Ocean’s innate magic, but because something that controlled the flow of fate removed a choice from the world.
+
+He explained that spells in that realm were not the projectiles or domes most mages were familiar with, but modifications to reality itself. The rules became more flexible, and skilled hands guiding the process made it possible to bend them to their will.
+
+He wrote about the awe he felt when witnessing the power both beings possessed, so absolute that anything in their way was simply erased from existence. He also expressed his fear that such beings roamed the land, and his desire to understand how they were able to do what they did.
+
+He finished by explaining that it was witnessing that display of absolute strength that had motivated him to come here, implying that he hoped to someday match it.
+
+It was arrogant, perhaps, but what was a mage if not someone who believed they could change reality to suit their desires?
+
+Setting the pen down, Nick stretched his fingers and glanced at the clock on the wall. Two hours had passed while he was writing, and the environment around him had shifted; some pens still scribbled quickly, while a few seats were empty, as those applicants had either left voluntarily or been escorted out. He wasn't sure which.
+
+Tim was still focused on his writing, his head bowed and his tongue slightly sticking out at one corner of his mouth from concentration. He doesn’t seem worried. I guess having a tutor who learned at the Tower makes the theory a breeze.
+
+A proctor walked along his row, hands clasped behind his back, and paused by Nick’s desk.
+
+“Finished?” the man asked quietly.
+
+“Yes,” Nick nodded. He neatly stacked the papers, aligned the edges, and passed them up.
+
+“Remain seated and quiet until the session is over. If you stand up before the test is finished, you will be considered to have forfeited,” the proctor said.
+
+“Understood,” Nick said, and he meant it, not wanting to jeopardize his only chance.
+
+He folded his hands and placed them on the desk so his body wouldn’t start searching for something to fidget with, letting his eyes drift into nothing in particular as he chewed the inside of his cheek.
+
+People finished in clusters. Nervous excitement lingered among some, as the youngest worried about their lack of knowledge. Exhaustion gathered around others, as older applicants fretted over whether they had been thorough enough.
+
+Tim stopped writing ten minutes after Nick. He set his pen down and exhaled in satisfaction. When the proctor took his packet, he let his head drop forward and then glanced sideways at Nick, eyes conveying a question he didn’t ask aloud.
+
+Nick shrugged slightly. He didn’t know. He could have been clearer and given more detail, but he felt he had done enough.
+
+Finally, the head proctor stepped back to the lectern and clapped once. “Thank you,” he said, and the room quieted down. “The written part is finished. Results will be sent to those who pass the complete exam. If you don’t pass and still want to find out how you did, you can come back to the administrative building in the plaza and ask for your paper starting next week.”
+
+Before anyone could ask for clarification, he held up a hand. “However, as you already know, today isn’t just about theory, because the Tower values practice just as much. If your written exam didn’t go as planned, you still have a chance to impress the proctors and the masters who will attend.”
+
+People stirred with interest. Everyone wanted to be selected for an apprenticeship, and the prospect of it happening before they even entered was thrilling.
+
+“You will remain here until called,” he continued. “Groups will be sent to different rooms based on schedule and space.”
+
+He glanced at a slate, his eyes scanning down a list. “First group: Maximilian Burns, Talia Ferrow, Jero Kanos, and—” he paused as if checking the spelling—“Berenice Alon. With me.”
