@@ -1,0 +1,107 @@
+Miles got back just as they were wrapping up, which saved Cole the trouble of sending someone to check on him. He gathered the group and led them across to the garage.
+
+The inside was pretty much just any old motor pool – six vehicle bays in two rows of three, maintenance stations along the back wall, storage racks on both sides. Of course, the Istraynians had scaled it up by the usual margin, but the underlying logic was universal.
+
+The main difference was in the equipment, though most of it tracked once he got past the aesthetics. Among the more alien items, he confirmed quarantine lockers for hazardous materials, charging cradles for mana gems, plus the basic infrastructure any maintenance facility needed to keep its vehicles running and its power sources topped off.
+
+Other devices near the maintenance stations were harder to place – probably diagnostic or calibration tools, but the mechanisms weren’t analogous to anything Cole could map onto. Even Graves and Vale couldn’t offer much beyond educated guesses.
+
+They catalogued it the same way they had the office building – entrances, sightlines, cover. The vehicle bays offered the most substantial concealment, with the maintenance stations and storage racks filling in the gaps. At some point Graves flagged a crate of mana cores near the rear wall as volatile; a hard enough impact would rupture them, and in an enclosed space, the blast radius would be a serious problem.
+
+Cole filed that both as a hazard and as a potential asset. Though realistically, the odds of finding a conveniently placed crate of explosives next to a room full of cultists were pretty bad outside of video games.
+
+The remaining buildings in the section were variations on what they’d already covered – more office and administrative layouts with the same Istraynian tendencies toward generous spacing and increasingly adventurous geometry above the ground floor. The specifics differed, but nothing deviated enough from what they’d catalogued to warrant a deep dive. Cole had them note the layout differences and move on.
+
+At this point, they were well past architectural surprises, but it was still useful to build pattern recognition so they could walk into a structure in Ostreva and already have a working model of what to expect.
+
+They finished up right around the time Dunmar’s squad came into view, crossing the courtyard in a loose column. He’d brought twelve men with him, all carrying air rifles. Cole met him outside the main office building.
+
+“We’re set on our end,” Cole said. “Here’s how I want to run it: your team will represent the opposing force, defending this building. My team’s objective is the fifth floor. I’ll leave the defensive setup to you – positions, patrol routes, rally points, whatever you think gives us the hardest time. Assume a heightened security posture. You know someone’s coming; you just don’t know when or from where.”
+
+Dunmar studied the façade for a moment. “What are the limits, sir? Are the lads to use magic, or are we to confine ourselves to the air rifles?”
+
+“Hmm… Air rifles only for this round. We’ll fold magic in once we’ve got the fundamentals down.”
+
+“Aye.” Dunmar signaled one of his men, who brought over a crate. “We’ve brought a set of air rifles and wands for your lot as well.”
+
+Cole took one out and checked it over. It had a small-bore barrel sized for pellets and a mana crystal in the chamber powering wind runes running along the side. Nothing about it could accept live ammunition. He passed it along, and the others each ran through the same checks.
+
+“How long are we to have for our preparations, sir?”
+
+“Thirty minutes. We’ll be waiting just outside the section. Send a runner when you’re ready.”
+
+Dunmar gave a curt nod and turned to his men, already issuing orders as he walked.
+
+Elina watched them file into the building. “Captain, wait. If we are rehearsing an infiltration, ought we not simulate the conditions we expect to find? The cult will not be anticipating our approach.”
+
+“Nah, that’s the whole point,” Miles said.
+
+Elina glanced at him, then back to Cole.
+
+“He’s right,” Cole said. “We call it a rehearsal of concept. We simulate the conditions, and then some. We run the operation against the worst case scenario – with the hardest conditions and the best-prepared enemy. If Dunmar’s guys are dug in, covering every approach, and we still make the fifth floor? Then that means anything less should be manageable.”
+
+Elina considered that for a moment, then settled back with a small nod; the logic was self-evident once framed.
+
+Cole led the team out of the section to wait. Thirty minutes wasn’t much prep time, but Dunmar didn’t seem like someone who wasted it.
+
+He found a spot along the courtyard wall and gathered his group. “So, while we wait, let’s do some speculation. What do you guys think Dunmar’s gonna do?”
+
+Ethan started with the broad strokes. “Thirteen men can’t hold the entire sector, so he’ll almost certainly consolidate inside the main building. Which means we’ll have free rein on the outside.”
+
+“Even inside, five floors is a lotta ground for thirteen guys,” Miles said. “I reckon he gives up the first floor, maybe the second too. If that security room was runnin’, he’d probably stick somebody in there for early warnin’, but we know it ain’t, so…” He shrugged. “No point wastin’ bodies on somethin’ that don’t buy him nothin’.”
+
+Elina tilted her head. “Wait, why should he relinquish the second floor? To do so would grant us unimpeded access to the building.”
+
+“’Cause of the parameters we set,” Miles said. “He only needs to keep us off the fifth floor, don’t he? He knows he’s goin’ up against Slayer Elites – he ain’t gonna spread his boys thin tryin’ to hold ground that don’t matter.”
+
+“Would that not defeat the object of infiltration?” Elina said, looking between Cole and Miles. “Surely we do not mean to storm the compound by open approach.”
+
+“Nah, definitely not. Think of this more like a test run,” Mack said.
+
+“Pretty much,” Cole affirmed. “Worst case scenario, like I said. Plus, we still need to get Graves and Vale up to speed with the rest of us, and that’s not gonna happen in a briefing.”
+
+“There’s also the coordination piece,” Ethan added. “Without magic, we’ve got less margin for error across the board. I mean, we’ll be able to throw up barriers and whatnot during the actual mission, but what can you do here? You can’t. Same goes for opfor, actually, which leads me to believe they might just decide to fortify the upper levels and sit there.”
+
+“If I may,” Graves called, stepping up. “Let us not presume that Sergeant Dunmar would fix his men. Despite what you may gather from our great walls, our doctrine seldom asks a line to stand rigidly. Positions are held in depth, each meant to yield in its turn, that the whole may bend rather than break. And if Dunmar has any skill – and he has – he will have kept two or three aside, uncommitted, that he may reinforce whatever point begins to fail. Such men serve for ambush, and compensate well against such disparities.”
+
+Cole recognized it for what it was – guerrilla warfare.
+
+That was a mild surprise coming from the Celdornians, whose military culture had so far read as fairly conventional and hierarchical. Though, honestly, Cole’s frame of reference for pre-industrial military doctrine mostly came from West Point electives and whatever he’d read on his own time, and none of that accounted for centuries of fighting demons that could come through walls and ceilings.
+
+He looked at Vale, who’d been leaning against the wall with his arms crossed through the entire discussion. “Anything to add?”
+
+Vale glanced up as if mildly inconvenienced. “Were the choice mine, I should leave broad gaps – for nothing draws the witless so readily as an offered weakness. Yet I suppose Dunmar must contend with the want of men, and what I would fashion as bait he must accept as necessity. In either case, I trust none here would mistake such openings for fault, nor rush to them as the simple are wont to do.”
+
+“That’s a good point,” Ethan said. “It’s possible we see this in Ostreva, too – from the demons. I imagine there’s gonna be some stuff they won’t want to share with the cultists, which means they’ll have set up a way to catch cultists who get too curious. Or some of Celdorne’s guys pretending to be cultists.”
+
+Cole had arrived at more or less the same conclusion. Between Graves’ mobile reserve and Vale’s designed gaps, the picture had more layers than a straightforward stacked defense. If Dunmar was as competent as he seemed – and everything about him suggested as much – then he’d make it hell for them. There was no other option but to break down his defense methodically.
+
+“All right,” Cole said. “So here’s what we’re probably looking at. Light presence on one and two – if any at all. Heavier on three and four, with the fire escapes covered at least at one level. Hard stop at five. And somewhere in there, a reserve that could move to reinforce.”
+
+“Given that, I think we go about it like this.” He pointed at the main office building, then at the adjacent structure connected by the walkway. “We’ll split into three teams and attach the Celdornians, since they don’t have radios. First is me, Elina, and Mack. We’ll take the connector from the adjacent building – that puts us on the second floor without touching the lobby. Walker, you and Graves take the fire escape, also to the second floor. Garrett, you and Vale enter through the back door and clear the first floor.”
+
+Cole looked between Elina, Graves, and Vale. “If you see something and your partner’s occupied, let them know and they’ll relay it to the other teams.”
+
+They nodded.
+
+“Now, floor three is where it gets real,” Cole continued. “We converge from three directions: staircase, elevator shaft, and fire escape. That forces Dunmar to split his attention across three approaches. If he’s holding a reserve, he has to commit it to one of them, which opens the other two. Garrett, your team takes the elevator shaft – climb to the third floor, hold just below the doors, and wait for us to start making noise on the staircase. Once they’re oriented on us, you pop ’em.”
+
+He turned to Ethan. “Walker, you’re going up the fire escape. Same principle – hold until you hear contact on the staircase, then push in. My team drives the main approach up the stairs. We repeat for the fourth floor, then consolidate for the final push.”
+
+“And unfortunately, that’ll be the main problem. There’s only one way in, so whatever he’s got left is going to be sitting right at the top of those stairs waiting for us.” Cole didn’t have a clever solution for that, especially without tactical equipment to speak of and magic use banned for this round. “We’ll just have to take it straight. Stack up below the landing and push through on numbers and speed. It’s ugly, but by that point we should have the advantage in bodies.”
+
+He looked around the group, mostly focusing on the Celdornians, who needed to catch up to modern doctrine. “The idea throughout is controlled noise. We’re running this as an assault, but keep your movement as quiet as you can for as long as you can. Stealth is the priority for the actual mission in Ostreva, and while we’re not ready to test that as a team yet, everything we practice here should be building toward it. Make contact when you have to, not before. Everyone on the same page?”
+
+Affirmations around the group confirmed it.
+
+“All right. We’ve still got about twenty minutes, so let’s sit back and take a breather.”
+
+With nothing left to hash out, the conversation drifted into aimless small talk and banter.
+
+Cole used some of the downtime to feel Vale out – where he’d operated, what he was used to, basic stuff. Vale gave back the bare minimum on every count and volunteered nothing beyond it. Most people who behaved like that were either hiding something or just antisocial. With Vale, Cole got the impression it was neither – the guy simply didn’t see the value in small talk and wasn’t going to pretend otherwise out of politeness.
+
+What he did get out of him, through a brief exchange about the cult and how Vale intended to handle himself around them, was that the hatred wasn’t going to interfere with the mission. Vale didn’t say it in so many words – something about contempt not being the same thing as recklessness – but the meaning was clear enough. As long as Vale wasn’t gonna go out of his way to rack up bodies when the objective didn’t call for it, Cole wasn’t concerned.
+
+Some time after that, Miles made the mistake of mentioning Kathyra within earshot of people who had nothing better to do, and that was pretty much the end of any serious conversation. Mack led the charge, which was good to see – he’d been in better spirits lately, and Cole wanted to keep it that way. Miles handled the interrogation about as well as anyone could when the only winning move was not having brought it up in the first place.
+
+Thankfully for Miles, Dunmar’s runner showed up before the interrogation could get any worse. The sergeant was ready.

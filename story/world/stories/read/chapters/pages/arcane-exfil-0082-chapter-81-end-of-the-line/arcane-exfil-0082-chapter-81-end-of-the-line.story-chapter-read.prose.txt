@@ -1,0 +1,111 @@
+Cole popped another mana potion off his belt and downed it, grimacing at the aftertaste. He stowed the empty bottle and turned toward the barrier. “Better hurry up.”
+
+He could hardly see shit past the mess of ice and carcasses, but he could sure as hell feel the creature’s thundering charge. After all, it was hard to miss the whole damn floor shaking like a bulldozer was coming right for them.
+
+The first impact hit hard as hell. Hard enough to shatter the outer layer, by the sound of it. The creature backed off after the hit, heavy footfalls receding down the corridor, no doubt winding up for another go. Losing the outermost layer in a single strike – weak as it was – boded poorly for the rest of their defenses. It didn’t take a genius to realize that swords wouldn’t be enough to deal with this juggernaut of an Aberrant.
+
+“Rifles out,” Cole said, pulling his own off the sling. He kept his muzzle trained on the barricade. “Graves – that wall’s not gonna hold forever.”
+
+“Less than two minutes, Captain!”
+
+The next impact sent cracks propagating through the second layer before the vibration had even settled. The outer layer had lasted all of a few seconds under sustained hits. Even assuming each successive strike lost force – which he had no reason to believe – the remaining ice wouldn’t buy them another thirty seconds, let alone the two minutes Graves needed.
+
+Cole drew his wand.
+
+“Walker, Garrett – buttress the inner wall. Siphon the air, freeze fast. No bubbles.” Another impact sent a crack propagating up the middle layer. “Mack, on me. We’re cooling the ice.”
+
+Nobody asked why. Cole hadn’t expected them to – partly because his team didn’t waste time questioning orders mid-contact, but mostly because they already knew what he was getting at.
+
+They’d all been through McMurdo Station in Antarctica. Three weeks of joint exercises out of the station, surrounded by glaciologists and materials scientists who apparently couldn’t help themselves when it came to unsolicited lectures. None of it had covered magic, obviously, since magic hadn’t been a factor back then, but the thermodynamics carried over regardless.
+
+Among the accumulated knowledge from those three weeks, the relevant principle here was straightforward: colder ice was harder ice, and how it froze mattered almost as much as how cold it got.
+
+Ethan and Miles split to opposite ends of the corridor and started pulling water from the sprinkler flow – what was left of it, anyway, since the pressure had been dropping steadily. They shaped it into suspended masses, holding each one long enough to force out the trapped air before freezing them rapidly into dense, clear blocks.
+
+Cole could probably have recalled the exact material reasoning if he’d had a minute to dig through the notes he’d put together when they first arrived – a brain dump of everything he figured might be relevant before the details started getting fuzzy. Off the top of his head, the air pocket thing was common sense – any void in a solid was a fracture point waiting to happen. The crystal side was hazier. Something about rapid nucleation producing smaller structures that held up better under stress, though he couldn’t have cited the exact mechanism without his post-isekai notes or Walker’s scientific expertise.
+
+Cole layered fresh ice onto the inner wall and over the buttresses with Mack, pulling heat out of the sprinkler water as fast as the flow would allow. Driving the temperature down didn’t cost much mana when they worked with the physics – all they had to do was move the heat somewhere else. The catch was that somewhere else meant the corridor they were standing in, since dumping it toward the wall would’ve defeated the whole point.
+
+Within a minute, the corridor felt like a damn furnace.
+
+Miles wiped his forehead with his sleeve. “Hotter’n the devil’s armpit in here.”
+
+“Push through it,” Cole said, keeping his wand on the wall. “Our mana’s way more efficient when we follow the laws of thermodynamics. If we try to brute-force the temperature down, we’ll burn through our reserves in a minute.”
+
+Miles grunted as he locked another support into place. “Assumin’ we don’t get burned first.”
+
+Cracks started threading through the third row – long, branching ones that spread faster than Cole could patch them. The sprinkler flow had thinned to barely a trickle, which meant their raw material was about to run out along with their margin for error. He kept his focus on the wand, drawing heat from the worst of the fractures while directing what little water was left into the gaps with his free hand.
+
+“Graves,” he said, straining. “How long?”
+
+The Celdornians had no response to give, evidently too engrossed in their work to even register the question.
+
+Graves’ voice carried from behind him. “... alarm glyph set within the ward; were we to dismantle it without first isolating it, the signal should carry throughout the network.”
+
+“If I am not mistaken… were I to sever it at the root and bypass the relay in its entirety, the glyph should have no path by which to discharge,” Elina said.
+
+“Should you not sever the glyph in time, my lady –”
+
+Another impact buckled the final wall. A section of buttress near the left side sheared clean off and skidded across the wet floor. As much as Cole wanted to tell them to hurry it up, rushing them wouldn’t help.
+
+Elina resumed. “Then we shall be discovered – but the wall will not hold much longer in any case.”
+
+“Then be about it,” Vale said.
+
+The next impact drove a crack clean across what was left of the wall. The buttresses were the only thing keeping the whole structure from caving in, and even those were starting to fracture at the anchors. Their reinforcements had bought them some time, but at the rate the rat had torn through the previous layers, they probably had twenty seconds at best.
+
+Cole risked a glance back. The three of them were huddled around the kiosk, wands trained on the glyph sequence embedded in the terminal. No way to tell how close they were from where he stood.
+
+The next hit knocked the wall inward a good two inches and sent a chunk of ice the size of a microwave tumbling off the top. Cole gave it three, maybe four more hits before the whole thing came down.
+
+“I’ve got it!” Elina called out – right as the wall gave way. The whole thing came apart at once, ice and frozen carcasses spraying across the corridor as the rat bulldozed through the wreckage.
+
+The thing that came through took up half the corridor on its own, probably in the realm of elephants. Unlike the wolf-sized Aberrants they’d cut down so far, this one’s deformity had gone so far the mutations looked like actual body parts – as if the creature had grown around them rather than in spite of them. One of its front legs was noticeably thicker than the other, corded with muscle that had no symmetrical counterpart on the opposite side. A secondary limb jutted out from behind its left shoulder, half-formed but clearly functional enough to brace its weight when it stumbled.
+
+Then there was the rat’s face – if Cole could even call it a rat at this point. Parts of its skull had grown outward into bony ridges that functioned like horns, every one of them slicked with its own blood. As terrifying as it was to see the thing break through, he could at least take some solace in the fact that it wasn’t yet at full power.
+
+“The ward is undone – make haste!” Graves shouted.
+
+Cole had already turned and juiced his legs with mana before Graves had even finished. He and the others got the hell out of dodge, reaching the archway in less than a second. The very millisecond they crossed the kiosk, Graves slammed his palm into the button and the barrier snapped back into place.
+
+Cole felt the rush of displaced air hit the back of his neck a split second before the rat slammed into the ward with a muted thud. When he turned, the thing’s mangled skull was pressed right up against the barrier, close enough that he could see every crack and fracture in the bone. Blood smeared down the surface where its ridges had connected.
+
+The rat backed off and rammed it again. A ripple of light cascaded across the barrier’s surface, but it didn’t seem to falter. The rat tried again a few more times after that, each attempt as futile as the rest.
+
+Eventually, it gave up and lumbered back down the corridor until it disappeared past the melting ice.
+
+Cole watched until it was gone, then found a bench and sat down. He caught his breath, letting the adrenaline wind down on its own. He downed yet another potion before chasing it with a majority of his remaining water.
+
+His guys did more or less the same. Only the Celdornians had managed to make it through unscathed; as such, they’d taken it upon themselves to hold the perimeter.
+
+Cole glanced up at them. “Good work on that barrier.”
+
+Miles dropped onto the bench beside him. “Too damn close.” He took a pull from his canteen and wiped his mouth. “But yeah. Good work.”
+
+Cole allowed a few more minutes of rest before getting them back in the game. With the Aberrants contained behind them and cultists ahead, he had everyone bring their revolvers back out and pushed them forward.
+
+They advanced into the adjoining concourse, weapons up. No signs of life presented themselves as they approached – not until they neared one of the upper-level exits. Faint chatter carried from above, so they gave it a wide berth and stayed along the platform side.
+
+Cole glanced at Graves. “Where to?”
+
+Graves paused and studied the air for a moment, before pointing toward the far end of the station. Cole let him lead the way.
+
+They hadn’t gone far before Cole felt the corrupted miasma himself. It didn’t have any particular odor or anything like that – nothing he could pick up through his normal senses. Instead, it showed up as a sharp, prickling awareness at the edge of perception, like a pressure his body recognized without any clear source. He didn’t have the training to parse it as well as Graves or the others, but the saturation made it obvious in spite of that. They must be getting closer now.
+
+Graves led them off the main concourse to a door marked with Istraynian script across the top. He took a moment to translate it. “Restricted to authorized personnel, or near enough.”
+
+Cole pulled the door open slowly. He pied what he could through the gap before committing. Past it lay a staff area – a lounge to one side, a cafeteria to the other, both stripped down to overturned furniture and bare surfaces.
+
+Graves pointed past the cafeteria toward a service stairwell at the back and led them down.
+
+The stairwell emptied into a storage level that had clearly been picked clean. Chain-link partitions divided the space into units on either side of a central aisle, most of them holding nothing but empty crates and bare shelving. Whatever the Istraynians had stored here, the cultists had looted it long ago.
+
+Cole posted Ethan and Mack at the top of the stairs, then pushed ahead with the rest of the team. They cleared the units one by one, working down the aisle only to confirm what they’d already suspected – nothing left worth taking.
+
+Finally, they reached the end of the aisle, where a maintenance door awaited them.
+
+Cole approached it slowly, easing it open just enough to work the gap with his revolver. He cleared it incrementally from the threshold, pieing off the interior before stepping through.
+
+The space beyond opened up far wider than expected – more of a machine hall than any maintenance room he’d ever seen. Rows of active generators lined the far walls, with vats of water set in parallel along either side.
+
+It was all pretty impressive, but not as eye-catching as the ominous glass cylinder in the center of the room. It stood mounted on a raised platform, insides coated with the characteristic rusty stain of blood, roughly ten feet tall and wide enough to contain a large humanoid. And of course, characteristic of every horror movie he’d ever seen, its front panel hung wide open.

@@ -1,0 +1,121 @@
+Cole brought them into the lobby, which was pretty much just a smaller version of the command center’s lobby. There wasn’t much to glean from it that they hadn’t already covered, but if nothing else, the consistency suggested a degree of architectural standardization worth filing away. He led them past it without lingering.
+
+The hallway behind the lobby was straight, which was the first thing he noticed – and honestly, a bit of a relief after an entire morning of curves.
+
+The width, though – that was a lot harder to dismiss. Shit, Cole had walked through great halls in Europe that were narrower than this corridor. The doors along both walls were spaced far apart with nothing between them to break sightlines or provide cover, which meant anyone moving through here was basically walking down a bowling lane.
+
+He couldn’t say yet whether that was just how the Istraynians built things or if military buildings got special treatment – he still hadn’t seen any of their civilian infrastructure. But if the cult’s compound followed even remotely similar proportions, clearing hallways was going to be a real pain in the ass.
+
+“Alright, before we split up,” Cole said, “let’s start simple. What do you guys notice about the hallway?”
+
+Miles answered, “Whole lotta nothin’. You get caught out here, you’re fucked.”
+
+And even that was putting it mildly. Cole had seen kill zones with more cover than this, and at least most of those had the decency to be outdoors.
+
+Elina measured the corridor with a quick glance. “Might we attempt the passage under a brief enhancement? It should bear us across before any alarm can be raised.”
+
+“Not without turning yourself into a beacon,” Ethan said.
+
+And he was right – EMCON applied to magic the same way it applied to radios. Burning mana in a dead city was about as subtle as a THX intro blasting through the TV when all the neighbors were asleep.
+
+“Well, hell – why don’t we just run it without the magic, then? Go old-fashioned.”
+
+Mack shook his head. “Dude. Listen to this place.” He scuffed his boot against the floor. The sound carried the full length of the corridor and came back. Might as well have been a doorbell.
+
+Cole had been hoping someone would come up with something he hadn’t, but no luck; they’d all arrived at the same dead end he’d hit earlier. Magic was off the table, speed was off the table, and the hallway wasn’t going to grow cover on its own. That left timing and discipline – which, frankly, was how they’d done most of their work before magic entered the equation anyway.
+
+“Alright,” Cole said. “We’ve just gotta play it how we used to do back home. We get their patrol patterns, time the gaps, and move through a staggered file on one of the walls.” He glanced down the corridor one more time. “It’s a shit sandwich, but it’s our shit sandwich.”
+
+“Anyway.” He checked his watch. “Let’s take, uh… let’s do an hour. Tour the building, check all the rooms and nooks and crannies, then meet back here.”
+
+They split up from there. Cole and Elina took the first door on the left.
+
+The room was a security station – or close enough that Cole didn’t need more than a glance to call it. Scrying Panes mounted along the far wall at slightly different angles, all dead, with a long desk beneath them that had indentations for maybe one or two operators. The idea was universal, apparently.
+
+And that was worth keeping in mind; if one building had it, others probably did too, and there was no guarantee the cult hadn’t figured out how to get some of it running again.
+
+Elina went straight for the glyphs on the walls. There were hundreds of them – layered on top of each other, faded, most of them overlapping to the point where even figuring out where one started and another ended looked like an electrician’s nightmare. She gave it a solid effort, but after a minute she stepped back and shook her head. Must’ve been too degraded.
+
+She turned to Cole. “The glyphs elude me, but taken together, I believe this room was intended for communication. The arrangement of the glyphs accords with the manner in which Panes are joined.”
+
+Yeah, Cole wasn’t so sure about that, but he didn’t press it. The room still looked a lot more like a monitoring station than a call center to him.
+
+The problem was, he couldn’t actually find the monitoring equipment. Obviously he wasn’t going to find a CCTV camera bolted to the corner of an Istraynian ceiling, but something had to be feeding into those Panes – some kind of sensor, receptor, whatever their version of a lens was.
+
+He checked the corners, the ceiling, stepped back into the hallway and lobby and checked there too.
+
+Alas, he found nothing that looked even remotely like a pickup point. Though, to be fair, he honestly had no idea what an Istraynian camera would look like, so it was entirely possible he’d walked right past a dozen of them.
+
+Still, Cole couldn’t let it go without at least poking at it. “Elina – how does scrying work, exactly? The spell itself, when it’s used for reconnaissance.”
+
+“Well, one holds in mind the place one wishes to observe, and the spell obliges by bringing it into view. In proportion to one’s familiarity does the image gain in clarity; for where the impression is faint or wanting, the spell has little substance to seize.”
+
+“And the Panes just automate that? Like, if I had to guess, it’s a set of glyphs that keep the spell going so a caster doesn’t have to sit there holding it.”
+
+“Quite so,” Elina said. “The Pane sustains the spell in place of the caster, drawing upon mana rather than continued exertion. That is why they are so commonly employed; once set, they require little skill to operate.”
+
+Cole pushed her along. “Right. And so normally you’d link one Pane to another?”
+
+“Yes, that is the customary arrangement. One Pane serves as the point of origin, the other as the—” She stopped. Her gaze drifted back to the wall of dead Panes – the angles, the spacing, the way each one was oriented slightly differently from the next. “Yet there is no necessity that the far end be a Pane at all. The spell requires only a fixed point of reference. Any glyph properly inscribed upon a suitable surface would suffice.”
+
+She paused. “Which would mean that a single Pane need not be confined to one location, but might observe several – each determined by a separate glyph, placed wherever one chose.”
+
+She turned back to Cole, and there was something almost delighted in her expression – a real eureka moment.
+
+“This is not a communications room,” she said. “These Panes must have been fed by glyphs set elsewhere in the building, perhaps throughout the entire compound.”
+
+Cole had to admit, getting there without a modern frame of reference was pretty damn impressive. He actually smiled. “Welcome to surveillance.”
+
+Elina went quiet for a moment, thinking it through.
+
+“Then the remaining question is where those points are fixed,” she said.
+
+“Yeah, that’s the question, alright. That’s what I was checking for, but I couldn’t find a damn thing.”
+
+“You would not,” she said, shaking her head. “A scrying glyph is not an aperture. It need not face outward, nor be visible at all. It may be inscribed upon a wall, set within a panel, concealed beneath a floor tile – any surface properly prepared would suffice. If they were placed with care, no casual inspection would reveal them.”
+
+Cole sat with that. “And when they’re dead like this, there’s no way to trace them, either, huh?”
+
+“No. Were they active, you might determine their location and extent.”
+
+Great. So they were essentially flying blind on this one.
+
+If the cult had gotten any of the old infrastructure running in Ostreva – or, God forbid, cobbled together their own version – there’d be no way to know where the eyes were. They’d just have to move through the compound assuming they could be watched from literally anywhere and hope they were wrong about most of it. Or find whatever was powering the system and kill it, and pray the cultists blamed it on ancient equipment rather than intruders sneaking around their base.
+
+Neither option was what Cole would call reassuring, but at least they were tangible options. He shelved it and moved on, exploring the rest of the building with Elina.
+
+The rest of the first floor was about as exciting as administrative buildings got, which wasn’t very much. The Istraynians, despite their architectural eccentricity, were relatively normal when it came to basic functions. They found restrooms, a small café, break rooms, conference rooms, and some small offices. All of them were recognizable, even if they’d been scaled up and spaced out in the usual Istraynian fashion.
+
+The staircase sat at the center of the building – a wide, switchback design with landings at each floor. It was broader than any office stairwell Cole had seen back home, comfortably fitting six or seven people across, which aligned with the Istraynian philosophy of making everything bigger than it needed to be. The problem was the same one they’d been running into all morning: more space meant more exposure. And the acoustics continued to remain an issue – Cole and Elina's footsteps bounced off the walls the entire way up.
+
+They reached the second floor, which was actually kind of surprising compared to the first. Cole had been expecting some version of cubicles at some point. Instead, he was met with wide-open office spaces. The individual desks were spaced generously apart, each one with enough clearance that it actually felt like its own workspace rather than a subdivision of someone else’s.
+
+He had to hand it to the Istraynians, honestly – they’d figured out something that corporate America apparently still couldn’t wrap its head around, which was that packing people in like battery hens didn’t actually make them work harder. It just made everyone want to blow their brains out.
+
+Whether this was a military administration thing or just their general take on how workspaces should be, Cole couldn’t say, but it beat the ever-living hell out of every cubicle farm he’d ever had the misfortune of stepping foot in. And he’d stepped foot in plenty.
+
+Tactically, though, the open layout was a wash – good sightlines cut both ways. The desks offered some cover, sure, but they couldn’t be turned over, and the grown shelving units were solid but only came up to about chest height. Admittedly, it was better than nothing, but Cole wasn’t about to trust his life to waist-high bookshelves.
+
+The third floor was where the building’s exterior geometry started creeping in. The rooms along the outer wall had ceilings that curved inward, ranging from a mild annoyance to genuinely tight quarters at the edges. It wasn’t a huge deal for the floor plan itself, but it mattered for fighting; anyone stuck at the edges would have a tough time moving around.
+
+The fourth floor only had a handful of rooms – executive offices, if Cole had to guess. The curvature of the building meant less usable floor space up here, and the Istraynians had apparently decided to give it to a few people rather than cram in a dozen. Back home, a corner office with a view like this would’ve added a few zeroes to the lease.
+
+The fifth floor was hardly even a floor, and more of a landing – a single open space at the building’s tapered peak, with a full three-sixty of the compound and the harbor beyond. Cole could see the Redoubt from up here, still riding at anchor past the Celdornian pier. As an observation post, it was outstanding. As literally anything else, it was a dead end with one staircase and only a single desk to hide behind.
+
+With their tour over, Cole and Elina worked their way back down and headed for the lobby.
+
+Everyone was there when they arrived, which either meant they’d been thorough or they’d run out of things to look at – probably a bit of both, given what the building had to offer.
+
+Cole started with a summary of what he and Elina encountered, then opened the floor.
+
+Miles had found elevator shafts on the east side – two of them, both dead, but mechanically intact. That gave them options. Even if the cult hadn’t gotten them running, they could still climb the shafts – maintenance ladders, cable housings, whatever was in there. Quieter than stairs and a lot less predictable. And if the cult had gotten them running, that was also good, as long as the doors didn’t open onto a floor full of cultists.
+
+Of course, the fire escapes were still the primary play for moving between floors, but having another option in their back pocket didn’t hurt.
+
+Ethan and Graves had found water glyphs embedded in the ceilings, still operational after centuries – basically a sprinkler system. If they were still functional in Ostreva, they could serve double duty: a built-in water source for magic use, and a ready-made distraction if they needed one.
+
+Nothing else came as a surprise. The rest of their observations lined up with what he and Elina had already seen, which was reassuring in the sense that it meant nobody had missed anything obvious, and slightly disappointing in the sense that he’d been hoping someone would come back with something he hadn’t thought of.
+
+“Alright,” Cole said. “I think we’ve gotten about as much out of this building as we’re going to. Let’s check the rest of the section, then get Dunmar’s people set up – we’ve still got drills to run before the day’s out.” He looked at Miles. “Head over to the barracks. Tell him we’ll be ready in about an hour.”
+
+Miles nodded and headed out.

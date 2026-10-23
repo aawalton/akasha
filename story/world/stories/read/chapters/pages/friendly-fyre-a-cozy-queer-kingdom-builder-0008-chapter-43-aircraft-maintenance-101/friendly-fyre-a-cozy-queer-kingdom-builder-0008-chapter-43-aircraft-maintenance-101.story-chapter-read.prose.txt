@@ -1,0 +1,105 @@
+By the time I need to return to my duties in the fortress, one of the younger harpies, Meritis, arrives to play with Ollie in my stead. Though he’s barely a teenager himself, he’d helped in the battle against Jorria and has become rather fond of Ollie ever since. (Although, to be fair, pretty much everyone is fond of Ollie.) Unlike other male harpies, who have colorful plumage in a variety of blue, green, and purple hues, Meritis is brown and grey, similar to most female harpies. A tailor family of dwarves are working with him on feather dye that won’t affect his flight, I’ve heard.
+
+The dyes are also being used in textiles and paint. It take a little time out of my day any time a group of workers ask me (or rather, the Dungeon Core) to synthesize more materials from the Core’s catalog, but the results speak for themselves. Newly painted houses, colorful clothing and pottery—the high spirits of the Fyrethians have quickly become reflected in the vibrance of the furnishings that fill the halls.
+
+Well, most of the halls.
+
+“Where are we at with water collecting?” I ask Dizzi as she leads me into the main bathhouse. The expansive collection of rooms, once covered in bright mosaics, is now faded and yet to be restored. Instead, the bathhouse has been converted into a water storage facility. Without the natural springs to provide us with water, all we have is what we were able to take with us when we launched the Fortress—and what we’ve been able to collect from the skies since then.
+
+Several dracid are fast at work, including Sora, Nek’s wife, and Torim, the unofficial voice of the Fyrethian colony who joined us. Most dracid have a water affinity, which is why they’ve become the go-to workers for developing the water collection and purification system, but Dizzi’s also been assisting with the spell circles, given her background in artificing.
+
+“It’s coming along,” she tells me as we walk around an empty basin several of the dracid are in, busy creating a spell circle at its bottom. “I think we’ll have all the kinks worked out before we run out of drinking water.”
+
+“Let’s hope that ‘I think’ turns into an ‘I’m certain’ here in the next couple of days,” I say.
+
+Torim catches sight of us and nods in greeting. After excusing himself from the other workers, he makes his way over.
+
+“Lord Fyre. Dizzinir,” he says. Dizzi makes a face. “Is everything well?”
+
+“As well as can be expected, given all the excitement.” I share a weary smile with him. “I realized it had been a few days since I last visited and I thought I’d have a look around.”
+
+He nods, turning back to examine the room. “We’ve completed all the purification spells. The spring water is entirely potable now, so we no longer need to rely on you to clean the water.”
+
+That’s a relief. I’d spent hours adding volumes of water into the Dungeon Core’s inventory (a task it was not very thrilled to participate in) so I could strip out enough contaminants and minerals to turn it into drinking water. Now that the dracid have that aspect covered, I can devote my time to other tasks.
+
+“We’ve added a few water collection spells to the roof of the palace,” Torim continues, “and that will work well to siphon any rain water we get into this storage facility, but it’s dependent entirely on rainfall. For something sustainable, we need to complete the spell circuit that will pull humidity from the air.”
+
+“Is there anything I can do to help?” I ask. Using the bathhouse as the water storage facility is only a temporary solution. Dizzi and Torim are the process of designing underground storage tanks, but perfecting the collection and purification aspects are of higher importance.
+
+Torim shakes his head. “We’ll need your help when we are ready to create the permanent storage tanks, connect them to the plumbing network, and transfer this store of water to them. But in the meantime, we are able to do the work ourselves. If all goes smoothly, we might finish in another week.”
+
+“I’m glad to hear it,” I say. “Please let me know if there’s anything you need. I’m sure everyone will be happy once the bathhouses can be used for baths again.”
+
+“I didn’t even get a chance to use them when they were connected to the hot spring,” Dizzi says with a dejected sigh.
+
+I can relate. They had been operable for about two weeks before the Jorrian’s attack, but Dizzi and I had been too busy excitedly sharing our information on airfoils, chemistry, and artificing to take advantage of them. And in the few days running up to the battle, I doubt anyone had time to stop by.
+
+Torim gives another respectful bow of his head as he returns to his work, and Dizzi and I move on.
+
+“I’m going to head back to the workshop,” Dizzi says. “Work on my spell designs. You want to come?”
+
+I shake my head. “I should do a lap to check up on the Fortress’s circles, then I’ll be tagging up with Mirzayael for the daily briefing.”
+
+Dizzi wrinkles her nose. “Sure glad I don’t have your job. Daily briefings sound miserable.”
+
+A necessary evil for which my previous life as a corporate drone has prepared me depressingly-well.
+
+Maybe the truly Dark work of a Dark Lord is daily stand-ups.
+
+“Have fun doing science,” I tell her. “Don’t blow anything up.”
+
+“But you told me to have fun!” Dizzi laughs, then a flap of her wings and a gust of wind carries her away.
+
+Ahh, to be young and blinded by the veil of perceived indestructibility.
+
+In truth, however, I quite like my morning rounds. I could deduce most of the information from the Dungeon Core’s interface, but nothing quite beats visual inspection. Besides, I’ll never pass up an opportunity to stretch my wings outside and soak up the sun.
+
+Flying just outside the city walls, I check the air pressure spell circuit inscribed on its outer surface, first. The chain encompasses the Fortress like a great decorative necklace. Dizzi and the other harpies helped me set it up on the third day of flight, after just about everyone except the harpies started to come down with a bad case of altitude sickness. The spell keeps the pressure within the Fortress similar to that of sea level. Radiating outward from the walls, the air pressure gradually decreases to that of the ambient atmosphere, so the harpies (and Ollie) who fly outside the Fortress don’t experience an abrupt and unpleasant ear-pop each time they pass through the spell. Since this is a wind spell, we had to wire it into the cloudstones at the Fortress’s base to gain enough air arcana to keep the spell network powered. It won’t significantly diminish our supply, but it might reduce the time we are capable of staying aloft from six months to something like five.
+
+I pause once or twice to examine portions of the wall and have the Dungeon Core repair or strengthen any sections that look like they might be in danger of forming a crack, but otherwise all is in order.
+
+One happy consequence of increasing the air pressure within the boundaries of the Fortress is that it also increases the air temperature—thank you, Boyle’s Law. By tweaking the volume and pressure that we allow inside the range, we can control the ambient temperature almost as precisely as a thermostat. We honestly lucked out there, because without the hot springs to heat the Fortress, which it had originally been designed for, things would have gotten below freezing pretty fast. Of course, Fyrethians are no stranger to the cold, but insulation is much more difficult out here in the open air than it had been in the caves.
+
+The bubble of warmth also keeps the Fortress’s rudders and control surfaces from icing over. What I wouldn’t have given for something like this back on Earth.
+
+As I fly back up to the palace, I can make out areas of the city that are being utilized for agriculture. Crops and livestock are far outside my wheelhouse, and we have an exceptionally small variety of plants and creatures to cultivate, but the Fyrethians seem to be making do. I look forward to the day where we pass over green islands and the harpies are able to retrieve more fruits and vegetables to add to our diet.
+
+When I arrive in the throne room, I find it empty (save a giant puddle of dragon spit near the balcony entrance). There are two thrones in the room, now. One that the Dungeon Core is happily nestled inside, and a second seated next to it, this one adapted to arachnoid physiology.
+
+We’ve used the thrones exactly once, and even then only briefly and uncomfortably at the insistence of others during an awkward coronation ceremony. Most of our time in the palace is spent in one of the two smaller and more cozy rooms connected to the throne room: my workshop, on the south side, or the war room, on the north side. Since the battle with the Jorrians, the latter has been converted into more of an office, which Mirzayael and I use to pore over reports, requests, and logistics of every conceivable variety.
+
+This is also where we typically meet for our morning brief, though when I step inside, I find the room empty.
+
+I turn my mind her way and feel a faint thrum of concern. I frown at that. Mirzayael takes everything seriously, but typically she faces obstacles with determination rather than worry. I suspect I know what this is about.
+
+“Where are you?” I ask, mentally reaching out.
+
+She doesn’t reply immediately, so she must be talking with someone. Over the time I used it with Ollie and the Dungeon Core, the Psionic Link spell eventually leveled up enough such that I had the ability to go prying in the heads of those I was connected to, should I so choose to. I have not chosen to, given I feel this is a gross invasion of privacy, but it can be hard not to accidentally catch peripheral thoughts and emotions when they’re felt loud enough.
+
+After evolving the spell during the battle with Jorria, I even developed the ability to remotely experience their senses, such as sight, sound, and touch, though again I have since refrained from doing this. I spoke with Ollie and Mirzayael about the new ability after the battle, and they were both more than happy to give me permission to use the capability in cases of emergency. I hope it will never come to that again.
+
+Finally, Mirzayael responds. “It’s the prisoners,” she says. “One of them isn’t doing well. They are still refusing healing.”
+
+My stomach sours. Despite all our achievements, this remains the one point of contention within the Fortress. A continuing source of hurt and anger and fear that festers at us.
+
+I quickly turn for our makeshift prison. “I’m on my way.”
+
+Though we hadn’t realized it at the time, in the chaos of the fight, Fyrethians weren’t the only people present within the Fortress when it took flight. Three Jorrians were later found to have become trapped within our walls when the city took to the sky.
+
+One of them is a human named Ragna. She had been one of the Jorrians to venture into the cave systems and lay siege to the Fortress’s main gates. She had even managed to breach it, along with a handful of her fellow soldiers. All her allies had either been slain or forced out when the Fortress took flight. Ragna had been knocked unconscious in the conflict and went overlooked until she woke the next day.
+
+The other two Jorrian prisoners are felis named Ylva and Gardi. From what I saw of the Jorrian army, and from what the Fyrethians have told me, the majority of Jorrians are human, though there are a smaller percentage of felis and dwarves in their ranks as well. These two felis are Jorrians who had been on the ice when the Fortress broke through, and fell into the city when the ground beneath them vanished. The Jorrians who had been above the Fortress perished in the fall or upon impact, and the Dungeon Core had consumed them the moment they were no longer classified as “alive.” (Which itself is as disturbing as it was a blessing, as it prevented anyone from having to encounter the remains.)
+
+All perished, I should say, save the two felis. I wonder if it was simply incredible luck, or if the reflexes of their species had anything to do with their survival. Either way, it only helped them to an extent; both are in very bad shape.
+
+I find Mirzayael along with Nek and a young dwarf named Opal at our makeshift prison. We don’t have a dungeon in the Fortress, at least not that I’ve been able to locate, so the structure I stand now before was the best we could come up with on short notice.
+
+It’s a small unused room beneath the palace, far enough away from any of the inhabited houses to be out of sight and out of mind. Beneath much of the city are a network of even more houses and buildings, in fact, the vast majority of them unused. I had the Dungeon Core secure this one by closing off all doors but one; the guards then fitted a cross bar and bolt to the outside.
+
+The group is standing a healthy distance from the prison, likely so they aren’t overheard. Nek is comforting the dwarf girl, who’s fidgeting and nervous. They both turn to look at me when I arrive, their expressions grim.
+
+Opal shakes her head. “I’m sorry. I know you asked me to heal them, but they wouldn’t let me do it.”
+
+“You’ve nothing to apologize for,” I say. “We can’t make them agree, only try to convince them it’s in their best interest. Surely they’ll change their tune when they realize the alternative is death.”
+
+Nek gives me a tired look. “I’m afraid it seems not. Ylva is dead.”

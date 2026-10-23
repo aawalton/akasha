@@ -1,0 +1,47 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const friendlyFyreACozyQueerKingdomBuilder = {
+  id: "01a16a1a-8e94-7c1e-acf9-4c4300f8be86",
+  type: "page-type/story-read",
+  slug: "friendly-fyre-a-cozy-queer-kingdom-builder",
+  author: "Kia Leep",
+  following: false,
+  unit: "unit/words",
+  title: "Friendly Fyre [A Cozy Queer Kingdom Builder]",
+  world: "world/friendly-fyre-a-cozy-queer-kingdom-builder",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "98293",
+      externalLink:
+        "https://www.royalroad.com/fiction/98293/friendly-fyre-a-cozy-queer-kingdom-builder",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Kingdom Building",
+    "Comedy",
+    "Non-Human Lead",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Chivalry",
+    "Cozy",
+    "Dungeon Core",
+    "Female Lead",
+    "GameLit",
+    "Gender Bender",
+    "High Fantasy",
+    "Lesbian Romance",
+    "Magic",
+    "Modern Knowledge",
+    "Reincarnation",
+    "Slice of Life",
+    "Strategy",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T18:51:27.764Z",
+  updatedAt: "2026-10-23T18:51:27.764Z",
+} as const satisfies StoryRead

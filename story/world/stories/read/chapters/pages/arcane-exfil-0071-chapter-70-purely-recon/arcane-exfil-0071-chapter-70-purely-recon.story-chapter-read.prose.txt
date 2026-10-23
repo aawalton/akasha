@@ -1,0 +1,125 @@
+Finding the mess hall took longer than it should have. They wandered past the administrative building twice, asked a corporal for directions, and eventually discovered that it had been exactly where mess halls usually were: in a flat, practical structure positioned conveniently between the quarters and the offices, right where they’d started.
+
+Cole decided not to dwell on it.
+
+The food, at least, made up for the navigational embarrassment. The spread was closer to steak-and-lobster territory than anything he’d seen on a forward operating base – red meat and this world’s version of lobster, all handled by pro chefs. Back home, this kind of spread meant someone expected a war tomorrow.
+
+Cole had said as much. Miles concurred with enthusiasm, launching into a detailed explanation of the steak-and-lobster phenomenon and its predictive value for imminent clusterfucks. Elina, however, noted that Celdornian garrisons customarily maintained provisions at this standard; there was nothing exceptional about the quality, and therefore nothing ominous to infer from it.
+
+This, Miles argued, was somehow worse. If the food was always good, it couldn’t serve as a warning indicator, which meant they were operating blind. Ethan suggested that perhaps he was overthinking it. Miles suggested that Ethan had clearly never been on the wrong end of a steak-and-lobster night.
+
+From there the conversation meandered through relevant small talk – Cole’s first impression of Stroud, the trippy Istraynian architecture, any prep they’d need to do. Mack had stayed quiet through most of it, but he ate steadily and tracked the discussion, which was good enough.
+
+They finished, cleared their trays, and made their way to the lobby.
+
+Langston was already there when they arrived, standing near the entrance.
+
+“Sir Cole,” he said. “If you and your party are ready, we may proceed to the briefing.”
+
+The briefing room was another Istraynian repurpose – some kind of conference space, probably, given the curved table that rose from the floor in one seamless arc. The Celdornians had added chairs, a standing easel with a map pinned to it, and a chalkboard.
+
+Langston stood at the front, wooden pointer in hand. The rest of the attendees filled in along the sides: Cole, Vale, Graves, and a few staff officers Cole didn’t recognize. A corporal worked his way around the table, placing leather folios at each seat – mission packets, from the look of them.
+
+Cole flipped his open and found the usual spread: maps, force estimates, timelines, contingencies – everything that the lieutenant planned to cover in the briefing. It was enough material to keep them busy until insertion.
+
+Langston started as soon as everyone found their seats, opening his folio. “Gentlemen. Lady Elina. I shall begin with an overview of the current disposition, that you may understand the constraints under which we operate.
+
+“Ashpoint maintains a nominal strength of five hundred and sixty-two combat effectives, drawn from the Royal Army, OTAC, and the infantry aboard the destroyers. That figure assumes a full establishment. We are not presently at it.
+
+“The Allesoire-Strinrik expedition presently stands at one hundred and thirty-one souls. That number includes the First Slayer Platoon, the full Slayer Elite detachment, and half of Second Company. As Commander Stroud has already advised you, they are deployed to the Velanth corridor and are not expected to return before the weather breaks.
+
+“What remains available for operations is therefore as follows. Second Slayer Platoon, numbering thirty-five effectives, constitutes our principal capacity for assault. The naval infantry detachment, eighty strong, may be employed for amphibious work, perimeter security, and extraction as required. The remaining sixty effectives of Second Company can be committed to ground operations should the situation make it necessary.
+
+“Additionally, HMS Vigilant and HMS Ardent remain on station. Their guns are available for fire support, and their boats for transport and cordon duties. In the event extraction is required under fire, naval gunfire remains the principal means of escalation.”
+
+Langston took a breath. “That concludes the account of our present disposition. I will proceed to the operational particulars unless there are questions.”
+
+Cole shook his head. The information was pretty straightforward.
+
+Langston turned to the map on the wall and laid a sheet of tracing paper over it, depicting the enemy’s disposition marked in red. The perimeter outlined the administrative district, a cluster of old government buildings between downtown and the harbor.
+
+As much as conventional wisdom said to avoid urban terrain, Cole would have preferred the dense blocks further east, where a small team could disappear into the alleyways and break contact whenever they needed to. Instead, the cult had set up in the part of the city that Istraynian architects had apparently designed for maximum exposure: open plazas on three sides, clean sightlines, and not nearly enough cover for anyone trying to move through without being seen.
+
+Three observation posts were flagged around the perimeter, their fields of view overlapping across the harbor and northern approaches. The western coastline sat outside their coverage.
+
+“Such intelligence as we possess on the Ostreva cult is drawn chiefly from distant observation and conclusions formed from their manner of operating. What follows represents our best judgment, and should not be taken as certain.
+
+“We divide their strength into human and demonic elements. The human element is estimated at between three hundred and eighty and five hundred and ten persons in total. Of these, roughly two hundred and fifty to three hundred may be regarded as capable of fighting. The remainder perform labor and support functions. They are not expected to interfere with operations unless directly engaged.
+
+“Among those capable of fighting, there is a further distinction. Their outer security and militia number between one hundred and fifty and one hundred and ninety-five. They are armed, imperfectly trained, and sufficient for watch duties and routine patrols. The inner circle of the cult itself numbers between eighty and one hundred and twenty-five. These individuals possess magical ability to varying degrees.”
+
+Assuming Graves and Vale tagged along, they’d be outnumbered around 40 to 1. It sounded kinda problematic, but only on the surface.
+
+Three hundred cultists with crossbows and rusty revolvers weren’t the same as three hundred trained soldiers with proper kit. The problem was that Istraynian architecture loved its open plazas and atriums – get caught in one of those and their advantages in skill and equipment would disappear real fast.
+
+That, or trading blows with something in their weight class.
+
+“The demonic element is less straightforward,” Langston continued. “Laborers, chiefly goblins, are estimated at between forty and eighty. They do not constitute a serious threat, though they are likely to raise an alarm if encountered. Imps number between ten and twenty, and present a similar level of risk. Goblin warriors, distinct from the labor caste, are assessed at sixty to one hundred. Their threat levels range from four to eight, with their commanders somewhat higher. Orcs are fewer, numbering between twenty and forty, but are markedly more dangerous. Their assessed threat levels fall between nine and twelve, with commanders ranging from ten to fourteen.”
+
+He flipped a new sheet over the overlay – a standard reference illustration of a nevskor.
+
+“Beyond these, we have confirmed the presence of nevskors, no fewer than four. Mimics are believed to be present, though estimates of their number are sufficiently unreliable as to be of little practical value.”
+
+“Real precise,” Miles muttered.
+
+“Quite so,” Langston said. He moved on. “Finally, it is our judgment that at least one commander-grade entity is present, whether a vampire lord, a lich, or something of the same order. From what we have observed of its influence and effects, it is likely to be of the sixteenth level or higher. Our recommendation is that such an entity not be engaged. If it were to be encountered, withdrawal would be the prudent course.”
+
+As much as Cole wanted a round two – put K’hinnum down for good this time – fighting a Vampire Lord in his own territory was a losing proposition. Or lich, or revenant, or whatever, for that matter.
+
+“I will now turn to the purpose of the operation. Our first concern is your survival. That being said, your chief objective is to determine whether Ostreva is their only base, or merely one part of a wider arrangement. In the course of doing so, you are to observe the interior of the site, identify who directs the cult, note any ritual activity, and form a view as to its function. Should you choose to infiltrate the compound, you should also recover any papers or records that bear upon this question.
+
+“If opportunity permits, the following matters may also be pursued, in descending order of importance. First, confirmation of the presence or absence of the senior entity; second, a clearer account of demonic strength and disposition; third, identification of any alternative approaches.
+
+“You are to proceed with restraint. Avoidance is to be your default posture. Isolated sentries may be dealt with where necessary to preserve concealment, and you are authorized to defend yourselves if pressed. You are not to provoke a general alarm, not to engage nevskors except in extremity, and not to seek contact with the commander under any circumstances.
+
+“The party is to withdraw if losses are incurred beyond tolerance. Two casualties, or one rendered unable to move, will suffice. Withdrawal also applies if the alarm is raised before the principal object is secured, if the commander begins to pursue you directly, if your routes of extraction are confirmed compromised, or if the officer in charge judges the undertaking can no longer be carried through.”
+
+Langston gave a small nod to Cole, which he returned.
+
+“The timing of your insertion I leave to your discretion, though you may wish to note that the new moon falls two nights hence and will provide the least light. If the party has neither withdrawn nor made signal by eight o’clock on the following morning, Ashpoint will assume the attempt has failed and will act accordingly. The measures involved will be addressed later.”
+
+He then put the other sheets back, restoring the map to its original, clean state.
+
+“We intend to land on the western shore, approximately a mile west of the harbor mouth. The coast there affords several rocky coves that the ship’s boats can reach. The ground above rises sharply, between fifty and eighty feet, and gives access inland. Beyond that lies the abandoned Strelova Quarter, which appears to be clear of the cult’s main activity.
+
+“From Strelova Quarter to Kostreva Bridge is approximately three-quarters of a mile, allowing twenty to thirty minutes at a cautious pace. From Kostreva Bridge to Vescanth Square is a further half mile, fifteen to twenty minutes. From Vescanth Square, access may be gained to the subterranean rail network, which leads into the Interior.”
+
+It was a subway, essentially. And if the city had a subway – a real one, not the American kind where two lines counted as a system – that theoretically meant access to a lot more than just the Interior.
+
+“With regards to your return, the intended course is to withdraw by the route of insertion and signal for recovery. Should that route be denied, you are to make for the river quay here.”
+
+He indicated a point west of the city, where the river spilled into the ocean.
+
+“That course will require the suppression of the harbor observation posts before boats can be brought in. If neither route is available, you are to move overland to the Kestra ruins, approximately seven miles to the east, and await relief. In the event that extraction cannot be effected by any of these means, you are to withdraw north into the hills, avoid contact, and remain at large until recovered.”
+
+“Survive in the wilderness of a demon-infested wasteland,” Ethan said. “I suppose that offers better prospects than certain death.”
+
+Langston allowed the barest trace of a smile. “The hills are hard going, but they are not watched. A small party that keeps its discipline could avoid pursuit for several days. Whether that amounts to survival is another matter.”
+
+He turned back to the map.
+
+“There are three confirmed observation posts. One stands on the eastern headland and watches the harbor mouth. Another occupies the clock tower in the Quarter and overlooks the docks and the northern streets. The third is at the Customs House on the central quay, with sight of the harbor and the piers. Between them, the western coast is left uncovered, as is the Strelova Quarter, the river west of Kostreva Bridge, and the ground to the north. So long as you keep to those parts, and move with care, you are unlikely to be seen.”
+
+Cole fixed the route in his head. Without a camera or GPS, that was all he had – the same way soldiers had done it for centuries before someone invented the luxury of not having to.
+
+Langston moved on to equipment and provisions, most of which Cole had expected: boats, ammunition, rations, potions, the usual operational kit. The only item worth noting was the mana suppression charms – useful for avoiding magical detection, but anything past basic spellwork would require taking them off first.
+
+Support was straightforward: the HMS Ardent and HMS Vigilant could hit anything in the city, with pre-designated targets already plotted for the observation posts and key structures. Ground reinforcement was two to four hours out depending on the unit. They’d be enough to establish a perimeter or pull them out under fire, but not enough to take the cult head-on without bleeding for it.
+
+Langston ran through the flare protocol – green for mission complete, yellow for extraction, orange for fire support, white for ground reinforcement. Standard signals, nothing Cole hadn’t seen before.
+
+Then he got to the red flare, which was about as urgent as the color suggested.
+
+Langston really stressed this one. “If a red flare is shown, the garrison will be committed in full. Naval fire will be brought to bear, and all infantry and Slayer elements will be thrown in. There will be no recall once that signal is given. The attack will continue until you are recovered or the force is exhausted.”
+
+He paused. “In the event that recovery cannot be effected, or that you are confirmed killed, the Admiralty will order the site destroyed.”
+
+Cole frowned a bit. The delivery could use some work, and he was saying that as a guy who’d heard this spiel dozens of times.
+
+Langston closed his folio. “In brief, you are to go in, establish the extent of Ostreva’s role, observe their work, and withdraw with your findings. Whether the site is to be destroyed depends on what you discover. Although the objective of this operation is intelligence, your first concern is to return alive. Any questions?”
+
+“I want to run my team through some drills before we go. Get a feel for the layout of Istraynian buildings. We’ll need a structure and some bodies to play opposition.”
+
+“That can be arranged. I will speak with Major Harlone regarding the provision of men for the exercise. Will tomorrow morning be suitable?”
+
+Cole nodded. “That’ll work.”
