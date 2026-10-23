@@ -1,0 +1,806 @@
+Reivyn settled down in the shade of one of the rocks. There were several hours left until sundown, and the other Party members had segregated themselves to get some rest. Reivyn surmised that he had the highest stats. He was always the last one to suffer fatigue, so he volunteered to keep a lookout while the others got some sleep. He wouldn't have been able to sleep at the time, anyway, so might as well do something useful.
+
+ 
+
+There really wasn't much to keep watch for. It was more the principle of the thing and to not get into bad habits.
+
+ 
+
+Don't have much else to do, might as well review my Experience and Skill gains recently. More and more often, Reivyn found himself letting his notifications wait until he could review a large amount at the same time. It wasn't a conscious decision he had made, it had just happened. I used to pull everything up as soon as it happened because I liked the way it felt to see tangible progress. Now I think I enjoy getting a large drop of information all at once more.
+
+ 
+
+He pulled up the Notifications that had been accumulating.
+
+ 
+
+Exiting Dungeon
+
+Calculating...
+
+First Boss: Complete
+
+Combat Experience: Exp +300
+
+Dungeon Completion Bonus: (1/5) Exp +1,000
+
+Total Experience: 1,300
+
+Combat Initiated.
+
+Enemies Defeated
+
+Exp +340
+
+Exp +340
+
+...
+
+Exp +340 x 11
+
+Combat Initiated.
+
+Enemies Defeated
+
+Exp + 200
+
+Exp +200
+
+Exp +200
+
+...
+
+Enemies Defeated x 41
+
+Exp + 200 x 41
+
+Combat Initiated.
+
+Enemies Defeated
+
+Exp +50
+
+Exp +50
+
+Exp +50
+
+...
+
+Enemies Defeated x 89
+
+Exp +50 x 89
+
+Total Experience: 17,820
+
+Skills Leveled Up!
+
+Tier 1:
+
+Athleticism (45 ->48)
+
+Balance (46 ->48)
+
+Dancing (18 ->22)
+
+Hiding (28 ->33)
+
+Map Making (20 ->23)
+
+Observation (44 ->46)
+
+Rhythm (21 ->23)
+
+Running (44 ->45)
+
+Sneaking (27 ->31)
+
+Heavy Armor (17 ->21)
+
+ 
+
+Tier 2:
+
+Acrobatics (26 ->28)
+
+Eavesdropping (25 ->26)
+
+Evasion (42 ->45)
+
+Gab (1 ->6)
+
+Linguistics (10 ->11)
+
+Pain Resistance (42 ->49)
+
+Silent Step (1 ->5)
+
+Stealth (23 ->25)
+
+ 
+
+Tier 3:
+
+Battlefield Awareness (22 ->23)
+
+Blind Fighting (10 ->14)
+
+Danger Sense (18 ->21)
+
+Detect Lies/Truth (1 ->2)
+
+Mana Conjuration (35 ->38)
+
+Mana Manipulation (38 ->41)
+
+Mana Shield (25 ->28)
+
+Mental Fortitude (41 ->44)
+
+Night Vision (2 ->6)
+
+Sense Threat (1 ->4)
+
+Silver Tongue (1 ->4)
+
+ 
+
+Tier 4:
+
+Dual Casting (15 ->22)
+
+Iron Will (15 ->21)
+
+Mana Weapon (30 ->32)
+
+Spatial Awareness (25 ->29)
+
+ 
+
+Tier 5:
+
+Heroic Bearing (4 ->7)
+
+ 
+
+Tier 6:
+
+Weapons Master (62 ->63)
+
+Hmm, it seems like Partying up after reaching a certain threshold actually imparts a penalty on Experience gains, Reivyn noticed. Up until now, I've gotten 100% of the Experience from combat, but I've only been in Parties with Tier 2's up 'til this point. I guess as one advances, the rules change. It kind of makes sense if I think about it. The System has rewards for groups and Parties, but it's mostly about rewarding individual effort.
+
+ 
+
+Reivyn wasn't surprised about his progress in his Skills either. The huge jumps in Pain Resistance and his Mental Fortitude and Iron Will Skills were to be expected after the harrowing experience on the Realm bridge.
+
+ 
+
+He had another set of Notifications to sift through.
+
+ 
+
+Achievement!
+
+Gaze upon the Multiverse
+
+Mental Stats +10
+
+Achievement!
+
+Survive the River of Souls
+
+Luck +10
+
+Achievement!
+
+Travel a total distance of more than 100 miles away from your birthplace.
+
+Physical Stats +1
+
+Achievement!
+
+Travel a total distance of more than 10,000 miles away from your birthplace.
+
+Physical Stats +3
+
+Achievement!
+
+Travel a total distance of more than 10,000,000 miles away from your birthplace.
+
+Physical Stats +6
+
+Ten million miles! That's how far away, at minimum, this Region is from my home?! Reivyn was flabbergasted. He stared at the Achievement Notification for several long moments.
+
+ 
+
+I already knew I was flung really far away, and I knew I would need to use the teleportation platforms to get back home. The actual distance involved only matters in how much wealth I'm going to have to burn to make the trip.
+
+ 
+
+Reivyn put the worries of the long distance he would need to traverse to the side for now.
+
+ 
+
+I got a decent amount of Experience. Let me pull up my full Status and take a gander.
+
+ 
+
+ 
+Status
+ 
+
+Name: Reivyn
+Class: Light Magus Lvl 7
+Fighter
+Age: 14 (20)
+
+Health: 4,960/4,960 (+310)
+Stamina: 9,530/9,530 (+410)
+Mana: 4,680/4,680 (+50)
+
+Physical Stats
+ 
+Mental Stats
+
+STR: 457 (+10)
+ 
+INT: 465 (+4)
+
+VIT: 496 (+31)
+ 
+MAG: 471 (+6)
+
+DEX: 457 (+10)
+ 
+CLA: 410 (+1)
+
+CHA: 139 (+1)
+ 
+PER: 414 (+1)
+
+ 
+LUK: 148 (+1)
+ 
+
+ 
+Bloodline: Lvl 1 Unknown 118,033/10,000,000,000
+ 
+
+ 
+
+Experience: 7,919/8,000
+
+ 
+
+So I crossed the threshold of 100,000 Experience put into my Bloodline, but I didn't get any Stat improvements this time. If I need an increase of a thousand-fold per Stat increase to match the thousand-fold increase in Experience needed to upgrade the Bloodline, then I'll need one hundred million Experience for the next Stat gain.
+
+ 
+
+Reivyn rubbed his chin as he contemplated the astronomical increase in numbers. He idly looked over his Status page. His hand stopped rubbing his chin as he froze in shock.
+
+ 
+
+Am I seeing this right?! Reivyn rubbed his eyes to try and clear his vision. He looked at his Status page again, but it still showed the same thing. He leaped to his feet in a panic, staring at his page with wide eyes.
+
+ 
+
+14 years old! 14 years old?! What happened to the last three years?! I just turned 11 not that long ago.
+
+ 
+
+He had a hard time coming to grips with the reality placed right in front of him. He had lost three years of time somewhere. He began to pace back and forth, his adrenaline pumping through his body.
+
+ 
+
+Calm down, calm down, Reivyn repeated to himself. Think. Think! What happened that could account for such a huge change? It had to have happened when I was attacked by the Masked Man with whatever it was he did, but that doesn't make sense. I would have died if it had taken that long. Sure, there was energy fueling my body from the changes made in balancing my soul, but it wasn't years' worth.
+
+ 
+
+Reivyn stopped his pacing as an idea struck him.
+
+ 
+
+Time must flow differently in the space between Realms. That's the only thing that makes sense to me. Reivyn nodded his head as he felt he was on the right track. But if that's the case, then wouldn't my age stay the same while everyone else aged? It wouldn't make sense for time to pass slower, as that wouldn't resolve the issue of starving to death while experiencing three years in a coma.
+
+ 
+
+There has to be some sort of tie between the bridge and the Realms that makes the time difference still affect the people on the bridge.
+
+ 
+
+Reivyn took deep breaths and entered a state of Meditation to calm his nerves. He sat back down as the adrenaline wore off, and his racing heart finally slowed to its normal pace.
+
+ 
+
+My family and friends must think I'm dead, Reivyn thought. Despair tried to consume him, but he ruthlessly squashed the emotion. That just means the reunion will be that much sweeter.
+
+ 
+
+Reivyn sat in Meditation for several minutes. He could rationalize the situation, but he could tell that he would freak out if he didn't keep a tight rein on himself.
+
+ 
+
+He spent the rest of the time waiting for nightfall switching back and forth between Meditating to keep calm and keeping an eye on the surroundings. He wouldn't let an existential crises prevent him from doing his responsibilities.
+
+ 
+
+ 
+
+---
+
+ 
+
+ 
+
+Kefira stretched to get the kinks out of her muscles from sleeping on the hard floor. She stood up and noticed Sera doing a similar set of stretches.
+
+ 
+
+"It's hard moving from a nice, comfortable bed to the hard rocks," Kefira mentioned. "I'm not sure I'll ever get used to it. Can you explain again why I can't just bring a comfy mattress with us in my storage pouch?"
+
+ 
+
+"You know why," Sera rolled her eyes. "It's all about the experience. One day, when you have a larger spatial inventory, you can fill it with whatever you want, but that time isn't now."
+
+ 
+
+"I know, I know," Kefira sighed. "I just wanted to complain."
+
+ 
+
+She and Sera tidied themselves up and walked from their secluded section over to where Sten, Dowell, and Cinna had already joined Reivyn. She glanced at Reivyn. He had a hang-dog look about him.
+
+ 
+
+"What's wrong with you?" She asked as she walked up. "Bite off more than you could chew, and now you're regretting you didn't get any sleep? You look terrible."
+
+ 
+
+Reivyn turned his eyes to gaze into hers. The piercing look that had been present was replaced with a hollowness.
+
+ 
+
+"I'm fine," he said, unconvincingly. "I just realized my situation is a little more complicated than I thought. It's not a big deal."
+
+ 
+
+"If you say so."
+
+ 
+
+"Yeah, I'll be back to normal after some time." His voice caught on the last word. Kefira just raised her eyebrow at him.
+
+ 
+
+"Well, let's get a quick bite to eat, and then set off. We only have so much time during the evening for traveling. We would technically be fine traveling through the day, but we'd go through a whole lot more water doing that."
+
+ 
+
+Reivyn nodded at the explanation. He probably already understood that, subconsciously, but he's not from a desert region, as far as I can tell. It doesn't hurt to give small reminders for the decisions we make.
+
+ 
+
+The Party quickly ate their rations and headed off into the desert.
+
+ 
+
+The rocks marking the entrance to the underground labyrinth that held the Lizaldons fell away, and it was replaced by endless sand dunes. The wind blew sand across their bodies and faces, and Kefira used the stars to navigate. She turned to Reivyn, walking with his head down, not really paying attention. She shoved him on the shoulder, and when he looked up with a frown, she pointed up at the sky.
+
+ 
+
+"Another reason we're moving at night is that we can tell where we are based on the stars," she explained. Reivyn followed her finger and stared at the night sky. "All the way out here, the celestial bodies are quite beautiful. Too much light pollution in the cities means you never really get a good look at what's out there."
+
+ 
+
+Reivyn contemplated the starry sky for several moments. Kefira enjoyed the view alongside him. It had been a long time since she had simply gazed upon the stars just to look at them and not to use them. She could get so caught up in life that she would sometimes forget to live. It was a good reminder for herself. Teaching someone else and witnessing them take it all in helped her to rediscover the wonder for herself.
+
+ 
+
+"It is quite pretty," Reivyn glanced at her as they walked. "It's in good company." Kefira rolled her eyes, brushing the comment off, but she could still feel her ears heat up. "Are those the other Realms?"
+
+ 
+
+"No, the stars are independent..." Kefira began. She stopped and looked up at Reivyn sharply. "You know about the other Realms?"
+
+ 
+
+"Sure, it's not some kind of secret, is it?"
+
+ 
+
+"No, it's just not common knowledge, even in a Tier 3 Region. You said you were from a Tier 1 Region, so it just shocked me that you knew. I guess I can't compare a Tier 1 Region filled with giants with a normal one."
+
+ 
+
+"Heh, you were about to answer the question, too. You say it's not common knowledge, but you obviously know a bit more detail about it."
+
+ 
+
+"Of course!" Kefira put her hands on her hips. It didn't have the same effect walking as it did when she could strike a pose, though, so she lowered them back down after a second. "Who do you think I am? I know all about the different Realms."
+
+ 
+
+"Really?" Reivyn raised a skeptical eyebrow at her. "How many are there?"
+
+ 
+
+"No idea."
+
+ 
+
+"How do you get to one?"
+
+ 
+
+"No idea."
+
+ 
+
+"Where's the closest one?"
+
+ 
+
+"No idea."
+
+ 
+
+"If the stars aren't the other Realms, then what are they?"
+
+ 
+
+"No idea."
+
+ 
+
+"So you don't know much?"
+
+ 
+
+"No idea... Hey!" Kefira stamped her foot as they walked. "You were asking all the wrong questions! Nobody knows the answers to those questions."
+
+ 
+
+"Then what do you know?"
+
+ 
+
+"I know that our Realm is called the Veridical Realm. I know that we've had major conflicts with no less than three other Realms, the most recent one being with a Realm called the Verdant Realm. They might sound similar, but the Verdant Realm is full of sapient plant monsters, and their System involves the cultivation of flora for the people there.
+
+ 
+
+"In fact, this desert Region is one of the ancient battlefields. They did something here to suck all of the vitality out of the land to fuel their own armies. That's obviously not the case for every desert in the world, but it had something to do with forming this desolate region in the middle of the Region."
+
+ 
+
+"That's interesting," Reivyn said. "There are remnants of people from the Abyss Realm where I'm from."
+
+ 
+
+"The Abyss?! That's one of the oldest conflicts our Realm has had."
+
+ 
+
+"Well, they're still around, here and there."
+
+ 
+
+"That's news to me," Kefira muttered. "Anyway, each Realm has its own celestial body, and as far as I know, they're not the same. Nobody I know of knows the full extent of the matter."
+
+ 
+
+"And who do you know of?" Reivyn leaned in close.
+
+ 
+
+"I know of plenty of scholars," Kefira crossed her arms, lifting her chin imperiously with her eyes closed. She peeked an eye open and was startled to see Reivyn leaning in really close. She jumped back in surprise. "What are you doing?"
+
+ 
+
+"I'm trying to see inside that head of yours," Reivyn smirked.
+
+ 
+
+"It's full of things! Things you will never know."
+
+ 
+
+"Full of nonsense."
+
+ 
+
+Serilla snorted, trying to suppress a laugh. Kefira glared at the back of her head before turning back to Reivyn.
+
+ 
+
+"I see that you're feeling better," Kefira commented. Reivyn's smile slipped from his face. Kefira grimaced. "I shouldn't have said anything."
+
+ 
+
+"It's fine," Reivyn said, shaking his head. He stumbled on his next step and recovered with a sheepish grin.
+
+ 
+
+"Walking on the loose sand is an art," Kefira said. She demonstrated by gliding forward at a normal pace, not slipping on the sand at all. "Balance, Athleticism, and a few other Physical Skills can help, but what you really want is Sure Step. It will also help with slipping on wet surfaces at higher Levels."
+
+ 
+
+"I see. How do you unlock it?"
+
+ 
+
+"Here, I can guide you. Watch my steps."
+
+ 
+
+Kefira slowed her pace down and took careful steps. She deliberately stopped herself from unconsciously using the Sure Step Skill, and she carefully controlled her weight distribution and pacing. Reivyn watched intently as he tried to copy her. Kefira was pleased to see that she didn't have to explain all of the minutiae, and he was able to spot the differences in how she walked on his own.
+
+ 
+
+"I see that I don't have to remind you to pay careful attention to my body and how it moves. You'll be able to unlock the Skill pretty quickly at this rate."
+
+ 
+
+"It's easy," Reivyn replied. Kefira frowned for a second at the casual dismissal. "And the walking part isn't too hard, either."
+
+ 
+
+It wasn't just her ears or cheeks that blushed this time. Kefira felt her entire head, starting from the neck, turn red as she realized what he was referring to. She coughed into her hand to regain her composure.
+
+ 
+
+"Yes, well, it's a Tier 3 Skill, so it might take several hours of work for several days before you unlock it. Let me know if you need a reminder on how to move."
+
+ 
+
+"I think you'll need to guide me for a week, at least," Reivyn said with a smile.
+
+ 
+
+Kefira rolled her eyes once more. I've been doing that a lot more since running into this rapscallion. Kefira looked forward once more and saw Serilla glancing back with a stern gaze. Kefira stuck her tongue out at her and deliberately took another step closer.
+
+ 
+
+Kefira didn't know why she was trying to press her companion's buttons, but she felt like rebelling a little. She had never met a young man that had elicited such a desire before. It was a novel feeling for her, and she was enjoying the attention for once. It didn't feel slimy or like it was masking an ulterior motive.
+
+ 
+
+Kefira only reveled in her friend's frustration for a moment before addressing Reivyn once more.
+
+ 
+
+"I'll leave you to it. If you have any questions, you can ask me any time."
+
+ 
+
+Reivyn nodded his head as he continued mimicking the steps she had shown him. Kefira turned and walked over to join Serilla.
+
+ 
+
+"Oh, is the young couple breaking up already?" Serilla snorted.
+
+ 
+
+"Hardly," Kefira replied. "There's no reason for you to be so uptight. You know that I know how to behave."
+
+ 
+
+"Do I know that?" Serilla raised an eyebrow. "From what I've seen, you know how to get yourself in trouble."
+
+ 
+
+"I haven't gotten myself into any kind of trouble in a long time, and you know it."
+
+ 
+
+"I shouldn't have to remind you that that man is very dangerous," Serilla said sternly. "We don't know anything about him, or whether or not he's telling the truth about his situation. Have you unlocked your Detection Skill yet?"
+
+ 
+
+"You know that my Perception isn't high enough, yet," Kefira sulked. "But my experience in Observation is telling me he's not lying."
+
+ 
+
+"You've been wrong before."
+
+ 
+
+"I'm not wrong this time."
+
+ 
+
+"I just want you to be safe," Serilla placed a hand on Kefira's forearm with a concerned look. "Don't get caught in a trap."
+
+ 
+
+"I know you're just looking out for me," Kefira patted her hand with her own. "But it's your job to look out for me. Not to tell me what to do."
+
+ 
+
+"Yes, I understand."
+
+ 
+
+"Good."
+
+ 
+
+Their conversation had been held outside of the range of hearing of anyone else in the Party, and Kefira was reasonably sure they had been quiet enough, and Reivyn was distracted enough in trying to unlock the Skill, that she didn't think even he heard them.
+
+ 
+
+Sten and his crew had distanced themselves a little from Kefira and Serilla ever since Reivyn had appeared. She had been worried that Sten would do something foolish, like challenge Reivyn to a sparring session in order to bully him into his place, but that had been squashed with Reivyn's display of combat power. Sten was apparently intimidated enough to not make any trouble. He didn't know that she had given Reivyn a probationary position in her Party, though. She didn't know what kind of idiocy he might get up to if he did know.
+
+ 
+
+She had seen it several times over the years. There were plenty of female Adventurers and Adventuring groups, but she found many of the dramatics associated with teaming up with such a group to be more of a headache than fending off the attentions of young men. There were also many more men in the Adventuring profession. There was just something about it that appealed to them more than it did most girls, though it wasn't a universal rule. She herself had quite a liking for the lifestyle.
+
+ 
+
+She would inevitably enter into a partnership with a Party with cocky guys in it, and they would get distracted by trying to show off for her or Serilla. It had only been seriously dangerous a few times, and she had quickly abandoned any association with those groups. It was one thing to try and show off and quite a bit different to cause life-threatening danger.
+
+ 
+
+It wasn't all that different from the other young men she met outside of Adventuring. They just found other ways to try and show off. She didn't have it as hard as some of her older siblings, but it was still an annoying thing to constantly have to go through.
+
+ 
+
+At least it was, Kefira thought, glancing at Reivyn. I can finally see why some girls actually enjoy the games they play with the boys giving them attention. I've never been able to feel any sincerity before, though. That's not to say I think Reivyn is serious, but he's at least not a creep.
+
+ 
+
+ 
+
+---
+
+ 
+
+ 
+
+It only took Reivyn a couple of hours on that first day to unlock the Skill.
+
+ 
+
+[New Skill Unlocked!]
+
+[Tier 3:]
+
+[Sure Step (0 ->1)]
+
+ 
+
+He didn't want to expose how quickly he was able to gain Skills, though, so he continued to pretend like he was concentrating on the training Fira had assigned him.
+
+ 
+
+He was grateful to her in more ways than one. She had distracted him from his brooding, and his mood had improved tremendously. He enjoyed teasing her for some reason that even he wasn't entirely aware of. It also amused him to watch Sera's reactions to their interactions.
+
+ 
+
+They continued their journey across the sands of the desert during the night. Reivyn tried to interact with everyone equally, attempting to draw Sten, Dowell, and Cinna into the conversations. Dowell and Cinna were naturally the quiet type to begin with, though they were friendly enough. Sten, though, seemed to be afraid of him or something. He just shrugged it off.
+
+ 
+
+He tried to interact with them equally, but he always ended up talking the most with Fira. It wasn't just that she was the one most readily accepting of joining him in conversation. He found himself drawn to her, and he often found himself looking into her ruby eyes without realizing it.
+
+ 
+
+Their trip in the desert lasted six days, and they finally reached the end to enter a more lush environment.
+
+ 
+
+"This is an oasis. A natural hot spring on the edge of desolation," Fira jumped up and down excitedly. "I'll finally be able to take a proper bath. I don't know how the rest of you can stand it. Especially you, Reivyn. You stink."
+
+ 
+
+"Must be the blood and grime from all the fighting," Reivyn replied.
+
+ 
+
+"No. It's you."
+
+ 
+
+"I don't stink!" Reivyn tilted his head down and took a whiff. He recoiled with a disgusted look on his face. "Alright. I stink. Huh, I've never had that problem before."
+
+ 
+
+"When was the last time you went multiple weeks without changing out your armor or taking a bath?"
+
+ 
+
+"Umm, never?"
+
+ 
+
+"See, there you go. You just didn't know that you stink, because you've been taking proper care of yourself."
+
+ 
+
+"The way you say it makes it sound like smelling is my natural state."
+
+ 
+
+"Of course it is! It takes external effort, like washing, to get rid of your stink."
+
+ 
+
+"Could you please stop saying that I stink?"
+
+ 
+
+"As soon as you don't stink."
+
+ 
+
+"Fine! I get it, already," Reivyn exclaimed in exasperation. Kefira just giggled as she walked off to a rocky outcropping in the distance with Sera.
+
+ 
+
+"We'll be going over here. Only death awaits any boys that follow, so keep your stink to the other spring."
+
+ 
+
+Reivyn watched them go for a second before sharing a look with Sten and the other two young men. He shrugged his shoulders and walked to the opposite outcropping. There was enough privacy afforded by the natural rocks in the area that nobody had to worry about people spying on each other from the other springs.
+
+ 
+
+Reivyn stripped down and tossed his armor and clothes into its own separate pool. He didn't have any soap in his pack - an oversight that will be addressed from this point forward - so he simply scrubbed the clothes against the armor. A brick of soap plopped into the water by his side, and he looked up to see Dowell giving him a thumbs up. Reivyn waved to the silent youth with a nod and a smile, and he got to work cleaning everything up.
+
+ 
+
+After he had smelled himself several times to make sure there wasn't any lingering odor, he finally relaxed a bit in the waters of the spring. It was called a "hot spring," but the temperature was constant. It was cool in the summer and hot in the winter. Right now, in the early dawn, it was a bit warm compared to the chilly air.
+
+ 
+
+He and the other boys of the Party didn't linger, not knowing how long the two girls would take, and so they got dressed once more and went to wait in a central area.
+
+ 
+
+"This place is actually quite popular," Sten remarked as they settled to wait. "I'm surprised there aren't any other people here right now. It's usually busy all hours of the day."
+
+ 
+
+"Might just be a coincidence of timing," Reivyn replied.
+
+ 
+
+"Maybe."
+
+ 
+
+They fell into a comfortable silence as they waited. Despite the stereotype of girls taking forever to get ready, they didn't have to wait long until Fira and Sera made their way over to join the waiting boys.
+
+ 
+
+Reivyn looked up and his jaw nearly hit the floor. Fira was still toweling her hair dry, but she had donned a new set of combat robes. The biggest difference, though, was that she was no longer wearing the breastplate over her new robes.
+
+ 
+
+Reivyn felt feelings in his chest that he had never experienced before as he watched her walk up.
+
+ 
+
+That's quite the...
+
+ 
+
+"What?" Fira paused in drying her hair as she spotted Reivyn looking at her. He promptly shut his mouth and cleared his throat.
+
+ 
+
+"Nothing. You look nice." It was Reivyn's turn for his face to turn red. He panicked and just blurted out the first thing that entered his head.
+
+ 
+
+"Thanks?" Fira finished drying her hair and stowed the towel away. Sera was giving Reivyn a stern look from behind her shoulder.
+
+ 
+
+"The nearest city is only half a day's journey away," Fira announced to the group. It was more for Reivyn's benefit, as Sten and the others had come from their destination, to begin with. "Might as well not stop here for the day and just push on to the end."
+
+ 
+
+Reivyn remained sitting for a second as he composed himself. Once he was ready, he joined the others on the final leg of their trip.
+
+ 
+
+That was new...
