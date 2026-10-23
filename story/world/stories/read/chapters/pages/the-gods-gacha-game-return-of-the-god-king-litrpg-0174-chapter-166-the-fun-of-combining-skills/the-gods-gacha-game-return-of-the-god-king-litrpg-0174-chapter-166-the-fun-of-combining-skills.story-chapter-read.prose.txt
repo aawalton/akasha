@@ -1,0 +1,163 @@
+I woke up early the next morning and took stock of everything I’d gained so far. First things first, the total amount of plausibility I possessed now stood at exactly 2,057. This was the first time it had ever crossed the two-thousand mark, and with this amount, there was a great deal I could do.
+
+The very first thing I wanted to use it for was creating a skill capable of gathering intangible faith and converting it into plausibility whenever and wherever I wished. The basic concept was clear, though that didn’t mean I would obtain exactly what I envisioned. Even something merely close to it, however, would be immensely useful.
+
+With that in mind, I turned my attention to the description of my very first signature skill: God!$# Creation.
+
+[God!$# Creation]
+
+Rank: Di%@#?$Type: Active
+
+A fragmented authority that allows the user to rewrite fragments of reality through the divine principle of creation. Through sufficient plausibility, the user may shape or generate new abilities or skills, alter existing ones, or merge compatible skills to form evolved versions with unique effects.
+
+System Error: [0x00F4D3]
+
+“Rather than creating the skill from nothing, using Conceptual Integration and incorporating the essence of Absorb Plausibility seems to be the better approach,” I murmured.
+
+I didn’t want to lose Absorb Plausibility since it had its own uses, and more importantly, it was my class-related signature skill. The only problem here was that Conceptual Integration required at least two skills to function, with at least one of them needing to be sacrificed. Fortunately, the base effect of God!$# Creation allowed me to create new skills outright, even if the plausibility cost would be steep. However, eating the cost now would be well worth it in the long run.
+
+Having made my decision, I activated the skill.
+
+You have activated God!$# Creation.
+
+Select the parameters for the new skill you wish to create.
+
+Much like when I used Conceptual Integration, threads of golden code began to manifest in the air before me, weaving together into a radiant circle of light that trembled softly, as though it were alive.
+
+You have selected [Absorb Plausibility] as the primary conceptual foundation for the new skill.
+
+Conceptual feasibility at 52%.
+
+Proceed with creation?
+
+[Yes/No]
+
+“Oof… 52 percent. This is going to be expensive.” There was no way around it. Since I was creating a skill from nothing, I had no choice but to bear the cost.
+
+Steeling my resolve, I answered, “Yes,” without hesitation. The moment the word left my lips, energy surged violently through the circle of light as the concept began to take shape and solidify. Then it exploded into a brilliant burst of light, and a skill icon appeared before me—shaped like a divine being gathering faith into themselves.
+
+You have successfully created a new signature skill.
+
+You have created [Faith Conversion].
+
+A total of 1,482 Plausibility has been consumed.
+
+“Fuck!” I nearly threw myself back onto the bed as I cursed out loud. Sure, I had expected it to be expensive, but not that expensive.
+
+While inwardly grumbling about the cost, I checked the skill’s details.
+
+[Faith Conversion]
+
+Rank: EpicType: Active
+
+A newly forged authority that allows the user to directly harvest intangible faith directed toward them, including faith contained within statues, that has reached a certain threshold, and convert it into plausibility on command.
+
+Despite the absurd price, I had to admit it was worth it because I got exactly what I wanted with no apparent drawbacks. Additionally, it was a signature skill rather than a normal skill, which was an added bonus, as they were generally stronger than ordinary skills of the same rank. Without further ado, I decided to test its effectiveness immediately. Naturally, I didn’t forget to change my title to Violet-Scaled Dragon God to increase the conversion effectiveness from the Red Scale Tribe’s faith.
+
+Stonecurse Vanquisher → Violet-Scaled Dragon God
+
+“Faith Conversion,” I invoked.
+
+You have activated Faith Conversion.
+
+The world seemed to pause for a fraction of a second before a subtle pull settled over my body. Threads I couldn’t see began to draw toward me from an unseen distance, and warmth seeped into my chest as streams of belief, reverence, and awe flowed inward, converging into a single point. The sensation was unmistakably familiar—something I remembered from long ago, back when I was still a God-King, revered by countless living beings.
+
+You have absorbed the faith directed at you.
+
+You have gained 515 Plausibility.
+
+It seemed I couldn’t use the skill again in quick succession; faith needed time to accumulate to a sufficient level before it could be converted. In terms of plausibility, the bare minimum appeared to be around one hundred. Whatever the case, with this skill, I no longer needed to visit statues personally to absorb faith, nor would I lose out on intangible belief directed toward me. The realization left me with a deep sense of satisfaction. In fact, it was such a great feeling that it made me feel giddy.
+
+Now, with my plausibility restored to a workable amount—now sitting at 1,090—I redirected my attention to my other skills. I had accumulated a considerable number since my last skill-merging session, and this was the perfect opportunity to trim down unused or overlapping abilities by combining them into stronger ones.
+
+Skill(s): [Assassination Arts Lv.3], [Basic Alchemy Lv.10], [Basic Cryo Magic Lv.9], [Basic Dagger/Knife Mastery Lv.4], [Basic Hand-to-Hand Combat Lv.7], [Basic Neutral Magic Lv.10], [Basic Shield Mastery Lv.9], [Beast Pocket Seal], [Brutal Smash Lv.2], [Back Stab Lv.4], [Berserk Lv.4], [Blood-Fueled Frenzy Lv.1], [Calm Mind], [Chantless Casting Lv.3], [Desperate Willpower Lv.9], [Divine Sermon Lv.3], [Echo Construct Lv.2], [Extraordinary Fortune], [Extraordinary Harmonized Constitution], [Fast Equip], [Flaming Fist Lv.1], [Heavy Stab Lv.8], [Inspect Eye Lv.5], [Intermediate Spearmanship Lv.6], [Intermediate Swordsmanship Lv.8], [Inventory], [Mana Manipulation Lv.8], [Mana Overclock Lv.1], [Mana Sense Lv.8], [Mental Tolerance Lv.5], [Miracle of Conviction Lv.1], [Negotiation Lv.7], [Night Vision], [Pain Tolerance Lv.6], [Phantom Blade Lv.5], [Phantom Slash Lv.6], [Poison-Paralysis Resistance Lv.4], [Projectile Defense Lv.3], [Predator’s Step Lv.5], [Reflection Counter Lv.1], [Shield Bash Lv.1], [Soullink Resonance Lv.1], [Stealth Movements Lv.6], [Sword Intent Lv.1], [Weapon Manifestation Lv.5], [Wind Rush Lv.6]
+
+The skills I possessed might not seem excessive at first glance, but there were several promising combinations among them. The first I chose to merge was none other than Heavy Stab and Back Stab. The former was becoming increasingly obsolete, while the latter was far too situational, making them ideal candidates for consolidation.
+
+You have activated God!$# Creation: Conceptual Integration.
+
+Select compatible skills to combine.
+
+You have selected [Heavy Stab Lv.8] and [Back Stab Lv.4].
+
+Conceptual compatibility at 76%.
+
+Proceed with fusion?
+
+[Yes/No]
+
+“Yes.”
+
+As soon as I said that, the skill icons rose into the radiant circle and began to merge into one another until they collapsed into a single burst of light. When the light faded, a new icon materialized before me—its design unmistakably that of a lethal, decisive strike.
+
+You have successfully merged [Heavy Stab Lv.8] and [Back Stab Lv.4].
+
+You have created [Lethal Thrust Lv.5].
+
+A total of 126 Plausibility has been consumed.
+
+[Lethal Thrust Lv.5]
+
+Rank: RareType: Active
+
+A perfected thrust technique that combines overwhelming force with precise vital targeting. The attack delivers a single, decisive stab capable of penetrating deep defenses and organs, regardless of attack angle.
+
+The new skill was versatile and effective in a wide range of situations, leaving me satisfied with the result. Next, I turned my attention to the next pair I wanted to combine, which were none other than Brutal Smash and Shield Bash. Brutal Smash was still a solid technique, but Shield Bash had long since become obsolete now that I no longer used a shield. Rather than let it rot unused, it was better to fuse the two into something stronger.
+
+You have activated God!$# Creation: Conceptual Integration.
+
+Select compatible skills to combine.
+
+You have selected [Brutal Smash Lv.2] and [Shield Bash Lv.1].
+
+Conceptual compatibility at 69%.
+
+Proceed with fusion?
+
+[Yes/No]
+
+“Of course.”
+
+You have successfully merged [Brutal Smash Lv.2] and [Shield Bash Lv.1].
+
+You have created [Crushing Impact Lv.1].
+
+A total of 371 Plausibility has been consumed.
+
+[Crushing Impact Lv.1]
+
+Rank: UniqueType: Active
+
+A devastating technique that delivers a powerful, close-range impact that violently disrupts the target’s balance and defenses. Deals heavy blunt damage and greatly increases stagger and knockback. Targets struck suffer reduced defense for a short duration. Extremely effective against heavily armored enemies.
+
+“Ooh! Lucky!” I hadn’t expected to obtain a unique-rank skill, especially since the compatibility between the two skills wasn’t particularly high. Still, considering that Brutal Smash itself had already been a rare-rank skill, it wasn’t entirely impossible.
+
+Encouraged by the result, I continued on to the next pair: Stealth Movements and Predator’s Step. Both were passive skills and centered around movement and concealment, and thus, their compatibility was significantly higher.
+
+You have successfully merged [Stealth Movements Lv.6] and [Predator’s Step Lv.5].
+
+You have created [Predator’s Veil Lv.5].
+
+A total of 288 Plausibility has been consumed.
+
+[Predator’s Veil Lv.5]
+
+Rank: UniqueType: Active
+
+A concealment skill that suppresses the user’s presence by synchronizing movement, breathing, and killing intent into a predatory veil. Greatly reduces the chance of being detected while moving and increases movement speed. Attacks initiated while Predator’s Veil is active deal increased damage. The effect is enhanced against targets with lower perception or during ambush situations.
+
+Another unique!
+
+The results so far had been satisfying, but then I came to realize that I was almost out of plausibility again.
+
+Plausibility: 305
+
+“Ugh… combining skills is way too addictive. I didn’t even realize I was almost back to zero,” I muttered, pinching the bridge of my nose. Nearly all of my hard-earned plausibility had vanished in the blink of an eye. Still, on the bright side, I had obtained exactly the skills I wanted, and my combat capability had improved by leaps and bounds.
+
+There were three more combinations I was tempted to attempt. First, merging Berserk and Blood-Fueled Frenzy while incorporating the essence of Desperate Willpower would almost certainly result in an exceptional skill. Second, upgrading Calm Mind by integrating Mental Tolerance and Pain Tolerance would produce a powerful defensive ability for the mind.
+
+Last, but most enticing of all, was the idea of combining Divine Sermon, Miracle of Conviction, and Faith Conversion. That might give birth to “Divine Authority,” a skill that only a higher divine being would possess. However, I could already imagine how difficult such a fusion would be, and the plausibility cost alone would be astronomical.
+
+Regardless, attempting either the first or second combination with my current plausibility reserves would be risky. Besides, leaving myself with no plausibility at all would be dangerous, especially when I’d soon be venturing back into the dungeons and the upcoming Battle of Divine Will.
+
+As I wrestled with the dilemma, Ember and Solana emerged from their seals, both hovering in front of me as though deliberately vying for my attention.

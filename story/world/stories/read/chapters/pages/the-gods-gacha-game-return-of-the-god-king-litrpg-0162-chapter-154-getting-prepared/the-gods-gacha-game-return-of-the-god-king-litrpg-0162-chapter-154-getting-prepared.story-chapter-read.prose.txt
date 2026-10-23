@@ -1,0 +1,157 @@
+That said, there was still a great deal to prepare before we could take any action. We needed to restock certain supplies and sell off a portion of our accumulated loot. Since we planned to visit different stores, we agreed to split up for the time being. Before separating, we decided to regroup at the main plaza once everyone had finished handling what they needed to consider for the next step. Erika, however, declined to join us, saying she had other matters to attend to.
+
+The first place I went to was the main plaza’s trading post. I had accumulated quite a bit of loot from the tenth scenario, and I sold off most of what I didn’t need. As usual, negotiations followed whenever I conducted a sale.
+
+You have used Negotiation.
+
+“Here are 2,365 soul coins for this lot,” the clerk said, handing me a pouch filled with the currency.
+
+“Thanks.” I accepted it and left.
+
+Soul Coins: 35,630
+
+That wasn’t a shabby amount; I could definitely splurge a bit here.
+
+With that in mind, I headed to the alchemy shop I frequented, which was “Merrin’s Alchemical Essentials.” Right now, I still had a stock of low- and mid-quality healing potions, so there was no need to restock those. Instead, I set my sights on high-quality healing potions, each of which cost one thousand soul coins.
+
+Each stage of the Battle of Divine Will could last far longer than a typical scenario, and this one was likely to span around three stages. In order to increase my own chances of survival—and those of my companions—it was imperative to prepare these expensive healing potions for emergencies.
+
+If I were wealthier and had access to the higher districts, I might have even considered purchasing an Elixir of Life. Unfortunately, none were available here, and even if there were, the price of a single bottle would likely rival—if not exceed—that of an epic-grade skill book. Such items were probably only obtainable through auctions or similarly exclusive channels.
+
+In the end, I took three high-quality healing potions and placed them on the counter.
+
+“Is this everything?” asked a middle-aged man with half-moon spectacles and a silver goatee in a gruff voice. He was the same shopkeeper who had sold me alchemical tools before.
+
+Actually, since I was already here, I might as well procure the ingredients for Elixirs of Mana Concentrate. I still had a few bottles on hand, but it wouldn’t hurt to stock up on materials. After some haggling, I left the store with 30,410 soul coins remaining.
+
+At last, my final stop was the Genesis Order’s headquarters in District F. With the Battle of Divine Will just around the corner, it was time to deliver a sermon.
+
+After putting on the Mask of a Thousand Races and altering my appearance to that of Lord Genesis, I stepped inside. Not much time had passed since my last visit, yet the place had already changed once again. There were even more divine warriors present now—nearly two hundred of them—and almost everyone wore a fanatical expression.
+
+Even without my constant involvement, the Genesis Order had grown into something resembling a fully functional religion. Rex had proven himself to be a truly worthy follower. Recruiting him as the Order’s first member had not been a mistake.
+
+“Lord Genesis, you’re here,” Rex said, bowing deeply the moment he saw me.
+
+The followers nearby immediately fell to their knees upon realizing their leader and savior had arrived.
+
+“Mhm. I see that the Order has been doing well.”
+
+“It is all thanks to the grace of you, my Lord,” Rex replied.
+
+I could feel faith being transmitted from every divine warrior present. Holding sermons regularly had not been a mistake, but this was still far from enough. If I wanted to turn them into truly fanatical believers, I would need to use Ezekiel’s power—and to do that, I first had to absorb the accumulated faith stored within the two statues in the prayer room.
+
+To begin with, almost all members of the Genesis Order were those who had been cast out and pushed to the brink of death. Furthermore, most of them did not originate from Earth, but from the other two worlds where Michelle, Lucian, Tuilë, and the others had come from. The civilizations of these worlds were relatively primitive compared to Earth, making their people far more susceptible to joining this kind of cult.
+
+“Call everyone. I will be holding a sermon soon,” I said to Rex.
+
+“As you wish.”
+
+I then walked into the prayer room to absorb the accumulated faith stored within the statue of Istellia as well as the faceless god.
+
+You have activated Absorb Plausibility.
+
+You have absorbed the power of faith contained in the statue.
+
+You have gained 312 Plausibility.
+
+You have absorbed the power of faith contained in the statue.
+
+You have gained 266 Plausibility.
+
+“Not bad,” I muttered to myself, “but this is still far from enough…”
+
+By the time I returned, the hall was already full. Rows of believers stood shoulder to shoulder, their faces filled with expectation and reverence. Candles burned steadily along the walls, casting long shadows across the stone floor.
+
+I didn’t use Echo Construct to create a clone this time. Instead, I stepped onto the platform myself. The instant I came into view, the murmurs vanished as the masses fell to their knees, heads lowered in unison.
+
+Without wasting time, I activated Fabled Vessel and possessed Ezekiel.
+
+You have activated Fabled Vessel.
+
+Please select a divine hero or demigod that you want to possess.
+
+[The Crimson Sovereign – Tyrant of the End]
+
+[Voldrath the Eternal – The Lich-King of a Million Souls]
+
+…
+
+You have possessed [Ezekiel the Divine Apostle].
+
+Warning: Your current stats are too low to receive his full power!
+
+You have limited the power you receive.
+
+Only 0.5% of Ezekiel’s power is transferred to you.
+
+Your stats have temporarily increased moderately.
+
+Your holy and influence-related skills have temporarily improved drastically.
+
+You have temporarily acquired a skill: [Basic Lux Magic Lv.10].
+
+You have temporarily acquired a skill: [Intermediate Lux Magic Lv.4].
+
+You have temporarily acquired a skill: [Miracle of Conviction Lv.8].
+
+You have temporarily acquired a skill: [Aura of Reverence Lv.5].
+
+You have temporarily acquired a skill: [Consecrated Presence Lv.2].
+
+Instantly, my understanding of the divine deepened. I was now capable of delivering a sermon that could move even the most stubborn of souls. The expressions of the followers also became even more fanatical than before.
+
+“My believers,” I began. “Fantasia stands on the brink of upheaval. The coming conflict will not spare the faithful, nor will it favor the hesitant. In the days ahead, faith alone will not be enough. Conviction must be tempered with discipline, and devotion must be paired with preparation.”
+
+A subtle tremor rippled through the crowd as many clenched their fists and bowed even lower in prayer.
+
+“The Creator does not demand blind sacrifice,” I continued. “He demands purpose. Those who endure will do so not because they prayed the loudest, but because they stood firm when the moment required it.”
+
+What I was spouting might sound like nonsense. However, I had no intention of letting these followers remain passive in the coming Battle of Divine Will. I needed them to be useful in what was to come. And if they grew stronger through it, that would serve them as much as it served me.
+
+I then raised one hand. “Remember that when everything burns and order collapses in the Battle of Divine Will, it is not chaos that determines the future, but those who were ready to face and triumph over it…”
+
+I kept going with the sermon, outlining their objectives, what they needed to be wary of, and what must never be done during the Battle of Divine Will through careful wording and persuasion, much like an evangelist guiding the masses without ever stating things outright. The followers listened intently with absolute reverence thanks to the temporary skills I had gained through possessing Ezekiel.
+
+Finally, to make it all the more convincing, I used Intermediate Lux Magic on them.
+
+“{Recovery Light},” I chanted.
+
+Soft radiance spread outward from the platform, cascading over the hall like a gentle tide. The light neither burned nor blinded. Instead, it wrapped around the believers, seeping into their bodies and settling deep within. Gasps escaped from several mouths as lingering pain faded. An old man stared down at his once-stiff limbs, astonished as the ache and fatigue brought on by age eased away.
+
+Even long-neglected wounds began to mend, prompting many to lift their heads in disbelief. Hidden injuries, accumulated long before they had ever been chosen as divine warriors, were washed away as if they had never existed. The effect of the spell was equivalent to a mid-quality healing potion yet delivered to all of them at once.
+
+Whispers spread through the hall, quickly swelling into fervent murmurs of gratitude. I could feel their belief shifting—no longer rooted in words alone and now reinforced by tangible salvation. This was what they needed to remember when the Battle of Divine Will began. The certainty that following the path I had shown them would make a difference.
+
+“This is merely a basic blessing,” I said calmly. “If any of you wish to receive more than this, then earn your merit and strengthen your fate.”
+
+With those words, I turned and began to leave.
+
+“All praise the goddess and Lord Genesis the Creator—the first, and the one from whom all things begin!” Rex declared in absolute reverence.
+
+The others followed at once, joining in unison.
+
+After walking about ten meters away, I deactivated the possession.
+
+The possession has ended.
+
+Your power has returned to normal.
+
+Divine Sermon has leveled up.
+
+Divine Sermon has leveled up.
+
+You have acquired a skill: [Miracle of Conviction Lv.1].
+
+Your Mind has increased by 2.
+
+You have used up 131 Plausibility for the possession.
+
+[Miracle of Conviction Lv.1]
+
+Rank: RareType: Passive
+
+When the user speaks with clear intent or delivers guidance to others, this skill strengthens the resolve, belief, and mental stability of those who are receptive. The effect scales with the user’s Mind, accumulated faith, and the number of listeners. Targets influenced by this skill experience heightened conviction, reduced doubt, and increased resistance to fear, hesitation, and mental interference. This effect is greatly amplified during sermons, rituals, or moments of shared belief. The skill does not forcibly override free will, but once conviction takes root, it becomes difficult to shake.
+
+“Ooh, nice. This skill will come in handy when swaying others,” I muttered in glee.
+
+With everything taken care of, the only thing left to do was to meet up with the others at the main plaza.

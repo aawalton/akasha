@@ -1,0 +1,161 @@
+Naturally, I didn’t stay still and let them hog the kills. Switching to my sword, I activated Wind Rush and launched myself forward toward the larger ancient golems. At the same time, I cast {Gravity Field}, warping the space ahead and reducing the effective weight of everything within it to a third of normal. With Gravity Magic now at a higher level, I was able to significantly expand the field’s range and push its limits further—both in how much weight I could reduce and how much force I could impose.
+
+Then I activated Windstorm. The blade shrieked as compressed air coiled tightly along its edge. The first golem tried to brace itself, but its footing failed instantly under the altered gravity. Windstorm tore through its torso, and without its full mass to anchor it, the construct was lifted cleanly off the ground before being shredded midair. Stone and metal scattered like debris caught in a hurricane.
+
+You have hunted [Ancient Golem Lv.110].
+
+You have gained 170 EXP.
+
+Charging straight through their formation, I slashed again and again, unleashing a devastating hurricane at them. Golems that would normally require multiple precise strikes were cleaved apart in a single motion, their frames rupturing as they were hurled aside like broken dolls.
+
+Other golems in the surroundings were caught at once as Windstorm expanded outward, the weakened gravity preventing them from resisting the cutting pressure. Their bodies twisted unnaturally before collapsing into heaps of inert fragments.
+
+You have hunted [Ancient Golem Lv.110].
+
+You have gained 170 EXP.
+
+You have hunted [Ancient Golem Lv.110].
+
+You have gained 170 EXP.
+
+You have hunted [Ancient Guardian Golem Lv.130].
+
+You have gained 500 EXP.
+
+You have hunted [Ancient Golem Lv.110].
+
+You have gained 170 EXP.
+
+…
+
+Your Magic Power has increased by 1.
+
+I landed amidst the chaos and swept my blade once more. The remaining golems staggered helplessly before being reduced to wreckage. What had once been an overwhelming defensive line was now rapidly collapsing.
+
+You have hunted [Ancient Golem Lv.110].
+
+You have gained 170 EXP.
+
+You have hunted [Ancient Golem Lv.110].
+
+You have gained 170 EXP.
+
+You have hunted [Ancient Golem Lv.110].
+
+You have gained 170 EXP.
+
+You have hunted [Ancient Golem Lv.110].
+
+You have gained 170 EXP.
+
+Your Strength has increased by 1.
+
+…
+
+Under our combined effort, we took down every golem in sight while sustaining almost no injuries. We had fought through far worse odds during the tenth scenario, so dealing with this many enemies felt almost trivial by comparison.
+
+Once the last golem collapsed, the chamber fell into silence.
+
+“Welp, that’s the last of them,” Tuilë quipped, resting her cannon over her shoulder.
+
+“Don’t get complacent,” I said, turning my attention toward the surrounding treasures. “There could be traps placed on these pedestals.”
+
+“Right.” Boris nodded. “This kind of treasure doesn’t sit out in the open unless it’s bait. It’s clearly screaming trap.”
+
+Boris was right. There was no way that treasures that were left out in the open like this weren’t trapped. If anything, the traps would be insidious, designed to require us to sacrifice something in exchange for greed.
+
+We approached cautiously, eyes fixed on the hoard laid out before us. Gold coins were stacked neatly, brilliant gemstones glinted in the light, magic weapons radiated power, tomes were sealed in magic bindings, and vials of softly glowing liquid rested in orderly rows. No one in Fantasia wouldn’t be tempted to acquire them.
+
+Michelle crouched beside the nearest pedestal and frowned. “Maxim’s right. Every pedestal here is trapped, and they’re linked together.”
+
+Tuilë stepped in beside her, pulling out a few tools and inspecting the stone base. “Yeeep. Looks like a magic mechanism. Once one item is removed, the rest are automatically destroyed, along with everything within its one-meter radius.”
+
+Lucian frowned. “Magical enforcement… and a very high level one at that. It’s near impossible to remove… and the risk is far too high to try.”
+
+“Which means we can only take as many items as we have bodies.” Since there were five of us, obviously, we could only take five items.
+
+So, we spread out, each of us inspecting the pedestals carefully, making sure not to touch anything prematurely. Michelle chose first, and her decision was exactly what I expected.
+
+Veilpiercer Longbow
+
+Grade: EpicType: Magic Longbow
+
+A finely crafted longbow made from the bark of an ancient tree and enchanted with layered perception magic. Arrows fired from it gain enhanced penetration and partial concealment, making them harder to detect and intercept. Especially effective against armored or shielded targets.
+
+It was a good choice.
+
+While Veilpiercer sat on the lower end of the epic spectrum in terms of raw stat bonuses, its effects were highly specialized. More importantly, it was the only epic-grade bow among the treasures. In a situation like this, beggars couldn’t be choosers—and in Michelle’s hands, this weapon would shine exactly where it needed to.
+
+Lucian selected a tome bound in dark blue leather.
+
+Ancient Codex of Mana Convergence
+
+Grade: EpicType: Magic Tome
+
+A high-level magic tome containing advanced theories on mana flow unification and spell convergence. Upon use, it grants a specialized magic skill focused on stabilizing high-output casting, while also imparting deeper insight into Neutral Magic principles.
+
+This was an excellent match for Lucian. Although it wasn’t as outright game-changing as the Old Decrepit Book of a Senile Old Man that gave me Gravity Magic, it would still elevate him to an entirely new level. This tome addressed one of the most dangerous limitations of high-tier spellcasters. With the Battle of Divine Will approaching, having greater control mattered far more than reckless power.
+
+Boris didn’t hesitate for long. Instead of reaching for a weapon, he stopped before a thick, slate-gray skill book bound in thick, coarse hide.
+
+Skill Book: [Adamant Morphology]
+
+Rank: EpicType: Passive
+
+Enhances the user’s body-transformation abilities by structural integrity during physical reinforcement. Reinforced body parts gain increased density and cohesion, resulting in higher physical durability and improved resistance to blunt force, shock, and impact damage. Reduces strain and instability when performing high-force physical actions or maintaining reinforced forms. The effectiveness of this skill scales with Strength, Stamina, and existing body-enhancement skills.
+
+Holy shit! What luck.
+
+This was a perfect skill that would perfectly complement Boris down to the bone. Compared to Michelle’s and Lucian’s choices, this was easily the most compatible treasure anyone could’ve hoped for
+
+Boris let out a satisfied laugh as he confirmed his choice. “Now this is perfect.”
+
+Tuilë’s eyes immediately lit up as she examined a set of three compact, crystalline cores resting in a containment frame. Her face drifted so close to the case that I was half-convinced she’d smudge the glass with her nose. Careful there…
+
+Adaptive Construct Core
+
+Grade: UniqueType: Golem Core
+
+A highly adaptable construct core capable of self-adjusting to different mechanical frameworks. Greatly enhances durability, processing speed, and structural responsiveness when integrated into golem-type constructs.
+
+As everyone had chosen, that left me as the only one who hadn’t made a selection. I studied the remaining items carefully and weighed my options. First things first, I could forget the gold coins and gemstones; they were useless trinkets. Secondly, I should only prioritize epic-grade items or equipment—unique-grade and below weren’t worth my slot anymore. Unfortunately, there weren’t many epic-grade items left, so my choices were limited.
+
+Still, tucked against the corner of a pedestal, I spotted a thin, jet-black dagger carved with spatial runes. My first choice was immediately clear.
+
+Voidstep Dagger
+
+Grade: EpicType: Magic Dagger
+
+A dagger forged from void-hardened alloy infused with spatial distortion magic. Its blade vibrates at a frequency that allows it to slip partially between dimensions, bypassing physical defenses and delivering strikes that momentarily unravel localized space.
+
+Not bad at all!
+
+It was exactly the kind of weapon that complemented an assassination-focused combat style. Perfect for the Battle of Divine Will. And if paired with the Moonlight Dagger, I would turn into a terrifying assassin once I possessed Selene through Fabled Vessel.
+
+But then, I noticed another item that caught my attention. At first glance, it looked ordinary, just an old, dust-covered flute resting on a plain pedestal. Yet when I checked its details, I couldn’t help but raise my eyes.
+
+Sovereign’s Call Flute
+
+Grade: EpicType: Summoning Item
+
+A ceremonial flute once used by ancient generals to call forth astral echoes of their fallen troops. When blown, it summons spectral soldiers that will fight to the death for the caller. Though unable to exert the same strength they possessed in life, these spectral soldiers possess formidable combat capability and are highly resistant to physical attacks.
+
+For an epic-grade item, it wasn’t exactly extraordinary considering its limited uses. The soldiers lacked full intelligence, though they did possess rudimentary tactical instincts, which meant that they could at least act as a distraction against enemies if in a pinch. Whether in a scenario or outside of one, having ten durable, level-150 loyal soldiers appear on command could turn a fatal situation around. It was the kind of tool that paid for itself the moment things went sideways.
+
+But now I had two choices. Should I pick one and abandon the other? Both had clear strengths, both filled completely different roles, and missing out on either of them left a sour taste in my mouth.
+
+Wait, am I stupid? I had Echo Construct. I could just summon another “me” to grab a second item at the same time. There was no rule preventing it. The trap only destroyed the remaining treasures if one item was taken by itself. If two were taken simultaneously by two separate entities, then technically, the mechanism wouldn’t trigger.
+
+As long as I synchronized the timing perfectly, there was nothing stopping me from claiming both. Sometimes, I really wondered why I bothered overthinking things.
+
+Without further ado, I activated Echo Construct. A surge of energy rippled through me, and in an instant, a translucent silhouette condensed into a perfect replica of myself. The sudden appearance of a second “me” immediately drew startled reactions from the others.
+
+“Wait, wait. How come there are two of you, Maxxy?” Tuilë asked, tilting her head so far sideways it looked like it might snap.
+
+“Let’s just say it’s a high-rank skill I obtained not too long ago…” I replied. I gave them a brief explanation, including the important part—that I could use this clone to take a second item at the exact same time I grabbed mine. Unfortunately, I could only summon one construct at a time. Otherwise, I would’ve emptied half the room without breaking a sweat.
+
+Tuilë puffed out her cheeks. “That’s so unfair! If only I had Bernardo with me, he could grab more things for me!”
+
+She wasn’t wrong… although I seriously doubted a large, somewhat clumsy mechanical golem would have the dexterity to pluck delicate treasures from trapped pedestals. She would probably need to design smaller, more nimble constructs for that. But then again, this kind of situation was rare to begin with, so I kept that comment to myself.
+
+“All right. We grab the items on the count of three,” I announced, positioning myself and my clone close to the chosen items. “One… two… three.”

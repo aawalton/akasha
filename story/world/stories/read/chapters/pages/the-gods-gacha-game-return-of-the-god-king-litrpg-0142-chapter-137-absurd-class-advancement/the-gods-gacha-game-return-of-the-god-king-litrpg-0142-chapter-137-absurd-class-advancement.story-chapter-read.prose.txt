@@ -1,0 +1,173 @@
+Within moments, the first wave crumbled beneath us. Compared to our first run, this felt like it took barely half the time—almost effortless with our current strength. Unfortunately, the respite didn’t last long.
+
+“Raaagh!” Another howl rose from beyond the dunes, louder than the first.
+
+“Second wave incoming! Same numbers!” Michelle called out.
+
+We regrouped without needing to speak. As the others unleashed their usual barrage, I swept through the battlefield with the Meteorite Spear. This time, the gnolls seemed far more wary of me; snarling, they raised their javelins in unison. The moment I closed the distance to roughly fifteen meters, they hurled them all at once—a volley of crude iron darts whistling toward me like a rain of death.
+
+Concerned I was not.
+
+I spread my hand, circulating mana around my fingertips to unleash both Weapon Manifestation and Cryo Magic simultaneously. Quickly, the two skills meshed together smoothly, forming five half-transparent shields of ice—floating disks shaped like curved bucklers, each orbiting around me. Frost spiraled off their edges as they locked into defensive positions.
+
+Clang! Clang! Clang!
+
+The first wave of javelins struck the shields, bouncing off harmlessly as cracks spider-webbed across the icy surfaces. Their attack couldn’t even destroy a single shield.
+
+Your Magic Power has increased by 1.
+
+“Hah. This is perfect.”
+
+With the barrage neutralized, I lowered my stance and shot forward. I cast {Gravity Field} to slow their movements to a crawl and cause some of their wolves to stumble under sudden weight. I slipped between them like a phantom, wielding the Meteorite Spear as I hunted them down one by one with ruthless efficiency.
+
+You have hunted [Gnoll Rider Lv.81].
+
+You have gained 1,410 EXP.
+
+You have leveled up.
+
+You have hunted [Gnoll Rider Lv.82].
+
+You have gained 1,420 EXP.
+
+You have hunted [Dire Wolf Lv.60].
+
+You have gained 1,200 EXP.
+
+You have hunted [Gnoll Rider Lv.83].
+
+You have gained 1,430 EXP.
+
+Your Stamina has increased by 1.
+
+…
+
+Five minutes. That was all it took to wipe out the second wave. And when I yanked the spear free from the final gnoll and watched it collapse, a notification appeared.
+
+You have earned a new title: Gnoll Hunter
+
+Gnoll Hunter
+
+Rank: Rare
+
+A title granted to those who have hunted at least one hundred gnolls.
+
+I raised an eyebrow. “Huh. Guess that one was the one hundredth gnoll I killed.”
+
+Considering the number I’d butchered across scenarios, this was long overdue. I then opened my status screen to check on my progress so far.
+
+Maximillian Anderson Lv. 59/60 (EXP 2,466/4,760)
+
+HP: 100%MP: 660/994
+
+Rank: Gimmel [3]Patron God: Istellia (Goddess of Imagination)Class: Paradox IncarnateTitle: One Who Conquered the Impossible (7)Status: Normal
+
+Strength: 400 + 67 + 40 | Dexterity: 403 + 49 + 40 | Stamina: 372 + 45 + 37Mind: 321 + 5 + 32 | Magic Power: 364 + 20 + 36 | Luck: 400 + 40
+
+Plausibility: 540
+
+Free Attributes: 235
+
+Signature Skill(s): [Absorb Plausibility], [Fabled Vessel], [God!$# Creation], [Grant Plausibility], [Gravity Magic Lv.4], [Scenario Manipulation]
+
+Skill(s): [Assassination Arts Lv.3], [Basic Alchemy Lv.7], [Basic Cryo Magic Lv.8], [Basic Dagger/Knife Mastery Lv.4], [Basic Hand-to-Hand Combat Lv.7], [Basic Neutral Magic Lv.10], [Basic Shield Mastery Lv.9], [Back Stab Lv.4], [Berserk Lv.3], [Calm Mind], [Chantless Casting Lv.3], [Desperate Willpower Lv.8], [Divine Sermon Lv.1], [Echo Construct Lv.2], [Extraordinary Fortune], [Extraordinary Harmonized Constitution], [Fast Equip], [Fast Reading Lv.5], [Flaming Fist Lv.1], [Heavy Stab Lv.7], [Inspect Eye Lv.4], [Intermediate Spearmanship Lv.4], [Intermediate Swordsmanship Lv.7], [Inventory], [Mana Manipulation Lv.8], [Mana Sense Lv.8], [Mental Tolerance Lv.5], [Negotiation Lv.7], [Night Vision], [Pain Tolerance Lv.6], [Phantom Blade Lv.4], [Phantom Slash Lv.6], [Poison-Paralysis Resistance Lv.4], [Projectile Defense Lv.3], [Predator’s Step Lv.5], [Reflection Counter Lv.1], [Shield Bash Lv.1], [Stealth Movements Lv.6], [Weapon Manifestation Lv.5], [Wind Rush Lv.6]
+
+Spell(s): {Frozen Icicle}, {Graviton Pull}, {Gravity Field}, {Gravity Launch}, {Mana Arrow}, {Mana Bullet}, {Mana Shield}, {Mass Alteration}, {Spinning Mana Arrow}
+
+I only needed one more level before unlocking the prerequisites for my next class advancement. As I wondered how troublesome those conditions might be, a voice suddenly called out to me.
+
+“Maxim, your Cryo Magic has evolved again? It can conjure shields now? Have you reached the intermediate level?” Lucian approached, wearing his usual prideful, know-it-all expression.
+
+“Well, it’s more of a trick than that—similar to when I conjured icy blades in our duel.”
+
+“I see.” He nodded immediately, not asking a single follow-up question, as if that alone was enough to confirm his theory.
+
+With the second wave gone, the wasteland fell quiet again. We regrouped and began trekking across the land to find the next pack of gnoll riders, just as we had during our first run of this scenario. But something was… off.
+
+“Huh…?” Michelle murmured, scanning the empty expanse. “Doesn’t this feel a little different?”
+
+Boris scratched his head. “Yeah. Last time, the caravan was surrounded by gnolls right around here.”
+
+Tuilë hopped up onto a boulder, shading her eyes as she peered into the distance. “I don’t see any wagons or carriages… No refugees either.”
+
+She was right. By all accounts, this stretch of land should have held Istellise and the caravan getting ambushed—an event that had drastically shaped our previous run. But now, there was nothing as far as the eyes could see. Still, I wasn’t particularly surprised.
+
+After all, Istellise’s appearance had been an anomaly tied to our choice of helping her during the seventh scenario. Since we had already rescued her once and progressed her questline, expecting the same event to repeat was unrealistic. It was only natural that the scenario wouldn’t recreate that encounter again.
+
+I decided to tell them this fact while disguising it as a simple hypothesis, and they all bought it without question. Just to be sure, though, we walked a little farther along the ridge, but the same emptiness stretched endlessly in every direction.
+
+“Either way, we should complete the scenario,” I stated.
+
+“Agreed,” Michelle replied, already scanning the horizon.
+
+Luckily, we didn’t have to wait long. In the distance, another pack of gnoll riders emerged. As soon as they spotted us, they let out a unified howl and charged at full speed.
+
+By now, we already knew the drill, and our coordination was impeccable. Without exchanging a single word, we fell into our usual formation. Michelle began firing arrows in rapid succession while conjuring thorny vines to hinder the riders’ advance with her signature skill. Boris and I moved to intercept the front line, while Lucian and Tuilë supported from the rear.
+
+The first gnoll swung its axe overhead, but with a swift sidestep, I thrust the Meteorite Spear straight into its ribcage, easily piercing through.
+
+You have hunted [Gnoll Rider Lv.81].
+
+You have gained 1,410 EXP.
+
+I yanked the spear free and spun around, using the momentum to sweep another wolf’s legs. The beast crashed to the dirt mid-leap, its rider tumbling helplessly.
+
+Another gnoll threw a javelin at me, but I conjured an icy shield using Weapon Manifestation and Cryo Magic, causing the projectile to shatter harmlessly.
+
+“Too slow!”
+
+As I stabbed through another gnoll’s throat, I reached my level cap.
+
+You have hunted [Gnoll Rider Lv.83].
+
+You have gained 1,430 EXP.
+
+You have leveled up.
+
+You have reached the level cap for your current rank (Gimmel [3]).
+
+10% of all subsequent EXP will be stored and awarded upon advancement.
+
+Intermediate Spearmanship has leveled up.
+
+It had been a while since the last time I hit the cap. Every kill from here on would only partially count until I advanced to the Daleth rank. But I didn’t bother checking the class advancement prerequisites yet and instead focused on wiping out the rest of the gnolls.
+
+You have hunted [Dire Wolf Lv.61].
+
+You have gained 121 EXP.
+
+You have hunted [Gnoll Rider Lv.80].
+
+You have gained 140 EXP.
+
+You have hunted [Dire Wolf Lv.60].
+
+You have gained 120 EXP.
+
+You have hunted [Gnoll Rider Lv.82].
+
+You have gained 142 EXP.
+
+…
+
+Within moments, the entire pack was reduced to scattered corpses and fleeing stragglers. Only after confirming that no more enemies lurked nearby did I finally pull up the advancement requirements.
+
+Class Advancement Prerequisites:
+
+“What the fu—!”
+
+These were totally absurd class advancement prerequisites! If anything, this was more like a divine execution order.
+
+I stared at the list again, but the words didn’t change. Any normal divine warrior would probably faint right here the moment they saw the first requirement. Hell, even someone else with a legendary class would flip a table. Truly, Paradox Incarnate was the most broken legendary-class out there—so broken, even its advancement was designed to crush its user.
+
+The easiest requirement here was, ironically, collecting twenty thousand accumulated EXP since it was equivalent to forty or so Gimmel-rank levels. Also, unlike Aleph to Gimmel ranks, which corresponded to F, E, and D, C+ difficulty quests or scenarios corresponded to low or mid Daleth rank. Meanwhile, B rank was practically high Daleth. Regardless, these requirements were intended only for monsters who could already punch above their weight class.
+
+As for the level-gap challenge—defeating something fifty levels above me—there was only one monster that immediately came to mind: the Medusa replica inside the Forgotten Vault. It seemed painfully obvious now that the path forward would eventually require clearing that place. Fortunately, the prerequisite didn’t specify that I had to attempt it alone. That meant I could enlist Boris and the others to help me. Great.
+
+Well… everything except for the last prerequisite, which was to undergo a trial.
+
+Since Paradox Incarnate was a legendary class, I could undergo the trial anywhere without going to the Hall of Classes like everyone else. And it would be beyond stupid to assume that the trial would be easy. In fact, knowing the nature of legendary classes, this would be the hardest prerequisite of them all and should only be attempted after everything else was fulfilled.
+
+I exhaled sharply, murmuring to myself, “Well… at least this confirms one thing.”
+
+This class wasn’t meant for normal people. It was meant for someone insane enough to rewrite reality—someone who could bend plausibility itself. Someone like me, who was a former God-King and the original creator of Divine Will.

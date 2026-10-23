@@ -1,0 +1,173 @@
+Maximillian Anderson Lv. 60/60 (EXP 8,793)
+
+HP: 100%MP: 1,115/1,115
+
+Rank: Gimmel [3]Patron God: Istellia (Goddess of Imagination)Class: Paradox IncarnateTitle: One Who Conquered the Impossible (8)Status: Mentally Exhausted
+
+Strength: 486 + 49 + 49 | Dexterity: 520 + 49 + 52 | Stamina: 447 + 45 + 45Mind: 340 + 5 + 34 | Magic Power: 404 + 20 + 40 | Luck: 420 + 42
+
+Plausibility: 0
+
+Free Attributes: 0
+
+Signature Skill(s): [Absorb Plausibility], [Fabled Vessel], [God!$# Creation], [Grant Plausibility], [Gravity Magic Lv.4], [Scenario Manipulation]
+
+Skill(s): [Assassination Arts Lv.3], [Basic Alchemy Lv.8], [Basic Cryo Magic Lv.8], [Basic Dagger/Knife Mastery Lv.4], [Basic Hand-to-Hand Combat Lv.7], [Basic Neutral Magic Lv.10], [Basic Shield Mastery Lv.9], [Brutal Smash Lv.1], [Back Stab Lv.4], [Berserk Lv.4], [Blood-Fueled Frenzy Lv.1], [Calm Mind], [Chantless Casting Lv.3], [Desperate Willpower Lv.9], [Divine Sermon Lv.1], [Echo Construct Lv.2], [Extraordinary Fortune], [Extraordinary Harmonized Constitution], [Fast Equip], [Flaming Fist Lv.1], [Heavy Stab Lv.8], [Inspect Eye Lv.4], [Intermediate Spearmanship Lv.5], [Intermediate Swordsmanship Lv.7], [Inventory], [Mana Manipulation Lv.8], [Mana Sense Lv.8], [Mental Tolerance Lv.5], [Negotiation Lv.7], [Night Vision], [Pain Tolerance Lv.6], [Phantom Blade Lv.4], [Phantom Slash Lv.6], [Poison-Paralysis Resistance Lv.4], [Projectile Defense Lv.3], [Predator’s Step Lv.5], [Reflection Counter Lv.1], [Shield Bash Lv.1], [Stealth Movements Lv.6], [Sword Intent Lv.1], [Weapon Manifestation Lv.5], [Wind Rush Lv.6]
+
+Spell(s): {Frozen Icicle}, {Graviton Pull}, {Gravity Field}, {Gravity Launch}, {Mana Arrow}, {Mana Bullet}, {Mana Shield}, {Mass Alteration}, {Spinning Mana Arrow}
+
+Title:
+
+The Unyielding Survivor
+
+Rank: Uncommon
+
+Awarded to those who are able to defy all odds and survive when survival seems nearly impossible.
+
+Foul Play
+
+Rank: Uncommon
+
+A title granted to those who eliminate a significant number of enemies through underhanded or deceptive means. Whether through poison, ambushes, or exploiting an enemy’s weakness, victory is all that matters in the end. Some may call it dishonorable, but the only true failure is losing.
+
+Zombie Hunter
+
+Rank: Uncommon
+
+A title granted to those who have hunted at least one hundred zombie-like monsters.
+
+Grovedweller Hunter
+
+Rank: Uncommon
+
+A title granted to those who have hunted at least one hundred Grovedwellers.
+
+One Who Conquered the Impossible
+
+Rank: Epic
+
+Awarded to those who have overcome a foe far beyond their level under extreme conditions.
+
+You have earned a new title: Desert Explorer.
+
+Kleptomaniac
+
+Rank: Uncommon
+
+A title granted to those who cannot resist the urge to take what does not belong to them.
+
+You have earned a new title: Cyclops Slayer.
+
+MC’s Signature Skills:
+
+[Fabled Vessel]
+
+Rank: LegendaryType: Active
+
+Allows the user to inherit the power of deceased or sealed divine heroes and demigods. By paying plausibility, the user can temporarily assume their abilities, skills, and even unique traits. The strength of the vessel depends on the plausibility cost and the fame, power, or mythic significance of the being.
+
+[Grant Plausibility]
+
+Rank: LegendaryType: Active
+
+Allows the user to infuse plausibility into objects, concepts, or living beings, making the impossible possible. There are no inherent restrictions beyond the amount of plausibility the user possesses and the potential of their target.
+
+[Scenario Manipulation]
+
+Rank: MythicalType: Active
+
+A reality-altering ability that allows the user to subtly or drastically rewrite the course of a scenario or quest. By paying plausibility, the user can bend rules, change objectives, and impose narrative changes that align with their desired result. The scale of manipulation depends on the plausibility cost and the complexity of the change.
+
+[Absorb Plausibility]
+
+Rank: LegendaryType: Active
+
+A reality-consuming skill that transforms the conceptual, material, or divine essence of targets into plausibility—the narrative fuel that sustains impossible feats.
+
+Important Items in Possession:
+
+Old Decrepit Book of a Senile Old Man
+
+Grade: UncommonType: Magic Tome
+
+An undecipherable collection of scribbles penned by a senile old man. The contents are shrouded in symbols, making it impossible to discern what’s written inside. However, the book’s most surprising feature lies in its incredible resilience—it’s nearly indestructible and can even be used as a blunt weapon in combat.
+
+Shrouding Coat of Living Night (Cursed)
+
+Grade: UniqueType: Enchanted Coat
+
+A high-grade shadow-weave garment reborn through plausibility. This coat is now bound to the user’s will, cloaking them in a living veil of darkness. It refines the stealth of its predecessor and tempers its curse further, granting near-invisibility at the cost of tethering the wearer to the void.
+
+Venomfang Scaled Buckler
+
+Grade: UniqueType: Magic Shield
+
+A masterfully reforged buckler made from the jagged scales of an Armored Black Bear and reinforced with the bones of the Black Venomfang Serpent. It has been enchanted with protective magic to increase its defense. The serpent’s essence makes it as much a weapon of intimidation as it is a shield.
+
+Predator’s Stalker Hide
+
+Grade: UniqueType: Light Armor
+
+A masterfully reforged light armor made from the scales of an Armored Black Bear and the toughened leather of an Alpha Gale Wolf. It is further coated with the skin of the Black Venomfang Serpent, giving it a stealthy nature. It offers natural protection without slowing the wearer down, and its durable, lightweight design makes it ideal for close-quarters combatants who rely on speed and survivability.
+
+While wearing this armor, it will reduce the enemy detection range and muffle the wearer’s movement sounds.
+
+Ring of Fortitude
+
+Grade: UncommonType: Enchanted Ring
+
+A well-crafted silver ring imbued with minor enchantments to enhance physical resilience and raw power.
+
+Howling Edge
+
+Grade: UniqueType: Magic Sword
+
+A blade forged from the sharpest fang of a Tempest Leopard, a beast known for its superior magical ability to wield the power of wind. Enchanted with tempestuous runes, this magic sword can call forth the fury of the storm against its foes.
+
+Moonlight Dagger
+
+Grade: UniqueType: Magic Dagger
+
+A slender blade forged from moonsteel, its silver edge gleams faintly even in complete darkness. Under moonlight, the dagger resonates with lunar energy, sharpening its blade and giving the user a unique ability. It is said to be favored by assassins who hunt beneath the stars.
+
+Meteorite Spear
+
+Grade: EpicType: Magic Spear
+
+A spear reforged from the original Resolute Spear using condensed meteorite alloy by an exceptionally talented blacksmith. Its star-metal composition grants it exceptional sharpness, weightless handling, and the ability to channel cosmic impact through its strikes. The weapon resonates with its wielder’s momentum, growing deadlier the longer it remains in motion.
+
+Ring of Bloodthirsty Pact
+
+Grade: UniqueType: Enchanted Ring
+
+A ring forged through an ancient pact between a warlord and a forgotten deity. It fuels the wearer’s strength at the cost of restraint.
+
+Runed Cloak of Lesser Haste
+
+Grade: RareType: Enchanted Cloak
+
+A lightweight hooded cloak stitched with arcane runes of swiftness. This enchanted cloak are commonly used by veteran scouts of an empire.
+
+Skyfang Strider Boots
+
+Grade: UniqueType: Enchanted Boots
+
+Forged by a genius Magic Engineer from a lightweight mithril-alloy frame reinforced with the supple yet resilient leather of the White Venomfang Serpent, these boots blend agility, durability, and enchantment into a single masterpiece. The serpent’s essence imbued within them grants the wearer exceptional aerial maneuverability.
+
+Mask of a Thousand Races
+
+Grade: UniqueType: Magic Mask
+
+An artifact born from reshaping the foundation of an ancient illusionist’s craft. This mask does not merely alter appearances but also allows the wearer to assume the likeness of other races entirely. By bending plausibility, though limited in scope, it manifests traits of bloodlines that the wearer should not possess, turning falsehood into a temporary reality.
+
+Ring of the Void Pulse
+
+Grade: UniqueType: Magic Ring
+
+A ring imbued with spatial energy from a collapsed star and crafted from a special material.
+
+Blood Pendant
+
+Grade: UniqueType: Accessory
+
+A pendant forged from crystallized scarlet essence extracted from the heart of a slain high-rank troll. It passively stores the wearer’s excess vitality and releases it when death is near, mending wounds in a burst of life energy.
