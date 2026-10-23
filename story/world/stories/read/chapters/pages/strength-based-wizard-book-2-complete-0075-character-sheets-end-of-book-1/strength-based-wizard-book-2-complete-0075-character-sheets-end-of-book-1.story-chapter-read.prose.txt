@@ -1,0 +1,409 @@
+JOSEPH
+
+JOSEPH SULLIVAN
+
+Level 19
+
+Max HP: 160
+
+Max MP: 0
+
+Max STA: 355
+
+[User Overview]
+
+RACE: Human
+
+DISCIPLINE: Spellcaster
+
+CLASS: Muscle Mage
+
+INVENTORY LEVEL: Beginner (20 slots)
+
+[STATS]
+
+[ABILITIES]
+
+Ability Points Available: 5/12
+
+Slime Tamer (Advanced)
+
+[5 AP]
+
+Due to your bonds with powerful Slimes, you have the innate ability to befriend oozes. While this Ability is equipped, all Oozes with a Level lower to 1.75 times your own Level will be friendly to you and will be unable to deal physical damage to you.
+
+Hold Your Ground (Beginner)
+
+[2 AP]
+
+You live in a constant state of standing your ground. You are capable of locking yourself to your current point in space, making yourself harder to move. When another creature, spell, or skill attempts to physically move you in any direction, you have a 10% of succeeding any attempt to resist their effort.
+
+Dismember (Beginner)
+
+[2 AP]
+
+You have honed your Strength. Attacks using your Strength stat have a 10% chance to cause a Bleed effect on the Target. Attacks using your Strength stat have a 2% chance to trigger a dismemberment on the Target. This effect will stack for five successive hits, at which point the chance to trigger this effect will reset. After five strikes using your Strength stat, this ability requires a 30 second cooldown.
+
+[SKILLS]
+
+Speed Boost
+
+(Beginner)
+
+(From the Trousers of the Serpentine Lord) When equipped, this item provides the user access to the ‘Speed Boost’ Skill. When triggered, the user’s speed and acceleration are increased by +100% for ten seconds. This Skill has a 2 hour cooldown timer.
+
+No Pain, No Gain
+
+(Tier 3)
+
+The User is capable of creating an ‘Overclock’ effect when casting a Spell. This Skill can be activated in combination with casting a Spell and has no cooldown time. The User may sacrifice a percentage (in units of 1%) of their Stamina in order to increase the power of the Spell. For every 1% of Stamina sacrificed, the User will also lose 0.50% Health.
+
+Perception [Passive]
+
+(Tier 1)
+
+The User has enhanced perception. This Skill provides a supernaturally increased awareness, alertness, and ability to process one's sensory inputs. At Tier 1, the User has only just gained access to this Skill and the ability to develop it further.
+
+Modified Spellcasting: Multiplicity
+
+(Tier 4)
+
+The user is capable of casting the Spell 'Wizard's Fist' with increased output, generating a near infinite amount of spectral fists of the Supreme Wizard King! For a small amount of Stamina, the user may produce an additional Wizard's Fist upon casting this Spell. The power of each fist created using the Spell when modified in this fashion will be proportionally weaker pending how many fists the user creates. Having control over a high number of fists will require enhanced Willpower and Intelligence.
+
+Pumping Iron
+
+(Epic)
+
+???
+
+[SPELLS]
+
+- Wizard's Fist
+
+- Light
+
+- Pact of the Novice Scribe
+
+- Mana (Force) Blast
+
+- Slimy Shield
+
+- Locate Ally
+
+- Raining Knuckles
+
+[Inventory of Note]
+
+An entry-level spellbook used to record and track learned spells.
+
+A crystalline manifestation of concentration aetheric Storm energy.
+
+Note: Storm energy is a byproduct of combined Wind, Water and Lightning aetheric energies.
+
+[Equipment of Note]
+
+This hat contains the soul fragment of a fire elemental behemoth name Shogmoth. It naturally generates fire mana at a rate of 2 mana per minute. It is capable of using accumulated mana to cast Spells through the conjured Maw of Shogmoth.
+
++5 Spirit+10 Willpower
+
+This staff is crafted from enchanted black iron. When attuned to this staff, its wielder obtains access to the ‘Pumping Iron’ Skill.
+
+Physical Damage: +25Magical Damage: +40Willpower: +10
+
+A ring that empowers its wearer's freedom of movement. +15% evasiveness, +1 DEX.
+
+This flimsy cloth cape is the hallmark of every novice spell-flinger. Try not to die in it. Grants wearer use of one free Cantrip spell once per day.
+
+These trousers are imbued with the energy of the Serpentine Lord, one of Lichlord Dinescu’s archrivals he defeated in combat long, long ago. This is an Enchanted Item.
+
+ENCHANTMENTS:- Personalized: These trousers will take a unique form specific to the wearer.- Growth: These trousers will grow in strength the more often they are equipped and used in combat.
+
+ATTRIBUTES:+8 to DEX+5 to WILL+10% chance to evade any area of effect type Spells and abilities
+
+SKILL: Speed Boost (Beginner)
+
+A well-crafted pair of boots that can keep its wearer's feet dry and safe, even during long days in the woods. While being worn, grants the wearer access to the Ability 'Hold Your Ground.'
+
+A bracelet with the capability of recalling the use of special Skills. Effect: Store a single known Skill. May be used once per day for a bonus activation of that Skill. Skill slot refreshes every 24 hours.
+
+JELLY BOY
+
+JELLY BOY (Ally)
+
+[President Jelly Boy, Elected Leader of the Cerulean Ooze Hivemind]
+
+Level 17
+
+Max HP: 225
+
+Max MP: 168
+
+Max STA: 101
+
+[User Overview]
+
+RACE: Blue Slime (Ooze)
+
+DISCIPLINE: Harvester
+
+CLASS: Arcane Juggler
+
+INVENTORY LEVEL: Supreme (300 slots)
+
+[STATS]
+
+As an ooze, your gelatinous form provides you with natural protection from certain types of harm.
+
+Damage Immunities: Acid, Poison, PsychicDamage Resistances: Fire, Ice, Lightning, Light, Dark, PhysicalDid you know this text is from a different site? Read the official version to support the creator.You are immune to the following conditions: Blind, Charm, Deafened, SilenceYou have a 50% chance of succeeding against any attempt at being restrained or grappled.
+
+[ABILITIES]
+
+Ability Points Available: 5/20
+
+Enhanced Absorb Spell Component
+
+[10 AP]
+
+The user's body is capable of absorbing and storing components of magical spells. This process is slow and not always efficient and is better suited towards static spell elements and components.
+
+This Ability has been Enhanced through obtaining the Arcane Juggler Class! User now has improved ability to absorb magic and retain its components.
+
+Psuedopod (Advanced)
+
+[5 AP]
+
+Can extend temporary arm-like projections from the user's body. At this level, the pseudopods can approximate most mammalian appendages (though not digits or fine motor functions).
+
+[SKILLS]
+
+Consume
+
+(Tier 4)
+
+User is capable of consuming practically anything, and is capable of doing so at a magically enhanced rate. Side effects may vary.
+
+Catch
+
+(Tier 2)
+
+User is able to use their Enhanced Absorb Spell Component Ability to 'catch' a Spell. Using this Skill will result in no Spell component being stored. However, the User will 'hold' the entire power of the targeting Spell.
+
+If the user does not use the caught magic quickly enough, user will suffer the [Blowback] effect. Results will vary based on Spell.
+
+Juggle
+
+(Tier 3)
+
+User is capable of 'juggling' a caught Spell, turning the Spell's power into a temporary magical item. Strength of the item and its survival period (before degradation kicks in) will vary based on the captured Spell.
+
+Residual Casting
+
+(Tier 4)
+
+User is capable of effecting slime that is not part of its core body to cast Residual Spells based on the spell components the User absorbed. Casting Residual Spells will damage the integrity of the slime medium / focus used for the spell.
+
+Hive Mind Overlord (Passive)
+
+(Elite)
+
+User has mental control over an entire Hive Mind colony of cerulean slimes.
+
+[SPELLS]
+
+None.
+
+None.
+
+[Inventory of Note]
+
+[Equipment of Note]
+
+CLYDE
+
+CLYDE RICHMOND
+
+Level 15
+
+Max HP: 155
+
+Max MP: 135
+
+Max STA: 120
+
+[User Overview]
+
+RACE: Human
+
+DISCIPLINE: Harvester
+
+CLASS: Big Game Hunter
+
+INVENTORY LEVEL: Beginner (20 slots)
+
+[STATS]
+
+[ABILITIES]
+
+Ability Points Available: 11/16
+
+Attacks against the same monster type (name and classification) will result in critical bonus damage accruing. Chained bonus damage will start at +0.50% on the third successive attack. Chained bonus damage will stack until reaching hard cap of +150% damage.
+
+[SKILLS]
+
+Scan (Advanced)
+
+(Tier 2)
+
+Can Scan a target creature within range (120 feet). A completed Scan will require 5 to 30 seconds depending on size and Strength of the target creature. Scan will provide the following information: Physical Weakpoints (if any), Magical Vulnerabilities (if any), Magical Resistances (if any), Status Vulnerabilities (if any).
+
+Puncture (Beginner)
+
+(Tier 1)
+
+Targets a creature with the 'Soften' debuff.
+
+Creature will be inflicted with a Bleed effect. Losing 5 points of Health for every 0.50 points of Soften accumulated. Critical hits will do double the damage to Target creature while under the effect of Bleed. User will restore Health equal to a percentage of damage.
+
+Cooldown: 1 minuteCosts 20 Stamina upon use.
+
+Split Shot (Advanced)
+
+(Tier 2)
+
+Can split a shot from a firearm into two, hitting two targets within 10 feet of each other. Each shot will deal half as much damage as a normal attack.
+
+Silencer (Beginner)
+
+(Tier 4)
+
+When this Skill is activated all sound produced by its user is muffled. At higher levels of mastery, this Skill is capable of being placed on other objects and persons. At higher levels of mastery, this Skill further increases in strength, eventually eliminating all sound.
+
+[SPELLS]
+
+None.
+
+- Soften
+
+- Burden
+
+- Burning Bullet
+
+[Inventory of Note]
+
+[Equipment of Note]
+
+A leather pauldron.Armor Rating: 0.50
+
+A master-crafted blade made from pure Breath Essence. It grants its user access to the Skill ‘Silencer’ when wielding this weapon.
+
+Physical Damage: +200 (+400 with Surprise)
+
+Evasiveness +20%
+
+Sneak +100%
+
+VERONICA
+
+VERONICA
+
+Level 17
+
+Max HP: 585
+
+Max MP: 100
+
+Max STA: 230
+
+[User Overview]
+
+RACE: Human
+
+DISCIPLINE: Warrior
+
+CLASS: Iron Maiden
+
+INVENTORY LEVEL: Beginner (20 slots)
+
+[STATS]
+
+[ABILITIES]
+
+Ability Points Remaining: 5/12
+
+Manipulate Shields
+
+[7 AP]
+
+Can expend Mana to manipulate and maneuver shields summoned using the Summon Shield Skill.
+
+[SKILLS]
+
+Center of Attention (Advanced)
+
+(Tier 2)
+
+Draws the attention of all hostile creatures within a 100 foot radius. Increases the enmity of all hostile creatures towards user.
+
+At Tier II: May inflict the Infuriated Status on target creatures.
+
+Triggered by verbal command. Cooldown: 20 seconds.
+
+Liftoff (Beginner)
+
+(Tier 1)
+
+Increases Strength when target is on hammer's head, triggering a 'Toss' effect, sending the creature airborne. At higher Skill Levels, this Skill will ignore target creature weight and density.
+
+Hammer Cyclone
+
+(Tier 1)
+
+Spinning hammer in circle creates a whirlwind effect, pushing back all creatures surrounding the user 5 to 10 feet regardless if damaged by the attack.
+
+Summon Shield (Advanced)
+
+(Tier 3)
+
+Can summon floating steel shields.
+
+At current level, can summon up to five small shields,  three medium shields, or two large shields.
+
+Aura of Protection (Passive)
+
+(Tier 4)
+
+Your body is surrounded by an aura of protective energy. Allies within the range of your aura take decreased damage and have resistance against curses (Level 2 and below).
+
+Current Radius of Aura: 10 feet
+
+Aura of Diversion (Passive)
+
+(Tier 3)
+
+Your body is surrounded by an aura that draws physical melee attacks towards you. When an ally within the range of your aura is targeted by a physical melee attack by a hostile creature, the attack will be drawn off target, pulled towards you or one of your large summoned shields.
+
+Current radius of aura: 10 feet
+
+Heretical Slash (Beginner)
+
+(Epic)
+
+A slashing attack that is capable of dealing additional damage to a target’s Stamina. At higher levels of mastery, this Skill is capable of inflicting the ‘Strength Sap’ debuff. This Skill has a chance to inflict the ‘Bleed’ status condition.
+
+[SPELLS]
+
+None.
+
+None.
+
+[Inventory of Note]
+
+[Equipment of Note]
+
+Basic bronze gorget.Armor Rating: 1Attributes: +30 Health, +1 Constitution
+
+Succubus Fang (Legendary)
+
+A master-crafted blade made from the fang of the dangerous Succubus. It grants its user access to the Skill ‘Heretical Slash’ when wielding this weapon.
+
+Physical Damage: +300

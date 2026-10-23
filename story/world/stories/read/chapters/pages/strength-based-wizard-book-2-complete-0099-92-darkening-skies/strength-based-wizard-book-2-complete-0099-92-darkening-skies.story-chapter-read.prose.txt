@@ -1,0 +1,295 @@
+Chapter 92
+
+Darkening Skies
+
+Grush is happy to make camp and have me and Liv out of his way. I take the moment to access the System message I know is waiting for me.
+
+TRAIT: [Flexible Casting].
+
+Description: The User has the ability to modify the nature of their spellcraft.
+
+You have 1 Modified Spellcasting available. Use Modified Spellcasting?
+
+Here we go again, I think. I mentally select Yes.
+
+Ping!
+
+Please select one Spell to see available options for Modified Spellcasting. Please note that Spell selection is final. Modified Spellcasting will grant the User with enhanced or unique modes of crafting the selected Spell. However, the current base form of the Spell will remain available as the default option when casting the selected Spell.
+
+Choose Spell:
+
+The list of all of my known spells unfurls in the center of my System display, but I’ve been thinking about this in the short time since I last used this Trait of mine. And I know exactly which Spell I want to select.
+
+Ding!
+
+You have selected to apply your Modified Spellcasting to [Pact of the Novice Scribe]!
+
+Please select how you would like to use your available Modified Spellcasting point:
+
+OPTION 1: Talisman Master
+
+Description: You are capable of performing a variation of your Ritual to create talismans of power. After each successful casting of [Pact of the Novice Scribe], you are able to create one [Lesser Spell Talisman], containing a weakened version of the Spell learned from your Ritual, which can be used for free once per day.
+
+If you select this option, you will learn the Spell [Pact of the Talisman Master].
+
+SPELL: [Pact of the Talisman Master]
+
+[Pact of the Talisman Master] (Ritual Spell, Level 2)
+
+Casting Time: 5 minutes
+
+Stamina Cost: 100% of Maximum Stamina (if current Stamina is less than 100%, the Spell will Fail) and will require the other participant to have an amount of Mana equal to the User's expended Stamina for the Spell to be effective
+
+Range: Touch
+
+Duration: Permanent
+
+Description: The spellcaster can enter into a one-time pact with a willing target Monster. The Monster will bestow a magical ability using a facsimile of its own innate abilities. The spellcaster will receive a single [Spell Talisman]. The willing Monster must select a known Spell, which must be a Level 3 Spell or weaker. If the target Monster does not know any Spells, then this Ritual will fail. This Spell may only target the same Monster once, even if such attempt is not successful. This spell will automatically fail if the targeted Monster is incompatible or does not have sufficient Mana. The [Spell Talisman] will contain the power to evoke the Spell, and may be used once per day. The [Spell Talisman] may be used by any creature who has properly attuned to it.
+
+I immediately recognize that this is going to be a very difficult decision. Holy shit, this is a powerful option! The ability to create talismans that won’t drain my Stamina and can be shared with my allies is extremely useful. Not to mention the [Spell Talismans] can contain up to Level 3 Spells, which is one level higher than my current limit on learned Spells.
+
+I move on to the next available option.
+
+OPTION 2: Elemental Transcriber
+
+Description: Having witnessed the power of the elements, you are capable of crafting words of power upon the facets of your spellcraft. Once per day, you can perform a minor Ritual (taking 1 minute to perform) to add an elemental effect to a known Spell of your choosing. The element will be selected at random from one of the following: Fire, Air, Water, Stone, Nature, Cold, Darkness, Light, Celestial, Metal, Lightning, Sound, Smell, Psionic, Spirit, Blood, Sugar, Bone, Necrotic, Life, and Flesh. The elemental modification cannot be removed once placed and will last for 24 hours.
+
+If you select this option, you will learn the Spell [Pact of the Elemental Transcriber].
+
+SPELL: [Pact of the Elemental Transcriber]
+
+[Pact of the Elemental Transcriber] (Ritual Spell, Level 2)
+
+Casting Time: 2 minutes
+
+Stamina Cost: Variable
+
+Range: 10 Foot Radius
+
+Duration: Permanent
+
+Description: The spellcaster performs a ritual to harness and distill elemental essences. This Ritual will pull elemental energy from all objects and creatures within its range, including any ambient elemental energy in the environment. The spellcaster may spend additional Stamina in order to increase the rate of extraction. All extracted elemental essence are distilled into elemental shards. The number of shards produced depend on the amount of essence drawn on by the Ritual.
+
+Okay… This one isn’t as titillating at the first option. Of course, having an unlimited source of elemental shards would probably pique anyone’s interest. It’s like having an infinite money glitch at my fingertips. Some rarer elemental shards sell for a pretty penny back on Earth. But I’m not interested in just making money. And I’m too inexperienced to know what else to do with the shards.
+
+What I need is something that can help us against that Barrier Guardian, I think.
+
+I turn to the third and final option.
+
+OPTION 3: Body Acolyte
+
+Description: You are an acolyte to physical form and strength. As such, you’ve gained a better understanding and appreciation to the workings and potential of the body. Once a day, you are capable of performing a Ritual (taking 1 minute to perform) that increases the maximum potential of your body for a 3 minute duration. During that time, you are able to access a pool of temporary Health and Stamina equal to 25% of your current Maximum Health and Stamina.
+
+If you select this option, you will learn the Spell [Pact of the Body Acolyte].
+
+SPELL: [Pact of the Body Acolyte]
+
+[Pact of the Body Acolyte] (Ritual Spell, Level 2)
+
+Casting Time: 5 Minutes
+
+Stamina Cost: 100% of Maximum Stamina (if current Stamina is less than 100%, the Spell will Fail) and will require the other participant to have an amount of combined Stamina and Health equal to the User's expended Stamina for the Spell to be effective
+
+Range: Touch
+
+Duration: Permanent
+
+Description: The spellcaster can enter into a one-time pact with a willing target Monster. The Monster will bestow a Skill or Ability using a facsimile of its own innate talents and traits. The spellcaster will receive a single Skill or Ability. The Skill or Ability received depends on the nature of the target Monster. This Spell may only target the same Monster once, even if such attempt is not successful. This Spell will automatically fail if the targeted Monster is incompatible or does not have a sufficient amount of combined Health and Stamina.
+
+Now we’re talking! The ability to temporarily boost my Health and Stamina alone is a nice boon. But the real magic here is in the Ritual Spell. I can now perform a similar ritual to [Pact of the Novice Scribe] with monsters that are low in Mana but high in Health and Stamina. I immediately think of Grush, though I wonder if Walter and Preston would have sufficient Health and Stamina. If I select this option, I could perform both rituals with powerful enough monsters I encounter (assuming they’re friendly enough to assist me) and gain both a Spell and a Skill.
+
+Part of me wants to instantly select the third option. But I hesitate and consider the other two one more time. Elemental Transcriber seems the least promising. While imbuing my Spells with certain elements could be useful, I’m not really a fan of the random nature of the Skill.
+
+The first option is far more tempting, and makes this decision very hard. Creating talismans for myself and my party could be extremely useful, and provide us with a lot of tactical versatility.
+
+Ugh! Why is this so difficult? I pull the hair on the back of my head before exhaling a long, frustrated breath. Perhaps I need to sleep on this one.
+
+I minimize the window and it shrinks to a blinking notification in the bottom corner of my HUD. Focusing on the notification causes the three options to appear before me, floating there and patiently waiting for my selection. I minimize it again with a mental flick.
+
+Well, that’s convenient.
+
+I scramble to my feet and decide to help Grush finish with camp. I pick up a large stump that the hulking undead man tore from the ground, roots and all. I squat down and wrap my arms around it, barely able to hug the thing it’s so wide. Then, I drive my hips back and I explode upward, squatting the massive stump.
+
+I glance over its top at Grush. “Where do you want this thing?”
+
+Grush grunts and stabs a kielbasa sized finger at the already roaring campfire he’s prepared.
+
+I nod. “You know, I thought you’d be afraid of fire.”
+
+He responds with a confused sounding groan.
+
+“Why?... Er, well, because… You know…” I keep my arms tightly wrapped around the stump, but vaguely gesture one hand at him. “All of this.”
+
+Grush just gives me a blank stare.
+
+“Nevermind.”
+
+I march over to the fire and plop down the gigantic stump.
+
+Liv and Jelly Boy are already posted up by the fire, hunched close to the flames like they’re afraid of missing a single photon of heat. Liv’s got her legs drawn up beneath her, nursing a ceramic cup of something hot and herbal-smelling, while Jelly Boy balances next to her on the log Grush hauled over, mimicking her posture as best a sentient pile of goo can. He’s still wearing the now-scaled wizard’s cap.
+
+“Where’d you get that tea?” I ask.
+
+“Preston,” Liv says.
+
+“Just the one cup?”
+
+“That’s all he summoned. But I’m sure he could summon you one too… Want a sip of mine? It’s getting really cold out.”
+
+I shake my head. “I’m alright, thanks.”
+
+I glance up at the darkening sky. Night is closing in around us, and dark clouds swirl in the sky overhead. I hope it isn’t going to rain, I think grimly. The last thing I want is to sleep under another tree.
+
+Walter and Preston are circling the perimeter of our campsite. Walter’s bony fingers trace glowing glyphs in the air as he walks, each rune fizzling and sticking to invisible lines like spiderwebs being woven in slow motion. Preston floats a few inches off the ground, his glowing green bowl-helmet swiveling back and forth, the metallic arms of his diving suit clicking quietly as he flicks tiny vials of powder into the trees. Ward marks light up faintly as they stick to bark and moss and air itself.
+
+“What were you doing back there a moment ago?” Liv asks. She’s withdrawn an Adventurer’s Cookie from her Inventory and takes a small bite. “You were just staring off into space, but from your eyes, I can tell you were messing around on the System.”
+
+I settle down onto the stump and open my Inventory to grab one of my own Adventurer’s Cookies. It takes me a second as I keep accidentally opening my Flexible Casting Options screen.
+
+“It’s part of my Class features, every five levels I get a new upgrade,” I reply. “I was just looking over my options.”
+
+I finally have the correct menu open, but accidentally scroll down too far and miss my Adventurer’s Cookies. That’s when I see it.
+
+Storm Dragon Meat.
+
+Right, I almost forgot about this. Clyde gave that to me after the Bronze Gate, didn’t he? Not sure why he thought it would be a good idea for me to have it.
+
+Curiosity getting the better of me, I withdraw the item from my Inventory, and holy shit.
+
+It’s absurd.
+
+It’s a single hunk of deep marbled meat—like a short rib and a cartoon ham had a baby—and there are two ridiculous white bones sticking out of either side. Perfectly clean bones. Like twin handles to better hold the gigantic cylinder of meat. The whole thing’s the size of a toddler. There’s a faint shimmer along the edges of the meat, which is enough to remind me that it once belonged to a giant flying lizard that could breathe lightning.
+
+I examine the meat, summoning the item description:
+
+Storm Dragon Meat (Grade: Mythical)
+
+Description: A nutrient-dense cut from the flank of a slain Storm Dragon. May confer bonuses to Strength, Speed, or Lightning Affinity. Cooking recommended. Consuming raw may cause temporary insanity.
+
+“Joseph,” Liv says from across the fire. “What the hell is that?”
+
+“Storm Dragon meat,” I say, because hey, honesty.
+
+She wrinkles her nose like I just offered her a shot of my foot sweat. “Gross.”
+
+She bites delicately into her cookie.
+
+I see Walter ambling over. I raise the meat over my head.
+
+“Hey, Walter! You know anything about Storm Dragons?”
+
+He cocks his skull to one side. “Sounds fictional. Don’t think anyone’s seen a dragon in this Realm for hundreds of years, let alone whatever a Storm Dragon is…”
+
+“So, you’ve never heard of one?”
+
+“I’ve heard of Thunder Chickens and Lightning Wraiths, but no. Storm Dragon? Not ringing any bones.”
+
+“Well, what about dragons in general? Think dragon meat is poisonous?”
+
+Walter shrugs. “Your guess is as good as mine.”
+
+Preston strolls over next, suit whirring softly.
+
+“Even if it is,” the goldfish says in that disturbingly posh accent of his, “I have antidotes for poisons, venoms, hexes, and curses. If your colon starts to corrode, I can probably patch you up with the right concoction.”
+
+“Probably?” I echo.
+
+“I did say probably.”
+
+“Okay, cool,” I say. “We’re cooking it, anyway. I think that helps.”
+
+“Cooking what now?” Liv asks, eyes narrowing as she sips her drink.
+
+“This,” I say, brandishing the chunk of meat as though it were the mighty Excalibur.
+
+“You’re going to cook that here?”
+
+“Yes.”
+
+“Right now?”
+
+I grin.
+
+“Yes.”
+
+POV: Sergei Bratva
+
+Sergei stepped out of the Black Gate and into his Barcelona penthouse just as the portal snapped shut behind him with the sound of tearing silk.
+
+Mikhail’s body—broken, stripped, and wrong—hung limp over Sergei’s shoulder. With a grunt, he dumped the corpse onto the floor like a sack of wet cement. He would continue to mourn his loss, but a body was a body. And he needed to mentally steel himself for what he was about to do.
+
+He walked straight into the kitchen and grabbed the half‑empty bottle of red wine from the counter. He didn’t bother with fetching a new glass. He drank deep, wiped his mouth with the back of his wrist, and exhaled slowly.
+
+“Do it,” he said.
+
+From the shadows in the corner of the living room, Ivan slithered into view.
+
+Even in his all-black designer clothing—tailored suit, expensive shoes, black silk shirt—the man looked like a corpse that hadn’t decided whether to stay dead. Sunken cheeks pulled his face into a gaunt snarl. His skin was paper‑thin and gray, stretched taut over a skeleton so slight it was almost birdlike. His milky white eyes drifted to Mikhail’s body and then back to Sergei without emotion.
+
+Sergei hated looking at him. Hated the way Ivan didn’t blink. Hated the way he somehow never made a sound when he walked. Hated the way he smelled, too—industrial, like gasoline… Like the old neighborhood back in Moscow. The gutters he had pulled himself and the others out of. Ivan was a disgusting coward.
+
+But Ivan was also very useful.
+
+And good help was hard to find.
+
+Ivan crouched beside Mikhail’s body and, with a single fluid movement, pulled a bone-handled saw from his Inventory. Steel glinted. Sergei turned away and drank again.
+
+The sound came anyway.
+
+A wet scraping… A dull grind. The saw chewing through flesh and cartilage and bone.
+
+Sergei shut his eyes. Took another swig.
+
+He turned back only when the noise stopped. In the corner of his eye he saw Mikhail’s beheaded corpse slumped on the floor. Ivan stood over it, holding the severed head delicately in both hands like it was a priceless artifact instead of what had once been Sergei’s cousin.
+
+The dying sunlight caught in Ivan’s milk‑white pupils, making them glow like two moons reflected in a stagnant pond.
+
+“I want to know who killed him,” Sergei said quietly. “I need a name.”
+
+Ivan nodded once.
+
+He opened Mikhail’s mouth with needle-like fingers.
+
+“Wait.” Sergei raised a hand. “Mikhail’s body was in Cleveland.”
+
+Ivan nodded again. The more detail, the better the Spell. The higher likelihood he would get his name.
+
+The small, skeletal man leaned close and exhaled, a long, slow breath of shimmering silver mist. The vapor streamed into Mikhail’s slack mouth like reversed smoke. The corpse’s jaw snapped shut.
+
+Mikhail’s eyes opened. They glowed bright white.
+
+His head lifted, mouth stretching unnaturally wide, and a thin beam of light shot forth, projecting an image in the air like a macabre home theater.
+
+Sergei watched.
+
+He watched Mikhail and the others slip into the Chrome Forest Gate. Watched them ambush the Americans, and the chaos that followed.
+
+Then he saw him. The half‑naked man. Bare chested and wearing miniscule denim shorts and a pointed wizard’s hat.
+
+Sergei leaned forward.
+
+The image zoomed in on the man’s face. Froze.
+
+Ivan raised a hand and whispered another spell—this one thick with power. The entire apartment shook with the words spoken in a tongue Sergei didn’t recognize. This was a Level 8 divination Spell Ivan had received from a scroll Sergei stole from a Gate during their early days of crashing.
+
+The name came out of Ivan’s mouth like a verdict.
+
+“Joseph Sullivan.”
+
+The projected image died and Ivan’s body quaked. A shake inhale and gasp of breath as he was shaken from the grasp of his spells and hurled back to reality.
+
+Then, silence.
+
+Sergei was smiling.
+
+Something blossomed in his gut—rage sharpening into purpose. Revenge cooling into precision.
+
+“Now,” Sergei murmured, stepping forward and gripping the edge of the counter with white-knuckled intensity, “no matter where you run, no matter what Realm you hide in…”
+
+His shadow stretched long across the marble as twilight swallowed the room.
+
+“…there is no escape.”
+
+He took another swig from the bottle in his other hand.
+
+“I’m coming for you, Joseph Sullivan.”

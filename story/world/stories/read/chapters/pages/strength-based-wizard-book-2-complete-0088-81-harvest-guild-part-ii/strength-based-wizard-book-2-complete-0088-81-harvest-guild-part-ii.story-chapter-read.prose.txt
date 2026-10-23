@@ -1,0 +1,197 @@
+Chapter 81
+
+Harvest Guild, Part II
+
+I hop up onto the dais. The machine around me hums to life with a low, thrumming vibration that starts in the soles of my feet and creeps all the way up my spine like a nervous centipede in combat boots. The platform I’m standing on lifts slightly as mechanical arms stretch out from the walls, each wielding a panel of light.
+
+“Woah,” I breathe.
+
+The last time I did something like this, it was for my freelancer license. It has just been a handheld scanner that looked like one of the temperature guns used to see if had a fever, though only for confirming you were in fact a System User.
+
+This? This was a little different.
+
+I stand perfectly still as rings of soft blue light trace up and down my body. Everywhere the light touches me feels like pinpricks of ice dancing across my skin. A quiet chime echoes with each pass.
+
+Ding. Ding. Diiiing.
+
+Finally, the machine hisses softly and shuts down, the lights fading out with a gentle whisper. The platform lowers with a soft click and I step down off the dais, rubbing my arms. My entire body is still tingling.
+
+Labonte’s voice calls out from the nearby monitor station. “Joe! Get over here, you beautiful mistake of nature!”
+
+What does he mean by that? Is that a bad thing?! I jog over, heart hammering like I’m about to get a report card and a paternity test result at the same time.
+
+Labonte is grinning like a kid on Halloween who just walked up to the house dolling out king-sized candy bars. He waves me in close, patting the side of the screen.
+
+“Take a look,” he says, eyes gleaming. “You are something else, kid.”
+
+I lean over and peer at the glowing numbers on the screen, my breath catching in my throat. “This… This…” I say.
+
+“This is incredible,” says Jerome, peering at the data from over Labonte’s shoulder.
+
+“This…” I say.
+
+“This is just what I bet on!” exclaims Labonte.
+
+“This… Means absolutely nothing to me,” I say. “What the hell am I looking at?”
+
+I lean in, squinting at the display.
+
+The screen glows a soft green, filled with numbers. Lines upon lines of number. This is like looking at the most convoluted Excel model anyone’s ever cooked up.
+
+“Well?” I ask, eyes darting across the categories. “Care to explain what I’m looking at?”
+
+Labonte giggles happily as he scrolls through the numbers on the screen. He points with one stubby finger and a segment of the numbers on screen expand, and are joined by accompanying text. “Let’s break it down, shall we? Each primary Attribute… or Stat, has two corresponding Sub-Attributes.”
+
+The screen reads:
+
+STRENGTH:
+
+Power: 15
+
+Vitality: 32
+
+DEXTERITY:
+
+Speed: 13
+
+Agility: 10
+
+CONSTITUTION:
+
+Fortitude: 10
+
+Endurance: 22
+
+INTELLIGENCE:
+
+Processing: 3
+
+Reserves: 0
+
+WILLPOWER:
+
+Control: 15
+
+Resistance: 18
+
+SPIRIT:
+
+Faith: 1
+
+Luck: 5
+
+I stare at the numbers for a few moments.
+
+“Okay,” I say slowly. “So… I’m a beefy toddler who skipped brain day at the gym? I hate to ask for a lecture, but you asked me here, so… Care to give me a breakdown?”
+
+Labonte lets out a wheezing laugh, slapping me on the back hard enough to make me lurch forward into the console.
+
+“This says you’re Level 19,” says Labonte.
+
+“To put things into perspective, someone at Level 20 should have an Adjusted Average Sub-Attribute Score of 15 in their two highest Statistical Categories,” says Jerome. “These numbers are more than interesting…”
+
+“Kid,” says the old man, “I knew you didn’t cast Spells using Mana, but a Vitality score of 32 is not only impressive, it’s practically impossible! Despite dumping so many points in Strength, your Class seems to have gone haywire on the strength of your lifeforce!”
+
+“Right,” I mutter, rubbing my temples. “And a Reserves score of 0, which isn’t surprising…” I trail off as I read the numbers at the bottom of the list. “ I raise an eyebrow. “Should I be concerned that the System thinks I’m an atheist with a gambling problem? Faith score of 1?”
+
+Labonte just shrugs. “Faith is for Clerics, and you’re a mage that runs on testosterone and pure rage, kid.”
+
+I sigh, dragging my hand down my face. “I’m not sure how I feel about having such a low Luck score…” Knowing that Luck was a Sub-Attribute made me regret completely ignoring my Spirit Stat.
+
+“Spirit is an interesting Statistic,” says Jerome, crossing his arms. “We all quickly learned that it was the pivotal Statistic for healing, both one’s ability to heal others and also receptiveness to receiving healing magic and the potency of items. A high Sub-Attribute of Faith seems to impact the power of healing magic, though there aren’t really true faith-based Spellcasters in the System. But a key part of healing magic is having faith in your abilities to do what you want them to… As for Luck? Now, that one is a lot more of a mystery. At a score of 5, you’re pretty average.”
+
+“Average, but possibly Guild material?” I ask.
+
+Labonte leans in close, squinting at the screen again.
+
+“Oh, you’re Guild material, alright. You’re weird. You’re Stats are lopsided as hell. You’re tougher than a coffin nail and dumber than a box of goblins. But more importantly…” He turns and claps me on the shoulder with surprising force. “You’ve got potential. And potential, my boy, is the most dangerous stat of all.”
+
+“Sir, you forgot to mention that he’s also a one-of-one,” Jerome says flatly.
+
+“Ah, yes—that too!” exclaims the old man. He pinches the screen and the Sub-Attributes disappear and are replaced by the strings of numbers. He points a swollen, pink-skinned finger at a small “1” on the screen. “See that kid?”
+
+I just nod lamely.
+
+“That’s the precise number of people with your Class in all Guild and governmental databases… After your scan, that is. Which means that ‘1’ refers to you and you alone.”
+
+“Of course,” adds Jerome, “Similar to my Class, there may be Classes with similar mechanics but different names. We’ll need to run the numbers further to confirm.”
+
+“But that’s still quite something, kid,” says Labonte. “Don’t forget it! You’ve got something special.”
+
+Labonte snaps the screen off with a flick of his thick fingers. The stats vanish, replaced by a Harvest Guild logo—a stalk of grain shaped like a sword, over a shimmering golden circle.
+
+“Well,” he says, stretching with a grunt. “You want the nickel tour? I gotta hop on a virtual call in five with the AEA and a bunch of back-patting corporate muppets who think their Titles make them gods on this Earth… Give me a break.”
+
+“Sure,” I say.
+
+Labonte waves a hand as he heads for the exit. “Jerome’ll show you around. I’d do it myself, but some of us are cursed with handling all the political nonsense of running a Guild. I got thirty other Guildmasters on this call, Joe. Geraint-fucking-Silver from the Pegasus Guild’s gonna be there. Can’t believe the AEA didn’t force that jackass to divest his stake in Bellerophon Corp before handing him the first and largest Guild license in the country. It’s like giving a fox voting rights in the henhouse… Ridiculous! Anyways, I’m off to talk about some Joint Initiatives!”
+
+He’s still grumbling as he disappears down the hallway.
+
+Jerome, ever composed, steps to my side like a shadow given form.
+
+“I do have time, Mr. Labonte,” he calls after the departing Guildmaster.
+
+Then, to me: “Shall we?”
+
+The Harvest Guild is not what I expect.
+
+The office space is a fusion of modern luxury and arcane weirdness—a glass floor that shimmers with sigils, corridors that seem longer than they should be, and conference rooms with crystals floating above the long tables surrounded in cushioned wheeled office chairs. I’m not sure how much of it is form over function, but based on what I’ve heard goods from the other Realms go for on the market, I immediately recognize that I’m dealing with a man with deep, deep pockets. I can’t help but think about the missing window in my beat up old car.
+
+Jerome walks with his hands clasped behind his back. His suit never wrinkles. His voice never rises. He simply describes the rooms and their functions with precise and detached efficiency.
+
+“To your left, we have the Requisition Department. They’re responsible for coordinating contracts, resources, and post-Gate asset evaluation.”
+
+Jerome continues. “Down this hall is the Recovery Bay. All System Users returning from higher-tiered Gates should evaluated for a minimum of four hours. Mana shock, parasitic bleed, temporal dilation fatigue. You’ll find there’s nothing we can’t handle.”
+
+“These are the Training Facilities,” Jerome says, as two doors slide open. Inside there’s a large, open space that looks a lot like the facility Kyle and I used to spar each other. I wonder how much power this room can withstand, and what it’d be like to have unlimited access to a facility like this.
+
+The tour continues, winding through lounges, sparring arenas, enchantment labs, and even a rooftop greenhouse filled with magical plants that whisper secrets if you get too close.
+
+I soon realize that Jerome isn’t just walking me through a facility. He’s walking me through a possibility.
+
+And I can feel it. By the time we’re completing the tour, I’m jealous I’m leaving the place. It’s like I belong there, and am having it ripped away from me just as I was settling in!
+
+Jerome presses a button to summon an elevator. The elevator dings, and the door slides open.
+
+Jerome and I step in, and just like that, the tour winds to a close. The elevator doors glide shut, muting the low hum of artifacts from the Requisition Department.
+
+As we descend, Jerome adjusts the cuffs of his suit, ever immaculate, ever calm.
+
+“I’ll be honest, Mr. Sullivan,” he says without looking at me. “Mr. Labonte is very interested in bringing you into the Guild. And I wouldn’t take his interest lightly. He is not a man to invest in assets to be acquired… He invests in people.”
+
+“Is that a good thing?” I ask, half-joking, half-terrified I’ve stumbled into some arcane pyramid scheme.
+
+Jerome smiles, only slightly though. “Before the System… Well before the System, I was the son of Mr. Labonte’s old driver. Mr. Labonte recognized talent in me very early, and he wanted to see me succeed. Enough to put me through college, and law school, if I hadn’t received a generous merit-based scholarship.”
+
+“And now you’re his lawyer and his VP because you owe him big time?” I say.
+
+He just shakes his head. “Labonte never once asked anything of me, or implied that he expected my services and loyalty in return.”
+
+“This is a terrible business pitch. You could have just let the shiny training room speak for itself.”
+
+“A formal offer will follow soon. I would actually suggest you don’t accept it.”
+
+“Er—wait, what?”
+
+“Not right away. You should go and explore other Guilds. I imagine you will receive more than one competing offer. I would expect after you do, you will better understand what we are offering you here at Harvest.”
+
+The elevator opens to the lobby building lobby.
+
+Jerome walks me to the glass doors.
+
+“It was a pleasure, Mr. Sullivan,” he says. “I hope we see each other again soon.”
+
+“I suspect you might,” I say, offering my hand.
+
+He shakes it with a firm grip and a nod.
+
+Outside, the sun is hanging low. A valet in a sharp gray uniform spots me and snaps his fingers. My beat-up box on four wheels—patched window, rattling engine, and all—pulls up and a younger valet pops out. He holds the door open like it’s a Bugatti, not a busted-up Honda with super glue holding part of the bumper on.
+
+“Thanks,” I mutter, sliding into the seat. I hand him a few bucks.
+
+He nods, closes the door gently.
+
+I sit there for a moment, both hands on the wheel, staring through the windshield at the darkening city before me.
+
+“What a terrible business pitch,” I mutter before taking off in the direction of home.

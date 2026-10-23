@@ -1,0 +1,207 @@
+Chapter 88
+
+Options, Options Galore!
+
+The System Message unfurls in my vision.
+
+TRAIT: [Flexible Casting].
+
+Description: The User has the ability to modify the nature of their spellcraft.
+
+You have 1 Modified Spellcasting available. Use Modified Spellcasting?
+
+I issue the mental command, affirming my desire and am greeted by the familiar haptic buzz as the System accepts my command.
+
+Ping!
+
+Please select one Spell to see available options for Modified Spellcasting. Please note that Spell selection is final. Modified Spellcasting will grant the User with enhanced or unique modes of crafting the selected Spell. However, the current base form of the Spell will remain available as the default option when casting the selected Spell.
+
+Choose Spell:
+
+A menu of all my known Spells springs to life before me. I scan the list, considering each of my available options.
+
+[Wizard’s Fist]
+
+[Light]
+
+[Pact of the Novice Scribe]
+
+[Force Blast]
+
+[Slimy Shield]
+
+[Locate Ally]
+
+[Raining Knuckles]
+
+[Levitate]
+
+Seeing the list, I’m surprised—and disappointed—by how short it is. Given that I’m hard capped at Level 2 Spells, I’d have expected to be a sort of Spell-slinger by now, with a wide arsenal of cantrips at my disposal. To my chagrin, the System has been stingy as hell with dolling out new Spells. No Spellbooks or magical scrolls looted from monsters or pilfered from the Realms behind Gates. And no new magic bestowed by level up, either.
+
+My most dependable option has been [Pact of the Novice Scribe].
+
+Speaking of which… Perhaps it would have been wiser to wait until after I completed the ritual with both Preston and Walter to use my Trait? It would give me two additional options. But I had considered that in between gator fights and ruled it out as an option. For starters, it makes sense to obtain those new Spells and to practice with them—understand them—first. If they end up being combat-focused Spells, using them in real battle would be useful. Second: I am already Level 24. Only one more level away from gaining another use of this Trait. I’ll have another opportunity to decide sooner rather than later.
+
+But does [Pact of the Novice Scribe] make sense to use my Trait on?
+
+What would a modified version of the ritual entail?
+
+It’s a tempting option, for sure.
+
+[Levitate] is the next one I pause on to consider more carefully.
+
+I want nothing more than to be able to fly. And any sort of baseline flight Spell seems like it would be beyond my grasp. Would modifying [Levitate] get me one step closer to achieving my dream of zooming around battlefields at great heights, flinging my Spells from the heavens? Perhaps.
+
+[Raining Knuckles] being on the list is fascinating because it’s the result of using my Trait in the first place. I hover my attention over the Spell and a new window containing its description is generated in the top righthand corner of my vision.
+
+SPELL: [Raining Knuckles]
+
+[Raining Knuckles] (Evocation Spell, Level 2)
+
+Casting Time: None
+
+Stamina Cost: 120 Points
+
+Range: 315 Feet
+
+Duration: Instant
+
+Description: My fists shall block out the sun! You summon one hundred spectral fists that appear in the sky within range. The fists will rain down on an area, inflicting non-elemental force damage over the entire radius of the spell. Each fist will be a fraction as powerful as the fist summoned when casting [Wizard’s Fist] and will take the single action of balling into a fist and descending towards the earth with it’s full strength. The fists will dissolve shortly after making contact with objects below.
+
+Despite being only Level 2, [Raining Knuckles] is a powerful A-O-E Spell that I’ve used to terrible effect. Something dawns on me at that moment as I think I realize how my Class works. In addition to scaling based on my Strength and Stamina (Vitality), I am able to evolve my Spells to the same powerful heights as other Spellcasters, only in a hyper specialized manner. [Raining Knuckles] is a Level 2 Spell in name only. If I were to select it again, what kind of destructive variation on the [Multiplicity] modification would I receive?
+
+It's an interesting thought experiment.
+
+I close out of the Spell’s description and return to the list of available Spells.
+
+Should I choose a Spell that I don’t use as frequently? Make a version that’d be more useful?
+
+[Light] and [Locate Ally] were great situational utility Spells, that I’m glad to have and have needed to rely on more than once. Perhaps one of these Spells would make a good option to modify?
+
+I bite my bottom lip as the stress of the decision weighs down on me. What do I choose?!
+
+My eyes then land on [Force Blast]. It’s the opposite of those two Spells, probably being my most-used Spell outside of [Wizard’s Fist]. It allows me to summon beams of pure punch-energy from thin air, hurling the blasts of concussive force with the palms of my hands like some kind of anime hero.
+
+But it has its limitations.
+
+I think back to my fight with the wizard elf, back during the Bronze Gate quest. My blasts became too predictable. Or how about the fight with the Gate Crashers? They’d been practically useless then. What if I could add some utility or variation to the blasts in order to throw off an opponent’s cadence?
+
+I consider it for another moment, jumping back-and-forth between [Force Blast], [Pact of the Novice Scribe] and [Locate Ally]. Eventually, I say fuck it and make my selection.
+
+Ding!
+
+You have selected to apply your Modified Spellcasting to [Force Blast]!
+
+Please select how you would like to use your available Modified Spellcasting point:
+
+OPTION 1: [Sniper]
+
+Description: You are capable of slinging this Spell great distances with supernatural accuracy. For a small amount of Stamina, you may expand the range of your Force Blasts to a 300 foot radius.
+
+If you select this option, you will learn the Spell [Punch Spear].
+
+SPELL: [Punch Spear]
+
+[Punch Spear] (Evocation Spell, Level 2)
+
+Casting Time: None.
+
+Stamina Cost: 100 Points
+
+Range: 100 Feet
+
+Duration: Instant
+
+Description: The User has obtained a supernatural accuracy within shorter ranges. The User conjures a [Force Blast] that will not miss its intended point of impact. When the initial point of impact of this Spell includes a moving target, this [Force Blast] will adjust to the position of the target.
+
+Well, it seems like the System is acknowledging my complaints in real time! This option definitely seems like a good choice. I can perform my Spell at higher range, staying out of combat. But the ‘no miss’ nature of this Spell seems too good to be true. Upon closer consideration, I realize the Spell description’s careful wording. It targets a point of impact—a singular point in space—but won’t actually lock on to a moving target, chasing it until it hits its mark. Perhaps that may be true with enough upgrades to this Spell, but for now it seems to be a slightly more accurate [Force Blast].
+
+OPTION 2: [Shaper]
+
+Description: You may shape the form of their magic, modifying the physical construction of the magical font of their Spell. In this case, you are able to form a hand at the end of their Force Blasts, matching the familiar shape of [Wizard’s Fist]. The positioning and gesture used by the hand may modify the impact of your Force Blasts.
+
+If you select this option, you will learn the Spell [Force Grab].
+
+SPELL: [Force Grab]
+
+[Force Grab] (Evocation Spell, Level 2)
+
+Casting Time: None.
+
+Stamina Cost: 50 Points.
+
+Range: 120 Feet
+
+Duration: Instant
+
+Description: The User is able of conjuring Force Blasts in the form of a grasping hand. Upon a successful hit by this Spell, a target will take less force damage but will be grapple by a Wizard’s Fist, tethered to the User. The User is then capable of using the grasping Force Hand to pull the target in their direction (using the User’s Strength attribute).
+
+Okay. Another interesting option. My mind immediately works through several potential uses of this Spell. It’s not entirely clear how the [Shaper] modification works on its own. I can form a hand at the end of my Force Blasts, but without specific Spells, it doesn’t seem like the hand can do much. But would a hand closed in a fist do more damage? Would an open palm be able to hit a larger area? Would an open palm souped up with [No Pain, No Gain] be able to crush things flat?
+
+If I select this option, I’ll need to test it out.
+
+I move on to the third and final option.
+
+OPTION 3: [Transmuter]
+
+Description: You may transmute your [Force Blast] Spell with the components and aspects of one other known Spell. Selecting this option will not result in a flexible use of a modified casting of [Force Blast], but will result in a new Spell, combining elements from your other Spell to form a variation of [Force Blast].
+
+SPELL: The resulting Spell will vary and depend on the known Spell the User selects as part of the Transmutation process.
+
+“Oh, shit…” I breathe. Options, options, I think. Options galore!
+
+I’m curious what resulting Spells I could receive by combining [Force Blast] with aspects of my other Spells. What would selecting [Pact of the Novice Scribe] result in?
+
+Some of the options seem more intuitive. Would selecting [Slimy Shield] score me the ability to blast targets with slime? If so, I could cover battlefields in slime, creating a domain for Jelly Boy’s residual spellcasting. But what if it didn’t borrow the slime aspect of the Spell, instead focusing on the shield and shrapnel elements of [Slimy Shield]?
+
+Which options do I choose?
+
+I jump back and forth amongst the three options, before I make my selection. Opting for the choice with the most certainty, and that I can definitely practice using in the short term.
+
+You have selected the [Shaper] feature!
+
+NEW SPELL: You have learned [Force Grab]!
+
+With my choice finally made, I summon a window containing my Stats. It’s been a while since I reviewed them closely, and now five levels higher than I was when I entered this Gate, it’d be good to get a lay of the land.
+
+As soon as I open my Stats window, I’m greeted with another System Message.
+
+10 Stat Points Currently Unallocated. Assign Stat Points?
+
+I mentally select Yes and dump all 10 points into Constitution, fueling my Vitality in the process. Then, I pull up my Stats:
+
+Health: 210/210
+
+Mana: 0/0
+
+Stamina: 505/505
+
+PHYSICAL STATS:
+
+Strength: 62
+
+Dexterity: 28 [+9]
+
+Constitution: 52
+
+MAGICAL STATS:
+
+Intelligence: 3
+
+Willpower: 48 [+25]
+
+Spirit: 6 [+5]
+
+Looking over my Stats, I’m happy with the ratio of my Strength to my Constitution. I think I’ll be able to start really pumping my Strength more quickly, without fear of not being able to control it. Lefty and Righty are probably eager for the power boost, anyways.
+
+I am slightly concerned (only slightly) about my lack of balance otherwise. The enhancements from my Equipment make me seem more balanced than I am. But 25 of 48 of my total Willpower seems a little too high. And even Dexterity is being propped up by the power of my dainty denim shorts!
+
+I should start to put some more Stat points towards those attributes too, I think. It’s the last thought that crosses my mind before exhaustion finally takes me, and I doze off without even bothering to close the System window in my interface.
+
+When I wake up the next morning, my [Aura Sense] is overwhelmed by the feeling of doom and death.
+
+“Wh-what the hell is going on?” I stammer, still groggy and stiff from a night on the ground near the campfire. I rub the sleep from my eyes, only to look up and see a large shadow on the horizon.
+
+I realize the others are all staring in the same direction I am… The source of whatever is sending my [Aura Sense] into a flight-or-fight panic.
+
+“That, Joe,” says Walter with a sigh. I hear him stand to his feet; old bones rattling around. “Is one of the Guardians we were talking about?”

@@ -1,0 +1,223 @@
+Chapter 54
+
+The Pack
+
+I enter my Spells interface prompt unfolds across my vision, slick and smooth lines of neat font scroll across the windows.
+
+[TRAIT: Flexible Casting.]
+
+[Description: The User has the ability to modify the nature of their spellcraft.]
+
+[You have 1 Modified Spellcasting available. Use Modified Spellcasting?]
+
+I mentally select ‘Yes’ and am greeting by a haptic tingling as the System recognizes my selection. It’s immediately followed by a soft ping!
+
+Please select one Spell to see available options for Modified Spellcasting. Please note that Spell selection is final. Modified Spellcasting will grant the User with enhanced or unique modes of crafting the selected Spell. However, the current base form of the Spell will remain available as the default option when casting the selected Spell.
+
+[Choose Spell:]
+
+The list of my available Spells unfurls as a long System window floating in front of my nose.
+
+I have to select one Spell. And I don’t even get to see the specific modifications available to a Spell until after I choose, so I can’t toggle between Spells weighing my options. That sucks, I think. It puts too much emphasis on chance and luck, and I hate that. Do I select one of my subpar Spells—like the Light cantrip—and hope for an option that turns it into something absolutely badass? Or do I play it safe and select one of my more powerful Spells, and land something that gives it a further boost, or at the very least more utility?
+
+I scroll through my Spell list. It’s not huge—yet. Still, I have plenty of options compared to back when I used that enhancement potion to turn a simple cantrip into an offensive powerhouse. Let’s hope I have half as much luck on this go around.
+
+Force Blast stands out as an interesting option. It’s really growing on me, and using it makes me feel like an awesome shonen protagonist. But the thing is... I'm still learning the damn thing. Half the time I use it, it’s solely to supe up Jelly Boy’s Juggling Skill. Enhancing it now feels like trying to install a turbocharger on a car I barely know how to drive.
+
+I hover over Wizard’s Fist. Now that is a different story.
+
+It’s my bread and butter. My morning coffee and late-night snack. I’ve used it in almost every fight. It’s versatile. It scales. It punches things in the face. What’s not to love?
+
+I briefly hover over my other Spells, but ultimately come back to old tried-and-true.
+
+I select it.
+
+Ding!
+
+Please select how you would like to use your available Modified Spellcasting point:
+
+OPTION 1: [Multiplicity]
+
+[Description: You are capable of casting this Spell with increased output, generating a near infinite amount of spectral fists of the Supreme Wizard King! For a small amount of Stamina, you may produce an additional Wizard’s Fist upon casting this Spell. The power of each fist created using the Spell when modified in this fashion will be proportionally weaker pending how many fists you choose to create. Having control over a high number of fists will require enhanced Willpower and Intelligence.]
+
+If you select this option, you will learn the Spell ‘Raining Knuckles.’
+
+[SPELL: Raining Knuckles]
+
+Raining Knuckles (Evocation Spell, Level 2)
+
+Casting Time: None
+
+Stamina Cost: 120 Points
+
+Range: 315 Feet
+
+Duration: Instant
+
+Description: My fists shall black out the sun! You summon one hundred spectral fists that appear in the sky within range. The fists will rain down on an area, inflicting non-elemental force damage over the entire radius of the spell. Each fist will be a fraction as powerful as the fist summoned when casting Wizard’s Fist and will take the single action of balling into a fist and descending towards the earth with it’s full strength. The fists will dissolve shortly after making contact with objects below.
+
+Well, that certainly seems awesome! It dawns on me that this is how my Class gains its Spells through natural progression. As I gain different ways of modifying my casting, it seems that I unlock the ability to learn a new Spell that utilizes the new functionality. Very interesting.
+
+I move on to my next option.
+
+OPTION 2: [Sniper]
+
+[Description: You are capable of slinging this Spell great distances and with supernatural accuracy. For a small amount of Stamina, you can summon your spectral fists far beyond the typical radius, tripling the Spell’s usual range.]
+
+If you select this option, you will learn the Spell ‘Poke.’
+
+[SPELL: Poke]
+
+Poke (Evocation Spell, Level 2)
+
+Casting Time: 10 seconds
+
+Stamina Cost: 80 Points
+
+Range: 630 Feet
+
+Duration: Instant
+
+Description: Call your shot! You summon a spectral hand that flies at a specified target of your choice. Instead of being in the shape of a fist, the hand will have its index finger extended. The poke from this finger will deal increased damage the farther it travels between you and your target. If the hand’s finger strikes the exact point you were targeting, the spectral hand’s impact will result in critical damage and will inflict the target with the stunned condition.
+
+I can’t tell if this is a joke Spell conjured by the System, or if burning that much Stamina for the chance to land a critical hit and stun an enemy was worth it. Could I choose an easy point on a target in close range, ignoring the fact that the damage, even if a critical hit, would be negligible, just to have a handy stun spell?
+
+That’s definitely an option.
+
+I move on to the last of the three windows that were presented to me.
+
+OPTION 3: [Mirror Image]
+
+[Description: You can project aspects of yourself onto your Wizard’s Fist. When casting the modified version of the Spell, Wizard’s Fist will be imbued with the mirrored image of certain characteristics and aspects of you, the caster. Note, if multiple aspects are available to the Spell, the characteristics mirrored using this feature will be randomly selected.]
+
+That has to be the most vague description I have ever read in all my life. What the hell does it mean when it says ‘aspects’? And what does it mean when it says my Wizard’s Fist will mirror those aspects?
+
+I have no fucking clue.
+
+If you select this option, you will learn the Spell ‘Carry.’
+
+[SPELL: Carry]
+
+Carry (Transmutation Spell, Level 2)
+
+Casting Time: Instant
+
+Stamina Cost: 90 Points
+
+Range: 40 feet
+
+Duration: 1 minute
+
+Description: This Spell may only target one of your conjured Wizard’s Fists. When transmuted with this Spell, a Wizard’s Fist is capable of being targeted by any other Spell. When successfully hit with a Spell intentionally targeting the Fist, the Fist will become a ‘carrier’ of the Spell for the duration of this Spell. When your Wizard’s Fist lands a strike on a target while being the carrier of a Spell, it will transmute the Spell onto the target.
+
+Well then, this was a particularly interesting option. The description still left me with dozens of questions. Like what did ‘transmuting’ a Spell onto a target even mean? How would certain Spells play out? If my spectral hand became the carrier for a lightning bolt spell, and then hit its target, would the target then be struck by lightning? Or would the result be an electrified punch? And how would this Spell interact with Clyde’s debuff Spells?
+
+God, I hate making decisions.
+
+I read through each description one more time. Then, after a deep, steadying breath, I make my decision with a mental command.
+
+You have selected ‘Multiplicity.’
+
+You have unlocked the ability to cast Wizard’s Fist with the Multiplicity Modification!
+
+You have learned the Spell ‘Raining Knuckles’!
+
+I hope this was the right decision, I think. A small, blinking ribbon catches my eye as I notice an unread System notification in the bottom of my interface. I open the notification.
+
+[2 Stat Points Currently Unallocated. Assign Stat Points?]
+
+Oh, right. I never assigned by floating Stat Points from my level up. The natural Stat growth continues to keep my Strength score leagues ahead of my other Stats, including Constitution, which prevents my Strength from tearing my body to shreds. I’ve been trying to keep that in balance while also rounding out some of my other Stats. Like Willpower. Which I learned back in La Galcia is what helps resist certain mental spell effects, including disabling spellcasting.
+
+I drop both of the points into Constitution before pulling up my Stat window to get a snapshot of how much I’ve progressed since we departed the City.
+
+PHYSICAL STATISTICS:
+
+Strength: 34
+
+Dexterity: 17
+
+Constitution: 22
+
+MAGICAL STATISTICS:
+
+Intelligence: 3
+
+Willpower: 17
+
+Spirit: 1
+
+I can’t help but smile at seeing how much my Stats have climbed since making the decision to be more active in exploring the Gates, and participating in this Game. I wonder how much I can squat now with a Strength score this high? One thing was for certain: I was going to need to find a different gym when we got back.
+
+POV: Illrune Abascal, Younger Son of the Abascal Crime Family and Hunter of Outworlders
+
+Illrune Abascal dragged himself up another cursed ridge as he and his tracking party hiked up Mount Alkazab—a pack of wolves following the scent of their outworlder prey. Each step was a testament to his declining patience and sorely abused calves. He was not built for such a life, but there was no way in the Halls of Damnation that he would admit as much out loud. The mountain seemed to stretch endlessly upward, an ancient spine of stone and spite that wanted nothing more than to grind him into pulp and spit his bones into the mist below.
+
+He was already sweating through his cloak, the fabric clinging to his back like a second, increasingly damp skin. Grit stuck to his face, and every breath burned as if the air had been replaced with powdered glass. And still, the trail led upward.
+
+“They’re going all the way up this damned mountain?” he snapped, more to the wind than to anyone in particular. He spat to the side and wiped his mouth with the back of a gloved hand. “What the hell could they possibly want up here?”
+
+There was no answer, only the sound of loose scree tumbling underfoot and the rhythmic wheeze of Pirphal climbing behind him. The tracker mage hauled himself onto the ledge like a man barely clinging to life, his rotund frame trembling from the exertion. Both his palms glowed with a faint golden shimmer—the active residue of his divination spell.
+
+Pirphal had earned his coin. Illrune would give him that. It had taken a day and a half and more magical resources than Illrune liked to think about, but the tracker had finally pierced whatever interference had been cloaking the outworlder and his companions. Someone in the human’s party had magic potent enough to keep them hidden from standard scrying methods, which spoke of experience. Despite his appearance, that human must be quite the mage. Or, at the very least, have more than mere parlor tricks at his disposal.
+
+But the human had slipped up, or gotten lazy. Eventually, those attempting to flee always did. Pirphal was able to pinpoint his location.
+
+Mount Alkazab. That’s where the trail had led them. Straight to the peak, apparently.
+
+And now here he was, scabbing his knees on rock and trying not to fall over dead from spite.
+
+“Maybe your little outworlder’s off to find himself a pet Storm Dragon,” Dain said, voice light and amused.
+
+Illrune clenched his jaw.
+
+He hadn’t wanted Dain here. Not for one second. The ever-smiling executioner in silk and quiet menace usually wasn’t seen this far from his father’s side. Dain hadn’t asked to come. He’d simply arrived at the city gate when Illrune and the others were preparing to depart. He made some joke about being bored, and reminded Illrune—gently, with that infuriating smile—that family missions carried expectations.
+
+And consequences. There are always consequences when the Abascals are involved. Like a younger son who bit off more than he could chew and ended up empty-handed falling off the side of Mount Alkazab in a tragic accident during his shameful trek home.
+
+Illrune kept climbing, saying nothing. Dain, of course, looked immaculate. Not a speck of dust on his robes, not a single drop of sweat. He didn’t even look like he was walking so much as gliding up the mountain. The man probably thought the whole thing was a game.
+
+Illrune wasn’t so naïve. Dain’s presence was definitely a message. A warning..
+
+“I don’t care what the human wants,” Illrune muttered under his breath, eyes fixed on the path ahead. “I’ll find him. I’ll bring him back. And Master Greed will see that I get it done.”
+
+They reached a small plateau just as the trees began to thin, the air sharper now with the faint scent of ozone. Pirphal staggered to a halt beside Illrune, his sunken eyes wide and glowing faintly as he focused on the spell’s lingering traces.
+
+Behind him trudged Aimon, the brute moving with all the grace of a drunken troll dragging a log through gravel. His massive metal club clanked with every step, and he grunted every few minutes just to remind the world that breathing was hard and annoying.
+
+Fylson, by contrast, shuffled onto the plateau, silently clinging to Illrune’s side like a scared lapdog. The second mage was mostly robes, nerves, and the distinct odor of dried herbs from his potion-crafting hobby. Despite that hobby, he was one of the better combat mages Illrune knew.
+
+Pirphal’s eyes shimmered faintly with the last threads of scrying magic, glowing like distant stars peeking through the mist.
+
+Fylson croaked, tripping over his own feet. “What was that?” he said, eyes practically bulging out of his skull as he looked toward Dain. “Storm Dragons?”
+
+“Oh, yes,” Dain said, eyes twinkling. “They nest up here. Build their cozy little homes right near the peak. Great sweeping nests. You’ll smell the thunder if you get close, like the air before a downpour. Right before the lightning turns you into a memory. Truly magnificent, I’ve heard.”
+
+Fylson’s face drained of color. “You’re serious?”
+
+Dain shrugged. “Maybe. Maybe not. But if that little human rat is heading straight into a dragon’s den, we might as well let the beasties clean up our problem for us. Saves us the trouble. Unless, of course, you’re terribly attached to the idea of dragging his charred corpse back to Greed.”
+
+Fylson muttered something that sounded suspiciously like a prayer and tried not to look at the sky.
+
+“I would prefer the outworlder alive,” said Illrune.
+
+They kept moving, the terrain shifting from loose gravel to slick, moss-covered stone. That’s when Illrune spotted it.
+
+A smear of glistening blue slime clung to the trunk of a gnarled pine tree, bubbling slightly in the cold air like it hadn’t gotten the memo that it should’ve dried out by now.
+
+Illrune scowled and gestured to it. “Human’s pet slime,” he said. “Most likely. For a guy who went dark for over a day, he’s been absolute beetle shit at hiding his trail since then.”
+
+Pirphal stepped up, muttering under his breath as his eyes flared a brighter gold, pupils dilating into vertical slits. The air around him shimmered slightly—scrying magic flexing into focus.
+
+A moment passed.
+
+The glow faded.
+
+“No, boss,” Pirphal said, his voice tight. “This residue’s fresh. Er, well, fresher. Not from the human’s slime, if they’re still traveling together that is. It doesn’t match the essence trail we’ve been following either—nothing like the residue you gathered from that alley back in the city.”
+
+Dain stepped forward, crouching slightly and examining the ooze with a tilted head, like a cat watching a candle flame. “And if the reports were accurate, the slime with the human was what— This big?” He made an approximate measurement using his two hands. “No way this much ooze came from it. Either he’s got more than one now... or that is the fastest growing slime on this continent.”
+
+Illrune exhaled through his nose. His breath steamed in the cold air. “Coincidence,” he said flatly. “We stick to the mission. The human’s up ahead, not that far now. Maybe two days ahead of us. Whatever this is, it’s not our problem unless it steps in our path.”
+
+Dain straightened, brushing invisible dust from his immaculate sleeve. “Of course. Who doesn’t love a good surprise.”
+
+They pressed onward.

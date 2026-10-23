@@ -1,0 +1,171 @@
+Chapter 58
+
+The Nest, Part II.2 (Cradle Robbers, Part 2 of 2)
+
+I frantically pull up my Menu interface, vision swimming. Plasma’s still sizzling in the air, a metallic stink of ozone and cooked meat clinging to my tongue and making my stomach lurch. I select ‘See Ally Information,’ summoning a summary snapshot of Jelly Boy’s status.
+
+Name: Jelly Boy
+
+Race: Blue Slime (Ooze)
+
+Discipline: Harvester
+
+Class: Arcane Juggler
+
+Level: 12
+
+Health Points (HP): 150 [Current: 2]
+
+Two, I think, relieved. Not zero. He’s not dead and shouldn’t die. With even two points of Health, he’ll regenerate. Sure, the regeneration will make tectonic plates look impatient, but any regeneration is nice. And it doesn’t look like his Health is dropping any further. I could kiss that goddamn glob. If he had lips. Or a mouth. Or anything that wasn’t basically ectoplasmic soup right now. Thank our luck stars.
+
+The sliver of hope in my heart is stamped out when a flashing red light nervously pulls my attention to the bottom corner of my HUD. I close out of Jelly Boy’s status screen and the bottom of my stomach craters as I watch the last few points of Veronica’s Health bar blink out.
+
+[Veronica – 0% (0/425)]
+
+Now that... That was definitely not good. Of the two who had a front-row seat to dragon lightning right to the face, Veronica’s the priority.
+
+I activate [Speed Boost]. A burst of adrenaline-enhanced magic floods my veins and my legs explode into motion. My feet are moving so fast the ground between me and Veronica looks like an abstract smear of obsidian. My lungs scream as I push my enhanced speed to its limit. My calves feel like they’re being peeled with a cheese grater. It doesn’t matter.
+
+I keep my eyes trained on Veronica. She’s not moving.
+
+“Veronica!” I yell, sliding the last few feet and kicking up Storm Essence in large, billowing clouds as I almost go head over foot.
+
+Veronica is a bleak portrait.
+
+Her chest plate is scorched block, the edges melted and cracked. Her hair’s stuck to her face with blood and sweat. The smell of burnt flesh punches my nostrils and I don’t want to know what she looks like under her ruined armor. It’s like she was turned into a human hot pocket. I see painfully red burned skin snaking past her collar bone and up her neck. Her eyes are open, flittering. Her breathing is shaky.
+
+Her hammer’s about ten feet away. The fingers of her now-empty hand switch sporadically and uselessly at her side.
+
+“Veronica!” I exclaim again.
+
+This time I’m greeted by a groan.
+
+“Jesus Christ.” I spit. “Stay with me.”
+
+“Joe…” Her voice is fried gravel.
+
+Somewhere behind me, I register the roar of the wyrmling and more gunfire.
+
+I have four healing potions in my Inventory and frantically withdraw two of them. I set one aside and gently place a hand behind Veronica’s head, pulling her face upwards so I can give her the potion. I pour the potion into her mouth and hope she is able to swallow.
+
+[Veronica – 1% (4/425)]
+
+[Veronica – 0% (0/425)]
+
+God dammit! The potion can’t keep up with the damage she’s still sustaining. I give her the second potion.
+
+[Veronica – 2% (8/425)]
+
+Her Health doesn’t dip this time, but it’s still too low to offer her any real regenerative abilities.
+
+I slam the third potion home like it owes me money. Tilt Veronica’s head, dump the shimmering sickly red sludge down her throat, and pray to every god, demigod, sub-deity, and unpaid intern running the System that it works.
+
+[Veronica – 20% (85/425)]
+
+Yes. Yes!
+
+Then the fourth one. My last potion. Maybe it’s stupid to burn through all of my healing stock, but I wasn’t going to lose one of my party members.
+
+“C’mon, Iron Maiden,” I whisper.
+
+I pop the cork, pour—
+
+[Veronica – 45% (200/425)]
+
+I watch the burns on her neck gradually recede, fading to a puffy pink scar. I breathe a shallow sigh of relief.
+
+System Message: You have inflicted [Veronica] with the [Poison (Potion Sickness)] Status.
+
+[Poison (Potion Sickness)]
+
+[Description: The Target has consumed more potions than their body is able to naturally process resulting in a severe poisoning. Target will sustain damage if consuming potions and all healing effects targeting the Target will have reduced potency. Poison effect lasts for 2 hours.]
+
+“What?!” I bark at no one. “She’s got what now?!”
+
+Potion Sickness? That’s a thing?! That’s ridiculous! That’s like getting alcohol poisoning from a health smoothie!
+
+Veronica coughs, blinking rapidly. Her body jolts once. She’s awake, at least. But her bar plateaus, the regeneration stalling out. She’s poisoned, and I did it. Joseph Sullivan: Hero of the fucking day.
+
+“JOSEPH! WATCH OUT!” Clyde’s voice tears across the battlefield like a klaxon made of raw fear.
+
+I snap up just in time to see a shadow stretch over me, claws wide, jaws sparking. The dragon’s diving towards me. Lefty’s got one of its horns in a rear naked choke, Righty’s twisting its wing at a completely medically inadvisable angle, but the wyrmling is blind to their attempts to hold it back.
+
+That’s when I realize something. My potion wore off. The invisibility timer must’ve burned out while I was doing my very clumsy attempt playing the part of combat medic.
+
+The wyrmling swipes down, slicing through the air with its razor-sharp claws. The world goes white with pain.
+
+Rrrriiippp!
+
+A spray of crimson arcs through the air as the dragon’s claws rupture my pectoral muscles, tearing through me from right below my collar bone to my navel. I’m thrown to the ground like a rag doll, shreds of my bloody tee shirt sloughing off of me.
+
+My Health bar takes a nosedive as pain explodes through my body. But it’s not fatal. Not even close. I blink away the pain as I already feel my body reknitting itself together as though by the hand of some invisible sewing machine. Shredded muscle is rebuilt, and my ribs are pieced back together.
+
+And the dragon isn’t done yet. It’s reptilian eyes burn with rage, set on the still immobile Veronica. I push myself up and activate my Bracelet of Reprise, triggering the [Speed Boost] I had stored in within the enchanted equipment in preparation for this battle. It had been meant for a speedy escape from the nest, but that all seemed like an afterthought in this moment.
+
+[Speed Boost] triggers and the world slows down for a single breath as I push my body using all of the System-enhanced speed I have to clear the two steps between me and Veronica. Before I know it, I’m between the dragon and Veronica again just as the wyrmling brings its claws down in another swipe.
+
+My body registers the fresh wave of pain as its claws dig into my skin, tearing apart the flesh anew in another spray of blood.
+
+Health: 43/130
+
+This time, I don’t budge. I feel that all-too-familiar pulsing sensation in my mind, accompanied by the gentle ping.
+
+Ability Triggered: Hold Your Ground
+
+I taste blood and spite in my mouth, and I grin through it. The duration of my Wizard’s Fist spells time out at that moment, Lefty and Righty disappearing in two giant puffs of silvery mist.
+
+The dragon rears back, snorting out sparks of static that curl around its lips like hungry snakes. Is it gearing up for another breath attack? How long did the journal say the Storm Dragons needed to recharge their breath weapon? Wasn’t it longer for infant dragons? I have no idea. My head is swimming and I don’t have time for the effort of recalling facts and figures.
+
+Clyde screams something before a couple more shots of his pistol ring out.
+
+I see Veronica and Jelly Boy out of the corner of my eye. Both are still in rough shape. Holy shit. The sight of them pisses me off. I snarl at the wyrmling, casting Wizard’s Fist twice more. Lefty and Righty are reconjured at my sides as the dragon brings down its fanged jaw.
+
+The wyrmling lunges, maw wide, serrated teeth lined in concentric rows like it bought them in bulk from Hell’s dentist. Lefty and Righty dive in, spectral fists glowing with ethereal blue fire, gripping the dragon’s snout like they’re trying to pry open a bear trap with their bare hands.
+
+My body moves on its own. I throw myself into the mess without thinking. Let’s see if my improved Constitution is enough to keep up now!
+
+I land an uppercut to the thing’s chin—scales like textured steel, but my knuckles land solid. Crack! Something gives. Probably not my fist, but with the adrenaline running through my veins it’s hard to tell. That’s a win, I guess. I follow-up with a left hook, and the dragon’s head whips sideways. Its hot breath crackles in the air.
+
+That’s when I notice it.
+
+A sickly, pulsing light radiating from inside the wyrmling’s gullet. It shines through the soft flesh of its underbelly like a lantern shoved inside a water balloon. Every instinct I have screams at me. It’s gearing up for another breath attack.
+
+And I have no time.
+
+I clench my teeth and strike the pose for Mana (Force) Blast. I also trigger [No Pain, No Gain], overclocking the spell as much as I can afford.
+
+Health: 30/130
+
+Stamina: 125/265
+
+My veins feel like they’re full of battery acid. A cerulean energy crackles along my arms, burning bright, then brighter, then too bright. My forearms balloon with power, muscles screaming like they’re trying to rip themselves off of my bones.
+
+I cast Mana (Force) Blast, pushing both my fists in front of me and unleashing the Spell with everything I have. A beam of pure silver and blue force energy erupts from my hands. It slams into the dragon’s throat as it rears up again, a ball of plasma forming in its gullet.
+
+BOOM.
+
+The neck bulges grotesquely. Scales split like microwaved sausages. And then the lightning breath doesn’t come out the front of its mouth—it detonates inside its own damn throat. The flesh ruptures. The breath weapon explodes backward in the most beautifully awful way. Three separate beams of plasma fly from open wounds in the monster’s neck.
+
+The wyrmling’s head separates from its neck with a wet, crunching pop. It flails midair for half a second, confused and bleeding neon tar. Then it drops. Black-green blood rains down like a pissed-off god’s confetti. It splashes onto my face, sizzling on contact, burning like pepper spray mixed with battery fluid. I stagger back, wiping my eyes, but grinning like an idiot anyway.
+
+“I think,” I say, chest heaving, “that may have been a crit.”
+
+Behind me, Veronica groans. Jelly Boy is a fully-formed blob once again. He lets out a faint, gurgling cheer. Clyde whistles low and slow. Then, he laughs. His laughter is soaked with disbelief.
+
+And the wyrmling’s twitching body slumps into the nest, the Storm Essence shards splintering beneath its weight like broken glass.
+
+We did it.
+
+Holy shit.
+
+We actually did it.
+
+“Let’s extract its core and get out of here as quickly as possible,” Clyde says.
+
+I turn to respond to him, but that’s when a large shadow crosses over the nesting area. An angry, pained roar fills the air. Oh, fuck, I think, glancing at the timer in my interface, which tells me there’s still time before the mother Storm Dragon was supposed to return.
+
+But that doesn’t matter. Not one fucking bit.
+
+Another roar splits the air like a thunderclap.
+
+Mother Dragon had returned early.
