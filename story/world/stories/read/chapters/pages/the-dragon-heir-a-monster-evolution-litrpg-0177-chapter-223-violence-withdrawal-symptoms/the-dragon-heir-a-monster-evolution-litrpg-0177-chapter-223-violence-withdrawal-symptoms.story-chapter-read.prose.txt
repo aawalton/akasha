@@ -1,0 +1,349 @@
+Status
+
+Name: JadeLevel: 80 (+)Species: Quantum Arbiter (Draconis) (V)
+
+Alignment: Judgement (Lightning), Freedom (Dark)
+
+Attributes
+
+Strength: 2584Durability: 1676Intelligence: 4209Willpower: 1671
+
+Resources
+
+Mana Points (MP): 0/1365Dark Mana (Wraith Heart): 0/100Quantum Mana (Quantum Node): 0/200Divinity (Divine Heart): 6/100Stamina Points (SP): 2981/2981
+
+Abilities
+
+Mana Devourer
+
+Distortion Cloak
+
+Reality Gremlin Paradox
+
+Quantum Attunement
+
+Divine Infusion
+
+Alignment Abilities (2/5)
+
+Thunder Verdict
+
+Court of Quantum Edicts
+
+Species Skills
+
+Resonance Roar — Level 1 (II)
+
+Reinforced Scales — Level 10 (II)(+)
+
+Advanced Flight — Level 10 (II)(+)
+
+Rich Respiration — Level 10 (II)(+)
+
+Hidden Resonator — Level 13 (III)
+
+Adaptive Grip — Level 10 (II)(+)
+
+Flame Jet — Level 5 (III)
+
+Mana Weaving — Level 15 (III)(+)
+
+Equilibrium Trance — Level 12 (III)
+
+Constrict — Level 5 (I)(+)
+
+Dimensional Aura — Level 12 (III)
+
+Resonance Lock — Level 5 (II)
+
+Danger Prognosis — Level 6 (II)
+
+Observer's Reversal — Level 7 (II)
+
+Exclusive Skills
+
+Resonance Transformation — Level 5 (II)
+
+Advanced Quantum Affinity — Level 9 (II)
+
+Quantum Spells (2/8)
+
+Observer's Mark
+
+Observer's Suggestion
+
+Techniques (1/2)
+
+Phantom Dragon Dance — Level 5 (I)(+)
+
+Mutations
+
+Eyes• Focusing Lenses• Peripheral Optimization (III)
+
+Claws• Claw Flexibility• Razor-Edge Claws (III)
+
+Scales• Colour Adaptation• Shock-Absorbent Scales (III)
+
+Wings• Hollow Bones• Mana-Infused Fibers (III)
+
+Legs• Joint Flexibility• Mana-Responsive Cartilage (III)
+
+Fire Gland• Mana Reservoir• Mana Conservation (III)
+
+Macro-Trophic Sac• Stamina Surge Reservoir• Toxicity Neutralizer• Hyper-Efficient Digestion (IV)
+
+Mana Conduit Vasculature• Micro-Mana Control• Mana Conduit Resilience (III)
+
+Dimensional Lamina• Resonance-Stabilizing Membranes• Phase Microfilament Clusters (III)
+
+Dimensional Convergence Tendrils• Reactive Tendrils• Refined Neural Pathways (III)
+
+Quantum Nexus• Stabilized Persistence• Manifold Expansion• Threaded Control• Quantum Displacement Buffer• Quantum Transposition (VI)
+
+Resources
+
+Skill Points: 148Morphogens: 843
+
+My eyes nearly crossed just looking at it.
+
+The notification log was an absolute avalanche. Kill after kill after kill stretched back through every monster I'd hunted in this trial, every core I'd devoured, and every unfortunate wraith that had gotten between me and a meal. There were so many entries that scrolling through all of them would have taken several minutes.
+
+I gave it a quick scan, just enough to confirm the numbers were suitably ridiculous, then dismissed the entire batch with a mental flick. I could admire the carnage later. Right now, I had bigger things to obsess over.
+
+I pulled up my status screen and grinned.
+
+Level 80.
+
+I'd already known I was there. It was hard not to when every level-up felt like my entire body had been plugged into a lightning storm. Even so, seeing the number on my status screen made it feel real in a way that simply feeling stronger never had.
+
+My mana had skyrocketed too. That wasn't exactly surprising. I'd spent the trial shoveling monster cores down my throat like festival snacks. Even so, the total had climbed so high that I stopped to make sure I wasn't reading it wrong.
+
+And Thalador above, my stats.
+
+Intelligence had finally broken past four thousand. The rest had risen right alongside it, each one climbing in that beautiful curve that came from relentlessly hunting anything unfortunate enough to cross my path. I'd always known I was getting stronger, but seeing everything neatly arranged into cold, hard numbers scratched an itch deep inside my brain.
+
+Then I scrolled down to my skills.
+
+Most of them had reached the ceiling of their current tier. A glowing (+) sat beside their levels, patiently informing me that they had done all they could until I achieved another breakthrough.
+
+The mutations section, though... I frowned.
+
+After all that hellish pain, after having my eyes flossed with molten glass and my heart rebuilt one agonizing layer at a time, I'd expected... more. The physical changes were obvious enough. I had extra wings. My body had stretched into a more serpentine shape. My proportions had shifted in subtle but unmistakable ways.
+
+The mutation list itself, though, looked almost unchanged.
+
+Don't look so disappointed.
+
+My doppelganger's voice drifted into my mind.
+
+What you just underwent wasn't a true evolution, like I told you. Think of it as patching a shattered flask. You sealed the leaks and reinforced the cracks, but you never replaced the flask itself.
+
+I rolled that around in my head.
+
+So the mutations I got are just... patches?
+
+Essentially. You forced your body to accept divinity through damaged pathways that were never meant to carry it in the first place. The result is functional, but it isn't stable. At the moment, you're being held together by whatever repairs the System could manage, along with a healthy amount of your own will and spite.
+
+A brief pause followed.
+
+Well. Mostly spite.
+
+I snorted.
+
+Then how do I rebuild the flask?
+
+I already suspected the answer before she spoke.
+
+Evolution.
+
+Just like I thought.
+
+Each evolution reconstructs you from the ground up. Your body is fundamentally rewritten. It sheds what it was and builds something better. When you evolve next, your form will finally align with what you were always meant to become. The divinity you're carrying now will be integrated properly instead of being forced into the cracks.
+
+So evolution was still the answer. It always had been.
+
+Correct. You're beginning to understand. Now, show me your new ability. The one that should have manifested once your divinity pathways stabilized.
+
+I pulled it up.
+
+Divine Infusion
+
+Unlocks the Divine Resource Layer.
+
+Establishes a reversible conversion pathway between Mana and Divinity.
+
+Conversion Rate: 1000 Mana ↔ 1 Divinity
+
+Divinity functions as a superior energy resource and may be substituted for Mana in the activation cost of any compatible spell, skill, technique, movement art, or physical enhancement.
+
+When Divinity is substituted for Mana, the affected ability undergoes Divine Infusion, elevating it to a higher execution tier. Infused abilities exhibit substantially increased output, stability, penetration, efficiency, and conceptual authority while becoming significantly more resistant to disruption, suppression, or degradation by lower-order energies.
+
+The conversion process is lossless and may be performed at will, subject to available resource capacity.
+
+Certain abilities, mutations, species evolutions, and Authority-class phenomena may possess Divinity Requirements, preventing activation through Mana alone.
+
+My eyes widened.
+
+Then they widened a bit more.
+
+I'd known divinity was powerful. Everything Dorrusk had told me about it, along with the tiny inconvenience of it completely rebuilding my body from the inside out, had made that abundantly clear.
+
+This, however, was something else entirely.
+
+I didn't understand every word the System had thrown at me. Even so, I understood enough.
+
+Divinity was more than just stronger mana as it seemed to be operating on a higher layer.
+
+The details were fuzzy, but the implication wasn't. If I fueled one of my abilities with divinity instead of mana, it would hit harder and it would function on an entirely different tier, becoming far more difficult for ordinary mana or similar energies to interfere with, suppress, or unravel.
+
+And "ordinary," apparently, meant almost everything else.
+
+The conversion rate was eye-wateringly expensive. One thousand mana for a single point of divinity.
+
+Even so...
+
+What would a divinely infused Quantum Explosion look like?
+
+...
+
+Oh. Terrorist was going to be absolutely insufferable about this.
+
+The last paragraph caught my attention even more. Certain abilities, mutations, species evolutions, and Authority-class phenomena.
+
+That was an entirely new category.
+
+Whatever an Authority-class phenomenon actually was, I clearly wasn't supposed to have one yet. The fact that the System mentioned it at all meant there was another layer of progression waiting somewhere above everything I'd seen so far.
+
+I opened my resource panel. A new reservoir sat beside my mana pool, glowing with an iridescent radiance unlike any energy I'd seen before.
+
+Divinity (Divine Heart): 6/100
+
+I had 6 out of a hundred.
+
+That sounded underwhelming until I remembered the conversion rate.
+
+One hundred points of divinity represented the equivalent of one hundred thousand mana. I stared at the number for a long moment. That was almost a hundred times my current mana capacity. The sheer scale of it was so absurd that I nearly laughed.
+
+Don't get too carried away. Look at your current reserves.
+
+I already did.
+
+But even stranger, my mana pool was completely empty.
+
+That was impossible. I'd noticed the zero earlier, but with my regeneration it should never have stayed there for long. Certainly not after all this time.
+
+Seemed like doppelganger was doing something.
+
+That's because I've been converting every scrap of mana you've regenerated into divinity while keeping your mana recovery skills running in the background. She explained. Your mana regeneration is substantial, but the conversion rate is intentionally punishing. A thousand-to-one is actually generous for a starting ratio. Divinity differs from person to person, and yours will only become more potent as you grow. This is simply the lowest conversion the System permits when a higher-order reality is translated into a lower one.
+
+I let that sink in.
+
+Six points of divinity meant I'd already burned through six thousand mana just to fill a tiny fraction of my new reserve. No wonder my mana pool had been sitting at zero.
+
+Divinity differs from mana in one important respect, she continued. Mana recovery can be improved through skills, environmental absorption, specialized techniques, and countless other methods. Divinity cannot. Once you expend it, recovering it is a slow and arduous process.
+
+She fell silent for a moment before continuing.
+
+At least, it is for you. Had you possessed your divinity from the beginning, had those mongrels not crippled you before you even hatched, you would never have needed to rely on lesser energies such as mana. Your entire power structure would have been built upon divinity from the outset. You would have begun your life at a vastly higher tier of power.
+
+There was bitterness in her voice.
+
+Still. Perhaps not all is bad. Even I can't predict what kind of options you'll get when you evolve this time. You've forced your body into something it was never supposed to be at this stage, mutated yourself halfway to what you should have been all along. The system will have to account for that. What it offers you might be... unusual.
+
+I understood. Even if divinity recovery was slow, even if I couldn't passively regenerate it the way I did mana, the strategic implications were enormous. I could theoretically enter any battle with my divinity pool full and my mana pool untouched, which effectively meant I had a hundred thousand extra mana points to play with, on top of my normal reserves. I would never run out of mana again. And on top of that, every single ability in my arsenal could be elevated with divinity into something far more potent than its base form.
+
+The description hadn't specified exactly how divinity would influence each ability. That would require practical testing and experimentation. Sort of trial-and-error that usually involved explosions and property damage. My grin widened. I couldn't wait.
+
+First things first, I thought, pulling up my skill list again. I should upgrade my skills—
+
+Stop.
+
+My doppelganger's voice cut me off.
+
+Save your skill points.
+
+I paused. Why?
+
+A beat of silence. When she spoke again, her tone was carefully neutral. Just trust me. You'll want them later.
+
+For what? I'd been sitting on a steadily growing pile of unused skill points for ages. Spending a handful of them wouldn't hurt, and upgrading my skills before whatever fight awaited us seemed like basic common sense.
+
+For later, she repeated, and this time there was a definite dodginess to it. There was this, vague, knowing deflection that reminded me uncomfortably of Lotte.
+
+You're being cryptic, I accused.
+
+I'm being strategic.
+
+That's not an answer.
+
+It's the one you're getting. Another pause, before she sighed and reluctantly added: The system currently classifies you as Monster-tier. That's going to change when you evolve. No monster— as in the classification— is capable of wielding divinity. The system will have to assign you a new designation. Your status screen might undergo some rather significant restructuring. So save your points. You'll understand why when it happens.
+
+She was keeping something from me. I could feel it in the careful way she phrased everything, the deliberate gaps she left in her explanation. It was exactly the kind of thing Lotte did when she knew more than she wanted to say, dangling just enough information to satisfy me without actually revealing anything useful. It was infuriating from Lotte. It was somehow even more infuriating from myself.
+
+Fine, I said, because I didn't have the energy to argue and because, annoyingly, her reasoning made a certain amount of sense. If my entire status system was about to get overhauled, spending points now might be wasteful. I could wait. I was curious what she thought was worth saving for.
+
+Good. She sounded relieved. In any case, we don't have much time. The seal is destabilizing. I've been holding it together from within, but altering its mechanisms has essentially lobotomized it. Sooner or later—
+
+Sooner or later it falls apart, I finished. How long?
+
+At the current rate of decay... a few hours. Maybe less. We should focus on recovering as much mana as possible and converting it to divinity while we still can.
+
+Shouldn’t I just evolve now then?
+
+Try it.
+
+I frowned at her tone but pulled up the evolution window anyway. It materialized with a familiar chime, then immediately flashed a warning.
+
+[WARNING: You are currently located in an alternate dimension. Evolution is possible, but the System cannot exert full control over the process. Safety protocols will be diminished. You will be vulnerable for the duration of evolution. Only proceed if you are in a secured location.]
+
+I stared at the screen with a deadpan expression. Of course I couldn't evolve yet. Why would anything ever be simple?
+
+But I didn't feel hopeless. Not this time. I had divinity in my veins. I had a plan. I had a very angry past self riding shotgun in my skull. And somewhere outside this cage, three demigods and a water bitch were about to find out what happened when you cornered a dragon who had nothing left to lose.
+
+Let's get to work, I thought. Recover everything we can. Convert it all.
+
+Finally, something we agree on.
+
+We joined our efforts. My mana recovery skills kicked into overdrive, [Core Stabilization], my passive regeneration, every scrap of efficiency I'd learned over months while my doppelganger handled the conversion process with mechanical precision. Mana flowed into my core, was compressed, refined, transmuted, and emerged as something denser and brighter and something that sang in my veins like molten moonlight.
+
+I paid close attention to how it felt. Mana had always been like this glowy, spicy air, like a current of warm electricity that bent to my will with ease. Divinity was different. It was like molten iridescent gold that glowed with a myriad of colours, shifting between hues I didn't have names for. It was heavier than mana, more present, but it followed my commands just as eagerly. Like a pup that had been waiting its whole life for someone to tell it where to go.
+
+I followed the sensations as my doppelganger moved it through our shared body, tracing the pathways she used, the techniques she must have refined over a thousand years of practice. I could feel it instinctively too, the knowledge was bleeding through our connection, her experience was slowly becoming my intuition. Slowly, our combined efforts pushed the divinity reserves higher. Ten points. Twenty. Thirty.
+
+We're at sixty-two, my doppelganger said finally. That's as much as we're going to get. The seal is about to give.
+
+How long?
+
+Two minutes. At most.
+
+I closed my eyes, or whatever passed for closing my eyes in this suspended golden hell, and let the reality of it settle over me. Two minutes until the cage broke. Two minutes until round two. Two minutes until I showed that fish bitch what happened when you didn't finish the job.
+
+I'm ready, I told her. The words came out steady.
+
+But she hesitated. I didn’t know I felt it but I did.
+
+What? I prompted. You don't think I can win?
+
+That's not my concern. A pause. Or a concern at all.
+
+Then what?
+
+The silence stretched. When she finally spoke, her voice was quieter than I'd ever heard it. Almost embarrassed.
+
+It's just... it's been a while for me. Since I last... Another pause. Then, with a venomous relish that made my own blood run a little hotter: Since I last gutted some mongrels who forgot their place in the pecking order. These pathetic, bottom-feeding, fish-fucking absolute WASTES of oxygen and semen. I want to feel their ribs splinter between my claws like cheap toothpicks. I want to rip those smug, self-satisfied grins clean off their skulls and wear them as a codpiece. I want to remind this rotting shithole of a world what happens when vermin get too comfortable, when they forget who's been eating at the top of the food chain since before their great-great-granddaddy was a gleam in a fish’s asshole. AND IT'S NOT THEM. IT WAS NEVER THEM. IT WILL NEVER FUCKING BE THEM—
+
+She caught herself and reined it in. When she spoke again, her composure had returned so completely that it was almost unsettling.
+
+It's not that I don't trust your abilities. It's that— if you'll allow it— I want to take control. Just for a bit.
+
+I… understood. Maybe more than she realized. I couldn't imagine what it must have been like for someone who'd once conquered an entire planet, who must have built an empire from the ashes of an apocalypse, to be reduced to a voice in someone else's head. Sitting in whatever void Lotte had stuck her in, just watching and waiting.
+
+And now she had a chance to stretch her claws again. To feel blood on her scales and terror in her prey's eyes. To remember what it felt like to be the Overlord.
+
+Part of me wanted to keep control. Those bastards had trapped me, sealed me, tried to hand me to the Water Leviathan like a wrapped gift. I wanted payback with my own claws. I'd earned it.
+
+But I was also genuinely curious. How did my past self fight? What tricks had she learned in a thousand years of conquest that I hadn't even imagined yet? This could be a learning experience.
+
+I shrugged mentally. Suit yourself.
+
+The laughter that echoed through our shared mindspace was not entirely sane.
