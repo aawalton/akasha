@@ -1,0 +1,41 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const guildlessKnight = {
+  id: "01a16898-a565-7469-a1d4-3b54c0939bf4",
+  type: "page-type/story-read",
+  slug: "guildless-knight",
+  author: "KPS_writes",
+  following: false,
+  unit: "unit/words",
+  title: "Guildless Knight ",
+  world: "world/guildless-knight",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "107146",
+      externalLink: "https://www.royalroad.com/fiction/107146/guildless-knight",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Urban Fantasy",
+    "Progression",
+    "Anti-Hero Lead",
+    "Comedy",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Attractive Lead",
+    "Dungeon Crawler",
+    "GameLit",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "Multiple Lead Characters",
+    "Strong Lead",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T11:49:56.708Z",
+  updatedAt: "2026-10-23T11:49:56.708Z",
+} as const satisfies StoryRead

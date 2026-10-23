@@ -1,0 +1,40 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const bloodstainedBladeGamelitSwordMc = {
+  id: "01a16898-a565-7d2b-b9a7-75753fdf9c89",
+  type: "page-type/story-read",
+  slug: "bloodstained-blade-gamelit-sword-mc",
+  author: "DWinchester",
+  following: false,
+  unit: "unit/words",
+  title: "Bloodstained Blade (Gamelit, Sword MC)",
+  world: "world/bloodstained-blade-gamelit-sword-mc",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "106967",
+      externalLink: "https://www.royalroad.com/fiction/106967/bloodstained-blade-gamelit-sword-mc",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Progression",
+    "Anti-Hero Lead",
+    "War and Military",
+    "Grimdark",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Mystery",
+    "GameLit",
+    "High Fantasy",
+    "Non-Human Lead",
+    "Strong Lead",
+    "Villainous Lead",
+  ],
+  publicationStatus: "completed",
+  readLater: true,
+  createdAt: "2026-10-23T11:49:56.708Z",
+  updatedAt: "2026-10-23T11:49:56.708Z",
+} as const satisfies StoryRead
