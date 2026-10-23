@@ -1,0 +1,229 @@
+“I don’t understand,” I say, frowning. “Why can I control our main class now?”
+
+“Isn’t that a good thing, though?” Allie asks.
+
+“Well, yes,” I concede. “I’m not complaining, but I don’t like it when the rules we’ve discovered change.”
+
+“Usually, that just means that you need to reconsider your previous assumptions,” Talla interjects. “Contradictions like that are the heart of innovation and progress. Consider the variables—has anything else changed since your last experiment?”
+
+“Woah!” Allie gasps. “You sound like a real scientist!”
+
+Talla smiles politely. “That’s because I am.”
+
+“Oh right. Sorry.”
+
+I scratch my head, trying to think of what might have changed. “We’ve mastered it? Or maybe it’s because we fused it with another class? I can’t remember if we’ve tested our assumptions since then.”
+
+“It’s stopped glitching out,” Maggie adds.
+
+Talla cocks her head. “What does that mean? I’m not sure how to interpret that word.”
+
+“Uh...” Allie hesitates. “Crud, you’re not gonna let us get away with not answering that, are you?”
+
+“Have I not earned your trust?”
+
+“You have! It’s just...”
+
+“She doesn’t know how to tell you that we experienced a number of unusual errors in the [World Engine] when we first arrived,” I finish for her. “Most of which were centered around our shared class.”
+
+“Ah, I can see why you’d be worried,” Talla says, nodding. “That would normally be extremely concerning. It would suggest that you’d recently been in direct contact with a demonic entity, but we already knew that.”
+
+I am absolutely not going to tell her that it was contact with the [Angel] where we first experienced the errors. Not yet, anyway. Thankfully, Allie and Maggie aren’t forthcoming about it either. Our conversations not being secret by default is going to take some getting used to.
+
+“Anyway,” Talla moves on, either not noticing or not remarking on my silence, “if it’s working properly now, that can only be a good thing. Can you check the fusion options?”
+
+“Let’s find out...”
+
+The original plan...honestly feels so far away that I’ve forgotten about it. We made so many assumptions back then that have since been invalidated. I almost feel silly for even making the plan in the first place.
+
+I’ll start with [Unified Wanderers] and [Pathfinder].
+
+[Tier 2 Converged Explorers]***
+
+Just one option again. Out of curiosity I try checking to see if the order matters, but this time it’s the same as other classes. Nothing left but to expand it, I guess.
+
+[Tier 2 Converged Explorers]***
+
+[Permanent] - This class cannot be removed.
+
+By your combined efforts, you have not only survived, but thrived within the dangers of a convergence point. Your experience gives you the means to better combine your skills to explore the new and unfamiliar.
+
+Skill - Convergent Minds: You can support multiple conscious minds in unison. Class progress and achievements are shared between each thoughtform sharing this class.
+
+Skill - Branching Paths: Gain the effect of one skill from a previously mastered class or one equipped by a thoughtform sharing this class. Can be changed at will.
+
+Skill - A Road Less Traveled: Your sense of direction is flawless, even within the distorted space of a convergence point. You can navigate short distances through latent space.
+
+Skill - Shared Burdens: Each thoughtform sharing this class hungers and tires independently. Eating and sleeping replenishes you all equally.
+
+Attribute bonuses: Resilience, Awareness, Ego, Will.
+
+Advancement: Explore and survive within convergence points.
+
+“Ah, hmm,” I say, frowning. “That all looked pretty good until the last part.”
+
+“Are you fricking kidding me?!” Allison complains. “Haven’t we had enough of that stupid place?”
+
+“What’s the matter?” Talla asks. “I can’t see what you’re seeing.”
+
+“The skills are powerful,” I sigh, “but it’s all based on convergence points and requires us to explore them to progress.”
+
+She winces. “Ouch. Yeah, that’s a common drawback to accelerated leveling,” Talla says. “You tend to get fewer options, and the mechanism puts a lot of weight on whatever conditions led to your swift progress in the first place.”
+
+“This is also the first time we’ve seen the class descriptions acknowledge the fact that we’re sharing the class,” Allie points out. “And even that we all have different ones.”
+
+“Interesting,” Talla notes. “I know some class theory professors who’d sell their horns for a chance to study you, but let’s stay focused. That advancement condition would essentially lock you into being a ranger, but there are worse fates. What about your other combination?”
+
+I’m quietly dreading this one. I don’t really have a good reason for it, aside from being worried about letting Maggie define our progression. I can’t deny that she ended up being more useful in the delve, though—as much as it pains me to admit it. She’s got the levels to show for it.
+
+[Tier 2 Incandescent Souls]***
+
+[Permanent] - This class cannot be removed.
+
+The power of multiple souls burns brightly within you, glowing embers waiting to be stoked into a furious conflagration that turns monsters and demons alike to ash.
+
+Skill - Inner Flames: Multiple souls glow within you. Each thoughtform sharing this class can project their senses through nearby flames.
+
+Skill - Pyrothaumaturgy: You can create and control flames. Up to one previously mastered skill can be combined with this to create unique spells.
+
+Skill - Burning Innervation: Dramatically increased Power and Ego at the cost of a commensurate increase in body temperature and exhaustion.
+
+Skill - Explosive Throw: You can throw objects and flames with explosive force. Your Ego is added to Power when using this skill.
+
+Attribute bonuses: Power, Resilience, Awareness, Ego.
+
+Advancement: Burn ever brighter.
+
+“That one!” Maggie shouts. “That one! That one! That one!”
+
+I sigh and shake my head, grumbling. “And here I thought we were done with vague advancement conditions.”
+
+“Maggie, are you just going to get excited about every single class that involves magic?” Allie asks.
+
+“Yes!” she responds, utterly unapologetic.
+
+Well, she knows what she wants, at least.
+
+“Why is there a throwing skill?” I ponder. “It seems so out of place.”
+
+Talla clears her throat. “Again, I have to remind you that I can’t see what you’re looking at.”
+
+“Sorry about that,” I apologize, taking a moment to summarize both classes for her.
+
+“I see,” Talla says, humming thoughtfully. “Well, the throwing skill is easy enough to explain. That’s a lingering domain from one of [Firecaster]’s parent classes.”
+
+Right—[Thrower]! I’d completely forgotten about that class. Maggie didn’t even have it for an hour before mastering it. I’m tempted to tell Talla about that just to see how she’ll react, given what she’s said about the rate of our progress, but maybe she’s had enough world-shaking revelations for one day.
+
+“I do have a few other concerns, though,” I say. “Unlike the first one, [Inner Flames] makes no mention of shared progress and achievements. Does that mean we can’t help each other level anymore?”
+
+“Not necessarily,” Talla argues. “The delving class had a stronger focus on connecting your other classes together. I...don’t have any precedent to compare it to, but skill descriptions are rarely comprehensive. It may just be that it’s not as relevant to the fire-based class.”
+
+“Maybe,” I concede. “What about the [Pyrothaumaturgy] skill? I’m not sure I like losing the effect of [The Beaten Path].”
+
+“Are you joking, Vi?” Maggie interjects. “It’s better in every single way! We still get access to all our old skills, but improved!”
+
+“I’m not sure how [Quick Sort] or [Foraging] would be improved by adding fire to them.”
+
+“Everything is improved by fire,” Maggie argues. “You just lack imagination.”
+
+“It is impressive that you’ve managed to get a thaumaturgy skill so early,” Talla adds. “I had a three-star class with [Basic Thaumaturgy], but that was the product of careful planning by my tutors and professors on top of being lucky enough to unlock an [Adept] class while I was still a little girl.”
+
+“See?” Maggie says. “It’s rare, too! A strict upgrade!”
+
+“What about Evelyn’s healing skill?” I press. “We still don’t know how she did that, but again, I don’t see how fire would improve that.”
+
+“Well, spells created by thaumaturgy should always be useful,” Talla says. “A healing spell as strong as that should still be quite beneficial, even augmented by fire.”
+
+“A healing spell so strong it healed our fucking glasses!” Maggie reminds me.
+
+I absently place my hand on my chest, just beneath my left breast—where the stalker ran us through. A wound that would have absolutely killed us, even with my [Revitalization] skill stabilizing us. A wound that is now gone without a trace. No pain, no scar—even the hole in our shirt was fixed.
+
+“Point taken,” I sigh. “Anything to contribute, Allie?”
+
+“I’m listening!” she says hastily, lying like she breathes. “I do like the magic one, especially if it means we don’t have to go into any more spooky caves.”
+
+I’m not sure what I expected. I sigh and wipe some sweat off my brow—it’s very hot out.
+
+“I guess I’m outvoted, then?”
+
+“Did you really want to take the convergence one?” Maggie asks incredulously.
+
+“No? I don’t know, this is all just...” I trail off, wiping my brow again. I’m sweating a lot, suddenly, and I’m getting a little woozy...and my skin feels sensitive—oh no! “Talla, is our skin turning red?!”
+
+She blinks. “Um...yes? I thought it would be rude to point it out.”
+
+“How long have we been lying in the sun?” I ask.
+
+“Oh shit,” Maggie grumbles, realizing the same thing I have.
+
+“It’s only been a day, but I’ve made sure to keep you from overheating,” Talla adds defensively. “I am a doctor too, you know.”
+
+“You’re a doctor for people covered in fur,” I counter patiently. “But we’ve just got skin that hasn’t seen the sun in weeks—and we’re fair-skinned to begin with.”
+
+“I take it that you're not just flushed because you’re sick, then?” Talla asks, frowning.
+
+“No—we’re sunburnt. Really badly, I think.”
+
+“Blood and acid!” she swears. “I’m sorry! I should have known better.”
+
+“It’s fine, but can we move into one of the tents?”
+
+Actually, now that I think about it, why weren’t we already in one?
+
+Talla bites her lip nervously and glances back at one of the canvas tents. “Those actually belonged to Kiera’s group,” she explains. “But if it’s a matter of health, then we can use one. I’ll talk to Draga about getting you some better clothes too.”
+
+“That’s all great,” Maggie interrupts. “But your boiled crab impression is no excuse to put off changing our class. Allie and I agreed that we should take [Incandescent Souls]. Stop wasting time.”
+
+“I’d hardly call what Allison said agreeing,” I argue.
+
+“No, I’m with her,” Allie contradicts me.
+
+“It’s not a bad class,” Talla adds. “And it might help you heal from your burns—not that you need it! It’s my mistake and I’ll fix it.”
+
+I don’t even know why I’m hesitating so much. I definitely don’t want to take the delving class, and they’ve made great points about my concerns. Well—most of them. I still think augmenting all of our old skills with fire is probably a step backwards in flexibility.
+
+It just feels invalidating. I’ve been here since almost the beginning. I was there to protect Allie from the skeleton—which we still haven’t gotten an explanation for—and walk her through bandaging our leg. Then Maggie showed up. Despite my initial misgivings, she’s the one who defeated the bomb lizard and the stalker demon. Compared to that, skinning a few lizards and choking down snail meat seems like a pathetic contribution.
+
+Am I even needed anymore? Allie and Maggie have both outpaced me, and now that we’re out of the cave, I somehow feel more lost than ever.
+
+But I can’t put my own feelings above our survival. If this is what we need, then I shouldn’t let my pride get in the way.
+
+With a heavy sigh, I confirm the choice and watch as the words shift in my mind.
+
+[Violet: Tier 1 Human] (Evolution Available)
+
+[Class Slot 1: Tier 2 Incandescent Souls]*** - Level 0/10
+
+[Class Slot 2: Tier 1 Savior]** - Level 6/10
+
+[Attributes]
+
+Power: 32
+
+Resilience: 54
+
+Awareness: 32
+
+Ego: 54
+
+Will: 2
+
+[Skills]
+
+Inner Flames
+
+Pyrothaumaturgy
+
+Burning Innervation
+
+Explosive Throw
+
+Protect the Innocent
+
+Revitalization
+
+“Oh, I’d almost forgotten about evolution,” I comment. “Although maybe we should get some rest first—it was quite painful last time.”
+
+“Hm?” Talla frowns. “It’s not supposed to be. Species evolution is usually quite trivial for sentient people, unlike monsters and animals.”
+
+“Another mystery, I suppose,” I say with a tired shrug. “Could we move into that tent now? I think we could use a quick nap.”

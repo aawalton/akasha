@@ -1,0 +1,107 @@
+Draga frowns down at the faintly glowing threads scattered across the labyrinth. “[How did you say this works again?]”
+
+“[It’s um...invisible light,]” Talla answers awkwardly. “[Which can...reveal invisible things?]
+
+He turns to give her a doubtful look. “[How does that work, exactly?]”
+
+Talla’s eyes nervously flicker towards me. After impressing on her the potential danger of UV light, she turned the death-candle back to infrared, but figured out how to shift her own light to cast ultraviolet rays. Unfortunately, the communication barrier was too much for me to fully explain the electromagnetic spectrum.
+
+“[Never mind,]” Draga sighs. “[It was Allie’s idea, wasn’t it?]”
+
+“[Yes,]” Talla admits. “[I didn’t know it was possible, and I don’t know how she knew, but it might be able to reveal the demon before it attacks us.]”
+
+“[It might, or it might give us a false sense of security,]” he argues. “[And what do these lines have to do with it?]”
+
+“[I’m not entirely sure, yet, but Allie seems to think they’re important.]”
+
+Draga turns to me. I’ve been busy building up the super candle, but I guess he expects me to explain myself now? Fuck that—I just shrug.
+
+“[I see,]” he deadpans. “[Well I don’t think it changes our plan—but if it helps to reveal the demon, then good. How are your preparations coming along?]”
+
+I hold up the black-flamed candle, and he cringes away from it.
+
+“[Blood and acid! Why does it look like that?]”
+
+“[It was too bright to look at,]” Talla explains. “[So I changed its color.]”
+
+She’s leaving out the part where I taught her about infrared light, but I guess it’s not important.
+
+“[Okay then, does that mean it’s ready?]”
+
+I glance down at it with a frown. It’s hot enough now that it’s a bit uncomfortable to hold, but it’s still not really melting. Then again, we don’t really want it to melt until it’s time to detonate, but I have no idea how much more energy it’s going to take or how quickly it will destabilize when I hit that threshold. In the worst case, it could suddenly collapse all at once and explode before I even have a chance to realize what’s happening.
+
+...
+
+I hold the candle a bit further away and eye it suspiciously. This plan may have needed a bit more thought.
+
+“Maybe,” I finally declare.
+
+“Dang it, Maggie!” Allison complains. “I thought you said you had this!”
+
+“I said that I was pretty sure I could replicate the destabilization,” I correct her. “And I still am. I’m just starting to realize that I’m a lot less confident about controlling it.”
+
+Plus it’s getting really hard to force more fire into a single candle. To revisit my balloon analogy earlier...well, let’s just say I don’t think I should try to force it any further.
+
+“[I have no idea what any of that means, but it will have to do,]” Draga says. “[Saban’s injuries will be healed soon, and I doubt the demon is going to give us time to get combat ready. Prepare yourselves.]”
+
+Talla goes back to focusing on healing Saban, while I start scuffing out the nearly invisible threads where I can find them. I don’t know how or if the stalker can spy on us through them, but it probably can’t hurt and I don’t have anything better to do while we wait.
+
+The atmosphere is tense while we wait. Now that I’m not busy with magic, I don’t really want to be in front, but I have to be the one to set off the candle. Come to think of it, I still don’t know how to do that. I guess I can occupy my mind with that.
+
+Last time it started to destabilize when I put in heat without the other parts of fire. I was able to pull heat out of the basking rocks without fire, so it stands to reason that if I force it, I should be able to do the same in reverse. Although it’s a lot easier to conceptualize the heat in a rock as “partial fire” and then pull all of that out than to isolate individual bits of fully-fledged fire and selectively move them. I wonder if I could pull the heat out of a person like that—nah, they’d probably resist it with their attributes, unless...
+
+Hm, I’ll tuck that thought away for later. I need to focus on candles. Maybe Talla can help me isolate the light part? I’m sure some combination of her skills allows for more advanced light manipulation than her [Spectral Shift] skill. Would that even do the trick?
+
+What about the bomb gecko’s method? I’ll admit that I’ve kind of hit a dead end when it comes to replicating the effects of skills with chaos magic, but there is an underlying framework behind them that can be manipulated.
+
+Skills are like black boxes. You put magic in and an effect comes out. “Overusing” them, despite what Talla says, can probably be considered a minor form of chaos magic. Instead of using the black box as intended, you can force more magic into or out of it, or even twist it entirely. No matter how you do it, though, it requires tapping directly into the infinite cosmos of magical energy and exerting your will upon it.
+
+Take the [Message] construct. It’s not really a physical thing, but it’s there. Every time I say or even think a word with a little [box] around it, I’m interacting with a little piece of Engie that it makes available to everyone. It has a similar “shape,” for lack of a better word to skills.
+
+Reversing it wasn’t really that hard. It’s a box that takes words in and spits meaning out. It’s all just a matter of conceptualization. What if I stop listening to the words and start listening to the meaning instead? I still don’t understand, but what if I then take that meaning I don’t understand and shove it through the wrong end of the [Message] construct? Well, nothing, but then I can keep forcing it and start pulling magic out of the input end. It’s all a bit abstract, but the end result is that instead of taking words I don’t understand and spitting out meaning that I do, it takes in meaning I don’t understand and spits out words that I do.
+
+Talla thinks that makes us extra vulnerable to exploitation through that system, but in my opinion, it’s actually safer. Like—way safer. To the point that I don’t understand why that’s not already the default behavior. I’ve got some ideas why, but I don’t like any of them.
+
+Anyway, candles, conceptualization, bomb gecko—right. I only got one good look at the bomb gecko’s magic but it was a really good look. It was very precise, but also very simple. At least as simple as you can be when fundamentally altering the laws of physics.
+
+I’m gonna oversimplify the hell out of this, but heat and motion are basically the same thing at different scales. As thermal energy rises, so does kinetic energy and vice versa. Laser geckos are basically just pumping thermal energy into things with their gaze, and the bomb gecko did the same with two key differences.
+
+Difference one—its gaze sends energy in pulses rather than a steady stream. Difference two—it nudges the balance between thermal and kinetic energy such that you get way more kinetic energy for the same amount of heat. So it hits you with a big bundle of thermal energy that also results in a much more significant and sudden increase in kinetic energy.
+
+I can understand it, but actually replicating it is another story. Conceptualization. What does my skill actually say?
+
+[Pyrokinesis]
+
+You can control flames. Your Power is added to Ego when manipulating fire with this skill.
+
+It doesn’t say I can move flames, it says I can control them. Perhaps movement is implied by the -kinesis part, but if Engie phrases its skills poorly, how can I be blamed? Why did Talla’s skill make the candle absorb light instead of actually changing the wavelengths? Conceptualization again. She doesn’t know what a wavelength is. I’m certain her skill is capable of producing more interesting forms of radiation, but I’m willing to bet that a combination of her own conceptual limits and Engie’s guard rails makes it more difficult to do.
+
+Bomb gecko...energy ratios...conceptualization. It would be so much easier if all I had to do was tweak some values and force my idea through, but that’s not how magic works. It’s not about logic and reason, it’s literally imposing my will on reality and I need a more clear idea of what that will is.
+
+The skill gives me a shortcut to controlling fire, but I’m on my own from there. So no more thinking like Violet—even she could come up with just moving fire around in larger amounts. Honestly it feels like I’ve been really uncreative in my applications of [Pyrokinesis] and...I think I know why.
+
+I’ve been trying really hard not to think about it, but I already have an answer to making explosions, don’t I? It was, in fact, one of the first things I did with it. It’s not like I’ve forgotten. I don’t think I’ll ever forget. I just don’t want to think about it.
+
+But I guess I have to, so here it fucking goes. We—no, I killed a thing. No, that’s wrong too—fuck, I’m not good at this. Allison would be laughing if she could hear my thoughts. I killed a person—a man. I mean, not a human, but the word “man” probably still applies. God damn it!
+
+I killed Reyna, who was related to Talla by marriage to his wife Kiera—her cousin—who I also killed. Wait, no, Violet killed her. Not important. I killed him by dumping an entire candle’s worth of fire into his head at once. Then I brutally burned a young kid alive. The rangers have been suspiciously quiet about the kid and none of us have been eager to tell them how he died.
+
+So yeah, I guess that’s me. My first introduction to society was murder. Real fucking brutal murder, too. Am I fucked up about it? Absolutely. But I don’t see any therapists around and it’ll be a cold day in hell before I talk to Allie about it, so I guess we figure it out my way.
+
+By learning.
+
+More specifically, learning how to do it better next time. Conceptualization? Creativity? Pfft! As if I need that when Engie is stupid enough to give me everything I need. I don’t need Talla’s help, or the bomb gecko’s magic, or even all these fucking candles I wasted to make this ridiculous super-charged mega-candle.
+
+Pyrokinesis. It’s right there in the name. Pyrokinetic. Engie you big fucking idiot, you gave me the ability to turn thermal energy into kinetic energy right there in the box! I don’t have to twist shit! I can probably start throwing candles like dynamite!
+
+It’s not just possible, it’ll be easy to just—
+
+“[Allie!]” Talla’s voice snaps me out of my reverie and I turn to her with a grin.
+
+“I’ve got it!” I exclaim gleefully. “I know how to blow up the ca-hagh!”
+
+A blow from behind forces all the air out of my lungs at once in a sudden gasp. Oh come on, really?! I was so distracted that I let myself get Saban’d? I try to turn to give my assailant a piece of my mind—most likely in the form of a judiciously applied super-candle—but something holds me in place.
+
+Time feels like it slows down as I glance down to see a glowing blue worm—Nipper under Talla’s UV light—furiously tearing into another, much brighter blue object that is sticking through my chest at a very concerning angle.
+
+“Oh fgughk,” I gurgle through a mouthful of blood before everything erupts in chaos.

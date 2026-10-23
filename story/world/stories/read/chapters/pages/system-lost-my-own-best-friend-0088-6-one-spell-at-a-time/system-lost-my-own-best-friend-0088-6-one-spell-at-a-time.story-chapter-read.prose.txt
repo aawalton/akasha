@@ -1,0 +1,175 @@
+“Whatever you’re about to try, make it quick,” Draga insists, shielding his eyes as he watches the sun rise. “It’s time to go.”
+
+Talla nods and turns back to me as I stand and brush myself off. “This shouldn’t take too long. I’ve already adjusted the carriage’s mana crystals back to their original settings...I think. It’ll run, but not for long unless we can manage the temperature.”
+
+I raise my hands and sigh. “I can’t make any promises. We still don’t even know what this spell is going to do.”
+
+“I’m sure you’ll work something out.”
+
+“Just try not to blow us up,” Maggie interjects.
+
+“I wouldn’t dare,” I reply, rolling my eyes. “That’s obviously your job.”
+
+Taking another deep breath, I once again focus on the skills I want to combine. Just as Talla promised, now that I’ve done it once, it comes much more naturally. In my mind, [Pyrothaumaturgy] and [Pyrokinesis] twist and rotate like puzzle pieces until I find just the right angle to snap them together.
+
+[Thermodynamic Conversion]
+
+Transform nearby energy.
+
+Uh...what? Isn’t that kind of insane? I thought this was supposed to be a low level spell, but that sounds horrifyingly potent. This could do a lot worse than blow us up.
+
+“I don’t think this is going to work,” I hedge. “This spell is overkill for any application.”
+
+“Don’t be a coward!” Maggie mocks me. “I was already doing that with just regular pyrokinesis!”
+
+“May I take a look?” Talla asks.
+
+I give her the description of the skill and she shakes her head, chuckling.
+
+“Oh, that’s not so bad,” she assures me. “And might be perfect for what we need, actually.”
+
+“But wouldn’t this be really destructive?”
+
+“At your Ego? I doubt it,” she says. “The more broad a skill or spell like that is, the less potent it tends to be on its own. Why don’t you test it on something to see? Try a rock or something.”
+
+I’m hesitant, but I do trust Talla’s knowledge of magic enough to defer to her expertise. I scan our surroundings and settle on a small pebble. Focusing on it with my new spell, I attempt to convert its thermal energy into light—hoping that will be the safest way to cool it down.
+
+For a second, the colors of the rock brighten, as if reflecting sunlight that isn’t quite hitting it yet. Then the effect dissipates and the rock goes back to normal, leaving me with a small headache that fades just as quickly.
+
+Well. That was underwhelming.
+
+“See?” Talla says, patting me on the shoulder. “Unless you push yourself really hard, or get a much higher Ego attribute, a spell like that isn’t going to be very destructive. Try picking up the rock.”
+
+I do, and it feels slightly cool to the touch. Not cold, but marginally cooler than the grass and dirt around it. Out of curiosity, I try casting [Detect Temperatures], and find that I managed to cool it down by all of two degrees.
+
+“Huh,” I muse. “Now I’m concerned in the other direction—is this even going to be enough?”
+
+“We’re going to find out!” Talla says. “Come on, I’ll start the engine and we’ll see what we can manage.”
+
+I follow her to the car, where she takes a seat in front of the controls and gestures for me to join her in the other seat. I can’t help but notice that the rest of the car is filled up with supplies and luggage.
+
+“What about Draga?”
+
+“He’ll be running alongside us,” she says. “Don’t worry, he can keep up.”
+
+I frown. “That’s not really what I’m worried about. Why can’t he just ride with us?”
+
+“He’s a man,” Talla answers, as if that’s all that needs to be said. “Don’t worry about it, he wouldn’t join even if we invited him to.”
+
+“That’s right,” Draga agrees. “I’m faster than that machine anyway. Now let’s get on with it.”
+
+At his command, Talla pulls on one of the levers and the car shudders to life. The way it starts up is strange—not at all like the cars I’m familiar with. Rather than a sudden rumble at ignition that settles down into a steady rhythm, it slowly pulses, each cycle going a little faster than the last until it builds up to a gentle thrumming.
+
+“Okay, Vi—can you sense the engine’s temperature? It’s the array of crystals under the carriage, just between the back wheels.”
+
+I cast my spell, trying to sort out all the different inputs it gives me. It’s not too hard to find the engine—it’s much hotter than anything else around us at close to eighty degrees.
+
+“Yes, I think so.”
+
+“Good! What we’re going to do first is just a trial run,” Talla explains. “I want you to watch that temperature and see how it changes as we go. Remember the current temperature—that’s the ignition temperature, it needs to stay above that.”
+
+“Okay, I think I understand,” I reply. “How high can it go?”
+
+“We’ll know when it starts failing.”
+
+Ah. We really are playing this one by ear, then.
+
+Talla pushes a lever forward, and both the car and the engine temperature lurch forward as the drive engages. Soon enough, we’re rolling down the dirt road at a fairly impressive pace. It’s not quite what I’d expect from the vehicles back home—Draga is comfortably keeping pace beside us—but fast enough that I’m acutely aware of the lack of seatbelts. Or doors.
+
+It’s a bumpy ride. The road is rough, the tires are made of leather instead of rubber, and there doesn’t seem to be any kind of suspension to absorb shock. The seats are well padded, but I still feel every little pebble or pothole we roll over.
+
+“In the names of the Goddess, what is this thing?!” Evelyn screeches. “We’re going to fall off!”
+
+I keep a white-knuckled grip on the seat as we trundle along, each bump threatening to send us tumbling out the side of the vehicle. Talla, on the other hand, is completely unperturbed—even amused by our distress.
+
+“Everyone’s like that the first time,” she assures me. “You get used to it. It’s not really that different from a regular carriage.”
+
+“I’ve been in a car!” Allison protests. “This is totally different! How many people die riding these things?!”
+
+“Not many,” Talla replies—apparently using her translation spell again. “Though I guess not many people can afford them. It’s too bad I’ll need to give this back to the Gaa family.”
+
+Next chance we get, I’m absolutely going to teach her about seatbelts. For now, I try to ignore how close the swiftly passing ground is and pay attention to the engine.
+
+Its temperature has risen steadily since we started driving, but holds steady at around ninety five degrees—just a bit shy of boiling water. Once the sun gets higher in the sky, however, things change.
+
+At first, the temperature starts to slowly creep up again. It’s so gradual that I barely even notice it, rising maybe two degrees in an hour. I don’t have the slightest idea when to expect failures to start, or what they’ll even look like, but I get my answer sooner than expected when the temperature suddenly spikes up past 120 degrees and a loud thunk causes the entire vehicle to lurch, nearly throwing me over the front.
+
+“Oop!” Talla exclaims, slowly bringing the sputtering car to a halt. “There they go!”
+
+I rub my sternum where it was just driven painfully into the edge of the car—definitely needs seatbelts—and groan. “That didn’t last very long at all. It’s only been, what, five or six hours?”
+
+A long time to be driving down a bumpy dirt road in a deathtrap of a vehicle, but from what the rangers have said, barely even the start of our trip back to civilization.
+
+“Most people only drive these within cities or between nearby towns,” Talla says. “Until Kiera insisted on bringing hers for this trip, I’d never heard of anyone driving for more than a couple of hours.”
+
+Draga jogs to a stop next to us—not even out of breath—and frowns. “How long to get it fixed?”
+
+“That depends,” Talla answers, turning to me. “Do you think you can get the temperature down?”
+
+“I can try,” I answer with a shrug.
+
+Let’s see...it’s sitting at around a hundred now, even with the engine off, but it still has little spikes now and then that cause the car to tremble.
+
+“How long will it keep doing that?” I ask.
+
+“Last time this happened, the chain reactions didn’t stop until we removed the keystone and retuned everything.”
+
+“The keystone?”
+
+Talla hops out of the car and moves around to the fuel-tank looking spot where she was tinkering before, pointing at the small cap there.
+
+“Right here,” she explains. “It’s a theft-prevention measure. The engine can’t run without a properly tuned mana crystal inserted—the keystone.”
+
+“Alright, let me just try—argh!”
+
+My attempt to cast [Thermodynamic Conversion] sends a lance of pain straight between my eyes, and I nearly collapse before Talla catches me.
+
+“Blood and acid!” she swears. “I’m sorry, I should have warned you—try not to cast multiple spells at the same time. That’s a very easy way to end up overusing the skill.”
+
+“Noted,” I groan, rubbing my brow. “Maggie never seemed to have an issue with that.”
+
+“That’s because I’m built different!” she cackles in reply.
+
+Talla sighs. “More likely she was already overusing her skills. I really can’t stress enough that you need to break that habit.”
+
+Maggie doesn’t respond, but I nod in agreement. “One spell at a time, then.”
+
+It’s not like I need to keep [Detect Temperatures] active all the time. I can just switch between them to check as necessary.
+
+My second attempt goes more smoothly. With so much heat built up in the engine, the spell has more to latch onto, and it feels as if it sort of snaps into place when I try to convert that energy into light. I suppose I could try converting it into kinetic energy to make the engine more efficient, but without a more intimate understanding of how the engine works, that’s just asking for trouble.
+
+It does make me wonder what else I can do with this spell. The seams around the keystone glow brightly—much more brightly than the rock I tested with earlier. I think that the spell is easier to use when there’s more energy to work with. Could I combine it with something like Talla’s light beam spells to make the lasers pack a kinetic punch?
+
+I suppose I might be coming around to Maggie’s opinion on magic. It really does have quite a lot of potential.
+
+After a minute or two of work, I switch over to the other spell to check my progress. The temperature is back down to ninety degrees, and the malfunctions seem to have stopped for now. I doubt I can keep that up for hours at a time—I’ve already got a dull, throbbing headache—but if all I have to do is keep an eye on the temperature and stop to splash some proverbial water on the engine every few hours...I think that should be manageable.
+
+“How’s that?” I ask.
+
+Talla hops back up into the driver’s seat and starts the car again. The engine swiftly revs back up to speed without any issues and she smiles brightly at me.
+
+“You were right!” she exclaims. “Cooling the engine is much quicker than retuning the crystals.”
+
+“Good,” Draga says with a nod. “Then let's break for lunch and get back on the road.”
+
+After taking a moment to park the car in a more shaded spot by the nearby oasis, Talla joins us for a brief lunch of dry crackers and lizard jerky. It’s bland, but nice, and as we eat I reflect on what I’ve learned today. Mana crystals are pretty interesting, and I can already think of a dozen ways to improve that car. I’d been wondering what I’ll even do once we get back to a city, but maybe I can learn to be an engineer or something.
+
+We’ll have to do something, after all. I don’t see Maggie being the one to work for a living, and Allison...
+
+I’m sure Allison will have her hands full.
+
+[Level up!]
+
+Student is now level 3.
+
++1 Will (E’ava’al’n).
+
+Ah, right. There’s also her.
+
+“Huh?!” Evelyn gasps. “I gained a level?”
+
+“We did,” I correct her gently. “Even if we have different classes, we still share achievements. I guess I learned enough about cars and mana crystals to earn us a level.”
+
+“But...but I’m not one of you...” she protests quietly.
+
+Yeah. We’ve still got a lot of work to do.
