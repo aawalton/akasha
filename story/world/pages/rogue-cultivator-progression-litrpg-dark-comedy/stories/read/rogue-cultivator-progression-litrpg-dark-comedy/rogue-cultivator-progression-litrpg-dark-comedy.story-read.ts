@@ -1,0 +1,46 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const rogueCultivatorProgressionLitrpgDarkComedy = {
+  id: "01a16af3-ca14-7c52-bd80-9da104b65614",
+  type: "page-type/story-read",
+  slug: "rogue-cultivator-progression-litrpg-dark-comedy",
+  author: "Alex Karne (TheDeliciousMeats)",
+  following: false,
+  unit: "unit/words",
+  title: "Rogue Cultivator (Progression, LitRPG, Dark Comedy)",
+  world: "world/rogue-cultivator-progression-litrpg-dark-comedy",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "89084",
+      externalLink:
+        "https://www.royalroad.com/fiction/89084/rogue-cultivator-progression-litrpg-dark-comedy",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Anti-Hero Lead",
+    "Wuxia",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Satire",
+    "Attractive Lead",
+    "Cultivation",
+    "Dungeon Crawler",
+    "GameLit",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "Martial Arts",
+    "Multiple Lead Characters",
+    "Slice of Life",
+    "Strong Lead",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T22:48:44.307Z",
+  updatedAt: "2026-10-23T22:48:44.307Z",
+} as const satisfies StoryRead
