@@ -1,0 +1,43 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const royalRoad1Lifesteal = {
+  id: "01a16898-6070-7f8d-8a5c-cb6d5997df4d",
+  type: "page-type/story-read",
+  slug: "royal-road-1-lifesteal",
+  author: "Robert Blaise",
+  following: false,
+  unit: "unit/words",
+  title: "1% Lifesteal",
+  world: "world/royal-road-1-lifesteal",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "72301",
+      externalLink: "https://www.royalroad.com/fiction/72301/1-lifesteal",
+    },
+  ],
+  externalTags: [
+    "Urban Fantasy",
+    "Progression",
+    "Anti-Hero Lead",
+    "Martial Arts",
+    "Grimdark",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Psychological",
+    "Attractive Lead",
+    "Dungeon Crawler",
+    "Dystopia",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "Soft Sci-fi",
+    "Strong Lead",
+    "Supernatural",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T11:49:39.055Z",
+  updatedAt: "2026-10-23T11:49:39.055Z",
+} as const satisfies StoryRead
