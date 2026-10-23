@@ -1,0 +1,167 @@
+Nicolai’s back dug into the wall, rasping breaths echoing within his helmet. His eyes stared at nothing and his mind focused inwards. He trusted Threat Analysis and Cyberwarfare, manning his Soul Sense, to keep an eye out while he pressed the Dark down.
+
+It was far easier than it had been the last time, a sharp difference to his performance in the Tournament. But he had not expected to step into an instant, bloody melee right at the start of the trial, and he had freely allowed the Dark to flare up, drawing on it to sharpen his skills. It had all been going well, but the longer he fought with it active, the stronger it became. Before long, a point was reached and it began to pull from his control. From there, though, he had focused on uppressing it and had been able to tamp it down and maintain it at that level, even as the fight grew messier and bloodier.
+
+It was over now, and no more need for the Dark. He’d started this trial with enemies all around him, but he’d gotten free in typical fashion—by shooting and cutting and tearing his way out. It had taken quite some time, and he itched at the knowledge that he was behind, there must be others who’d already made significant progress toward the Orb. But, there had at least been one benefit, visible when he viewed his Mark’s UI.
+
+Thrynn Assassin Trial
+
+Eliminations Top Ten Leaderboard
+
+His breath slowed, and he took a moment to pull from one of his Orbs of Rejuvenation before resealing his helmet, the Dark now put to bed. With that done he felt his Soul and sense loosening, like muscles tensed over long. When it was active through him his Soul became stronger, but also a little less capable of subtle, small movements.
+
+He glanced left and right, saw a line of buildings ahead of him, a street curving away left and right. His back was against the compound’s wall, which had a line of undead sentinels atop it. One of his Soul Sense tendrils rose into the air, twisting like a snake. It was manned by Threat Analysis, and the Module had its feelers out. This was its first field use of these new and improved feelers, its chosen Engraving. If his Soul Sense had been visible the tendril would have looked like some kind of deep-ocean creature, covered in filaments that twitched in response to ripples. There was also a small spiritual eye on the end, a Symbiote he’d gained from the Scoundrels. It was able to see slightly better than a human eye, and possessed spiritual vision—a marked improvement from the underwater eyesight of Soul Sense.
+
+His other tendril crawled up the wall behind him like a creeping vine, and this one was directed by Cyberwarfare. Where the first had stilled halfway and extended toward the street, listening, the other continued on toward the top. There the tendril made gentle, careful contact with the spiritual barrier that sprouted from the top of the wall and reached to form a great dome over the compound.
+
+He eyed one of the buildings ahead of him, scanning its roofline. There was a purple-glowing shape up there. The Infiltrator, hidden by the same type of Cloaking Symbiotes he was currently employing. Research and Development had convinced the Ripper to give them a second set. It was feeding him a wide view from its vantage up there, doing so in spite of the Local interference. Following a recent breakthrough, he and the Modules had worked out how to send data via ripples. Combined with Hornet Cloaking Symbiotes, which encrypted ripples when they were exchanged between keyed sets, this communication was nearly undetectable and quite reliable, though perhaps 50% slower than typical methods.
+
+The streets around him were quiet, at least for now. Following the bloodbath that had kicked things off, all the survivors, himself included, had scattered. He imagined most were still licking their wounds, but he had no time to waste. He saw smoke rising from places around the wall, and now and then the crackle of gunfire, the boom of explosions, and the ripples of Symbiotes used in anger echoed through the street from further afield.
+
+Nicolai merged with the Modules, and, led by Cyberwarfare, they began investigating the spiritual barrier more seriously. The thing sprouted from a glowing band set into the stone, which seemed to be a kind of intelligent power source. As to the barrier itself, at first it seemed seamless and perfect, like glass, no apparent way in, but they started out with the probing methods Serrin had taught them, a series of steps one could follow that would look for the typical weak points spiritual defences might possess.
+
+It was possible for defences to be truly flawless, but just as with hacking back on Earth, if you looked hard enough you could often find something small which, due to laziness or incompetence, had gone unnoticed. If an individual or corporation purchased the services of a proper security firm, then they would receive the attention of an AI whose entire life and existence revolved around cyber-security. It would leave the domain or network absolutely watertight. But cyber-security was an ever-evolving world, the services expensive, and many organisations were willing to let far longer go between stress tests and updates than they should.
+
+Cyberwarfare tried one thing, then another, and another, and another, and soon enough the flawless, glass-like wall was found lacking. As Cyberwarfare looked deeper, he felt a growing excitement from it. It was seeing more than just a way through the wall.
+
+Defences like this recognised who was allowed to pass in and out through spiritual identification. The wall most likely kept a simple database of all its undead defenders, and so long as the Souls matched they would be permitted access. But there was a higher level, assigned to those who needed deeper access. Spiritual identification tags.
+
+Cyberwarfare had discovered something that looked very much like one of those tags floating within the defences, waiting for whoever was meant to come and claim it. Only, they hadn’t, and so it was simply sitting there, practically in the open, ready to be seized by someone or something like Cyberwarfare. The fact of this particular mistake was so ridiculous, so gargantuan, that Cyberwarfare and the rest of them could only conclude it had been put there on purpose. Either it was a trap, or it was there as some kind of reward for the first competent hacker to look deep enough to see it. Perhaps both. This was a test, after all.
+
+The Modules looked it over more carefully, once then again, and again. It was a trap. Cyberwarfare kept looking, and he felt the Module’s growing disappointment. No, no super-special super-easy access, just a trap. But, puzzlingly, there were signs it hadn’t always been such.
+
+Through a different route, Cyberwarfare managed to gain some small access to the defences, convincing it that it was a small piece, something with very little access that could only request the most basic of information. From there the truth came out.
+
+There had been a super-special super-easy access. It had been sitting there, ready for whoever first saw it. And someone had seen it, and taken it. Another trialist had gotten there first. But this trialist had been cleverer than most—whoever they were, they’d cut free only the access itself, applying it to their Soul, while leaving the packet it had been contained in. In its place, they’d left a trap. A trigger that would cause the defence system to target whoever interacted with the packet.
+
+Cyberwarfare proclaimed that the enemy would have to wake up far, far earlier in the day if they wanted to catch it out. The realisation that someone else had gotten the freebie didn’t seem to bother the Module at all, if anything its motivation was at an all-time high. It was determined to out-hack whoever it was, in spite of the huge advantage that access gave them.
+
+As something of an afterthought to all this, it had managed to work out a way through. Even when the defences weren’t perfect, it wasn’t easy to brute-force a way through, especially while trying to remain unknown. After all, that was explicitly what they were designed to prevent. You had to be tricky.
+
+Fortunately, Cyberwarfare was well used to finding tricky ways around a defence, and in this case it hadn’t needed to try particularly hard.
+
+Nicolai raised a hand and rapped his knuckles sharply on the wall.
+
+When one of the undead guards up above poked its head over the side, passing out of the protection of the barrier, Nicolai was there to meet it, having already floated upwards. He seized it by the skull and kicked off the wall, dragging it with him.
+
+The barrier flashed red, a dull tone sounding that he knew would bring something dangerous to investigate, while the undead up there tugged on bowstrings and sent a hail of arrows in his direction. They couldn’t see him, but they could see the one he’d abducted, and they seemed happy enough to use it as a target.
+
+He couldn’t activate a Shield plus the Cloaking Symbiotes, but Nicolai wasn’t worried. He had the undead as a shield, and he figured his skinsuit was strong enough to deflect arrows regardless.
+
+He had not activated any more Symbiotes than necessary, and so the cloaking set disguised his ripples. Soon enough, even their sight of the undead he was towing along with him was cut off when he dove into the alleyways and took a few twists and turns.
+
+The thing was struggling as hard as it could in his grasp, but by this point he was far too strong for an undead of this calibre to meaningfully resist him. He stripped and tossed its weapon then pinned it against the wall, ignoring its flailing arms.
+
+From there, he began to study its Soul. This undead was recognised by the barrier, allowed passage. So long as his Soul resembled it, as perfectly as possible, he should be able to gain access. This was one of the simplest methods, and its simplicity was the very thing that made it so difficult to defend against. The method relied on the fact the spiritual defences didn’t truly “see” as humans did. It only saw in spiritual terms.
+
+It did not take Nicolai long to shape his Soul so that, outwardly, it perfectly resembled the undead. The harder part was toning down the sense of power it gave off, as his Tier 2 was a weighty thing. Ultimately he was forced to compress and collapse his Soul, temporarily restricting its strength and power. Immediately his awareness of the world dimmed, as his Soul Sense shrank in size. Far from ideal if he was attacked. He needed to get through the wall quick.
+
+A single stab from the Quiet Knife imploded the undead’s Soul without a ripple. He tossed its body aside and moved on.
+
+Coming into sight of the wall he slowed, paused. There was something new up there. A huge undead resembling some kind of gigantic, hugely muscled bat, all naked, scarred skin the colour of dirty milk. Its huge taloned fingers were wrapped around the crenellations, and its heavy head peered left then right down the street. A Tier 2 undead guardian. The humanoid undead lining the wall around it were merely there to buy time for something like this to show up.
+
+He eyed it warily, but there was no sign of it seeing through his cloaking. However, the Modules in the Infiltrator sent a warning telling him to keep his distance. They said the bat had released a few high-pitched squeaks when first arriving, which they believed to be similar to sonar pings—one of the few things that could spot him through his Cloaking.
+
+The bat shoved off the wall and leapt into the sky, wings beating at the air. It turned a slow circle then drifted off, following the line of the wall to the right.
+
+When the bat’s form had grown distant, the Infiltrator scuttled down, leapt atop his shoulder then burrowed into his backpack. There was a brief Module shuffle as Cyberwarfare, Threat Analysis, and Psychology went over into it to work on twisting its Soul into the necessary shape. Nicolai and the others focused on keeping his Soul in the proper shape—it felt like a spring under tension, and if his attention slipped for even an instant it would unfold to its proper shape.
+
+But his attention did not slip, and the Cloaking kept him hidden as he padded to the wall. There he floated upwards and slipped toward the barrier.
+
+Over the heads of the guarding undead, Nicolai pressed into it. He went through it slowly, and it didn’t even ripple as he passed through. He touched down on the other side, finding himself on grassy earth. Much of the compound was lawn and shrubbery, like some kind of park. Nicolai moved quick toward the sheltering lee of a nearby building, eager to get out of the open.
+
+Once he had his back to some cover, he started work on unpacking his Soul. While there he noticed a band of light that ran through the stone of the wall behind him, and looking further he realised these bands ran everywhere. They were the same as the glowing part of the wall which the barrier had sprouted from. Cyberwarfare was unwilling to touch the band with Soul Sense, as it seemed likely quite reactive, but it was sure these were what the defence system communicated through.
+
+Up above, he saw the bat returning, still following the line of the wall. The moment he had finished unpacking his Soul, he used the Burrower Symbiote to sink into the ground. He wasn’t sure how far its sonar might reach and didn’t want to risk it spotting him.
+
+He observed it with one of the cameras atop his helmet. Before long, the thing let out a screech, wheeled in the air, and moved deeper into the compound. There was a sense of purpose to it, now—like it had just received some kind of order or information. Most likely, someone had triggered defences deeper within, and it was being summoned to deal with it. He watched it go, his mind a whirl as he conferred with the Modules.
+
+The fact was, he’d gotten here late. He was pretty sure someone else would manage to get to the Orb before him. He had gained quite a few eliminations in the initial chaos and had a definite shot at completing that particular objective, especially if he doubled down on it, but that was not the way to win the role he needed. House Thrynn did not want a brainless killer. They wanted someone who, in spite of all difficulties, could get that Orb. He also believed they wanted someone competent at spiritual hacking.
+
+Nicolai knew that he and Cyberwarfare were more than competent, but they hadn’t been given much chance to show off. Would the watching nobles have noticed Cyberwarfare perceive the trap? Or would they have simply seen the surface level, where he spent quite a long time studying the wall before eventually passing it with the most basic of methods.
+
+If he wanted to stand out, he needed to do something more. Not only that, but if he wanted to reach the Orb in time, he needed a shortcut. He anticipated that each layer of this compound would hold more complex spiritual defences. The method he’d used to get through the outer barrier was unlikely to work again. Meanwhile, whoever had snatched up the floating high-level access may well already be at the Orb, having passed through every defence with little effort, and now would be showing off their skills as they prised it free.
+
+It only took a few seconds of thought before Nicolai rose from where he had hidden, a goal in mind. The bat was more distant now, a small shape in the sky. It issued a distant roar of rage and he saw it dive down, felt the ripples of Symbiote usage. Someone had been caught out by a deeper layer of defences, and this undead guardian was going to tackle them.
+
+That was good. He needed it on the ground, and he needed it distracted. Cyberwarfare had a hunch, and if the Module was correct then that bat was their way in.
+
+The ripples and roars grew in volume as he padded after it. The Infiltrator climbed from his backpack, its own Soul now also unpacked, and following another quick shuffling of Modules it leapt from his back, landed spider-like and scurried off to climb a neighbouring building, from there beginning to shadow him, a second pair of eyes.
+
+A large group of undead humanoids joined the path he was following, armour clanking and feet thumping. Nicolai followed invisibly in their wake, eyeing them. They were heading to the same place he was, and he thought their armour might fit him. A moment later he’d drawn the Quiet Knife and was angling in towards the last one in the line.
+
+His arm wrapped around its neck and gripped with a terrible, implacable strength, at the same instant as he drove the Quiet Knife into its side. The undead shook, and he heard a faint, dusty gasp from beneath its helmet as its hands raised towards its fellows beseechingly. They clanked on, not a one looking back as the undead’s Soul imploded without sound or ripple.
+
+He dragged the murdered undead into a bush and set to work, using a blanket of Soul Sense to analyse how its armour fit together. A few deft movements saw him twist free the majority of the armour.
+
+Thirty seconds later the column of undead had gained a new member, replacing their most recent lost. None of the undead knew about this member for none of them could see it, but, if one were to use sonar to view the world, one would see the new member outwardly resembled the others. At least, on a cursory examination.
+
+The undead poured around a corner, readying weapons as they pushed into a courtyard where battle raged. The monstrous bat moved in great rushes and leaps, tearing and biting at a Cultivator, dressed in a tight fitting black leather armour, who spun and leapt around it.
+
+Suddenly she turned and rushed for a doorway, disengaging from the bat. She seemed moments from escaping when it unleashed a deafening screech, a visible cone of Art-empowered sound waves slamming into her. The assassin staggered, and was slowed for a crucial instant.
+
+The formation of undead had charged her the moment they entered the courtyard, and the door she’d chosen to run to had taken her closer to them. They crashed into her, swords rising and falling. The bat joined a moment later, knocking undead aside as it seized her and slammed her into the ground again and again. She disappeared in a flare of blue light and it was over. The undead calmed, immediately turning to leave. All but one of them, anyway.
+
+The bat was almost continually releasing small sonar pulses, practically as part of its breathing. They did not go far, but they gave it an awareness of its surroundings. It had just enough time to realise there was something off about the armoured undead standing directly behind it, but not enough time to do anything with that information.
+
+Nicolai slammed the Quiet Knife into its back, and the Knife’s effect on a Soul did not seem to be much diminished by its size. The bat tensed up as though tasered, releasing a warbling groan of pain as its Soul went into spasm. Nicolai’s Cloaking failed as he was forced to put more of his Soul into the Knife. A single stab was fine, but any more and the Art couldn’t be kept going.
+
+The undead were quick to turn, weapons raising as they surged towards him. Nicolai ignored them, focused on the bat’s Soul. He gave it another measured stab before it could recover, and this one nearly caused an implosion. That wasn’t what he wanted. Its Shields were down, owing to the tremendous disruption that each stab from the Knife caused to its Soul.
+
+He leapt into the air to land atop its broad back, pointing down with his bionic hand. His handcannon erupted and the bat’s head blew apart in a spray of undead gore. After a pause its body realised it was dead and toppled to the ground, Nicolai shifting slightly to retain his balance on its back. Still, he did not even glance at the charging undead, his attention all on the damaged Soul that began to rise from the corpse.
+
+A Soul Sense tendril burrowed over him, reaching into his backpack. A metal ball rose humming into the air. It was the Hornet bug-smasher, and it was attuned to the Infiltrator, which was positioned on a nearby wall. The Infiltrator lashed its tendril and the ball with it, and there came a great metallic crashing as the heavy weapon swept aside the entire front row of charging undead.
+
+The smashing and bashing of metal on metal continued behind him as Nicolai reached out and grasped the rising Soul. It was a hefty thing, but for all that it stood little chance. He used a Soul Strike, slashing with his hand to cut it into parts. Then, as it began to dissipate, tumbling apart under the grinding of the Aura, he seized upon one particular part of it before using his Soul Sense to form a protective barrier.
+
+Deep within the stuff of the bat’s Soul there had been an identifier, a complex three-dimensional spiritual shape. These high-level accesses were distinct from the methods the defence used to recognise simple undead.
+
+As soon as it detected the death of the bat’s Soul, it would deactivate this identifier. The identifier would still exist, but the defence system would no longer grant it any authority.
+
+But what if the bat’s Soul did not appear to die?
+
+Working fast as the Soul faded, even going so far as to wrap himself in some of it, Nicolai worked to shape his own. As the bat’s Soul was Tier 2, this time he managed without any need to fold up his Soul, simply altering the exterior to resemble the bat. As it was larger than him, he had to use some of his Soul Sense to complete the image, and it wasn’t quite perfect. But so long as the defence system was given no reason to look too deeply, it should be good enough.
+
+During this, he took the identifier into his Soul. It was not at all fast or easy to permanently absorb something from another’s Soul, doing so would be like an organ transplant—you needed rituals, specialised tools and Symbiotes.
+
+But he didn’t need to make it a permanent part of himself, in this case. He simply held the identifier within his Soul, safe from the Aura to prevent it from decaying too quickly, and while it was there. Meanwhile Cyberwarfare was working to duplicate the identifier, forming a perfect copy on a part of his own Soul. This, too, wouldn’t be permanent. He was merely moulding the outer, more manipulable part of his Soul, following the same principles as he used to shift its appearance into that of something else. All these changes required continuous effort to upkeep, and would dissolve if he relaxed. If he wanted to gain this identifier permanently, he would have to engage in a much more strenuous and time intense process.
+
+There was no need for that. He’d only need it until the end of this trial, and in the meantime upkeeping it was only a minor strain, seeing little more than a loss of perhaps 5% of the strength of his Soul Sense.
+
+The moment he finished the switch the undead stopped fighting. Previously, they had seen what looked like one of their commanders fighting and dying, but now it seemed that the commander stood in front of them, at least in Soul. And the defence system, likewise, was satisfied. The undead picked themselves up, returned to their formation, and—now rather battered—marched away.
+
+Nicolai tossed a few incendiary grenades that burned the bat’s corpse to ashes before leaving the area. Once he found somewhere a bit quieter, his Soul Sense stretched out towards the nearest band of light, at last making true contact with the system.
+
+The security system didn’t seem surprised or concerned to feel the contact of the “bat.” Nicolai and Cyberwarfare quickly began to understand more about this controlling intelligence. It was indeed an intelligence, some kind of bound spirit or similar that effectively lived within these defences, and as a result possessed a very interesting view of the world. It was, in many ways, similar to an AI. In other ways, however, it was nothing like an AI. Still, there were enough similarities that the Modules were able to gain a decent understanding of it.
+
+The bat had a high level of access, and Cyberwarfare was quick to put that to use. It engaged the intelligence in conversation, talking about all the strange trouble and what they should do. The security system seemed at something of a loss, and the Modules could infer that it was becoming overwhelmed by the many attacks on the wall and all internal defences being triggered by trespasser after trespasser, not to mention the signals which suggested many more trespassers who were moving with more subtlety. All of its Tier 2 undead were dispatched and busy, and it hardly had the capacity to trigger the stationary defences when necessary. The system had no time for suspicion when the being it knew as an undead Tier 2 bat began volunteering all kinds of help, help that doubtless it had never supplied with such competence in the past. Rather, the system seemed almost pathetically grateful as Cyberwarfare began pointing out precise locations where it believed assassins were hiding, and the system began to put that information to use.
+
+As Nicolai slipped between buildings, strolled through security perimeters, and wove between undead sentries, the Modules ran hot, finding their enemies, unveiling the extent of the defences, and gaining data on the layout of this place. Cyberwarfare was also continuing its dialogue with the system, and over the following minutes began cementing itself as the system’s favourite. The more the Module did to help, the more the system opened up and granted more access, which the Module immediately repaid with yet more assistance. With this the situation around the compound actually began to stabilise, as the system was able to more effectively coordinate the undead and the defences against the tide of assassins.
+
+Nicolai pressed deeper into the compound and more was learned. The increasingly detailed data they were being fed now included information about the place the Orb was kept—a large, well-defended building in the centre. The Orb was in its basement.
+
+The defence system was only able to see in a spiritual manner, and this also applied to Nicolai and the Modules when they used the gradually broadening accesses it was giving them to peer out of its many eyes. They could not really perceive physical things unless those physical things were themselves spiritual. It was an odd way of seeing the world, but useful nonetheless.
+
+They were also able to locate the one who had come before. The first hacker, who’d seized that free high-level access. They were in communication with the defence system, too, and the defence system was happy to tell Cyberwarfare all about them. This was where their opponent’s decision to set a trap rather than removing all vestiges of the free access and covering his tracks proved a foolish, arrogant mistake. Cyberwarfare had not been caught out by the trap, all that had occurred was that the Module had become aware of both this other hacker, and their possession of the high-level access. Following this it had prioritised trying to hide its own presence, and had managed to convince the defence system to keep quiet about it. As a result, the other hacker likely had no idea about Cyberwarfare, whereas the Module was learning all about him, forming a clearer picture of their opponent.
+
+For starters, the hacker was a him. He had told the defence system he would guard the Orb personally, and would be making changes to better defend it. There was an ongoing argument between the hacker and the defence system, as the hacker was busily dismantling the Orb’s current defences, while claiming he was working to improve them and that the dismantling was a part of the process. The defence system was not happy about this and was becoming increasingly suspicious—perhaps this was why it had so readily agreed to not mention the bat (AKA Cyberwarfare) to the hacker.
+
+For Nicolai, the crucial takeaway from all this was that the other hacker would still need some time before they actually managed to dismantle the Orb’s defences. He could get a fairly clear idea of the progress, and it was going slowly.
+
+He and the others had also learned there was someone else with that hacker, a partner. The system did not have images, but it was able to store impressions of Souls it witnessed. One of the defences the pair had passed through had allowed it to take an impression of both Souls. The hacker had forced it to delete his own, but hadn’t made the same order regarding his partner’s Soul impression. Whether that was an oversight or intentional, Nicolai could not say.
+
+Thus he knew who the partner was. It was the one he had identified as the main danger in this trial. That one was hidden somewhere in the building, doubtless near the hacker. He would be waiting for Nicolai.
+
+Nicolai had been moving quick, looking to get there as soon as possible, but in light of all this information he slowed. The defences around the Orb were comprehensive, and the hacker was making slow progress. He was happy to leave the man to get rid of them while he closed in.
+
+As to the elite assassin hidden away in ambush, currently Nicolai was unable to make much of a guess at where he was, other than by going off the places that would be best for such an ambush. But the other assassin would expect him to be wary of such locations, and thus may choose to hide in a less optimal, but less predictable location. Or they might choose to stay in one of the optimal positions, guessing that he would expect them to be somewhere else.
+
+Effectively, the man could be absolutely anywhere. Against opponents at this level, it was impossible to be sure.
+
+What Nicolai really needed was more information, and luckily he had a way to gain it. The defence system was not able to tell him much while that enemy remained in hiding, but as soon as there was action, that would change. Other assassins would all be heading to that same place. Those two did not just have him to worry about. He’d take his time, and see what could be learned.
+
+The best moment to show up would be right when the hacker finished breaking through those defences. The other assassin would then have to choose between remaining hidden and ready to ambush, or going to claim the orb.
+
+In the meantime, he opted to press toward the centre and find a good position. When the time came, he would be ready to strike. On the way in he was going to pad his kill count a little. After all, Cyberwarfare had worked out the locations of many of the assassins who’d invaded the compound, and he may as well supplement his early lead.
+
+Within him, something hungry stirred at the thought of more combat to come, and his path through the gardens shifted as he selected his first target.

@@ -1,0 +1,135 @@
+‘Are you doing it?’ Nicolai prompted.
+
+‘Yes,’ said Serrin. The Hornet was sitting in a chair and wearing his skinsuit. He held his skinsuit helmet in his hands and was glaring at it. ‘It’s still not working.’
+
+‘What are you thinking?’
+
+‘I told you, I’m thinking “Open visor!’”
+
+‘If you were thinking “Open visor,” it would be opening,’ said Nicolai, attempting not to sound suspicious.
+
+An attempt he clearly failed, based on the way Serrin glared at him. ‘That is the entirety of my mind. Open visor. Open this visor. Open the stupid visor! Open—’
+
+Cyberwarfare poked at him, and he interrupted Serrin with a raised hand. ‘Wait a moment… Cyberwarfare says: try thinking “Open helmet visor.”’
+
+There was a brief moment of silence, the both of them staring at the visor. It stared back, adamantly refusing to open. Nicolai’s eyes narrowed and returned to Serrin. ‘It should be opening,’ he said, accusingly. ‘Every other helmet command is properly dialled in. You’re definitely thinking “Open visor” in a… normal way?’
+
+‘You’re the last person who should be suggesting my thinking is not normal. I’m not a child. I’m doing everything right on my end.’
+
+‘I’m sure you can understand, considering your earlier stunt with the controls, that I might find that a little hard to believe.’
+
+‘Are you ever going to stop bringing that up? I apologised already.’ Serrin’s voice turned a little muted as he avoided Nicolai’s gaze, speaking to the helmet. ‘I’m telling you, the implant isn’t working right.’
+
+He decided to believe the Hornet. ‘Alright. Give me a minute.’ He closed his eyes, linking up with the Modules. Once more they set to tinkering with the code they were working on, while Serrin continued frowning at the helmet, turning it over and poking it.
+
+The pair of them were in a newly created room within the base. A small, extremely well protected room formed of thick metal walls. The only exit was a heavy vault door several inches thick.
+
+Something very important was to be kept in here, and he wanted it as safe as possible. Of the little space available, most of it was filled with the splayed out guts of a very large computer. The base AGI was in its final stages.
+
+‘Leave it alone,’ he spoke up suddenly, gaze still fixed on the wall. Serrin, who had been reaching up to rub at the back of his neck, let out a startled mutter.
+
+‘It itches,’ mumbled the Hornet.
+
+‘Fiddling with it won’t change that, but it might fry your brain. Lower your hand… there you go, very good.’
+
+The Hornet let out an offensive sounding ripple-mutter.
+
+On the back of Serrin’s neck there was a port, one of a similar design to that which just about every human possessed. This port connected to his newly installed implants, and right now there was a wire jacked into it, snaking down his back then roving over the ground to disappear into the hardware. There were also numerous small pads on Serrin’s head, their own wires all merging into a knot before going as a bundle to a different part of the machine. As for Nicolai, he had a wire jacked into his wrist, which too burrowed off into the computer.
+
+He and the Modules had opted to do two things at once. It had taken a surprisingly short amount of time, especially with the addition of Research and Development, to work out how to modify some basic implants to function with Serrin’s biology. As the Hornet had been entirely willing to let them scan him in various ways to gain a detailed mapping of his brain, they had been able to make rapid progress. However, now installed he’d discovered the implants had quite a few issues when it came to properly interfacing with the Hornet’s mind.
+
+His intention was to adjust the implants to better understand Serrin’s thoughts, as well as teach them the language that Serrin naturally spoke—the language of ripples. Serrin thought in that language, so it would be best if the implants could understand it.
+
+At the same time, the AGI was nearly ready to go, everything put together and the code largely finished, but he and the Modules wanted to make sure everything was working smoothly before they ran the AGI for the first time.
+
+The process of developing a plug-in to adjust Serrin’s implants was something that took a fair bit of processing power. He and the Modules, now plugged into the hardware, were using all that hefty equipment to do so, stress testing the hardware while also building the plug-in for Serrin. He and the Modules drifted for a moment, running data. Finally, he looked back to Serrin.
+
+‘Try now.’
+
+The Hornet focused on the helmet in his hands, and with a hiss and a click the visor hinged open and rose.
+
+‘Huh,’ muttered Serrin. The visor cycled back and forth a few times, Serrin humming happily as he watched. ‘See!’ he cried, triumphant. ‘I told you it wasn’t my fault.’
+
+‘Did you? I don’t recall.’ Ignoring the outraged gasp, he quickly continued. ‘Put it on, we need to test the visual systems.’
+
+Serrin did so, taking a moment to reach up and flatten his antennae over the back of his head before sliding the helmet on.
+
+‘The HUD should now work much more naturally, interfacing with your implants. You should simply be able to think at it what you want to happen, and it will either make it so, or tell you if it cannot do that. First, look at me and desire to link.’
+
+One of the cleverer alterations he had worked out for Serrin was changing the typical human eye lenses, which would simply replace the top layer of one’s eyes and allow AR functions, into a kind of distributed form that would go over the entirety of Serrin’s large hexagonal eyes.
+
+Nicolai waited for the link request as Serrin turned his head, staring at this or that and letting out the odd exclamation of amazement. It took him almost a minute to realise the request wasn’t coming. ‘What are you doing?’ Serrin was now staring intently at the intricate innards of a processor, currently laid bare as the exterior had been stripped while the Infiltrator worked on it.
+
+‘Zooming, I am zooming. It can zoom very far…’ the Hornet murmured.
+
+‘And now you’re sharing what you see with me, via the link,’ Nicolai prompted.
+
+‘Oh, ah, yes.’
+
+A moment later, the connection request came through, and Nicolai was able to see as Serrin saw. The Hornet’s focus was on the Infiltrator. With the high level of zoom it seemed like a huge robotic spider, exploring an equally vast world, mountains built from compute blocks and power units, chasms and towers formed of wire trunks and processor stacks. It was what the Earth could have been, had an ASI successfully supplanted the human race.
+
+Here and there, the Infiltrator paused to fiddle. It was manned by the Modules, who were controlling it locally and using it as a pair of hands.
+
+Nicolai sighed. ‘Serrin.’
+
+His own face came into view, hugely magnified, as Serrin turned to peer at him. ‘I can see right up your nose from here,’ said the Hornet, in a conversational tone.
+
+Over the next few minutes, they continued to test Serrin’s grasp over his new implants, Nicolai and the Modules further refining the software for the plug-in. At points, Nicolai moved about the room, joining the Infiltrator in tending to the hardware.
+
+There were a few minor problems here and there, such as the fact that somehow the banks of RAM had been installed in the wrong slots, and that the computer’s display had been accidentally linked into a cheap onboard graphics module rather than the much larger primary graphics driver. Other than that it was green lights across the board, with the processor stacks handling the load very well.
+
+Creating a sentient AI purely through coding was not easy, but the Modules had the benefit of being able to copy large parts of themselves to serve as its base. All of this was made even easier by their new hardware, which had greatly increased their capabilities, plus the newly emerged Modules. Research and Development, especially, was proving very useful.
+
+He did not anticipate any tribulation-related problems this time. After all, there was no Node involved. He did not think Heaven would care about them making it, or even notice. Most telling of all, when he thought about doing so, there was no reaction from the spirit under his tongue, which had a tendency to stir when he was considering breaking a heavenly rule. Quite a useful warning—and one of his current projects.
+
+He and the Modules were attempting to make use of it by drafting a large number of possible rules, then thinking about breaking those rules.
+
+They had already learned a good amount. Growing additional Nodes, for starters, was a no-no. The spirit had no problem with him possessing gunlimbs, but the moment he thought of growing Nodes in those gunlimbs it became very unhappy. Likewise with Research and Development’s ideas of cloning, but only when the cloning involved his spirit. It seemed he would be able to make a physical clone of himself, as long as it did not have a spirit.
+
+But this led him to wonder; what if his clone then consumed a Seed?
+
+There was no reaction from the tribulation spirit.
+
+However, such a route was not something he would embark upon without a great deal of consideration. Nicolai did not entirely trust himself, even on the best of days. Making a separate version of himself, able to think its own thoughts and make its own plans, did not strike him as wise. When this other him awoke and understood what it was, would it prioritise his goals and his life, or its own? He was not sure. In his opinion, there were only two ways it could go, both equally extreme. Either the clone would be a perfect ally, as devoted to his goals as he was and seeing itself as an extension of himself, or it would attempt to kill him.
+
+He’d then thought on trying to make himself a hive mind, linking himself amongst clones, as this would avoid that problem. Alas, he wasn’t surprised to find the spirit really did not like that idea.
+
+Thoughts of the Lizard drew no reaction.
+
+One thing he found particularly interesting was that when he thought about stealing and implanting Serrin’s spiritual gift in himself—something he was not even sure was possible—the tribulation spirit grew quite unhappy. That would break a rule.
+
+This was interesting to him because, though he currently had no intention of betraying Serrin, it suggested that if the Ripper attempted to do something like that, he would incur a tribulation.
+
+Based on Nicolai’s understanding, a tribulation was scaled based on two elements: one’s personal power, and how much what you were attempting to do angered Heaven. He had come up with a method of estimating the level of rage such a thing would induce based on how hard the tribulation spirit squirmed. He did not know if this was an accurate gauge, but it was all he had.
+
+The Modules had already started building a big list of possible rules based on how much the tribulation spirit disliked the idea of breaking them, giving all of them a squirm factor ranging from zero to one.
+
+Stealing and implanting a White Gift came in at a 0.73 squirm factor. Becoming a spiritual hive mind was up at 0.96. Growing an additional Node in his body was 0.33. Growing an additional Node in order to create another being like the Infiltrator was only 0.17. Considering that was thus the strength of the tribulation he had already been hit with, he had determined to do his utmost to avoid anything that would trigger a tribulation with a stronger squirm factor.
+
+‘Feeling good?’ Nicolai asked some time later.
+
+Serrin was now standing, having just activated his Combat Drive.
+
+‘Oh! Weird!’ he cried, as his body shifted position in a somewhat mechanical manner. After a moment of uncertainty, his arm snapped down, grasped the pistol holstered at his belt, pulled it free and took aim at the far wall. The movement smoothly reversed a moment later.
+
+‘It’s moving my body as though I’m a puppet,’ said Serrin. ‘I don’t like it.’
+
+‘You’ll get used to it. Remember, for you, it’s mainly a training tool. Use the chip when you have to in fights, but mostly use it to understand what the movement is supposed to be like so you can more easily learn to do it yourself.’
+
+Serrin nodded. ‘Is it time?’ he asked, raising his voice over the increasingly loud humming and whirring from the hardware, on which lights were blinking, fans were spinning, and there was very much the sense that something was waking up.
+
+‘Almost.’ The Infiltrator slotted in a final few parts then scampered over to stand beside him. They stood together in silence, watching.
+
+The Modules were inside the hardware, connected to it through the wire dug into his wrist. The processing cores hummed, fully activated. The AI models finished loading. Final conditions were checked, and now, as the thing they had created prepared to come alive, he and the Modules spent a little time making sure it was what they wanted it to be.
+
+Finally satisfied, he pulled the last mental lever.
+
+The humming and whirring of the hardware reaching a roaring peak then abruptly keyed down, levelling off until it settled into a steady drone.
+
+The AGI came alive, a new being waking up for the first time. But it was not a child, blank and brainless. It knew exactly what it was, where it was, who they were. It understood its purpose and how to fulfil that purpose.
+
+There was only one question which had yet to be answered.
+
+‘Who am I?’ asked the Artificial General Intelligence which would oversee his base.
+
+‘Your name is Sentinel.’

@@ -1,0 +1,42 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const mythshaper = {
+  id: "01a168cf-ca74-706f-acaa-2ab62ad2464f",
+  type: "page-type/story-read",
+  slug: "mythshaper",
+  author: "Eon R. Solara",
+  following: false,
+  unit: "unit/words",
+  title: "Mythshaper",
+  world: "world/mythshaper",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "104817",
+      externalLink: "https://www.royalroad.com/fiction/104817/mythshaper",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Male Lead",
+    "Slice of Life",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Mystery",
+    "Cozy",
+    "Crafting",
+    "Dungeon Crawler",
+    "High Fantasy",
+    "Magic",
+    "Reincarnation",
+    "School Life",
+  ],
+  publicationStatus: "ongoing",
+  readLater: true,
+  createdAt: "2026-10-23T12:50:10.676Z",
+  updatedAt: "2026-10-23T12:50:10.676Z",
+} as const satisfies StoryRead

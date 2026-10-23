@@ -1,0 +1,169 @@
+Nicolai headed to the Slayers Guild, where he claimed his points for the various kills he’d turned in. That added another 300,000 points to his total, stuffed into the Big Mouth with the rest. After that, he went straight to the Market.
+
+He wanted to amass as much money as he could through every means available before he started spending at the Trade Link.
+
+Amongst the other things it’d made, the Assembler had outputted a good number of droids, semi-auto anti-materiel rifles, and gun drones. Three items he anticipated people from Earth would be very interested in. Since he’d made them via the Assembler, his only expenses were the materials used.
+
+He opened his portal in a quiet alleyway off the Market, and the droids came marching out. Once they’d formed up he led them forward. He paused as he exited the alleyway, gazing around at the Market. There had been some significant changes. He’d seen it all earlier via his drones, but now spent some time looking more carefully.
+
+The last time he’d been here, he’d observed that the House controlling the place had been offering to lease out buildings, letting Players set up their own permanent shops. That had evidently worked out, as he saw numerous shops. Most buildings here in the Market had glass frontages, and the shops that had appeared were making full use of that, goods displayed behind their windows.
+
+There were large signs above each shop. In some places it was clear they were still getting set up, with one sign being hastily erected.
+
+There was quite a sharp divide between the shops.
+
+All the shops on one side of the square were very clearly cultivator-owned, signs written in Shenran, though this was translated instantly by his Mark. Spiritual emanations pulsed out from the goods displayed behind the windows, and the occasional Artifact flew around outside, displaying itself. A steady stream of robe-wearing, Artifact-bearing Cultivators flowed in and out the doors.
+
+On the other side of the street, the signs glowed with neon light. There were hologrammatic displays around the doors, gesturing people inside to where the weapons and equipment of Earth were shown behind the windows. Cyborgs and Earthers kitted out in combat suits and projectile weapons pressed in and out.
+
+The starkest divide was between two shops in particular, which stood directly across from one another in the square. They were also the two largest shops. Where the others simply wrote their name on the sign and listed what was on offer, these two had an additional sign.
+
+On the Shenran side, the large, rich-looking shop bore a large sign that read:
+
+GRAND TREASURE PAVILION
+
+(NO BARBARIANS)
+
+Posted above the largest shop on the other said, there was an equally large sign reading:
+
+NEW WAVE ARMOURY
+
+(NO PRIMITIVES)
+
+So far as he could see, most of the foot traffic was around these two shops.
+
+All these shops were a new development—and, in his eyes, not necessarily a good one.
+
+The square was the least crowded he had ever seen it. Of course, at this time of the day it always tended to be quite quiet, getting busier later on. But even so, it shouldn’t be this quiet.
+
+The reason was obvious. A large portion of those who would typically be wandering the square, buying or selling, were now inside these new shops. Instead of being forced to wait for someone willing to buy what they had, or selling what they wanted, and thus congregating in an irritable, shouting mass, the majority had chosen the much easier—though doubtless more expensive—option of just going to a shop. This would be self-reinforcing. With less people wandering around buying and selling, there was even less reason to stand around. Likely at the end of the day that would change, but for now…
+
+Quite a problem. He was here with shit to sell and his prospects didn’t look great. But there was nothing to do but try anyway. Shrugging, he strode forward and sent a command over Local. From the small alleyway he’d emerged from there came a clanking and a buzzing.
+
+Rank after rank of GRECKON-style LDI droids marched out, gun-drones taking up formation above them. Each droid held a semi-auto anti-materiel rifle in both hands, pointing up like soldiers on parade.
+
+They caused quite a stir as they marched through the area and took up positions toward the centre, the few dozen people in the Market turning curiously.
+
+Nicolai planted himself in front of them, filling the Local with self-hosted interactive advertisements. Effectively, something similar to a website that people could dig through for information on what he was selling (unbeknownst to the average shopper, they would be interacting with the Modules, who wore these Local displays like masks. Psychology especially was quite eager to employ all kinds of tactics to convince people to buy).
+
+The Cultivators gave him a wide and wary berth but he soon had a small number of interested Earthers come over to examine the droids, drones and guns, and almost half those present were interacting with his Local ads.
+
+The gundrones turned out to be the most popular. They were the cheapest items he had for sale, at 20,000 each, so perhaps that was to be expected. The droids were listed for 70,000, and the anti-mat’s for 60,000. This was an extremely good deal. The anti-mat’s were not only semi-auto but also cheaper than those at the Trade Link, a method he was employing due to the anticipated lack of trust people would have towards someone showing up out of nowhere to sell things that weren’t sold by the Trade Link (it was quite easy to determine this, as he’d found his Mark threw up Examine text when used on any of them. This gave information on what the object was, and also mentioned it had been made on-world—typically, items from the Trade Link would identify themselves as such in Examine text. Fortunately, the Examine text didn’t reveal anything about the Assembler). That was quite a hit in terms of trust—the Trade Link may be expensive, but it came with a guarantee that you would get exactly what you paid for. Once he’d built a bit more rep he could start raising prices.
+
+In spite of this strategy, business was not booming. For the first ten minutes no one bought anything, but then one man bought a pair of gundrones, and that caused a few others to take the plunge.
+
+Thirty minutes later he’d sold six gundrones and two rifles. None of the droids sold. He was richer by 240,000 points, but the next thirty minutes passed with no sales.
+
+He glared at the shops. People emerging from them never came over to him, and he knew why. They’d likely just completed all their business, selling what they wanted to sell then spending all that money on new purchases. Nothing to spend on his goods.
+
+One precious hour of his time in the city gone. There was no telling how long he’d have to wait for more interested customers to show up. Possibly he ought to just wait until the end of the day and do his selling when the Market was at its peak business, but he wanted all the money he could get his hands on now so he could buy the many things he needed. Every ten minutes he would quickly portal back to his base, and each time he was primed for something to have gone wrong, a new invasion by bugs or something else. Threat Analysis told him he was being paranoid, that the odds of another event were very low, but part of him remained convinced that unless he got what he needed fast, something would happen.
+
+He would’ve loved to simply park his droids, remain connected to them over Local, and then do the whole thing semi-autonomously. After all, on the surface there was no reason he couldn’t do the whole Local-sale thing from a distance, he’d just need a connection.
+
+Unfortunately, some quick tests with Serrin had revealed that ownership in the City was not so easy to transfer. Serrin had “bought” one of his droids purely by interacting with the droid itself, handing over an Oma crystal to a separate “salesman” droid in payment. But the City hadn’t actually considered the droid Serrin’s property (tested via opening the trading UI, where one could only put up items that the City considered theirs), and in fact the ownership of the Oma crystal hadn’t passed on to Nicolai, either. Serrin would’ve been free to retrieve the crystal from the droid or Nicolai (who hadn’t even been able to take it through his portal), with the City’s restriction effectively forcing it into the Hornet’s hand should he ask for it.
+
+The end result was that the actual “owner,” as the City defined it, had to be there in person. Thus Nicolai had little chance but to stand here, stewing. This isn’t going to work. His eyes shifted from shop to shop. Rather than competing with them, it looked like his best option was to work with them.
+
+‘You’ve been busy,’ came a voice.
+
+Nicolai glanced behind him, making a show of surprise upon seeing Wu, who had been wandering slowly in his direction for some time. He’d been tracking her via drones since he’d first blanketed the City and had seen her coming from a literal mile away.
+
+She was looking over the neatly arranged ranks of droids, drones, and guns, eyebrows raised. ‘What are all these, then?’
+
+Nicolai slid into salesman-mode. ‘Autonomous weapons systems.’ A gundrone hummed over and landed smoothly on his upraised hand. ‘This gundrone fires rifle rounds. It’ll break your average Tier 1 Skinshield in seconds, then put some big holes in the target.’ A droid strode over, settled onto one knee beside him and aimed its anti-mat at a Cultivator passing by. ‘Bang,’ it buzzed, and the man flinched then moved quickly on, eyes wide. ‘This gun punches straight through typical shields in one shot, and even the best can’t take more than one. It has ten shots, fired almost as fast as you can pull the trigger,’ Nicolai continued. He dropped a hand on the droid’s round head. Wu was giving him a look like she was waiting for him to finish but he was on a roll. ‘This thing can use any gun you give it, and it’ll shoot the wings off a fly at fifty metres. It will follow your orders autonomously. Just tell it what you want, and it’ll get it done. Useful in all kinds of ways.’ His H-gram smiled expectantly. ‘So. Interested?’
+
+She waited a few seconds to make sure he was done. ‘Wow,’ she said at length. ‘Quite a pitch. Actually, I could use some backup dancers for a show I’m putting on. Can they dance?’
+
+He frowned, thoughtful. The Modules were suddenly intensely focused and interested, and before he knew it he’d mind-melded with all of them. In moments a whole routine had been rigged and readied.
+
+The droids erupted into dance. They moved in perfect sync, stepping to the left and spinning their guns, snapped into a combat stance, took aim and slowly panned, kicked their legs and then jigged back and forth.
+
+‘Anything you want,’ he said, nodding in satisfaction at the droids’ movements, feeling certain he was finally going to sell one of the things. That might just start off a chain reaction—there were still a few who’d seemed tenuously interested wandering the Market.
+
+Wu burst out laughing. ‘They really can do anything,’ she said, grinning.
+
+‘Only 70,000 points,’ he said hopefully. ‘They’ll really stand out as backup dan—‘
+
+‘I was joking.’ She shook her head, eyebrow raised. ‘Who do you think I am? But I could actually make use of one of them.’
+
+His smile returned. Then, since they were, in a way, allies of a sort, the Mask pressed him into adding, ‘Just watch out. If you’re up against someone from Earth. These have quite strong countermeasures, but unless you’ve developed significantly in your use of the Local, a skilled enough hacker could still take these from you.’
+
+‘That wouldn’t be a problem for me,’ she said, dismissive.
+
+He nodded, curious. She was definitely involved in some kind of large cultivating faction—or group of factions—outside of this city. So long as she wasn’t crossing blows with anyone from Earth, she should have little to fear in terms of hacks.
+
+‘However, 70,000 seems a little steep.’
+
+He rolled his eyes. Of course. ‘Just for you, and just this one time, I can do 50,000.’ The material cost for a droid wasn’t even 10,000.
+
+She raised her brows. ‘You don’t strike me as the type to do something out of the goodness of your heart.’ She smiled, expectant. ‘I’m guessing you want some help with the Market Quest again? Unfortunately,’ and she gave a languid, regretful shrug, ‘I completed it last week, and I don’t think I have the time to do the same this week.’
+
+This was obviously her fishing to see if she could make him “convince” her to help him out, likely to immediately pay off his minor favour and extract a more significant one from him in turn.
+
+‘Don’t worry about it,’ he said. ‘If I have time, I anticipate being able to do it myself.’
+
+She raised her brows. ‘You have another friend?’
+
+‘Of a sort,’ he replied. Serrin was unlikely to help him scam people, but once he was able to bring the Infiltrator it should manage the job easily enough. All that he really needed was another person or thing able to send both spiritual emanations and Local messages.
+
+‘What happened, anyway? Why did you have to run off like that?’
+
+He debated how much to tell her. After a moment, he simply said, ‘My home was attacked. I was forced to go and defend it.’
+
+‘Shame,’ she murmured, seeming almost truly sympathetic.
+
+They made the exchange. She took her droid into her portal, then returned moments later without it, seeming quite pleased about the whole thing.
+
+‘There is something you can do for me, in return for the discount,’ he said when she reappeared.
+
+‘Here we go,’ she replied, smirking.
+
+‘It’s nothing big.’ He turned and nodded towards the side of the square dominated by Cultivator-owned shops. ‘I was wondering about those. All next to one another. The big one in the middle is already stocked with plenty of goods and it’s only just opened. The pawn shop right beside it gives me the impression it’s owned by the same group, likely funnelling the goods they buy for cheap straight onto the shelves to be sold for much greater prices. Then there’s that one beside it, which promises to give an impartial valuation of your goods. In fact, they all seem part of something larger.’
+
+‘Yep,’ she said, nodding. ‘They’re all owned by the same group. Some big backroom deal went down last week, an alliance has formed between the Hao clan, the Nara clan, and a branch of the Pavilion sect.’
+
+Nicolai raised his eyebrows. He knew Hao clan and the Nara clan, but he hadn’t heard much about the Pavilion sect outside of his first day in the city, when he’d gained the impression it was quite powerful.
+
+‘And how much do you know about these groups?’ he asked.
+
+‘Less than some, more than most. The Hao clan weren’t a big deal back where we came from, but here they seem to have lucked out. Maybe there’s an Inheritance they’re farming, or just a bunch of natural resources all nice and close. All the clans and sects are far, far poorer than they were back home, cut away from the resources they’ve been cultivating for millennia, but the Hao seem to be doing better than ever.’
+
+‘Other than the injection of wealth they’ve received, they aren’t anything particularly special. I’m guessing that’s why they were so keen on forming the alliance with the Nara. They’re a whole clan of mercenaries, known as some of the best fighters you can find within a realm. Back home, they spent pretty much every resource they gained on improving their combat strength, which has turned out pretty well for them, since people were able to bring Symbiotes and some Artifacts, but not large arrays of ritual formations or huge farms of resources.’
+
+‘As for the Pavilion sect—well, they’re a sect. That means they’re a lot bigger, a lot more numerous, and a lot stronger than any clan. They seem to be quite split up with their arrival in this new world. I seriously doubt they would have entertained any kind of alliance with a group like the Hao back home. But things are different here. How long it’ll last, who can say?’ She shrugged. ‘For now, those three are a major power in this City sector, and they’re doing all they can to ensure these shops will be a success.’
+
+‘And yet they’re not welcoming all customers,’ said Nicolai, his eyes on the big no barbarians sign plastered above the Grand Treasure Pavilion.
+
+‘Just a ploy,’ she said dismissively. ‘You know how it is. There are people who’ll be much more eager to shop just because of that sign.’ She nodded to a few other shops, a few doors down from the big one. ‘Those ones are open to all, and owned by the same group. The best goods are in the main shop, but the vast majority of your people wouldn’t be interested in them anyway.’
+
+Nicolai nodded. She was right, most from Earth were only somewhat interested in Cultivating items, preferring to rely on tech they were familiar with.
+
+Wu turned to eye the shops across the way, practically a mirror image only Earth instead of Shenran.
+
+‘And what do you suppose of these? It all has the same look and feel as across the way. It gives me the impression of numerous influential and moneyed people coming together.’ She looked up at him expectantly.
+
+He nodded. ‘I think you may be right.’
+
+‘What, that’s all?’ she said, disappointed. ‘I just laid out some great info. You must’ve heard something about them. Come on, don’t hold out on me.’
+
+He shrugged, defensive. ‘I’ve been busy.’ Her brows lowered. ‘I’ll investigate,’ he said, patting at the air. ‘Whatever I learn, I’ll pass on to you.’
+
+She smiled back. ‘Appreciated. I’ve got some of my own shopping to do, so, farewell.’
+
+‘Wait. I wanted to ask about that one.’ He nodded to one more shop. This one was off on its own, between the two sides. In total contrast to the others, it had a large, inviting sign reading:
+
+BRIDGEPOINT
+
+ALL ARE WELCOME
+
+BUY ANYTHING, SELL ANYTHING
+
+This one was not as busy as either of the other two sides, but it certainly wasn’t quiet, managing its own business with a mixture of Shenrans and Earthers.
+
+‘Do you know much about it?’ he asked.
+
+‘I know all kinds of things, and Bridgepoint is pretty interesting. So far as I can tell, it’s got nothing to do with the other two sides, though I wonder how long that’ll last. It’s owned by…’ She trailed off, smirked when he tilted his head with interest. ‘I figure I’ve paid off that 20,000-worth of favour now. So, until, you can tell me something about New Wave Amoury and the rest of them, you can do your own digging.’ She turned and walked off, raising a hand. ‘See you!’
+
+Nicolai watched her go, brows raised, then shrugged. Fair enough. Perhaps he should’ve mentioned Gregory to her. He’d been thinking of doing so, grabbing that finders fee and earning himself a little brownie points with both of them. Was there any reason not to? The Modules didn’t see one, but he decided to make up his mind later anyway.
+
+He turned to the Earth-side shops, considering. He’d been planning on having a look anyway, and she was right, he ought to do his own investigation.
