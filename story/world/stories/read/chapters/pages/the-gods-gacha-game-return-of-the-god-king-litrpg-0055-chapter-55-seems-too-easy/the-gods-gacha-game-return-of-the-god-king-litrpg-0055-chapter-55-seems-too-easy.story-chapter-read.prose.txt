@@ -1,0 +1,153 @@
+We soon found the first altar deep within the forest. Surprisingly, there were no monsters guarding the area. It appeared that the monsters likely didn’t patrol this one, or the scenario just made it easy for us to activate the first altar.
+
+Either way, the altar stood at the center of a natural clearing, half-overgrown with moss and tangled roots with small cracks here and there, yet it felt as though it still contained traces of divine energy. It was shaped like an ancient stone basin, carved with faded runes and forest motifs—depictions of deer, trees, and star-shaped symbols, all weathered by time. Despite the corruption surrounding the forest, this place retained a sense of sanctity.
+
+“Doesn’t seem like a trap,” Boris muttered, casting a wary glance toward the treeline.
+
+Michelle crouched and examined the ground closely. “No tracks or signs of monsters nearby… I think this place is safe. And judging by the wear on the stone… the altar’s definitely been here for centuries.”
+
+Carefully, I stepped closer to the altar and took out the severed stag head from my inventory. As I laid it gently onto the altar, the runes flickered to life, glowing gold, then darkening into a deep violet. A faint pulse of energy rippled outward, washing over us.
+
+You have activated Altar of the Grove (1/5).
+
+Corrupted divine energy stirs… The guardian stag grows stronger.
+
+Although the message on the blue screen was short, it confirmed that each offering empowered the boss. The more altars we lit, the greater the rewards… and the more dangerous the final battle would become.
+
+“Well, no turning back now,” I said quietly. If push comes to shove, I can always rely on my signature skills.
+
+Michelle rose to her feet, her expression calm but focused. “Four more to go.”
+
+Boris grinned and started walking ahead. “What’re we waiting for? Let’s get this over with.”
+
+We left the clearing without delay, retracing our steps into the twisted underbrush. Time was still ticking, and the deeper we went, the eerier the forest became. The trees seemed to lean closer, and the air grew heavier with every step. Thankfully, with Michelle’s Tracking and Forest Sense skills, it didn’t take long to locate another corrupted stag.
+
+Like before, it was guarded by a group of monsters, but this time, we dispatched them with relative ease. Michelle took down the shamans from afar, Boris faced the brutes, while I focused on killing the stag and other monsters that blocked my way.
+
+You have hunted [Grovedweller Lv.30].
+
+You have gained 400 EXP.
+
+You have leveled up.
+
+You have hunted [Grovedweller Lv.31].
+
+You have gained 410 EXP.
+
+You have hunted [Grovedweller Lv.31].
+
+You have gained 410 EXP.
+
+You have hunted [Corrupted Antler Stag Lv.57].
+
+You have gained 670 EXP.
+
+You have leveled up.
+
+I was very close to reaching level forty. Just one more battle would propel me to the limit of Bet-rank. And with that, the chance to uncover the prerequisites for class advancement.
+
+The thought alone sent a current of anticipation through me. Not because I wanted more power for its own sake, but because I needed it. Divine Will would never favor the weak; it would cull them. Only the strongest could rise above the rest and reach the peak. If I wanted to reclaim my throne—if I truly intended to defy the fate that had bound me—then I had to put in multiple times, or even dozens of times, the effort of other people.
+
+“There seems to be another altar ahead,” Michelle suddenly whispered, peering past the twisted trunk of a gnarled tree. “And it’s being guarded by something.” She gestured toward a thin veil of fog ahead.
+
+Thanks to Mana Sense, I was able to detect several presences within the fog with immense mana. “Three guards… I think they are all elites. One of them… might be a mini-boss.”
+
+Boris grinned. “Good. I was starting to think this scenario had gone soft.”
+
+“Let’s not get careless,” I muttered, tightening my grip on my sword. “Visibility is low, so long-range attacks won’t be reliable. This’ll be a close-quarters fight.”
+
+“Offense is the best defense,” Boris said with a nod, clearly agreeing with my assessment.
+
+Quietly, we advanced, moving into position around the edge of the clearing. Once we were within twenty meters of the nearest enemy, I was able to see the enemy’s details.
+
+[Grovedweller Shaman – Lv.50]
+
+[Grovedweller Shaman – Lv.50]
+
+[Dark Grovedweller Shaman – Lv.60]
+
+Threat Level: High
+
+It was the same mini-boss that we fought in the previous scenario, and as far as I remembered, it had been a troublesome opponent, albeit not something that would be difficult to defeat now.
+
+We exchanged quick glances and nodded. There was no need for words since each of us knew what to do. Then, without hesitation, we charged in with our weapons raised high. Or in Boris’s case, just his fists raised before him with the activation of Iron Body as he barreled ahead to take the lead.
+
+The mist parted while we broke into the clearing. The two ordinary shamans turned just in time to raise their staffs. But the dark shaman at the center remained still, simply turning its glowing eyes toward us, as though it had been expecting us.
+
+Michelle’s arrow whistled past me and struck one of the normal shamans in the shoulder, interrupting its casting. I dashed in and followed up with Heavy Slash, cleaving its staff in half before stabbing it through the chest.
+
+You have hunted [Grovedweller Shaman Lv.50].
+
+You have gained 600 EXP.
+
+To my left, Boris collided with the second shaman like a wrecking ball. The earth shook beneath his charge as his iron-plated fists slammed into the creature’s skull with a sickening crunch. The impact alone was enough to kill it instantly.
+
+Then came the real threat.
+
+The dark shaman raised both arms, chanting in a guttural, ancient tongue. In response, thick black roots erupted violently from the soil beneath us. I barely had time to react as my passive movement skill activated, allowing me to narrowly avoid being skewered.
+
+“Michelle!” I shouted.
+
+“Already on it!” she replied, loosing another arrow, this one tipped with fire.
+
+The arrow struck the shaman’s chest and ignited, burning its wooden body, but that didn’t stop it. It didn’t even flinch, and instead, it continued chanting. Then, suddenly, a thick green mist poured from its mouth at us, spreading rapidly like a plague. Damn, it’s spewing poison. I have to somehow end this soon!
+
+I instinctively backed away as the fumes got closer. Even though I had Poison Resistance skill, it was at the lowest level, and a prolonged exposure would still kill me.
+
+But then I realized something and extended my arm, pointing directly at the shaman. “{Mana Bullet}, {Mana Bullet}, {Mana Bullet}, {Mana Bullet}!”
+
+Each spell fired in rapid succession, purple bolts of compressed mana tearing through the air and slamming into the creature’s chest. The first two hits staggered it slightly. The third knocked it off balance. The fourth struck it square in the jaw, snapping its head back violently. But I didn’t stop with just four shots.
+
+I kept casting {Mana Bullet} again and again, draining my reserves as each shot landed with force. It wasn't until I ran out of mana and until the shaman tumbled did I stop, and with it, the green poison mist began to thin. Boris didn’t miss the opportunity as he lunged from the side and tackled the creature to the ground. But even after all that, it wasn’t dead yet.
+
+Switching my weapon to my spear, I leapt into the air. Power surged into my arms as I shouted, “Heavy Stab!” The spear plunged down with force, piercing through the shaman’s chest cavity and pinning it to the forest floor.
+
+Only then did its body finally go still.
+
+You have hunted [Dark Grovedweller Shaman Lv.60].
+
+You have gained 700 EXP.
+
+You have leveled up.
+
+You have reached the level cap for your current rank (Bet [2]).
+
+10% of all subsequent EXP will be stored and awarded upon advancement.
+
+Basic Neutral Magic has leveled up.
+
+Heavy Stab has leveled up.
+
+Level forty.
+
+I let out a long, steady breath as the System notifications faded from view. I’d finally reached the limit of Bet-rank. Now, the real test—fulfilling the prerequisites for the class advancement—would begin.
+
+Without hesitation, I checked the class advancement prerequisites.
+
+Class Advancement Prerequisites:
+
+“What the hell?”
+
+The first three conditions weren’t too difficult, but what the heck was the fourth condition?
+
+A monster that was at least forty levels above me would place it near the peak of Gimmel-rank—an opponent capable of killing me with a single blow. It was the kind of enemy most Bet-rank divine warriors wouldn’t even dream of challenging. Thankfully, the condition didn’t explicitly say I had to defeat it alone, which meant I could enlist help from others.
+
+Still, I couldn’t help but wonder how much more difficult the future class advancements would become. If this were the standard for a legendary class like Paradox Incarnate, then the requirements would only escalate from here.
+
+That was the nature of walking a path few could follow. Not everyone was meant to reach the top.
+
+Aside from this, unlike the first class advancement, the second and those beyond required more than just fulfilling the prerequisites. From this point onward, a special trial would often appear and had to be completed within the Hall of Classes in normal cases. Most of the time, this trial involved facing a powerful enemy—one that embodied the defining traits of the class you were about to ascend into. Other times, the trial was embedded within the prerequisites themselves, demanding the completion of an extraordinary feat.
+
+And in my case, it seemed to be the latter.
+
+With those thoughts still lingering in my mind, I pushed them aside and turned toward the altar. We had cleared the area, and the guardian was dead. There was no time to waste.
+
+I retrieved the second stag head from my inventory and stepped forward toward the altar. It was partially covered by thick vines and surrounded by roots that coiled like sleeping serpents. The stone basin was cracked along the edge, but the runes remained faintly visible beneath the moss and grime.
+
+Carefully, I placed the severed head onto the altar.
+
+Once again, the ancient runes flickered to life—first glowing gold, then turning violet, pulsing with corrupted energy. A wave of force rippled outward, rustling the trees and sweeping through the air like a silent chime.
+
+You have activated Altar of the Grove (2/5).
+
+Corrupted divine energy gathers… The guardian stag grows even stronger.

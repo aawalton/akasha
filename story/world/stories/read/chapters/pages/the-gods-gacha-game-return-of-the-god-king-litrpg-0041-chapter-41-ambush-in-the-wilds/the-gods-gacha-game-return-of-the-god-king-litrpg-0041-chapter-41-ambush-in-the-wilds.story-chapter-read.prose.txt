@@ -1,0 +1,145 @@
+Gnarled and bark-skinned, they stood on two legs and were barely 1.2 meters tall, with glowing amber eyes and twisted claws.
+
+[Grovedweller Sprout – Lv.18]
+
+Lesser woodland spirits twisted by corrupted mana. Though immature and primitive, they are aggressive pack hunters and fiercely territorial. They lash out with sharp claws and can blend into forest terrain when motionless.
+
+About half a dozen of them burst from the underbrush, snarling like beasts as they charged at us. They moved fast, claws raking through roots and soil, their glowing eyes fixed on us with eerie hunger.
+
+“Let’s form up!” I shouted, instinct kicking in.
+
+Boris stepped forward without hesitation, slamming his fists together as he let out a thunderous roar. “Just a bunch of walking sticks. Let me try something! GRAAAHHH!”
+
+His voice tore through the forest like a shockwave. These woodland creatures staggered mid-charge, recoiling as if struck, tumbling back like dry leaves in a gust. The volume was high enough to make me wince; it was clear that it had been enhanced by a skill, likely a skill given by his cape.
+
+Michelle was quick to seize the opening. She nocked three arrows at once and loosed them in a smooth motion. The projectiles flew true, striking their marks—two of the woodland creatures screeched and staggered back, while the third collapsed on the spot, lifeless.
+
+I raised my curved buckler and tightened my grip on my sword. One of the creatures swung its claws at me, but I stepped aside and slammed the buckler into its side, sending it sprawling into the dirt. Another came from the flank, but I quickly pivoted and slashed clean through it, cutting the creature in two.
+
+You have hunted [Grovedweller Sprout Lv.18].
+
+You have gained 180 EXP.
+
+These monsters were obviously no match for us.
+
+Boris charged into the fray like a wrecking ball, but before he did, he took off his cape and tossed it aside with a grunt. He then grabbed one of the woodland creatures mid-leap and slammed it into the ground with bone-crunching force. For the last monster, he simply caught it by its head and crushed it in his palm like a rotten fruit.
+
+Just like that, it was over. The monsters lay scattered around us, dissolving into motes of corrupted mana that drifted upward and vanished into the air.
+
+“These enemies are too easy,” Boris commented in a slightly disappointed voice.
+
+For us, who had become Bet-rank divine warriors, these Aleph-rank monsters were nothing more than practice targets. Even alone, any one of us could have handled the entire group without breaking much of a sweat.
+
+“Let’s not put our guard down,” I said, scanning the surroundings for any more threats. “Oh, and I noticed you tossed your cape down?”
+
+“Well, it was kind of getting in the way.” Boris shrugged.
+
+“Figured.”
+
+For someone like him, who preferred raw, unrestricted brawling, even wearing a cape—despite its stat bonuses and the skill it granted—was a nuisance. He valued freedom of movement more than any minor edge in power. To Boris, a clean punch or a crushing throw was worth more than some fancy enchantment.
+
+Regardless, I went ahead and checked the objective for this scenario:
+
+Scenario #4 [Encroaching Wilds]
+
+Monster settlements have begun to appear deep within the forest, and numerous primitive monsters have taken root in the region. Destroy two monster settlements and eliminate the dwelling monsters within.
+
+Mission Type: SuppressionDifficulty: EMain Objective: Destroy 2 monster settlements. (0/2) Time Limit: 3 daysReward: 2,000 Soul CoinsPenalty for Failure: Death
+
+Extra Conditions:
+
+1. Recover a hidden key fragment. (0/1)Reward: Bet-Tier General Lootbox.2. Destroy 3 monster settlements. (0/3)Reward: Uncommon-Grade Armament Voucher.3. Destroy 5 monster settlements. (0/5)Reward: Rare-Grade Armament Voucher.
+
+Destroying five monster settlements would definitely take some time, but the reward made the effort more than worth it.
+
+“Let’s aim to wipe out all five settlements,” I said decisively.
+
+“Obviously!” Boris laughed heartily, cracking his knuckles. The thought of unrestrained combat clearly thrilled him.
+
+“I’ll scout ahead for any trails,” Michelle had already begun looking around and using her Tracking skill to look for any signs that might lead us to the nearest monster village.
+
+Unfortunately, since we hadn’t gotten the chance to read the scenario description beforehand, we had missed the chance to allow one of the monsters to escape and lead us back to their settlement. That would’ve saved us time and effort. Now, we’d have to do it the hard way.
+
+But thanks to Michelle’s Tracking skill and forest expertise, we were able to locate a monster settlement in no time.
+
+It was a strange village, to say the least. Massive trees had been hollowed out to form crude dwellings, their insides dimly lit by glowing moss and bioluminescent fungi. The same tree-like beings milled about, climbing between branches and ducking into burrow-like openings. Despite their feral appearance, there was a bizarre sense of order here, as if they had some semblance of society.
+
+And in the center of the village, right beside the largest treehouse, was…
+
+“A totem?” I narrowed my eyes, stepping behind a thick bush to get a better look.
+
+The totem stood nearly three meters tall, carved from gnarled wood and adorned with bones, feathers, and twisting vines. The surface was carved in the shape of a large, menacing stag-like creature. It must be the boss of the next scenario.
+
+If there was a totem in the middle of the village, that meant these creatures were worshiping some kind of deity. And if they had a god they offered faith to, then that totem would be gathering residual divine force. In other words, if I could tap into it, I would be able to extract plausibility.
+
+As excitement surged within me, Michelle’s voice snapped me out of my thoughts.
+
+“So what’s the plan?” she inquired.
+
+“I could charge in and start wrecking their houses, but…” Boris hesitated as his eyes narrowed at the tree-like monsters ahead.
+
+There were roughly forty of the corrupted woodland spirits in the settlement. What made it worse was that about 30 to 40 percent of them appeared to be special variants, which were larger, tougher, and some even appeared to possess magic power.
+
+[Grovedweller – Lv.29]
+
+An evolved form of Grovedweller Sprout that has matured within a mana-saturated forest. They’re larger and tougher than their juvenile counterparts. Though slower, they are far more durable and capable of coordinated ambushes.
+
+[Grovedweller Brute – Lv.41]
+
+An elite variant of Grovedweller that possesses immense physical strength. They are the frontline guardians for totems and forest altars.
+
+[Grovedweller Shaman – Lv.43]
+
+The spiritual leader of the corrupted forest kin. Shamans conjure roots to entangle foes and spread poisonous mists to weaken and kill. While physically frail, they regenerate by using their nature magic.
+
+Although these enemies weren’t anything extraordinary, they were quite tough. Thinking back, this felt a lot like the thrall camp from the second scenario—only this time, it was at full strength, with no portion of the force missing. But I was far stronger than I had been back then. And more importantly, there were three of us now. That alone would make this a much easier fight.
+
+“Let’s do it like this…” I began, laying out the plan I had improvised on the spot.
+
+First, Michelle would climb a tree and take up a sniper position, eliminating as many Bet-rank monsters as she could before they realized what was happening. Once they noticed their comrades dropping, Boris would charge in from another side of the settlement to draw their attention away from her and cause as much chaos as he liked.
+
+As for me… Well, my eyes were on the totem in the center. I didn’t mention that part to the others, so instead I told them that I would take advantage of the distraction and strike directly at the heart of the village. The shaman had to be eliminated early since it was the most dangerous threat in the village.
+
+Boris punched his palm with a wide grin. “Then let’s crush their little forest cult.”
+
+Thus, we moved into position. Michelle scaled a tree swiftly and silently, settling into the branches with practiced ease. Once in place, she drew her bow and took aim at the nearest adult bark-skinned creature. Her arrow flew straight and true, piercing it through the eye. It collapsed with a dull thud, unmoving.
+
+Fortunately, the others didn’t seem to notice. These creatures weren’t very bright, it appeared.
+
+She loosed three more arrows in quick succession, each one finding its mark. One by one, the woodland monsters fell without so much as a cry. Then, she shifted her focus to the real target—the shaman near the totem. Clearly, she was quite confident, as I told her to only target it if she was absolutely certain.
+
+Michelle’s arrow whistled through the air, but just before it struck, the shaman turned and raised its staff. A thick root burst from the earth, intercepting the arrow mid-flight. Immediately, the shaman screeched, alerting the others. And just like that, the other bark-skinned creatures rushed toward her.
+
+Low growls echoed between the trees as dozens of them closed in on Michelle’s position. She immediately repositioned by jumping to a nearby tree while firing another shot to slow the closest pursuer.
+
+But then, Boris crashed in from the flank like a train, having transformed his whole body into his iron form. He charged straight into their midst with a roar, and every creature that dared meet him head-on was sent hurtling into nearby trees. Without breaking stride, he seized two by the legs and swung them like flails, smashing them into their kin and scattering the cluster like dry leaves in a storm.
+
+“Ha! Now this is more like it!” he exclaimed, grinning as he raised his fists high, ready for more.
+
+His entrance drew their attention instantly. The bulk of the attackers turned toward him, completely forgetting Michelle as they swarmed the source of the disruption.
+
+Just as we’d planned.
+
+I didn’t waste the opening. With the chaos unfolding, I sprinted through the shadows from the opposite side of the village until I was nearly in striking distance of the totem. Several of the larger creatures had formed a loose perimeter around it, and the shaman was still beside the totem, waving its gnarled staff and chanting in some ancient, crackling tongue. Vines slithered across the ground toward Michelle’s perch, likely to root her in place or bring the tree down entirely.
+
+Not on my watch.
+
+I sprang forward, and the wind gathered at my feet as I activated Wind Rush, closing the distance in an instant. Thanks to the effect of my cursed coat, I was able to get very close to them without being noticed.
+
+“Heavy Slash!” My sword cleaved across one of the guarding beasts before it could react, cutting a deep gash into its bark-armored flank.
+
+“GRRUUHH!” it roared and stumbled back, but I didn’t pause to finish it off.
+
+I was already through, charging straight for the shaman. Luckily for me, it saw me coming too late. I raised my buckler and slammed it into its chest with full force, knocking it clean off its feet and interrupting its casting. Mana flared in a violent backlash, but I pressed on, driving my blade down toward its neck.
+
+“Heavy Stab!” I shouted, the skill activating as my sword pierced deep into its throat, pinning the creature to the ground. With a sharp pull, I ripped the blade free in a clean arc.
+
+A gush of thick, green liquid spilled from the wound as the creature writhed, clawing weakly at the air. It tried to chant—perhaps a final curse or desperate plea—but no sound escaped its ruined throat. Moments later, it fell still as its body began to dissolve into motes of corrupted mana.
+
+You have hunted [Grovedweller Shaman Lv.43].
+
+You have gained 530 EXP.
+
+You have leveled up.
+
+Wind Rush has leveled up.

@@ -1,0 +1,153 @@
+The storekeeper adjusted her glasses slightly before giving a small nod. “Yes, we do. Although, it’s a quite rare support-type skill. One moment, please.”
+
+She moved to a nearby shelf behind the counter and retrieved a slim, blue-bound book. As she placed it before me, a small floating notification hovered just above it.
+
+Skill Book: [Inspect Eye]
+
+Rank: RareType: Active
+
+Allows the user to view basic information about objects, monsters, or divine warriors that otherwise wouldn’t normally be visible through the standard System interface. The detail shown varies depending on the user’s and the target’s Mind, as well as the level of the skill.
+
+I picked up the book and skimmed through the skill’s description, confirming it was exactly what I needed. I hadn’t acquired any observational skill like this before, and it would definitely help in identifying unknown enemies, assessing hidden traits in equipment, or even appraising other divine warriors. In a world where information was power, even a basic skill like this could be crucial.
+
+“How much for this one?” I asked.
+
+“One thousand soul coins,” she replied without hesitation.
+
+I frowned and tapped my chin in thought. This was the standard rate for a rare-ranked skill, and it wasn’t outrageous, but it was still a large amount.
+
+After a brief pause, I gave a nod. “I’ll take it.”
+
+It was worth the price.
+
+Unlike most goods in Fantasia, the pricing of skill books sold at bookstores was fixed by the System itself. It could not be haggled or negotiated, just the flat value assigned to the knowledge within.
+
+After completing the transaction, I immediately tapped the skill book to use it.
+
+You have acquired a skill: [Inspect Eye Lv.1].
+
+With that done, I thanked the storekeeper and stepped outside, the soft chime of the door ringing behind me as I left.
+
+Inspect Eye wasn’t the most powerful skill in its category, but it had a broad range of applications, especially for someone like me who valued information. Without delay, I activated the skill and tested it on a divine warrior walking past on the street by uttering “Inspect Eye.”
+
+Torrik Hale
+
+HP: 100%
+
+Rank: Bet [2]
+
+At level one, it seemed the skill allowed me to view their name, current health, and rank. Interestingly, health points weren’t something typically displayed on the standard status screen, making this alone a useful discovery.
+
+Curious to see what else it could reveal, I turned the skill inward and used Inspect Eye on myself.
+
+Maximillian Anderson Lv. 33/40 (EXP 56/1,020)
+
+HP: 100%
+
+Rank: Bet [2]Patron God: Istellia (Goddess of Imagination)Class: Paradox IncarnateTitle: The Unyielding Survivor (3)Status: Normal
+
+Strength: 103 + 18 | Dexterity: 104 + 5 | Stamina: 64 + 13Mind: 51 | Magic Power: 48 | Luck: 104
+
+Plausibility: 672
+
+Free Attributes: 233
+
+Signature Skill(s): [@!$# Creation], [Fabled Vessel], [Grant Plausibility], [Scenario Manipulation]
+
+Skill(s): [Basic Alchemy Lv.5], [Basic Hand-to-Hand Combat Lv.3], [Basic Shield Mastery Lv.4], [Basic Spearmanship Lv.10], [Basic Swordsmanship Lv.10], [Desperate Willpower Lv.5], [Fast Reading Lv.2], [Heavy Slash Lv.3], [Heavy Stab Lv.3], [Inspect Eye Lv.1], [Inventory], [Mana Manipulation Lv.1], [Mana Sense Lv.3], [Mental Tolerance Lv.4], [Negotiation Lv.4], [Night Vision], [Pain Tolerance Lv.4], [Poison Resistance Lv.1], [Projectile Defense Lv.1], [Predator’s Step Lv.1], [Wind Rush Lv.2]
+
+“Huh, it’s no different than usual—except for the addition of HP,” I muttered, raising an eyebrow.
+
+Still wanting to test the skill’s range and limits, I used it on several more people as I continued down the street.
+
+Elna
+
+HP: 100%
+
+Rank: Bet [2]
+
+Jorran Flint (NPC)
+
+HP: 100%
+
+From that, I made an interesting observation. People who weren’t divine warriors were labeled as “NPCs” and didn’t display any rank. I already knew about this fact—some divine kingdoms would often use different systems to categorize their populations—but this was still my first time confirming it with a skill like this.
+
+Regardless, I was certain that if I leveled this skill further, more information would be revealed. Thus, I continued walking toward the training center while using the skill casually on every person I passed—divine warriors, vendors, even ordinary pedestrians.
+
+My Mind stat wasn’t especially high, so I wasn’t expecting anything too complex yet. But even gathering small insights like this was worthwhile. By the time an hour had passed, I had already used the skill over a hundred times, and I could feel my mental energy being slightly exhausted. But as I got closer to my destination after going through a few detours—
+
+Inspect Eye has leveled up.
+
+Immediately, I tested it on the next divine warrior who strolled by:
+
+Bren Talcott
+
+HP: 100%
+
+Rank: Bet [2]Patron God: Istellia (Goddess of Imagination)Class: Adventurer
+
+“Well, not bad,” I muttered, noting the additional details.
+
+Satisfied with the new information, I stopped using the skill to conserve my remaining mental energy and continued on to the training center.
+
+When I reached my destination, it was still early enough that most divine warriors were just beginning their sessions. I nodded at a few familiar faces, who were mostly Boris’s acquaintances, before making my way to an open patch of the training ground. I even spotted a few people who looked like Graham’s men. They gave me an intentional glance but didn’t make any move, so I ignored them. I had more important things to do, which was putting myself through the wringer.
+
+Today, I wasn’t going to improve my physical strength the normal way through push-ups and such. Instead, I intended to train in the most direct method available—by using a single movement skill over and over again until my stamina hit rock bottom. This would help raise my lowest physical stat, Stamina, while also leveling up the skill. A clean two-for-one benefit or killing two birds with one stone, in other words.
+
+Before starting, I drank a vial of Elixir of Harmonic Balance, feeling it coursed through my body. I then took a deep breath, adjusted my posture, and activated Wind Rush.
+
+Wind gathered at my feet, and in an instant, I dashed forward with a sharp gust trailing behind me. My body shot ahead several meters, and I let the momentum carry me naturally into the next dash, covering the distance of fifty meters in less than three seconds. As soon as my momentum waned, I activated the skill again. Then again. And again.
+
+“Wind Rush. Wind Rush. Wind Rush.”
+
+The first few repetitions were easy, as I circled the training ground like a tireless leopard who didn’t know the word “rest.” But after dozens of uses, the exhaustion started to build. My breath became heavier, my heartbeat thudded loudly in my chest, and my legs started to ache from the constant explosive movement. Worse still, I could feel my mental energy beginning to drain—repeating skills at this frequency wasn’t just physically exhausting, it strained my focus too.
+
+Still, I didn’t stop.
+
+I continued using the skill in wide loops around the training field, adjusting my angles, mixing in Predator’s Step to make my footwork more erratic. The goal wasn’t just to spam the skill; it was to push its limits and refine my control. And it didn’t take long before my effort brought some results.
+
+Wind Rush has leveled up.
+
+Your Stamina has increased by 1.
+
+I wiped the sweat off my brow, barely feeling the satisfaction. My body was burning with fatigue, but I kept going, pushing myself through sheer discipline. After all, I was training to survive whatever the next scenarios would throw at me. Unfortunately, by the time noon rolled around, I hit a plateau and was unable to raise the skill’s level anymore.
+
+Your Stamina has increased by 1.
+
+Your Mind has increased by 1.
+
+I finally came to a stop, my legs trembling slightly beneath me. Huffing for air, I bent over and placed my hands on my knees, gasping as the exertion caught up with me. My armor and coat clung to my skin, drenched with sweat, and my lungs burned with every inhale. It had to be noted that I trained while wearing my equipment so that I would get used to it in combat.
+
+“...That’s enough,” I muttered between breaths, feeling my stamina had hit rock bottom.
+
+“Maxim, you’re here!” a familiar voice called from the side.
+
+Lifting my head, I saw Michelle jogging toward me. Although my legs felt like jelly, and my breath was still ragged, I managed to make a weak smile.
+
+“Hey,” I rasped. “Have you finished at the Ranger’s Guild?”
+
+“I have.” She nodded, brushing a strand of hair from her face. “By paying soul coins, like you said, I was taught two new skills. One was Bullseye for pinpoint shots, while the other was an archery technique called Moon Archery for long-range sniping. But that aside, you look wrecked. Did you push yourself hard again?”
+
+I chuckled dryly and straightened as best I could. “Mhm, you could say that. I spent most of the morning training a certain skill until I couldn’t level it further—or my Stamina stat any higher. Anyway,” I said, changing the subject, “you’re just in time since I need you to do something.”
+
+Michelle raised an interested brow. “What’s up?”
+
+Before I answered, I quickly activated Inspect Eye on Michelle.
+
+Michelle
+
+HP: 100%
+
+Rank: Bet [2]Patron God: Istellia (Goddess of Imagination)Class: Woodsman
+
+No difference from the others despite me having seen her status screen before, huh?
+
+“Well, it’s nothing complicated,” I began. “Michelle, listen, you're currently walking the path to a hidden class called Magic Lumberjack. To unlock it, you’ll need to acquire both Mana Sense and Mana Manipulation skills. Additionally, your axe proficiency—specifically Basic Axe Mastery—needs to reach level ten. Once you undergo your next class advancement, having fulfilled these conditions will open the door to that class.”
+
+Her eyes lit up as she absorbed the information I gave out. “So… I have to learn magic while also improving my proficiency with the axe?”
+
+“Correct.” I nodded, pleased that she was quick on the uptake. “It might sound like a strange combination, but it’s an incredibly rare and versatile class if you pull it off.”
+
+At that, Michelle was fired up, pumping her fist. “All right. That sounds like a plan.”
+
+I paused, then asked, “How many soul coins do you have at the moment?”

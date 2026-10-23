@@ -1,0 +1,111 @@
+I spent the next day perfecting my mastery over the magic spell. Although {Mana Bullet} was a weak spell in comparison to most other elemental magic, it was extremely versatile and consumed very little of my mana reserves. Furthermore, I also noticed a new addition to my status screen since there was now “MP” in there, quantifying how much mana I had in exact numbers, which was quite interesting.
+
+Maximillian Anderson Lv. 33/40 (EXP 56/1,020)
+
+HP: 100%MP: 1/37
+
+Rank: Bet [2]Patron God: Istellia (Goddess of Imagination)Class: Paradox IncarnateTitle: The Unyielding Survivor (3)Status: Normal
+
+Strength: 104 + 18 | Dexterity: 105 + 5 | Stamina: 70 + 13Mind: 57 | Magic Power: 56 | Luck: 104
+
+Plausibility: 633
+
+Free Attributes: 233
+
+Signature Skill(s): [@!$# Creation], [Fabled Vessel], [Grant Plausibility], [Scenario Manipulation]
+
+Skill(s): [Basic Alchemy Lv.5], [Basic Hand-to-Hand Combat Lv.5], [Basic Neutral Magic Lv.2], [Basic Shield Mastery Lv.4], [Basic Spearmanship Lv.10], [Basic Swordsmanship Lv.10], [Desperate Willpower Lv.5], [Heavy Slash Lv.3], [Heavy Stab Lv.3], [Inspect Eye Lv.2], [Inventory], [Mana Manipulation Lv.3], [Mana Sense Lv.4], [Mental Tolerance Lv.4], [Negotiation Lv.4], [Night Vision], [Pain Tolerance Lv.4], [Poison Resistance Lv.1], [Projectile Defense Lv.1], [Predator’s Step Lv.2], [Wind Rush Lv.3]
+
+Spell(s): {Mana Bullet}
+
+This was my status screen by the end of the day after focusing my training entirely on magic. While my physical stats remained unchanged, both my Mind and Magic Power had increased from repeated spell usage. I also confirmed that a single cast of {Mana Bullet} used up roughly five MP.
+
+There was, however, one little exploit I knew that helped accelerate my Magic Power growth: completely depleting my mana pool with continuous casting and then refilling it with a mana potion. Doing this again and again pushed my body to adapt, improving my natural mana recovery and slightly increasing my overall mana capacity in the process.
+
+It was a simple, brute-force method—one that most divine warriors wouldn’t even consider using. After all, burning through soul coins just to force mana growth wasn’t exactly economical. Due to this, I only had a pitiful amount of soul coins left:
+
+Soul Coins: 250
+
+The only reason I still had that much was because I’d sold off the resins and the three Totemroot Staffs I’d obtained as loot drops from the shamans in the fourth scenario. Each uncommon-grade wooden magic staff had fetched a decent price—about three hundred soul coins apiece. I’d saved one for myself, just in case I ever needed a backup magic conduit.
+
+Still, it was worth it for this improvement; I was sure that the fifth scenario required every bit of preparation.
+
+Then the day of us challenging the scenario finally came as the three of us stood once again before the Rift of Scenarios the next morning. As usual, the plaza around it was crowded with divine warriors lining up, with eyes filled with emotions ranging from anticipation to desperation, depending on what they were aiming for.
+
+Boris cracked his knuckles beside me, looking as confident and battle-hungry as ever. Michelle adjusted her quiver, face calm but focused, exuding the quiet intensity of someone who knew exactly what was at stake. I stood between them, silently reviewing everything we had prepared over the last few days.
+
+This would be our fifth scenario. A one-time challenge as well as a significant milestone.
+
+Unlike the previous ones, this wasn’t just about survival or clearing conditions—it was about seizing an opportunity no one else had dared to fully explore. According to the information Boris had gathered, no party had ever offered more than three stag heads at the scattered altars. But we would go for four… maybe even five.
+
+“You both ready?” I asked, glancing to either side.
+
+Boris grinned. “Hah. Never been readier.”
+
+Michelle gave a firm nod. “Let’s give it everything we’ve got.”
+
+We waited for a while before it was finally our turn. Elysia, standing behind the counter in her usual uniform, greeted us with her ever-serene smile as we approached.
+
+“Welcome, divine warriors,” she greeted warmly and inquired, “I presume you're all here to challenge the fifth scenario?”
+
+“That’s right,” I affirmed, nodding.
+
+“Very well.” She smiled and gave a small bow. “Before you proceed, I must inform you that the fifth scenario cannot be repeated. Once you enter—whether you clear it or not—you won’t be able to challenge it again.”
+
+Is she joking? Not clearing it means death. Of course, there’s no way a dead person can repeat a scenario.
+
+“We understand,” the three of us replied in unison.
+
+“Then please step forward into the portal,” she said, raising her hand as a dark portal shimmered into existence beside her.
+
+We turned toward the portal in the alcove, the swirling darkness pulling at our nerves and anticipation. This wasn’t going to be easy. There would be monsters stronger than the previous ones, altars to be activated, and a boss whose strength scaled with every offering we made. But we weren’t here to play it safe. We were here to conquer.
+
+I took a breath, steadying my thoughts, and stepped forward. “Scenario Five… let’s begin.”
+
+The moment my hand touched the portal’s surface, it rippled outward like ink in water—and then it pulled me in. That familiar weightless sensation washed over me, as if I were falling without gravity, surrounded by nothingness. Then, just as abruptly, my feet landed on solid ground again.
+
+I inhaled sharply, and the scent of damp earth and mossy bark, mingled with a subtle floral sweetness, entered my nostrils. Looking around, a dense forest with tall trees stretched in every direction. It seemed that I had returned to the place of the third and fourth scenarios.
+
+Suddenly, a sharp chime echoed in my ears, and a translucent blue screen materialized before my eyes—the scenario’s description.
+
+Scenario #5 [The Trial of the Ancient Grove]
+
+Deep within this ancient forest lies an ancient spirit long worshipped by the woodland tribes—a Divine Spirit Stag. Once a benevolent guardian, it has been corrupted by corrupted mana. To restore balance to the forest, you must challenge its power, face its rage, and earn its blessings. Light the altars by offering stag heads with glowing antlers to gather its strength... or your own demise.
+
+Mission Type: SubjugationDifficulty: E+Main Objective: Eliminate the Divine Spirit Stag. (0/1) Time Limit: 3 daysReward: 5,000 Soul CoinsPenalty for Failure: Death
+
+Extra Conditions:
+
+1. Light up 2 altars. (0/2)Reward: Rare-Grade Armament Voucher.2. Light up 3 altars. (0/3)Reward: Two Rare-Grade Armament Vouchers.3. Light up 4 altars. (0/4)Reward: Unique-Grade Armament Voucher.4. Light up 5 altars. (0/5)Reward: Unique-Grade Armament Voucher & a Random Unique-Grade Skill Book.5. Uncover the last key fragment and obtain the treasure. (0/1, Incomplete)Reward: The treasure hidden inside the main altar.
+
+Five thousand soul coins!
+
+This scenario’s base reward was two and a half times greater than the one before. That alone told me everything I needed to know—this was a jump in difficulty, not to mention that it had “E+” difficulty. We had gone from relatively low-risk survival and sweep missions into true subjugation-type scenarios. The kind where things could spiral out of control fast.
+
+Of course, I was aware that scenario difficulties weren’t static. Depending on what actions divine warriors took, the difficulty could spike midway—something like a hidden boss awakening, a reinforcement wave arriving, or an unexpected complication. But those were rare occurrences and typically tied to specific choices or hidden conditions. The fact that this hadn’t reached D rank meant it shouldn’t be too brutal, and there shouldn’t be many Gimmel-rank monsters.
+
+Still, this also meant the potential rewards were equally impressive. Unique-grade items and skills were the kind of loot that could elevate a divine warrior’s capabilities by leaps and bounds. Especially since, up until now, even among veteran parties, no one had cleared beyond three altars.
+
+“This place feels more tense,” Michelle said, cutting through my train of thought. Her hand was already on her bowstring, eyes scanning the trees.
+
+Boris cracked his neck. “Tch. It’s quiet. A silent forest hides sharper claws than a roaring battlefield.”
+
+What was that, a Dark Forest theory?
+
+I didn’t answer right away. My focus was entirely on the forest itself. There was an intangible pressure here—one that felt subtle but ancient. Like something buried deep in the roots of the world was slowly watching. Waiting.
+
+If this spirit stag was truly a divine creature, then it would undoubtedly possess some form of omniscience over its territory. That meant the entire forest was under its influence, and we were nothing but intruders under its gaze.
+
+“Although this is undoubtedly the same forest, it’s not the same as before,” I finally said. “Keep your guard up. Something might be watching and may strike at any time.”
+
+And with caution, we moved deeper into the forest. But not even two hundred meters into the trek, I felt a subtle tremor ripple beneath my feet. The ground quivered. A low, groaning creak echoed around us, followed by the unsettling rustle of leaves overhead.
+
+“Ambush!” Michelle shouted, just as a massive, branch-like limb lashed out from a nearby tree at us.
+
+Boris was quick in action as he caught the branch on his iron-forged forearms and snapped it clean in half. “They’re moving! From the trees—watch the trunks!”
+
+Almost on cue, the surrounding trees twisted unnaturally, revealing deep cracks that split open into eye-like knots and gaping mouths. Bark peeled back as they cast aside their camouflage, revealing tall, grotesque humanoid forms with gnarled bodies like aged, warped trunks. Their limbs resembled twisted roots and jagged branches. At least seven of them emerged, surrounding us in a tight circle.
+
+[Lesser Treant – Lv.41]
+
+A twisted mockery of nature, animated by corrupted mana. Though slow, its bark-like hide grants formidable defense. Its strength lies in ambushing prey through camouflage and blending seamlessly with the forest. It harbors a deep hatred for intelligent lifeforms—perhaps because its kind has long been reduced to firewood in the hands of mortals.

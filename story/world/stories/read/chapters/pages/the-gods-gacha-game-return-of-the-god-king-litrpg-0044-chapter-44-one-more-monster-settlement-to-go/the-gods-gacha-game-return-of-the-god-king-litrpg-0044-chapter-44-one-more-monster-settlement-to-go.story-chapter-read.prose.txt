@@ -1,0 +1,163 @@
+“That seems to be the last one of them,” I said, just as the System notification appeared before my eyes.
+
+“Yeah… I think we just cleared the second settlement,” Michelle added, lowering her bow.
+
+Now that we had completed the main objective, we could return to the Rift of Scenarios if we wanted to. But that was never our goal. Our true target was the hardest extra condition, which was destroying five monster settlements. More importantly, I was still searching for the key fragments, and we couldn’t leave until we found the second piece.
+
+“Let’s keep moving after resting for a bit.”
+
+The others didn’t complain. After a short rest to recover stamina and tend to minor scrapes with healing potions, we pressed on. Michelle once again led us with her Tracking skill, and within another hour, we discovered a third settlement nestled near a riverbank. This one had fewer guards and no shaman in sight. Whether by luck or design, we cleared it swiftly, striking from multiple angles with practiced precision. Michelle picked off the outer patrols, Boris shattered the frontline, and I eliminated the defenders near the totem.
+
+You have hunted [Grovedweller Lv.28].
+
+You have gained 380 EXP.
+
+You have hunted [Grovedweller Sprout Lv.19].
+
+You have gained 190 EXP.
+
+You have leveled up.
+
+You have hunted [Grovedweller Brute Lv.41].
+
+You have gained 510 EXP.
+
+…
+
+Heavy Slash has leveled up.
+
+You have absorbed the power of faith contained in the totem.
+
+You have gained 78 Plausibility.
+
+The fourth settlement was similar in situation. Hidden beneath a ridge, it was slightly more fortified than the previous ones. However, by this point, our coordination was near flawless, and we were stronger than ever thanks to leveling up from the kills.
+
+The enemies never stood a chance. Boris bulldozed through with brute force, smashing anything in his path, while Michelle provided cover fire from elevated ground. As for me, I slipped through the fray, carving a direct path to the center. My focus was on eliminating the shaman and draining the faith from the village totem.
+
+There was nothing sweeter than gathering plausibility.
+
+You have hunted [Grovedweller Shaman Lv.44].
+
+You have gained 540 EXP.
+
+You have leveled up.
+
+You have hunted [Grovedweller Lv.29].
+
+You have gained 390 EXP.
+
+You have hunted [Grovedweller Brute Lv.42].
+
+You have gained 520 EXP.
+
+You have leveled up.
+
+…
+
+Heavy Stab has leveled up.
+
+Your Stamina has increased by 1.
+
+You have absorbed the power of faith contained in the totem.
+
+You have gained 113 Plausibility.
+
+Destroy 5 monster settlements. (4/5)
+
+With four settlements destroyed, only one remained. And for some reason, I had a creeping feeling that the last would be far more difficult. We hadn’t found the second key fragment yet either, which all but confirmed my suspicion: It was probably hidden within the last monster settlement.
+
+“Let’s search for the last settlement,” I said, brushing dust off my armor. “Then we take a break for the day.”
+
+“I think I may have a guess where the last one is,” Michelle chimed in, bending beside a patch of dirt. She used a stick to draw a crude map of the area we’d been combing through.
+
+“Here are the four settlements we already cleared,” she said, marking each with an “X.” “If you look at their positions, they almost form a rough semicircle. If we follow that curve around the ridge, there’s one spot that’s been untouched so far… here.” She tapped the end of the curve, pointing to a spot nestled near a crescent-shaped glade.
+
+I nodded, impressed. “That makes sense. If the settlements were designed as a perimeter, then the last one is likely the core.” But this also meant that they were likely already alerted to our presence.
+
+Boris leaned in to examine the map. “Might also mean it’s where their boss is hiding.”
+
+“Indeed,” I agreed. “All the more reason to prepare thoroughly before we attack their settlement.”
+
+Michelle stood and slung her bow across her shoulder. “It’s about a thirty-minute trek, but we should be able to reach it before sunset.”
+
+“Then let’s move.”
+
+With that, we set off once more. We were more careful than ever in our trek this time, and every step was taken with caution. We didn’t want to alert the enemy before we had a proper read on their numbers or layout. A head-on clash without information would be reckless. Reconnaissance would become the priority here. If the second key fragment really was in that final settlement, then we were going to claim it no matter what.
+
+Thanks to Michelle’s expertise, we managed to reach the last monster village in no time and observed it from a nearby hill.
+
+The village was tucked within a natural basin, resembling a natural fortress with sharp stone and towering, moss-covered trees surrounding it. From our vantage point, it was clear this place was far larger than the previous settlements—double the size at least—and significantly more organized. Dozens of hollow treehouses formed a ring around a central temple, where a massive wooden totem with a stag carving pulsed with a sickly green aura. More than ten brutes circled the perimeter in formation.
+
+Worse still, there appeared to be over a hundred of those tree-like monsters scattered throughout the village. Even more troubling, more than half of them were in their mature form, which was larger and stronger. Unfortunately, we were too far to get an accurate count, especially of any hidden shamans lurking within. Not even Michelle’s sharp eyes could spot their exact positions, but given the size of the settlement, there were likely no fewer than five.
+
+Boris, who was once a military instructor, commented, “This village is nothing like the others… Their formation and rotations resemble a military fortress.”
+
+“I see it too,” I replied, noting the way sentries rotated in clockwork timing. “This place must be their command center. They’ve probably already realized we’ve destroyed the other settlements.”
+
+Enemies on high alert were far more dangerous than unsuspecting ones. Especially when they had the numbers to back up their caution. It was unlikely that we would be able to succeed by taking it down using our usual strategy and brute forcing our way.
+
+Boris grinned and placed a reassuring hand on my shoulder. “Lad, the best way to bring this village down is to thin their numbers using guerrilla tactics.”
+
+“Guerrilla tactics?” Michelle asked, tilting her head slightly.
+
+“That’s right.” Boris nodded and began explaining the basic information to her. “In simple terms, we lure a few out at a time and ambush them with traps. The goal is to wear them down without alerting the whole camp. But in this case, we’ll only be able to pull that trick once or twice before they wise up, considering that they’re already alert.”
+
+“So the best thing we can do is…”
+
+“Observation,” I finished, cutting in.
+
+Boris grunted in agreement, and Michelle gave a thoughtful nod, listening intently.
+
+Considering their overwhelming numbers, rushing in without a plan would be tantamount to suicide. Underestimating them—even for a second—could get us all killed. The smartest approach was to watch, learn, and exploit. If we could understand their movement patterns, find their blind spots, and identify which areas were lightly defended, we’d have a better fighting chance.
+
+“Let’s split the team,” I said. “I’ll stay here and monitor their patrols, while you two work on setting up traps.”
+
+Watching them from this distance was risky, but I was the fastest among us when it came to making a quick escape. Besides, I trusted that both Boris and Michelle had at least some experience with basic traps, which I completely lacked. Aside from this reason, I also had some experience with observing an enemy camp like this with the thrall, so I had the patience.
+
+“Me, making traps?” Michelle raised an eyebrow, clearly skeptical.
+
+Well, her class was Woodsman, not Hunter or anything more specialized. It made sense that she didn’t have a dedicated skill for trap setting.
+
+“Can you manage it?”
+
+She paused, thinking for a moment, then gave a firm nod. “I can. My father used to show me how to set simple traps when we went into the forest together. I think I can recreate a few of them.”
+
+“Don’t worry, girl,” Boris said with a chuckle. “I’ll give you a crash course in trap-making. Nothing too complicated, though—we just need a few nasty surprises to thin out their numbers.”
+
+“Thank you, Sir Boris!” she said with a grateful smile.
+
+“All right. Once we’ve completed our respective tasks, we’ll regroup and set up camp a hundred meters behind this hill,” I said firmly.
+
+Both Boris and Michelle nodded without a word, their expressions serious.
+
+With our roles assigned and the plan in motion, we slipped into position. This wasn’t going to be easy, but if we played our cards right, then this last village would fall just like the others before it.
+
+While I was monitoring the monster village, I opened my status screen to check my progress.
+
+Maximillian Anderson Lv. 24/40 (EXP 736/860)
+
+Rank: Bet [2]Patron God: Istellia (Goddess of Imagination)Class: Paradox IncarnateTitle: Foul Play (2)Status: Normal
+
+Strength: 82 + 10 | Dexterity: 104 + 12 | Stamina: 63 + 5Mind: 49 | Magic Power: 45 | Luck: 54
+
+Plausibility: 507
+
+Free Attributes: 181
+
+Signature Skill(s): [@!$# Creation], [Fabled Vessel], [Grant Plausibility], [Scenario Manipulation]
+
+Skill(s): [Basic Alchemy Lv.4], [Basic Hand-to-Hand Combat Lv.3], [Basic Shield Mastery Lv.3], [Basic Spearmanship Lv.10], [Basic Swordsmanship Lv.10], [Desperate Willpower Lv.5], [Fast Reading Lv.2], [Heavy Slash Lv.3], [Heavy Stab Lv.3], [Inventory], [Mana Sense Lv.1], [Mental Tolerance Lv.4], [Negotiation Lv.4], [Night Vision], [Pain Tolerance Lv.4], [Projectile Defense Lv.1], [Predator’s Step Lv.1], [Wind Rush Lv.2]
+
+“Not bad,” I mused.
+
+I had already gained ten levels since the start of the scenario, and I was confident I’d earn even more after conquering this final settlement. On top of that, I now had 181 unassigned attribute points—ready to be distributed whenever the need arose. Just allocating forty points into Dexterity had already enhanced my agility, reflexes, and movement speed by a large margin. Of course, pushing those traits even further would require a significantly greater investment.
+
+As it stood, without spending any of those free attribute points, my current stats were on par with what one would expect from a standard Bet-rank divine warrior around my level, decent, but not exceptional. In fact, Michelle likely had a higher total stat count than I did at the moment, considering the sheer number of monsters she’d taken down.
+
+“Should I pump some into my stats now?” I considered it briefly, then shook my head. “No… better to save them. I need to push myself past the limit of these stats.” After all, I knew better than anyone how valuable natural growth was compared to relying solely on stat boosts.
+
+Besides that, I was especially pleased that my plausibility had finally broken the four-hundred mark. With that much, I could maintain a legendary figure’s possession skill for a considerably long duration, which was more than enough to change the tide in an otherwise unwinnable battle.
+
+As the evening deepened and the wind rustled through the treetops, I took the chance to rest and eat some food I had taken out from my inventory. Leaning back against a tree, I kept my eyes on the enemy encampment below. From this hillside perch, I could still see the monsters carrying out their rigid patrols. It became clear that they almost never took breaks—at least not until the moon reached its peak.
+
+Out of the blue, I caught sight of something peculiar that completely attracted my attention. A shaman larger than the others, its skin a deeper shade of blue and eyes even more glowing green, stepped out from the largest treehouse. And soon, what seemed to be a ceremonial procession took place around it.

@@ -1,0 +1,139 @@
+Maximillian Anderson Lv. 1/60 (EXP 946/2,440)
+
+HP: 100%MP: 398/398
+
+Rank: Gimmel [3]Patron God: Istellia (Goddess of Imagination)Class: Paradox IncarnateTitle: One Who Conquered the Impossible (4)Status: Normal
+
+Strength: 324 + 23 + 32 | Dexterity: 329 + 5 + 33 | Stamina: 271 + 18 + 27Mind: 184 + 18 | Magic Power: 219 + 22 | Luck: 224 + 22
+
+Plausibility: 765
+
+Free Attributes: 0
+
+Signature Skill(s): [Absorb Plausibility], [Fabled Vessel], [God!$# Creation], [Grant Plausibility], [Scenario Manipulation]
+
+Skill(s): [Basic Alchemy Lv.7], [Basic Hand-to-Hand Combat Lv.7], [Basic Neutral Magic Lv.8], [Basic Shield Mastery Lv.8], [Back Stab Lv.3], [Berserk Lv.2], [Chantless Casting Lv.2], [Desperate Willpower Lv.8], [Extraordinary Agility], [Extraordinary Endurance], [Extraordinary Magic Power], [Extraordinary Power], [Heavy Slash Lv.6], [Heavy Stab Lv.6], [Inspect Eye Lv.3], [Intermediate Spearmanship Lv.1], [Intermediate Swordsmanship Lv.2], [Inventory], [Mana Manipulation Lv.6], [Mana Sense Lv.7], [Mental Tolerance Lv.5], [Negotiation Lv.5], [Night Vision], [Pain Tolerance Lv.6], [Paralysis Resistance Lv.3], [Poison Resistance Lv.3], [Projectile Defense Lv.3], [Predator’s Step Lv.4], [Weapon Manifestation Lv.1], [Wind Rush Lv.6]
+
+Spell(s): {Mana Arrow}, {Mana Bullet}, {Spinning Mana Arrow}
+
+Title:
+
+The Unyielding Survivor
+
+Rank: Uncommon
+
+Awarded to those who are able to defy all odds and survive when survival seems nearly impossible.
+
+Foul Play
+
+Rank: Uncommon
+
+A title granted to those who eliminate a significant number of enemies through underhanded or deceptive means. Whether through poison, ambushes, or exploiting an enemy’s weakness, victory is all that matters in the end. Some may call it dishonorable, but the only true failure is losing.
+
+Zombie Hunter
+
+Rank: Uncommon
+
+A title granted to those who have hunted at least one hundred zombie-like monsters.
+
+Grovedweller Hunter
+
+Rank: Uncommon
+
+A title granted to those who have hunted at least one hundred Grovedwellers.
+
+One Who Conquered the Impossible
+
+Rank: Epic
+
+Awarded to those who have overcome a foe far beyond their level under extreme conditions.
+
+MC’s Signature Skills:
+
+[Fabled Vessel]
+
+Rank: LegendaryType: Active
+
+Allows the user to inherit the power of deceased or sealed divine heroes and demigods. By paying plausibility, the user can temporarily assume their abilities, skills, and even unique traits. The strength of the vessel depends on the plausibility cost and the fame, power, or mythic significance of the being.
+
+[Grant Plausibility]
+
+Rank: LegendaryType: Active
+
+Allows the user to infuse plausibility into objects, concepts, or living beings, making the impossible possible. There are no inherent restrictions beyond the amount of plausibility the user possesses and the potential of their target.
+
+[Scenario Manipulation]
+
+Rank: MythicalType: Active
+
+A reality-altering ability that allows the user to subtly or drastically rewrite the course of a scenario or quest. By paying plausibility, the user can bend rules, change objectives, and impose narrative changes that align with their desired result. The scale of manipulation depends on the plausibility cost and the complexity of the change.
+
+[Absorb Plausibility]
+
+Rank: LegendaryType: Active
+
+A reality-consuming skill that transforms the conceptual, material, or divine essence of targets into plausibility—the narrative fuel that sustains impossible feats.
+
+Important Items in Possession:
+
+Old Decrepit Book of a Senile Old Man
+
+Grade: UncommonType: Magic Tome
+
+An undecipherable collection of scribbles penned by a senile old man. The contents are shrouded in symbols, making it impossible to discern what’s written inside. However, the book’s most surprising feature lies in its incredible resilience—it’s nearly indestructible and can even be used as a blunt weapon in combat.
+
+Shrouding Coat (Cursed)
+
+Grade: UncommonType: Enchanted Coat
+
+A lightweight black coat woven from an unknown material that absorbs light, giving it a faintly shifting, shadowy appearance. While it offers decent protection and boosts speed, the curse it bears makes its benefits double-edged.
+
+Sharp Steel Spear
+
+Grade: UncommonType: Spear
+
+An excellent-quality steel spear designed for both thrusting and sweeping attacks. Its sturdy build ensures reliable performance in prolonged combat.
+
+Water-Resistant Rubber Boots
+
+Grade: UncommonType: Boots
+
+A well-crafted pair of rubber boots designed to withstand harsh environments. Durable yet comfortable, they provide an excellent grip on wet and slippery surfaces. Highly resistant to water damage, making them ideal for flooded areas.
+
+Armored Scaled Buckler
+
+Grade: RareType: Shield
+
+A lightweight shield forged from steel and the jagged scales of an Armored Black Bear, expertly crafted by a seasoned blacksmith. Despite its small size, it’s capable of withstanding devastating strikes and deflecting incoming projectiles with ease.
+
+Predator’s Scaled Hide
+
+Grade: RareType: Light Armor
+
+A custom-forged armor made from the scales of an Armored Black Bear and the toughened leather of an Alpha Gale Wolf. It offers natural protection without slowing the wearer down, and its durable and light material make it for close-quarters combatants who rely on speed and survivability.
+
+Ring of Fortitude
+
+Grade: UncommonType: Enchanted Ring
+
+A well-crafted silver ring imbued with minor enchantments to enhance physical resilience and raw power.
+
+Howling Edge
+
+Grade: UniqueType: Magic Sword
+
+A blade forged from the sharpest fang of a Tempest Leopard, a beast known for its superior magical ability to wield the power of wind. Enchanted with tempestuous runes, this magic sword can call forth the fury of the storm against its foes.
+
+Totemroot Staff
+
+Grade: UncommonType: Magic Staff
+
+A crude staff carved from ancient forest roots and infused with residual corrupted mana. Though primitive, it channels nature magic with surprising efficiency.
+
+Groveheart Core Shards
+
+Grade: RareType: Crafting Material
+
+A condensed fragment of the Ancient Grove Sentinel’s heart. It can be used to craft magic equipment and weapons or to enhance golem-related constructs. If enough are gathered, it can be fixed into a working golem core.
+
+So that's pretty much it for Volume 1 status. If there's anything I missed or you guys just want some additional info, please let me know.

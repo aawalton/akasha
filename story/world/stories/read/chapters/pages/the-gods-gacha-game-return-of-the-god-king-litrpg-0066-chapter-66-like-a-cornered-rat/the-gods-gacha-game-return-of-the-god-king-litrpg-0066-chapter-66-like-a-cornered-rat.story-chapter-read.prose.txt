@@ -1,0 +1,151 @@
+You have gone through your class advancement.
+
+1,000 accumulated EXP has been taken for the class advancement
+
+Killing an Aleph-rank monster will now only award 10% EXP.
+
+All your stats have increased by 120.
+
+You have learned a skill: [Extraordinary Agility].
+
+You have learned a skill: [Extraordinary Endurance].
+
+You have learned a skill: [Extraordinary Magic Power].
+
+Proficiency in all skills has increased dramatically.
+
+Your [Basic Spearmanship Lv.10] has evolved to [Intermediate Spearmanship Lv.1].
+
+You have learned the exclusive Paradox Incarnate signature skill: [Absorb Plausibility].
+
+The remaining stored experience points have been converted into Level 1.
+
+Maximillian Anderson Lv. 1/60 (EXP 946/2,440)
+
+HP: 100%MP: 393/393
+
+Rank: Gimmel [3]Patron God: Istellia (Goddess of Imagination)Class: Paradox IncarnateTitle: One Who Conquered the Impossible (4)Status: Normal
+
+Strength: 323 + 13 + 32 | Dexterity: 293 + 5 + 29 | Stamina: 270 + 8 + 27Mind: 184 + 18 | Magic Power: 217 + 22 | Luck: 224 + 22
+
+Plausibility: 1329
+
+Free Attributes: 35
+
+Signature Skill(s): [Absorb Plausibility], [Fabled Vessel], [God!$# Creation], [Grant Plausibility], [Scenario Manipulation]
+
+Skill(s): [Basic Alchemy Lv.7], [Basic Hand-to-Hand Combat Lv.7], [Basic Neutral Magic Lv.8], [Basic Shield Mastery Lv.7], [Back Stab Lv.3], [Berserk Lv.2], [Chantless Casting Lv.2], [Desperate Willpower Lv.7], [Extraordinary Agility], [Extraordinary Endurance], [Extraordinary Magic Power], [Extraordinary Power], [Heavy Slash Lv.6], [Heavy Stab Lv.6], [Inspect Eye Lv.3], [Intermediate Spearmanship Lv.1], [Intermediate Swordsmanship Lv.2], [Inventory], [Mana Manipulation Lv.6], [Mana Sense Lv.7], [Mental Tolerance Lv.5], [Negotiation Lv.5], [Night Vision], [Pain Tolerance Lv.6], [Paralysis Resistance Lv.3], [Poison Resistance Lv.3], [Projectile Defense Lv.3], [Predator’s Step Lv.4], [Wind Rush Lv.5]
+
+Spell(s): {Mana Arrow}, {Mana Bullet}, {Spinning Mana Arrow}
+
+With this newfound power, I felt confident—no, certain—that I could take down the divine stag solo if I had to. Of course, I’d still need to rely on Fabled Vessel and Grant Plausibility, but even then, the difference was massive, both in stats and skill proficiency. Such was the power of a class advancement and a legendary class to boot. Any other classes wouldn’t have given that many stats increase from class advancement.
+
+Beyond that, I noticed another change: The stat bonuses from titles were now displayed separately from those granted by equipment. I remembered this was an intentional design to help divine warriors distinguish between the two more easily.
+
+As we made our way through the streets of Fantasia toward the Hall of Classes, I took the chance to inspect all the new skills I’d obtained, mainly the new signature skill exclusive to the Paradox Incarnate class.
+
+[Absorb Plausibility]
+
+Rank: LegendaryType: Active
+
+A reality-consuming skill that transforms the conceptual, material, or divine essence of targets into plausibility—the narrative fuel that sustains impossible feats.
+
+This is a very good skill! Does this mean I can turn a monster or even a human into plausibility? Based on the skill’s description, the answer was yes. But I doubted that the amount of plausibility I would gain would be as much or as efficient as converting faith—the purest form of energy. But still, this opened up more options for me to become even more versatile in gathering plausibility, which could be a real game changer going forward.
+
+Aside from this, I also gained three new passive skills for pushing three of my core stats past two hundred points: Dexterity, Stamina, and Magic Power.
+
+[Extraordinary Agility]
+
+Rank: RareType: Passive
+
+Your agility has surpassed the limits of ordinary warriors. This skill greatly enhances movement speed, reaction time, and evasion capability while also granting sharper reflexes and precision in combat.
+
+[Extraordinary Endurance]
+
+Rank: RareType: Passive
+
+Your stamina has reached an exceptional threshold. This skill grants increased resistance to fatigue, poison, bleeding, and debuffs that reduce physical performance. It also boosts natural recovery over time.
+
+[Extraordinary Magic Power]
+
+Rank: RareType: Passive
+
+Your magic power has exceeded the normal standard. This skill enhances mana regeneration, spell potency, and the stability of complex incantations. It also grants improved resistance to magical disruption and backlash.
+
+With all these in my possession, I now held four of the “Extraordinary” stat-based passives, and I could confidently call myself an extraordinary human. While they might not seem overpowered, these passives were the dividing line between divine warriors with sub-two-hundred stats and those who had crossed that threshold, like the difference between a grown adult and a child.
+
+Nevertheless, I noticed that despite having crossed the two-hundred threshold, the Luck stat didn’t grant any passive skill. That was the most elusive and abstract of all attributes. It was notoriously difficult to raise, and even when it surpassed major thresholds, it required significantly more points than the others before it triggered a stat-related passive. To make things more complicated, actually obtaining a passive from Luck also seemed to depend on—well—luck.
+
+Speaking of which, I was curious about the unique-rank skill that I obtained from the scenario’s reward, so I took a look at it.
+
+Skill Book: [Weapon Manifestation]
+
+Rank: UniqueType: Active
+
+Conjures a temporary weapon from condensed mana according to the user’s current combat needs. The manifested weapon's durability and effectiveness are equivalent to the lowest uncommon-grade weapon, and last as long as the user has mana or until destroyed.
+
+“This is exactly what I need…” I muttered as we neared the main plaza where the Hall of Classes was located.
+
+While an uncommon-grade weapon was nothing special, its adaptability was incredibly useful, especially in unexpected circumstances. If used creatively, it could make the difference between victory and defeat. Just as they said, “Something is better than nothing.” As such, I used the book without hesitation.
+
+You have acquired a skill: [Weapon Manifestation Lv.1].
+
+Thinking back, I had struggled during the boss fight when my sword shattered and my spear ended up embedded in the stag’s back. Having a fallback weapon now was a welcome relief.
+
+But something else felt… off.
+
+As we crossed the last stretch toward the plaza—just ten meters away from the Hall of Classes—I noticed the atmosphere had changed. The area was far too quiet for this hour. Normally, there would be dozens of divine warriors coming and going, especially after a scenario completion. Yet the open plaza was nearly deserted.
+
+Michelle narrowed her eyes. “This feels too empty… Something’s wrong.”
+
+“I think we’ve got company.” Boris punched his palm, ready to fight.
+
+“Be careful,” I warned.
+
+That was when I felt it—hostile gazes from all directions. Chills crept down my spine as shadows encroached upon us.
+
+Figures began emerging one by one. From behind pillars, from the alleys, even from the rooftops above the plaza. Men and women, about two to three dozen in mismatched armor, bearing a variety of weapons, stepped into view. Some I recognized, being Ryan’s group. It appeared that we had been surrounded.
+
+“Well, well,” a mocking voice rang out from the center of the group. Ryan stood there, flanked by his usual cronies, his mohawk was still as spiky as ever. “Fancy seeing you three here. What a coincidence.”
+
+No. Obviously, this was anything but a coincidence.
+
+Boris grinned, clenching his fists. “Looks like the rats finally crawled out of the sewer.”
+
+At this point, Michelle had already nocked an arrow and held everything ready so she could draw and loose at the moment anyone made a move.
+
+“What do you want?” I asked calmly.
+
+While I spoke, I opened my inventory and quietly redeemed the Unique-Grade Armament Voucher each of us had received from the scenario. My sword had been destroyed during the final fight, and I needed a replacement fast. It wasn’t ideal to do this now, not when I didn’t have time to carefully compare choices. But I didn’t exactly have the luxury of time.
+
+Better to be armed than dead.
+
+I had already used Inspect Eye on most of them, and the results weren’t encouraging. Six were Gimmel-rank divine warriors, while the rest hovered around the peak of Bet-rank. Ryan himself had advanced to Gimmel rank, though he clearly was on the weaker end of the spectrum. Regardless, we were completely outnumbered.
+
+“Oh, nothin’ much. I’m just here to settle the score from before,” Ryan said coldly, drawing his machete. “With more than thirty of us here, there’s no way you can beat—”
+
+While he kept talking, a translucent system menu materialized in front of me, displaying a categorized list. I quickly browsed through the weapon section, specifically at swords. And as expected of a Unique-Grade Armament Voucher, the selection was filled with top-tier weapons. Nearly all were magic swords, each imbued with powerful enchantments. Without hesitation, I scrolled through until I found one that fit my current situation perfectly.
+
+“—us with your cheap tricks like last time.”
+
+“I’ve made an agreement with Graham,” I cut in sharply. “We’re scheduled for a duel to the death in a few days. Are you really so eager to disobey your boss’s orders?”
+
+Ryan laughed. “You actually believe he’ll honor that deal? You poor idiot. Just so you know, he’s the one who sent us. He wants to—Wait, what are you doing?”
+
+I tapped the confirmation button and said flatly, “Oh, nothing. Just browsing.”
+
+You have selected Howling Edge for the voucher.
+
+His smirk disappeared. “Tch. Men, grab that brat and bring him to the Grand Colosseum! Don’t let any of them get inside the Hall of Classes!”
+
+To the Grand Colosseum? Ah, so Graham wants the duel to happen now, trying to erase any dangerous variables before they grow out of control.
+
+From that alone, I could infer his motive. Upon learning that I had cleared the fifth scenario, he must have grown impatient and decided to push the duel forward before I could complete my class advancement. Well, that wasn’t completely out of my expectations of his personality. Fortunately, he had no idea I held a legendary class and didn’t have to enter the Hall of Classes to advance.
+
+Unfortunately, this wasn’t the case for both Boris and Michelle.
+
+“Michelle! Boris! Let’s carve open a path to the Hall of Classes!” I shouted. “Once we’re inside, they won’t be able to lay a hand on us!”
+
+“Okay!” Michelle replied, eyes sharp and hand ready to fire the arrow she was holding.
+
+“Fine by me.” Boris just smiled and immediately charged straight at the nearest group of enemies like a battering ram.

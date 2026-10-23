@@ -1,0 +1,151 @@
+“Should we challenge the final boss now?” Michelle asked, her voice slightly weary from the battle.
+
+“As much as I’d love to immediately end this,” Boris said, stretching his arms with a grunt, “getting enough rest is just as important. Say, let’s challenge the boss tomorrow.”
+
+“Correct,” I agreed. “But we won’t be challenging it tomorrow either. Let’s save it for the final day.”
+
+They both looked at me, slightly surprised.
+
+“You have seen the System notification yourself. The boss’s strength has scaled beyond the current difficulty. If we want to survive this, we’ll need time to fully recover, train, and prepare accordingly—both mentally and physically,” I explained further.
+
+I was fairly certain that ordinary traps wouldn’t do much against a foe of this caliber, but scouting the environment ahead of time was still crucial. If we understood the terrain, we could use it to our advantage. In addition, one day should be enough to prepare a few countermeasures in case things went sideways. I also wanted to train my magic a little bit so that I could use it more effectively in combat.
+
+Michelle nodded in understanding. “That makes sense.”
+
+Boris grinned. “Heh. Giving it one more day to gather our strength, huh? I can live with that.”
+
+“It’s good that they’re good teammates,” I mused, reflecting on Michelle and Boris. It was honestly difficult to find such reliable allies in Divine Will. What luck.
+
+“Maxim, you’ve got a scratch on your shoulder,” Michelle suddenly pointed out.
+
+“Hm?” I turned to look, and sure enough, there was a thin burn across the upper part of my shoulder, seared through the armor where the black serpent’s corrosive magic had grazed me. I must not have realized I was injured amidst all the chaos.
+
+It wasn’t life-threatening, but it stung now that I noticed it. I opened my inventory and took out a healing potion to treat the wound. There were about five healing potions in my possession, and they were all minor healing potions. They were just good enough to treat minor wounds like this and could be applied orally or directly to the wound for faster recovery.
+
+I uncorked the potion, feeling the cool liquid seep into the wound as I applied it. The sting subsided almost immediately, the burn starting to heal and close up. No modern medicine was capable of this on Earth.
+
+“Let’s rest here for now,” I said, sitting down against a cleaner part of the ravine wall. “Once we’ve recovered, we’ll spend tomorrow making preparations.”
+
+“Mm, okay.” Michelle sat down nearby, wiping down her bow and inspecting the contents of her quiver.
+
+“I’ll set the campfire,” Boris added, stretching his arms. “Good thing this place is relatively secure and easy to defend.”
+
+As soon as we woke up the next morning, we spent the early hours training in the forest. Since all of us had reached level forty, there wasn’t much point in hunting weaker monsters for experience. Instead, we focused on leveling up our skills’ proficiency.
+
+I wanted to improve my magic specifically, so I split up from the others and found a quiet clearing not far from the small ravine. There, I stood in front of a massive boulder, weathered and half-covered in moss.
+
+“I feel like I use magic a bit too much like an amateur,” I muttered to myself.
+
+It was true. While my sword and spear techniques had been honed to some degree through many battles and practice, my magic usage was still rough. I always cast magic through the tip of my finger rather than conjuring it externally first. Of course, that method required a higher level of Mana Manipulation, but still…
+
+I raised my hand, channeling mana into my palm rather than my finger.
+
+“{Mana Bullet}.”
+
+A purple orb of compressed energy formed and launched at the rock, striking it dead center and chipping off a small piece of stone.
+
+This isn’t enough. What if I poured in more mana and condensed a larger projectile?
+
+With that in mind, I concentrated harder, channeling more mana into my palm. The purple orb began to swell, slowly growing in size as I compressed more energy into it. I pushed it to the limit, carefully maintaining its shape until it reached nearly fifty centimeters in diameter.
+
+Then, I released it.
+
+Bang!
+
+The impact was immediate and violent. The massive orb slammed into the boulder, creating a spiderweb of cracks across its surface. Chunks of stone flew in all directions, scattering across the clearing.
+
+“Not bad…” I muttered, lowering my arm. “But that was way too mana exhausting.”
+
+MP: 22/44
+
+Oof… I won’t be able to use this in combat… The spell, not including the first {Mana Bullet}, had drained more than a third of total MP in one go. It was powerful, but too inefficient. If I wanted to integrate high-output magic into real combat, I needed more than just brute force.
+
+Instead, what if I shaped it into an arrow?
+
+I held out my palm and began channeling mana just above it, focusing on compressing the energy into a narrow, pointed form. Condensing it into an arrowhead shape proved even more difficult than forming a large {Mana Bullet}. If I put too much mana in one section, the whole shape would become unstable.
+
+It took me several minutes just to form a stable construct. Sweat trickled down my brow as I carefully maintained the structure. But eventually, I succeeded.
+
+Once it felt stable enough to launch, I aimed at the same cracked boulder and released it with a flick of my hand. The mana arrow zipped through the air with frightening speed and struck the weakened portion of the rock dead-on. A sharp explosion followed as fragments burst outward in a tight cone, and a precise hole was punched straight through the center of the boulder.
+
+You have learned a spell: {Mana Arrow}.
+
+Mana Manipulation has leveled up.
+
+Basic Neutral Magic has leveled up.
+
+Your Mind has increased by 1.
+
+Your Magic Power has increased by 1.
+
+{Mana Arrow}
+
+Rank: CommonMana Cost: 7 MP
+
+Fires a sharpened arrow of condensed mana at high speed. Offers great piercing power and precision, making it effective against armored or agile targets.
+
+“Huh… That worked better than expected,” I muttered, blinking at the result.
+
+Not only did it use less mana than the oversized {Mana Bullet}, but the concentrated damage was also more efficient. It felt like something I could actually use in real combat situations.
+
+“But I’m not finished yet,” I said to myself and conjured another {Mana Arrow} in my palm, letting the familiar energy gather into a sharp, narrow form. This time, though, I focused on introducing a rotational spin to it.
+
+Just like a real bullet, a spinning projectile should have greater piercing power, better flight stability, and more destructive force on impact. I concentrated harder, adjusting the mana flow so that the arrowhead began to rotate slowly, then faster.
+
+As it spun, I noticed the wind around it spiraling with the movement of the arrow, creating a miniature vortex in my palm. Loose leaves on the ground stirred, and even my sleeve fluttered from the wind. Good.
+
+With a sharp exhale, I released the arrow. It tore through the air like a drill, faster than any projectile I’d launched before.
+
+Bang!
+
+It slammed into the boulder, and this time, a loud crack split through the stone as a jagged hole was punched clean through the other side, much larger than the previous one. Dust and debris rained down as the rock couldn’t stand the pressure any longer and crumbled entirely.
+
+You have learned a spell: {Spinning Mana Arrow}.
+
+{Spinning Mana Arrow}
+
+Rank: UncommonMana Cost: 10 MP
+
+A refined version of {Mana Arrow}, this spell compresses neutral mana into a rotating, arrow-shaped projectile. The added spin increases speed and penetration, allowing it to more effectively pierce through reinforced surfaces.
+
+“Now that’s more like it.” I smiled in satisfaction.
+
+Suddenly, a wave of mild dizziness washed over me, and my vision blurred for a moment. I must have burned through most of my mana with that last spell. Still, I’d made real progress. With this, I felt far more confident about facing the final boss tomorrow.
+
+I sat down on a flat rock nearby, took out a canteen, and drank while letting my body rest. After an hour of respite, my mana had mostly recovered. I stood back up, stretched, and looked out at the trees around me.
+
+It was still early in the morning, and there was no point wasting it, so I ventured deeper into the forest to resume my magic training. I practiced forming and shooting {Mana Arrow} and {Spinning Mana Arrow} at various ranges and angles at nearby monsters, adjusting the speed and rotation. Once my mana dropped to a safe threshold, I switched over to practicing footwork and strike patterns with both my sword and spear.
+
+I must be ready for what was to come tomorrow.
+
+When tomorrow finally came, Boris, Michelle, and I were more than ready as we made our way toward the main altar. The sky was overcast, casting a muted gray light over the forest—a fitting atmosphere for our boss battle.
+
+We had trained hard the day before. Though my physical stats hadn’t seen much of a leap, my Mind and Magic Power had improved significantly from focused spellcasting and mana control. Furthermore, my proficiency in some skills had improved considerably.
+
+Maximillian Anderson Lv. 40/40 (EXP 1,608)
+
+HP: 100%MP: 48/48
+
+Rank: Bet [2]Patron God: Istellia (Goddess of Imagination)Class: Paradox IncarnateTitle: Grovedweller Hunter (3)Status: Normal
+
+Strength: 165 + 13 | Dexterity: 126 + 5 | Stamina: 93 + 8Mind: 60 + 5 | Magic Power: 63 + 5 | Luck: 104
+
+Plausibility: 633
+
+Free Attributes: 189
+
+Signature Skill(s): [@!$# Creation], [Fabled Vessel], [Grant Plausibility], [Scenario Manipulation]
+
+Skill(s): [Basic Alchemy Lv.5], [Basic Hand-to-Hand Combat Lv.5], [Basic Neutral Magic Lv.5], [Basic Shield Mastery Lv.5], [Basic Spearmanship Lv.10], [Basic Swordsmanship Lv.10], [Desperate Willpower Lv.5], [Heavy Slash Lv.4], [Heavy Stab Lv.4], [Inspect Eye Lv.2], [Inventory], [Mana Manipulation Lv.4], [Mana Sense Lv.5], [Mental Tolerance Lv.4], [Negotiation Lv.4], [Night Vision], [Pain Tolerance Lv.4], [Poison Resistance Lv.1], [Projectile Defense Lv.1], [Predator’s Step Lv.2], [Wind Rush Lv.3]
+
+Spell(s): {Mana Arrow}, {Mana Bullet}, {Spinning Mana Arrow}
+
+Meanwhile, Michelle had sharpened her archery and axe techniques to the best she could, and Boris… Well, Boris just kept being Boris. Tough, durable, and deceptively quick, he had refined his movement to better counter fast and even tougher opponents.
+
+None of us spoke much on the way. There wasn’t any need.
+
+We had discussed our strategy prior and knew what awaited us at the altar: the fully awakened final boss—the divine stag—empowered by all five offerings we had made. A foe that surpassed the usual scenario limits; it was a challenge far above what most would dare attempt. But we weren’t ordinary divine warriors.
+
+Soon, we stood at the edge of the clearing ringed by crooked trees. Just ahead, there should be the main altar.
+
+It was time to get serious.
