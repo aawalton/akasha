@@ -21,5 +21,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0081Chapter73AbcsActionsB
       },
     ],
     createdAt: "2026-10-22T16:49:26.206Z",
-    updatedAt: "2026-10-22T16:49:26.206Z",
+    updatedAt: "2026-10-23T12:47:19.000Z",
+    ownProgress: 2262,
+    progressedAt: "2026-10-23T12:47:19.000Z",
   } as const satisfies StoryChapterRead
