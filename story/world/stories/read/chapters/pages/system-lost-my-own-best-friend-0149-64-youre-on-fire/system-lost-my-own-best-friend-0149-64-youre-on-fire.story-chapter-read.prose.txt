@@ -1,0 +1,191 @@
+With a bit of help from Daani and Maggie, I refine my ability to aim [Pyrobolt]. I still struggle to isolate parts of the spell the way Maggie recommends, but after some experimentation I find that it’s possible for me to empower the spell with different “modes.” It’s not quite freely adjusting the spell to my exact specifications like Maggie supposedly can, but it’s better than nothing.
+
+My preferred mode is a quick-firing version of the spell that’s high on force and speed, but has minimal fire power. It’s not as draining as other versions, easier to aim, and less prone to spreading dangerous fires around. The flames even go out on their own relatively quickly.
+
+On the opposite end of the spectrum is a horribly dangerous fire bomb that feels like I’m throwing a grenade. The projectile moves slowly and falls rapidly, but the burst of flames at the target is nothing short of devastating. For some reason, that version of the spell takes a lot more out of me, though, to the point that each shot not only makes me feel lightheaded, but also drives an inexplicable emotional dagger straight through my heart.
+
+The mental impacts of magical strain are usually pretty slow and insidious, but overclocking spells like this turns them into an extremely noticeable punch to the gut. Each pyrobomb, as I’ve nicknamed it, instantly makes my day worse. It makes the desert sun feel hotter, the chronic sunburns more itchy and painful, Daani’s excitement more grating—it’s like my senses are being sharpened, but only for the sole purpose of cutting me with them.
+
+I don’t think I like magic very much. I’m committed to learning it—at least enough to keep Maggie in check and prevent us from wasting such a valuable resource—but the more I practice, the more I hate it. No matter what Maggie says, I don’t think this will ever be a full replacement for a knife or a spear.
+
+Even worse, after spending a good chunk of the morning and afternoon practicing it, I’m still not done. [Pyrobolt] was only the first on the list of spells I wanted to consider today.
+
+There are two other important skills that I’d like to regain immediate access to, and one that I’m less certain of but still interested in. More specifically—
+
+[Skill - Retaliation]
+
+Increased Power and Resilience when fighting to defend someone or something.
+
+[Skill - Quick Sort]
+
+Always arrange a set of objects correctly according to the desired order.
+
+[Skill - Protect the Innocent]
+
+Dramatically increased Power, Resilience, and Will when fighting in defense of anyone sick, injured, or below your own tier.
+
+[Retaliation] and [Protect the Innocent] are bread and butter skills that I’ve relied on since as far back as the convergence point, and [Quick Sort]—though it’s an odd choice for a combat spell—has a lot of potential. Even as a tier zero skill, Maggie was already using it as a sort of limited divination.
+
+There is also one other skill that I can’t ignore, but it scares me.
+
+[Skill - Revitalization]
+
+Draw upon the body’s energy stores to dramatically accelerate natural healing and repair mortal wounds. When used to heal others, you may draw upon your own energy instead.
+
+This skill has saved our life at least twice, but has a huge drawback. The physical and mental exhaustion it inflicts on us takes a lot longer to heal than the wounds it repairs. If not for Talla’s expertise and more dedicated healing, we’d still be reeling from the effects of using it a few times over the course of several days. But it’s a very powerful tool, and if [Savior] is being shelved for now, then regaining access to it—or a form of it—is a priority.
+
+I’m just concerned about what such a spell would look like, when combined with [Pyrothaumaturgy]. So far, the addition of fire hasn’t been too destructive to the original intent of the skills we’ve used to fuel our spells, but it still makes me nervous, especially with a skill that already has such a severe cost.
+
+“Lost in thought again?” Daani asks, firing another arrow downfield.
+
+He’s mostly figured out that I prefer not to be bothered when trying to concentrate and found ways to keep himself occupied, but now and then he still can’t help himself.
+
+“I have more spells to make,” I answer. “Trying to figure them out.”
+
+“I’m no Talla, but I’d be happy to help if I can,” he offers.
+
+I’m sure he would, but it’s hard enough for me to carry a conversation in Fa’aun, much less a complicated technical conversation with someone who understands the fundamentals of what I’m doing even less than I do.
+
+I sigh and shake my head, trying to shake off the lingering malaise that’s clouding my thoughts. I don’t need to be this grumpy with him.
+
+“Thank you,” I reply instead of whatever snippy reply was working its way out of me. “But I need to make the spells first.”
+
+There’s no point in consulting with him about the skills themselves, since the spells might end up completely different. Of course, the people I should be asking are always right here with me.
+
+“[Allie, Eva, what do you think about making spells from these skills?]” I ask under my breath, switching to our language.
+
+“Why are you asking them instead of me?” Maggie complains.
+
+“[Because I value their opinions],” I deadpan.
+
+She giggles in spite of herself. “You fucker.”
+
+“I don’t really know,” Allie hedges. “They’re all useful skills, but what does a fiery version of [Quick Sort] even look like?”
+
+“I believe you may be overthinking it,” Evelyn says. “Proper spells, created with the guidance of the [World Engine], are gifts from the Goddess, like any class or skill. Whatever spell you create, it will surely be useful and valuable.”
+
+“[I don’t doubt that, but some are more useful and valuable than others.]” I muse.
+
+“Perhaps, but you cannot know what your gift will be until you’ve received it.”
+
+She’s got a point. And I know that I’m prone to overthinking.
+
+“[Fine, which one should I try first, then?]”
+
+“[Protect the Innocent]?” Allie suggests.
+
+“[Retaliation],” Eva counters. “Lower tier skills are easier, and it would behoove you to craft a shield to match the sword you already have.”
+
+Remarkably thoughtful—not that I think Evelyn is stupid, but she seems to be more willing to engage instead of just dismissing us recently.
+
+“[Revitalization] or no balls,” Maggie interjects, her opinion discarded as fast as she can voice it.
+
+“[Retaliation it is],” I declare, glancing up at Daani, who’s been politely ignoring me while I talk to myself. “I’m going to focus for a moment, please don’t interrupt me.”
+
+“Okay! I’ll be right here!” he replies.
+
+Once more, I close my eyes in meditation. [Retaliation] was my first skill—or at least the first one that felt like it was mine, rather than ours. The first time I used it was...a bit messy. I almost forgot to use it at all, and nearly got us all killed despite having the advantage of ambushing a sleeping laser gecko. Still, it was an invaluable skill, and I’m privately glad that we still have a way to continue using it.
+
+Maggie might mock me, but the natural way it fits together with [Pyrothaumaturgy] already feels perfect. I don’t have any desire to force it into a different shape or find a different solution. The two skills snap together into a very satisfying shape.
+
+[Smoldering Embrace]
+
+Engulf yourself in harmless flames that can spread to willing allies and burn attackers.
+
+Interesting. Not quite the defense I’d hoped it would be—but appropriate for a skill that’s based on fighting back. Not particularly useful against ranged attacks, but the fact that it’s still fire gives it a lot of potential synergy with our other skills if we can still manipulate and sense it.
+
+There’s another factor that I forget to even consider as I test it out, and a thin layer of softly glowing flames spread across my entire body.
+
+“Blood and acid!” Daani gasps. “You’re on fire!”
+
+I blink at him, then look down at my hands. It’s not a huge conflagration or anything, but the skill does nevertheless make me look as though I’ve just doused myself in a weak accelerant and set myself on fire.
+
+“It’s a sort of shield,” I explain. “It should only hurt people who attack me.”
+
+He frowns. “Hmm, that sounds like it needs more testing.”
+
+“What do you mean?”
+
+“Attack you how?” he asks. “And for how long is it active? If someone punches you in the shoulder, will they get singed and then be safe, or will the fire spread and cling to them? Does it count if they’ve just got aggressive intent? Say if I nocked an arrow and pointed it at you, could you then hit me with a burning tackle?”
+
+Those are all excellent questions, and I have no idea how to answer them. I can’t really test any of it without a willing participant who’s okay with getting a few burns.
+
+“Not sure,” I reply with a shrug. “I’ll need Talla to—”
+
+Before I can finish my sentence, he reaches forward and flicks me in the forehead.
+
+“Ow!” he cries, waving his hand in the air and then sucking on his finger. “Okay, doesn’t take much to activate, and the flames don’t stick.”
+
+I cover my forehead and step back, mostly just startled and indignant rather than hurt. “Why did you do that?!”
+
+“To test the spell,” he answers simply. “Okay, let’s try this—I’m going to punch you in the stomach, and I’m not holding back. It’ll hurt if you don’t dodge. Either way, tap me on the shoulder afterwards.”
+
+“Wait, Daani, this is a bad—”
+
+He doesn’t listen, springing forward and rearing back to punch me, just like he promised. Between the fact that he announced his plan and the way he telegraphed the attack, it’s simple enough to sidestep. I reflexively push him away from me as I do, and he yelps in pain, skipping away from me and patting urgently at the spot where I touched him.
+
+“Ow, frick!” he swears, catching me off guard with Allie’s signature curse. I forgot that Tara has been spreading it around. “Whew, still didn’t catch, but I think you might have singed my fur.”
+
+He indicates a distinctly hand-shaped imprint of brown contrasting against the rest of his light blonde fur.
+
+“Please stop,” I insist. “You’re going to hurt yourself. More.”
+
+Daani shrugs. “I’ve gotten worse from sparring with little Graha, and you can always stop the flames like you did before, right?”
+
+“Hey, I’ve got an even better idea,” Maggie interjects. “Give him the aura, and then see if it burns us if we attack him. Or what happens if he attacks us while he has it.”
+
+“Woah! Time the heck out, no!” Allie shrieks. “We are not doing that one! That is a recipe for disaster.”
+
+I’m inclined to agree with Allie on that one. I’d rather not do anything that runs the risk of burning Talla’s little brother alive, even if he is a bit annoying. Though I would like to test the effect of providing it to allies.
+
+“Can I try casting the spell on you?” I ask. “I think I can do that.”
+
+He hesitates for a moment, then shrugs. “Yeah, sure—just put it out right away if I start screaming.”
+
+Daani grins and winks, but even as a joke that is not a mental image that I’m comfortable with. It’s not his fault, though—he can’t read my mind, and even if I had the words to communicate it, that’s not a trauma I’d want to share. I put it out of my mind and reach towards him as if offering a handshake.
+
+“Just take my hand.”
+
+He looks down at it and shrugs, clasping my hand in his. In moments, the fire races up his arm and engulfs his body, a thin layer of red-orange flames that gently lick the air around his head and shoulders. Daani admires the fiery coating with an awestruck expression before meeting my eyes with a cheeky grin.
+
+“So what happens if I hit—?”
+
+I don’t even let him finish before reclaiming all of the lingering fire surrounding each of us and completely killing the spell.
+
+“No.”
+
+Not without Talla on standby, at least.
+
+“That’s enough magic for now,” I declare, checking my gains for the day.
+
+[Level up!]
+
+Adept has grown from level 6 to 7.
+
++1 Awareness.
+
+Only one level, and I earned it while trying to adjust the output of [Pyrobolt]. A bit disappointing, but I’ve still got a few more spells to play with. Truth be told, I’d like to finish them now, but I’m starting to realize why Talla doesn’t practice her magic at home.
+
+It’s dangerous. Daani doesn’t seem to appreciate just how badly things could go wrong, nor how much trouble I’d be in if they do.
+
+“Aww,” he groans in disappointment. “Can you stay and do a few rounds of sparring at least? I’ve never practiced with someone my age that has real combat experience.”
+
+I stare at him blankly for a long moment as several things click into place in my mind.
+
+“I’m almost twice your age,” I inform him flatly.
+
+He blinks, then staggers backwards. “But—but you’re so short!”
+
+“I’m a different species,” I explain. “We’re shorter.”
+
+Which is true, but not the entire story. Still enough to get the point across, though.
+
+“Oh, in all Her names, I’m so embarrassed...” he groans. But true to form, he quickly rallies, straightening up and shaking his head. “The offer still stands, Miss Vi! A chance to practice with an adult the same size as me is an even better opportunity, actually! I might even get a level!”
+
+“I have to give the kid credit,” Allie says. “He’s pretty determined.”
+
+I sigh, trying to think of a way to let him down gently when a thought occurs to me. All this magic has left me in a sour mood, partly from strain and partly because I just don’t like it much. His heart is in the right place, but Daani’s been a bit of a nuisance since he introduced himself, and I really could use an opportunity to vent some of my pent-up aggression.
+
+He said he’d gotten worse injuries from his little brother, so it sounds like a bit of full-contact sparring is normal even for children. Normally I’d feel bad about beating up a child but...if he’s offering.
+
+“You know what? Fine,” I relent at last. “Let’s spar. It sounds like fun.”

@@ -1,0 +1,195 @@
+[Level up!]
+
+Ranger's Legacy has grown from level 2 to 6.
+
++4 Resilience.
+
++4 Will.
+
+Monster Trainer has grown from level 5 to 7.
+
++4 Awareness.
+
++4 Ego.
+
+Dreamwalker has grown from level 1 to 2.
+
++3 Awareness.
+
++3 Ego.
+
++6 Will.
+
+Huh. Seeing it all laid out at once like that feels like it’s revealing something about how Engie determines the value of achievements as they apply towards new levels. Violet and I got the same amount of attributes from our levels, while even a single level in Eve’s [Dreamwalker] class is worth fifty percent more. Maybe that’s why it takes higher tier classes so much longer to level up.
+
+Or it’s just a coincidence and I’m reading too far into it. I doubt it, though. Engie’s all about patterns, so I’m not about to dismiss one out of hand after noticing it. Not that it really matters.
+
+To my side, Talla says something, but her voice is still a bit fuzzy and indistinct.
+
+“What?!” I shout back, struggling to hear my own voice over the constant ringing in my ears.
+
+“I asked if you’re hurt,” she repeats, speaking loud and slow for me.
+
+“Oh, no,” I reply, pointing at my ears. “Still a bit deaf, though.”
+
+She sighs, and her softly glowing orb takes on a gentle orange hue. The familiar warmth of her slow healing aura spell washes over me.
+
+“I should be able to fix that,” she assures me. “Don’t use your emergency skills—we need to be delicate to prevent permanent damage. Thank you, by the way.”
+
+“Hm?” I turn towards her curiously.
+
+“For saving me,” she clarifies. “Using the blankets to muffle the sound was quick thinking, I might have been out of the fight if not for that.”
+
+I look away and shrug. “That was Vi,” I murmur. “I didn’t do anything.”
+
+“Oh, I see,” she replies, in that neutral tone she uses when she’s trying to pretend not to judge us. “It was a bit hard to tell during the fight, but that was definitely you at the end, right? What was that spell?”
+
+It was hard to tell. I think we switched multiple times, but sometimes it felt like our body was moving according to Vi’s will or mine almost before we actually switched. It’s a feeling that’s happened before, but I don’t particularly want to delve into that memory just now.
+
+“Not a spell,” I correct her. “And before you ask, not chaos magic, either. Just a boring old skill.”
+
+Talla eyes the smouldering corpse of the monster doubtfully.
+
+“The fire controlling aspect of your [Pyrothaumaturgy]? How did you manage that?”
+
+I smile proudly and snap my fingers, conjuring a little heatless flame burning at the tip of my index finger like a little candle. The first time I tried that, I burned myself, but not now.
+
+“I’ve been practicing,” I inform her. “Just like you told me to.”
+
+It’s all stuff I’ve done before, even as far back as the convergence point. Controlling fire means more than just moving it around—even if the skill that let me do it was originally [Pyrokinesis]. Shape, size, heat, light, color—Engie doesn’t like me doing it, but I can do whatever I want with it. If I go deep enough, it’s probably even possible to change even more fundamental properties, like Vi’s conversion spell. In theory, the only actual limit is how much energy is in it, but even then I can absorb any extra energy or push more in from my own reserves. So the real limit is my own focus and how precisely I can control the energy involved. [Pyrothaumaturgy] gives me a nice starting point, and Talla’s advice—simple as it was—has been priceless for slowly expanding my abilities from there.
+
+“Impressive,” she admits. “I didn’t realize you’d taken to it so much. I thought you were focused on Nipper.”
+
+“It’s the same thing,” I say, snapping my fingers again.
+
+With a little exertion of will, I alter the magical signature of the flickering flame on my index finger and hold it up to my shoulder. Nipper looks up from where he was already getting a head start nibbling on the dead monster and then wriggles through a gap in the air to emerge next to my head and happily snap the little treat off of my finger. His teeth gently graze my skin as he does, but he’s careful not to hurt me. Such a good boy.
+
+“He only perceives magic,” I explain. “So communicating with him has been a great way to refine my control. I wouldn’t have been able to pull you out of that tent without him.”
+
+“Well then thank you too, Nipper,” she says, smiling at the worm on my shoulder.
+
+Pretty pointless, since he can’t hear or understand her, but I appreciate the gesture anyway and some echo of the sentiment probably translates through our bond. Speaking of which, did he get any gains of his own?
+
+[Nipper: Tier 0 Astral Wurm Larva]** - Level 2/10
+
+[Attribute Total]: 13
+
+[Traits]
+
+Magical Constitution
+
+Matter Conversion
+
+Limited Pyropathy
+
+Astral Burrowing
+
+Hmm, nope. Then again, growth seems to work differently for Nipper. Maybe he’ll get something out of it if he eats the monster corpse. I can still feel some of the residual magic in it—like a dull warmth slowly fading as it radiates into the world around it. Without much more thought, I set him to the task and he blinks over to resume eagerly devouring the dead creature.
+
+“Wait,” Talla says. “We could preserve some of its materials. The remains of anomalous creatures are often valued for their ability to hold enchantments—like your boots.”
+
+Vi’s boots, I mentally correct her, which remain only potentially magical. Whatever enchantments were going to be placed on them, the artisan never got around to it before we had to flee the city. Talla’s got no talent for enchanting, which I’m told is very similar to blessings and curses. I do have a bit of experience there, but only a bit, and most of our spells still invoke fire, which is probably not what we want on an article of clothing.
+
+“Not like we can carry it,” I reply with a shrug. “Besides, I think we’ve got more pressing concerns.”
+
+“We should debrief,” Violet recommends. “It’ll give us a chance to go over what happened and how to proceed.”
+
+I bite back a bitter comment about blindly copying Draga. I still think that it’s a stupid waste of time, and that she’s embarrassing herself by trying to become him, but I can’t work up the venom to call her out on it right now. We just had an argument that cut way deeper than I meant it to, and I don’t trust myself not to fuck it up again right now.
+
+Besides, during the fight I felt the boundaries between us blurring a little. Like I could feel some of what she was feeling, even more than we do when we’re in one of Eve’s dreams. It just wouldn’t feel right, I guess. Not now.
+
+“Good idea,” Talla replies, indicating that she’s also using her listening spell right now. Makes sense, since we were in the middle of combat. “Why don’t you get the fire going while I check on our things?”
+
+We do just that, reviving the soggy firepit with the help of a little magic to keep it going through the persistent nightly rains that plague this forest. Damn, we’re totally caked in mud and our clothes are soaked, I belatedly realize. We’ve got some spares, but we’re gonna need more than a bit of rain to get ourselves cleaned up enough to wear them without just spreading the filth around. Whatever—that can be Vi and Allie’s problem.
+
+A few minutes later, Talla comes over to sit with us, brushing at the worst of the mud in her fur with a frustrated sigh.
+
+“I just combed this,” she groans.
+
+I could help with that, my treacherous lips refuse to say. Instead, I keep my eyes firmly glued to the fire and ask about the damage.
+
+“It’s not too bad,” she answers. “Some broken ropes and torn canvas, but I don’t think the tent is a lost cause. Our belongings got scattered, but the mess is contained. In a way, we’re lucky it wasn’t a normal wild animal.”
+
+“Why’s that?”
+
+Talla points at a waterproof bundle hanging from a nearby tree, where our rations are stored.
+
+“Animals would have gone for the food. The giant bat was only interested in us.”
+
+I snort. “You’ve got a funny definition of lucky.”
+
+“Actually, that’s one of the things I want to discuss,” Violet cuts in. “I don’t think it’s a coincidence that the monster came straight for us.”
+
+“Probably not,” Talla admits. “They’re known to be drawn to sources of magic, and both of us are mages. Plus, there’s your mana candles.”
+
+“Yeah, we should have expected it,” I agree. “Though I didn’t think its senses would extend so far. Nipper’s only got a radius of like a dozen meters or so.”
+
+Although, in hindsight, he and his newborn siblings also went straight for our hideout in the Candle Labyrinth after hatching, so there’s probably something else I’m missing.
+
+“Not just that,” Vi insists. “During the fight, it took a particular interest in us. Enough that it ignored both you and the tent after we joined the fight.”
+
+The tent where the mana candles are—which should be a way bigger source of magic. She’s right, something isn’t adding up.
+
+Talla hums thoughtfully for a moment, poking at the fire with a stick. “I do have a theory,” she offers. “But it’s pure speculation.”
+
+“So is everything we’ve got,” I reply with a shrug. “Lay it on us.”
+
+She furrows her brow, probably trying to pick apart my sloppily translated idiom, before shaking her head and pushing on.
+
+“Magic is everywhere,” she begins. “But not just anything can harness it. Unlike monsters, regular animals almost never evolve in a noticeable manner, and it’s rare for them to reach beyond the second or third tier without interference.”
+
+“Right,” I recall, thinking back to some of Vi’s less boring chats with her board game buddy. “Without Engie, we wouldn’t even know it’s there, right?”
+
+“The [World Engine],” Talla corrects me peevishly, “is what allows us to tap into the magic around us, yes. Technically speaking, attributes, classes, and skills are all applications of magic. Though their interface is different from ours, it’s the same for animals and monsters.”
+
+“Okay...” I mutter quietly, unsure where she’s going with this.
+
+“Convergence points aren’t really more magical than anywhere else,” she goes on. “The idea of more or less is sort of inapplicable to magic in the first place. Anyone who’s undergone magical initiation could tell you with the utmost certainty that it is infinite. Limitless. That’s practically its defining feature.”
+
+Violet and I both share a shudder at the thought, though for very different reasons. Even now, so far removed from the manic obsession that drove me when I first woke up in the convergence point, part of me still wants to feel that sensation again. To see eternity laid out before me, and then peer beyond, just to see what awaits me there. Talla is right, though. There can’t be any question once you’ve seen it.
+
+“What are they, then?” I ask.
+
+“It’s in the name—convergence point,” she says. “They’ve been called that for as long as anybody can remember. Even the most ancient shamans and wisest matriarchs of old knew that a convergence point was a place where our reality intersected with something else. Where latent reality becomes just plain reality. It’s why space gets distorted inside of them, why they tend to shift and change over time, and why even though they don’t have more magic, per se, they are nevertheless more magical.”
+
+“Where all that is meets all that could be,” I murmur to myself, echoing the words of the Alchemist when he was describing the ocean of possibility.
+
+Talla blinks. “Yes, that’s an apt description, I think. Where did you hear that?”
+
+“Good ol’ Al,” I reply. “So a convergence point isn’t more magical because it’s got more magic, it’s more magical because it’s got more reality.”
+
+“Something like that,” she agrees, then points to Nipper, where he is dutifully munching his way through a corpse dozens of times his own size. “Yet monsters still prey on each other, and everything else if the seals break and they’re released into the world. Why, when they already exist surrounded by so much raw potential?”
+
+I rest my chin in my palm and watch Nipper eat with a mix of wonder and affection. “Same reason any predator does,” I muse. “The sun gives energy to plants, which they turn into sugars and fats. Animals eat the plants to accumulate energy, then other animals eat those animals to take the energy and nutrients they’ve accumulated. So it goes up the chain.”
+
+Kind of a simplistic summary of a food chain, but Talla gets the gist and nods in agreement.
+
+“I think it’s the same for monsters,” she says. “Your Nipper there is an omnivore like us—though a bit more literal in its case—it will eat anything and derive whatever magic it can. The giant bat, though? I think it’s a carnivore in this analogy. Maybe it would go after the candles if they were the only thing available, but...” she turns to me. “Why bother, when you’ve already been steadily doing the work of harnessing all that magic?”
+
+I freeze, then cough into a hand, trying to ignore the cold sweat on my neck and the prickling in my cheeks. “Right, of course. Nipper’s been supplementing his diet with candles since he was born. That makes sense.”
+
+Talla gives me a flat look. “Just Nipper, huh?”
+
+Fuck. Shit. Goddess damn it! Why am I freaking out about this? It’s not a crime to eat candles. It’s just weird. Oh piss, she’s gonna think I’m a freak!
+
+“You’re never as subtle as you think you are, Maggie,” Violet sighs.
+
+Wow! And here I was trying not to kick her while she was down. Fucking never learn, do I?
+
+“I can sense magic, Maggie,” Talla reminds me. “And you’ve always had more than normal for your tier, but since we left the city it’s exploded. It wasn’t that difficult to connect your sudden jumps to all the times you slipped away to feed Nipper in private.”
+
+“Okay, fine,” I grumble defensively. “So?”
+
+She shrugs. “Nothing. It’s a clever trick, but it’s clearly got downsides—such as attracting monsters. I just wish you had told me sooner.”
+
+“Why?”
+
+“So that I could help, of course,” she giggles. “Did you think I was going to judge you for pursuing a source of magical power? I’m disappointed, Maggie, but only because you haven’t already consulted me about ways to actually use that power.”
+
+I blink, feeling a little ashamed of how surprised I am by her support.
+
+“I thought you’d tell me it’s a bad idea, that it’s dangerous, and force me to stop,” I mutter guiltily.
+
+“It might be,” she sighs. “But I know better than to think that will stop you. So let’s discuss the best way to mitigate those dangers while still making full use of all that potential.”
+
+As she drags me into what basically amounts to an interrogation about how my [Borrowed Power] skill works, I realize that I might have severely underestimated Talla.
