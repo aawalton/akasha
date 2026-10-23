@@ -1,0 +1,183 @@
+They ate supper in Lumina's apartment high up in the Tower. Brin had never seen a place she actually called home before, and nothing about it surprised him. The place looked like an interior decorator had carefully set things up in an elegant and refined art nouveau style before Lumina had proceeded to cram books and loose notes into every conceivable nook and cranny.
+
+He'd filled them in on all his day’s adventures and Hogg listened with giddy enthusiasm. Meanwhile, Lumina toyed with her food distractedly. She'd been like that since he'd entered, looking a bit worn down. When he asked her about it, she brushed it aside.
+
+"Just a small emergency. It's always like this on the first day of classes."
+
+"Can you talk about it?" Brin asked.
+
+"Master wants silence for now, until we're sure we've identified everyone involved."
+
+So he'd continued going through his day, talking about his entry to the Tower and his introduction to the Circle of Illusions, which led to the other exciting discovery of the day.
+
+"...which is why the base condition is so important. If you're going to trust your spell to propagate itself, you need to make sure it has very clear instructions on when to stop."
+
+"Wouldn't it be easier to simply iterate across a list?" asked Lumina.
+
+Hogg shook his head. "She doesn't get it."
+
+"She doesn't get it," Brin agreed.
+
+Lumina dropped her fork and stood. "I apologize. I'm feeling wrung out, and I believe I'm hanging a pall over what should be a happy occasion. Excuse me." She stood and went to the door leading back to her bedrooms.
+
+Brin rushed to say, "Oh, no, I'm sorry, I didn't mean it to sound so harsh. You don't have to go... Lumina?"
+
+But Lumina didn't seem to hear him, eyes vacant, and left without another word.
+
+"I'll go talk to her," said Hogg, looking as concerned as Brin felt.
+
+"Tell her... I mean, I'm not crazy, right? Recursion is cool!" said Brin.
+
+"It is cool!" said Hogg.
+
+"I mean, tell her that sure, objectively speaking, iterating across a list works just as well. In most cases," said Brin.
+
+"As long as you take care to maintain your state," said Hogg.
+
+"Naturally."
+
+"I mean, I still think recursion is more elegant, but these Tower nerds, they get awfully passionate about stuff like this. We can let her have this one," said Hogg.
+
+"Exactly. Exactly right. We can be the bigger men," Brin agreed.
+
+Hogg left as well. Brin wondered if he should follow, and then wondered if he should leave. He finished his dinner in silence, thinking about his new Class and about what kind of advice Lumina would have for him when she was feeling better.
+
+Even after Brin finished his dinner, they didn't return, and their food grew cold on the table. He was pretty sure Lumina allowed servants into this part of her apartment, but no one came to clear away the table.
+
+After a bit, the door opened, and Bedelia stepped inside.
+
+She curtsied. "Lord Mistaken. Master Hogg has told me to inform you that he's busy with an urgent matter."
+
+"Why? What’s going on?" asked Brin.
+
+“I don’t know,” said Bedelia.
+
+“You should know anything Hogg knows,” said Brin.
+
+“It doesn’t work like that. He likes to keep me ignorant so that I… I make mistakes he wouldn’t make,” she stared distantly into the air while she spoke, and shivered. Then she perked up again with her regular plucky smile. “And! Anything I don’t know can’t be read in my fate or my mind. Anyway, I'm to escort you back to the city house."
+
+"Is that right? Let me grab my bag."
+
+"Oh, I can carry that for you," she offered.
+
+"No thanks.”
+
+Brin took one look at the room towards Lumina’s master suite. He’d sort of been saving his big reveal of his new Class for when Lumina was looking less distracted, but they’d never gotten to it. They both obviously knew what he’d chosen. Hogg had an incredibly high level [Inspect], and Lumina could sense his magic. But he’d wanted to know what they thought.
+
+He shook his head, and decided to skip the part where he sulked all night feeling sorry for himself. Lumina had something big going on. She’d put her life on hold for several months back in Hammon’s Bog just to hang around with him, so it wasn’t that she wasn’t willing to put an effort in for him. The only way she’d be acting like this was if something really terrible had happened, something that she couldn’t talk to him about yet.
+
+He’d find out what it was soon enough.
+
+The walk back through the Tower was a bit different. The hallways were still full of traffic going this way and that, but it still felt sort of empty in a way it hadn’t this morning. At the bottom of the elevator, they cut through the atrium, still full of the hustle and bustle of [Mage] society. It was the golden hour and light from the windows cast the whole area in streams of gold. It was strange to think that he’d only been here one day; it already felt like he was a regular part of this place.
+
+Bedelia took him towards a passage he hadn’t seen before, and found that there was a roundabout for wagons to pick up and drop off, making it easier to get in and out without having to cross the big gardens out front.
+
+Tonin was waiting there atop Hogg’s hard light carriage, acting for all the world as if holding the reins for a pair of non-existent horses were the most natural thing in the world. He hopped down to open the door for Brin, and then when they were all ready, he flicked the reins and the wagon moved on its own.
+
+On the way back, Brin tried to distract himself with plans for how to train his new Class. He didn’t want to think about whatever trouble had Lumina acting like that. It wasn’t about him. If Lumina was upset he hadn’t specced into enough new elements like she’d advised, she’d say so, right? She’d definitely say so. She was upset about something else.
+
+He was failing to distract himself.
+
+“Bedelia, can I go up front with Tonin?” Brin asked.
+
+She knocked on the wall of the wagon, and the front opened up, turning to a small staircase that led to the driver’s box seat. Brin climbed up and sat beside his [Valet].
+
+“How was your first day of school, my lord?” Tonin asked. His eyes roved the streets like an eagle searching for a field mouse, taking his duties seriously. He had to know he wasn’t really driving this thing, but he wasn’t letting that lead to complacency.
+
+“Good! Amazing. Full of mystery and adventure, exactly like what a magical Tower should be. For the first half of the day, I guess. The second half was what you’d expect from an ordinary school. We talked about the student handbook, and safety this, policy that. I kind of expected to meet the Circle Master for Fire, but instead it was just a [Advisor] who did everything,” said Brin.
+
+“And did you make any friends?” Tonin asked, deadly serious in a way that made Brin think he was teasing him a little.
+
+“Of course I did. I’m absurdly popular there. They were eating out of my hands, Tonin, you should’ve seen it. I only made one… one, maybe two enemies,” said Brin.
+
+“I’m given to understand that those are good numbers in your case,” said Tonin.
+
+“The best. My first day in Hammon’s Bog it was like, a thousand people that hated me. Then my first day on the Lance it was nine. This is a new record,” said Brin.
+
+“And have you finished your homework? If so, I believe you shall be allowed a pudding,” Tonin said earnestly. Yeah, he was definitely teasing him. Steamshield wasn’t much like the rest of the country in that they actually had public schools for pre-System children. In Hammon’s Bog, school had just meant places like the Tower, but here it was something to keep children busy while their parents were at the factory.
+
+Back at the city house, Brin went straight to his workshop and started in on his new fire magic. He snapped his fingers and spoke the word for <Fire> and a small torch of flame appeared. He laughed in delight at the sight of it. This was going to be fun.
+
+The first thing he tried was adding words of Language to his flame summoning. <Burn hotter> and <Burn Brighter>, then when those both worked as he expected <Burn Dimly> and <Burn Coolly>. Neither one of those made any difference at all, which meant that something was wrong with his words or his visualization. It didn’t matter for now.
+
+Marksi darted into the room as he practiced, and Brin took a break to tell Marksi about his day, but Marksi was actually more interested in letting Brin know about his day. He mimed out his story with lots of growling and hissing, and Brin got the feeling that Marksi had napped most of the day, and then spent the rest of his time laying claim to territory and establishing his dominance with the local stray cat and dog population.
+
+He was also fairly happy for Brin that he could cast Fire magic now. When Brin asked him if that's something Marksi would learn to do, the little dragon had turned up his nose. Breathing Fire was a very mundane ability for such a remarkable dragon like him. In that case, he might as well turn all his scales green rather than the constantly shifting rainbow patterns.
+
+Brin tried freeform casting next. He checked how quickly he could move the flame back and forth through the air, and how much he could summon all at once. Neither of those were very impressive, but it would get better as he leveled the Skill and familiarized himself with the feel of it some more.
+
+[Summon Flame through Glass] leveled up! 1 -> 5
+
+These first points were so easy it was almost stupid.
+
+Tonin came by about when he was wrapping up with his fire experiments, bringing the promised pudding. He actually made Brin swear that he’d finished his homework, which he had. He’d already read through and memorized all the material the Circle of Illusions had given him about their duties and bylaws. He planned to test in to become a full member of the Circle. He bet he’d be the first person in the Class to become a Second Circle [Mage].
+
+He ate his pudding and thought about his next test. The obvious next thing to try was [Transmute to Glass], but he honestly wanted to do something else first.
+
+It was maybe a bit silly, but he’d had the idea and he couldn’t really concentrate on anything else until he tried it out. It was about an ability he’d had for a pretty long time now; summoning a glass chain. He’d never found a reason to use it in the war, but his use in the maze had shown him that it wasn’t nearly as quick or easy as it needed to be if that was going to be his go-to method for non-lethal takedowns.
+
+What if instead of trying to summon every link at once, he created them one at a time, but quickly?
+
+He used a sheet of paper to write out a set of instructions that a Directed Thread could read and then execute. The thread would end up pulling these instructions from his memories, but writing it down helped him organize his thoughts.
+
+Function makeChain(prevLink)
+
+If my Mana is below 50%, stop and return.
+
+If the Task Manager thread has ordered a stop in the chat, stop and return.
+
+Using the prevLink as a starting point, summon a new link. Start it inside the prevLink, and make it point in the direction of…
+
+Actually, what could he use for this? He was still holding the spoon for his pudding. That was as good a start as any.
+
+…of this spoon. Call the new one curLink.
+
+Execute makeChain(curLink).
+
+Return.
+
+Brin ran the program, and pointed his spoon upwards. Nothing happened and his program failed. It didn’t have a starter link. He adjusted the program to say that if prevLink was empty, it should create one. Then he started it again.
+
+This time, a glass chain erupted from the tip of his spoon and then kept climbing until it approached the ceiling. He pointed forward and then down, and the chain followed it, summoning more links in the direction of where he pointed. It was good, but not quite there. He ordered his Task Manager to call a halt.
+
+He adjusted the program to have the Directed Thread visualize curLink first, then execute makeChain, and then actually begin summoning the glass link.
+
+This time, the chain was fast. It sprouted from his spoon as fast as an arrow flies, and then he felt his Mana start to drain precariously quickly as his Directed Threads tried to summon glass inside the walls. He had to force cancel all the threads to shut it down. He adjusted his function one more time to have them choose a different direction if the path forward was blocked.
+
+He started again, and again the chain slammed into the ceiling in an instant, but this time it bounced off and rattled against the ceiling as it started to bunch up. He changed the direction of the spoon, and the chain rushed forwards to match. He curved the spoon around him, up and down, swooping around in the air. He had a magic pen that could write living glass chains into the real world around him.
+
+Marksi quickly started chasing the creation point on the glass chain, trying to block them before more could be created, and it was a race. Brin could summon chains of glass nearly as fast as Marksi could run. The times that Marksi managed to get ahead of the chain, the Directed Threads would adjust and curl around him, and then Marksi would scramble to get ahead of them again.
+
+It was fun. It was one of the coolest things he’d ever done in this world. The programming, which had come back to him just like riding a bike, and then the incredible speed at which he could create chains of glass, just incredible. He stopped the spell and tested them out. They worked as chains, too. A bit heavier than steel would be, but that was fine. The pieces were loose in their sockets just like real chains; he’d worried that the Directed Threads would be too dumb and fuse them together, but they hadn’t.
+
+This was amazing, and… he had to blink a few times to clear his eyes. He really wanted to tell Lumina and Hogg about this. Or his Lance. Or even Davi, Zilly, and Myra. He’d show someone at school tomorrow, maybe. He’d make new friends, he was already making new friends, but that wasn’t the same.
+
+Oh, Sion. Sion was going to love this. He laughed at how much better that thought made him feel. It had been a long day, and it was late, and he was being a baby. He went to bed.
+
+The next morning, the newspaper had a hint of what had gone on at the Tower. There was an explosion, investigation underway, but it was already being reported that a [High Magus] had died. A tragedy, but likely an experiment gone awry, possibly instigated by the one who’d died. Sad, but not completely unprecedented, nothing to see here, and move along.
+
+Combining that with Lumina’s behavior, it was likely that the authorities didn’t want the roaches to scatter by flicking on the lights, so it was all hush-hush for now. He’d known it was something like this, but he still felt a guilty amount of relief at the fact that it really was a disaster in the Tower and he hadn’t somehow offended Lumina with his Class choice.
+
+On a completely different page, the help wanted, he noticed that the Tower had put out an ad for menial servants. Brin would never call himself a master detective, but he thought he was starting to connect some dots here.
+
+“Hey Tonin. How often does the Tower put out an ad like this?” asked Brin.
+
+“Never in my memory,” said Tonin.
+
+“Is there a chance that the current Tower servants are, I don’t know, unionizing?” asked Brin.
+
+“I expect anyone cleaning or errand-taking in the Tower is already engaged with the Housekeeper’s Guild. I myself am a member,” said Tonin. “And… without putting too fine a point on it, service to the Tower is seen as quite an advantageous opportunity.”
+
+Brin nodded, having expected that answer. “Would you be working there if you could?”
+
+Tonin stared silently at Brin for a full five seconds, just to drive home the fact that it was an unfair question from a current employer. “No, not at all. I like it here.”
+
+Brin snorted. “You should spare me from Bedelia and carry my books today. I have a feeling that the Tower is about to loosen their rules on bringing in your own servants.”
+
+“On one condition,” said Tonin, but the way he snapped into motion, carrying away the last of Brin’s breakfast, made it clear he was excited by the prospect. He left the room with the dishes, and returned with a leather briefcase.
+
+“Satchels are undignified,” he said.
+
+Brin shrugged. “Go for it.”
+
+Tonin moved the books from Brin’s bag to the briefcase, and then they were ready to go. It would be tough to beat yesterday, but he had a feeling he was in for an interesting day.

@@ -1,0 +1,397 @@
+Information
+
+Name: Brin isu Yambul
+
+Age: 16
+
+Race: Human
+
+Class: Scarred Mage of the Glass Furnace (Rare)
+
+Level: 49
+
+Attributes
+
+Strength: 293
+
+Dexterity: 195
+
+Vitality: 37
+
+Magic: 260
+
+Mental Control: 350
+
+Will: 172
+
+Unassigned points: 10
+
+General Skill points: 2
+
+Titles
+
+Survivor of Travin's Bog
+
+You survived the massacre at Travin’s Bog that ended your family. You have survived a fatal wound that stopped your heart. You have survived many deadly poisons.
+
++50% resistance to heat, cold and poison. Instinctual awareness of attacks that will cause you death or fatal injury.
+
+Traveler
+
+You have journeyed to a strange and foreign land where you now live.
+
++30% movement speed when out of combat
+
+You have a largely increased ability to learn languages.
+
+Otherworlder
+
+You have traversed the stars and arrived at an entirely new world.
+
++50% experience while your Class is below level 30. Strengthened immune system. Strengthened magic resistance.
+
+Scarred, but Healing (3)
+
+You have been scarred, but you’re healing. You have upgraded this title twice. Your scars are regenerative. You have undone multiple curses by triggering them against yourself and then resisting them.
+
+Healing rate increases based on upgrades and the number of fully healed scars. You have passive recovery against curses.
+
+Your wounds and curses heal 458% faster.
+
+Glassbound
+
+Like a shattered mirror, you are strong and sharp yet oddly fragile.
+
+Feel the presence and relative location of glass. Increased ability to manipulate glass. Drastically increased Mana efficiency when working with glass.
+
+Savior of Hammon’s Bog
+
+You have saved Hammon’s Bog from the dread Witch Siphani.
+
+Gain +20% power from all attributes while in Hammon’s Bog.
+
+Savior of Canibri
+
+You saved Canibri from betrayal by High Lord Prima and devastation at the hands of a goblin horde.
+
+Gain +20% power from all attributes while in Canibri. You have a heightened ability to persuade or inspire the people of Canibri.
+
+Canibri Coward
+
+After the Battle of Canibri, the people of the city began to use the term "Canibri Coward" as a badge of honor, for those who feared dishonor more than death.
+
++10% to all attributes during combat while outnumbered
+
+Master of Lasers
+
+You have discovered a new word of Language, unknown to any other human in the world.
+
+Increased power and effectiveness while using lasers.
+
+The Death Curse of the Great Witch Arnarra
+
+-83% Vitality
+
+First Son of New Edelor
+
+You are the first recognized citizen of the nation of New Edelor
+
+This is a display-only Title for verification purposes. Benefits may be awarded by [King] Metlion as the kingdom grows.
+
+Mage
+
+First Circle mage. You have been accepted as a mage in the Tower. You are an initiate of the Circle of Illusions.
+
+The power of your spells will increase in proportion to understanding of the Language and your influence with the Wyrd.
+
+Achievements
+
+Warbound (Legendary)
+
+Warfare was his birthright, he craved the clash of steel,
+
+He sang a song of bloodshed that the dead could hear and feel,
+
+The terror of the battlefield, a cursed child was found.
+
+Warbound.
+
++20% to all attributes. Additional +10% to Mental Control. +100% experience from melee combat. +100% Resistance to physical damage. Range penalties for casting light, sound, and glass magic are reduced. In battle, you can cast near allies as easily as from yourself. Battle Fury and Battle Sense skills added.
+
+Monster Hunter IV (Rare)
+
+You have defeated more than 65 monsters and have slain the Matriarch of a monster species.
+
++20% attribute growth rate for all attributes. Improved resistance to sound-based attacks. Improved travel underwater.
+
+Filial Piety (Legendary)
+
+You performed a noble act of service to your father at great risk to yourself, freeing his captive soul from those who bound him in servitude. You have freed your mother from her abominable fate. You brought word of your father’s fate to your half-siblings. You saved the life of your half-brother.
+
+Extra resistance against mental manipulation, soul manipulation, and Mana pool manipulation.
+
++100% Magic attribute growth.
+
++100% Mental Control attribute growth.
+
++100% Strength attribute growth.
+
++100% Will attribute growth
+
+Blessing of the Hidden Guardian (Rare)
+
+You have been seen and accepted by the one who lies beneath.
+
+You gain further insight into your companion’s abilities.
+
+Meditative (Rare)
+
+You have reached level 40 in the Meditation Skill
+
++20 Mental Control
+
+Athletic (Rare)
+
+You have reached level 20 in the Athleticism Skill.
+
++10 Vitality
+
+Strong VI (Epic)
+
+You have reached 273 Strength.
+
++60% speed with Strength-intensive activities. +60% Strength attribute growth.
+
+Dextrous V (Rare)
+
+You have reached 169 Dexterity.
+
++10% Dexterity (Transferred from Thief). +50% speed with Dexterity-intensive activities. +50% Dexterity attribute growth.
+
+Lively V (Rare)
+
+You have reached 169 Vitality.
+
++50% recovery from wounds. +50% stamina. +50% Vitality attribute growth.
+
+Magical V (Rare)
+
+You have reached 169 Magic.
+
++50% spell power. +50% Mana regeneration. +50% Magic attribute growth
+
+Controlled VI (Epic)
+
+You have reached 273 Mental Control.
+
++60% focus and concentration +60% Mental Control attribute growth
+
+Disciplined V (Rare)
+
+You have reached 169 Will
+
++50% spell power. +50% skill power. +50% Will attribute growth.
+
+Workhorse (Rare)
+
+You work like a horse. You earned many attribute achievements before unlocking your System.
+
++10 Vitality. +2 Strength per level, +1 Dexterity per level, +2 Vitality per level, +1 Will per level, +1 Mental Control per level
+
+Celebrated Creativity (Rare)
+
+You have authored and performed a song which has been sung by over ten thousand people. Without aid, you have created a complex invention based on a technical diagram.
+
+You wrote the hit song “They call me Kukubaru.”
+
+You can make this Achievement visible to [Inspect] as proof that you’re the original author.
+
+You can sign anything you create with messages visible to Inspect as proof that you were their creator. You can hide details about your creation from Inspect. This ability improves with Hide Status.
+
++30% to all attributes while creating, performing, or inventing. This bonus cannot be applied during combat.
+
+Dreamguard (Rare)
+
+You have defended your dreams against a powerful monster.
+
+Dramatically improved resistance against mental and soul manipulation while sleeping. You need less sleep for full restfulness. You can control your dreams.
+
+Menacing Mendacity (Epic)
+
+You have fought a duel to the bitter end in a time of great civil unrest, while flouting all laws and authorities. You have completely upended the social order of a city, causing extreme social unrest.
+
+Resistance to mental manipulation drastically increased. City Skills are less effective on you, should you choose to resist. You have an increased ability to detect when you are being affected by a City Skill. You have a heightened ability to agitate others to take unusual, chaotic, or antisocial actions.
+
+Knightly (Epic)
+
+You are a fully appointed knight in the Order of the Long Sleep. You have risked your life to protect the innocent against superior odds. You braved near certain death and fought valiantly to protect a city to which you owe no loyalty. You have brought honor to your name and your Order. You have proven yourself in a Crucible and brought glory to your Order. You have won your second war, and were instrumental in your Order’s success.
+
+You can assign your status to positively identify yourself as a member of the Order of the Long Sleep. You may claim rewards or bounties on behalf of the Order. You may defer fines, debts, or damages to the Order. The doors of the Order will open to you. +15% to all attributes while in combat.
+
+The Burial of Talra (Rare)
+
+You risked curses and traps to bring peace to the souls of those lost in Talra.
+
+You have an increased resistance to land-based curses. Fires you start will burn hotter.
+
+Terrifying (Epic)
+
+You have scared away an enemy commander more than twenty-five levels higher than you.
+
+You are terrifying, and give off an aura of menace to all who see you. [Say What’s True] is greatly empowered when inspiring fear. Your Split Minds will be more certain of their assigned identities.
+
+General Skills
+
+Know What’s Real
+
+You have the ability to understand when something you experience or remember is real, and when it is an illusion or dream. Hearing increased. Vision in darkness increased. You can now approximate the value of things.
+
+Know What’s Wyrd
+
+You can sense the Wyrd. Increased resistance to the Wyrd and Wyrd-related abilities.
+
+Monster Sense
+
+You have a moderate ability to sense monsters in the area. You can sense the difference between monsters and natural animals. You can sense the intentions of monsters through the Wyrd, even when no clash of magic is present.
+
+Wyrdic Inspect (46)
+
+Active Skill - Receive information on the target, including interactions in the Wyrd.
+
+Upgradeable.
+
+Wyrdic Hide Status (34)
+
+Your Class and other System details are hidden from Inspect and other observation skills. Note: Your information may still be vulnerable due to high level disparities and powerful inspection skills. In cases where this Skill is overcome, an additional test in the Wyrd will be necessary to reveal Class information.
+
+Upgradeable.
+
+Advanced Knightly Training (60)
+
+Increases your ability to learn the duties of a knight, including combat, armor wearing, and riding. Additional benefits towards training your body.
+
++100% [Advanced Knightly Training] Skill growth
+
++3% increase to physical attribute growth rate per level of [Advanced Knightly Training]
+
+Upgradeable.
+
+Battle Fury (Epic)
+
+Your fury in battle lends you greater power.
+
++5% increase to the effects of your Strength, Dexterity, and Vitality with each wound you take and with each wound you give. +50% increase with each enemy you slay.
+
+These increases are capped at +120%
+
+These increases expire thirty minutes after you leave combat.
+
+Battle Sense
+
+You have an innate sense about the position of your allies and enemies in conflict. You have an innate sense of how to direct your allies to greatest effectiveness during conflict.
+
+Meditation (46)
+
+You can meditate. At higher levels, this will aid your ability to calm your mind and focus.
+
+Recovery (18)
+
+With the exception of permanent injuries, you have the ability to return to a normal state of health, mind, and energy.
+
+Poison Resistance (15)
+
+Your body has an increased ability to fight poison, toxins, venom, and impurities.
+
+Class Skills
+
+Amplified Casting
+
+The maintenance cost of Light and Sound magic is reduced by 40%. The concentration required to maintain all magic is reduced by 98%. You can now imbue illusions with purpose in the Wyrd, allowing them to absorb ambient light to empower themselves and convert excess to Mana.
+
+Say What’s True
+
+You have the ability to channel the Wyrd to adjust a victim’s belief in your illusions.
+
+Mirrored Duplicity
+
+You can target yourself with any Skill, overcoming all defences and resistances.
+
+Multithreading
+
+Unique Skill. You can break mental processes into multiple threads in order to run them concurrently. You can make special directed threads with high focus at a much reduced mental cost. This Skill scales with Mental Control.
+
+Shape Glass (50)
+
+You have the ability to transform glass. This Skill grows with your understanding and experience working with glass. You can manipulate enchanted glass as easily as mundane glass.
+
+This Skill has been upgraded three times.
+
+Summon Glass (33)
+
+You can use your magic to call glass into being. You can summon molten glass. This Skill grows with your understanding and experience working with glass.
+
+Heat Resistance
+
+You have greatly increased resistance to heat and burns.
+
+Memories in Glass
+
+You can perfectly recall anything you’ve seen or learned about glass.
+
+In addition, this Skill allows you to store your memories in glass, to be retrieved and reviewed at your convenience. Stored memories do not need to involve glass.
+
+Summon Light through Glass (63)
+
+Summon illusory light through glass. You have increased power with lasers. Your range for light projection is doubled.
+
+This Skill has been upgraded twice.
+
+Summon Sound through Glass (44)
+
+Summon illusory sound through glass.
+
+Mana Well
+
++50% to the amount of Mana you generate and hold.
+
+Glass Foci
+
+Increase the power of all light or fire-based spells when cast with a glass focus. Effects of [Amplified Casting] can now apply to glass you've enchanted.
+
+Glass Scarring
+
+Increased ability to stop bleeding and hold your body together with glass. You have an increased adaptability to pieces of glass being lodged inside your body.
+
+Summon Flame through Glass (0)
+
+Summon elemental fire through glass.
+
+Transmute to Glass (0)
+
+Through the application of heat and light, you may transmute an element to glass.
+
+Faction Skills
+
+Awaken the Sleeping Ones
+
+Primary Cooldown Skill of the Order of the Long Sleep. You may call upon those who sleep to aid you in battle. May only be used by the Order once per month.
+
+Commendations
+
+Commendation of Valor
+
+You are more intimidating. You move quicker while delivering the first strike in combat.
+
+Commendation of Readiness
+
+You have an increased ability to sense danger. Your armor grows stronger, scaling with Vitality.
+
+Oaths
+
+Oath of the Quest Survivor
+
+You have sworn never to speak of how you became the beneficiary of a Quest.
+
+Oath of Limited Fealty
+
+You have sworn to never swear fealty to anyone except king Metlion while he lives unless your duty to your family or the Order of the Long Sleep requires it.

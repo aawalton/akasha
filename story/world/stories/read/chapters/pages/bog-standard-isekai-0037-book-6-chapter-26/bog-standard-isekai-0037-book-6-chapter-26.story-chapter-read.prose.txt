@@ -1,0 +1,145 @@
+The next morning, Brin dug out his morphic shield, and gave it to Tonin to carry with the rest of his books. Officially, he probably should've returned the shield to the Order of the Long Sleep when he went on "extended leave". Unofficially, the Order of the Broken Stone had gifted the shield to Brin's Order as an apology for how they'd treated him in Dustrim. No one had asked him to return it, and he hadn't offered.
+
+He started his day with his class on the language of ancient Nhamanshal. Again, it was disappointingly verbal, especially when he considered that it was a dead language and that he'd only experienced it in writing, but he couldn't complain too much. This was something he actually wanted to learn for himself, not just to move up in the Tower, and with his [Traveler] Title, having a teacher at all made absorbing it a breeze. He sat with Sancha and one of her friends again, and Sancha spoke the ancient language with such ease that he thought she might only be there for him.
+
+Next was calligraphy, and Brin was pleased when Ares, the [Mage of Sparks] took a seat next to him, though Sancha got the other one again. This class did have desks, so he proved that they did in fact have that technology. This class was near terminally boring, but also annoyingly difficult. They'd practice drawing letters one at a time, taking a full three minutes for each one. Brin couldn't seem to make the curves swoop in just the right way as everyone else, and at the same time couldn't keep his mind from drifting to one of the many, many more interesting things happening in this Tower. He eventually found a balance by splitting his mind enough times to squeeze out all the distracting thoughts.
+
+Then, the Class he'd been looking forward to the most--enchanting. Only, this one seemed to just be calligraphy by a different name. Again, they entered a room with two rows of desks, bent forward until they were half-way to an artist's easel, and again they were given designs to copy. But at least the teacher filled the air with a lecture as they drew.
+
+Baltezar was short, the kind of short that made Brin think "magical accident" or maybe "non-human ancestry", though of course people this short existed in his old world, too. Baltezar the [Enchanter] stood three and a half feet tall, sported a long blonde mustache, and wore robes that were so baggy they trailed along behind him as he walked. The students were impressively unbothered by his size and appearance, though that was just from manners being drilled into their heads for years. He knew this crowd, and they'd all be laughing about Baltezar the moment he was out of earshot. For now, though, they treated him with the same deference they gave to all the other teachers.
+
+He drew a circular symbol on the board with chalk, somehow getting the thickening swoop just right, something Brin couldn't seem to do even with a paintbrush. "This is <Het>. Copy it down. Go on, start. I'll have you each keep trying until you get it right. If you get it right on the first time, I'll have you keep repeating it, for practice. This is one of the words you'll need to get used to; you'll use it all the time. The closest translation into Frenarian is 'to', though you'll need to stop thinking of the Language in terms of translating it into Frenarian. You'll need to break yourself of the idea that a string of words is a 'string' at all. Where Frenarian is written left to right, the Language has no such limitation."
+
+Baltezar drew several other words on the top, bottom, left and right of <Het>, demonstrating how the different positions altered the meaning. Then when he had a complex drawing that Brin could no longer really wrap his head around, Baltezar announced that it was "practically baby-speak" and started adding verb conjugations and definite articles.
+
+"Lord Mistaken, why are you looking up here? Pay attention to your work!" Baltezar called out, still facing the boards and drawing with his chalk.
+
+Bia snickered at him, and Brin focused his eyes back on his own drawing. "It's not like you're doing any better!" he whispered, though he knew that wasn't true.
+
+She'd followed him from his last class along with her friend Rafael, and they'd taken up spots on either side of him today, edging out Sancha for once. Not that he minded that, but he wished she were here for a class he was actually good at. Bia's drawing had been pristinely geometrical the first time, and while Brin thought he was improving, he still didn't think he'd drawn a <Het> that would pass muster.
+
+Why did a [Scout] need Enchanting anyway? Was it his [Mage] narcissism talking, or was she perhaps also here just for him? If her job was to get a good understanding of his knowledge and magical ability, there was no better class to shadow him in than this one. He laughed at himself internally. No, not everything in the world was about him.
+
+"What kind of enchantments will you be able to do?" he asked in Silent Voice.
+
+Bia answered, projecting her voice to only him. "Hm, I wonder. Nothing as nice as what you'll be able to make with light and sound. I'm actually a little jealous. Did you notice that the drawing on the board is an [Illusionist] enchantment?"
+
+He hadn't noticed that. But Baltezar explained not long after. "This diagram is, of course, missing a power source, and while chalk is a nice Mana conductor, chalk enchantments rapidly break down. Even so, I can activate it with my own Mana, and it will last long enough for a demonstration.
+
+He pressed his hand to the diagram, and it began to glow a solid, even white light.
+
+"It's a basic lamp," Baltezar explained. He tapped it twice, and it turned off. He tapped it twice again, and the light returned. He held it for about ten seconds before the chalk diagram started to change. Cracks appeared, and then the lines split, breaking apart as if he were watching a building fall down rather than a drawing on a board. Baltezar removed the remnants with an eraser.
+
+It hadn't lasted long, but Brin still found himself dumbfounded by the display. Chamylla had told him that as an [Enchantress] she could use any kind of magic that she could describe with the Language. But now that he knew that they could enchant with chalk and use their own Mana to activate it... An [Enchanter] was an everything [Mage]. His spells would be slower than a regular [Mage], but the fact that there were no element limitations made him completely unfair. So what was the catch?
+
+Brin was surprised to see that Baltezar kept his Class and level wide open to [Inspect].
+
+Name: Baltezar Telemenos
+
+Age: 61
+
+Class: Enchanter
+
+Race: Human
+
+Level: 65
+
+Skills: [Enchant] - Baltezar can imbue objects with magical utility. This skill has been upgraded 8 times.
+
+[Enchanter's Insight] - Baltezar can sense the power, durability, and resonances of materials. Living creatures now count as materials. This skill has been upgraded twice.
+
+[Speed Enchanting] - Dramatically reduce time and material cost of enchantments.
+
+[Self-Enchanting] - Baltezar can enchant his own body and draw energy from materials.
+
+Brin couldn't help but think that maybe the reason Baltezar left so many details open to [Inspect] was so that he could keep the "Race" option there. That way, everyone could see that he was fully human so they wouldn't ask him awkward questions.
+
+“Master Valentin, the king's [Illusionist], could do the enchantment I just did with a single word. <Light>. His understanding of the element is such that he can imbue light enchantments with any variety of meanings, using only the single word. I expect I could also write out many of my enchantments with a single word, and save myself a lot of scribbling! Can anyone tell me why we don't do that?"
+
+Baltezar called on a boy in the second row, who said, "For standardization, sir."
+
+"Excellent. Take two Chaos points," said Baltezar.
+
+Brin winced. He'd missed out on two Chaos points. He probably could've gotten to that answer if he'd had a second to think. He'd already noticed this with the [Illusionist] spells that had been programmed into his Lightmind. They were written out as if they assumed that the user had no knowledge of the individual words and had to rely on their surface meaning alone. He'd found that he could shorten the spells dramatically by combining and eliminating words for his spells. It had helped his casting speed back when he'd needed to have a directed thread read it out from his memories, but that had ceased to be useful after he started casting them all through his Lightmind.
+
+"The Master of Magic insists on standardization in enchanting. The core philosophy of the Tower is the idea that magic should be shared. There are some of you in this room who align with those who believe that magic instead must be earned. To that, I can only say that other institutions of magic have been tried, institutions where more effort is spent to hide knowledge rather than to share it, and they've all failed while the Tower grows ever higher. Perhaps the Tower's philosophy will change, but not today. Today, the Tower is ruled by the Master of Magic, not Duke Cobol or anyone else. So. You will not hoard your knowledge by creating enchantments that can only be cast by you because of your unique understanding of the Language. If magic is to advance, and it will advance and it is advancing, then your results must be reproducible."
+
+Brin glanced at Bia. "Wow. What a devastating takedown."
+
+She rolled her eyes. "Duke Cobol doesn't want to--"
+
+"You're so devastated right now."
+
+"Whatever."
+
+Brin's attempts at drawing <Het> were getting better, but not fast enough. He'd get good at calligraphy eventually, but he didn't want his short-term inadequacy to let him fall behind in enchanting. He needed a better method.
+
+He scrolled through the Menu in his Lightmind, looking for ideas, and then remembered the minimap spell. It let him put an Invisible Eye up in the sky and then show him a real-time map at the edge of his vision. Or, it could go straight over his entire field of vision. He needed something like that now.
+
+After a quick search, he saw that the spell he wanted already existed, Capture Image. He could simply take a picture, and then let the Lightmind display it for him, the way you could with a digital camera when you were deciding if you wanted to keep it or not. It even had a way to adjust opacity.
+
+Brin took a picture of <Het> and then made it nearly transparent and held it over his own paper. From there, he just traced it.
+
+Even Bia noticed the improvement. "How did you do that?"
+
+"Practice makes perfect."
+
+Baltezar closed his class by asking them each to bring their best <Het> to him for inspection, and Brin kept up his record of getting perfect marks in every class so far.
+
+Baltezar said, "We'll repeat this with a new word next class. I know what you're all thinking. Enchanting is not drawing. And you're right, it's not. The familiarization with the written form of Language is important, but it's not quite the same. Enchanting is harder. If you can't do this, say good-bye to your chances of ever writing out a real spell form."
+
+He ate lunch with Bia and her friends, which meant that Sallvador was there again. For half a minute, Brin got to feel really cool because he knew that they were both part of the same secret society, but Sallvador wouldn't know that yet. Until Sallvador caught his eye and gave him a knowing nod, and Brin realized that Sallvador had probably known Brin was an [Illusionist] even before he came to the Tower.
+
+They mostly spent the lunch complaining about Baltezar, which Brin didn't really mind. Apparently, Rafael's older brother had told him several stories about how over-the-top strict the man could be, and Rafael now agreed that all his brother's claims were accurate.
+
+"Some of you in this room think that magic must be earned!" mimicked Rafael. "I say. I do say. Egads, man. I wot not whence such a notion hath sprung, save from the high gods, the System, and every other curious sight upon this mortal earth."
+
+Bia snorted. "Seriously! Some of you. Bia. Think that magic must be earned, Bia. I swear he was looking right at me when he said that. Um. Hello? What magic do you think I earned? I'm a [Scout]. I'm not on the Life track, I'm on the wife track."
+
+Rafael visibly grimaced at her, but Brin laughed and Sallvador choked on his wine before joining in.
+
+"What did we tell you about inside thoughts?" asked Sallvador.
+
+"My thousandest apologies, good sirs, for such improper elocutionings," said Bia.
+
+"Oh, desist with this knavery, if it pleaseth thee," said Rafael.
+
+"Her family doesn't speak High Frenarian at home," Sallvador explained to Brin.
+
+"Oh, mine either," said Brin.
+
+"Shocker," said Bia.
+
+"’Tis his overweening pride that doth vex me most of all," said Rafael, moving the conversation back to Baltezar.
+
+"His arrogance is earned. Did you check his Class? He left it all wide open," said Brin.
+
+Bia shrugged. "An [Enchanter]."
+
+"An [Enchanter] who can use people as materials. I picture him slapping the back of your hand, only that was an enchantment sticker and now you're a missile aimed at all your friends," said Brin.
+
+"What a ghastly thought," said Rafael.
+
+Bia said, "He's powerful. But he got that way by sucking up to the Master of Magic for fifty years, which is the only way anyone gets powerful in the Tower. And for the record, Duke Cobol doesn't want to stop the Tower from teaching magic to commoners. He just wants us all to admit that we're living in the real world."
+
+Brin shrugged. "I don't think Cobol and Chaos are as antagonistic as everyone seems to think. He sticks up for Cobol at every opportunity."
+
+"So you have met him," said Bia, eyes narrowing in interest. "What's he like?"
+
+"He called me an unruly Arcaenean foundling," said Brin.
+
+Sallvador bumped the table, trying to jump to his feet but prevented by the heavy chair. He rested back down and said, "What?"
+
+"Oh, sorry. I just assumed you guys already knew everything about me," said Brin.
+
+Bia spoke coolly, eyes appraising. "They say he's the son of a noblewoman who rebelled against Arcaena."
+
+"I don't like to talk about my birth mother," said Brin.
+
+Rafael laughed. "Truly thou hast said that thou spakest not High Frenarian in the home. Thy native tongue is more alien by far!"
+
+Brin couldn't linger much longer. He had to rush over to the Circle of Flame to attend that lesson that he'd set up. The older student taught him and around fifteen other students how to make a shaky, flickering version of Cool Flame. Brin had to beg off after only an hour, so they set up a weekly meeting so that they could refine the spell, practice it under supervision, and learn a few of the minor variants.
+
+[Summon Flame] leveled up! 5 -> 6
+
+It was an impressively rewarding way to spend an hour, but Brin's mind was already on what came next. It was time for his duel with Vitor.

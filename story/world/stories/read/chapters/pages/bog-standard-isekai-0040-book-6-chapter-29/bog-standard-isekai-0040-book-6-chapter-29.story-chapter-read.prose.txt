@@ -1,0 +1,181 @@
+Brin followed the address Sion gave him and found out that the headquarters of the Cult of Tenerer in Steamshield was just some guy’s house. He supposed he should’ve expected that. There were a lot of godlings, and if all of them had thematically appropriate headquarters, the city would be jam-packed with spooky caves, underground lairs, and haunted mansions up on hilltops.
+
+He used a spell-paper to destroy his scent, and traveled on foot under invisibility, not wanting anyone who could be following tracking him to know about his membership in a cult. Cobol's people already knew too much. After arriving close to the house, he chose a spot in an alley a couple blocks away without any foot traffic to wait. His first task was to assign a fifth of his mind to surveillance. That mind would manage a fleet of Invisible Eyes to watch the house, but also to fly around and look for anyone who had still managed to follow him, and hopefully collide with any other Invisible Eyes in the area. If he found either, he'd abort.
+
+He thought about just doing a cold approach and explaining who he was, but decided to watch and wait a bit longer. He wanted to give his eyes a bit more time to scout the area, and he also wanted to do this right; he'd only get one chance at a first impression.
+
+Also, he’d been inducted into the cult by Tenerer himself, without the need of any kind of need for System Oaths. If he learned their secret passwords or handshakes first, he might be able to integrate himself without letting anyone know he hadn’t joined in the usual way. That was a stretch, but it was worth an hour or two of his time to see if it was possible.
+
+The house itself was warded against illusions, but he could put an eye outside the place and look through the windows. It was bigger than he’d thought at first glance; a three-story town home, walls shared with the neighbors, but the house went pretty far back. The owner was Timateo Coster, a level 40 [Arcanist], which was a good sign. He was wealthy enough to have a footman and a cook on staff, and he had a wife and two daughters. His nine-year old, Visa, was currently playing with her friends in the street. He kept an eye on her just in case she mentioned her dad. She didn’t.
+
+Brin could probably make something happen, and honestly why hesitate? He altered his voice to hopefully sound like one of her friends, and then when none of them were looking at each other, projected the voice from an Invisible Eye, “What’s your dad like?”
+
+Maybe adults would’ve been thrown by out-of-the-blue question like that, but children as a rule didn’t have that filter.
+
+Visa said, “My dad is obsessed with his cult. Last night we didn’t even go to the [Illusionist] movie because he was too busy.”
+
+A friend said, “Oh, I’ve never been to one of those! What are they like?”
+
+Visa pressed on. “And then the day before that, he didn’t even eat dinner with us.”
+
+“My family never eats dinner together. I just grab something from the cupboard or ask my mom for money.”
+
+“You guys don’t get it.”
+
+Brin wasn’t sure what he was supposed to be getting from this, but it was kind of funny. At least he’d determined that Timateo really was in a cult.
+
+Since nothing was happening right away, Brin decided to work on the other thing he’d had planned for today–his new Skill, [Transmute to Glass].
+
+When he’d first gotten [Glasser], he hadn’t had any way to sense his Skills or even tell if they were working, and he took a moment to appreciate how far he’d come in the meantime. His Skill in the Wyrd and his practice with all his other Skills allowed him now to get a good feel for the shape and power of his new Skill. He could tell he couldn’t use it now, not on anything in range of his magic.
+
+It was too much to hope that the Skill would provide the heat and light; he’d need to prepare the element he wanted to transmute before it would work.
+
+He put a bubble of invisibility around him, expanding it outside of just covering his body. It cost more Mana that way, but nothing that would make a dent in his reserves.
+
+Then he bent down and called on his magic. “<Hotter than flame, brighter than the sun. Laser>”
+
+He aimed it at a patch of dirt on the ground. Dirt was a good starting point, because it would have a variety of elements inside, organic matter, pieces of stone, and flakes of whatever trash was blowing around. He could see what worked better or worse all at once.
+
+Later, he’d experiment with his Flame element as well, and try to determine which mixture of light and heat worked best with the lowest Mana cost, but for now a laser provided heat and light so it was perfectly tailored for this. The laser hit the ground which began to glow. Little sparkles shone bright all at once, and the dirt darkened and smoked before starting to warm up to a red.
+
+He noticed that his Mana was draining much, much faster than it should be. A quick check-in with the mind that was holding his invisibility in place determined that was the cause. Invisibility would cost a lot more if you were trying to cover something that was emitting a really bright light. Like he was right now.
+
+He canceled the laser and then used some mundane glass that he’d been carrying around and molded it into a cylinder. Then he darkened its color until it was black and placed it on the ground around the spot he’d been burning. He shot the laser again, this time the beam was surrounded by the cylinder, and it didn’t bother his invisibility at all.
+
+He didn’t use his most powerful laser, deciding instead to warm it up slowly. After a thirty-second stream, he finally sensed an opportunity. He cast [Transmute to Glass] for the first time. There was a hefty drain in his Mana, but all at once he could sense it–there was a new piece of glass down there.
+
+He pulled up the cylinder and picked the new glass up with his magic. It was a tiny speck of fairly awful quality glass, as ugly as his first attempt to use [Shape Glass] way back with Ademir. He smiled regardless. This was just the beginning.
+
+[Transmute to Glass] leveled up! 0 -> 1
+
+He tried again, putting the cylinder back down and hitting the same spot again. He only waited for five seconds this time before getting another hit. He [Transmuted] a second grain of ugly glass sand. Dirt to glass, and the dirt was probably higher quality. He found himself giggling a bit. Another success.
+
+[Transmute to Glass] leveled up! 1 -> 2
+
+He took off his glove and dropped the little piece of glass into his hand. It was still hot.
+
+He tried again, and this time it only took two and a half seconds to get another grain of sand. The jump from 0 to 1 had been enormous, and the jump from 1 to 2 had doubled his efficiency again after that. He forgot how ludicrous these early levels were.
+
+The next time he tried, he didn’t fire off [Transmute to Glass] the second that he sensed that he would be able to. Instead, he burned the spot in the ground for a whole thirty seconds again, growing the amount of material that he’d be able to transmute.
+
+[Transmute to Glass] leveled up! 2 -> 3
+
+This time, he got a bead-sized piece of glass. It was still ugly, but now in a different way. Some of it was foggy rather than just black, and when he pressed slightly it crumbled into different pieces. He bet the issue was the material, he was working with dirt, which was impure and uneven. He bet if he transmuted silica sand this way, he’d get a pretty reasonable quality glass.
+
+Alright, now it was time to put his back into it. He shot a much more powerful laser and held it until a quarter of his Mana pool was drained. Leveling this Skill would probably be pretty hard if he’d gotten it at level 1, but since he had a gigantic Mana pool, he could power-level himself to some degree.
+
+This time, he produced a fist-sized piece of glass. Not content to just let it appear however it liked, he used [Shape Glass] to heat it up further, refining it and letting that heat help to transmute the dirt around it.
+
+[Transmute to Glass] leveled up! 3 -> 8
+
+He’d created a lot of smoke, but no one seemed to be looking in his direction. He bent down and picked up the ball of glass he’d created, then dropped it again. It was really hot, and even with his resistances it wasn’t totally safe to touch molten glass. He let it cool for a minute, then picked it up with his glove back on.
+
+He tossed it up and down, trying to decide if he wanted to keep this as a memento. It wasn’t good glass. It was his first transmuted glass, but his summoned glass was better, and the glass he created in his workshop was better still. Once he could learn the trick of letting his transmuted glass keep the properties of the original element, and once that element wasn’t dirt, this Skill would really be worth something. Until then, it was a worse version of what he already had.
+
+He tossed the ball at the wall, shattering it like a snowball. It was satisfying, and a good use of the ball. He’d keep a memento once he’d made something truly worth keeping.
+
+He spent the next hour on more purposeful practice, trying it on a patch of silt he saw near a drain, on a bit of newspaper, on another piece of glass. He kept his practice on things with a consistent make-up, trying to see if he could feel the difference between alternate elements. The glass didn’t work at all, he found.
+
+While he practiced, a man approached the house, a level 18 [Driller] named Ruy. He knocked on the door, and was greeted by Timateo.
+
+“Ruy, good to see you, my man. I thought you didn’t get weekends free?”
+
+“I don’t. The new gears aren’t threading, so they sent us all home while they find someone to figure it out. I was hoping to have some time at the Cantoby.”
+
+Gerin had mentioned ‘Cantobies.’ To him, it had been a catch-all term for any device from ancient Nhamanshal that didn’t work anymore. These two seemed to be using it for something else.
+
+Timateo clapped Ruy on the back and led him inside. “That’s great! And while you’re at it, I can show you the new shipment. The Prinnashians are selling everything off wholesale, faster than I can snap it up. I have to keep the bulk of it at the warehouse, but I brought home a pristine third-era conveyor, and bits of it still work!”
+
+The second he closed the door behind him, the sound of their conversation muted out. It was a neat trick, too, because it only silenced their voices, which would make any casual snoops think there was nothing to hear. Brin could still hear them walk through the house and up the stairs, but the top floor was warded completely and that’s where it ended completely.
+
+During the brief moment he could hear them, they didn’t exchange a password or handshake, not unless it was too subtle for Brin to notice. He thought there was a simpler explanation: these two knew each other and didn’t feel the need to use the cult’s secret handshake every time they met. Was that careless or not? Ruy could totally be an [Illusionist] in disguise, but at the same time if they had exchanged passwords that would’ve been the weakness that got Brin inside.
+
+He waited for another half hour until Ruy left, until the levels from [Transmute to Glass] stopped coming.
+
+[Transmute to Glass] leveled up! 8 -> 11
+
+He had more ideas, but he’d rather do the rest in his workshop. For now, he figured it was about time to make his move. He'd given his eyes plenty of time. If someone really had followed him, he wasn't going to find them.
+
+Waiting for someone else to arrive to try to glean their passwords would take too long. He'd need to keep Invisible Eyes on the house until Timateo greeted someone he didn’t know, another cultist from out of town, and pick up any secret greeting they had then. That could take weeks or months.
+
+Brin sighed, dusted himself off, and walked to Timateo’s house.
+
+He knocked on the door, and Timateo’s daughter Visa opened it. She took one look at Brin and yelled, “Dad! There’s someone here about the cult.”
+
+“What? How did you know?” Brin asked.
+
+The look she cast at him contained an admirable amount of sarcasm for one so young, and then she rolled her eyes and walked away.
+
+Timateo stepped up and stopped, staring at Brin in surprise. “Well! That’s something you don’t see every day!”
+
+He wondered what part of his status Timateo was reacting to. Brin had his glass powers as well as his [Mage] and [First Son of New Edelor] Titles on full display, but kept his Wyrd and Illusions locked down tight.
+
+“Mr. Coster, greetings. I’m–”
+
+“Call me Tim, my lord.”
+
+“Then feel free to call me by name as well.”
+
+“No, my lord, I simply couldn’t. I’d as easily fly like a raven,” said Tim.
+
+Brin wondered if ‘raven’ was a keyword that he should have a answer to. “Sorry, I don’t know what the response to that is.”
+
+Tim raised his eyebrows. “Really? Because… well, nevermind. If you’re not here to…” He cleared his throat. “What can I do for you, my lord?”
+
+Brin looked around, and didn’t see anyone watching, but that didn’t guard against Invisible Eyes. He made a bubble of silence around them–or tried to. The magic hit the doorway and then broke apart against an enchantment.
+
+“Would it be too much a bother to ask to speak inside?”
+
+“Not at all!” said Tim, though Brin thought he was beginning to sweat.
+
+He stepped back and swept his hand around to let Brin inside. He flicked his eyes at Visa, who suddenly straightened her back and walked away, probably trying to look casual. Tim’s wife, a level 50 [Mage of Meadows] was visible down the hall in the kitchen. She was watching intensely, her hands hidden underneath the counter. Brin made sure not to make any sudden movements.
+
+Brin waited until Tim closed the door behind him. “Thank you. I am here about the cult. Sorry if I came across as brusque, I just have a lot of eyes on me lately and I didn’t want to state my business out in the open."
+
+Tim visibly relaxed, and he waved to his wife, who nodded. “Oh, that’s quite alright. I knew that must be it.”
+
+“It’s also that I didn’t really enter the cult in the usual way. Do you by any chance know Gerin Baines?” asked Brin.
+
+“By correspondence only,” said Tim.
+
+“He’s my half-brother. I went searching for him in Arcaena; he’d found an old, abandoned shrine to Tenerer, deep underground. The long and short of it is that I saved his life, and Tenerer granted me immediate membership in his cult as a reward. Oh, and I have this ring." Brin showed Tim the ring Gerin had given him, the one with the L-shaped symbol for Tenerer.
+
+"That certainly identifies you as a member of the Cult," Tim said, looking confused again.
+
+"But I still don’t know any of the rules or anything. Tenerer told me to seek out a Master of the Cult.”
+
+“Then you’ve come to the right place! Tell you what. I have a quick way to verify everything you’ve said, and if all is in order, I can tell you the next steps from there.” Tim searched Brin’s eyes carefully as he spoke.
+
+“That sounds perfect.”
+
+Tim nodded, five times. Was that significant, or was he still nervous? “Alright then.”
+
+[Terrifying] probably wasn’t doing him any favors here. He hadn’t seen a huge reaction from that so far, but that might be because all the people he’d talked to were his own servants, friends and family, and nobles in the Tower who’d all doubtlessly been trained on how to speak to someone who frightened them without losing composure.
+
+Tim led Brin down the hall and then up two flights of stairs. They came to a wall with double doors, set so tight together that they were nearly seamless. Across them both was a message.
+
+In Frenaria, in obeisance to all laws and with respect to all G*DS, a shrine to Tenerer.
+
+It wasn’t the trend to censor the word “gods” any more, and Brin couldn’t decide if it bothered him or not. He liked the reverence, but he didn’t like the implication that gods were something that needed to be censored.
+
+Tim didn’t pause before opening the doors. In a way, it looked exactly like the last shrine to Tenerer that he’d seen. A pitch black cube stood in the center of the room, on a bed of white tile, and the rest of the room was covered with shelves and books. There were also new things, too. The scent of new leather and paper rather than the scent of ancient and forgotten things. There were writing desks and materials, and paintings on the walls. Several depictions of undead, and paintings of three men. [Emperor] Iustus I, Aharad the [Law of Magic], and of course, Tenerer. Brin had never seen a painting of the godling who’d done so much for him. He was a scholarly looking man, in robes, and carrying a book nearly as long as his arm.
+
+“We get away with it because it’s not a graven image of Tenerer the godling, you see? It’s a painting of Tenerer, the man, a historical figure. Anyway, if you wouldn’t mind putting your hands on the shrine,” said Tim.
+
+The System message from Tenerer had said “Don’t pray to me, and don’t bow down to graven images of me.” It hadn’t even occurred to Brin to include paintings in that.
+
+Brin pulled off his gloves, and saw Tim frown at the scars out of the corner of his eyes. When he looked over, Tim was smiling.
+
+“When ready, my lord.”
+
+The shrine could only be the black cube, so Brin placed both hands atop it. A System message appeared.
+
+Name: Brin isu Yambul.
+
+Status: In good standing.
+
+Matters to Settle: He shall be inducted into the precepts of an Apprentice. He shall be inducted into the precepts of a Fellow.
+
+Information Access Level: Meritorious contributor.
+
+Welcome, my student. Timateo Coster is surely a Master of my Cult. If you would learn my mysteries, seek his counsel and follow it.

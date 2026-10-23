@@ -1,0 +1,199 @@
+“That can’t be true,” said Brin. “If that’s true, then why? Why did Nhamanshal fall? Why are we still living in the dark ages?”
+
+“Excellent questions,” said Tim. “Perhaps the answers to those questions will be the precursor to your enrollment in the Fellow ceremony.”
+
+Brin frowned. “That’s mean.”
+
+Tim gave a helpless shrug. “Is it really? You’re asking me to summarize more than a thousand years of history here. To answer why Nhamanshal fell, I’d have to ask you when it fell, or if it really fell at all. Did it fall when Iustus I ascended, together with his two great pillars? If so, what are we to make of Iustus the Second and Third?"
+
+"Wasn't there some big calamity that destroyed all the cities, but left the underground alone, which is why people started calling Nhamanshal the Burrow Kingdom?" asked Brin.
+
+"You speak of Daepoly Catastrophy. That may be colloquially understood to be the fall of Nhamanshal, but did you know that Iustus III rebuilt and ruled for another eighty years? And that's just the beginning. Many call Nhamanshal the precursor empire to Ithmall, but which was the real Ithmall? The empire that ruled from north of Olland to south of Pollissia, or the small city-state a quarter the size of modern Frenaria?”
+
+Brin folded his arms. “You have to know what I’m asking.”
+
+“Tenerer knew that his absence would cause disruptions in the world. He made efforts to mitigate them, including instructions on how to continue his technology after he was gone. And in fact, the technology of Nhamanshal was maintained, for a while. The Great Blue Line was maintained all the way until the days of Old Edelor, but eventually even that was lost, like everything else. All of it fell away, sometimes gradually, sometimes abruptly, but inevitably until all that was left… was us.”
+
+Brin wished he could press the point, but he didn’t have enough of a foundation in this world’s history to have an opinion on whether or not what Tim was saying was plausible. In fact, the only real reason he had any reason to deny it was because Gerin had said otherwise. “Gerin told me the reason Nhamanshal fell was because Tenerer’s Skills were required to make his technology function.”
+
+“And that’s true, to a point. Let me show you what I mean,” said Tim. He pulled Brin’s attention to a worktable to the side, where several ancient artifacts of sheer black stone had been laid carefully out on a tray.
+
+The assembled cultists all gathered around behind him, apparently just as interested as he in the demonstration Tim had in mind, even though they had to have all seen this before.
+
+Brin recognized one of the objects on the tray, a black cube. “That one. Gerin had one of those. It had a menu with several different options, but only the ‘Recharge’ function still worked. Or at least that’s what he said… I guess I didn’t check the other options.”
+
+“Yes, technically he shouldn’t have told you that any of it still works, but our customary Oaths have exceptions for desperate circumstances,” said Tim. “This is a Regulator.”
+
+“I remember some of the options,” said Brin. Of course, he remembered all of the options with [Memories in Glass]. The biggest weakness of that Skill was that he hadn’t gotten around to creating a very good indexing system, but the fight against Zaff was one of his greatest hits and he knew exactly where it was stored in his glass rings’ memories. “One of them was called ‘Language Repair’ and I’ve always been curious about it.”
+
+Tim’s eyes lit up. “Yes, and it does exactly what it sounds like.”
+
+“Um…” Brin looked to his left and right to the men standing around him, but none of them were of any help.
+
+Tim seemed a bit disappointed that Brin didn’t get it right away. “You’ve been at the Tower for how long now?”
+
+“A week,” said Brin.
+
+“Oh! I’m sorry. I shouldn’t have assumed. Well, then, what’s the number one cause of enchantment degradation?” asked Tim.
+
+“In my experience, dragons,” said Brin. Embarrassingly, he hadn't even known enchantments could degrade, except for when Marksi took a nibble out of them. He hadn’t done that in a while, though, not since Brin could supply all the tasty illusion magic he could eat.
+
+That finally got a stir from the assembled cultists.
+
+“What?”
+
+“Dragons?”
+
+“As much as I’d love to examine that assertion, let’s stay on topic, shall we? The answer that I was, ah, expecting, was the degradation of Language. When an enchantment is utilized by someone who doesn’t fully understand the lingual concepts utilized by the enchantment itself, that dichotomy creates a small amount of decay,” said Tim.
+
+“But if I do understand the enchantment, it’ll last longer for me?” asked Brin.
+
+“If you understood the enchantment as well as the [Enchanter] himself, then yes, it would work indefinitely. But the magic you understand best is the magic you can already cast, without any need of an expensive enchantment. In general, we expect all enchantments to degrade.”
+
+“And that’s where this Regulator comes in,” said Brin.
+
+“Exactly. Repairing degraded enchantments is actually the Cult’s best revenue stream,” said Tim.
+
+“How does it work?”
+
+“The specifics will take years to teach, but in broad strokes, the machine used Tenerer’s own knowledge of the Language to repair any enchantment. And then, after he ascended, it used the knowledge of the Language of a different great [Arcanist] who’d followed his prescribed Class evolution path. There were six of those, and then ten of their students. But since they all killed each other a thousand years ago, we haven’t got any of those particular few. Presently, the device will rely on the user’s knowledge of the Language,” said Tim.
+
+“Yours,” said Brin.
+
+As a high-level [Arcanist], it wouldn’t be strange if his knowledge of the Language surpassed even Lumina’s.
+
+“Or yours. Or any of ours,” said Tim.
+
+Brin thought he was starting to get it. Back during Tenerer’s day, you could buy a black cube at a corner store that could repair any enchantment, whether you understood what it did or not. Now, the same device would repair any enchantment that the user fully understood. The gap left between those two was theoretically surmountable, but it would be like if one day everyone stopped being able to use smartphones unless they actually understood how computers worked.
+
+“The other problem is power,” said Tim.
+
+Next, he walked Brin through the long and complicated process of powering the device. It wasn’t as simple as letting it drink from the deep well that was his Mana. Nhamanshal had been a complex and advanced society, so the kind of batteries that they used simply weren’t produced any more. And it wasn’t even as simple as plugging in the batteries. Each device was conceptually and magically linked to several other devices in a network. A [Regulator] didn’t exist independently, it was a part of a [Regulation Specialist’s] toolkit, and was built to exist in a house or a workshop or something, synchronizing alongside all his other tools.
+
+Tim linked seven different artifacts together, and powered it with a handful of [Agent Crystals], created specially by [Alchemists] and worth several silvers each. The demonstration took forty-five minutes, but it did what Tim advertised.
+
+The target was a [Wand of Waves (broken)]. Without any flashing lights or even a tremor to show it was working, the wand suddenly lost its [Broken] modifier and Value Sense told Brin it went from a large handful of copper to more than two golden capitals.
+
+Brin wanted to know what a [Wand of Waves] did. Would it shoot out water, or induce waves in solid objects? Either would be cool to see, but Tim didn’t let him test it out. Apparently, the customer wouldn’t want someone degrading the enchantment right after it got fixed, and Tim didn’t want to pay the [Agent Crystals] to fix it up more than once.
+
+After that, Tim gave a demonstration of a Cantoby, one of the wand-like devices that Gerin had also mentioned.
+
+He lifted a length of wood, with three black rings around the top, bottom and middle, pointed it at one of his huge heavy bookshelves, and the bookshelf moved aside. With the Cantoby, Tim made the shelf, which together with the books must’ve weighed five hundred pounds, simply glide across the floor. Brin winced when it looked like he was going to slam the shelf into some of the cultists, but the shelf easily twisted in midair to miss them.
+
+Tim swished the bookshelf back and forth across the room, and it moved with unnerving speed, but didn’t touch anyone or do so much as move a piece of paper with its passing wind.
+
+“It’s not my Dexterity or skill, if you’re wondering,” said Tim. “The Cantoby automatically adjusts the object it carries to prevent collisions. And would you believe that this is only its secondary purpose? This one was originally created as a remote control for enchanted objects made of wood.”
+
+It was an impressive display, but sadly they weren't allowed to remove the Cantobies from the cult headquarters. Brin could come and practice with them whenever he wished, provided he was willing to pay for the [Agent Crystals], which wasn’t a problem. Apparently, this was popular with the cultists because it was an easy way to train the Magic stat for those with a small Mana pool.
+
+Brin didn’t hurry out the door when the demonstrations were done. He took a moment to report the news he’d learned about Bia to Tim, which netted him a small and ambiguous amount of merit in the cult. Then he stayed and glad-handed and got to know the other members, but he came away from the afternoon with mixed feelings. The most immediately useful thing he’d learned was that he now had access to a group that could repair any enchantment. Nothing he needed right now, but it was nice to know he had a solution should that ever come up.
+
+Over time, his access to Nhamanshal’s lost arts would greatly improve his knowledge of enchantments and magical technology. For now, though, he didn’t know the basics of the basics, so his beginners Enchanting class at school was the most valuable place to spend his time.
+
+He would keep working with the cult; he needed to gain a better understanding of Tenerer and the lost technology before Tim would see him as a real Fellow of the Cult, and he bet there were still some interesting secrets to be gained, but it looked like it was going to be a long-term process rather than an immediate power up.
+
+Honestly, he should be more excited than he was. He had more ways to benefit from the cult than most of the men there. A big reason that drew these men to the cult was likely the social aspect, but Brin’s social circle wasn’t exactly lacking for lots of people who he only kind of knew. He’d rather have a few close friends than a thousand acquaintances.
+
+Over the next few days, he spent most of his time between classes with Sancha and Ares. He let Sancha chase away the most forward of his female admirers, and he let Ares take the brunt of those who came to him hoping for duels. There was quite a big culture around dueling in the Tower, with official and unofficial rankings, a dueling club, and a tournament hosted towards the end of the year. No one was eying Brin for that, since first-year students weren’t allowed to compete, but plenty of people thought he might make good practice. Vitor, on the other hand, was dueling someone new every day.
+
+He also dutifully approached each of the people Hogg had suggested for Lumina’s study group. Sagramor, their potential informant in the Circle of Water, was the first. He was a tall man, with a fastidiously straight hairline that spoke to someone who got a haircut at least once a week. He bucked the regular Steamshield trends by wearing a sky blue coat and slacks that were popular back in his home city of Blackcliff.
+
+He seemed a little intimidated by Brin’s approach and tried to move out of his way before realizing that Brin was heading towards him.
+
+“You’re Sagramor, right?” asked Brin, and then internally winced, because people didn’t introduce themselves that way in this world. Nearly everyone kept their names visible on their status, so you never had to guess who you were talking to.
+
+“That’s me,” said Sagramor, looking nervous.
+
+Brin decided to just jump straight to it. “I’d like to invite you to a little study group we’re putting together. Lumina has agreed to tutor a few students on [Meditation].”
+
+Sagramor chuckled nervously. “Why me?”
+
+“I’ve been told you’re a [Mage] with a lot of potential. I think we’d benefit from having you along.”
+
+“Er…” Sagramor drew it out, buying time while he thought it over. He laughed again and said, “You know what? Yes. I’d be extremely grateful. Yes and thank you.”
+
+It wasn’t until he invited the student from Air that Brin started to understand why this would be so valuable. He’d admitted that he didn’t ever see himself taking the Air element, so the offer of tutoring wasn’t really something he needed. The guy had just shrugged and said, “You’ll probably use enchantments with air someday, right?”
+
+Brin had nearly facepalmed. Hadn’t Tim just spelled it out for him? He needed to learn the basics of every element if he wanted to use enchantments to their fullest.
+
+The next two were a bit easier, Brin approached the students from Earth and Fire. Both of them accepted right away, and without prompting suggested that if Brin ever needed tutoring or study partners he could approach them any time.
+
+The most fun contact was Wings, of course. Brin waited until the student whose real name was Nunno Solorgio was alone and then approached him in the hall on the second floor.
+
+Nunno's eyes went straight past Brin as if he didn't see him, and then quickly turned a corner and out of sight. Brin really would've believed Nunno hadn't seen him and didn't recognize him if his opponent had been anything but an [Illusionist].
+
+He used a Mirror Image to keep walking the same direction and let Nunno think he'd gotten away, then under invisibility, he ran around from the other way, keeping an eye on Nunno with an Invisible Eye the entire time.
+
+Nunno tried the same trick, but since Brin knew the starting point, he was able to keep track of him with [Know What's Real]. He followed Nunno's position until he came back out of invisibility. Nunno checked behind himself to make sure he hadn't been seen, and then slammed straight into Brin when he turned forward again.
+
+"Oof. Nunno. Excuse me. My mistake. But would you believe I was just looking for you?"
+
+"Lord Mistaken! I don't believe we've formally made our acquaintance. Not to say that I'm opposed to such, but I'm rather pressed for time at the moment, so--"
+
+"Never made our... what? We met on the first day of school," said Brin. He wasn't rude enough to say even that much out loud, so he silenced a sphere around them and then projected the sound of him talking about the weather in its place. "And what's this Lord Mistaken business? Am I supposed to call you Lord Solorgio?"
+
+"Lord Solorgio is my father," said Nunno.
+
+Brin shook his head. "So anyway, Lumina is sort of putting a study group together. I'd like to invite you to join."
+
+"And what... I mean, will I have to... that is, why me?" The intense worry on Nunno's face was another reminder that Brin really needed to get [Terrifying] under control.
+
+"Everyone says you're an excellent [Mage]. A prodigy," said Brin.
+
+"You still found me out rather quickly," said Nunno.
+
+Brin shrugged. "I was hoping to get someone to teach me the basics. In the Circle, you know? I'm particularly interested in workarounds for the Eveladis. If there are any."
+
+Nunno's eyes darted from side to side, maybe not completely trusting Brin's sound ward. He'd matched by projecting his own voice talking about the weather, but it wouldn't hold up long if anyone was watching. "I can help with that. The first question you have to ask is 'What is the Eveladis?' What is it attacking?"
+
+"Light magic. And sound. It prevents the summoning of illusion magic," said Brin.
+
+"So it sounds like it's an anti-magic? It's not. It's Authority poison."
+
+Brin was intensely interested in that concept, but Nunno didn't want to say more in a public hallway, so he agreed to wait until they were both back in the Circle.
+
+Not all of the contacts would be so easy. He realized that he was putting Princess Gracia off for last, and decided to just get it out of the way.
+
+She held court in the dining hall, so to speak. He never saw anyone interrupt her on the way to classes or while she was with her friends, but people often approached her during lunch, so Brin thought that was the safe bet.
+
+There wasn’t exactly a line, but there was a group of students who hung around nearby in a group pretending to talk to each other, and they approached Gracia one by one, in the order that they had come. Brin made small talk with the other supplicants until it was his turn, and approached.
+
+Gracia finished chewing a bite of a pork cutlet, somehow making the act look elegant, and then poked her fork into a piece of broccoli. “What can I do for you, Lord Mistaken?”
+
+Brin put his hand on his heart and bowed. It was the appropriate bow from a noble to a royal, but he went about an inch deeper than that. “Your highness.”
+
+“Oh, stand up. When we’re here, you may greet me as a fellow classmate,” said Gracia. It sort of surprised Brin that she spoke common when so many other nobles went out of their way to keep to High Frenarian.
+
+“That’s very kind of you, your highness,” said Brin.
+
+Gracia twirled the broccoli with her fork. “I don’t require flattery, Lord Mistaken. Those of my family aren’t pleased with never-ending hordes of yes-men, despite what everyone seems to think.”
+
+“I’ve heard you’re even less pleased to be contradicted,” said Brin.
+
+Gracia froze and then gently put her fork down and narrowed her eyes. “You must be right. I didn’t like that. At all.”
+
+Brin felt his blood pressure drop a bit. That was beginner tier banter, and even then he’d gone too far. Hogg had been right to warn him. “I’d like to invite you to a little study group Her Radiance Lumina is putting together. She and I would be honored if you could attend.”
+
+Gracia nodded. “I accept.”
+
+Brin knew better than to make any hint that she should repay him somehow. Her presence was payment enough, and she knew it. Her being there would lend Lumina’s faction a legitimacy and prestige that money couldn’t buy. He hadn’t been lying when he said he and Lumina would be honored.
+
+He bowed again, stepped back, and then turned away. Gracia picked up her fork again and took a bite of her broccoli while the next student approached.
+
+The Fate and Mind students were a lot easier. The Mind student was a [Mage of Dreams] to [Inspect], and Brin found that to be a solid choice, since he was completely impervious to dream manipulation. The young man was baby-faced at 20 years old, and told Brin that he should seek him out if he should ever face trouble sleeping.
+
+The Fate student was a [Weaver]. She offered to work with him when he decided to start building his first [Mage] cloak. He told her it would be a while before he started on that, but walked away wondering why he was so certain.
+
+They all took it for granted that anyone even tangentially related to a crafting Class would want to build their own staff and cloak, and Brin wasn’t opposed. Between his Enchanting class, the cult, and his [Scarred Mage of the Glass Furnace] he had a lot of reasons to focus on crafting right now. He could catch up in combat once his body healed, but for now he should be crafting.
+
+So why had he turned down the [Weaver] girl right away? The most obvious reason was that he already had really nice armor. There was no reason that [Mages] couldn’t wear armor except that it was expensive, and not something you wanted to wear every day.
+
+But that wasn’t the real reason, was it? He already had a bunch of ideas for how fiberglass was made, and it shouldn’t be that much of a stretch to turn it into fiberglass fabric.
+
+An image of a sad-looking girl with long black hair flashed into his mind. Myra. He’d always sort of thought his first forays into glass weaving would be with her. Where was she? Where were any of them? The Shadow Pact allowed them to open an inquiry into a subject if it wasn’t already a matter of interest, only it cost a lot more merit than simply gaining information on a subject that was already in the Pact. But Brin had merit in spades. He’d open an inquiry into Snathain, the mysterious [Weaver] school. He’d find Myra, and Davi and Zilly, too.
+
+And then… he didn’t know. But he owed it to them to at least find out where they were.
+
+For now, he decided to get serious about crafting. Earth, Fire, Wind, Water, and… Heart wasn’t too far off. By your powers combined I am… he didn’t know exactly what. He’d be sure to make something good.
+
+And if you wanted to create something in the Tower, it was clear which Circle was best. It was time for him to enter the Circle of Earth.
