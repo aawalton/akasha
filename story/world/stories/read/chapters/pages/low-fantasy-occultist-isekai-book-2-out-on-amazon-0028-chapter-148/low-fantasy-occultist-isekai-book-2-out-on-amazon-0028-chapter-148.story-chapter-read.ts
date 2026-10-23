@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const lowFantasyOccultistIsekaiBook2OutOnAmazon0028Chapter148 = {
+  id: "01a169a8-e69b-727b-9f76-64982f0552b8",
+  type: "page-type/story-chapter-read",
+  slug: "low-fantasy-occultist-isekai-book-2-out-on-amazon-0028-chapter-148",
+  position: 28,
+  publishedAt: "2025-05-15",
+  unit: "unit/words",
+  title: "Chapter 148",
+  story: "story-read/low-fantasy-occultist-isekai-book-2-out-on-amazon",
+  ownLength: 2038,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2281932",
+      externalLink:
+        "https://www.royalroad.com/fiction/99829/low-fantasy-occultist-isekai-book-2-out-on-amazon/chapter/2281932/chapter-148",
+    },
+  ],
+  createdAt: "2026-10-23T16:47:19.193Z",
+  updatedAt: "2026-10-23T16:47:19.193Z",
+} as const satisfies StoryChapterRead
