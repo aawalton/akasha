@@ -1,0 +1,45 @@
+"That is a fuck ton of weapons." I said, looking at the racks of rifles, pistols, and machine guns. The hot pink furred hund standing at the service window of the armory looked over his shoulder dramatically. "So it is." He replied in Döbian before slowly turning back to face me. "Did you have anything in particular in mind or should I pick for you?"
+
+He was built like Simon. Wide shoulders, tall for a hund. But his fur was an unnaturally bright shade of pink that I recognized as a cosmetic bio augmentation. He wore loose gray coveralls with the sleeves rolled up. The ID badge hanging from a standard black lanyard around his neck identified him as Albert Knight, armorer.
+
+I thought for a moment before I spoke. "Honestly I'm not even sure what I should be asking for."
+
+The armorer rolled his shoulders to loosen them up then clapped his hands together like a teacher calling a class to attention. "Well, the mission dictates the equipment. The force on force will be a simulated raid on a warehouse. You will alternate between defending and attacking."
+
+He got out of his chair and retrieved a black carbine with a thirty centimeter long barrel, lightweight folding stock, and a short fat magazine. "Simon favors an updated version of the old Döbian paratrooper carbine, AKA the buzzsaw. It's accurate, will penetrate armor and cover, and it's very maneuverable. Plus it's almost impossible to hack since it transmits data via physical contact with the user."
+
+"What's the catch?" I asked. "There's always a catch."
+
+"It's a pure kinetic weapon firing a dumb payload. No target seeking rounds, no explosives, no shooting around corners." He set it down and picked up something I was familiar with from my training at the police academy. It was a long ugly gray rectangle with an adjustable thumbhole stock and a barrel on the business end wide enough to stick my thumb in.
+
+"André likes the Seeker twenty five millimeter smart grenade launcher. It can be magazine or belt fed. It's heavy and awkward to maneuver, but the fire and forget seeking munitions are absolutely amazing if you know how to use them and it has an airburst capability as well. Of course, it is vulnerable to hacking, you can only carry so much ammo, and I wouldn't want to shoot one in an enclosed space."
+
+"As for GG." The armorer retrieved a small short stubby rifle in a bullpup configuration. "This is a Shredder ten millimeter smart dart launcher. It's kind of a happy medium between the two. The ammo is slower than a purely kinetic weapon but you have your choice of seeking or high explosive rounds. It's hard to hack but also incredibly hard to master."
+
+"Which would you recommend for me?" I asked. I was leaning towards the Döbian carbine but I was curious what the armorer would suggest.
+
+He looked me up and down for a moment. "That's a tough question. Let me see what I can pull out of my bag of tricks." He walked up and down the aisles until he came across something that made him smile. "Oh yes. This will do nicely."
+
+What he came back with was unfamiliar. It had a wide bore like the grenade launcher but was shorter and significantly lighter. Another tube of similar diameter ran parallel to the barrel. It had a collapsible stock and a pistol grip.
+
+"This beauty is a Hammer high capacity smart semi-auto shotgun. Human designed but produced right here in Porto. You can change between slugs and buckshot on the fly. It also can fire subsonic ammo if you need to go in quiet. It's easy to use, packs a punch, and fires a wide range of projectiles. On full power this thing will blow a hole in a concrete wall."
+
+"Very nice!" Vika let out a low whistle of appreciation.
+
+"The recoil is absolutely brutal though." The armorer warned. "It should be within safe limits for a human with your augmentations but it won't be pleasant. It fires a magnetically accelerated sabot so the recoil impulse is sharp and unpleasant, that's just physics. You control ammo and firing mode from the grip via your wetware but it has a manual trigger and redundant controls."
+
+He pulled up a diagram on a tablet and handed it over to me. It showed a cutaway view of a pre-fragmented slug with a hardened tungsten rod through the center. The gray metal slug was flat nosed and the tungsten penetrator was recessed to protect the sharpened point. It was all encased in a golden sabot.
+
+"The sabot has a dual capacitor in the base and if you select slug mode the sabot stays with the round holding it together. Scatter mode causes the sabot to discard and the round to break apart mid air. You're looking at a hand sized pattern within ten meters, double that at twenty five."
+
+He tapped the tablet and showed me an old school ballistic table with the predicted drop at different ranges. "Slugs are accurate out to about two hundred meters but they slow down significantly over distance because they aren't very aerodynamic. For sentry removal you can limit the velocity and keep it subsonic."
+
+"It's a very robust and simple system designed for combat in harsh environments. The dual capacitor in the base ensures that if one capacitor fails or is discharged prematurely, the other can act as backup and still power the magnetic accelerator. If everything works as it should, the second capacitor will discharge when the slug impacts the target."
+
+"Woah." I did some math in my head and looked at the smart shotgun with a new found respect. A thirty gram slug moving at a thousand meters per second was hitting with fifteen kilojoules of force. That meant the capacitors had to hold at least that much energy, if not more, due to losses in the system from heat and friction. "That's insane."
+
+The armorer grinned. "Humans come up with such wonderful toys, don't they? King Aerospace acquired the plans for the weapon because they needed the capacitors for another project. But they were nice enough to produce a few for my humble collection. Would you like to put it through its paces and tell me how it goes?"
+
+"Oh yes." I said, very eager to try out this new toy. "I would love that."
+
+"Great!" The armorer scanned the shotgun and placed it into a bin. The computer chirped and printed out a label which he slapped onto the stock. "Now, for a sidearm. That's less important but there are three main schools of thought..."

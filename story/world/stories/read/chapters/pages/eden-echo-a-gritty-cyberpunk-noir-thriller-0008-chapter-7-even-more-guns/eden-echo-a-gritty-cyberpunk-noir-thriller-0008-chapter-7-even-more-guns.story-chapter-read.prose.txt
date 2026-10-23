@@ -1,0 +1,71 @@
+He walked over to a rack and came back with a plastic tray. There were three pistols on it. One was huge with an extended magazine. The one next to it was slim and unassuming. The last one was somewhere in the middle.
+
+"Now some people believe that a pistol should pack as much punch as possible. They want rifle performance in a small package. Others go the opposite way, they believe that if you are using a pistol at all things have gone severely wrong. So they go with something as small and unobtrusive as possible. Most people end up getting something that's more of a happy medium but leans toward either philosophy."
+
+"Now the third group, they want the pistol to fill a gap that their primary weapon can't. In your case, that would be ammo capacity and water resistance. The slugs are heavy and you can fire the shotgun in the rain but if someone sprays you with a fire hose you're out of commission until you can dry off."
+
+He tapped the full spectrum camera on top of the shotgun. It looked like a rounded fisheye lens set in a rectangular box. "Most smart weapons also actively scan before they fire to compensate for environmental variables and lock on target. That can reveal your position and intent to anyone with the equipment to detect it. Smart weapons can also be spoofed or jammed if you've got the right gear and the wetware to interface with it."
+
+"Yeah, but who has that kind of equipment?" I asked. The police certainly didn't and I would be surprised if the gangs did. It wasn't like I was expecting to be running up against any well trained military units.
+
+The armorer raised a single electric pink eyebrow. "You would be surprised. There was a group of cops that were clearing a building when suddenly their weapons started firing and wouldn't stop. The bad guy waited until they were stacked up in a narrow hallway getting ready to make entry before he executed the hack. The cops blew each other to pieces."
+
+"Holy shit."
+
+"That's one reason to always practice good muzzle and trigger discipline." The armorer said. "Remember, if you ever get hacked, point the gun in a safe direction and eject the magazine. Then transition to your secondary and engage the threat."
+
+"Heard and understood. If my weapon is hacked I will point the weapon in a safe direction. Eject the magazine. Transition to secondary. Then engage the threat." I committed the sequence to memory.
+
+I imagined seeing my weapon go off without my input, pointing it in a safe direction, ejecting the magazine, then transitioning to my secondary weapon and reengaging the target.
+
+"What did you just do?" The armorer asked, his upright ears swiveling slightly. "What was that just now? Your heart rate dropped and your expression went ice cold, vacant."
+
+"It's a training tool." I explained, not wanting to go into any further details. "I was just committing the sequence to memory."
+
+He looked at me, very obviously not believing what I had told him. "Right, well it is nice to be taken seriously. On the subject of hacking, you'll probably want a personal firewall to keep people out of your head."
+
+The armorer came back with two flat black woven straps and a matching X shaped device with four flat flexible arms and a thumb sized bump like a bug's carapace in the middle. "The police don't issue these but they really should. This particular model is called the Scarab. It acts like a filter between your wetware and the outside world."
+
+"The bracelets are to make sure the feed from your weapon matches what is being sent to your wetware. The scarab watches for unusual local network activity and if it detects anyone attempting to hack you or your weapon it will cut off access then respond with a hack of its own. In the event you hit something lethal like black ICE it will act as a safety fuse, burning itself out."
+
+"You're talking about hacks and killer intrusion countermeasures like they're something I'm likely to run into." I observed.
+
+The armorer shrugged. "Well, when you kick down doors for a living you never know what you're going to find on the other side. It pays to be prepared. Also, the scarab has visual threat detection software and a very good camera built in. It literally gives you eyes in the back of your head."
+
+"Alright, I'll take that and the unhackable pistol." I said, realizing that everyone must have wondered what was taking me so long.
+
+"Lovely." The armorer scanned the items and tagged them. "Now, let's pick out some grenades."
+
+"You are joking, right?" I looked over at Vika. "Tell me he's joking."
+
+"I never joke about weapons." The armorer said seriously as he set a rugged army green plastic case on the counter. "Now, there are a few different types of grenades. You've got chemical, concussion, fragmentation, flash, incendiary, smoke, swarm, thermobaric…"
+
+***
+
+The armorer fed our order into some kind of conveyor system and buzzed us through a reinforced steel door that slid open to reveal a small chamber big enough for maybe three people to fit in comfortably. Once we were inside the door closed behind us and the next one opened.
+
+There was a simple staircase headed down with metal handrails at either side set into the plain gray concrete walls. It didn't twist or turn, it simply descended down for two hundred meters then ended at another metal door.
+
+There was a buzzing sound and it opened, not into another small room like I had been expecting, but into a massive underground chamber. The walls were reinforced concrete that gracefully arched up to form a ceiling a hundred meters high.
+
+The chamber itself was two hundred meters wide and five hundred meters long. It was littered with parts of wrecked rockets and space shuttles. Some had been blasted in half. Others were burnt out wrecks that were barely recognizable as spacecraft. One or two were more or less intact except for the bullet holes in the hull.
+
+"What is this place?" I asked.
+
+"It was the secret King Aerospace rocket testing facility. Now it's a boneyard where everything too secret to throw out but not worth keeping gets used for target practice and training." Vika pointed at the mostly intact white shuttle. It looked like a rocket with stubby wings toward the tail end, a flat bottom, and a cockpit in the front with small glass windows.
+
+"Sometimes the Western Alliance uses it for training. They pay Simon good money to practice boarding and breaching real ships. This whole chamber can be put under vacuum to replicate outer space conditions. There's still gravity to deal with, but it's the best training aid outside of a simulator."
+
+"Woah." I said, imagining soldiers in space suits attacking the shuttle. "That… that explains a lot actually."
+
+"Yep. They'll sell us whatever weapons we want as long as they get to use them when they come to train." Vika explained.
+
+Simon walked over to us. For a second I almost didn't recognize him. He was wearing loose fitting gray combat pants with a camouflage pattern of lighter and darker brush strokes tucked into a pair of black reinforced boots. His shirt was a matte black synthetic half sleeve V-neck with a rugby style collar. Over that was a form fitting gray plate carrier with the same camo pattern as his pants.
+
+The plate carrier was organized meticulously with three magazines for his carbine up front and the brown textured handle of a fixed blade knife popping up behind them. Underneath his left armpit was a military style multi-antenna radio with a thin wire leading up to the headset resting around his neck. On his right side was an extra magazine. Tucked between the magazines were thin cylindrical olive green tubes that I didn't recognize at first but eventually realized were heal sticks.
+
+Dangling from the front of the carrier below the magazines was a small administration pouch filled with god only knew what. On the back side below the rear plate was a fabric tube with pull tabs on either end and a red heart symbol that indicated it was a first aid kit. Higher up on the front plate were three flat slap-cuff style tourniquets and a headlamp. Hanging off the rear plate was an almost flat pack with a black metal bar strapped to it that I assumed was some kind of breaching tool.
+
+On his waist was a battle belt with a holstered pistol on his right side and a small folding multi tool. On the left side was a spare mag for his pistol, two more mags for the carbine, a dump pouch, another hand sized first aid kit, and a flashlight.
+
+"I was wondering if you got lost." Simon said, waving us over toward the shooting benches where GG, André, and Gigot were waiting. "Get your gear squared away so we can begin."
