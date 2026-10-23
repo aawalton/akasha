@@ -1,0 +1,221 @@
+When he leveled up, Caleb felt a bit of power well up inside of him, condense, and move into a place he’d not previously been aware of. Poking at it with the newest mental sense, he could tell it was the same type of energy he’d found in the ore, though it seemed more structured.
+
+Bog woke up from his nap, sensing something had occurred in Caleb, and looked on in interest.
+
+He opened up his status sheet.
+
+Caleb Kavilson
+
+Class: Dragon Rider
+
+Level: 2
+
+Human
+
+Abilities (+6)
+
+Strength: 8
+
+Agility: 8
+
+Constitution: 8
+
+Perception: 12
+
+Willpower: 12
+
+Acuity: 12
+
+Resources
+
+Stamina: 90/90
+
+Stamina Regen: 0.6 per min
+
+Mana: 125/130
+
+Mana Regen: 1.44 per min
+
+Ambient Mana: Average
+
+Active Skills
+
+Mana Manipulation: 4 - Bloodline
+
+Power Attack: 1 - Class
+
+Dragon Bond: 3 - Class
+
+Imperium Metallorum: 1 - Affinity (Metal)
+
+Imperium Ventorum: 2 - Affinity (Wind)
+
+Passive Skills
+
+Magical Perception: 1 - Bloodline
+
+Dragon Bond: 3 - Class
+
+Traits
+
+Caeli Soul: Bloodline
+
+Wind Affinity: Major - Bloodline
+
+Metal Affinity: Major - Class
+
+He honed in on his new ability. It had reset to level 1, which usually happened when a skill evolved.
+
+Magical Perception: You have pushed the boundaries of what the eyes acn see, incorporating your Mana Sight into your affinity, delving deeper still. Your ability to perceive mana is no longer limited to vision. Your mana perception is governed by your combined perception and acuity and your level in this skill. You can now sense essence using the same means.
+
+“Essence?” he asked the unhelpful dragon. Caleb hadn’t heard the term in the context of magic before.
+
+He went back to the ore and found his ability to detect both the ore and the magics within it had increased. His metal sense had become more acute along with his mana perception.
+
+With this improvement, he could see that the mana coming out of the ore was coming from the essence. Essence was fading from the rock in nearly imperceptible amounts, and turning into infinitely greater portions of mana.
+
+“Whatever essence is, it apparently is what mana comes from,” he said to the still-interested dragon.
+
+Caleb played around with his wind sense, which had improved as well. Going back to the forged items, he found that he could detect greater detail in the metal, and that the crude lines of magic running through the hammer seemed somehow even worse. When his exploration of the items granted no new answers or levels, he moved on to his last new skill.
+
+Imperium Metallorum.
+
+Using his new awareness of the steel around him—though the brass toggles on his clothing also shone in his senses—he focused on the knife.
+
+Wrapping a mental hand around it, he lifted the knife and it rose off the anvil.
+
+Bog’s eyes lit up at this and he stared, mesmerized as Caleb worked. While it was difficult to compare mental effort to physical strain, Caleb thought lifting the knife this way to be about as difficult as it would have had he just used his hand. His mana was slowly ticking down as he held the knife aloft, a point every few seconds. He pushed the knife out away from him, and as it got further, the strain increased and the mana cost with it.
+
+The mana travelled from his pool, snaking after the knife. It wasn’t lifting the object, but instead like the knife drank it in. With the knife at a distance, it was as if he held the same weight at the end of a pole. The knife got three meters away before he dropped it from the air, the effort to lift it too much.
+
+“Can I borrow this?” Caleb asked Bog, pointing to a pickaxe whose handle the dragon had bitten off.
+
+Bog’s interest turned to suspicion.
+
+“I’m not going to eat it,” Caleb said, reading the dragon’s impression. “I just want to try throwing it.”
+
+Bog gave a nod.
+
+Caleb stood over the pickaxe and physically lifted it to chest height. While he held it there, he built up all his strength, then pushed the head away from him in a single concentrated burst.
+
+The pickaxe flew across the room, far faster than Caleb could have ever dreamed he’d throw it, his Imperium Metallorum removing the mechanical necessity of swinging his arms.
+
+Ding!
+
+Imperium Metallorum has increased to level 2.
+
+The pick struck the wall with an ear-piercing plink and threw chips from the wall. Despite the far greater speed, the physical effort was comparable to what he would have felt if he’d just thrown it. Still, his mana had dropped another 10 from the single throw alone.
+
+“That gives me an idea,” Caleb said to Bog. “Help me with something, and then we can go look for something to eat.”
+
+Bog gave him his full attention as he told him what he needed.
+
+While the dragon went to work, Caleb thought over his stats.
+
+He had 6 points to spend, and he was trying to think of any reason not to spend it on willpower and acuity.
+
+To that end, he tried using his Power Attack, swinging his hammer against a spare timber meant to be used to support mining. The swing did have extra power to it, and he definitely thought he could use it to his benefit in a fight and in his forge, but he’d only be able to do it twenty or so times before running out of stamina.
+
+Stamina, as he’d known from his lifetime of training for its eventual use, was not simply how much energy he had in him. He could run all day until he passed out from exhaustion, but his stamina would still be at his capacity of 90. Stamina was the energy an initiated body created for itself to use for skills. Most warrior classes gained skills that drew upon that energy to sustain their bodies, but Caleb had none of those.
+
+So he looked at his status screen, contemplating. His strength score of 8 had always been a point of shame, and had he known his agility and constitution to be 8, he’d have felt equally bad about that. A large part of him wanted to just bring his strength up to 10 and be done with it, but his brief experience with his newly granted affinity for metal had opened so many possibilities. All the small childish wishes to be strong were looking to be just that.
+
+Small and childish.
+
+He read through all his descriptions one more time before finally making the decision that’d been his heart as soon as he’d lifted his knife off the anvil with only his mind. He applied the points, then looked at his status screen.
+
+Caleb Kavilson
+
+Class: Dragon Rider
+
+Level: 2
+
+Human
+
+Abilities
+
+Strength: 8
+
+Agility: 8
+
+Constitution: 8
+
+Perception: 12
+
+Willpower: 18
+
+Acuity: 18
+
+Resources
+
+Stamina: 65/90
+
+Stamina Regen: 0.6 per min
+
+Mana: 96/195
+
+Mana Regen: 2.22 per min
+
+Ambient Mana: Average
+
+Active Skills
+
+Mana Manipulation: 4 - Bloodline
+
+Power Attack: 1 - Class
+
+Dragon Bond: 3 - Class
+
+Imperium Metallorum: 2 - Affinity (Metal)
+
+Imperium Ventorum: 2 - Affinity (Wind)
+
+Passive Skills
+
+Magical Perception: 1 - Bloodline
+
+Dragon Bond: 3 - Class
+
+Traits
+
+Caeli Soul: Bloodline
+
+Wind Affinity: Major - Bloodline
+
+Metal Affinity: Major - Class
+
+As Caleb applied the points, he felt the pocket of energy he’d detected within him burst, the power flooding to his mind, and his ability to perceive the energy improved with it.
+
+“Essence,” he said, recognizing by feel that it had to be that.
+
+By the skill description of Magical Perception, that was all it could be.
+
+With his increase, Caleb’s sense for metal extended nearly another meter around him, and he could now detect traces of ore in the wall he’d not sensed before. His wind sense too had stretched out further into the caves, picking up subtle breezes that had been beyond him moments prior.
+
+Any regret he’d had over the decision vanished as he lifted his knife with his mind and found the effort significantly reduced. The rate at which it depleted his mana had slowed. When he next threw a pick at the stone wall, the pick buried itself there and stuck, as if swung by a Dragon Hunter with 18 strength.
+
+“Let’s go find something to eat,” Caleb said to his companion.
+
+He bent over, picked up the small chunks of steel Bog had been biting off a cast-iron pot he didn’t need, and scooped them into a pouch, keeping a handful in his hand. He could use some shrapnel to throw.
+
+Caleb found the brass reservoir of the oil lamp with his metal sense and brought the whole thing to him. He considered carrying it above him with his magic as they explored, but found the mental effort of carrying something distracting, so he relented and carried it by hand.
+
+“Can you smell animals?” Caleb asked Bog, knowing the answer.
+
+Bog shook his head, sending his disappointment in himself through their bond.
+
+“It’s okay,” Caleb reassured him, reaching to scratch his head but thinking better of it at the last second and patting him instead. “I can’t either.”
+
+Dragon Bond has increased to level 4.
+
+Caleb grabbed his hammer for the first time since he’d gained Magical Perception, feeling the enchantment within it give him strength and finding it far different from the stat increase he’d just experienced. It wasn’t giving him essence as gaining a level had, or applying essence permanently as assigning the points had. The hammer pulled the essence out from within him, shaping some of the formless energy within his body into a facsimile of strength.
+
+“Huh,” Caleb said, looking at the hammer once more with his other enhanced senses.
+
+Each time his acuity and Magical Perception improved, he saw more details in the hammer, more nuance. The more and more he saw, the more certain he became that his master had no idea what he was doing when he made this hammer.
+
+He’d created it entirely by chance, somehow beating an enhancement into the weapon. Caleb supposed that wasn’t too surprising. One need not know the reason why heating iron in a bed of coal before quenching it made it harder to replicate the task. But now Caleb could see what was happening, and that meant he might be able to do it himself.
+
+Bog chose that moment to wrap his tail around Caleb’s leg as he continued out the door without him.
+
+“Wai—” Caleb shouted as he fell to his butt, leg pulled out from under him as his dragon went on the hunt.

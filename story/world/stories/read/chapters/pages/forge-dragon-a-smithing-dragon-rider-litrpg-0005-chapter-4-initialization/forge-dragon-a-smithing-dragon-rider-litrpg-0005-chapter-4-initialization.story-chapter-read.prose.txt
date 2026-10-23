@@ -1,0 +1,287 @@
+Caleb sat bolt upright, slamming his head against the upper bunk. It had shifted in the collapse, and must have slowly sagged through the night. Eyes open now, he watched the overlay of words scrolling before him. He looked down at Bog, who had crawled up beside him in his sleep—further collapsing the bed. Bog stirred at the commotion, and squinted at Caleb, breathing hot irony air on him. The scent reminded him of home, distracting him.
+
+“Focus,” Caleb told himself.
+
+He looked back to the words that were still unchanged.
+
+Initializing…
+
+The three dots at the end disappeared and reappeared one at a time, from left to right.
+
+“This is normal,” Caleb told himself, despite not trusting his words.
+
+The initialization took some time once started, but it always finished once it began.
+
+But that was back home during the vigil…
+
+Caleb threw himself out of bed and to the floor, searching around for the sunrise before realizing the folly of the efforts. Instead, he went prostrate, bowing to a random direction he hoped was east—it was not.
+
+He squinted, racking his brain for all the little rituals he’d always counted as silly and superstitious, and his mind supplied him with all the myriad things he’d not done but very well could have.
+
+Initializing…
+
+Accessing database…
+
+ERROR: Insufficient energy.
+
+ERROR: Omniscience protocols unable to load.
+
+Initializing localized protocols…
+
+Limited system access granted.
+
+Caleb sagged in relief.
+
+It worked.
+
+Checking prerequisites…
+
+More flashing dots. Caleb felt tingling all over his body, as if he were being inspected, poked and prodded.
+
+Prerequisites met: Laborer (common)
+
+Checking prerequisites…
+
+That was not unexpected. Everyone was offered the class. In a vacuum, it was useful—any class that even gave a single stat point per level was useful, after all. For some, Laborer was even better than an uncommon class, as it actively levelled as one did their work. Meanwhile, the Frost Dragon Hunter class leveled extremely slowly outside of active beast hunting.
+
+Prerequisites met: Blacksmith (common)
+
+Checking prerequisites…
+
+Caleb, who was already beginning to hyperventilate with excitement, froze.
+
+He got it. He wasn’t sure how, as he’d never crafted a magical item, but here before him was what he’d dreamed off. A simple common class, yes, but one he’d always wanted.
+
+It must not actually be a requirement! Or maybe… is it purely skill?
+
+Most would call Caleb mad if they knew he sought to be a Blacksmith, which was why he’d only told Kelia and his brother. She too thought he was mad, but she also thought it was an endearing trait and only teased him about it. His brother mocked him mercilessly—but somehow also in a jovial way.
+
+Passing up the uncommon Frost Dragon Hunter class for a common one was simply not done. Uncommon classes granted two ability points per level, while common classes only granted one. For any warrior, skills were only as powerful as the stats behind them. While the skills of the Frost Dragon Hunter revolved around spears and tracking, they could apply to areas of life not related to hunting frost dragons—something his clan only really did to initialize members.
+
+Caleb didn’t wish to be a warrior, he wanted to be a smith, but… even his master Dimel was a level 6 Frost Dragon Hunter. Most of his ability points had been put into strength, pushing it up to 22. He could swing with twice the strength of other smiths. He’d put 4 points in perception as well to capitalize on the multiplicative effects of some of the skills he’d chosen. Those skills enhanced perception, which was meant for tracking but also applicable to discerning the color of glowing steel to time the perfect quench. Enhanced hearing allowed him to hear flaws in the steel. He could tell if an apprentice’s quench caused a crack from across the forge, over the sound of hammering, and was known to find flaws tapping a blade against an anvil and listening to its ring.
+
+While Caleb saw the benefits—and was envious of them—he had found a way to work around his lack of stats. He’d always been a weak smith, but he’d gotten by all the same. Strength was helpful, but skills…
+
+The thought of a smithing skill—even one—sent shivers down Caleb’s spine. He’d already overcome his poor strength by building a forge in the old grain mill. He’d refashioned the mechanism of a waterwheel to rotate a hammer instead of a millstone, and with it he could move steel faster than any smith but his master.
+
+Strength was nice, but skill was better.
+
+As for perception, Caleb had found on his own how to judge the perfect temperature for steel. He’d found various means through trial and error to judge the perfect temperature, not just relying on the faint gradation in the shades of glowing metal he struggled to differentiate. He’d found that steel lost its ability to attract a loadstone at the minimum temperature to quench, while a blade slightly hotter could melt salt.
+
+Though Caleb was not the only one who put skills and technique over stats, he was the only one he knew of willing to look past the… risks.
+
+Crafters gained skills which would elevate his smithing to a higher plane. Instead of knowing when a blade had cracked, he could prevent it from doing so in the first place. Skills could even increase the odds of creating system-recognized equipment. Which in turn increased the odds of creating equipment that helped the system find initiates. And as with all things that increased the odds of initialization, the empire hoarded them. While they didn’t take everyone who had a crafting class back to the capital, they took the best, and Caleb knew he’d be one of the best.
+
+But still, he didn’t care.
+
+Well, he hadn’t cared. Then he met Kelia. And now he wasn’t so sure.
+
+He was pulled from his thoughts by another message.
+
+Prerequisites met: Frost Dragon Hunter (uncommon)
+
+Checking prerequisites…
+
+“I got it,” Caleb said.
+
+Despite his awe, he was… a little disappointed. He’d hoped, as absurd that it was, that the class wouldn’t be offered, and he’d be able to take Blacksmith without needing to make an actual decision. But as he’d killed a dragon to get the system’s attention, it was highly unlikely he’d not get offered the relevant class.
+
+Most who participated in the dragon hunts failed to be offered anything, and of those initialized, not all were offered the coveted uncommon class.
+
+He wavered, weighing his choices.
+
+“The extra stats would help,” he said to Bog, who was watching him uncertainly.
+
+The creature was squinting at him, examining Caleb as if he somehow sensed what was occurring.
+
+“And the perception skills are nice too,” Caleb said. “But Master Dimel is only level 6! How high could I go if I picked Smith?”
+
+Caleb was thrown from his monologue disguised as a discussion with a nonverbal creature by another message.
+
+Prerequisites met: Dragon Rider (rare)
+
+Checking prerequisites…
+
+No prerequisites remaining.
+
+Choose your class:
+
+Blacksmith (common)
+
+Laborer (common)
+
+Frost Dragon Hunter (uncommon)
+
+Dragon Rider (rare)
+
+“Are you a dragon?!” Caleb said, leaning away from Bog in shock.
+
+Bog looked at Caleb, tilting his head down in a way Caleb could have sworn was insulted.
+
+“Or… did I get this because I jumped on the back of that frost dragon?”
+
+Now that he thought to think about it, Bog did look a little dragony. If those frost dragons had looked like snakes, it would make sense for other dragons to look like other sorts of creatures.
+
+“Descriptions!” Caleb shouted, realizing that might give him the clues.
+
+He inspected his class options by focusing on them. As he did, more details appeared.
+
+Blacksmith (common)
+
+While some progress through destruction, blacksmiths do so through creation. With a hammer in their hand and a fire in their forge, a blacksmith bends the fruits of the earth and heavens to their will.
+
+That was… less than informative, Caleb thought as he moved to the next.
+
+Laborer (common)
+
+There are many paths to power, though not all are grand. The laborer gains power through the use of their body.
+
+Next.
+
+Frost Dragon Hunter (uncommon)
+
+Fierce trackers and warriors, they combine their skills to rid their mountain homes of the scourges of the frosted peaks. The frost dragon hunter grows in power as they hunt and slay their prey.
+
+This description was one Caleb had read countless times preparing for his initialization. Every member of his clan who’d been offered the class had the same one. There was some speculation that thanks to “localized protocols,” having the description written out could force the system to draw on this common perception of the class description, but it wasn’t as if they could get everyone to forget it to test that theory.
+
+Caleb focused on the last class.
+
+Dragon Rider (rare)
+
+Bonded through trust, the rider and dragon’s progression become one. Whatever path they choose to walk, they progress so long as they walk it together.
+
+“Well, that’s vague,” Caleb said, looking at Bog. “But it did answer my question. I don’t think me jumping on a dragon’s back and breaking its spine would garner much trust. So, it looks like you are a dragon.”
+
+Bog continued to examine Caleb closely and intelligently.
+
+“Are you seeing these screens too?” Caleb asked.
+
+Bog looked to where he gestured and looked back at him, confusion clear in his eyes.
+
+“I guess not.” Caleb leaned back against the bed. “What am I going to do? I wanted to be a Blacksmith, but I’m torn over that choice, with its risks and the pressure to take an uncommon class. But… you kind of messed that up.”
+
+Bog sat, listening patiently as Caleb went on.
+
+“Honestly, I hadn’t thought about what you’d do if we got out of here. I could probably convince everyone I’ve trained you—so long as you wouldn’t go around stealing. But… you’re a dragon. I know a lot of people are going to want to use you to…”
+
+He stopped, not sure how much the young dragon actually understood.
+
+“Initialize.”
+
+When Bog didn’t react negatively to the carefully chosen term, Caleb continued.
+
+“I suppose if my class was contingent on you, no one would try that. But rare classes have their own problems. The empire tends to snatch those up on their conscription visits.”
+
+That thought brought a gloom haze over Caleb. His mother had an uncommon crafting class. She’d arrived at the village with it and kept it a secret, telling everyone she was a common Weaver. But when the empire sent its representatives to conscript Frost Dragon Hunter scouts for the legions, the inquisitor had found her and taken her back to the capital.
+
+The empire survived by controlling access to the system using the limited tools available to them. While there were many villages like Caleb’s, places with their own inroad to the system, they existed only on the empire’s tolerance. His people provided the empire’s armies with scouts in return for being allowed to exist.
+
+Crafters were another way they controlled system access. It was believed that carrying system-recognized equipment increased the odds of initialization, but in Caleb’s opinion, that was superstition—otherwise the empire would hoard all those items as well.
+
+The real reason the empire wanted the crafters was artifacts. Items that not only were recognized by the system, but directly granted classes to those who used them. These were the core of the empire’s power, and it was thought high-level crafters of rare classes could make these. But if anyone had made such an item outside of the empire’s control, they were keeping it secret, lest they too get snatched up.
+
+Caleb’s mother hadn’t done as much, as far as he could tell, but she’d been taken when he was just a boy to some hidden camp, not even allowed to write. As far as he knew, she was dead—worked to death weaving mildly magical cloth for the wealthy to parade around in.
+
+Bog sensed the shift in Caleb’s mood, and moved closer, nuzzling him with his rough head. Caleb patted the dragon’s head.
+
+“What am I doing?” he asked himself. “I can’t pass up a rare class. No one needs to know what I pick. I can just tell people what happened, and they’ll believe I got the Frost Dragon Hunter class. No one knew you iron salamanders were dragons before, so it shouldn’t be hard to convince them I tamed a young one. Elders, you’re a dragon! I thought they were all dumb beasts, but you’re much smarter than I expected—and I think you may be just a baby.”
+
+Bog blew hot air out of his nose at that.
+
+“Ow!” Caleb shouted, jumping back. “Okay, not a baby.”
+
+Definitely a baby.
+
+He looked over the options still floating in his vision.
+
+“Dragon Rider,” he said, putting intent behind the words.
+
+Class chosen: Dragon Rider (rare)
+
+Beginning initialization…
+
+Caleb’s body grew warm, and a strange tingling sensation covered him. He became far more aware of everything around him in ways familiar yet new. He’d always had a strange relationship with the wind, noticing odd shifts in it before they occurred, and since entering the cave he’d felt cut off from something vital. Now it felt like a true void to his wind sense, like his eyes were closed, the tiniest drafts appearing like brief flashes in the darkness.
+
+A new awareness hit him, one not at all familiar. The wind felt light and playful, an emotion he felt on his skin. Yet this sensation was heavy, serious, and it spoke to something inside of him. Bog beside him blazed in this new awareness, as did the bucket of ore he’d gathered. To a lesser degree, all the metal implements he’d piled up for Bog to snack on called to him, like a candle next to the bonfire that was the ore.
+
+That was just the beginning of the changes. His vision grew hazy, but when he squinted to see through the haze, it cleared. Caleb played around with the sensation, getting a headache in the process, and after a few minutes he could still see the haze, but it no longer obstructed his view; it merged with it. Once he’d settled it in his vision, he noticed that the haze was blowing into the room through the cracks in the tunnel door. The room had been clearing, but more haze was floating in from beyond to refill it.
+
+“What is this?” he asked Bog.
+
+From the moment Caleb had chosen the class, Bog had begun his own experience. He was running around the room, his metal claws scrabbling loudly on the floor, chasing something Caleb couldn’t see. It was only after Caleb asked Bog a question that he realized he could see what Bog was chasing. He was trying to bite the tiny flashes of wind.
+
+“Can you see this?” Caleb asked, walking to the drafts coming through the cracks of the door.
+
+Bog ran over and sniffed at them, exactly where Caleb pointed, and then followed the trail of them to the crack, showing he too could see them.
+
+He let out a grunt.
+
+“Well, they’re new to me,” Caleb said. “If it was there the whole time, why didn’t you point it out to me?”
+
+Bog grunted again.
+
+“Well—wait.” Caleb looked away from the wisps to Bog. “How do I understand you?”
+
+They weren’t words, but Caleb could certainly tell the intent behind Bog’s grunts now in a way that far surpassed his interpretations of the dragon’s posture.
+
+“I know you don’t know, sorry,” Caleb said.
+
+More words appeared before his vision.
+
+Sensorium enhancement complete.
+
+Opening pathways…
+
+“Craters!” he cried. He’d forgotten about this particular part.
+
+***
+
+Some time later, Caleb woke to a hot wet scratchy lick to his face. After the message appeared, he’d felt as if his entire body had lit on fire, and only a moment later he succumbed to the pain and passed out.
+
+Everyone did.
+
+When the system unlocked your body’s ability to internalize magic, every molecule of your being felt it.
+
+He was simply glad he hadn’t soiled himself, but he was lying in a pool of his own sweat.
+
+Bog, it seemed, had not been so affected.
+
+“I’m okay,” he told him.
+
+An indicator flashed at the corner of his vision, and he focused on it, bringing a backlog of messages to the fore.
+
+Initialization complete.
+
+Accessing database…
+
+ERROR: Insufficient energy.
+
+ERROR: Omniscience protocols unable to load.
+
+Initializing localized protocols…
+
+Insufficient local data.
+
+Elevating access priority…
+
+Level 1 database access achieved.
+
+Bloodline detected…
+
+Insufficient local data.
+
+Elevating access priority…
+
+Level 2 database access achieved.
+
+Integrating bloodline…
+
+Bloodline integration complete.
+
+“Well, that’s not something I’ve heard of either,” Caleb said.
+
+Everyone got localized protocols—whatever that meant. But if he had “limited database access,” what could that mean? And a bloodline? He’d never heard of that before either.
+
+He knew how to find out.
+
+Status.

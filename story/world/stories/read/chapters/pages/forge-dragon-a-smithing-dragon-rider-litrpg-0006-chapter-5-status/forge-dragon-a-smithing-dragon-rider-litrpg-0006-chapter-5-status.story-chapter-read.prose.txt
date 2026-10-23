@@ -1,0 +1,199 @@
+A familiar screen appeared before Caleb’s eyes, though this one had far fewer errors and question marks on it.
+
+Caleb Kavilson
+
+Class: Dragon Rider
+
+Level: 1
+
+Human
+
+Abilities (+3)
+
+Strength: 8
+
+Agility: 8
+
+Constitution: 8
+
+Perception: 12
+
+Willpower: 12
+
+Acuity: 12
+
+Resources
+
+Stamina: 85/85
+
+Stamina Regen: 0.57 per min
+
+Mana: 40/125
+
+Mana Regen: 1.73 per min
+
+Ambient Mana: Elevated
+
+Active Skills
+
+Mana Manipulation: 1 - Bloodline
+
+Power Attack: 1 - Class
+
+Dragon Bond: 1 - Class
+
+Imperium Metallorum: 1 - Affinity (Metal)
+
+Imperium Ventorum: 1 - Affinity (Wind)
+
+Passive Skills
+
+Mana Sight: 1 - Bloodline
+
+Dragon Bond: 1 - Class
+
+Traits
+
+Caeli Soul: Bloodline
+
+Wind Affinity: Major - Bloodline
+
+Metal Affinity: Major - Class
+
+Caleb let out a low whistle.
+
+“That’s a lot of words. A lot of Latin words.”
+
+Most of the information he’d never heard of. The words of the system had become the words of the world after the arrival of the First Emperor, but for some strange reason, he’d created the system using two languages: the “High Tongue” of Latin and the “Low Tongue” of English. Caleb had learned the basics of the High Tongue, enough to read a status screen, but not enough to converse. In his humble opinion, establishing a new world order out of the ruins of the Impietor’s reign with two languages was rather stupid.
+
+He banished the thought and looked closer at his screen, deciding to start with the simplest skill.
+
+The Power Attack was something some of the Frost Dragon Hunters learned, but no one in his village had any affinities, or any skills having to do with mana. And the bloodline? Well, now he could maybe learn something.
+
+From what his brother had told him, if we focus on an aspect of the status menu, it provides limited information.
+
+Caeli Soul: The blood of the Elder of Winds flows through your veins. You are a descendant of the peak cultivator of the winds. His divine nature influences your own cultivation, providing the following benefits: You gain 2 points for every 1 point you spend to increase perception, willpower, and acuity. You gain 1 point for every 2 points you spend to increase strength, agility, and constitution.
+
+He stared at the words, unable to think of a response.
+
+“That… explains a lot,” he finally said, looking down at his wiry frame.
+
+It had always been a struggle for him to progress physically. No matter how much he ate or how hard he worked out, he never grew at the rate of his brother. Though… why he had this trait and his brother didn’t was a mystery. Caleb had always taken after his mother in appearance and build, while his brother took after their father.
+
+Could that be it? Could this be from mom?
+
+His mother had been an outsider, something that left a stigma even if the clan had accepted her before her conscription. Caleb had never learned of her origins. His father wouldn’t speak of it, but she hadn’t been of the Sky People as far as Caleb believed.
+
+Right? This affinity explains my sense of the wind, though.
+
+Staying on topic, Caleb inspected that next.
+
+Wind Affinity: You have the ability to sense and control the wind. Mana under your control will take on a wind attunement. Mana already of the wind attunement will acclimate to your control much faster.
+
+The description for his Metal Affinity was nearly identical. Curious about his mana pool, he investigated the mana-related skills.
+
+Mana Manipulation: This skill gives you the ability to manipulate the mana of your surroundings, draw it into your pool and use it to wield magic. Your mana capacity increases with your willpower, and your rate of recovery is controlled by your acuity and the ambient level of mana. Both will increase further with your level in this skill.
+
+Mana Sight: You can see ambient mana. This sight is governed by your perception and you level in this skill.
+
+“The gray wispy stuff is mana?” Caleb asked Bog, who nodded enthusiastically.
+
+He looked through his status screen for something that the mana might be useful for. He knew it was granted to those with magical classes, but as far as he could tell, his Dragon Rider class wasn’t magical. Power Attack used stamina. After a while, he found the likely use.
+
+Imperium Ventorum: You can use your mana to exert control over the winds. The ability is based on your level in this skill, willpower, and acuity.
+
+Imperium Metallorum: You can use your mana to exert control over metal. The ability is based on your level in this skill, willpower, and acuity.
+
+“Stupid High Tongue,” Caleb grumbled, trying to recall what the words meant.
+
+The description helped greatly.
+
+He badly wanted to try the metal control and incorporate it into his smithing, but he had to focus on a single task or he’d never get through anything.
+
+Dragon Bond: You and your dragon have bonded souls. As your bond deepens, so will the benefits this feature grants. Your connection creates an empathic link between yourself and your dragon. You and your dragon will share the full benefits of your highest magical affinities. Your cultivation paths are also as one. As you progress, so will your dragon. As your dragon absorbs natural treasures, so too will you benefit. But beware: as you and your dragon soar together, so too will you fall.
+
+“We bonded souls?” Caleb asked Bog—who he’d begun to regret giving such a silly name.
+
+Bog gave the empathic equivalent of a shrug and, having lost interest in Caleb staring at the wall while asking random questions, moved over to snack on a pickaxe.
+
+“What is ‘cultivation’?” Caleb asked the uninterested dragon.
+
+He knew what the word normally meant, but in the context of the system, he had no clue. It wasn’t something he’d ever read about in the clan’s collective knowledge of the system. No class he knew of had it in any part of its descriptions.
+
+“Could this be something from the elevated access priority? Local mode can’t use the word because we don’t know it?”
+
+Not getting an answer from Bog, he went back to his screen and inspected his class description once more to see if the elevated access changed anything.
+
+Dragon Rider (rare)
+
+While typically a lonely road, the path of cultivation need not be taken alone. The trust between men and dragons was shattered with the destruction of the dragons’ home, but not all have given in to the enmity. Like men, dragons are all individuals and walk their own paths to the peak. If a dragon deems a human worthy, they can offer their bond, and if that bond is accepted, their cultivation will become one. As the dragon grows, so does its rider, and as the rider hurts, so does its dragon.
+
+“What in the First Emperor’s name is ‘cultivation’?” Caleb asked Bog.
+
+Bog gave another mental shrug and went back to his chewing. The noise was an awful cracking accompanied by occasional shrill squeaks as the metal rubbed against Bog’s teeth.
+
+Caleb went back to his status screen, hoping to find the answers in another description, but he wasn’t optimistic, as he only had one left.
+
+Power Attack: Draw upon your stamina to swing with extra power. Its strength increases with your strength and level in this skill.
+
+“Nope.”
+
+Then he noticed the (+3) sitting at the top of his status screen.
+
+He had ability points to spend. This was something he’d heard of, and one of the few aspects of this whole process that seemed as expected.
+
+He focused on his strength score and pictured it going up from 8 to 9.
+
+The number changed as he requested, but the free points went from (+3) to (+1).
+
+“What?!” he shouted to the room.
+
+Bog ignored him.
+
+Ding!
+
+Dragon Bond has increased to level 2.
+
+Bog’s head snapped to Caleb, eyes wide in surprise.
+
+“You felt that too?” Caleb asked, then got a nod and an empathic affirmation.
+
+The connection he felt Bog’s intent through had strengthened a fraction.
+
+“For ignoring me? Really? That kind of hurts,” Caleb said.
+
+Bog went back to his snack, and this time no level increase was had.
+
+Caleb went back to his status and removed the point from strength, as it hadn’t been confirmed, then saw his available points go back up to (+3).
+
+He tried the same with agility and constitution, and found the same result. But when he tried increasing perception, from 12 to 13, it jumped up to 14 instead, while his available points only decreased by 1.
+
+Then he remembered his bloodline ability. Compared to the average person, it would take him half as long to increase his perception, willpower, and acuity, but twice as long to increase the rest.
+
+“Well, craters,” Caleb groaned.
+
+Despite all his internal debate about ability points versus skills, he’d really been looking forward to increasing his physical stats. A rare class granted 3 points per level, and if not for the bloodline ability, he’d have quickly seen himself caught up to his peers in strength.
+
+He reviewed his status screen again, trying to see what his class was supposed to do. If he ignored his bloodline, the Dragon Rider class, with its skill Power Attack, seemed intended as a melee combatant. The affinity he gained from Bog drew on mana, but his bloodline granted him his Mana Sight and Mana Manipulation, not the class. Caleb took this to mean magic was meant to be a secondary focus.
+
+But if he put his ability points in physical stats, he’d be wasting points. On the other hand, if he put all his stats in the mental ones, he’d have an extra 6 ability points per level. He’d chosen the rare class in part for the extra stats, so not taking full advantage of them felt wrong. Despite all the strangeness with the bloodline and elevated access, he still felt pangs of regret for not picking the Blacksmith class.
+
+He knew it was silly, but he felt like wasting points would be like dishonoring a fallen friend.
+
+Caleb was about to assign the points, but he stopped himself.
+
+“What’s the hurry?”
+
+There were still three options, and he had a lot of abilities to try out. He’d have a better idea where to spend his points after he practiced a bit with his new skills.
+
+The first thing Caleb did was get dressed, as he’d been mostly naked through all of this. Initialization hadn’t increased his constitution at all, and he was still chilly.
+
+Then he stood in the center of the room and focused on his Mana Sight. He’d subconsciously disabled it. As soon as he thought about it, the haze returned, but it didn’t obscure his view as it had the first time. He could see everything as normal, but also see the mana in the air. Neither obstructed, just overlapped. It was like he saw an additional axis.
+
+His view was, however, then obstructed by a new series of messages.
+
+Mana Sight has increased to level 2.
+
+…
+
+Mana Sight has increased to level 4.
