@@ -1,0 +1,151 @@
+Fuck around, find out.
+
+- UWO Specialist Jimmy Novak -
+
+As I walk down the steps toward the castle courtyard, I see a familiar face. Sergeant Brussels. I’m happy to see that fate is not necessarily a mechanic. He stares at me strangely as I walk by, he probably thinks I’m part of the WHA. He’s on my list of potential recruits though. His leadership under pressure is not soon forgotten. I give him a nod as I walk by. Cortez trails to my side, trying to catch up with the stride of my tall armor.
+
+“I said, later.”
+
+“Jimmy, I just need you to know, I’m so sorry, I should have told you… I should have… I’m sorry, will you please just stop?”
+
+“I can’t, we can talk about this later,” my tone is short, not because I’m angry, not really, but because it must be. She’ll understand after this is all over. Before that though, I need to converse with my Goddess… Ulana.
+
+Something I learned at the temple of Jaledi, being in close proximity to a god’s altar allows for communication. I want to know if our plans are in sync, because if it’s not, then she will be upset, which would potentially change my buffs… something I had tried to plan for, but I didn’t have enough scrap essence… maybe I should have recycled that damn bow.
+
+Focus.
+
+My stride lengthens, Mwangi and Dorliac try to give chase next.
+
+“What’s going on,” Dorliac asks first.
+
+“He’s not letting me explain, he… he… I’m sorry Jimmy.”
+
+“Go cool off,” Mwangi says to Cortez.
+
+“I…”
+
+“Go.”
+
+She falls back, and my heart sinks a little, it doesn’t feel good to keep her in the dark.
+
+“You have a plan of some kind?” Mwangi asks.
+
+“Yes.”
+
+“How are you standing?” Dorliac asks, “A blessing? How much longer will it last, I have three mana stones, but I can get more if needed.”
+
+I’m surprised they can keep pace.
+
+“I don’t need it.”
+
+“What happened to you?” Mwangi asks.
+
+“What can we do to help?” Dorliac asks.
+
+“Nothing.”
+
+I can’t even ask them to protect Cortez or each other, Ulana might see that as an endearing statement. I don’t have time to wager any of that. This task, I must do it alone, that is how I planned for it, and that is how I will complete it.
+
+They both stop chasing after me.
+
+“If you need anything, we are here,” Mwangi says as I round the stairwell. The same one that I saw him cast his skill hold the line… where he died… to protect us.
+
+Carry the fucking torch damnit.
+
+“Roger, Sergeant.”
+
+Each step in the stone-arched path underground toward her temple is a measured step. I hear the conversations we had, the fear that leached from our bones. Not this time. This time, I won’t lose her. My hand is shaking when I see the large cave, and my eyes lay on the spot where I held Cortez in my arms as she died. My body trembles, trauma pressing past the logical force of my mind.
+
+Carry the torch… almost there.
+
+The cave is as I remembered it before, a sea of flower-like plants glow with bioluminescence, growing on the walls and high ceilings. As I pass the archway into her domain, I feel her upon my skin. Stone doors slide across the entrance, leaving me alone in her temple. Finally free to remove Aegis. Not free to stop saying the incantations though, it’s not quite where it needs to be yet, but the stack is growing impressive.
+
+Her statue looms above all the others in the cave, just as I remember it. The eyes of the statue glow gold as I approach her pedestal. My knees find the ground beneath her, bowing my head, I see in the fountain the same coin I saw before. I pull it from the water and inspect it. The meaning is clearer now than it was the first time I read it.
+
+In defiance of fate, one shall rise. The seventh of six. The cosmos shall tremble at their ascension. The path has been laid.
+
+I stare at the coin, “Quite the path you’ve laid, Goddess.”
+
+The air rustles softly, and I hear her voice enter my mind.
+
+You carry so much, you must learn to release it, else it will consume you.
+
+My jaw flexes at her words. I will release it soon. Not yet though, it focuses me, drives me. There is no strangeness in her tone, no lustfulness, no obsessive words, she is nothing like the notes that she leaves. It’s peculiar but not entirely unexpected, I have a theory about the notes they leave.
+
+“I think I know why you chose me, and I think I understand what you want me to do next, and I will do it. However, I want something in return.”
+
+The statue looks down at me.
+
+Do not speak it where other ears might hear it. There will be a time that we can converse. Do what you think is right, you have my blessing, champion.
+
+“Understood, Goddess.”
+
+I move to place the coin back into the font, and just as I’m about to drop it, she speaks again.
+
+Twice I have left it for you, do not leave it again, for I will not offer it a third time.
+
+I roll the coin over in my hand, is there is something special about it? Peering up at the statue, the eyes grow dim. Her presence leaves me. What is this coin? Part of her plan? Abyss doesn’t seem interested in it, which makes me even more interested in discovering its purpose.
+
+Sliding it into the pocket of the clothes that Fisban’s faction gave me, I ready myself for what is next. The release comes soon. The Aegis armor shapes around me, the stone doors retract and I begin my long walk back to my destination. Thoughts pass the time as I repeat the incantation.
+
+The Witherbrand class base skill is balanced by the fact that luck is a factor in its activation, and so is the insanity debuff passive skill. However, given a large number of brands, one doesn’t even need luck to activate them, so the class was balanced again, if a target is extinguished while brands are active, those brands are not returned. This prevents a Witherbrand from stacking thousands over and over without losing sizeable amounts when a target is finished. There are two skills that I find unbalanced though, ones that I suspect may receive a closer look once I exploit them. In my skill menu, I pull them up.
+
+[ Skill: Convergence of Decay ]
+
+[ Usage: Allows the user to manipulate brands after application. ]
+
+[ Effect: Allows the user to direct all applied brands to a single target. ]
+
+[ Cooldown: 72 hours ]
+
+[ Activation: Intention. ]
+
+[ Cost: None. ]
+
+Most of the implications for this are clear, you could stack whatever level your level is on different targets during a long battle while your allies keep the enemy at bay, then apply all of them to a single target. However, I discovered something, something that is probably not an intended use. I pull up the other skill that has caused my plan to be possible.
+
+[ Skill: Wither Charge Reclamation ]
+
+[ Usage: Allows the user to convert non-expended Brands of Withering back into Wither Charges. ]
+
+[ Effect: Exchange. ]
+
+[ Activation: Spoken. ]
+
+[ Incantation: That which has been… shall be again. ]
+
+[ Cost: Chance to release Charge without converting. ]
+
+Converting brands back into charges, that’s interesting. The skill doesn’t allow you to break the hard cap on your level, not by itself. My maximum amount of charges held is currently twenty-five, like my level. That’s the intended balance that the system made to prevent a Witherbrand from holding infinite amounts. A truly devious Witherbrand could have decimated a world and harvested all the charges. With enough charges, you could kill something rather quickly, it’s all probability. Ten thousand charges will have some activate much faster than one hundred. There are outliers obviously, but probability averages itself.
+
+I don’t think anyone intended for a Witherbrand to brand themselves though, the implication is obviously very problematic for a high-level Witherbrand with high luck. I’m neither high leveled nor blessed with high luck. Even with my high luck near a hundred before, the brands took a long time to activate. I had a question, what would happen if I applied a brand to myself and then converted it to a Wither charge...
+
+There is some loss between activations, the chance to release a charge without converting is roughly one percent. It turns out that there is a hard cap for the amount of brands that I can apply to my own body, it is equal to the number of charges that I can hold, minus my current Wither Charges. Right now, I have quite a few ticking away. Each time I turn that brand back into a charge with the incantation, that’s technically a skill usage… each time I turn a charge back into a brand, it’s another skill use, a near-perfect loop of skill casting. Stacking skill uses… now, imagine you had an item that benefited from that. Say, 1% increase in damage per stack.
+
+It’s hard not to grin, not when I see the potential of it all. Keep stacking. The finale is coming. There’s still two more tricks up my sleeve. Ones they won’t see coming, even Sage doesn’t know what I’m going to do.
+
+After passing Cortez and the others, and ignoring Colonel Greymore’s orders to stop, I find myself at the Gate again, stacking near endlessly using all the undead and the soldiers that perished. Even the Wendigos become charges.
+
+Meatsack, I know you think you’ve done something clever, and my hats off to you, it’s quite impressive… but fighting against the gods and playing into their traps always has one outcome for mortals. If you want to survive you should run to the other side of the world and find a deep fucking hole to hide in.
+
+“I’m fine right here, Sage.”
+
+I suppose I will enjoy watching you try to circumvent that. Again, for the record, my prediction is a near 99.999999999999999% chance of unequivocal failure and a humiliating death while watching those you care for die, and that’s if you don’t destroy yourself in the process of doing whatever the hell you’re doing.
+
+“I still like my odds,” I grin.
+
+Your confidence is surprising, considering you’re wearing that sanity-strengthening item that Abyss stole from Jaledi’s temple.
+
+“Care to make a bet?”
+
+What’s the wager?
+
+“I beat your odds, you tell me one thing that I ask, even if it’s forbidden.”
+
+What do I get in return?
+
+“The satisfaction of knowing you were right,” I say, rolling my neck, “Or did you need more than that?”
+
+Interesting.
+
+“I’ll take that as a yes.”
