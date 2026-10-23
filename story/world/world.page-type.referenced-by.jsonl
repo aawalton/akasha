@@ -39,6 +39,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/blessed-by-death-an-archmages-second-life-op-mc/blessed-by-death-an-archmages-second-life-op-mc.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/blind-chaos-tales-beneath-the-dragoneye-moons/blind-chaos-tales-beneath-the-dragoneye-moons.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/blood-bath-and-beyond-crafting-litrpg/blood-bath-and-beyond-crafting-litrpg.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/blood-reaper-an-isekai-vampire-fantasy-litrpg/blood-reaper-an-isekai-vampire-fantasy-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/blue-boxes/blue-boxes.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/book-1-complete-to-devour-the-crawling-gods-eldritch/book-1-complete-to-devour-the-crawling-gods-eldritch.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/bookbound-bunny/bookbound-bunny.world.ts","typed":true,"deferred":false}
@@ -207,6 +208,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/relative-reality-a-time-mage-litrpg-stubbed/relative-reality-a-time-mage-litrpg-stubbed.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/respec-on-death-book-two-complete/respec-on-death-book-two-complete.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/restoration-of-aerthis-a-cozy-slow-burn-world/restoration-of-aerthis-a-cozy-slow-burn-world.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/return-of-the-s-rank-hunter/return-of-the-s-rank-hunter.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/rise-of-the-devourer/rise-of-the-devourer.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/rise-of-the-dragon-queen-evolutionprogression/rise-of-the-dragon-queen-evolutionprogression.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/rise-of-the-living-enchantment-litrpg-regression/rise-of-the-living-enchantment-litrpg-regression.world.ts","typed":true,"deferred":false}
