@@ -1,0 +1,81 @@
+Watching the swampy marsh turn into dry, solid earth was more satisfying than he would have thought. Leonard was almost reminded of those videos he used to watch before falling asleep. It was a fleeting thought that belonged to a different life.
+
+“Strangely satisfying… No, oddly satisfying. Yes, that was it.”
+
+Jean quirked a brow at his muttering but knew him well enough to comment on it. “Some people would consider this a massive waste of mana, you know?” She commented instead.
+
+“Some people would still be stuck in the swamp or in a neat column on the only road, where they’d be sitting ducks if Treon’s Air Force decides to finally enter the field.” He answered back, still staring ahead, seemingly without seeing anything.
+
+“As far as I know, the bulk of the loyalists are still in the north-east. What’s the hurry, Leo?”
+
+“Amelia is pretty sure Count Pollus has already realized the con, and it will be a matter of days before he understands she’s too entrenched to defeat quickly. He’ll leave behind a force large enough to keep her trapped and rush over here.” Leonard explained. Frankly, Amelia had more than delivered on her promise, and he felt that wasting the time she had gained would be a very poor surprise to welcome her back.
+
+“Is that why you told me to stop manufacturing the reinforced carriages? I did think it was a bit odd, with how well they performed…” Jean murmured, tapping a finger on her lips. As always, she had an umbrella hovering above her, protecting her fair skin from the sunlight.
+
+The mage corps continued in their task before them, drying vast swaths of swamp and smoothing out the path for the army. Fire spells made ad hoc for the occasion by Jean, water mages directing the flows of muddy waters away from the slowly emerging road and earth mages to compact the path all worked in unison. It was a far sight from how they had operated so far. It was obvious that while he and Amelia had managed to build a proper starting point, a real Archmage was needed to sculpt them into something extraordinary.
+
+The rate at which innovations and useful artifacts emerged from the Revolution’s forges was also astonishing. Leonard had known Jean would be a force multiplier with her visionary understanding of magic and ability to train new casters quickly, but she had still exceeded his expectations. He didn’t like leaning on her too hard, especially since she was still busy organizing the orphans she had brought along, but she was just too useful.
+
+“The armored carriages are very useful to quickly conquer new towns without the need for lengthy and arduous setup operations, and we’ll certainly need them once more after we have taken Treon and start marching toward Hassel, but for now, they are superfluous. General Locke had more than enough time to entrench himself and yet decided to send his most mobile men all around the region, trying to deny us recruits. The confrontation is inevitable at this point, no matter how much he might want to avoid it.”
+
+Jean turned to face him, finally realizing something else was going on. “Oh, do you have an active spell? Wait, is that divination magic?! How have you made it this subtle?!”
+
+The girl’s enthusiasm was almost enough for Leonard to lose focus, but he managed to steady his spell at the last moment and found his target with the last sweep. “There you are.” He murmured, satisfied. Then, to Jean, “I was inspired by our new divination division. They are doing great work, mostly by studying the subconscious talent of a kid Amelia picked up and developing it into specific spells. You should give their work a read. It’s fascinating.”
+
+A wide smile overtook Jean’s features, and her eyes started to sparkle, “Oh, I’m definitely gonna do that as soon as we are done here.”
+
+“Yes, I’m also looking forward to that. But for the moment, we need to take care of something. I have found the royalists’ staging ground.” Jean’s smile turned more devious at that, and Leonard found himself matching her anticipation.
+
+It took more than Leonard would have liked. A lot more. It turned out that people had problems with their head of state going off on his own, no matter that he was more than capable of handling the entirety of the local royalists by himself. Still, Leonard knew how to choose his battles. He had sent a group of eager young men ahead, giving them all the relevant coordinates, and set about organizing the remaining troops so they could follow in case something went wrong. Jean took the time to skim the research he had brought along.
+
+Already him taking his leave from the main camp was pushing it, especially with Jean at his side, but Gerard was more than capable of directing the army without him breathing on his neck.
+
+In the meantime, he spent the wait time explaining to Jean the new divination spell that his men had worked out. Knowing just how deeply she had delved into the specifics of spell creation, Leonard didn’t bother editing his words and simply walked her through what he knew.
+
+“Divination has always been a bit of an art form, reliant on the caster's intuition and innate talent,” Leonard began, his voice steady as they walked around the camp. “But David’s subconscious talent—he has the fortune of being a true seer, which even the main temple in Mellassoria cannot boast—was something we knew we had to replicate. What the divination team did was remarkable. Using Amelia’s initial observations and data as a base, they deconstructed his abilities into a set of increasingly difficult spells, requiring some knowledge in mathematics, probability, and geometry. We haven’t yet managed to cast a true future sight, as it becomes exponentially more expensive the further away we try to look, but what we have is already changing the game.”
+
+With a self-deprecating chuckle at her deadpan look—Jean knew perfectly well he was an unending wellspring of mana—he admitted, “I can technically look into the future if I really go for it, but it requires a ridiculous amount just to know what will happen in an hour, much less a day. We think David’s talent touches into a different mechanic we haven’t isolated yet to circumvent this.”
+
+Jean nodded, her keen mind already piecing together the principles. “I’ve gone through their early papers but haven’t managed to start the practical bits. They mentioned using complex arithmetic to model the probability fields—something I didn’t even know was widely known outside Mellassoria’s Magic Tower, by the way. Is that what we’re dealing with here?”
+
+Leonard smiled, impressed as always by Jean’s quick grasp of concepts. “Exactly. By mapping out the nightly visions, they created a spell matrix that rapidly goes through possible locations based on known variables. There is a bit of sensory magic to locate specific signatures that speeds things along, but it’s marginal compared to the accurate predictions that lead there.”
+
+“Ah, I see. So you’ve basically extracted the understandable basics of this seer’s ability and plugged the gaps with already-proven magic. It might not be future sight, but it’s far above any other proprioceptive magic I know.” Jean’s eyes were sparkling now, showing just how much she enjoyed this kind of work.
+
+Leonard proceeded to sketch the spell matrix with a touch of Light, allowing her to get a good look. “The basic work is Amelia’s. Apparently, it’s surprisingly similar to summoning magic.”
+
+Jean’s grin widened as she examined the spell. “So, it’s almost like a rudimentary mind. It can adapt and receive a ton of information without buckling. That’s brilliant. It takes the guesswork out of divination and makes it something you can teach and standardize.”
+
+Leonard let the Light go and gestured for her to take a crack at it. Most people would hesitate to experiment with such complex magic, especially without much practice, but Jean didn’t let that stop her.
+
+She closed her eyes briefly, then opened them, her gaze sharper and more focused. “I see… it’s like the spell is building a map in my mind, pinging the most probable locations.”
+
+She frowned slightly, thinking hard. “But it seems inefficient. The search matrix is trying to cover an area that is too broad. What if we refined the variables more precisely? We know we are looking for mostly male humans with above-average mana reserves. We should be able to filter a lot with just a small adjustment.”
+
+Leonard’s smile widened. “That’s exactly what I hoped you’d say. I’ve been thinking the same thing. I have fiddled with incorporating more data myself, but I haven’t had the time to get it working automatically and had to do that part manually.”
+
+Jean deftly drew the spell’s structure with her mana, as if she hadn’t just seen it for the first time. “There’s another thing. The current matrix relies on us knowing what we’re looking for. But I remember the paper implying the nature of future sight gave automatic filtering. If we can implement even just that mechanism, we might end up with a real beauty.”
+
+Together, they spent some time going over the spell’s matrix and refining rough patches. It was exciting work, and time passed quickly enough that Leonard was surprised when the shadow he had tailing the strike force alerted him that something was happening.
+
+He quickly turned away from their intricate spellwork, his senses prickling with unease. He cast the newly enhanced divination spell and, in short order, was peering intently at the men making their way through the swamp. What he saw made his jaw clench.
+
+This is on me. I should have known better than to send them without anyone who could handle a real threat.
+
+The soldiers, eager and full of bravado, had been led in circles around a particularly gnarly part of the marsh. Leonard's spell highlighted the dangerous creatures lurking in the murky water around them, their eyes gleaming malevolently in the dim light. Several men lay still, either dead or gravely injured, victims of both the treacherous terrain and the beings that called it home.
+
+"Dammit," Leonard muttered under his breath, his jaw clenching tightly. He widened the spell's focus, searching for the source of the trouble. It didn’t take long for him to find it. Further west, through the thick foliage and beyond a deceptive tangle of muddy plants, he saw him, the one man he had hoped would desert the call to arms: Luke Smith, an Expert-tier soldier and a man Leonard knew all too well. His strategic mind was second to none, and Leonard could see the telltale signs of his handiwork in the strike team's predicament.
+
+They had met and fought together against the Void, and while Leonard was by far superior in personal might, he had a healthy respect for the man’s sharp mind.
+
+Luke stood on a slight rise, overseeing the chaos with grim satisfaction. His posture was relaxed, confident—too confident. Leonard’s blood boiled. How easily his men had been outplayed, maneuvered into a death trap by someone who knew the swamp's every twist and turn.
+
+Leonard had known it was likely they’d meet again. The other man was simply too talented to fade away, but he had hoped for it to be under better circumstances. Ideally, he’d capture him and offer a position in the revolutionary army’s command, where his intellect could be put to better use.
+
+Unfortunately, it looked like General Locke had gotten to him, and seeing that he was far away from the main army, had likely given him control of the disruptive operations meant to keep Leonard away from Treon.
+
+Almost as if his anger was enough to transcend space, Luke abruptly turned away from the scene, staring at the sky as if he had felt something looking down.
+
+By then, Leonard had already returned to his body, unwilling to waste precious time. The spell’s energy dissipated forcefully, leaving a faint shimmer before fading. His voice, usually measured and composed, resonated with a forceful authority as he enhanced it magically to carry across the clearing. "Break camp! Prepare to march west immediately!" The command echoed through the air, startling nearby soldiers into swift action.
+
+Leonard's eyes blazed with Holy Light. "We’re moving out now! The time to fight General Locke's army has come!"
