@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0053Chapter49NotAFriend =
     },
   ],
   createdAt: "2026-10-22T16:49:20.256Z",
-  updatedAt: "2026-10-22T16:49:20.256Z",
+  updatedAt: "2026-10-23T03:46:17.717Z",
+  ownProgress: 2145,
+  progressedAt: "2026-10-23T03:46:17.717Z",
 } as const satisfies StoryChapterRead
