@@ -1,0 +1,235 @@
+Time slowed as Logan’s new Meditate perk kicked in, but it didn’t stop. It was burning through his mana and the thug’s knife was already piercing Logan’s skin.
+
+The moment stretched thin, like glass on the verge of shattering, his breath caught somewhere between his ribs. Once again, Logan viewed himself from the outside looking in.
+
+There was no stepping back, no graceful dodge. The sheer weight behind the attack had guaranteed the blade would connect. Even with his accelerated perception, Logan couldn’t change that, and he had already burned through most of his mana with his Null Pulses.
+
+But in the few remaining slowed moments he had, he could try to prevent the damage from turning lethal.
+
+Logan twisted sharply, pivoting his torso just enough to avoid the blade sinking straight into his heart. If he could make it glance off his ribs without severing any arteries, it might be shallow enough to survive. At the same time, he pressed his forearm against the thug’s elbow.
+
+The plan was working! As long as Logan had the finesse granted by slowed time, he had the advantage. He forced the thug’s arm to bend awkwardly to reduce his leverage, diverting the blade to drag sideways across muscle instead of stabbing deeper. A little further and he could restrain the attacker.
+
+Mana depleted.
+
+Time snapped back, feeling like double-speed after the extended slow-mo.
+
+The thug was already countering, twisting his wrist and dragging the blade downward. The cut would disembowel Logan! Without thinking, Logan clamped his arm down on the thug’s wrist, pinning the knife into his rib to stop it from carving his innards, then drove his knee into the thug’s inner thigh to destabilize him. Through the stabbing pain, Logan slammed the elbow of his free hand into the thug’s throat.
+
+The assailant reeled backward with a choking sound, but he wasn’t out yet and his grip on the knife stayed tight.
+
+Before the enemy had a chance to recover, Logan grabbed the thug’s own knife hand in a blind rush and used the thug’s downward momentum against him, forcing the blade back up under his ribs. He clung to the man’s back with a hand wrapped around the front in the world’s worst prom pose, then grabbed his elbow with the other hand, keeping pressure on the thug’s wrist.
+
+Finally the bucking brute slowed, and the strength drained from his arm.
+
+You have killed a level 17 Human! Experience gained!
+
+You are now level 11!+1 END, +2 DEX, +3 INT, +4 PER, +2 WILYou have 20 free stat points.
+
+Logan wrenched the knife free and shoved him back.
+
+In his HUD, his health bar showed 65 points remaining.
+
+It dropped to 60, then 55.
+
+Nonononono!
+
+Beneath the bar, the bleed icon flashed.
+
+Status Condition:
+
+Bleeding (Critical)
+
+He clamped his hand to the gash in his chest, but the blood poured through his fingers, warm and unrelenting.
+
+I am not dying here.
+
+Forcing his mind to steady, he dropped into Meditate. Time stretched again, not as drastically, but enough to dull the pain and slow the pulse of his blood loss. He was no longer multi-tasking with Meditate, so it didn’t burn mana (which was at 0 anyway).
+
+But he was losing blood at an insane speed compared to his regen rate. He knew it wouldn’t save him, but it might give him just enough time to find a solution.
+
+To survive.
+
+He had never used the two health potions in his adventuring pack, so he quickly downed them. His health rose, but then stalled out; in his panic, he had completely forgotten something Cassandra had told him about needing to take at least fifteen seconds between potions otherwise the second one’s effects were wasted.
+
+Lesson learned, but he couldn’t waste a second scolding himself. He was on the ground beside the wagon’s loot pile.
+
+A loot pile that might have enchanted items.
+
+Analyze.
+
+Fortunately, the System didn’t consider this as multi-tasking, and it didn’t trigger any mana consumption.
+
+Name: Copperfish PendantType: AccessoryLore: A small, poorly crafted fish-shaped pendant made of tarnished copper.
+
+Name: Bent CoinType: ItemLore: A warped and dented coin from an unknown kingdom, useless as currency but occasionally flipped for tough decisions.
+
+Name: Hollow FangType: AccessoryLore: A dull, brittle fang with a tiny hole through its center to slip rope through.
+
+Dammit! Either his Analyze and Intelligence didn’t work well enough to detect enchantments, or these items simply were unenchanted. This pile was the discarded pile… what about the other stack of items that the bandit duo had set aside for collection?
+
+Name: Wooden Worry BlockType: ItemLore: A smooth, thumb-sized piece of wood with an indentation from years of absentminded rubbing.
+
+Name: Tanglecord PuzzleType: ItemLore: A circuitous length of knotted rope that seems impossible to fully untangle.
+
+Name: Ashwake EmblemType: ItemLore: Forged in the heart of Emberholt’s deepest volcano, this emblem carries the lingering essence of flames long extinguished. This item bears an enchantment that triples the intensity of a heat source.
+
+Yes! I can detect enchantments! That enchantment was useless in this scenario, but Logan didn’t dwell on that. Instead, he would keep searching.
+
+By the time he dragged himself to the next pile, his health plummeted to 10%. This would be his final stack before his health hit zero.
+
+Logan scanned a pile of shirts, but none bore enchantments. Determined, he rifled through them.
+
+When he uncovered a small pile of bottles, his heart leaped, which was painful considering how much blood he was losing.
+
+Name: Minor Health PotionType: PotionLore: It’s not much, but it’s better than a bandage.
+
+He guzzled the three potions in quick succession, waiting the fifteen seconds in between and not a moment longer.
+
+He rechecked his total.
+
+Health: 97/166
+
+The potions apparently did nothing for bleeding, because that quickly fell to 92.
+
+I still bought myself time. Stay. Focused.
+
+A glint of light pulled his eyes to the wagon’s wooden railing, where a red-gold medallion dangled from a thin chain. At the name alone, he stopped meditating and rushed for it: the Amulet of Bleed Immunity.
+
+He seized it in his fist and donned it immediately with a breath of relief.
+
+“I. Am officially. The luckiest son of a bitch in the world. In any world!”
+
+Health: 67/166
+
+Status Condition:
+
+Bleeding (Critical)
+
+“What? What!”
+
+He grasped the medallion in his fist and held it at arm’s length, chain still securing it to his neck. Was wearing the enchanted amulet not enough? He did a full Analysis.
+
+Name: Amulet of Bleed ImmunityType: ItemLore: This red-gold medallion has been blessed by the priests of Razan to prevent its wearer from suffering the the loss of the sacred gift of blood. This item bears an enchantment that requires the Life affinity. Most things related to Razan do.
+
+His heart sank. “And I have a stupid Void Affinity.”
+
+Analze is level 24!
+
+So much for luck.
+
+Warning! Attunable affinity detected.Due to your Exalted Kin ancestry, you have a Rotational Affinity and may cycle one affinity per day.Would you like to attune to the Life affinity?YES/NO
+
+With his health at a wilting 42 points, Logan gawped at the System prompt. Why did it label that as a warning? That was life-saving!
+
+You have assumed the Life affinity!Penalty: Void affinity lost. You may not use any Void-aligned skills that require mana until your Void affinity is restored.
+
+Logan’s primary focus was on the bleed icon. With breath-catching anticipation, he watched it vanish. The blood immediately stopped pouring from his chest, and his natural regen rate kicked in.
+
+He collapsed to the floor in relief and meditated. The sensation of raw mana bouncing inside him he experienced under the Void affinity was replaced with a different feeling. That energy still existed, but now it pulsed in a steady rhythm. Energy was returning, and even after he felt great, he kept meditating, basking in the calmness.
+
+Until someone kicked his foot.
+
+“Think he’s dead?”
+
+Logan cracked his eyes open at hearing the fiddler’s voice and caught the man bent over, preparing to slide Logan’s interdimensional storage bag off his shoulder.
+
+“Oh! Uh, hey! Great to see you looking, um, alive.” The fiddler patted the bag. “This looked uncomfortable. I was just adjusting it for you.”
+
+“Uh-huh.” Logan took a breath and then hoisted himself to his feet. He felt on top of the world, and all three of his bars were back to full. The biggest bummer was his temporary loss of access to his Void skills. Curious, he checked his screen.
+
+Null Pulse and Unrelenting Hunt both consumed mana and were currently inactive. But the Interdimensional Storage Ripple was a utility skill, and it still shimmered in the corner of his vision. Mariv had said the Void requirement was only needed to read that skill book, not to access the storage.
+
+“Well," Logan said, "I’m glad to see you’re both safe and ali—” His voice caught as he glanced backward at the fallen thug.
+
+Did I just… kill a man?
+
+For a moment, Logan could imagine that had happened to someone else. He felt rested, energetic. There was bruising on his ribs, but nowhere near as bad as it could be for having just battled for his life and taken a near-mortal wound. He should be sitting in a hospital bed, waking up from a coma after ten days.
+
+A stinging memory crashed into Logan, bringing with it the scent of sterilized bedrooms and anesthetics. He sat stiffly in the vinyl chair, pretending to be invisible while scrolling through social media as his father argued with the doctor. After an entire football season without catching a single ball, his father couldn’t believe Logan’s incompetence was normal, so he had taken him to see a specialist. The test results showed nothing wrong, but his father refused to believe it. That ranked among the three most embarrassing moments of Logan’s life.
+
+He cleared his throat. “Alive.”
+
+“We owe it to you,” said the drummer. “Please, take your pick of any accessories.”
+
+The fiddler gave her a look. “He’s already wearing the Amulet of Bleed Immunity.”
+
+“Don’t be stingy,” said the drummer. “You saved two of us, so take a second item of your choosing.”
+
+Logan was in a weird mental space, but this provided him a welcome distraction. If I didn’t kill that guy, he would have killed me. It had definitely been in self-defense. Even back home, that would have been acceptable. He shoved the thoughts away and looked over the items.
+
+He passed over a ring that let him overhear conversations as long as they were about root vegetables and an orb that emitted a soft ticking noise that got louder the longer someone stood still. There were gloves that reduced the impact from punches and halved physical strength, and a locket that randomly recalled childhood memories of unknown persons once per day. None of this stuff sounded worthwhile in the slightest.
+
+There was that one item he had seen earlier, though. The Ashwake Emblem that tripled a heat source. While he didn’t have an immediate need for it, Cassandra still had those frostfire elemental cores. If he could convince her to give him one, and if that ended up giving him a fire-type spell, suddenly that item sounded very appealing.
+
+It didn’t take long to weigh his options.
+
+“Here you go,” said the drummer, handing him the Ashwake Emblem.
+
+It didn’t have a chain, but it did have a small clasp, so Logan attached it to his amulet’s chain.
+
+Quest Complete! Discover what happened to the bard caravan.
+
+“Now,” she continued, “let’s finish off that goble.”
+
+Logan yanked her elbow as she headed toward the wagon. “What? No!”
+
+She and the fiddler both jumped back at his sudden volume.
+
+He clenched his eyes shut. “I just... it’s... I...” The thoughts assaulted him again. He just killed somebody in self-defense, but this was another matter. Maybe the goble would have tried the same thing, but it couldn’t do anything while locked in the wagon’s undercarriage.
+
+“Look, I’ll bring the goble back with me to Farrowstead, all right? You don’t have to worry about him. All I needed was a lute string in the first place. That’s what sent me here.”
+
+She tugged her elbow free with a baffled expression. “Okay, easy. But that,” she said, pointing to the lute Logan had smashed against the thug’s face, “was our only spare.” Then, with greater sorrow she regarded her drum. “And we only had one bongo.” She spat on the fallen thug’s body. “If you and your pesky goblefriend had just gone a little further, you would have found the Cave of Cursed Music on your own and not have run into us.”
+
+Quest updated! Retrieve spare lute strings from the Cave of Cursed Music!
+
+Logan blinked at the screen. It wasn’t worth being surprised over at this point. “How much further?”
+
+“Huh?”
+
+“To the Cave of Cursed Music.”
+
+“Maybe five minutes north. Why?”
+
+“I need lute strings. Maybe I’ll find some there.”
+
+She laughed, then tapered off. “Wait, you’re serious?”
+
+“Sure,” Logan said with a shrug.
+
+The fiddler snickered. “That place has been scoured by tons of adventurers. The Boundary runs through half of it anyway.”
+
+Now Logan really perked up. He was absolutely going to find his lute strings if half the cave was untouched by everybody, but fully available to him.
+
+Since the bards had to repair the wagon anyway, they agreed to wait for him to check out the cave, but they insisted he take the goble with him back to Farrowstead on his own. After that, they pointed him in the right direction.
+
+Just before he took his first step, he paused. His interdimensional storage ripple glowed gold, and a necklace in a pile of tossed debris caught his eye. It wasn’t enchanted and so he hadn’t noticed it earlier.
+
+But it looked familiar.
+
+He reached into his pack and pulled out the amulet he had seen outside Gnashridge Heights, buried among the rocks where that chicken had hid from the Warpincer Raptors. The other amulet was almost identical, save that the pattern on it was inverted.
+
+He bent down to pick it up, but the drummer stopped him. “Hey. We already gave you an accessory.”
+
+“Two of them,” inserted the fiddler, but the drummer ignored him.
+
+“We can’t give everything away.”
+
+Logan wanted this amulet, and he didn’t think the lucky dragon egg would be pleased with him if he didn’t get it. “Fine, you can have the Ashwake Emblem back. It’s probably worth more than this anyway.”
+
+The fiddler seemed to consider Logan’s words, but the drummer slapped the back of his head. “Deal’s a deal, and that’s final.”
+
+Logan blew his hair. “What if,” he said, “I get you another bongo?”
+
+“From the Cave of Cursed Music?”
+
+“From the Cave of Cursed Music.”
+
+She laughed and shook her head, as if befuddled. “Yeah, why not? Just be back before sundown.”
+
+Mishki frowned at the cry for help that carried through the hive mind.
+
+…locked me in a wagon’s undercarriage outside Farrowstead. I just heard them say the Cave of Cursed Music is nearby, and the Boundary runs through half of it. Please, send someone to free me!
+
+The warlock’s return voice carried over. We know the spot and have a team of gobles nearby, my child. It shall be so.

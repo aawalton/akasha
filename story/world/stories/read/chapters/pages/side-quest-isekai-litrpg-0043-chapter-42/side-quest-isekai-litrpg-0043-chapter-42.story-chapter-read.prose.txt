@@ -1,0 +1,223 @@
+A shadow blurred through the air, its talons raking across the edge of the ward. Cassandra gasped, the structure flickering as she fought to hold its shape.
+
+Logan cursed. What were these birds even doing down here? He needed a refresher on the creature, so he Analyzed.
+
+Name: Warpincer Raptor (Destabilizing)Type: BirdLevel: 67Health: 492/492Mana: 85/105Lore: Its name comes from its powerful clutch and its ability to concentrate force and war mana into temporary extensions of its razor-sharp talons. Apparently they occasionally push people off cliffs if it will impale them on jagged stones. They definitely like things getting stabbed. Due to extended exposure to scarred mana fields, this creature is undergoing a corruption into a demimonster with affinity enhancement.Strength: Extended piercing rangeWeakness: Decreased Agility
+
+Analyze is level 26!
+
+He balked at the level. That was insane for this area, wasn’t it? Or was that only on the other side of the Boundary? And the destabilizing status didn’t sound good. Mariv had mentioned beasts in his homeland getting corrupted and becoming monstrous hybrids. At least its movements were familiar. Just because it was stronger, it still relied on the same tactics as the raptors he had defeated before. And there were three of them.
+
+“Alden, keep them occupied! Force them in a tight group. Bromlin, Senna, don’t let them get too close to the ward. They can extend the reach of their talons. I’ve seen it at lower levels, and I assume these have further range. I don’t know what this Life corruption is, but I assume it has to do with the Life affinity.” The idea of war mana and the Life affinity imbued Logan with dread.
+
+Bromlin hefted his axe and growled at the birds. “If they come close, they’ll get more than a clipped wing.”
+
+Logan activated Aetherlens and Meditate, but didn’t start fighting yet to avoid his Meditate skill needlessly burning mana. Instead, he watched for the right opportunity.
+
+Flashes of blue frost mana lit the air as Alden used his newest skill. The animals hit into panels and rebounded, which worked well to keep them from coordinating their efforts. But Alden could only create one panel at a time, and his brow was knit tighter than Logan had ever seen the elf glower before.
+
+Still, he was using the new Permaflect skill beautifully, and when he corralled them into a tight knot, Logan pounced.
+
+Eldertread!
+
+He launched himself off the ward and up into the feathery throng. The birds suffered from decreased Agility, and Alden’s efforts seemed to distract them, along with disorienting powder flashes hurled at them by Senna.
+
+Logan plowed into the first one, his claw meeting its talon as he deflected a strike and raked it with his gauntlet. Right before hitting, he activated Meditate just long enough to slow things down and strike true before releasing the skill.
+
+Parry is level 4!
+
+Aerial Combat is level 10!
+
+Eldertread!
+
+He kicked off his prey and rammed into the next bird, sinking his fortified gauntlet into the puffy bed of feathers until he felt warm blood splatter against his forearm. With his claws inside the avian’s flesh, he swiped and yanked them free, sending a flurry of shorn plumage into the air.
+
+Eldertread!
+
+Gauntlet Mastery is level 14!
+
+Aerial Combat is level 11!
+
+Three more bounces he took, gaining more strength with each one and dodging talons that pulsed with gathering force mana before one finally connected. The creature dug a gouge into his arm, and it was a matter of quick maneuvering that kept Logan from losing his limb completely.
+
+The pain wracked Logan, and if not for his Bleed Immunity amulet, he was certain he would have suffered the affliction. Although no blood poured out, he could see straight to the bone beneath his bicep. He couldn’t swing his gauntlet with that arm in this condition, so he pinballed himself down toward the ward. By the time he noticed a raptor between him and his goal, it was too late.
+
+He collided into its chest, both of them surprised.
+
+The one who was ready for it, though, was Bromlin. The bird exploded in a burst of feathers and blood as an axe swung through its neck. It collided with the ward, which shuddered and earned a grunt from Cassandra, but Senna shoved the carcass off the edge, where it spiraled in a freefall, stray feathers floating in its wake.
+
+“Cutting it pretty close there,” said Logan, swallowing hard. That axe had almost taken his own neck, too.
+
+“Nah, I knew you were there. And looks like we have more company! Give me a boost like you did for Alden’s earth spikes earlier!”
+
+Before Logan could say no and that he needed to conserve mana, Bromlin raised his axe overhead. He was set up to meet the next bird head on.
+
+Invigorating Flame!
+
+Bromlin’s battlecry was so loud, even Senna had to clamp her ears shut.
+
+The gemstone in his axe flared a brilliant copper, and then a shearing blade extended from it and arced toward the bird, which tried to redirect itself midflight.
+
+It failed, and the wave of War energy split the bird in half.
+
+Invigorating Flame is level 7!Invigorating Flame is level 8!
+
+The last raptor dove in, its hooked beak aimed straight at Alden’s head this time.
+
+Logan tucked his bad arm into his body and kicked off the platform, intercepting the attack.
+
+With Logan sheltering his arm, his weight was off kilter, causing his trajectory to corkscrew. He used that to his advantage, his gauntlet blades flashing as they sliced the bird across the side.
+
+It squawked in pain and flapped away, leaving Logan no way to propel himself back to the ward. But then a shell of ice formed in the air, which had to be Alden’s doing.
+
+Logan kicked off it, it giving just enough resistance to redirect him, while simultaneously driving shards of ice toward the bird, which were followed up by two spreading splotches of Alden’s necrotic plague.
+
+The bird swerved in a parabolic arc and then plummeted into the darkness.
+
+Gauntlet Mastery is level 15!
+
+You have helped kill a Warpincer Raptor x3! Shared experience gained!
+
+You are now level 13!+1 END, +2 DEX, +3 INT, +4 PER, +2 WILYou have 10 free stat points.
+
+Senna punched the air, a grin splitting her face. “Brilliant!”
+
+“My laddy!” Bromlin slapped Logan’s arm with tremendous force, still feeling the effects of Logan’s Invigorating Flame, which Logan promptly stopped concentrating on.
+
+Pain Resistance is level 32!
+
+“Ah, sorry lad.”
+
+“No problem,” Logan said through clenched teeth.
+
+Alden then gave Logan a shoulder pat, which made everyone break into laughter.
+
+Except Cassandra, who fidgeted. She alone did not seem happy.
+
+“I can’t… keep the ward… stable. I don’t understand. I’m sure I have the structure correct…”
+
+“It’s all good, we prepared for this. Let me boost you.”
+
+Invigorating Flame!
+
+Logan kept one eye out for any sign of additional raptors, and it was only absently that he checked his own mana supply. His eyes bulged when he noticed his HUD showing it at a mere 27%.
+
+Sure, he had used some mana bouncing from beast to beast, but not that much. The only heavy drain he had put on it was… using Invigorating Flame on Bromlin.
+
+That was something to keep in mind. Invigorating Flame boosted others’ power proportionate to the amount of mana invested, and for as long as the caster concentrated on it. Logan’s multifocus benefit was great, but in the heat of battle, it was easy to lose track of the fact he still had a concentrated spell engaged. Bromlin had used up a great portion of Logan’s mana, even without Logan having intended it. And Bromlin had pulled hard from that draft.
+
+The ward wavered underfoot and Logan glanced worriedly at his mana total to see if Cassandra had already used it all. But the pool was unchanged.
+
+“Are you drawing from my skill, Cassandra?”
+
+Her breath was coming in shallow. “I’m trying. I feel it, but it’s not responding when I try to tighten my grip over the radiant mana.”
+
+Logan frowned. That couldn’t be right.
+
+But apparently it was, and as the entire ward platform jittered and raised a collective whoa from the group, Logan racked his brain for a reason.
+
+Aetherlens!
+
+The ambient mana sprang to life around him. Something was different here. The layered striations were imbalanced, and Logan groaned as he realized the root cause.
+
+“It’s not you,” Logan said. His vision focused on the ambient mana, tracking the sharp depletion of Radiant energy in the dark depths below the surface. “There’s not enough radiant mana down here for you to pull from.”
+
+Cassandra’s hands trembled as she fought to keep the platform together. “So I’m drawing from an empty supply.”
+
+Logan glanced through the thinning light of the platform. There was still no sign of the ground below. Just endless darkness.
+
+“We couldn’t have known,” whispered Bromlin.
+
+Alden bowed his head and Senna wordlessly pulled out her makeshift gliders. Somehow, Logan doubted those rough-shod creations would hold long enough for them to reach the floor safely.
+
+As Senna started to unbundle her gliders, Logan activated Aetherlens again, searching for another solution. The air pressure was different here and the Warpincer Raptors had used that to their advantage, enforcing force mana into their attacks too.
+
+For the lack of radiant mana, Force was in extreme abundance.
+
+A thought struck.
+
+“Cassandra! Back in the frostfire fight, what type of mana did you use when you imploded that ward?”
+
+“Radiant, obviously!” Her strained reply came through gritted teeth. More resigned, she added, “That’s all I can use.”
+
+“No. I think you’re wrong.” Logan leaned in, steadying himself as the platform trembled underfoot. “You yourself said the mana felt different with how you applied it.” He gestured to the endless darkness. “There’s a ton of ambient force mana here. I think you used that then, and I think you can do it again now.”
+
+Alden gasped. “You’re asking her to swap a fuel source while she’s actively using a different one? To power the same spell?” To his credit, it sounded less like he was bashing the idea and more concerned about how that might affect Cassandra.
+
+“I have to try,” she said, closing her eyes.
+
+The ward underwent a series of shivers. Its golden glow dimmed, shifting into a denser, streaked silver, like translucent marble.
+
+For a heartbeat, Logan thought it was working.
+
+Then the ward lurched as they fell even faster.
+
+Cassandra squirmed. “This… this ward is no ward. It won’t protect us on impact. It will destroy us.” Her neck corded as she let out a sharp cry. “I can’t release it, either! Its momentum is too strong! I—I’ve unleashed a floodgate, and it’s taking me with it!”
+
+Senna pulled a glider from the greater bundle and handed one to Alden. But as soon as she freed it, the added velocity ripped it from her grasp. It flapped open and disappeared into the darkness above.
+
+“I see ground!”
+
+Logan didn’t even know who said it, but his eyes turned downward and the silvery glow from the platform provided just enough light to show the jagged terrain of the cavern floor.
+
+Meditate!
+
+Force mana rushed past him in a slow whirl as Cassandra unwillingly fed it into the not-ward’s acceleration. Everything about the skill’s mechanics pressed the platform down at increasing speeds.
+
+He needed to redirect that momentum.
+
+The slowness of his own movements was agonizing, especially watching the ground race toward them. As if fighting to move his arm through a waterfall, he reached into his storage bag and pulled out a spare void totem. His hands clasped it.
+
+Affinity Touchstone (Void) detected!Would you like to rotate your affinity?YES/NO
+
+You have assumed the Void Affinity!Penalty: Life affinity lost. You may not use any Life-aligned skills that require mana until your Life affinity is restored.
+
+Null Pulse!
+
+Using the dregs of his mana, Logan pushed everything into drawing from Cassandra’s steamroller levels of force mana to pull it away from the platform.
+
+The shift was instant, and their descent slowed just enough for Senna to shove the remaining gliders at the others. She thrust one into Logan’s chest, but she didn’t have one herself, having lost it during their initial plummet.
+
+Logan didn’t have time to speak. The force mana was like a coiled tension under his heels, and it was ready to burst.
+
+He shoved the glider back at Senna as his gut tightened, and then he kicked off with all the gathered force mana, rocketing upward.
+
+Null Pulse is level 20!
+
+His mana depleted.
+
+As hopeless as it seemed, Logan couldn’t give up now. He meditated, hoping even a few moments’ worth of regenerated mana might come in handy and help him find a way out of this mess before he inevitably splatted against the stone. Unlike his escape from the mountain that very first day in this strange world, there was no river for him to land in down here.
+
+As he neared his terminal velocity point that would send him downward, he whizzed past something. It wasn’t anything the others had thrown up toward him because it had been falling too.
+
+It took him a moment to realize: it was the one glider Senna had lost grip of.
+
+He grinned.
+
+For a weightless moment he hung in the air, and then the plunge began. He had only worked at that indoor skydiving place for three days, but he had at least tried it out a few times. He angled himself and, with Meditate aiding him in slowing things down, he controlled his nosedive and caught sight of the runaway glider.
+
+As he passed it, he swerved sideways and clamped it closed as he hugged it to his chest. He would need to time it just right if it was going to support his body weight.
+
+At the last moment, with the ground in view, he snapped the glider open.
+
+The wind yanked at him, and although the glider held, it rattled dangerously. But it was enough to make him slow and soar for a short distance just 15 feet high, parallel to the cave floor, before it fell apart and he crashed into the stone.
+
+Pain Resistance is level 33!…Pain Resistance is level 36!
+
+Cassandra slammed into him, embracing him. The pain didn’t feel so bad and he chuckled as he leaned into her warmth.
+
+“You’re bleeding,” she said sounding like a worried mother. Sure enough, without the Life affinity to keep his Bleeding condition at bay, Logan was losing a ton of blood from the gaping wound in his arm. He hadn’t even noticed, but that made sense of his light-headedness. Fortunately, he still had half his health points, and between Cassandra’s attention and Senna’s bandages, the Bleeding affliction went away.
+
+Cassandra helped him to his feet. “We won’t stop learning new things with you around, will we?”
+
+Logan let out a laugh, then caught a golden gleam to the side.
+
+He turned his head and with an eager gasp pointed to the egg, nestled safely in the crook of a stony seat.
+
+“Look! See?” Logan grinned. “I told you it was still intact.”
+
+He took one step toward it before a chorus of chittering rose around them.
+
+Dreadmaw beetles.
+
+And they were charging.

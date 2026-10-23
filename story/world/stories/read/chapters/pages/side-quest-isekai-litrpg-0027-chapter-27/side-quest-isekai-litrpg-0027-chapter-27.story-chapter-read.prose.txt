@@ -1,0 +1,155 @@
+Creeping frost spread over the grass as the hardened earth crunched under the monster’s heavy step.
+
+Name: Frostfire ElementalType: MonsterLevel: 37Health: 548/548Mana: 698/712Lore: A volatile fusion of opposing forces, the Frostfire Elemental constantly converts heat-based mana to sustain its unstable existence. Deaf to the world, its heightened vision allows it to perceive magical auras with precision.Strengths: Internal combustion chamber, Impervious to sound-based attacksWeaknesses: Fuel dependency, Thermal overload instability
+
+Analyze is level 17!Analyze is level 18!
+
+The rod at Cassandra’s waist lit up as the air chilled and the elemental’s eyes flashed toward her. An ice spear crackled into existence in its glacier-like hand and it hurled the frozen javelin. The bulk of its arm slowed its movement, though, and Cassandra darted behind a tree for cover just in time.
+
+“A little late for the beacon notice,” Senna said as she ran to a different tree.
+
+“Quiet!” Alden whisper-shouted.
+
+“It can’t hear, mageboy. Didn’t you Analyze it yet?”
+
+Alden, who stood with his hands outstretched as brown earth mana swirled at his fingertips, paused with a chagrinned look and dropped his hands.
+
+But the elemental had noticed him.
+
+“Get to cover,” Logan shouted, running in between Alden and the elemental as he wove between trees of his own. The elemental’s gaze shifted from Alden to Logan.
+
+Crackling ice warned Logan of the icy projectile it prepared for him, and he sank his claws into a nearby tree, using the torque to whip him to its backside. The icicle sang as it passed within inches of Logan’s shoulder, little frozen vapors twirling in its wake like floating eddies. Logan’s shirt—his new brand new shirt—stiffened with frosty rime.
+
+“It’s watching your tree, Logan,” said Senna, who had scrambled her way into the canopy. “Oh, and now it’s coming your way.”
+
+Logan nodded to himself and dug his gauntlets into the tree’s bole. Prowler claws were made for this task, and he practically flew up the tree.
+
+Climbing is level 15!
+
+He perched on a limb and watched permafrost approach. Based on the creeping circumference, he could tell the monster was mere feet away.
+
+Aetherlens.
+
+Colorful streaks of mana wove through the air, distorting Logan’s vision like shifting mist. He strained to see past the haze, sensing a pattern beneath the chaos, but something was off. He let his eyes unfocus, trying to tune out the natural flow of mana, but it only made his vision blur. Still, it felt like he was on the verge of something.
+
+He kept adjusting, chasing that strange double-vision sensation until everything suddenly snapped into place. It was like staring at one of those Magic Eye illusions, where a mess of colors and shapes hid the image of a running horse. Except this time, the hidden image was a monster that wanted him dead.
+
+Aetherlens is level 14!
+
+Congratulations! You have learned a new skill!Cold Resistance (Uncommon), level 1.+1 ENDYou’ve received enough cold shoulders and icy stares to get by without freezing up. Who knew you could apply that tough skin to the weather too?
+
+Logan grunted at the lackluster gains for an Uncommon skill, but put it from his mind.
+
+When the elemental lumbered into view, another javelin formed in its hand, adding a fresh layer of reinforcing frost on its arm. The ambient mana immediately surrounding it grew desaturated. Was that an increase in blue frost mana overwhelming the red fire mana?
+
+Aetherlens is level 15!
+
+Cold Resistance is level 2!Cold Resistance is level 3!
+
+He shut the skill off when his mana ran low. Its movement slowed, as did the rate at which ice formed in its grip.
+
+“There’s no fire, so it’s taking longer to build its strength,” said Logan.
+
+“Brilliant observation,” Alden retorted from the ground. “Next, tell us the ice looks cold.”
+
+“That’s not what I mean. It’s pulling on the ambient mana, but there’s less of it…” Logan flicked Aetherlens back on for a second, scanning the battlefield. The elemental had left a path with significantly lower fire mana behind it, which made sense if it had already drained most of it. “Alden, can you pull it towards you?”
+
+“I’d rather not.”
+
+“It won’t be as fast if you—”
+
+“I’ve got you,” shouted Bromlin. “Come here you big lout, and let me show you how dwarves sculpt ice!”
+
+“It can’t hear you,” said Alden’s strained voice, but ice splintered as Bromlin’s axe smashed into the elemental’s side, sending it stumbling forward.
+
+I was saying to draw it back the way it came, thought Logan, not shove it further into the area where there’s more fire mana.
+
+For every chunk of ice that shattered off its glacial arms, more reformed in its place. Bromlin’s second strike barely made a dent. Now, the monster turned on him.
+
+Logan braced himself, waiting for the right moment, but this wasn’t it. The more ice the elemental accumulated, the slower it moved. When Bromlin took a direct hit to the stomach, the dwarf was thrown back, crashing into the dirt with a heavy grunt.
+
+Cassandra darted from behind a tree, her palms glowing as she pressed them against Bromlin’s chest. The light flared, and he was on his feet in seconds. But the elemental had turned its attention to her now, drawn to the surge of mana from her healing spell.
+
+Logan’s mind raced. “Cast an ice spell on it!”
+
+Nobody responded.
+
+“Cassandra?” he called again.
+
+She clenched her jaw, maintaining a ward around Bromlin. “I can’t.”
+
+Senna spoke softly from above. “Sore spot for her. She can only use radiant mana.”
+
+Logan glanced from Cassandra’s rigid stance to Senna’s grimace. A flicker of frustration crossed Cassandra’s face before she forced her focus back on Bromlin.
+
+“Alden, can you?”
+
+“That would make it stronger! Are you blind?”
+
+“And slower! It converts fire to ice, but if we pile on the frost, we should be able to lock it down.”
+
+Alden was quiet for a moment, and Logan wondered if he had heard. Then he spoke. “I don’t have much frost magic, but—”
+
+Gradual layers of ice gathered along the monster’s backside. Weighed down and sluggish, the elemental struggled to maneuver. Bromlin shifted his tactics, darting in to strike before retreating just beyond its reach. Logan checked his Aetherlens, hoping the frost mana might help rebalance the disrupted ambient energy.
+
+But no. The imbalance only deepened.
+
+Aetherlens is level 16!
+
+Cold Resistance is level 4!
+
+Senna kicked at the tree branches above, dislodging sheets of frost-laden bark. The ice crashed down onto the elemental, thickening the frozen layers encasing its body.
+
+Amid all the chaos, Logan felt useless, still not seeing an opening. Then his interdimensional storage ripple glowed golden. He initially thought the light was a reflection of Cassandra’s ward, distorted by the ripple, but it was actually a rhythmic pulse. The distraction lasted only a moment, but Logan felt drawn to walk further out on the branch.
+
+He gasped. At this angle, he had a clear view through sheets of frost at what must be the monster’s internal combustion chamber. A red glow at its spine had to be where it was sucking in all the fire mana, and there was only a thin layer of ice behind that.
+
+Logan dropped down, kicking off the branch right as the elemental swung its now-clublike arm at Bromlin. He drove his gauntlet claws into the thin layer of ice protecting the chamber, and a burst of scalding hot air blasted his face while numbing ice shards made the skin on his knuckles chap and split.
+
+Heat Resistance is level 6!…Heat Resistance is level 11!
+
+Cold Resistance is level 5!…Cold Resistance is level 8!
+
+The elemental twitched, its icy shell glistening as heat rapidly dispersed through its body. Cracks formed along its frozen surface, steam rising in wisps as the frost began to melt.
+
+A unified cheer erupted.
+
+“Nice one, newbie!” shouted Senna, dropping down to slap Logan’s back.
+
+Bromlin bashed his fist to Logan’s shoulder and Cassandra smoothed her skirt and flashed Logan an approving smile.
+
+Alden, however, lingered by a tree, watching Logan with unreadable scrutiny.
+
+“Well, Bromlin,” said Senna, “looks like we’ll have a monster core for your axe after all.”
+
+Bromlin let out a triumphant laugh, and they all turned their attention to the dissolving elemental, waiting for the telltale emergence of a core.
+
+But then the melting ice took on an eerie, translucent red glow.
+
+Logan quickly activated his Aetherlens; where the elemental’s combustion chamber had once pulsed with heat, it now glowed a cold, pale blue.
+
+“Uh oh,” said Senna.
+
+Logan readied his fists. “What’s happening?”
+
+Alden’s gaze sharpened. “I think… this is the overload.” He hesitated. “But I don’t think it’s dying.”
+
+A deep, guttural roar split the air.
+
+Before anyone could react, a blast of searing wind erupted from the elemental, knocking them all off their feet.
+
+Heat Resistance is level 12!
+
+Logan hit the ground hard, rolling to a stop as the sudden heat wave sent a shock through his body. Steam hissed from the frozen trees, and those closest to the elemental ignited in a burst of flames.
+
+The monster stood tall, transformed. It was no longer an ice-forging creature, but a burning inferno of concentrated flame.
+
+“That’s bad,” Logan said as flickering hues of frost and fire swirled across its body. “Its lore said it converts heat-based mana… but I don’t think that just means fire to frost.” His stomach sank. “I think it means frost to fire, too.”
+
+They hadn’t defeated it. They had just fed it everything it needed to start again.
+
+“That’s not all,” said Cassandra.
+
+Logan followed her finger.
+
+Shimmers in the air gathered in several spots as the overloaded imbalance in ambient mana summoned identical clones of their fiery foe.

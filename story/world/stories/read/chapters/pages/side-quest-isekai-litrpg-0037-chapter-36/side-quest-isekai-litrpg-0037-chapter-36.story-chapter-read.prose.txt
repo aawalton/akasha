@@ -1,0 +1,229 @@
+Logan ducked as one silhouette swung a tiny fist at him, then he kicked out at a second silhouette. He immediately regretted it because the targeted outline was a statue, not a goble.
+
+His shin exploded in pain as he crashed to the floor, where he became an easy target. He didn’t know who wielded the short spear that stabbed into his shoulder, but he rolled over and snapped it at the hilt.
+
+Pain Resistance is level 29!Pain Resistance is level 30!
+
+He meditated briefly to get his bearings. It didn’t do him any good. The statues were hard enough to distinguish from the gobles in this lighting, and with the gobles slowed down, it didn’t help.
+
+But the statues didn’t give off vital signatures.
+
+He closed his eyes to shut out the distractions and relied only on Feral Echo. The ability to distinguish between the four living enemies and the stony decoys was immediate.
+
+He yanked the spear out of his shoulder and thrust it into the neck of its rightful owner. The corresponding life pulse dimmed.
+
+You have killed a level 23 goble scavenger! Experience gained!
+
+Pain Resistance is level 31!
+
+Feral Echo is level 20!
+
+Eyes closed, he kept Feral Echo and Meditate active. It wasn’t the most draining combination, and it was only burning a few mana points per second. He still had enough for about two minutes, but he could ease off here and there when he didn’t need it.
+
+Two gobles rushed him, the outlines of jagged swords in their hands barely visible in the dim light.
+
+Logan dropped low at the exact moment they struck.
+
+Steel clanged in the dark as they lashed out, expecting his torso to be there. Instead, momentum carried their weapons into each other, plunging deep into flesh. The silence that followed was punctuated only by ragged, wet gasps as both gobles staggered, gripping at the hilts buried in each other’s ribs, then dropped.
+
+He didn’t gain any experience from them because he hadn’t dealt the final blows, let alone any. But, he was alive, so that was worth something.
+
+When he stood, he faced the last standing goble, Shooty.
+
+The sight of Logan doling out death without even looking must have been intimidating, because Logan heard Shooty drop his crossbow and step back. “Impossible…”
+
+“No,” said Logan. “Just improbable.”
+
+Shooty’s body went rigid briefly, and Logan crouched, wondering if the goble had some trick planned. Then he recognized the sudden stillness from just a little earlier. Shooty had done that when talking about the warlock, when his eyes had glazed. Logan cracked open his eyes. He couldn’t totally see through the darkness to confirm, but that posture outline was definitely similar. Finally, the goble relaxed.
+
+“It does not matter what happens here,” said Shooty, a sinister smile shaping his voice. “I have told the others. After we level Gnashridge Heights, the rest of the world will follow.”
+
+Of course. They must have some way of communicating with one another. How else would the gobles have known to find Logan in this cave in the first place? That goble from the caravan, even if the bards had killed him, must have first signaled to his friends and guaranteed this confrontation.
+
+A stone whacked the back of Logan’s head. With his focus on Shooty, he hadn’t considered paying attention to the area behind him. Although still beyond the Boundary, Stabby must have been watching and threw the stone.
+
+Shooty sprinted for the border, where Stabby awaited him.
+
+“Not so fast,” said Logan and followed in pursuit, grabbing one of the jagged blades from the two gobles that had impaled one another. Shooty must have thought he was being crafty because he began to dodge and zigzag through obstacles. Logan pursued, racing past the structures, judging their presence by the negative space left in Shooty’s life pulses.
+
+One particularly broad but short obstacle gave Logan an idea. His other Void Skill had converted to a Life Skill when he had used it. Would that work for Null Pulse, too? Instead of following Shooty around it, he jumped on top of it. Then he launched off of it.
+
+Null Pulse!
+
+Null Pulse (Void) is now Eldertread (Life)!Falling is optional and momentum is your new best friend. Land softer, jump farther, and pretend physics was never your problem to begin with. Momentum carries over into each jump.
+
+Skill level is retained. Return to Null Pulse when Void Affinity is reassumed.
+
+It wasn’t exactly what Logan expected, but he would make do. It also consumed the same amount of mana as Null Pulse, and he was running low with only 30 mana points left.
+
+Feral Echo mapped Shooty’s position mid-motion. Logan adjusted accordingly, twisting his body as he soared through the dark.
+
+His blade bit into Shooty’s back just as the goble reached the Boundary’s threshold. The momentum carried them both forward, but Logan didn’t let himself land.
+
+Instead, he used the goble’s body as a launch point, pivoting off Shooty’s shoulders. His legs snapped out, kicking off the collapsing goble with enough force to send him rocketing forward.
+
+He burst through the Boundary.
+
+Stabby barely had time to register what had happened before Logan was on him.
+
+He arced his body, directing all of his force into a spinning slash. Just at that moment, though, Logan’s mana ran out.
+
+He held the course and followed through with the motion, but as soon as he landed—not softly like his Skill had promised, probably also because his mana had depleted—he opened his eyes wide, straining to adjust to the dark as he fumbled for a wall so his back wasn’t exposed.
+
+There was a shallow gurgling sound, and then silence.
+
+You have killed a level 19 goble scavenger! Experience gained!You have killed a level 21 goble scavenger! Experience gained!
+
+You are now level 12!+2 END, +4 DEX, +6 INT, +8 PER, +4 WILYou have 24 free stat points.
+
+Feral Echo is level… 22!
+
+Eldertread is level 16!
+
+Aerial Combat is level… 9!
+
+Meditate is level… 27!
+
+For a few seconds, Logan just leaned against the wall, breathing heavily. When he finally slumped to the floor, it was with a deep sigh.
+
+He patted his body down, making sure he was still in one piece. Satisfied, he meditated until his vitals filled.
+
+Then he opened his screen, which showed in perfect clarity despite the overwhelming darkness. At least it didn’t cause strain on his eyes the way staring at a normal electronic screen in the dark did.
+
+He found himself getting confused, especially when he looked for Null Pulse and Unrelenting Hunt, both of which were hidden underneath their sister skills, much like his Bounty of Silence wasn’t readily visible. The threshold perks weren’t intuitive either and were all buried, so he brought those to the front.
+
+“I need a cleaner way of sorting this.”
+
+When he thought about repositioning the skills and adding some subheadings, it actually worked. He tinkered with a few variations of dividing skills until he landed on something he liked that kept him focused. With how he fit threshold perks in, that made the Bounty of Silence look clumsy, so, taking a wild stab, he created a separate space just for that, since it wasn’t conforming. After finishing, he scanned the new layout.
+
+Name: Logan VitaliRace: Human, Exalted Kin (Masked)Level: 11Trait: Measured TouchHeritage Boon: Forked Gambit, Core CrackerAffinity: Life (Active); Void (Cooldown: [19] hours)
+
+Health: 170/170Stamina: 334/334Mana: 500/500
+
+Stats:STR: 21END: 40DEX: 58AGL: 32INT: 56PER: 77WIL: 60CHA: 6
+
+Free Points: 24
+
+Core Skills:Aetherlens (L), lv 22Analyze (C), lv 25
+
+Threshold Perk: Hidden Gleams (Componentized analysis)
+
+Climbing (C), lv 27Crafting (C), lv 3Meditate (U), lv 25
+
+Threshold Perk: Pacifist Mindset (Meditate in combat)
+
+Running (C), lv 27Stealth (C), lv 13
+
+Resistance Skills:Cold Resistance (U), lv 13Heat Resistance (U), lv 17Pain Resistance (C), lv 31
+
+Combat Skills:Aerial Combat (R), lv 9Gauntlet Mastery (R), lv 13Parry (R), lv 3Sharpshooter (U), lv 5
+
+Void-Aligned Skills (Inactive):Null Pulse (E), lv 16Unrelenting Hunt (E), lv 21
+
+Life-Aligned Skills (Active):Eldertread (E), lv 16Feral Echo (E), lv 21
+
+Utility Skills:Interdimensional Storage RippleQuest Board
+
+Titles:Giant Slayer III (+8 END, +5 STR, +5 WIL)Intrepid Explorer II (+5 INT, PER, WIL)Lizardboy II (+15 WIL)Mold Breaker II (+4 END)Monster Slayer III (+4 END, DEX, INT)
+
+Other:Bounty of Silence: 1.5x Meditate efficacy; Concentration multi-focus
+
+Talent:Missing
+
+He tapped his lips as he stared at Meditate and Analyze. They were the only skills that had earned threshold perks at level 25.
+
+He wondered what would happen if he gained a perk in one of his affinity-based skills. Would a separate perk await him in the ability’s counterpart? He kind of doubted it.
+
+Apparently the perks didn’t activate in hindsight, either, otherwise Pain Resistance, Climbing, and Running would probably show one. So if he wanted to maximize future gains for the skills closest to level 25 now, that would probably be the ones revolving around Dexterity and Agility. And he had 24 free points to distribute. Dexterity was past 50 already, so he put 18 into Agility, and saved the other 6 to decide on later. They would probably go toward Endurance.
+
+He let out a loud exhale, glad to have that taken care of. Now he had the more pressing matter of making his way out of here.
+
+Feral Echo wasn’t of any use now that there weren’t any other living bodies to ping off, and the only light came from the other side of the Boundary, where he could only make out the faint shine of the dragon sage statue’s purple-gemmed eyes. That, though, gave him an idea.
+
+He opened his Interdimensional Storage Ripple. The black dragon egg radiated with a blue and red undertone, and a golden shimmer that wrapped around it all. He pulled it out, and, sure enough, the egg radiated a small nimbus of light.
+
+He smirked and tucked it under his arm.
+
+First, he checked the adjacent room, which contained the green-and-orange sigil door puzzle. Still sealed shut and with nothing of value left behind, it wasn’t worth wasting time on.
+
+So instead, he crossed the Boundary once more and returned to the mostly emptied treasure room. The gaping hole to the abyssal depths was an ever-present threat, so Logan moved with extra caution, scanning the floor for any loose coins or jewelry that could betray his footing and send him tumbling after them.
+
+The eerie music still filtered through the cavern, but with everything else that had happened, it had become little more than background noise. Now, though, it was distractingly loud again.
+
+He poked his head around the corner of the treasure room and flicked his gaze toward the funneling hole above, where the wind came in from and, earlier, the light. The fact that the light had shut off so abruptly when night fell confirmed to him that the passage led back to the reflection chamber, and therefore linked to opening an escape route.
+
+If he could get up there, he might have a way out.
+
+Like crawling through air ducts in a spy movie, he mused. Yeah, I can do that.
+
+Of course, that meant he had to reach the hole first.
+
+He set to work, scanning through the remaining treasure, looking for anything that might be useful for climbing, or at least not something that would betray him mid-ascent. He hadn’t even started stacking items before his hand brushed against a weighty pouch buried beneath a collapsed heap of valuables. Curious, he untied the drawstrings and peered inside.
+
+His jaw nearly unhinged.
+
+Monster cores. A whole bag of them.
+
+For a moment, his mind screamed at him to consume them all right here and now. How many skills could he gain from them in a single instant? The amount of power would surely give him an easy way out of here.
+
+But then, the more rational part of him kicked in. The others had warned him that there could be side effects after gaining skills to quickly with how he consumed cores raw. And the last thing he needed was to get dizzy or disoriented next to a literal death pit.
+
+Reluctantly, he secured the bag in his inventory before his gaze flicked to the remaining instruments. Right! The whole reason I’m here. He quickly gathered a lute, a bongo, and a fiddle bow and tossed them into storage alongside the monster cores.
+
+Then, by the glow of his dragon egg, he began stacking instruments, crates, and whatever could provide footholds. A warped harp, a set of tom-tom drums, even a shield that was probably meant to be ceremonial. He hoped he wasn’t committing Dragon-Sage sacrileges by doing this.
+
+Each step upward required a careful balance of weight and precision. He supplemented the climb with occasional, well-timed bursts of Eldertread, using the enhanced force to give him extra lift where needed.
+
+It wasn’t pretty, but it worked.
+
+Soon, he reached the final tier, the top of the precarious tower he had built, and eyed his last obstacle: the funneling hole above. Its concave shape made for tricky footing, but he was confident in his jump.
+
+Logan braced himself.
+
+Eldertread!
+
+His feet hit the inner curve of the funnel, but the sloped surface worked against him, sending him sliding.
+
+In the process, his grip loosened.
+
+The dragon egg slipped.
+
+His hand shot out instinctively, fumbling for it, but it evaded his grip. It rolled down the concave stone like a bowling ball, with Logan not far behind.
+
+Meditate!
+
+Time slowed, but that didn’t mean Logan could move faster. He watched in panic as the egg, three feet out of his reach, smacked into the ground.
+
+And then bounced, unharmed.
+
+Relief washed through him. That thing really was indestructible.
+
+Then the panic returned. Logan wasn’t.
+
+A mere foot away from the floor, Logan remembered the other benefit of his newest skill.
+
+Eldertread!
+
+He might as well have landed from a distance of five feet rather than five stories.
+
+Eldertread is level 17!
+
+“All right!”
+
+Being alive was nice and all, but he didn’t have time to celebrate. From the curved angle the egg had fallen from above, it had picked up some speed and was quickly rolling to the far wall. The light it gave off only extended in a small area, so Logan bumped into a couple of obstacles as he jogged toward it.
+
+He was only fifteen feet away when the egg’s light started to disappear behind what looked to be a hard, vertical, shadowy line. That confused him, until he realized it was just the corner of the wall where this room connected to the next one.
+
+His heart skipped a beat.
+
+Not just any room. The room with the bottomless pit.
+
+For the third time in under a minute, the panic hit and Logan broke into a run, not even caring that he sliced his shins on jagged stone protrusions as he dashed for the egg.
+
+It can’t fall down there. It’s lucky! Please please please please please please plea—
+
+By the time he rounded the corner, he was too late.
+
+Like a sentient golf ball intent on sinking the worst hole-in-one imaginable, the egg reached the pit’s edge.
+
+And then it fell.

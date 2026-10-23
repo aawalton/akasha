@@ -1,0 +1,185 @@
+STR 21END 40DEX 56AGL 30INT 56PER 70WIL 57CHA 6
+
+Logan’s eyes flicked from his stats to the team as he considered the situation. At face value, their words sounded like accusations. But Perception was his highest stat, and as he studied their expressions, he didn’t think they were being so harsh after all.
+
+Alden’s challenge sounded like it came from a place of competition more than suspicion. Logan suspected the silver-haired elf didn’t enjoy being outmatched, but they had just worked together to save everyone. The guy probably just wanted to know what Logan did so he could learn how to do it himself.
+
+As for, Cassandra she only sounded curious.
+
+Logan wasn’t ready to share all his secrets, but clearly they knew that however Logan detected mana, it apparently wasn’t the normal way. Would it be bad to tell them about Aetherlens?
+
+On the one hand, if he didn’t, he risked them being willing to trust him. And if they encountered more unexpected dangerous situations together and doubted him when he warned about mana anomalies, that would be devastating for everyone.
+
+If he did tell them, though, they might press for more details. Maybe in time he could trust them with more information, but it’s not like the fate of the world depended on how much they did or didn’t know.
+
+I really hope Perception is as much about reading people as it is about finding openings in battle. I’ll just keep things as vague as I can without being suspicious.
+
+He started with his best disarming grin. “Yeah… so you all know about Manasense, right?”
+
+Alden’s eyes narrowed slightly. “We’re not idiots, Logan. It’s a standard skill for anyone who manipulates mana, especially adventurers.”
+
+“Sorry, I didn’t mean to sound pedantic.”
+
+Alden gave an unconvinced nod, but he pressed on. “That skill only lets you see mana being used. It doesn’t track residual signatures in ambient mana.” He posed the last statement more as a question.
+
+“Right. Well, I have a similar skill. It’s called Aetherlens.”
+
+They had never heard of the skill and they listened quietly as he explained, albeit in a slightly scattered way, how the ability allowed him to perceive not only active mana but also ambient flows, balances, and distortions.
+
+Cassandra mouthed the skill name as she tapped her lips, then shook her head. “Is this in the guild’s handbook of archived skills?”
+
+“Uh, I’m not sure?”
+
+Bromlin, who, as far as Logan knew, didn’t use magic, casually asked the skill’s rarity.
+
+Logan figured that question was coming. But just in case it was in that guild handbook, he didn’t want to be caught lying. When he told them it was Legendary, Bromlin grunted in approval, but Alden paled. Logan doubted Cassandra even heard because she was rifling through a book she had pulled from her storage.
+
+After recovering, Alden’s voice came out half a pitch higher than usual. “You’re level 10. How do you have a legendary skill?”
+
+“Now, now,” said Senna, rubbing the elf’s shoulder in consolation. “You’re magic is still special, too.”
+
+Alden shook his shoulder free of her and did a terrible job of acting disinterested. “I’m not jealous, Senna. I’m just curious if our friend here will share how he earned the skill is all. I mean, if he can gain it…” He ended by gesturing broadly at himself and then shrugging.
+
+Logan sucked his lips inward to keep himself from smirking. He had definitely been right about Alden. Sure, the guy was a bit over the top, and yeah, he might have a bit of a superiority complex. But beneath it all, he was practically salivating for a chance to learn a skill that few—if any—other mages possessed. He was just hungry for growth.
+
+Unfortunately for Alden, Logan had only gained it thanks to his Exalted Kin race. He didn’t have to mention that little detail, but he still wanted to stay as close to the truth so he wouldn’t have to remember lies.
+
+“The skill actually started as Manasight,” Logan explained with a shrug. “But I was around some really intense mana signatures, and it just kind of upgraded on its own.” He didn’t specify just how recently that had happened, not to mention it had been mere moments after gaining Manasight in the first place.
+
+Alden nodded and began to pace, muttering about intense mana signatures. It looked like he was tallying potential places to visit on his hand.
+
+Cassandra closed her book and shook her head. “I don’t see it listed in the registry of known skills, but I’m not surprised. Skills that rare, even when they are discovered, often get held up in the guild’s red tape. If they just offered a little more transparency, it would clear up so much confusion. But you know how it is.”
+
+Logan didn’t know how it was, but everyone else gave slow nods, so he did too.
+
+“Honestly,” Cassandra continued, looking wistful as she likely imagined an alternate ruleset, “I think some guild protocols cause more problems than they solve.”
+
+That was just the segue Logan needed to redirect the conversation. “That actually makes me wonder something.” He gestured to the rod cinched at her waist. “Mind if I see that?”
+
+The beacon still glowed faintly in the aftermath of their battle, the surrounding ambient mana in clear disarray. Cassandra handed it over, and Logan walked a few paces away from the scorched clearing to an area where the disruption felt less severe. He held the rod out, watching its reaction. The glow flickered, then faded entirely.
+
+“There’s something off about this,” he muttered after activating Aetherlens briefly.
+
+“How so?” Cassandra asked.
+
+Logan tapped the rod against his palm. “It’s supposed to detect imbalances in ambient mana, right?”
+
+Everyone nodded.
+
+“But the mana here is still unbalanced,” he continued. “It’s not as noticeable here, further from the fire, but it hasn’t stabilized completely. And yet, this thing isn’t reacting anymore.”
+
+Senna shifted on her feet. “Wait a second. Are you saying the Adventurers’ Guild set us up?”
+
+Logan shook his head. “I don’t think it’s as simple as that. Remember the monster alarm in town the other day? There really was a breach. A monster appeared, and I killed it. After that, Captain Krett seemed really eager to make sure I joined the guild. I suspect she has an ulterior motive to impress the bureau, and I don’t think sabotaging a group of adventurers under her supervision is in her best interest.”
+
+Cassandra agreed. “She is hungry for the bureau’s approval. I avoid her when I can because every conversation leads back to my parents.”
+
+Logan lifted the rod again. “I also heard something about calibration issues with the alarm. You would think they would have fixed that before making this. But for some reason, this thing still seems pretty unreliable if it only picks up anomalies once it’s too late.”
+
+Cassandra pursed her lips. “So you’re saying the guild’s warning systems read the existing unnatural mana levels as normal.”
+
+Logan nodded. “Exactly. By the time the levels are large enough for it to detect, it’s a whole lot worse than it appears. That makes me wonder if they miscalibrated it out of malice or mere ignorance.” He mentioned overhearing Thessin’s suspicion of tampering, and how important it was to the guild to keep the proprietary ambient mana detection methods secret from the Mage’s Guild.
+
+Alden let out a short laugh. “I’m sure the Mage’s Guild would be better suited to improving the schematics so they actually work.”
+
+Bromlin whispered loudly to Logan. “The only reason he’s in the Adventurers’ Guild is because he can get an affinity faster.”
+
+Alden spoke off the cuff. “I’ve never hidden that.”
+
+“But I think,” continued Bromlin, whispering even louder, “he’ll stay with us even afterwards.”
+
+Alden made an amused face, as if that would ever happen.
+
+As they remade camp, Logan felt good about how the skill discussion had unfolded. A legendary skill could have raised a lot more questions.
+
+Cassandra still held the frostfire cores, since they were tied directly to their mission and might be needed for guild investigations. Whatever suspicions lingered around the Gnashridge Heights branch, the Adventurers’ Guild as a whole followed protocol, and Cassandra took that seriously.
+
+Later, Logan pulled her aside and handed her the attunement charm Krett had given him.
+
+She took it with a quiet sigh. “I suppose if it makes me stronger, I may as well take it.” Her hand lingered on his. “Truth is, I’m a bit of a fraud. The reason I avoid Krett is because the moment she realizes I have no influence in my family, she’ll think she wasted her time trying to win me over. And like Senna said… I can only use one type of mana. My family tried to tuck me away in a quiet corner of the Fold.”
+
+“It’ll make you more powerful, sure,” Logan said. “But that doesn’t always mean stronger.” He hesitated, then smiled. “I wasn’t good enough for my father, back home. But you know what? I believed him. I stopped chasing the things that made me happy. Maybe if I had stuck with them, I’d have turned out different.”
+
+He looked to the sky. “Now that I have a second shot, you know what I say?”
+
+She waited, quiet.
+
+“Screw him.”
+
+Cassandra laughed softly.
+
+“So, yeah, take it. But remember, you didn’t need it to defeat those elementals today.”
+
+They sat for a moment, neither rushing to speak. The campfire’s light flickered in her eyes, and Logan realized he didn’t feel out of place here anymore.
+
+“Well,” Cassandra said at last, turning to the others. “Good night, everyone. We’re close enough to Farrowstead that we ought to check in and make sure they aren’t facing any other problems with their hearthfires. We should reach them late morning.”
+
+“Aye,” said Bromlin. “And I’m overdue for some proper ale. Hopefully their tavern isn’t overrun with insects.”
+
+As Logan and the others reached Farrowstead, Logan felt a little closer with everybody. Their moods were high, too, as they were ready to tackle the town’s fire extinction problem.
+
+Except, evidently, there was no problem.
+
+A massive bonfire blazed at the town square, crackling and scenting the air with smoked oak as a lively crowd gathered around it. Laughter and music carried through the streets, a stark contrast to the grim expectations Logan had steeled himself for.
+
+“Looks like their fires are burning just fine,” Senna remarked, hands on her hips.
+
+Bromlin lifted a fist. “Aye. I suppose we fixed the problem! And now, I’ll see to my festival reward!”
+
+Logan still had some money leftover from his apothecary task and used it to buy everyone meat skewers from a street vendor.
+
+“You’ve never had philkrin before?” Senna asked, waving her skewer as she watched Logan eyeing his own.
+
+“No. Is that what this is?”
+
+She nodded, and a mischievous smile crawled onto her face.
+
+“Uh, what is philkrin?” Logan asked.
+
+Bromlin, who had already taken a big bite, spoke around mouthfuls. “It’s good is what it is!” He swallowed and let out a satisfied exhale. “Best not to ask.”
+
+Senna agreed and tore a chunk off with her teeth.
+
+Logan shrugged at the vague non-answer and took a bite. It was gamy, chewy, and unexpectedly pungent, but not altogether unpleasant.
+
+Cassandra accepted it with a smile, but he never saw her take a bite. The moment he turned away, hers was gone, and Bromlin mysteriously had another, but Logan didn’t call her out.
+
+Alden turned down Logan’s gift. Okay, maybe I’m not fully part of the team just yet. He would figure out Alden later.
+
+“So, how do we finish this quest?” Logan asked. “It still shows on my quest tracker, but I doubt there are any more elementals out here.”
+
+“We have to report back to the guild,” Cassandra explained. “No specific town resident had filed the quest, so its completion requires us to return.” She stood on her toes to see over the crowd. “But I want to check in with the innkeeper and make sure there are no further questions.”
+
+“Can you handle that yourself?” Bromlin asked, holding two more skewers in hand. “I’ve worked up a wee bit of an appetite.”
+
+“Yes,” Cassandra said. “Let’s meet at the tavern later tonight.”
+
+“I’ll see about arranging a wagon ride back to Gnashridge tomorrow,” said Alden.
+
+After those two peeled off, Bromlin excused himself to see what the local armory had, and Senna wanted to tag along because she needed to stock up on some explosive powder.
+
+“You coming, newbie?” she asked Logan.
+
+He smiled. “Sure, why not?”
+
+The armorer was a stereotypical gentle giant with a full beard, square jaw, bulging biceps, and friendly smile. A slate board behind him listed several requested materials. Dreadmaw chitin and joint sacs were in high demand, apparently, and the quantities Senna pulled from her storage dropped the smithy’s jaw to the floor.
+
+They had beaten those dreadmaws as a team, and Senna insisted they all share in the rewards.
+
+“I have scrap metal in the back,” said the man. “It’s all yours.”
+
+“Perfect!” Senna nudged Logan. “I have a private bounty for scrap metal back in Gnashridge Heights. This should be worth a ton back there. We’ll split the earnings when we get back.”
+
+Logan smiled and joined her and Bromlin. They were loading the metal into their storage bags, and Logan started to do the same. However, he grimaced when he noticed how heavy his bag was getting. His strength stat was only 21. If he was going to be part of the team now, he knew this was the kind of thing that would set him up as the brunt of jokes for quite a while. While they weren’t looking, he stashed his haul of scrap metal into his storage ripple instead, which didn’t weigh him down at all.
+
+Back at the front of the shop, Senna was exchanging stories with the armorer, who was enthusiastically showing her his forge setup. Bromlin was wide-eyed at the enchanted forge.
+
+But Logan was distracted by a minstrel entertaining a small crowd just outside the shop. He excused himself and stepped outside. Within only two seconds, though, the twang of a snapped lute string cut through the air.
+
+The crowd hushed for a beat, then burst into laughter as a nearby drunk hiccupped at the perfect comedic moment. But the bard himself looked less amused, cradling his instrument like a wounded animal.
+
+Logan offered him a sympathetic smile, but at catching his eye, the bard beckoned him and lifted his voice over the din. “I’m so sorry to trouble you, but could you please do me a favor?”
+
+Logan opened his mouth to apologize and say he was busy, but the ripple in the corner of his vision pulsed gold again. He looked from the bard and back through the door where Senna and Bromlin were getting a forge tour.
+
+“You know what? Sure.”

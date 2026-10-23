@@ -1,0 +1,177 @@
+He took his time over the natural floor. While relatively flat, it lacked the worn signs of frequent travel. Am I the first person to ever explore this place? That would be pretty cool.
+
+To cushion his feet, Logan ripped some cloth from his pants’ hems and wrapped it around his soles.
+
+After passing two corners, Logan discovered the ambient light’s source. He gawked at the weird, amorphous creatures sticking to the ceiling. An orange-yellow light pulsed from what he assumed was the front to the back of their lumpy red bodies.
+
+Despite the icky slime they left in their wake, he actually found them quite interesting. They crawled in groups of anywhere from one to three, and Logan was grateful for the heat and illumination they provided as he continued through the cavern tunnel.
+
+Name: Torch SlugType: InvertebrateLevel: 7Lore: Descended from the common slug, these blind creatures evolved to emit light and heat. Why would something that can’t see need light? It doesn’t. But other things do.
+
+Analyze is level 3!
+
+While happy for another level gain, Logan grimaced at the last sentence in the slug’s description and squinted in the dark. Right now, at least, it was just them and him.
+
+So, the slugs had levels, and the moss didn't, which made sense. But what did that mean about him? He opened his palm and tried to Analyze himself. It didn’t work.
+
+“Character sheet,” he said out loud.
+
+Nothing happened.
+
+“Status.”
+
+The expected box opened up, but it was pretty bare bones.
+
+Name: Logan VitaliRace: PendingLevel: 0
+
+Health: 20/20Mana: 40/40Stamina: 7/40
+
+Stats:Strength: 5Endurance: 5Dexterity: 5Agility: 5Intelligence: 5Perception: 8Willpower: 5Charisma: 5
+
+Skills:Analyze (Common), level 3
+
+Talent:Missing
+
+“Hey, that’s not fair. I have plenty of talent,” Logan protested.
+
+He also noted that his stamina was only at 7, and wondered if that might be residual from the effort he had spent trying to open up this section of the cavern. It had winded him, but he hadn’t thought to check his stamina then.
+
+Still, what was with all these low numbers? Granted, he wasn’t running a marathon anytime soon. And he did pay for a gym membership, even if he hadn’t actually used it in over a year.
+
+The warmth of a nearby torch slug staved off the chill as he looked at the screen, but suddenly a sharp sizzle and hiss sounded, and his health dropped 5 points right before his eyes.
+
+He yelped as he jumped back. “What the—?”
+
+Through the semi-opaque screen, a blob of goo glowed on his arm. A new section appeared on his status screen.
+
+Conditions:
+
+Burning: A torch slug has afflicted you with Burning. You will take damage* of [2] health per second for [5] seconds. Your attacks are weakened.
+
+There was an asterisk after the word damage, but Logan balked at the foreboding health total he was going to suffer in addition to the slug’s actual attack. Sure enough, his health ticked down another 2 points.
+
+“No, no, no.” Logan tried to fling the goo off his hand, mindful not to wipe it with his other hand lest it spread.
+
+Close, he commanded his status screen. It obeyed, but not before another 2 points ticked away. The glowing goop dimmed, but that didn’t lessen the sharp sting. Once it turned black and flaky, he rubbed it off his hand to reveal exposed muscle and bone.
+
+It seemed now that he had opened his status, a small Heads-Up Display popped up in the corner of his vision, showing his health and stamina bars. His mana pool didn’t show in the HUD, probably because it was full, but he worried over his health. Out of his 20 total points, he only had 3 left.
+
+Light-headed at the sight, he fumbled in his pockets for some moss. Please let this work.
+
+He didn’t have the stomach to swallow, so he put a wad into his mouth and simply chewed, sucking on the juices. That uncomfortable tingle washed his mouth, and he stared at his arm, hopeful.
+
+Just as it had back at the cave entrance, his skin restitched itself. This was a far deeper wound, and the healing process was painful and itchy.
+
+How is any of this possible?
+
+As the taut new skin once more became flexible flesh, he finally sighed in relief. Increased heat, though, drew his attention up to where the slug made its way directly overhead.
+
+“Not a chance, slimeball.” He stepped back just as a huge goopy drop splattered right where he had stood a moment ago.
+
+The slug, meanwhile, undulated in place, unmoving, as if taunting him to pass beneath it.
+
+He chewed his tongue with his molars, unsure what to do next.
+
+The ambient glow grew more vibrant deeper into the cave, and he suspected more torch slugs awaited him there. He doubted the small amount of moss he possessed justified making a run for it if a single slug could deal that much damage to him. Who even knew how far these slugs extended beyond?
+
+A notification caught his eye.
+
+Congratulations! You have learned a new skill!Heat Resistance (Uncommon), level 1!+3 to Endurance, +2 to WillpowerYou have felt the burn and didn’t let it stop you! What’s a little blister in the grand scheme of things?
+
+“Yeah, thanks,” he said sarcastically to the slug above. That had been way more than a blister.
+
+His mind returned to the asterisk he had seen earlier. He opened the screen back up and had an option to drill deeper into the asterisk.
+
+Apparently, damage was determined by a complex formula that compared not only the level between the attacker and the target, but also looked at the level of the individual skill. It was a bit much for him to process, and he wasn’t sure what would deal more damage to him: a level 10 enemy with a level 1 skill, or a level 1 enemy with a level 10 skill. He also suspected his new Heat Resistance would complicate that formula even more.
+
+Either way, he definitely wanted to minimize as much damage as possible. He couldn’t just react; he needed to go into this with a plan.
+
+He engaged Analyze, but nothing else popped up nearby. Or at least not within his skill’s range. He could see more moss ahead, but it looked dry and singed. “ You stupid slugs probably eat it, don’t you?”
+
+With the torch slugs serving as the only illumination, darkness enveloped most of the cave. He squinted, peering into the distance.
+
+Then he gave a satisfied smirk.
+
+At the far end, past the few visible torch slugs, the narrow tunnel bent to the left, and a greater glow brightened ominously beyond. A glint of light highlighted a patch of stalactites and stalagmites, also at the far end but clinging to the right side of the curve.
+
+He had gone spelunking a time or two. While he might not be a cave-diving expert, he knew dripping water created the formations. And he’d wager a torch slug didn't much care for water. Besides, the fact moss grew here, too, meant there had to be some water source nearby, right?
+
+Still, to reach it, he would have to pass under at least ten different torch slugs: one directly in front of him, then a cluster of three, followed by a group of two, and then a big clump of four. The glob from one slug alone had almost killed him.
+
+Almost… But it failed. He chuckled wryly, recognizing how much he sounded like his father speaking about him and his current employment situation.
+
+If he was going to dash for the far end where he hoped to find water, he needed to find out how effective his new Heat Resistance skill was.
+
+He looked down at his unbroken skin and then back up to his enemy above.
+
+I really hope I don’t die.
+
+Not taking his eyes off the slug, he extended his arm directly underneath the glowing, amorphous blob. With a hiss of steam and a sudden muscular reflexive movement from the slug, some mucousy pore opened as it pushed out a big glob.
+
+“What, do you just poop fire?”
+
+The glob landed on him with a crackle, but Logan was at the ready with his gray cave moss.
+
+He opened up his status screen despite the burn, and through his half-closed, wincing eyes, he read the description.
+
+Conditions:
+
+Burning: A torch slug has afflicted you with Burning. You will take damage* of [2] health per second for [5] seconds. Your attacks are weakened.
+
+Damn. Those modifiers hadn't changed.
+
+It was in the following second of watching his health tick down that the notification appeared.
+
+Heat Resistance is level 2!
+
+Just as it popped up, the affliction length went from lasting 5 seconds to 4.
+
+“Perfect.” He was still smiling when he got another notification.
+
+Congratulations! You have learned a new skill!Pain Resistance (Common), level 1!+2 to WillpowerIntentional exposure to painful situations has helped you push through the worst. Keep it up, and people will think you’re a masochist.
+
+People? What people? All I see are slugs.
+
+Analyze tagged the slugs behind this one ranging from levels 4 to 9. Even with the lessened affliction penalties, he would probably die from as little as 2 hits. And any of the slugs might cause even stronger burns.
+
+Rather than leave it to chance, he suffered through more cycles of exposure to the burning ooze to raise the two new skills. Each level took a little longer to reach than the next, and once he hit level 5, his method stopped returning yields. He had used up half his moss, too.
+
+So, as levels rose, it took longer to level up. Pretty straightforward. Some games had ways to cheese the grind, but this didn’t feel like one of them. He doubted level 5 was the real cap for his new resistances, but raising them further probably meant enduring stronger attacks than what this torch slug could dish out. Or surviving riskier encounters altogether.
+
+When he asked the mysterious, ever-present System to show him a progress bar in his level gains, it did not respond.
+
+Still, his determined method of increasing his resistances meant the Burning condition—from this slug, anyway—only afflicted him by 1 health for 3 seconds now. And while it still hurt, what had first felt like fire-eating-through-skin now only felt like fire-nibbling-at-skin.
+
+He eyed the torch-slug-riddled path ahead of him and shrugged.
+
+With two fistfuls of moss at the ready, Logan darted underneath the clusters of slugs. He passed unscathed beneath the solitary slug he had used for training. Under the second group, though, he got sprayed. As he pushed a few more steps to safety between his attackers and the next cluster, he clenched his fist and pushed through the pain. He tossed a wad of moss into his mouth, letting the restorative effects wash over him.
+
+Quickly, he glanced at his HUD. His health showed as 19/20. That was good. Probably not worth using the moss, though. He should save it for when the damage was worse. A grim thought, considering he didn’t know how fast he naturally healed. If he used the moss too freely, he might run out when it really mattered. But if he waited too long or lost track, it could be lights out.
+
+He glanced up and then sagged. The separate slug clumps of two and four had merged. Logan had wanted to run under the first one, pause and recover, and then make it past the last one.
+
+Regardless, there was no going back. Behind him were still four slugs, and he had already picked up as much moss as he could reach from the cave’s entrance.
+
+Even going back to wait and gather his thoughts wasn’t a good option, because around the rear corner, the first few antennae of more slugs came into view.
+
+“It’s showtime!”
+
+He darted underneath the six. Just as he reached the rim of the cluster, a stroke of inspiration struck him as he zigzagged. People do that when they’re trying to dodge snipers, right? And I would take a guess slugs have less aim than a sniper.
+
+One heaping glob of flaming goop fell and landed beside him. Residual splatter sizzled through his short-sleeved shirt, but otherwise didn’t burn him.
+
+Another glob, though, struck flat on his shoulder.
+
+Guess I couldn’t avoid it all.
+
+He pushed through the pain, but just as he prepared a clump of moss near his mouth, another glob of goop coated his forearm and he dropped the restorative vegetation, where it caught flame in the burning puddle of slime he had just avoided. “Argh!”
+
+A third burn bit him before he finally cleared the cluster.
+
+He wasn’t at safety yet, though, and he was flagging fast. Despite the shortness of the sprint, his muscles burned, but already another, even larger wave of at least thirteen torch slugs rounded the bend as if summoned by their brethren.
+
+Logan dashed, quads burning—hopefully just from strain and not from actually burning goop—until he reached the alcove at the corner where his feet splashed in a small puddle of water.
+
+He collapsed into the shallow pool, letting it wash over the offensive slime. With a contemptuous laugh, he glared at the slugs.
+
+His laughter thinned when the slugs kept coming.
