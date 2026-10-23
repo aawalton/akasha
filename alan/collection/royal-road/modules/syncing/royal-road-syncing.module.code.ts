@@ -178,8 +178,7 @@ interface Run {
 
 async function syncStory(story: Story, run: Run, until: number | null): Promise<void> {
   const { follows, readLater, held, taken, counts, budget, filing } = run
-  const fictionUrl = royalRoadUrl(`/fiction/${story.externalId}/${story.slug}`)
-  const fiction = parseFictionPage(await fetchHtml(fictionUrl))
+  const fiction = parseFictionPage(await fetchHtml(story.link))
   await betweenRequests()
 
   const lastReadId = follows.get(story.externalId)?.lastReadChapterId ?? null

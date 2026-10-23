@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  pageSlugFor,
   restatementFor,
   type Story,
   storyValues,
@@ -12,6 +13,7 @@ import { world } from "akasha/story/world/world.page-type.ts"
 const STORY: Story = {
   slug: "the-primal-hunter",
   externalId: "36049",
+  link: "https://www.royalroad.com/fiction/36049/the-primal-hunter",
   world: null,
   status: "ongoing",
   tags: ["LitRPG"],
@@ -106,6 +108,13 @@ test("a story made from a fiction saying little states only what it says", () =>
   const values = storyValues(FOLLOWED, bare, BOOKSTORE, FOLLOWING_ONLY)
   expect(values["title"]).toBe("the-bookstore")
   expect(Object.keys(values)).toEqual(["title", "world", "externalIdentity", "following", "unit"])
+})
+
+test("a fiction slug opening with a digit is named with royal-road before it", () => {
+  expect([pageSlugFor("1-lifesteal"), pageSlugFor("the-bookstore")]).toEqual([
+    "royal-road-1-lifesteal",
+    "the-bookstore",
+  ])
 })
 
 test("a story made off the read later list alone states read later and not following", () => {

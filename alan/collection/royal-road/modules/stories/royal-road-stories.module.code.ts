@@ -1,4 +1,7 @@
-import { idFrom } from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
+import {
+  idFrom,
+  linkFrom,
+} from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
 import type { Listed } from "akasha/alan/collection/royal-road/modules/follows/royal-road-follows.module.code.ts"
 import {
   betweenRequests,
@@ -35,6 +38,7 @@ const WORLDS_AT = "story/world/pages"
 const WORDS = `${unit.slug}/${words.slug}` as const
 const PROSE = "prose"
 const TXT = "txt"
+const LEADING_DIGIT = /^[0-9]/
 
 type Restated = Extract<Asking, { at: typeof RESTATE }>
 
@@ -45,6 +49,7 @@ type Meta = ReturnType<typeof parseFictionPage>["meta"]
 export interface Story {
   readonly slug: string
   readonly externalId: string
+  readonly link: string
   readonly world: string | null
   readonly status: string | null
   readonly tags: readonly string[]
@@ -81,6 +86,7 @@ export function readStories(root: string, only: string | undefined): readonly St
     out.push({
       slug,
       externalId,
+      link: linkFrom(row[IDENTITY], SOURCE) ?? royalRoadUrl(`/fiction/${externalId}/${slug}`),
       world: textAt(row, "world"),
       status: textAt(row, "publicationStatus"),
       tags: listIn(row, "externalTags"),
@@ -175,14 +181,18 @@ interface Created {
   readonly story: Story
 }
 
+export function pageSlugFor(fictionSlug: string): string {
+  return LEADING_DIGIT.test(fictionSlug) ? `${SOURCE}-${fictionSlug}` : fictionSlug
+}
+
 export async function storyCreated(root: string, listed: Listed, lists: OnLists): Promise<Created> {
-  const slug = listed.fictionSlug
+  const slug = pageSlugFor(listed.fictionSlug)
   const named = `${STORY_PAGE_TYPE}/${slug}`
   if (listedAt(root, STORY_PAGE_TYPE, slug).length > 0) {
     throw new Error(`${named} is already a page stating no royal road id, so none is made`)
   }
-  const url = royalRoadUrl(`/fiction/${listed.fictionId}/${slug}`)
-  const { meta } = parseFictionPage(await fetchHtml(url))
+  const link = royalRoadUrl(`/fiction/${listed.fictionId}/${listed.fictionSlug}`)
+  const { meta } = parseFictionPage(await fetchHtml(link))
   await betweenRequests()
   const world = `${WORLD_PAGE_TYPE}/${slug}`
   const values = storyValues(listed, meta, world, lists)
@@ -208,6 +218,6 @@ export async function storyCreated(root: string, listed: Listed, lists: OnLists)
   changes.push(put(made.put.path, made.put.content))
   for (const part of made.parts) changes.push(put(part.path, part.content))
   const status = keptStatus(meta.status)
-  const story = { slug, externalId: listed.fictionId, world, status, tags: meta.tags }
+  const story = { slug, externalId: listed.fictionId, link, world, status, tags: meta.tags }
   return { named, changes, story: { ...story, ...lists } }
 }

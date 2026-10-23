@@ -55,6 +55,14 @@ export const royalRoadStories = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A slug royal road opens with a digit is named with royal-road before it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story is read from royal road at the link its record of royal road states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A story made here states its title, author, tags and status as royal road does.",
     },
     {
@@ -79,5 +87,5 @@ export const royalRoadStories = {
     },
   ],
   createdAt: "2026-09-28T19:46:59.746Z",
-  updatedAt: "2026-10-22T15:10:11.063Z",
+  updatedAt: "2026-10-23T09:52:53.107Z",
 } as const satisfies Module
