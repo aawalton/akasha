@@ -1,0 +1,331 @@
+There was a lot for the Republic to do now that their peace talks were approaching, knowing that it was likely Gryndor’s move would bring Highmountain to the table at the same time would mean they were all in a rush to plan out their requests. Gryndor had been a good ally and strengthened their position  but they needed to adjust their plans to take advantage of it.
+
+With all the activity happening it also meant that Ajax had a moment to himself where he and Aurexion could just relax for the first time since they exited the dungeon.
+
+“Our bond is affecting my leveling speed.” Aurexion shared after he prodded Ajax to put up a privacy barrier.
+
+“Am I slowing you down?” Ajax asked concerned, it was true that Aurexion had made some gains in terms of Skill acquisition since he and Ajax bonded but his level had only grown by one where Ajax’s had grown by a lot more. “I think the Skill gains you’ve made should more than make up for it.”
+
+A rumbling growl came from the dragon and it took a moment for Ajax to realize that his bond was laughing. “You misunderstand, I have gained a little over a level since we bonded. That was almost half a year ago if we count the time we spend in the dungeon, a quarter if we go by the actual date. For me that is a lot faster than I leveled before.”
+
+It was hard to remember sometimes that while Aurexion was strong for his level, even for an Ascended his level wasn’t all that high for his age, he had spent at least a couple of centuries just absorbing treasure to increase his Stats so it only made sense.
+
+“At the rate you are growing however I fear that once you catch up to my level the speed I’m leveling at would grow even faster while yours would slow down to match.” Aurexion shared his conjecture.
+
+“You don’t know?” Ajax was surprised.
+
+“If we had bonded extremely young I would but bonds made later in life are extremely rare.” Aurexion shared. “I know my increased leveling speed is on account of you being human and I know that once you catch up to me your own base leveling will slow down. How that interacts with your Experience gain increase I have no idea.”
+
+Given that context, Ajax agreed to not knowing how the interaction would work between his Achievement and their bond, after all there couldn’t be all that many bonds between Ascended races and Awakened, even if the Awakened had managed to evolve first.
+
+“I’ve made some serious progress in the last few months myself.” Ajax knew that without the safety his bond provided he would either be dead or been forced to be a lot more conservative of his own movements during both their delving and in the war.
+
+Opening his Status page Ajax knew he had a number of decisions to make, Skills that had reached a threshold and he needed to decide what his bonus should be
+
+Name : Ajax Hearthbound
+
+Level : 64 -> 71
+
+Experience : 39840/254000
+
+Traits: Divine Witness, Duke, Aura, Bond
+
+Health: 5800/5800
+
+Mana: 4000/5940
+
+Stamina : 4000/4300
+
+Vitality : 524 -> 580
+
+Strength : 477 -> 487
+
+Endurance : 418 -> 430
+
+Dexterity : 488 -> 500
+
+Intellect :  538 -> 593
+
+Wisdom : 523 -> 579
+
+Mind : 539 -> 594
+
+Perception : 417 -> 430
+
+Stat Points : 0
+
+Skills :
+
+New :
+
+Reinforced Joints 0 -> 4
+
+Solid Bones 0-> 3
+
+Hardened Muscles 0->3
+
+Wordsmith 0-> 9
+
+Elemental Avatar 0 -> 1
+
+Upgrades:
+
+Mathematics 40 -> 41
+
+Stealth 72 -> 75
+
+Drawing 40 -> 41
+
+Athleticism 68 -> 70
+
+Running 69 -> 72
+
+Reading 30 -> 31
+
+Writing 30 -> 31
+
+Cooking 40 -> 45
+
+Cleaning 29 -> 31
+
+Haggling 37 -> 41
+
+Gardening 40 -> 41
+
+Axes 78 -> 80
+
+Hammers 79 -> 83
+
+Deception 50 -> 55
+
+Sword 77 -> 79
+
+Shield 76 -> 77
+
+Bow 72-> 73
+
+Spear 71 -> 74
+
+Throwing 55 -> 57
+
+Persuasion 45 -> 48
+
+Unarmed Combat 51 -> 55
+
+Knives 62 -> 68
+
+Skinning 52 -> 57
+
+Dismantle 64 -> 68
+
+Climbing 48 -> 50
+
+Tracking 59 -> 61
+
+Heat Resistance 45 -> 59
+
+Poison Resistance 79-> 80
+
+Pain Resistance 63 -> 69
+
+Trapping 36 -> 39
+
+Cold Resistance 38 -> 40
+
+Conversationalist 31 -> 40
+
+Cataloging 6 -> 11
+
+Scheduling 7 -> 10
+
+Swimming 1 -> 3
+
+Meditation 82 -> 86
+
+Sense Mana 85 -> 91
+
+Expel Mana 83 -> 88
+
+Sprinting 64 -> 70
+
+Mining 41 -> 46
+
+Lumberjack 21 -> 35
+
+Chanting 12 -> 13
+
+Increase Price 28 -> 38
+
+Lower Price 27 -> 36
+
+Danger Sense 72 -> 75
+
+Alchemy 77 -> 85
+
+Mana Milling 65 -> 75
+
+Precise Blow 70 -> 74
+
+Precise Cut 68 -> 73
+
+Judge Threat 61 -> 72
+
+Piercing Shot 58 -> 61
+
+Berserker 44 -> 56
+
+Cooperation 39 -> 57
+
+Berserker Style 29 -> 30
+
+Basic Truth Detection 33 -> 40
+
+Unnatural Balance 30 -> 37
+
+Feigned Interest 28 -> 32
+
+Focused Aim 24 -> 27
+
+Focused Mind 18 -> 30
+
+Accounting 5 -> 10
+
+Emotional Suppression 7 -> 16
+
+Second Breath 3 -> 5
+
+Ambidextry 2 -> 9
+
+Rider 1 -> 19
+
+Manipulate Mana 78 -> 86
+
+Water Aspect Mana 67 -> 70
+
+Fire Aspect Mana 69 -> 74
+
+Air Aspect Mana 65 -> 69
+
+Earth Aspect Mana 69 -> 71
+
+Light Aspect Mana 63 -> 68
+
+Shadow Aspect Mana 70 -> 72
+
+Inject Mana 64 -> 70
+
+Spot Weakness 61 -> 66
+
+Residue Recognition 45-> 47
+
+Mana Skin 64-> 69
+
+Teamwork 34 -> 49
+
+Curse Resistance 27 -> 35
+
+Dungeon Crafter 63 -> 70
+
+Battlemage Style 47 -> 49
+
+Impervious Senses 26 -> 31
+
+Alchemist’s Examination 50 -> 58
+
+Stabilize Mixture 46 -> 50
+
+Mass Production 36 -> 42
+
+Magnetic Aspect Mana 24 -> 29
+
+Assassinate 15 -> 33
+
+Diplomat 5 -> 21
+
+Spell Direction 6 -> 25
+
+Mana Augmentation 61 -> 65
+
+Mana Conjuration 56 -> 62
+
+Lightning Aspect Mana 57 -> 60
+
+Metal Aspect Mana 56 -> 57
+
+Ice Aspect Mana 55 -> 57
+
+Magma Aspect Mana 58 -> 60
+
+Void Aspect Mana 60 -> 62
+
+Holy Aspect Mana 50 -> 53
+
+Curse Slash 47 -> 50
+
+Reckless Researcher 15 -> 22
+
+Unstable Alchemist 29 -> 37
+
+Empowering Restriction 20 -> 31
+
+Creative Application 14 -> 21
+
+Vibrating Strike 19 -> 25
+
+Limit Suppression 22 -> 30
+
+Alchemical Researcher 10 -> 18
+
+Gravity Aspect Mana 7 -> 15
+
+Shadow Dweller 6 -> 13
+
+Sense of Dread 6 -> 21
+
+Venom Refining 8 -> 11
+
+Mana Syphon 54-> 61
+
+Enigma 40 -> 49
+
+Inspector’s Eye 35 -> 46
+
+Life Aspect Mana 25-> 29
+
+Vibration Aspect Mana 20 -> 28
+
+Telekinesis 16 -> 25
+
+Last Stand 6 -> 17
+
+Physically Enhanced Battlemage Style 7 -> 20
+
+[Mana Milling] and [Stabilize Mixture] could wait; his crafting was something he would focus on again once he was back in his duchy. [Danger Sense], [Cursed Slash] and especially [Telekinesis] on the other hand were things he needed to decide on.
+
+[Danger Sense] would have been the easiest for him to decide on had he not gained [Sense of Dread], the Epic Skill helping him in sensing anything that seriously threatened physically left him to choose between having [Danger Sense]’s threshold reinforce the Epic Skill or upgrade to sense intent. The latter would allow the Skill to sense political traps doubling as a partial social Skill that other nobles wouldn’t even suspect he had at such a high level.
+
+“Go for the intent.” Aurexion advised. “It would help you a lot more when dealing with Ascended races. Something as basic as [Danger Sense] even with the upgrade wouldn’t be hard for them to overpower but if something is actively blocking [Danger Sense] when it comes to intent you should know to not take their words at face value.”
+
+In Aurexion’s eyes making the choices to help in dealing with humanoids was a complete waste since it wouldn’t be longer than a couple decades before there would be no humanoid that could even threaten Ajax at the rate he was growing.
+
+For [Curse Slash] the upgrade was obvious. Ajax had used the Skill by itself as well but just as often he had used the Skill to add Curse Mana to other elements, seeing the cursed elements upgrade option that would specifically improve this use of the Skill made it a no brainer selection.
+
+And then there was [Telekinesis]. With it being a Legendary Skill Ajax knew that the selection wasn’t as definitive since he could select other choices down the line once the Skill grew further but, with both his Legendary Mana types improving power and efficiency had been the obvious choice.
+
+“What do you think I should do with [Telekinesis]?” Ajax asked, there were two options but each clearly pulled the Skill in a different way.
+
+The first option focused on increasing his power and control when using the Skill on other objects and people while the second increased power and control when using it on his own body.
+
+“Before you gained your Mythic Skill I would have said to go with the second option, to double down on what was already your strength.” Aurexion shared. “Now however I think the first option might be better.”
+
+“Why?” Ajax wanted to understand the dragon’s thought process.
+
+“Because you’re no longer forced to end fights so quickly.” Aurexion explained. “Before if you were truly pushed [Absolute Body Enhancement] was your only option and with the drain it places on your Mana and Stamina it has to warp your entire fighting style when using it. Now however you have options. It might not seem like it and we have to be extremely careful as you learn to use [Elemental Avatar] but from the little I saw when you became the avatar of Fire the amount of power you can pack on top of the relatively low maintenance cost the versatility is better. You have more than one option to rely on for a difficult fight.”
+
+[Elemental Avatar] was a sensitive subject, learning to use the Skill would take time and extreme care, Aurexion seemed almost paranoid about Ajax hurting himself with the Skill and Ajax trusted that paranoia was for a good reason. That wasn’t to mention the secrecy Aurexion suggested regarding the Skill.
+
+With his final decision on the upgrade made, Ajax took another look at his status. “Is [Elemental Avatar] what we should focus on training once we get back to the duchy?”
+
+“We should get a feel for how it works but I wouldn’t push it further than that just yet.” Aurexion disagreed.  “I would focus on some other things instead, upgrading [Battlemage Style], it is so close but with your Legendary Style I doubt it will grow further without dedicated training. Gaining the Rare [Mounted Combat] Skill will also be important to go with your [Riding] Skill especially since there has to be an Epic or Legendary version for [Dragon Riding] and both of those Skills would support it nicely. After that [Teamwork] and [Cooperation] would be my next focus, me gaining the Skills and you progressing should be the focus to ensure we can work together seamlessly if we are to take on anything close to level two hundred and fifty.”
+
+Ajax was surprised at the certainty Aurexion had about gaining Skills, something he would question the dragon on some more once they got back to Gryndor. For now however it seemed like the Republic was sending their group to negotiate the peace talks so Ajax and Aurexion got ready in case it turned out to be an ambush and a fight was to break out.
