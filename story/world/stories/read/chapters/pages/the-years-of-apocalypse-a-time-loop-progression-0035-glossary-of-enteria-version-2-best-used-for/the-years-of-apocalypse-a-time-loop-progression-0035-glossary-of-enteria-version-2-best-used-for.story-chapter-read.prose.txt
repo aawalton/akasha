@@ -1,0 +1,401 @@
+MapNote: Right click and open this file in a new tab and you can zoom way in on it and see details. Map is not perfectly to scale, but you can get a general concept of distances and relative location from it.
+
+Celestial Bodies
+
+Divir - The small moon, the one that keeps falling down (skill issue).
+
+Enteria - The planet.
+
+Luamin - The big moon
+
+Elder Gods
+
+Altrukyst - The traveler, the star-bearer, the void. Associated with doors, travel, and beacons. Statues of them have changed over time, but most involve him having a hollow chest with a chain linking one side to the other. They usually hold a lantern, and if in a painting, are usually standing in front of a door.
+
+Carkavakom - The destroyer, the law, the terror. They are depicted as humanoid column of flame locked behind a cage, with a sword in one hand and eyes embedded in Their other hand. They wear a cloak of skulls and screaming faces. Carkavakom is associated with the brutality of war and the punishments that keep law and order in society.
+
+Eintocarst - The enigma, the forerunner, the mathematician. He is depicted with myrvites and monsters by his side, and is associated with the Labyrinth and human progress. Industrial factories in Baracuel often have a shrine to him.
+
+Ominian - The guardian, the believer, the herald. Often depicted with knives sticking into them, a crown of burning laurels, and an open chest showing their heart. In paintings, they often sit on a throne. The Akanans hold the Ominian as the only true divinity, and most Persamans hold the Ominian as the only prophet of the true god. The Luminates simply believe the Ominian is the first and most important of the Elder Gods.
+
+Shiamagoth - The protector, the watcher, the crown. Associated with preparations for war and defensive wars, protecting the innocent, and ecology. Depicted with a floating aegis, a burning scepter, and a crown of floating eyes. He is often quoted as saying, “Power is only righteous if it protects life.”
+
+Xylatarvia - The breath, the envoy, the arcane, the hearth. Often depicted traveling on a boat made of vines through an ocean in the stars. Her hair is shown as plants, and skin as bark, and her statues have her holding out a scroll full of strange symbols. Prayers for life and knowledge are directed toward her.
+
+Yiaverunan - The bearer of light, the clockmaker, the cosmic. She is associated with light, time, and magic. Depicted with four arms, holding a timepiece, a star, a hammer, and a wheel. Her statues often have a blindfold.
+
+Zomalator - The renewer, the turncoat, the redeemed, the forgiven. They are depicted as a pale corpse full of red growths that resemble blood vessels and tangled briars, and a hollow face full of needles. The Luminate Order does not acknowledge their divinity, and sects that worship Zomalator are considered heretics.
+
+Countries
+
+Akana Praediar - A large country that dominates the western continent. There used to be a bunch of countries there, but a few hundred years ago, Baracueli colonists took over, then broke away from Baracuel and formed their own country. Recently, they’ve had a magitech boom and are now the richest and most powerful of the nation states.
+
+Baracuel - Where our story begins. A large country, on the north portion of the eastern continent. It used to be a bunch of separate countries, but after the Unification War it became… well, you get the idea.
+
+Florin Principality - On the southwest tip of Baracuel, and technically independent. This is where the famous Florinian ingots are stamped. Florin is still an important financial and trade city full of great wealth.
+
+Persama - A large region. It used to be one big empire ruled by a triumvirate, but it’s been broken up into various complex principalities, oligarchies, and areas occupied by Akana Praediar and Baracuel. Rich in fossilized myrvite, the stuff that makes spell engines work. Lots of vast desert areas.
+
+Tlaxhuaco - The country of the Tlaxhuacan people. A large island south of Akana Praediar. Contains both temperate and tropical rainforest zones.
+
+Zhighua - Southeast of Persama. Somewhat tropical.
+
+Cities / Places
+
+Alkazaria - Second capital of Baracuel, on the eastern side of the country. Large city. The Ibaihan River passes south of it. Has its Citadel and Great Temples on the creatively named Central Hill, and is famous for its many spires and temples.
+
+Arborholm - Akana Praediar city. North of the other major cities.
+
+Arriroba - Mirian’s home village. Found in east Baracuel, north of Madinahr. No train connects to it.
+
+Cairnmouth - Large coastal city in Baracuel, south of Torrviol and north of Palendurio. Straddles the Cairn River. Not to be confused with the hill in Cairnmouth with the same name.
+
+Falijmali - Small city at the southern edge of the East Sound, in Persama.
+
+Florin City - A technically independent principality (the Florin Principality), basically consisting only of this city and the surrounding countryside, found on the southwestern tip of Baracuel. Important port city and its banking guilds regulate the Florinian Ingot, which uses a seal system to guarantee arcanists don’t meddle with gold.
+
+Frostland’s Gate - Very small town at the northern edge of Baracuel, bordering—you guessed it—the frostlands. Has an entrance to the Labyrinth.
+
+Madinahr - Baracuel city, east of Alkazaria and south of Mirian’s hometown.
+
+Mahatan - Large Persaman city. Sustained by a large oasis. North of Alatishad. Ruled by Prince Rehiz.
+
+Mercanton - Akana Praediar city. The largest city in Enteria.
+
+Palendurio - First capital of Baracuel, on the western side of the country. The Magrio River passes through it.
+
+Second Cairn - Town famous for myrvite hunting. Upriver from Cairnmouth. Not to be confused with the neighborhood inside Cairnmouth of the same name.
+
+Torrviol - Home of the Torrviol Academy; where Mirian is living when this all begins.
+
+Vadriach - Capital of Akana Praediar. Across the Rift Sea from Baracuel.
+
+People
+
+Grouped by city and then alphabetically, with cities listed in the order they were explored in the story. Professors (and generals) are listed by last name first because that’s how you usually see them in the story.
+
+Torrviol
+
+Ada - Magistrate of Torrviol. One of the few non-corrupt officials.
+
+Adria Gavell - An Arcane Praetorian who was assassinated some years ago, but had her identity stolen by code name “Specter.”
+
+Atger, Jurrian - Professor of spell engines. Not a major character.
+
+Ayland - Akanan spy in Torrviol. This is the one who Mirian catches infiltrating the Myrvite Studies building early on.
+
+Bertrus - Guard of Torrviol. Usually in the plaza. Former classmate of Professor Seneca.
+
+Calisto Ennecus - 6th year student. Frienemy of Nicolus (they used to date). Family is heavily involved in myrvite hunting and harvesting resources from the Labyrinth.
+
+Cassius, Eskier - Professor of combat magic. Good at riding eximontar and magical fights. His eximontar’s name is Winterblossom.
+
+Daith Whellian - 5th year student on the combat mage track. Takes several classes with Mirian later in the cycles. Sister is Betella Whellian, a mercenary battlemage in Palendurio.
+
+Eld, Mician - Professor of enchantments. Harsh teacher, best known for being a jerk in the early chapters.
+
+Ethwarn - A prominent Torrviol banker and investor. In several cycles, he was elected Mayor to replace Wolden, and did a decent job. Technically a knight, so he can write “Sire” on formal letters.
+
+Ferrandus, Roland - High wizard and in charge of the Divine Monument project.
+
+Gerard - Akanan spy. The one that Mirian sees first on the roof of the alchemistry building.
+
+Holvatti, Marcel - Professor of arcane geology. Knows quite a bit about fossilized myrvite and rocks.
+
+Liamar - Fifth year student, and master duelist.
+
+Lily Berton - Mirian’s roommate. Blind, but wears enchanted glasses that let her see. Sister: Beatrice, up in Frostland’s Gate.
+
+Luspire, Medius - Archmage of Torrviol Academy.
+
+Marovim - Younger cleric of the Luminates. Speaks Cuelin better than Friian. Primarily works as a healer. Turned in Mirian when she had a curse-mark.
+
+Marva, Ghellia - Professor of Illusions, and likes to change their appearance drastically each day.
+
+Moliner - Elected Captain of the Torrviol Militia alongside Cassius in several cycles. A veteran of several conflicts in Persama and was a low-ranking officer before joining civilian life.
+
+Nicolus Sacristar - 6th year student. Member of the Sacristar noble family, an old Baracueli family. Lately, they’ve fallen out of power. Early ally of Mirian. Uncle is over in Akana Praediar. Dad is down in Palendurio.
+
+Nurea March - Knight, and guardian of Nicolus. Family serves the Sacristar noble house still. Stern and only a bit paranoid.
+
+Idras Norton - One of the more experienced Akanan spies in Torrviol, though he’s more loyal to Akana Praediar than the actual operation, which has some rather suspicious things going on.
+
+Ingrid Herrera - Grandmaster craftswoman and in charge of the crafting stations of the Torrviol Academy. In several cycles, helped tutor Mirian on precision artifice, metalworking, and woodwork.
+
+Jei, Song - Professor of arcane mathematics and early ally of Mirian. From Zhighua. Sister’s name is Bao. Secretly works on the Divine Monument project.
+
+Krier - Head Priest of the Luminate temple in Torrviol.
+
+Platus - Fellow student, best known for accidentally blowing himself up in the alchemistry lab early on.
+
+Runer - Professor of combat magic. Not a major character.
+
+Selesia - Akanan transfer student with Takoa heritage. Briefly dated Mirian in the early cycles.
+
+Seneca, Sefora - Professor of alchemistry and chemistry.
+
+Specter - The code name of a Baracueli agent turned Akanan double-agent. Leader of the Torrviol cell of spies. Usually disguised as Adria Gavell, who she killed. Her real name is (spoilers for chapter 124) Nikoline Brunn. Who?
+
+Timmon - Akanan spy in Torrviol, acting as Mayor Wolden’s secretary.
+
+Torres, Iliyia - Professor of artifice. A prodigy in her field. Connections to the military and secretly works on the Divine Monument.
+
+Valen - A 6th year student. Rude to Mirian, but it turned out that was because she liked her. Her dad was a Department of Public Security spy and, it turns out, wasn’t the best at teaching healthy relationships.
+
+Viridian, Selkus - Professor of myrvite ecology. Older man with a gray beard. Master botanist and arcanist. Easily changes his behavior during a cycle.
+
+Wolden - Mayor of Torrviol. Corrupt, and has been taking bribes from the Akanan spies. Those spies also monitor him in his own office.
+
+Xipuatl Yanez - 6th year student. From the Yanez noble house, which has both Tlaxhuacan and Baracueli heritage. Trained in some celestial plant magic. Friend of Nicolus, and early ally of Mirian.
+
+In/From Other Places But You Should Probably Know Them
+
+Alexus Sacristar - Uncle of Nicolus. Currently in Akana Praediar in Vadriach City.
+
+Atroxcidi - Legendary necromancer that Mirian heard about from one of her classmates. Fought in the Unification War. Ahh, that was so long ago. He probably won’t come up later. Don’t worry about it.
+
+Cearsia, Emera - Marshal of the Akana Praediar and nearly an archmage. Commands the airships Might of Liberty (her flagship) and Republic’s Justice, two airship dreadnoughts. Frenemies with Archmage Luspire.
+
+Dhelia Castrella - Mirian’s adoptive mother and a woodworker.
+
+Grandpa Irabi - I’m not making an entire section just for Arriroba, so Irabi goes here. He’s a beloved village elder who acts as everyone’s Grandpa. If you don’t remember him, Mirian is very disappointed in you.
+
+Jeron Castrella - Mirian’s adoptive father. Works as a teacher in Arriroba’s schoolhouse.
+
+Zayd Castrella - Mirian’s younger brother. Extremely cute. On a family trip from Arriroba through Florin City to go visit his big sis for graduation.
+
+Cairnmouth
+
+Arenthia - High priestess of the Cult of Zomalator. Captured before the cycle begins and slated for execution.
+
+Hanaran - General of the Baracueli Fort Aegrimere Division. Brings her division up north when Akana Praediar invades.
+
+Lecne - Priest and prominent member of the small Cult of Zomalator, a heretical split from the Luminate Order.
+
+Maruce - Cult of Zomalator acolyte.
+
+Numo - Syndicate criminal and arcanist who specializes in document forgeries.
+
+Pelnu - Cult of Zomalator acolyte. The temple cook.
+
+Ravatha - Syndicate criminal. Sire Nurea’s contact among the Cairnmouth Syndicate.
+
+Sethra - Cult of Zomalator acolyte.
+
+Tlati - Cult of Zomalator acolyte.
+
+Willhelm Marhurst - Governor of Cairnmouth.
+
+Frostland’s Gate
+
+Aelius - Leader of the Ennecus Group Expedition into the Labyrinth.
+
+Beatrice Berton - Lily’s sister. An arcanist (combat mage) and researcher of the Labyrinth. Part of the Torrviol Academy’s Expeditionary Group.
+
+Cediri - Part of the Torrviol Academy’s Expeditionary Group into the Labyrinth. Also a member of the Great Cairn Academy. Also a Syndicate smuggler.
+
+Elsadorra - Appraiser and independent researcher. Knows quite a bit about the Labyrinth and myrvites.
+
+Gomaer - One of Aelius’s heavy fighters.
+
+Grimald - Part of the Torrviol Academy’s Expeditionary Group into the Labyrinth. Heavy fighter.
+
+Palendurio
+
+Arturus Castill - Director of Operations in the Department of Public Security (Deeps).
+
+Aurelius Palamas - King of Baracuel, though since Baracuel is a republic now, it’s officially a ceremonial position. As patriarch of the Palamas family, though, has quite a bit of wealth and sway. Brother to Quintus, the governor.
+
+Betella Whellian - Sister of Daith, a student in Torrviol. Caught up in the attack on the false-flag attack on the Akanan Embassy that helps kick-start the war.
+
+Decian Corrmier - Leader of the Pure Blade mercenaries. Brother of Kallin Corrmier.
+
+Celine - Journalist and editor of the Magrio Broadsheet, a Palendurio paper.
+
+Everad - Luminate Guard, stationed in front of the holy vaults of the Grand Sanctum.
+
+Hamel - Acolyte in the Grand Sanctum, and former accountant.
+
+Kallin Corrmier - High ranking General of the Baracueli Army, stationed in Palendurio. Brother to Decian Corrmier.
+
+Kathera - Akanan embassy worker.
+
+Lancel - Bishop of the Luminate Order, stationed in the Grand Sanctum.
+
+Marduke Sacristar - Nicolus’s dad, and head of the Sacristar family, an older noble family that has declined in power over the decades.
+
+Oculo Stellnat - Pontiff of the Luminate Order. Birth name is Alberin Allard. Lives in Charlem Palace, which is on the hill above the Grand Sanctum.
+
+Quintus Palamas - Lord Governor. Prominent member of the Palamas noble family, and brother to the king.
+
+Rostal Bedeu - Older Persaman Dervish. Has been all over Persama. Mentor to Ibrahim, and introduced Mirian to Dervish soul-forms.
+
+Treyul - Priest of the Luminate Order, also in the Grand Sanctum.
+
+Valentar - Bishop of the Luminate Order stationed in the Grand Sanctum.
+
+Second Cairn
+
+Annita - Experienced myrvite hunter and powerful sorceress. Works regularly with the Ennecus guild.
+
+Bern - Guard for the Ennecus Guildhall
+
+Cain Ennecus - Calisto’s father and head of the Ennecus Guild
+
+Silvera - Cain’s secretary
+
+Alkazaria
+
+Batima Ayral - Commander of Alkazaria’s garrison
+
+Izrif, Iredol - First Councilor of Alkazaria.
+
+Saban - Bishop of the Luminates, but also working with the Department of Public Security.
+
+Sybil - Artificer in the city. Not particularly important (sorry Sybil).
+
+Trinea - Praetorian and friend of Adria Gavell, the dead Praetorian whose body was left in the Torrviol catacombs. Awkward.
+
+Voran - First Praetorian, and leader of the strike team sent to kill the arch-necromancer Atroxcidi. Leading about 36 Praetorians.
+
+Florin City
+
+Funnily enough, not really anyone to put here yet.
+
+Vadriach City
+
+Allen Matteus - Director of the Republic Intelligence Division (RID).
+
+Clement Stalswrot - Another random rich guy
+
+Grand Marshal Maximus Caldwell - Head of Akana Praediar’s armed forces
+
+Lester Rosen - Owner of Rosen Joint Stock Corporation and friend of Mr. Aurum. Daughter is married to Tyrcast.
+
+Lord Saiyal - A very rich Persaman Warlord with influence in Urubandar and Alatishad
+
+Magnus Tyrcast - Archmage of Vadriach University. Married to Josephine Rosen. Invented the Tyrcast engine.
+
+Silou Westerun - A Baracueli who worked with the Deeps on mind control magic, now working for the RID. Messed with Mirian’s mind as part of Project Flayer.
+
+Sylvester Aurum - Richest man in Akana Praediar
+
+Mercanton
+
+Gwenna Aldworth - Theodoro’s handler and RID agent, associated with Westerun.
+
+Jondar Kinsman - Prime Minister of Akana Praediar. Fated to be assassinated if nothing changes, which is used to rile the Akanan population up for war against Baracuel.
+
+Mavwell Mark - Contractor working as a RID assassin
+
+Theodoro - Baracueli immigrant who currently acts as a patsy during the assassination of the Akana Prime Minister.
+
+Mahatan
+
+Eylua - Holy Sentinel. We first met her when she was assigned to shadow Mirian.
+
+Minister Koyar - Minister of Towers.
+
+Minster Zeysum - Minister of Sanctuaries.
+
+Prince Rehiz - Lord of Mahatan, Keeper of the Forbidden Palace, and Protector of the Sacred Waters.
+
+Faljimali
+
+Najwa - Artificer and owner of Najwa’s Artificing
+
+Thaseem - City guard, and member of the Junudasun, a rebel group that doesn’t like Baracuel.
+
+The Noble Families of Baracuel
+
+Technically, after the Unification War and founding of the Republic of Baracuel, all the noble houses were stripped of official privileges and titles, with the exceptions of “king” and “lord governor.” However, these families are still powerful, and have high connections throughout the government. You’ll generally know if someone is part of these families because this will be their last name.
+
+Allard - A relatively powerful noble family. Invested heavily in solver-mining, banking, and glyph-security technology.
+
+Bardas - Another old house, mostly in west Baracuel. They invest heavily in real estate, farming, and monster hunting preserves.
+
+Corrmier - A family with a strong military tradition.
+
+Palamas - One of the oldest and most powerful of the noble families. Mostly in west Baracuel. They are most heavily invested in spell engine production and fossilized myrvite extraction.
+
+Sacristar - An older house, but one on the decline. It has shrunk drastically in the past few decades. This is Nicolus’s family.
+
+Yanez - A family with old ties to both Baracuel and Tlaxhuaco. This is Xipuatl’s famly.
+
+Big Spoilers! Probably don’t click unless you’re done with chapter 195. Anyways, you were warned.
+
+Other Time Travelers / Prophets
+
+Celen - Akanan time traveler who begins in Mercanton. Currently committing suicide at the start of each loop. A bit dark, I know.
+
+Gabriel Arjen - Half Persaman, half Akanan. Worked for the Akana’s Republic Intelligence Division for a time. Begins the loop in Urubandar in Persama. Bit of a hedonist.
+
+Ibrahim Kalishah - Initially known as the “southern traveler.” Persaman, and begins the loop in Rambalda. Leader of the Dawn’s Peace, a rebel group inside north Persama. By now, a Powerful Dervish and expert general.
+
+Liuan Var - Half Akanan, half Zhiguan, though has spent most of her life in Akana. Where she starts the loop is unknown, but Mirian suspects Ferrabridge. Member of the Church of the Ominian. Cautious.
+
+Sio Jherica - Wizard at Vadriach University. Cursed into a coma for many cycles.
+
+Sulvorath / Troytin - The first other time traveler Mirian encounters. Akanan, and obsessed with political power. Believes the time loop is a grand contest he is fated to win.
+
+And Now Some Magic!
+
+Glyphs - Used for arcane spells and spell-engines. Glyphs are used to manipulate the fundamental energies of the world (light, heat, magnetism, kinetic energy, etc.) and matter. The arcane force is impeded by auras and souls.
+
+Runes - Used for celestial and necromantic spells, like healing, soul-binding, and curses. Spells and magic that concern life and the soul use runes.
+
+Dervish Forms - These involve manipulating one’s own soul into different ‘patterns’ or ‘currents’ to achieve an effect on the body. Here’s the ones Mirian knows:
+
+The Spear That Cuts Water - Enhances the agility of the dervish, making it easier to dodge blows and land hits.
+
+Lone Pine On The Mountain - Enhances endurance, dulling pain, mitigating injuries and increasing stamina.
+
+The Sinister Hand Of Shadow - This is the stance that Akanan auramancers are based off of. Extends the aura of the dervish in order to extend their spell resistance. With training, the exact dimensions of the aura can be manipulated.
+
+The Blooming Red Iron - A dervish training form. Increases the speed at which one learns physical lessons (and how fast one can grow their aura, as Mirian discovers). Dangerous if you learn something ‘wrong.’
+
+The Dance of the Dusk Waves Across the Ocean - The tempest stance, enhancing speed and reaction time.
+
+Last Breath Of The Phoenix - The strength stance. The dervish gains more physical power to their muscles, which can also be used to keep going when their natural endurance has run out. However, this stance consumes soul energy to function, so is dangerous.
+
+Calendar
+
+All countries use the same calendar, though not the same dating system.
+
+There are 13 months, each of which is exactly 28 days*.
+
+The months the story has covered are (in order):
+
+Cerelorn (pre-time loop)
+
+Solem (time loop starts on the 1st of this month)
+
+Duala
+
+Merisheth
+
+*How convenient! That means a year on Enteria is 364 days, almost exactly one Earth year, so all characters ages would essentially be the same on Earth too.
+
+There are 7 days of the week, conveniently named Firstday, Secondday, Thirdday, etc. until Seventhday.
+
+In Baracuel, the year is Poclym 4851, based on counting up from the Cataclysm
+
+In Akana Praediar, the year is Prophet 3492
+
+There are other dating systems as well. That said, the exact years of events very rarely come up in the story.
+
+Languages
+
+Country is listed, with the languages used after
+
+Akana Praediar - Mostly speaks Eskanar, though the semi-autonomous Semnol, Takoa, and Mianol have their own languages.
+
+Baracuel - Mostly speaks Friian (in the west) and Cuelsin (in the east). Dozens of other languages exist, but are spoken much less frequently.
+
+Persama - Mostly speaks Adamic
+
+Tlaxhuaco - Speaks Tlaxa
+
+Zhighua - Mostly speaks Gulwenen
+
+Viaterria (historical entity; doesn’t exist anymore) - Used Lorcadian for writing. Spoken language unknown.
