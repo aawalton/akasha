@@ -1,0 +1,40 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const nexusAwakeningALitrpgApocalypse = {
+  id: "01a166a8-da6c-7080-8fd4-f4e8b42b4385",
+  type: "page-type/story-read",
+  slug: "nexus-awakening-a-litrpg-apocalypse",
+  author: "L.R. Monroe (Emrys)",
+  following: false,
+  unit: "unit/words",
+  title: "Nexus Awakening: A LitRPG Apocalypse ",
+  world: "world/nexus-awakening-a-litrpg-apocalypse",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "117891",
+      externalLink: "https://www.royalroad.com/fiction/117891/nexus-awakening-a-litrpg-apocalypse",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Progression",
+    "Post Apocalyptic",
+    "Anti-Hero Lead",
+    "Psychological",
+    "Action",
+    "Fantasy",
+    "Sci-fi",
+    "Attractive Lead",
+    "Dungeon Crawler",
+    "Magic",
+    "Male Lead",
+    "Soft Sci-fi",
+    "Strong Lead",
+    "Supernatural",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T02:48:24.428Z",
+  updatedAt: "2026-10-23T02:48:24.428Z",
+} as const satisfies StoryRead

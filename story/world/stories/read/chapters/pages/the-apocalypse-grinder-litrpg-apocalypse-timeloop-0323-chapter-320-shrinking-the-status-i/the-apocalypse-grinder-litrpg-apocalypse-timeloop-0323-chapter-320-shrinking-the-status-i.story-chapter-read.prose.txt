@@ -1,0 +1,47 @@
+It was time for a long-overdue session in the Chronos Forge. Ronan had spent almost a hundred iterations doing nothing but practicing his abilities and gaining new masteries. The end result of that was his vastly improved combat strength and the litany of new masteries and spells he had acquired, but also a very, very large number of skills and traits had joined his status, turning it into a truly lengthy read.
+
+While quite a few of them were useful to him, the vast majority were either so average it wasn’t worth keeping them or plain useless. That was where the Chronos Forge came in. The truly useless ones that had no potential whatsoever would become fuel, while those that were meh could potentially gain new uses when alloyed with other skills to form something new.
+
+Ronan was curious to try it out and see just what he could create. He also wanted to improve some of his existing skills. He had obtained skills that were a higher rarity than legendary due to his classes and sub-classes, but he wanted to have a few that were permanent additions to his roster. Most notably, he wanted a combat skill that was above Mythical. Heavenly at the very least, but maybe if he could push one all the way to Celestial it would be even better.
+
+Of course it would likely require a lot of fuel in the forge, but he had no issues there. The number of useless and close to useless skills he had collected over the nearly one hundred and thirty iterations of grinding was great, and he was eager to burn them up to create something better. When it came to magical skills, the system would show him ways he was lacking; he could take its guidance as inspiration to improve his sorcery. In other areas, he was still far from being able to even understand how the system improved his capabilities, let alone replicating it.
+
+Surging Strikes, for example. It was one of his most powerful skills, to replicate a single attack endlessly, until he ran out of either mana or stamina. That was something he hadn’t the faintest idea how to do without the use of the system. Even attacking twice in an instant was something like a myth to the greatest martial artists on Earth before the integration, but Ronan could perform a dozen without breaking a sweat by that point, thanks to his alloyed skill.
+
+He was looking forward to seeing what else he might be capable of after creating even more powerful skills. Having been given a taste of the higher rarities in the form of class skills, he was eager to push his own, that had been languishing at epic and legendary, into those higher rarities. Having a mythical or even heavenly combat skill would give him a razor edge against more powerful foes. It was an advantage he desperately needed, and the Chronos Forge would be where he obtained it.
+
+To begin with, there were plenty of utility skills to combine and more to burn. They were not usually the most flashy in his arsenal, but over time Ronan had learnt their value. Something like Relentless Training, which had started as a rather weak boost, had become a valuable tool for him to gain experience faster. He had realised a while back that because of how his heritage functioned, it actually had continuity across his lives, which meant that every foe he had slain since he first acquired a common version of the skill was recorded, and each subsequent one he killed granted an ever-greater reward.
+
+While he wasn’t sure some of the skills he was about to make would be quite as directly impactful as the legendary version of Relentless Training had been, Ronan was certain they would help him as he continued his journey towards the peak of strength he had witnessed in his most recent life—and the closest he had ever come to truly dying.
+
+He pulled up his status as he floated outside the twisting obsidian spires of the forge. As he had acquired the various skills now listed there, he had categorised them into different sections in his mind. However, the list kept growing and many skills had overlapping functions. Often there were skills he felt could be alloyed in two different ways, or more. He didn’t want to make any mistakes, not after everything he had worked for.
+
+The first alloy he decided to make would have been a rather simple tracking and awareness skill, but at the last minute he had decided to take a risk on it. Losing one of his most valuable combat skills was a dangerous gamble to make, but he was confident in his luck. If the final outcome was anything close to what Ronan had in mind, it would transform his ability to fight against monsters, no matter what they were. He entered the forge knowing exactly what he was about to sacrifice, and what he wanted to gain.
+
+He had made sure to raise all the skills that he was going to alloy to at least epic rarity. Anything less would be insulting. The end result wasn’t quite what he had expected, but it was close enough. The effects of the new skill more than spoke for themselves.
+
+[Mark of the Eternal Seeker (Legendary)], [Treasure Hunter (Epic)], [Eagle Eye (Epic)], [Calculation (Epic)], [Butcher (Epic)], [Assassinate (Epic)], [Heightened Senses (Epic)], [Intuition (Epic)], [Sense Prey (Legendary)], and [Detective (Legendary)] have been alloyed to produce a new skill: [Inescapable Hunter (Legendary)]!
+
+Inescapable Hunter (Legendary): You are the hunter. Once you set your sights on your prey, there is nowhere it can run, and nowhere it can hide. With a single glance, every weakness is revealed, and fate is sealed.
+
+The flavour text was plain, lacking any descriptive information about the skill, other than the ominous statements about hunting. Ronan wasn’t fond of mysterious nonsense, but the system seemed to enjoy it. Then again, even most of the skills he’d acquired until that point at least explained their function more clearly than his latest skill, but there was nothing he could do about it. Testing would reveal everything he needed to know about Inescapable Hunter. The name, at least, was promising.
+
+Before he could test the new skill, however, there were many more to create. Ronan didn’t leave the forge. He knew what the next skill he wanted to make was, and it wasn’t an alloy. Instead, it was an upgrade to an existing skill.
+
+He had considered long and hard whether he wanted to add more capability to Surging Strikes. There were other combat skills he had that might fuse well with it, but ultimately he had come to the realisation that diluting its power would only make it weaker. He had already created something exceptionally powerful. All that held it back was its rarity, which the forge could change. Rather than turn Surging Strikes into something it wasn’t, he would simply enhance it, and then create more combat skills to use in tandem.
+
+While Ronan had never used that particular function of the forge, it wasn’t hard to figure out. The difficult thing about alloying was that the final skill would never be a higher rarity than the skills used to create it. That didn’t mean it wasn’t better than its parts, because the alloyed skill usually had far greater effects than simply mashing together whatever skills had been put into it, but it did mean they weren’t an entire level better. However, the forge could also burn his useless skills to empower his aces, and that was what he was about to do for Surging Strikes.
+
+The cost wasn’t excessive to go from epic to legendary, but he knew it would only become more and more punitive as he went on. There would be a hard limit to how much he could improve it. However, one of the benefits he had gained in the ancestral grounds after all of his effort was that the forge’s fuel capacity had increased, among other things. Despite the fact it made no mathematical sense, it could now have up to 250% fuel. That meant he would be able to push his greatest skill to a level it never could have reached before.
+
+It was time to begin.
+
+[Surging Strikes (Epic)] has been tempered and grown more powerful!
+
+[Surging Strikes (Epic)] has become [Surging Strikes (Legendary)]!
+
+Surging Strikes (Legendary): By consuming health points and stamina, multiply a single strike into a barrage of unrelenting force. For each consecutive strike added to the chain beyond 2, the base cost is multiplied by 1.4. Every strike that successfully lands on your opponent will leech 55% of the damage done as stamina. The user can choose to increase the health point cost of each strike, gaining 35% increased damage for every (2^x * Base Health Cost) increment reached. Every consecutive strike that successfully hits in a single chain multiplies the damage of the following strike in the chain by 1.4. (Cost: 240 Stamina + 20 Health Points
+
+The skill now cost slightly less resources and did far more damage. Even better, it would leech more stamina. That meant Ronan would have less problems enduring in battles that went on for a long time. That had been an issue towards the end of his fight against the twin kaiju, but hopefully it wouldn’t be the deciding factor in future battles.
+
+But he wasn’t done yet. He could still afford to improve the skill to the next tier, and he had no reason to hold back.

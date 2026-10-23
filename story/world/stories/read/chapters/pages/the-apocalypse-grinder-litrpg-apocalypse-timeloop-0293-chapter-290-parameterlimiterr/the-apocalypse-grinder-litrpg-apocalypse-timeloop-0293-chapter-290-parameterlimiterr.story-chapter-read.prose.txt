@@ -1,0 +1,105 @@
+Congratulations, you have cleared Stage 4 of the tutorial!
+
+All basic system functions have been unlocked! Access will be restored once you exit the tutorial.
+
++62 Bronze Credits
+
++491 Copper Credits
+
++Myriad Skills Tome (Epic)
+
++Endless Treasury Token (Mythical)
+
+Stage 5 will begin in 5 minutes!
+
+Ronan briefly marveled at the number of credits he’d earned. However, he could already barely feel his body as his blood drained into the ocean. He used some mana platforms to lift himself out of the water and onto a chunk of the boss’ corpse. It was better than constantly treading water and using more energy than he needed to, simply to stay afloat. Once he was lying as comfortably as an almost-dead man could, he used the myriad skills tome and the endless treasury token at the same time.
+
+The effects that accompanied the opening of both items played out in front of him, but when they finished, there was no notification. Ronan frowned. Had the system somehow scammed him out of his rewards?
+
+A few more seconds passed, during which he grew increasingly confused and frustrated. Then he heard a strange noise followed by two weird system message boxes flashing in and out of view in front of him. They seemed to be glitching and he struggled to read what they said. After some struggle he figured it out and began to laugh like a madman.
+
+PARAMETER_LIMIT_ERR
+
+PARAMETER_LIMIT_ERR
+
+While he had never seen the glitch before and couldn’t be certain, he suspected that somehow his ridiculous luck stat had managed to break the loot rolls for both items. It was hilarious, but also annoying as hell. So just because I’m too good you started to break? This was only the tutorial so how would things work for someone who is a way higher level than me? Surely there are some overpowered old monsters out there with way higher stats than I have right now? A regular system chime broke him from his thoughts. The two glitching messages vanished and were replaced by a single notification.
+
+I don’t know what you are, Ronan Steele, but I have an offer for you once you finish your tutorial. Assuming you can defeat the final stage, that is. I have also included a potion to stop you from dying. It would be a shame to lose such a valuable asset. It’s clear that the last test wasn’t enough. I’ve used some of my authority to override the tutorial loot parameters. Enjoy whatever you manage to earn with that ridiculous luck. Be warned, do not mention this to anyone who works for the system or I will exert everything I possess to crush you.
+
+Administrator 103, Gorax the Cleanser
+
+Administrator? I don’t know what that is but the number is the same as the number that our integration had. Maybe this Gorax dude is in charge? That would make sense based on the message. He helped me out, I guess, so I can’t really be mad at him for threatening me. I hate the system too, buddy, not like I would have snitched anyway.
+
+When he dismissed the message there was a surge of mana around his body. Ronan’s entire body was wracked with pain for a few seconds. When it faded all of his wounds had been healed. Not quite as gentle as the system restoration, but thank you Mr. Cleanser. He didn’t really know why the administrator had helped him but he wasn’t the type to look a gift horse in the mouth. The heal meant he might still be in with a shot at completing the nightmare tutorial for the first time.
+
+Even with the immediate rush not as important, he still wanted to get a lot of things done before stage 5. There was no guarantee he would survive that, after all, and he didn’t want to waste his rewards.
+
+In front of him, the effects for the skills tome and the treasury token seemed to revert and then replay. The second time around, when they ended, there was no error message but instead the ones he’d been expecting from the beginning.
+
+[Myriad Skills Tome (Epic)] has been consumed!
+
+You have received the skill [Altered Destiny (Unique)]!
+
+Altered Destiny (Unique): Once per week you may alter the destiny of another being or object from what it was originally ordained to be. The stronger the deviation from the original destiny the greater the cost. Altering the destiny of beings or objects more powerful than yourself is possible, but an exponential cost scaling factor is applied. (Base Cost: 50% Max of all Energy forms possessed)
+
+[Endless Treasury Token (Mythical)] has been consumed!
+
+You have received [Race Change Token (Heavenly)]!
+
+Race Change Token (Heavenly)
+
+This token will grant the one who consumes it the opportunity to change their original race to a new one. The races available depend on the rarity of the token. A heavenly race change token allows the one who consumes it to ignore any affinity or physiology requirements for their chosen race.
+
+The skill was crazy powerful. It had a steep cost and a really long cooldown but Ronan could already see so many impactful uses for it. A lot of his best skills and traits seemed to be more and more related to fate and destiny and other grand concepts. He wasn’t sure he enjoyed the idea of so much being pre-ordained, but there was little he could do about it.
+
+As for the item he received, it was even more intriguing. The first thing he had to consider was if he even wanted to change his race. He rather enjoyed being a human. He hadn’t even found his sister yet, but the thought of meeting her and no longer being human was odd. Then again, his heritage already changed his existence and reality to be vastly alien to the average human, even post-integration. Would changing his race be all that different?
+
+Not to mention that being a human, in terms of the system, didn’t seem to be all that great. The stat gains per level weren’t amazing compared to his classes and there were no racial skills to speak of beyond the minor mastery gain bonus. A race with better advantages might be something worth considering.
+
+Fuck it. Ronan used the token.
+
+[Race Change Token (Heavenly)] has been consumed!
+
+Please select the race you wish to change to from the following:
+
+An enormous list unfolded in front of his eyes. There were too many to reasonably check through all of them. A glance at the corner of his vision and his surroundings let him know that time had frozen as it did during class evolutions and some other system events. That relieved him a little, but even with infinite time he wasn’t sure he wanted to trawl through what had to be tens of thousands of race options.
+
+He hoped that there would be parameters to narrow it down. Can you order them from highest to lowest rarity? The system complied and the list in the box shifted. When it finished Ronan started to read.
+
+Juvenile Suneater (E)
+
+Void Locust Larvae (E)
+
+Silicate (E)
+
+Abyssal Devourer (E)
+
+Juvenile Frost Titan (E)
+
+…
+
+Ronan noticed an immediate… Well, not a problem but rather a personal aversion. No matter how overpowered a race it was, there was no way he was going to turn into something called a Void Locust. Even if it’s a sapient race there’s no fucking chance I’ll become some sort of space insect. System you can clearly read my mind so can you just get rid of any races where the physiology is unacceptable. A shiver ran down his spine as the list shifted once more.
+
+He frowned when he saw the new list, but if the system had done its job properly then every race left should be one he would be happy to change into. Aesthetically, at least.
+
+Silicate (E)
+
+Abyssal Devourer (E)
+
+Juvenile Frost Titan (E)
+
+Angel (E)
+
+Valex (E)
+
+Juvenile Chronate (E)
+
+…
+
+Ronan started to skim through the actual descriptions of the various races. He dismissed the first one. It was some kind of shapeshifting race, which meant he could adopt a humanoid form, but at the same time the main strength of the race seemed to be in absorbing parts of other creatures and replicating them. Essentially it would be useless if he wanted to remain at least somewhat human looking.
+
+The second one said he could take on any form he wished, but it also said that all Abyssal Devourers possessed an innate and unquenchable desire to destroy and consume everything around them. He didn’t want to become some kind of space berserker who slaughtered friend and foe alike.
+
+The third class reminded him of those frost giants who had obliterated him in a single blow a few iterations ago. Ronan wasn’t against the idea of becoming big, but he also wasn’t sure if the race would be compatible with his Sorceric Bastion of Purity sub-class. At the very least, he doubted he could make the most use of that race’s innate talents.
+
+He continued to read, knowing that he would likely be there for a long time. Hopefully one of these is a good choice.

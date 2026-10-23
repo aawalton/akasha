@@ -1,0 +1,163 @@
+The cost to temper Surging Strikes from legendary to mythical was expensive, but not prohibitive. Ronan still had plenty of useless skills to burn, and he put a dozen of them into the forge as fuel to prepare for the upgrades he was performing. The moment it reached the required amount of fuel, he began the tempering process once more.
+
+[Surging Strikes (Legendary)] has been tempered and grown more powerful!
+
+[Surging Strikes (Legendary)] has become [Surging Strikes (Mythical)]!
+
+Surging Strikes (Mythical): By consuming health points and stamina, multiply a single strike into a barrage of unrelenting force. For each consecutive strike added to the chain beyond 2, the base cost is multiplied by 1.35. Every strike that successfully lands on your opponent will leech 60% of the damage done as stamina. The user can choose to increase the health point cost of each strike, gaining 45% increased damage for every (2^x * Base Health Cost) increment reached. Every consecutive strike that successfully hits in a single chain multiplies the damage of the following strike in the chain by 1.6. (Cost: 240 Stamina + 20 Health Points
+
+It was a fantastic upgrade to an already powerful skill. Ronan was very pleased with it, but he dismissed the notification and turned his attention back to the forge. Not only did he want to push Surging Strikes to the next rarity—if he could afford the cost—but there were still plenty more upgrades and alloys to be made before he could begin his next iteration.
+
+Ronan left the Chronos Forge feeling like a new man. There were no useless skills left in his status, and even the lowest ranked of his skills were Rare. Looking over his status, it was hard to believe he was capable of everything it displayed.
+
+Name: Ronan Steele
+
+Race: Juvenile Chronate (D)
+
+Heritage: Reverberating Chronosphere (Current Iteration: 182) +
+
+Level: 0
+
+Class: None
+
+Sub-Class 1: Sorceric Bastion of Purity (Epic)
+
+Sub-Class 2: Blessed Dao Child (Heavenly) +
+
+Fortune: None
+
+[Stats] +
+
+Health: 43979/43979
+
+Stamina: 30398/30398
+
+Mana: 25828/25828
+
+Vitality: 85.17 (+75)
+
+Endurance: 39.31 (+75)
+
+Wisdom: 20.42 (+75)
+
+Regeneration: 28.32 (+75)
+
+Resistance: 18.35 (+75)
+
+Strength: 50.04 (+75)
+
+Agility: 51.46 (+75)
+
+Intelligence: 13 (+75)
+
+Dexterity: 47.93 (+75)
+
+Acuity: 37.46 (+75)
+
+Tenacity: 49.98 (+75)
+
+Luck: 4 (+75)
+
+Charisma: 8.64 (+75)
+
+Available Points: 0
+
+[Traits]
+
+[Mythical]
+
+Time Affinity
+
+[Legendary]
+
+Fate Alignment (Personal), Dimensional Affinity
+
+[Epic]
+
+Luminous Nerves (Mutative), Luck is a Skill (Meta), Dual Mind (Mutative), Cold Affinity, Water Affinity
+
+[Rare]
+
+Mineral Skeleton (Mutative), Berserk Cultivation Body (Mutative), Animal Prescience (Evolutionary), Manasynthetic (Evolutionary), Shard Reprocessor (Mutative)
+
+[Skills]
+
+[Universal]
+
+Unified Language Adaptation
+
+[Celestial]
+
+Surging Strikes
+
+[Legendary]
+
+Porcupine Body, Relentless Training, Stupendous Stats, Inescapable Hunter, Theories of Cultivation, Omni-Enchant, Dimensional Strike
+
+[Epic]
+
+Reverberating Path (Blessing), Weapons Expert - Ranged, Artful Accumulation, Blade Maestro, Arcane Piercing Strike, Insightful Artificer, Gaze of Terror, Healing
+
+[Rare]con
+
+Learn Through Suffering (Cla5?), Light Manipulation, Cure Affliction, Pressure Cutter, Weapons Expert - Hammers, Quick Step, Critical Tempo, Critical Experience, Stone Grip, Freeloader, Weapons Expert - Melee, Lightning Strike, Summon Creature - Medium
+
+[Mastery]
+
+[Unlocked]
+
+Mana IX 11/100, Shield I 3/100, Stamina VIII 24/100, Pain III 39/100, Anti-Magic 2/100, Leadership 1/100, Stealth 1/100, Critical III 19/100, Momentum II 1/100, Health VI 12/100, Crafting 18/100, Enchant 5/100, Blunt Weapons VII 21/100, Spellcasting IV 46/100, Creativity 11/100, Thrown Weapons I 19/100, Physical Body IV 29/100, Slashing Weapons V 16/100, Piercing Weapons III 49/100, Control IV 8/100, Restraining Weapons III 18/100
+
+[Available]
+
+Cultivation, Swimming, Cooking, Survival, Construction, Drawing, Flying, Forging, Excavation, Divinity, Corruption, Divination, Time…
+
+[Cultivation]
+
+Mind: Topaz ★ (1.6%) [Seven Silent Clarities (Legendary), 41.2%]
+
+Body: Bronze ★ (0.4%) [Diamondback Gorilla (Rare), 100%]
+
+Energy: Luminous ★ (1.1%) [Dynamic Flow (Epic), 56.2%] +
+
+Soul: Green ★ (0.7%) [Endless Wellspring Prismatic Soul Art (Legendary), 36.8%]
+
+[Blessings]
+
+Blessing of Chronos (Boundless), Minor Blessing of the Temporal Obelisk (Unique), Tellen Mark of the Guardian Initiate (Epic), Minor Blessing of the Chronos Forge (Unique), Minor Blessing of the Dark Sea (Unique)
+
+[Mutations]
+
++138% Mental resistance, +96% Magical damage resistance, +382% Physical damage resistance, +246% Toxicant resistance, +61% Exsanguination resistance, +69.57% Energy absorption efficiency, +217.49% All-Damage resistance, +1.2% Soul damage resistance, +32.8% Wind resistance, +46.5% Pressure resistance, +23.25% Mana efficiency, +6% Shock resistance
+
+In the end, it had taken sacrificing almost all of the remaining ‘fluff’ skills he’d acquired to push Surging Strikes to the Celestial rarity, but it was definitely worth the high cost. The skill now had a ridiculous damage multiplier on top of a heavily discounted activation cost, meaning that any opponents besides bosses on the level of the kaiju types he’d fought in past iterations would be erased without struggle.
+
+Even at level 0 he had enough stats to rival an early boss like Magriz’al the Crazed, thanks to the improved base stats combined with improvements like Resourceful. The only problem is that I still can’t imagine myself even leaving a single scratch on that strange man. It was a problem to be solved another time. He was fairly sure that as long as he avoided Serenaeth he wouldn’t summon judgment from another dimension. It was annoying, as he was sure there were benefits to be had from a relationship with the sentient tree, but for the time being Ronan wasn’t strong enough to shoulder the consequences that accompanied them.
+
+The other gains were the enchanting skill that allowed him to apply pretty much any enchantment or combination of enchantments to his weapons and attacks, as well as Dimensional Strike, which allowed Ronan to hit enemies with melee attacks from long distance as though he were standing right in striking range.
+
+Ronan’s gaze drifted to the Temporal Obelisk. It was far larger now than it had been the first time he entered the Chronos Clan’s Ancestral Grounds. Attempting to get a handle on distance and size in that place was nigh impossible, but that much he could tell, if only because it now towered over the Chronos Forge by two or three times what it used to. He hadn’t obtained a breathtaking amount of merits during the last hundred or so iterations, mostly because his goal had been to simply accumulate skills and masteries rather than push his limits, but he might be able to afford a decent upgrade. He made his way over and opened up the obelisk menu to see what would be feasible, if anything.
+
+[Temporal Obelisk]
+
+Jack of all trades, master of some IV [Maxed]: The influence of the Chronos Clan is not truly boundless, especially so for a sapling. However, with time and investment, your mastery over everything becomes more persistent through iterations. Maintain 25% more of your progress towards the next mastery tier through each iteration for every tier of this enhancement.
+
+Deep cultivation IV: As a clan which transcends the limits of time and space, the act of cultivation holds a far more significant meaning to those of the Chronos heritage. Maintain 10% more of your progress towards the next cultivation realm for every tier of this enhancement. Cultivation benefits are 25% more effective for every tier of this enhancement. [Cost to reach next tier: 3 Chronos merits]
+
+Brand of the temporal artificer IV: Even items forged from the base materials of reality can be iterated. Through the powers of the temporal artificer, items can be branded and will persist through iterations. The number of concurrent brands increases by 1 for every tier of this enhancement. Enhancement will mutate once for every 3 tiers in this enhancement. Branded items receive a 50% base enhancement. Branded items will receive a 10% improvement for every tier in this enhancement. Branded items do not fill a gear slot when equipped. [Cost to reach next tier: 3 Chronos merits]
+
+Hard work bears fruit III: The first descendants of the Chronos Clan enjoyed the taste of stat fruits so much that they discovered a way to make that sweet nectar echo through the fabric of time. Retain permanent stats gained by consuming stat fruits. The next tier of this enhancement will allow you to retain 10 points in each stat by consuming stat fruits. [Cost to reach next tier: 3 Chronos merits]
+
+A class of one’s own III: What is a class but a way of specialising one’s skillset, to best defeat one’s enemies? A single life, a single vocation. Those of the Chronos Clan are not so limited. Unlock 1 sub-class slot for every tier in this enhancement. Once a class has been locked to a slot, it cannot be removed, but it can be evolved. [Cost to reach next tier: 34 Chronos merits]
+
+Resourceful III: The system makes the manipulation and acquisition of energy a fixed-sum game. That is not how the multiverse should operate. It is not how it used to operate. Those of the Chronos Clan should not be limited by the system’s paltry resource allowance. Changes the resource quantity formula from [10 x Efficacy x StatValue] to [(10^(1+(ResourcefulTier/10)) x (ResourcefulTier + 1)) x Efficacy x StatValue]. [Cost to reach next tier: 10 Chronos merits]
+
+Accumulate greater accomplishments to unlock further enhancement options…
+
+Ronan looked through the list and thought about his options. He could afford multiple tiers for a few of the cheaper enhancements, but they wouldn’t make him that much stronger. His best bet was to either continue saving for a third sub-class—one of the largest power-ups he could obtain—or to grab a third tier in Resourceful and then save for the sub-class. After some brief thinking he decided to go with the second route. Going from the second to the third tier of Resourceful was a huge increase to his health, stamina, and mana that was well worth the 10 merit cost. After that, saving for another sub-class was just the logical thing to do.
+
+You have purchased the permanent enhancement [Resourceful] for 10 chronos merits! Resourceful has increased from Tier II to Tier III
+
+A quick check let Ronan know that the fourth tier of Resourceful would cost him 15 chronos merits. That wasn’t a prohibitive cost given the benefits, but merits were a lot harder to earn at that point than they had in his earlier iterations, not to mention that it would make saving for another sub-class a longer endeavour.
+
+Once he had made his purchase he exited the obelisk menu and took in the scenery one final time. His cousin—it felt weird to call her that given they’d only met for about ten seconds—assured him that it would be fine once she’d dealt with the strange man, but he was still nervous to begin the next iteration. If another powerful enemy arrived, he would be powerless to stop them from doing whatever they wanted to him. Nothing ventured, nothing gained, I suppose. Time to try and conquer the nightmare difficulty tutorial.
