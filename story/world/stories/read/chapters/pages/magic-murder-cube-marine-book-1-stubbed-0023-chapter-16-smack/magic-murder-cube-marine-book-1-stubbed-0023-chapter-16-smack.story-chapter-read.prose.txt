@@ -1,0 +1,209 @@
+NAME Francis Francis Francis the 3rd
+
+LEVEL 30
+
+TIER 7
+
+HP 11 / 6300
+
+MP 0 / 6300
+
+STRESS 5 / 30
+
+PRIMARY CLASS
+
+Combat Warlock: Pact of the Boom (10)
+
+SECONDARY CLASS
+
+Celestial Sorcerer: Shotgun Soul (20)
+
+HERITAGE Human
+
+GENDER Male
+
+HEIGHT 2 Meters
+
+WEIGHT 150 Kilos
+
+RELIGIOUS AFFILIATIONS
+
+Murder Cube, The United States Marine Corps, Johnny Cash, Chesty Puller, General Mattis, Betty White, John Moses Browning, The Cult of Francis^3
+
+CURRENT ENEMIES
+
+Hades, The Forces of Darkness, Seagulls, HOA’s, PETA, The Entire Middle East.
+
+CURRENT ALLIES
+
+Murder Cube, The United States Marine Corps, Bartenders, Grunts, Phone Sex Operators, Dogs, Horses, Chuck, Willow, Auldric, Miller, McHorseface, Julia, Shiv, Jack, Relativity, Brick, System
+
+DURABLE 30 (Your armor wears you for protection.)
+
+INTELLECTUAL 30 (Wait… what? You have got to be joking!)
+
+PHYSICAL 30 (Holy shit you’re strong!)
+
+SOCIAL 30 (Everyone likes you. But nobody knows why.)
+
+SPIRITUAL 30 (The other realm is trying to contact you about your soul’s extended warranty.)
+
+ATTACK (MAGICAL) 10 +1 (11)
+
+ATTACK (MELEE) 10 +1 (11)
+
+ATTACK (RANGED) 10 +1 (11)
+
+DEFLECT 10 +1 +3 (14)
+
+IMMUNITY (POISON)
+
+RESISTANCE (SPIRIT)
+
+ARCANE 10 +1 +2 (13)
+
+BUSINESS 0 +1 (1)
+
+BYPASS 0 +1 (1)
+
+CHEMISTRY 0 +1 (1)
+
+CONSTRUCT 0 +1 (1)
+
+CHIRP 2 +1 (3)
+
+CRIME 2 +1 (3)
+
+CORRELATE 0 +1 (1)
+
+CULINARY 0 +1 (1)
+
+DRIVE 0 +1 (1)
+
+EDUCATED 2 +1 (3)
+
+ENTERTAIN 0 +1 (1)
+
+INSTRUCT 1 +1 (2)
+
+LANGUAGE (GRUNT) 10 +1 (11)
+
+LANGUAGE (VAHNISSIAN COMMON) 2 +1 (3)
+
+MECHANICAL 0 +1 (1)
+
+MEDICINE 0 +1 (1)
+
+NATURE 10 +1 (11)
+
+NAVIGATION 0 +1 (1)
+
+NECROMANCY 2 +1 +4 (7)
+
+OBSERVATION 10 +1 (11)
+
+OTHERWORLDER 1 +1 (2)
+
+PRECISION 0 +1 (1)
+
+RESIST (MENTAL) 10 +1 (11)
+
+RESIST (PHYSICAL) 10 +1 (11)
+
+STEALTH 0 +1 (1)
+
+SWAY 10 +1 +3 (14)
+
+It was generally a bad idea to announce your surprise attack in a serious fight. But Francis wasn't looking to sucker punch the Paladin and get it over with. They had come to his home, this was personal.
+
+The Paladin had a Deflect of ten, which explained how he had managed to fight his way to the palace without being chopped into tiny pieces by the guards. He had prioritized defense over attack, opting to become an almost unhittable juggernaut. And it would have worked out for him too, if Francis hadn't been there.
+
+Relativity’s time as a drill instructor had rubbed off on them because instead of making a fist, the evil artifact straightened out its fingers. A fraction of a second later the Paladin was hit by a knife hand going twice the speed of hate. His helmet caught the worst of it, Relativity’s fingers leaving a corrective action shaped dent in the metal right by his ear.
+
+Francis followed up with a backhand, swinging his staff like a baseball bat at the offending Paladin. The man was used to coasting on his Deflect. Unfortunately for him, Francis’ Attack was high enough to auto-succeed. Relativity hit the helmet with the back of its hand and launched it over the wall.
+
+“Home run!” shouted Francis. He wasn't critting, but it sure was fun. Something seemed off though. His grunt senses were tingling.
+
+“Hey Willow,” he messaged over their telepathic link, “Have Hank fire up his new toy.”
+
+***
+
+Arrayed around the double wall that ringed the palace were a series of platforms. Their original purpose was unknown, but they each contained a magic circle. Someone very clever (and with the proper authority) could use them to tap into the city’s Mana supply.
+
+Hank Greenscale, kobold engineer and recovering henchman, was giddy when he got Willow’s message. Things had been much too quiet lately. It was time to reveal his new toy.
+
+Francis had tried to curb Hank’s urge to create weapons of mass destruction. But he might as well have asked a dragon to share. Something in the kobold’s soul was compelled to create things that sparked and hummed ominously before vaporizing a nearby hill.
+
+Most of Hank’s inventions were not well received, though his automated Paladin slicer was seeing some use in the stockyards. He supposed that humanely killing cows and getting a jump start on the butchering process was useful. It just wasn't nearly as much fun.
+
+It had been too long since Hank saw the look on an intruder’s face as the floor gave way underneath them. He missed that moment of shock when a group of adventurers walked through a seemingly innocent doorway and their healer was vaporized. Or when the healing potions they had found in a storage room and saved for the boss fight turned out to be poison.
+
+They said you couldn't put a price on seeing the hope leave an adventurer's eyes. But Hank could. At Kobold & Kobold they had a wide range of lair defense packages to suit any need. (And they did mean any need.)
+
+Hank dismissed the visions of acid vats and exploding were-chickens to focus on the task at hand. So far they only had one of the devices up and working. But if the test went well, Francis might let him make more. And the kobold desperately wanted to make more.
+
+With the pull of a lever his device started to unfold. In its dormant state it looked like a black stone storage building set against the wall. It was inconspicuous and unobtrusive, hardly worth a second look.
+
+While Hank did not like the design constraints Francis laid out for him, he had done his best to abide by them. The weapon could not fire into the palace grounds and had an enchantment to prevent friendly fire.
+
+The kobold thought this was silly and needlessly cautious. But he had lost a fair number of former employers to doomsday weapon related accidents, so the Marine might have had a point.
+
+Hank heard a dull clank as the weapon failed to deploy. The roof was supposed to open up and allow the main body of the device to extend outward. He climbed up into the structure and gave the roof a kick, wondering why it wouldn't open.
+
+***
+
+Demesius, well paid assassin and accidental doorstop, felt the building below him shake. He had picked that particular rooftop because it was up against the wall and would allow him to make a quick getaway. Now he was wondering if that might have been a mistake.
+
+He could hear cursing from inside. A few seconds later a small reptilian head popped out of a concealed hatch next to him. Demesius and the kobold locked eyes.
+
+“Well… shit,” said Hank as he spotted the nasty looking crossbow pointed at his face, “That's not good.”
+
+The man put a finger to his lips. “Be quiet, or I'll have to shoot you.”
+
+Hank laughed. “You do know that I'm a kobold, right? Dying in defense of an evil overlord is kind of our thing. I'm getting hot just thinking about it.”
+
+“That's deeply disturbing,” replied the assassin.
+
+“Oh, but it's great,” continued Hank with barely contained glee at the man’s discomfort, “I’ll totally get laid if you kill me.”
+
+“Don't you mean like, if I miss or something?”
+
+“No,” Hank replied, not bothering to elaborate.
+
+“But you'll be dead,” the assassin pointed out, “It's hard to get laid if you're dead.”
+
+The kobold cocked his head to the side. “It's really not. All you have to do is lay there.”
+
+Demesius repressed a shudder. “Ok, listen. I'm going to take a shot at your boss. If you try to alert him, or stop me, I'll shoot you first.”
+
+“Are you sure I can't get you to listen to reason? Francis is a pretty cool dude for a deity,” Hank said as he stealthily reached for a lever with his foot, “He's probably way better than whoever you currently work for.”
+
+“I’m sure he's great, but I have a contract to fulfill. So, I'll have to decline.” Demesius did a quick calculation in his head and decided that killing the kobold first was the optimal play. “But, congrats on the sex.”
+
+The assassin watched as his crossbow bolt hit some kind of arcane shield and was harmlessly deflected away. The kobold didn't give him a second chance. Hank disappeared back into the building and slammed the hatch behind him.
+
+Demesius wasn't sure what just happened, but his mission hadn't changed. He was there to kill Francis and that was that. All he needed now was a clear shot before the guards came.
+
+He didn't give a damn about the Paladin. The man was a pawn, a means to an end. Demesius had wound him up with stories about forbidden rituals and set him loose. Now, that bit of trickery was about to pay off.
+
+There was a flash of red light as the Paladin triggered a special ability. Like any good assassin, Demesius knew how to maximize a crit. He took five Stress to activate his own special ability and prepared to shoot.
+
+—
+
+Killshot: Take five Stress to double the damage of your next attack and temporarily increase your Attack by five.
+
+—
+
+Demesius immediately felt the Stress hit him. It made his arms feel weak but he pushed through it, lining up the shot. Between the Paladin's special ability, his Killshot, and the enchantment on his crossbow, Francis was in for an unpleasant evening.
+
+Then, Demesius felt the hairs on the back of his neck stand up. There was a disconcerting hum coming from the building beneath him. He tried to run, but the Stress made him sluggish and slow.
+
+The last thing Demesius saw was a flash of sickly green light.
+
+***
+
+Hank cackled like a madman as he fired R.E.A.S.O.N. into the roof of the building that contained it. The Resonating Electro-Arcane Soul Obliterating Necro-cannon had been designed with Hades in mind, just in case the god of death ever fancied a rematch.
+
+The active shielding had stopped Hank from being killed along with the would-be assassin. Thankfully, it worked on crossbow bolts too. He popped his head out of the hatch and blew a raspberry at what remained of Demesius.
+
+“I knew you would listen to reason,” he said.

@@ -1,0 +1,63 @@
+As System walked back to Brexis he came across a broken down mine cart. Two dwarves were standing next to it on the side of the road while a group of youngsters he took to be their children played hide and seek in the forest.
+
+The couple watched him suspiciously as he approached. They both had red beards long enough to stick into their belts and matching neck tattoos. System stopped twenty meters away and held his palm to his forehead, the traditional greeting of the Bronze Clan.
+
+“Hello travelers,” he said in Minetongue, “I wish you a productive first shift and good prices for your ore. Are you in distress or need?” (He didn't say “good morning” because subterranean cultures didn't give a single bat dropping about something as unimportant as the sun.)
+
+The two dwarves blinked in surprise but quickly rallied. The husband returned the gesture and pointed at their converted mine cart. “The thing’s fucked, but Orin will provide.”
+
+System highly doubted that. Orin, the dwarven god of mining, had last been seen entering an Amazonian brothel with a meaningful look on his face and a step ladder. “What happened?”
+
+“I don't know,” admitted the dwarf, “A few hours ago it began to slow, then it just stopped.”
+
+He leaned in to get a better look at the cart. It was a bog standard model, with a metal bucket big enough to hold an entire family and a magical motor beneath the driver's seat to provide power. They had fitted it with larger wheels and stretched a cover over the top to provide shelter from the sun.
+
+System didn't particularly care about the family, or their situation. But hitching a ride would probably be faster than walking. “It's strange to see one outside of the mines,” he said, “Who did the conversion?”
+
+“That would be my brother,” the wife said in a gruff voice almost indistinguishable from her spouse. The Bronze Clan considered gender to be an unwelcome distraction from more important things like resource extraction, or drinking. If procreation hadn't been necessary for the continued operation of their mines they would have done away with it entirely.
+
+This was in great contrast to the Silver Clan, who were world renowned for their sonnets and poetry. Their main exports were precious metals and drinking songs with titles like “Fetch my ladder, I'm in love” and “Heart of Gold, or another similar precious metal”. (They were still dwarves, after all.)
+
+System looked at the stricken cart. “I'm headed towards Brexis. If I get it running can I hitch a ride?”
+
+The couple shrugged in unison. “Feel free to try,” said the husband, “I'm pretty good with machines, and I have no idea why it stopped working. All the enchantments seem to be in working order.”
+
+“That's troubling,” System replied as he went to take a closer look. It was a fairly simple setup, enchantments around the rear axle were linked to a control glyph near the driver's seat. When the operator wanted to move forward, power was directed to the wheels by mana conduits.
+
+System started troubleshooting the problem, growing more confused as he worked. As far as he could tell, none of the individual components were broken. The control glyph was routing power, the storage crystal was charged, but the wheels refused to move.
+
+He scratched his head. “As far as I can tell, everything is in working order.”
+
+The dwarves shared a look. This was not what they had been hoping to hear. The husband tugged at his beard. “Aye, we were afraid of that. But as Orin says, we will endure.”
+
+System knew that making the journey on foot would be no easy matter, especially with so many small children. He wasn't particularly fond of people, much less small snotty ones with sticky hands. But something inside of him balked at the idea of leaving the family to their own devices.
+
+Instead of trying to unravel why that might be, he turned his attention back towards the cart. Emotions were unimportant, fixing broken things was. And he had a feeling that there was more going on than just a broken cart.
+
+He decided to attack the problem from a different direction. Normally, magic was fairly binary. Spells either worked, or they didn't. Unless an outside force interfered, an enchantment could be counted on to operate normally until it was destroyed or ran out of power.
+
+So what if something happened to the spell? he wondered. To his senses, everything seemed right. The spell to spin the axles was properly inscribed, as was the control glyph. Yet the machine failed to operate.
+
+A sinking feeling settled over System as he checked his internal clock. “When did the cart break? Be precise.”
+
+The wife scratched her beard. “Sometime around sunrise, say, six hours ago. Why is that important?”
+
+“Fuck,” System swore as he did some mental math, confirming his theory. It was Oneday, the beginning of the week. Entity always pushed new updates on Oneday, at six in the morning. That gave him the rest of the week to fix whatever broke. It was also a sign that a new age of calamity was coming.
+
+Whenever Entity changed something, turmoil on Vahnis soon followed. New spells and abilities would cause upheavals in established power structures, providing a smoke screen for Entity’s meddling. And System had no way to stop it.
+
+Usually when a new update went live, System kept a close eye to make sure things didn't get out of hand. Otherwise you ended up with things like world ending spells, or France. (System was still raw about the French, and made a point of nuking them into oblivion whenever Entity added them to a world.)
+
+System’s visceral reaction to the news made the dwarves shift nervously. “Not a fan of Onedays?” asked the husband.
+
+“No,” said System, “Definitely not.”
+
+***
+
+Entity watched the interaction and let out a chuckle. He had been meaning to rework the magic system for ages. It was amazing how small inefficiencies added up over time, wasting precious processing power. Sure, things might break in the meantime, but the overall savings were incredible.
+
+A polite tap on Entity's shoulder shook him from his reverie. He closed his display and looked up to see AtropOS looming over him.
+
+“Ah,” said Entity as he took in the scowl plastered across the man’s face, “I take it that you aren't happy with the recent update.”
+
+“No shit, Sherlock,” AtropOS growled.
