@@ -1,0 +1,665 @@
+New Skills Unlocked!
+
+Tier 1:
+
+Drill (0 ->7)
+
+Tutor (0 ->6)
+
+ 
+
+Tier 2:
+
+Teach (0 ->4)
+
+Skills Leveled Up!
+
+Tier 1:
+
+Aim (32 ->33)
+
+Athleticism (49 ->50)
+
+Dancing (22 ->27)
+
+Horsemanship (11 ->16)
+
+Light Armor (10 ->12)
+
+Marching (25 ->27)
+
+Memorization {Social} (15 ->18)
+
+Observation (50 ->51)
+
+Ride (14 ->18)
+
+Running (48 ->49)
+
+Rhythm (23 -26)
+
+ 
+
+Tier 2:
+
+Alcohol Tolerance (7 ->9)
+
+Eavesdropping (28 ->30)
+
+Evasion (49 ->50)
+
+Gab (13 ->18)
+
+Mana Absorption (52 ->53)
+
+Mana Circulation (37 ->40)
+
+Meditation (35 ->38)
+
+Sense Mana (62 ->64)
+
+Silent Step (11 ->14)
+
+Strategy (26 ->29)
+
+Tactics (30 ->32)
+
+Tracking (7 ->9)
+
+ 
+
+Tier 3:
+
+Ambush (6 ->10)
+
+Battlefield Awareness (38 ->40)
+
+Blind Fighting (20 ->23)
+
+Command (42 ->43)
+
+Commanding Shout (24 ->25)
+
+Danger Sense (25 ->27)
+
+Detect Lies/Truth (7 ->10)
+
+Inspire (38 ->39)
+
+Mana Sight (51 ->52)
+
+Night Vision (22 ->25)
+
+Poison Resistance (1 ->3)
+
+Sense Threat (11 ->13)
+
+Silver Tongue (8 ->10)
+
+Sure Step (14 ->15)
+
+ 
+
+Tier 4:
+
+Dreams of the Past (16 ->17)
+
+Dual Casting (39 ->43)
+
+Mana Weapon (34 ->36)
+
+Spatial Awareness (46 ->50)
+
+ 
+
+Tier 5:
+
+Heroic Bearing (16 ->18)
+
+Mana Drain (4 ->6)
+
+Mana Healing (2 ->5)
+
+Mana Reinforcement (5 ->10)
+
+Multi-Casting (2 ->6)
+
+ 
+
+Tier 6:
+
+Weapons Master (70 ->72)
+
+Regeneration (6 ->8)
+
+ 
+
+Tier 6.5:
+
+Divine Sense (4 ->6)
+
+Reivyn perused the progress he had made in his Skills over the past several months. It wasn't the first time he was seeing it, but he hadn't dismissed the screen. He had let it accumulate into an in-depth picture of growth over time. There were a couple of things that stood out to him.
+
+ 
+
+It seemed that his Divine Sense not only didn't hinder his other Perception Skills from Leveling Up, but it also accelerated their growth rate. His Night Vision was perfect within his Divine Sense Range, and yet the ability to "see" everything in near-pitch darkness had helped the lesser Skill increase. That effect translated into his ability to see things outside of his Divine Sense range, as well. The greatest beneficiary of this synergy had been Spatial Awareness.
+
+ 
+
+He raised an eyebrow at the notice that his Poison Resistance had ticked up by two Levels, too. Looks like someone spiked one of my drinks at the ball the other night. I guess my Vitality, and the fact that I had Poison Resistance unlocked, was high enough that I didn't even notice it. It wasn't a surprise that his Alcohol Tolerance had gone up. Almost all of the drinks had been slightly alcoholic. Everyone in attendance was fully grown.
+
+ 
+
+He was most happy with his increases in his new Tier 5 and higher Skills. He had begun sparring with Serilla in his attempt to increase her variety of weapons Skills, and he had deliberately allowed her to strike him during their sessions. His own Weapons Master Skill had finally fully formed into the Master Level, so he wasn't too concerned with his own Skill growth when it came to sparring with Serilla.
+
+ 
+
+Allowing openings for Serilla to strike him with her much lower Leveled Skills had had another interesting effect. He had unlocked the Tutor Skill from their individual training sessions, and her Skill growth had noticeably accelerated afterward.
+
+ 
+
+I don't know if it's the confidence she gets from landing blows against me that has led to her increase in Skill Leveling, or if it's the Tutor Skill, Reivyn thought. Which came first? Is the Tutor Skill just a reflection of my success, or is it the cause of it? I won't know until I train someone else around the same Skill Level and can gauge the difference in Leveling speed.
+
+ 
+
+Saying that Serilla's Skill growth had accelerated was a bit misleading. She didn't suddenly shoot up to Apprentice Mastery Levels in her Skills, and she didn't mention her numbers going up faster. Reivyn could just tell with his expert eye that her abilities were growing faster. She still had a long way to go before she would be ready to unlock the Weapons Prodigy Skill as his father had. He had taken a couple of years to initially get his wide range of weapons Skill to Level 10, though Serilla was working with a better foundation than he had when he was a child just starting.
+
+ 
+
+Reivyn had kept up the training sessions with Serilla every single morning over the past month, but he still hadn't been able to join Kefira in resuming their evening Mana practice. The training with the company had been pretty tame at first, but as time went on, he had more and more to do in the evenings. It was especially impossible in the last week, as he had joined the company in the field for the duration.
+
+ 
+
+Now that the company has finished their crash course in human-on-human warfare, they're about to head off to do their mission, Reivyn ruminated. They'll be gone for a couple of years, it seems, and there's a week's break before I need to train the next company. After that, I should have a lot more free time, too.
+
+ 
+
+Despite not getting to spend much time with Kefira over the past month - they had still managed to see each other at least a little bit, here and there - he had made ample progress on his Affinities using the methods that Kefira had taught him. He pulled his Affinities tab up to take a gander at them, as well.
+
+ 
+
+Affinities:
+
+Tier 1:
+
+Air (74), Earth (74), Fire (74), Water (74)
+
+ 
+
+Tier 2:
+
+Ice (49), Lightning (49), Magma (49), Metal (49), Mist (49), Mud (49), Plasma (49), Wood (49)
+
+ 
+
+Tier 3:
+
+Bludgeon (24), Darkness (80), Durability (24), Friction (24), Gravity (24), Kinetic (24), Light (80), Mass (24), Piercing (24), Sharpness (24), Weight (24)
+
+ 
+
+Tier 4:
+
+Eternal (9), Traveler (5)
+
+ 
+
+Tier 5:
+
+Abyss (1), Veridical (1)
+
+He was still in that strange lock-step of Leveling his Affinities together. He did give each Affinity an equal amount of time when doing his Mana Circulation, so it wasn't that surprising. It was more surprising that the Affinities that had previously been lower Level had easily caught up with the ones he had unlocked earlier and stayed with them.
+
+ 
+
+Maybe my talent in each of them is to a degree that it won't display a difference until I've Leveled them to a certain extent, Reivyn thought. My Basic Elemental Affinities are almost at the Master Level, though, and each of the other Tiers is hanging out at the next threshold down, except for Darkness and Light.
+
+ 
+
+Reivyn and Kefira had tried to squeeze as much time together as they could, but her parents had her resume her training with her mentor after a week of being back. That had kept her out of the Palace most of the times that Reivyn was present, and he had ended up spending more time with her siblings than her. They hadn't made it a regular thing, yet, but Reivyn had managed to have several sparring sessions with Kayzor, and Prince Garet had been in attendance at a couple of them.
+
+ 
+
+Prince Garet had informed him that it wasn't the plan to have him personally train every single company that was going to go out. The officers of the company had secretly been grading Reivyn on how effective they thought his training and methods were, and now that they had given their stamp of approval, Gennet and Garet were going to invest more manpower into the project.
+
+ 
+
+The next training session Reivyn wouldn't be training just another company in the nuances of fighting other people. He would be training his replacement instructors. The third training session would see those replacement instructors taking over the bulk of the mission, and Reivyn would be evaluating them on their performance.
+
+ 
+
+If all goes well, I'll only be busy for another two months, and then I'll have a bit of a break before Kefira's dad gives me another test. I don't know what the next test will be, but I have a hunch it's going to be focused on something other than the military.
+
+ 
+
+His hunch came when he received a reply to his letter sent to the Magic Academy well after the first company's training was completed. He recalled the contents of the letter.
+
+ 
+
+Imperial Liaison, Lieutenant Reivyn,
+
+Greetings and salutations (I know that's redundant, but I'm an old man, so deal with it). I have long heard of your exploits as a Liaison attached to Princess Kefira from her older sister, Sophia. It was almost every other day that she would drop into my office to regale me with the latest scoop on your heroics. Blasting enemy soldiers with large-scale Spells like it was nothing. Leading from the front and challenging the commander of the enemy army to personal combat all by yourself. Consider me shocked when I heard the tales of your conquests!
+
+ 
+
+I don't know if Princess Kefira, quite the prodigy of magic herself, has elucidated to you the benefits of continuing your education after your "graduation," but I assure you, we can offer mutual satisfaction. You would be hard-pressed to find another student or teacher with the same experiences as you, and I believe your knowledge and expertise on combat would be most welcome among the young Mages.
+
+ 
+
+Yes, you're reading that right. When I say "continuing your education" I mean as an instructor. You told me, most graciously, to let you know if there was anything I needed to secure our cooperation with you, and I dare say, the opportunity for further learning is what the Magic Academy is all about.
+
+ 
+
+You seem like a well-rounded young Mage, and my colleague has given a glowing review of your training sessions. There aren't enough slots available for the students to attend the joint training sessions with the military in its current form, and even if there were, a classroom lecture would still be the best supplement for them.
+
+ 
+
+Come by my office sometime to discuss what you can get out of it, as well. I understand you're currently busy, but my "old-man senses" are telling me it won't be for long.
+
+ 
+
+I look forward to meeting you.
+
+ 
+
+Respectfully,
+
+Arch-Magus Rupert
+
+Headmaster, WMA
+
+ 
+
+P.S. That's my title, not my Class. If you want to know more about this old man, you'll have to meet me in person.
+
+ 
+
+Reivyn had been amused at the language the older gentleman had used in his letter. He had sprinkled eccentricity, flattery, bragging, and humor, and dangled a promise of new knowledge and remuneration in a very short missive. Reivyn remembered the contents of the letter so well because he had been so amused by it that he had read it several times. He had chuckled each time.
+
+ 
+
+Reivyn wrapped up his morning training and progress evaluation. Now that he had a week's vacation from training, he had decided to try and spend more time with Kefira. He had told her well in advance about his week off, and she had promised to try and get some free time as well. Her duties were a bit different than his, though, and she was still considered a student. There was a fundamental difference between a student and a teacher, and she had to abide by her mentor's schedule.
+
+ 
+
+Reivyn had never met her mentor, but he knew that it wasn't the Headmaster that had sent him a letter. From what Kefira had told him, he wasn't interested in such a position, and he had been a court Mage for a long time. He had gotten his position because of his Time Affinity, though he wasn't a prodigy like Kefira. It was more important that he had the actual Time Affinity and not one of its offshoots.
+
+ 
+
+Kefira had explained that an Affinity Level of 10 with the broad Affinity was superior to a Level of 25 in an offshoot if for no other reason than its versatility. It didn't end there, though, and it was much like Reivyn's Weapons Master Skill. A lower Level was both broader in range and more potent.
+
+ 
+
+Reivyn walked across the little courtyard to Kefira's house and knocked on the door. One of the maids opened it for him and led him to the sitting room off to the side.
+
+ 
+
+"Her Highness is almost done getting ready," the maid said.
+
+ 
+
+"Thank you," Reivyn nodded his head and accepted a cup of tea.
+
+ 
+
+He didn't have to wait for long before Kefira descended the steps. He saw her through his Divine Sense, so he got up right away to go and wait for her to come down. She saw him waiting and smiled, bounding down the last few steps to throw herself into his arms.
+
+ 
+
+"Hey, you," she said, looking up into his face.
+
+ 
+
+"Hi."
+
+ 
+
+The two separated and Kefira motioned him to follow her outside. As Kefira opened the door, Serilla came out of her own abode across the way and assumed her position following behind Kefira. She had obviously taken the time to wash off the sweat and grime of their morning sparring session.
+
+ 
+
+"I didn't manage to get today off, but my Magus Farril did agree to give me the last two days of the week off, so we'll have four days to spend together before you get busy again," Kefira explained.
+
+ 
+
+"Ok." Reivyn nodded his head. "We had expected as much, and two days is more than we had hoped."
+
+ 
+
+"Uh-huh. Now that you have some free time, you can accompany me to the Magic Academy and get yourself acquainted with some of the people there."
+
+ 
+
+"Yeah, I got an invitation from the Headmaster to teach a class about what I'm doing with the Mages in the military, so I should probably find some time to meet him, too."
+
+ 
+
+"I wouldn't go meet him yet," Kefira said, shaking her head. "Let him sweat for a bit. Better yet, let it be known that you've visited the campus and didn't immediately seek an audience with him."
+
+ 
+
+"Why is that?" Reivyn asked, confused.
+
+ 
+
+"Power play," Kefira said. "He's not your superior, and you're technically an honor graduate with the position of an Imperial Liaison. You don't want him to get in the habit of you being available at his beck and call."
+
+ 
+
+"Hmm, his letter did come off as a request, but it wasn't worded in such a way," Reivyn said, stroking his chin in thought. "It was a bit ambiguous. The tone was one of asking, but the wording said 'do this.'"
+
+ 
+
+"See, he's testing you." Kefira nodded her head. "The position of Headmaster is as much a political one as it is one of competence. Don't get me wrong, he would never have been a candidate if he wasn't a good Mage, but that's not how he got his position, and it's not what his duties are."
+
+ 
+
+"I hadn't ever really considered it before. Do you know who his 'friends' are?"
+
+ 
+
+"My uncle, Bellefrent, is his main sponsor." Kefira gave Reivyn a pointed look. "I know you've met him a couple of times, and I haven't really said anything about him before. I'm not going to now, either, for certain reasons." Kefira gave an exaggerated wink.
+
+ 
+
+"Let me guess. He asked you not to?"
+
+ 
+
+"No comment." Kefira smiled.
+
+ 
+
+"Ahh, so I'm guessing he's an ally - which makes total sense, considering he's your mother's older brother - and he wants to test me out. Speaking of, he did ask me to meet with him sometime, too. I guess I'll have to make time for that this week, too."
+
+ 
+
+The two continued to converse as they left the palace and headed to the Magic Academy, Serilla still trailing behind them. The Magic Academy was located in the Inner City relatively near the Imperial Palace, but it was still a bit of a walk. With their Stats, though, it didn't take them that long to arrive.
+
+ 
+
+The Magic Academy in Willowan was similar to the one that Reivyn had attended in The Capital of Garoq, but it was much more ostentatious. It was also several times larger. The gate guard simply nodded and waved Kefira through, and he only hesitated a moment before spying Reivyn's Liaison insignia on his collar. It was a clear indication of his position as an academy graduate. One didn't need to have graduated from the Magic Academy. The Knight Academy graduates were candidates who worked for the Imperial Family, too, but either way, he was still allowed unfettered access.
+
+ 
+
+"Come on," Kefira said, grabbing Reivyn's hand and dragging him along. "I'll introduce you to my mentor. Even though he's a Court Magus, he still mostly spends his time in his office at the Magic Academy."
+
+ 
+
+"Alright," Reivyn said with a smile.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Refix stepped out of the void corridor with his wife and daughters in tow. They had learned their lesson from the time they had been briefly separated when the void corridor had collapsed on them, and they had traversed the way holding hands. Each of the members of Refix's troupe had made the journey with four or five similarly holding hands.
+
+ 
+
+They weren't going to take the chance of everyone getting split up again. Refix had remained calm on the surface, but there had been some real terror when he witnessed his wife and children get flung into Space.
+
+ 
+
+"So this is Willowan," Ameliyn said, looking around. She took a deep breath. "This place is a bit superior to the other Tier 4 Regions we've traversed to get here."
+
+ 
+
+"What do you mean, mom?" Kailey asked.
+
+ 
+
+"The Mana density feels the same to me," Riley said.
+
+ 
+
+"It's the purity," Ameliyn clarified. "Each Tier Region has almost an identical amount of Mana density, but the level of purity varies. Some of it has to do with the climate. Some of it is due to the natural resources present. I've also heard that the people can have an effect, as well, though I don't know how true that is."
+
+ 
+
+"Reminds me of home," Refix said wistfully. Ameliyn gave him a small smile, but Kailey and Riley just looked at him in confusion.
+
+ 
+
+"What home?" Kailey asked.
+
+ 
+
+"Garoq?" Riley quirked an eyebrow.
+
+ 
+
+"No, no," Refix said with a chuckle. "I'm talking about a long time ago. Your mother and I weren't born in Garoq, I'm sure we've told you that."
+
+ 
+
+Kailey and Riley shared a look, frowning at each other. They looked like someone looking in a mirror to Refix. Their facial expressions loosened at the same time as they had an epiphany.
+
+ 
+
+"Princess Amily," Kailey said.
+
+ 
+
+"And Brave Sir Fenrix," Riley added.
+
+ 
+
+The two turned to look both Refix and Ameliyn up and down, thoughtful expressions on their faces.
+
+ 
+
+"I don't see it," Kailey said.
+
+ 
+
+"I thought Sir Fenrix would be more dashing," Riley pouted.
+
+ 
+
+"Hey!" Refix said, holding his hand to his chest.
+
+ 
+
+Kailey and Riley burst out laughing. They giggled together at the look on their parents' faces for a moment before they calmed down.
+
+ 
+
+"So you've kind of been hiding it from us." Kailey gave Ameliyn a pointed look.
+
+ 
+
+"Pretending to tell us a fairy tale," Riley said.
+
+ 
+
+"We were going to tell you, but, you know, life happens," Refix said, scratching the back of his head sheepishly.
+
+ 
+
+"Now's not the time for a history lesson," Ameliyn said, taking charge. She picked a direction and started walking off. "We need to locate the Magic Academy, find lodging, investigate the situation, and try to contact Reivyn.
+
+ 
+
+"We have a lot to do, and I expect to meet my son as soon as possible."
+
+ 
+
+"Alright, lead the way," Refix said. He motioned for Kailey and Riley to follow their mother as he stepped up to his Party mates. "Drok, Go find suitable lodging for everyone and send some people to mix with the pedestrians. Let's get a feel for the people here so we know what to expect."
+
+ 
+
+"Yes, my lord," the large man who usually acted as Refix's vanguard said. Even though he wasn't wearing his heavy armor, it was unmistakable what his profession was. Nobody would look at him and think anything other than a frontline warrior.
+
+ 
+
+He had a bit of an irreverent attitude, but that was something Refix actually appreciated about the man. Whenever the Party was split from being under his direct leadership, he was the man to take charge of the team. Having delegated a mission to his followers, Refix quickly caught up to his girls.
+
+ 
+
+Ameliyn didn't waste any time. She immediately asked the first person she came across for directions to the Magic Academy, and she set off with purpose. Refix and the twins kept an eye out for the surroundings, taking everything in, but Ameliyn was razor focused on her mission to find her son.
+
+ 
+
+The teleport circle was located on the outskirts of the Inner City from what Refix could tell. There was a wall nearby that separated the city from more city, so it wasn't on the outskirts. It was typical for the teleport circles to be located near the more prosperous center of capital cities. Only rich people, even by Tier 4 Region standards, made use of the teleport circles.
+
+ 
+
+They didn't stand out from the crowd much. Other than hurrying along and looking around wide-eyed at everything, they seemed to fit right in. They had gotten lucky in the rotation of the teleport circles, and they had only had to spend four days before they reached their final destination once they had trekked across the land for a month to reach the neighboring empire capital. It was plenty of time to wash off the travel dust and get some much-needed rest.
+
+ 
+
+It wasn't long before they were standing at the gates of a luxurious campus, and Ameliyn marched right up to the gate guard. The man held up his hand and stepped in front of Ameliyn, blocking her path. He wasn't hostile, or anything, but he was clearly barring them from barging through.
+
+ 
+
+"May I inquire as to your purpose?" The man asked with a smile on his face.
+
+ 
+
+"We're looking for our son," Ameliyn answered. "He's a student here."
+
+ 
+
+"Certainly, certainly," the gate guard said, nodding his head.
+
+ 
+
+He motioned for Ameliyn and the others to follow him to the office next to the gate. Another gate guard took up a position where he had left off. He walked to a counter and pulled out a large book from underneath.
+
+ 
+
+"What's your son's name, and what year is he in?"
+
+ 
+
+Ameliyn turned to Refix and frowned, flustered at the question.
+
+ 
+
+"His name is Reivyn, but I don't know if he's a second-year or a fourth-year," she answered.
+
+ 
+
+"You don't know?" The guard asked, skeptically.
+
+ 
+
+"He was absent from school for three years," Ameliyn explained. "We got a notice from his previous Academy that he had transferred here, but we don't know any other details."
+
+ 
+
+"I see." The guard flipped through the large tome and scanned the list of names present on each page. There were thousands of names, but the man went through them very quickly. He was apparently familiar with the task.
+
+ 
+
+He flipped through several pages before putting the tome aside. He pulled out another one, and he once again began flipping through the pages. A frown appeared on his face, and it only deepened as he continued to search. He finally set the second large book aside, as well.
+
+ 
+
+"I'm sorry, ma'am, but there's no student here by the name of Reivyn." The guard said. He gave a little shrug and had an apologetic look on his face.
+
+ 
+
+"What do you mean by that?" Ameliyn asked. Her own frown was beginning to deepen.
+
+ 
+
+"Exactly as I said," the guard answered. "I'm sorry. Did you get the wrong information? You said he was transferred after several years absent?"
+
+ 
+
+Ameliyn took a deep breath. Refix could see the fire building in her, and he quickly stepped forward, grabbing her hand and squeezing it.
+
+ 
+
+"The message of his transfer was very specific," Refix said. "The Willowan Magic Academy in Wispan. Is there someone we could meet within the administration?"
+
+ 
+
+"Oh, sure." The guard nodded his head. "However, they're all very busy, so you'll have to make an appointment."
+
+ 
+
+"That's fine," Refix said. He leaned over and whispered to Ameliyn, "It'll be alright. Just stay calm."
+
+ 
+
+The guard pulled out another booklet, this one much smaller than the other ones that contained the student rolls. He flipped to the most recent entries and scanned the page.
+
+ 
+
+"How does the afternoon mid-week sound?" The guard asked, looking up at Refix. "Two days is the earliest I can squeeze you in."
+
+ 
+
+"That's perfectly fine."
+
+ 
+
+"Alright, I'll put you down." The guard bent forward and made a notation. "When you come by, I'll be happy to escort you where you need to go."
+
+ 
+
+"Thank you. You've been a big help."
+
+ 
+
+Refix and Ameliyn turned around and pulled their daughters along with them. They stepped out into the street and turned to look at the Magic Academy.
+
+ 
+
+"We're so close." Ameliyn sighed. "He's right on the other side of these walls. I can feel it." Ameliyn gave Refix a sideways glance. "Do you think you could..."
+
+ 
+
+"I'm going to stop you there, honey," Refix said with a tight smile. "There's no reason to do anything foolish like breaking into the grounds. Yes, I could do it, and I could probably get away with it, too. It doesn't make sense to take the risk, though.
+
+ 
+
+"It's only three days before we can get an answer from the administration. Let's just be patient."
+
+ 
+
+"You're right. I'm not thinking clearly." Ameliyn leaned forward and gave Refix a quick peck. "We can wait another three days, but they had better have some answers!" Ameliyn gave Refix a stern look.
+
+ 
+
+"I know, I know."
+
+ 
+
+ 
+
+ 
+
+ 
+
+Reivyn suddenly stopped outside the doors to Kefira's mentor's office. He had a strange sensation in his gut.
+
+ 
+
+"What's the matter?" Kefira asked, pausing her grasp toward the door knob.
+
+ 
+
+"I don't know," Reivyn said, shaking his head. "I suddenly felt that I've forgotten something back at the palace. I got the urge to hurry back to look for something, but I can't think of what I could have forgotten."
+
+ 
+
+"Is it important?"
+
+ 
+
+Reivyn gave her a wide smile.
+
+ 
+
+"How could it be? I'm not going to let whatever it is I forgot to intrude on our little bit of time together. I'll go look in a bit once you're busy."
+
+ 
+
+"Alright, if you say so."
