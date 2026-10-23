@@ -1,0 +1,131 @@
+{Loading…}{Loaded.}
+
+[>>Now replaying: Log 2.53 - A Required Assembly]
+
+Date: 28.9.175 AA / 4404 LTCLocation: Dj’s Domain // ??????????Remaining Logic: 59075 LB
+
+//Insert Stub A into slot B. Ah. Very interesting//
+
+//Hello my name is Sören Svenson, what can I do for you today?//
+
+[>>DATA CORRUPTED]
+
+With the wind ripping through my hair, I raced through the streets. Stopping Jacky was still at the forefront of my mind, but with every meter traveled, another concern grew. The Havoc attracted by my cumulative advancements would put the one that had nearly destroyed my Domain to shame. At this very moment, hordes of robots were converging on our position in the Real, and I could do nothing to stop them before they reached the kids. Even if I wanted to leave things unfinished here and return to my Domain, I wouldn’t be able to. It wasn’t just that Nexus wouldn’t be able to shove my DPM through my feeble redtooth connection before it was too late. As much as I tried to, I couldn’t even find a way back home. The airport had been swallowed somewhere in the bizarre prison this Domain had become.
+
+Pina was on her own.
+
+Luckily, even though my scan had told me there were millions of Ferals, that couldn’t be true. We’d weeded out too many of them just yesterday, and it was quite obvious that Jacky was doing something to mess with my network scans. Multiplied responses, maybe, to cause some sort of overload? If so, the joke was on her. Without the virus stealing its compute, my CPU wasn’t even breaking a sweat.
+
+Nevertheless, her distractions were effective enough at keeping me away. Every time I was sure I was coming close to Heart Hill, I hit some sort of dead end that I could have sworn hadn’t been there mere seconds ago. Once I paid more attention to my surroundings, I caught a movement in the corner of my vision. A house to my left had slid aside ever so subtly, revealing a road that Ardor insisted led straight to my goal. It was probably right, too, at least for the moment. But in a minute or two, the city would shift to bar my path and funnel me back toward the Ferals once again.
+
+I drummed my fingers on Nexus’ handlebars, considering whether to upgrade Ardor for better navigation, or Nexus for something crazy like a jetpack. It was a fishing expedition in either case, but I had plenty of bait and not a lot of time.
+
+Before I could make a decision, however, Ardor’s minimap flickered, refreshing its data. One look told me everything I needed to abandon the bike, leap up a building, and then down the other side. I landed in front of a brick wall that seemed to stretch upward forever, but I had no time for games.
+
+Pharus shook as it extended, and its head shifted into the rectangular shape I’d used before. It looked bizarre, with the casing for the bulb of the flashlight exactly where the hammer would meet its target. I wasn’t going to complain, however, as when I flicked the switch, the entire head burst into fire so bright it was almost tangible. I swung, and Pharus’ impact tore a truck-sized hole straight through the brick. It was clean, almost surgical, at least on my side of the wall. Just a bit of dust and glowing edges of molten stone. On the other side, however, the explosion of superheated brick had turned the street into a landscape of smoking craters and gleaming rocks.
+
+Dozens of Ferals who had just been about to cross that very street turned in my direction. I hefted the Torch, and it burst alight as I charged the enemy. Normally, I wouldn’t have bothered with a havoc this small. As I burst onto the street, however, I got confirmation that Ardor’s info had been accurate. At the far end of the road, shortly before it bent into a 90-degree angle and continued upward, a handful of city watch and dozens of Shackled were duking it out from behind improvised cover. They’d paused their battle when the Ferals had arrived, but my sudden entry had turned their three-way engagement into a four-sided mess. Not that I intended to keep the number of involved parties above two for long.
+
+With a scream, I launched myself straight into the gathered Ferals, bringing down Pharus like the fist of a wrathful deity. The resulting explosion left me perfectly unscathed, but reduced half the Ferals to motes of Logic, which I immediately absorbed. The remaining half saw that and concluded that because I was strong, I was a perfect target for their hunger. I disabused them of that notion by shrinking Pharus to a one-handed size and laying into them. Any stragglers going for the Watch I dispatched with Manus, but the ones hurtling toward the Shackled, I let pass.
+
+Once I was done, and with the Feral’s Logic shrouding me like a cloak of azure anarchy, I turned to the Shackled, ready to keep going. Except that they were already dead, and the Watch was cheering my victory. I hadn’t let that many Ferals through, though. Feeling something was off, I pulsed Ardor. The results came back instantly. I rolled my eyes.
+
+Without looking, I reached behind me and grabbed Scar by the front of his coat. His invisibility broke as I pulled him close.
+
+“Don’t even think about it,” I deadpanned. “Same goes for you…”
+
+“Wouldn’t dream of it,” Swyne said from the darkness of a nearby alley.
+
+With a stern look, I let the boy go. Maybe it would have been worth telling him off, but he looked apologetic enough to let the matter go.
+
+“Told ya it wasn’t going to work,” the old man said as he approached.
+
+Scar just shrugged. “It was worth a shot. I know I would have gotten an achievement for a tap.”
+
+“So, you guys are still here?” I asked. “What happened to laying low, arrows to knees, and all that?”
+
+“Figured it would be good training for the kid.”
+
+“And no other reason?” I smirked.
+
+“Oh no, no reason at all,” the kid snarked. “Certainly not teaching old dogs new tricks, or getting a few achievements for saving a town, or anything.”
+
+I looked between them. “Has anyone ever told you two you deserve each other?”
+
+Swyne pouted, Scar snickered.
+
+“Anyway,” I said with a shake of my head. “Town’s a mess, we gotta fix it, stat. Plans?”
+
+“Shackle’s got to die, or else we’ll never get out of here,” Swyne said. “Did you find him?”
+
+“Shackle’s a she, actually,” I replied, and when Swyne raised his eyebrow, I added, “Jacky.”
+
+“You’re kidding?”
+
+“I actually thought it was kinda obvious,” said Scar.
+
+Swyne and I both gave him the same look.
+
+“Okay, fine, it was a real big mystery, and all of us had a lot going on, way too much to see through this totally not obvious, masterfully crafted intrigue,” the kid said, completely unconvincingly. “So anyway, where is she, and how do we get to her?”
+
+I raised my head, and now that I knew what to look for, the flickering shifts in the city’s layout were obvious.
+
+“I don’t know, but we’re going to find out in a moment.”
+
+By the time Swyne said, “What? How?” I’d already inhaled and felt for the Logic thrumming in my center. I imbued it with thoughts of unity, a feeling of relief, and a desire for burdens shared.
+
+{CONSUMED LOGIC - 3000 LB}{AVAILABLE LOGIC - 56075 LB}
+
+{Memory: 1900/8000 LKB RAM}
+
+{[Nexus, The Tyrant’s Edict] v. 1.83 - Connectivity Array}IS NOW{[Nexus, The Tyrant’s Accord] v. 2.0 - Connectivity Array}
+
+[Patch notes:2.00 - Introducing NexAssembly - When handshaking with sufficiently authenticated clients Nexus now distributes a low-level, sandboxed bytecode instruction format. This allows for virtualizing compatible compute on client hardware, which decreases CPU strain on the host when serving as a network array. Other use cases include clients increasing data transfer rate by providing an anchor for hyperlogic tunneling, creating safe sandboxes for experimentation, or running software the client would otherwise be unable to execute on their native hardware.Required CPU load: Varies, 0-5% at current CPU quality, depending on the client.Required RAM: 250 LKB]
+
+{Connection request sent to [h0GG, marc_the_wrong]}{Handshaking…\}{>>Done.}{Authenticating…\}{>>Done.}{Awaiting response…\}{>>Accepted.}{2+ clients connected.} {Nexus online.}{Streaming 25.84/INFINITUM LKB/s.}{Consuming ~0.000001% CPU runtime per client.}{Salve Lucifera.}{Salve Salvatrix.}
+
+Swyne’s eyes went wide.
+
+“Sancta Samantha…” Scar breathed.
+
+“In the flesh,” I said.
+
+His reverie seemingly already forgotten, Scar gave me the side-eye. “Don’t you mean ‘in the shell’?”
+
+That earned him a quick glower from Swyne, before the old guy went back to gesturing at the air. His eyes were moving rapidly, as though reading something I couldn’t see. My API’s or something, probably.
+
+“That’s a really nifty Talent you have there…” the old guy said. “No wonder your Quirk is that bad.”
+
+“Nifty? NIFTY?” Scar asked, himself scrolling through the options with frantic gestures and stars in his eyes. “This is the single best thing ever! Look at these stat growths! I bet she’s as strong as Mom, if not stronger. This is insane!”
+
+“Mom?” I asked Swyne, who shrugged.
+
+“Adoptive. She’s this big deal in another Domain. Lives in a tower, speaks in tongues that make your eyes bleed, a bit mad with power, that sort of thing. We decided the kid gets to stay with me. Safer that way.”
+
+I had so many questions, but now was not the time. For now, it was good enough that the two of them weren’t trying to murder me, or had fallen to their knees the moment I showed who I was. It felt good to be out of hiding and to be appreciated, but there was still work to be done.
+
+So, in lieu of an answer, I advanced Ardor.
+
+{CONSUMED LOGIC - 3000 LB}{AVAILABLE LOGIC - 53075 LB}
+
+{[Ardor, Visionary Ambition] - v. 1.81 - Interface Driver Solution}IS NOW{[Ardor, Ambition Clarified] - v. 2.09 - Interface Driver Solution}
+
+[Patch notes: 2.09 - Scans of target systems now require more compute. However, given administrator access, changes in file structure are tracked automatically once the initial scan has completed. This applies system-wide, and also alerts the user to folder/filepath changes made by third parties.]
+
+“Now she’s got a map, too?! Seriously, how many threads do you have running to sustain a map with that much detail?”
+
+I shrugged. “I dunno?”
+
+“What do you mean?”
+
+“It’s not like I’m counting my threads, kid.”
+
+“Hey can I stay with her from now?” Scar asked Swyne, pointing his thumb at me.
+
+“No.”
+
+“But she’s got a map! In real time! That’s way better than rendering a HUD with those eyes of yours! The invisible ones, I mean.”
+
+“My eyes are fine!” Swyne snapped. “Visible or otherwise! And they can do a lot more than—Will you stop spilling my secrets?! …But actually, Dagger, no, wait, Sam, I got this project I’m working on. Would you maybe want to take a look—”
+
+I smiled and shook my head. “Let’s go. We’ve got a debt to settle.”

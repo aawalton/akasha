@@ -1,0 +1,107 @@
+{Loading…}{Loaded.}
+
+[>>Now replaying: Log 2.54 - Exponential Entropy]
+
+Date: 28.9.175 AA / 4404 LTCLocation: Dj’s Domain // ????Remaining Logic: 53075 LB
+
+//Forever a Clone!//
+
+//Of course you can create a copy of a copy of a copy, but at some point, you’re going to lose a bit of fidelity in the process, you know?//
+
+[>>DATA CORRUPTED]
+
+Even with the new map provided by Ardor, navigating the Domain was still a struggle. The minimap in the corner of my vision fuzzed every time the cityscape got contorted into a new, impossible layout, which was a good enough signal to stop and take stock of our route. Every single time, the path we’d been following had been altered to inevitably lead either back to where we’d come from, a Havoc, an ambush, or more often than not all three combined.
+
+And the minimap glitched a lot.
+
+Scar and Swyne were following my lead, driving an old-looking car made of the same black stuff that Swyne used for his weapons. It had a figurine of scorpion riding on top of its hood, for some reason. I’d thought it was made of glass at first, but it felt different to the touch, in a way I couldn’t put into words. Not that it mattered. It was fast enough to keep up with Nexus at top speed, and that was good enough for me.
+
+The first time we stopped, the two of them had been impatient. The fifth time, Scar had rolled his eyes. By the tenth, he was massaging his temples. It was a sentiment I very much shared, except I was busy using my hands to swipe across the map to find a new route. Nexus’ GPS would have made it easier, but the one time I’d tried using it, my CPU had felt like it wanted to burn a hole in my sternum.
+
+On the plus side, we managed to outpace the oncoming Havoc, if barely. A few times, I could have sworn I saw the same horde of Ferals stampeding on two pieces of city that had folded themselves perpendicular to each other. Once, even on the ceiling, also perpendicular to three other cityscapes at the same time, somehow.
+
+Needless to say, reality got a bit wonky as we progressed toward Heart Hill. Once, we rode a street that bent in on itself before continuing upwards at a 90-degree angle. Another time, the map insisted we drive straight at a wall made of folded pavement, which, considering our speed, opened a pit in my stomach. No matter how fast we drove, however, we never crashed. The street just moved ahead of us, leaving behind completely identical city blocks until we took a hard left and continued downwards, up a slope at a 582-degree angle.
+
+The world turned dark as the moon shone bright above, and we slowly blazed around another corner. I caught a glance into another car, inside of which sat a few people, silently standing around a table, engaged in a loud debate. Also, I could have sworn there was a rabbit for no reason at all, but that’s all I got before the moment passed.
+
+Gunshots could be heard close in the distance as we reached the actual city center. They sounded both muffled and clear at once, sometimes far away, sometimes as loud as if fired next to my ears. The only thing that never changed was the cold smell of autumn, full of spice and hints of decay.
+
+By the time we entered the neighbourhood huddled around Heart Hill, the minimap buzzed into a blur, but we kept going. The radio tower was in clear view now. Well, as clear as any view could be in a fracturing Domain. Ahead, uncountable versions of the same spire touched their tips in a kaleidoscopic sight that was hard to wrap my mind around. Whenever I tried to focus on one iteration, even more seemed to blossom around its edges until I looked at them directly, upon which it was as if they’d never moved at all. The effect was hypnotic, and I had to tear my attention away to avoid crashing into something.
+
+Finally, we reached the wall… No, the walls? They wrapped all around the tower, even upward and down. Everywhere I looked, there was nothing but brick, yet at the same time, I could still see the tower as if I were standing right in front of it.
+
+“I’m so done with this…” Scar said, rubbing his eyes. He and Swyne had gotten out of their car, which dissolved into a rapidly dimming wire-frame mesh.
+
+“Wish it were so.” I sighed, pulling up the map.
+
+The moment I did, and saw the mass of red clustered around our current position, all hell broke loose.
+
+The world flattened, shuddered, and reassembled itself until we were trapped in a cube with way too many angles. Ahead of us, the doors to the old fort stood open, yet every time I looked at them, they moved a few meters to the side, leaving only old brick behind. Atop the parapet, innumerable Shackled, their skin sloughing off their ember bones, fought a desperate remainder of the city watch, hunkered down in one of the corner turrets of the fort. The scene repeated itself manifold, everywhere I looked. Behind, above, beside and even below me, bullets tore into old stone and clanked against a single steel door that had no business holding up against this sort of abuse.
+
+Despite the overwhelming sights and sounds, I rushed ahead. I didn’t check if Scar and Swyne were following. The plan was simple: jump atop the wall and buy the Watch some room to breathe. Even as I raced onto the battlefield, something irregular disturbed the perfect symmetry surrounding us. To my right, an entire iteration warped and twisted. The entire fortress shimmered, as though hit by a heat wave, radiation, or really, really powerful noise. When the haze finally faded, every defender of that mirrored world laid dead in a heap, carnelian crystals sprouting from their corpses. One of the dead twitched, and not a second later, an ember skeleton ripped itself free from its flesh. It jumped, and across every world in sight, another Shackled dropped from the sky.
+
+I didn’t wait for the other corpses to repeat the process, and gunned it.
+
+The moment I came into range, however, every single Shackled on every other fortress copy, including the ones hanging upside down in the sky, turned toward me and fired. Even I felt that. Perforated by dozens of bullets in less than a second, Nexus dissolved into Logic, which was decidedly better than blowing up underneath me, but still left me running for cover with my CPU load increasing by the second.
+
+Cursing and holding Arx over my head like a woman fleeing inside from the rain, I fell back. Scar and Swyne had built a half-dome of black… stuff and huddled behind it. Swyne was holding up his hands to the barrier, and grimaced as the storm of bullets hit it, but Scar was already mumbling some nonsense about protection and bending light or whatever. The moment I dashed around the black bulwark, all of us turned invisible. We didn’t waste any time and retreated into a side street, leaving behind statue-esque copies that shattered the same time the barrier succumbed to the hail of bullets.
+
+Once we were out of range, the Shackled resumed their assault on the defenders without wasting a heartbeat.
+
+I skipped right to it. “So, plans that don’t involve a heroic sacrifice on my part? I got shit to do after this.” I had to yell over the cacophony of dozens of battlefields. “Example; Swyne, can you move that barrier of yours? Use it as a siege shield?”
+
+“No,” Swyne shouted back, “Wouldn’t hold up for long enough. Now that we have your fancy API, I think we can do you one better though.”
+
+“Then what are you waiting for?”
+
+“Well, it ain’t polite to just—”
+
+“Look, can we just get on with it, please?!” I yelled over the sound of one of the myriad turrets collapsing. “And for the Might of Magic, can we get some cover and some quiet?!”
+
+“Roger, Ma’am,” Swyne said, and raised his hands. Darkness formed on his palms and spread out before him, taking the shape of a large van that covered the entire alleyway. I couldn’t help but notice it formed one horizontal line after the other, like it was being printed into the world. In less than a minute, the shelter was in place, complete with screens on the walls, a large table, and rather uncomfortable seats. The battle outside our little command still raged unabated, but at least the sound came in muffled now, and I didn’t have to worry about some asshole shooting me from upside down.
+
+As soon as the defenses had set and Swyne wiped the sweat off his brow, Scar began chanting. It was a long string of words, complex and raw, in that language that sounded like itching teeth. He was speaking quietly and fast, and even though I had never heard the words he used before, I knew he was giving instructions, describing what he wanted in very simple terms. Just that the words he used somehow made my stomach feel…purple?
+
+Just when I was about to ask him to hurry it up, rainbow fire began cascading from his scalp. Soon, the white flame covered his entire body, its flickering edges shifting through the entire colour spectrum. When Scar took a step forward, his fiery outline stayed behind. From nowhere, it brandished a ghostly spear, and the moment its haft touched the ground, the clone shimmered and solidified.
+
+It didn’t take an MBA to understand what was happening, and I had to wrestle with a sudden pang of fear and anger. Somehow, the kid was using Simulacrum. He shouldn’t be able to. That was mine. It took a short mental reminder that I had invited him to my network, and a quick check of Nexus’ latest patch notes to understand that he wasn’t digging around my Soul, and I wasn’t getting robbed. Being connected to me just made the Kid better, which, in my opinion, was deeply ironic.
+
+If I ever got out of this thing and found Chris, I’d never let them touch me again. They’d laugh themselves to death if they read this memory.
+
+By the time I had convinced myself I was going to be fine, both Scar and his clone had already begun chanting another spell. Swyne wasn’t idle either, his face contorted in concentration as he whispered something under his breath. Even if there hadn’t been a manifold war raging around the corner, I’d have doubts I’d be able to understand his words, but his intent resonated somewhere deep in my core and sent a comfortable warmth across my skin.
+
+Scar finished first, and dozens of clones shimmered into existence around both him and his Simulacrum. Then Swyne clapped his hands together, and a black liquid crept over our little army. Within seconds, every copy wore identical black turtlenecks, tactical armor, cargo pants, and combat boots. They even had those tacticool headsets with the boom mics. Combined with Scar’s namesakes adorning the face of every one of his clones, the new outfit transformed a group of eerily similar kids into a group of eerily similar spec-ops.
+
+Only one thing stood out.
+
+I flicked one of the spears with my fingers. Solid enough. I tested the edge. Sharp.
+
+“That won’t work,” I declared.
+
+“What?!” Scar yelled over a particularly loud series of ricochets and explosions.
+
+Rolling my eyes, I pointed at the spear and shook my head.
+
+“We got that part,” Swyne said.
+
+At the same time, Scar said, “But spears are the best weapon! They have range and—”
+
+I raised my eyebrow, unholstered Manus and spun it around my finger.
+
+“Okay, point taken.”
+
+“Can you pull it off?” Swyne said, and I could make out a distinct note of worry in his voice.
+
+“Don’t see why I can’t just use glass…”, the kid grumbled, even as he frowned with exertion. A moment later, two clones vanished, all remaining copies held rifles made of rainbow fire.
+
+“Well, those are fine and dandy for a ranged engagement,” Swyne asked with a glance at the guns. “But what about the Ferals? When they show up, we’ll be sandwiched between the havoc and the walls.”
+
+“Just need to be inside the fort before the havoc hits,” I said.
+
+“What if we aren’t?”
+
+“Then we kill them with fire.”
+
+Five minutes later I shoved past a handful of Scars holding actual flamethrowers, and idly noted Swyne had tinted them black, which seemed rather counterintuitive. Dozens of clones were waiting for me, raising their rifles in unison as I closed the door behind me. Scar and Swyne themselves were still inside. At first they’d wanted join the battle themselves, which I immediately put a stop to. This was my fight, not theirs. They’d tried to argue until I laid out two points they couldn’t argue with. First off, it was far too risky, and secondly, we needed someone to coordinate our troops from inside the van. For the same reasons, I’d insisted they keep a couple of flamethrowers to protect the van. I’d wanted to call that group the van-guard, which had earned me a lot of rolled eyes, even from Scar’s copies. Whatever. Lori would have loved it.
+
+So, remembering the debt I owed and the price my friends had paid, I unsheathed Pharus and let it blaze. Then, for the first time in centuries, the Torchbearer led soldiers into battle.

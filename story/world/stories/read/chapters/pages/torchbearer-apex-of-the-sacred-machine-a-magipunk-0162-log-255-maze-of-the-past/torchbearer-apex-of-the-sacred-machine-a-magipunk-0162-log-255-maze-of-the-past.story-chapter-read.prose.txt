@@ -1,0 +1,127 @@
+{Loading…}{Loaded.}
+
+[>>Now replaying: Log 2.55 - Maze of the Past]
+
+Date: 28.9.175 AA / 4404 LTCLocation: Dj’s Domain // Heart Hill?Remaining Logic: 53075 LB
+
+//Holding on to regret is nothing but hoping for a better past//
+
+//Once the fish has firmed the boundary in its mind, it will not test it anymore, even should circumstances change.//
+
+//Hey Sam? Chin up. Things are different now.//
+
+[>>DATA CORRUPTED]
+
+The sequence of events that followed felt entirely too much like Veltruvia.
+
+Not the city particularly, or even the events that followed its siege. But in my head, that battle had become synonymous with a very, very costly siege.
+
+I led the charge, Pharus in hand. Turns out, the dial did more than just increase the heat, it also let me go back to earlier versions, which was appreciated. As I knew from experience, when assaulting an entrenched position, carrying a one-handed weapon was a lot more sensible than an unwieldy two-hander.
+
+Perhaps it was that memory, or perhaps it was the sound of thousands of projectiles peppering my troops, but I kept noticing similarities I’d much rather have forgotten. The rush of adrenaline, the tinge of fear I could never get rid of, no matter how thick my power armor got. The grim determination that urged “forward, forward” even as loyal soldiers fell all around me.
+
+“Give me some space!” I yelled, and Scar immediately moved his clones to give me a wide berth. At least I hoped it was him controlling them, and they weren’t sentient.
+
+With the troops out of the way, the steady flow of bullets swelled to a torrent. Individually, they were nothing Arx would ever write home about, but even with my upgrades, I wouldn’t be able to weather this level of sustained fire for long. Fortunately, as the Scars began to return fire, the ranks of Shackled thinned, and my sweat-slick back hit the wall of Fort Heart Hill before Arx gave out. A few more bursts of machine gun fire, then the cacophony atop the wall quieted. Jacky seemed to have run out of tricks.
+
+I took a step forward, eyed the wall. “Cover me.”
+
+A scar to my right nodded, and they took up something resembling covering positions. That is to say, for a kid who’d never been part of an organized squad, it wasn’t half bad. There wasn’t time to criticize their positioning, however. I rolled my thumb over Pharus’ new dial, cranking it to the max. The nunchucks slammed together as the chain between them shortened. They turned against each other with a satisfying whirring noise, followed by a click that was far too soft to hear over the chaos of battle. I felt through the vibrations in my palm, though, shortly before the weapon elongated and sprouted the bright blue hammerhead I’d need.
+
+Rerouting as much compute into Pharus as I could, I took up position next to the wall and wound up a swing. The light coming from the head was bright enough to cast my shadow in stark relief.
+
+“That’s really bright,” one of the Scars said.
+
+“Should’ve seen the original,” I said.
+
+Then I swung.
+
+For a second after the hammer hit the ancient brick, it seemed as though nothing would happen at all. Then thin lines spread around the point of impact and snaked all along the uneven surface. Thinking that this was all I’d gotten, I was just about to swing again, just without the sass and with much more of a foul mood, when the wall exploded.
+
+“Jesus Christ!” I screamed as I covered my face with my arms. When I lowered them again, there was a hole of molten stone, big enough for two people to walk abreast, leading straight through a wall that was thicker than I was tall.
+
+“Wow,” Scar said.
+
+“Uhuh,” I agreed.
+
+“Not quite used to your own strength yet?” Scar asked, patting my shoulder. Don’t worry, you’ll grow into it.”
+
+I gave him my best eyeroll as I shoved his hand away. Couldn’t suppress the smirk, though. This was surprisingly nice. A batch of new clones came running out of the alley where we’d hidden the command van, restocking our numbers. Now that the stone had cooled, and the awe had waned, our little break was over. It was time to forge ahead.
+
+Of course, nothing could ever be that easy. Instead of the alley leading to the cul-de-sac I’d been expecting, the tunnel had led into a house brimming with Shackled. Every door from that room had led to more rooms, with more Shackled.
+
+“I should have just stayed home,” I sighed as I shouldered open yet another door. Inside the room (turned by roughly 75 degrees around its Z-axis) seven orange figures laid in wait. They opened fire before I’d even stepped over the threshold, and I had to sprint along a wall which was now a floor, while unloading Manus into their numbers.
+
+More Shackled, more killing. Thanks to Oris’ upgrades at least, I could recoup the Logic I spent on shooting the ones ones I couldn’t reach. Simulacrum was doing a good job, too. It could take far more hits now, about as many as I would have without Arx overheating. However, my copy never went on the counteroffensive. That meant it got clobbered to wisps of blue flame unless I gave it covering fire, which would have defeated the point of it covering me.
+
+The silver lining, however, were Scar’s clones. They covered our rear, even though stemming the tide of Shackled from falling into our backs cost us dearly. Still, it was better than having them rush ahead and sitting on my hands while they died for me. Also, macabre as it may be, with every clone we lost, Scar had more compute to empower the ones that were left. They got smarter, faster, more creative. More… “expressive,” too, which admittedly was a bit of a mixed bag.
+
+Just as I finished the last one with a mace to the gut and a bullet to the head, the few Scars that remained came rushing in to secure the room. While they were barring the door with a dresser, I reloaded Manus and tried to find the next exit. Ardor pulsed, shook, struggled, and finally broke through after I fed it enough compute to make Arx overheat. I pointed at the door it indicated, then slunk against a wall, exhausted. It was a tragically familiar pattern at this point.
+
+“Let’s take three. And please don’t forget the doors on the ceiling again.”
+
+“Dagger, that happened one time,” one Scar said. I’d dubbed him “the complaining one”.
+
+“Yeah, but it cost us five clones,” another said. Smarty. He was already pushing a wardrobe in front of a door on the right wall. I kept a close eye on the furniture. A few rooms ago, a table had exploded into orange crystals, impaling two clones who’d been pushing it. I’d never look at ornamental globes the same, either, and whatever happened, I hoped Smarty went last..
+
+The moment I figured I could conjure a new Simulacrum without pushing Arx over the edge, I got up and went to kick in the next door.
+
+That’s when Complaining Conrad stepped in my way.
+
+“Why are you always going in first? It makes no sense.”
+
+“Because you’re made of glass and dreams,” I said. “You can’t handle the brunt.”
+
+“But that’s literally what we’re made for,” Smarty chimed in. “To handle the chaff so you can conserve your strength.”
+
+“I just…” I began, but had to cut myself off. It all felt too fucking familiar. Fortunately, rubbing my palm over my face bought me some time to come up with a good response. “Who’s going to cover my back when you’re gone?”
+
+“You just bar the door after you walk in?” Smarty said with a shrug. I briefly considered giving him a last name. Maybe something like “Pants,” or perhaps “Ass.”
+
+The problem was that he was right.
+
+“I’d be sending you to your deaths.”
+
+Complainer snorted. “Heh. Death. Look, Lady. I know what’s real and what isn’t, and this—” he gestured at his body. “—sure ain’t.”
+
+I pursed my lips, checked the time. It was running out.
+
+“This is different,” I whispered. Then again, with more conviction. “This is different!”
+
+“What?” Smarty asked.
+
+“Nothing,” I said, with a smile that came easier than I thought. “Next door is yours, gentlemen. It’s been a pleasure.”
+
+The Scars looked at each other. “She doesn’t get it, does she?” one asked, and the others just shrugged.
+
+“Get what?”
+
+“Ask Scar when you see him again,” Smarty said, just as Complainer kicked the door. He immediately stepped aside, and one of the other scars threw something that looked like a glass marble into the room. A flash of light flooded out of the doorway, so bright that I had to shield my eyes. Even then, Ardor had to run a brief fix on my vision to get rid of the afterimages.
+
+By the time I could see properly again, the Scars had already funneled ahead, and all there was left for me to do was hold the line until they were done. A loud bang came from one of the barricaded entryways, and the last thing I heard before the Shackled broke through was the heart-shattering sound of glass breaking.
+
+I spent the rest of the maze running through open doors, just waiting for the other shoe to drop. The violence, the death, it all reminded me so much of the years after Veltruvia, so I was certain that any second now I’d start making mistakes and lose all I had worked for.
+
+And yet, I never did. As far as I could tell, at least, which was precisely what was bothering me.
+
+The kids, people who relied on me, were in danger, but I’d been granted a chance to solve their problems in the nick of time. I knew this Domain wasn’t Veltruvia, and that the troops I lost along the way weren’t real. My anger burned, but instead of letting it swallow me whole, I worked its heat into every swing, and bought myself a moment to cool down with a couple of shots when things got a bit much.
+
+It was going well. I was doing okay.
+
+I didn’t trust it at all.
+
+While walking through the room that had taken the last Scar, I’d almost become convinced that things had to get worse, and soon, but as soon as I had it, that thought gave me pause.
+
+It was going well. I was doing okay.
+
+Why in the world would I ever want for things to go wrong?
+
+“Shit,” I said, laughing as I approached the next door, stepping over a Shackled corpse and absorbing its Logic. The exit looked the same as all the others before it. Dingy frame, dark wooden body, stupid, slippery, rattling American doorknob. I rolled my neck and loosened my shoulders, and was about to throw myself against it when I paused and reached for the doorknob instead. It felt alien, like trying to go through a familiar motion with a limb that’d been asleep for a long time. The handle turned all the same, and when the door swung open, it led to an outside patio with a perfect view of the radio tower.
+
+I couldn’t suppress another laugh. Maybe it was just a coincidence, but it seemed Jacky—the bitch—knew me too well. Or, well, I thought as I closed the door behind me, maybe she knew who I had been.
+
+The patio bordered on the cul-de-sac I’d gotten to know so well during my time in DJ’s Domain. I’d come to expect some fuckery by now, but things seemed relatively normal. Rather, as far as fuckery went, the particular flavor reigning over Heart Hill was almost benign. Sure, the sun and moon raced across the sky at insane speeds, and an entire 24-hour-cycle passed in a minute. Yes, it was nauseating to watch the shadows grow long, then short, then long In the opposite direction, before they vanished. True, it was a dumb idea to try to follow the length of the Radio Tower with your eyes, lest you get lost in the hypnotic patterns of shifting crystals that covered it like amber poison ivy. The sound was fucked, too. Occasionally, RnB rhythms pumped from one of the nearby houses, then suddenly went quiet, only to be replaced by thousands of cicadas. Then that cut off, and 70s rock played from a boombox sitting alone on a porch somehwere.
+
+But there was just one tower, one cul-de-sac, and gravity worked as it should. The fence was obviously electrified, but there were no guards that I could see. Seemed like Jacky had run out of thugs to throw my way.
+
+It was time to finish this.
