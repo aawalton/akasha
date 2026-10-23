@@ -1,0 +1,179 @@
+Chapter 31
+
+Nest
+
+I press the bush aside with the toe of my boot, ready to yank the limb back at the slightest provocation, and lean my head sideways to see around the barrel of my pistol.
+
+"Uh, hey, Ayre, what kind of monsters are supposed to be in this nest?"
+
+"Giant rats," the elf provides from behind me. "Maybe some goblins, they like to hunt the things, so they tend to show up not long after the rats do."
+
+The rattling is even quieter now, even though I'm right over it. Must be a literal death rattle, but I can immediately understand why my shot didn't kill it outright.
+
+"So you're saying it's not a nest of undead beasties?"
+
+"What?! No!" She hurries up now, throwing the caution of a rear line to the wind to see for herself. "Undead are a completely different category. They can't show up naturally."
+
+I reach down and pull the brush away with my hand to make a clear view of the skeleton that had jumped us. "Well, that's definitely a giant rat, but my bullet didn't skin and gut it, and it's still twitching."
+
+I raise my hand up next to one eye in an increasingly familiar gesture. "Identify."
+
+NAME: Skeletal Rat
+
+RACE: Beast (Undead)
+
+AGE: 0
+
+LEVEL: 5
+
+CLASS: Skeleton
+
+STATUS: Hostile
+
+"Undead beast, level 5," I report to her. I expected its status to be Aggressive, like the angry slime, but maybe they mean slightly different things.
+
+Ayre's wide eyes are trained on me, though. "You have a soul orb?!"
+
+"Focus, Ayre." I snap my fingers in her line of sight to try to get her to do just that. "Skeletal rat. Why."
+
+With a clear force of will, she turns her head back to the monster and shoves her brain back into motion. I can practically hear the grinding before the gears start to properly move.
+
+"Uh, well, let's see," she says, squeezing her chin. "Undead can only be formed by spells or in a place with a lot of residual magic and negative emotion."
+
+"A lot of magic," I repeat. "Like a dungeon?"
+
+"More like a battlefield," she clarifies. "Priests have to come through and dispel the energies while survivors recover the bodies, or the magic from all of the spells going off seeps back into the corpses and mixes with all of the aggression and loss to reanimate them into monsters."
+
+"Sounds horrible." I can imagine it in my head easily. It would truly be a nightmare, especially to the battle's beleaguered survivors. "But I'm under the impression Serazin Province hasn't seen a lot of wide-scale military engagements. So are we thinking necromancer?"
+
+The elf stares down at the still twitching creature, but surprises me when she shakes her head.
+
+"That can't be it, either," she explains. "You said it's level 5?"
+
+I nod in confirmation.
+
+"Giant rats are usually only level two or three. Their threat comes from their tendency to swarm and their ability to chew through most solid obstacles. Reanimating a monster through magic, though, has a hard limit on it."
+
+"Let me guess," I venture. "You're limited by the level of the monster."
+
+"Exactly," she nods. "You have to be a higher level than it, too, and you can only control so many at a time, but even a level 50 mage couldn't reanimate a giant rat at higher than the level it had when it was alive."
+
+"So it's not a battlefield, and it's not a budding taxidermist." I look back to the trees I'm now certain are in the process of dying. "And it's affecting the environment. We've got to get to that nest, something's gone fucky."
+
+Ayre grabs my arm. "Remmi, I don't think this is an Iron-rank anymore. It ... it may not even be Bronze. We should go back. Report it to the guild. Report it to the temp--"
+
+I'm not the one that interrupts her this time, but I'm pretty sure I know what did. After all, there's a little blue window in my field of vision.
+
+NEW QUEST OBJECTIVE:
+
+Investigate the monster nest
+
+outside of Dabun Village and
+
+stop the source of the undead.
+
+COMPLETION REWARD:
+
+- Bonus System Points
+
+- New Hero Power
+
+- Heavenly Item
+
+- Affinity Up (Ayre, Elven Archer)
+
+- Affinity Up (Yorin, White Witch)
+
+- Affinity Up (Kyuuga, Beast Warrior)
+
+- Affinity Up (IESG)
+
+- Affinity Up (Dabun Village)
+
+- Affinity Up (Xuhitana, Witchblade)
+
+... Why is the empress on there? Is it because Dabun's her hometown? Or does the System know more than it's telling me? Those rewards seem very generous for something happenstance.
+
+A problem for later.
+
+I glance back to Ayre. "You just got a system notification, too?"
+
+She nods, still staring with a gobsmacked expression on her face into the empty air in front of her. "... Assist the Gunslinger Hero in investigating the monster nest outside of Dabun Village."
+
+I sigh before I can stop myself. "Blabbermouth ... Ah well, not like that cat was staying in the bag much longer, anyway." It's not like it kept quiet about Yorin, either, I guess.
+
+"Guess we've been out-voted," I conclude, then drop the barrel of my gun toward the rat again.
+
+Ayre lets out a pained yelp and covers her ears as three more shots ring out and the notification of the monster's death flashes in front of me.
+
+Along with two hundred points.
+
+"Agh!" the elf cries out when the roar dies down. "Can't you give me some warning?!"
+
+"Sorry," I reply as I begin changing out the magazine for a red one. "Get used to it now, it's only going to get louder."
+
+"Louder?!"
+
+I start forward in the direction the rat charged us from. "You said rats like to swarm."
+
+I hear her swallow, but she follows in my wake soon after, taking a moment only to string her bow before doing so.
+
+We're moving more quietly now that we know we must be close to the nest, slow and with our ears wide. Bringing a little amusement, I get a visit from the window saying I'm trying to do something I'm not proficient in, but I stifle my giggle and spend the points on a Stealth general skill.
+
+I'm not sure I really become any quieter, but knowing how to move and place my steps has me spending a lot less energy tensing up over it.
+
+The foliage we're counting on to conceal us keeps getting deader and thinner, what I'm counting as the surest sign we're moving in the right direction. Fortunately, it turns out Undead don't really do patrols or keep lookouts, because when we do find the nest ...
+
+"... That's a lot of bone broth," I whisper so quietly that if it weren't an elf next to me, I doubt she'd have heard me.
+
+Instead, her ears shoot up and she looks at me like I'd sprouted a third eyeball. "You can't possibly--"
+
+I cover her mouth with one hand and hold the pointer finger of the other up in front of my gritted teeth. "It's a figure of speech," I hiss back. "What kind of glutton do you people think I am?!"
+
+The clearing ahead of us has been pounded flat by the sheer mass of traffic generated by its denizens. Rats make up the largest portion of it, so many that they're crawling over the tops of each other. Every one of them the size of dogs, and all of them nothing but bones and connective tissue.
+
+Even if we couldn't see the nest, we'd have heard it, so many bony feet rattling around. I can't help but question how so many rats sustained their numbers before becoming undead. Maybe that's why everything's skeletons. They ate themselves.
+
+The very thought sends a shiver up my spine, and I banish it to take in the rest of the scene before me.
+
+Rats are by far the most numerous creature roaming the clearing, but there's a lot of small humanoid ones, too, that I'm guessing are the goblins Ayre mentioned. There's even a horned critter that sticks out like a sore thumb. Seems they added a stray rabbit to their menagerie.
+
+"So what do we know about Undead that's useful here?" I ask.
+
+Ayre can't pull her eyes away from the sight, but she answers anyway. "Undead don't do anything productive without orders. Without a mage and without encountering anything else, they'll just bumble around or play dead. That's why they're mostly in crypts and other places where they died, they're too stupid to find their way out, and too mindless to care."
+
+She's clearly answering more on autopilot than with real thoughts. Maybe asking had been a bad idea.
+
+"When they see living creatures, though, something triggers. They go into a frenzy, trying to kill anything they encounter. They don't rest and have no sense of self-preservation, so they'll just chase--"
+
+Yeah, okay, nothing new. I draw my gun and flip the safety off. "Okay, I'm gonna start blasting."
+
+"What?!" She quickly latches to my arm. "You can't! Your weapon isn't effective enough! You'll just draw their attention to you!"
+
+"Don't worry," I grin boldly back. "I changed rounds!" I point to a dead tree back behind her. "You should head over there, pick off any stragglers. I'll go the other way so I don't drag them into you."
+
+"But ..." She fumbles with the idea. "What do you mean, you changed rounds? Do you have special bolts for this?"
+
+"You could say that." My grin widens further. "I did tell you it was going to get louder."
+
+Again, like before, she swallows at the threat and turns toward the tree. "... Over there, you said?"
+
+Once she's in position, I crouch down facing the opposite direction, the direction I intend to run. As a last-minute precaution, I decide to buy a rank of damage boost for my gun, then I start counting down from five in my head.
+
+As soon as I hit zero, I pop up and give as shrill and loud a whistle as I can manage. In defiance of all biology, every last skeleton turns toward me.
+
+I point my pistol at the front edge of the majority of their mass and pull the trigger. The next instant, an explosion of force and heat erupts, sending bone fragments flying through the air, and I start running.
+
+The forest rumbles like an earthquake as, heedless of the attack, all of the monsters charge after me. I lead them in a big, looping circle through the dead zone to keep them from stretching into a line or leaving any more stragglers than necessary, firing into them the whole time.
+
+Accuracy barely matters, there's so many of them. When I reload, I just let the empty magazine freefall onto the dirt, cramming the next one in as quickly as I can. I specifically leave Ayre's tree on the outside of my loop, hoping she stays out of line of sight.
+
+I do notice a number of arrows and unmoving skeletons as I run through. Not many, but I can tell she's putting in the work.
+
+By the time I come to a stop, I'm at the bottom of my fourth magazine, and I empty the last couple bullets in it into an errant pile. The clearing looks like it's been shelled, all of the dead brush is blasted away or on fire, and there's a veritable carpet of scattered bone fragments.
+
+I take a deep inhalation of the acrid aroma of gun smoke and find myself satisfied with my work. I keep my head on a swivel as I reload and move back roughly toward where I started, but everything's pretty quiet.
+
+I'm really going to need to buy more explosive rounds after this, but a passing glance at my point total tells me that absolutely won't be any kind of issue.
+
+"Hey, Ayre! I think we're done!"

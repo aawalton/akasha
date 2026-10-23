@@ -1,0 +1,233 @@
+Chapter 32
+
+Abomination
+
+"You are NOT a Bronze!"
+
+I turn toward the unexpected statement as Ayre steps from the tree line. "Sure, I am," I reply, tapping my badge. "See? Bronze."
+
+"What are you really," she demands. "Level Twenty? Thirty?!"
+
+"Five."
+
+The poor elf's feet stop so suddenly the rest of her nearly topples onto her face. It barely stops her tirade. "Thirty-five?!"
+
+"No," I correct her, still keeping my expression straight. "Just five."
+
+"[Otsomui]!" My blink at the sudden return of the alien word goes unnoticed by her. "Five is Wood-rank!"
+
+"You said the word again."
+
+Her face goes red, but she refuses to be dissuaded. "You're not Level Five! You can't be Level Five! You're too fast for a Level Five! You're too powerful for a Level Five! You're too much for a Bronze!"
+
+I can only shrug. "I didn't pick my rank, Ayre. I wouldn't know what to pick if I did." I tap the gun that's back in my holster. I'm going to need to give it a good cleaning when we get back to Dabun. "If it's any consolation, my power pretty much all comes from my weapon."
+
+Ayre seems to consider that for a moment, but then violently shakes her head. "Your weapon did not outrun an entire infestation until it all died! Remmi, you spent most of that looking backwards, but you never even so much as stumbled!"
+
+I blink at that, then open my mouth, but, this time, she's the one to cut me off.
+
+"No, Remmi, that's NOT normal!"
+
+I close my mouth again with a frown. All I can do is shrug again. "What do you want me to say, Ayre? I don't know enough to lie about this. You want to see my status, I'll show it to you. Then you can tell me what I'm supposed to say."
+
+Before she can agree or tell me to fly a kite, the forest under our feet starts rumbling again.
+
+... No, not the forest. Like before, it's the bones! It's slow at first, like they have to build up the momentum, but they all start moving toward the center of the clearing, and I'm filled with a deep sense of wrongness that the undead, themselves, never gave me.
+
+"Ayre, get back!" For the second time today, I draw with one hand and urge her back with the other.
+
+"Undead aren't supposed to do this," she insists as she follows my instruction and raises her bow again.
+
+"I have a feeling this is the taxidermist."
+
+As the pile in the middle grows, the pieces move faster and faster toward it, like a growing point of gravity, and something begins to take shape. Bones and fragments of bones fuse together in unnatural, nonsensical configurations. Goblin femurs attach to rat jaws. Pseudo-ligaments form out of rat tail joints like they're pretending to be hydraulic cables.
+
+It's like some sick child was just told they were body parts and started cramming them together like legos to make a body without any idea of how that was supposed to happen.
+
+"What's it making?" Ayre's voice is trembling; she clearly doesn't actually want to know.
+
+"Back to the tree line," I order. I'm already backtracking, myself. I won't go that far, but I want out of this circle of bones before they trip me up, or worse.
+
+I pull my thumb and forefinger up again even as I do so.
+
+NAME: Undead Abomination
+
+RACE: Construct (Undead)
+
+AGE: 0
+
+LEVEL: 30
+
+CLASS: Corrupted
+
+STATUS: Malicious
+
+"Otso."
+
+My usage seems to cause Ayre nigh-physical pain. "Please don't try to use that word!"
+
+"It's an Abomination."
+
+The elf looks between me and the monster as what is apparently its torso assembles before our eyes. "Well, yes, but what is it? What does your soul orb say?!"
+
+Now is not the time to correct that misunderstanding, I decide. "That's exactly what it says. A Level 30 Undead Abomination."
+
+"... [Otsomui]," she mutters, nearly under her breath.
+
+Great, so I wasn't just pronouncing it like a tourist, I was using it wrong, too.
+
+With a lunge, Ayre latches to my arm like a barnacle. "We have to get out of here! This is a fight for Silvers! Golds, maybe! Let us go get Sacred Yorin! Before it finishes and gives chase!"
+
+"That depends," I reply. "What's the difference between Aggressive, Hostile and Malicious?"
+
+The seemingly random question confuses her just long enough to slacken her grip. "... Uh ... Intensity?"
+
+The word triggers a different explanation to occur to me, and the possibility drops into my stomach like ice. "Intent."
+
+Aggressive is just looking for a fight. Hostile is an enemy to anything around it, even other monsters. But Malicious? It's literally coming packed with an intention, not just to do harm, but actual, honest to whatever gods this place has, evil.
+
+Am I reading too deep? I hope so, but that feeling just the presence of this thing gives me argues otherwise.
+
+I've clearly lost Ayre, but that thing's almost finished assembling itself. I'd have been firing at it already, but I have a hunch it's like the slimes, and I'd just be wasting my bullets.
+
+"There aren't any Silvers or Golds here, Ayre. Just us." I regrip my pistol to make sure I'm not strangling it. "We triggered the boss, we've gotta put it down."
+
+The thing finishes forming its head, a skull-like cast with hollow eye sockets filled with a sickeningly purple flame, and just like that, we're out of time. It looks right at us and roars, a motion that has its lower jaw remaining locked in place while the entirety of its upper head hinges backward.
+
+"Same as before," I say quickly. "Stay back, take shots where you can. I'll keep it focused on me!"
+
+I don't give her time to respond before I bolt, running diagonally away from her position. Thankfully, the big lug turns to track me.
+
+Thinking this might be my last opportunity for any helpful information, I try my one other spell that's any good for that for the first time.
+
+"Diagnose!"
+
+TARGET: Undead Abomination
+
+HEALTH: Uninjured
+
+ENERGY: High
+
+VITALITY: High
+
+CONDITIONS:
+
+- Undead
+
+- Corrupted
+
+CONGRATULATIONS!
+
+You have met the following conditions
+
+for upgrading a spell:
+
+You have used two or more compatible
+
+spells on the same target.
+
+Would you like to fuse [IDENTIFY LV1]
+
+and [DIAGNOSE LV1] to form a new
+
+spell at a higher level?
+
+COST: 1,000 Points
+
+Please note that fusing magic will not
+
+replace the component spells. You may
+
+still cast them at their original cost
+
+should you choose to do so, even if the
+
+casting method is the same.
+
+... Huh, wasn't expecting that. Bad time for a bonus, but I'm not turning it down.
+
+I quickly agree while firing several fireball rounds into the abomination, and the System cheerfully informs me that I have unlocked [IDENTIFY LV2]. Guess that confirms this side of things didn't get the same creative touch as the shop.
+
+The abomination roars loudly at my affront, but when the smoke clears, I'm greeted with an unwanted revelation. The rounds accomplished little more than scorch marks. I know bones don't burn, but its body is more than just a skeleton. Gaps are filled in, and it's sturdy enough to absorb the shockwave of the blast.
+
+Heck, if it's anything like Earth bones, it might as well be clad in steel armor.
+
+It swats at me, but I jump away from its talons that are bigger than my head, and the whole forest seems to shake with the force of the impact when it strikes the ground instead.
+
+I have to switch rounds, but I don't hold any expectation of Paralysis working on the thing. Instead, I swap the rest of the magazine for my overpressure rounds. Their high powder and jacketed points will penetrate much deeper, even through that bone carapace.
+
+Downside, it doesn't exactly have innards for me to damage, so I won't be doing much more than just punching holes. Maybe, though, I can swiss cheese enough to get an explosive round inside the chest cavity.
+
+Mental note, check the store for holy rounds or something when a monstrosity isn't trying to kill me. Just a couple magazines in reserve could make sure this whole mess never happens again.
+
+I'm just about to pop the last explosive round out of the chamber when the abomination opens its mouth wide again. This time, it's not to roar. I don't need to be told what it means to see purple light gathering between those saw teeth.
+
+Instead of ejecting the bullet, I feed that thing the spicy meatball.
+
+The blast sends the entire volatile mix spinning out of control and the whole thing explodes inside of its skull. The creature's four arms go slack, and one hinge of its jaw is completely blown off as it slumps to whatever constitutes its knees.
+
+I'm not about to be tricked into thinking it's dead, though.
+
+"NOW!" I shout out to Ayre even as I'm raising my own weapon. "POUR ON THE DAMAGE! AS MUCH AS YOU CAN WHILE IT'S STUNNED!"
+
+The archer's response is slower than my own. I'm already halfway to the abomination and halfway through my new magazine when the first arrow comes flying in. It's promptly followed by half a dozen more, each spinning within a vortex of green and blue energy that seems to be greatly augmenting their penetration and damage.
+
+I can't lie, I'm impressed. She's not sporting a rifle by any means, but a bronze-rank archer is no slouch.
+
+... I kinda really want whatever magic that is ...
+
+By the time the abomination starts pulling itself back together, I'm half on top of it, a fresh magazine of explosive rounds loaded in that I'm prepared to shove down its throat.
+
+"Eat thermite, bonehead."
+
+There's a blur of movement, and before I can process what happened, I'm gasping for lost air as the forest floor flies away from me. A long heartbeat later, my back collides with a tree with a loud crack, and I'm not sure which of the two the noise came from.
+
+As pain floods my system, I focus on the numbers in front of me to keep from losing it.
+
+105 points of damage.
+
+I'd underestimated how much it had recovered its senses, and it backhanded me like a red-headed stepchild. That much damage would've left me nothing more than a red stain on the ground back at the capitol.
+
+Even now, it nearly cut my health in half, and the way people keep reacting, I get the impression I've got a lot of it for my level.
+
+Damn it, forget holy rounds, I need to see if I can buy a healing spell. Getting my butt kicked really sucks.
+
+Why did I think it was a good idea to pick a fight with a boss six times my level, again?
+
+It's taking another shot at charging what's probably some kind of necro-laser. No question it's aiming for me, and I have a hunch it's going to do a lot more than a backhand.
+
+Damn it all, I have to move! I do, but it feels so slow. In some part of my mind, I'm glad that at least that tree didn't cripple me.
+
+My own diagnosis pops up in front of me with little more than half a thought.
+
+... Heh, I'm Stunned. Of course I fucking am. What goes around comes around.
+
+"REMMI!"
+
+No, no, no. Ayre's running over here. Don't come over here! Stay away!
+
+She wheels about into a shooting stance, already with an arrow partially drawn. She grits her teeth as that seafoam vortex surrounds the arrowhead.
+
+Oh, good girl. She wasn't running to me. She was getting a shot.
+
+The laser's nearly charged, but her arrow goes off first. The clash isn't as dramatic as the explosive round, but the colliding energies still wreck havok.
+
+I can almost feel how pissed off it is at getting shot out again, but I'm betting I'm imagining that. Pretty sure it doesn't actually have a brain.
+
+I'm not missing this chance a second time. As soon as the reaction starts going out of control, I'm forcing my feet underneath me.
+
+They stumble at first, twisting into each other, but I keep going and find my stride. By the time the abomination goes slack again, I'm halfway to it. Ayre's shouting at me from back behind me, but I'm not listening.
+
+I've only got room for one thought in my head.
+
+It swings at me once, a slow, clumsy swat compared to the one that got me before, but enough to tell me it's not going to be out for long.
+
+I don't dodge. I jump on top of the limb and kick off again, sending myself hurtling over its head. I keep my gun pointed down, trained on the purple glow. As if all of my other motion doesn't matter, I line it up in my sights and pull that trigger faster than I ever have in my life.
+
+One, two, three, four, five, six. The seventh hits it in the forehead, but the explosions rock its body and something inside of it flares.
+
+I'm heading toward a tree, and I don't even question if I can spring off of it. I continue to twist so that I hit it feet first and jump again.
+
+The angle's lower, but I grab hold of one of its horns as it zips past, and I spin halfway around before I can plant my boot where the seventh fireball went off.
+
+I don't quip this time. I keep firing until a great explosion of purple fire bucks me off.

@@ -1,0 +1,42 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const gunGirlFromAnotherWorld = {
+  id: "01a168cd-b3bc-7d46-979f-41a0b9414236",
+  type: "page-type/story-read",
+  slug: "gun-girl-from-another-world",
+  author: "Ninmast Nunyabiz",
+  following: false,
+  unit: "unit/words",
+  title: "Gun Girl from Another World",
+  world: "world/gun-girl-from-another-world",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "75408",
+      externalLink: "https://www.royalroad.com/fiction/75408/gun-girl-from-another-world",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Female Lead",
+    "Slice of Life",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Cozy",
+    "Crafting",
+    "Dungeon Crawler",
+    "High Fantasy",
+    "Magic",
+    "Modern Knowledge",
+    "Strong Lead",
+    "Supernatural",
+  ],
+  publicationStatus: "ongoing",
+  readLater: true,
+  createdAt: "2026-10-23T12:47:53.788Z",
+  updatedAt: "2026-10-23T12:47:53.788Z",
+} as const satisfies StoryRead

@@ -1,0 +1,135 @@
+Chapter 28
+
+Culling
+
+"Dungeon culling?"
+
+The archer, who introduced herself as Ayre, looks back to me when I repeat her words. "You've never done one?"
+
+"Never even heard of it," I elaborate. "We don't have any dungeons where I'm from. Not really. No naturally-occurring ones that would need such a thing, anyway."
+
+The confusion on her brow grows deeper. "What do you mean?"
+
+I shrug as I fish for the words. "Just that. Dungeons aren't a thing that just exists without people building them."
+
+"... Your people ... build dungeons?"
+
+"Not in the way you're obviously imagining," I insist, raising my hands in denial. "The kind you're talking about, we build for entertainment. They're things we pay to explore for fun. They don't work on their own. And they certainly don't have real monsters."
+
+They're also virtual, but I don't think this is the time to try explaining computers to someone I just met, so I keep that part to myself.
+
+Ayre looks down at the roll-up map she's laid out on our table, thinks for a moment, then looks back to me. "... If you don't have any dungeons, then how does your magic work?"
+
+"It doesn't."
+
+She stares blankly back at me, but I'm getting too used to that reaction, so I just sip my juice - Zeiya cut off my coffee after the vaulting stunt - and watch her back, waiting to see if she'll push the matter.
+
+It takes her a few rotations between the map and my face before she comes up with a response. "Are you saying that you're a Bronze rank adventurer and you don't know any magic?"
+
+That isn't quite where I expected she'd go with it, but I answer easily all the same. "Oh, I do now," I say. "Heck, I paralyzed my examiner when I applied to the guild. There just isn't any back home. I never saw a single real spell until I left."
+
+That seems to relieve her. She was probably worried she was signing up to put her life in the hands of some sort of cripple. In the wake of that worry being taken off of her mind, though, she seems to change the topic a bit.
+
+"That must have been a very hard life."
+
+I just shrug. "Eh, people keep telling me that, but to me, it was just normal. Not like I knew anything else. And it's not like we lived like barbarians in caves and dirt huts. We just dealt with problems in other ways, that's all."
+
+Still, Ayre shakes her head. "I can't imagine it. You say you had ways, but ... Modern life is only possible because of magic. We have light in the evening ... hot water, sanitation ... Without magic, if a house caught fire, we couldn't do anything but watch it burn!"
+
+I chuckle, just a couple notes, and not at her, but sardonically. The sound catches her attention so sharply that she jerks her head toward me. "Like I said, we had different ways. We accomplished all of the same things you described." And much, much more. "We just relied on natural laws to do it. We move water through mechanical pressure, we light our streets by directing an electric charge through resistant filaments. We heat our water in a boiler, and we use machines and filters to clean it."
+
+She processed my words for a moment. "... And the fire?"
+
+I shrug again. "We put that mechanical pressure pump and a really big tank of water on wheels."
+
+I can see her register that and realize the callback to what I had already said. "Oh, that makes sense ... Still, it sounds so ..."
+
+When she idles too long trying to find an inoffensive word, I beat her to the chase. "Foreign? Alien? Counterintuitive? Imagine how I felt the first time I realized my water was being spawned from a glowing rock in my wall instead of pumped in from an actual water source."
+
+That gets a giggle out of her, which I count as progress. "Okay, I can see how that must have seemed when you put it like that." I can tell when she starts considering the implications of what I've told her, though. "If you don't mind me asking, where are you from? I understand you're not from the Empire, but where in all of Toleste could such a place exist?"
+
+Toleste, that's the name of the continent we're on. It might as well double as the planet name, because the natives generally treat it like the entire world. Sure, there's oceans, and there's islands of various sizes, some of them large enough to be their own countries, but it's entirely possible that this planet we're on is a Pangean world.
+
+Either due to an underwhelming amount of tectonic movement or an excessive centralization of it, Toleste may be, for all intents and purposes, all the planet's landmass in one place. One massive supercontinent. Or, at least, no one's found another. The Furinshao Empire covers a huge swath of it, and is easily its largest superpower, but there are many other smaller countries beyond its borders. Generally, most anyone I speak with assumes I'm from one of them.
+
+"Ah, that's really hard to answer," I fidget with my cheek at her question. "I didn't come to the Empire over land, so I don't really know where we are relative to each other."
+
+That's all true, but it also gets me thinking. It's possible Toleste is, in fact, another planet we could conventionally travel to. But then, it could just as easily be a parallel reality. Though travel is still clearly possible, or I wouldn't be here. Point being, there might actually be a concept of traversable distance between here and Earth, one way or another.
+
+Of course, that answer just confuses her more. "Did you take a boat? Get lost at sea?"
+
+"I got grabbed in a teleportation field," I answer honestly, and her eyes go wide.
+
+She fumbles with the implication of such powerful, long-range magic, apparently not considering the possibility it came from the Hero Ritual, and I figure now's as good a time as any to get back on topic.
+
+I reach over and tap the map on the table. "So these dungeons, give me the grade-school version, what do they have to do with magic and why do we need to cull them?"
+
+"Grade School?" she repeats, the concept apparently not translating across the Essence System for her. Still, she gives her head a shake to clear it. "You mean for me to keep it simple?"
+
+I nod and give a grin. "I'm sure I can find some overly heavy book with the collegiate dissertation version for when I need help going to sleep. For now, just enough surface explanation so I can follow along is fine."
+
+Since this gets another giggle from her, it seems safe to assume that the verbosity of the ... intellectual class transcends spacetime.
+
+... Actually, I'll bet Benarou could have recommended me just such a book ...
+
+Ayre turns her attention back to the map, as well. "Well, okay, let's see ... How much do you know about magic now?"
+
+"I know I've got an enumerated amount of magical energy at my disposal," I answer. "I can expend it to produce effects whose creation is independent of natural laws, but once produced obey those laws. And that pool of energy replenishes itself over time after use. Extended use can increase the maximum value of magical energy I can contain."
+
+The elf gives me the flattest of stares, so flat that even her ears go horizontal as part of the expression. She mutters something, I'm pretty sure it's, "... collegiate ..."
+
+Soon, she shakes her head again. "That's all more about casting, though. What do you know about magic in the world?"
+
+"Oh." I blink. "Nothing."
+
+This time, her stare only lasts a short while before transitioning into a sigh as she hangs her head. "You really didn't grow up with magic ..."
+
+My embarrassed grin comes back. "I can try to guess?"
+
+But she shakes her head. "It's not that difficult." She points to the map for emphasis. "There are two types of power that can disobey what you called natural laws, Essence and Magic. I won't go into the differences here, but it's enough to know that Essence flows down to us from the Heavens and Magic flows up to us from the World."
+
+She gets a look on her face like a stern frown. "Once upon a time, there was a whole belief that this meant that Essence was inherently good and Magic was inherently evil, but we've long since known that for the backward superstition it is. It sparked whole wars and a lot of persecution before we figured it out, though. Dark times."
+
+I nod in understanding. "We had a similar historical era, even without actual magic, where too many people were ruled by mysticism and fear. Just the nature of Man, unfortunately. We go through the same motions no matter where we are."
+
+But I smile to disperse the gloomy mood. "But neither of our lands are there anymore, and that's something to be proud of. I'm guessing the truth of Essence and Magic are that both are basically neutral and readily interact with each other?"
+
+Ayre recenters her focus and nods in confirmation. "That's right. The problem is more that, since we're closer to the World than we are to the Heavens, the concentration of Magic is much stronger than that of Essence. On the one hand, that's why it's concentrated enough for us to use freely. However, its concentration also results in monsters."
+
+"Let me guess," I put forth, "high levels of magic cause mutations in natural life over time?"
+
+The elf frowns in confusion. "I ... I'm sorry, I don't know that word. Mutations."
+
+"Deviations from normal evolution," I try to elaborate, but immediately realize I'm repeating my mistake.
+
+She starts to say something, but I can tell from her face she's just going to repeat herself, too, and I hold up my hand to stop her.
+
+"It's not important," I insist instead. "It's just that a lot of the monsters I've seen since coming here have animal counterparts back home. To use the most ready example, we have rabbits, but they aren't monsters. They're much smaller and have no horn, but anyone from Dabun could take one look and tell they're rabbits."
+
+"Interesting," she intones, then nods. "It's the current theory that even monsters are naturally occurring life like anything else, just holding a lot more magical energy, but there's never been a way to actually prove it. You'd have to ask a researcher for the details, but at least this much is important for any adventurer to know."
+
+She pauses thoughtfully. "Actually, it's kind of impressive you came to that conclusion all on your own."
+
+I shake my head again. "I can't take credit for it. Evolution is literally a theory of species changing over time through environmental adaptations, so I was already primed to think that way."
+
+Ayre giggles again. "Maybe you should chat up a researcher. You really talk like one sometimes."
+
+She ignores my embarrassed expression at that and taps the map again. "Anyway, magic doesn't just gather in us and monsters. It can also pool into the world in high concentrations."
+
+"Like wellsprings."
+
+Ayre nods in confirmation. "Exactly. And when that happens, it's really too high for anyone to absorb, so it ends up coalescing into a Dungeon, which tends to be some sort of hyper-exaggerated form of its surrounding environment. Since they're wellsprings of magic, to borrow your term, they're basically responsible for almost all Magic released into the world.
+
+"That magic tends to clot up, though, like what creates the dungeon in miniature form. This is what creates dungeon monsters, though since they're created directly from magic, they're distinct from their real equivalents. You can even see monstrous versions of the civilized races, though that's rare. Presumably because imitating us requires more energy."
+
+"And I'm betting," I venture, "that despite being of the same species, these dungeon versions aren't up for barter and chat."
+
+"Most definitely not. They can be cunning, but can't actually communicate. Stories say even Heroes can't do it, even though they've got Essence translating for them."
+
+The elf begins to motion with her hands. "If left alone, a dungeon will continue to pour out concentrated magic over time and will grow and expand to absorb more of the surrounding area. There are fairy tales of whole villages being consumed by growing dungeons because nobody strong enough would come deal with it."
+
+"So, if I'm following along here," I put in, "going through and popping these clots disperses the energy and keeps it from expanding?"
+
+Ayre beams a bright smile at me, her ears wiggling a bit. "Are you sure you've never heard any of this before?"
+
+She's only the second elf I've ever met, and I'm realizing how subdued Yorin's expressions have been. Maybe because of how much time the priestess spends among humans? Or is it the burden of her position? Either way, Ayre's expressive range is like fireworks by comparison.

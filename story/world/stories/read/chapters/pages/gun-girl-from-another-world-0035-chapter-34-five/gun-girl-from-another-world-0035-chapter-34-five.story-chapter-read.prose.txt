@@ -1,0 +1,183 @@
+Chapter 34
+
+Five
+
+"Ow! Ow, ow, ow, ow, ow! How long is everything going to keep hurting?!"
+
+I help Ayre walk along the path with my arm around her waist and hers pulled over my shoulder. It's only been a few minutes since she was able to move at all, and the Paralysis hasn't quite run its course.
+
+"Sorry," I apologize, "I don't really know. I've never shot myself with one of them."
+
+"You should," she pouts. "It hurts so bad! Like every muscle in your body is stuck in a cramp!"
+
+"Well, that would explain why everything else I've ever used it on always comes out of it ready to kill me," I muse. "Unfortunately, it was the only thing I had to restrain you with."
+
+"Yeah ..." That reminder dampens her ranting a bit. "I don't know what came over me."
+
+"A status condition."
+
+The elf shoots me a glare. "Well, I mean, I know what came over me, but not what I was thinking."
+
+"That the spooky flame of evil was pretty and you wanted to touch it."
+
+She forces us to stop walking. "Remmi, I will stab you with my dagger if you keep doing that, and without full control of my limbs, I can't promise I won't hit something vital."
+
+"Understood," I say, doing my best to look suitably reprimanded. "Lucky us, the condition left you when I destroyed the corruption."
+
+"Yeah, great, now I'm just in agony for no reason."
+
+"It will fade," I promise. "I just don't know how long it takes."
+
+We reach a glade and I ease her down onto a rock. "Here, you take it easy. We'll call it quits for today. I'll set up camp and get some food cooking."
+
+She doesn't protest, but only shifts for a moment before giving me a speculative eye. "You're sure moving around a lot for someone under ten percent."
+
+"Actually, I'm back up to somewhere under a quarter now."
+
+Her eyes widen. "Already?!"
+
+I shrug. "I had time to rest before you were well enough to move."
+
+"That's not how recovery works, Remmi!" she scolds. "And besides, anything under half starts adding penalties."
+
+I nod. "Yeah, I can tell I'm not at a hundred percent."
+
+"And pain."
+
+I wheel back on her. "I'll walk it off! Look, neither of us wants to be trying to set up camp in the dark, and I'm the only one with full movement!"
+
+"You shouldn't have full movement."
+
+"It's fuller than yours! And I promised to make camp, anyway!"
+
+Still, she scowls at me. "You also promised to show me your status."
+
+I give a sigh of frustration. "Right now?"
+
+"Right now," she nods. "You shot me."
+
+I drop my head at the guilt trip and summon the window. I keep the second age hidden, but don't bother with the Outsider tag this time. She already knows that part, after all.
+
+NAME: Remmi Lee
+
+RACE: Human (Outsider)
+
+AGE: 15
+
+LEVEL: 5
+
+CLASS: Gunslinger
+
+HP: 48/220
+
+MP: 120/120
+
+ST: 200/200
+
+STRENGTH: 50
+
+TOUGHNESS: 60
+
+INTELLECT: 120
+
+AGILITY: 100
+
+POINTS: 28,520
+
+TRAITS:
+
+Hero
+
+Gun Nut
+
+Jack of All Trades (General)
+
+Ayre nearly looks like she's going into seizures when she sees it. "What in the hells is with that Intellect?!"
+
+I give an awkward half-grin. "Yeah, that's pretty much the exact same reaction the Battlemage Hero had when he saw it."
+
+She did a double-take from the sheet to me. "You mean that's what you started with?! No wonder your Paralysis is so horrible!"
+
+My look turns confused. "What do you mean?"
+
+She sighs and palms her face. "Right. Newcomer. Or," she glances to the sheet, "Outsider."
+
+The elf inhales a new breath before explaining. "Intellect doesn't just determine how much magical power you have and how fast you recover it. It also affects how strong your spells are. An Arcane Bolt from somebody with twenty Intellect and someone else with a hundred are going to be completely different in scale. The same goes for the intensity and duration of your status conditions, and how hard they are to resist."
+
+"Huh, so I might want to keep it up even though I'm not a caster."
+
+She squints. "Probably? But honestly, you're already higher than likely anybody under forty."
+
+I don't bother mentioning Benarou. For one, it seems to be pretty rude to talk about someone else's stats without their permission, and besides, she'd probably just blame it on him being a Hero.
+
+Ayre turns her attention back to the rest of the information on the status window. "... Wow, you really are level 5. I know you didn't have a reason to lie, but I still couldn't believe it. Not that these are remotely the stats of a level 5."
+
+"I don't have much to compare it to," I admit. "Nearest I can guess is they're closer to ... maybe fifteen?"
+
+She nods. "At least. And why do you have such a disgusting mountain of points?!"
+
+I give an awkward chuckle this time as I scratch at my cheek. "Actually, most of those are from today. I get bonuses both for being a Hero and for using a gun, so I was getting two hundred per rat. Then I got a fat bonus for purifying the Heart of Corruption."
+
+She narrows her eyes at that number, probably trying to math out how much of it was what. "Yeah, I actually got a bonus just from being partied with you, which surprised me. On top of the System Quest. Which I didn't even know was a thing."
+
+"Really?" I ask with genuine surprise. "Just being in the same party as a Hero grants a bonus? The trait didn't mention that."
+
+"It actually notified me of it. Not nearly as much as you got, though. It added an extra quarter." She rubs her chin in thought. "That's still considered a huge amount for us normal people, though. I wonder if it stacks with dungeons."
+
+"Dungeons give a bonus, too?" I ask.
+
+Her eyes widen at the question. "Oh! I didn't tell you? Sorry, it's common knowledge, so it must not have occurred to me. Yes, dungeons give more points than normal, it's one of the reasons why they're considered so valuable. Well, to adventurers, anyway. And even for us, they're dangerous."
+
+"High risk, high reward," I sum up, and she nods again.
+
+"Right. Still doesn't explain why you have so many just sitting there, though."
+
+I settle in next to her, to look at it over her shoulder. "What do you mean?"
+
+"It's normal to have some, sure," she admits, "and more of them after something like this when you received bonuses and haven't had time to burn them off yet. Most adventurers will take time to train after a dungeon culling to take advantage of it. But to have so many, it's like none of them were spent on growth."
+
+"Oh!" I chirp with a grin, glad it's such an easy thing to explain for once. "That's because I'm a Hero! My points don't spend themselves. I get to save them as currency and decide where they go for myself!"
+
+Ayre turns on me with a look of simultaneous awe and seething rage that makes me lean away from her. "You get to WHAT?! How is that remotely fair?! You don't even have to put in the work! You're just cheating at that point!"
+
+My grin is a lot less secure now. "I can also buy things with them!"
+
+"Things?!" she repeats. "As in physical objects?! How does that even work?!"
+
+"There's a menu system," I explain. "Mostly, it's things like rations and tools for an emergency, but it's all of disposable quality, to discourage relying on them when you don't need to. But it's also where I buy my bullets and maintenance kits for my gun, probably since there's no other way to get them here."
+
+I spin the screen back and navigate through them. I'm in desperate need of more bullets now, anyway, so now's as good a time as any for a demonstration. "It's also how I learn new skills and spells," I explain as I sort out my order. "I don't have a Soul Orb, for example. I bought the Identify spell directly."
+
+I also add a couple more pouches for my belt since I've got a good reason for more ammo types now. Speaking of which, they do, in fact, have holy rounds. Burst rounds, in fact. (Make the light of wisdom shine out of their every orifice, the pitch brags.) They also have healing rounds. The idea of shooting someone to make them better makes my eye twitch, but it's hard to argue against the usefulness.
+
+I add a couple magazines of each to my order, since they're situational, and I take a moment to find that Heal spell, too. Like the others, it's only base level, so it probably doesn't heal a ton, not like what Seina can do, but it'll probably be easier in combat than switching magazines.
+
+Besides, it's not like I have much else to spend my mana on.
+
+As always, I'm struck by the inexpensiveness of it all. Even restocking basically all of my fire rounds and probably half my overpressure rounds, and adding two new types to my collection, I've barely made a dent in that mountain of points Ayre complained about. I add another each of the holy and healing just to feel like I'm spending something.
+
+The elf's eyes are drawn to the box that appears at my feet, and her jaw fully drops open when I pop it to show all of the magazines within. "Where did it come from?! How?!"
+
+I start the process of moving them to my pouches. The empty magazines and loose bullets have already been transferred to my backpack. "Near as I can guess, the System has some method of molecular printing, probably using Essence as an all-purpose source material."
+
+She gets a confused look on her face. "Printing? You mean like a book?"
+
+Whoops.
+
+"Sort of," I try. "Except printing a book is along a flat surface, right? Up and down, left and right. Molecular printing does it up and down, left and right, but also high and low, so you get three-dimensional objects you can hold. And instead of just ink, you can turn your medium into whatever actual material you need."
+
+"Alchemy," Ayre says immediately. "You're describing transitive alchemy."
+
+I consider that for a moment, then nod. "Yeah, I guess I am. There you go, then. My guess is Essence-based transitive alchemy."
+
+She mulls that over. "Yeah, that would actually make perfect sense. Still, the degree of detail across so many different materials ... No mortal alchemist could manage that."
+
+Of course, that just sets my mind to considering exactly how a mortal could do it, but I spare my friend a dissertation on blueprint databases and orbit-to-ground signal broadcasts. Instead, as I close the status window, I just say, "What do you think teleportation does?"
+
+Ayre opens her mouth, hand half-raised to gesture, stops, thinks about it, and repeats the loop a couple more times before squinting accusingly at me. "Why do you know so much about this stuff if you've never known any magic?"
+
+"I told you," I reply with a grin. "We just did things by other means. And our favorite question to ask was always, 'How?'"
+
+I cross my arms over my chest and lower my head. "Speaking of magic, I just picked up a recovery spell. Let's see how it works."
+
+And as spirals of green energy begin to circle up around me and my health starts to rise, Ayre just keeps sitting there glaring at me like I'm openly palming five aces at a time.

@@ -1,0 +1,177 @@
+Chapter 20
+
+Slime
+
+I turn around, careful not to do so too fast as to startle whatever it is into premature action, and set my eyes on a ... a watery blob.
+
+I know what it is immediately, as it's one of the few monsters Yorin went out of her way to explain to me.
+
+The slime trembles on the precipice of a branch of driftwood before gravity takes over and pulls it off onto the dirt ground. There's a spot of grass where it lands, but I can already see it starting to waver and break down inside of the monster's transparent body.
+
+Slimes, Yorin had explained to me, fill a unique niche in the natural ecology. They generally feed on toxins and detritus in wet environments, meaning they can be found in and around both natural and artificial waterways, and even open fields after a heavy rain. Their diet naturally cleans those waterways, improving the health of the surrounding ecosystem.
+
+This changes radically, however, if they become overpopulated, which can happen naturally when they aren't culled by predators or adventurers, or in response to high levels of pollution. When there's too many of them in a given environment, crowding causes them to start secreting toxins into the waters they normally clean.
+
+Obviously, this creates a disastrous snowball of ecological damage, giving wild slimes a reputation both as pests and as an indicator of the health of the local environment. If you don't see any, there's a drought. If you see them only every once in a while, the local water is clean and its denizens happy.
+
+... If you see a lot, call an exterminator and the EPA. Or, y'know, your planar equivalent.
+
+She also stressed to me that I am never to kill slimes in cities without clear official permission. Cities use slimes bred for docility as a key component of water reclamation and sanitation systems. Their numbers are carefully monitored and maintained by the city, and attacking them is considered the same as vandalizing city infrastructure.
+
+As a side effect, this means city slimes have a lot in common with Dabun's horned rabbits, especially in cities particularly dominated by surface waterways, where these slimes are seen frequently by humans. While not technically pets, and their removal is punished heavily, they get to be very comfortable around people, who often feed or otherwise pamper them.
+
+This is definitely not one of those slimes. The ones Yorin showed me were happy-go-lucky, pudgy balls of goo that enjoyed having their cheeks pinched, and had the viscosity to keep it all inside like mascot stress balls. This thing looks like somebody dumped a #10 can of malicious jam on the sidewalk in a heat wave.
+
+"Identify," I announce as I pull my hand up next to my eye.
+
+NAME: Slime
+
+RACE: Slime (Wild)
+
+AGE: 1
+
+LEVEL: 1
+
+CLASS: Slime
+
+STATUS: Aggressive
+
+Huh, same level as the rabbits. And the spell even conveniently identifies it as a wild slime. Good to know I won't have to worry about telling the difference.
+
+Tassim was right, Identify really is such a must-have spell. Well, not that I really have any others for a comparison.
+
+Actually, mental note, I should see if I can get that cleansing item's effect as a spell. It's only a matter of time before something like that pays for itself.
+
+... Wait, what was that status?
+
+I sidestep out of the way as yet another monster tries to tackle my face. Fortunately, the slime is no rival to Kyuuga, and even with my delayed recognition of the threat, it has no chance of hitting me. It slaps against a tree trunk like a wet snot ball and quivers there for a moment like it's stunned, or too stupid to figure out it missed.
+
+As I wait to see which it is, it throws itself into the air again, but again, it comes nowhere near me.
+
+I can't help but think this display is kind of pathetic, and I draw my gun, deciding to put it out of its misery. The round explodes from the barrel, and slime and soil both go flying.
+
+Figuring that's that, I go to get my water bucket, but pause when movement catches my eye.
+
+... Rather than being dead, the pieces of the slime pull back toward its largest mass, and soon it's quivering there again like it's more infuriated that I had the gall to shoot it than injured from the attack.
+
+I shoot it again for good measure, but this time I wait to see if it worked. Sure enough, it starts pulling itself together again.
+
+"... Stubborn little grease stain, aren't you?" I ask it rhetorically as I eject the overpressure rounds from my gun. I pull the slide to pop the one from the chamber, catch it and toss it into the satchel, too.
+
+Then I slide in a magazine with a red stripe down the side and chamber the first round.
+
+I raise the pistol in both hands and train the sights on its gathering mass, waiting for it to finish recovering. "Let's try something with a little more spice."
+
+This time, the magical incendiary round instantly cremates the monster. Literally. I can see it burn away in mid-air before it even has time to get blasted away.
+
+If I needed more confirmation, the status window promptly starts cheering.
+
+You have defeated a Slime!
+
++25 Points
+
+You have defeated your first monster!
+
++100 Points
+
+You savagely obliterated an opponent
+
+that was beneath you!
+
++100 Points
+
+(You know you could have just hit it
+
+with a stick, right?)
+
+That last bit disappears a moment after I register it, leaving me feeling like I just saw something that I wasn't supposed to see.
+
+Is my status developing an attitude? Is that a thing? Maybe it's just noticing my positive reactions to its shop snark?
+
+I realize that I know basically nothing about the Essence System. I'd ask Yorin, but she'd just try to sell me on her holy book again.
+
+Still, ignoring the extra two hundred from the system's pseudo-achievements, that was a very easy twenty-five points. A single level one slime awarded me the equivalent of five magazines of ammunition. Or one ration pack, I suppose. Ten apples.
+
+Isn't that way too much?
+
+... Actually, isn't it just my bonuses to point acquisition that are too high? Thinking back to them, since I used my gun, didn't they come out to something crazy like 250%?
+
+That would mean slimes are actually worth only ten points for a regular person. But that's still like four apples. Is a slime worth four apples? I know it isn't worth thirty-two bullets, but I'm already aware that the System is seriously underpricing those.
+
+What else do I know the price of? My holster was discounted. The Identify spell was 100 points. Are ten slimes equivalent to the value of Identify?
+
+No, I'm thinking of this wrong. Points don't measure market value, they measure effort. Is the effort necessary to learn the Identify spell equivalent to the effort of killing ten slimes?
+
+... Maybe? Nobody actually knows how to learn the spell normally, so as far as I know, it could be super easy and it's just forgotten.
+
+It's about that time that I realize I'm still just standing on the bank of the river, staring blindly at the fading smolders of my fire round. I shake my head to clear it, then switch back to the regular rounds before I forget they're in there and set something on fire I'd rather not.
+
+Once more, I fill my water bucket and begin the trek back, but I can't completely shake the conundrum from my head. The issues keep percolating in the back of my brain.
+
+I just don't have enough data points to determine how the System calculates point cost and distribution. I need to know so much more than the values, themselves. A concrete understanding of real-world market prices would be essential, and a grasp of how magic works and is studied would probably be mandatory, too. Not to mention the mean intelligence of the population. So on and so on.
+
+In short, the System involves and impacts so many things that any attempt to formally study it would basically first require understanding the whole world.
+
+To say this is beyond me for the foreseeable future would be an understatement. Instead, for the time being, it is better for me to take it at face value and figure out the best way to make use of it.
+
+I recenter my mind onto the slime. I know they reproduce like giant amoeba and eat wastewater. I also know they award me twenty-five points a piece, provided I use my gun. Oh, and also that my gun isn't actually any good against them, kind of a drawback.
+
+Luring them in or hunting them in large numbers would be bad for the ecosystem, but I also know that they can be deliberately bred. Could I make a slime farm?
+
+I'm immediately hit by guilt at the thought that I'd be cheesing the system, and reflexively swear to myself that I'm not going for something crazy like infinite points. Though points probably are functionally infinite. The point is I'm just looking to pad out my total a bit since I didn't start with any and need so many for everything I'm trying to do.
+
+... Though if the system doesn't like it, it'll probably just tell me so, and then, hey, at least I have a water purifier? Nothing ventured, nothing gained.
+
+Actually, a water purifier is essentially exactly what I need.
+
+When I reach my campsite, I immediately dump my fresh water on the campfire, then start shoveling the ash and garbage into a second bucket. The firewood is set aside to dry in the sun.
+
+In short order, I've ironically completed cleaning out my fire pit, the task I'd just been putting off, and with a spring in my step and a whistle on my lips, I take both buckets and the shovel back into the woods with me.
+
+... I can practically feel Kyuuga staring after me in bewilderment at my sudden change in behavior.
+
+The whole time I'm walking back, I'm considering how best to do this. I'm thinking I'm basically going to dig a hole, fill it with dirty water and wait. Eventually, at least one slime will find it, and then I can seal it up and wait for them to multiply.
+
+That means the hole needs to be close enough to the river to be within the slimes' detection range, but far enough away that any contamination doesn't seep back into the waterway. In fact, I probably need some way to seal the hole off from the surrounding ground.
+
+If I were doing this on Earth, I'd line the hole with concrete, plastic or rubber, easy peasy. Unfortunately, I don't know for certain if any of those exist here.
+
+Well, might as well try, and if it doesn't work, I'll try something else. Experimentation! The foundation of discovery!
+
+I hardly get two scoops of dirt out of the ground before the system butts in.
+
+You are attempting to use a general skill that you
+
+are not proficient in. Using a skill without
+
+proficiency has a high risk of failure or
+
+inferior result.
+
+Continuing without proficiency has a low chance of
+
+granting proficiency.
+
+It is recommended to find a trainer for the desired
+
+skill to ensure you acquire proficiency.
+
+As a [Hero], you may spend points directly to
+
+acquire a general proficiency and/or any
+
+requisite proficiencies immediately.
+
+Ah, been a while since I've seen that one. It's the same notice I received when I started trying to use the tools and build things for the camp on my own for the first time.
+
+On the upside, I figure it's a good sign that the system seems to realize what I'm doing and isn't trying to shut my plans down. It's also really convenient, because all it takes is a focus of will on that last option to pull up exactly the skills I need to buy.
+
+... My jaw drops wide open as I stare blankly into what anyone else would see as open air.
+
+Why does it require so many proficiencies just to build a monster trap?! Is this the System's attempt to counterbalance against me?
+
+I mean, sure, they make sense if I stop and think about it. Well construction, water health knowledge, cask construction, slime behavioral knowledge, sewage management knowledge, wilderness survival ... Yeah, it all makes sense, but only to the degree that I can see an excuse being made for them on the topic.
+
+A couple of them, I even already have from what I've already been doing, but there's still over half a dozen prerequisite skills. And then I still have to buy the actual skill, itself: Slime Farming.
+
+"... Yeesh, if you don't want me to do it, just say so instead of being all passive-aggressive about it ..."
