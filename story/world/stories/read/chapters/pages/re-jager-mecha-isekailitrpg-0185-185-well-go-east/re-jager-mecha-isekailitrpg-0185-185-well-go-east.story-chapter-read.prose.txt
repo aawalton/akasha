@@ -1,0 +1,179 @@
++++ Lieutenant Hans Hoffman +++
+
+General Tier: III
+
+LVL: 35
+
+Class: Mech Pilot (Vanguard)
+
+Passive Skills: [PAS: CYCLE OF TRUTH I], [PAS: PROGRESS OF LIES I]
+
+Active Skills: [ACT: LIARS DETECT LIARS I], [ACT: ONE SHOT, ONE KILL III], [ACT: DECEITFUL SABOTAGE II]
+
+Mech Upgrades: [UPG: EYE OF PARANOIA I], [UPG: ARCANE AUTOFABRICATOR II], [UPG: ARCANE MAINTENANCE SYSTEM I], [UPG: TRACE THE DOTS III], [UPG: SMOOTH RESPONSE II]
+
+ATTRIBUTES
+
+DEF: E
+
+RES: D +
+
+STR: E
+
+SPD: E -
+
+AP REGEN RATE: 40 AP/HOUR
+
+Available Arcane Points: 7800/200 PTS [UNLIMITED CAP]
+
+ATTRIBUTE MODIFIERS: [LATENT AP REGEN III], [MAGIC RESISTANCE I]
+
+Well, that’s not so bad, I guess…
+
+His new attribute choices unfortunately were not that great. It was essentially just an option between [LATENT AP REGEN IV] and [MAGIC RESISTANCE I]. Considering how abysmal his physical stats were due to his lack of determined training, Hans thought his body was especially vulnerable to magical attacks of any sort.
+
+So he picked [MAGIC RESISTANCE I] for now. It essentially improved his RES stat, the one responsible for a body’s ability to resist magic-based attacks, up from E minus to D plus.
+
+That was it for now. He should, in theory, be capable of withstanding a few demonic attacks. Considering the upcoming nature of their operation, Hans thought that he might have to finally put in the effort on taking care of himself instead of focusing on his mech.
+
+Infiltrating the capital my ass…
+
+There were two prevailing schools of thought developing in the Ygeian Expeditionary Forces right now. The ‘Wide Front Plan’ group was made up of Hans, Ebert, Jonas, and of course, General Kohler. They collectively advocated for a protracted advance using the modernized Ygeian Expeditionary Force straight into the Imperial Capital.
+
+Not just that, they wanted a four to six-month delay to raise two new corps for the advance. They needed more brigades in their formations to fully ensure that they could capture necessary cities on the way, secure them, and most importantly, secure the supply and communication lines.
+
+It was an ambitious task, but in Hans’s view, it was the most practical. They’ve already used this tactic again and again, from Ygeia, to Nomos, to here, Asfaleia. Sure, it would be difficult, grindy, and grueling, but such a plan would mean that they’d be able to advance to the capital rather safely.
+
+Well, not safely. Casualties would probably remain immense, but the possibility of failure wouldn’t be likely. Nor would it be likely for any demonic force to face off against the combined might of the Western principalities and annihilate them.
+
+With this kind of plan, they would be advancing steadily and orderly, conducting repetitive battles on the wide front that they could absorb and recover from.
+
+On the other hand, after the Viceroy of Nomos returned here in Asfaleia upon hearing the news of rescuing the Empress (they were apparently close friends), an alternate group formed in opposition to General Kohler’s team. That was the Empress’ group, made up of Adelyn, Elisa, and of course, Emilia.
+
+They were the ‘Spearhead Plan’ group. Elisa, back in the last meeting they had, told them all that the Calamity of Hubris was slowly orchestrating a way to ‘assimilate’ the entire Imperial Capital, somehow, in order to refine them all into a pill of omnipotence.
+
+In essence, the damned pope was trying to turn himself into a demonic god, or whatever, through human sacrifice. She placed great doubt on such a possibility happening, but the suggestion alone was enough that there was reason to believe that their window of opportunity to act was narrowing.
+
+Hence, the ‘Spearhead Plan’ faction was born. That was everyone who not only wanted to stop Hubris from executing such an insane plan, but also so that the people of the Imperial Capital would be saved from the de facto prison they were placed under.
+
+Hans didn’t trust them. First of all, both Elisa and Emilia had family members stuck in the Imperial Capital. He could even tell that the Empress seemed anxious and twitchy whenever her ‘little sister’ was mentioned by Emilia. On the other hand, Adelyn was…well, Adelyn.
+
+She’d heard something big, and of course, Hans’ partner would not insist that they save everyone at all costs now.
+
+He appreciated such sentiments, because if indeed the demon god plan was true, her plan of charging ahead and reaching the capital as fast as possible had absolute merit to it, but…
+
+Well, the Ygeian Expeditionary Force couldn’t be sacrificed for some rumor. It was the only modernized, well-equipped, well-trained, and well-led military force on the face of this continent, and it was the only force capable of fully fighting demons toe-to-toe.
+
+To sacrifice this unit, which Hans largely considered as one of his indirect works considering his contributions to building it, was unacceptable. He wouldn’t switch to the ‘Spearhead Plan’ faction.
+
+He wanted to win this damned war. Trying to be so reckless wouldn’t help anyone. Sure, he could afford being ridiculously reckless during individual battles, but Hans had a brain. He knew that if he placed himself in a strategically bad spot, it’d be nearly impossible to fix that compared to fixing a tactically bad situation.
+
+“You seem to be in deep thought,” a voice interrupted Hans.
+
+Beside him, Adelyn sat. Hans on the other hand decided to speed up eating the pork chops on his table, not bothering much to savor his food. Being this close to her, once again, it managed to affect him.
+
+“What? Still annoyed by the plan I proposed?”
+
+“It’s not that.”
+
+“Then what is it?”
+
+“Well…”
+
+Hans sliced another piece of the pork, before eating it. Then, he dunked in water.
+
+“Last battle, you were quite angry, weren’t you?” Hans asked, laughing to himself a bit. “Nothing, I just felt like, I’d run.”
+
+“Oh, you don’t want to be chastised?”
+
+“...Quite frankly, I probably deserve it anyway.”
+
+“You do.”
+
+Hans remained silent. Adelyn on the other hand opened a paper package, and inside it was a croissant. She began digging into it silently. Hans waited for a bit, before speaking up.
+
+“So?”
+
+“What?”
+
+“Are you still angry?”
+
+“Not really,” Adelyn shook his head. “You’re fine, and whatever crazy stunt you pulled off managed to save a lot of people. If you told me in advance, I’d probably stop it.”
+
+“Funny how it’s you proposing a crazy stunt now…”
+
+“Which is why I’m not mad,” Adelyn leaned back on her chair, looking up. “Look, we’re all soldiers. We look at each other’s backs. Of course, we’ll get angry if any of our comrades decide to play hero…but…I think, all of us, whether it’s you or me, in the end, will fight once pushed into a corner, to save everyone.”
+
+Hans kept himself silent.
+
+“I understand why you charged into that place alone. So…I want you to understand this plan I’m proposing. We have…to do the same thing now. Now that we know more about the situation, it’s clear that twiddling our thumbs like I want most of the time is more risky.”
+
+“I suppose…”
+
+“What do you think about it though?” Adelyn innocently bit on her croissant.
+
+“...We’ll definitely go east,” Hans said, as he sliced another piece of pork chop. “But, just as you have an idea that you think will save people, I have mine. I’ll most likely stick to it.”
+
+“I see.”
+
++++
+
+Astelia City
+
+July 08, 1539 CE
+
+“For mankind! For the Empress! For our survival, we must fight!”
+
+“Fight! Fight! Fight!”
+
+“So all of you, they need more men on the frontlines! I thus urge you all to join the Army!”
+
+Hans and Adelyn walked past a gathered crowd at the center of the city. The news of what was happening in the east had spread like wildfire. Talks of the pope betraying the people, the Empress, and the suffering being caused by them became a hot topic for all.
+
+By now, a lot of internal factionalism between the citizenry, races, and the Empire was starting to dissipate. It seemed that Elisa was releasing information in an almost propagandistic way.
+
+She was framing this war as a war for the survival of mankind, all of them, and she had asked General Kohler to keep an eye out for anyone sowing any narratives that ran contrary to it. If you said this was a Vanus or Virtus conspiracy, you would receive a visit from the Imperial Army military police, for one.
+
+The drumbeats of government were returning, and Hans was both feeling quite uneasy about it, though, a bit hopeful, knowing that a lot of these measures were necessary.
+
+“It seems all temporary though,” Hans mindlessly muttered as his hands sank to his pockets.
+
+“What?” Adelyn turned to him, still eating barbecue.
+
+“This ‘unity’ crap,” Hans laughed. “Bet once this war is over, the West will break free from the Empire and attack again. The east’s all messed up now, and we’re going to be acting as liberators.”
+
+“Well, I suppose it’s just a case of the tables turning,” Adelyn placed a hand on her chin.
+
+“Hey! You two, over there!” the speaker shouted, pointing at Hans and Adelyn. “You two are the saviors of mankind, aren’t you? Tell us! Can we beat the demon devils?”
+
+“I’m just a soldier,” Hans said, neutral. “If you want to point to a hero, she’s right beside me. She loves playing the heroine. In fact, she’s the one who suggested a very heroic path forward for the Army right now. Maybe she has an idea about that.”
+
+“W-what? You hypocrite!” Adelyn turned beet red. “You play the hero just as much, Hans!”
+
+“Only because I’m dragged to your mess.”
+
+“You’re just saying that to dump this on me!”
+
+“Then say something. They’re waiting for your words. You know how it is, Adelyn. You’re the one who can speak to people better,” Hans smiled, turning to the speaker. “Sorry, I’m not really what you’ll call a proper hero. Again, I’m but a humble soldier escorting the true one.”
+
+“Tsk…” Adelyn sighed, relenting. “Alright. Damn it…”
+
+She stepped forward, and the crowd turned to her, amazed by her grace and beauty. Of course, this was why whenever this scenario happened, Hans dumped the job on her. She was the best PR face the Imperial Army could ask for, after all. She was the Angel of Justice, and not just that, she always knew what to say to people.
+
+“No, we can’t,” Adelyn said, earning shocked gasps from the crowd. The speaker frowned, pointing his finger at Adelyn.
+
+“W-wait, what?” The speaker angrily shouted. “But then why are you all telling us that this struggle is so necessary? Why ask us to join the Imperial Army then—?”
+
+“Because we have to,” Adelyn said, placing her hand on her chest. “I do not know whether I can beat any demon. Never did. Ever since the start, every battle I fought, side-by-side with my comrades and the man behind me, I never knew if I would win. But I did.
+
+“We’ve learned quite clearly what is being planned by the corrupted pope in the Imperial Capital. They want to exterminate mankind. They want to remove you. So the only question left isn’t if ‘we will win or not’, it’s, ‘will we lie down and die without fighting or not’. That’s the question, and my answer is that I will not lie down.
+
+“I have no idea whether charging headfirst over there will mean victory. I have no idea of the terrain, the enemies, the people we’ll meet and work with. Nothing. But I do know we have to reach that place as quickly as possible and stop whatever plans our enemy has for mankind.
+
+“My answer therefore is that this operation will be one about survival. Do you want to survive or not? That’s your choice. Fight, or not fight, it’s all up to you. Whether we win or not, is not something we can control, not even I, or that jerk behind me.”
+
+Don’t ruin your speech, it’s already good…
+
+Hans curled his fist in annoyance.
+
+“But, you can control the decision of whether you’ll join the struggle or not,” Adelyn finally smiled, pointing at the speaker. “You’ve been hyping up everyone else to join, haven’t you, young man? I ask you then. Will you fight, or will you not?”
