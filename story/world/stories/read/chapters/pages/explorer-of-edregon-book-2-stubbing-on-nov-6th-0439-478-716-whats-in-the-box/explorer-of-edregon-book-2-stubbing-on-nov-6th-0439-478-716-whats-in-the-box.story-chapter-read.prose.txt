@@ -1,0 +1,85 @@
+The box was stubborn.
+
+Before devoting any significant amount of time to new spells, Vin ran through a few quick ideas he had with the magic already available to him. First was the obvious.
+
+Using Mage Hand, Vin scoured over every inch of the box, looking for anything resembling a keyhole or even a seam he could get his telekinetic fingers into. Mage Hand gave him a far finer sense of touch than his own fingers, but even with that, he couldn’t find so much as a scratch on the box, let alone a hidden keyhole.
+
+With idea number one out, Vin decided to at least try casting his own Magic Lock spell on the box, but of course, that didn’t do anything. His method of locking and unlocking stuff involved tying two tiny pieces of reality to one another, binding a door shut or keeping a lid in place. Seeing as the box didn’t seem to have any spatial magic cast upon it, Magic Lock didn’t do anything.
+
+He did manage to confirm one thing at the very least, with the help of Tremorsight. The reason why the box didn’t feel like an artifact was because it wasn’t an artifact. The interior of the box was covered in five dense walls of runes, lining all four sides and the top. The fact that the box was a runic object rather than an artifact meant that theoretically it should run out of mana sooner or later and open up on its own, but there was no telling how long that would take. A runic object’s ability to hold mana was dependent on the material it was crafted from and the skill of the engraver. And seeing as the interior was utterly packed with runes, Vin had a feeling whoever had created this had been skilled indeed.
+
+Tremorsight also showed him what was physically contained within the box, which made Vin all the more excited to try and get inside.
+
+A perfectly round sphere the size of a balled-up fist, sitting atop a metal stand. He had a few theories as to what the sphere could be, but he wouldn’t know for sure until he got the box open.
+
+With his original magic having proven ineffective, Vin got to work on his first idea for a new spell. If the box couldn’t be broken into with brute force without triggering the magical failsafe, then the only solution was to gently break into it from the bottom, without damaging any of the runes. And when it came to gently breaking through metal, one idea came to mind almost immediately.
+
+Rust.
+
+As a former vagabond who spent plenty of time outside in the harsh elements back on Earth, Vin was more than familiar with the dangers of rust. Equipment and tools critical for survival could fall apart or become weakened by rust if they weren’t cared for properly, and he was hoping he might be able to borrow that same phenomenon in order to ease his way into the metal box. Of course, there were a few issues with this plan.
+
+Vin was about as far from a metal expert as one got, but he knew that rust only affected certain metals and not others. His hope was that, seeing as the box had been originally indoors, whoever had designed the runic object hadn’t thought that rust would be an issue and had used a rust-capable metal in its creation. He had no way of knowing whether or not his plan would work before he tried it, so he shrugged and got to work.
+
+While he didn’t have anything like metal-magic available to him, Vin had all the elements he needed in order to create his intended spell. Spell Weaver confirmed that Create Water and Create Air were the perfect building blocks for what he was trying to do, and he got to work picking out the bits and pieces he wanted from each runic formation.
+
+Despite the fact that he wasn’t trying anything too complicated, Vin’s recent runic backlash-caused-cave-in that had buried him under half a ton of earth was still fresh in his mind, and he decided to take things a bit more carefully than he normally would. The fact that he’d already used up his divine boon for the day certainly didn’t hurt his decision, and thus he took his time, not putting the last pieces of his spell together until the next morning.
+
+New spell learned! Tier-2 Air Spell (Rust Touch). 10,000 exp gained.
+
+“Alright, I think we’re in business,” Vin said, looking around. He blinked as he realized how long he’d been within Introspection for, and at the fact that his friends had set up camp around him while he worked. Scule and Reginald had come back and were grilling some sort of lizard over a campfire for breakfast, while Lumel was busy within her own Introspection. “Is Alka still out?”
+
+“Yeah, not like she needs to eat or sleep,” Scule shrugged. “You got a way into the box?”
+
+“I think so,” he said, yawning as he got up and stretched. “Though whether or not it will actually work remains to be seen.” While his high endurance made skipping a night of sleep or two quite doable, he knew it wasn’t the best thing for his own health in the long run.
+
+After joining Scule for an interesting breakfast, Vin got to work. He was fairly certain that touching the runes within the box was a bad idea, so he used Stone Wall to create something of a rack for the box to sit on while allowing himself to get underneath. He didn’t want to risk trying to tip the box over and have the sphere within roll out of its stand and onto the runes, as doing so might very well trigger the theoretical destructive failsafe.
+
+Scooting under the heavy box, Vin laid a hand against the bottom of it, taking a deep breath as he cast Rust Touch for the first time. His hand glowed a faint brown and his palm tingled, and he sat there, keeping his mana flooding through his hand as he waited.
+
+But as one minute passed after another and the box didn’t change in the slightest, he sighed, realizing the solution wasn’t going to be quite so simple.
+
+“Hey, Scule,” he called, scooting back out from under the box. “Do you have any old weapons you don’t mind losing?”
+
+“Go nuts,” Scule said, pulling a simple dagger out of his cape and tossing it to the ground. Nodding his thanks, Vin snatched it up with Mage Hand and brought it to his actual hand. Another quick cast of Rust Touch was all it took to confirm the spell worked as he’d hoped, as the metal of the dagger quickly began rusting over.
+
+“Huh… that’s a neat one,” Scule admitted, tearing another small bite out of his lizard. “Though even if that worked on the box, it would take ages for you to get inside.”
+
+“I was hoping I could use Runic Recalibration to empower the spell and make it more powerful, but yeah, if it doesn’t work in the first place, that’s obviously not going to happen,” Vin said, tossing the rusted dagger to the ground and watching as the damaged blade snapped off.
+
+“So what’s plan B?”
+
+“Plan B starts with me asking how you feel about being here for a couple of days,” Vin admitted, grinning sheepishly at the Rogue. “I have a follow-up idea, but it’s going to require me to make a new tier-3 spell. That will probably take me anywhere from a few days to a week.”
+
+“I’ll probably take another day or two to finish scouring this town for goodies and then head back to Terra for a bit then. And I’m planning on visiting my family before long,” Scule admitted. “Do you even have that kind of time? I thought the whole point of our current expedition was for you to finish filling out the third ring on your map.”
+
+“That’s still more than a month out. I think this is worth the detour,” Vin admitted, staring at the perfectly sealed box. “Part of the runes prevent me from sensing the magic of the object inside, but I’d bet my own arm it’s a powerful artifact. I don’t know why else they’d go to such lengths to keep it protected.”
+
+“Which arm? Just for curiosity sake,” Scule grinned.
+
+With that, Vin got back to work. If Rust Touch wasn’t capable of getting him through the metal…
+
+He’d need to add a little bit of a kick to the spell to push things along.
+
+Once he had Spell Weaver’s blessing that his newest idea was sound, Vin threw himself back into Introspection and began tirelessly trying to combine Rust Touch with one of his other tier-2 spells.
+
+Decay was the perfect spell to draw on in this instance. Death magic was exactly what he needed when it came to destroying something, and he had a good feeling about where his latest project was heading. Of course, he’d never tried his hand at creating a tier-3 spell that involved death magic of all things, and Vin decided to take things even more cautiously than he had been for the last spell. A runic backlash focused around death mana wouldn’t end well for him or anyone around him, so he wasn’t taking any chances.
+
+Vin explained his current plan to Lumel a few hours later when they both happened to leave Introspection at the same time, and she agreed that taking it slow was probably for the best. Wanting to keep his mind sharp, Vin didn’t skip any more nights of sleep either. Instead, he relied on Dream Walk, allowing his body to rest while still continuing to work on the new spell even as he slept. It took him a full five days from start to finish, and two runic backlashes of note that would have caused his flesh to rot and fall off if not for his divine boon, but he managed to do what he’d set out to.
+
+New spell learned! Tier-3 Death Spell (Deconstructive Touch). 15,000 exp gained.
+
+“I got it!” Vin called out, wiping the sweat from his brow as he received the notification he’d been working for over the better part of the last week. “Man, that was a tricky one. I didn’t think that combination would be such a pain to try and work out.”
+
+“Come on, I’m dying to see what’s in the box after all that work!” Lumel admitted, standing up and stretching as she put her own work on pause. Any time Vin cursed the amount of time and effort he was putting into his own magic, all he had to do was glance over at Lumel and take one look at the tier-5 spell she was working on within her core for him to decide that maybe he didn’t have it nearly as bad as he thought.
+
+Just as excited as she was, Vin slid back under the box, laying his hand against the bottom as he prepared himself. “Deconstructive Touch!”
+
+Unlike the pale brown from Rust Touch, his new spell was a dark, eerie black that radiated from his palm and seeped into the metal. Ever so slowly, the metal began to darken and flake away as his damaging mana slipped into it, and Vin grinned at the confirmation his plan was working. While his spell slowly and carefully ate away at the bottom of the box, he reached out with his magic sense, confirming that his gradual deconstruction of the box wasn’t triggering the runes that would enact the failsafe. It seemed stripping the box one millimeter of metal at a time wasn’t nearly the same as trying to blast or crack it open in one fell swoop.
+
+Whatever the metal was, it was certainly built to last. Even with Runic Recalibration working to empower his spell, Vin was forced to borrow from the mana around him as he spent over an hour gradually breaking into the mysterious box. Yet regardless of how long it took, eventually, he was proven victorious. The hole reached all the way to the interior, and once it was large enough, the sphere and stand it was on simply fell out into his waiting hands.
+
+New grand artifact discovered!
+
+“Is that what I think it is?” Lumel asked, her eyes wide as she took in the glowing sphere in his hands. Now that it was out of the box, the mana radiating from the orb was clear as day to both of their magic senses.
+
+“I certainly think so,” Vin said, laughing as he scrambled out from underneath the box with his prize in hand. “Though I’ll admit, this comes as a surprise. I could tell it was a crystal ball, there was no doubt about that. But I hadn’t been expecting it to be radiating spatial magic of all things.”
