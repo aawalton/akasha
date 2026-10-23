@@ -1,0 +1,79 @@
+0015 Celestimed, Part 2
+
+Ethan let out a shaky breath, barely holding back a scream as the materials dropped unceremoniously into his lap. His eyes went wide. Jesus, they were like live grenades. For half a second, he pictured the bulbs splitting open and belching out fire, which inevitably would end in his death, or at the very least, excruciating pain. However, the heartfruit bulbs landed with a soft, almost innocent thud, as if they were mocking him.
+
+The crystalseed fungus fell like a drifting feather, while the silicate sand cascaded into a loose but giant pile. He idly wondered how CelestOS managed to fit so much inside itself. Everything hit his legs; a sharp crack sent a jab of pain radiating up his body. Then, it lobbed the extra chunks of fuel he had gathered from the trees, one after the other, onto his sore and broken arm, which finally caused him to let out a scream.
+
+CelestOS: Material delivery complete! Thank you for choosing Celestitech for your storage and delivery needs.
+
+But he didn’t waste a second. He scrambled to his feet and clicked the button on the HUD to enable the schematic. He put as many scoops of the silicate sand as he could manage into the forge, then used the schematic to select the R-glass sheets that had been requested.
+
+[Skill:Crafting 2→3]
+
+Ethan pressed the button on the forge with a trembling hand.
+
+CelestOS chirped, unhelpfully bright and obvious.
+
+CelestOS: Warning: Celestiforge temperatures exceed safe thresholds for organic tissue. Please avoid unnecessary incineration.
+
+Ethan glared at the floating pile of junk. “Oh yeah, sure, thanks. You’ve saved me from sticking my head inside like I had planned.”
+
+CelestOS: Suicide is not a joking matter. Do you need to speak to a therapist? Celestitech will happily provide a therapist for you at our earliest convenience.
+
+Ethan shook his head at its antics. Their earliest convenience likely meant after the unfortunate soul was already dead. He shook his head in disgust; he desperately needed sleep, or he was just going to get more and more deranged.
+
+The Celestiforge ignited, a crackling arc of vibrant blue light spinning between its grate and the door he had just closed. A low hum joined the crackle, building in intensity. The superheated furnace looked more akin to lightning than actual fire, but it reached the required temperature all the same. Ethan flinched back reflexively, dark thoughts forgotten. The heat hit like a physical blow, even through the rendered-useless heat absorption of the suit.
+
+This is insane, Ethan thought. What am I even doing here? Creating some alien-based lightning-tech to save a man’s life? What the hell am I doing? I’m a computer tech, not a miracle worker.
+
+He flicked his gaze between the forge’s monitor, a progress bar that crept sluggishly upwards, and the red flashing emergency lights on Reyes’s vitals. The sound from his suit was worse: an erratic, almost desperate beeping that drilled into Ethan’s skull like a headache even medicine couldn’t fix.
+
+[R-Glass production [■ ■ ■ ■ ■ □ □ □ □ □] 58% ]
+
+The ores, which he also needed, had finished processing. So, while the R-glass was being made, he pulled out the pristine ingots and got to work placing them into the schematics. That finished, he walked back to the Celestiforge, just in time for the R-Glass to complete. It screamed – a high-pitched, grinding whine like a turbine tearing itself apart – as it finished. The machine hissed, spat, and finally, with a dull clang, the vitrified R-Glass took shape. An oblong, gleaming glass brick, light blue and transparent, still radiated waves of blistering heat but was quickly solidifying into the needed shape.
+
+[Crafting: 3→4]
+
+Ethan exhaled, the tension bleeding out of his shoulders. He reached out, but before his fingers closed on the glass, CelestOS chimed in again.
+
+CelestOS: Celestitech would like to remind even expendable employees that R-Glass temperatures may cause catastrophic burns. Please use caution when handling.
+
+Ethan yanked his hand back with a curse, shaking the pins and needles of fear away. He didn't have time for this. He grabbed a piece of discarded scrap from his earlier salvaging and made a makeshift boat to carry the glass, although the glow was already fading and the surface was starting to turn a sterile, icy blue.
+
+He didn’t have time to celebrate the small victory. The emergency alert on Reyes’s suit was a constant companion, beating out an erratic, terrifying heartbeat that Ethan wished he could shut down. Ethan placed all the materials arranged the way the schematic told him: the vitrified R-glass, the heartfruit bulbs, crystalseed fungus, and then the ores, binding materials, and wires needed for the medical casing and syringe itself. He spun back toward the Celesticraft and, yet again, awkwardly hefted it into the air to face down against the mortal enemy called time. Hang in there, Reyes, just a little more.
+
+The green glow was brighter this time, as the power consumption was surely going to be immense. The green schematic bloomed across his HUD, the lines and shapes tracing a lattice of the items needed. Ethan followed it as best he could, hands trembling as he shifted the materials into alignment. When he was done, he lifted the Celesticraft off the ground. It hummed to life, its lights pulsing in time with CelestOS’s own. He pressed the button and waited. For whatever reason, nothing was coming out.
+
+He was just about to check if something was wrong when it happened. Lines of brilliant green light lanced from the Celesticraft, connecting the materials in midair with sharp zaps. A cascade of pulses, sharp and rhythmic, flashed in sequence, each one a spark of fusion accompanied by a soft thrum. The R-glass warped and shaped, reforming into a more solid cylinder. The heartfruit bulbs twisted in a spiral of light, flattening and mixing into a liquid inside the cylinder, which then fused with the crystalseed fungus as it too liquefied down into a purplish liquid, a faint sizzling sound accompanying the transformation.
+
+Ethan watched with rapt attention, breath caught in his throat, as the Celestimed formed. He was awed at the miracle of science occurring in front of him. In that same singsong, smug voice the AI had when it got its way, it said:
+
+CelestOS: Final assembly of Celestimed in progress. Please stand clear of moving parts, or worse, the radiating energy field. Celestitech is not responsible for ruined extremities or unexpected mutations.
+
+The Celesticraft thrummed louder, a deeper, more resonant hum now, the green lines knitting faster and faster. Then, all the materials disappeared in a sudden whoosh and a burst of smoke.
+
+[Crafting: 4→5]
+
+“What? No. No, no, what happened?” But CelestOS ignored him. Instead, the smoke cleared like a magician’s final act, and in its place, just above the ground, hovering in the air, were two of the same object. The Celestimed. Two sleek, polished chrome cylinders, each stamped with the Celestitech logo across the side in obnoxiously bright green ink, as if it were just another medicine ready to be plucked off a store shelf.
+
+But it wasn’t just the metal and the bizarre corporate branding that caught his eye; it was the fluid inside. It was unlike any medicine he had ever seen. A rich, unnatural purple, the color of his own bruises – almost like alien blood – swirled gently within the vial, as if it were alive.
+
+CelestOS: Fabrication complete. Side effects may include seizures, hallucinations, heart attacks, or even spontaneous combustion. Per Celestitech policy subsection 1.4, Celestimed is not a substitute for proper medical care or life insurance. Thank you for choosing Celestitech.
+
+Ethan could only stare, chest heaving, his pulse a rapid beat in his ears. There they were.
+
+The Celestimeds fell to the ground with a soft thud. They were heavier than he expected. Sleek metallic promises of hope that seemed like they wouldn’t weigh much, but reality was often different from expectations.
+
+His hand trembled as he grabbed for the first one. His HUD flashed warnings in the corner of his vision, but he ignored them for now. The only thing that mattered was Reyes.
+
+Ethan stumbled back to where the man lay crumpled, half-buried in dirt and debris, the ground around him scorched black and littered with splintered metal, all covered in a layer of Red dust.
+
+Reyes wasn’t moving. His breaths were shallow, too shallow, like broken machinery on its last legs. His skin had turned a pallid grey now beneath the blood and grime. The sick twist in Ethan’s gut tightened so much he thought he would explode from the pressure. From the look of things, Reyes wasn’t much better off. Despite being hooked up to the oxygen, his lips were tinged a sickly blue.
+
+Jesus, Reyes, hold on man, please… hold on.
+
+The leg – oh Jesus, the leg – was a mangled, unsalvageable ruin, barely more than shredded meat, barely kept in check. The tourniquet, cinched tight but stained a deep red, was the only reason he wasn’t already a corpse.
+
+“C’mon, man. Stay with me,” Ethan rasped, voice hoarse, barely above a whisper.
+
+He didn’t give himself time to think. If he wasted any more time, Reyes was going to die. Ethan jammed the medicine into the injector port and slammed the plunger home.

@@ -1,0 +1,101 @@
+0018 Alone, Part 2
+
+Ethan backed up a few paces, took several deep breaths, and tried to psych himself up for it. The wind off the water stung his skin – this was no freshwater river – and the roar of the torrent filled his ears. He locked his gaze on the first glowing marker and sprinted forward.
+
+The first jump was a blur, his grav-boots slamming onto the wet stone, his arms pinwheeling for balance. The boots shifted again underfoot, a heart-stopping skid, before the grav locked in, and he was steady.
+
+Despite its distance, CelestOS kept up a running commentary.
+
+CelestOS: One down, six to go, expendable acting captain!
+
+Ethan pushed off, the spray from the river cold against his suit, trying to keep himself steady. The second rock was narrower, jagged at the edges – the tallest of the river’s cracked teeth. His right boot hit just off-center, tipping him sideways. His ankle twisted, sending a shock of pain up his leg, but he caught himself mid-fall, arms flailing to hold on, body tilting dangerously close to the churning water.
+
+The third jump was even farther. He had almost no room to gather a running boost, and he didn't trust the shallow water covering the edge of the larger rock body to the side of his perch. He leapt, arms flapping uselessly through the air, a silent prayer on his lips, barely making it with the edge of his left foot as his grav-boot locked in place to the rock. He slammed forward onto his knees. The boot unlocked, sending him rolling across the slick surface, momentum threatening to pitch him straight into the water. But his boots caught again, and he let out the breath he'd been holding.
+
+[Skill: Athletics 8→9]
+
+CelestOS: Caution: Heart rate at 162 bpm. Please consult a physician if you experience chest pain, dizziness, or existential dread.
+
+His heart felt ready to explode, so he took a moment to breathe, to calm it a little. He didn't have the will or energy to respond, so he just panted, letting his vision settle, the roar of the river a constant thunder. The fourth rock loomed ahead; his body ached, his breathing still fast and labored. How had he gotten himself into this situation?
+
+If he could make it to the fourth rock, he could truly rest; it was a wide, flat slab, half-submerged but in a calmer part of the river. He readied himself and lunged.
+
+His boots splashed down hard as water surged around his ankles. The current pulled at him harder than he thought it would, and for a split second, he thought the river had him. But he moved backwards into a crouch and then laid down, his full body too much for the river to push aside.
+
+CelestOS: Warning, approaching final power threshold. Initializing low power mode. Grav-boots will be shut down to prioritize essential systems.
+
+“Are you fucking kidding me? What part of this isn't essential?”
+
+But it was CelestOS’s turn to ignore him.
+
+“Hello? I need the grav-boots! What do you mean they aren’t essential?”
+
+Ethan waited for CelestOS to respond but kept an eye on his HUD. Low power mode hadn’t activated yet, so maybe he could risk trying to jump to the other side. There were only three more rocks. He got up and used the large space of the center rock to get a running start.
+
+It was a small one, barely a foothold compared to the rest, but as he landed, it happened. He heard the tell-tale click as the grav-boots powered down. The rock shifted under his weight, slick with moss, and Ethan slipped face-first into the water.
+
+The river swallowed Ethan whole. Cold water slammed into him from all sides, twisting him like a ragdoll caught in a tornado. The back of his helmet clattered against something solid, sending a new jolt of pain through his system.
+
+He reflexively covered his helmet with his arms. He couldn’t let it crack again, or he was fucked. He kicked his legs hard, trying to fight against the current, but he was adrift in the freezing water.[Skill Unlocked: Swimming 0→1]
+
+“Shit!” he gasped, still trying to stabilize in the ever-drifting current. Despite the suit, he could feel the icy cold of the water seeping in from all sides through the little nicks and tears he'd accumulated over the day. The pressure increased as he sank further into the depths. It was a crushing, invisible hand trying to squeeze the life out of him. His heartbeat pounded in his ears, thudding like a drum, drowning out the muffled roar of the river constantly assailing the suit.
+
+The current swept him away from his makeshift bridge and yanked him down, down, down into a swirling world of dark, turbulent water. His limbs flailed, boots kicking uselessly. He twisted this way and that, arms reaching out, trying to find purchase on anything.
+
+And then, it happened. Already weakened from earlier that day, the repaired crack resurfaced. Ethan’s breath hitched, fogging the inside of the helmet. He stared at the fracture, a silver line blooming wider and wider.
+
+Don't break, don't break.
+
+CelestOS crackled in his ear, calm and sales-pitchy.
+
+CelestOS: Warning: catastrophic breach probable. For a limited time, Celestitech is offering a 15% discount on emergency sealant packages. Please confirm to add to cart.
+
+Before he could even respond, the fracture spidered further. An ominous hiss of escaping pressure sounded in his ears, and water started trickling in, tiny drop by tiny drop. Ethan squeezed his eyes shut, willing the suit to hold, willing the damn river to just let him go… His body lurched, thumping hard against something solid. Pain wracked his spine as his body went taut. The current slowed, and the pressure inundating him on all sides stopped. For a moment, all he could do was lie there, panting in the suit as water crept higher inside the helmet, drop by steady drop.
+
+He blinked and tried to orient himself, but the world was a murky, red, watery blur. His vision swam in the red-tinged water – dirty and clouded – filling the suit like liquid sand. The fracture glinted under the shifting light of the water as it spiderwebbed across his field of view like a countdown.
+
+He twisted frantically, arms almost useless against the pull of the water, trying to find an upwards direction as liquid crept higher, cresting now against his chin. His breath came in ragged, foggy bursts, each shorter than the last, as the suit tried to provide oxygen against the inflow of water.
+
+Hold just a little longer. Don't break, don't break, don't break. The fracture creaked ominously; a new droplet streaked across the inside of the visor, joining the others in a slow, relentless crawl.
+
+CelestOS: Reminder: Celestitech does not recommend panic in high-stress situations. Please remain calm and consider our limited-time offer: 30% off two emergency sealant packages.
+
+“Shut up, just shut up! Can’t you see I can't fucking afford those things! Why can’t you be useful for once and make a beacon to the surface or something?”
+
+There was a beat of silence, and then it said:
+
+CelestOS: Beacon generation enabled. Broadcasting signal to the nearest navigable surface. Please follow the blue light to avoid drowning. Thank you for choosing Celestitech.
+
+The ping appeared on his minimap as well as in his vision: a tiny, pulsing blue light against a backdrop of muddy water.
+
+Ethan let out a gasping, ragged laugh that almost cost him his last breath.
+
+He twisted, orienting himself toward the beacon, his boots finding purchase against the rough ground. His body drifted sideways, tugged by the current despite his momentum, but a dark shape loomed above: the cliff face. He could feel the relief in his bones as he moved towards the wall.
+
+It was jagged and rough, the surface pockmarked and worn away by time. A gnarled tree root, covered in the same red pulpy material, jutted out like a skeletal hand, half-submerged in the water.
+
+Ethan lunged for it. His fingers brushed against the wood, slipping, and then caught on the only part of the root not covered in red. The current of the water yanked at him, but he only had eyes for the blue beacon just a few meters away. He reached out with his other arm, aiming for the wall, hoping to find a handhold.
+
+His gloves scraped along the cliff face, finally catching on a narrow crack, however, the fractured glass of his helmet banged loudly against a particularly sharp, rocky part of the wall and shattered.
+
+CelestiCraft™ Fabrication Suite -- Europedia. The European Encyclopedia!
+
+The CelestiCraft™ Fabrication Suite was first introduced by Celestitech Industries in 2058, following a decade of accelerated research in portable nanofabrication and adaptive survival engineering after the Extraterrestrial Incident of 2039. Initially classified under the AAS Strategic Development Initiative, the device emerged from a covert program known internally as Project Thorne. Designed to give lone operatives and colonial teams access to military-grade tools and infrastructure with minimal logistics, CelestiCraft™ represented a radical departure from traditional field support, replacing static supply chains with real-time, on-demand construction.¹
+
+The first prototypes were built around modular conversion lattices and plasma-shaping fields, using raw materials, such as metal ores, wood, and bio-organics, as inputs. Early field trials on Europa-3 and Vesta Outpost demonstrated that operatives could survive for weeks with nothing but a CelestiCraft™ unit, a mineral scanner, and enough battery to fabricate shelter, weapons, or even medical injectors.² Public versions of the device were heavily sanitized for "safety", but military models were [REDACTED] leading some critics to describe it as "the swiss-army knife of war crimes."³
+
+Despite internal controversy and external scrutiny, which led to the departure of Dr. John Robinson in 2045, the device became a cornerstone of AAS colonization efforts. Its success during the Second Resettling War (2061–2062), where Celesticraft-enabled units outbuilt and outlasted enemy factions on multiple fronts, solidified its reputation as a “force multiplier” in both combat and civilian operations.⁴ By the mid-2060s, over 82% of AAS deep-space deployments included at least one CelestiCraft™ suite per five personnel, and the unit was declared “essential field hardware” under Directive 2.43 of the Interplanetary Logistics Codex.⁵
+
+Today, CelestiCraft™ is available in a variety of commercial, civilian, and paramilitary models, though all retain the signature interface: a palm-sized input cradle, schematic HUD, and dynamic fabrication port. Attempts to reverse-engineer the technology by rival firms have been unsuccessful, in part due to the proprietary CelestOS crafting protocols that remain hard-coded into the firmware. Celestitech continues to deny allegations that the device occasionally violates conservation of energy laws, stating in promotional material: “With CelestiCraft™, it’s not just survival—it’s science.⁶
+
+Ames, R. (2059). Thorne Protocols and the Future of Fabrication Warfare. AAS Defense Research Bulletin.
+
+Valencia, D. (2060). From Ore to Outpost: Survival Field Notes from Vesta. Martian Colonial Journal.
+
+Graves, T. (2061). Tool or Torture? A Legal Review of CelestiCraft's Combat Applications. Free Europa Law Quarterly.
+
+Halvorsen, I. (2063). The Second Resettling War: A Conflict of Logistics. Interplanetary Military Studies Journal.
+
+Liu, C., & Morano, J. (2065). Directive 2.43 and the Future of AAS Field Kits. Allied Logistics Command [Internal memo]. Leaked via The Directive 2.43 Files, Dataspire Archive.
+
+Celestitech Marketing Division. (2064). CelestiCraft™ Sales Guide: Civilian & Commercial Series Q4. Celestitech Internal Communications [Confidential document]. Leaked via The Directive 2.43 Files, Dataspire Archive.

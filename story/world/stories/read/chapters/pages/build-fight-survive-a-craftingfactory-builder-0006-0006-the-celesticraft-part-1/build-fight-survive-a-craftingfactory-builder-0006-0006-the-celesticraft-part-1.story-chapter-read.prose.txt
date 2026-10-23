@@ -1,0 +1,155 @@
+0006 The CelestiCraft, Part 1
+
+The compartment was empty. It wasn’t just missing the Celestimed. Whoever or whatever had come through and stolen the medicine had also taken the shock-absorbent gel-foam. Ethan stared, his mind refusing to process the visual input. He searched the pod frantically, wondering if it had somehow fallen out in the crash. But it was gone.
+
+"No," he whispered, the sound so faint it barely reached his own ears. "No, no, no... fuck, no." He slammed his good fist against the compartment side, knocking the panel loose. It clattered to the floor. Pain flared, sharp and bright, as he curled his hand, regret and realization crashing down on him. Reyes. He was going to die. They were both going to die if he didn't find medicine. Fuck. Fuck, fuck it all. Why was this happening? How had everything gone so wrong, so fast?
+
+"CelestOS!" he roared, spinning around to face the hovering monitor. “Where is it? Where's the fucking Medkit?”
+
+CelestOS: Pod NCC1701CAI internal sensors detected no unauthorized access prior to your own. Inventory discrepancy logged. Celestitech regrets any inconvenience this may cause to your survival.
+
+[HP: [■ ■ ■ □ □ □ □ □ □ □] 38%][O2: [■ □ □ □ □ □ □ □ □ □] 18%][PWR: [■ ■ ■ ■ ■ ■ ■ ■ ■ □] 85%][STATUS: Injured (Left Arm - fracture, Ribs - Fracture R9/10), Hypoxia (Mild)][SYSTEM]: Inventory Discrepancy Logged — Pod NCC1701CAI
+
+[SYSTEM]: Emergency Fabrication Protocols Available via [Celesticraft]
+
+→ Awaiting User Confirmation...
+
+“Inconvenience?" Ethan half laughed, half sobbed. “He’s dying! Reyes is dying! And I’m next! What's the point of a super AI companion if you can't even keep us alive?"
+
+CelestOS: Calm yourself, Acting Captain Ethan Cross. Elevated stress levels negatively impact cognitive function and oxygen consumption. While standard Celestimed units are unavailable, Celestitech Emergency Fabrication protocols allow for the potential construction of rudimentary survival equipment using localized resources.
+
+Ethan froze, his heart pounding against his fractured ribs. "Fabrication? You mean like building something with a Celesticraft?"
+
+The word itself anchored him. The panic didn’t vanish, but it backed off, shunted aside by ingrained habit and instinct. Systems thinking took over like muscle memory as chaos resolved into components and stress simplified into sequence. He could feel the old framework assembling itself in his head with its columns, inputs, contingencies, and branches. Panic was merely noise, while logistics was peace.
+
+CelestOS: Precisely. Each Celestitech Escape pod is stocked with a Tier 1 Celesticraft so that Assets can rebuild or repair their s—
+
+Ethan’s brow twitched. “Yeah. I know what it is.”
+
+CelestOS didn’t stop: “The Celesticraft facilitates adaptive survival engineering through schematic transformation using suit power and—”
+
+“I said I know.” He waved his hand sharply, cutting the AI off as if he were swatting at a fly. “We trained with the damn things on Mars. Week four of Basic. I built a de-icer out of half a rail, a lighter, and a lunch tray because Commander Yates locked us out during a dust freeze.”
+
+There was a pause. The screen dimmed slightly.
+
+A schematic flashed onto Ethan’s tool HUD. It looked complicated, more complicated than the schematics he used in basic. There were lots of jagged lines representing various materials, and a recipe list populated with multiple items and multiple steps.
+
+[MISSION]: Desperate Measures
+
+[SCHEMATIC COMPLEXITY]: High — Sequential Fabrication & Diverse Materials Required
+
+[CURRENT OBJECTIVE]: Step 1/3 — Basic Tool Fabrication
+
+[QUEUED OBJECTIVES]:
+
+→ Step 2/3 — Fabricate Class D Oxygen Rebreather
+
+→ Step 3/3 — Fabricate Celestimed x 3
+
+CelestOS: In order to complete this mission, the following recipes are needed:
+
+The list populated once again on his hud with only the most expensive item missing.
+
+[T1 Basic tools 15 CC- affordable][T1 Ore detector! 20 CC- affordable][T1 Oxygen Rebreather 25 CC- unaffordable][T1 Celestiforge model a3 45 CC- unaffordable][T1 Celestimed 55 CC- unaffordable]
+
+CelestOS: As basic tools are essential for the first mission, would you like to purchase the schematic now? Or invest in the ore detector and enjoy the rich, full experience of asphyxiation?
+
+“Is that even a choice? Buy the tools.”
+
+A chrome-blue window flared across Ethan’s HUD, opening with the polish and soulless charm of a corporate onboarding ad.
+
+[Celestitech Checkout Portal – Purchase Confirmation]
+
+You are about to spend 15 CelestiCredits™ on: Tier 1 – Basic Tools
+
+Beneath the schematic, helpful suggestions unfurled like a marketing ambush.
+
+Customers also purchased: – T1 Ore Detector – 20 CC – Emergency Morale Patch – 3 CC – Deluxe Tier Tool Grip Enhancement Pack – 6 CC
+
+Ethan rolled his eyes. “Customers also purchased?”
+
+CelestOS: Additional purchases are available for Premium Users. Would you like to upgrade?
+
+He ignored her and selected the Confirm button like he was trying to burn a hole through it.
+
+CelestOS: Thank you for your purchase! CelestiCredits successfully debited.
+
+[Basic Tools -Tier 1 Recipe]:
+
+Salvageable Metal Scrap ×4
+
+Dense Mineral Chunk ×2
+
+Binding Agent ×2
+
+“How long is all this going to take? How do I even get a Celesticraft?" Ethan demanded, his voice tight, anger barely hiding the rising panic.
+
+CelestOS: Calculating… Estimated construction time… Factoring in user physical and mental limitations and probable resource scarcity: 105 to 275 minutes.
+
+"Fuck it," he muttered, staring at the hovering AI monitor. "CelestOS, start the mission. Protocol. Whatever. Tell me what I need and where to go."
+
+CelestOS: Acknowledged. Initiating Mission Parameters: Desperate Measures. Step 1: Basic Tool Fabrication. Required Materials: 4x Salvageable Metal Scraps, 2x Dense Mineral Chunks, 2x Binding Agent. Displaying optimal collection route on HUD.
+
+A series of glowing markers appeared on the map overlay on his HUD. Each one highlighting bits of debris, scraps, or rocks scattered around the wrecks. It didn't look like he had to go far, but with his injuries, it was going to be dicey. No matter what he did, he was burning time. His oxygen ticked down.
+
+[O2: [■ ■ □ □ □ □ □ □ □ □] 15%]
+
+CelestOS: Reminder, time is of the essence. Probability of Reyes surviving until Celestimed Deployment: 32%. Probability of permanent limb loss assuming survival: 82%. Please note that these calculations do not account for further hostile encounters or environmental degradation. Would you like to begin?
+
+Thirty-two percent chance. Less than half. And Reyes would still likely end up crippled. He was probably cursing the fact that Ethan had come back for him instead of a scientist like Patel. Ethan had no idea what he was doing. And now his own oxygen was critical. Could he even last 5 minutes, let alone a full hour? Working his ass off with a shattered arm and possible internal bleeding? What else could go wrong?
+
+"Yes," Ethan gritted out. "But where do I get the Celesticraft?"
+
+He stumbled back towards the other pod, red dust swirling around his boots as he did his best not to trip or waste oxygen with unnecessary movements. He pushed through the heat baking his broken arm through the holes in his suit. Thank god the helmet was compartmentalized, or he’d have died already. Reyes hadn’t moved. He was paler, almost white as a ghost, if that was even possible. His breathing was terrifyingly shallow, but it was there. He’d passed out; a small mercy, if there were any to be had.
+
+Ethan walked past the injured man and into the damaged pod. Debris from the wreck was everywhere, but he followed the trail of blood inside.
+
+CelestOS: There is a secret compartment beneath where Lieutenant Reyes’s seat used to be. The Celesticraft should be there.
+
+He scrambled over the wreckage towards the indicated spot, found the compartment, and retrieved the tool.
+
+It was an intricately designed black fabrication pistol, with three claw-like prongs around a glowing blue core of light. This device could transmogrify items of certain complexities and turn them into items of similar quality, as long as someone had the recipe. Basically, this sleek device would allow him to take raw supplies and fabricate items from scratch. It was almost magical. Of all the tools to come out of the 2050s tech boom, this was Ethan’s favorite.
+
+He holstered the Celesticraft to his belt and walked back outside into the oppressive wind.
+
+"Okay, okay, Reyes... hang on."
+
+He lurched toward the first marker – the same pile he had pulled his makeshift weapon from earlier. The marked item was a surprisingly small piece of destroyed hull, black and charred but so sturdy he struggled to pry it loose with his good hand. It wouldn't budge. He needed leverage. He tried kicking it, but the impact just sent a sharp pain shooting up his leg.
+
+"Goddammit— no." He wasn't going to die like this. He wasn't going to let this shitty ending be it. He scanned the ground, desperately trying to find something he could use. And then he spotted the abandoned weapon. The charred chunk of hull sat half-buried in the dust, scorched black and fused with grit. Ethan knelt awkwardly, his bad arm hanging useless and hot at his side, and tried to wedge his good hand underneath the plating. It didn’t budge. The metal bit into his glove, unmoving, solid as stone.
+
+He repositioned and tried again, this time bracing his boot against a jagged edge and pulling with a grunt. Still nothing. Pain flared in his ribs, a sharp reminder that every breath was on borrowed time.
+
+He froze for a moment, panting. Not too hard. Not too deep. The air was thin, and each gasp tasted like heat and copper. His visor pulsed a warning.
+
+[O2: [■ ■ □ □ □ □ □ □ □ □] 15%]
+
+The numbers pressed against his lungs like weights.
+
+Ethan closed his eyes.
+
+You’re not dying here. Not like this. Not clawing at scraps while Reyes bleeds out and the world watches.
+
+Fear clawed at the edges of his chest, but he bit down on it. Hard. There was no room for panic. Panic was a luxury. Right now, all that mattered was saving Reyes.
+
+His eyes snapped open.
+
+He scanned the ground. There—half-buried beneath a warped strut lay the makeshift spear he’d scavenged earlier. He limped over, grabbed it by the shaft, and staggered back toward the hull plate.
+
+He jammed the jagged end beneath the metal and stepped up onto it, pressing his weight down with his boot. The scrap groaned but stayed firm. He gritted his teeth and bore down harder, leaning in, every muscle in his good arm screaming. With a final shriek of grinding metal, the chunk tore free, clattering into the dust like a severed limb.
+
+Ethan stumbled back and dropped to one knee, clutching the prize against his chest. One piece down.
+
+He didn’t smile. There wasn’t time.
+
+He turned and started back toward Reyes, dragging the metal behind him through the red dirt.
+
+One piece down. He carried it back and laid it carefully against the pod near Reyes's prone form, then took off after the next marker. His legs ached, and his gait was more of an awkward stagger than a run. Thankfully, the next few items were easier to acquire – loose pieces of metal, chunks of dense rocks broken off larger formations. He picked one item up, then the next, his breath catching in his throat with the effort.
+
+[O2: [■ □ □ □ □ □ □ □ □ □] 13%]
+
+CelestOS: Resource efficiency suboptimal. Celestitech recommends using T2 Celestitech harvesting tools or higher for improved yield. Available for purchase now!
+
+Ethan ignored the AI, hoarding his precious breath. He hauled the materials back to the relative shelter of Reyes's pod. He rested for a second against the hull, trying hard not to pant or otherwise waste resources. He laid the components out on the ground, generating small clouds of dust with each placement, careful to follow the glowing schematic in his HUD with precision.
+
+First, the pickaxe. The green holographic field laid out where the materials needed to be placed. A sharp rock reinforced with a piece of hull plating, lashed to a sturdy metal bar for leverage. He positioned the items, and then activated the Celesticraft. His interface glowed bright green as the energy matrix within the Celesticraft pulsed brighter, emitting a low hum. The light pulsed, almost as if the fabricator were hungry, and the items disappeared in a sharp flash.

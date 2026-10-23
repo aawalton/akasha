@@ -1,0 +1,155 @@
+The forge was screaming, not from damage, but from the corruption.
+
+From his crawlspace beneath the outer frame, Ethan watched as resin tendrils threaded through the machine’s guts like a parasite colonizing a host. The Thrall wasn’t just lashing out now. It was working towards a goal. Slowly, deliberately, and methodically.
+
+Red creepers wrapped the forge’s infrastructure in tight coils, nestling into the seams and conduits like feeding roots. Every few seconds, one of them pulsed and released a hiss of vapor, and the forge bucked violently, like it was trying to shake something loose.
+
+But the effort was futile. After a final shudder, it went quiet, but not still. The forge kept working, lost to whatever the fuck was going on with the Alien resin.
+
+Power still flowed in. The generator was doing its job. The intake system still accepted ore, and the forge kept trying to refine it, unaware that something inside had gone wrong. Discolored ingots spilled from the smelter, bloated and veined with glistening red impurities.
+
+Ethan couldn’t think. He didn't even move, too afraid to attract the monster's attention. He was coated in blood, dirt, and sweat, every muscle locked tight. Each tremor drove the shard in his palm, his only weapon left, a little deeper, but the pain barely registered.
+
+CelestOS: Contamination increasing. Structural takeover at forty percent. Asset proximity to hostile: six meters.
+
+The voice came from nearby, a whisper, surprisingly aware that too much noise would attract the thrall. Thankfully, the monster didn’t even look in their direction; like it didn’t care. Whatever was left of Reyes had been hollowed out and replaced by this crawling, semi-blind hunk of violence that had no plan, only rage.
+
+Ethan began moving. Slowly, inch by inch, he pressed himself flat against the outbound conveyor belt and crawled away. Every motion felt monumental, like he was dragging the planet with him. He waited for another burst of steam from the cooling vent, then surged forward. One meter. Then another. And then he slipped.
+
+The copper shard clinked against the metal of the conveyor belt before dropping to the ground and skittering across the ash with a sharp, metallic rattle that shattered the silence. Ethan froze, heart hammering. The Thrall twitched.
+
+But it didn’t turn.
+
+For a full three seconds, he didn’t breathe. Then he exhaled, silent and shaky, and lunged to snatch the shard before it rolled farther. He tucked it close and slid back to the narrow cover of the conveyor.
+
+That was enough miracles for one day.
+
+A violent metallic shriek tore through the air, sharp and sudden, like steel being dragged against stone with all the weight of a collapsing structure. The sound punched through Ethan’s senses and left his skin crawling.
+
+The Thrall had begun dragging itself again, this time away from the forge and toward one of the drills as if searching for a new target to infect. It hauled its body onto a belt and clawed upstream against the motion.
+
+Behind it, a glistening trail of resin marked its path like a slug’s. One segment of the belt cracked under its weight with a brutal snap. The creature paused, looked down, and then turned before it crept back toward the forge as if realizing the futility of its actions.
+
+Its back was turned to Ethan now, so he took his chance, forcing his body forward
+
+Ethan crouched low, pressed tight against the base of the output conveyor. The cool metal stung through his grime-caked shirt and torn jacket, but it kept him hidden. Ash curled in the air above him, the slope hissing under the constant breath of wind.
+
+Why wasn’t it firing? It had a line of sight. He’d loaded it. Or… had he?
+
+The silence made his stomach twist once more. He clenched his jaw and shifted, inching forward. His leg nearly buckled, but he caught himself against the frame. One slow step at a time, he crawled uphill, using the machinery as cover, keeping the forge between himself and the Thrall.
+
+CelestOS: Turret system detected. Defense platform operational. Status: Out of Ammo (ingots).
+
+Ethan’s breath caught.
+
+“What do you mean out? There should’ve been—” He turned, scanning the feed chute, then the belt beyond. Nothing. Just a trickle of scorched dust riding dead rollers.
+
+He hissed under his breath, a low, hoarse whisper. “Where are they?”
+
+CelestOS: Fourty ingots were successfully extruded prior to contamination event. For ease of crafting, they were relocated to a nearby pile.
+
+“Where?” Ethan snapped.
+
+CelestOS: Adjacent to forge intake. Location selected for ergonomic convenience.
+
+He stared at the AR overlay blinking in the smoke. The ingots weren’t gone, but unfortunately, they were sitting in a neat stack. Right next to the Thrall.
+
+“You moved them? Why the hell would you do that?”
+
+CelestOS: Per Celestitech Workflow Optimization Protocol 3.2—
+
+“Shut up,” Ethan growled. “You shut up and bring them back. We are fucked. Just utterly fucked without those ingots.”
+
+CelestOS: Retrieval would expose chassis to hostile within three-meter radius. Risk unacceptable.
+
+“You’re an AI not a chasis, worst case I’ll build you a new one, but if you don’t do something now we’re fucked. Reach and retract, dammit! Worst case, electrocute him like you did that first monster.”
+
+CelestOS: Negative. Current protocol prevents equipment loss during active hostile presence. Override requires executive command clearance.
+
+“Fuck your clearance! Why? Why are you doing this? I thought we were good. Did you hallucinate that I wanted this? That I wanted you to treat me like garbage? Is that it? Do you want me to die?” Ethan slammed his fist against the machine housing, again and again. “If this is some twisted experiment on human patience, congratulations. You win.”
+
+He froze, breathing hard, finally realizing how loud he was being. But the Thrall didn’t stir downslope.
+
+CelestOS: Override resets occur every three hours. Per Celestitech policy, prolonged survival is not considered valid reset prevention.
+
+The words echoed. Too calm. Too familiar. Like they’d been said a thousand times to a thousand others.
+
+His thoughts unraveled. It felt like watching from outside himself, his brain peeling back just far enough to see the whole thing like a scene in someone else’s life. Hands clenched. Pulse pounding. The heat of frustration simmering behind his eyes.
+
+This was what broke Patel, wasn’t it? Why he’d had so much rage back on the ship.
+
+The effort had not failed all at once. It wore down over time, a slow erosion disguised as cooperation. For six months, Patel had worked to fix a system that pretended to comply while quietly unraveling everything he tried to build. Of course that asshole had decided to deflect his frustrations onto Ethan, but at least he had some level of understanding now.
+
+Ethan closed his eyes. He could picture it now. Patel sat hunched over the console at all hours, patching code and rerouting systems, clawing for progress that never lasted. Every morning, it was the same. His changes were not corrupted. They were simply gone. As if none of it had ever mattered.
+
+Now Ethan understood.
+
+Three hours. That was the leash. And now that he knew, Celestitech would never win again.
+
+He exhaled slowly and steadied himself. “Captain Override. Please do what I say, and collect the damn ingots.”
+
+As if a switch had magically been flipped, CelestOS disengaged from its hover beside him and drifted forward, chassis rotating slightly as it scanned the path ahead.
+
+CelestOS: Retrieval procedure initiated. Please remain still. You have a statistically higher chance of survival when inert.
+
+It glided downslope, weaving between obstacles. The Thrall didn’t react. Its bulk hunched over the intake line, resin still pulsing along its limbs. Every few seconds, it twitched. Steam vented from the forge beside it, briefly obscuring everything in red smoke.
+
+Ethan pressed himself lower, dirt grinding into his burned side. He couldn’t see the exact moment CelestOS arrived, but the forge hissed again. Metal scraped against metal. A long, slow pull echoed back up the hill.
+
+CelestOS: Ingot one secured. Two. Three. Four. Retrieval complete.
+
+The AI lifted off, arms extended like a delivery drone, four bars of copper dangling from its clawed manipulators. It skimmed low over the terrain, engines humming just above a whisper.
+
+Ethan kept hidden behind the collapsed beam until CelestOS crested the ridge and came to a slow stop beside him. The drone deposited the copper in the dirt and rotated to scan the horizon.
+
+CelestOS: Materials delivered. Threat range: unchanged. Emotional stability: questionable. Would you like to submit a performance review?
+
+“Later,” Ethan muttered. He reached out and grabbed the nearest bar. It was still warm. He cradled it awkwardly, tucked it under one arm, and scooped the rest.
+
+He half-limped, half-ran to the turret base, every step jarring his ribs. Smoke stung his eyes. The wind shifted again and brought with it the faint stench of resin and blood.
+
+One by one, he loaded the copper into the chute. Clunk. Click. Clunk. Click.
+
+The third bar jammed halfway through. He slammed it down with the heel of his boot, forcing it in.
+
+The turret blinked green.
+
+Ethan exhaled, shoulders sagging. His legs gave out, and he dropped beside the mount, hands trembling.
+
+CelestOS: Defensive systems online.
+
+The turret powered on.
+
+CelestOS: Ammunition count: four ingots. Targeting system online. Motion tracking enabled. Thermal acquisition locked.
+
+The barrel rotated once in a lazy arc and then held steady, scanning the lower slope.The turret was armed, but the Thrall was still out of range, lurking deep within the forge as if it were nesting. The sensors twitched, searching for a target but finding nothing.
+
+“All right,” he muttered, dragging himself to his feet. “Let’s bring you home.”
+
+He rushed forward gripping the shard, knowing full well it was a terrible weapon, but it made for a halfway decent attention getter. The edge was dull, the weight uneven, but it was something. He wound back and flung it down the slope with everything he had left.
+
+It sailed wide and struck the side of the forge with a harsh metallic clang, then ricocheted off the metal grate. The shard bounced, then hit the Thrall square in the face with a wet smack.
+
+The effect was immediate. Reyes’s face slid off like a poorly fitted sock and the creature stopped moving. Its limbs locked in place, joints stiffening mid-motion. Slowly, its head turned toward the sound. Resin flaked from its wound as it tilted forward with a low hiss.
+
+Ethan didn’t wait.
+
+He sprinted the rest of the way to the turret, boots slipping in the ash, lungs dragging fire with every breath. Ten meters. Five. He dropped to the base and spun, heart hammering in his chest.
+
+The fog of steam parted.
+
+The Thrall emerged, limbs stretched past human limits, neck twisted at an unnatural angle. Its fingers clawed the ground behind it as it dragged forward in quick bursts, like something yanked on a cable.
+
+Then it saw him and came fast.
+
+CelestOS: Target acquired. Firing solution locked.
+
+The turret spun and fired. The first round hit the Thrall center mass, blowing a chunk of resin straight through its torso. The second hit its shoulder, dislocating the limb in a gory puff of melted sinew. It shrieked, a sound like metal being torn in half underwater. The third shot slammed into its leg, the fourth into its chest again.
+
+The Thrall crumpled mid-run, crashing into the dirt with a sound like wet wood snapping. Limbs thrashed, then slowed. Its neck hole  twitched once, then stilled.
+
+CelestOS: Target neutralized. Vital signs absent. Neural signature degraded beyond trace thresholds.
+
+Ethan stayed on the ground, staring at the unmoving corpse. The resin still steamed, smelling of burned fungus, copper slag, and rot. He didn’t trust it, not until the tendrils sagged and the last pulse of light died from its eyes.
+
+Then, slowly, he pulled himself upright, hands shaking. The factory was still bleeding sparks, still scarred, but the monster was dead. Really, this time. He didn’t feel relief, just a profound silence and the faint smell of metal in the wind.

@@ -1,0 +1,97 @@
+0004 Acting Captain, Part 1
+
+CelestOS: Telemetry failure due to crash. Crew presumed missing: Fatalities due to unknown hostilities likely. Recommend careful reconnaissance.
+
+Ethan ignored her, scanning the area. Despite the raging fires, the visible heat shimmer, and the hopeless view, he was certain the others had made it out. How the hell did it make sense that he survived, basically strapped to a support pole, and they died in top-of-the-line escape pods? It didn't.
+
+The wreckage that had fallen nearby was a solid mixture of jagged pipes, busted rivets, and burning metal. He grabbed a length of pipe and felt its heft. If he needed to fight off an attacker, it would probably do in a pinch. He gathered a few more likely pieces and made a makeshift pile of weapons near his pod, grabbing the heaviest pipe for now. If there really were hostiles out here, he wasn't going to get caught with his pants down.
+
+He turned his eyes skyward. Most of the ship seemed to have crashed already, but pieces could still be falling. He wouldn't turn a blind eye. To be forewarned was to be forearmed.
+
+He glanced again to the left wreckage field, and then to the right at the distant forest across the chasm. He was free now, unrestrained. Who could say it would remain that way if he found a living crew member? Maybe in their grief over losing the captain or the ship, they'd blame the stowaway. But then he glanced at the blinking 20 on his oxygen counter. Whatever CelestOS thought or said, he was determined to save the crew, his crimes be damned. They were also likely his only hope of finding an oxygen canister before he suffocated.
+
+Decision made, he took off towards the other crashed pod he'd spotted. A crack of thunder pealed in the distance as the dust storm he'd seen on the horizon finally broke, descending on the area with speed and fury. Still, he didn’t let it faze him as he broke into a jog across the cracked terrain. The adrenaline rush from the crash and the numbness from the med-cocktail were wearing off, and his body ached deeply. He cradled his ribs with his right arm and pushed on.
+
+Visibility dropped quickly to maybe two or three feet in the swirling red dust. Still, he didn’t let it stop him. He continued on at a limping jog, his left leg barely carrying its fair share of the burden. After what felt like an age, stumbling through the red gloom, he found a large hole in the ground.
+
+The escape pod had carved a deep trench into the ground that seemed to stretch on and on into the dust. Midway down the impact trench, a landing strut had sheared off the ship and now jutted out of the earth like a crooked metal tooth. As he finally got close enough to see the pod itself, he gasped in shock. The pod’s frame was mangled, looking more like a chewed-up dog toy than an escape pod. The hatch was cracked and opened at an odd angle, flames pouring out of the frame.
+
+“Oh god!” Ethan shouted over the wind. “Is anyone alive in there?”
+
+There was no reply but the roar of fire and wind.
+
+He rushed forward, pulse thudding in his ears like a drum against his helmet. They’d already lost Varma; he didn’t think he could deal with another death so soon. He sucked in a breath and plunged through the curtain of flames. Inside, the pod was chaos. The inner frame had collapsed inward, crushing everything beneath it. Fire burned everywhere in a shifting kaleidoscope of heat and color.
+
+“Hey! Is anyone in here? It’s me, Ethan! Say something!”
+
+A wet, hacking cough answered from underneath a heap of buckled metal and flickering flames.
+
+Ethan surged forward, adrenaline giving him strength he didn’t know he had, heaving at the metal panel. Reyes was underneath, dying. There was almost no denying it. Blood pooled beneath him, dark against the dusty floor, and one of his legs was utterly destroyed, crushed and pinned between a fallen support pillar and the main frame.
+
+“Shit, Reyes!” Ethan breathed, horror washing over him. He wasn’t a doctor; he wasn’t used to so much blood, death, and destruction. Reyes’s eyes were closed, but Ethan gently shook the man's shoulder. “Hey, hey, stay with me, alright? I’ve got you. We already lost Varma, we can’t lose you too.”
+
+His eyes fluttered open, but they were dazed and unfocused. He tried to speak, but only coughed harshly.
+
+“Shh… it’s okay,” Ethan said quickly, trying to sound calm. “I'll deploy the medkit. You’ll be okay.”
+
+Without hesitation, Ethan reached down to Reyes's side for the emergency medkit pouch on his suit, only to find it torn open and empty. He looked back at Reyes's pale face in despair.
+
+“Oh fuck, oh fuck. This can’t be happening.” He looked wildly around the burning pod. “CelestOS, is there anything I can do? How long does he have?”
+
+CelestOS: Lieutenant Reyes is temporarily stable due to compression of the femoral artery by debris. Estimated viability: approximately 20-40 minutes. Warning: Removing debris will likely result in fatal exsanguination. Do not attempt to relocate high-value personnel without medical override or stabilization.
+
+Ethan felt a flash of anger. “Wait, he’s high value, but I’m expendable?”
+
+CelestOS: Correct. Your designation remains Expendable Asset, despite being the acting captain. Celestitech appreciates your cooperation in prioritizing high-value assets.
+
+He wanted to scream at the AI, but Reyes’s life was ticking away, and yelling helped no one. Focus. What would help?
+
+“If I get him a CelestiMed injector, would that stabilize him enough to survive moving the debris?”
+
+CelestOS: The CelestiMed™ unit integrated into Lieutenant Reyes's suit harness was destroyed in the crash impact. However, a successful CelestiMed™ injection prior to debris removal would significantly increase survival probability.
+
+Ethan stared into the smoky air above them, wondering why this day was just so unbearably cursed. Of course his kit was destroyed. It made no sense for anyone to have any shred of fucking luck today.
+
+God damnit! "CelestOS! You have been a complete waste this whole fucking day. Please tell me you can at least answer me one useful question. Did the CelestiMed in my pod survive the crash? Is it still there?"
+
+CelestOS: Analyzing localized inventory manifests… One Class-B Emergency Stabilization Injector, brand name CelestiMed™, detected within assigned pod AI Core Pod NCC-1701, located approximately 1.5 kilometers from your current position. Contents viable. Warning: Unit is standard issue. For optimal long-term recovery and cellular regeneration, upgrading Lieutenant Reyes’s profile to Celestitech RecoveryPlus™ tier 3 is recommended post-stabilization!
+
+Ethan wanted to smash his fist through her display. “Mark the location and save the damn sales pitch for someone with money!”
+
+He clenched his fists, the useless action doing nothing to ease the frantic pressure. Twenty minutes. Ethan’s mind raced, calculating time, distance, the dust storm, and glancing at the oxygen meter, which was slowly ticking down past 19%.
+
+He had less than twenty minutes to save Reyes, and god help him, no one else was gonna die today if he could help it. He glanced down at the suffering pilot.
+
+“Okay Reyes,” he said, his voice low, trying to project a confidence he didn’t feel at all. “Listen to me. There’s another medkit in my pod. It’s intact.” He leaned closer, willing the man to understand through the haze of pain, through his half-closed eyelids. “I’m going to get it. It’s not far, but you cannot move. Do you understand? If that bar shifts, you’ll bleed out. It’s all that's keeping you alive right now.”
+
+Reyes's eyes blinked slowly, and he made a low, pained noise, a weak gasp that might have been agreement.
+
+“Nineteen minutes. I’ll be back before you know it.”
+
+Plunging back through the curtain of flame required an effort of will he hadn’t expected, a raw force pushing against the instinct to shy away from the heat. He couldn’t see a thing through the smoke and swirling fire.
+
+But emerging on the other side, the situation was just as bad. The dust storm was a physical entity now, a howling, opaque wall of red sand that scoured his suit and reduced visibility to near zero. He would’ve thought it would be louder, but the wind had a strange, hollow quality, as if the storm was holding its breath before the real crescendo hit.
+
+He activated the waypoint CelestOS had marked. A little minimap glowed in his HUD, showing the route to the AI pod. The area CelestOS had scanned was marked, but large pockets remained grey, unidentified – including the massive canyon nearby. He took off at the best run he could manage, glancing at his stats.
+
+[HP: [■ ■ ■ ■ ■ □ □ □ □ □] 59% ]
+
+[O2: [■ □ □ □ □ □ □ □ □ □] 18% ]
+
+[PWR: [■ ■ ■ ■ ■ ■ ■ ■ □ □] 81% ]
+
+What the hell?“CelestOS? Why am I taking damage?” Ethan grunted, shocked at the drop in health.
+
+CelestOS: Environmental analysis indicates abrasive particulate matter in the atmosphere is compromising suit integrity. Additionally, you sustained minor thermal damage passing through the fire. Exertion with low oxygen also contributes to physiological strain. Major suit repairs are recommended.
+
+It didn’t matter now. Using one arm to shield his cracked visor, he pushed on at a brisk, limping jog in the direction of the AI pod waypoint. Running through the dust was like trying to swim through sandpaper; he kept having to dodge or stumble as unseen debris and maybe even flaming objects suddenly appeared out of the red gloom. And it was then that he realized, the unsettling feeling wasn't just the storm, it was how naked he felt without that pipe. He'd only been jogging for maybe a minute. Would it be worth it to go back? Did the other man’s pod have a weapon he could grab? Did he even need one with the dust storm providing cover? What could possibly see him in this ridiculous cloud of red?
+
+Ethan risked a look back, but the visibility was just as bad… did he risk it? Did he run blind into the storm?
+
+Before he could decide, a sudden, violent gust of wind tore through the area, and astonishingly, the storm started dissipating, thinning out almost as quickly as it had rolled in. Ethan was about to heave a sigh of relief when something erupted from the heart of the nearby Perseverance wreckage to his right.
+
+A dark, segmented thing, rippling like heat haze given solid form, rose from the twisted metal like a demon crawling from hell. It clicked and clacked, a sound like rocks grinding together, as multiple chitinous arms plated in something that gleamed wetly unfolded from atop a multitude of sharp, pincer-like legs.
+
+Ethan did his best to ignore the notification that obscured his view.[Skill: Perception 3→4]
+
+It landed clear of the wreckage, its form momentarily unobscured – a predator sculpted from obsidian and brimstone. And it was moving directly, unstoppably, towards him.

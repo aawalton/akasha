@@ -1,0 +1,113 @@
+0010 Predatory Plant Life, Part 1Ethan whooped as the world lit up in a burst of green light. The air around the blueprint got brighter and brighter as the magic of the Celesticraft, in tandem with CelestOS, roared to life. Concentric rings radiated out from the schematic now, and a hum filled the air. His HUD filled with the checklist as he placed down all of the parts from CelestOS’s storage.Copper, stone, wood, sap, and iron all left his inventory. As the final chunk of Iron ore hit the schematic, everything snapped into place with a final clink.
+
+CelestOS: Initiating Tier One Device fabrication: CelestiForge. Please stand clear. Eye, ear, nose, and mouth protection recommended, though statistically irrelevant at your current stage of exposure.
+
+The machine pulsed once, twice, three times. And then went dark.
+
+Then a sudden vortex of light and static erupted from the schematic, and for a brief moment, Ethan felt like he was about to be struck by lightning. His damn grav boots were on the fritz again, though, as he couldn't move out of the way. However, it was too late as a vortex of light and electricity erupted from the Celesticraft and the schematic.
+
+As the electricity hit the items, before his eyes, everything seemed to magically transform. Materials vanished into the glow, atomized, and rearranged in midair. Metal bent and shaped, stone compressed and morphed. Heat he could feel through his suit rolled off the forge in waves as the fully furnished CelestiForge appeared in front of him.
+
+[Skill: Crafting 1 → 2][New Skill Unlocked: Smelting 0 → 1]
+
+CelestOS: Warning: Critical power drain in effect. Recommend charging Battery pack before using CelestiForge again.
+
+[HP: [■ ■ ■ □ □ □ □ □ □ □] 38%
+
+[O2: [■ ■ ■ ■ ■ ■ ■ ■ ■ □] 95%]
+
+[PWR: [■ ■ ■ □ □ □ □ □ □ □] 34% ]
+
+The machine was a low, octagonal crucible that rose on four stilts off the ground, set in a reinforced alloy, copper tubing coiled around like arteries, and a fuel intake glowing faintly blue where wood and sap had already begun to burn. A CelestiCo branding logo was emblazoned on the back of the forge.
+
+Ethan let out a breath he didn't know he'd been holding. But he couldn't waste any more time admiring the sight; time was wasting, and who knew how much longer a tourniquet could hold.
+
+He needed a real break, not just these moments of rest between running back and forth, but he’d be damned if he let another person die under his power. He shook his head, opened the furnace, and jumped back as an explosion of heat buffeted his suit.
+
+CelestOS: Warning: CelestiForge core temperatures exceed OSHA-approved comfort levels. Please avoid spontaneous combustion.
+
+Ethan patted down his suit and then said, “You think I like getting flash-boiled?”He started loading the part of the forge labeled CelestiChamber. Whoever made this fucking thing was ridiculous with the corporate branding. He grumbled under his breath. Copper in. Iron in. Fuel chamber mostly full. Check, check, check.
+
+As he closed the forge shut, the checklist on his HUD blinked green and red.
+
+[✓] IRON ORE X 3
+
+[✓] COPPER ORE X 2
+
+[✓] Fuel Level 84%
+
+[X] Glass syringe.
+
+The forge rumbled to life as it started melting the ores that would be needed for his next crafting job. He eyed the power in his suit warily, but that was a problem that could wait for later. He leaned over, and as he got close to the burning forge, new information popped up in his HUD:
+
+Iron smelting [■ □ □ □ □ □ □ □ □ □] ETA 3 minsCopper Ingot [■ ■ ■ □ □ □ □ □ □ □] ETA 2 minsGlass [□ □ □ □ □ □ □ □ □ □] materials needed
+
+Ethan frowned. “So where do I get the silica for the glass, and why the hell didn't we do it earlier?”
+
+CelestOS: Someone was too afraid to approach the giant monster blocking his path. Sensors indicate the area is still classified as moderately hostile. Please proceed 1.4 kilometers northeast.
+
+He let CelestOS mark the location on his HUD. He glanced in Reyes’s direction. Even in a full-body suit, the man looked miserable. “Better hurry, Reyes isn't going to get any better.”
+
+CelestOS: That is factually correct. Reyes will not get better. Company policy states that expendable personnel must do everything in their power to support the needs of nonexpendable agents.
+
+Time's ticking then. Let's go find some damn sand. He slowly moved toward the northeast.
+
+CelestOS: Compliance with company policy detected. 2 CelestiCredits acquired.
+
+Ethan started a tired run to the northeast. He would get this sand, and he would save Reyes, and then he would sleep for 3 days. Yes, that sounded good: 3 days of sleeping.
+
+CelestOS: Reminder. CelestiMed Mk I requires two remaining medical components. One organic stabilizer for metabolic integrations and one catalytic compound to trigger cellular reuptake and regeneration. Both Organic reagent signatures detected 2.3 km south. Sensors detect unusual flora. And recommend caution.
+
+[MISSION UPDATE: Required Materials:]Sand (Silicate)Organic material: HeartfruitOrganic material: Crystalseed Fungus
+
+CelestOS: When combined together the heartfruit and the crystalseed fungus will create a medical gel that when injected increases the body’shealing factor by 2 months. It is a miraculous feat of medical ingenuity and it's amazing that this planet has the necessary plant equivalents needed to create the medicine.
+
+Ethan pushed through a curtain of fifteen-foot-tall orange grass and emerged into a glade awash in a warm, coppery light. The orange sun reflected off a strangely clear pool of water. A pang of thirst flicked against a dry patch in the center of his tongue. But that could wait. Everything had to wait.
+
+Ethan stepped carefully as he inched forward, his boots crunching softly over a rocky mineral material that slowly turned into a pale pastel color. His HUD pinged that he had found the silicate material he was looking for. He dropped to one knee and scooped the material in his hands. ”How are we going to get enough of this back to the…”He trailed off as CelestOS just scooped the sand up like it was a shovel and casually floated back into the air. As soon as the container of its body had snapped shut, he heard it. Not the quiet buzzing of machinery that CelestOS occasionally gave off, but an entirely alien sound.
+
+His neck snapped alert as a blur darted past his face. Loud and buzzing with a wet organic aggression, he rolled sideways and grabbed his axe off his back.
+
+Thankfully, it was much smaller than the fly from before, and as gross as it would likely be, he knew he was going to need some sort of food before long. The creature screamed an awful, bone-piercing screech of anger and dived for his face mask again.
+
+Up close, it looked like a horsefly that lost a bet with evolution, and suddenly all thoughts of hunger disappeared. The body was bloated and split down the middle with a veined membrane that pulsed like an external set of lungs. Too many blue and gold wings flapped on its back, as invisible as a hummingbird's.
+
+With a scream and force he didn't know he had in him, he sidestepped, planted his boot, and swung as hard as he could, cleaving the blade of the axe straight into its thorax. The crunch was wet and satisfying, but the beast was not slain. It reeled off course, spiraling into the water with a splash.
+
+It jerked up again, wings wet and buzzing unevenly this time. Ethan didn't wait. He trudged into the water and brought the axe down once, twice, three times, cracking through the exoskeleton of the giant bug until it collapsed dead. And then, it exploded. Guts and alien blood spattered his suit.
+
+CelestOS: Environmental hazard neutralized. 4 CelestiCredits awarded. Minor contamination detected, please avoid hand-to-mouth contact until further decontamination.
+
+[Skill: Combat 1→2]
+
+Ethan stood panting over a puddle of brown blood and what little remained of the giant fly. He furiously wiped at his helm with water from the pond until the gunk slid off his helm and he could see again. He gave a shake to let his helm dry and then trudged back onto solid sand.
+
+“Did we gather enough sand?” He asked, breath coming in rapid, staccato bursts.
+
+CelestOS: Affirmative. Silicate Quota met. Substitutable for tier-1 r-glass production without purification. Result will be in the average quality range. Unlike your current hygiene.
+
+He didn't rise to the bait, instead taking a moment to slump onto a nearby rock. He couldn't afford to take a break, but he also couldn’t afford not to. He wasn't built for this. He needed food. He needed water, but Reyes was relying on him. However, what help his adrenaline had been providing was finally starting to fade, and he could feel a crash of some sort trying to rear its ugly old head.
+
+“Okay. One down, two to go,” he said, jumping down off the rock, not ready, but willing nonetheless. “Where’s next?”
+
+CelestOS: Of the two remaining objectives, the closest is the Heartfruit cluster, 2.9 kilometers southwest. Acting Captain, Celestitech wishes to encourage alacrity. Breaks will not be allowed.
+
+He wanted to say, ‘Fuck off, stupid robot,’ but instead said, “I'm going as fast as I can.”
+
+CelestOS: While the area has been given an ambient hazard rating of Blue because of moderate risk of predatory plant life, Celestitech would like to remind you: you are expendable, and Reyes is not.
+
+“Fine. Whatever. Set a new marker…” In his time running back and forth over his new local, Ethan had slowly started to create a map of his surrounding area. The HUD, tracking his positions and marking unknown areas as a grey blob. In the midst of a giant blob to the south of Reyes’s waypoint was a cluster of blue markers signifying what he assumed to be Heartfruit. The Recon drone CelestOS had sent out was starting to pay dividends. He just wished it could fill out his map for him. It seemed like such a weird oversight.
+
+“We're headed south.”
+
+As he moved out from the sandy pond, through the orange grassland, and into the area of the crash site, Ethan let his mind drift. Maria had been on this planet for six months, and in his three hours on the planet, he had encountered hostile fauna, a serious lack of supplies, and an obvious resource thief. Whatever was going on here made an unsettling feeling pool in the pit of his stomach. He was unsure how Maria had made it through. But he just knew she had. It wasn't worth thinking about anymore.
+
+The scenery changed here. Gone was the burnt orange of the dusty crater; instead, as he moved further and further south, lush plants started to populate the surroundings, and slowly but surely, a dense forest sprang into view.
+
+Hang on Reyes, Ethan whispered. We're halfway there.
+
+The world shifted as Ethan entered the forest proper. He pushed through a curtain of dense, broad-leafed brush and emerged into a glade awash in a warm, coppery light filtered through a cover of leaves and brush overhead. Towering above everything were massive pillars pretending to be trees. As wide across as the giant redwoods of Mars, but stranger. The trunks weren't barked but coated in a material that almost seemed like an interlocking mesh of deep, dark purple chitin, like the exoskeleton of a beetle stretched too thin over thirty meters tall. At the top, a sea of Orange and green partially obscured the sky.
+
+Hanging from gigantic vines like apples in an orchard were the HeartFruits. Dozens of them hung like red-green bioluminescent, heart-shaped jack-o'-lanterns. He could see why CelestOS had given them that name. As he stepped closer to reach for one, the vines twitched.
+
+Ethan froze mid-reach. The nearest fruit gave another, less-subtle movement. Then another. Swaying too hard for a breeze that likely couldn't penetrate this far into a forest anyway, he was instantly alert. What had CelestOS said, predatory plant life? More and more vines shifted, and then, as if the forest were alive, it let out a collective exhale. And one of the fruits let go. It hit the ground with a soft thud and started to swell.

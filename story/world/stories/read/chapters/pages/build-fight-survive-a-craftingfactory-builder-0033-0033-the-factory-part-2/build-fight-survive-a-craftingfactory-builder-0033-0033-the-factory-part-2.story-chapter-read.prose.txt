@@ -1,0 +1,133 @@
+0033, The Factory, Part 2Ethan stood at the edge of the burgeoning factory, sweat cooling under the collar of his patched-up CMS. The iron drill hummed in the distance, and the copper one hadn’t jammed in the last ten minutes. That alone felt like a miracle. He glanced between them, then down at the patchy schematic CelestOS had projected over the dirt like a ghost-blue spiderweb.
+
+Three resource veins. Two drills running. One human left to connect it all. Boy was this going to be fun.
+
+“Right,” he muttered. “Let’s see what this place looks like when it doesn’t require me hauling shit like it’s the Dark Ages.”
+
+[MISSION]: Desperate Measures [CURRENT OBJECTIVE]: Step 7/10000 – Fabricate 2,000 meters of Conveyor Belt Infrastructure Step 8/10000 – Establish Continuous T1 Resource Intake Loop Step 9/10000 – Maintain Active Power Supply below 60% Grid Load Step 10/10000 – Fix CMS
+
+CelestOS: Conveyor interface online. Belt fabrication queue now active. Fabrication rate: dependent on user stamina and tree density.
+
+Ethan rolled his shoulders and cracked his neck. “Great,” he muttered, “time to play lumberjack.”
+
+He hauled the last batch of log into the crafting area from the stack he'd collected earlier. From nearby the logs he pulled a handful of crystallized sap orbs, the ones that oozed from the trees he’d harvested and left his gloves tacky, and poured them into the fabricator’s chemical hopper. The forge hissed as it warmed.
+
+Next, he dropped in a bundle of copper ingots, freshly smelted in the forge. The CelestiCraft unit processed them without prompting, spooling out precise coils of copper wire into its fabrication area.
+
+[INPUT CONFIRMED – T1 Conveyor Belt – Section] ‣ Wooden Logs ×5 ‣ Stone x5
+
+‣ Copper Wire ×1 ‣ Binding Agent ×1 [STATUS]: Crafting…
+
+[Error: Insufficient materials.]
+
+CelestOS: Warning—missing component: Stone ×5. Crafting halted. Please insert required material to resume.
+
+Ethan frowned at the new line in the recipe list. “Wait... when did you add stone to the recipe?”
+
+CelestOS: Recipe update applied following asset reclassification. T1 Conveyor Belt – Section now requires stone for structural integrity and heat dispersion. You’re welcome.
+
+He groaned and leaned against the edge of the CelestiCraft console. “Of course it does.”
+
+CelestOS: Nearest viable silicate deposit detected: 312 meters. Terrain: unstable incline, moderate debris field, risk classification: Yellow-Low. A marker has been placed on your HUD. Please proceed before morale degrades further.
+
+Ethan looked toward the east ridge where a faint gray shimmer marked the spot. His shoulder throbbed just thinking about the climb.
+
+“Alright,” he muttered, slinging the third drill onto his back. “Stone’s next.”
+
+He turned and started the climb.
+
+The stone patch wasn’t far, but reaching it felt like an eternity. The slope was steep, the footing loose, and every step drove grit deeper into Ethan’s boots and sweat deeper into his suit. His shoulder ached with every movement: a sharp, grinding pull from the cannon recoil earlier that felt as if it could dislocate at any moment.
+
+He flexed his fingers and winced at the pain, which now had a rhythm, dull between steps and screaming on the uphill. He could almost hear Celestimed’s chirpy slogan: "Trust science. Trust Celestitech. Trust CelestiMed."
+
+He’d kill for a dose of celestimed to bring him back to full health, but the thought of hiking back through the Heartfruit forest, with its roots, its eyes, and the sound of exploding fruit trying to kill him, made him clench his teeth and press forward. He didn’t have the strength for it today, and maybe not ever again.
+
+When he crested the last ridge and spotted the dull gray deposit ahead, flat, cracked, and flecked with sediment, he almost dropped to his knees.
+
+CelestOS: Proximity verified. Geological composition: 82% silicates. Moderate density. Ideal for structural fabricstion of drill, and belts.
+
+“Yeah, yeah, I got that from the rock,” Ethan muttered. “Thanks for the backseat geology.”
+
+The drill weighed twice as much as it had earlier, or maybe he was just running out of steam. He braced The drill on a knee, swung the base down into position, and began sweeping away the rubble the by hand. The surface was uneven and littered with fractured shale.
+
+CelestOS: Warning: manual excavation exceeds optimal asset exertion. Injury likelihood: 41%. Please consider rest.
+
+“Let me guess. You’re about to suggest a upsell on a Celestimeds?”
+
+After a pause, CelestOS withdrew the suggestion.
+
+The platform finally settled into place and Ethan activated the magnetic stabilizers, then keyed in the boot sequence. The unit rattled just long enough to make him tense before whining to life as a thick grind of steel teeth tore into the rock. Dust plumed into the air, and seconds later, gravel and fine gray stone spat into the output tray. He stood back, chest heaving, as the drill found its rhythm. It was the third one, providing stone alongside copper and iron. A full suite of resources, at last.
+
+CelestOS: Production cycle confirmed. Resource output streaming. Recommendation: resume belt infrastructure. Efficiency is profit. Profit is peace.
+
+“Profit’s not exactly what I’m worried about,” Ethan said, wiping a line of grit from his cheek, “but sure. Let’s talk about profit. I finished your quests, what does that get me?”
+
+He paused at the edge of the ridge, watching the dust swirl around the new drill, the fresh stone tumbling out as a cascade of broken teeth. It wasn’t profit he needed but time: enough of it to build, to defend, to survive whatever came next. “Let’s talk about how fast I can turn rocks into miracles,” he muttered, then turned and headed for the forge as the wind picked up again, high, dry, and sharp across his faceplate. Somewhere behind him, the drill let out a coughing grind and resumed its spin.
+
+The forge greeted him with a soft whirr as he returned, trailing dust and stone in his wake. With three drills now bleeding raw material into the dirt, it was time to connect them.
+
+Ethan ran copper wiring from the generator next to the forge to the belt line by hand, careful to keep the connections insulated and tight. It wasn’t built for this kind of load, but it would hold—at least for now.
+
+Ethan wiped a sleeve across his visor and looked up as CelestOS projected the schematics for the conveyor belts.The familiar interface lit up in AR, with segment schematics hovering midair and cycling through variations of single-channel, split-feed, and powered incline. Each one was a sleeker, harder, and somehow more fragile version of something from a factory line back home.
+
+CelestOS: Blueprint active. Standard Conveyor Mk.1. Frame: lightweight alloy. Rollers: internally powered. Core: insulated stone composite. Copper conduits required for current flow. Stone mandatory for heat dissipation.
+
+“I get it. Don’t skimp or they melt.”
+
+The schematic locked in, and CelestOS’s frame opened with a soft hiss. Robotic arms clicked into motion, assembling the first batch from stored resources. Finished segments slid out in rhythmic precision. They were long strips of alloy with embedded rollers and faintly glowing edge panels, lighter than they looked and humming faintly with current. They were warm to the touch, almost alive.
+
+CelestOS: Caution: active conveyors draw continuous power. Grid load currently at 64%.
+
+“Then we’d better work fast.”
+
+He crouched beside the forge and started laying the first line from the copper base with mechanical certainty. Snap, anchor, seal. The terrain made it a pain, forcing him to arc wide around a slope, avoid debris, and brace the run against the wind, but eventually it clicked into place. The first belt lit up, and a second later, copper ore tumbled from the drill bin. The rollers caught them and pulled them forward in a slow, steady, and utterly beautiful motion. Watching the ore being carried by the conveyor, an obedient beast of burden, Ethan stepped onto it. The belt wobbled slightly under his weight but held as the hum deepened to adjust for the added load. It carried him forward, arms slightly out for balance, a grin spreading across his grimy face.
+
+“Transit initiated,” he said, almost laughing, even as CelestOS voiced its disapproval. He rode it all the way to the bend, boots humming with the belt’s vibration.
+
+His grin didn’t last. The belt curved toward the far drill, straight across the edge of the old crater where what was left of the Apex’s death site still bubbled faintly. Its rim was lined with hairline fractures where molten Redresin steamed through the dirt, pulsing in irregular beats, as if it hadn’t decided whether to cool or erupt again. He crouched and laid the next segment carefully, forcing the supports deep into the ridge where the ground was still soft and scorched. Each piece clicked into the next, a mechanical spine extending across the gap just above the crater’s lip, where the earth was barely solid enough.
+
+CelestOS: Structural integrity: 61%. Subsurface temperature rising. Recommend deviation.
+
+“Don’t have time,” Ethan muttered, “and nowhere else to go.”
+
+The next belt locked into place, and then the next. He stepped onto the conveyor again, this time above the glow. The ride was slower now, the belt trembling slightly with the heat while vapor curled beneath his boots, rising in slow spirals from the resin fissures below. It smelled of melted plastic and singed copper. He didn’t look down. The moment his boots hit solid dirt again, he dropped to a knee and kept laying segments, the pattern blurring into muscle memory. Connect, test, ride, extend. Conveyor by conveyor, piece by piece, he stitched the camp together, building arteries for a machine still dreaming of its heart.
+
+CelestOS: Network expansion at 47%. Power consumption nearing unstable threshold. Recommend infrastructure reassessment.
+
+“I’m aware,” Ethan muttered, his breath catching in his throat. The belts were running and the system was real. But so was the cost.
+
+CelestOS’s internal lights dimmed for half a second in a flicker, a tremor, something not quite right. And then the smell hit him: wet, sour, decay threaded through with static. He turned toward the pod, the axe already in his hand.
+
+Reyes hadn’t moved from where he was slumped against the blackened frame, his body half-curled beside the impact-scorched hatch. The emergency lights above pulsed red across his skin, casting him in flashes of raw, surgical light. He looked worse. The veins had darkened to black-red, scorched roots threading up his throat and jaw, pulsing faintly beneath skin that looked wrong, slick and too thin. His muscle twitched in small, involuntary spasms, and his jaw moved in slow, rhythmic clenching even with his eyes closed, as if something inside was still rehearsing how to wear him.
+
+There was resin on the ground beneath him, not a drop but a thin, webbed bloom spreading out in all directions. A fungal rot that had eaten through the plating and was curling upward toward Reyes’s back, soaking into his gear. He should’ve cut the body loose and walked away hours ago, but he hadn’t. Maybe part of him hadn’t believed it would come to this, or maybe he’d just needed not to be alone.
+
+CelestOS: Subject Reyes remains unconscious. Neural activity spiking. Motor responses present. Infection at 73% systemic integration. Projection: imminent host override.
+
+Ethan didn’t speak, instead taking a step forward, his boots scraping the scorched metal. The axe felt heavier now, not in his arms, but in his gut. Reyes’s chest hitched with a slow, ragged inhale that rattled in his throat, wet and uneven, a broken bellows full of mud. His fingers twitched, closer to intent than a spasm this time. The smell was stronger now, and it wasn't blood. It was Redresin, seeping up through the lungs and curling beneath the skin.
+
+He raised the axe. His hands shook, but only slightly. Mercy had no place here; the time for hesitation was over. He needed one clean, quick, and final swing before it wasn’t Reyes CelestOS: Warning: Termination of personnel requires executive override authorization.
+
+“I am the override,” Ethan said.
+
+He stood over him, feet braced, axe raised high. The wind howled across the ridge, dragging ash and soot in sweeping spirals. Smoke curled from the crater, stinging his eyes. Reyes twitched again, just a subtle shift in his jaw, a tremor in his hand, as if whatever was inside him hadn’t quite finished learning how to move.
+
+“Sorry, brother.”
+
+Ethan swung.
+
+The axe connected with a sickening, wet crack. Bone gave way with barely any resistance. The body bucked once, then went still. The head struck the dirt with a soft thud and rolled, eyes glassy, mouth slack.
+
+There was no blood.
+
+Instead, a thick red-black resin oozed from the ragged stump of Reyes’s neck, slow, deliberate, and too viscous. It clung to the wound like oil, bubbling faintly as it met the open air. It didn’t spread the way blood should. It crawled, veins of corruption tracing backward across the skin, as if trying to undo what had been done.
+
+Ethan took a shaky breath. His arms trembled, not from grief, not from the swing, but from the way that resin moved. Like it wasn’t just leaking. Like it was aware.
+
+And then the generator screamed.
+
+A keening metallic whine ripped through the forge, cutting through wind and smoke.
+
+Ethan barely had time to turn.
+
+The explosion came a heartbeat later, violent and absolute. A wall of fire and shrapnel surged outward, slamming into him with the force of a crashing drop pod. Light erased the sky. Heat folded the ground. The breath was knocked clean from his lungs as the shockwave threw him like a ragdoll.

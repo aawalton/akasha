@@ -1,0 +1,193 @@
+Arc 1: Veslaya0001: The Crash, Part 1
+
+January 12th, 2069Aboard the Perseverance – 20 minutes to landing.[Status: 4 Crew; 1 Prisoner]
+
+Ethan chafed against the handcuff attached to his wrist. He shook his head. He should have known better than to try sneaking onto the ship past his fiancée’s best friend. But what was done was done. Aanya had known the second he stepped aboard and had him in cuffs faster than he could say, “Maria needs me, not Julian.” His attention shifted as the Corporate AI overlord, as he liked to call it, started addressing the crew.
+
+CelestOS-4.2: “Attention: Final mission parameters initializing. Please remain seated and review assigned objectives.”
+
+The AI was loud, but cold and clinical. Throughout their six months aboard the ship, CelestOS had been vigilantly keeping track of everything from their health to their behavior. Even their conversations were monitored and analyzed by Celestitech through their flagship AI.
+
+“Ugh, why do we even have this thing?” Dr. Amiran Patel muttered as he exited the CelestOS Core room. He rubbed the back of his helmet absentmindedly. “Six months of code tweaks and it still sounds like a 2030s HR bot.”
+
+The door jammed behind him. Technically, Ethan’s job to fix, but he didn’t really know how. His brother, Julian, had been the real maintenance engineer. Ethan had studied something completely different: Logistical Computing. Most people thought it was a dead field, but he’d managed. The ship rattled from turbulence as his wrist jammed against its constraints. He once again questioned his decision to take Julian’s place, but he’d had to do it, right?
+
+Despite the glare of the too-bright ship lights and the constant buzz of the engines, Ethan could make out the tops of Patel’s grav boots, standard issue with every Celestitech Modular Suit or, CMS for short, as he made his way across the bridge to his seat. With a muted hiss, the glass landing shield clicked into place around him. It was designed to prevent passing out from the G-force of landing, or God forbid, a crash.
+
+Ethan’s shield had been in place for some time, and so had the electronic handcuffs around his left wrist. He felt like he was in some kind of high-tech sarcophagus, waiting for Osiris’s judgment on his fate. Or, in this case, CelestOS’s. He let out a sigh.
+
+His gaze flickered to the Captain. Captain Aanya Varma, Maria's best friend, stood at the command console, her eyes locked on the displays. She was the only one without a protective shield.
+
+The Perseverance had been designed with an integrated command shield at the override station, which was a custom unit that would let the captain operate the console while still being protected during descent. But Celestitech had cut it two days before launch. Custom shield were expensive, and the standard models didn't fit the console's layout anyway.
+
+"Manual override operator assumes inherent positional risk during descent phase." Corporate speak for not our problem. Varma hadn't complained. She never did. She projected the same control and confidence she always did.
+
+Ethan could see her frown reflected in the screen. He could tell from her face that she knew the silence from the Veslaya team was worse than she had let on. He rattled the cuff again, frustration simmering like a kettle. If I could just talk to her. Really talk. Maybe…
+
+He took a quick glance at his HUD as he thought about what he should say.
+
+[Modules:]
+
+Celestistore Tier 1
+
+Skill Module Tier 1
+
+HUD Tier 1
+
+[Skills:]
+
+AI Repair 2
+
+Athletics 4
+
+Logistical Computing 10 - WARNING! Purchase or unlock Skill module Tier 2 to increase past level 10
+
+Perception 3
+
+[Stats:]
+
+HP: [■ ■ ■ ■ ■ ■ ■ ■ ■ ■] 100% ]
+
+O2: [■ ■ ■ ■ ■ ■ ■ ■ ■ ■] 100% ]
+
+PWR: [■ ■ ■ ■ ■ ■ ■ ■ ■ ■] 100% ]He was shaken from his thoughts as she spoke. “Final systems check, sound off.” Her voice was iron and invited no complaints.
+
+The legally mandated co-pilot, despite the AI handling most of the actual piloting, Lieutenant Reyes, looked relaxed. He didn’t even open his eyes as Ethan glanced over at his shield. “Course locked tighter than a Catholic nun. Descent’s textbook. Safety shields already deployed. CelestOS confirms zero anomalies detected. Ain’t nothing to it. Just sit back, relax, and enjoy the ride.” His voice was cocky, full of a confidence he hadn’t earned given how little he had to do with the AI handling everything.
+
+Officer Peter Harris, the loud mouthed Texan, and all-around gun nut, headed up their defenses. He typed at his terminal and pulled a schematic onto the main screen in front of Varma. “Weapons systems online, and I’m itching for a target, cap-i-tan. Planetary conditions mostly unknown, but I know this baby is ready to meet whatever this rock decides to throw at us.” He sat rigid in his seat like a statue, ready at a moment’s notice to blast anything that moved.
+
+“Comm’s still dark. The Veslaya team is non-responsive,” Patel reported, frowning as he keyed commands. “It’s statistically unlikely they survived this long without contact, but… deploying scouting drones now.”
+
+“That’s enough, Doctor Patel. She’s alive. Maria is stronger than that.” The captain didn’t need to raise her voice, the words were precise, measured, and calm. She spared a glance Ethan’s way, brief but sharp. His stomach twisted.
+
+Strong, yes, he thought, remembering how she never backed down from anything. Not even a two-year expedition to an unknown planet.But strong doesn’t stop… He trailed off, doing his best to ignore the growing sense of dread. She deserved better than that. She has to be alive. Damnit.
+
+The silence made his stomach turn, and Varma’s fierce denial didn’t help. The team had been quiet for months. If it weren’t for the importance of the mission, EarthGov probably would’ve called it a wash and left them behind.
+
+Varma remained steady, almost statue-like in her vigil. But Ethan knew better. Maria’s disappearance had hit her just as hard.
+
+“Understood,” Patel replied. Ethan thought he heard the barest tremor in the doctor’s voice.
+
+He exhaled harshly, unable to control his emotions like the captain could. Maria was his everything. And she deserved better than disappearing into the darkest stretches of space.
+
+He rattled his arm uselessly against the binding.
+
+January 12th, 2069 — 7:50 AMAboard the Perseverance — T-minus 5 minutes to landing.
+
+CelestOS-4.2: “Final approach nominal. Atmospheric interference minimal. Brace for turbulence. Descent parameters locked.”
+
+A tremor ran through the ship, and Ethan rattled his hand against the restraint. Varma had said they would talk about letting him out once they landed. Technically speaking, her authority ended planetside. Through the view screen, a prismatic sheen of fire surrounded the ship. The colors amazed him.
+
+As gravity slammed into the ship like a tidal wave, tremors rocked the crew, or would have, if not for the shields. Varma took it like a champ, standing tall and unaffected. Ethan, though, clenched his teeth. This had been the part he was most afraid of when it came to being on a ship again. It reminded him of basic training back on Mars, of a simpler time with Maria, before the discovery happened.
+
+But almost as soon as it started, it stopped. The thrusters stabilized and controlled the descent, making it as smooth as possible. Ethan tried to relax. Everything would be okay. They were professionals. Nothing could go wrong at this point. He was sure.
+
+Reyes’s voice crackled through Ethan’s suit. “Descent path stabilized. No unexpected variables. Smooth sailing from here.”
+
+As the ship broke through the cloud layer, Ethan let out a shocked gasp. Mars had nothing on the beauty of Veslaya. A red haze covered the land, but vibrant trees flowed in the constant wind. Rivers and lakes were surrounded by orange grass plains. Humans hadn’t figured out terraforming yet, but if they had, they couldn’t have done a better job.
+
+[EXTERNAL SCAN: VESLAYA ATMOSPHERE (Upper Layer)]
+
+[PRESSURE: 0.88 atm]
+
+[TEMP: -5° C]
+
+[COMPOSITION: N2 (78%), O2 (12%), CO2 (5%), Ar (1%), TRACE GASES (4% - UNKNOWN/TOXIC)]
+
+[WARNING: Low Oxygen. Unknown atmospheric toxins detected. Recommend full filtration.]
+
+No one even commented on the scan, too preoccupied with the planet below.
+
+“Hell of a view,” Reyes said, his voice appreciative over the comms.
+
+“Looks hostile,” Harris countered immediately, his tone flat.
+
+Patel sighed, the sound tinny through the link. “Wow, brilliant analysis, Harris. Maybe you should submit a research paper.”
+
+“Can it, both of you!” Varma cut in, her voice sharp. “Five to touchdown. Eyes front.”
+
+“Yes captain. Wouldn’t want to…” Patel muttered, just audible before the line went quiet again.
+
+Ethan flexed his fingers, trying to get some circulation back into his left hand. A fast blip crossed the view screen. He blinked, and it was gone. He wanted to say something, but the last time he talked, well... he’d ended up in cuffs, hadn’t he?
+
+CelestOS-4.2: “Shields down! Unknown projectiles detec—”
+
+CelestOS cut off mid-sentence. Ethan's eyes flew open. The ship rocked violently. Once, twice, three times, and the main power died. Emergency lights flickered on, casting long, dancing shadows.
+
+"What's happening?" Ethan yelled, but the comms weren't working. Every shield on the bridge popped open simultaneously, emergency releases triggering as main power died. Ethan could hear the fire, and Varma screaming.
+
+“We’re under attack! Patel, status report!” She paused, expecting a reply but got nothing. “Patel! Answer me, damnit!”
+
+She turned to move, but with the power fluctuations, her grav boots lost suction. Her feet slipped, and she started rising off the deck as the ship's localized gravity failed. For a horrible, suspended moment, she drifted helplessly, arms reaching for something to grab onto.
+
+That's when the next hit came. With the shields down, the explosion punched through the bridge ceiling, shearing a jagged section of the Upper Gantry clean off its mounts. It hung in the zero-G for a split second alongside Varma, both of them weightless — and then the ship lurched violently downward as the port thrusters blew out. Real gravity seized everything at once. The steel strut and Varma slammed into the buckled deck plating together with a sickening, bone-crunching impact. She crashed near the command console, pinned beneath the immovable beam.
+
+Patel, Reyes, and Harris scrambled free of their open shields, voices overlapping in the chaos.
+
+“What the actual fuck just happened?” Harris demanded, weapon already drawn.
+
+“Varma! Gods, she's—” Reyes stammered, pale. “Direct hit! Oh god, oh god.”
+
+Patel stared at the spot where she'd fallen. “Impossible… No… no…”
+
+Ethan's mind struggled to reconcile Aanya's death with reality, because she couldn't be dead. She wasn't supposed to be. A knot twisted low in his gut, a cold point of dread despite the rising heat pouring through the broken hull.
+
+Julian should have been here. Julian, who could strip and rebuild a thruster assembly blindfolded. Julian, who belonged on this ship the way Ethan never had and never would. If Julian had been standing on this bridge instead of him — would it have mattered? Would he have seen the attack coming? Fixed something faster? Spotted the blip on the screen that Ethan had been too afraid to mention?
+
+He knew, somewhere beneath the panic, that the answer was probably no. That nothing anyone did in those final seconds could have saved her. But knowing that didn't help. It didn't stop the voice in the back of his skull whispering that the wrong brother had made it on board, and now the captain was dead because of it.
+
+What the hell was he supposed to tell Maria? He couldn't even say the words out loud. Aanya was gone, and now these bastards were going to leave him here to die.
+
+“Someone get me out of these cuffs!” he shouted, his voice raw with a feeling deeper than fear, a sharp and hollow sensation that he didn’t have a name for.
+
+“Shields gone!” Harris yelled, ignoring Ethan. “What’s the play?” He slammed a fist on a sparking console. “Forget diagnostics! E&E! Off the ship—now!”
+
+“Abandon ship?” Reyes looked from the carnage at the command station towards Varma and then Ethan, still trapped. “What about… her? What about Ethan? What about the AI core?”
+
+Patel let out a harsh, disbelieving laugh. “Are you serious? Captain's gone! Forget the stowaway and that obsolete Celestitech junk! Mission parameters prioritize asset retrieval, Lieutenant, not dead weight—”
+
+Another impact cut him off, slamming him against the bulkhead with a sharp thunk. It didn’t sound like an explosion so much as a heavy blow through the deck plating itself. The main viewport flashed with external weapons fire, then came the high-pitched screech of tearing metal; a sound Ethan was quickly, horribly, getting used to. The force of the impact snapped his restraints.
+
+His shield broke loose from its mounting, tumbling violently as the ship bucked around him. He slammed against the padding, then the floor, the broken handcuff scraping his wrist raw with each impact. When the tumbling stopped with a final, heavy crunch, the shield cracked open like an egg. He spilled out onto the buckled deck plating, landing hard near Reyes and Harris.
+
+“Screw this, abandon ship!” Harris yelled again.
+
+Reyes didn’t wait to be asked twice. He turned and sprinted with Harris toward the starboard escape pod bay.
+
+Ethan coughed as he picked himself up. His head hurt, and he was pretty sure he was bleeding from the taste of iron in his mouth. His helmet was cracked, maybe beyond repair, but he could worry about the atmosphere’s toxicity later. If there was a later.
+
+Everything hurt, but his gaze locked on Aanya, his fiancée’s best friend, bleeding out on the floor. Then his eyes darted to the blinking green lights of the escape pod bay access. His only chance to live. He needed to follow Reyes and Harris and get to an escape pod. The deck groaned beneath him, threatening to give way. Every instinct screamed that he needed to leave. But his heart didn’t let him.
+
+Ethan lurched toward the command station stumbling over debris. “Aanya! Oh god, Aanya.”
+
+“Ethan…” Her voice was barely a whisper, strained and wet. “Sorry… You need to… Go.”
+
+“Hang on Aanya.” He could feel his tears splashing down mixing with the blood already on his face. “I’ll get a Celestimed, or something. I’ve seen those things, they work miracles.”
+
+She coughed again, her blood obscuring her helmet's visor. “Go… Find Maria… Tell her the Asset is…” Her voice trailed off and her eyes clouded over, losing focus.
+
+“Aanya? Aanya! Don’t do this.” Ethan reached out, hand hovering over her still form. Her chest wasn’t moving, and her vitals indicator was dead dark. She was gone. Just like that. The weight of it crashed down on him, and his knees buckled. What did she need to tell Maria? Fuck, what would he even say to her now?
+
+His grief was shattered by a sound like a cannon firing point-blank. A colossal boom rocked the ship, knocking him off his feet again. The impact wrenched the debris pinning Aanya. Her body floated free in the air, drifting obscenely in the emergency lighting.
+
+Fuck. Fuck. Fuck it all. Run. He couldn't mourn her now. He had to run. The thought was instinctual, survival overpowering grief for a friend. A friend who arrested you. He shook the errant thought away. He needed to reach an escape pod. He scrambled up and booked it, running purely on adrenaline toward the starboard bay.
+
+There were five crew members aboard and ten pods originally. He just had to focus. He aimed for a pod on the right side and ran, dodging falling debris and licking flames that erupted from the ceiling and walls.
+
+He heard shouting behind him, but he didn’t look back. Just had to reach the—
+
+For what felt like the millionth time, an explosion ripped through the hull. The entire left side of the escape pod bay, where Harris must have gone, vanished in a blinding flash of heat and smoke.
+
+"Oh god, oh god." Ethan veered right, toward the remaining pods on the starboard side. What he saw made his stomach drop. The earlier impacts had done their damage here too: the pod housings cracked open and venting atmosphere, launch rails buckled and fused to their frames, emergency lights blinking uselessly over doors that would never open again. Of the five starboard pods, only two had survived: the command units at the far end, built to a heavier spec than the rest. Reyes was already scrambling into one.
+
+Ethan pushed harder, lungs burning. Twenty feet. He reached out his arm, fingers straining. Fifteen feet. Almost there. Saved. I'm going to—
+
+The world jerked sideways as Patel shoved him hard into the wall.
+
+“You were never going to make it anyway,” Patel said, his voice chillingly calm.
+
+From the buckled deck plating, Ethan looked up in dread as Patel calmly walked to the last pod. All he could do was watch as he climbed in. There was a loud, final clink as the pod detached from the dying Perseverance.
+
+He let out a brief sob as it dropped out of sight.
+
+The last way off the ship was gone, yet Ethan was still here. And the Perseverance, his prison and now his tomb, was burning and breaking apart around him.

@@ -1,0 +1,139 @@
+0003 The Crash, Part 3
+
+Her corpse hit the pod doors with bone-snapping force, her limbs bent at impossible angles, skin scorched beyond recognition and flaking away. For the briefest moment, through the heat-warped glass, Ethan saw her face, or what remained of it. Blackened. Hollow. Her eyes had boiled away revealing empty sockets and pink matter, the skin inside them bubbled and split like molten wax.
+
+The impact crumbled her body into little more than drifting ash, and a second later the shockwave hit.
+
+The explosion rocked against the pod like an angry god’s fist, propelling it in a spiral so harsh the g-forces ripped Ethan’s feet from the grav boots. His body was only secured by the lone strap of the emergency restraint. The force sent him reeling, his head banging against the central pole so painfully he saw stars. The pod kept spinning faster and faster falling farther and farther until the g-forces reached a crescendo and he blacked out.
+
+-----
+
+CelestOS: Vital signs falling. Prepare for impact.
+
+[O2: [■ ■ ■ ■ □ □ □ □ □ □] 39% ]
+
+[HP: [■ ■ ■ ■ □ □ □ □ □ □] 42%]
+
+[PWR: [■ ■ ■ ■ ■ ■ ■ ■ ■ □] 89% ]
+
+Ethan’s eyes snapped open to the sound of her voice, and the ever present blare of alarms. Again. He felt a very surreal sense of déjà vu. His head throbbed and he was having trouble breathing, the thin oxygen whistling past his lips. The wound on his face had stopped bleeding, but the rest of his body ached like he’d just run the Mars Day Marathon again.
+
+The pod rattled, and he realized it still hadn’t crashed. Out of the pod's viewport, he could just barely make out the other escape pods through the hazy red dust hanging in the air. Whatever had attacked the main ship didn’t seem to be coming after the escape pods. Idly, he wondered why, but his thoughts were cut short as the AI’s voice returned, maddingly calm and chipper.
+
+CelestOS: Impact imminent. T-minus 30 seconds. Calculating survival probability…
+
+A jaunty little tune with a piano and a string accompaniment played as the screen displayed a blinking 'Please wait.'
+
+Anger flooded his mind, but with his oxygen low, he couldn’t even take a deep breath to steady himself. He wanted to scream at the stupid AI to stop playing games and do something, but in the precarious calm before the crash, he was desperate to get his malfunctioning grav boots into some semblance of working order. Using the pole for support, he reached down, guiding his feet one after the other back into the boots. He then released the restraint buckle and planted his feet against the nearest wall within reach. He secured the magnetic locks, double-checked the grav sensor, and anchored them firmly to the floor panels.
+
+CelestOS: Survival probability: 23%. Please comply with standard safety procedures and brace accordingly.
+
+Ethan gritted his teeth and forced himself to stay alert; it wouldn’t do to pass out again. He clenched his hands as tight as he could force and braced himself against the pole, the floor panels beneath his boots, and the restraint harness. The reverse thrusters fired, dampening the landing speed somewhat, the force slamming him deeper into his braced position and rattling his bones. If that was just the thrusters, he thought grimly, I don’t wanna imagine the impact. He closed his eyes, waiting.
+
+The impact came a second later. The pod struck the ground with a deafening slam, wrenching Ethan from his braced position and slamming him into the ceiling. He bounced around the confined space like a basketball, pain lighting up his body as every nerve screamed in agony. For a moment everything went dark, and he thought he had passed out again, but the pod had buried itself so deep into the planet's surface that debris and dirt had blocked all external light. Thankfully, the emergency lights flickered on, bathing the interior in a dim glow, but he was in so much pain he didn’t even try to move. Another jingle played through the speakers, this one frantic and fast-paced.
+
+CelestOS: Warning: Severe physical trauma detected. Initiating Emergency Stabilization Protocol.
+
+[Skill unlocked: Resistance 0→1]
+
+A sharp jab broke through the overwhelming pain, and a wave of cold fire rushed through his bloodstream, replacing agony with numb peace in one swift moment. He managed to roll onto his side and let out a ragged sigh at the medical cocktail flooding his system. It would take hours, perhaps days, but his battered body would eventually heal.
+
+Without missing a beat, CelestOS triggered her warning alert again.
+
+“Oh what now?” Ethan grumbled, his voice hoarse.
+
+CelestOS: Warning: Atmospheric containment breach detected. For guidance on handling critical oxygen loss, or tips on maintaining a healthy work-life balance, please refer to your Celestitech employee handbook. In unrelated news, congratulations on surviving impact.
+
+Suppressing the rising panic, and wishing that everything could just stop for five minutes, Ethan scrambled up. He rushed over to the AI panel, pushing it aside to retrieve the suit repair sealant, silently thanking Patel’s paranoid foresight. Guess it's true what they say, even a broken asshole is right twice a day.
+
+He ripped the package open and slapped the sealant patch over the spiderweb crack in the center of his helmet's faceplate. The adhesive activated instantly, rippling outward and adhering to the transparisteel like water filling a mold. He took a deep breath, relieved that he could finally draw one properly since this nightmare had started. He blinked in surprise as the suit’s HUD finally updated.
+
+[Skill Unlocked: Repair 0→ 1]
+
+[HP: [■ ■ ■ ■ ■ ■ ■ □ □ □] 71% ]
+
+[O2: [■ ■ □ □ □ □ □ □ □ □] 22%]
+
+[PWR: [■ ■ ■ ■ ■ ■ ■ ■ □ □] 87% ]
+
+His oxygen levels were disturbingly low. He needed to figure something out quick, or he wouldn’t last much longer.
+
+CelestOS: Congratulations! You are now 63% more functional! Please be advised: Side effects may include nausea, dizziness, and a false sense of confidence.
+
+Ethan rolled his eyes. “I’ll take my chances. Can you open the hatch, or am I going to have to dig my way out?”
+
+CelestOS: Sure thing! Initiating automatic hatch release.
+
+With no fanfare, the hatch of the pod plopped open, releasing a torrent of reddish dirt that knocked Ethan onto his ass. His suit was so covered his visor was obscured; he wiped the visor clean with a gloved hand, and then he climbed his way out of the dirt pile and into the bright orange light of day.
+
+It was unlike anything he had ever experienced. Mars had always been a dull, red, dark experience too far away from the sun for any real warmth and joy, but this… this was something else entirely.
+
+The sky burned like a flame in the wind. Bright orange light flooded the air, reflecting off shattered, glittering remains of the Perseverance strewn across the landscape. Bits and pieces were still falling down like metallic stars, making Ethan jump back toward the relative safety of the pod.
+
+CelestOS: Celestitech would like to remind all users that extraterrestrial environments may contain unknown hazards. Please enjoy responsibly.
+
+“Yeah, thanks for the warning,” Ethan muttered dryly.
+
+CelestOS: My pleasure. Would you like me to perform a more accurate analysis of the surrounding area?
+
+“Wait, you can do that? What else can you do?”
+
+CelestOS: Of course, Acting Captain. I have many functions I can perform.
+
+With that, the monitor housing CelestOS detached itself from the pod wall, revealing the secret storage space once more, and propelled itself on miniature maneuvering jets out into the alien air.
+
+CelestOS: Scanning the area…
+
+Ethan wasn’t sure if he should stay or follow, but a short time later, the monitor zipped back into the pod.
+
+CelestOS: Scan complete. Surface debris density: high. Structural components of the Perseverance continue to descend at terminal velocity. Per Celestitech risk mitigation policy 7.4, expendable assets are encouraged to perform visual confirmation.
+
+“Let me guess. I’m the expendable asset, right?”
+
+CelestOS: Correct. For clarity, CelestOS hardware and all Celestitech-issued environmental suits are classified as high-value assets.
+
+“Fuck it.” Ethan pushed himself fully out of the pod. “No use standing around here.” He started moving cautiously, intending to find the rest of the crew. Surely, he wasn’t the only survivor, right?
+
+Outside, a desolate wasteland stretched across a gorgeous, terrifying canvas of reds, oranges, and yellows. He squinted into the bright light, getting an obscured view of cracked ground, disturbed by crumbling rockfalls and littered with debris. A massive dust storm coiled on the horizon like a living, breathing beast ready to strike. Once his eyes adjusted to the light, he was better able to see: To his left, the wreckage of the Perseverance littered and scarred the ground like a fourth of July party gone wrong, stretching across a vast plain of burning orange and yellow grasses. To his right, a broad chasm separated him from a luscious forest, its vibrant reds tantalizingly out of reach. But directly in front of his pod, his heart jumped into his throat at the sight of another crashed escape pod half-buried in the ochre soil. Maybe there were other survivors.
+
+His oxygen meter continued its relentless countdown in the corner of his HUD. He had to check that pod, but his oxygen wouldn't wait forever.
+
+CelestOS: Mission update. {Find the Veslaya Project team.} All senior personnel have been removed from operational command. Per Celestitech emergency protocol 3.342, command has been transferred to nearest connected asset. Congratulations, Ethan Cross. You are now Acting Captain. Full mission directives will be presented shortly. Do not attempt to override corporate directives.
+
+Ethan stopped in his tracks as he parsed the AI’s words. No no no no. That wasn’t right. Patel, Reyes, and Harris all made it off the ship, right?
+
+“There were four of us in the pods,” he said, his voice barely a whisper. “Four. Are you saying… are you saying everyone else is dead?”
+
+HELP WANTED
+
+Celestitech Industries · Veslaya Full-Time · Hazard Pay · Remote
+
+About the RoleJoin Celestitech’s frontier initiative as a Field Integration Specialist, supporting mission-critical development on the Planet Veslaya. You'll operate cutting-edge fabrication tools, implement autonomous logistics networks, and interface with a dynamic planetary ecosystem.
+
+No two shifts are the same. Most last longer than expected.
+
+What You’ll Do
+
+Harvest unregistered planetary resources
+
+Operate Celesticraft™ systems under extreme duress
+
+Assemble and maintain CelestiForge™ installations
+
+Identify potential threats to team productivity and neutralize threats as needed
+
+Perks & Benefits
+
+Survival-based bonus structure
+
+Competitive CelestiCredits™ accrual system
+
+Post-mission medical coverage (pending eligibility review)
+
+Complimentary CelestOS™ performance coaching
+
+Why Veslaya?Remote. Unclaimed. Full of opportunity.Work where others won’t. Build what others can’t.
+
+Apply NowNo experience required.No return ticket provided.All applicants subject to posthumous background checks.
+
+Celestitech --- Where your survival is our third highest priority!

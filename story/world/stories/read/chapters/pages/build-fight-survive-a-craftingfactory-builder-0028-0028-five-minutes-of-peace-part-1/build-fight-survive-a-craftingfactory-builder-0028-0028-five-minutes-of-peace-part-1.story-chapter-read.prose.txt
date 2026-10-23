@@ -1,0 +1,115 @@
+Chapter 0028, Five Minutes of Peace, Part 1He pressed his thumb to the drill schematic.[CONFIRM: T1 Automatic Drill]
+
+CelestOS: Acknowledged. Celesticraft fabrication initialized. Inventory will be emptied. Tactical risk recorded. You have one hour, forty-eight minutes until nightfall. Celestitech assumes full confidence in your survival. Please proceed responsibly.
+
+Green light shimmered above the platform as the schematic came to life. A wireframe structure unfolded in the air, clean and angular, each piece locking into place with clinical precision. The chassis expanded outward, stabilizers forming at the base while the drill arm began a slow, deliberate spin in testing sequence.
+
+Ethan held his breath. The projection hummed quietly just an inch off the ground.
+
+The drill unit’s silhouette looked heavier than the others. It had thick plating across the body, reinforced joints, and a wide, tripod stance built for unsteady terrain. The claws at each base locked into simulated rock with a mechanical clack. The drill head turned again, steady and unforgiving.
+
+CelestOS: Estimated build time: 36 seconds. Please maintain distance from the active fabrication field. Hot components may cause irreversible dermal loss or spontaneous hardware integration.
+
+Ethan stepped closer to the schematic. The wireframe hovered waist-high, slowly rotating. Each part of the T1 Automatic Drill was outlined in glowing green, waiting to be filled.
+
+He reached into the ingot pile and collected a stack of iron ingots. As soon as he brought the first one near the frame, a magnetic pulse drew it in. The ingot floated forward and snapped into place with a low chime. The wireframe shifted as it accepted the material, lines adjusting around the new mass.
+
+One by one, he added the others. Ten total. Each locked into the skeletal chassis, shaping the body panel by panel.
+
+The Basic Gear and Mechanism came next. He held it steady, then guided it to the rear housing. A soft glow pulsed as the schematic confirmed placement, and the component rotated into alignment.
+
+The two T1 Power Cells followed, slotting into the base with a distinct click. Energy lines spread across the frame, pulsing outward like veins. The schematic brightened as the unit came to life.
+
+Last came the Binding Agent. He unscrewed the canister and poured three precise measures into the intake slot at the top of the frame. The fluid lifted and dispersed into invisible seams, reinforcing joints and locking moving parts into place.
+
+The wireframe pulsed once. Then again. A rush of light spread from the base upward as the entire construct solidified. The green gridlines vanished, replaced by hard alloy and humming cables. The conical drill bit materialized last, forming in a slow spin before dropping into place with a magnetic thud.
+
+A soft tone echoed in his ear.
+
+[FABRICATION COMPLETE – T1 AUTOMATIC DRILL READY FOR DEPLOYMENT] [Skill: Crafting 5 → 6]
+
+CelestOS: Warning: Unit weight exceeds safe Unit transport limits. Please lift responsibly. Injury sustained during deployment is not covered by Celestitech field policy. Have a productive day.
+
+“Wait, you cant carry this thing for me? What the hell?”
+
+CelestOS: Affirmative.Ethan stepped forward, panting now, his body aching in places he didn’t want to count. He crouched beside the drill and wedged his arms underneath. It was warm and dense, far heavier than it looked.
+
+“Come on,” he grunted.
+
+The sun was starting to fall, and he had somewhere to dig.
+
+The drill fought him every step of the way. Ethan had wrapped a length of reinforced cable around the chassis and slung it over one shoulder like a dragging harness. The thing was denser than it looked, every part of it packed with motors, stabilizers, and armored plating designed to survive on a hell-world. He half-dragged, half-staggered across the red plain, his boots skidding through powdery soil that shifted underfoot like ash. Sweat blurred his vision, and his suit's power dipped again as the internal climate system strained to keep him moving.
+
+CelestOS: Caution. Sustained exertion with inadequate hydration may result in cardiovascular failure. Please consider dying in a less disruptive location.
+
+“Not now,” he muttered, adjusting the cable and leaning harder into the pull.
+
+Ahead, the ground changed. The flat dust gave way to cracked stone that was darker and veined with jagged mineral deposits. A small fissure cut through the center, no more than a meter wide. It was enough. Raw, black ore jutted out from the edge like exposed bone. It was a beautiful sight, and it would have to be enough. He dropped the cable and let the drill crash to the dirt with a grunt.
+
+CelestOS: Surface deposit detected. Composition: 63% ferrous ore, 11% silicates. Suitable for deployment.
+
+Ethan crouched beside the unit, popped open the control panel, and tapped in the activation sequence. The drill lit up instantly. Its stabilizers hissed as the tripod arms extended with a mechanical snap, digging into the soil with brutal precision. Then the drill arm rotated twice and plunged downward. The sound was awful, a scream of metal grinding through rock. A rising vibration rattled Ethan to his teeth. Chips of ore flaked up around the edges as the unit began its slow, spiraling descent into the vein.
+
+CelestOS: Material yield estimate: moderate to high. First payload expected in four minutes. Please consider returning to camp to avoid unnecessary death.
+
+Ethan sat beside the unit, his chest heaving. The sun was dipping lower, casting long shadows across the terrain. Somewhere in the distance, wind howled across a broken ridge. He figured he could carry one load back before dusk, maybe two if he didn’t stop to breathe. He stood again, cracked his neck, and turned back toward camp. The forge wasn’t going to feed itself.
+
+The first payload dropped with a dull clang. Chunks of raw ore spilled from the drill’s feed chute into an attached collection bin. They were jagged, irregular, and still warm from the friction. Most were iron-heavy, glinting dully in the light, but a few shimmered faintly around the edges with reddish-gold veins that pulsed ever so slightly.
+
+Ethan eyed the growing pile, then glanced over his shoulder at CelestOS’s chassis. “Hey, you’ve got arms. Think you could haul a few crates back to camp?”
+
+A brief pause. Then the cheerful voice crackled through his comms.
+
+CelestOS 4.2: “Reminder: I am a Celestitech™ Logistics AI, not a conveyor belt. Transport services require an active Heavy-Automated Freight Relay license.”
+
+Another pause.
+
+CelestOS 4.2: “Would you like to purchase a Portable Conveyor Module (PCM-1) for the low price of 50,000 CelestiCredits™? It features cutting-edge self-rolling action, certified for up to three whole trips before overheating.”
+
+Ethan grunted. “Of course it does.”Now he needed to figure out how to get this all back to camp. -After 10 minutes of searching the crash site, he found a usable crate to lug the ore. It was a make shift solution, but with the sun getting closer and closer to the edge, he was running out of time.
+
+Back at the drill, he tipped the bin into a repurposed crate, strapped it to a sled frame he’d scavenged from the wreckage two days prior, and started dragging.
+
+The return trip took 5 minutes. His second trip was slower.
+
+[HP: [■ ■ ■ ■ □ □ □ □ □ □] 41%][PWR: [■ □ □ □ □ □ □ □ □ □] 9%]
+
+CelestOS: Suit power at 9%.Please consider hydration and horizontal rest.
+
+“Later,” Ethan growled.
+
+The 3rd haul, the final one before he had enough for the turret, nearly broke him. His legs felt like rebar wrapped in torn muscle and his lungs burned. He barely noticed the blood anymore. He dumped the final batch into the forge’s smelter input and collapsed to his knees, fingers curled in the dirt. He couldn't move.
+
+CelestOS: Ore intake complete. Refinement process engaged. Iron output in two minutes. Copper wire production queued. Suggested fabrication sequence: Tier 1 Auto-Turret.
+
+Ethan just stared at the forge as it rumbled back to life. Heat surged up through its side panels, and the exhaust fans kicked into full gear. Molten iron flowed in tight streams across internal channels, shaping into bars one by one. He checked the time and saw he had fourteen minutes until nightfall. He wiped sweat from his face with the back of his hand, pushed himself upright, and whispered, “One more build.”
+
+T1 Auto-TurretDescription: Deployable kinetic defense platform. Tracks and neutralizes hostile entities.Components Required:• Iron Ingot ×12• Servo Motor ×2• Copper Wire ×30• T1 Power Cell ×2
+
+CelestOS: Schematic confirmed. Fabrication initiated. Warning: You are out of copper wire. This will be your final Tier 1 fabrication unless materials are replenished. Celestitech reminds you that survival is a subscription-based service.
+
+The turret’s wireframe snapped into existence above the platform. It was sleek, compact, and lethal, showing a tripod base with magnetic clamps, a dual-barrel rotary gun, and a micro-sensor cluster spinning in tight circles. The wireframe turned slowly, casting faint red shadows across Ethan’s face. He staggered backward and leaned on the forge, every breath a forced push. His power levels were rising now that the fuel burner was running steady, but his body felt hollow. He had burned through his hydration, nutrients, and stamina.
+
+CelestOS: Estimated fabrication time: 2 minutes, 11 seconds. Current time until nightfall: 00:07:54. Please enjoy responsibly.
+
+Ethan was about to sit down when he heard it. It was a soft crunch, not the sound of metal or machine, but of gravel under pressure.
+
+He turned. Out past the tree line, what little of it remained, a silhouette moved. It was slender and low to the ground, gliding rather than walking. Another one followed, and then a third.
+
+CelestOS: Alert. Motion detected outside perimeter boundary. Lifeform classification: Unknown. Estimated arrival in forty-seven seconds. Fabrication incomplete.
+
+Ethan’s heart dropped. He scanned the clearing for anything he could use, perhaps a pipe, a crate, or a sharpened rod. Nothing would buy enough time. He looked up at the turret. Its chassis was halfway finished, its main body still hollow, and its weapon barrels unfused. The forge was pouring metal faster now, trying to keep up. The scent of scorched resin and grease filled the air. He stepped toward it with his hands clenched.
+
+“Faster,” he hissed.
+
+CelestOS: This is maximum fabrication speed. Would you like to complete a satisfaction survey?
+
+A shriek echoed across the ridge, much too close. Ethan didn’t flinch. He just kept staring at the turret as the red glow in the woods crept steadily closer. Then, with a final hiss and snap, the turret locked into place.
+
+[Skill: Crafting 6 → 7]
+
+Ethan took a step back, his eyes bloodshot but gleaming. The weapon wasn’t pretty, but it was upright, stable, and even had a motion-tracking sensor that hummed softly as it came online. It felt like progress, almost like safety. He slumped down beside it, still clutching the wrench. The forge flickered behind him. His suit was low and his ribs ached, but for one impossible moment, the night didn’t feel so deadly.
+
+“Finally,” he muttered, breathing out. “Five minutes of peace.”
+
+The turret pivoted slightly, tracking wind-blown dust, and Ethan smiled. Then the ground rumbled as a shadow fell across him.

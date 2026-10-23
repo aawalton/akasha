@@ -1,0 +1,81 @@
+Part Two: Red Resin0017 Alone, Part 1The horizon blurred in his vision, a shifting sky of reds and browns; the sandstorm swirled like an angry god over the wreckage of the Perseverance. Ethan stood at the edge of the encampment, boots half-buried by the haze, staring into that endless, suffocating mess. His heart pounded and his head throbbed, but whether it was from wear and tear or frustration, he didn't know.
+
+His HUD flashed briefly as his oxygen ticked down another point. Everything was in the green, though, and he felt good about that, at least. Reyes’s location tracker, just like Dr. Patel’s, and Maria’s, couldn't be adequately detected within the storm. The other man’s last known location was just a giant X, as if CelestOS didn't want Ethan to forget.
+
+“Come on Reyes, where the hell did you go?” Ethan muttered, his voice hoarse from prior yelling. Despite the earlier administration of the Celestimed, he was starting to get thirsty again and knew hunger wouldn't be far behind. The wind buffeted his suit as he continued searching for the other man. He walked the entire perimeter, hoping for just a glance.
+
+But there was nothing he could do. To make matters worse, despite the miracle of the medicine, the ache in his arm hadn’t gone away. He felt helpless despite his earlier victories.
+
+He clenched his fists and tightened his jaw against the pain. He wouldn’t let it win. CelestOS’s voice crackled to life, arrogant but also, somehow, kind.
+
+CelestOS: Lieutenant Reyes is currently beyond my detection range. Recommended course of action: Focus on core objectives, and track Reyes when supplies are stable.
+
+Ethan’s shoulders slumped. If the corporate overlords were reining him in, there probably wasn't much to be done. “You cold and heartless bitch. I thought I was the only expendable one?”
+
+He knew what the AI would say before it even spoke, and it still grated his nerves.
+
+CelestOS: Prioritizing injured personnel retrieval at the expense of critical survival tasks is suboptimal. Please review risk analysis protocols before any further actions.
+
+“Risk analysis? I’m the expendable one, not him!” The shout tore from his lips before he could stop it. The sound of his own voice felt alien, swallowed almost immediately by the roar of the wind.But the anger abated as quickly as it came. He knew it wasn't the AI's fault, and having it get on his bad side because of his behavior, well, that could wait.
+
+“Alright, what do we need to do?”
+
+–
+
+Ethan quickened his pace as he set off across the brittle and red-streaked terrain. A two-foot-high layer of dust covered everything. The heat of the day, while still potent, was starting to dissolve into the early evening dusk.CelestOS pinged an alert, marking the first resource on his map.
+
+CelestOS: Resource node: Iron deposit detected. Please use at least a T1 CelestiDrill for optimal resource recovery.
+
+“Yeah, yeah, I see it,” Ethan said. He took off at a jog, his breathing steadier than he’d ever noticed before. Those skill level-ups were making a significant difference in his quality of life, but still, he could feel the ache in his legs from how active his morning had been. A miracle though the Celestimed may have been, his body still felt sore.
+
+The iron vein wasn't too far from where the last one had been, just half a kilometer north. It jutted from a fracture in the ground like a bone poking through skin, and Ethan could tell there was much more iron in the vein than what he’d be able to scrape away with his pick from the surface.
+
+Ethan hefted the pick with a two-handed grip, marveling at how much easier it was when he could use both hands. He swung down hard. The impact rattled against his frame, a dull ache flaring from the Celestimed injection site, but he ignored it. It was nothing compared to the pain from earlier that day.
+
+Sparks flew like fireworks with each hit, the sound sharp in the dusty air. The iron clanged stubbornly, refusing to budge, but he persistently kept at it. CelestOS chimed in, as unhelpful as always.
+
+CelestOS: User output efficiency 62%. Consider incorporating ergonomic best practices for reduced strain.
+
+“Shut up,” Ethan growled over the pounding of his pickaxe. A little hard work never hurt anyone, despite what his friend Cogs used to say. His muscles burned from the exertion, but as Ethan always found in life, hard work usually pays.
+
+[Mining: 3 → 4]
+
+The message glowed briefly in his HUD, then vanished to the notifications button.
+
+CelestOS: Congratulations! Celestitech commends you on your commitment to continuous improvement. Your mining efficiency is now 5.7% higher!
+
+Finally, with a loud groan of effort and a metallic pop from the ore, a chunk of iron sheared off. It tumbled free, clanging against the ground. Before Ethan could do anything, a faint whoosh filled the air as CelestOS propelled itself towards the ore, extended a mechanical arm, which Ethan noted she claimed not to have, and with a neat, controlled motion, scooped up the iron chunk, storing it inside her hidden compartment.
+
+CelestOS: Resource acquired. Amount 20/50. Thank you for your contribution to the Celestitech survival initiative. Your contributions will be footnoted.
+
+Ethan scoffed, then hefted the pick again; he had several more ores to gather.
+
+Twenty minutes later, CelestOS reassured Ethan that they had all the Iron Ore needed until they could advance to making the Tier 1 drills. He was excited for that. He had no idea how he had survived the day so far. It was exhausting and not something he’d ever managed to do before.
+
+CelestOS: Distance to target: 5.24 kilometers. Topography analysis: terrain includes elevation change, unstable ground, and two minor waterways. All of which are classified as hazards under Celestitech’s Off-World Risk Management Guide. Available now for 467 Celesticreds.
+
+He let out a low breath, shaking his head. “Not now please, Cel. We have work to do; chill with the ads.” He turned toward the next marker, a green blip so far away to the west, further than he’d gone before. As he made his way, just past the swamp where he fought the large fly, the land dipped into a deep basin – bone dry and scorched, as if something had ripped a chunk out of the earth and set it on fire. Yet, in the dead center of the basin, as if taunting its surroundings, was a wide and deep river.
+
+The copper was just past that, up the far side of the cliff face he was not looking forward to climbing.
+
+“Figures. Of course, this wasn't going to be easy.” Ethan already wanted to go back and take another nap. His eyes felt so heavy despite the few hours he had stolen.
+
+The slope down to the water was treacherous. The ground crumbled underfoot, rocks skittering down the incline as the grav boots struggled to find purchase. He kept stumbling forward despite their built-in protections. He moved more carefully, making sure he wouldn’t slip into the water or get hurt.
+
+The noise grew as he approached: an angry rushing sound, the water churning over large rocks embedded within. It wasn't a gentle stream by any means. It was a rapids, fast-moving water frothing and swirling like a rabid dog, chewing at the banks as if it were hungry.
+
+“Cel,” Ethan said. “Any suggestions on how not to die while trying to cross that?”
+
+CelestOS: Hazard analysis: River width 27.2 meters, current speed: 18.4 kilometers per hour. Warning: probability of hypothermia, blunt force trauma, and drowning upon entry exceeds acceptable thresholds for survival. Recommendation for expendable units: Go anyway.
+
+Ethan let out a short, quick laugh. “Yeah, that sounds about right.” He stared at the rapids, the copper glinting from the cliff face just beyond like a promise he couldn't reach.
+
+He clenched his teeth, heart already threatening to beat its way out of his chest. The water snarled below, a chaotic mess of foamy whitecaps and dark, swirling currents. Jagged rocks jutted up like broken teeth, half-submerged and gleaming wet in the harsh orange sun.
+
+CelestOS overlaid a holographic path to follow. Bright yellow markers pulsed over the largest rocks in the river, a dotted line tracing an almost impossible route across the mad trek.
+
+He gulped.
+
+CelestOS: Optimal traversal route identified: seven jumps, each increasing in difficulty. Success probability 2.4%. Good luck!
+
+She promptly flew to the other side, as if to wait for him to make it across.

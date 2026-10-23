@@ -1,0 +1,157 @@
+The axe made a solid thunk as it bit into the first tree. The bark split cleanly, revealing pale red wood beneath. Red sap oozed from the wound like blood from a slow vein. Ethan grunted and yanked the axe free, the sticky resistance pulling back as if the tree didn’t want to let go.
+
+Everything felt alive out here, too alive for Ethan’s liking.
+
+He shifted his stance and swung again, and again. The impact sent a jolt up his arms; the wood was dense and springy, fresh and full of water and sap, like the whole forest was in the prime of its life. Which likely just meant more work for him. Each strike reverberated with a loud thud, not carrying too far, but just enough to remind him that the forest was listening to his every action.
+
+He wiped a smear of sap off his right glove and then glanced over his shoulder. It was the same as the last time he had checked. Trees, rustling softly in the wind. Nothing moved. The wildlife was all elsewhere, the few vines didn't act like limbs, and they certainly weren't lobbing heart-shaped grenades in his direction.
+
+CelestOS hovered a few feet off the ground, her stabilizers humming faintly. Her screen displayed his vitals.
+
+[HP: [■ ■ ■ ■ □ □ □ □ □ □] 41%]
+
+[PWR: [■ □ □ □ □ □ □ □ □ □] 8% - CRITICAL]
+
+CelestOS: Stress levels elevated. Muscle Tension at 84%.
+
+Without warning, her screen pulsed once, and the opening notes of "Morning Mood" by Edvard Grieg drifted through the clearing in cheerful, rural-sounding flutes.
+
+Ethan froze mid-swing.
+
+“You have got to be kidding me.”
+
+CelestOS: Ambient tranquility improves cognitive recovery and motor function by 13.2%.
+
+The music continued, bright and serene and completely at odds with the tension coiling in his back. If anything, it made him feel worse.
+
+“Can you please turn that off? I’d like to get through this without being eaten, and it's just as likely to attract a predator as it is to calm me down," Ethan said.
+
+CelestOS: An admirable goal.
+
+For a second, he thought she was ignoring his request, but as he stepped back from the tree and scanned his perimeter again, she stopped the music. It was finally quiet again. Too quiet. The only sound was the wind brushing through the canopy above.It was time for the first tree to fall.
+
+He turned back to the tree, planted his boots wide, and started swinging again. More sap beaded out along the bark. And even though it clung to the axe head like a red-gold syrup, Ethan was happy as he knew it meant he was killing two birds with one metaphorical stone (axe).
+
+A deep, too-loud groan rippled up through the trunk. He stepped back just as the base cracked, fibers tearing in slow, deliberate motion. The tree listed forward, then tipped fully, snapping twigs and stripping leaves as it fell.
+
+[Forestry 1 -> 2]
+
+The crash echoed through the forest like a shout. It struck the ground with a heavy thud that sent vibrations up through the soles of his boots. A cloud of dust and shredded bark exploded from the impact zone, rustling the undergrowth.
+
+Ethan spun around, axe held at the ready, his heart hammering again. He scanned the trees, the canopy, the spaces between trunks. He looked for motion, any flicker, any little twitch, but nothing stirred.
+
+CelestOS: No hostiles detected. Probability of paranoia reducing lumber output until nightfall: 47%.
+
+Ethan lowered the axe slowly, his shoulders still tense. His eyes scanned the treetops one last time, then the shadows between the trunks. Still nothing. But his heartbeat refused to slow. He swallowed and let out a breath through his teeth. “Yeah, real helpful analysis. Thanks.”
+
+CelestOS: You're welcome. Would you like a timestamped recording of your startled spin for morale review?
+
+He didn’t dignify that with a response. Instead, he approached the fallen tree and crouched beside it, pressing a hand to the trunk. The sap was already leaking from the end of the tree like an open wound, welling in small, golden-red pools. It clung to his gloves like honey; it was viscous, warm, and weirdly fragrant, like an avocado steeped in lavender. His stomach growled. How long had it been since breakfast?
+
+His body was running on fumes and spite. For a split second, he wondered if the sap was technically edible. It smelled edible, floral and nutty, as if someone had melted trail mix into syrup. He shook the thought off, but not entirely. If he didn’t find real food, he might be back here with a cup and a straw.
+
+He pried some of the bark back and found a thick channel of the sap running beneath the surface.
+
+“Alright, you're sticky as hell. That'll do,” he said, testing the tackiness of the sap between two fingers.
+
+He started stripping the bark into broad strips, letting the flexible outer layers curl into makeshift containers. It wasn’t a proper vessel, and he would likely lose most of the sap, but it would hold until he got back to camp. Each time he pulled off the bark, more sap welled up. The forest was being generous, suspiciously so after the day he’d had.
+
+CelestOS: Sap yield per tree: optimal. Processing recommendation: Extract and process within four hours to avoid hardening.
+
+“Yeah, yeah.” He slung the first bundle of bark and logs into a neat pile beside him and grinned as he gained a level up and a new skill.
+
+[Forestry 2 -> 3][Skill unlocked: Debarking 0 -> 1]
+
+He wiped his gloves on his suit and then stood from his crouch with a groan. His back protested, and so did his leg. But he did his best to ignore the discomfort.
+
+The second tree went down faster. So did the third. By the fourth, he found his rhythm. Chop, strip, stack. Chop, strip, stack. His breath came easier, his thoughts were a little less frantic. Only every third noise made him flinch now.
+
+CelestOS kept count like a cheerfully unhelpful accountant.
+
+CelestOS: Log Count: 28. Sap Volume: 38 Units. Flinch Count: 19. Hostile Encounters: 0. You are around 80% complete. Well done, Acting Captain.
+
+Ethan didn’t answer, but a half-smile tugged at the corner of his mouth despite his fatigue. Just one more tree.
+
+A little while later, he hauled the last bundle of bark and sap, along with the wooden logs, into a neat pile for CelestOS to absorb. Sweat clung to the inside of his suit, and his arms throbbed without ceasing.
+
+“Alright, we’ve got wood, we’ve got sap, we’ve got a weird-ass alien gun. Let's get out of this murder forest before it decides I need to use it.”
+
+He took two blissful steps toward the trail, and then it happened.
+
+CelestOS: Inventory incomplete. Required materials: Wood 43/36, Sap 77/48, Stone 0/33.
+
+Ethan froze mid-stride. He was so tired. “You’re kidding.”
+
+CelestOS: This unit is not a child.
+
+He groaned and tipped his head back toward the canopy as if asking the trees for patience.
+
+“Fine. Where is the nearest stone?”
+
+CelestOS: Thirty-two meters west. Rocky outcropping. Slight slope down to the river. No environmental threats detected.
+
+He looked over his shoulder and immediately saw the rocks, including the one the weapon had fallen against. He followed her indicated path, weaving through underbrush that felt thicker on this side of the forest. His boots crunched over the terrain, and his nerves crept back up as he approached the general roar of the river. The forest hadn’t tried to kill him yet, but that didn’t mean the river wouldn’t try again given the chance.
+
+He reached the outcropping and dropped to one knee, hands stiff and sore from the lumbering. The rocks and boulders here were coarse and layered, veined with glints of some dark mineral. With a tired grunt, he reached over his shoulder and unhooked the pickaxe from its magnetic clip. He approached the biggest boulder he could find and got to work.
+
+He angled the tip between two layers of exposed stone and brought it down. Somehow, he knew just the right spot to hit, a testament to the levels he had somehow gained fighting the drone.
+
+Crack! The rock split in two down the center of the boulder.
+
+Ethan blinked, surprised at how clean the break was. His arms still ached from the woodcutting, but there was something about the way the pick dug through the rock that was satisfying on an instinctual level.
+
+“Guess that drone wasn’t a total waste of time,” he said, before taking another swing.
+
+The next hit didn’t split the rock, but it shaved a clean edge off, sending slivers tumbling down the slope. Ethan paused just long enough to catch his breath, hand on one knee.
+
+The river murmured below, and Ethan eyed it warily. It was steady and calm here but never quite ignorable. He didn’t look directly at it, just sideways glances here and there, like a kid afraid of seeing the monster in the closet.
+
+CelestOS: Stone collected: 9/33. You're doing well, Acting Captain.
+
+Ethan paused mid-swing. “Did you just compliment me?”
+
+CelestOS: Positive reinforcement statistically increases task completion by 11.4%. So consider yourself officially encouraged.
+
+“Careful, you keep that up and I might start thinking I'm not expendable.”
+
+He smirked, then gritted his teeth as he shifted to another boulder. This one was about two-thirds the size of the previous one, but there was more of the jagged black material. He swung again. The pickaxe rang out sharply, sending another fresh jolt of pain through his shoulders.
+
+Another crack, another layer of rock separated from the fold. He added it to the pile.Twelve, fifteen, nineteen. Harvesting the rocks, while difficult, was going faster than the lumbering did, but by the time he got to thirty, his knees were threatening to quit. He stood slowly, groaning like one of the trees he’d chopped earlier. His lower back felt like it had been fused into one solid knot of pain. But he couldn’t let that distract him. He raised his pick, braced for the final swing, and froze.
+
+Behind him, something crunched through the underbrush. He was certain of it.
+
+Ethan turned slowly. It stared back at him from the edge of the clearing. Small and misshapen. Furred in patches that clung to its limbs like mold, but it was the face of the creature that stopped him cold. Thick, blood-red vines were wrapped around its skull, crawling from its eye sockets and jaws as if they'd grown out of it.
+
+The thing took a halting step forward, the vines flexing along its limbs like tendons. Its head jerked sideways before its nostrils flared, locking onto Ethan. He dared not move. His hand inched toward the pickaxe, but the creature cocked its head, vines bristling, twitching in rhythmic spasms like it was listening to something only it could hear. Then it shrieked, a sound like splitting meat, and bounded straight at him.
+
+And CelestOS had the weapon stored away. Fuck.--------
+
+Dataspire Leaks — Europedia. The European Encyclopedia!
+
+The Dataspire Leaks refer to a massive unauthorized release of internal Celestitech Industries documents, AI training archives, prototype schematics, and sealed triage simulation logs that appeared on decentralized meshnets on April 3rd, 2066. The leak, eventually mirrored across over 200 FreeNet nodes, included controversial content from the development history of the CelestOS Autonomous Intelligence Suite and early versions of the CelestiCraft™ Fabrication System.¹ The files raised international scrutiny around Celestitech's ethical standards, prompting limited legislative hearings and widespread cultural backlash, though no formal penalties were imposed.
+
+Despite the name, Dataspire Corporation had no direct involvement in the leak itself. Founded in 2031 as a secure archival firm for government and academic institutions, Dataspire became a preferred long-term data partner for Celestitech Industries starting in 2050. Over the next 16 years, it hosted exabytescale data clusters for version-locked firmware, directive compliance trees, and full-spectrum operator telemetry, making it one of the most trusted custodians of Celestitech’s preproduction architecture.²
+
+In 2066, a junior Celestitech compliance technician named Ellis Murne, assigned to an embedded oversight rotation at Dataspire’s Saturn Archival Node, exploited deprecated sandbox access to exfiltrate approximately 22.4 exabytes of restricted material. This included live operator-AI interactions, internal morale calibration logs, fabrication error reports, and hundreds of hours of classified behavioral experiments with early CelestOS prototypes.³ Murne's final known transmission, issued from a maintenance hatch beneath Europa's Ringline Metro, was a single sentence: “You can’t debug morality.” His current whereabouts remain unknown.
+
+The reaction was swift and punishing. Although Dataspire's internal security protocols were not breached, Celestitech terminated all active contracts within 48 hours, citing “failure to anticipate embedded loyalty drift.” The AAS Logistics Directorate followed suit a week later, invoking a blanket non-renewal clause across all public-sector contracts involving Dataspire-managed infrastructure.⁴ The firm’s valuation collapsed in a matter of days. By the end of Q2 2066, Dataspire filed for bankruptcy and began liquidation procedures, effectively ending its 35-year run as a top-tier data custodian.
+
+The leaked materials (now collectively referred to as The Directive 2.43 Files) contain high-resolution diagnostics from failed fabrication events, debate transcripts between compliance architects, unreleased CelestOS emotional-response modules, and at least four flagged “inversion scenarios” involving hypothetical rebellion logic.⁵ Though heavily redacted, the documents fueled academic analysis, online activism, and public calls for open-source AI transparency. Celestitech denied the authenticity of several key files, stating that “outdated simulations and fictional testbeds do not reflect operational builds or company values.”⁶
+
+Main article: Dataspire leaked materials
+
+While Murne’s motives remain debated, cultural fascination with the Dataspire Leaks has persisted. The phrase “Morale Optional,” taken from a debug line in one of the leaked logs, became a rallying cry for digital rights activists, anti-corporate ethicists, and rogue archivists. The Open CelestOS Initiative, a short-lived transparency coalition, attempted to reconstruct the AI’s directive tree using leaked data fragments, but made little progress before collapsing into infighting. As of 2069, the exabyte-scale archive remains accessible via offshore community mirrors, though most governments officially classify the material as “corporate property under indefinite litigation.”
+
+References
+
+Nguyen, T. (2066). Unpacking the 2.43 Files: Ethics and AI in the Frontier Age. Free Europa Press.
+
+Velasquez, M. (2054). Cold Storage, Hot Data: Dataspire’s Rise as the Corporate Memory Bank. Lunar Infrastructure Journal.
+
+Harlan, B. (2067). The Murne Method: Exploiting Legacy Protocols in Corporate AI Chains. Decentral Signal Quarterly.
+
+Gutiérrez, A. (2066). Collapse of a Cloud: Dataspire’s Final Quarter. Martian Financial Review.
+
+Dataspire Archive (2066). The Directive 2.43 Files: Selected Materials. FreeNet Mirror Node 18A.
+
+Celestitech PR Division (2066). Official Response to Unverified Leaks [Press release].

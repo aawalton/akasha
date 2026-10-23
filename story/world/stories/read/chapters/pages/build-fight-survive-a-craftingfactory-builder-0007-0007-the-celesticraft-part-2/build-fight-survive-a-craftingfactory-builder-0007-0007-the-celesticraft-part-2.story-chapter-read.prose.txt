@@ -1,0 +1,169 @@
+0007 The CelestiCraft, Part 2
+
+Light flashed once, twice, three times. A moment later, where the raw materials had been, a solid-looking pickaxe materialized. A jagged silicate head fused by wire onto a sturdy metal haft. It looked crude but functional.
+
+Next, the axe. The green outline showed a sharpened piece of hull plating wedged into the split section of another metal bar, again bound with wire. Once more, he placed the items down and used the Celesticraft. In the hologram’s place, an axe appeared – basic, but sharp enough.
+
+[Skill Unlocked: Crafting 0 → 1]
+
+[HP: [■ ■ ■ □ □ □ □ □ □ □] 38%
+
+[O2: [■ ■ □ □ □ □ □ □ □ □] 10%]
+
+[PWR: [■ ■ ■ ■ ■ ■ ■ ■ □ □] 70% ]
+
+CelestOS: Basic tools fabricated. A commendable achievement under duress. You are now 18% closer to not dying! As payment for completing step 1, 45 Celesticredits have been placed in your account.
+
+[Mission COMPLETE: Desperate Measures – Part 1/3
+
+Objective: Fabricate T1 basic tools.
+
+Status: Functional
+
+Reward: 45 CC
+
+Proceeding to Step 2: Class D Oxygen Rebreather Unit.]
+
+[MISSION]: Desperate Measures[SCHEMATIC COMPLEXITY]: High - Sequential fabrication & diverse materials required.[CURRENT OBJECTIVE]: Step 2/3 - Fabricate T1 Oxygen Rebreather UnitStep 3/3 - Fabricate CelestimedCelestOS: Would you like to purchase the T1 Oxygen Rebreather Unit?“Yes, can’t you see im dying? Stop wasting time, goddamnit.”
+
+A notification appeared in his HUD: Schematic unlocked: T1 Oxygen Rebreather Unit. 25 CC have been debited to your account! Thank you for choosing Celestitech where your survival is our third highest priority!
+
+[T1 Oxygen Rebreather Unit -Tier 1 Recipe]: Porous Rock: 10xCopper Wire: 15xSilver Wire: 15xGold Wire: 15xMetal Scraps: 5xSensor Component: 2xPower Cell: 1xNozzle Adapter: 2xBinding Agent: 2x
+
+Ethan balked at the recipe list. How was he supposed to find any of this? And how was it going to be anywhere near the quality needed for the rebreather to actually function?
+
+“That’s a lot of items, Cel. Aren’t you worried about me failing this mission?”
+
+CelestOS: Mission failure by expendable assets is expected, but please do prove us wrong. Optimal collection route displayed on HUD.
+
+Ethan grabbed the new pickaxe. Swinging it awkwardly one-handed felt strange, but the weight was solid. CelestOS led him to a large boulder nearby. He swung hard. It was jarring, agonizing work, chipping away at the rock face, but less painful than kicking it had been. He found veins of the required porous rock within, gathered it up piece by painful piece.
+
+Next, he used the axe to hack through exposed cables snaking out from the wreckage, gathering as much copper, gold, and silver wire as he could find. It seemed like surprisingly expensive material for something so basic, but he couldn't afford to question it now.
+
+[O2: 9%] An alarm started blaring in his helmet. Replace oxygen tank now. Only 5999 Celesticredits!
+
+“Fuck your stupid fees!” Ethan gasped, stumbling towards the next marker.
+
+He located a flickering power cell in the exposed guts of Reyes’s ship and a compatible sensor component nearby, plucking both loose with trembling fingers. Finally, CelestOS led him to two nozzle adapters near a breached life support line. Panic clawed at him; he could tell things were getting bad. Spots danced in his vision, and his good hand developed a tremor he couldn't stop.
+
+As he rushed back, he could feel himself breathing heavier, ragged gasps that did little to fill his lungs. Panic tried hard to take control, but he fought it off. CelestOS brought up the green schematic without being asked. The wireframe Hologram appeared in front of him again. And then, a surge of panic rushed through Ethan. What if it didn’t work?
+
+Unlike the basic tools, this recipe was quite complicated. Which was the biggest flaw with the Celesticraft if he was being honest. The Celesticraft had two major drawbacks: it consumed an insane amount of electricity, and there was an equivalent exchange of quality. The more complicated the item, the higher the quality of materials needed; if one skimped on the quality of basic materials, then one skimped on the quality of the end product.
+
+He questioned how much use he would get out of basic tools made with scraps or an oxygenator composed of even more, but there’d be time to ask that after Reyes wasn’t knocking on death’s door.
+
+Ethan shook his head, and focused on the task at hand. The hologram sharpened into detail, revealing complex internal structures with labels for specific sub-components.
+
+[SCHEMATIC]: Class D Oxygen Rebreather - Component Breakdown
+
+[SUBSYSTEMS & MATERIALS REQUIRED]:
+
+[Oxygen Intake]:
+
+[Porous Rock]: 5x
+
+[Nozzle Adapter]: 1x
+
+[Sensor Module]: 1x
+
+[Particulate Filter]:
+
+[Copper Wire]: 10x
+
+[Silver Wire]: 7x
+
+[Gold Wire]: 12x
+
+[Vapor Exchange]:
+
+[Power Cell]: 1x
+
+[Porous Rock]: 5x
+
+[Binding Agent]: 2x
+
+[Sealing Connectors]:
+
+[Nozzle Adapter]: 1x
+
+[Copper Wire]: 3x
+
+[Silver Wire]: 4x
+
+[Gold Wire]: 2x
+
+[Suit Interface]:
+
+[Metal Scraps]: 5x
+
+[Sensor Module]: 1x
+
+[Copper Wire]: 2x
+
+[Silver Wire]: 4x
+
+[Gold Wire]: 1x
+
+Ethan was momentarily blown away by the intricacy. He dumped the new pile of components onto the ground near the hologram and began sorting them according to the sub-assembly requirements. He used the Celesticraft to snap each piece into place, the form of the rebreather starting to take shape within the glowing green outline, each piece fitting—
+
+CelestOS: ERROR! Incorrect sensor component detected for filtration matrix P-7. Potential for reverse polarity cascade upon Celesticraft activation. Recommend locating correct part. Searching…
+
+The same fucking hold music from earlier started playing softly through his helmet speakers as Ethan stared numbly at the oxygen meter.
+
+[ALERT]: Oxygen Level Critical
+
+[O2: [■ □ □ □ □ □ □ □ □ □] 5%]
+
+CelestOS: Warning! User Ethan Cross is experiencing acute cardiovascular strain.
+
+Ethan swayed, the world dimming at the edges. He was so close, and yet so far. For the first time since the crash, he seriously questioned if he could make it.
+
+CelestOS: sensor component Type G located within Pod NCC1701CAI’s onboard atmospheric scrubber system. Warning! User Ethan Cross is under the effects of severe hypoxia. Permanent neurological damage may occur if oxygen levels are not restored promptly.
+
+He took off blindly, air thin in his lungs, muscles achy, every scrape and bruise elevated to a level of pain he wouldn't have thought possible mere hours before, back in the glorious normalcy of orbit. He climbed back inside the relative cool of his own pod and used the axe to hack away at the wall panel CelestOS indicated. He dented gash after gash into the metal until he could pry it open, revealing the scrubber components hidden behind. The required sensor component practically glowed under the glare of his HUD – a cylindrical unit the size and shape of a soda can, bristling with ports and wires. He carefully pried it loose, praying he wouldn't accidentally destroy the fragile device he needed most.
+
+[O2: [■ □ □ □ □ □ □ □ □ □] 3%]
+
+CelestOS: Warning! User vital signs deteriorating rapidly. Cardiovascular strain detected. Celestitech strongly recommends purchasing replacement oxygen tank! Limited time offer! Now 25% off for the low, low price of only 8999 Celesticredits!
+
+Something seemed off about the price calculation, but Ethan's oxygen-starved brain couldn't process it. He ignored the alert, clutching the precious item against his chest as he stumbled out of the pod. He rushed back to the waiting schematic, which still hovered patiently in the air over the partially assembled rebreather. He slotted the new module into place, grabbed the Celesticraft, and activated it. For a terrifying moment, it seemed like it wasn't going to work. The Hologram frame flickered erratically as the module clicked into place, but then the light pulsed: once, twice, three times. And a steady, low hum filled the air.
+
+His oxygen meter dropped down to the final tick. The world went grey.
+
+[O2: [■□□□□□□□□□] 1%]
+
+Ethan closed his eyes, and…
+
+Product Line: CelestiCraft™ Portable Fabrication Suite
+
+The screen blazed white for a moment, then snapped into sharp color. A bolt, a leaf, and a cracked power cell floated briefly in frame before being dropped into a sleek, humming device the size of a briefcase. With a sudden hiss and a flash, the machine unfolded like high-end origami engineered by a madman with unlimited funding. A plasma rifle slid out of its casing, still steaming.
+
+The narrator's voice was chipper, punchy, and full of that unearned confidence reserved for people who say "trust me" before demonstrating they cant be trusted with power tools on live TV.
+
+“Tired of scavenging Martian junkyards and cobbling weapons together with duct tape and prayer? Time to upgrade your survival plan, introducing CelestiCraft™!”
+
+A man in a grease-stained jumpsuit stepped into frame, casually slapping a lump of raw ore into the device and thumbing a glowing button. In seconds, the CelestiCraft™ whirred to life and produced a perfectly sharpened pickaxe. The metal gleamed. A small nameplate on his chest read: ‘Steve?’
+
+“With just a handful of scrap and a mild disregard for thermodynamic law, CelestiCraft™ lets you become a blacksmith, engineer, chemist, gunsmith, architect, and legally questionable surgeon—all before breakfast!”
+
+A woman stood beside the device now, beaming as it spit out a mounted turret and a gleaming set of modular tools. She clipped one to her belt with casual confidence and gave a firm nod, as if this was the most normal thing in the world.
+
+“Imagine the power of a full-scale military R&D department—condensed into a single handheld unit that absolutely should not be this portable.”
+
+The screen pulsed with bold text:ENGINEERED FOR WOOD, METAL, STONE, UNKNOWN ORGANICS, AND MOST LEGALLY AMBIGUOUS MATERIALS.
+
+“Don’t waste time crafting by hand like some underpaid Earthling. With CelestiCraft™, your only limits are your inventory, and your pain threshold.”
+
+Another push of a button, another fabricated miracle. The narrator practically purred now.
+
+“Use it to build a pickaxe. Use it to forge a new identity. Use it to fabricate hope itself.”
+
+The final shot lingered on a lone survivor standing in a sandstorm, backlit by lightning, one hand raised in triumph as the CelestiCraft™ glowed spectacularly at his hip.
+
+CelestiCraft™
+
+With CelestiCraft™, it’s not survival—it’s science. Craft Fast, Craft CelestiCraft Just 129,499.95 CelestiCredits™.
+
+The screen faded, replaced by a sleek logo stamped in hard gray letters:
+
+CELESTITECH™ — Where your survival is our third-highest priority.

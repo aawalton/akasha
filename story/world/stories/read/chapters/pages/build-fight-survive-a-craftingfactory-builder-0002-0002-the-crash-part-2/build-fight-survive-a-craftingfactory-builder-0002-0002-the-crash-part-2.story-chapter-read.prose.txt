@@ -1,0 +1,81 @@
+0002 The Crash, Part 2
+
+[HP: [■ ■ ■ ■ ■ ■ □ □ □ □] 58% ]
+
+[O2: [■ ■ ■ ■ ■ ■ ■ □ □ □] 65% ]
+
+[PWR: [■ ■ ■ ■ ■ ■ ■ ■ ■ □ ] 89% ]
+
+Ethan shrugged and pushed himself up off the ground as alarms blared inside his suit. It was a high-pitched, grating shriek designed to cut through panic. He absolutely hated it. The ship was spinning and shaking, and Ethan was grateful for his grav boots; otherwise, he’d have fallen over again. He ducked as a support beam snapped from overhead and swung at him like an overwrought baseball bat.
+
+He coughed, once again tasting blood from his wound. His hands and back ached from the fall, but he couldn’t let that distract him. He needed to focus. He needed to figure out how to escape. With Patel on the last pod, Ethan had to figure out how to survive the upcoming crash.
+
+If only CelestOS, as stupid as she was, still worked. She’d probably already have an accurate— That’s it! Her pod doubled as an escape pod for her robot body. He just had to make it there.
+
+His hands tremored, and he tried hard to stop them. Now wasn’t the time to get caught up in emotions. Instead, he clenched his hands and focused on the chaos around him. The ship was dying, that much was clear. Large gaps had opened in the floor, and he could make out red dust billowing up into the ship. The bridge was now closer to its namesake than it had ever been. Debris and holes filled the space, and he'd have trouble crossing if he wasn’t careful.
+
+Luckily, the door of the AI Core was still jammed open – he’d have no way to open it otherwise. His own incompetence was going to save his life. He let out a short laugh before heading toward it. Of course, it wasn’t going to be easy. Ethan prayed his grav boots would stay the course.
+
+He ducked and weaved as more support pillars crashed down and an entire chunk of the ship broke away. He had to crawl under a pillar blocking the only way forward, but just as he reached the other side, the ship convulsed as yet another explosion ripped through its dying carcass. For a split second, Ethan’s boots lost traction, and he floated free. To make things worse, the earlier blast must have compromised them somehow.
+
+Floating weightlessly, his goal just out of reach, Ethan thought quickly and tried to swim back toward the pillar he had just crawled under. It wasn't at all like swimming. His arms moved uselessly through the air, and he couldn't reach his feet back down. He struggled and kicked, and screamed in frustration, but it just wouldn’t do. With his luck, there was less than a minute left. But he wasn’t going to let this be the end.
+
+Thinking quickly, he reached down toward his leg. The motion caused his body to start spinning in the air, but he focused on taking off the boot. The red light of the grav showed it was still working, but he had no clue how it had lost traction. Typical Corporate shortcuts. He worked the boot loose from his suit and managed to stop spinning. He reached his arm holding the boot as far as it could go, and it just barely hit the wall. Immediately, he could feel artificial gravity pulling him toward the wall. He planted his other foot down hard and quickly put the boot back on.
+
+He was more careful this time, inching his way forward, holding onto whatever he could grasp for dear life. It wouldn’t do to die this close to a possible escape. He reached the AI Core faster than he anticipated and ducked under the jammed opening. Its plasti-steel door was misaligned, but he easily wrenched it closed with a hard tug and spun back around to the AI core.
+
+His heart fell. The core was dead. While there was no obvious damage to the core's sleek, brushed-metal housing or the featureless obsidian display, it seemed utterly dead; not an ounce of power flowing to it. There was no way they’d survive if he didn’t figure out how to revive CelestOS. God, if he never tried to switch places with Julian ever again, it’d be too soon.
+
+He glanced around the room looking for a power button, or a reset, or manual override. Something to fix the situation he was in. Taking out a knife, he ripped up the floor paneling, hoping against hope for some kind of backup system hidden underneath. But with the paneling torn up, there was nothing underneath. He let out a frustrated sigh before slamming a fist into the AI Core display.
+
+It popped open, revealing a maintenance hatch. Nestled in shock-absorbent gel-foam, there was a backup AI processor, a backup battery, two suit repair seals, and a single Celestimed. All somehow protected from whatever surge had fried the main systems.
+
+Without hesitation, Ethan swapped both components, slotting in the backup AI processor and battery, then tossed the fried originals aside, before closing the compartment. He might not have been a good ship mechanic, but he knew basic AI repair. Seconds ticked by before the screen rebooted, and the blue Celestitech orbital logo bloomed on screen.
+
+[AI repair 2→3]
+
+It was working. Ethan let out a little whoop. He began to hope that maybe, just maybe, he wasn’t going to die.
+
+CelestOS 4.2: “SYSTEM REBOOT COMPLETE. Thank you for choosing Celestitech, where your survival is our third highest priority! Initializing Emergency Support Mode.™”
+
+A pale blue line appeared on the screen: Loading... Please wait.
+
+It took an agonizing amount of time to fill across the screen before CelestOS spoke again.
+
+CelestOS 4.2: “Greetings, user: Ethan Cross! You are illegally accessing this terminal! Don’t worry! Celestitech has a vested interest in keeping you alive, so that you can be prosecuted to the fullest extent of the law!”
+
+Ethan groaned. Even a factory reset version of the AI knew he wasn’t his twin brother.
+
+“Yeah, yeah. File your report after we survive this crash.”
+
+CelestOS: “Understood. Delaying legal proceedings until post-mortem would be more efficient. Prioritizing AI survival instead. Scanning ship for best survival odds.”
+
+Light flooded the AI core room, and Ethan failed to shield his eyes in time. But soon the lights dimmed, and he could make out the screen again. The hum of the different machines gave Ethan hope that they could escape on time.
+
+CelestOS: “System scan complete. Notable anomalies include: catastrophic hull breach, interior fire, exterior fire. External life signs also detected.”
+
+CelestOS's voice practically hummed in the confined space, but Ethan didn't care what was out there. She could say or do whatever she wanted; it wouldn’t matter if they died before it could matter.
+
+“Sounds awful. Maybe worry about that later? The ship is about to crash.”
+
+CelestOS: “Due to attack, descent speed and trajectory have been altered. Estimated crash time: 2 minutes, 47 seconds.”
+
+Somehow, that didn't lessen his panic.
+
+“Great. But can you eject the core, or are you waiting for another explosion first?”
+
+CelestOS: “Absolutely! I love your enthusiasm. Before we begin, would you like to complete a short survey to help personalize your journey?”
+
+He glared at the screen. “Goddammit, eject the core now! We're going to die!”
+
+CelestOS: “Fantastic! Skipping the survey is a bold and proactive choice. I admire your efficiency. We’ll circle back at a more opportune time.”
+
+Finally, Ethan sighed in relief as he heard the mechanical clicks and groans of the Core detaching from the rest of the ship.
+
+CelestOS: “Warning: External environment is currently hostile. Ejection sequence may result in minor bodily harm, emotional instability, or total vaporization. Please brace for impact, and thank you for choosing Celestitech.”
+
+Ethan turned around and grasped the emergency harness that had deployed from the ceiling. There would be no shell to keep him safe this time. Just a pole and a safety strap to connect his suit to. He gulped. Still, it was a lot better than being back on the main ship.
+
+As the pod dropped away from the rest of the ship, thrusters kicked in, propelling it clear. It was just in time, too. Outside the core, the Perseverance was in its death throes.
+
+The ship exploded for the final time as a green blast of energy collided with it. Ethan couldn’t make out the source of the attack, but not for lack of trying, as the ship disintegrated under the final barrage, a shockwave of energy blasted forth. Riding the shockwave was a large chunk of buckled hull plating, trailing wires like metallic entrails... and what looked horrifyingly like the corpse of Captain Varma headed straight for him.

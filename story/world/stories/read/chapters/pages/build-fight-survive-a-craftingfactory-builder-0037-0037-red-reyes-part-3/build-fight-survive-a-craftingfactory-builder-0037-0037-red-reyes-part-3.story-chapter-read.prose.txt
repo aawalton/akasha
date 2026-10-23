@@ -1,0 +1,87 @@
+The body was still twitching when Ethan slumped to his knees. Somewhere behind him, a conveyor belt groaned, its rollers dragging through ash and grit as it kept moving, indifferent to the dead. The turret, however, had gone quiet. Its last shot had torn through the Thrall’s chest, effectively completing its job.
+
+Reyes lay still in the dirt. The Red Resin that poured out of his wounds, had cooled into a black-red crust that was cracked and glistening like volcanic glass. His chest did not rise, and no final words had been spoken. There would be no second chance for him. Ethan didn’t speak or move. He just stared with limp arms and dry eyes, as if grief had bypassed tears altogether and hollowed him out instead.
+
+The thoughts landed one after another, each one as dull and painful as a hammer strike. You said you’d save him. You waited too long.
+
+The accusation echoed in the new silence of the clearing. He wanted to scream. He wanted to rewind time, to find a different path that didn't lead to this exact moment. He desperately wanted someone else to carry the blame, but the truth was fused into the memory of the swing. He had made the call. In that single, brutal moment, he had severed the last real human connection he had left.
+
+He had done it because if he hadn’t, Reyes would have turned while he was still alive. The person Reyes was would have been gone, replaced by the same monstrosity that now lay twitching at his feet. This knowledge offered no comfort, nor did it make his actions feel right. It was a cold, pragmatic calculation that had cost him a part of his own soul.
+
+He leaned forward slightly, resting his forearm against one knee while his head hung low.
+
+“I waited too long,” he whispered, the words catching in his throat. “I knew what was happening, and I still hesitated. Reyes, I’m so sorry. I’m so goddamn sorry.”
+
+Silence answered him. There was no forgiveness, nor was there any blame. There was just the empty stillness of a life that had been extinguished. The turret clicked into its standby mode behind him, a soft, mechanical sound that felt obscenely loud. For once, CelestOS remained mercifully quiet.
+
+Ethan stared at the black glass under Reyes’s body. He could catch the way it reflected the broken scaffold overhead and the faint flicker of smoke still curling from the ruined forge. The resin shimmered faintly, a dark iridescence that seemed to dare him to look deeper. But there was nothing left to see. A minute passed, maybe two. Time felt soft and bent, completely unreal.
+
+Then Ethan sucked in a sharp breath and blinked hard, forcing the world back into focus.
+
+“No,” he muttered to the uncaring air. “No more of this.”
+
+CelestOS: Threat neutralized. Performance metrics: satisfactory. Combat lethality at 82% efficiency, exceeding projected parameters. Reward unlocked: a T1 Foraging Tool Visual Boost, which is a cosmetic item only. This vanity upgrade adds a subtle, shimmering aura to your equipped tool. Would you like to redeem it now?
+
+He wiped a shaky, grime-caked hand across his mouth. The gesture felt distant and clumsy, as if his limbs belonged to someone else. The words from the AI were so jarringly out of place, so deeply corporate and detached from the horror in front of him, that they broke through the thick fog of shock. “Not in the mood, Cel.”
+
+CelestOS: Acknowledged. Logging reward under your Deferred Gratification Queue. It will be available for redemption at a later time.
+
+A pity party wasn’t going to bring Reyes back. Wallowing in his own failure wasn’t going to keep Maria alive. He knew with a chilling certainty that if he sat here long enough, something worse would come shambling out of the crater, or slinking out of the trees, or clawing its way out of his own despair. Next time, there might not be anyone left to stop it from consuming everything.
+
+He rose slowly to his feet. His joints ached, and the drying blood made his torn suit feel stiff and sticky.
+
+“If I want to keep her alive,” he said aloud, forcing the words into existence to make them real, “I have to get stronger. I have to build faster. I have to find her.”
+
+He looked down at Reyes’s body, at the scorched fabric and red-black resin clinging to what remained. The air was hot, too hot, but he couldn’t move. His chest ached like something had come loose and wouldn’t settle.
+
+His voice came quiet, unsteady.
+
+"You didn’t get to finish your fight."
+
+He shifted his stance, swallowed, and forced the next words out.
+
+"So I’ll keep going. I don’t know how. I don’t even know if it matters. But I’ll do it anyway. Because someone has to."
+
+The forge hissed behind him, like it was waiting.
+
+There was work to do. Ethan groaned and pushed himself fully upright. The world tilted precariously, and he steadied himself against the nearest conveyor belt before limping toward the forge. Each step was a monumental effort, his body leaden with a profound exhaustion that went deeper than muscle fatigue.
+
+The forge still stood, which was a small miracle. The outer plating held, and its core hadn’t ruptured. But as he got closer, he saw that the damage was everywhere. Melted belts hung in warped, useless loops. The ore sorter was sealed shut under a thick, ugly crust of hardened resin. One of the input sensors was shattered, with cracks spidering through the glass. Power relays near the base sparked intermittently, flashing a ghostly blue in the growing dark. This wasn't a factory anymore; it was a ruin.
+
+He reached for the control console and paused. The panel was smeared with grime and something darker. He took a slow breath and triggered the auto-feed, hoping for something, for any sign of life.
+
+The belt lurched once, groaning through a shudder of misaligned gears. Something clattered from the smelter chute and slid partway down the warped and cracked conveyor belt. Ethan stepped closer to inspect it. It was an ingot, or what should have been one. The copper was swollen and misshapen, with dark red veins pulsing through the metal like lines of infection. Resin was baked into its surface, crusted along the edges and pooled in pitted cracks across the top.
+
+He picked it up, careful to avoid touching the resinous parts. The weight felt wrong in his hand. It was spongy at the corners, a sign that it had never fully hardened. It reeked of oil and corrosion. There was no way this could be used. He was about to throw it away when he thought better of it, placing it near but distinctly away from the main copper pile.
+
+CelestOS: System response: partial failure. A diagnostic scan indicates catastrophic damage to primary and secondary conduits. Component integrity is at 47%. I recommend full disassembly and reinitialization of all affected modules.
+
+He swore under his breath, a low, guttural sound of pure exhaustion. “You mean rebuild. From scratch.”
+
+CelestOS: Affirmative. Emotional tone detected: frustration, with undertones of despair. I am re-calibrating my voice prompt settings to a more soothing frequency.
+
+Ignoring the AI’s attempt at comfort, he backed away slowly, his eyes sweeping over the length of the belts. The resin damage was worse up close than he had realized. It hadn't just coated the surfaces. It had eaten through the bolt tracks, warped the structural support rails, and calcified in the gear junctions like an invasive, alien coral. Even the foundational frame beneath the forge’s legs showed signs of deep corrosion, with fine, hairline cracks threading outward from every point of contact. It would take hours just to clean the mess and days longer to repair it. Even then, the forge would still likely bleed resin into everything it touched. If the ingots were tainted, the whole system was worthless. He might as well just build a new one. At least he had the CelestiCraft and wouldn't have to worry about the long build time.
+
+Ethan closed his eyes, letting the full weight of it all settle into his ribs. He let the tiredness anchor him, a physical force pulling him down toward the scorched earth. For a moment, he considered just sitting down, right there on the ground, and not getting up again. But then he opened his eyes and looked at the corpse one last time. It was a monument to failure, his failure to act in time and the planet’s failure to be anything but hostile. He wouldn't let his own story end here as well. He took one last, deep breath and let it go in a long, slow sigh of resignation.
+
+“Alright,” he muttered. “Not worth saving. I’ll build a new one.”
+
+CelestOS: Acknowledged. Designating current forge as deprecated. I recommend constructing new ‘Forge Mk.1’ using on-site resources.
+
+The fabrication began with a low hum as the CelestiCraft's housing unfolded, exposing its internal arms and rotary welders. A lattice of blue light traced the forge’s shape onto the soil, segment by segment, like scaffolding rising out of nothing. Each material slot pulsed in turn, showing icons for iron, copper, wood, and stone, waiting for his input. Ethan moved with a tired precision, feeding in the components. The logs were pressed into tight bundles, the stones were ground into composite slabs, and the binding agent was injected with surgical bursts that smelled faintly of chemicals.
+
+The machine roared to life. Welding sparks burst from the fabrication head as it stitched plates together with aggressive speed. The forge began to take shape before his eyes, a low crucible ringed with reinforced stone and metal braces. It wasn’t pretty, looking something like a potbelly furnace crossed with an industrial trash can. But it was solid and reliable, a firepit designed for a warzone. A dull clang echoed as the last panel sealed into place. The ignition coil flared, and heat shimmered in the air above it. The whole thing vibrated softly, as if it was already hungry for ore. Ethan wiped the sweat from his forehead and stepped back, his chest rising with a cautious sense of pride. This one wasn’t going to fall apart. Not like the last one, and not if he had anything to say about it.
+
+CelestOS: CelestiForge fabrication complete. Environmental calibration is pending. This unit qualifies for performance incentives once operational. Would you like to enroll in the Celestitech Loyalty Optimization Program?
+
+Ethan stared at the finished forge for a beat, then muttered, "Absolutely not."
+
+Laying the conveyors again felt almost meditative this time around. The rhythmic sequence of snap, slide, and anchor was a balm to his frayed nerves. He traced a path from the copper drill first, arcing it toward the new forge with fewer turns and more direct angles than before. He prioritized efficiency over aesthetics. The stone and iron drills would follow, but copper mattered most for now. Power, ammunition, and circuitry all depended on it. By the time he finished aligning the final feeder track, the belts hummed with a steady, reassuring motion once more. The forge flared to life with a deep whoosh, its internal chamber glowing orange as it drew in the first load of raw ore.
+
+Now that it was running, he faced the problem he’d put off for too long. The ingots had nowhere to go. For hours, he’d just let them stack on the ground in neat little pyramids of heat-scarred metal, a testament to his initial, frantic survival. That wasn't going to work anymore, especially not with real throughput and the potential for expansion he was now forced to consider.
+
+He pulled up the storage schematic CelestOS had projected earlier. It depicted simple, modular crates made of slotted metal bands with reinforced wooden sides. They were basic, effective, and infinitely scalable. The recipe called for five wood, four iron ingots, two copper, and two stone. Luckily, he had more than enough wood left over from his visit to the forest. He hauled the splintered lumber to a clear patch of dirt and got to work.
+
+Thirty minutes later, a trio of functional crates stood bolted beside the forge’s output chute. Each had a slotted label he’d etched crudely into the top: COPPER, STONE, IRON. It was brutally utilitarian, but it was his. He stood back and watched as the forge spat out the first finished bar of copper. It clattered down the new chute and landed in the sorting tray, which angled perfectly into the new copper crate. A small, satisfying click sounded as the weight triggered the crate’s internal sensor.
+
+CelestOS: Inventory status: operational. Storage system is now synced with production logs. Estimated maximum capacity is 120 ingots per unit. Your organizational efforts are commendable. Would you like to name your factory?

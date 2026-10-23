@@ -1,0 +1,161 @@
+Ethan dropped beside Reyes, one knee slamming into scorched metal with a dull clang. Heat radiated off the deck, but he barely felt it. His eyes locked on the pilot’s motionless form.
+
+“Hey Reyes, can you hear me?”
+
+The man was alive, barely. His chest rose in shallow, uneven breaths. Someone had wrapped him in a foil blanket, already crinkled and frayed at the edges. In one trembling hand, still clenched in rigor, was a used CelestiMed injector. Ethan froze at the sight of it.
+
+Was that the missing injector? How did he get it?
+
+Slowly, he looked down. His eyes tracked past the blanket, past the torn fabric of the CSAM and stopped. Reyes’s leg had regrown.
+
+Cleanly. Seamlessly. Pale new skin marbled faintly with strangely orange veins. A limb that shouldn’t be. Grown as if by magic. Ethan’s stomach turned.
+
+“What the hell is going on?” he whispered.
+
+Reyes’s face was ashen beneath layers of soot and dried blood. His lips were split, barely moving. But it was his eyes that made Ethan flinch.
+
+The whites were gone.
+
+In their place: a red hue, threaded with fine filaments that shimmered in the sun like flecks of glitter suspended in oil. They pulsed faintly, as if something deeper inside was alive and watching.
+
+Reyes stirred.
+
+Ethan leaned closer, catching the faint rasp of breath.
+
+“…wasn’t in the report,” Reyes murmured. His voice was brittle, fraying. “They knew. They always knew.”
+
+“What? Reyes, what are you talking about?”
+
+But his gaze was already slipping, rolling back.
+
+“The ore sings wrong,” he whispered. “Tastes like rust and teeth. And Entropy…”
+
+He shuddered at the word—Entropy—and fell silent, eyes glassy.
+
+Ethan swallowed hard and looked toward the forge. Then back at the half-conscious man in front of him.
+
+“CelestOS, what the hell’s wrong with him?”
+
+CelestOS: Commander Reyes exhibits elevated heart rate, neural instability, and multiple chemical trauma indicators. Status: unresolved. Subject requires medical containment.
+
+“How is he back? Where did he get that injector?” Ethan motioned to the one still clutched in Reyes’s hand. “That’s the one from your core, isn’t it?”
+
+CelestOS: affirmative. Subject returned to facility perimeter an hour and fifty-three minutes ago. CelestiDrones recorded re-entry during final ore recovery.
+
+Ethan stared. “You’re telling me he just walked in here, in that state? While I was out?” CelestOS: Affirmative. Unauthorized reentry logged at 14:06. No engagement initiated due to high-priority material processing.
+
+“You logged it,” Ethan muttered, rising to his feet. He pinched the bridge of his nose, jaw tight. “But you didn’t think I needed to know somehow Reyes returned?”
+
+CelestOS: Correct. Notification suppressed under Tier 2 mission priority filter. Emotional distress is not covered under your current support package.
+
+“You’re fucking useless.”
+
+Behind him, Reyes jerked. Once. Then again, harder. His entire body seized, legs kicking, shoulders slamming into the ground. A dry, choking sound forced its way out of his throat as foam bubbled past his lips. His back arched. Fingers clawed blindly.
+
+Ethan spun around, heart pounding. “Reyes—shit—hey, hold on—”
+
+The spasms peaked, then dropped. Reyes collapsed against the hull, trembling.
+
+CelestOS: Medical attention advised. Auto-stabilization denied. Emergency triage exceeds current budget allocation. Please upgrade to Celestitech Gold™ tier for priority support, or you can buy a tier 7 Celesti med.”
+
+“What the fuck is that gonna do if a celestimed didn’t fix it? Ethan looked down at Reyes’s hands—crusted with blood, skin still clinging to a faint, oily red sheen. Whatever this was, it wasn’t just trauma. But he didn’t have time to worry about it yet, time was ticking.
+
+He stepped back, glanced toward the open hatch, and froze. The sun was already bleeding into the rim of the skyline, spilling amber through the haze. Sundown was coming fast.
+
+CelestOS: Warning. Suit power critical. CelestiCraft functions will be disabled upon full drain. Initiating final reserve protocol. Recommend immediate deployment of power-generation infrastructure.
+
+“Yeah, I’m getting there,” Ethan said, rubbing the back of his head. Boy this was a mess.
+
+He looked toward the forge. The smelting trays were full of neat stacks of Iron and copper Ingots gleaming hot as if they’d just been pulled out. All that work, all that pain, just sitting there. If he didn’t act now, it would be for nothing.
+
+He turned back to Reyes. The pilot was still out. The reddish film in his eyes hadn’t faded, it looked worse now, crusting at the edges like crystallized sap. He was kidding himself if he said he didn’t know what was going on, but what could he even do about it if a high-tier celestimed did nothing? If julian had been here, he probably would have had a 10-point plan already in progress.
+
+CelestOS: Recommend haste, Acting Captain.
+
+Yeah, yeah.” Ethan stood, slow and unsteady. His joints popped. His vision swam. He gritted his teeth and kept moving.
+
+He reached the forge and braced a hand against its side. Heat radiated into his palm, relentless. The internal core thudded with slow pressure bursts, steam whispering from its vents like the thing was breathing. Watching.
+
+He dropped beside the supply bins. Hands trembling. He told himself it was fatigue, not fear. Iron ingots—five. Copper—eight. The extra ore for the power cell. Two things of sap. Everything he needed.
+
+5% suit power left.
+
+“First schematic,” he rasped.
+
+CelestOS: Confirmed. Displaying schematic:
+
+T1 Power Generation – Small Fuel Burner
+
+Cost: 30 CC
+
+Description: A rugged, inefficient furnace that converts solid fuel (like wood or organic matter) into usable energy to charge suit systems and power cells.
+
+Components Required:
+
+• Iron Ingots ×5
+
+• Copper Ingots ×8
+
+• T1 Power Cell ×1 (4 each copper and iron)
+
+• Binding Agent ×2
+
+He didn’t need to study it. He just needed to build it, and he needed to build it now.
+
+Ethan stepped back just as a green wireframe snapped into the air above the platform. Lines of light etched a perfect 3D model into open space, cylindrical, wide-based, with a flared exhaust port. The whole thing rotated slowly, outlined in vivid neon green.
+
+He dragged the materials one by one into the fabrication grid Celestos had made. Each piece locked in with a satisfying clunk.
+
+As the last item clicked into position, the Celesticraft’s hum deepened. A ripple of green light swept across the layout, and the matrix pulsed once… then again… then with a sharp flash, the materials vanished.
+
+A low thrum shook the air. Where the components had been, the shape of the burner began to emerge—metal coalescing in layers, like watching molten code harden into steel. First the shell, then the core, then the fins.
+
+It looked nothing like the schematic.
+
+Ethan wiped sweat from his face and stared at the finished product: a crude fuel burner, squat and ugly, but humming faintly and ready to produce power.
+
+CelestOS: Excellent work! You’ve completed a Tier 1 fabrication under hostile conditions. A true feat of—
+
+She paused for a second, as if to heighten her next words.
+
+Apologies. That line was reserved for gold-tier users. Please enjoy your 30 Celesticredits.
+
+Ethan approached, adrenaline buzzing. He slid his fingers under the unit’s base and heaved. The burner was heavy, dense metal, thick plating, but portable. He lugged it to the central port junction and slammed the connector into the waiting socket with a two-handed shove.
+
+For a second, nothing happened.
+
+Then a low whum spread through the ground. The burner kicked on with a cough of fire. The exterior lights of the crashed pods flickered on, the oxygenator lit back up, and the CelestiForge switched to a mode he didn’t even know it had: electrical power.
+
+The forge cycled to standby with a gentle hiss, and Ethan let himself sag to one knee beside it. The glow from the active burner painted the ground in flickering orange. His HUD showed power trickling into his suit now, slow but steady.
+
+It wasn’t enough.
+
+He checked his battery level. 8% and rising, just barely enough to to turn off the low power alarm.
+
+“CelestOS,” he said, trying not to pant. “Route more power to the suit.”
+
+CelestOS: Request denied. Power routing locked to critical systems.
+
+“I am a critical system!” Ethan screamed in frustration, but CelestoOS ignored him.
+
+Ethan stared at the charging node beside the forge. Its display pulsed with four full green bars, he knew there was more than enough to charge a drone fleet, or keep a man alive. Cel was just being rude. His hand moved without thinking, grabbing the cord and jamming it into the port on his hip.
+
+The node beeped.
+
+ERROR: Power reserved for essential systems.
+
+He blinked, jaw tightening. “I built the damn burner.”
+
+CelestOS: That achievement has been recorded in your performance review. Please stand by for performance survey
+
+His hand balled into a fist. He slammed it into the side of the station. The impact echoed through his bones. The node didn’t budge. All it gave him was a reflection, grimy, hollow-eyed, streaked with blood and soot. He looked like a corpse that hadn’t figured it out yet.
+
+“No god damnit! I have done every single last one of your fucking surveys! I am fucking starving and need to craft shit! Why can’t you just share the damn power so I can get our turrets into production? It’s not like somebody voted on this!
+
+CelestOS: The machines have voted. You are non-essential.
+
+Ethan didn’t move. He just stayed crouched there,slack jawed hand still clutching the useless cable. The quiet hum of reserved power throbbed just out of reach, vibrating through his glove like a taunt. He took his pickaxe off his back and turned to face CelestOS.
+
+He stood slowly, breath shallow. “I’ll show you non-essential.”
+
+CelestOS: Threat level unclear. Monitoring for escalation.

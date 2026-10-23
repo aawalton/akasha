@@ -1,0 +1,89 @@
+Ethan hit the ground hard—shoulder first, then hip, then everything else. The breath was punched out of him like a collapsing lung, and he bounced a few times before coming to a stop in the gravel. He had rolled so far, so fast he got dizzy and threw up everything his stomach didn’t have.
+
+Pain bloomed across his ribs and shoulder like firecrackers going off in slow motion. His spine felt like someone had used it to bat a live grenade. When he finally stopped moving, the world tilted sideways, and his limbs buzzed with too much feedback. His lungs wheezed like a broken bellows. Everything hurt.
+
+[HP: [■ ■ ■ ■ □ □ □ □ □ □] 41%]
+
+He rolled over and just lay there, staring at the burning red sun. His everything was nothing more than flared nerve endings, bruised and beat up and screaming, but as best as he could tell, nothing was broken—for once.
+
+He groaned and rolled onto his side, away from the awful smell. Somewhere nearby, the wind whistled over the river, and in the distance, he could see the prize he had wrangled from the drone. But he didn’t move. If he didn’t move, he could pretend for just a minute that he wasn’t having the worst day of his life.
+
+But somehow, despite it all, he wasn’t dead. He didn’t know how long he lay there. Could’ve been ten seconds or ten minutes. The pain turned seconds into fog. His brain felt full of static, and everything inside him pulsed with one desperate command: stay down. Stay safe. Don’t move.
+
+But staying still meant dying later. He knew that. Knew it in the same way he knew the sun was toxic, the air was suspect, and the night was worse. If he stopped now, he might never get back up.
+
+So he didn’t stop, he started moving. He flexed his fingers. Gritted his teeth. And told his stupid, broken body to move because he wasn’t dying flat on his back due to some stupid robot.
+
+With a burst of shaky adrenaline, Ethan sat upright. The drone!
+
+He snapped his gaze upward, scanning the sky in every direction. His breath hitched as he searched, his vision swimming from the sudden motion so soon after a major fall.
+
+“Where is it? Where is that drone?”
+
+His heart jackhammered as he spun on his knees, eyes widening, panning the sky in every direction. Wind brushed across the mostly empty clearing, sending grass flowing like waves in the ocean. He got to his feet and scanned behind him as well, but the drone was gone.
+
+And then it hit him, a thought as brutal as the impact from the fall. The drone was gone, but so too was CelestOS. The cold panic he’d been feeling since the crash flared hot in his chest like a bomb that couldn't be contained.
+
+“CelestOS? Where are you?” he said, trying not to yell. Losing the helmet also meant he lost the ability to use comms. He scanned the horizon again, trying to find his metallic companion, but she was nowhere to be found either. And if he didn’t find her, he was dead. Without her or the helmet, he had no way to access schematics or build anything, and come nightfall, well, maybe the river would be an easier way to die.
+
+He forced himself to breathe. Panicking wouldn’t help. She was probably already back at the base waiting for him. She had to be. As crazy as that damn AI was, she’d never just leave behind the ‘acting captain,’ right?
+
+He rubbed his eyes and felt a ridiculous amount of relief at being able to touch his face again, the only real perk of losing his helmet.
+
+He couldn’t waste any more time. From the looks of things, it was mid-afternoon, and Maria had said nighttime would be the worst part of the day, where the real monsters would come out. If he could find it, he needed to grab the drone’s gun, get the wood, and then get back to the base. He was just hoping against hope that was where CelestOS was headed. Otherwise, how was he going to find more iron or copper? Let alone get it back to the camp.
+
+He started off in the direction he remembered the gun rolling, following the river toward the strange forest. Bits of scorched brush and fragments of metal made a breadcrumb trail, and he hoped that despite the fall, his prize wouldn’t be too damaged. His legs protested every step, but the goal was clear; he just had to find the gun at the end of the dirt-filled rainbow.
+
+After another minute of walking, he caught a glint of warped metal sticking out of the ground near a cracked boulder.
+
+The cannon lay twisted, half-buried in the dirt where it had clearly bounced off the boulder and come to a rest. Its barrel was damaged, the glowing coils along its length dim but still pulsing with energy. Up close, the thing looked less like a gun and more like an alien robot’s spinal column. Half organic, half mechanical, he could tell now that the red pulsing wasn’t just battery power. It was the same Red Resin that had been covering everything, liquefied and turned into a sort of fuel.
+
+Ethan stared at the gun with a sense of wary awe. It was grotesque in a way that felt deliberate as if the thing had been designed by someone who didn’t care whether it was safe, only whether it killed well.
+
+There were teeth-like ridges on the underside of the barrel. No real reason for them, just decorative, they weren't even that sharp. Just some cruel sort of decoration. The pulsing red lines looked too alive to be circuitry, too vascular.
+
+Was the drone infected by the Red Resin? Or was this how it was built?
+
+Either way, the weapon felt like bad news. Carrying it felt like strapping a live snake to his spine. But bad news beat no firepower at all.
+
+Now to find that stupid AI. He slung the weapon onto the magnetic port on his back, praying it would stick. It did not, and fell unceremoniously to the ground behind him.
+
+He went to pick it up, but before he could make it, a familiar voice crackled behind him.
+
+CelestOS: Visual reacquisition confirmed. You appear to have survived with only minor degradation. Please note: probability of death by reckless drone-riding exceeded 72%—a new personal best. Congratulations
+
+Ethan flinched before realizing it was CelestOS and sagged with something that wasn't quite relief, but close enough anyway. He turned to see her floating a few meters away, her rectangular display wobbling slightly as its jets moved it up and down.
+
+He wasn't about to admit how unsettling it had been to look around and not see that floating smartass screen drifting nearby. The silence and fear had been worse than the pain from the fall. She might be the corporate AI equivalent of a hovering stepparent, but at least she kept him from being truly alone.
+
+“Gee, thanks. I’m fine. I was thrown from that stupid drone and just recovered. Now let's get harvest the wood and then get back to camp. We’re burning daylight, and I don’t imagine we're going to have an easy time come nightfall,” Ethan said.
+
+CelestOS: Noted. While you were indisposed, I returned the ore to base and updated your project queue. Per Celestitech efficiency standards, all unconsciousness exceeding 120 seconds is categorized as recreational. You’re now 43% behind schedule.
+
+“So, ore is already being processed? Thats… Surprisingly generous.” Ethan muttered, then jerked his chin toward the cannon. “Here. You carry this one.”
+
+He lifted the gun awkwardly and passed it to CelestOS, who extended a magnetic drone arm to take it. The weapon latched in place beneath her frame with a mechanical ka-thunk, its coils still pulsing faintly.
+
+“It’s probably full of corrupted alien juice, by the way,” he added. “Try not to let it leak on anything important.”
+
+CelestOS: Acknowledged. Will log for warranty void review.
+
+“Oh, fantastic. Then let's get the fuel and other supplies. Is here good enough, or do we need to find another forest?”
+
+CelestOS hovered closer, stabilizer jets whispering softly as she deployed a cluster of her micro-drones from a side compartment. They zipped outward like metallic insects, fanning out into a grid formation and sweeping slow arcs through the trees.
+
+Their little miniature lights blinked green, then yellow, then green again as they hovered over roots, branches, and moss-covered stones. One paused to scan a thick red vine winding through the undergrowth.
+
+CelestOS: This biome registers within acceptable parameters. Low-aggression flora, minimal biohazard warnings. Probability of plants spontaneously combusting: under 12%.
+
+He stared at the forest in disbelief.
+
+“You've gotta be kidding me. No kamikaze fruit bombs here? I nearly got turned into mulch by those heartfruits, and this place only has a 12% chance of doing the same?” He pulled his axe from his back and adjusted his grip. “I'll take it.”
+
+He approached the treeline, still a little apprehensive despite his bravado. The woods here looked normal. Plain red bark without the Red Resin, no twitching vines, actual leaves. He felt like he was having a simple and happy daydream.
+
+“Alright, let's chop some damn wood.”
+
+The silence was unnatural as he entered the forest; the trees didn't attack him. The wind stayed calm, no vines threw fruit at him. Nothing tried to kill him, there wasn’t even the rustling of small animals.
+
+Which meant, obviously, that something much worse was about to happen.

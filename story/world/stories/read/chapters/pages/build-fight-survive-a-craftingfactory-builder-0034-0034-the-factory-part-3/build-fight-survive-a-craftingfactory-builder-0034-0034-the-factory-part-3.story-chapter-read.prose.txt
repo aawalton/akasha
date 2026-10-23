@@ -1,0 +1,85 @@
+0034, The Factory, Part 3The ground heaved. A blast cracked the air like thunder, slamming the husk of a pod sideways with a metallic shriek as Reyes’s corpse tumbled bonelessly to the dirt. Fire rolled up the slope like a tidal wave, white-hot at the center and blooming outward in jagged tongues of orange and violet. His primitive little factory was being destroyed before his eyes. A high-pitched whine filled the air, growing sharper.
+
+CelestOS: Critical alert: Generator failure. Capacitor breach. System-wide overload. Evacuate immediately.
+
+He flung himself backward into the smoke as sparks and debris rained down. Another one of the new belts had caught fire, its casing curling and splitting. Motors screamed in protest, then died. He hit the ground hard, rolled, and came up coughing. A glint in the ash caught his eye, barely visible through the smoke. He dropped to one knee, sifted through grit with a bloodied glove, and found the axe, blackened but intact. He must have dropped it in during the initial blast. He yanked it free and didn’t look back.
+
+Behind him, the pod groaned as something shifted inside the smoke. It was Reyes, or what was left of him after the beheading. He wasn't shocked, these alien bastards were insidious. But there was no time to deal with whatever was going on there, so Ethan ran.
+
+He sprinted through the haze, the axe still gripped tight in his fist. He’d been ready. He’d stood over Reyes’s body, weapon raised, heart pounding, jaw locked against the guilt. The infection was spreading too fast. Reyes was going to turn. There hadn’t been time for mourning. No last words. Just the moment, and the choice. So Ethan beat on, running as fast as his skill would propel him.
+
+He barreled through the rising heat, boots skidding across a patch of scorched resin. He lost his footing, slammed into a jagged outcrop, and the rock tore through his outer sleeve. Heat kissed his exposed skin and bit deep.
+
+He hit the ground hard, rolled, and came up on one elbow, gasping like he’d just crawled out of a furnace. He stared into the ash, heart racing, knowing that whatever Reyes had been, it wasn’t what was screaming now.
+
+He forced himself upright. The forge could still be salvaged, but not much else.
+
+Resin-streaked wind whipped across the ridge, dragging ribbons of fire sideways. Ethan stumbled through the haze with burning lungs, the taste of copper and resin thick on his tongue. The generator was gone; he could see now that one of the capacitors had blown open, half-buried in the hillside, glowing red-hot and dripping molten slag.
+
+CelestOS: Primary generator offline. Industrial functions suspended. Power output: 0%.
+
+“Yeah,” Ethan rasped, “I noticed.” He raised a hand, and CelestOS projected the schematic into the air, its image crisp, stable, and bright against the swirling ash.
+
+CelestOS: Interface available. Projecting schematic: [T1 Power Generation – Small Fuel Burner].
+
+Blueprint lines traced themselves midair, rotating slowly in holographic space to show a compact fuel unit slotted with copper conduits and a squat ceramic core. Every component was listed beneath in flickering white text.
+
+CelestOS: Required components for two generators : Iron Ingots ×10 Copper Ingots ×16 T1 Power Cell ×2 (4 each copper and iron) Binding Agent ×4
+
+Ethan grimaced. “Of course, I'm going to run out of sap before I can automate harvesting it.”
+
+He double-checked his stores first, the rudimentary piles of iron and copper ingots piling up by the forge, and he had plenty there. But it was as he feared. As he looked at the Sap stores, he was already running low as he counted only 12 hardened sap cores from the forest that served as a binding agent.
+
+CelestOS: Celesticraft™ Fabrication Module re-initialized. Power draw: 12%. Suit battery at 83%. Proceeding with construction.
+
+Blueprint lines flared in the projected overlay as the second generator schematic locked into place. He confirmed with a nod, and CelestOS's drone extended its lower assembly rig, a piece of machinery that was compact, brutal, and efficient. It was a process without theatrics, focused only on output. He watched as plating segments clicked into position midair, drawn together by magnetic clamps and micro-welders. Sparks danced through the ash. The unit took shape quickly, like a bare-bones organ system that was ugly and angular, but functional. A vent coughed steam as the last panel sealed shut.
+
+CelestOS: Assembly complete. Auxiliary power units online. Manual grid connection required.
+
+Ethan dropped to one knee, hauling the power lead over his shoulder. The connector plug was warped from heat, but he forced it in with both hands and a sharp twist. The socket sparked, then caught. A low hum pulsed through the ridge as the lines twitched and lights flickered. Conveyor tracks stuttered back to life, followed by motion as the drills groaned and the belts rolled. Stone and metal clattered into chutes like hail. The system was working.
+
+For a terrifying second, he thought it wouldn’t work. The belts twitched, then stalled again. The motor lagged. Lights flickered in patterns he didn’t recognize. His heart dropped.
+
+Then came the whir. The belts surged forward with a groan of strained effort. The drills stuttered, caught, and began to spin. Ingots clattered onto the tracks. The entire ridge buzzed with raw motion, imperfect but alive.
+
+CelestOS: Congratulatory subroutine activated. Optional dance emote unlocked. Would you like to redeem your Performance Efficiency reward?
+
+He nearly collapsed laughing. It came out more like a cough. “Not now,” he said between gulps of air. “Maybe... maybe later.”
+
+CelestOS: Understood. Logging reward under Deferred Satisfaction Protocol.
+
+He wiped his face with a shaking hand. “God, I hate how much I needed that.”
+
+CelestOS: Statement acknowledged. Affirmation detected. Logging under Mental Stability subroutine.
+
+That was the moment he allowed himself to stop. Just for a second. It felt almost safe.
+
+CelestOS: Power grid stabilized. Resource intake loop reestablished. You are now operating at 147% of previous efficiency benchmarks. Congratulations.
+
+He barked out a hoarse laugh. “Yeah. I’ll throw a party.” The readout glowed green, steady, and bright. The connection was not perfect or permanent, but it was real. The base had a pulse again as material streamed across the belts, disappearing into CelestOS’s modular bays for sorting. Steam hissed from the fuel intake valves. The air smelled of ozone, carbon, and progress.
+
+The relief did not last. His shoulders slumped, and for the first time in hours, the silence around him felt heavier than the smoke. The hum of machinery and the thrum of power, while comforting, were not enough to drown out the other sound of wet, ragged, wrong breathing. It was not loud and did not have to be; it was just a thread of noise winding through the hiss of the forge and the steady clatter of belts. It was a rasping wheeze carried by the wind, punctuated by soft movements against metal. It was Reyes; somehow he still alive and still changing and still screaming.
+
+Ethan’s stomach turned. His mind played tricks, imagining a voice he had not heard in hours and picturing Reyes sitting up, lucid, but headless. But what waited back at that pod was not Reyes anymore. It was something worse, something in between. He stood slowly while every joint protested. His gloves were soaked and the edges of his boots were half-melted, but he moved anyway, because stopping meant thinking, and thinking meant confronting the inevitable. “Status report,” he croaked, not caring what answer he got. He just needed to hear something other than the breathing.
+
+CelestOS responded instantly, her tone clinical and chipper.
+
+CelestOS: Environmental threat level: elevated. Proximity anomaly sustained. Contamination probability exceeds safe thresholds. Vital signs of Subject Reyes: unstable. Uncoordinated movement detected. Emotional state: ambiguous.
+
+Ethan blinked. “Did you just diagnose his emotional state?”
+
+CelestOS: Ambiguous. Possibly hostile. Possibly unaware. Possibly... suffering.
+
+He flinched at that last word, because it was not corporate lingo. It sounded human. “You trying to guilt-trip me now?”
+
+CelestOS: Clarifying intent. You are encouraged to act with efficiency, rather than empathy.
+
+He stared out across the ridge with his jaw clenched, sweat dripping off his chin. The smoke thinned just enough to reveal the slumped figure by the pod. Its limbs were twitching, its spine convulsing as if it wanted to crawl out of its own skin.
+
+He did not ask what was going on, because he did not want to know what that meant. He suspected it meant turning Reyes was turning into a monster, but what could he do to stop it?.
+
+He turned back to the forge, where everything was online. The conveyors were moving and the system was breathing again. It should have felt like a win, but all he felt was a bone-deep weariness that settled somewhere behind his eyes and refused to move. Ethan exhaled through his teeth and his eyes drifted toward the far end of the ridge, where Reyes’s pod sat half-buried in smoke and silence. The infection hadn’t stopped, and he knew he had not finished the job.
+
+CelestOS: Recommendation: resume threat mitigation. Subject Reyes remains a contamination risk.
+
+“Yeah,” Ethan muttered. “I know.” He grabbed the axe from where it lay near the tool stack, its edge blackened but sharp. The forge was running and the factory had power, but now he had to deal with what had become of Reyes's corpse.

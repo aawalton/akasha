@@ -1,0 +1,143 @@
+0008 The CelestiCraft, Part 3
+
+CelestOS: Deploying prototype oxygen reclamation unit: Class-D rebreather — Celestitech model CR-X1 ‘LifeSip’. As payment for field testing this prototype, 100 Celesticredits have been placed in your account.
+
+[MISSION COMPLETE: Desperate Measures - Part 2/3Objective: Fabricate Class-D Rebreather Model CR-X1 'LifeSip'Status: Operational]Reward: 100 CC]
+
+CelestOS 4.2: You are now 47% less likely to asphyxiate. Please enjoy responsibly.
+
+Ethan slumped against the AI pod, his bottom hitting the ground as he let out a soft groan. Cold oxygen blasted into his suit; each beautiful gasp of air was sharp and invigorating, as if his whole body were drinking it in. The pain in his chest loosened. Each breath came easier, like he was back on Earth breathing nano-cleaned air. The dizzy fog in his brain evaporated as his whole body seemed to sob in relief.
+
+[HP: [■ ■ ■ □ □ □ □ □ □ □] 38%
+
+[O2: [■ ■ ■ ■ ■ ■ ■ ■ ■ ■] 100%]
+
+[PWR: [■ ■ ■ ■ ■ ■ ■ ■ □ □] 70% ]
+
+When he finally had the energy to move again, he looked over at Reyes. The tourniquet seemed to be holding, but the man was still out cold.
+
+Ethan unhooked his own suit from the LifeSip; he then reached over and hooked up the oxygen tube to Reyes's suit. It took a minute, but the other man’s ragged gasping slowly turned into steady, rhythmic breathing. He'd need to hook his suit up again in a few hours, but that was a future ethan problem.
+
+That alone sent a thrill of victory coursing through him. He knew Reyes wasn't out of the woods yet, but the end was in sight.
+
+“Holy shit,” he said. “I can’t believe it worked.” He felt like he owed CelestOS an apology but wasn’t going to say it out loud. AI were notoriously sensitive about false sincerity.
+
+Strange winds still buffeted the wrecked escape pod, sending red dust soaring over its roof. Reyes looked practically buried alive, but Ethan wasn’t worried. Maybe if he got buried, he would be safe from whatever monsters were lurking in the area.
+
+Despite the dreary environment, Ethan felt a surge of energy and hope as he got to his feet. If he could fix the oxygen problem with a bunch of scraps, surely it wouldn’t be too hard to fix Reyes’s leg.
+
+A familiar, infuriating voice flooded the floating screen nearby, but Ethan wasn't the least bit annoyed. Instead, he looked at the AI expectantly.
+
+CelestOS: Oxygen stabilization achieved. 2 hours of continuous exploration now possible.
+
+Ethan laughed again. What a wonderful reprieve after the utter pain and tragedy of the past hour; the leak combined with the strenuousness of his activities had really screwed him. God, had it only been that long?
+
+The reprieve only lasted twelve seconds.
+
+CelestOS: Acting Captain Cross. Primary directive requires attention. Analysis indicates Lieutenant Reyes requires prompt administration of Celestimed. Estimated time to death 2 hours and 20 minutes. Coagulants and tissue regenerators are necessary to prevent irreversible damage or fatality. Would you like to purchase a tier 3 Celestimed unit for 40,999 Celesticredits?
+
+“How many ‘Celesticredits’ do I have exactly?”
+
+CelestOS: Current balance: 135 Celesticredits. This purchase is significantly beyond your current price range. Would you like to purchase the fabrication schematic for Celestimed? That is much more within your budget at 20 Celesticredits.
+
+“Yeah, no kidding.” Ethan scratched at his head before tightening his grip around the heavy CelestiCraft. “Let’s do it. Where’s the ‘make me a medkit’ button on this thing?”
+
+CelestOS: Celestimed synthesis requires specific vitrified R-Glass components for sterile containment and precise catalytic reactions. Current environmental facilities are inadequate for R-Glass production.
+
+A bitter laugh escaped him. “Are you serious? I just built an oxygen machine out of literal garbage and spit, and now you want me to build an entire glassworks?”
+
+CelestOS: No. Just a forge, which you need to purchase, and then of course you need the Celestimed recipe itself.
+
+“Wait, can I afford that much?”
+
+CelestOS: I think the real question is can you afford not to?
+
+Two new schematics blinked into existence on his HUD overlay, impossibly clean and precise against the backdrop of dirt and wreckage. The name ‘CelestiForge Model A3’ flickered into his view.
+
+Is everything made by this company just ‘Celesti’ plus a name? A bit on the nose, isn't it? Ethan thought.
+
+CelestOS didn’t say more, so Ethan took a moment to study the schematic in detail.
+
+[Schematic: T1 CelestiForge Model A3]
+
+Iron Ore x3
+
+Copper Ore x2Any wooden Logs x4
+
+Any Stone x2
+
+Binding Agent x2
+
+[Schematic: T1 Celestimed]Heartfruit Bulbs x4 Crystalseed Fungus x2 Vitrified R-Glass x1 Binding Agent x1 Medical-grade Alloy Casing x1
+
+The schematic detailed the instructions for making a high-temperature crucible. The end result looked like a giant kiln hobbled together by a preschooler at a beach, but since the oxygenator worked, Ethan was willing to trust it.
+
+“So once I build that, I can make the R-Glass, smelt ores, and then I can build Celestimed, fix my arm, and fix Reyes?”
+
+CelestOS: There is a 37.93% chance that Lieutenant Reyes will recover, yes.
+
+Ethan grimaced at the low percentage, but it was higher than his chance of surviving the crash had been, so he’d take it. He glanced at his HUD, looking at the locations CelestOS had pinged for him, then took off in the direction of the closest one.
+
+CelestOS: Reminder: Expendable assets performing terrain traversal outside designated safety parameters may inadvertently void warranties on Celestitech-issued equipment. Please leave the CelestiCraft within the pod for safety.
+
+“Noted,” Ethan said, placing the CelestiCraft inside the pod to protect it from the elements. This was the first time he would be stepping away from the relative safety of the pods and their vicinity, and who knew what was waiting outside the influence of the dust storm.
+
+The world looked like a twisted fantasy of a planet. As a kid, it was almost like what he had always imagined Mars to be before he got there and the actual, less-than-terraformed reality shattered his dreams. The red grass swayed in the dust-laden wind, chest-high and wavering in every direction. Vibrant orange trees with orb like leaves stood valiant above it all, sparse but eye-catching. Strange spiraling plants glowed faintly, as if reflecting some unseen sunlight, dancing to their own separate beat in the wind. He didn’t see any animals, but after the earlier attack, he stood vigilant, axe in hand. And then CelestOS spoke.
+
+CelestOS: There is no iron ore in this direction for a dozen kilometers. Please head to the suggested location: 1.14 kilometers, bearing 82 degrees.
+
+CelestOS sent a photo of his objective to the HUD: an iron vein jutting out like a sore thumb near the edge of a ravine.
+
+And then, she dropped a pin on the map directing him on where to go.
+
+—
+
+A few minutes later, Ethan was regretting his life choices. An apprehensive feeling flooded him as his head swam. Coppery spit filled his mouth, and it was everything he could do not to vomit. Looking off the side of the ravine had been a mistake; it was a vast, endless nothingness so far down the light didn't, couldn’t penetrate.
+
+CelestOS: User exhibiting signs of severe physiological distress. Recommend cessation of current activity.
+
+Ethan recoiled from the edge, sucking in a breath that felt like bile but thankfully tamped down the urge. He closed his eyes for a moment, letting his body settle from the disorientation, before looking pointedly at the iron.
+
+“Yeah, yeah,” Ethan said, waving a dismissive hand at the AI. “Just admiring the vast nothingness.”
+
+He turned away from the jarring drop and focused on the task at hand: the jagged iron vein protruding from the cliff. He needed to be careful so the ore didn’t fall off. Venturing as close to the edge as he dared, he hefted the crude pickaxe he'd fabricated earlier and swung. It felt awkward and too heavy one-handed, but he would power through. Just get it done. Reyes needs that Celestimed.
+
+Finally, chunks of dark, heavy ore fell from the vein and clattered to the ground. Just as he was about to pick them up, CelestOS floated down and, almost like a vacuum, sucked them up into the body of its screen.
+
+[Skill Unlocked: Mining 0 → 1]
+
+Ethan smiled as he looked at the notification. The effort from his previous attempt, combined with the mining now, had been enough to unlock the skill, and once he started, the mining went relatively quickly. Where had the skill module been back in college?
+
+CelestOS: Iron ore acquired: 12/12 units. Copper source located: 500 meters, bearing 85.
+
+He turned in the direction of the bearing and immediately turned back around.“I don’t care how far the next one is. We are not going into the ravine.”
+
+CelestOS: Rescanning… Copper source located: 2.6 kilometers, bearing 295 degrees.
+
+That was more like it. Sure, it’d be a hike, and he was already feeling it, but it wouldn’t involve falling into an abyss. He set off at a jog, mind focused on Reyes, but every step sent a jolt of pain through his body. He focused not on his surroundings but on the pain and the tracker. He let it become his guide. The pain meant he was still alive.
+
+The copper deposit lay buried under a low ridge of reddish stone. It was too steep a drop to jump, so he had to run an additional quarter of a kilometer to make it to the deposit. Though he clearly needed a break, who knew how much time Reyes had left? He panted, bent down, and stretched, trying to milk the moment for all the rest it offered. The dull green metal of the surface copper suggested there had to be oxygen on the planet, but Ethan still didn’t dare take off his suit.
+
+This was going to take finesse, a skill Ethan didn’t currently possess and likely wouldn’t earn with one working arm and a body screaming in pain. But he didn’t let it faze him.
+
+[HP: [■ ■ ■ □ □ □ □ □ □ □] 38%]
+
+[O2: [■ ■ ■ ■ ■ ■ ■ ■ □ □] 90%][PWR: [■ ■ ■ ■ ■ ■ ■ □ □ □] 70%]
+
+CelestOS: Efficiency loss detected. Projected survival rate decreasing. Hydration protocol strongly advised to maintain minimal operational viability.
+
+“Shove your viability!” Ethan muttered, swallowing bile. He chipped away stubbornly, each blow sending jolts through his frame yet again. He bit his cheek, fighting the pain, letting the rhythm of it all fuel the energy he didn't have into his one working arm. Reyes needs that Celestimed, damnit.
+
+And if the man could crawl towards a giant monster with his injuries, then Ethan could damn sure do this.
+
+For whatever reason, the copper was harder to mine. It felt like his entire life had been the agony of chipping away at the copper vein, his shoulder burning, fingers raw despite his gloved hand, before he finally had a sizable stack of copper that CelestOS had deemed “acceptable.” The AI squirreled away all of the ore, and then Ethan took off at another jog.
+
+[Skill: Mining 1→2]
+
+CelestOS: Copper ore acquired: 15/15 units. Performance efficiency: 42%. Effort-to-yield ratio was... unimpressive. Two more locations to harvest. Geological survey indicates outcrop composition suitable for lithic requirements. 1.6 kilometers, bearing 337 degrees.
+
+“Caution is my middle name, Cel,” Ethan said. He put the pickaxe back on his back and took off at another light jog. Logistical Computing and AI, he thought bitterly. Could have studied geology, or mechanical engineering. Or Botany. But nooooo. I had to go and study obsolete sciences.
+
+The ground shifted subtly underfoot as he transitioned from the dusty sand and rock into grassy plains. The red field looked like a canvas of flowing red. The grass was so tall it partially obscured his vision, so it wasn’t until a minute later that he realized it wasn't just the shift into the red sea of grass that made the ground shift underfoot.
+
+A shadow loomed overhead, and Ethan froze mid-stride, barely having the presence of mind to duck below the grass. Ice water seemed to flood into every inch of his body as he looked up.

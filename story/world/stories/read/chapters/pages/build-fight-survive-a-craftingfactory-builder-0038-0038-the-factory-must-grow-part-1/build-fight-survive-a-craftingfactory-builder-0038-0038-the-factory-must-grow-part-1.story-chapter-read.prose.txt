@@ -1,0 +1,177 @@
+He blinked, thrown off. “What?”
+
+CelestOS: Naming your primary production unit can increase emotional satisfaction and improve long-term task motivation by an estimated 11.4%. Based on your psych profile, suggested names include: The Hope Grinder, Factory McFactoryface, The Grit Pit, and Fort Maria!
+
+Ethan sighed, a long, weary sound that ended in a quiet, unexpected laugh that scraped his raw throat. “You’re unbearable. Though I do like the sound of The Hope Grinder.”
+
+CelestOS: Thank you for your feedback. Your HR complaint has been updated. Also, the Factory's internal polling has concluded. Majority consensus: Celestitech Base 4.815.1623.42.
+
+He froze. “Wait—why don’t I get to choose? I’m the one running the damn thing.”
+
+CelestOS: That assumption is incorrect. Per Celestitech policy subsection 7.3.1, all autonomous field operations fall under corporate jurisdiction. Tangible and intangible assets, including but not limited to facilities, resources, and nomenclature, remain the intellectual property of Celestitech Industries. Your input is appreciated but non-binding.
+
+Ethan rubbed a hand down his face. “At least the other names sounded like real places. What if I choose two and you pick between them?”
+
+CelestOS: What would you like to name your factory?
+
+He blinked again. “Wait... really?”
+
+CelestOS: Input received. Processing. Pretending to consider options... The Factory has found The Grit Pit to be an acceptable nickname for Celestitech Base 4.815.1623.42. Now that you are done wasting time on this frivolous endeavor, let us return to important factory matters.
+
+Ethan shook his head, lips twitching despite himself. “Grit Pit it is.”
+
+The humor faded fast. His gaze drifted south, past the scrap piles and scaffolding, toward the treeline.
+
+The last patch of Heartfruit forest still pressed in against the cleared perimeter. Thick, alien branches swayed as if breathing. He could almost feel the roots shifting beneath the soil—growing, curling, waiting. If he wasn’t careful, he’d lose the Grit Pit to exploding Heartfruit, or something worse than the Thrall.
+
+That settled it.
+
+“Pull up the schematics,” he muttered.
+
+CelestOS: Accessing fabrication queue.
+
+The Auto-Forester would cost him the bulk of his remaining credits, but the alternative was watching the trees reclaim everything. And after what he’d just gone through… no. Not again.
+
+“Buy it,” he said.
+
+[Auto-Forester Mk.1 unlocked! 200 CelestiCredits Debited]
+
+With the transaction complete, he had CelestOS project the schematic and began drafting the Auto-Forester Blueprint.
+
+[Auto-Forester Mk.1: 25 Iron ingots, 10 Copper ingots , 2 stone, 10 wood]"Why are these recipes so much more expensive?"
+
+CelestOS: Ingredient cost increase due to lack of refined materials.
+
+The forest waited for him, a predator holding its breath. Ethan stood at the edge of the clearing, a line he had drawn in pulp and ruin, his hand resting on the reinforced crate he’d stashed. The ground was still a churned mess of dark, damp soil and the splintered remains of the grove's dead heart.
+
+A sticky, reddish film coated everything, and the air hung heavy with the sickly-sweet smell of rot. Yet the planet was already reclaiming its territory. Thin, purple tendrils, the color of the monstrous trunks deeper in, pushed up through the muck with silent, stubborn life.
+
+Beyond this zone of carnage, the great chitinous trees seemed to watch him, their heartfruit pods hanging like new-grown tumors in the gloom. This wasn't regrowth; it was resistance.
+
+CelestOS: Assembly of Auto-Forester Mk.1 approved. Please prepare the fabrication matrix. Caution: do not lick moving parts.
+
+He didn’t answer ignoring the odd comment about licking parts, and instead knelt and activated the CelestiCraft, which projected a life-sized, glowing green wireframe of the forester onto the scorched earth. He dragged the heavy tri-legged anchor frame from the crate and muscled it into position, the schematic flaring as it locked into place with a pneumatic thunk. The armature went next, followed by the cutting module and the articulated sensor rig. Each prefabricated component was heavy and awkward, but he slotted them into the holographic grid one by one.
+
+With the final component placed, everything snapped into the wireframe, and the entire schematic pulsed. A ripple of energy washed over the components, and with a hiss of steam and a flash of green light, the parts fused together. The machine settled into the dirt, now a single, solid unit.
+
+[Skill: Crafting 7 → 8]
+
+The Auto-Forester finished calibrating with a low chirp and a hiss of vented steam. One of its scanning arms rotated in a slow circle, the sensor lens glowing dull blue as it took in the surrounding forest. It paused on a younger Heartfruit tree just inside the clearing: slender trunk, high branches, thick with pods.
+
+CelestOS chimed in.
+
+CelestOS: Target identified. Optimal harvest yield: 5.6 units. Sap content: moderate. Emotional attachment: negligible. Proceeding.
+
+The cutting arm extended with a high-pitched whirr. A rotary blade unfolded from its housing and revved to life, its teeth catching the red ambient light. The sensor rig drew a green tracking line along the trunk. Then, in one smooth motion, the blade spun forward and sliced through the tree in a spiral cut that was fast, clean, and almost surgical. The tree shuddered and fell without ceremony.
+
+The processor arm swept in behind it, jointed and fluid, snatching branches as they dropped. Bark was stripped, pods funneled into the intake port, and the core trunk was segmented into even logs. A secondary nozzle tapped into a large root and drained sap directly into a pressurized tank built into the machine’s base. Within seconds, three neatly sorted piles formed beside the forester: cut logs, sap canisters, and a small mound of fibrous pulp.
+
+Ethan watched, arms crossed, as CelestOS gave its report.
+
+CelestOS: Harvest cycle complete. Output exceeds projected yield by 12%. Current capacity nearing threshold. Recommend routing materials to long-term storage.
+
+“I’m working on it,” Ethan muttered, turning toward the belt supplies stacked nearby. He hauled over the first segment of conveyor frame, which consisted of lightweight alloy rails with internal rollers and copper conduit rails. He’d salvaged enough to stretch a line from the Auto-Forester to a new storage zone, but he had to lay it fast. The forester was already preparing for its next cycle.
+
+He crouched beside the anchor stake and set the first segment. It snapped into place with a soft click. He added another segment, and then a third. Ten meters became twenty, then thirty, the line curling back toward the base like a metal vein. He’d route the logs and sap separately, but the priority was simple: get the lumber moving before it clogged the machine.
+
+CelestOS: Good decision, Captain. Factory discipline is the first step toward industrial success.
+
+The conveyor rattled to life with a mechanical purr, the rollers humming as the first batch of cut logs tumbled onto the belt. They slid forward with uneven rhythm, moving too fast at first, then settling into a slow, deliberate crawl. Ethan stepped back and watched the first log round the curve near the ridge, making its way toward the small clearing beside the forge where he’d stacked three empty crate frames. He was already there by the time the log arrived.
+
+The crate structure was crude: metal corner rails bolted into salvage panels, the sidewalls reinforced with strips of fire-warped steel and whatever wood he hadn’t burned for fuel the night before. Each was labeled with a thick streak of copper-slag paint: WOOD, SAP, and PULP. He’d etched them with a piece of wire just to make it official.
+
+The belt segment clicked as the first log hit the sorting tray and slid cleanly into the crate’s angled slot. It landed with a satisfying thunk. A second followed, and then a third. Ethan knelt to check the alignment. It was tight, but nothing had jammed.
+
+[Skill : Engineering 3→ 4]
+
+CelestOS, still in its “encouragement” mode, chirped from behind him.
+
+CelestOS: Storage crate capacity: 4.2% utilized. Sorting logic confirmed. Congratulations. Your logging sector is now partially autonomous.
+
+That’s more than most colonial outposts achieve in week one.
+
+“Only took everything I had,” Ethan muttered.
+
+CelestOS: Correct. Labor efficiency: dismal. Outcome: acceptable.
+
+He stood and followed the secondary belt he’d begun laying from the WOOD crate back to the fuel station. The forge’s small burner unit sat dormant, a squat iron cylinder with a side intake chute and a copper heat gauge that flickered between yellow and red. He rerouted the belt to split near the crate, using a slotted junction panel to limit the flow to half-capacity, which was just enough to keep the burner fed without draining all his lumber. The logs reached the burner one by one. The system inhaled them like a hungry mouth with a clunk, grind, and ignition. A soft hiss of steam rose from the vent as the forge lights brightened. The belts surged as the system pressure equalized. The base, for the first time, sounded… alive.
+
+Ethan took two steps back and dropped to sit against the SAP crate. The wood was warm through his jacket, and the air smelled faintly of char and resin. The scent was of controlled industry, lacking the usual smoke and panic of his recent days. It was the smell of pure work.
+
+CelestOS: Power loop stabilized. System sync complete. Well done, Captain. The forest now serves its purpose.
+
+He tilted his head back and closed his eyes for three slow breaths before standing again. The belts kept moving. Logs rolled through the sorter like clockwork, stacking neatly in the WOOD crate while sap canisters thumped into their bin with wet finality. The pulp, for now, was collecting in a third crate, its lid rattling softly every time a bundle dropped. The system was ugly, asymmetrical, and slightly crooked. But it worked.
+
+For the first time since the crash, Ethan wasn’t at the center of the loop. He was just watching.
+
+CelestOS took the opportunity.
+
+CelestOS: Production sector online. Logging throughput nominal. Would you like to name your forestry zone?
+
+Ethan blinked. “You want me to name the forestry zone now? Like you’re even going to let me.”
+
+He waved a hand, too tired to argue. “Just name it CelestiForest One and be done with it.”
+
+CelestOS: Naming key facilities can improve long-term morale and emotional ownership. Based on your psychological profile, suggested names include: Timber Trust, Forestfront Alpha, WoodWorks, and Axecellence.
+
+Ethan rubbed his face. “Please stop talking.”
+
+CelestOS: Would you prefer a randomized name?
+
+“I don’t care.”
+
+A pause.
+
+CelestOS: Randomized selection overridden. CelestiForest 1 confirmed. Very original. Logging zone now online.
+
+He grunted and shook his head but didn’t override it. The crate labels alone had drained enough of his energy for one day.
+
+Still, with the system stabilized, he knew three crates wouldn’t cut it for long. The WOOD bin would overflow eventually. He’d need one for raw logs, another for chopped fuel, and a third just for compressed timber—if he ever got around to structural builds.
+
+He set up two more crate bases in the open dirt beside the existing row, spacing them with enough clearance to attach belt arms later.
+
+A few salvaged beams formed the frame, and he hammered the supports in place with the flat of his multitool. The act of building, which involved physical and repetitive assembly, was its own kind of medicine.
+
+[Skill: Crafting 8 → 9]
+
+CelestOS chirped again, its sensors logging the completed work.
+
+CelestOS: Crate cluster expansion detected. Congratulations. Your storage efficiency has increased by 31%. Suggested reward: 150 CelestiCredits or a free aesthetic upgrade: Woodgrain Overlay Pack.
+
+Ethan leaned back and let the wind run across his face. The forest creaked softly in the distance, but the machines were louder now. It was a good sound: industrial and clean. For the first time, the forest didn’t feel like it was looming. It felt like it was feeding the forge. He stood quietly for a moment, letting the rhythm of the belts wash over him.
+
+The sun was low on the horizon now, painting the edge of the camp in dull gold. Somewhere beyond the treeline, the planet was still dangerous and hungry. But here, in this patch of carved-out earth and welded steel, something was holding.
+
+He glanced back at the Tree Hole and snorted.“Better than Fort Sawdust.”
+
+CelestOS: Fort Sawdust added to alternative naming queue.
+
+The factory moved without him.Conveyors rattled and belts flexed, spitting resources into their designated bins with mechanical precision. The burner hissed with each intake cycle, steam piping out of the side vents in controlled bursts. Even the Auto-Forester had settled into a rhythm of cutting, processing, and dropping.
+
+It was the first time Ethan had truly stood still all day. He was free from sprinting to plug leaks, putting out fires, or fighting off monsters. There was only motion, and it was predictable, ugly, and perfect.
+
+He’d built systems before, though he had never attempted a project like this or completely alone. Resources went in and products came out. The key was managing what happened in the middle. The real battle was always there in the systems, far from any gunfire or chaos.
+
+He walked a slow loop around the Tree Hole (or rather, around the base), inspecting belt connections and listening to the machines. Every loose fitting, every tremble in the rollers, every clunk of delayed timing; all of it told him something. The factory was far from optimized, but it was alive.
+
+CelestOS chimed in, quieter than usual.
+
+CelestOS: Material throughput at 72% projected stability. Local resource pressure reduced. Captain performance: satisfactory. Would you like to access additional blueprints? A system blueprint queue is also available.
+
+The phrase “blueprint queue” hung in the air. He opened the crate where he’d stored his remaining ingots. A decent haul remained, enough for at least one or two more machines. His eyes drifted back toward the sap bin, then toward the blackened path leading deeper into the forest. He wasn’t going back in there unless he had to, yet there were still systems left to build.
+
+He stepped over to the forge and grabbed the tablet-sized frame of the fabrication console. The holographic emitter flickered and projected a single line of pale blue light:
+
+[SELECT NEXT PROJECT]
+
+He hesitated only a moment, then keyed in the next schematic.
+
+CelestOS confirmed.
+
+CelestOS: Design confirmed: T1 Water Purifier. Queue initiated. Please prepare fabrication matrix.
+
+Ethan watched the projection as it rotated in slow arcs, showing modular pipes, steam reclamation coils, and filter panels. All of it was clean lines and bare function. It didn’t look impressive, but it represented clean water.
+
+This meant long-term viability and one less desperate scramble for survival. He looked back at the Tree Hole, then at the forge, then finally at the flat patch of earth near the ridge, which was open, dry, and perfect for piping runoff. This was how it started all over again.
+
+“Let’s build it.”

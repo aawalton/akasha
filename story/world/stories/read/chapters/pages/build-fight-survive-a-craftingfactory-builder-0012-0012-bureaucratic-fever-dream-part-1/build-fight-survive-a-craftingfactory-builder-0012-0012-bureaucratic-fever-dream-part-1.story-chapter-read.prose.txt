@@ -1,0 +1,81 @@
+0012 Bureaucratic Fever Dream, Part 1
+
+A pillar of white-hot gas erupted just to his left, and he was blown backward into the air.
+
+Ethan rolled as he landed. Even within the suit specially designed to resist heat exposure, he felt cooked. And he was expected to go inside one of these vents to grab the material? He did not like the sound of that.
+
+CelestOS: Environmental Incident Report number 002 logged. Hazard: Geo Thermal Vent Cluster. Celestitech would like to remind you that your Survival is our third highest priority. Please refrain from walking on vents in the future.
+
+Ethan staggered to his feet; he winced as he rubbed his shoulder. He was feeling really banged up from the constant bombardment and, honestly, he was starting to panic a little, especially after his health ticked below 5%.
+
+“How am I supposed to get this moss if even being near one of these vents hurts me? Can't you grab it or something?”
+
+CelestOS: My physical manipulation subroutines are limited to basic storage and reconnaissance. Extended Reach functionality requires the Tier 3 CelestiReach Utility arm. Available for use by captain request, only 40,000 CelestiBucks per use, and a signed liability waiver. Would you like to submit a requisition request?
+
+“What, that's outrageous; it's unfair. Stupid fucking robots.” Ethan shook his head and continued further on down towards the map marker.
+
+Despite advances in technology, one thing mankind hadn’t yet figured out was defogging glass objects, and the helm had fogged up from the steam exposure. He felt like he was running blind, but he continued trekking forward: 50 meters, 40, 30, 15, 5.
+
+He was standing on the map marker but couldn't seem to see any entrance. He furiously wiped at his helm, hoping it would clear up, but it was to no avail. So he sat and rested while he waited for the fog to dissipate on its own. It only took another minute, but his aching body refused to budge, forcing him to stay seated for a little longer. And then he saw it, just off to his right.
+
+The cracked stone of the ground gave way to a shallow overhang, almost like where he had mined the Iron ore. Oddly, a faint bluish light leaked from within. Subtle, but unmistakable in its artificial blinking. He’d found the cave. He jumped down from the cliff, which was barely a two-meter drop, and went inside.[Skill: Perception 4→5]
+
+Ethan grinned, but slowly, the smile fell.
+
+The cave’s mouth yawned open like a morning before coffee, something Ethan had desperately wished he had that morning. The source of the blue light was clearly in view as Ethan approached. Someone, or something, had been in this cave before.
+
+At first, he had thought it would be the moss generating the blue light, but instead, someone had installed a beacon at the mouth of the cave.
+
+It wasn’t large, maybe the size of a thermos, but it jutted out of the roof of the cave like a sore thumb. The casing was some sort of black metal, and a faint whirring noise indicated there was some sort of battery powering the contraption. A thin antenna jutted down from the base of the beacon, which emitted the blue light at a constant, unwavering pulse.
+
+Ethan was certain of it. This was his first sign of the old crew. Of Maria. The Celestitech logo was easily identifiable, but if that hadn't confirmed it, CelestOS’s next words did.
+
+CelestOS: Beacon Model: C-Tech Emergency beacon 024A. User ID: Unknown. This was it. This was the first step towards finding her. He rushed excitedly into the cave.
+
+Inside, the air shimmered with a hazy heat. The suit thermometer started ticking up to a sweltering 50°C. Thankfully, it was a temperature the suit was designed to handle. He was no longer worried about managing the temperature of the cave.
+
+He pressed in deeper, his boots crunching softly in the cave. As he moved forward, CelestOS’s voice filled the air.
+
+CelestOS: Interior temperature 52°C and climbing. Within acceptable operating tolerance, especially for expendable assets. Please recover the CrystalSeed Moss within 48 minutes, as that is the approximate zone of viability.
+
+“Great. Practically a vacation cave compared to the rest of my day so far.”
+
+The walls were uniform in a way that made him nervous, as if the scientists that had come here had hollowed out the cave themselves. The further he got into the cave, the harder it was to see as the light of the beacon faded. He turned on the suit’s headlamp and started to notice veins of a liquid emerald color shooting off like a circulatory system up and down the walls of the cave. At first, he thought it was baked into the walls themselves, but as he approached the veins, the moss shriveled up under the light and died.
+
+CelestOS: Crystalseed Moss Confirmed. Caution: Crystalseed Moss is photoreactive. Prolonged exposure to UB spectrum light triggers immediate cellular decay. Avoid pressure, friction, or direct exposure to visible wavelengths.
+
+“Good to know… How am I supposed to harvest or even use any?” Ethan asked the air.
+
+CelestOS: Carefully.
+
+He wanted to scream in frustration at her uselessness, but he turned off the light, and then the magic happened. The moss started to produce light. It took a bit, but his eyes adjusted enough to be able to make out the same veins of moss spidering the walls. He had an idea that would hopefully help him. He carefully moved to another collection of the moss and took his axe off his back.
+
+Cradling the head of the axe, he used the blade to dig under the delicate moss. It started to come loose with the barest amount of effort, peeling away a strip at a time and falling to the floor below. Ethan held his breath with every motion, afraid that even the vibration of breathing might affect the exacting work. But each strip peeled away under his blade with the faintest of sounds, like paper ripping from across a room. The glow of the moss faded instantly, but unlike when exposed to light, the moss didn't shrivel up. Carefully, he placed the bundle of moss into CelestOS’s storage.
+
+CelestOS: Sample Integrity 94%. Warning: unstable when exposed to light. Thank You, Expendable asset #0001, one bundle down, five to go. Would you like to rate your harvesting experience so far? Celestitech values your feedback.
+
+“No,” Ethan gave a long-suffering sigh. “Wait, if I say no, you're just gonna ask me in the middle of battle again, aren't you?”
+
+CelestOS: Correct. Per Celestitech feedback compliance protocol 7.2B, survey prompts must be repeated at randomized intervals until completed. Response avoidance may result in additional satisfaction prompts during high-stress scenarios, as research shows response rates improve by 49% when users are actively experiencing mortal danger.
+
+“Of course. Well, I know when to fight and when to give in. Let's do the damn survey.”
+
+Question 1 of 30On a scale of 1 to 5, how would you rate the ambient temperature of your moss-harvesting environment? 1. Cryogenic. 2. Brisk. 3. Warm. 4. Sweat-fused regret. 5. Oh god, I'm melting.
+
+“Um, 4, I guess. I mean, I'm hot, but the suit's keeping out the worst of it. And c'mon, are there really thirty questions? What about Reyes? He’s gonna die before I have time to finish all of these questions.”
+
+CelestOS: Then I suggest you answer faster. Question 2. Did the photoreactive death of your first moss sample enhance your understanding of Crystalseed care protocols? Yes/No.
+
+“Yes, but can you go faster? Like, I don't know, send them all at once?”
+
+Instead, CelestOS’s voice and the text on his HUD started moving like molasses, with a letter appearing every second. And finally, his anger, which must have been set to boil just behind his eyes, exploded like the steam vent from earlier, and he went off on CelestOS.
+
+“Are you for real? I thought I was the expendable asset, not Reyes. You fucking overpriced, bureaucratic fever dream stapled to a flying battery! He’s going to die while we're sitting here playing twenty questions about grabbing moss off of a wall. There is no way your stupid corporate overlords could possibly need to know about my experience peeling off wallpaper in a goddamn cave!”
+
+This shut the robot up, and Ethan slunk down against the wall, his rage depleted. It was done. He could get back to Reyes. Heal him up. And maybe, just maybe, finally take a rest. He closed his eyes and tried to summon the willpower to get up and go when he heard it. Extremely faint, but a sound nonetheless. An electronic hiss, like some sort of machinery part releasing steam into the air.
+
+He took off at a run. Maybe she was here. He started shouting, “Maria!” All thoughts of rescuing Reyes were gone as all Ethan could think about was potentially finding Maria and the missing Scientists.
+
+The further he ran, the smaller the cave seemed to get. He was starting to feel claustrophobic as the walls crushed in, forcing him to stoop. The clicking noise got louder and louder, as if someone had added a hammer into the mix.
+
+He was forced into a bit of a crouched shuffle, but he kept moving as the sound got louder and louder in the enclosed space. He could make out a blinding light so bright his eyes burned just from the brief exposure. He moved faster. This was it. He had already found them on his first day. People who could help him save Reyes, help him get the materials needed to get them all home. And then— Voices. He could hear voices. He could hear Maria.

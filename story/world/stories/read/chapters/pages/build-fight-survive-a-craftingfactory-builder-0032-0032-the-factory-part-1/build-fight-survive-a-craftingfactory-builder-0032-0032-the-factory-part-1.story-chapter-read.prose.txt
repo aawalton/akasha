@@ -1,0 +1,141 @@
+Part 3, The Factory!0032, The Factory, Part 1
+
+Ethan woke to the smell of cooked meat.
+
+This was something other than the gentle promise of breakfast; the air held no scent of a campfire or the pan-seared rations he’d find during basic on mars. Instead, a thick, greasy, and Wrongly-sweet stench clawed down his throat: a charred, fatty odor his brain could barely process.
+
+He jerked upright with a gasp, his body slick with sweat beneath his falling-apart CMS. The forge lights blinked lazily in standby mode as if waking from their own nap. His back ached from sleeping against the ground, and every joint screamed in protest. The only thing he could focus on was the smell of the meat. He couldn’t focus on what was wrong..
+
+His stomach howled, twisting in on itself with an almost violent desperation. He hadn’t eaten since a time he could no longer recall. A day? More? Staggering upright, he followed the scent.
+
+The source was the bodies, alien ones, the smaller creatures from the night’s assault. Their corpses littered the perimeter. Some were blown apart by turret fire, while others were blasted beyond recognition by the cannon’s final salvo. At least three had collapsed near the forge’s cooling vent, where residual heat had cooked them to a state where their exposed musculature was blackened and bubbling. They had clawed the heat shield right off. There was damage to the forge. Fuck
+
+And yet, somehow he had not only survived the night, but slept through it, and yet. Despite the gruesome scene, Ethan’s stomach churned with pure, undeniable hunger. He stared for a long, His gaze locked on the lump of scorched meat, hand drifting toward the axe slung across his back.
+
+“Don’t,” he muttered to himself. “Don’t even think about it.”
+
+CelestOS: User vitals indicate critical hunger. Anomalous food source detected. Trace Redresin contamination renders sample unsuitable for consumption under Celestitech Health Code Section 3.1.12(b).
+
+“I was just looking,” Ethan snapped. Then softer, “I was just looking.”
+
+CelestOS: You were drooling.
+
+He wiped his mouth, caught, like a kid sneaking cake before dinner. Only this cake could probably kill him, or worse, count as a safety violation.
+
+The craving didn’t go away. If anything, the denial made it worse. His stomach twisted itself into a hard knot, and the red-tinged meat didn’t even look that bad, if you squinted and ignored the twitching.
+
+No more waiting. He needed calories, even if the sustenance fabricator had the culinary charm of wet cardboard and a moral objection to flavor.
+
+He eyed the sustenance fabricator. Then looked away. Hard.
+
+Even starving, he couldn’t bring himself to eat another helping of its signature offering of CelestiChow™: Nutritionally Complete Paste (Beige Variant). Not after what it did to his insides last time. His morning bowel movement had not been fun.
+
+His stomach growled like a dying engine though so he needed something. He groaned, stood, and winced as his joints crackled with every motion.
+
+“I’m fine,” he muttered.
+
+CelestOS: Statement flagged as probable falsehood. Suggestion: Consume one unit of CelestiChow™ to restore optimal functionality. Satisfaction guaranteed under Clause 14.2 of the Emergency Nutrition Waiver.
+
+“I’d rather die.”
+
+CelestOS: That can be arranged. Please confirm intent to void remaining health—
+
+Ethan laughed and shuffled off before the AI could finish its disclaimer. Somewhere in the wreckage, maybe there was a ration pack that hadn’t been vaporized, melted, or chewed on by whatever now counted as wildlife. He didn’t need flavor. He didn’t even need safety. He just needed something other than that.
+
+The path to Reyes’s pod was still scorched from the wreck, a ruin of blackened earth, twisted metal, and scattered fragments that barely resembled an escape pod. Layers of dust had tried to cover the wreckage but still the path he had been making stuck out like a dead riverbed.
+
+He climbed into the wreckage and found the scant remains of the supply locker buried where Reyes had initially been pinned. He sidestepped the dried blood The casing had torn loose in the crash and was wedged sideways between two beams. Inside, the food pouches were still there, miraculously untouched by the monsters last night. Though the fire had reached them.
+
+He pulled one free. The Celestitech label had melted off, leaving behind a shadowed logo, and the contents inside were fused into a solid, charcoal-like brick. He cracked open another and found the same result. All of it was blackened, scorched, and ruined.
+
+“No no no.”
+
+The unmistakable smell of burnt soy protein made his stomach clench again, this time with despair instead of craving.
+
+“Perfect,” he muttered, tossing the pouch into the dirt. He was going to have to eat the fucking shit bricks again.
+
+He climbed out and leaned against the ruined pod, staring out at the scorched landscape left by the fight. The Apex was gone. The only thing that remained was the crater, which was still pulsing faintly with Redresin heat and looked impassable. The turret hummed overhead, sweeping lazily from left to right, its sensors finding no new threats. He hoped it would stay that way until nightfall.
+
+He had survived, if only barely. Despite wanting to do anything but, he stopped putting off eating the “sustenance.”
+
+He blanched but consumed the food ravenously. It was gone before he could even blink. He only hoped whatever it did to his insides waited until tomorrow.
+
+CelestOS: Congratulations. You are now 63% more functional. Recommend hydration, wound sterilization, and immediate factory repair.
+
+“Yeah,” Ethan muttered. “Soon as I can feel my legs again.”
+
+The forge hissed behind him, cycling to life. It was time to rebuild. His stomach twisted again with a tight anger, but he pushed the feeling down and forced himself to move. He took a slow lap around the crash perimeter, searching for living threats. The wind had shifted, carrying the scent of dirt, meat, and ash.
+
+Somehow, the turret stood intact throughout the night, its servos ticking in idle loops. One amm drum had been scorched, but the core infrastructure had survived. He had expected a far worse outcome.
+
+CelestOS: Status report, Forge systems online. Fabricator integrity at 94 percent. Resource containment at 87 percent. Contamination risk minimal. Congratulations, you are no longer expendable, Asset. Your facility is, against all statistical projections, still operational.
+
+Ethan let out a tired, crooked laugh. “You almost sound impressed. Am I really no longer expendable?”
+
+CelestOS: Per Celestitech policy, I am not authorized to experience emotions such as pride or admiration. However, your recent actions have resulted in a revised survival estimate. Congratulations. Your odds have increased from 3 percent to… 7 percent.
+
+With the threat of attack gone, Ethan finally made his way to the drill by walking around the red resin filled no mans land created by the explosion. As he approached the drill, he was shocked to find it standing up right and in idle mode. How had that happened?
+
+He rubbed the sleep away from his eyes, and approached. Despite knowing the apex predator had knocked it over.. he pressed the button and turned it on.
+
+Copper ore spat from the output tray. Ethan exhaled hard. “There it is.”
+
+CelestOS: Well done. Drill functionality restored. Now that you are no longer expendable new missions have been unlocked!
+
+“But I didn’t even do anything?” He said, eyeing the ai with curiosity.
+
+[MISSION]: Desperate Measures
+
+[CURRENT OBJECTIVE]: Step 5/10000 – Gather ore for ingots. 30/30 copper 0/30 iron
+
+Step 6/10000 – Deploy Two Additional T1 Automatic Drills
+
+Step 7/10000 – Fabricate 2,000 meters of Conveyor Belt Infrastructure
+
+Step 8/10000 – Establish Continuous Resource Intake Loop
+
+Step 9/10000—
+
+“Yeah, yeah I get it. Jesus cel. It’s like your back to normal. Did you forget our fight al—
+
+The AI cut him off. CelestOS: No, however now that you are an asset instead of expendable 9996 new objectives have been added to your mission.
+
+He just stared as CelestOS scooped up the thirty units of copper ore, then crouched beside the drill to begin detaching it from the ground.
+
+The clamps fought him at first and after the apex had made it seem so easy, but with a little leverage and a lot of profanity, the rig finally came loose. Iron was the next step, followed by additional drills and the belts. That was enough objectives for now. His factory was breathing again, but he was ready to make it road.
+
+The sun, a dim orange orb in the sky, dragged itself up through the haze, casting copper-toned light over the twisted horizon. Ethan slung his pack over one shoulder, the detached drill secured to his back by the cms’s only remaining useful feature, and squinted into the distance.
+
+CelestOS: Proximity scan complete. Ferrous signature detected approximately 680 meters northeast. Composition estimate: 84 percent purity. Vein depth: moderate.
+
+Ethan grunted. “Only 680 meters? Why did I have to climb that mountain if there’s one so close?”
+
+The floating AI unit drifted closer, lens hovering uncomfortably near his face.
+
+CelestOS: Facial analysis suggests confusion. Please consult mission logs before repeating inefficient behavior.
+
+Ethan swatted at the air like she was a bug. “Back off. I’m fine.”
+
+CelestOS: Please be advised, sarcasm reduces efficiency. Would you like to enable morale-boosting quotes from famous CEOs?
+
+“Try it and I’ll throw you into the resin.”
+
+The land beyond the forge grew uneven, scarred and sunken in places where older fabricators must have once stood. Dead scrub crunched beneath his boots, and strange, root-like tendrils curled through the broken terrain like veins. Ethan stepped carefully around them, his eyes scanning the ridgeline. The landscape remained still. Ahead of him lay only the vast distance, the gnawing hunger, and the work to be done. He felt he was living on borrowed time.
+
+At last, he crested a ridge and saw a dull gray patch against the red dirt. It was a flat and sprawling deposit, dusted with volcanic ash in stead of the dust he was used to seeing everywhere. He rushed forward and leaned down to inspect the spot. As he stared at the patch, he spotted it, a few small shards gleamed in the light, sharper and darker than copper. It was iron just like she said. He dropped to one knee and ran his gloved hand over the surface. “Got you,” he whispered, as he took the comically large drill off his back and placed it down.
+
+The drill went in smoother this time with a familiar, practiced ease. He found a level patch, dropped the unit directly into place, and keyed it on. The magnetic anchor engaged with a rising hum.
+
+CelestOS: Alignment complete. Rotation set. Initiating power sync. Please stand clear of initial drill sequence.
+
+The core spun up with a low mechanical growl. Sparks flared at the bit as it touched earth, then caught, burrowing in slow and deep. It flung dust and iron grit into the attached hopper. Ethan watched, his eyes rimmed with exhaustion despite the good sleep he’d gotten. It was a small step, but soon, the Factory would be running. He hoped that maybe, just maybe, he could finally feel secure from being overrun ever again.
+
+CelestOS: Resource refinement milestone achieved. Congratulations. You are now 17 percent closer to basic industrial competency.
+
+Ethan wiped a line of sweat from his temple with a filthy sleeve. “Please stop with the unsolicited metrics. You aren’t even consistent.”
+
+CelestOS: Acknowledged. Would you prefer Insistent Metrics Mode™ instead?
+
+Ethan snorted. “Sure. Sounds relaxing.” he said sarcastically.
+
+CelestOS: Denied. That feature is reserved for users flagged as high-performing.

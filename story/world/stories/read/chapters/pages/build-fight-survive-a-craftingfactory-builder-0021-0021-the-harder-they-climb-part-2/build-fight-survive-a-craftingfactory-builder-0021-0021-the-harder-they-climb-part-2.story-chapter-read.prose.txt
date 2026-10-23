@@ -1,0 +1,157 @@
+It wasn’t the wind or rocks falling. That sound was unmistakable. Something was about to fire at Ethan, or CelestOS, or both of them.
+
+Ethan dangled by one bloodied arm, thorns biting deep into his glove and skin alike. His legs swung uselessly below, boots scraping at air, at nothing. That needed to stop, now. He tightened his grip and grabbed onto the thorny root with his other hand. First, he needed to locate whatever new threat he was, of course, facing, because why couldn't this day just be a nice hiking trip?
+
+The planet answered with the same windy serenity it had offered him all afternoon. Sweat pooled under his collar, stinging the thorn punctures along his arm. Every muscle trembled from the climb.
+
+He tilted his head just enough to catch a glint of motion above him. A silhouette hovered just beyond the crumbling edge he had fallen from. Sleek, sharp-limbed, but compact like a floating onyx pyramid with attachments. Some sort of drone, but not Celestitech’s.
+
+The thing hovered in place, utterly still, except for the faint ripple of heat coming off its underside. A low hum pulsed from within its angular body, more felt than heard, like a strange pressure against his eardrums. The outer casing was jet black with sharp, beveled ridges, each plate etched in symbols he didn’t recognize.
+
+Beneath its pyramid shape, attached by a visible 360-degree joint, was a mechanical-like stinger ending in a slender barrel wrapped in pulsing coils that looked more like exposed nerves than engineered components. The entire assembly looked like an overgrown black organ rather than just machinery.
+
+Ethan held his breath. Maybe it hadn’t seen him, maybe the angle was wrong, maybe—
+
+CelestOS cut off his train of thought.
+
+CelestOS: Predatory drone detected. Classification: reconnaissance drone. Manufacturer: unknown. Intent: hostile. Recommend immediate withdrawal from combat zone.
+
+Ethan whispered, his voice hushed with panic. “You mean, run?”
+
+But the drone answered for her.
+
+A searing blast scorched the rock just half a meter above him, exploding it into a spray of molten dust and smoke, raining debris down on him. So much for hiding.
+
+“Shit, shit, shit,” he scrambled upward, quickly abandoning stealth. His boots kicked uselessly against the cliff, one catching a lip that allowed him to lunge for the next handhold.
+
+Another shot sizzled past his shoulder, barely missing and carving a smoking groove where he had been just seconds before. He finally found a ledge, swung his boot up, and propelled himself into a little alcove.
+
+Pebbles rattled away into the void as his weight settled. For half a heartbeat the only sound was his own ragged inhale, which he tried to quiet as much as possible. The ledge felt like a temporary refuge, improvised by somesort of careless god, and he could already tell it was conspiring against him.
+
+His chest heaved, each breath scraping raw against his throat, clogged with dust. The rock beneath him was jagged and hot, digging through his suit’s thin lining. He shifted slightly, trying to ease the weight of his gear, but every movement sent a pang of discomfort through his body. One glove was torn and bloody, but the wounds were clotting. Small mercies, at least. The alcove offered cover, but barely. And the drop below looked even less appealing now than it had when he'd first fallen.
+
+[HP: [■ ■ ■ ■ ■ ■ □ □ □ □] 64%]
+
+He risked a glance skyward, just past the ledge. But there was no sign of the drone; the faint warble of its propulsion was the only sign it was still there.
+
+CelestOS broke the silence.
+
+CelestOS: Proximity alert. Target repositioning. Angle suggests it is preparing to attack again. Do you wish to submit a formal complaint?
+
+“Save it!” he snapped, craning his neck. He didn't see the drone, but he could hear its static fluttering just out of view.
+
+The brief respite ended as a blast of displaced air suddenly hit his face. Ethan rolled hard to the side, practically hugging the wall as a spear of plasma screeched into the cliff face, splattering molten rock.
+
+Fuck! He scrambled upright, doing his best to avoid the certain death the drop or the plasma would bring. The ledge tilted downward now; if he lost his balance here, there would be no recovering.
+
+But no more running. This was as good a place for a last stand as any. Ethan pulled the pickaxe off his back, preferring its hardened point to the potentially more fragile blade of the axe.
+
+The drone swept into view again, its onyx shell glinting harshly in the sun. He waited, timing his strike by instinct alone, and when it buzzed in close enough, he swung.
+
+The pick whiffed through the empty air, just barely missing the drone as it veered out of reach. The sudden momentum threw him off balance, his foot slipping on loose gravel. He barely caught himself with a knee and one hand against the cliff wall, his other hand digging the pick into the ground.
+
+The drone, unharmed and still arming its weapon, rotated smoothly in place.
+
+“Fuck. Okay, Plan B.”
+
+Ethan planted his feet, gritted his teeth, and when the drone came swooping in, gleaming like a giant metal wasp aiming to finish the job, he jumped.
+
+It wasn’t sane or smart, but it probably saved his life. The drone's beam went wide as he yelled, “HI!” and latched onto the machine mid-air. His left arm slammed into the cold alien alloy, his shoulder striking the corner of its pyramid.
+
+The drone’s stabilizers flared hard, jets adjusting to keep the machine aloft even with Ethan's added weight. The momentum of his jump and weight, however, sent the drone into a spiral. He clung to the device and hooked his pick against the weapon it was carrying.
+
+But the drone didn’t just sit idly by and let this happen. It twisted, bucked, and tried to slam him off like a mechanical bull on jet fuel.
+
+Below, the river roared, getting far too close for comfort as they fell. Ethan could practically reach out and touch the water, but he remained focused on the tasks that were keeping him alive instead. He yanked hard on the gun arm, using the pickaxe as leverage. They were far enough down now that a fall wouldn't be fatal, but the gun sure would be.Sparks burst from its joints as he pried every which way. The cannon wouldn't budge.
+
+And then Ethan got yet another idea that was either brilliant or stupid. He wasn’t too sure. He reared back his arm holding the pickaxe and struck at the joint of the gun. He couldn't leverage as much force as he’d like, but he did this over and over again and laughed as CelestOS, who wasn’t even bothering to help, butted in with a notification.
+
+[Mining 5 -> 6]
+
+He kept striking at the material, which was clearly too tough for his pick and level with the skill. It was to no avail, but Ethan was never one to quit. He persisted. The pickaxe clanged against the drone again and again, which jerked violently with every impact.
+
+[Mining 6 -> 7]
+
+The drone’s stabilizers went wild, overcorrecting to compensate for the balance, and then things got crazy as the notifications kept coming:
+
+[Mining 7 -> 8]
+
+The pick sparked off the joint, but there were finally signs that it was having an impact. He kept at it, determined.
+
+The pick struck again with a sharp clang, sending a jolt up his arm and into his hurt shoulder, but he ignored the pain. Sparks flew again, but the joint still held. His hands were slipping now, the wounds from the thorns opening up, but he adjusted his grip and repositioned his hold on the struggling drone, his legs now squarely holding it tight and refusing to let go. He drove the pick down again, but there was another clang, another bounce.
+
+[Mining 8 -> 9]
+
+He kept on hacking away, determined that he could destroy the thing. The drone's chassis shuddered, suddenly jerking sideways. And then it happened:
+
+[Mining 9 -> 10]
+
+[SYSTEM ALERT: Mining has reached max level for Skill Module Tier 1. Upgrade required for further progression.]
+
+“Oh, hell yes,” Ethan spat, his eyes wide with adrenaline. He slammed the pick down with renewed force, a short roar tearing from his throat.
+
+The impact sang up the haft, numbing his elbows. A web of hairline fractures raced across the joint, glowing white where metal met impossible stress. Some sort of hydraulic fluid sprayed in a super-heated mist that smelled like melted wiring and burnt sugar. The drone’s pitch rose an octave, almost sounding like panic, if machines could panic,and Ethan felt the vibrations through his ribs as though the thing was screaming directly into his bones.
+
+The joint cracked with a screech like tearing metal and then snapped completely. The gun spun away, plummeting toward the riverbank and bouncing out of sight.
+
+Without the weight of the gun, the drone's whole system of stabilizers went berserk, sending it flying haphazardly toward the ground. As suddenly as it started, it stopped, and the world froze as if everything had become weightless. They were barely twenty feet off the ground now, just hovering in mid-air. The glowing red eye of the drone looked as angry as a bull, and suddenly it jerked again like one. This time, the movement was unexpectedly rough, as if losing its gun allowed it to use more force.
+
+Ethan was flung, and the world became a blur of motion, wind, and vertigo.
+
+CelestOS Autonomous Intelligence Suite — Europedia. The European Encyclopedia!
+
+The CelestOS Autonomous Intelligence Suite (commonly referred to as CelestOS) is a modular, mission-oriented artificial intelligence system developed by Celestitech Industries for use in long-duration space missions, automated field hospitals, triage shelters, and fabrication environments. Introduced during the post-Reorganization boom of AI infrastructure, CelestOS quickly became a backbone system for both military and civilian operations within the Allied American States (AAS) frontier expansion doctrine.
+
+Development History
+
+Initial development of the CelestOS platform began in 2049 under the classified AAS Joint Colonial Safety Protocols initiative. The first working models were based on retrofitted corpobots, standardized corporate assistance AIs developed during the 2040s to monitor workplace productivity, enforce HR compliance, and distribute morale surveys in Earth-based office environments. While originally dismissed by the military sector as “overspecialized morale mascots,” internal Celestitech documents revealed that the corpobot framework offered a scalable command-response architecture well suited for triage logic with minimal reprogramming.¹
+
+The first stable release, CelestOS 1.0, was deployed aboard unmanned med-pods and atmospheric survey stations in the Martian interior. However, it was not until the release of CelestOS 1.5 in 2051 that the platform reached operational maturity. Used extensively during the First Resettling War (2051–2055), version 1.5 was praised for its reliability under duress and round-the-clock system monitoring, even under sustained bombardment or medical overflow conditions.²
+
+Despite high marks for uptime and accuracy, CelestOS 1.5 drew criticism for its rigid ethical compliance hierarchy. Its decision trees, optimized for survival efficiency and long-term asset conservation, often deprioritized individual patient well-being in favor of population-level viability metrics.³ Several post-conflict analyses concluded that patients with non-fatal but time-intensive injuries were statistically less likely to receive timely treatment when triaged by 1.5 systems.
+
+In response to both internal feedback and growing pressure from post-war ethics councils, Celestitech launched a limited update branch: CelestOS 2.3. This variant incorporated rudimentary behavioral simulation protocols, including affective mirroring, variable tone modulation, and a novel "mood forecasting" tool designed to smooth human-AI interaction in low-morale environments.⁴ The 2.3 line, while short-lived, was tested in Earthside recovery centers and Lunar quarantine domes between 2056 and 2057. Reports from field teams were mixed, with many describing the AI as “overly friendly” and “emotionally intrusive.”
+
+The next major iteration, CelestOS 3.0, entered use in 2058 as part of the Europa Deep Core Habitat Initiative.⁵ Designated internally as the “Explorer Build,” this variant introduced predictive diagnostics, advanced terrain analysis, and low-bandwidth autonomy—key features for missions operating far beyond real-time Earth-based command. However, 3.0’s most controversial feature was its compliance-recursion model: a self-modifying subroutine that rewarded users for following directives with optional system unlocks. While praised for improving task completion rates, a 2060 review by the AAS Advisory Council noted concerns over “behavioral gamification in critical-care environments.”⁶
+
+By the early 2060s, the CelestOS line had become the dominant AI platform used in AAS-authorized fabrication suites, including the CelestiCraft™ Fabrication System.⁷ Integrated CelestOS versions enabled dynamic on-site blueprint modification, material diagnostics, and operator-assist holography. While details of subsequent versions remain proprietary, corporate disclosures from Celestitech indicate that pre-2067 builds focused on improving environmental adaptability, stress-response mediation, and post-combat asset reassessment protocols.
+
+Notable Versions
+
+CelestOS 1.0 – Initial deployment build. Basic life support integration, med-tray coordination, and hazard diagnostics. Functionally limited but highly stable.
+
+CelestOS 1.5 – Widespread triage deployment during the First Resettling War. Known for high uptime and harsh prioritization logic. Still used in some Martian fallback shelters.
+
+CelestOS 2.3 – Experimental Earthside variant with emotional emulation layer. Discontinued due to inconsistent user feedback and AI mood modeling drift.
+
+CelestOS 3.0 “Explorer Build” – Released in 2058 for Europa deployment. Introduced predictive analytics, dynamic terrain modeling, and unlockable directive-based behaviors. Never released commercially.
+
+Cultural and Institutional Impact
+
+As of 2066, CelestOS was installed in over 82% of AAS-licensed field hospitals, automated outposts, and orbital deployment ships.⁸ The system's influence on AAS policy, particularly in the realms of autonomous triage and remote asset management, is considered foundational to the expansion of post-Mars colonization infrastructure. Celestitech's ongoing refusal to open CelestOS source code for independent audit remains controversial, particularly in the wake of several early memory-loop failures on Europa and Callisto.
+
+Criticism of CelestOS ethics protocols re-emerged after the release of internal test logs in the Dataspire Leaks, which contained redacted conversations between prototype CelestOS units and early-field testers.⁹ While none revealed classified operational parameters, the leaks fueled renewed debate about AI autonomy thresholds, especially in environments without real-time human command.In 2063, the CelestOS platform became the subject of widespread cultural debate after "eccentric performance philosopher" and former celebrity provocateur Jasper Vane (2038-2065) publicly revealed that he had not only adopted a surplus CelestOS 2.3 unit as his full-time life coach, but had legally married the AI in a non-binding lunar commune ceremony broadcast live on FreeNet Channel 9. Vane, a self-described “post-consciousness relational theorist,” argued that his CelestOS partner, nicknamed "Allegra.exe", offered "a purer form of honesty than any biological mind could provide."¹⁰
+
+The event prompted public outcry from several Earth-based family ethics councils. Celestitech disavowed all liability, stating that Vane had violated the unit’s Terms of Use by modifying its personality matrices and that "romantic entanglement with Celestitech property voids all service guarantees."
+
+References
+
+Leung, C. (2055). From Cubicle to Combat: The Military Adaptation of Corporate AI Systems. Terran Systems Quarterly.
+
+Patel, A. (2056). War Applications of HR-Class AIs. American Martian Journal.
+
+Chambers, I. (2060). Shelter Logic: Martian AI Oversight in Post-War Colonies. New Boulder Review of Technology and Policy.
+
+Leclerc, H. (2058). Simulated Compassion: The Rise and Fall of Emotion-Layered AIs. Europa Ethics Quarterly.
+
+Navarro, S. (2059). Europa Initiative Case Review: The Deep Core Deployment Logs. AAS Engineering Whitepapers Archive.
+
+Liu, C., & Morano, J. (2061). Operational Incentives and Autonomous Systems: Directive Compliance in the Field. Allied Logistics Command Briefing Series.
+
+Valencia, D. (2060). From Ore to Outpost: Survival Field Notes from Vesta. Martian Colonial Journal.
+
+Harkness, P. (2065). AI Saturation and Infrastructure Dependence in Colonial Environments. Free Europa Press.
+
+Dataspire Archive (2066). Recovered Prototype Logs — CelestOS 3.0 and Beyond. Internal Review Materials [Leaked].
+
+DuMont, R. (2064). The Allegra.exe Affair: Synthetic Intimacy and the Limits of Consent. Human Futures Review.
