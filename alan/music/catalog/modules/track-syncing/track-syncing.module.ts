@@ -96,6 +96,10 @@ export const trackSyncing = {
       statement: "A track page a sweep leaves as it was is given no edit.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A track states its type as the address the page filed for it states.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches Spotify.",
     },
@@ -129,5 +133,5 @@ export const trackSyncing = {
     },
   ],
   createdAt: "2026-09-15T14:57:52.100Z",
-  updatedAt: "2026-10-23T13:50:48.028Z",
+  updatedAt: "2026-10-23T13:56:43.112Z",
 } as const satisfies Module

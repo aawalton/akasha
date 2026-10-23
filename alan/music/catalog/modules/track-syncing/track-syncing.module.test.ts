@@ -20,17 +20,21 @@ import {
   trackKeyFor,
   trackValues,
 } from "akasha/alan/music/catalog/modules/track-syncing/track-syncing.module.code.ts"
+import { track as trackType } from "akasha/alan/music/catalog/track/track.page-type.ts"
 import type {
   AlbumTrack,
   AlbumWithTracks,
 } from "akasha/alan/music/spotify/modules/releases/spotify-releases.module.code.ts"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const ADDS = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
 const MINUTES = `${unit.slug}/${minutes.slug}` as const
+
+const TRACK_TYPE = namedAs("page-type", trackType.slug, null)
 
 const ARTIST = "sylvia-daley"
 
@@ -132,7 +136,7 @@ test("a track arrives started by nobody and heard for none of its length", () =>
   expect(values["unit"]).toBe(MINUTES)
   expect(values["status"]).toBe("not-started")
   expect(values["ownProgress"]).toBe(0)
-  expect(values["type"]).toBe("track")
+  expect(values["type"]).toBe(TRACK_TYPE)
 })
 
 test("a track states whether the provider marks it explicit", () => {
@@ -358,6 +362,20 @@ test("a release synced again with nothing new composes no edit for its tracks", 
   const tracks = nothingFiled()
   syncing(tracks, RELEASE, track("t7", "Elf", 90_000, 3))
   expect(syncing(tracks, RELEASE, track("t7", "Elf", 90_000, 3))).toEqual([])
+})
+
+test("a track page states its type the way the page already filed for it states it", () => {
+  const one = track("t7", "Elf", 90_000, 3)
+  const tracks = nothingFiled()
+  tracks.byKey.set(trackKeyFor(one), ELF)
+  tracks.held.set(ELF, {
+    id: "01a0b111-0000-7000-8000-000000000000",
+    ...valuesFor(one),
+    song: "song/sylvia-daley-elf",
+    type: TRACK_TYPE,
+    createdAt: "2026-09-17T20:31:27.263Z",
+  })
+  expect(syncing(tracks, RELEASE, one)).toEqual([])
 })
 
 test("two tracks of one release keyed as one recording compose one edit for that page", () => {

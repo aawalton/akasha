@@ -19,6 +19,7 @@ import {
 } from "akasha/alan/music/spotify/modules/releases/spotify-releases.module.code.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   recordsIn,
   slugsUnder,
@@ -27,6 +28,8 @@ import {
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const TRACK = "track"
+
+const PAGE_TYPE = "page-type"
 
 const SONG = "song"
 
@@ -184,7 +187,7 @@ export function trackValues(args: {
     ownLength: trackMinutes(args.track),
     unit: MINUTES,
     carriedBy: carriersWith(args.was[CARRIED_BY], carrierFor(args.releaseSlug, args.track)),
-    type: TRACK,
+    type: namedAs(PAGE_TYPE, TRACK, null),
     slug: args.slug,
   }
 }
