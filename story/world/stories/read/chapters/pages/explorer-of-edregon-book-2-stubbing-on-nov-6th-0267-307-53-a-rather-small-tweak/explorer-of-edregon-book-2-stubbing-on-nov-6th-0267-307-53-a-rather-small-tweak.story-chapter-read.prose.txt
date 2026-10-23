@@ -1,0 +1,121 @@
+Of the six fragments immediately surrounding Terra, only one of them was easily traversable and entirely devoid of people. Thus it was that Vin found himself jogging through the red desert directly south of them, marveling at his fire resistance amulet as he ran. He knew from prior experience that the temperature of this fragment was significantly hotter than their pleasant, grassy meadow, but to him, it was simply a tad warm. His Artifact Extraordinaire passive increased the strength of his own artifacts, to the point where his amulet made running through the desert a walk in the park.
+
+Not only was the desert devoid of people, but the monsters within were ones he didn’t really have to worry about either. For whatever reason, it seemed the desert only spawned giant sand frogs which preferred to act like small oases and surprise people by snapping their mouths shut on them when they went for a drink. Shia had fallen prey to one of these monsters during their first run through the desert, before rather violently tearing the poor thing to shreds from the inside out. Seeing as the frogs primarily acted as hidden monsters, Vin was free to work on his magic without worry of being attacked.
+
+As he ran toward the center of the fragment, he once again passed the fallen remains of a nomad camp that they’d seen months back. The people of this fragment had attempted to leave the desert for quite literally greener pastures, but things hadn’t worked out too well for them. A large number had been shot down by the guards manning the citadel walls when they tried to break in, and at least a handful more had fallen to the Red Dawn based on the head they’d seen sticking out of a spike in the ground of their fragment. A couple weeks back he’d seen a single one of the tanned desert-folk hiding behind a tree in the Earthers’ own fragment, but Vin had been too busy to stop and chat. He never saw them again after that, so he could only guess at what had happened to the scared guy.
+
+Thinking about his past adventures on Edregon filled him with a sense of nostalgia, and Vin pulled up his interface as he ran. It was hard to believe how far he’d come in just the last three months.
+
+Vinnie Stone
+
+Adventurer of the Arcane: Lvl 44
+
+Titles: Human Vessel (Lesser), Common Ally (Minor), Survivor, Epic Monster Slayer, Spell Weaver
+
+Exp. 980,560/990,000
+
+Strength: 20
+
+Dexterity: 26
+
+Endurance: 68
+
+Vigor: 25
+
+Focus: 68
+
+Magic: 68
+
+Attribute Points: 0
+
+Skill Points: 1
+
+Passive Points: 0
+
+Class Ability: Beyond the Veil
+
+Vows/Boons: Vow of Benevolence/Grace of Gods (Boon)
+
+Capstone: Runic Recalibration, Flexible Formations
+
+Passives: Mental Map, Polyglot, Distance Runner, Threat Detection, Iron Mind, Mana Well, Artifact Extraordinaire, Magical Adept
+
+Skills: Tracking lvl 12, Manacraft, Introspection lvl 19, Dungeoneering lvl 12, Total Resistance lvl 17, Running lvl 18, Cartography lvl 11, Drawing lvl 11, Swimming lvl 16
+
+Tier 0 Spells: Sense Stone (earth), Sense Life (life), Sense Magic (neutral), Sense Curse (curse), Sense Air (air), Sense Dimensions (spatial), Sense Vibrations (vibration), Sense Death (death), Sense Fire (fire), Sense Water (water), Sense Soul (soul), Sense Gravity (gravity)
+
+Tier 1 Spells: Renewal (life), Entangle (nature), Replenish (nature), Light (light), Summon Stone (earth), Concealment (neutral), Familiar Pheromones (nature), Whispering Wind (air), Create Water (water), Isolate Dimension (spatial), Tremorsense (vibration), Decay (death), Neutralize Poison (life), Detect Truth (soul), Create Flame (fire), Enhance Gravity (gravity), Create Air (air), Slow Fall (air), Protection from Fire (fire), Extinguish (fire), Still Wind (air)
+
+Tier 2 Spells: Stone Shot (earth), Stone Wall (earth), Stone Shape (earth), Stone Furniture (earth), False Life (death), Dimensional Sheath (spatial), Aqua Sphere (water), Redirect Gravity (gravity), Fireball (fire), Create Cloud (air), Magic Lock (spatial), Self Destruct (fire)
+
+Tier 3 Spells: Binding (spatial)
+
+He was still pretty early on in his second prestige, but he was feeling good about his Adventurer of the Arcane class so far. Leveling grew slower with each prestige, which meant the days of exploding from one level to the next were already slipping behind him, but his newest class’ ability to uncover the mysterious arcane discoveries was definitely helping in that regard.
+
+Coming to a stop directly in the center of the fragment, Vin made sure there weren’t any fake oases nearby before using a few repeated casts of Create Cloud to create stairs for himself and get up off the ground. It was a technique he’d learned in the sky fragment, and one he’d appropriately dubbed ‘cloud stepping.’ Once he was a few dozen feet up, he formed a far more mana-dense cloud, ensuring that it wouldn’t dissipate for a good couple of hours. No longer threatened by any ground-based monsters, he crossed his legs and let himself slip into Introspection.
+
+He was still taking a bit of a risk going into Introspection out here all on his own, but what was the point of having a divine boon that would save him from surprise attacks if he didn’t use it?
+
+Standing within the black void that was his own mana pool, Vin used Iron Mind to bring up the detailed runes Xaril had shown him and began analyzing them. The sequence of runes to transform a standard sensing spell into one capable of covering miles was honestly genius. It revolved around converting the spell to piggyback off of the ambient mana in the air as it spread out, rather than just relying on the caster’s mana. The mana would be converted back after it bounced back, however, which as Xaril warned, would basically result in Vin killing himself one hundred percent of the time if he were to try using these runes to send out a pulse of Sense Stone or the like, purely due to the sheer amount of information his spell would bring back.
+
+Which meant it was up to Vin to come up with a way to limit the amount of feedback his spell searched for.
+
+“I need to find level 1 Earthers who were freshly deposited on Edregon without any idea as to what was going on…” he muttered, pacing around in his void as he thought. “Sense Curse worked so well because Madam Trebella was the only person for miles around tossing out curses. The charm had no problem locating the one cursed person in the near vicinity. But how can I do something similar for these Earthers?”
+
+The problem was that there wasn’t anything he could think of that the Earthers had which was unique just to them. They’d just travelled through a different dimension, but it wasn’t as if dimensions would be rubbed off and stuck to people, so tweaking Sense Dimension wouldn’t work. They’d have some extra magical residue from the after effects of the Gods’ ritual, but all people had magic radiating off of them, it was the reason why monsters tried to eat people in the first place. Because of that, adjusting Sense Magic was out as well. He could potentially try to mess with Sense Soul, but there wasn’t anything unique about the soul of someone from Earth versus the soul of someone from anywhere else on Edregon.
+
+Except… that wasn’t actually true.
+
+Vin started as he realized he may have just found a solution to his problem. There was one unique thing about Earthers that he’d had pointed out to him time and time again, primarily by Shia, but by some of his other friends and magic instructors as well.
+
+The fact that all Earthers arrived on Edregon with a grand total of 0 in their magic attribute.
+
+Alka had told him ages ago that having a 0 in magic upon gaining access to the System was so unheard of it would have been considered a disability on her world. Shia had also talked about how weird having nothing in magic was for a grown adult, and he’d heard the same from other fragments as well. The fact that Earth was entirely free of magic had handicapped his people a tad by starting one of their six attributes at an abysmal 0, but that very same problem might just be the key to finding the lost Earthers.
+
+If I can tweak Sense Soul to only detect souls that have no magic in them whatsoever, any hits I get are all but guaranteed to be an Earther!
+
+Eager to put his plan to the test, Vin quickly threw together the runic formation for Sense Soul. As a tier 0 spell, it was child’s play for him to craft the runic formation, though he was far more careful about adjusting the runes to do what he wanted. Runic Recalibration gave him a lot of leeway when it came to tweaking spells on the fly, and the notes Xaril had given him were truly genius, but he still needed to be careful. Even so, he managed to put together the prototype for what he was mentally calling ‘Sense Earther.’ It wouldn’t become its own spell of course, as he’d merely tweaked Sense Soul to work on a greater scale and filtered out some of the information he’d receive, but he felt like it still deserved its own name.
+
+“Alright,” he muttered, carefully dialing in the range of the spell and giving it a test run. “Let’s see how this goes.”
+
+Seeing as he was sitting in the dead center of the red desert, Vin tweaked the spell one last time to make it only reach the edge of the fragment before bouncing back to him. There was a chance he might be able to reach out even farther with how Xaril had shown him to make the spell utilize ambient mana, but he had to be careful. He was only a single fragment away from Terra at the moment, which meant there were a few thousand people with entirely magic-free souls right next door, assuming most people still hadn’t bothered to improve their magic attribute. Receiving that much feedback from his spell at once would absolutely kill him, and while he still had his divine boon active for the day, there was no sense in wasting it.
+
+The speed at which mana travelled was truly impressive, as Vin only had to wait a few seconds after casting before the spell reached the edges of the desert fragment rebounded back to him. He let out a sigh of relief when it didn’t come with instantaneous death, but he frowned as he received no readings at all.
+
+He hadn’t considered the fact that receiving no readings would be indistinguishable from telling if the spell even worked in the first place.
+
+“Alright, let’s expand the range a tad,” he muttered, adjusting the spell again. This time, rather than go out in a vast pulse, he directed it more so in a cone aimed directly for the Earthers’ fragment. But rather than reaching Terra and the thousands of souls contained within, he directed the spell to halt after going only a quarter of a mile into his fragment. That ended up returning no hits as well, so he repeated the experiment in quarter-mile increments, bracing for the inevitable wave of death that would hit him if he misjudged how many Earthers he might hit.
+
+Finally, after recalibrating the spell to reach one and a quarter miles into his fragment, he got a hit.
+
+Seven hits in fact.
+
+“It works!” he laughed, jumping off his cloud and landing in the warm sand below. All that was left now was rushing over to where his spell had informed him were seven souls without a lick of magic in them and confirming his findings.
+
+With his attributes, it didn’t take him long to get back to his fragment or find the souls he’d detected, and Vin unintentionally scared the hell out of a random scouting party when he crested a hill while sprinting directly at them.
+
+“Hey, you there!” he shouted, seeing eight faces turn and jump at his sudden appearance. “Hold on!”
+
+Coming to a stop, he couldn’t help but grin as he looked around at the confused Earthers watching him. Based on the pristine Project Ark fatigues six of them were wearing and the fear in their eyes, he could only assume he’d stumbled upon two veterans showing a handful of brand-new combat classes from the fifth wave the ropes.
+
+They hadn’t even been here a full day and Phil had already them put to work.
+
+While the six new people didn’t recognize him, the two veterans clearly did. Vin saw their eyes widen as they took him in, and they quickly gave him hasty salutes.
+
+“The Roamer,” one of them said, before letting his hand fall to his side. “Can we help you with anything?”
+
+“I just need you to answer a quick question!” Vin said, too excited to even care about what he was asking. “I’m working on a new spell to sense specific people’s souls from range, and I picked up you lot from a few miles away. Do any of you have any points in magic?”
+
+He might as well have just said he was working on summoning an army of demons straight from hell based on the crazed looks he was getting from the new Earthers, but one of the two veterans took his question in stride, turning and asking the fifth wavers. “Well? Do any of you have points in magic?”
+
+Six shaking heads and the embarrassed look on the other veteran’s face were all the confirmation Vin needed that his spell worked, but he had to be sure.
+
+“So you put at least one point in magic at some point then, right?” he asked the other veteran.
+
+“I wanted to become some sort of spell-blade when I hit level 20,” the man mumbled, his face almost as red as the very sands Vin had been running on mere moments ago.
+
+Eight souls, and one of them has magic. I picked up the other seven, which means the spell works!
+
+Vin had to stop himself from shouting in his excitement as he realized what this meant. Yes, he had successfully boosted the range of his tier 0 spell to an extreme he hadn’t thought possible, but far more importantly…
+
+He now had the means to track down and hunt for the missing Earthers.
