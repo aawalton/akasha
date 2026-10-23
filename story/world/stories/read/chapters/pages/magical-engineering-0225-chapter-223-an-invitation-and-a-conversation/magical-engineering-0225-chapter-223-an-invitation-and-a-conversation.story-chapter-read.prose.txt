@@ -1,0 +1,159 @@
+The next several days had been spent in some small celebrations, which were used as an excuse for John to cook a few special meals and test out his core advancement. Rabyn used that as an excuse to take a few days off as well. I was surprised to see the Orc seeming to genuinely enjoy himself during the dinners. His apprentice was growing, though, so it made sense. He was as proud of John as I was.
+
+After a large breakfast, following one final night of celebrations, I decided it was time to give the first Arena floor another shot. My initial plan was to do it the exact same way I had before, and use the added skill ranks to boost some of my abilities before trying to add even more experience. I wanted to unlock a few more of my class features, and if possible, get another fortification done before the tournament.
+
+The experience had been enough to shoot me up to level four hundred, but barely. There had been another giant increase in the requirements at that level, going from a number with twenty-one zeros to one with thirty in the course of a single level. Looking over my previous level requirements, there didn’t seem to be any unified reason or easily solved algorithm for why the increase patterns seemed to shift the way they did.
+
+I was only able to move combat simulation up a single rank, so my theory on needing to complete an Arena floor per increase was looking like a strong possibility. Assuming Corey and I had the strength, and so far it was looking like we would, I’d give the second floor a try after I finished upping my skills to their new maximums.
+
+The sheer number of skills I had unlocked had appeared to have rapidly increased. Almost all of them were tied to different types of monsters, humanoids, or other things I had fought. There were several others that corresponded to physical actions as well, but at the moment, I needed to stay focused. Until I could find a way to increase my skill ranks easily, I had to reserve as many as I could for my mana orbs.
+
+For now, I decided only on box cutting, malleting, paired compassing, ranged combat, and sprint. With my increase in mana orbs and the class skills I had started to unlock, I was going to need to be increasingly frugal with the invested ranks. My attribute caps seemed to have risen as well, most of them seemingly to two thousand now. I settled for putting most of my new points into my eight soul and core attributes, as those continued to be some of my most important ones.
+
+I’d need to check over one of the people with the Jester’s soul knots again now that my power had grown there, but I expected to discover much of the same. Considering Elody couldn’t seem to do anything about them, and her core was a much higher grade than my own. It seemed there was just something we were missing in order to fix the issue. It was possible Otis had those answers, but it had been complete radio silence since we first encountered the man.
+
+After a quick check with Corey, I booted up the simulator again. I checked the new modifier as I selected the second Arena floor, scrolling down the growing list until I found it at the bottom.
+
+Well, assuming that did exactly as the name implied, I had my answer for how to get the whole first floor to fight me. I wasn’t nearly ready for that yet, and the experience I could currently get with no modifiers was enough to explore a few more of my class options still, so I wasn’t in a hurry to turn it on. Instead, I selected the second floor fully unmodified.
+
+As the giant bird came into view, I quickly remembered exactly what this floor was. We hadn’t spent much time here the first time we fought the creature. It only took me four fireballs, and that was because two had missed to yet again not spend much time on the floor. Had this match been harder for others?
+
+Simulation Completed
+
+-Total Experience Gained {1.055E11 Points}
+
+Everything froze as I dismissed the experience window. The blackness I had briefly expected before being returned to my desk didn’t happen. Instead, the room morphed around me, into a familiar and not altogether welcome sight.
+
+I was back in the room where I had met the Dwarf and his partnered core. And just like the first time, I was there alone. Had I done something to trigger this, and they were just running late again?
+
+I decided I may as well be ready for their appearance and pulled up a chat window, curious if that still worked in here fully.
+
+Dave: I’m back in the room where I first met the Dwarf and the dungeon core. Can everyone still read this?
+
+Corey: I can, but I assume this is more aimed at those in your System storage, or not here entirely.
+
+Dave: Correct.
+
+Maud: I can read it, but it feels like it’s using mana to really get through if that makes any sense.
+
+Karlinovo: Reading this is very difficult for me. I second what Maud has said.
+
+Apollyon: Accessing the chat appears to be draining mana currently, and while the amount does not seem to change while I have it open, it does not stop either. You would assume that with nothing new happening, it would not continue the active drain.
+
+Gamma: I do not see this drain. Curious, I wonder what is determining it.
+
+Corey: If Dave is considered the originator source of this chat, perhaps it is the people most distant from him that are required to use their mana to access it, and this must be the furthest we have ever been.
+
+Dave: Considering we didn’t see a mana draw while we were all the way on another planet in another universe, where the hell are we?
+
+Corey: I do not know. Even though it superficially resembles where we were the first time. I suspect it is not.
+
+Dave: Okay, I want everyone besides Corey to stay in my storage. Corey, manifest yourself next to me, and we will wait to see if these people ever show back up.
+
+Maud: What happens if they don’t?
+
+Dave: Then I start destroying things until someone pays attention to me.
+
+Maud: Well, now I wish I were there. :(
+
+Karlinovo: Okay, I’ve rigged up a small mana battery for myself, and I can read this again. I’m measuring the drain. I agree with the idea that distance is playing into this. Try to stay alive.
+
+Dave: Thank you, I was planning on it.
+
+Corey’s form appeared next to me as I exited the chat. “I wonder why I wasn’t forced from you the same as last time,” they said.
+
+“I have some theories, but let’s save them until we are out of here,” I said, looking around. Just as before, there was a single table with a chair on either side. “Hey, where the hell are you two this time?” My yell echoed around the room.
+
+“How long should we wait here?” Corey asked as the echoes faded.
+
+“Not sure honestly,” I answered.
+
+“Odd, I’m having trouble… No wait, I’m connected now,” a voice said as the Dwarf appeared suddenly on the other side of the table.
+
+He was alone this time. He also looked much less put-together than he had the last time I saw him. Had something happened to Teral?
+
+“So it was you snatching us again then?” I asked.
+
+“Yes, I apologize for the unusualness going on here, but we are having trouble fully establishing this connection,” Rorland replied nervously.
+
+“Is that why Teral does not appear to be with you?” Corey asked.
+
+“I believe so, to be honest with both of you, I’m unsure what is truly happening here. But what I am here for is to give you an invitation to the next masquerade. While it will be given to Dave, it applies to you as well, Corey. You are also allowed to bring one representative as well as a driver,” Rorland said, constantly looking around the room as he spoke.
+
+He looked like he wanted to bolt as soon as possible. Apparently, he didn’t like it when he wasn’t fully in charge of something. Wait, was it possible I was causing this? He seemed to only know about Corey. Could my bond to the other cores have altered this in any way?
+
+“How exactly will the invite work? Considering so far we’ve only met in this simulated space, and you mentioned a driver, so I assume that means a real physical meeting? So how do we do that and keep our secrets?” I asked.
+
+“Here, take this. It will place the information into your mind. I need to leave.” He tossed a small device onto the table that looked almost like a pager, and then he vanished immediately after it hit the surface.
+
+“Huh, well, do we take it?” I asked, turning my head to Corey.
+
+“I will watch closely for any strange mental interactions as you grab it,” the core replied.
+
+“Thanks, I think,” I said as I reached for the device. It crumbled away as I touched it, and a small jolt passed through me as it fell apart. I could now feel instructions on how to build a single-use gate and how to point it correctly. I wasn’t sure feel was the right word, but it was a sensation that was hard to explain. It was like someone placed instructive memories into my senses.
+
+At the same time those thoughts downloaded into my brain, the simulation vanished. I was back in the workshop, and it seemed we needed to have another meeting already. I sighed, leaning back in the chair, as a message window popped up.
+
+Corey: As far as I can tell, all the device did was place a small bit of information into your brain.
+
+Dave: Yeah, it gave instructions on how to build a gate, as well as the exact coordinates to link it to in order to get us to the masquerade he mentioned.
+
+Maud: Wait, a masquerade? Can I come? Please? :)
+
+Dave: No, but I’ll explain more shortly. Could you work on rounding everyone up, Maud?
+
+Maud: Aww, but okay, yeah. See you soon.
+
+I ran to the other, bigger workshop, wanting to catch Karlinovo before he had a chance to head for the meeting. It wasn’t a huge deal if I missed him, or if he hadn’t even been here, but I wanted to have a quick talk before some of what was in my head got lost in new ideas. Luckily, he was still sitting at his bench fiddling with something.
+
+“Ivan, I assume you saw the messages,” I said.
+
+“I did, and I already assume you want me to figure out exactly what they placed in your head, how they did it, and if we can replicate the information without destroying it, despite what they otherwise intended,” he replied, not looking up.
+
+“Can we do that? As tempted as I am to go to his masquerade, I don’t exactly trust them. We may have something in common due to the dungeon cores, but that doesn’t necessarily mean they are good people,” I said, not sure I was ever going to trust anyone who kept abducting me against my will.
+
+“Probably, how soon is the event?” Ivan asked, standing up from his desk and holding what looked like a miner’s helmet.
+
+“I need to have the gate ready and coordinates entered in one week, at six P.M., and I’m kind of impressed even their message translates time so well,” I answered, giving the helmet a skeptical look. Had he really already cooked something up?
+
+“Put this on. It won’t do much yet, but it should be able to give you a quick scan so I can determine what we really need to build. Had to modify one of the dungeon energy detection systems I was working on.” Karlinovo reached out, offering the odd device as he explained.
+
+“You were building dungeon energy detection systems?” I asked as I took it from him, debating whether to plop it on or not.
+
+“I’m building a lot of things, now put that on already so I can get the readings done before we have to get to your meeting,” he said, scratching his beard and sounding annoyed.
+
+“Okay, damn, what has you so impatient today?” I asked as I placed it on my head, feeling a small zap through my skull as I did so.
+
+“Sorry, just frustrated about the lack of mana situation. I disliked being cut off from that communication system. I’m going to have to either find a longer-term solution than my half assed mana battery or give in to forming a core earlier than I’d like, and I’m not fond of either of the ideas,” he replied, pulling out a device and walking behind me while tapping away on it.
+
+“Oh,” I said, not having considered that. The idea of living a life, even if it was one you never thought you’d have again without access to all the magical things I’ve found since I entered Spiral, wasn’t a pleasant thought. I could see why having that pointed out again to him today would leave him a bit more stressed than usual.
+
+“Yes. Well, the good news is I concur with Corey. I do not believe this data is in any way detrimental to you. Creating something to copy it will be easy enough, that trick will be getting the copy after your brain deciphers it, though, as the initial data itself is heavily encrypted,” he answered after several more taps.
+
+“If it’s encrypted, how do we know it’s safe?” I asked, not entirely relieved with this claim.
+
+“Fair point, I suppose the data could have some hidden routine able to hack your brain, or more likely, the connection you and Corey have. The mechanism itself, though, did nothing beyond place that data there. More reason to get a full copy of it pulled out then. Hrm, remind me to start a list of mana orbs we need, because there are a lot that would make this much easier,” he replied.
+
+“Not that I’m exactly surprised at this point, but there are mana orbs that can help with data decryption?” I asked.
+
+Assuming their encryption standards were anything comparable to Earth, I imagined that was about the only way cracking this was remotely feasible. As things currently stood, some of our best encryption would take longer than the life of the sun to break, assuming, of course, there wasn’t a radical shift in technology. I remembered reading something about quantum computers being able to change that, but I had never really dug into it.
+
+“Several, depending on the route we’d want to take toward cracking it. A lot of the mana orbs focused on stealth tend to help with things like that for the obvious reasons. There are also some of the conceptual mana orbs, but getting our hands on those is pretty unlikely. If you ever come across a math or logic mana orb, or even anything like that, you do everything you can to bring it back. We could easily work some wonders with one,” Karlinovo replied as he took the device off my head.
+
+“I’ll make sure to do that. Ready to head to the meeting?” I asked as I ran my hand through my hair after taking off the helmet.
+
+“Yeah, got all I can get right now. I’ll need to spend the night working on some designs to really get that data. Wish we had longer,” he replied.
+
+“That’s the story of our lives.” We never had enough time for anything. Nothing could ever be easy, and everything was always critical. At least we were sometimes getting periods of downtime now. That almost made up for it, almost.
+
+What exactly is in a name? Is it just something to identify you? Or is it something fundamental to the core of your being? True Naming magic would suggest it’s the latter. Somehow, people training in this obscure magical field are able to control not only beings but also the world around them with their magic.
+
+This form of magic is believed to have originated on an early planet integrated into the Spiral, but mostly became lost as they adapted to the standard mana orbs of the rest of the wider populace. Somehow, thousands of years later, it appeared again in the hands of a group of druids able to coax plants beyond anything anyone had seen a mana orb able to do.
+
+The druids were not the problem. No, it was the Sect of the Hidden Hand that caused the true namer to be banned entirely. How long they were active before they were discovered isn’t public knowledge. But by the time the general populace knew of them, they had already learned hundreds of thousands of people’s true names. Billions died from their actions, and ten times as many lost their minds trying to break free from the control.
+
+Your true name is more than just the words you sign to identify yourself. It is your core identity that makes you who you are to the universe itself. And when someone who understands how that connection works learns your true name, they can force you to do almost anything. Few have a soul strong enough to resist. It took a legion of soul mages to bring down the Hidden Hand.
+
+Everything in existence, from the smallest pebble to the largest star, has a true name. And should true namers ever appear again, there aren’t enough soul mages left to make another legion.
+
+Magica Esoterica Volume 2: True Naming by Averew

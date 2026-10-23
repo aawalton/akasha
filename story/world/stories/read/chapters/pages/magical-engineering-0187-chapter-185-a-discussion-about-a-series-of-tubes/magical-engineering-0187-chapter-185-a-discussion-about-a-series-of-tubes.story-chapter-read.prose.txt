@@ -1,0 +1,65 @@
+“Great, another trip in chaotic space,” Yorela said, sighing loudly before she spoke.
+
+“Not that I’m implying we won’t help, but we don’t really have the resources for a trip like that, and aren’t likely to do so anytime soon,” I replied. I didn’t want to sound like I’d just abandon their city to the monsters out there, but I also didn’t know if we realistically could do anything.
+
+“This is unlikely to be a pressing issue. Hub City should have resources to defend itself for many decades still. But the longer the problem persists, the harder it will be to deal with,” Traveler Thirty-Two said.
+
+“Yeah, this isn’t something we can help with right now. I agree,” Glunderlin added. I was glad for that, as I still didn’t like the idea of leaving them to fend for themselves, but as long as this was a future problem, we could build toward helping there.
+
+“Even if we can’t right now, I will add it to the list of things I plan to address in the future. Alright, for a different topic, we need to come up with a full layout for expansion to the homestead. Let’s design it as though we expect it to be a growing city, as best we can. After that, Ivan has some plans to work in a series of defenses,” I said.
+
+From there, the conversations continued for several more hours. We covered everything from theoretical workloads for the people to the acknowledgment that we’d need a water and sewer system if we were really going to do this. I had accepted in the last few hours that we were. This was to be the capital city of the Empire of Dave. Glorp would handle getting the information out on the vote for a name, and people would submit their choices to a ballot box stored in the dining hall by the end of the week. In the end we had decided to establish a planning council with more of the Reltleons and Trolke for a better design.
+
+Cecile and Elicec would handle getting the plants, crops, and livestock situated while working with Glunderlin to determine who they could start working with to handle agriculture. There was a ton of work to be done, and Cecile seemed both eager and stressed to continue it. Connie surprisingly wanted to train a few entertainers. She thought it was something every city needed. Even more surprising was the fact that no one disagreed.
+
+Rabyn and John were already working on meal planning and skill assessments of their added staff. Elody, Yorela, and Quarilyn were going to begin constructing a small-scale transport link between here and the arctic dungeon, which left me planning some experiments with Karlinovo under his assumed name on various materials.
+
+All in all, it was a productive meeting. We broke with Grant saying he’d fill in his superiors, and Rabyn asking to speak to me in private for a moment. I told Karlinovo I’d meet him back at the workshop shortly and headed for the kitchen.
+
+“So what secret thing do you want to do then?” I asked. I had no idea what he wanted, but I was guessing he had finally decided he needed to do something about his mysterious past.
+
+“Oh, nothing yet. I actually just wanted to show you a coin I found in the Arena. Recently, it’s gained three words, and I’m quickly growing concerned with what else it may say when a fourth appears,” he answered. He pulled out a small silver coin and tossed it to me as he spoke.
+
+“All is not?” I said as I read it. “When you say gained, what exactly do you mean? Were these not here when you found it?”
+
+“No, they were not. Each word has appeared slowly over the last few weeks, seemingly with no consistent rate or action to cause it. I have no idea what it is, or why it’s happening,” he answered.
+
+“Okay, fair enough, but what do you want to do about it? It seems like you still want this a bit secret since you only told me, and I have no idea,” I said. There were a handful of people who were much better suited for answering what the hell he had than I was.
+
+“I am aware, but I don’t want to tell them just yet. For now, I wanted you to know in case something does happen with it, and that something begins affecting me. I don’t sense any ability of it to control me, but I’m also aware of the Jesters and their soul knot, which I can’t sense either,” he replied. One of his hands balled hard into a fist, as the frustration of this situation showed.
+
+“Those damn soul knots. I wonder if that’s something Otis can help with,” I said. Otis and the soul realm had been another topic we had discussed at the meeting. Sadly, no one knew anything beyond what I had already learned. What little Pryte and Karlinovo knew was possibly all I’d get to know until we met with Otis again.
+
+“Maybe, hell, hopefully, but just remember the coin, please,” he replied.
+
+“I will, anything else you’re keeping secret?” I asked, knowing the answer was obviously yes.
+
+“Of course, but nothing I’m remotely willing to share, or that affects your Empire as far as I know,” he said, his rare smile back on his face.
+
+“Good to know. Well, tell me if anything changes with the coin, and I’ll make sure I and the cores are watching for any changes in your personality. In the meantime, I have to see a man about conduits,” I said. He nodded, but said nothing else, which was my cue to go find Karlinovo.
+
+To my complete lack of surprise, he was exactly where I had expected him to be. “So, what exactly is the load we need to carry across a cable? Are there any terms to describe mana loads that might help as we work this all out?” I asked after I found him again, taking something apart in the workshop.
+
+“There are many, none are accurate. It had been long on my list of things to do to perfect the understanding of mana transfer rates, and it seems we will no longer get the luxury of putting it off. Tell me, Dave, how generally has your planet used energy transfer cabling so far?” He replied with his own question, dropping part of what I thought was still the microwave as he spoke.
+
+“Well, we use cabling to transmit various things. There are even different protocols designed to encode and decode transmissions across some kinds of cabling. What I’m guessing we need here is something capable of handling a large electrical load, as that was what I did my guess work on for my sockets when I was following what you had written,” I replied. That, of course, assumed that was what a refined soul plate was. I hadn’t had any real time to test that.
+
+“Yes, we will need something unlikely to melt as we put the energy through, but that will only be for the major charged portions. We will likely need to design our own protocol for handling and routing different types of mana as well, but I think that part can wait for now. First, we will need to get something set up to handle the only type we are currently working with. Do you have any of this large electrical load cabling available?” He asked.
+
+“No, but I do know where we can get some. The electrical grid doesn’t reach far enough to actually connect to the house, but if we send Timon out tomorrow, we can likely scavenge some from a nearby town. Most looked pretty abandoned the last time we passed through, so as long as that holds, it shouldn’t be a problem,” I replied. In truth, we should scavenge more than just that, and I’d likely bring a few people with us to get any materials that seemed useful for these experiments.
+
+“Perfect. An interesting side effect of this new body is that I need to sleep again. I had forgotten how much time that wastes,” He yawned deeply as he said this, his face showing the annoyance his words had conveyed.
+
+“Was it just your old body that meant you didn’t have to sleep, or did you somehow overcome it?” I asked. I was incredibly curious. If I could move my body past sleep, that was effectively a third more time I could add to my day.
+
+“Oh, nothing so easy. It took several mutations to get myself capable of it, and it was a difficult balancing act. For whatever reason, your mana seems to recharge best in a state of rest, so you need to be able to create a way for your body to rest in portions if you want your soul-core reactor to continue to function at its peak rate. It took me nearly a century of testing to even get anywhere near the point of that. I wasn’t able to completely remove my need for sleep for another two centuries still,” he replied.
+
+“Ah, too bad. You had me hopeful for a quick way to add time to my day,” I said. It was still a great idea, and in three hundred years, once the man had done it again without destroying himself with years of self-experimentation, I’d consider it, but for now, there were limits on how far I’d leap without looking.
+
+“Well, there are other ways to do that, though any time-related mana orb is going to cost us far more funds than we have. But enough said for tonight, I must sleep or my wonderful brain will stop working at the levels it usually maintains,” he replied, yawning again as he stood up from his bench. He vanished behind one of the plastic sheets that separated off the small, half-constructed room he had taken to sleeping in.
+
+I did the same, happy to be back in my own bed after our trip.
+
+The Chrlopians make an interesting dish that I find somehow amazing, and yet very rudimentary in its preparation. The flavors seem to come mostly from the vegetable itself, allowing for the lack of needed additions when cooking it. It resembles a carrot in shape, but both taste and texture are wildly different. One bite will taste like an amazing cut of steak, while the next will bring you home to a childhood memory of the first tasty treat you were ever given. Strangely, there appears to be no mana involved in the effect. They call this dish the nostalgic taste of home.
+
+100 Recipes for Your Core by Jordan Hamsy

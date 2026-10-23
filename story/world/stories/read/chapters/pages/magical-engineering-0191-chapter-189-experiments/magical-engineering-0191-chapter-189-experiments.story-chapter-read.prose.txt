@@ -1,0 +1,85 @@
+Mel had agreed with adding Yorela and Grant to the squad. He had, in fact, already been planning to broach the topic of Grant. On the other hand, he was against adding any Reltleons until he had a chance to really pick through the guards, and as there likely wasn’t time for that before the next floor, it was a no-go. Apparently, the next floor would be another monster battle.
+
+The only problem was that, much like the first floor, there were no second chances here. The twenty-first would be the same, though he made it clear the pattern would not repeat after that, as post floor twenty-five, everything became entirely random. This meant that I completely agreed with this reason for not letting the Reltleons into the squad yet. Hell, I wasn’t even sure we should add Grant. But Mel seemed confident he’d be fine, and he hadn’t been wrong yet.
+
+Since Pryte wasn’t back yet, I had decided to make my way to the workshop and see if Karlinovo had managed to figure anything out with our scavenged materials. “Perfect timing,” he called as I walked into the room, tossing what looked like an Ethernet cable at my face.
+
+I caught it, something I wouldn’t have been able to do less than a year ago. “Perfect timing for what exactly?” I asked.
+
+“You made those tools work right? See if you can put any mana through that without destroying it. Start small. I’m hoping the eight smaller wires inside can handle it. Interesting idea to twist them together like that, I bet it helps with bleed issues,” he said.
+
+It had been a long time since I had done much with network engineering. Not that I had ever really done much besides read a few textbooks and crimp my own cables a few times. But I was pretty sure Ethernet cables were twisted to reduce crosstalk, so bleed was as good a word as any.
+
+“Alright, but I don’t have any blueprints for this, so we will see what I can do,” I said as I pulled up mana tinkering and just focused on the cable. There were no mana infusion points listed. So instead, I pulled up a chat window, wanting to try something.
+
+Dave: Corey, can you attempt to infuse this cable from one end with each of my mana types?
+
+Corey: Yes, it may destroy the cable, though.
+
+Karlinovo: That’s fine, but go very slowly. Hmm, actually. Gamma, can you manifest and hold the other end? Try to detect the output on it.
+
+Gamma: Okay!
+
+Karlinovo: Also, start with four. Since you don’t have a full eight, that will probably be the best we can do for now.
+
+Beta: What can I do?!
+
+Dave: Actually, I do have something for you to do. Can you find Elody and Glunderlin, and see if they have anything they’d be willing to part with, similar to refined soul plate. Let’s see if we can’t get you and Gamma your own mana orb sockets.
+
+Beta: For the Empire!
+
+Taking that message as a yes, I closed the window and handed one end of the cable to Gamma, who had just appeared in front of me. I felt four of my sockets fire, and the different mana types leave me through the first end of the cable. It happened in a fraction of a second.
+
+I tried to recall some of my material science classes on the speed of electricity across different mediums, but I was also pretty sure there was something about limits to data transfer rates being even lower. There were also standards for Ethernet cable versions, now that I thought about it. For a proper experiment, we’d need to track that in the future.
+
+It was probably time to get a few engineers out of the president, since he was so willing to make deals now. While I knew a little about most facets of computer-related technology, a lot of that was likely outdated. My primary specialty had always been in core architectural design, and even that had raced past me since I retired.
+
+“How much did we get?” Karlinovo’s question pulled me back to the current experiment, but I made a quick mental note on the engineers. I didn’t want to let anything push that out.
+
+“One moment, comparing what I detected with what Corey released,” Gamma replied.
+
+“Each of the smaller wires stayed at roughly ninety-nine point nine nine nine nine nine seven percent signal. I believe that would change if more mana types were added or the length of the cable increased or decreased,” Corey answered after a brief pause.
+
+“There’s also a standard for how these cables are designed, and there are different versions. We’re going to need to track that as well for tests.” I lifted the cable to my eyes and found some white text identifying it as “5e.”
+
+“Interesting, and based on how it was designed, I assume these types of cabling are used to push some sort of data, not just a simple electrical impulse or something similar, correct?” Karlinovo asked.
+
+“Yes. Generally, we use them with computers to connect them together in networks. I’ll find you some books to read since this is a giant topic and I’m not really sure what level you’d want me to start rambling at,” I said. I also had things I’d much rather do than give a lecture on a topic I wasn’t up to date on.
+
+“That would be great. I need to understand more of what’s available on the planet. We aren’t likely to be able to afford any kind of real mana relays anytime soon, so we will be stuck building our own for now. The good news is that if your factories can produce these, that might be easier than I thought. The only real downside to using these cables is that we are going to be limited in mana channels and the burnout rate. Corey, did you happen to spot how much load the mana put on the wiring?” Karlinovo was picking through several other wires he had cut open while speaking, finally yanking up a large untouched section of one of the high-voltage lines.
+
+“A few months at most, we could modulate the channels used, which should increase the longevity. I believe if we go as low as two per line, we could keep them functioning for a year, but that would drastically reduce any sort of mana type interplay on each connection,” Corey replied.
+
+I followed most of what they were saying. I just didn’t know exactly what the type interplay would be used for. As soon as everything was settled again, I was making it a priority to find a way to access the books we had taken from the archives, which were now stuck in several of the transports’ storages.
+
+“I can make that work for the mental defense I have in mind. It won’t work for much beyond that, though. We will need to get more of this if possible and start working on hardening for mana transfer as best we can. With the tools we have available, it’s going to be a long and tedious process, but at least we will know exactly what it will be capable of. But here for now, let’s try this too,” Karlinovo said as he tossed me the larger cable.
+
+“What do you want me to do for this one? Just a giant blast of a single type?” I asked, assuming that was the answer.
+
+“Mostly, but keep going until it melts. Corey, Gamma, make sure you measure down to the nanosecond the moment it gives under the stress, and Corey, keep track of just how much power you pour into this. Hmm, wait, Dave, you should probably put a shield around Gamma and try to reabsorb the energy that way. Might be safer, don’t wanna fry the little guy.” Karlinovo added that second part jovially.
+
+I tossed a shield around Gamma and then gripped the cable firmly in my hands. Hopefully, Corey was ready to handle the feedback loop. “Ready?” I asked.
+
+“Yes,” Corey answered.
+
+I pushed as much core mana as I could through, not wanting to touch a drop of soul yet. While I suspected we’d need that in future soul defense mechanisms, for now, I didn’t want to throw the experiment off at all. I felt the mana hit the shield around Gamma, and then started to feed back into me. I poured as much of my core energies into this as I felt I safely could. It was certainly a strange feeling as the energy continued to cycle through, weakening each time, until about a minute into it, the cable started to crackle, and then burst into flames.
+
+I dropped it, as Karlinovo quickly smothered the flame. “Well, was that long enough?” I asked.
+
+“Likely yes. Corey, if we used about a tenth of the energy there, how long would the cable last?” Karlinovo answered as he picked up the burnt cable and examined it.
+
+“A decade.”
+
+“We won’t be running anything capable of charging all those transports at once, but I think we can manage a passive mental shield across the city. Guess we will want to bury the lines just in case of overload in any mana storms. Though we should be a while away from anything like that with this flow,” Karlinovo continued.
+
+“If we are going to bury the cabling, it’s probably best we do this right from the start. We will want to dig some utility tunnels along the entire exterior of the city. That will make it much easier for upgrades as we go,” I added.
+
+“Yes, yes, good idea. We will want to add some subfloors to our labs anyway, easier to control environmental variables that way. Oh, Dave, by the way, I was reading about the nearby planets. Is there really no life at all on your moon or Mars?” he responded.
+
+“Uh, no, why?” I asked. Had he started down the same path of thought I had?
+
+“Well, it’s just you mentioned that curse earlier. I bet it’s only localized to Earth. We will need some supplies, and I may need to read some more in-depth studies on the makeup of those worlds, but I don’t see why we couldn’t have massive greenhouses up and running one day,” Karlinovo answered casually. He had no clue how revolutionary his idea really was. I was glad that I had had it first.
+
+Many people find themselves on the same path their families took before them. Often these class paths come with several specialized tweaks you wouldn’t see in a standard class orb in the wild. As the family’s knowledge grows, so do the abilities contained in the classes that are passed down, or duplicated. This is why family lines are often so much more powerful in a certain class than those with an equal time spent training in it. Even my own brother followed our father into the family line. While I had considered it as well, I found my calling in a different field.
+
+Family Paths by Glarppp
