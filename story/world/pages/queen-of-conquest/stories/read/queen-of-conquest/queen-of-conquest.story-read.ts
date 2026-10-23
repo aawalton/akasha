@@ -1,0 +1,43 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const queenOfConquest = {
+  id: "01a1693a-00f2-7842-84a3-dfef50a4129c",
+  type: "page-type/story-read",
+  slug: "queen-of-conquest",
+  author: "Fudge Esq",
+  following: false,
+  unit: "unit/words",
+  title: "Queen of Conquest",
+  world: "world/queen-of-conquest",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "85474",
+      externalLink: "https://www.royalroad.com/fiction/85474/queen-of-conquest",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Anti-Hero Lead",
+    "War and Military",
+    "Adventure",
+    "Fantasy",
+    "Historical",
+    "Tragedy",
+    "Female Lead",
+    "Grimdark",
+    "High Fantasy",
+    "Magic",
+    "Reincarnation",
+    "Ruling Class",
+    "Strategy",
+    "Strong Lead",
+    "Villainous Lead",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T14:46:11.442Z",
+  updatedAt: "2026-10-23T14:46:11.442Z",
+} as const satisfies StoryRead
