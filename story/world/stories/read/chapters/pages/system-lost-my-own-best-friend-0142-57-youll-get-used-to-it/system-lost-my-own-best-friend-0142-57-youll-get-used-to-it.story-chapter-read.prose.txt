@@ -1,0 +1,371 @@
+There’s a lot to cover here, so I start a new sheet of notes to keep track of everything while we break it all down. Three of us need to choose a new class—Allie, Eva, and myself. By sheer coincidence, the classes to choose from can be separated into three categories. Grade three fusions, grade two fusions, and grade one—or tier zero—classes.
+
+Without rehashing too much, I quickly jot them all down in shorthand, roughly translating to:
+
+[Three-star]
+
+Itinerant Hero
+
+Travel Guide
+
+[Two-star]
+
+Oneirocritic
+
+Lucid Dreamer
+
+Graduate
+
+[One-star]
+
+Adept
+
+Adherent
+
+Apprentice Ranger
+
+Linguist
+
+Orator
+
+Scientist
+
+Social Butterfly
+
+Solver
+
+Naturally, there are a lot more one-star options, including some that I didn’t bother writing down. I tried to narrow it down only to those that we’ve seriously considered taking.
+
+“I still think we should get our next three-star class as soon as possible,” I tell the others. “Even if we don’t take one of the two already available, we should prioritize mastering one of the two-star classes. Whichever one-star class doesn’t go into that, we’ll save to combine with [Tamer].”
+
+“No,” Maggie interjects. “I’m going to combine [Tamer] with [Adept].”
+
+“Aaargh!” Why is she like this?! “Maggie you have changed your mind about this literally every time we’ve discussed it, including earlier today? If you won’t explain why, then I’m not interested in letting you waste our time.”
+
+“With what we have available right now, [Exploration] and [Helping] are total dead end domains,” she argues. “Nipper is magical by nature, and I’m already using magic in my efforts to train him. That’s just a sensible combination that leans into what we’re already doing. I’m reasonably sure that I’ll be able to progress much faster in the new class than I have with [Tamer].”
+
+“Based on what?”
+
+“Vibes,” she states matter-of-factly. “Tamer was a bad match for me, as much as I love our little Nip-Nip, but if we loop the magical aspect into it, I think I’ll do better.”
+
+“At this rate, you might have to wait until five stars to merge that into our core class,” I warn her.
+
+“We can’t do that,” she insists. “It has to be our four-star class.”
+
+I don’t know why she’s so insistent on that, but she seems to have been planning something since all the way back when we first created our core class.
+
+“Then what do you propose?” I ask. “We’re already pushing it by delaying our next three-star class.”
+
+“I’ll master it before anybody else can master another two-star class,” Maggie replies. “Then you won’t have anything to complain about. No extra delays.”
+
+Her bold claim leaves me stunned for a moment.
+
+“You do realize that you’re only halfway through one of the two classes you need to master before you can even start, right?” I point out. “I know you’re arrogant, Maggie, but this is delusional even for you.”
+
+“Fuck you. Prove me wrong, then,” she insists. “I was gonna ask one of you to handle Adept for me, but if that’s how you’re going to be about it, I’ll just do it myself!”
+
+“You don’t have to do that, Mags,” Allie cuts in. “We’ll help.”
+
+“Will you now? Because last I checked you pushed for learning magic and then gave up and left it to the rest of us because it’s too hard.”
+
+“That’s not—”
+
+“I’ll do it,” I interject before things can get any more heated. “Magic sense has been a major weakness for me, and maybe practicing [Adept] will help while I learn more thaumaturgy.”
+
+“I thought you were against my idea,” Maggie says.
+
+“I’m not against it, I just doubt your capacity to actually pull it off,” I clarify. “I was considering taking the class anyway.”
+
+“Is that Vi settled, then?” Allie asks. “If so, it’s just down to Evie and me.”
+
+“Sure, unless we come up with a better plan in the meantime, let’s consider me picking up [Adept] to be final.”
+
+“Evie, you’ve been pretty quiet,” Allison says. “Do you have a preference?”
+
+The silence that follows is long enough to grow awkward, and for a moment I’m worried that Eva just isn’t going to respond.
+
+“[Lucid Dreamer],” she finally replies, without further clarification.
+
+Well, so long as somebody is working on a two-star class, I suppose it’s fine. That just leaves Allison. It would be best if she picks something that fits well with [Teacher], maybe [Linguist] or [Orator]. I also need to consider what our attribute balance is going to look like. We’d planned it out so carefully before, but I worry that things are starting to fall apart as we take on too many new classes and keep changing direction.
+
+While Allison ponders her options, I start taking more notes. Of the five base attributes, our current core class grows evenly in everything but Will. Assuming we follow Maggie’s plan, the class she wants to create would grow in Awareness and Ego.
+
+“Maggie, what were you planning to merge into your theoretical three-star class?” I ask.
+
+“Probably [Savior],” she answers immediately. “That’ll rescue the [Helping] domain from being useless by letting us apply it to Nipper.”
+
+I want to correct her both on the fact that “Helping” is probably not the technically accurate term for that domain and also the fact that she can’t be certain it will work the way she’s assuming, but at this point I’m used to Maggie stating her assumptions as fact. It’s easier to just ignore it and move on.
+
+So that would be Resilience and Ego, combining to Resilience, Awareness, and two stacks of Ego. Putting that all together with what we have now brings us to growth modifiers of...
+
+Power: 1
+
+Resilience: 2
+
+Awareness: 2
+
+Ego: 3
+
+Will: 0
+
+Which doesn’t really strike me as ideal, considering that Talla has explicitly warned us against too much Ego without Will. On the other hand, [Lucid Dreamer] progresses Ego and Will. Using that instead of [Savior] would effectively move one stack of Resilience to Will. That’s still not ideal, but more balanced.
+
+Another option would be to ignore Maggie’s whims. I’m not against making our partnership with Nipper part of our core class, but realistically, it can wait. I agree that combining the two-star classes we’ve already mastered isn’t ideal right now, but what about [Lucid Dreamer] with [Pathfinder]? Putting the attributes from those classes together with [Incandescent Souls] gives us...
+
+Power: 1
+
+Resilience: 1
+
+Awareness: 2
+
+Ego: 2
+
+Will: 2
+
+That’s a much better spread, even if it does bother me a little bit how mentally-focused we are. I suppose that’s just our nature, and I don’t feel quite as pressed to keep up with the physical attributes now that we aren’t trapped in the wilderness. Still, I’d rather not neglect them, if we can avoid it.
+
+All that and I haven’t even considered how the skills and domains might interact. Dreaming and Exploration seem like a pretty reasonable combination to me, but who can even say what that will look like in practice? Would it give us some sort of dream-divination or astral projection? That doesn’t sound bad, but it’s also an optimistic guess. Still, it seems like our best option, but I’m hesitant to bring it up now and start another fight with Maggie. Maybe I’ll just wait until Eva masters [Lucid Dreamer]. It will be a lot harder for Maggie to complain after she fails to live up to her wild boasting.
+
+My ultimate takeaway is that Allie should realistically take something more physically inclined, but given that she’s likely going to be merging whatever she picks into [Teacher], I don’t see that happening. I’ll just have to do it myself after finishing with [Adept].
+
+“I think I’m going to go with [Linguist] after all,” Allie finally decides.
+
+“Really?” I ask, surprised. “You’ve practically mastered Fa’aun already.”
+
+“Not even close, actually,” she responds. “I’m conversational in Fa’aun, but a lot of what I’m doing is just smushing basic words together into something vaguely coherent and falling back on our own language’s sentence structures when I get stuck. I’m all vocabulary right now, and even then only because of the way compound words work.”
+
+“I’m not sure I’m following.”
+
+“Well for example, say I wanted to say ‘firehose’ in Fa’aun,” she explains. “I don’t know the word for that—or if they even have a word for that. But I could just say ‘water-spray-rope’ and it would get the idea across. Besides that, my pronunciation and grammar still need a lot of work before I could even call myself fluent, much less claim mastery.”
+
+I expand the [Linguist] class in my head to refresh my memory.
+
+[Tier 0 Linguist]*
+
+A student of languages, studying the essence of communication itself.
+
+Skill - Translation: Instantly recall the meaning of words you've previously translated.
+
+Attribute bonus: Awareness.
+
+Advancement: Study languages.
+
+As I thought, the skill only helps with translation—something we already do automatically thanks to Evelyn.
+
+“I’m not sure the class will help with that,” I point out, though I’m not even sure why I’m arguing.
+
+I had already guessed this was something she’d probably pick, so at this point I’m just criticizing out of habit.
+
+“No, but I’m thinking ahead,” she argues. “As it evolves, maybe something down the line will help me with the stuff that’s physically hard to pronounce. Plus, I’d like to learn the Serpentfolk language too at some point.”
+
+Fair enough, I guess.
+
+“So then you’ll take [Linguist] with the intent to merge it with [Teacher], I assume?”
+
+“Sounds good!” she agrees.
+
+“Then I’ll take [Adept], for Maggie to fuse with [Tamer] once she masters it,” I continue.
+
+“Yeah, Vi, we’ve all been here for the whole discussion,” Maggie groans.
+
+“I’m just making sure we’re all in agreement,” I reply. “And finally, Eva will take [Lucid Dreamer]. I think it will pair well with [Pathfinder] but we can discuss that when the time comes.”
+
+If I’ve learned anything about these sessions, it’s that whatever plans we make always end up getting reworked later. I know that we’ve got a lot more to think about than most, but it’s really easy to see how planning classes became an entire dedicated field of advanced study in this world.
+
+“There is one other thing I should point out, though,” I muse aloud. “Eva, you do understand that for this next stretch of training, you’re going to be the strongest of us, right?”
+
+“Oh, I hadn’t actually considered that,” she says. “It wasn’t my intention. I just thought the class might let me—I mean, I’ll switch with someone if I must.”
+
+“No, that’s not what I’m saying,” I reply, shaking my head. “But if we’re in a dangerous situation where every attribute point counts, we may need to rely on you to be the one in front.”
+
+Not that I’d really leave that to her. If need be, I’ll be ready to drop [Adept] and switch back to [Savior] at a moment’s notice. Perhaps even [Itinerant Hero] in the case of a truly dire emergency. I mostly just want to know how she’ll respond.
+
+“I’m no fighter, but I’ve been in dangerous situations before,” she says calmly. “I’m not going to kill for you, but I’ll do what I can to keep this body from harm.”
+
+Good enough. Most of our strength is concentrated in our core class anyway, so I’m not that concerned. As long as Eva is being cooperative, it doesn’t matter who’s got the highest attribute total.
+
+“Alright then. If we’re all agreed, I think we can lock in our new classes. Eva, would you mind testing something for me?”
+
+“What is it?” she asks.
+
+“Could you try taking the front to combine the classes for yourself?” I suggest. “I’m fairly certain any of us can manage our classes if we’re in front, but I’m not sure whether or not that extends to you.”
+
+“I don’t see why it wouldn’t” Allie says. “She’s got our shared class and everything.”
+
+“It doesn’t hurt to be sure.”
+
+“I suppose I can try,” Eva answers.
+
+Switching at will is always tricky, but it’s particularly difficult with Eva, since she dislikes ever being in front. Sometimes it’s bad enough that Allie has to remain in front during their lessons and write Evelyn’s answers down for her. However, this time I have enough of an interest in the new class that I emerge with minimal hassle.
+
+If Violet’s new spell is any indication, then some part of my original form still exists within my soul. That image was conjured forth by a spell based on this [Dreamer] class, and the [Lucid Dreaming] skill is even more promising.
+
+Even if it’s only while sleeping, I finally have the opportunity to be myself again.
+
+Without hesitation, I merge the [Student] and [Dreamer] classes together. My newly updated status is all the answer Violet’s question needs.
+
+[E'ava'al'n Ke'ena'a: Tier 2 Human]
+
+[Class Slot 1: Tier 2 Incandescent Souls]*** - Level 4/10
+
+[Class Slot 2: Tier 1 Lucid Dreamer]** - Level 0/10
+
+[Attributes]
+
+Power: 48
+
+Resilience: 48
+
+Awareness: 48
+
+Ego: 58
+
+Will: 16
+
+[Skills]
+
+Inner Flames
+
+Pyrothaumaturgy
+
+Burning Innervation
+
+Explosive Throw
+
+Lucid Dream
+
+Sleep Practice
+
+I still wish it didn’t say I was human, but there’s nothing I can do about the body I’m in. Not while I’m awake, at any rate. I’m looking forward to trying my new skill tonight. My work here done, I eagerly allow myself to slip back into obscurity.
+
+“Bwah! Evie, don’t do that!” I snap, shuddering. “It feels so weird to get yeeted into the front like this. Some warning would be nice.”
+
+“Well, at least it’s obvious who ended up in front,” Mags deadpans.
+
+“Yeah, yeah,” I mutter. “Frickin’ bullies.”
+
+Just swapping from one tier zero class to another isn’t worth all the fanfare, but while I’m here, I suppose I may as well take a peek at what I’m working with.
+
+[Allison: Tier 2 Human]
+
+[Class Slot 1: Tier 2 Incandescent Souls]*** - Level 4/10
+
+[Class Slot 2: Tier 0 Linguist]* - Level 0/10
+
+[Attributes]
+
+Power: 48
+
+Resilience: 48
+
+Awareness: 48
+
+Ego: 48
+
+Will: 6
+
+[Personal Skills]
+
+Translation
+
+I’m getting better at mentally filtering the words in our interface with the mechanism, at least. Aside from the levels in our core class, not a whole lot is different from last time.
+
+“Back to you, Vi,” I say with a salute.
+
+“What are we, newscasters?” I sigh. “Thanks, Allie, the weather is hot and dry as usual.”
+
+She giggles at the joke, and I put a cap on our latest class-strategy meeting by switching to [Adept].
+
+I’m struck by a brief wave of dizziness and nausea and I’m glad that I’m sitting down, because losing over fifty attribute points in one go is not comfortable. It’s supposed to be a normal part of the mechanism, but I don’t think I’ll ever get used to it. Once I’ve fought that off, I review my new attributes one last time.
+
+[Violet: Tier 2 Human]
+
+[Class Slot 1: Tier 2 Incandescent Souls]*** - Level 4/10
+
+[Class Slot 2: Tier 0 Adept]* - Level 0/10
+
+[Attributes]
+
+Power: 48
+
+Resilience: 48
+
+Awareness: 48
+
+Ego: 48
+
+Will: 6
+
+[Skills]
+
+Inner Flames
+
+Pyrothaumaturgy
+
+Burning Innervation
+
+Explosive Throw
+
+Magical Awareness
+
+So I suppose I’m committed to more thoroughly exploring magic now. I was so skeptical about it at first, but it’s proved an invaluable tool. It’s also gotten us blown up far too many times—that is to say, more than zero. I suppose, if anything, that’s just more of a reason for me to learn. If Maggie remains the sole source of our magical ability, she will get us killed with it.
+
+Hopefully this new skill helps account for the difficulties I’ve had with magic in the past.
+
+[Skill - Magical Awareness]
+
+Increased Awareness when trying to perceive the metaphysical.
+
+Truth be told, I can already feel the difference. It’s hard to describe. The sensation isn’t anything like the ones I’m used to, but if I had to compare it...perhaps proprioception? The way you can tell what position your body is in even without touching anything. I can feel the remnants of my earlier spell lingering in the air like scattered mist.
+
+I’m not sure I’d have been able to grasp this so quickly if not for the [Inner Flames] skill already allowing me to project my senses through fire. Without that practice, this would be a lot more jarring.
+
+Oddly, there’s something else lingering in our room. Old, but persistent. Yet also incredibly subtle.
+
+“Maggie, Allie, you already have your own magical senses, do you feel something odd?” I ask.
+
+“Not really?” Allie replies. “Magic is all over the place, so you have to learn to tune out some of the noise.”
+
+“Yeah, you’ll get used to it,” Maggie agrees. “Just remember not to rely entirely on the skill. Learn to feel it on your own.”
+
+Easy for her to say, she’s been able to do it without a skill’s assistance from the beginning. Still, there’s something bothering me about the feeling, whatever it is. I think it’s part of me, which is probably the only reason I can perceive it at all. It’s...I don’t know, faded? Like a scar. I’m no good with metaphors.
+
+Whatever it is, I try to “look” closer. The magically intuitive understanding that comes with engine skills helps, it focuses my magical awareness on the scar, concentrating everything I have, but still coming up short. I don’t know what I’m feeling, and I don’t know how to know.
+
+What now? Do I just...push harder? Demand more from the [World Engine]? I’ve never been good at that, either. Just when I’m about to give up and start reconsidering the [Adept] class, something gives.
+
+Suddenly, all of my senses are overwhelmed by an infinite light devouring an infinite void. An unfathomable weight crushes down upon me. Answers without questions. Truths that disprove themselves. Scale without reference. I don’t understand. I can’t understand. I don’t think I’ll understand anything ever again.
+
+I shrink away from it all. It’s too much. Too big. I’m already a speck of nothing, but all I can do is try to get even smaller—to disappear entirely in order to escape the all-consuming enormity of what I’m feeling.
+
+And then it’s over, the experience spilling out of my mind like a sieve while my blood does the same through my nostrils. I realize that I’m lying face first on the floor, the others urgently calling out my name.
+
+“Vi! Are you okay?! What happened?!” Allison cries.
+
+“I think she saw it,” Maggie replies flatly, as if that’s all the answer necessary.
+
+It is.
+
+“Just give her a moment to adjust,” Eva sighs. “The first glimpse is always the hardest. Usually one doesn’t get a skill like that until after they’ve already experienced it.”
+
+Besides their voices, I’m also met with the words throbbing painfully in my mind. I don’t want to look at them—they’re part of it. A reminder of what I just witnessed. But they won’t let me look away—inside me. Attached to my soul. I’m still delirious.
+
+[Level up!]
+
+Incandescent Souls has grown from level 4 to 5.
+
+Adept has grown from level 0 to 4.
+
++3 Power.
+
++3 Resilience.
+
++7 Awareness.
+
++3 Ego.
+
+“Violet, breathe!” Allie insists. “Please, say something.”
+
+Reluctantly, I follow her instructions, tasting the coppery-iron tang of blood mixed with dust and sand as I mechanically force air into my lungs. I don’t know what to say to reassure her. My mind still isn’t working. Instead, I just mutter the first words that fall out of my mouth.
+
+“I think I want to die...”

@@ -1,0 +1,151 @@
+It never occurred to me just how much time it takes to get around on foot in such a big city. Back home, we had public transportation, and while it wasn’t always the best we could at least get across the city in less than an hour. I feel as though the time we’ve spent today traveling from place to place is triple the time we actually spent in those locations. I appreciate Allie’s efforts, and they’re better than nothing, but these shoes are absolutely not made for walking.
+
+Aside from sore feet, I’m also worried about Draga. This entire time he’s just sort of been tagging along quietly. On the way here, even when he stepped back to let Talla be the face of our group, he was always unquestionably the one in charge. Today, he’s been practically silent and invisible, standing by as if he’s Talla’s bodyguard rather than her boss.
+
+“Sorry it’s been boring,” I say, falling into step next to him. “You didn’t have to come.”
+
+“Not at all,” he replies. “The university is always enlightening. I never had much of an education, so I enjoy new opportunities to learn, even if I have little to add.”
+
+I have to take a few moments to gather my thoughts and figure out how to express them in Fa’aun, but Draga waits patiently for me.
+
+“You have other things to do?” I ask.
+
+“In the city? Not really,” he says. “I’m more comfortable out on missions, but I’m stuck here until the tribunal. I don’t mind accompanying you until then.”
+
+“Thank you.”
+
+I wish I could express that better, but it’s hard enough in my own language, much less a new one that I’ve barely had time to learn and physically can’t pronounce properly.
+
+“Miss Vi, right?” Draga inquires politely. “Your Fa’aun is getting better.”
+
+“Vi, yes,” I confirm. “I don’t think so. Allie is better.”
+
+“That doesn’t invalidate your own progress,” he argues. “And you have made clear progress. That’s worth recognizing.”
+
+“I’m trying,” I sigh. “Thanks.”
+
+We continue walking in silence for a bit while I idly play with the puzzle cube. I have to be careful not to drop it, considering how delicate it is, but I can’t deny the soothing effect of just solving and shuffling it over and over—almost meditative, but without taking up too much attention. It helps me to focus my thoughts, organizing the events of the day in my head.
+
+One thing that’s been bothering me bubbles up to the surface, and there’s nobody better to ask about it than Draga.
+
+“Am I...a bad ranger?” I ask. It’s not quite the question I meant, but I trust Draga to understand.
+
+“You’re thinking about what Lady Faarah said?” he asks, immediately proving me right. “I wouldn’t take it personally. I’ve met worse rookies, and you don’t have the benefit of their training.”
+
+I frown. It’s not like I wanted to be a ranger. I’m with Allie, there—one convergence point was more than enough. Maybe I just don’t like being told I can’t do something, or maybe I felt like her assessment was an invalidation of everything we went through to survive that cave. Allie said it was just for show or something, but I don’t think she was being dishonest.
+
+“It hurts,” I admit. “I tried so hard and...”
+
+And what? I don’t even know how to finish the sentence. What was the point of it all?
+
+The cave was hell, but I’ve never felt more at home than I did when we were camping at the side of the road, not even before we appeared in this world. Here, I feel completely useless. I don’t know how to protect us, how to keep us safe. Allie knows her way around people, but she still makes mistakes, like today.
+
+I couldn’t keep us safe. Even if I’d reacted in time, then what? Would we fight a noble lady in the middle of the city? What if we lose? Worse, what if we win?
+
+“Don’t overthink it,” Draga says, interrupting my thoughts. “By this world’s standards, you’re barely an adult.” He holds up a hand to preempt my protest. “It’s not about age. It’s your core class. Tier two, and low level. Talla is still considered young at tier three, you know.”
+
+“Even with higher grade?”
+
+“That’s ‘a’ higher grade,” Allie corrects me gently.
+
+“Most people don’t think about grade at all,” he explains. “Three stars is enough to qualify as a core class, and after that it’s all about tier.”
+
+“But Talla could be tier...” I do a bit of mental math. “Eight?”
+
+“Not quite,” he chuckles. “Lower tiers level faster, but you’ve got the right idea. She could be a much higher tier if she’d focused on leveling up her core class instead of fusing to a higher grade. Higher than me, maybe even higher than Reyna—probably not as high as eight.”
+
+“Maybe if I really focused,” Talla herself interjects. “But realistically, I could have made tier five or six by now, especially with all the convergence points we’ve dealt with.”
+
+I really don’t understand. What they are saying is exactly what I’m trying to argue. If class tier is being used as a proxy for experience or maturity, then why discount grade quality out of hand?
+
+“But,” Draga continues, as if reading my mind. “Her CCAT is roughly equivalent to a tier four. Far below what she could have otherwise achieved without delaying her advancement.”
+
+“It’s true,” Talla sighs. “Aiming for higher grade classes trades immediate progress for higher potential.”
+
+“Potential that most people won’t live to achieve without the power that higher tiers provide,” he finishes.
+
+We’ve had this conversation—or one like it—before. It still feels shortsighted to me, but it’s not like I haven’t seen dumber forms of discrimination in my own world.
+
+“What Draga is trying to say,” Talla says, “is that the Grandmistress was judging you by the standards of one of the strongest and most talented women alive. Comparing you to people who have been trained—in some cases from birth—specifically for the job.”
+
+“And her only objection was your CCAT score,” Draga points out. “I’ve seen what you can do, and your abilities are nothing short of incredible for your tier. Let people underestimate you—that’s just another advantage.”
+
+That does make me feel a tiny bit better. The evaluation still irks me, and I can’t help but feel like I’m falling behind the others. Allie and Maggie mastered their tier one classes weeks ago, and I’m still stuck one level away.
+
+[Violet: Tier 2 Human]
+
+[Class Slot 1: Tier 2 Incandescent Souls]*** - Level 4/10
+
+[Class Slot 2: Tier 1 Savior]** - Level 9/10
+
+[Attributes]
+
+Power: 48
+
+Resilience: 76
+
+Awareness: 48
+
+Ego: 76
+
+Will: 6
+
+[Skills]
+
+Inner Flames
+
+Pyrothaumaturgy
+
+Burning Innervation
+
+Explosive Throw
+
+Protect the Innocent
+
+Revitalization
+
+Quickly adding up the attributes gives me a total just over two-fifty, but since the rangers only measure the core class, we still come just short of two hundred. Something I’ve noticed since the beginning, though, is that there’s a difference in class quality that isn’t described by grade or any other quantifiable metric.
+
+The original [Candle Enthusiast] class looked useless on the surface, but for what it did the skill was powerful. So powerful that it caused us pretty severe strain to use, even if the actual effect wasn’t particularly useful. When we combined it with other classes, we kept the power but applied it more practically.
+
+That’s my running theory, anyway. Likewise, I think there’s something special about [Unified Collective] and its children. Aside from the fact that it allows us to act both separately and as a unit, it’s also got outsized power for its tier.
+
+With every data point I collect, the more it seems like tier, grade, and attribute totals are all terribly flawed metrics of power. There’s some other quality to them that the [World Engine] either can’t or doesn’t want to measure.
+
+Another stand out is...the angel class? I don’t like that I can’t remember the name of it. Or exactly what the angel looked like. But I do remember [Reverse Entropy], the extremely suspiciously named healing skill that Eva was able to use.
+
+We can’t see the class that she obtained that skill from, and she refuses to talk about it. Maggie and I have also both checked and failed to access the skill via [Pyrothaumaturgy]. It’s just a theory, but I think classes related to the [World Engine] itself are also excessively strong. I also think that the church might be intentionally hoarding methods of accessing them. Is this hidden metric of class quality a known factor? I should have asked that student about it while we were at the university.
+
+I’m not sure what to do with any of these ideas. I think we’re going to need power. A lot of it. Sooner rather than later, too. Our current situation is untenable, and as much as I like Talla and Draga, they’re too tied up in the system to really do anything about it.
+
+That’s not to say I’m against accepting their help, or returning the favor wherever we can. We’re far too weak to do otherwise, but we need to focus on accruing power while we do so and keep an exit strategy in mind.
+
+To that end, I can’t put it off any longer. I need to master this class so that I can move on to something more productive. It’s my job to protect us. To keep us safe. I can’t do that while I’m the weakest one here.
+
+“[Talla, you mentioned you have a clinic before, didn’t you?]” I ask as we arrive back at the Goa district. I’m grateful that she understands our language well enough even without her spell that I don’t have to speak Fa’aun.
+
+“Hm? Oh yeah, it was something I set up when I was training the healer side of my core class,” she replies. “It’s mostly self-sufficient these days, but I like to help out there when I’ve got time.”
+
+“[Can we visit it when we get the chance?]” I request. “[I’d like to finish mastering my class.]”
+
+“We can, but you should temper your expectations,” she hedges. “Your class has a [Healing] domain, but it’s not the primary aspect. The clinic will help, but that last level is going to take a long time now that you’re out of the convergence point.”
+
+Maybe it will. She’d know better than I, but while our leveling has slowed significantly since leaving the cave, it hasn’t escaped my notice that the people around us keep getting convenient level ups during or after our interactions. If classes aren’t created equal, then maybe the achievements needed for progression aren’t either. Is it really the fact that we’ve left the magically rich convergence point, or have we just been starved for opportunity?
+
+Allie’s only got one student, and most of the [Teacher] levels she’s gained have been from us teaching other people. Maggie’s been stuck on her tamer class, but she’s just been doing the same training with Nipper over and over again.
+
+The [World Engine] doesn’t reward repetition, it rewards novelty, diversity, and significance. When we arrived in the convergence point, everything was new, and there was no shortage of extreme situations to put ourselves through. If we want to get out of the rut we’re in, we need to do new, more interesting, and more extreme things.
+
+“There you are!” Talla’s sister snaps me out of my reverie once we get to the estate. “Where the frick have you been all day?!”
+
+“We swung by the university on our way home,” Talla answers for us. “Why?”
+
+“I’ve been trying to find Maev all day!” her sister huffs. “I found someone to make you some new...uh...hoof-cover thingies.”
+
+“[Shoes?]” I suggest.
+
+“Right! Is that what they’re called? I should have asked. Anyway, I was going to take you to meet them today since you’ve got your papers, but it’s too late now. We’ll have to go tomorrow.”
+
+I’m certain that Allie would find a way to kill me if I turned her down, but I really do want to get to that clinic as soon as possible. I have to weigh my aching feet against the prospect of stalling my progression yet another day. As much as I hate to admit it, the choice isn’t very hard.
+
+“Tomorrow it is.”

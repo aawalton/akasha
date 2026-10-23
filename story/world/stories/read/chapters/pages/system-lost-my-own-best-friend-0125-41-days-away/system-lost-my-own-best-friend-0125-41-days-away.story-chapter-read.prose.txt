@@ -1,0 +1,193 @@
+There is an important distinction between a [Doctor] and a [Healer]. Both are very important, and most people aren’t aware that there’s a difference at all. In my previous life, I was a healer—I usually treated the recently injured, and focused on acute problems that could be immediately repaired. Doctors, by contrast, treat illnesses on a longer term. Even the best skill from my old class could not cure a disease.
+
+Once, I saw this distinction as a way of knowing my own limits. It was something that defined me, and it helped me to guide those I aided to find the help they needed. I could soothe an itchy rash for a time, but it was the work of a doctor to identify the insects causing that rash and apply the right ointments to the fur to kill them.
+
+Lady Talla is different. Until now, I’ve only seen her in her capacity as a healer and field medic. Competent and useful for a team of rangers, especially in combination with her combat spells, but falling short of what a more focused healer can do at her tier. Now, I begin to see the true breadth of her ability. Because she is also a doctor, and until today it had never occurred to me to wonder what a doctor can do with Thaumaturgy.
+
+“Please have a seat,” Talla says as the first patient enters, gesturing at the cot.
+
+“Thank you, my lady,” the woman says, giving her a polite bow.
+
+“While you are in here, there are no clans or nobles, alright?” Lady Talla insists. “I need you to be direct and honest with me, or I can’t treat you properly. Pretend I’m entirely clanless.”
+
+That directive clearly gives the woman discomfort, but she nods. That sounded like a rehearsed statement. Something Lady Talla has to insist on because it’s caused problems in the past. I can imagine why. Injuries and illnesses can often be personal or embarrassing, and it’s difficult to share that sort of thing to someone above your station. How mortifying would it be to ask a noblewoman to inspect you for intestinal worms or an infection on your groin? Yet, for her to do her job, that is precisely what her patients must do.
+
+I imagine most of them don’t actually consider that part until they are sitting right in front of her and the reality of it strikes them.
+
+The patient sits on the cot, which is raised up off the floor in order to allow Talla better access to the patient without having to be seated herself.
+
+“What’s wrong?” Talla asks simply.
+
+I’m wondering the same thing myself. I typically worked very quickly, and with patients that had obvious and immediately identifiable problems. Talla asked for the worst of the walk-in cases, but this woman looks completely fine.
+
+“I’m sick,” she says dumbly, before realizing what a worthless statement that is. “It’s my stomach,” the patient clarifies. “I can’t eat anything or I just throw up. I’ve been getting by on water and light soup, but lately I have trouble with even that.”
+
+“How long has it been?” Talla continues. “Approximately. I don’t need an exact date.”
+
+“A few weeks, maybe?”
+
+Weeks? She’s gone that long without eating properly? I see why they sent her in first, now.
+
+“Why didn’t you come here sooner?” I ask.
+
+Talla gives me a sidelong glance, but doesn’t say anything. The woman looks down at her lap in shame.
+
+“I couldn’t afford it,” she admits. “I thought I’d get better on my own, so I wanted to save my money. But now I’m growing too weak to work...”
+
+“I assume you sought help from friends and family first?” Talla adds.
+
+“Yes, my aunt knows some medicine,” the patient confirms. “She’s the one who gave me the soup. It helped for a bit, but when I didn’t get better she said I should come here.”
+
+Talla continues her questioning, asking about pain, trouble sleeping, and even about the consistency of her stools, which the poor young woman is terribly embarrassed to answer about.
+
+Once she’s satisfied, Talla moves on to more technical methods of diagnosis.
+
+“Evelyn, can you tell me her body temperature?”
+
+I nod, remembering that Vi created a spell for this. In my mind, I reach for the right ingredient to toss into the cooking fire, but...it’s missing? Not only is Vi’s spell not immediately present, but I don’t seem to have the right “ingredient” to recreate it myself. It’s as though we only had one to share, and she’s already used it up.
+
+“Uh...no, actually,” I admit, feeling my face heat up. “I’m not sure why.”
+
+“That’s okay,” Talla says. “We’ll figure that out in a moment. I’ll handle it myself.”
+
+Ah. Of course she didn’t need me to do that, she’s simply giving me opportunities to contribute. She places a hand gently on the woman’s head, between her horns.
+
+“[Inner Eye],” Talla declares, more as a polite way to inform the patient that she’s using a skill or spell rather than out of a necessity to speak her magic aloud. “No parasites, and you’re not pregnant...”
+
+“I-I think I’d know,” the patient chuckles nervously.
+
+Lady Talla smiles. “Just being thorough. [Check Vitals]...hm, that’s not good. It might be the lack of nutrition, but your body is deficient in a number of important things and your heart rate is unstable.”
+
+“O-oh...that’s...bad?”
+
+“Let me put it this way—you’re days away from dropping dead, at most.”
+
+The patient’s eyes widen in panic, but Talla holds up a hand. “Before you came here. You’ll be fine, I promise.”
+
+The woman calms down slightly, though she’s still visibly shaken. I’m a little unsure about Lady Talla’s bedside manner, but it is important to stress that she shouldn’t have put off getting proper treatment for so long.
+
+“One last thing, hold out your hand, please.”
+
+The woman does as she’s told, and Talla takes her hand, holding it so that her palm faces upwards. She then takes a small pin and brings it to the patient’s palm, where there’s no fur to get in the way.
+
+“This might sting, but if it doesn’t, please tell me so,” Talla instructs her.
+
+The woman nods and braces herself as Talla pricks her hand in a spot that won’t cause too much trouble if she needs to work with her hands.
+
+“Ow!” she exclaims as a little red bead wells up from her palm. It wasn’t a very gentle prick.
+
+Talla touches a little strip of paper to the wound, letting it absorb the blood. I’ve never actually seen a process like this. I know that a person’s blood can tell a doctor about their health, but I don’t actually know how that’s done. Probably not the way Talla does it.
+
+“[Psychometry],” she mutters quietly, her eyes unfocusing as she scans something only she can see. “Hmm...okay...before you got sick, you ate a lot, right?”
+
+“Uh, w-well, I try not to overeat, but...”
+
+“I need you to be honest,” Talla reminds her.
+
+“Yes,” she sighs. “I don’t know why. It’s like I was always hungry, no matter how much I ate.”
+
+“Do you get tired easily as well?”
+
+“Yes, how did you know?”
+
+“It’s a symptom of your disease,” Talla explains. “The one that led to you overeating, not the problem you’re suffering now.”
+
+“I’ve got more than one?” the woman asks, distraught.
+
+“They’re related, and treatable, so don’t worry,” Talla assures her. “For now...[Restoration]. That should relieve some of the worst of it right now, but don’t mistake that for a cure, okay?”
+
+“Okay...then what should I do?”
+
+“I’m going to write you a recipe,” Talla says, turning away to do just that at a small desk next to the medicine cabinet. “You need to follow it right away and eat the portions recommended. It won’t taste good, and you will throw up afterwards, but that’s expected.”
+
+She turns back around and hands the patient the paper.
+
+“Starting today, follow this regimen to the letter,” she instructs. “It will clear the bezoar that’s blocking your stomach, and you’ll be able to eat again, but that’s just the start. On your way out, show this to Katia at the front desk, and she will give you an appointment with another of our doctors. Do not skip that appointment. It will be for treatment of the disease that caused this problem, understood?”
+
+“I think so,” the woman says. “But why can’t you treat that disease now?”
+
+“It isn’t my area of expertise,” Talla explains. “I know how to recognize it, but you’re better off seeing a doctor more familiar with the disease’s treatment. It’s a chronic problem that you’ll need to manage for the rest of your life.”
+
+“There’s no cure?”
+
+“No.”
+
+“And if I don’t um...manage it?” the patient asks nervously.
+
+“Then it will be a very short life,” Talla replies without emotion. “I know that doctors can be expensive, but it will be more expensive if you keep getting sick like this.”
+
+“I understand. Thank you, my lady,” the woman says, standing and bowing.
+
+“Today,” Lady Talla reminds her as she moves to leave. “My healing spell should give you a few extra days, but you need to eat. I know you feel better right now, but I can’t stress enough that you are still dying.”
+
+She swallows nervously and nods. “Yes, my lady.”
+
+Once the patient leaves, Talla almost immediately deflates, letting out a long exhausted sigh.
+
+“Hell of a way to start the day, but I suppose I asked for it,” she grumbles. “Katia’s triage skill is always impressive.”
+
+“What about yours?” I ask, now that we’re in private. “You have three spells just for diagnosis?”
+
+“Psychometry has other uses, but yeah. They’re real life savers—and I don’t just mean mine.”
+
+“Why all the questions, then?”
+
+“It’s better not to rely too strongly on skills,” Talla explains. “With my skills, I could have found the bezoar immediately and treated that, but without the questions I wouldn’t have known to check her blood, nor would I have known what to look for with Psychometry. It’s...a really finicky spell.”
+
+“So you would have treated her acute symptoms, but missed the chronic disease causing them entirely?”
+
+“Exactly—and I know some doctors who would have done just that, or worse, recognize the disease and then ignore it so that the patient will return when she gets sick again.”
+
+“That’s absolutely disgusting,” Violet hisses, almost startling me with her unexpected interjection. “In our world, doctors were known for an oath they took that precludes that sort of behavior...in theory.”
+
+“Oh, Violet is awake,” I say for Talla’s benefit. “And not too pleased to hear about that.”
+
+“I’d be surprised if anybody was,” Talla comments. “Sometimes it’s a matter of pride, rather than greed. High level doctors don’t like to admit it when there’s an illness they can’t cure.”
+
+“It sounds like diabetes,” Violet says. “Also, I’m no professional, but I’m pretty sure that where I come from that woman would have been hospitalized immediately.”
+
+“Dia-what?” I ask, the word failing to translate itself into Fa’aun even as my mind inexplicably comprehends the meaning. “A disease of the...I don’t know the word for that organ. It causes an imbalance of sugars in the blood?”
+
+“Sounds about right,” Talla confirms. “As usual, Maev surprises me with her knowledge of random subjects.”
+
+“We have approximate knowledge of many things,” Magdalena whispers cryptically.
+
+“How long have you been awake?” I ask.
+
+“Since you tried to cast that spell,” Vi says. “I didn’t want to interrupt, though.”
+
+“What happened there? It’s like I could feel where it was supposed to be, but nothing was present.”
+
+“I’m not sure,” she sighs. “But I could also feel you reaching. I think maybe it will be possible for you to cast it if we work together, but I didn’t think it would be a good idea to test on a live subject.”
+
+“That’s probably for the best,” Talla agrees. “And I’m using my spell to listen in, by the way.”
+
+“You don’t say,” Magdalena deadpans.
+
+“I just figured it was polite to say so.”
+
+“I appreciate it,” Vi replies. “Anyway, we can give it a go now before the next patient if you want.”
+
+“It’s worth a try,” I agree. “It’s going to make things difficult if I can’t sense the fevers I’m meant to be treating.”
+
+“I’ll stand by in case we light something on fire,” Maggie chuckles.
+
+Ignoring the chaos witch, I focus inward again, once more imagining our thaumaturgy skill as a cooking fire. Again, I reach for the ingredient that feels like it should be there, and again I come up empty. This time, however, I sense Vi reaching out to meet me. In my mind, she hands me...something. A...puzzle cube? Thankfully it's already solved, but I’m not sure what to do with it. Without thinking, for fear that my visualization will crumble if I linger on the thought for too long, I simply toss it into the fire.
+
+[Sense Fevers]
+
+You can sense abnormal body temperatures in the creatures around you.
+
+“That is...not the same spell,” I note with some confusion. “Why is it different?”
+
+“I don’t know, but more versatility can only be a good thing,” Violet answers.
+
+I’m not sure that I agree. Structure is important. It’s what distinguishes thaumaturgy from chaos magic. This...feels like thaumaturgy. The [World Engine] responded as though it was, but the lack of consistency is disturbing.
+
+Still, I can’t deny its usefulness. Violet’s skill is cold and objective. It tells the temperature, but communicates no meaning. The skill would give me numbers, but it would be up to me to interpret those numbers. This version is more narrow in its use, but makes up for it by communicating useful information about the temperatures I’m sensing.
+
+I can feel that my own temperature is normal and healthy, as is Talla’s. Beyond the door, within the lobby, I can sense a large number of abnormal temperatures, and that perception even expands slightly beyond the walls of the building. A shockingly large area for such a low level spell.
+
+“If it’s working now, shall we bring in the next patient?” Talla asks. “I get the feeling it’s going to be a busy day.”
+
+“Of course,” I say, nodding resolutely. I couldn’t do much for that first patient, but I’m hopeful that I’ll be of more assistance with the others. “Let’s get to work.”

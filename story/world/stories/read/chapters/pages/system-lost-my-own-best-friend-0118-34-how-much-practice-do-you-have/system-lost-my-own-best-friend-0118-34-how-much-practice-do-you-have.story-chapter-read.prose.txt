@@ -1,0 +1,215 @@
+“First things first,” the scholar says. “Your name, for the record?”
+
+I blink. “The record?”
+
+“I’m logging this interview for research purposes,” she explains. “If you prefer to remain anonymous, I can just put you down as ‘Subject 1.’”
+
+Do I prefer that? It’s nice to be recognized, but I’m nervous about putting my name on anything.
+
+“Oh, just tell her,” Allie sighs. “It’s not going to hurt anything.”
+
+I suppose not. Unsure whether to give our collective name or my own, I make a split-second decision about how to introduce ourselves.
+
+“Maev Violet,” I say.
+
+“What happened to Allie?” she asks.
+
+“A long story,” Talla says. “We can explain it later if they’re okay with it, but for now just call her Vi.”
+
+“Fine. How is that spelled?”
+
+Talla has to help her transliterate our name, and I have no idea how accurate it is, since I can’t read.
+
+“Okay, first question—have you seen puzzles like this one before?” Anna asks.
+
+“Yes,” I reply.
+
+She waits for further elaboration, but even if I was inclined to provide it, I don’t have the words.
+
+“Do you know who created it?”
+
+“No—”
+
+I pause. Actually I do know—not in this world, but in ours. Call it a loophole in our amnesia, but the “Rubik” in “Rubik’s cube” is a name. A man named Rubik. A...mathematician? I can’t get any further than that, and it doesn’t feel like something I was intimately familiar with in the first place. Just a bit of random trivia.
+
+“No,” I declare more firmly. It’s not the answer she’s looking for, and it would just bring more questions I don’t want to answer.
+
+Why am I answering these questions in the first place? Wasn’t this supposed to be a relaxing afternoon of games and puzzles?
+
+“And you’re certain that the puzzle is unsolvable in its current condition?”
+
+“Yes.”
+
+“Why?”
+
+Ugh...this is going to be a headache.
+
+“Talla, I don’t have the words,” I explain. “Can you translate?”
+
+“Oh, sure—let me just...” she mutters something under her breath, and while I don’t feel anything change, I know that she’s now listening with her spell.
+
+“[Do you have words in Fa’aun for orientation, permutation, and parity?]” I ask.
+
+She blinks. “Yes, but wow that’s advanced stuff.”
+
+It takes a lot of back and forth between Talla, Anna, and me, but eventually I’m able to get the gist of it across. The part that’s most relevant to this unsolvable cube is the fact that each corner piece essentially has three orientations—correct, twisted clockwise, or twisted counterclockwise. Every move changes the state of exactly four corners—two clockwise, and two counterclockwise. That means no matter how many moves you make, the number of twisted corners will always balance out.
+
+You can have two corners with opposite twists, or three with the same, or any combination or multiple of those—but never just a single piece or two with the same twist.
+
+“Miss Allie, did you catch any of that?” Eva asks after we finish the laborious task of translating that for Anna.
+
+“A bit?” Allison hedges. “It’s a kind of mathematics, but it’s really far beyond what you and I have been working on.”
+
+“But there weren’t any numbers...”
+
+“Oh! Actually, I think you might be able to understand part of it,” Allie exclaims excitedly. “Because it’s the only part I get too!”
+
+“I hope this isn’t going to involve tiny rivers again,” Eva grumbles.
+
+“Nope! No placeholders, no mystery numbers, just good old fashioned counting!” Allison reassures her. “Okay, see how the triangles are opposite the pentagons?”
+
+“Yes.”
+
+“Let’s say that triangles are up, and pentagons are down. Any corner piece that has either a triangle or a pentagon facing either up or down is a three. Okay?”
+
+“Okay...” Evelyn replies uncertainly. “What if they don’t have either?”
+
+“I promise that every corner has one or the other,” Allie says. “Now, if a triangle faces right, or a pentagon faces left, let’s say those corner pieces are twos. For the opposite, those are ones.”
+
+“This is already starting to get confusing.”
+
+“Don’t worry, we’re almost done!” Allie encourages her. “Now, you can count each corner, and start over each time you get to three. Try it!”
+
+I’ve been idly shuffling the cube the whole time they were talking, just to occupy my hands, so I stop and help out by holding it up, pointing at each cube as Eva counts.
+
+“...two, three, one. One?” She finishes uncertainly.
+
+“That’s right!” Allie’s tone feels somewhere halfway between a children’s TV host and a school teacher. “And no matter how much Vi jumbles up the cube, it will always be one, because every twist adds two twos and two ones, which if you count them up with the same rule adds to...?”
+
+Evelyn takes a moment, but her response is a bit more confident. “Three.”
+
+“Which means that it can only be solved if the corners count up to...?” Allie prompts her again.
+
+For a moment, I wonder whether Allie’s being a bit too ambitious. Getting Evelyn to count in sort-of mod three is one thing, but she still struggles with the entire concept of division.
+
+“Three?” she guesses.
+
+“That’s exactly right! Do you know why?”
+
+Okay now she’s definitely being too ambitious. I’m just about to step in and suggest she give it a rest when Evelyn surprises me with her answer.
+
+“Because corners in the correct position are always three,” she says. “So the solved puzzle has corners that add to three, and it’s impossible to get there from any position that sums to anything else.”
+
+“You got it!” Allie congratulates her.
+
+“Amazing,” Maggie drawls. “You’ve managed to find a way to teach math to someone who can’t count past three.”
+
+“Don’t tease her, Mags!” Allie scolds. “This is a really good breakthrough.”
+
+“I still don’t see how any of this could possibly be useful,” Eva sighs. “But I do think I understand.”
+
+While they were having their little math lesson, Anna and Talla were busy conferring over their notes. Either because Talla heard that we were finished or maybe just by chance, they finish up around the same time, and come back over.
+
+“I don’t know how you know all this,” Anna grumbles. “But the numbers do work. I’d like to take some time to put together a proper mathematical proof, but first...honestly I really just want to see that thing solved.”
+
+I chuckle lightly. “Sure. It shouldn’t be too hard to fix.”
+
+After handling this thing for over an hour, I’ve got a good feel for it now. I have no idea how they managed to get the central mechanism working, but the cubelets are pretty simple, each one made of some sort of light wood that’s been lacquered to prevent decay. In its age, it’s lost some of the tension holding the pieces together and they’ve warped slightly, leading to the problems I felt before.
+
+That loss of tension makes my job easier, though, since all I have to do is carefully twist one corner counterclockwise until it clicks back into place.
+
+“There,” I declare. “It can solve now.”
+
+“Are you sure that was the right piece?” Talla asks, frowning. “You barely even looked at it.”
+
+Anna and I start to answer at the same time, but while we stumble over each other’s words, Evelyn manages to surprise me a second time.
+
+“It doesn’t matter which one you adjust,” she says. “An antiringwise twist adds two, and it was at one before. No matter which corner you adjust, it still adds up to three.”
+
+[Level up!]
+
+Incandescent Souls is now level 4.
+
+Teacher is now level 5.
+
+Student is now level 8.
+
++3 Power.
+
++3 Resilience.
+
++3 Awareness.
+
++3 Ego.
+
++2 Ego (Allison).
+
++1 Will (E’ava’al’n).
+
+After weeks of agonizingly slow progress, this is proving to be a very productive day. Rather than repeat after Eva, who Talla probably heard anyway, I just solve the cube again. It feels much better after playing around with it for so long, and the entire solve only takes me a few minutes.
+
+“Wow, you really did it,” Anna sighs. “And you make it look insanely easy. Just how much practice do you have with that puzzle?”
+
+I’m not really sure, but I know it’s a lot. I can picture myself sitting on a bus, or in a waiting room, just fiddling with the puzzle, solving and shuffling it over and over again. After a point it stops being an occupation of the mind at all, barely providing enough stimulation to keep my attention from drifting while I focus on something else.
+
+The baffling thought that I wish I’d had one of these in the convergence point crosses my mind. A completely silly idea, since there are a million more important things I’d rather have in a survival situation like that. It would have been nice, though.
+
+I realize that I’ve just been frowning silently while she waits for my answer and blush slightly.
+
+“Hours,” I say with a shrug. “Hundreds, probably.”
+
+Her eyes widen. “Blood and acid, do you have an entire class for it?”
+
+“No class,” I reply. “It’s just...”
+
+I realize I don’t have the word for hobby and turn to Talla for help.
+
+“[Something you do for entertainment, not levels,]” I explain in my own language.
+
+Talla scratches the base of her horns and frowns. “Most people still get classes for their hobbies. Maybe you’ll get one for it later? It sounds like something pretty important to you.”
+
+It’s not, though. I don’t know how to explain it to them. Yes, I like puzzles, but the cube just happened to be a mechanically interesting puzzle that I could carry around with me. It could have been anything. As long as it wasn’t Allie’s phone.
+
+“What are your hobbies?” I ask instead.
+
+“Technically my ranger class counts,” Talla groans.
+
+“And I’m going for a four-star class,” Anna says. “I don’t have the slots to spare on frivolities.”
+
+I cast a doubtful look at the shelves of board games and toys surrounding us.
+
+“These are work,” she insists weakly. “Nobody ever said we couldn’t find ways to enjoy the road to more advanced classes.”
+
+“They’re pretty lucrative, too,” Talla giggles. “My cousins are all about frivolities, so the lab never struggles to find buyers for their finished ‘experiments.’ I’ve even got a few back home, myself.”
+
+“Then why did we come here?” I ask.
+
+She grins impishly. “Because I knew you’d do something interesting.”
+
+“Guilty as charged,” Allie giggles.
+
+“Speak for yourselves,” Maggie sneers. “This whole fucking thing was a giant bore. We came to a magic university and wasted the entire trip on board games and math? Kill me.”
+
+“If only,” Eva sighs.
+
+“We should be returning, though,” Draga interrupts. “Before Lady Goa thinks the rangers have taken you prisoner.”
+
+I feel a bit bad for forgetting that he was here. He’s just been quietly keeping himself occupied while we obsessed over this silly cube.
+
+“Is that a concern?” I ask.
+
+“No,” he chuckles. “That was a joke. But she may worry.”
+
+“Since when were you worried about my mother?” Talla asks.
+
+“Since the moment you joined my team,” he replies smoothly. “But at the moment, I’d prefer not to ruffle anybody else’s fur.”
+
+Yeah, that’s a good point. I don’t have any reason to think that Talla’s mom has it out for him, specifically, but she doesn’t have much reason to favor him either and she openly disapproves of Talla being a ranger. Would she be ruthless enough to condemn him for a reason as petty as that? Maybe not, but I don’t like that uncertainty.
+
+I go to hand the cube back to Anna, but she pushes my hand away.
+
+“Keep that,” she offers. “It’s given me nothing but headaches until today, and the papers I can write based on your insights are worth at least a level—on top of the one I already gained today. Just...promise to come back some time? I know you’re not a student, but I really want to know what other secrets you can share from...where did you say you were from, again?”
+
+“You’ll have to get in line!” Talla says, cheerfully sidestepping the question of my origins. “Maev’s a popular girl right now.”
+
+“Thank you,” I say, doing my best to copy that special bow Allie’s been practicing. “I’ll take good care of it.”
