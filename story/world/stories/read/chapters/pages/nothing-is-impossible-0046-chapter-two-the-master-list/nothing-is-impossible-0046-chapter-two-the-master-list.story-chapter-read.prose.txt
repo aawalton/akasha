@@ -1,0 +1,137 @@
+Atlas walked through the gate entrance, hearing the guards mutter and whisper to each other but not quite catching what they were talking about though he assumed it had something to do with him. He smirked a little, taking pride in the fact that people here could tell he was different with just a simple scan.
+
+He passed crowds of people going about their day, none of them sparing him so much as a second glance as they rushed off to wherever they had to be. There were all sorts of different people, each dressed uniquely, if not mostly medieval looking clothes, with men wearing a cotton shirt and trousers and the women wearing all different kinds of dresses and skirts. It was very different from what would be found in a city back on Earth. Atlas felt a little out of place with his full black suit, but no one seemed to care too much about him.
+
+He glanced around at all the different buildings, for the first time realizing that he had absolutely no idea where he was going. What was his first objective here? Get a job? A place to sleep? Food? He was completely lost.
+
+He looked around and looked at the people again, trying to figure out which of them he should ask. Just as he had that thought, he saw a woman wearing a bright purple and white robe glance at him for a brief second before turning quickly, long blonde hair swaying as she walked away at a fast pace. Atlas blinked in confusion. That face… he could have sworn he knew her.
+
+He tried to inspect her but she disappeared into an alleyway at the last second.
+
+Cursing, he tried to follow, but just as he started to walk over to where the woman had disappeared, there was a sound like crashing symbols and he was forced to cover his ears in consternation. Looking up, he saw an ornate carriage that looked like something out of a fairy tale with red silks for windows and masterfully shaped golden walls with all sorts of images displayed upon it. Marching resolutely around the carriage were eight men, four in the front and four in the back, each wearing matching guard outfits of red and gold, with what appeared to be a sea serpent coiled around a spear on each of their breastplates and shields.
+
+Atlas quickly inspected the guards and was surprised at what he saw.
+
+Royal Guard (Atrec)
+
+Tier: 6 Level: 501
+
+Royal Guard (Atrec)
+
+Tier: 6 Level: 503
+
+Royal Guard (Atrec)
+
+Tier: 6 Level: 508
+
+Royal Guard (Atrec)
+
+Tier: 6 Level: 511
+
+Royal Guard (Atrec)
+
+Tier: 6 Level: 514
+
+Royal Guard (Atrec)
+
+Tier: 6 Level: 505
+
+Royal Guard (Atrec)
+
+Tier: 6 Level: 502
+
+Captain Royal Guard (Atrec)
+
+Tier: 6 Level: 572
+
+They were all almost the exact same levels and tier, with the imposing man at the front apparently being the only real change in the pattern with a little over 60 levels on them all.
+
+Atlas tried to get a glimpse of who was inside, but to no avail, they were clearly not wanting to be scanned by everyone, and they were almost certainly important.
+
+The crowd scattered before them the sound rang out again. Atlas finally noticed a short and pudgy man lagging behind the group on a horse, sounding a trumpet every so often. Atlas winced as the man blew the trumpet again, and he couldn’t help but wonder how he had even been hired. He was a terrible trumpet player, and it sounded more like a schreeck of noise than a musical instrument. He scanned him to try and understand exactly what was going on with this man.
+
+Royal Trumpeter (In Training)
+
+Tier: 2 Level: 3
+
+Atlas held back a laugh. This man had just barely reached tier two, yet he seemed to be almost in his thirties. Atlas wondered how his level was so low. With a jolt of shock, he looked at the people around him, wondering what their average levels were.
+
+Baker
+
+Tier: 3 Level: 211
+
+Guild Officer
+
+Tier: 5 Level: 354
+
+Human
+
+Tier: 1 Level: 3
+
+Social Worker
+
+Tier: 3 …
+
+Blacksmith
+
+Tier: 3 …
+
+Warrior
+
+Tier: 8 Level: 52
+
+Most of the people appeared to be around tier 3, his own tier, with a few outliers, such as children and babies on the lower spectrum, with Guild Officers and Adventurers on the higher end of the scale, some going so far as to being tier 8, though it seemed like barely so.
+
+Atlas was astounded at the large diversity of power here, and he had no doubts that a tier 8 adventurer would be able to kill him without so much as a second glance, the man seemed to exude pure power and control. Atlas wondered what his status sheet looked like.
+
+The carriage, guards, and terrible trumpet player finally passed by, and the cityfolk were able to go about their days once more, but now there was a lot more gossip. Who was in the carriage? What were they doing here? Did it have something to do with the surge of the monster population recently? Where were they going? Etcetera etcetera.
+
+Atlas walked up to a baker who was struggling to round up her 4, no 5 kids, and politely asked her if she knew where the Adventurers were placed, thinking that that was as good a place as any to start his adventures here in the city.
+
+She grabbed her toddler and kindly told him to follow the street for a while more, he would run into it eventually. Nodding gratefully to her, he started on his way, continuing the slow trek through the throngs of people once more.
+
+As the slow journey continued, he brought up his status sheet and started to tinker with things, seeing how much he could change and what he could look at. As he did so, he found a helpful little function showing him all the things he could look up. It was called the master list.
+
+Master List
+
+This list shows you every function currently available to you at your current level and tier. This list will occasionally be updated, but not often, check in every odd numbered tier to see if anything has changed.
+
+Master List: Brings up the master list, which you are viewing now.
+
+Status: Your stats, titles, resources, skills and classes are shown here, providing you with an objectified form of your power, as well as your talent score, potential score and skill score.
+
+Inspect: This function allows you to see the basic class, tier and level of whomever you are looking at, this information is not always 100% accurate, as there are ways of changing what other people will see when they inspect you.
+
+Temporary Skills: This is all of your temporary skills, otherwise known as the skills you get whenever you temporarily combine a Z-Grade or above skill with a skill lower in rank than it. These skills can be changed but it requires time.
+
+Tips: All of the system tips that you have been shown by the system, as well as the basic tips that the system provides to everyone. These are not things that you should 100% follow, but they should at least be taken into consideration when dealing with concepts you don’t fully understand.
+
+Scan: Tells you of any abnormalities in your own body, such as curses, debuffs, buffs and boons.
+
+Pathways (Partially locked): Shows you the level and abilities of your pathways. You do not possess all pathways yet.
+
+City (Locked): The status of your city and the resources you possess as well as everything you can do with your city. Currently locked as you do not possess a city.
+
+Powerscore (Locked): Your power level when compared with averages of each tier, helping you more fully understand how strong you are outside of just your tier and level. Currently locked until you take the powerscore test (Found in almost every city).
+
+Achievements (Locked): Your current achievements in Limit. Unlocked when you have at least 5 of any rank.
+
+Mindscape (Locked): Unlocked when you realize your mindscape and bring it to existence. Abilities of the mindscape vary.
+
+Atlas thought it was really convenient to be able to access all of this knowledge with a single thought, and he was really interested in all of the locked options, bar the city one, as he had already seen that. Just as he was about to start exploring more in depth, he was shaken out of his reverie by someone slamming into him, almost sending him tumbling before he managed to regain his balance.
+
+Turning in anger, he found himself face to face with three men wielding long knives.
+
+Thug
+
+Tier: 3 Level: 146
+
+Thug
+
+Tier: 3 Level: 152
+
+Bully
+
+Tier: 2 Level: 198
+
+Oh great, he thought, as the men all started chuckling.

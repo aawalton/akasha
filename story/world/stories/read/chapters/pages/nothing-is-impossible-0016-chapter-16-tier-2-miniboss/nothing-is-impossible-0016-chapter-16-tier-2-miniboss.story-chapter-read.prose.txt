@@ -1,0 +1,157 @@
+Atlas stood on top of the armory, sharpening a sword. He had fended off two more waves of enemies, both being more difficult than the last. The first wave consisted of a swarm of lightning bats that would flap rapidly to get higher and higher before swooping down at him while sending a beam of lightning ahead of themselves. It had been annoying to say the least.
+
+He had gotten a new skill out of it, and felt that being electrocuted over a dozen times had not been in vain.
+
+You have gained the skill Lightning Beam (B)!
+
+He had also gotten a couple skill levels in Weapon Mastery and Damage Resistance.
+
+You have leveled up your skill Damage Resistance (A) to level 6!
+
+You have leveled up your skill Weapon Mastery (A) to level 4!
+
+The second wave had been more interesting, consisting of strange hybrids that lay somewhere between a doglike creature and a demon, the tags hovering over their head noted them as Hellhounds. In Atlas’s opinion, they looked more like wolves than hounds, but he decided that he didn’t care too much about naming conventions.
+
+They had been more interesting for Atlas for two reasons. The first being that they could exhale large amounts of green fire. The fire burned like nothing Atlas had ever seen before, and when it landed on his skin he felt like he was being burned alive from even just a couple wisps of the potent fire. The second reason they were so interesting is that they could coat their claws in wispy red energy that would rip huge gouges out of the earth.
+
+Atlas had taken one look at it and decided that he did not want to be hit by that at all. He had gotten only one skill from Consume no matter how many hellhounds he used it on, the most he got was another level in Elemental Affinity which was nice, but still disappointing.
+
+You have gained the skill Demonic Claw (S)!
+
+Luckily for him, it was the stronger skill of the two that the hellhounds had shown, and so he wasn't feeling too miffed. He checked the description of the skill to understand how it worked.
+
+Demonic Claw (S): You coat your hands in a demonic energy, creating large claws extending from each finger, this energy steals magic from your victim, but this skill also passively requires magic to work.
+
+That intrigued Atlas. He could steal magic from his opponents? If only he had some spells to use it on.
+
+A thought suddenly occurred to Atlas, how many of his skills required magic to work? After a quick check he brought them up. Ultimate Debuff, Elemental Affinity, Death Mist, Fade away, Lightning Beam and now Demonic Claw.
+
+He checked the description for each of them except for Demonic Claw.
+
+Ultimate Debuff (Z): You inflict a multitude of random debuffs to a strike. Some have a lower chance of triggering but are stronger overall (Rare debuffs) (Maximum of 5 debuffs per strike) The debuffs that can be given are: Stun, poison, bleed, curse (Rare), blind, weaken, slow, confuse (Rare), burn, freeze, dispel, blight, glitch (Rare), nullify (Rare), shine, fear, root, silence (Rare) corruption, vulnerability, and doom (Super Rare). Each instance of Ultimate debuff costs 50 mana.
+
+Elemental Affinity (SSS): You can control all elements within a 500 foot radius centered on you. You can combine elements in different ways to create different effects. This ability is innately powered and hard to explain. Play around with the different powers to fully understand what you can do. Costs mana. (differs depending on effect.)
+
+Death Mist (SS): You create mist with mana. (1 cubic foot of mist per 10 mana.) The mist eats away at any enemy within it and lingers indefinitely. This effect can only be reversed by the user ending it, by killing the user, or by a skill or spell at least the same grade as this skill (SS grade)
+
+Fade Away (A): You can turn to mist and teleport up to 10 feet away. Uses a small amount of mana.
+
+Lightning Beam (B): You shoot a beam of lightning at anything within 50 feet of you that costs 5 mana.
+
+He nodded to himself. None of his skills were too expensive, but then again, he didn’t actually know how to calculate how much mana he had.
+
+Tentatively, he called out to the system for the first time in quite a while. “System? How much mana do I have?”
+
+“You have 4,020 mana.”
+
+That seemed like… quite a lot. “How did you calculate that?”
+
+“Your mana is 10 times your intelligence modifier.”
+
+“Hmm… how quickly does my mana regenerate?” Atlas asked, understanding now why he had such a large amount of mana.
+
+“Your mana fully regenerates from 0 in exactly an hour. Depending on your mana pool, you regenerate faster. You currently regenerate 67 mana per minute, and 1.1 mana per second.”
+
+Atlas nodded, deep in thought. If a fully empowered Ultimate Debuff strike, 5 debuffs, cost… 250 mana, then he could afford to attack with it cranked to the max… 15… 16 times? Yeah, that sounded about right.
+
+“Ahem”
+
+“Huh?” Atlas glanced upwards, it was weird talking to someone he couldn’t see, so he acted like the system was above him to make it less weird on himself.
+
+“You can now place the river anywhere, you would have been told earlier, but you were pretty busy.”
+
+Atlas blinked. He had completely forgotten about that.
+
+He sheathed his sword on the scabbard at his hip. He bent his knees before flying into the sky and landing gently on the roof of the town hall.
+
+Atlas spun slowly, surveying the land he had recently cleared of trees and other foliage. He frowned slightly. Where would a river fit well? He had to make it have a clear area by it so that he could place buildings on its banks. He didn’t want to just choose a spot at random, because that could conflict with his future buildings.
+
+“Hey system? Is it possible to get rid of buildings?” Atlas asked, having a burst of inspiration.
+
+“Yes, it is possible, but you have to demolish it yourself. As a bonus, you get all of the resources back from the building.”
+
+Atlas nodded, Blitzing over to the toolshed and getting a large ax. He started to meticulously chop down the palisade.
+
+A couple minutes later, he had completely deconstructed the wooden wall. “System, I would like to place the river where the palisade used to be.”
+
+Checking… Granted. Please stand by as the river is placed.
+
+There was a loud roar as dirt was replaced with rushing water. It completely encircled the town, if it could even be called that. It only had 3 buildings, not counting the watchtowers and the mineshaft. The water replaced the palisade perfectly, except instead of a square it looked more like a circle with slightly straightened sides.
+
+Atlas opened up his resources, wanting to see what he could build.
+
+Resources: Lumber: 829, Stone: 386, Iron: 147, Tin: 462, Copper: 232, Gems: 24
+
+He nodded, his wood had skyrocketed because of the palisade, but his others were lower, in the 100 to 400 range. He brought up the lumber mill and windmills descriptions.
+
+Lumber Mill- Lumber 50, Stone 10, Soil (minimum 100 square feet), Water source
+
+Water Mill- Lumber 50, Stone 10, Soil (minimum 100 square feet), Water source
+
+He quickly bought both of them, placing them on his side of the river, close to the armory and blacksmiths' buildings. Atlas suddenly realized that he didn’t actually know what either of them did.
+
+Lumber Mill: Generates 50 lumber per day.
+
+Water Mill: Generates 10 units grain per day.
+
+Atlas felt a smile creep onto his face. Free resources? This was amazing! He created 3 more of each, quadrupling his production of each per day.
+
+His resources had fallen drastically.
+
+Resources: Lumber: 29, Stone: 306, Iron: 147, Tin: 462, Copper: 232, Gems: 24
+
+He now almost had as many gems as lumber, which was his rarest resource. He hadn’t found any use for them yet, but he knew that they would probably require either only a few of them, or all of his few gems, depending on how useful they were. He really wished he could know the value of each resource.
+
+Wave starting in: 00:01:00
+
+“Shoot.” Atlas winced at seeing the timer. He had really lost track of time. And the worst part? He didn’t have a wall anymore, he would have to be extra careful this time around.
+
+Wave starting!
+
+Flee mortal! There is a beast of terrible power approaching, the famed Mini Boss wave has come upon you! Fight or flee, you will lose either way!
+
+Atlas smirked, a miniboss? Really? That's what all the hype was about? He had killed far worse with ease.
+
+He watched as the ground roiled and roared, opening up as though a great beast was opening up its maw. A large snake leapt up for its depths, crashing against the ground and hissing loudly at Atlas.
+
+Atlas blasted forward, pulling his newly sharpened sword in a rasp of steel and scanning the miniboss.
+
+Depthless Snake: Dnar
+
+T2 Lvl 50
+
+Atlas felt cold sweat rise on his neck but shook it off. He had killed things that were far stronger than him before, why would this be any different?
+
+The snake reared up, lashing at him with its tail. Mana poured into Atlas’s sword as he used Ultimate Debuff, he activated Blitz and Endless Strength at the same time, colliding with the snake’s tail with the full power of his skills. As an afterthought, he activated Toughen and Reaper’s Senses, and time seemed to slow down as his sword cut deep into the snake's tail inflicting 5 different debuffs.
+
+The snake hissed loudly in pain and snapped at Atlas, but Atlas was in the zone now. His sword flashed and the snake pulled back, a gash on its snout that hadn’t been there before.
+
+Atlas felt a sudden calm wash over him and his body started to move the very instant Atlas thought it. The sword ripped through the snake, leaving more and more debuffs on the now very confused snake.
+
+The snake, in a burst of motion, opened its mouth and venom splattered onto Atlas’s eyes, and Atlas screamed in pain before recovering quickly, not letting go of the deadly trance he was in.
+
+Atlas closed his eyes, relying on his other senses to fight. His sword flashed in perfect rhythm, falling on the snake over and over, gouging out more and more flesh. The snake struggled but Atlas did not yield, somehow always knowing where the snake was going to be.
+
+There was a loud crack and the snake's tail slammed into Atlas, and his burned eyes widened in surprise and pain before he collided with one of his watchtowers, embedding deep into the wood.
+
+He jumped forward, but the snake slammed him into the water, and he plunged into the frigid water.
+
+He leapt out instantly and swiped his sword at the snake, but he had lost his trance and the snake flipped him into the sky, opening its maw wide as he fell.
+
+Atlas felt time slow, and he closed his eyes, reaching deep inside himself before something in his mind suddenly clicked.
+
+He fell like a meteor from space, spinning his sword in intricate arcs and slicing the snake before it could snap at him.
+
+He used Elemental Affinity for the first time in this fight, and the snake was speared from below by earthen spikes.
+
+The snake tried to break free, but it was too weak from all of the many debuffs that Atlas had inflicted him with. It was bleeding to death, along with many other different debuffs that were slowing it, burning it and freezing it all at the same time.
+
+It was dying.
+
+The snake realized this and glanced at Atlas-
+
+Only to find his sword right in front of it, ripping into its eye, sending blood and brain matter everywhere in an explosion as the snake's head imploded.
+
+The gore landed on Atlas’s suit and vanished, leaving him still impeccably dressed. Atlas bent down and grasped the snakes limp body and used Consume.
+
+Atlas watched as the notifications rolled in.
