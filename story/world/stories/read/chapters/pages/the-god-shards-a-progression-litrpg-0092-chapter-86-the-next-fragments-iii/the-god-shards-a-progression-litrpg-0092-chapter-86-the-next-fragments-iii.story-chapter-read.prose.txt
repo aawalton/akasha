@@ -1,0 +1,147 @@
+Chapter 86: The Next Fragments III
+
+Leo’s head reeled at the sheer number of notifications. He took a deep breath. One thing at a time, he told himself.
+
+First he noted the bonus points from the fragments—900 was a staggering amount for him to wrap his head around. For now, he’d hold off on distributing them until after his spell selections in case that affected things.
+
+His eyes moved down to the small message claiming he could select a skill or a spell to upgrade. He frowned. He’d never had an option like this before, and he wasn’t sure what to make of it. The wording of “upgrade” rather than level up made him think it would be an expansion of the skill or spell’s scope. A horizontal movement rather than a vertical one, you could say.
+
+With that in mind, he quickly scanned his current stat sheet. It was a shame [Judgement] was explicitly excluded, he thought. An upgrade to his personal skill would’ve been interesting. He shook his head and continued thinking.
+
+Leo immediately ruled out any passive skills. Those all had fairly clear, specific effects, and they leveled with use. A few of the active skills he considered, but the uncertainty of what an “upgrade” would entail made him hesitant. What would an upgrade of [Renewal] do? Would it let him heal other people? Was that stretching the scope of the skill too far?
+
+He focused on his current spells, [Visual Illusion] and [Teleport Object]. Right now these two were probably his best options, so he’d have to consider what he’d get from upgrading them.
+
+He pulled up their individual descriptions again, reading through them. If he was right about what “upgrade” meant, he thought it was a fair guess that an upgrade to [Visual Illusion] would include other sensory components.
+
+[Teleport Object], on the other hand, was a lot harder. The spell already specified that the size limit, distance, and amount of objects he could teleport would increase with levels. Would an upgrade mean he could teleport himself? If that was the case then taking it was a no brainer, but he wasn’t so sure it would do that.
+
+Leo had already been given multiple types of illusion spells as options, but he hadn’t received any self-teleport skills or spells, which meant they were probably beyond his current level. He doubted the System would let him extend teleportation to himself this early on. It felt like too much of a stretch for an “upgrade.”
+
+Not only that, but if [Teleport Object] kept its current method of following eye movement to determine final location, it wouldn’t be very accurate or reliable even if it did let him teleport himself. He seriously doubted the spell’s activation conditions would change.
+
+Leo stared intently at the notifications, aware that he probably looked ridiculous to Allan and Spade right now. He could take a risk on upgrading [Teleport Object], not knowing what the result would be, or he could upgrade [Visual Illusion], which he had a much more clear understanding of.
+
+His eyes briefly moved down to the next string of messages, and he bit his lip. Upgrading [Visual Illusion] would also have the bonus of cutting down on his next spell selection since he’d be able to ignore [Auditory Illusion] from the options.
+
+Screw it. Leo distinctly remembered all the time he’d spent trying to get his throwing knives to teleport where he wanted them. There was a reason he’d used the spell mostly defensively during the last fight. Plus, he liked the flexibility of illusions. He might regret this, but if he got the option to upgrade a skill or spell every few fragments, then he could always upgrade [Teleport Object] in the future anyway.
+
+Taking a deep breath, Leo chose to upgrade [Visual Illusion]. His vision flashed, swirling golden lights flooding his surroundings for a moment, before a new screen appeared.
+
+[You have upgraded [Visual Illusion] to [Intangible Illusion]]
+
+[Intangible Illusion - Mana cost: Medium. Enables user to project a small illusion on a singular target within the user’s line of sight. The illusory image created must be smaller than a five foot cube and lasts a maximum of 10 minutes. During its duration, it can produce sounds that the user is naturally able to produce without assistance. The maximum and minimum volume of the sound is the same as that of the user’s unassisted voice. This illusion is visible and audible only to the target. At higher levels, the illusion gains size, duration, can produce different types of sounds, and can target multiple creatures at once.]
+
+As Leo predicted, it had indeed merged [Visual Illusion] with [Auditory Illusion]. Not only that, but the size of the illusion had increased to a five foot cube. He was pretty happy with it, all things considered. He could already picture himself getting a lot of uses out of it.
+
+Satisfied, Leo moved on to the next series of notifications. He hadn’t thought he’d be able to pick from his old discarded options, but the fact that he could opened up new possibilities. It made him a little less nervous about missing out on a good ability, for one. Maybe he’d be allowed to pick from old options and upgrade skills or spells every five fragments?
+
+Regardless, he read on. He could now rule out [Auditory Illusion], which left [Message], [Firebolt], and [Shockwave]. He still liked the utility of [Message], but it seemed redundant with [Intangible Illusion]. He could just project an illusion on someone to send a message. The spell did have the benefit of unlimited range with party members, and it let the recipient respond, but so far they’d gotten by pretty well by using walking patterns on the party map for signals. He didn’t feel too bad about discarding it—probably for good this time.
+
+That left [Firebolt] and [Shockwave], two offensive spells with different purposes. [Firebolt] was a long range damaging attack while [Shockwave] was a close range spell that primarily functioned as a form of crowd control, judging by the way the description specified that it only dealt minor damage. [Shockwave] would be good for escaping a tight spot, especially if he was up against multiple enemies at once, while [Firebolt] would let him safely deal with enemies at range.
+
+Leo’s brows furrowed. His old concerns with [Shockwave] were still there. He couldn’t choose who he targeted, so the risk of hitting Allan or Spade was very real. Allan seemed to prefer fighting with his axe, judging from the battle against Darius and Asher, and Spade definitely fought at close range. They also didn’t have any strong long-range attacks right now. His throwing knives only went so far.
+
+Leo decided to look at his new spell options before making a decision, in case they affected his choice. The four options were all very enticing—this was probably the hardest decision he’d had yet. At least he got to pick two of them instead of just one, Leo thought.
+
+When he read [Air Walk]’s description, his first instinct was that the duration was too short to be useful. But after he sat and thought about it a little more, a second was long enough to jump at least twice, maybe more given his high agility. And if he combined the spell with his [Sprint] skill, he’d probably be able to get more distance out of it than he thought.
+
+It was definitely still limited, but he liked the idea of having more movement options, plus it synergized well with [Sprint], [Acrobatics], and his high agility stat. Every time those three things improved, [Air Walk] would get better by proxy, and of course the duration would lengthen as the spell leveled as well.
+
+[Veil] was also a tempting pick. Its ability to grant invisibility in a limited range would make it incredibly useful for sneaking into places. It would be much more powerful than [Fade into Background].
+
+He did note that it didn’t look like he could choose what was affected by the veil; anything within its range became part of it. That limited its offensive uses since a thrown object would become visible after leaving the shroud and he’d become visible if he went for a close range attack, though it would still help him keep the element of surprise. No, the main use he currently saw was as a means of escape. If they were being chased, he could put up [Veil] and their pursuers would be none the wiser.
+
+On the other hand, [Distant Eyes] was every bit as useful as the previous options. He was especially curious to see how it would interact with his “line of sight” spells and skills. [Teleport Object] still had a designated range, but [Distant Eyes] could let him teleport objects into another room if he used the vision of someone in that room. [Intangible Illusion] also had a line of sight range—he could use [Distant Eyes] on Allan or Spade while they were far away and project an [Intangible Illusion] on whoever they were dealing with. It sounded like it would synergize incredibly well with his current abilities.
+
+That brought him to the last of the spell options, [Inflict Condition]. It seemed to work a lot like [Shockwave] did, though it traded [Shockwave]’s burst range and minor damage for more status options on a single target. Leo didn’t mind the latter; having to touch the person he was targeting removed one of his biggest concerns with [Shockwave].
+
+It was true that he could only use the spell in close combat, but he could easily see the spell swinging the tides of a fight on its own. If he’d had it during the fight against Darius just now, they probably would’ve finished things much earlier, and Allan wouldn’t have been put in such a dangerous position.
+
+Leo frowned. Out of the former discarded spells, it was between [Firebolt] and [Shockwave]. If he took [Shockwave], he probably wouldn’t take [Inflict Condition] to avoid too much overlap. Which one was he leaning towards, though?
+
+The [Fragmentholder] scanned the list again. Huh. The System hadn’t actually given him an offensive spell option this time around. Before, it looked like it had been cycling through different elemental attacks, but maybe it had stopped giving him the choices altogether after he’d repeatedly rejected them.
+
+Depending on which of [Firebolt] or [Shockwave] he picked, he guessed the System would adjust his future spell options to be in line with that choice. His eyes narrowed. If that was the case, he’d much rather choose [Firebolt] in the hopes of getting more long range attacks. But what about the new spells?
+
+He was taking [Distant Eyes] for sure, Leo thought. It synergized extremely well with his current abilities, and he’d only get more use out of it the more spells and skills he got. It opened up too many possibilities for him to justify skipping it.
+
+As for the last pick, he was a lot more evenly split. [Air Walk] was a good but limited movement skill that would get better over time. [Veil] was an extremely powerful choice that would be immediately beneficial, but its future use wouldn’t change as much as a spell like [Air Walk]. He could say the same about [Inflict Condition], to be honest. It would get more effective at higher levels, but the spell description sounded like it would always be a touch range spell.
+
+In the end, that was the deciding factor. It physically hurt to pass up on [Veil] and [Inflict Condition], but he’d always liked flexible options that stayed relevant far into the future. He only had so many spell slots, after all. [Air Walk] would keep getting better, probably exponentially so, and synergized well with his current fighting style and abilities. He’d have to make do with [Fade into Background] and [Stealth] for hiding, and since he was picking [Firebolt], he was committing himself to more long-range combat anyway.
+
+Taking a deep breath, Leo read through all his options one last time to make sure he wasn’t missing anything, then silently chose [Firebolt], [Air Walk], and [Distant Eyes].
+
+A wave of dizziness suddenly washed over him. He reached a hand out, grabbing onto a nearby tree to steady himself while he waited for the feeling to fade. A quick glance at his stat sheet revealed that the spells had taken hold. Now all he had to do was distribute his bonus points.
+
+First he raised his mana by 3 points. He’d just gained three new spells; he’d need all the mana he could get. He raised his magic up by 1 point for the same reason, though he held off on increasing it more for now. It was already as high as his strength at this point.
+
+That left him with 500 more points to distribute. After some consideration, he decided to raise [Firebolt], [Air Walk], and [Distant Eyes] to level 2. [Intangible Illusion] as well; it had reverted to level 1 after it was upgraded. He’d have to keep that in mind for upgrades in the future.
+
+With 100 points left, Leo raised his agility up by another point. With [Air Walk], he was going all in on his speed, so he wanted it as high as possible—especially if they kept fighting people higher level than them.
+
+Finally, he was done. The screens dissipated, and Leo let out a sigh of relief. He slumped down, suddenly feeling very tired. It was either a side effect of absorbing so many fragments at once, the residual weariness of the fight and escape from Alnwick, or most likely a combination of both.
+
+“You done?”
+
+Leo looked up to see Spade watching him from across the small clearing. The moonlight still shone brightly above, and their surroundings remained deserted.
+
+“Yeah, I think so.” He shivered a little as a cold breeze blew past. “There was, uh, a lot of stuff to go through.”
+
+“Sure looks like it.” Allan was squinting at something in front of him. He’d probably pulled up the party stat sheets.
+
+The [Healer] turned to face Leo. A large paper had been spread out on the ground in front of him; it looked like he and Spade had pulled out their map at some point. “We were just talking about what road to take,” Allan explained. “You said you wanted to go through Ivalon to Ellis, right? There’s a lot of different paths in the south.”
+
+Leo leaned over, inspecting the map closely. He reached over and tapped one of the roads. “This one,” he said. Spade raised an eyebrow.
+
+“Any particular reason why?”
+
+“I found Darius’s office,” Leo said. “He had a bunch of circles all over his map. I think he was trying to find fragments.” He sat back again, frowning down at the wrinkled paper. “I don’t know which ones’re real, but on that road, he had a note about disappearances and some kind of weird mist. Maybe it’s a fragment, maybe it isn’t, but we might as well check it out if it’s on the way.” If the map was to be believed, they should reach the area Darius had circled within two days of travel.
+
+Allan hummed in agreement. Leo opened his mouth, ready to discuss more of their plans, but instead a huge yawn came out. The [Healer] laughed and grabbed the map, carefully folding it up to place back into their bags.
+
+“Maybe we should sleep for now. It’s getting late,” he said.
+
+“I’ll take first watch.”
+
+Allan frowned at Spade. “Your arm’s hurt,” he said bluntly. The [Executioner] raised an eyebrow.
+
+“You were hit with [Shock]. Both of you. Chances are there’s still some magic lingering in your bodies. You would do well to sleep it off.”
+
+Allan looked like he wanted to argue, but couldn’t come up with a decent excuse. Leo couldn’t either, so after a few beats had passed, they both relented and dispersed to their respective sleeping areas.
+
+Leo settled down under a tall tree. The canopy provided some cover above, but he could still make out pieces of the sky between the gaps in the leaves, jutting out like dark fractures speckled with shining stars.
+
+He vaguely wondered if he’d see Sol again that night. Maybe he’d heard of the mists down south. He didn’t have much time to think on it, however, before a heavy wave of exhaustion crashed over him.
+
+Leo rolled over and closed his eyes. For now, it was time to rest.
+
+Tomorrow would begin a new journey.
+
+—
+
+Name: LeoAge: 24Level: 24Class: [Fragmentholder, Tier 1]Personal Skill: [Judgement Lvl 3]
+
+Strength: 15Magic: 15Constitution: 14Agility: 27Defense: 11Resistance: 15Mana: 24
+
+Equipped Passive Skills (3/3): [Stealth Lvl 2], [Acrobatics Lvl 3], [Dagger Proficiency Lvl 3]Active Skills (5/8): [Mana Recovery Lvl 2], [Fade into Background Lvl 2], [Renewal Lvl 2], [Sprint Lvl 2], [Return Lvl 2]
+
+Spells (5/13): [Intangible Illusion Lvl 2], [Teleport Object Lvl 2], [Firebolt Lvl 2], [Air Walk Lvl 2], [Distant Eyes Lvl 2]
+
+—
+
+Name: AllanAge: 24Level: 24Class: [Healer, Tier 1]Personal Skill: [Wrath Lvl 1]
+
+Strength: 19Magic: 19Constitution: 17Agility: 18Defense: 16Resistance: 12Mana: 18
+
+Equipped Passive Skills (3/3): [Athletics Lvl 2], [Endurance Lvl 3], [Anatomical Knowledge Lvl 2]Active Skills: (4/8): [Celerity Lvl 2], [Renewal Lvl 2], [Even Path Lvl 2], [Cleave Lvl 2]
+
+Spells (3/10): [Mend Lvl 3], [Fortify Lvl 1], [Pain Lvl 1]
+
+—
+
+Name: SpadeAge: 31Level: 25Class: [Executioner, Tier 1]Personal Skill: [Empathy Lvl 3]
+
+Strength: 23Magic: 6Constitution: 23Agility: 19Defense: 22Resistance: 11Mana: 14
+
+Equipped Passive Skills (3/3): [Slow Bleeding Lvl 1], [Athletics Lvl 3], [Blade Proficiency Lvl 4]Active Skills (6/8): [Reckless Wager Lvl 2], [Precision Lvl 2], [Renewal Lvl 2], [Duelist’s Challenge Lvl 2], [Cleave Lvl 2], [Guard Lvl 2]

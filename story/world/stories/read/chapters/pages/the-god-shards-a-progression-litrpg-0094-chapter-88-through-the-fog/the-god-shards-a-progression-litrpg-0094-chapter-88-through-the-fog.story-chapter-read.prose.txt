@@ -1,0 +1,123 @@
+Chapter 88: Through the Fog
+
+“He knows where you are?”
+
+Leo winced, but didn’t deny Allan’s words. When he’d first started explaining his meetings with Sol, both Allan and Spade had taken it surprisingly well. There’d been some questions and concerns, of course (mostly from the former), but for the most part they seemed to agree that the possible information he could gain from speaking to the other [Fragmentholder] was worth the risks.
+
+This attitude had quickly changed, however, when Leo had reached their most recent meeting. He raised his hands placatingly, attempting to calm Allan’s obvious alarm.
+
+“I know, I freaked out too,” he said. “Apparently his fragment map is more detailed than mine. I think it’s a core fragment thing.”
+
+That didn’t seem to assuage the [Healer] at all. If anything, it just made it worse. “So anyone with a core fragment knows your location at all times?”
+
+“…Yes?” Allan opened his mouth to respond, but Leo quickly cut him off.
+
+“Look, I know it sounds really bad, but Sol had a point. No one with a core fragment’s gonna bother with me when all I’ve got are minor ones, and if Sol really wanted to attack me, he could’ve done that a long time ago.”
+
+Allan frowned, and Leo continued. “I’m not happy with it either, believe me, but we can’t really do anything about it.” He cringed. “At least we know about it now so we can prepare for when it becomes a bigger problem.”
+
+The [Healer] was quiet at that, brows furrowed in thought. Leo waited, preparing for another argument, when the man finally spoke again.
+
+“…You trust him?”
+
+Leo paused at that, thinking. “I wouldn’t say trust,” he finally said. “I barely know anything about him.” He didn’t even know Sol’s real name.
+
+He frowned, recalling every prior meeting they’d had. The man’s apparent distaste for violence combined with those flashes of ruthlessness, his steadfast belief in finding a worthy new Administrator. That moment he’d stared out into the false ocean of the [Dreamscape], lost in old memories, appearing the most vulnerable and human he ever had. Sol was secretive, that much was undeniable, but he’d never come across as insincere to Leo.
+
+“I don’t trust him,” he repeated, “but I do think he’s telling the truth about his goals. I think he genuinely believes in finding a worthy Administrator, whatever that means to him, and as long as we don’t get in the way of that, he won’t harm us.”
+
+Allan nodded slowly, digesting the words. “Okay,” he finally said. “If you really think so. But be careful. If anything seems off, get out of the dreamscape immediately.”
+
+Leo smiled. “Don’t have to tell me twice.” He paused and turned to the third member of their party, who had remained largely silent up until now. The [Executioner] sat leaning casually against a tree trunk, her grey eyes as unreadable as ever. He frowned. “Spade? What about you? You’ve been quiet.”
+
+“I was thinking.” She cocked her head. “I’m trying to determine what his real identity is. You said you think he’s from a southern country?”
+
+Leo nodded. “His clothing looks like it, and the place we meet in the dreamscape is by the ocean. He said it’s from his memories.”
+
+“He could be lying,” Allan pointed out.
+
+“He could be,” Leo agreed. “He seems to have total control over everything that appears in the dreamscapes. For all I know, he might look completely different from how he does in real life.”
+
+“So we don’t really know anything.”
+
+“Kind of, yeah.” Leo sighed, rubbing his forehead in frustration. “He’s definitely a powerful mage, and he seems to specialize in illusion magic. I’m 99% sure he’s a noble, too, but that doesn’t really narrow things down.”
+
+“Perhaps the next time you meet, you can try to learn more about him,” Spade suggested. “If he’s as strong as you described, he’s likely a publicly known figure. Any details would help determine his identity.”
+
+Leo nodded. “Good idea. I’ll see if I can get something the next time I see him.” Despite his words, he doubted it would be that easy. Sol struck him as a very careful person who would never reveal anything he didn’t intend to, but it was still worth a shot.
+
+The thought of ‘next time,’ however, brought him back to their current situation. Leo turned to face the road stretching ahead of them. The thick trees cast long shadows across the path, and in the cool morning, a faint silvery mist hovered in the air that obstructed the end of the road from view. After his conversation with Sol, the unease he’d felt the previous day was stronger than ever. Through that fog, they’d find the next fragment.
+
+“For now,” Leo said, “we should be careful. If Sol was telling the truth, there’s a [Fragmentholder] up ahead, and a pretty nasty one by the sounds of it.”
+
+He rose to his feet, Allan and Spade following suit, and dusted off some of the dirt that had collected on his clothes overnight. “I don’t know what kind of illusion magic he has,” he continued, “but be careful and keep an eye out.”
+
+[Judgement]’s passive effect would be able to catch any skill or spell use, but he wasn’t sure what its maximum range was. If these illusions were cast from long distances, it might not be reliable. He'd been able to detect [Dreamscape], but that one seemed to partially jump off its target, so he wasn't sure if it was a good estimate for [Judgement]'s range. Doubly so if this [Fragmentholder] used area illusions that didn't target him directly. He’d have to stay vigilant and remember to use the active effect whenever he saw anything new or strange.
+
+After a final sweep of the area and another round of [Mend], the group picked up their bags and continued deeper into the forest.
+
+—
+
+The fog was getting thicker. A faint chill had crept into the air, and Leo shivered and tugged his cloak closer. His eyes constantly scanned their surroundings as they walked; every tree and branch appeared like a hazy shadow in the mist. He could barely even make out the glow of the wall of light in the distance, and he suspected soon the fog would be thick enough that it obstructed it entirely.
+
+So far, they hadn’t encountered anyone on the road. The path remained eerily silent—he didn’t even hear birds chirping. Leo activated [Judgement] and did a quick sweep of the area, but nothing appeared. This fog, for all intents and purposes, seemed to be natural.
+
+He said as much to Allan and Spade, partly to break the oppressive quiet. Spade hummed.
+
+“Before the Fall of the Ancients, southern Avel was controlled by fae. Perhaps this fog is another result of their lingering magic.”
+
+Leo felt his face scrunch up on instinct. “Not the fae again,” he muttered. He still remembered that sight at the bottom of the Glass Lake, the looming, decaying corpse sitting in the clear waters, strings of hair drifting in the waves. It had been unsettling back then, and it still was now—perhaps even more so than an actual living fae kingdom would’ve been. He wasn’t superstitious, but the fact that they were once again on old fae territory didn’t bode well with him.
+
+Up ahead, a shadow moved in the fog.
+
+Leo’s hand immediately flew to his dagger, muscles tensing as he spun around to face the attackers—only to pause as his eyes settled on the figures now surrounding them.
+
+They were people, about twenty or so, dressed in worn clothes with dark circles under their eyes. They held a mixture of pitchforks, shovels, kitchen knives, and seemingly anything else they could get their hands on. These makeshift weapons were now pointed at the trio, faces hard with mistrust.
+
+Leo swept his eyes over the group, allowing [Judgement] to pull up their stat sheets, but none of them were [Fragmentholders] or even had a Tier 1 class. He frowned. They were exactly what they appeared to be: tired, weary, and scared villagers.
+
+Carefully, he moved his hand away from his dagger, raising it in a show of good faith. The action didn’t seem to ease the strangers much.
+
+“Who’re you?” the villager in the front demanded, holding his shovel up threateningly. His eyes kept darting between Leo, Allan, and Spade.
+
+“Travelers,” Leo said steadily. “We’re heading south.”
+
+A few murmurs passed between the villagers at that, but none of them lowered their weapons. Beside Leo, Allan spoke, his own hands also raised placatingly.
+
+“Please, we don’t mean any harm,” the [Healer] assured. “We’re only passing through.” His brows were furrowed in concern as he studied the group surrounding them. “Are you all alright? We heard some rumors about the area, but we weren’t sure if we should believe them.”
+
+The man snorted. “You’re fools then,” he said.
+
+“So it’s true? People have really been going missing?” Leo asked. The villager’s eyes darted to him suspiciously, but the way he and the others tensed was answer enough. The [Fragmentholder] must be close by.
+
+“What do you care?” the man retorted. He waved his shovel threateningly. “If you’re really just travelers, hurry up and get out of our faces!”
+
+Leo felt a twinge of annoyance flare up, but he shoved it down, reminding himself that these people were probably terrified. More than that, they likely knew more about the disappearances than they were letting on. If they could just get more information, they could locate the [Fragmentholder] doing all this in the first place.
+
+His gaze shifted back over to the villagers. His first instinct was to try saying they were mercenaries and offer their protection, but given the obvious wariness on their faces, he doubted they’d take up the offer. What other options did they have? He racked his brain, trying to come up with a way to gain their trust, when a voice interrupted his thoughts.
+
+“We’re fragment hunters.”
+
+Leo’s head snapped around. Spade was watching the villagers with a calm, steady gaze, her grey eyes unreadable.
+
+“Are you crazy?” Leo hissed. Considering the reputation fragment hunters had right now—and probably deservedly so, given what they’d seen and heard so far—the last thing they needed was to have that label associated with them.
+
+Almost immediately, the villagers recoiled, several raising their weapons higher. Leo could practically feel the air growing heavier as the weight of those words settled over the gathered crowd. Before he could do anything, however, Allan took a careful step forward.
+
+“It’s true,” he said simply. “I know fragment hunters have built up a bad reputation, but our intention isn’t to hurt anyone. We’re searching for fragments, and we heard there might be one in this area. One clearly being misused.” His brows furrowed sympathetically. “Please, if you would simply tell us who is responsible, we can stop anyone else from disappearing.”
+
+Another wave of whispers passed between the villagers. By now, the fog had thinned out just enough for Leo to make out worn, crooked wooden buildings up ahead, nestled right between the trees in small clusters. There were even more villagers there, some watching the interaction out of their windows or from their doors.
+
+“And how’re we supposed to trust you? I bet those fragment hunters in Wolford said the same thing!”
+
+Wolford. Leo recognized the name from the map; that was the wrecked village they’d passed through the day he’d first met Sol. He still distinctly remembered the stenches and sights, the family lying on the bed with their chests torn open, and he felt his face twist in disgust.
+
+“We’re not like that,” he argued. He took a deep breath. “Look, if we really planned on killing everyone and ransacking the place, we would’ve done that already. Look at you. Half of you don’t even have weapons.”
+
+The man in front made an affronted noise, but Leo continued before he could interrupt.
+
+“Just tell us who has the fragment or point us in the right direction, and we’ll be out of your hair. That’s all we want. I swear it.”
+
+The villager’s jaw clenched. Leo mentally prepared himself for an argument, maybe even a fight, but to his surprise, the man slowly lowered his shovel.
+
+“…Fine,” he said gruffly. “If you three’re really stupid enough to go after that fragment, I’ll tell you what I know.”
