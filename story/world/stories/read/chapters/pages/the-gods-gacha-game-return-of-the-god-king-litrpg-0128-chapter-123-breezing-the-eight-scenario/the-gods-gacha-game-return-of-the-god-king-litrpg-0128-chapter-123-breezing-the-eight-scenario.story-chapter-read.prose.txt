@@ -1,0 +1,177 @@
+[Phantom Slash Lv.5]
+
+Rank: RareType: Active
+
+An immensely powerful strike that generates a phantom afterimage following the same trajectory at reduced power. The initial blow delivers the full force, while the delayed phantom strike deals additional damage equal to half the original’s power. The attack can bypass minor physical defenses and parries due to its temporal displacement.
+
+“Ooh!” I couldn’t help but grin as I read through the new skill’s description.
+
+I swung my sword experimentally, activating Phantom Slash, and spectral trails followed, slicing through the air with a faint delay before fading.
+
+Still, tempting as it was to test it immediately, the inn room wasn’t exactly the best place to swing a sword infused with destructive skill. I’d save the testing for later, preferably somewhere that wouldn’t get me kicked out.
+
+Next, I turned my attention to something more daring and ambitious: merging several skills at once.
+
+I opened the interface again, scrolling through my skill list: Extraordinary Agility, Extraordinary Endurance, Extraordinary Magic Power, Extraordinary Memory, and Extraordinary Power. Each one was a passive enhancement gained after pushing my stats past a certain threshold, and all of them overlapped to some extent. If I could merge them successfully, the result could become a foundation-level passive—a core ability representing the absolute harmony of body, mind, and magic.
+
+I activated the same signature skill as before. Threads of golden code manifested, spiraling around each skill like orbiting stars before converging into a single, radiant sphere of light. I intentionally left out Extraordinary Fortune because I had a hunch that it wouldn’t fit well with the other passive skills.
+
+You have activated God!$# Creation: Conceptual Integration.
+
+Select compatible skills to combine.
+
+You have selected [Extraordinary Agility], [Extraordinary Endurance], [Extraordinary Magic Power], [Extraordinary Memory], and [Extraordinary Strength].
+
+Conceptual compatibility: 80%.
+
+Proceed with fusion?
+
+[Yes/No]
+
+“Yes, proceed,” I confirmed.
+
+The golden sphere pulsed intensely, its light changing from gold to blinding white. At first, the fusion looked unstable as if it might collapse again, but then the chaotic currents stabilized. Threads of physical, magical, and mental attributes intertwined, resonating in harmony until they merged into one seamless core.
+
+You have successfully merged five Extraordinary-tier passives into one.
+
+You have created [Extraordinary Harmonized Constitution].
+
+A total of 337 Plausibility has been consumed.
+
+The golden sphere dissolved, leaving behind a single icon at the top of the interface—a human silhouette surrounded by a corona of light.
+
+“Extraordinary Harmonized Constitution, huh,” I repeated, smiling faintly. What about the new skill’s effect?
+
+[Extraordinary Harmonized Constitution]
+
+Rank: Unique Type: Passive
+
+A refined state of equilibrium achieved through the perfect synchronization of body, mind, and mana. Enhances all physical, magical, and mental attributes proportionally, granting more immense strength, improved speed, superior stamina recovery, sharper focus, and faster mana flow regulation. Greatly increases resistance against debuffs and fatigue.
+
+With this new passive skill, I should be able to perform feats that were previously beyond my current stats. It was a well-rounded improvement overall, enhancing every aspect of my abilities in perfect balance. Still, there was no denying that skill fusion was an expensive endeavor… I was left with only eight plausibility left… If I had ten fewer plausibility, the skill combination would have failed, and the plausibility would have been wasted for nothing. I was lucky enough to have just enough.
+
+I also noticed that combining skills was relatively more cost-efficient than transferring one skill’s attributes into another. Even so, I couldn’t afford to keep experimenting like this unless I acquired more plausibility soon.
+
+At any rate, before diving into the scenario tomorrow, I planned to stop by the Genesis Order to replenish my plausibility reserves first.
+
+***
+
+A clash erupted under the orange light of dusk.
+
+The terrain wasn’t a desert like in the previous two scenarios. Instead, the land was barren and broken—an empty badland stretching endlessly in all directions. Cracks split the dry earth in spiderweb patterns, while withered shrubs and jagged rocks jutted out like the ribs of a long-dead beast. The air was heavy with dust and the faint scent of sulfur.
+
+From afar came the thunder of paws pounding against the earth.
+
+“Raaagh!”
+
+“Shaa-haa-haa!”
+
+Gnolls—beastlike humanoids with coarse fur and glowing yellow eyes—charged across the cracked terrain atop massive, snarling wolves. Their guttural laughter echoed across the wasteland as they brandished crude scimitars and jagged spears, eager for blood.
+
+“Here they come!” Boris bellowed, lowering his stance and spreading his palms wide, ready to face the charge head-on.
+
+This was our first battle upon entering the eighth scenario, being faced against a horde of gnolls mounted on savage wolves. The pack of thirty or so gnolls thundered across the cracked wasteland, coming closer to us at extremely fast speed.
+
+[Gnoll Rider – Lv.83]
+
+Savage gnoll warriors who have formed a brutal pact with their wolf mounts. Skilled in mounted combat and ambush tactics, they rely on overwhelming speed and pack coordination to raid on other tribes and overwhelm their prey.
+
+[Dire Wolf – Lv.61]
+
+Massive, battle-trained wolves native to the badlands. These beasts have been tamed by gnolls to serve as their mounts and are known for their stamina and resistance to elemental magic. They can track the scent of blood from several kilometers away and are extremely loyal to their gnoll masters, fighting to the death rather than abandoning their riders.
+
+“Everyone, get ready!” I warned, bracing myself.
+
+“Nature’s Split!” Michelle shouted, slamming her twin axes into the ground. Thick, thorn-covered vines burst upward, twisting into a dense wall that shielded us from the oncoming gnolls. Sounds of splintering earth and rustling thorns filled the air as the barrier took form.
+
+The first wave struck, claws and steel colliding with her thorn barrier. Though the vines tore into their flesh, the gnolls pressed forward relentlessly, hacking and biting in a frenzy to break through. However, it broke their momentum and gave us time to retaliate.
+
+Lucian stepped ahead and took out a floating magic orb. “Let’s thin them out with elemental magic. {Lightning Chain}!” A surge of violent lightning erupted from his magic orb, chaining from one gnoll rider to another. Several beasts collapsed mid-charge, their bodies convulsing before falling limp, smoke rising from their scorched fur.
+
+“Not bad,” Tuilë said, cocking her hand cannon with a grin. “My turn.” She pulled the trigger, and a thunderous blast echoed across the badlands. The shot tore through two gnolls in a single line, sending their wolves tumbling violently into the dust. “Ha! Two for one!”
+
+“Enough playing around,” I said, raising my hand. “{Gravity Field}.”
+
+The cracked earth rumbled beneath the charging wolves as gravity spiked. Their legs buckled under the sudden force, and several collapsed headfirst into the dirt. The gnolls shrieked in panic as they were flung from their mounts.
+
+You have hunted [Gnoll Rider Lv.81].
+
+You have gained 1,410 EXP.
+
+“Now!” I shouted.
+
+Boris charged like a living boulder, wrestling through the disoriented gnolls with ease. “Gahaha! These mutts can’t even stand straight!” he roared, not even bothering to activate Adamant Flesh, as if doing so was beneath him to do against enemies this weak.
+
+Michelle swiftly swapped her axes for her bow and began shooting arrow after arrow with practiced precision. Each shot struck true, dropping wounded gnolls before they could recover. Lucian joined in, unleashed a flurry of mana projectiles from the magic circles he conjured. The bolts struck the clustered riders, detonating on impact and scattering them like leaves in the wind.
+
+Only a handful of gnolls—fewer than ten—manage to regain their mounts. They turned tail and tried to flee into the distance.
+
+“I don’t think so!” Activating Phantom Slash, I cut through one rider, the afterimage striking again a heartbeat later to cleave another cleanly in two. Both bodies hit the ground hard, lifeless.
+
+You have hunted [Gnoll Rider Lv.82].
+
+You have gained 1,420 EXP.
+
+You have leveled up.
+
+You have hunted [Gnoll Rider Lv.81].
+
+You have gained 1,410 EXP.
+
+“Raaagh!” a gnoll roared from another direction.
+
+Tuilë shouted from the flank, “More incoming from the ridge!”
+
+Unfortunately, I couldn’t focus on chasing down the fleeing riders—not with another horde of thirty gnoll riders bearing down on us. Dust clouds rose behind them as the wolves bounded across the cracked earth.
+
+“I’ll handle them,” Michelle said, switching back to her twin axes. She slammed them into the ground once more to unleash her thorny barrier through her skill, Nature’s Split.
+
+Essentially, we repeated the same strategy as before against this new horde.
+
+You have hunted [Gnoll Rider Lv.82].
+
+You have gained 1,420 EXP.
+
+You have hunted [Dire Wolf Lv.61].
+
+You have gained 1,210 EXP.
+
+You have leveled up.
+
+Your Stamina has increased by 1.
+
+You have hunted [Gnoll Rider Lv.83].
+
+You have gained 1,430 EXP.
+
+You have hunted [Dire Wolf Lv.62].
+
+You have gained 1,220 EXP.
+
+…
+
+Within minutes, the battlefield was strewn with motionless bodies and shattered weapons, thick with the stench of blood. The surviving gnolls broke formation and fled into the cracked horizon with their tails between their legs, their scared howls fading into the distance.
+
+Truly, these gnolls were nothing more than cannon fodder to us now. The eighth scenario felt almost effortless compared to the last one. Perhaps it would have been more of a challenge if there were only three of us—or if we hadn’t spent time grinding in the Great Wilderness beforehand.
+
+Seeing that no more enemies were approaching, I quickly checked the details of the eighth scenario that I hadn’t gotten a good look at earlier while the others were salvaging what they could from the dead gnolls:
+
+Scenario #8 [Gnoll Infestation]
+
+In the badlands, the violent and aggressive gnoll tribes have united under a single great chieftain and begun raiding nearby human settlements and traveling refuges across the region. You must cull their numbers and reclaim the area, ensuring it becomes safe for humans and other races once more.
+
+Mission Type: ExterminationDifficulty: DMain Objective: Kill 100 gnolls. (47/100)Time Limit: NoneReward: 5,000 Soul CoinsPenalty for Failure: Death
+
+Extra Conditions:
+
+1. Kill 200 gnolls. (47/200)Reward: Two Gimmel-Tier General Lootboxes2. Kill 5 chiefs of the gnoll tribes. (0/5)Reward: Two Rare-Grade Elixir Vouchers3. Kill the great chieftain of the gnoll tribes. (0/1)Reward: Unique-Grade Armament Voucher
+
+No time limit, huh… So either we hunt a hundred gnolls in total… or die trying, I thought while reading the scenario details.
+
+Still, it wasn’t exactly a daunting task. We had already faced nearly sixty gnolls the moment we entered the scenario. Finding the rest wouldn’t be difficult; it was only a matter of how long it would take before we reached their main camp.
+
+“Um, Maxim, I think we’ve got a situation here,” Michelle suddenly called out from the side.
+
+“Hm? What is it?” I asked, glancing toward her.
+
+Her expression was tense as she pointed ahead. “There’s a caravan up ahead being surrounded by gnolls—and they don’t look like they can hold out much longer.”

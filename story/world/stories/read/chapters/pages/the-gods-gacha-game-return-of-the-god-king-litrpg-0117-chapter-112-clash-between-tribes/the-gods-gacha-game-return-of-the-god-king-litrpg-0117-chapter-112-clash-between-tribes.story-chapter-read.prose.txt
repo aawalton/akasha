@@ -1,0 +1,167 @@
+I walked in a certain direction through the Great Wilderness while checking the map I had obtained from Graham’s inventory.
+
+Map Piece: Forgotten Vault
+
+Grade: ???Type: Quest Item
+
+A weathered scrap of parchment etched with ancient glyphs and a fragment of a dungeon layout. Said to lead to a hidden vault somewhere in the Great Wilderness inside the Rift of Dungeons.
+
+You are inside the Great Wilderness.
+
+A quest has been generated.
+
+Dungeon Quest: [Forgotten Vault]
+
+You hold the map of the Forgotten Vault in your hand. Locate the dungeon’s position, enter its deepest chamber by overcoming all manner of enemies and traps, and claim the treasures within.
+
+Mission Type: Dungeon DivingDifficulty: C+Main Objective: Successfully conquer the Forgotten Vault. (0/1)Time Limit: NoneReward: ???Penalty for Failure: None
+
+Would you like to accept the quest?
+
+[Yes/No]
+
+Of course, I accepted the quest without hesitation. It was something with no penalty for failure, so there was nothing at stake here, aside from losing my life due to recklessness.
+
+You have accepted the quest.
+
+I kept walking for half an hour without turning left or right, the dry, coarse grass brushing against my boots as I pressed deeper into the Great Wilderness. The scent of damp earth, mingled with a faint stench of rot, grew thicker with each step. Soon, patches of soggy ground gave way beneath my feet, sucking at my boots. In a flash, the dry grassland had transformed into a swampy expanse, where crooked trees rose from stagnant pools of dark water. Clouds of insects buzzed incessantly overhead, thick enough to blur the air.
+
+A swamp? I paused for a moment, scanning my surroundings. The swamp was unnervingly quiet, and the only sound I could hear was the faint ripple of water disturbed by my movement. Yet, my instincts told me I wasn’t alone.
+
+Soon enough, those instincts were proven right.
+
+Half-submerged in the murky water, a small group of seven frogmen watched me with bulbous yellow eyes. Their slick, green skin glistened under the faint sunlight that pierced the canopy, and each clutched a crude weapon—rusted spears, crooked bows, bone-tipped javelins, and chipped blades strapped to their sides. For all their primitive arms, their leather armor was surprisingly well-crafted, sewn from the hides of swamp-dwelling beasts I didn’t recognize.
+
+[Frogman Warrior – Lv.53]
+
+A brutish fighter of the frogmen tribes. Thick muscles coil beneath its slick skin, giving it strength far beyond its appearance. Though lacking refinement, their relentless aggression and pack tactics make them dangerous foes in close combat.
+
+[Frogman Archer – Lv.55]
+
+A ranged hunter of the frogmen tribes. Leaner than their warrior kin, these frogmen rely on agility and sharp eyesight to strike from afar. They wield bone-tipped arrows dipped in venom to hunt foes from a distance.
+
+Among them stood one that was clearly their leader, with a bulkier frame and a far more imposing build.
+
+[Frogman High Warrior – Lv.87]
+
+An elite fighter of the frogmen tribes. Hardened by countless battles, its physique is a mountain of muscle wrapped in hardened hide. Unlike its kin, it wields its weapon with skill as well as brute force, combining strength with technique. Revered among its kind, its presence not only rallies nearby frogmen to fight with greater ferocity but also draws the attention of females seeking to mate.
+
+They croaked to one another in a rough language I couldn’t understand, but could guess well enough—it was the sound of hunters signaling prey.
+
+I readied my stance, drawing my sword. Unlike the bone-gnashing hyenas, these creatures weren’t driven by instinct alone. They were organized and cautious, intelligent enough to be called sapient and advanced enough to resemble a Stone Age or even Bronze Age tribe. Their webbed feet made almost no sound as they spread out in a half-circle, working to cut off my retreat.
+
+“Gruk, gruk, gruk!” the frogmen called out as they spread into formation.
+
+“So this swamp has its own natives…” I murmured under my breath. Exactly what I had been hoping to find—and if they truly formed a primitive society, then they should have some form of rudimentary religion and a permanent settlement.
+
+One of the frogmen suddenly let out a harsh croak, thrusting its spear forward as if daring me to move. The others followed suit, raising their weapons as their throats inflated with a low, rattling growl.
+
+“First, let’s cull your number.”
+
+Without hesitation, I cast {Gravity Field}, halving the gravity and reducing their weight, and immediately activated Windstorm to use it in conjunction with the spell. The air around my sword twisted into a violent gale before I swept it toward the enemies. The frogmen croaked in alarm as their bodies were lifted off their feet by the torrent of wind. Weapons clattered onto the swamp floor, bone-tipped arrows scattering into the murk as they flailed helplessly.
+
+When they were all high in the air, I doubled the normal gravity in an instant, and immediately, several were hurled into the stagnant pools, crashing through the surface with heavy splashes before vanishing beneath the water. Others were slammed against the crooked trees with sickening force.
+
+“Gruuuk!”
+
+Their croaks turned into strangled cries, echoing through the swamp before being swallowed by the roaring wind.
+
+You have hunted [Frogman Warrior Lv.53].
+
+You have gained 630 EXP.
+
+You have hunted [Frogman Archer Lv.55].
+
+You have gained 650 EXP.
+
+You have hunted [Frogman Warrior Lv.54].
+
+You have gained 640 EXP.
+
+You have leveled up.
+
+You have hunted [Frogman Archer Lv.52].
+
+You have gained 620 EXP.
+
+Within moments, all but a single one was gone, either lying dead or groaning weakly in the mud and about to die. It was almost too easy. I felt like a high-ranking player returning to a newbie village. These Bet-rank monsters had never stood a chance against me.
+
+Still, I didn’t lower my guard. My gaze settled on the largest of them—the high warrior, still standing firm amidst the chaos, its eyes burning with malice as they locked onto mine.
+
+“Are you the only one remaining?”
+
+It didn’t answer.
+
+The high warrior simply gripped its jagged spear tighter, muscles bulging beneath its slick hide as its throat swelled with a growl. Then, with startling speed for its size, it lunged at me. The swampy ground quaked beneath its leap, as it thrust its spear forward with full force.
+
+I took a step to the side and raised my sword. “Phantom Blade.”
+
+The words left my lips, and the blade in my hand suddenly split into several afterimages. In that instant, it felt as if I held not one sword, but at least five, each moving with the intent to kill. The frogman’s spear whistled past as I slipped aside. Phantom strikes lashed out from my end, faster than the eye could follow. To the high warrior, it must have felt like being assaulted from every direction at once.
+
+“Gruuk!” The cry tore from its throat as crimson lines burst open across its body. The high warrior staggered, eyes wide with shock, before collapsing heavily into the mud, lifeless.
+
+You have hunted [Frogman High Warrior Lv.87].
+
+You have gained 1,470 EXP.
+
+[Phantom Blade Lv.1]
+
+Rank: RareType: Active
+
+A sword technique that creates multiple afterimages of the user’s weapon. Each phantom slash carries a fraction of the weapon’s true power. The skill consumes stamina and mental focus with every use, taxing the body and mind alike.
+
+This was the exact same skill I had obtained from the previous scenario. For a rare-rank skill, its potency rivaled that of a higher grade, but the drawback was that it was pretty mentally taxing to use.
+
+After the clash with the frogmen, I gathered what spoils I could. Their weapons were crude, most bent or cracked from the battle. Only a handful were intact enough to be worth keeping, though even then, their quality left much to be desired. Their leather armor was well-made but unsalvageable once soaked through with swamp water… They were also of different sizes from what humans wore. The only weapon of note was the high warrior’s spear, but it was merely uncommon grade. Not terrible, but not impressive either.
+
+With that, I continued my trek deeper into the swamp, fixed on locating their tribe.
+
+The terrain grew swampier as I walked, the air thick with the stench of decay. It wasn’t long before distant sounds reached my ears—croaking war cries, the slap of webbed feet, and the frantic splashing of something trying desperately to escape.
+
+I crouched low near a crooked tree and focused my eyes toward the commotion. A group of lizardmen staggered through the muck ahead of me. They were thinner than I expected, their ribs jutting out beneath scaly skin that looked pale and dry despite the damp surroundings. Their crude weapons—rusted short spears, chipped knives—looked barely usable, and many of them carried no armor at all. Malnourished and under-equipped, they looked more like desperate refugees rather than warriors.
+
+Hot on their heels came battle-hardened frogmen, the same kind I had just faced. Unlike the lizardmen, the frogmen were sturdy and well-organized, and their croaking cries carried the confidence of hunters who had done this countless times before.
+
+“Interesting…” I mused with curiosity. “A clash between tribes?”
+
+The chase was brutal. One lizardman stumbled in the mud, collapsing face-first before being speared through the back without mercy. The others scrambled on, frantically escaping by sheer desperation, but the gap between them and their pursuers only narrowed further.
+
+“Prey being hunted by predators, yet both are natives of this swamp. Isn’t this the perfect chance to spread the seed of faith?” I watched the scene unfold, my gaze lingering on the lizardmen—the weaker, frailer side of this struggle. And the ones most in need of what I had to offer.
+
+Only the most desperate would try to clutch at faith born in the shadow of death. The broken, the starving, the hunted—these were the ones most willing to kneel before a god. These lizardmen clearly fulfilled those criteria.
+
+Without further ado, I pulled out the Mask of a Thousand Faces. Revealing my human appearance before them would only breed suspicion and distrust. If I wished to be accepted as something divine by them, I needed to appear as one of their kind or, better yet, a higher species than them.
+
+The problem was that…
+
+Mask of a Thousand Faces
+
+Grade: RareType: Magic Mask
+
+A mystical mask crafted by an ancient illusionist. The mask is imbued with powerful enchantments that allow the wearer to alter their facial appearance at will, but it cannot change voice, body, or aura.
+
+“Damned mask can’t even mimic other races. Tch… it can’t be helped then. Grant Plausibility.” I activated one of my trump cards without hesitation.
+
+An equipment with potential has been detected.
+
+Would you like to proceed with Grant Plausibility?
+
+[Yes/No]
+
+“Of course.”
+
+You have used Grant Plausibility.
+
+You have permanently enhanced the grade of Mask of a Thousand Faces.
+
+Mask of a Thousand Faces has evolved into Mask of a Thousand Races.
+
+A total of 175 Plausibility has been consumed.
+
+Mask of a Thousand Races
+
+Grade: UniqueType: Magic Mask
+
+An artifact born from reshaping the foundation of an ancient illusionist’s craft. This mask does not merely alter appearances but also allows the wearer to assume the likeness of other races entirely. By bending plausibility, though limited in scope, it manifests traits of bloodlines that the wearer should not possess, turning falsehood into a temporary reality.
+
+“Now, let’s play.” I smirked as I donned the mask.

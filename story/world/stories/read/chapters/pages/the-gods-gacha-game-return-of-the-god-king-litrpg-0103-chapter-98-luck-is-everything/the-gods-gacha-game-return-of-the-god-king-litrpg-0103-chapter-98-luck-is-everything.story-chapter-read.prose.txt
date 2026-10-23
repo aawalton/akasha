@@ -1,0 +1,121 @@
+These twelve were the available unique magics I could choose from this tome. Still, no wonder it was only of uncommon grade—the tome could only be used once. Hrm, I don’t remember it being one-time use only, though…
+
+Whatever the case, I had to choose carefully. Each of these twelve magics carried its own strengths and weaknesses, and not all would serve me well in battle. For instance, both Necromancy and Illusion Magic were redundant, and I had no use for them. With Fabled Vessel, I could call upon figures who already commanded such powers, like Voldrath and Thalos. Why waste this opportunity on something I could replicate at will?
+
+If I had to choose one of them, I would choose one that I currently didn’t possess in my arsenal.
+
+Blood Magic tempted me a bit, but it demanded life as a price, which I would rather absorb and turn into plausibility. Curse Magic was too situational compared to my existing arsenal. Chaos Magic… too volatile and unpredictable. Void Magic? Pure destruction, but destruction without precision had no place in my hands.
+
+The other choices weren’t much better at first glance. Shadowflame Magic looked strong, but if I wanted firepower, I had other options here. Soulweaving had potential, but binding souls carried risks that might compromise my own. Astral Magic was intriguing, but its reach felt too vague for my purposes. Runic Magic might complement my skills the most, but it overlapped too closely with my ability to manipulate things.
+
+That left only one option that truly resonated with me: Gravity Magic. This magic was a fundamental force, being universal and inescapable. It offered absolute control over the battlefield. With gravity at my command, I could dictate the flow of combat, pin enemies where I wished, and bend the environment itself to my advantage. Combined with the leverage of my signature skills, even battles deemed unwinnable could be turned in my favor.
+
+Yes… This is it. The perfect complement to my powers. Thus, my decision was made.
+
+I chose Gravity Magic, and immediately, a wave of magical knowledge rushed into my mind from the tome. Symbols, equations, and diagrams of force and motion burned themselves into my thoughts, each one clearer than the last, as if the universe itself whispered its hidden laws to me.
+
+I clutched my head as concepts of attraction, repulsion, density, and collapse unfolded in rapid succession. I saw visions of mountains splitting apart, oceans rising into the sky, and stars collapsing under their own weight. Gravity wasn’t just a tool of war—it was the silent truth binding all existence together.
+
+The tome turned into an ordinary book in an instant, and all the words written inside vanished, as though they had never been there.
+
+You have acquired a signature skill: [Gravity Magic Lv.1].
+
+You have learned a spell: {Gravity Field}.
+
+You have learned a spell: {Graviton Pull}.
+
+You have learned a spell: {Mass Alteration}.
+
+[Gravity Magic]
+
+Rank: UniqueType: Active
+
+A magic that grants authority over the fundamental force of gravity. Allows manipulation of weight, force, and motion within a defined area. Mastering this magic leads to control over both localized effects and large-scale gravitational phenomena.
+
+{Gravity Field}
+
+Rank: UniqueMana Cost: 5 MP per second
+
+Generates a field of altered gravity in a chosen area. The caster can freely increase or decrease the gravitational force inside the zone. Enemies may be crushed under immense pressure or left floating helplessly, while allies can be stabilized against knockback and disruption. Power and radius scale with Magic Power and the level of Gravity Magic.
+
+{Graviton Pull}
+
+Rank: RareMana Cost: 25 MP
+
+Creates a sudden gravitational force that drags a single target or group of objects toward a fixed point. Useful for disrupting formations, pulling enemies into traps, or forcing them into close combat.
+
+{Mass Alteration}
+
+Rank: RareMana Cost: 1 MP per 5 kilograms alteration
+
+Alters the effective mass of a target within a twenty-meter radius. Can be used to lighten allies for faster movement or heavier jumps, or to drastically increase an enemy’s weight, restricting their mobility.
+
+“Interesting. Gravity Magic is included as a signature skill?” I raised my eyebrows in surprise. Of course, I already knew it was a unique magic, but I hadn’t expected it to be classified at that level. What an unexpected surprise.
+
+With this, I was certain the skill could grow further as long as I leveled it up—perhaps even elevating its rank entirely. The thought alone sent a thrill down my spine.
+
+Still, theory meant nothing without practice. I had to test this new magic and the three new spells.
+
+First was {Gravity Field}. I extended my hand and willed mana into the air. At once, a translucent shimmer spread across the room, like ripples on water. The air density thickened, and dust motes began to plummet unnaturally fast. I focused, increasing the pull. The wooden chair by the corner groaned under the pressure, its legs creaking as if burdened by invisible weight. Then, with a mere thought, I shifted the force in the opposite direction. The chair rose slightly, floating as though gravity had forgotten its hold.
+
+Seeing this, a grin spread across my face. This spell carried the sensation of absolute control, able to crush or liberate with nothing more than a thought. Alas, its mana consumption was steep. At my current capacity, I could sustain the spell for barely more than a minute and a half at normal output, and any higher intensity would drain my reserves even faster.
+
+Next was {Graviton Pull}. I picked up a loose quill from the desk and tossed it into the air. With a sharp gesture, I invoked the spell without a chant. Instantly, the quill jerked mid-flight and snapped toward the point of my choosing, slamming into my open palm as though dragged by unseen chains. The effect wasn’t limited to a single object, either—when I swept my hand across the table, the scattered tools clattered together in a heap. I could already imagine using this to drag enemies into traps, collapse their formations, or rip weapons from their hands.
+
+Perhaps, with some refinement, it could even serve as a mobility spell. If I could reverse the effect to pull myself instead of objects—or better yet, create a burst of negative gravity to launch myself away—I might create a new movement spell that would be practical in combat.
+
+Finally, {Mass Alteration}. I touched the same quill and cast the spell. At once, its weight changed—light as a feather one moment, then heavy as steel the next. When I dropped it, the quill struck the desk with force, leaving behind a small dent. I repeated the effect on my own arm, reducing its mass until it moved effortlessly, then increasing it until every motion became sluggish and strained. If pushed too far, the sudden increase could even cause muscles to collapse or bones to crack, which was incredibly dangerous but might be useful against enemies.
+
+Still, the applications were clear. I could lighten allies to move faster, burden foes until they crumpled under their own weight, or adapt my own body as needed.
+
+I exhaled slowly, dismissing the spells. Even at the lowest level, Gravity Magic already showed overwhelming potential. This choice… was unquestionably the right one.
+
+I put back the now ordinary book into my inventory; it might be possible to restore it somehow with one of my signature skills in the future. After that, I glanced at my remaining MP.
+
+MP: 392/470
+
+Ugh… the consumption is a bit too much. Gravity Magic clearly wasn’t something a Gimmel-rank divine warrior could spam at will. It would have to be reserved for decisive moments.
+
+“Let’s check the scenario’s reward I haven’t opened yet,” I muttered, deciding to do this first while waiting for my mana to recover.
+
+These two lootboxes might not amount to much, but they might give me the advantage that I needed. Since I had a lot of free attribute points to spare, I decided to round up my Luck stat.
+
+Luck: 224 → 300
+
+You are in luck.
+
+You have acquired a signature skill: [Extraordinary Fortune].
+
+[Extraordinary Fortune]
+
+Rank: RareType: Passive
+
+Your fortune has surpassed the limits of an ordinary person. This skill subtly bends probability in your favor, increasing the chance of critical hits, rare item drops, and favorable outcomes in uncertain situations. Negative effects and mishaps are less likely to occur, while opportunities for advantage are more likely to present themselves.
+
+How lucky!
+
+Extraordinary Fortune, unlike the other skills of a similar type, was by far the hardest to obtain. Most would never see it until their Luck stat surpassed five hundred or more. It was truly a luck-dependent skill through and through.
+
+With this skill, anything I drew from the lootboxes would likely be of higher quality than usual—even if not a jackpot. Without further delay, I retrieved the two Gimmel-Tier General Lootboxes. They appeared as small iron chests with carvings and patterns on their surfaces. I opened the first one. The lid creaked as radiant light spilled out, gradually condensing into the form of a glass vial.
+
+Permanent Magic Power Elixir (Strong)
+
+Grade: RareType: Elixir
+
+An elixir that permanently increases your Magic Power stat by 25.
+
+The liquid inside glowed with a deep navy hue, swirling slowly as if alive. A consumable that permanently increased Magic Power by twenty-five points. This was rare and undeniably useful. Not bad at all.
+
+Encouraged, I turned to the second chest. My hands brushed across the cool iron before prying it open. Once again, light surged forth, brighter than before. The radiance shaped itself into an object longer and more solid than the vial. As the glow faded, a weapon rested in my grasp—it was a dagger.
+
+Moonlight Dagger
+
+Grade: UniqueType: Magic Dagger
+
+A slender blade forged from moonsteel, its silver edge gleams faintly even in complete darkness. Under moonlight, the dagger resonates with lunar energy, sharpening its blade and giving the user a unique ability. It is said to be favored by assassins who hunt beneath the stars.
+
+“Whoa, a unique-grade magic dagger!” I exclaimed in surprise.
+
+I hadn’t expected anything beyond rare grade from a Gimmel-Tier General Lootbox, yet here it was, a weapon of unique grade resting in my hands. Truly unbelievable. Investing those free attribute points into Luck had been the right call. With fortune on my side, even the most ordinary rewards could transform into extraordinary treasures.
+
+Anyway, it was imperative that I raise my Magic Power a bit through training in Gravity Magic before consuming the elixir. By doing so, I could push the skill’s proficiency higher while still gaining stat growth naturally, ensuring the elixir’s effect wouldn’t be wasted. With that in mind, I devoted the remaining time to practicing within my room.

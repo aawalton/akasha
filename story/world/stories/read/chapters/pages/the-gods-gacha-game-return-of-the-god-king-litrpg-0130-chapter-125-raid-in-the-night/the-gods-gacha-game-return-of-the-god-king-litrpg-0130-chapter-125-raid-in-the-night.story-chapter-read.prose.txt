@@ -1,0 +1,143 @@
+A quest has been generated.
+
+Character Quest: [Escort Istellise and the refugees]
+
+Assist Istellise, the saintess candidate, and her group of refugees as they journey through the perilous badlands toward an abandoned town said to be guided by the sacred relic. Protect them from gnoll raiding parties and other threats along the way.
+
+Mission Type: EscortDifficulty: D+Main Objective: Escort Istellise and the refugees safely to their destination. (0/1)Time Limit: NoneReward: ???Penalty for Failure: Istellia’s death and the permanent loss of subsequent special scenarios
+
+Would you like to accept the quest?
+
+[Yes/No]
+
+I didn’t hesitate and gave a firm nod. “Sure.” Then I turned to the others. “What about you four?”
+
+“Ha! You even have to ask?” Boris cracked his neck with a grin. “Of course, I’m up for it.”
+
+Tuilë followed right after, flashing a toothy grin. “We’ll help you. There’s no reason to say no—plus, I’ve been itching to blow up more gnolls.”
+
+“Mm-hmm. I’d promised that I would help you the next time we meet, and the time is now,” Michelle added.
+
+Lucian said nothing, but he didn’t retort in refusal either. His expression was like, “I have no choice with all of you saying yes, do I?”
+
+You have accepted the quest.
+
+Relief washed over Istellise’s face as she clasped her hands together and bowed her head slightly. “Thank you. Truly. You don’t know how much this means to us.”
+
+“Don’t mention it,” Boris said, cracking his knuckles. “We’re not the type to leave people hanging.”
+
+Tuilë gave a mock salute. “Besides, you’re lucky we showed up when we did. Any later, and you’d be gnoll chow.”
+
+If we hadn’t stepped in, I doubted Istellise would’ve died—her illusion magic alone could’ve saved her. But knowing her, she likely would’ve sacrificed herself to protect the refugees instead.
+
+“Anyway,” I cut in, shifting the topic, “let’s move before the gnolls regroup. Once night falls, it’ll be harder to protect everyone.”
+
+At my signal, Boris and Tuilë began assisting the guards in reassembling the damaged wagons, while Lucian and Michelle cleared the battlefield of stray corpses and collected anything of use—arrows, scraps of armor, and the occasional intact weapon.
+
+Istellise remained with the wounded, healing them of injuries. The light from her healing spell shone across the dirt, easing the refugees’ pain and calming their frightened expressions. Even after such chaos, her presence carried a quiet reassurance that seemed to restore everyone’s strength.
+
+Meanwhile, I kept watch over the perimeter while scavenging the drops from the fallen gnolls farther out. The corpses of the wolves would make decent crafting materials, though they weren’t worth much. The axes used by the two gnoll chiefs were of rare grade and well-forged, but aside from that, there was nothing particularly valuable among the spoils.
+
+By the time we were ready to move, the refugees had regained some of their strength. The wagons creaked back into formation, and the guards tightened their grips on their weapons with renewed strength and determination.
+
+I walked beside Istellise at the head of the caravan. “How far is the town from here?” I asked, noticing how the sky was beginning to darken and how the cracked, barren terrain stretched endlessly ahead of us.
+
+“Not far,” she replied. “If we maintain a steady pace, we’ll reach it before midnight. The relic’s light grows stronger with every step eastward.”
+
+I nodded, falling into deep thought. If what she said was true, then the gnolls might be waiting somewhere along the way. The possibility of another ambush was high—one larger and more coordinated than before. Advancing like this without preparation could easily turn fatal.
+
+There were only five of us divine warriors in the party who were capable of real combat. Against dozens, perhaps even hundreds of gnolls, we could manage, but protecting this many civilians at the same time was another matter entirely. Escaping on our own would be easy, but fighting to the end to save everyone? That would be suicide at our current level.
+
+It seemed like charging ahead without a plan would be reckless. If we wanted to survive the journey—and complete the quest—we’d have to come up with some sort of a strategy to anticipate the gnolls’ next move before they made it. From the look of it, these people were too exhausted and weak to reach the destination in time.
+
+Suddenly, a brilliant idea came to mind, and I leaned close to Istellise’s ear, much to her surprise. “Listen carefully. I have a plan to make our journey completely safe without endangering the refugees…” I explained the details in a low voice.
+
+Istellise’s expression changed from startled to thoughtful as she listened to what I had in mind. After a brief moment of contemplation, she nodded in agreement to follow my plan. Subsequently, I told my party the plan so we could begin executing it.
+
+In the depths of the badlands, under a blood-red moon, the gnoll great chieftain Kharzug the Bone-Eater stood upon a ridge overlooking the distant flicker of firelight. His massive frame was draped in bone armor, adorned with the skulls of slain foes. His breath came out in deep growls, and his eyes glowed a sickly yellow.
+
+Around him, two hundred or so gnoll riders awaited his command—wolves snarling restlessly beneath them, their claws tearing furrows into the cracked earth. The smell of smoke and prey carried on the wind, and Kharzug’s jagged grin widened.
+
+“Raaagh… the soft-skins camp,” he rumbled, saliva dripping from his fangs. “They think fire will scare the night.”
+
+A chorus of guttural laughter rose from the horde. Gnolls brandished their crude spears and axes, eager for slaughter.
+
+“Kill the guards, take the food, burn the rest!” Kharzug roared, raising his bone axe. “Leave no soft-skins behind!”
+
+The command rippled through the pack, and the riders charged forward like a tide of darkness. Wolves howled as they descended upon the flickering campfires below, dust and bloodlust rising together into the air.
+
+But as the first gnolls reached the edge of the camp, they slowed. The fire crackled brightly, the tents still standing, and yet, there was no sound of breathing or those soft-skins panicking at the sight of them; there was no movement at all among the wagons.
+
+Kharzug leapt from his mount, snarling. “Where are they?! Where are the meat-things?!”
+
+One of his subordinates sniffed the air nervously. “No scent, Great Chief… No blood, no fear. Just smoke.”
+
+A flicker of unease rippled through the army. The fires burned too cleanly, the wagons too neatly arranged. Then, a faint gleam spread through the camp like a mirage breaking. Aside from the fires crackling at the center and a few scattered tents, everything else vanished, fading into thin air.
+
+“An illusion?!” Kharzug’s eyes flared in fury.
+
+The next moment, a sudden explosion erupted from within their ranks, specifically from one of the tents.
+
+Boom!
+
+Then another.
+
+Boom! Boom!
+
+The chained detonations tore through the gnoll formation, blasting riders and wolves alike into the air. The smell of burning fur and blood filled the wind as shrieks echoed across the badlands.
+
+Kharzug turned in disbelief. “It’s a trap!”
+
+But before he could give any command, a flash of light tore through the darkness from the east. A barrage of magic projectiles and flame arrows rained down, slicing through the air like a swarm of crows.
+
+“Chief! From the ridge!” one of his lieutenants shouted, but it was already too late.
+
+“Fall ba—!”
+
+He never finished. A crushing wave of gravity slammed into the gnolls, pinning wolves and riders to the ground. Magic flared, arrows followed, and the illusion-shrouded camp turned into a killing field. It was clear that they had been had.
+
+“Rrraaaaghhh!” Kharzug’s roar of fury echoed across the badlands, carried by the wind as the gnoll army found itself caught in a massacre of its own making.
+
+The plan was a resounding success.
+
+At first, my plan had been to use all the available carriages as bait while filling them with explosives that Tuilë possessed. But I hadn’t expected Istellise’s illusion magic to replicate nearly the entire camp—everything except for the few real tents and campfires we’d deliberately left visible. The illusion was so lifelike that even I might’ve been fooled without using Mana Sense. That was the future Goddess of Imagination for you.
+
+By the time the explosions went off, the gnoll formation was already in disarray. Flames lit up the night sky, painting the badlands crimson. Wolves howled in confusion, trampling over their own kind, while gnolls screamed as my Gravity Magic crushed their ranks. The chaos was total.
+
+“Now!” I shouted.
+
+Boris charged forward first, his body hardening into metal as Adamant Flesh activated, his hands morphing into gleaming steel blades. Being a man of steel, the scorching hot flames around him did nothing to slow his advance. His blade-like arms cut through wolves and riders alike, each swing sending blood spraying in crimson arcs under the dim moonlight.
+
+“Gahaha! Come at me, mutts!” he bellowed, laughing as gnoll weapons bounced harmlessly off his armored skin.
+
+Michelle followed next, stomping her foot into the ground as thick vines erupted outward. “Nature’s Split!” The battlefield blossomed with thorny tendrils that lashed out like whips, ensnaring wolves mid-leap. Their riders were ripped from their saddles and crushed beneath their own mounts, their screams swallowed by the earth.
+
+Lucian stayed at the rear, channeling a torrent of mana into his magic orb. Dozens of mana projectiles formed above him before raining down like a storm of light, annihilating clusters of gnolls in their path. Beside him, Tuilë’s hand cannon fired again and again, the shockwave scattering groups of gnolls that tried to reform. She was laughing like a maniac with each shot.
+
+“Raaaghhh!”
+
+“Raa-raaagh!”
+
+The gnolls screamed in agony as our relentless assault tore through their ranks. Against such overwhelming coordination, they could do little but die where they stood.
+
+The advantage of cavalry lies in its speed and momentum. Strip them of that, and they’re no different from sitting ducks.
+
+I dashed ahead, weaving through the chaos as the ground trembled beneath my steps. Expanding the reach of {Gravity Field}, I intensified the pressure around the gnolls, further breaking their formation and crushing their morale. The once-coordinated horde was now a tangled mess of beasts and riders struggling to move. This was the perfect moment to strike at their core—and take down their leader.
+
+Suddenly, a thunderous roar split through the din.
+
+“Rrraaaaghhh!”
+
+The very earth shook as a massive gnoll stepped out from the wall of smoke, slightly charred by the flames. He towered even above Boris and was clad in crude bone-plated armor that gleamed in the firelight. His jagged war axe dripped with fresh blood, likely from the blood of his own men.
+
+[Gnoll Great Chieftain, Kharzug the Bone-Eater – Lv.125]
+
+A monstrous leader of the gnoll tribes, infamous for devouring both friends and foes alike to absorb their strength. His bone-plated armor is forged from the remains of fallen warriors, a trophy of his countless victories. Wielding a war axe carved from a dragon’s fang, Kharzug rules through fear and bloodshed, uniting dozens of gnoll tribes into a single, unstoppable horde.
+
+Threat Level: Very High
+
+A Daleth-rank boss monster!
+
+Kharzug’s feral eyes locked onto me, filled with intense hatred and murderous intent. It was obvious that he saw me as the one responsible for the trap and the slaughter of his kin.
+
+“Meat-thing… you die here!” He spoke in broken human language, enunciating each syllable.

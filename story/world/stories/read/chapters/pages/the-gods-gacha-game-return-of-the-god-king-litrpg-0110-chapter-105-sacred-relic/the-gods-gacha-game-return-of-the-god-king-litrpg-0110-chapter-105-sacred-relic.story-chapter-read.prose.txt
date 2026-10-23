@@ -1,0 +1,155 @@
+The duck gave another quack of triumph before waddling onward.
+
+“See?” Tuilë grinned smugly. “Efficient, safe, and adorable.”
+
+Boris let out a laugh. “Never thought I’d live to see the day we relied on a toy duck to save our skins.”
+
+Lucian only shook his head in dismay, as though this wasn’t the first time he’d endured Tuilë’s antics. Yet, notably, he didn’t complain as the duck continued to waddle forward, sparks crackling with every step.
+
+One by one, the traps were exposed and neutralized. Of course, not every trap could be dealt with safely, and a few were inevitably triggered. But no matter the mechanism, be that poisoned arrows, flying blades, or hidden pitfalls, the duck marched through them unharmed, its compact body absorbing impacts and shrugging off hazards that would have crippled any living scout.
+
+After a few minutes, the duck returned to Tuilë’s feet, letting out one final proud quack before powering down. She scooped it up with both hands, hugging it briefly with a satisfied smile. “There. Clean and clear. Told you I had it handled.”
+
+I gave her a thumbs-up. “Well done. Let’s move.”
+
+Not wasting another second, we continued deeper into the tunnel. With the traps cleared, the path stretched ahead smooth and silent. From the look of it, the enemy hadn’t discovered this passage; if they had, it would already be sealed shut or crawling with guards.
+
+Before long, the tunnel sloped upward, ending in a narrow staircase of carved stone. At the top, a heavy wooden door blocked the way.
+
+Istellise pressed a finger to her lips, signaling for silence, then leaned close to the wood. A few seconds later, she whispered, “This should lead to one of the castle’s storage cellars. From here, we’re already beneath the inner halls.”
+
+Boris cracked his knuckles with a grin. “Good.”
+
+Lucian folded his arms and said, “Just in time. I was getting tired of crawling through dirt.”
+
+“Quiet,” I reminded them. “If we make too much noise, the entire garrison will be on us.”
+
+Together, we eased the door open. The hinges groaned faintly, but no one waited on the other side. We slipped into a cellar lined with shelves of wine casks and sacks of grain. The air was damp and stale, heavy with the scents of dust, wood, and mold.
+
+However, I soon noticed that we weren’t alone.
+
+Voices echoed faintly from ahead, accompanied by the clink of armor. A pair of guards stood at the far end of the room near a stairwell.
+
+[Castle Guard – Lv.65]
+
+A trained soldier assigned to defend Saharan Castle. These guards are disciplined enough to patrol diligently but lack the exceptional strength or skill of elite troops.
+
+I motioned for the others to take them down swiftly. Michelle nodded, drawing an arrow and pulling her bowstring taut. Tuilë readied her hand cannon, though I gestured for her not to join because her weapon was too loud for this task.
+
+With a breath, I gave the signal. Michelle’s arrow flew first, piercing the throat of the nearest guard before he could react. The other spun in shock, only to meet Boris charging out of the shadows. The man barely had time to gasp before Boris’s hand clamped over his mouth, twisting his neck. Both bodies fell without a sound, their lanterns rolling across the stone floor before flickering out.
+
+And with that, we ascended the stairwell, stepping fully into the heart of the castle’s underground. We emerged into a dimly lit corridor of stone. Torches flickered at intervals along the walls.
+
+As we advanced deeper, I soon realized the castle’s underground stretched on like an endless maze, a labyrinth of storage rooms and scattered guard posts. Fortunately, the Templars hadn’t stationed their elites here—only ordinary castle guards patrolled these corridors.
+
+The first pair appeared around a corner, chatting idly with lanterns in hand. They never saw us coming. I loosed a {Spinning Mana Arrow}, the spiraling bolt piercing straight through one guard’s eye. At the same moment, Lucian conjured a precise {Mana Bullet} that slammed into the other’s chest, dropping him instantly.
+
+You have hunted [Castle Guard Lv.65].
+
+You have gained 1,250 EXP.
+
+You have leveled up.
+
+Maximillian Anderson Lv. 17/60 (EXP 596/3,080)
+
+HP: 100%MP: 666/675
+
+Rank: Gimmel [3]Patron God: Istellia (Goddess of Imagination)Class: Paradox IncarnateTitle: One Who Conquered the Impossible (5)Status: Normal
+
+Strength: 341 + 37 + 34 | Dexterity: 341 + 24 + 34 | Stamina: 289 + 25 + 29Mind: 212 + 21 | Magic Power: 303 + 5 + 30 | Luck: 300 + 30
+
+Plausibility: 596
+
+Free Attributes: 86
+
+We continued our advance, slipping from corner to corner. Whenever a guard appeared, he was swiftly silenced. Boris strangled one with a single hand and lowered him quietly to the ground. Tuilë, though itching to fire her hand cannon, instead relied on her strength, knocking a guard unconscious with a sharp blow. Even Istellise, when forced into action, struck with her short blade.
+
+By the time we reached the inner corridors, half a dozen bodies had been left behind, hidden away in storage alcoves or shoved behind barrels. None had been able to raise an alarm, but we knew it was only a matter of time before someone noticed their absence.
+
+At last, the passage narrowed into a more fortified section. At its end stood a row of heavy steel doors, each locked tight and emblazoned with the insignia of Solarys—a red blazing sun carved deep into the metal.
+
+“That’s most likely it,” Istellise said. “Beyond these doors lies the vault.”
+
+However, I noticed there were locks at the doors and even a magic seal designed to prevent entry without the proper key.
+
+“Lucian, can you break the enchantment on these doors?” I asked him.
+
+“Of course!” He smirked. “Who do you think I am?”
+
+Lucian stepped forward, stretching out his hand. Mana threads shimmered into existence around his fingers as they spiraled outward to connect with the enchantment on the steel doors. The runes flared in response, resisting his intrusion, but he only sneered. Chanting under his breath, he unraveled the threads of the spell one by one, twisting the magic back into itself until the light sputtered and died. A faint crackle echoed through the hall as the seal shattered.
+
+“There should be no more enchantment,” he declared confidently.
+
+“That’s one problem solved,” Boris said, cracking his neck. “How about I ram myself through the doors with my skill? I’m confident I can smash it down in two, maybe three tries.”
+
+“Hold your horses, big guy,” Tuilë cut in, already pulling her hand cannon from her inventory. A mischievous grin spread across her face. “I haven’t fired this beauty yet, and my fingers are itching. One shot should blow a hole clean through. And since these steel doors are buried deep underground, nobody’s going to hear a thing.”
+
+Michelle blinked. “Wouldn’t that make a mess at the same time?”
+
+“Maybe,” Tuilë replied cheerfully, “but it’ll get the job done.”
+
+I considered the options for a moment, then nodded. “Do it. The noise won’t reach the surface this far down. And if the cannon doesn’t finish the job, the blast should weaken the doors enough for Boris to tear them open afterward.”
+
+“Alright! Finally, some action!” Tuilë said with a laugh, hoisting the cannon with both hands.
+
+She aimed carefully as mana began gathering in the barrel, humming with lethal energy. The rest of us stepped back, bracing ourselves for the blast that would soon rip through the steel.
+
+Boom! Crash!
+
+The recoil shook the floor as a thunderous roar echoed through the chamber. A blinding flash lit up the corridor, and smoke billowed outward. When the dust cleared, the heavy steel doors were no longer intact—an enormous hole gaped in the center, jagged edges still glowing faintly red from the heat of the blast.
+
+“Ha! What did I tell you?” Tuilë smiled proudly, lowering the hand cannon and blowing away a wisp of smoke rising from the barrel. “A full-power shot like that could blow through even thicker steel walls. Don’t worry, I held back enough to avoid wrecking whatever’s inside.”
+
+“Gahaha!” Boris clapped her on the back. “Remind me never to stand in front of that thing.”
+
+“I know, right?”
+
+I raised a hand. “Save the comments. Let’s move.”
+
+Carefully, we slipped through the ragged opening one by one. The vault stretched out before us, lined with shelves stacked with chests, weapon racks laden with dust-covered arms, and pedestals bearing long-forgotten relics. Mana torches set in sconces lit the chamber dimly, casting long shadows that made the place feel more like a crypt than a treasure room.
+
+“The relic should be somewhere in this room… It’s in the shape of a crystal ball,” Istellise said, looking around carefully.
+
+We nodded and spread out to search. I made my way toward the weapon racks first, inspecting each blade and spear lined neatly against the wall. Most were at rare grade at best, with slightly worse stats than the norm for their grade. However, these weapons were useful whether I wanted to sell or to build my forces, so I picked out the better ones and slipped them into my inventory.
+
+You have earned a new title: Kleptomaniac
+
+Kleptomaniac
+
+Rank: Uncommon
+
+A title granted to those who cannot resist the urge to take what does not belong to them.
+
+You don’t say. This title is a bit… upfront.
+
+Ignoring that, I kept taking more until I had stored more than ten.
+
+You have reached the limit of taking free valuables in this scenario.
+
+You can no longer take additional scenario valuables.
+
+“Tch… just as I remembered.” This restriction applied only to treasures stored here. Loot dropped from monsters I—or my party—killed could be collected without limit. But when it came to scenario valuables, it imposed its own rules.
+
+There was a reason for this restriction beyond merely preventing divine warriors from exploiting the mechanic of repeating the same scenario and looting valuables endlessly. Scenarios were built from recollections of the past—taking too many high-quality items out would destabilize that reconstruction. This limit was a safeguard, a preemptive mechanism to prevent destabilization.
+
+Still, there were loopholes that could be exploited that only I knew. If I came across a more valuable item, I could swap it with a lesser one already stored in my inventory without triggering the limit. On top of that, my party members each had their own separate quotas. Besides, I could always use Scenario Manipulation to remove this restriction, but I decided to hold off on that since these things weren’t valuable enough for me to use the skill and waste plausibility.
+
+With this in mind, I instructed them to gather whatever they could. The best pieces, the most durable ones, as they could be sold for soul coins.
+
+In a sense, this was our “reward” for helping Istellise with her request.
+
+The chests also contained valuables, such as gold coins, jewelry, rare materials, refined metals, tomes, and much more. They might be useful, but not something we couldn’t procure back in Fantasia. Still, some of the others showed interest, gathering whatever caught their eye and stashing it away.
+
+After nearly ten minutes of searching and looting valuables like a bunch of robbers, someone finally came across the item that looked like the relic Istellise was searching for.
+
+“Hey,” Tuilë called, holding up a pristine silver crystal ball. “Is this the relic?”
+
+Unknown Crystal Ball
+
+Grade: ???Type: Quest Item
+
+A mysterious crystal sphere of unknown origin. Its surface refracts light unnaturally, as though concealing something within. The object resists appraisal by skills and magics, and its true nature remains hidden. Currently bound to Istellise’s quest.
+
+“That’s it!” Istellise exclaimed, hurrying forward to take the crystal ball into her hands. But almost instantly, her expression darkened. “Oh, no… we’ve been discovered!”
+
+A moment later, the heavy sound of steel boots echoed from beyond the vault. Dozens of figures stormed toward the entrance, surrounding it from outside. This happened so fast that I suspected that they had known about our infiltration from the start and had laid this trap in advance.
