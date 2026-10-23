@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0182Chapter164Stigmata = 
     },
   ],
   createdAt: "2026-10-22T16:49:37.759Z",
-  updatedAt: "2026-10-22T16:49:37.759Z",
+  updatedAt: "2026-10-23T20:48:13.088Z",
+  ownProgress: 2147,
+  progressedAt: "2026-10-23T20:48:13.088Z",
 } as const satisfies StoryChapterRead

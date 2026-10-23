@@ -21,5 +21,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0181Chapter163AlteredStat
       },
     ],
     createdAt: "2026-10-22T16:49:37.759Z",
-    updatedAt: "2026-10-22T16:49:37.759Z",
+    updatedAt: "2026-10-23T20:48:13.088Z",
+    ownProgress: 2421,
+    progressedAt: "2026-10-23T20:48:13.088Z",
   } as const satisfies StoryChapterRead

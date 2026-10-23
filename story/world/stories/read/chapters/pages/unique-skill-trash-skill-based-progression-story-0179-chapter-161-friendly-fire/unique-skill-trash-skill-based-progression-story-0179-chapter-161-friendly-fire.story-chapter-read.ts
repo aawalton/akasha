@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0179Chapter161FriendlyFir
     },
   ],
   createdAt: "2026-10-22T16:49:37.759Z",
-  updatedAt: "2026-10-22T16:49:37.759Z",
+  updatedAt: "2026-10-23T20:48:13.088Z",
+  ownProgress: 1676,
+  progressedAt: "2026-10-23T20:48:13.088Z",
 } as const satisfies StoryChapterRead
