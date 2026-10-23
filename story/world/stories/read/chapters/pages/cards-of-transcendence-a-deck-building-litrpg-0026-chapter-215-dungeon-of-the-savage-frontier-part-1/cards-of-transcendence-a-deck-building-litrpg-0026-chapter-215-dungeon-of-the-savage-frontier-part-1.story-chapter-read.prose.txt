@@ -1,0 +1,315 @@
+Everything froze as Flynn stepped through the dungeon entrance.
+
+Dungeon of the Savage Frontier
+
+Level: Advanced
+
+Requirements: None
+
+Restrictions: Fire Magic, Water Magic, Summoning
+
+Do you wish to enter Dungeon?
+
+He mentally answered, “yes.”
+
+Your Dungeon Interface has been activated. Your performance will be tracked to determine rewards for completing this dungeon. Completion of this dungeon will be recorded and count toward future dungeon entry requirements.
+
+Flynn brought up his new Dungeon Interface and found it was pretty much blank.
+
+Name: Flynn Finnigan
+
+Dungeon Status: Active
+
+Dungeon Rank: NA
+
+Dungeons Completed: 0
+
+Dungeon Bonuses: None
+
+When he dismissed his Dungeon Interface, Flynn found Nyx and Throm standing next to him in a square shaped room with dark stone walls. Tunnels left the chamber on the three walls other than the one they had entered through.
+
+He turned to Nyx. “You’ve completed this dungeon before. Which way do we go?”
+
+“It doesn’t really matter. We need to defeat all three levels before we can battle the boss. Different monsters are spawned each time the dungeon regenerates, so I don’t know what we will face. It was Goblins, Orcs, and Trolls the last time I was here. The boss was a two-headed beast called an Ettin.”
+
+Flynn nodded. “If it doesn’t matter which one we do first, let’s do the one on the left first.”
+
+No one objected, so he drew his sword and summoned his battle hammer from the dimensional storage bracelet on his wrist, then headed toward their first dungeon encounter.
+
+As he entered the tunnel, Flynn could feel… something, but he didn’t know exactly what it was. He looked around and couldn’t see anything that had changed and both Throm and Nyx were behind him in the chamber still. He tried to step back toward his friends but hit an invisible barrier.
+
+A sudden sense of panic swept through the young man. The immediate thought of Is this a trap? flashed through his mind. Nyx stepped through the invisible barrier, followed by Throm.
+
+“The only way out is through,” Nyx told him as she walked past. “Once you start a level, you have to finish it if you want to leave.”
+
+Flynn stared at the entrance chamber for a moment then turned and followed the other two. The tunnel appeared to be carved out of solid rock, but the walls were too consistent to have been created by hammers and chisels.
+
+“The tunnels are recreated each time the dungeon resets,” Nyx said as they walked, as if she knew what Flynn was thinking. “For low level dungeons like this one, the layout is usually very simple because there isn’t enough energy captured from Advanced and Elite level monsters.”
+
+“So, this dungeon will always be simple?” Flynn asked.
+
+“As long as people keep clearing the dungeon every few days.”
+
+“But it could get larger and more powerful?”
+
+Nyx nodded. “Yeah. If the monsters were left alone long enough to level up, there would be more energy fed back into the dungeon when they were defeated. That extra energy would allow the dungeon to have more monsters and be bigger when it re-spawned.”
+
+“That would mean bigger rewards for anyone who defeated the dungeon, right?” Throm said.
+
+The blue haired woman nodded.
+
+“Then why don’t they let it grow more powerful?” the mercenary asked. “That seems like a great way to gain larger rewards.”
+
+Flynn thought back to the wild dungeon in the Wastelands he and Nyx had cleared, with their familiars. Being able to defeat Legendary level monsters and claim their loot over and over again would have definitely been profitable. Unfortunately, they hadn’t had the time to do that because the Church of Knowledge was quickly approaching.
+
+Like Throm, he also wondered why the Temple of the Deeper Realm didn’t let it grow more powerful.
+
+“It’s all about resource management,” Nyx explained. “You need low level dungeons to train people that can defeat higher level dungeons. If every dungeon was high level, there wouldn’t be enough people capable of clearing them to keep them from overflowing and dumping monsters into unprotected areas.”
+
+“Rumor has it that’s already becoming a problem,” Throm said. “I couldn’t tell who was at fault, but it sounds like there is tension between the Church of Knowledge and the Temple of the Deeper Realm. That has led to a shortage of people clearing dungeons.”
+
+“There’s always tension with the churches and guilds,” Nyx said with clear disgust. “I’m not sure how the Council of Transcendence has lasted this long with all the infighting.”
+
+The conversation was cut short as the tunnel opened up into a large chamber.
+
+Flynn stopped and stared at one of the most bizarre sites he’d ever seen. There was a huge underground city in the cavern. There were hundreds of shabby wooden buildings, many of them looked to be on the verge of collapsing or falling over. Smoke rose from dozens of fires throughout the city, but he couldn’t tell if it was from controlled fires or burning buildings.
+
+The smell of roasting meat reached the group a moment before the less savory smells of rotting meat and feces. Flynn nearly retched.
+
+Incoherent screams erupted from a group of four goblins at the edge of the town. They jumped up and down, started pushing each other, and pointed at the group that had just entered their realm.
+
+Name: Goblin Sentry
+
+Level: Advanced
+
+Loot: NA
+
+Goblins are one of the most common monsters in the Savage Frontier and the universe at large. Sentries are frequently the lowest level, least skilled goblins in a group. The creature’s naturally low intelligence and short attention span make them poorly suited for the job, and sentries are frequently slain before a battle even begins.
+
+The monster description was immediately proven prophetic as four crossbow bolts from Throm’s enchanted, Elite Rank, heavy crossbow slammed into the sentries silencing them.
+
+An eerie silence fell over the subterranean goblin village. Flynn and Throm looked around, waiting to see what would happen next. Nyx leaned against the cavern wall next to the tunnel they had just exited, clearly unconcerned with whatever was coming.
+
+For several breaths, there was no movement other than the lazy curls of smoke that drifted toward the cavern’s ceiling.
+
+Then a door opened on one of the buildings near the edge of town. The wooden structure seemed to sway as if the simple act of opening the door might be enough to topple it. A scrawny, green-skinned goblin with a long mane of dirty white hair peeked out the door and looked toward the edge of town.
+
+The creature’s eyes went wide when they settled on the bodies of the dead sentries.
+
+An instant later an ear-splitting shriek echoed through the cavern.
+
+A moment later, a second door opened and another goblin screamed. Within seconds, there was a chorus of screeching goblin voices echoing off the chamber’s walls.
+
+Flynn could feel beady eyes lock onto their position and the tone of the screeching changed from alarm to anger.
+
+The first goblin that had started screaming ripped the door to its home—or whatever the building was—off the hinges and strapped it to its arm somehow like a shield. The entire building wobbled precariously, appearing to be on the verge of total collapse.
+
+The creature screamed again and started toward them.
+
+The door was significantly larger than the little green monster, though, and it severely hampered the creature’s ability to move. The door-shield was soon being drug off to the side. The goblin held a dagger in the hand that wasn’t dragging the door-shield.
+
+Flynn took a moment to analyze the comical creature.
+
+Name: Goblin Shieldscrapper
+
+Level: Advanced
+
+Loot: NA
+
+Goblins are one of the most common monsters in the Savage Frontier and the universe at large. Shieldscrappers are the first line of defense in most goblin battles. They have the uncanny ability to turn almost anything into a shield. Unfortunately, most of the items chosen for shields are wildly ineffective.
+
+“Well that certainly is a plucky little monster,” Flynn commented with a smirk.
+
+Throm put a crossbow bolt through the goblin’s chest to reward it for its misguided ambition.
+
+Behind the foolhardy goblin that had been the first to charge, dozens of goblins were starting to emerge from the city. High-pitched, incoherent battle cries reverberated through the cavern and Flynn could see buildings shaking throughout the city. He saw several collapse.
+
+Apparently the first monster to charge wasn’t the only one to try using a door for a shield as several of the small green monsters emerging from the city were dragging doors—and other large objects—with them.
+
+“Don’t let them overwhelm you,” Nyx said. “They may be incompetent but there are a lot of them.”
+
+Flynn glanced at her and noticed she hadn’t summoned a weapon and was still leaning against the cavern wall.
+
+“Go on.” She shooed them toward the oncoming goblin horde with one hand. “Go get your dungeon experience. I’ll be here if you need me.”
+
+He glanced at Throm, but the large man didn’t seem concerned as he grabbed his war hammer.
+
+Flynn drew his sword and summoned his battle hammer then stepped toward the clumsily advancing horde of little green monsters.
+
+None of the door-dragging goblins were close, but several charging goblins carrying awkwardly large spears had nearly reached them.
+
+Name: Goblin Sticker
+
+Level: Advanced
+
+Loot: NA
+
+Goblins are one of the most common monsters in the Savage Frontier and the universe at large. Stickers make up half of the slash and poke battalions that dominate goblin war parties. Adept at using anything from broom handles to crooked tree branches as spears, these little monsters can do significant damage if they manage to land an attack.
+
+Flynn’s Hammer Shield special ability automatically kicked in, and his battle hammer easily knocked aside a broom handle with several nails embedded in the end. His sword swiped down and severed the arm holding the weapon then sliced backhanded and separated the Goblin Sticker’s head from its body.
+
+A spear thrust toward him—an actual rusty spear, Flynn noticed—and he swiped down with both weapons redirecting the strike into the ground. He kicked forward and heard bones break as his foot connected with the monster’s chest and sent the creature flying backward.
+
+At his side, he saw Throm smash the head of a goblin with his large hammer then send another flying with a powerful blow to the chest. That was all the time he had before another monster attacked.
+
+The next monster came at Flynn with a sword.
+
+Name: Goblin Slasher
+
+Level: Advanced
+
+Loot: NA
+
+Goblins are one of the most common monsters in the Savage Frontier and the universe at large. Slashers make up half of the slash and poke battalions that dominate goblin war parties. These goblins are skilled at cutting things—friends, foes, family pets—and are capable of causing damage to any foe they can get close enough to.
+
+Flynn did not let the creature get close enough to attack with its rusty sword. He stepped toward the little monster and stabbed forward with his own sword faster than the creature could react, skewering it before it could attack.
+
+He stepped back, pulling his sword free and prepared to meet the next attack. Throm flashed him a grin, goblin gore already coating his armor. The mercenary was clearly enjoying himself.
+
+The horde of small green monsters kept shambling toward them in scattered groups. Many getting in the way of their compatriots, especially those that lugged around large objects as shields. Their lack of coordination was obvious and quite detrimental to their ability to mount an effective attack.
+
+Flynn wasn’t going to complain about the incompetencies of his enemy, though, and happily used it to his advantage, taking care of one or two enemies at a time.
+
+Scores of green monsters fell to Throm’s large war hammer and Flynn’s battle hammer and short sword, but the tenacious creatures kept coming. The fact that none of them caused any damage to the more powerful warriors did not dissuade them.
+
+It soon became apparent that the battle would go on for a very, very long time if they just waited for every goblin in the city to come out and attack them. “I think it’s time to take the fight to them,” Flynn decided.
+
+Throm nodded agreement between swings of his weapon, and the pair started toward the ramshackle subterranean town.
+
+Flynn led the way, dispatching any goblin that approached with swift and precise strikes. Throm followed close behind making sure they didn’t get flanked by the monsters with wide swings of his hammer.
+
+“Just bring down the whole city,” Nyx called after them. She was still leaning against the stone wall and seemed content to stay there.
+
+Flynn started to retort but realized that her idea might not be a bad one, even if she hadn’t been entirely serious. They’d have to see how sturdy the buildings actually were, to see if it was a feasible plan.
+
+“See if you can knock over one of the buildings,” he said to Throm when they reached the edge of the city.
+
+The mercenary nodded and lashed out with a wide arcing strike that sent two goblins flying then reversed direction and swung his war hammer with both hands into the closest building.
+
+The flimsy wooden structure shook for a moment then collapsed. The building fell into the one next to it, knocking it over too.
+
+Flynn looked down the narrow street that led into the goblin city, an idea forming in his mind as he crushed the skull of one monster with his battle hammer and stabbed another through the chest with his short sword.
+
+He activated Double Double and charged the closest building.
+
+Flynn targeted the corner of the building on the far side, closest to the next one in the long string of structures that lined the street. Individually, his weapons weren’t as powerful as Throm’s war hammer, but the extra power from the Double Double attack combined with his Strength of Arms card made up the difference.
+
+Wood exploded from the impact as his sword sliced completely through the corner support for the building and his battle hammer smashed through the walls on either side.
+
+The building immediately began to lean toward the next building, and Flynn jumped back so he didn’t get crushed. The structure soon crashed into the next one, and the second building shook for a moment than started to collapse…
+
+Flynn watched in awe as one building after another was knocked over like a row of dominoes. In total, nearly twenty buildings were destroyed.
+
+His focus on the cascading destruction left him open to attack for a moment and an ambitions Goblin Sticker tried to jab him with a spear. Flynn’s Curtain of Blades special ability kicked in and easily blocked the attack and a casual swing of his battle hammer crushed the monster’s skull.
+
+Flynn smiled and looked over at Throm. “Let’s bring down some buildings.”
+
+The mercenary grinned and charged the closest building on the other side of the street from the row Flynn had just brought down.
+
+The pair moved through the city, bringing down row after row of buildings. They were only slowed by the increased number of goblins that charged them, having likely been chased from the collapsing buildings.
+
+Flynn and Throm rampaged through the city like a giant gorilla and lizard. The only obstacle they faced was boredom and complacency, and both had card skills that made up for any lapses in focus.
+
+Hundreds of buildings lay in ruins and thousands of monster corpses littered the underground city by the time they reached the back side of the cavern and found their final objective for this stage of the dungeon.
+
+A large flat area was carved into the face of the cavern wall, and in the middle, there was a large throne that sat on an elevated platform with a dozen steps leading up to it. A huge, goblin-like monster sat atop the throne.
+
+Name: Hobgoblin Warboss
+
+Level: Elite
+
+Loot: NA
+
+Hobgoblins are bigger, stronger, and more intelligent than standard goblins. It is unknown whether the smartest and most powerful goblins transform into Hobgoblins or if they were born with unique genetics to start with. Regardless, Warbosses are typically found where large numbers of goblins congregate and they are typically the only thing that can control the smaller, more chaotic monsters. Contrary to the common childhood taunt, they are literally the “boss of them.”
+
+The Warboss lounged on the throne, completely ignoring the pair of warriors that had just destroyed the goblin city and killed the entire population. Two guards stood at the bottom of the steps. On one side was a goblin wearing a crimson wizard’s robe, lined with white fur. The red and white ensemble against the monster’s green skin was comical. It reminded Flynn of a small painted figurine he’d once seen in the window of a shop.
+
+Name: Goblin Hex-Mage
+
+Level: Elite
+
+Loot: NA
+
+Goblins generally aren’t the sharpest cookie in the cookie jar, but every once in a while, one with remarkable intellect is born. They usually stand out like a sore thumb and are eaten by their parents or killed by their peers long before they can obtain any real power. On rare occasions, one of these (relatively) smart creatures survives to adulthood, usually by being very adept at hiding, and learns magic, thus becoming a Goblin Hex-Mage. The magic they wield frequently defies rules and logic and can cause significant damage in unexpected ways.
+
+A gigantic orc stood in front of the stairs. Tusks jutted from the creature’s lower jaws and strong arms with bulging muscles held a gigantic shield that effectively blocked the way to the Hobgoblin Warboss. Unlike the goblins that had tried unsuccessfully to use doors as shields, this creature looked more than capable of using the shield to defend.
+
+Name: Orc Bulwark
+
+Level: Elite
+
+Loot: NA
+
+Orcs are notoriously greedy creatures and will sell their services to the highest bidder. They are loyal to money and will fight to the death… or until they get a better offer. Bulwarks are defensive specialists that can block almost any attack up to one rank above their level. With all their focus on defensive skills and abilities, they frequently have little to no ability to attack.
+
+The orc did not move from in front of the steps, firmly dedicated to blocking passage, but the Goblin Hex-Mage stepped toward them. The creature extended bony arms and a ball of fire formed between wrinkled green hands.
+
+Flynn raised an eyebrow and an instant later the fireball was rushing straight for them. He pushed Throm away and dove the side just before the fireball sailed through the space the two had been a moment before.
+
+“Hey, no fire magic!” Flynn complained as he jumped to his feet.
+
+The mage cackled and screeched in a high-pitched voice. “You no fire! He, he, he.”
+
+“I guess that rule only applies to us,” Throm said.
+
+The Goblin Hex-Mage grinned, exposing sharp, plaque-covered teeth, and raised one hand. Another ball of flame appeared.
+
+“I don’t think so,” the mercenary declared and unleashed a crossbow bolt that skewered the creature’s hand. The fireball snuffed out with a puff of smoke.
+
+The red-robed goblin glared at Throm and screeched curses Flynn couldn’t understand. After a moment of berating the mercenary, the creature raised the uninjured arm.
+
+Flynn activated his Dash special ability and raced forward with supernatural speed. He smashed the mage’s arm to the side with his battle hammer before the goblin could launch the fireball and it sailed harmlessly past him. He followed up with a strike to the chest, and the goblin’s robes lit up with a protection spell and the hammer blow bounced off an invisible barrier. The strike did send the creature flying backward into the cavern wall twenty feet away.
+
+He chased after the Goblin Hex-Mage and was on the creature before it could summon another fireball. Flynn sliced and pounded on the magical barrier protecting the monster over and over. The creature flinched and whimpered each time the shield was struck, so he knew he was doing some amount of damage, but he wasn’t able to break through it and deliver a killing blow.
+
+It’s time to end this, Flynn declared mentally after several moments. He activated Double Double and brought both weapons down on the barrier at the same time.
+
+The invisible shield exploded with a flash of light that momentarily blinded Flynn. His weapons kept moving after destroying the barrier, though, and he heard the crunch of his hammer connecting with flesh and felt his sword slice through skin and muscle.
+
+Flynn blinked several times to clear his vision then glared down at the crumbled body of the Goblin Hex-Mage in contempt. “No more fire now.”
+
+As he turned toward the battle that Throm was fighting behind him, Flynn realized his declaration had been wrong. Dead wrong.
+
+The remains of the city they had razed was now on fire, the mage’s fireballs having apparently ignited the dry wood that the buildings had been constructed from. He could already feel the heat from the towering inferno.
+
+He forced his attention to the remaining two monsters and saw Throm battling the Orc Bulwark in front of the steps. The Hobgoblin Warboss still lounged in its throne high above, apparently unconcerned with the battle being fought or the fire consuming the city.
+
+The orc was clearly earning its name because every swing of the mercenary’s war hammer was expertly blocked or redirected. Flynn could see frustration on Throm’s face each time a blow failed to land.
+
+“Let’s see if he can stop both of us,” Flynn thought as he activated his Bull Rush ability and charged into the battle.
+
+He dashed toward the Orc’s blind spot faster than any human should be able to move and swung his battle hammer at the back of the Bulwark’s head, hoping to incapacitate him long enough for his sword or Throm’s war hammer to finish him off.
+
+Just as a smile started to form on Flynn’s face because of how easy the blindspot strike had been, the orc’s large shield split in half and one hand swung around, expertly blocking the attack with the partial shield. The other half of the shield continued to block every attack from the mercenary.
+
+Flynn grunted in surprise, his arm vibrating from the unexpected impact on the shield. He didn’t stop moving, though, and lashed out with his sword hoping to stab around the smaller, but still large shield the monster wielded in one hand. The attack clanged harmlessly against steel.
+
+The Orc Bulwark repositioned slightly so he was facing both opponents in the most optimal way while still completely blocking the path to the Hobgoblin Warboss. The orc moved each shield to expertly block every attack, and it quickly became apparent that the creature was more than capable of blocking every attack from both enemies.
+
+That didn’t stop Flynn from raining down attack after attack. He slashed, stabbed, and smashed as fast as his Elite level skills would allow. It wasn’t enough to deliver even a minor wound.
+
+Flynn wondered if Nyx would have any better luck, but she was on the other side of the cavern… and the other side of the fire.
+
+He glanced at the city which was now a towering inferno and could feel waves of heat radiating from the gigantic fire.
+
+We’re going to get cooked in here if we don’t find a way to end this battle, Flynn realized.
+
+He continued attacking the Orc Bulwark but turned part of his attention to the Hobgoblin Warboss that still lounged on the throne a dozen feet above them. Part of him wished the boss monster would come down and join the fight, but another part of him knew that they would be in a lot of trouble if the Bulwark was able to block every attack and the Elite level Hobgoblin could attack freely.
+
+His thoughts were interrupted by a screaming war cry that seemed to be coming from the burning city. An instant later, Nyx burst from the fire, whips of smoke rising from her body. She leaped into the air and landed on the edge of the platform where Flynn, Throm, and the Orc Bulwark battled.
+
+A glaive appeared in her hand as she landed and she hurled it toward the throne. The weapon flew through the air like a javelin and pierced the Hobgoblin’s chest. The creature grunted and groaned—a sound very similar to that of a squealing pig—for a moment then slumped down.
+
+The Warboss apparently died because the Orc Bulwark suddenly stepped back from the fight and declared in a guttural grunting voice. “Contract’s up. I’m done.”
+
+Flynn stared in surprise as the monster they had been fighting to a standstill simply stopped fighting and walked away. The creature turned its back to them and walked around the elevated platform where the dead Hobgoblin still sat in the throne above. A portal materialized and the orc walked through it and disappeared.
+
+A message appeared in front of the confused young man, explaining some of what had just happened.
+
+Your party has defeated the Hobgoblin Warboss and completed this stage of the Dungeon of the Savage Frontier. All rewards will be awarded upon final completion of the dungeon.
+
+“Alright, let’s get out of here before we get cooked,” Nyx said as she pulled her glaive free from the body of the boss. Flynn hadn’t even noticed her go up the stairs.
+
+The blue haired woman leaped off the dais and landed right in front of the portal. She walked through without looking back.
+
+Flynn and Throm exchanged glances, and the mercenary shrugged and headed toward the portal. The younger man followed a moment later, wondering what the next stage of the dungeon would throw at them.
