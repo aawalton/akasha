@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0186Chapter167FindingDest
     },
   ],
   createdAt: "2026-10-22T16:49:37.759Z",
-  updatedAt: "2026-10-22T16:49:37.759Z",
+  updatedAt: "2026-10-23T21:48:09.466Z",
+  ownProgress: 2180,
+  progressedAt: "2026-10-23T21:48:09.466Z",
 } as const satisfies StoryChapterRead
