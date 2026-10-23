@@ -1,0 +1,117 @@
+Chapter 6
+
+List
+
+I spend a lot of time trying to explain the science behind the concept of electromagnetic acceleration to Yorin and how I think I can implement it into a bow using electric stones in a manner that still utilizes Ayre’s strength.
+
+I’m not really sure how much the actual mechanics stick with her, though. I’m certain she’s not going to be building any magnetic circuits any time soon, but she’s smart enough to understand that, like a shareholder listening to a proposal, the how is for me to figure out; the result is where the valuable data is for her.
+
+She’s still processing those results as she runs hands and eyes over all of the scattered, assorted sketches and diagrams I’ve drawn up to try to illustrate my idea. It must all look like mad science gobbledygook to her, yet she’s rifling through it like it might be holding a secret elixir to keep her from death.
+
+“Five hundred percent … not over our own bows, but over your own replacement design …” Yorin pauses, trying to process that number for a moment, then raises her head to look at me, her eyes wide and unfocused. “That is … what is that over our own?”
+
+“Eight hundred percent over a traditional composite bow,” I provide. “That means the performance would be equivalent to nine times the draw weight at the same level of effort.” When she starts to waver faintly, I hold both of my hands up, waving them as if to dispel miasma. “That’s just what we engineers call napkin math, though, a rough ballpark guess! The actual value could deviate wildly based on tons of variables!” I give my best reassuring grin as I rub the back of my head. “Heck, I don’t even know for sure if it’ll be possible yet!”
+
+My rambling seems to have at least formed some sort of foundation for her mind to stand on, but she still looks pale enough in the candlelight to be made of wax on the verge of melting. Her eyes focus on my face again, though, and her body steadies, so I consider it an improvement.
+
+“You do not understand the gravity of what you are saying, Remmi,” she pronounces gravely. “We are not of your world. These numbers are not being applied to a standard baseline. Multiplicative power growth is not a linear advancement here. As the user grows more powerful, as they boost their abilities and attacks with spells, that growth becomes exponential! You are not speaking of raising one’s performance by the equivalent of nine levels, but nine times that level. More, even, depending on the individual!”
+
+The priestess sweeps her arms wide as her voice pitches. “Heavens, Remmi, we are not yet even speaking of enchantment!”
+
+My own eyes widen at that as I pop the palm of one hand with the fist of the other. “Ooh, enchantment! I need to make sure to study that, too!”
+
+She practically comes over the table at me. “Remmi, no!”
+
+That makes me tilt my head thoughtfully. “Actually, I’m kind of surprised I don’t drive you to say that more often.”
+
+The flat stare that pierces my soul is interrupted from becoming a lecture by a shuffling from behind us as Ayre props himself up on one arm.
+
+“... Is everything okay …?” he drowsily inquires.
+
+I beam him a smile I hope isn’t too nervous as I wave the idea off. “Oh, no, no, Yorin and I are just talking about boring stuff like heresy and existential crises! Go back to sleep, you’re not missing anything!”
+
+“Oh, okay …” the archer says as he turns over to do just that. Gah, I can see those wide hips through the blanket from here, even with so little light. “... thought it was something important …”
+
+I cross my arms with a sigh and a stern shake of my head. “Seriously, this is why I need a bigger house. The bedrooms should not be in earshot of the dining room!”
+
+It’s time enough for Yorin to regather her wits, however, and, in a much quieter voice, she issues her next demand while stabbing the table with her finger. “Remmi, you must not use this modification on your gun! That would be too far!”
+
+But I scoff and wave her off. “Don’t worry, Yorin! The technologies aren’t compatible! It only works with a bow because of its long draw and low speed! To even start accomplishing the same thing, I’d need a barrel three times as long as Ayre’s entire draw length! And then the bullet is so small that it’s hard to effectively accelerate with magnets! Plus, acceleration is a game of diminishing returns. The more you want to speed something up, the more energy it takes, and a bullet is already going so fast that it takes a lot.”
+
+My assurances don’t seem to soothe her concerns as much as I think they should. She just stands up straight and crosses her arms with a frown. “And if it were not so impossible, you would endeavor to do so without hesitation?”
+
+I roll my eyes hard. “Of course I would! Why wouldn’t I want a nine times more powerful weapon with basically no performance drawbacks?”
+
+“... Yes, that was my mistake. That was not a question I truly needed to ask.” If it wasn’t my fault, I don’t get why she’s still looking at me like I’m the one in the wrong, but she moves the conversation on, anyway. “Aside from the bow, what other projects did you have in mind?”
+
+“Well, actually, I do want to build a long gun.”
+
+The calm demeanor Yorin has only just so carefully reassembled immediately shatters again. “You just gave me your word that you would do no such thing!”
+
+I hold up both of my hands again, as if that would actually do anything to stop her if she really wanted to throttle me. “Not for magnets! Nothing with magnets! It’s more like knowing you’ll occasionally need the better range and accuracy of a larger crossbow!”
+
+She doesn’t look like she wholly believes me, but she quiets down and takes a moment to regather herself yet again, complete with a deep sigh and crossing her arms like she’s restraining them from violence. “You are right. I apologize, Remmi. I should not have jumped to conclusions. Certainly, there are tactical reasons to carry a larger weapon. Your gun is akin to a sidearm, after all, is it not?”
+
+I nod eagerly, relieved that the conversation seems under control again. “Exactly!” I hold up a finger as I explain. “Now, it’s a very good sidearm, with solid performance in all categories and a high maneuverability that I love. But there’s a reason I keep referring to myself as a mid-range combatant. A pistol can be used at extreme ranges, but with rapidly diminishing effectiveness. Precision targeting takes longer and longer, with decreasing impact force and greater spread.”
+
+Yorin frowns again, but it’s only thoughtful this time as she pinches her chin, so I’m not spooked by it. “That is normal for projectile weaponry. The further you want to shoot accurately, the more skill is required, and the more energy is lost. No crossbow and few archers could land the shots that I have seen you make during practice with such reliability, especially not in such a mobile package.”
+
+I cross my own arms again and give a negative shake of my head. “I’m not saying it’s not better than the local alternatives, it absolutely is. There’s just no competing against that kind of raw kinetic energy with tension-based propulsion.”
+
+I snap my attention forward to lock eyes with her as I push to my conclusion. “But that’s because it works under completely different physics! A longer track on a crossbow doesn’t do anything to improve the flight of its bolt because that’s all governed by the span of the bow assembly. But a bullet is being shoved forward by a contained explosion of gas, and the barrel is the enclosed environment shared by the bullet and the gas. By giving the gas only one path through which to escape, which it must do, it continues to push on the bullet until such time as there is a new path of lesser resistance!”
+
+Now, I emphatically poke my palm with my other hand’s index finger. “By extending the barrel, which is also lined with grooves to increase the projectile’s spin, you dramatically multiply the amount of time the bullet is under pressure, and how aggressively it spins while in flight. Thus, even a bullet of the same caliber can experience a significant increase in power, accuracy, speed, and range through the use of an extended barrel!”
+
+Yorin groans as she grinds her palm into one eye like she’s trying to banish a migraine, but then she pauses mid-motion with the other eye going wide, but looking at nothing, the sure sign of a System message. Then the eye narrows and her hand drops.
+
+“It seems the Heavens might have a sense of humor after all, Remmi,” she complains. “It apparently considers trying to comprehend your babbling as intellectual labor.”
+
+From the bed, Ayre’s voice lifts up. “Told you …”
+
+“Go back to sleep, Nosy Ayre,” I snap before turning back to the priestess. “Did your Intellect go up?”
+
+That gets a scoff. “Oh, no, absolutely not. That value is far too high to be shifted so easily, even by your antics. I did receive points toward it, however.”
+
+She clears her throat to return to the topic, trying to look stern and authoritative. “I recognize the strength of your argument. As I said, there are certainly tactical reasons for a larger, specialty weapon. If you truly believe it will serve an essential role for your team, far be it from me to stop you. What else?”
+
+I think on that for a moment, sorting the various projects I’ve built up on my wishlist while I was gone into serviceable categories. “Well, there’s some tiny things, things I want to test or tweak. More crops I want to plant, more food I want to prep, more books I need to at least look through. Stuff that won’t take up a huge amount of time and is kind of one-and-done, that’s the big bulk of the list. Other than that and the ones we’ve already mentioned, there’s just a few more things.”
+
+Yorin smoothly returns to her chair and picks up her tea again. “I am listening,” she urges me on after she takes a sip.
+
+I bob my head in determination. “First off, I need to investigate the viability of Essence Cheese and Essence Spirits. Unfortunately, except for a couple variants of each, both can take years to be ready while requiring very specific environmental conditions. So part of determining viability is going to be finding out if there’s any way to accelerate the aging process. I’m hoping I can pick Zeiya’s brain for some shortcuts. Maybe she’ll be able to help me with another part, too: I need to find out what you all use for bacteria.”
+
+The priestess blinks at that, lowering her mug in confusion. “That last word, Remmi, it did not translate.”
+
+That immediately drives me to sigh as I flatly slap my cheek. “Of course not … What I’m really after is what Tolesteans add to the dairy to make specific varieties of cheese. Different reagents are among the biggest factors that produce different flavor and consistency profiles. You don’t have to use anything specific, but different cheese types might have different effects, too. They certainly have different cooking uses.”
+
+At that, she nods in understanding. “Yes, this, I grasp,” she confirms. “Zeiya will almost certainly be able to answer your questions on the matter. You said this was only the first of your final things?”
+
+Now, I get a little hesitant. “Well, actually, one of the things is asking something of you …”
+
+That gets Yorin’s eyebrow cranked up. “You have never required a special bulletin point for that in the past.”
+
+“That’s because it’s not for me, exactly,” I admit. “You’re pretty good at training others in magic, right?”
+
+But that puts her eyebrow back down again, into a suspicious glare. “It was I who trained arguably the most famous warrior-mage of the previous generation, against whom you still feel compelled to measure yourself. So it would be reasonable to claim that I am pretty good at it, yes. Why? Do you wish me to take on the burden of supplementing young Korrigan’s grimoire?”
+
+But I shake my head. “No, no. It’s Ayre I want you to teach.”
+
+Her eyebrows go back up in surprise again. “Ayre?”
+
+“I’ve been working with him on scouting and survival,” I provide, “and his Spiral Shot is really nifty, but he’s kind of lacking much of anything else. His only support spell, as far as I can tell, is night vision.”
+
+“Dark Sight.”
+
+“Yeah, that one.” I don’t really dwell on the correction. “Point being, he’s really, really good at sticking something with an arrow, but not much else.”
+
+Yorin smirks. “You have just summarized the job of an archer quite succinctly, Remmi.”
+
+I roll my eyes. “I know! Archers do archery! It’s in the name! I’m talking about what he can do with those arrows! I could probably craft him some special gimmicky arrows, but those never work as well in real life as they do in the movies. I was really hoping you might have some tricks to teach him, like homing shots, fan shots, or something that multiplies the number of arrows as one is fired. Something that lets him actually contribute if we have the misfortune of running into another Phantom.”
+
+At the mention of the Phantom of Corruption, Yorin’s face grows grim, but she nods. “I believe I might have something in mind. Priests using bows is not unheard of, after all. However, why ask this of me? You have access to every spell in existence and, as a fellow marksman, obviously have a vivid image of what he requires. Even if you have to buy the spell, as well, it is wholly likely to be just as beneficial to you.”
+
+I roll my shoulder uncomfortably. “Eh, I don’t think I’ll be that good at teaching someone else how to use spells I got from the System. Besides, I can’t do it because I’m actually going to be the one working with Korrigan.”
+
+That’s clearly not what she expects to hear. “You do not believe yourself able to properly instruct another in how to cast a spell, and yet you are the one who should be working with the spellcaster? What in the realms is it that you intend to teach her?”
+
+And my grin goes luminescent. “Science. Specifically, the science of thermobaric detonations!”

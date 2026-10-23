@@ -1,0 +1,115 @@
+Chapter 62
+
+Curses
+
+It’s a sudden jolt as I hit the ground. The fall isn’t far, maybe less than a foot, but it’s unexpected enough that I land on my knees. I’m surrounded again by old paper and candlelight.
+
+The chrome of my pistol catches the illumination at my feet, and my hand snatches it up before I can have second thoughts.
+
+“So a Hero can even break out of my Dreamer’s Haze …” The old ogre cackles at the far end of the room at what he apparently thinks is an absurdity. But then he motions to the side. “Though perhaps not every Hero …”
+
+I follow his motion to take in what is alongside me. Leuke, Ayre and Korrigan are all unconscious, hovering off the ground as their forms are suspended in midair, their bodies surrounded by currents of black energy like chains that hold tight, but never quite touch.
+
+“Leuke’s more brawn than brains,” I admit out loud, more to keep him talking as my wits come back to me than out of an interest for more conversation while my friends are trapped. “In fact, he’s the one that cleared the Hall of Strength! Beat the Wrestler chick, too! He’s a good sort, though, the kind that you can always count on to do what’s right, even when you don’t know what that is.”
+
+“I almost would have rather he woke up instead of you, Remmi Lee.” His words remind me I never actually gave him my name, and his grin widens as if he notices that realization. “The others’ dreams are so mundane, so ordinary.”
+
+He makes a motion as images pass through the air between us. Leuke is back in the village, in a guard uniform, and Anara and Rune are there, along with another girl I haven’t met. Leuke looks completely lost, but the girls are all asserting different things that he needs to do. If I had to guess, each thing that has to be seen to immediately corresponds to an activity that will necessitate a particular girl’s company.
+
+I don’t envy him. You couldn’t pay me enough to be a harem protagonist.
+
+Ayre’s dreaming of me! It’s touching that we both see each other as essential to one another like that. He and I are going hunting, and I’ve pulled out some sort of eldritch device that I’m swearing will allow us to spot our quarry from above.
+
+It’s called a drone, Ayre, and it looks nothing like that tangle of cords. Though maybe that’s just what my creations look like to him. Maybe I should actually make one and freak him out.
+
+And Korrigan … Oh, Korrigan …
+
+The moment I see her screen, my heart aches for the kid. It’s the first time I’ve ever seen her parents, but I can see the family resemblance immediately. The same parents Chief Ronolo told us were dead. She’s playing with some simple toys while her mother makes dinner and her father patches the roof. There’s smiles and warmth in abundance, and I just want to run right over and throw my arms around the girl.
+
+“But your dream,” the old ogre continues, then gives a euphoric shudder, “your world … You truly are foreign. It’s unlike any land I have ever seen!”
+
+I’m reminded of the last moments of my own dream, and for some reason, my mind latches onto that hunger of missing breakfast, the smell of that Burrito Mondo, the feel of it in my hands, and I realize I didn’t even get a single bite before I woke myself up.
+
+Darn it, I should have stuffed my face, then broken the illusion. Now, my stomach’s all upset at me, convinced it’s gone hungry and been denied its due tribute of a half-pound of refried beans, peppered hamburger, salsa, sour cream, semi-fresh vegetables sautéd to, “eh, close enough,” and very imitation cheese sauce, all wrapped in a toasted flour tortilla.
+
+It actually grumbles loudly as I start to drool over the recollection. The sound drives me to swallow and focus back on the current moment.
+
+“That’s because it’s not connected to any land you’ve ever seen,” I answer the ogre directly. My concentration focuses briefly on my gun, on my innate knowledge of its state. Did I get it reloaded before that wave of fog hit us? Yes, I did. “I’m from a planet called Earth, in the Sol System. I don’t know if Toleste is another planet or another reality, but we’ve mapped our entire world, and this place is nowhere on it.”
+
+The old ogre is giggling like a manic child. “Yes, your magic is so foreign in appearance, yet so advanced in application! I’m going to put you under, and keep you there until you rot away, studying every beautiful facet of it!”
+
+My nose wrinkles in a reaction of immediate revulsion. Man, if there was ever a guy who needed to go touch some grass … Not that he could. As a dungeon monster, this is likely his only means to experience the outside world. As a dungeon boss, it’s likely his only glimpse outside this room. For a sapient, intellectual being, that probably means a lot. I saw first-hand the way an eternity could sap mundane joys from living for the pirates of Desert Cove.
+
+… But that doesn’t mean he gets to treat my head like a slice-of-life anime he can binge for his personal amusement!
+
+Instead, I raise my pistol into a ready position. “I think you’re going to find that a lot harder to do a second time.”
+
+But he titters anyway. “And do you intend to fight me alone, Remmi? No fellow Hero at your side? Not even freeing sweet, loyal Ayre?”
+
+“You really expect me to believe you’ll let me?”
+
+He breaks into a full cackle at that. “You’ll never know unless you try! And the longer you wait, the longer they wither under my curses! Just like you!”
+
+I toss a Diagnose at Ayre, bracing myself for what I’ll see. It’s not because I don’t believe the warlock … it’s because I do.
+
+WARLOCK’S HEX
+
+------------------------
+
+-10% penalty to all statistics
+
+-1% cumulative penalty every minute while sustained
+
+Current Penalty: -41%
+
+Wow, that is an absolutely brutal debuff, especially combined with that sleep spell. What did he call it? Dreamer’s Haze? I definitely have to look up both of those. The Hex wouldn’t be as brutal without the sleep spell to hold people under it for so long, but making an opponent weaker the longer a fight goes on could be a powerful ability. Even the ten percent initial drop could be tide-turning in an otherwise close fight.
+
+It also gives me a firm idea of how long we’ve been out. Half an hour for what felt like several in the dream, and everyone down to nearly half their full power already. If it reached a 100% penalty, what would happen then? Would we be comatose vegetables? Or would we just die as our health points reached zero out of a maximum of zero?
+
+But that the penalty is still accumulating means he’s still actively maintaining the effect. Across three people, formerly four, it must represent a tremendous effort on his part. I second-guess my assumption that he wouldn’t let me free them. He might be calculating that I would be expending a great amount of my own personal resources to release significantly weakened allies while freeing up his own resources for him to scour us out with.
+
+I give a glance to my own active status, but it’s empty.
+
+My mind catches on that. Empty. Quickly, I do some mental math. If we’ve been out for half an hour, the meal buffs would be nearing their time-out, but should still be there, even if they’re being countered by the curse. I focus on those last few moments of the illusion. I broke out, but … did I really cast Purge from inside of the dream?
+
+Purge is an indiscriminate spell. It doesn’t just cure negative effects, but strips all active effects from the target, good and bad. This makes it effective both offensively for removing an opponent’s buffs and as support for removing an ally’s debuffs, but also means removing the other side, as well. If the party’s been stripping an opponent’s ability to fight back, all of that goes away, too. If the front line has been receiving regular support, the back row has to start all over again.
+
+Its absolutism, the source of its flexibility, also makes it a major pain in the neck. But it means that all of the damage done to our stats instantly vanishes. We won’t have our meal buffs, but we’ll otherwise be at full strength, which the warlock may not be banking on.
+
+On the other hand, Purge is an expensive spell, not only requiring physical contact, but costing a hundred mana per cast. Even with my reductions, curing all of us would take a whole third of my total mana, drastically reducing how much else I can do for the rest of the fight. And without my reductions, freeing all of us wouldn’t be possible at all.
+
+Even if he recognizes that I used Purge, specifically, he must imagine I’ll have to choose only one, maybe two of my allies, and then be completely vulnerable to him just casting the spells all over again.
+
+Yes, the more I think about it, the more I realize that he’s set my friends up as a trap, and I can tell he sees when the realization fully hits me, as his eyes widen and he cackles again.
+
+“You’re a smart one, Remmi,” he praises like a fond college professor. “Most don’t break out at all, but those who do rarely recognize the weight of the situation as quickly as you have. Clever girl, but what will you do now?”
+
+I regrip my pistol and focus it on him in resolution. “Simple. I shoot you first.”
+
+He starts to cackle, but my first shot cuts him short as he barely weaves to the side. My follow-up shots chase him across the room, but by the time I’m halfway through my magazine, he’s casting again, and instantly, everything feels heavier, slower, thicker.
+
+My status, something I kept open specifically to keep an eye on, says he’s cast a different debuff. It only affects my Agility, but it lasts for a whole minute - practically a lifetime in combat - and chops it by a whopping twenty-five percent. But the description says it’s sustained, too, meaning it’ll drop early if I can break his focus.
+
+“I’m right, aren’t I?” he boasts. “You’re an Agility class! I may not know anything about your strange gun, but the slower you are, the weaker you are! You basically just lost a quarter of your performance! How much longer can you really last?!”
+
+Okay, he’s right, he doesn’t know squat about firearms, but I take a moment to trace his erratic pace across the room. “I thought you people treated the numbers game with reverence, like cultivation?”
+
+“It’s much easier to sneer at the effort others put in when you can erase it with a flick of your wrist,” he mocks back.
+
+He’s like a fast-moving clay pigeon, or one of those annoying light gun ducks. With my penalty, there’s even the illusion that he’s gotten even faster. Too bad for him I’m a pretty good skeet shooter. All I’ve gotta do is lead him properly …
+
+“Well, my people keep track of different numbers,” I reply. “Muzzle velocity. Chamber diameter. Twist rate. Grain weight.” My eyes narrow. “That’s the power of a gun. It doesn’t care about Agility!”
+
+His eyes widen, but he’s too slow. The supersonic round rips from my barrel and tears through his chest. His movements become more erratic as he starts to ricochet out of control around the room, but I’ve got his clock now, and I put several more rounds into him before he goes crashing to the ground in a pile of scrolls and tossed shelves.
+
+I dash for him with Empower, and drive my knee into his chest, but as I try to bring my weapon to bear on his face, he grabs my wrists, and suddenly, I’m in a contest of strength … and against all sense, I’m losing.
+
+Blood runs over his grinning teeth, but his manic eyes remain wide. “Did you forget, little Remmi? Did you forget that this old man is still an ogre?!”
+
+I grit my own teeth, straining to keep him from fully controlling where that barrel points. But I’ve got another trick of my own. “Did you forget he’s still a man?” I ask in reply, then yank my knee back off of him to drive my foot into his crotch.
+
+His eyes bulge as his face contorts in pain, but his grip slackens, and in that moment, I regain control, put the hot barrel to his forehead and dump three more rounds into his brain pan.
+
+His limbs flop limply to the ground, the room falls silent, and his body disappears from underneath me.
+
+The next moment, I hear three thumps behind me as my friends begin to groan.

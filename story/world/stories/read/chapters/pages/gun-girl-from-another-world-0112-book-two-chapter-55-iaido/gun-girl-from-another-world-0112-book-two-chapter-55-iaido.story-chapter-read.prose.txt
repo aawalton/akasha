@@ -1,0 +1,151 @@
+Chapter 55
+
+Iaido
+
+“Sweet, treasure!” I rush to the chest Korrigan had pointed out and skid down in front of it.
+
+“Remmi!” Ayre’s voice calls back from where I left him. “Be careful! You don’t know it’s not another trap!”
+
+“Oh, don’t worry so much,” I call back with a wave of my hand. “We’re out of the Hall of Guile! This has got to be our reward for doing so well, just like what we got for completing the Hall of Strength!”
+
+Leuke reaches down and adjusts the Ogre’s Heavy Belt. “That was a pretty good reward.”
+
+“But that was given to us when we got the key,” Ayre points out.
+
+I shake my head, though. “In the Hall of Guile, we got the key before we completed the run, and the final challenge blocked the hall off entirely. There’s no way for us to get any reward inside, so generating it out here makes sense.”
+
+I pop the chest open and consider giving a dramatic shriek and pretending something happened, but I consider it a moment too long and the opportunity passes. Ah well, something to keep in mind for next time.
+
+Instead, I peer down into the little chest and gasp at what I see as I reach in and pull it out. “It’s an eye patch!”
+
+Ayre comes storming forward with a frustrated sigh and snatches it out of my hands. “It’s a monocle, not an eye patch!” He holds the ornate thing up before him, peeking through it, but not putting it on. “An eye patch covers the eye, a monocle, you see through it.”
+
+“Monocle,” I repeat as I stand up straight. “That’s totally what I meant to say.”
+
+Ayre just rolls his eyes. “Sure. What’s it do?”
+
+“Well, let’s find out!” I pull up my hand, imitating a monocle, itself, around my eye as I cast Identify.
+
+OGRE’S THIRD EYE
+
+Tired of having to manually aim your shots? Want that sweet First Person Shooter anti-motion sickness goodness? Then the Ogre’s Third Eye is for you! Enlighten yourself with a fancy shmancy reticle to quick-aim at your targets that will also put a big, glowing, neon sign over traps you'd be able to see anyway! Available only at ... oh wait, you're holding it!
+
+While equipped, grants the following effects:
+
+* Target Reticle for Ranged Weapons
+
+* Highlights environmental hazards and traps
+
+* Slightly increases resistance to motion sickness
+
+I almost can’t believe my eyes. It can’t possibly do what it sounds like it’s doing. Isn’t that way too much?!
+
+“Gimme that,” I say as I suddenly snatch it back from Ayre, earning a cry of protest from the elf that I ignore.
+
+I set the eyepiece in place, and it actually holds really well. I don’t have to hold it there or wedge it in or stick it in place, or anything. I move my gaze around the room, and the view seems normal enough, though glancing back toward the Hall of Guile’s door shows the rectangular section of the boulder visible through the door as a bright yellow.
+
+So it only works on line of sight for hazards, that’s good to know.
+
+I face away from the others and draw my pistol, and only then does the reticle appear. It traces wherever the barrel of my gun is pointing so long as it’s within my field of vision. When I point it outside of my field of vision, the marker disappears. There’s also a display in the lower right that marks what ammunition I have loaded, how many rounds are left in the magazine and how many magazines of that type I have left.
+
+That’s actually … way more in-depth than I even expected! This thing’s straight-up amazing! I lower my gun and turn toward the others, and the eyepiece even quickly highlights them in green as I look over them. IFF, too? Seriously?!
+
+Ayre, however, is getting frustrated as I play. “Come on, Remmi! What’s it say? Are you just going to take it without even telling us?!”
+
+“Actually,” I say as I pluck it off, blinking as the HUD disappears, “I think you should use it, Ayre. It would help you more.” I already have an instinctive knowledge of how many rounds I have left, after all, and where my barrel is pointed. Ayre probably has some sense of that, too, but I get the impression it’s not nearly as clear.
+
+The elf stares down at it as I put it back in his hands. “But what does it do?”
+
+“It provides a targeting sight that links to your ranged weapon,” I explain. “It also highlights environmental hazards and traps. It even keeps track of how much ammunition you have left.”
+
+Ayre’s head comes up like he’s trying to tell if I’m pulling his chain. “That sounds like … a lot.”
+
+“Yeah,” I nod. “That’s why I had to check it, it didn’t sound possible.” I tap the eyepiece in my friend’s hand. “This thing’s definitely no slouch next to the heavy belt, even if it doesn’t offer any direct stat increases. The situational awareness alone is amazing.”
+
+Ayre slips it on and proceeds to go through much the same tests I did, though Korrigan approaches me as he does so.
+
+“Would this targeting feature work with magic?”
+
+“I doubt it,” I answer with a shake of my head. “It specified ranged weapons. I’m sure Ayre will be happy to let you try it later if you want to see for yourself, though.” I turn my attention back to the elf, who’s cycling arrows on and off of his bow. “Hey, Ayre, you good?”
+
+“It won’t track unless I have an arrow nocked,” he answers with a blink.
+
+“It must not consider it loaded,” I guess. “You ready to put it to work on whatever these two keys are for?”
+
+Ayre looks to the big door at the end of the hall, then back to me, and gives a serious nod.
+
+We all regather our wits and put on our game faces before we approach the massive double-door of carved stone. Leuke and I - with me standing on my toes - slip the Keys of Strength and Guile into their slots, and the doors grind open.
+
+In the room beyond, illuminated by torches and a shrine of candles, is a mural of the same three-eyed ogre we keep seeing on artwork throughout the dungeon. Maybe it’s supposed to be some sort of forgotten god or demon. With the constant portrayals and the names of the treasure we’ve received, it’s unquestionable that the dungeon is themed around him.
+
+But while the room we step into is large, perhaps a little over half the size of the Main Hall, it isn’t empty. There’s a large humanoid figure kneeling on the hempen rug that covers most of the floor, a long blade sheathed at his side. He’s facing away from us, his attention devoutly on the mural, and I almost mistake him for an oni.
+
+Identify tells a different story. It reveals the figure to be named the Swordmaster Ogre, and I swallow when I see he’s over a dozen levels higher than the Captain from the Desert Cove dungeon.
+
+The ogre pushes himself to his feet and turns toward us. He just rests his hand on his sheath, as if waiting for us to make the first move.
+
+I can’t help but notice that, unlike all of the murals, he only has a normal pair of eyes. He really could have passed for a Huohi oni, if a large one with particularly pronounced fangs and more ornate horns. Maybe the dungeon once captured ancestors of the Huohi and used them as the basis for the place.
+
+And then he speaks. “You challengers who have overcome the trials of Strength and Guile, now prove your worth to me.”
+
+I turn to my friends to ask if they heard that, but the doors slamming shut behind us interrupt me, and instead, I snap my attention ahead to the ogre again.
+
+“Boss fight time,” I shout and draw my pistol. I fire from the hip, launching lead as soon as the barrel clears leather.
+
+In the same instant, the ogre’s grip and stance change as he draws his sword, seemingly swinging at the air between us - but there’s a glint, a spark in the air, and then a puff of dust off to the side of the room where my bullet actually ends up landing. With almost a smugness to him, he guides the blade back into the sheath without even looking away from us.
+
+… Well, that’s … not good.
+
+I force my brain to jump back in gear as I push Ayre and Leuke away from me on either side. “Iaido user! Spread out! Look out for sharp, sudden draw strikes! Leuke, try to create openings for us!”
+
+“I’m on it,” Leuke replies, drawing Ryutaiji as he charges for the ogre with a battle cry.
+
+His vertical slice is broadcast by the weapon’s massive size, and the ogre steps to the side of the blow. He goes to draw and strike with his own blade, but Leuke is able to pull back on the hilt of his own sword to bring the weapon in to parry the attack.
+
+It’s not a good match-up, honestly. Leuke is an absolute tank, but the ogre is clearly built for speed. My mind goes back to Empress Xuhitana’s own advice that she had seen more growth in her performance from Agility than the traditional Strength builds of melee specialists. Clearly, this boss followed the same reasoning. Ultimately, if Leuke can’t force the ogre into a contest of attrition by reliably trading blows, it would only be a matter of time before he loses a one on one.
+
+It’s fortunate that this isn’t a one on one. I throw my hand toward Ayre and Korrigan. “Keep him distracted! Try to keep up the pressure! Every arrow or spell he’s got to parry or avoid is an opening for Leuke to take another swing!”
+
+Ayre is already notching an arrow. “What are you going to be doing, then?”
+
+I’m already moving in the opposite direction from the two of them. “Same thing, just way faster! And don’t forget to keep moving! You don’t want to make yourself an easy target, either!”
+
+But we aren’t the only ones to get a move on. The ogre doesn’t seem interested in continuing the exchange with Leuke, surprisingly, despite his advantages there. Probably, it’s specifically because we’re here to expose his flank. Either way, once he gets Leuke to block his attack, he jumps back and away.
+
+His sword easily swats Ayre’s arrow into the path of Korrigan’s lightning bolt, causing the spell to go off early. By that time, I’m on the other side of him and I open fire, shooting repeatedly to try to pin him down. But he ducks and weaves, dodging my aim rather than the bullets, themselves.
+
+Damn it, I’m just not fast enough! And in the meantime, he’s making a run for Korrigan, no doubt picking her as the most vulnerable member of the team.
+
+But Leuke comes in with a shoulder slam that he drives like a linebacker into the ogre’s side even as the ogre tries to swing for the mage, and the two go sprawling. The ogre gets to his feet first, only to jump clear of another arrow from Ayre, this one surrounded by spiraling energy.
+
+I reload and charge back in, myself, activating Empower and Spiral Shot as I throw myself into close range, hoping that it will give him less time to parry the shots. I stay outside the thirty-foot line, but he takes my approach as a challenge, ducking under my first shot and closing in to thrust toward my middle with his sword.
+
+I’m forced to turn to the side to avoid the strike. I bring my gun down toward him, but he knocks his hilt against my hand to deflect it away. I swat at the flat of his blade to push away his follow-up and try to shove him back with a kick.
+
+Even with Empower, I move more than he does, but that’s fine by me. Especially since a fireball rocks him from behind a heartbeat later. He has to parry another pair of arrows from a knee, and by that time, I’ve rebraced and pulled a bead on him.
+
+My round hits him in the outstretched leg, but it’s not to hobble him. I didn’t reload with my overpressure rounds. The ogre’s entire body seizes up under the effect of the paralysis round, and we don’t get the opportunity to tell if his high level would let him shrug it off faster. Leuke’s right there to take advantage of the opening, bringing Ryutaiji down to cleave the defenseless iaido master from shoulder to hip.
+
+“Phew,” I sigh as I holster my pistol, bringing the back of my other hand across my forehead. “And that, ladies and gentlemen, is what we call a level check.”
+
+“Surprisingly, I don’t need an explanation for that,” Ayre mutters as he lowers his own bow. “A level check. Yeah, that makes sense. Or you’re finally driving me crazy.”
+
+The corpse disappears into a shadowy fog that quickly dissipates, and there’s a deep rumbling. Before our eyes, the mural shifts, the lower half rotating out until it’s left portraying an open mouth.
+
+Korrigan looks around, though, clearly expecting something. “Isn’t the core supposed to appear next?”
+
+I give a scoff. “Oh, that wasn’t the dungeon boss. That’s why it’s a level check. Everything else, we could have gotten through strategically. This was the first one that checked if we were really strong enough to keep up. If we were really put through the wringer, then even if we won, we’d be smarter to leave and come back when we were stronger.”
+
+But the girl just looks around again. “But where are we supposed to go next? We’ve gone through every room, and nothing new opened here.”
+
+“We’ll have to give the rest of the place another look-through,” I answer. “I’ll bet something in the dungeon changed when that mural did.”
+
+“Hey, before we take off,” Leuke puts in, picking something up off of the ground where the ogre had been, “we got another drop!”
+
+Korrigan looks bewildered at that, tracing the object through the air as Leuke tosses it to me. “Rewards for the trials, I get, but aren’t we getting a lot of monster drops?!”
+
+Ayre just shakes his head, crossing his arms with a tilt of his hip. “It’s traveling with Heroes. They have a luck enhancement just for being Heroes. With Remmi alone, it drives our drop rate way up. With Leuke here, too, this doesn’t surprise me at all.”
+
+“Well, Rem?” Leuke asks like a kid waiting on a Christmas present. “What is it?”
+
+But the moment it landed in my hands, it changed shape into something immediately recognizable, and I feel my face splitting into a grin. “It’s a speed holster! Dibs!”
