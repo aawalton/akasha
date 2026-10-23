@@ -1,0 +1,631 @@
+Character Sheet
+
+Skills
+
+This skill allows you to gather your rewards in close range and kinetically store them into a container on your person. If the items will not fit in the container, they will appear at your feet. Cost: Minor Stamina | Range: Close.[Coin Catcher] ➡️ [Helping Hand] ➡️ [Forceful Fist]
+
+Traits
+
+Items
+
+If you are in Close range of your animal companion, you gain [Automount] and they receive the benefit of any helpful buff you apply to yourself.
+
+Resistances
+
+R
+
+e
+
+s
+
+i
+
+s
+
+t
+
+a
+
+n
+
+c
+
+e
+
+s
+
+Physical
+
+Mental
+
+Spiritual
+
+• Physical Damage
+
+Minor
+
+• Mental Damage
+
+—
+
+• Spiritual Damage
+
+—
+
+* Crushing
+
+—
+
+• Mental Condition
+
+—
+
+* Profane
+
+—
+
+* Piercing
+
+—
+
+* Confusion
+
+Major
+
+* Sacred
+
+—
+
+* Slashing
+
+—
+
+* Domination
+
+Major
+
+• Spiritual Condition
+
+—
+
+• Phys. Condition
+
+—
+
+* Fear
+
+Major
+
+* Corruption
+
+—
+
+* Disease
+
+—
+
+* Stun
+
+—
+
+* Curse
+
+—
+
+* Fatigue
+
+—
+
+* Poison
+
+—
+
+• Magical Damage
+
+—
+
+• Magical Condition
+
+—
+
+Affinities
+
+Base Affinities by Category
+
+Elemental
+
+Existential
+
+Energetic
+
+Esoteric
+
+Enervative
+
+Air
+
+Beast
+
+Force
+
+Order
+
+Chaos
+
+Earth
+
+Life
+
+Light
+
+Space
+
+Death
+
+Fire
+
+Mind
+
+Lightning
+
+Soul
+
+Shadow
+
+Water
+
+Wood
+
+Sound
+
+Time
+
+Stasis
+
+0
+
+None
+
+1
+
+Trace
+
+2
+
+Minimal
+
+3
+
+Weak
+
+4
+
+Poor
+
+5
+
+Moderate
+
+6
+
+Favorable
+
+7
+
+Strong
+
+8
+
+Exceptional
+
+9
+
+Superior
+
+10
+
+Perfect
+
+Joe’s Affinities
+
+AFFINITY
+
+LEVEL
+
+CATEGORY / BASE AFFINITIES
+
+Earth
+
+Superior (9)
+
+Elemental
+
+Beast
+
+Strong (7)
+
+Existential
+
+Mind
+
+Strong (7)
+
+Existential
+
+Force
+
+Favorable (6)
+
+Energetic
+
+Life
+
+Favorable (6)
+
+Existential
+
+Time
+
+Favorable (6)
+
+Esoteric
+
+Shadow
+
+Moderate (5)
+
+Enervative
+
+Water
+
+Moderate (5)
+
+Elemental
+
+Wood
+
+Moderate (5)
+
+Existential
+
+Soul
+
+Poor (4)
+
+Esoteric
+
+Fire
+
+Weak (3)
+
+Elemental
+
+Order
+
+Weak (3)
+
+Esoteric
+
+Air
+
+Minimal (2)
+
+Elemental
+
+Might
+
+Strong (7)
+
+Beast
+
+Force
+
+Blood
+
+Favorable (6)
+
+Life
+
+Water
+
+Calculation
+
+Favorable (6)
+
+Mind
+
+Order
+
+Instinct
+
+Favorable (6)
+
+Beast
+
+Mind
+
+Mettle
+
+Favorable (6)
+
+Earth
+
+Mind
+
+Briar
+
+Moderate (5)
+
+Shadow
+
+Wood
+
+Defense
+
+Moderate (5)
+
+Earth
+
+Order
+
+Expertise
+
+Moderate (5)
+
+Mind
+
+Time
+
+Paralysis
+
+Moderate (5)
+
+Beast
+
+Statis
+
+Phoenix
+
+Moderate (5)
+
+Fire
+
+Life
+
+Cleansing
+
+Poor (4)
+
+Fire
+
+Soul
+
+Inertia
+
+Weak (3)
+
+Air
+
+Time
+
+Definitions
+
+Ranges
+
+Self
+
+Internal
+
+Touch
+
+0m / yrds
+
+Immediate
+
+<1m / yrds
+
+Close
+
+<5m / yrds
+
+Short
+
+<10m / yrds
+
+Medium
+
+<20m / yrds
+
+Long
+
+<50m / yrds
+
+Distant
+
+<100m / yrds
+
+Extreme
+
+<1000m / yrds
+
+Sight
+
+<3 miles
+
+Denominations
+
+GP value
+
+Copper penny
+
+100 th
+
+Silver quins
+
+10 th
+
+Gold piece
+
+1 gp
+
+Platinum crown
+
+10 gp
+
+Elemental Coins
+
+100 gp
+
+· Undium drib
+
+100 gp
+
+· Ignium brat
+
+100 gp
+
+· Eurusium wist
+
+100 gp
+
+· Terrium chun
+
+100 gp
+
+Dragon Geld Coins
+
+1,000 gp
+
+AFFECT SCALE
+
+1
+
+Minor
+
+2
+
+Modest
+
+3
+
+Moderate
+
+4
+
+Median
+
+5
+
+Major
+
+6
+
+Massive
+
+7
+
+Maximum
+
+RARITY
+
+Common
+
+Copper
+
+Uncommon
+
+Bronze
+
+Rare
+
+Silver
+
+Epic
+
+Gold
+
+Legendary
+
+Primite
+
+Mythical
+
+Geldic
+
+Fear
+
+Slow
+
+Flee
+
+Shaken
+
+Spooked
+
+Cowering
+
+Scared
+
+Frightened
+
+Panicked
+
+Terrified
+
+Horrified
+
+Fatalistic
+
+Months
+
+1
+
+Snowglut
+
+7
+
+Highsun
+
+2
+
+Fasting
+
+8
+
+Dryrill
+
+3
+
+Windgrowl
+
+9
+
+Reaping
+
+4
+
+Blooming
+
+10
+
+Amberleaf
+
+5
+
+Greensweep
+
+11
+
+Coldrain
+
+6
+
+Seedsow
+
+12
+
+Barebranch
+
+13
+
+Highdrift

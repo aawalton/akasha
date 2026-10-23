@@ -1,0 +1,115 @@
+22 - Round Two
+
+The next day, Joe was back at the edge of the forest, not far from where he had tried to engage the apes solo. This time, he was not alone.  He and Earcellwen had made the trip from Fort Coral even faster than Joe had on his own.  They found that the two of them had a very advantageous skill combination.  The ranger had a skill called [Spirit of Stags].  The skill created an aura around her, which significantly increased her allies' movement.  The only downside was that it cost a lot of stamina, both for her and the runners.
+
+Yet [Efferous Endurance] solved that problem.
+
+[Efferous Endurance] - Uncommon - Vigor: This skill boosts a beast’s maximum and current Stamina by 10% plus .5% for each skill rank you have with this skill.  Additionally, Stamina costs are reduced by 20% plus 1% for each skill rank you have with this skill.  These effects last for 4 minutes per casting. You must be touching your target.
+
+If your target is not a Beast, these values are halved.  Cost: Moderate Mana.  {Beast}
+
+Even more than usual, the spell boosted stamina.  Joe wasn’t positive, but it felt like there was a synergy between her spell and his.  It was like they were getting the Beast bonus even though they were people.  Joe planned to ask Kendell about it the next time they got together.
+
+Either way, they made it past the fey-knight's farmstead in far less time than it had taken him to cover that distance a few days earlier. Joe had decided not to stop at Corran Loigen’s and Padu’s yet. He’d say hi on the way back, but at the moment, he really wanted to make progress on his quest with his new teammate.
+
+“Ok, I know where the first nest is, Earcellwen,” Joe stated, slowing to walk and pointing just off the road. “About a hundred yards ahead and on the right is a glade with a little pond. That is where I fought the first group.”
+
+The elf reigned in her speed, looking up at him with a curious expression. “Do you not know the guild nickname for me or are you actively not using it, Joe?”
+
+“Tezeno told me you didn’t like it,” Joe explained. “He noticed it bothered you.”
+
+“That makes sense. He has a keen sense for people,” she mused, looking back towards Fort Coral. “Kendell and Myllo are better with training and progression, but Tezeno’s skill with managing personnel is why he, along with Kendell, are both just under Myllonell in the guild’s leadership.”
+
+“So is Myllo in charge?” Joe asked.
+
+“The head of the guild is a man named Septimus Silver, but Master Silver spends most of his time dealing with the city council, leaving the everyday management of the guild house to Myllo.”
+
+The archer paused and seemed to come to some decision.  She turned back to him and stated. “The reason I brought my name up is that it doesn’t easily flow off your tongue.”
+
+After Joe shook his head, she continued. “If we are going to go into combat together, you’re going to need to be able to get my attention, and your elongation of my full name is too slow. For this, we need a shortened name, preferably not ‘Ears.’ Since we have spoken of Tezeno, I guess you can use the one he calls me. He uses ‘RC’ sometimes. As in the letters. Archons like orderly things, and you can’t get much more orderly than just two letters. ”
+
+Joe noted that she did not sound very enthused by the nickname. “Are you sure? You don’t sound thrilled by RC.”
+
+“My father always told me names have meaning. RC doesn’t mean anything, but I understand in this instance how it would be beneficial for us to have a shorthand. Joe and RC make sense in a skirmish.”
+
+“Ok. RC in battle. Earcellwen otherwise,” Joe offered.
+
+“That would be nice. Now, I am far more stealthful in the woods. Give me to the count of eighty. Paced one … two … three,” she measured, with each number a second apart. “That will allow me time to place a trap and get into a good ambush spot. I’ll stay hidden until you kick over the urn.”
+
+Joe gave her a nod, liking her version of “kick-off”. He watched her walk to the edge of the road, where in less than a second, he lost sight of her as she vanished into the vegetation.
+
+As Joe counted, he summoned a rock out of the [Jotun Bullet Bag]. The stone was a plum-sized chunk of obsidian. There were half a dozen of these in his rock pouch and fourteen more in his dimbag. He had experimented with different types of rocks to see if there was any difference with [Grit Razor]. It turns out there was.  Volcanic rocks were by far the best. They broke down faster than sedimentary stones, and the shards they fractured into were razor-sharp, increasing the spell’s damage.
+
+Joe ran through his training in his head while he counted to eighty.   When he hit the magic number, he used [Whisperstep] to quietly make his way back to the tree he had started at the last time. As he crept along, he readied the two new throwing axes.  Holding both hatchets in one hand, he applied [Bonemail] and then activated [Grit Razor] on the chunk of obsidian in his other palm.
+
+Carefully sneaking a peek at the clearing, he saw the apes were still right where he expected them to be. The pool and glade around the seep looked just as they had two days ago. A dozen badboons were on the ground or lounging in the shallow water. More could be heard in the trees.
+
+As the stone crumbled, Joe summoned his faithful force fist. Handing one of his axes to his red energy hand, he settled the other into a throwing grip in his left hand. Feeling the last of the stone break down into coarse, sharp gravel, Joe took a deep breath.
+
+‘Showtime!’
+
+Stepping around the fat trunk of the tree, he hurled the obsidian shards, sweeping his arm in a high arc. Training with [Grit Razor], he had come to realize that the motion of his arm was just as important as his intent in terms of targeting the spell. He had to will the grit to spread and fly as he wanted it to, but that desire had to match his physical movement.
+
+He pictured the shards fanning out into a twelve-foot-long crescent, a devastating arc that swept through the lower branches of the tree on his right. As the black glass-like fragments chewed through the foliage and the apes, he threw one hatchet after the other at the closest ape on another tree.
+
+He wanted to make the apes question retreating into the trees again, and so far, the plan was working. The crescent of charged obsidian splinters killed one ape and severely wounded two more. One of his axes sank into the chest of his target. The other one buried itself in the tree a few inches off its mark. He was still not as good at throwing with his left hand as he was with his right.
+
+Your skill [Grit Razor] has increased to rank 7.
+
+Your skill [Versatile Weapon Expertise] has increased to rank 27.
+
+To add to the chaos, an arrow punched into the chest of one of the tree dwellers outside his spell's effect. On impact, the missile exploded into a cocoon of binding thorns, enveloping the creature and causing it to fall, landing in a spiky-shrouded heap on the ground.
+
+Two more arrows speared the apes wounded by [Grit Razor], finishing them off.
+
+In the first second of the fight, four apes were out of the combat, and one more was wounded. As Joe was the only visible target, the horde of apes on the ground grabbed their heavy missiles and hurled a barrage in his direction.
+
+This time, Joe was ready for the attack. He had shored up his major vulnerability with the shape-changing pelt, the [Hide of the Night Hunter].  A wolf-headed cowl covered him from the crown of his head down to his shoulders, giving those areas increased damage resistance.  The enhanced defence should allow [Stun Block] to keep him from getting dazed again.  After he added [Bonemail] to the cowl, he really only had to worry about a shot straight to the face.
+
+Unless, of course, the apes switched to silver-coated nuts, which Joe felt was pretty damn unlikely.
+
+[Heavy Hand] automatically wanted to bat the very first attack away, but Joe was learning to control the skill better. He let the first one skim past him, instead knocking a second more dangerous nut from striking him square in the chest.
+
+A couple of nuts clipped his legs, but [Stun Block] and [Steadfast] allowed him to stay focused and standing. Joe healed, gaining a [Healer’s Ward] before he dual-cast [Rattlebones] on a pair of apes who seemed to have exceptionally good aim.  The beasts dropped the hard-shelled missiles and began to tremble and screech as the bone-vibrating effect overwhelmed their Spirits.   Joe considered detonating the curses, but one, he was not yet close enough, and two, as long as the curse was chattering their skeletal structure, those two badboons were not a threat to him, leaving him better able to focus on the remaining members of the troop.
+
+RC went to work from her hidden location in the greenery. She entangled two more of the badboons with her bramble arrows. As five of the beasts charged him, he noticed more and more of the apes sprouting arrows sticking out of their shaggy hides. One of the beasts crept along the treeline, trying to find her, only to discover her trap instead. A swarm of metallic hornets burst out of the ground and attacked the beast, completely derailing the monster’s search for the archer.
+
+Joe rolled behind the cover of a tree again and grabbed another stone. As his magic started breaking up the rock, he commanded his red fist to get his axes. This trunk was thinner than the first one he hid behind. Joe could feel it shuddering under the impacts of the ape-hurled attacks.  He could also hear the thudding charge of the running beasts, almost on him.
+
+In the last moment, Joe spun back to face the galloping apes and fanned the [Grit Razor] out at them in close range.  The magically empowered shards tore into the creatures like a claymore, incapacitating all five of the attackers and outright killing the lead badboon.
+
+By leaving the tree’s protection, he ended up being hit a few times by the hurled, shelled hunks.  One of the giant hazelnuts clipped his shoulder, making his left hand go numb. The hatchet dropped from his fingers, but he knew he could get it back in a second. He shook out his benumbed fingers while invoking [Purge] to banish the last of the tingling.  Healing and warding the damage away, Joe sprinted for another tree.
+
+He now had a rhythm.  Move, cover, charge up, and release [Grit Razor], taking some punishment on that last step, before returning to cover.
+
+The next spray he launched at ground height. The wave of slashing stones ripped into the apes by the edge of the water. He followed the spell with his hatchets again, hitting with both of them this time.
+
+Any ape he wounded became an arrow magnet a second later. Which was a good thing. [Grit Razor] was outputting solid damage, but his axes, even with their extra weight, were only inflicting minor harm. If he had been on his own, he would have had to fight this battle with just claws and spells and skip the hatchets. Granted, he was using a basic set of common throwing axes. He would have to get better weapons sometime soon.
+
+Regardless of the disappointment of his axes, Joe was loving his new attack spell.  He and RC were mowing through the troop of badboons. Joe had seen a dozen beasts the last time he was here.  As this fight progressed, he realized just how outnumbered he had been the first time.  He counted at least ten more badboons among the trees.
+
+Even with the additional numbers, the fight was clearly going in their favor. The majority of beasts out in the open were down or badly wounded.
+
+Just as he was sure they had this skirmish in the bag, the remaining lurkers in the brush surprised him. Seven of the brutes burst out of the underbrush only a few feet away and bum-rushed Joe in a mass of pummeling fists and snapping jaws.
+
+‘Oh, shit!’ was all he had time for before they crashed into him.
+
+Joe flared both [Steadfast] and [Morphic Form] to gain the strength and steadiness to stay on his feet. For the most part, it worked. The horde drove him down to one knee, but he shoved back forcefully and was pushed no further.
+
+He immediately dual-cast both of his curses on the apes before locking eyes with the monster closest to his face.
+
+“Get him off and keep him off me,” he commanded, indicating the baboon beside his target.
+
+Your skill [Mesmeric Command] has increased to rank 2.
+
+He hadn’t had a good method to train up the skill that had originated from his old bracelet, but the level four beast had no chance to resist the command.  It immediately stopped trying to bite off Joe’s face and began grappling with the designated troopmate.
+
+Joe used [Heavy Hand] to shove away the wrestling pair and locked his eyes onto the ground fifteen feet away. He teleported out of the hairy scrum, causing the flailing, grabbing, biting assault to dissolve into a tangle of confused creatures.
+
+Once free, he spun around and snapped his fingers four times in quick succession. Each snap of his fingers activated his [Hex-Wrecker], detonating one curse after another.  Joe was not exactly sure what ‘detonate’ was going to entail and flinched, expecting to see the lean gorillas start exploding.  There was an explosion of sorts, but it was magical, not concussive.  Where each curse resided, a burst of black and purple energy erupted from the site.  In Joe’s woundsight, the point of detonation turned red and black, indicating both damage and necrosis.
+
+This meant that of the remaining seven members of this nest, four were heavily damaged from the curse-wreaking and taking more damage by the second from RC’s sniping, two were pummeling each other, which left one whole and hardy.
+
+Joe considered using [Mesmeric Command] on it to help him finish the fight, but instead, he decided to see how well his melee training would hold up in real combat.  After sparring against the skilled warriors aboard the Tide Dancer and his training at the guildhouse, he found this last engagement almost disappointingly easy.  One-on-one, he completely outclassed the creature.
+
+Joe killed the monstrous beast just as the domination effect wore off.  The last two confused creatures fell to his claws and his partner's arrows a moment later.

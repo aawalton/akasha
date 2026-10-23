@@ -1,0 +1,131 @@
+35 - Handy Work
+
+Using one of the points of Perception he had gotten from [Scion of Hart’s Holt], Joe accepted the skill and opened the notifications from Hawking as soon as they appeared.
+
+You have learned the common skill: [Spirit Paw]. This spell manifests a spiritual animal paw through which you can invoke your skills. Additionally, while your [Spirit Paw] is in contact with one of your animal companions, you and that creature share your Health pools. Cost: Median Mana | Range: Medium. {Survival}
+
+Skill Upgrade: You learned a skill that synergizes with a skill you already possess.  [Forceful Fist] and [Spirit Paw] can combine to become the rare, unique skill [Casting Claw].
+
+Do you wish to make this change?
+
+He most certainly did.
+
+You have learned the rare, unique skill: [Casting Claw]. This skill will allow you to manifest a force paw within Medium range, possessing the following abilities:
+
+• It will collect loot rewards and kinetically store them into a container on your person. If the loot items do not fit in the container, they will appear at your feet.
+
+• It can manipulate items within Medium range for you on command. There must be an unobstructed path between you and the item. The paw can lift up to 40 pounds of material, plus an additional 2 pounds for each skill rank you have with this skill.
+
+• It can make ranged physical attacks, inflicting median damage based on the rank of the skill.
+
+• You can invoke your skills using the paw as the casting location and focus.
+
+• While it is in contact with one of your animal companions, you and that creature share your Health pools.
+
+Cost: Median Mana. | Range: Medium. {Force}
+
+Achievement: You have learned your first Rare skill. This action has awarded you the following choice of Traits:
+
+[Optimization] You might need these. +2 unassigned attribute points.
+
+[Force Adept] Force is strong with you. Increased your {Force} affinity.
+
+Achievement: You have created your first unique skill. This action has awarded you the following choice of Traits:
+
+[Arms Race]: Two hands are better than one.  Manifest two hands with each casting of your Signature Spell. Mana costs are doubled.
+
+[Free Hand]: Feel free to reach out and touch someone. Reduce the resource cost of your Signature Spell to Minor Mana.
+
+‘That is a lot for one upgrade,’ he thought. Kenda was right: Signature Spells were something special. She was clearly expecting something like this, as she was literally holding her breath to see what would result from the upgrade.
+
+He summoned his [Casting Claw], immediately noting the increased mana load. Joe knew he had more than enough mana to keep it going, but he was surprised by the difference. [Helping Hand] and [Forceful Fist] had been effortless to conjure. [Casting Claw] took a noticeable amount of mana to maintain.
+
+The second most obvious change was to its color and appearance. [Helping Hand] had been blue. [Forceful Fist] red. [Casting Claw] was a yellow-orange, similar to the color of an apricot. It now had an elongated palm, looking more like a monkey’s paw than a human hand. It still sported wicked claws at the end of each finger.
+
+Joe swung the amber hand to his outstretched arm and pushed down. With twenty ranks behind it, the eighty pounds of force shoved his arm easily out of the way. It occurred to him that the little paw would soon be stronger than he was if he kept skimping on his Strength attribute.
+
+“Sweet. I should have asked first, but how much did that skill crystal cost?” he asked. The first round of scrolls they had used when they found [Grit Razor] had been a gift for joining the guild, but guild-chief, Myllonell, had made it clear that future upgrades would come out of Joe’s pocket.
+
+“It’s a slightly unusual common. I really could just give it to you, but let’s keep you on Myllo’s good side. With the guild discount, it’d be four gold.”
+
+Knowing they were probably not done. Joe picked up the chalk, circled [Spirit Paw] on the board, and wrote ‘4 gp’ next to it. And then, opened his notifications for Kendal and Earcellwen, so they could read through the upgrade and his available options.
+
+While they read, Mojo climbed up onto the desk to touch the floating hand. Joe had the force appendage pat and tickle the little guy. He noticed that the paw had a bit of autonomy. He could will it to play with Mojo without him having to consciously direct every small movement.
+
+“No question, you should take [Force Adept],” the savant declared. “There are plenty of ways to gain attribute points, but trait boosts to affinities really pay off in the long run. The other option is up to you. You have [Dual Cast], so you kind of have [Arms Race] already, but the coolest part would be to combine them and have four hands going at once, plus your natural ones. You’d have a good chance at managing that many with your improved Perception and [Crystal Mind]. If it's too much now, I’m sure you could get there quickly.”
+
+“While I love the idea of being Doc Ock,” Joe admitted, “I’m leaning the other way. I use my force hand all the time. It’s becoming an extension of who I am. That won't be the case if it's notably draining my mana. [Arm’s Race] feels like a power move, and if I were a min-maxer, that would be the obvious move. [Free Hand] feels more me. It would continue to make my signature skill part of who I am, not just something I can do.”
+
+“Also,” Joe continued. “I tried two force hands in a game of catch with Mojo, and even with [Crystal Mind], they took a lot of concentration. Two more will be more than I could handle at first, for sure. Though these hands seem a bit more autonomous, so I could be wrong.”
+
+“If that is the one that feels right, then you should go that route. Signature Skills are the most personal skills there are. You should always follow your gut with them.”
+
+“My father says, ‘A master knows his heartbeat,’ when he wants us to listen to our inner voices. I agree with Kenda; you should listen to yours.”
+
+“Ok then. Taking [Force Adept] and [Free Hand]. Any idea what I should do with the other point of Perception? I was thinking [Know Curse]. If it functions anything like my [Assess Wounds], then it could be very helpful if I’m going to use curses going forward.”
+
+“That would have been my suggestion, too,” the trainer replied. “Go ahead and grab that while we figure out what to do with any or all of your remaining three free points.”
+
+You have learned the common skill: [Know Curse]. You are able to analyze and identify curses, as well as cursed creatures, items, and locations. You will be able to passively detect the presence of curses in Medium range. Passive | Range: Medium. {Calculation}
+
+He became aware of several sensations all at once. These impressions were like itches on his skin. Most of them came from outside the study they were in, but three were in the room with them, two of those itches were coming from himself.
+
+Joe looked at his hands and saw that their transformation into claws was a curse. Purple threads were woven through the flesh, nails, and hair. He could see knots in those threads, but he was unsure how to untie them or even if he should. He could live without talons, but the durability of his hands was a potent defense.
+
+The other curse within him was his connection to the wildness. The feral spirit was attached to Joe through violet bindings, far thicker than those in his hands and with a far greater density. The fetters glistened with an inner energy. Joe couldn’t have counted the number of amethyst ties lashing the two of them together if he tried.
+
+The last itch was surprisingly coming from off Earcellwen. And it was emanating off her, more like a robe instead of woven into her like his claws and the wildness. Looking at the curse, Joe saw a dusty lavender fog. He could tell the haze was trying to obscure her in some way. He didn’t sense any menace from the cursed aura; just the opposite. It was as if the curse was there to help her somehow.
+
+Joe realized the others were talking to him, and he hadn’t heard a word of it. “Sorry. A bit of a sensory adjustment there from [Know Curse]. What did you say?”
+
+“That happens with new assessment skills. I should have given you a minute,” Kenda acknowledged. “I was saying, the curse you picked, [Rattlebones], would not have been my first pick. It’s not bad, but did you read [Vulture’s Beak Mark]? Hands-down a better skill. You were facing smaller swarming enemies, so I can see why you picked what you did. Still, against bulkier creatures, a scaling percentage of the opponent's health totally beats a distraction effect. Rank that baby up, and you could easily shave off a quarter of an enemy’s health pool. That’s hundreds of health points with one quick, long-range casting. And it is not limited to living organic creatures. I’m not sure how many more curses you want, but if you do grab one more, it should be the Vulture Mark.”
+
+“Is that what you would do, Kenda?” he asked, stressing the verb in that sentence.
+
+“Not first thing, but I would sometime soon. My first choice would be [Basic Warding]. I have [Artisan Etching] and I use it to enhance items all the time. A crafting skill is almost always a solid investment. For my parents’ glass-shop, I enspell glass against breakage, but I have also etched my axes, my breastplate, my belt buckle, and my jewelry. It is a crazy useful skill. One of the things I often push guilders toward are craft skills like [Alchemy], [Enchanting], [Scroll Scribner], … ”
+
+“[Fletching],” the archer tossed in.
+
+“[Fletching],” her friend agreed. “Earcellwen’s custom arrows can really change things up. This is why I would not add a second rare skill to your list first thing; even given how good many rares are. I can almost guarantee you won’t regret learning to ward.”
+
+“Is there a better crafting skill I should take? What is the most popular one among the people here in Fort Coral?” he asked, as a now tired Mojo grabbed the paw he had been playing with and cuddled it, making self-soothing noises.
+
+“The people in general?” Kendell repeated as she looked at Earcellwen, who shrugged. “It could be anything: Toolmaking, Cooking, Building, Tailoring, … you name it. As for adventurers, I’d say [Enchanting]. It’s better than any of the weapon or armor crafting skills because, unless you want to sell stuff, you only have so many pieces of armor or weapons you are going to use. You can enchant pretty much anything, and you can often reenchant items if you want to change the enchantment. [Alchemy] and [Cooking] are probably next. Like [Fetching], making single-use items is easy, affordable, and a good way to rank up your skill.”
+
+“[Cooking]?” Joe asked skeptically. “Really?”
+
+“You’d be surprised, Joe,” Earcellwen chimed in. “One can get many of the same buffs with [Cooking] as they can with [Alchemy]. Meals are not usually as potent as potions, but [Alchemy] is a lot more work, more trial and error, and needs more equipment. [Cooking] is simple, fun, and you get to enjoy the meal if it comes out right. My sixth-oldest sister is an amazing cook. She blessed the whole army of Hart Holt one year.”
+
+“But as to your first question,” Kendell remarked, “I would stay with warding. Crafting in conjunction with your class gives you so many good benefits. My brother’s class is [Incendiist], which manipulates heat and fire, but mostly heat. His glassmaking skills are so much better than mine because his class and crafting skills are compatible. Warding will be much like [Enchanting], except it’s Stamina-based instead of Mana. You have plenty of both, so no worries either way there. Warding formulas will not be as easy to find as Enchanting ones, but Warders are very well respected.”
+
+“If you ever wanted to stop adventuring, Joe,” the emerald-eyed elf interjected, “you could make a very comfortable living between healing and warding.”
+
+“Always good to have something to fall back on. Let’s do it.” Joe dropped two of his remaining three points into Vigor and selected [Basic Warding]. He guessed that since wards were primarily defensive, Vigor made as much sense as the more magical Spirit.
+
+You have learned the common skill: [Basic Warding]. This skill allows you to craft enhancements to materials and objects. Please choose your primary warding focus. As you improve with this skill, you will be able to select additional focuses.
+
+• Artisan: Starts with Breakless and one of the following: Brightburn, Grimegone, Vipernick, or Wellmending
+
+• Builder: Starts with Strongwall and one of the following: Glyph of Cooling, Glyph of Drying, Glyph of Warming, or Glyph of Warning
+
+• Warrior: Starts with Thickscale and one of the following: Bladesharp, Hardhammer, Multimissile, or Stormstrike
+
+{Enchantment}
+
+“Oh, good grief,” Joe mockingly groaned. “More options. Which would you take, Kenda?” he asked, sharing the alert.
+
+“Not builder, unless you want to get into fortifying structures. Artisan is a mixed bag. The One Above tends to give out formulas it thinks would interest the recipient, but it’s still a gamble. Considering you are trying to become an Adventurer at the moment, warrior is kind of exactly what you are after.”
+
+“That is what I thought, too,” he agreed. “Ok, grabbing it. One sec.”
+
+You have learned the ward formulas for Thickscale I and Bladesharp I.
+
+And as simple as that, Joe had a new set of facts in his head. He understood he’d need a stylus or an etching tool to inscribe the ward. The reagents were used to lock in the effects, and depending on what was used, the reagent could also enhance and/or extend the ward. The more permanent you wanted the ward to be, the more perfect your rendering of the sigil had to be. The quality of the reagent used was also a factor. Joe knew that specific ground gemstones would empower these two wards, but he could also use powdered monster trophies, rare herbs, and more.
+
+“Wow. That was some skill. It was like Hawking just plunked a whole language into my head at once. I have a small library of facts about warding now.”
+
+“That’s how it works,” Kenda stated with a puzzled smile. “Who’s Hawking?”
+
+‘Oops.’
+
+Out loud, he replied. “Sorry, it’s an Earth-thing … expression,” he uttered. Knowing he sounded unconvincing with that hasty explanation, Joe plowed on to another topic. “Okay. Even though I really want to look into wards now, maybe we should research that valley first.”

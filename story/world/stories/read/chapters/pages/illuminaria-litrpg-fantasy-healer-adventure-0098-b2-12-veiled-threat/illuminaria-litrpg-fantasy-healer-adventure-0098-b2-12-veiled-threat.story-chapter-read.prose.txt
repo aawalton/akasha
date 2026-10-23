@@ -1,0 +1,123 @@
+12 - Veiled Threat
+
+The sunlight was waning as Joe sat, waited, and watched the den. Twice now, his nose had picked up a strong whiff of the gwyllgi, but he had not yet seen any sight of the fey beast. Wrapped completely in the hide, Joe was sweating in the semi-tropical marshlands. Yet, to Joe's surprise, he was not bored or irritated, mostly because his feral side was completely content to sit and stare at the shadowy thicket. This was part of hunting. To him, it felt like a stake-out, something he had no interest in doing, but in a strange role reversal, the wild inside him was settling Joe down.
+
+That is, until all the hairs on the back of his neck rose straight up. The bestial side of him surged to attention. The scent of gwyllgi was strong in the air again, but this time, the wildness had come onto high alert. Joe could see nothing out of the ordinary, but he trusted the predatory instincts of his other half. He cast [Bonemail] on the hide covering himself, and was about to fire up [Efferous Endurance] to keep the armor spell going, but he didn’t have time.
+
+Before Joe registered an attack, [Heavy Hand] swung his arm to interpose itself between him and an attack. Unfortunately, for the first time, the skill missed; Joe’s hand passed through empty air. A huge set of mottled dark jaws crushed down on his arm, yet to his eyes, it looked like the giant death dog was still a few feet away.
+
+He could feel the teeth grinding onto his forearm, attempting to snap it off or at least break it, but the creature could not have picked a worse target on Joe, except maybe one of the spikes. Joe had layers of resistance from his elbow to wrist; he had median from both [Savage Claws] and the [Hide of the Night Hunter]. With [Bonemail], his forearms had close to massive physical damage reduction going. The gwyllgi was powerful, but even hyena-strength jaws were not going to get through his arm’s defenses.
+
+Joe still did not see the head even though he felt it. Before he tried to swing at it where he felt the teeth, he decided to try magic first. He flared [Crystal Mind] and cast.
+
+Your spell [Deaden Flesh] has inflicted the {Numbed} affliction on the Garmkin Gwyllgi
+
+A few feet away, the huge canine head recoiled and shook itself. As it did so, its mirage-like visage seemed to blur and shift its location, appearing all around Joe. The creature had some sort of illusionary displacement effect going.
+
+While Joe could not tell exactly where it was, he had just disabled its primary physical weapon. Which would explain why its next move was to employ a mental attack. The blurring effect faded away, and Joe found the head inches from his own, its eyes level with his. Joe had no chance to look away.
+
+The creature looked just like the picture from Corra Loigen’s tome: a huge, hairy mastiff with crimson eyes. This one was not quite as big as a horse, more in the range of a good-sized mule.
+
+Garmkin Gwyllgi: Level 18: Fey (Mane), Lurker, Strength
+
+His mind was flooded with images. He saw his death on Earth, wasting away in his hospice bed, the tumor in his skull tormenting him while it crushed his brain. He saw his stupid moment of speaking out of turn to Sir Groven and getting his neck snapped for it. There were Sougath’s claws and jaws, ending his life. He saw himself lying in mud, covered by his magical wolf pelt, blood pouring from his eyes and ears. He saw himself being hurled through the air amidst a titanic explosion.
+
+Other images followed, and Joe could feel an empowering horror trying to crush him with terror, yet Joe found himself chuckling at the mane’s attempt. He had already survived some of these events. The ones he hadn’t yet seemed like scenes from a movie instead of impending doom after passing through his mental defenses.
+
+Joe was literally undaunted.
+
+[Undaunted]: You have Major Resistance against Fear effects.
+
+“You have it backward, mutt,” Joe growled in his best Batman voice. “I am the one to fear.”
+
+He summoned a vial from his [Alchemist’s Belt] and shattered it underneath the massive hound. Some of it splattered onto his legs, but it was more of the same effect: Fear. He wasn’t too worried about getting hit by the fluid.
+
+Your item [Flask of Primal Terror] has inflicted the {Terrified} affliction on the Garmkin Gwyllgi.
+
+You have been {Shaken} by the effect.
+
+Joe quickly used [Purge] to dispel his minor level of being spooked by the splash-potion. {Shaken} wasn’t too bad of an affliction, but he didn't want to show any sign of fear to the creature.
+
+The fey hound froze in fright. This caused its displacement effect to fade away and gave Joe another second to act. He waved his left hand over his head and willed the pocket in his palm to open, dusting himself with iron filings. The death dog was too freaked out to even notice the move.
+
+Then, to make the terror even more real, Joe added a dash of nightmares to the mix. Using the [Rod of Oneirism], Joe fired the hallucination-inducing wand at the creature, point-blank, producing a beam of scintillating colors that struck the beast in its face. The gwyllgi’s eye grew huge as its head darted about after the phantoms only it could see. While it was distracted, Joe stepped forward. Using [Swift Strike], he lashed out with his right hand, deliberately scraping his claws across the beast’s side, not its throat. He wanted to hurt it, not kill it.
+
+You have injured the Garmkin Gwyllgi for 88 points of damage.
+
+The fey hound howled, clearly harmed, scared, and angry. It shuffled backward, unable to look away from the object of its terror, Joe himself. Joe could read all of these from it as easily as he could read Padu’s body language. He had the monstrosity off-balance. Now it was time to push harder.
+
+Using [Morphic Form] and [Hunter’s Pursuit], he leapt forward, closing the gap between him and the mane again. He barreled into the black furred brute, grappling it. The iron shavings in his furred coat rubbed against the creature, causing what looked like chemical burns to the beast’s hide. Joe jammed a knee into its gut, then stepped back to double-slash with the spikes.
+
+You have injured the Garmkin Gwyllgi for 31 points of damage.
+
+You have injured the Garmkin Gwyllgi for 43 points of damage.
+
+You have injured the Garmkin Gwyllgi for 26 points of damage.
+
+The mane was covered in red blooms of pain according to Joe’s woundsight, but it was not in danger of dying yet. He just needed to keep pressure on the beast before he applied the final touches to his plan. Being virtually immune to its gaze ability, Joe was pretty sure he had this fight in the bag.
+
+Then the beast barked.
+
+The Garmkin Gwyllgi has injured you. You have suffered 296 points of {Cacophony} damage.
+
+Your skill [Stun Block] has increased to rank 9. You have not been {Stunned}
+
+Joe could feel blood dribbling from his ears and clotting into the covering pelt. His head felt like it was about to explode. If it hadn’t been for [Stun Block], he would have been helpless. Having just encountered how bad being stunned could be with the badboons, he did not want to repeat the experience.
+
+Instinctively, Joe’s hands swung up to cover his aching, ringing ears, but the wildness beat him to it. The sounds of the world around him grew quieter as his ear canals shrank. His boost to arm strength faded as the [Morphic Form] was spent to decrease his Perception. Joe had never considered using the skill to decrease an attribute, but it worked. His palms blocked out the rest of the atmospheric sounds when they reached the sides of his head.
+
+He was healing as the beast barked again.
+
+The Garmkin Gwyllgi has injured you. You have suffered 626 points of {Cacophony} damage.
+
+You have not been {Stunned}
+
+There had been something else in Corra’s book about the Hounds of Annwn, though not the gwyllgi specifically. Three barks were supposed to be deadly; if you didn’t reach safety by the third bark, you’d die. This second bark was more than twice as painful as the first. If the next one doubled again …
+
+Before Joe could heal, it snapped out its third and most lethal bark.
+
+You have been reduced to 0 Health. [Punching Bag] has activated. You have 6 seconds before you lose consciousness. Cooldown: 1 Day.
+
+You have been {Stunned}.
+
+For the second time that day, Joe’s ability to think was shattered into a blizzard of fragmented disarray. This time, he was on a countdown. Joe could feel the wildness raging as the last seconds of their existence ticked away, but no matter how hard he tried to move or reach his skills, Joe couldn’t gather enough focus to act.
+
+Then, the world slapped Joe across the face, pouring every scent around him bursting up into his nostrils. The bestial id flipped its abatement of his Perception. Instead it empowered the attribute to overload his sense of smell and hammer him with every reeking smell in the area: the swamp, the pelt, his own body, and most of all the vile breath of the gwyllgi. With two seconds left, the wild spirit had improvised smelling salts.
+
+Joe healed in the instant his mind unlocked.
+
+You have restored 167 points of your health. Your current health is at 15%.
+
+He surged back to his feet, healing a second time even though he knew he wouldn’t withstand a fourth bark.
+
+Yet one didn’t come. The gwyllgi let out a cough of surprise. Its eyes grew huge as its prey failed to perish. Three barks looked to be the creature’s immediate limit. Nothing was supposed to survive the third blast, so why would any more be needed?
+
+Panicking, the death dog turned and ran, yelping miserably as it fled. As it sprinted toward the tangle of brush, Joe hit it with one more ability.
+
+“And don’t come back!” he yelled, activating [Mesmeric Command].
+
+[Mesmeric Command] - Uncommon - Spirit: By overwhelming a target’s mental resistance, you can force it to obey your commands. The target will not obey an obviously self-destructive order, but it can be compelled to perform actions that conflict with its own self-interests. Cost: Major Mana | Cooldown: Moderate | Range: Medium. {Domination}
+
+The power that had once belonged inside the Beguilburr bracelet slammed into the gwyllgi. Since his order was not at all against the fey beast’s wishes at that moment, Joe felt almost no resistance. The huge black dog leapt under the hanging treetop and vanished into the shadows beyond. Its yelps of dismay became more and more echoey as if the beast was being carried away far faster than it could ever run.
+
+When Joe could hear nothing more, he sent his [Forceful Fist] to work on the jagged wood joining the broken canopy to the old trunk. Empowering the clawed blows with [Swift Strike], the ruby red clawed hand cut up the splintery connections. The broken treetop tumbled to the ground, taking with it the shadows around the thicket. Even as late in the day as it was, Joe could easily see the difference between when the fey-road had been connected to the small hollow and after the pathway had been sundered.
+
+For good measure, Joe sprinkled the remainder of his iron filings around the area. He wasn’t sure if the gwyllgi could reopen the road without the tree, so he wanted to leave a reminder of what waited for it should it disobey his last command and return.
+
+Breathing a sigh of relief, Joe shed the heavy hide, letting some of the cooler evening air reach his sweaty body. It would be dark soon, and Joe realized he had an hour back to the fey’s home and even longer to get back to Fort Coral. As this was his first day in the more dangerous region and he had just spent his ‘Death Save’, Joe decided he should get to someplace safe before the night fully fell. He had already pushed his luck today twice, once taking on the badboons alone and then underestimating the gwyllgi. Surviving a third strike was an unreasonable expectation.
+
+As proof of this, Joe found he had a new achievement.
+
+Achievement: You have survived a successful Instant Death effect. Your survival has awarded you the following choice of Traits:
+
+[Bark Resistance] Sometimes it’s worse than the bite. Gain Moderate resistance to {Sound}
+
+[Death Toll] Did you not hear the bell tolling for you? The cooldown for [Punching Bag] is decreased by 50%
+
+At first, Joe was leaning toward the first option; more resistance had to be a good thing, and [Punching Bag] was not something that should ever be needed regularly. Dropping from a twenty-four-hour cooldown to a twelve-hour one seemed like he’d be covering an incredibly unlikely scenario.
+
+Then the words ‘what if’ hit him. What if he did need to not die twice in one day? How do you pass that up? Death was the end of his new journey. Here he was standing in a gloomy swamp with who knows what sort of bog monsters, deadly vipers, or even toxic frogs between him and dry land. With [Punching Bag] on cooldown, he felt very vulnerable. [Death Toll] wouldn’t bring him off cooldown now, but with the trait, he’d have it back by tomorrow morning instead of tomorrow night.
+
+Joe picked [Death Toll] just for that ‘what if’ possibility and started to make his way back out of the marshlands as quickly and carefully as he could. He reached the brushwall that separated the swamp from the fields beyond just as the last of the orange sunset turned to purple.
+
+This time, Joe let the wildness run to its spiritual heart’s content, cutting that hour return to Corra and Padu’s in half.

@@ -1,0 +1,91 @@
+25 - Big Bad Boon
+
+With gnashing ghouls in the cave and nut-throwing badboons just outside it, Joe decided to deal with the former first, just in case he needed to retreat back into this crevasse again. The stocky, bearded undead were pinned in place by the rocks, though with his presence so close by, most of them were working furiously to free themselves. He could [Grit Razor] the rocky mass of trapped ghouls, but the fallen rubble was giving the monsters cover from any one angle. He would have to fire several different spells to get all the struggling monsters.
+
+Minor Ghoulish Miner: Level 5: Undead(Ghoul): Soldier: Vigor
+
+Since Joe did not want to touch the numbing-creatures, claws were out, too. Instead, he decided to use one of his very first spells. He had never had a chance to use [Homefire] offensively before. Specifically, he was thinking of the part of the spell's description that read: ‘Undead creatures in this area will take damage instead of gaining health’. With the number of ranks he had with the skill, his phoenix-fire spell would be doing almost forty points of damage over every minute he maintained it.
+
+Joe placed the illusionary blaze right on top of the pile of rocks. The ghastly trapped cadavers began to hiss and gurgle when the first pulse hit them. Most of the fiends tried to shy away from the radiant fire that was eating into them, but they were held fast by the rockfall. The one ghoul that had been trying to rip itself in half for freedom redoubled its efforts. Joe batted it around with his unnumbable [Forceful Fist] until it melted into greasy ash.
+
+Your skill [Homefire] has increased to rank 20.
+
+As the half-buried, and even fully-buried, undead withered away, Joe felt a growing sense of anticipation. A new level was quickly approaching.
+
+Having dealt with the almost-dead, Joe crept up to the opening to see what the situation in the gully was. Earcellwen’s sleep arrows had been incredibly effective. Of the thirty or so badboons they had counted, about half of them were lying slumped on the ground. Even the big guy looked like he had been affected. He was not asleep, but the eight-foot-tall ape was sitting on the ground, swaying and rubbing at his eyes.
+
+Joe needed to take advantage of this opportunity now. The longer he delayed, the more apes would be waking up. He charged up a [Grit Razor] and planned a route that would get him to the highest number of unconscious badboons quickly. A [Healer’s Ward] would be helpful against the [Nut Shots], but with a [Homefire] burning a few feet away, he was already at full health. Just before he stepped out, an idea hit him. Slipping his fingers under the cowl and the gambeson, Joe used his claws to dig a reasonably deep furrow along his collarbone. Nothing crazy, but deep enough that it would not be immediately [Homefired] closed. Healing the wound gave him the ward he wanted.
+
+As [Grit Razor] reached its full charge, Joe launched himself out of the cave. He targeted the largest group of comatose apes with the glassy, black shards. He had debated ripping into those still awake to disorient them, but he felt their best bet was to take out as many of the unconscious apes as possible, as quickly as possible. Better to diminish the enemy’s numbers now, even if that meant retreating and regrouping, before trying again.
+
+Joe used his woundsight to watch their health. Any ape that was low on health, he hit with the [Rattlebones]. He detonated those close by. On the further ones, he hoped the minor damage-over-time would finish them off before they woke. He ramped up another [Grit Razor] as he snapped his fingers on a cursed ape a few feet away.
+
+He tried to bat away any incoming nuts he saw, but he actually missed with [Heavy Hand] more often than he connected. The curving missile trajectories were deceptively hard to intercept. The edges of these nuts were sharp. One opened a large gash in his thigh, causing him to trip. He rolled back to his feet as quickly as he could, thankfully not losing his charging {Earth} spell.
+
+As Joe hurled the arc of slashing stones into the next pile of sprawled monkeys, Naenaeon charged through the ravine. The white stag trampled four sleeping apes and gored one of the conscious badboons with a crown of spearing antlers. Arrows were still lancing into the beasts as well. These were the heavy hunting arrows RC had been employing in the previous fights instead of the lighter missiles she had utilized for the [Sleeping Sap].
+
+In roughly a minute, most of the apes that had succumbed to the sleep arrow had been dispatched. Joe was about to switch targets with his deadly grit when he realized he was down to the last stone in his belt pouch. He still had more in his dimbag, but the pouch only held so many. Stopping now to dig out more obsidian seemed like a terrible idea with ten apes and the boss turning their eyes in his direction.
+
+A handful of windows appeared on the edge of Joe’s vision just as he heard Earcellwen let out a joyous whoop. He guessed she had just beaten him to leveling up. ‘Way to go, RC,’ he thought.
+
+He slapped a heal on Naenaeon as the stag dashed past him, closing up a long slice the beast had taken along his ribs. As the beast moved past him, Joe was stunned to see a small, weird-looking badboon clinging to the back of the stag’s pale neck. The simian creature appeared to have patches of feathers along its body. Joe sent his [Forceful Fist] after the odd ape latched onto Naenaeon’s back, but before he could grab hold of it, Earcellwen’s companion lashed its head around, sundering Joe’s energy fist with its antlers. The look the hart gave Joe was unquestionably a scolding one. Whatever the little rider was, it was clearly there with Naenaeon’s permission.
+
+‘Okay. No plucking off the feathered monkey.’
+
+Putting away his last available volcanic stone, Joe switched to just his talons. After bulking up his arms, Joe used a charge from his new wand to drop [Thornskin] on himself. He was expecting his flesh to change, but instead a faint, jagged green field enveloped his body. Protected from being grappled, he launched himself at the last large cluster of apes. There were still a few solo badboons in the nut trees, but he trusted Earcellwen to deal with those.
+
+Joe knew how these creatures fought now. He knew the moment they chose to rush him. Flaring [Steadfast], he hammered the oncoming apes with his claws, making them pay dearly for their failed attempt to bowl him over.
+
+Then he heard the sound he had hoped would wait a few more minutes. The alpha’s earsplitting bellow crashed into him and the badboon minions assaulting him.
+
+You have resisted the Bowler Badboon Alpha’s [Dreadful Roar]. You are not {Cowed}.
+
+The last of the wounded badboons around him retreated from that thunderous shout. They looked absolutely terrified of their own boss.
+
+As Joe pivoted to face the enormous alpha ape, he had to open his jaw wide to pop his ringing ears. He hadn’t been frightened, but the sound had still been rock-concert loud. When he finished the turn, he saw the gargantuan beast bearing down on him.
+
+“You guys get the rest of the little guys!” Joe shouted. “I’m gonna be very busy!”
+
+He had no time to move away from the freight-train of hulking muscle that was about to plow through him.
+
+In comic books and action movies, you often see the heroes somersaulting out of the way of enemy attacks. Joe had been to enough LARPS and Renaissance events to know that tactic didn’t actually work in real life, regardless of how many times Captain Kirk pulled it off. Inevitably, any faux-armored LARPer attempting to tumble their way around an attack would flounder on the ground long enough to be soundly whapped into simulated death by the enemy’s foam weapons.
+
+Yet when the alpha’s massive fist cannoned through the air at Joe, his instincts took over, and he attempted this very same ridiculous move. He dove under the six-foot-long arm, rolled across the ground, only to pop back up onto his feet behind the gigantic creature, all in perfect superhero style, thanks to [Hunter’s Pursuit]. He was so stunned himself, he almost missed the opportunity that dumb gimmick had earned him.
+
+Not wanting to be this close, Joe set the big boy's bones rattling, grabbed his last stone and, as it started disintegrating, he locked his eyes on a spot fifty feet away. The beast spun to face him, only to have Joe vanish. The alpha roared again as its big head swung from side to side until it spotted him. As soon as it did, it lumbered straight toward where he stood.
+
+[Grit Razor] needed more time. Even as fast as Joe was with it, if he fired the spell just before the greater baboon reached him, it would be a fraction of its full damage. So he bought himself the seconds he needed by repeating his magical movement. He had enough Vigor to make thirty such teleporting jumps. He only needed three more to finish the charge.
+
+The alpha was out of its mind with fury at this point. It hammered its way across the gully with the deliberation of a Mack truck. Joe had positioned himself near one of the steep gully walls, and he could tell the beast planned to squash him against the stone. Yet, as the brute made its last surge, Joe swung his arm upwards, sending a vertical arc of charged grit slicing into the beast from crotch to crown. Flesh tore, and if it was not permanently blinded, it was at least temporarily so.
+
+Joe, of course, was gone the second he unloaded [Grit Razor], having teleported across the ravine the instant the stone left his palm. He heard the thunderous crash before he had a chance to turn to see it. By the time he spun around, the great monstrous ape was tumbling off the wall, gouts of blood streaming from its face up into the air. It was hard to tell how much damage had come from the spell and how much from the impact against the rocky cliff face.
+
+Joe considered using his potion, getting as big as the alpha, and making this into a kaiju-esque brawl. Yet even stunned and blinded, he knew this was a creature not to be underestimated. The only other elite monster he had faced had taken a raging wildfire to defeat. He’d play this one smart.
+
+He drew out the Rod of Oneirism and added that curse to [Deaden Flesh] and [Rattlebone]. As the huge ape began swinging at phantoms, Joe used [Whisperstep] and the [Talisman of the Medic] to keep slipping around it. Keeping his distance as much as his five yards of Close range would allow, Joe alternated between curses and wrecking those curses.
+
+Realizing there were no random [Nut Shots] headed his way, he assumed his allies must have finished off the rest of the lesser badboons.
+
+Finally, as the damage from the detonated hexes mounted, Joe could see the brawny behemoth begin to totter and stumble. It had wiped the blood from one eye and could clearly see, but what it was seeing, Joe had no idea. Every few seconds, it would smash its fist down on something. A few of those blows fell in his direction, but, so far, he had managed to avoid them.
+
+Joe jumped far enough away to grab two chunks of obsidian out of his dimbag, while the alpha flailed at its hallucinations. He had never tried to dual-cast the spell before. The trait allowed him to break down a stone in each hand, but he was pretty sure he’d had to release them one at a time until he practiced double razoring.
+
+Joe crept up behind the beast and tried to fire the {Earth} skill with his non-dominant hand first. His left being so much less coordinated than his right, he barely managed the gesture. The spray of shards flew almost downward, only managing to clip the brute’s calves. Had Joe been in front of the creature, the spell would have been mostly useless. As luck would have it, the back of the calf is where the Achilles Tendon resides. The cord split, toppling the massive beast like a redwood.
+
+It tried to lever itself back up off its face. As it managed to get to its knees, Joe dashed to the front and unloaded his right-hand effect, slashing a line of destruction across the boss ape’s throat and ending the fight.
+
+As the hulking monster bled out, Joe felt amazing. He was riding on a well-earned sense of accomplishment backed by the joyous waves of a new level.
+
+You have reached level 14. You have gained 1 unassigned attribute point and a choice of an uncommon attribute trait and skill.
+
+As the rush tingled through him, Earcellwen stepped up to his side.
+
+“Nice combat teleporting. I was sure you were a goner there for a bit. And then you began your spatial keepaway. Very impressive,” the emerald-eyed archer praised. “I saw you teleport at the willows, but those were just short jumps. True combat teleporting is a great ability.”
+
+Joe realized just how many times his talisman had saved his ass. It was one of his absolute favorite items. The best part was that since it was a soulbound item, it could not be stolen.
+
+“Thanks and congrats on the level,” he offered as the cascade of his own advancement began to fade.
+
+“You too,” she replied, looking just as happy as Joe felt.
+
+They had beaten all three nests. It was time for the rewards.

@@ -1,0 +1,95 @@
+4 - Unwelcome Guests
+
+Joe and Yawler sparred against Shade and Izzy for an hour more until Lefty came around and had them take a break. The officer expected they were looking at a long night ahead of them, and he wanted his night crew well-rested.
+
+The four deckhands leaned on the railing, watching the southern coast slide by and waiting for Defiance to come into view. The closer to the end of the Strait of Galarion they sailed, the more the ships around them changed. When they had been leaving Peregrine Harbor, the ships Joe had seen were mostly independent vessels interspersed with ships bearing the eagle flag of Duskrug or the checkered flag of the Small Kingdoms. Here, toward the sea, all the vessels seemed to fall into two categories: those bearing the black banners of Defiance or massive armored warships flying the dragon flag of Cazmaloq.
+
+Aboard the Tide Dancer, Joe felt like a mouse creeping across a room full of cats and wolves. He truly hoped the gold pennant flying from their mast continued to be the deterrence they were all counting on.
+
+When the pirate city finally showed itself, it was no help to Joe’s frayed nerves at all. The fortress hunkered like a spider at the point where the north-facing coastline doubled back on itself to become a southeast shore. When first founded, the settlers must have started building at the end of a long spit of land. In the years since, the relentless waves had washed away the underlying sand and soil. Now, Defiance perched on a thousand log footings driven into the seabed.
+
+Murky, vile water slopped under the raised city. A spiked palisade surrounded much of the pirate port, but it was a haphazard thing. It looked as though various rulers of Defiance had started the project to fortify the city, but for whatever reason- change of leadership, lack of funds, apathy, revolt- the project had never been fully completed.
+
+What Defiance lacked in cohesive walls, it more than made up for in docks. At all angles and configurations, dozens upon dozens of piers crept out into the waves. With the oval blob that was the stronghold itself at the center, with its hairy spikes of palisade and the multitude of twisting legs surrounding it, the strongest impression the fortified port gave off was that of a hungry spider lurking on the edge of the ocean.
+
+Thankfully, the Tide Dancer had no business with Defiance this trip. They sailed past the sinister fortress of buccaneers and into the deeper ocean of the Dragon Sea. By the time Joe was to report for duty, they were hours away, but if anything, it felt like the crewmembers were on even higher alert now, than they had been in the waters beside the hostile fortress.
+
+As Joe understood time here in Illuminaria, his team would have the ship from 10:00 PM until 6:00 AM. That span was broken into two alternating four-hour watches. Yawler stated that being on high alert for eight hours straight was asking for burnout and sloppiness. Those not on active watch were expected to be ready to step up, but they were able to relax on deck. He and the catman had the first shift and would swap with Izzy and Shade halfway through.
+
+So it was a surprise when, two hours later around midnight, Izzy slunk off, and Shade strolled over to where Joe was tightening a line.
+
+“We’ve got company, Doc, but let’s play it cool so they don’t know we know.” The noble sailor clapped a hand to his shoulder and laughed as if Joe had just made a joke.
+
+Lord Francis ‘Shade’ de Mowbray is attempting to cast [Pitch Eyes] on you. Do you wish to attempt to resist it?
+
+Joe’s first thought to himself was ‘too wordy.’ and Hawking immediately cleaned up the window to show the name that Joe thought of for the man.
+
+Shade is attempting to cast [Pitch Eyes] on you. Do you wish to attempt to resist it?
+
+He didn't resist, and suddenly, the dark of night vanished entirely. His [Night Eyes] amplified light, making anywhere, even on the dim edges of the lantern light, fully visible to him. But [Pitch Eyes] was like drinking the Minecraft night vision potion. Suddenly, everything snapped into sight … not quite the brightness of midday … but at least a clear early morning. It also revealed that a dark patch of ocean that Joe had noted and dismissed was actually a region of magical darkness concealing a ship.
+
+Shade’s hand on his shoulder both steadied him from the surprising burst of clarity and turned him away from the approaching pirates.
+
+“Whoa,” Joe breathed.
+
+“Yeah, nifty spell, but it only works on those with some form of darksight already. Now, we usually let them try to board, and we hit them in the process. That is when they are the most vulnerable. You keep over here, pretendin’ nothin’s amiss, but be ready to act when you see us go at ‘em. Got it?”
+
+“Got it,” Joe replied in a whisper.
+
+“Ok, I’m off,” Shade stated animatedly, giving off the appearance of someone completely relaxed. He sauntered past Yawler before heading to meet Jade by the mast.
+
+While he mimed working, Joe activated a few spells: [Crystal Mind] for focus and spell penetration, [Bonemail] for defense, [Hunter’s Pursuit] for mobility, and [Efferous Endurance] to keep him from tiring.
+
+When those were up and running, he snuck peeks at the vessel cutting through the waves on an intercept course with the Tide Dancer. It was smaller than the green-sailed brig, likely needing only a dozen crew at most. Yawler had mentioned, though, that pirates tended to be crew-heavy to make stronger boarding parties.
+
+Its flag was a black background with a white and red fanged smile, sort of like a vampiric-cheshire-cat-grin. Further away than Joe would have thought, the pirate cutter hooked sideways. The reason the ship hadn’t grinded itself up against the Dancer was quickly clear.
+
+This was Illuminaria. Not Earth.
+
+Joe watched six people launch themselves from the deck into the air. Half of them were flying on wings or powers; the other three were straight-up leaping over the twenty-yard gap between the two ships. On the back of a griffon came another pair of riders. Four more pirates dropped down onto the ocean, all but one of them dashed across the waves as if they were solid ground. The last shot through the surf like a dolphin. Only two remained on what Joe could now identify as the Bloody Bite: one was their pilot and the other a metallic hulking form that had to be some sort of sizable clockwork creature.
+
+The moment the first of the fliers landed, the night crew exploded into action. Jade appeared out of nowhere and delivered a stunning blow to the marauding lizardman’s snout. Stupefied by the monk’s punch, it couldn’t protect itself as Izzy dashed forward with a heavy flanged mace and shattered one of the saurian pirate’s legs.
+
+Lefty barked a command, and one of the leapers froze into immobility just before she hit the deck. Without the means to absorb her fall, she crumpled into a broken mess on impact with the decking. She was still alive, but she would not last long without help.
+
+Joe was unsure if they were trying to be lethal or not, but either way, he thought he had a way to take out three pirates in one shot. There was still time to save the busted-up raider afterward if that was what he was supposed to do. He locked his eyes on the spot where the griffon was aiming to land and teleported. Joe got there first. He pointed a finger at the chimeric beast for focus and fired off the spell that had once been one of his items.
+
+[Mesmeric Command] - Uncommon - Spirit: By overwhelming a target’s mental resistance, you can force it to obey your commands. The target will not obey an obviously self-destructive order, but it can be compelled to perform actions that conflict with its own self-interests. Cost: Major Mana | Cooldown: Moderate | Range: Medium. {Domination}
+
+“Go far away from here!” Joe shouted. To his surprise, Joe felt his order impact, not a bestial mind, but a rational one. The griffon was a shapeshifted person. This person put up a token more resistance than an animalistic monster likely would have, but nowhere near enough to block the command. Between Joe’s high Spirit score, the resistance-breaking [Crystal Mind], and his enhanced {Mind} affinity, the shifter had no chance.
+
+The chimera banked in the air and began flapping away from where Joe stood with powerful strokes of its wings. The two riders on its back squawked. One of them was in the midst of firing an arrow at one of Joe’s allies. Though it got off the shot, by the time the archer could do anything else, the griffon was already back out over the Dragon Sea again, flying away for all that it was worth.
+
+The other rider managed to act more quickly and jumped for the deck. Joe took a page from Lefty and [Dual Cast] a curse onto each of the descending raider’s legs.
+
+[Dual Cast] +1 to Spirit. +1 to Vigor. You can simultaneously invoke two instances of a skill. Resource costs and material requirements must be met for each instance. Once cast, the skills function independently from each other.
+
+[Deaden Flesh] Causes localized numbness in a target within. Your chance of bypassing the target’s Physical Condition Resistance increases with each skill rank you have with this skill. Cost: Moderate Stamina. | Range: Close. {Paralysis}
+
+Like the first pirate, this one too landed badly, breaking bones.
+
+“Doc!” Yawler shouted.
+
+Joe spun to see the arrow had lanced through Hoodoo’s neck. The catman and a host of defending ghosts were hovering over the fallen shamaness. Joe locked on and teleported past the swarm of spirits. He healed once quickly before numbing the spot from which he had to withdraw the missile. As he worked, the saber-fighter spoke over him.
+
+“Good work with the birdie, but I think we can handle the rest o’ these bluggers. Ye just keep patching us, and I’ll cover yer back.”
+
+Joe nodded and carefully pulled out the barbed arrow. It was a nasty-looking thing coated in a sticky, toxic substance. Joe had a spell for removing putrefied flesh and a spell that worked on reducing the effects of poison, but he did not have a full remove-poison type spell. In his woundsight, he could see the venom spreading through the owlkin’s body. He tried [Dispel Rot] first. It corralled the toxin slightly, but it was not enough. [Purge] strengthened Hoodoo, but again, it was not enough to save her. Whatever this gunk was, it was deadly.
+
+He had been hanging onto a skill enhancement, unsure which skill he should evolve. Upgrades made skills more powerful, but skill evolutions altered and added appropriate abilities to existing skills. He needed a better poison removal than what he had to save the spiritualist.
+
+Joe had planned to use an evolution or upgrade someday for a better way to deal with poisons, especially since they were sailing toward a tropical location. No time like the present. Joe burned his free skill evolution.
+
+You have evolved the common skill [Dispel Rot] into [Dispel Noxa].
+
+[Dispel Rot] - Common - Spirit: This spell breaks down necrotic tissue in the immediate range. If putrefaction is too severe to be destroyed, the corruption is expelled from the immediate area. Cost: Medial Mana | Range: Immediate. {Blood}
+
+[Dispel Noxa] - Common - Spirit: This spell breaks down harmful influences in a body in immediate range, such as necrotic tissue, poisons, and corrosives. If the substance is too severe to be destroyed, the harmful substance is expelled from the immediate area. Cost: Medial Mana | Range: Immediate. {Blood}
+
+Joe fired off [Dispel Noxa], and it worked just as he had hoped it would. He had a handful of bandages ready to absorb the deadly poison as it was driven out of the arrow wound. No longer was he limited to just chasing damaged tissue; now, he was able to target the pernicious sources themselves.
+
+As soon as the venom was all gone, and Hoodoo was awake and stable, Joe looked around the deck for his next patient. He was happy to see that the rest of the crew was in pretty good shape. There were several lacerations among his team, but nothing life-threatening. He and Yawler left the shamaness protected by her companion spirits and worked their way to the next worst crewmate.
+
+Joe had been saved from the need to deal with any of the wounded pirates. While the crew had not outright executed anyone helpless or surrendered, the unwanted guests had been forcibly escorted or ejected from the Tide Dancer. It was up to the raiders to survive the waves and make their way back to their own vessel.
+
+The rest of the team finished repelling the raiders before Joe was done patching them up. He was a little bummed that he hadn’t gotten a chance to use any of his hard-earned combat practice. Still, the fact that they had lost none of the crew and everyone was in as good a shape afterwards as they had been beforehand more than made up for it.

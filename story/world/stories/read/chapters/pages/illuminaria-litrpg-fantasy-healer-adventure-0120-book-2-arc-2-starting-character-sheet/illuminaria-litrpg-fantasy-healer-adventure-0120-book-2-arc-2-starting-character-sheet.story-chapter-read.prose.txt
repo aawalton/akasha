@@ -1,0 +1,15 @@
+SHEET
+
+SKILLS
+
+TRAITS
+
++2 to Perception. +1 to Agility. You have been blessed with clear senses to watch over the wilds of the Kingswald and granted a moderate enhancement to your ranged accuracy to defend it.
+
+ITEMS
+
+If you are in Close range of your animal companion, you gain [Automount] and they receive the benefit of any helpful buff you apply to yourself.
+
+Wood
+
+I know I need to spiff up some of the potion descriptions.

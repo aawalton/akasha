@@ -1,0 +1,119 @@
+78 - Baleful Warder
+
+Joe’s mind was whirling with possibilities. Items could be added to the transformations. This led to the question: could he transform the masses into physical forms instead of skills?
+
+He teleported one of his new rare mana potions out of his belt, snatching it up with [Helping Hand] as he focused on one of the lesser red masses. He could feel the Death Mark trying to make a connection to the mana-infused solution. Yet there was something preventing Joe from pulling the red wriggling cluster free from his body. The masses were woven into Joe's body. So far, he had been altering and absorbing the masses. That was fundamentally different from extracting the corrupted clusters.
+
+He needed something else to sever the link between himself and the masses. Joe looked back through all of his options, looking for anything he could convert into the tool he needed. He opened a list of everything that was available to him: all the monstrous powers, all the healer skills, even the Dreadful Warden options. It was in that last group that he found something.
+
+[Rive the Voidwrought] - Uncommon - Strength: You can empower your melee attacks to inflict additional damage to outsiders and sunder their unnatural effects. Against outsiders, your attack damage and magic negation increases by 10% plus 2% for each skill rank you have with this skill. Cost: Minor Stamina | Range: Touch. {Disruption}
+
+The ‘sunder’ was what caught Joe’s eye. That is what he needed to do: break the clot free from his body. So far, Joe had only been using the Mark of Change on the monster abilities. He wondered if, at this moment, he could use it on the Dreadful Warden skill, too.
+
+Joe looked back at [Rive the Voidwrought] and refocused on the Mark of Death. He knew he wouldn’t normally be able to keep changing up his options in the future, but this was not a normal moment. His prophetic sign was still in direct contestation with the Mark of Moon. It should work.
+
+And it did. Sort of.
+
+The Mark of Death seeks to transform your class.
+
+Dreadful Warden will become Baleful Warder
+
+Baleful Warder: You stand between the cursed beings of this world and those you protect, thwarting the bringers of corruption. Baleful Warder is an adaptive class designed to use aspects of the baleful creatures and hexes against curses and the cursed.
+
+• [Rugged] +2 to Vigor• [Observant] +2 to Perception• [Awakened] +2 to Spirit• [Brawny] +1 to Strength
+
+The word ‘baleful’ had shown up so many times that night that Joe was starting to get a picture of what it meant. It seemed to refer to cursed creatures, like werewolves. Joe was about to let his mind wander to think of other such beings, but [Crystal Mind] was still running, and the spell yanked his attention back to the matter at hand. He had no time to ruminate since the torchlight was now just a little over a block away.
+
+Joe saw no reason not to take a class specifically focused on dealing with Sougath and similar such beings. Since he had no burning desire to specialize into a demon or fey hunter, werewolf hunter was just as good. He accepted and looked to see what had changed.
+
+The first thing he saw was his free points had been reassigned. Instead of having an open point of Strength and two free points, he now had two open points of Spirit and one free point. It looked like the Warder was more magical than martial, which was fine by Joe. After a quick check, he noted the class change had not adjusted anything he had already spent, just tweaked what he had left available.
+
+One thing that had changed was [Rive the Voidwrought] was now [Curse Cleaver].
+
+[Curse Cleaver] - Uncommon - Spirit: You can empower your attacks to inflict additional damage to cursed creatures or disrupt curse-based effects. Your attack damage and curse negation increases by 10% plus 2% for each skill rank you have with this skill. Cost: Minor Mana| Range: Touch. {Disruption}
+
+‘That will do.’
+
+Now, he needed a way to deliver it. Joe carefully reached out and placed his ghostly fingers against his skin. There was a tiny tingle as his digits slipped through his gambeson and the top layer of his flesh, but he didn't feel any real connection. Even so, he tried his newest spell, hoping it would activate, but no dice. Nothing happened.
+
+He needed something else, something physical. The only physical thing he had control of was a small blue hand that had no attack stats. Even so, it was worth a shot. Joe focused on [Helping Hand] and tried the cleaving spell again.
+
+Still, no go. The hand was just not made for this.
+
+‘But what if I made it better?’ he wondered. He had both an evolution and an upgrade available. The thought felt so right to him that Joe dropped his last remaining free points straight into Perception and pushed both skill improvements at the force spell. The upgrade triggered.
+
+[Helping Hand] is upgrading to [Forceful Fist]
+
+[Forceful Fist] - Uncommon - Perception: This skill will allow your manifested hand to retrieve items for you on command. There must be an unobstructed path between you and the item. Additionally, the fist can make physical attacks within Short range, inflicting moderate damage based on the rank of the skill. The hand can lift up to 25 pounds of material plus an additional 1.0 pounds for each skill rank you have with this skill. The hand is agile enough to make simple manipulations of objects or creatures. Cost: Moderate Mana. {Force}
+
+He dismissed and resummoned his little blue hand and found it was neither quite so little, nor was it blue. A red appendage appeared in the sky that more closely resembled the current state of his physical hands. A fringe of ruby-colored hair outlined the translucent hand, and each finger ended in a two-inch crimson claw. With a thought, the hand folded itself into a fist and hammered down onto a chunk of bloody hide lying on the ground. The flesh pulped under the blow.
+
+He tried touching his body with the taloned hand and felt the red fingers pushing against his physical form. Heartened, he tried to activate [Curse Cleaver] again, but the spell still did not trigger. Joe sighed when he realized the hand did not allow him to cast through it. The only way to use the sundering spell was with a strike.
+
+‘This had better work, or I’m going to feel really stupid.’
+
+Touching the mana potion again, Joe tried again to transform the writhing red coils into the item. Again, the wormy mass hung on, refusing to be drawn out. So Joe slapped that spot with [Curse Cleaver] empowered hand.
+
+You have injured yourself. You have suffered 36 points of damage.
+
+Wounding himself wasn’t great, but between leveling and adding on more Vigor, Joe had more than enough health at the moment, even with underlying structural damage. Better yet, the spell had activated. The scarlet clot tore mostly free, so Joe swung again, this time allowing the red talons to slash an opening in his skin.
+
+As the worm-filled lesion tried to latch back into his body, Joe hooked it with the prophetic mark, yanking the mass free. The corruption burst its way out of the cut his claw had made, launching up into the air as a ropey gelatinous blob. The Omen of Change pulled the red goopy clot into the blue potion bottle, combining them.
+
+The Mark of Death has transformed the monstrous alteration to your pattern into a standardized personal item.
+
+<Brutal Bite> and the [Greater Mana Potion] will become [Elixir of Brutal Bite]
+
+[Elixir of Brutal Bite] (Item: Consumable - Rare): Your jaw will elongate, and your teeth will grow and sharpen. You can use your bite as a natural weapon, inflicting major slashing damage for 10 minutes. {Beast}
+
+‘This is going to work.’ he rejoiced in his head. ‘Let’s see if I can do one of the traits.’
+
+He started with <Flesh of the Were>, figuring he could stand being shaggy for one potion duration in return for a major damage resistance. Joe summoned a second potion and started to cut <Flesh of the Were> free. This took far more strikes, and Joe stopped holding back. The ruby claw cut deeply, eventually severing the clot. Joe focused on the mark, but no reverberation ensued. The mark of death was silent.
+
+‘Damn it. That really hurt and nothing,” He mentally groaned. ‘Maybe it doesn’t work with traits. Or maybe the potion is not rare enough.’
+
+The bite, which would have been a common skill, had become a rare potion. Thanks to Jink’s generosity, Joe had spent some serious money to acquire five of the high-quality mana potions, but those were the best potions he had. He had looked at some epic potions in the store, and just one of them would have cleaned out the gifted purse.
+
+‘Ok. Assuming it has to be a rare or better potion to absorb one of the small masses means I have enough for the small tumors. I’ll have to come up with something else for the two larger ones.’
+
+Regardless, he had four potions left for the three lesser tumors. After a few more seconds and more clawing, he ended up with a [Potion of Blood Rage], a [Flask of Primal Terror], and an [Ichor of Lycanthropy] to go with the [Elixir of Brutal Bite].
+
+Joe was down a hefty chunk of health at this point. He tried to heal through the hand, but it wouldn’t work. The spell could make attacks and carry items, but it was not actually one of his hands. He could not use it to cast his non-strike spells with.
+
+‘I need something else to add to the mix.’
+
+Joe thought through his items but couldn’t think of any combination that would work. None of them were compatible with <Flesh of the Were> and <Mage Bane>.
+
+‘Could I just reject the trait?’ he wondered. Joe sundered the few connections <Flesh of the Were> had reattached and focused on the shaggy, torn corpse. Surprisingly, a small tremor started in his ghostly gut, but it faded away before expelling the taint. He was close. The vile trait had wanted to go back into the werebeast’s flesh, but it had also not wanted to leave him.
+
+He had an idea. The torchlights were now at the edge of the holy ground. If this didn’t work, Joe wasn’t sure he had time for anything else.
+
+He empowered [Forceful Fist] and cut a large swath of mostly disconnected hide off the werebeast. Since the <Flesh of the Were> trait was in Joe, it was not there to stop the ruby claws from slicing apart the remaining connecting tissue.
+
+When the now stronger hand dragged the bloody, matted mess to Joe, he claimed it in his head as a trophy.
+
+[Greater Werewolf Hide] (Item: Material - Epic): This hide can be used to create items with high resistances to physical and magical damage, and/or items with transformative properties. These items will possess major vulnerability to silver. {Moon}
+
+The scrap of hide changed from a slashed hunk into a full pelt. It even had the wolf’s head attached. Not wanting to delay any longer, Joe shoved <Flesh of the Were> at the shaggy hide. The gong ringing through Joe was deafening.
+
+The Mark of Death has transformed the monstrous alterations to your pattern into a customized personal item.
+
+<Flesh of the Were> and [Greater Werewolf Hide] will become [Hide of the Night Hunter]
+
+[Hide of the Night Hunter] (Item: Soulbound - Epic): This remnant of the Night Skinner retains many of its lycanthropic properties: • Self-Repair (Median), • Damage Resistance Physical (Median), • Vulnerability to Silver (Major), • Morphic: The hide can grow and shrink in size from 1x1 to 15x15 feet. It can alter its shape into forms ranging from a simple wall-hanging to complex clothing.• Feral Instincts: The hide retains its original hunger. Anything placed within its jaws will cause them to bite down, syphoning moderate damage into repairs and grappling the item until commanded to release. {Moon}
+
+‘One more down. One last one to go.’  Joe sighed mentally. <Mage Bane> the real pain in his ass through this whole ordeal. Not only was it what was trapping him from returning to his skin and bones, it just did not seem to be compatible with anything. Joe realized he was out of time and options. He had wanted the extra experience, but 5% was not much, and the two free points from [Bolstered] were his best bet to getting rid of the cursed trait.
+
+Unfortunately, his transformative sign didn’t agree. Joe willed the points at the <Mage Bane>, and in return, he received back just a slight tremor. Points alone were ok for a skill, but they were not enough for the trait. Joe had a gut feeling the Mark of Death needed him to pick a skill to overlap with the trait. Running through his skills and those in Baleful Warder, he tried to feel for any compatibilities, discovering that at least one aspect of <Mage Bane> was the {Force} affinity. The other was something he had no feel for.
+
+Still, Joe could work with {Force}. He nudged each of his {Force}-based skills and found the deepest compatibility [Strong Arm]. Joe picked the [Bolstered] trait, letting the extra experience go, and jammed one of the free points into Strength.
+
+The Mark of Death has transformed the monstrous alterations to your pattern into a customized personal skill.
+
+<Mage Bane> and [Strong Arm] will become [Heavy Hand]
+
+[Heavy Hand] - Uncommon - Strength: The skill allows you a chance to block attacks or push a target away from you. Increases your Physical and Magical Deflection and your Shove proficiency by 20% plus 2% for each skill rank you have with this skill for 1 second. This skill is not applicable against non-tangible or area attacks. Cost: Moderate Stamina. {Might}
+
+The moment <Mage Bane> was transformed, he felt a tug on his ghostly body. With the spiritual resistance gone, Joe felt himself being reeled back into his battered skin. Yet when he opened his eyes, it was not to look at the grass of Vyhne’s holy ground or the bloody vicera that had been strewn around him.
+
+Instead, Joe stood, naked, in a deep primordial forest. A shiver ran down his spine as lupine howls began to call out throughout the dark woodland surrounding him.

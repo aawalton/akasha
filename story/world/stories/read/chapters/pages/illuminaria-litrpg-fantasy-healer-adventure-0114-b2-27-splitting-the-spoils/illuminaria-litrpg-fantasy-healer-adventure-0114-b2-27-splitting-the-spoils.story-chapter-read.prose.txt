@@ -1,0 +1,83 @@
+27 - Splitting the Spoils
+
+As the now dog-like creature fidgeted with the stones and the nuts, Joe turned to the waiting alerts from Hawking.
+
+You have successfully completed [ENCROACHING APES] (Uncommon)
+
+Reward (Trow Camp Nest): 400 gp
+
+Quest completion reward: 600 exp.
+
+Additional rewards are still available for determining why the primates moved from their territory onto the mining road.
+
+‘Not bad, ’ Joe thought. Between the quest-awards and the monster-fights, he had gained about twenty-five hundred experience from this quest. ‘Okay. Let’s see what level options we have.’
+
+This time, Joe wasn’t looking for anything specific, so the almost twenty options were a bit daunting. He liked a {Bone} skill called [Manticore's Mane], which would increase his damage reduction versus both physical and magical. He realized it would stack nicely with [Bonemail].
+
+There was a resistance to spiritual damage, too, called [Rakshasa’s Raiment]. Joe hadn’t seen any other skills for spiritual protection, and yet he had encountered spiritual effects twice so far. The first was obviously the battle with the Night Haunt, but the second was the gwilli. Joe wasn’t positive, but that auto-death ability, which, while listed as {Cacophany}, felt like it blew his essence apart more than his body.
+
+If he was going to stay teamed up with Earcellwen or people like her, then either of these would help him develop a tankier build. That was one way to go. His high spirit also suggested a more caster design. If he went that route, then Joe was drawn to a very cool-sounding attack curse called [Chain of Pain].
+
+[Chain of Pain] - Uncommon - Spirit: Select a target in Long range and manifest spectral barbed chains that envelop the target and lash out at a number of creatures in Medium range. The number of lashing chains is equal to your Vigor. You can direct the chains to specific additional targets or leave it to chance. Any target attacked by the chains receives Median damage based on your Spirit. The primary target is {Restrained}. Cost: Major | Range: Long. {Metal}
+
+Joe had a great feel about this spell. So much so, he assumed that {Metal} must be a sub-affinity of {Earth}, which made sense; he just wasn’t sure what the other half would be. Another reason it caught his eye was due to the fact that Vigor and Spirit were his two best attributes, and this spell utilized both of them.
+
+He looked to the foundational spells for the Baleful Warder class and found that, like Healer, at the class’s core, there was an assessment skill. [Know Curse] was something he would need to take at some point to really understand how his hexes worked. Joe remembered the difference between trying to heal before and after he learned [Assess Wounds]. It was night and day. He wondered if it would be the same with curses.
+
+Looking further through the list of options, Joe saw some whose abilities felt like they could belong on the Healer skill list. There was [Toxic Harvest] that gave a short-term poison immunity and [Plague Breaker] for removing diseases.
+
+One of the coolest options was unimpressively named [Basic Warding]. This was a skill similar to alchemy, or Hah’roo filomancy, where Joe could inscribe various types of wards onto objects to impart different effects. The skill came with two wards that Joe could pick. The rest he would have to learn. He loved the idea of such a versatile skill.
+
+While he wanted to pick something now, it seemed like a dumb idea when he knew there were people who knew so much more about what would be optimal choices back in Fort Coral. It’s not like he needed to pick one at that very moment. With [Grit Razor], his biggest issue of a strong ranged attack was covered.
+
+New skills could wait. Joe had another notification about an existing skill.
+
+Skill Evolution:  You have utilized a well-leveled foundational skill to its full potential for the first time. Do you wish to evolve your [Homefire] skill to the [Halefire] skill?
+
+At first, Joe’s brain went to ‘Hellfire’, which made no sense for a spell that was primarily focused on healing and comfort with a titch of anti-undead in there. When he tried to correct the term mentally, he did it wrong a second time, confused as to what a fire/life skill had to do with freezing rain. Finally, he wrapped his head around the word correctly. ‘Hale’, not ‘hail’. ‘Hale’, as in ‘hale and hearty’, healthy, well, free of disease, etc.
+
+“That makes so much more sense,” he announced to the broodling sitting next to him. The little guy cocked his head, appearing to be listening intently before returning to his pile of nuts and colored stones.
+
+You have learned the uncommon skill: [Halefire]. Create a spectral campfire. Any living being in Short range of the manifestation regains 2 points of Health for each skill rank you have with this skill every minute. The fire lasts for one hour. Undead creatures in this area will take twice the amount in damage instead of gaining health. The flames radiate a gentle aura of warmth and comfort, blocking unpleasant environmental conditions, such as harsh winds or rain. They will not burn their surroundings or living creatures. Cost: Modest Mana | Range: Short. {Phoenix}
+
+“Nice! Two times damage versus undead is great, especially given where we are,” he asserted to no one in particular as he looked at the other cave entrances.
+
+His last alert was the achievement he had received when Earcellwen leveled.
+
+Achievement: Your cooperative efforts have helped an ally advance to reach your level. Your conduct has awarded you the following choice of Traits:
+
+[Wellspring ] Share the health. When you use a healing skill, a number of allies up to your Spirit other than the target in medium range receive 5% of the skill’s heal. Closest allies are prioritized. If there are fewer allies in range than your Spirit, this effect will be stacked on available targets up to its maximum count.
+
+[Vanguard] Me first. Minor Physical and Magical Damage Resistance when you are in front of your allies.
+
+He found it amusing that he had only earned the achievement because RC had leveled first. He didn’t need to think about his choice. While more resistance was always beneficial, an area-of-effect heal, even a minor one, was too good to pass up.
+
+He knew his healing was not like the tabletop rpg’s he played at home, where just a drop of healing would stabilize a dying ally and in some systems return them to full functionality even if they had but a single hitpoint. That mechanic always drove Joe nuts. No one should go from death’s door to perfect competence with just a minor heal. He had wondered if that is why his healing was more accelerated organic mending than the Murrceeian’s divine damage erasure.
+
+Regardless, it was still a great trait. Given that [Healer's Touch] had over thirty ranks now, [Wellspring] would output around ten points of health sixteen times. If it was just Earcellwen hunting with him and Joe healed himself, the layered mini-heals would be almost as much as a direct heal would give; a heal that was both at range and in addition to the main heal that kicked it off.
+
+Joe looked at the black furred changeling playing on the boulder and realized he now had another ally to factor in. The trait might be just the thing to help him keep the little guy safe. At level two, the broodling’s health pool couldn’t be much. Each [Wellspring] would likely fully heal him if the little guy got into trouble.
+
+Closing the trait selection, he looked at his attributes next, trying to decide where those three new points should go.
+
+ATTRIBUTES· Strength: 6· Vigor: 13· Dexterity: 3· Perception: 6· Spirit: 16
+
+Available Attribute Points Unspent: 3
+
+His Dexterity still needed a lot of help. [Morphic Form] and [Hunter’s Pursuit] helped him move without falling over himself, but he should look to up his Dex some more soon if possible. Strength also would need a boost if Joe was going to physically attack anything his level or higher.
+
+When Joe closed the last window, he found the small creature staring intently at him, waiting. Joe noted the smart little guy had sorted the objects he had been playing with into piles. The nuts had their own pile.
+
+Giving it another scritch, he sat down on the boulder beside the small dog-like creature. As soon as Joe settled next to him, the critter exploded into movement. The little guy rolled off the boulder and zoomed around it before hopping back up and lurching to a halt right beside Joe’s leg. It placed its simian hands gently up on his thigh. It then smiled, not as a human does, by baring its teeth. Instead, it opened its mouth to let its tongue flop partway out.
+
+Even though its intention was not to bare its teeth, the parted mouth managed to reveal an impressive set of chompers. Its upper canines were almost two inches long, and the lower set was not much shorter. Its unnatural build and toothy mouth made it look far more predatory than its attitude presented.
+
+As Joe looked at the small oddball, he was struck by the memory of another misunderstood monkey. During his time at the hospital, Joe had spent a fair amount of time in the children’s cancer ward. He discovered that his experience with his younger brothers helped him become adept with the young patients on the ward. Conversely, their resilience helped him on the days he was teetering toward depression. Some days they wanted to play games, but more often they just wanted to watch cartoons and talk about silly kids' stuff with someone.
+
+One cartoon had a genetically modified monkey, who was the antagonist of a heroic trio of girls for whom the show was named. As Joe looked down at the panting shug monkey, the cartoonish villain’s name popped into his head and seemed to lock there.
+
+“Ok, let’s try this on for size. I’m going to call you Mojo. Do you like Mojo? How about we use that for your name, Mojo?” Joe intoned, stressing the name each time. Joe was tempted to use the goofy, deep-voiced reiteration the character was known for, but he didn't want to confuse the little guy.
+
+The name seemed to be a hit. By the third recitation of ‘Mojo’, it began to wag its long tail happily. Joe couldn’t help but laugh. The creature's tail was far too long to wag dog-style. It swished through the air more like a cat’s, with looping flourishes added in, just because it could.
+
+Joe played the name game with Mojo for a few more minutes, glancing over at Earcellwen occasionally. She still appeared to be in meditative communion with the largest tree in the area. After five minutes of her still entranced, he decided it was time for him and Mojo to have some fun.
