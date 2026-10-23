@@ -1,0 +1,47 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const clerkClarkAndTheSuperstoreOfDoomRetail = {
+  id: "01a1663d-5a69-7e75-aebf-b6ced7696c46",
+  type: "page-type/story-read",
+  slug: "clerk-clark-and-the-superstore-of-doom-retail",
+  author: "Riverside",
+  following: false,
+  unit: "unit/words",
+  title: "Clerk Clark and the Superstore of Doom [Retail Fantasy] (STUBBED)",
+  world: "world/clerk-clark-and-the-superstore-of-doom-retail",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "128446",
+      externalLink:
+        "https://www.royalroad.com/fiction/128446/clerk-clark-and-the-superstore-of-doom-retail",
+    },
+  ],
+  externalTags: [
+    "GameLit",
+    "Urban Fantasy",
+    "Progression",
+    "Post Apocalyptic",
+    "Male Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-fi",
+    "Artificial Intelligence",
+    "Dungeon Core",
+    "Dungeon Crawler",
+    "Dystopia",
+    "High Fantasy",
+    "Magic",
+    "Magitech",
+    "Mythos",
+    "Slice of Life",
+    "Soft Sci-fi",
+    "Survival",
+    "Tower",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T00:50:59.305Z",
+  updatedAt: "2026-10-23T00:50:59.305Z",
+} as const satisfies StoryRead
