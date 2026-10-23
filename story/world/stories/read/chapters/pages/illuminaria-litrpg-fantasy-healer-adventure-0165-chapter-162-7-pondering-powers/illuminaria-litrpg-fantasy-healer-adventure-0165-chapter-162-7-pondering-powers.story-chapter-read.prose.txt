@@ -1,0 +1,99 @@
+Chapter 162 / 7: Pondering Powers
+
+Joe arrived back at Fort Coral in the evening, with the hope of being able to spend some more time with Kendell, but an infestation of Tinderkelps on the docks had called her back on duty. These seaweed-based monsters were not dangerous until they dried out, then they burst into miniature infernos. Supposedly, this is how they reproduced, sending flaming seeds back out into the waters of the bay to germinate new Tinderkelps. Kenda, Earcellwen, and Edror were now on watch for any more of the critters climbing onto the wharves and boats, while the Stormwardens called rain to douse the flames and divert the mature Tinderkelps away from the city.
+
+Back at the Abbakka House, Joe flopped down on his sofa to do some thinking about his upgrade choices. He was on his own for the moment since Mahq had been waiting for them in the courtyard. The boy had obviously been informed by his host spirits that he and Mojo were arriving. Joe received a muffled hello before the youth scooped up the furry, black changeling and dashed away with Joe’s companion. Mojo clearly didn’t mind as he was letting out happy ruffs in the young druid’s grasp.
+
+Joe pulled up his sheet as he reclined across the length of the couch. He had two free points as well as two points in Spirit from the banner trait he had just gotten from Corran Loigen. The Spirit points he was almost surely going to give to [Grimoiriguard]. Getting basically an epic-caliber spell at uncommon was impossible to pass up.
+
+Talking with Kendell, they had narrowed his choices down to two options. For sure, he was going to advance [Healer’s Touch]. While this choice felt a bit boring, he needed his primary skill to keep pace with his health pool and with any of his high-Vigor teammates. What to do with that last point was where the options came in. Option One was to use [Alter Body] to advance [Morphic Form] to rare. Option Two was to take the Perception skill associated with warding: [Read Wards]. Joe had found that being able to see the magic he was dealing with gave him a far deeper understanding of it. Kenda was almost certain that adding another magical detection ability would cause some of Joe’s existing Perception skills to meld into a new combination skill.
+
+Joe invoked the two choices he was certain of first.
+
+You have learned [Grimoiriguard] - Uncommon - Spirit: This skill will manifest a shield that can disrupt incoming non-physical attacks. Unwanted magical, mental, and spiritual effects that intersect the barrier will be diminished by 10% plus 1% for each skill rank you have with this skill. This shield is intangible to physical attacks. Cost: Moderate Mana | Range: Touch. {Barrier}
+
+[Healer’s Touch] is upgrading to [Healer’s Hand]
+
+[Healer’s Hand] - Rare - Spirit: Heal a target for 24 Health plus 9 Health for each skill rank you have with this skill. Cost: Modest Mana | Range: Touch. {Life}
+
+Joe did the math and realized his self-heal went from just shy of three hundred health per max heal to well over five hundred. While that meant it could still take up to five heals to restore Finn to full health, he was now close to being able to one heal Wen.
+
+Joe vacillated back and forth on where to spend his last free point.
+
+‘What would you do, Hawking?’
+
+You know I am not going to answer that question, Joe. Why ask it?
+
+‘I was more opening a conversation than actually fishing for info, Bud. I know you can’t give me real answers, but are there any hints you can throw my way? I can’t tell if I want to enhance my magic sight or my body shifting. I use both all the time.’
+
+I can tell you a few things. One, the hypotheses you and your friends have are correct; [Alter Body] will synergize with [Morphic Form], and adding [Read Ward] will synergize with more than one of your current Perception skills.
+
+There is one more aspect to this decision that has not been discussed. The skill [Morphic Form] as it relates to you is unique. There are other versions of skills with that name, but they, too, are unique to specific individuals. The presence you have designated as ‘the Wildness’ will be compatible with [Alter Form]. Yet you should know that you will dilute the personalization of [Morphic Form] by adding a standardized spell to it.
+
+‘Is that a bad thing?’
+
+No. The only drawback is that it would make the skill slightly less adaptable. [Morphic Form] now has the potential to evolve in numerous ways. The addition of [Alter Body] would eliminate many of those options.
+
+‘Well, that kind of answers my dilemma, then. Why would I take something that would limit my options?’
+
+Because you will almost certainly limit your options when you next advance or evolve this skill anyway. The only difference is which options will be eliminated.
+
+‘Well, that’s no help. Why even tell me about the unique skill aspect if it makes no real difference?’ Joe mentally grumbled toward Hawking.
+
+Firstly, because I thought you would like to know. Secondly, since it, as you say, ‘makes no real difference,’ it is knowledge I am allowed to reveal.
+
+‘Allowed?’ Joe questioned. ‘Didn’t you make Illuminaria? Why wouldn’t you be allowed to do whatever you wanted? Do you have a boss you answer to?’
+
+To that last part, no, not as you would define a boss. Yet, I am still constrained by rules. If you will allow me to use an analogy, if Illuminaria were a great clock, I would not be allowed to make any adjustments I wished if I still wanted that clock to function correctly.
+
+‘Are you telling me that giving me skill hints could bust the world? I find that to be an awfully large stretch, Sir,’ he scoffed. Still lying on his back on the sofa, Joe lifted his arms to interlace his fingers behind his head, while he stared at the ceiling. Hawking wasn’t necessarily up; he probably wasn't specifically anywhere. More like he was probably everywhere. Still, Joe had the habit of looking upwards when addressing the ethereal voice of the world.
+
+Admittedly, the analogy was not a very good one, but such is the limitation of many analogies. They present a solution in a digestible format, yet often add implications that undermine the truth they are attempting to express. You are correct that Illuminaria would not be significantly affected if I gave you skill tips. Yet, your experience in Illuminaria would be impacted. Impacting a departed spirit’s experience is a mistake I have already come to regret.
+
+‘The Blood King?’
+
+Correct. I recognize that you do not have the same despotic temperament, yet that example has made me aware of my limitations and unwilling to chance exceeding them again.
+
+While I am cognizant of all that is occurring across the world of Illuminaria, I cannot foresee what will happen. This is how I mistakenly placed you in the path of Groven Suttrel, which diminished your initial experience with the world. How my revelation to Hoojack97 resulted in the creation of the Blood King. There are other examples as well.
+
+Now that Illuminaria is operational, I must exercise care when making any modifications to it. I feel the addition of the departed from Earth will prove to be a significant boon to Illuminaria in time. Yet they are proving to be most difficult to integrate without disrupting the existing dynamics.
+
+‘Don’t worry about it, Hawking. I like the idea of keeping [Morphic Form] more open-ended at the moment. I can always use [Alter Body] later if I hit a hurdle with the skill I don’t like. Let’s see what happens when we add [Read Wards]. Ready?’ he asked, even though he knew Hawking wouldn't respond to that pointless prompt. Joe dropped his last free point into Perception and picked the ward-analysis skill.
+
+You have learned the common skill: [Read Wards]. This skill allows you to discern and decipher formation magic such as wards and enchantments. Additional ranks with this skill will improve the speed and comprehension of your analysis. Passive | Range: Long. {Calculation}
+
+Skill Evolution: You learned a skill that synergizes with skills you already possess. Please select from the following options.
+
+[Identify], [Know Curse], and [Read Wards] will synergize into the skill [Crone Sight]
+
+[Crone Sight]. This skill allows you to visually detect the presence of magic. You will be able to decipher curse and formation magic. Additionally, this skill will improve your ability to read others, giving you insight into their natures, attitudes, and intentions. Additional ranks will improve your ability to pierce deception, whether it be from personal aptitude or skill-based abilities. Passive | Range: Extreme. {Calculation}
+
+[Know Curse], [Night Eyes], and [Read Wards] will synergize into the skill [Hag Sight]
+
+[Hag Sight]. This skill allows you to discern and comprehend curse and formation magic. Additional ranks with this skill will improve the speed and depth of your analysis. Additionally, you will be able to see in fully lightless environments, such as underground or within areas of magical darkness. Passive | Range: Extreme. {Calculation}
+
+[Assess Wounds], [Know Curse], and [Read Wards] will synergize into the skill [Witch Sight]
+
+[Witch Sight]. This skill allows you to visualize wounds, disease, toxins, curses, and formation magic. Additional ranks with this skill will improve the speed and depth of your analysis. Additionally, you will be able to discern curative and/or toxic properties within the materials you examine. Passive | Range: Extreme. {Calculation}
+
+‘That’s a lot more choices than I expected.’
+
+Since there were plenty of ways for Joe to create just a hint of light, enough for [Night Eyes] to function, he mentally crossed out [Hag Sight]. Being able to see through magical darkness would be a sweet surprise against whoever threw a gloom spell at him, but Joe didn’t expect to encounter that situation very often.
+
+Between being able to read people and see cures, Joe decided to lean into his primary calling. He had accepted being a healer completely, and so he might as well take any offered tricks to be better at it. He chose [Witch Sight].
+
+With big days ahead, Joe decided to turn in early. He chatted with Hawking for a bit longer while he got ready for bed and then promptly passed out. Having gone to bed at a normal hour, Joe ended up rising with the dawn. Mojo had slipped into bed sometime in the night. The still-sleepy pup roused himself with an adorable squeaking yawn.
+
+They started the day with a jog through the quiet streets to get the blood pumping. As they loped along the lanes of Fort Coral, Joe had Mojo train up [Slipstream]. As the pair reached the shore, Joe sent his awareness out into the deep waters, questing for Finn. For the longest time, there was no connection at all, until finally he picked up a mere trace of a distant response. It was so faint, Joe only got the barest sense of recognition from the aklhut. Finn and his pod must have headed way out into the Dragon Sea beyond Coral Bay. Joe wished the big guy well before scooping up the pup and making one more loop through the city.
+
+By that point, the pair were both hungry. Joe and Mojo had found an eatery during Founders Day that made something very much like a pancake, which they called flatfries. Since Mojo had been sending him impressions of apple flatfries all morning, Joe headed for Perin’s Pans to buy the little man some breakfast.
+
+Halfway through Mojo’s second short stack, the guildhouse bell rang out across the city; it was a call for a mustering of the guild. Joe had almost missed the gathering the first time he heard that then-unknown bell. This time, as soon as he heard the distinct tolling, he hopped up from the table and settled their tab, while the monkey-pup stuffed his cheeks full of syrup-covered flatfries.
+
+Joe wasn't the first one there, but he was pretty happy to be far from the last to arrive. Most of the rest of the guilders arrived within a minute or two, which gave Joe plenty of time to burn a [Cleaning] charm on the very sticky broodling. Not everyone turned up in a timely manner. Much to Tezeno’s infuriation, Hah’roo strolled into the hall at least fifteen minutes after the second-to-last member of the guild.
+
+“Alright, y'all,” Myllo announced. “We are forming a new squad. Both of our guild lieutenants, that being Tezeno and Kendell, have been ready to lead a team for a while now. With the addition of two new guilders, we now have the numbers to make this happen. I’ll let you two work out which one of you takes the lead, unless you need me to break a stalemate. With Kenda and Tez will be Ears … err, sorry about that, lass, Earcellwen, Joe, and Hah’roo. I’m quite pleased to announce that the last member of your squad came to me after Founders Day and requested a place on the new team. Congratulations to our resident recluse, Yuk. I’m proud of you for reaching out, son.
+
+“So today we are going to put you guys through the paces. Nothing like a heavy dose of pressure to strengthen teamwork. Naragash has volunteered the Hellions to rough you kids up.” The heavily bearded guild chief turned to the band of thugs gathered around the tall, icy demonkin. “Hellions, remember the level disparity between you and the new team. I don’t want ya to go easy on em, but I need them functional tomorrow, so don’t break anybody beyond repair, either.
+
+“I had Vexor merge training yards One and Two for a large-scale field-and-forest encounter. Everyone party up, grab your gear, and let’s get to it,” the korrigan captain cried out, hopping down from the small elevated stage and marching for the doors that would take the gathering to the training fields.

@@ -1,0 +1,155 @@
+148 / 63 - Dead and Debt
+
+As the specter of his old enemy closed on Joe, his friends reacted with blinding speed. An arrow and axe flashed through the shadowed body of Sir Groven. The rope dart, as well, seemed to pass effortlessly through the advancing specter. Joe heard Tezno shout, but the archon would not make it in time.
+
+Returned Champion of Hayt: Level 24: Undead (Revenant), Controller, Dexterity
+
+As the revenant drew back his hand for a killing blow, the ground trembled beneath Joe’s back. Finn plowed into the inky-skinned knight, the great clawed feet missing Joe’s prone form by inches. The chimera did not pass through the warrior, as the other attacks had, but straight into Groven. The akhlut smashed into the side of the beached vessel, hurling the undead back into the hold. Thankfully, [Hammerheaded], one of Finn’s traits, gave his head solid resistance to physical damage. The hull cracked and splintered, not the beast's noggin.
+
+While the undead villain was lost somewhere inside the ship, Joe took those precious seconds to gather his wits and act. He healed, dropping a couple hundred health into his empty life pool, yet he knew he needed more than just raw health. He could feel his heart had been skewered, and the whole right side of his vision was gone, blinded. On top of that, the wounds were festering. He could feel rot taking hold where the blades had struck.
+
+Still a little shocked, Joe took note of the combat alerts Hawking had placed at the side of his vision and instantly digested them.
+
+You have been lethally wounded by [Reaping Vengeance]
+
+You have been reduced to 0 Health. [Punching Bag] has activated. You have 8 seconds before you lose consciousness. Cooldown: 12 Hours
+
+You have been critically wounded by [Scornful Strike]
+
+Your Perillost ward has been expended
+
+You have restored 288 points of your health. Your current health is at 14%
+
+You are impaired. You have structural damage (eye, heart)
+
+Your wounds are infused with necrotic damage
+
+There was another non-combat notification at the corner of his eye, which Joe left unread as he was hovering on the brink of death. He dual-cast healing, bringing him to almost half health. Before Groven reappeared, he tried a double heal one more time.
+
+You have restored 201 points of your health. Your current health is at 52%.
+
+You have underlying structural damage and necrosis. These are preventing further healing at this time.
+
+“Of course, it is a foul monster that must safeguard the other atrocious monstrosity in our midsts,” the dark speaker hissed from inside the beached ship, his words steeped in arrogance. Even though the speech sounded as if it were echoing from beyond the grave, Joe knew that voice all too well. It had haunted his dreams. For weeks, he had had nightmares of silencing that voice with a blade through his eye, much as the shade of Sir Groven had just done to him.
+
+The knight stepped back out of the canted hull and into the dappled light of the beach. In one hand, he held a black longsword made of oozing shadows. In his other hand, it held an equally miasmic dagger that looked exactly like Joe’s old goblin knife.
+
+Joe tried to stand, but his heart was barely functioning. He tried to draw in a full breath, but he only seemed to be able to gulp a bit of air. A clammy sweat broke out across his body, bringing nausea and light-headedness with it. There was also the sensation of something trying to burrow into his brain.
+
+He tackled the decay, targeting his eye first.
+
+Your skill [Dispel Noxa] has increased to rank 11.
+
+Joe felt the disgusting sensation of his ruined eyeball slithering out of the socket before dribbling down his cheek. The disgusting remains spattered onto the ground, resembling a putrid blob of offal that had been moldering for weeks. He followed up with a second casting for his heart, breaking up much of the necrosis that was eating away at that organ.
+
+As the revenant strode forward, an aura of murk flowed off him, bringing back a halflight, similar to what had existed during the storm.
+
+You are being suppressed by [Righteous Doom]. Your abilities will be diminished or nullified
+
+You are unaffected by [Fanaticism]
+
+Those in the shadow were not so unaffected. Almost everyone else, be it guilder, soldier, or spawn, was staring at the ebon figure, fixated by his presence. Only Hah’roo and Finn were untouched by the black aura.
+
+“Hear me and know that a being of filth and peril persists amongst you. That creature is a foul abomination from beyond this world,” the inky-skinned ex-knight announced, pointing his long blade at Joe. “It seeks to corrupt your city.. Bearing the mark of Death, it will bring death to all who allow it to exist. Aid me in purging the land of the vile creature, and the gods will give thee favor,” the shadow knight commanded.
+
+The spawn of Cauldrakon, unswayed by the revenant’s rhetoric, took the opportunity to escape the troopers who had been butchering them, dashing away for the city beyond the beach.
+
+Joe looked over at his teammates and was hurt to see that his friends were now glaring at him with suspicion. Tezeno, Wen, and Kendall began to back away. Their eyes were filled with dark shadows. Even Earcellwens' emerald-jeweled irises were coated in blackness.
+
+He only had two allies left. Finn and the wildness raged together as packmates, while Hah’roo’s gale-to-zephyr oath allowed no room for Groven’s twisted bedevilment to take hold.
+
+Of course, there was no such bond with the city guilds. The members of Rattle Squad turned to face Joe, their grips tightening on their weapons. They, too, possessed eyes the color of coal. En masse, the guards took a step forward.
+
+All except one soldier in the back of the formation. He had been the healer that Joe had dropped the first [Halefire] next to; the one standing behind the aresa heavy-trooper. Though the curly-haired guardsman stood in the field of darkness, he seemed unaffected by its mind-altering magic. His eyes were clear and filled with a determined fire.
+
+“Rattler, stop! This is the guy who just brought all of us back to life,” the specialist shouted. “We are not going to listen to a follower of Hayt over a comrade in arms.”
+
+The steps of soldiers around him faltered. Joe used that hesitation to assess his one remaining Rattler ally.
+
+Axcill Cassanno: Human: Acolyte / Combat Medic 15
+
+Axcill fished out a talisman from around his neck, snapped the thong it was hanging on, and held the small relic aloft. Even though it was tiny and far away, Joe had seen that symbol plenty of times before. It was a tiny pair of flagons connected by their handles, the holy symbol of Murrcee’s brother and the patron god of Fort Coral. “Where comrades have stood together, let no god tear them asunder. Such is the will of Mairree,” Axcill cried out.
+
+There was no question that the god of merriment and camaraderie answered the medic's impassioned prayer. The holy symbol grew bright, pushing back the field of gloom issuing from the spectral warrior. As that murk was pushed off the troopers, their eyes cleared. And they looked pissed off. Those who did not shoot Joe apologetic looks, locked furious gazes on the revenant.
+
+The dreadful knight scowled at the radiant holy symbol, and Joe used that diversion to shimmy away from Groven until he, too, was out of the dark field. As soon as he felt the suppression of [Righteous Doom] lift off him, he cast [Purge] on his friends.
+
+You have removed the Beguiled affliction from Earcellwen and Kendell
+
+You have removed the Beguiled affliction from Tezeno
+
+While that trio shook off the mind-bending effect, Joe glimpsed that last lingering notification hanging in the corner of his vision. It might be nothing, but who knows, maybe it was something he could use in this dire situation. Since it only took an instant to read the alerts, he flicked the screen open and scanned it, finding a true bounty.
+
+You have been awarded an additional use of [Anyone]. This usage will have no effect on or from the ability’s traditional cooldown. This usage was incurred by Groven Suttrel.
+
+You may select one of the following traits from the Returned Champion of Hayt:
+
+This time, Joe would have no problem taking what he was owed.
+
+Before Joe was able to look over the options, Hah’roo dashed forward, firing her rope dart at the shade's forehead, only to have the pointed metal weight pass harmlessly through the figure.
+
+“You cannot harm me, weather witch. I am vengeance incarnate. Stand aside and let justice be done,” the inky black Groven bristled and advanced only to stop after a step. He looked back and found no one at his back; the troopers had not moved with him. Instead, they were glaring at him instead of Joe. “What is the matter with you all?! Can you not see that blight on the land must be eradicated? Now hear me! Kill the fey!”
+
+These words spurred the men and women of the Fort Coral guard into action, though not how the dead-knight had hoped. The entire squad rushed the revenant, hacking, stabbing, punching, and grappling. Joe’s guildmates jumped in as well. Unfortunately, their weapons and fists mostly passed through the ebon specter. Only to Joe, … and Finn, was he truly solid.
+
+Joe used the moment Groven was buried in the scrum of Guardians to look through the list of traits. Even though Hawking’s messages took no time at all to read, Joe still needed a few seconds to review and digest each of the choices he was being offered. Thankfully, he could quickly rule out almost all of them. Joe didn’t need or want almost every new trait available to him, with one huge exception.
+
+[Unliving Fortitude]: Vanquish the knell of death. You have major {Death} resistance
+
+Joe could tell that Groven’s blades were made, not of metal, but of magic, and almost surely death magic. This resistance would seriously hamper the specter’s ability to harm him. Not to mention that Joe also had a valley of ghasts and their undead king to deal with soon.
+
+There was a third benefit as well. The moment the {Death} resistance engaged, the necrotic energy that was weakening him all but fizzled out. His heart was still far from repaired, leaving him weak and sweating, but it was no longer putrefying any further.
+
+This trait was a huge boon, but Joe still needed more time, both to cleanse the existing corruption trapped in his body and to make targeted repairs to his torn heart. By constantly healing, he could somewhat keep it pumping, but not well.
+
+Too bad time was not on his side. Groven slid out from the throng of those trying to take him down, completely unscathed by all their attacks.
+
+“Very well, I will finish you off myself. It would have pleased my new master to turn your allies against you, but Merrimaker is interfering. No bother. I will enjoy this,” the arrogant noble sneered.
+
+“Everyone!” Joe wheezed as loudly as he could. “Back up. I … I … can’t fight with you all in the way.”
+
+As the mass of soldiers and his friends parted, Joe didn’t even see the first strike that lashed across his face. It was so precise that his vision went completely black as the longsword licked through his one good eye. He felt two more blows rake across his skin in an instant.
+
+Groven was incredibly fast. Far faster than he had been the first time they fought, though that was likely due to the suppression of [Decree of Combat] that the knight had invoked to keep Hah’roo out of the duel.
+
+More blows stung Joe’s flesh until a dual-voice roar and much scuffling gave him a moment of blinded reprieve. Joe healed and found that not only did he regain his half-sighted vision, but he was also back to the maximum health he could have given the current state of his damaged body. Unlike those first two lethal attacks, these last blows barely inflicted any real harm at all.
+
+Joe had definitely lifted the right trait off the ebon zealot.
+
+He saw Finn trying to bite Groven’s head off. The knight dodged and glided away, raking his necrotic blade across the chimera's flank. Unlike the guards, who had taken no more damage from Groven’s weapons than the undead had taken from them, the akhlut’s skin tore open, and Joe could see a black taint festering in the gash.
+
+Joe cast [Dispell Noxa] at the wound with [Casting Claw] and healed himself, thereby boosting the big guy’s health. He then sent his amber paw, slashing across Groven’s face to see how much he liked having his eyes attacked. He didn’t. He really didn’t like it at all. The revenant howled, slapping his hands over the torn flesh of his cheeks and forehead. Doing so, he dropped his black blades, which winked into nothingness the moment after they left his grip.
+
+“Finn! Back!” Joe huffed. “I got this.”
+
+“I WILL KILL YOU!” the enraged noble screamed, resummoning his weaponry.
+
+Groven charged and, in almost an anime-style, unleashed what seemed like a hundred strikes in a second. Joe kept his arms up, shielding his one good eye and damaged heart, riding out the barrage. He did not take the ex-knight’s blows for granted, watching for any telltale sign of a special attack, but this was one kind of fight Joe knew all too well.
+
+He had sparred with Hah’roo for weeks, and she had the same lightning quickness the revenant was employing. The styles were vastly different; the wind dancer was unpredictable, while the swordsman was surgically precise. Yet Joe had learned a few rules about fighting someone so much faster than he was: be patient, be aware, and guard your vulnerabilities.
+
+If Groven was expecting the same weakling he had faced in Peregrine Harbor, he was in for a rude surprise. Even with Joe at a fraction of his capability due to a heart that was leaking as much as it was pumping, he easily withstood the knight that was unleashing on him.
+
+{Death} resistance had to thoroughly defang the undead assailant, and Joe could heal pretty much endlessly. The [Casting Claw] was Joe’s wild card, able to attack mostly on its own.
+
+The paw was what gave him the opportunity he needed. Joe left an opening in his defences for the knight, and the seething creature took the bait. Hah’roo would have never fallen for it, but she never lost her cool. The black blade bit deeply and hurt far worse than any strike so far, except for those first two blows. Joe crumpled into the cut.
+
+Since Groven was fully focused on this powerful lunge, he missed the counterstrike coming from above. Once again, the orange talons raked across Groven’s face, this time from scalp to lips, cutting across each eye.
+
+“Payback,” Joe hissed and lunged forward while the undead fanatic was temporarily blinded. He slammed his right talons into the side of Groven’s neck. Flaring [Morphic Form], he felt the wildness build up his shoulder and waist. With that extra might, Joe ripped out the black flesh of the specter’s throat.
+
+Taking a page from Sougath, he then drove his left hand straight into the dreadful knight’s gut. Grabbing a handful of whatever necrotic organs resided there, Joe yanked back, spilling pools of inky ichor and ripping out chunks of stygian innards.
+
+The Champion of Hayt folded onto his knees, gurgling and hissing. At first, the sounds were just panic, then a dreadful purpose filled the villain’s dying expression. Joe saw purple glints weaving into the stammered, burbling intonations.
+
+Calling on his new class, Joe lashed his claws through the forming violet magic.
+
+Your skill [Curse Cleaver] has increased to rank 7.
+
+As the dark energy unravelled, Joe huffed, “No death-curse for you, asshole.”
+
+The once Sir Groven dropped onto his face; a thick, black pool oozed out from the felled fallen-one.
+
+Even though Joe was feeling pretty damn good about righting this old wrong, he was still slightly disappointed. His awesome closing line had been spoiled by its weakened gasping delivery, thanks to his still-mangled heart.
+
+Divine names translatedGod Name: Translated Word (definition)

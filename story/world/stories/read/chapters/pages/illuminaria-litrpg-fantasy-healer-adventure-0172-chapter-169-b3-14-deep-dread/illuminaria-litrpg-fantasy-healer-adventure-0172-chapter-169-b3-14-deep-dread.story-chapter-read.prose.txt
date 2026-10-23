@@ -1,0 +1,109 @@
+Chapter 169 / 14: Deep Dread
+
+Gibbous Charger: Level 25: Undead (Dirge Wight): Brute: Vigor
+
+The lead wight was nothing they had seen before.  The zombies outside the wards were frail, shuffling aberrants.  The feral hunters inside the wards were fast and cunning, most of them wolf-like, with a few other predators thrown into the mix.  The ghastly undead leading this pack was a burly, rotting giant monstrosity.
+
+Its face sported a boarish snout with tusks.  It clomped forward on cloven hooves.  Bearing shoulders the width of a linebacker, maybe with a tight end thrown in to boot.  It was too wide for the feral dead running behind the charger to get past it.  Its upper body was so heavily muscled that the beast had a hunchbacked posture. The wiry body hair did nothing to hide the necrotic gashes covering its dead flesh.  Ominous gray sparks filled its empty eyesockets.
+
+When it roared at them, Joe felt a slight quiver tickle his spine.
+
+You have resisted the Gibbous Charger’s [Dreadful Yawl].  You are not afraid.
+
+He shrugged off the fear effect with ease, but it was obvious his teammates did not have his major resistance to both {Death} and {Fear}.  Joe could [Purge] the effect, but it would take multiple castings. A better option would be to defuse the monster’s intimidation factor, thereby giving his team a better chance to shake off the terror.
+
+Having already stationed his paws down the hallway, it was easy enough for them to intercept the rushing porcine brute and make a targeted dual-cast through the [Casting Claws].
+
+Your [Dispel Noxa] has inflicted catastrophic structural damage to the Gibbous Charger’s legs. It has gained the following condition: lame
+
+Targeting both of the disjointed knees, Joe's necrosis banishing spell caused them to tear apart.  Being able to see the anatomy of his enemy was teaching Joe where best to target his attacks.
+
+The hulking fiend crashed onto its face, tangling up the following wolfish wights. Seeing the source of their fear literally taken out at the knees snapped everyone but Hah’roo from being horrified.   A quick [Purge] freed her as well.
+
+Axes and arrows, both coated with sacred oils, set the rotting wolf pack howling in agony.  The holy liquid ate into their putrid flesh like acid.
+
+Scarified Harrier: Level 21: Undead (Dirge Wight): Striker: Dexterity
+
+The leaner lupine ghasts had levels in the low twenties.  While this was higher than anyone on their squad except Hah’roo, the terrain was all in favor of Howling Voice.  Tezeno could barricade the twelve-foot-wide corridor with a one-way force wall called [Aegis of Order].  This allowed the team to shoot and strike out at the clawing cadavers from complete safety.
+
+There were only two difficulties the group encountered.  The first was Yuk’s various bite attacks were not overly effective against the undead.  They were immune to poison, and there was no good way to douse the shifting mass of insects with holy oil.  The second was the constant mental assaults the dirge wights were hurling at the group. The wolves had a stunning howl that kept knocking Joe’s teammates off balance.
+
+Your skill [Stun Block] has increased to rank 14.
+
+“The Erlking was the master of enchantment magic,” Wen remarked, threading an arrow through an empty socket and into whatever brain material these creatures still possessed. “It would make sense that undead created by him or his courtiers would have mind-affecting attacks.”
+
+“If we get overwhelmed mentally,” the sentinel intoned, “it won’t matter how well we are shielded. If they shut me down …”
+
+“I won’t let that happen,’ Joe promised.  “You will be my primary focus, and it would take quite a bit for these guys to get into my head.  I’ve got major resistance to fear, confusion, and domination, plus skills for blocking stunning attacks and increasing my mental focus.”
+
+What allowed Joe to make that promise was a passive skill the shield-bearing justicar possessed.  [Guardian’s Resolve] allowed any barrier spell that Tezeno did not actively discontinue to remain in effect for a small window of time, even if he was incapacitated in some manner.  This gave Joe five seconds to [Purge] the archon if one of the ghasts landed a stun on him.
+
+“Keep in mind level disparity, Joe,” Kenda warned.  “These guys are in their twenties.  They will have a better chance to bypass your resistance, though probably not enough unless we face a whole army.  Major {Death} resistance versus undead should counter their extra levels as long as there are not too many of them.  Then effects start stacking, and we could have a problem.”
+
+Eventually, the brutish boar-wight had dragged itself to the barricade and began hammering its mighty fists against it.  Cracks began to form on the almost transparent steel-shaded field of force.  Granted, by this point, over half the shaggy harriers had been killed … rekilled … destroyed. The remaining four wolfen dead were fading fast.  Hah’roo had added some of the sacred oil to her rope-dart and, standing just across the barricade, she was taking apart one wolf-wight after another.
+
+Joe swung his paws up the face of the hoggish bruiser.  [Dispel Noxa] caused any dead material trapped inside the crippled brute's skull to find whatever exit it could.  Gray goop and black ichor sprayed out of ears, eyesockets, nostrils, mouth, and even holes in the rotting cheeks in a disgusting expulsion. It dropped at the same time as the last of his wolf pack did.
+
+None of the savage creatures even tried to flee or rally more undead defenders.  Even when they were obviously unable to reach the guilders, they attacked Tezeno’s force wall relentlessly.
+
+“As long as we only have them from one direction, we should have the advantage,” Kendell noted.  “Does anyone need a minute before we move on?”
+
+‘We’re good to go.  Sorry, we couldn’t help more,’ Yuk sent through their mental connection.
+
+“Don’t worry about it, bud,” Joe replied.  “The fact that you can sense them coming meant we got to set up.  None of us took a scratch.  Killing them a few seconds faster pales in comparison to not getting ambushed.”
+
+‘Thanks, Joe,’ Yuk projected, and somehow these two words felt different.  As if the odd young man was speaking just to him and not the whole group.
+
+They took a moment to loot the bodies, gaining a single token from each body.  The discs were the size of a large coin crafted from the blue elemental metal, undium.  On one side of the emblem was a flower, on the other, a malformed skull.
+
+[Seal of the Blackened Bloom]  (Item: Token: Rare) This emblem enhances the {Death} and {Mind} affinities of the Erlking’s thralls.
+
+After stashing the coins in the strongest dimensional bag, which belonged to, unsurprisingly, Tez, the rest of the team confirmed they too were ready to head deeper.  They set off again, following the descending passage.
+
+After a long twenty-minute descent, the curving route finally ended. For once, the space ahead was not dressed stone construction. An attempt had been made to widen and smooth a large fissure in the wall into something more door-like. The sides were initially straight, but after a foot or so, the crack opened up into a massive pitch-black grotto.
+
+Tezeno extinguished his [Golden Guide] before its light gave away their position. While putting out the light was tactically sound, unfortunately, this left half of the party blinded. Kendell, thanks to her [Deeprealm Goggles], could still see perfectly well, and Yuk and Tezeno had senses that allowed them to perceive either movement or deviations. Hah’roo, Wen, and Joe's enhanced night-vision, on the other hand, was useless without even a glimmer of light to work with.
+
+The only saving grace was that, far in the distance, was a cluster of minuscule pinpricks of light. This gave the team an idea of just how huge this space was.  These did nothing to help the trio see even the ground under their feet, but at least the distant motes were something to focus on. Having even those tiny visual cues was far better than the ominously oppressive nature of complete darkness.
+
+‘Anyone have any ideas?’ Tez thought to the team. ‘If I make light, then we’ll give ourselves away, but without it, we’re pretty helpless. What do you see, Kenda?’
+
+‘The cavern is huge. At least seventy-five feet across and hundreds of feet long. The ceiling is almost a hundred feet up. I can see several more openings cut into the walls. Many of them are on the floor level, but some are up on the walls with ramps leading from the floor up to them. It's hard to tell for sure, but I think there are some that head downward from this floor, too.’
+
+Her voice through Yuk’s mental connection sounded cautious but thankfully not overly worried. Joe could not see her face in the smothering dark, but he pictured it with her brow furrowed, her lively eyes intent on the problem.
+
+‘That lit-up area seems to have something built there,’ she added, ‘but there are a bunch of boulders blocking my line of sight. I can only see glimpses of it from here. It feels important to be built here in this huge cavern. I could lead you guys closer if you want.’
+
+‘We could go look,’ Yuk offered. ‘There are thousands of centipedes and trilobites here. Doubt anyone would notice a few more. We’ll leave a portion of ourselves on Joe so we can recall our consciousness if we have to leave the scouting part of us behind.’
+
+‘That works,’ Hah’roo responded through the link. ‘What will that do to our communications?’
+
+‘We would have to drop the group link.  Can’t keep it over that large of a distance.  We could stay connected to one person for most of the way there.  It’s pretty far, probably not all the way.’
+
+“Let’s do that,” Earcellwen whispered. “If Kendell leads us, the rest of us can find a spot to wait in while Yuk scouts.”
+
+‘It will take a while. We’re not fast,’ the collective guilder admitted.
+
+‘No worries, Yuk. We are not on a timetable,’ Kendell communicated via the link. ‘I can see a good spot for us. I have a camouflage tarp that will mask our presence.  We’ll cover a cluster of boulders and make a little hideyhole where we could have some light.’
+
+‘Then we’re off.  Breaking the bond now.’
+
+Joe felt his connection to the others dissolve, even though he still maintained his link to Yuk. No one seemed surprised that Joe was the one Yuk picked to stay in touch with.  A moment later, he heard the whirling of wings and felt most of his chitinous riders scurry down his body and move away.
+
+Crouched in the heavy darkness, Joe felt a wriggle of fear creep through him.  This was not {Fear}, an external effect his resistance would block, but his own sense of self-doubt and worry, not something the magic defense could do anything about.  So far, the fights had been brutal but manageable; they had the Hellions with them outside the pyramid, and in the one fight inside the structure, they had an overwhelming advantage.
+
+Here in the oppressive gloom of the vast cave, Joe was not so certain things were going to stay this easy.  It suddenly dawned on him that he or one of his friends could die down here.  He had known this fact cerebrally already, but it had not sunk home until now.  Until now, Joe had been seeing this excursion as an adventure, yet now he knew it was all too real.  There were brutal monsters down here with them, possibly hundreds, maybe even thousands.  If given the chance, they would murder every last one of them.  Maybe worse, turning the six of them into more undead thralls of the Erlking, trapping them in decaying bodies … forever.
+
+Just as Joe’s thoughts were about to spiral completely out of control, he received a terrible blessing.  Tezeno, who was being led by Kendell with Wen to the spot the skill-savant had located, swore just loudly enough for the group to hear.   Whatever had happened sounded bad, but the imminence of danger snapped Joe out of his internal panic, giving him something tangible to lock onto.
+
+“We tripped something,” the archon’s voice droned quietly from the darkness.  “I think it was a magical alarm.  There was a flicker of ordered magic at our feet, but it was very faint.  Maybe it had degraded enough not to have gone far.”
+
+“Dude,” Joe groaned, facepalming.  “Why would you jinx us like …”
+
+Echoing howls began to reverberate around the cavern, while the far-off glows began to grow brighter as if fire were being stoked or more torches lit.
+
+“That,” Joe finished, swiping a hand down his face.
+
+His heart sped up.  At first, just from dread, until the wildness shoved much of those debilitating thoughts to the side.  A fierce protectiveness took the place of the cold terror.  ‘This is our pack; we will not let it fall,’ the bestial id wordlessly growled inside their gut.
+
+Joe’s hands tensed, baring the vicious claws he was suddenly very grateful for.  As one with the wildness, they readied themselves for whatever dire force was shrieking its way towards them through the dark.

@@ -1,0 +1,163 @@
+Chapter 172 / 17: That’s One Way to Do It
+
+Teeth and claws were everywhere. The wolf's hood protected his upper body and much of his head. Even so, talons found gaps around the pelt or tore into his legs. As bad as these corrupting lashes were, by far, the worst was the long claw that lanced through his eyelid and burst the orb below. The sickening pain was almost more unbearable than what Sougath had done to him.
+
+Joe poured healing into himself, reknitting dozens of wounds, again and again. Yet he was trapped. With undead bodies blocking his one good eye, he couldn’t lock his sight onto any place to teleport to out of the jumble of attackers. He could push with [Heavy Hand], but it lacked the force needed to move the mass of bodies bearing down on him. His only thought was maybe if he got bigger, he’d be able to muscle his way out of the stinking, slashing scrum enough to get a view of anywhere else. Just as he was about to activate his [Alchemy Belt] for the [Infusion of Ogre Size], a voice spoke in his head.
+
+‘Joe. They’re gone. We need you to keep healing as much as you can on our command,’ demanded Yuk.
+
+‘What are you still doing here?’
+
+‘SHUT UP, JOE! Just do it! Ready. Set. HEAL!’
+
+Joe did, and, half a second later, an explosion rocked through everything around him. It was so loud his eardrums burst. The scores of bodies clawing at him turned into shields against the blast. Ghouls and even a few mummies were torn into meaty chunks. Many of the flying bone fragments ripped into both Joe and the remaining dead.
+
+Yuk’s [Bug Bomb] has critically injured you. You have lost 1639 points of Health.
+
+You have resisted being incapacitated by traumatic damage.
+
+You have severe structural damage. You are {Maimed}.
+
+Your skill [Stun Block] has increased to rank 15.
+
+‘now. teleport now.’ creaked a tiny voice in Joe’s mind.
+
+With his one good eye, Joe locked his sight on the ceiling of the tunnel opening he had just fought from. As soon as he had a fix on it, he activated the medallion. Joe appeared upside-down, with his feet on the tunnel’s roof, before he tumbled onto the ground below, landing on his hide-covered head. Hitting the ground on his head hurt, but that small ache was lost in the ocean of agony that was easily overloading the {Pain} reduction he was getting from [Vanguard's Diadem]. Everything hurt.
+
+Joe healed and ran, diving through the twisting tunnel. As soon as he hit true darkness, he dropped a [Halefire] and then activated one of his guild-given [Glowstones], a minor item that gave off a directionless bloom of light. He left the phoenix fire behind him, hopefully to slow pursuit and set the stone to just enough light for his [Night Eyes] skill to function.
+
+His body was badly broken, but he pushed every skill he could muster into his flight. [Hunter’s Pursuit] gave him speed. [Steadfast] kept him on his feet. [Morphic Form] allowed him to squeeze through cracks. [Savage Claws] allowed him to scale up chimneys of stone. [Crystal Mind] kept his brain going when it very badly wanted to just curl into a ball and hide from the pain.
+
+You have restored 247 points of your lost health. Your current health is at 793. You have underlying conditions and structural damage preventing any further healing at this time.
+
+[Wellspring] has healed the [Hide of Hunter] for 27 points of Health. Its current health is at 84.
+
+The strangest thing was, behind all the pain was an inexplicably warm sense of bubbling joy. Even with his body more broken than whole and pursued by an unknown number of ghastly hunters, Joe was tingling with an expectant jubilation.
+
+Finally, he could run no further. He had scuttled down a long passage that terminated in a dead end. There were at least a dozen ravenous predators not far behind him. He teleported two of his obsidian stones from his [Bullet Bag] into his hands and began charging a dual [Grit Razor].
+
+This might be his last fight, but he damn well planned to take as many of the rotting bastards with him as he could.
+
+By the light of the [Glowstone], he saw the hunting pack closing on his location. Counting the steps down, Joe unleashed both fully charged spells the moment enough wights crossed into medium range. The shards tore through the pack of decayed flesh, dropping the entire front line.
+
+As they fell, Joe’s euphoria burst into a kaleidoscope of sound and light just for him. Wellness flowed through his body, from his head to his toes.
+
+You have reached level 16. You have gained 1 unassigned attribute point and a choice of an uncommon attribute trait and skill.
+
+By leveling, you have repaired much of your structural damage and have downgraded the {Maimed} condition to {Impaired}.
+
+Suddenly, Joe’s hearing returned. He stood up straight, facing the remaining cluster of ghasts. His depth perception still seemed a little wonky, so his eye was not quite fixed yet. Other than a few remaining broken ribs from Yuk’s detonation, he felt amazing.
+
+He curled his taloned hands out at his sides.
+
+“My turn!” Joe growled before completely letting the wildness run free.
+
+Magic at a distance might have been the smarter way to tackle the remaining five wights, but Joe was too full of fury not to take the more therapeutically aggressive approach. He launched himself at the first lupine wight, using [Swift Strike] to drive his right clawed hand into the corpse's throat. Firing off a [Dispel Noxa] was disgusting but effective, basically decapitating the rotting creature.
+
+[Heavy Hand] smacked an arrow from the air, and Joe willed his paws to deal with the weaselly archer. He tossed a pair of [Halefires] behind the four, not wanting them to run away or for more ghasts to join this small skirmish. A vulture hurled a caustic spray of acid at Joe before he could activate [Grimoiriguard]. Thankfully, [Sidestep] allowed him to slide out of the way of most of the acrid attack.
+
+Being too busy to deal with numbers, Joe had Hawking throw in percentages to help him keep track of his health.
+
+The Carrion Canter’s [Scathing Stream] has injured you. You have lost 279 (12%) points of Health. You are at 1723 Health (74%)
+
+‘Ok. Vultures are bad. That barely hit me, and it chewed off more than ten percent of my Health. A full hit could put me in real trouble,’ Joe realized. [Grimoiriguard] snapped into existence, while Joe parried and dodged the attacks from the last two wolfish harriers. He knew the [Hide of the Hunter] was in worse shape than he was and so left it off the shield. It hung from his shoulders like a tattered poncho. Joe dropped a [Bonemail] on the pelt to reinforce its ragged structural integrity.
+
+Joe used [Hunter’s Pursuit] to slide between the melee attackers and blasted them both point-blank with his most effective curse. Their chest tore open, spraying necrotic tissue. Joe was splattered by rot, but at this point, he really couldn’t get any more covered than he already was. Yuk’s [Bug Bomb] had completely saturated him with dead flesh and fluids.
+
+Blocking a second acid stream with his shield, Joe hurled [Rattlebones] at the canter to keep it distracted long enough for his claws to finish off the ghoulish wolves.
+
+As he tore apart the vulture and his [Casting Claws] finished off the archer, Joe noted that one of the factors in his favor was that the five undead had been splitting their focus between their utterly useless mental attacks and the physical and magical ones. Had they known how unlikely it was that they were going to stun, scare, confuse, or control him, he might have had a harder time if they had just gone all out with their non-mental abilities.
+
+But they hadn't, and so he stood victorious. He was still a wreck: his armor was in tatters, he hurt everywhere, his enervation level had risen again, but he was a winning wreck, and at the moment, that was all that mattered.
+
+Well, almost all.
+
+‘Hey. You still with me, Bud?’
+
+‘barely. spent almost everything on that blast,’  a tiny telepathic voice replied.
+
+‘Ok. Give me a sec, and I’ll see what I can do for you.’
+
+Joe opened the party screen and found only two entries. He guessed the distance between them and the others was too great to maintain the party. Looking at the info shocked Joe. Yuk’s numbers made no sense. Their maximums were a fraction of what they had been a few minutes ago.
+
+P
+
+A
+
+R
+
+T
+
+Y
+
+Name
+
+Level
+
+Health
+
+Stamina
+
+Mana
+
+Yuk
+
+?
+
+34
+
+▌▌▌▌▌▌▌▌▌▌
+
+2
+
+▌▌▌▌▌▌▌▌▌▌
+
+37
+
+▌▌▌▌▌▌▌▌▌▌
+
+Conditions
+
+Maimed: {Diminished}, Fatigue: 7x {Enfeebled}
+
+Joe
+
+16
+
+1723
+
+▌▌▌▌▌▌▌▌▌▌
+
+2940
+
+▌▌▌▌▌▌▌▌▌▌
+
+5858
+
+▌▌▌▌▌▌▌▌▌▌
+
+Conditions
+
+Impaired: {Partial Blindness}
+
+Thanks to his timely leveling, Joe was in much better shape than he should be. All of his pools had refilled, and his enervation and fatigue had vanished. It was Yuk’s numbers that made no sense. How could he have only thirty-something points of health and yet be over 85%? Same with his mana. Joe vaguely remembered Yuk had over a thousand mana when they were skirmishing with the Hellions.
+
+‘What happened to you? Did you actually spend your Vigor and Spirit on that explosion?’
+
+‘sort of. weird race. we have max attributes, but the more of us we lose, the lower our attributes get.’
+
+‘Oh, man! Last time, you said you needed stamina. That I can fix.’ Joe looked at his shoulders and arms, but there was not a single bug in sight. ‘Where are you?’
+
+Joe felt a tickling on the back of his hand as two small insects crawled out of the thick pelt covering his arms. One was a minuscule black dot. The other was a tiny millipede no thicker than a thread.
+
+“That’s it? That’s all that’s left of you? Geez! You cut that close.” Joe sputtered out loud as he cast [Effereous Endurance] on Yuk’s infinitesimal remains.
+
+‘those were the only ones we could get under your hide. besides the tick. the rest were either still on the others or were needed for our [bug bomb].’
+
+“That was an insane blast. You saved us.” Joe watched the bug mage’s stamina fluctuate as new vermin began to scamper toward Joe’s feet. “Hey. Any chance you can not rebuild on top of me? I’ve got some issues of my own that need to be addressed. You summoning the mini horde on me is a bit distracting.”
+
+Joe received a quiet mental grunt of assent before he slid down the wall. Leaning against the stone, he took stock of himself.
+
+‘What a mess.’
+
+He had several broken ribs from the explosion. His clothing, armor, and the hide were in tatters. One eye was completely ruined, and he felt sick to his stomach. Joe wasn’t yet sure if the bile churning through his gut was from general trauma, injuries, or the fact that he and Yuk were now lost and alone, deep underground in the undead haunted lair of a corrupted Fey king.

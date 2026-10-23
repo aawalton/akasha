@@ -1,0 +1,107 @@
+140 / 55 - Thunder Ball
+
+Tusked Tarz has severely injured you. You have lost 43% of your Health.
+
+You have gained the following conditions: dazed, paralyzed (seizing), and poisoned.
+
+The wound, filled with the manticore’s toxin, couldn’t have been in a worse spot. Even if Joe somehow managed to get his flailing limbs working again, it was right in the middle of his back, a spot he would be hard-pressed to reach even in the best of circumstances.
+
+Joe knew he didn’t have to use his hands to cast his spells, especially on himself; any part of his body would work. The problem was that the pain was so intense that it was making it impossible for him to focus. If he could see the wound or be able to touch it, he would have an easier time targeting his magic. Yet in that moment, it seemed like every muscle in his body was simultaneously contracting themselves into agonizing knots. There was just too much suffering everywhere at once. He might as well not have been wearing the [Vanguard's Diadem], which gave him {Pain} resistance.
+
+He focused his attention inward, trying to latch onto one thing, anything other than the agony he was enduring. He sought out his heart first. And failed. There were just too many sensations tearing through his body for him to hear his heartbeat. In these crazy conditions, Joe needed something obvious. He thought about trying to flex a muscle in his back, but between the convulsions and the erratic flight, that was impossible as well. Joe could barely catch a breath, let alone …
+
+Breath. Breathe. He could breathe. In fact, he was panting heavily.
+
+Joe pulled in a huge gulp of air and cast [Dispel Noxa] down his throat, which was a location that was easy for him to target. As the air rushed down into his lungs and then mixed with his blood, the witchy magic shoved the caustic toxins outwards like a horde of mini-bulldozers plowing through his veins. Joe gasped and cast again and again. He knew he was causing himself to hyperventilate, but feeling lightheaded was a minuscule distraction compared to the toxic torment he was driving out of his bloodstream. Joe could feel fluid and pus spurt out of the hole in his back, running down under his gambeson and pooling at his waist, where his belt was trapping the putrescence.
+
+As more and more of the toxins were driven out through the huge hole between his shoulder blades or out to his extremities, Joe was slowly able to regain control of himself. He added a heal and a [Purge] to the poison dispelling, to regain his lost health and clear his thoughts.
+
+Being careful not to give away that he was regaining health instead of dying, Joe pretended to thrash a bit more before letting his body go limp. He hoped that was the right mummery, that a person would pass out or die and not thrash to the last minute. There was no way he was going to keep throwing himself around while Tarz’s claws were embedded in his body.
+
+When there were only minute traces of the poison left in his system, Joe began to plan for Step Two, escaping the clawed grapple he was in. They were too high for Joe to lock onto anything below him. That meant that Step Three would require some quick thinking since once he was free of Tarz, he was going to have to deal with gravity. Escaping this divinely-imposed assault would be pretty pointless if he ended up pancaking onto the streets below.
+
+Joe kicked himself for not buying a Feather Fall item or learning the ward for it. It was one of the staple items he made sure every one of his characters had, and yet he had failed to grab one in this new life. Perillost might save him from such an impact, but what if he hit more than once, clipping a building and then crashing into the ground below? Counting on his newest ward to save him seemed like a risky gamble.
+
+He surreptitiously looked upward and could clearly see the mantacore’s chest. That meant he could teleport to it, but he doubted that jump was far enough. Looking back, he spotted the long, barbed tail. It would be far enough away to get him out of the tiger-like claws holding him. Of course, teleporting to it would just result in him falling out of the sky. He needed something more.
+
+Joe had one tool that would do the trick, but, of course, it was the one he had not practiced with yet. He felt creepy about messing with other beings’ minds, and so [Mesmeric Command] was still only at four ranks.
+
+[Mesmeric Command] - Uncommon - Spirit: By overwhelming a target’s mental resistance, you can force it to obey your commands. The target will not obey an obviously self-destructive order, but it can be compelled to perform actions that conflict with its own self-interests. Cost: Major Mana | Cooldown: Moderate | Range: Medium. {Domination}
+
+If he could successfully land the spell, he could get the feral hunter to just put him down somewhere. Even in this storm, anywhere was better than in its talons and/or tumbling hundreds of feet to the ground.
+
+If it didn't work, though, Tarz would likely tear him apart midair. Which meant he had to be ready to teleport and have some plan to survive the fall.
+
+Joe mentally flipped through his relatively small list of items until the wildness pushed Joe’s attention toward one item in particular, the [Hide of the Hunter]. The shaggy cowl tightened around Joe’s head for a second as his inner feral spirit grumbled. It wanted the protection of the hide everywhere, possibly recalling how invulnerable Sougath had been in werewolf form.
+
+While Joe didn’t think a tight skinsuit would save him, the insanely versatile hide might be their ace in the hole in this instance. He could spread it out. The hurricane would demolish a parachute, but what about a bubble? Joe had an image of those weird inflatable zorbing balls that people rolled down hills in. That might work. Especially since the hide had a good level of damage reduction built into it.
+
+[Hide of the Night Hunter] (Item: Soulbound - Epic): This remnant of the Night Skinner retains many of its lycanthropic properties: • Self-Repair (Median), • Damage Resistance Physical (Median), • Vulnerability to Silver (Major), • Morphic: The hide can grow and shrink in size from 1x1 to 15x15 feet. It can alter its shape into forms ranging from a simple wall-hanging to complex clothing.• Feral Instincts: The hide retains its original hunger. Anything placed within its jaws will cause them to bite down, syphoning moderate damage into repairs and grappling the item until commanded by you to release. {Moon}
+
+Because it was protecting his head, Joe had given the pelt Thickhide before they left the guildhouse. Having increased the protection to major physical damage resistance could only help if he were forced to use this unorthodox backup plan.
+
+Joe cleared his thoughts and fired up [Crystal Mind]. When his focus was as sharp as he could make it in this chaotic state of affairs, he summoned a casting claw to get Tarz to look in his direction. The beast complied, bearing its fangs when it saw that Joe was not dead or unconscious but alert and waiting.
+
+As soon as their eyes met, Joe demanded, “Put me down on the ground safely, Tarz!”
+
+Your skill [Mesmeric Command] has increased to rank 5.
+
+It worked!
+
+Tusked Tarz might be an elite, level thirty-four monster, but Joe was now certain its Spirit was nowhere near as good as his was. The manticore banked downward, carrying Joe with it. Joe could feel the creature trying to break free of his metal control, but he wouldn’t let it. Joe locked his focus onto the mesmeric skill and held tight, drawing on the razor-sharp clarity of [Crystal Mind].
+
+If they had just been airborne, this would have worked. But they were airborne in the middle of a typhoon. The moment Tarz moved out of the ribbon of navigable air it had been following, the winds hammered into them. The pair was flipped upside down and spun. Joe felt the chimera’s claws tearing through his flesh. The domination spell shattered, leaving Joe with no choice but to resort to Plan B.
+
+As the fetid jaws curled downward, aiming to bite his head off, Joe locked his eyes on the base of the lashing tail and teleported out of the monster’s talons. As he appeared, upside-down, he tried to kick the brute in the balls, but missed as he instantly fell away into the night sky.
+
+Joe willed the hood over his head to open its jaws. As soon as it did, he jammed his hand between them and compelled them to bite down. With his wrist as the anchor point, he directed the hide to flow over his whole body.
+
+When he was fully enveloped, Joe started to push out the sphere’s walls. Once he had the beginnings of a bubble, his momentum completely changed. The whole contraption slewed sideways, with Joe tumbling around inside. This, of course, caused the jaws to saw into his wrist. Luckily, Joe had multiple layers of defense going; his hands had natural damage resistance, as well as his gambeson, which had a Thickhide ward on it. Joe quickly added [Bonemail] as well, which reduced the grinding teeth from being abrasive to just being painful.
+
+He expanded the ball further, and suddenly the whole contraption turned itself into a carnival ride. Not a sedate merry-go-round. This was a Gravitron. A Gravitron on steroids. The ball started to whirl around so quickly that Joe's feet left the surface of the hide. He was hanging horizontally in the air, attached in place only by his arm.
+
+Joe felt like his wrist was about to be sawed off, resistances be damned, and so willed the jaws to release. This caused him to be thrown around the small ball of werewolf skin like a pinball, but at least it kept him in one piece.
+
+You are impaired. You have gained the following conditions: nausea and vertigo.
+
+Joe stretched his arms and legs out fully, digging in with his heels and fists so as not to punch a claw through his bubble. The hide had a ton of resistance, but he didn’t want to take a chance. It took all of Joe’s [Morphic Form] enhanced strength to stay in place.
+
+Your skill [Morphic Form] has increased to rank 18
+
+The ball was still spinning, but at least he was not tumbling out of control inside it. Using [Purge] on the dizziness, he removed the feeling he was about to throw up, allowing him to concentrate. The ball needed to be bigger, and he needed to be anchored in the middle of it.
+
+The fact that he was being dragged by the winds sideways instead of falling meant he should have much more time than if he were dropping out of the sky. It also meant he might no longer be over the city anymore. He might be somewhere out in the southern hills or over the ocean.
+
+Joe focused on his zorbing orb. He commanded the sinews to begin to crisscross the open area. He’d eventually work them into a harness, but he wanted to ensure the whole thing didn’t just collapse first. When he had a dense web built, Joe grabbed hold of a handful of the tendons and willed the orb to expand.
+
+As soon as the ball’s diameter grew another foot, Joe could feel the air pushing on the wall of the orb. He reinforced the bungy-like sinews, keeping them all as tight as bowstrings. He also kept an eye out for leaks. He remembered seeing on the web that most zorbing orbs were segmented, like oranges. This would be far more stable, but it would use more material. Joe calculated out a fifteen-by-fifteen square into the area of a sphere and came up with roughly eight and a half feet across. That felt like a good cushion. The math to how much material he would need for segments was not something he could do without pen and paper … and definitely not hurling through the sky in a spinning, furred ball.
+
+Your skill [Purge] has increased to rank 23
+
+His stomach was settled again. He had to do something about the spinning. It was making it impossible to think straight. Joe focused on the wolf's head and pushed it out through the wall of the orb. He kept extending the skin, pushing the head away on a lengthening tube of hide, like the tail of a kite. The plan quickly proved to be a success. The winds were still tossing the bubble around, but the drag from the tethered head stopped the ball from twirling like a top. With the web of sinew, Joe could even hold himself roughly in place.
+
+As Joe was trying to think what to do next, his life-bubble suddenly plunged downward. Joe had just managed to orient himself, so he was not ready for the abrupt descent. He was afraid that this was it, that he was about to smash into the ground. A second later, the sphere slewed sideways again.
+
+‘What the hell was that?’ he thought.
+
+Joe knew very little about weather or meteorology. The only thing he could think of was warm air rises and cold air sinks. So, maybe he just hit a spot of cold air. That could mean he was over the ocean. The hot days would have heated the land up more than the ocean. He recalled that most hurricanes formed in the summer months, so warm water must be part of the equation. Still, he was feeling confident in his assumption. It might be his only shot at not being splattered across the hard earth.
+
+He had no idea if the hide would even save him. Also, who knows where he’d end up if he stayed in the orb? Typhoons were hundreds of miles wide.
+
+Joe prayed he was not making a huge mistake. He willed the bottom of the ball to open into a tiny porthole, hoping he would be able to seal it quickly if he was wrong.
+
+The good news was, his guess was spot on. He looked down to see walls of gigantic churning waves rising and folding a hundred feet below him. The bad news was, opening the orb destabilized the construct. The fur collapsed tightly around him as Joe and the skin dropped out of the sky.
+
+He tried to reform his zorbing bubble, but there was not enough time. As the hole closed, the ocean seemed to race up at him, though it was actually him plummeting down to meet it.
+
+The impact jarred every bone in his body, but he sensed the hide absorbed most of the collision.
+
+Your Hide of the Hunter has taken critical damage. It has lost 94% of its structural resilience.
+
+You have taken severe damage from falling. You have lost 72% of your Hit Points.
+
+You have gained the following condition: broken leg (left tibia and fibula).
+
+Joe had felt the bones snap as he and the shaggy mass of flesh slammed into the ocean. The only thing that likely saved them was that they were not hitting a flat surface of still water but slicing diagonally into massive moving waves.
+
+As the heavy sodden hide dragged them down, Joe barely had time to grab a small breath before the ocean rushed in to fill the fold he was trapped in.

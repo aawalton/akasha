@@ -1,0 +1,179 @@
+Chapter 171 / 16: Get Out
+
+Dealing with the first wave of ghouls began much like the encounter at the bottom of the downward curving passage; Tezeno erected his one-way [Aegis of Order], which blocked their physical and magical attacks, yet allowed the Howling Voice members to attack through it. The biggest differences were, one, there were just so many more of them, and two, the lupine harriers and boarish chargers were supplemented with two more breeds of Dirge Wights.
+
+Carrion Canter: Level 22: Undead (Dirge Wight): Controller: Spirit
+
+Grievous Creeper: Level 20: Undead (Dirge Wight): Artillery: Perception
+
+These two forms hung back, launching missiles at Tezeno’s barricade. The creepers were rotting weasel-like archers, who posed almost no threat at the moment. Their arrows broke harmlessly against the force barrier. They too had a mental attack, [Way Lost Woe], which caused anyone affected to become disoriented.
+
+Joe’s [Iron Mind] repelled this confusion, as it did for the second set of new mental attacks as well.
+
+The Carrion Canters were putrid anthropomorphic vultures. They used an attack called [Broken Will], which was a domination effect. Mind Control. They also hurled magical energy bolts, which ate into the archon’s forcewall far more than any of the physical attacks had done so far.
+
+With so many more undead and new attacks that required Tez’s full concentration, the team tried out a new formation. One that put Joe front and center since he was the only one who was able to face all four categories of mental attacks: Fear, Confusion, Domination, and Stun.
+
+[Iron Mind] You have major resistance against Domination and Confusion effects.
+
+[Undaunted] You have major resistance against Fear effects.
+
+[Stun Block] - Uncommon - Vigor: This skill provides you with moderate mental resistance against {Paralysis}, {Shock}, and {Stun} effects. The degree of resistance increases for each skill rank you have with this skill. Cost: Passive Moderate Stamina. {Mettle}
+
+Joe stood just inside the steel-shaded force barrier. He kept the [Grimoiriguard] shield in front of his face. It was uncovered by the hide for now, since Joe wanted to be able to see through the summoned buckler, and physical attacks were Tezeno’s problem.
+
+Tez and the rest of the team were hidden further back. Wen had invoked one of her camouflage spells, [Screen of Leaves]. Anyone behind Joe was almost completely obscured by mottled shadows that resembled the underbrush of a dark forest. Here in the cave, the illusion wouldn’t fool anyone into thinking there was some random innocent bush down here in the underground lair. That wasn’t its purpose. It broke the line of sight from the monsters to the rest of Howling Voice. The team could shoot and see out, but the wights were blocked from both.
+
+Without having to constantly [Purge], Joe was free to go on the offensive. His curses, mostly [Rattlebones] and, of course, [Dispel Noxa], were causing chaos and destruction. Blasts of [Grit Razor] decimated the cadaverous wights. Additionally, the dual [Halefire] spells had an overlapping field on the incline leading to the cave, weakening the wolf and boar wights who were attacking the force wall.
+
+Even though he was resistant and shielded from the mental attacks, they started adding up over time. He would feel a shiver or a tiny bit of dizziness, which let him know he had been brushed by something almost fully averted; maybe ninety-five percent of a mental assault was blocked. That still left five percent. If another such attack landed right after the first, it would hit Joe at 105% intensity. Once he started to feel a bit woozy, he’d [Purge] the lingering effects away, only to have them start stacking up again.
+
+He was not making much headway, and the towering bearish Mournful Thralls were almost to the bottom of the ramp that led to their cave.
+
+“How’re we doing, guys?’ he appealed, as one of Wen’s arrows flashed past him to skewer a buzzard-esque spellcaster. “Those mummies are almost to the bottom of the ramp. We want out of here before they get to us. Where I come from, mummy rot is really bad.” At least it was in the games he had played.
+
+“The beacon is on. Hah’roo is watching it,” Kendell informed, punctuating her statement with a hurled tomahawk.
+
+‘It better be soon. We can feel them moving around in the passages beside and below us. We have time to move still, but the net is closing around us.’
+
+The first of the ursine mummies reached the back of the pack. The tall, oily undead exuded an aura that drove the ghouls even wilder than normal. The wolves were actually breaking their clawed hands as they tore at the barrier.
+
+Joe could hear Tez panting behind him. He checked the party status window and saw the sentinel had the {Exhausted} condition. It was not that he was out of stamina; Joe was refilling him pretty much as fast as the justicar spent the resource. It was the constant expenditure that was beating him down. More than anyone, Tez had been burning through his pools to keep the undead from overwhelming the team.
+
+As Joe exploded one of the gangly, rotting attackers off the ramp, he sensed a spell wash over his team. This was a fear effect, but it was magnitudes more powerful than what the tusked chargers had been throwing around. Tezeno's weary breathing turned into panicked gasps.
+
+P
+
+A
+
+R
+
+T
+
+Y
+
+Name
+
+Level
+
+Conditions
+
+Earcellwen
+
+15
+
+Fear: 4x {Cowering/Panicked}
+
+Hah'roo
+
+24
+
+Fear: 2x {Shaken}
+
+Kendell
+
+18
+
+Fear: 3x {Frightened}
+
+Tezeno
+
+18
+
+Fear: 3x {Frightened}, Fatigue: 4x {Exhausted}
+
+Yuk
+
+?
+
+Fear: 1x {Uneasy}
+
+Joe
+
+15
+
+Enervation: 2x {Sapped}
+
+Looking over his shoulder, Joe could see the effect the spell was having on his teammate. Tezeno’s movements were becoming slow and shaky. His angular eyes were wide open, and sweat began to drip down his face. The grayish shielding at the front of the cave entrance flickered, and Joe saw the tips on the ghoulish claws begin to poke through the force wall.
+
+Looking down, Joe could see the bearlike Mournful Thralls staring at them. The effect seemed to redouble as more of the decaying bear-like creatures joined the casting. Even through the major fear resistance provided by [Undaunted], Joe found himself feeling uneasy. The rest of the group was quickly moving toward panicking. Wen looked close to having a heart attack.
+
+Four hours was a very long cooldown, but Joe couldn't wait any longer; he activated [Baying Banneret]. A fierce exaltation blasted away from him. Somehow, the sounds of ethereal hunting horns echoed through the air around them. He felt connected to his packmates in a way he hadn’t been a moment ago. Yuk’s telepathic bond linked their minds, but [Baying Banneret] joined their souls.
+
+The fear levels vanished from Yuk and Hah’roo, while Kendell and Tezeno moved down to just shaken. Poor Wen seemed to have the worst fear resistance and was still struggling to deal with the terror that had overwhelmed her. Her camouflage screen vanished, exposing all of Howling Voice to the undead marauders.
+
+The archer and Tez received Joe’s first dual-cast [Purge]. Hers was to keep her from bolting off into the darkness while he needed the archon to reaffirm his barrier.
+
+Yet now that they were all exposed, the mental attacks began targeting each member of the squad. The hulking oily bear-beasts seemed to alternate between empowering their brethren and dropping area effects on the guilders. Joe could barely keep up cleaning his friends, let alone use any of his offensive abilities.
+
+Your excessive mana expenditure has increased your Enervation level. You are now {Drained 3x}
+
+Everything was costing mana: [Purge], [Crystal Mind], [Grimoiriguard], [Dispel Noxa], and most of all his [Halefires] were chewing through his pool. Joe didn't want to chance turning off the flaming spells, but they, more than anything, were eating mana at a prodigious rate. He paid a small bite of mana for each undead damaged, but there were so many packing up against Tezeno’s shield that Joe felt like he had attached his mana pool to a fire hose.
+
+He needed a second to rally the team and recover, and he had to do it without burning through too much more mana. The Mournful Thralls had too much health to kill easily, so he opted for the next best thing and fired off volleys of dual-cast [Rattlebones]. He nailed each of the six bandage-wrapped bears on the ramp in three quick castings, causing them to roar and flail around. One even fell backwards and rolled through the wights behind it.
+
+This gave him the moment he needed to stop his allies from fleeing in terror, wandering off in a daze, or losing focus to stuns.
+
+“This is getting bad!” he bellowed as loudly as he could. “How much longer?”
+
+“Huh? Oh? Oh, Shit!” the skill savant exclaimed from behind Joe as she roused her addled thoughts from the mind-bending assaults. “Hah’roo? The beacon?” After a brief pause, she yipped, “The spark is brighter. Vexor must be homing in on us. Almost, Joe. What do you need?”
+
+“I’m mana burnt,” he groaned, making up a label for how he felt. Enervation seemed to be the official term, but he didn’t have the time to utter anything but his gut feeling.
+
+“I have you,” Hah’roo breathed, just a second before she jabbed a sharp needle into his leg.
+
+“OW!”
+
+The [Mage Tonic] administered to you has reduced your Enervation level. You are now {Waned 1x}
+
+“I assumed sooner or later you would enervate yourself,” the galeling declared in her breathy voice. “I picked this up for just such an occasion as this.”
+
+“Nice! Stab warning would have been awesome, but that’s so much better.” Joe’s mind was clearer. He began firing off spells with far greater precision and penetration. Even [Rattlebone], which was stamina-based, benefited from Joe’s lower enervation level and greater clarity. “We need Wen’s screen back up, or you guys need to get out of sight. I can’t tank and clean against this many at the same time.”
+
+A tempest of insects manifested in front of the barrier, as Yuk’s [Biting Vortex] both blocked the line of sight to the party and began shredding the wights at the wall.
+
+‘Sweet! Thanks, bud!’ Joe beamed to the odd guilder.
+
+‘Only have a few seconds of it,’ their echoey mental voice replied. They already sounded weary.
+
+“Everyone shift back!” Kenda shouted. “You just need to hold a bit more, Joe. The beacon just got brighter. One more second, I think, and we’re … WAIT! WHERE’S Wen?” Her scream smashed through the air like a hammer.
+
+Joe looked at the party status list and found [Enthralled] ominously etched onto Wen’s profile.
+
+“Oh shit!”
+
+‘She is below us,’ Yuk whispered in Joe’s mind. The swarm caster had dropped the party communication, unable to keep both it and the vortex going at once.  ‘She still has our tick, but we can’t hear her thoughts anymore. There is something else there whispering to her.’
+
+Joe cursed another mummy, hoping to disrupt the enchantment, but one of the vultures intercepted the hex, dispelling it with a curse of its own. Swearing, Joe reiterated Yuk's words to the group.
+
+“You all, get ready to go,” Hah’roo hissed fiercely. “I’ll go get her.”
+
+Kendell moaned loudly. “Oh gods,” before turning to the wind-walker. “You can’t. You don’t have enough mental defenses against that horde. Only one of us does, but if Joe goes, then they’ll overwhelm the rest of us when he’s gone. We can’t save her,” the trainer cried.
+
+“Where is she, Yuk? Exactly where?” Joe demanded.
+
+‘She is crawling through a tiny crack that only we or she could fit through. She will climb out into the main cave in a few seconds.’
+
+“Then it’s a timing thing. As soon as the portal opens or she gets to the edge of the cavern, I’m going. Yuk, you are my signal,” Joe barked.
+
+His fury transferred itself to the pair of tawny, glowing claws that were harassing the rotting throng of wights. Joe whipped them past the Carrion Canter and drove them into the face of one of the massive mourners. Behind his own anger, the wildness raged, empowering the signature spell with its merciless, feral fury. The [Casting Claws] hit the undead controller so hard that they drove through its eyes and into the creature's skull.
+
+“Tez, you have to hold for just a second,” Joe growled. “I’ll teleport, grab, and throw her to you, and then jump back. I can take a few hits. The rest of you go as soon as you can.”
+
+“Then it’s now!” Kendell shouted. “The portal is opening!”
+
+‘She is close to the end,’ whispered the voice in Joe’s head.
+
+“I’ll be right back!” he roared to the team.
+
+Taking cues from Yuk, Joe locked his eyes on the ground below. As soon as he had a fix, Joe jumped. Without Yuk’s small voice directing him, this would never have worked.
+
+The wights and mummies seemed to be waiting for the elfen girl to emerge, but were not prepared for his translocation into their midst. [Halefires] erupted at Joe’s feet, causing the dead to recoil. Joe willed the paws into the crack, easily spotted the elf in the fire’s bright glow. Grabbing her, he yanked her slim body from the hole. His advanced wound sight showed red scraped wounds running down her sides from being dragged out of the crevasse, but he had no time to be gentle. When her collarbone snapped, Hawking admonished his haste.
+
+You have inflicted structural damage to Earcellwen Rhuival.
+
+Wincing at his excessive use of force, Joe healed her and used his [Synergistic] trait to add a [Purge] to it before he hurled his friend up to the ledge above. Wen crashed into Tezeno, and the two vanished into the tunnel.
+
+Joe had hoped for another second to target the ledge, but his moment of undead hesitation ran out.
+
+Dozens of gangly, putrid wights piled onto him, dragging him into the reeking, rotting, undead throng.

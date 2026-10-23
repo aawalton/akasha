@@ -1,0 +1,101 @@
+158 / 3 - Coral Bay Glassworks
+
+Even though most of the crafting in Fort Coral took place either in Kilning, where Joe lived, or South Wall, the next district over, Kenda led Joe on a fast-paced jog all the way down to the shore and across the beachfront to the far end of Netting. Being a glass factory, the Bracey family was dependent on good sand, which they drew from Selkie Cove. The Coral Bay Glassworks was practically the last structure on the long strip of coast that was mostly dedicated to the city’s fishing industry.
+
+The massive structure ahead looked like someone had taken two completely different architectural concepts and smushed them together without much of an actual plan. Facing Dock Lane, the main road through Netting, was a lovely little shop with a beautiful bay window displaying shelves of gorgeous glassware and glittering figurines. This picturesque boutique stuck its way out of a sooty, hulking foundry. The combination ended up looking quite like a well-dressed tick embedded into the side of a very ugly bulldog.
+
+Even from a distance, Joe could see a heat shimmer distorting the air over the building. By now, the [Hide of the Hunter] had repaired itself, and Joe had it on as a vest the night before, but currently, the magical garment was back in his dimbag. The thought of putting on a fur pelt and entering the sweltering structure ahead would be akin to self-inflicted torture.
+
+Kenda must have noticed Joe’s hesitancy. “Oh yeah, I have something for visitors. The glasshop is cooled, but we have to go through the workshop to get to the family quarters. Your Vigor is high enough, Joe. I’m not worried about you. Mojo will need one of these. Feel free to use the other one unless you want to work on your {Fire} affinity or resistance.” She handed Joe a pair of icy blue charms strung on soft braided cords. “One of the first enchantments I learned. I always have a couple of those on me, even though nowadays I’m pretty immune to {Fire}. Even so, I learned you never know when someone you’re with is susceptible to heatstroke.”
+
+[Charm of Frost Coat] (Item: Neck - Consumable) For 1 hour, the wearer gains major {Heat} resistance. {Cold}
+
+Joe's warding was similar to Kendell's enchanting, so he was curious as to the nature of her crafted item. “Why do {Heat} instead of {Fire}? Wouldn’t the broader category cover more effects?”
+
+“It would, but that’s exactly why items made from base affinities are more expensive to craft. I can get a major {Heat} barrier for the same cost as a moderate {Fire} one. You really lucked out getting major {Death} resistance from that revenant instead of {Undead} resistance. You now have moderate resistance to all the sub-affinities under {Death}. Like {Disease}, {Poison}, {Necromancy}, {Decay}, even some weird ones like {Disintegration}, {Void}, and {Cold}.”
+
+“Really? {Cold}?”
+
+“Yup,” she tossed over her shoulder as she pulled open the door to the glass-shop. “{Death} and {Fire} make {Cold}.”
+
+Joe could see how that made sense. He had assumed {Cold} was a sub-affinity of {Water}. Knowing that {Water} and {Stasis} made {Ice}, he had made the assumption that {Cold} would be something similar. There was a solid logic to the death of fire becoming cold.
+
+He followed the skill savant through the door that sang out a pleasant chime from the glass bell it bore. The display room beyond was amazing. Not only was it filled with some of the most exquisite pieces of glass art Joe had ever seen, it was the wardmanship that blew his mind. He could pick out overlapping meshes of warding and enchantment, and that was just with his naked eyes. Joe had planned on picking up the perception skill that went with [Basic Warding], [Read Wards], which would have given him a much clearer idea of just how well protected this building was. Even without it, he guessed this structure’s protections might just rival those on the guildhouse. Given how breakable everything here was, along with the fact that the building sat on the coastline, plus knowing Kendell’s insatiable mind for skills, Joe could see how this place had so effectively weathered Cauldrakon’s assault.
+
+Kendell didn’t give Joe time to gawk at the art or the magic. She took his hand and dragged him around the main counter, past a store clerk who received a nod from the skill savant, through a set of swinging doors, and into an inferno.
+
+Even with the icy charm, the waves of heat were intense. Six different furnaces blazed around the room, even though it looked like only two of them were being used. Maybe it was easier to keep the magic in them going constantly than it was to let them cool and reheat.
+
+There were crucibles full of glowing lava-like fluids. Ruddy red runes glowed in rings around the black iron cauldrons, and in the middle of the room was also a pool of molten, silvery metal.
+
+The two dozen-plus workers hustling around the large workspace typically fit into one of three categories. There was the Bracey family, half of them easily identifiable thanks to their thick red-brown hair. Joe easily picked out Kenda’s grandmother, Rienna. The rest had to be aunts, uncles, or parents.
+
+Then there were the ignins, those from the fire elemental heritage. These folks had the same color skin as the auburn locks adorning the Braceys. Their eyes had no whites; they were all black with burning ember-like flecks around the edges.
+
+The last big group was the dwarves. Joe found it funny that these notoriously hardy people were the ones sweating and struggling the most down among the furnaces and crucibles. The ignins were bred for the sweltering temperature, and the Bracey family specialized in heat and flame resistance. The dwarves just had to tough it out.
+
+Thankfully, the path Kenda was leading him on ran around the room, and was enchanted to block the worst of the heat rising from the glassworks. They circled the shop floor and out a door on the far side. The air immediately became bearable. Joe hadn’t realized, but he had been mostly holding his breath as they dashed around the corona of the foundry. Mojo also took a big gulp of air when they reached the living quarters of Kendell’s clan.
+
+After an entryway hall filled with work boots, thick gloves, and heavy leather aprons, Kenda brought him into a kitchen. There, they encountered a woman Joe would have bet was her mother. And he would have won.
+
+Almanda Bracey: Human: Journeyman / Glasswright 19
+
+Almanda was older, with dark hair, yet her features and Kendell’s were unmistakably alike. The biggest difference was her countenance. This woman lacked Kenda’s joyful demeanor. Frown lines made her look older than Joe would have expected.
+
+“I didn’t expect to see you around to pitch in today,” she glowered. “And who is this? Another adventurer?”
+
+“Mother, please. This is Joe. We are just stopping by to grab something. I have plans this week. We talked about this.” Joe had never heard Kendell sound so wary and worn down. He wanted to step in, but families could be a minefield. Joe didn’t know enough to navigate how to help his friend.
+
+Thankfully, she had another rescuer. A man with the same features as these two women blew into the room from behind Joe. His red brown hair was short and curly. He was several inches taller than the rest of them, but Joe knew this had to be her brother.
+
+Salnen Bracey: Human: Smelter / Candescent Sculptor 22
+
+“Chops!” he bellowed merrily, sweeping her up into a huge hug. “I missed you on Sunsday. Never got to congratulate you on leveling up!”
+
+“Still can’t catch you,” she squeaked back warmly under his brotherly crushing embrace.
+
+“Ah, once you start getting into the field more, you’ll leave me in the dust.”
+
+Joe could see Almanda's face pinch into a scowl. Sal saw it too and gave his mother a subtle headshake. Joe quickly dropped his gaze to Mojo. He did not want to be noticed noticing. Whatever undertones were bouncing around between these kinsfolk, Joe knew he was better off on the outside until Kenda brought him in.
+
+“You must be the new guilder Chops has been telling us about. Nice to meet ya, Joe. I’ve never met a newcomer,” the tall man stated with a boisterous volume. Joe couldn't tell if it was a habit developed from the loudness of the glass foundry or if Sal was just that outgoing.
+
+“Hiya, Sal,” Joe replied and then added, “Missus Bracey,” with a nod of his head. “I’ve heard a bunch about you guys, too.” He glanced at Kenda and grinned. “Can anybody use Chops, or is that just a family thing?” he asked.
+
+“That is a Sal-thing and only he seems to think it’s funny.” Kenda huffed.
+
+“She was always playing with hatchets,” the lively crafter exclaimed. “We’d ask her to open a bag of flux, and would she use a knife like a normal person? Of course, not. Chop, chop, chop.”
+
+“Hey, it worked.”
+
+“Twice as much effort, Chops.”
+
+“Eh-hem,” the matron cut through the siblings’ banter. “We have a guest. Are you planning on staying for lunch?”
+
+“Uh, I have an akhlut waiting on me,” Joe stammered before he realized that might just have been the most nonsensical thing he could have said.
+
+Kenda covered her mouth. Almanda looked stunned. Sal laughed loudly. “Oh, this I gotta see. Give me ten minutes to get my piece into the annealer, Chops.”
+
+“Sal, that array core needs to be on a ship to Cazmaloq the day after tomorrow,” the older woman chided.
+
+“I finished it days ago, Mum. I’ve just been tweaking the inner matrix and adding a few cosmetic elements. It’s already better than the specs the dragons gave us,” the master craftsman stated, finally fully releasing his sister. “There is no way I’m going to miss the chance to witness watching an akhlut move. Can you imagine an animated glass akhlut? That would be such a cool project.”
+
+Fifteen minutes later, they were jogging back through the beachside community of Nettings. Even as they ran, Joe could sense Finn closing on their location. He got the impression of the aquatic chimera slicing through the waters, heading towards the Fort. Finn felt as eager to see Joe as he was to see the big bruiser again.
+
+As the group strolled out onto the strand of beach, the akhlut reached the sea-wards. Finn had a moment of hesitancy before advancing, trusting Joe’s sent emotion of welcoming. Finn projected a feeling of apprehension regarding the painful sting that usually struck when he had tried to reach the beach in the past. This time, he was able to swim right past the underwater runic barriers. He bound up onto the sands, his mouth open in a large grin. His two-tone voice was sounding a deep gurgling warble mixed with high-pitched piping trills.
+
+As the brute neared him, Joe suddenly became aware of one of the reasons for the akhlut’s joy. The insatiable hunger was gone. While in the deep waters, their empathic connection sent Joe impressions of what Finn was feeling. Regardless of anything else the beast was thinking or doing, there was always an overlaying ravenous emptiness driving the chimera to hunt and feed. Yet the closer Finn came to Joe, the more the bane faded away. Whether it was some item or ability Joe had picked up, or just the bond itself, either way, in this moment, here beside Joe, Finn was free from all but the tiny traces of the curse of hunger that was constantly tormenting the akhluts.
+
+“Heya, big man. I have some folks I want you to meet,” Joe said out loud, which helped him project the same concept empathically.
+
+A blast of delight burst through the bond Joe had with his companions and even deep into the wildness. Mojo, sensing he was now beside his new packmate, yelled a warbling, ecstatic howl and launched himself from Joe's shoulder onto Finn’s nose. The little goof-ball scrabbled for a grip on the slick hide, and just before he slid off, Finn tipped his head to give the shug monkey a better angle to hang on. The pair chittered at each other for a few seconds before Mojo leapt off and began tearing circles around the giant black and white beast.
+
+A second later, the two were running across the sands. Mojo used [Slipstream] to gain bursts of speed, keeping him ahead of the happily lumbering akhlut giving chase.
+
+Watching the disproportionate zoomies, Sal leaned over closer to Joe and uttered, “Can you imagine the damage those two are going to do indoors?”
+
+“So, I shouldn’t bring them to the glass shop?” Joe shot back jokingly.
+
+“Mum would kill you. Wow, look at him. You’re a lucky guy, Joe. He’s amazing.” The artist was enraptured watching the chimera bounding after the changeling.
+
+“They both are,” Joe chuckled as Kenda’s hand found his. Everything else could wait. Watching the pair play was currently the best show in town.

@@ -1,0 +1,75 @@
+42 - New Math Magic
+
+Before he headed back to the guildhouse to work on the research Myllo had assigned him, Joe wanted to rank up one more skill, [Basic Warding]. To this end, he had purchased a small book entitled ‘An Introduction to Warrior Wards’ by Derjuc the Tenth, who was one of the original refugees from the land of Glandryth.
+
+While Mahq and Mojo amused themselves, Joe set himself up at the dining table. He laid out the basic materials he had bought for this. After skimming the first chapter, Joe knew he’d need three things to create a simple ward: the focus, whatever he wanted to ward, something to draw the ward with, and reagents, magically sympathetic dust, oils, soot, or powders. The book recommended he start with something large to draw his first wards on. As he grew more proficient, his wards would get smaller, but at first, bigger was easier. With this in mind, Joe picked up a plain round metal shield and a broad axe. Both had plenty of surface area to inscribe, scratch out, and try again. To etch with, he bought a metal chisel called a burin. Lastly, he grabbed a pouch of iron shavings for Thickscale.
+
+Having already read and reread the first two chapters a couple of times, Joe had a passable grasp of the basics. He knew, for instance, that wards, like most other effects, had rarities. Common wards included minor effects such as creating lights, minor heating and cooling, identification effects, and such. Derjuc wrote that most combat wards started at uncommon, like the two that Joe already knew. To learn new wards, Joe would need more ranks in [Basic Warding]. His two free wards technically cost two ranks each. This meant Joe would not be able to learn a new ward until he had at least reached rank five.
+
+He also understood that there was a mindset he would have to find. Derjuc was very clear that warding was as much an art as it was a discipline. Knowing was part of the equation, but one had to feel the magic to fully grasp it.
+
+As Thickscale was the foundational ward in the warriors' wardset, he started with the shield.
+
+[Common Metal Shield] (Shield - Common) This item will provide you with a median enhancement to your Parry rating. On a successful Parry, you will receive moderate Damage Reduction against the attack. {Defense}
+
+Joe copied the symbol as it was shown in the book, but he felt no connection to the shield or the symbol he was etching. He finished the glyph and knew he had just made marks, nothing worth sprinkling the iron filings on.
+
+So he started again. And again, nothing.
+
+On his fifth try, a voice spoke out over his shoulder as a Mahq’s finger touched the rightmost edge of his glyph. “That is not right, Joe,” the boy stated, causing Joe to jump out of his skin.
+
+“Geez, Mahq! I am going to put a bell on you.” Joe could have sworn the young man had been on the couch with Mojo a second ago. After taking a deep breath to release the spooked tension, Joe focused on the section of the ward Mahq was pointing at. He glanced back at the page in the book and saw no difference. “What’s wrong with it? It looks just like the one in the manual.”
+
+“But you are not the man who wrote that manual. The spirit in the book was a wizard, all straight lines and formulas. That is not you. You should listen to you. You have a skill that wants to help you, but you are not listening to it.”
+
+“I do? What skill?”
+
+“How would I know, Joe?” Mahq huffed. “You are too hard to see clearly. I can feel the yearning of the skill, but you have hidden its nature. You would know it if you think about it. It understands what you are trying to do.”
+
+Put that way, there was one obvious candidate. [Bonemail] functioned almost identically to Thickscale; both of them improved the defensive rating of armor. Joe cast [Bonemail] on the shield, and sure enough, Mahq was right. There was something there. Joe grabbed his gambeson and his other various leather guard pieces and trucked them over to the table. One by one, he cast the armoring spell on the items, and each time he did so, the feeling he was getting from the spell and his failed warding sharpened.
+
+The wards detailed by the author were a set of formulaic stamps. They were fixed, constant. But [Bonemail] was more of a collaboration between Joe and the materials that were protecting him. The spell had reacted slightly differently if it was cast on hard leather, or metal, or the suede of the gambeson. Yet there was one constant; that constant was Joe himself.
+
+The part of the glyph that Mahq had pointed at was the ward’s anchor point. Joe recarved the symbol again: this time, he added the rune for ‘Self’ into the anchor point of the etching. When he finished the last line, for the first time, he could feel the ward’s intent. As Joe reached for the reagent of iron filings, the magic in the sigil drained away. It was still flawed, but for the briefest moment, it had worked. He was closer.
+
+From then on, it was just a matter of experimentation. Eventually, he ran out of room on the surface of the shield, but by burning a mending charm, he smoothed the steel to a smooth polish and kept going.
+
+It took the better part of an hour to understand how to make the rune his own. He had healed his cramped fingers more than once, and Mahq and Mojo had left him for the courtyard a long time ago. While he kept etching, he could feel Mojo’s joy as the shug-monkey played with Mahq.
+
+And then it happened. When Joe crowed out his success, he summoned the two back into the room.
+
+[Lesser Warded Shield] (Shield - Common) This item will provide you with a median enhancement to your Parry rating. On a successful Parry, you will receive major Damage Reduction against the attack for the next 4 minutes. {Defense}
+
+Even though four minutes wasn’t much, it was a full success. He had advanced the shield defense by two levels. With more practice, he could get that ward to last for hours, eventually days. With the right reagents and shield quality, the book said he might one day inscribe wards that could last years.
+
+“You sound happy,” drawled Hah’roo from the doorway.
+
+“I just landed my first real ward,” he beamed back, holding up the heavily scratched-up shield.
+
+“Ah. I remember my first successful knotting. Congratulations, Joe.”
+
+“Thanks, Hah’roo,” he said, noting the dark circles under her eyes. “You hungry yet? I can make you some breakfast.”
+
+“That would be nice,” the galeling breathed, letting herself flop down onto the sofa over its arm. “Oh. I may have to get one of these,” she stated, wiggling her butt into the cushions. “I like how my chairs let the air move through the room, but this is far more comfortable.”
+
+The pale woman draped one arm over her eyes, and Joe could see lingering taints of green and gray in her aura. He remembered her keeping pace with him in her drinking at Rosaline’s Ring, which she shouldn’t try anymore. Joe had far higher Vigor and could target his [Purge] spell so as to mostly keep his inebriation level to a happy buzz.
+
+Tossing a [Halefire] into the fireplace to soothe her, Joe cut some bread and gave it a light frying, since he hadn’t seen an Illuminaria version of a toaster yet. He added a cut apple to her plate. As he split the fruit, he noticed the longing looks from the changeling and druid. Joe pared his last two apples for the boys and delivered the light meal to the reclining huntress.
+
+Mojo and Mahq inhaled the fruit slices while Hah’roo took her time. After a minute, the shug-monkey hopped up onto the sofa and looked pleadingly at the rope-dancer. Joe was about to admonish the pup for begging, but a strange expression crossed his first friend’s face.
+
+“Your pet has advanced to a companion, Joe. Congratulations again. It seems you have had a busy morning while I slept in. He wants one of my skills. He is pulling on [Slipstream]. To his credit, the creature has rather mighty {Air} affinity to back it up. Should I release it to him?”
+
+Joe knew [Slipstream] all too well. Hah’roo had used it constantly in conjunction with her [Takedown] skill when she was first training Joe. The skill made the ground under him become slick as updrafts of air slipped under the soles of his boots. Like a puck on an air-hockey table, Joe’s grip on the ground would vanish. Or it used to until he learned to flare [Steadfast] to keep himself anchored.
+
+He could think of no reason not to let Mojo grab the skill. A knock-down spell could be a useful trick for them to have. He was not surprised that Mojo had a strong affinity with {Air}, considering the first time he met the small changeling, it had feathers and a beak. Joe guessed that before the apes, Mojo had likely been hidden among a nest of avian creatures.
+
+“Go for it, Hah’roo. I’m curious to see how well he can use it.”
+
+A second later, Mojo beamed a happy look over at him and dashed over to him. Joe scooped up the shaggy critter and gave him a sound ruffling. As his fingers scrubbed through Mojo’s fur, he said, “Ok, boy. Let me see it.”
+
+Joe placed the broodling on the floor, and to his surprise, the small man dashed across the room, grabbing one of the makeshift beanbags. The dog-ape spun in the air and hurled the sack. As it hit, Joe felt the traction under his feet disappear. He almost activated [Steadfast] to stay upright, but he let his trainer's instincts guide him. While you should never always let a dog have their way, there are times when giving them the win builds confidence. Joe let himself pitch over.
+
+Thanks to the [Halefire], his sore butt vanished a few seconds later. Joe considered trying the Bladesharp enhancement, but he had been experimenting with wards for over an hour already. He also had an assignment from Myllo. It was time to change tracks. He stretched and sent a feeling toward Mojo, a question: ‘Do you want to hang here with Mahq or come with me to the guildhouse?’
+
+He thought, for sure, the little guy would want to stay and play, yet the changeling scampered up Joe’s side and perched on his shoulder. While his feet lacked the ability to grip the way a capuchin could, his long tail served as an anchor.

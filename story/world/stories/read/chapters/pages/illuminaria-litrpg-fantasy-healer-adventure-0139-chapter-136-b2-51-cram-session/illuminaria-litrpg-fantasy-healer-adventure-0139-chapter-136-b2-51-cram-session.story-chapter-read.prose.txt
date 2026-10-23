@@ -1,0 +1,93 @@
+136 / 51 - Cram Session
+
+Sitting in the study, Joe used his force paw to sprinkle the combination of glass and shell grains onto the sigil he had carved into the iron disk. Even though both materials had been ground into a fine powder, the last time he had used his fingers, the sharp, minuscule shards had gotten under his claws and been an irritant until he cleaned the residue out. The major damage resistance in his hands prevented the grit from doing any real harm, but the little pricks were still exceedingly uncomfortable and distracting. The damage resistance didn't diminish his sensitivity; otherwise, he’d have terrible control over his fingers.
+
+While crafting this third type of ward, Joe realized that the sigil's appearance somewhat depicted the ward’s function. Thickhide was circular, which Joe now realized suggested a shield. Bladesharp was triangular, which could represent the point of a sword or spear. Stormbreaker had a square border, which, to Joe, felt like a wall or even a rectangular shield. The primary rune in the middle of the ward was a jagged line that looked too much like a lightning bolt to be coincidental.
+
+His last attempt had been close. His sensitive nose had detected just a hint of ozone wafting from his work, but the ward fizzled out before he received a success notification. Given the number of buffs he had on, that near success had come after only four prior attempts. The potion, which had smelled like popcorn but tasted like a minty mouthwash, increased the likelihood of him ranking up a targeted skill by 300% for an hour. Joe had crafted a bunch of Thickhide warded shields that the gnomish quartermaster had supplied him. These were going to be handed out to anyone on the shore crew who wanted one. Carving them had raised his [Basic Warding] high enough for him to learn a new ward.
+
+Puqmup had reverently unrolled a large scroll and used it to empower Joe with [Master’s Guidance]. This skill increased one’s understanding of their skills and their usage. It was used to break through thresholds, such as the level threshold on level 25, as well as the barrier to learning one’s first legendary skill. In this case, combined with Joe’s [Crystal Mind], it allowed Joe to quickly learn recipes and discover revelations in his crafting. It was a bit of a waste to use it on Joe for the minor mastery of a common ward, but they were on a tight timeline. Joe had to have a solid grounding with the Stormbreaker ward for it to have been worth spending any time on. Also, as good as [Effereous Endurance] was, he would need some real rest before the storm hit.
+
+Even though that last attempt had been another fail, Joe was almost positive he had seen where his mistake was. The realization that the foundational shapes of and in the ward were important. Derjuc had hinted at this, and those passages had irritated Joe; he couldn’t understand why the ward mage was being vague. Yet now it made sense. There was power in that epiphany of discovering this fact for himself. Something clicked with the crafting of this ward in a way that would probably not have happened if Joe had just been told the overall appearance had a power of its own.
+
+When this ward snapped into existence, it filled the air with the strong ozone smell of a storm. Notifications popped into the edge of his vision, but Joe held off looking at them for a second and marveled at the four-inch iron sheet. His carved marks were smoothly filled with the glossy, white dust, looking almost as if it had been enameled. Joe could feel there was more power in this ward than anything he had made so far.
+
+You have learned the ward formula for Stormbreaker I.
+
+[Stormbreaker Plaque]  (Uncommon) This ward provides either one creature or a 10 square feet of a structure with Moderate Damage Reduction against {Storm} effects and Modest Damage Reduction against {Air} and {Lightning} effects. It has a durability of 87 and will degrade the longer it is exposed to these elements. {Enchantment}
+
+Achievement: You have crafted your first exceptional item. This action has awarded you the following choice of Traits:
+
+[Ward Adept]: The burin is mightier than the blade. Gain 4 ranks in [Basic Warding] and you can use {Expertise} or {Enchantment} to craft your wards, whichever is better.
+
+[Storm Strider]: Reign in the rain. Learn Stormbreaker II and gain median {Storm} resistance.
+
+As far as traits went, this one felt like a rather minor one, but given what he was about to face, [Storm Strider] was a bit of a no-brainer. First, while his affinity with {Expertise} was better than his {Enchantment} affinity, it was only a little bit better. Both were solid middle affinities, coming in at Moderate and Favorable, or 5 and 6, depending on which way you wanted to denote the 0-10 scale.
+
+If he crafted a Stormbreaker II ward for himself, it would give him medium {Storm} resistance. Since resistances were cumulative, he could combine those two medians into a major. Given he would very likely have to face a hurricane in a few hours, Joe was more than happy to select the specific trait over the general one.
+
+Joe stashed his first ward in his dimbag, in case he needed it, and got to work carving out three Stormbreaker II wards, one for himself and the other two for Tezeno and Hah’roo. These he felt confident enough to scribe onto two-inch discs.
+
+Your skill [Basic Warding] has increased to rank 8.
+
+“Holy cow! I could learn another ward,” Joe blurted to Puqmup, who was reviewing his lists of emergency materials at the next desk. Stormbreaker II was still uncommon, which meant Joe had two ranks to work with. “One more rank, I could even learn a rare ward!”
+
+“Hah’roo and Earcellwen had said you push yourself, but in this case, I agree with you. You mastered Stormbreaker quickly and upgraded it to Stormbreaker II. You have plenty of time on both the [Potion of Ranking] and [Master’s Guidance]. It would be a shame to waste those resources. I’ll be right back. Let me see what we have. Keep practicing your storm wards. We can give the extras to Erdor’s team heading to the beach. I’ll grab a rare and an uncommon.”
+
+While the rainbow-haired gnome dashed off, Joe grabbed another iron disc and began inscribing his next ward. It took three more Stormbreaker talismans before he hit the rank up.
+
+Your skill [Basic Warding] has increased to rank 9.
+
+A second later, Puq zipped into the study, bearing a hopeful expression. Joe smiled back, “I got one more. What did you find?”
+
+“Yes!” the little man crowed, pumping his tiny fist. “I have a solid uncommon, Dryskies, which lessens the effects of deprivation and exposure. It has a really long duration but mild effects. Sailors love that one if their ships get becalmed. Believe it or not, it would stack with Stormbreaker to slightly reduce your environmental harm, but it was not nearly as good as the rare I found for you.” The guild quartermaster slapped a formula down on the desk, and Joe read the title ‘Perillost.’ Having noticed the naming convention of wards, he broke that into Peril-lost.
+
+The formula also had another heavy print notation. It stated this was an ‘Esoteric Ward’. As that seemed to be unduly emphasised, Joe asked the guilder about its significance.
+
+“Ah, esoteric wards are a specific type of ward that deal with {Time}, {Space}, {Soul}, and {Order}. What makes them different from other wards is that normally, you can only have one esoteric ward active on any given person, place, or thing at a time. Now there are a few exceptions. One, some time, space, soul, et cetera wards are not fully esoteric wards and can be stacked. Two, there are some classes, like Chrononaut, that specialize in invoking multiple esoteric wards. For the moment, if you learn Perillost, expect you will only be able to have one anywhere for a while.”
+
+‘What does it do?”
+
+“I picked it to protect you from lightning strikes or having the wind hurl a broken spar through you like a ballista. Read the second paragraph,” the gnome directed, pointing at the pages.
+
+Joe read on and found, after some notes about the ward’s origin, the details of its effects.
+
+Perillost both senses and manipulates a single devastating moment of time. Should you be about to suffer catastrophic damage, the ward will activate to move you out of phase with that moment, thereby allowing that moment to pass you by and leaving you unscathed by it. This activation breaks the ward, providing no further protection from additional or ongoing damage.
+
+Joe read on and found that there was no specific duration for this ward. It would wear out over time, but a decently made Perillost ward should last weeks or months. A truly exceptional one might remain active for years. Until it was activated, of course, then it broke immediately.
+
+This formula was more complicated, yet, with Puqmup's help, Joe eventually figured it out. He was a bit bummed not to get a first rare ward achievement, but he realized that was getting a little greedy. He couldn't expect to get an achievement for everything.
+
+He drew it three more times, each time shrinking its size. As he finished one, the previous ward cracked and crumbled to dust, as if centuries had passed for the object in the blink of an eye.
+
+His final creation was carved into a small golden oval plaque. The reagent he used was sand from an hourglass, not just any old sand; it had to be from a timekeeping instrument. Joe slipped it into his gambeson with only a few minutes to spare on [Master’s Guidance] and the ranking potion.
+
+At that point, Puq spent a minute fitting him with a tracking item, though he didn't look too happy with the results.
+
+“What?” Joe asked the scowling gnome.
+
+“That damn obfuscation aura of yours is interfering with the tracker’s signal. Even with you standing a few feet away, I’m not one-hundred percent sure we’re locked onto your location. At least it’s something,” the little man grunted.
+
+“What do you mean by that?” Joe questioned the quartermaster, who was still fidgeting with the weird contraption that surprisingly reminded Joe of the original Star Trek tricorders. It was a box about the same size that one looked down into from the top.
+
+“Sorry, Joe. We’ll just have to be careful with you. But at least I have some trace of you in the tracker. Far better than Yuk. Devices just don’t work on them the way they do with most everyone else.” He made a few more adjustments and then sighed. “I think that's the best I’m going to get. You should get some sleep now.”
+
+“Ok, but I want to make sure that the valley of the undead doesn’t fall off the guild’s radar. I’m not sure how long this storm and cloud cover is going to last, but it could be just the thing to release a whole buttload of ghasts into the farmsteads outside the city walls. If worst case and something happens to me, is there a way for you guys to have a reminder for the problem?”
+
+“Hmm. Excellent idea. I’ll create a guild quest about the valley and post it on the board by the front desk. It won’t have the same strength as a quest from The One Above, but it should keep us from forgetting about the issue. Let’s do that now.”
+
+After they established and posted the quest regarding the Vale of Lamment, Puqmup shooed Joe away. The barracks were mostly full, and Joe lived just a few blocks away. Reclaiming his pup from the enormous gardener, who was happily playing fetch in one of the quieter hallways, Joe jogged back to the Abbaka House.
+
+As he reached the structure, he spotted one of the wards he had just learned carved into mounted plates on the walls of the complex. Stormbreaker, along with some other wards, ran in a repeating band around the roofline of the building. The other wards, guessing from their design, referred to fire, insects, monsters, and one more. Joe saw an arcane eye in the pattern of the mystery ward; maybe divination, or it could be an evil eye for curses. Regardless of the unknown one, the Stormbreaker wards felt solid. That would be one less worry during the approaching hurricane.
+
+He looked toward the ocean. Even with [Night Eyes], it was impossible to parse the wall of black clouds from the midnight sky. The storm itself was something else to worry about later. Sleep was his primary focus. He had heard that there were spells that could condense eight hours of sleep into an hour, but Joe had been so focused on warding that he had forgotten to ask for one. He had time to get at least a few hours of sleep.
+
+As it was very late, he used [Whisperstep] to climb the stairs, even though the gusting winds would almost surely have masked his ascent. He slipped into his apartment to be met with complete darkness for the first time since he took [Night Eyes] from the Night Skinner. Usually, the moonlight or the illumination from the three lighthouses around the harbor was enough for his dark-vision to see by. Not now. Joe could see nothing at all.
+
+He swung the door open wide, which let just enough light into his room to make out the familiar vague shapes of his furniture. Squinting toward his dining room table, Joe was just able to pick out the glint of the brass candlestick that resided in the middle of that surface. He eased his way across the room and lit the taper with an endless match that resided beside the candlestick. This was a short hardwood rod that had a simple [Flicker Flame] incantation on it.
+
+As the room lightened, Joe dropped the enchanted firestarter into his dimbag. It was unlikely the flame would withstand the winds, but given how dark the night was, it might come in handy. He should invest in a small magic lamp at some point. He was so used to being able to see in any light that he had forgotten that his vision didn't work in true darkness.
+
+The reason for the room's complete gloom was now obvious. His casement windows, which he typically left open, were now closed and locked; heavy wooden storm shutters covered them, shielding the delicate panes from the coming tempest. Also, blocking out any ambient light from the small city.
+
+Joe closed the door, grabbed the candlestick, and headed to the bedroom. He stripped to just a shirt, brushed his teeth, and then had to adjust Mojo, who, of course, had taken the dead middle of the bed. He blew out the flame and lay for a few minutes, listening to the whirling winds buffeting the building. Tomorrow would be strenuous, perilous, and likely a bit terrifying. Joe’s thoughts pingponged between a dozen awful scenarios until a tired feeling crept over him. He yawned, and as he did so, it dawned on him that the wave of drowsiness was not his own. It was Mojo's way of telling Joe to pack it up and go to sleep. He leaned into the shug monkey’s empathic desire, letting the heavy feeling of weariness take hold. Soon enough, he drifted off to sleep.

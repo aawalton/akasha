@@ -1,0 +1,113 @@
+160 / 5 - Shop Talk
+
+The guild shop was a strange space. The entryway had enough room for five or six people to stand. A ring of glass-faced counters constrained this patch of floor. Behind the display cases was a walkway for the attendant to use. That gap was followed by a wall covered with numerous shelves and sets of drawers. Interspersed between the wall storage were a number of heavy metal doors, which Joe had been told led to various extradimensional vaults.
+
+Lastly, there was a large mystical chalkboard that acted as an index, scratch sheet, or receipt for the shopping guild member. Touching the frame, one could bring up inventories of charms, skill crystals, enchanted weapons, armor, and gear, crafting materials, and more. It also helpfully listed prices, already calculated for the reputation of the person controlling the board.
+
+As the shop was empty at the moment, Joe headed to the board to start making his list. At first, he thought it was a little odd that this chamber, full of rare and valuable items, was left unattended. Then he looked around more carefully, while mulling over the idea of stealing from here more thoroughly. Not only was this room heavily warded and enchanted, but it was also inside the Fort Coral Adventurer’s Guildhouse. It was a location with several expert trackers and diviners on hand, as well as plenty of muscle and resources to retrieve anything stolen. Probably one of the last places a would-be burglar would want to piss off.
+
+He let Mojo down to look in the glass cases, but made it clear the changeling was not to go behind the counter for any reason.
+
+Giving the board his attention, Joe started with the easiest items, the skill crystals for upgrading his commonly used skills. [Healer’s Touch] was cheap since primal healing seemed to be the least popular of the three main healing types. The divine [Restore] was the number one basic healing skill, with the arcane [Mend Wound] next. Joe slid the text ‘Healer’s Touch’ to the right-hand side of the board, starting his total at five gold. Prices here were a bit higher than those in Perigrine Bay, but mostly pretty comparable. Too bad they were not nearly as affordable as the low costs of Crowfield.
+
+[Crystal Mind] and [Advanced Warding] brought his total to seventeen gold. [Alter Body] was not cheap, costing more than his total so far at twenty-four gold on its own. One more cool feature of the board was that you could use [Identify] on the words as if you had the item in front of you.
+
+[Alter Body] - Uncommon - Vigor: Your body automatically adapts to hostile environments as if you were a native to that environment. You will be able to breathe and move normally in these environments, taking reduced damage from inherently harmful factors, such as toxicity, cold, or heat. Your resistance increases with additional ranks of this skill. Cost: Moderate Stamina | Range: Touch. {Adaptation}
+
+{Adaptation} was {Beast} and {Life} which was very close to [Morphic Form’s] {Transformation} composed of {Beast} and {Water}. From its description, Joe could see why Kendell felt it was a good match for his wild skill. If he used it to advance [Morphic Form], he was sure that water-breathing would no longer be a problem. Which was great since Joe had already swallowed what felt like gallons of seawater this morning, attempting to learn to shield-board behind Finn.
+
+Joe hadn’t been living cheaply, eating out, rounds of drinks, buying stuff for his apartment, and clothes for himself, but thanks to the generosity from his healing sessions, he had a decent amount of coinage. He had a few hundred in gold; not enough to buy any major items, but more than enough to afford the skill shards. Joe slid ‘Alter Body’ to the right-hand list.
+
+He switched to shield and limited them to the most affordable. The first one gave Joe a chuckle with its simplicity
+
+[Shield Bracelet]  (Item: Shield - Common) Conjures a common metal shield. {Defense} - 8 gp
+
+The next one looked better, but still not great.
+
+[Force Buckler]  (Item: Shield - Common) Conjures a common shield of {Force} for 1 hour. 4 charges per day. {Barrier} - 15 gp
+
+Joe would rather have a shield he could invoke and dismiss at will, though his [Force Adept] trait would empower this buckler to be more durable.
+
+[Force Adept] Increased your {Force} affinity. Current Affinity: {Force} Strong (7.33)
+
+Joe wished he could see all of his affinities that easily, but he had learned how to bring up the strength of any affinity that connected to one of his skills or traits.
+
+Joe was about to move to the next entry when he heard the click-clack of a pair of very short footsteps headed his way. Sure enough, Puq zipped into the shop a moment later.
+
+“Howdy, howdy, Joe. Ah, good. You started without me. You looking for a shield?”
+
+“Yeah, but money is tight. Have to be something cheap now until I can afford a good one.”
+
+“You know, as a member of the guild in good standing, you can borrow money. Being bronze, you can borrow twice your rep in gold.” The gnome touched the corner of the blackboard, and a small note scribbled into existence.
+
+Encroaching Apes: 60
+
+Bonus Objective: Dread Valley: 50
+
+Cauldrakon Event: 500
+
+---------------------------------------------------------------------
+
+Total: 610
+
+“With an extra twelve hundred, you could buy a much better shield than those,” the little guild lieutenant declared, sweeping a hand up at the low-end shields Joe had listed.
+
+“I’m not all that keen on going into debt just yet, Puq. Besides, Kenda says I already have a good skill that will conjure a magic-blocking shield. I just need something for physical attacks.” Joe followed these words up by reading off the description, while the gnome twirled his brightly colored mustache.
+
+“Hmmm. You really don't want to switch between shields. Tezeno makes it look easy, but he has Sentinel, a shield-based defender class. For the rest of us, swapping is a pain in the rump. She’s right, that’s a sweet shield skill. So, what I would do is get a shield cover that you can summon over the spell. Something with good physical resistance and the ability to adjust its shape to fit over the [Grimoiriguard].”
+
+As the gnome described his solution, Joe’s eyes slid to his shoulders. “Oh, that’s genius, Puq. I might have just the thing. You’re saying the shield will still be tangible to touch? I thought physical things would just pass right through it.”
+
+“Nah. Your skill sounds like a better version of [Spectral Shield], which does the same thing, but only against ghostly entities. You can touch a [Spectral Shield]. It will even bounce away lightly tossed objects. They just don’t stop any heavy blows. Why?”
+
+“Do you have a scroll of that skill? I’d like to try an experiment.”
+
+“Sure.” Puq tapped the board, and the desired spell appeared with a price tag of six gold. It always surprised Joe that single-use scrolls were about the same cost as outright buying the skill. Kenda had explained to him that people only bought so many skills, and since many magical monsters dropped shards, there was typically more supply than demand. Scrolls someone had to scribe, and since the demand for them was constant, so was their relative price tag.
+
+“Here ya go,” the rainbow-haired gnome stated, proffering a small rolled-up index card. Joe hadn't seen Puq summon or fetch the item, but since the short guilder was the keeper of this room and its stores, it was not all that surprising that the gnome could conjure anything he wanted from any drawer here.
+
+Joe burned the mana to invoke the spell. As he pictured the last set of formulas in his head, an eerie feeling blossomed out of his forearm. A semi-transparent lavender-grey targe appeared, one seemingly fashioned from dozens of ghostly faces. The specters bound within the circular shield bore all manner of unpleasant expressions; some were leering, some were silently screaming, some were gnashing their ectoplasmic teeth; none of them looked happy to be there.
+
+When he recovered from the shock of bearing the haunted shield, he tentatively reached out a finger and tapped its surface. He was expecting resistance, but there was almost none. His talon popped through the spectral surface with only the barest of pressure. Joe, wondering if the nail, being a natural weapon, was the problem, tried his knuckle, but it too slipped almost effortlessly through the ghostly shield.
+
+“That’s not right,” the quartermaster asserted. He reached up and placed his hand on the dove-colored disk. Joe felt him push on the bottom edge, enough that he felt his wrist turn a little before Puqmup’s hand pushed through the phantom-filled membrane. “Yeah, that is what I expected. It should be able to withstand about five pounds of physical pressure. Why the heck are you just passing through it? Do you have a high {Spectral} resistance? That could do it.”
+
+“I have major {Death} resistance,” Joe proclaimed.
+
+“That’s the problem. That shield is {Spectral}: {Death} and {Lightning}.”
+
+Joe felt that {Lightning} was a bit of a misnomer for that affinity’s true scope. {Lightning} was not just about electrical effects. Its real function was to energize and accelerate. It was one of the amplifying affinities, like {Force}. Its opposites were {Stasis} and {Shadow}, which were related to slowing and diminishing.
+
+“Oh. In that case, my Stormbreaker sigil is probably not helping either,” Joe admitted. “It’s giving me some {Lightning} resistance, too.” Joe saw no reason not to always have an active Stormbreaker item on him since it did not have a duration. It lasted until it took enough damage to fall apart. Joe had this one clipped to his belt.
+
+“OK. Then we can try [Scintillating Scale]. Same idea versus {Shadow} and {Chaos}, … though now that I think of it, the epic version is [Sun Scale], which is almost identical to your [Grimoiriguard]. Wow. We need to make this work.” The small quartermaster was becoming very animated in his excitement. “Do you realize you’d be getting the equivalent of an epic rarity skill as an uncommon. Let me see if we have a scroll for either of these. [Sun Scale] will be costly.”
+
+“Hold on, Puq. Let me try my idea with the ghosty shield here first. Since what I plan to do is not really part of me … does soulbound count?”
+
+“It could,” he huffed up at Joe. “You’re right. Just do what you’re going to do. If it doesn’t work, then we can look for alternatives.”
+
+“Fair enough.” Joe sent his will into the furry vest he now always wore. He had stolen the idea from his gambeson and made small pockets throughout the garment, and filled them with small ice drake scales. This allowed him to wear the [Hide of the Hunter] without overheating. In the steamy environment of Fort Coral, the scales were more expensive than he liked, but he planned to sell them when he had time to learn a new ward. Joe had found the ward formula for Frostpatch. Learning it was on his to-do list.
+
+The pelt flowed down his arm and over the shield, encasing the haunted barrier with a thick coating of leather and fur. The spectral construct had no trouble holding firm as the hide wrapped itself tightly around it.
+
+“OK, Puq, let's see if this works. Can you hit the shield hard with something physical? I want to see if the hide …”
+
+A ridiculously large hammer appeared in the gnome’s grip and smashed into Joe’s composite defense. Not only did the shield crumple. The blow launched Joe out of the room and sent him crashing into the hallway wall opposite the doorway.
+
+“Ooowwwww,” Joe groaned.
+
+“I am so sorry, Joe. I thought you were ready,” Puq chortled, as he dashed over to the crumpled body. Joe cracked open an eye and saw the honest abashment on the guilder’s face, recognizing a nervous laugh when he saw it. Puq was clearly trying not to snicker, but he couldn’t stop it. Joe’s brother, Keith, had that same quirk. When something bad happened, Keith couldn’t help but chuckle at it, no matter how hard he tried not to. The little quartermaster was desperately trying to compose himself, yet failing terribly as anxious giggles kept slipping free.
+
+“All good,” Joe expressed, laying a comforting hand on the small shoulder. He stood up and gave himself a full skeletal realignment with the help of [Morphic Form]. After a chorus of cracks and pops, he looked back to the quartermaster. “Ok, let’s try that again, but do me a favor and wait for my signal before you unload another hammer-space attack.”
+
+Puqmup nodded, and Joe braced himself fully for it. He flared [Steadfast] and [Morphic Form] to maintain his footing, while commanding the [Hide of the Hunter] to stay rigid. Surprisingly, his adamant command of the pelt earned him a weird rank-up.
+
+Your skill [Pack Master] has increased to rank 13.
+
+The enormous sledgehammer struck again, and this time the hide held firm.
+
+Your [Hide of the Hunter] has taken moderate damage.
+
+You have restored 97 points of health to the [Hide of the Hunter]. [Hide of the Hunter] is at full health.
+
+Joe and Puq widely grinned at each other. With the hide’s shape-changing ability, its built-in physical damage resistance, and Joe’s ability to heal it, they had a perfect solution for [Grimoiriguard’s] downside.

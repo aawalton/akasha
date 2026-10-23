@@ -1,0 +1,139 @@
+44 - Something I’m Good At
+
+“Every time I think I have a handle on this new life, something throws me into a tailspin,” Joe bemoaned, aimlessly walking through the workshop-laden streets of Kilning.
+
+In his arms, Mojo snorted and lightly whapped Joe upside the head. The changeling projected a wave of disbelief and rejection through the connection they shared.
+
+“Ok, fine. Yeah, I’m wallowing. Still. I just can’t believe I lost it like that. That was crazy embarrassing.”
+
+Mojo wriggled in his arms, and Joe felt a burst of enthusiasm. Even though it was just a feeling, Joe had no difficulty interpreting Mojo’s suggestion. “Sorry, Mo, but I’m not in a play mood. Not yet. Give me a bit.”
+
+With no real destination in mind, Joe meandered through the crafting district. His apartment was not too far away, but he didn’t want to go home yet. He just wanted to walk and do something mindless, like looking at the buildings he was strolling past.
+
+Fort Coral was constructed predominantly out of whitewashed brick. From the name of this region of the city, Joe guessed that most of those bricks had been fired around here. There were still several brick-makers and potters in the area, but Joe guessed that at one point, there had been many more. One street had a series of almost identical buildings, of which three were brickworks; the others had been repurposed to become other industries.
+
+As Joe reached the middle of the block, a man came dashing around the corner. Immediately, Joe’s wound-sense flared. The gentleman was cradling his right hand, and a worried woman, who appeared a second later dogging the man’s steps, was utterly focused on that digit. [Assess Wounds] painted the man’s hand an angry red.
+
+“Hey!” Joe blurted. “I can help.” Transferring Mojo to his shoulder, Joe dropped a [Halefire] between them to start the healing process. Then he recalled he could now heal at range. An orange paw appeared gently on top of the man’s wounded fist, and Joe sent a pulse of restorative energy through it.
+
+The man, still grimacing, lifted his other hand and looked at the healed hand. Joe wasn’t sure what had happened, but the restored digit was covered in blood.
+
+“Uhg. Still hurts though,” he groaned. “Doc Reevadah’s healing doesn’t hurt afterwards. That’s where we were heading.”
+
+“Gav! For Urth's sake,” the lady scolded, throwing an embarrassed look to Joe. “Thank the man. Don’t complain. You could have bled out before you got there.”
+
+Gavreddir Cristrell: Elf: Mason / Glazer 12
+
+Lessa Cristrell: Dunian: Bronzesmith / Lampist 13
+
+“Sorry,” Joe apologized. “The pain will fade in a few minutes. I should have asked for permission first. I was distracted.”
+
+“You do not need to apologize, sir. My husband needs better manners,” Lessa scoffed, giving her spouse a sour look.
+
+“Sorry, Lee. And you, too, mister. That was not my best behavior.” Gavreddir was surprisingly burly for an elf. Joe was used to the woodland race being lithe and trim, but this mason had unusually heavily muscled arms for an elf.
+
+“No worries, man. Your hand was gushing blood. No apologies needed. Want me to look at it further?”
+
+“Uh, not to be rude, but I’ve been going to Doc Reevadah since I was a kid. I think I’m going to have him take it from here. What do I owe you?” the elven crafter asked.
+
+“Nothing, Gavreddir,” Joe exclaimed, holding up his hands palms out. “It was my choice to heal you. You don’t have to pay for it.”
+
+“Thank you,” Lessa stated. “Though it is common practice to pay when someone performs an emergency intervention. We don't mind? What is your normal fee?”
+
+Flummoxed, Joe stammered until an idea hit him. “How about this? Provide me with an introduction to your doctor, and we’ll call it square.” Joe realized that he should talk to a local healer and figure out how the practice worked in Fort Coral. This seemed like a good opportunity to do just that. And it would get him out of his own head after the imp-incident.
+
+‘The impsedent?’ he mused. To which Mojo snorted. “Ok, if I can make bad puns, then I think I’m in a better headspace. Even so, this is a good idea. I can find out if I will step on anyone’s toes if I heal around the city.’
+
+Happy to oblige, they led him down two streets until they reached a pleasant townhouse-like structure with a signboard that read:
+
+Doctor Xandam Reevadah: Arcane Physician: Est. 2234
+
+‘Huh? Hey Hawking? What year is it?’
+
+2271. More specifically, today is Mersday, Endweek of Greensweep, Year 2271 AD.
+
+Joe had already found that each of the thirteen months had four seven-day weeks, and since every month was a strict twenty-eight days long, they always started on Sunsday and ended on Starsday. The weeks were in order: Firstweek, Upweek, Downweek, and Endweek. They did not use a day of the month like the Gregorian calendar. Instead, Illuminarians tracked the date by weekday name and week name.
+
+This added up to one day short of Earth's calendar, but it was made to match by counting the winter solstice outside of the normal months. The extra day was called Long Night. Every four years, a second day was added after Long Night. This leap day was called Beholding.
+
+‘Thanks. So this guy has been practicing medicine for almost forty years.’ Joe didn’t get an answer, but he didn’t really expect one; Hawking didn’t typically respond to pointless small talk.
+
+‘One more question. What does the AD stand for? It can’t be Anno Domini, can it?’
+
+Arawn’s Departure
+
+‘Oh, I guess that makes sense.’
+
+Joe might have taken the conversation further, but he was still at the bottom of the steps, and the couple was being admitted into the townhouse. If he wanted to join them, he had to catch up quickly. He entered a stylish foyer and quickly rubbed his feet across the enchanted mat to wipe the soles of his boots clean. A servant ushered them into a sitting room, but before anyone had a chance to take a seat, a man, whom Joe could only assume was Doctor Reevadah came into view.
+
+At first, Joe thought he was looking at an archon, since the man’s skin looked golden, but as the physician moved through the room, Joe realized his flesh lacked the true metallic quality archons, like Tezeno, had. Instead, there seemed to be a faint golden glow around the doctor.
+
+Xandam Reevadah: Nephilim: Healer / Celestial Arcanist 23
+
+Joe briefly worried that his wild side was about to react to an angelic heritage the way it did to anything demonic, but thankfully, there was no such response. While the man had a sharp scent, it could easily have been from some sort of medical astringent rather than any heritage-related reason.
+
+“Ah, the Cristrells. What brings you to my door? You both appear to be well,” the doctor exclaimed in a warm voice.
+
+“Gav sliced his hand open again, but this nice man patched him up already. We came to see if you saw anything still amiss and to introduce you. He wanted to meet you.”
+
+“Very well. Let’s have a look first. Oh, you’re fine, Gavreddir. That is a very well-done organic healing.”
+
+“It still hurts, Doc,” the glazer bemoaned, throwing a remorseful look at Joe over the complaint.
+
+“Different healing types have different drawbacks, Gavreddir. Mister Morris’s method uses accelerated healing, so pain lingers, but he will never have to worry about a miscast cure. An arcane healer like myself, who is not careful, can make things much worse if I were to fumble the spell. Give it what … an hour …,” Doctor Reevadah prompted Joe, who nodded back, “and the pain will be gone.”
+
+“Oh. Okay. Thanks again, Mister Morris.” The pair headed out, and after speaking with the doorman, Joe heard the sound of a few coins being exchanged. It seemed like even consults had a cost in Fort Coral.
+
+“Now, I take it you are new to the city?” the physician stated. “I had heard rumors of a new healer joining the Adventurer’s Guild.”
+
+“That’s me. Just to be upfront, I’m also a Newcomer. So I don’t really know any of the economics or regulations regarding the practice of medicine around the city. I was hoping to pick your brain for tips.”
+
+“Interesting expression. I like it,” the nephilim stated. He sat in one of the armchairs and gestured for Joe to sit across from him.
+
+As he reclined into the comfortable chair, Joe settled Mojo into his lap and looked over his host more closely. The man had an ageless quality to him; he could be anywhere from thirty to fifty in human terms. His hair was a pale blond, and he sported a truly outstanding mustache and beard. The doctor was mostly fit with just the bare beginnings of a paunch. His skin was not actually golden, but it glowed ever so slightly, making it look gilded. The physician was dressed impeccably well, in a coat and vest, with numerous pocket chains crossing his chest, too many to be just a watch. Joe guessed they were probably attached to various medical detection artifacts.
+
+“Let me say first off, Fort Coral has no singular medical guild. We actually have four councils, each relating to a district or group of districts. Then, of course, there is the old city and Mercy Suku, who is an institution all to herself.” Pointing in the direction of the ocean, Xandam began his list. “Seaside, Netting, and Shipyard will only allow ship doctors to practice in their districts. They want to ensure that the old medical mariners can still find work once they are done sailing the seas.”
+
+“I can see how that makes sense,” Joe concurred.
+
+“Good to hear. I think so too. Now to the west is the High Park district, and I would not suggest trying to set up shop up that way unless you have connections or can make a name for yourself. It is a pretty exclusive community.
+
+“Then there is Godsrow, the church district. This is for healers who are following a divine patron. They have a clerical council that you can join if you have such an affiliation.” The doctor let that last word hang enough to suggest it was a question, not a statement.
+
+“Nope. Sorry. Independent healer.”
+
+“No need to be sorry. Most folks assume that, due to my race, I have religious ties, but I don’t. Just have some strong divine affinities,” the man remarked, leaning back in his chair. “Well, then I think you will be best joining the group I belong to. Southwall, Kilning, and Rockpoint have a loose council of medics. Nothing too restrictive. We do collect dues twice a year, but they are more of fundraising efforts, which we use on various projects to improve the wealth and well-being of our communities. We only have two rules. One, if you see or hear of a physician causing harm, you let us know so we can make sure nothing untoward is occurring. Thirty years ago, when I was just starting out, a malefactor class set up shop as a healer. Let’s just say it was a very bad year for Fort Coral until she was discovered. She would have been exposed sooner, but my colleagues dismissed too many coincidences.”
+
+Joe grimaced, imagining some very horrible scenarios before asking, “And the second rule?”
+
+“Ah, this one is just a courtesy rule,” the nephilim began. “We try not to set up shop right on top of each other unless we are very specialized. For example, Doctor Bozrid only handles spiritual damage. His office is a few houses down the street from me. Since I’m a generalist healer, we’ve never had a conflict. Otherwise, we try to spread out. Do you have a location you plan to operate from?”
+
+“Honestly, my plans have not gotten that far. I will probably hold clinics in places that won't bother anyone and charge whatever people feel like paying. I plan on using the guild as my primary leveling method. My healing will be on the side. At least for now, that is.”
+
+“That is a very sensible plan. It is a long climb to high levels solely being a resident healer. Well, where are you living? That might help me guide you.”
+
+“I’m on Serra Lane, right at the junction of the three districts: Kilning, Rockpoint, and Seaside.”
+
+“Ah,” the older man let out a small, pleased-sounding breath. ‘The Flower House on Serra by any chance?”
+
+“I think they call it the Abaaka House, but I’m sure we are talking about the same place. Yeah.”
+
+“Oh, that is a lovely spot, and will be perfect for you. Old Camberge used to cover most of Rockpoint with Mercy Suku's help, but he passed away two years ago. A young Psalmsinger, named Darla Luana, is way over by the east gates. You two are unlikely to overlap if you were to stick to the west end of Rockpoint. I think as long as you’re respectful of the song-healer’s neighborhood, feel free to offer whatever healing you want to. Granted, this is just me talking, but as I said, we are a pretty loose group.”
+
+“There is a tavern, Rosleine’s Ring. Is that near where Darla resides?”
+
+“Not at all. Well, Rockpoint is one of the smaller districts, so it’s a little nearby. But, it’s further apart than my closest fellow general physicker. Doctor Sinsi lives two blocks away, and we rarely clash over patients. You should be fine, but to be sure, I will talk with the group and send word to the Flower House for you.”
+
+“And this Mercy Suku. I won’t be stepping on his … her toes, will I?”
+
+“Her, and not at all. She is an institution all to herself. Even the hundred gods do not disturb Mercy Suku. She is the only high-level Murrcian allowed to practice in Fort Coral.”
+
+The confusion must have been obvious on Joe’s face. Doctor Reevadah chuckled. “Ah, that’s right. You did mention you were a Newcomer. I see you need some background. Let’s start with a divine fact. Did you know that roughly a quarter of the hundred gods are siblings and a significant number of those are twins?” Joe shook his head and let the physician continue. “The two specific siblings in this case are Mairree and Murrcee, the god of festivity and camaraderie, and the goddess of charity and compassion. Sometime during the dawn of days, these two otherwise congenial deities had an argument that continues to this day. They allow no settlement to have a temple to both of them. Communities must choose either Mairree or Murrcee, never both. Fort Coral chose the celebratory god.” The doctor wet his lips before continuing.
+
+“Then, a hundred years ago, a true saint of Murrcee arrived on our shores and set up a small shrine in the oldest and poorest section of the city. Everyone waited for Mairree to send some sign of displeasure with the saint, yet instead, day after day, a chalice of wine from the god appeared instead.”
+
+“So, she is still here? A hundred years later?” Joe asked.
+
+“Yes. We physickers have corresponded with our fellow healers far and wide, and we have found nowhere else in the known world where these twin gods have lifted their ban. She is that unique,” the nephim declared. “Worry not, Joe Healer. There is no way you would, as you say, ‘step on her toes’.”
+
+“Thank you, Doctor. Maybe I’ll head out that way now. After the day I’ve had, I think it would be nice to do something I’m good at for a while.”

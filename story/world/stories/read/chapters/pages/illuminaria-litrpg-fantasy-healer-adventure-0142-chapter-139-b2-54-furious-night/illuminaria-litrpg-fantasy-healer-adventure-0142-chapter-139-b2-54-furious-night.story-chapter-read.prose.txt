@@ -1,0 +1,83 @@
+139/54 - Furious Night
+
+The crash turned out to be a section of an archway that had been knocked over by the raging winds. Like a line of dominoes, the falling stonework had torn open the wall of the building it had been attached to, punching through the floor. Those in the basement had been hammered with grapeshot-like shards of masonry.
+
+Tezeno had to drop the mana-draining dome and switch to a smaller force effect based on stamina. Joe could help with stamina, but he couldn’t recharge anyone else’s mana. This barrier, [Ardent Aegis], was the size of a tower shield and could be adjusted to block various effects, such as just physical, just magical, various types of elemental energy, or spiritual beings. Tezeno had set the skill so that it would only block physical objects. If he tried to use it against the winds themselves, his arm would have been torn off. It turned out that the blasting gale around them fit into the elemental bucket, not physical.
+
+Flaring [Steadfast], Joe leaned forward and braced the archon’s back, as the typhoon fired shrapnel at them. Most tinged off the force barrier in front of them, but quite a few curved around the shield, slicing their way across Joe’s body, mostly finding his calves.
+
+When they reached a point where Joe’s enhanced vision could see into the shattered chamber, he counted one unmoving body, three that were barely moving, and an adult man with a woman in his arms. He was trying to use what Joe guessed had been his shirt to staunch her bleeding. As the man fumbled about with his hands, trying to find the wounds, Joe realized that the dim light he was seeing through was not enough for them.
+
+As soon as Joe threw a [Halefire] ahead of Tez, he shouted to the sentinel a foot in front of him. “Should have asked. How well can you see out here?”
+
+“Not well at all, Joe. I have an extra sense, but it is useless tonight. Normally, I can sense disorder, but with everything being overwhelmed by the storm, I am being swamped by static. Puq gave me a [Shadow Eye] enchantment. Your darksight skill is obviously much better, but I can get by, especially once you place your fires,” the shield-warrior yelled back his answer, before asking, “How many are here?”
+
+Joe tried to use his wound-sight, but the blasts of rain made it almost impossible to see clearly. Finally, he caught a flicker of red from the motionless body. He breathed a sigh of relief. They were not too late.
+
+“At least two. But we have to hurry.”
+
+Joe sent the amber paw in ahead of them and touched the woman.
+
+Your skill [Healing Touch] has increased to rank 47
+
+The woman lurched upright in the man’s arms and let out a ragged scream. She had gone from the brink of death up to over two hundred and fifty points of health in an instant. All the pain of those wounds must have been a terrible shock. Joe winced and quickly cast [Deaden Flesh] where he remembered the worst of her wounds had been. Now that he could break the numbing curse, he should get in the habit of using it first, even in emergencies.
+
+The two guilders pulled themselves forward and staggered in through the hole in the wall. Once inside, Joe let Tezeno take command of the occupants while he bolstered each of the wounded with his healing. The archon moved everyone to another corner of the basement before using the sending stone to summon one of Vexor’s portals.
+
+Before following, Joe spoke loudly over the howling wind coming through the ragged gap in the floor above them. “You think we should go back?”
+
+Tezeno considered the question before grimacing. “We’re here, and I know this section of Seaside. These buildings were not well-made. Lots of cheap living spaces for sailors and their families. We’ve seen two fallen structures just one building apart from each other. There are surely more. I think we should brave the storm a bit further and see if any more citizens in this row need us. It’s your call, too, Joe. We don’t do this if you don’t want to.”
+
+“I was thinking the same thing, Tez. Let’s keep going until we are forced back or called to somewhere else.”
+
+Joe let Tezeno take the lead and braced them both with [Steadfast]. His new clawed bare feet felt far more solid than his boots ever had. He could grasp the cobblestones with his claws, and somehow it felt like having removed the layer of sole from between his skin and the ground had enhanced his steadying skill's effectiveness.
+
+Your skill [Steadfast] has increased to rank 18
+
+The wind seemed to be trying to force them back into the broken apartment house, but step by grunting step, they pulled back out into the tempest. Hugging the building turned out to be the easiest path. The pair clung to the buildings, keeping a wall tightly between them and the ocean as much as possible. They found it easier to tumble over railings than to move out into the street to go around front porches.
+
+When they reached alleyways, Joe moved to the front to see if he could spot a downed house the next street over. Joe was loving his signature spell.
+
+Your skill [Casting Claw] has increased to rank 26
+
+Being able to drop a spell thirty yards away, medium for the claw plus short for the fire spell, meant he could stand at one corner of the house and drop a [Halefire] either ahead of them on the avenue they were creeping along or down the alleys into the next street over. The gusts would tear the amber paws to shreds if given the chance, but if Joe was careful and quick, he could angle the fingers into the wind and cast before an errant squall blew apart his constructed claw.
+
+It was slow going: casting light, scouting, carefully crossing from building to building, but they found six more homes right around them that had folks who needed rescuing.
+
+On their way to the seventh, their luck finally ran out.
+
+All Joe heard was “Oh Phylth!” from the archon in front of him before a section of roof plowed into the pair of them. Ripped from the street, the spinning shingled plane hurled them away from each other. Joe tried to get a fix on any location to teleport off this surely-lethal ride, but he was moving too quickly and erratically for his eyes to lock onto any spot long enough to activate the [Talisman of the Medic].
+
+Then the cry of “[LAST BASTION]!” rang out through the howling storm. Joe crashed into a stone wall, inside somewhere, out of the storm. The collision had hurt like hell, but thankfully [Stun Block] prevented him from being stupefied by the impact. He was sprawled inside a small stone tower, not a force construct, but an actual stone structure. Tezeno had also landed in a heap and was shaking off his landing.
+
+“How long will this thing last, and why didn’t we use it back on Decker Street?” Joe asked, massaging his sore jaw.
+
+The storm so far had been far from constant. It had been punctuated by brief lulls of mild wind and rain and moments of insanely explosive mayhem. The Decker Street crossing had one of the latter. A few blocks ago, an overly raucous band of the typhoon had transformed a row of slate roofs into a Gatling gun aimed right at the pair of guilders.
+
+“It lasts until I recall it,” the archon answered inside the little twenty-foot-diameter turret. “The bastion is a permanent structure that I can summon and unsummon, but it has a very long cooldown between summonings. This was our one use for tonight. The good news is it's far stronger than even this legendary storm. I’ll leave it here, and unlocked. We can have Vexor tie a portal to it for anyone who finds their way here. I’ll collect it tomorrow.”
+
+Joe patched them both up from the lacerations inflicted by the runaway rooftop, then the pair spent a minute, grabbing a bite of food and a drink, as well as just plain catching their breath. Even breathing in those winds was tiring. While Joe cycled [Swap Stamina] and [Efferous Endurance], the sentinel climbed a ladder to the roof to get a look around.
+
+“Ok, we have made our way to the edge of the Godsrow District,” he stated, descending. “Most of the folks around here will have retreated to the temples. They should be protected within church walls,” The guild lieutenant scowled and then added. “There is one place nearby I want to check. Dhmyz is the god of death and dying. He can be a very cruel deity. I could see him trapping people at his front door and not letting them in, or at least not letting any living bodies in. Just lost souls. Would you mind going with me to check it out?”
+
+“Course not. It even sounds like we might be catching a break.” Joe could hear the sound of the winds slowing once more outside the tower’s arrow slits. If they moved now, the pair might be able to make a good distance in the momentary quiet patch.
+
+They exited the structure to a merely strong push of wind. Nothing they could not run through. The sky was still a black churning mass just overhead, but in this small weather corridor, Joe and the justicar were not having to fight for footing.
+
+They headed in the direction of a large, ominous church. The temple of Dhmyz looked like a massive sepulchral mausoleum crafted from ebon and gray stone. Sure enough, people were banging on the heavy portcullis, begging for entry. Other bodies lay strewn about the churchyard, some impaled by shards of wood. Some even seemed to have been run through by spiked rods that had somehow been ripped free from the cast-iron fence that surrounded the death-god’s holy ground.
+
+One of the skewered bodies still had a pulse. While Tezeno headed up the steps to those too stubborn to run to a more amenable deity’s home, Joe angled toward someone he could save. He numbed the point of impalement and healed, tugging out the metal rod as he did so..
+
+You are attempting to heal Sallomon Moone for 257 points of health. Your healing is occurring at the exact moment of Sallomon’s expiration in the dominion of Dhmyz. Do you wish to contest the deity of death for the life of Sallomon Moone?
+
+Normally, Joe probably would have considered the ramifications of defying a deity, but ever since he and Tezeno had ventured into the storm’s seething frenzy, he had been running on 90% adrenaline and [Efferous Endurance]. Before Hawking’s not-too-subtle warning had a chance to sink in, Joe barked, “Damned straight I do!”
+
+His healing flared through the man, building new blood and closing the wound. Sallomon dragged in a deep breath and jerked up into a sit. As he panted, his gaze found Joe’s, and then the man’s attention swung past Joe’s head to focus on the sky beyond. His eyes opened wide, and a look of horror crossed his face.
+
+“Ghath axskeh mutraz,” growled a vaguely familiar, beastial voice from behind and above Joe.
+
+Joe started to turn, but before he had even made it halfway around, a massive brindled paw lashed past his body, tearing open Sallomon’s chest. An instant later, a pair of enormous jaws clamped down on Joe’s shoulder and forearm. He was hoisted up into the air, and before he could react, something slammed into his back. Searing agony flooded away from the impact point, a pain worse than anything Joe had ever encountered before. The injected toxin thoroughly overwhelmed [Stun Block], locking Joe into an agonizing seizure of torment.
+
+As the ground fell away, the lull in the storm began to close back up below his dangling feet. He barely caught one last sight of Tezeno running out into the street, shouting Joe’s name. The next spasm threw his head upward, allowing Joe to catch a glimpse of mottled wet fur, huge leathery wings, and a long chitinous stinger in the air above him.
+
+As Tusked Tarz winged through the narrow channel of navigable air, Joe hung in the manticore’s claws, unable to do anything to save himself until he could regain control of his poison-ravaged body and mind. He didn't even have the clarity of thought to acknowledge just how big a dick the death god could be when crossed.
