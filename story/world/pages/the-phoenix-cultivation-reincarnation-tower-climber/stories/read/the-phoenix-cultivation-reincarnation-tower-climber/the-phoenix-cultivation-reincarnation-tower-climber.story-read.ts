@@ -1,0 +1,46 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const thePhoenixCultivationReincarnationTowerClimber = {
+  id: "01a1674e-10ca-72fb-8f1e-ab87beca8360",
+  type: "page-type/story-read",
+  slug: "the-phoenix-cultivation-reincarnation-tower-climber",
+  author: "The Phoenix",
+  following: false,
+  unit: "unit/words",
+  title: "The Phoenix [Cultivation, Reincarnation, Tower Climber]",
+  world: "world/the-phoenix-cultivation-reincarnation-tower-climber",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "112825",
+      externalLink:
+        "https://www.royalroad.com/fiction/112825/the-phoenix-cultivation-reincarnation-tower-climber",
+    },
+  ],
+  externalTags: [
+    "GameLit",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Wuxia",
+    "Psychological",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Attractive Lead",
+    "Cultivation",
+    "Female Lead",
+    "High Fantasy",
+    "Magic",
+    "Martial Arts",
+    "Mythos",
+    "Reincarnation",
+    "School Life",
+    "Secret Identity",
+    "Strong Lead",
+    "Supernatural",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T05:48:51.786Z",
+  updatedAt: "2026-10-23T05:48:51.786Z",
+} as const satisfies StoryRead
