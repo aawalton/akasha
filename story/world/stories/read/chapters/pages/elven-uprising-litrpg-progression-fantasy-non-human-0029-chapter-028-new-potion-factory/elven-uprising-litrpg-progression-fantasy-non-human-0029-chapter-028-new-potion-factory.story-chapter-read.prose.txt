@@ -1,0 +1,151 @@
+[Spell: Wood Ski]
+
+This spell was activated through the legs, requiring precise footwork and mainly relying on the Speed Factor.
+
+The left foot stayed still, anchoring the body, while Control Authority was channeled through the right foot — onto the contact surface. Even with minimal stats, both Range and Speed Factors sat at one unit, letting the Elf manipulate wood within a metre at a speed of one metre per second. So when the spell activated, the wood beneath the right foot shifted forward by half a metre in half a second, pulling the foot along with it — no muscle movement involved.
+
+Once the foot came to a stop, the same process repeated with the other foot. Step by step, this allowed the Elf to glide slowly across the wood. It seemed unimpressive at first — until the stats began climbing.
+
+At a Speed Factor of 5, that same half-metre shift took just a tenth of a second. And that was all it needed.
+
+One-tenth of a second — that was the spell’s activation window. It also happened to be the fastest human reaction time back on Earth. So, in one second, alternating the spell between right and left foot five times each, the Elf could glide forward by five metres.
+
+And keep in mind — a Speed Factor of 5 wasn’t even hard to get. As it climbed higher, the speed an Elf could hit with this spell easily outpaced anything the muscles could manage. As long as the mind was sharp and the body could handle the pressure, movement speeds far beyond regular bipedal limits were within reach.
+
+‘And that’s at Level 1, with just a Control Factor of 1.’ Pinaka felt an almost painful urge to try it out right away. ‘I’m already at Level 2… and my Control Factor hit 2 as well. What I can pull off with this spell is…’
+
+“Heh—haha!” He slapped a hand over his mouth, trying not to burst out laughing.
+
+At Control Factor 1, the spell used static friction to keep the foot in place, and Control Authority was focused on moving just one foot forward.
+
+But once the Control Factor hit 2, everything changed. As one foot slid ahead, the other could anchor firmly — because Control Authority could now be applied through both feet at once.
+
+That meant skiing over slopes — or even up vertical wooden surfaces — was suddenly possible. One foot pushed forward, the other held steady.
+
+‘And this isn’t even the best part.’
+
+The same spell became something else entirely with the addition of the Creation Factor. That’s when things really got scary. Now, a new possibility opened up — the anchoring foot could use the Creation Factor to generate a wooden foothold, while the moving foot glided over it.
+
+If the Elf had a Speed Factor of 10, the moving foot would channel five units of that speed, gliding forward at five metres per second.
+
+Meanwhile, the Creation Factor would generate a wooden floor at ten metres per second.
+
+Say the right foot moved forward by half a metre — the left foot, acting as the anchor, would create a wooden foothold stretching a full metre ahead. Since it was producing wood faster than the right foot that was moving, there would always be a solid surface for the right foot to ski over.
+
+Once the right foot came to a stop, it would then spawn wood from its new position, while the left foot slid forward next. In this way, there was always a wooden path underfoot — meaning the Elf could keep moving, practically forever, without stopping.
+
+‘The only thing holding this back is the mind,’ Pinaka thought. Sure, the body would still feel the strain of all that movement — but skiing used far less energy than running. That meant longer distances, and at much higher speeds.
+
+‘If I study civil engineering… I can build wooden bridges mid-air, shaped however I want, and they won’t fall apart during combat.’ Structural stability would be key if he wanted to spawn platforms in the sky, especially when only a small section was touching the ground — like a floating bridge.
+
+With just a bit of study and experimentation, the possibilities were endless. And the moment that thought fully clicked, he couldn’t help but blurt, “Damn!”
+
+The Spell of Wood Ski could also be cast through the palms — but skiing that way required way more finesse than doing it with the feet.
+
+‘This spell alone makes everything worth it!’ Pinaka grinned, barely able to contain his excitement. He’d gotten two spells from Raepekka. The guy had ideas for a bunch more, but only these two were truly creative — actually making full use of their power system’s function.
+
+[Spell: Grafting]
+
+Grafting was a method of joining two plants or plant tissues together. That was the definition back on Earth — and here, the spell did exactly that.
+
+Normally, you couldn’t use Control Authority to merge two separate pieces of wood. You could change their shape, sure, but that was about it.
+
+That’s why whenever they used Control Authority, it was always on a single object. Like when Pinaka manipulated a stalk of wheat — he reshaped it, compressing the roots and shoots into whatever form he needed. Structurally, even if it had multiple branches, it still counted as one object.
+
+That’s also why he constantly had to discard his shoes. Every little crack or scuff chipped off small bits of wood, and since the material was no longer whole, the total mass of “one object” kept shrinking.
+
+The Grafting spell fixed that. It lets one join two pieces back together. For someone at Level 1, that was huge. Pinaka, though, didn’t really need it — he could create wood on command now.
+
+Still, just understanding how the spell worked and the logic behind it was more than enough. He didn’t need to waste a spell slot on it.
+
+While he was deep in thought–sparks of inspiration were flying left and right thanks to his new spells–a team of six soldiers marched into the prison, dragging the limp body of Prichka behind them.
+
+Pinaka subtly peeked through the railings on his floor, watching as the soldiers shoved the World Tree Fruit into Prichka’s mouth and roughly strapped him into the apparatus. They weren’t gentle, but it didn’t matter — the World Tree Fruit healed the Elf’s wounds almost instantly.
+
+Once Prichka was secured to the pillar’s device, the fang from the Vampire Race was stabbed straight into his heart. Twenty litres of blood were drawn in total.
+
+“It’s a bit less today. We wasted some of the healing power on this slave’s setup,” muttered a grey-robed Human. The group finished up quickly, cleaned the area, and left.
+
+“You’re struggling, huh?” Pinaka stepped out once the coast was clear, standing before the pillar and looking at Prichka. His face was filled with silent grief. For a second, Pinaka hesitated, questioning himself. ‘Can I really go through that kind of pain without losing my mind?’
+
+‘Man, fuck this world,’ he sighed. Still, this was the fastest way to boost his stats — and he could do it without any surveillance watching over him.
+
+Activating the Spell of Root Glove, Pinaka climbed the pillar. Once at the top, he let the glow of his Status Window light up Prichka’s face.
+
+“Do you want to survive?” he asked.
+
+Prichka couldn’t speak, but the answer was clear in his eyes — he wanted to live.
+
+“Then show me your Status Window,” Pinaka said. He only asked so he could copy it, just in case the Humans ever demanded to see it. ‘From what I’ve seen these past few days, they never do. But it’s better to be safe.’
+
+[Name: Prichka][Race: Elf][Authority: Wood][Control Factor: 1][Weight Factor: 6][Volume Factor: 1][Range Factor: 2][Speed Factor: 1][Spell: Seed Overgrowth]
+
+For someone who’d been alive for over a year, Prichka’s stats were painfully underwhelming. He didn’t have the talent, and even his deliveries were sloppy. The quality of his output never measured up to the other Elves. When it dropped below acceptable levels, he was shoved into the role of a potion factory.
+
+Only the least talented Elves ended up there. Otherwise, with daily access to World Tree Fruits, their stats would skyrocket beyond control.
+
+That’s why people like Nunaka — Elves with decent potential — were killed off after a while. They kept growing despite everything: the awful conditions, the restrictions. Even when they tried to hold themselves back, they still advanced.
+
+‘I think I’m pretty decently talented too,’ Pinaka thought, leaning in close to study Prichka’s face. ‘Which means I’m not going to be kept alive for long. So this is better anyway. Once I’ve squeezed every last benefit out of this place, I’m gone.’
+
+“Goodbye.”
+
+Pinaka slowly extended his index finger and drove it into Prichka’s heart.
+
+The shock on the Elf’s face was gutting — disbelief, then the crushing realization as the last flicker of hope shattered.
+
+And just like that, Pinaka stopped his heart.
+
+Prichka was dead.
+
+Like warm butter sliding around a sharp knife, Prichka’s muscles loosened under Pinaka’s control, freeing themselves from the nails.
+
+In just a few minutes, he had pulled Prichka completely out of the apparatus. Carrying the limp body down to the floor, Pinaka used the glow of his Status Window for light and got to work altering the Elf’s appearance.
+
+‘Perfect. He looks just like me.’ Pinaka double-checked every scar and detail, making sure Prichka was a flawless copy. At the same time, he reshaped his own features to match Prichka’s.
+
+Once everything was in place, Pinaka carried the real Prichka to his cell and laid him on the floor, arranging the body to look like someone who had died from extreme starvation.
+
+‘Hmm… whatever.’ He glanced into Mahnaka’s cell for a moment, but shrugged it off. ‘Whether he’s on our side or has sold out to the Humans, it doesn’t matter.’
+
+Next, he walked over to Raepekka’s cell and crafted a corpse of him.
+
+Before long, Pinaka returned to the pillar. He gently strapped himself into the apparatus, bracing himself.‘It… HURTS!’
+
+He surged adrenaline through his body, doing everything he could to avoid triggering the pain receptors. Even so, a couple of small mistakes had him instantly regretting his boldness.
+
+The gloves he’d used to climb the pillar had been transformed into a thin sheet, which he slipped beneath the skin of his stomach. He made the final adjustments to his appearance, making sure he looked exactly like Prichka.
+
+Then he let himself relax.
+
+“Now, I wait.”
+
+Clang! Clang!
+
+At dawn, a soldier stormed into the prison, banging his baton against the metal gates to wake the Elves. The sharp, grating noise stirred them from their sleep. He only moved on to the next cell once he saw movement inside the first.
+
+The Elves had learned to snap awake the moment they heard that sound. All of them did — except for one.
+
+The soldier frowned. “Slave!” he barked.
+
+Storming into the cell, he drew his whip and lashed it onto the floor, right beside the Elf’s face. “GET UP!”
+
+Still no reaction.
+
+Scowling, he kicked the Elf in the stomach. Nothing.
+
+‘No way…’ He crouched down, placing a finger under the Elf’s nose, then checked for a pulse. A few seconds passed before he straightened up, face grim. “He’s dead.”
+
+The commotion drew the attention of the nearby cellmates — Zetaka and Mahnaka — who came over, confused.
+
+Then they heard the soldier’s verdict.
+
+Zetaka clicked his tongue in annoyance and turned away, uninterested. But Mahnaka stared in disbelief for a moment, eyes fixed on the body. ‘I thought you were going to do something, Pinaka. Where’s the fire you had on the first day?’
+
+‘I guess… in the end, you weren’t any different from the rest of us.’ He sighed, shaking his head slowly before turning to leave.
+
+‘This fucked up place got you too.’
+
+…
+
+Gangnea Daily Article #28 The metal carriage, Sun Stone tech, and bridge systems were all created by Master Whorren — the Human Librarian. Famous for inventing the potion factory’s apparatus, he loved torture, and most of his “innovations” began as flawed torture devices.

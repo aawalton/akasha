@@ -1,0 +1,45 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const elvenUprisingLitrpgProgressionFantasyNonHuman = {
+  id: "01a167f5-a423-77b1-b5c2-c6e193f45624",
+  type: "page-type/story-read",
+  slug: "elven-uprising-litrpg-progression-fantasy-non-human",
+  author: "Anvelope",
+  following: false,
+  unit: "unit/words",
+  title: "Elven Uprising [LitRPG Progression Fantasy, Non-Human MC]",
+  world: "world/elven-uprising-litrpg-progression-fantasy-non-human",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "107482",
+      externalLink:
+        "https://www.royalroad.com/fiction/107482/elven-uprising-litrpg-progression-fantasy-non-human",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Anti-Hero Lead",
+    "Kingdom Building",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Mystery",
+    "Dystopia",
+    "GameLit",
+    "Grimdark",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "Non-Human Lead",
+    "Reincarnation",
+    "Strategy",
+    "Strong Lead",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T08:51:54.018Z",
+  updatedAt: "2026-10-23T08:51:54.018Z",
+} as const satisfies StoryRead
