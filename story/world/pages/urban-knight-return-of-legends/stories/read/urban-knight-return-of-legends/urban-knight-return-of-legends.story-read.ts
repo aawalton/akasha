@@ -1,0 +1,40 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const urbanKnightReturnOfLegends = {
+  id: "01a16a86-df89-7eee-8e09-46855da833ce",
+  type: "page-type/story-read",
+  slug: "urban-knight-return-of-legends",
+  author: "Sieghiro",
+  following: false,
+  unit: "unit/words",
+  title: "Urban Knight - Return of Legends",
+  world: "world/urban-knight-return-of-legends",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "90228",
+      externalLink: "https://www.royalroad.com/fiction/90228/urban-knight-return-of-legends",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Urban Fantasy",
+    "Progression",
+    "Multiple Lead Characters",
+    "Slice of Life",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Dungeon Crawler",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "Romance Subplot",
+    "Soft Sci-fi",
+    "Supernatural",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T20:49:46.377Z",
+  updatedAt: "2026-10-23T20:49:46.377Z",
+} as const satisfies StoryRead
