@@ -91,6 +91,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/forge-of-destiny/forge-of-destiny.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/foxian-reset-weak-to-strong-isekai-to-game-world/foxian-reset-weak-to-strong-isekai-to-game-world.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/gamer-girl-evolution/gamer-girl-evolution.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/geomancing-the-undercavern-kingdom-building-litrpg/geomancing-the-undercavern-kingdom-building-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/gifted/gifted.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/god-of-trash/god-of-trash.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/guardian-of-aster-fall/guardian-of-aster-fall.world.ts","typed":true,"deferred":false}
@@ -209,6 +210,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/taste-of-magic-archbishops-command-book-2-stubbed/taste-of-magic-archbishops-command-book-2-stubbed.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/terminus/terminus.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-archmage-coefficient-op-archmage-mage-academy/the-archmage-coefficient-op-archmage-mage-academy.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-art-of-seeking-gold/the-art-of-seeking-gold.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-beholder/the-beholder.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-bookstore/the-bookstore.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/the-calamitous-bob-stubbed.world.ts","typed":true,"deferred":false}
