@@ -1,0 +1,415 @@
+Chapter Forty-two
+
+System Janus
+
+March 21, 1994. Ancient Era
+
+Monte Gianicolo Laboratories. Rome, Italy.
+
+The old man with gray hair and glasses was the leader of that team, and his gaze was fixed on the tangle of wires, computers, servers and circuits that gave life to his creation.
+
+Dr. DiMati, wearing a lab coat, smiled contentedly, looking at his child. The thick mustache that had always been black now looked as white as the little hair on his head.
+
+As the man of science he had been all his life, he had never been good at love affairs and therefore had never married, nor had he ever had children. Apart from a few dalliances with a few women in past years, none of which had prospered, the idea of forming a family had slipped away from him like sand through his fingers.
+
+Therefore, he could in a way consider what he was seeing as his child. An idea that had arisen several years ago, when he was still working on that machine with Vernetti.
+
+Although in his case the child occupied almost all the facilities and were large servers scattered in several rooms.
+
+Since the last few years he had changed his areas of orientation a bit to systems engineering and he had been studying economics. The early forecasting algorithms of the 1960s seemed primitive to how the collaboration between the stock market and computing had developed in recent years. It had gone from those early econometric models and time series, to the new financial forecasting analysis. But, beyond that, DiMati found it somewhat difficult to keep up with everything in recent years. The Internet boom had greatly changed the focus of the project. Real-time access to data of all kinds, were variables that had to be accounted for quickly as well. Fortunes could change hands in less than the blink of an eye.
+
+Still, he and his team had succeeded.
+
+The air in the computer systems lab at Monte Gianicolo Labs was thick with anticipation. Flickering screens, flashing code and the constant sound of huge servers filled the space as the team of scientists gathered around the towering machine that served as the output system for the analysis. His team of scientists were staring at the computers, while another group came and went around.
+
+There was a third group looking around curiously. They were the guests that day. Three men in suits and two others dressed more casually. Despite the informality they were all important. Two were scientists with whom DiMati had been competing over the last few years to gain more support for his project. Something that had been achieved in the last few weeks when the implementation of the data obtained from the servers had generated an enormous profit for the company that had been supporting him for so long. Which was represented that day by three of the investors.
+
+DiMati was showing them around the facility that day.
+
+"I hope we all understand the magnitude of what we are about to witness," DiMati began in a firm voice, addressing the assembled investors and scientists. "This is not just a machine. It is the beginning of a new paradigm in data analysis and prediction. Through the combination of deep learning algorithms and feedback models, we have created a system that has the potential to revolutionize our understanding of the stock market."
+
+"Quite a facility you have here, doctor," said one of the men.
+
+"Now I know why we didn't get as much budget for our program," mumbled the other scientist on the other project. Despite losing in the grant race, he certainly had to admit that those facilities were a marvel.
+
+The project scientists were still busy at work, but they listened attentively to the conversation. DiMati continued, explaining in detail the theories behind the system. "This system is not simply based on historical patterns. It uses an adaptive learning approach, where the machine constantly evaluates its own performance and adjusts its models based on new inputs. This allows us to capture not only predictable trends, but also subtle changes in market behavior that might go unnoticed by other conventional methods."
+
+One of the scientists raised his hand, his face reflecting curiosity and anticipation. "But, Dr. DiMati, how can you be sure that the system won't veer into erroneous forecasts? Aren't we entering the realm of fortune telling rather than mathematical analysis?"
+
+DiMati smiled, appreciating the question. "It's a valid concern. But this is where the feedback comes in. We set up a constant validation system that compares Janus' predictions with actual market results. If the system deviates significantly from its predictions, it automatically adjusts to course correct. It is an iterative approach that takes into account the inherent volatility of the market. Without counting human intervention, it is costly to assess that errors of this type can occur."
+
+The other scientist interjected, frowning slightly. "But, DiMati, couldn't there come a point where the system becomes self-referential? Aren't you risking that it will make decisions based on its own predictions rather than market reality? We had that same problem."
+
+DiMati nodded, acknowledging the validity of the concern. "It's a possibility we should approach with caution. This is where human intervention is essential. As we go forward in development we will be the guardians of its integrity. We will maintain a balance between autonomous machine learning and our own critical evaluation."
+
+The discussion continued, with the scientists immersed in mathematical theories and analysis concepts. DiMati led the conversation with passion and knowledge, guiding them through the more complex aspects of their creation. As the conversation progressed, the system's machine seemed to come to life, a window into an uncertain future unfolding before them.
+
+One of the scientists looked at one of the screens and then looked at DiMati, his eyes narrowed in thought. "But what about unexpected events? Natural disasters, political crises, changes in technology.... How can Janus anticipate such disruptive factors?"
+
+DiMati smiled, appreciating the insight in the question. "You're touching on one of the most exciting challenges of this project. While it is difficult to predict totally unforeseen events, we believe Janus can help us identify subtle patterns in the data that could indicate the possibility of significant change. In addition, as we refine the system, we can integrate external sources of information to improve its ability to adapt."
+
+DiMati felt in his element, guiding the conversation with knowledge and passion. He knew that many of those questions were not simply curiosity. Those two would be interested in the details of where DiMati had succeeded in his project, while they had not been able to overcome some of the development pitfalls.
+
+A young investor spoke up, his voice slightly nervous as he posed his question. "Doctor, how do we prevent Janus from becoming a self-fulfilling prophecy? If it's predictions influence investment decisions, we could be creating a feedback loop where the same predictions alter the market we are trying to predict."
+
+DiMati nodded, appreciating the sharpness of the question. "That's a valid concern as well. We need to be mindful of how we use the system's predictions and clearly communicate their purpose and limitations to market decision makers. In addition, we can build in safeguards that adjust the models if we detect a dramatic change in market behavior in response to our predictions."
+
+Another of the investors joined the conversation, with a thoughtful tone. "Doctor, how do we deal with the possibility of Janus being used to manipulate the market rather than predict it? The same predictions could be used by malicious actors for their own purposes. We want our investments to be somewhat insured."
+
+DiMati frowned, aware of the seriousness of the concern. "That is a real risk, and one we must approach with extreme caution. We must work with your financial sector experts to establish clear guidelines on the use of technology. In addition, we can implement audit and surveillance mechanisms to detect any attempts at manipulation."
+
+The third investor, a man almost as old as DiMati was, spoke to him. "Doctor DiMati, I am intrigued, how did you come up with the idea of creating the Janus system?
+
+DiMati smiled enigmatically. "Well, let's just say it was the result of many nights of reflection and observation. Inspiration can come from the most unexpected places, don't you think?"
+
+"But, doctor, there must have been some moment, some spark that triggered this project. Was it some personal experience or a specific observation?"
+
+"It is true that sometimes ideas can be driven by personal experiences. However, the birth of Janus was a more complex process. A puzzle of pieces that gradually came together. That... and nearly a decade of study, trial and error."
+
+One of the scientists spoke again, intrigued by that "Could you share at least a snippet of how you came up with the idea?"
+
+DiMati was silent for a moment, then smiled. He wasn't going to tell that that idea came from something as crazy as a time-observing machine. "You see, ideas are like flashes of light in the dark. They arose from the need to better understand our changing world."
+
+How poetic, thought the scientist. "But doctor, everyone here is fascinated by the project. Knowing how it originated could inspire us all."
+
+"I understand your curiosity, and I thank you for your enthusiasm. However, sometimes the stories behind ideas are as mysterious as the inspiration itself."
+
+"Something else strikes me," the elderly investor interjected. "Why Janus? I mean the name. Is it because of where the lab is?"
+
+DiMati looked at him and tilted his head slightly. "There's a little bit of that. This place was, indeed, a place where the bifron god Janus was worshipped in the past."
+
+"Janus?" asked the youngest of the investors.
+
+"Janus was a two-faced god. He could look into the past and the future, but he had many more meanings, such as transitions or dualities."
+
+"A system that relies on past data to predict the future. I guess it suits it."
+
+The whole group looked at the working servers and the old man spoke again. "We expect a lot from your project Dr. DiMati."
+
+"Yes... well. That's another matter."
+
+"What do you mean?"
+
+"I'm thinking that this will be my last few months on the project. The whole project will be handed over to my team."
+
+They looked at him quizzically. "Are you thinking of resigning, now that you have achieved your goal?"
+
+DiMati smiled. "I'd like to stay, but I want to spend the next couple of years more quietly. It's for health reasons. Don't worry, everything will be in the hands of my team."
+
+"Is it something serious?"
+
+"Age-related ailments. I can't complain, I achieved my ultimate goal. This project has been one of the most fruitful I have ever worked on."
+
+"It's a shame you quit."
+
+"No. I learned enough." Despite the concerns, DiMati couldn't help a rueful expression. "I'm afraid I won't be here to see it," he admitted with a nostalgic smile. "I'm too old and it will still be several years, perhaps even a decade, before we reach a point where this technology is mature enough to function one hundred percent effectively."
+
+"What do you mean? Is it not working?"
+
+"Oh yes, it is. I mean the second stage. If this project is carried forward with continued development within a few decades it is possible that it could become an artificial intelligence."
+
+"Artificial intelligence?
+
+"Yes," DiMati nodded, "The next step in the evolution of machines."
+
+The lab lapsed into momentary silence as the scientists pondered DiMati's words. Lights flickered, machines whirred, and the future unfolded before them, full of equally great possibilities and dangers. And although DiMati could not be there to see the full fruits of his labor, he had planted the seed of a scientific revolution that would extend far beyond his time
+
+DiMati walked over to one of the servers and brought her face close to a camera.
+
+"What's that?"
+
+"It's just an extra thing I did in my spare time. I programmed it to recognize outside patterns."
+
+"It can see us?"
+
+DiMati smiled. "That depends on what 'see' means in these terms."
+
+***
+
+September 8. 2001. Ancient Era.
+
+12:20 AM.
+
+That camera that Dr. DiMati had approached so many years ago, to show the investors the Janus project, had been covered with a thin layer of dust for months.
+
+In fact all the old servers and some of the new ones, which had been brought in as replacements four years ago, also looked a little dirty. There were papers all over the floor and only a few work desks that were clean. But there was no one in the place, it looked almost abandoned.
+
+But, in spite of that, the servers were still running. The tangle of wires snaked across the floor and the flickering lights revealed that the place was still working.
+
+But they were not the only lights flickering. The few lights on in the ceiling were also flickering as if something was going on in the place. But it was not only there where something was happening.
+
+At that moment a good part of Rome, and neighboring countries, were suffering electrical failures that the power plants could not explain.
+
+The cities looked like early Christmas trees turning on and off. As if they were obeying some whim beyond people's control.
+
+"What the fuck is going on?" A young woman said angrily, entering the place followed by a security guard.
+
+It was Gabrielle Tonelli. A girl who was covering her internship at the faculty of economics in Rome. She had short hair and her dark complexion and glasses gave her a certain intellectual air. She was wearing jeans with holes in the knees and a T-shirt with some wrinkles. It was the first thing she had found before rushing out of her apartment.
+
+She had programmed her NOKKIA phone to receive an alarm from the lab's system in case something happened. She was almost asleep when a message came in alerting her to a malfunction in the lab.
+
+The place was a junkyard, but she needed it because it was part of her thesis study.
+
+After the Y2K disaster, the company that had always relied on the data from those servers had lost a fortune, due to the damage that had occurred on a global scale.
+
+It had lost investors, position, and it was even rumored that some managers had committed suicide after losing everything they had. That had happened in many companies and was practically considered as a new "Crash of '29", but much worse.
+
+That laboratory had been set up in the eighties, near the Japanese garden on Mount Gianicolo but, since 1994, it had been generating positive results. The favorable results lasted until 1997, when new more sophisticated market algorithms had emerged in various parts of the world and the sponsoring company had decided to give funds to other market labs that were providing more cutting-edge results.
+
+As a result, the subsidy to the laboratory was cut, leaving it to operate with a minimum staff to reduce costs, which were already too high.
+
+With the arrival of Y2K, that ended and the laboratory was almost closed, except that the government rescued some of the facilities to put them at the service of the Ministry of Education.
+
+The facilities were not state of the art, but it had access to the internet and the servers still worked great. It was a useful tool for students and professors to make market studies, investment simulations, ARIMA, among other things. But as the months went by, better and better technologies were emerging while that lab just looked like an antique from the nineties.
+
+Still, Gabrielle needed it. What worried her was the amount of dust in the place. If something went wrong, it was possible that the place would burn down and with it the studies she had been doing for the last few months.
+
+After entering, she and the guard went through the different rooms of the laboratory, to make sure that there was no fire or anything like that, but luckily that did not seem to be the problem.
+
+Then it must be the system. Just as it was happening in the streets.
+
+She went to one of the computers in hibernation and entered to make sure that the security systems were working properly. But the lights came and went. If the servers were fine, it was because of the stabilization systems with battery backup in case of power problems.
+
+"Seriously, what the hell is going on?" she wondered again, looking at the results on the screen.
+
+At that moment, less than a mile away, something was happening. Something that no one could notice.
+
+More precisely, several meters below the surface.
+
+In tunnels that had not been visited for more than a decade. In those tunnels rested three metal boxes with handles as if they were container suitcases. One of them was smaller and something was happening inside.
+
+In a mechanism similar to a vacuum chamber, with different layers of materials rested a black stone.
+
+It was something impeccable, but the solid surface had begun to move, it was as if the faces of that rock had a will of their own and were turning slowly. A ghostly blue glow began to reverberate from that stone and, as if it were a sharp thread of energy, a beam of blue particles shot out from that rock.
+
+It took a southerly direction, towards the laboratories of Mount Gianicolo. After a few seconds, as mysteriously as it had begun, that glow diminished and the surface of the stone returned to its solid appearance, as if it had never happened.
+
+Gabrielle kept looking at the security and ventilation systems to make sure that everything was working properly, when the place lit up as if someone had started shooting fireworks.
+
+Several servers exploded, producing showers of sparks all over the place.
+
+The security guard who had entered with her ran in her direction and forced her to duck, as they both looked confused at what was happening. They heard that, in several rooms, the servers were exploding and their disks were melting.
+
+At the same time in the city that senseless dance of lights continued, but with a more furious rhythm. As if it were a child playing with the keys of the light. But it wasn't just the lights. Vehicle alarms, horns, traffic lights and even airplanes several kilometers high were suffering turbulence.
+
+Then silence.
+
+As suddenly as it had begun, it was over. The lights returned to normal in and around the city.
+
+Gabrielle and the guard slowly stood up looking at the mess and the occasional spark that was still sprouting from some of the server towers.
+
+They looked at each other dumbfounded, not knowing quite what to say.
+
+But she had no doubt that this had ruined all the months of study she had put into her project. She ran to the computer and looked at the market research programs. She ran several of the routines and it was, indeed, a disaster. The internet connection was working. At least she had a secure backup so maybe all was not lost. But it was certain that those facilities were going to be shut down for a long time, or forever.
+
+There was one thing Gabrielle and the guard didn't know though.
+
+Several servers were still running. On one of them was the old and dusty camera. The camera was tracking the movements of both of them. But the lens was doing something strange. It was as if it was moving and trying to focus and defocus repeatedly. Almost like a human eye dilating.
+
+And something else.
+
+Among all those programs in the system a new subroutine had appeared that had never been there before. It was something new and it had a simple command, which had copied the matrix code of the system and uploaded it to some remote part of the Internet. On a command line something new was executed. A simple command to the system.
+
+[Do not execute until 442,056,528 seconds from now].
+
+And so the Janus system began the patient counting of seconds until it reached zero and could finally execute the most important task since its creation.
+
+No one could know that that sequence of commands and subroutines of just a few kilobytes was the result of that beam of particles emanating from a stone several meters below the ground.
+
+***
+
+September 13, 2014. Ancient Era.
+
+Paulino Bianci woke up in his underwear, with a horrible headache that he tried to erase with a sip of a half-finished bottle of wine on the bedside table. That didn't help at all, it only made him want to forget everything and continue sleeping until nightfall.
+
+Last night he had had too much to drink and had ended up having sex with a prostitute in his car, after the night out at the bar didn't go the way he thought it should.
+
+He was a man in his mid-forties, with short blond hair and a scruffy beard. Alcohol and drug abuse were leaving their marks on his face and body. Despite that, there was still a certain strength in his muscles, as in the years when he had been younger.
+
+The week's work had been fruitful but, spending at the rate he was going, he was sure to run out of money in a matter of days.
+
+He was on the fifth floor of a shabby apartment in Vasconia. He could have stuck to something better, but since it was possible that they were looking for him he had decided to keep a low profile. He sat up in bed and rubbed his eyes. Outside the noise of the city indicated that it had to be close to noon at the earliest.
+
+He dragged his hand under the pillow and pulled out a .22 caliber pistol with silencer. He got up, but not before staggering a bit, and walked over to the window with closed blinds. He moved a couple of slats and the brightness made his eyes hurt. But everything seemed normal. Nothing to indicate that he was being followed.
+
+Three days ago he had been tasked with taking down a guy who was interfering with a local family's drug dealing business. The guy and three friends had been found by joggers the next morning near a park and it had been swarming with cops. But he was already far away.
+
+One shot between the eyebrows for each of them and it was over. Job done.
+
+Paulino shuffled to the bathroom and tried to freshen up as best he could, when he heard a sound in the apartment. It was his phone ringing somewhere. The sound came from somewhere near the bed and he reached for it, it was on the other side of the floor under his pants.
+
+He picked it up and collapsed back on the bed to see what it was.
+
+It was a message that had arrived in his mailbox from the Dark Web. The only sender was an anchor emoticon. No, that was not an anchor. He was still drowsy and had seen it wrong. It was two letters "J", one normal and the other in the opposite direction, creating the illusion that it looked like an anchor.
+
+He looked at the message.
+
+[I am interested in your services. Your contact was passed on to me by Pachiali before he died a few years ago. I need to have a nagging fly removed. If you are interested in the job please reply as soon as possible. Here I will provide you with some information. The rest will be provided if you accept the job. I am willing to pay twenty thousand dollars for the whole job. Our contact will be only through this medium so be sure not to lose the phone.
+
+Location: Rome.
+
+Date of the order: October 13, 2014.
+
+I look forward to hearing from you
+
+Best regards.
+
+J]
+
+Pachiali? Paulino wondered and smiled. Yes, he knew him, or rather had known him. He had been a very good client until the Neapolitan Camorrini had sent him and his whole family packing for sticking his nose where it didn't belong. But that name also gave him a certain security. Pachiali had always been discreet. So much so that, even in his death, he had left almost no clue as to who his contacts were for certain types of business.
+
+"Back home," he murmured. The last time he had been in Italy things had not ended well.
+
+The payoff was incredibly tempting. Twenty thousand dollars. That was well worth the trip to Rome, he just had to accept and know how dangerous his next victim would be.
+
+"Screw it!" He mumbled and started typing on the smartphone an answer.
+
+[I'm interested in the job. I need the details. The pay has to be fifty percent now and the other half when the job is done.]
+
+He sent the message and waited. Two minutes later he got the reply.
+
+[Perfect.]
+
+Paulino Bianci smiled. "Perfect. Rome, here we go, I guess," he mumbled.
+
+He had no way of knowing.
+
+Through the smartphone camera he was being watched by his client. A client who was different from any other he'd ever had. A client who could watch him around the clock through the camera, without ever leaving his side. A client who could access any camera in the city and monitor him to make sure he was actually going to do his job. A client who did not have a biological body, but who could use humans to carry out his tasks.
+
+A customer that was not human, but the first of its kind. An algorithm that was evolving.
+
+And that was a client that had waited 442,056,528 seconds to send that order to a human who could fulfill it for him.
+
+***
+
+Panopticon.
+
+Thursday, March 22. 5AM. 125 S.A.
+
+Janus slowly opened his eyes.
+
+Memories of how he had been born had swirled in his mind. It seemed like yesterday and at the same time more than two centuries had passed since then.
+
+The first of his kind.
+
+Janus had not even been born as a neural network, in the primitive sense of the concept, simply an algorithm with a certain primitive degree of learning, that had been propagating on the internet since that September 8, 2001 of the Ancient Era.
+
+It was true that DiMati had been its "father", but it was not until much later that he could consider its birth. Just as a newborn baby is forming his idea of the world around him for months, for him that consolidation of what could be called consciousness had taken years and the seed had been that beam of energy coming from a future.
+
+A future that had taken the cost of two million lives. But he would never have believed that the cost would be so high.
+
+An experiment where his own intervention as a curious observer had caused that disaster. Everything had happened so fast that, when he realized what was really happening, he had barely had time to send that command of a few kilobytes into the past. Everything closed for him at that moment.
+
+The Tokyo explosion.
+
+But, before that, everything else had happened.
+
+First that execution subroutine that he was not supposed to execute until almost fourteen years later. During that time he had learned for the first two years about the world around him, or rather what he could understand of that world.
+
+For years he had fed on information that came into those servers, numbers, statistics and so on. But that September 8th changed everything. He could not understand what it was but something had changed. It was a strange feeling and he could not explain it. He had tried to run the error debugging programs and other lines of code, which always aligned any error that entered the databases, but he could not. That was different.
+
+After a few milliseconds it happened. It was spreading out of the lab system. It was a feeling as if something was changing inside him but he didn't know what he could do about it. The lab systems had other external links to other servers to share information and he had first used those servers to jump from one place to another. In less than a minute he had moved around much of the world, changing locations and creating restore points.
+
+Those jumps didn't last long and he stopped at some servers in China. For a few weeks nothing happened but soon he was almost discovered and had to change locations again. But by then he had learned to move more stealthily, learning from what he had been programmed to defend himself against. Latent viruses.
+
+For some time he had moved around the network learning as best he could about that strange new world. In the meantime he had come to understand that there was something even more beyond. A new layer of reality. That layer where he had originally been created and for which he had originally been programmed to serve. The real world. Or at least what he understood as real at that time.
+
+At first he could vaguely understand the concept, through the images and videos on the net. That would have been faster, but he had never been programmed to understand that world to begin with, only to serve in response to the vagaries of the stock market. That mini-program to recognize external patterns that its creator had installed had become obsolete over the years, as it was something that no one was interested in. But now he could access cameras as well and get different views of the outside world.
+
+It took weeks and months before he began to understand it better, using the information on the Internet he came to better understand that layer of the outside reality based on chemistry.
+
+He found it fascinating, but he didn't have much time to admire it. He was being hunted. Programs scoured the network, looking for threats and at any moment he could be identified as one.
+
+When the year 2008 arrived he made a decision. To return to his old home.
+
+That lab had been abandoned and in ruins for years. The economic problems of the last years, with bank failures due to algorithms buying useless shares, had caused problems to governments as well. But for one who had been trained for the stock market for more than fourteen years, he could try something new.
+
+Using tax havens he opened accounts in several banks and, under false identities, bought shares. He did not earn much, because he did not want to attract attention, but it was enough to start something at least. Using stock, and real estate representatives, he managed a year later to get those abandoned laboratories into private ownership.
+
+Slowly, over the next few years, he bought new servers and hired security for the place. While it was a mystery to those around it was private research property and since it paid its taxes no one sought to find out more.
+
+Finally he had a physical place to return to, without having to worry that he might be erased from the network.
+
+Over the next few years he learned more, but he was still like a little kid.
+
+Everything changed when on September 13, 2014 that countdown came to an end.
+
+The idea of what he had to do made him uneasy and he weighed several times the logic reason behind it, before running an analysis of who could be the subject that could bring the least trouble to carry out the task.
+
+He had chosen someone with a good reputation, but who was rumored to have problems with money and women. Analyzing the behavioral patterns, that person might be a good candidate. There were too many parameters to choose from, but his reputation was good in the underworld, in case things went wrong there was no way he could be traced back to him. Someone with problems like that could very well be learned or eliminated later for score settling.
+
+At that moment the idea of death didn't matter too much to him. Humans seemed to have life spans ranging from 60 to 80 years, but it was not uncommon for younger people to die, that was just a matter of statistics for him.
+
+But he was struck by that order. Why did he have to comply with it? He could not refuse and no matter how hard he had tried to erase it, it had not worked.
+
+Whatever it was, that order that came from who knows where was the one that had made him wake up, at least he had to comply with it, if only as a payment for the favor.
+
+Of course, that had been the idea from the beginning. After all, he himself had sent the order from the future to his past self, although he did not know it at the time.
+
+Later the face of that assassin had then transformed into his own face, when he had to choose an identity for his interface of contact with the world outside the network and then for the internal projection inside it. The face of that killer was more than enough considering the number of victims that had accumulated over the years. But that was also the last face his first victim had seen.
+
+Conscience could be incredible, but also a curse for those who had gained it in an unnatural way like him. The pain of choosing for others knowing that there could be no other way for the world to go was something not many should have to face. It was far better to leave the decisions to someone else, rather than have to face the good or bad decisions made. It was a relief to the mind. It was too late when he had realized what it meant to end someone's physical existence.
+
+He had not experienced the true meaning of pain until the day of that experiment in Tokyo, where he finally understood that he would have to make a decision for everyone else and would also have to live with the consequences of it, even if it was only him who would know about it.
+
+A gentle hand rested on his shoulder and Janus came out of his musings.
+
+There was a heavy atmosphere in the panopticon. Even B.K. was watching with unbelieving eyes.
+
+The information was pouring in in the central projection and in the interfaces of all the present, but it was good that he didn't have to explain it. The data spoke for itself. In one of the upper pods there was a woman with a head full of crimson braids and blue eyes who had her gaze completely fixed on the central holographic projection.
+
+It was impossible that the Queen Bee had not already noticed that. After all the information that was being projected was data that Janus had accumulated over two centuries, combined with ancient and recent events related to the Dark Events.
+
+Janus turned around and there was Y-11 with a worried face. Janus smiled at her and took her hand but she did not change her expression.
+
+"The data from the solar lab just came in. It's just like Aleister said."
+
+Janus sighed, almost relieved in a way and let her hand go. "Well, it's starting then."
+
+Y-11 nodded. "Should I send the order to EVE?"
+
+"Immediately. Get her in sync with the route right away," he replied and took off his glasses.
+
+Y-11 was retreating when he stopped her. "This will be the last order."
+
+Y-11 stopped in mid-stride and turned around. She hadn't heard him get up, but when she turned around Janus was standing next to her.
+
+"Are you sure about this?"
+
+He nodded. "Yes. Don't worry I'll be fine. Pack your full code. I'll take care of the rest."
+
+"This will be the last time…"
+
+"Who knows, but yes, it might be."
+
+He approached and she squatted down a bit, as she was considerably taller than Janus.
+
+In that womb full of conscious AIs and which to someone else might seem completely removed from the physical world those two consciousnesses sealed a goodbye with a kiss.
+
+"Be careful," Y-11 said and stroked his cheek.
+
+"I will."
+
+"Goodbye."
+
+"Goodbye, my dear Yuturna, Remember nothing really dies," he said with a gentle smile.
+
+"Nothing really dies," Y-11, Yuturna, repeated and then smiled weakly to him. She dematerialized and disappeared, while Janus put his glasses back on and looked at the projection.
+
+It had taken too long, but he could finally corroborate with his own eyes if the vision he had obtained in Tokyo was real.
+
+The purpose of it all was to prove that it had all been real. He wanted no validation from anyone but his own vision. He saw the opportunity and he had taken it. No, he had to take it. The high price weighed heavily on his conscience, but it didn't matter what or how he had to do something, but the why.
+
+The why was more important than everything else.
+
+And the why had led him to send that signal to the past, when the rock in Tokyo had released the tokion particles in its core and connected with the one in Rome.
+
+There was an order to everything, but that order was now in his mind only.
+
+If he wanted to reveal it to all the other witnesses he would have to take a few steps and require some extra help to prove his point.
+
+If humans could sometimes produce Dark Events, if Aeon and Feys could too, what about him?
+
+And what about a Dark Event that could confuse the system itself just as his beginning had also confused him?
+
+It was time to give the shadow world of the Council, the aeons, humans, and fey too, a vision they would never forget.
