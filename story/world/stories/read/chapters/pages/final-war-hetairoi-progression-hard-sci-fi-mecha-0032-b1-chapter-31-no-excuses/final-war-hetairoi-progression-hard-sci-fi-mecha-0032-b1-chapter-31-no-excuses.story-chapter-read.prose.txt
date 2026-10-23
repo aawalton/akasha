@@ -1,0 +1,273 @@
+Our discourse should have enlightened me in those earliest days. The way he seamlessly adapted, the way he understood the intricacies of the machines, the way he seemed so at ease, even unaware as I was of what would truly transpire. I should have seen it, should have recognized it in the fluttering that would not fade, and in the yearning hope that I tried—and failed—to bury. He would prove more than just my match, and yet in that moment, I truly believed I might have had a chance to best him. How foolish.
+
+Arthur settled into the cockpit of the training machine with a hiss of pressurizing vacuum seals and glanced around while the three-dimensional image of the Eidolon’s surrounds rendered across the cold metal of the cockpit’s interior with holographic projectors. Taken from powerful audio and visual sensors spaced across the machine, the image was as clear as any he’d seen, though it lacked the range and detail of the tachyon sensor suite he was used to from Eidolons in the Verge and deeper.
+
+The Rim hadn’t yet learned how to miniaturize the immense sensor blocks.
+
+Externally, he knew that the eyes of the training machine, previously inert, would light up with a pale blue light at the same moment.
+
+At the same time, words played across his display.
+
+Engineered Interactive Dual Origination Linear Operation Neuralink.
+
+“Hello, operator,” a smooth feminine voice said from within the interior. “I am Iris, your onboard training intelligence. Welcome aboard this training-issue Eidolon weapon, designation Hoplite.”
+
+“Deactivate training protocols,” Arthur said without preamble.
+
+The reply was immediate.
+
+“Warning: Deactivating training protocols will terminate all pilot assistance programs. This is only advised for advanced users. Do you still wish to deactivate training protocols?”
+
+“Yes.”
+
+“Training protocols deactivated. You may change this decision at any time.”
+
+“Run diagnostics.”
+
+“Request confirmed. Running diagnostics on Eidolon weapon, designation Hoplite.”
+
+Arthur settled back into the shape-altering pilot’s chair while the X-shaped belt slid into place comfortably across his chest. His eyes went down to the circular screen dominating the center console of the cockpit, and he reached out to idly flip the switches along the sides for ‘thrust’, ‘weapons’, ‘auxiliary systems’, ‘sensors’, ‘radar’, and ‘IFF beacon’ to the on position.
+
+“Diagnostics complete,” Iris chimed in a moment later. “All systems are within acceptable operational parameters. Disconnecting Eidolon weapon Hoplite from moorings, and transferring control to operator.”
+
+Arthur settled his hands onto the control orbs depressed into the ends of his armrest, each one only half-visible as white-lit domes at an idle glance. A momentary shudder went down his spine when the connection between the machine and his mind bridged, and he felt himself slide into the awareness of the Hoplite’s motor functions.
+
+It was not nearly as smooth a connection as he was used to.
+
+“Designate Operator as Arthur,” he said after taking a moment to adjust.
+
+“Designation confirmed. It is nice to meet you, Arthur.”
+
+“Nice to meet you too, Iris,” he replied conversationally while subtly manipulating the Hoplite’s arms and legs to get a feel for the input lag. “Are you a standard model or is this your set frame?”
+
+“I am a mass production battle intelligence designed to assist with training and development for Eidolon pilots within the Ascendancy Navy.”
+
+“How did you end up in a House Leos machine?”
+
+“House Leos has patent rights to my design.”
+
+Arthur smiled wryly. “Well, I can’t say I’m surprised.”
+
+He took a moment to finish his tests of the machine’s articulated movement and sighed quietly. The three milliseconds of lag between his thoughts and its movements were going to be a problem, enough so that he’d need to be extremely deliberate in his actions. It was another disappointing result, but one he had expected. Compared to the seamless neural bridge prevalent in Core Eidolons, the mid-Rim variant may as well have been a museum piece.
+
+If he were fighting anyone from Pendragon, he’d have been obliterated in seconds.
+
+The Hoplite would do for a practice match against a machine with similar, if microseconds less lag, but he was only too eager to get to work building his own machine as a result.
+
+Any lingering thought of using Rim specifications had vanished the moment he’d registered the input lag. He wasn’t about to completely upend the entire sector’s technology, but neither did his respect for power balance extend to willful suicide.
+
+And that was exactly what using such an outdated interface would entail.
+
+“Alright, Iris,” he said with a sigh. “Go ahead and list my available weapons.”
+
+“Request confirmed. Populating weapons list.”
+
+Arthur glanced away from the screen toward the view of the cockpit around him, and took note of the Pallas Athena stepping free of its moorings at the same time as he did.
+
+“Weapons list populated. Additionally, you have an incoming priority one communique from Lady Circe Leos, designation ‘Lion Maiden’.”
+
+“Put her through,” Answer said with another laugh.
+
+Circe’s image appeared in one corner of his projected viewscreen, her face far more at ease than it had been in the hangar earlier. Being in the Pallas Athena seemed to have calmed her, or at least centered her a lot more.
+
+“What do you think of the Hoplite?” Circe asked with a mostly casual tone.
+
+“The neural interface lag is jarring,” he answered honestly. “It feels like the machine is moving through mud and tar with every command. I think I’m probably just being spoiled, but I feel like flying this thing into battle would be tantamount to suicide.”
+
+Circe snorted. “Is that a polite way of calling us backwards?”
+
+“Well…”
+
+“Oh shut up,” she said with a laugh that sounded far more genuine than her attempt at casual discourse. “I already knew it’d probably be an issue. Even forgetting the technology difference, your psion density means your bandwidth is going to be way beyond what the Hoplite was designed to handle. You probably need a full AI to make up for the extra processing.”
+
+“Ah. So BIs aren’t very advanced here?” Arthur asked while bringing the Hoplite around to follow Circe’s Pallas Athena toward the launching area.
+
+“Iris is an advanced BI, but not by Fringe standards I suppose,” Circe responded while leading the way toward the far end of the hangar. “She was designed for guidance more than anything else anyway, and requires far less processing power and resources than a more robust BI would. It makes her very economical.”
+
+“But ill-equipped for actual battle support.”
+
+“Unfortunately,” Circe agreed.
+
+“Well, don’t hold it against me then.”
+
+“What?” Circe asked with a raised eyebrow.
+
+“When I beat you with a handicap.”
+
+The heiress was silent for a moment, and then her beautiful features shifted to something more dangerous. “You’re asking for it now, Magellan.”
+
+“I suppose I am,” he responded cheerfully. “You better show me what you’ve got, Lion Maiden.”
+
+Circe glared at him for a moment and then abruptly laughed.
+
+“Gods, you really are at home in a cockpit, aren’t you? You’re ten times more relaxed than I’ve seen you until now.”
+
+“Yeah,” he agreed simply, “but you know the feeling.”
+
+Circe smiled at him. “I do,” she agreed, before her expression turned serious. “But don’t think that means I don’t intend on punishing you for talking shit!”
+
+“I wouldn’t have it any other way,” he responded with a grin.
+
+“You’re pretty cocky considering you can’t even fly in the atmosphere with that thing.”
+
+“I noticed it lacked a flight unit.”
+
+“No maneuver phase either,” she said primly.
+
+“Hold on, what? That’s absurd!” Arthur exclaimed with genuine surprise.
+
+“Hey, you’re the prodigal Fringe Ace!” she said mockingly. “Assault phase should be enough for you, right?”
+
+“I never said I was an Ace,” Arthur objected.
+
+“You didn’t have to, you ass,” she laughed. “Are you ready?”
+
+Arthur laughed in kind and followed the Pallas Athena when it stepped onto a massive freight elevator. He maneuvered the Hoplite until it stood opposite and nodded to her image on the screen. “Ready as I’ll ever be with this museum piece.”
+
+Circe rolled her eyes. “Don’t make excuses if you lose.”
+
+“Oho? Is that a possibility now?”
+
+“Now that you’ve pissed me off?” she shot back. “Absolutely!”
+
+Arthur smiled wryly and looked down to where Iris had silently populated the list of his available weapons, and his smile was wiped from his face.
+
+“Circe,” he said slowly. “All I’ve got is a practice rifle, a shield, and a shortsword.”
+
+“Yep,” Circe confirmed casually.
+
+“How is that a proper set of equipment?” he asked skeptically.
+
+“Basic training gear,” she replied sweetly.
+
+“That’s diabolical,” he muttered. “How am I meant to fight with this loadout?”
+
+“Dunno. Maybe you can use your fancy Fringe knowledge to make something happen.”
+
+Arthur glanced up at her and scowled, though there was no genuine anger behind it. “You’re enjoying this far too much,” he accused.
+
+“I think I’m enjoying it precisely as much as I should, actually!” Circe replied at the same time as the elevator came to life and started to smoothly lift them upward.
+
+“I take it this was planned in advance?” he asked with resignation.
+
+“Stephanos thought of it,” Circe confirmed without a hint of shame.
+
+“Is this normal?” Arthur asked while scanning through the weapon specifications.
+
+“No,” Circe admitted honestly. “Atreus and mother built you up a lot, so Stephanos convinced father that you could handle the handicap.”
+
+“While you’re in a fully kitted special unit.”
+
+“All Eidolons are special units,” Circe said evasively.
+
+“Oh that’s a cheap deflection,” Arthur responded with a snort. “There are ‘main line’ models, sure, but that’s no different to any corps of forces. The grunts always get less than the elites do.”
+
+“One could argue that the lack of prevalence of Eidolon pilots makes it so all units are special,” She pointed out.
+
+“Even the most backward star nation still has a few thousand pilots, Circe. The difference between the Elite and the Regular is as vast as the difference between pilots and normal humans in the first place.”
+
+“You might have a point, I suppose,” she said airily while a set of doors above them parted, and they moved up through a transparisteel tube built up through the surrounding waters. It was wide enough to support several more Eidolons standing abreast, and the transparisteel seemed to be thick enough that it would take a broadside from a capital ship and stay strong. That, at least, provided some relief when considering Hellas’ ocean life. The fact that there was no direct sunlight above them was more disconcerting, but Arthur ignored it for the immediate moment.
+
+“I’m glad I don’t have a fear of water,” Arthur muttered.
+
+“Scared of the ocean, ser Magellan?” Circe teased.
+
+“Not this close to the landmasses, no,” Arthur said with a glance at the clear and shallow water around them. “The deep ocean, though? Especially given Hellas’ penchant for super-developed life? I’d say a little fear is healthy.”
+
+“Just wait until you see your first Leviathan Kraken,” she replied.
+
+“You made that up,” Arthur said with a spike of alarm.
+
+“Did I?”
+
+“That’s cruel.”
+
+“Don’t crash into the ocean,” she said sweetly.
+
+“Absolutely odious.”
+
+“You inspire the best in me, Ser Magellan.”
+
+“So I’m gathering,” He replied with a snort. “Though I must ask, do we need to be cautious about collateral damage?”
+
+“No. We’ll be fighting in the Leos arena,” Circe explained with a vague gesture of the Pallas Athena’s hand toward the area above them. “It submerges when it isn’t in use, but my father raised it this morning.”
+
+“Ah, and the elevator connects to it?”
+
+“Yes!” she confirmed.
+
+“That explains the lack of sunlight directly above us,” Arthur noted while making some more final checks to fully imprint the exact processing lag window into his mind. “Do you have any final requests for the duel?”
+
+“Don’t hold back,” Circe said.
+
+“Not in my nature,” Arthur admitted at the same moment as another entrance opened above them, and sunlight bathed them both in rays of brilliant gold. The elevator ascended through a perfectly machined gap. It filled the hole with its own mass seamlessly, while a thinner layer slid into place beneath to fully seal any potential water breaches.
+
+Arthur’s first look at the arena reminded him of nothing less than a full colosseum. The walls, according to the helpful numbers and analysis on his display, were close to one hundred meters high—almost 300 feet—at their tallest point, and the arena itself was built in the shape of a massive flat circle. There was no sand, but scorch marks and blade-inflicted scars were evidenced everywhere from previous battles.
+
+The worst of the damage had clearly been repaired after each engagement, but the superficial wounds in the arena’s structure had been left—likely to give the venue some character and tell the tale of its use through what Arthur assumed was at least several decades of existence, if not more.
+
+“The Arena was one of the first things my family built here,” Circe said while lifting off on a plume of plasma, and an extension of her Eidolon’s massive steel wings, to start a warm-up flight around the ring. “Before we had Eidolons as we do now, they’d host massive tournaments here. It’s part of how we made ourselves wealthy. A calculated investment, my great grandfather called it.”
+
+“Clearly paid dividends,” Arthur noted.
+
+“It did,” she agreed. “And now I’m going to kick your Fringe-born ass back to Aurelia within its walls.”
+
+“Oh?” he asked with a laugh. “You know what they say about assumption, Circe.”
+
+“Prove me wrong, then,” she shot back with a smirk.
+
+“As you wish,” Arthur replied, drawing out his sword and shield while grimacing at the now-expected lag. “Though don’t expect it to be elegant, given what I’m working with.”
+
+Circe opened her mouth to retort, but went silent when Menelaus’ amused features appeared on Arthur’s feed—and presumably hers as well. The fact he hadn’t been warned meant that the lord of House Leos had probably been listening since they’d started talking.
+
+Judging from the mirth dancing in his eyes, that was exactly the case.
+
+“I am glad to see the spirit of Eidolon pilots remains strong and consistent,” Menelaus said without reprimand. “I had worried you two might be too busy making eyes at one another, for all that it chagrined me to believe so.”
+
+“That will not be a problem, my lord,” Arthur responded before Circe could. “The lady and I have an understanding. There was never a risk of anything untoward happening between us. You have my word.”
+
+Circe had opened her mouth to speak, but shut it when Arthur preempted her. Judging from the look of gratitude she directed at him, he’d made the right choice.
+
+Based on the approving smile on Menelaus’ face, the patrician thought the same.
+
+“I am pleased to hear that, Ser Arthur. While you may be a warrior of rare caliber, I fear that the scandal caused by our first Hetairoi in a generation also being involved with my heir would be as damaging as anything I can imagine.”
+
+"My duty, should you accept me, is to ensure the safety and honor of your House and to protect its interests, my lord. I would be a poor Knight to so quickly compromise that.”
+
+“Well said,” Menelaus said with another smile. “And with that well-spoken declaration, let us move on to what we are all excited to see: your skills in action, Ser Arthur.”
+
+“I take it the handicap is only making things that much more interesting for you, my lord?”
+
+“Oho! Yes indeed. You’ll have to forgive me for that little prank, but Stephanos did seem to make a good point about how it would test you, and Lord Atreus seemed to believe it was no issue.”
+
+“I hope to prove his faith warranted.”
+
+“A common hope, I think, for those that benefit from his patronage,” Menelaus said with a laugh.
+
+“Father…” Circe said with a hint of impatience.
+
+“Yes, yes. My apologies, my dear,” Menelaus said wryly. “The rules of the bout are simple: The first Eidolon pilot to non-lethally defeat the other will be declared the winner.”
+
+“Are there any restrictions on how we move?” Circe asked.
+
+“You cannot leave the Arena’s confines,” he elaborated. “For you, daughter, that means no flying above the Arena’s walls.”
+
+“Acceptable,” Circe said with a calm nod.
+
+“Any objections, Ser Magellan?”
+
+“None, my lord,” Arthur answered with a shake of his head.
+
+“Very well then!” the patrician said with a grin. “Circe, are you ready?”
+
+“Ready!” She said while the Pallas Athena’s engines roared, and allowed her to gain altitude while drawing her sword and hoplon rapidly.
+
+“Ser Arthur, are you ready?”
+
+“Ready!” Arthur replied while assuming a guarding stance behind his own shield.
+
+“Very well then. I hereby sanction this duel, and stand witness to its enactment.”
+
+He looked between them both and lifted an arm wide in declaration.
+
+“Let the duel commence!”

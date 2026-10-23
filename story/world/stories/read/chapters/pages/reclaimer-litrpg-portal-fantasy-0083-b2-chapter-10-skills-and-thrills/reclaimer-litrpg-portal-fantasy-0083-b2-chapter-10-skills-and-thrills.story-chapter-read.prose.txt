@@ -1,0 +1,193 @@
+Name: Precision Aim
+
+Type: Mind Skill
+
+Rarity: Epic
+
+Level: 51
+
+Tier: Adept
+
+Description: Focus your mind and hone your awareness, actively increasing your accuracy with ranged attacks, and allowing you to fire with pin-point accuracy while moving. The faster you are moving, the more mana is required for Precision Aim to work.
+
+Initiate Infusion: This skill has been Infused with [Skylord’s Focus] at Initiate tier. This Infusion allows your Precision Aim to be used irrelevant of speed of movement, and grants you triple your natural accuracy when attacking any foe within five hundred metres. At distances of one hundred metres or less, you are alerted to Critical Points on your targets, allowing you to deal exponentially more damage with each attack.
+
+Name: Stormsurge Momentum
+
+Type: Body Skill
+
+Rarity: Epic
+
+Level: 42
+
+Tier: Initiate
+
+Description: Invoke the power of the storm to suffuse your limbs with lightning speed, and allow you to traverse terrain with heightened celerity. This skill passively increases your agility by 20%, and allows you to temporarily boost it by a further 20% at the cost of 10 mana per second of use.
+
+Initiate Infusion: This skill has been Infused with [Thunderous Alacrity] at Initiate tier. This Infusion increases your passive Agility boost by 10%, and allows you to use Stormsurge Momentum’s temporary boost for free while in the presence of a storm. Additionally, you cannot be impaired by any movement-affecting Skill lower than Stormsurge Momentum’s current Tier.
+
+Name: Elemental Resistance
+
+Type: Body Skill
+
+Rarity: Epic
+
+Level: 37
+
+Tier: Initiate
+
+Description: All resistances to Fire, Water, Earth, and Air mana types and their subsidiaries and advanced types are compressed into this Skill. Each level of Elemental Resistance allows you half the skill’s level in damage nullification against those elemental attributes, rounded down. (Current Nullification: 18%)
+
+Name: Shadowmeld
+
+Type: Spirit Skill
+
+Rarity: Epic
+
+Level: 57
+
+Tier: Adept
+
+Description: Shadowmeld allows you to become one with the shadows when standing still for 3 seconds, and retain that Stealth while stationary or moving at less than 15% of your maximum speed. This skill functions only in deep shadows, and is especially powerful at night, or in Territory controlled by a friendly or allied Authority.
+
+Initiate Infusion: This skill has been Infused with [Nightstalker’s Grace] at Initiate tier. This Infusion increases your passive Dexterity by 5%, and allows you to hide in any shadowed area. Additionally, the first time you make any attack after each successful Shadowmeld, you will gain a temporary 30% boost to your Agility and Dexterity for 3 seconds.
+
+Name: Stormblooded
+
+Type: Trait
+
+Rarity: Epic
+
+Description: Yours is the blood of the Stormlords, and your connection to that line is as pure as any found in the Realms. Hearkening back to the power of the Eternals themselves, your connection allows you an unprecedented connection to Air and Lightning Mana, and enhances your physical abilities as you grow in strength.
+
+Effects: +2 Agility per Level, +1 Dexterity per Level, Air and Lightning Skills cost -50% Mana.
+
+Special Effects: Your Attribute per Level bonuses scale with your Temper, and increase by 1 point at each new Temper stage. Additionally, you passively gain a 10% bonus to your Dexterity.
+
+Name: Defender of the Innocent
+
+Type: Title
+
+Rarity: Epic
+
+Description: You have proven yourself to be a noble person, worthy of praise and accolades, for the unwavering protection of the innocent and defenseless—even at significant risk to your own life—time and time again.
+
+Effects: +15% Charisma, +2 Charisma per Level.
+
+Special Effects: When rushing to the aid of those weaker than you, you gain +25% movement speed and all Stamina consumption is reduced by 75% until you exit combat, or the threat has been deemed neutralised by the System.
+
+Name: Spellbow
+
+Type: Title
+
+Rarity: Epic
+
+Description: Might and Magic are blended in your blood, and you are an exemplar of harnessing both gifts to a degree rarely seen. You have performed incredible feats of martial and magical combination, and have earned recognition from your Ancestors as a result.
+
+Effects: You have gained the ability to create Arrows from pure mana. Each Arrow costs 1 Mana, and may be created free of extra cost from Air, Fire, or Lightning mana.
+
+Special Effects: Your arrows ignore all armour that is not enchanted, and equal to your current Temper or higher.
+
+Name: Death Defying
+
+Type: Title
+
+Rarity: Epic
+
+Description: You have been reduced to less than 5% of your total Health five times in as many hours, and not only survived, but eked out a victory in each encounter. As a result of this, you have defied Death itself, and spat in the face of Fate.
+
+Effects: +15% Vitality, +2 Vitality per Level.
+
+Special Effects: You take 20% less damage from all sources when below 15% of your Total Health.
+
+Aurelian let loose a low and impressed whistle when she shared her impressive array of Epic Mind, Body, and Spirit Skills and sighed wistfully. “Stormsurge Momentum would be so useful for me. So would Elemental Resistance. How did you get them?”
+
+He was aware of Death Defying and Defender of the Innocent as well, but neither of those seemed practical for him at that moment. He couldn’t risk the requirements for Death Defying, and nor did he have any reasonable way to attain Defender of the Innocent presently.
+
+“Stormsurge Momentum is a bloodline skill,” Zylara said with a hint of dissatisfaction. “I inherited it from my father, I believe, given that my mother is just a normal, run of the mill mutt elf,” she said with a bitterness that seemed sourced from some measure of trauma, though Aurelian was not foolish enough to try. A moment later, however, she continued more cheerfully.
+
+“My Elemental Resistance, however, was the result of careful curation. Sanctuary has learned how to trigger certain skill acquisitions, and Elemental Resistance is one of them.”
+
+“How is it triggered?” Aurelian enquired immediately.
+
+“You must take damage from all four different elemental types repeatedly, and until your health drops to below ten percent multiple times. It’ll usually be awarded if you have all four resistance types at Initiate Tier within a day or so of one another.”
+
+“Hmph,” Aurelian grumbled. “I’m missing Earth, Water, and Air resistance. I have Fire, Ice, and Lightning.”
+
+“We can fix that, probably, on our journey,” Zylara said with a small laugh. “Though, first, we need to kill those remaining skarnids—and for that, I need—”
+
+“Clothes!” Aurelian said abruptly. “Right! Sorry! I have something for that, actually.”
+
+“You mentioned that,” Zylara noted with clear amusement.
+
+“Yeah, I got an achievement for, uh, Siring you—and part of it was armour. One second, let me just—”
+
+Aurelian mentally claimed the System reward, and three items dropped to the ground nearby in a neat pile: a brown leather tome, a piece of torn parchment, and what looked like a folded set of steel and mail beneath them, as black as a starless night.
+
+Zylara pulled her head back to look at the pile, and then raised her scarlet eyes to lock with Aurelian’s own. “Don’t look away,” she commanded simply.
+
+“But I thought—?”
+
+“Aurelian,” Zylara said more firmly, “Don’t. Look. Away.”
+
+Aurelian swallowed at her tone of voice, but nodded once in assent. He had no idea what she was playing at, but the look in her eyes—a mix of apprehension, nervousness, determination, fragile confidence, and beneath it all fear—told him that not obeying her would be destructive to her in ways he likely could not understand.
+
+Women, he had learned from both his mother and sister, were beings of great mystery.
+
+When Zylara stepped back, Aurelian received a full view of her new body, and found himself dry-throated for the first time in a very, very long time. She was, in a word, stunning. Her height had to have increased to just over six feet tall—perhaps around one-hundred-and-eighty-five centimetres or more—and her skin had taken on an alabaster smoothness that made it almost shine in the noonday sun.
+
+Her silky black hair fell around her high, sharp cheekbones and aquiline jaw to the lower part of her back, with several bangs in the front resting down to just below her collarbone, which was clear to see, and elegantly feminine without being distracting. Her shoulders were somewhat wider, and her biceps notably more defined; with a clear rise and fall along her arms sloping with the muscles.
+
+The elven maiden, watching him unblinkingly, took a moment to stretch languidly—and Aurelian let out a quiet noise somewhere between a tortured groan and a wistful sigh when she did.
+
+Zylara’s breasts were a work of art. Full, supple, and with the kind of gravity-defying rounded firmness that could usually only be achieved through a careful mix of skincare products and religious workout regimes.
+
+From everything he’d read—anatomy and erotica both, if he were being honest with himself—and the limited discourse he’d had with the medical student he’d dated once; her breasts would have been best described as archetypical, or else a mix between rounded and bell-shaped.
+
+Both breasts were entrancingly symmetrical, and were adorned with a small areola and rounded nipple; both of which were a darker shade of pink or lighter shade of red. When Zylara moved, her breasts lifted and shifted in a way that diverted blood from his brain, and left him swallowing back saliva while he warred with the ingrained instinct to look away, and the deeply male desire to stare without blinking.
+
+His eyes inevitably trailed further down, and roamed first over her neatly set and defined six pack, past her carved V-shaped lower abdomen, and toward her groin. One of the main things he noticed, distantly, was that Zylara was essentially entirely hairless below her eyebrows at the front, and below the lowest parts of her scalp at the back.
+
+Whether it was a trait of elves or a side effect of her Transformation, he wasn’t sure—but the black-haired, pale-skinned woman was as smooth as silk, and entirely without what any human would consider noticeable body hair.
+
+She was the most beautiful woman he’d ever seen—both in person or otherwise. Zylara embodied every gamer dude’s elven ‘waifu’ fantasy rendered into gorgeous, buxom, muscular reality. He finally had a true reference to Arwen’s beauty, and she was his goddamned companion.
+
+“You’re killing me here, Z. We need to go.”
+
+Zylara laughed at his mix of warning and growled frustration, and elegantly prowled over to the pile of items with a demure smile and blink of her long, dark lashes.
+
+“And here I was having fun.”
+
+I knew horny elves would end up biting me in the arse, Aurelian lamented mentally, while trying in vain to dispel the image of Zylara and her impressive new posterior that his mind automatically created.
+
+“Oh. Wow.” Zylara’s voice, no longer playfully flirtatious, intruded upon his thoughts. “Aurelian, do you have your pouch?”
+
+“No, it’s on Bahamut for safe-keeping,” Aurelian replied while turning, and noticing her already mostly clothed by some sanity-sparing miracle of the System and item usage. She wore a set of moon-silver chainmail that hid her body well, with red-runed black plates on her biceps and shoulders, and similarly runed obsidian plates over the majority of her torso.
+
+Her forearms were covered by red-patterned black steel vambraces on her forearms down to her wrists, and her legs were covered in the same mix of plates over her thighs—cuisses, Aurelian reminded himself—and form-fitting dark leather down along the impressive lengths her legs.
+
+That same black leather hugged her muscular lower thighs and calves down into a pair of red-runed black sabatons, both of which seemed to be light enough for her liking when she kicked her toes into the ground and tested them.
+
+Her black hair fell in waves down her back, with clear bangs on either side of her slightly elongated and pointed ears. The red of the armour matched the crimson of her lips, and in some cases, the bright scarlet of her eyes. It also contrasted very nicely with her new, flawless alabaster skin tone.
+
+“Why do you ask?” he continued after he had a chance to take her in.
+
+“You need to see these items. I did get armour, as you can see, but you received some important pieces here,” Zylara explained while moving over to snatch up her blackened, red-runed bow—which, promptly, erupted with crackling bolts of scarlet lightning—with a look of satisfaction at its changes. “The map fragment you can use immediately, and you should probably do the same for the Tome—but that’s up to you. I’m not sure if you want to save it or not.”
+
+“You go on ahead. I’ll meet you over there. I need to heal myself, too.”
+
+Zylara grinned at him and replied with a demure “Yes, my lord” before igniting Stormsurge Momentum in a crackle of red lightning and surging away from him toward the direction he sensed both the Arisen and Bahamut.
+
+And now, he realised, where he sensed Zylara as well.
+
+That would take some getting used to.
+
+At least, unlike the Arisen, he couldn’t sense her emotions at all. That would have been a basket of complications he had no interest in carrying around. Instead, he bit the bullet and used almost all of his Anima—now no longer needed—to accelerate his healing, and converted it into rapid restoration with a hissing breath as damaged flesh and even some broken bones were rapidly and near-instantly repaired.
+
+“Fuck me,” he growled under his breath, “will that ever not hurt?”
+
+Pain Tolerance is now Level 39!
+
+Aurelian snorted at the System alert and shook his head in disbelief.
+
+He didn’t care what anyone said. The System definitely had a sense of humour.
