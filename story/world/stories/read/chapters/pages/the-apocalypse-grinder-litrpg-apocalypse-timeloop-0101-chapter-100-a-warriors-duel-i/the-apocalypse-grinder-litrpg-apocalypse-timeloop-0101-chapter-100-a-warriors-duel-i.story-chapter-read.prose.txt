@@ -1,0 +1,127 @@
+Ronan exhaled sharply as he whipped the guardian staff over his head. The iron cap broke the metal stud it crashed into, then splintered the club the stud had been buried in.
+
+The goblin holding said club stumbled and raised an arm to block the shower of splinters from piercing its eyes. In that moment of blindness, Ronan stepped forwards. He smashed the staff into its solar plexus.
+
+The first blow made a rib burst through its pallid green skin. The second, courtesy of double strike, exploded its chest.
+
+You have killed [Goblin Warrior Lv.17-19] x4, [Goblin Rogue Lv.18] and [Goblin Archer Lv.18] x2!
+
+Enemy killed with a critical hit, 1.5x Experience gained x4!
+
++813 Copper Credits
+
++42 [Staff I] Mastery
+
++17 [Stamina II] Mastery
+
++11 [Perception] Mastery
+
++3 [Pugilist II] Mastery
+
++16 [Pain I] Mastery
+
++6 [Mana I] Mastery
+
++2 [Grappling Mastery]
+
++14 [Momentum] Mastery
+
++7 [Critical] Mastery
+
++Goblin Toes (Common) x7
+
++Goblin Bracers (Common) Lv.17
+
++Worn Bow (Common) Lv.18
+
++Goblin Chestplate (Common) Lv.19
+
+You have leveled up to Lv.17!
+
+You have leveled up to Lv.18!
+
+You have leveled up to Lv.19!
+
+You have been restored x2!
+
++3 Vitality
+
++15 Endurance
+
++6 Resistance
+
++12 Strength
+
++12 Tenacity
+
++6 Free Stat Points
+
+You have reached the mastery cap for [Staff]!
+
+Staff I has evolved to Staff II!
+
+Gain a 2% chance to stun an enemy for (Strength x 0.07) seconds on successful strikes with staffs or staff-like weapons. Gain mastery over staffs minutely faster. Staffs have an infinitesimally reduced weight when you wield them, but this does not affect their real weight.
+
+Ronan was panting as he defeated the seventh and final goblin of the sixth wave. He nearly collapsed to the ground, but a shred of his awareness kept him upright. The restoration healed his wounds and brought him back to full stamina, but there was a persisting mental exhaustion that came with non-stop fighting, that not even a level-up could wash away.
+
+A brief glance towards the ridge told him there weren’t many goblins left. Wait, no. There’s just one. The elite warrior, he corrected himself.
+
+Six waves of fighting had ended in his victory, and despite the gradual whittling down of their number, the goblins had never once sent extra fighters in once the battles had begun. He had developed a begrudging respect for them. This group of goblins in particular, that is—he still had a burning hatred for goblins as a species.
+
+To his surprise, the elite warrior didn’t immediately begin walking down the hill to begin their duel. It seemed content to stand and watch from the top of the hill, both hands resting on the pommel of its greatsword.
+
+If you’re going to be so polite about things, I guess I can take a moment to invest my stats, Ronan thought to himself. He’d not had a chance to invest his stats in between waves of goblins, as the elite warrior had launched them the moment it saw the final goblin fall in the previous wave. It was punishing, but thrilling.
+
+He threw a final glance at the goblin, and saw it still wasn’t moving from its position. So, he opened up his status and had a look at the gains this battle had given him, aside from the obvious new tier in staff mastery.
+
+His endurance had skyrocketed, and was almost the highest it had ever been in any iteration, despite the fact he was only level 19. His strength and tenacity were fairly high too, which suited his combat style and class exceptionally well.
+
+Ronan only felt that he was lacking in speed, and perhaps control. He would need to rectify that with his free points. He had 14 of them to spend, and he didn’t feel the need to increase anything other than his agility and dexterity. He went for the simple choice, and split the points evenly between the two stats.
+
+He then took the goblin bracers and goblin chestplate from his inventory. He wrapped the leather bracers around his wrists. He’d half expected the chestplate to be too small for him—the goblins were about two-thirds of his size. However, the magical fuckery of the system seemed to have enlarged it to be a perfect fit.
+
+With both pieces of goblin gear equipped, he’d gained 3 points in resistance and 1 in dexterity. Not a huge increase, but every point made a difference.
+
+Once he was done, he took a few breaths to calm his racing heart, still pumping the remnants of adrenaline through his body. He raised his head to the ridge, and his gaze met the stoic visage of the elite goblin warrior.
+
+It nodded at him, and then in a single smooth motion, ripped its greatsword out of the earth and balanced it on its shoulder pad. The elite warrior began to walk towards Ronan, one step at a time.
+
+The warrior had a carefree confidence in its gait, a walk that could only have been earned by slaughtering dozens of its foes. Even so, Ronan wasn’t fazed. He was almost the same level as the elite warrior, and he had a rare class to boot.
+
+With the absurd stat gains from juggernaut, he was likely far stronger than the monster already. However, he was going to show it the respect it had shown him, and give it an honourable duel, followed by an honourable death.
+
+When they were about five paces away from one another, and the goblin had reached the bottom of the hill, it paused. Ronan wasn’t sure what to expect, but he certainly didn’t expect the warrior to address him.
+
+A gentle thud reached his ears as the elite goblin warrior thumped a fist against its chest. It extended a thumb and pointed to itself. “Gurz’krax.”
+
+The word was almost mangled in its throat, but Ronan suspected that was simply the goblin language at play, and not a mispronunciation. He had the universal language skill, after all, but it seemed to struggle with their… odd way of communicating.
+
+Gurz’krax was obviously its name. The warrior had introduced itself, intending to share its identity before the duel. Ronan disliked goblins, but he wasn’t a complete asshole. He wouldn’t want anyone to judge him by the actions of humanity as a whole, so he would do this green bastard the same courtesy. He copied the gesture, and said his name. “Ronan.”
+
+The goblin grunted, and then flexed its shoulder. The greatsword bounced off, and it wrapped its second hand around the handle as the large blade settled into a comfortable grip in front of the warrior.
+
+Ronan lowered himself into his own stance, holding the staff out and towards the goblin, prepared to parry or deflect the first blow. Neither of them moved for the first few seconds, and the tension mounted.
+
+In the end, Ronan grew bored of waiting. He had no reason to hesitate. He was tough as hell, and even if he ended up dying to Gurz’krax, he would simply return in his next life, knowing how to kill the fucker.
+
+He had been observing the way the warrior held its greatsword, and noticed it had a tendency to lean more heavily on its weaker hand. Clearly it hadn’t been focusing on equal strength training in the… goblin gym.
+
+Ronan met its gaze for a second, broke it, then lunged. His staff shot forwards. He aimed it towards the goblin’s gut, but that wasn’t his target.
+
+The warrior, predictably, moved its sword downwards to meet the staff before it impacted its body. At the last moment, Ronan cancelled his feint, shifting the staff’s trajectory an inch downwards.
+
+The metal cap smashed against the knuckles of the goblin’s left hand. It winced, but barely made a sound. The crunch told Ronan he’d shattered at least one, but the stubborn bastard held firm on its greatsword, even leaning into the blow and launching a bold thrust at Ronan’s chest.
+
+All it took to evade the thrust was a short step back and a slight bend of his spine, but the goblin was merciless. The blade of the greatsword dropped as the goblin yanked it back towards itself.
+
+Ronan was forced to smack it away with his staff, at an awkward angle, that sent him stumbling backwards. As soon as he’d recovered his footing, he felt another strike tearing through the air. This time, he was able to effectively smack it to one side with the staff, but his first-strike advantage had been lost.
+
+Gurz’krax grinned as it raised the greatsword in front of its torso once more, and began to circle around Ronan. It was enjoying itself.
+
+Ronan couldn’t blame the elite warrior—this was a thrilling fight for him, too. He hadn’t expected to be challenged to this extent while still at such a low level, especially with the stat advantages of his rare class.
+
+He gave the staff a few twirls and sent some light jabbing thrusts the goblin’s way, testing the waters. Small movements were all it required to block his paths of attack, proving its skill and experience.
+
+Ronan wouldn’t be able to win this battle with brute force alone. Skill, and smarts, would be a necessary weapon in his arsenal alongside the guardian staff. Luckily, he had a little of both.
+
+With a passionate spark in his eyes, he joined Gurz’krax in circling one another. The first to slip-up would find themselves in trouble, and Ronan had a stone grip.

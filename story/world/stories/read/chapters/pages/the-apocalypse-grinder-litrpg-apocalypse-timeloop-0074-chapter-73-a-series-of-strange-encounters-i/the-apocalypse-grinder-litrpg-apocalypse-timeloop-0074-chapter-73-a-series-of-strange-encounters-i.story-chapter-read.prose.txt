@@ -1,0 +1,281 @@
+Ronan rubbed his hands together as he began to read the analysis of his eighth run through the apocalypse. Then he cursed. I forgot to set a reverberating path point after the tutorial… I’ll do it this time.
+
+Iteration 8 analysis:
+
+Highest level achieved: 50
+
+Highest class achieved: Adaptive Martial Artist (Rare)
+
+Highest fortune achieved: 37 Bronze Credits, 206 Copper Credits
+
+Stats gained: 470
+
+Cultivation stages achieved: Mind (Quartz ★), Body (Stone ★), Energy (Sparkling ★) [+1]
+
+Inventory value accumulated: 15 Bronze Credits, 56 Copper Credits
+
+Chrono Enhancement Updates:
+
+Experience gain multiplier has increased from 380% to 500%
+
+Achieving a rare class for the first time has rewarded you with 1 Chronos merit
+
+Credit gain multiplier has increased from 23.7% to 37.2%
+
+Experience gain multiplier has increased from 1.394 to 1.864
+
+Cultivation talent multiplier has increased from 1.5 to 1.6
+
+Cultivation progress has been reset, maximum stages reached have been locked
+
+Mastery progress has been reset, maximum tiers reached have been locked
+
+Class has been reset, class skills purged from status
+
+Chronos merits have been acquired! Access to Chronos Clan Ancestral grounds has been granted at minimum threshold
+
+This time, Ronan only had one chronos merit to spend. The familiar sight of the temporal obelisk greeted him as it soared upwards through the empty whiteness.
+
+He stepped forward and placed his hand against its ice cold, obsidian surface. There was no blessing this time, but Ronan had known that. And he already knew what he was going to spend the merit on.
+
+[Temporal Obelisk]
+
+Jack of all trades, master of some II: The influence of the Chronos Clan is not truly boundless, especially so for a sapling. However, with time and investment, your mastery over everything becomes more persistent through iterations. Maintain 25% more of your progress towards the next mastery tier through each iteration for every tier of this enhancement. [Cost to reach next tier: 1 Chronos merit]
+
+Deep cultivation III: As a clan which transcends the limits of time and space, the act of cultivation holds a far more significant meaning to those of the Chronos heritage. Maintain 10% more of your progress towards the next cultivation realm for every tier of this enhancement. Cultivation benefits are 25% more effective for every tier of this enhancement. [Cost to reach next tier: 2 Chronos merits]
+
+Brand of the temporal artificer: Even items forged from the base materials of reality can be iterated. Through the powers of the temporal artificer, items can be branded and will persist through iterations. Number of concurrent brands increased by 1 for every tier of this enhancement. Enhancement will mutate once for every 3 tiers in this enhancement. Branded items will receive a 10% improvement for every tier in this enhancement. [Cost to reach next tier: 1 Chronos merit]
+
+Accumulate greater accomplishments to unlock further enhancement options…
+
+Brand of the temporal artificer still tempted him, but with his decision to stick with the adaptive martial artist class for the foreseeable future, it held little benefit for Ronan. No, he needed to improve his intrinsic skills and strength.
+
+For that, jack of all trades, master of some was perfect. The analysis had said his masteries were reset, but he assumed that took into account the retention from the first tier of this enhancement which he’d already possessed.
+
+Obtaining the second tier would only allow him to retain more of his progress and develop faster. He desperately needed it.
+
+You have purchased the permanent enhancement [Jack of all trades, master of some] for 1 chronos merit! Jack of all trades, master of some has increased from Tier I to Tier II
+
+You have no chronos merits remaining! The Temporal Obelisk has returned to slumber, awaiting your return
+
+In fact, he’d not improved any of his masteries to the next tier for quite a while. It was a frustrating obstacle to his continued growth. Now, it would be much less imposing.
+
+Even with the diminishing stacking of each tier, the increase was still worth purchasing. His next enhancement was likely a few iterations away, judging from how he could earn the merits and his current progress.
+
+There was nothing left for him here, but Ronan still gazed out into the emptiness. He wondered what deeper secrets the Chronos Clan’s ancestral grounds held. The power that was waiting for him to reach out and grasp it.
+
+He couldn’t wait.
+
+Beginning a new iteration, please stand by…
+
+Ronan barely focused as the system droned on in the background. This was his ninth time living through the same events. He was mostly focusing on his own idiocy. He’d once again forgotten to use reverberating path.
+
+This time I’ll make sure to do it once I exit the tutorial. Then again… If I can’t beat Rockmore now, maybe it’s best to improve my masteries which are close to tier II and perhaps experiment to discover more? he wondered to himself.
+
+He held back on committing to that course of action immediately. He wasn’t sure he could handle watching Terry die once more. I could probably kill Magriz’al a lot faster this time, however, so maybe…
+
+Ronan decided to let events play out and react to them as they occurred. Nodding, he browsed over his status as it appeared to check which masteries would be best to focus on first.
+
+[Status]
+
+Name: Ronan Steele
+
+Race: Human (G)
+
+Heritage: Reverberating Chronosphere (Current Iteration: 9) +
+
+Level: 0
+
+Class: None
+
+Fortune: 0
+
+[Stats]
+
+Health: 63/63
+
+Stamina: 95/95
+
+Mana: 53/53
+
+Vitality: 6
+
+Endurance: 9
+
+Wisdom: 5
+
+Regeneration: 3
+
+Resistance: 6
+
+Strength: 6
+
+Agility: 5
+
+Intelligence: 8
+
+Dexterity: 5
+
+Acuity: 7
+
+Tenacity: 12
+
+Luck: 2
+
+Charisma: 4
+
+Available Points: 0
+
+[Traits]
+
+Personal: Inevitable (Epic)
+
+[Skills]
+
+Unified Language Adaptation (Universal)
+
+Relentless Training (Common)
+
+Magic Strike (Common)
+
+Vital Surge (Common)
+
+Mighty Strength (Common)
+
+Critical Experience (Common)
+
+Double Strike (Common)
+
+Magic Money (Common)
+
+Excessive Endurance (Common)
+
+Reverberating Path (Epic) (Blessing)
+
+Impact Leech (Common)
+
+[Mastery]
+
+Pugilist I 17/100
+
+Mana I 6/100
+
+Sword I 0/100
+
+Shield I 0/100
+
+Staff I 1/100
+
+Spear I 2/100
+
+Stamina I 8/100
+
+Pain 2/100
+
+Anti-Magic 0/100
+
+Perception 3/100
+
+Leadership 1/100
+
+Stealth 0/100
+
+[Cultivation]
+
+Mind: Quartz ★ (0%)
+
+Body: Stone ★ (0%)
+
+Energy: Sparkling ★ (2.3%)
+
+Soul: None
+
+[Blessings]
+
+Blessing of Chronos (Boundless)
+
+Minor Blessing of the Temporal Obelisk (Unique)
+
+[Mutations]
+
++3% Mental resistance
+
++4% Magical damage resistance
+
+The differences he noted were the addition of the new [Mutations] section—which currently listed the permanent changes to his being caused by learn through suffering—and the fact that a few of his mastery points and a miniscule amount of cultivation progress had been maintained even after his death. The chronos enhancements were working as advertised.
+
+None of his masteries were particularly close to the next tier. Pugilist was probably the next one he’d be able to tier up. Given that he’d resolved himself to choose the adaptive martial artist class for the next few iterations, it made sense to focus on it.
+
+He sighed as he realised what he would need to do in order to beat Lord Rockmore once and for all. I have to start treating my own bloody life like a video game; this accursed tutorial like a grinding area, he realised. I suppose it isn’t so bad. I just have to remember none of it is permanent. Once I can beat Rockmore, I can secure the sector. That means I can maybe think about leaving the tutorial behind for good. It’s worth it.
+
+His mind made up, the tenacious fellow ran forward and beat the crap out of the goblin the moment it stepped out of the portal.
+
+You have killed [Lesser Goblin Lv.2]!
+
++2 Copper Credits
+
++1 [Pugilist I] Mastery
+
++Lesser Goblin Ears (Common)
+
+You have leveled up to Lv.1!
+
+You have leveled up to Lv.2!
+
+You have been restored!
+
++2 Vitality
+
++2 Endurance
+
++2 Free Stat Point
+
+Two levels? Oh this is going to be good, he thought with a smile, looking down at the defeated lesser goblin. So began Ronan’s ninth iteration.
+
+His goal was simple: reach tier II in pugilist mastery.
+
+Ronan wiped his hands on his trousers. Interestingly, his clothes also reset back to their perfectly tailored condition each time he began a new iteration. That was a small blessing, though they were quickly ruined by the tutorial and its goblin hordes.
+
+He gave the long kill notification a scan, nodding and grunting at the important parts. Each iteration he was a much higher level when the time came to face the hobgoblin champion. Perhaps this time they would defeat Magriz’al without Terry being forced to sacrifice himself.
+
+More important than his emotional turmoil was his mastery progress. Ronan had done some tests during the third stage of the tutorial and discovered that using his skills to fight was actually hindering his pugilism mastery.
+
+By forcing himself to rely only on the strength of his body and his pure technique, he gained more mastery points from each kill. Thanks to that discovery, stage four had been a lucrative experience.
+
+[Partial Status - Ronan Steele]
+
+[Mastery]
+
+Pugilist I 51/100
+
+Mana I 7/100
+
+Sword I 0/100
+
+Shield I 0/100
+
+Staff I 1/100
+
+Spear I 2/100
+
+Stamina I 13/100
+
+Pain 7/100
+
+Anti-Magic 5/100
+
+Perception 11/100
+
+Leadership 4/100
+
+Stealth 0/100
+
+Focus 2/100
+
+Not only was pugilist mastery soaring towards the cap, but he’d even discovered a new kind of mastery—focus. The first time he’d received a point of it had been when he first forced himself to fight without skills and focus on how exactly he was punching, kicking, and charging his enemies. Rather unsurprising, but a boon nonetheless.
+
+He quickly distributed his stat points among strength, agility, and dexterity before triggering the boss battle. This time, he would take on Magriz’al the Crazed like a true warrior. Face to face.
+
+Fist to fist.
+
+He couldn’t wait to test himself.

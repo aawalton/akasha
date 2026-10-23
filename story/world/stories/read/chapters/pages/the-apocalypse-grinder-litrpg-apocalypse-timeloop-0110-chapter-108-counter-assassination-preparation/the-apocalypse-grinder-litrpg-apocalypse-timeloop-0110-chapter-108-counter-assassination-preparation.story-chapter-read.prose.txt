@@ -1,0 +1,163 @@
+Ronan touched down in stage 1 of the hard difficulty tutorial ready to kick ass. When the goblin warrior stepped out of the portal he leapt at it, unleashing a flurry of heavy fist-blows that left it twitching and writhing on the ground in moments. With a heavy stomp to its head, he finished the job.
+
+You have killed [Goblin Warrior Lv.5]!
+
++25 Copper Credits
+
++7 [Pugilist II] Mastery
+
++4 [Stamina II] Mastery
+
++1 [Grappling] Mastery
+
++2 [Health I] Mastery
+
++Goblin Toes (Common)
+
++Worn Shield Lv.5 (Common)
+
+You have leveled up to Lv.1!
+
+You have leveled up to Lv.2!
+
+You have leveled up to Lv.3!
+
+You have leveled up to Lv.4!
+
+You have leveled up to Lv.5!
+
+You have been restored x3!
+
++5 Vitality
+
++5 Endurance
+
++5 Free Stat Points
+
+Congratulations, you have cleared Stage 1 of the tutorial!
+
+[Inventory] access has been granted at minimum functionality. Improve inventory metrics by spending system credits or through other approved means. Open inventory through mental, verbal, or spiritual command.
+
++106 Copper Credits
+
++Myriad Skills Tome (Uncommon)
+
+Stage 2 will begin in 2 minutes!
+
+1:59…
+
+Jumping all the way to level 5 in a single kill was nice. It had happened the past few iterations, and Ronan had hoped to perhaps hit level 6 from this first kill, but it seemed his experience multiplier still wasn’t high enough.
+
+He immediately used the uncommon skills tome, hoping that this time he might get something beneficial for stage 4. A light spell, perhaps, to combine with his newly discovered mana breathing for maximum efficiency.
+
+[Myriad Skills Tome (Uncommon)] has been consumed!
+
+You have received the skill [Conversion Cultivation (Uncommon)]!
+
+Conversion Cultivation (Uncommon): You are able to use shards of any aspect to raise any of the four forms of cultivation at 10% efficiency.
+
+Ronan whistled appreciatively. That was an amazing skill. The efficiency sucked ass—it meant he would need something like forty shards simply to raise himself up a single realm of cultivation, if they were the wrong aspect—but that wasn’t that important when he had infinite access to shards.
+
+No, the biggest benefit of this particular skill was that he would finally be able to raise his soul cultivation, even without access to soul-aspected shards. With his theory that achieving at least the first realm in each aspect of cultivation would unlock something for him in the clan ancestral grounds, or perhaps the system itself, this was an incredible boon.
+
+Unfortunately he wasn’t in a situation where he could make the most of it, but once he had figured out how to push through stage 4 of the hard difficulty tutorial, Ronan would make it his first priority. He was looking forward to that moment already.
+
+Next, he took the shield out of his inventory. He briefly considered keeping it to use against the rest of the goblins in stages 2 and 3, but he honestly preferred fighting without one. They got in the way.
+
+And, he had a much better idea of how to use it. He wasn’t sure whether wood would work with mineral skeleton or not—he had an inkling it wouldn’t, but there was no harm in testing it out—but the metal parts of the shield certainly could be absorbed. He activated the trait, and waited with bated breath for the results.
+
+Material analysis complete!
+
+Known material identified as [Medium-Carbon Steel]!
+
+Foreign material identified as [Gabrus Wood]!
+
+[Gabrus Wood]
+
+Gabrus Gabrusis is one of the most prolific tree species on the goblin worlds. It has relatively sturdy wood, with a decent level of flexibility that makes it ideal for the construction of weaponry.
+
+Absorbing all of the [Medium-Carbon Steel] and [Gabrus Wood] present in [Worn Shield Lv.5 (Common)] will cause the following changes:
+
++2 Strength
+
++1 Vitality
+
++1 Endurance
+
+-1 Agility
+
+Absorbing all of the [Medium-Carbon Steel] and [Gabrus Wood] present in [Worn Shield Lv.5 (Common)] will destroy the item…
+
+Absorb [Medium-Carbon Steel] and [Gabrus Wood] from [Worn Shield Lv.5 (Common)] using [Mineral Skeleton]?
+
+He was pleasantly surprised to see that he could, in fact, absorb the wood as well as the metal. The fact that a multiversal system considered wood a mineral disgruntled him, but he supposed it was just a creative interpretation.
+
+In fact, the stats the shield would provide were far better than those of the sword. Overall he would gain less points, but he would also lose less. His base agility dropping to just 3 points would hurt, but compensating for it with his free stat points was easy enough.
+
+Absorbing [Medium-Carbon Steel] and [Gabrus Wood] from [Worn Shield Lv.5 (Common)]...
+
+The process by which the shield was absorbed was rather eldritch. The metal dissolved and seeped into his skin, much like it had with the sword the first time, but the way the wood writhed and split apart, before digging into his bones, was disturbing.
+
+Most disturbing was that it was entirely painless. Ronan could see the thin tendrils of wood piercing his skin and burrowing through his flesh, but he couldn’t feel a damn thing. A shiver ran down his spine as the process completed, and he shook the strange sensation from his mind.
+
+[Medium-Carbon Steel] and [Gabrus Wood] from [Worn Shield Lv.5 (Common)] has been absorbed at a 100% efficiency rate!
+
++2 Strength
+
++1 Vitality
+
++1 Endurance
+
+-1 Agility
+
+The timer was close to reaching zero once Ronan had fully absorbed the shield. He invested 4 points into agility, and the remaining point into dexterity to make up for his deficiencies.
+
+When he was pulled into the void to stage 2, he couldn’t contain his excitement. He wondered what the reward would be when he eventually defeated stage 4.
+
+After he’d defeated the three goblins in stage 2, Ronan still lacked a weapon. He did, however, obtain some goblin bracers and a bow.
+
+The bracers couldn’t be absorbed by mineral skeleton. He was almost glad for it. He might’ve had a meltdown if leather was counted as a mineral…
+
+As for the bow, Ronan could absorb it, as it was made from the same wood as the other goblin weapons. He did so, as he had no plans to use a ranged weapon any time soon.
+
+Eventually he would learn, but right now it was a low priority. He preferred punching and stabbing things.
+
+[Gabrus Wood] from [Weathered Bow Lv.12 (Common)] has been absorbed at a 100% efficiency rate!
+
++1 Strength
+
++2 Vitality
+
+There was no downside to integrating the wood into his skeleton. Not in terms of stats, anyway. Ronan had to admit his movements were beginning to feel a little stiff. However, the more he leveled up the less it affected him. In future, he would just need to be careful what he integrated into himself, especially if there were unwritten negative effects.
+
+The plus side was that his base stats were steadily growing, meaning he would begin each new iteration far stronger than the first. He imagined if he was able to absorb strong enough materials, he might one day start iterations strong enough to complete the tutorial at level 1. Especially with the numerous skills, traits, and other advantages he was stacking up.
+
+He’d actually ended up taking juggernaut as his class again in this iteration, for two reasons. The first was obvious, in that it gave him a much better shot at killing the goblins than he would have with sorcerer as his class.
+
+The second was less so, but still pertinent—if he could complete stage 4 this time around, he might have a real shot at reaching level 50 and evolving the rare class into one of the next rarity up. That would earn him another chronos merit, which was never a bad shout.
+
+Melee weapons master had also been considered, but ultimately he felt that it didn’t stack up to juggernaut in terms of instant damage output. The moment he banished the darkness, he had to strike. Charge of the juggernaut was unmatched in that regard.
+
+He opened the treasury tokens, hoping that one of them might grant him a weapon similar to the guardian staff. He still needed one for this run, otherwise he wouldn’t have a great shot at defeating the elite goblin rogues.
+
+[Endless Treasury Token (Uncommon)] has been consumed x2!
+
+You have received [Skill Upgrade Shard (Uncommon) x2]!
+
+Skill Upgrade Shard (Uncommon)
+
+Allows skills to be upgraded from uncommon rarity to rare rarity, with the quantity of shards required to upgrade each skill varying depending on the quality and potential of the skill, starting at 5 shards for the weakest uncommon skills. 10 Skill Upgrade Shards of any rarity can be combined to produce 1 Skill Upgrade Shard of the next rarity. 1 Skill Upgrade Shard of uncommon rarity or above can be dismantled to produce 3 Skill Upgrade Shards of the previous rarity.
+
+You have received [Bonecrusher Mace (Uncommon)]!
+
+Bonecrusher Mace (Uncommon)
+
+A heavy mace forged from a single slab of iron, it was dubbed bonecrusher after it shattered the ribcage of its first victim in a single blow. Only those of fortuitous strength can wield this powerful weapon, but they are feared on the battlefield, and avoided where possible.
+
++5 Strength
+
+25% Chance to stun an opponent for (Strength * 0.01) seconds on a successful hit
+
+Ronan’s eyes lit up the moment he read through the first item’s description. By the time he finished digesting the effects of the bonecrusher mace, he was practically salivating with excitement.
+
+These items were perfect for this run, and he couldn’t wait to pit himself against the goblins. First, he could upgrade one of his common skills to uncommon rarity, and then test his mettle against Gurz’krax the elite goblin warrior.

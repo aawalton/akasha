@@ -1,0 +1,151 @@
+Ronan fell out of the void, landing on a hard stone floor. He looked around, and found that the terrain was different again. He wasn’t on a rocky outcropping, but instead in a dungeon.
+
+Behind him, and on either side, walls reached up about five metres until they hit the ceiling. A single brazier sat in the path ahead of Ronan, a flickering flame within the metal cage.
+
+It cast dancing shadows down the corridor, but there was little to see other than the worn stone bricks that lined it. With no other obvious course of action left to him, Ronan decided to take the obvious path and began walking down the corridor.
+
+He kept going until the flickering light of the brazier disappeared behind him, and he was plunged into darkness. He stopped.
+
+Having potentially infinite chances to attempt the tutorial didn’t mean he had to run through it blindly. Instead of continuing into the dark, and a potential trap or ambush, he turned around and walked back to the brazier.
+
+One of the goblins in the previous stage had dropped a club as loot. Ronan took it out of his inventory, then tore a strip of leather from the frayed goblin chestplate and wrapped it around the end.
+
+All the metal studs and nails sticking out of the club made it a rather simple task. Leather wasn’t the most flammable material, but he had nothing better. Actually, that’s not true… I just value my dignity. But… I need light. After a painful moment of deliberation, Ronan also tore off a strip of his bespoke tailored shirt and wrapped it around the leather.
+
+Once he ensured it was tightly wrapped, he dipped it into the brazier. The cloth immediately caught aflame, and soon the club was an effective torch. Once the leather caught, he made his way back down the tunnel.
+
+The slower burning material meant he would have at least a half-hour to explore. Based on the previous tutorials he’d been a part of, that should be plenty.
+
+Nothing jumped out of the darkness to scare him as he passed the edge of the light cast by the brazier. He did adopt a more cautious gait, eyes darting around the corridor in search of traps or hidden enemies.
+
+It was about forty-five seconds after he left the safety of the brazier, that he first encountered an oddity. Light cast from his makeshift torch seemed to hit a hard wall of shadows which devoured the flickering glow. Along the floor of the stone corridor, a straight line of darkness beckoned Ronan to step a little further inside.
+
+Whether that was a real compulsion, or simply the human instinct that arose on the edge of danger, the looming void that one felt when on the edge of a tall building, or an actual magical compulsion, Ronan couldn’t be sure. However, he didn’t take the bait, regardless of the source.
+
+Echoing footsteps rang through the corridor as he came to a halt. He watched the strange phenomenon for a few seconds. The flickering flame of his torch caused the shadows on the walls, floor, and ceiling to dance, but there was a point in space beyond which they simply… didn’t breach the darkness.
+
+So, Ronan knew there was something lying beyond. Whether it was an artificial trap, or an ambush laid by goblins—or whatever monsters inhabited this dungeon—remained to be seen.
+
+Unfortunately, Ronan’s opportunities to display his keen wit had passed. The torch was the limit of his genius. It was time to get back to basics. He gripped the club-torch in both hands, took a breath, and stepped into the all-consuming darkness.
+
+Even with the flame of the torch held just a few centimetres from his face, Ronan lost sight of the light the moment he entered the darkness. Mist-like and heavy in the air, it was as though the darkness had taken physical form.
+
+Primal and from deep within, he felt the evolutionary human fear of the darkness rearing its head. Pushing it back down wasn’t an exertion, but it reminded him that he could hear the beating of his heart. Thump. Thump.
+
+Thump.
+
+Swoosh.
+
+Ronan froze. He swung the club in a tight arc in front of his face. An ice-cold sensation rippled across his neck.
+
+The club thwacked into something, and he heard a crunch. A muffled grunt followed, and as he raised the club once more, a boiling, sticky fluid dripped onto his wrist.
+
+You have been hit by [Elite Goblin Rogue Lv.25]!
+
+Critical hit!
+
+-138 Health [Slashing]
+
+You are [Severely Bleeding]!
+
+-35 Health / second
+
+-2 Health / second2
+
+You are [Severely Poisoned]!
+
+-1.2% Agility / second
+
+-1.9% Dexterity / second
+
+-1 Health / second2
+
+Ronan was sure he’d struck his attacker in return, but there was no chance he would survive. The elite rogue had pulled off a perfect assassination.
+
+Nasty poison…
+
+That was Ronan’s final thought before it claimed his life. He heard a chime as his soul was claimed by the darkness of death.
+
+Unprecedented modifications detected…
+
+Analysing…
+
+Unable to determine harm-benefit of modifications. Deferring to inheritor
+
+Body has mutated, resulting in the following:
+
+Physical damage resistance +14%
+
+Toxicant resistance +12%
+
+Exsanguination resistance +3%
+
+Keep mutations?
+
+Ronan was hesitant to immediately accept the mutations. The physical damage resistance was an easy take, but what were the implications of… being resistant to bleeding? It was a strange question that no human had ever prepared to consider.
+
+Ultimately, he trusted in his heritage, and so, after his brief moment of doubt, he accepted the mutations.
+
+He was dragged out of the black, murky depths of death, and into the endless white void of his clan’s ancestral grounds. He saw the temporal obelisk in the distance, and swore it looked taller and wider than ever before.
+
+Iteration 18 analysis:
+
+Highest level achieved: 20
+
+Highest class achieved: Juggernaut (Rare)
+
+Highest fortune achieved: 3 Bronze Credits, 703 Copper Credits
+
+Stats gained: 210
+
+Cultivation stages achieved: Mind (Quartz ★★★), Body (Stone ★★), Energy (Sparkling ★★)
+
+Inventory value accumulated: 1 Bronze Credit, 130 Copper Credits
+
+Chrono Enhancement Updates:
+
+Experience gain multiplier has not increased
+
+Credit gain multiplier has not increased
+
+Experience gain multiplier has increased from 8.200 to 8.410
+
+Cultivation talent multiplier has not increased
+
+Cultivation progress has been reset, maximum stages reached have been locked
+
+Mastery progress has been reset, maximum tiers reached have been locked
+
+Class has been reset, class skills purged from status
+
+Chronos merits have been acquired! Access to Chronos Clan Ancestral grounds has been granted at minimum threshold
+
+There was no use in accessing the temporal obelisk, except in the waning hope that new enhancements may have appeared. They hadn’t.
+
+Only his numerical experience multiplier had increased, as regardless of the level he reached, he would gain at least 3 stat points, and thus it would creep up by a fraction.
+
+There wasn’t much for Ronan to do here this iteration. His blood was burning after the assassination. He raised a hand to his neck, and brushed a finger along it.
+
+He could still feel the icy cold sensation of the goblin rogue’s dagger slashing it open. An involuntary shudder ran down his spine.
+
+Death still… unsettled Ronan. He no longer feared it, for the most part. Eighteen deaths had taught him that his heritage was far more powerful than he could even begin to imagine, and he was almost convinced he had infinite lives. However, that didn’t mean he went through each fresh death without being affected.
+
+Still. Rather than carve the fear of goblins and the dark into his flesh, his most recent death only made the passion for growth and challenge burn more fiercely in Ronan’s soul.
+
+There was not a shred of hesitation within him as he withdrew his consciousness from the Chronos Clan’s ancestral grounds to begin his 19th iteration. That rogue didn’t know what was about to hit it.
+
+Beginning a new iteration, please stand by…
+
+In the previous iteration, Ronan had tiered up his staff mastery. Acquiring the guardian staff hadn’t been part of his plan, but he was nothing if not adaptable.
+
+This time around, the endless treasury tokens hadn’t been as gracious. He’d not acquired an uncommon weapon, and was making do with a shortsword one of the goblin warriors had dropped as loot.
+
+He flicked the sword, spraying most of the blood and gore onto the grass from the third and final goblin opponent in the first wave of stage 3. His health had dropped dangerously low, but a level-up helped restore it back to full. The reason for the danger against fairly low-skill enemies was his new uncommon skill. It was a double-edged sword, in every sense of the phrase.
+
+Sacrificial Strike (Uncommon): Upon landing a physical blow or magical spell, sacrifice health points equal to the damage dealt, and deal an extra 50% of the damage to the opponent struck. May not sacrifice more than 98% of your health points in a single instance.
+
+For every cut, stab, or sweeping slash that Ronan’s sword unleashed upon the goblins, he could sacrifice a trickle of his health to exacerbate the damage. Against the low-leveled, clumsy goblins that formed the first few waves, it was a perfect weapon.
+
+And, the cherry on top was that the first time he’d killed a goblin using the skill, he’d discovered a new mastery—health.
+
+He had to stem his usage of sacrificial strike as he advanced through the waves, and likely would only get one chance to unleash it upon Gurz’krax. When he felled the final goblin warrior, he raised his eager gaze to meet the elite goblin warrior’s, and found Gurz’krax staring back with an equal passion for spilled blood and the thrill of challenge.

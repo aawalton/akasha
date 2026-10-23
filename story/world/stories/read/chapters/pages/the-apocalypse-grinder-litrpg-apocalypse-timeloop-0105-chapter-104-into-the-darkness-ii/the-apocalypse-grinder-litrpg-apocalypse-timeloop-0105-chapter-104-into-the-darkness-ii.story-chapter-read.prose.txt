@@ -1,0 +1,205 @@
+Ronan’s excitement grew with every moment he was forced to wait for the Temporal Obelisk to finish the evolution of his personal trait. Will it be a straight power-up, or something more unique? he wondered.
+
+When the system’s chime finally rang in his ears, he almost jumped in the air. Eagerly, he began to read the gold-rimmed purple boxes that had appeared.
+
+Your personal trait [Inevitable (Epic)] has evolved into [Fate Alignment (Legendary)]!
+
+Fate Alignment (Legendary): The threads of fate that underpin the multiverse are infinite in number, and immense in power. You are more in tune with these threads, and your actions cause them to shift and weave, making your desired outcomes minutely more likely to occur. Occasionally, the outcome you aimed for will be subverted, but the results will be in your favour.
+
+After reading through the description of the new trait, Ronan wasn’t quite sure what to think. It read like a straight power-up of the old trait, with fancier language, but there were some subtle changes in the wording that implied bigger effects—and, more importantly—even more potential for future growth.
+
+Would I be able to evolve the trait even further if I attempt higher difficulties of the tutorial? That was the first thought that came to mind, but there were other questions he had.
+
+Unfortunately, none of them were questions he would be able to find the answers to without further exploration and experimentation. So, he invested his free points between agility and dexterity, and waited for the timer to tick down so that he could begin his next attempt at stage 4 of the tutorial.
+
+This time, Ronan was more prepared than ever to take on his invisible opponents. The moment he stepped into the thick darkness, he spun in a three-hundred-sixty degree circle, swinging his club.
+
+He spared no effort—magic strike, double strike, vital surge, sacrificial strike: if there was a skill he possessed that could increase the damage of that one blow, Ronan used it. He was rewarded with two satisfying impacts and muffled goblin screeches.
+
+Bracing for the inevitable ice that would follow, as one of the hidden rogues slit his throat, Ronan found himself losing momentum. The expected slash never came. He raised his club and took a step back, eyes on a swivel.
+
+Not that he could see much in the all-consuming darkness, but it was better than simply waiting for his inevitable end. In fact, he could do one better.
+
+With a grunt, he began to spin in a circle. He’d never been an incredible dancer, but stats made things like mind-body coordination a lot smoother.
+
+As he pirouetted, he swung his outstretched club with him. Ronan transformed from a man into a whirling dervish of blunt force impacts.
+
+Four seconds passed from the beginning of his improvised assault to the first icy cut. The rogues weren’t able to get close enough to slit his throat, so they’d settled for a glancing slash down his right thigh.
+
+All of his concentration was directed towards keeping up his spin, and he couldn’t read the hit message—the poison was surely beginning to whittle away at his health and stats. He did manage to spot his momentum bar shooting up as he continued—his class clearly approved of his current path of action.
+
+Seeing that their strategy of attrition was beginning to wear him down, the two rogues had clearly decided to back off. Ronan no longer felt any impacts, his club spinning through the empty air.
+
+About three more seconds later, he stumbled as his vision blurred and faded to darkness. His grip on the club loosened, and it sailed out into the darkness. Perhaps it took out one of the hidden goblins where it impacted. The final sensation his body transmitted was the sting of a knife across his throat.
+
+Unprecedented modifications detected…
+
+Analysing…
+
+Unable to determine harm-benefit of modifications. Deferring to inheritor
+
+Body has mutated, resulting in the following:
+
+Physical damage resistance +24%
+
+Toxicant resistance +21%
+
+Exsanguination resistance +4%
+
+Keep mutations?
+
+Smashing his head against all obstacles until he was powerful enough to overcome them had worked out as a strategy for Ronan, until now. The three relevant resistances were slowly ticking up with each iteration, but with how powerful the poison and accelerated bleeding effects were, he doubted it would be enough even if he continued to stubbornly face off against the hidden goblin rogues.
+
+There was also a possibility that the resistances would reach a point where they no longer increased, and he would be forced to seek an alternative path to victory. Despite all that, he was still set on this path, and he wanted to reach level 50 as a juggernaut, simply to see what would happen.
+
+Five iterations later, Ronan was forced to admit defeat. He’d gained, in total, another 64% physical damage resistance, 49% toxicant resistance, and 18% exsanguination resistance. All three had begun to taper off in terms of gains by the time he faced his most recent death.
+
+His fears about this stubborn course of action had proven correct. However, that didn’t mean he was dissuaded or pessimistic about his chances of beating stage 4 of the hard difficulty tutorial.
+
+All it meant was that he would need to consider an alternative path to tread towards victory.
+
+My fighting skills aren’t the problem. I felt the impacts against those rogues. If I could see them, I’m sure I could beat the crap out of them, he thought to himself. The main obstacle is that pervasive darkness. It feels like… magic.
+
+Ronan had grown accustomed to the strange dark fog over the iterations he’d plunged into it, and the feeling reminded him of the curse of slowness that the goblin shamans in the normal difficulty tutorial used. Which meant one thing: there weren’t just elite goblin rogues hidden in the dark, but shamans, too.
+
+You gotta fight fire with fire.
+
+In order to take down the goblins, Ronan would need to drive away the darkness. Once his enemies were exposed, he would have the advantage in a straight fight.
+
+And while he was frustrated by his failure, he knew he would have to reach level 50 as a juggernaut another time in the future. Right now, he needed to take down a shaman, which meant Ronan would need to start learning magic of his own.
+
+It was time to become a sorcerer.
+
+Beginning a new iteration, please stand by…
+
+You have killed [Goblin Rogue Lv.13], [Goblin Warrior Lv.10], and [Goblin Archer Lv.12]!
+
+Enemy killed with a critical hit, 1.5x Experience gained x2!
+
++194 Copper Credits
+
++14 [Spear I] Mastery
+
++4 [Pain I] Mastery
+
++9 [Perception] Mastery
+
++6 [Mana I] Mastery
+
++8 [Health] Mastery
+
++Goblin Toes (Common) x3
+
+You have leveled up to Lv.6!
+
+You have leveled up to Lv.7!
+
+You have leveled up to Lv.8!
+
+You have leveled up to Lv.9!
+
+You have leveled up to Lv.10!
+
+You have leveled up to Lv.11!
+
+You have leveled up to Lv.12!
+
+You have leveled up to Lv.13!
+
+You have leveled up to Lv.14!
+
+You have been restored x4!
+
++9 Vitality
+
++9 Endurance
+
++9 Free Stat Points
+
+Congratulations for reaching Lv. 10!
+
+You have unlocked Class Selection!
+
+You have unlocked 10 special classes due to your achievements
+
+You have not unlocked any special classes due to your heritage
+
+You have not unlocked any special classes due to your race
+
+You have unlocked 2 special classes due to alternative methods
+
+Please select a class from the following:
+
+Fighter (Common)
+
+Mage (Common)
+
+Rogue (Common)
+
+Healer (Common)
+
+Tinkerer (Common)
+
+Ranger (Common)
+
+Defender (Common)
+
+Knight (Uncommon)
+
+Martial Artist (Uncommon)
+
+Warrior Monk (Uncommon)
+
+…
+
+Sorcerer (Uncommon)
+
+Juggernaut (Rare)
+
+Weapons Master (Rare)
+
+Congratulations, you have cleared Stage 2 of the tutorial!
+
++271 Copper Credits
+
++Endless Treasury Token (Uncommon) x2
+
+Stage 3 will begin in 2 minutes!
+
+1:59…
+
+Ronan was a little surprised by the new class he’d unlocked. Given that he hadn’t achieved much other than raising a few more of his masteries to the first tier, he had thought he would be rather stagnant for a while.
+
+Although he certainly wasn’t going to take the new class just yet—magic was a necessity for defeating the goblins hidden in the darkness—he would check it out so that he knew what to expect if he took it in future.
+
+Melee Weapons Master (Rare)
+
+The melee weapons master is proficient in all forms of melee weaponry, ranging from knuckle dusters, to swords, to unwieldy glaives. Using their expertise, they methodically dismantle foes using the range of arms at their disposal. These close-combat professionals often carry a large arsenal of weapons with them, giving them the ability to switch styles and weapons at a moment’s notice.
+
+Gain mastery over all melee weapons and shields minutely faster.
+
+When wielding a melee weapon, all stats are increased by 10%
+
+When dealing physical damage with a melee weapon, chance of landing a critical hit is increased by 20%. When landing critical hits with melee weapons, all bleeding effects become severe bleeding effects.
+
++2 Endurance, +6 Strength, +2 Agility, +1 Dexterity, +1 Acuity, +1 Luck, +2 Free Stat Points on level up
+
+Receive Class Skill [Weapons Familiarity - Melee (Rare)] on class selection
+
+Receive Skill [Quick Switch (Uncommon)] on class selection
+
+Unlock requirements:
+
+Challenger has five melee weapon or shield masteries at tier I or higher
+
+Challenger is Lv.25 or lower
+
+Ronan actually felt the class was equally as powerful as juggernaut, if not a little better. The stat distribution suited his fighting style massively, and flat mastery gain boost across all melee weapons would let him make the push for the third tier across the board.
+
+But, in the future.
+
+Right now there was only one path Ronan had to take, and he was more excited to take the first step down it than he’d been about any of his previous iterations.
+
+You have selected [Sorcerer (Uncommon)] as your class!
+
+Initiating class infusion…

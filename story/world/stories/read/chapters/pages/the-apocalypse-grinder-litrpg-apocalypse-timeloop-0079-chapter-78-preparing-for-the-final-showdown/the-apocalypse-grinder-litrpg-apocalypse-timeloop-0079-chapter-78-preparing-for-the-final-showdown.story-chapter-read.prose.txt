@@ -1,0 +1,221 @@
+Once he’d allowed the system to drone on about the integration, the first thing Ronan did was read through his status—the detailed version. After that brief bout of duplicate skills, he’d started to earn unique ones again. Although four of the tomes were more duplicates.
+
+That alone made him ponder how skills were distributed. It couldn’t be entirely random. Perhaps there are limits depending on how far into the integration a challenger is? Ronan guessed.
+
+There were quite a few new additions to his status, most of which weren’t immediately useful but would slowly grow in value over time. Especially once he had more freedom to experiment with new classes.
+
+[Detailed Status]
+
+Name: Ronan Steele
+
+Race: Human (G)
+
+Heritage: Reverberating Chronosphere (Current Iteration: 17) +
+
+Level: 0
+
+Class: None
+
+Fortune: 0
+
+[Stats]
+
+Health: 64/64
+
+Stamina: 98/98
+
+Mana: 57/57
+
+Vitality: 6
+
+Endurance: 9
+
+Wisdom: 5
+
+Regeneration: 3
+
+Resistance: 6
+
+Strength: 6
+
+Agility: 5
+
+Intelligence: 8
+
+Dexterity: 5
+
+Acuity: 7
+
+Tenacity: 12
+
+Luck: 2
+
+Charisma: 4
+
+Available Points: 0
+
+[Traits]
+
+Personal: Inevitable (Epic)
+
+[Skills]
+
+Unified Language Adaptation (Universal): Automatically translates all verbal, written, and mental communication for the challenger in both directions, allowing seamless communication with all species known by the system.
+
+Relentless Training (Common): Mastery and Experience penalties for repeat kills on the same enemies are slightly reduced.
+
+Magic Strike (Common): Infuse mana into your strikes to bolster their power and apply extra magical damage as a percentage of the original blow’s physical damage. (Cost: 5 Mana + Variable Mana Cost based on power of strike)
+
+Vital Surge (Common): Pay 5% of your health points in order to boost your agility and strength by 5% for 30 seconds.
+
+Mighty Strength (Common): Gain +1 to strength for every 15 points of strength you possess. Does not include stat bonuses.
+
+Critical Experience (Common): Gain 1.5x more experience when you kill an enemy with a critical hit.
+
+Double Strike (Common): Overcharge your body and strike twice in a single blow. (Cost: 50 Stamina + 12% Max Stamina)
+
+Magic Money (Common): Spend your hard earned wealth to summon a barrier that blocks all forms of damage. (Cost: 100 Copper Credits per 25 Health Points of damage blocked)
+
+Excessive Endurance (Common): Gain +1 to endurance for every 15 points of endurance you possess. Does not include stat bonuses.
+
+Reverberating Path (Epic) (Blessing): The power of the Chronos Clan allows the wielder of this skill to fix a point in time, causing all future iterations to begin from there, rather than the moment their heritage awakened. These paths can be designated as either anchor or branch paths, with the former allowing further reverberations and the latter preventing them. Overwriting the base path is impossible without purging the Reverberating Chronosphere heritage. Path creation exerts an accumulating chrono cost depending on the implications of the created path. [This skill can be upgraded as the wielder develops their heritage].
+
+Impact Leech (Common): Damage received from physical blows is converted into stamina at a rate of 1 stamina point per 2 points of damage.
+
+Weapons Expert - Melee (Common): Mastery gains for all melee weapons is accumulated infinitesimally faster. For every mastery tier you possess for all melee weapons, deal 5% extra damage when using a melee weapon.
+
+Stone Grip (Common): Enhances grip strength by 20% for up to 30 seconds. (Cost: 75 Stamina + 1% Max Stamina per second)
+
+Eagle Eye (Common): Increases vision range by 50% and clarity over long distances by 15% for up to 45 seconds. (Cost: 5% Max Stamina + 0.5% Max Stamina per second)
+
+Quick Forage (Common): Enables the rapid identification of edible vegetation and organic matter. Determines if an edible substance is harmful to the user. (Cost: 5 Mana)
+
+Overcharge (Common): Allows conversion of health points into stamina at a rate of 5 health points per stamina point. Cannot consume more than 60% of your max health points per day.
+
+Negotiation (Common): Improves your ability to negotiate favourable deals. Scales minorly with charisma and infinitesimally with acuity.
+
+Calculation (Common): Improves your ability to perform mental arithmetic and find logical solutions to problems. Scales minorly with intelligence and infinitesimally with acuity.
+
+Enhanced Acuity (Common): Gain +1 to acuity for every 15 points of acuity you possess. Does not include stat bonuses.
+
+[Mastery]
+
+Pugilist II 29/100
+
+II — All physical blows you inflict deal a minor amount more damage. Successful parries grant you a 2% chance to instantly counter-attack with a blow of average force. Strikes to vital areas have an extra 5% chance to deliver a critical hit.
+
+Mana I 27/100
+
+I — Mana costs for skills are infinitesimally reduced. Activation and channeling times for skills which cost mana are infinitesimally reduced. Wisdom potency +1%.
+
+Sword I 1/100
+
+I — Weight and balance penalties for all swords are reduced infinitesimally. When inflicting [Bleeding] with swords, gain a 1% chance to inflict a second instance of [Bleeding] for 50% of the damage as the first.
+
+Shield I 2/100
+
+I — While equipped, shields you use gain a [Resistance] stat equal to 50% of the wielder’s. Gain a 1% chance to restore health points equal to 25% of the damage an attack would deal to you when blocking it.
+
+Staff I 1/100
+
+I — Gain a 1% chance to stun an enemy for (Strength x 0.05) seconds on successful strikes with staffs or staff-like weapons. Gain mastery over staffs infinitesimally faster.
+
+Spear I 7/100
+
+I — Gain mastery over spears and spear-like weapons infinitesimally faster. Gain a 5% chance to restore stamina equal to 50% of a blow when that blow is parried while wielding a spear or spear-like weapon.
+
+Stamina II 12/100
+
+II — All stamina costs are reduced by a minor amount. Whenever you expend stamina to activate a skill or item, regain 5% of the expended stamina. Efficacy of endurance +2%
+
+Pain I 10/100
+
+I — Your pain is converted into a regeneration buff at an infinitesimal exchange rate. The more damage you suffer from an opponent, the more you resist their strikes (Lasts until death or five minutes after combat ends).
+
+Anti-Magic 16/100
+
+Perception 24/100
+
+Leadership 7/100
+
+Stealth 2/100
+
+[Cultivation]
+
+Mind: Quartz ★★ (0.4%)
+
+Mental damage resistance +6% (8.5%)
+
+Efficacy of wisdom, dexterity, acuity, and charisma +10% (14.2%)
+
+Body: Stone ★ (26.2%)
+
+Physical damage reduction +3% (4.2%)
+
+Efficacy of vitality, strength, agility, and resistance +5% (7.1%)
+
+Energy: Sparkling ★ (9.8%)
+
+All forms of energy regenerate 10% faster (14.2%)
+
+Energy costs are reduced by 3% (4.2%)
+
+Efficacy of endurance and regeneration +5% (7.1%)
+
+Soul: None
+
+[Blessings]
+
+Blessing of Chronos (Boundless)
+
+Minor Blessing of the Temporal Obelisk (Unique)
+
+[Mutations]
+
++81% Mental resistance
+
++43% Magical damage resistance
+
+From what it had been when the system first descended upon his world and granted its gift—or curse, depending on one’s perspective—Ronan’s status had ballooned in size and complexity. It was practically an essay now, but that was a reflection of his effort.
+
+He was sure his heritage was working to make it even smoother to understand at a glance, too. For example, the real percentage buffs of cultivation after deep cultivation was factored in were displayed alongside the base percentages.
+
+Speaking of his deep cultivation, he pulled it up for good measure. He wondered what the real increase had been from purchasing tier III. The diminishing stacking effects were annoying.
+
+Deep cultivation III: As a clan which transcends the limits of time and space, the act of cultivation holds a far more significant meaning to those of the Chronos heritage. Maintain 10% more of your progress towards the next cultivation realm for every tier of this enhancement. Cultivation benefits are 25% more effective for every tier of this enhancement.
+
+[Current effects]
+
+Maintain 23% more of your progress towards the next cultivation realm on iteration
+
+Cultivation benefits are 42% more effective
+
+The maths lined up, but that didn’t make him less frustrated. Still, all improvements were worth acquiring. Even the skills that barely helped him in his current situation. He was sure to find a use for them eventually.
+
+First, he needed to beat the tutorial once more. It was barely a challenge now, making Ronan actually excited to see what the next step up in difficulty would hold. Not long now, he reminded himself before he made a rash decision.
+
+Ronan found himself cultivating under the stars once again. He noticed that the shards which went on sale in the marketplace were almost identical each iteration.
+
+That wasn’t necessarily a bad thing. It meant he could continue to push his cultivation forwards, even without obtaining higher leveled shards. However, it did mean that he was yet to obtain even a single soul aspected shard.
+
+His soul cultivation was the only one of the four paths which hadn’t reached the first stage. No use worrying about what I can’t control. I’m sure I’ll find a source of them as I keep pushing onwards.
+
+What he was attempting right now was painful, but rewarding. Before his final battle against Lord Rockmore and his first against Vulparis the Trickster—which he hoped would also end in his victory—Ronan wanted to push for the second stage of tempered body cultivation.
+
+His body currently felt as though it was submerged in a vat of molten metal while being pounded by a hydraulic press. However, a pained glance at his status told him he was nearing his goal.
+
+Half an hour later, the pain subsided and Ronan collapsed in a sweaty, aching puddle on the roof. A satisfied grin was plastered on his face as he stared at the notification that had appeared when he collapsed.
+
+Congratulations! Your hard work and effort have allowed you to reach the first realm of Tempered Body Cultivation!
+
+Tempered Body Cultivation has advanced from [Stone ★] to [Stone ★★]!
+
+Physical damage reduction +6%
+
+Efficacy of vitality, strength, agility, and resistance +10%
+
+He pulled out a bottle of water and downed the entire thing in a few gulps. Then he unwrapped a stale protein bar and finished that in two bites. It wasn’t real sustenance, but it did the job well enough.
+
+He checked his status and saw the slight increase to his health points. A few light jabs and some brief stretches helped him get used to the increase in agility and strength. Perfect, he thought to himself.
+
+With a final look at the beautiful starry sky that watched over the broken city, Ronan clenched his fists and headed towards the stairs. It was time to kill Lord Rockmore.

@@ -1,0 +1,209 @@
+Iteration 39 analysis:
+
+Highest level achieved: 26
+
+Highest class achieved: Sorcerer (Uncommon)
+
+Highest fortune achieved: 3 Bronze Credits, 703 Copper Credits
+
+Stats gained: 318
+
+Cultivation stages achieved: Mind (Quartz ★★★), Body (Stone ★★), Energy (Sparkling ★★)
+
+Inventory value accumulated: 1 Bronze Credit, 130 Copper Credits
+
+Chrono Enhancement Updates:
+
+Experience gain multiplier has not increased
+
+Credit gain multiplier has not increased
+
+Experience gain multiplier has increased from 13.402 to 13.720
+
+Cultivation talent multiplier has not increased
+
+Cultivation progress has been reset, maximum stages reached have been locked
+
+Mastery progress has been reset, maximum tiers reached have been locked
+
+Class has been reset, class skills purged from status
+
+Chronos merits have been acquired! Access to Chronos Clan Ancestral grounds has been granted at minimum threshold
+
+Despite the lack of progress in multipliers, Ronan’s numerical experience multiplier was steadily increasing each iteration. He was glad for it, as it meant that even in these runs where he wasn’t necessarily pushing his recorded limits, he was still improving. When he eventually broke through his current obstacle, he would be able to push further than ever before.
+
+Checking his multipliers was satisfying, too. Thinking back to that first life where he’d been wiped out in stage 3 of the normal difficulty tutorial was almost funny at this point. He had come far.
+
+[Chrono Enhancements]
+
+Base Path:
+
+Previous highest level achieved: 79 [790% Experience gain multiplier]
+
+Previous highest class achieved: Adaptive Martial Artist (Rare)
+
+Previous highest fortune achieved: 112 Bronze Credits, 236 Copper Credits [112.2% Credit gain multiplier]
+
+Total accumulated stats gained: 12,720 [13.720x Experience gain multiplier]
+
+Total cultivation realms achieved: 7 [2.0x Cultivation talent multiplier]
+
+Total inventory value accumulated: 632 Bronze Credits, 429 Copper Credits
+
+Once again, Ronan felt the Temporal Obelisk had grown in size. He was certain that its… presence—for lack of a more suitable word—had grown. It occupied the empty white void in a way it hadn’t before. He was drawn to it, even knowing that there was nothing more it could offer him just yet.
+
+It no longer promised further gains from the stage 3 reward ever since it had evolved his personal trait, but he assumed it was still absorbing the excess energy. For what purpose, he knew not, but it would likely benefit him.
+
+Throughout the iterations he’d completed of the hard difficulty tutorial, Ronan had also amassed 16 new and new-ish uncommon skills. New-ish because some were skills he’d already possessed, but had been upgraded by receiving a better rarity of them.
+
+There had also been 5 duplicates, which annoyed him, but he’d never invested much in luck, so he couldn’t really complain. 16 skills were plenty, anyway. He was beginning to wish he had a way to combine, or consume skills, as many of them were losing their usefulness.
+
+Critical Tempo (Uncommon): The fifth consecutive strike you land on a single target will always be a critical hit.
+
+Sacrificial Strike (Uncommon): Upon landing a physical blow or magical spell, sacrifice health points equal to the damage dealt, and deal an extra 50% of the damage to the opponent struck. May not sacrifice more than 98% of your health points in a single instance.
+
+Mighty Strength (Uncommon): Gain +1 to strength for every 10 (-1) points of strength you possess. Does not include stat bonuses.
+
+Potent Wisdom (Uncommon): Gain +1 to wisdom for every 10 points of wisdom you possess. Does not include stat bonuses.
+
+Dust Bomb (Uncommon): Gather dust from your surroundings and launch a visibility-hampering cloud into the nearby environment. (Cost: 25 Mana + 1% Max Mana).
+
+Treasure Hunter (Uncommon): Increases the chance of receiving specific loot drops when defeating enemies by ((Luck + Level) * 2)%.
+
+Relentless Training (Uncommon): Mastery and experience penalties for repeat kills on the same enemies are reduced.
+
+Weapons Expert - Melee (Uncommon): Mastery gains for all melee weapons accumulates at a minorly faster rate. For every mastery tier you possess for all melee weapons, deal 8 (+2)% extra damage when using a melee weapon
+
+Gust (Uncommon): Summons a forceful gust of wind in a direction designated by the caster. Lasts for (channel time + 5) seconds. (Cost: 30 Mana + 1% Max Mana per second channeled).
+
+Counter-Parry (Uncommon): When successfully parrying an attack from an opponent, there is a 3% chance to instantly unleash an ethereal counter-attack which deals damage equal to (50% of the parried attack’s potential damage + strength * 0.5)
+
+Suture Wound (Uncommon): Expend extra health and mana to hasten the natural scabbing process of a bleeding internal or external wound. Wounds healed in this way will leave scars, and are more vulnerable to further damage than they would if healed naturally. (Cost: (Bleed / second) Health Points + 3% Max Mana)
+
+Stone Grip (Uncommon): Enhances grip strength by 30% for up to 45 seconds. (Cost: 70 Stamina + 1.5% Max Stamina per second)
+
+Flash Fear (Uncommon): Unleash a burst of fear-infused aura at surrounding enemies. Only effective on enemies with less tenacity than the user. Fear duration is longer the larger the gap between the user and enemy’s tenacity. (Cost: 50 Stamina + 3% Max Stamina + 5% Max Mana)
+
+Calculation (Uncommon): Improves your ability to perform mental arithmetic and find logical solutions to problems. Scales at a standard rate with intelligence and minorly with acuity.
+
+Quintessential Charisma (Uncommon): Gain +1 to charisma for every 10 points of charisma you possess. Does not include stat bonuses.
+
+Repair (Uncommon): Spend mana to repair basic materials and weapons. Items damaged beyond 50% of their durability cannot be repaired with this skill. (Cost: 2 Mana per 1% durability repaired)
+
+All in all, most of the uncommon skills were useful to Ronan. Even those that weren’t directly beneficial for his current issues had potential future utility. Especially skills such as repair and suture wound—if he could learn to replicate them with sorcery, he would be able to improve their effects.
+
+Self healing and item repair were beyond valuable and if he was able to replicate them without skills, and without a prerequisite class, Ronan could utilise them in every future iteration to great effect.
+
+Next up he pulled up his status. As he looked over his base stats, he realised he’d been lacking in his eagerness to use mineral skeleton. There were plenty more materials he could try to integrate into his skeleton lying around the tutorial. Anything that improved his stats from the get-go was incredibly useful and he would be a fool not to make the most of every advantage he had available.
+
+Name: Ronan Steele
+
+Race: Human (G)
+
+Heritage: Reverberating Chronosphere (Current Iteration: 39) +
+
+Level: 0
+
+Class: None
+
+Fortune: 0
+
+[Stats]
+
+Health: 68/68
+
+Stamina: 114/114
+
+Mana: 72/72
+
+Vitality: 6
+
+Endurance: 10
+
+Wisdom: 5
+
+Regeneration: 3
+
+Resistance: 6
+
+Strength: 10
+
+Agility: 4
+
+Intelligence: 8
+
+Dexterity: 4
+
+Acuity: 7
+
+Tenacity: 12
+
+Luck: 2
+
+Charisma: 4
+
+Available Points: 0
+
+[Traits]
+
+[Legendary]
+
+Fate Alignment (Personal)
+
+[Rare]
+
+Mineral Skeleton (Mutative), Berserk Cultivation Body (Mutative), Animal Prescience (Evolutionary), Manasynthetic (Evolutionary)
+
+[Skills]
+
+[Universal]
+
+Unified Language Adaptation
+
+[Epic]
+
+Reverberating Path (Blessing)
+
+[Rare]
+
+Learn Through Suffering (Cla5?)
+
+[Uncommon]
+
+Critical Tempo, Sacrificial Strike (NEW), Mighty Strength (NEW), Potent Wisdom (NEW), Dust Bomb (NEW), Treasure Hunter (NEW), Relentless Training, Weapons Expert - Melee, Gust (NEW), Counter-Parry (NEW), Suture Wound (NEW), Stone, Grip, Flash Fear (NEW), Calculation, Quintessential Charisma (NEW), Repair (NEW)
+
+[Common]
+
+Magic Strike, Vital Surge, Critical Experience, Double Strike, Magic Money, Excessive Endurance, Impact Leech, Eagle Eye, Quick Forage, Overcharge, Negotiation, Enhanced Acuity, Freeloader, Limitless Luck
+
+[Mastery]
+
+Pugilist II 26/100, Mana II 18/100, Sword II 4/100, Shield I 1/100, Staff II 12/100, Spear II 23/100, Stamina II 38/100, Pain I 29/100, Anti-Magic 7/100, Perception I 13/100, Leadership 2/100, Stealth 1/100, Grappling 16/100, Club I 34/100 (NEW), Critical 4/100 (NEW), Momentum I 9/100 (NEW), Health I 27/100 (NEW), Breath 4/100 (NEW), Meditation 6/100 (NEW)
+
+[Cultivation]
+
+Mind: Quartz ★★★ (0.4%)
+
+Body: Stone ★★  (0.2%)
+
+Energy: Sparkling ★★  (0.1%)
+
+Soul: None (0.2%)
+
+[Blessings]
+
+Blessing of Chronos (Boundless), Minor Blessing of the Temporal Obelisk (Unique), Tellen Mark of the Guardian Initiate (Epic)
+
+[Mutations]
+
++129% Mental resistance, +43% Magical damage resistance, +132% Physical damage resistance (NEW), +96% Toxicant resistance (NEW), +41% Exsanguination resistance (NEW)
+
+Ronan realised he’d also unlocked a couple of new masteries in the previous iteration. Breath and meditation were interesting ones, and he knew exactly what had caused them to unlock. He did wonder why he’d never unlocked meditation before, but perhaps there was some sort of spiritual limit he had to break through first.
+
+Before he began the next iteration, where he was finally going to defeat the damn goblins shrouded in darkness, Ronan sat and thought about a niggling worry he’d had. Manasynthetic was supposed to absorb mana from spells used against him, but it did nothing against the darkness. Yet, his mana breathing did.
+
+I suppose it wasn’t used directly ‘against’ me… The shaman simply cast it into the environment. I’ll have to see what happens when it uses a curse or damaging voodoo spell on me, he thought to himself.
+
+With his strategy decided, Ronan simply had to hope he received a suitable weapon drop before stage 4. He would prefer a club or a spear, but a sword would do. If he had to fight using only his body he wasn’t sure he’d survive the first attempt, but it wouldn’t stop him from giving it his all.
+
+Beginning a new iteration, please stand by…

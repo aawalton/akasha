@@ -1,0 +1,277 @@
+Ronan tapped his chin in thought while staring at his status. He wasn’t sure how he felt about the results of mineral skeleton’s stat adjustments, but there was nothing he could do about it now.
+
+Name: Ronan Steele
+
+Race: Human (G)
+
+Heritage: Reverberating Chronosphere (Current Iteration: 18) +
+
+Level: 4
+
+Class: None
+
+Fortune: 131 Copper Credits
+
+[Stats]
+
+Health: 114/114
+
+Stamina: 159/159
+
+Mana: 53/60
+
+Vitality: 10
+
+Endurance: 14
+
+Wisdom: 5
+
+Regeneration: 3
+
+Resistance: 7
+
+Strength: 12
+
+Agility: 5
+
+Intelligence: 8
+
+Dexterity: 4
+
+Acuity: 7
+
+Tenacity: 12
+
+Luck: 2
+
+Charisma: 4
+
+Available Points: 0
+
+[Traits]
+
+Inevitable (Epic) (Personal)
+
+Mineral Skeleton (Rare) (Mutative)
+
+Berserk Cultivation Body (Rare) (Mutative)
+
+Animal Prescience (Rare) (Evolutionary)
+
+Manasynthetic (Rare) (Evolutionary)
+
+[Skills]
+
+Unified Language Adaptation (Universal)
+
+Relentless Training (Common)
+
+Magic Strike (Common)
+
+Vital Surge (Common)
+
+Mighty Strength (Common)
+
+Critical Experience (Common)
+
+Double Strike (Common)
+
+Magic Money (Common)
+
+Excessive Endurance (Common)
+
+Reverberating Path (Epic) (Blessing)
+
+Impact Leech (Common)
+
+Weapons Expert - Melee (Common)
+
+Stone Grip (Common)
+
+Eagle Eye (Common)
+
+Quick Forage (Common)
+
+Overcharge (Common)
+
+Negotiation (Common)
+
+Calculation (Common)
+
+Enhanced Acuity (Common)
+
+Learn Through Suffering (Rare) (Cla5?)
+
+Freeloader (Common)
+
+Limitless Luck (Common)
+
+Critical Tempo (Uncommon)
+
+[Mastery]
+
+Pugilist II 40/100
+
+Mana I 33/100
+
+Sword I 1/100
+
+Shield I 1/100
+
+Staff I 1/100
+
+Spear I 6/100
+
+Stamina II 19/100
+
+Pain I 9/100
+
+Anti-Magic 24/100
+
+Perception 22/100
+
+Leadership 4/100
+
+Stealth 1/100
+
+Grappling 21/100
+
+[Cultivation]
+
+Mind: Quartz ★★★ (0.6%)
+
+Body: Stone ★★  (3.9%)
+
+Energy: Sparkling ★★  (1.2%)
+
+Soul: None (0.2%)
+
+[Blessings]
+
+Blessing of Chronos (Boundless)
+
+Minor Blessing of the Temporal Obelisk (Unique)
+
+Tellen Mark of the Guardian Initiate (Epic)
+
+[Mutations]
+
++129% Mental resistance
+
++43% Magical damage resistance
+
+He almost wished he’d saved his free stat points from the first 4 levels. He would have been able to counteract the loss of agility and dexterity from mineral skeleton.
+
+Well, he did put 1 point into agility, so that wasn’t the end of the world, but the loss of motor control was actually noticeable with his dexterity so low. In any case, stats seemed to be multipliers of a person’s base abilities. Dropping to 0 dexterity shouldn’t give him motor neurone disease, or parkinson’s, or something equally heinous, but it would certainly hurt his ability to fight.
+
+The stats had been added directly to his base totals. That meant it was fairly likely the change would persist even after his death. Ronan was a little miffed by the loss of manoeuvrability, but he would probably be able to work around it.
+
+It wasn’t the end of the world. On a purely mathematical basis, he’d profited 3 stat points.
+
+His skills section was getting rather bloated, and now the traits were racking up too. Ronan enjoyed seeing his progress, but he did wonder if there was a better way to display it…
+
+The moment he had that thought, his status seemed to shift and blur. When it stopped, the skills and traits sections had organised themselves by rarity.
+
+It didn’t reduce the bloat, but it definitely made it easier to navigate. I guess the system isn’t all bad, he thought to himself. Still gonna punch it, though.
+
+18…
+
+The blinking of the timer reminded him that he was still in the tutorial. The two minutes felt like an eternity to him after normal difficulty and its sixty-second delays, but at the same time, it had passed in the blink of an eye.
+
+When it reached zero, Ronan prepared himself for whatever might await him in stage 2 of the hard difficulty tutorial. If the first stage was his measuring stick, he was expecting goblin warriors and archers around level 10.
+
+He was ripped through the shifting void, too excited for the impending battle to focus on what lay within, before being dumped unceremoniously into the forest clearing. Before he could even get his bearings, he was greeted with the garbled screech of a goblin.
+
+He raised his fists and rapidly swivelled his gaze around the clearing, taking stock of his surroundings. He saw the two goblins he expected, around the difficulty he expected.
+
+[Goblin Warrior Lv.10]
+
+[Goblin Archer Lv.12]
+
+He grinned and took a step towards the warrior, who wielded a long spear, when he heard a sudden squelch. R onan threw himself to the side, narrowly avoiding the dagger that was thrust into the place his stomach had occupied an instant before.
+
+A goblin that was a little shorter than the other two had been hidden behind him, and before he could regain his footing, it dashed forwards to strike at him again. He cursed, glancing at the floating tag as he tried to find footing on the wet, muddy field.
+
+[Goblin Rogue Lv.13]
+
+Ronan hadn’t expected this stage to be a breeze, but he didn’t think he would be forced onto the back foot so quickly. The rogue’s ambush had given the archer the time it needed to retreat to a safe distance, while the warrior was closing the gap between itself and Ronan.
+
+He needed to act now if he didn’t want to be caught in their trap. Which goblin do I take out first? He barely had a second to think with the rogue and warrior advancing, but he made his decision.
+
+Ronan managed to sidestep the rogue as it stabbed at him for a second time. The creature’s screeching intensified. He caught it pivoting in the corner of his eye, but it wasn’t his immediate concern.
+
+The warrior seemed startled at Ronan’s sudden charge, but it took the shift in pace in stride. It planted its forward foot, and whipped the spear upwards. The tip arced towards Ronan’s face.
+
+He smirked. Should have gone for the thrust, buddy, he remarked inwardly, as he pushed out his forearm.
+
+The outstretched arm interrupted the spear-slash. He caught it early, stopped its momentum, and then reached out with his right hand.
+
+The warrior seemed to sense his gambit, but it was too late. The goblin pulled the spear back, but Ronan already had one hand on the shaft. The creature out-leveled him, but goblins were short and spindly. Ronan had just gained an extra 4 strength.
+
+He pulled, and the spear came with him. The goblin stumbled forward, still clinging to its weapon. He wrapped his other hand around the shaft, and activated stone grip.
+
+For an instant, he feared that the skill might cause him to break the wooden shaft. It held, and with a second tug, he freed the spear from the goblin warrior’s grasp.
+
+The sudden shift in momentum sent him reeling, but he quickly found his balance. The twang of a bowstring alerted him to the incoming arrow. He barely caught the brown blur as it shot towards him, and threw himself to the right.
+
+The tip of the arrow grazed his arm, painting a thin red trail in its wake. Ronan barely felt the sting, and spun on his feet to face the incoming rogue. It was barely two paces away, already beginning to lunge at him.
+
+He surmised that most of its stats must be invested in agility and dexterity, for it to move with such grace on the wet, muddy field. The spear was long for a goblin, making it sort of medium-sized in Ronan’s hands. He didn’t have time to form a proper stance, but his spear style had never utilised one.
+
+He wasn’t even holding it in the right direction, having only just stolen it. The rogue’s dagger was inches away. Ronan slammed the butt of the spear down on the goblin’s arm.
+
+He heard a snap, then a screech. The injury only served to infuriate the rogue. It wasn’t behaving like the typical thieves or sneak-attacker types he expected a rogue to embody. Then again, it was a goblin. He couldn’t expect much brainpower.
+
+The creature lunged once more. Even with one arm broken at the elbow, it continued to flail both daggers. Ronan got cut more than once, but for every one or two cuts he received, he retaliated in kind.
+
+Unfortunately, he wasn’t only fighting the rogue. Even relieved of its spear, the warrior had charged back into the fray. It leapt at him, throwing punches, kicks, and even attempting to bite him at times.
+
+Fighting two goblins at once was tough, especially with the level difference, but having a spear made a world of difference. Wide, sweeping swings allowed Ronan to keep the two feral monsters at bay while whittling down their health.
+
+The archer made life even more difficult, but with two of its allies in the way, and Ronan constantly moving about to stop it from aiming accurately, it only managed to hit him once, and even that had barely grazed him.
+
+The turning point came when the rogue stumbled as he was swinging the spear towards it. The strike, which would have only left a cut on its arm, instead tore through its chest, opening a deep gash.
+
+Blood poured out as the goblin screeched in pain. The warrior seemed to grow more incensed. Ronan kicked out at the warrior’s shin, then smashed the butt of the spear into its gut. It fell backwards, clutching at its stomach.
+
+He had a few seconds before it recovered, and he intended to put his new critical-hit skill combo to work. He pounced on the wounded rogue, sweeping the goblin off its feet with the shaft of the spear.
+
+As it fell, he flicked the butt around and down, crashing against its chest. The wooden shaft struck right in the open wound. The monster thrashed around as it hit the mud, but Ronan was relentless. He was inevitable.
+
+He took a step closer, and swung the spear across its neck. A second wound was torn open, the ugly green creature’s lifeblood draining into the muddy grass. That made four hits, and the next would spell its end.
+
+He gripped the spear in both hands, and steadied himself. Then, Ronan thrust the spear into the goblin rogue’s heart, before tearing it out a half-second later.
+
+You have killed [Goblin Rogue Lv.13]!
+
+Enemy killed with a critical hit, 1.5x Experience gained!
+
++63 Copper Credits
+
++5 [Spear I] Mastery
+
++1 [Pain I] Mastery
+
++1 [Perception] Mastery
+
++Goblin Toes (Common)
+
+You have leveled up to Lv.5!
+
+You have leveled up to Lv.6!
+
+You have leveled up to Lv.7!
+
+You have leveled up to Lv.8!
+
+You have leveled up to Lv.9!
+
+You have been restored x3!
+
++5 Vitality
+
++5 Endurance
+
++5 Free Stat Points
+
+He barely had time to read the first line of the kill message before the warrior roared and charged at him once more. The archer also redoubled its efforts, a sneer on its face as it circled around them.

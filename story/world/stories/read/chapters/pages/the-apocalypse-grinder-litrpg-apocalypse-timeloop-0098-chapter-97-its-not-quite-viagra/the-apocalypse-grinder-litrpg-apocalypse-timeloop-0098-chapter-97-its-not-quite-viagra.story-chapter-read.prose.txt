@@ -1,0 +1,203 @@
+The dead rogue was a lost ally, but also one less obstacle to get in the archer’s way. The rate at which it fired arrows picked up, and he swore the warrior would evolve into a berserker if it kept leveling up, given how frenzied it had become.
+
+Even so, its anger made it careless. Every lunge gave him a window to cut and stab it with the stolen spear. It was rapidly accumulating wounds, and he wondered how it was still standing.
+
+“Damned deathless bastard! You’re not a zombie, so take a breather,” he cursed, smashing the butt of the spear into its head and sending it reeling.
+
+The warrior tumbled over itself and fell arse-first into the mud. He watched it clawing at the dirty earth, ripping out clumps of grass as it tried and failed to stand up.
+
+Instead of moving to finish it off, he turned his attention to the archer. There was a simple reason for his decision—the spear was likely to dissipate upon the warrior’s death. The chance of it dropping as loot was almost zero, and he didn’t want to leave himself unarmed against the annoying archer.
+
+Ronan found himself in a similar situation to his very first attempt at the normal tutorial. The archer was fleeing while taking potshots, maintaining its distance and attempting to win a war of attrition.
+
+He felt the loss of the agility point. Then he cursed himself. He’d just gained five levels, and the free stat points to go with it.
+
+While keeping pace, he pulled up his status and allocated the points—four in agility, and one in dexterity. He was missing out on potential power, but right now he needed speed.
+
+The effect was immediate.
+
+Where before, the archer had just about managed to maintain its distance from Ronan, it was no longer able to do so. For every metre of ground it covered, he covered one-point-five. Ten seconds later, he was within striking distance.
+
+He lunged forward, thrusting the spear upwards as his body dipped towards the ground. The archer panicked, eyes going wide. It stepped to the side and swung its bow at the approaching spear.
+
+The ineffective strike didn’t shift Ronan’s thrust much, but it did cause it to miss its intended target. He’d struck at the goblin’s throat, but ended up piercing its collarbone.
+
+Still, that was a severely damaging strike. The archer screeched and stumbled as the force of the thrust pushed it back. Ronan tore out the spear in a crimson spray, stepping forward to follow up.
+
+His second strike was a sweeping cut across its gut, spilling its intestines onto the mud. Its eyes were wide in fear now. He struck twice, piercing both of its legs and crippling it.
+
+The goblin archer was likely close to zero health points now, but he still needed to hit it once more to finish his combo. Ronan hated goblins, but he didn’t wish to stoop as low as the disgusting green bastards. He put it out of its misery with a fifth blow, piercing its skull and brain, killing it instantly.
+
+He saw the notification flashing in view, but dismissed it for now. There was still one last goblin to take out.
+
+The goblin warrior was crawling along the muddy grass, hate in its eyes and blood staining the ground beneath its torso. Ronan had to admire its tenacity, but he wouldn’t show mercy.
+
+Stabbing it with the spear might kill it too soon, so he delivered four rapid-fire jabs with the butt of the spear that left it convulsing in the mud. Then, a fifth stab into the base of its neck was enough to finish the job. Twin chimes rang in his ears as the kill notification and the notification for completing stage 2 appeared in his vision.
+
+That was tough, but not as hard as I expected… It’s not quite viagra, he joked to himself as he began to read the notifications.
+
+You have killed [Goblin Archer Lv.12] and [Goblin Warrior Lv.10]!
+
+Enemy killed with a critical hit, 1.5x Experience gained x2!
+
++111 Copper Credits
+
++13 [Spear I] Mastery
+
++2 [Pain I] Mastery
+
++3 [Staff I] Mastery
+
++2 [Perception] Mastery
+
++4 [Stamina II] Mastery
+
++Goblin Toes (Common) x2
+
+You have leveled up to Lv.10!
+
+You have leveled up to Lv.11!
+
+You have leveled up to Lv.12!
+
+You have been restored!
+
++3 Vitality
+
++3 Endurance
+
++3 Free Stat Points
+
+Congratulations for reaching Lv. 10!
+
+You have unlocked Class Selection!
+
+You have unlocked 9 special classes due to your achievements
+
+You have not unlocked any special classes due to your heritage
+
+You have not unlocked any special classes due to your race
+
+You have unlocked 2 special classes due to alternative methods
+
+Please select a class from the following:
+
+Fighter (Common)
+
+Mage (Common)
+
+Rogue (Common)
+
+Healer (Common)
+
+Tinkerer (Common)
+
+Ranger (Common)
+
+Defender (Common)
+
+Knight (Uncommon)
+
+Martial Artist (Uncommon)
+
+Warrior Monk (Uncommon)
+
+…
+
+Sorcerer (Uncommon)
+
+Juggernaut (Rare)
+
+Congratulations, you have cleared Stage 2 of the tutorial!
+
++271 Copper Credits
+
++Endless Treasury Token (Uncommon) x2
+
+Stage 3 will begin in 2 minutes!
+
+1:59…
+
+The wall of text made Ronan stagger a little. The level-ups he was expecting, and to an extent, the class unlock notification. However, the sheer number of available classes was overwhelming compared to the last time he’d been able to select one.
+
+He wondered if that was because of his increase in difficulty, or simply that he’d achieved so much since the last time he had begun an iteration from the very beginning.
+
+There was only one rare class available—Juggernaut. Of the uncommon classes, he’d already tried two of them, and the rest didn’t particularly interest him. He’d had a rare class before, of course, but it had been an evolution, rather than one available right off the bat. Ronan was curious to see if there was any difference between Juggernaut and Adaptive Martial Artist.
+
+Juggernaut (Rare)
+
+The juggernaut is an unstoppable warrior, possessed of indefatigable will, a nigh-indestructible body, a tenacious mind, and an unstoppable determination to win at any cost. Once you start fighting, you will not stop until all your foes lie dead at your feet, or your lifeblood is spilled across the sands of war.
+
+Gain a new resource, momentum, which can only ever be an integer from 0 to 100. Deal more, and take less, physical damage the greater your momentum. If your momentum remains at 0 for more than 10 seconds during combat, the effect is reversed, increasing exponentially every 5 seconds.
+
+Gain +1% to strength and tenacity for every 10 seconds you are in combat. Bonus resets after 60 seconds outside of combat.
+
+When dealing physical damage, gain stamina equal to 30% of the damage dealt.
+
+Gain mastery over stamina, pain, and momentum infinitesimally faster.
+
++4 Endurance, +2 Resistance, +4 Strength, +4 Tenacity, +1 Free Stat Point on level up
+
+Receive Class Skill [Charge of the Juggernaut (Rare)] on class selection
+
+Receive Skill [Guard Break (Uncommon)] on class selection
+
+Unlock requirements:
+
+Challenger has endurance, strength, and tenacity over 10 points at Lv.10
+
+Challenger has crystalline mind and tempered body cultivation at 2nd realm or higher at Lv.10
+
+Challenger has stamina, pain, and at least one combat mastery at tier I or higher
+
+Ronan was really tempted by the class. It gave 2 less stat points overall per level than adaptive martial artist, but given that it was a class he could take at level 10, that discrepancy wouldn’t matter much. Furthermore, it was almost perfectly synergised with his preferred fighting style.
+
+Not only that, but simply seeing the class description had given Ronan knowledge about a new type of mastery—momentum. He assumed this was mastery over the unique resource he would gain from choosing the class, which itself sounded like a dangerous double-edged sword. He was a little curious about masteries, some seemed to have a certain requirement to first unlock them that was a higher barrier than earning the second or third point.
+
+Still, knowing what it was called gave him a clue about how he might unlock or increase it, even if he didn’t take this class. The class skills, and the non-class skill which he could receive from the class, both sounded useful as hell.
+
+Ronan thought back to when he had the knight class skill, breaking charge. It had been extremely powerful and allowed him to catch enemies off guard. He assumed this would be a similar, if not enhanced, version of that.
+
+The rolling stat boost and stamina leech were the cherries on the cake. He was almost ready to take the class straight away, but there was one uncommon class that piqued his interest. At the very least, he wanted to check it out before making a final decision.
+
+Sorcerer (Uncommon)
+
+Unlike mages, who rely on sterile control of mana and the guidance of system-created skills to perform clean magic, sorcerers lean on their creativity, recklessness, and desire for chaos to cast freeform magic. There is power in a sorcerer’s freedom, but an equally great risk of death—or worse.
+
+Gain a boost to mana regeneration that scales with acuity
+
+Gain mastery over mana and magic minutely faster.
+
++2 Wisdom, +2 Intelligence, +3 Acuity, +1 Free Stat Point on level up
+
+Receive Class Skill [Internal Mana Manipulation (Uncommon)] on class selection
+
+Receive Class Skill [Sorcerer’s Insight (Uncommon)] on class selection
+
+Unlock requirements:
+
+Challenger has mana mastery at tier I or higher
+
+Challenger has sensed their own flow of mana
+
+Challenger is aware that spells can be created without the guidance of a skill
+
+His heart was torn. Juggernaut was by far the stronger class on paper, and would give him the most immediate power increase. However, sorcerer offered almost limitless future potential for growth. He could perhaps finally learn how to cast spells on his own, outside the limitations of the system.
+
+For a man who already had a system-breaking heritage, the idea of gaining power that was uniquely his appealed to Ronan. He would be able to use magic, real magic, from the very beginning of an iteration. He would be able to use magic even without the relevant classes, once he learned how.
+
+After about fifteen seconds of deliberation, Ronan made up his mind. He was going to take juggernaut in this iteration.
+
+His reasoning was simple. Starting with a rare class would potentially give him the option to evolve into the next rarity of class at level 50—he assumed epic, based on his trait, but couldn’t be certain.
+
+The reason he wanted to do so was that he would likely gain another chronos merit for achieving an epic class. Gaining that merit was a one-time accomplishment that he couldn’t repeat no matter how many iterations he lived through, whereas mastering magic was a pursuit that he might never reach perfection in, even through a thousand iterations.
+
+Given that, it made the most sense to him to take juggernaut in this life, evolve it, then take sorcerer in future iterations until he was able to use freeform magic to at least an adequate degree of competency.
+
+You have selected [Juggernaut (Rare)] as your class!
+
+Ronan prepared himself for the inevitable pain of the infusion. Whatever stage 3 had in store for him, he would be ready to fight it. And if he failed, he would simply keep smashing his fists against his foes until they were all dead.
+
+Like an unstoppable juggernaut.
+
+Initiating class infusion…

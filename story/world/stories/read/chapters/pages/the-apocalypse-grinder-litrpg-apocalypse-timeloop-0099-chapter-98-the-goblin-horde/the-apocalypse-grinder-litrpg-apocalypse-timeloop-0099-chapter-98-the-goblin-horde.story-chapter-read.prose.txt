@@ -1,0 +1,271 @@
+The class infusion for juggernaut was agonising. Despite that, Ronan was able to push through it. He’d experienced a similar pain when evolving to adaptive martial artist, and he knew that the pain was only temporary. The strength he gained in exchange was worth every stinging lance of agony that burned through his flesh and bones.
+
+Class infusion complete! You have become a [Juggernaut (Rare)]!
+
+You have received the class skill [Charge of the Juggernaut (Rare)]!
+
+Charge of the Juggernaut (Rare): Expend momentum in a single moment, charging at your enemies like a raging bull, and dealing bonus damage on impact. Costs all your current momentum, but if the charge strikes an enemy, regain the same quantity of momentum + 10%. (Cost: 50 Stamina + 15% Max stamina)
+
+You have received the skill [Guard Break (Uncommon)]!
+
+Guard Break (Uncommon): A single, powerful blow designed to break an enemy’s guard or shield. (Costs 15% Max stamina)
+
+Bonus stats for class have been retroactively applied
+
+The skills were about what Ronan expected. Guard break had a particularly punitive cost, but with the juggernaut class returning his stamina every time he dealt damage, he was sure it wouldn’t be a major issue in fights.
+
+The momentum mechanics were really strange, but Ronan had a sense of how they might work. Essentially, once he started fighting, he couldn’t stop, or falter too hard, or he would find himself vulnerable to the enemies that surrounded him.
+
+He was fine with that.
+
+His existing combat style already followed similar patterns, he would just need to maintain a close eye on his momentum as he did so. I’ll have to make sure to take out any annoying ranged enemies or rogues so that I don’t end up hitting 0 momentum while chasing them, he realised.
+
+58…
+
+He’d spent a minute deliberating on his class choice and going through the infusion. Before entering stage 3, Ronan still needed to use his two uncommon treasury tokens, and assign his free stat points.
+
+Beginning with his stats seemed like the best thing to do. He would need to think about it, whereas opening the endless treasury required little deliberation on his part. He would mostly follow the class distribution, to make the most of his new abilities, but also seek to round out some of his weaker stats.
+
+Once he was done spending the 10 free points he’d accumulated, he pulled up his status to give it a final look before the next stage.
+
+Name: Ronan Steele
+
+Race: Human (G)
+
+Heritage: Reverberating Chronosphere (Current Iteration: 18) +
+
+Level: 12
+
+Class: Juggernaut (Rare)
+
+Fortune: 576 Copper Credits
+
+[Stats]
+
+Health: 205/205
+
+Stamina: 342/342
+
+Mana: 58/60
+
+Vitality: 18
+
+Endurance: 30
+
+Wisdom: 5
+
+Regeneration: 5
+
+Resistance: 11
+
+Strength: 20
+
+Agility: 8
+
+Intelligence: 8
+
+Dexterity: 7
+
+Acuity: 7
+
+Tenacity: 20
+
+Luck: 4
+
+Charisma: 4
+
+Available Points: 0
+
+[Traits]
+
+[Epic]
+
+Inevitable (Personal)
+
+[Rare]
+
+Mineral Skeleton (Mutative)
+
+Berserk Cultivation Body (Mutative)
+
+Animal Prescience (Evolutionary)
+
+Manasynthetic (Evolutionary)
+
+[Skills]
+
+[Universal]
+
+Unified Language Adaptation
+
+[Epic]
+
+Reverberating Path (Blessing)
+
+[Rare]
+
+Learn Through Suffering (Cla5?)
+
+Charge of the Juggernaut (Class)
+
+[Uncommon]
+
+Critical Tempo
+
+Guard Break
+
+[Common]
+
+Relentless Training
+
+Magic Strike
+
+Vital Surge
+
+Mighty Strength
+
+Critical Experience
+
+Double Strike
+
+Magic Money
+
+Excessive Endurance
+
+Impact Leech
+
+Weapons Expert - Melee
+
+Stone Grip
+
+Eagle Eye
+
+Quick Forage
+
+Overcharge
+
+Negotiation
+
+Calculation
+
+Enhanced Acuity
+
+Freeloader
+
+Limitless Luck
+
+[Mastery]
+
+Pugilist II 40/100
+
+Mana I 33/100
+
+Sword I 1/100
+
+Shield I 1/100
+
+Staff I 4/100
+
+Spear I 24/100
+
+Stamina II 23/100
+
+Pain I 12/100
+
+Anti-Magic 24/100
+
+Perception 25/100
+
+Leadership 4/100
+
+Stealth 1/100
+
+Grappling 21/100
+
+[Cultivation]
+
+Mind: Quartz ★★★ (0.6%)
+
+Body: Stone ★★  (3.9%)
+
+Energy: Sparkling ★★  (1.2%)
+
+Soul: None (0.2%)
+
+[Blessings]
+
+Blessing of Chronos (Boundless)
+
+Minor Blessing of the Temporal Obelisk (Unique)
+
+Tellen Mark of the Guardian Initiate (Epic)
+
+[Mutations]
+
++129% Mental resistance
+
++43% Magical damage resistance
+
+He was satisfied. The few extra points in luck felt worthwhile, given how effective it had proven itself during his branch path. Ronan knew 2 points wouldn’t cause any groundbreaking changes to his loot, but a small increase was better than none.
+
+Next up, he used the two tokens. He idly realised that these would be the first uncommon items he received from the treasury.
+
+[Endless Treasury Token (Uncommon)] has been consumed!
+
+You have received [Fortified Lucky Banana (Uncommon)]!
+
+Fortified Lucky Banana (Uncommon)
+
+A banana of fortuitous origins, with golden skin and delightful flesh. This variant received more energy while growing, and is a little more in tune with the world’s karma.
+
++5 Luck
+
+[Endless Treasury Token (Uncommon)] has been consumed!
+
+You have received [Guardian Staff (Uncommon)]!
+
+Guardian Staff (Uncommon)
+
+This iron-capped battle-staff was once wielded by the guardian of a princess in ancient times. Legend has it, he fought off a hundred pillaging bandits by himself using this staff, before eventually falling. However, the princess lived and escaped thanks to his heroic actions.
+
++2 Strength
+
++1 Dexterity
+
++1 Tenacity
+
+The fact that he could not only still receive stat fruits, but improved versions of them, from all rarities of treasury token, astounded Ronan. Even so, he wasn’t going to look a gift horse in the mouth. He chowed down on the banana while reading the description of the guardian’s staff.
+
+He had been using a spear in the last stage, but it had dissipated along with the goblin warrior’s corpse. He wouldn’t have minded using his fists, but weapons were force multipliers. Given his new class’ propensity for constant momentum, a staff would let him hit far harder, and kill faster. The extra stats were much appreciated, too.
+
+With all of his tasks finished, Ronan checked the countdown to stage 3. There was less than ten seconds to go until he was transported to the next stage.
+
+In the normal difficulty, it had been the stone dungeon with the three magic archways which summoned lesser goblin warriors, archers, and the two goblin shamans. That had been tough as hell the first few times he’d been forced into it. He was a little scared to see how much worse the hard difficulty stage 3 would be, but mostly, he was excited to test his new class abilities.
+
+0…
+
+Ronan paid some attention to the void as he was ripped through it. He’d travelled in it dozens of times now, and was still little closer to figuring out what hid in its depths than the first time. He thought he saw… Nothing. It was too hard to get a read. Then his feet hit rough earth, and he prepared himself for battle.
+
+The first thing he noticed was that the surroundings were completely different to the dungeon he was used to. Instead of a dimly lit stone room, with an enchanted archway in three of the four walls, Ronan found himself standing in another grassy field.
+
+This time, the field wasn’t a flat expanse. Behind him it stretched on for a seemingly infinite distance, the endless green disappearing over the horizon. Is that an illusion, or is the tutorial world simply that large? he wondered.
+
+In front of Ronan, the field curved upwards. Gently at first, but it then took a slightly steeper incline as it edged towards the top of a hill. It stretched out for at least a kilometre in either direction.
+
+There were no goblins, or other monsters, to be seen. There were no allies, either. Come to think of it, I didn’t get partnered up in stage 2 of the hard tutorial. That’s a fairly steep increase in difficulty.
+
+As Ronan was appraising the surroundings, a distant rumbling noise from beyond the crest of the hill caught his attention. He turned his head so that one ear was facing the hill and listened closer.
+
+The rumbling grew louder and louder, until he saw the first green heads appearing over the top of the hill. They began to form a somewhat orderly rabble, pointing at Ronan and waving their weapons in the sky.
+
+He spotted swords, spears, daggers, clubs, shields, and plenty of archers with bows. Then, the goblins near the middle of the group split apart, clearing the path for a much taller, meaner looking monster.
+
+There were dozens of tags floating above the goblins’ heads, but the only one Ronan was focusing on was the one above the new arrival’s head. It was muscular, with swirling tattoos covering its body, and wielded an enormous greatsword in one hand, dragging along the dirt in its wake.
+
+[Elite Goblin Warrior Lv.20]
+
+See… It’s at times like this that I wonder if the system actually just likes to find inhabited planets and murder everyone for its own entertainment. How the hell would I survive this, without my advantages? Ronan inwardly cursed.
+
+Maybe it’s a Magriz’al situation, in that the reasonable way to pass it is running away for a certain amount of time, rather than charging at the obviously way-overleveled boss monster?
+
+Having experienced the continuous waves of goblins in stage 3 of the normal difficulty tutorial, Ronan began to prepare himself for the entire group to charge the moment the elite warrior gave the order. However, what happened next took him by surprise, and also slightly disappointed him.
