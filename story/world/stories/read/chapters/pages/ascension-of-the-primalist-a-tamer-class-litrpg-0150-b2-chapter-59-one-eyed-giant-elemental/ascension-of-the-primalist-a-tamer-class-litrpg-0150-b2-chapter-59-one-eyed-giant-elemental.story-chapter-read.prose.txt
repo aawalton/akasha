@@ -1,0 +1,251 @@
+Seth, Nightmare, and Colossus became bringers of death in the cavern's gloom. They fell into a rhythm, ambushing every patrol of Earth Elementals that strayed too far from the giant tree and its dozing guardian; in less than half a day, the remains of more than three dozen Elementals lay scattered across the cave's floor.
+
+In no time, groups of three became groups of four, then groups of five, all huddled together, clearly aware of the threat and trying to stay safe. It made no difference. Each time Colossus' new corrosive spell was off cooldown, they struck again. Seth and Nightmare would draw the Elementals' attention and drag them toward the scorpion, who was hiding behind a cluster of rocks or a sharp curve.
+
+The young beast would then surge forward with Scorpion Charge before taunting all of them and unleashing Deathcoil-Venom-imbued attacks to sap their Toughness and Strength. While the Elementals were staggered and weakened, Nightmare and Seth would descend on them and rip through two or three of the creatures before they could escape from Chitinous Taunt.
+
+At first, the Elementals had fought with stubborn resilience, but soon they tried to flee systematically after the initial clash. Who could blame them? That was pretty much their only chance of survival, even with their terrible Agility. Of course, it was all for naught: Seth and Nightmare effortlessly caught up and slaughtered them every single time.
+
+By the end of the second day, the vast cavern felt eerily empty. Only about twenty Mid- or High-Iron Elementals remained out of the initial hundred, all clustered nervously near the ancient tree and the colossal keeper.
+
+Seth looked at the sleeping beast from the shadows. Does it even care if I kill all the Elementals?
+
+There was only one way to find out. He pulled his Copper bow from his Endless Pouch and nocked an arrow.
+
+Moments like this made the absence of an Iron bow painfully obvious. With one, he could have shot from afar while drawing the Elementals away from the tree and the slumbering mountain beside it. With a Copper weapon, odds were the projectile wouldn't cause any real damage.
+
+Still, he didn't need to hurt them. He only needed to piss them off.
+
+Seth drew the string and infused aether into the arrow until he sensed that the projectile was about to explode before releasing it. The projectile streaked across the cavern and struck one of the Earth Elementals' shoulders. A few fragments of stone chipped away from its body, leaving little more than a scratch.
+
+The creature's head immediately snapped toward him.
+
+Good enough.
+
+Seth loosed another arrow before retreating into the shadows. The beast lurched after him, abandoning its position near the tree without hesitation. From there, the strategy became almost embarrassingly simple.
+
+Seth would creep close enough to get a clear shot, plant an arrow into one of the Elementals, and retreat before it reached him. The attacks were terribly weak but they were enough to provoke the mindless constructs into pursuing him.
+
+The tactic wasn't without risks. The worst moment came when one shot drew the attention of six Elementals at once. But even then, Seth, Nightmare, and Colossus managed to prevail without resorting to Beastmaster Rage, though the fight had been dangerously close.
+
+The real struggle was the constant drain on Seth's aether. With the distortion field continuing to deny him access to his Fine Storing Ring, he fought with one eye always on his reserves. He hadn't dared to cast Night Veil once; the cost was simply too high. Between Phantom Punch, Dusk Scythes, and the essential Shadow Steps, he had to make the hard choice of sacrificing the concealing spell for attack power.
+
+The last two Elementals of the final group thrashed in front of Colossus as the scorpion fought to hold their attention despite having no aether left to taunt them. Behind, Nightmare ripped through the foes with Shadow Bite while Seth hammered them with regular punches, gritting his teeth in frustration. He kept scanning his Well, waiting, almost praying for it to replenish faster so he could once again summon his shadow blades, which had been off cooldown for an eternity now.
+
+In the end, it was Nightmare who delivered the killing blows, his fangs piercing the Elementals' chest as Seth and Colossus fended off their last barrage of stone spikes.
+
+The moment the two creatures crumbled into lifeless piles of debris, Seth cast Intermediate Identify on his partners out of habit.
+
+Colossus (Young Three-Tailed Giant Scorpion)
+
+Potential: Gold Tier
+
+Rank: 40 (Mid-Iron)
+
+Affinity: Earth / Poison
+
+Bonded to [Seth]
+
+[...]
+
+Strength: 64
+
+Arcane Power: 81
+
+Toughness: 182 (124+58)
+
+Well Capacity: 101
+
+Agility: 56
+
+Regeneration: 71
+
+Spells:
+
+- Mountainborn Exoskeleton [Gold〜Legendary (Crude)]
+
+- Sandstorm Dome [Gold〜Epic (Crude)]
+
+- Desert Aegis [Silver〜Epic (Crude)]
+
+- Chitinous Taunt [Silver〜Rare (Decent)]
+
+- Deathcoil Venom [Silver〜Rare (Crude)]
+
+- Quartz Armor [Iron〜 Rare (Exceptional)]
+
+- Scorpion Charge [Iron〜Rare (Decent)]
+
+Nightmare (Tenebrous Young Direwolf)
+
+Potential: Silver + Tier
+
+Rank: 47 (High-Iron)
+
+Affinity: Darkness
+
+Bonded to [Seth]
+
+[...]
+
+Strength: 114
+
+Arcane Power: 141(123+18)
+
+Toughness: 80
+
+Well Capacity: 69
+
+Agility: 121
+
+Regeneration: 71
+
+Spells:
+
+- Illusionary Emptiness [Silver〜Epic (Decent)]
+
+- Shadow Step [Silver〜Epic (Decent)]
+
+- Predator Hunt [Silver〜Epic (Crude)]
+
+- Danger Sense [Silver〜Rare (Standard)]
+
+- Mantle of Terror [Iron〜Epic (Standard)]
+
+- Chains of Darkness [Iron〜Epic (Refined)]
+
+- ??? [???〜??? (???)]
+
+Seth's attention lingered on Nightmare's spell list. The question marks still sat where Shadow Bite should have been. The name hadn't changed, but the spell itself felt stronger. I was wrong. I guess the grooves aren't just stabilizing, he thought with a quiet sigh. I'll have to ask Professor Reat about it once we're out of the Rift.
+
+Drawing in a deep breath, Seth turned his focus inward to examine the grooves of Phantom Punch etched along his arm. Instinctively, he compared their structure to the familiar patterns of Dusk Scythes and Iron Fists… and the reckless thought that had been gnawing at him for the past two days clawed its way back to the surface.
+
+Could I alter them? What if I could make the explosive burst of aether stay inside my arm instead?
+
+That idea was tantalizing. If the Undead spell could amplify every strike instead of just one, it would make him exponentially more dangerous—especially in prolonged fights or against multiple foes where a single, high-cost finisher lost its edge.
+
+But the risk…
+
+Altering spell grooves without guidance was like shooting arrows straight up into the air blindfolded. One mistake, and it could diminish their quality. It'd be dumb to try that on my strongest spell right before a war, he thought. Or in the middle of a Rift.
+
+Before he could dwell on it further, Colossus' excitement surged into Link. 'Only one more! Only one more!'
+
+'Yeah, but it's the big one,' Nightmare answered, eyes locked on the colossal boulder still sleeping near the tree.
+
+Both the scorpion and direwolf seemed convinced they could take it. Seth was the only one who hesitated. When he'd faced the Ice Elemental with Kaelen and Nightmare, he'd known they could win—like a feeling in his gut. This time, that confidence wasn't there.
+
+The plan to lure the guardian away and collapse the tunnel behind them if they had to flee sounded clever in theory, but in practice? It was absurd. A creature that size would simply force its way through.
+
+“Its Toughness is going to be the real problem,” Seth said aloud as his mouth twisted to the side. “With a body like that, it’ll be through the roof. Probably even higher than the Ice Elemental’s. Which was a pain in the ass to kill.”
+
+‘The Ice Elemental?’ Colossus repeated, tilting his massive head. ‘You killed a Silver beast?’
+
+“Yeah,” Seth confirmed quietly. “Back when we were separated.”
+
+‘Without me?’ The words carried a childish disappointment; the sting of being left out of their greatest victory so far, as if he hadn’t been needed.
+
+‘Don’t worry,’ Nightmare interjected. ‘I’m sure this one will be even higher Rank, and we definitely need you for this.’
+
+Seth’s gaze shifted between his two companions, then settled on the enormous beast in the distance. For a heartbeat, he hesitated. They’d be leaving the Rift in just a few days—this might be their final chance to claim a Seed.
+
+Marcus’ words echoed in his mind. The Alchemist had made it clear that the value of a Seed couldn’t be measured in simple coin, especially not in Kastal. Even in Asethka, a city teeming with Gold and Platinum Wielders, an auction had displayed two as the ultimate prizes.
+
+What were the odds of stumbling upon another? Returning during the war was impossible; once he entered the Cave of Elements again, he’d be locked inside for a full month, and he couldn’t afford to vanish for that long.
+
+If he waited until the battles were over, the Seed would likely be gone—Kaelen would inform the Empire of this place, and people from there would strip it clean. And that was if Seth survived the war.
+
+It was now or never.
+
+A Primalist wasn't supposed to back down from a fight he believed he could win, but this… this felt different. Despite Nightmare's and Colossus' confidence, Seth knew victory was more than unlikely. He'd have gladly pushed them all past their limits once more if he'd felt there was a chance.
+
+Without the distortion field cutting off their escape, he might've also had different thoughts. The ability to pull Colossus back into the teardrop necklace and flee would've changed everything. But here, there would be no retreat—only victory or death.
+
+But… isn't that the point? Seth thought.
+
+Playing it safe had never been his Path. If he only picked battles he was certain to survive, how could he ever hope to avenge his parents? Or rise above all the others? Marcus had called his father a genius—and yet the Apex Predators from Draeria had still managed to kill him.
+
+Can I ever surpass him if I choose the easy road? Can I make those of Volantis pay for what they did to my mother if I pass on such an opportunity?
+
+This Seed would make Colossus an even greater shield than he was right now. And a stronger Colossus meant they could hunt more powerful prey. Grow faster. Rise higher.
+
+The doubt within Seth gradually faded, leaving behind a solidifying resolve. A hot sensation pulsed and spread in his chest—not from his core, but from his own heart, which beat faster with fierceness. The decision was made. This was his Path, not Kreytorus'.
+
+"Let's go," Seth said, glancing at Colossus and Nightmare before advancing toward the petrified tree and the giant boulder.
+
+'Yeah!' both answered in unison.
+
+Joy rippled through Link as Colossus and Nightmare rushed beside him. There was no point in trying to ambush a creature of this magnitude; they had to face it head-on. The three of them advanced as one, bracing themselves as the massive boulder shuddered and began to stir.
+
+It unfolded, rising like a mountain that reshaped itself while letting out a roar that echoed through the cavern. The creature was unlike anything Seth had ever seen.
+
+It was a behemoth formed from plates of granite and pulsing crystal. Threads of white light snaked through its body, like lightning trapped within ancient stone. Thick moss and tangled vines hung from its surface, swaying with its lumbering movements.
+
+It had no face, no features—only a single, immense eye set in the center of the mass of rock. Brown and gold aether leaked out of it, and the ground beneath all their feet thrummed as if the cavern itself recognized its master.
+
+Seth cast Intermediate Identify.
+
+One-eyed Giant Elemental
+
+Potential: Silver Tier
+
+Rank: 82 (Low-Silver)
+
+Affinity: Earth
+
+Strength: 139
+
+Arcane Power: 220
+
+Toughness: 282
+
+Well Capacity: 270
+
+Agility: 105
+
+Regeneration: 199
+
+Without wasting a second, Colossus charged, aether surging around his frame. He slammed into the titan with the force of a battering ram—the colossal keeper barely moved, rooted to the spot.
+
+Seth quickly analyzed the beast's attributes. Surprisingly, the creature's Toughness was lower than the Giant Earth Elemental's had been. But its Arcane Power and Well Capacity were on a whole different level.
+
+'Let's not cast spells for now!' Seth ordered through Link. 'Let's wait to see what it’s got first.'
+
+He and Nightmare followed, dashing into the fray beside the scorpion. They needed to gauge this thing's abilities before committing any of their precious aether—especially Seth.
+
+Thankfully, it didn't take long for the creature to reveal one of its spells. Brown aether flared across its massive frame, crystallizing into a thick barrier.
+
+Undeterred, Colossus, Nightmare, and Seth pressed the attack, weaving around the titan's ponderous swings. The massive fists slammed into the ground where they had just been, shattering the cavern floor and sending clouds of dust billowing into the air.
+
+If it wants to waste aether, fine by me, Seth thought, dodging another blow.
+
+Yet half a minute later, the barrier around the One-eyed Giant Elemental began to quiver, shaking violently as if trying to contain an unstable pressure. Nightmare's Danger Sense surged, and Seth's own core exploded with a scream of an imminent threat.
+
+'Come here!' Colossus' urgent thought boomed through Link, the scorpion sensing the need to shield them.
+
+Seth and Nightmare instantly dashed toward him, knowing they couldn't get far enough to dodge. Just as they scrambled behind the scorpion, the aether surrounding the keeper detonated.
+
+Colossus cast Sandstorm Dome at the same time. The swirling vortex met the outward explosion of aether head-on. The two powerful tides collided with the fury of a storm, a loud boom thundering through the cavern.
+
+The scorpion's dome held for an instant… then shattered.
+
+The remaining aether of the blast slammed into Seth and Nightmare and sent them tumbling across the cavern floor like leaves in a gust. Colossus, anchored by his weight and eight powerful legs, managed to hold his ground.
+
+Seth grunted, pushing himself up. 'Exploding Barrier,' he thought, recalling one of the scrolls in the academy's shop.
+
+A defensive spell that doubled as an offensive weapon—the strength of its detonation scaled with however much aether remained in the barrier. Usually, that forced opponents to break it quickly rather than ignoring it.
+
+But this… is different. Seth gritted his teeth. The detonation had torn straight through Colossus' Sandstorm Dome, which was normally able to withstand multiple powerful spells in a row. Is it because of its absurdly high Arcane Power?
+
+Pushing the thought aside, Seth charged back in with Nightmare and resumed their relentless dance around the titan. Again, they held back on their aether-hungry spells, the direwolf relying on quick, corrosive bites to inflict wounds and test the creature's defenses while Seth threw ordinary punches.
+
+Not even half a minute had passed when the creature slammed both its fists down, and the massive eye in its center began to glow with an intense light. A heartbeat later, a beam of vivid energy surged from it and lanced forward, searing the air.
+
+It swept toward Seth first, who immediately used Shadow Step to dodge. The spell scorched the ground for an instant, then its beam swung toward Colossus. Lacking Seth's speed, the scorpion braced, casting Quartz Armor.
+
+The tremendous heat of the blazing light hit the stone, burning through the defensive layers with horrifying speed. In less than five seconds, it had bored through the armor of rock entirely. Colossus' golden exoskeleton began to smoke and char under the attack. The scorpion let out a high-pitched shriek of pure agony that tore at Seth's heart.
+
+Nightmare lunged in from the side, jaws wreathed in shadow, biting the elemental's arm in a desperate attempt to divert its aim. The creature barely flinched.
+
+Clenching his jaw, Seth dashed back in. He then leapt up and drove his fist into the side of the creature's eye with every ounce of Strength he possessed. The blow was strong enough to break the beast's focus, jerking its head to the side and forcing the destructive beam off course.
+
+Enraged, the beast shifted its burning gaze toward Seth. Yet instead of dodging this time, he crossed his arms and cast Iron Fists. The conjured stone gauntlets met the beam and held—only for a split second before crumbling away under the intense heat. Just as the scorching light reached his physical gauntlets underneath, the spell finally ceased.

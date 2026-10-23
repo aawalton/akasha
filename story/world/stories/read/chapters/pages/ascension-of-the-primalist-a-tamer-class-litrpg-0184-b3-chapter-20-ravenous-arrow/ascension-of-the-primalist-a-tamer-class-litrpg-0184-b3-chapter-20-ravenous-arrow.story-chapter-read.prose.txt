@@ -1,0 +1,221 @@
+Seth stared at the glowing script of his stats sheet as it appeared within his vision.
+
+Seth
+
+Class: Primalist
+
+Rank: 49 (High-Iron)
+
+Subclass: Beastmaster
+
+Core: Feral Instinct
+
+[...]
+
+Strength: 132 (113+19)
+
+Arcane Power: 129 (103+22+4)
+
+Toughness: 127 (101+23+3)
+
+Well Capacity: 96 (77+19)
+
+Agility: 135 (115+20)
+
+Regeneration: 119 (80+16+23)
+
+Spells:
+
+- Link [???〜??? (???)]
+
+- Share [???〜??? (???)]
+
+- ??? [???〜??? (???)]
+
+- Ravenous Arrow [Iron | Silver〜Legendary (Crude)]
+
+- Dusk Scythes [Iron / Silver〜Epic+ (Decent)]
+
+- Armored Phantom Fists [Iron〜Legendary+ (Standard)]
+
+- Beastmaster Rage [Iron〜Epic+ (Refined)]
+
+- Night Veil [Iron〜Epic (Refined)]
+
+- Huntbound Rush [Iron〜Uncommon (Flawless)]
+
+[...]
+
+- Conjures an aether-forged bow in the user's hands for 2 minutes.
+
+- While active, the user may generate arrows.
+
+- Arrows damage scales with Arcane Power, Null affinity, and spell quality.
+
+- Ignores 50 / 120 + 30% of Toughness, and potency increases by 200% against barrier or shielding spells.
+
+- Absorb surrounding aether upon impact.
+
+- Cooldown decreases according to spell quality.
+
+- Consumes:
+
+- 60 | 100 uniums to summon the bow
+
+- 30 | 50 uniums per arrow
+
+- Cooldown: 3 minutes after summoning the bow.
+
+Seth's jaw almost hit the frozen floor. The result was far beyond his most ambitious expectations. He knew the Null affinity was rare, a freak occurrence in the world, but combining that affinity with his core intent had produced something utterly ridiculous.
+
+The aether cost had increased significantly, threatening to drain his Well if he fired a dozen arrows, but the tradeoff was a nightmare for any opponent. Guardian, Elementalist, Warrior—Protecting Belt or not, it wouldn’t make much of a difference.
+
+As long as he hit the target, the outcome was guaranteed. The arrow would find flesh and pierce.
+
+'Don't tell me you plan on staying in the back while Small Bite and I charge into the fray now?' Nightmare said through Link. 'I'd hate to think my pack leader has developed a sudden allergy to getting his hands dirty.'
+
+Seth let out a laugh. "Don't worry, I won't. This isn't about hiding." He looked at the shattered remains of the boulder. "This will actually force our enemies to come after us. Between Colossus's Sandstorm Dome and this spell, nobody will be able to engage us from a distance and hope to win. We now both reign from afar and up close."
+
+Seth then glanced over at Elena, who was still deeply immersed in her meditative trance. "Even she would struggle to defend against us," Seth admitted, voice quiet.
+
+'Speaking of Miss Red-hair,' Nightmare retorted, 'do you think she's nearly finished? Babysitting her is becoming tedious. We only have a few days left before we're forced to return for the next Warfare Rift battle. Sitting still won't help both Small Bite and me get stronger, and we've done so much of it already.'
+
+"I don't know," Seth answered as his eyes landed on the Frigid Tulip next to the noblewoman. "Assimilating a Seed is not something I fully understand. I can't rush her without knowing the risks."
+
+His gaze then moved toward the tunnel entrance they had used to enter the frozen cavern—the sole entering point.
+
+'I could guard the tunnel entrance,' Colossus stirred within the necklace. 'If you and Big Brother Nightmare hunt in the following cave, you can lure the enemies back to me so I can still protect you and defeat them with you.'
+
+Seth considered the suggestion; he wasn't against the idea—it would allow them to gain some attributes and beaststones while keeping Elena under a protective watch. As long as neither he nor Nightmare drew the attention of something they couldn't kill, she wouldn't be at risk.
+
+Pulling a monster they couldn't handle, however, would put them in a lethal corner, since they wouldn't be able to trigger an Escape Scroll, since that would leave her behind defenseless.
+
+'I'll be careful to avoid drawing anything higher than Low-Silver,' Nightmare promised, an apparent excitement creeping into his mental voice. 'I have no desire to see Red-Hair die either.'
+
+"Fine," Seth said, hands clenching into fists inside his combat gauntlets. "Let's go see what else this Rift has to offer."
+
+Roughly ten minutes had passed since the trio established their perimeter, and Seth now stood at the threshold of the narrow tunnel leading to the cave where Elena remained deep in her trance. Colossus flanked him, his massive claws resting heavily on the frost-covered ground, while Nightmare was out of sight somewhere ahead.
+
+The vast cavern was a forest of towering ice pillars that stretched toward the dark ceiling and created a maze of blind spots and jagged reflections. The direwolf's presence was only a faint, prickling sensation at the edge of Seth's mind.
+
+"Don't worry, Seth," Colossus said, practicing his ability to speak aloud. "I will make sure no beast reaches her. I know how important she is to you."
+
+Seth opened his mouth to offer a dry refutation, perhaps a comment on tactical necessity or the value of a teammate's Legacy, but in the end decided it wasn't worth it. "Thanks, Colossus," he said instead. "I appreciate—"
+
+Nightmare's voice interrupted them through Link. 'I have one. It's coming in fast!'
+
+'Is it another one of those Astral Wraiths?' Seth asked
+
+'No. It's one of those massive, horned things we saw earlier. The ice-beasts,' Nightmare answered.
+
+Seth recalled the Glacial Shield-Horntail they had watched the Astral Wraths slay. He immediately summoned his new ghostly cerulean weapon in his left hand with a low, vibrating hum and reached back to begin the grueling process of channeling the Null arrow.
+
+Aether flooded his channels, stripped of its affinities and warmth as it forced its way through the modified grooves. The rhythmic thud of heavy footsteps echoed through the cavern. The Glacial Shield-Horntail charged into view, its frosty hide glistening while it lowered its three crystalline horns.
+
+Seth's brow furrowed in concentration; the arrow was still a hazy, incomplete sliver of emptiness between his fingers. Splitting his attention, he quickly cast Intermediate Identify while maintaining the constant flow of aether in his charging spell.
+
+Glacial Shield-Horntail
+
+Potential: Silver Tier
+
+Rank: 61 (Low-Silver)
+
+Affinity: Ice
+
+Strength: 200
+
+Arcane Power: 141
+
+Toughness: 231
+
+Well Capacity: 161
+
+Agility: 150
+
+Regeneration: 137
+
+No need to interrupt the channeling for this, Seth thought. A Rank-61 beast wasn't a real threat to his two partners.
+
+"I will give you time to finish," Colossus declared before surging forward with Scorpion Charge.
+
+His massive frame blurred through the cavern, and he slammed into the beast's flank just as it prepared to gut Nightmare, the impact sounding like two mountains colliding. The Shield-Horntail's charge was redirected, and it stumbled, heavy hooves skidding across the permafrost.
+
+Nightmare seized the opening to unleash his still-evolving Mantle of Terror. A spectral direwolf head, far larger and more detailed than its previous iterations, materialized in the frigid air. It let out a silent, soul-crushing snarl that rippled through the cavern, and the powerful aura curdled the ambient aether.
+
+The Glacial Shield-Horntail froze mid-stagger despite being a Silver beast.
+
+'I should thank both that Spirit and the old prick for the insight,' Nightmare said while launching his attack with Gloom Fangs.
+
+Colossus joined him and drove his stingers into the gaps of the creature's glacial hide, Deathcoil Venom hissing as it penetrated through the cracks. Using his claws, the scorpion then anchored the massive creature in place.
+
+Seth felt a final surge of energy snap, and the white, pallid arrow solidified in his hand, its presence warping the air around his knuckles. He nocked the Null-touched arrow and pulled the bowstring to his ear, his eyes focused on the beast's neck.
+
+Seth tightened his grip and his vision narrowed until the world consisted only of the jerks of the Shield-Horntail as it tried to free itself from Colossus's grip. Before it could, Seth loosed the arrow.
+
+The projectile carved a path of absolute silence, the air around the shaft warping as it hungrily consumed the ambient energy of the cavern.
+
+The Glacial Shield-Horntail's instincts must have screamed at the last possible second, for it wrenched its massive head aside, the movement just enough to save its skull. The pallid arrow plunged into the upper hindquarter instead. It didn't deflect off the thick, glacial armor or the reinforced hide beneath like a normal arrow would have. It pierced through the ice and flesh like they were mere illusions, burying itself three quarters of the way into the limb's muscles.
+
+For a heartbeat, the area around the wound dimmed as the arrow voraciously absorbed the adjacent aether, eating the vibrant blue energy.
+
+The Glacial Shield-Horntail let out a deafening howl of agony that shook the ice pillars surrounding them.
+
+Nightmare and Colossus immediately pressed the advantage with fangs and stingers, their strikes landing with renewed ferocity against the hindered creature. Seth didn't stay at range to channel another shot and instead dashed forward. The aetheric bow dissolved into light as he sprinted, and in its place the shadowy length of the Dusk Scythes erupted from his forearms.
+
+He slashed with the blades at the foe's side just as Colossus unleashed Chitinous Taunt to draw the foe's focus. The scorpion's body next flared with Quartz Armor and Desert Aegis, bracing for the violent swing of the creature's tail. Jagged ice spikes erupted from the creature's tail when it slammed into Colossus, but the scorpion absorbed the blow thanks to his absurd Toughness and spells.
+
+Nightmare seized the moment to cast Chains of Darkness to hinder their opponent even more before pouncing to tear at its throat.
+
+The Shield-Horntail tried to crush Colossus under its weight, though the scorpion held firm. Likely sensing its end, the beast began to channel another defensive spell—a thick layer of ice grew from its chest, spreading rapidly to cover its injured body.
+
+Seth's eyes locked on the limb he had struck with Ravenous Arrow earlier. Even from several feet away, he noticed something strange: the aetheric density of the flesh around the arrow wound felt unnervingly low, as if the structural integrity of the beast's body had been compromised. Not wasting a second, he lunged in and swung his Dusk Scythes at that exact spot.
+
+The shadow blades cut through the Silver-tier hide almost effortlessly—bones, muscles, and sinew all offered barely any resistance, and the attack severed the hind limb entirely.
+
+Blood spurted across the permafrost. Howling in agony, the beast lost its balance and its concentration simultaneously, causing the ice-armor spell to be shattered mid-cast. Nightmare immediately sprang, jaws locking onto the creature's exposed neck, while Colossus delivered another flurry of piercing blows with his stingers. Seth joined them a heartbeat later, and his scythes crossed in a lethal X-pattern across the creature's chest that finally silenced the creature.
+
+Standing over the carcass, chest heaving, Seth looked down at the severed limb. When the spell description had mentioned absorbing "adjacent aether," it hadn't just meant a minor drain. It had created a "dead zone" in the target's defenses—a localized weakening effect that apparently turned Silver-tier hide into something far more fragile.
+
+A smile spread across his lips. "Let's test this out again."
+
+The next two days passed in a cycle of calculated assaults and fights. Seth made several trips back to the adjacent cave to check on Elena, finding her eyes still closed right next to the Frigid Tulip each occasion. She had seemed to be making progress, but time was becoming their most dangerous enemy. They had only two and a half days left in the Rift before they would have to leave. Seth could only hope she would finish before then.
+
+Colossus stood at the entrance of the tunnel, gaze fixed on the forest of ice pillars ahead. "Seth, do you believe the next battle against the other humans will be as difficult as the first?"
+
+Seth leaned against the jagged cave wall. "To be honest, I think it will be significantly tougher."
+
+"Why?" Colossus asked.
+
+"Henry told me last week that the next one will be a four-squad versus four-squad battle," Seth explained. "The scale is quadrupling. It's much harder to make a meaningful difference when there's such a large crowd of combatants."
+
+Colossus went quiet for a moment, then he raised his pincers eagerly. "But that means more people to protect! That's a good—"
+
+'We have a problem!' Nightmare's voice cut through Link, sharp and urgent.
+
+Seth pushed off the wall, and his head snapped in the direction of the direwolf behind the wall of ice pillars. 'What is it?'
+
+'Two giant things are fighting,' the direwolf answered, his mental voice alarmingly frantic. 'And they're tearing a path straight toward your position.'
+
+Without losing a second, Seth recalled Colossus back into the safety of the necklace and disappeared with Illusionary Emptiness. 'How is that a problem? We'll just stay hidden as they fight.'
+
+'Well... I think they could make this entire section of the cavern collapse.'
+
+Seth's eyes widened. 'What—'
+
+The ground beneath his boots suddenly groaned with a loud vibration that rattled his teeth. A massive ice pillar fifty yards away exploded into a cloud of crystalline shrapnel as two colossal shapes crashed through it.
+
+Seth's breath hitched at the sheer pressure of their auras as they both hit him. It was a crushing weight that rooted him to the spot for a terrifying instant. This wasn't the pressure of Silver beasts. They were both in the Gold Tier.
+
+The first beast was a towering, six-limbed reptilian monstrosity with a body encased in scales as dark and glossy as obsidian. Frost clung to the ground beneath it, yet none dared settle on its hide—as if the cold itself recoiled from its presence. It clashed with a massive construct of living ice, a hulking golem of jagged limbs and translucent plates that groaned and cracked with every movement.
+
+The two titans tore at each other without restraint. Claws met frozen stone and fists met scales as the attacks sent shards of ice scattering like shattered glass through the cave. Each impact echoed through the cavern, heavy and violent. Then, in the midst of the struggle, a radiant white light burst across the reptilian beast's body. Deep gashes along its flank began to heal before Seth's eyes, torn flesh slowly trying to knit together.
+
+Seth narrowed his gaze and followed the source of the healing radiance.
+
+There, he realized.
+
+Hovering just above the creature's head drifted something entirely out of place amidst the brutality. A small, ethereal being no larger than a fox glided through the air with effortless grace. Its form resembled an otter, but its body was woven from pale blue light, semi-transparent and softly luminous. Wisps of shimmering mist trailed behind it like a comet's tail, dissolving into the air with each swing of its tail.
+
+It darted in gentle arcs, weaving around the giant reptilian while dodging the golem's blows. Every few passes, it released soft pulses of aether that flowed into the reptilian beast and partially healed its wounds.
+
+A frown creased Seth's brow. "What… is that?"

@@ -1,0 +1,345 @@
+Seth surged through the humid undergrowth, the dark green aether of Armored Phantom Fists erupting around his forearms. Ahead, a duo of large, tiger-like creatures with fur that crackled with blue lightning hissed, their muscles bunching in preparation to spring.
+
+Storm-Eater
+
+Potential: Iron Tier
+
+Rank: 60 (Peak-Iron)
+
+Affinity: Lightning
+
+Strength: 130
+
+Arcane Power: 145
+
+Toughness: 104
+
+Well Capacity: 105
+
+Agility: 124
+
+Regeneration: 92
+
+Storm-Eater
+
+Potential: Iron Tier
+
+Rank: 60 (Peak-Iron)
+
+Affinity: Lightning
+
+Strength: 141
+
+Arcane Power: 136
+
+Toughness: 93
+
+Well Capacity: 94
+
+Agility: 133
+
+Regeneration: 103
+
+Though before the beasts could launch their assault, a heavy vibration rippled through the clearing. Colossus stood rooted to the forest floor, his massive tails arching as Chitinous Taunt seized the beasts' minds and forced their predatory gaze away from Seth.
+
+The Storm-Eaters snarled, and their lightning-wreathed claws struck futilely against the scorpion's rocky shell. Without missing a beat, Seth lunged in to slam his fist into the ribs of the closest Peak-Iron beast; the impact shattered its lightning-shroud and sent it skidding through the mud. Beside him, Nightmare launched his own attack, jaws clamping onto the neck of a second tiger-like creature while Gloom Fangs leaked corrosive smoke that hissed and dissolved fur and flesh alike.
+
+Not far away, Devus stepped into the path of two more charging beasts, his shield held high. Shimmering aether flared from his armor as he blocked a flurry of electrified swipes, the impacts ringing out like the sounds of a bell.
+
+"Now!" he bellowed.
+
+From the flank, Elena raised her staff, and her midnight-blue robes fluttered in the sudden chill that radiated from her. A volley of jagged ice arrows whistled through the air and hit one of the Storm-Eaters, causing it to stumble to the forest floor. Not wasting a second, the noble followed up with another spell and a massive ice lance impaled the beast's shoulder.
+
+Jenna darted in with a lethal grace, her twin blades humming with her own lightning affinity as she carved glowing arcs through the tigers' flanks. On the other side, Selena lunged and slashed one of the joints of the other creature attacking Devus to slow its movements.
+
+Seth smiled and shifted his attention back to the two Storm-Eaters currently going against Colossus. He stepped into the pocket of the first one and unleashed a flurry of heavy blows, the spectral fists cladding his gauntlets pulverizing the creature's ribs. Then, only seconds later, he finished it off by cracking its skull with a loud crunch.
+
+On the other side of Colossus, Nightmare wrenched his head sideways and snapped the vertebrae of his own target.
+
+Seth and his two companions stopped, aether still coursing through their veins, and stood back to watch the rest of the group. Devus and Elena both glanced toward them, then the pair's expressions shifted as they realized he and his beast had already finished their opponents.
+
+A flicker of competitive fire sparked in Elena's eyes, and her ice spells grew even more violent, a second ice lance smashing the last Peak-Iron beast's head.
+
+In this sector of the Rift, the creatures were predominantly High or Peak-Iron—perfect for training the squad. Seth had hoped to encounter more Silver-tier beasts to push his own limits, having only faced four over the past five days, but for the others that would have been far from ideal. A Silver beast could cause significant injuries to the lower-Ranked members, and their squad couldn't risk casualties before the next battles.
+
+'Having to stay close in case the other groups get into trouble is slowing us down,' Nightmare growled through the Link.
+
+'We will go deeper as soon as they leave,' Seth answered through their mental connection. He knelt down to harvest the beaststones of the two Storm-Eaters they had just killed. 'Most are heading back in less than two days, at the one-week mark. We can push ourselves much harder after that.'
+
+The moment he yanked out the two violet crystals, Seth filled Intermediate Identify's grooves to cast the spell on himself and his two partners.
+
+Seth
+
+Class: Primalist
+
+Rank: 49 (High-Iron)
+
+Subclass: Beastmaster
+
+Core: Feral Instinct
+
+[...]
+
+Strength: 131 (112+19)
+
+Arcane Power: 127 (101+22+4)
+
+Toughness: 127 (101+23+3)
+
+Well Capacity: 96 (77+19)
+
+Agility: 134 (114+20)
+
+Regeneration: 119 (80+16+23)
+
+Spells:
+
+- Link [???〜??? (???)]
+
+- Share [???〜??? (???)]
+
+- ??? [???〜??? (???)]
+
+- Dusk Scythes [Iron / Silver〜Epic+ (Crude)]
+
+- Armored Phantom Fists [Iron〜Legendary+ (Decent)]
+
+- Beastmaster Rage [Iron〜Epic+ (Refined)]
+
+- Night Veil [Iron〜Epic (Refined)]
+
+- Huntbound Rush [Iron〜Uncommon (Flawless)]
+
+[...]
+
+Colossus (Young Three-Tailed Giant Scorpion)
+
+Potential: Gold Tier
+
+Rank: 48 (High-Iron)
+
+Affinity: Earth / Poison
+
+Bonded to [Seth]
+
+[...]
+
+Strength: 76
+
+Arcane Power: 93
+
+Toughness: 223 (144+62+17)
+
+Well Capacity: 113
+
+Agility: 69
+
+Regeneration: 81
+
+Spells:
+
+- Mountainborn Exoskeleton [Gold〜Legendary (Crude)]
+
+- Sandstorm Dome [Gold〜Epic (Crude)]
+
+- Desert Aegis [Silver〜Epic (Decent)]
+
+- Explosive Bastion [Iron | Silver〜Epic (Crude)]
+
+- Chitinous Taunt [Silver〜Rare (Decent)]
+
+- Deathcoil Venom [Silver〜Rare (Decent)]
+
+- Quartz Armor [Iron〜Rare (Flawless)]
+
+- Scorpion Charge [Iron〜Rare (Refined)]
+
+Nightmare (Tenebrous Young Direwolf)
+
+Potential: Silver + Tier
+
+Rank: 54 (High-Iron)
+
+Affinity: Darkness
+
+Bonded to [Seth]
+
+[...]
+
+Strength: 128
+
+Arcane Power: 151(132+19)
+
+Toughness: 90
+
+Well Capacity: 77
+
+Agility: 132
+
+Regeneration: 78
+
+Spells:
+
+- Illusionary Emptiness [Silver〜Epic (Standard)]
+
+- Shadow Step [Silver〜Epic (Decent)]
+
+- Predator Hunt [Silver〜Epic (Decent)]
+
+- Danger Sense [Silver〜Rare (Standard)]
+
+- Gloom Fangs [Silver〜Rare (Standard)]
+
+- ??? [???〜??? (???)]
+
+- Chains of Darkness [Iron〜Epic (Refined)]
+
+Seth deactivated the skill with a weary sigh. Five days of relentless hunting in this humid hellscape and he'd gained less than ten attributes. Nightmare and Colossus had barely progressed as well. Seth knew the higher they all three climbed, the steeper the mountain became, but he had hoped the rich aether of this Silver Rift would accelerate their progress.
+
+Even if he somehow managed to push himself to Peak-Iron before the war's current phase ended in five months, breaking through was impossible. Most Wielders spent three to five years grinding through the gap from Iron to Silver. The fundamental restructuring of the aether channels was even more extreme than previous breakthroughs, according to people from the Adventurer Guild.
+
+Hopefully I'll be able to shorten that to a year or two, Seth thought.
+
+With Kreytorus' legacy, his Draerian lineage, and the absurd amount of Silver beasts he would be hunting, it seemed reasonable.
+
+"I still can't believe you guys finished your enemies first," Devus grunted, leaning against the broad trunk of a fern-tree while he wiped a smear of tiger blood from his shield. The Guardian looked over at Selena, Jenna, and Elena, his expression one of mock disappointment. "We really should be pushing ourselves more for the next round. Seth, Nightmare, and Colossus are making us look like trainees."
+
+Jenna rolled her eyes and sheathed one of her twin blades with a sharp clack. "It would be much easier to push the offensive if I didn't have to spend half the fight watching your back."
+
+"Hey!" Devus held up his hands in protest. "I don't have a shell to protect all my blind spots unlike someone here, alright?"
+
+Hearing the jab, Colossus tilted his heavy head. The sound he sent out was soft, almost sheepish. "Sorry..."
+
+Devus winced, his face softening instantly. "Oh, apologies, buddy. I didn't mean it badly. Your shell is great. It's nothing against you!"
+
+Jenna reached out and elbowed Devus as her lips twitched into a smirk. "Come on, stop making him feel bad."
+
+Selena stepped closer to Colossus before resting a hand briefly on a section of chitin not covered in mud. "He's just jealous, big guy. Don't worry about it."
+
+Elena watched the exchange with a smile, then turned to Seth, her blue eyes meeting his. "You want to go deeper into the forest, don't you?"
+
+Seth looked to the left, where the trees grew even larger and the ambient aether felt like a heavy, electric fog. "We can't," he finally answered. "If we move any deeper in, we'll be too far to respond if the other groups get into trouble."
+
+"I feel like we're slowing you down," Elena said softly.
+
+"I normally take more risks when I'm alone," Seth admitted, looking back at the others. "But this place is risky enough as it is for the rest of my squad. Two people have already been forced to use Escape scrolls because of injuries. If I push everyone into hunting Silver-tier beasts right now, someone is going to die."
+
+Elena nodded slowly. "So once the others leave, you'll go deeper?"
+
+Seth glanced at Nightmare, who was currently licking a charred wound from lightning on his fur, then at Colossus beside him. "Yeah, I will."
+
+Jenna and Devus looked at each other, their expressions filled with hesitation. Seth could guess their conflicting emotions—a desire to stay longer in the Rift and continue training under his lead, while also knowing it would be foolish to do so. Their own battles were scheduled in less than a few days; an injury could be catastrophic.
+
+Before anyone could say anything else, a brilliant red flare streaked into the sky, tearing through the emerald canopy a few miles to the east.
+
+Seth's reaction was instantaneous. "I'll go first!" he shouted, already pivoting toward the light. "Be careful on the way!"
+
+He didn't wait for an answer, and with a thought, he moved Colossus back into the teardrop necklace to ensure the scorpion wouldn't slow them down. He surged off, his boots carving deep grooves into the mud. Nightmare ran beside him, the direwolf's paws barely touching the ground as he wove through the labyrinth of undergrowth and roots.
+
+Seth leapt over a fallen fern-tree, let his golden eyes scan the shifting shadows, then burst through a curtain of hanging moss and skidded to a halt at the edge of a wide clearing.
+
+Henry and the remaining fifteen members of the squad still in the Rift were there, weapons drawn and barriers of their Protecting Belts flickering. Ahead loomed an imposing foe: a giant lizard-like creature that easily reached twenty feet long. Its scales were the color of cooling magma—dull, jagged obsidian shot through with veins of glowing orange. Thick plumes of steam hissed from its nostrils, and the ground beneath its claws was already beginning to char.
+
+Seth cast Intermediate Identify.
+
+Obsidian Flame Drake
+
+Potential: Silver Tier
+
+Rank: 75 (Low-Silver)
+
+Affinity: Earth / Fire
+
+Strength: 179
+
+Arcane Power: 242
+
+Toughness: 202
+
+Well Capacity: 238
+
+Agility: 135
+
+Regeneration: 169
+
+"Get back!" Seth shouted, his voice cutting through the clearing as a smile spread on his face.
+
+Beastmaster Rage erupted in his chest, the familiar red veil descending over his vision as aether flooded his channels before spreading through Link. The teardrop necklace pulsed and let Colossus emerge between the squad and the drake, the shockwave of his arrival shaking the trees.
+
+Nightmare didn't need directives and unleashed Predator Hunt. Just as the chilling howl rippled through the air, the direwolf followed with Chains of Darkness and his currently-still-evolving Mantle of Terror. Spectral, inky vines flared and lashed around the drake's thick legs as the face of a ghostly direwolf snarled over the battlefield to sap away the creature's attributes.
+
+Nightmare vanished into Illusionary Emptiness to prepare his ambush.
+
+Colossus unleashed a Scorpion Charge and his large frame struck the drake's side like a falling mountain. When the reptile beast recoiled, the scorpion's stingers flashed with lethal precision, injecting a concentrated dose of Deathcoil Venom into the gaps between its obsidian scales.
+
+The drake roared. A heartbeat later, it slammed its massive tail into the ground, causing jagged pillars of rock to erupt outward and cover its whole body. A spray of flame spewed from its maw and turned the air of the clearing into a boiling furnace.
+
+Colossus stood his ground as Sandstorm Dome flared into a shimmering brown barrier that absorbed the brunt of the spell. Layers of Quartz Armor fused with his shell while Desert Aegis' hazel aether surged out.
+
+Seth lunged in, accompanied by the curved, shadowy blades of Dusk Scythes extending from his forearms. He ducked beneath a swipe of a magma-crusted claw and sheared through the scales on the drake's sides. Blood, hot as boiling oil, sprayed against Seth's leather armor.
+
+The reptile creature turned its malevolent, slit-pupiled eyes toward Seth, its throat glowing as it prepared a point-blank blast.
+
+"Chitinous Taunt!" Seth commanded.
+
+Colossus unleashed the compulsion wave without hesitation, and the drake's head jerked violently back toward the scorpion. The fire intended for Seth slammed harmlessly into Sandstorm Dome, which was still swirling around the scorpion.
+
+In the periphery of the clash, Seth noticed the rest of the group; Elena, Devus, Selena, and Jenna had arrived and were now standing at the edge of the clearing with the others. Devus made to step forward, his shield raised, but Elena placed a firm hand on his shoulder, shaking her head.
+
+She knew.
+
+This wasn't a threat to be taken care of—it was the challenge Seth had been waiting for all day.
+
+Seth wove around the Obsidian Flame Drake and carved through its body with Dusk Scythes as Nightmare ripped into the beast's scales with Gloom Fangs. The crippling effect of Deathcoil Venom and Mantle of Terror made the boost of Beastmaster Rage and the penetrating effect of the two Darkness spells even more deadly. In no time, giant, gaping, bleeding wounds appeared on the reptile's body as it tried fighting back.
+
+Finally, Chitinous Taunt's hold shattered, and the drake spun around to face Seth.
+
+Seth didn't back off and deactivated his scythes to summon Armored Phantom Fists. The beast lunged, its jaws snapping inches from his face, but Seth vanished with Shadow Step to reappear on the creature's other side.
+
+He drove a green spectral fist into the base of the drake's skull, the Undead aether voraciously consuming the beast's natural aetheric defenses. Nightmare seized the occasion to pounce and crippled the foe's back limb in the process.
+
+When he felt all three of their Wells dipping low, Seth decided against using his Null affinity spell and tapped instead into his Fine Storing Ring. He let the stored aether flood back into his system and into his partners' through the Link.
+
+The battle, which had started as a brutal exchange, had now become a one-sided slaughter. Colossus anchored the beast in place, absorbing bone-crushing blows that would have flattened any Iron Guardian, while Nightmare flickered in and out of sight, leaving ruinous gashes in the drake's flanks.
+
+Slowly, the drake's movements grew even more sluggish, so Seth dashed in to deliver the final blow, a heavy strike with his phantom gauntlets that crushed the beast's head against the scorched earth. The glowing veins in its scales dimmed, and the beast's tail hit the forest's floor with a final, heavy thud.
+
+Silence returned to the clearing, broken only by the hiss of cooling stone and the ragged breaths as Seth pushed himself up from the mud.
+
+Even with the tier gap, the fight hadn't been enough to scratch that elusive excitement he was looking for. His well was drained, and his muscles screamed from the use of Beastmaster Rage, but his core had barely stirred during the fight. It was as if it had known he would win even without an enhancement of his instinct.
+
+Henry, Eddin, and the rest of the squad stood in a silent semi-circle, their eyes darting between the ruin of the drake and Seth, who was now kneeling to collect the beaststone inside.
+
+Henry let out a rattling sound, wiping soot from his forehead. "Yeah, we're clearly slowing you down, you monster," the squad leader muttered. He walked over, gesturing at Seth's relatively unscathed armor. "Killing a Silver beast and coming out without even a scratch, that's absurd."
+
+Henry looked back at the exhausted faces of the fifteen other members of their squads. "Look, we were all supposed to head back tomorrow anyway, but I think that's our cue. No reason in holding you back from your fullest for a whole additional day."
+
+Seth shook his head and pushed himself up, the newly acquired beaststone clenched in his palm. "No, it's fine."
+
+"I'm the squad leader, so don't argue with me," Henry said, clapping a heavy hand on Seth's shoulder. "We'll just use the extra time to spar back at the barracks in Veretia—like we were supposed to before you dragged us out here. This week has already done wonders for everyone's Ranks. Don't worry about it."
+
+Seth studied him for a moment, then sighed. "Fine. But if I hear you've been half-assing your training while I'm still in here…"
+
+A Rogue behind them snorted. "As if Henry would let that happen."
+
+Henry's grin spread wide. "And that's exactly why we're still alive!"
+
+The mood lingered somewhere between relief and fatigue as the squad shared a few last words, goodbyes, and weary nods. Then Henry reached into his pouch and pulled out an Escape scroll.
+
+"See you back in Veretia in a week," he said.
+
+One by one, flashes of white aether enveloped them, whisking them out of the tropical heat. Seth remained where he stood in the clearing, the silence of the jungle rushing back in to fill the void. He was left with his hunting group: Elena, Devus, Jenna, and Selena.
+
+"So we can go deeper now?" Devus asked.
+
+"Yes," Seth answered as his gaze turned toward the dark heart of the forest. "Nightmare will be our scout to make sure we don't end up fighting more than two Silver beasts at a time."
+
+Elena frowned. "Two?"
+
+"One isn't enough to push our limit," Seth replied with a smile. "It's time to train for real."
+
+Devus grinned, though a nervous energy flickered behind his eyes. He stepped closer, casting a glance at Colossus and Nightmare. "If we find a Silver beast in there that can actually talk and doesn't want to tear our heads off immediately... do you think I could try something?"
+
+Seth's brow furrowed as he tilted his head. "What's that?"
+
+Devus' smile widened, and a spark flashed up in his eyes. "I want to make a contract with it."

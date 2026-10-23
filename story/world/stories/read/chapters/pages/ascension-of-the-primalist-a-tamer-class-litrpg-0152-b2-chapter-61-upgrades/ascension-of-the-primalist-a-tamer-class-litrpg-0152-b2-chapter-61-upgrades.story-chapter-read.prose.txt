@@ -1,0 +1,331 @@
+Seth pushed aside the chunks of rock, revealing the brown crystal left behind by the fallen titan. As his fingers closed around the cold beaststone, he felt it again: that distinct pulse, just like the one from the Executioner Dark Elemental's.
+
+He cast Intermediate Identify.
+
+Explosive Rampart (Crude)
+
+Spell-shard
+
+Tier: Iron | Silver
+
+Affinity: Earth
+
+Grade: Rare
+
+Restrictions:
+
+- Guardian
+
+- 120 Toughness and 80 Arcane Power
+
+- Earth Affinity Peak-Iron or higher
+
+[...]
+
+Spell description
+
+- Summons a barrier of aether around the owner that explodes after 30 seconds.
+
+- The barrier's potency scales with Arcane Power, Toughness, Earth Affinity, and spell quality.
+
+- Damage scales with Toughness, Earth Affinity, and spell quality.
+
+- Cooldown decreases according to spell quality.
+
+- Consumes 80 | 140 uniums.
+
+- Cooldown: 5 minutes.
+
+It was the spell the keeper had used, the variant of Exploding Barrier. Seth's eyes locked onto the Tier: Iron and Silver. The normal spell was Iron.
+
+That bastard actually pushed it into the Silver Tier, Seth thought, a grin spreading across his face. Or had eaten the spell-shard of an Elemental that did it.
+
+The true benefit of the evolution could be summed up in a single word: scaling. That was the main difference. While the original spell relied solely on Arcane Power and spell quality to determine its damage, this version also improved with Earth Affinity and Toughness.
+
+If Colossus learns this, it will certainly boost his power even without him having to focus on Strength or Arcane Power—
+
+Before Seth could reach the end of his idea, Colossus' mental voice erupted through Link. 'I want it! I want it! I want it!'
+
+The scorpion practically trembled beside him, then turned expectantly toward Nightmare, seeking the direwolf's approval. But his excitement disappeared as he took in the direwolf's battered state. A second later, a pang of guilt rose inside the young scorpion's chest.
+
+'Would that help you?' Colossus asked as he gestured toward the spell-shard. 'If it does, you should take it.'
+
+Nightmare shook his head. 'No, it wouldn't. And don't worry about me, I'm fine.' The direwolf winced before lowering his head to lick at his wounds. 'Besides, it'd be a great spell for you, Small Bite.'
+
+With that decided, Seth tossed the brown crystal to the scorpion, and Colossus didn't need to be told twice. He snatched the shard and crushed it between his mandibles. His large body began to shake while the spell's aether surged through him, new grooves carving themselves into his Well.
+
+Seth felt the process unfolding through their bond. Just as when Colossus had ascended to the Iron Tier, the scorpion was bending the spell-carving process, instinctively reshaping the ability to suit his nature and his Path. But this time something was different. It wasn't just Colossus' will that guided the change—the very aether within the scorpion seemed to resonate with the incoming spell, framing it toward a specific form.
+
+Focusing, Seth sank deeper into Link. There was no pain or struggle compared to when Colossus had first learned Sandstorm Dome, and instead, the energy flowed smoothly, as if the scorpion's body were simply correcting the spell and aligning it with his true identity.
+
+Seth then sensed it: a rough and unyielding energy radiating from within the scorpion. It carried a familiar resonance, one that matched the Essence inside the teardrop necklace: the Heart of the Brown-Peak Mountains.
+
+The realization hit him all at once. This isn't just Colossus' doing… it's also the Essence. On top of enhancing his affinity and boosting his attributes, it's also changing him. As if offering him a different Path altogether.
+
+Seth recalled Professor Storm's lecture on Essences; how they helped Wielders deepen their affinity and connect more closely with ambient aether. She had hinted at further effects but had called them "too advanced" for the class' level. Now, he was witnessing those firsthand.
+
+Incredible, Seth thought.
+
+'Another reason to find a Gold-Tier Dark Essence,' Nightmare said beside him.
+
+Seth managed a smile, glancing at the direwolf. "I just spent nearly my entire fortune to get you an Iron one, and you already want to change it?"
+
+'I can't lose to him,' Nightmare retorted as he nodded toward Colossus, whose body was still trembling as he integrated the new spell. 'At this rate, in a few weeks he'll be higher Rank than both of us.'
+
+"Not everything's a competition, Nightmare."
+
+'Yes. It is.'
+
+Seth shook his head and turned his attention back to the direwolf. Wanting to lift Nightmare's spirits, he channeled aether into Intermediate Identify. Seth already had a pretty good idea of what he'd find; that final bite had been far too devastating to be the work of a spell still stuck in transition.
+
+Nightmare (Tenebrous Young Direwolf)
+
+Potential: Silver + Tier
+
+Rank: 51 (High-Iron)
+
+Affinity: Darkness
+
+Bonded to [Seth]
+
+[...]
+
+Strength: 119
+
+Arcane Power: 147 (128+19)
+
+Toughness: 87
+
+Well Capacity: 74
+
+Agility: 127
+
+Regeneration: 75
+
+Spells:
+
+- Illusionary Emptiness [Silver〜Epic (Standard)]
+
+- Shadow Step [Silver〜Epic (Decent)]
+
+- Predator Hunt [Silver〜Epic (Decent)]
+
+- Danger Sense [Silver〜Rare (Standard)]
+
+- Gloom Fangs [Silver〜Rare (Decent)]
+
+- Mantle of Terror [Iron〜Epic (Refined)]
+
+- Chains of Darkness [Iron〜Epic (Refined)]
+
+Just as I thought, Seth grinned as he scanned the direwolf's updated spell list. At the same time, he felt a surge of unadulterated joy beam through Link.
+
+'I knew it!' Nightmare exclaimed, stars practically flashing in his crimson eyes. 'Show me the description! Seth! Quick, please!'
+
+Gloom Fangs [Silver〜Rare (Decent)]
+
+- Summons condensed, corrosive smoke that sinks into the target with the next bite.
+
+- Each consecutive bite on the same spot intensifies the corrosive effect.
+
+- Potency increases according to Arcane Power, Darkness affinity, and spell quality.
+
+- Consumes 16 uniums.
+
+- Cooldown: none
+
+The attack spell had leapt from Iron to Silver—a monumental upgrade—and it had only lost four quality grades in the process, dropping from Flawless to Decent. On top of that, both Mantle of Terror and Predator's Hunt had improved in quality.
+
+Seth couldn't help but smile, sharing in his partner's excitement for a moment before turning toward Colossus.
+
+The scorpion had finally stopped quivering and was now staring up at him. His multifaceted eyes gleamed, practically begging for his turn so he could see his own new spell.
+
+Seth complied.
+
+Colossus (Young Three-Tailed Giant Scorpion)
+
+Potential: Gold Tier
+
+Rank: 44 (Mid-Iron)
+
+Affinity: Earth / Poison
+
+Bonded to [Seth]
+
+[...]
+
+Strength: 72
+
+Arcane Power: 87
+
+Toughness: 192 (134+58)
+
+Well Capacity: 107
+
+Agility: 61
+
+Regeneration: 76
+
+Spells:
+
+- Mountainborn Exoskeleton [Gold〜Legendary (Crude)]
+
+- Sandstorm Dome [Gold〜Epic (Crude)]
+
+- Desert Aegis [Silver〜Epic (Decent)]
+
+- Explosive Bastion [Iron | Silver〜Epic (Crude)]
+
+- Chitinous Taunt [Silver〜Rare (Decent)]
+
+- Deathcoil Venom [Silver〜Rare (Crude)]
+
+- Quartz Armor [Iron〜 Rare (Exceptional)]
+
+- Scorpion Charge [Iron〜Rare (Standard)]
+
+The scorpion practically sprang into the air.
+
+'Seriously?' Nightmare said, shaking his head. 'Just like that, this overgrown bug turns the Rare spell into an Epic one? I really can't win.'
+
+Seth laughed, then focused on Colossus' spell list so he could examine the full description of the evolved Exploding Ramparts.
+
+Explosive Bastion [Iron | Silver〜Epic (Crude)]
+
+- Summons a barrier of Earth aether around the owner that explodes after 20 seconds.
+
+- Reduce the Agility of any enemy within a twenty-foot radius by 25%.
+
+- The barrier's potency scales with Arcane Power, Toughness, Earth affinity, and spell quality.
+
+- Damage scales with Toughness, Earth Affinity, and spell quality.
+
+- Cooldown decreases according to spell quality.
+
+- Consumes 100 |180 uniums.
+
+- Cooldown: 5 minutes.
+
+The initial shield strength and explosion damage had likely risen a little with the rarity increase, even if the wording in the description didn't make it obvious—but it was the third line that justified the spell's leap to Epic: the temporary reduction to Agility.
+
+That makes it even harder to counter, Seth realized. It keeps enemies from just running away.
+
+During their fight against the One-eyed Giant Elemental, only Colossus' low Agility had kept them from escaping the spell's blast radius. Under normal circumstances, though, most opponents would have simply fled the moment the barrier appeared. Now, with this new effect, that may not be possible. It made the spell far more dangerous—and far more useful.
+
+After a final glance at his partners, Seth turned his attention down to his hand to check his own stats sheet.
+
+Seth
+
+Class: Primalist
+
+Rank: 46 (Mid-Iron)
+
+Subclass: Beastmaster
+
+Core: Feral Instinct
+
+[...]
+
+Strength: 127 (108+19)
+
+Arcane Power: 124 (97+22+5)
+
+Toughness: 117 (96+21)
+
+Well Capacity: 90 (72+18)
+
+Agility: 129 (110+19)
+
+Regeneration: 90 (75+15)
+
+Spells:
+
+- Link [???〜??? (???)]
+
+- Share [???〜??? (???)]
+
+- Dusk Scythes [Iron|Silver〜Epic+ (Crude)]
+
+- Armored Phantom Fists [Iron〜Legendary+ (Decent)]
+
+- Beastmaster Rage [Iron〜Epic+ (Refined)]
+
+- Night Veil [Iron〜Epic (Standard)]
+
+- Huntbound Rush [Iron〜Uncommon (Flawless)]
+
+[...]
+
+A grin stretched across Seth's face as his eyes landed on his Rank. But the smile froze, and he felt his mouth open as his gaze dropped to his spell list. Phantom Punch had been replaced by a new spell entirely: Armored Phantom Fists. And the grade… Legendary+. His mind struggled to comprehend it. He'd pushed it beyond Legendary. Somehow.
+
+Half-stepped into a realm that, before Marcus had mentioned it, he hadn't even known existed.
+
+Without wasting a moment, his focus snapped on the spell to read its description.
+
+Armored Phantom Fists [Iron〜Legendary+ (Decent)]
+
+- Increases Strength by 40 and ignores 15% of Toughness for 30 seconds.
+
+- Potency increases by 100% against barrier or shielding spells.
+
+- Increases Toughness by 10 + 5% for 30 seconds.
+
+- Cooldown decreases according to Undead affinity, Earth affinity, and spell quality.
+
+- Consumes 120 uniums.
+
+- Cooldown: 3 minutes
+
+It's a perfect fusion of Iron Fists and Phantom Punch, Seth thought. The effect is insane.
+
+The power boost was a bit lower than the original Undead spell's explosive strike, but the duration—half a minute—was undoubtedly worth it. On top of that, the armored spectral gauntlets granted even more Toughness than Iron Fists had, which was downright absurd.
+
+The only real drawback, as always, was the aether cost. Though the fusion had dropped the spell's quality to Decent, leaving room for growth to reduce the amount of uniums consumed. If he could refine it back to Flawless, the consumption would drop by forty percent, but even with that reduction it would still drain a significant portion of Seth's Well.
+
+Odds are the cost would be even higher if I didn't have an Earth affinity, Seth thought, even if he wasn't sure how it worked with him having only one of the two affinities of the spell.
+
+Stacking this new spell with Dusk Scythes, Beastmaster Rage, and potentially Night Veil would consume nearly two-thirds of his aether before the fight had even begun. Against a single powerful foe—or a small group—it would ensure victory. But in a drawn-out fight, like a battle between two Squads, he'd be in a dangerous position after the initial clash.
+
+Nightmare's voice broke through Seth's thoughts, 'How in the hell do you get a Legendary+ spell and still wind up looking disappointed?'
+
+"Don't worry, I'm happy," Seth answered, even if his expression remained the same. "It's just… it's always the same damn problem. Aether cost. All my spells are powerful, ridiculously so, but they all consume so much. If I didn't have my core to refine the grooves and reduce their consumption by increasing their qualities, the cost would cripple me in every single fight."
+
+'You've got that ring for that though,' Nightmare retorted. 'That should cover it, right? Well, except when we are in a distortion field.'
+
+"Exactly, and that's the issue. Celine mentioned the Empire might have devices that create those fields. If they do, I can probably take out a good chunk of the enemy squad, but then what? My Well will be empty, and I won't be able to defend myself."
+
+'Maybe there's some kind of potion for that?' Nightmare mused. 'Something that refills your Well quickly? You could ask that old prick? If those things exist, he could probably brew some.'
+
+'Who's the old prick?' Colossus' innocent voice chimed in. 'The one with the white fur on his face?'
+
+'Yeah, him,' Nightmare answered.
+
+'Oh, I like him! He protected Seth a few times… Why is he a prick?'
+
+'He just is,' Nightmare replied dismissively.
+
+Seth rolled his eyes and sighed while considering the direwolf's suggestion. Potions like that would definitely come with drawbacks, though it was still worth asking Marcus. The trade-off might be one he could afford.
+
+As he turned back to his companions, Colossus shifted eagerly, eyes locked on the gem lodged in the cluster of rocks. 'Can I start absorbing that now?' the scorpion asked, his voice buzzing with hardly contained excitement.
+
+Seth looked at the Seed, focusing on the pulse of Earth aether radiating from it, then back at the young scorpion. It had been the sole reason for fighting the One-eyed Giant Elemental in the first place.
+
+"Yeah. Go for it."
+
+Colossus leaped forward, stumbling in his haste before reaching the gem. Once there, he steadied himself and pressed his three tails carefully against its surface. A golden glow flickered to life, bridging the gap between chitin and crystal as aether began to stream through. The absorption seemed utterly natural to him—an instinct as effortless as breathing.
+
+Nightmare settled nearby, curling up in the shadow cast by a rock formation. His eyes remained open, fixed on the distant tunnel entrances, his body tense and alert. They had cleared the chamber and its adjoining tunnels, but in this Rift caution was a necessity.
+
+Taking a deep breath, Seth considered also taking a moment to rest and let his body's natural healing ease the lingering aches in his muscles and his wounds. Yet his heart still pounded against his ribs, each beat echoing with leftover adrenaline.
+
+There was no way it would let him settle down at the moment, so he began to pace, his restless steps leading him toward the colossal petrified tree at the cavern's center. He circled it while examining the dark bark that looked like fossilized wood threaded with veins of glowing crystal.
+
+High above, molten lava continued to drip from a fissure in the ceiling and land on the leaves with a soft hiss as it was absorbed like nourishing rain. Fire, the natural enemy of wood, was feeding the giant tree.
+
+When Seth passed beneath the tree's gnarled roots, something caught his attention near its base. The ground dipped lower than the rest of the cavern floor, creating an enclosed space beneath it the size of a merchant cart. From the space came an unsettling feeling—an absence of the aether's ever-present hum that filled the rest of the cave.
+
+Intrigued, Seth ducked beneath a low-hanging root and moved directly beneath the tree's core.
+
+His eyes widened. The tree was weeping. Viscous sap the color of molten amber trickled down drop by drop from the very heart of its trunk into a basin carved into the stone beneath. The pool's surface faintly shimmered in the dim light.
+
+As Seth stepped closer, the strange sensation intensified—it was as if he had entered a space completely stripped of aether. Yet something within him stirred in response. Despite that emptiness, or perhaps because of it, this place felt… good?
