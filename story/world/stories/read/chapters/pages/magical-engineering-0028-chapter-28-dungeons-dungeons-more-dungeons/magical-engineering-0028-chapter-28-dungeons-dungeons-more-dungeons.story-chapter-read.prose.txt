@@ -1,0 +1,225 @@
+I thought I was finally starting to understand at least a portion of what the System was giving me. As I put the skill points into Dungeon Simulation, I found I had three new options on the modifiers page.
+
+Remove Weapon
+
+Remove Armor
+
+Randomize Starting Locations
+
+I was sure that each of these would add even more experience to the totals when I was done. As well as even more skill points to the simulation skill, allowing me to get more experience creating a feedback loop. The big question now, though was whether removing things I didn’t already have doubled up or not. Not wanting to risk what randomization did on my next test run, I only selected removing armor and weapons.
+
+I quickly ran through the monsters the same as the last time, only to be greeted by an additional area below the multipliers.
+
+Modifiers In Effect
+
+Remove Weapon
+
+x1.1
+
+Remove Armor
+
+x1.1
+
+Modified Total Experience Gained
+
+234 points
+
+More interestingly, I unlocked a quest titled “Cheaters Always Win.” The description said I needed to find five ways to exploit reality, and all the rewards just had question marks. If I hadn’t been sure I was onto something before about the System, I was now.
+
+Next up was trying the randomize function and see how badly that went. I appeared near the roof of the cave, above thirty feet from the rapidly approaching ground. The impact hurt like hell for a split second before I was booted back to the menu. In a moment of panic I pushed myself backward, entirely out of the zone of the interface. The pain had felt incredibly real, and the fact that it was a simulation did nothing for my adrenaline rush. While dying inside the simulation may not do any true physical harm, it still sent me into fight or flight. That was something I would need to get used to if I wanted to continue to use the skill, and I absolutely did.
+
+I didn’t think I was capable of taking down the archive dungeon on my own yet, so it was back to going through the first dungeon again using the modifiers I had before. This time, I ran up to the slugs and started punching them. I had taken two boxing classes in my teenage years, and I remembered exactly nothing I had learned. Despite that, it turns out that hitting your fists very hard against something else’s body tends to break that body. This worked great until I finally took a swing at the rock snail and felt several bones in my hand crack. I managed to finish off the fight despite the pain, mostly with the knowledge that the faster I ended it, the faster the pain went away, as a driving force in the back of my mind.
+
+I once again returned to the status screen with another level, forty-four, but also two new skills, Close Combat and Pugilism. Close Combat, as the name would suggest, increased my ability to fight within reach of an opponent. Pugilism similarly increased my ability to fight with my fists. I had no idea what ‘increased my ability’ meant exactly, but like most of my skills very few gave me the actual raw numbers on how they worked. I took the three new skill points and put them in Dungeon Simulation again with the intention of seeing my new options. Before I could do that, I gained several new quests. With the sheer number I seemed to be unlocking, clicking through each of them was becoming a hassle.
+
+“System, is there a way to change the display of the menus? Can I have everything related to something new or changed put into a spreadsheet-like view?” I asked, hoping something like this existed.
+
+“Detailed View Enabled,” the voice answered back.
+
+Quest
+
+Reward
+
+Experience
+
+Use 5 Modifers at Once in a Dungeon Simulation
+
+New Modifier
+
+250
+
+Use 5 Modifers at Once in a Dungeon Simulation and Win
+
+New Modifier
+
+500
+
+Unlock 25 Dungeons for the Dungeon Simulation
+
+New Feature
+
+750
+
+Defeat 25 Dungeons in the Dungeon Simulator
+
+New Feature
+
+1000
+
+Rank 5 in a Skill!
+
+5 Skill Points
+
+100
+
+Rank 5 in a Unique Skill!
+
+5 Skill Points
+
+500
+
+The experience from the last two quests that I had already completed pushed me again straight to level forty-six. I, of course, took those new skill points from the quests and leveling and put them immediately back into Dungeon Simulation. I was determined to push this as far as I could tonight. So, that meant the next step was the five modifiers. I looked over my new modifier list to determine my best choices.
+
+Remove Weapon
+
+Remove Armor
+
+Randomize Starting Locations
+
+x2 Opponents
+
+x3 Opponents
+
+x4 Opponents
+
+x5 Opponents
+
+½ Level
+
+⅓ Level
+
+¼ Level
+
+⅕ Level
+
+x2 Opponent’s Level
+
+x3 Opponent’s Level
+
+x4 Opponent’s Level
+
+x5 Opponent’s Level
+
+All Opponents are Bosses
+
+The Floor is Lava
+
+The Air is Lava
+
+The Walls are Lava
+
+Remove Sense: Auditory
+
+Remove Sense: Visual
+
+The last two modifiers in the list made me remember my attributes. I hadn’t touched those since my core, as I was hoping something would break some of my current caps. I checked my remaining points. They were sitting at a whopping six hundred and thirty. I would need to see what the brothers knew about breaking stat caps the next time I saw them, but right now, I had dungeons to run.
+
+Most of the new ones were just impossibilities from the start. I might be fast enough for the walls to be lava, but the overwhelming heat would almost certainly down me before I could do anything. I couldn’t think of anything I was using my ears for, so that seemed a safe one to turn on, along with the starting two. My next best bet was doubling the opponents. I toggled that one as well, and after deciding nothing else here was likely survivable yet, I picked randomize again, figuring I had around a fifty percent chance of surviving where I spawned in at.
+
+Luck was with me on my first try. I started standing flat on the ground. Around me, four slugs exploded as they crashed to the ground. I saw the worms fall slightly as well and ran between the two piles, stomping them as quickly as I could before I lost track of them.
+
+Both of the electric slugs had survived. I learned this by taking two blasts of energy straight to the chest and being knocked backward into what turned out to be a rock snail. It latched hard onto my shoulder as the second one rose up from a boulder in front of me. That was a problem I hadn’t considered. I now had no idea where the snails were hiding unless they fell out of the air, and I spotted it at the start.
+
+My thoughts were cut off as the second one’s jaw unhinged and engulfed my head. There was a quick ripping sense of pain, and then I was once again back at the menu. I was shaking in the shocking brutality of that death. Living through your own decapitation just wasn’t something anyone was meant to do.
+
+After taking a few moments to calm my brain down and push the vivid memories back, I was able to function again. I had hoped to finish both quests at once, but one was better than nothing, at least. I checked the new modifier it had unlocked. The words random mutation were now staring at me on the options list. I supposed that I had asked just how far mutation could go. I selected it instead of doubling the opponents and started the dungeon again.
+
+I fell about a foot to the ground. My legs weren’t happy about it, but hopefully, that would soon be a thing of the past. I looked down at my body, spotting the mutation I could already feel. My left arm had been replaced by a lobster’s claw. It wasn’t the worst random mutation I could imagine by far, but it didn’t seem overly helpful either.
+
+Three decapitated slugs later, and I had entirely changed my mind on that initial thought. The claw was surprisingly powerful and had no issue cutting through anything. Once I moved onto the rock snail and managed to cut straight through its shell, I was wishing I could always have this during these simulations, but I knew random meant it was more than likely going to get worse from here.
+
+Monsters Defeated
+
+Giant Slug x3
+
+15 Experience
+
+Giant Slug, Electric x1
+
+20 Experience
+
+Bitey Worm Swarm x1
+
+10 Experience
+
+Rock Snail x1
+
+30 Experience
+
+Experience Gained
+
+75 Points
+
+Multipliers Applied
+
+No Armor
+
+x1.1
+
+No Weapon
+
+x1.1
+
+No Magic
+
+x1.1
+
+I Stand Alone
+
+x1.5
+
+All At Once
+
+x1.5
+
+5 or More Modifiers
+
+x5
+
+Total Experience Gained
+
+1,124 Points
+
+Modifiers In Effect
+
+Remove Weapon
+
+x1.1
+
+Remove Armor
+
+x1.1
+
+Randomize Starting Locations
+
+x1.5
+
+Remove Sense: Auditory
+
+x1.5
+
+Random Mutation
+
+x2
+
+Modified Total Experience Gained
+
+6,115 points
+
+Had I read that right? The change to scientific notation made it simple enough, so I had to have. That was more experience than I had gained so far in total in a single battle. Toss in the experience for the completed quest and I had shot up to level fifty-seven with that single simulation. I had even earned two more skills, one of which seemed like I should’ve already had, Stomp. The second would be very hard to make any use of in the future. You just didn’t get a lot of times where Chelae Combat seemed like a viable strategy.
+
+As fun as the thrill of rapid leveling was, the new pain in my head worried me. I had noticed a buzzing earlier, but I assumed it was just part of the previous death scares. Now, though it had grown into a pounding drum in my skull, was this because I had used the simulation too much? Or maybe I had leveled too fast? The answer at the moment didn’t matter nearly as much as lying down and hoping this didn’t kill me. As long as I survived the night, I could talk to the others and see what they thought. It was too bad. I really wanted to see that last new modifier.
+
+One of the things that I most wanted to know before I began my experiments was how the System used replication skills to create experience. Where was the experience coming from? In the time it took me to find twenty people willing to speak on their extra sockets, I found a total of one willing to talk about their replication skill, and by the time I arrived to speak to them, they had already sold it to the Windows & Doors Dynasty, which means I’ll hear nothing else about it, damn those secretive bastards.
+
+Karlinovo’s What is Experience?

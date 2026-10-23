@@ -1,0 +1,43 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const magicalEngineering = {
+  id: "01a16787-79bf-70e0-9dc7-dd994d5fc205",
+  type: "page-type/story-read",
+  slug: "magical-engineering",
+  author: "Buttopia",
+  following: false,
+  unit: "unit/words",
+  title: "Magical Engineering",
+  world: "world/magical-engineering",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "98242",
+      externalLink: "https://www.royalroad.com/fiction/98242/magical-engineering",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Urban Fantasy",
+    "Progression",
+    "Kingdom Building",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-fi",
+    "Dungeon Core",
+    "Dungeon Crawler",
+    "Magic",
+    "Magitech",
+    "Male Lead",
+    "Strong Lead",
+    "System Invasion",
+    "Technologically Engineered",
+  ],
+  publicationStatus: "hiatus",
+  readLater: true,
+  createdAt: "2026-10-23T06:51:34.207Z",
+  updatedAt: "2026-10-23T06:51:34.207Z",
+} as const satisfies StoryRead

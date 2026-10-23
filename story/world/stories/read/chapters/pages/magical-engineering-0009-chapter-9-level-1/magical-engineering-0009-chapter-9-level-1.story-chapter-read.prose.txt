@@ -1,0 +1,69 @@
+The moment I opened the System menu, the words “You’ve reached level one” flashed over the interface. Below that was the question, “Would you like to enable System integration?” That must have been what Elody had been referring to. Without my usual level of internal debate, I quickly selected yes. The electrical jolt through my brain made me regret it.
+
+I woke up on the ground, my face covered in my own drool. Something felt different inside of me. It wasn’t an unpleasant difference, though the memory of how it had gotten there was. Had Elody known about the pain I would feel? If so, she had made the right call by not informing me.
+
+I pushed myself back to my feet and sat down again at the terminal, once again bringing up the interface. Nothing new flashed over the menu this time. I still had the same three options as before. I tried status again, hoping for but not actually expecting a change. Before I could find out if my hope was in vain, a new message popped into my view. “Would you like to enable mobile System access?” I selected yes. The message disappeared, revealing the screen I had been waiting to see, this time with only a single error. I almost jumped in joy at having solved one mystery.
+
+Name: Dave Imogen
+
+Level: 1
+
+Experience: 0/20
+
+Origin: U-1.9392912^10e37 Earth-107I2T112
+
+Origin Status: Unincorporated
+
+Affiliation: Error
+
+Class: N/A
+
+Ranking: N/A
+
+While affiliation was still showing the error, I believed I knew the answer there. My insignia shouldn’t be possible, and yet it was something the System recognized as existing despite that. It was something else to look into and added to the ever-growing list of topics, but nowhere near the top of the pile. More interestingly, I could now see my experience. Hopefully, that meant when I checked my quests, I would finally gain something for completion.
+
+I moved over to that menu and saw that I had finished another four quests. “Read Doplingint’s Manual on Synergistic Effects,” which I had already known about; “Sanquar, a Very Brief History,” “Experience Orbs and You,” and “Soul-System Integration,” which were all new to the list and already completed. Plus, I had another new quest to find and read “External Core Materials” by Thomas Jorvat.
+
+I selected the first one, still curious about what an insight was. The words “New Insight Gained” were displayed, followed by another pop-up that said, “2 experience points gained.” There was nothing else listed beyond that, so I moved back to the main menu. Sure enough, I had a new option entitled Insights. The only option under that was something called “Multi-socket Cores,” so I selected that as well.
+
+Congratulations, Dave. You have been given your first insight into a potentially new way of developing a core. Proceeding down this path could bring you to unheard-of heights, but with anything new, the path is full of unseen dangers. Do you have what it takes to walk the path?
+
+Unlocked: Quest, Esoteric Core Creation
+
+Well, I had done it, I guess. I had my own core creation quest. Now the question was, did I want to walk that path? If using multiple mana orbs was something usually limited to the upper echelons of society, someone like me showing up able to do that was not only likely to cause a stir, it could quickly get me killed, but it could also be the power boost I needed to save my world. I couldn’t make any decision on it yet, since I had no idea how to even do it, so back to the quest menu I went.
+
+Each of the other three quests I had completed provided a single point of experience as well as an attribute point, which was another menu that I couldn’t access until level five. Was everything gated behind arbitrary barriers in the System? I sighed in annoyance. There was nothing I could do to change that, so it was best to try not to let it get to me. Instead, I selected the first of the two new quests: Reading External Core Materials. The reward for completing this was a supply of ten refined soul mana plates. I had no idea what those were, so I mentally added it to the list of things I was going to have to ask Elody in the morning.
+
+I moved on to Esoteric Core Creation. The description was incredibly brief. It only said to make a core that qualified as esoteric. What that meant, like most things, I didn’t know. The reward was even more strange. “System Modification,” which I’m sure meant a change to something in my System menu, but I had no clue as to what. I checked the time and realized that I had been unconscious from the jolt longer than I thought. It was time to meet the brothers for dinner, and now that my experience gains were working, I had a few questions they could answer.
+
+Considering I had lost track of time, it was no surprise to me that they had already beaten me to our usual table. “Hey Dave, figure anything new out?” Cecile greeted me while his brother chowed down on something resembling a burrito. Which, now that I thought about it, sounded good. I bet they had a nice Tex-Mex one on the menu.
+
+“Surprisingly, yes, a lot. However, it did leave me with a ton more questions. My leveling interface is now working, so I’m officially level one and gaining experience from quests. I also finally got my core creation quest, but it’s to create an esoteric core, any guess what that means?” I asked, pointing out the burrito on the menu that I wanted to the waiter as I spoke. It appeared at about the same time I finished my story, which also happened to correspond with Elicec spitting out his own food.
+
+“Did you say the System wants you to create an esoteric core?” he asked after wiping his face with his napkin.
+
+“Sure did. I’m guessing, based on your reaction, it’s not great.” At this point, I was done being surprised by just how shitty my situation continued to be.
+
+“Well, usually no. Actually, I don’t really know. I’ve only seen it mentioned in a few places so far. It’s generally referred to as pretty risky. We didn’t really have anything like that back home. From what I’ve read, it’s usually a sign that someone has been experimenting on their own body before they go for a core quest with the System. I don’t think it has to be a bad thing, though. Most new mana orb types have come from experiments into core creation. You’re just going to have to be very careful and follow the System’s guide. Are you still getting other quests?” Elicec asked after his explanation. So, it wasn’t shitty so much as it was exceedingly dangerous, which matched up more with the description the quest had given me.
+
+“Yeah, I’ve got a new book to read tomorrow, and now with my mobile interface working, hopefully, I can clear out the book quests a bit faster. How about you two? What have you been up to today?” I asked. I’d bug them about other ways to gain experience later. It was only fair to let them share their exploits first. I had decided to hold off on sharing my experience in the sub-basement for now. I didn’t want them getting worried and trying to protect me when they had already gotten so tangled in my mess. They had their own lives to live, and I was sure I’d tell them eventually, anyway.
+
+“Oh yeah, we checked out the local Adventurer Hall to see if they had any missions we could help with. With this being the type of world it is, there weren’t a lot of monster problems, but we signed up for everything we thought we could handle. Hopefully, it will be enough to push us both to level five. I want to start working on my attributes as soon as possible,” Cecile answered. Well, that was certainly an opening to bring up the experience question.
+
+“So, how does one gain experience outside of quests, anyway?” I asked after taking a bite of my burrito. It was a little spicier than I remembered, but still great.
+
+“Basically, anything can give you experience if it’s something you haven’t done before. You’ve already missed out on quite a bit. We’ve hit level two just by poking our heads around and talking to people. Hunting monsters is one of the reliable ways to get early experience, but that can quickly get difficult if you don’t choose a combat-focused path. I’ll get a ton of experience once I start my own farm, though, so don’t think that monster hunting is the only good way. You have to find what works for you and keep breaking past your limits,” Cecile explained, which honestly made a lot of sense the way he phrased it.
+
+For the most part, it appeared that experience points were just a direct measure of the experience you gained, as quantified by the system. This really all did function like someone had decided to take reality and mask it with a layer of gamification. At this rate, I expected to find a micro-transaction portion of the system, eventually.
+
+“Interesting. So you think as I peruse the archives tomorrow for my daily reading, I’ll gain more experience as a byproduct?” I hoped that would be the case, as I also wanted to hit level five and see just what these attributes represented.
+
+“Yep, Cecile is right. Go do your usual thing tomorrow. You will probably hit level two by our next dinner,” Elicec said, and him agreeing with his brother was a good sign that it was the case.
+
+The rest of the night was spent swapping tales of our homeworlds. I think they needed it as much as I did. The way they talked about their family, I was surprised they had agreed to leave them. Then again, this was something that could improve all their lives, so in the end, they didn’t have much of a choice, just like me. They were trying to save their world. Sometimes, you were forced to play the hand you were dealt.
+
+As I climbed into bed, prepared for another day spent learning what I could do, I received a system notification. It turned out that telling stories of home amongst friends was worth another two experience points. The brothers were right. Anything and everything had the potential for experience point gains.
+
+Anyone can make a core; they don’t really need the System for that. The problem is that very few people, prior to their incorporation into the System, understand just what their soul is, let alone how to push it further. It’s telling that even though this is certainly possible, there is no record of it ever being done prior. Which begs the question, how exactly was it even developed here?
+
+Karlinovo’s Guide to Core Creation
