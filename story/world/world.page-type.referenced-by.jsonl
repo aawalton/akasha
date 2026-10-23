@@ -89,6 +89,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/cradle/cradle.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/crimson-eternal-an-immortal-death-mage-litrpg/crimson-eternal-an-immortal-death-mage-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/cultivation-is-creation/cultivation-is-creation.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/dao-of-cooking/dao-of-cooking.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/dao-of-healing-transmigration-healer-xianxia/dao-of-healing-transmigration-healer-xianxia.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/dao-of-money-stubbed/dao-of-money-stubbed.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/dark-lord-left-for-cigarettes-monster-evolution/dark-lord-left-for-cigarettes-monster-evolution.world.ts","typed":true,"deferred":false}
@@ -257,6 +258,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/one-eyed-swordsman-litrpg/one-eyed-swordsman-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/one-percent-lifesteal/one-percent-lifesteal.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/one-was-worthy-book-two-complete/one-was-worthy-book-two-complete.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/overpowered-wizard-stubbing-last-book-jan-15/overpowered-wizard-stubbing-last-book-jan-15.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/passive-aggressive-reverse-portal-invasion-litrpg/passive-aggressive-reverse-portal-invasion-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/path-of-steel-a-litrpg-apocalypse-stubbed/path-of-steel-a-litrpg-apocalypse-stubbed.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/path-of-the-deathless-book-4-completed/path-of-the-deathless-book-4-completed.world.ts","typed":true,"deferred":false}
@@ -337,6 +339,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/soul-of-the-warrior-book-1-stubbed-thru-ch-62/soul-of-the-warrior-book-1-stubbed-thru-ch-62.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/soul-tutorial-a-progression-fantasy-litrpg/soul-tutorial-a-progression-fantasy-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/sovereign-sight-progression-fantasy-cultivation/sovereign-sight-progression-fantasy-cultivation.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/spearbound/spearbound.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/speedrunning-the-multiverse-complete/speedrunning-the-multiverse-complete.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/spell-weaver/spell-weaver.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/spirit-lock-op-mc/spirit-lock-op-mc.world.ts","typed":true,"deferred":false}
