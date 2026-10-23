@@ -1,0 +1,117 @@
+Ethan stumbled backward, his boot skidding on loose scree as his heart hammered against his ribs like a trapped bird. “Uh, CelestOS? Red alert? Maybe scream a little?” The air was thick with the thrum of a million wings.
+
+CelestOS: Updated analysis. Hostile trajectory detected.
+
+She paused and Ethan's heart dropped out of his chest. Correction: projected flight path now bypassing user. Behavioral pattern consistent with migratory dispersal. Threat rating downgraded to Yellow-Low.
+
+Ethan laughed, a borderline hysterical sound that was swallowed by the cavernous space. “Yellow-Low? What the fuck? They look like a horde of angry kaiju rave moths!”
+
+He watched, mesmerized and terrified, as the wave of iridescent bodies banked in unison, a shimmering, living river in the sky. Their turn was so fluid it seemed impossible for creatures of that size.
+
+But just as CelestOS predicted, they angled away from his position and fled into the dusty skyline, their collective hum fading into the distance. Ethan’s legs gave out and he sat down hard on the rocks, his heart still pounding a frantic rhythm against his ribs.
+
+“They didn’t even see me,” he said softly, the words barely audible over the wind. “I could’ve been a rock. I don’t… I’m so confused at what just happened.”
+
+CelestOS: Affirmative. Based on observed behavior, your existence was irrelevant to their objectives.
+
+He didn’t laugh this time; he couldn’t. The words weren’t cruel, just a statement of fact. They had come here simply to eat. All that scale and muscle and bone-shattering power was just to feed on the Redresin like it was a seasonal bloom, an incidental feast. He hadn’t survived because of his strength, his strategy, or even a stroke of luck.
+
+He had survived because he was utterly irrelevant, a piece of stone on the landscape. He didn't matter, and somehow, that felt infinitely worse than being a target. It was an existential gut-punch that left him feeling hollow.
+
+He stayed there for a while, just breathing, while the wind died down and the rust-colored dust began to settle back onto the gorge floor. Eventually, the ragged edge of adrenaline wore off, and the crushing weight of exhaustion crawled back into his bones. He wasn’t dead, the forge was still running, and the gorge was clean. And the world had officially stopped making sense.
+
+His eyes drifted back to the forge, to the empty schematic still hovering in the air. He reopened it, let the list scroll again, and felt the same cold disappointment rise, a feeling that was steady, inevitable, and familiar. He didn’t even process the full list as he just sat there and stared. The constant abuse of the last two days had sapped every ounce of willpower he had.
+
+Why was he even doing this to himself? Aanya dead, her sharp wit silenced forever. Reyes dead. Harris, likely dead, another face lost to the chaos. Maria… No, he wouldn’t let himself think that. Not yet. Not her.CelestOS interuptted his thoughts with an ad.
+
+CelestOS: Scans indicate current suit integrity is at 25%.Environmental Suit Upgrade – Mk.2: Schematic located.
+
+CelestOS: A fully-assembled Environmental Suit Upgrade – Mk.2 is available for direct purchase. Retail price: 60,000 CelestiCreds, plus shipping and handling. Estimated delivery time: 6 to 8 business months.
+
+Ethan: “Not waiting six months to die slower in better fabric. I’ll build it myself.”
+
+CelestOS paused, then resumed in a flatter tone.
+
+CelestOS: Manual assembly requires the following components:
+
+[Environmental Suit Upgrade – Mk.2][Silver Wire × 12][Fabric Mesh × 3][Suit Interface Gasket × 1][Medical-grade Injector × 1][Coolant Regulator × 1]
+
+CelestOS: All other components are available within current storage.
+
+“Great,” Ethan muttered, the sarcasm a thin shield. “Just need to find a hidden supply bunker from a lost expedition. Should be easy.”
+
+CelestOS: Expeditions have a 47% chance of encountering viable salvage within five kilometers. Shall I begin mapping a loop?
+
+“No! I was joking. There are lost expeditions? Weren’t we only the second ship to land here?”
+
+CelestOS didn't respond for a full three seconds, a digital silence that felt unusually deliberate. Ethan looked up from the ground, a new unease creeping in.
+
+“What did you even mean by that?”
+
+CelestOS: Maria and the previous Celestitech assets left supplies in each of the expeditionary caves and temporary bases.
+
+“Oh.” Ethan froze. How the hell had he forgotten about that? The past two? Three days? (Fuck if Ethan knew) had been a never-ending blur of adrenaline and panic, a fog that had smothered his memory and reason. He had always been bad in a crisis, but he felt a flicker of his old self returning. It was time to get his footing, Time to put his 'useless' degree to use. As soon as the base was truly secure, he was going to find every last one of Maria’s caches. He was going to find Maria. But first, he needed to fix his suit and get the base fully automated. Once he could defend himself and his nascent factory, well, then everything would be gravy.
+
+“Alright, let’s do this logically,” he said, forcing himself to stand. “While all of my supplu chain is building up, let's take the list one at a time. What’s the nearest resource?”
+
+The forge purred in the background as conveyor lines buzzed with purpose. The gold drill ticked away in the distance like a metronome for survival. It was progress: tangible, mechanical, forward motion. But none of it meant anything if he couldn’t move forward himself.
+
+CelestOS: Preliminary scans indicate moderate silver presence near volcanic sedimentary layers. Geological matches: Sector V-Delta. Range: 3.8 kilometers east. Elevation gain: 140 meters.
+
+His gut sank. “That's the fucking mountain, isn't it?”
+
+CelestOS: Correct. Terrain classification: treacherous. Hostile activity: moderate.
+
+Of course it was the fucking mountain
+
+He pushed to his feet with a groan, grabbed the crate handle, and began dragging it toward the staging zone. This was the flat stretch of cleared stone where he kept his outbound gear: a basic satchel, a coil of tether cable, and two makeshift glowsticks packed in plastic resin tubes.
+
+CelestOS kept talking, cheerfully oblivious to his exhaustion.
+
+CelestOS: . Probability of successful retrieval mission: 41%.
+
+“Did you get worse at encouragement since the crash, or am I just now noticing?”
+
+CelestOS: Performance metrics indicate improved sarcasm recognition. Thank you for noticing, Asset Ethan.
+
+He locked the crate’s wheels into place, clipped the satchel onto his chest rig, and cinched down the shoulder straps until they cut into the constellation of bruises on his shoulders. He ignored the sharp sting of pain. His eyes scanned the ridgeline above the cave mouth again. It was quiet, too quiet, the kind of stillness that made your skin itch.
+
+“Any more activity I should be worried about?”
+
+CelestOS: Electromagnetic emissions near the gold ore. Pattern consistent with drone-class recon unit, likely Type-SK7 or similar. No movement detected in the past 2 hours. Suggest maintaining distance until further analysis.
+
+“Right. Because not dealing with a creepy signal always works out.”
+
+He stepped back into the forge’s central path and ran one final systems check with CelestOS. The power grid was stable, fuel reserves were at 37% capacity, the turret was green, the water purifier had a full tank, the auto-forrester was harvesting on a loop, and the gold line was functional. Everything was working except him.
+
+"Wait," he said, stopping dead. "I was about to walk off without building additional turrets or feeding them ammo?”
+
+He stared at the lone turret guarding the gorge path, its copper-lined barrel ticking in slow circles like a bored security camera. One turret wasn’t going to hold if another swarm hit while he was gone. He needed more coverage, and not just guns. He needed them fed, automated, and ready to fire without him.
+
+CelestOS chimed in with her usual unhelpful enthusiasm.
+
+CelestOS: Reminder: Unattended base assets are 63% more likely to be compromised in the user’s absence. Would you like to initiate Operation: Cover Your Ash?”
+
+He grunted. “Three more turrets. One near the pod, one near the auto-forrester, and one at the first drill. And ammo. They need an auto-feed system.”
+
+CelestOS: Turret schematics loaded. Required materials: Stone × 75, Iron Ingots × 24, Copper Ingots × 12, Hardened Wood × 30, Gear Assemblies × 3.
+
+He sighed and unlocked the mobile crate. “Let’s go shopping.”
+
+The basalt ridge behind the forge was pitted with fractures, just enough for him to jam in a chisel and knock loose chunks of volcanic stone. The vibrations from each hammer blow traveled up the steel and into his aching arm. Dust clogged his throat and his shoulder flared from the repetitive blows, but the stone came loose in jagged slabs that he tossed into the crate until his arms shook. Next stop was the auto-forrester, which had been quietly dropping logs into a collection bin since last night. Ethan loaded what he needed without fuss, the clean, sharp smell of fresh-cut wood almost making him feel human again. Copper and iron came straight from the forge conveyor bins, still warm from recent cycles. He counted out what he needed and dumped the ingots into the crate with a satisfying clunk, but the gear assemblies were not so simple.
+
+He had two left in storage, labeled with faded stencils and packed like relics. The third, he’d have to build one precise tooth at a time. The machine press groaned under the strain as he aligned the mold, his hands shaking with fatigue. CelestOS helpfully offered to optimize the torque values, but he ignored her, determined to do it himself.
+
+By the time he returned to the main slab, his shirt was soaked through and his fingers ached. But the crate was full, the forge was hot, and he was going to make this place bite back. The CelestiCraft interface flared to life as he slapped his palm onto the fabrication slab. The turret schematic unfolded in a crisp blue wireframe that was functional, ugly, and perfect.
+
+CelestOS: Beginning fabrication cycle. Warning: user fatigue exceeds recommended crafting threshold.”
+
+“Noted,” Ethan muttered, dragging the first stack of stone and metal into place.
+
+One by one, he lined up the materials beneath the hovering frame. Gear assemblies clicked into sockets and hardened wood slid into the stabilizers. Ingots sank into the mold, liquefied by forge heat, and reformed as the heavy barrel took shape. He built the first turret in silence, breathing through clenched teeth. By the second, his focus was wavering, and by the third, he was dripping sweat onto the control surface, blurring the holographic guides.
+
+Each unit emerged heavy and sharp-edged, thrumming with lethal readiness. He nudged the last one aside with his boot, wiped his brow on his sleeve, and let himself sag against the crate, his body screaming in protest.
+
+CelestOS beeped.
+
+CelestOS: Congratulations. You are now 300% more defended and 87% more exhausted.

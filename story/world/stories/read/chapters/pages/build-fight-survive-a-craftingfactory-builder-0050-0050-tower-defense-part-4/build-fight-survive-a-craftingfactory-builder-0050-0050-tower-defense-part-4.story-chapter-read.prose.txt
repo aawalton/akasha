@@ -1,0 +1,159 @@
+The voice cut through the dark, calm and clinical. Ethan’s eyes snapped open.
+
+CelestOS: Alert. Copper ammunition supply is at twelve percent. Recommend immediate resupply or prayer.
+
+Cold bled through the seam at his back. The forge’s glow washed the camp in a thin, weary light, and the northern ridge answered with the sharp, measured crack of Hope’s fire. A steadier rhythm rolled in from the west as Faith worked the riverbank. The lull had ended while he slept.
+
+“How long was I out?”
+
+CelestOS: Four hours and forty-one minutes. Rest cycle exceeded your four hours and thirty-seven minutes target. Dawn has not begun. Hostile activity remains active at multiple vectors.
+
+“What's wrong with the copper?”
+
+CelestOS: Copper drill output halted at 04:17 local. Cause: damage from hostile incursion. No repairs attempted during user rest cycle.
+
+He pushed to his feet and rolled the stiffness from his shoulders. Twelve percent was not a cushion; it was a ledge. Without copper, the turrets were just sculpture, and the wall was only a polite suggestion.
+
+“How much time?”
+
+CelestOS: At current fire rate, four minutes of automated defense. Reduction to single-shot discipline could extend to seven.
+
+“That’s not a lot of minutes.”
+
+CelestOS: Observation accurate.
+
+He set off along the wall’s inner arc, boots crunching over the packed dirt. The ammo feeder conveyors rattled in a thin, uneven clatter, a sound of more air than rounds. Faith’s muzzle flashed across the riverbank, brass raining into the mud in a glittering arc. Hope’s shots came slower, deliberate, each pause just a little too long. Mild Regret stood at the southern choke point, its green lens blinking as it tracked shadows in the dark.
+
+CelestOS: Suggestion. Prioritize drill restoration before resupply logistics become irrelevant.
+
+“On it.”
+
+The wall ended just short of the copper clearing, leaving a strip of exposed ground before the conveyor climbed the slope. The air carried a sour tang of torn metal and scorched resin, sharp in his nose. The drill’s auger still turned, chewing steadily into the vein, but its feed belt was ruined. The support bolts had sheared, the output arm sagged at a crooked angle, and twisted belt segments lay scattered like bent ribs across the dirt. Something heavy had plowed through, mangling the run but leaving the drill itself intact.
+
+CelestOS: Visual confirmation. Structural damage consistent with blunt-force impact. Likely cause: large hostile body mass.
+
+“So… something big rammed it.”
+
+CelestOS: Accurate summary.
+
+“Faith have eyes on it when this happened?”
+
+CelestOS: Negative. New wall geometry occluded a portion of Faith’s targeting cameras.
+
+“That’s comforting.”
+
+He dropped to one knee beside the break. He was out of spare belts and had burned the last replacements two nights ago, but still had raw copper and scrap iron. It would have to be enough. He shoved the bent segment under the CelestiCraft’s scanner. The projection flickered over the fracture, a wireframe tracing every fault line in cold blue. Ethan fed in the metal, keyed the repair routine, and waited for the unit to sing.
+
+The machine whined, extruding molten alloy that hissed as it filled the cracks. Resin dust shook loose from the fracture like the whole frame was trying to cough. He steadied the belt with one hand while the seam hardened into place, the rollers twitching as the CelestiCraft fused a fresh patch directly into the housing. Two locking pins extended with a metallic snap. He slammed them down with his palm, then reached for the sheared bolts.
+
+Something moved with the trees, too steady for wind. Claws clicked once against stone.
+
+CelestOS: Motion signature detected. Single hostile. Closing fast.
+
+“Of course.” He turned to face the noise,
+
+He stood as it burst from the treeline. This new creature was smaller than the pack hunters but no less lethal looking with a narrow body built for speed. Its pale, translucent skin glinted in the light, jagged fangs visible through the glassy sheath of its skull. Flat eyes locked on him, and it adjusted mid-charge, weaving for his exposed flank.
+
+Ethan sidestepped, let its momentum carry it past, and dropped low. He fired twice, each shot cracking through the translucent shell. The creature shrieked, spun, and raked his forearm plate hard enough to shove him back a step. He planted a boot in its chest and emptied the last round point-blank. The body collapsed beside the drill, jagged fangs bared in a final frozen snarl as dark fluid leaked into the dirt.
+
+CelestOS: Neutralization confirmed. Ammo supply: six percent. Recommend immediate repair completion.
+
+“I'm on it, I'm on it.”
+
+He dropped again and pushed the damaged joint back under the CelestiCraft’s scanner. The projection mapped the sheared fastenings in cold blue, each fracture marked with pulsing red. He fed in the last of his scrap iron and keyed the fabrication routine.
+
+The unit hummed, printing out replacement bolts already threaded and glowing hot. They drove themselves into the housing with a metallic rattle, one after another, until the frame steadied beneath his hands. The belt stuttered once, then lurched to life, rollers clattering as they carried the first chunk of raw copper toward the forge.
+
+CelestOS: Copper flow restored. First ore arriving at forge in two minutes, twelve seconds.
+
+“One minute’s too long.”
+
+The forest answered with a low call, joined by others until the noise pressed in from every direction like a closing fist. Branches cracked. The dirt itself felt tense, as if the ground braced for impact.
+
+CelestOS: Copper supply five percent. Estimated turret autonomy without user intervention: two minutes, fifty-one seconds.
+
+Thinking quickly, he grabbed as much ore as he could carry in his arms and sprinted for the forge, hugging the inside of the wall. Faith burned a steady lane through the river mist, its tempo dropping, then picking up, then dropping again. Hope’s fire turned into single, careful notes on the ridge. The south stayed quiet in the way a held breath is quiet.
+
+Mild Regret woke first. The barrel snapped left and fired three hard bursts into a brute charging the doubled bracing. The hits staggered it, but it still slammed the wall and made the plating groan. Two smaller shadows scrambled up the fallen body like a ramp.
+
+“Goddammit get off!” Ethan barked.
+
+He darted forward, seized a corpse by the ankle, and dragged it clear. He hooked another with his boot and heaved it aside. Every body against the wall was a step, and every step was a problem he could solve with sweat.
+
+Behind him, the forge clattered as the CelestiCraft dropped the first rough ingots into the ammo feed network. It was a trickle, barely enough to keep the belts stocked, but it would hold the turrets over until the repaired line came back to full capacity.
+
+CelestOS: Emergency resupply active. Estimated duration until conveyor restoration covers demand: sixty-eight seconds.
+
+“Then they only need to live for sixty-eight seconds.”
+
+Sixty-eight seconds stretched wide in his head. and he stared down at the timer on the forge as it smelted the copper ore.
+
+“Where are they heaviest.”
+
+CelestOS: West. North. South. All vectors. Pick your favorite.
+
+He took the south; the brace there was his work, and he’d stand where it bent. The wall shook as something heavy hit the plating. It was not as big as the first giant pig thin, but the antler lattice flashed pale through the trees like a hand of bone. A smaller cousin, leaner and faster, its palates opened wide and hissed.
+
+“Mild Regret, head.”
+
+The turret fired, copper slamming into skull and throat vents. The creature reeled. It tried to turn and found the wall unmoving and the gun unkind. One more burst broke the whistling vents. The creature folded. A second slid from the brush, paused, and vanished back into the dark.
+
+CelestOS: Twenty-two seconds to resupply hitting the forge, Ingots will be done in sixty seconds Faith is prioritizing high-value targets. Hope is… irritated.
+
+“Hope’s a gun. How can it be irritated?”
+
+CelestOS: Hope has strong opinions on factory security, and thinks we need new management..
+
+Each time he glanced through the seams, the forest seemed closer, with shadows pressed into the spaces between trees like wet ink. The wall held and the turret's bit. Despite feeling glacially slow, the Ingots finished with a sharp beep and each belt got fed a new supply.
+
+The first resupply hit Faith. The turret’s rhythm shifted instantly, its muzzle flashing into a steady, confident strobe. Hope came next, its barrel swinging with a metronome’s certainty. Mild Regret’s loader clanged as rounds slid into place, and the southern choke lit up like a cut welder’s grin.
+
+Ethan backed up, chest heaving, and let the machines do what they were built to do. The surge broke against the wall in messy waves, fell back, and broke again. Anything that made it over the plating met short, deliberate swings of his axe. Nothing stayed on the wall for long.
+
+CelestOS: Hostile contact rate declining. Probability of immediate follow-up wave negligible. Also, congratulations. Your ill-advised sleeping experiment did not result in your immediate death.
+
+Little AR bits of white and orange light exploded into the air before falling down as a cutesy little fanfare played.
+
+“I’ll take it.”
+
+CelestOS: Celestitech is glad you approve. It is our version of confetti, and is shown to improve employee morale by 14%
+
+Silence returned in sections. First the west, where mist swallowed the far bank. Then the north, where the ridge turned gray at the edges. The south held last, as if the forest resented his new line and wanted him to feel it. Finally, even that slipped away, leaving only the hiss of cooling barrels and the low whir of conveyors carrying copper toward the forge like penance.
+
+He walked the perimeter slow. The walls all held, but the fight had signed its name in blood and gore and damage. A northern panel wore a shallow dent that caught the light in an uneven sheen. The southern seam breathed through a thin crack he could almost, but not quite, fit a fingertip into. The doubled bracing bore fresh gouges, some scored with resin that smoked faintly and refused to wipe clean.
+
+At the western gap, he stopped and watched the river. Mist curled from the surface and drifted in sheets, hiding the far bank. Somewhere out there, something had learned where to hit him. He would make it regret the lesson.
+
+CelestOS: Post-engagement assessment: perimeter performance sixty-eight percent effective. Copper management inefficient. User sleep habits unacceptable.
+
+“Next time I’ll put in a request for more hours in the day.”
+
+CelestOS: Request denied. Even on Veslaya there are only 28.5 hours in a day.
+
+He snorted and rolled his shoulders. The ammo feeders were topping off the hoppers again, rounds sliding with a satisfying, orderly click. Far down the line, the repaired conveyor rattled with a hitch that told him the fix was ugly and would not survive neglect. He added it to the list and knew the list would not get shorter.
+
+“Status on the horde.”
+
+CelestOS: Majority of hostile contacts eliminated during surge. Remaining activity minimal. Tissue readings from recovered antler lattice remain anomalous. Recommend avoiding direct contact; it is unpleasant, and likely tainted by the Red Resin.
+
+“Noted.”
+
+The eastern sky bled from gray into pale gold. Faith dimmed its lens to a lazy sweep. Hope cycled into low-power standby and drooped a fraction, as if relieved. Mild Regret spun once, checked its arcs, and went still, satisfied.
+
+Ethan rested his hands on the brace, cold metal biting through his gloves. The wall had bought him a night. It would have to buy him another. He looked over the camp with its new teeth and thought about where to thicken the line, where to open a lane, where to move a gun to steal back Faith’s occluded arc. He would fix the copper run properly. He would patch the seam. He would cut another panel from the AI pod’s ribs if he had to, and he probably would.
+
+“Not again,” he said softly. “Not tomorrow.”
+
+CelestOS: A noble aspiration. Please convert to action items at your earliest convenience.
+
+“I will, I will. Start a to-do list.”
+
+CelestOS: Already started. Would you like to complete a satisfaction survey?
+
+“Save it for someone who’s had eight hours of sleep.”
+
+CelestOS: I will schedule a reminder when such a person is detected in the area.
+
+The sun crested the ridge, pulling the camp’s shadow back from the treeline. The new wall gleamed where copper fire had scoured it clean. The forest held its distance. For now, that was enough.
+
+He picked up his tools and went back to work.

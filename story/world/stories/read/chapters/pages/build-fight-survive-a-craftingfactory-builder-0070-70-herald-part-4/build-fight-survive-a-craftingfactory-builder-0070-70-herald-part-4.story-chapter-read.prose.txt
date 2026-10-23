@@ -1,0 +1,103 @@
+Ethan glanced back at the drifting mist. The sweet-sour scent of overripe fruit tinged the air even through the filter.
+
+“Yeah,” he said, “I get that.” He tried not to think about what might have happened to make a machine like Harold afraid of trees.
+
+They pressed on, but the deeper he walked, the more the forest felt wrong. Even the heartfruit changed: once scattered and uneven with random explosions scarring the forest, they now grew in neat clusters, each pod hanging at the same height as if arranged by unseen hands.
+
+Their skins lost their mottled variety, becoming smooth and waxy, glowing with a pale light as though wired into the trees themselves. The air carried less of the wild, overripe tang and more of a sterile, cloying sweetness that was almost chemical, like syrup in a lab vat.
+
+The trees mirrored the fruit. No longer random, they angled subtly but deliberately, forming narrow corridors that guided his steps. The canopy thickened until almost no light reached the ground. Vines hung like curtains from high limbs, twitching faintly whenever Ethan brushed past. But still, none attacked him. If almost felt as if the forest were… domesticated? But they kept walking, determined to find Maria. No more distractions.
+
+The glade where the marker led, appeared like a wound, too open and round, with an unnatural stillness. The heartfruit here were grotesque: swollen far beyond the ones outside, their skins slick with condensation; almost as if left to rot on the vine. They pulsed faintly in the half-light, in time with something deeper beneath the soil, as if the forest itself had been rewired.
+
+At the far side, a faint blue pulse blinked between the roots of two gnarled trees that were half-buried in moss and tangled vine. It caught Ethan’s eye from behind a curtain of hanging fruit sacs, flashing just once every few seconds. It was too weak to be a call for help, yet too steady to be a fluke. Harold halted behind him, beeping in short, uncertain bursts.
+
+“I see it,” Ethan said. “Could be another trail marker.”
+
+Ethan stepped cautiously toward the beacon, his boots sinking into a spongy patch of soil that reeked faintly of rotting sugar, a scent that coated the back of his throat, and almost made him gag. Harold let out a sharper whine behind him, then began clicking erratically in fast, high-pitched bursts of warning.
+
+Ethan’s brow furrowed as he studied the beacon. The casing was wrong: bulkier than the one he’d seen in the cave, patched with a crusty film that looked like it had grown there instead of being welded. Strange coral-like protrusions clung to the metal, pulsing in rhythm with the weak blue glow. He crouched lower, scanner ready, but his hand hesitated. Something about it already felt off.
+
+CelestOS: This beacon doesn't match Celestitech specifications. The casing is nonstandard and the serial number is missing. Its surface contains fungal growth inconsistent with factory design. Local fabrication is suggested.
+
+Ethan snorted under his breath. “Local fabrication? Out here? By who? The squirrels?” His scanner light flicked across the coral-like growths, and for a second he swore they flexed.
+
+CelestOS: Probability favors human or near-human intervention. Indigenous fauna aren't known for standardized casing.
+
+“That’s comforting,” Ethan said. He shifted his grip on the scanner, keeping Harold in his peripheral vision. “So somebody was here before me. And they left behind this thing that looks alive and might wanna kill me.”
+
+CelestOS: Correction. The beacon isn't alive.
+
+“Tell that to the way it’s pulsing in time with the trees,” Ethan said, gesturing at the faintly glowing pods overhead. “Feels like I’m staring at a heartbeat, not a homing signal.”
+
+CelestOS: Observed synchronization may be coincidental. Or deliberate. Would you like me to rank the likelihood of deliberate synchronization?
+
+Ethan set his jaw, leaning back on his heels. “No. Just… keep watching my back while I figure this out.”
+
+CelestOS: Acknowledged. Monitoring perimeter.
+
+Harold let out a low, uneasy trill that undercut the AI’s clinical calm, as if the machine agreed with Ethan’s gut more than CelestOS's celestos rambling
+
+The moment the scan beam touched the device, the beacon clicked, making a fast, wet sound like insect mandibles snapping shut, and emitted a low-frequency pulse that vibrated in his teeth. Above him, one of the fruit sacs burst.
+
+Pink mist exploded outward in a shimmering cloud, trailing tendrils of vapor that hissed as they touched his sleeve. He stumbled back, coughing hard behind his mask.
+
+CelestOS: Airborne parasitic load detected.. Neural-interference spores are probable. Please avoid cognitive overinvestment in hallucinated stimuli.
+
+“Fantastic,” Ethan choked, batting away the cloud as it sizzled on his jacket. “Now they’re trying psychological warfare.”
+
+Another pod twitched overhead, then another, and the glade trembled. Harold let out a sharp warning trill and spun in place, its optical lens scanning frantically. Roots behind them shifted, just barely moving. Something larger stirred just beyond the trees, branches parting for something unseen. Ethan turned and ran, his lungs burning as the mist trailed behind him.
+
+The glade collapsed in on itself, vines lashing out across the path like grasping fingers. Whatever had made that beacon hadn't built it for rescue. It had built it for bait.
+
+The forest closed in behind him like a set of jaws. Ethan crashed through the underbrush, vines snapping against his legs and moss sucking at his boots. Harold zipped after him, whining loudly with every uneven bound as sparks spit from its damaged rear joint. Branches clawed at Ethan’s sleeves as if the trees had grown arms.
+
+The deeper he ran, the more it felt like the forest wasn't just alive, but aware, when he made it toe end of the Glade the terrain changed without warning. Roots thickened underfoot, forming treacherous ridges.
+
+Thornbrush clustered in unnatural rings, sprouting new growth where his boots had touched moments earlier. One hooked into his pant leg and tore it open at the thigh, drawing blood, but he didn't slow down. Behind them, the glade let out a low, wet crack as something large gave way and moved through the wet leaves. The sound of pursuit was undeniable.
+
+CelestOS: Secondary signal acquired. Celestitech beacon match confirmed. Coordinates are twelve meters east. Elevation is minus 0.5 meters. Subsurface obstruction consists of vine mass and soil layering.
+
+Ethan twisted through a narrow gap between two interwoven trunks and skidded down a shallow incline. As he dropped, the light changed from a dim green to a cooler shadow, like diving beneath the surface of a lake. Harold kept pace, barely, dragging a leaf-covered cable behind it like a broken tail. The signal pulsed again, this one clean and familiar, clearly factory-cut. It came from beneath a massive root system shaped like a coiled fist, gnarled and sagging under its own weight. Ivy looped around it like wires, and the entire structure rose up from the forest floor like the base of a cathedral pillar.
+
+Ethan dropped to one knee and started pulling. The vines resisted at first, fibrous and clinging with dampness, but they weren't fused, just stubbornly old. He yanked until the mass peeled away in strips, revealing a curved alloy hatchplate set into the base of the root system. Its surface was pitted with age but unmistakably Celestitech. The beacon beneath blinked with a steady white pulse.
+
+“Gotcha,” he said. He wiped a sleeve across his brow, clearing sweat he hadn’t even noticed dripping. His heartbeat refused to calm, and his hands still shook with the echo of flight. The hatch blinked back at him, patient and steady, as if it had been waiting all this time.
+
+“Maria better have had a damn good reason for hiding out here.”
+
+CelestOS: . Probability indicates she did. Would you like to hear the top three most likely categories?
+
+Ethan let out a sharp breath. “Do I have a choice?”
+
+CelestOS: You always have a choice. Statistically, you don't exercise it. Category one: resource preservation. She may have cached supplies to prevent contamination. Category two: environmental shelter. The root system provides natural concealment from aerial and thermal scans. Category three...
+
+“Don’t say it.” Ethan’s jaw tightened.
+
+CelestOS: Personal concealment. Survival likelihood increases when one isn't found.
+
+Ethan pressed a palm flat against the cold alloy plate, trying to steady himself. “She wouldn’t hide from me. Not me.”
+
+CelestOS: Clarification: my statement implied concealment from indigenous predators or hostile parties. However, human behavior under stress can become unpredictable.
+
+“She wouldn’t,” he repeated, softer this time, almost to himself. The silence of the forest pressed in, broken only by Harold’s faint whirring. He knew Cel wasn't wrong. People hid for all sorts of reasons. He just didn’t want to picture Maria as one of them.
+
+CelestOS: Emotional resistance noted. Would you prefer a less likely but more comforting explanation?
+
+Ethan almost laughed, but it came out bitter. “No. I’d rather have the truth. Even if it kills me.”
+
+CelestOS: Statement logged. Please note: survival protocols don't recommend death.
+
+Ethan shook his head, gripping the axe tighter. “Then let’s find out what she left down there. Before I lose my nerve.”
+
+It took Ethan ten minutes to peel back the worst of the vine mass, his fingers slick with sap and dirt. The roots fought him in their own quiet way, wet and fibrous, curling tighter with every tug like nerves recoiling from light.
+
+They were stubborn and old, but they weren't fused. Harold stayed close, spinning slowly in place near the edge of the clearing. Its scanner pulsed red every few seconds, sweeping the perimeter like a twitchy guard dog.
+
+CelestOS: Minor ground tremors detected. The amplitude is negligible. However, The vibration pattern suggests deep subsurface activity, likely geothermal.
+
+Ethan grunted, crouched low with his forearms streaked with grime. “Translation, I’ve got time, but not forever.”
+
+He dragged away one last mat of ivy and felt cold metal beneath his fingertips. It was a smooth plate set into the earth like a buried coin, circular and maybe two meters wide. Faint markings ringed the edge, half-obscured by corrosion and scrape marks.
+
+He brushed more dirt away, revealing the faded Celestitech emblem beneath. It wasn't just a cache marker; it was an actual pressurized and sealed hatch, like something from a ship. The outer latch resisted, but the mechanism hadn't failed. It took effort, requiring him to jam his axe into a slot and wrench sideways, but it finally groaned open with a low, mechanical exhale. The hinges moaned. The smell that came out wasn't rot. It was the old, dry smell of filtered air, stale the way a sealed cabin smelled after months of winter. The space beyond was dead quiet.

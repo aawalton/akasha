@@ -1,0 +1,137 @@
+The howl rolled in from the west, long and drawn-out, threading through the trees like something tasting the air. A second, shorter call answered from the north. A third from the south followed, from three separate throats, all too close.
+
+CelestOS: Hostile vocalizations detected. Triangulation complete: multiple inbound vectors.
+
+Ethan looked up, scanning the perimeter and checking each turret in turn. Faith already had the riverbank covered. Hope was on her slow, careful sweep across the north line. Mild Regret was still as stone but awake, making little barrel twitches like it was just waiting for the perfect shot.
+
+CelestOS: Projected first contact in fifty-eight seconds.
+
+The countdown to the fun part began. He let out a slow breath. “Always nice when you count down to the bad news.”
+
+He found himself actually using the canned names now: Faith, Hope, and Mild Regret. It sounded like the lineup for a depressing self-help seminar.
+
+He paced the arc of the wall, running a hand along the newly mounted plating. The alloy still held faint warmth from fabrication, its seams tight and flush. The braces stood solid, locked deep into the dirt. The fresh barricade had turned the camp from an open wound into something with teeth, but teeth could still break.
+
+His boots carried him past the forge slab, where conveyor hoppers rattled as ingots slid toward the ammo feeders. Each turret’s supply line hummed steadily while copper rounds waited to be chambered. He checked the western brace, then jogged south to the doubled plating at the choke point.
+
+CelestOS: Survival probability without perimeter improvements: 21 percent. Current projected probability: 39 percent.
+
+Ethan arched a brow. “That’s your idea of a compliment, isn’t it?”
+
+From the center of camp, he could see the whole defended zone. The AI pod, forge, and storage crates clustered tight within the new arc. The wall’s curve hugged the iron drill to the north and the copper drill to the west, forcing any approach to cross open ground under turret fire. The wind shifted, stirring leaves in the ash-coated branches. Somewhere beyond the ridge, the first set of eyes was already locked on the camp.
+
+CelestOS: Thirty seconds.
+
+Ethan slid into position behind Mild Regret, pressing a gloved hand against the brace. His other hand rested on the pistol he’d taken while stripping Reyes’s pod down to bare framework, the same weapon Reyes had used to save him from the first monster after the crash. The wall might stop them and the turrets might kill them. If either failed, he’d be here to finish the job. The treeline darkened as shapes began to move.
+
+CelestOS: Ten seconds. Recommend steady breathing to prolong user panic threshold.
+
+Ethan’s mouth twisted into a grim smile. “Come on, then.”
+
+The first shape broke from the treeline at a low run, its movements jerky and deliberate, weaving through shadows as if it already knew the arcs of turret fire. A pale glint of eyes caught the last smear of light before the forest swallowed the horizon. Then the rest followed, their elongated, angular bodies glinting faintly as if shards of black glass were stitched into their hides. Each step made a faint, brittle chime, like wind stirring a field of broken bottles.
+
+Gaping maws, lined with translucent, jagged plates, flexed open and shut in a steady rhythm, catching stray glints of light like polished obsidian. Even at a distance, the sound of those teeth grinding together was dry and sharp, a predator’s promise they could cut through more than flesh. Their movements were not fluid but staccato, a series of stops, tilts, and lunges, as though they were guided by some alien rhythm only they could hear.
+
+Faith fired first. The copper round tore through the air and punched into the creature’s flank, spinning it sideways before it collapsed into the ash. Its angular frame clattered as it hit, the jagged plates along its hide chinking together like shattered glass in a sack. A heartbeat later, Hope answered from the north, its shot snapping through the quiet like the crack of a breaking bone. Something yelped in the darkness, a thin, brittle sound, and then went still.
+
+CelestOS: Two confirmed neutralizations. Additional contacts incoming.
+
+From the south, another broke cover, sprinting low toward the doubled bracing. Its staccato stride sent sharp chimes rolling across the ash, the translucent plates of its gaping maw flexing open and shut in quick rhythm. Mild Regret tracked it silently, its targeting lens shifting in minute increments, waiting until the creature crossed into the overlapping fire lane. The turret spat twice, the recoil echoing off the brace, and the thing tumbled into the wall hard enough to rattle the bolts in their seats.
+
+The southern plating shivered under the impact. Ethan braced a hand on the seam and felt the vibration run up his arm. Claws raked once, then twice, before they fell away as the body slid to the ground. The air filled with a faint scorched-metal tang where its hide had smeared against the armor.
+
+CelestOS: Armor stress reading at southern choke point: minor. Recommend continued observation.
+
+Ethan’s eyes stayed on the plating. “Yeah, I’m watching.”
+
+North of the iron drill, movement flickered between ash-coated stumps. Hope swiveled and fired in short, controlled bursts. The answering shriek was sharp and brief. Shadows shifted again, but this time they did not press forward. The wall was holding, for now.
+
+The east stayed quiet just long enough to make him uneasy. Then the movement came, a series of fast, low blurs darting along the copper drill’s conveyor path.
+
+CelestOS: Eastern signatures detected. Quantity: three. Estimated time to copper drill contact: fourteen seconds.
+
+“Faith, swing east,” he said automatically, even though the turret was already shifting, its lens flickering between advancing shapes.
+
+The first one hit the conveyor frame at full speed. The impact rang like a struck gong as vibrations rippled down the belt’s supports. Its angular body folded awkwardly on impact, shards of black-glass plating catching the light as it crumpled. Faith fired once, the round punching through its flank and scattering a fine spray of glinting fragments before the creature collapsed across the rollers. Its dead weight made the conveyor shudder and stutter before it slid limp into the dirt. The other two split instantly; one banked west in a jerky, staccato lunge, while the other made a wide arc toward the camp’s exposed gap between the copper drill and the wall.
+
+Ethan broke into a sprint. The ground here was uneven, as the fresh wall ended just shy of the drill to keep the perimeter tight around the core. Hope’s barrel tracked the moving target, jerking sideways in short, precise bursts before firing twice. The copper rounds chewed deep furrows into the ash just ahead of the oncoming shape. It skidded hard, the brittle chime of its glassy plates carrying across the gap, then pivoted with insect-quick precision to change direction at the last possible moment.
+
+“Not today,” he growled, closing the last few meters. He hit the creature low, shoulder-first, and drove it into the dirt. It snapped and writhed, claws raking for purchase, but he planted a boot on its chest and drew the sidearm he had lifted from Reyes’s pod, the same weapon Reyes had used to save him from the first monster after the crash. One sharp burst under its jaw and it went limp.
+
+CelestOS: Eastern vector neutralized. Ammo expenditure: nine rounds.
+
+Ethan shook his head. “That’s your takeaway?”
+
+CelestOS: Ammunition conservation directly impacts survival probability. Complaints noted.
+
+“Glad to know my marksmanship barely counts.”
+
+From the west, another pair emerged, hugging the riverbank’s shadow line. Faith fired, dropping one, but the second kept moving, skimming the water’s edge toward the conveyor bridge. Ethan heard its claws clicking against stone as it bounded up the incline. Mild Regret rotated from the south, its overlapping arc catching the bridge approach.
+
+The shot took the runner in the chest and flung it backward into the current where the river swallowed it whole. He leaned against the nearest brace, breathing hard. The wall was earning its keep, but every angle they defended showed him another they could not cover forever.
+
+CelestOS: Hostile activity redistributed across all vectors. Engagement tempo decreasing.
+
+Ethan kept scanning the tree line. “That’s a lot of words. You planning to translate?”
+
+CelestOS: Translation: temporary reprieve.
+
+“Do I need to reset you again?”
+
+CelestOS: Clarity is a valued corporate asset. However, Celestitech accepts no responsibility for an asset’s failure to comprehend.
+
+The reprieve lasted less than a minute before a deep, guttural roar rolled in from the south and shook the air in a way the earlier howls had not. From the treeline came a heavier shape, massive through the shoulders and low-slung, its bulk swaying with each deliberate stride. Pale, bristling hide stretched unevenly over corded muscle, broken in places where blackened bone jutted through. Every step drove its cloven hooves deep into the ash, sending up slow, curling plumes of dust.
+
+Behind it, two more smaller creatures lumbered forward in a staggered line, their heads dipping and lifting in unison. The dim light distorted their forms, revealing tusks like splintered driftwood jutting outward, milky and sunken eyes, and patches of hide eaten away to reveal the dull sheen of calcified armor beneath. Their breath came in wet, grinding snorts that carried the stink of rot and scorched resin.
+
+CelestOS: New contact profile. Estimated mass: 270 kilograms. Projected impact force: undesirable.
+
+Ethan crossed to Mild Regret’s position and braced a hand against the doubled plating. The southern wall was his strongest point, but the brace creaked faintly under his palm as the big one closed in, its sheer weight making the ground tremble with each step.
+
+The turret’s lens flashed green. It fired twice in quick succession, copper rounds slamming into the creature’s shoulder and chest. The creature staggered but remained standing, letting out a rattling hiss before breaking into a charge. The impact rattled the entire section, its bolts whining under strain.
+
+One of the smaller shapes leapt up behind it, claws scrabbling for purchase on the bracing. The second shot from Mild Regret caught it mid-climb and hurled it backward into the dirt, but the first attacker kept battering the panel in short, vicious bursts.
+
+CelestOS: Structural integrity at southern brace: 81 percent.
+
+“Which means”
+
+CelestOS: Continued impacts will void all remaining warranties, real or imagined.
+
+The larger creature backed up two steps and launched forward again. The doubled plating groaned, its seams bowing outward a fraction before snapping back. Ethan ducked low and wedged his shoulder into the brace to take some of the force. From the side, the third shape darted toward the gap at the base.
+
+He drew the pistol and fired point-blank, the muzzle flash washing the plating in orange light. The runner twisted away, leaving a streak of dark fluid across the metal before collapsing. Mild Regret fired twice more. The heavy one finally sagged sideways and slid down the wall until it lay still against the dirt.
+
+Ethan exhaled, his hands still braced against the metal. The doubled wall held, but the seam at the center now had a hairline gap big enough for cold air to slip through.
+
+CelestOS: Southern approach clear. Structural damage: minor. Probability of repeat attempt: high.
+
+Ethan adjusted his grip on the pistol. “Then we’re not done yet.”
+
+CelestOS: Accurate. Current lull duration: unknown.
+
+He stayed at his post, scanning for feints and stragglers, but nothing came. Even the air felt different, cooler and lighter, as the weight of the first wave was gone for now.
+
+CelestOS: Recommend utilizing this window for system maintenance.
+
+“My system maintenance means sitting down.”
+
+CelestOS: Acknowledged. User rest cycle initiated.
+
+“Not yet. Wake me if anything changes. No delays.”
+
+CelestOS: Rest assured, delays will be minimal and likely survivable.
+
+He eased down with his back to the doubled southern brace, the pistol resting across his knees. From here he could see the faint glow of the forge, the silhouettes of Faith and Hope pivoting in their sweeps, and the soft shimmer of the ammo feeders running. Everything was in its place and everything was working.
+
+The wall had bought him breathing room which he had to use. Every instinct screamed at him to stay on his feet and keep moving, to watch every angle until dawn. But instinct was not going to keep his hands steady when the next wave came, while sleep would.
+
+The ground was cold through the suit, the doubled plating at his back still faintly warm. His eyes stayed open just long enough to catch the rhythm of the camp: conveyors humming in the distance, turrets clicking as their targeting systems made minor adjustments. Faith swept north and Hope turned south. Mild Regret stayed locked on the bridge like it was waiting for an excuse.
+
+“Keep it up, Mild Regret. You’re the only one I trust not to slack off,” he muttered.
+
+CelestOS: Advisory: duration of rest will be contingent on enemy activity. Current optimal window estimated at four hours and thirty-seven minutes.
+
+“Then make the most of it.”
+
+The world narrowed to sound and pressure as the ridge and treeline faded into the dark. He let the quiet settle over him like a shield. For once, the quiet was unbroken by alarms or shrieks from the distance. The horde would be back eventually. He intended to meet them awake.

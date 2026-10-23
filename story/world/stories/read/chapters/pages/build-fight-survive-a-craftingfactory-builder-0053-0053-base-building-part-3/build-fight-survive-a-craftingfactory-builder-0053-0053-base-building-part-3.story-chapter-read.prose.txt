@@ -1,0 +1,99 @@
+Ethan crouched at the start of the conveyor, eyes on the rollers. The test scrap still lay toppled against the far coupler, half over the edge. The bridge looked steady enough, but steady wasn’t the same as safe. He pressed both palms flat against the stone to steady his nerves.
+
+“Here we go.”
+
+CelestOS: Advisory: probability of failure decreases if you hum a jaunty tune while crossing. Survival is partly psychological.
+
+Ethan blinked. “You want me to sing my way to safety?”
+
+CelestOS: Correct. Whistling is also acceptable, though pitch accuracy affects morale.
+
+“Yeah, I’ll pass on being the soundtrack to my own obituary.”
+
+CelestOS: Noted. Silence selected. Survival remains statistically mediocre.
+
+He slung a  crate over his shoulder and stepped onto the belt. The rollers hummed under his boots, not made for flesh weight. He moved carefully, heel-to-toe, each step pressing down with a hollow thunk that vibrated through the frame.
+
+The gorge swallowed sound. Only his breath and the faint squeal of resin binding filled the space. He glanced down once, regretted it instantly. The ravine floor was shadow, nothing more, a black seam waiting to eat him whole.
+
+“Eyes forward,” he said.
+
+CelestOS: Agreement. Studies show the abyss is more likely to observe you if you observe it first. Please avoid mutual acknowledgment.
+
+His throat was dry, but before he could stop himself, a shaky whistle slipped past his lips. Just three notes at first: thin, uneven, more air than tune. He grimaced, but the silence pressed harder than embarrassment, so he kept going. A half-remembered melody took shape, broken and nervous, hopping from bar to bar like a bird afraid of landing.
+
+The rollers hummed beneath his boots, the rhythm falling in behind the tune to create something that almost sounded like accompaniment.
+
+CelestOS: Observation: unsteady pitch detected. If morale is the goal, please consider switching to humming.
+
+“Shut up,” he breathed, and did exactly that, humming low, steady, teeth rattling with every step. It didn’t help much, but it kept the silence at bay.
+
+Halfway across, the mid-span brace groaned, a low metallic note, stretched taut. Ethan froze mid-hum, the sound catching in his throat. He stood motionless until the vibration faded, then let the hum creep back in as he shifted his weight gingerly and continued. Every nerve felt wired straight into the rollers, cataloguing each quiver, each tremor.
+
+He made the far bank with a hard exhale and dropped to a crouch beside the coupler. The forest loomed only thirty meters off. Resin trunks gleamed slick with dew, and a breeze threaded through the canopy, turning the leaves into glass shards that chimed faintly against one another. His humming died, replaced by the forest’s cold music.
+
+He unpacked the crate. With a flick through the AR field, placement grids shimmered into being across the stone shelf. The copper seam glowed faint orange in his overlay, a raw scar easy to lock onto. A flicker of green outlines showed where the drill’s stabilizers could anchor, neat and perfect in simulation.
+
+The squeal came then, rollers behind him singing faint and sharp. Ethan spun, pistol raised. The bridge was empty, nothing moving, only a low vibration carrying through the frame, as if something unseen had tested its weight.
+
+From the trees came the answer: a snarl, low and ragged. Branches shivered, birds scattered in metallic shrieks. Then silence again, the undergrowth swallowing whatever had spoken.
+
+His chest tightened. One command in the AR field and the drill would exist in steel instead of projection. But his gut said it wouldn’t last. Something would smash it before it produced a single ingot. He had the supplies for the drill, yes, but not for another turret and another drill if both went down. With a grim shake of his head, he canceled the projection, set the crate down, and turned away.
+
+CelestOS: Advisory: no drill placement detected.
+
+“Not going to place it without teeth,” he said.
+
+He retraced his steps to the bridge, slow, every sense tuned to the treeline. Whatever waited there had voiced its warning. He wasn’t about to feed it hardware it could chew through. His priorities were clear: guns first, drill later.
+
+He set foot on the rollers, heart hammering. The gorge opened wide beneath him once again, but the plan was clear. A forward outpost, copper for turrets, and one more day alive. The snarl lingered in his ears long after the forest went silent.
+
+Ethan trudged back into camp. The forge vented steam in a steady plume, belts rattled, turrets tracked in slow arcs. To anyone else it might look like a fortress. To him, it looked like a patchwork waiting to tear.
+
+Multiple turrets stood sentinel: one at the gorge mouth, one aimed toward the treeline, and one parked close to the pod.
+
+He stopped in the yard and rubbed grit from his eyes. To put a gun across the ravine meant taking one from here, but which one? The wrong choice, and he’d open a seam that something would slip through.
+
+CelestOS: Recommendation: relocate one internal turret. Note: user has developed unhealthy dependency on visible firearms. Clinical diagnosis: turret separation anxiety.
+
+"Unhealthy dependency? What the fuck? I'd be dead without them.”
+
+CelestOS: Correct. Proximity of armed deterrent contributes to user’s emotional stability. Removing unit will decrease sense of safety, though actual safety will remain questionable regardless.
+
+Ethan just shook his head and walked the perimeter again, slower this time. The gorge-mouth gun had to stay; if the forest pushed there, that was the choke point. The treeline gun covered the long approach, narrow but useful. That left the one near the pod. It had been his fallback, his insurance against something slipping through the outer arc. But the perimeter was stronger now, patched, reinforced. His internal turret could be moved, for now. He’d replace it as soon as he had his supplies ready. And he couldn’t do that without this new source of copper.
+
+He exhaled hard and said, “That’s the one.”
+
+He knelt beside the turret and began unbolting its tripod legs. The copper barrel was warm from tracking in the morning sun. The sensor light pulsed like a tired heartbeat as the chassis disconnected from its anchor. When the last bolt came free, the machine sagged into his arms, heavier than it looked. He cradled it against his chest like a reluctant infant.
+
+CelestOS: Confirmation required. Approve turret reallocation: yes or no.
+
+“Yes.”
+
+CelestOS: Approval recorded. Psychological comfort downgrade notice has been sent to your spam folder, alongside previous cries for help.
+
+Ethan barked out a dry laugh. “You mean all of the times you refused to help me, and I had to risk life and limb? If anything you’re the reason my morale is low.”
+
+CelestOS: Incorrect. I am fully compliant with internal policy section 19.83, “Morale and Metrics.”
+
+He shifted the weight of the turret, legs folded, power tail tucked. Carrying it across the gorge would be a grind, but necessary. Without a gun braced on the far side, planting a drill was suicide.
+
+He ran the math again in his head: turrets ate copper or iron ingots for ammo, about two hundred rounds per unit. This redeployed one would need a short calibration window before it was combat-ready. The forge could barely keep up with the supply.
+
+He looked back at the pod, the now-bare corner where the turret had stood. The yard felt emptier already, the shadow a little longer, the air a little thinner.
+
+“Hope you’re worth it,” he said to the turret in his arms.
+
+CelestOS: Clarification: turret has no concept of worth. User survival, however, remains statistically improved.
+
+Ethan set his jaw. “Then let’s prove the math.”
+
+The turret rode awkwardly against Ethan’s chest until he finally gave in and hitched it onto the CMS suit’s magnetic clamps of his back. It was something he should have done to begin with, but he was so tired it was affecting his thinking. The load sagged onto his back with a heavy click, balance shifting instantly. He exhaled relief.
+
+“Better,” he said. “Almost civilized.”
+
+CelestOS: Advisory. CMS load capacity exceeded optimal by 14%. Structural fatigue will accrue. Warranty voided.
+
+“I didn’t buy the warranty.”
+
+The path to the gorge mouth felt longer with the gun weighing him down. Each step sent the magnets humming, each sway of the turret threatening to pull him sideways. By the time he reached the bridge, sweat ran hot beneath his collar.

@@ -1,0 +1,105 @@
+The CelestiCraft interface glowed a cold blue and buzzed faintly as Ethan lifted it again, his eyes drooping with exhaustion. He tapped through the menus until the schematic he needed unfolded in a crisp, blue holographic display showing jagged lines and markers hovering in the stale mid-morning air.
+
+[T1 Automatic Drill: Tier 1 Recipe]:An autonomous mining unit that can be placed on a resource vein to slowly extract ore.• Iron Ingots ×10• Basic Gear & Mechanism ×1• T1 Power Cell ×2• Binding Agent ×3
+
+He stepped back from the schematic, his eyes drifting to the crates stacked near the forge, then to the belts feeding his smelters. He had plenty of ingots of iron, a decent supply of copper, and even some stone. That was not the issue. What he lacked were crafted parts like gears, servos, and sensors.
+
+He could use the CelestiCraft every time to make more, but that came with a cost. It was time-consuming and wasteful, especially for components that required less than a full ingot to produce. It had already started to eat into his copper supply, and over time that would start adding up to a lot of wasted resources. What the celesticraft did with the excess material remained a mystery, and Ethan had no interest in finding out. However, there was an obvious solution he just hadn't had time to pursue until now.
+
+He grunted and laid down for a break before looking at the panel on the Celesticaft, swiping open the project history with a shaky hand. The system chirped, projecting a faint schematic list in the air. He filtered for 'fabrication support' and selected the entry he’d been accidentally avoiding since Day One.
+
+[T1 Item Fabricator: Tier 1 Recipe]:An automated assembly unit capable of producing basic machine components using raw materials.• Iron Ingots ×20• Basic Gear & Mechanism ×2• Servo Motor ×2• Sensor Component ×2• Copper Wire ×10• T1 Power Cell ×1
+
+“Of course,” he muttered. “It would be one of the most resource intensive recipes so far.”
+
+He rubbed the back of his neck, already sorting through the mental flowchart of what could be used. He had no servo motors and no sensors. In fact, nothing was pre-assembled. That meant he'd need to gather everything from scratch, which was the very problem he was hoping to fix with this new machine.
+
+He moved fast, grabbing copper and iron ingots from the storage bins. He hauled load after load until he had a stacked array beside the CelestiCraft. Next came the sap, still sealed in its original collection canisters. He hauled out several, their sides tacky with residue, and dropped them next to the metal. He did not bother with sorting or cleanup. He just piled the raw materials in bulk, ready for the build.
+
+“Alright,” he said. “Let’s do this.”
+
+CelestOS: Raw material reserves sufficient. Quality threshold: Acceptable. Beginning fabrication process. Stand clear.
+
+The hologram pulsed to life in front of him, outlining the T1 Item Fabricator in glowing wireframe. It hovered over the loose stacks of ingots, rock, and sap, then shifted into construction mode.
+
+CelestOS: Warning. This fabrication sequence requires 4400 kJ. Recommend standing outside the immediate radius.
+
+The light intensified, casting jagged shadows across the dirt. One by one, the raw materials lifted into the air, suspended in shimmering columns of energy. The copper twisted and spun into coils, the iron plates fused into shaped casings, and the quartz vaporized into dust, reforming into delicate internal lattices. Ethan took a step back as heat radiated from the construction in waves.
+
+The CelestiCraft whined. It then released a sharp pulse of white-blue light that surged down its projection arms like lightning.
+
+For a moment, everything went still.
+
+Then, with a hiss of pressure release and a chime that was far too cheerful for the circumstances, the completed device unfolded itself in a rapid mechanical blossom of pistons and clamps.
+
+The T1 Item Fabricator stood gleaming in the dust.
+
+It looked like an angry fridge bolted to a welder’s workbench, its vents still steaming from the rapid assembly. Diagnostic lights blinked amber and green across its side panel, and the central touchscreen flickered to life with a bold [READY] banner. Below it, the input slot extended with a slow mechanical click, and the feed bay on the right lit up with a pulsing [FEED] signal.
+
+“Now we’re getting somewhere.”
+
+Ethan walked a slow circle around the machine. It did not seem very fancy apart from the touchscreen. It was just a box that made boxes.
+
+CelestOS chimed in.
+
+CelestOS: Fabricator online. Component queue available. Assembly line routing advised.
+
+He nodded once, then ducked under the conveyor line that fed his ingot bin and started a new conveyor line to supply the item fabricator. He would eventually need more, but even one was enough to stop the drain on his copper stores. When he’d woken that morning, he’d had almost twenty; now he was down to five. A new batch would be ready soon, maybe a minute or so, but copper was still the biggest resource sink, and the supply hadn’t had time to stabilize. That left him pretty limited in what he could build, especially if he wasn’t willing to wait.
+
+As if summoned by his thoughts, he watched as the next batch of ingots rolled across the line. Three diverted cleanly into the fabricator’s slot, their weight activating the intake sequence. Gears whirred and lights blinked. A faint metallic grinding echoed inside the unit as it processed the first load.
+
+CelestOS: Input recognized. Crafting queue initiated. Estimated time to first Basic Gear: 14 seconds. Would you like celebratory music?
+
+Ethan did not respond. He just leaned against the forge and closed his eyes for a long moment, letting the sound of synchronized industry wash over him.
+
+When he heard the thunk of the 5th gear being made, he pushed off the wall and headed back to the CelestiCraft. The schematic for the drill was still hovering in the air.
+
+“Alright,” he muttered, flexing fingers that still ached from the last hour of exertion. “Another miracle in the making.”
+
+The storage bin hissed as the most recent batch of iron ingots settled into place. He grabbed ten, still warm to the touch, and carried them back to the schematic, laying each one down beneath the projected frame. They hit the slab with solid, metallic clinks, one after another, like the ticking of a heavy clock.
+
+Next, he keyed in the request for a basic gear and a power cell at the new item fabricator. The machine hummed, hissed, and pulsed with faint diagnostic light as it processed the queued commands. Seconds later, a gear assembly dropped into the retrieval tray, followed by a compact, palm-sized power cell, still warm and lightly vibrating.
+
+Finally, he reached into one of the storage canisters and pulled out a thick glob of the sap-based binding agent. Only one left after this. If he ran out, he’d have to head back to the forest himself; the auto-forester just wasn’t fast enough to keep up with everything he needed. Automation was great, sure, but painfully slow. The resin clung to his fingers like half-cured glue. He slotted it into place with a grimace and took a cautious step back.
+
+And then he stopped himself. Did it really make sense to build it here when the gold deposit was so far away? He rubbed his eyes, and then glanced to the bright orange sun that was quickly approaching mid day. He needed sleep, and he really needed to make sure he had the solid defenses for a good night's sleep first.
+
+Three miles of conveyor meant hours of laying belt in the open, burning through connectors and fuel for the suit’s tools while leaving his base unguarded. Sure, it would be convenient to have a direct feed of gold rolling into the grit pit before nightfall, but convenience was not worth getting killed for. He pictured himself halfway down the run when something big came charging out of the treeline, with the turret too far back to help. The idea tightened his chest.
+
+Better to set up a forward site now and worry about the belt later. The forge would smelt ore on-site, the turret could keep watch, and he could come back tomorrow rested and ready to build the long haul. If anything happened while he was gone, the grit pit would still be making iron and copper for base defenses. That was the smarter play.
+
+He turned it over in his thoughts before deciding it would make more sense to grab everything into a storage crate and then build the drill, a new forge, and a turret at the deposit site. Transporting all of the needed resources in a crate would take a good chunk of time, but it would let the grit pit build up the needed resources to defend the base, while he started gathering the gold needed for tier 2 upgrades.
+
+He spent the next twenty minutes packing everything into one of the reinforced supply crates. The crate groaned under the weight, but the contents fit. He sealed the lid, double-checked the clamps, and hefted it onto his back where his CMS suit's magnetic locks clicked into place with a heavy thunk. The suit adjusted for the load automatically, shifting power to his stabilizers, that somehow, despite the damage to the suit, still worked.
+
+It was not comfortable, but it was manageable. Better to haul the parts now than carry a finished drill through the forest and cave. God he needed a vehicle.
+
+He started walking, boots crunching over ash and grit, the terrain sloping gently downward as he left the crater behind. The forest loomed ahead, a jagged silhouette of blackened trunks and shredded canopy, remnants of a battle that had poisoned the ground. What had once glowed with red-green biolight now sagged in silence, heartfruit shells ruptured and rotting like deflated organs. The trees were motionless. Watching. It felt weird to be going through the same exact path from earlier, but it felt safer than going through a new part of the forest.
+
+He kept to the same path as his first time through, weaving between scorched roots and fallen limbs. Resin stains still marked the soil in glassy streaks. Somewhere beneath it all, the central heart he had destroyed lay buried and rotting. It smelled like copper and decay.
+
+Beyond the trees, the slope changed again. The ground dipped suddenly, the grass gone now, replaced by brittle orange crust and fractured stone. He had entered the basin. The air grew heavier, humid and shimmering. Heat warped the distance. He pulled his collar higher, already sweating.
+
+A low, breath-like hiss erupted ahead. Ethan froze. A white pillar of gas exploded from a nearby vent, searing the air with a sound like a scream. He waited. Counted. Then moved again, faster this time not wanting to get caught with another blast to the face, his eyes scanning the ground for soft spots and discolorations. Steam bursts bloomed like ghostly geysers along the edges of his path, and the deeper he went, the more the crust groaned beneath his weight.
+
+His destination was visible now. There was a ridge of rock twisted up from the basin floor, flanked by jagged mineral scars. Nestled at its base was the cave.
+
+The dark maw waited.
+
+He reached the ledge just before the overhang, stepped up onto the platform, and unclipped the crate. He would build the drill here, then carry it into the cave proper. He arranged everything out the way he had it before in the diagram and active the CelestiCraft. The gun pulsed; first a glow, then a hum, then a vertical flash of white-hot light. The components vanished in sequence, swallowed into the matrix. Magnetic fields stirred like unseen gears grinding through molasses.
+
+Then, silence.
+
+Where the parts had been, the drill now stood. Squat, broad, mechanical, and built like a tick with six stabilizer legs, a central auger, and a gleaming dome of alloy shielding its core. A row of yellow lights flickered along the control spine.
+
+Ethan stepped closer, squatted beside it, and ran his fingers along the battery ports. “You better be worth it.”
+
+He tapped the side panel, braced his arms, and lifted. It fought him the whole way, but he managed a shoulder-hunched stagger across the lip of the cave and down onto the rocky floor beyond.
+
+Every step punched through a layer of heat-split dust. His boots slid more than they gripped. The weight nearly pulled him sideways, but he didn’t stop.
+
+CelestOS: Gold deposit confirmed at coordinates 3A-118. Estimated depth: 3 meters. Impurity ratio: moderate. Congratulations, Asset. Your first taste of real wealth is less than a story beneath you.
+
+He didn’t laugh. Just grunted, adjusted his grip, and moved toward the cave.
+
+“Guess we better get digging.”

@@ -1,0 +1,87 @@
+But Ethan wasn’t listening to CelestOS. A thought had been rattling in his head all day, half formed until now. He didn’t have a Celestitech-approved recipe for walls, but with the CelestiCraft he didn’t need one. There were turrets to place, iron and copper to check, and a dozen other jobs waiting, but none of it mattered.
+
+Because now, Ethan was going to build what he should have built on day one: walls.
+
+He started at the nucleus, walking the open ground between the AI pod, the forge, and the neat line of storage crates. Everything here was exposed, machines and cables laid out like an invitation. One good push from the wrong direction and half the camp could go dark. Again.
+
+From there, he followed the conveyor northeast to the iron drill. The machine was still as new as it was when he crafted it, its frame covered in ash but sturdy. The open space around it offered no real cover, a clear run for anything heading toward the core, even with the Turret.
+
+He turned west toward the copper drill. The conveyor climbed the slope before winding back toward camp, a ready-made path leading straight into his operation. The drill clattered along, already a vital link in his survival chain.
+
+By the time he looped back to the forge, the plan was set in his mind: a wall enclosing the nucleus, the iron drill, and the copper drill in one defended zone. No more scattered targets. No more trusting the turrets to cover everything. no more worrying about his camp being overwhelmed. This time, anything trying to get close would have to smash through first. giving his turrets more than enough time to get the job done.
+
+CelestOS: Assessment complete. Recommended perimeter length: 142 meters. Estimated material cost: substantial. Failure probability without implementation: 79 percent.
+
+“Thanks for the pep talk,” Ethan said. “Nothing boosts morale like a survival forecast from a smug calculator.”
+
+He walked the full circle of the area he meant to protect, one last time, marking points in the dirt with scraps of bright fabric torn from a CelestiTech flag. The markers would make it easier to plan the first wall once he used the CelestiCraft and started turning the salvaged parts of the pods into a real wall. The lines would need to connect tighter, the approaches narrowed, and the open angles closed so anything coming in would be funneled straight into concentrated fire.
+
+When he finished the second loop, nothing looked different, but the layout was burned into his head. Every path an enemy might take, every blind spot, every panel that could buy him even one more second of breathing room was locked into place in his mind. He only had less than 2 hours to work, but he knew he could get it done if he tried hard enough.
+
+CelestOS: Would you like me to project a “before” photo for comparison when you inevitably fail to maintain this layout?
+
+“Sure,” Ethan said. “Maybe you can autograph it so I have a keepsake when I’m dead.”
+
+He keyed the CelestiCraft awake. The air above its console lit with a soft blue halo, the holographic interface blinking before resolving into a series of schematics for modular barricade panels, bracing posts, and anchor plates. Component lists hovered to one side, wireframe models rotated slowly on the other.
+
+[MAKESHIFT RECIPE – Alloy Barrier Segment]‣ Salvaged Alloy Panel × 3‣ Reinforcement Brace × 2‣ Mounting Post × 1
+
+He set the first warped panel onto the glowing AR grid, the alloy’s jagged edges hovering within the wireframe outline of a finished barricade plate. The CelestiCraft’s scan beam flickered over it, lines of red light mapping every imperfection before shifting to green. The grid shimmered, adjusting the panel’s ghost image until it fit the schematic perfectly. A flash of blue light rippled through the air, and the raw panel vanished, replaced by a clean, uniform plate that still radiated faint heat.
+
+One by one, he filled the grid over and over with the rest of the salvaged ship metal. Each piece dissolved into light and reappeared seconds later as precise, ready-to-mount segments.
+
+CelestOS: Advisory: structural components processed from crash debris may exhibit stress fractures. Recommend doubling supports on all high-impact barriers to avoid sudden catastrophic disassembly.
+
+“Noted,” Ethan said, pulling the newly cut braces from the grid and stacking them for the wall frame.
+
+He placed the smaller AI pod panels onto the schematic for curved wall sections. The CelestiCraft’s light passed over them in slow, deliberate sweeps before reshaping the metal into plates with beveled edges designed to interlock. One after another, the panels reappeared from the grid as uniform sections, their inner surfaces still faintly stamped with Celestitech manufacturing codes, half-burned by all the stress but readable.
+
+The pile of scavenged debris from the pods steadily transformed into orderly stacks of braces, panels, and anchors. The workspace grew hotter as the machine’s energy output climbed, the air carrying the mixed scent of scorched alloy and resin dust.
+
+By the time the last section appeared on the grid, Ethan had everything he needed to build the wall before the sun dropped behind the ridge. It would not be pretty, but it would stand, and that was enough for today.
+
+He leaned over the console, watching the next section take shape. Every cut, every brace, every plate that slid from the CelestiCraft’s grid was another step toward making sure the camp stood when night came.
+
+Ethan stacked the fresh wall panels into a crate, snapped the crate onto his suit, and dragged them toward the western edge of the clearing. The metal clanked with each step, scorched edges catching on his gloves as he unloaded them at the first planned anchor point.
+
+He set the salvaged landing strut into place, driving its base into the dirt until it seated against the anchor marks he had cut earlier. Once bolted down, the brace stood straight and solid, the first piece of an actual barrier.
+
+Next came the curved panels. He lined the first one against the brace, fastening it until the seam locked tight. Another panel followed, then another, each joining into a continuous sheet of alloy that blocked the treeline from view. The plating was rough and scarred, but it would slow anything trying to cross this line.
+
+CelestOS: Armor coverage at 14%. insufficient for meaningful defense.
+
+“It’s called a start,” Ethan said, hauling another brace into place. “We’ll see how much you’re laughing when we survive the night.
+
+He went back to the pile, fitting each piece into place one by one. For the first time since the crash, the camp no longer felt completely open to whatever came out of the dark.
+
+He repeated the process on the southern choke point, driving a brace into the dirt and bolting it into place. This stretch faced the open gap between the forge slab and the collapsed scaffold, prime territory for anything charging straight in. He doubled the bracing here and layered the armor thick enough that it took effort just to get the bolts through.
+
+By the time the third section stood, his back was screaming. Sweat pooled along the collar of his suit, and his gloves were slick from both heat and effort. He stepped back to take in the line, three linked segments of wall, each anchored deep, each fitted with salvaged plating that could at least slow anything trying to break through.
+
+CelestOS: Current coverage at 42 percent. Recommend completion within 30 minutes.
+
+Ethan: “If I keep pushing at that pace, I’ll be eating dirt before the wall’s halfway done.”
+
+CelestOS: User collapse during construction is statistically linked to reduced survival rates.
+
+He shook his head and moved on, crouching to secure the last brace in its anchor point. The joined panels cast long shadows across the dirt, their seams catching the light as the wall curved around the camp’s edge.
+
+The sun had sunk low enough to set the ridgeline on fire, a jagged crown of rust-red light that bled into the ash-gray sky. The camp’s shadows stretched long across the clearing, overlapping in dark seams that seemed to breathe with the wind. Ethan moved through them in quick, deliberate steps, running final checks before the dark could swallow everything.
+
+He inspected each section in turn. The bracing was solid, the bolts seated tight, the plating locked flush. One seam had a slight gap near the base, but it was small enough that anything big enough to be a threat would have to come over the top. It would hold for now.
+
+CelestOS: Grid stability projected at 92 percent under current conditions. Stability during hostile incursion… variable.
+
+“Variable’s fine,” Ethan said.
+
+He crossed to the western wall and ran his gloved fingers over the salvaged plating. The edges were still warm from the fabrication process. The bolts held tight, the bracing stayed firm. At the southern choke point, he crouched low, peering along the angled seams to confirm the line of sight between sections was clean. The placement was right. Anything coming through here would have to hit the barrier head-on.
+
+At last, he stopped near the center of camp, turning slowly to take it all in. The newly built wall traced a rough arc around the most critical machines, plates gleaming in the dying light, braces casting long shadows across the dirt. The gaps were gone, the cables tucked behind cover, the worst of the open approaches closed. It was not perfect. But it was something.
+
+CelestOS: Perimeter integrity improved. Survival odds increased to… let’s call it “better than before.”
+
+Ethan allowed himself the ghost of a smile. The horde would test every inch of it soon enough. For now, the camp stood ready, teeth bared against the night.
+
+He glanced toward the ridge, where the last edge of sunlight slipped away, and whispered, “Come on, then.”
+
+The first distant howl rose from beyond the treeline.

@@ -1,0 +1,139 @@
+Chapter 64
+
+He stood and scanned the grove.
+
+“Yeah,” he muttered. “Manually hauling this stuff is not gonna cut it.”
+
+He walked back to the hauler, dug a stick into the dirt, and began sketching. A line for the grove, another for the forge, crude boxes for bins. He mapped out where conveyors would run, looping from tree to hauler, then from hauler back toward camp. The lines tangled quickly. Every extra segment meant more copper, more plates, and more parts he couldn’t spare.
+
+“What I need are trains. One run, big load, none of this belt-spaghetti.”
+
+CelestOS chimed immediately, its tone maddeningly bright.
+
+CelestOS: Correction. What you need is Tier Three fabrication. Trains aren't available in your current progression path. Advisory: if you worked faster, or smarter, you would already be enjoying locomotive efficiency.
+
+Ethan pinched the bridge of his nose. “Faster, smarter. Right. Maybe if I sprouted an extra set of hands.”
+
+CelestOS: Labor shortfall detected: seven missing pairs of hands.
+
+Ethan pinched the bridge of his nose. “You already hit me with the teamwork speech. You’re gonna need some new material.”
+
+CelestOS: Noted. Current catalog of motivational quips is limited. Would you like me to repeat them alphabetically or by severity?
+
+He should have laughed, but his stomach only tightened. No one was going to save him. Patel was gone and definitely evil, besides. Reyes was worse than dead. Sure, Maria was still out there somewhere, but her trail was buried under death and horrors he could barely name. All he had left for company was an AI that couldn’t decide if it wanted to guide him or mock him. He shoved the thought away before it hollowed him out.
+
+“Alright. No trains. Fine. I’ll run conveyors.” He circled one section, calculating in his head. “Short segments to a buffer bin, load it onto the hauler, haul it to the forge. Repeat. I made it through once, I can make it through again.”
+
+CelestOS: Inefficient.
+
+“Yeah, well, so is dying without my new suit, and that’s the direction we’re headed.”
+
+He jabbed the dirt one last time and stood, brushing soil off his gloves.
+
+The Deforrestor’s blades whined as they bit into another trunk, spitting out coils of glowing fiber that stacked in neat, spiraling heaps. Ethan crouched by the growing pile, gloved fingers running across the strands. They felt alien yet familiar: springy like bundled rope, but slick, almost oily. The fibers could be stretched without snapping and bent without creasing. They were strong enough for seals and flexible enough for filters. Exactly what he needed.
+
+It should have lifted the weight pressing on his chest, but it didn’t. Every coil only added more. The Deforrestor wasn't slowing down, and he couldn’t keep pace hauling it all back by hand, not to mention crossing the Sporesquitos filled storm.
+
+It wasn't just the fiber, either. The lumber itself had value for certain recipes and fuel. He couldn’t afford to leave it behind. The hauler’s bed was already groaning with crates of salvaged metal, copper wire spools, and scavenged brackets and braces. One more load like this and the suspension would collapse before he made it half the distance to camp.
+
+He straightened, sweat sliding down his collar despite the cooler grove air. The trees loomed in quiet ranks, patient in their fall. Fang’s lens swept the edge of the grove, its hum low and reliable. The turret hadn't faltered, not once.
+
+But Ethan remembered the swarm. One turret hadn't been enough to hold them back; it had barely slowed them. If he meant to drag fiber through the cloud again, he’d need more teeth on the line.
+
+“Alright,” he muttered, running a hand down the haft of his axe. “Two more guns. Then belts.”
+
+He moved to the crates, his fingers searching through for plates and servo housings. He hauled them into a rough pile, laying the parts out in the dirt. For a moment he hesitated, picturing how Maria would have done it with clean, exacting efficiency. His own builds always looked like patchwork nightmares until they worked. But working ugly was better than dying neat.
+
+CelestOS chimed into his ear, voice as cheery as ever.
+
+CelestOS: Advisory. Unauthorized duplication of CelestiDefense™ units may violate corporate arms agreements. Please consider the public image impact of jury-rigged weapons platforms.
+
+“Yeah, I’ll worry about image when I’m not getting impaled by bugs the size of motorcycles.” Ethan jammed the brace into place, sparks jumping as he forced a connector to seat, and then the Celesticraft did its magic.
+
+But the commentary didn't stop.
+
+CelestOS: Reminder. Turret deployment without prior marketing approval voids promotional credit eligibility. Would you like me to draft an advertising slogan before assembly?
+
+Ethan grunted, levering a plate into place. “Let me guess: Don’t Die Screaming.”
+
+He drove the last bolt home with the heel of his palm. The frame rattled, then steadied as power flowed through the conduits. A red glow sparked alive in the lens, steady this time. The turret’s barrel swiveled in a lazy arc, sensors calibrating. Ethan stood, brushing grit from his gloves, and felt a knot loosen in his gut.
+
+He carried the new unit to the grove’s edge, planting it facing the haze. Its stabilizer legs sank deep into the root mat, locking firm. When it hummed to life, its sound was a certain comfort, cold steel watching the dark.
+
+Ethan rested a hand on its housing, then turned back toward the coils piling at the Deforrestor. One problem was solved. Now came the harder one: moving it all.
+
+Ethan stood over the pile of fiber, the new turrets humming behind him like patient guard dogs. The coils glowed faintly in the grove’s filtered light, already stacked too high for his comfort. With every minute, the Deforrestor fed the pile more, and the problem grew bigger.
+
+“Alright,” he said before erasing his first diagram.
+
+He drew crude boxes for the grove and forge, then connected them with a long scratch for the belt. The distance wasn't terrible, but the line cut straight through the spore field he’d barely survived.
+
+He stared at it until the silence pressed too hard. “Yeah. That’s the problem. Everything has to cross the cloud. And there's no way it won't get shredded the second I turn my back.”
+
+CelestOS chimed in, chipper as always.
+
+CelestOS: suggestion: four proposals for escaping your self inflicted predicament.
+
+Ethan nodded expectantly.
+
+CelestOS: Solution proposal one. Triple-wide conveyors with armored plating, supported by ninety-two reinforced struts and a self defsnwse arm. Resource requirement:• [140 copper ingots]• [60 iron plates]• [12 gold filaments]• [1 Deforrestor converted into a cutting platform]
+
+Ethan blinked, then barked a dry laugh. “You’re kidding me. I don't even have twelve filaments, and I sure as hell don't have a spare Deforrestor.”
+
+CelestOS: Of course. But why settle for survival when you can over-engineer yourself into extinction?
+
+Ethan jabbed the axe into the dirt, carving another crooked line. “No. No, armored megabelt. What else?”
+
+CelestOS: Solution proposal two. Elevated skybridge conveyor. Suspended by cable strung between harvested trunks. Advantages: reduced contact with contaminated ground. Resource requirement: three thousand iron ingots, four kilometers of processed cable, and a ruler. Estimated build time: six months.
+
+Ethan barked a short, sharp laugh. “Six months? I don't have six hours.” He ground the axe deeper into the dirt, splitting the sketch down the middle. “Next.”
+
+CelestOS: Solution proposal three. Relocation of primary base. Abandon current forge site. Establish operations directly at grove. Eliminate conveyor need entirely.
+
+Ethan froze. For a second, the idea almost sounded tempting. Then he thought of the ore piles, the generators , the bins of ingots stacked like treasure. Days of blood and sweat, torn apart just to start over.
+
+He shook his head hard. “Not happening. I’ve already put too much into that camp. I move, I lose everything.”
+
+CelestOS: Think of it as rebranding your base. Same operator, same planet, entirely new set of failures waiting to happen.
+
+“Shut up.” He crouched again, staring at the glowing coils, their faint blue sheen reminding him uncomfortably of Maria’s eyes in the old holo he still carried. She’d have drawn something elegant and clean, not this mess of dirt scratches and broken ideas.
+
+He rubbed his forehead, trying to chase away the ache building behind his eyes. “Alright. The megabelt is out, so is the skybridge and relocation. What’s left?”
+
+CelestOS fell silent for a beat, the pause almost theatrical.
+
+CelestOS: Solution proposal four. Unknown. Would you like me to search the innovation archives?
+
+Ethan snorted. “No thanks. I’ll figure it out myself.”
+
+He tapped the axe handle against the dirt, staring at the haze still rolling on the horizon. Whatever answer he came up with, it had to survive that.
+
+“Gotta be something I can actually build,” he muttered.
+
+The grove’s hum faded into background noise as Ethan stared at the dirt sketches. The crude lines mocked him: spaghetti conveyors that ran straight into the cloud, each one a death sentence for anything they carried. He rubbed his eyes with the heel of his glove, exhaustion grinding against his skull.
+
+“Alright,” he said finally, voice low. “If I can’t go over it, and I can’t just plow through it…”
+
+He tapped the axe handle against the ground, eyes shifting toward the haze. The spores drifted lazily, blue-green threads curling and twisting as if they had their own hunger. He imagined a belt running naked through that, coils of fiber rolling into the fog only to be stripped bare in minutes. It wasn't an option.
+
+An idea clicked. It wasn't clean or efficient, but it was possible.
+
+“A tunnel.”
+
+CelestOS chimed immediately, voice too cheerful for the weight in Ethan’s tone.
+
+CelestOS: Clarification required. Are you referring to a subterranean excavation or a metaphorical coping mechanism?
+
+“Metal tunnel,” Ethan said, stabbing the axe into the dirt for emphasis. “Box the conveyor in with plates on all sides and a roof on top. Keep the spores and the bugs out. It won't be pretty, but it’ll work.”
+
+CelestOS: Assessment: structurally sound, visually hideous. If survival were a beauty contest, you’d already be disqualified.
+
+Ethan barked a laugh, dry and bitter. “Good. The bugs don’t care about branding. But they will care about superior fire power. New plan.”
+
+He dragged the axe through the dirt, sketching a straight line back toward camp. “A turret here and another there. One guarding this end, one guarding the forge. Anything dumb enough to try cracking the box gets shredded before it touches the belts.”
+
+CelestOS paused, then replied with a false brightness that grated against Ethan’s nerves.
+
+CelestOS: Probability of success: fifty-one percent. Probability of resource depletion: eighty-seven percent. Advisory: your odds of survival remain statistically unattractive.
+
+“Fifty-one is still better than zero.” Ethan rose, brushing soil from his gloves. The axe felt heavy on his hip, but it was solid and real. “And I’ll make it work. It doesn't need to look good or last forever. It just has to be long enough to keep me alive. And get these resources back to camp.”

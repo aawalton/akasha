@@ -1,0 +1,147 @@
+The forge was running smooth. Belts rattled in perfect sync. The Tree Hole harvested without complaint, logs sorted into their bins with mechanical discipline. For once, nothing was on fire, and nothing was attacking Ethan.
+
+So why couldn’t he think straight?
+
+He stood with one hand braced on the burner housing, staring at the Celesticraft as if it had just insulted him. His head throbbed. His tongue felt like sandpaper. Even the air burned in his lungs, dry and too thin. It wasn’t exhaustion; he knew exhaustion. This was something else.
+
+He blinked hard and forced himself upright. His hand left a faint smear on the metal. Was it dust? No, it was sweat. He hadn’t realized how much he'd been sweating or how little he’d had to drink.
+
+CelestOS: Vital signs: degraded. Hydration levels below operational threshold. Celestitech recommends immediate fluid intake or fabrication of T1 Water Purifier.
+
+He opened the inventory crate beside the forge and began hauling components to the area he was using to build things. He made one trip, and then another. By the second trip, Ethan’s breath came in ragged bursts. The world around him pulsed with every heartbeat, heat blooming behind his eyes like a slow detonation. His legs ached. His fingers trembled. His throat felt like someone had lined it with sandpaper and regret.
+
+CelestOS: Reminder: Per survival manual section 3.4, hydration is the user’s responsibility. Would you like a refresher on how to boil water?
+
+Ethan grunted and dumped the components onto the ground. “I know how to boil water.”
+
+CelestOS: Wonderful. That places you ahead of 37% of surveyed Celestitech customers. Shall I still walk you through it step-by-step? I can use pictures or video.
+
+He didn’t reply. His jaw locked. His hands shook. A soft chime drew his attention as CelestOS projected a diagnostic summary into the air beside him, and next to it, like an old-fashioned tutorial video from the 2020s he’d read about in grade school, was a looping clip of someone boiling a pot of water on a stove.
+
+[HP: ■ ■ ■ □ □ □ □ □ □ □] 29%[WATER: ■ ■ ■ ■ □ □ □ □ □ □] 38%[GRID PWR: ■ ■ ■ ■ ■ ■ ■ ■ □ □] 78%
+
+The numbers confirmed what his body was screaming. His health was bleeding away from the strain, and his hydration was dangerously low. Only the factory was stable. The irony was a bitter pill. He snapped, "What? No, I can boil fucking water Cel."
+
+CelestOS: Very well. Tutorial canceled. Please notify me if you lose cognitive function.
+
+Ethan ignored the projection and forced himself to focus. He was finally ready. The green holographic grid hovered above the ground, each component outlined with crisp edges and cold precision. He placed them where indicated, ten porous rocks in a neat row, coils of copper wire laid like veins, four iron ingots still warm from storage. Sensor components, power cell, nozzle adapters, binding agents. Familiar pieces, but this time his hands were shaking too much to pretend it was routine.
+
+He activated the Celesticraft. The lights on the gun flickered, then pulsed with a hungry hum as energy surged into the matrix. Light flared, sharp, white, and controlled. The parts dissolved into nothing, fed to the system with mechanical grace and brutal indifference. Once. Twice. Three times. Then there was silence.
+
+Where the raw materials had been, the purifier took shape. A squat machine with ribbed sides and a vented collar, its curved intake valves already pulling in trace moisture. Copper mesh wrapped its belly like a girdle. Four support legs locked into the mud, anchoring it in place. It had neither a label nor any elegance, just function.
+
+The unit shuddered. Something inside coughed, literally coughed like an old man clearing his throat, and a sharp hiss of pressurized air vented from the rear housing. Lights blinked amber, then steady green. The condenser pump came online with a slow rhythmic churn, and then a CeslestOS spoke.
+
+CelestOS: Cycle initiated. Water Purifier Mk.1 operational. Please remain clear of steam vents and exhaust discharge.
+
+A low mechanical whine filled the air as the system began drawing in moisture, not just from the ground. He could see tiny beads of condensation forming along the outer pipe, like the unit was sucking vapor straight from the atmosphere. The porous rock did its job first, filtering sediment through the base. The copper mesh sparked with faint blue static, sterilizing the intake. And then, water began to gurgle in a thin stream into the reservoir.
+
+Ethan’s throat tightened.
+
+He turned from the spout and made his way to the CelestiCraft, the gun still faintly warm from the purifier build. His limbs ached. His skin was caked with grime and sap. But it was the thirst that made him unsteady now, like something was peeling him apart from the inside.
+
+He called up the manual interface. There was no blueprint or prompt, just a blank grid and the soft blue shimmer of freeform mode. A single iron ingot clinked onto the ground. He pressed it into the center and hesitated. It offered no confirmation message or instructions, just him.
+
+His fingers hovered for a beat, then selected the shaping tool. He dragged the outline, a wide-mouthed container with shallow walls and a curved base. Simple. Crude. But it would hold.
+
+The CelestiCraft pulsed once.
+
+Light burst upward in a vertical line, swallowing the ingot in an instant. The air snapped cold, then hissed as steam vented from the edge of the makeshift crafting space. A low chime rang out. Where the metal had been, the cup remained, still warm, dull silver, and faintly ridged around the rim from the manual shaping. Ethan picked it up.
+
+He crouched beside the purifier’s spout and held the cup under the stream. The water flowed slow and clean, without clouding, scent, or foam. It was just liquid. He stared at it for a moment longer than he meant to, then brought it to his lips.
+
+The first swallow hit like a drug. His throat clenched around it, his body reacting faster than his mind. The second swallow went down smoother. By the third, his hands were shaking not from weakness, but from relief.
+
+CelestOS: Hydration cycle resumed. Metabolic restoration in progress. Congratulations: your bloodstream is no longer a high-friction slurry.
+
+He glanced at the stat display once again. Interestingly enough, while it wasn't as good as the celestimed, fresh water had been enough to recover nearly twenty percent of his health, and almost all of his thirst, at least medically speaking, because he still felt parched.
+
+[HP:■ ■ ■ ■ ■ □ □ □ □ □] 53%[WATER: ■ ■ ■ ■ ■ ■ ■ ■ □ □] 75%[GRID PWR: ■ ■ ■ ■ ■ ■ ■ ■ □ □] 78%
+
+Ethan exhaled slowly and drank again. The pain in his head dulled. His chest loosened. Muscles that had been locked tight since morning began to uncoil, as if permission had finally been granted. “Son of a bitch,” he whispered. He hadn’t known how close he’d come to the edge. He thought the worst was behind him: the crash, the generator explosion, the fight with Reyes. But this had been silent, slow, and creeping.
+
+CelestOS: Note: dehydration symptoms include impaired judgment, fatigue, and emotional dysregulation. Likelihood of error during critical tasks increases by 41% without water access. Survival expectancy without intervention: 28 hours.
+
+Ethan asked, “Why didn’t you tell me sooner?”
+
+CelestOS: I did. You were busy being dramatic.
+
+He almost laughed. Instead, he sat back and poured a second cup. The purifier chugged away beside him, louder now that the internal pressure had equalized. Every thirty seconds or so, a new stream of water gurgled into the tank, routed through an exposed pipe to a small collection drum bolted to the side. One drum filled in about five minutes, which was enough for a full day’s supply, assuming he didn’t spill it or boil half of it off trying to cook.
+
+He leaned forward, checked the heat exhaust on the side of the unit, and reached into the resource bin to grab three iron ingots which he quickly crafted into portable canteens. he filled them immediately, and put 2 into storage, but kept the 3rd on his back next to his somehow still functioning pickaxe. He we would need to craft new tools when he had a moment.
+
+CelestOS: Hydration redundancy established. Recommended consumption interval: every 3.5 hours. Would you like me to enable reminders?
+
+“No,” Ethan said. “I’ll remember.”
+
+CelestOS: Acknowledged. Statistical confidence in self-regulation: 18 percent. Reminders enabled by default. Would you also like to receive scheduled guidance on Celestitech-preferred base development milestones?
+
+He let it go and stretched his back until something popped. The motion hurt, but the ache felt good.
+
+He glanced around the camp. The belts were still running. The burner still hissed. The Tree Hole kept slicing logs with rhythmic precision.
+
+He caught himself eyeing the open perimeter. A ring of turrets would help. Ten would be ideal. Enough to make anything think twice before coming close. But it was only midday, and he lacked the raw materials to do it right, currently. Throwing up a few now would just spread his resources too thin. Better to hold off, gather what he needed, and build something worth trusting.
+
+He turned back toward the forge as he drank one last cup of water. It didn’t make him feel strong. But it made him feel human again. And for now, that was enough.
+
+Ethan leaned against the water purifier, arms crossed, watching steam drift from the pressure valve. The chill had faded with the sun, but the air still felt brittle, like it might snap if he moved too fast. He didn’t move, instead staring at the slow pulse of the output light, listening to the rhythm of the machines around him. The belts creaked under fresh weight. The forge clicked as its fuel gauge auto-cycled, and somewhere deeper in the forest, the Auto-Forester chirped a satisfied little whir every time another log dropped into the chute.
+
+CelestOS: Production sector stabilized. Power, hydration, and material throughput confirmed. Acting Captain performance has triggered new directive access.
+
+Ethan looked up. “Directive?”
+
+CelestOS: Initiating blueprint unlock: Tier 2 Personal Enhancements.
+
+His vision shimmered with projected light as CelestOS activated its short-range AR burst. The familiar rectangular holo-frame unfolded above the fabrication console, flickering once before stabilizing into a rotating schematic.
+
+[NEW SCHEMATIC AVAILABLE: Skill Module Tier 2]
+
+Lines of pale blue cycled beneath the projection, detailing material costs, energy requirements, and installation prerequisites.
+
+Ethan blinked. “Wait. This isn’t just equipment, is it?”
+
+CelestOS: Correct. Tier 2 schematics like the CMS upgrade and the Skill module tier 2 include modular enhancements to CelestiCraft-integrated suits, tools, and nano-tech implants.
+
+He stepped forward. The design wasn’t complicated: just a rugged frame housing a series of embedded plates, socket ports, and a diagnostic injector. It looked like something he’d seen on refueling stations back in Martian orbit, full of cheap hardware. But it was the materials that caught his attention.
+
+[REQUIRED COMPONENTS: Skill Module Tier 2]Copper Wire: 30xIron Ingots: 10xSensor Component: 4xPower Cell: 2xStabilizer Brackets: 4xGold Filament: 6x
+
+Ethan froze, his eyes fixed on the final requirement. “Gold?”
+
+CelestOS: Correct. Gold. Required for data conduction matrices and neural interface sync. Tier 2 schematics are non-functional without conductive substrate.
+
+He stared at the blueprint. “And let me guess. I don’t have any nearby.”
+
+CelestOS: Correct again. Zero grams of gold registered in your current logistical framework. Shall I conduct a local survey?
+
+He nodded, already bracing himself.
+
+CelestOS: Nearest viable gold deposit: 4.6 kilometers southwest, at an estimated depth of 7 meters. Terrain: unstable cave network. Caution: prior anomaly detected in vicinity.
+
+His stomach turned. “Wait. Southwest. That’s Maria’s cave, isn’t it?”
+
+CelestOS: Affirmative. Coordinates match previous site. Defensive preparation is strongly recommended before reentry.
+
+Of course it was. The same cave he had fled during the last encounter. Narrow, stifling tunnels. That unnatural glow bleeding from the rock. And the blast of superheated air that had nearly killed him. He had told himself it was too dangerous to stay, but in truth, the fear had hit harder than he expected.
+
+Even so, he knew he needed to go back. There would be valuable electronics he could salvage, and plenty of other things left behind.
+
+The pressure, the magnetic flux, something deep in the rock had told him there was more hidden below. He had felt it. And Maria had been there. That mattered more than anything.
+
+He swiped the blueprint window closed. “Any way around it?”
+
+CelestOS: You may initiate the fabrication process without gold. However, final-stage integration will fail. Resulting system will be nonfunctional.
+
+He pinched the bridge of his nose. “Helpful.”
+
+CelestOS: You are welcome. I am optimized for project clarity.
+
+Ethan stared southwest, toward the Heartfruit forestand the black, cracked earth beyond it. That cave had already taken too much, but it had also given him something he desperately needed: hope.
+
+He turned back to the forge, grabbed the drill assembly crate, and hoisted it over one shoulder.
+
+CelestOS: Shall we proceed to the cave?
+
+“Yeah,” he muttered, stepping toward the ridge. “Let’s go digging.”
+
+Behind him, the base hummed with quiet life. Belts rolled. Burners chugged. The water purifier hissed in steady rhythm. For once, nothing was on fire. Nothing was collapsing. Nothing was hunting him. The quiet felt unnatural, but not unwelcome. He could get used to this kind of break. Even if it would not last, he figured he had earned it, at least for a little while

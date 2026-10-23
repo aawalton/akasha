@@ -1,0 +1,157 @@
+The sun was high, burning pale against Veslaya’s haze, and the camp thrummed like a chest cavity full of mechanical hearts and arteries. The forge pulsed with heat, a constant hiss of steam bleeding from its vents, while the conveyors rattled in uneven harmony, carrying ore and ingots like veins moving blood. Turrets tracked in lazy arcs, servos whining as they returned to idle.
+
+Ethan stood in the center of it all, hands braced on his hips, sweat dripping down his brow, and for once he wasn’t staring at a half-broken survival kit or wondering which direction the next disaster would come from. The factory was far from perfect, but it was his.
+
+He tilted his head back and let out a laugh and a breath he hadn’t realized he was holding.
+
+CelestOS chimed in at his elbow, voice as bright and corporate as a motivational seminar.
+
+CelestOS: Congratulations, Acting Captain. Productivity has increased forty-seven percent since yesterday. Probability of delusions of grandeur has increased sixty-two percent.
+
+Ethan barked a short laugh. “I’ll frame that. Right next to ‘World’s Okayest Engineer.’”
+
+He let the AI ramble on about throughput and resource saturation but his attention kept drifting back to the sheer motion of the place. The drills churned, ore piled, the forge kept pace, and for the first time since the Apex he wasn’t sprinting to plug a hole in the dam. He’d built something that could stand even while he took a breath.
+
+Maybe it was still fragile. Maybe one bad night could still wipe it all away. But as the sun hammered down and the machines ran steady, Ethan felt something close to dangerous: pride.
+
+He wiped grit from his palms and muttered, “Welcome to the Grit Pit, population: me.”
+
+CelestOS: Noted. Please refrain from branding until a Celestitech marketing officer approves your trademark submission.
+
+“Wasn’t the Gritpit your idea?” Ethan shook his head, smiling despite himself.
+
+The relief lingered only a heartbeat before habit pulled him back down. Pride was nice, but pride didn’t keep him alive. His eyes dropped to the dirt, to the tools at his belt, and the half-finished schematics crowding his mind. With a grunt, he crouched and unhooked the CelestiCraft, the lattice already whining to life as if impatient with his pause.
+
+The handheld gun gave its familiar whine as he powered it on, and a green lattice of light spread outward across the ground. Lines spiderwebbed in crisp geometry, snapping into a holographic grid that hovered a few centimeters above the soil. Within seconds, a translucent schematic flared above the projection, pulsing green where parts were still missing.
+
+“Alright, let’s make some machines. I feel like a dad on Christmas.,” Ethan muttered.
+
+CelestOS: Excellent. Parental bonding is statistically proven to improve worker compliance. Please remember to name each unit as you go.
+
+He rolled his eyes. “I’m not naming six boxes of gears.”
+
+CelestOS: Denial noted. Commencing passive-aggressive tracking.
+
+The grid shimmered, hungry for input. Ethan set down a coil, then another, and the wireframe shifted to match, its lines bending toward something new. Shapes gathered out of nothing, the ghost of machinery pressing against the air like it wanted to exist.
+
+To build the first Sensor Fabricator, he fetched the ingots and copper spools from the crate, one by one laying them onto the grid. Each snapped into place with a faint pop, ghostly wireframes knitting around them until the entire schematic glowed bright emerald.
+
+The CelestiCraft whined, then discharged in a sharp arc. Sparks danced, plasma stitched alloys, resin hissed into hardened casings. The ground smelled like burnt copper and ozone as the parts folded inward, collapsing into a stocky machine with a front panel that blinked to life.
+
+It landed with a dull thunk. Fans inside whirred, and a green diode lit up like a heartbeat.
+
+CelestOS: Congratulations. You have fabricated a Sensor Component Assembly Unit, Model S-1. Suggested names: ‘Sandy,’ ‘Sonic,’ or ‘Sensei.’
+
+Ethan snorted. “How about ‘Shut Up.’”
+
+CelestOS: Recorded. Asset designation: Shut Up, Serial Number 001.
+
+The little box whirred, fans coughing like it was proud of itself. He didn’t have time to admire it; schematics were already queuing in the lattice. One machine became two, then three, until the camp floor started to look less like a survivor’s scrape and more like the corner of an assembly line. By the time the second and third fabricatorss materialized, he was sweating hard enough to sting his eyes.
+
+The machines sat shoulder to shoulder, squat and ugly, like industrial refrigerators exhaling smoke. Each hummed slightly out of sync with the others, overlapping into a mechanical chorus.
+
+The fourth Fabricator landed heavier than the rest, nearly tipping the grid sideways as it dropped into place. Ethan wiped sweat from his temple and braced his hands on his knees. His arms ached from hauling ingots and wire spools, and the heat rising from the machines made the camp feel like a sauna.
+
+CelestOS: Assembly line complete. Morale surveys suggest employees are thirty-four percent happier when machines are named as a family unit.
+
+“Fine,” Ethan growled. “Congratulations, you’re the fabricator Quadruplets.”
+
+CelestOS: Recorded. Asset designations: Quad A, Quad B, Quad C, and Quad D. Parental authority confirmed.
+
+The green glow blinked out, then returned with a broader, heavier outline. Ethan recognized rollers and intake slots even before he dropped the first ingot onto the field. The air hummed with stored discharge, static prickling his arms as if warning him this next one would kick harder. The next schematic for the Conveyor Fabricator was bigger, bulkier, with rollers and intake spools. He slotted in the iron and logs, then fed the copper wire until the schematic pulsed. The CelestiCraft gun kicked harder than usual, discharging in a bright arc that left Ethan blinking stars out of his eyes.
+
+The resulting machine squatted in the dirt, heavy-bellied with a set of rollers already spooling in and out with a slow, lazy churn.
+
+“Looks like a meat grinder,” Ethan muttered.
+
+CelestOS: Excellent observation. Suggested names: Grinder, Girthy, or Sir Chomps-a-Lot.
+
+Ethan pinched the bridge of his nose. “You’re insane.”
+
+CelestOS: Correction: legally sane, corporately optimized.
+
+The joke faded under the glare of a new schematic. This one rose taller than he was, its skeletal frame looming in ghost-green like the shadow of a gun emplacement. He wiped his palms against his pants, already feeling the weight of the materials it demanded. The final project was the Turret Fabricator.
+
+This was the big one: an intake hatch wide enough to swallow a small crate, reinforced plates ringing the sides, and exhaust vents stacked in a crosshatch along its rear. The schematic hovered taller than him, green lines towering like the ghost of a war machine.
+
+Hauling the materials nearly broke his back. Twelve iron ingots stacked like bricks, wire spools rattling against one another, resin seeping from cracked containers. He fed them into the grid one by one, watching the schematic flicker brighter with each piece until the wireframe pulsed emerald and the gun discharged in a deafening hiss.
+
+When the smoke cleared, a machine squatted before him like a steel altar, humming low. Its front hatch clunked open, waiting for input, while the targeting panel blinked red once before going green.
+
+CelestOS: Congratulations. You have birthed a Turret Assembly Module, Model T-1. Suggested names: Terry, Terminator, or Tim.
+
+Ethan dropped onto a crate, chest heaving, and wiped the sweat from his brow. “Tim the Turret Factory. Sure. Why not.”
+
+CelestOS: Recorded. Tim it is.
+
+The turret hummed, slotting into the chorus of his other machines until the whole camp sounded alive with industry. The grid held steady for a long moment, then guttered and dimmed as if spent. Ethan sagged onto a crate, chest heaving, the CelestiCraft still warm in his grip. By the time it powered down fully, the dirt was crowded with new children of steel.
+
+Six new machines hulked in the dirt, vents rattling, fans buzzing, panels blinking. The steady whump-whump-whump of their startup cycles overlapped with the conveyors and forge until the base sounded like a factory floor.
+
+Ethan sat there a long while, listening to it all. His ears rang, his muscles ached, but beneath the exhaustion was something dangerously close to satisfaction. The base was no longer just surviving: it was producing, multiplying, evolving.
+
+He grinned faintly. “Welcome to the assembly line.”
+
+CelestOS: Branding approved. Tagline pending. Celestitech thanks you for your productivity.
+
+The AI’s words faded into the hum of the camp, but Ethan’s stomach told him there was no clocking out. Materials had to be sorted, caches refilled, and components logged. He pushed himself upright, rubbing grit from his fingers, and turned toward the mess stacked by the forge. The crates were a jumble of half-sorted parts: copper coils stacked like snakes, ingots clinking against stone, jars of resin sweating in the heat. Ethan dug through them looking for binding agents when his fingers brushed something soft.
+
+He pulled out the bundle of fibers he’d harvested days ago, back when he’d thought the answer to everything was rushing a new suit together.
+
+For a moment he just held them, the pale strands catching the light of the forge. Back then he’d been frantic, counting every stalk like it was a lifeline, convinced that if he just stitched them fast enough, he’d walk out of Veslaya armored and untouchable. Instead, he’d learned the hard truth: without the electronics, boards, processors, micro-sensors, the suit would never be more than cloth wrapped around panic.
+
+He let out a low breath, rubbing the fibers between his thumb and forefinger. “Forgot I even had you,” he murmured.
+
+CelestOS: Neglectful parenting is a leading cause of asset underperformance. But don’t worry. Celestitech offers affordable family counseling.
+
+Ethan rolled his eyes. “You’re really going to guilt-trip me over a bundle of grass?”
+
+CelestOS: Correction: resource-gated proto-child. Left alone, unsupervised, unloved. How tragic.
+
+He smirked despite himself. “Guess that makes me a deadbeat dad, huh?”
+
+CelestOS: Confirmed. Would you like me to file the appropriate HR paperwork?
+
+Ethan shook his head, still smirking at the ridiculous exchange. His hand lingered on the bundle of fibers, rough but light, reminding him of the first frantic days when he thought thread and cloth could solve everything. It was almost funny now, the way desperation had made him believe in shortcuts. He carried the bundle back to the workbench spreading the fibers across its surface.
+
+His hands worked on instinct, sorting thick stalks from thinner threads, twisting a few together just to feel their strength. For the first time, the act didn’t feel desperate. The electronics were still out of reach, but that wasn’t failure anymore, it was simply the next step.
+
+The thought steadied him. Progress wasn’t about grabbing at miracles. It was about stacking small victories until something larger took shape.
+
+He stared down at the pile of leftovers, strands too short or frayed for real suit work. The idea struck him suddenly, ridiculous but irresistible.
+
+He fetched a pouch of resin, poured it over the scrap fibers, and kneaded until the mixture turned sticky and gel-like. then he used the free form option on the Celesticraft.
+
+The result was a lumpy, uneven, and faintly chemical-smelling pillow, his first on Veslaya, but it was soft enough when he pressed his hand against it.
+
+He barked a laugh, shaking his head. “Weeks of bleeding for survival, and the best thing I’ve made is a goddamn pillow.”
+
+CelestOS: Correction: a lumpy pillow. Congratulations. You’ve abandoned six hardworking fabricators to dote on a newborn vanity project. Parental neglect confirmed.
+
+Ethan dropped the pillow onto a crate with a grin. “Don’t worry. I’ll split custody. Weekends with Dad.”
+
+CelestOS: Please remember to provide emotional support and consistent feeding schedules. Or would you like me to report you to Asset Protection Services?
+
+He laughed harder, the sound bouncing rough and raw off the machines. For once, it wasn’t the laughter of exhaustion or fear, but something lighter. The fibers weren’t just fibers anymore. They were a reminder that he wasn’t where he’d started, frantic and cornered, but here, building, making things that could last.
+
+He pressed the pillow experimentally again, resin squishing beneath the fabric, and shook his head. “Ugly little thing. But you’ll do.”
+
+The pillow sagged in his hand, ugly as sin, but soft enough to make him laugh. It was neither a weapon nor a tool, just proof that he could take scraps and shape them into something more than survival. He tucked it under his arm and leaned back, listening. The machines hummed around him, his so-called “children,” while CelestOS muttered about compliance rates and abandonment issues. Ethan leaned back against the crate, pillow tucked under one arm, and let himself smile at the absurdity of it all.
+
+By the time the forge dimmed to its night cycle, the camp had taken on a life of its own. Turrets tracked in slow arcs, lenses blinking red-green. The conveyors clattered like iron rain, carrying ingots toward waiting bins. The new fabricators hummed, vents sighing in uneven rhythm, as if the whole compound were breathing.
+
+Ethan sat cross-legged in the middle of it, staring at the ridiculous lump of cloth in his hands. The pillow still smelled faintly of resin, tacky in spots where it hadn’t cured right, but when he pressed it against his cheek it yielded just enough to be soft. Softer than the dirt. Softer than the steel of a crate corner.
+
+He stretched out by the forge, head resting on the pillow. The ground was uneven, the night air still sharp with grit, but the simple act of having something to cushion his head felt like a luxury suite.
+
+CelestOS: Reminder: machines require routine attention. Leaving them unsupervised overnight may result in catastrophic failure. Or worse, feelings of abandonment.
+
+Ethan closed his eyes, smiling faintly. “Good. Let ‘em miss me.”
+
+He let his eyes fall shut, the forge’s glow painting the insides of his lids a tired red. The hum of conveyors and turrets blurred into a single lullaby, rough but steady, the sound of a place that could keep itself alive without him. For once, he trusted it enough to loosen his grip and let the factory work on without him.
+
+Turrets kept watch. Fabricators churned. The hum of industry bled into a white noise that smoothed over the edges of his thoughts. For the first time since Veslaya tried to kill him, Ethan let go.
+
+Sleep came heavy and full, without the usual startle awake at every creak or screech.
+
+The last thing he thought before darkness swallowed him was that the machines would still be there when he woke, and for once, he believed it.

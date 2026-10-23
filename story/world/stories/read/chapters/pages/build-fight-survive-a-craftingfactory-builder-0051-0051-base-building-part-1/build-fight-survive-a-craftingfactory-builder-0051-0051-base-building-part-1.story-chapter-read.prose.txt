@@ -1,0 +1,111 @@
+Ethan stood at the center of the camp, arms crossed as the forge vented a soft plume of steam. The belts rattled, turrets tracked in lazy arcs, and the drills ticked like distant metronomes. On paper, it was progress: machines humming and resources piling up. His gut said the Turret coverage was still a liability. He’d been patching gaps in panic, throwing stuff at whatever crisis screamed the loudest. That was survival by reaction, and unfortunately, this planet had shown what happened when you lived like that.
+
+He started a slow walk around the perimeter, boots crunching on grit. The first turret scanned dutifully across the gorge mouth, copper barrel glinting in the dull light. Good coverage for that approach, but too isolated; if something flanked from the treeline, it would be blind before it fired a shot. The second turret faced the Auto-Forester, its field of fire steady but narrow. The third sat near the pod, sensor light pulsing like a tired heartbeat. He glanced at the others he had up.
+
+“CelestOS, show me coverage,” he muttered.
+
+A grid overlay blinked into view, stark blue cones spreading across the camp. He winced. The cones overlapped, sure, but only barely. Big gaps at the southern choke and the eastern ridge. Anything with half a brain could walk through those blind spots and chew the place apart before he made it out of bed. How he had survived the night, even with a wall, he didn't know.
+
+CelestOS: Turret perimeter coverage at forty-two percent. Wall perimeter coverage at eighty-seven percent. Threat-deterrence probability: inconsistent.
+
+“Inconsistent?” He snorted. “That’s a polite way to say ‘you’re screwed.’”
+
+CelestOS: Correct. Would you like me to draft your posthumous performance review in advance?
+
+“Skip it.” He crouched near the ammo feeder bins and tugged one open. A handful of copper ingots clinked inside; he really needed to increase his copper output. He tapped the edge of the box, jaw tight.
+
+It wasn’t just the arcs; it was the ammo too. Every turret was hungry, and he was still hand-feeding them like pets when the conveyor belts were unable to produce the amount needed. When a horde hit again, he’d be sprinting between feeders with ingots under his arms until something ripped him in half.
+
+CelestOS chimed in, voice sweet as acid.
+
+CelestOS: Proposal logged. Operation: Cover Your Ash pending authorization. Warning: projected material costs are significant. Estimated fatigue penalty: severe.
+
+“Yeah,” Ethan said, rubbing grit from his face. “But it’s the difference between a base and a grave.”
+
+He exhaled slowly, squinting against the glow of the forge. The list was clear now: fabricate another drill, reposition turrets for overlapping arcs, and stock ammo until the bins groaned.
+
+The forge let out another belch of heat as Ethan cleared a spot on the nearest crate. He dragged a finger through the ash and sketched three circles: turret placements. Then he started adding the ugly parts: wire, gears, plates, feeder bins. The list sprawled outward until the crate looked more like an autopsy than a plan.
+
+“Alright,” he muttered, “let’s see where the corpse rots first.”
+
+CelestOS chimed at once, overlaying numbers across his messy sketch.
+
+Material check:Hardened wood stock: 160%Iron plates: 142%Copper wire: 58%Gear assemblies: 75% requiredPower cells: 5 in reserve
+
+Ethan blew out a sharp breath. “Of course it’s the copper. It’s always the damned copper. How many Turrets can I build for now before needing to expand my empire?” He thought he had built enough last night and been dead wrong, so clearly he needed to expand faster and further.
+
+CelestOS: Current supplies are enough for three turrets before copper resource is overloaded.
+
+Copper meant digging, hauling, smelting, and then babysitting the forge while it spat out new ingots. And then, the gear assembly wasn’t even producing enough. He’d have to fabricate them from scratch for any new turrets one at a time, instead of two. A tedious, power-hungry build that would eat half a morning on its own, unless he started building up the infrastructure he needed. He felt a headache building as he rubbed his temples.
+
+CelestOS: Warning. Gear assembly fabrication requires sustained power draw exceeding baseline. Recommend delaying until after peak turret activity.
+
+“Yeah, because the wildlife will politely schedule around us.” He rubbed his eyes and leaned back. The numbers weren’t catastrophic, not yet, but they told a story: if he went straight into turret fabrication, he’d choke on wire and ammo within hours. If he pushed the gear first, the forge would stall other outputs and the belts would clog. It was the same pattern over and over, scrambling from one shortfall to the next with neither buffers nor slack.
+
+This had to change. He pulled another crate closer, this one half-full of ore, and tipped it out into neat rows of rough ingots. “Step one: copper buffer. Step two: Power. Step Three: gear buffer. Step Four: don’t die.” He paused, lips quirking. “Step five: stretch goal: sleep.”
+
+CelestOS: Unauthorized optimism detected.
+
+“Log it, and shove it.” Ethan said, sketching out arrows from forge to feeder lines. He marked choke points, circled where new conveyors would split off, even drew in the overlapping arcs for the turrets themselves. This wasn’t improvisation anymore; this was the board, the flow, the whole system. It was time he built a real base, once he felt safe enough to venture out to another copper mine.
+
+The crate lid was a mess of ash and fingerprints by the time he straightened. Wiping his hands on his pants and leaving gray streaks, he said softly, almost to himself, “Alright, let’s start for real.”
+
+The forge’s heat pressed against his face as he watched the copper output fall onto the conveyor belt to be carried away and brought up the CelestiCraft interface. The schematic blossomed in cold blue, a neat wireframe promising motion and teeth and recoil. He pulled the first bin of iron into reach, then copper, then the boxed servos with their oily paper still clinging to the housings. The workbench became an assembly line, everything placed where his tired hands could find it without looking.
+
+“Queue one,” he said. “Authorize pull.”
+
+CelestOS: Authorization granted under Celestitech policy subsection 3.2. Warning: user fatigue exceeds recommended crafting threshold. Would you like to hear the inspirational speech for exhausted personnel?
+
+“Hard pass.”
+
+The intake iris opened and the machine ate his materials, piece by piece, polite as a shark. The air filled with the thin scream of cutter heads and the thump of hydraulic rivets. Blue light stuttered around the forming frame until the weight of it settled onto the crafting area with a mechanical sigh. A lens blinked red, then green. The turret looked like everything else out here. Ugly in the right way. Built to endure.
+
+He lifted from the knees, legs shaking, and carried the unit to the first pin he had marked during the audit. The mount took the weight. The tripod feet bit into stone. He twisted the locking ring until the servos protested, then tapped the boot menu to cycle the targeting sweep. The barrel tracked, paused, then tracked again. He adjusted the angle by three degrees and watched the AR cone bloom outward to meet the edge of its neighbor’s field. Overlap, finally. There was no more blind elbow for something clever to slip through.
+
+“Two more,” he muttered, already turning, and set about the next build.
+
+The second build went harder than it should have. His fingers cramped when he tried to seat the gear assembly, and the CelestiCraft chirped for a fresh wire spool halfway through the coil. He fed it without thinking, eyes heavy, mind floating a few inches behind his skull. When the shell closed and the status light warmed from red to green, relief came with a small sting of pride. He carried the turret to the treeline by the Auto-Forester and set it low under the canopy where the barrel could rake the underbrush. The cone painted the grass with pale light. He trimmed it left until it overlapped the first turret across the yard. The gap vanished.
+
+The last one he positioned by the pod shell, half-covered by a cut plate he had jammed into the dirt as a windbreak. He wanted this one close because sleep was a cruel negotiator and he needed a gun that would wake before he did. He locked the feet, plugged the power tail into a junction, and waited through the startup chirps. Green came up.
+
+The barrel steadied on the mouth of the gorge. He stepped back and let the overlay fade so he could see the real thing. Three guns, three lines, a weave instead of three dots on a map. Southern choke covered. Eastern ridge stitched. Not enough to call safe perse, but enough to feel like he was for sure.
+
+CelestOS: Perimeter coverage increased. Revised deterrence probability: measurable.
+
+“Measurable is better than imaginary.”
+
+CelestOS: Correct. Imaginary deterrence has underperformed across all known deployments.
+
+He snorted once, and went back to the celesticraft.
+
+The belts were the missing artery. He could feel it the way a mechanic feels a misfire, a rhythm off by half a beat. He dragged two stacks of conveyor sections to the forge’s output and brought up the routing overlay. A thin line traced from the copper crate to a splitter, then forked toward the feeder bins. The path looked clean on the schematic. On the ground it meant knuckles and splinters and lifting more weight than he wanted to admit he could handle.
+
+He snapped the first run into place, low and tight to the ground so nothing big could get leverage under it. The rollers hummed when the power hit, a gentle vibration through his palms that told him the bearings were true. He cut the corner around the water tank, ducked under the iron line, and fed the belt up to the Auto-Forester turret’s port. The hopper gate clicked when it accepted the connection and a single copper ingot rattled forward to test the throat.
+
+“Flow check,” he said.
+
+CelestOS: Feeder one accepting input. Throughput within tolerance. Please refrain from inserting fingers.
+
+“Copy,” he said.
+
+The second line he hugged along the inside of the sleeping zone, not for efficiency but because a strip of moving steel made a decent trip line for anything that wanted his face in the night. He split the route near the crate stack, sent one branch to the pod-side turret, and the other along the ridge to the gorge gun. Every corner he braced with scrap plate and half-buried stone so a charging body would slide rather than lift. The belt hummed, steady and patient. The sound calmed something animal in his chest.
+
+He fed a test stack into the forge output and watched the ingots drift like slow fish. They hit the splitter and chose lanes without argument. The hoppers drank one each and held the rest in queue. When the first hopper read full, the line chattered once and the surplus rolled past toward the next gun. It was simple, boring, and perfect.
+
+CelestOS: Resupply delay now acceptable. Please note, acceptable is not the same as ideal. For ideal, please die and be replaced by a full team.
+
+"Put it in the suggestion box."
+
+CelestOS: The suggestion box was incinerated during the Apex incident. Would you like to fabricate a new one?
+
+He tightened the last brace by the Auto-Forester and leaned back on his heels. The yard looked different when ammo moved without him touching it. Less fragile. The guns could eat now, and the belts would keep feeding as long as the forge kept breathing.
+
+He walked the lines once more, tapping each brace, checking each gate. Then he opened the AR again and painted the arcs one more time. Blue cones wove together over packed earth and scarred metal. The gaps were small now, manageable. The plan on the crate lid had turned into a thing he could lean against.
+
+“Run me a silent test,” he said. “Simulate low-volume contacts from west and south. I want to see bin levels drop and refill.”
+
+CelestOS: Running simulation. Result: ammo consumption sustained. Refill delay under threshold. Recommendation: eat something that is not stale protein paste.
+
+“After,” he said, already scanning the tree line.
+
+The light broke wrong as the sun slipped above the ridge. Colors flattened. Edges went soft. That was when things tested fences, when patience ran out and hunger took the wheel. He stood in the center of the camp with the forge at his back and watched the treeline become a single dark thought. It felt like he was shooting himself in the foot spending so much on turrets, but ever since choosing resources over the turret, he'd regretted the choice in the back of his mind. But now, now he was safe and he could get the new copper drill up and running. With his vision in mind, Ethan took off.

@@ -1,0 +1,109 @@
+The hauler’s treads clattered against the rock as Ethan eased it to a stop beneath the ore turret’s shadow. The basin’s heat dropped away the moment he stepped down, replaced by the weird chill that breathed from the cave mouth. He adjusted the makeshift strap on his axe and ducked inside the cave, each step echoing on stone he already knew too well.
+
+The air smelled of damp moss and burned circuitry, which didn’t bode well for a shot at this chip he was needing to find. Cel’s AR overlay flickered warnings about trace particulates, but the levels held steady. CelestOS chimed softly.
+
+CelestOS: Projected venting in forty-eight minutes. Cave stability: acceptable.
+
+The words didn't help. They only reminded him of the last time he’d been here, choking on dust as the cave ceiling threatened to come down, and he rushed to leave. The gold micro-forge intake sat cold at the entrance of the cave. His drill was still bolted into the floor, its scaffolding scorched but unbroken. The turret mount he’d set outside fed power cables in along the wall. Everything was as he had left it, untouched but for the moss that had crept farther across the stone.
+
+When he finally made it to Maria’s cave, he paused. The workstation still glowed at the far wall, casting its pale light over the scattered debris. The old computer looped the same message, Maria’s voice echoing against the stone. Ethan froze at the sound, throat tightening. She spoke with the same urgency and fear, as though she were still here, trapped in that moment.
+
+He forced himself forward, reaching the workstation. He pressed a key and the screen stuttered. Maria’s voice cut short, and the cave fell into silence. The little drone under the desk clinked once, its casing tapping futilely against the metal, like a trapped insect.
+
+“Easy,” Ethan said , sliding the axe into place under the desk leg. He braced and pushed. The axe shrieked against the weighted debris, loud enough to make him wince, but the desk shifted an inch, then another. The drone stuttered forward, still snagged. Ethan jammed his shoulder into the frame and heaved. The desk gave way just enough for the little machine to stumble free.
+
+It collapsed almost immediately, metal legs splaying, motors whining in uneven rhythm. Ethan caught it before it hit the ground, the weight awkward in his arms. Dust shook loose from its plating, settling into the cracks.
+
+An AR pane blinked open in front of his eyes, CelestOS’s voice as clear and clinical as ever.
+
+[Unit: Scout Drone 4-B: Status: Impaired][Core Module: Celestitech Proprietary Chip (Tier 2): Operational]
+
+CelestOS: Core module identified. Extraction procedure available. Estimated time: six minutes.
+
+Ethan tightened his grip. After all this time, after everything he’d scraped together, the missing piece was right here: in a battered machine that had once belonged to Maria.
+
+The drone weighed more than it should have, sagging in his arms, its casing cracked and dulled with cave grit. A single red sensor flickered weakly, pulsing like the heartbeat of something too tired to live. Ethan adjusted his grip and stared at the AR pane still hovering in front of him.
+
+Ethan’s jaw tightened. “Six minutes to kill it, you mean.”
+
+CelestOS: Correction. Six minutes to harvest a vital component required for your survival. This unit’s psychological utility is negligible compared to the chip’s function for your suit.
+
+Ethan’s thumb brushed a line of worn paint on the drone’s casing, half-hidden beneath the months grit. The flake caught, peeling upward, and for a heartbeat he saw it clean: yellow scrawled against steel, the faded arc of a smiley face someone had drawn long ago. Maria’s dog-bot: Harold.
+
+The cave fell away, and he was back in their apartment they shared before deployment. Maria knelt cross-legged on the floor of her workshop, a soldering iron clamped between her teeth while she wrestled with the same drone’s stubborn panel. Her hair was tied back in a mess of braids and loose strands, dark eyes narrowed at the machine as though she could will it into obedience.
+
+Ethan had leaned against the bulkhead, arms folded, watching her fight with it. “You really gonna waste time on that thing?” he’d asked. “Command’ll just requisition a new one.”
+
+Maria spat the iron into her hand and shot him a look. “Not dead until it won’t boot.” She rapped the drone’s sensor with her knuckle, coaxing it to blink. “And even then, sometimes you can trick them back.”
+
+He remembered her tired, crooked grin, bright in the hangar’s harsh light. “Machines aren’t just tools when you’ve carried them long enough. You patch them, they patch your soul. That’s the deal.” She rewired a connection, sparked a relay, and the drone chirped awake. The sound had been small and mechanical, but Maria’s laugh filled the bay like victory.
+
+Ethan had shaken his head then, smiling despite himself. “You’re ridiculous.”
+
+“Practical,” she’d corrected, snapping the panel shut. “You throw things away too easy. Maybe that works in college, but out here in the real world?” She’d patted the drone’s side with something like affection. “Out here, you keep what works. Even if it’s ugly. Especially then.”
+
+The memory faded, the workshop dissolving into damp stone and the sour tang of moss. The drone sagged in his arms now, legs bent and servos whining, but its red sensor flickered the same way it had under her hand: stubborn and alive, refusing to quit.
+
+Ethan swallowed hard, throat raw. CelestOS’s voice droned on, clinical and insistent, but he wasn't listening anymore. Maria had already answered the question.
+
+The drone shifted weakly, a bent leg scraping against his forearm. The sound was faint, a tired servo grinding like it had forgotten how to move, but it jolted through him all the same. For a second, Ethan almost believed it was answering, protesting the idea of being gutted for parts.
+
+CelestOS: Advisory. Extraction procedure remains optimal. Sentiment is a non-factor.
+
+The drone twitched again, sensor pulsing in uneven rhythm, red light bleeding across his palm. Ethan tightened his grip as if steadying it, his jaw locked.
+
+“Not a non-factor,” he said. “Not anymore.”
+
+He shook his head, brushing dirt from the cracked plating with his thumb. “Negligible? This was Maria’s. She probably built it, patched it, talked to it when nobody else would. And you want me to gut it like a busted crate?”
+
+CelestOS: Affirmative. Scout Drone Unit 4-B has exceeded design service life by one hundred eighty-seven percent. Probability of further functionality: 29.1%. Probability of successful chip integration: 96.4%. The rational choice is extraction.
+
+“The rational choice.” Ethan laughed once, harsh and empty. “Like rational is what’s kept me alive this long.”
+
+CelestOS: Statistical analysis indicates survival probability increases by forty-eight percent if you complete the Tier-2 suit within twenty-four hours. Without it, likelihood of fatal encounter escalates with each expedition.
+
+His voice rose, echoing off the stone. “So I kill the one thing of hers I’ve found just so I can maybe buy myself another day?”
+
+CelestOS: Clarification. You wouldn't kill anything. This drone is a machine. Its sentimental value is irrelevant to mission priority.
+
+Ethan’s grip tightened on the drone until its casing creaked. He whispered, more to himself than to her, “Not to me.”
+
+CelestOS: Then reframe. By repurposing this unit, Maria’s creation continues to serve. Her legacy ensures your survival. That is efficiency.
+
+He let out a bitter laugh. “You think she’d want that? For me to tear apart what she left behind?”
+
+CelestOS: Mission Commander Vasquez prioritized results. Available records indicate she accepted necessary sacrifices. There's no evidence she would oppose this action.
+
+“You don’t know her.”
+
+CelestOS: I have seventeen terabytes of her mission files.
+
+“You don’t know her.”
+
+He lowered to one knee, setting the drone carefully on the stone. Dust fell away from its battered legs as he brushed the moss off with slow, deliberate strokes. The sensor flickered faintly, almost in rhythm with his breath.
+
+“This isn’t just a part,” he said softly. “This is hers. And I’m not gutting it.”
+
+CelestOS: Advisory. Refusal lowers survival probability. Emotional override detected.
+
+Ethan leaned back against the workstation, throat raw, and managed a humorless smile. “Then I’ll find another way.”
+
+The sensor blinked once, weak but steady. He exhaled, something loosening in his chest, and the name slipped out before he could stop it. “Guess it’s you and me now, Harold.”
+
+Ethan staggered to his feet, cradling Harold against his chest. The drone’s cracked sensor pulsed faintly in the dim light, its weight awkward but steady.
+
+CelestOS: Advisory. Major venting event in twenty-one minutes. Recommend immediate egress.
+
+Yeah, I got it,” Ethan said, shifting his grip. His arms ached, but the thought of being boiled alive in the cave kept his legs moving.
+
+He retraced his path with his boots crunching grit, the AR timer ticking down in the corner of his vision. Every step closer to daylight seemed to squeeze the clock tighter, his pulse syncing with the count.
+
+At the cave mouth, the basin stretched out in a haze of heat. Steam hissed through the ground in sudden bursts, as though the planet itself were holding its breath. Ethan sprinted the last few meters, threw Harold into the hauler’s cargo cradle, and clambered into the driver’s seat.
+
+The hauler jolted to life, conveyor treads squealing as he slammed it into motion. AR waypoints flared bright, threading through a field of pressure domes swelling with vapor.
+
+One vent erupted just off his flank, white steam clawing skyward. The baffles groaned as heat licked across them, resin seams dripping like sweat. Ethan swore and wrenched the controls, hauling the machine wide before the next plume could scald him.
+
+The final ridge broke, and he pushed the hauler hard. The ground quaked behind him as the basin released its fury in a chorus of vents, a wall of steam rising like a living tide. He barely cleared the slope before the air turned white.
+
+Only then did he breathe again, sweat streaming down his back. Harold’s sensor blinked once from the bin, a weak pulse of red through the haze. Ethan managed a shaky laugh. “Yeah. Close call.”

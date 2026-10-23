@@ -1,0 +1,153 @@
+Ethan’s arms screamed with every swing. The crude pickaxe bit into the stone wall, knocking out chips that scattered across the cavern floor like bits of glass. After an hour of non stop swinging he was exhausted. He leaned on the haft for balance, panting, sweat dripping into his eyes. His stomach twisted with a sharp reminder that calories were gone; the suit could dull pain and buffer fatigue, but it couldn’t magic up a meal.
+
+[Rough Stone Acquired: 327/5,000]
+
+The HUD numbers ticked forward so slowly it felt like the suit was mocking him. Every chip was another drop in an ocean he’d never cross. Five thousand rough stone. At this pace, he’d collapse long before he ever got there.
+
+He swung again anyway, the pick head glancing off the wall and sending a shudder up his arms. He hissed, biting down on his teeth. His ribs still hurt from the fall, the dull ache spread every time he tried to draw a full breath.
+
+“Come on,” he said. “One more.” The wall gave up a few more shards, nothing close to the slabs he needed.
+
+[Vitals: Fatigue Rising | Caloric Deficit Forecast: 6–8 Hours]
+
+CelestOS: Observation. Current mining efficiency projects Fabricator completion in 58 hours of continuous labor. Probability of survival: 0.00003%.
+
+Ethan laughed bitterly, the sound more like a rasp. “Fifty-eight hours? You’ll have my skeleton before you get your fabricator.”
+
+CelestOS: Clarification. The Fabricator is a cross-functional assembly platform, not a bench.
+
+He leaned against the pickaxe, shaking his head. “Great. I’ll put the skeleton on the platform, then. Maybe it can finish the job.”
+
+The cavern was silent except for his ragged breaths and the occasional drip of water. The echo made him feel like the cave was laughing too, a slow, steady mockery of his effort. He planted the pick again, knowing the truth: at this speed, the numbers would kill him as surely as any monster lurking in the dark.
+
+He stared at the wall until his vision swam, then glanced back at the HUD counter crawling upward, its pace much too slow.
+
+Ethan slumped against the wall, the crude pickaxe falling beside him like a taunt. His knuckles were raw through the gloves, his breath ragged and shallow.
+
+[Rough Stone Acquired: 345/5,000]
+
+Three hundred and fifty stones. That was all; well not even but close. His arms already felt like they’d been ground into pulp, and his stomach gnawed at itself in protest. He couldn’t keep swinging like this. At this pace, the cave would eat him alive before he ever had a Fabricator.
+
+His eyes drifted across the HUD as he pulled up the suit’s system crafting menu. The nanos answered with a shimmer of potential schematics, shapes like rods and plates hanging in ghostlight. He could feel the weight of possibility pressing at the edge of his thoughts.
+
+“If this thing can build anything,” he said, “then it can damn well build me a helper.”
+
+CelestOS: Correction. Ex Nihilo protocols can construct preapproved schematics within material and power reserves. Helpers are not pre-approved.
+
+Ethan gritted his teeth. “What? What happened to Freeform crafting?”
+
+CelestOS: Advisory. Freeform protocols require continuous high-draw computation. Current reserves cannot sustain this mode without sacrificing oxygen filtration, which is needed this deep under ground. Estimated survival: <1 hour.
+
+“Fine. Not a helper. A machine. Or something maybe like human Powered automation. Something to dig, so I don’t break first.”
+
+CelestOS: Still I don’t advise using Freeform crafting. And Human-powered automation remains an oxymoron.
+
+He managed a dry laugh. “Then we’ll rebrand it. Please, there’s gotta be something.”
+
+The HUD flickered, sketching the ratios of a recipe he hadn’t seen before:
+
+[Autopick Mk.I | Hand-Crank Powered]Raw Plate ×4: 125 Rough Stone  | 2% Raw Rod ×3: 10 Rough Stone  | 1.5% Stone Gear (Large) ×1: 25 Rough Stone | 0.5%Metal Pinion (Small) ×1: 25 Rough Stone | 0.5%Cam Bar (rod+plate): 35 Rough Stone | 0.5%Axle (2 Raw Ingots): 50 Rough Stone | 1%Crude Pick Head ×1: 10 Rough Stone | 0.5%Wedge/Chock ×4: 8 Rough Stone | 0.4%[Total: 288 Rough Stone + 2 Raw Ingots | 7% Power Reserve]
+
+Ethan focused. The nanos stirred, answering his intent with a faint hum. Stone fragments dissolved from his stockpile into motes of green light, twisting together into shape. A rod condensed in his hand, warm and gritty. Next, a plate, rough-edged and imperfect. A gear followed, its teeth uneven but meshed enough to function. A pinion then appeared, glinting faintly with the dull sheen of pseudo-iron.
+
+CelestOS: Observation. Current assembly projected lifespan: 1.2 hours before catastrophic tolerance failure.
+
+“Then it just has to outlive me.” He stacked the plates into a frame, threaded the axle through, seated the gear and pinion, and locked the cam bar across the top. The pick head clattered into place last, ugly but sharp.
+
+He shoved wedges under the frame, braced it against the wall, and grabbed the crank. His arms trembled as he forced the first turn. The mechanism jolted, rattling hard enough to almost kick apart, then the pick snapped forward, slammed into stone, and spat a spray of shards onto the floor.
+
+Ethan barked a laugh, sharp and disbelieving. He cranked again. Thunk. Chip. Scatter. Each cycle bit another handful free.It worked, though it wasn't fast or stable. But in half the time from earlier he had a sizable chunk of stone.
+
+[Rough Stone Acquired: 441]
+
+He pushed himself harder, teeth clenched, the crank chewing under his grip until sweat ran down his back. The counter ticked upward, but slowly.
+
+[Throughput: ~12 Rough Stone/min]
+
+It was too slow. Faster than him, sure, but nowhere near what he needed.
+
+Panting, he sagged against the rig as it clattered on, half-ready to collapse. His head dropped and he laughed again, hollow this time. “One pick isn’t enough.”
+
+CelestOS: Advisory. Correct. This rate of progress will remain insufficient for survival thresholds.
+
+Ethan wiped his mouth with the back of his hand, staring at the shaking frame. His gaze flicked upward. He could already see the new shapes in his head: more rods, gears, and additional pick heads. Not one pick. Three. Mounted in sequence.
+
+He pushed away from the wall, his exhaustion burning into something sharper. “Alright then. If one isn’t enough,” he said, “we’ll build three.”
+
+CelestOS: Correction. Leverage distributed across multiple impact heads will increase efficiency, but also mechanical stress. Estimated lifespan: 3.4 hours before catastrophic failure.
+
+Ethan gave a humorless laugh. “Three hours is a lifetime in here.”
+
+He crouched, sketching with a shard of stone on the cavern floor. It was a crude scrawl: frame plates braced on two stone wheels for stability, wedges to anchor it, and an axle linked to three cam lobes. The lobes would push three crude pick heads in staggered sequence. The same crank, driven by his own hands and strength, would power all of it.
+
+He pointed at the drawing like it was a battle plan. “One crank, three picks. A caveman’s factory line.”
+
+CelestOS: Observation. Asset Ethan appears to be attempting to reinvent industry by hand. Note: efficiency gain unlikely to offset caloric deficit.
+
+“Save the nutrition lecture.” He brushed the sketch away with his palm, his eyes fixed on the suit’s HUD as new recipes lit up for raw rods, plates, and the necessary gears. His reserves dipped just thinking about it, but it was doable.
+
+[Autopick Mk.II | Hand-Crank Powered]
+
+Raw Plate ×4: 375 Rough Stone  | 6%
+
+Raw Rod ×3: 30 Rough Stone  | 4.5%
+
+Stone Gear (Large) ×1: 75 Rough Stone | 1.5%
+
+Metal Pinion (Small) ×1: 75 Rough Stone | 1.5%
+
+Cam Bar (rod+plate): 105 Rough Stone | 1.5%
+
+Axle (2 Raw Ingots): 150 Rough Stone | 3%
+
+Crude Pick Head ×1: 30 Rough Stone | 1.5%
+
+Wedge/Chock ×4: 24 Rough Stone | 1.2%
+
+[Total: 864 Rough Stone + 6 Raw Ingots | 20.7% Power Reserve]
+
+The Autopick chattered against the wall, slow and pitiful. Ethan turned from it, his mind already burning with the shape of the next monstrosity: three picks, one crank, and maybe a chance.
+
+He shoved the last shards into the suit’s nanos, and the drain rippled through him like a pulse of static in his veins. [Resources deducted. Power reserve: –81%.] The HUD flared, and the air in front of him shimmered as if a furnace had just opened. Dust and grit lifted off the cavern floor, drawn into lines of blue light that sketched a wireframe in midair.
+
+The lattice began to fill. Stone thickened into plates as if poured from nothing, edges knitting while dust hissed and fused. Rods spiraled out like bone growing too fast, their seams glowing hot before dulling to gray. Wheels budded teeth and clenched into themselves with a sound like wet stone grinding. Each piece seemed half-born, wrong and jagged, before the glow burned the flaws smooth.
+
+One by one, the parts snapped into place. The cam bar bent across the frame, three lobes locking in sequence, and pick heads sprouted at the end of each, rough-edged and hungry. The crank twisted itself into the rear housing, the axle thickening until it dropped onto the stone with a heavy thud that echoed through his bones.
+
+When the glow died, the Autopick stood there: a squat tripod of stone legs bolted into a low frame, its three pick heads jutting from the front in a staggered row. Each was fixed to a crude swivel that promised to rise and fall in turn, chewing at the wall like blunt teeth. The crank stuck out the back like a broken tailbone, oversized and ugly, waiting for hands to drag it around. Nothing about it was elegant.
+
+The crank resisted at first, stiff and biting. Then the gears caught. The cam bar turned. The first pick slammed into stone with a sound like a gunshot. The second followed an instant later, then the third. Thunk-thunk-thunk. Three strikes for every one of his turns. Chips exploded in a spray across the cavern floor, more than he’d ever seen from a single swing. He gritted his teeth, kept turning, and the rhythm set in: crank, triple-hit, spray of rock.
+
+[Rough Stone Acquired: 361 → 489 → 612]
+
+The counter leapt in huge strides, climbing so fast it made his chest ache with something like joy. His arms burned, but it was a burn that meant progress, not futility. For once, every ounce of effort mattered.
+
+He laughed through his panting, the sound raw and half-crazed. “Three picks, one crank. Eat your heart out, Celestitech.”
+
+CelestOS: Correction. Efficiency rating: 487% above baseline. Asset Ethan has temporarily achieved productivity. Estimated depreciation: rapid.
+
+“Let HR file the complaint,” he shot back, sweat running down his face. He shifted his stance and leaned into the crank harder. The rig thundered into the stone, raining shards and slabs onto the ground, the cavern echoing with each brutal impact.
+
+The floor around him grew littered with rock. Piles heaped higher in minutes than he could have gathered in hours. His whole body screamed with exhaustion, but for once it didn't feel like punishment; it felt like he was winning.
+
+[Rough Stone Acquired: 1,050/5,000]
+
+Ethan staggered back from the rig, letting it settle against its wedges, still trembling with the vibration of his last crank. He bent double, hands on his knees, and laughed until his throat cracked. “You’re ugly,” he wheezed at the machine, “but you’re mine.”
+
+CelestOS: Proposed designation: Lazy Arm Mk.II. Warranty void if used.
+
+He grinned, wiped the sweat from his eyes, and patted the wobbling frame like it was a dog that had finally come to heel. The Fabricator was still far away, but it wasn't impossible. After waking in this tomb of stone, he finally felt like he was clawing forward instead of circling the drain.
+
+The Autopick rattled to a halt, its three heads wedged deep into the stone. The wall split under the strain, a fresh seam tearing open with a groan. Dust spilled out in a slow cascade, curling around his boots.
+
+That was when the ground shivered beneath him. Pebbles bounced. Dust sifted from the ceiling in a drifting rain. The machine creaked in its wedges and went still.
+
+Ethan’s grin faltered. His hand hovered on the crank, caught between triumph and dread as he leaned closer to the ragged breach.
+
+At first it was only vibration, a tremor running deeper than the picks had ever reached, like the sound had found hollow places far behind the wall. He held his breath, waiting. The cavern pressed in around him, his own pulse loud in his ears.
+
+Then he heard it a faint, deliberate, ragged sound. Not stone settling. Not echoes. A sound too steady, too alive.
+
+Breathing.
+
+It came from the dark gap his Autopick had just torn open.

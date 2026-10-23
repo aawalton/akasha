@@ -1,0 +1,109 @@
+Ethan woke to warmth. Maria’s hair brushed his chin, tickling faintly as she shifted closer. Her hand slid across his chest, fingers curling in gentle rhythm with her breathing. He breathed with her, let himself sink deeper, the ache in his muscles dissolving under her weight until he felt whole. He rolled to face her, and the pillow gave way with a wet squelch. He toppled sideways, face-first into dirt, grit filling his mouth and cold earth biting his cheek as the illusion shattered.
+
+He pressed a hand to his chest where her weight had lingered, the phantom warmth already fading. For a moment he just knelt there, grit clinging to his lips, wishing the dream had lasted longer. But chasing phantoms would not help him find her. The only thing that mattered was the work, the fight to carve something real from this place, something that would keep them both safe. The hum of conveyors pulled him upright, steady and merciless, reminding him he still had a chance, so long as he kept building.
+
+He groaned, spitting dirt, as the world pressed back in. Around him, conveyors hummed, fans sighed, and fabricators clattered in staggered rhythm. For once, nothing was burning down, and the wall had mostly survived the night. When he finally staggered to his feet, the sight almost made him laugh. Crates brimmed with ingots, with neat stacks of copper and iron glinting in the pale morning light. Conveyor bins overflowed with spare parts, wires coiled like lazy snakes and sensors blinking faint green in idle mode. The squad of fabricators hummed in staggered rhythm, vents coughing warm air, while the sensor unit clicked contentedly beside them.
+
+He rubbed grit from his eyes, still heavy with sleep, and wondered how long he’d been out. It must have been nearly twelve hours, judging by the angle of the light. Twelve hours without fighting, running, or waking to the sound of monsters clawing at steel. For once, he wasn’t staring at scraps or shortages. He actually had a surplus. A crooked smile tugged at his mouth as he said, “Surplus. Didn’t think that word existed on this planet.”
+
+The smell hit him a heartbeat later, sour, wet, and thick as syrup.
+
+CelestOS: Asset note: workplace hygiene violation detected. Morale index reduced by sixty-four percent. Recommended action: immediate corpse disposal, preferably via incineration or composting. Current rating: 2 out of 10. OSHA compliance: abysmal.
+
+Ethan groaned and dropped straight onto the dirt, grinding the resin-stuffed pillow over his face. It squelched in his ears as he pressed it tight, like trying to bury himself in sticky foam. “Shut up, Cel.”
+
+The stench still leaked through, inescapable and thick as gravity itself. The base was alive, stocked, and defended. By every measure, he’d managed to get ahead, but like fucking always with this place, it was one problem after the other. The pile of bloated corpses rotting just beyond the perimeter was Veslaya's reminder that every victory came with a new nightmare.
+
+He sat there a moment longer, pillow still pressed to his face, before letting it drop. Neither the mound nor the stink it created was going anywhere. If he wanted the camp to stay livable, he had to deal with it.
+
+Ethan pushed to his feet, grabbed a coil of wire from the nearest crate, and trudged toward the heap. The smell worsened with every step. First it was sour, like spoiled meat, then sweet and cloying, thick enough to coat the back of his throat. By the time he reached the pile, the stench had curdled into something chemical and rotten all at once, as if the corpses had been marinated in acid.
+
+He looped the line around the leg of the closest body and pulled. The wire bit down, but instead of giving him leverage, the limb split under the tension. Skin and tendon parted like wet paper, and the leg tore free with a dull pop. He stumbled back, gagging, as the stump sagged open and dribbled ichor streaked black and red, thick as tar, into the dirt.
+
+“Goddamn it,” he said, bile rising hot in his throat.
+
+The rest of the corpse was no better. Its skin, once taut with resin sheen, had collapsed into folds, rubbery and half-liquefied. He tried again, looping the cord under its arm this time, but the same thing happened—the limb sheared off with a sickening rip, releasing another gout of red-black slurry that soaked into the dust.
+
+Ethan yanked the cord free and staggered back, pressing his forearm over his nose. The stench was unbearable now, boiling in the heat, heavy as tar. Flies rose in a black cloud, swarming his face and hair, and he swiped at them with a snarl.
+
+He spat grit, chest heaving, and stared at the heap. “Whatever that resin is,” he rasped, “it’s rotting them faster. Like it wants them gone.”
+
+With a curse, he bent, grabbed the torn leg by its ankle, and heaved it toward the ravine. It landed with a wet slap on the rocks below. One by one, he dragged or carried what he could, tossing split pieces into the gorge until his arms shook and his stomach lurched from the reek. The work did nothing to shrink the mound, only smeared more ichor into the dirt around it.
+
+CelestOS: Projected time to complete disposal at current rate: sixty-three hours. Probability of user collapse due to exhaustion: 94 percent. Probability of factory collapse due to neglect: 78 percent. Please submit overtime request form.
+
+Ethan spat into the dirt. “File it in hell.”
+
+CelestOS: That is not a recognized department. Please choose from Asset Services, Human Capital, or Refuse Management.
+
+“Fine. Put it under Refuse.”
+
+CelestOS: Warning: continued under performance may result in reassignment from Asset to Refuse.
+
+Ethan wiped sweat from his brow, breath ragged. “Demote me? After all this?” He jerked a thumb at the humming factory behind him. “You’re welcome for the ingots, by the way.”
+
+CelestOS: Noted. Ingots credited to Celestitech. Contribution level: marginal.
+
+“Marginal?” Ethan let out a bitter laugh. “Without me, you’d still be sitting in a crater waiting for parts to rust.”
+
+CelestOS: Correct. And without me, you would already be decomposing beside the corpses you are so inefficiently managing. Shall we compare performance reviews?
+
+Ethan shook his head, chuckling despite the stench. “Go ahead, Cel. Write me up. I dare you.”
+
+CelestOS: Advisory: verbal insubordination logged. Demotion probability increased by seventeen percent.
+
+His laugh died in his throat as he pushed himself upright. The bravado felt thin against the weight dragging at his limbs. Every step back toward camp was a stagger, his legs rubbery as if he’d been running for hours, despite his first real night of rest. All he had to show for it was one half-shoved corpse dangling out of sight, and it just wasn’t fucking fair. The buzzing followed him, the stink clinging harder now that it had soaked into his clothes. Back at the pile, flies scattered as he approached, revealing the bulging, rotting mass he hadn’t even dented. The turrets stood watch above it, their servos whining softly, but they didn’t care.
+
+Ethan wiped his face, sweat and stink mixing into a film. He stared at the mound and knew he could drag corpses until his muscles tore and it still wouldn’t matter, not when every night just as many would be added to the pile. He needed a more sustainable solution, but he wasn’t ready to give up yet. So he did what he’d been doing for days and built a conveyor.
+
+Within the hour he had a line of tracks rattling from the heap to the ravine, each section clamped crooked, rollers squealing with every test spin. He manhandled a carcass onto the first belt, grunting as resin-slick flesh smeared across the plating. The conveyor lurched to life, whining as the rollers caught. For a few glorious seconds the corpse actually moved, sliding toward the edge like unwanted cargo. Then the weight shifted. A limb snagged in the frame. The rollers screamed, coughed smoke, and seized up entirely. The body slumped sideways, wedging itself between two plates in a wet, splitting crunch. Black ichor poured across the belt, soaking into every joint.
+
+“Goddamn it.” Ethan shoved at the mess, trying to free it, but the whole section locked up under the weight. When he yanked harder, half the torso tore loose, tumbling only a meter before sticking to the next segment. Flies swarmed instantly, the air thick with their buzzing frenzy.
+
+He stumbled back gagging, sleeve pressed to his mouth. “Perfect. Just perfect.”
+
+CelestOS: Correction: conveyor-based disposal reduces productivity by forty-one percent when misapplied. Recommended upgrade: Tier Two Waste Management Solutions.
+
+Ethan spat bile into the dirt. “Oh yeah? Got a coupon for that, or do I just sell a kidney?”
+
+CelestOS: Advisory: organ liquidation is not a recognized payment method. Assets are expected to retain at least one kidney for optimal productivity.
+
+“Glad you’re looking out for me.” He kicked at the track. It only groaned in protest, gore dripping from its rollers. Maybe he’d shifted one body, two at most. In the process he’d ruined a belt, soaked his boots, and nearly vomited out what little breakfast he’d choked down.
+
+CelestOS: Projected time to completion with current methods: fifty-nine hours. Probability of user death due to exhaustion: statistically amusing.
+
+Ethan spat into the dirt, voice hoarse. “Figures. I can stitch together a factory, but one pile of corpses breaks me.”
+
+He dropped onto a crate, arms trembling from the strain, clothes stinking of rot, boots squelching with every shift of his weight. He stared at the mound, swollen and slick in the daylight, and let out a broken laugh.
+
+“Forget engineering. Should’ve gone into sanitation. At least I'd know how to manage this shit."
+
+The words tasted bitter, and they clung. His brother had gone into engineering, the golden son with the corporate condo on Mars. Ethan could almost see him still, drinking his imported coffee under a tidy red sky. But his brother was gone, and the condo was probably housing some other family’s golden son by now.
+
+“Bet you never did this, huh?” Ethan wheezed, half to the pile, half to the memory.
+
+That thought triggered another. Mars itself. He could see it as clear as if he were still there: waste skimmers buzzing overhead, gleaming white under the thin sky, and corporate flyers swooping down with vacuum hoses that sucked up refuse by the ton. He’d hated the noise back then, griping about how they woke him every other night during basic. Now, he would’ve killed to have one drift over Veslaya and slurp the corpse heap into nothing.
+
+The image made him laugh again, harsher this time. He needed neither a skimmer, nor corporate flyers. No, he just needed something that could move more than his own two arms, something with wheels, treads, and muscle. The thought settled with the weight of revelation. He leaned forward, grinning despite the stench. “Fine. If Mars gets skimmers, then Veslaya gets a trash truck.”
+
+CelestOS: Correction: vehicle schematics are locked at Tier Three. Please wait until you are less pathetic.
+
+Ethan stood, slinging the rope aside. “Screw you. I’ll build one anyway.”
+
+CelestOS: Excellent. I’ll prepare your liability waiver.
+
+He yanked the CelestiCraft from his belt, thumb pressing the stud. A faint green grid spilled outward, crawling across the dirt like light through cracks in glass. The schematic above it flickered aimlessly with no preset blueprint loaded, indicating freeform mode.
+
+“Alright,” Ethan growled, “let’s make something ugly.”
+
+He started slamming parts into the field. Conveyor sections went down first, laid flat and bolted edge-to-edge until they locked into crude treads. Iron plates angled across the sides, with more welded into a shaky cargo bed. He lashed empty storage crates onto the frame as makeshift bins, their edges rattling against each other like teeth. Resin hardened as he poured it into gaps, sealing joints in thick black seams. Copper wires stretched between components like veins, sparking faintly as the grid tried to reconcile his mess into something coherent.
+
+The CelestiCraft whined, plasma arcs flashing too bright as the machine fought to accommodate his improvisation. For a heartbeat, he thought the whole thing would collapse in sparks. Then it slammed into reality with a heavy thunk, nearly toppling sideways before settling onto its uneven conveyor-belt treads. It was crooked, the armor was pitted, and the engine sputtered with uneven coughs, but when Ethan shoved against the frame, it lurched forward a meter, gears grinding, cargo bed and crates rattling. The creation moved.
+
+Ethan burst out laughing, breathless, grimy, and reeking of corpse stench. He slapped the side of the hauler and barked, “I built a trash truck.”
+
+CelestOS: Correction: you built trash. On wheels.
+
+“Still counts.” He leaned against the frame, chest heaving but grinning wide. “Guess I’m a waste-management professional now.”
+
+The hauler coughed again, settling into an unsteady idle. It was ugly as sin and unstable as hell, but it was his. And it was a start.

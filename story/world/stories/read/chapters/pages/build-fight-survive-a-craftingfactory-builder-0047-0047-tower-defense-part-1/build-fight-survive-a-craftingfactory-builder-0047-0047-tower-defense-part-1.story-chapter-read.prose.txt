@@ -1,0 +1,91 @@
+Ethan couldn’t summon the energy to reply. He just watched the collection tray at the bottom of the conveyor system, his gaze fixed on the moment it reset and the next chunk of raw silver clattered into place.
+
+The system of belts and repurposed crates was a testament to desperation. It rattled and groaned as it climbed the rocky slope, its articulated form resembling the skeleton of some terrible, improvised creature. Against all odds, the structure held. The mountain, in its colossal indifference, was an impassive god that was utterly unaware of his fleeting victory against its slopes. But the silver was coming home, one hard-won piece at a time.
+
+CelestOS finally broke the silence, its synthesized voice cutting through the mechanical symphony.
+
+CelestOS: Cargo descent operation: successful. Would you me like to enable background music while you come up with a name? I can offer a selection of pre-internet classical or corporate-approved motivational synth-pop.
+
+Ethan didn’t answer. He let his head fall back against the cool, unforgiving rock and exhaled a breath he felt he’d been holding for hours. The soft buzz of overworked motors, the rhythmic clink of metal on metal, and the occasional heavy chunk of ore settling into the crate were the only sounds he needed.
+
+The whole contraption defied logic. The drops were absurd, the angles hostile, and the layout a chaotic mess of overlapping belts and precariously balanced supports. Yet somehow, this brutal, impossible arrangement possessed just enough flat ledges in just the right places to almost feel intentional. It was as if the planet itself had been mocking him during construction.
+
+“Call it… Chutes and Ladders,” he muttered, the words tasting like defeat.
+
+CelestOS: Chutes and Ladders™ is a registered trademark of Hasbro, Inc. Celestitech reminds you that unauthorized use may result in legal action.
+
+Ethan blinked at the empty air. “Seriously?”
+
+CelestOS: Yes. Would you like me to draft a licensing request before your untimely demise?
+
+He didn’t have the strength to argue. His limbs felt like lead weights, his stomach growled with the force of a small riot despite binging on the tasteless 'food' he'd had earlier, and every inch of him throbbed with the deep, pervasive ache that only true survival brings. Still, the crate was filling with silver, and he needed to extend the conveyor belt back to base. That meant progress. It meant suit components. It meant moving forward.
+
+He pushed himself up, groaning as his joints protested the movement. “Alright. Let’s get this turret ready, and head back before the horde destroys my camp again.”
+
+CelestOS: Estimated time to nightfall: 3.7 hours.
+
+Ethan stared at the turret’s targeting lens as it cycled from red to green. He should have felt relief, but the thought of another night fending off whatever clawed and slithered out of the dark left his chest tight. The silver could wait until tomorrow. If the base fell, there wouldn’t be a tomorrow to worry about.
+
+He brought up the CelestiCraft interface with a flick of his wrist. The schematic for a T1 Auto-Turret hovered in translucent blue above the crate of raw materials. Brackets of text scrolled down the side.
+
+[INPUT CONFIRMED – T1 Auto-Turret]
+
+CelestOS: Inventory check complete. Acting Captain possesses all required components for one additional turret. Authorization for fabrication granted under Celestitech policy subsection 3.2.
+
+“Finally,” he muttered. “No scavenger hunt.”
+
+CelestOS: Clarification: absence of a scavenger hunt does not preclude adherence to workplace safety standards during assembly.
+
+He keyed the fabrication order. The CelestiCraft’s core lit with its cold blue glow, an iris of segmented plating opening over the intake port. Servo arms darted inside like the limbs of a precise, impatient insect, snatching each component and vanishing back into the chamber. Plating screamed against the cutter, the sound thin and metallic in the still air. Hydraulic clamps punched rivets into place with dull, percussive thuds.
+
+CelestOS: Fabrication complete. T1 Auto-Turret, serial number 14-72-CE, ready for deployment.
+
+“Yeah,” he said, hooking his fingers under the base. “Let’s give you a view worth shooting at.”
+
+The weight hit his arms immediately, dense and unyielding. He hauled it toward the edge of the river, in a protective spot that could conceivably defend the crate and the conveyor belts.
+
+He locked the base into the ground anchor, twisted the mount until the servos whined, then stepped back as the turret cycled through its startup sequence. The targeting array pulsed once, green to blue, before settling into a quiet sweep.
+
+CelestOS: Perimeter defense upgraded. Threat interception probability increased by seventeen percent.
+
+“Yeah,” he said, taking one last look at the weapon before heading back to camp. “Let’s see them try tonight.”
+
+The western slope into camp still stank of resin and scorched alloy. Even from the edge of the clearing, Ethan could see the jagged shell of Reyes’s pod half-buried in ash, its fractured hull streaked with veins of hardened Redresin that pulsed faintly in the failing light. The impact trench ran nearly twenty meters before ending in the wreck, gouged deep enough that wind and grit had already started to fill it.
+
+He stood there for a moment, weighing the sight against the mental map of his camp. The turrets wee good, but a turret with cover was better. His current view was completely unobstructed and that needed to change.
+
+A few guns on bare mounts could still get chewed apart if something got close enough. A line of hard plating, such as shields, barriers, really, anything to slow the charge, might buy him an extra few seconds in a fight. Seconds meant survival. And right now, Reyes’s pod was the largest single piece of high-grade alloy left in the valley. The man inside was long gone; all that was left was a corpse. And as morbid as he felt saying so, a corpse wouldn’t need it.
+
+Decision made, he started down. Boots sank into the powder-soft ash, each step making his suit itch against his damaged skin like he could feel the residue crawling along the fabric. The air was still, almost heavy, as if the valley had been holding its breath since the day of the crash.
+
+The pod’s port-side landing strut was bent at a forty-five-degree angle, one end still buried in the dirt. He planted his feet and worked the joint loose, the warped metal screeching as it tore free. It would make a perfect bracing post once cut down in the CelestiCraft—strong enough to take turret recoil without folding, maybe even strong enough to hold a wall section against an alien charge.
+
+Next was the inner frame. A section of plating, half-sheared from the hull, hung by a twist of alloy. He braced against the cracked fuselage and shoved hard until the metal screamed and broke away. The plate was scarred with heat ripples and resin scoring, but underneath it was still solid. Two more like it would be enough to armor a turret’s housing and leave some for barricade work.
+
+CelestOS: Warning: detected structural instability in asset hull. Continued salvage may result in collapse.
+
+“Good,” he muttered, planting his boot on a loose section and prying it free with a grunt. “Less for me to cut through later.”
+
+He worked methodically, ignoring the occasional flicker of faint red light beneath the resin seams. Those weren’t his problem tonight. Each new piece went onto the sled, the growing pile of alloy clattering with each addition. By the time he stepped back, the sled was already heavy enough to make the trip back miserable.
+
+CelestOS: Salvaged materials logged. Estimated mass: 104 kilograms. Estimated tetanus potential: elevated.
+
+“Perfect,” Ethan said, wiping a line of ash from his visor. “One more stop, and we can start building some teeth on the walls.”
+
+He turned toward the jagged silhouette of the AI pod in the distance, the last usable carcass in the valley.
+
+The AI pod’s remains sat like a gutted beetle at the edge of the ridge, its once-sleek hull scorched and buckled from reentry stress. Where the primary impact had crushed the forward quarter, the alloy skin had split in jagged seams, curling outward in warped panels that caught the last light of the day. Most of the exterior had been stripped in earlier scrapes for base plating, but there were still sections worth the effort.
+
+Ethan approached from the leeward side, boots crunching over scattered fragments of mounting brackets and insulation foam. The pod’s original color was barely visible beneath the blackened scoring and dust. The main hatch hung askew, half torn from its hinges, leading into the gutted interior where CelestOS had once been hardwired into the walls. Now, the AI existed entirely in the surviving core unit back at camp, leaving this shell as little more than a carcass.
+
+He ran a hand over the nearest intact panel. The alloy was thicker than what he’d pulled from Reyes’s pod, reinforced to shield the AI core from direct impact. Perfect for turret plating. He braced his foot and drove the tip of a pry bar into the seam. The metal gave slowly, with a low groan of stressed rivets, before peeling back in one broad sheet. He slid it onto the sled with a metallic scrape.
+
+CelestOS: Advisory: removal of additional hull panels may compromise remaining structural integrity. This will void any extended warranty you may have imagined existed.
+
+Ethan smirked. “Pretty sure we voided that when we crash-landed it.”
+
+He pulled two more panels, each smaller but just as dense, then ducked under a collapsed strut to reach the aft mounting braces. These heavy, L-shaped brackets could be cut down into turret base mounts or barricade anchors. They were awkward to carry, their edges biting into his gloves, but he forced them into the sled’s growing load.
+
+When he finally stepped back, the pod looked skeletal; it wasjust ribs and shadows under the fading sky. The sled was stacked high with alloy, brackets, and enough raw salvage to feed the CelestiCraft for hours.
+
+CelestOS: Salvage total updated. Current mass: 238 kilograms. Recommend immediate installation before user exhuastion causes collapse.

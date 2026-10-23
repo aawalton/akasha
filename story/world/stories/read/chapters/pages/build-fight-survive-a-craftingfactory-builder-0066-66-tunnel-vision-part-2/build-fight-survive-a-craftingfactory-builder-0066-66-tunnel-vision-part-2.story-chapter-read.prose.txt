@@ -1,0 +1,87 @@
+He shoved himself upright, every muscle protesting. The first tunnel segment was barely wide enough to drag coils through, too tight for him to fight inside without getting boxed in. But what if he widened it? Not too wide, but just enough for one man and one turret to move shoulder to shoulder. A crooked hallway, bait at one end, guns at the other.
+
+CelestOS chimed, far too cheerful.
+
+CelestOS: Advisory. Expansion plan detected. Estimated success rate: eight percent. Congratulations, you’re innovating against all odds.
+
+Ethan’s grin widened as he hefted the panel. “Then let’s keep innovating.”
+
+He dragged the panel into place, braced it wide from the existing wall, and keyed the CelestiCraft. The green lattice shimmered alive, its phantom lines snapping straight until the seam hissed shut with a clean metallic thrum. He stepped back, shoulders heaving, and saw it: the start of a corridor wide enough for him to move, wide enough for Fang to fire down its length.
+
+Another Sporesquito shrieked, diving low. Ethan ducked back into the half-finished hall. As if on cue, the bug followed him, mindless and fast, its stinger hammering into the plates. Fang’s lens flickered red and it fired down the corridor. The creature exploded in a spray of blue guts, chunks scattering harmlessly against the steel.
+
+It was working. They were too stupid to know a trap when they flew into one. He pressed his hand to the hot seam, his breath uneven and labored, and forced his aching legs forward. He needed more panels. The corridor had to be long enough, straight enough, so every bug that chased him would get torn apart before it reached the far end.
+
+Ethan’s laughter came up ragged in his throat, half-mad from the strain. It was working. The swarm were still fixated on him, too dumb or too hungry to realize he was stringing them along. He staggered back to the hauler, legs trembling, shoulders on fire, and hauled another stack of metal plates onto the conveyor. One after another he slapped them down, the sections clanging together as the belt lurched forward. The tunnel stretched outward with every rattling addition, a crooked spine of steel pushing farther into the dark.
+
+By the time the front edge of the conveyor reached the tunnel mouth, the air outside was boiling with wings. The swarm’s pitch had risen to a shrill, storm-like scream that rattled the trees. Ethan stepped into the open, waving his arms, throat raw as he bellowed at them. If he looked like prey, they’d come for him. That was the point.
+
+They did it again, the first time wasn't a fluke. The Sporequito's dove and met Fang’s and friend's fire. Bolts cracked like thunder, shredding it mid-air, the carcass bouncing off the steel roof in a splash of glowing blue. Another knot barreled down the new corridor, funneled by the metal walls, and the second turret lit them apart before they could break through.
+
+Inside, the conveyor hummed on, steady and uncaring. Another coil rolled through, then another. The crude tunnel was hot and loud, but it was working: fibers moved clean, safe from the cloud.
+
+Ethan threw his weight against another panel, dragging it into place at the tunnel’s end. His hands shook too badly to keep the placement straight before he deployed the celesticraft; the green lattice jittered, but the auto-locks bit anyway and the seam flashed green before settling to dull steel.
+
+The turrets fired in tandem, a rhythm of covering arcs, alternating bursts that lit the grove like lightning. Each volley tore holes in the swarm, buying Ethan plenty of time.
+
+CelestOS: Advisory. Tunnel stability below optimal. Probability of collapse: thirty-one percent.
+
+“Shut up, we're golden.” Ethan growled, but his grin didn't fade. His whole body hurt, but the damn thing was standing. The coils were moving.
+
+Another Sporesquito slammed into the roof, claws screeching, its wings hammering like a helicopter about to crash. The panel buckled, denting inward, but didn't give way. Fang raked a burst across the top, splitting the creature in half, its ichor raining down in sizzling droplets.
+
+Ethan pressed his back to the wall, panting. His lungs burned and his arms shook, but he couldn't stop watching that belt. Plate after plate clattered through, sliding into the dark toward the far end where the turret stood guard. Each one felt like a promise, another piece of the crooked tunnel taking shape, another chance to survive.
+
+The bugs circled once more, shrieking, then peeled away. One by one, they vanished into the haze, their droning wings fading with the distance.
+
+Ethan sagged against the steel wall. CelestOS painted a faint AR overlay that jittered in the sweat haze. Every muscle in his body screamed, but a flicker of pride broke through the exhaustion. The tunnel stood. The conveyor ran. The plates were making it through.
+
+“Alright, almost done” he muttered, levering himself back to his feet. His legs felt like wet rope and his arms trembled, but the work wasn't finished, he quickly stumbled back to the hauler to place another set of plates on the conveyor line. “If I can get this line all the way to camp, I don't have to cut through the dust storm again, though I'm probably gonnna need to abandon this thing and make a new one."
+
+CelestOS: Observation. Centralized logistics are the backbone of all successful enterprises. Congratulations. You’ve just invented shipping lanes.
+
+He sat against the hauler’s wheel, his head slumping, eyes closed. Every muscle throbbed with exhaustion and his eyes burned from the spore laden storm, but the ache felt different tonight. Not just survival’s raw edge. It felt like progress.
+
+CelestOS: Advisory. Logistics operational at sixty-one percent efficiency. Recommend capacity planning.
+
+“Expansion,” Ethan muttered, dragging a hand down his face. “Sure, we can do that soon."
+
+Ethan braced a hand against the hauler’s wheel and pushed himself upright, his joints protesting like rusted hinges. His legs wobbled under him, arms trembling as he grabbed another stack of plates. He hauled them to the conveyor and slapped them down, one after another. The belt groaned, feeding the crooked spine of steel farther toward camp.
+
+A few minutes later he was done, and the tunnel clattered with sound as the last frames locked in. It was no triumph of design. Plates shivered in the storm, seams shrieking like something alive, but the line held and the turrets kept the peace at the front.
+
+He fed the final load into the belt, and the conveyor rattled as the plates clattered toward its end. For a moment he just stood there, swaying, listening to the tick of the plates. Then his eyes tracked down the crooked corridor to where the three turrets waited, squat silhouettes at the far mouth. They needed to be fixed in place before the storm or swarm tore everything loose. As if reading his mind, CelestOS chimed in.
+
+CelestOS: Advisory. Recommend turret placement along structurally compromised zones. Reinforcement at the mid-seam bulge will extend tunnel longevity by thirty-two percent.
+
+“You sure?” Ethan said, letting the thought bounce around in his head for a second. “Yeah. You’re right. Let’s brace it where it’s weakest..”
+
+He keyed the CelestiCraft interface, a green grid spilling across the tunnel floor in shimmering lines. The thought came sharp and desperate: if he could bend plates into walls, he could bend them into cradles for the turrets, hold these mobile units in place just like the real deal. He dragged the grid into place, welding plates into crude braces where the corridor had been damaged the most. One by one, he wrestled the turrets into place. One each at the front, middle, and back of the tunnel. Power cycled through their cores with a low, hungry hum that rolled along the tunnel.
+
+CelestOS: Advisory. Defensive coverage at acceptable thresholds. Recommend celebrating with light refreshments.
+
+“Yeah, I’ll put that on the list,” Ethan muttered, checking the clamps one last time. His fingers ached from strain, but the mounts held firm.
+
+He straightened and took a step back. The tunnel yawned ahead of him, crooked but unbroken, turrets bright in the dim light.
+
+Ethan exhaled, long and shaky, then started the trek back to camp. The path was nearly three kilometers, and each step jarred his sore joints, sending a dull ache through his legs. He kept moving anyway, pushing one boot in front of the other, counting the distance in his head. The wind moaned overhead, but he didn’t look back. He couldn’t. Not with the swarm still out there, circling unseen.
+
+When the silhouette of the forge finally loomed ahead, its ember-glow flickering against the haze, Ethan let out a breath that rattled in his chest. He dropped to one knee, pried open the console hatch, and called up CelestiCraft’s green lattice of schematics. The tunnel was finished. Now he only had one part left to the damn suit.
+
+[REQUIRED COMPONENTS: CMS + Skill Module Tier 2]Copper Wire: 30xIron Ingots: 10xSensor Component: 4xPower Cell: 2xStabilizer Brackets: 4xGold Filament: 6xPolybioFiber Strands: 25xCelestitech Proprietary Chip (Tier 2): 1x
+
+He ticked items off one by one. Copper? He had it in spools. Iron? Piled in bins. Sensor components: he could fabricate those with the item fabricators. Power cells and Stabilizer brackets, same deal. Gold filament would bleed his what he'd gather, but the new drill was pumping product as fast as it could. PolybioFiber Strands, now that the Deforrestor was running, and he'd built the tunnel, weren't a problem at all, at least not for now. He would likely have to build a better tunnel or clear the storm at some point.
+
+He stared at the list, his jaw tight. Celestitech Proprietary Chip. A part he couldn't fabricate or mine. He'd finally met an obstacle he couldn't brute-force his way through. It had to happen eventually. Now to find one. His best bet, well, Ethan’s eyes drifted toward the horizon, in the direction Maria's message had said to go. Her crew might've carried the chips in their caches. If there was a trail, if she’d left anything behind, that was where he’d find it. As if reading his thoughts for a second time in as many minutes, Celestos spoke up again
+
+CelestOS: Observation. Proprietary components are not designed for field replacement. Attempting acquisition is considered inadvisable.
+
+"Inadvisable?" Ethan snorted, before continuing. “If they’re not meant to be replaced out here, then why the hell are they on the recipe list?”
+
+CelestOS: Clarification. Recipe lists are generated dynamically from available local components. Proprietary modules may appear regardless of field accessibility. This is working as designed.
+
+Ethan let out a hollow laugh and scrubbed a hand over his face, grit grinding against his skin. “Yup. Of course. That explains everything. CelestiTech can’t even be bothered to keep their own damn recipes straight. Just pull whatever out of a hat and call it proprietary.”
+
+The conveyor rattled behind him, spitting out another load of steel plates that clanged together as they stacked in the crate at its end. The sound was ugly, but steady, and for once it wasn’t the insects’ wings filling the air. He let himself sink onto a crate, shoulders sagging as the ache in his arms caught up to him. The dusty air clung to his sweat, itching and burning at once. For a long moment, he just sat there, staring at the new conveyor line stretching back toward the grove.
+
+The turrets outside continued their mechanical vigil, servos whining as they Started their nightly vigil. He had so many now that he almost felt concerned he'd run out of ammo. But his thoughts were interrupted as a yawn broke out of him, ragged and unbidden. His eyelids felt like lead weights, and the thought of collapsing on the hard ground and his 'pillow' was suddenly as tempting as any feast. He gave a slow, reluctant nod to himself. “Yeah. Bedtime. But tomorrow, tomorrow I'm fixing this damn suit.”

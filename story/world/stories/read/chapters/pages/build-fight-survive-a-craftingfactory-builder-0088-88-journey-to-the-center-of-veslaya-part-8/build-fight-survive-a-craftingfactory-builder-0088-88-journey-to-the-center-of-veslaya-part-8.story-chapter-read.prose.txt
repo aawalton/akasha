@@ -1,0 +1,159 @@
+[Vitals: Hydration Status: Critical | Heart Rate: Elevated | Balance Instability: Detected]
+
+Ethan surfaced from black sleep into a body that felt like a dried sponge. His tongue carried a rough patch down the center, as if someone had glued sandpaper there. His lips stuck at the corners when he tried to swallow. A mean and steady headache pulsed behind his eyes, and his legs wobbled when he sat up, bones replaced by wire. He needed water. But how could he find it here. Why had he let himself go to sleep?
+
+He blinked hard, willing the cave to stop swaying. The taste in his mouth was metal and stale air, with a ghost of the nutrient bar from last night: salt and glue. When he stood, the world tilted left and stayed there until he braced a palm against the Fabricator’s cool housing and breathed through the spin.
+
+[Reserve Power: 25% → 15% | Sleep Expenditure: -10% | Ambient Oxygen: 3.2% (unchanged)]
+
+He stared at the readout. “Ten percent to dream of a glass of water,” he rasped. Talking scraped the dry patch, making it feel bigger.
+
+CelestOS: Good morning! Overnight analysis indicates profound inefficiency in your ‘lying there dying quietly’ protocol. Recommendation: generate power before attempting heroics, or standing up rapidly again.
+
+“Working on it,” he said. The crank handle looked thicker than he remembered. His fingers refused to bend. Still, he wrapped both hands around it and pulled.
+
+The flywheel resisted, then rolled. The module found its ugly rhythm, clicking through the pawl, storing inertia like a miser hoarding coins. Ethan fell into the cadence: pull, breathe, pull, grit, pull. Sweat came grudgingly, as though his body had to borrow moisture from memory.
+
+[Net Flow: +0.3%/min | Reserve Power: 15.0% → 16.2% → 17.1% → 18.3%]
+
+The headache crawled down his neck and coiled at the base of his skull. Black motes hung in the air each time he blinked. He dragged the wheel through another turn and nearly lost the handle when a tremor of weakness shot down his arms.
+
+CelestOS: Friendly legal reminder: fainting while operating hand-crank machinery voids exactly zero warranties and still hurts. Hydration may reduce your odds of involuntary napping.
+
+“Add it to my to-do list,” he said between his teeth. He wasn't sure there was enough saliva left to swallow the words.
+
+He kept cranking. The wheel coasted a little longer now between pulls. Breath in. Breath out. Don’t lock your knees. The numbers ticked upward in tiny green steps back toward solvency.
+
+[Reserve Power: 19.8% → 21.0% → 22.2% | Muscular Fatigue Forecast: 42 min to failure]
+
+His shoulders burned in a hollow way, as if his muscles were chewing on themselves. He lost the handle once and caught it on reflex. The pawl rattled, caught, and the flywheel spun with a shy whine.
+
+CelestOS: Motivational update: you are 31% of the way to ‘less doomed.’
+
+“Call me when we hit ‘doomed but hydrated,’” he said, and dragged the wheel through another grinding arc.
+
+[Reserve Power: 23.4% → 24.2% → 25.0%]
+
+He let the crank coast down. The flywheel hummed, its last rotation shivering through the frame before the pawl settled with a polite click. Ethan pressed his forehead to the generator housing and waited for his pulse to fall from escape murder to merely don’t die right now.
+
+“Alright,” he whispered. “Power buys time, and time buys water.”
+
+CelestOS: Clarification: power buys options, but water buys existence.
+
+He pushed off the housing, his legs unsteady but holding, and crossed to the shallow room he’d carved yesterday. Harold padded after him, the drone’s lamp gliding over the terrace steps and earthen walls he’d left behind. The patch looked smaller this morning, as if it had shrunk overnight. Moss still freckled the damp cut, and roots hung in stringers where he’d sheared them, but the top layer had darkened and dried.
+
+He knelt at the lip. The smell that rose was sharp, green, and faintly fungal, and it lit every thirst receptor in his brain like a switchboard. His mouth tried to water and managed a sad, phantom attempt.
+
+He lifted the shovel. The handle bit into the heel of his palm where a blister had thickened, and he had to shift his grip to keep from dropping it. The blade went in with a reluctant shhk, cutting a wedge that slumped into a damp heap.
+
+[Mass Collected: +0.4 kg]
+
+He worked the trench forward a handspan at a time, using the step-and-terrace method CelestOS had bullied him into yesterday. Scoop. Pry. Fold the spoil back onto the platform. Keep the slope shallow so the roof doesn't decide to be the floor. The rhythm returned, but his body didn't thank him; every third lift made a black halo gnaw at the edge of his vision.
+
+CelestOS: Gentle advisory: if you insist on digging while dehydrated, please avoid head movements resembling a baby owl. Dizziness increases both excavation comedy and injury risk.
+
+He managed a dry snort. “I’ll try to laugh after I stop seeing stars.”
+
+Two more wedges. The shovel’s edge caught a root and snapped it with a sound like a violin string surrendering. The heap swelled enough to trip a little hope.
+
+He thumbed the Ex Nihilo command and let the suit do its quiet magic. The air above the pile shimmered. Soil sighed into glitter, drifted, then resolved as the field parsed its contents.
+
+[Ex Nihilo Conversion: Soil Sample → Decompose]
+
+[Resource Yield: Sand + Trace Organics → Biomass]
+
+[Haul Result: Biomass +0.3 kg | Sand +0.8 kg]
+
+Ethan stared at the numbers, then rubbed the heel of his palm across his mouth. His lips dragged like cloth on rough wood. “Three hundred grams,” he said. “I need… what?”
+
+CelestOS: For water production via direct substrate processing: current moisture content suggests approximately 50 to 60 kilograms of wet soil to recover one liter of potable water. Your requested volume one gallon would require roughly 190 to 230 kilograms, excluding processing losses.
+
+“A football field,” he said, remembering yesterday’s pleasant metaphor. “You weren't kidding.”
+
+CelestOS: I never kid about thermodynamics. Only your employability.
+
+He dug again. It hurt, but the motion simplified the world into something survivable: insert blade, lean, lift, breathe. Dirt thumped. Dirt glittered. Dirt turned into numbers that crawled toward adequacy and then lost momentum.
+
+[Mass Collected: +0.6 kg → +0.9 kg]
+
+[Ex Nihilo Decomposition] → [Biomass +0.4 kg | Sand +1.1 kg]
+
+He wiped his forearm across his face, grinding grit into sweatless skin. A dry misery bloomed across his tongue, and he wanted to gag just to coax saliva. His hands shook more now when he set the shovel down. The cave light blurred, then steadied only when he widened his stance and forced each breath to count.
+
+“CelestOS,” he said evenly, “what about condensing? We had a humidity uptick yesterday. I can feel it. My skin still feels like paper, but… less miserable than last night.”
+
+CelestOS: Observation: microclimate trending moist-adjacent. Current readings (Ambient Humidity: +5% from baseline | Condensation Probability: Moderate in still-air pockets) suggest you could harvest droplets using cold surfaces and proper collection geometry. Yield projection: disappointing.
+
+“Define disappointing.”
+
+CelestOS: Multiple hours for multiple mouthfuls. This should have been done last night, but you insisted on sleeping.
+
+He shut his eyes for two beats, then opened them on purpose. “Yeah, well, sleep’s cheaper than outright collapse,” he said. “Show me the layout and keep it simple.”
+
+A wireframe unfolded across the earthen wall, showing angled plates and a gutter carved into stone. Below them was a catch basin lined with binding agent to keep the water from wicking away. A modest fan icon blinked in the corner, though it was already crossed out.
+
+CelestOS: Version A: passive. Temperature differential will be minimal in this environment. Expect very slow accumulation. Version B: add a Peltier effect using coils and power; it's faster, but you'll become a raisin before you become hydrated.
+
+He squinted at the air. “What the fuck’s a Peltier effect?”
+
+CelestOS: Short explanation: using electricity to move heat. You’d be turning your last watts into a very small refrigerator.
+
+“Passive,” he said. “I'm not trading power for a trickle.”
+
+CelestOS: Inquiry: then why did you expend hours generating ten percent additional power if not to remain alive?
+
+He rubbed the bridge of his nose. “Because dying with full batteries would really piss me off. Lets just do the first one for now.”
+
+He shaped the gutter first with the pick, shallow and careful, then cut a second channel leading into a depression he tamped flat with the back of the shovel. Sand went down as a bed, binding agent over that until the basin turned the dull gray of a sealed cistern. He didn't have spare plates (those were already promised to the generator assembly) but he did have the raw iron-plate recipe and enough stone to make a single thin sheet, if he was willing to burn another percent of reserve.
+
+He hesitated, counting his heartbeats, then shook his head.
+
+He set the collection basin directly beneath the draft, where the faint current teased the hairs on his forearms, and rigged a lattice of scrap from broken cam bars to give droplets somewhere to grow. It looked like something a desperate grad student might build in a lab that hated them. He was fine with that; desperation worked.
+
+He returned to the trench. The more soil he shifted, the stronger that cool breath felt on his skin, a draft rising from somewhere beneath his small domain. The smell of damp stone deepened. His tongue ghosted over the dry patch, hoping the air alone might ferry moisture into him by osmosis. His body believed it could.
+
+The work became a rhythm: shovel, shhk, pry, fold. He put his knee into the lift and almost tipped forward when a dizzy spell rose from the floor and spun the cave sideways. He froze, one hand splayed on the terrace step, and waited for the world to agree on gravity again.
+
+[Vitals: BP Drop Detected | Near Syncope Averted | Ambient Oxygen: 7.2%]
+
+Ethan smiled. the draft was proving to be quite the boon.
+
+CelestOS: Gentle reminder: I can't catch you. I lack arms, being a disembodied compliance suit with a gift for banter.
+
+“Then keep talking,” he said hoarsely. “Noise keeps me upright.”
+
+CelestOS: Splendid. Did you know dehydration accounts for 73 percent of poor decisions in survival scenarios, and for 100 percent of poor decisions involving assets named Ethan Craft?
+
+He snorted, which helped more than it should have. He drove the shovel again, shearing off half a step to widen the trench. The blade bit into a patch that yielded too easily: looser, more granular soil. When he lifted, the wedge collapsed under its own weight and slumped wetly into the cut.
+
+[Mass Collected: +0.8 kg]
+
+[Ex Nihilo Decomposition] → [Biomass +0.5 kg | Sand +1.3 kg]
+
+He glanced toward the catch basin. Two impossibly small beads had formed on the cross-lattice, trembling as though ashamed to be noticed. He watched one swell to the size of a lentil, crawl down a wire, and drop into the basin with comic dignity.
+
+“I’m going to count that,” he told the room. “That counts.”
+
+CelestOS: Acknowledged. Counting commenced. [Water Recovered (condensate): +0.8 mL]
+
+“Don’t ruin it.”
+
+He went back to the trench. The draft had grown more insistent: a slow exhale from the wall itself. Each scoop made it stronger. He leaned in, listening. Past Harold’s fan-whirr and the faint tick of the cooling crank, he caught a sound that could have been memory or lie: drops striking stone somewhere deep below.
+
+His mouth went tight, and he dug faster.
+
+CelestOS: Advisory: maintain your trench angle. Undercutting increases the chance your ceiling will practice sudden downward mobility.
+
+“Got it,” he said, keeping to the terrace. When he levered up a stubborn wedge of compacted loam, the shovel struck something that wasn't soil. The shock jumped through his arms, bright and spiteful.
+
+He knelt and brushed with his fingers, ignoring how the grit bit at his raw skin. What came up wasn't metal or root. It was stone, but not like the rest: planed and deliberate. It was marked by fine, straight striations instead of being polished smooth. The plane held true across a span wider than his hand. He cleared a perimeter and found an edge that was crisp and unnatural.
+
+“Cel,” he breathed. “We’ve got geometry.”
+
+CelestOS: Quantifying enthusiasm. Proceed with caution; geometry kills.
+
+He widened the exposure. The more he scraped, the clearer it became: a flat slab set at a shallow angle, mirrored by a second plane an inch below. The space between them was choked with soil and hair-thin roots. It wasn't a wall, but a seam. A lid.
+
+He wedged the shovel tip into the gap and pried. The blade balked. He pried again, harder, and felt a faint shift, like the earth unclenched a tooth. Cold air licked across his knuckles.
+
+[Ambient Humidity: +46% | Airflow Detected: Laminar, downslope]

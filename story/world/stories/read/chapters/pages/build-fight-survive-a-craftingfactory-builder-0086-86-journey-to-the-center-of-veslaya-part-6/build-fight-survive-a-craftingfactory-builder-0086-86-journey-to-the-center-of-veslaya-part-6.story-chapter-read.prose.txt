@@ -1,0 +1,173 @@
+The generator sat cold, its binding blocks chalked with soot, and Harold’s lamp stretched a narrow cone of light across the cavern. The glow reached Ethan’s face but didn't soften it. His breath rasped loud in his helmet, bouncing back at him in the stale metallic echo he’d grown to hate.
+
+[Reserve Power: 30% | Ambient Oxygen: 3.2% | Combustion: Unsupported]
+
+Ethan stared at the readout and said, “Thirty percent left. The generator’s dead because the air won’t feed it, and there’s no way for me to produce more oxygen without more power. That’s a cosmic joke.”
+
+CelestOS: Correction. The cosmic joke was investing your hopes in combustion inside an anoxic environment.
+
+He sighed. “Thanks for the sympathy.”
+
+CelestOS: Sarcasm detected. Adjusting tone. Recommendation: pursue alternative energy generation methods. I can list several: none pleasant.
+
+“Hit me.”
+
+CelestOS: Option one: create a ventilation system to support combustion. Estimated material cost: moderate. Estimated time to first oxygen flow: twelve hours. Estimated survival probability during excavation: fifty-eight percent.
+
+“So half a chance I dig my own grave. What’s two?”
+
+CelestOS: Option two: construct a mechanical dynamo using human or drone labor. Power output minimal. Ergonomic cost: high. Endurance projection: twenty to thirty minutes before muscular failure.
+
+Ethan rubbed his temples. “So either I suffocate or die lifting weights.”
+
+CelestOS: Option three: partial rebreather assembly. Required materials include silver wire and sensor modules. Inventory check: you possess zero of both.
+
+“Fantastic. Got anything I can actually do right now?”
+
+CelestOS: Option four: sit quietly and contemplate poor life choices while your reserve ticks down.
+
+He barked a short, humorless laugh. “That’s one option I’ve mastered.”
+
+Harold beeped once, a soft chirp that almost sounded consoling. Ethan crouched beside the generator, tracing a gloved finger over its cold casing. “We need power that doesn’t need air. Something I can build before thirty becomes zero.”
+
+CelestOS: Clarification: you require a closed-system generator: mechanical, sealed, self-driven. I can design two variants, one resource-expensive and one power-expensive. Both promise disappointment.
+
+“Wait so after having me go crazy to make the auto pick, you can design me custom recipes now?Story of my life,” Ethan said. He straightened, joints creaking, and squared his shoulders at the dead machine.As if in answer to the hypothetical question, the holographic schematics spun in front of Ethan’s eyes like a carousel of bad decisions. Two models floated side by side: one dense with parts, the other sleek and deceptively efficient. Both had “pain” written all over them in their own special ways.
+
+“Alright, walk me through it,” he said. “I want numbers. Real ones.”
+
+CelestOS: Comparative analysis: Option One, the Resource-Expensive, Energy-Efficient configuration. Estimated fabrication power cost: seven percent reserve. Material requirements: approximately seven hundred fifty units of Rough Stone equivalency, including processed metal, binding agent, and structural plating. Expected output: one percent reserve per minute at sustained mechanical operation. Efficiency degrades after eight minutes of manual effort due to muscular fatigue.
+
+Ethan frowned. “So that’s the sweat-and-swear method.”
+
+CelestOS: Affirmative. Power source: your continued will to exist.
+
+“Charming. What about the other one?”
+
+CelestOS: Option Two, the Energy-Intensive, Resource-Light configuration. Estimated fabrication power cost: twenty-five percent reserve. Material cost: minimal. Expected output identical to Option One, though achieved through more sophisticated internal gearing.
+
+Ethan tilted his head, studying the ghostly lines of the second blueprint. It shimmered cleanly, free of visible moving parts and the promise of hand-cranked agony. “So same output, less rock. But it eats a quarter of my reserves just to build?”
+
+CelestOS: Correct. It is elegant, efficient, and suicidal.
+
+He barked a short laugh. “You’ve got a way with words.”
+
+CelestOS: Thank you. My emotional simulation module has received high satisfaction ratings in the ‘grim humor’ category.
+
+“Let’s say I risked it. Built the energy-hungry version. How much juice would I have left?”
+
+CelestOS: Approximately five percent. Enough to fabricate regret and nothing else.
+
+Ethan rubbed his face with both hands, helmet clanking softly. “And if I go with the gear-heavy one?”
+
+CelestOS: Projected post-fabrication reserve: twenty-three percent. You will still require raw material acquisition before assembly completion. Estimated completion time: two to three hours, assuming you don't pass out.
+
+He stared at the readings hovering beside him, power counters ticking faintly as the Fabricator idled. Every number was a reminder of how thin the line was between ingenuity and death.
+
+“One option burns through my time and muscle,” he said. “The other just burns power and hope.”
+
+CelestOS: That's an accurate summary. Would you like me to phrase it as a motivational slogan?
+
+“No. I think I’ve got the message. Let’s go with the cheaper option.” He tapped the cheaper schematic and expanded its layers: drive collar, flywheel, crank, and stabilizer frame. The components unfolded like origami across the cavern’s air.
+
+CelestOS: Cheaper. A healthy human delusion. Beginning fabrication queue for ‘Project Misery Crank’ Estimated power expenditure: seven percent. Estimated physical therapy sessions required afterward: infinite.
+
+Ethan cracked a grin despite himself. “Perfect. Let’s build it.”
+
+[Fabrication Plan Selected: Mobile Crank Module | Est. Energy Spend: 7% | Est. Materials: ~750 Rough Stone Equivalents]
+
+“Seven percent’s a hit, but I can recover that easy afterwards. Gonna be easy”
+
+CelestOS: Observation: you're exhibiting optimism. Possible symptom of oxygen deprivation. Shall I run diagnostics?
+
+Ethan smirked, adjusting the schematic rotation. “No need. I’m just stubborn.”
+
+CelestOS: Clarification: stubbornness isn't an energy source.
+
+“Maybe not,” he said, kneeling beside the Fabricator, “but it keeps the lights on.”
+
+CelestOS: It does not in fact keep the lights on But, acknowledged. Beginning fabrication preparation. Please brace for regret in three… two… one.
+
+As the suit’s hum rose and the schematics solidified into reality, Ethan felt the faint tug of power drain from his suit, his life trickling away in exchange for motion. The trade felt almost fair.
+
+The cavern pulsed with a low mechanical hum as green light pulsed around the room.
+
+He said, “Alright, we’re doing this. The expensive way. The safe way. Sort of.”
+
+CelestOS: Clarification: 'Safe' remains a statistically unverified descriptor. Would you like me to project your odds of catastrophic failure?
+
+“No, I’d like you to shut up and start the fabrication queue.”
+
+CelestOS: Understood. Beginning assembly protocol for ‘Mobile Crank Module.’ Warning: this process will reduce your reserve power by approximately seven percent. Current reserve: thirty percent. Post-fabrication projection: twenty-three. Would you like to proceed with self-sabotage?
+
+Ethan cracked a grin despite himself. “Proceed with optimism.”
+
+CelestOS: Acknowledged. Optimism protocol engaged. This will hurt less emotionally, not physically.
+
+Harold’s light sharpened, casting long shadows that danced over the cavern walls. Ethan unlatched the power coupling from its cradle and fitted it to the port at his hip. The magnetic seal clicked home, followed by the sharp whine of internal rerouting. His HUD dimmed, then flared.
+
+[Reserve Power: 30% → 29% → 28%]
+
+The air thrummed as the suit began its work. A faint vibration crept through the stone, climbed his boots, and settled behind his eyes. It felt like the planet itself was drawing a breath through him.
+
+He steadied his hand on the cavern wall. “You better be worth it.”
+
+CelestOS: Encouragement: statistically, this is not your worst idea.
+
+A holographic lattice unfolded before him as raw materials streamed across his HUD: rough stone, ingots, binding agents. Each line blinked green as the suit confirmed mass availability.
+
+[Ex Nihilo Process Initiated | Construct: Mobile Crank Module | Estimated Completion: 4.5 Minutes]
+
+Harold hovered nearby, tilting his lens toward the forming shape. His light dimmed to amber. He chirped once, the sound questioning.
+
+Ethan said, “Yeah, buddy. We’re building a crank.”
+
+CelestOS: Correction: a Mobile Crank Module with integrated flywheel, stabilizing frame, and ergonomic deficiency.
+
+Ethan chuckled under his breath. “You have a way of making everything sound like a bad idea.”
+
+CelestOS: I prefer accurate idea.
+
+He sank onto a ledge left over from harvesting stone, elbows on his knees, watching as the Ex Nihilo field sculpted lines of green light in the air. The construct grew piece by piece, every shimmer a pulse of his own power. It was neither elegant nor efficient. It was desperate, ugly, and practical; exactly what survival demanded.
+
+The hum grew steadier. Heat rose from the base. The HUD blinked once more.
+
+[Reserve Power: 26% → 25% → 23% | Status: Fabrication Complete]
+
+Ethan exhaled slowly, unclipping the power cable from his suit. His knees felt weak, but the satisfaction was immediate. The outline of the crank module gleamed beside the generator, fresh from the Fabricator’s matrix.
+
+CelestOS: Fabrication complete. Congratulations. You have exchanged energy for potential suffering.
+
+Ethan managed a thin smile. “Better than exchanging nothing for nothing.”
+
+CelestOS: That slogan's almost inspirational. Shall I file it under ‘temporary sanity’?
+
+“File it under progress,” he said, dragging himself to his feet. “Let’s bolt this thing on.”
+
+Ethan crouched beside the generator, the glow from Harold’s lamp tracing a soft halo across the fresh-forged parts. The new components, stone gears and iron plates alongside a flywheel polished to a dull sheen, lay stacked like offerings before a sleeping god. The Fabricator’s exhaust still steamed faintly, a smell of scorched metal and binder hanging in the air.
+
+He flexed his hands, knuckles raw beneath his gloves. “Alright. Let’s see if this thing actually fits together.”
+
+CelestOS: Reminder: 'fit together' isn't an adequate substitute for proper calibration.
+
+“Neither is dying without power,” he said, grabbing the drive collar. The split ring was still warm. He lined it up with the generator’s turbine shaft, set the binder seal, and drove the locking rod through until it squealed. The collar bit down with a metallic click that echoed through the chamber.
+
+[Adapter Fit: 0.2 mm runout | Acceptable]
+
+Ethan wiped sweat from his brow. “Acceptable. That’s practically a compliment.”
+
+CelestOS: Affirmative. You're now operating at 'barely functional' standards.
+
+He reached for the large stone gear and mounted it on the crank axle. The smaller metal pinion followed, its teeth meshing with a satisfying clack. He installed the flywheel next: four stacked plates around an axle, heavy enough to fight him the entire way down. He twisted the assembly into place, bolted it, and gave it a tentative spin.
+
+The wheel hummed, coasting to a stop after a few seconds.
+
+Ethan smiled. “Good balance. Maybe you were wrong about my calibration skills.”
+
+CelestOS: Unlikely. Please proceed before your confidence destabilizes.
+
+He set the ratchet and pawl next, a small safety addition against self-inflicted injury. The first test spin whipped the handle back hard enough to wrench his wrist. He hissed and yanked the crank free.
+
+“Son of a…”
+
+CelestOS: Observation: improper ratchet alignment. Advisory: the human wrist is a fragile mechanical component.

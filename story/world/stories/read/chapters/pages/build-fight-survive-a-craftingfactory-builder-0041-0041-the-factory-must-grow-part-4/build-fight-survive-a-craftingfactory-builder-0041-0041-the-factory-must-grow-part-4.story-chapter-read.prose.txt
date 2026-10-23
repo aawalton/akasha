@@ -1,0 +1,137 @@
+CelestOS: Please remember that CelestiTech owns 99.99999% of all minerals harvested by all Celestitech owned machines, employees, and assets."Perfect. After all this is over, I’ll scrape together what’s left of me and send over CelestiTech’s share, posthumously."
+
+The cave mouth looked smaller now that he wasn’t sprinting from one crisis to the next, but it still radiated unease. It yawned open from the cliff wall like a jagged wound, ringed with basaltic stone and clawed over by dangling roots, gnarled and blackened as if scorched. Faint wisps of steam hissed from narrow fissures nearby, curling around the entrance like warning smoke.
+
+Maria's beacon was still there, and he we need to have CelestOS investigate it soon. But honestly, as much as he wanted to find Maria, and soon, he needed to give his body some form of a break before he broke down because he let himself get dragged into another globe trotting mission.
+
+And besides, right now, he needed the gold. The drill had to be placed, the forge set up, the turret loaded and ready. Once the suit was upgraded, he could breathe again, and re-prioritize finding her. He closed his eyes briefly and exhaled through his nose.
+
+I rushed everything with Reyes. I kept telling myself there wasn’t time to slow down, or do things properly. That surviving the hour was more important than preparing for what came after. And it still wasn’t enough. All the scrambling, all the shortcuts, none of it saved him.
+
+The image of Reyes’s broken form flickered behind his eyes. The heat, the resin, the silence after.
+
+Maria deserves better than that. She might still be alive. And if she is, I am not showing up half-armored and out of breath. Not again.
+
+His jaw tightened.
+
+This time, I do it right. I won't rush through things because my hands have been force. I won't rely on last-minute heroics. I'll build what I need. I'll get strong enough. And then I'll go after her.
+
+The cave breathed heat shocking Ethan out of his thoughts. Was it time for the superheated blast already? that would be a run of bad luck."Hey cel, how long until the cave tries to cook me like an oven?"
+
+CelestOS: Estimated thermal surge in 31 minutes. Please complete extraction procedures and evacuate promptly. CelestiTech™ is not responsible for spontaneous combustion caused by poor time management.
+
+Then Ethan heard something. the noise rolled out in shallow pulses, dry and metallic. It was the same noise as last time , too steady to be natural, too faint to follow yet.
+
+CelestOS: Proceed another 60 meters inward. Vein exposure consistent with geological scan. Please mind your footing. Falling here would reflect poorly on your performance review.
+
+Ethan did not answer, but glanced down in the poor lighting, and there it was. The stone shelf jutted like a balcony over a deeper shaft below. Faint veins of mineral webbing glinted across the rock. The barest hints of gold, like lines under skin.It was a faint, muted sheen, like yellow rust beneath layers of dirt.
+
+He collapsed the drill’s legs manually, unfolding them one by one and angling the auger downward. The anchor clamps clicked into place as the machine locked into the slope. Then, with a final twist of the stabilizers, he stood back.
+
+“CelestOS, confirm placement.”
+
+CelestOS: Placement confirmed. Resource vein calibrated. Estimated yield: 78 units of raw gold over next two cycles. Impurity level: 11%. Initiating extraction routine.
+
+The drill whined to life. A faint shudder rolled through the metal as the central auger began to spin, slow and methodical. Dust curled from beneath the rotating teeth. Ethan stood still for a moment, watching the silent frame of the drill as if expecting it to fail.
+
+The slope beneath his boots was already shifting with the weight, and the grinding of the ore and stone. A few pebbles tumbled down into the darkness behind him, vanishing as soon as the cleared the line of moss. Ethan watched this for a moment, then he turned and headed back toward the mouth of the crate near the mouth of the cave that held all of his supplies.
+
+The next job went quicker than expected. He set up a short segment directly beside the drill, which he planned to feed directly into a new forge he would place outside the cave, which in turn would feed into a crate. It would hold the gold for now. The longer haul of conveyor belts could wait until tomorrow.
+
+[T1 Conveyor Belt: Section Recipe]:Wooden Logs ×5Copper Wire ×1Binding Agent ×1
+
+Fortunately, he had the supplies for these in bulk. Each section clicked together with a hiss of copper tension and synthetic mesh overlay. The terrain did not help, given its rocks, roots, and uneven slope, but the track unspooled in sections as the anchoring brackets sank into the soil. Every five meters, he placed a new segment.
+
+[Skill: Engineering 4 → 5]
+
+The factory grid, however, was not ready, and he wasn’t about to run a three-mile power line through hostile terrain, not before he set up the needed defenses.
+
+Instead, he opened his wrist console, tapped into the power settings, and redirected 60% of his suit’s internal reserve to the local grid. The power cells in the conveyor belt and drill would be able to use the power, and at least produce some gold by the time he returned tomorrow.
+
+The suit's ambient lights dimmed. His HUD flickered briefly. A low hum coursed through his boots as the surge flowed out, feeding into the backup relay he had rigged against the stone wall.
+
+CelestOS: Emergency power transfer detected. Asset power reserves now at 19%. Projected suit malfunction in 2 hours. Please recharge soon.
+
+“I’ll be back before then,” Ethan muttered. “Just needs to run overnight.”
+
+He double-checked the ore vein’s alignment with the drill, tightened the clamps once more for good measure, then stepped back and watched as the drill plopped its first gold ore onto the conveyor belt.
+
+Tomorrow, he would bring a proper cable and connect the site to the main factory. But for today, this would run on borrowed power and stubborn optimism.
+
+CelestOS: Warning. Current configuration exceeds available throughput capacity. Would you like to downscale the CelestiForge to a micro variant?
+
+He paused mid-gesture. “What does that mean, exactly?”
+
+CelestOS: Reduced energy draw. Faster setup. However, the resulting unit will be limited to processing one ingot type at a time and will operate at 43% standard efficiency. Multi-ore parallel smelting is not supported.
+
+[T1 CelestiForge Model A1 recipe]
+
+Iron ingot x 1
+
+copper ingot x 1
+
+Any wooden Logs x2
+
+Any Stone x1
+
+Binding Agent x1
+
+Ethan frowned at the schematic, weighing the options. “But it'll work?”
+
+CelestOS: Affirmative. Output will be slow, but stable. Ideal for temporary operations or primitive field conditions, such as your current situation.
+
+Ethan tapped the schematic, and the familiar cold-blue interface of the CelestiCraft shimmered into being. This version was smaller, leaner, and the ingredient list blinked green, save for the final line. He slid the last Binding Agent from his inventory, and the blueprint flared brighter.
+
+CelestOS: All components present. Initiating fabrication protocol: CelestiForge Model A1 Micro. Please remain clear of material ejection path. Traumatic cranial impacts are not covered under standard warranty.
+
+"CelestiTech has a warranty?" He stepped back, chewing the inside of his cheek. Despite all of the machines working so far, a part of him was still hesitant that one of them would fail. A soft hum grew louder as light pulsed outward in concentric rings from the schematic. Then came the surge.
+
+The air crackled with static. Wood splintered, stone cracked, and metal curled in on itself, folding like origami through magnetic force and whatever science Celestitech had conjured into being. The unit formed quickly, smaller than the standard model. Just a low crucible with a side-fed input tray and a single reinforced vent. No automatic mold handler. No multi-tray capacity. Just one job at a time.
+
+The micro forge settled into the dirt with a soft thunk, its casing faintly glowing as heat built inside the core.
+
+[Crafting: 2 → 3]
+
+He crouched next to the forge and placed the final conveyor belt, watching with anticipation as a single piece of gold ore flowed into the forge.
+
+A dim light blinked once. Then twice. Then the forge ignited with a low thrum, more of a heartbeat than a roar, and began to process.
+
+CelestOS: Power draw stabilized. Output efficiency: 43 percent as expected.
+
+“Noted.”
+
+He stayed there for a moment, knees aching as he leaned forward, watching the machine do its work. The glow of the forge flickered against his suit.
+
+It wasn’t elegant. It wasn’t efficient. But damn if it didn't feel like progress.
+
+CelestOS: Congratulations. You have achieved minimum viable functionality. Celestitech recognizes your effort. Not your success, just the effort.
+
+Ethan snorted. “That’s the nicest thing you’ve said all day.”
+
+CelestOS: Survival beyond this point was not anticipated. Please note, projected mortality remains at 90 percent without adequate nightfall defenses.
+
+Ethan sighed and stood up slowly, knees stiff. “Oh good. I was starting to think this was going too well.”
+
+He picked up the celesticraft and selected the turret. The Ore Turret schematic hovered above the ground, ghostly and green. It looked like a bulbous camera fused with a cannon: ugly, stocky, and designed for brutality, not elegance.
+
+[T1 Ore Turret, Tier 1 Recipe]:• Iron Ingots ×12• Stone ×5• Copper Wire ×6• Bronze Wire ×4• Sensor Component ×1• Binding Agent ×4
+
+He knelt by the storage crate and popped the lid. The supplies inside shifted slightly, metal clinked, wood creaked, his last spools of copper reflected the orange light. He pulled the pieces out one by one: ingots, stone blocks, coiled wire, a motion sensor made by the fabricator, even the scant amount of sap he had managed to collect before coming on this trek. Everything he needed.
+
+The CelestiCraft buzzed faintly in his hand as it registered the components. He set them down in sequence on the compact field assembly grid. With a sharp hum and a burst of light, the system activated. The parts lifted and turned in the air, drawn together by magnetic force and automated precision. Sparks flew as alloy fused to alloy. Within seconds, the turret clunked into shape, stocky, brutal, and ugly in that dependable way celestitech equipment always was. Its copper-barreled head rotated once, slow and mechanical, then clicked into standby.
+
+He slung it over one shoulder with a grunt, staggered slightly from the weight, and began the climb. The ridge overlooking the forge wasn’t far, but every step dug into ash and grit. Wind pulled at his sleeves and stung his cheeks with flecks of rock and dust.
+
+He reached the top and set the turret down. The view gave him full coverage—the cave mouth, the conveyor, the edge of the drill path below. Perfect.
+
+He anchored the turret into the rock and connected its cable to the belt’s auxiliary power port with the last of the copper wiring. A soft chime sounded as the turret came online. Its lens blinked red. Then green. The barrel swiveled once and stopped with a quiet, deliberate click.
+
+Ethan opened the feeder and slotted in four copper ingots. The tray snapped shut, locking them in place.
+
+He stepped back, wiping grit from his palms. The turret rotated slightly and settled, its targeting servo whining as it focused on the darkened slope ahead.
+
+“Hope you’re better at shooting than I am,” he muttered. He gave the side panel a pat. “Shoot anything that moves.”
+
+For a moment, there was quiet. Just the thrum of the drill, the hum of the conveyor, and the low static buzz from the turret’s core. It felt… stable. Not safe, not really. But close enough.
+
+He turned, boots crunching against the stone, and started making his way back toward the base.

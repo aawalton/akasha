@@ -1,0 +1,105 @@
+Ethan powered up the CelestiCraft, the green grid spilling across the dirt in front of the hauler. He called up the turret schematic, scaled it against the bed. For a moment the wireframe hovered neatly, promising a perfect fit.
+
+Then the projection flickered red. The conduits overloaded in a bright arc, popping like firecrackers. The whole rig collapsed in a shower of sparks, smoke rolling up around him. The Celesticraft refused to build.
+
+Ethan stumbled back, waving soot from his face. His gloves were scorched, the hauler’s side rail pitted where slag had splashed. The projection guttered once, then died in a smear of static across the dirt.
+
+“Son of a—” He kicked the panel away, sparks scattering.
+
+CelestOS: Congratulations. You’ve invented rolling instability. Please update your insurance provider before testing again.
+
+Ethan wiped soot from his cheek, glaring at the crooked grid. “Insurance is for people who aren’t already fucked, Cel.”
+
+CelestOS: Correct. Please update your will instead.
+
+He stayed there a moment, leaning into the hauler’s rail, the acrid stink of melted resin crawling into his lungs. Another failure. Another dead end. But he couldn’t let the thought go. He needed this.
+
+With a gun strapped to the hauler, he wouldn’t be trapped in camp, timing every trip like an Olympic sprint. He could haul ore from the ridge, drag scavenged parts from the wrecks, even scout the outer clearings without feeling the Veslayan monsters breathing down his neck. Every run back home was a gamble now, one wrong sound in the trees and he’d be sprinting home empty-handed, praying to make it to the base before something caught him. A mounted weapon meant he could fight his way back instead of running blind.
+
+And it meant freedom. He could keep the camp supplied, keep the factory fed, and keep himself alive long enough to finish the damn suit. With a proper rig, airtight and stable, he could stop worrying about every crack in his armor. And once the suit was done, he could follow the beacons. Follows Maria’s trail.
+
+That thought burned hotter than the sparks still smoking in the dirt. He couldn’t afford to stop here. Not when every failure meant one less chance of finding her.
+
+The idea still pulsed in his head, hot and insistent. He wasn’t wrong, if he could make the trash truck carry a gun, it would be more than sanitation. It would be a weapon. A tank.
+
+But brute-forcing a full turret wasn’t going to work. The hauler couldn’t handle it. He’d have to think smaller. Smarter.
+
+His eyes narrowed as the grin crept back.
+
+“All right,” he muttered. “If the tank can’t hold the turret, then the turret needs to fit the tank.”
+
+CelestOS: Correct. But modular design is a Tier three schematic. Please wait until you are less pathetic.
+
+Ethan laughed once, hard and bitter. “Pathetic, huh? We’ll see about that.”
+
+He unhooked the CelestiCraft from his belt and jammed his thumb on the stud. The green grid spilled outward, crawling across the dirt until it locked into a shimmering field. Above it, the schematic flickered blank. Freeform mode.
+
+“If you won’t give me blueprints, I’ll make my own.”
+
+He started grabbing parts from the nearest bins: a half-coiled copper wire, a few iron plates, a salvaged tripod brace, and one of the smaller sensor housings. Each clinked down onto the grid, snapping into glowing anchors. The wireframe around them stuttered, trying to guess at a shape, then bent into something squat and ugly.
+
+The CelestiCraft whined, arcs spitting across the projection as he added more: resin seals for joints, stripped logs for crossbeams, another set of coils to feed into a power conduit. His hands worked fast, reckless, sweat dripping into his eyes from the Veslayan heat as the wireframe thickened into a rough chassis.
+
+CelestOS: Advisory: you are attempting to build an unlicensed weapon. Probability of catastrophic failure: ninety-one percent. Please notify next of kin.
+
+Ethan smirked. “Closest thing I’ve got right now is you, and I’m not putting your name on my will.”
+
+The grid pulsed emerald, the field straining, until with a final burst the machine slammed into reality. It landed hard enough to kick up dust, vents belching a faint curl of smoke.
+
+It wasn’t elegant. A compact turret head perched on a boxy frame, tripod legs folded tight against its sides. A set of modular clamps jutted from the base, ugly but sturdy, clearly capable of locking onto the hauler’s cargo bed. The front lens glowing faintly red, whining as the barrel cycled in a jerky half-spin.
+
+Ethan crouched, running a hand along the warped plating. “Ugly. But workable. Just like my ride.”
+
+He gripped the side and heaved. The thing was heavy, but not impossible. He could haul it by himself if he had to. He set it onto the hauler’s bed, the clamps hissing as they bit into the edge with a magnetic snap. The turret settled, swiveling experimentally, before going idle.
+
+Ethan grinned, teeth showing despite the grime. “Woohoo! The trash truck just grew fangs.”
+
+CelestOS: Estimated lifespan: thirty-seven minutes under combat conditions. Please provide a name for morale-tracking purposes.
+
+“Name?” Ethan barked a laugh. “Fine. Call it Fang.”
+
+CelestOS: Recorded. Asset designation: Fang, Serial Number 001. Congratulations. You are officially a negligent parent of seven.
+
+Ethan leaned against the hauler, eyes locked on the turret. It wasn’t pretty, but Noa he didnt feel like he was just scraping to survive.
+
+He felt like he was building something that could fight back.
+
+The clamps hissed as Ethan double-checked them, hands lingering on the turret’s warped plating. Fang squatted on the hauler’s bed like a predator crouched to spring, lens glowing faint red as its barrel cycled in lazy half-rotations. The sight made him grin despite the sweat and the stink that still clung to his clothes.
+
+“All right, ugly,” he muttered. “Let’s see if you bite.”
+
+He climbed into the driver’s perch, jammed the hauler into gear, and the machine lurched forward with its usual chorus of groans and rattles. The treads bit into dirt, dragging the patched frame in uneven jerks. This time, though, the turret swiveled in tandem with the motion, tracking arcs in the treeline like a sentinel.
+
+The absurdity of it hit him all at once, a trash truck dragging itself across Veslaya with a jury-rigged gun strapped to its back. He laughed, the sound hoarse and half-mad.
+
+CelestOS: Estimated probability of self-inflicted injury during test drive: seventy-three percent.
+
+“Seventy-three?” Ethan spat grit, still laughing. “Them's rookie numbers, we need to pump those numbers up!"
+
+He throttled the accelerators, kicking up a cloud of dust, before he steered the hauler toward the ravine, the engine coughing smoke. At the edge, he braked, clambered down, and hefted Fang off the bed. Before testing it while driving, he wanted to figure out handheld mode, if he ever needed to leave the vehicle he didn’t wanna do it empty handed.
+
+The clamps released with a metallic click, and the turret came down heavy in his grip, forcing his knees to bend. He hauled it a few feet, set the tripod legs wide, and stepped back.
+
+The lens pulsed brighter, barrel spinning into a shrill whine. Ethan braced himself, thumbed the trigger, and the weapon roared.
+
+The shot slammed into a bloated husk snagged on rocks below, detonating it into a spray of resin and bone. The recoil rattled his arms all the way to his shoulders, but the sight of the corpse disintegrating in a plume of black mist made him howl with laughter.
+
+He fired again. Another carcass burst apart, fragments tumbling into the gorge. The echoes rolled back across the camp, sharp and final.
+
+CelestOS: Correction: congratulations on inventing a rolling war crime. Please note: public perception scores are not available on planets with no survivors.
+
+Ethan reset the clamps, dragged Fang back onto the hauler’s bed, and locked it in place. He drove a slow circle around the camp, turret swiveling in perfect arcs, lens flaring each time he tested the firing system. Every recoil shuddered through the frame, but it held.
+
+For once, he wasnt just patching holes or scrounging. He wasnt  just reacting. He was shaping this place, bending it to his will. The camp wasn’t just defended, it was armed.
+
+He pulled to a stop at the edge of the clearing, wiping sweat and ichor from his brow, chest still heaving with exhilaration. Fang hummed quietly on the hauler’s bed, the factory hummed behind him, and for this time, Ethan felt like he had claws.
+
+Then the ground shivered beneath his boots.
+
+It was faint at first, a tremor running through the dirt and up his legs. The treeline swayed though the wind was still, and somewhere deep in the resin forest, a low, answering cry rose. Not one voice, but many.
+
+Ethan froze, grin fading.
+
+CelestOS: Reminder: progress attracts predators. Congratulations on your promotion to bait.
+
+The forest answered with another cry, louder this time, and the shadows between the black trunks seemed to ripple.

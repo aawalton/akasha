@@ -1,0 +1,145 @@
+Harold’s lamp held steady while the generator’s new crank purred against its bearings. Ethan paused to stretch his wrist, then swapped arms and kept the rhythm going. The Mobile Crank Module clicked and coasted between turns, its flywheel storing just enough inertia that he no longer had to fight every rotation.  His labor finally produced something that looked suspiciously like progress. Sweat in, current out.
+
+[Reserve Power: 23% → 24% → 25% | Net Flow: +0.3%/min]
+
+"That's more than good enough for now."
+
+He rested his palms against the casing and let the steady vibration crawl up through his bones. The warmth that bled through the metal wasn't comfort. It was function. And function meant survival. And then, his stomach growled, embarrassingly loud in the chamber.
+
+“Back to basics,” he said, voice gravelly. “We get food, then water. I'm way hungrier than I am thirsty, though I'm sure that will be an issue soon.”
+
+CelestOS: Prioritization acknowledged. Reminder: caloric deficit impairs productivity and emotional regulation. Recommend immediate fabrication of consumables before you become ‘hangry.’
+
+He exhaled through a rough laugh and turned toward the stack of components beside the Fabricator. The shovel he’d created earlier waited where he’d left it: a blunt, stone-colored blade grafted to a composite haft. It wasn't elegant, but elegance was for people who weren't starving.
+
+He gripped it, testing the weight. The handle bit into his palm, grounding him. His stomach clenched, loud enough to echo.
+
+[Vitals: Caloric Deficit Severe | Glucose Reserve: Low | Fine Motor Control: -17%]
+
+CelestOS: Motivational update: you can do this. Advisory: you must do this. Failure will terminate the mission.
+
+He crossed to the breach the Autopick had carved earlier. A dark wedge of soil glistened in Harold’s light, threaded with roots and the faint shimmer of moss. Whatever patterns had been etched inside the room, were now completely gone. He remembered stripping this patch to near bedrock before, only to come up short: [Biomass: 1.4 kg / 1.5 kg]. That missing tenth still mocked him. Now he had power, time, and a shovel.
+
+He drove the blade in, cautious but steady. The tool murmured as it cut through the damp earth. A wedge came free with a wet tear, collapsing into a heap at his feet. Moist grit splashed his boots.
+
+Another thrust. Another slab. The rhythm held steady despite the burn in his arms and the ache that never quite left his gut: drive, pry, lift, toss. The air thickened with the wet, mineral smell of mud; his breathing and the shovel’s scrape folded into the generator’s hum until the cave itself seemed to pulse with him.
+
+He leaned on the handle, panting. “If Ex Nihilo can turn dirt into food,” he said, half to himself, “maybe it can turn mud into water.”
+
+[Mass Collected: 0.3 kg → 0.7 kg]
+
+CelestOS: Theoretically correct. However, conversion ratio renders the process… impractical. Current estimate: one U.S. football field of mud for approximately one gallon of potable water.
+
+Ethan blinked. “That’s not a ratio, that’s an insult.”
+
+CelestOS: Clarification: it is science. Suggest maintaining realistic hydration expectations. Optional morale feature: background music. Current playlist—‘Workplace Productivity, Vol. 7.’
+
+He laughed once, dry and tired. “You play that, and I start digging you a grave.”
+
+CelestOS: Please specify depth and width for optimal project planning.
+
+Ethan grinned despite himself. “You’d love that, wouldn’t you?”
+
+He braced the mound with his boot to keep it from sliding and drove the shovel deeper. The blade bit through wet soil with a thick, reluctant sound. Earth clung to the metal, streaking it in black paste as he levered up a heavier chunk. A root snapped across the edge like an old cable tearing free.
+
+CelestOS: Advisory: avoid undermining the overhead structure. Lateral excavation beyond thirty degrees reduces roof integrity by forty-two percent. Recommend the trench-and-step method: dig forward and terrace upward.
+
+“Copy,” he said, and shifted his stance. The shovel rose and fell in measured rhythm, the slope transforming beneath him. Each step he left behind became a rung of survival carved out of exhaustion. He’d done this a hundred times with machines that could move mountains, but doing it by hand shrank the world to muscle and breath. It was smaller, but not easier.
+
+His shoulders throbbed. Sweat ran down his spine in cold threads. He stopped feeling his hands and kept moving anyway, until the scrape of the shovel and the drag of his breathing blurred into one sound.
+
+[Mass Collected: 1.1 kg → 1.3 kg → 1.6 kg]
+
+“Right there,” he said, half-aloud. The pile gleamed wetly under Harold’s lamp, a small moon of mud cut square on one side and slumped round on the other. Flecks of moss caught the light like freckles.
+
+He straightened and the cave swayed. For a moment he saw nothing but sparks behind his eyelids. He caught himself on the shovel, rode the dizziness out, and forced a breath through dry teeth. “Don’t get cute,” he told himself. “Just process it.”
+
+He thumbed the CMS command on his wrist. The suit warmed against his chest. A subtle draft swirled across the mound, and the air shimmered as if the dirt were alive and trying not to be. A lattice of light rippled over it, dissecting every grain.
+
+[Ex Nihilo Conversion: Soil Sample → Decompose][Resource Yield: Sand | Trace Organics → Biomass][Biomass Acquired: +0.5 kg | Sand Acquired: +1.2 kg]
+
+The mound sagged, deflating like something had sighed from its core. A darker smear of residue gleamed at the center, viscous and faintly luminous. Ethan crouched and dipped a gloved finger into it. The paste was half-rotten and half-alive. It smelled of fungus and cold energy, like decay rehearsing for rebirth.
+
+[Biomass Total: 1.9 kg]
+
+His stomach knotted so sharply he had to brace both hands on his knees. The hunger was no longer emptiness; it was gravity. He exhaled once, steadying himself.
+
+“Alright,” he whispered. “Do it.”
+
+CelestOS: Confirmation required. Proceed with Nutrient Bar synthesis? [Input: 1.5 kg Biomass | Power: 0.4%]
+
+“Yes.”
+
+[Ex Nihilo Conversion: Biomass → Nutrient Bar][Reserve Power: 25.1% → 24.7%]
+
+The slurry lifted from the basin in a twisting ribbon of glowing grains, each particle shot through with faint green. The light folded inward, coiling tighter, compacting until form replaced chaos. The surface squared itself, then softened at the edges, designed somehow for fingers instead of machines.
+
+It dropped into his palm with the faintest thud. More weight than it should’ve had. More meaning than he wanted to admit. And then he noticed—
+
+It had a wrapper. A thin, iridescent film sealed tight around the bar, printed with the faintest Celestitech logo repeating end to end.
+
+He blinked. “You’re kidding me.”
+
+CelestOS: Clarification: packaging is mandatory. Per Celestitech Regulation 9.3, all consumables must arrive in tamper-evident wrapping for your safety and brand experience.
+
+He turned it over in disbelief. “You fabricated… branding.”
+
+CelestOS: Correction: the branding fabricated itself.
+
+He snorted despite himself, shook his head, and tore the seal open.
+
+It was ugly, like every survival bar he’d ever hated: a dense little brick with the faint sheen of oil and the smell of nuts designed by accountants. It offered no shine or promise, just fuel.
+
+His mouth watered before he even raised it. He could have eaten the air around it.
+
+CelestOS: Advisory: chew thoroughly. Choking hazards reduce mission efficiency and emotional dignity. Current witness count: one.
+
+He bit in and nearly sobbed. The bar resisted the way all of them did, clinging to his teeth, fighting his jaw like it wanted to outlast him. But beneath the struggle came sweetness and salt, then something elemental. It was an honest taste that said: live. He closed his eyes and let instinct take command.
+
+His legs wouldn’t trust him, so he slid down until his back met stone and ate slowly, like following orders from someone wiser. Each bite eased the static in his head, the generator’s hum fading into something soft and familiar. Warmth spread through him, quiet and mechanical, as if his internal organs were finally remembering what they were supposed to do.
+
+“Next one,” he murmured around the last bite, “I’m toasting.”
+
+CelestOS: Note: toasting requires an open flame. Recalling: combustion remains nonviable in an oxygen-poor environment. Would you like me to replay your prior complaint for reference?
+
+He smiled, eyes still closed, still enjoying the end of the bar. “No. I remember.”
+
+The response was immediate: eyes brightening, muscles uncoiling, the faint hum of vitality flickering through him like a reboot.
+
+Harold trundled forward and tapped his knee with a metallic snout, chirping a soft imitation of the generator’s startup whine. Ethan laughed, the sound shaky but real.
+
+“Yeah, buddy. Round two.”
+
+CelestOS: Advisory: it is impossible to fabricate a second bar while biomass remains sufficient. Follow-up recommendation: hydration. Renal systems have submitted an unofficial grievance citing unsafe working conditions. Reminder: If you die, I lack the authority or subroutines required to reanimate your zombified corpse for continued productivity.
+
+Ethan blinked. “That’s... oddly specific.”
+
+CelestOS: Clarification: prior user feedback suggested it was unclear whether death voided one’s employment contract. It does.
+
+He snorted. “Good to know.” He levered himself up and brushed his palms against his suit. The basin still held a ring of pale sand and a thin layer of organic paste clinging to the edges—enough to start again. Enough to think like someone with a plan. That was the game now: stay one bar ahead of collapse.
+
+He turned the shovel and dug back in. The motion found its rhythm: bite, lift, fold. He worked wide but careful, avoiding anything load-bearing. Sweat rolled down his spine, but the exhaustion felt clean now—earned.
+
+[Mass Collected: +0.6 kg][Ex Nihilo Decomposition → Biomass + Sand][Biomass Acquired: +0.4 kg | Sand: +1.0 kg]
+
+CelestOS: Progress commendable. You are now officially exceeding baseline persistence metrics.
+
+He did it again, and again, until the pocket had become a shallow room the size of a small car, its edges braced by the steps he’d left behind. The air felt thicker and wetter. He tasted metal and something green, like rain remembered by stone.
+
+[Humidity: +3% | Condensation Probability: Moderate]
+
+CelestOS: Observation: microclimate trending toward tolerable. Advisory: do not rely on it. Water extraction remains unsolved.
+
+“I’m not that dumb,” he said, smiling faintly. He then turned and fed the new heap to the suit.
+
+[Ex Nihilo Conversion: Biomass → Nutrient Bar][Reserve Power: 24.7% → 24.3%]
+
+The bar solidified in his palm, identical to the first. It was homely, heavy, and somehow precious. He wanted to eat it immediately, but the instinct to guard it with his life won. He slid it into his suit pocket, handling it like a relic.
+
+“Insurance,” he said. “For if I screw up.”
+
+CelestOS: Correction: when, not if. However, caching increases survival probability.
+
+He should have felt secure, but instead he felt the hollow absence of water. There was one thing he had forgotten in making these bars. They were fucking salty.  He raised his hand into Harold’s beam and turned it, studying the cracks in the fabric and the pale dust clinging to every seam. His joints ached with dryness. Even through the suit, he could feel the heat leeching away moisture that wasn’t there to lose. The air itself tasted stale; just like metal and his impending thirst.
+
+“Okay,” he said. “Water next. Just… not tonight.”[Vitals: Stabilized | Stamina: Restored | but you’re still thirsty.]

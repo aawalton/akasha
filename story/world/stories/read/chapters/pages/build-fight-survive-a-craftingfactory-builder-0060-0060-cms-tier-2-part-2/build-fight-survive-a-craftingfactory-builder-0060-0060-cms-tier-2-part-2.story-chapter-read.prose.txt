@@ -1,0 +1,75 @@
+Ethan dragged himself out of the forge and into the dusty afternoon air, the silence almost mocking after the swarm’s frenzy. Fang’s lens still glowed on the hauler bed, steady as a watchful ember. The machine, however, no longer felt like an after thought, it felt like a tried and true survival tool.
+
+His suit groaned with every movement, straps fraying, resin burns eating through the padding. It was so far beyond repair that he had half a mind to strip naked. He thumbed the cracked chest buckle again and grimaced at how he pinched bare fabric instead of armor. One more fight like just now and the damn thing would peel open like fruit skin.
+
+He circled the bins stacked high with ore, the neat rows of ingots glinting under the forge lights. Iron, copper, and the unfinished belts that would take him to silver and gold. He had enough metal to build a kingdom’s worth of parts, yet it would not stop him from bleeding out if his suit finally failed. The realization gnawed at him worse than hunger. He needed to get a move onto the next step. He needed textiles, filters, lining. The kind of material Maria would’ve carried in her field kits, just knowing how over prepared she always was.
+
+He pressed his palm against the console, letting the holographic list hover there again, the last line glowing like a dare: Proprietary Chip. Her trail. Her ghost calling out to him like a beacon of its own.
+
+His throat tightened. He could not chase it yet; not without the rest of the suit. Not without fabric. He clenched the edge of the console until his knuckles whitened.
+
+“One step at a time,” he muttered, though the words sounded hollow.
+
+Ethan pushed away from the console and glanced toward the hauler parked beside the forge. The machine sat crooked on its suspension, one headlamp dark, the other sputtering in a pale cone that barely reached the bins. Resin burns from the stampede streaked the side panels, and a few of the rear bolts were so loose the headache rack rattled if you leaned on it. Even so, the sight of it sparked something close to relief. On Veslaya, walking anywhere unarmored was suicide. The hauler meant reach, and more importantly, return.
+
+He limped over and yanked open the door. The hinges groaned, showering flecks of rust onto the ground. The cab smelled of old lubricant and resin smoke, sharp enough to sting his nostrils even through the filters. Ethan slumped into the driver’s seat and let the weight of his body sink into the cracked padding. The steering yoke wobbled slightly under his hand, wrapped in tape to hide the tear that ran the length of the grip.
+
+“Status check,” he muttered.
+
+CelestOS: Hauler Unit one point 9A1 is currently operating at thirty-eight percent efficiency. Major advisories: compromised exhaust system, degraded shock absorbers, and pending failure in the left front drive assembly.
+
+Ethan leaned back and listened as the hauler’s idle coughed, sputtered, then settled into a shaky rhythm that filled the night air. It was not reassurance. Not really. But it was better than stepping into the dark with nothing.
+
+Behind him, Fang swiveled its lens toward the forest as if waiting for orders. Ethan followed its gaze into the dark. It was time to check the silver and gold cache.
+
+————-
+
+Ethan blinked at the number, the exhaustion momentarily forgotten. “Wait. Twenty-Two? That’s all I get from that entire haul?”
+
+CelestOS: Twenty-two point four pieces of raw silver ore. Though you will find that partial gaskets are suboptimal for performance, especially during incidents of sudden atmospheric compromise.
+
+He groaned and wiped a long streak of ash from his face with the back of his glove.
+
+“Alright, whatever we’ll give it more time to grow. Now I need fabric.”
+
+CelestOS: Affirmative. The required textile component is PolybioFiber, or an equivalent. The material must be elastic for joint flexibility, breathable to prevent moisture buildup, heat-resistant, and durable under mild acid exposure from local precipitation. The primary source is the Veslayan cottonwood. Status: renewable. Zone identified. Coordinates have been uploaded to your map.
+
+A soft ping marked a new waypoint, which began blinking a steady green across the holographic map projected above the console. It sat a few kilometers southeast, in a stretch of wilderness the original drone pass had left completely blank.
+
+He squinted at the unfamiliar topography. “You’re telling me there’s a forest out there?”
+
+CelestOS: A grove, to be precise. Containing forty-seven unique specimens. The trees appear to exhibit an unusually high-density canopy and accelerated fiber production. Estimated textile yield: excellent. Environmental volatility: high.
+
+“Define high.”
+
+CelestOS: The area contains localized wind pockets, significant visual obfuscation from airborne seed clusters, notable terrain instability, and photosensitive vegetation with reactive dispersal patterns. The official designation is Risk Level: Orange-Moderate. The Opportunity Rating, however, is Gold-Tier.
+
+He narrowed his eyes at the familiar corporate lingo. “That sounds like a fancy way to say ‘a hellish hike into a monster garden that may or may not try to stab me with its leaves.’”
+
+CelestOS: Correct. However, as a reward for undertaking this mission, you may receive the limited-time satisfaction of completing your suit repairs and preventing catastrophic organ exposure. Estimated reward: continued existence.
+
+Ethan let out a tired breath and sagged against the hauler. His arms ached with a deep burn, and his legs felt like damp rope. The forge was useless without textiles. He needed them for proper seals, for bandages, for new filters, and for suit lining. His backup suit was a patchwork joke held together with hope and sealant tape.
+
+“Alright,” he muttered to the empty room. “Prep the Forester and crate up the deployables. I’ll head out after a quick RR to the ravine.”
+
+When he returned, he was pleasantly surprised to find that Cel had done what he’d asked.
+
+CelestOS: Auto-Forester Unit primed. Fabrication crate has been repacked with modular stakes, an atmospheric lensing shield, and one emergency foil blanket. Because we care.
+
+Ethan stared at the map where the grove blinked in quiet, unbothered invitation.
+
+“Sure you do,” he said. “Let’s go pick a fight with some trees.”
+
+Ethan sealed the last of the crate’s buckles with a sharp click. The Auto-Forester sat neatly folded on its hauler sled, hooked to the back of the crate like a reluctant metal dog. On his wrist-mounted display, the pink waypoint data pulsed steadily, pointing southeast. Distance: 4.7 kilometers.
+
+Ethan fired up the hauler, the engine coughing awake in a cloud of gray exhaust before settling into its uneven thrum. The crate was chained down in the bed, the Auto-Forester folded tight against the headache rack like a stubborn passenger. Fang perched above it, lens glowing red as if eager to spot trouble first.
+
+He dropped the hauler into gear and the machine lurched forward, tires crunching over brittle grass and patches of old ash. The forge dwindled behind him with every rattle and groan of the suspension. On his wrist display, the pink waypoint pulsed southeast, blinking over empty terrain. 4.7 kilometers might as well have been a continent if he had to haul the gear by hand. In the cab, though, the distance felt almost manageable.
+
+The ridges closed in like frozen breakers, stone crests rising higher with each stretch of ground. The hauler rattled between them, its undercarriage grinding whenever he misjudged the gap. Lilac grass scraped the sides in thick sheets, fibers hissing against the metal as though the planet itself were trying to sand it down.
+
+Ethan slowed to a crawl and eased the yoke, sweat prickling along his temples. The tires spun once, twice, before biting into the damp soil and jerking him forward. The whole cab shook with the effort. Fang clambered along the headache rack, lens twitching from ridge to ridge, its glow reflected in the glassy stone.
+
+“Come on,” Ethan muttered, feathering the throttle. The hauler lurched, suspension groaning like it might shear free. A shower of gravel peppered the underside, and for a second he pictured the axle tearing out and leaving him stranded with half a ton of gear. He glanced at the map projection; it was still three kilometers to the grove. He could not drag the crate that far by hand.
+
+He rolled to a stop and leaned forward, peering through the dust-streaked windshield. The nearest ridge sloped down at an angle slick with spores, glowing faint blue-green where the grass thinned away. The pattern reminded him of erosion, but not from wind. Something had chewed this place smooth.

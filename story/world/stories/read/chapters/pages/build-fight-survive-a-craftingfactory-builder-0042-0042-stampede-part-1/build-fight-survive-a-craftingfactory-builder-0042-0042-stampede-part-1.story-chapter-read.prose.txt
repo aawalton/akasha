@@ -1,0 +1,89 @@
+“CelestOS System status?” Ethan said as they finally made it back to camp. His excursion to get gold harvesting started had taken up a solid 3 hours including the travel time. Based on the previous day he had a good 6 hours of light left, but he knew that he needed to get a start on the defenses.
+
+While CelestOS updated him on the status of the camp, he went to work restocking the two fuel burners. He would definitely need to route wood or some other source of fuel into them soon, but just like everything else it would have to come later. He needed to focus on the project at hand.
+
+CelestOS: Forge and conveyor belts fully operational. Power levels stable at 79% load. Two Defensive systems active. Current threat level: yellow.
+
+Yellow. He exhaled slowly. He really needed to fix things.
+
+Ethan walked the length of the supply bins, rubbing the back of his neck. The forge was still running steady, and the belts hadn’t jammed. That was something. But he needed more than "something" if he was going to sleep tonight without waking up to teeth on his throat.
+
+He popped open the first copper crate. Sixteen ingots, fresh and cool to the touch. The forge had been chewing through ore faster than he realized. Next, the sap reservoir: eight full units sloshed inside the glass drum, pale green and viscous. The iron bins were overflowing, easily over a hundred ingots now. That was more than enough.
+
+"CelestOS, can we fabricate two turrets with current supply levels?"
+
+CelestOS: Affirmative. Available stock supports dual fabrication of Tier 1 auto-turrets. Efficiency note: post-fabrication copper reserves will drop below ten percent. Recommend resupply before next crafting cycle.
+
+He pulled up the schematic from the CelestiCraft menu and let the display hover in front of him.
+
+[T1 Auto-Turret: Tier 1 Recipe]Deployable kinetic defense platform. Tracks and neutralizes hostile entities.• Iron Ingot ×12• Servo Motor ×2• Copper Wire ×30• T1 Power Cell ×2
+
+He checked the inventory again. Three servo motors remained. That would work. Copper wire was low, but ten ingots would be enough to convert. The power cells were still intact from the last scavenging run, tucked safely in the padded bin near the old pod shell.
+
+He tapped the confirm icon.
+
+The CelestiCraft responded with a soft pulse of cold blue light. Materials from the crate vanished one by one, stripped down and repurposed within the containment field. The schematic hovered above the pad, flickering gently as each component locked into place. Iron converted to structural framing, copper to control coils, servo motors to motion hubs. No sparks, no smoke. Just the quiet hum of precision assembly.
+
+The air shimmered as the turret formed in front of him. A single projection beam swept through the containment field, solidifying the shape with a crackle of magnetic energy. The unit hovered briefly, then lowered itself to the ground with a mechanical clunk. Its lens blinked red, then green.
+
+He queued the second turret and stepped back, his arms crossed as the system resumed.
+
+It would take a few minutes to finish. He grabbed a drink from his stash and sat on one of the crate lids, watching heat rise from the forge while a dry wind stirred the grit along the ridge.
+
+When the second turret was complete, he stood and wiped the back of his wrist across his mouth. The first turret was heavier than he remembered. Boxy and solid, with just enough awkward weight to throw off his balance. He adjusted his grip and started toward the iron drill.
+
+The wind had picked up again, rolling dry dust across the camp in short bursts. He followed the stone path uphill, passing the purifiers and solar panels until he reached the ridge overlooking the drill site. The machine below churned steadily, its auger spinning over the exposed mineral seam.
+
+Ethan set the turret behind a low slab of rock and adjusted its angle. It had a clean view of the slope and most of the western approach. He locked the tripod clamps into place and ran a short power cable from the turret to the conveyor belt routing it into the power grid. The indicator light blinked red, then yellow, then green.
+
+It rotated once, scanning. Then it stopped.
+
+"Good enough," he muttered. "One down."
+
+He made his way back to camp, collected the second turret, and turned toward the copper drill. This one was trickier. The placement needed to cover more ground and stay hidden from anything that might flank it.
+
+He found a good angle near the conveyor split. A stack of broken girders provided partial cover beside the crate, and the power line was close enough to tap without needing an extension. He wedged the turret between the beam and the hillside and secured the feet into the soil with a few quick stomps. Once the connection was in place, the turret powered up with a low hum.
+
+Ethan stepped back and watched both units through the shimmer of heat rising off the ground. It was not much, but it felt like progress. Not survival by reaction, but by intent. A perimeter.
+
+CelestOS: Fabrication complete. Defense grid expanded. Threat level unchanged.
+
+He let out a slow breath. The drills were running, the turrets were online, and for once, the camp felt still. There were no alarms, no fires, and no footsteps in the dark.
+
+This entire day had been a walk in the park compared to his previous two. A nice pause where it felt like he could breathe again. He had power, tools, and something that resembled a plan. There were no screaming alerts and no monsters clawing at the walls. But rumbling underneath the surface was a feeling that he just wasn't doing enough. His stomach growled and he stopped his dawdling. Water first, then food.
+
+He turned toward the purifier, rolling out the tension in his shoulders as he walked. Maybe after that, he could actually think straight.
+
+He leaned against the purifier and let his eyes drift across the base. The copper drill clunked in steady rhythm. The turret lights blinked. Even the forge’s venting cycle seemed relaxed. It was the closest thing to normal he had felt in days.
+
+He filled a second cup, then a third. Each one went down faster than the last. His body had grown too used to dehydration. Now that the tap was flowing, every cell in him seemed to demand its share.
+
+As he lowered the cup for the final time, something strange happened. The cup vibrated, not much, just a tiny rattle in his fingers, but it was enough to stop him cold. He glanced at the purifier, where the basin rippled. A perfect, circular tremor pulsed through the water.
+
+“CelestOS,” he said slowly, “was that… me?”
+
+CelestOS: Negative. Seismic activity detected. Estimated magnitude: 2.3. Probable source: subterranean shift or external force.
+
+Another tremor hit, much stronger this time, as if the source would soon be upon him. The forge let out a metallic groan and the conveyor belt clattered as it flexed on its mount. Ethan staggered sideways, catching himself on the crate wall. “Subterranean, my ass,” he muttered. “That felt like a goddamn freight train.”
+
+CelestOS: Recalculating. Surface impact detected. Multiple contact points. Sensors indicate a stampede pattern.
+
+Stampede?
+
+“No no no no, what the hell does stampede pattern mean?!” This wasn't fair. He was supposed to have time before monsters attacked , damnit. Why was this planet so fucking unfair?
+
+CelestOS: possible impact in ninety-two seconds. Recommend seeking shelter or engaging defensive protocols.
+
+He sprinted toward the turret. It was still scanning calmly, barrel pointed at the ridge as if nothing were wrong. The forge behind him hissed and vented a plume of steam. Another tremor hit, rhythmic like a pulsing crowd stamping its feet, and then another and another, growing louder, closer.
+
+Ethan ducked behind the turret mount, his hands fumbling to open the ammo panel. He grabbed a handful of copper ingots and shoved them into the feeder tray. It clicked shut with a thunk that felt far too final.
+
+The lights inside the turret flickered again. The barrel twitched once, then settled. Ethan’s stomach flipped. For a second he thought it had jammed. Then the sensor blinked red. Then green. The rotation motor kicked in, slow and deliberate, like a creature stirring from sleep.
+
+“Come on, come on,” he hissed. “Wake up. Do something useful.”
+
+The turret powered up with a soft whine, its targeting sensor blinking red, then green. It began to rotate, slowly, toward the sound. Ethan frowned as he saw them.
+
+Dozens of shapes cresting the distant ridge. Massive, serpentine, and horrifyingly fast. Each one the length of a bus, but moving with a speed and grace that didn’t match their bulk. They had long, armored bodies, scaled like tank plating, and heads like mutated rhinos; they were tusked, blunt, and built to smash.
+
+They poured down the slope like a tidal wave of scale and muscle, twisting through the ash-dusted plain with terrifying coordination. Some slithered in wide arcs, tearing shallow furrows in the dirt. Others launched forward in straight lines, tusks lowered, jaws agape. Ethan couldn’t tell if they were fleeing something or hunting everything.

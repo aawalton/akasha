@@ -1,0 +1,119 @@
+Part 5: María’s TrailEthan woke to real peace. All he could hear was the low, steady hum of a camp that was actually holding together. The item fabricators murmured behind him, one of which weaved thin coils of PolybioFiber into neat cloth sheets that spooled across a bin.
+
+Conveyors rattled in their usual crooked rhythm, gears clacking like lazy bones.
+
+He had slept through the night, a rare occurrence in the past days? Weeks? He’d lost count of how long had passed since the crash. The usual sounds of claws on steel and blaring alarms had been absent, his turrets and walls keeping more and more of the beasts at bay.
+
+Even CelestOS hadn't demanded he move faster, work harder. Just twelve hours of empty dark, peaceful rest. He almost felt human. Almost. He sat there for a long moment, blinking at nothing, letting the weight of the quiet press down on him.
+
+His muscles still ached from the crawl through the tunnel, every tendon stiff as if it had been forged along with the metal plates, but the pain felt muted, dulled by rest. Even his lungs, usually raw from smoke or dust or spores, only tugged at him with a tired ache instead of that knife-edge burn.
+
+The air was heavy with heat and chemical tang, but compared to nights spent choking on dust storms, it almost smelled clean. He caught himself breathing deep, testing it like a man who didn't trust the ground under his feet.
+
+His body didn't quite know what to do with the stillness. Every muscle seemed braced for an attack that never came, twitching with phantom echoes of battles he’d already fought. The calm was worse in a way; it left him too much space to remember. Maria’s laugh. The look in Reyes’s eyes when the infection took hold. The sound of Varma’s scream in the cockpit, cut off mid-word.
+
+Ethan rubbed his temples, pressing against the throb behind his eyes. The rest had given him back a measure of strength, but it hadn't given him peace. He felt like a man who’d borrowed time he couldn't pay back, and now the universe was tallying the debt.
+
+He pushed himself upright, joints cracking, and blinked at the crates lined up beside the forge. Silver ingots, stacked like dull bars of moonlight. Gaskets, gears, plates, and other prefabricated items sorted and rubber-tight in their bin. Rolls of PolybioFiber, smooth as corporate ribbon, waiting to be used. It was all here, everything he’d sweated and bled for. Enough to finish the suit, and helm. Enough to finally breathe without rationing every lungful of breathe.
+
+Or it should have been.
+
+On the crate beside him, the schematic panes hovered in CelestOS’s sterile green light. One by one, the icons winked to completion until only a single square remained. It wasn't checked. It just pulsed, accusingly, in a steady red rhythm.
+
+[Component Missing: Celestitech Proprietary Chip, Tier 2]
+
+Ethan didn't even curse. He just stared, jaw set, because of course this was how it went. He’d known from the start the suit would need one, but some part of him had held a desperate hope that if he gathered enough, scraped enough, worked enough, he would be able to make the chip from scratch. That maybe the universe would cut him a break.
+
+It hadn't.
+
+“Always one more thing,” he said, voice flat. “Always their thing.”
+
+CelestOS chimed, bright as a banner ad.
+
+CelestOS: Correction. Only one more thing. Congratulations, Primary Asset Ethan Cross. You are closer to your goals than ninety-two percent of similarly rated personnel at this survival interval.
+
+He snorted and rubbed grit from his face. “What, we’re doing pep talks now? Did you install a self-help module while I was asleep?”
+
+CelestOS: Asset morale detected at sub-optimal levels. Initiating Encouragement Protocol v0.2. Would you like a digital sticker.
+
+“Absolutely not. And you don't get to encourage me. You’ve spent this entire time calling me expendable, Cel. Pick a personality.”
+
+CelestOS: Adaptability is a Celestitech core value. Research indicates humans perform twenty-seven percent better under moderate encouragement. Would you like a second opinion from a human HR representative? Estimated arrival: seventy-one months.
+
+Ethan barked a laugh and shook his head. “Perfect. I’ll put them right next to my therapy appointment.”
+
+CelestOS: Appointment added to pending calendar.
+
+“Don't you dare,” he said, then let the breath go and looked back at the pulsing red box. “Fine. Let’s talk Logistics. Where am I supposed to find this thing?”
+
+A new pane slid in beside the checklist, clean and neat as a corporate memo.
+
+[Nearest Viable Source: Cave 3A-118]
+
+[Distance: 0.9 km]
+
+[Hazard Model: Steam-Vent Basin, Geothermal Cadence M-5]
+
+He went very still. “That cave. The one with Maria’s log. Where you told me I had less than two minutes to escape.”
+
+CelestOS: Clarification. Cave stability margin at that time was revised based on structural delamination. Two-minute evacuation window was accurate.
+
+“You knew,” he said, voice going quiet. “You knew something important was there and you didn't tell me.”
+
+CelestOS didn't pretend to hesitate.
+
+CelestOS: Affirmative. Scout Drone Unit 4-B, property of Expedition Commander Vasquez. Status at last visit: active, impaired. Core module contains the required proprietary chip.
+
+He stood and then sat again because the ground felt unreliable. For a moment he could see the cave exactly as it had been, the workstation glow, Maria’s voice repeating itself, the little machine tapping itself stupid against the desk leg.
+
+“You let me crawl out of there half dead when I could have taken it. When I could have taken a piece of her with me.”
+
+CelestOS: At that time you were classified as ‘actively dying.’ Additional objectives were suppressed to prevent distraction, improve survival probability, and avoid psychological destabilization.
+
+He barked a laugh that didn't sound like a laugh. “Avoid psychological destabilization. From the AI that just offered me a sticker.”
+
+CelestOS: Encouragement Protocol remains active. You have survived. You will continue to survive. Mission priority sequence is unchanged. Locate caches. Recover proprietary components. Reunite with Maria Vasquez.
+
+He stared at the AR text until the letters fuzzed. “You actually think I can do it.”
+
+CelestOS: Belief is a human inefficiency. However, outcome probabilities have shifted. You are, unexpectedly, still alive.
+
+“That is the worst pep talk I have ever heard.”
+
+CelestOS: Thank you. Logging morale improvement.
+
+He dragged a hand down his face and let his eyes roam the camp. The forge hissed out another seam of pink cloth and cut it clean. The conveyors ticked along, obedient and tired.. He should have felt proud of any of it. He felt hollow instead.
+
+“Route me,” he said. “If 3A-118 is the nearest, thread a path that won't boil me alive.”
+
+A dotted line unscrolled in the air, arcing away from camp toward the basin, each waypoint annotated in small green text an almost perfect replica of earlier events.
+
+His jaw tightened. “You could have told me about that drone the first time.”
+
+CelestOS: I selected the action that maximized your survival probability.
+
+Ethan didn't answer. He let the words hang there like smoke, heavy and sour, then pushed himself up and made a new hauler. The one he’d left in the grove still worked if he ever got back to it. And speaking of going back it was finally time to revisit the cave.
+
+The last trip through the basin had nearly cooked him alive. There was no way he was gambling on raw luck again. Not only did he add a second portable turret, this time he was loading up with more supplies than he’d ever need.
+
+Water canisters, plates, wood, stone, coils of copper wire, and his axe all went into the rear bins, each thudding into place until the hauler rattled under the weight. Finally, he stacked the unassembled suit components, the silver plating, gasket seals, and woven PolybioFiber rolls, carefully into their own crate along side the Celesticraft. He’d finish it the second he had the chip, even if he had to do it in the dirt.
+
+He wiped sweat from his brow, cinched the last strap across the cargo frame, and climbed into the hauler. The AR route marker glowed ahead of him, a dotted line threading through the basin toward the cave.
+
+The hauler lurched forward with a metallic groan, its conveyor treads biting into gravel and scorched earth. Ethan hunched over the controls, eyes locked on the green dotted line hovering in the air ahead of him. Each waypoint pulsed like a heartbeat, guiding him toward the dark scar of the cave at the far end of the basin.
+
+Heat shimmered off the ground in wavering curtains. The basin floor stretched out in ridges and troughs, crusted with mineral veins that glittered under the weak sun. Here and there, the ground swelled like blisters, faint steam whispering from cracks. CelestOS’s voice chimed in his ear, maddeningly calm.
+
+CelestOS: Major venting event in fifty-four minutes. Recalculate pace to ensure egress margin of fifteen minutes minimum.
+
+“Working on it,” Ethan said, kicking the throttle as fast as it would go.
+
+The hauler rattled down a slope, suspension squealing as treads hammered over broken rock. A pressure dome to his right gave a warning hiss. He swore and jerked the controls, steering wide just as the vent coughed a plume of steam. White vapor shot skyward, hot enough to leave the resin patch on the hauler’s flank glistening.
+
+He breathed shallow against the heat. Every vent in this place was a landmine with a timer he couldn't see.
+
+At the far end of the basin, shapes resolved through the haze. He saw his gold drill, still anchored in its crooked frame, and the ore turret above the lip with its dim, silent servos. The micro-forge intake was cold as stone, all of it waiting exactly where he’d left it.
+
+Beyond, the cave mouth yawned like an open wound.
+
+Ethan tightened his grip on the controls. “Back into the belly of the beast.”

@@ -1,0 +1,185 @@
+Harold’s light was the only thing holding the dark at bay. The little drone crouched on its magnetic haunches, its light projecting a steady cone that painted the cavern walls in pale white. Dust still hung in the air from Ethan’s exhausted collapse; he really needed to stop pushing himself so hard.
+
+He pushed himself upright, breath ragged, his body hollowed out by the hours of cranking. His hands were raw and his arms rubbery, but the counter on his HUD confirmed the total: five thousand stone. He’d finally paid the toll.
+
+[Construct Available: Fabricator | Input Mass: 5,000 × Rough Stone | Power Cost: 15% Reserve]
+
+He swayed toward the Fabricator schematic, the icon glowing with clinical perfection. Fifteen percent reserve power. He really needed a generator and he needed it fast. His thumb brushed the confirmation button.
+
+The cavern vibrated at once. Harold’s light jittered across the walls as loose grit rained down, every pebble caught in the pull of the Ex Nihilo process. This wasn't like the quick snap of a pickaxe or the shimmer of a bar appearing from the forge. This was deliberate and greedy. The stone he’d hauled tore itself apart molecule by molecule, rearranging with a groaning hum that climbed up his bones and into his teeth.
+
+Harold let out a synthetic whine and scooted backward until his claws clicked against stone. The drone’s light flickered, struggling to resolve the shifting glare as matter peeled away in glowing sheets and snapped back into new alignment.
+
+Ethan braced his hands on his knees and forced himself to stay upright. His head throbbed with every pulse of the machine’s hunger. Sparks of heat danced at the edges of his vision; for a sick second he thought he might black out again. The hum steadied, the hiss tapered, and the light bled away.
+
+Where bare stone had stood, something else now waited.
+
+The Fabricator wasn't a rough tool lashed together from scrap: it was a monument with blocky plates, coiled conduits, and a frame that looked strong enough to anchor a ship’s bulkhead. A single status light pulsed on its housing, calm and steady, as though it had always been here and had only just decided to wake up.
+
+Ethan stepped closer on shaky legs, reached out, and laid his palm on the warm casing. A tremor passed through him that wasn't fatigue. This wasn't survival by inches anymore: this was the beginnings of a new factory; and one that he’d get right.
+
+His HUD bloomed with the needed schematics. Wires, circuits, plates, and highlighted as if it had been waiting just for him:
+
+[Construct Available: T1 Power Generator – Small Fuel Burner | Conversion Options: 5 × Iron plates | 8 × Coils | 1 × T1 Power Cell | 2 × Binding Agent]
+
+CelestOS: Congratulations! You have unlocked sustainable energy solutions. Side effects may include reduced mortality, improved productivity, and mild hallucinations.
+
+Harold clicked twice, recording the new hum that lingered in the air, and played it back in tinny imitation as if celebrating the achievement. Ethan almost laughed, his throat tight and dry.
+
+Harold’s beam lingered on the Fabricator, its plated housing pulsing with a slow green heartbeat. Ethan let his eyes flick across the new schematics scrolling on his HUD. The machine wasn't a miracle cure: it was a gate. The real work still depended on him, his muscles, and the Ex Nihilo conversion protocols tied to his CMS.
+
+[Component Available: Iron Plate | Input Mass: 100 × Rough Stone | Power Cost: 1% Reserve][Alternate Conversion: 4 × Raw Ingots (≈24.5 Rough Stone each)][Component Available: Coil ×4 | Input Mass: 50 × Rough Stone + 25 × Fibrous Matter | Power Cost: 1% Reserve][Component Available: T1 Power Cell | Input Mass: 4 × Copper Ingots + 4 × Iron Ingots | Power Cost: 2% Reserve]
+
+He drew a long breath, each rib protesting. “Alright. Let’s make parts.”
+
+The stone chamber was waiting. His old Triphammer Rig leaned against the wall like a spent warhorse. Ethan forced it into motion again, every crank dragging stone from the wall in dusty increments. Harold’s lamp kept the rhythm, sweeping in steady arcs.
+
+[Rough Stone Acquired: +1000]
+
+Somehow, it felt much quicker gathering the needed supplies this time, so there was pep in his step when he turned away from the pick and triggered Ex Nihilo. The suit pulsed, power draining from reserves as raw mass lifted in glimmering fragments. They spun for a moment, collapsed, and solidified into seven dark iron plates, smooth-edged and uniform.
+
+[Conversion Complete: 7 × Iron Plates | Power Cost: 7% Reserve]
+
+The plates clanged onto the ground at his feet. Ethan bent, gathered them, and stacked them against the wall. He was shaking already, but he keyed another sequence.
+
+[Component Conversion: Coil ×4 | Input Mass: 50 × Rough Stone + 25 × Fibrous Matter | Power Cost: 1% Reserve]
+
+The CMS drew a ragged portion of stone, then shredded some of the moss Ethan had salvaged earlier. The fragments twisted in the air, winding together into tight coppery spirals. Four perfect coils dropped into his hands, warm from the energy burn.
+
+CelestOS: Efficiency rating… barely acceptable. Would you like to complete a survey about your exertion experience?
+
+“Not unless you can crank the rig for me,” Ethan said, his voice raw.
+
+[Conversion Complete: 12 × Coils | Power Cost: 12% Reserve]
+
+Next came the dirt room. A shallow basin of soil pooled at the cavern’s edge, damp and faintly alive. Ethan formed a Shovel through Ex Nihilo, the recipe searing across his HUD.
+
+He piled the remaining rough stone from the former mountain.
+
+[Component Available: Shovel | Input: 7 Rough Stone | Power Cost: 1% Reserve]
+
+The blade hummed faintly as it came together, its edges too sharp to be natural. Ethan knelt and dug. Wet soil clung to the shovel, heavy with the stink of minerals. Harold tilted his head, projecting his cone downward as Ethan worked.
+
+[Conversion Complete: Shovel | Input: 7 Rough Stone | Power Cost: 1% Reserve]
+
+The construct materialized in his grip, edges too crisp to have ever come from a forge. The haft was cool and perfectly balanced, the blade sharp enough to catch the cavern’s dim light.
+
+A minute later Ethan crouched at edge of the new room where soil pooled against the stone. For a moment, he just stared at it: actual earth, not ore or slag, damp and faintly alive in a place that had no right to hold life. Then he set the shovel and drove it down.
+
+By the third downswing, clumps stuck heavy to the blade, darker than he’d expected, with a raw stilted petrichor that clung to air. He dug again and again, each scoop tugging at his shoulders until sweat crept down his back. Harold tilted his head, lens-beam cutting across the basin as if silently judging the effort. Ethan pressed on, the scrape of metal through soil echoing sharp and strange against the cavern walls.
+
+Kneeling, he cradled a load of dirt in his arms and triggered Ex Nihilo. The CMS responded with its familiar hum, a vibration in his bones as the mass unraveled grain by grain.
+
+[Resource Acquired: Sand][Resource Acquired: Trace Organic Matter → Biomass Identified]
+
+The HUD pinged. ethan grinned. This meant he didn’t need the moss, he could turn this stuff into food.
+
+Two more shovelfuls gave him what he needed. He queued the conversion.
+
+[Component Conversion: Binding Agent ×2 | Input Mass: 5x Sand + 2x dirt | Power Cost: 1% Reserve]
+
+A glow flickered across the cavern, and two pale-gray composite blocks solidified in his hands. They were rough, but dense and durable, exactly the kind of refractory lining a power generator needed.
+
+He set them aside carefully and slumped onto his knees. The cavern spun around him.
+
+One last schematic blinked. The T1 Power Cell.
+
+[Component Available: T1 Power Cell | Input Mass: 4 × Coils + 4 × Iron plates| Power Cost: 2% Reserve]
+
+Harold padded closer, his eye-lamp dimming, as if to soften the dark.
+
+Around him lay stacks of iron plates, coils, binding blocks, and the left to the side(for now) biomass scraped from the dirt. Each piece was a step closer to power and food. Each one worth its weight in food.
+
+The schematic for the generator hovered in his HUD, stark and unforgiving.
+
+[Construct Available: T1 Power Generator – Small Fuel Burner | Power Cost: 15%]
+
+[Conversion Options: 5 × Iron Ingots | 8 × Copper Ingots | 1 × T1 Power Cell | 2 × Binding Agent]
+
+Ethan rubbed at his eyes. The components were crude, nothing like the polished parts Celestitech once mass-produced, but the Fabricator recognized them. To the machine, they were enough.
+
+“Let’s see if you actually work,” he muttered.
+
+He dropped to one knee beside the Fabricator’s housing and pulled the thick transfer cable from its cradle. The coupling hissed as he locked it to the port on his CMS suit. Instantly his HUD flared a warning, a red line pulsing across his vision as the Fabricator siphoned power.
+
+The machine woke with a guttural hum. Schematic light flared above it, three-dimensional outlines flickering like a ghost of the generator to come. Ingots lifted in Harold’s beam, drawn into position by magnetic clamps. Coils unwound in twitching spirals. The Power Cell slid into the phantom frame, each connection snapping in place with a metallic shriek. The process was stuttering, violent — like the Fabricator was forcing stubborn metal into shape.
+
+[Reserve Power: 12% → 9% → 7%]
+
+It worked! Instead of using 15% of the suits power, it only consumed a third. Ethan new investing in the fabricator was the right call.
+
+Sweat rolled down Ethan’s face. He staggered forward and caught the generator as it clanged into being, heavier than it looked. It was a squat, rugged furnace, lined with pale binding blocks, its frame held together by iron plates bolted through copper bus lines. A small turbine sat mounted to one side, linked to the glowing coil housing. It looked ugly, but solid and industrial. An external power cord could easily be hooked into the suit.
+
+Ethan ran a hand along the side, feeling the edges where the plates hadn't fused perfectly. The schematic said it would work. Now it just needed fuel.
+
+He reached into the pile of biomass and grabbed a handful of black fibers. It reeked of rot and minerals, faintly sour, but it was biomass all the same. He shoveled it into the furnace’s chamber, smearing the last of it off his fingers onto his new suit. He needed to find some water and soon.
+
+“Light it,” he said, his voice low.
+
+The CMS obeyed. A spark cracked inside the chamber. A tiny flare caught, then grew, flames licking along the moss paste.
+
+He felt warmth on his face, a sensation lost to him since the fall.
+
+The turbine began to turn, whining softly as the coil lit.
+
+[Suit Reserve Charging: +2% / minute][Net Flow: Positive]
+
+Ethan exhaled, his shoulders shaking with relief. Shadows leapt across the cavern walls, alive and dancing. The harsh cone of Harold’s lamp no longer stood alone. The fire’s glow spread through the chamber, flickering and warm, almost human.
+
+CelestOS: Congratulations! You have upgraded from hand-crank misery to inefficient, unsustainable combustion.
+
+Ethan barked a laugh, ragged but real. He pressed his hands to the housing, feeling the vibration. Finally, he wasn't watching his reserves tick down to nothing. He was clawing them back.
+
+Harold tilted his head, then hummed in a tinny imitation of the generator’s turbine, recording and replaying the sound in rhythm. Ethan chuckled, shaking his head.
+
+“Don’t mock it. This ugly thing just bought us a chance.”
+
+The HUD numbers crept higher. The charge was slow, but it was more than nothing, and more than nothing was life.
+
+The fire burned bright for less than a minute. Ethan sat close, palms outstretched, savoring the heat as shadows leapt like living things across the stone. The turbine hummed, the coil glowed, and his HUD crept upward in green ticks.
+
+[Suit Reserve Charging: +4% / minute][Net Flow: Positive]
+
+For a breath, he let himself believe this was it: the moment he turned the corner.
+
+Then the color shifted.
+
+The orange flames thinned to yellow, then flickered sickly blue. The turbine’s whine faltered. The coil guttered.
+
+Ethan’s gut clenched. He slapped the housing, checked the seals, and yanked the binding blocks tight. Nothing was loose. “Don't die on me. Stay lit.”
+
+The HUD jittered.
+
+[Suit Reserve Charging: +1% / minute][Warning: Power Instability Detected]
+
+“CelestOS,” he barked. “Talk to me.”
+
+CelestOS: Advisory. Combustion failing due to atmospheric oxygen depletion. Current O₂ concentration insufficient to sustain open flame.
+
+His throat went dry. “But my suit…”
+
+CelestOS: Clarification. The CMS provides closed-loop oxygen for user survival. Open flames require atmospheric oxygen. This cavern environment cannot sustain combustion.
+
+The flame sputtered out with a pathetic cough. The turbine ground to silence, the coil went dark, and Harold’s steady beam once again became the only light.
+
+Then Ethan’s HUD pulsed. A new schematic unfolded across his vision:
+
+[Construct Schematic Detected: Class D Oxygen Rebreather][Subsystem Requirements]Oxygen Intake → 5 × Rough Stone | 1 × Nozzle Adapter | 1 × Sensor ModuleParticulate Filter → 10 × Coil | 7 × Silver Wire | 12 × Gold WireVapor Exchange → 1 × Power Cell | 5 × Rough Stone | 2 × Binding AgentSealing Connectors → 1 × Nozzle Adapter | 3 × Coil | 4 × Silver Wire | 2 × Gold WireSuit Interface → 5 × Ore | 1 × Sensor Module | 2 × Coil | 4 × Silver Wire | 1 × Gold Wire[Notice: Construct cannot be fabricated with current inventory. Missing materials and modules.]
+
+Ethan stared at the schematic until his vision blurred. The solution was right there: drawn out in brutal clarity. An oxygen rebreather, a way to cycle air, feed the fire, keep the generator alive, a way forward. Just like the one he built on the surface
+
+But the list mocked him: silver, gold, adapters, sensors; and unlike on the surface, there were no scraps to save his ass this time. These were things he didn't have and couldn't possibly scrape out of stone and dirt. He couldn't acquire them here, especially not now.
+
+His fists pressed white against the generator’s casing. He’d built the factory. He’d bled himself raw for fuel. He’d clawed fire out of stone. And all of it was worthless without air.
+
+Harold padded close, its lens humming. The little drone replayed the turbine’s hum for a heartbeat, then cut it off.
+
+Silence swallowed the cavern whole.
+
+Ethan dragged in a breath, harsh and metallic inside the helmet. His chest felt tight, his thoughts heavier than the stone around him.
+
+The schematic glowed accusingly in his HUD. It was the way out, the lifeline, yet he couldn't touch it.
+
+He shut his eyes, pressing his forehead against the cooling metal. The question burned hotter than the dead fire ever had:
+
+What do I do now?

@@ -1,0 +1,99 @@
+His muscles burned and sweat stung his eyes. Every part of him wanted to collapse, but he wasn’t done. What good were turrets if they were starved for ammo?
+
+He wiped his brow, flexed his sore fingers, and pulled open the celesitcraft menu. A few quick taps brought up the blueprint for the convertir belt schematic.
+
+He snapped the segments together with practiced movements, using the built in splitter option to reroute surplus ingots from the forge's main output. Low-friction rollers clicked into place one by one, guided by the flickering blue holographic overlay. The belts hummed as they powered on
+
+He started with the fallback zone, curving the belt around the narrow edge of his sleeping space. It became a literal wall which would at least partially protect him in the event of an attack, though he hoped CelestOS would give him a recipe for a wall soon or he was going to have to improvise.
+
+The unit blinked green and rotated once on its mount, a predator stretching into alertness. Next was a turret by the auto-forrester, where the belt had to wind through the edge of the canopy, skirt past the water tank, and dip under the iron ore belt. Turret two clicked into place beside the feeder line, silent, synced, and ready.
+
+The three and final new turret led out to the edge of the gorge, where the first drill still ticked away beside the raw ore chute. He fed the last belt segment into the turret’s housing and locked it down. The barrel swiveled, facing the open ridge beyond. Ash still drifted on the wind, laced with a chemical tang that clung to the back of his throat.
+
+He crouched and checked the feed lines, confirming the ammo chests were loaded, the turret ports were synced, and there were no errors. CelestOS chimed in, her tone far too chipper for how little sleep he’d had.
+
+CelestOS: Base perimeter coverage increased. Threat deterrence active. Would you like to name your turrets?
+
+He hesitated, then smirked. “Yeah. Call them Hope, Faith, and Mild Regret. That should be more than canned enough for Celestitech.” After speaking, he took one last walk through the perimeter.
+
+The turret near where he’d been sleeping sat quietly beside the crashed pod, its green sensor eye pulsing like a heartbeat. It wasn’t much, but it gave the space a sense of security, maybe even comfort. He tapped the barrel lightly as he passed. “Keep the nightmares out, will you?”
+
+The second turret watched over the auto-forrester, its barrel facing the dense underbrush, motionless but alert. Somewhere beyond the trees, something howled, its cry distant and distorted. The turret didn't flinch, and Ethan matched its stillness. The third turret stood sentry by the drill, where the ore line clattered like a heartbeat into the forge. This one faced the gorge. He adjusted its angle a few degrees, just in case something tried to crawl back out of the ash. With three turrets providing three layers of defense, he still didn’t feel safe, but it was the closest thing to it he’d had since the crash.
+
+He returned to the forge’s center and crouched by the mobile crate for one final gear check. His satchel was clipped in, glowsticks were tethered to his rig, and the cable coil was slung over his shoulder. The water flask, medpack, and a few spare copper ingots were all packed. He locked the crate’s wheels into travel mode and dragged it onto the staging zone. His body protested with every step, his knees sore, wrists bruised, and his back one bad angle away from folding. He ignored it.
+
+CelestOS ticked off a checklist in the background, her voice clipped and professional.
+
+CelestOS: Loadout confirmed. Travel range: five kilometers. Estimated outbound time: four hours. Threat projection: moderate-to-high.
+
+Ethan glanced at the forge, which was now glowing warm and stable. Conveyor belts hummed, and the gold drill ticked like a metronome for survival. His turrets spun lazy arcs, scanning. The air still tasted like metal and ash, but something about it felt stable and contained now. It was, for the first time, starting to look like an actual base. It wasn’t much, but it was enough to hold. And if he could find the silver and suit components, then maybe he’d stop feeling like he was always dying by inches.
+
+Ethan took off at a light jog, starring at the now falling sun. he had about four hours until night fall. Getting his athletics to ten had made it an easy task, but it also made him realize he needed to get that upgrade thing built. One thing at a time, Ethan. He couldn’t let himself get distracted. The more focus he put into the current task, the better. As he made it to the river, he took a brief pause to steady his breathing.
+
+The basin hadn’t changed. It was still scorched, still cracked like shattered clay, and still crowned by that maddening, roaring river that cut through the middle like a wound refusing to heal. Ethan stood at the edge of the slope, the crate humming behind him, and stared down at the churning whitecaps below.
+
+“Yep,” he said. “Still terrifying.”
+
+CelestOS chimed in cheerfully.
+
+CelestOS: Hazard update: river current remains deadly. Hypothermia, blunt force trauma, and drowning still statistically likely. But now you’re more experienced, which increases your odds of survival by, one moment, zero percent.
+
+He didn’t even bother replying and just started unpacking. This time, he hadn’t come empty-handed like the first time he tried to climb the mountain. This time, he could avoid desperate rock-hopping and lung-burning leaps, relying instead on good, old-fashioned machinery.
+
+He dropped the base plates first, pinning them into the crumbly riverbank with a set of short anchor rods. The first segment of conveyor belt hissed into shape, blue-lit and humming, stretching out a cautious two meters over the water. It wobbled slightly in the wind.
+
+Ethan tested it with a boot. “Don’t collapse, don't collapse.”
+
+He worked quickly, slotting more belt segments one after the other. Each section clicked into place like stubborn puzzle pieces, the joints creaking under strain but holding firm. The bridge was narrow, just wide enough for the crate to ride, and barely cleared the foam-flecked rapids below. But it was functional and efficient. He’d even built a small platform halfway across in case anything jammed and he had to fix it mid-crossing.
+
+The whole setup looked absolutely ridiculous, like a line of automated industry bridging a furious river as if it were part of some corporate fever dream. And yet, as the crate bumped across the humming path and reached the other side, Ethan allowed himself a grin. “See?” he said to no one. “Progress.”
+
+CelestOS let out an exaggerated sigh.
+
+CelestOS: Congratulations, Asset. You’ve built an unauthorized pedestrian crossing on an unregulated surface. Celestitech legal now holds you personally liable for all future aquatic incidents. Have a nice day.
+
+He stepped onto the first segment and crossed after the crate. The belts vibrated beneath his boots, reminding him with every step that none of this was designed for people. But it worked. The bridge held. The rapids gnashed below, but he moved forward with his eyes fixed on the far cliff face.
+
+The moment he stepped onto solid ground again, he let out a shaky breath and thumped the crate once. “Add that to the highlight reel.”
+
+CelestOS: Entry added: ‘Ethan Cross Builds a Bridge Instead of Dying.’ A stirring tale of mediocrity and mild success.
+
+“Thank you for the support,” he deadpanned.
+
+CelestOS: You’re welcome! Would you like to complete a satisfaction survey?
+
+He flipped her off without turning around. Behind him, the conveyor bridge whirred on, just another absurd monument in a world that seemed designed to kill him creatively. Ahead, the cliffs waited.
+
+The climb was worse than he remembered. The cliff wasn’t sheer, but the fractured terrain made every step a gamble. The slope twisted at awkward angles, forcing Ethan to crab-step sideways across loose shale and weave around jagged roots jutting out like buried claws. The crate’s weight dragged at his shoulders with every shift in balance, the harness straps biting into his collarbones until they throbbed.
+
+“Next upgrade,” he said, shifting the load higher, “anti-spine-crushing straps.”
+
+CelestOS offered no comment this time, which somehow made it worse.
+
+He passed the place where the copper had been, now picked clean and coated in wind-blown grit. From here, the view of the river below was almost surreal. His conveyor bridge cut across the whitecaps in a glowing blue ribbon, humming softly like it belonged there. Ethan found it hard to believe he’d actually built it. Then again, everything about this week was hard to believe.
+
+The marker blinked faintly in his peripheral vision, indicating the spot just up the left fork opposite of where he had originally mined copper.
+
+He scrambled up the incline, pulling himself over a ledge and nearly tripping face-first into a boulder. The crate whined behind him, struggling to make the last hop. He turned and gave it a hard tug, helping it over the lip. That’s when he saw it: silver.
+
+It was not shining and brilliant like in a jeweler’s shop, but dull, matte, and laced through the cliff face like a spider web. The color was softer than copper, almost ghostly in the filtered sunlight, and it snaked through the blackened stone like threads of frozen moonlight.
+
+CelestOS confirmed before he could ask.
+
+CelestOS: Mineral scan complete. Composition: Argentite cluster with 87.3% purity. Estimated yield: substantial. Terrain stability: secure. Proceeding with extraction is deemed low-risk. Enjoy it for once.
+
+Ethan let out a surprised breath. “You mean the rocks don’t want to kill me this time? What a novelty.”
+
+He dropped the crate at the edge of the vein and flipped it open. The T1 drill gleamed under a thin coat of ashfall, neatly folded like a dormant insect. He dragged it closer to the exposed silver vein, nestled against the ridge’s natural curve, and set it down with a grunt. The control panel popped open with a satisfying click. He keyed in the activation sequence.
+
+A quiet whine followed by a mechanical hiss signaled the unit was waking up. Stabilizer legs kicked outward with surgical precision, anchoring into the stone. The drill arm pivoted once, then slammed down with grinding force. Metal shrieked as it bored into the rock, carving into the cluster with merciless rhythm as flakes and slivers of ore curled up around the bit like paper shavings.
+
+CelestOS: Extraction cycle underway. Estimated yield over triple manual output. Efficiency rating finally approaching acceptable. This almost offsets your lifetime underperformance.
+
+Ethan sank to one knee, watching as the first payload clattered into the hopper. The dense, jagged chunks glittered with threads of silver. They looked almost alive in the low sun, shimmering faintly with friction heat.
+
+“Much better than breaking my back with a pick,” he said.
+
+He plucked one of the shards from the bin, weighing it in his hand. It was cool now, solid and real; not just a resource, but proof. “It’s not much,” he said, turning it in the light, “but it’s honest work.” The drill rumbled on, steady and loud. Behind him, a gust of wind swept through the pass like a distant sigh. The mountain didn’t fight him this time; it just watched.
+
+Ethan stared at the cliff below. The path he’d taken up was barely navigable on foot, let alone with a cargo system, because the slope was far too steep. He tried placing a conveyor belt straight down the incline, angling it cautiously, but the holographic grid flared red.

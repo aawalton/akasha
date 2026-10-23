@@ -1,0 +1,101 @@
+The spores glowed a faint blue-green where the grass thinned across the slope from whatever had flattened the area. A sickly phosphorescence flooded the air, floating along like mold in water. Ethan held the vehicle steady, waiting for the proper moment to move forward.
+
+The area hadn't been scoured by wind as he had initially thought, or at least, not by a natural one. The grass and the flattened area were too uniform, as if they'd been sheared off by mechanical means.
+
+His thoughts wandered for a moment before he lurched forward in the vehicle. The hauler protested every meter. It wasn't the terrain itself, which was flat and unnaturally even, but the residue clinging to it. Spores and fibrous strands packed into the treads, grinding against the wheels until the suspension groaned and the frame rattled like loose armor plates. Each push forward felt less like driving and more like dragging the machine through a mire disguised as stone.
+
+Crates slid against the bed of the makeshift truck. Fang’s lens roved constantly, the turret alert for anything that might threaten its charges. The light from its lens bounced across the glass of the windshield, creating an odd effect and reminding him of someone nervously wielding a flashlight.
+
+As the hauler approached the miasma of dust and floating spores, Ethan had a choice to make. He could either drive straight through and hope for the best, or he could try to drive around and see if there would be another route through to his goal.
+
+He wasn't a gambler by trade or function, but looking at the alternate map CelestOS provided for him, it wasn't even a fair trade. Straight through the dust storm would take ten minutes. The alternate route would take days. If he wanted to get on the trail of Maria as fast as he could, he couldn't afford the wasted time getting this final production line up and running.
+
+He charged the throttle. Instantly, the windshield went from slightly dusty to opaque. Strands of spores mixed with a blue fibrous material streaked across the glass and into the air above the hauler. He bent forward, hoping that keeping his head behind the pane would keep the worst of the particles away from him.
+
+The sound changed as soon as the hauler entered the cloud. The steady thrum of the engine dulled into a muffled growl, as though the entire cab had been submerged underwater. The rattles and groans of suspension seemed distant, filtered by the thickness of the air. A faint static hiss pressed against Ethan’s ears, a sound that was neither noise nor silence, like the background buzz of a broken radio.
+
+CelestOS: Advisory. Atmospheric composition altered. Spore density exceeding safe limits. External sensors operating at twenty-nine percent fidelity.
+
+Ethan’s grip tightened on the yoke. “Twenty-nine? I might as well be flying blind.”
+
+CelestOS: Correction: You're driving blind.
+
+The hauler jolt hard as one tire clipped a buried root, as the terrain finally returned to normal. The whole frame shuddered, and crates slammed against the side rails. Ethan fought the wheel, squinting into the thick haze. Shapes moved in the cloud, or seemed to, revealing dark blotches swirling just beyond the headlights. He couldn't tell if it was wind and spores, or something alive.
+
+Fang’s lens tried to track, bouncing from one phantom to the next. The jittery sweep of its light made Ethan’s stomach knot. Each flash hinted at movement, at angles too sharp to be random.
+
+The intake whined louder, a strangled cough rising beneath the hood. Spores caked across the front grille in fibrous mats, dragging down airflow. Ethan swore and leaned closer to the glass, straining for any glimpse of a way forward.
+
+The phosphorescence thickened until it painted the cab’s interior in sickly blue-green. He could see his own reflection staring back at him in the foggy glass, wide-eyed and tense, as though some stranger were trapped inside the hauler with him.
+
+A new sound arose, one that wasn't the engine or the wind, but something higher and thinner. A whine like vibrating glass, far away at first, grew clearer with each meter forward. Ethan’s knuckles whitened on the yoke.
+
+“Please,” he said, “let that just be the storm.” CelestOS stayed quiet, and somehow that was worse.
+
+The whining grew sharper until Ethan realized it wasn't just inside his head. It had a rhythm, a pulse, like a swarm of tuning forks struck all at once. He tightened his grip on the yoke, leaning forward as if pressing his helmet closer to the glass would help him see.
+
+The haze shifted. A shadow darted across the headlights, long and spindly, then another. The buzzing grew louder, joined by a hollow drumming as something hard beat against the air.
+
+CelestOS: Warning. Aerial mass approaching from multiple vectors. Estimated size… large.
+
+“That’s not helpful,” Ethan gulped, but the pit in his stomach already knew how fucked he was.
+
+The first one hit the windshield like a thrown spear. Its body was as long as his arm, its wings a blur of translucent blue-green, trailing spores in glittering streamers. A needle proboscis cracked against the glass, leaving a hairline fracture that made Ethan jerk back in his seat. The creature scrabbled, wings hammering, its spindly legs squealing across the pane. It peeled away into the fog, trailing strands like ripped cloth.
+
+A second struck before he could breathe. This one clamped onto the side rail, its legs gripping tight. Its head arched up and down like a pump, its proboscis stabbing at the cab’s seam. A pale puff burst where it punctured the outer gasket.
+
+CelestOS: Identification confirmed. Veslayan Hematophage, colloquial profile: mosquito analog. Modified function: spore injector.
+
+“In English!”
+
+CelestOS: In corporate parlance: oversized mosquitoes. If stinger penetration occurs, probability of spore colonization: ninety-seven percent.
+
+Something thudded against the windshield, another slammed the rear gate. The hauler rocked, crates sliding and clanging as the swarm descended. The sound of their wings merged into a single wall of vibration that set his teeth on edge.
+
+Fang’s lens swiveled hard left, then right, its targeting reticle jittering across the windshield. A bright beam flashed, locked on something, then flickered out. The glow wavered and stuttered until it went completely dark.
+
+CelestOS: Advisory. Fang’s sensor resolution impaired by particulate saturation. Autonomous targeting offline.
+
+“You’ve got to be kidding me.” Ethan slammed the control yoke forward. “Why the hell can’t the turret lock on? They’re right there!”
+
+CelestOS: Clarification. Infrared and swarm-interference filters are part of the Celestitech Premium Plus™ package. Your current survival plan includes only baseline optical targeting. Would you like to upgrade now?
+
+Ethan’s jaw clenched. “Yeah, if you don’t fix this now, I'll upgrade you and the damn turret.”
+
+CelestOS: Acknowledged. For your convenience, I have already submitted a resupply request when you graduated from acting Captain to primary asset. Estimated delivery: five months, three weeks, and four days. Until then, infrared supports remain classified as a Tier-4 upgrade.
+
+Ethan forced the yoke steady, his jaw aching from how hard he clenched it. The cab shook under the pounding wings, every strike reminding him exactly why this had been the wrong call. He could have gone around. The other way was slow and grueling, but safer. A few days lost was nothing compared to this: boxed in and half blind, with things big enough to crack the windshield clawing at his cab.
+
+“Idiot,” he said, the word cutting sharper than the stingers on the glass. “Should’ve taken the long way.”
+
+But he hadn't, because he couldn't stand the thought of burning days while every hour pulled him deeper into exhaustion and shortages. Now the shortcut was trying to kill him, and all he could do was keep the wheel straight and pray the hauler held together long enough to regret it properly later.
+
+He slammed his palm against the dash, the jolt of pain sparking up his arm. For half a heartbeat, he wanted to keep hitting, to let the anger out in blows until something gave way, but that was weakness. That was him turning into the man he swore he’d never be: a man who was reckless and blind with temper, breaking things instead of holding them together.
+
+He sucked in a breath, his lungs tight with spores and fear. He couldn't act like that, not here, not now. Maria was counting on him. Every stupid shortcut, every mistake already stacked the odds against her, and the only way to balance them was if he kept his head.
+
+The hauler bucked as something heavy landed on the cab, shocking Ethan from his thoughts. A spindly leg punched straight through the frame of the truck before scraping across the console. Ethan snarled and jammed the manual joystick forward. Fang’s turret rotated, the barrel whining as it spun up. He swung the reticle until the hauler’s flank glowed red.
+
+The first volley tore into the fog. Spores lit up in streaks of fire, casting the cabin in brief, violent flashes. One of the shapes shrieked and tumbled, wings folding as its carcass thudded against the bed. The rest scattered, leaving behind a deafening lack of noise.
+
+The sudden quiet made his heart leap. Ethan dared to hope. Maybe the noise of Fang’s volley had scared them off. He exhaled through clenched teeth, his shoulders sagging an inch toward relief.
+
+CelestOS: Status change. Current engagement level downgraded from “catastrophic” to “severe.”
+
+Ethan barked a laugh, shaking his head. “That’s your idea of good news?”
+
+CelestOS: Affirmative. It represents a twelve percent increase in projected survival time.
+
+He gritted his teeth, knuckles whitening on the yoke. “Twelve percent feels a lot like dying slower.”
+
+The haze stirred again. The wings returned, sharper and closer, the sound multiplied until it felt like the whole sky was vibrating above him. The swarm hadn't retreated. They had only pulled back to tighten their circle.
+
+The windshield shuddered as another proboscis scraped across it, screeching like a knife on stone. Ethan yanked the turret back and let loose again. The recoil hammered through the chassis, rattling bolts and trembling the glass in its frame.
+
+The swarm didn't break. More shadows pressed in, slamming against steel and stabbing at the seams. The cab filled with a rain of impacts and claws.
+
+Ethan grit his teeth, sweat blurring his eyes, one hand locked on the wheel and the other on Fang’s manual control. He realized, with a cold drop in his gut, that this wasn't going to be a quick push. This was going to be a fight.
+
+The hauler pitched as another weight slammed onto the roof. Claws scraped across steel, leaving trails of sparks where resin met metal. Ethan’s helmet rang with the vibration. He jammed the turret sideways, squeezing off another burst, but the reticle lagged, catching only the trailing edge of a wing before the creature vanished into the haze.
+
+Something probed through the side seam. A stinger, thick as a pry bar, punched into the crate beside his seat. Spores hissed out in a pale jet, dusting the cabin wall in a faint blue-green glow. Ethan’s stomach lurched at the thought of what would have happened if it had hit him instead. He swung the joystick hard, Fang’s turret snapping to life with a concussive crack. The thing screeched and tumbled away, tearing a chunk of crate lid with it.

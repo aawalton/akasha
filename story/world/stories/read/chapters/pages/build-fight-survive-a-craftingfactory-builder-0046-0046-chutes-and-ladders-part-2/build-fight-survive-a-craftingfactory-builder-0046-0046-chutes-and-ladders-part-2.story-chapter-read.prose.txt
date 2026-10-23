@@ -1,0 +1,97 @@
+CelestOS: Error. Slope exceeds incline tolerance. Please refer to your local gravity technician or install grav rails. Warning: grav rails not available in Tier 1 or 2.
+
+He scowled, kicking a loose stone that skittered off the ledge and vanished into the river far below.
+
+“Of course they’re not.” He tried again, angling the placement grid with a delicate touch, trying to cheat the incline by a few degrees. The interface still flashed a defiant red. The system refused to snap the conveyor in place, its internal logic unforgiving. He even rerouted to a flatter-looking rock face and attempted to lay down a simple belt ramp, but it terminated halfway through with another shrill chirp of denial.
+
+CelestOS: Suggestion: cry harder.
+
+Ethan chewed the inside of his cheek, ignoring the jab of pain, and stared down the jagged slope. It wasn't a clean descent. The terrain lacked a gentle incline or any friendly switchbacks, presenting instead a chaotic mess of jutting rock shelves, precarious dirt ledges, and half-formed terraces scattered down the mountain like some god had poured out a staircase and stopped halfway through.
+
+He tilted his head, a desperate, half-baked idea starting to form. “Okay… What if I chained a few conveyors? Create a series of drop belts. One per level.”
+
+CelestOS responded with the chipper tone of a customer service rep who had just smelled a lawsuit.
+
+CelestOS: Please rephrase your intended operational parameters in a manner suitable for safety compliance documentation.
+
+He drew a slow breath. “Short belts to each ledge. Drop points lead into catch panels or scrap chutes. Gravity does the lifting. Simple.”
+
+A pause followed. The air in front of him shimmered, and a Celestitech hologram bloomed into existence with sterile precision. At the top, glowing in bold corporate blue, was the title: HOW YOU DIED: Preliminary Hazard Forecast. The bottom corner pulsed with the seal of the Celestitech Risk Management Division, as if that made it official.
+
+Status: Active Project: User InitiatedActing Captain: Ethan CrossMission: Improvised Vertical Transit in Hostile Terrain
+
+Hazard Index:Red: Fatal Impact Risk: 43%Orange: Equipment Loss: 27%Yellow: Conveyor Misalignment: 19%Green: Success Without Incident: 11%
+
+Notes: Projected structural stability: technically within tolerances. Definition of “stable” adjusted per Emergency Clause 7.1.4: Stable enough until it falls over. All calculations assume generous rounding and a relaxed attitude toward gravity.
+
+Recommended Action: Proceed with caution, or preferably, do not proceed.
+
+"Define stable."
+
+CelestOS: The proposal aligns with Celestitech Field Operations Manual subsection 9.3.6-B: Improvised Vertical Transit in Hostile Terrain. It does not comply with Earth-standard OSHA guidelines for material handling, fall protection, or what a rational human would consider basic sanity. Additional note: your plan has been automatically filed under “creative misuse of assets” for your upcoming weekly review.
+
+He smirked without humor. “Got it. Celestitech approved. Glad to hear it!
+
+CelestOS: Correct. But it is always refreshing to hear an Asset embrace our shared reality.
+
+Ethan crouched and traced a potential route through the dirt with a bruised finger. One belt per ledge, each dropping a meter or two.
+
+He sighed again, his shoulders slumping with the weight of it all. “So that’s a yes.”
+
+CelestOS responded with an air of professional smugness.
+
+CelestOS: Celestitech congratulates you on your ambitious spirit. Please note: all injuries sustained in pursuit of said progress are officially categorized as non-reimbursable misapplications of common sense.
+
+Ethan stood and rolled his shoulders until his spine popped with a series of sharp cracks. “Yeah. That sounds about right.”
+
+He grabbed the first conveyor segment from the pile, hauled it over his shoulder, and staggered toward the uppermost ledge. The thick rubber tread slapped against his CMS suit with every step, the segment’s weight shifting awkwardly. The ledge itself barely accommodated the width of his boot. Just beyond the edge, the slope plunged into a tangle of thorn-choked scrub and jagged stone, more like a punishment than a path. The Celestigrid pulsed faintly in the AR overlay, green brackets snapping into place when he aligned the belt just right.
+
+He set the segment down, the placement grid locking to the rock face as if it had been designed for it. Anchor icons lit one by one until the final status turned green. One down.
+
+The second segment slotted in without protest, the grid tracing a neat virtual arc between the two belts and auto-generating a safe drop path. Ethan allowed himself a small breath of relief.
+
+The third was a problem. The ledge below failed the scan outright, red crosshatching filling his vision, accompanied by CelestOS’s politely disapproving tone.
+
+CelestOS: Error. Anchor points insufficient. Please locate a surface with a minimum of three stable nodes.
+
+He tried rotating the belt, shifting the grid, and selecting “Override Terrain Profile” from the placement menu. The system just blinked red at him. Eventually he found a narrow projection jutting from the cliff, enough to register two anchor points. The third just clicked into the cliff and he had to shake his head in frustration.
+
+CelestOS: Stability rating: provisional. This installation may void your warranty.
+
+By the fourth ledge, his suit’s was soaked with sweat and every grip point on his gloves felt worn smooth. At least the Celestigrid behaved this time, anchors snapping green on the first try. Too easily. He checked them twice, expecting a trick, before forcing himself to move on.
+
+The fifth location failed before he even tried. The slope was nothing but loose scree, the scanner refusing to acknowledge it as anything but “Dynamic Terrain: Placement Prohibited.” He cursed under his breath and hauled over a dead tree trunk, wedging it sideways until the grid finally blinked yellow. He did not even pretend to believe it would last.
+
+“Go ahead, file a report,” he muttered. “Make it sound heroic.”
+
+CelestOS: No need. Legal already assumes you're dead.
+
+A single, harsh laugh barked out of his throat. He staggered and nearly dropped the final belt. The sixth and last belt settled into place at the base of the slope, near a jagged split in the ridge where runoff had carved a shallow gully down toward the plains. He anchored it to a pair of heavy stones, stacked them tight, and reinforced the catch plate with a scrap of bent sheet metal pulled from the wreckage. Then he stepped back and looked at what he’d built.
+
+Six belts. Five vertical drops. One improbable, ugly zigzag stitched across the face of the mountain like a bad scar. The whole thing looked like a blueprint scribbled in desperation and rejected by every sane engineer on aesthetic grounds alone. He wiped his brow with a filthy sleeve, his chest rising and falling with uneven breaths. His arms shook. His legs burned. His hands were bleeding and raw. But it was finished.
+
+“Test it,” he said quietly.
+
+CelestOS answered with a tone of mock concern.
+
+CelestOS: Are you certain? I am detecting a complete lack of a backup plan.
+
+“Test it,” he repeated, reaching into the crate and selecting a single, jagged chunk of silver. He placed it gently on the first belt, then stepped back and let gravity decide what happened next.
+
+The conveyor shuddered to life with a low, uneven whir, its rubber track jerking forward as if it wasn’t fully convinced this was a good idea. The silver trembled at the start, then crept forward a few centimeters. It reached the lip of the chute and hovered there, balanced precariously, almost daring him to look away. Ethan didn’t breathe.
+
+With a soft metallic clink, the ore tipped and fell.
+
+He lunged to the edge of the ledge, eyes tracking its descent. The chunk struck the first catch panel and bounced, too far, too fast. “No!” he cried out as it clipped the edge of the second belt and spun off-axis, threatening to launch itself into open air. At the last possible moment, the catch plate flexed just enough to redirect its path. The silver wobbled, slid sideways, then fell again. It struck the third chute with a solid, clean thud, skidded briefly, and dropped onto the next.
+
+Down the fourth. Down the fifth. On the final drop, it veered right and slammed hard into the sidewall with a clang that echoed across the ridge, but instead of rebounding off the edge, it bounced inward and kept going, rattling along the tray until it hit the far end and rolled to a stop.
+
+Then came the sound he hadn’t dared hope for. Clink. The silver landed in the final catch tray and stayed there.
+
+Ethan exhaled in a rush, like he’d been gut-punched. A strange, involuntary sound escaped his throat, half laughter, half broken sob. He sank to his knees, arms limp at his sides, his entire body trembling from the effort. Every joint screamed. His spine throbbed. His knuckles were swollen and bloody. His jaw ached from how tightly he’d clenched it for the last hour. But it didn’t matter. It had worked.
+
+“It worked,” he said again, his voice hoarse and cracked with relief.
+
+CelestOS waited a beat before replying.
+
+CelestOS: Congratulations. You have successfully engineered a high-risk, low-efficiency, OSHA-violating ore descent array. Impressive. In the same way a raccoon stuck inside a vending machine is impressive.
