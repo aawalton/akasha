@@ -88,6 +88,14 @@ export const trackSyncing = {
       statement: "A release's count of tracks filed is kept up within the run that filed them.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A track page is edited once a release, however many of its tracks it records.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A track page a sweep leaves as it was is given no edit.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches Spotify.",
     },
@@ -121,5 +129,5 @@ export const trackSyncing = {
     },
   ],
   createdAt: "2026-09-15T14:57:52.100Z",
-  updatedAt: "2026-09-24T19:54:12.000Z",
+  updatedAt: "2026-10-23T13:50:48.028Z",
 } as const satisfies Module

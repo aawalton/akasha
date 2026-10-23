@@ -354,6 +354,23 @@ test("a release synced again replaces the carrier naming that release", () => {
   expect(again[0]?.values["partOfCollections"]).toEqual(["release/sylvia-daley-pixie"])
 })
 
+test("a release synced again with nothing new composes no edit for its tracks", () => {
+  const tracks = nothingFiled()
+  syncing(tracks, RELEASE, track("t7", "Elf", 90_000, 3))
+  expect(syncing(tracks, RELEASE, track("t7", "Elf", 90_000, 3))).toEqual([])
+})
+
+test("two tracks of one release keyed as one recording compose one edit for that page", () => {
+  const tracks = nothingFiled()
+  const wrote = syncing(
+    tracks,
+    RELEASE,
+    track("t7", "Elf", 90_000, 1),
+    track("t8", "Elf", 90_000, 2)
+  )
+  expect(wrote.map((one) => one.slug)).toEqual([ELF])
+})
+
 test("another recording under the same title takes a page of its own", () => {
   const tracks = nothingFiled()
   syncing(tracks, RELEASE, track("t7", "Elf", 90_000, 3))
