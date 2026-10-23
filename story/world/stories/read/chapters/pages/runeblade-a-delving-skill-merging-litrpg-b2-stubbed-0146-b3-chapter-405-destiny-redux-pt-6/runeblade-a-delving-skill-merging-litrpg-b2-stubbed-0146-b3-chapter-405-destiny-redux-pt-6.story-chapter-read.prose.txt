@@ -1,0 +1,169 @@
+Walking through the familiar hall where he had trained with Porkchop and Ianmus — and where Rieker had forced him to confront the recklessness of his initial approach to delving — Kaius only had eyes for the two blackboards that sat at the far end. Both contained veiled glyphs, swirling and shifting with every passing moment.
+
+As he hurried behind his guide, the hardened leather of Kaius’s boot heels clattered loudly on the reinforced floor. They slowed, stopping just before his choices.
+
+“Only two,” Kaius said.
+
+“Hmm?” His guide glanced over his shoulder. “Oh, yes. Drakthar is something of a centerpiece to this class, as you may have surmised from its focus on direct battle. That has somewhat limited the options — progression is more direct, the variants narrower. It favors violence.”
+
+Kaius looked down at his hands: at the jagged and swirling form of the glyph that lay there. It made sense, he supposed.
+
+“I imagine the fact the skill was already at Heroic contributed as well?” Kaius asked.
+
+“It did. Jumping off from Heroic leaves less room for divergence. Variants will exist, but they remain thematically linked to the direct applications of glyphic power.”
+
+“So I might have gotten more options if I’d picked the Vizier or the Wayfinder?” he guessed.
+
+His guide nodded. “Somewhat. They are both still Vesryn classes, though, and the initial glyph plays a significant role in that order as their main method of offensive casting. You would have seen fine-tuning towards their domains, but nothing as drastic as if you had chosen the Gilded Despot. In that case, the glyph would likely have bent more dramatically, and you may even have been offered the chance to replace it outright.”
+
+Kaius cocked his head. “How does that work with glyphs like mine, that grant spells? I assume my current ones only work with Drakthar.”
+
+His guide shrugged, before turning back to the blackboards. One finger traced the curves of a glyph, before he switched to the next. It hurt Kaius’s head to watch. Based on their movements and expression, they were tracing similarities; yet the glyphs seemed to twist around his guide's finger.
+
+It made it look like his guide’s very touch warped the world around them.
+
+“It depends. If the evolution diverges so far that your current spells no longer fit, you will pick new ones. If the path is direct, they remain, though they are often empowered and broadened if there is an increase in Skill rarity. For variants, the spells may shift to better fit the new focus.”
+
+Kaius looked back to the swirling, indistinct forms on the blackboards. There was little he could make out beyond the jagged aggression mirrored on the backs of his hands. Both images called to him — a deep, compelling urge.
+
+It didn’t feel controlling: they didn’t tug on his Authority, nor contest his sense of self. No, it was more primordial than that; an instinct that what lay before him was an expansion of what he could do. Another step closer to mastering glyph-binding; another step on the Path.
+
+Kaius gave in to the tug, leaning forward as two system descriptions flickered into being.
+
+Infused Glyph of Varkos:
+
+Level 201:
+
+Class Skill - Tier II
+
+Affinity: Arcane, Martial
+
+Type: Glyph-binding, Runic, Spellcasting
+
+Selection Available!
+
+Heroic
+
+The ‘Glyph of Devastation,’ Varkos is etched to meet the need for widespread destruction. An Infused Variant of Drakthar, Varkos is specialised towards bombardment: spells whose widespread devastation is matched only by their cost. Like its progenitor, it is a brutal and hungry beast; its nodes are inscribed on the hands and forearms where it may be better leashed and directed.
+
+Tier I:
+
+This skill allows the user to inscribe wide-area Vesryn evocation spell-hymns to be activated at will, limited only by the availability of mana to reserve into the working, and sufficient space on the body. Creates a hymnbook on the user's status if one is not already present. Multiples of the same glyph can cast hymns inscribed on their counterpart.
+
+Tier II:
+
+A linked node added to the forearms, capable of supporting second tier spells.
+
+Each level moderately increases the power, range, and area of effect of spell-hymns cast through the glyph.
+
+Each level slightly decreases the physical size of inscribed spell-hymns.
+
+Every 100 levels the user may learn another runic hymn of the relevant tier to add to their hymnbook.
+
+Spell-hymns Known:
+
+Tier I:
+
+???
+
+???
+
+Tier II:
+
+Selection Available!
+
+….
+
+Infused Glyph of Drakthar:
+
+Level: 201
+
+Class Skill - Tier II
+
+Affinity: Arcane, Martial
+
+Type: Glyph-binding, Runic, Spellcasting
+
+Selection Available!
+
+Heroic
+
+The ‘Glyph of Scouring,’ Drakthar is etched for aggression and dominance in battle. Its hymns unleash raw, directed energy in bursts of screaming magic. Of all Vesryn glyphs, it is the most warlike. As such, Initiates have its latent form inscribed on their hands and wrists to make it easier to direct — and less likely to bite something important. Driven forwards, and mastered to the point of infusion, Drakthar gains a second node on the forearms: gaining leverage to better tear and burn the Order’s enemies.
+
+Tier I:
+
+This skill allows the user to inscribe Vesryn evocation spell-hymns to be activated at will, limited only by the availability of mana to reserve into the working, and sufficient space on the body. Creates a hymnbook on the user's status if one is not already present. Multiples of the same glyph can cast hymns inscribed on their counterpart.
+
+Tier II:
+
+A linked node added to the forearms, capable of supporting second tier spells.
+
+Each level moderately increases the power, range, and area of effect of spell-hymns cast through the glyph.
+
+Each level slightly decreases the physical size of inscribed spell-hymns.
+
+Every 100 levels the user may learn another runic hymn of the relevant tier to add to their hymnbook.
+
+Spell-hymns Known:
+
+Tier I:
+
+Stormlash
+
+Hateful Nail
+
+Tier II:
+
+Selection Available!
+
+Kaius compared the two skills with interest. Infused glyphs. He lacked the context to know exactly what that meant — so he asked.
+
+“It is not universal or objective,” his guide explained. “It is Vesryn’s naming scheme, tying glyph development to their philosophy. ‘Infused’ represents the binder allowing the glyph deeper into their being, to be filled more completely. Functionally, Drakthar remains the same glyph it was — but following Vesryn glyph ranks, it has a slightly different name. If you keep to this skill chain, you will see this continue through future evolutions.”
+
+Kaius nodded. That was what he had expected. With the skill already at Heroic, and without a change in focus, it would have been strange for there to be something new beyond the natural benefits of the second tier.
+
+“And the second node?” he asked.
+
+His guide nodded toward his hand. Kaius looked down, staring into the formation that seemed to knot deeper into his flesh, wound around his monoflows.
+
+“Your glyph is a self-contained formation, designed to support Tier I spells. The secondary node is a more complex formation, linked to the first but distinct. Nodes are common terminology across most glyph-binding scripts.”
+
+Kaius nodded again, then turned his attention back to Varkos. As his guide had said, it was a clear variant of Drakthar — one built for costly, wide-area devastation.
+
+“How would my spells change?” Kaius asked.
+
+“Largely similar,” his guide replied. “But costlier. More focused on devastation across large groups. Your Hateful Nail might become a showering spray of smaller needles, for example.”
+
+That sounded potentially problematic — he was wary of overspecialization. While he wanted access to that kind of power, it seemed reckless to limit his kit entirely to spells of that nature. Second tier spells were likely to be costly enough already. If his first tier spells also shifted toward higher costs and wider effects, it would be harder to justify inscribing a tier two bombardment spell until he had much more mana.
+
+He looked at his guide. “As tempting as it is, I still have many more evolutions ahead of me. I think I’ll stay away from overspecialization for now.”
+
+“If you are sure. Just be aware — while you will have access to powerful, wide-ranging spells through Drakthar, you will not reach the extreme echelon of Varkos. That glyph slays armies and sunders city walls. With a strong team to support you and enough mana, its lethality is unparalleled.”
+
+Kaius shook his head. “Be that as it may, I am not in the business of killing armies or breaking cities. For all its power, it doesn’t matter if ninety-nine times out of a hundred the sheer cost makes it unusable.”
+
+“Very true. If you are sure… approach Drakthar and allow it in.”
+
+Kaius did so. As he stepped forward, the swirling lines on the blackboard crystallized, expanding to encompass his vision. Inky black depths revealed themselves, lines that looped and twisted, recursive and unending.
+
+**Ding! Infused Glyph of Drakthar Class Skill Available, would you like to proceed? This choice is pivotal and irrevocable.**
+
+He accepted. Power surged through his soul, fine tendrils of the system’s touch closing in on Drakthar, filling it with potential. It pulsed with his heartbeat until it burst in a crescendo that washed through him. Kaius felt his skin burn, his mana surge.
+
+Looking down, he saw his mana winding through his forearm, looping into a reflection of the glyph. Inky black lines followed, stretching across most of his inner forearm arm and wrapping to the back, where they linked seamlessly into his first Drakthar glyph.
+
+Slight gaps in the initial formation — gaps he had barely noticed despite all his study — welcomed the connection.
+
+Within the glyph he saw runes he recognized from the rest of his repertoire, and new ones as well, arranged in strange patterns. A wealth of information for him to study, and perhaps, at last, a way to better identify the core of the glyphs — the irreducible elements.
+
+Turning his arm back and forth, Kaius smiled down at the new working. He was excited to inscribe more spells, but to do that, he would first need to choose.
+
+“So eager,” his guide teased. “But fair enough. Let’s get this wagon rolling.”
+
+They snapped their fingers, and the world shuddered. Through his authority, Kaius felt an ineffable power seize hold of him.
+
+One moment they stood in the training hall beneath Deadacre, the next, Kaius was in a familiar office with a roaring fireplace. His guide stood at the shelves, pulling down four tomes: one deep orange, one white with black speckles, one bound in gleaming steel, and one in deep grey.
+
+“More choices!” his guide clapped, setting down the final book in a row in front of Kaius. “Class selections are always fun.”
+
+Kaius smiled, shaking his head. He reached for the books — eager to see what spell offerings awaited.
