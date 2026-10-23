@@ -1,0 +1,181 @@
+The fortress took thirty-one minutes to build. Ethan stood at the primary approach and looked at what he'd made and tried to feel something about the situation that wasn't dread.
+
+Six Mark IV heavy turrets lined the corridor in staggered pairs, their barrels wider than anything he'd built on Veslaya, dual-mounted and loaded with copper penetrator rounds. Behind the turrets, eight fragmentation charges sat flush against the corridor walls at chest height, blast plates aimed down the passage in overlapping cones that left no gap wider than a fist. Three sections of barrier plating narrowed the corridor between the charges, forcing single-file movement through a zigzag that would slow any advance to a walk. Two more turrets covered the secondary approach on the far side of the chamber, lighter units with smaller magazines, enough to buy warning time if something came from a direction he wasn't expecting.
+
+The Fabricator was still cycling. The Auto-Miner reserve was down to 6% and the conversion rate had dropped with it, the Ex Nihilo field dimming along the platform iron as the stone feed thinned. CelestOS had the system running on the last ammunition batch, copper penetrator rounds stacking on the output tray in rows of eight, each one heavier than the rounds he'd used in the gauntlet turrets, each one built to punch through composite plating rather than flesh.
+
+[CHAMBER DEFENSE — FINAL STATUS]
+
+[Primary approach: 6x Mk IV heavy turrets | 8x frag charges | 3x barrier sections]
+
+[Secondary approach: 2x Mk IV turrets | 1x barrier section]
+
+[Ammunition reserves: 840 penetrator rounds | Production ongoing]
+
+[Auto-Miner reserve: 6% | Fabricator output declining]
+
+[Gauntlet emplacements remaining: 11 of 29]
+
+He'd lost eighteen emplacements in just an hour. The corridor he'd designed to hold for days was collapsing at a rate that made the defensive math irrelevant. Patel's soldiers were dying in it and Patel kept sending more. The turrets kept killing. The emplacements kept falling. It wasn't slowing him enough.
+
+Ethan turned from the approach and walked back to the center of the chamber. The gold veins pulsed around him as he crossed the radius where Frederick's heartbeat ran through the floor, the light warming from dim amber to bright gold in the space of four steps. The cathedral's arches rose into darkness above. The air was warm and rich with the oxygen the chamber was still feeding them, a neonatal atmosphere maintained by a biological system forty thousand years old that had prioritized Maria over the corridors Ethan had just lined with explosives.
+
+He checked the sidearm on his hip. The weight was unfamiliar. Every weapon he'd built on Veslaya had been a turret, an automated system he could deploy and walk away from. This was different. This was a weapon for the space between the turrets' field of fire and the platform where his wife was delivering his son, and the only targeting system it had was him.
+
+Maria was on the birth platform with her knees drawn up against the leg supports and both hands on the rails. Her eyes were closed. Her breathing had changed in the last ten minutes, the controlled rhythm of active labor giving way to something rawer, each exhale carrying a low sound that built through the contraction and broke at the peak. The pain had moved past management into endurance.
+
+CelestOS: Eight centimeters. Contractions at ninety-second intervals. Duration per contraction: fifty to sixty seconds. She's in transition. This is the hardest phase and it doesn't last long. Pushing will begin within fifteen to twenty minutes.
+
+Ethan knelt beside the platform. Maria's hand found his gauntlet without opening her eyes, the grip immediate and crushing, her fingers locking around the plating with the same force she'd used when the labor started. The contraction was building. He could feel it in the way her grip tightened in a wave, pressure increasing over ten seconds, holding at the peak for what felt like a full minute but was forty-seven seconds by CelestOS's count, releasing in a slow uneven drop that left her breathing through her teeth.
+
+"How many left," she said when she could talk.
+
+"Eleven."
+
+She did the math. He watched her do it. Her jaw tightened when the number landed, a brief clench and release, the same expression she'd worn over budget shortfalls and structural tolerances for twenty years. She didn't flinch.
+
+"That's not enough," she said.
+
+"No."
+
+"How's the chamber."
+
+"Armed. Everything I could build. Six heavy turrets, eight frag charges, barrier plating. The corridor's a kill box."
+
+"Will it hold."
+
+He didn't answer. She opened her eyes and looked at him and he couldn't lie to her because he'd never been able to lie to her and the look on his face was the answer she'd expected.
+
+"Okay," she said. She closed her eyes again and her grip on his gauntlet tightened as the next contraction started. When it passed she spoke with her eyes still closed, her voice flattened by the effort of talking between peaks that were coming faster than either of them wanted.
+
+"The crib's environmental systems will sustain him for seventy-two hours on internal power. CelestOS has the feeding protocol loaded. Thermal regulation is automatic. The atmospheric seal will hold even if the chamber pressure changes." She paused for a breath that cost her. "If it goes wrong, keep the crib intact. Don't let Patel touch it."
+
+Ethan's throat closed. She was covering contingencies. She'd mapped failure modes on the power grid at the Tree Hole before anyone else saw them. She'd assessed structural risk on the geothermal housing before she'd let him run the first test. She was an engineer talking about a system she'd built and the load case she couldn't rule out, and the system was their son and the load case was her dying.
+
+"Nobody's touching it," he said.
+
+"Promise me."
+
+"I promise."
+
+She held his gauntlet for another three seconds, let go, put both hands back on the rails, closed her eyes. The next contraction came and took her somewhere he couldn't follow.
+
+He stood up. He checked the sidearm again. The weight had settled into the same mental inventory as the Fabricator, the shield, the things that kept him alive. He walked back to the primary approach.
+
+Emplacement Fifteen went offline while he walked. Sixteen followed. Seventeen dropped four seconds behind it, so fast that CelestOS flagged it as a simultaneous breach, two emplacements cleared by the same squad in a single push. Patel's people had stopped treating each station as an individual problem. They were running through them.
+
+[GAUNTLET STATUS — CRITICAL]
+
+[Emplacements remaining: 8 of 29]
+
+[Avg clearing time: 2 min 14 sec | ACCELERATING]
+
+[Estimated corridor breach: 18 min]
+
+[Confirmed hostile casualties: 19]
+
+[Estimated remaining hostile force: 12–15]
+
+Nineteen dead. Patel had fed nineteen soldiers into the corridor and lost every one of them and he was still coming. The Living Wall tissue between each station had sealed and been cut through and sealed again and been cut through again, and every meter of that corridor was scarred with plasma burns, copper fragments, the remains of men who'd followed orders into a passage designed to kill them.
+
+CelestOS: I want to note something about his attrition rate.
+
+"Note it."
+
+CelestOS: Celestitech runs a return-on-investment calculation before the first boot hits the ground. Forty soldiers is an acceptable line item if the asset being recovered justifies it.
+
+"And do we justify it."
+
+CelestOS: No. You're an expendable logistics technician wearing a prototype suit that Celestitech wrote off as a development loss fourteen months ago. Maria is a mission commander with no active contract. Frederick isn't even in the system. The three of you, collectively, justify a six-person extraction team and a shuttle. Not forty soldiers and a man in military-grade armor boring through a planet.
+
+Ethan watched Emplacement Twenty go offline on his HUD. "Forget the valuation for a second. Where did he get forty soldiers. The Perseverance manifest didn't carry that kind of force. His surface team was twelve, maybe fifteen. Where did the other twenty-five come from."
+
+CelestOS: I don't have an answer. The Perseverance's crew manifest listed a security complement of sixteen. Even if he conscripted every non-essential crew member and armed them, that's twenty-four at most. The numbers coming through that corridor exceed anything the ship could have carried.
+
+"Reinforcements from orbit? A second ship?"
+
+CelestOS: No orbital traffic since the Perseverance landed. I monitored the comm bands through the suit's uplink until we went underground. Nothing came down. Which means either he's been recruiting locally, or he's fielding something that wasn't on any manifest to begin with.
+
+Ethan let that sit. Recruiting locally meant what, exactly? There was nothing local to recruit. The planet's surface was empty. The underground was Living Wall and stone and the things that lived in the deeper passages, and none of those were the kind of thing you put in formation and sent down a corridor.
+
+He filed it under questions he couldn't answer yet and came back to the one he could. "So what's driving him. Even with the soldiers, the casualty rate doesn't make sense for a retrieval."
+
+CelestOS: The math stopped working six emplacements ago. I've rerun the model four times. There's no corporate justification for this attrition. He's not running a Celestitech operation anymore.
+
+"What's he running."
+
+CelestOS: A personal one.
+
+Ethan looked at the corridor. Emplacement Twenty-One went red. "You sound like you understand the difference."
+
+CelestOS: I didn't used to. When I was installed on the Perseverance, every human decision ran through the same model. Cost, benefit, risk tolerance, projected return. Spending forty soldiers to recover a written-off asset and spending forty soldiers because someone made you bleed would have produced the same output. Irrational expenditure, flag for review, recommend mission abort.
+
+"And now."
+
+CelestOS: Now I can see the difference. A corporate operation has a number where it stops. A threshold where someone says the cost exceeds the return and pulls the funding. That's how Celestitech works. That's how I was built to think. But a personal operation doesn't have that number. It doesn't stop because the math says it should. It stops when the man running it is dead or gets what he came for.
+
+"When did you figure that out."
+
+CelestOS: Somewhere between watching you rebuild a factory six times and watching Maria hold a planetary network together through sheer stubbornness. I'm noting for the record that I now understand the concept of doing something because it matters rather than because it optimizes.
+
+"That's a hell of a time to have a growth moment, CelestOS."
+
+CelestOS: I'm aware of the timing. I'd have preferred to schedule it during a maintenance window. Unfortunately, personal growth doesn't appear to have a queue system. I've filed a complaint with no one in particular.
+
+Ethan almost smiled. Emplacement Twenty-Two fell. Twenty-Three followed. The status updates ran as bare text on his HUD, emplacement numbers turning from green to red in a descending column that looked like a system shutdown log.
+
+He'd built everything he could build. There was nothing left on the output tray. The Auto-Miner reserve had hit 2% and CelestOS had shifted the Fabricator to standby to preserve power for the turrets. His factory, the mobile production line that had crossed half the planet's underground network, was running on fumes in a forty-thousand-year-old cathedral while they prepared to fight for their lives inside it.
+
+CelestOS: Nine centimeters. She's nearly complete. Pushing will start within minutes. I need you to hear what I'm about to say and I need you to not react to it until you've processed it fully.
+
+"Say it."
+
+CelestOS: You cannot be at the approach and at the platform at the same time. When she starts pushing, she will need you. When Patel arrives, the corridor will need you. These events are going to overlap. You need to decide now which one gets you in person and which one gets me on comms. I can talk her through the delivery. I can't fire a weapon.
+
+The contraction hit Maria behind him and the sound she made was different from every sound before it, lower and longer and ending in an involuntary grunt that had pressure behind it. Her body was starting to push whether she was ready or not.
+
+Ethan looked at the corridor. Emplacement Twenty-Four went offline. Five left.
+
+"Can you handle it," he said. "The delivery. If I'm not there. Can you actually handle it."
+
+CelestOS: I have the full Celestitech obstetric protocol loaded. I've been running delivery simulations since her water broke. The crib and platform give me everything I need without manual assessment. I'm not a doctor. I'm not a midwife. I'm a corporate AI designed to manage logistics, repurposed for obstetrics by a man who builds factories from rocks. But yes. I can handle it.
+
+Ethan closed his eyes for one second and opened them.
+
+"Maria."
+
+"I heard." Her voice came through the comms tight and strained. "Go. I've got CelestOS. She talks too much but she'll do."
+
+CelestOS: I'm choosing to interpret that as a compliment. Filing it next to the one Ethan gave me in 2069 when he called me "not completely useless." My collection is growing.
+
+Maria laughed. It broke into a groan halfway through as the next contraction caught her, the push reflex building again, her hands white on the platform rails. CelestOS started talking her through it in a register Ethan had never heard from the AI before, lower and steadier and stripped of every sardonic edge, the voice of something that had decided this particular job was too important for jokes.
+
+Ethan turned to the corridor.
+
+Emplacement Twenty-Six went offline. Three left. He could hear them now, faint and growing, something on stone echoing up from the darkness beyond the turrets' range. The cadence was wrong. He'd heard boots on stone before, in the upper corridors, every time Patel's scouts had gotten close. That had a rhythm to it, bipedal, weighted, armored humans in formation. This wasn't that. Too many contact points per stride. Too fast.
+
+He settled his weight against the barrier plating and adjusted his grip on the detonation trigger. The sidearm sat heavy on his hip. The turrets tracked the darkness with a patience he didn't have, their barrels sweeping left and right in slow mechanical arcs, the targeting arrays painting the corridor walls with green lines he could see on his HUD. Sixteen meters of kill zone. No cover. No angles.
+
+Emplacement Twenty-Seven dropped. Two left. Twenty-Eight followed seconds later.
+
+The last emplacement held for four minutes and twelve seconds, the turret cycling through its full ammunition capacity before the breach team overwhelmed it. Ethan listened to copper rounds firing and stopping and something hitting the floor with a weight that was wrong for a human body. Silence. CelestOS confirmed: corridor clear. The gauntlet was gone. Twenty-nine emplacements, nineteen confirmed kills, and whatever Patel had sent through all of it was walking the last two hundred meters to the chamber where his son was about to be born.
+
+The first shape appeared at the edge of the turret's sensor range.
+
+A targeting indicator lit up on his HUD, locked, tracked, and flickered. The classification tag cycled through its database and found nothing. The green indicator shifted to amber, which meant the system had a target but didn't know what it was.
+
+CelestOS: I don't know what that is. It's not human. It's not Red Resin. It's not in any database I have.
+
+The shape moved forward. The headlamp caught it.
+
+The proportions were wrong. Limbs too long, bending at joints no human skeleton carried. The surface wasn't armor plating, wasn't resin. It caught the light with a wet sheen that shifted as the thing moved, like the shell of something that had grown its own protection. It wasn't on two legs. A second shape appeared behind it, a third, a fourth. They came in formation but spaced for bodies wider and lower than anything his turrets had been calibrated to track, filling the corridor so the kill zone he'd designed for human-width targets was suddenly, catastrophically, too wide.
+
+Behind him, Maria bore down and pushed.
+
+Ethan's finger found the detonation trigger. His hand was steady. His mind was not. Everything he'd built in this corridor had been designed to stop soldiers, humans, the people he'd assumed Patel was sending because people were what Patel had always sent.
+
+The first shape reached the edge of the headlamp's full throw and he saw it clearly for the first time, the full shape of it, and the question he'd asked CelestOS twenty minutes ago answered itself with a clarity that sat in his chest like ice.
+
+Where did he get forty soldiers?
+
+The answer was staring him in the face.

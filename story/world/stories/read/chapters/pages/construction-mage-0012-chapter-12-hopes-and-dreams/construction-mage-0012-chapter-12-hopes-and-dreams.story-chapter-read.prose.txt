@@ -1,0 +1,113 @@
+“What kind of place is the dungeon, you ask? Why, exciting, of course! The thrill of an adventure with friends, overcoming monsters, and then getting rewarded for it is exactly what I wanted ever since I was your age!”
+
+-Delver Darian, answering questions fielded by curious children
+
+***
+
+Carefully eyeing the two Kobold variants wielding hatchets, Clay assessed their surroundings. The two monsters were standing around the campfire, next to a children-sized tent, all in the middle of the withered forest.
+
+If there were one thing that made it a good camping location, Clay would say that it was the unlimited dead branches lying all over the ground. For a moment, Clay considered whether there was any value in the easily accessible fuel source. He remembered that the inn provided a candle to their guests each day, but the guards did use torches. There was a need to investigate the market price of such items to calculate if it was worth his time.
+
+Shaking the idle thoughts as he inched closer, Clay took position behind a tree and prepared to cast a spell. He double-checked to confirm the monsters had no ranged weapons before pointing his palm at the one to his left.
+
+He would’ve preferred to get even closer to start the battle by bashing one of their heads in, but unfortunately, he didn’t trust in his stealth abilities. The next best option was to take one of them out of the fight quickly, so he aimed at his target’s legs.
+
+Words flowed through his mouth without his conscious control, causing the two humanoid monsters to turn in his direction. They hopped around and clacked their teeth together upon discovering him and then charged forth.
+
+Tracking his target, Clay was pleasantly surprised that these new variants of kobolds were slower than the feral ones. Perhaps it was due to them relying on two legs instead of four, but Clay was more than happy to take advantage of it.
+
+A hardened clump of earth flung into his target, landing right around its knee area. It squealed as it tripped over itself, tumbling to the ground. Clay didn’t bother to view the aftermath as he prepared another spell to greet his other guest. When it got within a dozen feet of him, he fired again. This time, the spell hit its mark dead center, stopping all the Kobold’s momentum as it keeled over.
+
+Not wanting to give it a chance to recover, Clay dashed forward with his shovel held high, ready to bring it down once he got into range. He did just that—or so he thought. When he got within two steps of the Kobold, the sound of tree branches snapping caught his attention. He turned just in time to see a Feral Kobold lunging at him.
+
+Thankfully, his weapon was at the ready. He quickly changed his aim and brought the shovel down at his attacker, making solid contact with its head. The shovel he wielded had a flat edge to help it move loose soil and gravel, which also meant it was sharp enough to cut the oversized rat, especially when swung with enough force.
+
+[Ding—Level 3 Feral Kobold slain.]
+
+Having gotten used to seeing the message that confirmed his kills, he instantly turned his attention back to the two variant kobolds. He found the one he had hit in the legs still a distance away, slowly limping toward him, but the other one had their weapon held high, ready to swing at him.
+
+As much as he believed his leather armor could at least handle a glancing blow from the shabby hatchet he saw, Clay had no desire to put it to the test. He leapt back, only to regret it when he landed on a thick branch. Unable to maintain his balance, he fell flat on his rear as the kobold closed the distance to unleash a second swing.
+
+Out of reflex, Clay thrust his shovel out in an attempt to push it away. It did a lot more than that.
+
+Even when on the ground, the size difference between the monster and Clay was just too large. He was almost three times the height of the monsters and had much more mass. It was akin to a full-grown man seriously striking a child. Even without fully putting his body behind it, his thrust made contact with its neck. It caused the Kobold to not only be shoved back, but also to clutch at its wound while thrashing about.
+
+He didn’t know if the wound was fatal, but he wasn’t willing to wait to find out. Clay quickly righted himself and dealt a finishing blow.
+
+[Ding—Level 4 Kobold Worker slain.]
+
+He now had the time to take a closer look at the first monster he had struck. It closed quite the distance, but its limp meant it was barely a threat. Instead of wasting his stamina, Clay simply cast Earth Blasts to finish it off, which took another two spells.
+
+[Ding—Level 3 Kobold Worker slain.]
+
+[Ding—Skill: Earth Blast(I) has leveled up!]
+
+Finally! It’s about time. If it didn’t level up within the next few days, I would be worried I was missing something.
+
+Wanting to confirm his current condition as well, Clay didn’t hesitate to pull up his status screen.
+
+Status:
+
+Name: Clayton Stratton
+
+Age: 30
+
+Class: Earth Mage [Apprentice] - Level 2
+
+Profession: Staffmaker, Alchemist
+
+Resources:
+
+Health - 98%
+
+Stamina - 79/112 [1.6/min]
+
+Mana - 64/100 [2.4/min]
+
+Stats [Mage]:
+
+Stat Points: 0
+
+Strength: 15
+
+Endurance: 16
+
+Agility: 15
+
+Dexterity: 9
+
+Intelligence: 10
+
+Wisdom: 12
+
+Skills:
+
+Spell Manipulation(I): 1
+
+Earth Blast(I): 2
+
+Meditate(I): 1
+
+As happy as Clay was to see his improvement in his only offensive spell, his eyes were immediately drawn to his health. For the first time, it had gone down. He quickly checked himself over and thankfully found no cuts, but he did feel his butt bruised up, likely from the fall.
+
+Realizing there was no wound he needed to tend to, Clay was soon attracted to the loot he deserved. The Feral Kobold would be another opportunity to practice his skinning and butchering, but he had no idea what to do with the two more humanoid monsters.
+
+Do people actually eat these things, too? Well, to be honest, probably. They don’t seem to care where it’s from, most of the time, seeing that they just label it as ‘meat’. Hopefully, that’s not the case and only a misunderstanding from the low literacy rate.
+
+It took some time for Clay to come to terms with it, but despite not overflowing with money at the moment, he’d rather not butcher another humanoid. Instead, he simply searched their bodies. The Kobold Workers wore clothes, so he rummaged through their pockets, only to find a wax candle on each of them. Just as he was wondering why the hell they would carry such an item, a small section of one of their torsos began glowing a soft yellow.
+
+He stared at it blankly for a moment before remembering what he learned from the information broker.
+
+Mana crystals! I thought they said it’s not that common on the first layer, barring the monsters near the floor boss. I guess this is a lucky break?
+
+With the prospect of a mana crystal on the line, any of Clay’s hesitation about butchering the monster disappeared. He quickly cut into the corpse and retrieved a small shard of yellow crystal from its chest. It had an elongated diamond shape, pointy on both ends, the complete opposite of an hourglass figure.
+
+Clay carefully stowed it away into his coin pouch before bringing his attention to the only remaining thing, the tent.
+
+Since it was sized for the kobolds, Clay definitely wouldn’t fit in it. He had to crouch down to poke his head in, but when he did, his eyes went wide with excitement.
+
+What lay in the tent held the hopes and dreams of every gamer who has played any kind of RPG. A lone chest sat there. It was made of the same dull wood as the surrounding trees, but had metal reinforcements around its edges. Despite realizing a chest from the first layer wasn’t likely to have anything life-changing, Clay couldn’t help but be excited.
+
+It was a feeling he had almost forgotten when he had played his first online game. Back then, even if he knew he would soon outlevel the items in the beginner area, there was still an intense desire to loot chests. He had that same feeling right now.
+
+Brimming with excitement, Clay reached out to open his rightful loot. The chest clicked open, and he lifted the lid up. A purple light assaulted the edge of his vision, and then everything went dark.

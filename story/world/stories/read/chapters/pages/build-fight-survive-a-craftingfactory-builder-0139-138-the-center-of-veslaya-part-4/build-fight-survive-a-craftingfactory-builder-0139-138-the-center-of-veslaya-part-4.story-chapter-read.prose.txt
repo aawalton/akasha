@@ -1,0 +1,137 @@
+Ethan looked at Maria. She was on the birth platform with her eyes closed, her hands gripping the rails, her shoulders tight. The crib sat beside her, its observation panel glowing steady white, its atmospheric seal holding at 100%, waiting for the person it had been built for. Frederick was coming whether Patel was or not.
+
+"How fast," Ethan said.
+
+CelestOS: Emplacement One cleared in three minutes forty-two seconds. Emplacement Two is active now. I designed that corridor for a fifteen-minute clearing cycle per station. He's doing it in under four.
+
+The number felt wrong; unfair even. Ethan ran it against the geometry he'd built into every emplacement: the angled approach that forced a breach team into single file, the offset turret placement that put crossfire on the entry point, the sealed sections that required cutting through Living Wall tissue before the next turret was even visible. Fifteen minutes had been conservative. A well-equipped team should have taken twenty. Four minutes meant something was different about the team or different about the equipment, and neither option was good.
+
+"That's not possible we built this to wear him down. Either he's throwing bodies into the corridor faster than the turrets can cycle, or he has some kind or armor."
+
+CelestOS: I've been running the same calculation. Two scenarios. Scenario one: he's rotating fresh squads through the corridor in waves. Each squad absorbs a turret's ammunition capacity. The next squad walks through the wreckage. That requires a force size I'd estimate at four-hundred-forty-plus soldiers, which exceeds anything we've seen from his surface operation by a factor of three.
+
+"And scenario two."
+
+CelestOS: His suit has been upgraded. The plasma shots that killed his scout drones were military-grade Celestitech weaponry, not field equipment. If Patel has personal armor rated for that output, the copper rounds in your turrets are landing hits that aren't penetrating. Your turrets aren't slowing him at all.
+
+Ethan frowned and stared at the gauntlet counter on his HUD. Emplacement Two's status flickered from ACTIVE to OFFLINE while he watched. Three minutes nineteen seconds, faster than the first.
+
+"Which one is it."
+
+CelestOS: My guess is a mix of both. He brought the bodies for the early emplacements and the armor for the later ones. He's not stupid. He planned this with production-line logic. Expendable resources in the front of the queue, high-value asset at the back. The soldiers clear the path and absorb the ammunition. When the turrets are dry or destroyed, Patel walks the clean corridor in a suit your weapons can't scratch.
+
+Behind him, Maria exhaled hard through the suit comms, controlled and deliberate.
+
+"Time. How long before he's through."
+
+CelestOS: At current clearing rate, twenty-seven emplacements remaining at an average of three minutes forty seconds per station. Ninety-nine minutes. Call it an hour and a half if he slows at the deeper stations where the geometry tightens. That's my optimistic estimate. My realistic estimate is seventy minutes because his pace is accelerating, not decelerating. He's learning the pattern.
+
+Ninety-nine minutes. Maria was six centimeters dilated with contractions running two and a half minutes apart. CelestOS had estimated thirty to forty minutes to active pushing. Frederick was coming in half an hour. Patel was coming in just over an hour. The gap between those two numbers was everything, and it was shrinking.
+
+[GAUNTLET STATUS]
+
+[Emplacements remaining: 27 of 29]
+
+[Avg clearing time per station: 3 min 41 sec | ACCELERATING]
+
+[Estimated corridor breach: 70–99 min]
+
+[Confirmed hostile casualties: 40]
+
+Four casualties across two emplacements. The turrets were killing, but not fast enough. Patel was feeding soldiers into the corridor at a rate that treated human lives as ammunition, and he had more ammunition than Ethan had turrets.
+
+CelestOS: I need to say something you're not going to like.
+
+"Say it."
+
+CelestOS: The gauntlet was designed to slow a cautious pursuer over days. It was never designed for this. A man who treats his own people as disposable breaching charges and follows them in armor your weapons can't penetrate is not a problem the gauntlet can solve. It can delay him and cost him. It cannot stop him. The turrets at the chamber approaches will buy another ten or fifteen minutes. After that, he walks in here and you're standing in front of Maria with whatever you're holding.
+
+Ethan's hands were on the Fabricator housing. The output tray was empty. The last component off the line had been the monitoring array's backup sensor pad, a piece of neonatal equipment the size of his palm. He looked at it sitting on the platform deck beside the crib, precise and delicate, built for the smallest patient he'd ever have.
+
+"Tell me what to build."
+
+CelestOS: Everything. Stop thinking about defense and start thinking about force multiplication. You have a Fabricator, an Ex Nihilo field, and the time it takes your wife to dilate four more centimeters. Build weapons, turrets, and barriers. Build enough that when he walks through that corridor he walks into a factory converted to a killing floor. The neonatal equipment is built and the crib is live. Maria is stable. The next thing off that output tray needs to be something that shoots, blocks, or detonates, and every component after it needs to be the same. You are not going to survive this by hoping the walls hold. You're going to survive this by building an army.
+
+The chamber pulsed once around them, gold veins flaring in time with Frederick's heartbeat, the steady 138 beats per minute that had synchronized the entire cathedral since they'd arrived. The bioluminescence washed over the Fabricator housing and the crib and the birth platform and the turrets Ethan had placed at the chamber approaches, all of it bathed in the heartbeat of his son, and for one second the light was so bright that the shadows in the corridor where Patel was coming disappeared entirely.
+
+Then the pulse faded and the shadows came back and the corridor was still there.
+
+"Maria."
+
+She opened her eyes. The contraction had passed. She looked at him and he saw that she'd heard everything. CelestOS's channel ran through both their suit comms. She already knew.
+
+"Do it," she said. "Build your army. I'll manage."
+
+"The production ratio. You said seventy-thirty defense. I need to flip it. Everything goes to weapons."
+
+"Everything." She gripped the birth platform rail, her breath shortening. "The crib is built. The platform is built. I have what I need. Give me something else. Give me a reason to believe he's not going to walk in here while I'm pushing."
+
+Ethan turned to the Fabricator and cleared the production queue with a single command. The neonatal line disappeared from the output schedule. In its place he began loading the heaviest weapons specifications CelestOS had in the library, components he'd never built before, systems he'd only seen in the schematics CelestOS had offered during the surface defense and he'd declined because the resource cost had been too high and the threat hadn't justified it.
+
+The threat justified it now.
+
+CelestOS: Queuing heavy turret schematic. Output: Mark IV platform-mounted kinetic turret, dual-barrel, penetrator rounds rated for composite armor. Build time per unit at current Fabricator throughput: six minutes. Recommended deployment: four units at the primary approach, two at the secondary. That's thirty-six minutes of build time for six turrets. You have seventy minutes. The remaining thirty-four go to barrier plating and something I've been holding in reserve because I didn't think we'd need it.
+
+"What have you been holding."
+
+CelestOS: Directional fragmentation charges, anti-personnel, for corridor denial. The schematic has been in my library since the Celestitech military loadout was decrypted during our merge. The components require more iron per unit than a turret, and the ethical implications of building antipersonnel explosives were deemed to be uncomfortable for human fabrication. I've recalibrated your comfort level in light of current circumstances.
+
+"How many can you give me."
+
+CelestOS: Eight, from current stone reserves. Enough to make the primary approach corridor into something Patel's soldiers will describe in therapy, should they survive.
+
+Ethan almost laughed. The Fabricator arms were already moving, the Ex Nihilo field shifting from the precise delicate work of neonatal components to the heavy conversion rate of weapons manufacturing, the green glow along the platform iron brightening as the system pulled harder on the Auto-Miner reserve. The first heavy turret frame began forming on the output tray in layers he could read by shape, and the shape was nothing like the crib. It was angular and dense and built for one purpose and the purpose was to kill the people coming down the corridor after his family.
+
+He caught the first component off the tray and moved.
+
+The chamber had two approaches. The primary was the corridor they'd entered through, the same passage the Living Wall had opened for them, the same passage that connected back through the tunnel system to the gauntlet. That was where Patel was coming from. The secondary was a narrower passage on the chamber's far side that CelestOS's lidar had mapped at forty meters deep before it bent out of sensor range. Unknown destination. Unknown threat. He couldn't defend both at full strength and build at the same time.
+
+He chose the primary. If Patel came through the secondary somehow, he'd deal with it then. Right now the math was simple: the man was coming through the front door because the front door was the one he'd been boring toward for days, and every emplacement he'd destroyed was a step on a path he'd committed to finishing.
+
+Mule One lifted the first heavy turret from the deck and flew it forty meters to the primary approach. Ethan followed on foot, the turret mount and anchor bolts in his hands, his headlamp cutting the corridor ahead. The passage narrowed from the cathedral's scale to three meters wide at the entrance, Living Wall tissue lining both sides, gold veins dim in this section, the bioluminescence concentrated around Maria's position rather than the approaches. He set the turret mount into the floor where the stone met the root mat, drove the anchor bolts through with the pneumatic setter from the Fabricator's tool kit, and locked the turret housing onto the mount with a quarter turn. The mount seated with a heavy click.
+
+The turret's barrel swept left, then right, settling on the corridor's centerline. The targeting array came online in a sharp green flash on his HUD. Field of fire: clean. Kill zone: sixteen meters of corridor with no cover and no angles.
+
+Behind him, Maria's breathing came hard through the comms. The sound carried forty meters through the chamber's acoustics. The cathedral geometry swallowed most sounds. It carried hers. He set his jaw and went back for the second turret.
+
+Emplacement Seven went offline while he walked. Three minutes eight seconds. Patel was getting faster.
+
+The second turret went down twelve meters behind the first, staggered left to create overlapping fields of fire. The third went right, forming a triangle that put crossfire on any point in the corridor from three angles simultaneously. Ethan checked each mount, tested each anchor, ran each targeting array through its calibration cycle. His hands moved with the five-beat rhythm that had carried every build since the cave: name the problem, name the part, name the challenge, feel the work in his hands, log the confirmation. The problem was Patel. The parts were the heaviest weapons he'd ever built. The challenge was making the corridor unsurvivable. His hands were steady. CelestOS logged each confirmation a quarter-second behind his assembly.
+
+[CHAMBER DEFENSE STATUS]
+
+[Heavy turrets deployed: 3 of 6 | Positions: Primary approach]
+
+[Fragmentation charges: Queued | ETA first unit: 4 min]
+
+[Barrier plating: Pending]
+
+[Gauntlet emplacements remaining: 22 of 29]
+
+[Estimated corridor breach: 58 min]
+
+Fifty-eight minutes. The estimate had dropped twelve minutes since CelestOS's first calculation. Patel wasn't just clearing the emplacements. He was accelerating through them, each station faster than the last, his soldiers learning the pattern by dying through the first iterations and leaving the survivors with the knowledge of what killed them.
+
+Maria's voice came through the comms. "Ethan."
+
+He stopped with the fourth turret mount in his hands. "Yeah."
+
+"The wall is doing something."
+
+He turned. From his position at the primary approach he could see the full cathedral, the arches rising into darkness, the gold veins running along every surface, the birth platform at the chamber's center where Maria lay with her hands flat on the deck beside her. The veins around her position were brighter than the rest, concentrated in a three-meter radius that pulsed with Frederick's heartbeat. But outside that radius, in the passages beyond the approaches, the veins were dimming. This was not the plasma-damage retreat from the upper corridors. They were contracting. The gold was pulling inward toward the chamber's center, away from the approaches, the network gathering its resources around Frederick after forty thousand years of waiting.
+
+"It's protecting him," Maria said. "It's pulling everything toward Frederick."
+
+CelestOS: Confirmed. Living Wall bioluminescence in the primary approach corridor has dropped 60% in the last four minutes. The tissue is still structurally intact but the biological activity is withdrawing toward the chamber center. I'm reading the same pattern in the secondary approach. The wall is abandoning the corridors, not closing them.
+
+The wall was choosing what to save. Frederick was the priority; the corridors could burn.
+
+Ethan set the fourth turret and went back for the fifth. The Fabricator had the first fragmentation charge on the output tray when he arrived, a dense iron casing packed with copper shrapnel and a directional blast plate, illegal on any planet with laws. He picked it up. It was heavy in his hands, warm from the Ex Nihilo field. He had built warm things before; none of them had been built to kill.
+
+He carried it to the primary approach and began mounting it to the corridor wall, six meters ahead of the first turret, aimed back down the passage Patel was coming through. When it detonated, the blast cone would fill the corridor from wall to wall. Anything standing in that space would stop standing.
+
+He heard her breathing change on the comms while he was wiring the detonator, the rhythm shorter, the control tighter. He finished the wiring while she breathed through it. The gauntlet counter ticked down. Emplacement Nine went offline.
+
+CelestOS: Contraction interval: two minutes twelve seconds. Dilation estimate: seven centimeters. You're building weapons for a fight that starts in fifty minutes. She's delivering a baby that starts in twenty. I'm advising you to reconcile those timelines now rather than when both happen simultaneously, because they're going to happen simultaneously, and I'd prefer you had a plan for that moment. Your current expression is not a plan.
+
+Ethan finished wiring the detonator and stood up. He looked down the corridor where the turrets waited and the fragmentation charge sat flush against the wall and the shadows ran deep into the passage where twenty-two emplacements stood between his family and the man who was destroying them one by one. Then he looked back at Maria on the birth platform, her hands on the rails, her eyes closed, her jaw set, the crib glowing beside her, Frederick's heartbeat pulsing gold through every vein in the chamber.

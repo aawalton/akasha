@@ -1,0 +1,119 @@
+“The Descent not only screwed up our lives, but our livelihood as well! All these glorious new materials that can only be worked on if you take a so-called class. How dare those once-proud artisans throw away the techniques their ancestors had carefully honed throughout their lives!”
+
+“Shh, lower your voice, father. The people from the church will accuse you of blasphemy for being against the Goddess of Life’s intentions again.”
+
+-Overheard conversation at a bar between a disgruntled craftsman and his son
+
+***
+
+“Umm.” The clerk at the leather workshop didn’t know how to react to the sudden request that was dropped on her. She eventually decided to retreat to the back to converse with someone else.
+
+A few moments later, she returned with an older woman with greying hair.
+
+“Kind sir, how may I help you?” she asked with a faint smile while stealing a look at the burlap sack Clay had placed on the counter.
+
+“I’m looking to sell the pelts of these Feral Kobolds and wanted to learn how to skin them properly as well.”
+
+“Oh,” the woman frowned for a split second, but hid it quickly. She proceeded to peek into the contents of the bag and pulled a specimen out to inspect further. “Hmm, they’ve been dead for an hour or two, which will make them harder to process, but still doable. As for teaching you how to skin, is sir not a leatherworker?”
+
+Clay’s eyes fluttered in confusion at the question. He had come to a leatherworker’s workshop, and they were asking him if he was one of them? How was he supposed to respond to that?
+
+“Um, no, I’m a new Delver. I wanted to learn how to skin so I don’t have to carry the entire carcass with me next time. Is that a problem?”
+
+“Apologies if I confused you, sir. I was referring to the Delver profession of leatherworking. If you plan to be the one to skin your kills in the dungeon, I recommend you simply select the profession. It should impart to you the basics of skinning. If you are in need of a suitable knife, we have some for sale as well.”
+
+“Um, sorry,” Clay slowly said as his mind raced. “I didn’t know about that, but is it not possible for me to learn to skin the normal way?”
+
+He wanted to beat himself for forgetting about the profession class, but it wasn’t the time to do that right now. In the first place, he couldn’t even blame his past self, as the allure of becoming a Delver was understandably too overwhelming.
+
+“Well, it is, but it would take at least half a day,” the older woman thoughtfully muttered as she placed a finger on her chin. “You would need to get hands-on experience with at least three or five carcasses. You brought along eight here, so that should be fine, but just so you know, the ones you use for practice may have their value reduced depending on their condition. Then we’ll have to charge you a fee for our time and for a skinning knife, unless you already have one.”
+
+“How much will that set me back in total?”
+
+The woman ran her hands over the Feral Kobold instead of responding. Then she proceeded to do the same with the rest of the carcasses in the burlap sack.
+
+“I’ll cut you a deal,” she finally said. “If you promise to continue selling the hides you find in the dungeon directly to us, I’ll only take the hides of what you have here.”
+
+Clay almost blurted out that it was too much, but he didn’t exactly know the market price for these hides. The vendors in the Delver area had given him somewhere around thirty to fifty Lyons per kobold. He had no clue if her offer was reasonable or not, but considering she attached a condition regarding selling to her, it couldn’t be that bad of a deal.
+
+“If I continue to sell to you, you’ll give me the full market price of whatever I bring?”
+
+“Yes, yes. I’d love to cut out the middlemen and diversify my suppliers. It’s also not exactly easy to make deals with Delvers directly, so rest assured, I’ll pay you fairly.”
+
+“Then you have a deal,” Clay said as he offered the woman his hand, which she promptly took.
+
+The old woman grinned and guided him toward the back of the workshop, where he began his training. It took him almost an hour to clumsily skin a kobold on his first try, but under the instructor’s guidance, he slowly got the hang of it.
+
+Once he was done, he took the remains of the carcasses to a butcher shop and made a similar deal. The only difference was that he learned how to drain the blood, eviscerate his kills, and butcher the remains into neat cuts like the ones he had seen other Delvers sell.
+
+By the time he was done, the sun had passed its zenith, entering the latter part of the afternoon somewhere around three or four o’clock.
+
+However, he was a lot more prepared to go on longer expeditions now. The ability to skin and butcher the Feral Kobolds meant he would have to carry less, increasing the efficiency of each run.
+
+With little time left before sunset, Clay trekked back toward the dungeon entrance. The guards at the dungeon enclosure only gave his token a cursory look before letting him in. The Delver marketplace was bustling, with dozens of people hawking their wares or recruiting allies to join their parties.
+
+Clay made a beeline for the white pagoda and placed his hands on the altar.
+
+He skipped over the option to enter and selected the one for status, then the one for professions.
+
+[Select Profession Class now? (Yes/No)]
+
+[Yes selected…]
+
+[Select up to two of the following:
+
+(Note: changing profession classes is possible, but all levels and recipes will be reset.)]
+
+Seeing all the options plus the ability to pick two of them, Clay was stumped. The names of each profession were quite self-explanatory. The most obscure one—alchemist, could also be easily understood as he had come across several Delvers selling various potions.
+
+As an earth mage, his most obvious choice was staffmaker, as it created weapons for him that enhanced his magic, but he was hesitant about it. He currently made more use of his shovel than his spells, so he didn’t know if staff making would apply to him, as he only planned to stay in the relatively easy areas. After all, there were other attractive options on the list that could prove to be useful as well.
+
+His past knowledge told him the ‘Cook’ class had the potential to create foods that could provide buffs, while Jeweler could craft accessories.
+
+With all these choices, he didn’t rush to make a decision and instead took a stroll around the marketplace once more. There were enough Delvers around that he could get a peek at the potential of each profession.
+
+He started with the individual stalls set up by his fellow Delvers. The first one he chose to browse was operated by a young woman who had everything neatly laid out on a mat.
+
+“May I examine your wares?” Clay asked.
+
+The long-haired woman nodded and opened both her hands in a welcoming gesture.
+
+Clay didn’t hesitate to pick up a small silver ring. Instantly, an information panel appeared in his view.
+
+[Rare - Seal of Pulsing Agility: A finely crafted ring created by an Intermediate Jeweler with the initials, ‘SR’. It is made of Starmetal. 50% Chance of increasing the agility of the wearer by 10 when attacked.]
+
+There were several other rings of similar nature that Clay inspected. Some had a set chance of activating, while others gave a smaller flat boost. Either way, they made Clay salivate, but he couldn’t afford any of them. They were all at least a few dozen gold coins or required bartering.
+
+He then went on to inspect several more items before settling his eyes on one of the staples of gaming: a red potion.
+
+[Common - Potion of Minor Healing: Brewed by an Elementary Alchemist using the standard recipe. It can heal minor wounds within a few seconds and stop bleeding for moderate wounds.]
+
+The minor healing potion was only five thousand Lyons, or in other words, fifty silver coins. Still, it wasn’t something Clay could afford for now. As much as he wanted to get one right away as insurance, he questioned if he actually needed one if he only stuck to the outskirts of the first layer.
+
+After spending another hour going through the marketplace, he had gotten an idea of what he wanted to choose for his professions. He wandered back to the white pagoda and made his choices.
+
+No need to think too hard about it. I’m not planning to conquer the deeper layers.
+
+[Staffmaker selected.]
+
+[Alchemist selected.]
+
+[Selection successful, imparting knowledge now…]
+
+This time, Clay was prepared, so he didn’t stumble or react to the influx of knowledge that invaded his mind. What he learned was more comprehensive than he thought, but at the same time, more elusive as well. It wasn’t exactly knowledge, but more intuition. It began and ended with collecting the raw materials, and he could see how changing profession classes could cause him to lose all his newfound knowledge.
+
+If he chose something like leatherworking, he would undoubtedly learn not only how to cut, mold, and harden leather, but also how to skin and tan it. In his case, he received knowledge on how to gather herbs for potions and harvest the lumber from trees rich in magical power.
+
+Hmm, it seems the professions are all about handling materials only found in the dungeon.
+
+Clay wanted to test out his profession right away, but there was one glaring issue. He learned how to gather the raw materials, sure, but none of that knowledge came with how to create anything yet.
+
+He opened his status to search for more information and found that the two new professions listed under Earth Mage now had an option to be selected. He clicked on ‘alchemist’ first.
+
+[Alchemist - Novice
+
+Recipes: None]
+
+He swiftly checked Staffmaker as well and found the same empty screen.
+
+Seriously? The professions came with zero recipes?!

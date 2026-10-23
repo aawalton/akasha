@@ -1,0 +1,41 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const constructionMage = {
+  id: "01a16671-1118-773a-9326-29fc80d3c848",
+  type: "page-type/story-read",
+  slug: "construction-mage",
+  author: "RandomBlueCat",
+  following: false,
+  unit: "unit/words",
+  title: "Construction Mage",
+  world: "world/construction-mage",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "121068",
+      externalLink: "https://www.royalroad.com/fiction/121068/construction-mage",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Kingdom Building",
+    "Comedy",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Dungeon Crawler",
+    "GameLit",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "Slice of Life",
+    "Strategy",
+    "Supernatural",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T01:47:28.408Z",
+  updatedAt: "2026-10-23T01:47:28.408Z",
+} as const satisfies StoryRead

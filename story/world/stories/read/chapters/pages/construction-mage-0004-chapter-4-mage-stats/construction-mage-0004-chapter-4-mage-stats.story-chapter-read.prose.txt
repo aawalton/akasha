@@ -1,0 +1,195 @@
+“Food is the basis of civilization. It’s a shame I had to learn it the hard way.
+
+The first few months after the Descent were catastrophic. The chaos of everyone running for their lives, unsure of where safety lay, was still manageable. However, the massive shortages of supplies were not. People fought over every morsel of food, as dozens starved to death every day. I had thought our country was ending. I can still remember the feeling of relief when news of the monsters being edible spread."
+
+-Excerpt from A Chronicle of the Descent, by Count Greymark
+
+***
+
+After two hours of wandering around, Clay finally spotted his objective, the snow-white pagoda in the middle of the withered forest. It stood in contrast to its surroundings, making it exceptionally hard to miss.
+
+He slowly trudged up to it, carefully surveying his footing before taking each step. All the time he spent trekking across the first layer of the dungeon had taught him quickly how not to disturb his surroundings. Otherwise, unending waves of monsters would come to greet him. The only saving grace so far was that he was on the outskirts, where low-level Feral Kobolds resided.
+
+Once Clay set foot into the pagoda, he plopped himself down against the altar and drained the rest of his bottle. The psychological relief of knowing where the exit was, combined with the intel that the pagodas were safe zones, allowed him to relax.
+
+The periphery of layer one is easy, huh? They forgot to mention that it’s tiring as hell. From the way they were talking, I expected these pagodas to be much easier to find! I can see why after ten years, none of the dungeons have been conquered yet.
+
+After catching his breath, Clay finally got down to business and placed his hand on the altar. Throughout his journey, he had been thinking about how to spend his stat points, and he could now spend them.
+
+[Select one: Floor Selection/Status/Exit]
+
+[Status selected.]
+
+[Loading status…]
+
+Status:
+
+Name: Clayton Stratton
+
+Age: 30
+
+Class: Earth Mage [Apprentice] - Level 1
+
+Profession: [None]
+
+Resources:
+
+Health - 100%
+
+Stamina - 25/106 [1.3/min]
+
+Mana - 32/100 [2.0/min]
+
+Stats [Mage]:
+
+Stat Points: 5
+
+Strength: 15 +
+
+Endurance: 13 +
+
+Agility: 10 +
+
+Dexterity: 9 +
+
+Intelligence: 10 +
+
+Wisdom: 10 +
+
+Skills:
+
+Spell Manipulation(I): 1
+
+Earth Blast(I): 1
+
+Clay immediately noticed the plus buttons that would surely spend his precious stat points. He carefully avoided staring at them too hard in case he accidentally selected them. Instead, he went over the names of each stat once more.
+
+Remember what the info broker told me. Stats for mage classes affect the Delver differently; its physical effects are significantly diminished in exchange for more relevant effects for a mage. The effect of each strength stat on my physical power may be several times less, but it increases my magic power instead.
+
+If strength allows my spells to hit harder, then agility allows me to cast faster. Dexterity sounds a little more interesting, though. It increases both the range of how far I can cast my spells away from me and my control over mana throughput, which allows me to increase or decrease how much mana I pack into the base spell.
+
+Intelligence dictates how large my mana pool is, and wisdom is for mana regeneration. Lastly, we have endurance, which appears to simply increase my stamina and recovery rate. However, it also increases my defenses at a diminished rate because of the mage class, but more importantly, it strengthens my focus during spell casting, which makes it more difficult for spells to be interrupted.
+
+Now, that is all great to know before spending any points, but too bad the broker was too stingy to share much about skills.
+
+Clay became hesitant to spend his points at the thought of skills. The information he received only mentioned that skill books could be found in the dungeon, and some of them required both specific classes and meeting stat requirements to learn. However, they didn’t go into detail about any skills, citing it was beyond the scope of basic information. From what he heard, most Delvers kept a tight lip about that kind of intel, which made it a valuable commodity for the information brokers.
+
+Well, that’s something to worry about in the future. I should be fine to at least spend my first set of points freely. Let’s see. What was I lacking during this trip?
+
+Thinking back to his brief afternoon adventure, Clay found it to be a lot less exciting than he thought. He simply walked around a half-dead forest, occasionally fighting off oversized rats. The sound of fighting in the distance almost lured him to investigate, but it came from further in, near the colossal tree. He didn’t dare venture in that direction, given it was his first dive into the dungeon. Having looked back at it objectively, he had to admit he had been somewhat anxious to find the exit.
+
+Another several minutes went by as he mulled over his dilemma before he suddenly shook his head.
+
+What are my goals? One, to build a home for myself. Two, to become respectable enough so others will hear me out. Three, use that influence to teach others how to more efficiently take on dungeons before they overwhelm humanity.
+
+All the goals align in that I will need to build something. First a home, then a guild to rally Delvers. To do that, it’s best I find a spell that can create an earth wall or something. In the short term, I’ll likely have to find a way to delve deeper in a safe manner.
+
+Clay took a deep breath and pushed down his instinct to increase the lethality of his spells right away. It was the natural conclusion, but he had seen how his spells were not much better than throwing a rock. There was no reason to believe that adding just a few points to strength could make a significant change. For now, he could still handle the monsters with his shovel.
+
+Thinking back on the most relevant experience he had of dungeon delving, which was hiking, he remembered how tiring it could be. And that was without monsters looking for an opportunity to snack on you the entire time.
+
+He recognized that the most dangerous part of his plan was that he traveled alone. Once he got tired, there was no one to cover for him. It would be hard to rest while remaining on guard at the same time. It meant he was his own greatest weakness.
+
+In his current position, there were two methods that could address that. To increase endurance or find allies.
+
+For the latter, he would have to trust strangers not to rob or murder him while they were alone. There was no law and order within the dungeons. Things that happened stayed within it. There was no way he was willing to expose himself to that type of danger, even if someone accepted a beginner mage like him to their party.
+
+In fact, even if someone had invited him to join them, he would’ve been too paranoid to accept. He had enough life experiences to know there were no free lunches in the world. If something appeared too good to be true, then it probably was.
+
+With that in mind, he proceeded to add three points to endurance and two points to wisdom.
+
+The latter was to stick with the theme of increasing his uptime. As a mage, he would have to rely on his spells eventually, so he wouldn’t give up practicing his Earth Blast, despite how underwhelming it currently was. After all, the key to improvement was simply repetition. That was especially so if this world functioned like the games Clay was familiar with. He would need to grind the skill for it to level up.
+
+Allocating his stats, he didn’t feel any different, but he trusted the status screen.
+
+Status:
+
+Name: Clayton Stratton
+
+Age: 30
+
+Class: Earth Mage [Apprentice] - Level 1
+
+Profession: [None]
+
+Resources:
+
+Health - 100%
+
+Stamina - 25/112 [1.6/min]
+
+Mana - 32/100 [2.4/min]
+
+Stats [Mage]:
+
+Stat Points: 0
+
+Strength: 15
+
+Endurance: 16
+
+Agility: 10
+
+Dexterity: 9
+
+Intelligence: 10
+
+Wisdom: 12
+
+Skills:
+
+Spell Manipulation(I): 1
+
+Earth Blast(I): 1
+
+Clay couldn’t help but grin upon looking at his new stats. Being able to see his improvement so clearly gave him an indescribable satisfaction he hadn’t experienced in a long time.
+
+With no more reason to linger, he selected the option to exit and immediately found himself back in the pagoda within the second ring of the city.
+
+No matter how long Clay had abstained from games, he would never forget the first things he needed to do upon his return. To sell his loot!
+
+He had previously scouted out the marketplace, so he knew exactly where to go to get rid of the disgusting rats he was lugging around. It was conveniently located near the pagoda to allow Delvers to drop off their latest haul quickly.
+
+He passed by the lines that dealt in magic crystals, grains, and materials like ore and lumber, and headed for the one dealing in meat. It was like an open-stall butcher shop, but instead of selling, they mostly did buying.
+
+As the line moved, Clay watched the Delvers ahead of him take out neat cuts of unknown meat that were carefully wrapped in some sort of banana leaves, along with some pelts. He glanced at the bag that he had thrown the entire corpse of the rats in and shrugged.
+
+With no idea how to properly skin and butcher anything, there was nothing he could do at the moment. It was something he would eventually learn, but for now, he had to bear the burden of carrying his kills whole.
+
+The person manning the stall didn’t even blink when he unloaded six messy carcasses. After a few seconds of inspecting and weighing the goods, Clay was promptly paid.
+
+With his business done, he swiftly got out of the way and carefully put away his newly earned coins—a total of two silver and thirteen copper coins, with six of the latter being one size larger. It equated to two hundred and sixty-seven Lyons. That brought his total wealth up to almost eight hundred Lyons.
+
+He hummed as he made his way back to the fourth ring, obviously in a good mood after successfully completing his first delve. On his way this time, he was in the mood to take in the scenery. Noting how even the second ring, for all its wealth, was still a filthy place, with people throwing their waste onto the streets. What irked him the most was how no one seemed to care that the stench of human feces constantly assaulted them.
+
+Shaking his head, Clay continued on his way. Before he knew it, he had returned to the worksite where he slept, outside the safety of the sturdy walls of the third ring. There were a few hours before sunset, so his former co-workers were all still immersed in their work.
+
+He didn’t mind and went over to the nearby food stall, which a savvy businessman had strategically opened.
+
+It was a place he had eaten at numerous times, always purchasing the cheapest thing on the menu, some oats cooked in plain water that was barely salted. Today, he felt like he could reward himself, so he took a good look at the menu for the first time in months.
+
+“Oat porridge - 5 Lyons/bowl
+
+Bread - 7 Lyons/slice
+
+Peas - 5 Lyons/bowl
+
+Meat Skewer - 10 Lyons
+
+Cheese - 10 Lyons/slice”
+
+His mouth watered when his eyes landed on the meat skewers. He couldn’t even remember the last time he had tasted meat. He had been avoiding thinking about it as his body constantly screamed out for protein.
+
+“Hey, boss,” Clay called out to the old man manning the stall. “Three meat skewers and a slice of bread, please.”
+
+“Coming right up!”
+
+He watched as the man grilled the skewers. The aroma it gave off mesmerized him, but he found it strangely familiar at the same time. However, his stomach grumbled, and he felt mentally exhausted, so he quickly stopped thinking about it.
+
+Sitting on the stool and enjoying his meal, he watched the builders work, treating their labor as entertainment.
+
+If only they had some quality black tea to go with this. I would kill for some quality Pu-erh tea right now.
+
+As if sensing his gaze, he spotted Garrick in the distance turn directly toward him. He looked taken aback for a moment as Clay took another bite out of his meat skewer. He threw up a middle finger in response.
+
+Clay chuckled and returned the gesture in kind as he watched the big man lumber over. Watching the only figure he could call a friend in this city, he couldn’t help but feel blessed for having met the man when he first arrived in this world.

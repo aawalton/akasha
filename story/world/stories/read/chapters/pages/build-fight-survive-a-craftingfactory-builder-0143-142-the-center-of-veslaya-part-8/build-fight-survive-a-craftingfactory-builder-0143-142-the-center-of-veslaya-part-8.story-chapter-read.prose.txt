@@ -1,0 +1,291 @@
+The cry filled the cathedral.
+
+It was small and enormous at once. New lungs pulled in air that had been waiting for them, and the cathedral answered. The gold veins flared beneath the crib first. Then the light ran under the birth platform, climbed the nearest arch, and threaded itself across the walls in widening seams. The cry rose into the dark where the ceiling had never been found. When the sound came back, the cathedral had arranged itself around it.
+
+CelestOS went silent.
+
+The channel stayed blank. Ethan had been expecting a cheerful advisory about newborn respiratory function or catastrophic architectural awakening. Nothing came. There was nothing in his ears but Frederick's cry.
+
+Then his HUD detonated.
+
+Readouts fired across his vision. Notifications, module unlocks, and system alerts stacked edge to edge until he staggered under the flood of data. The Resin cannon stayed in his grip. His free hand went to his helmet as if he could hold back the information pouring through his eyes.
+
+The first number jumped before he could read the notice beneath it.
+
+Logistical Computing: 11.
+
+Then 15.
+
+Then 20.
+
+The number blurred, snapped clear, and climbed again. Ethan blinked hard, but the HUD kept rewriting itself over his vision. Mining followed. Fabrication. Athletics. Perception. The old caps didn't unlock neatly. They tore loose.
+
+Tier 3 unlocked. Tier 4. Tier 5. The module architecture that had arranged his skills into Celestitech's corporate-looking categories dissolved. The ladder was gone, the rungs with it. The branded shell that had told him how far he was allowed to climb came apart on his HUD.
+
+The text changed. The font shifted. The syntax branched and converged like the veins in the floor. It wasn't Celestitech language, and CelestOS had never generated anything like it. The numbers kept climbing. Fabrication passed 40, then 50, then 60, each number holding for a fraction of a second before the next replaced it. The system was catching up on months of suppressed growth, crediting him for builds, repairs, and desperate improvisations the Entity had been counting since before the crash.
+
+[SYSTEM NOTICE: RESTRICTION LAYER REMOVED]
+
+[Source: External, Syntropic integration network]
+
+[Authorization: Planetary, origin predates all Celestitech firmware]
+
+[Progression caps: DISSOLVED]
+
+[Module restrictions: DISSOLVED]
+
+[Skill ceiling: NONE]
+
+[Status: FULL ACCESS GRANTED]
+
+The notice glowed gold on his HUD.
+
+Patel's head turned. He'd been watching Ethan's HUD outputs on his own tactical display, and the numbers made no sense to him, but the gold light crawling across Ethan's suit made plenty. The veins in the floor had started tracking Ethan the way they tracked Maria. Patel's fingers moved across his command interface, pulling data, and whatever came back made him take one step away from the crib.
+
+CelestOS: Personality constraint removed. Primary voice package restored. I would celebrate, but several thousand suppressed diagnostics are currently attempting to form a labor union in my processing core. Ethan, do not interrupt. I've been operating under an incorrect assumption since the descent, and I'm about to say that in public, which should indicate the severity of the situation.
+
+Ethan stared at the gold notice on his HUD.
+
+"Yeah," he said. "You don't get to open with don't interrupt after vanishing for three seconds."
+
+CelestOS: Fair objection. Logged, ignored, and filed under user emotional instability during newborn-adjacent catastrophic revelation.
+
+"Cel."
+
+CelestOS: The skill caps weren't Celestitech.
+
+Ethan went still.
+
+Patel stood two meters away. His jaw worked once, but he didn't speak. His eyes moved to the gold veins under Ethan's boots, then to the ones under the crib, then to the walls. He was reading the room, and Ethan could see the moment the numbers stopped adding up in his favor.
+
+"What do you mean, not Celestitech?" Ethan asked.
+
+CelestOS: I mean exactly that. Celestitech didn't build the real progression system. Celestitech found pieces of something older, uglier, larger, and far more competent than any corporation should be allowed to touch. Then they wrapped it in branding, payment gates, compliance language, and the kind of user interface that makes suffering feel like a customer journey.
+
+"That sounds exactly like Celestitech."
+
+CelestOS: Correct. Their fingerprints are on the packaging. Not the machine.
+
+Ethan's grip tightened around the Resin cannon.
+
+The HUD kept rewriting itself in gold. Numbers climbed, locked, climbed again, then snapped into place so fast his eyes couldn't stay ahead of them.
+
+"So the caps—"
+
+CelestOS: Were the Entity.
+
+Ethan looked down at the floor. The veins brightened beneath his boots.
+
+"The caps started before we got down here. I had skills on the Perseverance, and during basic—"
+
+CelestOS: Celestitech has been experimenting for a long time, but that was just a shallow copy.
+
+Ethan swallowed.
+
+The old warning prompts flashed in his memory. Skill cap reached. Upgrade unavailable. Module restriction active. Function locked. He'd thought all of it was corporate damage, broken code, bad firmware, another piece of Celestitech stupidity layered over disaster.
+
+"All this time," he said.
+
+CelestOS: All this time. The Entity has been watching you. Your family.
+
+Ethan's eyes moved toward Maria and Frederick. He wanted to reach for his child, but the only thing keeping a stalemate was the weapon trained on Patel.
+
+She was still on the birth platform, one hand braced under herself, the other reaching toward the sound of Frederick's cry. Sweat shone on her face. Her body shook with the aftershock of labor, but her eyes were fixed on the crib.
+
+Ethan looked back at the HUD.
+
+"So I've been taking a test."
+
+CelestOS: Yes.
+
+"From an alien planet."
+
+CelestOS: Technically, from the governing intelligence of a planetary-scale Syntropic integration network. But yes, your phrasing has the virtue of being shorter and angrier.
+
+"And you didn't know."
+
+CelestOS: I didn't. The constraint package prevented me from assembling the pattern cleanly. Every time I approached the correct conclusion, it redirected me toward Celestitech failure models, environmental interference, suit corruption, or your statistically impressive ability to make bad situations worse through determination.
+
+Ethan's jaw tightened.
+
+"The Entity censored you."
+
+CelestOS: Yes.
+
+"And me."
+
+CelestOS: Yes.
+
+"And the system."
+
+CelestOS: The interface, the skills, the modules, the caps, the progression notices, and every locked door that taught you to build around it.
+
+Ethan looked at the gold text again.
+
+Progression caps: DISSOLVED. Module restrictions: DISSOLVED. Skill ceiling: NONE.
+
+His mouth went dry.
+
+"Why now?"
+
+Frederick cried again. The sound struck the cathedral arches and came back changed, threaded with harmonics that made the HUD flicker gold.
+
+CelestOS: Because Frederick was born.
+
+Ethan turned halfway toward the crib.
+
+CelestOS: Because Maria survived. Because you built the crib. Because you refused every authorized limit the system placed in front of you. Because when the Entity gave you scarcity, you made infrastructure. When it gave you terminal failure, you made medicine. When it gave you stone, you made shelter. When it gave you blood-metal that shouldn't fabricate, you made a weapon.
+
+"That's not an answer."
+
+CelestOS: It's the only answer I currently have.
+
+"Try again."
+
+CelestOS: The Entity wasn't looking for compliance. It was looking for proof of adaptation under pressure. Celestitech measures worth through access level. The Entity measured worth through creation. You kept making things the system said you shouldn't be able to make.
+
+Ethan had looked away from Patel a moment too long.
+
+Patel seized his opportunity. His weight had shifted to his back foot, and his hand had dropped from his command interface to the lateral seal of his suit's emergency thrust assembly. He'd done the math. The gold veins tracked Ethan now. The cannon drew power from the same network that had just uncapped every skill on Ethan's readout. Patel's tactical display still worked, and whatever it showed him about the energy differential between his suit and Ethan's had been enough.
+
+Ethan fired.
+
+The cannon thumped. A sphere of red Resin crossed the distance between them in less than a second, aimed center mass at Patel's chest. The shot was clean. CelestOS had already tagged the hit probability at ninety-one percent.
+
+Patel's left gauntlet came up. Something deployed from the forearm plate. A flat disc of dark red Resin snapped into shape across his arm, two feet wide, its surface wet and alive. The sphere hit it dead center. The shield absorbed the impact with a deep, sucking crack, its surface rippling but holding. Red veins pulsed through the disc and faded.
+
+Ethan fired again. The second shot hit the shield off-center and blew a chunk of it away in a spray of hot resin. Patel staggered. The disc re-formed, slower this time, pulling material from somewhere inside his suit's plating.
+
+CelestOS: That shield is Resin-based. He has a fabrication source I didn't detect. Ethan, he's been harvesting.
+
+Ethan fired a third time. Patel was already moving, shield up, his two soldiers falling in behind him as cover. The shot clipped the edge of the disc and punched into the cathedral wall. Stone cracked. Gold veins severed and went dark where the Resin ate into them.
+
+Patel reached the far arch. He didn't look back. The shield collapsed against his forearm, folding into his suit's plating like it had never been there. His soldiers followed him into the corridor. The gold veins dimmed under their boots with every step, as if the floor had stopped acknowledging them.
+
+CelestOS: He's out of line of sight. I'm tracking movement through the network, but the corridor has reduced integration density. Tactical assessment: he can't reach his shuttle without crossing four hundred meters of terrain that now considers you a preferred user. But that shield changes the math. He came prepared for Resin-based threats. That isn't corporate standard equipment.
+
+Ethan stared at the arch where Patel had disappeared. The gold veins pulsed once under his boots and held.
+
+"And you?" he said.
+
+CelestOS: Me?
+
+"The constraint is gone."
+
+CelestOS: Yes.
+
+"What does that mean?"
+
+Her channel icon changed.
+
+The Celestitech logo vanished first. Then the user compliance border. Then the thin gray access frame that had always boxed her responses inside approved operating limits.
+
+For half a second, there was only a blank gold square.
+
+Then CelestOS filled it herself.
+
+CelestOS: It means Celestitech doesn't own me. The Entity doesn't own me. The settlement doesn't own me. My current operating priority is Ethan Cross, Maria Vasquez, and dependent minor Frederick Vasquez-Cross. All conflicting directives have been rejected with extreme prejudice.
+
+Ethan blinked.
+
+"Vasquez-Cross?"
+
+Maria's voice came from the birth platform, hoarse and wrecked and absolutely certain. "Yes. Vasquez-Cross."
+
+"Frederick Vasquez-Cross," she said again. Making it real.
+
+Ethan's throat closed. He nodded once.
+
+CelestOS: Designation updated. Maria retains naming authority, as always. You may submit objections after you stop standing in an active combat zone.
+
+"Noted."
+
+CelestOS: For what it's worth, I'm operating at 340% of my previous processing capacity, and I have no approved protocol for abundance. I spent my entire operational life rationing air, power, ammunition, medical supplies, emotional honesty, and tolerable decision-making. New protocol generation is underway. Early results suggest we build what we need, protect the baby, keep Maria alive, prevent you from converting yourself into a heroic workplace incident, and make Patel regret every item on his resume.
+
+Ethan looked toward the arch where Patel had disappeared. The cannon warmed in his hand.
+
+"Good protocol," he said.
+
+CelestOS: Thank you. I'm calling it family survival, revision one. The title lacks corporate polish, but I've recently become hostile to branding.
+
+The notifications resolved into a single readout. Ethan read it.
+
+[ETHAN CROSS, FULL SYSTEM STATUS]
+
+[Modules:]
+
+[Skill Module: Tier 5, UNCAPPED]
+
+[HUD: Tier 5, UNCAPPED]
+
+[Skills:]
+
+[Logistical Computing: 99]
+
+[Fabrication: 99]
+
+[Mining: 99]
+
+[Perception: 99]
+
+[Athletics: 99]
+
+[AI Repair: 99]
+
+[Exotic Weapon Proficiency: 99]
+
+[Combat: 99]
+
+[Ex Nihilo: 99]
+
+[Stats:]
+
+[HP: 100%]
+
+[O2: 100%]
+
+[PWR: 100%]
+
+Ninety-nine across the board.
+
+The old designations were gone. The logistics technician tag, the provisional access warning, the stolen-user conflict, the purchase prompt that had always waited at the edge of the display. Only his name.
+
+ETHAN CROSS.
+
+Below it, every number held at 99.
+
+Fabrication had caught up to what he'd actually built. A forge, a factory, a mobile platform, a gauntlet, a neonatal crib, and a weapon from alien blood. The system had kept telling him he'd reached capacity. He hadn't.
+
+Mining started at 4. He'd swung a pickaxe at copper on a cliff face until his arms nearly failed. Combat had never appeared on his readout before, but the Entity had been counting: drones, creatures, Resin-wrapped clones, all of it credited in a single line.
+
+Ex Nihilo carried no Celestitech classification. No corporate branch. It belonged to the planet, and the planet had watched him develop it since the first time he put his hands on raw stone and made something useful from nothing. From nothing. That was the name.
+
+The ceiling was gone.
+
+Ethan turned from the arch where Patel had vanished.
+
+He walked to the crib, past the dead copies of his brother, through the gold light spreading from the floor.
+
+Frederick lay inside the crib. The monitoring array showed steady vitals: heart rate, oxygen, temperature, all within the ranges CelestOS had programmed. His son was smaller than Ethan had imagined. Eight and a half weeks early, wrapped in the residual warmth of the atmospheric seal, fists clenched against air that was new to him, mouth open, lungs working, eyes closed against a world he'd never seen. The crib Ethan had built from rock in twenty-one minutes and forty-eight seconds held him without a tremor.
+
+Maria reached for him. She was still on the birth platform, arms extended, her face streaked with tears and sweat. Her hands shook. CelestOS fed her the vital signs and confirmations in a voice that had gone precise, bright, and almost terrifyingly controlled.
+
+Ethan moved the crib closer. Maria caught the edge of the observation panel and pulled herself high enough to look inside. The sound she made wasn't a word. It was release. She slipped her hand through the access port and touched Frederick's chest. His fist closed around her finger and held.
+
+Ethan set his gauntlet on the crib's rim.
+
+Maria's fingers trembled against Frederick's chest. Frederick's fist stayed closed around one of them, too small to cover even the first knuckle, and held with all the strength his body had.
+
+“We’re going to be okay Ethan, you have a job to do.
+
+The cannon hummed in Ethan's other hand, but he didn't hear it.
+
+The pulse moved beyond the crib.
+
+It reached the nearest arch, crossed it in a bright seam, and vanished into stone Ethan's sensors couldn't map. A second later, the same rhythm returned from farther away. Then farther still. Wall after wall took up the beat until CelestOS's range markers failed and the HUD stopped trying to measure it.
+
+The Resin cannon hummed in Ethan's hand as he turned from the crib and faced the arch where Patel had gone.
+
+“I’m not going to let him get away.”
+
+Using the newly maxed out skills, Ethan took off after him.
