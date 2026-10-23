@@ -1,0 +1,75 @@
+35 - Chapter 33
+
+The next to provide an update were the blacksmiths.
+
+“We have been working with the artificers to create a working prototype that can function as a fridge or an oven,” said Lin Song. “The current design is akin to a storage box made of simple metal, with a normal hinged door. The basic design has been completed and handed over. We will start work on some of the other items tomorrow.”
+
+“That is excellent to hear.” replied Sa Bina. “I need you to look at creating a fine sieve for me. It will help in creating a higher quality flour. I also have some ideas on how we can improve the efficiency and quality of both the oven and fridge once our artificers get the designs working.”
+
+“What did you have in mind, my lady,” asked Lin Ye. His whole attitude had changed once he had started to work on the projects Sa Bina had designed.
+
+“Has anyone heard of a rubber tree?” asked Sa Bina. “It can be identified by its milky white sap, also known as latex, and its other characteristics. When the bark of a rubber tree is cut, a milky white sap called latex flows freely. In the wild, rubber trees can grow to be 100 to 130 chi (30 to 40 meters) tall and live up to 100 years. Cultivated trees are usually much smaller. The trunk of a rubber tree is smooth and straight, with grayish bark. It may have a swollen, bottle-shaped base. Rubber tree leaves are large, thick, and glossy, and can be 1/3 to 1 chi (10 to 30 centimeters) long. They have three leaflets and are arranged in a spiral.”
+
+“That tree does sound familiar, but it is not something that we have a use for.” replied Gao Ye. “I have seen it in the wild occasionally, but I have not heard of it being cultivated.”
+
+“If there are these trees, then we can create a whole new product with massive application,” replied Sa Bina. “I will need someone to find a few trees and run some experiments and collect as much of the white sap as we can. We can look at that process later, once we have confirmed that rubber is actually available.”
+
+“To return to my original point.” continued Sa Bina. “The main issue with either a fridge or oven is the ability to maintain the correct temperature while minimising the amount of energy required. Even though beast cores are cheap, if they will work, they are not a free resource. We should always be looking at minimising the energy expenditure for any formations we create. Efficiency will become more and more important as we scale up our work. Now do you understand how heat is retained or lost from any item?”
+
+Gao Ye was getting very interested in Sa Bina’s thought process. The general way for artificers to create formations was to look at the end result and then throw money at the problem in terms of spirit stones. This was the main reason that formations were considered too expensive for the majority of uses. “No, I can’t say that I have given it much thought,” he said. The others around the table nodded in agreement.
+
+“Well,” said Sa Bina. “Heat is essentially another form of energy. The three main ways heat is transferred are conduction, convection, and radiation. Conduction is when heat is transferred through direct contact between objects. For example, a pan on a hot stove heats up by conduction. Convection is when heat is transferred through the movement of a liquid or gas. For example, a person or animal breathes in cold air, passively heats it in their lungs, and then breathes it out. Radiation is when heat is transferred through waves of energy. For example, the sun warms your face on a hot day. Heat always flows from a region of higher temperature to a region of lower temperature.”
+
+Sa Bina could see people trying the breathing method and looking astounded that they had not considered something so simple.
+
+“Now,” continued Sa Bina. “Where the last form is difficult to limit, the other two are not so hard to stop. They both need a medium to work effectively.”
+
+“What do you mean by that.” asked Gao Ye. He was really getting into this now.
+
+“Well,” replied Sa Bina. “Let us take the first example. If a pan is on the stove it heats up. If you lift the pan and hold it over the stove, but not let it touch, does it still get just as hot just as fast? Of course not. For the heat to be conducted efficiently, both materials need to be good conductors, and then in close contact. If you were to put a thick block of wood in between the pot and the stove, then the pot would not get hot as the wood would stop the heat, at least until it caught fire.”
+
+“So the amount of contact would make a difference to the transfer of heat?” asked Lin Ye, now thinking about how the heat was transferred during smithing.
+
+“Yes, the lower the contact, the less conduction would occur.” replied Sa Bina. “If we could use materials that are bad at conducting heat, then that would reduce conduction even more. Though we would have to make sure the material would be able to cope with appropriate amounts of energy. Otherwise the insulating material would catch fire and defeat the objective.”
+
+“Of course.” replied a thoughtful Gao Ye. “This is the same as the principles in formation creation. The Formation has to be designed to deal with the amount of energy that passes through it.”
+
+“Yes,” replied Sa Bina, smirking. “Though I bet most people never use the opposite effect. They just want to make things bigger.”
+
+“What do you mean?” asked Gao Ye, frowning.
+
+“What would happen in your formations, if the energy channels were purposefully kept small to only let a small amount of energy pass through?”
+
+“Energy channels.” mused Pan Deming. “Like channels when funneling water, certainly an interesting analogy. Yes a most apt name and description, if we think of the flow of energy like we think of the flow of water. If we control the amount, we would limit the effect. Though would the channels not be damaged by the energy flow?”
+
+“No, think about the same with water.” replied a very excited Gao Ye. “If we could use a kind of gate to control the amount of energy flowing into the channel, then the channel would be safe. We could more precisely control the effect.”
+
+“There is a third use case that you are not seeing.” added Sa Bina. “The limitations of the channel actually act as a protection. If the channels take too much of the energy flow, then by breaking, they stop the energy flow and stop the formation from creating an effect that could be detrimental. For example, if we want a stove to cook soup, with too much energy it would instantly boil the soup and the pot. The smaller channels would stop the formation from setting fire to the kitchen.”
+
+“This…this idea, it would have so many applications and change the way we create formations.” exclaimed Gao Ye.
+
+“That is great,” replied Sa Bina. “But we have gone far off topic. To get back to the original point. If we could create a box within a box, with minimal contact between the two layered boxes, then we could reduce conduction from inside the box. As for convection, as you all noticed with the breathing trick, the medium that convection uses is the air.”
+
+“So if we could find a way to remove the air in the gap between the layered box inside a box,” mused Lin Ye. “We could maintain the temperature much better inside the box. Would this work even for a forge? Would it be superior to building a very thick forge?”
+
+“In theory, yes.” replied Sa Bina. As much as Sa Bina was enjoying the discussions that her insight was causing, she needed to keep the team on point. It would be very easy for them to become distracted by new research ideas. “The problem would be finding the materials that could contend with the high temperatures to stop from melting or burning. Though creating layers would work to mitigate that effect. Going back to the oven and fridge issue, there are two other issues that would need to be addressed. First, the door would have to be designed the same way, then the hinge would have to be designed in such a way as to lock the door in place, but still allow for the door to be opened with a little pressure. Second, the temperature inside the box would not be the same everywhere. As heat rises, the top of the box will always be warmer than the bottom. The simple way to deal with that issue would be to create air circulation inside the box to constantly move the air around, effectively forcing the temperature to equalise across the whole box.”
+
+Gao Ye had so many ideas running through his head. Just what grounding in the physical laws did Sa Bina have to be so well versed in theories that he had never come across in his long life. Just the simple understanding of the movement of energy would be enough for him to improve his formations to an amazing degree. He was really starting to understand why Sa Bina had not wanted to just give her ideas away. If she revealed such revolutionary knowledge so casually, what else did she know? How far would her knowledge push his skills?
+
+Lin Ye’s thoughts were running along the same lines as Gao Ye’s. Just how else could he apply this new insight to improve his forging. For Lin Ye, it was not only about the improvements, if they could reduce the amount of energy required, they could improve profit margins for their smithing as a whole.
+
+Gao Ye brought his focus back to the purpose of this meeting in the first place. “Apologies for getting distracted, my lady.” said Gao Ye. “It’s just that the insight you provided was just extraordinary. In terms of progress, we have managed to build the first version of the thermometer. It worked just as you described and will be very useful in a number of situations.”
+
+“Excellent.” replied Sa Bina. “I take it you have heard of a material called silver water. It looks like silver, but is liquid. It is a very poisonous substance?”
+
+“Yes, my lady.” replied Liu Wen. “It is used as a base material in many concoctions.”
+
+“If you can use that instead of the alcohol mix, then you can create far more accurate thermometers.” replied Sa Bina. “You can work with the glassmiths to create a much finer quality device. The higher the accuracy, the more uses the thermometer can have.”
+
+“I will work with Liu Wen and He Sen on refining our design, my lady.” replied a thoughtful Gao Ye.
+
+“That leaves me to provide an update, my lady.” said Pan Deming. “We have looked at ways to create the building with the design style that you wanted. If we go with a traditional design, it will take too long to create such a large building. We propose using a cultivator with an earth Qi affinity to create the basic walls out of stone. Then we can add the wooden look on top of the walls to give the impression of a traditional pagoda, yet make it much stronger. We can also have the building up in days.”
+
+“Really, we can have a basic shell of a building up in just a few days?” asked Sa Bina. “If that is truly possible, that could make a huge difference. That also gives me ideas for other things we can add to take advantage.”
+
+If her ideas worked out, she could create a building with insulation for both temperature and sound, then add formations to create air conditioning!
