@@ -1,0 +1,245 @@
+Name: JadeLevel: 9Species: Quantum Arbiter (Draconis) (V)
+
+Alignment: Judgement (Lightning), Freedom (Dark)
+
+Attributes:
+
+Strength: 609
+
+Durability: 411
+
+Intelligence: 184
+
+Willpower: 406
+
+Mana Points (MP): 693/693
+
+Dark Mana Points (Wraith Heart): 100/100
+
+Quantum Mana Points (Quantum Node): 200/200
+
+Stamina Points (SP): 1361/1361
+
+Abilities:
+
+Mana Devourer
+
+Distortion Cloak
+
+Reality Gremlin Paradox
+
+Quantum Attunement
+
+Alignment Abilities (2/5):
+
+Thunder Verdict
+
+Court of Quantum Edicts
+
+Species Skills:
+
+Resonance Roar: Level 1 (II)
+
+Reinforced Scales: Level 7 (II)
+
+Advanced Flight: Level 9 (II)
+
+Rich Respiration: Level 8 (II)
+
+Hidden Resonator: Level 3 (III)
+
+Adaptive Grip: Level 3 (II)
+
+Flame Jet: Level 8 (II)
+
+Mana Weaving: Level 4 (III)
+
+Equilibrium Trance: Level 2 (III)
+
+Constrict: Level 4 (I)
+
+Dimensional Aura: Level 5 (III)
+
+Resonance Lock: Level 2 (II)
+
+Danger Prognosis: Level 1 (II)
+
+Observer’s Reversal: Level 1 (II)
+
+Exclusive Skills:
+
+Resonance Transformation: Level 3 (II)
+
+Advanced Quantum Affinity: Level 4 (II)
+
+Quantum Spells (2/8):
+
+Observer’s Mark
+
+Observer’s Suggestion
+
+Techniques (1/2):
+
+Phantom Dragon Dance: Level 4 (I)
+
+Mutations:
+
+Eyes: Focusing Lenses, Peripheral Optimization (III)
+
+Claws: Claw Flexibility, Razor-Edge Claws (III)
+
+Scales: Colour Adaptation, Shock-Absorbent Scales (III)
+
+Wings: Hollow Bones, Mana-Infused Fibers (III)
+
+Legs: Joint Flexibility, Mana-Responsive Cartilage (III)
+
+Fire Gland: Mana Reservoir, Mana Conservation (III)
+
+Macro-Trophic Sac: Stamina Surge Reservoir, Toxicity Neutralizer, Hyper-Efficient Digestion (IV)
+
+Mana Conduit Vasculature: Micro-Mana Control, Mana Conduit Resilience (III)
+
+Dimensional Lamina: Resonance-Stabilizing Membranes, Phase Microfilament Clusters (III)
+
+Dimensional Convergence Tendrils: Reactive Tendrils, Refined Neural Pathways (III)
+
+Quantum Nexus: Stabilized Persistence, Manifold Expansion, Threaded Control, Quantum Displacement Buffer, Quantum Transposition (VI)
+
+Resources:
+
+Skill Points: 67
+
+Morphogens: 62
+
+Quite the progress I had made over the past, what, not even two weeks? The changes stacked quickly, starting with mana manipulation. Advanced Mana Manipulation had now advanced further, evolving into Mana Weaving.
+
+Mana Weaving: Unlocks the ability to create semi-permanent mana constructs. Mana efficiency is further increased.
+
+A modest description for what turned out to be an absurdly potent ability. I released my mana and felt it spill outward, draping over the entire room like a second skin made of something more tangible than air. It clung to everything— my bed, the books crammed into my shelf, the array of apparatus and vials scattered across the desk. When I focused on the vials, I coaxed the energy into shape, forming fine claws of mana. They pinched the glass with an almost eerie precision. I tossed them into the air, then wrapped them in a paper-thin veil of tangible mana, allowing them to hover midair.
+
+It was telekinesis, stripped of the clunky requirement to weave raw, affinityless mana into a proper spell construct— something I still had no idea how to accomplish. Not that it mattered anymore. Mana Weaving had made that entire concern obsolete. The raw power was leagues above what I’d expected. Through trial, I learned that if I combined it with my general perception, I could intercept and halt something as lethal as a fired arrow mid-flight. Raw mana was a great momentum stopper, almost unfair in how abruptly it could rob objects of their force. It smothered the very motion itself, grinding it down to nothing in a way that felt less like resistance and more like erasure.
+
+Constructs scaled up as well. I shaped a massive claw in the air, its grip strong enough to crush a human outright. Shredding them? Well… not yet. I could thicken the constructs with ease, condensing them into bludgeoning masses, but achieving finer precision, the needlework required for edges and blades, was another challenge entirely. Still, I had no doubt I’d reach that level soon. Even without razor-sharp control, the upgrade had multiplied my options. My spell structures now held far greater stability; I could leave one spell dormant in a trigger state, stack up to five more in parallel, and then fire them all at once. That kind of delayed arsenal was a utility breakthrough.
+
+The next milestone was Core Stabilizer, an ability that let me slip into a meditative trance, accelerating recovery of both mana and stamina. In the dungeon, it had saved my hide several times. Yet with my pool of mana swelling larger and larger, the relative usefulness of Core Stabilizer had started to taper off. Not once in any real fight had I actually drained myself dry. But if I kept pushing limits and tempting fate, it was only a matter of time. On that day, having such a fallback would be nothing short of divine.
+
+The upgrade hit exactly the mark:
+
+Equilibrium Trance: Entering the meditative trance accelerates mana and stamina regeneration by 300%. Additionally, the user gains a minor passive regeneration effect (50% of the trance rate) even while active, as they subconsciously maintain a degree of internal equilibrium. Also reduces mental fatigue.
+
+Perfect for someone like me.
+
+More skills had nudged forward too. Flame Jet was right on the brink of its next evolution. Flight as well. I wasn’t sure what form their upgrades would take, but given the increasingly Quantum theme threading through my recent advancements, I had a suspicion they’d tie into that in strange ways and I was eager to see it.
+
+Speaking of Quantum, the skills I’d purchased had also undergone an upgrade. They demanded some grinding before they budged, but I didn’t need to focus on them exclusively. That was the luxury of having more brainpower than I knew what to do with.
+
+Quantum Anchoring had finally broken through and refined itself into Resonance Lock.
+
+Resonance Lock: Worn equipment and clothing gain significant resistance to spatial and transmutative effects. The anchoring field can be consciously expanded for a brief moment to create a “Null-Space” around the user, negating any sort of manipulation.
+
+On paper, it felt a little redundant when stacked next to my Dimensional Aura, but I had a hunch it would branch into something more exotic once it hit Tier 3. Even so, as a Tier 2 upgrade, it was more than serviceable. Grinding it wasn’t even a chore, I could level it almost passively, letting it simmer in the background while I focused on other things.
+
+Then there was Probability Lens, which had grown into Danger Prognosis.
+
+Danger Prognosis: The user perceives faint “echo trails” of the most probable dangerous actions directed at them within the next 10 seconds. Works on a cooldown.
+
+At its first upgrade, the skill had been, frankly, unimpressive. In theory, highlighting objects or people likely to interact with me sounded brilliant. In practice, it was underwhelming, just a flicker of awareness without actionable information. Still, I kept at it, pushing it toward Tier 2, and the payoff was huge. Now it wasn’t just passive background noise, it was like having an inbuilt danger perception.
+
+Even if something moved so fast my Air Sense couldn’t flag it in time, I’d still get a preview of its path before impact. The cooldown sat at about five minutes, manageable, especially for the ability to not only sense danger but actually see its probable trajectory.
+
+And then came Observer’s Shroud, which transformed into Observer’s Reversal.
+
+Observer’s Reversal: Can now be used while moving at a slow pace. The user blends seamlessly into background resonance, deflecting magical and physical detection. Direct observation causes feedback, stunning or disorienting observers. The user becomes aware of being observed and can convert hostile gazes into reverse links, skimming the surface thoughts of the observer.
+
+Originally, Observer’s Shroud had been a purely static trick, something that hid me and punished those who tried to look too closely while I stayed still. Now, not only did it do that far better, but it also allowed me to move under its cover at a slow pace without breaking the effect. More importantly, I could tell when I was being watched despite psychic backlash, and even flip the tables by setting up a reverse link—my gaze brushing back along theirs to sample the surface of their thoughts. It felt exactly like what Sergiy had, but unlike him, I wouldn’t unravel into a scared mess. I punish the observer. I know who’s watching.
+
+Gaze too long at the dragon, and the dragon gazes back at you.
+
+…Where had I read something like that before?
+
+And how was this just a Tier 2 upgrade?
+
+Regardless, it was absurdly strong. Every skill I’d unlocked at this new evolutionary stage, only four so far, granted, felt unbelievably potent. Danger Prognosis and Observer’s Reversal in particular were bursting with possibilities I hadn’t even begun to fully explore.
+
+Meanwhile, Phantom Dragon Dance still lingered at level 4, but I could feel it pressing against the threshold of level 5, close to being upgradeable. I was eager to see what it would become next.
+
+Finally, there was the matter of my affinity.
+
+Quantum Affinity had ascended into Advanced Quantum Affinity.
+
+On the surface, not much had changed. According to the System description, I was simply “more efficient” and “more expert” at handling it.
+
+But the simple line, “User understands the Quantum Affinity better and hence is more efficient,” felt like a curtain over something deeper. I could feel… something else coiling beneath that text. It felt like an emerging property, more like a new force waiting to be named.
+
+Using a thread of mana, I flicked open the drawer of the table beside my bed and telekinetically drew out a golden coin. I caught it between my fingers, feeling the familiar coolness of its surface before tossing it upwards. The moment it left my hand, I felt it— a faint, almost imperceptible surge of quantum mana. It wasn’t limited to this coin either. I’d realized that nearly everything around me, at all times, was generating these minuscule pulses of quantum mana whenever an event occurred.
+
+Whether magical or non-magical in nature didn’t seem to matter. In fact, it was especially strong with non-magical events. Surprisingly enough, the amount of quantum mana generated during a mundane, non-magical occurrence was greater than during an overtly magical one. Both were negligible by normal standards, little wisps of energy, but my senses were now sharp enough to catch the buildup, to feel those ripples as they formed.
+
+The coin tumbled back down and I snatched it from the air. Heads. And the instant the event— the coin toss— completed, the mana I’d felt dissipated into a void. I couldn’t track where it went or what consumed it.
+
+I tossed the coin again, but this time, instead of simply observing, I focused on the infinitesimal burst of quantum mana released at the beginning of the event—the moment my fingers left the coin. Immediately, a hum vibrated at the edge of my perception. A kind of subtle harmony. I couldn’t pinpoint its source, but I could feel it emanating from the coin itself. It was like listening to two equal frequencies colliding, overlapping, interfering with one another.
+
+I could manipulate it.
+
+I nudged one of the frequencies ever so slightly and felt it swell, overpowering the second one and breaking their equilibrium. The coin landed in my palm again. Heads.
+
+I tossed it again, nudged the same frequency again. Heads. Again. Heads. Each toss, the outcome aligned with my push.
+
+I switched, nudging the opposite frequency instead. The coin began landing on tails.
+
+The “frequencies” were probabilities. And I was actively skewing them.
+
+The experience felt eerily familiar once again, like when I’d first gained Echo Claw Swipe and Spectral Crunch, unknowingly skimming the edges of the Shadow Dimension before I even understood what it was.
+
+Now, I was brushing against the rules of something even stranger. Manipulating the outcome of an event this way felt like touching the very uppermost edge of a colossal abyss, an iceberg of hidden mechanics spiraling downward out of sight.
+
+For now, all I could reliably influence were small things, like a coin toss, an insignificant decision point. I didn’t know the full rules yet, how the effect truly worked, or what the limits were. But I was working toward that, slowly and methodically.
+
+With a flick of mana, I drew out a stack of paper from my drawer along with my pen.
+
+The front page was already lined with the projects currently occupying my focus:
+
+Quantum Spells
+
+Quantum Mana Rules
+
+Alchemical Transmutation
+
+For now, just three. I added a fourth:
+
+Research the Spirit Hunt
+
+If I was taking part, it only made sense to research it thoroughly. For this particular problem, I suspected it wouldn’t even be difficult— I had someone who might be well-versed in how it operated. Namely, Lysska. And, for once, I wasn’t planning to pester Lotte for the universe’s secrets. I was perfectly capable of prying the universe open on my own terms.
+
+And honestly, it was far more satisfying to unearth knowledge by yourself than to have it spoon-fed to you. These past two weeks had reignited my passion for learning and magic in a way I hadn’t felt for a long time.
+
+I slammed the sheets of parchment back into the drawer with a final push of mana, then floated myself upward with a gentle lift of energy. A small yawn escaped me as I hovered there.
+
+How long had I been awake? Way too long, probably. Not sure if I’d had more than a few hours’ sleep in the past two weeks. My new bed was gathering dust.
+
+Maybe I should just grab an hour of rest, chat with Lotte first, then head down to collect my special delivery. My stomach reminded me of that plan with a loud, insistent growl. Excited… and hungry.
+
+I collapsed onto my bed, only to be interrupted by a loud caw. Alder, my floofy owlcat, was harassing a frustrated crow outside the window. With a flick of mana, I grabbed the crow mid-air and bonked Alder on the head with a violet mana bat.
+
+“MRRA!”
+
+“I told you not to chase the crows!”
+
+Alder let out another pitiful mewl, but the sight of a butterfly drifting past immediately erased his sorrow. He leapt toward it, abandoning the crow for the next shiny distraction.
+
+The crow was Lysska’s. One of her familiars—though calling it that didn’t quite capture it. It could split into a whole murder of crows, giving her eyes and ears in every corner of Varkaigrad. Still, at its core, it was a monster. And I understood monsters.
+
+The crow cawed, a sort of thanks for saving it. Again. I shrugged. Not my fault Alder liked avian chaos.
+
+“Anyway,” I said, “did Lysska want to send a message?” The only reason her crow would visit me directly.
+
+The crow nodded and cawed affirmatively.
+
+Hoh. She wanted to meet. I already had a feeling the motivation would be the same as Vasilisa’s: to talk about the Spirit Hunt and ask me to participate.
+
+I nodded. “I’ll be free in an hour. Shall we meet then?”
+
+I left it at that. Better to discuss the rest in person.
+
+The crow cawed and nodded again, transmitting Lysska’s confirmation. Sweet. Now… I glanced at my bed and collapsed back onto it. Time to have a proper talk with Lotte first.
