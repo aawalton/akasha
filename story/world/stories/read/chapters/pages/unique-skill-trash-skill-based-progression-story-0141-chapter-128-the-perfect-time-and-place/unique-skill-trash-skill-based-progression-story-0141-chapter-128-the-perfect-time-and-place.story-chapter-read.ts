@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0141Chapter128ThePerfectT
     },
   ],
   createdAt: "2026-10-22T16:49:32.049Z",
-  updatedAt: "2026-10-22T16:49:32.049Z",
+  updatedAt: "2026-10-23T17:47:09.446Z",
+  ownProgress: 2132,
+  progressedAt: "2026-10-23T17:47:09.446Z",
 } as const satisfies StoryChapterRead
