@@ -264,6 +264,10 @@ export const checking = {
       statement: "A group stating no ceiling refuses nothing however long its check runs.",
     },
     {
+      decisionKind: "decision-kind/stopgap",
+      statement: "The time ceiling an audit group states is gathered doubled for now.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "The memory ceiling an audit group states is gathered beside its time ceiling.",
     },
@@ -354,5 +358,5 @@ export const checking = {
     },
   ],
   createdAt: "2026-08-29T04:26:03.782Z",
-  updatedAt: "2026-09-25T14:40:06.000Z",
+  updatedAt: "2026-10-23T22:19:56.255Z",
 } as const satisfies Module

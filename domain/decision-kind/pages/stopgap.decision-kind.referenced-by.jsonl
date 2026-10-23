@@ -22,6 +22,7 @@
 {"propertySlug":"decision-kind","path":"check/check.domain.ts","id":"01a04bc4-7e85-704f-b87e-eac561795185"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-refused-syntax/syntax-rule/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.ts","id":"01a05031-fa74-7d24-87db-885dfcb18a31"}
 {"propertySlug":"decision-kind","path":"check/modules/checking/checking.module.ts","id":"01a04bc4-7e86-7df4-a322-36cc3b789fce"}
+{"propertySlug":"decision-kind","path":"check/modules/run-ceiling/run-ceiling.module.ts","id":"01a0b7dd-0d08-70b9-a763-fcce5982f703"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/vscode-api/vscode-api.type-declaration.ts","id":"01a0680b-7175-7001-8191-14c34a59562f"}
 {"propertySlug":"decision-kind","path":"code/running/modules/test-confinement/test-confinement.module.ts","id":"01a0d998-1711-73f8-bfa6-5b8d9824fe5a"}
 {"propertySlug":"decision-kind","path":"code/shell-script/pages/statusline/statusline.shell-script.ts","id":"01a05849-ff1d-7137-9c84-ed12b05bd07c"}

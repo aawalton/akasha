@@ -33,6 +33,7 @@ import {
 } from "akasha/check/modules/mortal-sparing/mortal-sparing.module.code.ts"
 import {
   AUDIT_GROUP,
+  auditCeilingOf,
   CHECK_GROUP,
   ranOver,
 } from "akasha/check/modules/run-ceiling/run-ceiling.module.code.ts"
@@ -242,7 +243,7 @@ function gatheredFrom(root: string, from: string, path: string, slug: string): G
     run: run.held,
     audit: audit.held,
     checkCeiling: ceilingIn(stated.held, CHECK_GROUP, MAX_CPU),
-    auditCeiling: ceilingIn(stated.held, AUDIT_GROUP, MAX_CPU),
+    auditCeiling: auditCeilingOf(ceilingIn(stated.held, AUDIT_GROUP, MAX_CPU)),
     auditMemoryMb: ceilingIn(stated.held, AUDIT_GROUP, MAX_MEMORY),
   }
 }

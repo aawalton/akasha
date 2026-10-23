@@ -46,7 +46,27 @@ export const runCeiling = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here runs a check, measures a run or stops one part way through.",
     },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "For now an audit is allowed twice the processor time its page states.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: 'Alan said so on 2026-10-23: "you can double the limits for the audits for now."',
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "The ceiling a check states for a change is not doubled.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "The lasting answer is an audit judging only what changed since the last audit.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "The doubling ends when that audit lands.",
+    },
   ],
   createdAt: "2026-09-19T04:11:52.456Z",
-  updatedAt: "2026-09-21T19:36:43.000Z",
+  updatedAt: "2026-10-23T22:19:56.255Z",
 } as const satisfies Module

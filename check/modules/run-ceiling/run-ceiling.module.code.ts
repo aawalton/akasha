@@ -11,6 +11,12 @@ export const MEASURED_ON = node06.slug
 
 const OVER_CEILING = "check-over-its-ceiling"
 
+const AUDIT_ALLOWANCE_FOR_NOW = 2
+
+export function auditCeilingOf(stated: number | null): number | null {
+  return stated === null ? null : stated * AUDIT_ALLOWANCE_FOR_NOW
+}
+
 export type Bounded = {
   readonly slug: string
   readonly page: string

@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { MEASURED_ON, ranOver } from "akasha/check/modules/run-ceiling/run-ceiling.module.code.ts"
+import {
+  auditCeilingOf,
+  MEASURED_ON,
+  ranOver,
+} from "akasha/check/modules/run-ceiling/run-ceiling.module.code.ts"
 import {
   BURNS_AT,
   costing,
@@ -20,6 +24,12 @@ test("the time counted is the check's own together with what the check spawns", 
   const one = { ...GATHERED, checkCeiling: 1 }
   expect(ranOver(one, "check", costing(0.9, 0.05))).toBe(null)
   expect(ranOver(one, "check", costing(0.05, 1.5))?.reason).toContain("spent 1.55 processor")
+})
+
+test("an audit is allowed twice the processor time its page states, for now", () => {
+  expect(auditCeilingOf(15)).toBe(30)
+  expect(auditCeilingOf(0.5)).toBe(1)
+  expect(auditCeilingOf(null)).toBe(null)
 })
 
 test("a group stating no ceiling refuses nothing however long its check runs", () => {
