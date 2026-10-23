@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const pioneerOfTheAbyssADeepseaLivestreamedIsekai0134B2Chapter22 = {
+  id: "01a1674d-d2c2-7e9f-80bd-b73213076544",
+  type: "page-type/story-chapter-read",
+  slug: "pioneer-of-the-abyss-a-deepsea-livestreamed-isekai-0134-b2-chapter-22",
+  position: 134,
+  publishedAt: "2025-11-28",
+  unit: "unit/words",
+  title: "B2 | Chapter 22",
+  story: "story-read/pioneer-of-the-abyss-a-deepsea-livestreamed-isekai",
+  ownLength: 1428,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2801447",
+      externalLink:
+        "https://www.royalroad.com/fiction/115305/pioneer-of-the-abyss-a-deepsea-livestreamed-isekai/chapter/2801447/b2-chapter-22",
+    },
+  ],
+  createdAt: "2026-10-23T05:48:35.905Z",
+  updatedAt: "2026-10-23T05:48:35.905Z",
+} as const satisfies StoryChapterRead
