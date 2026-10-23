@@ -48,6 +48,7 @@ export function sitesIn(bytes: Uint8Array): readonly Site[] {
 }
 
 export function reasonsFor(bytes: Uint8Array): readonly string[] {
+  if (bytes.indexOf(NUL) === -1) return []
   const found = sitesIn(bytes)
   const one = found[0]
   if (one === undefined) return []
