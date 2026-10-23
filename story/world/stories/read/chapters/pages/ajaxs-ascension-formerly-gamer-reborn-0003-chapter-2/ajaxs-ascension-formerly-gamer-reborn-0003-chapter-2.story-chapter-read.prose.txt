@@ -1,0 +1,179 @@
+I wake up to a few rays of sun getting through the window and try to twist my head to get the light out of my eyes when I remember the scene last night and I’m instantly awake.
+
+I tentatively try to pull up my status and sure enough the same thing as last night appears.
+
+Status :
+
+Name : Ajax
+
+Level :1
+
+Experience : 0/100
+
+Traits: Child, Divine Witness
+
+Health: 20/20
+
+Mana: 70/70
+
+Stamina : 10/10
+
+Vitality : 2
+
+Strength : 1
+
+Endurance : 1
+
+Dexterity : 1
+
+Intellect : 25
+
+Wisdom : 16
+
+Mind : 7
+
+Perception : 4
+
+Stat Points : 0
+
+Skills :
+
+As well as something I didn’t see last night. In the small bottom left of my vision is a small blinking dot. I focus on it to see what it may mean and am presented with a message.
+
+“Trait “warning of misfortune” found, trait affects future sight. Future sight is not the domain of mortals, trait forcibly removed.
+
+Removed trait has left a hole, survival without a trait is impossible.
+
+New trait granted by @#$%^. Trait Divine Witness gained. “
+
+I try to think “close” and the message disappears. I also try bringing it up again and find I can’t do it, this leads me to the decision that all actions on my status are permanent.
+
+Next I focus on the trait “Child” and a new message is presented to me.
+
+“Child - Temporary trait
+
+Status points cannot be allocated.
+
+Incremental increase of all stat points by 10 throughout the duration.
+
+Stat points do not affect ageing.
+
+Gaining skills grants Experience.
+
+Levelling skills grants Experience.
+
+Crafting Experience gain stopped.
+
+Killing Experience gain stopped.
+
+Upon expiration or removal Trait Apprentice is gained for half the duration Child has persisted.
+
+Time remaining : 150 cycles. “
+
+Closing that, I focus on my other trait.
+
+“Divine Witness - Permanent trait
+
+Affinity with all skills greatly increased.
+
+Ease of levelling skills increased.
+
+Ease of forcibly gaining stat points slightly increased.
+
+Stat points gained per level increased by 2.
+
+Skill level limits increased by 50.
+
+This trait cannot be forcibly revealed.”
+
+I then try to focus on Health but nothing happens. That seems to be the case for all of my other stats. They come with no explanation, not that I don’t find them self-explanatory.
+
+With that out of the way I reread through my two traits and focus on one part that bothers me when compared to all the games I have ever played: “Ease of forcibly gaining stat points slightly increased.”
+
+I try to figure out what that could mean and my status changes in front of my eyes.
+
+Status :
+
+Name : Ajax
+
+Level :1
+
+Experience : 0/100
+
+Traits: Child, Divine Witness
+
+Health: 20/20
+
+Mana: 70/70
+
+Stamina : 10/10
+
+Vitality : 2.00
+
+Strength : 1.00
+
+Endurance : 1.01
+
+Dexterity : 1.00
+
+Intellect : 25.00
+
+Wisdom : 16.00
+
+Mind : 7.00
+
+Perception : 4.00
+
+Stat Points : 0
+
+Skills :
+
+Ah, I see, so increases in stat points don’t count until they reach a full point but their progress can be tracked, which leads me to my next question, What did I do to increase my Endurance? The only thing that stands out to me is that my stamina went from 5/10 to 10/10.
+
+So simply using and regenerating stamina increases my endurance, that doesn’t seem all that bad.
+
+Reasoning that there is nothing else I can do I start struggling and flexing my legs and arms hoping that by doing so I will not only strengthen my muscles to the point that I can crawl so that I have some mobility but that I also use up some of my stamina.
+
+Sure enough 20 minutes later I am at 1 stamina and too tired to move any more but my mind is still wide awake and alert, so I do the only thing that seems to make sense try to focus on myself so that I can feel for my mana, after all if spending and regaining stamina gains endurance similarly spending and regenerating mana must increase a stat as well.
+
+Two hours later I finally feel a strange energy inside of myself and am jilted out of my concentration. Pulling out my stats now gives me something different :
+
+Status :
+
+Name : Ajax
+
+Level :2
+
+Experience : 50/200
+
+Traits: Child, Divine Witness
+
+Health: 20/20
+
+Mana: 70/70
+
+Stamina : 2/10
+
+Vitality : 2.00
+
+Strength : 1.00
+
+Endurance : 1.01
+
+Dexterity : 1.00
+
+Intellect : 25.00
+
+Wisdom : 16.00
+
+Mind : 7.00
+
+Perception : 4.00
+
+Stat Points : 22
+
+Skills : [Meditation Lvl 2 ][Sense Mana Lvl 1]
+
+The thing I notice is that I no longer need to focus to sense the mana inside of me. I then try using the mana for something but that is where I get stumped, it goes to reason that for something to regenerate it must be used up first but other than feeling my mana I don’t seem to be able to do anything with it.
+
+It takes 5 minutes of exertion to finally get my mana to release from me and am prompted that I have now gained the skill [Mana Expulsion Lvl 1] sadly my focus on releasing mana also helped me release something else. Fuck it, if that's what it takes that's what it takes. So with my victory of having learned how to sense and reduce my mana being left with only 10/70 I give the house the morning wake up cry that I have soiled myself again, all the while thinking that after all my hard work I could go for a meal.
