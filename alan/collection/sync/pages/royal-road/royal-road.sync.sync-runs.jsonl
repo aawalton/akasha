@@ -2073,3 +2073,4 @@
 {"id":"01a16834-ecb5-7be0-b063-dc7740ac81f5","runStartedAt":"2026-10-23T10:01:01.358Z","runStatus":"failed","runCompletedAt":"2026-10-23T10:01:24.370Z","durationMs":23012,"runErrorMessage":"Error: https://www.royalroad.com/account/login answered 520 to aawalton@gmail.com's sign-in and set no .AspNetCore.Identity.Application cookie"}
 {"id":"01a1686e-9e35-754e-8185-ca9911c759f2","runStartedAt":"2026-10-23T11:04:02.350Z","runStatus":"success","runCompletedAt":"2026-10-23T11:52:20.394Z","durationMs":2898044,"createdCount":1088,"updatedCount":3,"skippedCount":89,"failedCount":0}
 {"id":"01a168a3-dcec-76d8-99f6-ee973491f10e","runStartedAt":"2026-10-23T12:02:11.812Z","runStatus":"success","runCompletedAt":"2026-10-23T12:50:29.434Z","durationMs":2897622,"createdCount":1073,"updatedCount":10,"skippedCount":61,"failedCount":0}
+{"id":"01a168d9-9501-7cf4-8497-1bf8b74ae452","runStartedAt":"2026-10-23T13:00:52.345Z","runStatus":"running"}
